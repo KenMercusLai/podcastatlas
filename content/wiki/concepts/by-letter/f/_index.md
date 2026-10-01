@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9239
+wiki_total_pages: 9240
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "FieldworkSexualViolence"
     title: "Fieldwork Sexual Violence"
     url: "/wiki/concepts/fieldworksexualviolence/"
+  - key: "FifthMonarchism"
+    title: "Fifth Monarchism"
+    url: "/wiki/concepts/fifthmonarchism/"
   - key: "FilialPietyLaws"
     title: "Filial Piety Laws"
     url: "/wiki/concepts/filialpietylaws/"

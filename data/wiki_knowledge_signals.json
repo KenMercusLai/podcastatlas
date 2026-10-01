@@ -8775,9 +8775,9 @@
       "url": "/wiki/entities/alfredterry/"
     },
     "AlfredTheGreat": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -8799,6 +8799,13 @@
           "show": "The Rest Is History",
           "title": "250. Alfred the Great: Fury of the Vikings (Part 1)",
           "url": "/wiki/sources/250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463/"
+        },
+        {
+          "episode_file": "GLT3956381618 [GLT3956381618].md",
+          "key": "12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618",
+          "show": "The Rest Is History",
+          "title": "12 Days: Alfred the Great and Pepys' 'Fanatiques'",
+          "url": "/wiki/sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618/"
         }
       ],
       "updated": "2026-09-30",
@@ -12077,9 +12084,9 @@
       "url": "/wiki/concepts/angloportuguesealliance/"
     },
     "AngloSaxonStateFormation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -12101,6 +12108,13 @@
           "show": "The Rest Is History",
           "title": "250. Alfred the Great: Fury of the Vikings (Part 1)",
           "url": "/wiki/sources/250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463/"
+        },
+        {
+          "episode_file": "GLT3956381618 [GLT3956381618].md",
+          "key": "12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618",
+          "show": "The Rest Is History",
+          "title": "12 Days: Alfred the Great and Pepys' 'Fanatiques'",
+          "url": "/wiki/sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618/"
         }
       ],
       "updated": "2026-09-30",
@@ -68169,6 +68183,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/fifthluneasternhan/"
+    },
+    "FifthMonarchism": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT3360112790 [GLT3360112790].md",
+          "key": "333-the-republic-of-britain-life-under-cromwell-glt3360112790",
+          "show": "The Rest Is History",
+          "title": "333: The Republic of Britain: Life under Cromwell",
+          "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        },
+        {
+          "episode_file": "GLT3956381618 [GLT3956381618].md",
+          "key": "12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618",
+          "show": "The Rest Is History",
+          "title": "12 Days: Alfred the Great and Pepys' 'Fanatiques'",
+          "url": "/wiki/sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/fifthmonarchism/"
     },
     "FifthZhongLateHan": {
       "episode_count": 1,
@@ -189837,6 +189874,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/thomaspaine/"
+    },
+    "ThomasVenner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3956381618 [GLT3956381618].md",
+          "key": "12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618",
+          "show": "The Rest Is History",
+          "title": "12 Days: Alfred the Great and Pepys' 'Fanatiques'",
+          "url": "/wiki/sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/thomasvenner/"
     },
     "ThreatChallengeStressReappraisal": {
       "episode_count": 4,

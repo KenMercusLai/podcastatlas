@@ -27379,3 +27379,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 12 Days: Alfred the Great and Pepys' 'Fanatiques'
+
+Added source `12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618`; created `ThomasVenner` and `FifthMonarchism`; and resynthesized `AlfredTheGreat` and `AngloSaxonStateFormation` from their complete preserved evidence inventories. Core synthesis: Alfred's survival at Chippenham and recovery at Edington became politically durable through London, Mercian cooperation, and later dynastic expansion, while Venner's 1661 rising shows that apocalyptic Civil War radicalism survived the Restoration even as armed millenarian politics became marginal. No settled contradiction was adopted. The episode's compressed treaty chronology, Alfred counterfactual, insurgent numbers and performance, and claims about the later redirection of dissent remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,421-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

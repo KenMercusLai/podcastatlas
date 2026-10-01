@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2367
+topic_total_pages: 2368
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4791,6 +4791,9 @@ topic_sources:
   - key: "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095"
     title: "112. 闲聊金庸第一弹：明教竟然今天还存在？"
     url: "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+  - key: "12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618"
+    title: "12 Days: Alfred the Great and Pepys' 'Fanatiques'"
+    url: "/wiki/sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618/"
   - key: "120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218"
     title: "120.蓝狐岛：伟大事业中的雄心与现实"
     url: "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"
