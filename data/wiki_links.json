@@ -847,6 +847,10 @@
     "title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
     "url": "/wiki/sources/20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer-20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer/"
   },
+  "203-american-civil-war-aftermath-legacy-part-4-glt3990109453": {
+    "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
+    "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+  },
   "204-gone-with-the-wind-glt3666140136": {
     "title": "204. Gone with the Wind",
     "url": "/wiki/sources/204-gone-with-the-wind-glt3666140136/"
@@ -4738,6 +4742,10 @@
   "AbrahamBeame": {
     "title": "Abraham Beame",
     "url": "/wiki/entities/abrahambeame/"
+  },
+  "AbrahamLincoln": {
+    "title": "Abraham Lincoln",
+    "url": "/wiki/entities/abrahamlincoln/"
   },
   "Abraxas": {
     "title": "Abraxas / 阿布拉克萨斯",
@@ -16642,6 +16650,10 @@
   "CivilServiceExamSecurityGamble": {
     "title": "Civil-Service Exam Security Gamble / 考编安全豪赌",
     "url": "/wiki/concepts/civilserviceexamsecuritygamble/"
+  },
+  "CivilWarMemoryPoliticalAfterlife": {
+    "title": "Civil War Memory and Political Afterlife",
+    "url": "/wiki/concepts/civilwarmemorypoliticalafterlife/"
   },
   "CivilWarThreatRhetoric": {
     "title": "Civil-War Threat Rhetoric",
@@ -39643,6 +39655,10 @@
     "title": "Jeff Ullman",
     "url": "/wiki/entities/jeffullman/"
   },
+  "JeffersonDavis": {
+    "title": "Jefferson Davis",
+    "url": "/wiki/entities/jeffersondavis/"
+  },
   "JeffersonianLibertyContradiction": {
     "title": "Jeffersonian Liberty Contradiction",
     "url": "/wiki/concepts/jeffersonianlibertycontradiction/"
@@ -40950,6 +40966,10 @@
   "JohnWatson": {
     "title": "John Watson / 华生",
     "url": "/wiki/entities/johnwatson/"
+  },
+  "JohnWilkesBooth": {
+    "title": "John Wilkes Booth",
+    "url": "/wiki/entities/johnwilkesbooth/"
   },
   "JohnnyFidelisSantos": {
     "title": "Johnny Fidelis Santos",
@@ -62327,6 +62347,10 @@
     "title": "Recommendation System Productization",
     "url": "/wiki/concepts/recommendationsystemproductization/"
   },
+  "ReconstructionConstitutionalAfterlife": {
+    "title": "Reconstruction Constitutional Afterlife",
+    "url": "/wiki/concepts/reconstructionconstitutionalafterlife/"
+  },
   "ReconstructionRollback": {
     "title": "Reconstruction Rollback",
     "url": "/wiki/concepts/reconstructionrollback/"
@@ -64022,6 +64046,10 @@
   "RobertDudley": {
     "title": "Robert Dudley / Earl of Leicester",
     "url": "/wiki/entities/robertdudley/"
+  },
+  "RobertELee": {
+    "title": "Robert E. Lee",
+    "url": "/wiki/entities/robertelee/"
   },
   "RobertFKennedy": {
     "title": "Robert F. Kennedy",
@@ -76218,6 +76246,10 @@
   "UltrasoundExamPreparationAndSafety": {
     "title": "Ultrasound Exam Preparation and Safety / 超声检查准备与安全",
     "url": "/wiki/concepts/ultrasoundexampreparationandsafety/"
+  },
+  "UlyssesSGrant": {
+    "title": "Ulysses S. Grant",
+    "url": "/wiki/entities/ulyssessgrant/"
   },
   "UmayyadCaliphate": {
     "title": "Umayyad Caliphate",

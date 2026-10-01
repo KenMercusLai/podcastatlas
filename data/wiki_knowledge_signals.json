@@ -4835,6 +4835,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/abrahambeame/"
     },
+    "AbrahamLincoln": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3990109453 [GLT3990109453].md",
+          "key": "203-american-civil-war-aftermath-legacy-part-4-glt3990109453",
+          "show": "The Rest Is History",
+          "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
+          "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/abrahamlincoln/"
+    },
     "AbsoluteGuaranteeTrap": {
       "episode_count": 1,
       "show_count": 1,
@@ -5651,9 +5667,9 @@
       "url": "/wiki/entities/adamgrant/"
     },
     "AdamIPSmith": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1619660676 [GLT1619660676].md",
@@ -5675,9 +5691,16 @@
           "show": "The Rest Is History",
           "title": "347: The American Revolution (Part 1)",
           "url": "/wiki/sources/347-the-american-revolution-part-1-glt3042850673/"
+        },
+        {
+          "episode_file": "GLT3990109453 [GLT3990109453].md",
+          "key": "203-american-civil-war-aftermath-legacy-part-4-glt3990109453",
+          "show": "The Rest Is History",
+          "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
+          "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/adamipsmith/"
     },
     "AddedFreeSugarDistinction": {
@@ -10938,6 +10961,29 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/andrewhuberman/"
+    },
+    "AndrewJohnson": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "173.弹劾：如何罢免一位总统 [963141809].md",
+          "key": "173-tanhe-ruhe-bamian-yiwei-zongtong-963141809",
+          "show": "蜜獾吃书",
+          "title": "173.弹劾：如何罢免一位总统",
+          "url": "/wiki/sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809/"
+        },
+        {
+          "episode_file": "GLT3990109453 [GLT3990109453].md",
+          "key": "203-american-civil-war-aftermath-legacy-part-4-glt3990109453",
+          "show": "The Rest Is History",
+          "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
+          "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/andrewjohnson/"
     },
     "AndrewLoogOldham": {
       "episode_count": 1,
@@ -34328,6 +34374,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/civilserviceexamsecuritygamble/"
+    },
+    "CivilWarMemoryPoliticalAfterlife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3990109453 [GLT3990109453].md",
+          "key": "203-american-civil-war-aftermath-legacy-part-4-glt3990109453",
+          "show": "The Rest Is History",
+          "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
+          "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/civilwarmemorypoliticalafterlife/"
     },
     "CivilWarThreatRhetoric": {
       "episode_count": 1,
@@ -98091,6 +98153,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/jeffdean/"
     },
+    "JeffersonDavis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3990109453 [GLT3990109453].md",
+          "key": "203-american-civil-war-aftermath-legacy-part-4-glt3990109453",
+          "show": "The Rest Is History",
+          "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
+          "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/jeffersondavis/"
+    },
     "JeffersonianLibertyContradiction": {
       "episode_count": 2,
       "show_count": 1,
@@ -100959,6 +101037,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/johnthefearless/"
+    },
+    "JohnWilkesBooth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3990109453 [GLT3990109453].md",
+          "key": "203-american-civil-war-aftermath-legacy-part-4-glt3990109453",
+          "show": "The Rest Is History",
+          "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
+          "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/johnwilkesbooth/"
     },
     "JointSupplementTreatmentBoundary": {
       "episode_count": 1,
@@ -115065,9 +115159,9 @@
       "url": "/wiki/concepts/lossofcontroleating/"
     },
     "LostCauseMyth": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3666140136 [GLT3666140136].md",
@@ -115075,6 +115169,13 @@
           "show": "The Rest Is History",
           "title": "204. Gone with the Wind",
           "url": "/wiki/sources/204-gone-with-the-wind-glt3666140136/"
+        },
+        {
+          "episode_file": "GLT3990109453 [GLT3990109453].md",
+          "key": "203-american-civil-war-aftermath-legacy-part-4-glt3990109453",
+          "show": "The Rest Is History",
+          "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
+          "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
         }
       ],
       "updated": "2026-10-01",
@@ -153315,10 +153416,26 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/recognitiondrivenworkplaceconformity/"
     },
-    "ReconstructionRollback": {
+    "ReconstructionConstitutionalAfterlife": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3990109453 [GLT3990109453].md",
+          "key": "203-american-civil-war-aftermath-legacy-part-4-glt3990109453",
+          "show": "The Rest Is History",
+          "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
+          "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/reconstructionconstitutionalafterlife/"
+    },
+    "ReconstructionRollback": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3666140136 [GLT3666140136].md",
@@ -153326,6 +153443,13 @@
           "show": "The Rest Is History",
           "title": "204. Gone with the Wind",
           "url": "/wiki/sources/204-gone-with-the-wind-glt3666140136/"
+        },
+        {
+          "episode_file": "GLT3990109453 [GLT3990109453].md",
+          "key": "203-american-civil-war-aftermath-legacy-part-4-glt3990109453",
+          "show": "The Rest Is History",
+          "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
+          "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
         }
       ],
       "updated": "2026-10-01",
@@ -157745,6 +157869,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/robertcolls/"
+    },
+    "RobertELee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3990109453 [GLT3990109453].md",
+          "key": "203-american-civil-war-aftermath-legacy-part-4-glt3990109453",
+          "show": "The Rest Is History",
+          "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
+          "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/robertelee/"
     },
     "RobertFKennedy": {
       "episode_count": 2,
@@ -185932,6 +186072,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/ultrasoundexampreparationandsafety/"
+    },
+    "UlyssesSGrant": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3990109453 [GLT3990109453].md",
+          "key": "203-american-civil-war-aftermath-legacy-part-4-glt3990109453",
+          "show": "The Rest Is History",
+          "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
+          "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/ulyssessgrant/"
     },
     "UmayyadCaliphate": {
       "episode_count": 3,

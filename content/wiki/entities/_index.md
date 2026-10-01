@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11716
+wiki_total_pages: 11721
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "AbrahamBeame"
     title: "Abraham Beame"
     url: "/wiki/entities/abrahambeame/"
+  - key: "AbrahamLincoln"
+    title: "Abraham Lincoln"
+    url: "/wiki/entities/abrahamlincoln/"
   - key: "Abraxas"
     title: "Abraxas / 阿布拉克萨斯"
     url: "/wiki/entities/abraxas/"

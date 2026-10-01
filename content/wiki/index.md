@@ -3375,8 +3375,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [209. Londinium (Part 1)](sources/209-londinium-part-1-glt8659020002.md) — The Rest Is History walking tour of Roman London's geographic rise, Boudiccan destruction, civic and religious archaeology, fragmentary survival, and late decline.
 
 - [Optimize & Control Your Brain Chemistry to Improve Health & Performance](sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946.md) — Huberman Lab solo episode on dopamine, epinephrine, acetylcholine, serotonin, daily-state timing, behavioral foundations, and medical boundaries.
+- [203. American Civil War: Aftermath & Legacy (Part 4)](sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453.md) — The Rest Is History episode on Appomattox, Lincoln's assassination, Reconstruction, the Fourteenth Amendment, Lost Cause memory, and modern polarization.
 
 ## Entities
+- [Abraham Lincoln](entities/AbrahamLincoln.md) — Union president whose assassination removed a skilled postwar leader and fixed his memory as a national martyr.
+- [Robert E. Lee](entities/RobertELee.md) — Confederate commander whose Appomattox surrender and resources explanation shaped contested Lost Cause memory.
+- [Ulysses S. Grant](entities/UlyssesSGrant.md) — Union commander whose lenient Appomattox terms ended fighting without settling postwar racial politics.
+- [Jefferson Davis](entities/JeffersonDavis.md) — Confederate president whose postwar constitutional defense displaced slavery in the public explanation of secession.
+- [John Wilkes Booth](entities/JohnWilkesBooth.md) — Lincoln's assassin, linked by the episode to opposition to Black voting rights and Reconstruction's leadership rupture.
 - [Gone with the Wind](entities/GoneWithTheWind.md) — Novel and film whose romance, survival story, and spectacle carried Lost Cause racial mythology into mass culture.
 - [Margaret Mitchell](entities/MargaretMitchell.md) — Author whose family inheritance informs the episode's account of plantation-loss memory in Gone with the Wind.
 - [Hattie McDaniel](entities/HattieMcDaniel.md) — Oscar-winning actor whose landmark recognition coexisted with exclusion under segregation.
@@ -15129,8 +15135,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lucile Desmoulins](entities/LucileDesmoulins.md) — Camille Desmoulins's wife, falsely implicated in a prison plot and executed after the Dantonist trial.
 
 ## Concepts
-- [Lost Cause Myth](concepts/LostCauseMyth.md) — Nostalgic Confederate memory that turns slavery and defeat into gallantry, plantation loss, and white victimhood.
-- [Reconstruction Rollback](concepts/ReconstructionRollback.md) — Defeat of multiracial democracy through organized violence, institutional complicity, federal retreat, disenfranchisement, and segregation.
+- [Reconstruction Constitutional Afterlife](concepts/ReconstructionConstitutionalAfterlife.md) — Survival of citizenship and equality principles after Reconstruction's political coalition and protective capacity collapsed.
+- [Civil War Memory and Political Afterlife](concepts/CivilWarMemoryPoliticalAfterlife.md) — Persistence of Civil War conflicts through commemoration, popular culture, party alignment, and disputes over race, citizenship, and authority.
+- [Lost Cause Myth](concepts/LostCauseMyth.md) — Confederate memory that replaces slavery and rebellion with honor, states' rights, resource imbalance, and white victimhood.
+- [Reconstruction Rollback](concepts/ReconstructionRollback.md) — Defeat of secure multiracial democracy through violence, institutional complicity, shallow federal commitment, exclusion, and segregation.
 - [Problematic Classic Contextualization](concepts/ProblematicClassicContextualization.md) — Practice of preserving access to an influential work while confronting its distortions, harms, exclusions, and effects.
 - [British Constitutional Conventions](concepts/BritishConstitutionalConventions.md) — Unwritten but politically enforceable expectations governing confidence, restraint, and transfer of power in Britain's parliamentary system.
 - [Political Role Adaptability](concepts/PoliticalRoleAdaptability.md) — Capacity to shift credibly among campaign, communication, administrative, crisis, and constitutional leadership roles.

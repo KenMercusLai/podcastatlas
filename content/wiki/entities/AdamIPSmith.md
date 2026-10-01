@@ -1,12 +1,13 @@
 ---
 title: "Adam I. P. Smith"
 type: entity
-tags: [person, historian, united-states, american-revolution]
+tags: [person, historian, united-states, american-revolution, american-civil-war]
 sources:
   - 350-the-triumph-of-george-washington-part-4-glt1619660676
   - 348-the-boston-tea-party-part-2-glt5189620267
   - 347-the-american-revolution-part-1-glt3042850673
-last_updated: 2026-09-28
+  - 203-american-civil-war-aftermath-legacy-part-4-glt3990109453
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,52 +15,60 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Adam I. P. Smith is the historian guest who interprets the [[AmericanRevolution|American Revolution]] as an escalating constitutional crisis, military and civil conflict, and global war with uneven political consequences.
+Adam I. P. Smith is a historian guest who interprets the American Revolution and Civil War as contingent political struggles whose military outcomes redistributed liberty unevenly and left enduring constitutional and memory conflicts.
 
 ## Current Profile
 
-Across the three episodes Smith resists patriotic inevitability and blanket dismissal. He begins with prosperous colonies accustomed to practical self-government and treats the [[SevenYearsWar|Seven Years' War]] as the hinge that joined British debt, frontier security, troops, revenue, and enforcement to [[ImperialConstitutionalMismatch|incompatible constitutional assumptions]]. He then places genuine colonial grievance beside monopoly, elite interest, intimidation, anti-Catholicism, slavery, and continued loyalty to the king. The [[CoerciveActs|Coercive Acts]] narrow compromise, fighting exposes Britain's distance and political-control problem, and [[LordDunmoresProclamation|Dunmore's proclamation]] reveals slavery inside the liberty movement. Endurance and foreign intervention carry the war to [[Yorktown]], where expanded white male participation remains beside women's constrained gains, Native dispossession, Black Loyalist vulnerability, abolitionist momentum, and postwar state-building.
+Across the American Revolution episodes, Smith resists both patriotic inevitability and blanket dismissal. Prosperous colonies accustomed to practical self-government enter an escalating [[ImperialConstitutionalMismatch|constitutional conflict]] after the [[SevenYearsWar|Seven Years' War]] joins debt, frontier security, troops, taxation, and enforcement. He places genuine grievance beside monopoly, elite interest, intimidation, anti-Catholicism, slavery, and continued loyalty; then treats victory as the result of army endurance and foreign intervention inside a global war. Expanded white male participation remains beside women's constrained gains, Native dispossession, Black Loyalist vulnerability, abolitionist momentum, and postwar state-building.
+
+[[203-american-civil-war-aftermath-legacy-part-4-glt3990109453]] extends the same method into Civil War aftermath. Smith distinguishes military surrender from political settlement, the Fourteenth Amendment's durable citizenship transformation from Reconstruction's protection failure, and historical event from later memory. He treats the [[LostCauseMyth|Lost Cause]] and Union liberty story as rival simplifications but not equivalent ones, then reads modern monument conflict and party polarization as evidence that questions of rule, belonging, and authority remain active.
 
 ## Key Characteristics
 
-- Historian presented as a recurring specialist in American history.
-- Treats revolution as contingent escalation rather than a preformed independence movement.
-- Frames the Revolution as three overlapping wars rather than one bilateral contest.
-- Connects military outcomes to households, empire, finance, naval strategy, and political legitimacy.
-- Uses counterfactuals cautiously while rejecting inevitability.
-- Argues for an inclusive national origin story that retains both liberty and slavery.
+- Treats revolution, civil war, and constitutional change as contingent rather than inevitable.
+- Connects military outcomes to households, empire, finance, coalition power, political legitimacy, and public will.
+- Keeps expansions of liberty beside slavery, racial power, Native dispossession, gender exclusion, and coercion.
+- Distinguishes formal constitutional achievement from practical enforcement and lived protection.
+- Reconstructs historical actors' political language while acknowledging that historians write from present conflicts.
+- Uses counterfactuals and historical analogies cautiously, preserving uncertainty and asymmetry.
 
 ## Evidence
 
-- War structure: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] attributes to Smith the three-war frame joining the Continental campaign, Patriot-Loyalist civil conflict, and global war.
-- Coalition outcome: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] uses his account of French and Spanish intervention, Caribbean priorities, and Yorktown's blockade.
-- Uneven liberty: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] records his contrast among white male gains, limited women's enfranchisement, Native losses, Black Loyalists, and abolitionism.
-- Founding memory: [[350-the-triumph-of-george-washington-part-4-glt1619660676]] presents his view that a viable U.S. origin story must become more inclusive without reducing the Revolution to a single slavery-defense motive.
-- Escalation analysis: [[348-the-boston-tea-party-part-2-glt5189620267]] attributes to Smith the movement from commercial policy and competing British liberties through coercion, congress, and open fighting.
-- British strategy: [[348-the-boston-tea-party-part-2-glt5189620267]] uses his account of supply, command, terrain, and political control to explain why taking cities or ground was insufficient.
-- Slavery before independence: [[348-the-boston-tea-party-part-2-glt5189620267]] records his qualified treatment of Dunmore's proclamation and white Virginia's response.
-- Prewar structure: [[347-the-american-revolution-part-1-glt3042850673]] attributes to Smith the post-1763 sequence from imperial victory and debt through frontier control, troops, taxation, and resistance.
-- Constitutional contingency: [[347-the-american-revolution-part-1-glt3042850673]] presents his argument that parliamentary sovereignty and colonial self-government collided without making independence inevitable in 1770.
-- Atlantic perspective: [[347-the-american-revolution-part-1-glt3042850673]] uses his comparison of mainland colonies, Quebec, and the Caribbean to resist treating the thirteen colonies as Britain's only imperial priority.
+### Contingency and escalation
+
+- [[347-the-american-revolution-part-1-glt3042850673]] attributes to Smith the collision between parliamentary sovereignty and colonial self-government without making independence inevitable in 1770.
+- [[348-the-boston-tea-party-part-2-glt5189620267]] follows commercial policy, coercion, congress, fighting, and Dunmore's proclamation as reciprocal escalation rather than a prewritten independence path.
+
+### War as coalition and political struggle
+
+- [[350-the-triumph-of-george-washington-part-4-glt1619660676]] records Smith's three-war frame and his account of French and Spanish intervention, Caribbean priorities, Yorktown, and unequal postwar gains.
+- [[203-american-civil-war-aftermath-legacy-part-4-glt3990109453]] separates Appomattox's military peace from the unresolved racial and constitutional settlement.
+
+### Uneven liberty and constitutional afterlife
+
+- [[350-the-triumph-of-george-washington-part-4-glt1619660676]] contrasts expanded white male politics with women's limits, Native loss, Black Loyalist vulnerability, and abolitionist momentum.
+- [[203-american-civil-war-aftermath-legacy-part-4-glt3990109453]] calls Reconstruction unfinished revolution because the Fourteenth Amendment survived the collapse of secure biracial democracy.
+
+### Historical memory and present relevance
+
+- [[203-american-civil-war-aftermath-legacy-part-4-glt3990109453]] attributes to Smith the distinction between Confederate and Union myths, the “sleeping history” of monuments, and the conditional warning from aligned modern cleavages.
 
 ## Qualifications
 
-This profile is bounded to three retrospective podcast episodes. They summarize Smith's judgments without supplying the full scholarly apparatus behind every military, constitutional, fiscal, causal, or counterfactual claim, and he must not be confused with the eighteenth-century economist [[AdamSmith|Adam Smith / 亚当·斯密]].
+This profile is bounded to four retrospective podcast episodes. They summarize Smith's judgments without the full scholarly apparatus behind every military, constitutional, causal, memory, or counterfactual claim. The Civil War episode's assessment of Lincoln versus Johnson, required occupation, Confederate stigma, party alignment, and the 1850s analogy remain interpretations rather than settled forecasts. He must not be confused with the eighteenth-century economist [[AdamSmith|Adam Smith / 亚当·斯密]].
 
 ## What Changed
 
-- Extended Smith's contingency argument backward to the Seven Years' War settlement and the 1770 Boston crisis.
-- Added the fiscal-security and incompatible-sovereignty mechanisms behind later revolutionary escalation.
+- Extended Smith's profile from the American Revolution to Civil War Reconstruction and memory.
+- Added his distinction between constitutional achievement and failed practical protection.
+- Added his method for handling present-conscious history and bounded political analogy.
 
 ## Relationships
 
-- [[TheRestIsHistory]] - podcast on which Smith appears as guest.
-- [[AmericanRevolution]] - principal historical subject of his analysis.
-- [[Yorktown]] - campaign he interprets through coalition and global-war conditions.
-- [[AmericanRevolutionGlobalWar]] - three-war and imperial frame he supplies.
-- [[ContestedAmericanFoundingMyth]] - public-memory debate he addresses.
-- [[NoTaxationWithoutRepresentation]] - constitutional claim he treats as substantively grounded.
-- [[LordDunmoresProclamation]] - emancipation tactic whose importance he qualifies rather than dismisses.
-- [[ImperialConstitutionalMismatch]] - prewar authority conflict central to his explanation.
-- [[PostwarImperialFiscalSecurityBind]] - mechanism joining victory, debt, troops, frontier control, and revenue.
+- [[TheRestIsHistory]] - podcast on which Smith appears as a recurring American-history specialist.
+- [[AmericanRevolution]] - founding conflict he interprets through constitutional escalation, global war, and unequal outcomes.
+- [[LostCauseMyth]] - Confederate memory structure he contrasts with the Union liberty story.
+- [[ReconstructionConstitutionalAfterlife]] - durable constitutional transformation central to his unfinished-revolution frame.
+- [[CivilWarMemoryPoliticalAfterlife]] - present political activation of nineteenth-century conflict.
+- [[HistoricalMemoryContest]] - wider struggle over national myths and public institutions.
 - [[AdamSmith]] - distinct namesake requiring explicit identity separation.

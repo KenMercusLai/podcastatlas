@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11716
+wiki_total_pages: 11721
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "JeffUllman"
     title: "Jeff Ullman"
     url: "/wiki/entities/jeffullman/"
+  - key: "JeffersonDavis"
+    title: "Jefferson Davis"
+    url: "/wiki/entities/jeffersondavis/"
   - key: "JeffreyBrotman"
     title: "Jeffrey Brotman"
     url: "/wiki/entities/jeffreybrotman/"
@@ -929,6 +932,9 @@ wiki_pages:
   - key: "JohnWatson"
     title: "John Watson / 华生"
     url: "/wiki/entities/johnwatson/"
+  - key: "JohnWilkesBooth"
+    title: "John Wilkes Booth"
+    url: "/wiki/entities/johnwilkesbooth/"
   - key: "JohnnyFidelisSantos"
     title: "Johnny Fidelis Santos"
     url: "/wiki/entities/johnnyfidelissantos/"
