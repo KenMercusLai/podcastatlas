@@ -7,6 +7,7 @@ sources:
   - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
   - 196-julius-caesar-cleopatra-part-2-glt3216275988
   - 135-crossing-the-rubicon-the-die-is-cast-glt1750785311
+  - 134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -22,6 +23,8 @@ Pompey / 庞培 is the wiki's Roman example of a glamorous commander whose caree
 The Caesar sources present Pompey as Caesar's ally turned civil-war rival. In the [[FirstTriumvirate]], the Lucca settlement gives him Spain while renewing Caesar's Gallic command and sending [[MarcusLiciniusCrassus]] to Syria. Julia's marriage to Pompey and Crassus's third position help contain rivalry; their deaths remove those restraints. Pompey wants to preserve Caesar's friendship but also the legitimacy of senatorial constitutionalists, and by 51-50 BC he demands that Caesar surrender command and accepts the role of defender of the republic. After failed reciprocal-disarmament bargaining, Caesar crosses the Rubicon and later defeats him at Pharsalus. [[196-julius-caesar-cleopatra-part-2-glt3216275988]] follows his flight to Egypt, where advisers of [[PtolemyXIII|Ptolemy XIII]] murder him while trying to avoid choosing between Roman factions. His memory also shapes the [[CaesarAssassination|assassination scene]] because Caesar is killed at Pompey's Curia.
 
 Episode 704 moves Pompey backward into the Sullan civil war. As the young son of [[GnaeusPompeiusStrabo]], he raises a private army in Picenum, defeats Marian armies, and joins [[LuciusCorneliusSulla]] before holding the offices normally expected of a Roman commander. Sulla accepts the illegal army because civil war rewards useful force. Pompey's later commands in Sicily and Africa, executions without due process, refusal to disband, and demand for a triumph show him learning the new Sullan lesson: charisma, troops, victory, and audacity can accelerate a career beyond republican seniority.
+
+Episode 134 fills part of the missing mature career. Pompey models himself on Alexander, receives extraordinary eastern command, returns with immense wealth, and seeks land for his veterans plus ratification of his settlement. Senatorial obstruction pushes him toward Crassus and then Caesar, whose consulship delivers the blocked measures. Pompey's desire for elite acceptance therefore coexists with a career built by repeatedly bypassing elite norms.
 
 ## Key Characteristics
 
@@ -44,16 +47,17 @@ Episode 704 moves Pompey backward into the Sullan civil war. As the young son of
 - Ruthless command: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Pompey executes a Marian commander without due process in Sicily and receives the hostile nickname "teenage butcher."
 - Status acceleration: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Pompey refuses to disband and demands a triumph despite being only 25.
 - Lucca-to-Rubicon sequence: [[135-crossing-the-rubicon-the-die-is-cast-glt1750785311]] traces Pompey from renewed command-sharing through the loss of Julia and Crassus, senatorial alignment, disarmament demands, and the failed compromise before Caesar's crossing.
+- Eastern-command settlement: [[134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977]] connects Pompey's Alexander image, eastern victories, veteran land request, settlement ratification, senatorial obstruction, and alliance with Crassus and Caesar.
 
 ## Qualifications
 
-The current evidence now supplies the final 50s BC political sequence but still lacks a continuous biography through Sertorius, Spartacus, the pirates, and the eastern settlement. Pompey's private motives, the sincerity and timing of his constitutional alignment, alternative compromise terms, the Egyptian council debate, his final demeanor, Caesar's grief, and Jewish interpretations of his death remain later or source-scoped traditions.
+The current evidence now supplies the eastern settlement and final 50s BC political sequence but still lacks a continuous biography through Sertorius, Spartacus, and the pirates. Pompey's private motives, the depth of his desire for senatorial acceptance, the sincerity and timing of his constitutional alignment, alternative compromise terms, the Egyptian council debate, his final demeanor, Caesar's grief, and Jewish interpretations of his death remain later or source-scoped traditions.
 
 ## What Changed
 
-- Added the Lucca command settlement and the deaths of Julia and Crassus as changes in Pompey's alliance structure.
-- Clarified his attempt to combine Caesar's friendship with senatorial constitutional legitimacy.
-- Connected his disarmament demand and defender-of-the-republic role to the failed compromise before the Rubicon.
+- Added Pompey's eastern victories, wealth, veterans' land request, and blocked settlement ratification.
+- Connected senatorial obstruction to his original alliance with Crassus and Caesar.
+- Extended the tension between convention-breaking command and desire for elite acceptance.
 
 ## Relationships
 

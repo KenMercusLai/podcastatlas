@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [134. Crossing the Rubicon: The rise of Julius Caesar](sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977.md) — The Rest Is History on republican anti-monarchical structure, Marius and Sulla's precedents, Pompey and Crassus's rise, and Caesar's popular politics and Gallic command.
 - [Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman](sources/breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802.md) — Huberman Lab interview on respiratory rhythm generation, sigh physiology, gas balance, breath-brain pathways, practical breathwork, and evidence limits.
 - [135. Crossing the Rubicon: The die is cast](sources/135-crossing-the-rubicon-the-die-is-cast-glt1750785311.md) — The Rest Is History on Caesar's Gallic command, legal vulnerability, the collapse of the First Triumvirate, Pompeian-senatorial alignment, and the Rubicon as civil-war threshold and enduring metaphor.
 - [136. 1922: The Birth of the Modern World Part 1](sources/136-1922-the-birth-of-the-modern-world-part-1-glt1607440485.md) — The Rest Is History on literary modernism, Weimar crisis, Mussolini's appointment, Soviet formation, and the fearful postwar order of 1922.

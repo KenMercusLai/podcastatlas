@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2366
+topic_total_pages: 2367
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4806,6 +4806,9 @@ topic_sources:
   - key: "133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110"
     title: "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义"
     url: "/wiki/sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110/"
+  - key: "134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977"
+    title: "134. Crossing the Rubicon: The rise of Julius Caesar"
+    url: "/wiki/sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977/"
   - key: "135-crossing-the-rubicon-the-die-is-cast-glt1750785311"
     title: "135. Crossing the Rubicon: The die is cast"
     url: "/wiki/sources/135-crossing-the-rubicon-the-die-is-cast-glt1750785311/"

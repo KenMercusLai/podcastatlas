@@ -43084,9 +43084,9 @@
       "url": "/wiki/concepts/crosssymbolicinversion/"
     },
     "CrossingOfTheRubicon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1750785311 [GLT1750785311].md",
@@ -43094,6 +43094,13 @@
           "show": "The Rest Is History",
           "title": "135. Crossing the Rubicon: The die is cast",
           "url": "/wiki/sources/135-crossing-the-rubicon-the-die-is-cast-glt1750785311/"
+        },
+        {
+          "episode_file": "GLT1501343977 [GLT1501343977].md",
+          "key": "134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977",
+          "show": "The Rest Is History",
+          "title": "134. Crossing the Rubicon: The rise of Julius Caesar",
+          "url": "/wiki/sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977/"
         }
       ],
       "updated": "2026-10-02",
@@ -68658,9 +68665,9 @@
       "url": "/wiki/entities/firstsouthwestbank/"
     },
     "FirstTriumvirate": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1750785311 [GLT1750785311].md",
@@ -68668,6 +68675,13 @@
           "show": "The Rest Is History",
           "title": "135. Crossing the Rubicon: The die is cast",
           "url": "/wiki/sources/135-crossing-the-rubicon-the-die-is-cast-glt1750785311/"
+        },
+        {
+          "episode_file": "GLT1501343977 [GLT1501343977].md",
+          "key": "134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977",
+          "show": "The Rest Is History",
+          "title": "134. Crossing the Rubicon: The rise of Julius Caesar",
+          "url": "/wiki/sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977/"
         }
       ],
       "updated": "2026-10-02",
@@ -74639,9 +74653,9 @@
       "url": "/wiki/entities/gaiuscassiuslonginus/"
     },
     "GaiusMarius": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -74677,9 +74691,16 @@
           "show": "The Rest Is History",
           "title": "704. Roman Civil War: Master of the Republic (Part 4)",
           "url": "/wiki/sources/704-roman-civil-war-master-of-the-republic-part-4-glt9669112656/"
+        },
+        {
+          "episode_file": "GLT1501343977 [GLT1501343977].md",
+          "key": "134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977",
+          "show": "The Rest Is History",
+          "title": "134. Crossing the Rubicon: The rise of Julius Caesar",
+          "url": "/wiki/sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/gaiusmarius/"
     },
     "GaiusMariusYounger": {
@@ -106451,9 +106472,9 @@
       "url": "/wiki/entities/juliettebruce/"
     },
     "JuliusCaesar": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -106496,6 +106517,13 @@
           "show": "The Rest Is History",
           "title": "135. Crossing the Rubicon: The die is cast",
           "url": "/wiki/sources/135-crossing-the-rubicon-the-die-is-cast-glt1750785311/"
+        },
+        {
+          "episode_file": "GLT1501343977 [GLT1501343977].md",
+          "key": "134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977",
+          "show": "The Rest Is History",
+          "title": "134. Crossing the Rubicon: The rise of Julius Caesar",
+          "url": "/wiki/sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977/"
         }
       ],
       "updated": "2026-10-02",
@@ -110725,9 +110753,9 @@
       "url": "/wiki/concepts/latemedievalsalvationsystem/"
     },
     "LateRomanRepublicCrisis": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -110784,6 +110812,13 @@
           "show": "The Rest Is History",
           "title": "135. Crossing the Rubicon: The die is cast",
           "url": "/wiki/sources/135-crossing-the-rubicon-the-die-is-cast-glt1750785311/"
+        },
+        {
+          "episode_file": "GLT1501343977 [GLT1501343977].md",
+          "key": "134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977",
+          "show": "The Rest Is History",
+          "title": "134. Crossing the Rubicon: The rise of Julius Caesar",
+          "url": "/wiki/sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977/"
         }
       ],
       "updated": "2026-10-02",
@@ -121519,9 +121554,9 @@
       "url": "/wiki/entities/luciuscorneliuscinna/"
     },
     "LuciusCorneliusSulla": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -121557,9 +121592,16 @@
           "show": "The Rest Is History",
           "title": "704. Roman Civil War: Master of the Republic (Part 4)",
           "url": "/wiki/sources/704-roman-civil-war-master-of-the-republic-part-4-glt9669112656/"
+        },
+        {
+          "episode_file": "GLT1501343977 [GLT1501343977].md",
+          "key": "134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977",
+          "show": "The Rest Is History",
+          "title": "134. Crossing the Rubicon: The rise of Julius Caesar",
+          "url": "/wiki/sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/luciuscorneliussulla/"
     },
     "LucyHughesHallett": {
@@ -125498,9 +125540,9 @@
       "url": "/wiki/entities/marcusbrutus/"
     },
     "MarcusLiciniusCrassus": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -125522,6 +125564,13 @@
           "show": "The Rest Is History",
           "title": "135. Crossing the Rubicon: The die is cast",
           "url": "/wiki/sources/135-crossing-the-rubicon-the-die-is-cast-glt1750785311/"
+        },
+        {
+          "episode_file": "GLT1501343977 [GLT1501343977].md",
+          "key": "134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977",
+          "show": "The Rest Is History",
+          "title": "134. Crossing the Rubicon: The rise of Julius Caesar",
+          "url": "/wiki/sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977/"
         }
       ],
       "updated": "2026-10-02",
@@ -131536,9 +131585,9 @@
       "url": "/wiki/concepts/militarymoraleascombatcapacity/"
     },
     "MilitaryPersonalization": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 3,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》134｜你不知道的“破釜沉舟”版本 [ltnry1fva2HZPLW4ft8NRFpOIoLW].md",
@@ -131602,6 +131651,13 @@
           "show": "The Rest Is History",
           "title": "135. Crossing the Rubicon: The die is cast",
           "url": "/wiki/sources/135-crossing-the-rubicon-the-die-is-cast-glt1750785311/"
+        },
+        {
+          "episode_file": "GLT1501343977 [GLT1501343977].md",
+          "key": "134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977",
+          "show": "The Rest Is History",
+          "title": "134. Crossing the Rubicon: The rise of Julius Caesar",
+          "url": "/wiki/sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977/"
         }
       ],
       "updated": "2026-10-02",
@@ -151205,9 +151261,9 @@
       "url": "/wiki/entities/pompeii/"
     },
     "Pompey": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -151236,6 +151292,13 @@
           "show": "The Rest Is History",
           "title": "135. Crossing the Rubicon: The die is cast",
           "url": "/wiki/sources/135-crossing-the-rubicon-the-die-is-cast-glt1750785311/"
+        },
+        {
+          "episode_file": "GLT1501343977 [GLT1501343977].md",
+          "key": "134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977",
+          "show": "The Rest Is History",
+          "title": "134. Crossing the Rubicon: The rise of Julius Caesar",
+          "url": "/wiki/sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977/"
         }
       ],
       "updated": "2026-10-02",
@@ -166216,9 +166279,9 @@
       "url": "/wiki/concepts/romanprovincialrevoltescalation/"
     },
     "RomanRepublic": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -166282,6 +166345,13 @@
           "show": "The Rest Is History",
           "title": "135. Crossing the Rubicon: The die is cast",
           "url": "/wiki/sources/135-crossing-the-rubicon-the-die-is-cast-glt1750785311/"
+        },
+        {
+          "episode_file": "GLT1501343977 [GLT1501343977].md",
+          "key": "134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977",
+          "show": "The Rest Is History",
+          "title": "134. Crossing the Rubicon: The rise of Julius Caesar",
+          "url": "/wiki/sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977/"
         }
       ],
       "updated": "2026-10-02",

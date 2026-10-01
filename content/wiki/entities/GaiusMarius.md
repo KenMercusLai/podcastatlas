@@ -8,7 +8,8 @@ sources:
   - 702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089
   - 703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511
   - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
-last_updated: 2026-09-10
+  - 134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,6 +29,8 @@ Episode 704 adds Marius mainly through afterlife. Cinna depends on the Marians, 
 
 Marius's profile is therefore not simply "reformer" or "great general." He is the hinge where merit, emergency, citizenship politics, personal humiliation, command ambition, outlawry, revenge, and factional inheritance strain republican containment from both sides of the Marius-Sulla rivalry.
 
+Episode 134 compresses this arc into the transition from short-term citizen levy to a more professional and commander-attached legionary system. That formulation usefully explains why distant Mediterranean war changed recruitment, service, and loyalty, but it does not settle whether a single coherent “Marian reform” created the later Roman army.
+
 ## Key Characteristics
 
 - Provincial-outsider status made Marius both disadvantaged in elite competition and able to claim plain-soldier authenticity.
@@ -46,18 +49,19 @@ Marius's profile is therefore not simply "reformer" or "great general." He is th
 - Northern victories and office exception: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] records repeated consulships, the defeat of the Teutones near Aix-en-Provence, and the defeat of the Cimbri in northern Italy.
 - Citizenship and Social War link: [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] says Marius illegally granted citizenship to about a thousand Italian allies and later remained active during the Social War.
 - Military personalization prehistory: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] treats Marius's reforms as a shift toward commander loyalty, while [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]], [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]], and [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] trace that problem through command credit, repeated consulships, command seizure, and retaliatory army politics.
+- Professionalization interpretation: [[134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977]] presents long-distance war and Marius's changes as the transition from temporary citizen levy toward the professional legions associated with Rome.
 - Marius-Sulla rivalry: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] presents Sulla's Jugurthine credit claim as the seed, [[702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089]] shows Marius using Sulpicius to remove Sulla from command, and [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] shows Sulla outlawing Marius after marching on Rome.
 - Exile, return, and death: [[703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511]] narrates Marius's escape, Carthage exile image, return from Africa, private army, alliance with Cinna, revenge killings, seventh consulship, and death after two weeks.
 - Factional afterlife: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Cinna depends on the Marians and Marius Younger inherits leadership of the Marian political family before dying at Praeneste.
 
 ## Qualifications
 
-The page preserves source boundaries. Episode 702 treats the "military revolution" label as contested and gives Roman casualty figures for the northern victories as likely exaggerated. Episode 703 uses vivid exile traditions, prophecy, and moralized revenge scenes as narrative evidence for Marius's public memory, not as a complete independent biography of his final months. Episode 704's evidence is posthumous and factional; it should not be read as Marius personally directing events after his death.
+The page preserves source boundaries. Episode 702 treats the "military revolution" label as contested, so episode 134's single-reformer professionalization account remains a useful compression rather than settled chronology. Episode 702 also gives Roman casualty figures for the northern victories as likely exaggerated. Episode 703 uses vivid exile traditions, prophecy, and moralized revenge scenes as narrative evidence for Marius's public memory, not as a complete independent biography of his final months. Episode 704's evidence is posthumous and factional; it should not be read as Marius personally directing events after his death.
 
 ## What Changed
 
-- Added Marius Younger's factional inheritance and collapse as evidence for the posthumous Marian brand.
-- Reframed Marius's legacy as continuing through Cinna's dependence on Marians and his son's accelerated civil-war career.
+- Added the long-distance-war and citizen-levy explanation for army change.
+- Qualified the episode's professionalization claim against the contested “Marian military revolution” label.
 
 ## Relationships
 

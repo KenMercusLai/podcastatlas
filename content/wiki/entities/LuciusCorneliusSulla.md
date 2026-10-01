@@ -8,7 +8,8 @@ sources:
   - 702-roman-civil-war-the-barbarian-invasion-part-2-glt3336491089
   - 703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511
   - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
-last_updated: 2026-09-10
+  - 134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ Episode 702 deepens Sulla's pre-coup career. He is patrician but not securely we
 Episode 703 resolves that threshold by making Sulla the first Roman commander in this sequence to march an army on Rome. His soldiers accept the move because the Mithridatic command promises glory and plunder; most senior officers desert because the norm violation is obvious. Sulla enters Rome, uses force against resistance, posts guards around the Senate, and has Marius, Sulpicius, and allies declared public enemies. He then leaves an unstable Italy for the east, defeats Mithridates's forces, sacks and spares [[Athens]] in a damaging mix, punishes Asia, and accepts a pragmatic treaty because [[LuciusCorneliusCinna]]'s regime has condemned him at home.
 
 Episode 704 completes the arc by making Sulla master of Rome. Cinna dies in a mutiny, [[GaiusMariusYounger]] rises too quickly and is defeated, and the [[Samnites]] nearly take Rome before Sulla and [[MarcusLiciniusCrassus]] win at the Colline Gate. Sulla then stages the Villa Publica massacre, posts [[SullanProscriptions|proscription]] lists, redistributes property to supporters, and accepts an open-ended [[SullanDictatorship|dictatorship]] that he says will restore the republic. His reforms are conservative in aim, but his means are revolutionary: terror, confiscation, extraordinary office, and a precedent later commanders can study.
+
+Episode 134 adds the view from the threatened younger generation. Caesar's Marian marriage alignment makes him a target of Sullan pressure and exile before he returns after Sulla's retirement. The episode reads Caesar's later clemency partly against this terror, while Sulla's voluntary abdication makes him both a warning and, for Caesar, an example of power relinquished too readily.
 
 ## Key Characteristics
 
@@ -52,6 +55,7 @@ Episode 704 completes the arc by making Sulla master of Rome. Cinna dies in a mu
 - Dictatorship and reforms: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Sulla receives an open-ended dictatorship, expands the Senate, limits repeated consulship, sets age minimums, and weakens the tribunate.
 - Abdication and legacy: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Sulla lays down power after two years, while Caesar later judges him foolish for doing so.
 - Civil terror precedent: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] treats Sulla's conflict with Marius and death lists as evidence that republican politics had already become violent before Caesar.
+- Caesar-facing memory: [[134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977]] links Sulla's persecution of the Marian-aligned young Caesar, later retirement, and contrast with Caesarian clemency to Sulla's political afterlife.
 
 ## Qualifications
 
@@ -59,9 +63,8 @@ The page keeps causality mixed. Sulla acts with personal ambition, vengeance, an
 
 ## What Changed
 
-- Added Sulla's return to Italy, Colline Gate victory, Samnite massacre, proscriptions, open-ended dictatorship, reforms, abdication, and Caesar-facing legacy.
-- Reframed Sulla's profile from march-on-Rome precedent to the fuller paradox of terror used in the name of republican restoration.
-- Resolved the prior source gap around dictatorship and proscriptions with episode 704 evidence.
+- Added young Caesar's Marian alignment, persecution, exile, and return as evidence of Sulla's generational impact.
+- Qualified the proposed link between Sullan terror and Caesar's later clemency as interpretation rather than private certainty.
 
 ## Relationships
 

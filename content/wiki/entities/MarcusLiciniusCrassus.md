@@ -6,6 +6,7 @@ sources:
   - 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361
   - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
   - 135-crossing-the-rubicon-the-die-is-cast-glt1750785311
+  - 134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ Marcus Licinius Crassus / 克拉苏 is the wiki's Roman example of wealth, priva
 The Caesar sources present Crassus as the third figure in the [[FirstTriumvirate]] with [[JuliusCaesar]] and [[Pompey]]. His wealth and political position help hold together a personal alliance system. At Lucca he receives Syria, then pursues conquest against the [[ParthianEmpire]] because Roman elite competition increasingly rewards military glory. His catastrophic campaign and death remove a balancing force between Caesar and Pompey.
 
 Episode 704 gives Crassus a Sullan backstory. His father and elder brother are killed during the Marian purge, he flees to Spain, recruits from family clients, returns after [[LuciusCorneliusCinna]]'s death, and joins [[LuciusCorneliusSulla]]. At the Colline Gate, Crassus breaks the Samnite wing and helps secure Sulla's victory. In the [[SullanProscriptions]], he becomes the clearest example of terror turning into acquisition: he adds rich men to the lists for personal gain until Sulla rebukes him publicly.
+
+Episode 134 emphasizes how that fortune operated politically after Sulla. Crassus's property accumulation and private fire-service scheme make wealth itself a power base, but ambition also lets him suspend his rivalry with Pompey when alliance offers greater advantage. Supporting Caesar's consulship gives both older men a vehicle for overcoming senatorial obstruction.
 
 ## Key Characteristics
 
@@ -40,15 +43,16 @@ Episode 704 gives Crassus a Sullan backstory. His father and elder brother are k
 - Colline Gate: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Crassus breaks the Samnite wing while Sulla's own wing nearly collapses.
 - Proscription profiteering: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Crassus adds rich men to proscription lists and is publicly rebuked when the profiteering becomes too blatant.
 - Lucca and Parthia: [[135-crossing-the-rubicon-the-die-is-cast-glt1750785311]] links Crassus's Syrian command and fatal Parthian campaign to elite competition and the collapse of the three-man balance.
+- Wealth and alliance pragmatism: [[134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977]] connects Crassus's fortune, fire-service acquisition story, rivalry with Pompey, and willingness to ally through Caesar to political leverage.
 
 ## Qualifications
 
-The current page still does not synthesize Crassus's full later career, including Spartacus, and the Parthian campaign appears only in compressed form. The molten-gold story, use of his head as a stage prop, motives for eastern conquest, and exact causal weight of his death in the Caesar-Pompey rupture remain literary or source-scoped.
+The current page still does not synthesize Crassus's full later career, including Spartacus, and the Parthian campaign appears only in compressed form. The fire-service acquisition story, molten-gold story, use of his head as a stage prop, motives for eastern conquest, and exact causal weight of his death in the Caesar-Pompey rupture remain literary or source-scoped.
 
 ## What Changed
 
-- Added the Lucca allocation of Syria and Crassus's pursuit of Parthian military glory.
-- Connected his death to the removal of the third pole between Caesar and Pompey without treating it as a sufficient cause of war.
+- Added wealth accumulation and the fire-service story as parts of Crassus's political profile.
+- Connected ambition-driven reconciliation with Pompey to the original Caesar-brokered alliance.
 
 ## Relationships
 
