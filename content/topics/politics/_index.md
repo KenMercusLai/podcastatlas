@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2947
+topic_total_pages: 2949
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -529,6 +529,9 @@ topic_concepts:
   - key: "BritishForeignPolicyAmbiguity1914"
     title: "British Foreign-Policy Ambiguity in 1914"
     url: "/wiki/concepts/britishforeignpolicyambiguity1914/"
+  - key: "BritishGeneralElection1983"
+    title: "British General Election 1983"
+    url: "/wiki/concepts/britishgeneralelection1983/"
   - key: "BritishMediaExclusionOnlineAmplification"
     title: "British Media Exclusion Online Amplification"
     url: "/wiki/concepts/britishmediaexclusiononlineamplification/"
@@ -7797,6 +7800,9 @@ topic_sources:
   - key: "161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm"
     title: "161. 全球宏观和资本市场2026一季度复盘与展望"
     url: "/wiki/sources/161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm/"
+  - key: "172-the-falklands-war-afterlife-part-4-glt5779306068"
+    title: "172. The Falklands War: Afterlife (Part 4)"
+    url: "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
   - key: "173-tanhe-ruhe-bamian-yiwei-zongtong-963141809"
     title: "173.弹劾：如何罢免一位总统"
     url: "/wiki/sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809/"

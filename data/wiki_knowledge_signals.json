@@ -24192,6 +24192,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/britishgeneralelection1945/"
     },
+    "BritishGeneralElection1983": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5779306068 [GLT5779306068].md",
+          "key": "172-the-falklands-war-afterlife-part-4-glt5779306068",
+          "show": "The Rest Is History",
+          "title": "172. The Falklands War: Afterlife (Part 4)",
+          "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/britishgeneralelection1983/"
+    },
     "BritishGeneralElection1992": {
       "episode_count": 1,
       "show_count": 1,
@@ -55093,9 +55109,9 @@
       "url": "/wiki/concepts/electoralbackchannelcausationboundary/"
     },
     "ElectoralOutcomeMythmaking": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4046145085 [GLT4046145085].md",
@@ -55103,9 +55119,16 @@
           "show": "The Rest Is History",
           "title": "464. Modern British Elections (Part 2)",
           "url": "/wiki/sources/464-modern-british-elections-part-2-glt4046145085/"
+        },
+        {
+          "episode_file": "GLT5779306068 [GLT5779306068].md",
+          "key": "172-the-falklands-war-afterlife-part-4-glt5779306068",
+          "show": "The Rest Is History",
+          "title": "172. The Falklands War: Afterlife (Part 4)",
+          "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/electoraloutcomemythmaking/"
     },
     "ElectoralViolenceInstitutionalDecline": {
@@ -63564,6 +63587,54 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/fairallocationpoliticalskill/"
+    },
+    "FalklandIslands": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5779306068 [GLT5779306068].md",
+          "key": "172-the-falklands-war-afterlife-part-4-glt5779306068",
+          "show": "The Rest Is History",
+          "title": "172. The Falklands War: Afterlife (Part 4)",
+          "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/falklandislands/"
+    },
+    "FalklandsWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5779306068 [GLT5779306068].md",
+          "key": "172-the-falklands-war-afterlife-part-4-glt5779306068",
+          "show": "The Rest Is History",
+          "title": "172. The Falklands War: Afterlife (Part 4)",
+          "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/falklandswar/"
+    },
+    "FalklandsWarPoliticalAfterlife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5779306068 [GLT5779306068].md",
+          "key": "172-the-falklands-war-afterlife-part-4-glt5779306068",
+          "show": "The Rest Is History",
+          "title": "172. The Falklands War: Afterlife (Part 4)",
+          "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/falklandswarpoliticalafterlife/"
     },
     "FallOfSaigon": {
       "episode_count": 2,
@@ -109870,6 +109941,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/leopoldii/"
     },
+    "LeopoldoGaltieri": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5779306068 [GLT5779306068].md",
+          "key": "172-the-falklands-war-afterlife-part-4-glt5779306068",
+          "show": "The Rest Is History",
+          "title": "172. The Falklands War: Afterlife (Part 4)",
+          "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/leopoldogaltieri/"
+    },
     "LesEnfantsDuParadisFilm": {
       "episode_count": 1,
       "show_count": 1,
@@ -123241,9 +123328,9 @@
       "url": "/wiki/entities/margaretmitchell/"
     },
     "MargaretThatcher": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -123279,6 +123366,13 @@
           "show": "The Rest Is History",
           "title": "232. Queen Elizabeth II (Part 2)",
           "url": "/wiki/sources/232-queen-elizabeth-ii-part-2-glt5667149245/"
+        },
+        {
+          "episode_file": "GLT5779306068 [GLT5779306068].md",
+          "key": "172-the-falklands-war-afterlife-part-4-glt5779306068",
+          "show": "The Rest Is History",
+          "title": "172. The Falklands War: Afterlife (Part 4)",
+          "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
         }
       ],
       "updated": "2026-10-01",
@@ -128021,6 +128115,29 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/michaeleisenberg/"
+    },
+    "MichaelFoot": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
+          "key": "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209",
+          "show": "蜜獾吃书",
+          "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
+          "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+        },
+        {
+          "episode_file": "GLT5779306068 [GLT5779306068].md",
+          "key": "172-the-falklands-war-afterlife-part-4-glt5779306068",
+          "show": "The Rest Is History",
+          "title": "172. The Falklands War: Afterlife (Part 4)",
+          "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/michaelfoot/"
     },
     "MichaelGove": {
       "episode_count": 1,

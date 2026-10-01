@@ -26958,3 +26958,11 @@ Added source `using-deliberate-cold-exposure-for-health-and-performance-scim1045
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 172. The Falklands War: Afterlife (Part 4)
+
+Added source `172-the-falklands-war-afterlife-part-4-glt5779306068`; created `FalklandsWar`, `FalklandIslands`, `LeopoldoGaltieri`, `BritishGeneralElection1983`, and `FalklandsWarPoliticalAfterlife`; and resynthesized `MargaretThatcher`, `MichaelFoot`, and `ElectoralOutcomeMythmaking` from their complete preserved evidence inventories. Core synthesis: the war destroyed the Argentine junta's competence claim, centered Islander self-determination in the British moral case, expanded Thatcher's patriotic authority, and interrupted a British decline narrative, but it amplified rather than created the 1983 Conservative advantage and does not establish a direct causal line to Brexit. No settled contradiction was adopted. Sovereignty law, the war-free election counterfactual, Soviet reactions, allied contributions, national-psychology claims, and the Falklands-to-Brexit connection remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten. The downstream manifest and paragraph ledger were refreshed to 3,369-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

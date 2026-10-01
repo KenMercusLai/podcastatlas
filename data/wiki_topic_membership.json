@@ -1117,6 +1117,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "172-the-falklands-war-afterlife-part-4-glt5779306068": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "173-chairman-mao-the-cultural-revolution-glt2886812821": [
     {
       "key": "history",
@@ -16509,6 +16521,13 @@
     }
   ],
   "BritishGeneralElection1945": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "BritishGeneralElection1983": [
     {
       "key": "politics",
       "label": "Politics",

@@ -4,7 +4,8 @@ type: concept
 tags: [politics, elections, causality, historical-memory]
 sources:
   - 464-modern-british-elections-part-2-glt4046145085
-last_updated: 2026-09-25
+  - 172-the-falklands-war-afterlife-part-4-glt5779306068
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,9 +17,9 @@ Electoral outcome mythmaking is the retrospective compression of a complex resul
 
 ## Current Synthesis
 
-Election stories favour memorable episodes because they are easier to narrate than interacting economic, institutional, partisan, and attitudinal causes. The source tests several British examples and repeatedly distinguishes a visible event from a sufficient explanation: Churchill's Gestapo warning did not create Labour's postwar appeal; England's World Cup loss did not explain 1970 as well as renewed economic doubts; the Falklands accelerated rather than originated Conservative recovery; and Kinnock's Sheffield rally did not by itself decide 1992.
+Election stories favour memorable episodes because they are easier to narrate than interacting economic, institutional, partisan, and attitudinal causes. The sources test several British examples and repeatedly distinguish a visible event from a sufficient explanation: Churchill's Gestapo warning did not create Labour's postwar appeal; England's World Cup loss did not explain 1970 as well as renewed economic doubts; the Falklands accelerated rather than originated Conservative recovery; and Kinnock's Sheffield rally did not by itself decide 1992.
 
-Myth correction should not invert into claiming that famous events had no effect. The defensible conclusion is narrower: their causal weight must be tested against timing, prior polling, material conditions, alternative mechanisms, and voter heterogeneity.
+The expanded 1983 case shows why myth correction should not invert into claiming that famous events had no effect. Victory enlarged Thatcher's patriotic authority and made Conservative defeat far less likely, but Labour's internal division, Michael Foot's ratings, economic recovery, Alliance softness, and first-past-the-post were independent parts of the result. Causal weight must therefore be tested against timing, prior polling, material conditions, alternative mechanisms, and voter heterogeneity.
 
 ## Key Claims
 
@@ -33,20 +34,22 @@ Myth correction should not invert into claiming that famous events had no effect
 
 - 1945: [[464-modern-british-elections-part-2-glt4046145085]] places Labour's postwar programme and wartime legitimacy ahead of Churchill's Gestapo remark.
 - 1970 and 1979: [[464-modern-british-elections-part-2-glt4046145085]] favours trade figures over football as an immediate economic cue and qualifies the later sea-change anecdote through diary-versus-memoir evidence.
-- 1983: [[464-modern-british-elections-part-2-glt4046145085]] says Conservative polling improved before the Falklands War and ties recovery to economic indicators.
+- 1983 timing: [[464-modern-british-elections-part-2-glt4046145085]] says Conservative polling improved before the Falklands War and ties recovery to economic indicators.
+- 1983 amplification: [[172-the-falklands-war-afterlife-part-4-glt5779306068]] says victory made Conservative defeat far less likely while retaining Labour weakness, Alliance softness, the economy, and first-past-the-post as independent causes.
 - 1992: [[464-modern-british-elections-part-2-glt4046145085]] rejects the Sheffield rally as the main explanation while preserving tax advertising as consequential.
 
 ## Counterevidence & Qualifications
 
-The episode does not independently reproduce the statistical work or polling series it cites. Vivid events can become symbols precisely because they condense real public judgments, and their indirect media or agenda-setting effects may be difficult to isolate.
+The sources do not independently reproduce all polling series, constituency models, or voter-level evidence behind their counterfactuals. Vivid events can become symbols precisely because they condense real public judgments, and their indirect media, leadership, majority-size, and agenda-setting effects may be difficult to isolate.
 
 ## What Changed
 
-- Created a causal-memory framework from the episode's corrections to familiar British election stories.
+- Strengthened the 1983 case by separating the war's major amplifying effect from pre-existing economic, partisan, leadership, and electoral-system causes.
 
 ## Related Concepts
 
 - [[BritishElectionCampaignEffects]] - broader framework for separating campaign intervention from prior conditions.
+- [[BritishGeneralElection1983]] - case in which a dramatic victory secured and enlarged an already developing advantage.
 - [[BritishGeneralElection1945]] - case organized retrospectively around Churchill's famous radio mistake.
 - [[BritishGeneralElection1992]] - case often reduced to Kinnock's Sheffield rally.
 - [[HistoricalMemoryContest]] - wider process through which later narratives reshape interpretation of past events.

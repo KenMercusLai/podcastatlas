@@ -695,6 +695,10 @@
     "title": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步",
     "url": "/wiki/sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2/"
   },
+  "172-the-falklands-war-afterlife-part-4-glt5779306068": {
+    "title": "172. The Falklands War: Afterlife (Part 4)",
+    "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
+  },
   "173-chairman-mao-the-cultural-revolution-glt2886812821": {
     "title": "173. Chairman Mao & the Cultural Revolution",
     "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
@@ -12410,6 +12414,10 @@
   "BritishGeneralElection1945": {
     "title": "1945 British General Election",
     "url": "/wiki/entities/britishgeneralelection1945/"
+  },
+  "BritishGeneralElection1983": {
+    "title": "British General Election 1983",
+    "url": "/wiki/concepts/britishgeneralelection1983/"
   },
   "BritishGeneralElection1992": {
     "title": "1992 British General Election",
@@ -26970,6 +26978,18 @@
   "Falcon9": {
     "title": "Falcon 9",
     "url": "/wiki/entities/falcon9/"
+  },
+  "FalklandIslands": {
+    "title": "Falkland Islands",
+    "url": "/wiki/entities/falklandislands/"
+  },
+  "FalklandsWar": {
+    "title": "Falklands War",
+    "url": "/wiki/entities/falklandswar/"
+  },
+  "FalklandsWarPoliticalAfterlife": {
+    "title": "Falklands War Political Afterlife",
+    "url": "/wiki/concepts/falklandswarpoliticalafterlife/"
   },
   "FallOfSaigon": {
     "title": "Fall of Saigon",
@@ -44514,6 +44534,10 @@
   "LeopoldII": {
     "title": "Leopold II",
     "url": "/wiki/entities/leopoldii/"
+  },
+  "LeopoldoGaltieri": {
+    "title": "Leopoldo Galtieri",
+    "url": "/wiki/entities/leopoldogaltieri/"
   },
   "LeptonAI": {
     "title": "Lepton AI",

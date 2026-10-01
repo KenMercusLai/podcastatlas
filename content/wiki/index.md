@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [172. The Falklands War: Afterlife (Part 4)](sources/172-the-falklands-war-afterlife-part-4-glt5779306068.md) — The Rest Is History episode on Thatcher, Argentina's junta, Islander self-determination, the 1983 election, British decline, and the war's contested political memory.
 - [173. Chairman Mao & the Cultural Revolution](sources/173-chairman-mao-the-cultural-revolution-glt2886812821.md) — The Rest Is History episode with Rana Mitter on Mao's authority, Red Guard mobilization, revolutionary iconoclasm, political ritual, factional violence, and the post-Mao settlement.
 - [174. Merlin, Magic and the British](sources/174-merlin-magic-and-the-british-glt5141910845.md) — The Rest Is History with Francis Young on Merlin, royal occult counsel, magical decision capture, sorcery propaganda, John Dee, and wartime spiritualism.
 - [How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett](sources/how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014.md) — Huberman Lab interview on lifestyle-first hormone assessment, sex-steroid feedback, fertility, prolactin, TRT, hair loss, PCOS, and peptide safety.
@@ -3428,6 +3429,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [176. The Jews Against Rome (Part 2)](sources/176-the-jews-against-rome-part-2-glt3414103581.md) — The Rest Is History episode on Judean identity, Roman governance, revolt escalation, Beth-Horon, Jotapata, Josephus, and Vespasian's rise.
 
 ## Entities
+- [Falklands War](entities/FalklandsWar.md) — 1982 Anglo-Argentine conflict whose outcome reshaped junta legitimacy, Thatcher's authority, and British political memory.
+- [Falkland Islands](entities/FalklandIslands.md) — Disputed South Atlantic territory whose inhabitants' political preference anchors the episode's self-determination argument.
+- [Leopoldo Galtieri](entities/LeopoldoGaltieri.md) — Argentine junta leader whose failed invasion converted military defeat into rapid regime collapse.
 - [Jiang Qing](entities/JiangQing.md) — Cultural Revolution radical and Gang of Four member whose arrest helped concentrate post-Mao blame.
 - [Red Guards](entities/RedGuards.md) — Heterogeneous youth formations mobilized to attack allegedly revisionist authority and the inherited old world.
 - [Francis Young](entities/FrancisYoung.md) — Historian distinguishing occult legitimation, advice, propaganda, decision failure, and security response in British politics.
@@ -15281,6 +15285,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [British General Election 1983](concepts/BritishGeneralElection1983.md) — Multi-causal election case in which Falklands victory amplified an existing Conservative recovery.
+- [Falklands War Political Afterlife](concepts/FalklandsWarPoliticalAfterlife.md) — Contested memory joining military victory to British decline, patriotism, empire, and later identity politics.
 - [Cultural Revolution](concepts/CulturalRevolution.md) — Mao-led mass upheaval joining anti-revisionism, youth rebellion, persecution, iconoclasm, factional conflict, and institutional breakdown.
 - [Maoist Political Religion](concepts/MaoistPoliticalReligion.md) — Qualified frame for the ritual, conversion-like, and relic-making dimensions of Mao worship.
 - [Revolutionary Iconoclasm](concepts/RevolutionaryIconoclasm.md) — Political renewal pursued through destruction of inherited ideas, practices, objects, institutions, and historical memory.

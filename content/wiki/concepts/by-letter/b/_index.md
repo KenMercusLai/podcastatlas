@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9159
+wiki_total_pages: 9161
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "BritishForeignPolicyAmbiguity1914"
     title: "British Foreign-Policy Ambiguity in 1914"
     url: "/wiki/concepts/britishforeignpolicyambiguity1914/"
+  - key: "BritishGeneralElection1983"
+    title: "British General Election 1983"
+    url: "/wiki/concepts/britishgeneralelection1983/"
   - key: "BritishMediaExclusionOnlineAmplification"
     title: "British Media Exclusion Online Amplification"
     url: "/wiki/concepts/britishmediaexclusiononlineamplification/"

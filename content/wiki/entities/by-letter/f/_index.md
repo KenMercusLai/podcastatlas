@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11814
+wiki_total_pages: 11817
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -68,6 +68,12 @@ wiki_pages:
   - key: "Falcon9"
     title: "Falcon 9"
     url: "/wiki/entities/falcon9/"
+  - key: "FalklandIslands"
+    title: "Falkland Islands"
+    url: "/wiki/entities/falklandislands/"
+  - key: "FalklandsWar"
+    title: "Falklands War"
+    url: "/wiki/entities/falklandswar/"
   - key: "FallOfSaigon"
     title: "Fall of Saigon"
     url: "/wiki/entities/fallofsaigon/"
