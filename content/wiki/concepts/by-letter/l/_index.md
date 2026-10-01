@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9236
+wiki_total_pages: 9238
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "LiteraryGossipAsContext"
     title: "Literary Gossip As Context"
     url: "/wiki/concepts/literarygossipascontext/"
+  - key: "LiteraryModernismPostwarFragmentation"
+    title: "Literary Modernism and Postwar Fragmentation"
+    url: "/wiki/concepts/literarymodernismpostwarfragmentation/"
   - key: "LiteraryPublishingAsMaterialSupport"
     title: "Literary Publishing As Material Support"
     url: "/wiki/concepts/literarypublishingasmaterialsupport/"

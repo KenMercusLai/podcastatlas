@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11904
+wiki_total_pages: 11906
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "JamesHollis"
     title: "James Hollis"
     url: "/wiki/entities/jameshollis/"
+  - key: "JamesJoyce"
+    title: "James Joyce"
+    url: "/wiki/entities/jamesjoyce/"
   - key: "JamesLawrence"
     title: "James Lawrence"
     url: "/wiki/entities/jameslawrence/"

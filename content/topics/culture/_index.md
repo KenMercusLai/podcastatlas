@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3008
+topic_total_pages: 3010
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1708,6 +1708,9 @@ topic_concepts:
   - key: "LiteraryGossipAsContext"
     title: "Literary Gossip As Context"
     url: "/wiki/concepts/literarygossipascontext/"
+  - key: "LiteraryModernismPostwarFragmentation"
+    title: "Literary Modernism and Postwar Fragmentation"
+    url: "/wiki/concepts/literarymodernismpostwarfragmentation/"
   - key: "LiteraryPublishingAsMaterialSupport"
     title: "Literary Publishing As Material Support"
     url: "/wiki/concepts/literarypublishingasmaterialsupport/"
@@ -5474,6 +5477,9 @@ topic_entities:
   - key: "Syncopy"
     title: "Syncopy"
     url: "/wiki/entities/syncopy/"
+  - key: "TSEliot"
+    title: "T. S. Eliot"
+    url: "/wiki/entities/tseliot/"
   - key: "Tacitus"
     title: "Tacitus"
     url: "/wiki/entities/tacitus/"

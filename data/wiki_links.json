@@ -267,6 +267,10 @@
     "title": "135.闲聊伟大作家们的八卦（第三弹）",
     "url": "/wiki/sources/135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670/"
   },
+  "136-1922-the-birth-of-the-modern-world-part-1-glt1607440485": {
+    "title": "136. 1922: The Birth of the Modern World Part 1",
+    "url": "/wiki/sources/136-1922-the-birth-of-the-modern-world-part-1-glt1607440485/"
+  },
   "136-chunri-mingmei-liaoliao-guishen-827911486": {
     "title": "136. 春日明媚，聊聊鬼神",
     "url": "/wiki/sources/136-chunri-mingmei-liaoliao-guishen-827911486/"
@@ -40123,6 +40127,10 @@
     "title": "James Hollis",
     "url": "/wiki/entities/jameshollis/"
   },
+  "JamesJoyce": {
+    "title": "James Joyce",
+    "url": "/wiki/entities/jamesjoyce/"
+  },
   "JamesLawrence": {
     "title": "James Lawrence",
     "url": "/wiki/entities/jameslawrence/"
@@ -46306,6 +46314,10 @@
   "LiteraryGossipAsContext": {
     "title": "Literary Gossip As Context",
     "url": "/wiki/concepts/literarygossipascontext/"
+  },
+  "LiteraryModernismPostwarFragmentation": {
+    "title": "Literary Modernism and Postwar Fragmentation",
+    "url": "/wiki/concepts/literarymodernismpostwarfragmentation/"
   },
   "LiteraryPublishingAsMaterialSupport": {
     "title": "Literary Publishing As Material Support",
@@ -60359,6 +60371,10 @@
     "title": "Postwar Caribbean British Settlement",
     "url": "/wiki/concepts/postwarcaribbeanbritishsettlement/"
   },
+  "PostwarCrisisModernity1922": {
+    "title": "Postwar Crisis Modernity in 1922",
+    "url": "/wiki/concepts/postwarcrisismodernity1922/"
+  },
   "PostwarFashionConsumerRevolution": {
     "title": "Postwar Fashion Consumer Revolution",
     "url": "/wiki/concepts/postwarfashionconsumerrevolution/"
@@ -73650,6 +73666,10 @@
   "TSAnil": {
     "title": "TS Anil",
     "url": "/wiki/entities/tsanil/"
+  },
+  "TSEliot": {
+    "title": "T. S. Eliot",
+    "url": "/wiki/entities/tseliot/"
   },
   "TSGConsumerPartners": {
     "title": "TSG Consumer Partners",

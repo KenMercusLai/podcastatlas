@@ -434,6 +434,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "136-1922-the-birth-of-the-modern-world-part-1-glt1607440485": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v": [
     {
       "key": "technology",
@@ -49262,6 +49269,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LiteraryModernismPostwarFragmentation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "LiteraryPublishingAsMaterialSupport": [
     {
       "key": "culture",
@@ -76487,6 +76501,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TSEliot": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "TSMC": [

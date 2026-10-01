@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11904
+wiki_total_pages: 11906
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "TConScribd"
     title: "T-Con (Scribd Co-Founder)"
     url: "/wiki/entities/tconscribd/"
+  - key: "TSEliot"
+    title: "T. S. Eliot"
+    url: "/wiki/entities/tseliot/"
   - key: "T0Finance"
     title: "T0 Finance"
     url: "/wiki/entities/t0finance/"

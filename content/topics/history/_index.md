@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2364
+topic_total_pages: 2365
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4806,6 +4806,9 @@ topic_sources:
   - key: "133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110"
     title: "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义"
     url: "/wiki/sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110/"
+  - key: "136-1922-the-birth-of-the-modern-world-part-1-glt1607440485"
+    title: "136. 1922: The Birth of the Modern World Part 1"
+    url: "/wiki/sources/136-1922-the-birth-of-the-modern-world-part-1-glt1607440485/"
   - key: "137-1922-the-birth-of-the-modern-world-part-2-glt5281126494"
     title: "137. 1922: The Birth of the Modern World Part 2"
     url: "/wiki/sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494/"

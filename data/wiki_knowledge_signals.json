@@ -101478,6 +101478,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/jameshollis/"
     },
+    "JamesJoyce": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1607440485 [GLT1607440485].md",
+          "key": "136-1922-the-birth-of-the-modern-world-part-1-glt1607440485",
+          "show": "The Rest Is History",
+          "title": "136. 1922: The Birth of the Modern World Part 1",
+          "url": "/wiki/sources/136-1922-the-birth-of-the-modern-world-part-1-glt1607440485/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/jamesjoyce/"
+    },
     "JamesMarriott": {
       "episode_count": 1,
       "show_count": 1,
@@ -115229,6 +115245,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/literaryadaptationtextureloss/"
+    },
+    "LiteraryModernismPostwarFragmentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1607440485 [GLT1607440485].md",
+          "key": "136-1922-the-birth-of-the-modern-world-part-1-glt1607440485",
+          "show": "The Rest Is History",
+          "title": "136. 1922: The Birth of the Modern World Part 1",
+          "url": "/wiki/sources/136-1922-the-birth-of-the-modern-world-part-1-glt1607440485/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/literarymodernismpostwarfragmentation/"
     },
     "LiteratureAsSocialHistory": {
       "episode_count": 1,
@@ -152676,6 +152708,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/postwarcaribbeanbritishsettlement/"
     },
+    "PostwarCrisisModernity1922": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1607440485 [GLT1607440485].md",
+          "key": "136-1922-the-birth-of-the-modern-world-part-1-glt1607440485",
+          "show": "The Rest Is History",
+          "title": "136. 1922: The Birth of the Modern World Part 1",
+          "url": "/wiki/sources/136-1922-the-birth-of-the-modern-world-part-1-glt1607440485/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/postwarcrisismodernity1922/"
+    },
     "PostwarFashionConsumerRevolution": {
       "episode_count": 1,
       "show_count": 1,
@@ -185199,6 +185247,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/tcelleducationandthymusaging/"
+    },
+    "TSEliot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1607440485 [GLT1607440485].md",
+          "key": "136-1922-the-birth-of-the-modern-world-part-1-glt1607440485",
+          "show": "The Rest Is History",
+          "title": "136. 1922: The Birth of the Modern World Part 1",
+          "url": "/wiki/sources/136-1922-the-birth-of-the-modern-world-part-1-glt1607440485/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/tseliot/"
     },
     "TVBTalentPipeline": {
       "episode_count": 1,

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [136. 1922: The Birth of the Modern World Part 1](sources/136-1922-the-birth-of-the-modern-world-part-1-glt1607440485.md) — The Rest Is History on literary modernism, Weimar crisis, Mussolini's appointment, Soviet formation, and the fearful postwar order of 1922.
 - [137. 1922: The Birth of the Modern World Part 2](sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494.md) — The Rest Is History on radio and the BBC, American cultural power, Irish civil war, Ottoman collapse, imperial retreat, and Britain's 1922 party realignment.
 - [The Science of Setting & Achieving Goals](sources/the-science-of-setting-achieving-goals-scim1292734289.md) — Huberman Lab episode on goal difficulty, action planning, visual focus, dopamine-based progress signals, and qualified visualization tools.
 - [Science of Mindsets for Health & Performance | Dr. Alia Crum](sources/science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820.md) — Huberman Lab interview on mindset effects across food, exercise, stress, feedback, treatment, physiology, and their evidence boundaries.
@@ -3477,6 +3478,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [James Joyce](entities/JamesJoyce.md) — Irish modernist whose historically specific and formally experimental Ulysses anchors the episode's literary 1922.
+- [T. S. Eliot](entities/TSEliot.md) — Modernist poet whose fragmented The Waste Land is read through postwar mourning, complexity, and later traditionalism.
 - [Michael Collins (Irish revolutionary)](entities/MichaelCollinsIrishRevolutionary.md) — Irish treaty negotiator and pro-treaty commander, disambiguated from the Apollo 11 astronaut.
 - [Edward IV](entities/EdwardIV.md) — Yorkist warrior-king whose Woodville marriage, restoration, patronage, and sudden death shaped the fragile 1483 succession.
 - [Edward V](entities/EdwardV.md) — Sanctuary-born Ludlow heir whose preparation for rule ended in seizure, delegitimation, and disappearance.
@@ -15422,6 +15425,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Literary Modernism and Postwar Fragmentation](concepts/LiteraryModernismPostwarFragmentation.md) — Modernist difficulty, documentary specificity, fragments, and inherited tradition interpreted within the aftermath of mass war.
+- [Postwar Crisis Modernity in 1922](concepts/PostwarCrisisModernity1922.md) — Hinge-year synthesis joining cultural experiment, political violence, fascist enabling, Soviet formation, and institutional fragility.
 - [Mass Broadcast Culture](concepts/MassBroadcastCulture.md) — Shared-audience culture formed through radio, film, news spectacle, and institutional gatekeepers, with later fragmentation as a qualification.
 - [Imperial Retrenchment After the First World War](concepts/ImperialRetrenchmentAfterFirstWorldWar.md) — Gap between formal imperial reach and reduced fiscal, naval, and political command after 1918.
 - [Irish Treaty-Civil War Split](concepts/IrishTreatyCivilWarSplit.md) — Mechanism by which partial sovereignty, the oath, and partition divided an independence movement into civil conflict.
