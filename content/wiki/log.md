@@ -26789,3 +26789,15 @@ Added source `184-historys-biggest-questions-with-dan-carlin-part-2-glt197608279
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Essentials: Tools to Improve Your Focus & Concentration
+
+Added source `essentials-tools-to-improve-your-focus-concentration-scim2328129388`; resynthesized `FocusTrainingToolkit`, `NeuromodulatorStateToolkit`, `UltradianDeepWorkBlock`, `MeditationRefocusingPractice`, `VisualFocusEffortTool`, and `WendySuzuki` from their complete preserved evidence inventories. Core synthesis: focus is a trainable cycle of biological readiness, gradual entry, bounded effort, repeated return after distraction, and deliberate recovery; sleep, behavior, and nutrition precede optional supplements, while prescription stimulants remain diagnosis- and clinician-bound. No settled contradiction was adopted. The Essentials release is a condensed editorial cut of the existing full-length focus episode rather than independent replication, and the 90-minute rhythm, caffeine cutoff, fasting, acute stress, cold exposure, meditation, gaze, supplement doses, alpha-GPC risk, TMAO, and garlic claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,349-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, synthesis, index coverage, health, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

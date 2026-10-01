@@ -491,14 +491,14 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-10-01",
       "latest_episode_file": "SCIM2328129388 [SCIM2328129388].md",
-      "source_note_count": 239,
-      "topic_matched_source_note_count": 132,
+      "source_note_count": 240,
+      "topic_matched_source_note_count": 133,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 124
+          "source_note_count": 125
         },
         {
           "key": "culture",
@@ -578,10 +578,10 @@
         }
       ],
       "start_here_episode_files": [
-        "SCIM5641095924 [SCIM5641095924].md",
+        "SCIM2328129388 [SCIM2328129388].md",
         "SCIM7393383815 [SCIM7393383815].md",
         "SCIM8571002701 [SCIM8571002701].md",
-        "SCIM2328129388 [SCIM2328129388].md"
+        "SCIM4063268713 [SCIM4063268713].md"
       ]
     },
     "Long Now": {

@@ -5,6 +5,7 @@ tags: [meditation, attention, focus, mind-wandering]
 sources:
   - how-meditation-works-science-based-effective-meditations-scim5642770846
   - focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033
+  - essentials-tools-to-improve-your-focus-concentration-scim2328129388
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,7 @@ Meditation as refocusing practice treats noticing attention drift and deliberate
 ## Current Synthesis
 [[how-meditation-works-science-based-effective-meditations-scim5642770846]] frames meditation as repeated focus, drift, detection, and return. The object may be breath, a point near the forehead, bodily sensation, or something external; the common operation is recovering the intended placement of attention. Experience may therefore appear as faster or more consistent return rather than perfectly uninterrupted concentration.
 
-The sources favor consistency over one rigid session length. The focus-toolkit episode adds a specific 13-minute daily protocol centered on breath and a point behind the forehead and reports improved attention, mood, stress, sleep, and memory in the cited study. Those examples support a testable practice, not a universal dose, guaranteed outcome, or claim that all meditation styles reduce stress, improve sleep, or serve the same aim.
+The sources favor consistency over one rigid session length. The focus-toolkit episode adds a specific 13-minute daily protocol centered on breath and a point behind the forehead and reports improved attention, mood, stress, sleep, and memory in the cited study. Its condensed [[essentials-tools-to-improve-your-focus-concentration-scim2328129388]] edit repeats the protocol and attributes the study to [[WendySuzuki]]'s laboratory, adding provenance rather than an independent result. Those examples support a testable practice, not a universal dose, guaranteed outcome, or claim that all meditation styles reduce stress, improve sleep, or serve the same aim.
 
 ## Key Claims
 - Mind wandering creates the opportunity for a refocusing repetition rather than automatically invalidating practice.
@@ -32,13 +33,13 @@ The sources favor consistency over one rigid session length. The focus-toolkit e
 - Experience interpretation - [[how-meditation-works-science-based-effective-meditations-scim5642770846]] describes experienced practice as faster and more consistent return rather than permanent absorption.
 - Dose examples - [[how-meditation-works-science-based-effective-meditations-scim5642770846]] discusses three-, five-, and thirteen-minute daily practices and prioritizes consistency over fixed duration.
 - Focus-toolkit protocol - [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] describes daily breath-focused practice, expected mind wandering, deliberate return, and a recommendation to avoid the alerting practice near bedtime.
+- Condensed attribution - [[essentials-tools-to-improve-your-focus-concentration-scim2328129388]] repeats the 13-minute, eight-week example and attributes it to [[WendySuzuki]]'s laboratory.
 
 ## Counterevidence & Qualifications
 The source summaries do not provide enough study detail to establish an optimal duration, effect size, generalization across meditation traditions, or treatment efficacy for attention, sleep, depression, trauma, or anxiety disorders. The claim that the 13-minute practice should not occur within four hours of bedtime remains source-scoped. Mind wandering can support planning and creativity, and some meditation practices intentionally use open monitoring or investigate the structure of awareness rather than repeatedly narrowing onto one object.
 
 ## What Changed
-- Added the 13-minute breath-and-forehead-focus example while preserving the non-universal dose boundary.
-- Added the source-scoped alerting and bedtime-timing qualification.
+- Added the Suzuki-laboratory attribution while preserving the non-universal dose and editorial-overlap boundaries.
 
 ## Related Concepts
 - [[MeditationAttentionModeSelection]] - determines whether the refocusing object trains inward, outward, or switching attention.

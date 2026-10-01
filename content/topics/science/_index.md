@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1376
+topic_total_pages: 1377
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3717,6 +3717,9 @@ topic_sources:
   - key: "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415"
     title: "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett"
     url: "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+  - key: "essentials-tools-to-improve-your-focus-concentration-scim2328129388"
+    title: "Essentials: Tools to Improve Your Focus & Concentration"
+    url: "/wiki/sources/essentials-tools-to-improve-your-focus-concentration-scim2328129388/"
   - key: "essentials-understand-improve-memory-using-science-based-tools-scim6024056343"
     title: "Essentials: Understand & Improve Memory Using Science-Based Tools"
     url: "/wiki/sources/essentials-understand-improve-memory-using-science-based-tools-scim6024056343/"
