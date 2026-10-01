@@ -97439,9 +97439,9 @@
       "url": "/wiki/concepts/ingredientflavorlabeltransparency/"
     },
     "InhalationArousalLearning": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM3853502826 [SCIM3853502826].md",
@@ -97463,9 +97463,16 @@
           "show": "Huberman Lab",
           "title": "How to Breathe Correctly for Optimal Health, Mood, Learning & Performance",
           "url": "/wiki/sources/how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950/"
+        },
+        {
+          "episode_file": "SCIM4863659802 [SCIM4863659802].md",
+          "key": "breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802",
+          "show": "Huberman Lab",
+          "title": "Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
+          "url": "/wiki/sources/breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/inhalationarousallearning/"
     },
     "InjuryRecoveryAdherence": {
@@ -100983,6 +100990,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/jaakpanksepp/"
+    },
+    "JackFeldman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4863659802 [SCIM4863659802].md",
+          "key": "breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802",
+          "show": "Huberman Lab",
+          "title": "Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
+          "url": "/wiki/sources/breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/jackfeldman/"
     },
     "JackMerridew": {
       "episode_count": 1,
@@ -149186,9 +149209,9 @@
       "url": "/wiki/concepts/physicsstagnationclaim/"
     },
     "PhysiologicalSigh": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1991900083 [SCIM1991900083].md",
@@ -149217,6 +149240,13 @@
           "show": "Huberman Lab",
           "title": "Using Play to Rewire & Improve Your Brain",
           "url": "/wiki/sources/using-play-to-rewire-improve-your-brain-scim9321743392/"
+        },
+        {
+          "episode_file": "SCIM4863659802 [SCIM4863659802].md",
+          "key": "breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802",
+          "show": "Huberman Lab",
+          "title": "Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
+          "url": "/wiki/sources/breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802/"
         }
       ],
       "updated": "2026-10-02",
@@ -162460,9 +162490,9 @@
       "url": "/wiki/concepts/respectbasedconflictdeescalation/"
     },
     "RespiratoryGasBalanceAndBreathworkSafety": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7880960950 [SCIM7880960950].md",
@@ -162470,10 +162500,33 @@
           "show": "Huberman Lab",
           "title": "How to Breathe Correctly for Optimal Health, Mood, Learning & Performance",
           "url": "/wiki/sources/how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950/"
+        },
+        {
+          "episode_file": "SCIM4863659802 [SCIM4863659802].md",
+          "key": "breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802",
+          "show": "Huberman Lab",
+          "title": "Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
+          "url": "/wiki/sources/breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/respiratorygasbalanceandbreathworksafety/"
+    },
+    "RespiratoryRhythmGeneration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4863659802 [SCIM4863659802].md",
+          "key": "breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802",
+          "show": "Huberman Lab",
+          "title": "Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
+          "url": "/wiki/sources/breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/respiratoryrhythmgeneration/"
     },
     "RespiratorySymptomTriage": {
       "episode_count": 3,

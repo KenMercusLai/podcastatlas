@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1386
+topic_total_pages: 1389
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1756,6 +1756,9 @@ topic_concepts:
   - key: "ResearchInstitutionsAsStrategicCapacity"
     title: "Research Institutions As Strategic Capacity"
     url: "/wiki/concepts/researchinstitutionsasstrategiccapacity/"
+  - key: "RespiratoryRhythmGeneration"
+    title: "Respiratory Rhythm Generation"
+    url: "/wiki/concepts/respiratoryrhythmgeneration/"
   - key: "ResponsibilityAgainstRomanticEscape"
     title: "Responsibility Against Romantic Escape / 以责任抵抗浪漫逃避"
     url: "/wiki/concepts/responsibilityagainstromanticescape/"
@@ -2732,6 +2735,9 @@ topic_entities:
   - key: "JaakPanksepp"
     title: "Jaak Panksepp"
     url: "/wiki/entities/jaakpanksepp/"
+  - key: "JackFeldman"
+    title: "Jack Feldman"
+    url: "/wiki/entities/jackfeldman/"
   - key: "JacquelineSentiner"
     title: "Jacqueline Sentiner"
     url: "/wiki/entities/jacquelinesentiner/"
@@ -3567,6 +3573,9 @@ topic_sources:
   - key: "boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096"
     title: "Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki"
     url: "/wiki/sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096/"
+  - key: "breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802"
+    title: "Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman"
+    url: "/wiki/sources/breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165"
     title: "Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 9238
+wiki_total_pages: 9239
 wiki_pages:
   - key: "YellowRiverFlood1938"
     title: "1938 Yellow River Flood"

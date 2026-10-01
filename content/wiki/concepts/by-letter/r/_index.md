@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9238
+wiki_total_pages: 9239
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "RespiratoryGasBalanceAndBreathworkSafety"
     title: "Respiratory Gas Balance and Breathwork Safety"
     url: "/wiki/concepts/respiratorygasbalanceandbreathworksafety/"
+  - key: "RespiratoryRhythmGeneration"
+    title: "Respiratory Rhythm Generation"
+    url: "/wiki/concepts/respiratoryrhythmgeneration/"
   - key: "ResponsibilityAgainstRomanticEscape"
     title: "Responsibility Against Romantic Escape / 以责任抵抗浪漫逃避"
     url: "/wiki/concepts/responsibilityagainstromanticescape/"

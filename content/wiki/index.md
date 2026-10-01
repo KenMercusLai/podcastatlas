@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman](sources/breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802.md) — Huberman Lab interview on respiratory rhythm generation, sigh physiology, gas balance, breath-brain pathways, practical breathwork, and evidence limits.
 - [135. Crossing the Rubicon: The die is cast](sources/135-crossing-the-rubicon-the-die-is-cast-glt1750785311.md) — The Rest Is History on Caesar's Gallic command, legal vulnerability, the collapse of the First Triumvirate, Pompeian-senatorial alignment, and the Rubicon as civil-war threshold and enduring metaphor.
 - [136. 1922: The Birth of the Modern World Part 1](sources/136-1922-the-birth-of-the-modern-world-part-1-glt1607440485.md) — The Rest Is History on literary modernism, Weimar crisis, Mussolini's appointment, Soviet formation, and the fearful postwar order of 1922.
 - [137. 1922: The Birth of the Modern World Part 2](sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494.md) — The Rest Is History on radio and the BBC, American cultural power, Irish civil war, Ottoman collapse, imperial retreat, and Britain's 1922 party realignment.
@@ -3479,6 +3480,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [Jack Feldman](entities/JackFeldman.md) — Respiratory neuroscientist associated with the pre-Botzinger complex, sigh circuitry, and mechanistic breath-brain research.
 - [James Joyce](entities/JamesJoyce.md) — Irish modernist whose historically specific and formally experimental Ulysses anchors the episode's literary 1922.
 - [T. S. Eliot](entities/TSEliot.md) — Modernist poet whose fragmented The Waste Land is read through postwar mourning, complexity, and later traditionalism.
 - [Michael Collins (Irish revolutionary)](entities/MichaelCollinsIrishRevolutionary.md) — Irish treaty negotiator and pro-treaty commander, disambiguated from the Apollo 11 astronaut.
@@ -15428,6 +15430,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Respiratory Rhythm Generation](concepts/RespiratoryRhythmGeneration.md) — Brainstem coordination of inspiratory rhythm, recruited active expiration, respiratory muscles, and state-linked ascending signals.
 - [Literary Modernism and Postwar Fragmentation](concepts/LiteraryModernismPostwarFragmentation.md) — Modernist difficulty, documentary specificity, fragments, and inherited tradition interpreted within the aftermath of mass war.
 - [Postwar Crisis Modernity in 1922](concepts/PostwarCrisisModernity1922.md) — Hinge-year synthesis joining cultural experiment, political violence, fascist enabling, Soviet formation, and institutional fragility.
 - [Mass Broadcast Culture](concepts/MassBroadcastCulture.md) — Shared-audience culture formed through radio, film, news spectacle, and institutional gatekeepers, with later fragmentation as a qualification.
