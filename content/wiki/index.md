@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett](sources/how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014.md) — Huberman Lab interview on lifestyle-first hormone assessment, sex-steroid feedback, fertility, prolactin, TRT, hair loss, PCOS, and peptide safety.
 - [175. Crucifixion (Part 1)](sources/175-crucifixion-part-1-glt5186420966.md) — The Rest Is History on crucifixion as Roman public humiliation, the historical evidence for Jesus's execution, and Christianity's inversion of the cross.
 - [Trial and terror: Russia escalates Kyiv campaign](sources/trial-and-terror-russia-escalates-kyiv-campaign-6abe39c382177b9ab8a8904c.md) — The Intelligence on coordinated Russian pressure against Kyiv, smart-glasses privacy and AI-interface ambitions, and the material history of the pen.
 - [Using Light (Sunlight, Blue Light & Red Light) to Optimize Health](sources/using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381.md) — Huberman Lab episode separating circadian light, systemic UVB signaling, red and near-infrared photobiomodulation, nighttime-light risk, and experimental gamma entrainment.
@@ -15272,6 +15273,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Prolactin-Dopamine-Pituitary Interpretation](concepts/ProlactinDopaminePituitaryInterpretation.md) — Context-first framework joining prolactin, dopamine, estrogen, reproductive physiology, gonadal feedback, and pituitary escalation.
 - [Roman Crucifixion as Public Humiliation](concepts/RomanCrucifixionAsPublicHumiliation.md) — Variable Roman status punishment joining pain, exposure, ridicule, deterrence, and imperial mastery.
 - [Cross Symbolic Inversion](concepts/CrossSymbolicInversion.md) — Christianity's transformation of an emblem of servile shame and torture into a contested sign of victim-centered victory and power.
 - [Writing Instrument Evolution](concepts/WritingInstrumentEvolution.md) — Shift among reeds, styli, brushes, quills, reservoir pens, and ballpoints as material friction, ink systems, manufacturing, use, and status changed.

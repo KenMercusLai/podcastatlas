@@ -26917,3 +26917,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett
+
+Added source `how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014`; created `ProlactinDopaminePituitaryInterpretation`; and resynthesized `KyleGillett`, `MaleHormoneHealthPhenotyping`, `AndrogenInterventionClinicalBoundary`, `SexSteroidFeedbackRegulation`, and `PeptideEvidenceHierarchy` from their complete preserved evidence inventories. Core synthesis: hormone optimization is a context-and-measurement problem in which lifestyle foundations, symptoms, ratios, feedback pathways, fertility goals, and clinician-guided testing precede supplements or direct manipulation; prolactin requires reproductive, medication, pituitary, and symptom context; and peptide claims must be separated by indication, evidence, sourcing, dose, duration, and patient risk. No settled contradiction was adopted. Creatine-DHT, curcumin-5-alpha-reductase, cannabis-aromatase, food-prolactin, supplement-dose, fasting-growth-hormone, post-finasteride, fertility-recovery, prostate-cancer, and peptide claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten. The downstream manifest and paragraph ledger were refreshed to 3,365-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

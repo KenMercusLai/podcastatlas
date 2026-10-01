@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9153
+wiki_total_pages: 9154
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1952,6 +1952,9 @@ wiki_pages:
   - key: "ProjectDrivenAICurriculum"
     title: "Project-Driven AI Curriculum"
     url: "/wiki/concepts/projectdrivenaicurriculum/"
+  - key: "ProlactinDopaminePituitaryInterpretation"
+    title: "Prolactin-Dopamine-Pituitary Interpretation"
+    url: "/wiki/concepts/prolactindopaminepituitaryinterpretation/"
   - key: "PromiseCredibilityTalentRetention"
     title: "Promise Credibility and Talent Retention / 承诺信用与人才流失"
     url: "/wiki/concepts/promisecredibilitytalentretention/"

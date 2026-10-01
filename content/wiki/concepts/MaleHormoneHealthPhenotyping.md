@@ -7,7 +7,8 @@ sources:
   - essentials-how-to-optimize-testosterone-estrogen-scim1902283258
   - improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670
   - tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886
-last_updated: 2026-09-30
+  - how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ The solo Essentials episode broadens the phenotype beyond male-only testosterone
 
 The Eisenberg interview adds a reproductive and vascular phenotype. Appearance and obesity alone do not reliably predict testosterone or semen quality; fertility goals, semen analysis, LH/FSH feedback, medication exposure, erectile function, cardiometabolic risk, prolactin, varicocele, and testicular findings can change both interpretation and treatment choice.
 
+Gillett's earlier vitality interview broadens the same phenotype through fasting and calorie context, prolactin-pituitary interpretation, sleep-apnea risk, prostate and urinary symptoms, and the distinction between steady replacement and large hormone peaks. It also makes the cross-sex boundary explicit: male markers sit inside a wider endocrine system rather than defining hormone health as testosterone maximization.
+
 ## Key Claims
 - Testosterone assessment should include SHBG context or free testosterone rather than total testosterone alone.
 - DHT and free DHT can diverge because high SHBG may raise total bound hormone while lowering free hormone availability.
@@ -32,7 +35,7 @@ The Eisenberg interview adds a reproductive and vascular phenotype. Appearance a
 - Hormone health is tied to foundational behaviors: sleep, diet quality, exercise dose, stress management, purpose, fiber, essential fats, vitamin D, and body-composition context.
 - IGF-1, growth hormone, vitamin D, estrogen, DHT, testosterone, and SHBG should be read as an interacting system rather than separate targets.
 - Physician-guided bloodwork and shared decision-making are part of the phenotype because symptoms, fertility goals, dosing risk, and side effects change the interpretation.
-- Sexual function, testicular history, puberty timing, fertility exposure, estradiol, aromatase, LH, DHT, sleep, illness, stress, light timing, and exercise context belong in the interpretation rather than being reduced to one testosterone number.
+- Sexual function, testicular history, puberty timing, fertility exposure, estradiol, aromatase, LH, DHT, prolactin, sleep apnea, illness, stress, light timing, and exercise context belong in the interpretation rather than being reduced to one testosterone number.
 
 ## Evidence
 - Marker interpretation: [[essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415]] recommends testosterone plus SHBG or free testosterone and explains SHBG as binding androgens and estrogen.
@@ -43,13 +46,15 @@ The Eisenberg interview adds a reproductive and vascular phenotype. Appearance a
 - Feedback and behavioral context: [[essentials-how-to-optimize-testosterone-estrogen-scim1902283258]] connects testosterone, estradiol, aromatase, LH, DHT, sleep, illness, stress, light, and exercise while emphasizing bloodwork and feedback effects.
 - Reproductive and clinical context: [[improving-male-sexual-health-function-fertility-dr-michael-eisenberg-scim8414501670]] connects testosterone interpretation with semen testing, LH/FSH suppression, prolactin, erectile function, cardiometabolic health, varicocele, testicular findings, and fertility goals.
 - Full-episode developmental and symptom context: [[tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886]] adds puberty timing, growth, testicular descent, subjective symptoms, erectile-function triage, heat and mechanical fertility exposures, and longitudinal monitoring while substantially overlapping the later Essentials cut.
+- Broader hormone and sleep context: [[how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014]] adds prolactin and pituitary context, calorie-dependent testosterone effects, TRT-related sleep-apnea and sympathetic concerns, prostate symptoms, and steady-state dosing to the phenotype.
 
 ## Counterevidence & Qualifications
-The sources do not supply a universal lab schedule, target range, diet plan, or treatment protocol. The full and Essentials Gillett notes derive from the same interview and should not be counted as independent evidence. Acute testosterone changes after competition or exercise do not by themselves establish durable health benefit. These episodes are public education about how to structure clinical conversation; abnormal labs, sleep apnea, infertility concerns, puberty/development issues, medication decisions, hair-loss treatment, sexual symptoms, cardiovascular risk, cancer history, mental-status changes, and hormone therapy require qualified medical assessment.
+The sources do not supply a universal lab schedule, target range, diet plan, or treatment protocol. The male-optimization full and Essentials Gillett notes derive from the same interview and should not be counted as independent evidence; the earlier Gillett interview is distinct but still not independent-expert corroboration. Acute testosterone changes after competition or exercise do not by themselves establish durable health benefit. These episodes are public education about how to structure clinical conversation; abnormal labs, pituitary symptoms, sleep apnea, infertility concerns, puberty/development issues, medication decisions, hair-loss treatment, sexual symptoms, cardiovascular risk, cancer history, mental-status changes, and hormone therapy require qualified medical assessment.
 
 ## What Changed
 - Added the full episode's puberty, growth, testicular-history, symptom, and fertility-exposure detail.
 - Clarified that the full and Essentials Gillett notes are overlapping versions, not independent corroboration.
+- Added prolactin-pituitary, sleep-apnea, prostate, calorie-context, and steady-state dosing variables from the distinct earlier Gillett interview.
 
 ## Related Concepts
 - [[FemaleHormoneHealthPhenotyping]] - parallel individualized hormone-measurement frame for women.
@@ -63,3 +68,4 @@ The sources do not supply a universal lab schedule, target range, diet plan, or 
 - [[MaleReproductiveHealthAssessment]] - broader fertility and urologic assessment frame in which hormone results are interpreted.
 - [[ErectileDysfunctionVascularTriage]] - sexual-function branch that prevents low-testosterone assumptions from replacing vascular assessment.
 - [[MalePubertyGrowthContext]] - developmental branch for puberty timing, growth trajectory, adiposity, nutrition, sleep, and training.
+- [[ProlactinDopaminePituitaryInterpretation]] - adjacent endocrine branch for prolactin elevation, gonadal feedback, and pituitary assessment.
