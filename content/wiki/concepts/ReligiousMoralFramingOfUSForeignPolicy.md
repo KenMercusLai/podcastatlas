@@ -4,6 +4,7 @@ type: concept
 tags: [religion, united-states, foreign-policy, cold-war, political-rhetoric]
 sources:
   - 153-god-and-the-american-empire-glt8752091834
+  - 152-american-crusades-glt4400059090
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -16,19 +17,24 @@ Religious moral framing of U.S. foreign policy is the recurrent interpretation o
 
 ## Current Synthesis
 
-The episode rejects the idea that religion is only ceremonial decoration. Its “sword of the spirit” names militant or crusading action, while its “shield of faith” names reformist, pacifist, pluralist, or rights-oriented action. Because both draw on religious commitments, faith cannot be mapped mechanically onto either intervention or restraint.
+The paired episodes reject the idea that religion is only ceremonial decoration. [[152-american-crusades-glt4400059090]] traces a repertoire from Puritan exemplary mission and colonial war through Manifest Destiny, abolition, Civil War emancipation, and Protestant empire in the Philippines. [[153-god-and-the-american-empire-glt8752091834]] carries it through the Second World War, Cold War, 9/11, and Trump-era coalition politics.
 
-The framework changes across coalitions and presidents. Truman's religious summit proposal and Israel recognition, Reagan's “evil empire” language and religious-freedom diplomacy, Bush's crusade slip and defense of Islam, and Trump's evangelical alignment all show religious language operating through different policies and levels of personal belief.
+The “sword of the spirit” names militant or crusading action, while the “shield of faith” names reformist, pacifist, pluralist, or rights-oriented action. Because both draw on religious commitments, faith cannot be mapped mechanically onto intervention or restraint. McKinley's Philippine uplift claim, Truman's religious summit proposal and Israel recognition, Reagan's “evil empire” language and religious-freedom diplomacy, Bush's crusade slip and defense of Islam, and Trump's evangelical alignment show the frame changing across periods, coalitions, and levels of personal belief.
 
 ## Key Claims
 
 - Religious belief can shape perceived national purpose rather than merely decorate a prior strategic choice.
 - Militant and restraint-oriented policies can both draw legitimacy from religious traditions.
+- Civilizational hierarchy can translate conquest into an asserted duty to educate, uplift, convert, or liberate.
+- Emancipation and humanitarian language can transform the stated purpose and remembered model of a war without erasing its prior causes or mixed motives.
 - Religious freedom can serve as a diplomatic issue and confidence-building mechanism as well as a moral slogan.
 - Pluralist claims about “true” religion can coexist with warlike language after a security shock.
-- Coalition responsiveness can preserve religious policy effects even when a leader is not personally devout.
 
 ## Evidence
+
+### Colonial, expansionist, and imperial framing
+
+- [[152-american-crusades-glt4400059090]] connects Puritan exemplary mission, colonial religious legitimation, Manifest Destiny, Civil War emancipation, and McKinley's Protestant rationale for Philippine annexation.
 
 ### Cold War mission and diplomacy
 
@@ -40,15 +46,18 @@ The framework changes across coalitions and presidents. Truman's religious summi
 
 ## Counterevidence & Qualifications
 
-Religious rhetoric does not by itself establish causation, private belief, policy consistency, or benevolent outcomes. The episode emphasizes presidents and elite language more than dissenting religious movements, non-Christian perspectives, bureaucratic interests, material strategy, or people affected by American power.
+Religious rhetoric does not by itself establish causation, private belief, policy consistency, or benevolent outcomes. The sources emphasize presidents and elite interpretation more than Indigenous, Filipino, non-Christian, and other people affected by American power. Land, slavery, markets, settlement, bureaucracy, and strategy remain interacting causes, while “humanitarian war” can retrospectively simplify domestic conflict and coercive outcomes.
 
 ## What Changed
 
-- Created a two-impulse framework that preserves both militant and reformist religious routes into foreign policy.
+- Extended the framework from modern diplomacy back through colonial war, Manifest Destiny, Civil War emancipation, and Philippine annexation.
+- Added civilizational uplift and humanitarian-war language as mechanisms requiring explicit coercion and mixed-motive qualifications.
 
 ## Related Concepts
 
 - [[AmericanReligiousPersistence]] - domestic institutional basis for a durable religious political repertoire.
 - [[JudeoChristianNationalIdentity]] - coalition identity that strengthened the Cold War religious-versus-irreligious boundary.
 - [[AmericanExceptionalism]] - national mission belief often expressed through moral-religious language.
+- [[ManifestDestiny]] - territorial form of moralized national mission.
+- [[AmericanImperialSelfDenial]] - disavowal that can follow religiously justified imperial action.
 - [[ColdWarNuclearMisperception]] - security risk that moral confrontation could intensify even when diplomacy later reduced it.

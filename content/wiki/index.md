@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [152. American Crusades](sources/152-american-crusades-glt4400059090.md) — The Rest Is History with Andrew Preston on religiously framed expansion, reform, Civil War emancipation, Philippine empire, and American imperial self-denial.
 - [153. God and the American Empire](sources/153-god-and-the-american-empire-glt8752091834.md) — The Rest Is History with Andrew Preston on American religious persistence, Judeo-Christian national identity, and moral-religious framing from World War II through Trump.
 - [Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel](sources/using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213.md) — Huberman Lab interview on clinical hypnosis, hypnotizability, mind-body control, pain, trauma, sleep, and evidence and safety boundaries.
 - [155. Ukraine and Russia](sources/155-ukraine-and-russia-glt2859413707.md) — The Rest Is History on Ukrainian identity before Bolshevism, Kievan Rus, Cossack autonomy, imperial and Soviet rule, 1991 independence, and the political use of historical claims.
@@ -3456,7 +3457,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [154. The Most Disastrous Party in History](sources/154-the-most-disastrous-party-in-history-glt6506112996.md) — The Rest Is History countdown using Partygate, failed festivals, treacherous feasts, court fire, crowd catastrophe, and Persepolis to examine how gatherings become political symbols.
 
 ## Entities
-- [Andrew Preston](entities/AndrewPreston.md) — Historian interpreting modern American religion through disestablishment, competition, pluralism, and foreign-policy moral framing.
+- [Andrew Preston](entities/AndrewPreston.md) — Historian interpreting American religion through institutional persistence, expansion, reform, pluralism, and competing foreign-policy impulses.
 - [Harry S. Truman](entities/HarrySTruman.md) — U.S. president whose early Cold War profile joins religious mobilization, biblical imagination, and recognition of Israel.
 - [David Spiegel](entities/DavidSpiegel.md) — Stanford psychiatrist and hypnosis researcher framing focused attention as a voluntary, clinically bounded route to mind-body control.
 - [Reveri](entities/Reveri.md) — Self-hypnosis app derived from David Spiegel's research framework, bounded from clinician-guided treatment.
@@ -3562,7 +3563,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Gettysburg](entities/BattleOfGettysburg.md) — Three-day 1863 battle shaped by encounter, intelligence, terrain, failed central assault, strategic reversal, and later national memory.
 - [Siege of Vicksburg](entities/SiegeOfVicksburg.md) — Grant's Mississippi victory that divided Confederate territory and formed the geographic half of the paired July 1863 turning point.
 - [Emancipation Proclamation](entities/EmancipationProclamation.md) — Geographically limited wartime policy hinge joining Antietam, slavery's destruction, Black enlistment, diplomacy, and military enforcement.
-- [Abraham Lincoln](entities/AbrahamLincoln.md) — Union president joining preservation, antislavery policy, military timing, democratic refounding, and limited Black citizenship claims.
+- [Abraham Lincoln](entities/AbrahamLincoln.md) — Union president joining preservation, antislavery policy, military timing, providential language, democratic refounding, and limited Black citizenship claims.
 - [Robert E. Lee](entities/RobertELee.md) — Confederate commander whose slaveholding allegiance, northern invasions, surrender, and defeat explanation shaped contested memory.
 - [Ulysses S. Grant](entities/UlyssesSGrant.md) — Union commander whose lenient Appomattox terms ended fighting without settling postwar racial politics.
 - [Jefferson Davis](entities/JeffersonDavis.md) — Confederate president whose wartime rejection of emancipation preceded a postwar constitutional defense that displaced slavery.
@@ -12850,7 +12851,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Moment](entities/AmericanMoment.md) — New-right youth-staffing and culture-building organization used by the episode to show personnel continuity beyond one Trump term.
 - [Republican Party](entities/RepublicanParty.md) — U.S. party represented by its 2024 platform, compared with Project 2025 and AFPI as compressed campaign-language policy.
 - [Peter Navarro](entities/PeterNavarro.md) — Trump trade-policy figure used by the episode to explain tariff support through manufacturing, wages, defense industry, and supply-chain security.
-- [William McKinley](entities/WilliamMcKinley.md) — Historical U.S. president used as an analogy for high tariffs, gold-standard discipline, industrial protection, and domestic-market leverage.
+- [William McKinley](entities/WilliamMcKinley.md) — U.S. president joining protectionist industrial policy and Philippine expansion to a qualified account of Protestant imperial reasoning.
 - [Department of Education](entities/DepartmentOfEducation.md) — U.S. federal education agency treated as a central institutional target of Project 2025 and the Republican platform.
 - [阿娇 / 柱子哥](entities/Ajiao.md) — Writer, overseas-work professional, rescuer, and public cancer narrator examining dignity, projection, meaning, relational safety, and death.
 - [《我还想看见》](entities/WoHaiXiangKanjian.md) — Ajiao's book discussed as a dated self-record, illness narrative, and broader portrait beyond the anti-cancer blogger label.
@@ -15360,9 +15361,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Persepolis](entities/Persepolis.md) — Achaemenid ceremonial capital linking Alexander's destructive conquest memory to the shah's 1971 imperial spectacle.
 
 ## Concepts
+- [Manifest Destiny](concepts/ManifestDestiny.md) — Nineteenth-century ideology moralizing territorial expansion as both American right and civilizing responsibility.
+- [American Imperial Self-Denial](concepts/AmericanImperialSelfDenial.md) — Gap between American conquest and overseas rule and a recurring national self-image opposed to empire.
 - [American Religious Persistence](concepts/AmericanReligiousPersistence.md) — Institutional account of how disestablishment and religious competition helped public faith persist alongside modernization.
 - [Judeo-Christian National Identity](concepts/JudeoChristianNationalIdentity.md) — Wartime and Cold War coalition grouping Protestants, Catholics, and Jews inside a shared American religious story.
-- [Religious Moral Framing of U.S. Foreign Policy](concepts/ReligiousMoralFramingOfUSForeignPolicy.md) — Recurrent use of mission, good and evil, religious freedom, pluralism, and crusade in American international politics.
+- [Religious Moral Framing of U.S. Foreign Policy](concepts/ReligiousMoralFramingOfUSForeignPolicy.md) — Recurrent use of mission, uplift, humanitarianism, good and evil, religious freedom, pluralism, and crusade in American international politics.
 - [Clinical Hypnosis](concepts/ClinicalHypnosis.md) — Voluntary focused-attention intervention using bodily regulation, imagery, and suggestion for defined clinical goals.
 - [Hypnotizability](concepts/Hypnotizability.md) — Graded individual capacity for hypnotic experience, distinguished from practice skill and treatment outcome.
 - [Ukrainian National Identity](concepts/UkrainianNationalIdentity.md) — Historically changing identity formed through cultural practice, regional diversity, political organization, trauma, and democratic sovereignty rather than Soviet invention.
@@ -21719,7 +21722,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [U.S. Constitutional Reform Constraint](concepts/USConstitutionalReformConstraint.md) — sp.05 explanation of how Article V thresholds, slavery-era compromises, federalism, and presidentialism make structural reform hard.
 - [MAGA Coalition Fracture](concepts/MAGACoalitionFracture.md) — sp.05 concept for the split between grassroots nativism, Silicon Valley labor demand, Trump politics, and narrow Republican governing margins.
 - [Identity Politics As Political Sorting](concepts/IdentityPoliticsAsPoliticalSorting.md) — Account of how welfare, race, immigration, refugee deservingness, MAGA, BLM, media, and party identities sort political judgment.
-- [American Exceptionalism](concepts/AmericanExceptionalism.md) — Belief in distinctive American purpose expressed through religious mission and, more narrowly, demands that international rules bend for U.S. cases.
+- [American Exceptionalism](concepts/AmericanExceptionalism.md) — Belief in distinctive American purpose expressed through exemplary mission, expansion, anti-imperial identity, and demands for rule exceptions.
 - [South African White Migrant Labor](concepts/SouthAfricanWhiteMigrantLabor.md) — Field-reporting concept for white South Africans working as seasonal, employer-dependent farm laborers in Mississippi.
 - [Selective White Refugee Exception](concepts/SelectiveWhiteRefugeeException.md) — Immigration-politics pattern where restrictionist policy opens favored pathways for white migrants who fit a persecution narrative.
 - [White Victimhood Narrative](concepts/WhiteVictimhoodNarrative.md) — Race-and-grievance story in which loss of historical advantage is recoded as discrimination or persecution.

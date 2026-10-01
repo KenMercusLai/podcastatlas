@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9199
+wiki_total_pages: 9201
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "MandatoryTreatmentHomelessnessPolicy"
     title: "Mandatory Treatment Homelessness Policy"
     url: "/wiki/concepts/mandatorytreatmenthomelessnesspolicy/"
+  - key: "ManifestDestiny"
+    title: "Manifest Destiny"
+    url: "/wiki/concepts/manifestdestiny/"
   - key: "ManualComplianceMVP"
     title: "Manual Compliance MVP"
     url: "/wiki/concepts/manualcompliancemvp/"

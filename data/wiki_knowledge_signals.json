@@ -4843,9 +4843,9 @@
       "url": "/wiki/entities/abrahambeame/"
     },
     "AbrahamLincoln": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3990109453 [GLT3990109453].md",
@@ -4874,6 +4874,13 @@
           "show": "The Rest Is History",
           "title": "200: American Civil War: The Causes (Part 1)",
           "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
+        },
+        {
+          "episode_file": "GLT4400059090 [GLT4400059090].md",
+          "key": "152-american-crusades-glt4400059090",
+          "show": "The Rest Is History",
+          "title": "152. American Crusades",
+          "url": "/wiki/sources/152-american-crusades-glt4400059090/"
         }
       ],
       "updated": "2026-10-01",
@@ -9974,9 +9981,9 @@
       "url": "/wiki/concepts/americandemocraticresilience/"
     },
     "AmericanExceptionalism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "b28f7eaa-c801-4d5f-a6e5-35326d335df7 [b28f7eaa-c801-4d5f-a6e5-35326d335df7].md",
@@ -9991,10 +9998,33 @@
           "show": "The Rest Is History",
           "title": "153. God and the American Empire",
           "url": "/wiki/sources/153-god-and-the-american-empire-glt8752091834/"
+        },
+        {
+          "episode_file": "GLT4400059090 [GLT4400059090].md",
+          "key": "152-american-crusades-glt4400059090",
+          "show": "The Rest Is History",
+          "title": "152. American Crusades",
+          "url": "/wiki/sources/152-american-crusades-glt4400059090/"
         }
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/americanexceptionalism/"
+    },
+    "AmericanImperialSelfDenial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4400059090 [GLT4400059090].md",
+          "key": "152-american-crusades-glt4400059090",
+          "show": "The Rest Is History",
+          "title": "152. American Crusades",
+          "url": "/wiki/sources/152-american-crusades-glt4400059090/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/americanimperialselfdenial/"
     },
     "AmericanIndependentParty": {
       "episode_count": 1,
@@ -11328,9 +11358,9 @@
       "url": "/wiki/entities/andrewpalmer/"
     },
     "AndrewPreston": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8752091834 [GLT8752091834].md",
@@ -11338,6 +11368,13 @@
           "show": "The Rest Is History",
           "title": "153. God and the American Empire",
           "url": "/wiki/sources/153-god-and-the-american-empire-glt8752091834/"
+        },
+        {
+          "episode_file": "GLT4400059090 [GLT4400059090].md",
+          "key": "152-american-crusades-glt4400059090",
+          "show": "The Rest Is History",
+          "title": "152. American Crusades",
+          "url": "/wiki/sources/152-american-crusades-glt4400059090/"
         }
       ],
       "updated": "2026-10-02",
@@ -123792,6 +123829,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/manhattanproject/"
     },
+    "ManifestDestiny": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4400059090 [GLT4400059090].md",
+          "key": "152-american-crusades-glt4400059090",
+          "show": "The Rest Is History",
+          "title": "152. American Crusades",
+          "url": "/wiki/sources/152-american-crusades-glt4400059090/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/manifestdestiny/"
+    },
     "ManiusAquillius": {
       "episode_count": 2,
       "show_count": 1,
@@ -159947,9 +160000,9 @@
       "url": "/wiki/concepts/religiousexperiencemedicalizationboundary/"
     },
     "ReligiousMoralFramingOfUSForeignPolicy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8752091834 [GLT8752091834].md",
@@ -159957,6 +160010,13 @@
           "show": "The Rest Is History",
           "title": "153. God and the American Empire",
           "url": "/wiki/sources/153-god-and-the-american-empire-glt8752091834/"
+        },
+        {
+          "episode_file": "GLT4400059090 [GLT4400059090].md",
+          "key": "152-american-crusades-glt4400059090",
+          "show": "The Rest Is History",
+          "title": "152. American Crusades",
+          "url": "/wiki/sources/152-american-crusades-glt4400059090/"
         }
       ],
       "updated": "2026-10-02",
@@ -201573,6 +201633,29 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/williamjoyce/"
+    },
+    "WilliamMcKinley": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "vol.113.从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络 [lihNKnC-3oM5EVEXOcB6A6zdwueu].md",
+          "key": "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu",
+          "show": "起朱楼宴宾客",
+          "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",
+          "url": "/wiki/sources/vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu/"
+        },
+        {
+          "episode_file": "GLT4400059090 [GLT4400059090].md",
+          "key": "152-american-crusades-glt4400059090",
+          "show": "The Rest Is History",
+          "title": "152. American Crusades",
+          "url": "/wiki/sources/152-american-crusades-glt4400059090/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/williammckinley/"
     },
     "WilliamMcMahon": {
       "episode_count": 1,

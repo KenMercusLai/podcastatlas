@@ -27183,3 +27183,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 152. American Crusades
+
+Added source `152-american-crusades-glt4400059090`; created `ManifestDestiny` and `AmericanImperialSelfDenial`; and resynthesized `AndrewPreston`, `WilliamMcKinley`, `AbrahamLincoln`, `ReligiousMoralFramingOfUSForeignPolicy`, and `AmericanExceptionalism` from their complete preserved evidence inventories. Core synthesis: religious belief was an internally divided but potentially genuine influence on American expansion, emancipation, reform, war, and empire, interacting with land, slavery, settlement, markets, strategy, race, and power rather than replacing them. No settled contradiction was adopted. The Civil War's humanitarian-war framing, McKinley's private motives, Protestant generalizations, casualty claims, and the mechanisms of imperial forgetting remain qualified or source-scoped; uplift language does not remove conquest, racial hierarchy, or Filipino resistance. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,396-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the corpus-wide link scan retained 14 pre-existing broken links outside this ingest's changed pages.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
