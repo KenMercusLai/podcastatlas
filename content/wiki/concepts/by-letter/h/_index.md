@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9058
+wiki_total_pages: 9059
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "HomebuildingAIOperations"
     title: "Homebuilding AI Operations"
     url: "/wiki/concepts/homebuildingaioperations/"
+  - key: "HomeostaticNeuralPlasticity"
+    title: "Homeostatic Neural Plasticity"
+    url: "/wiki/concepts/homeostaticneuralplasticity/"
   - key: "HomerQuestion"
     title: "Homer Question"
     url: "/wiki/concepts/homerquestion/"

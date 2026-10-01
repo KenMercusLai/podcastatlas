@@ -4,8 +4,9 @@ type: concept
 tags: [psychiatry, diagnosis, mania, depression]
 sources:
   - essentials-the-science-treatment-of-bipolar-disorder-scim8821948371
+  - the-science-treatment-of-bipolar-disorder-scim7309473526
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-28
+last_updated: 2026-10-01
 ---
 
 # Bipolar Mania-Hypomania Spectrum
@@ -16,7 +17,7 @@ Bipolar mania-hypomania spectrum is the episode's distinction among bipolar I, b
 ## Current Synthesis
 [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] uses the spectrum to prevent two common simplifications: treating bipolar disorder as ordinary moodiness, and treating it as a neat sine-wave alternation between high and low states. Bipolar I is described through extended manic episodes of seven days or more, while bipolar II is described through hypomanic or shorter and less intense manic episodes, often with major depression. Mania itself is framed as a sustained cluster of elevated mood, increased energy, distractibility, impulsivity, grandiosity, flight of ideas, agitation, minimal sleep, and rapid pressured speech.
 
-The practical judgment is that diagnosis depends on duration, symptom clustering, impairment, and longitudinal observation. Isolated energetic or impulsive moments are not the same as a manic or hypomanic episode.
+The practical judgment is that diagnosis depends on duration, symptom clustering, impairment, longitudinal observation, and exclusion of plausible mimics. Isolated energetic or impulsive moments are not the same as a manic or hypomanic episode. The full episode adds that bipolar I need not include depression and that bipolar II can be missed when brief hypomania looks like recovery from a longer depressive period.
 
 ## Key Claims
 - Bipolar I is distinguished by sustained manic episodes lasting seven days or more in the source's description.
@@ -24,18 +25,20 @@ The practical judgment is that diagnosis depends on duration, symptom clustering
 - Bipolar II is associated with hypomanic or less intense manic states and with depressive episodes that may be clinically major.
 - Cycling patterns vary enough that observation over time matters.
 - The spectrum distinguishes bipolar disorder from ordinary energy, enthusiasm, impulsivity, or changing mood.
+- Brain injury, seizures, corticosteroids, stimulants, cocaine, and other drugs belong in differential assessment rather than being assumed to establish bipolar disorder.
 
 ## Evidence
 - Bipolar I criterion: [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] states that bipolar I involves extended manic episodes lasting seven days or more.
 - Mania symptom cluster: [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] lists elevated mood, increased energy, distractibility, impulsivity, grandiosity, flight of ideas, agitation, little sleep, and pressured speech.
 - Bipolar II pattern: [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] describes bipolar II as involving hypomanic or less intense episodes and often major depression lasting two weeks or more.
 - Cycling caution: [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] warns against imagining bipolar disorder as a simple regular alternation between mania and depression.
+- Longitudinal and differential context: [[the-science-treatment-of-bipolar-disorder-scim7309473526]] says bipolar I may return from mania to baseline without depression, brief hypomania may be mistaken for recovery, and several neurological, medication, or drug states can resemble mania.
 
 ## Counterevidence & Qualifications
-The page records the episode's educational description rather than a full diagnostic rule set. It does not cover every formal criterion, differential diagnosis, medication effect, substance effect, sleep disorder, ADHD overlap, trauma context, or medical mimic.
+The page records educational descriptions rather than a full diagnostic rule set. The full and Essentials episodes are derivative versions of one source, and their symptom-time percentages and duration language remain source-scoped. The notes do not cover every formal criterion, mixed-feature specification, hospitalization rule, differential diagnosis, medication effect, substance effect, sleep disorder, ADHD overlap, trauma context, or medical mimic.
 
 ## What Changed
-- Created a diagnostic-pattern concept for the episode's bipolar I, bipolar II, mania, hypomania, depression, and cycling distinctions.
+- Added the full episode's no-depression bipolar I branch, missed-hypomania problem, and differential-mimic boundary.
 
 ## Related Concepts
 - [[BipolarDisorder]] - parent condition category that the spectrum clarifies.

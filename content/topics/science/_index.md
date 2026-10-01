@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1364
+topic_total_pages: 1366
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1021,6 +1021,9 @@ topic_concepts:
   - key: "HolidayImprovementIdeology"
     title: "Holiday Improvement Ideology"
     url: "/wiki/concepts/holidayimprovementideology/"
+  - key: "HomeostaticNeuralPlasticity"
+    title: "Homeostatic Neural Plasticity"
+    url: "/wiki/concepts/homeostaticneuralplasticity/"
   - key: "HormoneContextAggression"
     title: "Hormone Context Aggression"
     url: "/wiki/concepts/hormonecontextaggression/"
@@ -3972,6 +3975,9 @@ topic_sources:
   - key: "the-science-art-of-comedy-creativity-tom-segura-scim7538555033"
     title: "The Science & Art of Comedy & Creativity | Tom Segura"
     url: "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+  - key: "the-science-treatment-of-bipolar-disorder-scim7309473526"
+    title: "The Science & Treatment of Bipolar Disorder"
+    url: "/wiki/sources/the-science-treatment-of-bipolar-disorder-scim7309473526/"
   - key: "the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097"
     title: "The Science of Creativity & How to Enhance Creative Innovation"
     url: "/wiki/sources/the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097/"

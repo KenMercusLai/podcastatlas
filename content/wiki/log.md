@@ -26427,3 +26427,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | The Science & Treatment of Bipolar Disorder
+
+Added source `the-science-treatment-of-bipolar-disorder-scim7309473526`; created `HomeostaticNeuralPlasticity`; and resynthesized `BipolarDisorder`, `BipolarManiaHypomaniaSpectrum`, `LithiumBipolarTreatment`, `BipolarInteroceptionDecline`, `IntegratedBipolarCare`, `ECTBipolarDepressionBoundary`, `BipolarCreativityCorrelation`, and `JohnCade` from their complete preserved evidence inventories. Core synthesis: longitudinal observation and differential assessment distinguish bipolar episodes from ordinary variability and medical, neurological, medication, or substance mimics; lithium, psychotherapy, family observation, rhythm support, ECT, RTMS, ketamine, lifestyle, and supplements occupy different evidence and risk tiers under qualified psychiatric care. No settled contradiction was adopted. The full episode and later Essentials edit are derivative rather than independent evidence, and symptom-time, suicide-risk, heritability, connectivity, mechanism, omega-3, neuromodulation, and creativity claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,304-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

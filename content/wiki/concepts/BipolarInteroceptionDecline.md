@@ -4,8 +4,9 @@ type: concept
 tags: [bipolar-disorder, interoception, neuroscience, psychiatry]
 sources:
   - essentials-the-science-treatment-of-bipolar-disorder-scim8821948371
+  - the-science-treatment-of-bipolar-disorder-scim7309473526
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-28
+last_updated: 2026-10-01
 ---
 
 # Bipolar Interoception Decline
@@ -16,7 +17,7 @@ Bipolar interoception decline is the episode's claim that some people with bipol
 ## Current Synthesis
 [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] distinguishes exteroception, attention to the outside world, from interoception, perception of internal bodily states. The source then links bipolar disorder to reduced interoception over time, especially into the second and third decade of illness. The proposed significance is practical: when internal feedback weakens, a person in mania may not register days without sleep, excessive speech, long periods without eating, or escalating physiological strain.
 
-The page keeps this as a mechanism hypothesis from the episode. It adds a bipolar-specific branch to the wiki's broader [[BrainBodyEmotionMapping]] and clinical-boundary pages without claiming that interoceptive decline is the sole cause or diagnostic test for bipolar disorder.
+The full episode adds a circuit-level companion claim: a cited longitudinal study reportedly found reduced connectivity between parietal regions and the limbic system among people at high genetic risk, interpreted as weaker top-down regulation. The page keeps both claims as source-scoped hypotheses. They add a bipolar-specific branch to [[BrainBodyEmotionMapping]] without making interoceptive decline or connectivity a sole cause, diagnostic test, or individual prediction.
 
 ## Key Claims
 - The source distinguishes exteroception from interoception before applying the distinction to bipolar disorder.
@@ -24,18 +25,20 @@ The page keeps this as a mechanism hypothesis from the episode. It adds a bipola
 - Reduced internal feedback may make manic escalation harder for the person to notice.
 - Sleep loss, excessive speech, and missed eating are treated as examples of danger signals that may fail to register.
 - The mechanism supports the need for external care structures rather than relying only on self-monitoring.
+- Reduced parietal-limbic connectivity is presented as a possible companion mechanism, not an established individual biomarker.
 
 ## Evidence
 - Concept distinction: [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] separates exteroception from interoception in the episode's mechanism discussion.
 - Progression claim: [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] says people with bipolar disorder show progressively diminished interoception over time, especially into the second and third decade of illness.
 - Practical examples: [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] links reduced interoception to not registering excessive speech, lack of sleep, or long periods without eating.
 - Care implication: [[essentials-the-science-treatment-of-bipolar-disorder-scim8821948371]] places the mechanism inside a broader warning that bipolar disorder needs professional care and support.
+- Connectivity claim: [[the-science-treatment-of-bipolar-disorder-scim7309473526]] reports reduced parietal-limbic connectivity in a longitudinal high-genetic-risk study and interprets it as diminished top-down regulation.
 
 ## Counterevidence & Qualifications
-The source does not present interoception as a diagnostic marker, universal mechanism, or stand-alone treatment target. The claim needs additional evidence before the wiki treats it as more than a source-scoped mechanism branch.
+The sources do not present interoception as a diagnostic marker, universal mechanism, or stand-alone treatment target. The full and Essentials episodes are derivative versions of the same account, and the supplied notes do not identify the study well enough to evaluate sample, effect size, replication, or clinical utility. The claims remain source-scoped mechanism branches.
 
 ## What Changed
-- Created a bipolar-specific interoception concept connecting internal-state perception to manic-risk detection and care boundaries.
+- Added the full episode's parietal-limbic connectivity hypothesis and evidence limits.
 
 ## Related Concepts
 - [[BipolarDisorder]] - condition whose risk profile this mechanism may help explain.

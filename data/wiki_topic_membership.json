@@ -38706,6 +38706,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "HomeostaticNeuralPlasticity": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Homer": [
     {
       "key": "culture",
@@ -94779,6 +94786,13 @@
     }
   ],
   "the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "the-science-treatment-of-bipolar-disorder-scim7309473526": [
     {
       "key": "science",
       "label": "Science",

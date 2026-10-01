@@ -21035,9 +21035,9 @@
       "url": "/wiki/concepts/bipartisanswingstaterepresentation/"
     },
     "BipolarCreativityCorrelation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8821948371 [SCIM8821948371].md",
@@ -21045,15 +21045,22 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Bipolar Disorder",
           "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        },
+        {
+          "episode_file": "SCIM7309473526 [SCIM7309473526].md",
+          "key": "the-science-treatment-of-bipolar-disorder-scim7309473526",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/the-science-treatment-of-bipolar-disorder-scim7309473526/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/bipolarcreativitycorrelation/"
     },
     "BipolarDisorder": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8821948371 [SCIM8821948371].md",
@@ -21068,15 +21075,22 @@
           "show": "这病说来话长",
           "title": "VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪",
           "url": "/wiki/sources/vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d/"
+        },
+        {
+          "episode_file": "SCIM7309473526 [SCIM7309473526].md",
+          "key": "the-science-treatment-of-bipolar-disorder-scim7309473526",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/the-science-treatment-of-bipolar-disorder-scim7309473526/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/bipolardisorder/"
     },
     "BipolarInteroceptionDecline": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8821948371 [SCIM8821948371].md",
@@ -21084,15 +21098,22 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Bipolar Disorder",
           "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        },
+        {
+          "episode_file": "SCIM7309473526 [SCIM7309473526].md",
+          "key": "the-science-treatment-of-bipolar-disorder-scim7309473526",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/the-science-treatment-of-bipolar-disorder-scim7309473526/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/bipolarinteroceptiondecline/"
     },
     "BipolarManiaHypomaniaSpectrum": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8821948371 [SCIM8821948371].md",
@@ -21100,9 +21121,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Bipolar Disorder",
           "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        },
+        {
+          "episode_file": "SCIM7309473526 [SCIM7309473526].md",
+          "key": "the-science-treatment-of-bipolar-disorder-scim7309473526",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/the-science-treatment-of-bipolar-disorder-scim7309473526/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/bipolarmaniahypomaniaspectrum/"
     },
     "Birdhouse": {
@@ -51981,9 +52009,9 @@
       "url": "/wiki/concepts/ebikevaluechainshift/"
     },
     "ECTBipolarDepressionBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8821948371 [SCIM8821948371].md",
@@ -51991,9 +52019,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Bipolar Disorder",
           "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        },
+        {
+          "episode_file": "SCIM7309473526 [SCIM7309473526].md",
+          "key": "the-science-treatment-of-bipolar-disorder-scim7309473526",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/the-science-treatment-of-bipolar-disorder-scim7309473526/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/ectbipolardepressionboundary/"
     },
     "EJChichilnisky": {
@@ -85045,6 +85080,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/homeservicerobots/"
     },
+    "HomeostaticNeuralPlasticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7309473526 [SCIM7309473526].md",
+          "key": "the-science-treatment-of-bipolar-disorder-scim7309473526",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/the-science-treatment-of-bipolar-disorder-scim7309473526/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/homeostaticneuralplasticity/"
+    },
     "HomerLexFridmanDog": {
       "episode_count": 1,
       "show_count": 1,
@@ -93346,9 +93397,9 @@
       "url": "/wiki/concepts/insurancerisktransfer/"
     },
     "IntegratedBipolarCare": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8821948371 [SCIM8821948371].md",
@@ -93356,9 +93407,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Bipolar Disorder",
           "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        },
+        {
+          "episode_file": "SCIM7309473526 [SCIM7309473526].md",
+          "key": "the-science-treatment-of-bipolar-disorder-scim7309473526",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/the-science-treatment-of-bipolar-disorder-scim7309473526/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/integratedbipolarcare/"
     },
     "IntegratedCareFragmentation": {
@@ -99719,9 +99777,9 @@
       "url": "/wiki/entities/johncadbury/"
     },
     "JohnCade": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8821948371 [SCIM8821948371].md",
@@ -99729,9 +99787,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Bipolar Disorder",
           "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        },
+        {
+          "episode_file": "SCIM7309473526 [SCIM7309473526].md",
+          "key": "the-science-treatment-of-bipolar-disorder-scim7309473526",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/the-science-treatment-of-bipolar-disorder-scim7309473526/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/johncade/"
     },
     "JohnCalvin": {
@@ -109802,9 +109867,9 @@
       "url": "/wiki/concepts/literatureassocialhistory/"
     },
     "LithiumBipolarTreatment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8821948371 [SCIM8821948371].md",
@@ -109812,9 +109877,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Bipolar Disorder",
           "url": "/wiki/sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371/"
+        },
+        {
+          "episode_file": "SCIM7309473526 [SCIM7309473526].md",
+          "key": "the-science-treatment-of-bipolar-disorder-scim7309473526",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Bipolar Disorder",
+          "url": "/wiki/sources/the-science-treatment-of-bipolar-disorder-scim7309473526/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/lithiumbipolartreatment/"
     },
     "LiuBei": {
