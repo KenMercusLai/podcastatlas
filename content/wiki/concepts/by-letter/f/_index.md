@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9120
+wiki_total_pages: 9123
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "FamilialCancerRiskInterpretation"
     title: "Familial Cancer Risk Interpretation / 家族性肿瘤风险解读"
     url: "/wiki/concepts/familialcancerriskinterpretation/"
+  - key: "FamiliarCategoryPositioning"
+    title: "Familiar Category Positioning"
+    url: "/wiki/concepts/familiarcategorypositioning/"
   - key: "FamiliarPainRelationshipPattern"
     title: "Familiar Pain Relationship Pattern"
     url: "/wiki/concepts/familiarpainrelationshippattern/"

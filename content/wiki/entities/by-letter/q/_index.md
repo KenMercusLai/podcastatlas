@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 11778
+wiki_total_pages: 11786
 wiki_pages:
+  - key: "QForQuinn"
+    title: "Q for Quinn"
+    url: "/wiki/entities/qforquinn/"
   - key: "Qatar"
     title: "Qatar"
     url: "/wiki/entities/qatar/"

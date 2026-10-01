@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11778
+wiki_total_pages: 11786
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -857,6 +857,9 @@ wiki_pages:
   - key: "Bogside"
     title: "Bogside"
     url: "/wiki/entities/bogside/"
+  - key: "BollAndBranch"
+    title: "Boll & Branch"
+    url: "/wiki/entities/bollandbranch/"
   - key: "Bombardier"
     title: "Bombardier / 庞巴迪"
     url: "/wiki/entities/bombardier/"

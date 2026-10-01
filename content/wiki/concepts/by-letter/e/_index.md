@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9120
+wiki_total_pages: 9123
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "EducationDepartmentAbolition"
     title: "Education Department Abolition"
     url: "/wiki/concepts/educationdepartmentabolition/"
+  - key: "EducationMarginBurden"
+    title: "Education Margin Burden"
+    url: "/wiki/concepts/educationmarginburden/"
   - key: "EducationMotivationArchitecture"
     title: "Education Motivation Architecture"
     url: "/wiki/concepts/educationmotivationarchitecture/"

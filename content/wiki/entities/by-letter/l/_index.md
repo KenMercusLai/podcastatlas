@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11778
+wiki_total_pages: 11786
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "LOrealForTheFuture"
     title: "L'Oreal for the Future / 欧莱雅为明天"
     url: "/wiki/entities/lorealforthefuture/"
+  - key: "LCubeLifestyle"
+    title: "L-Cube Lifestyle"
+    url: "/wiki/entities/lcubelifestyle/"
   - key: "LDesign"
     title: "L-Design"
     url: "/wiki/entities/ldesign/"

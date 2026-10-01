@@ -3398,6 +3398,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [200: American Civil War: The Causes (Part 1)](sources/200-american-civil-war-the-causes-part-1-glt1124511401.md) — The Rest Is History episode on slavery's constitutional, economic, territorial, federal, partisan, judicial, and secession mechanisms before Fort Sumter.
 - [199. Stonehenge](sources/199-stonehenge-glt3612348466.md) — The Rest Is History conversation with Mike Pitts on Stonehenge's changing phases, stone transport, burials, solstice alignment, collective construction, and archaeological uncertainty.
 - [191. Childbirth](sources/191-childbirth-glt5119375504.md) — The Rest Is History conversation with Sara Read on female birth communities, early-modern midwifery, religious and parish duties, medicalisation, popular myths, and continuity across changing childbirth cultures.
+- [Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)](sources/advice-line-with-scott-tannen-of-boll-branch-and-jamie-siminoff-of-ring-2025-e64c6623-10d1-4222-85d6-22eeab736221.md) — Advice Line episode on capital timing, founder control, familiar-category positioning, customer-education cost, and behavior-linked product expansion.
 - [189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)](sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202.md) — The Rest Is History survey of Hawke-Keating reform, Howard's conservative era, repeated leadership spills, and Australia's contested international orientation.
 - [188. Australian Prime Ministers: Harold Holt - Malcolm Fraser (Part 2)](sources/188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602.md) — The Rest Is History survey of Holt through Fraser, Whitlam's reform agenda, the Loans Affair, blocked supply, and the 1975 dismissal.
 
@@ -15216,6 +15217,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gough Whitlam](entities/GoughWhitlam.md) — Labor modernizer whose reform government ended in the 1975 supply crisis and dismissal.
 - [Malcolm Fraser](entities/MalcolmFraser.md) — Liberal leader appointed after Whitlam's dismissal, later elected in a landslide and profiled as a pragmatic conservative.
 - [John Kerr](entities/JohnKerr.md) — Governor-general who dismissed Whitlam and commissioned Fraser during the 1975 constitutional crisis.
+- [Scott Tannen](entities/ScottTannen.md) — Boll & Branch co-founder advising on capital, customer education, positioning, and simplicity.
+- [Boll & Branch](entities/BollAndBranch.md) — Founder-led bedding brand used as a case for financing growth while reducing personal risk.
+- [Melita Cyril](entities/MelitaCyril.md) — Q for Quinn founder weighing bootstrapping, strategic investment, mission, and athleisure expansion.
+- [Q for Quinn](entities/QForQuinn.md) — Profitable natural-fiber apparel company considering capital after repeatable growth proof.
+- [Eric Alexen](entities/EricAlexen.md) — L-Cube Lifestyle founder working through UV-apparel positioning and channel choice.
+- [L-Cube Lifestyle](entities/LCubeLifestyle.md) — UV-protective apparel company proposed as a mechanical-sunscreen category.
+- [Chris McKleroy](entities/ChrisMcKleroy.md) — Nocs Provisions founder expanding optics beyond traditional outdoor occasions.
+- [Nocs Provisions](entities/NocsProvisions.md) — Colorful compact-optics brand weighing connected sharing against analog presence.
 
 ## Concepts
 - [Royal Image Cultural Adaptation](concepts/RoyalImageCulturalAdaptation.md) — reuse of a recognizable monarch's image across sacred, celebrity, oppositional, and later institutionally incorporated cultural forms.
@@ -24385,5 +24394,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Therapy Fit and Intensity](concepts/TherapyFitAndIntensity.md) — Framework matching rapport, method flexibility, client ownership, frequency, and level of care to goals and safety.
 - [Psychiatric Medication as Support](concepts/PsychiatricMedicationAsSupport.md) — Diagnosis- and purpose-matched use of medication to support function or therapy without treating it as a complete explanation or cure.
 - [Hawke-Keating Reform Settlement](concepts/HawkeKeatingReformSettlement.md) — Australian Labor combination of universal social provision, union legitimacy, market liberalization, and globalization.
+- [Capital After Repeatable Growth](concepts/CapitalAfterRepeatableGrowth.md) — Financing principle that outside capital should scale an understood engine or responsibly reduce founder risk.
+- [Familiar Category Positioning](concepts/FamiliarCategoryPositioning.md) — Explaining an unfamiliar product through a customer category, need, or behavior buyers already understand.
+- [Education Margin Burden](concepts/EducationMarginBurden.md) — Acquisition and channel cost incurred when customers must learn the problem or category before evaluating a product.
 
 ## Syntheses

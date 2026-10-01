@@ -26757,3 +26757,11 @@ Added source `186-the-new-elizabethan-age-glt7640926802`; created `FrancesChrist
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)
+
+Added source `advice-line-with-scott-tannen-of-boll-branch-and-jamie-siminoff-of-ring-2025-e64c6623-10d1-4222-85d6-22eeab736221`; created `ScottTannen`, `BollAndBranch`, `MelitaCyril`, `QForQuinn`, `EricAlexen`, `LCubeLifestyle`, `ChrisMcKleroy`, `NocsProvisions`, `CapitalAfterRepeatableGrowth`, `FamiliarCategoryPositioning`, and `EducationMarginBurden`; and resynthesized `JamieSiminoff` and `Ring` from their complete preserved evidence inventories. Core synthesis: return-seeking capital works best after a founder knows where it can produce repeatable growth or when it responsibly reduces dangerous personal exposure; unfamiliar products can lower education cost by borrowing a familiar category and channel; and expansion should connect to customer behavior without obscuring the simple reason to buy. No settled contradiction was adopted. Nocs' phone-sharing and screen-light-presence positions remain competing hypotheses, while revenue, store, tariff, certification, financing, and growth claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,345-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, synthesis, index coverage, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
