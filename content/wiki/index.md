@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Understand & Improve Memory Using Science-Based Tools](sources/understand-improve-memory-using-science-based-tools-scim9087472978.md) — Full Huberman Lab episode on repetition, post-learning arousal, hippocampal memory, visual snapshots, meditation timing, and safety boundaries.
 - [186. The New Elizabethan Age](sources/186-the-new-elizabethan-age-glt7640926802.md) — The Rest Is History episode on Elizabeth II's image, sacred office, punk critique, popular-culture adaptation, and post-imperial British soft power.
 - [187. Australian Prime Ministers: Edmund Barton - Robert Menzies (Part 1)](sources/187-australian-prime-ministers-edmund-barton-robert-menzies-part-1-glt3017584065.md) — The Rest Is History survey of federation, mateship and racial exclusion, Curtin's wartime U.S. turn, Chifley, and Menzies's suburban anti-communist coalition.
 - [Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki](sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096.md) — Huberman Lab interview on memory-encoding levers, hippocampal association, exercise-linked cognitive resilience, brief meditation, and explicit evidence boundaries.
@@ -15233,6 +15234,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Australian Strategic Realignment](concepts/AustralianStrategicRealignment.md) — Wartime shift from British imperial defense toward U.S.-centered security.
 - [Forgotten People Politics](concepts/ForgottenPeoplePolitics.md) — Menzies's home-owning suburban and middle-class conservative coalition.
 - [Memory Encoding Levers](concepts/MemoryEncodingLevers.md) — Four-part framework in which novelty, repetition, association, and emotional resonance support memorability without guaranteeing accuracy.
+- [Deliberate Visual Snapshot Encoding](concepts/DeliberateVisualSnapshotEncoding.md) — Visual-attention practice separating deliberate framing from saved photographs while preserving the reported auditory-memory tradeoff.
 - [Hippocampal Associative Memory](concepts/HippocampalAssociativeMemory.md) — Model of hippocampal context binding linking episodic encoding, identity, imagination, and future simulation.
 - [Exercise-Linked Cognitive Resilience](concepts/ExerciseLinkedCognitiveResilience.md) — Bounded synthesis of acute exercise effects, longer-term training, cognitive aging, candidate mechanisms, and unresolved dose questions.
 - [Short Daily Meditation Attention Training](concepts/ShortDailyMeditationAttentionTraining.md) — Brief body-scan practice centered on repeated present-moment return, adherence, and source-scoped stress, mood, and cognition outcomes.

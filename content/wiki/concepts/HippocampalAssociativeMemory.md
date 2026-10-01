@@ -4,6 +4,7 @@ type: concept
 tags: [memory, hippocampus, association, imagination]
 sources:
   - boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096
+  - understand-improve-memory-using-science-based-tools-scim9087472978
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Hippocampal associative memory is the hippocampus-centered capacity to bind facts, events, places, emotions, and contexts into long-term episodic representations that can support personal history, present orientation, and simulation of possible futures.
 
 ## Current Synthesis
-The episode treats the hippocampus as an association engine rather than a final storage vault. The H.M. case supplies the classic lesion boundary: after bilateral medial-temporal surgery, he could no longer form ordinary new long-term memories for facts and events. Suzuki also notes that later imaging found posterior hippocampal tissue still present, making simple all-or-none interpretations of the case incomplete.
+The sources treat the hippocampus as an association engine rather than a final storage vault. The H.M. case supplies the classic lesion boundary: after bilateral medial-temporal surgery, he could no longer form ordinary new long-term memories for facts and events. The full memory episode adds that H.M. retained some older memories and implicit learning, while Suzuki notes that later imaging found posterior hippocampal tissue still present. Together these details make simple all-or-none interpretations incomplete.
 
 Within this model, hippocampal representations may persist for a long time while distributed cortical systems become the longer-term storage substrate. The same recombinatory capacity that links past experience can help construct imagined futures, so episodic memory contributes to identity and prospective thought as well as recollection. This account aligns with [[ContextualEpisodicMemory]] but remains a public-facing synthesis rather than a settled map of memory localization.
 
@@ -30,13 +31,15 @@ Within this model, hippocampal representations may persist for a long time while
 - Anatomical qualification - [[boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096]] notes later imaging evidence that part of H.M.'s posterior hippocampus remained.
 - Association and simulation - [[boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096]] describes hippocampal recombination as relevant to past memory, imagination, and possible futures.
 - Storage model - [[boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096]] distinguishes potentially long hippocampal retention from ultimate cortical storage.
+- Explicit-versus-implicit boundary - [[understand-improve-memory-using-science-based-tools-scim9087472978]] describes impaired formation of new explicit declarative memories alongside retained older memories and some implicit traces or skills.
+- Permanent-storage boundary - [[understand-improve-memory-using-science-based-tools-scim9087472978]] presents the hippocampus as necessary for establishing declarative memories rather than their sole permanent repository.
 
 ## Counterevidence & Qualifications
 One famous lesion case cannot by itself resolve hippocampal subregion function, systems consolidation, semantic memory, procedural learning, working memory, or the distribution of stored representations. The episode's storage language is explicitly tentative, and retained posterior tissue complicates simple claims that H.M. had no hippocampus. Future simulation also draws on networks beyond the hippocampus. This concept is not a diagnostic guide for amnesia or neurological disease.
 
 ## What Changed
-- Created an association-centered model linking episodic encoding, identity, context, and future simulation.
-- Preserved the anatomical and storage uncertainties attached to the H.M. interpretation.
+- Added the full episode's explicit-versus-implicit learning distinction.
+- Clarified the hippocampus-as-formation-system account without turning one lesion case into a complete localization model.
 
 ## Related Concepts
 - [[ContextualEpisodicMemory]] - neighboring account of binding people, place, time, action, and internal state.

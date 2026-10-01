@@ -26765,3 +26765,11 @@ Added source `advice-line-with-scott-tannen-of-boll-branch-and-jamie-siminoff-of
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Understand & Improve Memory Using Science-Based Tools
+
+Added source `understand-improve-memory-using-science-based-tools-scim9087472978`; created `DeliberateVisualSnapshotEncoding`; and resynthesized `PostLearningArousalTagging`, `MemoryEncodingLevers`, `HippocampalAssociativeMemory`, `ShortDailyMeditationAttentionTraining`, and `WendySuzuki` from their complete preserved evidence inventories. Core synthesis: repetition and intense state are distinct routes to durable encoding; acute arousal after learning may tag selected material before later consolidation; H.M. separates declarative-memory formation from retained implicit learning; deliberate visual framing may improve visual recall while photo taking can weaken auditory encoding; and brief daily meditation shows a possible eight-week benefit alongside a late-day sleep tradeoff. No settled contradiction was adopted. The full episode and later Essentials edit are shared editorial provenance rather than independent replication, while animal-to-human translation, beta-blocker, stimulant, cold, exercise, adult-neurogenesis, osteocalcin, visual-memory, meditation, and deja-vu claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,346-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

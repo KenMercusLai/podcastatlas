@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9123
+wiki_total_pages: 9124
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "DelegatedWebResearch"
     title: "Delegated Web Research"
     url: "/wiki/concepts/delegatedwebresearch/"
+  - key: "DeliberateVisualSnapshotEncoding"
+    title: "Deliberate Visual Snapshot Encoding"
+    url: "/wiki/concepts/deliberatevisualsnapshotencoding/"
   - key: "DeliveryBufferDiscipline"
     title: "Delivery Buffer Discipline"
     url: "/wiki/concepts/deliverybufferdiscipline/"

@@ -46597,6 +46597,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/deliaowens/"
     },
+    "DeliberateVisualSnapshotEncoding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9087472978 [SCIM9087472978].md",
+          "key": "understand-improve-memory-using-science-based-tools-scim9087472978",
+          "show": "Huberman Lab",
+          "title": "Understand & Improve Memory Using Science-Based Tools",
+          "url": "/wiki/sources/understand-improve-memory-using-science-based-tools-scim9087472978/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/deliberatevisualsnapshotencoding/"
+    },
     "DeliveryBufferDiscipline": {
       "episode_count": 1,
       "show_count": 1,
@@ -85997,9 +86013,9 @@
       "url": "/wiki/concepts/hippiehistoricistfashionturn/"
     },
     "HippocampalAssociativeMemory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2980742096 [SCIM2980742096].md",
@@ -86007,6 +86023,13 @@
           "show": "Huberman Lab",
           "title": "Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki",
           "url": "/wiki/sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096/"
+        },
+        {
+          "episode_file": "SCIM9087472978 [SCIM9087472978].md",
+          "key": "understand-improve-memory-using-science-based-tools-scim9087472978",
+          "show": "Huberman Lab",
+          "title": "Understand & Improve Memory Using Science-Based Tools",
+          "url": "/wiki/sources/understand-improve-memory-using-science-based-tools-scim9087472978/"
         }
       ],
       "updated": "2026-10-01",
@@ -125098,9 +125121,9 @@
       "url": "/wiki/concepts/memorydeletionethics/"
     },
     "MemoryEncodingLevers": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2980742096 [SCIM2980742096].md",
@@ -125108,6 +125131,13 @@
           "show": "Huberman Lab",
           "title": "Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki",
           "url": "/wiki/sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096/"
+        },
+        {
+          "episode_file": "SCIM9087472978 [SCIM9087472978].md",
+          "key": "understand-improve-memory-using-science-based-tools-scim9087472978",
+          "show": "Huberman Lab",
+          "title": "Understand & Improve Memory Using Science-Based Tools",
+          "url": "/wiki/sources/understand-improve-memory-using-science-based-tools-scim9087472978/"
         }
       ],
       "updated": "2026-10-01",
@@ -147682,9 +147712,9 @@
       "url": "/wiki/concepts/postinfectiousreturntoactivity/"
     },
     "PostLearningArousalTagging": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6024056343 [SCIM6024056343].md",
@@ -147699,9 +147729,16 @@
           "show": "Huberman Lab",
           "title": "Using Caffeine to Optimize Mental & Physical Performance",
           "url": "/wiki/sources/using-caffeine-to-optimize-mental-physical-performance-scim1210768101/"
+        },
+        {
+          "episode_file": "SCIM9087472978 [SCIM9087472978].md",
+          "key": "understand-improve-memory-using-science-based-tools-scim9087472978",
+          "show": "Huberman Lab",
+          "title": "Understand & Improve Memory Using Science-Based Tools",
+          "url": "/wiki/sources/understand-improve-memory-using-science-based-tools-scim9087472978/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/postlearningarousaltagging/"
     },
     "PostPlagueSocialMobility": {
@@ -168870,9 +168907,9 @@
       "url": "/wiki/concepts/shoppingcenterrestaurantization/"
     },
     "ShortDailyMeditationAttentionTraining": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2980742096 [SCIM2980742096].md",
@@ -168880,6 +168917,13 @@
           "show": "Huberman Lab",
           "title": "Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki",
           "url": "/wiki/sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096/"
+        },
+        {
+          "episode_file": "SCIM9087472978 [SCIM9087472978].md",
+          "key": "understand-improve-memory-using-science-based-tools-scim9087472978",
+          "show": "Huberman Lab",
+          "title": "Understand & Improve Memory Using Science-Based Tools",
+          "url": "/wiki/sources/understand-improve-memory-using-science-based-tools-scim9087472978/"
         }
       ],
       "updated": "2026-10-01",
@@ -196268,9 +196312,9 @@
       "url": "/wiki/entities/wenxueasternhan/"
     },
     "WendySuzuki": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2980742096 [SCIM2980742096].md",
@@ -196278,6 +196322,13 @@
           "show": "Huberman Lab",
           "title": "Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki",
           "url": "/wiki/sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096/"
+        },
+        {
+          "episode_file": "SCIM9087472978 [SCIM9087472978].md",
+          "key": "understand-improve-memory-using-science-based-tools-scim9087472978",
+          "show": "Huberman Lab",
+          "title": "Understand & Improve Memory Using Science-Based Tools",
+          "url": "/wiki/sources/understand-improve-memory-using-science-based-tools-scim9087472978/"
         }
       ],
       "updated": "2026-10-01",
