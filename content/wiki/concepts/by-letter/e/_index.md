@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9168
+wiki_total_pages: 9170
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -611,6 +611,9 @@ wiki_pages:
   - key: "EnergyTradingScaleAdvantage"
     title: "Energy Trading Scale Advantage"
     url: "/wiki/concepts/energytradingscaleadvantage/"
+  - key: "EnergyTransitionGeopolitics"
+    title: "Energy Transition Geopolitics"
+    url: "/wiki/concepts/energytransitiongeopolitics/"
   - key: "EnergyFirstNeocloud"
     title: "Energy-First Neocloud"
     url: "/wiki/concepts/energyfirstneocloud/"

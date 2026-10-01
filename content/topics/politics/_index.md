@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2952
+topic_total_pages: 2956
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1282,6 +1282,9 @@ topic_concepts:
   - key: "EnergyDrinkYouthRegulation"
     title: "Energy Drink Youth Regulation"
     url: "/wiki/concepts/energydrinkyouthregulation/"
+  - key: "EnergyTransitionGeopolitics"
+    title: "Energy Transition Geopolitics"
+    url: "/wiki/concepts/energytransitiongeopolitics/"
   - key: "EnforceableCommunityBenefits"
     title: "Enforceable Community Benefits"
     url: "/wiki/concepts/enforceablecommunitybenefits/"
@@ -2548,6 +2551,9 @@ topic_concepts:
   - key: "OfficialInquiryTrustRepair"
     title: "Official Inquiry Trust Repair"
     url: "/wiki/concepts/officialinquirytrustrepair/"
+  - key: "OilPoliticalPower"
+    title: "Oil Political Power"
+    url: "/wiki/concepts/oilpoliticalpower/"
   - key: "OilProducerSupplyCoordination"
     title: "Oil Producer Supply Coordination"
     url: "/wiki/concepts/oilproducersupplycoordination/"
@@ -5729,6 +5735,9 @@ topic_entities:
   - key: "HeinrichBlucher"
     title: "Heinrich Blücher / 海因里希·布鲁歇尔"
     url: "/wiki/entities/heinrichblucher/"
+  - key: "HelenThompson"
+    title: "Helen Thompson"
+    url: "/wiki/entities/helenthompson/"
   - key: "HenryFok"
     title: "Henry Fok / 霍英東"
     url: "/wiki/entities/henryfok/"
@@ -7806,6 +7815,9 @@ topic_sources:
   - key: "161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm"
     title: "161. 全球宏观和资本市场2026一季度复盘与展望"
     url: "/wiki/sources/161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm/"
+  - key: "168-oil-conflict-chaos-and-climate-change-glt4572551005"
+    title: "168. Oil: Conflict, Chaos and Climate Change"
+    url: "/wiki/sources/168-oil-conflict-chaos-and-climate-change-glt4572551005/"
   - key: "170-the-falklands-war-the-task-force-sails-part-2-glt1917394924"
     title: "170. The Falklands War: The Task Force Sails (Part 2)"
     url: "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"

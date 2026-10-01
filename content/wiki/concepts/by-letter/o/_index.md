@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9168
+wiki_total_pages: 9170
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "OilNationalization"
     title: "Oil Nationalization"
     url: "/wiki/concepts/oilnationalization/"
+  - key: "OilPoliticalPower"
+    title: "Oil Political Power"
+    url: "/wiki/concepts/oilpoliticalpower/"
   - key: "OilProducerSupplyCoordination"
     title: "Oil Producer Supply Coordination"
     url: "/wiki/concepts/oilproducersupplycoordination/"

@@ -59211,6 +59211,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/energybalanceaccounting/"
     },
+    "EnergyTransitionGeopolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4572551005 [GLT4572551005].md",
+          "key": "168-oil-conflict-chaos-and-climate-change-glt4572551005",
+          "show": "The Rest Is History",
+          "title": "168. Oil: Conflict, Chaos and Climate Change",
+          "url": "/wiki/sources/168-oil-conflict-chaos-and-climate-change-glt4572551005/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/energytransitiongeopolitics/"
+    },
     "EnforceableCommunityBenefits": {
       "episode_count": 2,
       "show_count": 1,
@@ -61342,9 +61358,9 @@
       "url": "/wiki/concepts/europeandefenseautonomy/"
     },
     "EuropeanEnergySecurityDependence": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4625765030 [GLT4625765030].md",
@@ -61359,9 +61375,16 @@
           "show": "The Rest Is History",
           "title": "246. The Fall of Liz Truss",
           "url": "/wiki/sources/246-the-fall-of-liz-truss-glt3484252092/"
+        },
+        {
+          "episode_file": "GLT4572551005 [GLT4572551005].md",
+          "key": "168-oil-conflict-chaos-and-climate-change-glt4572551005",
+          "show": "The Rest Is History",
+          "title": "168. Oil: Conflict, Chaos and Climate Change",
+          "url": "/wiki/sources/168-oil-conflict-chaos-and-climate-change-glt4572551005/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/europeanenergysecuritydependence/"
     },
     "EuropeanIntegrationWarPrevention": {
@@ -85204,6 +85227,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/helenoftroy/"
+    },
+    "HelenThompson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4572551005 [GLT4572551005].md",
+          "key": "168-oil-conflict-chaos-and-climate-change-glt4572551005",
+          "show": "The Rest Is History",
+          "title": "168. Oil: Conflict, Chaos and Climate Change",
+          "url": "/wiki/sources/168-oil-conflict-chaos-and-climate-change-glt4572551005/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/helenthompson/"
     },
     "HeleneLangevin": {
       "episode_count": 1,
@@ -137016,6 +137055,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/nonviolentmovementcredibilitycrisis/"
     },
+    "NordStream": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4572551005 [GLT4572551005].md",
+          "key": "168-oil-conflict-chaos-and-climate-change-glt4572551005",
+          "show": "The Rest Is History",
+          "title": "168. Oil: Conflict, Chaos and Climate Change",
+          "url": "/wiki/sources/168-oil-conflict-chaos-and-climate-change-glt4572551005/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/nordstream/"
+    },
     "NormanConquestOfEngland": {
       "episode_count": 7,
       "show_count": 2,
@@ -138828,6 +138883,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/oilnationalization/"
+    },
+    "OilPoliticalPower": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4572551005 [GLT4572551005].md",
+          "key": "168-oil-conflict-chaos-and-climate-change-glt4572551005",
+          "show": "The Rest Is History",
+          "title": "168. Oil: Conflict, Chaos and Climate Change",
+          "url": "/wiki/sources/168-oil-conflict-chaos-and-climate-change-glt4572551005/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/oilpoliticalpower/"
     },
     "OilReopeningBacklash": {
       "episode_count": 2,

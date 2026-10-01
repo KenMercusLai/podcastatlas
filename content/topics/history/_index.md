@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2328
+topic_total_pages: 2329
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4791,6 +4791,9 @@ topic_sources:
   - key: "164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576"
     title: "164.古文的力量：请收下这份千年未变的深情、洞见和勇气"
     url: "/wiki/sources/164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576/"
+  - key: "168-oil-conflict-chaos-and-climate-change-glt4572551005"
+    title: "168. Oil: Conflict, Chaos and Climate Change"
+    url: "/wiki/sources/168-oil-conflict-chaos-and-climate-change-glt4572551005/"
   - key: "169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585"
     title: "169. The Falklands War: Countdown to Invasion (Part 1)"
     url: "/wiki/sources/169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585/"

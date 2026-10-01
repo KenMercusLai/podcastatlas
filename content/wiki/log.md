@@ -26994,9 +26994,17 @@ Added source `170-the-falklands-war-the-task-force-sails-part-2-glt1917394924`; 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-02] ingest | 168. Oil: Conflict, Chaos and Climate Change
+
+Added source `168-oil-conflict-chaos-and-climate-change-glt4572551005`; created `HelenThompson`, `NordStream`, `OilPoliticalPower`, and `EnergyTransitionGeopolitics`; and resynthesized `EuropeanEnergySecurityDependence` from its complete preserved evidence inventory. Core synthesis: oil redistributes domestic and international power without mechanically determining elections or wars; European exposure depends on routes and transit leverage as well as suppliers; and low-carbon manufacturing and mineral competition can overlap with continuing fossil-fuel geopolitics. No settled contradiction was adopted. The 2003 Iraq War's oil context, shale-boom counterfactual, future Russian-Asian trade, net-zero technology, anti-fracking politics, supply constraints, and China's durable mineral advantage remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten. The downstream manifest and paragraph ledger were refreshed to 3,375-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, synthesis, health, and publish validation passed.
+
 ## [2026-10-02] ingest | How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin
 
 Added source `how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856`; updated `AndyGalpin`, `NinePhysiologicalAdaptations`, and `StrengthHypertrophyProgramming` from their complete preserved evidence inventories; and linked the episode to existing endurance, recovery, hydration, breathing, thermal-exposure, pain-continuity, and creatine syntheses without creating duplicate concepts. Core synthesis: exercise names do not determine adaptation; load, volume, frequency, rest, cadence, range of motion, progression, effort, and intent shape the result, while recovery capacity determines whether the imposed stress becomes improvement. No settled contradiction was adopted. The episode's resistance-training, interval, hydration, sodium, cold, heat, breathing, sleep-diagnostic, and supplement protocols remain source-scoped public education rather than universal or individualized prescriptions. The downstream manifest and paragraph ledger were refreshed to 3,373-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-02] lint | Wiki health check
 

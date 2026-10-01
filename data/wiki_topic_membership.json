@@ -1029,6 +1029,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "168-oil-conflict-chaos-and-climate-change-glt4572551005": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "169-ruguo-ni-18-sui-zheng-kaolu-weilai-ba-jinrong-dang-zhiye-gaokaoji-tebie-cehua-lnasw3osck-kaixbhshjkpmscl9c": [
     {
       "key": "technology",
@@ -29316,6 +29328,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "EnergyTransitionGeopolitics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EnforceableCommunityBenefits": [
     {
       "key": "technology",
@@ -38540,6 +38559,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HelenThompson": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "HeleneHanff": [
@@ -57645,6 +57671,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "OilPoliticalPower": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "OilProducerSupplyCoordination": [
