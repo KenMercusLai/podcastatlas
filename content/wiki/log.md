@@ -27159,3 +27159,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel
+
+Added source `using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213`; created `DavidSpiegel`, `Reveri`, `ClinicalHypnosis`, and `Hypnotizability`. Core synthesis: clinical hypnosis is presented as voluntary focused absorption that combines bodily regulation, imagery, suggestion, and controlled approach to increase agency around a defined problem, while response depends partly on a graded and comparatively stable hypnotic capacity. No settled contradiction was adopted. Trial effect sizes, neural and GABA mechanisms, the eye-roll test, EMDR component claims, medication adjuncts, ADHD and OCD applications, and app-to-clinic transfer remain qualified or source-scoped; hypnosis-assisted recall does not remove memory-contamination risk, and serious or unexplained symptoms still require qualified assessment. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,393-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

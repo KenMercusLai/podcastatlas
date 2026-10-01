@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11855
+wiki_total_pages: 11857
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "RevelPharma"
     title: "Revel Pharma"
     url: "/wiki/entities/revelpharma/"
+  - key: "Reveri"
+    title: "Reveri"
+    url: "/wiki/entities/reveri/"
   - key: "Revid"
     title: "Revid"
     url: "/wiki/entities/revid/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9193
+wiki_total_pages: 9195
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "HypertensionTargetOrganDamage"
     title: "Hypertension Target-Organ Damage / 高血压靶器官损害"
     url: "/wiki/concepts/hypertensiontargetorgandamage/"
+  - key: "Hypnotizability"
+    title: "Hypnotizability"
+    url: "/wiki/concepts/hypnotizability/"
   - key: "HuozhiLiezhuanWealthEthic"
     title: "《货殖列传》财富伦理 / Huozhi Liezhuan Wealth Ethic"
     url: "/wiki/concepts/huozhiliezhuanwealthethic/"

@@ -17319,6 +17319,10 @@
     "title": "Clinical History Disclosure / 临床病史如实告知",
     "url": "/wiki/concepts/clinicalhistorydisclosure/"
   },
+  "ClinicalHypnosis": {
+    "title": "Clinical Hypnosis",
+    "url": "/wiki/concepts/clinicalhypnosis/"
+  },
   "ClinicalLanguageComprehensionValidation": {
     "title": "Clinical Language Comprehension Validation / 臨床語言理解驗證",
     "url": "/wiki/concepts/clinicallanguagecomprehensionvalidation/"
@@ -21226,6 +21230,10 @@
   "DavidSilver": {
     "title": "David Silver",
     "url": "/wiki/entities/davidsilver/"
+  },
+  "DavidSpiegel": {
+    "title": "David Spiegel",
+    "url": "/wiki/entities/davidspiegel/"
   },
   "DavidStirling": {
     "title": "David Stirling",
@@ -37438,6 +37446,10 @@
   "HypertensionTargetOrganDamage": {
     "title": "Hypertension Target-Organ Damage / 高血压靶器官损害",
     "url": "/wiki/concepts/hypertensiontargetorgandamage/"
+  },
+  "Hypnotizability": {
+    "title": "Hypnotizability",
+    "url": "/wiki/concepts/hypnotizability/"
   },
   "IBDPatientEducationAndPeerSupport": {
     "title": "IBD Patient Education and Peer Support / IBD患者教育与同伴支持",
@@ -64430,6 +64442,10 @@
   "RevenueBeforeCostOptimization": {
     "title": "Revenue Before Cost Optimization",
     "url": "/wiki/concepts/revenuebeforecostoptimization/"
+  },
+  "Reveri": {
+    "title": "Reveri",
+    "url": "/wiki/entities/reveri/"
   },
   "ReverseJointVentureEVGlobalization": {
     "title": "Reverse Joint-Venture EV Globalization / 反向合资电动车出海",
@@ -92082,6 +92098,10 @@
   "using-deliberate-cold-exposure-for-health-and-performance-scim1045909781": {
     "title": "Using Deliberate Cold Exposure for Health and Performance",
     "url": "/wiki/sources/using-deliberate-cold-exposure-for-health-and-performance-scim1045909781/"
+  },
+  "using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213": {
+    "title": "Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel",
+    "url": "/wiki/sources/using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213/"
   },
   "using-light-sunlight-blue-light-red-light-to-optimize-health-scim9179977381": {
     "title": "Using Light (Sunlight, Blue Light & Red Light) to Optimize Health",

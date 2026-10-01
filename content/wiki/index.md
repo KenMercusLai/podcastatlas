@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel](sources/using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213.md) — Huberman Lab interview on clinical hypnosis, hypnotizability, mind-body control, pain, trauma, sleep, and evidence and safety boundaries.
 - [155. Ukraine and Russia](sources/155-ukraine-and-russia-glt2859413707.md) — The Rest Is History on Ukrainian identity before Bolshevism, Kievan Rus, Cossack autonomy, imperial and Soviet rule, 1991 independence, and the political use of historical claims.
 - [How to Enhance Your Gut Microbiome for Brain & Overall Health](sources/how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394.md) — Huberman Lab solo episode on gut-brain neural and hormonal signaling, microbiome ecology, fermented-food evidence, and intervention limits.
 - [156. When Did the Roman Empire Fall?](sources/156-when-did-the-roman-empire-fall-glt4933356600.md) — The Rest Is History on layered Roman endings, the qualified 476 endpoint, eastern continuity, and Justinianic restoration as destruction.
@@ -3453,6 +3454,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg](sources/how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216.md) — Huberman Lab interview on microbiome ecology, dietary fiber, fermented foods, systemic signaling, and intervention limits.
 
 ## Entities
+- [David Spiegel](entities/DavidSpiegel.md) — Stanford psychiatrist and hypnosis researcher framing focused attention as a voluntary, clinically bounded route to mind-body control.
+- [Reveri](entities/Reveri.md) — Self-hypnosis app derived from David Spiegel's research framework, bounded from clinician-guided treatment.
 - [Heraclius](entities/Heraclius.md) — Eastern Roman emperor whose Persian recovery and losses after Yarmouk make his reign a hinge in Byzantium's seventh-century transformation.
 - [Charlemagne](entities/Charlemagne.md) — Frankish ruler whose papal coronation anchored a competing western Roman imperial claim.
 - [Mehmed II](entities/MehmedII.md) — Ottoman conqueror of Constantinople whose 1453 victory supplies Byzantium's dominant symbolic endpoint and a qualified succession claim.
@@ -15348,6 +15351,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Justin Sonnenburg](entities/JustinSonnenburg.md) — Stanford microbiologist framing the gut microbiome through ecology, diet, resilience, and evidence-bounded intervention research.
 
 ## Concepts
+- [Clinical Hypnosis](concepts/ClinicalHypnosis.md) — Voluntary focused-attention intervention using bodily regulation, imagery, and suggestion for defined clinical goals.
+- [Hypnotizability](concepts/Hypnotizability.md) — Graded individual capacity for hypnotic experience, distinguished from practice skill and treatment outcome.
 - [Ukrainian National Identity](concepts/UkrainianNationalIdentity.md) — Historically changing identity formed through cultural practice, regional diversity, political organization, trauma, and democratic sovereignty rather than Soviet invention.
 - [Historical Narrative as Territorial Legitimation](concepts/HistoricalNarrativeTerritorialLegitimation.md) — Use of selected origins, treaties, imperial labels, and transfers to turn historical connection into a present claim of territorial entitlement.
 - [Third Rome Claim](concepts/ThirdRomeClaim.md) — Orthodox and dynastic doctrine translating Roman imperial authority from Rome through Constantinople to Moscow.
