@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11819
+wiki_total_pages: 11821
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "GroundTruthNewsletter"
     title: "Ground Truth Newsletter"
     url: "/wiki/entities/groundtruthnewsletter/"
+  - key: "Groundcover"
+    title: "Groundcover"
+    url: "/wiki/entities/groundcover/"
   - key: "Grouper"
     title: "Grouper"
     url: "/wiki/entities/grouper/"

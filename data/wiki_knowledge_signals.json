@@ -53297,6 +53297,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/dzogchen/"
     },
+    "EBPFObservability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d5efc401 [d5efc401].md",
+          "key": "d5efc401",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Founder-Led Sales: He Learned to Sell and Closed 50 Customers",
+          "url": "/wiki/sources/d5efc401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/ebpfobservability/"
+    },
     "EBikeValueChainShift": {
       "episode_count": 2,
       "show_count": 2,
@@ -69438,9 +69454,9 @@
       "url": "/wiki/concepts/founderideamaze/"
     },
     "FounderLedSales": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 3,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "AHARO4500147412 [AHARO4500147412].md",
@@ -69511,9 +69527,16 @@
           "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
           "title": "Bootstrapping From a $500K Goal to a $50M Company",
           "url": "/wiki/sources/bff406f4/"
+        },
+        {
+          "episode_file": "d5efc401 [d5efc401].md",
+          "key": "d5efc401",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Founder-Led Sales: He Learned to Sell and Closed 50 Customers",
+          "url": "/wiki/sources/d5efc401/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/founderledsales/"
     },
     "FounderLifestyleInfrastructure": {
@@ -79379,6 +79402,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/groundtruthnewsletter/"
+    },
+    "Groundcover": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d5efc401 [d5efc401].md",
+          "key": "d5efc401",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Founder-Led Sales: He Learned to Sell and Closed 50 Customers",
+          "url": "/wiki/sources/d5efc401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/groundcover/"
     },
     "GrowthHormoneBehavioralRegulation": {
       "episode_count": 3,
@@ -94725,6 +94764,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/incrementalpersecutionfalsestabilization/"
+    },
+    "IncumbentReplacementMigration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d5efc401 [d5efc401].md",
+          "key": "d5efc401",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Founder-Led Sales: He Learned to Sell and Closed 50 Customers",
+          "url": "/wiki/sources/d5efc401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/incumbentreplacementmigration/"
     },
     "IndependentConflictReportingRisk": {
       "episode_count": 1,
@@ -137651,6 +137706,45 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/obliqueremonstranceselfprotection/"
     },
+    "Observability": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "93D6BF3DAC1E8E446F94B2892F50C2C3~8584431_2026-08-10-215931-8787-0-0-10.128 [93D6BF3DAC1E8E446F94B2892F50C2C3~8584431_2026-08-10-215931-8787-0-0-10.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a8387d4].md",
+          "key": "ep-14-what-is-observability",
+          "show": "Data Science With Sam",
+          "title": "EP 14: What is Observability?",
+          "url": "/wiki/sources/ep-14-what-is-observability/"
+        },
+        {
+          "episode_file": "d5efc401 [d5efc401].md",
+          "key": "d5efc401",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Founder-Led Sales: He Learned to Sell and Closed 50 Customers",
+          "url": "/wiki/sources/d5efc401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/observability/"
+    },
+    "ObservabilityCostArchitecture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d5efc401 [d5efc401].md",
+          "key": "d5efc401",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Founder-Led Sales: He Learned to Sell and Closed 50 Customers",
+          "url": "/wiki/sources/d5efc401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/observabilitycostarchitecture/"
+    },
     "ObservingSelfContinuity": {
       "episode_count": 2,
       "show_count": 1,
@@ -168379,6 +168473,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/shahjahan/"
     },
+    "ShaharAzulay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "d5efc401 [d5efc401].md",
+          "key": "d5efc401",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Founder-Led Sales: He Learned to Sell and Closed 50 Customers",
+          "url": "/wiki/sources/d5efc401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/shaharazulay/"
+    },
     "Shahed136": {
       "episode_count": 2,
       "show_count": 2,
@@ -184966,9 +185076,9 @@
       "url": "/wiki/entities/therollingstones/"
     },
     "TheSaaSPodcast": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "AHARO4500147412 [AHARO4500147412].md",
@@ -185060,9 +185170,16 @@
           "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
           "title": "Bootstrapping From a $500K Goal to a $50M Company",
           "url": "/wiki/sources/bff406f4/"
+        },
+        {
+          "episode_file": "d5efc401 [d5efc401].md",
+          "key": "d5efc401",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Founder-Led Sales: He Learned to Sell and Closed 50 Customers",
+          "url": "/wiki/sources/d5efc401/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/thesaaspodcast/"
     },
     "TheSkateparkProject": {

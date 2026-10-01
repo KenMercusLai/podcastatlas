@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9162
+wiki_total_pages: 9165
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "IncumbentPlatformPressure"
     title: "Incumbent Platform Pressure"
     url: "/wiki/concepts/incumbentplatformpressure/"
+  - key: "IncumbentReplacementMigration"
+    title: "Incumbent Replacement Migration"
+    url: "/wiki/concepts/incumbentreplacementmigration/"
   - key: "IndependentAgencyControlPressure"
     title: "Independent Agency Control Pressure"
     url: "/wiki/concepts/independentagencycontrolpressure/"

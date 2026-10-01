@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11819
+wiki_total_pages: 11821
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "ShahJahan"
     title: "Shah Jahan"
     url: "/wiki/entities/shahjahan/"
+  - key: "ShaharAzulay"
+    title: "Shahar Azulay"
+    url: "/wiki/entities/shaharazulay/"
   - key: "Shahed136"
     title: "Shahed 136"
     url: "/wiki/entities/shahed136/"

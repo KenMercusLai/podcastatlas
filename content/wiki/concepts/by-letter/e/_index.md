@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9162
+wiki_total_pages: 9165
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "EatingAndKillingMoralAmbivalence"
     title: "Eating And Killing Moral Ambivalence"
     url: "/wiki/concepts/eatingandkillingmoralambivalence/"
+  - key: "EBPFObservability"
+    title: "eBPF Observability"
+    url: "/wiki/concepts/ebpfobservability/"
   - key: "EccentricSprintCapacity"
     title: "Eccentric Sprint Capacity"
     url: "/wiki/concepts/eccentricsprintcapacity/"

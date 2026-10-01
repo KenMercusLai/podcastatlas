@@ -23935,6 +23935,10 @@
     "title": "EB&Co",
     "url": "/wiki/entities/ebco/"
   },
+  "EBPFObservability": {
+    "title": "eBPF Observability",
+    "url": "/wiki/concepts/ebpfobservability/"
+  },
   "EBay": {
     "title": "eBay",
     "url": "/wiki/entities/ebay/"
@@ -32847,6 +32851,10 @@
     "title": "Ground Truth Newsletter",
     "url": "/wiki/entities/groundtruthnewsletter/"
   },
+  "Groundcover": {
+    "title": "Groundcover",
+    "url": "/wiki/entities/groundcover/"
+  },
   "GroupBoundaryLanguage": {
     "title": "Group-Boundary Language / 群体边界语言",
     "url": "/wiki/concepts/groupboundarylanguage/"
@@ -37942,6 +37950,10 @@
   "IncumbentPlatformPressure": {
     "title": "Incumbent Platform Pressure",
     "url": "/wiki/concepts/incumbentplatformpressure/"
+  },
+  "IncumbentReplacementMigration": {
+    "title": "Incumbent Replacement Migration",
+    "url": "/wiki/concepts/incumbentreplacementmigration/"
   },
   "Indeed": {
     "title": "Indeed",
@@ -54975,6 +54987,10 @@
     "title": "Observability",
     "url": "/wiki/concepts/observability/"
   },
+  "ObservabilityCostArchitecture": {
+    "title": "Observability Cost Architecture",
+    "url": "/wiki/concepts/observabilitycostarchitecture/"
+  },
   "ObservabilitySecurityTelemetry": {
     "title": "Observability Security Telemetry",
     "url": "/wiki/concepts/observabilitysecuritytelemetry/"
@@ -67646,6 +67662,10 @@
   "ShahJahan": {
     "title": "Shah Jahan",
     "url": "/wiki/entities/shahjahan/"
+  },
+  "ShaharAzulay": {
+    "title": "Shahar Azulay",
+    "url": "/wiki/entities/shaharazulay/"
   },
   "Shahed136": {
     "title": "Shahed 136",
@@ -87806,6 +87826,10 @@
   "currency-chaos-in-argentina-summer-school": {
     "title": "Currency Chaos in Argentina (Summer School)",
     "url": "/wiki/sources/currency-chaos-in-argentina-summer-school/"
+  },
+  "d5efc401": {
+    "title": "Founder-Led Sales: He Learned to Sell and Closed 50 Customers",
+    "url": "/wiki/sources/d5efc401/"
   },
   "da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf": {
     "title": "《大厂小民》：我们必须克制对系统与上岸的期待",

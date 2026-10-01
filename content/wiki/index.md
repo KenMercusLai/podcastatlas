@@ -3428,8 +3428,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [177. The Jewish Revolt (Part 3)](sources/177-the-jewish-revolt-part-3-glt1109135413.md) — The Rest Is History episode on Jerusalem's siege, Josephus, Flavian victory propaganda, post-Temple religious authority, and the memory of Masada.
 - [176. The Jews Against Rome (Part 2)](sources/176-the-jews-against-rome-part-2-glt3414103581.md) — The Rest Is History episode on Judean identity, Roman governance, revolt escalation, Beth-Horon, Jotapata, Josephus, and Vespasian's rise.
+- [Founder-Led Sales: He Learned to Sell and Closed 50 Customers](sources/d5efc401.md) — The SaaS Podcast episode with Shahar Azulay on Groundcover's eBPF and bring-your-own-cloud architecture, founder-led sales, infrastructure-based pricing, and incumbent replacement migration.
 
 ## Entities
+- [Shahar Azulay](entities/ShaharAzulay.md) — Groundcover co-founder and CEO connecting eBPF observability architecture to founder-led enterprise sales and replacement execution.
+- [Groundcover](entities/Groundcover.md) — Observability company combining an eBPF sensor, customer-hosted data plane, infrastructure-based pricing, and incumbent replacement.
 - [General Belgrano](entities/GeneralBelgrano.md) — Argentine cruiser whose sinking changed the Falklands naval campaign and became a lasting military, moral, and media controversy.
 - [The Sun (UK)](entities/TheSunUK.md) — British tabloid whose Falklands coverage joined patriotic mobilization to enduring controversy over tone, casualties, and press loyalty.
 - [Falklands War](entities/FalklandsWar.md) — 1982 Anglo-Argentine conflict whose outcome reshaped junta legitimacy, Thatcher's authority, and British political memory.
@@ -15288,6 +15291,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [eBPF Observability](concepts/EBPFObservability.md) — Kernel-level telemetry collection across heterogeneous cloud applications and infrastructure with limited per-service instrumentation.
+- [Observability Cost Architecture](concepts/ObservabilityCostArchitecture.md) — Joint design of telemetry collection, data location, storage responsibility, pricing units, and sustainable coverage.
+- [Incumbent Replacement Migration](concepts/IncumbentReplacementMigration.md) — Commercial and operational work required to move customers off a mission-critical incumbent and verify retirement.
 - [Wartime Media Loyalty Pressure](concepts/WartimeMediaLoyaltyPressure.md) — Pressure that turns journalistic distance, verification, or dissent into a test of national allegiance during war.
 - [British General Election 1983](concepts/BritishGeneralElection1983.md) — Multi-causal election case in which Falklands victory amplified an existing Conservative recovery.
 - [Falklands War Political Afterlife](concepts/FalklandsWarPoliticalAfterlife.md) — Contested memory joining military victory to British decline, patriotism, empire, and later identity politics.
