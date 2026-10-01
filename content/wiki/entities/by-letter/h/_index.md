@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11868
+wiki_total_pages: 11870
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "Hawkeye"
     title: "Hawkeye"
     url: "/wiki/entities/hawkeye/"
+  - key: "HawkhurstGang"
+    title: "Hawkhurst Gang"
+    url: "/wiki/entities/hawkhurstgang/"
   - key: "HayaOdeh"
     title: "Haya Odeh"
     url: "/wiki/entities/hayaodeh/"

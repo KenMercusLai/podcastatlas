@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3003
+topic_total_pages: 3004
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -850,6 +850,9 @@ topic_concepts:
   - key: "CreatureSocialExclusion"
     title: "Creature Social Exclusion / 被排斥者如何被制造成怪物"
     url: "/wiki/concepts/creaturesocialexclusion/"
+  - key: "CriminalRomanticization"
+    title: "Criminal Romanticization"
+    url: "/wiki/concepts/criminalromanticization/"
   - key: "CropCircleDebunking"
     title: "Crop Circle Debunking"
     url: "/wiki/concepts/cropcircledebunking/"

@@ -703,6 +703,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "150-smuggling-glt2228422151": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g": [
     {
       "key": "culture",
@@ -23413,6 +23420,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "CriminalRomanticization": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CrisisAutonomousMarriage": [

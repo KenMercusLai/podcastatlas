@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9208
+wiki_total_pages: 9210
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -773,6 +773,9 @@ wiki_pages:
   - key: "BritishPublicSchools"
     title: "British Public Schools"
     url: "/wiki/concepts/britishpublicschools/"
+  - key: "BritishSmugglingTaxState"
+    title: "British Smuggling and the Tax State"
+    url: "/wiki/concepts/britishsmugglingtaxstate/"
   - key: "BroadcastCentralization"
     title: "Broadcast Centralization"
     url: "/wiki/concepts/broadcastcentralization/"
