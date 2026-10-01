@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11668
+wiki_total_pages: 11672
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "PasqualePaoli"
     title: "Pasquale Paoli"
     url: "/wiki/entities/pasqualepaoli/"
+  - key: "PassengerPigeon"
+    title: "Passenger Pigeon"
+    url: "/wiki/entities/passengerpigeon/"
   - key: "PassionCapital"
     title: "Passion Capital"
     url: "/wiki/entities/passioncapital/"
@@ -569,6 +572,9 @@ wiki_pages:
   - key: "PierreSimonLaplace"
     title: "Pierre-Simon Laplace / 拉普拉斯"
     url: "/wiki/entities/pierresimonlaplace/"
+  - key: "Pigeon"
+    title: "Pigeon"
+    url: "/wiki/entities/pigeon/"
   - key: "PiggyLordOfTheFlies"
     title: "Piggy / 猪崽子（《蝇王》）"
     url: "/wiki/entities/piggylordoftheflies/"

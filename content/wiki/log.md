@@ -26411,3 +26411,11 @@ Added source `tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 216. Pigeons
+
+Added source `216-pigeons-glt2770080110`; created `GordonCorera`, `Pigeon`, `OperationColumba`, `PassengerPigeon`, `CarrierPigeonCommunication`, and `CommunicationResilience`; and resynthesized `SpanishCivilWar` from its complete preserved evidence inventory. Core synthesis: trained homing behavior became a fast but one-way communication network whose distinct failure mode made it useful across commercial gaps, battlefields, rescue, and occupied territory; Operation Columba joined donated birds and civilian observation to British intelligence, while the passenger pigeon's destruction shows that abundance does not guarantee resilience. No settled contradiction was adopted. Navigation mechanisms, ancient and wartime performance figures, Operation Columba's targeting impact, postwar programs, and the bonus clip's Civil War outline remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,302-source coverage; no topic claim set was dirty and global compaction was not due. Publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3251
+topic_total_pages: 3253
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1354,6 +1354,9 @@ topic_concepts:
   - key: "CarGradeAutonomousCompute"
     title: "Car-Grade Autonomous Compute"
     url: "/wiki/concepts/cargradeautonomouscompute/"
+  - key: "CarrierPigeonCommunication"
+    title: "Carrier Pigeon Communication"
+    url: "/wiki/concepts/carrierpigeoncommunication/"
   - key: "CatAsCivilizationalInfrastructure"
     title: "Cat As Civilizational Infrastructure"
     url: "/wiki/concepts/catascivilizationalinfrastructure/"
@@ -1480,6 +1483,9 @@ topic_concepts:
   - key: "CommercialSatelliteConstellations"
     title: "Commercial Satellite Constellations"
     url: "/wiki/concepts/commercialsatelliteconstellations/"
+  - key: "CommunicationResilience"
+    title: "Communication Resilience"
+    url: "/wiki/concepts/communicationresilience/"
   - key: "CommunityBankAIAdoption"
     title: "Community Bank AI Adoption"
     url: "/wiki/concepts/communitybankaiadoption/"

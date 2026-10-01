@@ -3356,6 +3356,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [226. The Lord of the Rings](sources/226-the-lord-of-the-rings-glt1788342017.md) — The Rest Is History episode on Tolkien's ring ethics, hidden Catholic structure, wartime power, damaged homecoming, anti-industrial environmentalism, politics, and race.
 - [Tools for Setting & Achieving Goals | Dr. Emily Balcetis](sources/tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571.md) — Huberman Lab interview on visual targeting, perceived effort, obstacle planning, positive-fantasy limits, and progress tracking.
 
+- [216. Pigeons](sources/216-pigeons-glt2770080110.md) — The Rest Is History episode on pigeon domestication, symbolism, communication, Operation Columba, wartime intelligence, fallback systems, and passenger-pigeon extinction.
+
 ## Entities
 - [Kyle Harper](entities/KyleHarper.md) — Historian connecting Roman decline to climate, disease ecology, demography, connectivity, and state capacity within a multi-causal model.
 - [Constantinople](entities/Constantinople.md) — Eastern Roman capital whose geography, infrastructure, institutions, Christianity, and Hippodrome politics sustained imperial power.
@@ -15058,6 +15060,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Shanghai (1937)](entities/BattleOfShanghai1937.md) — Costly three-month Nationalist stand chosen for military concentration and international visibility.
 - [Steve Goss](entities/SteveGoss.md) — Former Social Security chief actuary assessing the scale, feasibility, and timing of reform options.
 
+- [Gordon Corera](entities/GordonCorera.md) — Journalist and author whose Operation Columba research anchors the episode's account of pigeon intelligence and communication resilience.
+- [Pigeon](entities/Pigeon.md) — Long-domesticated bird connecting homing behavior, communication, sport, symbolism, war, intelligence, and changing urban reputation.
+- [Operation Columba](entities/OperationColumba.md) — British Second World War project using dropped homing pigeons to collect civilian intelligence from occupied Europe.
+- [Passenger Pigeon](entities/PassengerPigeon.md) — Formerly abundant North American pigeon used as a warning that visible abundance does not ensure resilience against mass killing.
+
 ## Concepts
 - [Antonine Plague](concepts/AntoninePlague.md) — Second-century trans-imperial pandemic treated as a severe but bounded shock with unresolved pathogen and mortality.
 - [Plague of Cyprian](concepts/PlagueOfCyprian.md) — Third-century epidemic understood through feedback with civil war, provisioning failure, monetary disruption, and frontier pressure.
@@ -24155,5 +24162,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anti-Industrial Pastoralism](concepts/AntiIndustrialPastoralism.md) — Literary-political critique joining ecological destruction, machinery, bureaucracy, surveillance, and damaged homecoming.
 - [Alcohol Systemic Dose Risk](concepts/AlcoholSystemicDoseRisk.md) — Graded framework connecting alcohol exposure with acute impairment and brain, sleep, gut-liver, endocrine, and cancer risks.
 - [Alcohol Reward-Stress Adaptation](concepts/AlcoholRewardStressAdaptation.md) — Feedback loop joining short-lived reward, negative rebound, baseline stress, tolerance, habit, and repeated use.
+
+- [Carrier Pigeon Communication](concepts/CarrierPigeonCommunication.md) — Fast but directionally constrained message system that turns trained homing behavior, lofts, and pre-positioning into communications infrastructure.
+- [Communication Resilience](concepts/CommunicationResilience.md) — Capacity to preserve high-value information flows through prepared channels with failure modes different from the primary system.
 
 ## Syntheses

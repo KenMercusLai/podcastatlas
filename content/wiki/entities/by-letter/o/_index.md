@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 11668
+wiki_total_pages: 11672
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "OperationBlueSkies"
     title: "Operation Blue Skies"
     url: "/wiki/entities/operationblueskies/"
+  - key: "OperationColumba"
+    title: "Operation Columba"
+    url: "/wiki/entities/operationcolumba/"
   - key: "OperationDemetrius"
     title: "Operation Demetrius"
     url: "/wiki/entities/operationdemetrius/"

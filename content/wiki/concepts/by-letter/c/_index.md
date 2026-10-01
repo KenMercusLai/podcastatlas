@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9054
+wiki_total_pages: 9056
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "CarnationRevolution"
     title: "Carnation Revolution"
     url: "/wiki/concepts/carnationrevolution/"
+  - key: "CarrierPigeonCommunication"
+    title: "Carrier Pigeon Communication"
+    url: "/wiki/concepts/carrierpigeoncommunication/"
   - key: "CarrierBagNarrative"
     title: "Carrier-Bag Narrative / 载物袋叙事"
     url: "/wiki/concepts/carrierbagnarrative/"
@@ -1577,6 +1580,9 @@ wiki_pages:
   - key: "CommunicationBoundarySetting"
     title: "Communication Boundary Setting"
     url: "/wiki/concepts/communicationboundarysetting/"
+  - key: "CommunicationResilience"
+    title: "Communication Resilience"
+    url: "/wiki/concepts/communicationresilience/"
   - key: "CommunityBankAIAdoption"
     title: "Community Bank AI Adoption"
     url: "/wiki/concepts/communitybankaiadoption/"

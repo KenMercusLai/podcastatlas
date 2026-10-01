@@ -851,6 +851,10 @@
     "title": "21.红与黑：他死于真诚",
     "url": "/wiki/sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001/"
   },
+  "216-pigeons-glt2770080110": {
+    "title": "216. Pigeons",
+    "url": "/wiki/sources/216-pigeons-glt2770080110/"
+  },
   "217-plague-and-the-decline-of-the-roman-empire-glt2583859060": {
     "title": "217. Plague and the Decline of the Roman Empire",
     "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
@@ -13795,6 +13799,10 @@
     "title": "Carrier-Bag Narrative / 载物袋叙事",
     "url": "/wiki/concepts/carrierbagnarrative/"
   },
+  "CarrierPigeonCommunication": {
+    "title": "Carrier Pigeon Communication",
+    "url": "/wiki/concepts/carrierpigeoncommunication/"
+  },
   "CarrotSticks": {
     "title": "Carrot Sticks",
     "url": "/wiki/entities/carrotsticks/"
@@ -17642,6 +17650,10 @@
   "CommunicationBoundarySetting": {
     "title": "Communication Boundary Setting",
     "url": "/wiki/concepts/communicationboundarysetting/"
+  },
+  "CommunicationResilience": {
+    "title": "Communication Resilience",
+    "url": "/wiki/concepts/communicationresilience/"
   },
   "CommunicationRitualParticipation": {
     "title": "Communication as Ritual Participation / 传播作为仪式参与",
@@ -31850,6 +31862,10 @@
   "GordieHoweBridge": {
     "title": "Gordie Howe Bridge",
     "url": "/wiki/entities/gordiehowebridge/"
+  },
+  "GordonCorera": {
+    "title": "Gordon Corera",
+    "url": "/wiki/entities/gordoncorera/"
   },
   "GordonFoodService": {
     "title": "Gordon Food Service",
@@ -54959,6 +54975,10 @@
     "title": "Operation Blue Skies",
     "url": "/wiki/entities/operationblueskies/"
   },
+  "OperationColumba": {
+    "title": "Operation Columba",
+    "url": "/wiki/entities/operationcolumba/"
+  },
   "OperationDemetrius": {
     "title": "Operation Demetrius",
     "url": "/wiki/entities/operationdemetrius/"
@@ -56246,6 +56266,10 @@
   "PassengerLinerAtrocityPropaganda": {
     "title": "Passenger-Liner Atrocity Propaganda",
     "url": "/wiki/concepts/passengerlineratrocitypropaganda/"
+  },
+  "PassengerPigeon": {
+    "title": "Passenger Pigeon",
+    "url": "/wiki/entities/passengerpigeon/"
   },
   "PassionAgainstSelfControl": {
     "title": "Passion Against Self-Control / 激情与自我控制",
@@ -57634,6 +57658,10 @@
   "PigButcheringScam": {
     "title": "Pig Butchering Scam",
     "url": "/wiki/concepts/pigbutcheringscam/"
+  },
+  "Pigeon": {
+    "title": "Pigeon",
+    "url": "/wiki/entities/pigeon/"
   },
   "PiggyLordOfTheFlies": {
     "title": "Piggy / 猪崽子（《蝇王》）",

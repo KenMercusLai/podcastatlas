@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11668
+wiki_total_pages: 11672
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "GordieHoweBridge"
     title: "Gordie Howe Bridge"
     url: "/wiki/entities/gordiehowebridge/"
+  - key: "GordonCorera"
+    title: "Gordon Corera"
+    url: "/wiki/entities/gordoncorera/"
   - key: "GordonFoodService"
     title: "Gordon Food Service"
     url: "/wiki/entities/gordonfoodservice/"

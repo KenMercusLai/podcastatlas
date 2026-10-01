@@ -27815,6 +27815,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/carrierbagnarrative/"
     },
+    "CarrierPigeonCommunication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2770080110 [GLT2770080110].md",
+          "key": "216-pigeons-glt2770080110",
+          "show": "The Rest Is History",
+          "title": "216. Pigeons",
+          "url": "/wiki/sources/216-pigeons-glt2770080110/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/carrierpigeoncommunication/"
+    },
     "Carthage": {
       "episode_count": 5,
       "show_count": 1,
@@ -36862,6 +36878,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/commonsensepamphlet/"
+    },
+    "CommunicationResilience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2770080110 [GLT2770080110].md",
+          "key": "216-pigeons-glt2770080110",
+          "show": "The Rest Is History",
+          "title": "216. Pigeons",
+          "url": "/wiki/sources/216-pigeons-glt2770080110/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/communicationresilience/"
     },
     "CommunicationRitualParticipation": {
       "episode_count": 1,
@@ -75978,6 +76010,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/gooseagenttool/"
+    },
+    "GordonCorera": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2770080110 [GLT2770080110].md",
+          "key": "216-pigeons-glt2770080110",
+          "show": "The Rest Is History",
+          "title": "216. Pigeons",
+          "url": "/wiki/sources/216-pigeons-glt2770080110/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/gordoncorera/"
     },
     "Goree": {
       "episode_count": 1,
@@ -135457,6 +135505,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/operationblueskies/"
     },
+    "OperationColumba": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2770080110 [GLT2770080110].md",
+          "key": "216-pigeons-glt2770080110",
+          "show": "The Rest Is History",
+          "title": "216. Pigeons",
+          "url": "/wiki/sources/216-pigeons-glt2770080110/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/operationcolumba/"
+    },
     "OperationFrequentWind": {
       "episode_count": 1,
       "show_count": 1,
@@ -138586,6 +138650,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/passengerlineratrocitypropaganda/"
+    },
+    "PassengerPigeon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2770080110 [GLT2770080110].md",
+          "key": "216-pigeons-glt2770080110",
+          "show": "The Rest Is History",
+          "title": "216. Pigeons",
+          "url": "/wiki/sources/216-pigeons-glt2770080110/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/passengerpigeon/"
     },
     "PassionDiscoveryThroughEngagement": {
       "episode_count": 1,
@@ -141934,6 +142014,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/pierreplantard/"
+    },
+    "Pigeon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2770080110 [GLT2770080110].md",
+          "key": "216-pigeons-glt2770080110",
+          "show": "The Rest Is History",
+          "title": "216. Pigeons",
+          "url": "/wiki/sources/216-pigeons-glt2770080110/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/pigeon/"
     },
     "PiggyLordOfTheFlies": {
       "episode_count": 1,
@@ -169506,9 +169602,9 @@
       "url": "/wiki/concepts/spanishcaribbeanexpansion/"
     },
     "SpanishCivilWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7389759975 [GLT7389759975].md",
@@ -169516,9 +169612,16 @@
           "show": "The Rest Is History",
           "title": "282: Morocco: The Rif War",
           "url": "/wiki/sources/282-morocco-the-rif-war-glt7389759975/"
+        },
+        {
+          "episode_file": "GLT2770080110 [GLT2770080110].md",
+          "key": "216-pigeons-glt2770080110",
+          "show": "The Rest Is History",
+          "title": "216. Pigeons",
+          "url": "/wiki/sources/216-pigeons-glt2770080110/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/spanishcivilwar/"
     },
     "SpanishConquestOfMexico": {
