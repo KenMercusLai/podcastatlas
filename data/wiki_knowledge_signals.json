@@ -78228,9 +78228,9 @@
       "url": "/wiki/entities/greyfriarsbobby/"
     },
     "GriefAttachmentRemapping": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM9466548315 [SCIM9466548315].md",
@@ -78252,15 +78252,22 @@
           "show": "Huberman Lab",
           "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
           "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
+        },
+        {
+          "episode_file": "SCIM7724129089 [SCIM7724129089].md",
+          "key": "the-science-process-of-healing-from-grief-scim7724129089",
+          "show": "Huberman Lab",
+          "title": "The Science & Process of Healing from Grief",
+          "url": "/wiki/sources/the-science-process-of-healing-from-grief-scim7724129089/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/griefattachmentremapping/"
     },
     "GriefPhysiologySupport": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9466548315 [SCIM9466548315].md",
@@ -78275,9 +78282,16 @@
           "show": "Huberman Lab",
           "title": "Healing From Grief & Loss | Dr. Mary-Frances O'Connor",
           "url": "/wiki/sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393/"
+        },
+        {
+          "episode_file": "SCIM7724129089 [SCIM7724129089].md",
+          "key": "the-science-process-of-healing-from-grief-scim7724129089",
+          "show": "Huberman Lab",
+          "title": "The Science & Process of Healing from Grief",
+          "url": "/wiki/sources/the-science-process-of-healing-from-grief-scim7724129089/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/griefphysiologysupport/"
     },
     "GrievanceRallyPerformance": {
@@ -158215,9 +158229,9 @@
       "url": "/wiki/entities/richardcromwell/"
     },
     "RichardFeynman": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
@@ -158225,9 +158239,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Bill Gurley: Searching for Feynman",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
+        },
+        {
+          "episode_file": "SCIM7724129089 [SCIM7724129089].md",
+          "key": "the-science-process-of-healing-from-grief-scim7724129089",
+          "show": "Huberman Lab",
+          "title": "The Science & Process of Healing from Grief",
+          "url": "/wiki/sources/the-science-process-of-healing-from-grief-scim7724129089/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/richardfeynman/"
     },
     "RichardIII": {
@@ -175629,9 +175650,9 @@
       "url": "/wiki/concepts/structureddecisionmodel/"
     },
     "StructuredGrievingPractice": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9466548315 [SCIM9466548315].md",
@@ -175639,9 +175660,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Process of Healing from Grief",
           "url": "/wiki/sources/essentials-the-science-process-of-healing-from-grief-scim9466548315/"
+        },
+        {
+          "episode_file": "SCIM7724129089 [SCIM7724129089].md",
+          "key": "the-science-process-of-healing-from-grief-scim7724129089",
+          "show": "Huberman Lab",
+          "title": "The Science & Process of Healing from Grief",
+          "url": "/wiki/sources/the-science-process-of-healing-from-grief-scim7724129089/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/structuredgrievingpractice/"
     },
     "StuartMcGill": {

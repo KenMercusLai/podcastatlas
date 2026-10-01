@@ -6,7 +6,8 @@ sources:
   - essentials-the-science-process-of-healing-from-grief-scim9466548315
   - healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393
   - how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639
-last_updated: 2026-09-21
+  - the-science-process-of-healing-from-grief-scim7724129089
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Grief attachment remapping is the source's model of healthy grieving as preservi
 The sources reject a simple detachment account of grief. [[AndrewHuberman]] describes attachment as a map of space, time, and closeness: the nervous system learns where someone can be found, when they appear or contact us, and how emotionally near they are. [[MaryFrancesOConnor]] adds that attachment carries an implicit expectation of endurance, producing a "gone but everlasting" conflict after death. Explicit knowledge registers the loss while the attachment system still expects contact and initiates seeking.
 
 Healthy grieving is therefore integration and learning rather than erasure. The person gradually updates predictions about physical presence while the internal relationship, memory, and emotional bond can continue to change. Yearning, protest, despair, moments of joy, and new attachment are not a fixed sequence; [[DualProcessBereavementOscillation]] lets loss-oriented and restoration-oriented life coexist.
+
+The full-length episode makes the prediction error especially concrete through place-, proximity-, and trace-cell language: familiar contexts can reactivate an expectation of presence, and absence can remain neurally salient. This is a source-scoped mechanism, but it helps explain why explicit acceptance and bodily expectation can change at different speeds.
 
 Gottlieb extends the model to breakups without collapsing separation into death. A former partner can remain digitally observable, so messages and social media repeatedly refresh availability cues even as the relationship has ended. [[BreakupWorldLoss]] also shows that the attachment map includes routines, shared history, sensory familiarity, family ties, and expected futures, making grief both relational and structural.
 
@@ -36,15 +39,16 @@ Gottlieb extends the model to breakups without collapsing separation into death.
 - Endurance-expectation claim: [[healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393]] describes the conflict between knowing the person is gone and experiencing the attachment as everlasting.
 - Seeking claim: both [[essentials-the-science-process-of-healing-from-grief-scim9466548315]] and [[healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393]] connect yearning to continuing motivation, wanting, and search-related activity.
 - Continuing-bond claim: [[healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393]] uses integration rather than letting go and describes the internal relationship as capable of further change.
+- Prediction-error detail: [[the-science-process-of-healing-from-grief-scim7724129089]] uses hippocampal place, proximity, and trace-cell language to explain how familiar contexts can continue to predict a lost person's presence.
 - Non-linear adaptation claim: [[healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393]] qualifies the five stages and supports movement between loss and restoration.
 - Breakup extension: [[how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639]] describes routines, shared history, sensory cues, family ties, future expectations, and continuing online access as parts of separation grief.
 
 ## Counterevidence & Qualifications
-The evidence consists of three public-education episodes, not a complete clinical grief theory. Breakup, death, miscarriage, estrangement, and other losses should not be collapsed into one process merely because each can involve attachment. The sources do not settle individual diagnosis, prolonged or complicated grief treatment, depression treatment, trauma-related loss, child bereavement, medication decisions, suicide prevention, or culturally specific mourning practices. Neuroimaging findings and attachment analogies remain source-scoped, and the five-stages model is qualified rather than erased as a historically influential framework.
+The evidence consists of public-education episodes, not a complete clinical grief theory; the full episode and its later Essentials condensation are shared provenance rather than independent replication. Breakup, death, miscarriage, estrangement, and other losses should not be collapsed into one process merely because each can involve attachment. The sources do not settle individual diagnosis, prolonged or complicated grief treatment, depression treatment, trauma-related loss, child bereavement, medication decisions, suicide prevention, or culturally specific mourning practices. Neuroimaging, hippocampal-cell, and attachment analogies remain source-scoped, and the five-stages model is qualified rather than erased as a historically influential framework.
 
 ## What Changed
-- Extended the attachment map to breakup-world loss and persistent digital availability cues.
-- Preserved the distinction among breakup, bereavement, miscarriage, estrangement, and other forms of loss.
+- Added the full episode's prediction-error account using place, proximity, and trace-cell language.
+- Marked the full episode and its Essentials condensation as shared rather than independent evidence.
 
 ## Related Concepts
 - [[StructuredGrievingPractice]] - practical branch for intentional grief blocks and counterfactual restraint.

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1373
+topic_total_pages: 1374
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3990,6 +3990,9 @@ topic_sources:
   - key: "the-science-art-of-comedy-creativity-tom-segura-scim7538555033"
     title: "The Science & Art of Comedy & Creativity | Tom Segura"
     url: "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+  - key: "the-science-process-of-healing-from-grief-scim7724129089"
+    title: "The Science & Process of Healing from Grief"
+    url: "/wiki/sources/the-science-process-of-healing-from-grief-scim7724129089/"
   - key: "the-science-treatment-of-bipolar-disorder-scim7309473526"
     title: "The Science & Treatment of Bipolar Disorder"
     url: "/wiki/sources/the-science-treatment-of-bipolar-disorder-scim7309473526/"

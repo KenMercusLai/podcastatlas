@@ -26702,3 +26702,11 @@ Added source `191-childbirth-glt5119375504`; created `SaraRead`, `JaneSharp`, `N
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | The Science & Process of Healing from Grief
+
+Added source `the-science-process-of-healing-from-grief-scim7724129089`; resynthesized `GriefAttachmentRemapping`, `GriefPhysiologySupport`, `StructuredGrievingPractice`, and `RichardFeynman` from their complete preserved evidence inventories. Core synthesis: grief can preserve emotional closeness while the nervous system updates predictions about physical access across space and time; deliberate grieving is framed as bounded contact with attachment rather than counterfactual rumination; and sleep, circadian, autonomic, social, and professional supports can widen capacity without becoming standalone treatment. No settled contradiction was adopted. The full episode and its later Essentials condensation are shared provenance rather than independent replication, while neuroimaging, hippocampal-cell, oxytocin, epinephrine, cortisol, vagal-tone, writing, light, sleep, NSDR, duration, antidepressant-response, and complicated-grief claims remain source-scoped public education rather than diagnosis or individualized care. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,338-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, synthesis, index coverage, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

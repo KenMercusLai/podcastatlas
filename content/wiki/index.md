@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Science & Process of Healing from Grief](sources/the-science-process-of-healing-from-grief-scim7724129089.md) — Full Huberman Lab episode on grief as attachment remapping, continued bonds, structured grieving, physiology, sleep, circadian support, and clinical boundaries.
 - [192. Robin Hood](sources/192-robin-hood-glt1296880830.md) — The Rest Is History episode separating the violent medieval yeoman outlaw from the later aristocratic, romantic, philanthropic, and political Robin Hood legend.
 - [Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti](sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707.md) — Huberman Lab interview on functional trauma recognition, witnessing and language, observing ego, therapy fit and intensity, medication support, and clinical boundaries.
 - [193. How Prime Ministers Fall](sources/193-how-prime-ministers-fall-glt7608869237.md) — The Rest Is History episode on Boris Johnson's June 2022 confidence vote and the historical mechanisms by which British prime ministers lose usable authority.
