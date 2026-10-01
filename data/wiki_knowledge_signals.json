@@ -17741,9 +17741,9 @@
       "url": "/wiki/entities/babbittcoffee/"
     },
     "Babylon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1570061216 [GLT1570061216].md",
@@ -17751,10 +17751,49 @@
           "show": "The Rest Is History",
           "title": "181. The Birth of Babylon",
           "url": "/wiki/sources/181-the-birth-of-babylon-glt1570061216/"
+        },
+        {
+          "episode_file": "GLT7141377161 [GLT7141377161].md",
+          "key": "145-babylon-glt7141377161",
+          "show": "The Rest Is History",
+          "title": "145. Babylon",
+          "url": "/wiki/sources/145-babylon-glt7141377161/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/babylon/"
+    },
+    "BabylonAsImperialMetaphor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7141377161 [GLT7141377161].md",
+          "key": "145-babylon-glt7141377161",
+          "show": "The Rest Is History",
+          "title": "145. Babylon",
+          "url": "/wiki/sources/145-babylon-glt7141377161/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/babylonasimperialmetaphor/"
+    },
+    "BabylonianExileIdentityFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7141377161 [GLT7141377161].md",
+          "key": "145-babylon-glt7141377161",
+          "show": "The Rest Is History",
+          "title": "145. Babylon",
+          "url": "/wiki/sources/145-babylon-glt7141377161/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/babylonianexileidentityformation/"
     },
     "BadThoughts": {
       "episode_count": 1,
@@ -44046,9 +44085,9 @@
       "url": "/wiki/concepts/cynicismandhopefulskepticism/"
     },
     "CyrusTheGreat": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8965800182 [GLT8965800182].md",
@@ -44056,9 +44095,16 @@
           "show": "The Rest Is History",
           "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
           "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        },
+        {
+          "episode_file": "GLT7141377161 [GLT7141377161].md",
+          "key": "145-babylon-glt7141377161",
+          "show": "The Rest Is History",
+          "title": "145. Babylon",
+          "url": "/wiki/sources/145-babylon-glt7141377161/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/cyrusthegreat/"
     },
     "DCFValuationAsNarrative": {
@@ -124949,9 +124995,9 @@
       "url": "/wiki/entities/marcusvipsaniusagrippa/"
     },
     "Marduk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1570061216 [GLT1570061216].md",
@@ -124959,9 +125005,16 @@
           "show": "The Rest Is History",
           "title": "181. The Birth of Babylon",
           "url": "/wiki/sources/181-the-birth-of-babylon-glt1570061216/"
+        },
+        {
+          "episode_file": "GLT7141377161 [GLT7141377161].md",
+          "key": "145-babylon-glt7141377161",
+          "show": "The Rest Is History",
+          "title": "145. Babylon",
+          "url": "/wiki/sources/145-babylon-glt7141377161/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/marduk/"
     },
     "MargaretMitchell": {
@@ -134926,6 +134979,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/nio/"
     },
+    "Nabonidus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7141377161 [GLT7141377161].md",
+          "key": "145-babylon-glt7141377161",
+          "show": "The Rest Is History",
+          "title": "145. Babylon",
+          "url": "/wiki/sources/145-babylon-glt7141377161/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/nabonidus/"
+    },
     "NaganoChiikawa": {
       "episode_count": 1,
       "show_count": 1,
@@ -136143,6 +136212,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/nemoclaw/"
+    },
+    "NebuchadnezzarII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7141377161 [GLT7141377161].md",
+          "key": "145-babylon-glt7141377161",
+          "show": "The Rest Is History",
+          "title": "145. Babylon",
+          "url": "/wiki/sources/145-babylon-glt7141377161/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/nebuchadnezzarii/"
     },
     "NeglectedFrictionProductInnovation": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9220
+wiki_total_pages: 9222
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -14,6 +14,12 @@ wiki_pages:
   - key: "B2BToA2A"
     title: "B2B to A2A"
     url: "/wiki/concepts/b2btoa2a/"
+  - key: "BabylonAsImperialMetaphor"
+    title: "Babylon as Imperial Metaphor"
+    url: "/wiki/concepts/babylonasimperialmetaphor/"
+  - key: "BabylonianExileIdentityFormation"
+    title: "Babylonian Exile Identity Formation"
+    url: "/wiki/concepts/babylonianexileidentityformation/"
   - key: "BadMoney"
     title: "Bad Money"
     url: "/wiki/concepts/badmoney/"

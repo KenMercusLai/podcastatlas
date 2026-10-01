@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [145. Babylon](sources/145-babylon-glt7141377161.md) — The Rest Is History on Neo-Babylonian monumental power, Judean exile, Persian conquest, urban decline, and Babylon's biblical and anti-imperial afterlives.
 - [146. Disease vs. the rise of civilisation](sources/146-disease-vs-the-rise-of-civilisation-glt4238916512.md) — The Rest Is History interview with Kyle Harper on human disease ecology, agricultural settlement, urban demographic sinks, the Black Death, and the mortality transition.
 - [147. Disease, the New World and modern pandemics](sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457.md) — The Rest Is History interview with Kyle Harper on the Columbian Exchange, plantation disease ecology, sanitation, cholera, influenza, COVID-19, and globalization.
 - [148. The Vikings Go East](sources/148-the-vikings-go-east-glt1476178706.md) — The Rest Is History on eastern Viking river trade, Rus formation, Abbasid silver, slavery, Ibn Fadlan, and the modern politics of Rus origins.
@@ -3466,6 +3467,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Optimizing Workspace for Productivity, Focus, & Creativity](sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757.md) — Huberman Lab solo episode on task-matched light, gaze, posture, sound, interruption boundaries, movement, and active-workstation tradeoffs.
 
 ## Entities
+- [Nebuchadnezzar II](entities/NebuchadnezzarII.md) — Neo-Babylonian builder and conqueror whose destruction of Jerusalem joins imperial monumentality to exile and biblical judgment.
+- [Nabonidus](entities/Nabonidus.md) — Last Neo-Babylonian king whose Tayma absence and disrupted Marduk ritual frame Cyrus's conquest.
 - [Plagues Upon the Earth](entities/PlaguesUponTheEarth.md) — Kyle Harper's global history of disease from prehistory and agriculture through plague, public health, globalization, and the mortality transition.
 - [Jaak Panksepp](entities/JaakPanksepp.md) — Affective-neuroscience researcher presented as a pioneer in the biological and psychological study of play.
 - [Rurik](entities/Rurik.md) — Scandinavian-associated Rus foundation figure whose dynastic importance exceeds the certainty of the Chronicle's invitation legend.
@@ -15382,6 +15385,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Julie Gottman](entities/JulieGottman.md) — Relationship researcher linked with John Gottman to couple outcomes and destructive conflict patterns.
 
 ## Concepts
+- [Babylonian Exile Identity Formation](concepts/BabylonianExileIdentityFormation.md) — How conquest, Temple loss, elite deportation, textual work, and religious boundary-making sharpened Judean identity.
+- [Babylon as Imperial Metaphor](concepts/BabylonAsImperialMetaphor.md) — Reuse of Babylon as a symbol of wealthy, coercive, idolatrous power destined for reversal.
 - [Mortality Transition](concepts/MortalityTransition.md) — Historically recent and uneven shift from infectious disease toward chronic and degenerative causes of death.
 - [Agricultural Settlement Disease Ecology](concepts/AgriculturalSettlementDiseaseEcology.md) — Disease exposure created by sedentism, concentrated waste, domesticated animals, water constraints, and population density.
 - [Black Death Historical Shock](concepts/BlackDeathHistoricalShock.md) — Exceptional fourteenth-century plague mortality analyzed alongside genetic evidence and contested geographic boundaries.

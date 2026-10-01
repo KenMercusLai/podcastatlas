@@ -27260,3 +27260,10 @@ Added source `optimizing-workspace-for-productivity-focus-creativity-scim5202577
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-02] ingest | 145. Babylon
+
+Added source `145-babylon-glt7141377161`; created `NebuchadnezzarII`, `Nabonidus`, `BabylonianExileIdentityFormation`, and `BabylonAsImperialMetaphor`; and resynthesized `Babylon`, `Marduk`, and `CyrusTheGreat` from their complete preserved evidence inventories. Core synthesis: Babylon's authority joined sacred centrality, monumental capital, commerce, conquest, and textual afterlife; Judean exile turned imperial catastrophe into identity work, while Jeremiah, Daniel, Revelation, Protestant polemic, Rastafarianism, nationalism, and war made Babylon a portable critique of dominating power. No settled contradiction was adopted. Foundation dates, population and monument measurements, Herodotus's customs, the Hanging Gardens, Daniel's chronology, Nabonidus's motives, Cyrus's reception, and the causal weight of exile remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,406-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

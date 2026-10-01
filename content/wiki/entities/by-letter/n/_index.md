@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 11876
+wiki_total_pages: 11878
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "NStudent"
     title: "N 同学 / N Student"
     url: "/wiki/entities/nstudent/"
+  - key: "Nabonidus"
+    title: "Nabonidus"
+    url: "/wiki/entities/nabonidus/"
   - key: "NaftaliBennett"
     title: "Naftali Bennett"
     url: "/wiki/entities/naftalibennett/"
@@ -257,6 +260,9 @@ wiki_pages:
   - key: "Ndongo"
     title: "Ndongo"
     url: "/wiki/entities/ndongo/"
+  - key: "NebuchadnezzarII"
+    title: "Nebuchadnezzar II"
+    url: "/wiki/entities/nebuchadnezzarii/"
   - key: "NeihanDuanzi"
     title: "Neihan Duanzi"
     url: "/wiki/entities/neihanduanzi/"
