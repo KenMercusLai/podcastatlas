@@ -4,6 +4,7 @@ type: concept
 tags: [empire, steppe, state-formation, mongol-history]
 sources:
   - 166-genghis-khan-lord-of-the-mongols-glt4398796320
+  - 165-the-rise-of-genghis-khan-glt3370086758
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -12,28 +13,35 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Nomadic imperial formation is the transition by which a steppe coalition organized through leadership, kinship, mobility, and plunder develops composite military forces, territorial claims, and borrowed administrative capacity on the way toward empire.
+Nomadic imperial formation is the process by which a mobile steppe coalition organized through kinship, chosen loyalty, military structure, and leadership develops composite forces, territorial claims, and borrowed administrative capacity on the way toward empire.
 
 ## Current Synthesis
 
-[[166-genghis-khan-lord-of-the-mongols-glt4398796320]] uses [[GenghisKhan|Genghis Khan]] to separate imperial expansion from an already mature imperial state. His early strategic problem was to unite nomadic groups and acquire enough plunder to reward followers. Success in northern China and Central Asia then expanded ambitions, brought non-Mongol soldiers and siege capacity into the force, and opened political vacuums beyond the steppe.
+[[165-the-rise-of-genghis-khan-glt3370086758]] supplies the internal formation stage. [[GenghisKhan|Temujin]] operated in a political environment where groups divided and recombined, ancestry conferred standing but not automatic command, and alliances could move from blood brotherhood to rivalry. He created a more durable [[CrossKinshipSteppeOrganization|cross-kinship organization]] by combining marriage and bloodline with chosen bonds, loyalty discipline, ability-based recruitment, and decimal military units that cut across older affiliations. The 1206 proclamation marks the successful consolidation of that process.
 
-At Genghis Khan's death, this structure covered an enormous region but still ran primarily through family, extended kin, blood brothers, commanders, and personal charisma. Later reliance on Persian and Chinese officials shows how conquest capacity and administrative capacity developed at different speeds. The concept therefore describes a changing organizational process rather than a fixed opposition between nomads and settled civilization.
+[[166-genghis-khan-lord-of-the-mongols-glt4398796320]] supplies the outward expansion stage. Coalition maintenance and distribution of plunder preceded a settled program of world conquest, but success in northern China and Central Asia enlarged ambitions, brought non-Mongol soldiers and siege capacity into the force, and opened political vacuums beyond the steppe.
+
+At Genghis Khan's death, the structure covered an enormous region but still ran primarily through family, extended kin, blood brothers, commanders, and personal charisma. Later reliance on Persian and Chinese officials shows that political unification, conquest capacity, and administrative capacity developed at different speeds. The concept therefore describes connected stages rather than a fixed opposition between nomads and settled civilization.
 
 ## Key Claims
 
-- Coalition maintenance and distribution of plunder preceded a settled program of world conquest.
+- Internal coalition reorganization preceded outward imperial expansion.
+- Chosen bonds, loyalty rules, and decimal units supplemented rather than erased kinship.
+- Coalition maintenance and distribution of plunder came before a settled program of world conquest.
 - Repeated success could enlarge aims from raiding and tribute toward territorial empire.
-- Composite armies and siege expertise weakened any simple ethnic definition of the conquering force.
-- Kinship, personal authority, and commanders could sustain rapid expansion before bureaucracy matured.
-- Conquest of settled regions created administrative needs later met partly through incorporated Persian and Chinese expertise.
+- Composite armies and acquired siege expertise weakened any simple ethnic definition of the conquering force.
+- Conquest capacity expanded faster than mature administrative institutions.
 
 ## Evidence
+
+Internal unification:
+- [[165-the-rise-of-genghis-khan-glt3370086758]] connects shifting alliances, loyalty networks, ability-based recruitment, decimal organization, and defeat of rivals to the 1206 settlement.
 
 Coalition incentives and widening aims:
 - [[166-genghis-khan-lord-of-the-mongols-glt4398796320]] connects steppe unification, northern Chinese plunder, tributary relations, and accumulated success to broader imperial ambition.
 
-Composite military capacity:
+Military adaptation:
+- [[165-the-rise-of-genghis-khan-glt3370086758]] contrasts open-steppe mounted strength with early weakness in siege warfare and later technical acquisition.
 - [[166-genghis-khan-lord-of-the-mongols-glt4398796320]] describes an army of light cavalry, armored horsemen, siege elements, and many non-Mongol troops.
 
 Institutional lag:
@@ -41,15 +49,17 @@ Institutional lag:
 
 ## Counterevidence & Qualifications
 
-The concept should not turn “nomadic” and “settled” into timeless, homogeneous opposites. The episode is a broad interpretive conversation, not a comparative institutional study, and it does not establish a single date at which confederacy became empire. The claimed weakness of institutional foundations may help explain later fragmentation but is not presented as a sufficient cause of the empire's duration.
+The concept should not turn “nomadic” and “settled” into timeless, homogeneous opposites or assume ecology mechanically produced empire. Cross-kinship organization did not eliminate lineage, and qualified ability-based recruitment was not modern meritocracy. The episodes are broad interpretive conversations rather than a comparative institutional study, and they do not establish a single date at which confederacy became empire. Administrative lag may help explain later fragmentation but is not offered as a sufficient cause.
 
 ## What Changed
 
-- Created the concept to distinguish rapid conquest capacity from slower administrative institutionalization.
+- Added the pre-1206 internal reorganization that made outward expansion politically possible.
+- Separated cross-kinship unification, military adaptation, territorial conquest, and administrative institutionalization into connected stages.
 
 ## Related Concepts
 
-- [[MongolEmpire]] - principal polity through which the formation process is illustrated.
-- [[GenghisKhan]] - charismatic coalition leader whose successes widened imperial aims.
+- [[CrossKinshipSteppeOrganization]] - internal coalition structure that precedes the outward imperial process.
+- [[MongolEmpire]] - principal polity through which the full formation sequence is illustrated.
+- [[GenghisKhan]] - coalition leader whose success connected internal unification to expanding aims.
 - [[MongolStrategicTerror]] - coercive mechanism that could accelerate submission during expansion.
-- [[Subutai]] - commander illustrating the reach of the mobile military network.
+- [[SteppePastoralResourcePressure|Steppe Pastoral Resource Pressure / 草原游牧资源压力]] - adjacent ecological frame that should not be confused with a sufficient cause of empire.

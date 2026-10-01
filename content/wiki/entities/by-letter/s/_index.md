@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11831
+wiki_total_pages: 11834
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1799,6 +1799,9 @@ wiki_pages:
   - key: "SyrilKarn"
     title: "Syril Karn"
     url: "/wiki/entities/syrilkarn/"
+  - key: "SecretHistoryOfTheMongols"
+    title: "The Secret History of the Mongols"
+    url: "/wiki/entities/secrethistoryofthemongols/"
   - key: "StarSpangledBanner"
     title: "The Star-Spangled Banner"
     url: "/wiki/entities/starspangledbanner/"

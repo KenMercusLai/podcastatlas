@@ -27035,3 +27035,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 165. The Rise of Genghis Khan
+
+Added source `165-the-rise-of-genghis-khan-glt3370086758`; created `Borte`, `Jamukha`, `SecretHistoryOfTheMongols`, and `CrossKinshipSteppeOrganization`; and resynthesized `GenghisKhan`, `MongolEmpire`, `AliAnsari`, and `NomadicImperialFormation` from their complete preserved evidence inventories. Core synthesis: Temujin's pre-1206 achievement was to turn fluid steppe alliances into a more durable cross-kinship political and military organization through chosen bonds, loyalty discipline, qualified ability-based recruitment, and decimal units; that internal unification supplied the foundation for later outward imperial formation. No settled contradiction was adopted. Childhood ordeals, birth omens, Jamukha's dialogue and death, “meritocracy,” religious tolerance, ecological limits, and military-technology explanations remain legendary, qualified, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten because this episode deepens the established Mongol-history branch rather than changing the wiki-wide synthesis. The downstream manifest and paragraph ledger were refreshed to 3,379-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

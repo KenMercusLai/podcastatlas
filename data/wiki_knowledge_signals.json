@@ -8851,9 +8851,9 @@
       "url": "/wiki/concepts/algorithmictrustmigration/"
     },
     "AliAnsari": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8347276204 [GLT8347276204].md",
@@ -8868,6 +8868,13 @@
           "show": "The Rest Is History",
           "title": "166. Genghis Khan: Lord of the Mongols",
           "url": "/wiki/sources/166-genghis-khan-lord-of-the-mongols-glt4398796320/"
+        },
+        {
+          "episode_file": "GLT3370086758 [GLT3370086758].md",
+          "key": "165-the-rise-of-genghis-khan-glt3370086758",
+          "show": "The Rest Is History",
+          "title": "165. The Rise of Genghis Khan",
+          "url": "/wiki/sources/165-the-rise-of-genghis-khan-glt3370086758/"
         }
       ],
       "updated": "2026-10-02",
@@ -22676,6 +22683,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/borrowedknifekilling/"
+    },
+    "Borte": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3370086758 [GLT3370086758].md",
+          "key": "165-the-rise-of-genghis-khan-glt3370086758",
+          "show": "The Rest Is History",
+          "title": "165. The Rise of Genghis Khan",
+          "url": "/wiki/sources/165-the-rise-of-genghis-khan-glt3370086758/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/borte/"
     },
     "BostonDynamics": {
       "episode_count": 5,
@@ -42411,6 +42434,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/crossdevicepersonalmemory/"
+    },
+    "CrossKinshipSteppeOrganization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3370086758 [GLT3370086758].md",
+          "key": "165-the-rise-of-genghis-khan-glt3370086758",
+          "show": "The Rest Is History",
+          "title": "165. The Rise of Genghis Khan",
+          "url": "/wiki/sources/165-the-rise-of-genghis-khan-glt3370086758/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/crosskinshipsteppeorganization/"
     },
     "CrossSymbolicInversion": {
       "episode_count": 1,
@@ -75622,9 +75661,9 @@
       "url": "/wiki/entities/gengyuwesternhan/"
     },
     "GenghisKhan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》131-3｜李清照中年夫妻离别 喝酒解相思 [lnzXHRj2iULaHCcY2-Pkm-WPhDEi].md",
@@ -75639,6 +75678,13 @@
           "show": "The Rest Is History",
           "title": "166. Genghis Khan: Lord of the Mongols",
           "url": "/wiki/sources/166-genghis-khan-lord-of-the-mongols-glt4398796320/"
+        },
+        {
+          "episode_file": "GLT3370086758 [GLT3370086758].md",
+          "key": "165-the-rise-of-genghis-khan-glt3370086758",
+          "show": "The Rest Is History",
+          "title": "165. The Rise of Genghis Khan",
+          "url": "/wiki/sources/165-the-rise-of-genghis-khan-glt3370086758/"
         }
       ],
       "updated": "2026-10-02",
@@ -100070,6 +100116,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/jamilzaki/"
+    },
+    "Jamukha": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3370086758 [GLT3370086758].md",
+          "key": "165-the-rise-of-genghis-khan-glt3370086758",
+          "show": "The Rest Is History",
+          "title": "165. The Rise of Genghis Khan",
+          "url": "/wiki/sources/165-the-rise-of-genghis-khan-glt3370086758/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/jamukha/"
     },
     "JanHus": {
       "episode_count": 1,
@@ -131305,9 +131367,9 @@
       "url": "/wiki/concepts/monarchstwobodies/"
     },
     "MongolEmpire": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4398796320 [GLT4398796320].md",
@@ -131315,6 +131377,13 @@
           "show": "The Rest Is History",
           "title": "166. Genghis Khan: Lord of the Mongols",
           "url": "/wiki/sources/166-genghis-khan-lord-of-the-mongols-glt4398796320/"
+        },
+        {
+          "episode_file": "GLT3370086758 [GLT3370086758].md",
+          "key": "165-the-rise-of-genghis-khan-glt3370086758",
+          "show": "The Rest Is History",
+          "title": "165. The Rise of Genghis Khan",
+          "url": "/wiki/sources/165-the-rise-of-genghis-khan-glt3370086758/"
         }
       ],
       "updated": "2026-10-02",
@@ -136810,9 +136879,9 @@
       "url": "/wiki/concepts/nomadiccavalryraidingasymmetry/"
     },
     "NomadicImperialFormation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4398796320 [GLT4398796320].md",
@@ -136820,6 +136889,13 @@
           "show": "The Rest Is History",
           "title": "166. Genghis Khan: Lord of the Mongols",
           "url": "/wiki/sources/166-genghis-khan-lord-of-the-mongols-glt4398796320/"
+        },
+        {
+          "episode_file": "GLT3370086758 [GLT3370086758].md",
+          "key": "165-the-rise-of-genghis-khan-glt3370086758",
+          "show": "The Rest Is History",
+          "title": "165. The Rise of Genghis Khan",
+          "url": "/wiki/sources/165-the-rise-of-genghis-khan-glt3370086758/"
         }
       ],
       "updated": "2026-10-02",
@@ -167381,6 +167457,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/secrecydrivenhistoricalmyth/"
+    },
+    "SecretHistoryOfTheMongols": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3370086758 [GLT3370086758].md",
+          "key": "165-the-rise-of-genghis-khan-glt3370086758",
+          "show": "The Rest Is History",
+          "title": "165. The Rise of Genghis Khan",
+          "url": "/wiki/sources/165-the-rise-of-genghis-khan-glt3370086758/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/secrethistoryofthemongols/"
     },
     "SecretImperialInfantSuppression": {
       "episode_count": 2,

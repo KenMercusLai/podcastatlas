@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [165. The Rise of Genghis Khan](sources/165-the-rise-of-genghis-khan-glt3370086758.md) — The Rest Is History conversation with Ali Ansari on Temujin's early ordeals, alliances, loyalty network, military reorganization, and 1206 unification.
 - [166. Genghis Khan: Lord of the Mongols](sources/166-genghis-khan-lord-of-the-mongols-glt4398796320.md) — The Rest Is History conversation with Ali Ansari on Genghis Khan's widening ambitions, conditional terror, Central Asian destruction, and the Mongol realm as an empire in formation.
 - [167. Oil: The Making of the Modern World](sources/167-oil-the-making-of-the-modern-world-glt7483911964.md) — The Rest Is History conversation with Helen Thompson on oil's role in imperial competition, world-war logistics, postwar security, OPEC, and Soviet fiscal pressure.
 - [168. Oil: Conflict, Chaos and Climate Change](sources/168-oil-conflict-chaos-and-climate-change-glt4572551005.md) — The Rest Is History conversation with Helen Thompson on oil's political power, European-Russian energy dependence, pipeline leverage, and overlapping fossil and green geopolitics.
@@ -3438,7 +3439,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Led Sales: He Learned to Sell and Closed 50 Customers](sources/d5efc401.md) — The SaaS Podcast episode with Shahar Azulay on Groundcover's eBPF and bring-your-own-cloud architecture, founder-led sales, infrastructure-based pricing, and incumbent replacement migration.
 
 ## Entities
-- [Mongol Empire](entities/MongolEmpire.md) — Eurasian conquest polity that grew from Genghis Khan's steppe coalition before its administration fully institutionalized.
+- [Borte](entities/Borte.md) — Temujin's wife, whose abduction and recovery exposed the role of marriage, humiliation, and alliance mobilization in steppe politics.
+- [Jamukha](entities/Jamukha.md) — Temujin's blood brother, early ally, and eventual rival during the struggle to unify the Mongol steppe.
+- [The Secret History of the Mongols](entities/SecretHistoryOfTheMongols.md) — Central but partly legendary narrative source for Temujin's ancestry, childhood, alliances, ordeals, and rise.
+- [Mongol Empire](entities/MongolEmpire.md) — Eurasian conquest polity that grew from cross-kinship steppe unification into composite conquest before its administration fully institutionalized.
 - [Subutai](entities/Subutai.md) — Mongol commander whose western reconnaissance connected Central Asian victory to later expansion into Rus and Europe.
 - [Khwarazmian Empire](entities/KhwarazmianEmpire.md) — Central Asian power destroyed after the killing of Mongol merchants and mistreatment of envoys triggered the 1219 campaign.
 - [Helen Thompson](entities/HelenThompson.md) — Political economist linking oil to empire, war, political power, energy infrastructure, and transition without reducing history to a single cause.
@@ -15308,8 +15312,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Cross-Kinship Steppe Organization](concepts/CrossKinshipSteppeOrganization.md) — Political and military loyalty built across inherited clan divisions through chosen bonds, ability, discipline, and mixed decimal units.
 - [Mongol Strategic Terror](concepts/MongolStrategicTerror.md) — Conditional surrender-and-punishment system using exemplary destruction to deter resistance without making the violence random or moderate.
-- [Nomadic Imperial Formation](concepts/NomadicImperialFormation.md) — Transition from plunder-supported steppe coalition toward composite conquest forces, territorial rule, and borrowed administration.
+- [Nomadic Imperial Formation](concepts/NomadicImperialFormation.md) — Staged transition from cross-kinship unification through composite conquest toward territorial rule and borrowed administration.
 - [Oil Political Power](concepts/OilPoliticalPower.md) — Non-deterministic framework for how petroleum geography, supply, revenue, transport, and infrastructure reshape state power and strategic choice.
 - [Energy Transition Geopolitics](concepts/EnergyTransitionGeopolitics.md) — Strategic overlap in which low-carbon manufacturing and mineral dependencies grow before fossil-fuel geopolitics disappears.
 - [Falklands War Origins](concepts/FalklandsWarOrigins.md) — Multi-causal interaction of sovereignty, Islander identity, junta insecurity, deterrence signaling, and operational acceleration.

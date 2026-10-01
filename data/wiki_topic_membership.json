@@ -968,6 +968,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "165-the-rise-of-genghis-khan-glt3370086758": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646": [
     {
       "key": "culture",
@@ -69762,6 +69769,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SecretHistoryOfTheMongols": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "SecretMemorialPoliticalIntelligence": [
