@@ -26578,3 +26578,11 @@ Added source `201-american-civil-war-outbreak-part-2-glt4100428000`; created `Ba
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | The Science & Treatment of Obsessive-Compulsive Disorder (OCD)
+
+Added source `the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967`; created `ObsessiveCompulsivePersonalityDisorder`; and resynthesized `ObsessiveCompulsiveDisorder`, `OCDCompulsionReinforcementLoop`, `ExposureResponsePreventionForOCD`, `CorticostriatalThalamicLoop`, `YaleBrownObsessiveCompulsiveScale`, and `HelenBlairSimpson` from their complete preserved evidence inventories. Core synthesis: OCD is organized around intrusive obsessions, anxiety, and short-lived compulsive relief that reinforces the cycle; exposure-response prevention uses progressive, clinician-guided exposure, ritual prevention, homework, and context-sensitive observation; and OCPD remains distinct because order or rigidity may feel identity-consistent even when severe traits impair life. No settled contradiction was adopted. Disability, genetics, imaging, animal models, treatment comparisons, medication, brain stimulation, psychedelic, hormone, mindfulness, supplement, delayed-gratification, and superstition claims remain source-scoped public education rather than individualized guidance. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,323-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Science & Treatment of Obsessive-Compulsive Disorder (OCD)](sources/the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967.md) — Full Huberman Lab episode on OCD mechanisms, Y-BOCS assessment, exposure-response prevention, SSRIs and emerging treatments, and the OCD/OCPD distinction.
 - [Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere](sources/optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076.md) — Huberman Lab interview on sustainable strength and conditioning, mind-muscle control, recovery signals, mobility, pain-aware mechanics, and practical nutrition.
 - [204. Gone with the Wind](sources/204-gone-with-the-wind-glt3666140136.md) — The Rest Is History episode on Gone with the Wind, Lost Cause memory, Reconstruction's rollback, segregation, and contextualizing harmful classics.
 - [205. The Last Days of Boris Johnson](sources/205-the-last-days-of-boris-johnson-glt2329301983.md) — The Rest Is History episode on Johnson's July 2022 fall, political role limits, personal-mandate claims, constitutional conventions, and government breakdown.
@@ -15144,6 +15145,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lucile Desmoulins](entities/LucileDesmoulins.md) — Camille Desmoulins's wife, falsely implicated in a prison plot and executed after the Dantonist trial.
 
 ## Concepts
+- [Obsessive-Compulsive Personality Disorder](concepts/ObsessiveCompulsivePersonalityDisorder.md) — Distinct pattern of identity-consistent order, control, precision, or rigidity that should not be conflated with intrusive OCD symptoms.
 - [Black Union Military Service and Citizenship](concepts/BlackUnionMilitaryServiceCitizenship.md) — Link among African American enlistment, military capacity, unequal treatment, racial violence, sacrifice, and claims to political membership.
 - [Enslaved Self-Emancipation](concepts/EnslavedSelfEmancipation.md) — Enslaved people's flight, labor withdrawal, resistance, and pressure on Union policy during slavery's wartime collapse.
 - [Confederate Cost-Imposition Strategy](concepts/ConfederateCostImpositionStrategy.md) — Route to independence through casualties, morale, invasion, and elections making continued Union war politically intolerable.

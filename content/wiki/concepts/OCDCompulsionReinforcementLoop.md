@@ -5,7 +5,8 @@ tags: [psychiatry, ocd, anxiety, learning]
 sources:
   - essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647
   - ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965
-last_updated: 2026-09-26
+  - the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The loop also explains why treatment targets ritual interruption rather than com
 
 The AMA reinforces the same loop while framing treatment as a plasticity sequence: neurological or pharmacological support may create conditions in which therapist-guided exposure and resistance to compulsions can train a different response. This does not reduce OCD to basal-ganglia “miswiring” or make replacement behaviors, SSRIs, or neuroplasticity language universal prescriptions.
 
+The full original episode, [[the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967]], strengthens the learning account by adding avoidance and hidden rituals: not touching, mental counting, small movements, or disguised behavior can all deliver short-term relief and maintain the same cycle. Its “thoughts are not actions” boundary also helps explain why treatment can allow disturbing thoughts to exist without converting them into ritual or moral self-identification.
+
 ## Key Claims
 - Anxiety is the bridge between intrusive obsession and compulsive response.
 - Compulsions may briefly reduce distress but strengthen the long-term association between obsession and action.
@@ -28,6 +31,7 @@ The AMA reinforces the same loop while framing treatment as a plasticity sequenc
 - Identifying the exact catastrophic fear matters because the compulsion often protects against a deeper feared outcome.
 - Exposure and ritual prevention weaken the loop by allowing anxiety without the usual relief-seeking act.
 - The loop is compatible with circuit-level accounts but should not be reduced to one neurotransmitter explanation.
+- Avoidance and covert mental or motor rituals can maintain the loop even when no obvious compulsion is visible.
 
 ## Evidence
 - Anxiety bridge - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] describes anxiety as the line connecting obsessions and compulsions.
@@ -36,12 +40,14 @@ The AMA reinforces the same loop while framing treatment as a plasticity sequenc
 - Fear mapping - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] stresses identifying the largest catastrophic fear behind the obsession.
 - Treatment mechanism - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] describes exposure-based CBT as anxiety tolerance plus doing the opposite of the usual compulsion.
 - Plasticity framing - [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965]] says compulsions can exacerbate obsessions and presents medication or neurological support, exposure, response resistance, and selected replacement behavior as severity- and clinician-dependent parts of change.
+- Hidden-loop detail - [[the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967]] describes avoidance, mental counting, and disguised movements as less visible routes through the same short-term-relief cycle.
 
 ## Counterevidence & Qualifications
 The sources give high-level reinforcement and circuit models rather than a full learning-theory account, individualized formulation, or relapse-prevention protocol. They do not establish that every repetitive behavior is OCD, that basal-ganglia “miswiring” is a complete cause, or that anxiety tolerance alone replaces assessment, medication decisions, or professional care.
 
 ## What Changed
-- Added the qualified treatment-window idea that biological support and therapist-guided learning can work together without making either a universal protocol.
+- Added avoidance and covert ritual as less visible forms of the same reinforcement process.
+- Preserved the qualified treatment-window idea that biological support and therapist-guided learning can work together.
 
 ## Related Concepts
 - [[ObsessiveCompulsiveDisorder]] - condition in which the loop is presented.

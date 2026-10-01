@@ -4,7 +4,8 @@ type: entity
 tags: [clinical-assessment, psychiatry, ocd]
 sources:
   - essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647
-last_updated: 2026-08-29
+  - the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 The Yale-Brown Obsessive Compulsive Scale, or Y-BOCS, is the OCD assessment instrument highlighted in the [[HubermanLab]] OCD Essentials episode for organizing obsessions, compulsions, symptom categories, and clinical severity.
 
 ## Current Profile
-In [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]], [[AndrewHuberman]] describes Y-BOCS as the most commonly used OCD test. The source presents the scale as a practical bridge between broad symptom categories and individualized treatment planning: obsessions are unwelcome, distressing ideas, images, impulses, or thoughts that repeatedly enter the mind, while compulsions are driven behaviors or acts that the person may recognize as senseless or excessive. The episode uses the scale to move from categories such as aggression, contamination, sexuality, saving, morality, symmetry, and exactness toward the deeper fear that treatment must identify.
+In [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]], [[AndrewHuberman]] describes Y-BOCS as the most commonly used OCD test. The full episode, [[the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967]], corroborates its role as a bridge between broad symptom categories and individualized treatment planning: obsessions are unwelcome, distressing ideas, images, impulses, or thoughts that repeatedly enter the mind, while compulsions are driven behaviors or acts that the person may recognize as senseless or excessive. The sources use the scale to move from categories such as aggression, contamination, sexuality, saving, morality, symmetry, and exactness toward the deeper fear that treatment must identify.
 
 ## Key Characteristics
 - Functions as the episode's primary named OCD assessment instrument.
@@ -28,12 +29,13 @@ In [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8
 - Obsession and compulsion definitions - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] summarizes the scale's distinction between intrusive obsessions and driven compulsive acts.
 - Symptom categories - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] lists aggressive, contamination, sexual, saving, moral, symmetry, and exactness-related categories.
 - Treatment-planning role - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] connects precise fear identification to interrupting the OCD circuit and gaining symptom relief.
+- Full-episode corroboration - [[the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967]] again uses Y-BOCS definitions and fear mapping to organize exposure-based treatment.
 
 ## Qualifications
 This page is not a scoring guide, diagnostic manual, or substitute for clinical assessment. The source explains Y-BOCS at a high level and does not provide administration rules, cutoffs, reliability data, or differential-diagnosis guidance.
 
 ## What Changed
-- Created the Y-BOCS entity page as the assessment instrument supporting the OCD diagnosis and treatment-planning branch.
+- Added independent full-episode coverage without turning the public summary into a scoring or diagnostic guide.
 
 ## Relationships
 - [[ObsessiveCompulsiveDisorder]] - condition assessed by the scale in the source.

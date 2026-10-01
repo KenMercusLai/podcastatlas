@@ -4,7 +4,8 @@ type: entity
 tags: [person, psychiatry, ocd, clinical-research]
 sources:
   - essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647
-last_updated: 2026-08-29
+  - the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Helen Blair Simpson is the OCD researcher and clinician cited in the [[HubermanLab]] OCD Essentials episode for a structured exposure and ritual-prevention treatment protocol.
 
 ## Current Profile
-In [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]], [[AndrewHuberman]] names Simpson as a leading OCD researcher and clinician at Columbia University School of Medicine. Her role in the source is methodological: she anchors the episode's description of [[ExposureResponsePreventionForOCD]] as planned, in-person, progressive exposure to actual triggers followed by prevention of the usual ritual or compulsion. The source describes two planning sessions followed by roughly 15 exposure sessions, often twice weekly or more, over several weeks and sometimes up to 10 or 12 weeks.
+In [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]], [[AndrewHuberman]] names Simpson as a leading OCD researcher and clinician at Columbia University School of Medicine. The full episode, [[the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967]], corroborates her methodological role: she anchors the description of [[ExposureResponsePreventionForOCD]] as planned, progressive in-vivo or imaginal exposure followed by prevention of the usual ritual or compulsion. The sources describe two planning sessions followed by roughly 15 exposure sessions, often twice weekly or more, with homework and sometimes home observation to surface context-bound avoidance.
 
 ## Key Characteristics
 - Serves as the source's named expert for clinician-guided OCD exposure and ritual-prevention treatment.
@@ -27,12 +28,13 @@ In [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8
 - Expert role - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] identifies Simpson as a leading OCD researcher and clinician.
 - Protocol structure - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] describes her approach as using planning sessions, in-person exposures, and ritual prevention.
 - Treatment boundary - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] says exposure-based CBT should be done by trained licensed psychologists or psychiatrists rather than casually.
+- Full-protocol context - [[the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967]] adds imaginal exposure, homework, and possible home visits to the episode's account of Simpson's approach.
 
 ## Qualifications
-This page reflects only Simpson's role as cited in one podcast source note. It is not a full biography, bibliography, institutional profile, or clinical protocol.
+This page reflects only Simpson's role as cited in two closely related podcast source notes. It is not a full biography, bibliography, institutional profile, or clinical protocol, and the episode's protocol summary should not be used as a do-it-yourself treatment plan.
 
 ## What Changed
-- Created Simpson's entity page as the named clinical-research anchor for the OCD exposure and ritual-prevention branch.
+- Added the full episode's imaginal-exposure, homework, and home-context detail while preserving the clinical boundary.
 
 ## Relationships
 - [[HubermanLab]] - show context where Simpson's work is cited.

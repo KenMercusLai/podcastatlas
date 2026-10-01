@@ -5,7 +5,8 @@ tags: [neuroscience, psychiatry, ocd, brain-circuit]
 sources:
   - essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647
   - essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622
-last_updated: 2026-09-12
+  - the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The corticostriatal-thalamic loop is the wiki's neural-circuit model linking cor
 Within the episode, this circuit does not replace psychological treatment; it makes the treatment logic more concrete. If recurrent thoughts, threat salience, and action-selection pressure are reinforced through [[OCDCompulsionReinforcementLoop]], then [[ExposureResponsePreventionForOCD]] tries to weaken the learned link between anxiety and ritual performance. The source also keeps the serotonin branch cautious: SSRIs can reduce symptoms and circuit activity in some patients, but that does not prove that OCD is caused by serotonin-system disruption.
 
 [[essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622]] widens the same circuit logic into functional neurosurgery. [[CaseyHalpern]] discusses prefrontal and orbitofrontal hyperfunction in OCD, basal ganglia and striatal participation, and the ventral striatum or nucleus accumbens as reward-gating regions relevant to [[UrgeDespiteRiskCircuit]]. This does not replace the original OCD loop; it adds a severe-case path where [[DeepBrainStimulationPsychiatry]] and [[IntracranialCircuitMapping]] try to identify actionable signals.
+
+[[the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967]] corroborates the original circuit account and adds an animal-model boundary: optogenetically evoked persistent grooming is consistent with a causal circuit contribution, but an animal grooming phenotype is not equivalent to the full human disorder.
 
 ## Key Claims
 - The episode identifies corticostriatal-thalamic circuitry as strongly implicated in OCD.
@@ -38,12 +41,14 @@ Within the episode, this circuit does not replace psychological treatment; it ma
 - Medication boundary - [[essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647]] says SSRIs help some patients and may reduce activity in the circuit, while not proving serotonin disruption as the cause.
 - Functional-neurosurgery extension - [[essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622]] connects OCD to prefrontal, orbitofrontal, basal-ganglia, dorsal-striatal, ventral-striatal, and nucleus-accumbens circuitry.
 - Reward-gating extension - [[essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622]] links ventral striatum and nucleus accumbens to harmful reward pursuit and craving.
+- Animal-model support - [[the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967]] describes optogenetically induced persistent grooming as causal circuit evidence while leaving human translation limited.
 
 ## Counterevidence & Qualifications
-The sources explain the circuit at a public-education level and do not provide a full neuroanatomical model, patient-specific biomarker, causal proof, or treatment-selection algorithm. Imaging, SSRI effects, DBS observations, and craving-mapping research are evidence consistent with circuit models, not complete explanations of OCD or other compulsive states.
+The sources explain the circuit at a public-education level and do not provide a full neuroanatomical model, patient-specific biomarker, causal proof for the human disorder, or treatment-selection algorithm. Imaging, SSRI effects, animal grooming, DBS observations, and craving-mapping research are evidence consistent with circuit models, not complete explanations of OCD or other compulsive states.
 
 ## What Changed
-- Added Halpern's functional-neurosurgery extension linking OCD circuitry to ventral-striatal reward gating and target discovery.
+- Added the full episode's animal-model evidence while explicitly limiting translation from grooming to human OCD.
+- Preserved Halpern's functional-neurosurgery extension linking OCD circuitry to reward gating and target discovery.
 
 ## Related Concepts
 - [[ObsessiveCompulsiveDisorder]] - psychiatric condition framed through this circuit in the source.

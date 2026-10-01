@@ -40100,9 +40100,9 @@
       "url": "/wiki/concepts/corsicannationalism/"
     },
     "CorticostriatalThalamicLoop": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8423515647 [SCIM8423515647].md",
@@ -40117,9 +40117,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
           "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
+        },
+        {
+          "episode_file": "SCIM8049781967 [SCIM8049781967].md",
+          "key": "the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Obsessive-Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/corticostriatalthalamicloop/"
     },
     "CosmeticProcedureExpectationManagement": {
@@ -61690,9 +61697,9 @@
       "url": "/wiki/concepts/exportcontrolalliancedurability/"
     },
     "ExposureResponsePreventionForOCD": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8423515647 [SCIM8423515647].md",
@@ -61700,9 +61707,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
           "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        },
+        {
+          "episode_file": "SCIM8049781967 [SCIM8049781967].md",
+          "key": "the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Obsessive-Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/exposureresponsepreventionforocd/"
     },
     "ExpressAntiInvolutionPriceFloor": {
@@ -83317,9 +83331,9 @@
       "url": "/wiki/entities/heishanarmy/"
     },
     "HelenBlairSimpson": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8423515647 [SCIM8423515647].md",
@@ -83327,9 +83341,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
           "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        },
+        {
+          "episode_file": "SCIM8049781967 [SCIM8049781967].md",
+          "key": "the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Obsessive-Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/helenblairsimpson/"
     },
     "HelenOfTroy": {
@@ -134614,9 +134635,9 @@
       "url": "/wiki/concepts/o2oplatformeconomics/"
     },
     "OCDCompulsionReinforcementLoop": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8423515647 [SCIM8423515647].md",
@@ -134631,9 +134652,16 @@
           "show": "Huberman Lab",
           "title": "AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More",
           "url": "/wiki/sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965/"
+        },
+        {
+          "episode_file": "SCIM8049781967 [SCIM8049781967].md",
+          "key": "the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Obsessive-Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/ocdcompulsionreinforcementloop/"
     },
     "OCDOrderPressure": {
@@ -134724,9 +134752,9 @@
       "url": "/wiki/concepts/observingselfcontinuity/"
     },
     "ObsessiveCompulsiveDisorder": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8423515647 [SCIM8423515647].md",
@@ -134741,10 +134769,33 @@
           "show": "Huberman Lab",
           "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
           "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
+        },
+        {
+          "episode_file": "SCIM8049781967 [SCIM8049781967].md",
+          "key": "the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Obsessive-Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/obsessivecompulsivedisorder/"
+    },
+    "ObsessiveCompulsivePersonalityDisorder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8049781967 [SCIM8049781967].md",
+          "key": "the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Obsessive-Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/obsessivecompulsivepersonalitydisorder/"
     },
     "ObstetricAnesthesiaDecisionBoundary": {
       "episode_count": 2,
@@ -200914,9 +200965,9 @@
       "url": "/wiki/entities/yahoochina/"
     },
     "YaleBrownObsessiveCompulsiveScale": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8423515647 [SCIM8423515647].md",
@@ -200924,9 +200975,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
           "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        },
+        {
+          "episode_file": "SCIM8049781967 [SCIM8049781967].md",
+          "key": "the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967",
+          "show": "Huberman Lab",
+          "title": "The Science & Treatment of Obsessive-Compulsive Disorder (OCD)",
+          "url": "/wiki/sources/the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/yalebrownobsessivecompulsivescale/"
     },
     "YaleCenterForEmotionalIntelligence": {
