@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9111
+wiki_total_pages: 9115
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -776,6 +776,9 @@ wiki_pages:
   - key: "ShoppingCenterRestaurantization"
     title: "Shopping-Center Restaurantization / 购物中心餐饮化"
     url: "/wiki/concepts/shoppingcenterrestaurantization/"
+  - key: "ShortDailyMeditationAttentionTraining"
+    title: "Short Daily Meditation Attention Training"
+    url: "/wiki/concepts/shortdailymeditationattentiontraining/"
   - key: "ShortDramaEconomics"
     title: "Short Drama Economics"
     url: "/wiki/concepts/shortdramaeconomics/"

@@ -61472,6 +61472,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/exercisehydrationperformanceboundary/"
     },
+    "ExerciseLinkedCognitiveResilience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2980742096 [SCIM2980742096].md",
+          "key": "boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096",
+          "show": "Huberman Lab",
+          "title": "Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki",
+          "url": "/wiki/sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/exerciselinkedcognitiveresilience/"
+    },
     "ExerciseLoadManagement": {
       "episode_count": 6,
       "show_count": 2,
@@ -85750,6 +85766,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/hippiehistoricistfashionturn/"
+    },
+    "HippocampalAssociativeMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2980742096 [SCIM2980742096].md",
+          "key": "boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096",
+          "show": "Huberman Lab",
+          "title": "Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki",
+          "url": "/wiki/sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/hippocampalassociativememory/"
     },
     "HiroshimaAtomicBombing": {
       "episode_count": 2,
@@ -124780,6 +124812,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/memorydeletionethics/"
+    },
+    "MemoryEncodingLevers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2980742096 [SCIM2980742096].md",
+          "key": "boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096",
+          "show": "Huberman Lab",
+          "title": "Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki",
+          "url": "/wiki/sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/memoryencodinglevers/"
     },
     "MemoryMachine": {
       "episode_count": 1,
@@ -168415,6 +168463,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/shoppingcenterrestaurantization/"
     },
+    "ShortDailyMeditationAttentionTraining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2980742096 [SCIM2980742096].md",
+          "key": "boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096",
+          "show": "Huberman Lab",
+          "title": "Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki",
+          "url": "/wiki/sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/shortdailymeditationattentiontraining/"
+    },
     "ShortVideoCraftCreatorPath": {
       "episode_count": 1,
       "show_count": 1,
@@ -195796,6 +195860,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/wenxueasternhan/"
+    },
+    "WendySuzuki": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2980742096 [SCIM2980742096].md",
+          "key": "boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096",
+          "show": "Huberman Lab",
+          "title": "Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki",
+          "url": "/wiki/sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/wendysuzuki/"
     },
     "Wendys": {
       "episode_count": 1,

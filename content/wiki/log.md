@@ -26734,3 +26734,10 @@ Added source `188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-g
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-01] ingest | Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki
+
+Added source `boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096`; created `WendySuzuki`, `MemoryEncodingLevers`, `HippocampalAssociativeMemory`, `ExerciseLinkedCognitiveResilience`, and `ShortDailyMeditationAttentionTraining`. Core synthesis: novelty, repetition, association, and emotional resonance can support encoding; hippocampal binding connects episodic memory with identity and future simulation; acute and sustained cardiovascular exercise may support mood, attention, and memory; and a short daily body scan offers one feasible attention-training example. No settled contradiction was adopted. Correlational aging evidence, unpublished exercise results, adult human neurogenesis, BDNF pathways, exercise-modality comparisons, exact meditation mechanisms, and dementia-protection claims remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,342-source coverage; no topic claim set was dirty and global compaction was not due. New ingest links, index coverage, identity, knowledge-schema, whitespace, health, synthesis, and publish validation passed; the repository-wide scanner still reports 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

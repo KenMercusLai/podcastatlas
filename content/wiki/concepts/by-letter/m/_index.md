@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9111
+wiki_total_pages: 9115
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "MemoryDeletionEthics"
     title: "Memory Deletion Ethics / 记忆删除伦理"
     url: "/wiki/concepts/memorydeletionethics/"
+  - key: "MemoryEncodingLevers"
+    title: "Memory Encoding Levers"
+    url: "/wiki/concepts/memoryencodinglevers/"
   - key: "MemoryReconsolidationPsychiatry"
     title: "Memory Reconsolidation Psychiatry"
     url: "/wiki/concepts/memoryreconsolidationpsychiatry/"

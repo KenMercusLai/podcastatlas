@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki](sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096.md) — Huberman Lab interview on memory-encoding levers, hippocampal association, exercise-linked cognitive resilience, brief meditation, and explicit evidence boundaries.
 - [190. Jubilees](sources/190-jubilees-glt4093596173.md) — The Rest Is History episode on royal jubilees as snapshots of wartime morale, imperial confidence, economic anxiety, and media-age monarchical adaptation.
 - [The Science & Process of Healing from Grief](sources/the-science-process-of-healing-from-grief-scim7724129089.md) — Full Huberman Lab episode on grief as attachment remapping, continued bonds, structured grieving, physiology, sleep, circadian support, and clinical boundaries.
 - [192. Robin Hood](sources/192-robin-hood-glt1296880830.md) — The Rest Is History episode separating the violent medieval yeoman outlaw from the later aristocratic, romantic, philanthropic, and political Robin Hood legend.
@@ -3399,6 +3400,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [188. Australian Prime Ministers: Harold Holt - Malcolm Fraser (Part 2)](sources/188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602.md) — The Rest Is History survey of Holt through Fraser, Whitlam's reform agenda, the Loans Affair, blocked supply, and the 1975 dismissal.
 
 ## Entities
+- [Wendy Suzuki](entities/WendySuzuki.md) — Neuroscientist connecting hippocampal memory research with bounded exercise, meditation, sleep, and attention practices.
 - [Sara Read](entities/SaraRead.md) — Literary historian connecting early-modern reproductive experience, medical texts, female practical knowledge, and changing birth institutions.
 - [Jane Sharp](entities/JaneSharp.md) — Seventeenth-century English midwife-writer who joined theoretical learning, practical experience, and religious duty.
 - [Nicholas Culpeper](entities/NicholasCulpeper.md) — English medical author used to expose the gap between male printed authority and women's practical childbirth knowledge.
@@ -15208,6 +15210,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Kerr](entities/JohnKerr.md) — Governor-general who dismissed Whitlam and commissioned Fraser during the 1975 constitutional crisis.
 
 ## Concepts
+- [Memory Encoding Levers](concepts/MemoryEncodingLevers.md) — Four-part framework in which novelty, repetition, association, and emotional resonance support memorability without guaranteeing accuracy.
+- [Hippocampal Associative Memory](concepts/HippocampalAssociativeMemory.md) — Model of hippocampal context binding linking episodic encoding, identity, imagination, and future simulation.
+- [Exercise-Linked Cognitive Resilience](concepts/ExerciseLinkedCognitiveResilience.md) — Bounded synthesis of acute exercise effects, longer-term training, cognitive aging, candidate mechanisms, and unresolved dose questions.
+- [Short Daily Meditation Attention Training](concepts/ShortDailyMeditationAttentionTraining.md) — Brief body-scan practice centered on repeated present-moment return, adherence, and source-scoped stress, mood, and cognition outcomes.
 - [Childbirth History](concepts/ChildbirthHistory.md) — Continuity-with-change framework joining birth physiology to changing caregivers, settings, rituals, institutions, risks, and meanings.
 - [Early-Modern Midwifery](concepts/EarlyModernMidwifery.md) — Female-centered care system combining apprenticeship, household community, parish licensing, religion, and practical knowledge.
 - [Medicalisation of Childbirth](concepts/MedicalizationOfChildbirth.md) — Shift toward physician, instrument, hospital, and clinical authority whose interventions and safety systems developed unevenly.

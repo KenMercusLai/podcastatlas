@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1374
+topic_total_pages: 1375
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3549,6 +3549,9 @@ topic_sources:
   - key: "biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131"
     title: "Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern"
     url: "/wiki/sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131/"
+  - key: "boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096"
+    title: "Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki"
+    url: "/wiki/sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165"
     title: "Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165/"
