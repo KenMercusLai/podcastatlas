@@ -8471,9 +8471,9 @@
       "url": "/wiki/entities/alexandredumas/"
     },
     "Alexandria": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1578679297 [GLT1578679297].md",
@@ -8481,6 +8481,13 @@
           "show": "The Rest Is History",
           "title": "361. The Lost Library of Alexandria",
           "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        },
+        {
+          "episode_file": "GLT3216275988 [GLT3216275988].md",
+          "key": "196-julius-caesar-cleopatra-part-2-glt3216275988",
+          "show": "The Rest Is History",
+          "title": "196. Julius Caesar & Cleopatra (Part 2)",
+          "url": "/wiki/sources/196-julius-caesar-cleopatra-part-2-glt3216275988/"
         }
       ],
       "updated": "2026-09-28",
@@ -8517,6 +8524,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/alexandrianlibrarymyth/"
+    },
+    "AlexandrianWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3216275988 [GLT3216275988].md",
+          "key": "196-julius-caesar-cleopatra-part-2-glt3216275988",
+          "show": "The Rest Is History",
+          "title": "196. Julius Caesar & Cleopatra (Part 2)",
+          "url": "/wiki/sources/196-julius-caesar-cleopatra-part-2-glt3216275988/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/alexandrianwar/"
     },
     "AlfredDouglas": {
       "episode_count": 3,
@@ -14349,6 +14372,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/arsenalone/"
+    },
+    "ArsinoeIV": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3216275988 [GLT3216275988].md",
+          "key": "196-julius-caesar-cleopatra-part-2-glt3216275988",
+          "show": "The Rest Is History",
+          "title": "196. Julius Caesar & Cleopatra (Part 2)",
+          "url": "/wiki/sources/196-julius-caesar-cleopatra-part-2-glt3216275988/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/arsinoeiv/"
     },
     "ArtAfterViolenceMemory": {
       "episode_count": 1,
@@ -25003,9 +25042,9 @@
       "url": "/wiki/entities/caesarassassination/"
     },
     "Caesarion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1186341405 [GLT1186341405].md",
@@ -25020,6 +25059,13 @@
           "show": "The Rest Is History",
           "title": "197. Antony & Cleopatra (Part 3)",
           "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
+        },
+        {
+          "episode_file": "GLT3216275988 [GLT3216275988].md",
+          "key": "196-julius-caesar-cleopatra-part-2-glt3216275988",
+          "show": "The Rest Is History",
+          "title": "196. Julius Caesar & Cleopatra (Part 2)",
+          "url": "/wiki/sources/196-julius-caesar-cleopatra-part-2-glt3216275988/"
         }
       ],
       "updated": "2026-10-01",
@@ -35071,9 +35117,9 @@
       "url": "/wiki/entities/cleisthenes/"
     },
     "CleopatraReceptionHistory": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1186341405 [GLT1186341405].md",
@@ -35088,15 +35134,22 @@
           "show": "The Rest Is History",
           "title": "197. Antony & Cleopatra (Part 3)",
           "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
+        },
+        {
+          "episode_file": "GLT3216275988 [GLT3216275988].md",
+          "key": "196-julius-caesar-cleopatra-part-2-glt3216275988",
+          "show": "The Rest Is History",
+          "title": "196. Julius Caesar & Cleopatra (Part 2)",
+          "url": "/wiki/sources/196-julius-caesar-cleopatra-part-2-glt3216275988/"
         }
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/cleopatrareceptionhistory/"
     },
     "CleopatraVII": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -35118,6 +35171,13 @@
           "show": "The Rest Is History",
           "title": "197. Antony & Cleopatra (Part 3)",
           "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
+        },
+        {
+          "episode_file": "GLT3216275988 [GLT3216275988].md",
+          "key": "196-julius-caesar-cleopatra-part-2-glt3216275988",
+          "show": "The Rest Is History",
+          "title": "196. Julius Caesar & Cleopatra (Part 2)",
+          "url": "/wiki/sources/196-julius-caesar-cleopatra-part-2-glt3216275988/"
         }
       ],
       "updated": "2026-10-01",
@@ -102502,9 +102562,9 @@
       "url": "/wiki/entities/juliettebruce/"
     },
     "JuliusCaesar": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -102533,6 +102593,13 @@
           "show": "The Rest Is History",
           "title": "304: The Murder of Julius Caesar",
           "url": "/wiki/sources/304-the-murder-of-julius-caesar-glt3561951089/"
+        },
+        {
+          "episode_file": "GLT3216275988 [GLT3216275988].md",
+          "key": "196-julius-caesar-cleopatra-part-2-glt3216275988",
+          "show": "The Rest Is History",
+          "title": "196. Julius Caesar & Cleopatra (Part 2)",
+          "url": "/wiki/sources/196-julius-caesar-cleopatra-part-2-glt3216275988/"
         }
       ],
       "updated": "2026-09-29",
@@ -145565,9 +145632,9 @@
       "url": "/wiki/entities/pompeii/"
     },
     "Pompey": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -145582,6 +145649,13 @@
           "show": "The Rest Is History",
           "title": "704. Roman Civil War: Master of the Republic (Part 4)",
           "url": "/wiki/sources/704-roman-civil-war-master-of-the-republic-part-4-glt9669112656/"
+        },
+        {
+          "episode_file": "GLT3216275988 [GLT3216275988].md",
+          "key": "196-julius-caesar-cleopatra-part-2-glt3216275988",
+          "show": "The Rest Is History",
+          "title": "196. Julius Caesar & Cleopatra (Part 2)",
+          "url": "/wiki/sources/196-julius-caesar-cleopatra-part-2-glt3216275988/"
         }
       ],
       "updated": "2026-09-10",
@@ -150559,9 +150633,9 @@
       "url": "/wiki/concepts/psychologyconceptselfpunishment/"
     },
     "PtolemaicEgypt": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1186341405 [GLT1186341405].md",
@@ -150576,6 +150650,13 @@
           "show": "The Rest Is History",
           "title": "197. Antony & Cleopatra (Part 3)",
           "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
+        },
+        {
+          "episode_file": "GLT3216275988 [GLT3216275988].md",
+          "key": "196-julius-caesar-cleopatra-part-2-glt3216275988",
+          "show": "The Rest Is History",
+          "title": "196. Julius Caesar & Cleopatra (Part 2)",
+          "url": "/wiki/sources/196-julius-caesar-cleopatra-part-2-glt3216275988/"
         }
       ],
       "updated": "2026-10-01",
@@ -150612,6 +150693,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/ptolemyi/"
+    },
+    "PtolemyXIII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3216275988 [GLT3216275988].md",
+          "key": "196-julius-caesar-cleopatra-part-2-glt3216275988",
+          "show": "The Rest Is History",
+          "title": "196. Julius Caesar & Cleopatra (Part 2)",
+          "url": "/wiki/sources/196-julius-caesar-cleopatra-part-2-glt3216275988/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/ptolemyxiii/"
     },
     "PublicAEDAccessReadiness": {
       "episode_count": 1,

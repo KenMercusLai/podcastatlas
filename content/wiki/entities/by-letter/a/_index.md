@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11741
+wiki_total_pages: 11743
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1532,6 +1532,9 @@ wiki_pages:
   - key: "ArseneWenger"
     title: "Arsene Wenger / 温格"
     url: "/wiki/entities/arsenewenger/"
+  - key: "ArsinoeIV"
+    title: "Arsinoe IV"
+    url: "/wiki/entities/arsinoeiv/"
   - key: "Artemis2"
     title: "Artemis 2"
     url: "/wiki/entities/artemis2/"

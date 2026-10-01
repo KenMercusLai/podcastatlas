@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9092
+wiki_total_pages: 9093
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1694,6 +1694,9 @@ wiki_pages:
   - key: "AlexandrianLibraryMyth"
     title: "Alexandrian Library Myth"
     url: "/wiki/concepts/alexandrianlibrarymyth/"
+  - key: "AlexandrianWar"
+    title: "Alexandrian War"
+    url: "/wiki/concepts/alexandrianwar/"
   - key: "AlgorithmAversion"
     title: "Algorithm Aversion"
     url: "/wiki/concepts/algorithmaversion/"

@@ -5,6 +5,7 @@ tags: [person, egypt, ptolemaic-dynasty, succession]
 sources:
   - 198-cleopatras-downfall-part-4-glt1186341405
   - 197-antony-cleopatra-part-3-glt1953107818
+  - 196-julius-caesar-cleopatra-part-2-glt3216275988
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -17,6 +18,8 @@ Caesarion was [[CleopatraVII|Cleopatra VII]]'s son and co-ruler, presented as a 
 
 ## Current Profile
 
+[[196-julius-caesar-cleopatra-part-2-glt3216275988]] places Caesarion's birth in June 47 BC after Caesar's Egyptian intervention. Caesar did not publicly acknowledge him, but Cleopatra's name Ptolemy Caesar made claimed paternity explicit and joined Ptolemaic succession to the prestige of Caesar's name.
+
 [[197-antony-cleopatra-part-3-glt1953107818]] places Caesarion at the center of the [[DonationsOfAlexandria]], where he appears beside Cleopatra and Antony and is presented as Julius Caesar's true heir. The ceremony turns an existing biological claim into a public dynastic challenge to Octavian's adoptive legitimacy and makes Caesarion part of a projected eastern royal order.
 
 [[198-cleopatras-downfall-part-4-glt1186341405]] follows the claim into the final conflict. Octavian's public reading of [[MarkAntony|Antony]]'s alleged will says Antony recognized Caesarion as Caesar's heir, helping portray the Alexandrian alliance as a challenge to Rome. During the final negotiations, Cleopatra may have offered to abdicate if Caesarion could remain pharaoh.
@@ -26,6 +29,7 @@ After Cleopatra's death, Caesarion was betrayed by his tutor and killed by the R
 ## Key Characteristics
 
 - Son and co-ruler placed at the center of Cleopatra's dynastic continuity.
+- Named Ptolemy Caesar to assert paternity that Caesar did not formally acknowledge.
 - Presented at the Donations as Caesar's true heir and therefore a challenge to Octavian's adoptive inheritance.
 - Named in Octavian's politically controlled account of Antony's will.
 - Possible beneficiary of Cleopatra's final abdication proposal.
@@ -34,18 +38,19 @@ After Cleopatra's death, Caesarion was betrayed by his tutor and killed by the R
 ## Evidence
 
 - Public elevation: [[197-antony-cleopatra-part-3-glt1953107818]] places Caesarion with Cleopatra and the royal children at the Donations and presents him as Caesar's true heir.
+- Birth and name: [[196-julius-caesar-cleopatra-part-2-glt3216275988]] dates his birth to June 47 BC and treats his name as Cleopatra's explicit paternity claim.
 - Will controversy: [[198-cleopatras-downfall-part-4-glt1186341405]] reports Octavian's claim that Antony's will recognized Caesarion as Caesar's heir.
 - Negotiation: [[198-cleopatras-downfall-part-4-glt1186341405]] says Cleopatra may have offered abdication if Caesarion remained pharaoh.
 - Death and succession: [[198-cleopatras-downfall-part-4-glt1186341405]] says Caesarion was betrayed by his tutor and killed after Octavian's victory.
 
 ## Qualifications
 
-The sources do not establish Caesarion's biological paternity independently, his own agency at the Donations, Antony's will, the precise terms of Cleopatra's proposal, or the circumstances and decision chain of his death. These claims remain dependent on ceremonial representation and hostile or later Roman traditions.
+The sources do not establish Caesarion's biological paternity independently, whether his conception was planned, Caesar's intentions toward him, his own agency at the Donations, Antony's will, the precise terms of Cleopatra's proposal, or the circumstances and decision chain of his death. These claims remain dependent on naming, ceremonial representation, and hostile or later Roman traditions.
 
 ## What Changed
 
-- Extended Caesarion's dynastic role backward from Antony's will and final negotiations to his public elevation at the Donations.
-- Clarified that his threat to Octavian joined biological descent claims to ceremonial recognition.
+- Extended Caesarion's profile backward to his birth and Cleopatra's explicit naming claim.
+- Distinguished Cleopatra's paternity assertion from Caesar's lack of formal acknowledgment.
 
 ## Relationships
 

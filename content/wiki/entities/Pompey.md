@@ -5,6 +5,7 @@ tags: [person, rome, military-history, politics]
 sources:
   - 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361
   - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
+  - 196-julius-caesar-cleopatra-part-2-glt3216275988
 last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,7 @@ Pompey / 庞培 is the wiki's Roman example of a glamorous commander whose caree
 
 ## Current Profile
 
-The Caesar source presents Pompey as Caesar's ally turned civil-war rival. He is part of the First Triumvirate with Caesar and [[MarcusLiciniusCrassus]], and the alliance is stabilized partly by Caesar's daughter Julia. After Crassus and Julia die, Pompey aligns with the Senate side, Caesar crosses the Rubicon, and Pompey is murdered in Egypt after fleeing defeat. His memory also shapes the [[CaesarAssassination|assassination scene]] because Caesar is killed at Pompey's Curia.
+The Caesar sources present Pompey as Caesar's ally turned civil-war rival. He is part of the First Triumvirate with Caesar and [[MarcusLiciniusCrassus]], and the alliance is stabilized partly by Caesar's daughter Julia. After Crassus and Julia die, Pompey aligns with the Senate side, Caesar crosses the Rubicon, and defeats him at Pharsalus. [[196-julius-caesar-cleopatra-part-2-glt3216275988]] follows his flight to Egypt, where advisers of [[PtolemyXIII|Ptolemy XIII]] murder him while trying to avoid choosing between Roman factions. His memory also shapes the [[CaesarAssassination|assassination scene]] because Caesar is killed at Pompey's Curia.
 
 Episode 704 moves Pompey backward into the Sullan civil war. As the young son of [[GnaeusPompeiusStrabo]], he raises a private army in Picenum, defeats Marian armies, and joins [[LuciusCorneliusSulla]] before holding the offices normally expected of a Roman commander. Sulla accepts the illegal army because civil war rewards useful force. Pompey's later commands in Sicily and Africa, executions without due process, refusal to disband, and demand for a triumph show him learning the new Sullan lesson: charisma, troops, victory, and audacity can accelerate a career beyond republican seniority.
 
@@ -29,11 +30,13 @@ Episode 704 moves Pompey backward into the Sullan civil war. As the young son of
 - His Sicilian and African commands show ruthlessness as well as talent.
 - His demand for a triumph at 25 turns civil-war victory into public status before ordinary office eligibility.
 - His later Caesar rivalry grows from a political world that Sulla and Pompey had already helped normalize.
+- His Egyptian murder shows weaker monarchies trying and failing to manage Roman commander politics.
 
 ## Evidence
 
 - First Triumvirate role: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] places Pompey with Caesar and Crassus in a personal alliance system.
 - Caesar rivalry and death: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] says Pompey aligns with the Senate, loses to Caesar, flees to Egypt, and is murdered by Ptolemaic agents.
+- Pharsalus and murder: [[196-julius-caesar-cleopatra-part-2-glt3216275988]] links Pompey's defeat, flight, small-boat ambush, and decapitation to Ptolemaic calculations about Caesar.
 - Assassination memory: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] locates Caesar's murder at Pompey's Curia.
 - Private army: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Pompey raises an army in Picenum and defeats three Marian armies before joining Sulla.
 - Sullan indulgence: [[704-roman-civil-war-master-of-the-republic-part-4-glt9669112656]] says Sulla accepts Pompey's illegal army and later grants his triumph demand.
@@ -42,13 +45,12 @@ Episode 704 moves Pompey backward into the Sullan civil war. As the young son of
 
 ## Qualifications
 
-The current evidence still jumps from Pompey's Sullan youth to his Caesar-era rivalry. It does not yet provide a continuous biography through Sertorius, Spartacus, the pirates, eastern settlement, or the full 50s BC political sequence.
+The current evidence still jumps from Pompey's Sullan youth to his Caesar-era rivalry. It does not yet provide a continuous biography through Sertorius, Spartacus, the pirates, eastern settlement, or the full 50s BC political sequence. The Egyptian council debate, Pompey's final demeanor, Caesar's grief, and Jewish interpretations of his death remain later or source-scoped traditions.
 
 ## What Changed
 
-- Migrated Pompey to the structured entity schema.
-- Added Pompey's private army, Sullan alignment, early brutality, triumph demand, and "Magnus" status as pre-Caesar evidence.
-- Reframed his later Caesar rivalry as downstream of an earlier civil-war career path.
+- Added Pharsalus, flight to Egypt, and the Ptolemaic court's calculated murder.
+- Connected Pompey's death to the transmission of Roman civil war into Egyptian succession politics.
 
 ## Relationships
 
