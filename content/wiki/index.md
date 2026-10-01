@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [190. Jubilees](sources/190-jubilees-glt4093596173.md) — The Rest Is History episode on royal jubilees as snapshots of wartime morale, imperial confidence, economic anxiety, and media-age monarchical adaptation.
 - [The Science & Process of Healing from Grief](sources/the-science-process-of-healing-from-grief-scim7724129089.md) — Full Huberman Lab episode on grief as attachment remapping, continued bonds, structured grieving, physiology, sleep, circadian support, and clinical boundaries.
 - [192. Robin Hood](sources/192-robin-hood-glt1296880830.md) — The Rest Is History episode separating the violent medieval yeoman outlaw from the later aristocratic, romantic, philanthropic, and political Robin Hood legend.
 - [Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti](sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707.md) — Huberman Lab interview on functional trauma recognition, witnessing and language, observing ego, therapy fit and intensity, medication support, and clinical boundaries.
@@ -3481,7 +3482,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Afonso Henriques](entities/AfonsoHenriques.md) — Founder-king connecting Portuguese independence, the Reconquista, and the 1147 capture of Lisbon.
 - [Philippa of Lancaster](entities/PhilippaOfLancaster.md) — English queen consort whose marriage to João I gave the Anglo-Portuguese alliance a dynastic foundation.
 - [Marquis de Pombal](entities/MarquisDePombal.md) — Enlightenment-influenced Portuguese first minister who joined institutional reform and Lisbon reconstruction to coercive centralization.
-- [George V](entities/GeorgeV.md) — Elizabeth II's grandfather and an early model of restrained, service-centered public monarchy.
+- [George V](entities/GeorgeV.md) — Elizabeth II's grandfather and restrained monarch whose 1935 Jubilee made ordinariness a constitutional strength amid hardship and dictatorship.
 - [George VI](entities/GeorgeVI.md) — Reluctant wartime king whose accession and duty directly shaped Elizabeth II's formation and succession.
 - [Edward VIII](entities/EdwardVIII.md) — King whose abdication made George VI sovereign and redirected Elizabeth II toward the throne.
 - [Prince Philip](entities/PrincePhilip.md) — Elizabeth II's husband, naval officer, Malta companion, and later focus of publicly symbolic pandemic grief.
@@ -4773,7 +4774,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Teodros II](entities/TeodrosII.md) — Abyssinian emperor whose modernizing ambitions and hostage-taking lead toward the 1868 British expedition.
 - [Abyssinia / Ethiopia](entities/Abyssinia.md) — Ancient Christian kingdom and nineteenth-century setting for Teodros II, Magdala, and the Abyssinian Expedition branch.
 - [Magdala](entities/Magdala.md) — Mountain citadel where Teodros II holds European hostages before the British expedition.
-- [Queen Victoria](entities/QueenVictoria.md) — British monarch whose delayed reply to Teodros II becomes a symbolic trigger in the Abyssinian hostage crisis.
+- [Queen Victoria](entities/QueenVictoria.md) — British monarch whose coronation expanded popular reach, jubilees staged empire, and delayed reply became symbolic in the Abyssinian crisis.
 - [Hormuzd Rassam](entities/HormuzdRassam.md) — Assyrian-born British political agent sent to carry Victoria's reply before becoming a hostage himself.
 - [Fukushima Daiichi Nuclear Power Plant](entities/FukushimaDaiichiNuclearPowerPlant.md) — Japan nuclear-accident and wastewater-discharge case used by Hanji 394-3 to frame nuclear risk externalization.
 - [Hiroshima Atomic Bombing](entities/HiroshimaAtomicBombing.md) — Nuclear-weapons memory case used by Hanji 394-3 to illustrate sudden nuclear destruction.
@@ -6151,7 +6152,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thomas Hutchinson](entities/ThomasHutchinson.md) — Massachusetts governor whose letters about colonial liberties became a catalyst in Franklin's break with Britain.
 - [Samuel Johnson](entities/SamuelJohnson.md) — British critic used by the Franklin source to expose slaveholding Americans' liberty contradiction.
 - [David Hume](entities/DavidHume.md) — Scottish Enlightenment figure whose praise marks Franklin's European intellectual reputation.
-- [George III](entities/GeorgeIII.md) — British monarch Franklin admired before turning against British rule.
+- [George III](entities/GeorgeIII.md) — British monarch connecting chaotic coronation, colonial loyalty rupture, and an 1809 wartime-morale jubilee.
 - [John Adams](entities/JohnAdams.md) — Founding-era foil whose criticism of Franklin's French social diplomacy clarifies Franklin's effectiveness.
 - [Continental Congress](entities/ContinentalCongress.md) — Revolutionary institution where Franklin served as delegate and Declaration committee member and Washington was selected for command.
 - [American Revolution](entities/AmericanRevolution.md) — Colonial rupture joining universal founding language, military endurance, Saratoga, foreign intervention, global war, and unequal liberty.
@@ -15048,7 +15049,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dunstan](entities/Dunstan.md) — Archbishop who likely shaped Edgar's 973 coronation and the later Canterbury crowning precedent.
 - [Stone of Scone](entities/StoneOfScone.md) — Contested Scottish coronation object whose authority joins territorial kingship, legend, conquest, and Westminster.
 - [George IV](entities/GeorgeIV.md) — British monarch whose extravagant coronation joined antiquarian theatre, marital exclusion, grandeur, and farce.
-- [Elizabeth II](entities/ElizabethII.md) — British and Commonwealth monarch whose wartime formation, guarded privacy, sacred duty, selective adaptation, and longevity sustained symbolic continuity.
+- [Elizabeth II](entities/ElizabethII.md) — British and Commonwealth monarch whose wartime formation, sacred duty, media adaptation, jubilees, and longevity sustained symbolic continuity.
 - [Charles III](entities/CharlesIII.md) — British monarch whose planned 2023 coronation renewed the question of sacral meaning in a more sceptical public culture.
 - [William III](entities/WilliamIII.md) — Dutch Protestant ruler whose joint coronation with Mary II helped publicize the post-Glorious Revolution settlement.
 - [Mary II](entities/MaryII.md) — Daughter of James II and joint monarch whose 1689 coronation made an unusual Protestant succession publicly legible.
@@ -15262,6 +15263,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Post-Imperial Commonwealth Monarchy](concepts/PostImperialCommonwealthMonarchy.md) — Adaptation of the Crown from imperial apex to plural symbolic and constitutional relationships with independent states and realms.
 - [Royal Family Media Vulnerability](concepts/RoyalFamilyMediaVulnerability.md) — Exposure created when monarchy seeks legitimacy through intimate presentation as an exemplary family.
 - [Monarchical Adaptive Continuity](concepts/MonarchicalAdaptiveContinuity.md) — Preservation of symbolic continuity through selective change anchored by a stable ethic of office.
+- [Royal Jubilee as National Self-Assessment](concepts/RoyalJubileeNationalSelfAssessment.md) — Recurring royal anniversary form through which changing national confidence, anxiety, identity, and media culture become visible.
 - [Cryptid Legend Formation](concepts/CryptidLegendFormation.md) — Process by which sparse precedents, ambiguous sightings, place, access, media templates, and tourism form a standardized modern creature.
 - [Media–Evidence Feedback Loop](concepts/MediaEvidenceFeedbackLoop.md) — Cycle in which publicity shapes expected evidence and later matching reports are mistaken for independent confirmation.
 - [Wilderness Mystery Longing](concepts/WildernessMysteryLonging.md) — Desire for remote landscapes and threatened nature to retain unknown creatures despite expanding knowledge and control.

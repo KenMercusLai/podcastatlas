@@ -26710,3 +26710,11 @@ Added source `the-science-process-of-healing-from-grief-scim7724129089`; resynth
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 190. Jubilees
+
+Added source `190-jubilees-glt4093596173`; created `RoyalJubileeNationalSelfAssessment`; and resynthesized `GeorgeIII`, `QueenVictoria`, `GeorgeV`, `ElizabethII`, `PostImperialCommonwealthMonarchy`, and `MonarchicalAdaptiveContinuity` from their complete preserved evidence inventories. Core synthesis: jubilees act as recurring national punctuation points whose stable anniversary form carried changing stories of Napoleonic morale, Victorian imperial confidence and anxiety, interwar constitutional ordinariness, 1970s economic decline, and media-age popular culture. No settled contradiction was adopted. The alleged 1887 intelligence operation, motives, crowd and audience totals, economic comparisons, imperial measures, and declarations of national mood remain source-scoped; participation shows engagement more securely than ideological agreement. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,339-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, changed-page link, index coverage, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

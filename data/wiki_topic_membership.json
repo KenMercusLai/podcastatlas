@@ -1308,6 +1308,13 @@
       "url": "/topics/science/"
     }
   ],
+  "190-jubilees-glt4093596173": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "191-childbirth-glt5119375504": [
     {
       "key": "history",
@@ -67473,6 +67480,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "RoyalJubileeNationalSelfAssessment": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "RoyalKinPowerWithdrawal": [

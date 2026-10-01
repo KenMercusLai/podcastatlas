@@ -8,6 +8,7 @@ sources:
   - 290-2022-a-history-glt4625765030
   - 232-queen-elizabeth-ii-part-2-glt5667149245
   - 231-queen-elizabeth-ii-part-1-glt2826379729
+  - 190-jubilees-glt4093596173
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -26,7 +27,7 @@ The coronation sources then place Elizabeth at the meeting point of old rite and
 
 That ethic extended across the reign into decolonisation and her separate Commonwealth and realm obligations, without making her the director of political change [[232-queen-elizabeth-ii-part-2-glt5667149245]]. The same reign then moved through a risky family-image modernization, tabloid scrutiny, disagreement with Thatcher over South Africa, and the emotional crisis after [[DianaPrincessOfWales|Diana's]] death. Her restraint became a liability in 1997 but, with age, service, the Covid address, and the Platinum Jubilee, later helped establish a grandmotherly and historically continuous role.
 
-The death-and-mourning source completes the profile. In [[290-2022-a-history-glt4625765030]], the hosts expected indifference but instead saw institutions and many members of the public embrace mourning, procession, and ceremony. The Scottish setting also made territorial differences visible; the source treats the response as collective participation without claiming uniform feeling across Britain.
+Her jubilees make that adaptation visible across the late reign. [[190-jubilees-glt4093596173]] places the economically troubled 1977 celebration beside the concert-driven events of 2002 and 2012: continuity increasingly spoke through popular culture, celebrity, mass broadcasting, and personal affection rather than imperial power. The death-and-mourning source completes the profile. In [[290-2022-a-history-glt4625765030]], the hosts expected indifference but instead saw institutions and many members of the public embrace mourning, procession, and ceremony. The Scottish setting also made territorial differences visible; the source treats the response as collective participation without claiming uniform feeling across Britain.
 
 ## Key Characteristics
 
@@ -34,7 +35,7 @@ The death-and-mourning source completes the profile. In [[290-2022-a-history-glt
 - Kept private opinion guarded while inhabiting the Crown's public symbolic body.
 - Joined sacred anointing and the coronation oath to unprecedented television-era mass participation.
 - Accepted decolonisation and treated Commonwealth and multiple-realm duties as more than extensions of a purely British role.
-- Adapted through changing media and public culture while retaining restraint and political discretion.
+- Adapted through changing media and public culture, including celebrity-centered jubilees, while retaining restraint and political discretion.
 - Faced institutional damage when the monarchy's model-family image collided with divorce, tabloid scrutiny, and changing emotional expectations.
 - Converted longevity and repeated duty into a symbolic connection across historical eras.
 
@@ -49,6 +50,7 @@ The death-and-mourning source completes the profile. In [[290-2022-a-history-glt
 - Political relationships: [[232-queen-elizabeth-ii-part-2-glt5667149245]] contrasts rapport with [[HaroldWilson|Harold Wilson]] and strain with [[MargaretThatcher|Margaret Thatcher]] over Commonwealth cohesion and South Africa.
 - Family and media crisis: [[232-queen-elizabeth-ii-part-2-glt5667149245]] links the model-family strategy, tabloid pressure, Diana's death, and competing public expectations of care.
 - Late-reign authority: [[232-queen-elizabeth-ii-part-2-glt5667149245]] connects longevity, the Covid address, Jubilee, and final prime-ministerial audience to fulfilled duty.
+- Jubilee adaptation: [[190-jubilees-glt4093596173]] contrasts 1977's economic-decline setting with the concerts, crowds, television, and popular-culture idiom of 2002 and 2012.
 - Mourning and national ceremony: [[290-2022-a-history-glt4625765030]] says her death generated stronger public and institutional mourning than the hosts expected and made old monarchical ritual newly visible.
 - Territorial variation: [[290-2022-a-history-glt4625765030]] emphasizes the Scottish setting of her death while noting different possible reactions across Scotland, Wales, and the wider United Kingdom.
 
@@ -62,6 +64,7 @@ The sources remain selective and generally sympathetic rather than comprehensive
 - Distinguished Elizabeth's private person from the symbolic body she performed publicly.
 - Connected the 1953 coronation more directly to the early-life transition from mortal successor to consecrated, televised sovereign.
 - Preserved colonial, psychological, public-opinion, and private-motive limits on the sympathetic continuity account.
+- Added the jubilees as comparative evidence for movement from post-imperial anxiety toward media- and popular-culture adaptation.
 
 ## Relationships
 
@@ -75,6 +78,7 @@ The sources remain selective and generally sympathetic rather than comprehensive
 - [[MonarchicalAdaptiveContinuity]] - broader mechanism joining change in public role to stability of duty.
 - [[MonarchsTwoBodies]] - political-theological distinction between her private mortality and public office.
 - [[WartimeRoyalDutyFormation]] - formative pathway from family example and war service into lifelong obligation.
+- [[RoyalJubileeNationalSelfAssessment]] - recurring anniversary form through which her reign was read against national change.
 - [[GeorgeV]] - grandfather presented as an early model of steady service.
 - [[GeorgeVI]] - father whose reluctant accession and wartime duty directly shaped her heirship.
 - [[EdwardVIII]] - uncle whose abdication redirected her life toward the throne.

@@ -55001,9 +55001,9 @@
       "url": "/wiki/entities/elizabethi/"
     },
     "ElizabethII": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT8755026279 [GLT8755026279].md",
@@ -55039,6 +55039,13 @@
           "show": "The Rest Is History",
           "title": "231. Queen Elizabeth II (Part 1)",
           "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
+        },
+        {
+          "episode_file": "GLT4093596173 [GLT4093596173].md",
+          "key": "190-jubilees-glt4093596173",
+          "show": "The Rest Is History",
+          "title": "190. Jubilees",
+          "url": "/wiki/sources/190-jubilees-glt4093596173/"
         }
       ],
       "updated": "2026-10-01",
@@ -74869,9 +74876,9 @@
       "url": "/wiki/entities/georgecrook/"
     },
     "GeorgeIII": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -74893,9 +74900,16 @@
           "show": "The Rest Is History",
           "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
           "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+        },
+        {
+          "episode_file": "GLT4093596173 [GLT4093596173].md",
+          "key": "190-jubilees-glt4093596173",
+          "show": "The Rest Is History",
+          "title": "190. Jubilees",
+          "url": "/wiki/sources/190-jubilees-glt4093596173/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/georgeiii/"
     },
     "GeorgeIV": {
@@ -75074,9 +75088,9 @@
       "url": "/wiki/entities/georgespatton/"
     },
     "GeorgeV": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2826379729 [GLT2826379729].md",
@@ -75084,6 +75098,13 @@
           "show": "The Rest Is History",
           "title": "231. Queen Elizabeth II (Part 1)",
           "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
+        },
+        {
+          "episode_file": "GLT4093596173 [GLT4093596173].md",
+          "key": "190-jubilees-glt4093596173",
+          "show": "The Rest Is History",
+          "title": "190. Jubilees",
+          "url": "/wiki/sources/190-jubilees-glt4093596173/"
         }
       ],
       "updated": "2026-10-01",
@@ -128864,9 +128885,9 @@
       "url": "/wiki/concepts/monalisafameformation/"
     },
     "MonarchicalAdaptiveContinuity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -128881,6 +128902,13 @@
           "show": "The Rest Is History",
           "title": "231. Queen Elizabeth II (Part 1)",
           "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
+        },
+        {
+          "episode_file": "GLT4093596173 [GLT4093596173].md",
+          "key": "190-jubilees-glt4093596173",
+          "show": "The Rest Is History",
+          "title": "190. Jubilees",
+          "url": "/wiki/sources/190-jubilees-glt4093596173/"
         }
       ],
       "updated": "2026-10-01",
@@ -146999,9 +147027,9 @@
       "url": "/wiki/concepts/posthandoverhongkonggovernance/"
     },
     "PostImperialCommonwealthMonarchy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -147016,6 +147044,13 @@
           "show": "The Rest Is History",
           "title": "231. Queen Elizabeth II (Part 1)",
           "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
+        },
+        {
+          "episode_file": "GLT4093596173 [GLT4093596173].md",
+          "key": "190-jubilees-glt4093596173",
+          "show": "The Rest Is History",
+          "title": "190. Jubilees",
+          "url": "/wiki/sources/190-jubilees-glt4093596173/"
         }
       ],
       "updated": "2026-10-01",
@@ -153006,9 +153041,9 @@
       "url": "/wiki/entities/queennjinga/"
     },
     "QueenVictoria": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8608697296 [GLT8608697296].md",
@@ -153030,9 +153065,16 @@
           "show": "The Rest Is History",
           "title": "329: Coronations: Chaos, Ceremony and Empire (Part 3)",
           "url": "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+        },
+        {
+          "episode_file": "GLT4093596173 [GLT4093596173].md",
+          "key": "190-jubilees-glt4093596173",
+          "show": "The Rest Is History",
+          "title": "190. Jubilees",
+          "url": "/wiki/sources/190-jubilees-glt4093596173/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/queenvictoria/"
     },
     "QueerSafetyRetreat": {
@@ -160874,6 +160916,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/royalfiefdiscipline/"
+    },
+    "RoyalJubileeNationalSelfAssessment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4093596173 [GLT4093596173].md",
+          "key": "190-jubilees-glt4093596173",
+          "show": "The Rest Is History",
+          "title": "190. Jubilees",
+          "url": "/wiki/sources/190-jubilees-glt4093596173/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/royaljubileenationalselfassessment/"
     },
     "RoyalKinPowerWithdrawal": {
       "episode_count": 1,

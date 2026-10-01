@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2992
+topic_total_pages: 2993
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2407,6 +2407,9 @@ topic_concepts:
   - key: "RoyalFamilyMediaVulnerability"
     title: "Royal Family Media Vulnerability"
     url: "/wiki/concepts/royalfamilymediavulnerability/"
+  - key: "RoyalJubileeNationalSelfAssessment"
+    title: "Royal Jubilee as National Self-Assessment"
+    url: "/wiki/concepts/royaljubileenationalselfassessment/"
   - key: "RuleShiftingMathematics"
     title: "Rule-Shifting Mathematics"
     url: "/wiki/concepts/ruleshiftingmathematics/"
