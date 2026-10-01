@@ -8,7 +8,8 @@ sources:
   - 390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529
   - 389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815
   - 308-columbus-death-in-the-caribbean-part-3-glt3250512968
-last_updated: 2026-09-27
+  - 147-disease-the-new-world-and-modern-pandemics-glt1023018457
+last_updated: 2026-10-02
 ---
 
 ## Definition
@@ -21,9 +22,11 @@ In these episodes, the Columbian Exchange begins before the conquest of Mexico. 
 
 The later episodes explain why the [[SpanishConquestOfMexico|Spanish conquest of Mexico]] cannot be reduced to weapons or commanders. Smallpox probably arrived with Narvaez's expedition, spread inland from the coast, killed many people in [[Tlaxcala]], entered Tenochtitlan, and killed [[Cuitlahuac]]. The illness also weakened food systems because communities could not reliably grow, harvest, or prepare food. It thus altered leadership, coalition capacity, and the attritional setting for the [[SiegeOfTenochtitlan|siege of Tenochtitlan]]. Biological exchange amplified political conquest without requiring contemporaries to understand germ transmission.
 
+The wider disease-history account adds cumulative and pathogen-specific caution. It presents sixteenth-century Mexico as suffering repeated pandemics rather than one continent-wide smallpox event, with ancient DNA identifying paratyphoid fever in victims of a 1540s epidemic. It also separates pre-Columbian tuberculosis related to marine-mammal lineages from the European-descended tuberculosis dominant in the Americas today. These findings strengthen biological exchange as a process while weakening any single-pathogen explanation of demographic collapse.
+
 ## Key Claims
 
-- Smallpox was a structural force in conquest rather than a peripheral background event.
+- Smallpox and later epidemics were structural forces in conquest and colonial change rather than one peripheral or uniform event.
 - Epidemic harm combined direct mortality with hunger, care failure, labor loss, and political succession.
 - Disease could devastate rural and distant populations even where direct Spanish military presence was limited.
 - Exchange included animals and crops as well as pathogens, reshaping production and daily life.
@@ -39,15 +42,19 @@ The later episodes explain why the [[SpanishConquestOfMexico|Spanish conquest of
 - Uneven contact: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] notes that some rural people may have experienced epidemic disease more directly than Spaniards.
 - Ecological transfer: [[391-the-fall-of-the-aztecs-the-last-emperor-part-8-glt2984940365]] lists cattle, pigs, sheep, olives, and grapevines within the transformed colonial landscape.
 - Early Caribbean transfer: [[308-columbus-death-in-the-caribbean-part-3-glt3250512968]] links horses, sheep, rats, chili peppers, squashes, and pineapples to two-way ecological movement and Taíno subsistence disruption.
+- Repeated-epidemic evidence: [[147-disease-the-new-world-and-modern-pandemics-glt1023018457]] distinguishes the 1520-1521 smallpox pandemic from a 1540s outbreak in central Mexico where ancient DNA identified paratyphoid fever.
+- Pre-contact qualification: [[147-disease-the-new-world-and-modern-pandemics-glt1023018457]] reports ancient-DNA evidence for pre-Columbian tuberculosis related to marine-mammal lineages while distinguishing it from later European-derived strains.
 
 ## Counterevidence & Qualifications
 
-The sources provide no independent epidemiological reconstruction, mortality series, ecological baseline, or settlement-level comparison, and they do not quantify disease against starvation, combat, labor, or introduced-animal damage. Narvaez's party is presented as the probable smallpox route into Mexico, and the claim that roughly a third of Tlaxcala died remains source-scoped. The second-voyage episode's syphilis account and claims about particular animal effects are also source-scoped. Biological exchange was consequential but did not act alone.
+The sources provide no independent epidemiological reconstruction, mortality series, ecological baseline, or settlement-level comparison, and they do not quantify disease against starvation, combat, labor, colonial violence, or introduced-animal damage. Narvaez's party is presented as the probable smallpox route into Mexico, and the claim that roughly a third of Tlaxcala died remains source-scoped. The new source's preferred pre-contact population estimate of roughly 40 million, plus or minus 10 million, is also a debated interview claim rather than a settled census. The second-voyage episode's syphilis account and claims about particular animal effects are source-scoped. Biological exchange was consequential but did not act alone.
 
 ## What Changed
 
 - Extended the synthesis backward to second-voyage animal and crop transfers in the Caribbean.
 - Added direct subsistence disruption while preserving a multi-causal account of Taíno catastrophe.
+- Replaced a single-wave implication with a cumulative model of repeated epidemics and interacting colonial disruption.
+- Added ancient-DNA evidence distinguishing paratyphoid and pre-contact marine-mammal-related tuberculosis histories.
 
 ## Related Concepts
 
@@ -58,3 +65,4 @@ The sources provide no independent epidemiological reconstruction, mortality ser
 - [[Tlaxcala]] - allied polity heavily affected by the same epidemic that weakened its Mexica opponent.
 - [[TainoPeople]] - Caribbean peoples whose subsistence systems were altered alongside coercive colonial pressure.
 - [[SpanishCaribbeanExpansion]] - early settlement process that transported organisms in both directions.
+- [[PlantationDiseaseEcology]] - later Atlantic system joining forced migration, crops, vectors, and disease.

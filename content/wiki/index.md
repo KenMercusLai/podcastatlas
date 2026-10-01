@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [147. Disease, the New World and modern pandemics](sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457.md) — The Rest Is History interview with Kyle Harper on the Columbian Exchange, plantation disease ecology, sanitation, cholera, influenza, COVID-19, and globalization.
 - [148. The Vikings Go East](sources/148-the-vikings-go-east-glt1476178706.md) — The Rest Is History on eastern Viking river trade, Rus formation, Abbasid silver, slavery, Ibn Fadlan, and the modern politics of Rus origins.
 - [149. The Birth of Russia](sources/149-the-birth-of-russia-glt2354182753.md) — The Rest Is History episode on Scandinavian-Rus trade and rule, Primary Chronicle uncertainty, Byzantine Christianization, and Harald Hardrada's eastern career.
 - [150. Smuggling](sources/150-smuggling-glt2228422151.md) — The Rest Is History with Alex Preston on British smuggling, taxation, Kent and Sussex gangs, the Hawkhurst gang, local resistance, literary myth, and modern people-smuggling comparisons.
@@ -3463,6 +3464,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Play to Rewire & Improve Your Brain](sources/using-play-to-rewire-improve-your-brain-scim9321743392.md) — Huberman Lab solo episode on low-stakes contingency testing, play signals, role and rule learning, dynamic movement, adult neuroplasticity, and evidence-bounded trauma claims.
 
 ## Entities
+- [Plagues Upon the Earth](entities/PlaguesUponTheEarth.md) — Kyle Harper's global history of disease, ecology, connectivity, public health, and the biological risks attached to human success.
 - [Jaak Panksepp](entities/JaakPanksepp.md) — Affective-neuroscience researcher presented as a pioneer in the biological and psychological study of play.
 - [Rurik](entities/Rurik.md) — Scandinavian-associated Rus foundation figure whose dynastic importance exceeds the certainty of the Chronicle's invitation legend.
 - [Olga of Kiev](entities/OlgaOfKiev.md) — Kievan regent and early Christian convert whose political profile combines durable authority with a legendary revenge cycle.
@@ -15378,6 +15380,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Julie Gottman](entities/JulieGottman.md) — Relationship researcher linked with John Gottman to couple outcomes and destructive conflict patterns.
 
 ## Concepts
+- [Plantation Disease Ecology](concepts/PlantationDiseaseEcology.md) — Interaction of coerced labor, forced migration, crops, water, vectors, pathogens, and unequal settlement conditions.
+- [Mechanism-Agnostic Public Health](concepts/MechanismAgnosticPublicHealth.md) — Preventive action justified by observed outcomes before the underlying biological mechanism is complete or correct.
 - [Play as Contingency Testing](concepts/PlayAsContingencyTesting.md) — Focused low-stakes exploration of roles, rules, movement, strategy, and social response without the full cost of ordinary failure.
 - [Primary Chronicle Source Criticism](concepts/PrimaryChronicleSourceCriticism.md) — Graded method for using the late Rus chronicle without flattening foundation, revenge, and conversion legends into fact.
 - [British Smuggling and the Tax State](concepts/BritishSmugglingTaxState.md) — Feedback loop joining customs, excise, demand, coastal geography, weak enforcement, organized violence, and state suppression.

@@ -675,6 +675,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "147-disease-the-new-world-and-modern-pandemics-glt1023018457": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga": [
     {
       "key": "technology",
@@ -61276,6 +61283,18 @@
     }
   ],
   "PlagueNights": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "PlaguesUponTheEarth": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "culture",
       "label": "Culture",

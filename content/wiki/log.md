@@ -27239,3 +27239,10 @@ Added source `148-the-vikings-go-east-glt1476178706`; created `IbnFadlan`; and r
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-02] ingest | 147. Disease, the New World and modern pandemics
+
+Added source `147-disease-the-new-world-and-modern-pandemics-glt1023018457`; created `PlaguesUponTheEarth`, `PlantationDiseaseEcology`, and `MechanismAgnosticPublicHealth`; and resynthesized `KyleHarper`, `ColumbianExchange`, `ImperialConnectivityDiseaseRisk`, and `PandemicAsHistoricalForce` from their complete preserved evidence inventories. Core synthesis: disease history is ecological and multi-causal—pathogens exploit settlement, water, crops, vectors, coerced labor, transport, and globalization, while war, famine, colonial violence, inequality, age structure, and public institutions shape outcomes; useful prevention can also precede correct mechanism. No settled contradiction was adopted. Pre-contact population estimates, epidemic reach and attribution, regional disease gradients, colonization effects, influenza origins, mortality totals, and causal weights remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,403-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the corpus-wide scan retained 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

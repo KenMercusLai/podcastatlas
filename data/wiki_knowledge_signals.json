@@ -37947,9 +37947,9 @@
       "url": "/wiki/entities/colosseum/"
     },
     "ColumbianExchange": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -37978,9 +37978,16 @@
           "show": "The Rest Is History",
           "title": "308: Columbus: Death in the Caribbean (Part 3)",
           "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        },
+        {
+          "episode_file": "GLT1023018457 [GLT1023018457].md",
+          "key": "147-disease-the-new-world-and-modern-pandemics-glt1023018457",
+          "show": "The Rest Is History",
+          "title": "147. Disease, the New World and modern pandemics",
+          "url": "/wiki/sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/columbianexchange/"
     },
     "ColumbusFirstVoyageAtlanticGamble": {
@@ -95007,9 +95014,9 @@
       "url": "/wiki/concepts/imperialclassicsconsensusbuilding/"
     },
     "ImperialConnectivityDiseaseRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2583859060 [GLT2583859060].md",
@@ -95017,9 +95024,16 @@
           "show": "The Rest Is History",
           "title": "217. Plague and the Decline of the Roman Empire",
           "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
+        },
+        {
+          "episode_file": "GLT1023018457 [GLT1023018457].md",
+          "key": "147-disease-the-new-world-and-modern-pandemics-glt1023018457",
+          "show": "The Rest Is History",
+          "title": "147. Disease, the New World and modern pandemics",
+          "url": "/wiki/sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/imperialconnectivitydiseaserisk/"
     },
     "ImperialConsortPosthumousTitleSystem": {
@@ -108797,9 +108811,9 @@
       "url": "/wiki/entities/kylegillett/"
     },
     "KyleHarper": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2583859060 [GLT2583859060].md",
@@ -108807,9 +108821,16 @@
           "show": "The Rest Is History",
           "title": "217. Plague and the Decline of the Roman Empire",
           "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
+        },
+        {
+          "episode_file": "GLT1023018457 [GLT1023018457].md",
+          "key": "147-disease-the-new-world-and-modern-pandemics-glt1023018457",
+          "show": "The Rest Is History",
+          "title": "147. Disease, the New World and modern pandemics",
+          "url": "/wiki/sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/kyleharper/"
     },
     "KylianMbappe": {
@@ -127163,6 +127184,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/mecca/"
     },
+    "MechanismAgnosticPublicHealth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1023018457 [GLT1023018457].md",
+          "key": "147-disease-the-new-world-and-modern-pandemics-glt1023018457",
+          "show": "The Rest Is History",
+          "title": "147. Disease, the New World and modern pandemics",
+          "url": "/wiki/sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/mechanismagnosticpublichealth/"
+    },
     "MechanismBasedBackPainAssessment": {
       "episode_count": 3,
       "show_count": 2,
@@ -144041,9 +144078,9 @@
       "url": "/wiki/concepts/pancreaticriskcommunicationboundary/"
     },
     "PandemicAsHistoricalForce": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
@@ -144079,9 +144116,16 @@
           "show": "The Rest Is History",
           "title": "217. Plague and the Decline of the Roman Empire",
           "url": "/wiki/sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060/"
+        },
+        {
+          "episode_file": "GLT1023018457 [GLT1023018457].md",
+          "key": "147-disease-the-new-world-and-modern-pandemics-glt1023018457",
+          "show": "The Rest Is History",
+          "title": "147. Disease, the New World and modern pandemics",
+          "url": "/wiki/sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/pandemicashistoricalforce/"
     },
     "PanfiloDeNarvaez": {
@@ -148746,6 +148790,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/plagueofcyprian/"
     },
+    "PlaguesUponTheEarth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1023018457 [GLT1023018457].md",
+          "key": "147-disease-the-new-world-and-modern-pandemics-glt1023018457",
+          "show": "The Rest Is History",
+          "title": "147. Disease, the New World and modern pandemics",
+          "url": "/wiki/sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/plaguesupontheearth/"
+    },
     "PlaidCymru": {
       "episode_count": 1,
       "show_count": 1,
@@ -148809,6 +148869,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/plantvarietyintellectualproperty/"
+    },
+    "PlantationDiseaseEcology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1023018457 [GLT1023018457].md",
+          "key": "147-disease-the-new-world-and-modern-pandemics-glt1023018457",
+          "show": "The Rest Is History",
+          "title": "147. Disease, the New World and modern pandemics",
+          "url": "/wiki/sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/plantationdiseaseecology/"
     },
     "PlantationSlaveryMoralShock": {
       "episode_count": 1,

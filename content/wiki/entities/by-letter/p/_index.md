@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11875
+wiki_total_pages: 11876
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "PizzaHutChina"
     title: "Pizza Hut China / 必胜客中国"
     url: "/wiki/entities/pizzahutchina/"
+  - key: "PlaguesUponTheEarth"
+    title: "Plagues Upon the Earth"
+    url: "/wiki/entities/plaguesupontheearth/"
   - key: "PlaidCymru"
     title: "Plaid Cymru"
     url: "/wiki/entities/plaidcymru/"

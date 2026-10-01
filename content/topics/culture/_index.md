@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3004
+topic_total_pages: 3005
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5069,6 +5069,9 @@ topic_entities:
   - key: "Pixar"
     title: "Pixar"
     url: "/wiki/entities/pixar/"
+  - key: "PlaguesUponTheEarth"
+    title: "Plagues Upon the Earth"
+    url: "/wiki/entities/plaguesupontheearth/"
   - key: "PlanetMoney"
     title: "Planet Money"
     url: "/wiki/entities/planetmoney/"
