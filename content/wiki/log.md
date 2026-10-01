@@ -26602,3 +26602,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | The Science & Practice of Movement | Ido Portal
+
+Added source `the-science-practice-of-movement-ido-portal-scim2315861899`; resynthesized `IdoPortal`, `MovementPracticeAsAwareness`, `MindBodyUnion`, and `MentalPracticeAndVisualization` from their complete preserved evidence inventories. Core synthesis: movement can function as an open-ended whole-life inquiry in which drills are temporary containers and sensory, environmental, cultural, and partner feedback support adaptable variation; discomfort and failure are useful only when calibrated; and internal rehearsal is strongest when grounded in prior tangible experience and real feedback. No settled contradiction was adopted. Squat, spinal, vision, injury, emotional-release, trauma-re-exposure, and other health claims remain experiential or source-scoped rather than individualized medical, psychological, or rehabilitation guidance. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,326-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, changed-page link, index coverage, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

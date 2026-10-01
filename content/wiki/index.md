@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Science & Practice of Movement | Ido Portal](sources/the-science-practice-of-movement-ido-portal-scim2315861899.md) — Huberman Lab interview on movement as open-ended whole-life inquiry, calibrated discomfort, sensory and partner feedback, adaptable variation, and experience-grounded mental rehearsal.
 - [The Science & Treatment of Obsessive-Compulsive Disorder (OCD)](sources/the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8049781967.md) — Full Huberman Lab episode on OCD mechanisms, Y-BOCS assessment, exposure-response prevention, SSRIs and emerging treatments, and the OCD/OCPD distinction.
 - [Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere](sources/optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076.md) — Huberman Lab interview on sustainable strength and conditioning, mind-muscle control, recovery signals, mobility, pain-aware mechanics, and practical nutrition.
 - [204. Gone with the Wind](sources/204-gone-with-the-wind-glt3666140136.md) — The Rest Is History episode on Gone with the Wind, Lost Cause memory, Reconstruction's rollback, segregation, and contextualizing harmful classics.
@@ -6486,7 +6487,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe Liemandt](entities/JoeLiemandt.md) — Huberman Lab guest presenting Alpha School as a two-hour AI-supported mastery-learning model with human guides, builder afternoons, and source-scoped scaling claims.
 - [David Yeager](entities/DavidYeager.md) — Motivation researcher connecting conditional growth mindset, stress appraisal, demanding support, purpose, and adolescent status to real environmental opportunity.
 - [MIT Blueprint Labs](entities/MITBlueprintLabs.md) — Research group Alpha says it is partnering with for testing and randomized controlled trials of the school model.
-- [Ido Portal](entities/IdoPortal.md) — Huberman Lab guest framing movement as awareness practice, will as resistance-facing exposure, bodily resolution, play, body schema, and everyday practice.
+- [Ido Portal](entities/IdoPortal.md) — Movement teacher framing whole-life practice through awareness, adaptable variation, calibrated challenge, sensory and partner feedback, will, play, and body schema.
 - [Cesar Millan](entities/CesarMillan.md) — Dog-behavior expert whose Huberman Lab interview frames dog care through calm human state, species needs, structured rituals, and correctly timed affection.
 - [Kyle Gillett](entities/KyleGillett.md) — Physician and Huberman Lab guest explaining male hormone phenotyping, lifestyle foundations, fertility risk, supplement boundaries, and supervised androgen interventions.
 - [Casey Halpern](entities/CaseyHalpern.md) — Neurosurgeon and Huberman Lab guest explaining DBS, focused ultrasound, compulsive urges, craving signals, and circuit-target discovery.
@@ -15469,7 +15470,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Supply-Led Public-Interest Documentation / 供给创造需求的公共记录](concepts/SupplyLedPublicInterestDocumentation.md) — Recording overlooked lives, places, and histories before measurable demand exists so the work can reveal why they matter.
 - [State Collapse Cascade](concepts/StateCollapseCascade.md) — Reinforcing interaction among retreat, territorial loss, refugee movement, public panic, and institutional failure.
 - [Congressional War-Powers Constraint](concepts/CongressionalWarPowersConstraint.md) — Legislative, funding, and political limits that narrow presidential military action and external commitment credibility.
-- [Mental Practice and Visualization](concepts/MentalPracticeAndVisualization.md) — Skill-rehearsal framework using brief, simple, task-matched imagery as a supplement to real execution and feedback.
+- [Mental Practice and Visualization](concepts/MentalPracticeAndVisualization.md) — Skill-rehearsal framework using brief, task-matched, potentially multisensory internal practice as a supplement to real execution and feedback.
 - [Patent Foramen Ovale Evaluation and Closure / 卵圆孔未闭评估与封堵](concepts/PatentForamenOvaleEvaluationAndClosure.md) — Finding-versus-indication framework for PFO anatomy, shunt testing, causal assessment, and treatment selection.
 - [Intervention–Withdrawal Dependency](concepts/InterventionWithdrawalDependency.md) — Process by which intervention creates reliance and obligations that make later withdrawal materially and morally difficult.
 - [Vietnamese Refugee Exodus](concepts/VietnameseRefugeeExodus.md) — Post-1975 displacement through evacuation, maritime flight, resettlement, and receiving-country hostility.
@@ -17934,7 +17935,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emotional Granularity](concepts/EmotionalGranularity.md) — Fine-grained emotional differentiation developed through vocabulary, body awareness, inquiry, and bounded repeated check-ins.
 - [Cognitive Reappraisal Early Intervention](concepts/CognitiveReappraisalEarlyIntervention.md) — Regulation strategy of reframing or redesigning situations before attention turns emotion into rumination.
 - [Autonomic Stress Training](concepts/AutonomicStressTraining.md) — Source-scoped idea that bounded physiological stress, deliberate discomfort, and positive-stress breathwork may train emotional reactivity, action readiness, and resilience.
-- [Movement Practice as Awareness](concepts/MovementPracticeAsAwareness.md) — Portal's frame for treating movement, sport, daily action, and ordinary transitions as practice surfaces for attention, perception, emotion, and body-schema change.
+- [Movement Practice as Awareness](concepts/MovementPracticeAsAwareness.md) — Whole-life frame joining movement, daily action, sensory and social feedback, calibrated challenge, attention, perception, emotion, and body-schema change.
 - [Will Exposure Practice](concepts/WillExposurePractice.md) — Portal's frame that will becomes visible under resistance and should be trained through adjustable tasks, softening, and return rather than brute force.
 - [Bodily Resolution](concepts/BodilyResolution.md) — Portal's granularity frame for refining bodily, emotional, conceptual, social, and spatial perception through novelty, attention, language, art, and movement.
 - [Liminal Sleep Transition Practice](concepts/LiminalSleepTransitionPractice.md) — Source-scoped use of fragile sleep-wake transitions for observation and recalibration without treating liminal thoughts as truth or romanticizing disruption.
@@ -22203,7 +22204,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cogito Ergo Sum / 我思故我在](concepts/CogitoErgoSum.md) — Descartes's first certainty in episode 174, where the act of doubting proves the presence of a thinking subject.
 - [Cartesian Dualism](concepts/CartesianDualism.md) — Mind/body split that episode 174 complicates through substance, extension, Elisabeth's objections, and mind-body union.
 - [Rationalist Method](concepts/RationalistMethod.md) — Descartes-style reasoning from clear intuition and deduction, contrasted with empirical induction while remaining relevant to science and life practice.
-- [Mind-Body Union](concepts/MindBodyUnion.md) — Body-mind integration frame spanning Descartes, AI-era agency, embodied intelligence, and Portal's practical movement-as-awareness branch.
+- [Mind-Body Union](concepts/MindBodyUnion.md) — Body-mind integration frame spanning Descartes, AI-era agency, embodied intelligence, and movement's sensory, environmental, and relational context.
 - [Substance And Extension](concepts/SubstanceAndExtension.md) — Descartes vocabulary for underlying substance and spatially measurable matter, used to explain his metaphysics and science link.
 - [Computing Versus Thinking](concepts/ComputingVersusThinking.md) — AI-era extension of Descartes asking whether calculation, prediction, and output production equal reflective human thought.
 - [Luck As Information Bandwidth](concepts/LuckAsInformationBandwidth.md) — Episode 172 synthesis that luck improves when attention, environment, weak ties, and survivable action increase useful information flow.

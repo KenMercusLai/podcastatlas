@@ -91434,9 +91434,9 @@
       "url": "/wiki/concepts/idiosyncraticattraction/"
     },
     "IdoPortal": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2496765743 [SCIM2496765743].md",
@@ -91444,9 +91444,16 @@
           "show": "Huberman Lab",
           "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
           "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
+        },
+        {
+          "episode_file": "SCIM2315861899 [SCIM2315861899].md",
+          "key": "the-science-practice-of-movement-ido-portal-scim2315861899",
+          "show": "Huberman Lab",
+          "title": "The Science & Practice of Movement | Ido Portal",
+          "url": "/wiki/sources/the-science-practice-of-movement-ido-portal-scim2315861899/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/idoportal/"
     },
     "IgnatiusDonnelly": {
@@ -124721,9 +124728,9 @@
       "url": "/wiki/concepts/mentalillnessdestigmatization/"
     },
     "MentalPracticeAndVisualization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9944841947 [SCIM9944841947].md",
@@ -124731,9 +124738,16 @@
           "show": "Huberman Lab",
           "title": "Science-Based Mental Training & Visualization for Improved Learning",
           "url": "/wiki/sources/science-based-mental-training-visualization-for-improved-learning-scim9944841947/"
+        },
+        {
+          "episode_file": "SCIM2315861899 [SCIM2315861899].md",
+          "key": "the-science-practice-of-movement-ido-portal-scim2315861899",
+          "show": "Huberman Lab",
+          "title": "The Science & Practice of Movement | Ido Portal",
+          "url": "/wiki/sources/the-science-practice-of-movement-ido-portal-scim2315861899/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/mentalpracticeandvisualization/"
     },
     "MentalizingProjection": {
@@ -126842,9 +126856,9 @@
       "url": "/wiki/entities/minamotonoyoshitsune/"
     },
     "MindBodyUnion": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
@@ -126866,9 +126880,16 @@
           "show": "Huberman Lab",
           "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
           "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
+        },
+        {
+          "episode_file": "SCIM2315861899 [SCIM2315861899].md",
+          "key": "the-science-practice-of-movement-ido-portal-scim2315861899",
+          "show": "Huberman Lab",
+          "title": "The Science & Practice of Movement | Ido Portal",
+          "url": "/wiki/sources/the-science-practice-of-movement-ido-portal-scim2315861899/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/mindbodyunion/"
     },
     "MindMuscleConnection": {
@@ -129194,9 +129215,9 @@
       "url": "/wiki/concepts/mourningdiplomaticrestraint/"
     },
     "MovementPracticeAsAwareness": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2496765743 [SCIM2496765743].md",
@@ -129218,9 +129239,16 @@
           "show": "Talk三联",
           "title": "EP286 在越来越数字化的时代，如何通过舞蹈重新找回用身体感知世界的能力？",
           "url": "/wiki/sources/ep286-zai-yuelaiyue-shuzihua-de-shidai-ruhe-tongguo-wudao-zhongxin-zhaohui-yong-shenti-ganzhi-shijie-de-nengli-ltbnmxye2gnqzs4oubhe3mtmx0q9/"
+        },
+        {
+          "episode_file": "SCIM2315861899 [SCIM2315861899].md",
+          "key": "the-science-practice-of-movement-ido-portal-scim2315861899",
+          "show": "Huberman Lab",
+          "title": "The Science & Practice of Movement | Ido Portal",
+          "url": "/wiki/sources/the-science-practice-of-movement-ido-portal-scim2315861899/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/movementpracticeasawareness/"
     },
     "MovementScreenScoring": {
