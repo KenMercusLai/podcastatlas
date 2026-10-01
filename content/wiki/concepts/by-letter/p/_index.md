@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9095
+wiki_total_pages: 9097
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2153,6 +2153,9 @@ wiki_pages:
   - key: "PsychometricSocialSorting"
     title: "Psychometric Social Sorting / 心理测量式社会分层"
     url: "/wiki/concepts/psychometricsocialsorting/"
+  - key: "PtolemaicBiculturalKingship"
+    title: "Ptolemaic Bicultural Kingship"
+    url: "/wiki/concepts/ptolemaicbiculturalkingship/"
   - key: "PtolemaicKnowledgePatronage"
     title: "Ptolemaic Knowledge Patronage"
     url: "/wiki/concepts/ptolemaicknowledgepatronage/"

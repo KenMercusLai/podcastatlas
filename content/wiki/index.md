@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得](sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4.md) — Reunion on marriage, family as a harbor for vulnerability, male distress, preverbal infant attunement, parent-child connection, divorce, aging, and care.
 - [Improve Flexibility with Research-Supported Stretching Protocols](sources/improve-flexibility-with-research-supported-stretching-protocols-scim4600343438.md) — Huberman Lab solo episode on neural flexibility mechanisms, low-intensity static-stretching dose, yoga and pain tolerance, and strict boundaries around animal inflammation and tumor findings.
+- [195. Young Cleopatra (Part 1)](sources/195-young-cleopatra-part-1-glt1502910094.md) — The Rest Is History on Cleopatra's Ptolemaic inheritance, Alexandria, Roman financial-military control, Auletes's restoration, and bicultural pharaonic legitimacy.
 - [196. Julius Caesar & Cleopatra (Part 2)](sources/196-julius-caesar-cleopatra-part-2-glt3216275988.md) — The Rest Is History episode on Cleopatra's succession crisis, Pompey's murder, Caesar's Alexandrian intervention, Caesarion, and political survival beyond the seductress myth.
 - [197. Antony & Cleopatra (Part 3)](sources/197-antony-cleopatra-part-3-glt1953107818.md) — The Rest Is History episode on the Tarsus bargain, Antony's Parthian failure, a more equal Egyptian alliance, the Donations of Alexandria, and Roman-Hellenistic imperial legitimacy.
 - [198. Cleopatra's Downfall (Part 4)](sources/198-cleopatras-downfall-part-4-glt1186341405.md) — The Rest Is History episode on Octavian's anti-Cleopatra framing, Actium, the fall of Alexandria, the end of Ptolemaic Egypt, and Cleopatra's contested afterlife.
@@ -3389,6 +3390,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [199. Stonehenge](sources/199-stonehenge-glt3612348466.md) — The Rest Is History conversation with Mike Pitts on Stonehenge's changing phases, stone transport, burials, solstice alignment, collective construction, and archaeological uncertainty.
 
 ## Entities
+- [Berenice IV](entities/BereniceIV.md) — Ptolemaic ruler defeated and executed after Roman arms restored her father, Ptolemy XII Auletes.
+- [Ptolemy XII Auletes](entities/PtolemyXIIAuletes.md) — Cleopatra's father, whose debt-funded Roman recognition and military restoration exposed Egypt's constrained sovereignty.
 - [佟晨洁 / Tong Chenjie](entities/TongChenjie.md) — Guest in the 史蒂夫说 reunion on marriage, family safety, parenting, separation, aging, and care.
 - [Battle of Actium](entities/BattleOfActium.md) — Decisive blockade-and-breakout campaign whose Augustan afterlife complicates reconstruction of Antony and Cleopatra's strategy.
 - [Marcus Vipsanius Agrippa](entities/MarcusVipsaniusAgrippa.md) — Octavian's naval commander whose port seizures and blockade shaped the Actium campaign.
@@ -15172,6 +15175,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Helene Langevin](entities/HeleneLangevin.md) — Researcher cited for fascia, stretching, inflammation, fibrosis, and animal-tumor work whose clinical implications remain explicitly bounded.
 
 ## Concepts
+- [Ptolemaic Bicultural Kingship](concepts/PtolemaicBiculturalKingship.md) — Combined Macedonian Greek dynastic identity and Egyptian pharaonic legitimacy inherited and intensified by Cleopatra.
+- [Roman Informal Imperial Control](concepts/RomanInformalImperialControl.md) — Military-financial domination of a formally independent kingdom without immediate annexation.
 - [Preverbal Relational Attunement / 前语言关系调谐](concepts/PreverbalRelationalAttunement.md) — Reading body, affect, crying, expression, and touch as communication from a whole person before language can carry the relationship.
 - [Donations of Alexandria](concepts/DonationsOfAlexandria.md) — Dynastic settlement and public spectacle joining territorial grants, succession, monarchy, and a legitimacy crisis at Rome.
 - [Roman-Hellenistic Imperial Synthesis](concepts/RomanHellenisticImperialSynthesis.md) — Attempt to combine Roman command with Ptolemaic resources, eastern monarchy, and family-centered imperial rule.

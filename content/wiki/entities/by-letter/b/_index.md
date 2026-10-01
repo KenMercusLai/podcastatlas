@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11745
+wiki_total_pages: 11747
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "Benkei"
     title: "Benkei"
     url: "/wiki/entities/benkei/"
+  - key: "BereniceIV"
+    title: "Berenice IV"
+    url: "/wiki/entities/bereniceiv/"
   - key: "BeringIsland"
     title: "Bering Island / 白令岛"
     url: "/wiki/entities/beringisland/"

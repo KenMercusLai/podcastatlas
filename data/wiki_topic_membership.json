@@ -1308,6 +1308,13 @@
       "url": "/topics/science/"
     }
   ],
+  "195-young-cleopatra-part-1-glt1502910094": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "196-julius-caesar-cleopatra-part-2-glt3216275988": [
     {
       "key": "history",
@@ -67163,6 +67170,13 @@
     }
   ],
   "RollingHoldingPeriodExperience": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "RomanInformalImperialControl": [
     {
       "key": "economics",
       "label": "Economics",

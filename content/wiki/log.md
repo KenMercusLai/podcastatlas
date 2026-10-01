@@ -26650,3 +26650,11 @@ Added source `shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-g
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 195. Young Cleopatra (Part 1)
+
+Added source `195-young-cleopatra-part-1-glt1502910094`; created `PtolemyXIIAuletes`, `BereniceIV`, `PtolemaicBiculturalKingship`, and `RomanInformalImperialControl`; and resynthesized `CleopatraVII`, `PtolemaicEgypt`, `Alexandria`, `PtolemyI`, `MarkAntony`, and `CleopatraReceptionHistory` from their complete preserved evidence inventories. Core synthesis: Cleopatra inherited a Macedonian Greek dynasty that ruled through Egyptian pharaonic forms, a cosmopolitan but colonial Alexandrian court, and a wealthy kingdom whose nominal independence was constrained by Roman commanders, creditors, and political patrons. No settled contradiction was adopted. Cleopatra's birth date, maternal identity, childhood contact with Antony, loyalty to Auletes, ethnic inference, family motives, financial details, and ancient hostile narratives remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,332-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, changed-page link, index coverage, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

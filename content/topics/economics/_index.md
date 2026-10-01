@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2154
+topic_total_pages: 2155
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2587,6 +2587,9 @@ topic_concepts:
   - key: "RollingHoldingPeriodExperience"
     title: "Rolling Holding-Period Experience / 滚动持有期体验"
     url: "/wiki/concepts/rollingholdingperiodexperience/"
+  - key: "RomanInformalImperialControl"
+    title: "Roman Informal Imperial Control"
+    url: "/wiki/concepts/romaninformalimperialcontrol/"
   - key: "RuminationVsReflection"
     title: "Rumination Vs Reflection"
     url: "/wiki/concepts/ruminationvsreflection/"
