@@ -4,7 +4,8 @@ type: entity
 tags: [state, europe, history]
 sources:
   - 672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829
-last_updated: 2026-09-11
+  - 194-the-first-fascist-glt5479566212
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,43 +13,45 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Italy enters the wiki's First World War branch as a recently unified European state whose 1915 intervention was framed by unfinished borders, elite territorial bargaining, nationalist rhetoric, public reluctance, and the costly [[IsonzoFront|Isonzo front]].
+Italy enters this wiki branch as a recently unified European state whose incomplete national identity, territorial ambition, intervention crisis, wartime sacrifice, and frustrated victory created an arena for D'Annunzian nationalism and later fascist politics.
 
 ## Current Profile
 
-The source presents [[Italy]] in 1915 as a new great-power aspirant still seeking symbolic and territorial completion after the Risorgimento. Its leaders used neutrality to bargain with both sides, then accepted Allied promises for Adriatic and Alpine gains even though large parts of the public, especially in poorer southern regions, opposed war. The resulting campaign turned conquest aims into attritional mountain warfare and left a memory field later used by [[ItalianFascism|Italian fascism]].
+The sources present Italy as a state made by the Risorgimento but still trying to “make Italians.” Nationalists treated cultural identity and northern and eastern borders as unfinished, while leaders bargained with both wartime coalitions for territory and prestige. Italy accepted Allied promises even though much of the public, especially in poorer southern regions, opposed intervention.
+
+[[GabrieleDAnnunzio|D'Annunzio]] gave that project celebrity form. His May 1915 speeches helped turn war into a ritual of sacrifice and opponents into alleged traitors, although the Treaty of London meant the government had already chosen its diplomatic direction. Attritional mountain war, Caporetto, the morale value of the Vienna flight, and limited postwar gains then created the “mutilated victory” field in which the occupation of [[Fiume]] and [[ItalianFascism|Italian fascism]] became intelligible.
 
 ## Key Characteristics
 
-- Recently unified state whose nationalists treated northern and eastern borders as incomplete.
-- Late-arriving great-power aspirant seeking empire, prestige, and Adriatic influence.
-- Constitutional monarchy where the king, Salandra, parliament, crowds, and press pressure all mattered in the May 1915 crisis.
+- Recently unified state still constructing a shared national culture and identity.
+- Great-power aspirant seeking territorial completion, empire, prestige, and Adriatic influence.
+- Constitutional monarchy where cabinet bargaining, parliament, crowds, press, and the king all mattered.
 - Belligerent whose First World War entry is presented as voluntary and acquisitive rather than defensive.
-- Army state with weak mobilization, equipment gaps, literacy and dialect problems, and hard terrain on its chosen front.
-- Postwar winner whose losses and frustrated territorial expectations fed resentment.
+- Army state whose ambitions collided with weak mobilization, equipment gaps, language barriers, and mountain terrain.
+- Postwar victor whose losses and frustrated expectations fed radical nationalist resentment.
 
 ## Evidence
 
-- National incompletion: [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] links Italian interventionism to [[ItalianIrredentism|Italia irredenta]], Trentino, Trieste, Istria, Dalmatia, and the Adriatic.
-- Great-power aspiration: [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] compares Italy's colonial ambitions and defeats in Africa with its later European bargaining.
-- Political crisis: [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] describes neutrality, secret Allied bargaining, Salandra's resignation tactic, Giolitti's anti-war possibility, and parliamentary approval under nationalist pressure.
-- Battlefield limits: [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] records slow mobilization, poor equipment, dialect and literacy barriers, and Cadorna's repeated Isonzo offensives.
-- Resentment after victory: [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] links war losses, limited settlement gains, D'Annunzio's Fiume action, and Mussolini's later use of bitterness.
+- National incompletion: [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] links interventionism to irredentist borders, while [[194-the-first-fascist-glt5479566212]] frames D'Annunzio as a poet trying to give the new nation cultural identity.
+- Intervention crisis: [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] details secret Allied bargaining, public reluctance, parliamentary uncertainty, and street pressure; [[194-the-first-fascist-glt5479566212]] qualifies D'Annunzio's influence because the Treaty of London came first.
+- Battlefield and morale: [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] records Isonzo attrition and Caporetto, while [[194-the-first-fascist-glt5479566212]] presents D'Annunzio's Vienna flight as morale-building symbolic action.
+- Postwar resentment: [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] and [[194-the-first-fascist-glt5479566212]] link territorial disappointment and [[Fiume]] to the emotional and performative prehistory of fascism.
 
 ## Qualifications
 
-This page is not a general history of Italy. It is bounded by one First World War episode and should not be used as a complete account of Italian unification, liberal Italy, colonialism, fascism, or the full 1915-1918 campaign.
+This is not a general history of Italy. The bounded evidence emphasizes unification, First World War intervention, D'Annunzio, Fiume, and fascist prehistory rather than regional society, colonialism, liberal institutions across the full period, or the later regime. The causal weight of spectacle, diplomacy, public opinion, battlefield trauma, and settlement grievance remains interpretive.
 
 ## What Changed
 
-- Created Italy as the national setting for the 1915 intervention and Isonzo-front branch.
+- Added cultural nation-building, wartime morale, and Fiume as links between Italy's incomplete unification and fascist prehistory.
+- Qualified D'Annunzio's intervention influence by placing his speeches after the secret diplomatic commitment.
 
 ## Relationships
 
-- [[FirstWorldWar]] - war context for Italy's 1915 intervention.
-- [[ItalianIrredentism]] - nationalist territorial ideology shaping interventionist demands.
-- [[IsonzoFront]] - main battlefield where intervention aims met attritional failure.
+- [[FirstWorldWar]] - war context for Italy's 1915 intervention and losses.
+- [[ItalianIrredentism]] - territorial-nationalist ideology shaping interventionist demands.
+- [[IsonzoFront]] - battlefield where expansion aims met attritional failure.
 - [[AustriaHungary]] - former ally and target of Italy's 1915 war declaration.
-- [[GabrieleDAnnunzio]] - nationalist rhetorician who helped sacralize intervention.
-- [[LuigiCadorna]] - commander whose offensive doctrine shaped early campaign losses.
-- [[ItalianFascism]] - later political regime that drew on war resentment and nationalist style.
+- [[GabrieleDAnnunzio]] - celebrity nationalist who dramatized cultural identity, intervention, and postwar grievance.
+- [[Fiume]] - disputed port occupied as an answer to perceived mutilated victory.
+- [[ItalianFascism]] - later regime drawing on war resentment and D'Annunzian style.

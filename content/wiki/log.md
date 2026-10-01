@@ -26658,3 +26658,15 @@ Added source `195-young-cleopatra-part-1-glt1502910094`; created `PtolemyXIIAule
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 194. The First Fascist
+
+Added source `194-the-first-fascist-glt5479566212`; created `LucyHughesHallett`, `EleonoraDuse`, `Fiume`, and `FascistPoliticalTheatre`; and resynthesized `GabrieleDAnnunzio`, `Italy`, `BenitoMussolini`, `ItalianFascism`, and `NationalistStreetMobilization` from their complete preserved evidence inventories. Core synthesis: D'Annunzio converted literary celebrity, modernity, sacrificial war rhetoric, personal risk, and crowd ritual into political authority; Fiume became a laboratory for balcony dialogue, uniforms, salutes, songs, and processions, but also exposed the gap between spectacle and administration through blockade, hunger, and ethnic coercion. No settled contradiction was adopted. The source narrows D'Annunzio's causal role in the 1915 intervention because secret diplomacy came first, and it distinguishes his performative precursor status from Mussolini's party organization and sustained governing ambition. Sexual-violence evidence, Lenin's reported admiration, crowd motives, precise influence, and dictatorship counterfactuals remain attributed or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,333-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, changed-page link, index coverage, synthesis, and publish validation passed; the repository-wide scanner still reports 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

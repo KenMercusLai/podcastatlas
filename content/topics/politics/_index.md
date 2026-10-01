@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2899
+topic_total_pages: 2900
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1396,6 +1396,9 @@ topic_concepts:
   - key: "FarmSafetyInspectionCapacity"
     title: "Farm Safety Inspection Capacity"
     url: "/wiki/concepts/farmsafetyinspectioncapacity/"
+  - key: "FascistPoliticalTheatre"
+    title: "Fascist Political Theatre"
+    url: "/wiki/concepts/fascistpoliticaltheatre/"
   - key: "FatalDeadlineRebellionTrigger"
     title: "Fatal Deadline Rebellion Trigger / 误期死局式起义触发"
     url: "/wiki/concepts/fataldeadlinerebelliontrigger/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [194. The First Fascist](sources/194-the-first-fascist-glt5479566212.md) — The Rest Is History episode on D'Annunzio's literary celebrity, war nationalism, Fiume occupation, fascist political theatre, and the boundary between performative precursor and governing dictator.
 - [史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得](sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4.md) — Reunion on marriage, family as a harbor for vulnerability, male distress, preverbal infant attunement, parent-child connection, divorce, aging, and care.
 - [Improve Flexibility with Research-Supported Stretching Protocols](sources/improve-flexibility-with-research-supported-stretching-protocols-scim4600343438.md) — Huberman Lab solo episode on neural flexibility mechanisms, low-intensity static-stretching dose, yoga and pain tolerance, and strict boundaries around animal inflammation and tumor findings.
 - [195. Young Cleopatra (Part 1)](sources/195-young-cleopatra-part-1-glt1502910094.md) — The Rest Is History on Cleopatra's Ptolemaic inheritance, Alexandria, Roman financial-military control, Auletes's restoration, and bicultural pharaonic legitimacy.
@@ -3390,6 +3391,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [199. Stonehenge](sources/199-stonehenge-glt3612348466.md) — The Rest Is History conversation with Mike Pitts on Stonehenge's changing phases, stone transport, burials, solstice alignment, collective construction, and archaeological uncertainty.
 
 ## Entities
+- [Lucy Hughes-Hallett](entities/LucyHughesHallett.md) — Biographer interpreting D'Annunzio's literary power, abuse, wartime courage, Fiume politics, and influence on fascist style.
+- [Eleonora Duse](entities/EleonoraDuse.md) — Internationally famous Italian actor and intellectual partner who carried D'Annunzio's plays to wider audiences.
+- [Fiume](entities/Fiume.md) — Disputed Adriatic port where D'Annunzio's occupation joined nationalist revolt, aesthetic utopia, political theatre, scarcity, and ethnic coercion.
 - [Berenice IV](entities/BereniceIV.md) — Ptolemaic ruler defeated and executed after Roman arms restored her father, Ptolemy XII Auletes.
 - [Ptolemy XII Auletes](entities/PtolemyXIIAuletes.md) — Cleopatra's father, whose debt-funded Roman recognition and military restoration exposed Egypt's constrained sovereignty.
 - [佟晨洁 / Tong Chenjie](entities/TongChenjie.md) — Guest in the 史蒂夫说 reunion on marriage, family safety, parenting, separation, aging, and care.
@@ -15175,6 +15179,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Helene Langevin](entities/HeleneLangevin.md) — Researcher cited for fascia, stretching, inflammation, fibrosis, and animal-tumor work whose clinical implications remain explicitly bounded.
 
 ## Concepts
+- [Fascist Political Theatre](concepts/FascistPoliticalTheatre.md) — Leader-centered ritual using crowd dialogue, uniforms, gesture, song, procession, and sacrifice to turn spectacle into emotional authority.
 - [Ptolemaic Bicultural Kingship](concepts/PtolemaicBiculturalKingship.md) — Combined Macedonian Greek dynastic identity and Egyptian pharaonic legitimacy inherited and intensified by Cleopatra.
 - [Roman Informal Imperial Control](concepts/RomanInformalImperialControl.md) — Military-financial domination of a formally independent kingdom without immediate annexation.
 - [Preverbal Relational Attunement / 前语言关系调谐](concepts/PreverbalRelationalAttunement.md) — Reading body, affect, crying, expression, and touch as communication from a whole person before language can carry the relationship.

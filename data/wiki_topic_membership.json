@@ -1308,6 +1308,18 @@
       "url": "/topics/science/"
     }
   ],
+  "194-the-first-fascist-glt5479566212": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "195-young-cleopatra-part-1-glt1502910094": [
     {
       "key": "history",
@@ -30791,6 +30803,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "FascistPoliticalTheatre": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FascistSportPolicy": [

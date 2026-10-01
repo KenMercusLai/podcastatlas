@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9097
+wiki_total_pages: 9098
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "FascistGlamourAndMemory"
     title: "Fascist Glamour and Memory"
     url: "/wiki/concepts/fascistglamourandmemory/"
+  - key: "FascistPoliticalTheatre"
+    title: "Fascist Political Theatre"
+    url: "/wiki/concepts/fascistpoliticaltheatre/"
   - key: "FascistSportPolicy"
     title: "Fascist Sport Policy"
     url: "/wiki/concepts/fascistsportpolicy/"
