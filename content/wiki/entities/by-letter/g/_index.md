@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11817
+wiki_total_pages: 11819
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "GeneShepard"
     title: "Gene Shepard"
     url: "/wiki/entities/geneshepard/"
+  - key: "GeneralBelgrano"
+    title: "General Belgrano"
+    url: "/wiki/entities/generalbelgrano/"
   - key: "GeneralCatalyst"
     title: "General Catalyst"
     url: "/wiki/entities/generalcatalyst/"

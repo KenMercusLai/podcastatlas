@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11817
+wiki_total_pages: 11819
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "TheSocialRadars"
     title: "The Social Radars"
     url: "/wiki/entities/thesocialradars/"
+  - key: "TheSunUK"
+    title: "The Sun (UK)"
+    url: "/wiki/entities/thesunuk/"
   - key: "TheTaleOfGenji"
     title: "The Tale of Genji"
     url: "/wiki/entities/thetaleofgenji/"

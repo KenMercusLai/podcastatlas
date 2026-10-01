@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [171. The Falklands War: Battle for the Islands (Part 3)](sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480.md) — The Rest Is History on the Belgrano controversy, wartime media pressure, failed diplomacy, San Carlos, Goose Green, Bluff Cove, and the final advance on Stanley.
 - [172. The Falklands War: Afterlife (Part 4)](sources/172-the-falklands-war-afterlife-part-4-glt5779306068.md) — The Rest Is History episode on Thatcher, Argentina's junta, Islander self-determination, the 1983 election, British decline, and the war's contested political memory.
 - [173. Chairman Mao & the Cultural Revolution](sources/173-chairman-mao-the-cultural-revolution-glt2886812821.md) — The Rest Is History episode with Rana Mitter on Mao's authority, Red Guard mobilization, revolutionary iconoclasm, political ritual, factional violence, and the post-Mao settlement.
 - [174. Merlin, Magic and the British](sources/174-merlin-magic-and-the-british-glt5141910845.md) — The Rest Is History with Francis Young on Merlin, royal occult counsel, magical decision capture, sorcery propaganda, John Dee, and wartime spiritualism.
@@ -3429,6 +3430,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [176. The Jews Against Rome (Part 2)](sources/176-the-jews-against-rome-part-2-glt3414103581.md) — The Rest Is History episode on Judean identity, Roman governance, revolt escalation, Beth-Horon, Jotapata, Josephus, and Vespasian's rise.
 
 ## Entities
+- [General Belgrano](entities/GeneralBelgrano.md) — Argentine cruiser whose sinking changed the Falklands naval campaign and became a lasting military, moral, and media controversy.
+- [The Sun (UK)](entities/TheSunUK.md) — British tabloid whose Falklands coverage joined patriotic mobilization to enduring controversy over tone, casualties, and press loyalty.
 - [Falklands War](entities/FalklandsWar.md) — 1982 Anglo-Argentine conflict whose outcome reshaped junta legitimacy, Thatcher's authority, and British political memory.
 - [Falkland Islands](entities/FalklandIslands.md) — Disputed South Atlantic territory whose inhabitants' political preference anchors the episode's self-determination argument.
 - [Leopoldo Galtieri](entities/LeopoldoGaltieri.md) — Argentine junta leader whose failed invasion converted military defeat into rapid regime collapse.
@@ -15285,6 +15288,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Wartime Media Loyalty Pressure](concepts/WartimeMediaLoyaltyPressure.md) — Pressure that turns journalistic distance, verification, or dissent into a test of national allegiance during war.
 - [British General Election 1983](concepts/BritishGeneralElection1983.md) — Multi-causal election case in which Falklands victory amplified an existing Conservative recovery.
 - [Falklands War Political Afterlife](concepts/FalklandsWarPoliticalAfterlife.md) — Contested memory joining military victory to British decline, patriotism, empire, and later identity politics.
 - [Cultural Revolution](concepts/CulturalRevolution.md) — Mao-led mass upheaval joining anti-revisionism, youth rebellion, persecution, iconoclasm, factional conflict, and institutional breakdown.

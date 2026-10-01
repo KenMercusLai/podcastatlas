@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9161
+wiki_total_pages: 9162
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "WartimeLeadershipAccountability"
     title: "Wartime Leadership Accountability"
     url: "/wiki/concepts/wartimeleadershipaccountability/"
+  - key: "WartimeMediaLoyaltyPressure"
+    title: "Wartime Media Loyalty Pressure"
+    url: "/wiki/concepts/wartimemedialoyaltypressure/"
   - key: "WartimeRoyalDutyFormation"
     title: "Wartime Royal Duty Formation"
     url: "/wiki/concepts/wartimeroyaldutyformation/"

@@ -1084,6 +1084,18 @@
       "url": "/topics/history/"
     }
   ],
+  "171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk": [
     {
       "key": "economics",
@@ -78166,6 +78178,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TheSunUK": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TheSwineherd": [
     {
       "key": "culture",
@@ -83211,6 +83230,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "WartimeMediaLoyaltyPressure": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "WartimeScientificMobilization": [

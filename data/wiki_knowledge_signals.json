@@ -17299,9 +17299,9 @@
       "url": "/wiki/entities/azure/"
     },
     "BBC": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "80.间谍与叛徒：恕我直言，007的故事弱爆了 (上) [691866649].md",
@@ -17330,6 +17330,13 @@
           "show": "Economist Podcasts",
           "title": "Latin lessons: the Donroe-doctrine boost",
           "url": "/wiki/sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d/"
+        },
+        {
+          "episode_file": "GLT4679725480 [GLT4679725480].md",
+          "key": "171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480",
+          "show": "The Rest Is History",
+          "title": "171. The Falklands War: Battle for the Islands (Part 3)",
+          "url": "/wiki/sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480/"
         }
       ],
       "updated": "2026-08-06",
@@ -63605,9 +63612,9 @@
       "url": "/wiki/entities/falklandislands/"
     },
     "FalklandsWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5779306068 [GLT5779306068].md",
@@ -63615,15 +63622,22 @@
           "show": "The Rest Is History",
           "title": "172. The Falklands War: Afterlife (Part 4)",
           "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
+        },
+        {
+          "episode_file": "GLT4679725480 [GLT4679725480].md",
+          "key": "171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480",
+          "show": "The Rest Is History",
+          "title": "171. The Falklands War: Battle for the Islands (Part 3)",
+          "url": "/wiki/sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480/"
         }
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/falklandswar/"
     },
     "FalklandsWarPoliticalAfterlife": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5779306068 [GLT5779306068].md",
@@ -63631,6 +63645,13 @@
           "show": "The Rest Is History",
           "title": "172. The Falklands War: Afterlife (Part 4)",
           "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
+        },
+        {
+          "episode_file": "GLT4679725480 [GLT4679725480].md",
+          "key": "171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480",
+          "show": "The Rest Is History",
+          "title": "171. The Falklands War: Battle for the Islands (Part 3)",
+          "url": "/wiki/sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480/"
         }
       ],
       "updated": "2026-10-01",
@@ -74647,6 +74668,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/geneenvironmentinteraction/"
+    },
+    "GeneralBelgrano": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4679725480 [GLT4679725480].md",
+          "key": "171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480",
+          "show": "The Rest Is History",
+          "title": "171. The Falklands War: Battle for the Islands (Part 3)",
+          "url": "/wiki/sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/generalbelgrano/"
     },
     "GeneralElectric": {
       "episode_count": 1,
@@ -109942,9 +109979,9 @@
       "url": "/wiki/entities/leopoldii/"
     },
     "LeopoldoGaltieri": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5779306068 [GLT5779306068].md",
@@ -109952,6 +109989,13 @@
           "show": "The Rest Is History",
           "title": "172. The Falklands War: Afterlife (Part 4)",
           "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
+        },
+        {
+          "episode_file": "GLT4679725480 [GLT4679725480].md",
+          "key": "171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480",
+          "show": "The Rest Is History",
+          "title": "171. The Falklands War: Battle for the Islands (Part 3)",
+          "url": "/wiki/sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480/"
         }
       ],
       "updated": "2026-10-01",
@@ -123328,9 +123372,9 @@
       "url": "/wiki/entities/margaretmitchell/"
     },
     "MargaretThatcher": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -123373,6 +123417,13 @@
           "show": "The Rest Is History",
           "title": "172. The Falklands War: Afterlife (Part 4)",
           "url": "/wiki/sources/172-the-falklands-war-afterlife-part-4-glt5779306068/"
+        },
+        {
+          "episode_file": "GLT4679725480 [GLT4679725480].md",
+          "key": "171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480",
+          "show": "The Rest Is History",
+          "title": "171. The Falklands War: Battle for the Islands (Part 3)",
+          "url": "/wiki/sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480/"
         }
       ],
       "updated": "2026-10-01",
@@ -185030,6 +185081,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/theskateparkproject/"
     },
+    "TheSunUK": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4679725480 [GLT4679725480].md",
+          "key": "171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480",
+          "show": "The Rest Is History",
+          "title": "171. The Falklands War: Battle for the Islands (Part 3)",
+          "url": "/wiki/sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/thesunuk/"
+    },
     "TheTaleOfGenji": {
       "episode_count": 2,
       "show_count": 1,
@@ -197131,6 +197198,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/wartimeconstitutionalmonarchycollapse/"
+    },
+    "WartimeMediaLoyaltyPressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4679725480 [GLT4679725480].md",
+          "key": "171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480",
+          "show": "The Rest Is History",
+          "title": "171. The Falklands War: Battle for the Islands (Part 3)",
+          "url": "/wiki/sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/wartimemedialoyaltypressure/"
     },
     "WartimeRoyalDutyFormation": {
       "episode_count": 1,
