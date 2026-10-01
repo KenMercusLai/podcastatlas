@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11691
+wiki_total_pages: 11693
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "BarcodeHero"
     title: "Barcode Hero"
     url: "/wiki/entities/barcodehero/"
+  - key: "BarkingAbbey"
+    title: "Barking Abbey"
+    url: "/wiki/entities/barkingabbey/"
   - key: "Barmakids"
     title: "Barmakids"
     url: "/wiki/entities/barmakids/"

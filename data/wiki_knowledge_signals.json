@@ -18194,6 +18194,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/barcidspanishpowerbase/"
     },
+    "BarkingAbbey": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8561271853 [GLT8561271853].md",
+          "key": "210-london-places-part-2-glt8561271853",
+          "show": "The Rest Is History",
+          "title": "210. London: Places (Part 2)",
+          "url": "/wiki/sources/210-london-places-part-2-glt8561271853/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/barkingabbey/"
+    },
     "Barmakids": {
       "episode_count": 1,
       "show_count": 1,
@@ -64093,9 +64109,9 @@
       "url": "/wiki/concepts/femalerebelsovereignty/"
     },
     "FemaleReligiousLifeSpace": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？ [3d36f181-94ad-4883-8db3-5f040b5ed45b].md",
@@ -64103,6 +64119,13 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 20: 100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？",
           "url": "/wiki/sources/100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b/"
+        },
+        {
+          "episode_file": "GLT8561271853 [GLT8561271853].md",
+          "key": "210-london-places-part-2-glt8561271853",
+          "show": "The Rest Is History",
+          "title": "210. London: Places (Part 2)",
+          "url": "/wiki/sources/210-london-places-part-2-glt8561271853/"
         }
       ],
       "updated": "2026-08-26",
@@ -113847,9 +113870,9 @@
       "url": "/wiki/concepts/lollardy/"
     },
     "London": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
@@ -113885,6 +113908,13 @@
           "show": "The Rest Is History",
           "title": "211. London: People (Part 3)",
           "url": "/wiki/sources/211-london-people-part-3-glt1562041230/"
+        },
+        {
+          "episode_file": "GLT8561271853 [GLT8561271853].md",
+          "key": "210-london-places-part-2-glt8561271853",
+          "show": "The Rest Is History",
+          "title": "210. London: Places (Part 2)",
+          "url": "/wiki/sources/210-london-places-part-2-glt8561271853/"
         }
       ],
       "updated": "2026-10-01",
@@ -145690,9 +145720,9 @@
       "url": "/wiki/concepts/postwarmangamemoryandculturalexport/"
     },
     "PostwarTeenageConsumerMarket": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1663902020 [GLT1663902020].md",
@@ -145714,6 +145744,13 @@
           "show": "The Rest Is History",
           "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
           "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
+        },
+        {
+          "episode_file": "GLT8561271853 [GLT8561271853].md",
+          "key": "210-london-places-part-2-glt8561271853",
+          "show": "The Rest Is History",
+          "title": "210. London: Places (Part 2)",
+          "url": "/wiki/sources/210-london-places-part-2-glt8561271853/"
         }
       ],
       "updated": "2026-09-28",
@@ -167733,6 +167770,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/smallretailerchanneltest/"
     },
+    "SmallVenueCulturalIncubation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8561271853 [GLT8561271853].md",
+          "key": "210-london-places-part-2-glt8561271853",
+          "show": "The Rest Is History",
+          "title": "210. London: Places (Part 2)",
+          "url": "/wiki/sources/210-london-places-part-2-glt8561271853/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/smallvenueculturalincubation/"
+    },
     "SmartGlassesBystanderPrivacy": {
       "episode_count": 4,
       "show_count": 3,
@@ -178772,6 +178825,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/the120daysofsodom/"
     },
+    "The2isCoffeeBar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8561271853 [GLT8561271853].md",
+          "key": "210-london-places-part-2-glt8561271853",
+          "show": "The Rest Is History",
+          "title": "210. London: Places (Part 2)",
+          "url": "/wiki/sources/210-london-places-part-2-glt8561271853/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/the2iscoffeebar/"
+    },
     "TheAnxiousGeneration": {
       "episode_count": 2,
       "show_count": 2,
@@ -185889,9 +185958,9 @@
       "url": "/wiki/entities/uplane/"
     },
     "UrbanArchitecturalMemory": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lskF8BdKhS71LbWJOmt3gU1kO8BE [lskF8BdKhS71LbWJOmt3gU1kO8BE].md",
@@ -185906,6 +185975,13 @@
           "show": "The Rest Is History",
           "title": "212. Haunted London (Part 4)",
           "url": "/wiki/sources/212-haunted-london-part-4-glt8938796735/"
+        },
+        {
+          "episode_file": "GLT8561271853 [GLT8561271853].md",
+          "key": "210-london-places-part-2-glt8561271853",
+          "show": "The Rest Is History",
+          "title": "210. London: Places (Part 2)",
+          "url": "/wiki/sources/210-london-places-part-2-glt8561271853/"
         }
       ],
       "updated": "2026-10-01",

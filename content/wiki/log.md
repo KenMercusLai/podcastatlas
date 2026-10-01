@@ -26467,3 +26467,11 @@ Added source `211-london-people-part-3-glt1562041230`; created `HenryFielding`, 
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 210. London: Places (Part 2)
+
+Added source `210-london-places-part-2-glt8561271853`; created `BarkingAbbey`, `The2isCoffeeBar`, and `SmallVenueCulturalIncubation`; and resynthesized `London`, `UrbanArchitecturalMemory`, `PostwarTeenageConsumerMarket`, and `FemaleReligiousLifeSpace` from their complete preserved evidence inventories. Core synthesis: Barking Abbey's sparse remains preserve a long female religious and scholarly history whose institutional scale is no longer visually obvious, while the 2i's shows how an improvised Soho basement could connect coffee culture, skiffle, teenage demand, media, managers, and early British pop during a brief cultural opening. No settled contradiction was adopted. Institutional priority, uniqueness claims, saintly visions, discovery stories, ownership, equipment, capacity, and career causation remain source-scoped or mythologized. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,309-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page link and index checks, health, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

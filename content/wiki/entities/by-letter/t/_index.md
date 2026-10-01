@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11691
+wiki_total_pages: 11693
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "The120DaysOfSodom"
     title: "The 120 Days of Sodom"
     url: "/wiki/entities/the120daysofsodom/"
+  - key: "The2isCoffeeBar"
+    title: "The 2i's Coffee Bar"
+    url: "/wiki/entities/the2iscoffeebar/"
   - key: "TheAITurningPoint"
     title: "The AI Turning Point"
     url: "/wiki/entities/theaiturningpoint/"
