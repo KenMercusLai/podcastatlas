@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9151
+wiki_total_pages: 9153
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2504,6 +2504,9 @@ wiki_pages:
   - key: "CropCircleDebunking"
     title: "Crop Circle Debunking"
     url: "/wiki/concepts/cropcircledebunking/"
+  - key: "CrossSymbolicInversion"
+    title: "Cross Symbolic Inversion"
+    url: "/wiki/concepts/crosssymbolicinversion/"
   - key: "CrossAssetRiskExpression"
     title: "Cross-Asset Risk Expression / 跨资产风险表达"
     url: "/wiki/concepts/crossassetriskexpression/"

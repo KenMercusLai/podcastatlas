@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9151
+wiki_total_pages: 9153
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1154,6 +1154,9 @@ wiki_pages:
   - key: "RomanConquestOfBritain"
     title: "Roman Conquest of Britain"
     url: "/wiki/concepts/romanconquestofbritain/"
+  - key: "RomanCrucifixionAsPublicHumiliation"
+    title: "Roman Crucifixion as Public Humiliation"
+    url: "/wiki/concepts/romancrucifixionaspublichumiliation/"
   - key: "RomanEliteLeisure"
     title: "Roman Elite Leisure"
     url: "/wiki/concepts/romaneliteleisure/"

@@ -42324,6 +42324,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/crossdevicepersonalmemory/"
     },
+    "CrossSymbolicInversion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5186420966 [GLT5186420966].md",
+          "key": "175-crucifixion-part-1-glt5186420966",
+          "show": "The Rest Is History",
+          "title": "175. Crucifixion (Part 1)",
+          "url": "/wiki/sources/175-crucifixion-part-1-glt5186420966/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/crosssymbolicinversion/"
+    },
     "CrossingVulnerabilityStrike": {
       "episode_count": 1,
       "show_count": 1,
@@ -53405,9 +53421,9 @@
       "url": "/wiki/concepts/earlychinesebuddhismcourttransmission/"
     },
     "EarlyChristianExaltation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4776258433 [GLT4776258433].md",
@@ -53415,9 +53431,16 @@
           "show": "The Rest Is History",
           "title": "288: Jesus Christ: The History (Part 2)",
           "url": "/wiki/sources/288-jesus-christ-the-history-part-2-glt4776258433/"
+        },
+        {
+          "episode_file": "GLT5186420966 [GLT5186420966].md",
+          "key": "175-crucifixion-part-1-glt5186420966",
+          "show": "The Rest Is History",
+          "title": "175. Crucifixion (Part 1)",
+          "url": "/wiki/sources/175-crucifixion-part-1-glt5186420966/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/earlychristianexaltation/"
     },
     "EarlyCinemaInventionPriority": {
@@ -86885,9 +86908,9 @@
       "url": "/wiki/concepts/historicalinternationallaw/"
     },
     "HistoricalJesusReconstruction": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4776258433 [GLT4776258433].md",
@@ -86902,9 +86925,16 @@
           "show": "The Rest Is History",
           "title": "287: Jesus Christ: The Mystery (Part 1)",
           "url": "/wiki/sources/287-jesus-christ-the-mystery-part-1-glt4572965796/"
+        },
+        {
+          "episode_file": "GLT5186420966 [GLT5186420966].md",
+          "key": "175-crucifixion-part-1-glt5186420966",
+          "show": "The Rest Is History",
+          "title": "175. Crucifixion (Part 1)",
+          "url": "/wiki/sources/175-crucifixion-part-1-glt5186420966/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/historicaljesusreconstruction/"
     },
     "HistoricalJianghuSpace": {
@@ -100459,9 +100489,9 @@
       "url": "/wiki/entities/jessicathompson/"
     },
     "Jesus": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4776258433 [GLT4776258433].md",
@@ -100476,9 +100506,16 @@
           "show": "The Rest Is History",
           "title": "287: Jesus Christ: The Mystery (Part 1)",
           "url": "/wiki/sources/287-jesus-christ-the-mystery-part-1-glt4572965796/"
+        },
+        {
+          "episode_file": "GLT5186420966 [GLT5186420966].md",
+          "key": "175-crucifixion-part-1-glt5186420966",
+          "show": "The Rest Is History",
+          "title": "175. Crucifixion (Part 1)",
+          "url": "/wiki/sources/175-crucifixion-part-1-glt5186420966/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/jesus/"
     },
     "JetLagJetAgeEmbodiment": {
@@ -147811,9 +147848,9 @@
       "url": "/wiki/entities/pompey/"
     },
     "PontiusPilate": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4776258433 [GLT4776258433].md",
@@ -147835,9 +147872,16 @@
           "show": "The Rest Is History",
           "title": "176. The Jews Against Rome (Part 2)",
           "url": "/wiki/sources/176-the-jews-against-rome-part-2-glt3414103581/"
+        },
+        {
+          "episode_file": "GLT5186420966 [GLT5186420966].md",
+          "key": "175-crucifixion-part-1-glt5186420966",
+          "show": "The Rest Is History",
+          "title": "175. Crucifixion (Part 1)",
+          "url": "/wiki/sources/175-crucifixion-part-1-glt5186420966/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/pontiuspilate/"
     },
     "PonyboySlings": {
@@ -162102,6 +162146,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/romanconquestofbritain/"
+    },
+    "RomanCrucifixionAsPublicHumiliation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5186420966 [GLT5186420966].md",
+          "key": "175-crucifixion-part-1-glt5186420966",
+          "show": "The Rest Is History",
+          "title": "175. Crucifixion (Part 1)",
+          "url": "/wiki/sources/175-crucifixion-part-1-glt5186420966/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/romancrucifixionaspublichumiliation/"
     },
     "RomanEliteLeisure": {
       "episode_count": 1,
@@ -186882,6 +186942,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/tomhanks/"
+    },
+    "TomHolland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5186420966 [GLT5186420966].md",
+          "key": "175-crucifixion-part-1-glt5186420966",
+          "show": "The Rest Is History",
+          "title": "175. Crucifixion (Part 1)",
+          "url": "/wiki/sources/175-crucifixion-part-1-glt5186420966/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/tomholland/"
     },
     "TomNuttall": {
       "episode_count": 1,

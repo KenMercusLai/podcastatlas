@@ -5,7 +5,8 @@ tags: [historical-method, jesus, gospels, source-criticism]
 sources:
   - 288-jesus-christ-the-history-part-2-glt4776258433
   - 287-jesus-christ-the-mystery-part-1-glt4572965796
-last_updated: 2026-09-30
+  - 175-crucifixion-part-1-glt5186420966
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The episodes use graduated confidence. Jesus's existence is supported by the eme
 
 Source criticism extends beyond counting references. Josephus requires separation of a likely authentic core from Christian interpolation; Pliny, Tacitus, Suetonius, and Mara Bar-Serapion differ in date, specificity, and independence. The Gospels likewise require attention to relative dating, shared synoptic material, oral transmission, theological purpose, possible eyewitness memory, and contextual fit. Archaeology and [[GalileanJudeanCulturalBoundary|regional cultural evidence]] constrain interpretation but do not directly authenticate a saying or reveal individual belief.
 
+The crucifixion episode adds practice-fit and embarrassment tests. Scourging, mockery, a displayed charge, execution outside the city, and a royal pretender punished by Rome fit comparative evidence, while darkness and other prophecy-shaped details receive lower confidence. Paul's early treatment of the cross as scandal supports an execution tradition that followers had to explain rather than an obviously convenient heroic invention. Neither contextual fit nor embarrassment mechanically authenticates every detail.
+
 This method also marks a jurisdictional boundary. Historians can compare accounts, date traditions, infer political incentives, and establish that followers reported experiences and changed their beliefs. They cannot, through ordinary historical method alone, decide whether a miracle occurred. Skepticism therefore narrows claims rather than requiring blanket dismissal.
 
 ## Key Claims
@@ -29,7 +32,7 @@ This method also marks a jurisdictional boundary. Historians can compare account
 - Legendary material around a major figure does not by itself establish that the figure was invented.
 - External references must be weighted by date, independence, specificity, transmission, and possible interpolation.
 - Chronological mismatch, implausible administration, and prophecy-shaped geography weaken the harmonized Nativity account.
-- Multiple or early attestation can strengthen a tradition without proving verbatim accuracy.
+- Multiple or early attestation, comparative practice, and early embarrassment can strengthen a tradition without proving verbatim accuracy or every attached narrative detail.
 - Events that explain later conflict, such as the temple incident, may be historically plausible even when details remain uncertain.
 - Historians can study resurrection testimony and its effects without adjudicating supernatural causation.
 
@@ -42,16 +45,17 @@ This method also marks a jurisdictional boundary. Historians can compare account
 - Early tradition: [[288-jesus-christ-the-history-part-2-glt4776258433]] uses Paul's transmission of the Last Supper formula and early exalted titles as evidence of beliefs preceding the written Gospels.
 - Explanatory fit: [[288-jesus-christ-the-history-part-2-glt4776258433]] treats the temple incident and kingly charge as plausible causes of arrest and Roman execution.
 - Method boundary: [[288-jesus-christ-the-history-part-2-glt4776258433]] records post-death experience claims and their consequences while declining to settle resurrection as miracle.
+- Crucifixion fit and embarrassment: [[175-crucifixion-part-1-glt5186420966]] compares Passion details with Roman punishment practice and Paul's early acknowledgement of the cross as scandal.
 
 ## Counterevidence & Qualifications
 
-The method cannot remove all interpretive judgment. Coherence, memorability, embarrassment, early or external attestation, and explanatory usefulness do not mechanically prove authenticity, while prophecy-shaped narration or textual alteration does not automatically prove that a person or event was invented. Ancient authors may depend on Christians or common reports, archaeological patterns underdetermine personal motives, and modern reconstructions can reproduce the assumptions of their own eras. The sources are accessible podcast discussions rather than a comprehensive review of specialist scholarship, manuscripts, archaeology, or every competing reconstruction.
+The method cannot remove all interpretive judgment. Coherence, contextual fit, memorability, embarrassment, early or external attestation, and explanatory usefulness do not mechanically prove authenticity, while prophecy-shaped narration or textual alteration does not automatically prove that a person or event was invented. Ancient authors may depend on Christians or common reports, isolated skeletal finds cannot define ordinary crucifixion, archaeological patterns underdetermine personal motives, and modern reconstructions can reproduce the assumptions of their own eras. The sources are accessible podcast discussions rather than a comprehensive review of specialist scholarship, manuscripts, archaeology, or every competing reconstruction.
 
 ## What Changed
 
-- Expanded the evidence model from Gospel reconstruction to non-Christian testimony, textual interpolation, archaeology, and political geography.
-- Distinguished the evidentiary value of Josephus, Roman authors, and ambiguous external references.
-- Added modern scholarly standpoint and ancient cultural strangeness as explicit interpretive cautions.
+- Added comparative punishment practice and early embarrassment as graded evidence for crucifixion.
+- Clarified that contextual plausibility supports a core event without authenticating every Passion detail.
+- Preserved the boundary between historical reconstruction and supernatural adjudication.
 
 ## Related Concepts
 
@@ -62,3 +66,4 @@ The method cannot remove all interpretive judgment. Coherence, memorability, emb
 - [[SaintLegendAccretion]] - comparable distinction between uncertain biography and historically consequential later tradition.
 - [[Josephus]] - crucial external historian whose testimony must be reconstructed through transmission criticism.
 - [[GalileanJudeanCulturalBoundary]] - contextual framework that constrains interpretation without directly proving Gospel details.
+- [[RomanCrucifixionAsPublicHumiliation]] - comparative Roman context used to assess Passion details and political logic.
