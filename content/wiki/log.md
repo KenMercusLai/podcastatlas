@@ -26475,3 +26475,11 @@ Added source `210-london-places-part-2-glt8561271853`; created `BarkingAbbey`, `
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker
+
+Added source `the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386`; created `CharlesZuker` and `TasteIdentityValenceCircuit`; and resynthesized `TasteNutrientHazardDetection`, `GutSensoryNeuralSignaling`, `SugarCravingNeuralControl`, and `PerceptionAsBiologicalInference` from their complete preserved evidence inventories. Core synthesis: oral receptors detect chemicals, while downstream circuits distinguish taste identity, positive or negative valence, and action; learning and internal state can revise those values. Immediate sweet liking is also separable from slower post-ingestive sugar wanting through intestinal glucose sensing and vagal signaling. No settled contradiction was adopted. Mouse activation, silencing, knockout, and preference results do not establish identical human experience, and artificial-sweetener, processed-food, obesity, vagus-stimulation, equal-calorie, taste-cell-renewal, and intervention claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,310-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page link, index, health, synthesis, and publish validation passed; the repository-wide validator still reports 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,8 @@ sources:
   - essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065
   - the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714
   - how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968
-last_updated: 2026-09-27
+  - the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 Sugar craving neural control is the wiki's frame for sugar seeking as a coordinated biological process involving hunger hormones, blood glucose, glucose use by neurons, sweet taste, dopamine-linked wanting, and gut-to-brain nutritive sensing.
 
 ## Current Synthesis
-The sources treat sugar cravings as more than taste preference or weak discipline. Ghrelin, hypothalamic hunger circuitry, insulin, blood glucose, and the brain's reliance on glucose metabolism create a physiological backdrop in which sugar-containing foods can become especially salient. They then separate two reinforcing pathways: a sweet-taste pathway that rapidly signals desirable food and a post-ingestive pathway in which gut cells detect sugar and relay signals through the vagus nerve and brainstem.
+The sources treat sugar cravings as more than taste preference or weak discipline. Ghrelin, hypothalamic hunger circuitry, insulin, blood glucose, and the brain's reliance on glucose metabolism create a physiological backdrop in which sugar-containing foods can become especially salient. They then separate two reinforcing pathways: a sweet-taste pathway that rapidly supports liking and a post-ingestive pathway in which gut cells detect sugar and relay signals through the vagus nerve and brainstem to reinforce future wanting.
 
 The Bohórquez interview makes the second pathway more specific through [[GutSensoryNeuralSignaling]]. It describes intestinal glucose sensing through receptors, sodium-glucose transport, cell depolarization, and glutamate release, then reports mouse optogenetic experiments in which neuropod-cell inhibition removed discrimination between sugar and non-caloric sweetener while activation made sweetener or water more sugar-like in choice behavior. This strengthens a causal animal mechanism without proving an identical subjective craving pathway in humans.
 
@@ -24,13 +25,15 @@ The current judgment is that sugar control needs both environment and mechanism.
 
 The Lustig interview adds a proposed insulin-leptin-reward loop: insulin is said to inhibit leptin signaling in hypothalamic and reward circuits, while repeated sugar-driven dopamine stimulation may downregulate receptors and increase tolerance or pursuit. This is compatible with the page's wanting-versus-liking frame, but the condensed note does not establish the size, universality, or clinical diagnostic value of that pathway.
 
+The Zuker interview adds a behavioral dissociation: mice lacking sweet receptors initially could not distinguish sugar from water but developed a strong sugar preference after longer exposure. It also sharpens the sweetener boundary—artificial sweeteners can activate oral sweet receptors while failing to activate the described intestinal glucose pathway. This supports a mechanistic distinction, not a universal claim that sweeteners cause craving or cannot help any person reduce sugar.
+
 ## Key Claims
 - Sugar seeking is shaped by hormone, glucose, brain-energy, dopamine, gut-sensing, and proposed insulin-leptin-reward systems rather than only conscious preference.
 - Sweet taste and post-ingestive nutritive sensing can reinforce sugar seeking through partly distinct pathways.
+- Immediate sweet liking and delayed nutritive wanting can dissociate, as shown by sugar preference developing in sweet-receptor-knockout mice.
 - Dopamine-linked wanting can make a sweet stimulus increase pursuit for more food rather than simply end the craving.
 - Hidden sugars in savory foods can activate gut-based reinforcement without being consciously experienced as sweetness.
 - Mouse optogenetic manipulation supports a causal role for neuropod-cell signaling in distinguishing caloric sugar from non-caloric alternatives.
-- Fructose is treated as a hunger-relevant sugar because the source says it is liver-converted and can shift hormones toward greater appetite in high-fructose contexts.
 - Practical control should target reinforcing signals through food context, sleep, and cautious interventions rather than relying on willpower alone.
 
 ## Evidence
@@ -40,14 +43,16 @@ The Lustig interview adds a proposed insulin-leptin-reward loop: insulin is said
 - Hidden-sugar mechanism - [[essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065]] describes neuropod cells, the vagus nerve, nodose ganglion, and nucleus of the solitary tract as part of the gut-to-brain route.
 - Cellular and behavioral test - [[the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714]] describes glucose-triggered depolarization and glutamate release, then reports mouse optogenetic inhibition and activation that changed sugar, sweetener, and water preference.
 - Insulin-leptin-reward proposal - [[how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968]] links insulin to reduced leptin signaling and repeated dopamine stimulation to receptor downregulation, tolerance, hunger, and continued seeking.
+- Liking-versus-wanting dissociation - [[the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386]] reports delayed sugar preference in sweet-receptor-knockout mice and distinguishes oral sweetness from intestinal glucose sensing.
+- Sweetener boundary - [[the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386]] says artificial sweeteners activate tongue sweet receptors but not the described gut glucose pathway.
 
 ## Counterevidence & Qualifications
-The page is based on three Huberman Lab source notes and should not be treated as a full clinical model of appetite, diabetes, obesity, eating disorders, hypoglycemia, cancer care, gastrointestinal disease, medication effects, addiction diagnosis, or individualized nutrition. The Bohórquez note supplies no primary-paper methods, sample sizes, or effect sizes, and mouse liquid-choice behavior does not establish identical human craving experience. The Lustig note likewise does not provide study-level evidence for receptor downregulation, insulin-leptin effects, price elasticity as proof of addiction, or equivalence with drug addiction. Fructose, glutamine, lemon/lime juice, cinnamon, berberine, sleep, gastric-bypass, and broader intuition claims remain source-scoped unless supported by stronger evidence.
+The page is based on four Huberman Lab source notes and should not be treated as a full clinical model of appetite, diabetes, obesity, eating disorders, hypoglycemia, cancer care, gastrointestinal disease, medication effects, addiction diagnosis, or individualized nutrition. The Bohórquez and Zuker notes supply no primary-paper methods, sample sizes, or effect sizes, and mouse liquid-choice behavior does not establish identical human craving experience. The Lustig note likewise does not provide study-level evidence for receptor downregulation, insulin-leptin effects, price elasticity as proof of addiction, or equivalence with drug addiction. Artificial-sweetener outcomes vary by compound, dose, person, and substitution context; the missing glucose signal does not prove that all sweeteners increase appetite or fail as reduction tools. Fructose, glutamine, lemon/lime juice, cinnamon, berberine, sleep, gastric bypass, processed-food timing, and broader intuition claims remain source-scoped unless supported by stronger evidence.
 
 ## What Changed
-- Added an insulin-leptin-dopamine account while keeping addiction language and pathway magnitude source-scoped.
-- Added optogenetic mouse evidence that neuropod-cell signaling can causally alter sugar-versus-sweetener preference.
-- Added a more specific receptor-to-depolarization-to-glutamate account while preserving the animal-to-human boundary.
+- Added sweet-receptor-knockout evidence separating immediate sweetness from delayed sugar preference.
+- Clarified the artificial-sweetener mechanism without generalizing it into a universal appetite outcome.
+- Sharpened liking as oral taste and wanting as post-ingestive reinforcement while retaining their interaction.
 
 ## Related Concepts
 - [[PracticalSugarControl]] - behavior and label-literacy frame that this mechanism helps explain.
@@ -57,4 +62,5 @@ The page is based on three Huberman Lab source notes and should not be treated a
 - [[ContinuousGlucoseMonitoring]] - measurement neighbor for observing glucose curves and meal response.
 - [[FoodPleasureEngineering]] - broader food-environment concept explaining why moderation is not only a willpower problem.
 - [[GutSensoryNeuralSignaling]] - broader cellular and vagal pathway underlying the post-ingestive branch.
+- [[TasteIdentityValenceCircuit]] - oral identity and valence pathway underlying the immediate liking branch.
 - [[FoodSystemNutritionResponsibility]] - environmental and institutional layer shaping exposure to reinforcing foods.

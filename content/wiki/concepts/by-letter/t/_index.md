@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9064
+wiki_total_pages: 9065
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "TasteNutrientHazardDetection"
     title: "Taste as Nutrient and Hazard Detection"
     url: "/wiki/concepts/tastenutrienthazarddetection/"
+  - key: "TasteIdentityValenceCircuit"
+    title: "Taste Identity and Valence Circuit"
+    url: "/wiki/concepts/tasteidentityvalencecircuit/"
   - key: "TasteTraining"
     title: "Taste Training"
     url: "/wiki/concepts/tastetraining/"

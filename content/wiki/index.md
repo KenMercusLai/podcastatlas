@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker](sources/the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386.md) — Huberman Lab interview on taste detection, identity, valence, plasticity, and the separation of oral sweet liking from gut-driven sugar wanting.
 - [217. Plague and the Decline of the Roman Empire](sources/217-plague-and-the-decline-of-the-roman-empire-glt2583859060.md) — The Rest Is History interview with Kyle Harper on Roman connectivity, urban disease burdens, three pandemics, and multi-causal imperial decline.
 - [218. Theodora: Empress of Byzantium (Part 1)](sources/218-theodora-empress-of-byzantium-part-1-glt5957583440.md) — The Rest Is History episode on Constantinople's Roman identity, Theodora's rise, Miaphysite faith, and imperial partnership with Justinian.
 - [Jake Paul & The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? & Venture Bubble Signs](sources/all-in-with-chamath-jason-sacks-friedberg-jake-paul-the-chainsmokers-turning-fame-into-funds-jake-enters-polit.md) — All-In episode on creator-business flywheels, celebrity operational capital, boxing and music economics, venture liquidity, and valuation discipline.
@@ -3366,6 +3367,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [210. London: Places (Part 2)](sources/210-london-places-part-2-glt8561271853.md) — The Rest Is History pairing of Barking Abbey's female scholarly history with the 2i's Coffee Bar's role in skiffle and early British pop.
 
 ## Entities
+- [Charles Zuker](entities/CharlesZuker.md) — Sensory neuroscientist connecting taste receptors and circuits to perceptual identity, valence, learning, and post-ingestive sugar reinforcement.
 - [Tower of London](entities/TowerOfLondon.md) — Royal fortress whose menagerie joined diplomatic animal gifts, public spectacle, care limits, reform, and folklore.
 - [Metropolitan Railway](entities/MetropolitanRailway.md) — Early underground railway that integrated route expansion, surplus-land development, publicity, and suburban demand.
 - [Metroland](entities/Metroland.md) — Railway-branded northwest London corridor that became shorthand for commuter aspiration, nostalgia, and class anxiety.
@@ -15094,6 +15096,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The 2i's Coffee Bar](entities/The2isCoffeeBar.md) — Small Soho basement venue connecting coffee-bar culture, skiffle, media, and early British pop careers.
 
 ## Concepts
+- [Taste Identity and Valence Circuit](concepts/TasteIdentityValenceCircuit.md) — Circuit model separating chemical detection, perceptual quality, positive or negative value, action, and post-ingestive reinforcement.
 - [Royal Animal Spectacle](concepts/RoyalAnimalSpectacle.md) — Diplomatic and dynastic animal display whose prestige creates care obligations that spectacle alone cannot satisfy.
 - [Rail-Integrated Suburban Development](concepts/RailIntegratedSuburbanDevelopment.md) — Model joining transport, property, amenities, and lifestyle marketing to create recurring suburban passenger demand.
 - [Antonine Plague](concepts/AntoninePlague.md) — Second-century trans-imperial pandemic treated as a severe but bounded shock with unresolved pathogen and mortality.

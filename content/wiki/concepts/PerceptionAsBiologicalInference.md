@@ -4,7 +4,8 @@ type: concept
 tags: [perception, sensory-systems, learning, context, individuality]
 sources:
   - scim1807559844-scim1807559844
-last_updated: 2026-09-28
+  - the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,25 +19,32 @@ Olfaction provides the clearest case in the source. People differ in functional 
 
 The broader point extends beyond smell. Visual organization differs across viewers; early light exposure can shape eye development; childhood climate can calibrate sweating capacity; and perfect pitch combines predisposition with early training. Perception is therefore both biological and historical: different bodies can receive different inputs, and similar inputs can be interpreted through different learned models.
 
+Taste adds an experimental distinction between detection and perception. Oral receptor cells transduce chemicals, but the source places recognizable quality in downstream brain activity and describes color matching as a case in which people can share the label “yellow” despite choosing different physical mixtures. [[TasteIdentityValenceCircuit]] further separates identifying a stimulus from finding it attractive or aversive, while conditioned taste aversion shows that learned value can change without requiring a new chemical input.
+
 ## Key Claims
 - Receptor variation can make the same chemical stimulus perceptually different across people.
 - Expectation and verbal framing can change interpretation without changing the stimulus.
 - Cultural pairings train sensory associations that can feel immediate or natural.
 - Early experience can alter the sensory organ or physiological response, not only conscious interpretation.
 - Individual perceptual differences are scientifically meaningful variation rather than mere measurement noise.
+- Detection of a physical stimulus is necessary for many percepts but is not identical to the brain's experienced representation.
+- Perceptual identity and positive or negative value can be partly dissociated and revised through learning.
 
 ## Evidence
 - Olfactory receptor variation - [[scim1807559844-scim1807559844]] reports large functional differences across human odor receptors and divergent responses to androstenone.
 - Context and culture - [[scim1807559844-scim1807559844]] uses ambiguous acid odors and learned sweet associations with vanilla or mint.
 - Developmental physiology - [[scim1807559844-scim1807559844]] connects outdoor light to myopia risk and early heat exposure to sweat-gland innervation.
 - Auditory learning - [[scim1807559844-scim1807559844]] treats perfect pitch as a predisposition whose expression depends strongly on early training.
+- Detection versus perception - [[the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386]] separates oral chemical transduction from downstream taste experience and uses color matching to illustrate individual variation behind a shared label.
+- Identity versus value - [[the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386]] describes mouse circuit experiments and conditioned taste aversion as evidence that recognition and attraction or avoidance are not the same operation.
 
 ## Counterevidence & Qualifications
-Calling perception inference does not mean it is arbitrary or detached from external structure. The episode combines receptor genetics, developmental adaptation, learned association, and perceptual illusions; these are related but not interchangeable mechanisms. Numerical receptor and perfect-pitch estimates remain source-scoped.
+Calling perception inference does not mean it is arbitrary or detached from external structure. The sources combine receptor genetics, developmental adaptation, learned association, circuit intervention, conditioned aversion, and perceptual matching; these are related but not interchangeable mechanisms. Numerical receptor and perfect-pitch estimates remain source-scoped, while mouse activation or silencing cannot directly establish subjective experience or identical human circuit organization.
 
 ## What Changed
-- Created a cross-sensory synthesis of receptor variation, expectation, culture, and developmental calibration.
-- Preserved the distinction between altered sensory input and altered interpretation.
+- Added a direct detection-versus-perception distinction from taste circuitry.
+- Separated perceptual identity from valence and learned behavioral meaning.
+- Extended individual variation from receptor differences to divergent physical matches under shared labels.
 
 ## Related Concepts
 - [[DevelopmentalIndividuality]] - broader framework joining inherited variation, experience, and random development.
@@ -44,3 +52,4 @@ Calling perception inference does not mean it is arbitrary or detached from exte
 - [[EmbodiedSocialPerception]] - social judgment branch using bodily and multisensory evidence.
 - [[BrainBodyEmotionMapping]] - neighboring attempt to relate perception of internal state to feeling.
 - [[BodilyResolution]] - practice-oriented refinement of bodily and emotional discrimination.
+- [[TasteIdentityValenceCircuit]] - circuit example separating detection, identity, value, and behavior.
