@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [146. Disease vs. the rise of civilisation](sources/146-disease-vs-the-rise-of-civilisation-glt4238916512.md) — The Rest Is History interview with Kyle Harper on human disease ecology, agricultural settlement, urban demographic sinks, the Black Death, and the mortality transition.
 - [147. Disease, the New World and modern pandemics](sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457.md) — The Rest Is History interview with Kyle Harper on the Columbian Exchange, plantation disease ecology, sanitation, cholera, influenza, COVID-19, and globalization.
 - [148. The Vikings Go East](sources/148-the-vikings-go-east-glt1476178706.md) — The Rest Is History on eastern Viking river trade, Rus formation, Abbasid silver, slavery, Ibn Fadlan, and the modern politics of Rus origins.
 - [149. The Birth of Russia](sources/149-the-birth-of-russia-glt2354182753.md) — The Rest Is History episode on Scandinavian-Rus trade and rule, Primary Chronicle uncertainty, Byzantine Christianization, and Harald Hardrada's eastern career.
@@ -3464,7 +3465,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Play to Rewire & Improve Your Brain](sources/using-play-to-rewire-improve-your-brain-scim9321743392.md) — Huberman Lab solo episode on low-stakes contingency testing, play signals, role and rule learning, dynamic movement, adult neuroplasticity, and evidence-bounded trauma claims.
 
 ## Entities
-- [Plagues Upon the Earth](entities/PlaguesUponTheEarth.md) — Kyle Harper's global history of disease, ecology, connectivity, public health, and the biological risks attached to human success.
+- [Plagues Upon the Earth](entities/PlaguesUponTheEarth.md) — Kyle Harper's global history of disease from prehistory and agriculture through plague, public health, globalization, and the mortality transition.
 - [Jaak Panksepp](entities/JaakPanksepp.md) — Affective-neuroscience researcher presented as a pioneer in the biological and psychological study of play.
 - [Rurik](entities/Rurik.md) — Scandinavian-associated Rus foundation figure whose dynastic importance exceeds the certainty of the Chronicle's invitation legend.
 - [Olga of Kiev](entities/OlgaOfKiev.md) — Kievan regent and early Christian convert whose political profile combines durable authority with a legendary revenge cycle.
@@ -3601,7 +3602,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tower of London](entities/TowerOfLondon.md) — Royal fortress whose menagerie joined diplomatic animal gifts, public spectacle, care limits, reform, and folklore.
 - [Metropolitan Railway](entities/MetropolitanRailway.md) — Early underground railway that integrated route expansion, surplus-land development, publicity, and suburban demand.
 - [Metroland](entities/Metroland.md) — Railway-branded northwest London corridor that became shorthand for commuter aspiration, nostalgia, and class anxiety.
-- [Kyle Harper](entities/KyleHarper.md) — Historian connecting Roman decline to climate, disease ecology, demography, connectivity, and state capacity within a multi-causal model.
+- [Kyle Harper](entities/KyleHarper.md) — Historian connecting human ecological change, infectious disease, demography, connectivity, and state capacity within a multi-causal model.
 - [Constantinople](entities/Constantinople.md) — Eastern Roman capital whose strategic geography, infrastructure, institutions, and post-476 authority sustained Roman continuity.
 - [Jake Paul](entities/JakePaul.md) — Creator, boxer, promoter, investor, and philanthropist connecting audience reach to a cross-domain business flywheel.
 - [The Chainsmokers](entities/TheChainsmokers.md) — Music partnership extending internet-native distribution and brand experience into venture capital.
@@ -15380,6 +15381,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Julie Gottman](entities/JulieGottman.md) — Relationship researcher linked with John Gottman to couple outcomes and destructive conflict patterns.
 
 ## Concepts
+- [Mortality Transition](concepts/MortalityTransition.md) — Historically recent and uneven shift from infectious disease toward chronic and degenerative causes of death.
+- [Agricultural Settlement Disease Ecology](concepts/AgriculturalSettlementDiseaseEcology.md) — Disease exposure created by sedentism, concentrated waste, domesticated animals, water constraints, and population density.
+- [Black Death Historical Shock](concepts/BlackDeathHistoricalShock.md) — Exceptional fourteenth-century plague mortality analyzed alongside genetic evidence and contested geographic boundaries.
 - [Plantation Disease Ecology](concepts/PlantationDiseaseEcology.md) — Interaction of coerced labor, forced migration, crops, water, vectors, pathogens, and unequal settlement conditions.
 - [Mechanism-Agnostic Public Health](concepts/MechanismAgnosticPublicHealth.md) — Preventive action justified by observed outcomes before the underlying biological mechanism is complete or correct.
 - [Play as Contingency Testing](concepts/PlayAsContingencyTesting.md) — Focused low-stakes exploration of roles, rules, movement, strategy, and social response without the full cost of ordinary failure.

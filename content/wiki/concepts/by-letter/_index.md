@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9214
+wiki_total_pages: 9217
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "AgriculturalReliefStatecraft"
     title: "Agricultural Relief Statecraft / 农政救荒"
     url: "/wiki/concepts/agriculturalreliefstatecraft/"
+  - key: "AgriculturalSettlementDiseaseEcology"
+    title: "Agricultural Settlement Disease Ecology"
+    url: "/wiki/concepts/agriculturalsettlementdiseaseecology/"
   - key: "AgriculturalSystemsReality"
     title: "Agricultural Systems Reality"
     url: "/wiki/concepts/agriculturalsystemsreality/"

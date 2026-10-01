@@ -7533,6 +7533,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/agriculturalpracticeastextualentry/"
     },
+    "AgriculturalSettlementDiseaseEcology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4238916512 [GLT4238916512].md",
+          "key": "146-disease-vs-the-rise-of-civilisation-glt4238916512",
+          "show": "The Rest Is History",
+          "title": "146. Disease vs. the rise of civilisation",
+          "url": "/wiki/sources/146-disease-vs-the-rise-of-civilisation-glt4238916512/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/agriculturalsettlementdiseaseecology/"
+    },
     "AgriculturalWeatherRiskManagement": {
       "episode_count": 1,
       "show_count": 1,
@@ -22080,6 +22096,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/blackcatdetectiveagency/"
+    },
+    "BlackDeathHistoricalShock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4238916512 [GLT4238916512].md",
+          "key": "146-disease-vs-the-rise-of-civilisation-glt4238916512",
+          "show": "The Rest Is History",
+          "title": "146. Disease vs. the rise of civilisation",
+          "url": "/wiki/sources/146-disease-vs-the-rise-of-civilisation-glt4238916512/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/blackdeathhistoricalshock/"
     },
     "BlackDinner": {
       "episode_count": 1,
@@ -95014,9 +95046,9 @@
       "url": "/wiki/concepts/imperialclassicsconsensusbuilding/"
     },
     "ImperialConnectivityDiseaseRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2583859060 [GLT2583859060].md",
@@ -95031,6 +95063,13 @@
           "show": "The Rest Is History",
           "title": "147. Disease, the New World and modern pandemics",
           "url": "/wiki/sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457/"
+        },
+        {
+          "episode_file": "GLT4238916512 [GLT4238916512].md",
+          "key": "146-disease-vs-the-rise-of-civilisation-glt4238916512",
+          "show": "The Rest Is History",
+          "title": "146. Disease vs. the rise of civilisation",
+          "url": "/wiki/sources/146-disease-vs-the-rise-of-civilisation-glt4238916512/"
         }
       ],
       "updated": "2026-10-02",
@@ -108811,9 +108850,9 @@
       "url": "/wiki/entities/kylegillett/"
     },
     "KyleHarper": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2583859060 [GLT2583859060].md",
@@ -108828,6 +108867,13 @@
           "show": "The Rest Is History",
           "title": "147. Disease, the New World and modern pandemics",
           "url": "/wiki/sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457/"
+        },
+        {
+          "episode_file": "GLT4238916512 [GLT4238916512].md",
+          "key": "146-disease-vs-the-rise-of-civilisation-glt4238916512",
+          "show": "The Rest Is History",
+          "title": "146. Disease vs. the rise of civilisation",
+          "url": "/wiki/sources/146-disease-vs-the-rise-of-civilisation-glt4238916512/"
         }
       ],
       "updated": "2026-10-02",
@@ -133178,6 +133224,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/mortalityboundedmeaning/"
     },
+    "MortalityTransition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4238916512 [GLT4238916512].md",
+          "key": "146-disease-vs-the-rise-of-civilisation-glt4238916512",
+          "show": "The Rest Is History",
+          "title": "146. Disease vs. the rise of civilisation",
+          "url": "/wiki/sources/146-disease-vs-the-rise-of-civilisation-glt4238916512/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/mortalitytransition/"
+    },
     "MoscowUprising1682": {
       "episode_count": 1,
       "show_count": 1,
@@ -148791,9 +148853,9 @@
       "url": "/wiki/concepts/plagueofcyprian/"
     },
     "PlaguesUponTheEarth": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1023018457 [GLT1023018457].md",
@@ -148801,6 +148863,13 @@
           "show": "The Rest Is History",
           "title": "147. Disease, the New World and modern pandemics",
           "url": "/wiki/sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457/"
+        },
+        {
+          "episode_file": "GLT4238916512 [GLT4238916512].md",
+          "key": "146-disease-vs-the-rise-of-civilisation-glt4238916512",
+          "show": "The Rest Is History",
+          "title": "146. Disease vs. the rise of civilisation",
+          "url": "/wiki/sources/146-disease-vs-the-rise-of-civilisation-glt4238916512/"
         }
       ],
       "updated": "2026-10-02",

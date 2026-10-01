@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2354
+topic_total_pages: 2355
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4809,6 +4809,9 @@ topic_sources:
   - key: "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285"
     title: "14.武士威廉：大航海时代的日本和西方"
     url: "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+  - key: "146-disease-vs-the-rise-of-civilisation-glt4238916512"
+    title: "146. Disease vs. the rise of civilisation"
+    url: "/wiki/sources/146-disease-vs-the-rise-of-civilisation-glt4238916512/"
   - key: "147-disease-the-new-world-and-modern-pandemics-glt1023018457"
     title: "147. Disease, the New World and modern pandemics"
     url: "/wiki/sources/147-disease-the-new-world-and-modern-pandemics-glt1023018457/"
