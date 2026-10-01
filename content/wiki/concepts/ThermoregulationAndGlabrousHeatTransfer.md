@@ -4,6 +4,7 @@ type: concept
 tags: [thermoregulation, temperature, hypothalamus, glabrous-skin, safety]
 sources:
   - scim5583107634-scim5583107634
+  - using-deliberate-cold-exposure-for-health-and-performance-scim1045909781
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,8 @@ The episode distinguishes shell temperature at the skin from core temperature in
 
 Glabrous skin on the palms, soles, and upper face contains specialized vascular pathways that can exchange heat quickly. The practical claim is conditional: cooling or warming these areas may assist core-temperature management, but extreme cold can constrict vessels and reduce transfer. This mechanism can inform first-response intuition, yet suspected heat stroke or hypothermia remains an emergency rather than a self-experiment.
 
+The cold-exposure episode adds exercise and hyperthermia context. It distinguishes whole-body cold, which evokes compensatory heating and systemic stress, from moderate cooling of the palms, soles, or upper face, which is intended to remove heat while maintaining blood flow. Reported gains in continued work and faster return toward baseline temperature support the mechanism as a performance hypothesis, but the supplied note does not establish comparative effectiveness for emergency treatment or a universal cooling temperature.
+
 ## Key Claims
 - Skin and core temperatures are related signals, not interchangeable measurements.
 - The preoptic hypothalamus coordinates autonomic, motor, and behavioral temperature responses.
@@ -31,13 +34,15 @@ Glabrous skin on the palms, soles, and upper face contains specialized vascular 
 - Protective experience - [[scim5583107634-scim5583107634]] connects excessive heat with amygdala and sympathetic activation, agitation, and the urge to leave.
 - Heat-exchange surfaces - [[scim5583107634-scim5583107634]] identifies the palms, soles, and upper face as glabrous surfaces with arteriovenous anastomoses relevant to rapid cooling or warming.
 - Emergency boundary - [[scim5583107634-scim5583107634]] cautions against over-cold materials that provoke vasoconstriction and treats severe hyperthermia, hypothermia, and high fever as potentially dangerous.
+- Exercise distinction - [[using-deliberate-cold-exposure-for-health-and-performance-scim1045909781]] separates compensatory responses to broad surface cooling from moderate glabrous-skin cooling intended to remove heat while preserving flow.
+- Performance and hyperthermia examples - [[using-deliberate-cold-exposure-for-health-and-performance-scim1045909781]] reports longer continued work and faster temperature recovery with glabrous cooling but omits enough methods to define general effect size or emergency-care superiority.
 
 ## Counterevidence & Qualifications
-The supplied note does not provide comparative trials, effect sizes, measurement methods, or emergency-care protocols for glabrous-skin cooling or warming. Face, hand, or foot temperature is not a substitute for core assessment, and cooling recommendations differ by context, available equipment, exertional heat illness, cold injury, cardiovascular state, age, and consciousness. Severe confusion, collapse, seizure, loss of consciousness, or suspected heat stroke or hypothermia requires emergency care.
+The supplied notes do not provide complete comparative trials, effect sizes, measurement methods, or emergency-care protocols for glabrous-skin cooling or warming. Reported exercise-volume gains and hyperthermia examples do not establish what most people should expect or whether targeted cooling is superior to established emergency measures. Face, hand, or foot temperature is not a substitute for core assessment, and cooling recommendations differ by context, available equipment, exertional heat illness, cold injury, cardiovascular state, age, and consciousness. Severe confusion, collapse, seizure, loss of consciousness, or suspected heat stroke or hypothermia requires emergency care.
 
 ## What Changed
-- Created a central-control model linking shell/core sensing to autonomic and behavioral responses.
-- Preserved the vascular qualification that colder is not always faster cooling.
+- Added the distinction between systemic cold stress and flow-preserving glabrous-skin heat removal.
+- Added exercise and induced-hyperthermia examples while keeping effect size and emergency superiority unresolved.
 
 ## Related Concepts
 - [[HeatExposureDoseAndSafety]] - deliberate exposure framework governed by the same protective control system.

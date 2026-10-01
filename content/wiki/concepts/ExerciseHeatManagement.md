@@ -4,6 +4,7 @@ type: concept
 tags: [exercise, thermoregulation, performance, cooling, recovery]
 sources:
   - essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411
+  - using-deliberate-cold-exposure-for-health-and-performance-scim1045909781
 last_updated: 2026-09-22
 knowledge_schema: synthesis-v1
 ---
@@ -17,6 +18,8 @@ Exercise heat management is the source's framework for treating local muscle tem
 [[essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411]] argues that exercise performance can fall when muscle or whole-body heat rises beyond a useful range. Local contraction becomes less effective, while systemic heat dissipation increases cardiovascular demand; the episode uses cardiac drift to explain why a fixed pace can become progressively harder in a hotter environment.
 
 Its practical proposal is targeted, moderate cooling of glabrous skin on the palms, soles, or face. These surfaces contain arteriovenous anastomoses that can exchange heat efficiently, but the intervention depends on maintaining blood flow: an ice-cold object or water can provoke vasoconstriction and work against heat removal. The resulting protocol is a conditional performance tool, not a universal treatment. Environmental heat, exercise mode, hydration, medical status, desired adaptation, and access to safe cooling all affect the decision.
+
+The earlier full episode adds induced-hyperthermia and multi-week training examples while preserving the same mechanism. Cooling the palms, soles, or upper face is reported to extend work and accelerate temperature recovery, and between-set palmar cooling is associated with greater training volume. Those examples remain source-scoped: very large pull-up or strength changes do not establish a typical effect, and an acute capacity to do more work does not by itself prove superior long-term adaptation.
 
 ## Key Claims
 - Local muscle and whole-body heat can become independent constraints on repeated physical output.
@@ -32,14 +35,16 @@ Its practical proposal is targeted, moderate cooling of glabrous skin on the pal
 - Acute performance examples: [[essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411]] reports larger pull-up, dip, running, set, and repetition output when cooling is inserted between efforts.
 - Protocol boundary: [[essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411]] recommends short bouts of cool contact and warns that very cold water or objects can provoke vasoconstriction.
 - Goal distinction: [[essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411]] separates during-session heat removal from immediate post-training whole-body cold exposure and its possible adaptation cost.
+- Induced-hyperthermia example: [[using-deliberate-cold-exposure-for-health-and-performance-scim1045909781]] reports longer continued work and faster temperature recovery with cooling of glabrous surfaces.
+- Training-volume example: [[using-deliberate-cold-exposure-for-health-and-performance-scim1045909781]] reports large pull-up and bench-press changes with palmar cooling, retained as source-scoped rather than expected effects.
 
 ## Counterevidence & Qualifications
-The condensed source does not report study sample sizes, exact temperatures, control conditions, participant characteristics, effect-size uncertainty, or long-term training outcomes. Its pull-up and dip figures therefore do not establish what most athletes should expect. Cooling must not delay recognition or treatment of heat illness, and face, hand, or foot cooling is not a substitute for shade, workload reduction, hydration, acclimatization, or medical escalation when symptoms are serious. Cold exposure can also be useful when rapid turnaround, pain reduction, or emergency temperature control matters more than maximizing hypertrophy.
+The source notes do not report complete study sample sizes, exact temperatures, control conditions, participant characteristics, effect-size uncertainty, or long-term training outcomes. Their pull-up, dip, and bench-press figures therefore do not establish what most athletes should expect, and added acute work can itself change fatigue and recovery needs. Cooling must not delay recognition or treatment of heat illness, and face, hand, or foot cooling is not a substitute for shade, workload reduction, hydration, acclimatization, or medical escalation when symptoms are serious. Cold exposure can also be useful when rapid turnaround, pain reduction, or emergency temperature control matters more than maximizing hypertrophy.
 
 ## What Changed
-- Created a goal-sensitive framework linking exercise heat, cardiac drift, glabrous-skin heat transfer, and vasoconstriction-aware cooling.
-- Preserved the reported acute performance gains as source-scoped examples rather than general effect sizes.
-- Separated routine performance cooling from heat-illness response and post-training adaptation choices.
+- Added induced-hyperthermia and multi-week resistance-training examples to the targeted-cooling evidence.
+- Kept very large work-volume and strength changes source-scoped rather than treating them as expected effects.
+- Clarified that greater acute work capacity does not by itself establish better long-term adaptation.
 
 ## Related Concepts
 - [[ExerciseRecoveryReadiness]] - distinguishes short-term heat removal and soreness relief from longer-term adaptation.
