@@ -6,7 +6,8 @@ sources:
   - 686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769
   - 349-the-birth-of-the-united-states-part-3-glt9804967639
   - 348-the-boston-tea-party-part-2-glt5189620267
-last_updated: 2026-09-28
+  - 200-american-civil-war-the-causes-part-1-glt1124511401
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,9 @@ knowledge_schema: synthesis-v1
 Thomas Jefferson is presented as the principal author of the [[DeclarationOfIndependence|Declaration of Independence]], the third president of the [[UnitedStates|United States]], and the central figure in the episode's account of American liberty betrayed by slavery.
 
 ## Current Profile
-The current wiki profile is deliberately double-sided. His 1774 *Summary View* imagined the colonies as practically self-governing within a loose monarchy before his 1776 prose supplied the case for separation. The Declaration's equality and consent language helped define American democracy and later supplied a standard for Lincoln and Martin Luther King Jr. Yet Jefferson was a Virginia slaveholder who compared colonial dependence to property while his own estate depended on enslaved people, Congress removed his anti-slavery grievance, and his relationship with [[SallyHemings|Sally Hemings]] existed inside an extreme power imbalance. The judgment remains tragic rather than exculpatory: Jefferson understood the ideals he violated.
+The current wiki profile is deliberately double-sided. His 1774 *Summary View* imagined the colonies as practically self-governing within a loose monarchy before his 1776 prose supplied the case for separation. The Declaration's equality and consent language helped define American democracy and later supplied a standard for Lincoln and Martin Luther King Jr. Yet Jefferson was a Virginia slaveholder who compared colonial dependence to property while his own estate depended on enslaved people, Congress removed his anti-slavery grievance, and his relationship with [[SallyHemings|Sally Hemings]] existed inside an extreme power imbalance.
+
+[[200-american-civil-war-the-causes-part-1-glt1124511401]] extends that contradiction into the Civil War's prehistory. Jefferson's warning about divine justice becomes retrospective judgment on slavery, while by the 1850s and 1860s white Southern defenders were uneasy with the Declaration's equality language. His legacy therefore supplied both founding authority and an argument that proslavery ideology had to contain or reinterpret.
 
 ## Key Characteristics
 - Enlightenment author and political carrier of the [[DeclarationOfIndependence|Declaration of Independence]]'s unifying, diplomatic, and universal liberty language.
@@ -24,7 +27,7 @@ The current wiki profile is deliberately double-sided. His 1774 *Summary View* i
 - Skilled party politician associated with the [[DemocraticRepublicanParty|Democratic-Republicans]] and conflict with [[AlexanderHamilton|Alexander Hamilton]]'s [[FederalistParty|Federalists]].
 - President linked to the 1800 [[PeacefulTransferOfPower|peaceful transfer of power]], the [[LouisianaPurchase|Louisiana Purchase]], and the [[LewisAndClarkExpedition|Lewis and Clark expedition]].
 - Slaveholder whose life, debts, and estate at [[Monticello]] depended on enslaved labor.
-- Central figure in the [[JeffersonianLibertyContradiction|Jeffersonian liberty contradiction]] because his strongest principles were betrayed by his own social order.
+- Central figure in the [[JeffersonianLibertyContradiction|Jeffersonian liberty contradiction]] because his strongest principles were betrayed by his own social order and became difficult for later positive-good defenses of slavery to absorb.
 - Owner and likely father of [[SallyHemings|Sally Hemings]]'s children in a relationship the episode frames through [[CoercedConsentUnderSlavery|coercive slavery power]].
 
 ## Evidence
@@ -36,15 +39,16 @@ The current wiki profile is deliberately double-sided. His 1774 *Summary View* i
 - Expansion: [[686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769]] treats the Louisiana Purchase and Lewis and Clark expedition as major Jefferson acts combining constitutional tension, science, and imperial ambition.
 - Slavery and Monticello: [[686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769]] says Jefferson inherited enslaved people, kept roughly 150 African Americans enslaved at Monticello, and could not preserve the estate without enslaved labor and collateral.
 - Hemings evidence: [[686-jefferson-the-betrayal-of-liberty-part-4-glt6535571769]] links the modern consensus about Jefferson fathering Hemings's children to Madison Hemings's account, DNA evidence, Annette Gordon-Reed's archival work, and the Thomas Jefferson Foundation's position.
+- Civil War-era afterlife: [[200-american-civil-war-the-causes-part-1-glt1124511401]] connects Jefferson's divine-justice warning and equality language to later Southern ambivalence as proslavery ideology hardened.
 
 ## Qualifications
-The sources distinguish fact from motive. They treat Jefferson's slaveholding and power over Hemings as structural facts, while his inner feelings, Sally Hemings's reasons for returning from France, and his exact attachment to Monticello remain interpretive judgments. The loose-confederation reading of his 1774 position and the force of his property analogy are source interpretations; neither the Summary View nor the Declaration made universal promise equivalent to equal founding practice.
+The sources distinguish fact from motive. They treat Jefferson's slaveholding and power over Hemings as structural facts, while his inner feelings, Sally Hemings's reasons for returning from France, and his exact attachment to Monticello remain interpretive judgments. The loose-confederation reading of his 1774 position, the force of his property analogy, and later white Southern ambivalence toward his equality language are source interpretations; neither the Summary View nor the Declaration made universal promise equivalent to equal founding practice.
 
 ## What Changed
 
-- Added the Declaration's immediate unifying and diplomatic purposes to Jefferson's authorship profile.
-- Strengthened the link between the document's universal afterlife and the slavery contradiction present at drafting.
-- Added his 1774 loose-imperial position and pre-Declaration property analogy.
+- Extended the liberty-slavery contradiction into the Civil War's ideological prehistory.
+- Added later white Southern ambivalence toward Jefferson's equality language.
+- Connected his divine-justice warning to the episode's retrospective judgment on slavery and war.
 
 ## Relationships
 - [[DeclarationOfIndependence]] - document Jefferson authored and through which his liberty language entered American political memory.
@@ -54,3 +58,4 @@ The sources distinguish fact from motive. They treat Jefferson's slaveholding an
 - [[AlexanderHamilton]] - ideological and party rival in the episode's first-party-system account.
 - [[JeffersonianLibertyContradiction]] - concept capturing the episode's core judgment about Jefferson's ideals and conduct.
 - [[AmericanRevolutionaryUniversalism]] - universal political promise Jefferson's language helped formalize but his conduct did not fulfill.
+- [[CivilWarSlaveryCausation]] - later breakdown in which Jefferson's unresolved founding contradiction became politically explosive.

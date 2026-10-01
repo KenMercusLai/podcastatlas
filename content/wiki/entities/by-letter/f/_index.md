@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11728
+wiki_total_pages: 11734
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -452,6 +452,9 @@ wiki_pages:
   - key: "FortMcHenry"
     title: "Fort McHenry"
     url: "/wiki/entities/fortmchenry/"
+  - key: "FortSumter"
+    title: "Fort Sumter"
+    url: "/wiki/entities/fortsumter/"
   - key: "ForwardConsumerPartners"
     title: "Forward Consumer Partners"
     url: "/wiki/entities/forwardconsumerpartners/"
@@ -632,6 +635,9 @@ wiki_pages:
   - key: "FrederickBenteen"
     title: "Frederick Benteen"
     url: "/wiki/entities/frederickbenteen/"
+  - key: "FrederickDouglass"
+    title: "Frederick Douglass"
+    url: "/wiki/entities/frederickdouglass/"
   - key: "FrederickTheWise"
     title: "Frederick the Wise"
     url: "/wiki/entities/frederickthewise/"
@@ -728,6 +734,9 @@ wiki_pages:
   - key: "Fuga"
     title: "Fuga"
     url: "/wiki/entities/fuga/"
+  - key: "FugitiveSlaveAct1850"
+    title: "Fugitive Slave Act of 1850"
+    url: "/wiki/entities/fugitiveslaveact1850/"
   - key: "Fujian"
     title: "Fujian / 福建"
     url: "/wiki/entities/fujian/"

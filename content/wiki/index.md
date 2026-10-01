@@ -3379,9 +3379,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [203. American Civil War: Aftermath & Legacy (Part 4)](sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453.md) — The Rest Is History episode on Appomattox, Lincoln's assassination, Reconstruction, the Fourteenth Amendment, Lost Cause memory, and modern polarization.
 - [202. American Civil War: Gettysburg (Part 3)](sources/202-american-civil-war-gettysburg-part-3-glt5256515778.md) — The Rest Is History episode on Gettysburg, Vicksburg, the Gettysburg Address, Black military service, self-emancipation, the 1864 election, and Appomattox.
 - [201. American Civil War: Outbreak (Part 2)](sources/201-american-civil-war-outbreak-part-2-glt4100428000.md) — The Rest Is History episode on democratic Unionism, Confederate confidence, slavery, industrial-war transition, Antietam, and preliminary emancipation.
+- [200: American Civil War: The Causes (Part 1)](sources/200-american-civil-war-the-causes-part-1-glt1124511401.md) — The Rest Is History episode on slavery's constitutional, economic, territorial, federal, partisan, judicial, and secession mechanisms before Fort Sumter.
 
 ## Entities
-- [American Civil War](entities/AmericanCivilWar.md) — Union-Confederate conflict interpreted through democratic legitimacy, slavery, political endurance, industrial transition, emancipation, and unresolved postwar meaning.
+- [John Brown](entities/JohnBrown.md) — Militant abolitionist whose Kansas violence, Harpers Ferry raid, trial, and execution intensified sectional fear.
+- [Frederick Douglass](entities/FrederickDouglass.md) — Escaped enslaved writer and orator whose abolitionist witness challenged slavery and racist assumptions.
+- [Anthony Burns](entities/AnthonyBurns.md) — Fugitive from slavery whose forced rendition from Boston made federal slave-catching visible in a free state.
+- [Dred Scott](entities/DredScott.md) — Enslaved plaintiff whose failed freedom suit widened fear of slavery's constitutional nationalization.
+- [Fugitive Slave Act of 1850](entities/FugitiveSlaveAct1850.md) — Federal enforcement law that extended slave-property claims into Northern communities.
+- [Fort Sumter](entities/FortSumter.md) — Federal Charleston Harbor fort whose bombardment converted secession into open war.
+- [American Civil War](entities/AmericanCivilWar.md) — Slavery-centered constitutional breakdown becoming a Union-Confederate war over legitimacy, endurance, emancipation, citizenship, and national meaning.
 - [Battle of Antietam](entities/BattleOfAntietam.md) — Costly 1862 tactical draw whose strategic check of Lee created the political opening for preliminary emancipation.
 - [George B. McClellan](entities/GeorgeMcClellan.md) — Union commander linking the failed Peninsula Campaign to Antietam's incomplete but politically consequential success.
 - [Stonewall Jackson](entities/StonewallJackson.md) — Confederate commander whose stern religious persona and military legend remain bounded by the slavery-centered cause he served.
@@ -15145,6 +15152,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lucile Desmoulins](entities/LucileDesmoulins.md) — Camille Desmoulins's wife, falsely implicated in a prison plot and executed after the Dantonist trial.
 
 ## Concepts
+- [Civil War Slavery Causation](concepts/CivilWarSlaveryCausation.md) — Mechanism-level account linking slavery to constitutional compromise, expansion, enforcement, party breakdown, secession, and war.
+- [Territorial Slavery Expansion](concepts/TerritorialSlaveryExpansion.md) — Conflict over slavery's western reach that converted continental growth into sectional constitutional crisis.
+- [Fugitive Slave Act Federalism](concepts/FugitiveSlaveActFederalism.md) — Reversal in which slaveholding interests used federal power while Northern resistance invoked state authority.
+- [Sectional Party Realignment](concepts/SectionalPartyRealignment.md) — Collapse of cross-sectional party competition and rise of a Northern antislavery party capable of national victory.
 - [Obsessive-Compulsive Personality Disorder](concepts/ObsessiveCompulsivePersonalityDisorder.md) — Distinct pattern of identity-consistent order, control, precision, or rigidity that should not be conflated with intrusive OCD symptoms.
 - [Black Union Military Service and Citizenship](concepts/BlackUnionMilitaryServiceCitizenship.md) — Link among African American enlistment, military capacity, unequal treatment, racial violence, sacrifice, and claims to political membership.
 - [Enslaved Self-Emancipation](concepts/EnslavedSelfEmancipation.md) — Enslaved people's flight, labor withdrawal, resistance, and pressure on Union policy during slavery's wartime collapse.

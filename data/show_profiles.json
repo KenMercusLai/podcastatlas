@@ -939,14 +939,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-30",
       "latest_episode_file": "GLT5038102951 [GLT5038102951].md",
-      "source_note_count": 396,
-      "topic_matched_source_note_count": 375,
+      "source_note_count": 397,
+      "topic_matched_source_note_count": 376,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 369
+          "source_note_count": 370
         },
         {
           "key": "politics",
@@ -1011,16 +1011,16 @@
           "episode_count": 8
         },
         {
-          "key": "ElizabethI",
-          "title": "Elizabeth I",
-          "url": "/wiki/entities/elizabethi/",
+          "key": "AdamIPSmith",
+          "title": "Adam I. P. Smith",
+          "url": "/wiki/entities/adamipsmith/",
           "kind": "person",
           "episode_count": 7
         },
         {
-          "key": "HaroldWilson",
-          "title": "Harold Wilson",
-          "url": "/wiki/entities/haroldwilson/",
+          "key": "ElizabethI",
+          "title": "Elizabeth I",
+          "url": "/wiki/entities/elizabethi/",
           "kind": "person",
           "episode_count": 7
         }

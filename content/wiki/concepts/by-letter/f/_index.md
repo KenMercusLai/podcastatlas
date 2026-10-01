@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9082
+wiki_total_pages: 9086
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1277,6 +1277,9 @@ wiki_pages:
   - key: "FugitiveShelterCollateralRisk"
     title: "Fugitive Shelter Collateral Risk / 收留逃亡者的牵连风险"
     url: "/wiki/concepts/fugitivesheltercollateralrisk/"
+  - key: "FugitiveSlaveActFederalism"
+    title: "Fugitive Slave Act Federalism"
+    url: "/wiki/concepts/fugitiveslaveactfederalism/"
   - key: "FugitiveTemporality"
     title: "Fugitive Temporality"
     url: "/wiki/concepts/fugitivetemporality/"

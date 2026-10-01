@@ -1329,6 +1329,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "200-american-civil-war-the-causes-part-1-glt1124511401": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "201-american-civil-war-outbreak-part-2-glt4100428000": [
     {
       "key": "history",
@@ -26784,6 +26791,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "DredScott": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DrewHarwell": [
     {
       "key": "technology",
@@ -33610,6 +33624,20 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "FugitiveSlaveAct1850": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "FugitiveSlaveActFederalism": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FugitiveTemporality": [
@@ -69048,6 +69076,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "SectionalPartyRealignment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SecularHappinessAgainstIdeology": [

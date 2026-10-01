@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9082
+wiki_total_pages: 9086
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "TerritorialRewardMobilization"
     title: "Territorial Reward Mobilization / 许地会师式动员"
     url: "/wiki/concepts/territorialrewardmobilization/"
+  - key: "TerritorialSlaveryExpansion"
+    title: "Territorial Slavery Expansion"
+    url: "/wiki/concepts/territorialslaveryexpansion/"
   - key: "TerrorismPressureWrongfulConviction"
     title: "Terrorism Pressure and Wrongful Conviction"
     url: "/wiki/concepts/terrorismpressurewrongfulconviction/"

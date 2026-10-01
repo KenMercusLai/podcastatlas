@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2895
+topic_total_pages: 2899
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1594,6 +1594,9 @@ topic_concepts:
   - key: "FrontierModelVerifiedAccess"
     title: "Frontier Model Verified Access"
     url: "/wiki/concepts/frontiermodelverifiedaccess/"
+  - key: "FugitiveSlaveActFederalism"
+    title: "Fugitive Slave Act Federalism"
+    url: "/wiki/concepts/fugitiveslaveactfederalism/"
   - key: "FugitiveTemporality"
     title: "Fugitive Temporality"
     url: "/wiki/concepts/fugitivetemporality/"
@@ -3442,6 +3445,9 @@ topic_concepts:
   - key: "Section230DesignWorkaround"
     title: "Section 230 Design Workaround"
     url: "/wiki/concepts/section230designworkaround/"
+  - key: "SectionalPartyRealignment"
+    title: "Sectional Party Realignment"
+    url: "/wiki/concepts/sectionalpartyrealignment/"
   - key: "SecurityBacklashPolitics"
     title: "Security Backlash Politics"
     url: "/wiki/concepts/securitybacklashpolitics/"
@@ -5300,6 +5306,9 @@ topic_entities:
   - key: "DongXian"
     title: "Dong Xian / 董贤"
     url: "/wiki/entities/dongxian/"
+  - key: "DredScott"
+    title: "Dred Scott"
+    url: "/wiki/entities/dredscott/"
   - key: "DrugEnforcementAdministration"
     title: "Drug Enforcement Administration"
     url: "/wiki/entities/drugenforcementadministration/"
@@ -5471,6 +5480,9 @@ topic_entities:
   - key: "FriedrichMerz"
     title: "Friedrich Merz"
     url: "/wiki/entities/friedrichmerz/"
+  - key: "FugitiveSlaveAct1850"
+    title: "Fugitive Slave Act of 1850"
+    url: "/wiki/entities/fugitiveslaveact1850/"
   - key: "FujiwaraNoMichinaga"
     title: "Fujiwara no Michinaga"
     url: "/wiki/entities/fujiwaranomichinaga/"

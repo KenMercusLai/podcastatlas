@@ -5,6 +5,7 @@ tags: [war, united-states, slavery, emancipation, reconstruction]
 sources:
   - 202-american-civil-war-gettysburg-part-3-glt5256515778
   - 201-american-civil-war-outbreak-part-2-glt4100428000
+  - 200-american-civil-war-the-causes-part-1-glt1124511401
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -13,9 +14,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The American Civil War is the conflict between the Union and Confederacy presented here as a struggle over democratic Union, slavery, political endurance, military capacity, emancipation, and citizenship.
+The American Civil War is the conflict between the Union and Confederacy presented here as a slavery-centered constitutional breakdown that became a struggle over democratic Union, political endurance, military capacity, emancipation, and citizenship.
 
 ## Current Profile
+
+[[200-american-civil-war-the-causes-part-1-glt1124511401]] supplies the causal prehistory. The Constitution's protection of slavery deferred a known conflict; cotton profitability and western expansion reopened slavery's geography; the [[FugitiveSlaveAct1850|Fugitive Slave Act]], Kansas violence, [[DredScott|Dred Scott]], and sectional party realignment made compromise less stable. Lincoln's election then produced secession by states whose Confederacy explicitly protected slavery, and [[FortSumter|Fort Sumter]] converted constitutional rupture into war.
 
 [[201-american-civil-war-outbreak-part-2-glt4100428000]] explains the war's opening logic. Confederate confidence rested on expected Northern division, limited federal military capacity, and a short decisive war, while [[CivilWarDemocraticUnionism|democratic Unionism]] made secession after a lawful election appear to Northerners as a threat to representative government. Union population, factories, railways, and resources favored a long conflict, but [[ConfederateCostImpositionStrategy|making continued war politically intolerable]] offered the Confederacy a plausible route to independence.
 
@@ -23,7 +26,7 @@ The conflict mixed older heroic and Napoleonic assumptions with [[CivilWarIndust
 
 ## Key Characteristics
 
-- Constitutional and military contest shaped by democratic legitimacy, secession, slavery, and rival national projects.
+- Slavery-centered constitutional breakdown produced through founding compromise, territorial expansion, federal enforcement, party realignment, secession, and rival national projects.
 - Conflict whose opening expectations underestimated its duration, industrial scale, and home-front demands.
 - Military contest shaped by asymmetric resources, geography, logistics, command, foreign diplomacy, and replacement capacity.
 - Political endurance contest in which Northern elections and morale formed part of Confederate strategy.
@@ -32,6 +35,10 @@ The conflict mixed older heroic and Napoleonic assumptions with [[CivilWarIndust
 - Conflict whose surrender settlement did not resolve citizenship, racial power, or memory.
 
 ## Evidence
+
+### Slavery, expansion, and secession
+
+- [[200-american-civil-war-the-causes-part-1-glt1124511401]] traces slavery from founding compromise through cotton, territory, fugitive enforcement, proslavery radicalization, Kansas, Dred Scott, Lincoln's election, and the Fort Sumter threshold.
 
 ### Outbreak, legitimacy, and endurance
 
@@ -53,18 +60,20 @@ The conflict mixed older heroic and Napoleonic assumptions with [[CivilWarIndust
 
 ## Qualifications
 
-This profile is bounded to two retrospective episodes covering 1861-65 rather than a complete history of secession, every theater, civilian life, diplomacy, wartime governance, or Reconstruction. Population and troop totals, intervention probabilities, tactical details, technological comparisons, private motives, and electoral counterfactuals remain approximate, interpretive, or source-scoped. “Turning point” describes a major change in strategic possibilities rather than inevitability.
+This profile is bounded to three retrospective episodes covering causes and 1861-65 rather than a complete history of Native dispossession, enslaved resistance before the war, secession, every theater, civilian life, diplomacy, wartime governance, or Reconstruction. Economic shares, population and troop totals, intervention probabilities, tactical details, technological comparisons, private motives, and electoral counterfactuals remain approximate, interpretive, or source-scoped. Slavery's central causal role does not make the exact war inevitable, and “turning point” describes a major change in strategic possibilities rather than inevitability.
 
 ## What Changed
 
-- Extended the profile backward to outbreak assumptions, democratic Unionism, industrial transition, and Antietam.
-- Connected structural Union advantage to the unresolved requirement of political endurance.
-- Added the preliminary proclamation's timing and immediate limits before the later emancipation-and-agency account.
+- Extended the profile from founding compromise through cotton, territorial expansion, fugitive enforcement, sectional politics, and secession.
+- Made slavery's causal centrality explicit while preserving contingency about the war's exact path.
+- Added Fort Sumter as the threshold connecting a slavery-centered constitutional rupture to organized war.
 
 ## Relationships
 
 - [[BattleOfGettysburg]] - battlefield that stopped Lee's 1863 northern invasion.
 - [[BattleOfAntietam]] - 1862 check that created a political opening for preliminary emancipation.
+- [[CivilWarSlaveryCausation]] - mechanism-level account of how slavery produced constitutional and armed breakdown.
+- [[FortSumter]] - federal fort whose bombardment opened organized fighting.
 - [[SiegeOfVicksburg]] - campaign victory that gave the Union control of the Mississippi.
 - [[CivilWarDemocraticUnionism]] - legitimacy claim explaining why the North resisted secession.
 - [[CivilWarIndustrialTransition]] - coexistence of older battlefield ideals and emerging industrial war.

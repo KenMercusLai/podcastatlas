@@ -26586,3 +26586,11 @@ Added source `the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim804
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 200: American Civil War: The Causes (Part 1)
+
+Added source `200-american-civil-war-the-causes-part-1-glt1124511401`; created `JohnBrown`, `FrederickDouglass`, `AnthonyBurns`, `DredScott`, `FugitiveSlaveAct1850`, `FortSumter`, `CivilWarSlaveryCausation`, `TerritorialSlaveryExpansion`, `FugitiveSlaveActFederalism`, and `SectionalPartyRealignment`; and resynthesized `AmericanCivilWar`, `AbrahamLincoln`, `AdamIPSmith`, and `ThomasJefferson` from their complete preserved evidence inventories. Core synthesis: slavery produced the constitutional breakdown through founding compromise, cotton profitability, territorial expansion, federal fugitive enforcement, proslavery radicalization, party realignment, judicial escalation, Lincoln's sectional victory, secession, and Fort Sumter, while the exact form and timing of war remained contingent. No settled contradiction was adopted. Antislavery belief remained distinct from racial equality, “states' rights” shifted around the protection of slave property, and statistics, rankings of triggers, motives, religious characterizations, and counterfactual paths remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,324-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, synthesis, changed-page link, index coverage, and publish validation passed; the repository-wide scanner still reports 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

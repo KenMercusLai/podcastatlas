@@ -4836,9 +4836,9 @@
       "url": "/wiki/entities/abrahambeame/"
     },
     "AbrahamLincoln": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3990109453 [GLT3990109453].md",
@@ -4860,6 +4860,13 @@
           "show": "The Rest Is History",
           "title": "201. American Civil War: Outbreak (Part 2)",
           "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
+        },
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
         }
       ],
       "updated": "2026-10-01",
@@ -5681,9 +5688,9 @@
       "url": "/wiki/entities/adamgrant/"
     },
     "AdamIPSmith": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT1619660676 [GLT1619660676].md",
@@ -5726,6 +5733,13 @@
           "show": "The Rest Is History",
           "title": "201. American Civil War: Outbreak (Part 2)",
           "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
+        },
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
         }
       ],
       "updated": "2026-10-01",
@@ -9587,9 +9601,9 @@
       "url": "/wiki/concepts/ambientvoiceagentinterface/"
     },
     "AmericanCivilWar": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5256515778 [GLT5256515778].md",
@@ -9604,6 +9618,13 @@
           "show": "The Rest Is History",
           "title": "201. American Civil War: Outbreak (Part 2)",
           "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
+        },
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
         }
       ],
       "updated": "2026-10-01",
@@ -12409,6 +12430,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/anthonybarber/"
+    },
+    "AnthonyBurns": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/anthonyburns/"
     },
     "AnthonyFauci": {
       "episode_count": 3,
@@ -34522,6 +34559,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/civilwarmemorypoliticalafterlife/"
     },
+    "CivilWarSlaveryCausation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/civilwarslaverycausation/"
+    },
     "CivilWarThreatRhetoric": {
       "episode_count": 1,
       "show_count": 1,
@@ -50897,6 +50950,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/dreamfunctionandmeaning/"
+    },
+    "DredScott": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/dredscott/"
     },
     "DrewTaggart": {
       "episode_count": 1,
@@ -67711,6 +67780,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/fortmchenry/"
     },
+    "FortSumter": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
+        },
+        {
+          "episode_file": "GLT4100428000 [GLT4100428000].md",
+          "key": "201-american-civil-war-outbreak-part-2-glt4100428000",
+          "show": "The Rest Is History",
+          "title": "201. American Civil War: Outbreak (Part 2)",
+          "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/fortsumter/"
+    },
     "FortifiedAttritionPatience": {
       "episode_count": 8,
       "show_count": 1,
@@ -69350,6 +69442,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/frederickbenteen/"
     },
+    "FrederickDouglass": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/frederickdouglass/"
+    },
     "FrederickTheWise": {
       "episode_count": 3,
       "show_count": 1,
@@ -70973,6 +71081,38 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/fugitivesheltercollateralrisk/"
+    },
+    "FugitiveSlaveAct1850": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/fugitiveslaveact1850/"
+    },
+    "FugitiveSlaveActFederalism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/fugitiveslaveactfederalism/"
     },
     "FuhrerStateConsolidation": {
       "episode_count": 1,
@@ -100553,6 +100693,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/johnball/"
+    },
+    "JohnBrown": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/johnbrown/"
     },
     "JohnBull": {
       "episode_count": 1,
@@ -163197,6 +163353,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/secretimperialinfantsuppression/"
     },
+    "SectionalPartyRealignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/sectionalpartyrealignment/"
+    },
     "SecularBuddhismAppeal": {
       "episode_count": 1,
       "show_count": 1,
@@ -179894,6 +180066,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/terrainconstrainedcombinedarms/"
     },
+    "TerritorialSlaveryExpansion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/territorialslaveryexpansion/"
+    },
     "TerrorRuleBackfire": {
       "episode_count": 3,
       "show_count": 1,
@@ -181820,9 +182008,9 @@
       "url": "/wiki/entities/thomasismay/"
     },
     "ThomasJefferson": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6535571769 [GLT6535571769].md",
@@ -181844,9 +182032,16 @@
           "show": "The Rest Is History",
           "title": "348: The Boston Tea Party (Part 2)",
           "url": "/wiki/sources/348-the-boston-tea-party-part-2-glt5189620267/"
+        },
+        {
+          "episode_file": "GLT1124511401 [GLT1124511401].md",
+          "key": "200-american-civil-war-the-causes-part-1-glt1124511401",
+          "show": "The Rest Is History",
+          "title": "200: American Civil War: The Causes (Part 1)",
+          "url": "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/thomasjefferson/"
     },
     "ThomasJeffersonFoundation": {

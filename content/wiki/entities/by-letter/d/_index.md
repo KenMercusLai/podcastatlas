@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11728
+wiki_total_pages: 11734
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -881,6 +881,9 @@ wiki_pages:
   - key: "Dreame"
     title: "Dreame / 追觅"
     url: "/wiki/entities/dreame/"
+  - key: "DredScott"
+    title: "Dred Scott"
+    url: "/wiki/entities/dredscott/"
   - key: "DrewHarwell"
     title: "Drew Harwell"
     url: "/wiki/entities/drewharwell/"
