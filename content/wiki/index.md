@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [161. Yeltsin, Economic Chaos and President Putin](sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920.md) — The Rest Is History on post-Soviet shock therapy, oligarchic privatization, executive concentration, NATO enlargement, Chechnya, and Putin's succession.
 - [162. Putin's Russia](sources/162-putins-russia-glt4575290976.md) — The Rest Is History on Putin's rise through war, stability, security-service power, managed reality, hybrid ambiguity, and the Ukraine-war exit dilemma.
 - [163. The Last Emperor of Mexico](sources/163-the-last-emperor-of-mexico-glt3817272823.md) — The Rest Is History with Edward Shawcross on Maximilian, Juarez, Napoleon III, French intervention, coalition mismatch, patron dependency, and the fall of the Second Mexican Empire.
 - [Using Salt to Optimize Mental & Physical Performance](sources/using-salt-to-optimize-mental-physical-performance-scim4397006205.md) — Huberman Lab solo episode on sodium-water homeostasis, thirst, vasopressin, kidney handling, blood pressure, exercise losses, electrolyte context, and the limits of universal intake targets.
@@ -3443,6 +3444,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Led Sales: He Learned to Sell and Closed 50 Customers](sources/d5efc401.md) — The SaaS Podcast episode with Shahar Azulay on Groundcover's eBPF and bring-your-own-cloud architecture, founder-led sales, infrastructure-based pricing, and incumbent replacement migration.
 
 ## Entities
+- [Anatoly Sobchak](entities/AnatolySobchak.md) — St. Petersburg mayor and constitutional contributor who served as Vladimir Putin's professor, patron, and political superior.
+- [Boris Yeltsin](entities/BorisYeltsin.md) — Post-Soviet Russian president linking rapid market transition, executive concentration, oligarchic power, Chechen war, and Putin's succession.
+- [Yegor Gaidar](entities/YegorGaidar.md) — Russian reformer associated with rapid price liberalization and the social and political backlash to shock therapy.
 - [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian and Rest Is History co-host interpreting Putin through post-Soviet instability, legitimacy, grievance, and war-exit constraints.
 - [Peter Pomerantsev](entities/PeterPomerantsev.md) — Author whose work supplies the episode's framework for managed media, staged opposition, and destabilized political reality.
 - [Ferdinand Maximilian](entities/FerdinandMaximilian.md) — Liberal Habsburg archduke whose foreign-backed Mexican throne ended at Queretaro in 1867.
@@ -15326,6 +15330,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Post-Soviet Shock Therapy](concepts/PostSovietShockTherapy.md) — Rapid market transition joining price liberalization to fixed-income losses, enterprise-welfare collapse, political backlash, and later demand for order.
+- [Oligarchic Privatization Capture](concepts/OligarchicPrivatizationCapture.md) — Concentration of nominally broad public assets through distress sales, insider access, weak enforcement, and political exchange.
 - [Managed Reality Authoritarianism](concepts/ManagedRealityAuthoritarianism.md) — Authoritarian control through television, staged pluralism, and proliferating narratives that destabilize shared truth.
 - [Authoritarian Stability Legitimation](concepts/AuthoritarianStabilityLegitimation.md) — Conversion of order, recovery, coercive competence, and restored status into support for concentrated power.
 - [Foreign-Backed Monarchy Legitimacy](concepts/ForeignBackedMonarchyLegitimacy.md) — Difficulty of converting an externally sponsored dynastic claim into accepted domestic authority.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2958
+topic_total_pages: 2960
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4952,6 +4952,9 @@ topic_entities:
   - key: "AnaLankas"
     title: "Ana Lankas"
     url: "/wiki/entities/analankas/"
+  - key: "AnatolySobchak"
+    title: "Anatoly Sobchak"
+    url: "/wiki/entities/anatolysobchak/"
   - key: "AndrewGradman"
     title: "Andrew Gradman"
     url: "/wiki/entities/andrewgradman/"
@@ -5129,6 +5132,9 @@ topic_entities:
   - key: "BorisJohnson"
     title: "Boris Johnson"
     url: "/wiki/entities/borisjohnson/"
+  - key: "BorisYeltsin"
+    title: "Boris Yeltsin"
+    url: "/wiki/entities/borisyeltsin/"
   - key: "BostonMassacre"
     title: "Boston Massacre"
     url: "/wiki/entities/bostonmassacre/"

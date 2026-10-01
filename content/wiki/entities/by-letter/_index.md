@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11844
+wiki_total_pages: 11847
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1043,6 +1043,9 @@ wiki_pages:
   - key: "AnatolyFomenko"
     title: "Anatoly Fomenko / 福缅科"
     url: "/wiki/entities/anatolyfomenko/"
+  - key: "AnatolySobchak"
+    title: "Anatoly Sobchak"
+    url: "/wiki/entities/anatolysobchak/"
   - key: "Anaya"
     title: "Anaya / 阿那亚"
     url: "/wiki/entities/anaya/"

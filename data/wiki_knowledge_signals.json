@@ -10483,6 +10483,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/anarchyenglishcivilwar/"
     },
+    "AnatolySobchak": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3048619920 [GLT3048619920].md",
+          "key": "161-yeltsin-economic-chaos-and-president-putin-glt3048619920",
+          "show": "The Rest Is History",
+          "title": "161. Yeltsin, Economic Chaos and President Putin",
+          "url": "/wiki/sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/anatolysobchak/"
+    },
     "AnatomyConstrainedExerciseSelection": {
       "episode_count": 1,
       "show_count": 1,
@@ -16617,9 +16633,9 @@
       "url": "/wiki/concepts/authoritariansportspropaganda/"
     },
     "AuthoritarianStabilityLegitimation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4575290976 [GLT4575290976].md",
@@ -16627,6 +16643,13 @@
           "show": "The Rest Is History",
           "title": "162. Putin's Russia",
           "url": "/wiki/sources/162-putins-russia-glt4575290976/"
+        },
+        {
+          "episode_file": "GLT3048619920 [GLT3048619920].md",
+          "key": "161-yeltsin-economic-chaos-and-president-putin-glt3048619920",
+          "show": "The Rest Is History",
+          "title": "161. Yeltsin, Economic Chaos and President Putin",
+          "url": "/wiki/sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920/"
         }
       ],
       "updated": "2026-10-02",
@@ -22715,6 +22738,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/borisjohnson/"
+    },
+    "BorisYeltsin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3048619920 [GLT3048619920].md",
+          "key": "161-yeltsin-economic-chaos-and-president-putin-glt3048619920",
+          "show": "The Rest Is History",
+          "title": "161. Yeltsin, Economic Chaos and President Putin",
+          "url": "/wiki/sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/borisyeltsin/"
     },
     "BorrowedKnifeKilling": {
       "episode_count": 2,
@@ -139699,6 +139738,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/olfactorytraining/"
     },
+    "OligarchicPrivatizationCapture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3048619920 [GLT3048619920].md",
+          "key": "161-yeltsin-economic-chaos-and-president-putin-glt3048619920",
+          "show": "The Rest Is History",
+          "title": "161. Yeltsin, Economic Chaos and President Putin",
+          "url": "/wiki/sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/oligarchicprivatizationcapture/"
+    },
     "Olipop": {
       "episode_count": 1,
       "show_count": 1,
@@ -150033,9 +150088,9 @@
       "url": "/wiki/concepts/postcnutenglishsuccessioncrisis/"
     },
     "PostColdWarOrderRupture": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4625765030 [GLT4625765030].md",
@@ -150050,6 +150105,13 @@
           "show": "The Rest Is History",
           "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
           "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
+        },
+        {
+          "episode_file": "GLT3048619920 [GLT3048619920].md",
+          "key": "161-yeltsin-economic-chaos-and-president-putin-glt3048619920",
+          "show": "The Rest Is History",
+          "title": "161. Yeltsin, Economic Chaos and President Putin",
+          "url": "/wiki/sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920/"
         }
       ],
       "updated": "2026-10-01",
@@ -150330,6 +150392,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/postrevolutionaryconservatism/"
+    },
+    "PostSovietShockTherapy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3048619920 [GLT3048619920].md",
+          "key": "161-yeltsin-economic-chaos-and-president-putin-glt3048619920",
+          "show": "The Rest Is History",
+          "title": "161. Yeltsin, Economic Chaos and President Putin",
+          "url": "/wiki/sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/postsovietshocktherapy/"
     },
     "PostSuccessArrogance": {
       "episode_count": 6,
@@ -194775,9 +194853,9 @@
       "url": "/wiki/entities/vivekmurthy/"
     },
     "VladimirPutin": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Far Crimea： war comes to Russia’s door [6a3e560c26d5a6687a90c658].md",
@@ -194806,6 +194884,13 @@
           "show": "The Rest Is History",
           "title": "162. Putin's Russia",
           "url": "/wiki/sources/162-putins-russia-glt4575290976/"
+        },
+        {
+          "episode_file": "GLT3048619920 [GLT3048619920].md",
+          "key": "161-yeltsin-economic-chaos-and-president-putin-glt3048619920",
+          "show": "The Rest Is History",
+          "title": "161. Yeltsin, Economic Chaos and President Putin",
+          "url": "/wiki/sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920/"
         }
       ],
       "updated": "2026-10-02",
@@ -207886,6 +207971,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/yelumureka/"
+    },
+    "YegorGaidar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3048619920 [GLT3048619920].md",
+          "key": "161-yeltsin-economic-chaos-and-president-putin-glt3048619920",
+          "show": "The Rest Is History",
+          "title": "161. Yeltsin, Economic Chaos and President Putin",
+          "url": "/wiki/sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/yegorgaidar/"
     },
     "YelangKingXingWesternHan": {
       "episode_count": 2,

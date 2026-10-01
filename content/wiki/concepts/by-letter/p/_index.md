@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9182
+wiki_total_pages: 9184
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1334,6 +1334,9 @@ wiki_pages:
   - key: "PostSearchInternet"
     title: "Post-Search Internet"
     url: "/wiki/concepts/postsearchinternet/"
+  - key: "PostSovietShockTherapy"
+    title: "Post-Soviet Shock Therapy"
+    url: "/wiki/concepts/postsovietshocktherapy/"
   - key: "PostSuccessArrogance"
     title: "Post-Success Arrogance / 得势后的骄傲"
     url: "/wiki/concepts/postsuccessarrogance/"

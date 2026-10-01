@@ -11448,6 +11448,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AnatolySobchak": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Anbi": [
     {
       "key": "technology",
@@ -16186,6 +16193,13 @@
     }
   ],
   "BorisJohnson": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "BorisYeltsin": [
     {
       "key": "politics",
       "label": "Politics",
@@ -86963,6 +86977,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "YegorGaidar": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "Yemen": [

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2155
+topic_total_pages: 2156
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5273,6 +5273,9 @@ topic_entities:
   - key: "YaserGonzalezCabrera"
     title: "Yaser Gonzalez Cabrera"
     url: "/wiki/entities/yasergonzalezcabrera/"
+  - key: "YegorGaidar"
+    title: "Yegor Gaidar"
+    url: "/wiki/entities/yegorgaidar/"
   - key: "YinWu"
     title: "Yin Wu"
     url: "/wiki/entities/yinwu/"
