@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [192. Robin Hood](sources/192-robin-hood-glt1296880830.md) — The Rest Is History episode separating the violent medieval yeoman outlaw from the later aristocratic, romantic, philanthropic, and political Robin Hood legend.
 - [Therapy, Treating Trauma & Other Life Challenges | Dr. Paul Conti](sources/therapy-treating-trauma-other-life-challenges-dr-paul-conti-scim9741490707.md) — Huberman Lab interview on functional trauma recognition, witnessing and language, observing ego, therapy fit and intensity, medication support, and clinical boundaries.
 - [193. How Prime Ministers Fall](sources/193-how-prime-ministers-fall-glt7608869237.md) — The Rest Is History episode on Boris Johnson's June 2022 confidence vote and the historical mechanisms by which British prime ministers lose usable authority.
 - [194. The First Fascist](sources/194-the-first-fascist-glt5479566212.md) — The Rest Is History episode on D'Annunzio's literary celebrity, war nationalism, Fiume occupation, fascist political theatre, and the boundary between performative precursor and governing dictator.
@@ -3393,6 +3394,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [199. Stonehenge](sources/199-stonehenge-glt3612348466.md) — The Rest Is History conversation with Mike Pitts on Stonehenge's changing phases, stone transport, burials, solstice alignment, collective construction, and archaeological uncertainty.
 
 ## Entities
+- [Robin Hood (Legend)](entities/RobinHoodLegend.md) — English outlaw hero whose medieval violence, devotion, trickery, and uncertain origin were later remade into a noble philanthropic icon.
 - [Robert Walpole](entities/RobertWalpole.md) — Long-serving early British premier whose wartime reverses and one-vote Commons defeat exposed terminal political weakness.
 - [Theresa May](entities/TheresaMay.md) — British prime minister whose confidence-vote survival did not reverse the long erosion of authority after the 2017 election.
 - [Lucy Hughes-Hallett](entities/LucyHughesHallett.md) — Biographer interpreting D'Annunzio's literary power, abuse, wartime courage, Fiume politics, and influence on fascist style.
@@ -15183,6 +15185,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Helene Langevin](entities/HeleneLangevin.md) — Researcher cited for fascia, stretching, inflammation, fibrosis, and animal-tumor work whose clinical implications remain explicitly bounded.
 
 ## Concepts
+- [Robin Hood Legend Accretion](concepts/RobinHoodLegendAccretion.md) — Process by which medieval ballad, ritual, Romantic, children's, screen, and political layers formed the familiar modern outlaw hero.
 - [Prime Ministerial Regicide](concepts/PrimeMinisterialRegicide.md) — Framework for party rebellion, parliamentary loss, cabinet withdrawal, and crisis-driven erosion that can make formal survival politically hollow.
 - [Fascist Political Theatre](concepts/FascistPoliticalTheatre.md) — Leader-centered ritual using crowd dialogue, uniforms, gesture, song, procession, and sacrifice to turn spectacle into emotional authority.
 - [Ptolemaic Bicultural Kingship](concepts/PtolemaicBiculturalKingship.md) — Combined Macedonian Greek dynastic identity and Egyptian pharaonic legitimacy inherited and intensified by Cleopatra.

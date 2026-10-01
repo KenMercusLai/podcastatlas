@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9103
+wiki_total_pages: 9104
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -992,6 +992,9 @@ wiki_pages:
   - key: "RoastBeefEnglishIdentity"
     title: "Roast Beef and English Identity"
     url: "/wiki/concepts/roastbeefenglishidentity/"
+  - key: "RobinHoodLegendAccretion"
+    title: "Robin Hood Legend Accretion"
+    url: "/wiki/concepts/robinhoodlegendaccretion/"
   - key: "RoboAdvisorHybridService"
     title: "Robo-Advisor Hybrid Service / 人机结合投顾"
     url: "/wiki/concepts/roboadvisorhybridservice/"

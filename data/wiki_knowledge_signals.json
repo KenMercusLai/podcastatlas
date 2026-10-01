@@ -159276,6 +159276,38 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/robincarhartharris/"
     },
+    "RobinHoodLegend": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1296880830 [GLT1296880830].md",
+          "key": "192-robin-hood-glt1296880830",
+          "show": "The Rest Is History",
+          "title": "192. Robin Hood",
+          "url": "/wiki/sources/192-robin-hood-glt1296880830/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/robinhoodlegend/"
+    },
+    "RobinHoodLegendAccretion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1296880830 [GLT1296880830].md",
+          "key": "192-robin-hood-glt1296880830",
+          "show": "The Rest Is History",
+          "title": "192. Robin Hood",
+          "url": "/wiki/sources/192-robin-hood-glt1296880830/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/robinhoodlegendaccretion/"
+    },
     "RobotAgenticOS": {
       "episode_count": 1,
       "show_count": 1,
