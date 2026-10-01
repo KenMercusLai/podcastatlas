@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [137. 1922: The Birth of the Modern World Part 2](sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494.md) — The Rest Is History on radio and the BBC, American cultural power, Irish civil war, Ottoman collapse, imperial retreat, and Britain's 1922 party realignment.
 - [The Science of Setting & Achieving Goals](sources/the-science-of-setting-achieving-goals-scim1292734289.md) — Huberman Lab episode on goal difficulty, action planning, visual focus, dopamine-based progress signals, and qualified visualization tools.
 - [Science of Mindsets for Health & Performance | Dr. Alia Crum](sources/science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820.md) — Huberman Lab interview on mindset effects across food, exercise, stress, feedback, treatment, physiology, and their evidence boundaries.
 - [140. The Birth of the Railways](sources/140-the-birth-of-the-railways-glt2177757841.md) — The Rest Is History with Dan Jackson on coal-driven railway origins, the Stephensons, landmark early lines, private expansion, and Victorian social transformation.
@@ -3476,6 +3477,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [Michael Collins (Irish revolutionary)](entities/MichaelCollinsIrishRevolutionary.md) — Irish treaty negotiator and pro-treaty commander, disambiguated from the Apollo 11 astronaut.
 - [Edward IV](entities/EdwardIV.md) — Yorkist warrior-king whose Woodville marriage, restoration, patronage, and sudden death shaped the fragile 1483 succession.
 - [Edward V](entities/EdwardV.md) — Sanctuary-born Ludlow heir whose preparation for rule ended in seizure, delegitimation, and disappearance.
 - [Richard of Shrewsbury](entities/RichardOfShrewsbury.md) — Younger dynastic reserve transferred from sanctuary to the Tower before disappearing with Edward V.
@@ -15420,6 +15422,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Mass Broadcast Culture](concepts/MassBroadcastCulture.md) — Shared-audience culture formed through radio, film, news spectacle, and institutional gatekeepers, with later fragmentation as a qualification.
+- [Imperial Retrenchment After the First World War](concepts/ImperialRetrenchmentAfterFirstWorldWar.md) — Gap between formal imperial reach and reduced fiscal, naval, and political command after 1918.
+- [Irish Treaty-Civil War Split](concepts/IrishTreatyCivilWarSplit.md) — Mechanism by which partial sovereignty, the oath, and partition divided an independence movement into civil conflict.
+- [Ethnonational State Formation After Empire](concepts/EthnonationalStateFormationAfterEmpire.md) — Replacement of plural imperial space by nationally bounded successor states through war, mandate, and displacement.
+- [British Two-Party Realignment of 1922](concepts/BritishTwoPartyRealignment1922.md) — Carlton Club rupture and election shift from coalition and Liberal division toward Conservative-Labour competition.
 - [Royal Minority Custody Politics](concepts/RoyalMinorityCustodyPolitics.md) — How pre-accession households and physical access to a child monarch shape information, ceremony, force, and government.
 - [Usurpation Escalation Trap](concepts/UsurpationEscalationTrap.md) — How improvised coercion creates new risks that make further removal, delegitimation, and violence attractive.
 - [British Railway Revolution](concepts/BritishRailwayRevolution.md) — Cumulative alignment of tracks, steam, coal demand, engineering, finance, and permission behind Britain's railway system.

@@ -448,6 +448,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "137-1922-the-birth-of-the-modern-world-part-2-glt5281126494": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1": [
     {
       "key": "technology",
@@ -16845,6 +16852,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "BritishTwoPartyRealignment1922": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "BroadcastCentralization": [
@@ -41869,6 +41883,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ImperialRetrenchmentAfterFirstWorldWar": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ImperialRiseDeclineCycle": [
     {
       "key": "history",
@@ -52268,6 +52289,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "MassBroadcastCulture": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MassParticipationSportsEventMoat": [
     {
       "key": "culture",
@@ -53548,6 +53576,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "MichaelCollinsIrishRevolutionary": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "MichaelCoppenheifer": [

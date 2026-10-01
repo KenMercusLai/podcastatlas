@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9231
+wiki_total_pages: 9236
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "ImperialRestorationParadox"
     title: "Imperial Restoration Paradox"
     url: "/wiki/concepts/imperialrestorationparadox/"
+  - key: "ImperialRetrenchmentAfterFirstWorldWar"
+    title: "Imperial Retrenchment After the First World War"
+    url: "/wiki/concepts/imperialretrenchmentafterfirstworldwar/"
   - key: "ImperialRiseDeclineCycle"
     title: "Imperial Rise and Decline Cycle"
     url: "/wiki/concepts/imperialrisedeclinecycle/"
@@ -1013,6 +1016,9 @@ wiki_pages:
   - key: "IrishPlantation"
     title: "Irish Plantation"
     url: "/wiki/concepts/irishplantation/"
+  - key: "IrishTreatyCivilWarSplit"
+    title: "Irish Treaty-Civil War Split"
+    url: "/wiki/concepts/irishtreatycivilwarsplit/"
   - key: "IronDeficiencyAnemiaManagement"
     title: "Iron Deficiency Anemia Management"
     url: "/wiki/concepts/irondeficiencyanemiamanagement/"

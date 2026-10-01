@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9231
+wiki_total_pages: 9236
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "BritishSmugglingTaxState"
     title: "British Smuggling and the Tax State"
     url: "/wiki/concepts/britishsmugglingtaxstate/"
+  - key: "BritishTwoPartyRealignment1922"
+    title: "British Two-Party Realignment of 1922"
+    url: "/wiki/concepts/britishtwopartyrealignment1922/"
   - key: "BroadcastCentralization"
     title: "Broadcast Centralization"
     url: "/wiki/concepts/broadcastcentralization/"

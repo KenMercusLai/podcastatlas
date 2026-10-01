@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3007
+topic_total_pages: 3008
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1789,6 +1789,9 @@ topic_concepts:
   - key: "MarketFreshnessCulture"
     title: "Market Freshness Culture"
     url: "/wiki/concepts/marketfreshnessculture/"
+  - key: "MassBroadcastCulture"
+    title: "Mass Broadcast Culture"
+    url: "/wiki/concepts/massbroadcastculture/"
   - key: "MassParticipationSportsEventMoat"
     title: "Mass Participation Sports Event Moat"
     url: "/wiki/concepts/massparticipationsportseventmoat/"

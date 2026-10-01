@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11903
+wiki_total_pages: 11904
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1049,6 +1049,9 @@ wiki_pages:
   - key: "MichaelCollins"
     title: "Michael Collins"
     url: "/wiki/entities/michaelcollins/"
+  - key: "MichaelCollinsIrishRevolutionary"
+    title: "Michael Collins (Irish revolutionary)"
+    url: "/wiki/entities/michaelcollinsirishrevolutionary/"
   - key: "MichaelCoppenheifer"
     title: "Michael Coppenheifer"
     url: "/wiki/entities/michaelcoppenheifer/"

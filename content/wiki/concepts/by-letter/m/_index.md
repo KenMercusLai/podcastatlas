@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9231
+wiki_total_pages: 9236
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "MasonicSecrecyConspiracyFeedback"
     title: "Masonic Secrecy–Conspiracy Feedback"
     url: "/wiki/concepts/masonicsecrecyconspiracyfeedback/"
+  - key: "MassBroadcastCulture"
+    title: "Mass Broadcast Culture"
+    url: "/wiki/concepts/massbroadcastculture/"
   - key: "MassParticipationSportsEventMoat"
     title: "Mass Participation Sports Event Moat"
     url: "/wiki/concepts/massparticipationsportseventmoat/"

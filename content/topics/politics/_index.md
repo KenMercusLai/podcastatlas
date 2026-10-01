@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2971
+topic_total_pages: 2974
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -535,6 +535,9 @@ topic_concepts:
   - key: "BritishMediaExclusionOnlineAmplification"
     title: "British Media Exclusion Online Amplification"
     url: "/wiki/concepts/britishmediaexclusiononlineamplification/"
+  - key: "BritishTwoPartyRealignment1922"
+    title: "British Two-Party Realignment of 1922"
+    url: "/wiki/concepts/britishtwopartyrealignment1922/"
   - key: "BuddhistMiraclePolitics"
     title: "Buddhist Miracle Politics / 佛教神通政治"
     url: "/wiki/concepts/buddhistmiraclepolitics/"
@@ -1918,6 +1921,9 @@ topic_concepts:
   - key: "ImperialPrestigeVindication"
     title: "Imperial Prestige Vindication"
     url: "/wiki/concepts/imperialprestigevindication/"
+  - key: "ImperialRetrenchmentAfterFirstWorldWar"
+    title: "Imperial Retrenchment After the First World War"
+    url: "/wiki/concepts/imperialretrenchmentafterfirstworldwar/"
   - key: "ImperialSubsidiarity"
     title: "Imperial Subsidiarity"
     url: "/wiki/concepts/imperialsubsidiarity/"
@@ -6350,6 +6356,9 @@ topic_entities:
   - key: "MelanieBenish"
     title: "Melanie Benish"
     url: "/wiki/entities/melaniebenish/"
+  - key: "MichaelCollinsIrishRevolutionary"
+    title: "Michael Collins (Irish revolutionary)"
+    url: "/wiki/entities/michaelcollinsirishrevolutionary/"
   - key: "MichaelFoot"
     title: "Michael Foot / 迈克尔·富特"
     url: "/wiki/entities/michaelfoot/"

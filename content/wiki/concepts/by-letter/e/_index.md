@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9231
+wiki_total_pages: 9236
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "EthnographicEverydayFriction"
     title: "Ethnographic Everyday Friction / 民族志日常摩擦"
     url: "/wiki/concepts/ethnographiceverydayfriction/"
+  - key: "EthnonationalStateFormationAfterEmpire"
+    title: "Ethnonational State Formation After Empire"
+    url: "/wiki/concepts/ethnonationalstateformationafterempire/"
   - key: "ETNCreditRisk"
     title: "ETN Credit Risk"
     url: "/wiki/concepts/etncreditrisk/"

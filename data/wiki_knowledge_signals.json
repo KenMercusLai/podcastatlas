@@ -17605,9 +17605,9 @@
       "url": "/wiki/entities/azure/"
     },
     "BBC": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "80.间谍与叛徒：恕我直言，007的故事弱爆了 (上) [691866649].md",
@@ -17643,9 +17643,16 @@
           "show": "The Rest Is History",
           "title": "171. The Falklands War: Battle for the Islands (Part 3)",
           "url": "/wiki/sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480/"
+        },
+        {
+          "episode_file": "GLT5281126494 [GLT5281126494].md",
+          "key": "137-1922-the-birth-of-the-modern-world-part-2-glt5281126494",
+          "show": "The Rest Is History",
+          "title": "137. 1922: The Birth of the Modern World Part 2",
+          "url": "/wiki/sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494/"
         }
       ],
-      "updated": "2026-08-06",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/bbc/"
     },
     "BPC157ExperimentalRepairPeptide": {
@@ -24795,6 +24802,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/britishsmugglingtaxstate/"
+    },
+    "BritishTwoPartyRealignment1922": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5281126494 [GLT5281126494].md",
+          "key": "137-1922-the-birth-of-the-modern-world-part-2-glt5281126494",
+          "show": "The Rest Is History",
+          "title": "137. 1922: The Birth of the Modern World Part 2",
+          "url": "/wiki/sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/britishtwopartyrealignment1922/"
     },
     "BritishUnionOfFascists": {
       "episode_count": 2,
@@ -61959,6 +61982,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/ethicaltriageunderscarcity/"
     },
+    "EthnonationalStateFormationAfterEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5281126494 [GLT5281126494].md",
+          "key": "137-1922-the-birth-of-the-modern-world-part-2-glt5281126494",
+          "show": "The Rest Is History",
+          "title": "137. 1922: The Birth of the Modern World Part 2",
+          "url": "/wiki/sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/ethnonationalstateformationafterempire/"
+    },
     "EtienneCharlesDeLomenieDeBrienne": {
       "episode_count": 1,
       "show_count": 1,
@@ -95958,6 +95997,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/imperialretinuediscipline/"
     },
+    "ImperialRetrenchmentAfterFirstWorldWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5281126494 [GLT5281126494].md",
+          "key": "137-1922-the-birth-of-the-modern-world-part-2-glt5281126494",
+          "show": "The Rest Is History",
+          "title": "137. 1922: The Birth of the Modern World Part 2",
+          "url": "/wiki/sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/imperialretrenchmentafterfirstworldwar/"
+    },
     "ImperialRiseDeclineCycle": {
       "episode_count": 1,
       "show_count": 1,
@@ -100020,6 +100075,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/irishrepublicanbrotherhood/"
+    },
+    "IrishTreatyCivilWarSplit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5281126494 [GLT5281126494].md",
+          "key": "137-1922-the-birth-of-the-modern-world-part-2-glt5281126494",
+          "show": "The Rest Is History",
+          "title": "137. 1922: The Birth of the Modern World Part 2",
+          "url": "/wiki/sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/irishtreatycivilwarsplit/"
     },
     "IrishVolunteers": {
       "episode_count": 1,
@@ -126960,6 +127031,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/masonicsecrecyconspiracyfeedback/"
     },
+    "MassBroadcastCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5281126494 [GLT5281126494].md",
+          "key": "137-1922-the-birth-of-the-modern-world-part-2-glt5281126494",
+          "show": "The Rest Is History",
+          "title": "137. 1922: The Birth of the Modern World Part 2",
+          "url": "/wiki/sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/massbroadcastculture/"
+    },
     "MassPoliticalCampaigning": {
       "episode_count": 2,
       "show_count": 1,
@@ -130297,6 +130384,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/michaelcollins/"
+    },
+    "MichaelCollinsIrishRevolutionary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5281126494 [GLT5281126494].md",
+          "key": "137-1922-the-birth-of-the-modern-world-part-2-glt5281126494",
+          "show": "The Rest Is History",
+          "title": "137. 1922: The Birth of the Modern World Part 2",
+          "url": "/wiki/sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/michaelcollinsirishrevolutionary/"
     },
     "MichaelDJones": {
       "episode_count": 1,
@@ -134951,9 +135054,9 @@
       "url": "/wiki/concepts/musictasktiming/"
     },
     "MustafaKemalAtaturk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -134968,9 +135071,16 @@
           "show": "The Rest Is History",
           "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
           "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
+        },
+        {
+          "episode_file": "GLT5281126494 [GLT5281126494].md",
+          "key": "137-1922-the-birth-of-the-modern-world-part-2-glt5281126494",
+          "show": "The Rest Is History",
+          "title": "137. 1922: The Birth of the Modern World Part 2",
+          "url": "/wiki/sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/mustafakemalataturk/"
     },
     "MutualExhaustionThirdPartyGain": {
