@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2993
+topic_total_pages: 2994
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -394,6 +394,9 @@ topic_concepts:
   - key: "AudienceBackedRetailPitch"
     title: "Audience-Backed Retail Pitch"
     url: "/wiki/concepts/audiencebackedretailpitch/"
+  - key: "AustralianMateship"
+    title: "Australian Mateship"
+    url: "/wiki/concepts/australianmateship/"
   - key: "AustralianNonTraditionalMedicineTradition"
     title: "Australian Non-Traditional Medicine Tradition / 澳洲非传统医疗传统"
     url: "/wiki/concepts/australiannontraditionalmedicinetradition/"

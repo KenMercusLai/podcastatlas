@@ -26741,3 +26741,11 @@ Added source `boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-sc
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 187. Australian Prime Ministers: Edmund Barton - Robert Menzies (Part 1)
+
+Added source `187-australian-prime-ministers-edmund-barton-robert-menzies-part-1-glt3017584065`; created `EdmundBarton`, `RobertMenzies`, `JohnCurtin`, `BenChifley`, `BillyHughes`, `AustralianMateship`, `WhiteAustraliaPolicy`, `AustralianStrategicRealignment`, and `ForgottenPeoplePolitics`. Core synthesis: early Australian politics joined federation, egalitarian reform, mateship, sectarian and imperial identity, and racial exclusion; wartime vulnerability then drove Curtin's strategic turn toward the United States without erasing British identification, before Menzies built a durable suburban, anti-communist conservative coalition. No settled contradiction was adopted. National-character claims, sectarian voting, living standards, Churchill's priorities, Petrov's electoral effect, private motives, and judgments of political greatness remain interpretive or source-scoped, while Indigenous history receives insufficient depth. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,343-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, synthesis, index coverage, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

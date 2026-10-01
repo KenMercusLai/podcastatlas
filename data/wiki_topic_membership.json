@@ -1296,6 +1296,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "187-australian-prime-ministers-edmund-barton-robert-menzies-part-1-glt3017584065": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166": [
     {
       "key": "culture",
@@ -13251,6 +13258,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AustralianMateship": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "AustralianNonTraditionalMedicineTradition": [
     {
       "key": "culture",
@@ -14611,6 +14625,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "BenChifley": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BenHo": [
     {
       "key": "economics",
@@ -15159,6 +15180,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "BillyHughes": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "BinaryActionThinking": [
@@ -27901,6 +27929,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "EdmundBarton": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EdouardPhilippe": [
     {
       "key": "politics",
@@ -32591,6 +32626,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ForgottenPeoplePolitics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FormulaOne": [
@@ -44529,6 +44571,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "JohnCurtin": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JohnDoerr": [
@@ -66935,6 +66984,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "RobertMenzies": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RobertMorris": [
     {
       "key": "economics",
@@ -83709,6 +83765,13 @@
     }
   ],
   "WhistleblowerLegalIntimidation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "WhiteAustraliaPolicy": [
     {
       "key": "politics",
       "label": "Politics",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [187. Australian Prime Ministers: Edmund Barton - Robert Menzies (Part 1)](sources/187-australian-prime-ministers-edmund-barton-robert-menzies-part-1-glt3017584065.md) — The Rest Is History survey of federation, mateship and racial exclusion, Curtin's wartime U.S. turn, Chifley, and Menzies's suburban anti-communist coalition.
 - [Boost Attention & Memory with Science-Based Tools | Dr. Wendy Suzuki](sources/boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096.md) — Huberman Lab interview on memory-encoding levers, hippocampal association, exercise-linked cognitive resilience, brief meditation, and explicit evidence boundaries.
 - [190. Jubilees](sources/190-jubilees-glt4093596173.md) — The Rest Is History episode on royal jubilees as snapshots of wartime morale, imperial confidence, economic anxiety, and media-age monarchical adaptation.
 - [The Science & Process of Healing from Grief](sources/the-science-process-of-healing-from-grief-scim7724129089.md) — Full Huberman Lab episode on grief as attachment remapping, continued bonds, structured grieving, physiology, sleep, circadian support, and clinical boundaries.
@@ -3400,6 +3401,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [188. Australian Prime Ministers: Harold Holt - Malcolm Fraser (Part 2)](sources/188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602.md) — The Rest Is History survey of Holt through Fraser, Whitlam's reform agenda, the Loans Affair, blocked supply, and the 1975 dismissal.
 
 ## Entities
+- [Edmund Barton](entities/EdmundBarton.md) — Australia's first prime minister and federation-era fair-play figure.
+- [Robert Menzies](entities/RobertMenzies.md) — Anglophile wartime and long postwar Liberal prime minister.
+- [John Curtin](entities/JohnCurtin.md) — Labor war leader associated with Australia's strategic turn toward the United States.
+- [Ben Chifley](entities/BenChifley.md) — Labor prime minister and postwar social-democratic reconstruction leader.
+- [Billy Hughes](entities/BillyHughes.md) — Australian prime minister used as evidence of wartime imperial identification.
 - [Wendy Suzuki](entities/WendySuzuki.md) — Neuroscientist connecting hippocampal memory research with bounded exercise, meditation, sleep, and attention practices.
 - [Sara Read](entities/SaraRead.md) — Literary historian connecting early-modern reproductive experience, medical texts, female practical knowledge, and changing birth institutions.
 - [Jane Sharp](entities/JaneSharp.md) — Seventeenth-century English midwife-writer who joined theoretical learning, practical experience, and religious duty.
@@ -15210,6 +15216,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Kerr](entities/JohnKerr.md) — Governor-general who dismissed Whitlam and commissioned Fraser during the 1975 constitutional crisis.
 
 ## Concepts
+- [Australian Mateship](concepts/AustralianMateship.md) — Egalitarian solidarity ideal qualified by masculine and racial exclusion.
+- [White Australia Policy](concepts/WhiteAustraliaPolicy.md) — Racially restrictive immigration regime embedded in early federation.
+- [Australian Strategic Realignment](concepts/AustralianStrategicRealignment.md) — Wartime shift from British imperial defense toward U.S.-centered security.
+- [Forgotten People Politics](concepts/ForgottenPeoplePolitics.md) — Menzies's home-owning suburban and middle-class conservative coalition.
 - [Memory Encoding Levers](concepts/MemoryEncodingLevers.md) — Four-part framework in which novelty, repetition, association, and emotional resonance support memorability without guaranteeing accuracy.
 - [Hippocampal Associative Memory](concepts/HippocampalAssociativeMemory.md) — Model of hippocampal context binding linking episodic encoding, identity, imagination, and future simulation.
 - [Exercise-Linked Cognitive Resilience](concepts/ExerciseLinkedCognitiveResilience.md) — Bounded synthesis of acute exercise effects, longer-term training, cognitive aging, candidate mechanisms, and unresolved dose questions.

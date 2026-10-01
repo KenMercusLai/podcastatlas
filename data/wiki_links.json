@@ -803,6 +803,10 @@
     "title": "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》",
     "url": "/wiki/sources/186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210/"
   },
+  "187-australian-prime-ministers-edmund-barton-robert-menzies-part-1-glt3017584065": {
+    "title": "187. Australian Prime Ministers: Edmund Barton - Robert Menzies (Part 1)",
+    "url": "/wiki/sources/187-australian-prime-ministers-edmund-barton-robert-menzies-part-1-glt3017584065/"
+  },
   "187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166": {
     "title": "187.豌豆公主：高敏和混沌是你真名",
     "url": "/wiki/sources/187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166/"
@@ -9087,9 +9091,17 @@
     "title": "Australian Healthcare Access Triage / 澳洲医疗可及性分诊",
     "url": "/wiki/concepts/australianhealthcareaccesstriage/"
   },
+  "AustralianMateship": {
+    "title": "Australian Mateship",
+    "url": "/wiki/concepts/australianmateship/"
+  },
   "AustralianNonTraditionalMedicineTradition": {
     "title": "Australian Non-Traditional Medicine Tradition / 澳洲非传统医疗传统",
     "url": "/wiki/concepts/australiannontraditionalmedicinetradition/"
+  },
+  "AustralianStrategicRealignment": {
+    "title": "Australian Strategic Realignment",
+    "url": "/wiki/concepts/australianstrategicrealignment/"
   },
   "AustralianTherapeuticGoodsRegulation": {
     "title": "Australian Therapeutic Goods Regulation / 澳洲保健品监管",
@@ -10635,6 +10647,10 @@
     "title": "Ben Castleman",
     "url": "/wiki/entities/bencastleman/"
   },
+  "BenChifley": {
+    "title": "Ben Chifley",
+    "url": "/wiki/entities/benchifley/"
+  },
   "BenGoldhersh": {
     "title": "Ben Goldhersh",
     "url": "/wiki/entities/bengoldhersh/"
@@ -11126,6 +11142,10 @@
   "BillyButlin": {
     "title": "Billy Butlin",
     "url": "/wiki/entities/billybutlin/"
+  },
+  "BillyHughes": {
+    "title": "Billy Hughes",
+    "url": "/wiki/entities/billyhughes/"
   },
   "BillyReid": {
     "title": "Billy Reid",
@@ -24287,6 +24307,10 @@
     "title": "Edmond Halley / 哈雷",
     "url": "/wiki/entities/edmondhalley/"
   },
+  "EdmundBarton": {
+    "title": "Edmund Barton",
+    "url": "/wiki/entities/edmundbarton/"
+  },
   "EdmundCampion": {
     "title": "Edmund Campion",
     "url": "/wiki/entities/edmundcampion/"
@@ -28914,6 +28938,10 @@
   "ForgettingAsCognitiveFunction": {
     "title": "Forgetting As Cognitive Function / 遗忘作为认知功能",
     "url": "/wiki/concepts/forgettingascognitivefunction/"
+  },
+  "ForgottenPeoplePolitics": {
+    "title": "Forgotten People Politics",
+    "url": "/wiki/concepts/forgottenpeoplepolitics/"
   },
   "FormalSpecification": {
     "title": "Formal Specification",
@@ -40958,6 +40986,10 @@
   "JohnCoogan": {
     "title": "John Coogan",
     "url": "/wiki/entities/johncoogan/"
+  },
+  "JohnCurtin": {
+    "title": "John Curtin",
+    "url": "/wiki/entities/johncurtin/"
   },
   "JohnDee": {
     "title": "John Dee",
@@ -64427,6 +64459,10 @@
     "title": "Robert Malenka",
     "url": "/wiki/entities/robertmalenka/"
   },
+  "RobertMenzies": {
+    "title": "Robert Menzies",
+    "url": "/wiki/entities/robertmenzies/"
+  },
   "RobertMercer": {
     "title": "Robert Mercer",
     "url": "/wiki/entities/robertmercer/"
@@ -79958,6 +79994,10 @@
   "Whistler": {
     "title": "Whistler / 惠斯勒",
     "url": "/wiki/entities/whistler/"
+  },
+  "WhiteAustraliaPolicy": {
+    "title": "White Australia Policy",
+    "url": "/wiki/concepts/whiteaustraliapolicy/"
   },
   "WhiteBearEffect": {
     "title": "White Bear Effect / 白熊效应",

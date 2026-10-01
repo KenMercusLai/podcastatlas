@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11772
+wiki_total_pages: 11777
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "RobertMalenka"
     title: "Robert Malenka"
     url: "/wiki/entities/robertmalenka/"
+  - key: "RobertMenzies"
+    title: "Robert Menzies"
+    url: "/wiki/entities/robertmenzies/"
   - key: "RobertMercer"
     title: "Robert Mercer"
     url: "/wiki/entities/robertmercer/"

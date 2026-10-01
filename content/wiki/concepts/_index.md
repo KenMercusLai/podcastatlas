@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9115
+wiki_total_pages: 9119
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2546,9 +2546,15 @@ wiki_pages:
   - key: "AustralianHealthcareAccessTriage"
     title: "Australian Healthcare Access Triage / 澳洲医疗可及性分诊"
     url: "/wiki/concepts/australianhealthcareaccesstriage/"
+  - key: "AustralianMateship"
+    title: "Australian Mateship"
+    url: "/wiki/concepts/australianmateship/"
   - key: "AustralianNonTraditionalMedicineTradition"
     title: "Australian Non-Traditional Medicine Tradition / 澳洲非传统医疗传统"
     url: "/wiki/concepts/australiannontraditionalmedicinetradition/"
+  - key: "AustralianStrategicRealignment"
+    title: "Australian Strategic Realignment"
+    url: "/wiki/concepts/australianstrategicrealignment/"
   - key: "AustralianTherapeuticGoodsRegulation"
     title: "Australian Therapeutic Goods Regulation / 澳洲保健品监管"
     url: "/wiki/concepts/australiantherapeuticgoodsregulation/"

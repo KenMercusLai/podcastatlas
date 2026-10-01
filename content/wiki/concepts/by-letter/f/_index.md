@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9115
+wiki_total_pages: 9119
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -881,6 +881,9 @@ wiki_pages:
   - key: "ForgettingAsCognitiveFunction"
     title: "Forgetting As Cognitive Function / 遗忘作为认知功能"
     url: "/wiki/concepts/forgettingascognitivefunction/"
+  - key: "ForgottenPeoplePolitics"
+    title: "Forgotten People Politics"
+    url: "/wiki/concepts/forgottenpeoplepolitics/"
   - key: "FormalSpecification"
     title: "Formal Specification"
     url: "/wiki/concepts/formalspecification/"
