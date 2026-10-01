@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [178. French Presidents: 1958-1981 (Part 1)](sources/178-french-presidents-1958-1981-part-1-glt1396593896.md) — The Rest Is History on de Gaulle's strong and quasi-monarchical presidency, Pompidou's pragmatic modernization, and Giscard's reforming but scandal-weakened rule.
 - [The Science & Health Benefits of Deliberate Heat Exposure](sources/scim5583107634-scim5583107634.md) — Huberman Lab episode on thermoregulation, sauna dose and adaptation, acute hormone responses, sleep, safety, and experimental adipose browning.
 - [179. French Presidents: 1981-2022 (Part 2)](sources/179-french-presidents-1981-2022-part-2-glt2206497694.md) — The Rest Is History on presidential grandeur from Mitterrand to Macron, party-system erosion, scandal, and the Le Pen movement's older lineage.
 - [AI-powered surveillance costs lives at the southern border](sources/tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128.md) — Marketplace Tech on border surveillance towers, migrant deaths, terrain and AI failure modes, delayed response, and missing effectiveness data.
@@ -3417,6 +3418,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [180. England & Englishness](sources/180-england-englishness-glt7388885434.md) — The Rest Is History conversation with Jason Cowley on Orwell, devolution, empire, immigration, landscape, football, Brexit, and changing English identity.
 
 ## Entities
+- [Valéry Giscard d'Estaing](entities/ValeryGiscardDEstaing.md) — Technocratic and social modernizer whose aristocratic persona, scandals, and rivalry with Chirac weakened his presidency.
 - [François Mitterrand](entities/FrancoisMitterrand.md) — First left-wing Fifth Republic president, combining ideological adaptation, secrecy, and presidential grandeur.
 - [Jacques Chirac](entities/JacquesChirac.md) — Long-serving political operator whose corruption and tactical flexibility coexisted with recognizable presidential authority.
 - [Nicolas Sarkozy](entities/NicolasSarkozy.md) — Security-focused president whose hard-man politics and conspicuous style challenged Gaullist dignity.

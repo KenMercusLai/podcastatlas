@@ -1183,6 +1183,18 @@
       "url": "/topics/science/"
     }
   ],
+  "178-french-presidents-1958-1981-part-1-glt1396593896": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "1789Capital": [
     {
       "key": "economics",
@@ -81400,6 +81412,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ValeryGiscardDEstaing": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ValidatedLearning": [

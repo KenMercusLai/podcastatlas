@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2941
+topic_total_pages: 2943
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7136,6 +7136,9 @@ topic_entities:
   - key: "Uttarakhand"
     title: "Uttarakhand"
     url: "/wiki/entities/uttarakhand/"
+  - key: "ValeryGiscardDEstaing"
+    title: "Valéry Giscard d'Estaing"
+    url: "/wiki/entities/valerygiscarddestaing/"
   - key: "Vanguard"
     title: "Vanguard"
     url: "/wiki/entities/vanguard/"
@@ -7791,6 +7794,9 @@ topic_sources:
   - key: "173-tanhe-ruhe-bamian-yiwei-zongtong-963141809"
     title: "173.弹劾：如何罢免一位总统"
     url: "/wiki/sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809/"
+  - key: "178-french-presidents-1958-1981-part-1-glt1396593896"
+    title: "178. French Presidents: 1958-1981 (Part 1)"
+    url: "/wiki/sources/178-french-presidents-1958-1981-part-1-glt1396593896/"
   - key: "179-french-presidents-1981-2022-part-2-glt2206497694"
     title: "179. French Presidents: 1981-2022 (Part 2)"
     url: "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"

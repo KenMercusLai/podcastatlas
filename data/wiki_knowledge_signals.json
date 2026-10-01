@@ -30170,9 +30170,9 @@
       "url": "/wiki/entities/charlesdawson/"
     },
     "CharlesDeGaulle": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6246374874 [GLT6246374874].md",
@@ -30194,6 +30194,13 @@
           "show": "The Rest Is History",
           "title": "179. French Presidents: 1981-2022 (Part 2)",
           "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
+        },
+        {
+          "episode_file": "GLT1396593896 [GLT1396593896].md",
+          "key": "178-french-presidents-1958-1981-part-1-glt1396593896",
+          "show": "The Rest Is History",
+          "title": "178. French Presidents: 1958-1981 (Part 1)",
+          "url": "/wiki/sources/178-french-presidents-1958-1981-part-1-glt1396593896/"
         }
       ],
       "updated": "2026-10-01",
@@ -70640,9 +70647,9 @@
       "url": "/wiki/entities/fremontunifiedschooldistrict/"
     },
     "FrenchFifthRepublic": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2206497694 [GLT2206497694].md",
@@ -70650,6 +70657,13 @@
           "show": "The Rest Is History",
           "title": "179. French Presidents: 1981-2022 (Part 2)",
           "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
+        },
+        {
+          "episode_file": "GLT1396593896 [GLT1396593896].md",
+          "key": "178-french-presidents-1958-1981-part-1-glt1396593896",
+          "show": "The Rest Is History",
+          "title": "178. French Presidents: 1958-1981 (Part 1)",
+          "url": "/wiki/sources/178-french-presidents-1958-1981-part-1-glt1396593896/"
         }
       ],
       "updated": "2026-10-01",
@@ -75913,9 +75927,9 @@
       "url": "/wiki/entities/georgesdanton/"
     },
     "GeorgesPompidou": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6246374874 [GLT6246374874].md",
@@ -75930,9 +75944,16 @@
           "show": "The Rest Is History",
           "title": "353: Paris 1968: The Students' Revolt (Part 1)",
           "url": "/wiki/sources/353-paris-1968-the-students-revolt-part-1-glt6124707164/"
+        },
+        {
+          "episode_file": "GLT1396593896 [GLT1396593896].md",
+          "key": "178-french-presidents-1958-1981-part-1-glt1396593896",
+          "show": "The Rest Is History",
+          "title": "178. French Presidents: 1958-1981 (Part 1)",
+          "url": "/wiki/sources/178-french-presidents-1958-1981-part-1-glt1396593896/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/georgespompidou/"
     },
     "GeorgetownLawCenterOnPrivacyTechnology": {
@@ -98968,9 +98989,9 @@
       "url": "/wiki/entities/jacquerie/"
     },
     "JacquesChirac": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2206497694 [GLT2206497694].md",
@@ -98978,6 +98999,13 @@
           "show": "The Rest Is History",
           "title": "179. French Presidents: 1981-2022 (Part 2)",
           "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
+        },
+        {
+          "episode_file": "GLT1396593896 [GLT1396593896].md",
+          "key": "178-french-presidents-1958-1981-part-1-glt1396593896",
+          "show": "The Rest Is History",
+          "title": "178. French Presidents: 1958-1981 (Part 1)",
+          "url": "/wiki/sources/178-french-presidents-1958-1981-part-1-glt1396593896/"
         }
       ],
       "updated": "2026-10-01",
@@ -150105,9 +150133,9 @@
       "url": "/wiki/concepts/presidentialaccessibilitysecuritytradeoff/"
     },
     "PresidentialSymbolicLeadership": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4042202229 [GLT4042202229].md",
@@ -150136,6 +150164,13 @@
           "show": "The Rest Is History",
           "title": "179. French Presidents: 1981-2022 (Part 2)",
           "url": "/wiki/sources/179-french-presidents-1981-2022-part-2-glt2206497694/"
+        },
+        {
+          "episode_file": "GLT1396593896 [GLT1396593896].md",
+          "key": "178-french-presidents-1958-1981-part-1-glt1396593896",
+          "show": "The Rest Is History",
+          "title": "178. French Presidents: 1958-1981 (Part 1)",
+          "url": "/wiki/sources/178-french-presidents-1958-1981-part-1-glt1396593896/"
         }
       ],
       "updated": "2026-10-01",
@@ -191035,6 +191070,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/vaccinescheduletrustrebuilding/"
+    },
+    "ValeryGiscardDEstaing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1396593896 [GLT1396593896].md",
+          "key": "178-french-presidents-1958-1981-part-1-glt1396593896",
+          "show": "The Rest Is History",
+          "title": "178. French Presidents: 1958-1981 (Part 1)",
+          "url": "/wiki/sources/178-french-presidents-1958-1981-part-1-glt1396593896/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/valerygiscarddestaing/"
     },
     "ValkyrieBattleFate": {
       "episode_count": 1,

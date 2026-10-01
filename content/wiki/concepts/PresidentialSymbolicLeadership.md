@@ -7,6 +7,7 @@ sources:
   - 311-reagan-the-road-to-the-white-house-part-2-glt9813084891
   - 310-ronald-reagan-and-the-american-dream-part-1-glt3254036306
   - 179-french-presidents-1981-2022-part-2-glt2206497694
+  - 178-french-presidents-1958-1981-part-1-glt1396593896
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -21,7 +22,7 @@ Presidential symbolic leadership is the use of ceremony, narrative, demeanor, hu
 
 The Reagan sequence treats symbolic leadership as a long-formed governing capacity. [[310-ronald-reagan-and-the-american-dream-part-1-glt3254036306]] locates its roots in civic participation, Protestant moral language, sport, radio, screen roles, wartime film, and union leadership. [[311-reagan-the-road-to-the-white-house-part-2-glt9813084891]] follows the skill through corporate tours, broadcasting, speeches, and debates, while [[312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229]] shows its presidential form in ceremony, composure, grief, humor, and national storytelling.
 
-The French branch supplies an institutional comparison through [[179-french-presidents-1981-2022-part-2-glt2206497694]]. In the [[FrenchFifthRepublic]], symbolic performance is not only a personal campaign skill but an expectation built around [[CharlesDeGaulle|de Gaulle's]] quasi-monarchical office. [[FrancoisMitterrand]] can retain authority after ideological retreat, [[JacquesChirac]] can look presidential despite corruption, [[NicolasSarkozy]] and [[FrancoisHollande]] can lose stature through conspicuousness or ordinariness, and [[EmmanuelMacron]] can restore grandeur while weakening party mediation.
+The French branch supplies an institutional comparison through [[178-french-presidents-1958-1981-part-1-glt1396593896]] and [[179-french-presidents-1981-2022-part-2-glt2206497694]]. In the [[FrenchFifthRepublic]], symbolic performance is not only a personal campaign skill but an expectation built around [[CharlesDeGaulle|de Gaulle's]] quasi-monarchical office. [[GeorgesPompidou]] can translate inherited grandeur into pragmatic modernization, [[ValeryGiscardDEstaing]] can make both ordinary gestures and aristocratic bearing look politically awkward, [[FrancoisMitterrand]] can retain authority after ideological retreat, [[JacquesChirac]] can look presidential despite corruption, [[NicolasSarkozy]] and [[FrancoisHollande]] can lose stature through conspicuousness or ordinariness, and [[EmmanuelMacron]] can restore grandeur while weakening party mediation.
 
 Across both branches, performance can express genuine belief without guaranteeing factual accuracy, policy success, legal conduct, moral adequacy, or durable institutional health.
 
@@ -47,7 +48,8 @@ Across both branches, performance can express genuine belief without guaranteein
 
 ### Institutionalized grandeur
 
-- [[179-french-presidents-1981-2022-part-2-glt2206497694]] compares five presidents through their capacity to inhabit de Gaulle's elevated model of the French office.
+- [[178-french-presidents-1958-1981-part-1-glt1396593896]] grounds elevated presidential symbolism in de Gaulle's “certain idea of France” and contrasts Pompidou's pragmatic adaptation with Giscard's stylistic mismatch.
+- [[179-french-presidents-1981-2022-part-2-glt2206497694]] compares five later presidents through their capacity to inhabit de Gaulle's elevated model of the French office.
 
 ### Limits and accountability
 
@@ -56,13 +58,14 @@ Across both branches, performance can express genuine belief without guaranteein
 
 ## Counterevidence & Qualifications
 
-The sources do not establish that performance alone caused electoral victory, economic recovery, arms reduction, policy durability, or scandal survival. Media structures, parties, opponents, institutions, crises, and material conditions also mattered. Retrospective interpretation cannot directly prove sincerity, and symbolic leadership can unify or exclude. The French episode's ranking of presidents is deliberately subjective and anecdotal.
+The sources do not establish that performance alone caused electoral victory, economic recovery, arms reduction, policy durability, or scandal survival. Media structures, parties, opponents, institutions, crises, and material conditions also mattered. Retrospective interpretation cannot directly prove sincerity, and symbolic leadership can unify or exclude. The French episodes' rankings and claims about what the public expects from presidents are deliberately subjective and anecdotal.
 
 ## What Changed
 
 - Extended the framework from personal communication skill to an institutional expectation of national embodiment.
 - Added the French contrast between grandeur, conspicuous ambition, ordinariness, secrecy, and party-system fragility.
 - Clarified that symbolic success can weaken institutions even when it strengthens the individual president.
+- Added early evidence that both attempted ordinariness and inherited aristocratic formality can fail when they conflict with the office's expected dignity.
 
 ## Related Concepts
 
