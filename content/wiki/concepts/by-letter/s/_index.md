@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9135
+wiki_total_pages: 9136
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "SacredHistorySourceCriticism"
     title: "Sacred History Source Criticism"
     url: "/wiki/concepts/sacredhistorysourcecriticism/"
+  - key: "SacredPrestigeUnderConquest"
+    title: "Sacred Prestige Under Conquest"
+    url: "/wiki/concepts/sacredprestigeunderconquest/"
   - key: "SacredSitePoliticalLegitimacy"
     title: "Sacred Site Political Legitimacy"
     url: "/wiki/concepts/sacredsitepoliticallegitimacy/"

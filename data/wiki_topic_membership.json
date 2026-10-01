@@ -1237,6 +1237,13 @@
       "url": "/topics/science/"
     }
   ],
+  "181-the-birth-of-babylon-glt1570061216": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "181-zhe-lun-guimo-kongqian-de-zhongguo-zhizaoye-chuhai-beihou-xianxia-huodong-shilu-lmkuwy-rlsjtpsjelotovauwyr0": [
     {
       "key": "economics",
@@ -37441,6 +37448,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Hammurabi": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "HanAidi": [

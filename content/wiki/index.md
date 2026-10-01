@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [181. The Birth of Babylon](sources/181-the-birth-of-babylon-glt1570061216.md) — The Rest Is History on Babylon's late foundation, Hammurabi, Marduk's cult statue, foreign conquest, sacred prestige, destruction, and rebuilding.
 - [Micronutrients for Health & Longevity | Dr. Rhonda Patrick](sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176.md) — Huberman Lab interview on micronutrient status, omega-3 forms, hormesis, cold and heat exposure, and measurement-led safety boundaries.
 - [182. Operation Barbarossa](sources/182-operation-barbarossa-glt3299389649.md) — The Rest Is History episode with James Holland on the invasion's resource gamble, early logistical culmination, Soviet resilience, ideological occupation, and genocidal escalation.
 - [183. History's Biggest Questions with Dan Carlin (Part 1)](sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177.md) — The Rest Is History crossover on counterfactual method, siege survival, the First World War's causal reach, lost ancient perspectives, nuclear choices, and a surviving Confederacy.
@@ -3411,6 +3412,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Tools to Improve Your Focus & Concentration](sources/essentials-tools-to-improve-your-focus-concentration-scim2328129388.md) — Huberman Lab Essentials episode on behavior-first focus training, 90-minute work bouts, repeated refocusing, deliberate recovery, optional state tools, supplement caution, and medication boundaries.
 
 ## Entities
+- [Babylon](entities/Babylon.md) — Mesopotamian city whose accumulated sacred and cultural authority repeatedly outlasted dynastic collapse, conquest, and physical destruction.
+- [Marduk](entities/Marduk.md) — Babylonian patron god whose cult statue functioned as divine presence, war trophy, and legitimacy resource.
+- [Hammurabi](entities/Hammurabi.md) — Babylonian conqueror and remembered lawgiver whose reputation proved more durable than his empire.
 - [Rhonda Patrick](entities/RhondaPatrick.md) — Health educator and researcher connecting micronutrients, metabolism, adaptive stress, testing, and thermal exposure.
 - [Operation Barbarossa](entities/OperationBarbarossa.md) — Nazi Germany's under-resourced 1941 invasion of the Soviet Union, combining rapid victories with early culmination and annihilatory occupation.
 - [Dan Carlin](entities/DanCarlin.md) — Hardcore History host using long-form research, comparison, counterfactuals, and qualified realism about the past.
@@ -15241,6 +15245,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nocs Provisions](entities/NocsProvisions.md) — Colorful compact-optics brand weighing connected sharing against analog presence.
 
 ## Concepts
+- [Sacred Prestige Under Conquest](concepts/SacredPrestigeUnderConquest.md) — Pattern in which conquerors attack, seize, restore, or appropriate sacred centers whose authority survives military defeat.
 - [Intermittent Challenge Hormesis](concepts/IntermittentChallengeHormesis.md) — Dose-bounded adaptive-stress frame spanning exercise, fasting, heat, cold, and selected plant compounds.
 - [Micronutrient Status Measurement](concepts/MicronutrientStatusMeasurement.md) — Testing-led framework separating intake, formulation, metabolism, status, and individualized response.
 - [Omega-3 Status and Form Boundary](concepts/Omega3StatusAndFormBoundary.md) — Distinction among ALA, EPA, DHA, source, chemical form, quality, biomarker status, and outcome evidence.

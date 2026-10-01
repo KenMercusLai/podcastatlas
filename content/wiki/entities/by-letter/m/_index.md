@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11792
+wiki_total_pages: 11795
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "MarcusVipsaniusAgrippa"
     title: "Marcus Vipsanius Agrippa"
     url: "/wiki/entities/marcusvipsaniusagrippa/"
+  - key: "Marduk"
+    title: "Marduk"
+    url: "/wiki/entities/marduk/"
   - key: "MargaretMead"
     title: "Margaret Mead / 米德"
     url: "/wiki/entities/margaretmead/"

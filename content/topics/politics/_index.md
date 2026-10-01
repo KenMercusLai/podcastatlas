@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2928
+topic_total_pages: 2929
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5678,6 +5678,9 @@ topic_entities:
   - key: "HamiltonBurrDuel"
     title: "Hamilton-Burr Duel"
     url: "/wiki/entities/hamiltonburrduel/"
+  - key: "Hammurabi"
+    title: "Hammurabi"
+    url: "/wiki/entities/hammurabi/"
   - key: "HanHakJa"
     title: "Han Hak-ja / 韩鹤子"
     url: "/wiki/entities/hanhakja/"

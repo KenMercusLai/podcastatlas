@@ -26829,3 +26829,11 @@ Added source `micronutrients-for-health-longevity-dr-rhonda-patrick-scim79499901
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 181. The Birth of Babylon
+
+Added source `181-the-birth-of-babylon-glt1570061216`; created `Babylon`, `Marduk`, `Hammurabi`, and `SacredPrestigeUnderConquest`. Core synthesis: Babylon's sacred and cultural authority accumulated across political discontinuity; Marduk's cult statue made divine presence into an instrument of conquest, humiliation, recovery, and legitimation; Hammurabi's lawgiving reputation outlasted his empire; and foreign adoption, destruction, and rebuilding reinforced rather than erased the city's prestige. No settled contradiction was adopted. Foundation chronology, Akkad's location, the “law code” category, campaign details, archaeological destruction, and rulers' motives remain debated or source-scoped, while Babylonian creation claims are evidence of sacred self-understanding rather than literal urban chronology. The automatic `wiki/overview.md` was read for context and not manually rewritten because this bounded historical branch did not warrant changing its global synthesis. The downstream manifest and paragraph ledger were refreshed to 3,354-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

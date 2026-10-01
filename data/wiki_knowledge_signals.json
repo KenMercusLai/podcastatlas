@@ -17406,6 +17406,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/babbittcoffee/"
     },
+    "Babylon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570061216 [GLT1570061216].md",
+          "key": "181-the-birth-of-babylon-glt1570061216",
+          "show": "The Rest Is History",
+          "title": "181. The Birth of Babylon",
+          "url": "/wiki/sources/181-the-birth-of-babylon-glt1570061216/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/babylon/"
+    },
     "BadThoughts": {
       "episode_count": 1,
       "show_count": 1,
@@ -81081,6 +81097,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
     },
+    "Hammurabi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570061216 [GLT1570061216].md",
+          "key": "181-the-birth-of-babylon-glt1570061216",
+          "show": "The Rest Is History",
+          "title": "181. The Birth of Babylon",
+          "url": "/wiki/sources/181-the-birth-of-babylon-glt1570061216/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/hammurabi/"
+    },
     "HanAidi": {
       "episode_count": 22,
       "show_count": 2,
@@ -122439,6 +122471,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/marcusvipsaniusagrippa/"
     },
+    "Marduk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570061216 [GLT1570061216].md",
+          "key": "181-the-birth-of-babylon-glt1570061216",
+          "show": "The Rest Is History",
+          "title": "181. The Birth of Babylon",
+          "url": "/wiki/sources/181-the-birth-of-babylon-glt1570061216/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/marduk/"
+    },
     "MargaretMitchell": {
       "episode_count": 1,
       "show_count": 1,
@@ -163009,6 +163057,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/sacredpawssoapcompany/"
+    },
+    "SacredPrestigeUnderConquest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1570061216 [GLT1570061216].md",
+          "key": "181-the-birth-of-babylon-glt1570061216",
+          "show": "The Rest Is History",
+          "title": "181. The Birth of Babylon",
+          "url": "/wiki/sources/181-the-birth-of-babylon-glt1570061216/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/sacredprestigeunderconquest/"
     },
     "SacredSitePoliticalLegitimacy": {
       "episode_count": 1,
