@@ -24,8 +24,11 @@ sources: [vol-73-jingshenke-shaonian-ertong-de-xinli-jiankang-guanhu-women-shehu
   283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399
   185-agatha-christie-glt9092045420
   micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176
-last_updated: 2026-10-01
+  how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856
+last_updated: 2026-10-02
 ---
+
+The latest addition is [[how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856|How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin]], an early [[HubermanLab]] masterclass with [[AndyGalpin]] and [[AndrewHuberman]] on [[NinePhysiologicalAdaptations]], [[StrengthHypertrophyProgramming]], [[EnduranceTrainingModalities]], recovery, hydration, thermal exposure, breathing, and supplements. Its core synthesis is that exercises do not own adaptations: load, volume, frequency, rest, cadence, range of motion, progression, and intent determine the dominant result, while recovery capacity determines whether the stress becomes improvement. It extends [[AndyGalpin]] and clarifies the programming role of the nine-adaptation taxonomy without duplicating the later specialized series. No settled contradiction is recorded; the episode's load, set, interval, fluid, sodium, temperature, breathing, and supplement protocols remain source-scoped public education rather than universal or individualized prescriptions.
 
 The latest addition is [[micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176|Micronutrients for Health & Longevity | Dr. Rhonda Patrick]], a [[HubermanLab]] interview with [[RhondaPatrick]] and [[AndrewHuberman]] on micronutrients, plant compounds, omega-3s, vitamin D, magnesium, exercise, cold, heat, and longevity mechanisms. It adds [[IntermittentChallengeHormesis]], [[MicronutrientStatusMeasurement]], [[Omega3StatusAndFormBoundary]], and [[HeatExposureDoseAndSafety]] while extending [[ColdExposureDoseAndSafety]]. Its core synthesis is that mechanisms and practical protocols should be interpreted through dose, formulation, biomarker status, preparation, adaptation, individual risk, and evidence tier rather than treated as universal optimization rules. No settled contradiction is recorded; nutrient targets, detoxification findings, supplement doses, mortality associations, thermal protocols, brain-injury mechanisms, sauna-opioid explanations, and fertility or toxin-excretion effects remain source-scoped, while animal, observational, mechanistic, personal, and human-intervention evidence are kept distinct.
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin](sources/how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856.md) — Early Huberman Lab masterclass on nine trainable adaptations, goal-specific exercise variables, strength and hypertrophy, endurance, recovery, hydration, thermal exposure, and supplements.
 - [170. The Falklands War: The Task Force Sails (Part 2)](sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924.md) — The Rest Is History on invasion, task-force mobilization, cross-party support, UN legitimacy, allied assistance, Haig's compromise, and South Georgia.
 - [171. The Falklands War: Battle for the Islands (Part 3)](sources/171-the-falklands-war-battle-for-the-islands-part-3-glt4679725480.md) — The Rest Is History on the Belgrano controversy, wartime media pressure, failed diplomacy, San Carlos, Goose Green, Bluff Cove, and the final advance on Stanley.
 - [172. The Falklands War: Afterlife (Part 4)](sources/172-the-falklands-war-afterlife-part-4-glt5779306068.md) — The Rest Is History episode on Thatcher, Argentina's junta, Islander self-determination, the 1983 election, British decline, and the war's contested political memory.

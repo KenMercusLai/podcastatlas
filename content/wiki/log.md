@@ -26989,3 +26989,11 @@ Added source `170-the-falklands-war-the-task-force-sails-part-2-glt1917394924`; 
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin
+
+Added source `how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856`; updated `AndyGalpin`, `NinePhysiologicalAdaptations`, and `StrengthHypertrophyProgramming` from their complete preserved evidence inventories; and linked the episode to existing endurance, recovery, hydration, breathing, thermal-exposure, pain-continuity, and creatine syntheses without creating duplicate concepts. Core synthesis: exercise names do not determine adaptation; load, volume, frequency, rest, cadence, range of motion, progression, effort, and intent shape the result, while recovery capacity determines whether the imposed stress becomes improvement. No settled contradiction was adopted. The episode's resistance-training, interval, hydration, sodium, cold, heat, breathing, sleep-diagnostic, and supplement protocols remain source-scoped public education rather than universal or individualized prescriptions. The downstream manifest and paragraph ledger were refreshed to 3,373-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

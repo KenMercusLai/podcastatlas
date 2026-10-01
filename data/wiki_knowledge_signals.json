@@ -11435,9 +11435,9 @@
       "url": "/wiki/entities/andyburnham/"
     },
     "AndyGalpin": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -11494,9 +11494,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow Muscles",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-protocols-to-build-strength-grow-muscles-scim5680136934/"
+        },
+        {
+          "episode_file": "SCIM9486759856 [SCIM9486759856].md",
+          "key": "how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856",
+          "show": "Huberman Lab",
+          "title": "How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
+          "url": "/wiki/sources/how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/andygalpin/"
     },
     "AndyStalman": {
@@ -136022,9 +136029,9 @@
       "url": "/wiki/concepts/ninedaysqueensuccessioncrisis/"
     },
     "NinePhysiologicalAdaptations": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -136053,9 +136060,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: How to Assess & Improve All Aspects of Your Fitness",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-assess-improve-all-aspects-of-your-fitness-scim9072919255/"
+        },
+        {
+          "episode_file": "SCIM9486759856 [SCIM9486759856].md",
+          "key": "how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856",
+          "show": "Huberman Lab",
+          "title": "How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
+          "url": "/wiki/sources/how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/ninephysiologicaladaptations/"
     },
     "NinePurpleFireLuckActionFrame": {
@@ -178330,9 +178344,9 @@
       "url": "/wiki/concepts/strengthfirstselfexamination/"
     },
     "StrengthHypertrophyProgramming": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -178368,9 +178382,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow Muscles",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-protocols-to-build-strength-grow-muscles-scim5680136934/"
+        },
+        {
+          "episode_file": "SCIM9486759856 [SCIM9486759856].md",
+          "key": "how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856",
+          "show": "Huberman Lab",
+          "title": "How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
+          "url": "/wiki/sources/how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/strengthhypertrophyprogramming/"
     },
     "StrengthTrainingJointProtection": {
