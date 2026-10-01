@@ -68472,6 +68472,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/franceshaugen/"
     },
+    "FrancesStewart": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8073929093 [GLT8073929093].md",
+          "key": "206-historical-love-island-glt8073929093",
+          "show": "The Rest Is History",
+          "title": "206. Historical Love Island",
+          "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/francesstewart/"
+    },
     "FrancescoDelGiocondo": {
       "episode_count": 1,
       "show_count": 1,
@@ -73951,9 +73967,9 @@
       "url": "/wiki/entities/georgearmistead/"
     },
     "GeorgeArmstrongCuster": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -73996,6 +74012,13 @@
           "show": "The Rest Is History",
           "title": "446. Custer vs. Crazy Horse: Civil War (Part 1)",
           "url": "/wiki/sources/446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244/"
+        },
+        {
+          "episode_file": "GLT8073929093 [GLT8073929093].md",
+          "key": "206-historical-love-island-glt8073929093",
+          "show": "The Rest Is History",
+          "title": "206. Historical Love Island",
+          "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
         }
       ],
       "updated": "2026-09-25",
@@ -84896,9 +84919,9 @@
       "url": "/wiki/concepts/historicalfictionfactualconstraint/"
     },
     "HistoricalFiguresAsRealityTVArchetypes": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -84913,6 +84936,13 @@
           "show": "The Rest Is History",
           "title": "207. Historical Love Island: THE WINNER",
           "url": "/wiki/sources/207-historical-love-island-the-winner-glt4172810067/"
+        },
+        {
+          "episode_file": "GLT8073929093 [GLT8073929093].md",
+          "key": "206-historical-love-island-glt8073929093",
+          "show": "The Rest Is History",
+          "title": "206. Historical Love Island",
+          "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
         }
       ],
       "updated": "2026-10-01",
@@ -99308,6 +99338,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/jimcallaghan/"
     },
+    "JimmyCarter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8073929093 [GLT8073929093].md",
+          "key": "206-historical-love-island-glt8073929093",
+          "show": "The Rest Is History",
+          "title": "206. Historical Love Island",
+          "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/jimmycarter/"
+    },
     "JinMidiWesternHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -101588,6 +101634,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/juanperon/"
+    },
+    "JudasIscariot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8073929093 [GLT8073929093].md",
+          "key": "206-historical-love-island-glt8073929093",
+          "show": "The Rest Is History",
+          "title": "206. Historical Love Island",
+          "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/judasiscariot/"
     },
     "JudgmentOfParisWine": {
       "episode_count": 1,
@@ -114086,6 +114148,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/logoswapmerchandisestandardization/"
     },
+    "LolaMontez": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8073929093 [GLT8073929093].md",
+          "key": "206-historical-love-island-glt8073929093",
+          "show": "The Rest Is History",
+          "title": "206. Historical Love Island",
+          "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/lolamontez/"
+    },
     "Lollardy": {
       "episode_count": 1,
       "show_count": 1,
@@ -114681,9 +114759,9 @@
       "url": "/wiki/entities/lopedeaguirre/"
     },
     "LordByron": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
@@ -114733,6 +114811,13 @@
           "show": "The Rest Is History",
           "title": "221. Holidays: Byron's Grand Tour",
           "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
+        },
+        {
+          "episode_file": "GLT8073929093 [GLT8073929093].md",
+          "key": "206-historical-love-island-glt8073929093",
+          "show": "The Rest Is History",
+          "title": "206. Historical Love Island",
+          "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
         }
       ],
       "updated": "2026-10-01",
@@ -120110,9 +120195,9 @@
       "url": "/wiki/entities/marchamontneedham/"
     },
     "MarciaWilliams": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2033018212 [GLT2033018212].md",
@@ -120120,6 +120205,13 @@
           "show": "The Rest Is History",
           "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
           "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
+        },
+        {
+          "episode_file": "GLT8073929093 [GLT8073929093].md",
+          "key": "206-historical-love-island-glt8073929093",
+          "show": "The Rest Is History",
+          "title": "206. Historical Love Island",
+          "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
         }
       ],
       "updated": "2026-09-27",
@@ -135428,6 +135520,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/olympedegouges/"
+    },
+    "Olympias": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8073929093 [GLT8073929093].md",
+          "key": "206-historical-love-island-glt8073929093",
+          "show": "The Rest Is History",
+          "title": "206. Historical Love Island",
+          "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/olympias/"
     },
     "OmarBradley": {
       "episode_count": 1,
@@ -171380,6 +171488,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/sportwashing/"
     },
+    "Sporus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8073929093 [GLT8073929093].md",
+          "key": "206-historical-love-island-glt8073929093",
+          "show": "The Rest Is History",
+          "title": "206. Historical Love Island",
+          "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/sporus/"
+    },
     "SpotRobot": {
       "episode_count": 1,
       "show_count": 1,
@@ -171831,9 +171955,9 @@
       "url": "/wiki/entities/stanislasmaillard/"
     },
     "StanleyBaldwin": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4986306476 [GLT4986306476].md",
@@ -171855,6 +171979,13 @@
           "show": "The Rest Is History",
           "title": "207. Historical Love Island: THE WINNER",
           "url": "/wiki/sources/207-historical-love-island-the-winner-glt4172810067/"
+        },
+        {
+          "episode_file": "GLT8073929093 [GLT8073929093].md",
+          "key": "206-historical-love-island-glt8073929093",
+          "show": "The Rest Is History",
+          "title": "206. Historical Love Island",
+          "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
         }
       ],
       "updated": "2026-10-01",
@@ -180471,9 +180602,9 @@
       "url": "/wiki/entities/theodorheuss/"
     },
     "Theodora": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6795699757 [GLT6795699757].md",
@@ -180495,6 +180626,13 @@
           "show": "The Rest Is History",
           "title": "218. Theodora: Empress of Byzantium (Part 1)",
           "url": "/wiki/sources/218-theodora-empress-of-byzantium-part-1-glt5957583440/"
+        },
+        {
+          "episode_file": "GLT8073929093 [GLT8073929093].md",
+          "key": "206-historical-love-island-glt8073929093",
+          "show": "The Rest Is History",
+          "title": "206. Historical Love Island",
+          "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
         }
       ],
       "updated": "2026-10-01",

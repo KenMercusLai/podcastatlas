@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11706
+wiki_total_pages: 11712
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "JimThorpe"
     title: "Jim Thorpe"
     url: "/wiki/entities/jimthorpe/"
+  - key: "JimmyCarter"
+    title: "Jimmy Carter"
+    url: "/wiki/entities/jimmycarter/"
   - key: "JingFang"
     title: "Jing Fang / 京房"
     url: "/wiki/entities/jingfang/"
@@ -1136,6 +1139,9 @@ wiki_pages:
   - key: "JuanSalvadorPenguin"
     title: "Juan Salvador / 胡安·萨尔瓦多"
     url: "/wiki/entities/juansalvadorpenguin/"
+  - key: "JudasIscariot"
+    title: "Judas Iscariot"
+    url: "/wiki/entities/judasiscariot/"
   - key: "JudyGaines"
     title: "Judy Gaines"
     url: "/wiki/entities/judygaines/"

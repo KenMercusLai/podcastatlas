@@ -9,6 +9,7 @@ sources:
   - 450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770
   - 447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977
   - 446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244
+  - 206-historical-love-island-glt8073929093
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -37,6 +38,8 @@ He divided the regiment, sent [[MarcusReno]] into a critical attack, dispatched 
 
 No soldier with Custer survived, so his final route, timing, intent, and death cannot be narrated with certainty. Material evidence supports fighting across ridge positions, while later poetry and public memory converted the collapse into an orderly heroic tableau. The episode assigns Custer substantial responsibility without reducing the result to his errors: Lakota and Cheyenne leadership, numbers, confidence, and firepower were decisive.
 
+The earlier comic [[206-historical-love-island-glt8073929093]] isolates Custer's curls, pranks, camaraderie, reckless energy, Civil War fame, and battlefield death to cast him as a reality-show “top lad.” That caricature anticipates traits developed much more critically across the six-part bounded military profile, but it cannot support the episode's imagined compatibility with [[LolaMontez]].
+
 ## Key Characteristics
 
 - Boldness, speed, personal courage, and conspicuous leadership produced real Civil War and frontier success while becoming dangerous under weak discipline, inadequate reconnaissance, fatigue, and personal urgency.
@@ -63,6 +66,7 @@ No soldier with Custer survived, so his final route, timing, intent, and death c
 - Final movement: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] uses terrain and earlier practice to infer an attempted approach toward the village.
 - Battlefield collapse: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] connects ridge evidence, Native attacks, repeating rifles, panic, and the final horse barricade.
 - Memory and blame: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] follows the heroic poem, partisan press reactions, Reno investigation, and criticism of Custer's decisions.
+- Comic afterlife: [[206-historical-love-island-glt8073929093]] turns his theatrical appearance, pranks, group energy, and reckless reputation into a dating-show archetype.
 
 ## Qualifications
 
@@ -76,12 +80,14 @@ No soldier with Custer survived, so his final route, timing, intent, and death c
 - Washita casualty totals, combatant identity, captive treatment, and allegations of sexual exploitation remain contested or source-scoped.
 - West Point anecdotes, private motives, romantic episodes, reported dialogue, and Lincoln's warning to Elizabeth come through popular-history narration and remain source-scoped.
 - Later catastrophe can make early boldness look mechanically predictive; the Civil War record instead shows that the same style could be effective in a different command and battlefield context.
+- The Love Island role compresses war, massacre, dispossession, military competence, and command failure into personality-driven entertainment and supplies no independent evidence for the profile.
 
 ## What Changed
 
 - Extended the profile to childhood, West Point, Union allegiance, and Civil War advancement.
 - Recast theatrical dress and romantic combat as both battlefield communication and deliberate self-fashioning.
 - Clarified that Custer's dangerous habits were reinforced by genuine Civil War success rather than by image alone.
+- Added the comic “top lad” afterlife as an example of how self-fashioned celebrity outlived the military context that made it consequential.
 
 ## Relationships
 
@@ -99,3 +105,4 @@ No soldier with Custer survived, so his final route, timing, intent, and death c
 - [[HeroicLastStandMyth]] - posthumous narrative that transformed battlefield collapse into heroic order.
 - [[PhilipSheridan]] - Civil War patron who continued restoring Custer despite later political and disciplinary conflict.
 - [[ChivalricRomanceWarMemory]] - framework for his romantic self-conception inside industrialized war.
+- [[HistoricalFiguresAsRealityTVArchetypes]] - comic framework that reduces his theatrical celebrity and recklessness to contestant energy.

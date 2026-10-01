@@ -26522,3 +26522,11 @@ Added source `optimize-control-your-brain-chemistry-to-improve-health-performanc
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 206. Historical Love Island
+
+Added source `206-historical-love-island-glt8073929093`; created `JimmyCarter`, `FrancesStewart`, `JudasIscariot`, `LolaMontez`, `Olympias`, and `Sporus`; and resynthesized `LordByron`, `MarciaWilliams`, `GeorgeArmstrongCuster`, `Theodora`, `StanleyBaldwin`, and `HistoricalFiguresAsRealityTVArchetypes` from their complete preserved evidence inventories. Core synthesis: reality-TV archetypes, coupling, recoupling, and elimination make cross-period character contrasts memorable, but the same format compresses political power, coercion, violence, religion, gendered stereotypes, hostile testimony, and evidentiary uncertainty into imagined personality and compatibility. No settled contradiction was adopted. Archetype fit, attractiveness, intelligence, alleged affairs, private motives, dialogue, popularity, and pairings remain comic, disputed, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,316-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

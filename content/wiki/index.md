@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [206. Historical Love Island](sources/206-historical-love-island-glt8073929093.md) — The Rest Is History episode casting historical figures as dating-show archetypes to compare celebrity, sincerity, betrayal, disruption, authority, and public appeal.
 - [207. Historical Love Island: THE WINNER](sources/207-historical-love-island-the-winner-glt4172810067.md) — The Rest Is History results episode on Baldwin and Theodora's audience-voted win, the contest's comic logic, and a preview of Justinianic history.
 - [208. George Orwell](sources/208-george-orwell-glt5823999588.md) — The Rest Is History episode on Orwell's imperial formation, class politics, democratic socialism, anti-Stalinism, Englishness, Animal Farm, and Nineteen Eighty-Four.
 - [The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker](sources/the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386.md) — Huberman Lab interview on taste detection, identity, valence, plasticity, and the separation of oral sweet liking from gut-driven sugar wanting.
@@ -3373,6 +3374,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Optimize & Control Your Brain Chemistry to Improve Health & Performance](sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946.md) — Huberman Lab solo episode on dopamine, epinephrine, acetylcholine, serotonin, daily-state timing, behavioral foundations, and medical boundaries.
 
 ## Entities
+- [Jimmy Carter](entities/JimmyCarter.md) — United States president whose faith, farming background, marriage, and public sincerity are recast as a comic “sweet one” persona.
+- [Frances Stewart](entities/FrancesStewart.md) — Restoration court beauty associated with Charles II, the Duchess of Richmond title, and Britannia imagery.
+- [Judas Iscariot](entities/JudasIscariot.md) — New Testament disciple whose betrayal memory is used as a tightly bounded reality-show archetype.
+- [Lola Montez](entities/LolaMontez.md) — Irish-born performer whose Spanish stage persona, transnational celebrity, Bavarian prominence, and scandals shaped her public image.
+- [Olympias](entities/Olympias.md) — Macedonian queen represented through dynastic position, marital conflict, assassination rumor, and snake imagery.
+- [Sporus](entities/Sporus.md) — Young person in Nero's court whose coercive imperial history is distinguished from a later comic bombshell role.
 - [Stanley Baldwin](entities/StanleyBaldwin.md) — British prime minister associated with interwar parliamentary stability, rural-suburban imagery, and a later comic family portrait.
 - [Robert Colls](entities/RobertColls.md) — Historian and author interpreting Orwell through empire, class, Englishness, socialism, anti-communism, and literary politics.
 - [Animal Farm](entities/AnimalFarm.md) — Orwell fable read as both Soviet allegory and a broader warning about revolutionary elite replacement.
