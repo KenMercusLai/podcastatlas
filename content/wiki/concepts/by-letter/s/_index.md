@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9175
+wiki_total_pages: 9177
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1250,6 +1250,9 @@ wiki_pages:
   - key: "SodiumIonBatteryStorage"
     title: "Sodium-Ion Battery Storage"
     url: "/wiki/concepts/sodiumionbatterystorage/"
+  - key: "SodiumWaterHomeostasis"
+    title: "Sodium-Water Homeostasis"
+    url: "/wiki/concepts/sodiumwaterhomeostasis/"
   - key: "SoftBudgetFootballClubs"
     title: "Soft-Budget Football Clubs"
     url: "/wiki/concepts/softbudgetfootballclubs/"

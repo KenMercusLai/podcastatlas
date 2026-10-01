@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Using Salt to Optimize Mental & Physical Performance](sources/using-salt-to-optimize-mental-physical-performance-scim4397006205.md) — Huberman Lab solo episode on sodium-water homeostasis, thirst, vasopressin, kidney handling, blood pressure, exercise losses, electrolyte context, and the limits of universal intake targets.
 - [164. Saint Patrick](sources/164-saint-patrick-glt2665917893.md) — The Rest Is History episode separating Patrick's first-person late-antique evidence from later legend, while tracing mission beyond Rome and patronal reuse.
 - [165. The Rise of Genghis Khan](sources/165-the-rise-of-genghis-khan-glt3370086758.md) — The Rest Is History conversation with Ali Ansari on Temujin's early ordeals, alliances, loyalty network, military reorganization, and 1206 unification.
 - [166. Genghis Khan: Lord of the Mongols](sources/166-genghis-khan-lord-of-the-mongols-glt4398796320.md) — The Rest Is History conversation with Ali Ansari on Genghis Khan's widening ambitions, conditional terror, Central Asian destruction, and the Mongol realm as an empire in formation.
@@ -24538,5 +24539,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Education Margin Burden](concepts/EducationMarginBurden.md) — Acquisition and channel cost incurred when customers must learn the problem or category before evaluating a product.
 
 - [English National Identity](concepts/EnglishNationalIdentity.md) — Contested English belonging shaped by institutional ambiguity, loss, landscape, football, diversity, and overlap with Britishness.
+
+- [Sodium-Water Homeostasis](concepts/SodiumWaterHomeostasis.md) — Brain-hormone-kidney model linking osmotic and volume sensing, thirst, salt appetite, vasopressin, fluid handling, and neural sodium use.
+- [Contextual Sodium Intake](concepts/ContextualSodiumIntake.md) — Context-first boundary for sodium decisions across blood pressure, disease, diet, fluid balance, sweat loss, climate, and other electrolytes.
 
 ## Syntheses

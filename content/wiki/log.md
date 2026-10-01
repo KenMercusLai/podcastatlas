@@ -27051,3 +27051,11 @@ Added source `164-saint-patrick-glt2665917893`; created `SaintPatrick`, `Palladi
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Using Salt to Optimize Mental & Physical Performance
+
+Added source `using-salt-to-optimize-mental-physical-performance-scim4397006205`; created `SodiumWaterHomeostasis` and `ContextualSodiumIntake`; and resynthesized `ElectrolyteDrinkUseBoundary` and `ExerciseHydrationPerformanceBoundary` from their complete preserved evidence inventories. Core synthesis: sodium and water are jointly regulated through concentration and volume sensing, thirst, salt appetite, vasopressin, and kidney handling, while appropriate intake depends on blood pressure, disease, diet, losses, environment, and other electrolytes rather than one universal target. No settled contradiction was adopted. The reported observational excretion range, population recommendation, orthostatic-treatment ranges, exercise-fluid equation, caffeine ratio, anxiety findings, and *The Salt Fix* targets remain source-scoped public education rather than individualized medical or nutrition guidance. The automatic `wiki/overview.md` was read for context and not manually rewritten. The downstream manifest and paragraph ledger were refreshed to 3,381-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9175
+wiki_total_pages: 9177
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2078,6 +2078,9 @@ wiki_pages:
   - key: "ContextualExplanationWithoutExoneration"
     title: "Contextual Explanation Without Exoneration"
     url: "/wiki/concepts/contextualexplanationwithoutexoneration/"
+  - key: "ContextualSodiumIntake"
+    title: "Contextual Sodium Intake"
+    url: "/wiki/concepts/contextualsodiumintake/"
   - key: "ContingentAgreement"
     title: "Contingent Agreement / 权变协议"
     url: "/wiki/concepts/contingentagreement/"

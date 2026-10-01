@@ -40177,6 +40177,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/contextualexplanationwithoutexoneration/"
     },
+    "ContextualSodiumIntake": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4397006205 [SCIM4397006205].md",
+          "key": "using-salt-to-optimize-mental-physical-performance-scim4397006205",
+          "show": "Huberman Lab",
+          "title": "Using Salt to Optimize Mental & Physical Performance",
+          "url": "/wiki/sources/using-salt-to-optimize-mental-physical-performance-scim4397006205/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/contextualsodiumintake/"
+    },
     "ContinentalArmy": {
       "episode_count": 3,
       "show_count": 1,
@@ -55325,9 +55341,9 @@
       "url": "/wiki/concepts/electricityaffordabilityindicator/"
     },
     "ElectrolyteDrinkUseBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "ljLwQq2yHTCsa4r3NvNzaA6P5I9O [ljLwQq2yHTCsa4r3NvNzaA6P5I9O].md",
@@ -55349,9 +55365,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Your Water Quality & Intake for Health",
           "url": "/wiki/sources/how-to-optimize-your-water-quality-intake-for-health-scim6169879512/"
+        },
+        {
+          "episode_file": "SCIM4397006205 [SCIM4397006205].md",
+          "key": "using-salt-to-optimize-mental-physical-performance-scim4397006205",
+          "show": "Huberman Lab",
+          "title": "Using Salt to Optimize Mental & Physical Performance",
+          "url": "/wiki/sources/using-salt-to-optimize-mental-physical-performance-scim4397006205/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/electrolytedrinkuseboundary/"
     },
     "ElectronicCigaretteRisk": {
@@ -62189,9 +62212,9 @@
       "url": "/wiki/concepts/exerciseheatmanagement/"
     },
     "ExerciseHydrationPerformanceBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1120276865 [SCIM1120276865].md",
@@ -62213,9 +62236,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
+        },
+        {
+          "episode_file": "SCIM4397006205 [SCIM4397006205].md",
+          "key": "using-salt-to-optimize-mental-physical-performance-scim4397006205",
+          "show": "Huberman Lab",
+          "title": "Using Salt to Optimize Mental & Physical Performance",
+          "url": "/wiki/sources/using-salt-to-optimize-mental-physical-performance-scim4397006205/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/exercisehydrationperformanceboundary/"
     },
     "ExerciseLinkedCognitiveResilience": {
@@ -174600,6 +174630,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/socratesfootballer/"
+    },
+    "SodiumWaterHomeostasis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4397006205 [SCIM4397006205].md",
+          "key": "using-salt-to-optimize-mental-physical-performance-scim4397006205",
+          "show": "Huberman Lab",
+          "title": "Using Salt to Optimize Mental & Physical Performance",
+          "url": "/wiki/sources/using-salt-to-optimize-mental-physical-performance-scim4397006205/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/sodiumwaterhomeostasis/"
     },
     "SoftBudgetFootballClubs": {
       "episode_count": 2,
