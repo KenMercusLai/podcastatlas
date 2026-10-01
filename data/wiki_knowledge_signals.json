@@ -63475,6 +63475,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/fanyinglatehan/"
     },
+    "FanYiru": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "vol.125.日本到底还行不行？ ｜ 串台东亚观察局 [lsiLaX772Olwi9XvVVFZ6xCelfqw].md",
+          "key": "vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw",
+          "show": "起朱楼宴宾客",
+          "title": "vol.125.日本到底还行不行？ | 串台东亚观察局",
+          "url": "/wiki/sources/vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw/"
+        },
+        {
+          "episode_file": "llOihxUTWgcZk-xLyVEK5wwRuaP4 [llOihxUTWgcZk-xLyVEK5wwRuaP4].md",
+          "key": "shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得",
+          "url": "/wiki/sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-lloihxutwgczk-xlyvek5wwruap4/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/fanyiru/"
+    },
     "FanZhongyan": {
       "episode_count": 1,
       "show_count": 1,
@@ -77410,9 +77433,9 @@
       "url": "/wiki/entities/graceannupholstery/"
     },
     "GradualParentChildRelationship": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhLhohpUHBpofcWXtzOuxDIvRber [lhLhohpUHBpofcWXtzOuxDIvRber].md",
@@ -77420,9 +77443,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界",
           "url": "/wiki/sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhlhohpuhbpofcwxtzouxdivrber/"
+        },
+        {
+          "episode_file": "llOihxUTWgcZk-xLyVEK5wwRuaP4 [llOihxUTWgcZk-xLyVEK5wwRuaP4].md",
+          "key": "shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得",
+          "url": "/wiki/sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-lloihxutwgczk-xlyvek5wwruap4/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/gradualparentchildrelationship/"
     },
     "Graft": {
@@ -120092,9 +120122,9 @@
       "url": "/wiki/entities/malcolmgaskell/"
     },
     "MaleEmotionalIntimacyNeed": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lmQ6ET15-mLUqYUUav7Z4jpx4hcb [lmQ6ET15-mLUqYUUav7Z4jpx4hcb].md",
@@ -120116,9 +120146,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活",
           "url": "/wiki/sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsyposseewaqimmsv6q2lygsocsw/"
+        },
+        {
+          "episode_file": "llOihxUTWgcZk-xLyVEK5wwRuaP4 [llOihxUTWgcZk-xLyVEK5wwRuaP4].md",
+          "key": "shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得",
+          "url": "/wiki/sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-lloihxutwgczk-xlyvek5wwruap4/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/maleemotionalintimacyneed/"
     },
     "MaleHormoneHealthPhenotyping": {
@@ -129756,9 +129793,9 @@
       "url": "/wiki/concepts/multiteacherdistillation/"
     },
     "MultidimensionalMarriageMeaning": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnanj_UWjHCNV2vT7ezAGDFn9c11 [lnanj_UWjHCNV2vT7ezAGDFn9c11].md",
@@ -129766,9 +129803,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度",
           "url": "/wiki/sources/shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11/"
+        },
+        {
+          "episode_file": "llOihxUTWgcZk-xLyVEK5wwRuaP4 [llOihxUTWgcZk-xLyVEK5wwRuaP4].md",
+          "key": "shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得",
+          "url": "/wiki/sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-lloihxutwgczk-xlyvek5wwruap4/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/multidimensionalmarriagemeaning/"
     },
     "MultidisciplinaryAssociationForPsychedelicStudies": {
@@ -134129,9 +134173,9 @@
       "url": "/wiki/concepts/nondualmindfulness/"
     },
     "NonInstrumentalRelationalSafety": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvjFqVPu-EtzFtdXKE0DUg5L9f5J [lvjFqVPu-EtzFtdXKE0DUg5L9f5J].md",
@@ -134139,9 +134183,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷",
           "url": "/wiki/sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j/"
+        },
+        {
+          "episode_file": "llOihxUTWgcZk-xLyVEK5wwRuaP4 [llOihxUTWgcZk-xLyVEK5wwRuaP4].md",
+          "key": "shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得",
+          "url": "/wiki/sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-lloihxutwgczk-xlyvek5wwruap4/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/noninstrumentalrelationalsafety/"
     },
     "NonMarketEnvironmentalValuation": {
@@ -148553,6 +148604,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/preventiverelationshipmaintenance/"
+    },
+    "PreverbalRelationalAttunement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llOihxUTWgcZk-xLyVEK5wwRuaP4 [llOihxUTWgcZk-xLyVEK5wwRuaP4].md",
+          "key": "shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得",
+          "url": "/wiki/sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-lloihxutwgczk-xlyvek5wwruap4/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/preverbalrelationalattunement/"
     },
     "PrimaMateria": {
       "episode_count": 1,
@@ -167084,9 +167151,9 @@
       "url": "/wiki/entities/shidewesternhan/"
     },
     "ShiDiFuShuo": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -167150,9 +167217,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度",
           "url": "/wiki/sources/shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11/"
+        },
+        {
+          "episode_file": "llOihxUTWgcZk-xLyVEK5wwRuaP4 [llOihxUTWgcZk-xLyVEK5wwRuaP4].md",
+          "key": "shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得",
+          "url": "/wiki/sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-lloihxutwgczk-xlyvek5wwruap4/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/shidifushuo/"
     },
     "ShiGaoWesternHan": {
@@ -173907,9 +173981,9 @@
       "url": "/wiki/entities/stevehilton/"
     },
     "SteveShiDiFuShuoHost": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -173980,9 +174054,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说474期 - 咨询师回信：权力视角是为人处世的必备角度",
           "url": "/wiki/sources/shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11/"
+        },
+        {
+          "episode_file": "llOihxUTWgcZk-xLyVEK5wwRuaP4 [llOihxUTWgcZk-xLyVEK5wwRuaP4].md",
+          "key": "shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得",
+          "url": "/wiki/sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-lloihxutwgczk-xlyvek5wwruap4/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/steveshidifushuohost/"
     },
     "SteveYoungMelanomaPatient": {
@@ -184278,6 +184359,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/tomorrowtoday/"
+    },
+    "TongChenjie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llOihxUTWgcZk-xLyVEK5wwRuaP4 [llOihxUTWgcZk-xLyVEK5wwRuaP4].md",
+          "key": "shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得",
+          "url": "/wiki/sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-lloihxutwgczk-xlyvek5wwruap4/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/tongchenjie/"
     },
     "TongLiSexEducator": {
       "episode_count": 1,

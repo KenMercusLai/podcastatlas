@@ -4,7 +4,8 @@ type: concept
 tags: [marriage, relationships, law, trust]
 sources:
   - shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11
-last_updated: 2026-09-29
+  - shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,9 @@ Multidimensional marriage meaning is the view that a marriage can have distinct 
 ## Current Synthesis
 [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11|史蒂夫说474期]] introduces the frame through a listener who learns that a partner had previously registered a marriage to help an earlier girlfriend obtain a visa. The certificate matters legally, and late disclosure can matter for trust, but neither fact alone settles how emotionally, socially, psychologically, or practically married the former couple were.
 
-The source recommends curiosity before moral conclusion: ask what happened, how the participants understood it, how they lived, why it ended, and why disclosure came late. This does not neutralize concealment or legal consequence. It prevents a single external marker or cultural script from automatically becoming a complete account of intimacy, character, and present compatibility.
+The first source recommends curiosity before moral conclusion: ask what happened, how the participants understood it, how they lived, why it ended, and why disclosure came late. This does not neutralize concealment or legal consequence. It prevents a single external marker or cultural script from automatically becoming a complete account of intimacy, character, and present compatibility.
+
+Episode 475 extends the frame from interpreting a prior marriage to understanding divorce itself. Legal dissolution may end marital status while emotional history, shared social worlds, practical ties, or co-parenting continue in altered form. The episode's “walking apart” metaphor therefore supports relationship transformation rather than a universal clean-break or reunion rule.
 
 ## Key Claims
 - Legal registration establishes a legal dimension but does not by itself establish every social, emotional, psychological, or domestic dimension of marriage.
@@ -25,6 +28,7 @@ The source recommends curiosity before moral conclusion: ask what happened, how 
 - Moral shame around divorce or prior marriage can obscure concrete questions about conduct, growth, trust, and present compatibility.
 - Curiosity about a partner's history can reduce projection only when questions are not designed merely to confirm a feared conclusion.
 - Outside norms can inform judgment without replacing the couple's need to understand the actual history.
+- Divorce can transform a couple relationship into another form, especially shared parenthood, without implying that every emotional or practical bond should continue.
 
 ## Evidence
 Multiple dimensions:
@@ -35,11 +39,16 @@ Inquiry and trust:
 - [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11|史蒂夫说474期]] recommends learning what the earlier registration meant to the partner instead of treating the certificate as a complete story.
 - [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11|史蒂夫说474期]] preserves the listener's concern about concealment while warning that friends' worst-case prompts and a therapist's shocked reaction can intensify fear without adding context.
 
+Relationship transformation:
+- [[shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4|史蒂夫说475期]] distinguishes legal, psychological, emotional, domestic, social, and parental layers of separation.
+- [[shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4|史蒂夫说475期]] notes that former spouses with a child may cease being a couple while continuing as co-parents.
+
 ## Counterevidence & Qualifications
-Legal marriage has real rights, duties, immigration consequences, financial exposure, and documentary meaning that cannot be dissolved by a participant's subjective account. A multidimensional frame should not minimize deception, fraud, coercion, ongoing obligations, or legitimate incompatibility. The episode supplies one partner's reported explanation through a listener letter and does not verify the earlier relationship, immigration facts, or reasons for delayed disclosure.
+Legal marriage and divorce have real rights, duties, immigration consequences, financial exposure, custody implications, and documentary meaning that cannot be dissolved by a participant's subjective account. A multidimensional frame should not minimize deception, fraud, coercion, ongoing obligations, legitimate incompatibility, or the need for a clean safety boundary. The first episode supplies one partner's reported explanation through a listener letter; the second offers a reflective model rather than legal or population-level evidence.
 
 ## What Changed
-- Created the concept from episode 474's distinction among legal status, lived relationship, and the meaning assigned by participants.
+- Extended the concept from interpreting marital status to relationship transformation after divorce.
+- Added co-parenting as a concrete case where one dimension ends while another continues.
 
 ## Related Concepts
 - [[MarriageDefaultContract]] - legal and economic defaults created by marriage even without private negotiation.
@@ -48,3 +57,4 @@ Legal marriage has real rights, duties, immigration consequences, financial expo
 - [[PrenuptialAgreementAsRelationshipDesign]] - deliberate legal planning within marriage's legal dimension.
 - [[MarriageExitFriction]] - legal, financial, administrative, and cultural barriers to leaving marriage.
 - [[RomanticProjectionTrap]] - risk of filling unknown relationship history with feared or idealized assumptions.
+- [[CleanBreakDivorceModel]] - contrasting norm that treats household separation as ending most ongoing family coordination.

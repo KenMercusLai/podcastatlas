@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11744
+wiki_total_pages: 11745
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1433,6 +1433,9 @@ wiki_pages:
   - key: "TwentyFourHistories"
     title: "二十四史 / Twenty-Four Histories"
     url: "/wiki/entities/twentyfourhistories/"
+  - key: "TongChenjie"
+    title: "佟晨洁 / Tong Chenjie"
+    url: "/wiki/entities/tongchenjie/"
   - key: "TongZhiLateHan"
     title: "僮芝 / Tong Zhi (late Han)"
     url: "/wiki/entities/tongzhilatehan/"

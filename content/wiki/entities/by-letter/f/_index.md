@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11744
+wiki_total_pages: 11745
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -1038,7 +1038,7 @@ wiki_pages:
     title: "桓帝五侯 / Five Marquises of Emperor Huan's reign"
     url: "/wiki/entities/fivemarquiseshuanera/"
   - key: "FanYiru"
-    title: "樊一如 / Fan Yiru"
+    title: "梵一如 / Fan Yiru"
     url: "/wiki/entities/fanyiru/"
   - key: "FanFengEunuchLateHan"
     title: "樊丰 / Fan Feng (late Han eunuch)"

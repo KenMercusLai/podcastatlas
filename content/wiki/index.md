@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得](sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4.md) — Reunion on marriage, family as a harbor for vulnerability, male distress, preverbal infant attunement, parent-child connection, divorce, aging, and care.
 - [Improve Flexibility with Research-Supported Stretching Protocols](sources/improve-flexibility-with-research-supported-stretching-protocols-scim4600343438.md) — Huberman Lab solo episode on neural flexibility mechanisms, low-intensity static-stretching dose, yoga and pain tolerance, and strict boundaries around animal inflammation and tumor findings.
 - [196. Julius Caesar & Cleopatra (Part 2)](sources/196-julius-caesar-cleopatra-part-2-glt3216275988.md) — The Rest Is History episode on Cleopatra's succession crisis, Pompey's murder, Caesar's Alexandrian intervention, Caesarion, and political survival beyond the seductress myth.
 - [197. Antony & Cleopatra (Part 3)](sources/197-antony-cleopatra-part-3-glt1953107818.md) — The Rest Is History episode on the Tarsus bargain, Antony's Parthian failure, a more equal Egyptian alliance, the Donations of Alexandria, and Roman-Hellenistic imperial legitimacy.
@@ -3388,6 +3389,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [199. Stonehenge](sources/199-stonehenge-glt3612348466.md) — The Rest Is History conversation with Mike Pitts on Stonehenge's changing phases, stone transport, burials, solstice alignment, collective construction, and archaeological uncertainty.
 
 ## Entities
+- [佟晨洁 / Tong Chenjie](entities/TongChenjie.md) — Guest in the 史蒂夫说 reunion on marriage, family safety, parenting, separation, aging, and care.
 - [Battle of Actium](entities/BattleOfActium.md) — Decisive blockade-and-breakout campaign whose Augustan afterlife complicates reconstruction of Antony and Cleopatra's strategy.
 - [Marcus Vipsanius Agrippa](entities/MarcusVipsaniusAgrippa.md) — Octavian's naval commander whose port seizures and blockade shaped the Actium campaign.
 - [Caesarion](entities/Caesarion.md) — Cleopatra's son and co-ruler whose claimed Julian descent threatened Octavian's succession position.
@@ -10199,7 +10201,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Massachusetts Investors Trust](entities/MassachusettsInvestorsTrust.md) — First-mutual-fund historical anchor in vol.126, used to illustrate compounding and institutional continuity.
 - [Charles Schwab](entities/CharlesSchwab.md) — U.S. low-fee brokerage and wealth-management comparison case in vol.126.
 - [东亚观察局 / East Asia Observatory](entities/EastAsiaObservatory.md) — Crossover partner in vol.125, bringing an East Asia society-and-politics conversation mode to Japan's economy, labor, tourism, and development questions.
-- [樊一如 / Fan Yiru](entities/FanYiru.md) — 东亚观察局 speaker in vol.125 who helps frame Japan as personally livable but structurally constrained.
+- [梵一如 / Fan Yiru](entities/FanYiru.md) — Podcast speaker connecting Japan's structural constraints with a later relationship conversation on family, vulnerability, and care.
 - [Kumamoto / 熊本](entities/Kumamoto.md) — Japan regional case where TSMC investment turns semiconductor-chain relocation into local supplier, service, wage, and school spillovers.
 - [Howard Marks / 霍华德·马克斯](entities/HowardMarks.md) — Investor and memo writer used by vol.124 as the "nobody knows" uncertainty discipline for information overload and deliberate inaction.
 - [Vietnam](entities/Vietnam.md) — Country synthesized across the 1975 war ending, postwar displacement, Mekong Delta history, and export-market dependence.
@@ -15170,6 +15172,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Helene Langevin](entities/HeleneLangevin.md) — Researcher cited for fascia, stretching, inflammation, fibrosis, and animal-tumor work whose clinical implications remain explicitly bounded.
 
 ## Concepts
+- [Preverbal Relational Attunement / 前语言关系调谐](concepts/PreverbalRelationalAttunement.md) — Reading body, affect, crying, expression, and touch as communication from a whole person before language can carry the relationship.
 - [Donations of Alexandria](concepts/DonationsOfAlexandria.md) — Dynastic settlement and public spectacle joining territorial grants, succession, monarchy, and a legitimacy crisis at Rome.
 - [Roman-Hellenistic Imperial Synthesis](concepts/RomanHellenisticImperialSynthesis.md) — Attempt to combine Roman command with Ptolemaic resources, eastern monarchy, and family-centered imperial rule.
 - [Augustan Enemy Framing](concepts/AugustanEnemyFraming.md) — Strategy that externalized Roman civil war by making Cleopatra a foreign, royal, female enemy and Antony her corrupted dependent.

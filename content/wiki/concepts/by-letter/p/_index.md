@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9094
+wiki_total_pages: 9095
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1652,6 +1652,9 @@ wiki_pages:
   - key: "PreventiveRelationshipMaintenance"
     title: "Preventive Relationship Maintenance"
     url: "/wiki/concepts/preventiverelationshipmaintenance/"
+  - key: "PreverbalRelationalAttunement"
+    title: "Preverbal Relational Attunement / 前语言关系调谐"
+    url: "/wiki/concepts/preverbalrelationalattunement/"
   - key: "PriceElasticity"
     title: "Price Elasticity / 价格弹性"
     url: "/wiki/concepts/priceelasticity/"

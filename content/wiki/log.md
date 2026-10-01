@@ -26642,3 +26642,11 @@ Added source `improve-flexibility-with-research-supported-stretching-protocols-s
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得
+
+Added source `shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4`; created `TongChenjie` and `PreverbalRelationalAttunement`; corrected and resynthesized `FanYiru`; and resynthesized `ShiDiFuShuo`, `SteveShiDiFuShuoHost`, `GradualParentChildRelationship`, `MaleEmotionalIntimacyNeed`, `NonInstrumentalRelationalSafety`, and `MultidimensionalMarriageMeaning` from their complete preserved evidence inventories. Core synthesis: personal achievement does not replace a relationship that can receive failure and vulnerability; fatherhood can redirect self-proof toward care; infant signals should be read as communication from a whole person rather than a problem to eliminate; and divorce can end legal marriage without automatically erasing every emotional, practical, social, or parental bond. No settled contradiction was adopted. Gendered attention patterns, generational change, counseling observations, family stories, and reunion trajectories remain experiential or source-scoped, and harbor language does not require continued contact in unsafe relationships. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,331-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, synthesis, index coverage, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
