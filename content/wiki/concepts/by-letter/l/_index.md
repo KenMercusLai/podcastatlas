@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9139
+wiki_total_pages: 9141
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "LocalGovernmentPolicyExperimentation"
     title: "Local Government Policy Experimentation / 地方政府政策实验"
     url: "/wiki/concepts/localgovernmentpolicyexperimentation/"
+  - key: "LocalHyperthermiaAdiposeBrowning"
+    title: "Local Hyperthermia and Adipose Browning"
+    url: "/wiki/concepts/localhyperthermiaadiposebrowning/"
   - key: "LocalJournalism"
     title: "Local Journalism"
     url: "/wiki/concepts/localjournalism/"

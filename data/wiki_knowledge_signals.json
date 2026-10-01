@@ -79067,9 +79067,9 @@
       "url": "/wiki/entities/groundtruthnewsletter/"
     },
     "GrowthHormoneBehavioralRegulation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6636881997 [SCIM6636881997].md",
@@ -79084,9 +79084,16 @@
           "show": "Huberman Lab",
           "title": "Benefits & Risks of Peptide Therapeutics for Physical & Mental Health",
           "url": "/wiki/sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198/"
+        },
+        {
+          "episode_file": "SCIM5583107634 [SCIM5583107634].md",
+          "key": "scim5583107634-scim5583107634",
+          "show": "Huberman Lab",
+          "title": "The Science & Health Benefits of Deliberate Heat Exposure",
+          "url": "/wiki/sources/scim5583107634-scim5583107634/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/growthhormonebehavioralregulation/"
     },
     "GrowthHormoneSecretagogues": {
@@ -84139,9 +84146,9 @@
       "url": "/wiki/concepts/heartvalverepairreplacementdecision/"
     },
     "HeatExposureDoseAndSafety": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7949990176 [SCIM7949990176].md",
@@ -84149,6 +84156,13 @@
           "show": "Huberman Lab",
           "title": "Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
           "url": "/wiki/sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176/"
+        },
+        {
+          "episode_file": "SCIM5583107634 [SCIM5583107634].md",
+          "key": "scim5583107634-scim5583107634",
+          "show": "Huberman Lab",
+          "title": "The Science & Health Benefits of Deliberate Heat Exposure",
+          "url": "/wiki/sources/scim5583107634-scim5583107634/"
         }
       ],
       "updated": "2026-10-01",
@@ -116199,6 +116213,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/localgovernmentpolicyexperimentation/"
+    },
+    "LocalHyperthermiaAdiposeBrowning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5583107634 [SCIM5583107634].md",
+          "key": "scim5583107634-scim5583107634",
+          "show": "Huberman Lab",
+          "title": "The Science & Health Benefits of Deliberate Heat Exposure",
+          "url": "/wiki/sources/scim5583107634-scim5583107634/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/localhyperthermiaadiposebrowning/"
     },
     "LocalMuscularEnduranceBenchmarks": {
       "episode_count": 1,
@@ -184600,6 +184630,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/theresamay/"
+    },
+    "ThermoregulationAndGlabrousHeatTransfer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5583107634 [SCIM5583107634].md",
+          "key": "scim5583107634-scim5583107634",
+          "show": "Huberman Lab",
+          "title": "The Science & Health Benefits of Deliberate Heat Exposure",
+          "url": "/wiki/sources/scim5583107634-scim5583107634/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/thermoregulationandglabrousheattransfer/"
     },
     "TheroigneDeMericourt": {
       "episode_count": 2,

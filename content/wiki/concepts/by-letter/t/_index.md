@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9139
+wiki_total_pages: 9141
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "TherapyRelationshipAndBoundaries"
     title: "Therapy Relationship And Boundaries"
     url: "/wiki/concepts/therapyrelationshipandboundaries/"
+  - key: "ThermoregulationAndGlabrousHeatTransfer"
+    title: "Thermoregulation and Glabrous Heat Transfer"
+    url: "/wiki/concepts/thermoregulationandglabrousheattransfer/"
   - key: "ThinDiplomaticFrameworks"
     title: "Thin Diplomatic Frameworks"
     url: "/wiki/concepts/thindiplomaticframeworks/"
