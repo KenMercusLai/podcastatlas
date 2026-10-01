@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9093
+wiki_total_pages: 9094
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2024,6 +2024,9 @@ wiki_pages:
   - key: "StretchingMobilitySafety"
     title: "Stretching and Mobility Safety / 拉伸与灵活性安全"
     url: "/wiki/concepts/stretchingmobilitysafety/"
+  - key: "StretchingSystemicEffectsEvidenceBoundary"
+    title: "Stretching Systemic Effects Evidence Boundary"
+    url: "/wiki/concepts/stretchingsystemiceffectsevidenceboundary/"
   - key: "StrikeThreatAsBATNA"
     title: "Strike Threat as BATNA"
     url: "/wiki/concepts/strikethreatasbatna/"

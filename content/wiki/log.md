@@ -26634,3 +26634,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Improve Flexibility with Research-Supported Stretching Protocols
+
+Added source `improve-flexibility-with-research-supported-stretching-protocols-scim4600343438`; created `HeleneLangevin` and `StretchingSystemicEffectsEvidenceBoundary`; and resynthesized `FlexibilityNeuralSafetyGating`, `StaticStretchingDoseProtocol`, `InsularPainToleranceTraining`, and `StretchingMobilitySafety` from their complete preserved evidence inventories. Core synthesis: flexibility is jointly constrained by neural reflexes, tissue state, joint structure, and top-down control; durable range-of-motion practice favors warm, low-intensity static holds accumulated frequently; and antagonist contraction can change tolerated range immediately without implying instant tissue lengthening. No settled contradiction was adopted. The full episode and its Essentials condensation are shared provenance rather than independent replication, pre-training static stretching remains goal-dependent, and yoga, autonomic, inflammation, fibrosis, and mouse-tumor findings remain source-scoped rather than individualized pain, rehabilitation, inflammatory-disease, or cancer guidance. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,330-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, changed-page link, index coverage, synthesis, and publish validation passed; the repository-wide scanner still reports 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

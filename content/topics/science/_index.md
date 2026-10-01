@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1368
+topic_total_pages: 1369
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3864,6 +3864,9 @@ topic_sources:
   - key: "how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546"
     title: "How Your Immune System Works & How to Improve It | Dr. Max Krummel"
     url: "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"
+  - key: "improve-flexibility-with-research-supported-stretching-protocols-scim4600343438"
+    title: "Improve Flexibility with Research-Supported Stretching Protocols"
+    url: "/wiki/sources/improve-flexibility-with-research-supported-stretching-protocols-scim4600343438/"
   - key: "indy-johar-civilizational-optioneering-tyeyt7r-zfu"
     title: "Indy Johar: Civilizational Optioneering"
     url: "/wiki/sources/indy-johar-civilizational-optioneering-tyeyt7r-zfu/"

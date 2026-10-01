@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Improve Flexibility with Research-Supported Stretching Protocols](sources/improve-flexibility-with-research-supported-stretching-protocols-scim4600343438.md) — Huberman Lab solo episode on neural flexibility mechanisms, low-intensity static-stretching dose, yoga and pain tolerance, and strict boundaries around animal inflammation and tumor findings.
 - [196. Julius Caesar & Cleopatra (Part 2)](sources/196-julius-caesar-cleopatra-part-2-glt3216275988.md) — The Rest Is History episode on Cleopatra's succession crisis, Pompey's murder, Caesar's Alexandrian intervention, Caesarion, and political survival beyond the seductress myth.
 - [197. Antony & Cleopatra (Part 3)](sources/197-antony-cleopatra-part-3-glt1953107818.md) — The Rest Is History episode on the Tarsus bargain, Antony's Parthian failure, a more equal Egyptian alliance, the Donations of Alexandria, and Roman-Hellenistic imperial legitimacy.
 - [198. Cleopatra's Downfall (Part 4)](sources/198-cleopatras-downfall-part-4-glt1186341405.md) — The Rest Is History episode on Octavian's anti-Cleopatra framing, Actium, the fall of Alexandria, the end of Ptolemaic Egypt, and Cleopatra's contested afterlife.
@@ -15166,6 +15167,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ptolemy XIII](entities/PtolemyXIII.md) — Child co-ruler whose court displaced Cleopatra, murdered Pompey, and opposed Caesar in the Alexandrian War.
 - [Arsinoe IV](entities/ArsinoeIV.md) — Ptolemaic princess and rival queen who escaped Caesar's custody during the Alexandrian War.
 
+- [Helene Langevin](entities/HeleneLangevin.md) — Researcher cited for fascia, stretching, inflammation, fibrosis, and animal-tumor work whose clinical implications remain explicitly bounded.
+
 ## Concepts
 - [Donations of Alexandria](concepts/DonationsOfAlexandria.md) — Dynastic settlement and public spectacle joining territorial grants, succession, monarchy, and a legitimacy crisis at Rome.
 - [Roman-Hellenistic Imperial Synthesis](concepts/RomanHellenisticImperialSynthesis.md) — Attempt to combine Roman command with Ptolemaic resources, eastern monarchy, and family-centered imperial rule.
@@ -24305,5 +24308,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Revolutionary Purge Security Dilemma](concepts/RevolutionaryPurgeSecurityDilemma.md) — Dynamic in which destroying rival factions makes survivors less secure and aligns them against the purging center.
 
 - [Alexandrian War](concepts/AlexandrianWar.md) — Palace and urban war joining Roman civil conflict to the Ptolemaic succession and Cleopatra's restoration.
+
+- [Stretching Systemic Effects Evidence Boundary](concepts/StretchingSystemicEffectsEvidenceBoundary.md) — Separates autonomic, connective-tissue, inflammation, fibrosis, and mouse-tumor findings from demonstrated human treatment claims.
 
 ## Syntheses
