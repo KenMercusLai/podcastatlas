@@ -26670,3 +26670,11 @@ Added source `194-the-first-fascist-glt5479566212`; created `LucyHughesHallett`,
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 193. How Prime Ministers Fall
+
+Added source `193-how-prime-ministers-fall-glt7608869237`; created `RobertWalpole`, `TheresaMay`, and `PrimeMinisterialRegicide`; and resynthesized `BorisJohnson` from its complete preserved evidence inventory. Core synthesis: a prime minister can win a formal confidence vote yet lose usable authority when the scale of rebellion becomes public, crisis performance concentrates blame, and cabinet or party coordination turns weakness into removal. Walpole supplies the early parliamentary template, May shows how collapse can be prolonged, Wilson qualifies the pattern through divided rivals, and Johnson's 211-148 victory is treated as the June warning stage before the July fall already documented by the wiki. No settled contradiction was adopted. The regicide and Komodo-dragon metaphors, cross-century comparisons, forecasts, approval figures, and private-motive claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,334-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, changed-page link, index coverage, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

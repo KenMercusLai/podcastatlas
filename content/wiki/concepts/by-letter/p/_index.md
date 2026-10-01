@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9098
+wiki_total_pages: 9099
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1679,6 +1679,9 @@ wiki_pages:
   - key: "PrimeMembershipFlywheel"
     title: "Prime Membership Flywheel"
     url: "/wiki/concepts/primemembershipflywheel/"
+  - key: "PrimeMinisterialRegicide"
+    title: "Prime Ministerial Regicide"
+    url: "/wiki/concepts/primeministerialregicide/"
   - key: "PrimingAndStereotypeMemory"
     title: "Priming And Stereotype Memory / 启动效应与刻板印象记忆"
     url: "/wiki/concepts/primingandstereotypememory/"

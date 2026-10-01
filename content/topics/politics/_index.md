@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2900
+topic_total_pages: 2903
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3040,6 +3040,9 @@ topic_concepts:
   - key: "PrimaryDelegateLegitimacyGap"
     title: "Primary-Delegate Legitimacy Gap"
     url: "/wiki/concepts/primarydelegatelegitimacygap/"
+  - key: "PrimeMinisterialRegicide"
+    title: "Prime Ministerial Regicide"
+    url: "/wiki/concepts/primeministerialregicide/"
   - key: "PrincipledDisobedience"
     title: "Principled Disobedience / 原则性不服从"
     url: "/wiki/concepts/principleddisobedience/"
@@ -6611,6 +6614,9 @@ topic_entities:
   - key: "RobertGuest"
     title: "Robert Guest"
     url: "/wiki/entities/robertguest/"
+  - key: "RobertWalpole"
+    title: "Robert Walpole"
+    url: "/wiki/entities/robertwalpole/"
   - key: "RockbridgeNetwork"
     title: "Rockbridge Network"
     url: "/wiki/entities/rockbridgenetwork/"
@@ -6893,6 +6899,9 @@ topic_entities:
   - key: "TherapeuticGoodsAdministration"
     title: "Therapeutic Goods Administration / TGA"
     url: "/wiki/entities/therapeuticgoodsadministration/"
+  - key: "TheresaMay"
+    title: "Theresa May"
+    url: "/wiki/entities/theresamay/"
   - key: "ThomasHutchinson"
     title: "Thomas Hutchinson"
     url: "/wiki/entities/thomashutchinson/"

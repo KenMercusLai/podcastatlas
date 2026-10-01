@@ -1308,6 +1308,13 @@
       "url": "/topics/science/"
     }
   ],
+  "193-how-prime-ministers-fall-glt7608869237": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "194-the-first-fascist-glt5479566212": [
     {
       "key": "history",
@@ -62231,6 +62238,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "PrimeMinisterialRegicide": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PrimingAndStereotypeMemory": [
     {
       "key": "science",
@@ -66764,6 +66778,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "RobertWalpole": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RobertoRidolfi": [
@@ -77807,6 +77828,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "TheresaMay": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ThielFellowship": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11750
+wiki_total_pages: 11752
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "TherapeuticInnovationCenter"
     title: "Therapeutic Innovation Center"
     url: "/wiki/entities/therapeuticinnovationcenter/"
+  - key: "TheresaMay"
+    title: "Theresa May"
+    url: "/wiki/entities/theresamay/"
   - key: "Theseus"
     title: "Theseus"
     url: "/wiki/entities/theseus/"

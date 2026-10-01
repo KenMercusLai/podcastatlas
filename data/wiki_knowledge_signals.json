@@ -22307,9 +22307,9 @@
       "url": "/wiki/concepts/borderlegalsignal/"
     },
     "BorisJohnson": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
@@ -22331,6 +22331,13 @@
           "show": "The Rest Is History",
           "title": "205. The Last Days of Boris Johnson",
           "url": "/wiki/sources/205-the-last-days-of-boris-johnson-glt2329301983/"
+        },
+        {
+          "episode_file": "GLT7608869237 [GLT7608869237].md",
+          "key": "193-how-prime-ministers-fall-glt7608869237",
+          "show": "The Rest Is History",
+          "title": "193. How Prime Ministers Fall",
+          "url": "/wiki/sources/193-how-prime-ministers-fall-glt7608869237/"
         }
       ],
       "updated": "2026-10-01",
@@ -148835,6 +148842,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/primemembershipflywheel/"
     },
+    "PrimeMinisterialRegicide": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7608869237 [GLT7608869237].md",
+          "key": "193-how-prime-ministers-fall-glt7608869237",
+          "show": "The Rest Is History",
+          "title": "193. How Prime Ministers Fall",
+          "url": "/wiki/sources/193-how-prime-ministers-fall-glt7608869237/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/primeministerialregicide/"
+    },
     "PrinceHallFreemasonry": {
       "episode_count": 1,
       "show_count": 1,
@@ -159167,6 +159190,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/robertthemagnificent/"
+    },
+    "RobertWalpole": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7608869237 [GLT7608869237].md",
+          "key": "193-how-prime-ministers-fall-glt7608869237",
+          "show": "The Rest Is History",
+          "title": "193. How Prime Ministers Fall",
+          "url": "/wiki/sources/193-how-prime-ministers-fall-glt7608869237/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/robertwalpole/"
     },
     "RobertoRidolfi": {
       "episode_count": 1,
@@ -182503,6 +182542,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/therapyrelationshipandboundaries/"
+    },
+    "TheresaMay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7608869237 [GLT7608869237].md",
+          "key": "193-how-prime-ministers-fall-glt7608869237",
+          "show": "The Rest Is History",
+          "title": "193. How Prime Ministers Fall",
+          "url": "/wiki/sources/193-how-prime-ministers-fall-glt7608869237/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/theresamay/"
     },
     "TheroigneDeMericourt": {
       "episode_count": 2,

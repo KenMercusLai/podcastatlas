@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [193. How Prime Ministers Fall](sources/193-how-prime-ministers-fall-glt7608869237.md) — The Rest Is History episode on Boris Johnson's June 2022 confidence vote and the historical mechanisms by which British prime ministers lose usable authority.
 - [194. The First Fascist](sources/194-the-first-fascist-glt5479566212.md) — The Rest Is History episode on D'Annunzio's literary celebrity, war nationalism, Fiume occupation, fascist political theatre, and the boundary between performative precursor and governing dictator.
 - [史蒂夫说475期 - 佟晨洁&梵一如 - 个人成功和关系港湾，愿你二者兼得](sources/shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4.md) — Reunion on marriage, family as a harbor for vulnerability, male distress, preverbal infant attunement, parent-child connection, divorce, aging, and care.
 - [Improve Flexibility with Research-Supported Stretching Protocols](sources/improve-flexibility-with-research-supported-stretching-protocols-scim4600343438.md) — Huberman Lab solo episode on neural flexibility mechanisms, low-intensity static-stretching dose, yoga and pain tolerance, and strict boundaries around animal inflammation and tumor findings.
@@ -3391,6 +3392,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [199. Stonehenge](sources/199-stonehenge-glt3612348466.md) — The Rest Is History conversation with Mike Pitts on Stonehenge's changing phases, stone transport, burials, solstice alignment, collective construction, and archaeological uncertainty.
 
 ## Entities
+- [Robert Walpole](entities/RobertWalpole.md) — Long-serving early British premier whose wartime reverses and one-vote Commons defeat exposed terminal political weakness.
+- [Theresa May](entities/TheresaMay.md) — British prime minister whose confidence-vote survival did not reverse the long erosion of authority after the 2017 election.
 - [Lucy Hughes-Hallett](entities/LucyHughesHallett.md) — Biographer interpreting D'Annunzio's literary power, abuse, wartime courage, Fiume politics, and influence on fascist style.
 - [Eleonora Duse](entities/EleonoraDuse.md) — Internationally famous Italian actor and intellectual partner who carried D'Annunzio's plays to wider audiences.
 - [Fiume](entities/Fiume.md) — Disputed Adriatic port where D'Annunzio's occupation joined nationalist revolt, aesthetic utopia, political theatre, scarcity, and ethnic coercion.
@@ -13820,7 +13823,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dimensity 9500](entities/Dimensity9500.md) — MediaTek smartphone-chip platform used as the vivo/MediaTek case for early AI compute, NPU, and terminal-chip co-design.
 - [United Kingdom](entities/UnitedKingdom.md) — Country case where Brexit reshaped trade, immigration expectations, strategic identity, and later Labour leadership instability under Starmer.
 - [David Cameron](entities/DavidCameron.md) — British prime minister whose 2013 EU referendum promise is framed as turning Conservative pressure into a national Brexit rupture.
-- [Boris Johnson](entities/BorisJohnson.md) — Brexit figure whose Leave role, harder settlement, migration record, fall, and succession influence connect referendum politics to later governing instability.
+- [Boris Johnson](entities/BorisJohnson.md) — Brexit figure whose Leave role, harder settlement, exposed 2022 party dissent, fall, and succession influence connect referendum politics to later governing instability.
 - [Daniel Franklin](entities/DanielFranklin.md) — The Intelligence participant framing Brexit as a continuing source of British political churn and strategic-identity uncertainty.
 - [Tom Carter](entities/TomCarter.md) — The Intelligence participant explaining Brexit's GDP, goods-export, services, finance, and professional-qualification frictions.
 - [Georgia Banjo](entities/GeorgiaBanjo.md) — The Intelligence participant analyzing AI as a possible but limited post-Brexit regulatory opportunity for Britain.
@@ -15179,6 +15182,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Helene Langevin](entities/HeleneLangevin.md) — Researcher cited for fascia, stretching, inflammation, fibrosis, and animal-tumor work whose clinical implications remain explicitly bounded.
 
 ## Concepts
+- [Prime Ministerial Regicide](concepts/PrimeMinisterialRegicide.md) — Framework for party rebellion, parliamentary loss, cabinet withdrawal, and crisis-driven erosion that can make formal survival politically hollow.
 - [Fascist Political Theatre](concepts/FascistPoliticalTheatre.md) — Leader-centered ritual using crowd dialogue, uniforms, gesture, song, procession, and sacrifice to turn spectacle into emotional authority.
 - [Ptolemaic Bicultural Kingship](concepts/PtolemaicBiculturalKingship.md) — Combined Macedonian Greek dynastic identity and Egyptian pharaonic legitimacy inherited and intensified by Cleopatra.
 - [Roman Informal Imperial Control](concepts/RomanInformalImperialControl.md) — Military-financial domination of a formally independent kingdom without immediate annexation.
