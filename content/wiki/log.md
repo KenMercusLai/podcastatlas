@@ -27323,3 +27323,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | The Science of Setting & Achieving Goals
+
+Added source `the-science-of-setting-achieving-goals-scim1292734289`; resynthesized `GoalPursuitBehaviorDesign`, `VisualFocusEffortTool`, `RewardPredictionErrorLearning`, `MotivationalVisualizationByState`, `ProgressTrackingSelfAssessment`, `MeditationAttentionModeSelection`, and `EmilyBalcetis` from their complete preserved evidence inventories. Core synthesis: goal pursuit is strengthened by a limited set of challenging but plausible priorities, concrete actions, intermediate milestones, proportionate review, and adaptable attention and reward tools rather than endpoint desire alone. The unresolved 23%-versus-27% walking-speed discrepancy was preserved, and the 85% ratio, weekly cadence, near-doubling visualization claim, dopamine mechanisms, and protocol doses remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,414-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide scanner retained 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

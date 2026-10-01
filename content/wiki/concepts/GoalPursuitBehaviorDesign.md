@@ -6,8 +6,9 @@ sources:
   - goals-toolkit-how-to-set-achieve-your-goals-scim1532399364
   - how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673
   - tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571
+  - the-science-of-setting-achieving-goals-scim1292734289
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-01
+last_updated: 2026-10-02
 ---
 
 # Goal Pursuit Behavior Design
@@ -22,14 +23,16 @@ Goal pursuit behavior design is the conversion of a desired end state into one p
 
 A perception-and-preparation layer comes from [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]]. A distant outcome is divided into near targets; foreseeable obstacles receive rehearsed contingency responses; and progress is recorded because memory may undercount practice or improvement. Vision boards can help identify a desired direction, but positive fantasy is not execution and can reduce readiness when it makes success feel prematurely obtained.
 
+[[the-science-of-setting-achieving-goals-scim1292734289]] supplies an earlier systems view. Goal difficulty should be high enough to recruit effort without making success feel implausible; the number of major priorities should remain limited; and an overarching goal should be translated into concrete plans, intermediate milestones, and a recurring review interval. Its exact 85% learning ratio and weekly cadence are heuristics, not universal thresholds.
+
 The durable principle is behavioral specificity with flexibility. The episodes' exact time horizons, reminder practices, visualizations, visual-focus durations, reward pairings, and planning increments are tools to test, not requirements that define whether a goal is legitimate.
 
 ## Key Claims
-- A goal becomes operational when one protected priority is stated as repeatable actions rather than a vague identity or outcome, while essential responsibilities continue.
+- A goal becomes operational when a limited set of challenging but plausible priorities is stated as repeatable actions rather than vague identities or outcomes, while essential responsibilities continue.
 - Measurement should emphasize controllable practice time or repetitions when the final outcome is hard to quantify.
 - Approach-oriented wording can make desired action and progress easier to identify than avoidance wording alone.
 - Meaningful choice, state-matched planning, and emergency slack can preserve ownership and resilience inside a structured goal.
-- Fresh starts, shorter goal periods, subdivided middles, and rehearsed obstacle responses create nearer routes through predictable motivation failures.
+- Fresh starts, shorter goal periods, intermediate milestones, recurring review, and rehearsed obstacle responses create nearer routes through predictable motivation failures.
 - Bounded reward pairing and remembered endings can support repetition without making all action depend on external reward.
 - Execution quality depends on baseline sleep, health, stress, social context, and schedule flexibility as well as motivation tactics.
 
@@ -43,13 +46,16 @@ The durable principle is behavioral specificity with flexibility. The episodes' 
 - Repetition design - [[how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673]] describes temptation bundling and a less unpleasant ending as tools for returning to difficult activities.
 - Obstacle and proximity design - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] combines near visual targets, manageable planning increments, and rehearsed contingency responses.
 - Progress visibility - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] uses practice records to correct discouraging memory bias.
+- Difficulty and priority calibration - [[the-science-of-setting-achieving-goals-scim1292734289]] recommends moderately difficult goals and limiting simultaneous major priorities.
+- Plan-review loop - [[the-science-of-setting-achieving-goals-scim1292734289]] connects concrete action steps, intermediate milestones, and regular self-assessment.
 
 ## Counterevidence & Qualifications
-The sources supply toolkits, not comparative evidence that every component adds benefit or that 12 weeks, two-week planning, approach framing, slack, target narrowing, or reward pairing is optimal across goals. Positive fantasy may clarify values yet substitute for action if it creates premature satisfaction. Avoidance goals can be appropriate when a prohibited harm is the real target. One-priority advice should not erase caregiving, health, employment, or multiple unavoidable obligations. Low motivation can also reflect clinical or structural problems that scheduling, visualization, gaze control, or self-reward cannot resolve.
+The sources supply toolkits, not comparative evidence that every component adds benefit or that 12 weeks, two-week planning, weekly review, an 85% success ratio, approach framing, slack, target narrowing, or reward pairing is optimal across goals. Positive fantasy may clarify values yet substitute for action if it creates premature satisfaction. Avoidance goals can be appropriate when a prohibited harm is the real target. Limited-priority advice should not erase caregiving, health, employment, or multiple unavoidable obligations. Low motivation can also reflect clinical or structural problems that scheduling, visualization, gaze control, or self-reward cannot resolve.
 
 ## What Changed
-- Added sequential near targets, obstacle rehearsal, and external progress records.
-- Clarified that desired-outcome imagery can identify direction without constituting an execution plan.
+- Added moderate-difficulty and limited-priority calibration.
+- Integrated intermediate milestones and recurring review into the execution loop.
+- Kept the 85% ratio and weekly cadence as source-scoped heuristics rather than universal prescriptions.
 
 ## Related Concepts
 - [[MotivationRewardEffortCalculation]] - explains why task value and perceived effort affect initiation and persistence.

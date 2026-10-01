@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Science of Setting & Achieving Goals](sources/the-science-of-setting-achieving-goals-scim1292734289.md) — Huberman Lab episode on goal difficulty, action planning, visual focus, dopamine-based progress signals, and qualified visualization tools.
 - [Science of Mindsets for Health & Performance | Dr. Alia Crum](sources/science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820.md) — Huberman Lab interview on mindset effects across food, exercise, stress, feedback, treatment, physiology, and their evidence boundaries.
 - [140. The Birth of the Railways](sources/140-the-birth-of-the-railways-glt2177757841.md) — The Rest Is History with Dan Jackson on coal-driven railway origins, the Stephensons, landmark early lines, private expansion, and Victorian social transformation.
 - [141. General Gordon: The Ultimate Victorian Hero](sources/141-general-gordon-the-ultimate-victorian-hero-glt2700696137.md) — The Rest Is History on Gordon's evangelical faith, Crimea, the Taiping Rebellion, Chinese command, Gravesend philanthropy, and contested reputation.
