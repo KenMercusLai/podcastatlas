@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9141
+wiki_total_pages: 9144
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "ReliefBasedReligiousMobilization"
     title: "Relief-Based Religious Mobilization / 救济型宗教动员"
     url: "/wiki/concepts/reliefbasedreligiousmobilization/"
+  - key: "ReligiousAuthorityAfterTempleDestruction"
+    title: "Religious Authority after Temple Destruction"
+    url: "/wiki/concepts/religiousauthorityaftertempledestruction/"
   - key: "ReligiousControlledSubstanceExemption"
     title: "Religious Controlled-Substance Exemption"
     url: "/wiki/concepts/religiouscontrolledsubstanceexemption/"

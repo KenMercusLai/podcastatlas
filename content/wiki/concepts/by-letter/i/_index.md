@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9141
+wiki_total_pages: 9144
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "ImperialTourPoliticalTheater"
     title: "Imperial Tour Political Theater / 帝国巡游政治剧场"
     url: "/wiki/concepts/imperialtourpoliticaltheater/"
+  - key: "ImperialVictoryReframing"
+    title: "Imperial Victory Reframing"
+    url: "/wiki/concepts/imperialvictoryreframing/"
   - key: "ImperialWarResourceMotive"
     title: "Imperial War Resource Motive"
     url: "/wiki/concepts/imperialwarresourcemotive/"

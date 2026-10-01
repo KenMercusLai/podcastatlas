@@ -94160,6 +94160,22 @@
       "updated": "2026-08-23",
       "url": "/wiki/concepts/imperialtourpoliticaltheater/"
     },
+    "ImperialVictoryReframing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1109135413 [GLT1109135413].md",
+          "key": "177-the-jewish-revolt-part-3-glt1109135413",
+          "show": "The Rest Is History",
+          "title": "177. The Jewish Revolt (Part 3)",
+          "url": "/wiki/sources/177-the-jewish-revolt-part-3-glt1109135413/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/imperialvictoryreframing/"
+    },
     "ImperialWarResourceMotive": {
       "episode_count": 1,
       "show_count": 1,
@@ -103616,9 +103632,9 @@
       "url": "/wiki/entities/josephinedebeauharnais/"
     },
     "Josephus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4572965796 [GLT4572965796].md",
@@ -103626,9 +103642,16 @@
           "show": "The Rest Is History",
           "title": "287: Jesus Christ: The Mystery (Part 1)",
           "url": "/wiki/sources/287-jesus-christ-the-mystery-part-1-glt4572965796/"
+        },
+        {
+          "episode_file": "GLT1109135413 [GLT1109135413].md",
+          "key": "177-the-jewish-revolt-part-3-glt1109135413",
+          "show": "The Rest Is History",
+          "title": "177. The Jewish Revolt (Part 3)",
+          "url": "/wiki/sources/177-the-jewish-revolt-part-3-glt1109135413/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/josephus/"
     },
     "JoshShapiro": {
@@ -103893,6 +103916,38 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/judasiscariot/"
+    },
+    "JudeanRevolt66To73": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1109135413 [GLT1109135413].md",
+          "key": "177-the-jewish-revolt-part-3-glt1109135413",
+          "show": "The Rest Is History",
+          "title": "177. The Jewish Revolt (Part 3)",
+          "url": "/wiki/sources/177-the-jewish-revolt-part-3-glt1109135413/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/judeanrevolt66to73/"
+    },
+    "JudeanRevoltMemoryAfterlife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1109135413 [GLT1109135413].md",
+          "key": "177-the-jewish-revolt-part-3-glt1109135413",
+          "show": "The Rest Is History",
+          "title": "177. The Jewish Revolt (Part 3)",
+          "url": "/wiki/sources/177-the-jewish-revolt-part-3-glt1109135413/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/judeanrevoltmemoryafterlife/"
     },
     "JudgmentOfParisWine": {
       "episode_count": 1,
@@ -124243,6 +124298,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/masabumihosono/"
+    },
+    "Masada": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1109135413 [GLT1109135413].md",
+          "key": "177-the-jewish-revolt-part-3-glt1109135413",
+          "show": "The Rest Is History",
+          "title": "177. The Jewish Revolt (Part 3)",
+          "url": "/wiki/sources/177-the-jewish-revolt-part-3-glt1109135413/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/masada/"
     },
     "Maserati": {
       "episode_count": 2,
@@ -157483,6 +157554,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/reliabilitydriveninfrastructureownership/"
     },
+    "ReligiousAuthorityAfterTempleDestruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1109135413 [GLT1109135413].md",
+          "key": "177-the-jewish-revolt-part-3-glt1109135413",
+          "show": "The Rest Is History",
+          "title": "177. The Jewish Revolt (Part 3)",
+          "url": "/wiki/sources/177-the-jewish-revolt-part-3-glt1109135413/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/religiousauthorityaftertempledestruction/"
+    },
     "ReligiousExperienceMedicalizationBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -186259,9 +186346,9 @@
       "url": "/wiki/concepts/titlesuccessionpublicduty/"
     },
     "Titus": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7808118779 [GLT7808118779].md",
@@ -186276,9 +186363,16 @@
           "show": "The Rest Is History",
           "title": "355: Roman Apocalypse: Pompeii 79 AD",
           "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        },
+        {
+          "episode_file": "GLT1109135413 [GLT1109135413].md",
+          "key": "177-the-jewish-revolt-part-3-glt1109135413",
+          "show": "The Rest Is History",
+          "title": "177. The Jewish Revolt (Part 3)",
+          "url": "/wiki/sources/177-the-jewish-revolt-part-3-glt1109135413/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/titus/"
     },
     "Tlaxcala": {
@@ -191861,9 +191955,9 @@
       "url": "/wiki/concepts/vertigovisualanchoring/"
     },
     "Vespasian": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7808118779 [GLT7808118779].md",
@@ -191871,9 +191965,16 @@
           "show": "The Rest Is History",
           "title": "369. The Colosseum: Rome's Arena of Death",
           "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
+        },
+        {
+          "episode_file": "GLT1109135413 [GLT1109135413].md",
+          "key": "177-the-jewish-revolt-part-3-glt1109135413",
+          "show": "The Rest Is History",
+          "title": "177. The Jewish Revolt (Part 3)",
+          "url": "/wiki/sources/177-the-jewish-revolt-part-3-glt1109135413/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/vespasian/"
     },
     "VestibularLearningActivation": {

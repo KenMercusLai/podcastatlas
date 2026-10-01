@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 9141
+wiki_total_pages: 9144
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "JournalisticPublicness"
     title: "Journalistic Publicness / 记者工作的公共性"
     url: "/wiki/concepts/journalisticpublicness/"
+  - key: "JudeanRevoltMemoryAfterlife"
+    title: "Judean Revolt Memory Afterlife"
+    url: "/wiki/concepts/judeanrevoltmemoryafterlife/"
   - key: "JudgmentOfParisWine"
     title: "Judgment of Paris Wine"
     url: "/wiki/concepts/judgmentofpariswine/"

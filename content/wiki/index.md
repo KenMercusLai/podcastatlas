@@ -3417,7 +3417,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [180. England & Englishness](sources/180-england-englishness-glt7388885434.md) — The Rest Is History conversation with Jason Cowley on Orwell, devolution, empire, immigration, landscape, football, Brexit, and changing English identity.
 
+- [177. The Jewish Revolt (Part 3)](sources/177-the-jewish-revolt-part-3-glt1109135413.md) — The Rest Is History episode on Jerusalem's siege, Josephus, Flavian victory propaganda, post-Temple religious authority, and the memory of Masada.
+
 ## Entities
+- [Judean Revolt, 66-73 CE](entities/JudeanRevolt66To73.md) — Divided provincial rebellion whose defeat destroyed Jerusalem's Temple and acquired an exceptional religious and political afterlife.
+- [Masada](entities/Masada.md) — Herodian fortress, late revolt holdout, contested archaeological site, and modern Israeli memory symbol.
 - [Valéry Giscard d'Estaing](entities/ValeryGiscardDEstaing.md) — Technocratic and social modernizer whose aristocratic persona, scandals, and rivalry with Chirac weakened his presidency.
 - [François Mitterrand](entities/FrancoisMitterrand.md) — First left-wing Fifth Republic president, combining ideological adaptation, secrecy, and presidential grandeur.
 - [Jacques Chirac](entities/JacquesChirac.md) — Long-serving political operator whose corruption and tactical flexibility coexisted with recognizable presidential authority.
@@ -3682,7 +3686,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Jacob Astor (fur trader)](entities/JohnJacobAstorFurTrader.md) — Disambiguated fur magnate whose Canadian-Manhattan-European pelt trade generated exceptional private wealth.
 - [John Bull](entities/JohnBull.md) — Stout, beef- and beer-consuming personification that embodied a selective English ideal of plainness, liberty, and self-caricature.
 - [William Hogarth](entities/WilliamHogarth.md) — English satirist whose Calais and invasion images made roast-beef patriotism visually durable.
-- [Josephus](entities/Josephus.md) — Judean priest, revolt participant, and historian whose disputed and incidental references are central to reconstructing Jesus and John the Baptist.
+- [Josephus](entities/Josephus.md) — Judean priest, revolt participant, Flavian client, and indispensable but situated historian of the revolt and first-century religious figures.
 - [Jesus](entities/Jesus.md) — First-century Jewish teacher reconstructed through baptism, Kingdom preaching, Jerusalem conflict, crucifixion, and early resurrection belief.
 - [John the Baptist](entities/JohnTheBaptist.md) — Preacher of repentance, baptism, and judgment whose connection to Jesus is a strong historical anchor.
 - [Pontius Pilate](entities/PontiusPilate.md) — Roman authority connecting the Jerusalem arrest of Jesus to political interrogation and crucifixion.
@@ -3925,8 +3929,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eton College](entities/EtonCollege.md) — Royal Winchester-derived foundation whose prestige, alumni influence, pupil hierarchy, and weak supervision exemplify the public-school paradox.
 - [Thomas Arnold](entities/ThomasArnold.md) — Rugby headmaster associated with redirecting public-school legitimacy toward Christian character and public duty.
 - [Colosseum](entities/Colosseum.md) — Flavian amphitheater synthesizing public provision, ranked hierarchy, conquest, spectacle, and Rome's violent afterlife.
-- [Vespasian](entities/Vespasian.md) — Flavian founder who converted Nero's private lake into the site of a public dynastic monument.
-- [Titus](entities/Titus.md) — Flavian emperor who inaugurated the Colosseum amid conquest memory, disaster, and reputational repair.
+- [Vespasian](entities/Vespasian.md) — Judean-war commander and Flavian founder who converted provincial victory and Nero's private lake into dynastic legitimacy.
+- [Titus](entities/Titus.md) — Jerusalem siege commander and Flavian emperor joining conquest, disaster, the Colosseum, and reputational repair.
 - [Nero](entities/Nero.md) — Roman emperor whose central-Roman pleasure landscape became a conflict over imperial luxury, public access, and Flavian reversal.
 - [Marconi Union](entities/MarconiUnion.md) — Musical group behind “Weightless,” retained as a source-scoped anxiety-reduction example rather than a validated treatment.
 - [René Schneider](entities/ReneSchneider.md) — Constitutionalist Chilean army commander whose resistance to military intervention protected Allende's 1970 accession.
@@ -15260,6 +15264,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Imperial Victory Reframing](concepts/ImperialVictoryReframing.md) — Conversion of internal or provincial conflict into foreign conquest theater for dynastic legitimacy.
+- [Religious Authority after Temple Destruction](concepts/ReligiousAuthorityAfterTempleDestruction.md) — Reconstitution of practice and leadership through portable text, teaching, prayer, and local institutions after sanctuary loss.
+- [Judean Revolt Memory Afterlife](concepts/JudeanRevoltMemoryAfterlife.md) — Layered Flavian, Christian, rabbinic, archaeological, and modern Israeli amplification of the revolt's significance.
 - [Thermoregulation and Glabrous Heat Transfer](concepts/ThermoregulationAndGlabrousHeatTransfer.md) — Shell/core control model linking hypothalamic responses with rapid heat exchange through palms, soles, and upper face.
 - [Local Hyperthermia and Adipose Browning](concepts/LocalHyperthermiaAdiposeBrowning.md) — Experimental UCP1-linked adipose-identity signal bounded from spot-reduction and established obesity-treatment claims.
 - [French Fifth Republic](concepts/FrenchFifthRepublic.md) — Constitutional order joining a powerful presidency to an expectation of above-party national embodiment.

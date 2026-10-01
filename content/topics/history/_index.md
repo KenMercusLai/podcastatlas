@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2318
+topic_total_pages: 2320
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2108,6 +2108,9 @@ topic_entities:
   - key: "Mariupol"
     title: "Mariupol / 马里乌波尔"
     url: "/wiki/entities/mariupol/"
+  - key: "Masada"
+    title: "Masada"
+    url: "/wiki/entities/masada/"
   - key: "Mexico"
     title: "Mexico"
     url: "/wiki/entities/mexico/"
@@ -4800,6 +4803,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "177-the-jewish-revolt-part-3-glt1109135413"
+    title: "177. The Jewish Revolt (Part 3)"
+    url: "/wiki/sources/177-the-jewish-revolt-part-3-glt1109135413/"
   - key: "178-french-presidents-1958-1981-part-1-glt1396593896"
     title: "178. French Presidents: 1958-1981 (Part 1)"
     url: "/wiki/sources/178-french-presidents-1958-1981-part-1-glt1396593896/"
