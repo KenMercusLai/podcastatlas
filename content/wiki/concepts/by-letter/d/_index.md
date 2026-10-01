@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9124
+wiki_total_pages: 9127
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "DetailBasedCrisisDetection"
     title: "Detail-Based Crisis Detection / 细节式危机识别"
     url: "/wiki/concepts/detailbasedcrisisdetection/"
+  - key: "DetectiveFictionMoralOrder"
+    title: "Detective Fiction Moral Order"
+    url: "/wiki/concepts/detectivefictionmoralorder/"
   - key: "DetentionAsLocalEconomicDevelopment"
     title: "Detention As Local Economic Development"
     url: "/wiki/concepts/detentionaslocaleconomicdevelopment/"

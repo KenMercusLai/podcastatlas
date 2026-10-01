@@ -795,6 +795,10 @@
     "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
     "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
   },
+  "185-agatha-christie-glt9092045420": {
+    "title": "185. Agatha Christie",
+    "url": "/wiki/sources/185-agatha-christie-glt9092045420/"
+  },
   "185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368": {
     "title": "185.魔鬼出没的世界：关于阴谋论、UFO与科学精神",
     "url": "/wiki/sources/185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368/"
@@ -21851,6 +21855,10 @@
     "title": "Detail-Based Crisis Detection / 细节式危机识别",
     "url": "/wiki/concepts/detailbasedcrisisdetection/"
   },
+  "DetectiveFictionMoralOrder": {
+    "title": "Detective Fiction Moral Order",
+    "url": "/wiki/concepts/detectivefictionmoralorder/"
+  },
   "DetentionAsLocalEconomicDevelopment": {
     "title": "Detention As Local Economic Development",
     "url": "/wiki/concepts/detentionaslocaleconomicdevelopment/"
@@ -34934,6 +34942,10 @@
   "Herculaneum": {
     "title": "Herculaneum",
     "url": "/wiki/entities/herculaneum/"
+  },
+  "HerculePoirot": {
+    "title": "Hercule Poirot",
+    "url": "/wiki/entities/herculepoirot/"
   },
   "HereditaryOfficePrivilege": {
     "title": "任子式官职特权 / Hereditary Office Privilege",
@@ -51359,6 +51371,10 @@
     "title": "Miracle of Amsterdam",
     "url": "/wiki/entities/miracleofamsterdam/"
   },
+  "MissMarple": {
+    "title": "Miss Marple",
+    "url": "/wiki/entities/missmarple/"
+  },
   "MissedDiagnosisRisk": {
     "title": "Missed Diagnosis Risk / 漏诊风险",
     "url": "/wiki/concepts/misseddiagnosisrisk/"
@@ -65291,6 +65307,10 @@
     "title": "芮淇讲透资治通鉴 / Ruiqi Jiangtou Zizhi Tongjian",
     "url": "/wiki/entities/ruiqijiangtouzizhitongjian/"
   },
+  "RuleBoundDetectivePlotInnovation": {
+    "title": "Rule-Bound Detective Plot Innovation",
+    "url": "/wiki/concepts/rulebounddetectiveplotinnovation/"
+  },
   "RuleBoundOverthinking": {
     "title": "Rule-Bound Overthinking / 规则化过度思考",
     "url": "/wiki/concepts/ruleboundoverthinking/"
@@ -69318,6 +69338,10 @@
   "SocialSignalInterpretation": {
     "title": "Social Signal Interpretation",
     "url": "/wiki/concepts/socialsignalinterpretation/"
+  },
+  "SocialStereotypeMisdirection": {
+    "title": "Social Stereotype Misdirection",
+    "url": "/wiki/concepts/socialstereotypemisdirection/"
   },
   "SocialTemplateDesire": {
     "title": "Social-Template Desire / 社会模板欲望",

@@ -26773,3 +26773,11 @@ Added source `understand-improve-memory-using-science-based-tools-scim9087472978
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 185. Agatha Christie
+
+Added source `185-agatha-christie-glt9092045420`; created `HerculePoirot`, `MissMarple`, `SocialStereotypeMisdirection`, `DetectiveFictionMoralOrder`, and `RuleBoundDetectivePlotInnovation`; and resynthesized `AgathaChristie` from its complete preserved evidence inventory. Core synthesis: Christie's fiction records changing middle-class anxieties about money, marriage, class, identity, and ordinary evil; converts social stereotypes into misdirection; joins detection to moral judgment; and produces radical solutions through genre constraint. No settled contradiction was adopted. Autobiographical explanations, disappearance motives, sales and ranking claims, theological conclusions, and readings of individual novels remain interpretive or source-scoped, while stereotype reversal does not establish that the entire corpus escapes sexism, snobbery, xenophobia, or imperial assumptions. The automatic `wiki/overview.md` was updated during canonical ingest. The downstream manifest and paragraph ledger were refreshed to 3,347-source coverage; the psychology and personal development topic was compacted, and a material candidate change triggered global compaction. Changed-page links, index coverage, identity, knowledge-schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

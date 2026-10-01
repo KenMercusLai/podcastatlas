@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [185. Agatha Christie](sources/185-agatha-christie-glt9092045420.md) — The Rest Is History episode on Christie's life, middle-class social anxieties, stereotype-based misdirection, moral judgment, and rule-bound formal innovation.
 - [Understand & Improve Memory Using Science-Based Tools](sources/understand-improve-memory-using-science-based-tools-scim9087472978.md) — Full Huberman Lab episode on repetition, post-learning arousal, hippocampal memory, visual snapshots, meditation timing, and safety boundaries.
 - [186. The New Elizabethan Age](sources/186-the-new-elizabethan-age-glt7640926802.md) — The Rest Is History episode on Elizabeth II's image, sacred office, punk critique, popular-culture adaptation, and post-imperial British soft power.
 - [187. Australian Prime Ministers: Edmund Barton - Robert Menzies (Part 1)](sources/187-australian-prime-ministers-edmund-barton-robert-menzies-part-1-glt3017584065.md) — The Rest Is History survey of federation, mateship and racial exclusion, Curtin's wartime U.S. turn, Chifley, and Menzies's suburban anti-communist coalition.
@@ -3404,6 +3405,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [188. Australian Prime Ministers: Harold Holt - Malcolm Fraser (Part 2)](sources/188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602.md) — The Rest Is History survey of Holt through Fraser, Whitlam's reform agenda, the Loans Affair, blocked supply, and the 1975 dismissal.
 
 ## Entities
+- [Hercule Poirot](entities/HerculePoirot.md) — Christie's Belgian outsider detective, whose modern unheroic persona exposes prejudice and hidden guilt.
+- [Miss Marple](entities/MissMarple.md) — Christie's underestimated village detective, whose social knowledge reveals ordinary respectable evil.
 - [Frances Christie](entities/FrancesChristie.md) — Sotheby's curator whose Jubilee exhibition interprets Elizabeth II's reign through portraits, ritual objects, protest graphics, art, and jewelry.
 - [Edmund Barton](entities/EdmundBarton.md) — Australia's first prime minister and federation-era fair-play figure.
 - [Robert Menzies](entities/RobertMenzies.md) — Anglophile wartime and long postwar Liberal prime minister.
@@ -15228,6 +15231,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nocs Provisions](entities/NocsProvisions.md) — Colorful compact-optics brand weighing connected sharing against analog presence.
 
 ## Concepts
+- [Social Stereotype Misdirection](concepts/SocialStereotypeMisdirection.md) — Detective-fiction technique that turns assumptions about social identity and role into mechanisms of concealment.
+- [Detective Fiction Moral Order](concepts/DetectiveFictionMoralOrder.md) — Structure joining causal explanation to moral disclosure, accountability, and bounded restoration.
+- [Rule-Bound Detective Plot Innovation](concepts/RuleBoundDetectivePlotInnovation.md) — Formal practice of producing extreme solutions while preserving enough genre constraint for retrospective intelligibility.
 - [Royal Image Cultural Adaptation](concepts/RoyalImageCulturalAdaptation.md) — reuse of a recognizable monarch's image across sacred, celebrity, oppositional, and later institutionally incorporated cultural forms.
 - [Australian Mateship](concepts/AustralianMateship.md) — Egalitarian solidarity ideal qualified by masculine and racial exclusion.
 - [White Australia Policy](concepts/WhiteAustraliaPolicy.md) — Racially restrictive immigration regime embedded in early federation.

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "dd672fa1717539f5dab38c305a59d9e88f2c0107b86b402b31375065d636b313",
       "f675edf892ee52d8341ee167bbbc6839c9f97c9569f2233bea485e51c366392c",
       "6e136b358cff61003fb4df15f0b3f39f2bf43b0d64fa941310906c084be8a2d8",
       "88d5adbd64b28071ad6efb260eac66b89a97ffdc403817ec87487ddf6132ee3a",
@@ -777,11 +778,33 @@
       "9997fb9b346fa7223de58d73e84f180b8864b249000cade39b9408903896c2cc",
       "16601a21e79111590dec9aaa39aaf37cda533c18f62b03ad841cc2b74da82008"
     ],
-    "paragraph_count": 775
+    "paragraph_count": 776
   },
-  "overview_commit": "cc73e56adc6c5613accaad9d49a51a4b6d8e88e4",
-  "overview_digest": "a77605dd74662f3288e292745fe6c9a936fc2bd28ccd387ae89fab09f54be5e8",
+  "overview_commit": "0c53820ea6d560cdfec86a7c61869fb488984285",
+  "overview_digest": "a16d16b8be84d7d8f64c389fa4867ec16cbbeaeee156e5e3e08c79418fd53cc5",
   "paragraphs": [
+    {
+      "id": "dd672fa1717539f5dab38c305a59d9e88f2c0107b86b402b31375065d636b313",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The latest literary-history addition is [[185-agatha-christie-glt9092045420|185. Agatha Christie]], a [[TheRestIsHistory]] episode that expands [[AgathaChristie|Agatha Christie / 阿加莎·克里斯蒂]] from biographical anecdote and genre lineage into a social and formal synthesis. It adds [[HerculePoirot]], [[MissMarple]], [[SocialStereotypeMisdirection]], [[DetectiveFictionMoralOrder]], and [[RuleBoundDetectivePlotInnovation]]. Its core synthesis is that Christie's spare puzzles record changing middle-class anxieties about money, marriage, class, identity, and ordinary evil while turning social prejudice into misdirection, Christian moral judgment into bounded closure, and genre constraints into the basis for radical plot solutions. No settled contradiction is recorded. Autobiographical explanations, disappearance motives, sales and ranking claims, theological conclusions, and readings of individual novels remain interpretive or source-scoped, while stereotype reversal does not establish that the whole corpus escapes sexism, snobbery, xenophobia, or imperial assumptions.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "185-agatha-christie-glt9092045420",
+        "AgathaChristie",
+        "DetectiveFictionMoralOrder",
+        "HerculePoirot",
+        "MissMarple",
+        "RuleBoundDetectivePlotInnovation",
+        "SocialStereotypeMisdirection",
+        "TheRestIsHistory"
+      ]
+    },
     {
       "id": "f675edf892ee52d8341ee167bbbc6839c9f97c9569f2233bea485e51c366392c",
       "primary_topic": "work-education-and-society",

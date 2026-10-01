@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9124
+wiki_total_pages: 9127
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "RuleOverKinshipPower"
     title: "Rule Over Kinship Power / 法度压过亲缘特权"
     url: "/wiki/concepts/ruleoverkinshippower/"
+  - key: "RuleBoundDetectivePlotInnovation"
+    title: "Rule-Bound Detective Plot Innovation"
+    url: "/wiki/concepts/rulebounddetectiveplotinnovation/"
   - key: "RuleBoundOverthinking"
     title: "Rule-Bound Overthinking / 规则化过度思考"
     url: "/wiki/concepts/ruleboundoverthinking/"

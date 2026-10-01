@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11786
+wiki_total_pages: 11788
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1307,6 +1307,9 @@ wiki_pages:
   - key: "MiracleOfAmsterdam"
     title: "Miracle of Amsterdam"
     url: "/wiki/entities/miracleofamsterdam/"
+  - key: "MissMarple"
+    title: "Miss Marple"
+    url: "/wiki/entities/missmarple/"
   - key: "Mississippi"
     title: "Mississippi"
     url: "/wiki/entities/mississippi/"

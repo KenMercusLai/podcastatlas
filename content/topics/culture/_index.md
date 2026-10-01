@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2996
+topic_total_pages: 2998
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -940,6 +940,9 @@ topic_concepts:
   - key: "DelayedCanonicalRecognition"
     title: "Delayed Canonical Recognition / 延迟经典化"
     url: "/wiki/concepts/delayedcanonicalrecognition/"
+  - key: "DetectiveFictionMoralOrder"
+    title: "Detective Fiction Moral Order"
+    url: "/wiki/concepts/detectivefictionmoralorder/"
   - key: "DewormingAsHumanCapitalInvestment"
     title: "Deworming as Human Capital Investment"
     url: "/wiki/concepts/dewormingashumancapitalinvestment/"
@@ -8160,6 +8163,9 @@ topic_sources:
   - key: "184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5"
     title: "184.为了在算法时代被“听见”，我们改变了多少自己？｜对谈「声东击西」张晶"
     url: "/wiki/sources/184-weile-zai-suanfa-shidai-bei-tingjian-women-gaibian-le-duoshao-ziji-duitan-shengdongjixi-zhangjing-lpotw0uqivlj8m6otnoxh0kahee5/"
+  - key: "185-agatha-christie-glt9092045420"
+    title: "185. Agatha Christie"
+    url: "/wiki/sources/185-agatha-christie-glt9092045420/"
   - key: "186-the-new-elizabethan-age-glt7640926802"
     title: "186. The New Elizabethan Age"
     url: "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"

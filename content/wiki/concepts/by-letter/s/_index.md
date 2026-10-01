@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9124
+wiki_total_pages: 9127
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1220,6 +1220,9 @@ wiki_pages:
   - key: "SocialSignalInterpretation"
     title: "Social Signal Interpretation"
     url: "/wiki/concepts/socialsignalinterpretation/"
+  - key: "SocialStereotypeMisdirection"
+    title: "Social Stereotype Misdirection"
+    url: "/wiki/concepts/socialstereotypemisdirection/"
   - key: "SocialTrustAndHappiness"
     title: "Social Trust And Happiness"
     url: "/wiki/concepts/socialtrustandhappiness/"

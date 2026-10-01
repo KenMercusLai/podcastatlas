@@ -6958,6 +6958,36 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/agamemnon/"
     },
+    "AgathaChristie": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "82.闲聊伟大作家的八卦（第二弹） [695228589].md",
+          "key": "82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589",
+          "show": "蜜獾吃书",
+          "title": "82.闲聊伟大作家的八卦（第二弹）",
+          "url": "/wiki/sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589/"
+        },
+        {
+          "episode_file": "69.闲聊推理文学：历史学者可不就是侦探吗！ [666244465].md",
+          "key": "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465",
+          "show": "蜜獾吃书",
+          "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
+          "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+        },
+        {
+          "episode_file": "GLT9092045420 [GLT9092045420].md",
+          "key": "185-agatha-christie-glt9092045420",
+          "show": "The Rest Is History",
+          "title": "185. Agatha Christie",
+          "url": "/wiki/sources/185-agatha-christie-glt9092045420/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/agathachristie/"
+    },
     "AgentCivilizationNarrative": {
       "episode_count": 1,
       "show_count": 1,
@@ -47972,6 +48002,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/destinydrivenselfconstruction/"
     },
+    "DetectiveFictionMoralOrder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9092045420 [GLT9092045420].md",
+          "key": "185-agatha-christie-glt9092045420",
+          "show": "The Rest Is History",
+          "title": "185. Agatha Christie",
+          "url": "/wiki/sources/185-agatha-christie-glt9092045420/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/detectivefictionmoralorder/"
+    },
     "DeterministicDataAgentValidation": {
       "episode_count": 1,
       "show_count": 1,
@@ -85024,6 +85070,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/herculaneum/"
+    },
+    "HerculePoirot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9092045420 [GLT9092045420].md",
+          "key": "185-agatha-christie-glt9092045420",
+          "show": "The Rest Is History",
+          "title": "185. Agatha Christie",
+          "url": "/wiki/sources/185-agatha-christie-glt9092045420/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/herculepoirot/"
     },
     "HereditaryOfficePrivilege": {
       "episode_count": 1,
@@ -128293,6 +128355,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/miracleofamsterdam/"
     },
+    "MissMarple": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9092045420 [GLT9092045420].md",
+          "key": "185-agatha-christie-glt9092045420",
+          "show": "The Rest Is History",
+          "title": "185. Agatha Christie",
+          "url": "/wiki/sources/185-agatha-christie-glt9092045420/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/missmarple/"
+    },
     "MissedDiagnosisRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -161889,6 +161967,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/ruijinhospital/"
     },
+    "RuleBoundDetectivePlotInnovation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9092045420 [GLT9092045420].md",
+          "key": "185-agatha-christie-glt9092045420",
+          "show": "The Rest Is History",
+          "title": "185. Agatha Christie",
+          "url": "/wiki/sources/185-agatha-christie-glt9092045420/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/rulebounddetectiveplotinnovation/"
+    },
     "RuleOverKinshipPower": {
       "episode_count": 4,
       "show_count": 1,
@@ -171960,6 +172054,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/socialsecuritytaxablemaximumerosion/"
+    },
+    "SocialStereotypeMisdirection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9092045420 [GLT9092045420].md",
+          "key": "185-agatha-christie-glt9092045420",
+          "show": "The Rest Is History",
+          "title": "185. Agatha Christie",
+          "url": "/wiki/sources/185-agatha-christie-glt9092045420/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/socialstereotypemisdirection/"
     },
     "SocialValueAccounting": {
       "episode_count": 1,
