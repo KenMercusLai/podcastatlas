@@ -143,6 +143,10 @@
     "title": "12 Days: Alfred the Great and Pepys' 'Fanatiques'",
     "url": "/wiki/sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618/"
   },
+  "12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149": {
+    "title": "12 Days: Death of Edward the Confessor and the Dreyfus Affair",
+    "url": "/wiki/sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149/"
+  },
   "12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675": {
     "title": "12.慢：当米兰·昆德拉一句正经没有",
     "url": "/wiki/sources/12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675/"
@@ -6666,6 +6670,10 @@
   "AlfredDouglas": {
     "title": "Lord Alfred Douglas / 波西",
     "url": "/wiki/entities/alfreddouglas/"
+  },
+  "AlfredDreyfus": {
+    "title": "Alfred Dreyfus",
+    "url": "/wiki/entities/alfreddreyfus/"
   },
   "AlfredHitchcock": {
     "title": "Alfred Hitchcock / 希区柯克",
@@ -23722,6 +23730,10 @@
   "DrewTaggart": {
     "title": "Drew Taggart",
     "url": "/wiki/entities/drewtaggart/"
+  },
+  "DreyfusAffair": {
+    "title": "Dreyfus Affair",
+    "url": "/wiki/concepts/dreyfusaffair/"
   },
   "DriveToSurvive": {
     "title": "Drive to Survive",

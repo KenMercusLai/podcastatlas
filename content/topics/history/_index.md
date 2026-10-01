@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2368
+topic_total_pages: 2369
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4794,6 +4794,9 @@ topic_sources:
   - key: "12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618"
     title: "12 Days: Alfred the Great and Pepys' 'Fanatiques'"
     url: "/wiki/sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618/"
+  - key: "12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149"
+    title: "12 Days: Death of Edward the Confessor and the Dreyfus Affair"
+    url: "/wiki/sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149/"
   - key: "120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218"
     title: "120.蓝狐岛：伟大事业中的雄心与现实"
     url: "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"

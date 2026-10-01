@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11910
+wiki_total_pages: 11911
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -707,6 +707,9 @@ wiki_pages:
   - key: "AlfredBinet"
     title: "Alfred Binet / 阿尔弗雷德·宾内"
     url: "/wiki/entities/alfredbinet/"
+  - key: "AlfredDreyfus"
+    title: "Alfred Dreyfus"
+    url: "/wiki/entities/alfreddreyfus/"
   - key: "AlfredHitchcock"
     title: "Alfred Hitchcock / 希区柯克"
     url: "/wiki/entities/alfredhitchcock/"

@@ -8758,6 +8758,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/alfreddouglas/"
     },
+    "AlfredDreyfus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1738062149 [GLT1738062149].md",
+          "key": "12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149",
+          "show": "The Rest Is History",
+          "title": "12 Days: Death of Edward the Confessor and the Dreyfus Affair",
+          "url": "/wiki/sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/alfreddreyfus/"
+    },
     "AlfredTerry": {
       "episode_count": 1,
       "show_count": 1,
@@ -52571,6 +52587,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/drewtaggart/"
     },
+    "DreyfusAffair": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1738062149 [GLT1738062149].md",
+          "key": "12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149",
+          "show": "The Rest Is History",
+          "title": "12 Days: Death of Edward the Confessor and the Dreyfus Affair",
+          "url": "/wiki/sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/dreyfusaffair/"
+    },
     "DriverAIAgency": {
       "episode_count": 1,
       "show_count": 1,
@@ -55424,9 +55456,9 @@
       "url": "/wiki/entities/edwardtheblackprince/"
     },
     "EdwardTheConfessor": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -55455,9 +55487,16 @@
           "show": "The Rest Is History",
           "title": "550. The Road to 1066: Rise of the Normans (Part 3)",
           "url": "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
+        },
+        {
+          "episode_file": "GLT1738062149 [GLT1738062149].md",
+          "key": "12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149",
+          "show": "The Rest Is History",
+          "title": "12 Days: Death of Edward the Confessor and the Dreyfus Affair",
+          "url": "/wiki/sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/edwardtheconfessor/"
     },
     "EdwardV": {
@@ -85102,9 +85141,9 @@
       "url": "/wiki/entities/harlandandwolff/"
     },
     "HaroldGodwinson": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -85147,9 +85186,16 @@
           "show": "The Rest Is History",
           "title": "551. The Road to 1066: Countdown to Conquest (Part 4)",
           "url": "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"
+        },
+        {
+          "episode_file": "GLT1738062149 [GLT1738062149].md",
+          "key": "12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149",
+          "show": "The Rest Is History",
+          "title": "12 Days: Death of Edward the Confessor and the Dreyfus Affair",
+          "url": "/wiki/sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/haroldgodwinson/"
     },
     "HaroldHolt": {

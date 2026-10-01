@@ -27387,3 +27387,11 @@ Added source `12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618`; crea
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 12 Days: Death of Edward the Confessor and the Dreyfus Affair
+
+Added source `12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149`; created `AlfredDreyfus` and `DreyfusAffair`; and resynthesized `EdwardTheConfessor` and `HaroldGodwinson` from their complete preserved evidence inventories. Core synthesis: Edward's childlessness and ambiguous deathbed entrustment left designation, Witan support, political coalition, and military capacity in competition, while the Dreyfus case shows how antisemitism and post-defeat anxiety can become institutional evidence suppression once military honor is tied to a wrongful verdict. No settled contradiction was adopted. Edward's motives and final wording, advance Witan support, the Dreyfus legal chronology, individual responsibility, and the episode's modern analogy remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,422-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

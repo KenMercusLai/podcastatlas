@@ -9,7 +9,8 @@ sources:
   - 555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968
   - 554-1066-the-shadows-of-war-part-1-glt1461163139
   - 551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299
-last_updated: 2026-09-21
+  - 12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,7 +24,7 @@ Harold Godwinson appears in the wiki as the earl who inherited [[GodwinEarlOfWes
 
 The prehistory episode roots Harold's position in family ascent. Edward made him Earl of East Anglia; after Godwin's death in 1053, he inherited Wessex and became the central political figure of his generation. Campaigns against Gruffydd ap Llywelyn strengthened his military reputation, while the appointment of his brothers and rivalry with Mercia made Godwin power both formidable and contested.
 
-The tapestry source presents Harold as an ambiguous claimant who apparently swears for [[WilliamTheConqueror]] and later takes the throne. The prehistory episode adds uncertainty about the 1064 or 1065 crossing: Harold may have been gathering intelligence or bargaining under constraint, and his relic-backed oath may have been the price of returning safely rather than free recognition of William's right. The opening 1066 episode then makes his accession more politically intelligible without declaring it lawful: the Witan needs an adult defender, Edgar Atheling is young, foreign claimants are dangerous, Edward reportedly designates Harold at the end, and immediate coronation prevents a vacuum. Harold's marriage to the sister of Edwin and Morcar helps reconcile powerful rivals but deepens [[TostigGodwinson|Tostig Godwinson]]'s grievance.
+The tapestry source presents Harold as an ambiguous claimant who apparently swears for [[WilliamTheConqueror]] and later takes the throne. The prehistory episode adds uncertainty about the 1064 or 1065 crossing: Harold may have been gathering intelligence or bargaining under constraint, and his relic-backed oath may have been the price of returning safely rather than free recognition of William's right. The opening 1066 episode then makes his accession more politically intelligible without declaring it lawful: the Witan needs an adult defender, Edgar Atheling is young, foreign claimants are dangerous, Edward reportedly designates Harold at the end, and immediate coronation prevents a vacuum. The earlier calendar-date account adds that coronation on the day of Edward's funeral likely depended on support assembled before the king died, while Edward's instruction could still mean stewardship for Edgar rather than kingship. Harold's marriage to the sister of Edwin and Morcar helps reconcile powerful rivals but deepens [[TostigGodwinson|Tostig Godwinson]]'s grievance.
 
 Harold's late-1065 handling of the Northumbrian revolt also clarifies that grievance. He cannot persuade the rebels to restore Tostig and refuses to raise Wessex for a civil war, accepting Morcar instead. The settlement protects immediate English cohesion but leaves Tostig convinced that his brother betrayed or conspired against him.
 
@@ -56,6 +57,7 @@ The battle and concluding conquest sources converge on the political importance 
 - Rise and military reputation - [[551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299]] follows Harold from East Anglia through inheritance of Wessex and the Welsh campaigns.
 - Journey and oath - [[551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299]] describes his capture, release by William, Brittany campaign, relic-backed oath, and the hosts' qualified intelligence-and-compulsion interpretation.
 - Northumbrian settlement - [[551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299]] connects Tostig's overthrow, Harold's negotiation, refusal of civil war, Morcar's acceptance, and Tostig's accusation.
+- Accelerated accession - [[12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149]] connects the same-day funeral and coronation to probable advance Witan support while preserving ambiguity in Edward's final instruction.
 - Leadership vacuum - [[557-1066-the-norman-conquest-part-4-glt5156716826]] argues that England retained institutions and manpower but lacked a comparably competent and legitimate leader after Harold.
 - Contested afterlife - [[557-1066-the-norman-conquest-part-4-glt5156716826]] records multiple incompatible accounts of his body's identification, burial, and survival.
 
@@ -68,6 +70,7 @@ The sources do not settle the purpose of Harold's Channel journey, the freedom o
 - Added Harold's inheritance of Godwin power, Welsh military reputation, and the contested purpose of his visit to William.
 - Added the 1065 Northumbrian settlement as both civil-war avoidance and the immediate source of Tostig's betrayal claim.
 - Further qualified the oath by separating its occurrence from its conditions, meaning, and political effect.
+- Added advance coalition-building as the likely practical basis for the exceptionally rapid coronation without treating speed as proof of legitimacy.
 
 ## Relationships
 

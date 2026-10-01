@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [12 Days: Death of Edward the Confessor and the Dreyfus Affair](sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149.md) — The Rest Is History episode pairing the disputed 1066 succession with Dreyfus's wrongful conviction, military cover-up, antisemitism, and French political polarization.
 - [12 Days: Alfred the Great and Pepys' 'Fanatiques'](sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618.md) — The Rest Is History on Alfred's 878 recovery and Fifth Monarchist insurrection in Restoration London.
 - [134. Crossing the Rubicon: The rise of Julius Caesar](sources/134-crossing-the-rubicon-the-rise-of-julius-caesar-glt1501343977.md) — The Rest Is History on republican anti-monarchical structure, Marius and Sulla's precedents, Pompey and Crassus's rise, and Caesar's popular politics and Gallic command.
 - [Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman](sources/breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802.md) — Huberman Lab interview on respiratory rhythm generation, sigh physiology, gas balance, breath-brain pathways, practical breathwork, and evidence limits.
@@ -3482,6 +3483,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [Alfred Dreyfus](entities/AlfredDreyfus.md) — Jewish French artillery officer whose wrongful conviction, degradation, imprisonment, pardon, and exoneration became a national political crisis.
 - [Thomas Venner](entities/ThomasVenner.md) — Fifth Monarchist artisan and leader of the January 1661 London rising.
 - [Jack Feldman](entities/JackFeldman.md) — Respiratory neuroscientist associated with the pre-Botzinger complex, sigh circuitry, and mechanistic breath-brain research.
 - [James Joyce](entities/JamesJoyce.md) — Irish modernist whose historically specific and formally experimental Ulysses anchors the episode's literary 1922.
@@ -15433,6 +15435,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Dreyfus Affair](concepts/DreyfusAffair.md) — Wrongful-conviction crisis in which antisemitism, military honor, forged evidence, and competing ideas of patriotism polarized France.
 - [Fifth Monarchism](concepts/FifthMonarchism.md) — Apocalyptic movement carrying Civil War-era prophecy and insurrection into the Restoration.
 - [Respiratory Rhythm Generation](concepts/RespiratoryRhythmGeneration.md) — Brainstem coordination of inspiratory rhythm, recruited active expiration, respiratory muscles, and state-linked ascending signals.
 - [Literary Modernism and Postwar Fragmentation](concepts/LiteraryModernismPostwarFragmentation.md) — Modernist difficulty, documentary specificity, fragments, and inherited tradition interpreted within the aftermath of mass war.

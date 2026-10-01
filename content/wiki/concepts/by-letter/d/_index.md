@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9240
+wiki_total_pages: 9241
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "DreamParenthoodAmbiguity"
     title: "Dream Parenthood Ambiguity / 梦中亲子暧昧"
     url: "/wiki/concepts/dreamparenthoodambiguity/"
+  - key: "DreyfusAffair"
+    title: "Dreyfus Affair"
+    url: "/wiki/concepts/dreyfusaffair/"
   - key: "DriverPassengerInvasionModel"
     title: "Driver-Passenger Invasion Model / 驅動者與搭便車模型"
     url: "/wiki/concepts/driverpassengerinvasionmodel/"

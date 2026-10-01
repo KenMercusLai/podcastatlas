@@ -7,7 +7,8 @@ sources:
   - 554-1066-the-shadows-of-war-part-1-glt1461163139
   - 551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299
   - 550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693
-last_updated: 2026-09-21
+  - 12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,7 +24,7 @@ The later prehistory episode makes Edward's relationship with [[GodwinEarlOfWess
 
 The Godwins' armed return in 1052 restored Edith and made divorce impractical. The tapestry source then presents Edward as the figure who sends Harold to Normandy, while the prehistory episode places William's reported visit and succession promise during the earlier Godwin exile and treats the throne as a possible bargaining instrument. The later opening 1066 episode broadens the sequence again: Edward is old, ill, politically overshadowed, and invested in Westminster as a spiritual and dynastic legacy.
 
-His death creates an urgent vacancy rather than an uncontested inheritance. One source says Edward had probably promised the throne to William, while Harold's supporters relied on a reported deathbed nomination preserved ambiguously in chronicle traditions. Edward therefore remains the reference point for rival claims, but neither promise is treated as sufficient by itself to settle the election, coronation, or war that followed.
+His death creates an urgent vacancy rather than an uncontested inheritance. One source says Edward had probably promised the throne to William, while Harold's supporters relied on a reported deathbed nomination preserved ambiguously in chronicle traditions. The earlier calendar-date episode sharpens that ambiguity: entrusting the kingdom to Harold could mean making him king or appointing him steward for [[EdgarAtheling|Edgar Atheling]]. Edward therefore remains the reference point for rival claims, but neither promise is treated as sufficient by itself to settle the election, coronation, or war that followed.
 
 ## Key Characteristics
 - Childless English king whose death creates the immediate 1066 succession vacancy.
@@ -32,6 +33,7 @@ His death creates an urgent vacancy rather than an uncontested inheritance. One 
 - Husband whose childless marriage, failed separation from Edith, and possible remarriage plans shape the succession problem.
 - Patron of Westminster whose abbey and palace complex joins piety, kingship, and posthumous legacy.
 - Reference point for competing promises to William and reported deathbed designation of Harold.
+- Culturally Anglo-Saxon and Norman king whose lineage and exile background complicate a simple national classification.
 
 ## Evidence
 - Succession setup - [[ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9]] says the tapestry story includes Edward sending Harold to Normandy.
@@ -41,13 +43,15 @@ His death creates an urgent vacancy rather than an uncontested inheritance. One 
 - Royal-Godwin bargain - [[551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299]] connects Alfred's death, Godwin's support for restoration, Edith's marriage, officeholding, and mutual dependence.
 - Childlessness and political rupture - [[551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299]] links the 1051 exile, possible divorce, Norman influence, William's reported visit, and the family's armed return.
 - Exile and restoration - [[550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693]] follows Edward and Alfred in Normandy, their failed 1035 recall, Alfred's death, Edward's 1043 coronation, and his break with Emma.
+- Deathbed ambiguity and identity - [[12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149]] treats Edward as both Norman and Anglo-Saxon and distinguishes entrusting the kingdom to Harold from an unequivocal royal grant.
 
 ## Qualifications
-The sources do not adjudicate Edward's reasons for withdrawing in 1035, responsibility for Alfred's fate, the precise basis of his restoration, his conflict with Emma, the royal marriage's childlessness, his divorce intentions, his exact promises, Harold's mission to Normandy, the wording of the deathbed statement, or whether any one act legally determined the throne. This remains a source-bounded profile rather than a complete account of Edward's reign or canonization.
+The sources do not adjudicate Edward's reasons for withdrawing in 1035, responsibility for Alfred's fate, the precise basis of his restoration, his conflict with Emma, the royal marriage's childlessness, his divorce intentions, his exact promises, Harold's mission to Normandy, the wording of the deathbed statement, or whether any one act legally determined the throne. The new source's theory that Edward may have withheld children to avoid a Godwin grandson and its harsh verdict on his kingship remain speculation and interpretation rather than settled fact. This remains a source-bounded profile rather than a complete account of Edward's reign or canonization.
 
 ## What Changed
 - Extended the profile back through Norman exile, the failed 1035 return, Alfred's death, Danish succession collapse, and Edward's 1043 coronation.
 - Added Emma's dynastic role and Edward's later confiscation of her treasure without resolving motive or blame.
+- Clarified that the reported deathbed entrustment could authorize Harold as king or as steward for Edgar rather than resolving the succession.
 
 ## Relationships
 - [[BayeuxTapestry]] - artwork whose story includes Edward's action.
