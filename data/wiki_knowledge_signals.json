@@ -84386,9 +84386,9 @@
       "url": "/wiki/entities/haraldbluetooth/"
     },
     "HaraldHardrada": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT1524879968 [GLT1524879968].md",
@@ -84417,9 +84417,16 @@
           "show": "The Rest Is History",
           "title": "552. The Last Viking: The Saga of Harald Hardrada (Part 1)",
           "url": "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
+        },
+        {
+          "episode_file": "GLT2354182753 [GLT2354182753].md",
+          "key": "149-the-birth-of-russia-glt2354182753",
+          "show": "The Rest Is History",
+          "title": "149. The Birth of Russia",
+          "url": "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/haraldhardrada/"
     },
     "HardTechFinancingDiscipline": {
@@ -107283,9 +107290,9 @@
       "url": "/wiki/entities/khwarazmianempire/"
     },
     "KievanRus": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8286135160 [GLT8286135160].md",
@@ -107300,6 +107307,13 @@
           "show": "The Rest Is History",
           "title": "155. Ukraine and Russia",
           "url": "/wiki/sources/155-ukraine-and-russia-glt2859413707/"
+        },
+        {
+          "episode_file": "GLT2354182753 [GLT2354182753].md",
+          "key": "149-the-birth-of-russia-glt2354182753",
+          "show": "The Rest Is History",
+          "title": "149. The Birth of Russia",
+          "url": "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
         }
       ],
       "updated": "2026-10-02",
@@ -140644,6 +140658,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/olfactorytraining/"
     },
+    "OlgaOfKiev": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2354182753 [GLT2354182753].md",
+          "key": "149-the-birth-of-russia-glt2354182753",
+          "show": "The Rest Is History",
+          "title": "149. The Birth of Russia",
+          "url": "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/olgaofkiev/"
+    },
     "OligarchicPrivatizationCapture": {
       "episode_count": 1,
       "show_count": 1,
@@ -153103,6 +153133,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/primamateria/"
+    },
+    "PrimaryChronicleSourceCriticism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2354182753 [GLT2354182753].md",
+          "key": "149-the-birth-of-russia-glt2354182753",
+          "show": "The Rest Is History",
+          "title": "149. The Birth of Russia",
+          "url": "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/primarychroniclesourcecriticism/"
     },
     "PrimaryDelegateLegitimacyGap": {
       "episode_count": 2,
@@ -165937,6 +165983,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/ruralknifecrimegeography/"
+    },
+    "Rurik": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2354182753 [GLT2354182753].md",
+          "key": "149-the-birth-of-russia-glt2354182753",
+          "show": "The Rest Is History",
+          "title": "149. The Birth of Russia",
+          "url": "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/rurik/"
     },
     "RussellWilder": {
       "episode_count": 2,
@@ -194620,9 +194682,9 @@
       "url": "/wiki/entities/vannevarbush/"
     },
     "VarangianGuard": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5802152245 [GLT5802152245].md",
@@ -194637,9 +194699,16 @@
           "show": "The Rest Is History",
           "title": "552. The Last Viking: The Saga of Harald Hardrada (Part 1)",
           "url": "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
+        },
+        {
+          "episode_file": "GLT2354182753 [GLT2354182753].md",
+          "key": "149-the-birth-of-russia-glt2354182753",
+          "show": "The Rest Is History",
+          "title": "149. The Birth of Russia",
+          "url": "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/varangianguard/"
     },
     "VaricellaZosterLatencyReactivation": {
@@ -195802,9 +195871,9 @@
       "url": "/wiki/concepts/vikingageworldview/"
     },
     "VikingEasternRoutes": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8286135160 [GLT8286135160].md",
@@ -195812,9 +195881,16 @@
           "show": "The Rest Is History",
           "title": "552. The Last Viking: The Saga of Harald Hardrada (Part 1)",
           "url": "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
+        },
+        {
+          "episode_file": "GLT2354182753 [GLT2354182753].md",
+          "key": "149-the-birth-of-russia-glt2354182753",
+          "show": "The Rest Is History",
+          "title": "149. The Birth of Russia",
+          "url": "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/vikingeasternroutes/"
     },
     "VikingRitualViolence": {
@@ -196257,6 +196333,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/vladimirraitz/"
+    },
+    "VladimirTheGreat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2354182753 [GLT2354182753].md",
+          "key": "149-the-birth-of-russia-glt2354182753",
+          "show": "The Rest Is History",
+          "title": "149. The Birth of Russia",
+          "url": "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/vladimirthegreat/"
     },
     "VocalLearningEvolution": {
       "episode_count": 2,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9210
+wiki_total_pages: 9211
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1676,6 +1676,9 @@ wiki_pages:
   - key: "PriceSignalResourceSteering"
     title: "Price-Signal Resource Steering / 价格信号调控物流"
     url: "/wiki/concepts/pricesignalresourcesteering/"
+  - key: "PrimaryChronicleSourceCriticism"
+    title: "Primary Chronicle Source Criticism"
+    url: "/wiki/concepts/primarychroniclesourcecriticism/"
   - key: "PrimaryElectorateDistortion"
     title: "Primary Electorate Distortion"
     url: "/wiki/concepts/primaryelectoratedistortion/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [149. The Birth of Russia](sources/149-the-birth-of-russia-glt2354182753.md) — The Rest Is History episode on Scandinavian-Rus trade and rule, Primary Chronicle uncertainty, Byzantine Christianization, and Harald Hardrada's eastern career.
 - [150. Smuggling](sources/150-smuggling-glt2228422151.md) — The Rest Is History with Alex Preston on British smuggling, taxation, Kent and Sussex gangs, the Hawkhurst gang, local resistance, literary myth, and modern people-smuggling comparisons.
 - [151. Valentine's Day](sources/151-valentines-day-glt1795443565.md) — The Rest Is History on uncertain saints, weak Lupercalia continuity, Chaucer's bird-mating poetry, Valentine customs, cards, postal reform, and vinegar valentines.
 - [152. American Crusades](sources/152-american-crusades-glt4400059090.md) — The Rest Is History with Andrew Preston on religiously framed expansion, reform, Civil War emancipation, Philippine empire, and American imperial self-denial.
@@ -3460,6 +3461,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science of Love, Desire and Attachment](sources/the-science-of-love-desire-and-attachment-scim1112390541.md) — Huberman Lab solo episode on attachment plasticity, autonomic co-regulation, partner idealization, self-expansion, chemical cues, relationship conflict, and multisystem libido.
 
 ## Entities
+- [Rurik](entities/Rurik.md) — Scandinavian-associated Rus foundation figure whose dynastic importance exceeds the certainty of the Chronicle's invitation legend.
+- [Olga of Kiev](entities/OlgaOfKiev.md) — Kievan regent and early Christian convert whose political profile combines durable authority with a legendary revenge cycle.
+- [Vladimir the Great](entities/VladimirTheGreat.md) — Rus ruler whose baptism, Byzantine marriage, and military alliance anchored formal Christianization.
 - [Alex Preston](entities/AlexPreston.md) — Novelist and guest historian interpreting British smuggling through fiscal history, organized violence, literary memory, and contemporary humanitarian experience.
 - [Hawkhurst Gang](entities/HawkhurstGang.md) — Violent eighteenth-century southeastern smuggling network whose coercion and defeat challenge the lovable-rogue myth.
 - [Saint Valentine](entities/SaintValentine.md) — Uncertain martyr figure or cluster of figures whose feast supplied the name later attached to the romantic holiday.
@@ -15370,6 +15374,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Julie Gottman](entities/JulieGottman.md) — Relationship researcher linked with John Gottman to couple outcomes and destructive conflict patterns.
 
 ## Concepts
+- [Primary Chronicle Source Criticism](concepts/PrimaryChronicleSourceCriticism.md) — Graded method for using the late Rus chronicle without flattening foundation, revenge, and conversion legends into fact.
 - [British Smuggling and the Tax State](concepts/BritishSmugglingTaxState.md) — Feedback loop joining customs, excise, demand, coastal geography, weak enforcement, organized violence, and state suppression.
 - [Criminal Romanticization](concepts/CriminalRomanticization.md) — Conversion of coercive offenders into attractive figures of adventure, rebellion, style, loyalty, or local resistance.
 - [Valentine's Day Historical Formation](concepts/ValentinesDayHistoricalFormation.md) — Layered development from an uncertain saint's feast through medieval literature, social custom, print, post, and commerce.

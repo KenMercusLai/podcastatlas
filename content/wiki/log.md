@@ -27215,3 +27215,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 149. The Birth of Russia
+
+Added source `149-the-birth-of-russia-glt2354182753`; created `Rurik`, `OlgaOfKiev`, `VladimirTheGreat`, and `PrimaryChronicleSourceCriticism`; and resynthesized `KievanRus`, `VikingEasternRoutes`, `VarangianGuard`, and `HaraldHardrada` from their complete preserved evidence inventories. Core synthesis: early Rus authority joined Scandinavian river trade, fortified posts, tribute, coercive bargaining, Slavic society, Byzantine alliance, and Christianization, while the late Primary Chronicle preserves structural memory and political meaning more securely than literal dialogue, revenge mechanisms, prophetic deaths, or conversion scenes. No settled contradiction was adopted. Modern Russian and Ukrainian ownership claims, Rurik's invitation, Olga's revenge, Vladimir's religious-choice narrative, exact Varangian origins, and Harald's court exploits remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,400-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

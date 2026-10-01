@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 11870
+wiki_total_pages: 11873
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "OleksandrSyrskyi"
     title: "Oleksandr Syrskyi / Sersky"
     url: "/wiki/entities/oleksandrsyrskyi/"
+  - key: "OlgaOfKiev"
+    title: "Olga of Kiev"
+    url: "/wiki/entities/olgaofkiev/"
   - key: "OlgaTokarczuk"
     title: "Olga Tokarczuk / 托卡尔丘克"
     url: "/wiki/entities/olgatokarczuk/"

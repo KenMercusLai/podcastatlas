@@ -689,6 +689,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "149-the-birth-of-russia-glt2354182753": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165": [
     {
       "key": "culture",
@@ -62993,6 +63000,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "PrimaryChronicleSourceCriticism": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "PrimaryDelegateLegitimacyGap": [

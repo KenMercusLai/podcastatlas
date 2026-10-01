@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2349
+topic_total_pages: 2351
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1009,6 +1009,9 @@ topic_concepts:
   - key: "PriceSignalResourceSteering"
     title: "Price-Signal Resource Steering / 价格信号调控物流"
     url: "/wiki/concepts/pricesignalresourcesteering/"
+  - key: "PrimaryChronicleSourceCriticism"
+    title: "Primary Chronicle Source Criticism"
+    url: "/wiki/concepts/primarychroniclesourcecriticism/"
   - key: "PrivateAccessTalentChannel"
     title: "Private Access Talent Channel / 私人进身通道"
     url: "/wiki/concepts/privateaccesstalentchannel/"
@@ -4803,6 +4806,9 @@ topic_sources:
   - key: "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285"
     title: "14.武士威廉：大航海时代的日本和西方"
     url: "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+  - key: "149-the-birth-of-russia-glt2354182753"
+    title: "149. The Birth of Russia"
+    url: "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
   - key: "150-smuggling-glt2228422151"
     title: "150. Smuggling"
     url: "/wiki/sources/150-smuggling-glt2228422151/"
