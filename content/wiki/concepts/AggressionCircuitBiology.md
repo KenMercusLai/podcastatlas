@@ -6,6 +6,7 @@ sources:
   - essentials-understanding-controlling-aggression-scim4757138073
   - essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944
   - the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481
+  - understanding-controlling-aggression-scim4257261370
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -38,14 +39,16 @@ The key circuit node in the sources is the [[VentromedialHypothalamus]]. VMH neu
 - State hierarchy - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] says fear-related VMH stimulation can stop fighting and cause freezing.
 - Mating crosstalk and routing - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] links VMH aggression neurons, medial preoptic mating neurons, and [[PeriaqueductalGray]] routing.
 - Target dependence and online evaluation - [[the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481]] says stimulated animals still require a target and frames risky aggression as requiring continuous cost-benefit evaluation.
+- Full-length solo account - [[understanding-controlling-aggression-scim4257261370]] reinforces the aggression categories, fixed-action-pattern sequence, VMH switching, and downstream motor-output account preserved in the later Essentials edit.
 
 ## Counterevidence & Qualifications
-The sources rely heavily on animal experiments and public neuroscience interpretation. They do not claim the VMH alone explains human criminal violence, abuse, war, online harassment, psychiatric diagnoses, or legal responsibility. Protective aggression, impulsive attack, deliberate harm, indirect shaming, predation, mating-related behavior, and defensive freezing remain contextually different even if some mechanisms overlap.
+The sources rely heavily on animal experiments and public neuroscience interpretation. They do not claim the VMH alone explains human criminal violence, abuse, war, online harassment, psychiatric diagnoses, or legal responsibility. Protective aggression, impulsive attack, deliberate harm, indirect shaming, predation, mating-related behavior, and defensive freezing remain contextually different even if some mechanisms overlap. The full solo episode and its later Essentials edit share editorial provenance and do not count as independent replication.
 
 ## What Changed
 - Created the aggression-circuit concept to organize the episode's Lorenz, Hess, VMH, Anderson, and Dai Yu Lin evidence.
 - Added Anderson's direct explanation of VMH thresholds, fear override, mating-circuit crosstalk, and PAG routing.
 - Added target dependence and continuing cost-benefit evaluation to the circuit-drive account.
+- Preserved the circuit judgment after adding the full solo episode, while marking its later Essentials edit as non-independent evidence.
 
 ## Related Concepts
 - [[HormoneContextAggression]] - hormonal and internal-state branch that modulates circuit expression.

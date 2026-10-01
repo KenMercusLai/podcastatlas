@@ -6,6 +6,7 @@ sources:
   - essentials-understanding-controlling-aggression-scim4757138073
   - essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944
   - the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481
+  - understanding-controlling-aggression-scim4257261370
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -33,14 +34,16 @@ The Anderson interview makes this routing role explicit. Anderson compares PAG t
 - Behavior range evidence - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] links PAG to pain, mating posture, fighting, and pain modulation.
 - Uncertainty evidence - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] says the hypothalamus-to-PAG mapping is suggested by evidence but not fully mapped.
 - State-dependent pain evidence - [[the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481]] describes fear-induced analgesia while keeping PAG's precise causal role and sector map incomplete.
+- Full-length solo account - [[understanding-controlling-aggression-scim4257261370]] reinforces the VMH-to-PAG motor-output and endogenous pain-modulation account preserved in the later Essentials edit.
 
 ## Counterevidence & Qualifications
-The sources discuss PAG mainly as public neuroscience interpretation from animal and circuit research. They do not make PAG a diagnostic marker, treatment target, or complete causal account for human aggression, mating, fear, or pain experience.
+The sources discuss PAG mainly as public neuroscience interpretation from animal and circuit research. They do not make PAG a diagnostic marker, treatment target, or complete causal account for human aggression, mating, fear, or pain experience. The full solo episode and its later Essentials edit share editorial provenance and are not independent evidence.
 
 ## What Changed
 - Created a disambiguated brain-region page because `PAG` already refers to the investment firm [[PAG]].
 - Added the source-bounded routing-hub synthesis from the two aggression episodes.
 - Added fear-induced analgesia as evidence for state-dependent pain routing without making PAG its exclusive cause.
+- Kept the routing judgment unchanged after adding the full solo episode and marking the Essentials condensation as non-independent.
 
 ## Related Concepts
 - [[VentromedialHypothalamus]] - upstream hypothalamic node whose outputs may route through PAG.

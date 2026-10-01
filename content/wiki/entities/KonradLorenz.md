@@ -4,7 +4,8 @@ type: entity
 tags: [person, ethology, aggression]
 sources:
   - essentials-understanding-controlling-aggression-scim4757138073
-last_updated: 2026-09-12
+  - understanding-controlling-aggression-scim4257261370
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,12 +28,14 @@ This profile is source-limited. It does not evaluate Lorenz's full scientific ca
 ## Evidence
 - Ethology and fixed action patterns - [[essentials-understanding-controlling-aggression-scim4757138073]] introduces Lorenz as a major figure in formal aggression research, imprinting, and fixed action patterns.
 - Pressure model - [[essentials-understanding-controlling-aggression-scim4757138073]] uses Lorenz's hydraulic-pressure idea to describe how internal and external variables can build aggressive tendency.
+- Full-length account - [[understanding-controlling-aggression-scim4257261370]] supplies the same fixed-action-pattern and hydraulic-pressure framing in the source from which the later Essentials edit was condensed.
 
 ## Qualifications
-This page is bounded to one podcast source and should not be read as a complete Lorenz biography or a settled assessment of ethology.
+This page is bounded to two editorial versions of one podcast discussion and should not be read as a complete Lorenz biography or a settled assessment of ethology. The full episode and later Essentials edit are not independent evidence.
 
 ## What Changed
 - Created the page to anchor the aggression episode's historical fixed-action-pattern reference.
+- Kept the source-limited historical profile unchanged after adding the non-independent full episode.
 
 ## Relationships
 - [[AggressionCircuitBiology]] - historical precursor frame for aggression as a sequenced action pattern.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Understanding & Controlling Aggression](sources/understanding-controlling-aggression-scim4257261370.md) — Full Huberman Lab episode on aggression categories, VMH circuitry, hormone and photoperiod context, alcohol and caffeine disinhibition, and cumulative pressure-reduction tools.
 - [184. History's Biggest Questions with Dan Carlin (Part 2)](sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798.md) — The Rest Is History crossover on historical memory, contextual judgment, Cold War contingency, Putin's miscalculation, and whether the past remains knowable.
 - [185. Agatha Christie](sources/185-agatha-christie-glt9092045420.md) — The Rest Is History episode on Christie's life, middle-class social anxieties, stereotype-based misdirection, moral judgment, and rule-bound formal innovation.
 - [Understand & Improve Memory Using Science-Based Tools](sources/understand-improve-memory-using-science-based-tools-scim9087472978.md) — Full Huberman Lab episode on repetition, post-learning arousal, hippocampal memory, visual snapshots, meditation timing, and safety boundaries.

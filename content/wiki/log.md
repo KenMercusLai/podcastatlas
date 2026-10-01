@@ -26801,3 +26801,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | Understanding & Controlling Aggression
+
+Added source `understanding-controlling-aggression-scim4257261370`; resynthesized `AggressionCircuitBiology`, `HormoneContextAggression`, `AggressionPressureReduction`, `PeriaqueductalGray`, `VentromedialHypothalamus`, `KonradLorenz`, `WalterHess`, `DaiYuLin`, and `DavidAnderson` from their complete preserved evidence inventories. Core synthesis: aggression is a context-dependent family of behaviors whose expression depends on neural circuits, aromatization and estrogen-receptor signaling, stress and serotonin state, photoperiod, social context, and self-regulation; alcohol-related disinhibition and caffeine-related arousal add distinct practical risk contexts. No settled contradiction was adopted. The full episode and later Essentials edit are shared editorial provenance rather than independent replication, while animal-to-human translation, hormone correlations, seasonal effects, supplements, sauna, and pediatric ADHD findings remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,350-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, changed-page link, index coverage, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

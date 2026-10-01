@@ -7373,9 +7373,9 @@
       "url": "/wiki/entities/agentslastexam/"
     },
     "AggressionCircuitBiology": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4757138073 [SCIM4757138073].md",
@@ -7397,15 +7397,22 @@
           "show": "Huberman Lab",
           "title": "The Biology of Aggression, Mating, & Arousal | Dr. David Anderson",
           "url": "/wiki/sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481/"
+        },
+        {
+          "episode_file": "SCIM4257261370 [SCIM4257261370].md",
+          "key": "understanding-controlling-aggression-scim4257261370",
+          "show": "Huberman Lab",
+          "title": "Understanding & Controlling Aggression",
+          "url": "/wiki/sources/understanding-controlling-aggression-scim4257261370/"
         }
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/aggressioncircuitbiology/"
     },
     "AggressionPressureReduction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4757138073 [SCIM4757138073].md",
@@ -7413,9 +7420,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Controlling Aggression",
           "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        },
+        {
+          "episode_file": "SCIM4257261370 [SCIM4257261370].md",
+          "key": "understanding-controlling-aggression-scim4257261370",
+          "show": "Huberman Lab",
+          "title": "Understanding & Controlling Aggression",
+          "url": "/wiki/sources/understanding-controlling-aggression-scim4257261370/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/aggressionpressurereduction/"
     },
     "AgileSprintPersonalWorkflow": {
@@ -43614,9 +43628,9 @@
       "url": "/wiki/entities/daiwei/"
     },
     "DaiYuLin": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4757138073 [SCIM4757138073].md",
@@ -43624,9 +43638,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Controlling Aggression",
           "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        },
+        {
+          "episode_file": "SCIM4257261370 [SCIM4257261370].md",
+          "key": "understanding-controlling-aggression-scim4257261370",
+          "show": "Huberman Lab",
+          "title": "Understanding & Controlling Aggression",
+          "url": "/wiki/sources/understanding-controlling-aggression-scim4257261370/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/daiyulin/"
     },
     "DaiYuanLateHan": {
@@ -45334,9 +45355,9 @@
       "url": "/wiki/entities/davemccormick/"
     },
     "DavidAnderson": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -45365,6 +45386,13 @@
           "show": "Huberman Lab",
           "title": "The Biology of Aggression, Mating, & Arousal | Dr. David Anderson",
           "url": "/wiki/sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481/"
+        },
+        {
+          "episode_file": "SCIM4257261370 [SCIM4257261370].md",
+          "key": "understanding-controlling-aggression-scim4257261370",
+          "show": "Huberman Lab",
+          "title": "Understanding & Controlling Aggression",
+          "url": "/wiki/sources/understanding-controlling-aggression-scim4257261370/"
         }
       ],
       "updated": "2026-10-01",
@@ -87856,9 +87884,9 @@
       "url": "/wiki/entities/horationelson/"
     },
     "HormoneContextAggression": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4757138073 [SCIM4757138073].md",
@@ -87880,6 +87908,13 @@
           "show": "Huberman Lab",
           "title": "The Biology of Aggression, Mating, & Arousal | Dr. David Anderson",
           "url": "/wiki/sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481/"
+        },
+        {
+          "episode_file": "SCIM4257261370 [SCIM4257261370].md",
+          "key": "understanding-controlling-aggression-scim4257261370",
+          "show": "Huberman Lab",
+          "title": "Understanding & Controlling Aggression",
+          "url": "/wiki/sources/understanding-controlling-aggression-scim4257261370/"
         }
       ],
       "updated": "2026-10-01",
@@ -105785,9 +105820,9 @@
       "url": "/wiki/entities/konradadenauer/"
     },
     "KonradLorenz": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4757138073 [SCIM4757138073].md",
@@ -105795,9 +105830,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Controlling Aggression",
           "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        },
+        {
+          "episode_file": "SCIM4257261370 [SCIM4257261370].md",
+          "key": "understanding-controlling-aggression-scim4257261370",
+          "show": "Huberman Lab",
+          "title": "Understanding & Controlling Aggression",
+          "url": "/wiki/sources/understanding-controlling-aggression-scim4257261370/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/konradlorenz/"
     },
     "KoreanGiveUpGenerationPressure": {
@@ -143402,9 +143444,9 @@
       "url": "/wiki/concepts/performeraudiencestatecoupling/"
     },
     "PeriaqueductalGray": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4757138073 [SCIM4757138073].md",
@@ -143426,6 +143468,13 @@
           "show": "Huberman Lab",
           "title": "The Biology of Aggression, Mating, & Arousal | Dr. David Anderson",
           "url": "/wiki/sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481/"
+        },
+        {
+          "episode_file": "SCIM4257261370 [SCIM4257261370].md",
+          "key": "understanding-controlling-aggression-scim4257261370",
+          "show": "Huberman Lab",
+          "title": "Understanding & Controlling Aggression",
+          "url": "/wiki/sources/understanding-controlling-aggression-scim4257261370/"
         }
       ],
       "updated": "2026-10-01",
@@ -190768,9 +190817,9 @@
       "url": "/wiki/concepts/venousthromboembolismtriage/"
     },
     "VentromedialHypothalamus": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM4757138073 [SCIM4757138073].md",
@@ -190799,6 +190848,13 @@
           "show": "Huberman Lab",
           "title": "The Biology of Aggression, Mating, & Arousal | Dr. David Anderson",
           "url": "/wiki/sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481/"
+        },
+        {
+          "episode_file": "SCIM4257261370 [SCIM4257261370].md",
+          "key": "understanding-controlling-aggression-scim4257261370",
+          "show": "Huberman Lab",
+          "title": "Understanding & Controlling Aggression",
+          "url": "/wiki/sources/understanding-controlling-aggression-scim4257261370/"
         }
       ],
       "updated": "2026-10-01",
@@ -192495,9 +192551,9 @@
       "url": "/wiki/concepts/wallstreetprivatemortgagecapital/"
     },
     "WalterHess": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4757138073 [SCIM4757138073].md",
@@ -192505,9 +192561,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Controlling Aggression",
           "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        },
+        {
+          "episode_file": "SCIM4257261370 [SCIM4257261370].md",
+          "key": "understanding-controlling-aggression-scim4257261370",
+          "show": "Huberman Lab",
+          "title": "Understanding & Controlling Aggression",
+          "url": "/wiki/sources/understanding-controlling-aggression-scim4257261370/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/walterhess/"
     },
     "WalterOng": {

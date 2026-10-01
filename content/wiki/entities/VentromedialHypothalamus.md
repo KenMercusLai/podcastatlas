@@ -7,6 +7,7 @@ sources:
   - essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944
   - essentials-how-to-control-hunger-eating-satiety-scim9260736648
   - the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481
+  - understanding-controlling-aggression-scim4257261370
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -42,14 +43,16 @@ An older lesion and parabiosis branch says VMH disruption can increase or decrea
 - Network routing - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] links VMH to medial preoptic mating neurons and downstream [[PeriaqueductalGray]] routing.
 - Threshold, target, and maternal-state detail - [[the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481]] says VMH drive lowers attack threshold without producing attack at nothing and describes female fighting-versus-mating population balance changing in nursing mothers.
 - Feeding-control branch - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] uses VMH lesion and parabiosis examples to connect mixed feeding effects with blood-borne appetite signals.
+- Full-length solo account - [[understanding-controlling-aggression-scim4257261370]] reinforces the historical stimulation, estrogen-receptor neuron, behavioral-switching, and downstream-output evidence preserved in the later Essentials edit.
 
 ## Qualifications
-The page records the podcasts' explanation of VMH aggression, fear, hormone, mating, and feeding circuitry. It is not a clinical violence-risk or appetite model, a complete hypothalamus anatomy page, or an individualized neuroscience explanation. The feeding account is based on a compressed description of animal lesion and parabiosis experiments without methods or modern circuit resolution.
+The page records the podcasts' explanation of VMH aggression, fear, hormone, mating, and feeding circuitry. It is not a clinical violence-risk or appetite model, a complete hypothalamus anatomy page, or an individualized neuroscience explanation. The feeding account is based on a compressed description of animal lesion and parabiosis experiments without methods or modern circuit resolution. The full solo aggression episode and its later Essentials edit share editorial provenance rather than independently confirming the VMH claims.
 
 ## What Changed
 - Extended the VMH profile from aggression, fear, and mating into mixed feeding-control populations.
 - Kept the lesion and parabiosis interpretation bounded to the episode's compressed animal evidence.
 - Clarified that VMH drive changes attack threshold rather than generating target-free behavior and that female circuit balance is state-dependent.
+- Preserved the VMH judgment after adding the full solo episode and discounting the Essentials condensation as independent evidence.
 
 ## Relationships
 - [[AggressionCircuitBiology]] - concept in which VMH is the central circuit node.

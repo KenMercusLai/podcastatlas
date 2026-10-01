@@ -7,6 +7,7 @@ sources:
   - essentials-understanding-controlling-aggression-scim4757138073
   - essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944
   - the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481
+  - understanding-controlling-aggression-scim4257261370
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-01
 ---
@@ -35,14 +36,16 @@ The full Anderson interview and its later Essentials condensation make him the d
 - Aggression-circuit role - [[essentials-understanding-controlling-aggression-scim4757138073]] credits Anderson's lab with showing the [[VentromedialHypothalamus]] is necessary and sufficient for aggressive behavior.
 - Direct interview role - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] has Anderson explain emotions as internal states and connect aggression, fear, mating, PAG routing, tachykinin isolation effects, and vagal body signaling.
 - Full interview detail - [[the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481]] adds circuit-specific arousal, target-dependent aggression, maternal-state detail, fear-induced analgesia, and explicit animal-to-human translation limits.
+- Full-length solo reference - [[understanding-controlling-aggression-scim4257261370]] credits Anderson's lab in the longer source from which the later solo Essentials aggression edit was condensed.
 
 ## Qualifications
-This page records only the sources' uses of Anderson's work and interview claims. It does not summarize his broader research career, publication record, lab program, or the full experimental basis for VMH, tachykinin, or vagus-related claims.
+This page records only the sources' uses of Anderson's work and interview claims. It does not summarize his broader research career, publication record, lab program, or the full experimental basis for VMH, tachykinin, or vagus-related claims. The full solo aggression episode and its later Essentials edit are shared editorial provenance, as are the full Anderson interview and its Essentials condensation.
 
 ## What Changed
 - Added the aggression Essentials source and expanded Anderson's page from an emotion-framework mention to a dual emotion/aggression-circuit research-lineage reference.
 - Added the Anderson interview as direct evidence for internal-state emotion framing, aggression and mating circuit interaction, PAG routing, tachykinin isolation effects, and cautious translation.
 - Distinguished circuit-specific arousal from a single neurochemical or intensity switch using the full interview evidence.
+- Preserved the profile after adding the full solo episode while marking its Essentials edit as non-independent evidence.
 
 ## Relationships
 - [[RalphAdolphs]] - collaborator and main interview voice in the source.

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1377
+topic_total_pages: 1378
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -4041,6 +4041,9 @@ topic_sources:
   - key: "understand-improve-memory-using-science-based-tools-scim9087472978"
     title: "Understand & Improve Memory Using Science-Based Tools"
     url: "/wiki/sources/understand-improve-memory-using-science-based-tools-scim9087472978/"
+  - key: "understanding-controlling-aggression-scim4257261370"
+    title: "Understanding & Controlling Aggression"
+    url: "/wiki/sources/understanding-controlling-aggression-scim4257261370/"
   - key: "use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904"
     title: "Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe"
     url: "/wiki/sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904/"

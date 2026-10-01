@@ -4,7 +4,8 @@ type: entity
 tags: [person, neuroscience, aggression]
 sources:
   - essentials-understanding-controlling-aggression-scim4757138073
-last_updated: 2026-09-12
+  - understanding-controlling-aggression-scim4257261370
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,12 +28,14 @@ The page is narrowly source-bounded: Dai Yu Lin appears as part of the episode's
 ## Evidence
 - Optogenetic stimulation - [[essentials-understanding-controlling-aggression-scim4757138073]] names Dai Yu Lin's experiments using light to activate estrogen-receptor-containing VMH neurons in mice.
 - Behavioral switching - [[essentials-understanding-controlling-aggression-scim4757138073]] says stimulation could interrupt mating and trigger attack, and could also make a mouse attack an inanimate target.
+- Full-length account - [[understanding-controlling-aggression-scim4257261370]] supplies the same mating-to-attack switch and inanimate-target example in the source from which the later Essentials edit was condensed.
 
 ## Qualifications
-The source is a public podcast summary and does not give a complete methodological review, dose-response account, sex-comparison analysis, or full publication history.
+The sources are two editorial versions of one public podcast discussion and do not give a complete methodological review, dose-response account, sex-comparison analysis, or full publication history. They are not independent replication.
 
 ## What Changed
 - Created the page to anchor the optogenetic VMH evidence in the aggression episode.
+- Kept the source-bounded research profile unchanged after adding the non-independent full episode.
 
 ## Relationships
 - [[VentromedialHypothalamus]] - target region in the source's optogenetic aggression examples.

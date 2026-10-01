@@ -6,6 +6,7 @@ sources:
   - essentials-understanding-controlling-aggression-scim4757138073
   - essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944
   - the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481
+  - understanding-controlling-aggression-scim4257261370
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -39,14 +40,16 @@ The hormonal effect is conditional. Day length, melatonin, dopamine, cortisol, s
 - Sex-specific populations - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] describes female VMH populations that separately control fighting and mating.
 - Gene-environment interaction - [[essentials-understanding-controlling-aggression-scim4757138073]] cites estrogen-receptor sensitivity and day length as interacting variables rather than one-gene destiny.
 - Reproductive-state evidence - [[the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481]] contrasts mating-dominant virgin female VMH activity with fighting-dominant maternal state while keeping pregnancy, lactation, and circuit causality incomplete.
+- Full-length hormone-context account - [[understanding-controlling-aggression-scim4257261370]] reinforces the testosterone qualification, aromatization pathway, receptor sensitivity, photoperiod, cortisol, and serotonin interaction preserved in the later Essentials edit.
 
 ## Counterevidence & Qualifications
-The sources do not provide individualized hormone testing, psychiatric assessment, violence-risk prediction, or treatment guidance. Testosterone, estrogen, cortisol, serotonin, dopamine, melatonin, aromatase, maternal-state, and VMH receptor claims are presented as public education and animal-model interpretation, not a basis for self-prescribing hormones, antidepressants, cortisol-lowering supplements, or aggression treatment.
+The sources do not provide individualized hormone testing, psychiatric assessment, violence-risk prediction, or treatment guidance. Testosterone, estrogen, cortisol, serotonin, dopamine, melatonin, aromatase, maternal-state, and VMH receptor claims are presented as public education and animal-model interpretation, not a basis for self-prescribing hormones, antidepressants, cortisol-lowering supplements, or aggression treatment. The full solo episode and its later Essentials edit are two versions of shared material, not independent confirmation.
 
 ## What Changed
 - Created the hormone-context concept to qualify testosterone-only aggression explanations and connect aromatization, VMH estrogen receptors, stress, serotonin, light, and genetics.
 - Added Anderson's VMH estrogen-receptor, castration-restoration, and female fighting-versus-mating population details.
 - Clarified that female aggression-circuit expression changes with reproductive and maternal state rather than sex alone.
+- Retained the context-dependent hormone judgment after adding the full solo episode and discounting its Essentials edit as non-independent evidence.
 
 ## Related Concepts
 - [[AggressionCircuitBiology]] - circuit branch that hormone context can modulate.
