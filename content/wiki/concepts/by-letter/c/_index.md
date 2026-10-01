@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9156
+wiki_total_pages: 9159
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2678,6 +2678,9 @@ wiki_pages:
   - key: "CulturalRelativismVictimProtectionBoundary"
     title: "Cultural Relativism Victim Protection Boundary"
     url: "/wiki/concepts/culturalrelativismvictimprotectionboundary/"
+  - key: "CulturalRevolution"
+    title: "Cultural Revolution"
+    url: "/wiki/concepts/culturalrevolution/"
   - key: "CulturalRevolutionGovernanceMemory"
     title: "Cultural Revolution Governance Memory"
     url: "/wiki/concepts/culturalrevolutiongovernancememory/"

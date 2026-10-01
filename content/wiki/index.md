@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [173. Chairman Mao & the Cultural Revolution](sources/173-chairman-mao-the-cultural-revolution-glt2886812821.md) — The Rest Is History episode with Rana Mitter on Mao's authority, Red Guard mobilization, revolutionary iconoclasm, political ritual, factional violence, and the post-Mao settlement.
 - [174. Merlin, Magic and the British](sources/174-merlin-magic-and-the-british-glt5141910845.md) — The Rest Is History with Francis Young on Merlin, royal occult counsel, magical decision capture, sorcery propaganda, John Dee, and wartime spiritualism.
 - [How to Optimize Your Hormones for Health & Vitality | Dr. Kyle Gillett](sources/how-to-optimize-your-hormones-for-health-vitality-dr-kyle-gillett-scim6818581014.md) — Huberman Lab interview on lifestyle-first hormone assessment, sex-steroid feedback, fertility, prolactin, TRT, hair loss, PCOS, and peptide safety.
 - [175. Crucifixion (Part 1)](sources/175-crucifixion-part-1-glt5186420966.md) — The Rest Is History on crucifixion as Roman public humiliation, the historical evidence for Jesus's execution, and Christianity's inversion of the cross.
@@ -3426,6 +3427,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [176. The Jews Against Rome (Part 2)](sources/176-the-jews-against-rome-part-2-glt3414103581.md) — The Rest Is History episode on Judean identity, Roman governance, revolt escalation, Beth-Horon, Jotapata, Josephus, and Vespasian's rise.
 
 ## Entities
+- [Jiang Qing](entities/JiangQing.md) — Cultural Revolution radical and Gang of Four member whose arrest helped concentrate post-Mao blame.
+- [Red Guards](entities/RedGuards.md) — Heterogeneous youth formations mobilized to attack allegedly revisionist authority and the inherited old world.
 - [Francis Young](entities/FrancisYoung.md) — Historian distinguishing occult legitimation, advice, propaganda, decision failure, and security response in British politics.
 - [Merlin](entities/Merlin.md) — Legendary British prophet and royal adviser whose political afterlife shaped rebellion, kingship, and later learned self-fashioning.
 - [Helen Duncan](entities/HelenDuncan.md) — Wartime medium whose seances became a possible information-leakage and public-order concern.
@@ -15277,6 +15280,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
+- [Cultural Revolution](concepts/CulturalRevolution.md) — Mao-led mass upheaval joining anti-revisionism, youth rebellion, persecution, iconoclasm, factional conflict, and institutional breakdown.
+- [Maoist Political Religion](concepts/MaoistPoliticalReligion.md) — Qualified frame for the ritual, conversion-like, and relic-making dimensions of Mao worship.
+- [Revolutionary Iconoclasm](concepts/RevolutionaryIconoclasm.md) — Political renewal pursued through destruction of inherited ideas, practices, objects, institutions, and historical memory.
 - [Occult Politics](concepts/OccultPolitics.md) — Political use and management of prophecy, magic, astrology, ritual, accusation, and occult reputation.
 - [Political Occult Accusation](concepts/PoliticalOccultAccusation.md) — Use of sorcery or demonic association to explain success and stigmatize political or religious opponents.
 - [Prolactin-Dopamine-Pituitary Interpretation](concepts/ProlactinDopaminePituitaryInterpretation.md) — Context-first framework joining prolactin, dopamine, estrogen, reproductive physiology, gonadal feedback, and pituitary escalation.

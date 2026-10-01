@@ -1117,6 +1117,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "173-chairman-mao-the-cultural-revolution-glt2886812821": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe": [
     {
       "key": "economics",
@@ -44243,6 +44250,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "JiangQing": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JiangQu": [

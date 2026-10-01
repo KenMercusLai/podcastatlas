@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2323
+topic_total_pages: 2324
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4803,6 +4803,9 @@ topic_sources:
   - key: "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962"
     title: "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感"
     url: "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  - key: "173-chairman-mao-the-cultural-revolution-glt2886812821"
+    title: "173. Chairman Mao & the Cultural Revolution"
+    url: "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
   - key: "174-merlin-magic-and-the-british-glt5141910845"
     title: "174. Merlin, Magic and the British"
     url: "/wiki/sources/174-merlin-magic-and-the-british-glt5141910845/"

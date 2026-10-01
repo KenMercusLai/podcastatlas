@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2946
+topic_total_pages: 2947
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5903,6 +5903,9 @@ topic_entities:
   - key: "JeremyThorpe"
     title: "Jeremy Thorpe"
     url: "/wiki/entities/jeremythorpe/"
+  - key: "JiangQing"
+    title: "Jiang Qing"
+    url: "/wiki/entities/jiangqing/"
   - key: "JimCallaghan"
     title: "Jim Callaghan"
     url: "/wiki/entities/jimcallaghan/"

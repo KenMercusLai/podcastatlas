@@ -33258,9 +33258,9 @@
       "url": "/wiki/entities/chinesechampionsleague/"
     },
     "ChineseCommunistParty": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1902993082 [GLT1902993082].md",
@@ -33282,6 +33282,13 @@
           "show": "The Rest Is History",
           "title": "235. China and World War II (Part 1)",
           "url": "/wiki/sources/235-china-and-world-war-ii-part-1-glt2114682484/"
+        },
+        {
+          "episode_file": "GLT2886812821 [GLT2886812821].md",
+          "key": "173-chairman-mao-the-cultural-revolution-glt2886812821",
+          "show": "The Rest Is History",
+          "title": "173. Chairman Mao & the Cultural Revolution",
+          "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
         }
       ],
       "updated": "2026-10-01",
@@ -42939,10 +42946,26 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/culturalpreservationcolony/"
     },
-    "CulturalRevolutionGovernanceMemory": {
+    "CulturalRevolution": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2886812821 [GLT2886812821].md",
+          "key": "173-chairman-mao-the-cultural-revolution-glt2886812821",
+          "show": "The Rest Is History",
+          "title": "173. Chairman Mao & the Cultural Revolution",
+          "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/culturalrevolution/"
+    },
+    "CulturalRevolutionGovernanceMemory": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1902993082 [GLT1902993082].md",
@@ -42950,6 +42973,13 @@
           "show": "The Rest Is History",
           "title": "366. The Architect of Modern China",
           "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        },
+        {
+          "episode_file": "GLT2886812821 [GLT2886812821].md",
+          "key": "173-chairman-mao-the-cultural-revolution-glt2886812821",
+          "show": "The Rest Is History",
+          "title": "173. Chairman Mao & the Cultural Revolution",
+          "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
         }
       ],
       "updated": "2026-09-28",
@@ -47471,9 +47501,9 @@
       "url": "/wiki/entities/dengxilatehan/"
     },
     "DengXiaoping": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1902993082 [GLT1902993082].md",
@@ -47481,6 +47511,13 @@
           "show": "The Rest Is History",
           "title": "366. The Architect of Modern China",
           "url": "/wiki/sources/366-the-architect-of-modern-china-glt1902993082/"
+        },
+        {
+          "episode_file": "GLT2886812821 [GLT2886812821].md",
+          "key": "173-chairman-mao-the-cultural-revolution-glt2886812821",
+          "show": "The Rest Is History",
+          "title": "173. Chairman Mao & the Cultural Revolution",
+          "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
         }
       ],
       "updated": "2026-09-28",
@@ -101177,6 +101214,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/jiangqilatehan/"
     },
+    "JiangQing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2886812821 [GLT2886812821].md",
+          "key": "173-chairman-mao-the-cultural-revolution-glt2886812821",
+          "show": "The Rest Is History",
+          "title": "173. Chairman Mao & the Cultural Revolution",
+          "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/jiangqing/"
+    },
     "JiangTaoPsychiatrist": {
       "episode_count": 2,
       "show_count": 2,
@@ -122666,9 +122719,9 @@
       "url": "/wiki/entities/maoyisheng/"
     },
     "MaoZedong": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1902993082 [GLT1902993082].md",
@@ -122683,6 +122736,13 @@
           "show": "The Rest Is History",
           "title": "236. China and World War II (Part 2)",
           "url": "/wiki/sources/236-china-and-world-war-ii-part-2-glt5290070743/"
+        },
+        {
+          "episode_file": "GLT2886812821 [GLT2886812821].md",
+          "key": "173-chairman-mao-the-cultural-revolution-glt2886812821",
+          "show": "The Rest Is History",
+          "title": "173. Chairman Mao & the Cultural Revolution",
+          "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
         }
       ],
       "updated": "2026-10-01",
@@ -122775,6 +122835,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/maozhongqun/"
+    },
+    "MaoistPoliticalReligion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2886812821 [GLT2886812821].md",
+          "key": "173-chairman-mao-the-cultural-revolution-glt2886812821",
+          "show": "The Rest Is History",
+          "title": "173. Chairman Mao & the Cultural Revolution",
+          "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/maoistpoliticalreligion/"
     },
     "Maori": {
       "episode_count": 1,
@@ -155820,9 +155896,9 @@
       "url": "/wiki/entities/ralphlordoftheflies/"
     },
     "RanaMitter": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1902993082 [GLT1902993082].md",
@@ -155844,6 +155920,13 @@
           "show": "The Rest Is History",
           "title": "235. China and World War II (Part 1)",
           "url": "/wiki/sources/235-china-and-world-war-ii-part-1-glt2114682484/"
+        },
+        {
+          "episode_file": "GLT2886812821 [GLT2886812821].md",
+          "key": "173-chairman-mao-the-cultural-revolution-glt2886812821",
+          "show": "The Rest Is History",
+          "title": "173. Chairman Mao & the Cultural Revolution",
+          "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
         }
       ],
       "updated": "2026-10-01",
@@ -157001,6 +157084,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/redcloud/"
+    },
+    "RedGuards": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2886812821 [GLT2886812821].md",
+          "key": "173-chairman-mao-the-cultural-revolution-glt2886812821",
+          "show": "The Rest Is History",
+          "title": "173. Chairman Mao & the Cultural Revolution",
+          "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/redguards/"
     },
     "RedNearInfraredPhotobiomodulation": {
       "episode_count": 1,
@@ -159827,6 +159926,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/revolutionaryhungerstreetmobilization/"
+    },
+    "RevolutionaryIconoclasm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2886812821 [GLT2886812821].md",
+          "key": "173-chairman-mao-the-cultural-revolution-glt2886812821",
+          "show": "The Rest Is History",
+          "title": "173. Chairman Mao & the Cultural Revolution",
+          "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/revolutionaryiconoclasm/"
     },
     "RevolutionaryIdeologicalWar": {
       "episode_count": 3,
@@ -201673,9 +201788,9 @@
       "url": "/wiki/entities/xiguangeasternhan/"
     },
     "XiJinping": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Socialist mobility： a telling Michigan vote [6a74600ec3e1347e8b5bf216].md",
@@ -201697,6 +201812,13 @@
           "show": "Economist Podcasts",
           "title": "Big meet, little meat: the Trump-Xi summit",
           "url": "/wiki/sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db/"
+        },
+        {
+          "episode_file": "GLT2886812821 [GLT2886812821].md",
+          "key": "173-chairman-mao-the-cultural-revolution-glt2886812821",
+          "show": "The Rest Is History",
+          "title": "173. Chairman Mao & the Cultural Revolution",
+          "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
         }
       ],
       "updated": "2026-09-25",

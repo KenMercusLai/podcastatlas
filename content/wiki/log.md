@@ -26941,3 +26941,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 173. Chairman Mao & the Cultural Revolution
+
+Added source `173-chairman-mao-the-cultural-revolution-glt2886812821`; created `JiangQing`, `RedGuards`, `CulturalRevolution`, `MaoistPoliticalReligion`, and `RevolutionaryIconoclasm`; and resynthesized `MaoZedong`, `ChineseCommunistParty`, `RanaMitter`, `DengXiaoping`, `XiJinping`, and `CulturalRevolutionGovernanceMemory` from their complete preserved evidence inventories. Core synthesis: the Cultural Revolution joined Mao's recovery of authority and anti-revisionist conviction to youth rebellion, social grievance, iconoclasm, ritual devotion, factional escalation, and institutional breakdown; army intervention ended the classic Red Guard phase without ending coercion; and post-Mao condemnation preserved Mao while concentrating blame on the Gang of Four. No settled contradiction was adopted. Casualty estimates, Mao's initial intended scope, local variation, Guangxi cannibalism evidence, religious analogy, elite motives, and causal claims about Xi's later priorities remain attributed, qualified, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten because this episode deepens an established historical branch without changing the wiki-wide synthesis. The downstream manifest and paragraph ledger were refreshed to 3,367-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, synthesis, health, and publish validation passed; the repo-wide scan retains 14 pre-existing broken links outside this ingest.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

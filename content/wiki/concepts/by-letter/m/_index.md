@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9156
+wiki_total_pages: 9159
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "MaoSuiSelfRecommendation"
     title: "Mao Sui Self-Recommendation / 毛遂自荐"
     url: "/wiki/concepts/maosuiselfrecommendation/"
+  - key: "MaoistPoliticalReligion"
+    title: "Maoist Political Religion"
+    url: "/wiki/concepts/maoistpoliticalreligion/"
   - key: "MAPERInvestmentResearchFramework"
     title: "MAPER Investment Research Framework"
     url: "/wiki/concepts/maperinvestmentresearchframework/"

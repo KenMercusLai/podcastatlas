@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9156
+wiki_total_pages: 9159
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "RevolutionaryHungerStreetMobilization"
     title: "Revolutionary Hunger and Street Mobilization"
     url: "/wiki/concepts/revolutionaryhungerstreetmobilization/"
+  - key: "RevolutionaryIconoclasm"
+    title: "Revolutionary Iconoclasm"
+    url: "/wiki/concepts/revolutionaryiconoclasm/"
   - key: "RevolutionaryIdeologicalWar"
     title: "Revolutionary Ideological War"
     url: "/wiki/concepts/revolutionaryideologicalwar/"
