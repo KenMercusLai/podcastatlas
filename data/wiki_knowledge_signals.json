@@ -85229,9 +85229,9 @@
       "url": "/wiki/entities/helenoftroy/"
     },
     "HelenThompson": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4572551005 [GLT4572551005].md",
@@ -85239,6 +85239,13 @@
           "show": "The Rest Is History",
           "title": "168. Oil: Conflict, Chaos and Climate Change",
           "url": "/wiki/sources/168-oil-conflict-chaos-and-climate-change-glt4572551005/"
+        },
+        {
+          "episode_file": "GLT7483911964 [GLT7483911964].md",
+          "key": "167-oil-the-making-of-the-modern-world-glt7483911964",
+          "show": "The Rest Is History",
+          "title": "167. Oil: The Making of the Modern World",
+          "url": "/wiki/sources/167-oil-the-making-of-the-modern-world-glt7483911964/"
         }
       ],
       "updated": "2026-10-02",
@@ -138885,9 +138892,9 @@
       "url": "/wiki/concepts/oilnationalization/"
     },
     "OilPoliticalPower": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4572551005 [GLT4572551005].md",
@@ -138895,6 +138902,13 @@
           "show": "The Rest Is History",
           "title": "168. Oil: Conflict, Chaos and Climate Change",
           "url": "/wiki/sources/168-oil-conflict-chaos-and-climate-change-glt4572551005/"
+        },
+        {
+          "episode_file": "GLT7483911964 [GLT7483911964].md",
+          "key": "167-oil-the-making-of-the-modern-world-glt7483911964",
+          "show": "The Rest Is History",
+          "title": "167. Oil: The Making of the Modern World",
+          "url": "/wiki/sources/167-oil-the-making-of-the-modern-world-glt7483911964/"
         }
       ],
       "updated": "2026-10-02",

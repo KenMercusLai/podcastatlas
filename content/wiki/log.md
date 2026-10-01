@@ -27013,3 +27013,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 167. Oil: The Making of the Modern World
+
+Added source `167-oil-the-making-of-the-modern-world-glt7483911964`; and resynthesized `HelenThompson` and `OilPoliticalPower` from their complete preserved evidence inventories. Core synthesis: unequal access to petroleum reshaped industrial advantage, imperial strategy, wartime logistics, naval obligations, producer bargaining, and fiscal room without making oil a sufficient cause of the First World War, decolonization, later regional conflicts, or Soviet collapse. No settled contradiction was adopted. The Model T fuel counterfactual, wartime supply figures, campaign and policy motives, Carter Doctrine effectiveness, and the 1986 oil-price counterfactual remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten. The downstream manifest and paragraph ledger were refreshed to 3,376-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

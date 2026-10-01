@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [167. Oil: The Making of the Modern World](sources/167-oil-the-making-of-the-modern-world-glt7483911964.md) — The Rest Is History conversation with Helen Thompson on oil's role in imperial competition, world-war logistics, postwar security, OPEC, and Soviet fiscal pressure.
 - [168. Oil: Conflict, Chaos and Climate Change](sources/168-oil-conflict-chaos-and-climate-change-glt4572551005.md) — The Rest Is History conversation with Helen Thompson on oil's political power, European-Russian energy dependence, pipeline leverage, and overlapping fossil and green geopolitics.
 - [169. The Falklands War: Countdown to Invasion (Part 1)](sources/169-the-falklands-war-countdown-to-invasion-part-1-glt6828599585.md) — The Rest Is History on sovereignty, Islander identity, junta weakness, British deterrence signals, leaseback, South Georgia, and the rushed invasion.
 - [How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin](sources/how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856.md) — Early Huberman Lab masterclass on nine trainable adaptations, goal-specific exercise variables, strength and hypertrophy, endurance, recovery, hydration, thermal exposure, and supplements.
@@ -3435,7 +3436,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Led Sales: He Learned to Sell and Closed 50 Customers](sources/d5efc401.md) — The SaaS Podcast episode with Shahar Azulay on Groundcover's eBPF and bring-your-own-cloud architecture, founder-led sales, infrastructure-based pricing, and incumbent replacement migration.
 
 ## Entities
-- [Helen Thompson](entities/HelenThompson.md) — Political economist linking oil, war, pipeline infrastructure, European dependence, and energy transition.
+- [Helen Thompson](entities/HelenThompson.md) — Political economist linking oil to empire, war, political power, energy infrastructure, and transition without reducing history to a single cause.
 - [Nord Stream](entities/NordStream.md) — Baltic gas-pipeline project whose route reduced Ukraine's transit role while deepening German exposure to Russian supply.
 - [Jorge Anaya](entities/JorgeAnaya.md) — Argentine admiral and junta strategist who advocated the Falklands seizure and misread British and U.S. responses.
 - [HMS Endurance](entities/HMSEndurance.md) — Royal Navy patrol ship whose planned withdrawal signaled declining British commitment before the invasion.
@@ -15302,7 +15303,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 ## Concepts
-- [Oil Political Power](concepts/OilPoliticalPower.md) — Non-deterministic framework for how oil production, money, supply, and infrastructure reshape domestic politics and foreign policy.
+- [Oil Political Power](concepts/OilPoliticalPower.md) — Non-deterministic framework for how petroleum geography, supply, revenue, transport, and infrastructure reshape state power and strategic choice.
 - [Energy Transition Geopolitics](concepts/EnergyTransitionGeopolitics.md) — Strategic overlap in which low-carbon manufacturing and mineral dependencies grow before fossil-fuel geopolitics disappears.
 - [Falklands War Origins](concepts/FalklandsWarOrigins.md) — Multi-causal interaction of sovereignty, Islander identity, junta insecurity, deterrence signaling, and operational acceleration.
 - [Falklands Task Force Mobilization](concepts/FalklandsTaskForceMobilization.md) — Rapid conversion of political resolve, naval advice, ships, troops, logistics, allied access, and public legitimacy into a long-range expedition.

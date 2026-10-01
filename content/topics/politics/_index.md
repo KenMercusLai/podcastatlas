@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2956
+topic_total_pages: 2957
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7815,6 +7815,9 @@ topic_sources:
   - key: "161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm"
     title: "161. 全球宏观和资本市场2026一季度复盘与展望"
     url: "/wiki/sources/161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm/"
+  - key: "167-oil-the-making-of-the-modern-world-glt7483911964"
+    title: "167. Oil: The Making of the Modern World"
+    url: "/wiki/sources/167-oil-the-making-of-the-modern-world-glt7483911964/"
   - key: "168-oil-conflict-chaos-and-climate-change-glt4572551005"
     title: "168. Oil: Conflict, Chaos and Climate Change"
     url: "/wiki/sources/168-oil-conflict-chaos-and-climate-change-glt4572551005/"
