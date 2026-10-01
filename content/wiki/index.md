@@ -3452,6 +3452,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Led Sales: He Learned to Sell and Closed 50 Customers](sources/d5efc401.md) — The SaaS Podcast episode with Shahar Azulay on Groundcover's eBPF and bring-your-own-cloud architecture, founder-led sales, infrastructure-based pricing, and incumbent replacement migration.
 
 - [How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg](sources/how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216.md) — Huberman Lab interview on microbiome ecology, dietary fiber, fermented foods, systemic signaling, and intervention limits.
+- [154. The Most Disastrous Party in History](sources/154-the-most-disastrous-party-in-history-glt6506112996.md) — The Rest Is History countdown using Partygate, failed festivals, treacherous feasts, court fire, crowd catastrophe, and Persepolis to examine how gatherings become political symbols.
 
 ## Entities
 - [David Spiegel](entities/DavidSpiegel.md) — Stanford psychiatrist and hypnosis researcher framing focused attention as a voluntary, clinically bounded route to mind-body control.
@@ -4374,7 +4375,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sergei Sazonov](entities/SergeiSazonov.md) — Russian foreign minister who joined Balkan strategy and prestige to Serbian support and early mobilisation.
 - [Maurice Paléologue](entities/MauricePaleologue.md) — French ambassador whose discretion during a communications gap reinforced Russia's hard line.
 - [Serbia](entities/Serbia.md) — Balkan state whose divided civilian and nationalist networks complicated assassination responsibility before its ultimatum crisis with Austria-Hungary.
-- [Nicholas II](entities/NicholasII.md) — Russian tsar who moved from doubt and precaution through royal diplomacy to approval of general mobilisation.
+- [Nicholas II](entities/NicholasII.md) — Russian tsar whose reign opened under Khodynka's shadow and who later moved from doubt and precaution to approval of general mobilisation.
 - [Helmuth von Moltke the Younger](entities/HelmuthVonMoltkeTheYounger.md) — German chief of staff whose strategic fatalism made delay appear more dangerous than preparation.
 - [Edward Grey](entities/EdwardGrey.md) — British foreign secretary who moved from ambiguous French expectations and failed mediation to the case for intervention.
 - [H. H. Asquith](entities/HHAsquith.md) — British prime minister who moved from spectator hopes through cabinet division to the final decision for war.
@@ -4451,7 +4452,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Harfleur](entities/Harfleur.md) — Norman port whose costly 1415 siege turned Henry V's intended springboard into the attritional prelude to Agincourt.
 - [Jamil Zaki](entities/JamilZaki.md) — Stanford psychologist framing cynicism, trust, social forecasts, and political misperception through hopeful skepticism and evidence-updating experiments.
 - [Henry V of England](entities/HenryVOfEngland.md) — English king who joined Agincourt, Normandy, diplomacy, and the Treaty of Troyes into an unfinished claim to France.
-- [Charles VI of France](entities/CharlesVIOfFrance.md) — French king retained by the Treaty of Troyes while regency and succession shifted to Henry V.
+- [Charles VI of France](entities/CharlesVIOfFrance.md) — French king whose incapacity, Bal des Ardents survival, and divided realm culminated in the Treaty of Troyes settlement.
 - [Charles VII of France](entities/CharlesVIIOfFrance.md) — Dauphin disinherited at Troyes whose survival and resistance kept French legitimacy contested.
 - [Catherine of Valois](entities/CatherineOfValois.md) — French princess whose marriage and son supplied the dynastic bridge for Henry V's dual-monarchy project.
 - [John the Fearless](entities/JohnTheFearless.md) — Burgundian duke whose pressure aided Henry and whose murder drove a decisive alliance realignment.
@@ -10473,7 +10474,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《我不相信神话》](entities/WoBuXiangxinShenhua.md) — Fallaci text collection used by episode 77 to preserve her own voice rather than a smooth authorized biography.
 - [Alexandros Panagoulis / 亚历山德罗斯·帕纳古利斯](entities/AlexandrosPanagoulis.md) — Greek resistance figure and Fallaci's central love, used by the episode to make refusal and dignity concrete.
 - [Tlatelolco Massacre / 三文化广场枪击](entities/TlatelolcoMassacre.md) — 1968 Mexico City student-protest crackdown witnessed by Fallaci and used as a case of organized peacetime state violence.
-- [Mohammad Reza Pahlavi / 穆罕默德·礼萨·巴列维](entities/MohammadRezaPahlavi.md) — Iranian shah whose interview with Fallaci anchors the episode's refusal to trade one ruler myth for another.
+- [Mohammad Reza Pahlavi / 穆罕默德·礼萨·巴列维](entities/MohammadRezaPahlavi.md) — Iranian shah connecting Fallaci's independent criticism to the 1971 Persepolis spectacle and its revolutionary afterlife.
 - [Soraya Esfandiary-Bakhtiary / 索拉雅](entities/SorayaEsfandiaryBakhtiary.md) — Pahlavi queen used by the episode to show royal status coexisting with fertility pressure and gendered constraint.
 - [AFTRA / American Federation of Television and Radio Artists](entities/AFTRA.md) — Media labor union appearing in Fallaci's Tonight Show anecdote as a protective institution experienced as coercive.
 - [Italian Fascism / 意大利法西斯主义](entities/ItalianFascism.md) — Fallaci's childhood regime context, used by the episode to connect underground truth-telling, family resistance, and power myth deflation.
@@ -13964,7 +13965,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dimensity 9500](entities/Dimensity9500.md) — MediaTek smartphone-chip platform used as the vivo/MediaTek case for early AI compute, NPU, and terminal-chip co-design.
 - [United Kingdom](entities/UnitedKingdom.md) — Country case where Brexit reshaped trade, immigration expectations, strategic identity, and later Labour leadership instability under Starmer.
 - [David Cameron](entities/DavidCameron.md) — British prime minister whose 2013 EU referendum promise is framed as turning Conservative pressure into a national Brexit rupture.
-- [Boris Johnson](entities/BorisJohnson.md) — Brexit figure whose Leave role, harder settlement, exposed 2022 party dissent, fall, and succession influence connect referendum politics to later governing instability.
+- [Boris Johnson](entities/BorisJohnson.md) — Brexit figure whose Leave role, Partygate credibility crisis, exposed party dissent, fall, and succession influence connect political performance to governing instability.
 - [Daniel Franklin](entities/DanielFranklin.md) — The Intelligence participant framing Brexit as a continuing source of British political churn and strategic-identity uncertainty.
 - [Tom Carter](entities/TomCarter.md) — The Intelligence participant explaining Brexit's GDP, goods-export, services, finance, and professional-qualification frictions.
 - [Georgia Banjo](entities/GeorgiaBanjo.md) — The Intelligence participant analyzing AI as a possible but limited post-Brexit regulatory opportunity for Britain.
@@ -15032,7 +15033,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 - [夷陵 / Yiling (Late Han)](entities/YilingLateHan.md) — Mountain-and-river forward position seized by Gan Ning during the post-Red-Cliffs Jiangling campaign.
-- [Alexander the Great / 亚历山大大帝](entities/AlexanderTheGreat.md) — Macedonian commander used in the episode's Sogdian Rock tactical comparison.
+- [Alexander the Great / 亚历山大大帝](entities/AlexanderTheGreat.md) — Macedonian conqueror represented through Sogdian tactics, clean-shaven rulership, and contested Persepolis destruction memory.
 - [Sogdian Rock / 粟特岩堡](entities/SogdianRock.md) — Cliff fortress whose unexpected night ascent becomes a comparison for the Yiling operation.
 - [华容道 / Huarong Road (Late Han)](entities/HuarongRoadLateHan.md) — Marshy post-Red-Cliffs retreat route where rain, illness, wounded troops, animals, and pursuit pressure create a mobility crisis.
 - [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han campaign whose coalition persuasion, resistance decision, readiness constraints, deception, fire, retreat, and disputed credit reshape the Jingzhou contest.
@@ -15349,6 +15350,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
 
 - [Justin Sonnenburg](entities/JustinSonnenburg.md) — Stanford microbiologist framing the gut microbiome through ecology, diet, resilience, and evidence-bounded intervention research.
+- [Fyre Festival](entities/FyreFestival.md) — Failed luxury festival whose influencer promise collapsed against missing operational capacity.
+- [Black Dinner](entities/BlackDinner.md) — 1440 Scottish feast remembered for converting royal hospitality into dynastic betrayal and execution.
+- [Bal des Ardents](entities/BalDesArdents.md) — 1393 court masquerade whose lethal fire amplified anxiety around Charles VI's instability.
+- [Khodynka Tragedy](entities/KhodynkaTragedy.md) — 1896 coronation crowd disaster whose mass death and royal response damaged Nicholas II's political memory.
+- [Persepolis](entities/Persepolis.md) — Achaemenid ceremonial capital linking Alexander's destructive conquest memory to the shah's 1971 imperial spectacle.
 
 ## Concepts
 - [Clinical Hypnosis](concepts/ClinicalHypnosis.md) — Voluntary focused-attention intervention using bodily regulation, imagery, and suggestion for defined clinical goals.
@@ -24596,5 +24602,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Contextual Sodium Intake](concepts/ContextualSodiumIntake.md) — Context-first boundary for sodium decisions across blood pressure, disease, diet, fluid balance, sweat loss, climate, and other electrolytes.
 
 - [Microbiome Ecological Resilience](concepts/MicrobiomeEcologicalResilience.md) — Capacity of gut microbial communities to persist or recover through interactions among organisms, substrates, host niches, and disturbance history.
+- [Disastrous Party as Political Symbol](concepts/DisastrousPartyPoliticalSymbol.md) — Framework for gatherings that condense prior hypocrisy, insecurity, coercion, incompetence, or elite distance into durable public stories.
 
 ## Syntheses

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11857
+wiki_total_pages: 11862
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "BakerLab"
     title: "Baker Lab"
     url: "/wiki/entities/bakerlab/"
+  - key: "BalDesArdents"
+    title: "Bal des Ardents"
+    url: "/wiki/entities/baldesardents/"
   - key: "BalthazarGerard"
     title: "Balthazar Gerard"
     url: "/wiki/entities/balthazargerard/"
@@ -689,6 +692,9 @@ wiki_pages:
   - key: "BjornGulden"
     title: "Bjørn Gulden / 古尔登"
     url: "/wiki/entities/bjorngulden/"
+  - key: "BlackDinner"
+    title: "Black Dinner"
+    url: "/wiki/entities/blackdinner/"
   - key: "BlackForestLabs"
     title: "Black Forest Labs"
     url: "/wiki/entities/blackforestlabs/"

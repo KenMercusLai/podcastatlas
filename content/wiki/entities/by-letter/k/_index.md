@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 11857
+wiki_total_pages: 11862
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "KhmerRouge"
     title: "Khmer Rouge"
     url: "/wiki/entities/khmerrouge/"
+  - key: "KhodynkaTragedy"
+    title: "Khodynka Tragedy"
+    url: "/wiki/entities/khodynkatragedy/"
   - key: "Khorasan"
     title: "Khorasan"
     url: "/wiki/entities/khorasan/"

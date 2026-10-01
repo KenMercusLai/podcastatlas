@@ -27167,3 +27167,11 @@ Added source `using-hypnosis-to-enhance-mental-physical-health-performance-dr-da
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 154. The Most Disastrous Party in History
+
+Added source `154-the-most-disastrous-party-in-history-glt6506112996`; created `FyreFestival`, `BlackDinner`, `BalDesArdents`, `KhodynkaTragedy`, `Persepolis`, and `DisastrousPartyPoliticalSymbol`; and resynthesized `BorisJohnson`, `AlexanderTheGreat`, `MohammadRezaPahlavi`, `NicholasII`, and `CharlesVIOfFrance` from their complete preserved evidence inventories. Core synthesis: gatherings become durable political symbols when they expose a prior legitimacy problem, but vivid afterlives can exceed the security of the underlying evidence. No settled contradiction was adopted. Elagabalus's rose-petal story, the Black Dinner ritual sequence, Alexander's motive at Persepolis, Khodynka casualty and nickname details, and the causal role of the shah's 1971 celebration remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,394-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11857
+wiki_total_pages: 11862
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "Fuxinghao"
     title: "Fuxinghao / 复兴号"
     url: "/wiki/entities/fuxinghao/"
+  - key: "FyreFestival"
+    title: "Fyre Festival"
+    url: "/wiki/entities/fyrefestival/"
   - key: "Falstaff"
     title: "Sir John Falstaff"
     url: "/wiki/entities/falstaff/"

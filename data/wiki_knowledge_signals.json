@@ -8527,9 +8527,9 @@
       "url": "/wiki/entities/alexandershulgin/"
     },
     "AlexanderTheGreat": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
@@ -8544,9 +8544,16 @@
           "show": "The Rest Is History",
           "title": "491. History's Greatest Beards: From Egyptian Queens to Medieval Conquerors (Part 1)",
           "url": "/wiki/sources/491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613/"
+        },
+        {
+          "episode_file": "GLT6506112996 [GLT6506112996].md",
+          "key": "154-the-most-disastrous-party-in-history-glt6506112996",
+          "show": "The Rest Is History",
+          "title": "154. The Most Disastrous Party in History",
+          "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/alexanderthegreat/"
     },
     "AlexandraSuichBass": {
@@ -17837,6 +17844,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/baiquirrigationproject/"
     },
+    "BalDesArdents": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6506112996 [GLT6506112996].md",
+          "key": "154-the-most-disastrous-party-in-history-glt6506112996",
+          "show": "The Rest Is History",
+          "title": "154. The Most Disastrous Party in History",
+          "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/baldesardents/"
+    },
     "BalletSneakerHybrid": {
       "episode_count": 1,
       "show_count": 1,
@@ -21943,6 +21966,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/blackcatdetectiveagency/"
     },
+    "BlackDinner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6506112996 [GLT6506112996].md",
+          "key": "154-the-most-disastrous-party-in-history-glt6506112996",
+          "show": "The Rest Is History",
+          "title": "154. The Most Disastrous Party in History",
+          "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/blackdinner/"
+    },
     "BlackHand": {
       "episode_count": 1,
       "show_count": 1,
@@ -22719,9 +22758,9 @@
       "url": "/wiki/concepts/bordersurveillancerescuefailure/"
     },
     "BorisJohnson": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
@@ -22750,9 +22789,16 @@
           "show": "The Rest Is History",
           "title": "193. How Prime Ministers Fall",
           "url": "/wiki/sources/193-how-prime-ministers-fall-glt7608869237/"
+        },
+        {
+          "episode_file": "GLT6506112996 [GLT6506112996].md",
+          "key": "154-the-most-disastrous-party-in-history-glt6506112996",
+          "show": "The Rest Is History",
+          "title": "154. The Most Disastrous Party in History",
+          "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/borisjohnson/"
     },
     "BorisYeltsin": {
@@ -30789,9 +30835,9 @@
       "url": "/wiki/entities/charlesviioffrance/"
     },
     "CharlesVIOfFrance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -30806,9 +30852,16 @@
           "show": "The Rest Is History",
           "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
           "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
+        },
+        {
+          "episode_file": "GLT6506112996 [GLT6506112996].md",
+          "key": "154-the-most-disastrous-party-in-history-glt6506112996",
+          "show": "The Rest Is History",
+          "title": "154. The Most Disastrous Party in History",
+          "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/charlesvioffrance/"
     },
     "CharlesVOfFrance": {
@@ -50035,6 +50088,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/disastervictimidentificationandbodyabsentmourning/"
+    },
+    "DisastrousPartyPoliticalSymbol": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6506112996 [GLT6506112996].md",
+          "key": "154-the-most-disastrous-party-in-history-glt6506112996",
+          "show": "The Rest Is History",
+          "title": "154. The Most Disastrous Party in History",
+          "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/disastrouspartypoliticalsymbol/"
     },
     "DisciplineOverMotivation": {
       "episode_count": 5,
@@ -73454,6 +73523,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/fuzhuleiruodichanyu/"
+    },
+    "FyreFestival": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6506112996 [GLT6506112996].md",
+          "key": "154-the-most-disastrous-party-in-history-glt6506112996",
+          "show": "The Rest Is History",
+          "title": "154. The Most Disastrous Party in History",
+          "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/fyrefestival/"
     },
     "GDRStateLegitimacy": {
       "episode_count": 1,
@@ -106730,6 +106815,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/khmerrouge/"
     },
+    "KhodynkaTragedy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6506112996 [GLT6506112996].md",
+          "key": "154-the-most-disastrous-party-in-history-glt6506112996",
+          "show": "The Rest Is History",
+          "title": "154. The Most Disastrous Party in History",
+          "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/khodynkatragedy/"
+    },
     "Khorasan": {
       "episode_count": 1,
       "show_count": 1,
@@ -131920,6 +132021,29 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/mohammadmossadegh/"
     },
+    "MohammadRezaPahlavi": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "77.她是自由的野狗，她是法拉奇 [685710187].md",
+          "key": "77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187",
+          "show": "蜜獾吃书",
+          "title": "77.她是自由的野狗，她是法拉奇",
+          "url": "/wiki/sources/77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187/"
+        },
+        {
+          "episode_file": "GLT6506112996 [GLT6506112996].md",
+          "key": "154-the-most-disastrous-party-in-history-glt6506112996",
+          "show": "The Rest Is History",
+          "title": "154. The Most Disastrous Party in History",
+          "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/mohammadrezapahlavi/"
+    },
     "MohammedAbdelKrim": {
       "episode_count": 1,
       "show_count": 1,
@@ -136471,9 +136595,9 @@
       "url": "/wiki/entities/nicholasculpeper/"
     },
     "NicholasII": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1322848845 [GLT1322848845].md",
@@ -136488,9 +136612,16 @@
           "show": "The Rest Is History",
           "title": "471. The Road to The Great War: The Austrian Ultimatum (Part 3)",
           "url": "/wiki/sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479/"
+        },
+        {
+          "episode_file": "GLT6506112996 [GLT6506112996].md",
+          "key": "154-the-most-disastrous-party-in-history-glt6506112996",
+          "show": "The Rest Is History",
+          "title": "154. The Most Disastrous Party in History",
+          "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/nicholasii/"
     },
     "NickCullinan": {
@@ -146449,6 +146580,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/perplexitycomputer/"
+    },
+    "Persepolis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6506112996 [GLT6506112996].md",
+          "key": "154-the-most-disastrous-party-in-history-glt6506112996",
+          "show": "The Rest Is History",
+          "title": "154. The Most Disastrous Party in History",
+          "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/persepolis/"
     },
     "PershingSquare": {
       "episode_count": 1,

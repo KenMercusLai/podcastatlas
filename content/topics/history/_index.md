@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2343
+topic_total_pages: 2344
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4800,6 +4800,9 @@ topic_sources:
   - key: "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285"
     title: "14.武士威廉：大航海时代的日本和西方"
     url: "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+  - key: "154-the-most-disastrous-party-in-history-glt6506112996"
+    title: "154. The Most Disastrous Party in History"
+    url: "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
   - key: "155-ukraine-and-russia-glt2859413707"
     title: "155. Ukraine and Russia"
     url: "/wiki/sources/155-ukraine-and-russia-glt2859413707/"
