@@ -5,6 +5,7 @@ tags: [writer, britain, united-states, slavery, copyright, tourism]
 sources:
   - 263-usa-vs-england-the-200-year-rivalry-glt7546211559
   - 222-victorian-holidays-glt9970456316
+  - 212-haunted-london-part-4-glt8938796735
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -13,7 +14,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Charles Dickens is a British novelist and travel writer whose journeys are used here to show how literary celebrity, moral judgment, foreign comparison, documentation, and national stereotype shaped nineteenth-century travel.
+Charles Dickens is a British novelist and travel writer whose work is used here to connect literary celebrity, moral judgment, travel documentation, national stereotype, dark sightseeing, and the imaginative mapping of London.
 
 ## Current Profile
 
@@ -23,15 +24,17 @@ His response joined moral criticism to national caricature. *American Notes* att
 
 The Victorian holidays episode adds his Italian travel writing. *Pictures from Italy* makes foreign places legible through comparison with Britain, while visits to sites of torture, inquisition, execution, and legend show how cultural observation could coexist with attraction to dark sights. His written discovery of laziness in Piacenza also becomes a self-conscious example of the tourist urge to record experience rather than simply undergo it.
 
+The London walking episode reverses that outward gaze. Its route uses Dickens's reported attendance at executions, Mr Jaggers's office near Little Britain, and Fagin's Saffron Hill setting in *Oliver Twist* to make fiction part of the city's memory infrastructure. Dickens does not merely describe an already legible city here; later walkers use his writing to recover social and imaginative meaning from streets whose older material world has largely vanished.
+
 ## Key Characteristics
 
-- British literary celebrity received with extraordinary enthusiasm in the United States.
-- Advocate of international copyright protection for British authors.
+- British literary celebrity whose American reception, copyright campaign, and later backlash joined culture to national rivalry.
 - Explicit critic of American slavery and treatment of Native Americans.
-- Visitor whose frustration with intrusive attention intensified during the tour.
-- Author who converted disappointment into travel writing and satirical fiction that mixed moral criticism with national stereotype.
+- Author who converted disappointment into travel writing and satirical fiction mixing moral criticism with national stereotype.
 - Observer who translated foreign places through familiar British comparisons.
-- Traveler whose attention to dark sites and written self-observation illustrates tourism as documentation.
+- Traveler attracted to dark historical sites and conscious of the urge to record experience.
+- London writer whose fictional geography helps later audiences interpret Little Britain and Saffron Hill.
+- Figure associated with public execution both as reported spectator and as an author mapping nearby legal and criminal worlds.
 
 ## Evidence
 
@@ -40,15 +43,16 @@ The Victorian holidays episode adds his Italian travel writing. *Pictures from I
 - Moral criticism: [[263-usa-vs-england-the-200-year-rivalry-glt7546211559]] emphasizes Dickens's opposition to slavery and his criticism of Native American treatment.
 - Literary backlash: [[263-usa-vs-england-the-200-year-rivalry-glt7546211559]] connects *American Notes* and *Martin Chuzzlewit* to collapsing goodwill and caricatures of American vulgarity and money-mindedness.
 - Italian travel writing: [[222-victorian-holidays-glt9970456316]] uses *Pictures from Italy*, comparisons with London, dark historical sites, and Piacenza to connect observation with the recording of travel.
+- London memory map: [[212-haunted-london-part-4-glt8938796735]] connects reported execution attendance, Mr Jaggers's office near Little Britain, and Fagin's Saffron Hill setting to a walk through historically layered streets.
 
 ## Qualifications
 
-This profile is limited to two episodes' use of the 1842 American tour and Italian travel writing. It does not summarize Dickens's wider life, fiction, reform activity, later American visit, or the full legal history of international copyright. Reported reactions, private motives, anecdotes, and national generalizations remain source-scoped.
+This profile is limited to three episodes' use of the 1842 American tour, Italian travel writing, execution culture, and selected London settings. It does not summarize Dickens's wider life, fiction, reform activity, later American visit, or the full legal history of international copyright. Reported attendance, topographical identifications, reactions, private motives, anecdotes, and national generalizations remain source-scoped.
 
 ## What Changed
 
-- Added Italian travel writing as evidence for familiar comparison, dark sightseeing, and experience-through-documentation.
-- Broadened the profile from one transatlantic conflict to Dickens's more general traveler-observer role.
+- Added Dickensian London as a literary map through which later walkers recover vanished or unobtrusive urban history.
+- Connected his interest in dark sites abroad to reported attendance at London executions without treating either as a complete account of his moral outlook.
 
 ## Relationships
 
@@ -59,3 +63,6 @@ This profile is limited to two episodes' use of the 1842 American tour and Itali
 - [[AmericanCulturalExports]] - later reverse-direction counterpart to nineteenth-century British cultural authority.
 - [[VictorianTourismFormation]] - travel context in which literary observation and practical tourism expanded together.
 - [[BattlefieldTourism]] - adjacent dark-travel form where historical violence becomes a destination.
+- [[London]] - home city whose legal, criminal, and impoverished districts his fiction helps make historically legible.
+- [[UrbanArchitecturalMemory]] - interpretive process in which literature supplements surviving buildings, names, and plaques.
+- [[NewgatePrison]] - execution landscape he reportedly visited and whose vicinity anchors part of the walk.

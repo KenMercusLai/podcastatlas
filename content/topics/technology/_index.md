@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3253
+topic_total_pages: 3254
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6959,6 +6959,9 @@ topic_entities:
   - key: "RingSearchParty"
     title: "Ring Search Party"
     url: "/wiki/entities/ringsearchparty/"
+  - key: "RiverFleet"
+    title: "River Fleet"
+    url: "/wiki/entities/riverfleet/"
   - key: "RobbyWokbot"
     title: "Robby Wokbot"
     url: "/wiki/entities/robbywokbot/"

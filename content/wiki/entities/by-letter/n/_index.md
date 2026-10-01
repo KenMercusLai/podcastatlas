@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 11683
+wiki_total_pages: 11687
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "NewZealand"
     title: "New Zealand / 新西兰"
     url: "/wiki/entities/newzealand/"
+  - key: "NewgatePrison"
+    title: "Newgate Prison"
+    url: "/wiki/entities/newgateprison/"
   - key: "NewLimit"
     title: "NewLimit"
     url: "/wiki/entities/newlimit/"

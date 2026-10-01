@@ -29464,9 +29464,9 @@
       "url": "/wiki/entities/charlesdegaulle/"
     },
     "CharlesDickens": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7546211559 [GLT7546211559].md",
@@ -29481,6 +29481,13 @@
           "show": "The Rest Is History",
           "title": "222. Victorian Holidays",
           "url": "/wiki/sources/222-victorian-holidays-glt9970456316/"
+        },
+        {
+          "episode_file": "GLT8938796735 [GLT8938796735].md",
+          "key": "212-haunted-london-part-4-glt8938796735",
+          "show": "The Rest Is History",
+          "title": "212. Haunted London (Part 4)",
+          "url": "/wiki/sources/212-haunted-london-part-4-glt8938796735/"
         }
       ],
       "updated": "2026-10-01",
@@ -113744,9 +113751,9 @@
       "url": "/wiki/concepts/lollardy/"
     },
     "London": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
@@ -113768,9 +113775,16 @@
           "show": "The Rest Is History",
           "title": "363. Sixties Fashion: The Teenage Revolution (Part 1)",
           "url": "/wiki/sources/363-sixties-fashion-the-teenage-revolution-part-1-glt5487814001/"
+        },
+        {
+          "episode_file": "GLT8938796735 [GLT8938796735].md",
+          "key": "212-haunted-london-part-4-glt8938796735",
+          "show": "The Rest Is History",
+          "title": "212. Haunted London (Part 4)",
+          "url": "/wiki/sources/212-haunted-london-part-4-glt8938796735/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/london/"
     },
     "LonelinessPublicHealthRisk": {
@@ -131254,6 +131268,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/newzealand/"
+    },
+    "NewgatePrison": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8938796735 [GLT8938796735].md",
+          "key": "212-haunted-london-part-4-glt8938796735",
+          "show": "The Rest Is History",
+          "title": "212. Haunted London (Part 4)",
+          "url": "/wiki/sources/212-haunted-london-part-4-glt8938796735/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/newgateprison/"
     },
     "NewlyAttachedRegionLeniency": {
       "episode_count": 1,
@@ -156739,6 +156769,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/rivercorridorstrategicbase/"
     },
+    "RiverFleet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8938796735 [GLT8938796735].md",
+          "key": "212-haunted-london-part-4-glt8938796735",
+          "show": "The Rest Is History",
+          "title": "212. Haunted London (Part 4)",
+          "url": "/wiki/sources/212-haunted-london-part-4-glt8938796735/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/riverfleet/"
+    },
     "RoadArchaeology": {
       "episode_count": 1,
       "show_count": 1,
@@ -167759,6 +167805,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/smileaction/"
     },
+    "Smithfield": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8938796735 [GLT8938796735].md",
+          "key": "212-haunted-london-part-4-glt8938796735",
+          "show": "The Rest Is History",
+          "title": "212. Haunted London (Part 4)",
+          "url": "/wiki/sources/212-haunted-london-part-4-glt8938796735/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/smithfield/"
+    },
     "SmokingCessationSupport": {
       "episode_count": 3,
       "show_count": 2,
@@ -170944,6 +171006,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/sspai/"
+    },
+    "StBartholomewTheGreat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8938796735 [GLT8938796735].md",
+          "key": "212-haunted-london-part-4-glt8938796735",
+          "show": "The Rest Is History",
+          "title": "212. Haunted London (Part 4)",
+          "url": "/wiki/sources/212-haunted-london-part-4-glt8938796735/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/stbartholomewthegreat/"
     },
     "StBricesDayMassacre": {
       "episode_count": 1,
@@ -185701,9 +185779,9 @@
       "url": "/wiki/entities/uplane/"
     },
     "UrbanArchitecturalMemory": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lskF8BdKhS71LbWJOmt3gU1kO8BE [lskF8BdKhS71LbWJOmt3gU1kO8BE].md",
@@ -185711,9 +185789,16 @@
           "show": "忽左忽右",
           "title": "498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师",
           "url": "/wiki/sources/498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be/"
+        },
+        {
+          "episode_file": "GLT8938796735 [GLT8938796735].md",
+          "key": "212-haunted-london-part-4-glt8938796735",
+          "show": "The Rest Is History",
+          "title": "212. Haunted London (Part 4)",
+          "url": "/wiki/sources/212-haunted-london-part-4-glt8938796735/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-10-01",
       "url": "/wiki/concepts/urbanarchitecturalmemory/"
     },
     "UrbanCrisisCulturalFeedback": {

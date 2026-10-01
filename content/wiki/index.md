@@ -3361,6 +3361,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [215. Stalingrad and the Red Army (Part 2)](sources/215-stalingrad-and-the-red-army-part-2-glt4269997308.md) — The Rest Is History episode on Soviet urban adaptation, Operation Uranus, the Sixth Army's collapse, Pavlov's House, and contested war memory.
 - [214. The Battle of Stalingrad (Part 1)](sources/214-the-battle-of-stalingrad-part-1-glt4564292022.md) — The Rest Is History episode on Case Blue's oil logic and logistical overreach, the bombing of Stalingrad, Soviet coercive discipline, and close-range urban defence.
 - [213. London: Moments (Part 5)](sources/213-london-moments-part-5-glt4986306476.md) — The Rest Is History finale pairing the Tower menagerie with the Metropolitan Railway's transport, property, publicity, and Metroland suburban project.
+- [212. Haunted London (Part 4)](sources/212-haunted-london-part-4-glt8938796735.md) — The Rest Is History walk through Newgate, Smithfield, St Bartholomew's, the buried Fleet, and Dickensian Saffron Hill as layered urban memory.
 
 ## Entities
 - [Tower of London](entities/TowerOfLondon.md) — Royal fortress whose menagerie joined diplomatic animal gifts, public spectacle, care limits, reform, and folklore.
@@ -3476,7 +3477,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raul Sendic](entities/RaulSendic.md) — Socialist labor activist and founder of the Tupamaros.
 - [Geoffrey Jackson](entities/GeoffreyJacksonDiplomat.md) — British ambassador held by the Tupamaros for 244 days in 1971.
 - [Dan Mitrione](entities/DanMitrione.md) — US police adviser whose kidnapping, death, and disputed torture-training role anchor a Cold War controversy.
-- [Charles Dickens](entities/CharlesDickens.md) — British novelist and travel writer connecting celebrity, moral judgment, foreign comparison, dark sightseeing, and travel documentation.
+- [Charles Dickens](entities/CharlesDickens.md) — British novelist and travel writer connecting celebrity, moral judgment, dark sightseeing, travel documentation, and London's literary geography.
 - [Andrew Carnegie](entities/AndrewCarnegie.md) — Scottish-born U.S. industrialist whose fortune and transatlantic philanthropy symbolize shifting Anglo-American economic power.
 - [Plutarco Elias Calles](entities/PlutarcoEliasCalles.md) — Post-revolutionary president whose anti-clerical state-building forms the political background to the episode's festival-reinvention argument.
 - [Lazaro Cardenas](entities/LazaroCardenas.md) — President associated by the episode with strong 1930s state promotion of Dia de Muertos as national tradition.
@@ -4985,7 +4986,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Our Hong Kong Foundation / 團結香港基金](entities/OurHongKongFoundation.md) — Tung-linked post-tenure establishment organization founded during the Umbrella Movement period.
 - [Hong Kong Coalition / 香港再出發大聯盟](entities/HongKongCoalition.md) — Tung-linked pro-establishment organization launched during the anti-extradition movement period.
 - [Inditex](entities/Inditex.md) — Zara parent company mentioned through a source-scoped update on margin pressure, flagship stores, and lower-priced brand expansion.
-- [London](entities/London.md) — United Kingdom capital used as the setting node for the Shire Folk rally scene.
+- [London](entities/London.md) — United Kingdom capital represented as a political stage, fashion-media center, and layered historical city.
 - [Snow Peak](entities/SnowPeak.md) — Japanese outdoor brand used as a bridge from titanium camping gear to lifestyle consumption.
 - [Yongkang / 永康](entities/Yongkang.md) — Zhejiang hardware and cup manufacturing cluster behind titanium-cup supply growth.
 - [淳于长 / Chunyu Zhang (Western Han)](entities/ChunyuZhangWesternHan.md) — Chengdi-era favorite whose public Changling reward, access-based extraction, exploitation of Empress Xu, and failed restoration bid through Wang Li turn proximity into danger.
@@ -15079,6 +15080,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Case Blue](entities/CaseBlue.md) — Germany's 1942 southern offensive whose oil objective was undermined by divided effort, overconfidence, and logistical overreach.
 - [Vasily Chuikov](entities/VasilyChuikov.md) — Soviet 62nd Army commander linking close-range urban defence, Volga sustainment, and attritional endurance.
 - [Joseph Stalin](entities/JosephStalin.md) — Soviet leader whose city symbolism, industrial policy, strategic redeployment, and Order 227 shaped the Stalingrad setting.
+- [Newgate Prison](entities/NewgatePrison.md) — London prison and execution landscape joining confinement, trial, punishment, religion, and urban memory.
+- [Smithfield](entities/Smithfield.md) — London market and open space layered with commerce, religion, punishment, revolt, and commemoration.
+- [St Bartholomew the Great](entities/StBartholomewTheGreat.md) — Surviving medieval priory church shaped by institutional continuity, Reformation reuse, folklore, and cultural afterlife.
+- [River Fleet](entities/RiverFleet.md) — Buried London river still legible through topography, names, sanitation history, and literature.
 
 ## Concepts
 - [Royal Animal Spectacle](concepts/RoyalAnimalSpectacle.md) — Diplomatic and dynastic animal display whose prestige creates care obligations that spectacle alone cannot satisfy.
@@ -17226,7 +17231,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shanghai French Concession Architecture / 上海法租界建筑](concepts/ShanghaiFrenchConcessionArchitecture.md) — Built-environment frame combining Lai An, Hudec, Chinese architects, public-board patronage, mixed styles, and later interpretation.
 - [Shanghai Art Deco Architecture / 上海装饰艺术派建筑](concepts/ShanghaiArtDecoArchitecture.md) — Shanghai branch of geometric, machine-age decorative modernity explained through Lai An, cinemas, apartments, and hotel interiors.
 - [Modernist Architecture / 现代主义建筑](concepts/ModernistArchitecture.md) — Broad architectural shift from historical ornament toward new materials, simpler forms, and modern living arrangements.
-- [Urban Architectural Memory / 城市建筑记忆](concepts/UrbanArchitecturalMemory.md) — Memory process where buildings, streets, plaques, books, demolition debates, and everyday use become public city knowledge.
+- [Urban Architectural Memory / 城市建筑记忆](concepts/UrbanArchitecturalMemory.md) — Memory process where visible and hidden urban traces become public knowledge through research, routes, plaques, names, fiction, and interpretation.
 - [Architectural Archive Research / 建筑档案研究](concepts/ArchitecturalArchiveResearch.md) — Attribution method using archives, newspapers, family lists, field checks, plaques, and later correction.
 - [Modernist Heritage Recognition Gap / 现代主义遗产识别落差](concepts/ModernistHeritageRecognitionGap.md) — Preservation problem where simple modernist buildings are undervalued because they do not look old or ornate.
 - [Shanghai Multicultural Urban Culture / 上海多元城市文化](concepts/ShanghaiMulticulturalUrbanCulture.md) — Corrective frame for old Shanghai as a mixed product of French administration, Russian and Jewish migration, Chinese architects, and local adaptation.

@@ -26451,3 +26451,11 @@ Added source `213-london-moments-part-5-glt4986306476`; created `TowerOfLondon`,
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 212. Haunted London (Part 4)
+
+Added source `212-haunted-london-part-4-glt8938796735`; created `NewgatePrison`, `Smithfield`, `StBartholomewTheGreat`, and `RiverFleet`; and resynthesized `London`, `CharlesDickens`, and `UrbanArchitecturalMemory` from their complete preserved evidence inventories. Core synthesis: London's hidden history remains legible through surviving and reused fabric, street names, plaques, topography, buried infrastructure, literature, and interpreted routes, while folklore and later memorials preserve memory without automatically proving the events they describe. No settled contradiction was adopted. Uniqueness claims, ghost stories, antiquarian discoveries, topographical details, and the separate Spanish Civil War promotional excerpt remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,307-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page link and index checks, health, synthesis, and publish validation passed; the repository-wide validator still reports 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

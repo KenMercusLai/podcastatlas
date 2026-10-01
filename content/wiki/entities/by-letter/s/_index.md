@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11683
+wiki_total_pages: 11687
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "Smirks"
     title: "Smirks"
     url: "/wiki/entities/smirks/"
+  - key: "Smithfield"
+    title: "Smithfield"
+    url: "/wiki/entities/smithfield/"
   - key: "Snake"
     title: "Snake / 蛇"
     url: "/wiki/entities/snake/"
@@ -1229,6 +1232,9 @@ wiki_pages:
   - key: "SRSDistribution"
     title: "SRS Distribution"
     url: "/wiki/entities/srsdistribution/"
+  - key: "StBartholomewTheGreat"
+    title: "St Bartholomew the Great"
+    url: "/wiki/entities/stbartholomewthegreat/"
   - key: "StBartholomewsDayMassacre"
     title: "St Bartholomew's Day Massacre"
     url: "/wiki/entities/stbartholomewsdaymassacre/"
