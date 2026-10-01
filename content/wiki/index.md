@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [Science of Mindsets for Health & Performance | Dr. Alia Crum](sources/science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820.md) — Huberman Lab interview on mindset effects across food, exercise, stress, feedback, treatment, physiology, and their evidence boundaries.
+- [140. The Birth of the Railways](sources/140-the-birth-of-the-railways-glt2177757841.md) — The Rest Is History with Dan Jackson on coal-driven railway origins, the Stephensons, landmark early lines, private expansion, and Victorian social transformation.
 - [141. General Gordon: The Ultimate Victorian Hero](sources/141-general-gordon-the-ultimate-victorian-hero-glt2700696137.md) — The Rest Is History on Gordon's evangelical faith, Crimea, the Taiping Rebellion, Chinese command, Gravesend philanthropy, and contested reputation.
 - [142. General Gordon and the Siege of Khartoum](sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313.md) — The Rest Is History on Gordon's abolitionism, the Mahdist revolt, press-driven mission ambiguity, Khartoum, delayed relief, and imperial martyr memory.
 - [143. The Trial of Charles I Part 1](sources/143-the-trial-of-charles-i-part-1-glt4850801452.md) — The Rest Is History with Ted Vallance on Charles I's rule, renewed civil war, army radicalization, Pride's Purge, and the disputed popular sovereignty behind his trial.
@@ -3472,6 +3473,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Optimizing Workspace for Productivity, Focus, & Creativity](sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757.md) — Huberman Lab solo episode on task-matched light, gaze, posture, sound, interruption boundaries, movement, and active-workstation tradeoffs.
 
 ## Entities
+- [Dan Jackson](entities/DanJackson.md) — Historian interpreting British railway origins through North East coal, cumulative invention, institutions, and social change.
+- [George Stephenson](entities/GeorgeStephenson.md) — Mining engineer whose practical locomotive work anchors the Hetton and Stockton-Darlington stages of early British rail.
+- [Robert Stephenson](entities/RobertStephenson.md) — Locomotive designer and civil engineer connecting Rocket, major works, gauge standards, and national railway growth.
+- [Hetton Railway](entities/HettonRailway.md) — 1822 colliery line presented as an early complete locomotive-powered coal route.
+- [Stockton and Darlington Railway](entities/StocktonDarlingtonRailway.md) — 1825 coal line whose passenger carriage marked a transition toward mixed public service.
+- [Liverpool and Manchester Railway](entities/LiverpoolManchesterRailway.md) — Intercity line whose Rainhill Trials and 1830 opening made railway speed a public and commercial fact.
 - [Nebuchadnezzar II](entities/NebuchadnezzarII.md) — Neo-Babylonian builder and conqueror whose destruction of Jerusalem joins imperial monumentality to exile and biblical judgment.
 - [Nabonidus](entities/Nabonidus.md) — Last Neo-Babylonian king whose Tayma absence and disrupted Marduk ritual frame Cyrus's conquest.
 - [Plagues Upon the Earth](entities/PlaguesUponTheEarth.md) — Kyle Harper's global history of disease from prehistory and agriculture through plague, public health, globalization, and the mortality transition.
@@ -15401,6 +15408,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [British Railway Revolution](concepts/BritishRailwayRevolution.md) — Cumulative alignment of tracks, steam, coal demand, engineering, finance, and permission behind Britain's railway system.
+- [Private Railway Expansion Governance](concepts/PrivateRailwayExpansionGovernance.md) — Company-led, parliamentary model that accelerated rail construction while producing speculation, fragmentation, and standardization problems.
+- [Railway-Enabled Social Transformation](concepts/RailwayEnabledSocialTransformation.md) — Network-driven reorganization of time, commuting, media, spectacle, suburbs, and holidays.
 - [Babylonian Exile Identity Formation](concepts/BabylonianExileIdentityFormation.md) — How conquest, Temple loss, elite deportation, textual work, and religious boundary-making sharpened Judean identity.
 - [Babylon as Imperial Metaphor](concepts/BabylonAsImperialMetaphor.md) — Reuse of Babylon as a symbol of wealthy, coercive, idolatrous power destined for reversal.
 - [Mortality Transition](concepts/MortalityTransition.md) — Historically recent and uneven shift from infectious disease toward chronic and degenerative causes of death.

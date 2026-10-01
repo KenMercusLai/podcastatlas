@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3259
+topic_total_pages: 3260
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3502,6 +3502,9 @@ topic_concepts:
   - key: "PrivateInfrastructureWarPower"
     title: "Private Infrastructure War Power"
     url: "/wiki/concepts/privateinfrastructurewarpower/"
+  - key: "PrivateRailwayExpansionGovernance"
+    title: "Private Railway Expansion Governance"
+    url: "/wiki/concepts/privaterailwayexpansiongovernance/"
   - key: "PrivateMarketBubbleOpacity"
     title: "Private-Market Bubble Opacity"
     url: "/wiki/concepts/privatemarketbubbleopacity/"

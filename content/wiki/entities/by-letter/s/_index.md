@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11888
+wiki_total_pages: 11894
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1520,6 +1520,9 @@ wiki_pages:
   - key: "StewartBrand"
     title: "Stewart Brand"
     url: "/wiki/entities/stewartbrand/"
+  - key: "StocktonDarlingtonRailway"
+    title: "Stockton and Darlington Railway"
+    url: "/wiki/entities/stocktondarlingtonrailway/"
   - key: "Stoke"
     title: "Stoke Space"
     url: "/wiki/entities/stoke/"

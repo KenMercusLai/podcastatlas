@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 11888
+wiki_total_pages: 11894
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -617,6 +617,9 @@ wiki_pages:
   - key: "LiveCurrentMedia"
     title: "Live Current Media"
     url: "/wiki/entities/livecurrentmedia/"
+  - key: "LiverpoolManchesterRailway"
+    title: "Liverpool and Manchester Railway"
+    url: "/wiki/entities/liverpoolmanchesterrailway/"
   - key: "LiverpoolFC"
     title: "Liverpool FC"
     url: "/wiki/entities/liverpoolfc/"

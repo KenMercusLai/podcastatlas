@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9226
+wiki_total_pages: 9229
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1784,6 +1784,9 @@ wiki_pages:
   - key: "PrivatePunishmentWithoutProcedure"
     title: "Private Punishment Without Procedure / 无程序私刑"
     url: "/wiki/concepts/privatepunishmentwithoutprocedure/"
+  - key: "PrivateRailwayExpansionGovernance"
+    title: "Private Railway Expansion Governance"
+    url: "/wiki/concepts/privaterailwayexpansiongovernance/"
   - key: "PrivateRegulatoryPower"
     title: "Private Regulatory Power"
     url: "/wiki/concepts/privateregulatorypower/"

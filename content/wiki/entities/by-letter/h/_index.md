@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 11888
+wiki_total_pages: 11894
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "HetWilhelmus"
     title: "Het Wilhelmus"
     url: "/wiki/entities/hetwilhelmus/"
+  - key: "HettonRailway"
+    title: "Hetton Railway"
+    url: "/wiki/entities/hettonrailway/"
   - key: "Hexfield"
     title: "Hexfield"
     url: "/wiki/entities/hexfield/"

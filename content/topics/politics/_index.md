@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2970
+topic_total_pages: 2971
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3121,6 +3121,9 @@ topic_concepts:
   - key: "PrivatePunishmentWithoutProcedure"
     title: "Private Punishment Without Procedure / 无程序私刑"
     url: "/wiki/concepts/privatepunishmentwithoutprocedure/"
+  - key: "PrivateRailwayExpansionGovernance"
+    title: "Private Railway Expansion Governance"
+    url: "/wiki/concepts/privaterailwayexpansiongovernance/"
   - key: "PrivateRegulatoryPower"
     title: "Private Regulatory Power"
     url: "/wiki/concepts/privateregulatorypower/"

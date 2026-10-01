@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9226
+wiki_total_pages: 9229
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "RailIntegratedSuburbanDevelopment"
     title: "Rail-Integrated Suburban Development"
     url: "/wiki/concepts/railintegratedsuburbandevelopment/"
+  - key: "RailwayEnabledSocialTransformation"
+    title: "Railway-Enabled Social Transformation"
+    url: "/wiki/concepts/railwayenabledsocialtransformation/"
   - key: "RainExposureFootCareBoundary"
     title: "Rain Exposure and Foot-Care Boundary / 雨后蹚水足部照护边界"
     url: "/wiki/concepts/rainexposurefootcareboundary/"
