@@ -26837,3 +26837,11 @@ Added source `181-the-birth-of-babylon-glt1570061216`; created `Babylon`, `Mardu
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 180. England & Englishness
+
+Added source `180-england-englishness-glt7388885434`; created `JasonCowley`, `GarethSouthgate`, and `EnglishNationalIdentity`; and resynthesized `GeorgeOrwell` and `EnglandNationalFootballTeam` from their complete preserved evidence inventories. Core synthesis: English identity is a form of “changing changelessness” shaped by institutional ambiguity inside the United Kingdom, recurring loss narratives, empire, landscape, devolution, immigration, democratic conflict, and football; the England team provides a visible case in which inherited symbols can be widened toward multiracial and progressive belonging. No settled contradiction was adopted. Claims about comparative migrant integration, far-right exceptionalism, Labour's electoral future, “deep England,” Brexit's democratic meaning, and football's representativeness remain source-scoped. The normal ingest updated `wiki/overview.md`; the downstream refresh then read but did not rewrite it, refreshed the manifest and paragraph ledger to 3,355-source coverage, found no dirty topic claim set, and found global compaction not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

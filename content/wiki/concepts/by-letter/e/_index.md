@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9136
+wiki_total_pages: 9137
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "EngineeringState"
     title: "Engineering State"
     url: "/wiki/concepts/engineeringstate/"
+  - key: "EnglishNationalIdentity"
+    title: "English National Identity"
+    url: "/wiki/concepts/englishnationalidentity/"
   - key: "EnjoymentVsPleasure"
     title: "Enjoyment Vs Pleasure"
     url: "/wiki/concepts/enjoymentvspleasure/"

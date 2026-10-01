@@ -59107,6 +59107,29 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/england/"
     },
+    "EnglandNationalFootballTeam": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f5e779df1da7a4c278586ff9d3f1d98e_20827812 [default.mp3_ywr3ahjkcgo_f5e779df1da7a4c278586ff9d3f1d98e_20827812].md",
+          "key": "how-to-win-a-penalty-shootout-with-game-theory",
+          "show": "Planet Money",
+          "title": "How to win a penalty shootout (with game theory)",
+          "url": "/wiki/sources/how-to-win-a-penalty-shootout-with-game-theory/"
+        },
+        {
+          "episode_file": "GLT7388885434 [GLT7388885434].md",
+          "key": "180-england-englishness-glt7388885434",
+          "show": "The Rest Is History",
+          "title": "180. England & Englishness",
+          "url": "/wiki/sources/180-england-englishness-glt7388885434/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/englandnationalfootballteam/"
+    },
     "EnglishCommonwealth": {
       "episode_count": 1,
       "show_count": 1,
@@ -59138,6 +59161,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/englishdefenceleague/"
+    },
+    "EnglishNationalIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7388885434 [GLT7388885434].md",
+          "key": "180-england-englishness-glt7388885434",
+          "show": "The Rest Is History",
+          "title": "180. England & Englishness",
+          "url": "/wiki/sources/180-england-englishness-glt7388885434/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/englishnationalidentity/"
     },
     "EnjoymentVsPleasure": {
       "episode_count": 1,
@@ -73671,6 +73710,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/gardenhotelshanghai/"
     },
+    "GarethSouthgate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7388885434 [GLT7388885434].md",
+          "key": "180-england-englishness-glt7388885434",
+          "show": "The Rest Is History",
+          "title": "180. England & Englishness",
+          "url": "/wiki/sources/180-england-englishness-glt7388885434/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/garethsouthgate/"
+    },
     "GarrettBoone": {
       "episode_count": 1,
       "show_count": 1,
@@ -75462,9 +75517,9 @@
       "url": "/wiki/entities/georgemonck/"
     },
     "GeorgeOrwell": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Socialist mobility： a telling Michigan vote [6a74600ec3e1347e8b5bf216].md",
@@ -75486,6 +75541,13 @@
           "show": "The Rest Is History",
           "title": "208. George Orwell",
           "url": "/wiki/sources/208-george-orwell-glt5823999588/"
+        },
+        {
+          "episode_file": "GLT7388885434 [GLT7388885434].md",
+          "key": "180-england-englishness-glt7388885434",
+          "show": "The Rest Is History",
+          "title": "180. England & Englishness",
+          "url": "/wiki/sources/180-england-englishness-glt7388885434/"
         }
       ],
       "updated": "2026-10-01",
@@ -99390,6 +99452,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/jaredrutter/"
+    },
+    "JasonCowley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7388885434 [GLT7388885434].md",
+          "key": "180-england-englishness-glt7388885434",
+          "show": "The Rest Is History",
+          "title": "180. England & Englishness",
+          "url": "/wiki/sources/180-england-englishness-glt7388885434/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/jasoncowley/"
     },
     "JavierMilei": {
       "episode_count": 2,

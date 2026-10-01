@@ -3411,6 +3411,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [188. Australian Prime Ministers: Harold Holt - Malcolm Fraser (Part 2)](sources/188-australian-prime-ministers-harold-holt-malcolm-fraser-part-2-glt4635125602.md) — The Rest Is History survey of Holt through Fraser, Whitlam's reform agenda, the Loans Affair, blocked supply, and the 1975 dismissal.
 - [Essentials: Tools to Improve Your Focus & Concentration](sources/essentials-tools-to-improve-your-focus-concentration-scim2328129388.md) — Huberman Lab Essentials episode on behavior-first focus training, 90-minute work bouts, repeated refocusing, deliberate recovery, optional state tools, supplement caution, and medication boundaries.
 
+- [180. England & Englishness](sources/180-england-englishness-glt7388885434.md) — The Rest Is History conversation with Jason Cowley on Orwell, devolution, empire, immigration, landscape, football, Brexit, and changing English identity.
+
 ## Entities
 - [Babylon](entities/Babylon.md) — Mesopotamian city whose accumulated sacred and cultural authority repeatedly outlasted dynastic collapse, conquest, and physical destruction.
 - [Marduk](entities/Marduk.md) — Babylonian patron god whose cult statue functioned as divine presence, war trophy, and legitimacy resource.
@@ -15244,6 +15246,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chris McKleroy](entities/ChrisMcKleroy.md) — Nocs Provisions founder expanding optics beyond traditional outdoor occasions.
 - [Nocs Provisions](entities/NocsProvisions.md) — Colorful compact-optics brand weighing connected sharing against analog presence.
 
+- [Jason Cowley](entities/JasonCowley.md) — New Statesman editor and author interpreting modern English identity through paradox, place, politics, and football.
+- [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
+
 ## Concepts
 - [Sacred Prestige Under Conquest](concepts/SacredPrestigeUnderConquest.md) — Pattern in which conquerors attack, seize, restore, or appropriate sacred centers whose authority survives military defeat.
 - [Intermittent Challenge Hormesis](concepts/IntermittentChallengeHormesis.md) — Dose-bounded adaptive-stress frame spanning exercise, fasting, heat, cold, and selected plant compounds.
@@ -24428,5 +24433,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Capital After Repeatable Growth](concepts/CapitalAfterRepeatableGrowth.md) — Financing principle that outside capital should scale an understood engine or responsibly reduce founder risk.
 - [Familiar Category Positioning](concepts/FamiliarCategoryPositioning.md) — Explaining an unfamiliar product through a customer category, need, or behavior buyers already understand.
 - [Education Margin Burden](concepts/EducationMarginBurden.md) — Acquisition and channel cost incurred when customers must learn the problem or category before evaluating a product.
+
+- [English National Identity](concepts/EnglishNationalIdentity.md) — Contested English belonging shaped by institutional ambiguity, loss, landscape, football, diversity, and overlap with Britishness.
 
 ## Syntheses

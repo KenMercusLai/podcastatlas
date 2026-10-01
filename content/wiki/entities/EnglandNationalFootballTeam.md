@@ -1,18 +1,56 @@
 ---
 title: "England National Football Team"
 type: entity
-tags: [football, national-team, sports]
-sources: [how-to-win-a-penalty-shootout-with-game-theory]
-last_updated: 2026-07-23
+tags: [football, national-team, sports, england, national-identity]
+sources:
+  - how-to-win-a-penalty-shootout-with-game-theory
+  - 180-england-englishness-glt7388885434
+last_updated: 2026-10-01
+knowledge_schema: synthesis-v1
 ---
 
 # England National Football Team
 
-The England National Football Team appears in [[how-to-win-a-penalty-shootout-with-game-theory]] as another later context for [[IgnacioPalacioHuerta]]'s penalty work. The source uses England to show how [[DataDrivenPenaltyPreparation]] became part of national-team tournament planning after the 2008 Champions League case.
+## Overview
 
-In the episode's logic, national teams face especially sharp [[PenaltyShootoutPressure]] because knockout tournaments compress preparation, public expectation, and elimination risk into a few kicks.
+The England National Football Team appears in the wiki as both a high-pressure tournament institution using data-driven preparation and a public mirror of changing English identity.
 
-## Connections
-- [[IgnacioPalacioHuerta]] - adviser mentioned by the source.
-- [[FIFAWorldCup]], [[WorldCupExpansion]], and [[PenaltyShootoutStrategy]] - tournament context.
-- [[MixedStrategy]] and [[StrategicUnpredictability]] - preparation logic for takers and goalkeepers.
+## Current Profile
+
+Tournament preparation now includes [[DataDrivenPenaltyPreparation]], with England appearing as a later application context in [[how-to-win-a-penalty-shootout-with-game-theory]]. National teams face unusually compressed [[PenaltyShootoutPressure]] because a small number of kicks combine tournament elimination, public expectation, limited preparation time, and strategic unpredictability.
+
+The team's larger cultural role is as a vehicle of [[EnglishNationalIdentity]]. [[180-england-englishness-glt7388885434]] contrasts the St George's flag's visibility at Euro 96 with Union-flag-heavy 1966 imagery, while preserving hooliganism, racism, far-right factions, and overseas violence as part of the symbol's contested history. The diverse Euro 2020 side under [[GarethSouthgate]] becomes evidence that black English belonging, progressive causes, monarchy, military memory, and patriotic tradition can coexist.
+
+## Key Characteristics
+
+- National team operating under exceptional tournament and penalty-shootout pressure.
+- Later adopter of data-driven penalty preparation and strategic planning.
+- Bottom-up public vehicle for English identity in a state where England lacks separate political institutions.
+- Institution whose symbols carry both hooligan and racist histories and later multiracial reinterpretation.
+- Team presented under Gareth Southgate as combining inherited patriotism with progressive belonging.
+
+## Evidence
+
+- Penalty preparation: [[how-to-win-a-penalty-shootout-with-game-theory]] cites England as a later context for [[IgnacioPalacioHuerta]]'s penalty work and the normalization of analytical preparation.
+- Flag transition: [[180-england-englishness-glt7388885434]] contrasts Union-flag-heavy 1966 footage with the visibility of the St George's flag at Euro 96.
+- Contested supporter history: [[180-england-englishness-glt7388885434]] records associations with hooliganism, racism, far-right factions, and overseas violence.
+- Inclusive reinterpretation: [[180-england-englishness-glt7388885434]] presents the diverse Euro 2020 team, black English players, and Southgate's public language as a broader version of Englishness.
+
+## Qualifications
+
+The identity source interprets selected tournaments, players, flags, and public writing rather than measuring all supporters or establishing a complete social history of the team. A diverse squad and inclusive public language do not erase racism or settle English identity. The penalty source names England as a later application context but does not provide a full account of its tournament preparation or outcomes.
+
+## What Changed
+
+- Recast the page from a narrow penalty-preparation note into a synthesis of competitive strategy and national symbolism.
+- Added the St George's flag, contested supporter history, black English identity, and Gareth Southgate's inclusive-patriotic framing.
+
+## Relationships
+
+- [[GarethSouthgate]] - manager whose public language broadens the team's national meaning in the source.
+- [[EnglishNationalIdentity]] - identity the team is said to mirror and help reshape.
+- [[ConstituentNationSportingIdentity]] - framework explaining separate English sporting representation inside the United Kingdom.
+- [[DataDrivenPenaltyPreparation]] - analytical preparation branch from the game-theory source.
+- [[PenaltyShootoutPressure]] - tournament pressure intensified by public expectation and elimination risk.
+- [[IgnacioPalacioHuerta]] - adviser whose work is mentioned in England's later preparation context.
+- [[FIFAWorldCup]] - tournament setting where strategy and national symbolism become especially visible.

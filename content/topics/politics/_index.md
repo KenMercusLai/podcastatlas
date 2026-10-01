@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2929
+topic_total_pages: 2930
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7770,6 +7770,9 @@ topic_sources:
   - key: "zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1"
     title: "179: 蒸馏风暴：一场无人公开谈论的技术竞赛"
     url: "/wiki/sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1/"
+  - key: "180-england-englishness-glt7388885434"
+    title: "180. England & Englishness"
+    url: "/wiki/sources/180-england-englishness-glt7388885434/"
   - key: "2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4"
     title: "2026秋季篇E03 尊严死？！日本医生被判杀人事件"
     url: "/wiki/sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4/"
