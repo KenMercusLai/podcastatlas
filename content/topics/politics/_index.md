@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2930
+topic_total_pages: 2935
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -487,6 +487,9 @@ topic_concepts:
   - key: "BorderLegalSignal"
     title: "Border Legal Signal"
     url: "/wiki/concepts/borderlegalsignal/"
+  - key: "BorderSurveillanceRescueFailure"
+    title: "Border Surveillance Rescue Failure"
+    url: "/wiki/concepts/bordersurveillancerescuefailure/"
   - key: "BorrowedKnifeKilling"
     title: "Borrowed-Knife Killing / 借刀杀人"
     url: "/wiki/concepts/borrowedknifekilling/"
@@ -5369,6 +5372,9 @@ topic_entities:
   - key: "Egypt"
     title: "Egypt"
     url: "/wiki/entities/egypt/"
+  - key: "EileenGuo"
+    title: "Eileen Guo"
+    url: "/wiki/entities/eileenguo/"
   - key: "EkremImamoglu"
     title: "Ekrem Imamoglu"
     url: "/wiki/entities/ekremimamoglu/"
@@ -7046,6 +7052,12 @@ topic_entities:
   - key: "Turkey"
     title: "Turkey"
     url: "/wiki/entities/turkey/"
+  - key: "USBorderPatrol"
+    title: "U.S. Border Patrol"
+    url: "/wiki/entities/usborderpatrol/"
+  - key: "USCustomsAndBorderProtection"
+    title: "U.S. Customs and Border Protection"
+    url: "/wiki/entities/uscustomsandborderprotection/"
   - key: "USDepartmentOfHealthAndHumanServices"
     title: "U.S. Department of Health and Human Services"
     url: "/wiki/entities/usdepartmentofhealthandhumanservices/"
@@ -7953,6 +7965,9 @@ topic_sources:
   - key: "tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128"
     title: "AI-driven law could be an answer to accessible legal help"
     url: "/wiki/sources/tech-20260805-0805-mp-tech-pod-128-tech-20260805-0805-mp-tech-pod-128/"
+  - key: "tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128"
+    title: "AI-powered surveillance costs lives at the southern border"
+    url: "/wiki/sources/tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128/"
   - key: "all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f"
     title: "All right on the night: AfD's victory"
     url: "/wiki/sources/all-right-on-the-night-afds-victory-6a9e8573fe3b7e34fd2d258f/"

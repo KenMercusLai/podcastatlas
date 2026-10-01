@@ -15995,6 +15995,18 @@
       "url": "/topics/history/"
     }
   ],
+  "BorderSurveillanceRescueFailure": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BorderlandCulturalIdentity": [
     {
       "key": "history",
@@ -28282,6 +28294,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "EileenGuo": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "EileenVanDerVelden": [
@@ -80379,6 +80403,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "USBorderPatrol": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "USCStevensSchoolForComputingAndArtificialIntelligence": [
     {
       "key": "technology",
@@ -80437,6 +80468,13 @@
     }
   ],
   "USConstitutionalReformConstraint": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "USCustomsAndBorderProtection": [
     {
       "key": "politics",
       "label": "Politics",
@@ -95371,6 +95409,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": [

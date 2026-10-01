@@ -26845,3 +26845,11 @@ Added source `180-england-englishness-glt7388885434`; created `JasonCowley`, `Ga
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | AI-powered surveillance costs lives at the southern border
+
+Added source `tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128`; created `EileenGuo` and `BorderSurveillanceRescueFailure`; resynthesized `USCustomsAndBorderProtection`, `USBorderPatrol`, `USDepartmentOfHomelandSecurity`, and `InfrastructureAccountabilityGap` from their complete preserved evidence inventories; and migrated the touched legacy CBP, Border Patrol, and infrastructure-accountability pages to the synthesis-first schema. Core synthesis: nominal camera range is not rescue capacity because terrain, tower placement, classification, operator attention, tactical priorities, response time, and outcome measurement form one safety-critical chain. No settled contradiction was adopted. The investigation cannot identify the failure path for individual deaths, and camera proximity, visibility, detection, intervention feasibility, and causation remain separate. The normal ingest updated `wiki/overview.md`; the downstream refresh then read but did not rewrite it, refreshed the manifest and paragraph ledger to 3,356-source coverage, found no dirty topic claim set, and found global compaction not due. Identity, knowledge-schema, whitespace, synthesis, index coverage, health, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

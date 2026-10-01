@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3254
+topic_total_pages: 3257
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1282,6 +1282,9 @@ topic_concepts:
   - key: "BloomTwoSigmaProblem"
     title: "Bloom Two Sigma Problem"
     url: "/wiki/concepts/bloomtwosigmaproblem/"
+  - key: "BorderSurveillanceRescueFailure"
+    title: "Border Surveillance Rescue Failure"
+    url: "/wiki/concepts/bordersurveillancerescuefailure/"
   - key: "BrandValueProtection"
     title: "Brand Value Protection"
     url: "/wiki/concepts/brandvalueprotection/"
@@ -5450,6 +5453,9 @@ topic_entities:
   - key: "EddieWu"
     title: "Eddie Wu / 吴泳铭"
     url: "/wiki/entities/eddiewu/"
+  - key: "EileenGuo"
+    title: "Eileen Guo"
+    url: "/wiki/entities/eileenguo/"
   - key: "EileenVanDerVelden"
     title: "Eileen van der Velden"
     url: "/wiki/entities/eileenvandervelden/"
@@ -8544,6 +8550,9 @@ topic_sources:
   - key: "tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128"
     title: "AI-powered chatbots sent some users into a spiral"
     url: "/wiki/sources/tech-20251230-1230-mp-tech-pod-128-tech-20251230-1230-mp-tech-pod-128/"
+  - key: "tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128"
+    title: "AI-powered surveillance costs lives at the southern border"
+    url: "/wiki/sources/tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128/"
   - key: "tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128"
     title: "AI-powered workplace tools keep tabs on employees"
     url: "/wiki/sources/tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128/"

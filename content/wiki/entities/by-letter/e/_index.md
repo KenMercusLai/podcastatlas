@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 11797
+wiki_total_pages: 11798
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "EightSleep"
     title: "Eight Sleep / 8Sleep"
     url: "/wiki/entities/eightsleep/"
+  - key: "EileenGuo"
+    title: "Eileen Guo"
+    url: "/wiki/entities/eileenguo/"
   - key: "EileenVanDerVelden"
     title: "Eileen van der Velden"
     url: "/wiki/entities/eileenvandervelden/"

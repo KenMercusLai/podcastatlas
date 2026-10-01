@@ -9,7 +9,8 @@ sources:
   - tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128
   - ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9
   - default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515
-last_updated: 2026-09-06
+  - tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,7 +20,9 @@ knowledge_schema: synthesis-v1
 The U.S. Department of Homeland Security is the federal agency tying together the wiki's immigration-enforcement, private-sector data access, federal data trust, and DNA database branches. Its profile is defined less by a full institutional history than by recurring episodes where DHS becomes the data or enforcement actor whose powers need process boundaries.
 
 ## Current Profile
-DHS appears first as the parent context for [[USImmigrationAndCustomsEnforcement|ICE]], [[USBorderPatrol]], and [[USCustomsAndBorderProtection|CBP]] in the ICE hiring and detention-expansion branch. Marketplace Tech sources then make DHS a central privacy actor: [[JeremyScott]] describes DHS use of administrative subpoenas, data brokers, and surveillance-as-a-service tools, while [[ElizabethLaird]] treats possible DHS data sharing as a reason people mistrust public-benefit systems. The ICE/CODIS episode adds direct biometric collection: DHS becomes a large-scale DNA collector whose detainee profiles are sent to the [[FederalBureauOfInvestigation|FBI]]'s [[CODIS]] database. The recent Intelligence and Planet Money sources add the official-claim branch, Palantir-assisted ICE files, and [[GovernmentDataSiloCollapse]] around anti-silo policy and ICE-IRS data sharing.
+DHS appears first as the parent context for [[USImmigrationAndCustomsEnforcement|ICE]], [[USBorderPatrol]], and [[USCustomsAndBorderProtection|CBP]] in the ICE hiring and detention-expansion branch. Marketplace Tech sources then make DHS a central privacy actor: [[JeremyScott]] describes DHS use of administrative subpoenas, data brokers, and surveillance-as-a-service tools, while [[ElizabethLaird]] treats possible DHS data sharing as a reason people mistrust public-benefit systems. The ICE/CODIS episode adds direct biometric collection: DHS becomes a large-scale DNA collector whose detainee profiles are sent to the [[FederalBureauOfInvestigation|FBI]]'s [[CODIS]] database. The Intelligence and Planet Money sources add the official-claim branch, Palantir-assisted ICE files, and [[GovernmentDataSiloCollapse]] around anti-silo policy and ICE-IRS data sharing.
+
+The border-tower investigation adds an outcome-accountability branch. DHS and Border Patrol are described as lacking a comprehensive evaluation of camera effectiveness, while inspector-general criticism forms part of a longer warning that CBP data does not adequately connect surveillance technology with apprehension outcomes. This makes DHS responsible not only for what enforcement systems collect, but also for whether safety-critical technology is evaluated against its claimed humanitarian benefits.
 
 ## Key Characteristics
 - Parent agency for immigration-enforcement components including ICE, Border Patrol, and CBP.
@@ -28,6 +31,7 @@ DHS appears first as the parent context for [[USImmigrationAndCustomsEnforcement
 - Public-trust risk node because people fear service-linked data may be shared with law enforcement or immigration enforcement.
 - Direct biometric collector in the 2026 Marketplace Tech DNA episode, where detainee samples flow into CODIS.
 - Official-claim, cross-agency data, and enforcement-funding context for a quieter second-term deportation campaign whose reported totals and dataset claims remain source-scoped.
+- Oversight context for border surveillance whose detection, rescue, mortality, and apprehension effects are not comprehensively linked in agency data.
 
 ## Evidence
 - Enforcement scale and detention capacity - [[the-ice-hiring-boom]] ties DHS to disputed ICE training claims, rapid hiring, record detention levels, and expanded detention capacity.
@@ -36,15 +40,17 @@ DHS appears first as the parent context for [[USImmigrationAndCustomsEnforcement
 - DNA database pipeline - [[tech-20260831-0831-mp-tech-pod-128-tech-20260831-0831-mp-tech-pod-128]] says DHS collected DNA from nearly a million people last year and has added millions of profiles to CODIS in recent years.
 - Deportation campaign scale - [[ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9]] says no official removal statistics had been published since January 2025, while a DHS spokesman claimed one million deportations and about 2.2 million voluntary departures.
 - Cross-agency data integration - [[default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515]] links an anti-silo executive order, an ICE-IRS memorandum, and Palantir software to DHS-linked enforcement data power.
+- Border-surveillance evaluation - [[tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128]] says DHS and Border Patrol have not comprehensively evaluated camera effectiveness and connects DHS inspector-general criticism to inadequate technology-performance data.
 
 ## Qualifications
-DHS claims and critic claims remain source-scoped where they conflict. The ICE hiring source preserves a training-hours dispute, the data-access source presents a civil-liberties critique, the DNA source does not include a detailed DHS, FBI, or DOJ defense of the sampling program, the recent deportation figures are attributed to a DHS spokesman rather than official published removal statistics, and the Palantir-focused source does not include DHS comment on ICE dataset access.
+DHS claims and critic claims remain source-scoped where they conflict. The ICE hiring source preserves a training-hours dispute, the data-access source presents a civil-liberties critique, the DNA source does not include a detailed DHS, FBI, or DOJ defense of the sampling program, the recent deportation figures are attributed to a DHS spokesman rather than official published removal statistics, and the Palantir-focused source does not include DHS comment on ICE dataset access. The border-surveillance source cannot reconstruct individual deaths or distinguish missed detection from failed response, and DHS's full evaluation record is not included.
 
 ## What Changed
 - Migrated DHS to synthesis-v1 and consolidated enforcement, data-access, trust, and DNA collection branches.
 - Added the DHS/CODIS DNA pipeline as a direct biometric collection branch rather than only third-party data access.
 - Added the new source's official-claim layer around deportation totals, voluntary departures, funding, and quiet enforcement after backlash.
 - Added the anti-silo and ICE-IRS data-sharing layer around cross-agency enforcement records.
+- Added border-surveillance outcome evaluation as an institutional accountability responsibility.
 
 ## Relationships
 - [[USImmigrationAndCustomsEnforcement]] - DHS component central to hiring, detention, and DNA collection branches.
@@ -57,3 +63,4 @@ DHS claims and critic claims remain source-scoped where they conflict. The ICE h
 - [[ImmigrationCourtThroughputPressure]] - downstream procedural pressure after DHS/ICE arrests.
 - [[GovernmentDataSiloCollapse]] - data-purpose limitation issue raised by anti-silo and ICE-IRS access claims.
 - [[PrivacyAct1974]] - legal privacy boundary named in the new Palantir source.
+- [[BorderSurveillanceRescueFailure]] - safety-critical technology branch requiring traceability from detection through outcome.

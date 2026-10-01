@@ -11907,6 +11907,10 @@
     "title": "Border Region Currency Credit",
     "url": "/wiki/concepts/borderregioncurrencycredit/"
   },
+  "BorderSurveillanceRescueFailure": {
+    "title": "Border Surveillance Rescue Failure",
+    "url": "/wiki/concepts/bordersurveillancerescuefailure/"
+  },
   "BorderlandCulturalIdentity": {
     "title": "Borderland Cultural Identity",
     "url": "/wiki/concepts/borderlandculturalidentity/"
@@ -24598,6 +24602,10 @@
   "EightyThousandHours": {
     "title": "80,000 Hours",
     "url": "/wiki/entities/eightythousandhours/"
+  },
+  "EileenGuo": {
+    "title": "Eileen Guo",
+    "url": "/wiki/entities/eileenguo/"
   },
   "EileenVanDerVelden": {
     "title": "Eileen van der Velden",
@@ -90950,6 +90958,10 @@
   "tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128": {
     "title": "Can data centers ever be good neighbors?",
     "url": "/wiki/sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128/"
+  },
+  "tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128": {
+    "title": "AI-powered surveillance costs lives at the southern border",
+    "url": "/wiki/sources/tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128/"
   },
   "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4": {
     "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",

@@ -22506,6 +22506,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/borderlegalsignal/"
     },
+    "BorderSurveillanceRescueFailure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261001_MP_TECH_pod_128 [tech_20261001_MP_TECH_pod_128].md",
+          "key": "tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI-powered surveillance costs lives at the southern border",
+          "url": "/wiki/sources/tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/bordersurveillancerescuefailure/"
+    },
     "BorisJohnson": {
       "episode_count": 4,
       "show_count": 2,
@@ -54621,6 +54637,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/eightsleep/"
+    },
+    "EileenGuo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261001_MP_TECH_pod_128 [tech_20261001_MP_TECH_pod_128].md",
+          "key": "tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI-powered surveillance costs lives at the southern border",
+          "url": "/wiki/sources/tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/eileenguo/"
     },
     "EileenVanDerVelden": {
       "episode_count": 1,
@@ -95082,6 +95114,29 @@
       ],
       "updated": "2026-08-06",
       "url": "/wiki/concepts/informationoverloadknowledgetrap/"
+    },
+    "InfrastructureAccountabilityGap": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
+          "key": "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7",
+          "show": "Economist Podcasts",
+          "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
+          "url": "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
+        },
+        {
+          "episode_file": "tech_20261001_MP_TECH_pod_128 [tech_20261001_MP_TECH_pod_128].md",
+          "key": "tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI-powered surveillance costs lives at the southern border",
+          "url": "/wiki/sources/tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/infrastructureaccountabilitygap/"
     },
     "IngredientFlavorLabelTransparency": {
       "episode_count": 1,
@@ -188738,6 +188793,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/unhcr/"
     },
+    "USBorderPatrol": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198 [default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198].md",
+          "key": "the-ice-hiring-boom",
+          "show": "Planet Money",
+          "title": "The ICE hiring boom",
+          "url": "/wiki/sources/the-ice-hiring-boom/"
+        },
+        {
+          "episode_file": "tech_20261001_MP_TECH_pod_128 [tech_20261001_MP_TECH_pod_128].md",
+          "key": "tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI-powered surveillance costs lives at the southern border",
+          "url": "/wiki/sources/tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/usborderpatrol/"
+    },
     "USChinaAITechnicalCooperation": {
       "episode_count": 2,
       "show_count": 2,
@@ -188800,10 +188878,33 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/uschinastrategicstalemate/"
     },
+    "USCustomsAndBorderProtection": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198 [default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198].md",
+          "key": "the-ice-hiring-boom",
+          "show": "Planet Money",
+          "title": "The ICE hiring boom",
+          "url": "/wiki/sources/the-ice-hiring-boom/"
+        },
+        {
+          "episode_file": "tech_20261001_MP_TECH_pod_128 [tech_20261001_MP_TECH_pod_128].md",
+          "key": "tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI-powered surveillance costs lives at the southern border",
+          "url": "/wiki/sources/tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/uscustomsandborderprotection/"
+    },
     "USDepartmentOfHomelandSecurity": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198 [default.mp3_ywr3ahjkcgo_9ba25f0acaac69bf31e4c4f4fd031a35_20625198].md",
@@ -188846,9 +188947,16 @@
           "show": "Planet Money",
           "title": "Love in the time of Palantir",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515/"
+        },
+        {
+          "episode_file": "tech_20261001_MP_TECH_pod_128 [tech_20261001_MP_TECH_pod_128].md",
+          "key": "tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI-powered surveillance costs lives at the southern border",
+          "url": "/wiki/sources/tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/usdepartmentofhomelandsecurity/"
     },
     "USEconomicExperienceSplit": {

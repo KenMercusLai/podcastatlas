@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9137
+wiki_total_pages: 9138
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "BorderRegionCurrencyCredit"
     title: "Border Region Currency Credit"
     url: "/wiki/concepts/borderregioncurrencycredit/"
+  - key: "BorderSurveillanceRescueFailure"
+    title: "Border Surveillance Rescue Failure"
+    url: "/wiki/concepts/bordersurveillancerescuefailure/"
   - key: "BorderlandCulturalIdentity"
     title: "Borderland Cultural Identity"
     url: "/wiki/concepts/borderlandculturalidentity/"
