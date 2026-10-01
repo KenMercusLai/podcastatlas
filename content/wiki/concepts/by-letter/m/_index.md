@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9073
+wiki_total_pages: 9074
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -890,6 +890,9 @@ wiki_pages:
   - key: "MindBodyUnion"
     title: "Mind-Body Union"
     url: "/wiki/concepts/mindbodyunion/"
+  - key: "MindMuscleConnection"
+    title: "Mind-Muscle Connection"
+    url: "/wiki/concepts/mindmuscleconnection/"
   - key: "MindfulEatingCueControl"
     title: "Mindful Eating Cue Control"
     url: "/wiki/concepts/mindfuleatingcuecontrol/"

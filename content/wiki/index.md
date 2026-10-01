@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Optimize Your Exercise Program with Science-Based Tools | Jeff Cavaliere](sources/optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076.md) — Huberman Lab interview on sustainable strength and conditioning, mind-muscle control, recovery signals, mobility, pain-aware mechanics, and practical nutrition.
 - [204. Gone with the Wind](sources/204-gone-with-the-wind-glt3666140136.md) — The Rest Is History episode on Gone with the Wind, Lost Cause memory, Reconstruction's rollback, segregation, and contextualizing harmful classics.
 - [205. The Last Days of Boris Johnson](sources/205-the-last-days-of-boris-johnson-glt2329301983.md) — The Rest Is History episode on Johnson's July 2022 fall, political role limits, personal-mandate claims, constitutional conventions, and government breakdown.
 - [206. Historical Love Island](sources/206-historical-love-island-glt8073929093.md) — The Rest Is History episode casting historical figures as dating-show archetypes to compare celebrity, sincerity, betrayal, disruption, authority, and public appeal.
@@ -5114,7 +5115,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Caitlin Kale](entities/CaitlinKale.md) — Kaomi Sleep founder facing virality, copycats, IP steps, and the move from flagship product to durable sleep brand.
 - [RMS Lusitania](entities/RMSLusitania.md) — Cunard passenger liner whose 1915 sinking anchors the wiki's submarine-warfare, propaganda, and U.S. neutrality-memory branch.
 - [Woodrow Wilson](entities/WoodrowWilson.md) — U.S. president represented through the Lusitania-era neutrality dilemma and protest-note response.
-- [Jeff Cavaliere](entities/JeffCavaliere.md) — Physical therapist and strength coach featured on Huberman Lab explaining function-first strength, corrective weak-link programming, and pain-aware training continuity.
+- [Jeff Cavaliere](entities/JeffCavaliere.md) — Physical therapist and strength coach explaining adherence-centered programming, target-muscle control, corrective weak links, and pain-aware training continuity.
 - [Alexander Liss](entities/AlexanderLiss.md) — Denver-based data and AI scientist discussing enterprise AI reward signals, attention fine-tuning, and the Experience Orchestrator in Data Science With Sam EP41.
 - [谢金 / Xie Jin](entities/XieJinPhilosopher.md) — Fudan philosophy associate professor in 史蒂夫说 episode 464, translating feminism, epistemic injustice, embodied vulnerability, public-space hierarchy, and happy-together good life into everyday examples.
 - [褒姒 / Bao Si](entities/BaoSi.md) — Western Zhou consort remembered through the "一笑亡国" and beacon-fire legends, with her supernatural birth story kept source-scoped.
@@ -16845,6 +16846,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Corrective Weak-Link Training](concepts/CorrectiveWeakLinkTraining.md) — Short targeted programming for muscles, positions, or control patterns that limit safe long-term strength training.
 - [Glute Medius Pelvic Control](concepts/GluteMediusPelvicControl.md) — Lateral hip and pelvis-control frame connecting glute medius strength to low-back mechanics, balance, gait, and single-leg training.
 - [Rotator Cuff External Rotation](concepts/RotatorCuffExternalRotation.md) — Shoulder-control frame for training external rotation to balance internal-rotation dominance and support pressing or overhead movement.
+- [Mind-Muscle Connection](concepts/MindMuscleConnection.md) — Resistance-training cue that separates deliberate target-muscle tension from merely moving an external load.
 - [Pain-Aware Training Continuity](concepts/PainAwareTrainingContinuity.md) — Practice of modifying exercises, ranges, loads, or equipment around aches rather than reflexively stopping all training.
 - [Attention Fine-Tuning](concepts/AttentionFineTuning.md) — Post-training framework using model attention dynamics as a mathematical reward signal.
 - [史书体例意识 / Chronicle and Biographical History Forms](concepts/ChronicleBiographicalHistoryForms.md) — Reading-method frame for noticing how chronology, biography, dynastic history, tables, and treatises shape historical interpretation.

@@ -4,7 +4,8 @@ type: concept
 tags: [fitness, shoulder, strength-training, injury-prevention]
 sources:
   - build-muscle-great-posture-resilience-to-injury-jeff-cavaliere-scim4318497319
-last_updated: 2026-09-10
+  - optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,24 +19,31 @@ Cavaliere does not treat internal rotation as bad in itself. The problem is chro
 
 The practical drill is simple: band external rotations with the elbow pinned to the torso, often with a towel under the arm to prevent cheating through deltoid movement. The source allows the work to be used before pressing as activation or separately as special programming.
 
+The earlier interview extends the frame from isolated cuff work to exercise selection. Cavaliere objects to the upright row because elevation combined with internal rotation can reproduce a provocative shoulder position, and he offers a high pull with the hands above the elbows as a way to train similar regions while preserving a more favorable orientation. This is a source-specific risk judgment, not proof that one exercise injures every shoulder.
+
 ## Key Claims
 - Internal rotation is necessary, but it needs enough external-rotation strength to control it.
 - Chronic internally rotated posture and training imbalance can reduce shoulder tolerance during overhead movement.
 - Rotator cuff work helps keep the humeral head centered in the socket in the source's framing.
 - Elbow position matters because lifting the elbow can turn a rotator-cuff drill into a deltoid compensation.
 - Rotator cuff work can be used as activation before pressing or as separate weak-link programming.
+- Shoulder exercise selection should consider the combination of arm elevation and humeral rotation rather than muscle targets alone.
+- A high pull is presented as an alternative to the upright row when the goal is similar upper-back and shoulder work with less internal-rotation bias.
 
 ## Evidence
 - Mechanism: [[build-muscle-great-posture-resilience-to-injury-jeff-cavaliere-scim4318497319]] links posture, texting, typing, and training imbalance to internal-rotation dominance and shoulder-space problems.
 - Drill setup: [[build-muscle-great-posture-resilience-to-injury-jeff-cavaliere-scim4318497319]] recommends band external rotations with the elbow pinned and a towel under the arm.
 - Progression: [[build-muscle-great-posture-resilience-to-injury-jeff-cavaliere-scim4318497319]] says the drill can progress with step-outs, jumps, and higher arm positions.
 - Programming use: [[build-muscle-great-posture-resilience-to-injury-jeff-cavaliere-scim4318497319]] places rotator cuff work either before pressing or in separate special programming.
+- Upright-row concern: [[optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076]] argues that elevation plus internal rotation can resemble an impingement-test position.
+- Exercise substitution: [[optimize-your-exercise-program-with-science-based-tools-jeff-cavaliere-scim5122820076]] recommends a high pull with the hands higher than the elbows as a less provocative alternative for similar training goals.
 
 ## Counterevidence & Qualifications
-This concept is not a diagnosis or treatment plan for shoulder impingement, tears, instability, frozen shoulder, nerve symptoms, or postoperative rehab. Shoulder pain, weakness, trauma, loss of range, or symptoms that persist should be assessed by a qualified clinician.
+This concept is not a diagnosis or treatment plan for shoulder impingement, tears, instability, frozen shoulder, nerve symptoms, or postoperative rehab. The sources do not establish that upright rows are universally injurious or that high pulls are safe for every anatomy, load, technique, or injury history. Shoulder pain, weakness, trauma, loss of range, or symptoms that persist should be assessed by a qualified clinician.
 
 ## What Changed
-- Created the concept as a shoulder weak-link case from Cavaliere's episode.
+- Extended the concept from cuff activation to rotation-aware exercise selection.
+- Bounded the upright-row warning as a source-specific risk judgment rather than a universal injury rule.
 
 ## Related Concepts
 - [[CorrectiveWeakLinkTraining]] - programming method for this shoulder work.
