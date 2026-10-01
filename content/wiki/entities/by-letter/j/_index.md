@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11873
+wiki_total_pages: 11874
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "JRRTolkien"
     title: "J.R.R. Tolkien / 托尔金"
     url: "/wiki/entities/jrrtolkien/"
+  - key: "JaakPanksepp"
+    title: "Jaak Panksepp"
+    url: "/wiki/entities/jaakpanksepp/"
   - key: "JACGroup"
     title: "JAC Group / 江淮"
     url: "/wiki/entities/jacgroup/"

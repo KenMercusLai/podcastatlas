@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9211
+wiki_total_pages: 9212
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -908,6 +908,9 @@ wiki_pages:
   - key: "PlausibleMechanismPathway"
     title: "Plausible Mechanism Pathway"
     url: "/wiki/concepts/plausiblemechanismpathway/"
+  - key: "PlayAsContingencyTesting"
+    title: "Play as Contingency Testing"
+    url: "/wiki/concepts/playascontingencytesting/"
   - key: "PlayerDevelopmentAnalytics"
     title: "Player Development Analytics"
     url: "/wiki/concepts/playerdevelopmentanalytics/"

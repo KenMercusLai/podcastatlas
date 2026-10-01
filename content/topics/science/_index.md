@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1383
+topic_total_pages: 1384
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2726,6 +2726,9 @@ topic_entities:
   - key: "IsaacNewton"
     title: "Isaac Newton / 牛顿"
     url: "/wiki/entities/isaacnewton/"
+  - key: "JaakPanksepp"
+    title: "Jaak Panksepp"
+    url: "/wiki/entities/jaakpanksepp/"
   - key: "JacquelineSentiner"
     title: "Jacqueline Sentiner"
     url: "/wiki/entities/jacquelinesentiner/"

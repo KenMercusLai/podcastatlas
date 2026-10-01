@@ -100373,6 +100373,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/jrobertoppenheimer/"
     },
+    "JaakPanksepp": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9321743392 [SCIM9321743392].md",
+          "key": "using-play-to-rewire-improve-your-brain-scim9321743392",
+          "show": "Huberman Lab",
+          "title": "Using Play to Rewire & Improve Your Brain",
+          "url": "/wiki/sources/using-play-to-rewire-improve-your-brain-scim9321743392/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/jaakpanksepp/"
+    },
     "JackMerridew": {
       "episode_count": 1,
       "show_count": 1,
@@ -133781,9 +133797,9 @@
       "url": "/wiki/concepts/multilingualnationalanthemformation/"
     },
     "MultimodalAdultNeuroplasticity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4201272551 [SCIM4201272551].md",
@@ -133791,9 +133807,16 @@
           "show": "Huberman Lab",
           "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
           "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        },
+        {
+          "episode_file": "SCIM9321743392 [SCIM9321743392].md",
+          "key": "using-play-to-rewire-improve-your-brain-scim9321743392",
+          "show": "Huberman Lab",
+          "title": "Using Play to Rewire & Improve Your Brain",
+          "url": "/wiki/sources/using-play-to-rewire-improve-your-brain-scim9321743392/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/multimodaladultneuroplasticity/"
     },
     "MultimodalFunctionCenteredPainCare": {
@@ -136423,9 +136446,9 @@
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 3,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -136489,9 +136512,16 @@
           "show": "Huberman Lab",
           "title": "Neuralink & Technologies to Enhance Human Brains | Dr. Matthew MacDougall",
           "url": "/wiki/sources/neuralink-technologies-to-enhance-human-brains-dr-matthew-macdougall-scim4147376395/"
+        },
+        {
+          "episode_file": "SCIM9321743392 [SCIM9321743392].md",
+          "key": "using-play-to-rewire-improve-your-brain-scim9321743392",
+          "show": "Huberman Lab",
+          "title": "Using Play to Rewire & Improve Your Brain",
+          "url": "/wiki/sources/using-play-to-rewire-improve-your-brain-scim9321743392/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/neuroplasticity/"
     },
     "NeurorestorativeStrokeRecovery": {
@@ -148225,9 +148255,9 @@
       "url": "/wiki/concepts/physicsstagnationclaim/"
     },
     "PhysiologicalSigh": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1991900083 [SCIM1991900083].md",
@@ -148249,9 +148279,16 @@
           "show": "Huberman Lab",
           "title": "How to Breathe Correctly for Optimal Health, Mood, Learning & Performance",
           "url": "/wiki/sources/how-to-breathe-correctly-for-optimal-health-mood-learning-performance-scim7880960950/"
+        },
+        {
+          "episode_file": "SCIM9321743392 [SCIM9321743392].md",
+          "key": "using-play-to-rewire-improve-your-brain-scim9321743392",
+          "show": "Huberman Lab",
+          "title": "Using Play to Rewire & Improve Your Brain",
+          "url": "/wiki/sources/using-play-to-rewire-improve-your-brain-scim9321743392/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/physiologicalsigh/"
     },
     "PiTongEasternHan": {
@@ -149189,6 +149226,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/platonicatlantispoliticalmyth/"
+    },
+    "PlayAsContingencyTesting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9321743392 [SCIM9321743392].md",
+          "key": "using-play-to-rewire-improve-your-brain-scim9321743392",
+          "show": "Huberman Lab",
+          "title": "Using Play to Rewire & Improve Your Brain",
+          "url": "/wiki/sources/using-play-to-rewire-improve-your-brain-scim9321743392/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/playascontingencytesting/"
     },
     "PlinyTheElder": {
       "episode_count": 1,
@@ -195318,9 +195371,9 @@
       "url": "/wiki/entities/vespasian/"
     },
     "VestibularLearningActivation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1135697510 [SCIM1135697510].md",
@@ -195328,9 +195381,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Hearing & Balance Enhance Focus & Learning",
           "url": "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"
+        },
+        {
+          "episode_file": "SCIM9321743392 [SCIM9321743392].md",
+          "key": "using-play-to-rewire-improve-your-brain-scim9321743392",
+          "show": "Huberman Lab",
+          "title": "Using Play to Rewire & Improve Your Brain",
+          "url": "/wiki/sources/using-play-to-rewire-improve-your-brain-scim9321743392/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/vestibularlearningactivation/"
     },
     "VeterinaryMedicalMisinformation": {

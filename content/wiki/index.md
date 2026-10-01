@@ -3459,8 +3459,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg](sources/how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216.md) — Huberman Lab interview on microbiome ecology, dietary fiber, fermented foods, systemic signaling, and intervention limits.
 - [154. The Most Disastrous Party in History](sources/154-the-most-disastrous-party-in-history-glt6506112996.md) — The Rest Is History countdown using Partygate, failed festivals, treacherous feasts, court fire, crowd catastrophe, and Persepolis to examine how gatherings become political symbols.
 - [The Science of Love, Desire and Attachment](sources/the-science-of-love-desire-and-attachment-scim1112390541.md) — Huberman Lab solo episode on attachment plasticity, autonomic co-regulation, partner idealization, self-expansion, chemical cues, relationship conflict, and multisystem libido.
+- [Using Play to Rewire & Improve Your Brain](sources/using-play-to-rewire-improve-your-brain-scim9321743392.md) — Huberman Lab solo episode on low-stakes contingency testing, play signals, role and rule learning, dynamic movement, adult neuroplasticity, and evidence-bounded trauma claims.
 
 ## Entities
+- [Jaak Panksepp](entities/JaakPanksepp.md) — Affective-neuroscience researcher presented as a pioneer in the biological and psychological study of play.
 - [Rurik](entities/Rurik.md) — Scandinavian-associated Rus foundation figure whose dynastic importance exceeds the certainty of the Chronicle's invitation legend.
 - [Olga of Kiev](entities/OlgaOfKiev.md) — Kievan regent and early Christian convert whose political profile combines durable authority with a legendary revenge cycle.
 - [Vladimir the Great](entities/VladimirTheGreat.md) — Rus ruler whose baptism, Byzantine marriage, and military alliance anchored formal Christianization.
@@ -15374,6 +15376,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Julie Gottman](entities/JulieGottman.md) — Relationship researcher linked with John Gottman to couple outcomes and destructive conflict patterns.
 
 ## Concepts
+- [Play as Contingency Testing](concepts/PlayAsContingencyTesting.md) — Focused low-stakes exploration of roles, rules, movement, strategy, and social response without the full cost of ordinary failure.
 - [Primary Chronicle Source Criticism](concepts/PrimaryChronicleSourceCriticism.md) — Graded method for using the late Rus chronicle without flattening foundation, revenge, and conversion legends into fact.
 - [British Smuggling and the Tax State](concepts/BritishSmugglingTaxState.md) — Feedback loop joining customs, excise, demand, coastal geography, weak enforcement, organized violence, and state suppression.
 - [Criminal Romanticization](concepts/CriminalRomanticization.md) — Conversion of coercive offenders into attractive figures of adventure, rebellion, style, loyalty, or local resistance.

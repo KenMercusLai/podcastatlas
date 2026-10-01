@@ -27223,3 +27223,11 @@ Added source `149-the-birth-of-russia-glt2354182753`; created `Rurik`, `OlgaOfKi
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Using Play to Rewire & Improve Your Brain
+
+Added source `using-play-to-rewire-improve-your-brain-scim9321743392`; created `JaakPanksepp` and `PlayAsContingencyTesting`; and resynthesized `Neuroplasticity`, `MultimodalAdultNeuroplasticity`, `VestibularLearningActivation`, and `PhysiologicalSigh` from their complete preserved evidence inventories. Core synthesis: play can preserve novelty, focus, errors, role switching, and multimodal challenge while lowering outcome pressure, so productive difficulty need not mean maximal threat. No settled contradiction was adopted. The PAG and opioid mechanism, homeostatic-play claim, pruning figures, broad transfer, trauma applications, smartphone-reading intervention, and one-hour weekly protocol remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,401-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide scanner retained 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
