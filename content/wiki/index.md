@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [143. The Trial of Charles I Part 1](sources/143-the-trial-of-charles-i-part-1-glt4850801452.md) — The Rest Is History with Ted Vallance on Charles I's rule, renewed civil war, army radicalization, Pride's Purge, and the disputed popular sovereignty behind his trial.
 - [144. The Trial of Charles I Part 2](sources/144-the-trial-of-charles-i-part-2-glt2968292003.md) — The Rest Is History with Ted Vallance on Charles I's extraordinary court, disputed popular sovereignty, scaffold execution, royalist martyrdom, and republican afterlife.
 - [145. Babylon](sources/145-babylon-glt7141377161.md) — The Rest Is History on Neo-Babylonian monumental power, Judean exile, Persian conquest, urban decline, and Babylon's biblical and anti-imperial afterlives.
 - [146. Disease vs. the rise of civilisation](sources/146-disease-vs-the-rise-of-civilisation-glt4238916512.md) — The Rest Is History interview with Kyle Harper on human disease ecology, agricultural settlement, urban demographic sinks, the Black Death, and the mortality transition.

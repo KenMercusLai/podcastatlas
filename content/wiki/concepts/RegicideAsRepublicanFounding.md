@@ -8,6 +8,7 @@ sources:
   - 333-the-republic-of-britain-life-under-cromwell-glt3360112790
   - 249-treason-in-modern-britain-part-2-glt2159531504
   - 144-the-trial-of-charles-i-part-2-glt2968292003
+  - 143-the-trial-of-charles-i-part-1-glt4850801452
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-02
 ---
@@ -22,7 +23,9 @@ Regicide as republican founding is the interpretation that killing a deposed mon
 
 The sources distinguish founding rupture from constitutional settlement. In France, abolition and “Year One” formally created the Republic, [[BattleOfValmy|Valmy]] made it militarily credible, and the unresolved legal and symbolic presence of [[LouisXVI|Louis XVI]] made execution appear to some revolutionaries as the irreversible threshold. The act destroyed the king as person and symbol, yet royalist martyrdom and coming civil conflict show that constitutive violence can found one political identity without producing shared legitimacy.
 
-The English sequence runs in the other direction. [[CharlesIOfEngland|Charles I]] was executed before his opponents had agreed whether they were ending a reign, dynasty, or monarchy; abolition followed, but the army and Parliament never achieved a stable division of authority. His trial nevertheless made a radical founding claim: the Commons asserted sovereignty on behalf of the people, reversed a law centered on harm to the king, and used an extraordinary public court to place an anointed monarch beneath judgment. Charles's refusal to plead denied that founding authority, while scaffold security and later loyalty tests exposed its weak consent base. Regicide was constitutive as rupture yet insufficient as institutional foundation, and Charles's martyr afterlife gave royalism a posthumous victory even while radicals treated 1649 as restored freedom.
+The English sequence runs in the other direction. [[CharlesIOfEngland|Charles I]] was executed before his opponents had agreed whether they were ending a reign, dynasty, or monarchy; abolition followed, but the army and Parliament never achieved a stable division of authority. The founding claim formed through renewed civil war and institutional coercion: Charles's Scottish engagement hardened army opinion, the Remonstrance demanded prosecution, Pride's Purge narrowed Parliament, and the Commons declared the people the origin of just power after the Lords rejected the court.
+
+The trial then reversed a law centered on harm to the king and used an extraordinary public court to place an anointed monarch beneath judgment. Charles's refusal to plead denied that founding authority, while scaffold security and later loyalty tests exposed its weak consent base. Regicide was constitutive as rupture yet insufficient as institutional foundation, and Charles's martyr afterlife gave royalism a posthumous victory even while radicals treated 1649 as restored freedom.
 
 ## Key Claims
 
@@ -51,6 +54,7 @@ The English sequence runs in the other direction. [[CharlesIOfEngland|Charles I]
 
 ### English rupture without settlement
 
+- [[143-the-trial-of-charles-i-part-1-glt4850801452]] connects renewed war, army radicalization, the Remonstrance, Pride's Purge, the Lords' veto, and the Commons' sovereignty declaration to the founding claim behind prosecution.
 - [[333-the-republic-of-britain-life-under-cromwell-glt3360112790]] shows Charles I's execution preceding abolition and leaving Parliament, army, Protectorate, and succession unresolved.
 - [[249-treason-in-modern-britain-part-2-glt2159531504]] shows the Commons claiming popular sovereignty, Charles rejecting the court's jurisdiction, and the Restoration later combining broad oblivion with selective punishment of the regicides.
 - [[144-the-trial-of-charles-i-part-2-glt2968292003]] adds the public hierarchy reversal, laws-of-war and command-responsibility reasoning, army pressure, scaffold security, republican freedom claims, and immediate royalist martyrdom.
@@ -63,15 +67,15 @@ The English sequence runs in the other direction. [[CharlesIOfEngland|Charles I]
 - “Sacrifice” describes political meaning, not a settled legal category or shared contemporary theology.
 - The French sacrificial-spectacle interpretation should not be projected automatically onto the differently staged English regicide.
 - The English source complicates rather than negates the concept: regicide founded an irreversible break but did not supply durable institutions.
+- Charles's responsibility for renewed war did not by itself prove that a purged Commons backed by the army legitimately represented the people.
 - The later compilation and disputed status of the trial record qualify any simple reading of the surviving proceedings as transparent evidence.
 - Restoration punishment demonstrates that a founding act can be legally recoded as treason when the displaced sovereignty returns.
 - The popularity of *Eikon Basilike*, blood relics, public shock, and European horror qualify any claim that the English execution secured broad acceptance for the new sovereign order.
 
 ## What Changed
 
-- Added the trial's visible hierarchy reversal and scaffold security as evidence that founding power and public consent diverged.
-- Added Charles's martyr afterlife as a mechanism through which regicide could strengthen the displaced cause.
-- Preserved the distinction between constitutive rupture and institutional completion across the French and English sequences.
+- Added renewed war, the Remonstrance, Pride's Purge, and the Commons' declaration as the pre-trial construction of English republican founding authority.
+- Clarified that culpability, coercive power, and representative legitimacy remained separate questions.
 
 ## Related Concepts
 

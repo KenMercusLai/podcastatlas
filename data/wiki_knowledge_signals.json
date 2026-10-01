@@ -14633,9 +14633,9 @@
       "url": "/wiki/entities/armyofafrica/"
     },
     "ArmyParliamentDualSovereignty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3360112790 [GLT3360112790].md",
@@ -14643,6 +14643,13 @@
           "show": "The Rest Is History",
           "title": "333: The Republic of Britain: Life under Cromwell",
           "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        },
+        {
+          "episode_file": "GLT4850801452 [GLT4850801452].md",
+          "key": "143-the-trial-of-charles-i-part-1-glt4850801452",
+          "show": "The Rest Is History",
+          "title": "143. The Trial of Charles I Part 1",
+          "url": "/wiki/sources/143-the-trial-of-charles-i-part-1-glt4850801452/"
         }
       ],
       "updated": "2026-09-28",
@@ -30936,9 +30943,9 @@
       "url": "/wiki/entities/charlesiiofengland/"
     },
     "CharlesIOfEngland": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3360112790 [GLT3360112790].md",
@@ -30960,6 +30967,13 @@
           "show": "The Rest Is History",
           "title": "144. The Trial of Charles I Part 2",
           "url": "/wiki/sources/144-the-trial-of-charles-i-part-2-glt2968292003/"
+        },
+        {
+          "episode_file": "GLT4850801452 [GLT4850801452].md",
+          "key": "143-the-trial-of-charles-i-part-1-glt4850801452",
+          "show": "The Rest Is History",
+          "title": "143. The Trial of Charles I Part 1",
+          "url": "/wiki/sources/143-the-trial-of-charles-i-part-1-glt4850801452/"
         }
       ],
       "updated": "2026-10-02",
@@ -150331,9 +150345,9 @@
       "url": "/wiki/concepts/politicalroleadaptability/"
     },
     "PoliticalTrialSovereigntyPerformance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2968292003 [GLT2968292003].md",
@@ -150341,6 +150355,13 @@
           "show": "The Rest Is History",
           "title": "144. The Trial of Charles I Part 2",
           "url": "/wiki/sources/144-the-trial-of-charles-i-part-2-glt2968292003/"
+        },
+        {
+          "episode_file": "GLT4850801452 [GLT4850801452].md",
+          "key": "143-the-trial-of-charles-i-part-1-glt4850801452",
+          "show": "The Rest Is History",
+          "title": "143. The Trial of Charles I Part 1",
+          "url": "/wiki/sources/143-the-trial-of-charles-i-part-1-glt4850801452/"
         }
       ],
       "updated": "2026-10-02",
@@ -160044,9 +160065,9 @@
       "url": "/wiki/concepts/regentshadowaccessionsurvival/"
     },
     "RegicideAsRepublicanFounding": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -160082,6 +160103,13 @@
           "show": "The Rest Is History",
           "title": "144. The Trial of Charles I Part 2",
           "url": "/wiki/sources/144-the-trial-of-charles-i-part-2-glt2968292003/"
+        },
+        {
+          "episode_file": "GLT4850801452 [GLT4850801452].md",
+          "key": "143-the-trial-of-charles-i-part-1-glt4850801452",
+          "show": "The Rest Is History",
+          "title": "143. The Trial of Charles I Part 1",
+          "url": "/wiki/sources/143-the-trial-of-charles-i-part-1-glt4850801452/"
         }
       ],
       "updated": "2026-10-02",
@@ -186148,9 +186176,9 @@
       "url": "/wiki/entities/tedsarandos/"
     },
     "TedVallance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2968292003 [GLT2968292003].md",
@@ -186158,6 +186186,13 @@
           "show": "The Rest Is History",
           "title": "144. The Trial of Charles I Part 2",
           "url": "/wiki/sources/144-the-trial-of-charles-i-part-2-glt2968292003/"
+        },
+        {
+          "episode_file": "GLT4850801452 [GLT4850801452].md",
+          "key": "143-the-trial-of-charles-i-part-1-glt4850801452",
+          "show": "The Rest Is History",
+          "title": "143. The Trial of Charles I Part 1",
+          "url": "/wiki/sources/143-the-trial-of-charles-i-part-1-glt4850801452/"
         }
       ],
       "updated": "2026-10-02",

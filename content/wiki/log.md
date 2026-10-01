@@ -27276,3 +27276,10 @@ Added source `144-the-trial-of-charles-i-part-2-glt2968292003`; created `TedVall
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-02] ingest | 143. The Trial of Charles I Part 1
+
+Added source `143-the-trial-of-charles-i-part-1-glt4850801452`; resynthesized `CharlesIOfEngland`, `TedVallance`, `PoliticalTrialSovereigntyPerformance`, `ArmyParliamentDualSovereignty`, and `RegicideAsRepublicanFounding` from their complete preserved evidence inventories. Core synthesis: Charles's religious and fiscal policies, character, post-Naseby bargaining, and role in renewing civil war hardened the case against him, but guilt did not settle jurisdiction; the Remonstrance, Pride's Purge, the Lords' resistance, and the Commons' popular-sovereignty declaration exposed an unresolved conflict over whether an army-backed, narrowed legislature could represent the people and lawfully judge a king. No settled contradiction was adopted. The balance among religious and constitutional causes, Charles's intentions, the army's representativeness, Cromwell's change of mind, Elizabeth Poole's influence, alternative kings, and negotiated outcomes remain qualified or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,408-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
