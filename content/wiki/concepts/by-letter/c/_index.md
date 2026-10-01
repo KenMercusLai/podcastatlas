@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9079
+wiki_total_pages: 9081
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1046,6 +1046,12 @@ wiki_pages:
   - key: "CivilServiceContinuity"
     title: "Civil Service Continuity / 文官连续性"
     url: "/wiki/concepts/civilservicecontinuity/"
+  - key: "CivilWarDemocraticUnionism"
+    title: "Civil War Democratic Unionism"
+    url: "/wiki/concepts/civilwardemocraticunionism/"
+  - key: "CivilWarIndustrialTransition"
+    title: "Civil War Industrial Transition"
+    url: "/wiki/concepts/civilwarindustrialtransition/"
   - key: "CivilWarMemoryPoliticalAfterlife"
     title: "Civil War Memory and Political Afterlife"
     url: "/wiki/concepts/civilwarmemorypoliticalafterlife/"

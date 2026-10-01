@@ -26570,3 +26570,11 @@ Added source `202-american-civil-war-gettysburg-part-3-glt5256515778`; created `
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 201. American Civil War: Outbreak (Part 2)
+
+Added source `201-american-civil-war-outbreak-part-2-glt4100428000`; created `BattleOfAntietam`, `GeorgeMcClellan`, `StonewallJackson`, `CivilWarDemocraticUnionism`, and `CivilWarIndustrialTransition`; and resynthesized `AmericanCivilWar`, `EmancipationProclamation`, `ConfederateCostImpositionStrategy`, `AdamIPSmith`, `AbrahamLincoln`, `RobertELee`, and `JeffersonDavis` from their complete preserved evidence inventories. Core synthesis: Confederate confidence joined assumptions of Northern weakness and short war, while democratic Unionism and superior Northern resources made the conflict a test of political endurance; Antietam checked Lee's invasion and gave Lincoln the opening for a geographically limited preliminary emancipation measure that joined conviction, military necessity, timing, and diplomacy. No settled contradiction was adopted. Lee's and Jackson's motives, intervention probabilities, lost-order details, tactical labels, numbers, technological comparisons, baseball's wartime rise, women's political effects, and emancipation's electoral impact remain interpretive, approximate, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,322-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, synthesis, changed-page link, index coverage, and publish validation passed; the repository-wide scanner still reports 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

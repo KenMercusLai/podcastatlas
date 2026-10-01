@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2894
+topic_total_pages: 2895
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -691,6 +691,9 @@ topic_concepts:
   - key: "CivilServiceContinuity"
     title: "Civil Service Continuity / 文官连续性"
     url: "/wiki/concepts/civilservicecontinuity/"
+  - key: "CivilWarDemocraticUnionism"
+    title: "Civil War Democratic Unionism"
+    url: "/wiki/concepts/civilwardemocraticunionism/"
   - key: "CivilWarThreatRhetoric"
     title: "Civil-War Threat Rhetoric"
     url: "/wiki/concepts/civilwarthreatrhetoric/"

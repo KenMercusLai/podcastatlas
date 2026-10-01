@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11725
+wiki_total_pages: 11728
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "GeorgeArmstrongCuster"
     title: "George Armstrong Custer"
     url: "/wiki/entities/georgearmstrongcuster/"
+  - key: "GeorgeMcClellan"
+    title: "George B. McClellan"
+    url: "/wiki/entities/georgemcclellan/"
   - key: "GeorgeCottrell"
     title: "George Cottrell"
     url: "/wiki/entities/georgecottrell/"

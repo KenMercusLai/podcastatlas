@@ -3377,16 +3377,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Optimize & Control Your Brain Chemistry to Improve Health & Performance](sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946.md) — Huberman Lab solo episode on dopamine, epinephrine, acetylcholine, serotonin, daily-state timing, behavioral foundations, and medical boundaries.
 - [203. American Civil War: Aftermath & Legacy (Part 4)](sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453.md) — The Rest Is History episode on Appomattox, Lincoln's assassination, Reconstruction, the Fourteenth Amendment, Lost Cause memory, and modern polarization.
 - [202. American Civil War: Gettysburg (Part 3)](sources/202-american-civil-war-gettysburg-part-3-glt5256515778.md) — The Rest Is History episode on Gettysburg, Vicksburg, the Gettysburg Address, Black military service, self-emancipation, the 1864 election, and Appomattox.
+- [201. American Civil War: Outbreak (Part 2)](sources/201-american-civil-war-outbreak-part-2-glt4100428000.md) — The Rest Is History episode on democratic Unionism, Confederate confidence, slavery, industrial-war transition, Antietam, and preliminary emancipation.
 
 ## Entities
-- [American Civil War](entities/AmericanCivilWar.md) — Union-Confederate conflict interpreted through political endurance, paired 1863 turning points, emancipation, Black agency, and unresolved postwar meaning.
+- [American Civil War](entities/AmericanCivilWar.md) — Union-Confederate conflict interpreted through democratic legitimacy, slavery, political endurance, industrial transition, emancipation, and unresolved postwar meaning.
+- [Battle of Antietam](entities/BattleOfAntietam.md) — Costly 1862 tactical draw whose strategic check of Lee created the political opening for preliminary emancipation.
+- [George B. McClellan](entities/GeorgeMcClellan.md) — Union commander linking the failed Peninsula Campaign to Antietam's incomplete but politically consequential success.
+- [Stonewall Jackson](entities/StonewallJackson.md) — Confederate commander whose stern religious persona and military legend remain bounded by the slavery-centered cause he served.
 - [Battle of Gettysburg](entities/BattleOfGettysburg.md) — Three-day 1863 battle shaped by encounter, intelligence, terrain, failed central assault, strategic reversal, and later national memory.
 - [Siege of Vicksburg](entities/SiegeOfVicksburg.md) — Grant's Mississippi victory that divided Confederate territory and formed the geographic half of the paired July 1863 turning point.
-- [Emancipation Proclamation](entities/EmancipationProclamation.md) — Lincoln's wartime policy hinge connecting Union victory, slavery's destruction, Black enlistment, and military enforcement.
-- [Abraham Lincoln](entities/AbrahamLincoln.md) — Union president whose assassination removed a skilled postwar leader and fixed his memory as a national martyr.
-- [Robert E. Lee](entities/RobertELee.md) — Confederate commander whose Appomattox surrender and resources explanation shaped contested Lost Cause memory.
+- [Emancipation Proclamation](entities/EmancipationProclamation.md) — Geographically limited wartime policy hinge joining Antietam, slavery's destruction, Black enlistment, diplomacy, and military enforcement.
+- [Abraham Lincoln](entities/AbrahamLincoln.md) — Union president joining preservation, antislavery policy, military timing, democratic refounding, and limited Black citizenship claims.
+- [Robert E. Lee](entities/RobertELee.md) — Confederate commander whose slaveholding allegiance, northern invasions, surrender, and defeat explanation shaped contested memory.
 - [Ulysses S. Grant](entities/UlyssesSGrant.md) — Union commander whose lenient Appomattox terms ended fighting without settling postwar racial politics.
-- [Jefferson Davis](entities/JeffersonDavis.md) — Confederate president whose postwar constitutional defense displaced slavery in the public explanation of secession.
+- [Jefferson Davis](entities/JeffersonDavis.md) — Confederate president whose wartime rejection of emancipation preceded a postwar constitutional defense that displaced slavery.
 - [John Wilkes Booth](entities/JohnWilkesBooth.md) — Lincoln's assassin, linked by the episode to opposition to Black voting rights and Reconstruction's leadership rupture.
 - [Gone with the Wind](entities/GoneWithTheWind.md) — Novel and film whose romance, survival story, and spectacle carried Lost Cause racial mythology into mass culture.
 - [Margaret Mitchell](entities/MargaretMitchell.md) — Author whose family inheritance informs the episode's account of plantation-loss memory in Gone with the Wind.
@@ -15143,6 +15147,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Black Union Military Service and Citizenship](concepts/BlackUnionMilitaryServiceCitizenship.md) — Link among African American enlistment, military capacity, unequal treatment, racial violence, sacrifice, and claims to political membership.
 - [Enslaved Self-Emancipation](concepts/EnslavedSelfEmancipation.md) — Enslaved people's flight, labor withdrawal, resistance, and pressure on Union policy during slavery's wartime collapse.
 - [Confederate Cost-Imposition Strategy](concepts/ConfederateCostImpositionStrategy.md) — Route to independence through casualties, morale, invasion, and elections making continued Union war politically intolerable.
+- [Civil War Democratic Unionism](concepts/CivilWarDemocraticUnionism.md) — Claim that resisting secession after lawful election tested the survival of constitutional representative government.
+- [Civil War Industrial Transition](concepts/CivilWarIndustrialTransition.md) — Coexistence of Napoleonic expectations with mass mobilization, industrial capacity, entrenchment, and home-front strain.
 - [Reconstruction Constitutional Afterlife](concepts/ReconstructionConstitutionalAfterlife.md) — Survival of citizenship and equality principles after Reconstruction's political coalition and protective capacity collapsed.
 - [Civil War Memory and Political Afterlife](concepts/CivilWarMemoryPoliticalAfterlife.md) — Persistence of Civil War conflicts through commemoration, popular culture, party alignment, and disputes over race, citizenship, and authority.
 - [Lost Cause Myth](concepts/LostCauseMyth.md) — Confederate memory that replaces slavery and rebellion with honor, states' rights, resource imbalance, and white victimhood.

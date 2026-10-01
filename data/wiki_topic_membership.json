@@ -1329,6 +1329,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "201-american-civil-war-outbreak-part-2-glt4100428000": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "202-american-civil-war-gettysburg-part-3-glt5256515778": [
     {
       "key": "history",
@@ -20086,6 +20093,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "CivilWarDemocraticUnionism": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CivilWarThreatRhetoric": [

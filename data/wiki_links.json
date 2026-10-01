@@ -823,6 +823,10 @@
     "title": "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会",
     "url": "/wiki/sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto/"
   },
+  "201-american-civil-war-outbreak-part-2-glt4100428000": {
+    "title": "201. American Civil War: Outbreak (Part 2)",
+    "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
+  },
   "202-american-civil-war-gettysburg-part-3-glt5256515778": {
     "title": "202. American Civil War: Gettysburg (Part 3)",
     "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
@@ -10103,6 +10107,10 @@
     "title": "Battle of Agincourt",
     "url": "/wiki/entities/battleofagincourt/"
   },
+  "BattleOfAntietam": {
+    "title": "Battle of Antietam",
+    "url": "/wiki/entities/battleofantietam/"
+  },
   "BattleOfBunkerHill": {
     "title": "Battle of Bunker Hill",
     "url": "/wiki/entities/battleofbunkerhill/"
@@ -16666,6 +16674,14 @@
   "CivilServiceExamSecurityGamble": {
     "title": "Civil-Service Exam Security Gamble / 考编安全豪赌",
     "url": "/wiki/concepts/civilserviceexamsecuritygamble/"
+  },
+  "CivilWarDemocraticUnionism": {
+    "title": "Civil War Democratic Unionism",
+    "url": "/wiki/concepts/civilwardemocraticunionism/"
+  },
+  "CivilWarIndustrialTransition": {
+    "title": "Civil War Industrial Transition",
+    "url": "/wiki/concepts/civilwarindustrialtransition/"
   },
   "CivilWarMemoryPoliticalAfterlife": {
     "title": "Civil War Memory and Political Afterlife",
@@ -31138,6 +31154,10 @@
   "GeorgeLucas": {
     "title": "George Lucas",
     "url": "/wiki/entities/georgelucas/"
+  },
+  "GeorgeMcClellan": {
+    "title": "George B. McClellan",
+    "url": "/wiki/entities/georgemcclellan/"
   },
   "GeorgeMonck": {
     "title": "George Monck",
@@ -70606,6 +70626,10 @@
   "StoneOfScone": {
     "title": "Stone of Scone",
     "url": "/wiki/entities/stoneofscone/"
+  },
+  "StonewallJackson": {
+    "title": "Stonewall Jackson",
+    "url": "/wiki/entities/stonewalljackson/"
   },
   "Stonyfield": {
     "title": "Stonyfield",

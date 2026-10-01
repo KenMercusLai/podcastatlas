@@ -4836,9 +4836,9 @@
       "url": "/wiki/entities/abrahambeame/"
     },
     "AbrahamLincoln": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3990109453 [GLT3990109453].md",
@@ -4853,6 +4853,13 @@
           "show": "The Rest Is History",
           "title": "202. American Civil War: Gettysburg (Part 3)",
           "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        },
+        {
+          "episode_file": "GLT4100428000 [GLT4100428000].md",
+          "key": "201-american-civil-war-outbreak-part-2-glt4100428000",
+          "show": "The Rest Is History",
+          "title": "201. American Civil War: Outbreak (Part 2)",
+          "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
         }
       ],
       "updated": "2026-10-01",
@@ -5674,9 +5681,9 @@
       "url": "/wiki/entities/adamgrant/"
     },
     "AdamIPSmith": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT1619660676 [GLT1619660676].md",
@@ -5712,6 +5719,13 @@
           "show": "The Rest Is History",
           "title": "202. American Civil War: Gettysburg (Part 3)",
           "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        },
+        {
+          "episode_file": "GLT4100428000 [GLT4100428000].md",
+          "key": "201-american-civil-war-outbreak-part-2-glt4100428000",
+          "show": "The Rest Is History",
+          "title": "201. American Civil War: Outbreak (Part 2)",
+          "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
         }
       ],
       "updated": "2026-10-01",
@@ -9573,9 +9587,9 @@
       "url": "/wiki/concepts/ambientvoiceagentinterface/"
     },
     "AmericanCivilWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5256515778 [GLT5256515778].md",
@@ -9583,6 +9597,13 @@
           "show": "The Rest Is History",
           "title": "202. American Civil War: Gettysburg (Part 3)",
           "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        },
+        {
+          "episode_file": "GLT4100428000 [GLT4100428000].md",
+          "key": "201-american-civil-war-outbreak-part-2-glt4100428000",
+          "show": "The Rest Is History",
+          "title": "201. American Civil War: Outbreak (Part 2)",
+          "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
         }
       ],
       "updated": "2026-10-01",
@@ -18542,6 +18563,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/battleofagincourt/"
+    },
+    "BattleOfAntietam": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4100428000 [GLT4100428000].md",
+          "key": "201-american-civil-war-outbreak-part-2-glt4100428000",
+          "show": "The Rest Is History",
+          "title": "201. American Civil War: Outbreak (Part 2)",
+          "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/battleofantietam/"
     },
     "BattleOfBunkerHill": {
       "episode_count": 1,
@@ -34437,6 +34474,38 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/civilserviceexamsecuritygamble/"
     },
+    "CivilWarDemocraticUnionism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4100428000 [GLT4100428000].md",
+          "key": "201-american-civil-war-outbreak-part-2-glt4100428000",
+          "show": "The Rest Is History",
+          "title": "201. American Civil War: Outbreak (Part 2)",
+          "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/civilwardemocraticunionism/"
+    },
+    "CivilWarIndustrialTransition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4100428000 [GLT4100428000].md",
+          "key": "201-american-civil-war-outbreak-part-2-glt4100428000",
+          "show": "The Rest Is History",
+          "title": "201. American Civil War: Outbreak (Part 2)",
+          "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/civilwarindustrialtransition/"
+    },
     "CivilWarMemoryPoliticalAfterlife": {
       "episode_count": 1,
       "show_count": 1,
@@ -37918,9 +37987,9 @@
       "url": "/wiki/concepts/conditionedphysiologicalresponses/"
     },
     "ConfederateCostImpositionStrategy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5256515778 [GLT5256515778].md",
@@ -37928,6 +37997,13 @@
           "show": "The Rest Is History",
           "title": "202. American Civil War: Gettysburg (Part 3)",
           "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        },
+        {
+          "episode_file": "GLT4100428000 [GLT4100428000].md",
+          "key": "201-american-civil-war-outbreak-part-2-glt4100428000",
+          "show": "The Rest Is History",
+          "title": "201. American Civil War: Outbreak (Part 2)",
+          "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
         }
       ],
       "updated": "2026-10-01",
@@ -54628,9 +54704,9 @@
       "url": "/wiki/concepts/eloncomputeplatform/"
     },
     "EmancipationProclamation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5256515778 [GLT5256515778].md",
@@ -54638,6 +54714,13 @@
           "show": "The Rest Is History",
           "title": "202. American Civil War: Gettysburg (Part 3)",
           "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        },
+        {
+          "episode_file": "GLT4100428000 [GLT4100428000].md",
+          "key": "201-american-civil-war-outbreak-part-2-glt4100428000",
+          "show": "The Rest Is History",
+          "title": "201. American Civil War: Outbreak (Part 2)",
+          "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
         }
       ],
       "updated": "2026-10-01",
@@ -74324,6 +74407,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/georgelucas/"
+    },
+    "GeorgeMcClellan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4100428000 [GLT4100428000].md",
+          "key": "201-american-civil-war-outbreak-part-2-glt4100428000",
+          "show": "The Rest Is History",
+          "title": "201. American Civil War: Outbreak (Part 2)",
+          "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/georgemcclellan/"
     },
     "GeorgeMonck": {
       "episode_count": 2,
@@ -98264,9 +98363,9 @@
       "url": "/wiki/entities/jeffdean/"
     },
     "JeffersonDavis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3990109453 [GLT3990109453].md",
@@ -98274,6 +98373,13 @@
           "show": "The Rest Is History",
           "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
           "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        },
+        {
+          "episode_file": "GLT4100428000 [GLT4100428000].md",
+          "key": "201-american-civil-war-outbreak-part-2-glt4100428000",
+          "show": "The Rest Is History",
+          "title": "201. American Civil War: Outbreak (Part 2)",
+          "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
         }
       ],
       "updated": "2026-10-01",
@@ -157981,9 +158087,9 @@
       "url": "/wiki/entities/robertcolls/"
     },
     "RobertELee": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3990109453 [GLT3990109453].md",
@@ -157998,6 +158104,13 @@
           "show": "The Rest Is History",
           "title": "202. American Civil War: Gettysburg (Part 3)",
           "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        },
+        {
+          "episode_file": "GLT4100428000 [GLT4100428000].md",
+          "key": "201-american-civil-war-outbreak-part-2-glt4100428000",
+          "show": "The Rest Is History",
+          "title": "201. American Civil War: Outbreak (Part 2)",
+          "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
         }
       ],
       "updated": "2026-10-01",
@@ -173313,6 +173426,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/stoneofscone/"
+    },
+    "StonewallJackson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4100428000 [GLT4100428000].md",
+          "key": "201-american-civil-war-outbreak-part-2-glt4100428000",
+          "show": "The Rest Is History",
+          "title": "201. American Civil War: Outbreak (Part 2)",
+          "url": "/wiki/sources/201-american-civil-war-outbreak-part-2-glt4100428000/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/stonewalljackson/"
     },
     "Stonyfield": {
       "episode_count": 1,
