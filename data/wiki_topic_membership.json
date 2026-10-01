@@ -1308,6 +1308,13 @@
       "url": "/topics/science/"
     }
   ],
+  "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "190-jubilees-glt4093596173": [
     {
       "key": "history",
@@ -15648,6 +15655,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "BobHawke": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "BobIger": [
@@ -37924,6 +37938,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "HawkeKeatingReformSettlement": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HayFeverEnvironmentalHistory": [
     {
       "key": "science",
@@ -44564,6 +44590,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "JohnHoward": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JohnHume": [
     {
       "key": "politics",
@@ -45048,6 +45081,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "JuliaGillard": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JulianWeber": [
@@ -45750,6 +45790,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "KevinRudd": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "KevinWarsh": [
@@ -50548,6 +50595,13 @@
     }
   ],
   "Malaysia": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "MalcolmTurnbull": [
     {
       "key": "politics",
       "label": "Politics",
@@ -59273,6 +59327,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PaulKeating": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PaulKruger": [
@@ -68951,6 +69012,13 @@
     }
   ],
   "ScottBrennan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ScottMorrison": [
     {
       "key": "politics",
       "label": "Politics",
@@ -78852,6 +78920,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "TonyAbbott": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TonyBenn": [

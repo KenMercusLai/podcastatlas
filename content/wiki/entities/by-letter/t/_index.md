@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11756
+wiki_total_pages: 11764
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "TonyACRCloud"
     title: "Tony / ACR Cloud"
     url: "/wiki/entities/tonyacrcloud/"
+  - key: "TonyAbbott"
+    title: "Tony Abbott"
+    url: "/wiki/entities/tonyabbott/"
   - key: "TonyBenn"
     title: "Tony Benn"
     url: "/wiki/entities/tonybenn/"

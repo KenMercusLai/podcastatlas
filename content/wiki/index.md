@@ -3395,6 +3395,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [200: American Civil War: The Causes (Part 1)](sources/200-american-civil-war-the-causes-part-1-glt1124511401.md) — The Rest Is History episode on slavery's constitutional, economic, territorial, federal, partisan, judicial, and secession mechanisms before Fort Sumter.
 - [199. Stonehenge](sources/199-stonehenge-glt3612348466.md) — The Rest Is History conversation with Mike Pitts on Stonehenge's changing phases, stone transport, burials, solstice alignment, collective construction, and archaeological uncertainty.
 - [191. Childbirth](sources/191-childbirth-glt5119375504.md) — The Rest Is History conversation with Sara Read on female birth communities, early-modern midwifery, religious and parish duties, medicalisation, popular myths, and continuity across changing childbirth cultures.
+- [189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)](sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202.md) — The Rest Is History survey of Hawke-Keating reform, Howard's conservative era, repeated leadership spills, and Australia's contested international orientation.
 
 ## Entities
 - [Sara Read](entities/SaraRead.md) — Literary historian connecting early-modern reproductive experience, medical texts, female practical knowledge, and changing birth institutions.
@@ -15189,6 +15190,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arsinoe IV](entities/ArsinoeIV.md) — Ptolemaic princess and rival queen who escaped Caesar's custody during the Alexandrian War.
 
 - [Helene Langevin](entities/HeleneLangevin.md) — Researcher cited for fascia, stretching, inflammation, fibrosis, and animal-tumor work whose clinical implications remain explicitly bounded.
+- [Bob Hawke](entities/BobHawke.md) — Labor prime minister joining union authority and universal healthcare to market-opening economic reform.
+- [Paul Keating](entities/PaulKeating.md) — Treasurer and prime minister connecting reform, reconciliation, republicanism, Asian engagement, and parliamentary combat.
+- [John Howard](entities/JohnHoward.md) — Long-serving conservative prime minister associated with monarchy, the U.S. alliance, borders, and cross-class electoral appeal.
+- [Kevin Rudd](entities/KevinRudd.md) — Mandarin-speaking former diplomat and crisis-response prime minister central to the Rudd-Gillard-Rudd leadership cycle.
+- [Julia Gillard](entities/JuliaGillard.md) — Australia's first woman prime minister, minority-government leader, and author of the parliamentary misogyny speech.
+- [Tony Abbott](entities/TonyAbbott.md) — British-born Catholic conservative linked to monarchism, climate skepticism, hard-line borders, and internal removal.
+- [Malcolm Turnbull](entities/MalcolmTurnbull.md) — Lawyer, republican campaigner, and liberal conservative who both gained and lost the premiership through party-room challenge.
+- [Scott Morrison](entities/ScottMorrison.md) — Pentecostal conservative prime minister profiled through bushfires, COVID-19, AUKUS, and the Djokovic dispute.
 
 ## Concepts
 - [Childbirth History](concepts/ChildbirthHistory.md) — Continuity-with-change framework joining birth physiology to changing caregivers, settings, rituals, institutions, risks, and meanings.
@@ -24346,5 +24355,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trauma Witnessing and Language](concepts/TraumaWitnessingAndLanguage.md) — Process of bringing hidden trauma into paced language before a receptive self or other while preserving crisis boundaries.
 - [Therapy Fit and Intensity](concepts/TherapyFitAndIntensity.md) — Framework matching rapport, method flexibility, client ownership, frequency, and level of care to goals and safety.
 - [Psychiatric Medication as Support](concepts/PsychiatricMedicationAsSupport.md) — Diagnosis- and purpose-matched use of medication to support function or therapy without treating it as a complete explanation or cure.
+- [Hawke-Keating Reform Settlement](concepts/HawkeKeatingReformSettlement.md) — Australian Labor combination of universal social provision, union legitimacy, market liberalization, and globalization.
 
 ## Syntheses

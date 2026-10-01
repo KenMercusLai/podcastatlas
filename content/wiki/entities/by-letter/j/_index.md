@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 11756
+wiki_total_pages: 11764
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -836,6 +836,9 @@ wiki_pages:
   - key: "JohnHopeSimpson"
     title: "John Hope Simpson"
     url: "/wiki/entities/johnhopesimpson/"
+  - key: "JohnHoward"
+    title: "John Howard"
+    url: "/wiki/entities/johnhoward/"
   - key: "JohnHume"
     title: "John Hume"
     url: "/wiki/entities/johnhume/"
@@ -1178,6 +1181,9 @@ wiki_pages:
   - key: "JuliaDruskin"
     title: "Julia Druskin"
     url: "/wiki/entities/juliadruskin/"
+  - key: "JuliaGillard"
+    title: "Julia Gillard"
+    url: "/wiki/entities/juliagillard/"
   - key: "JuliaSamuel"
     title: "Julia Samuel / 朱利亚·萨米尔"
     url: "/wiki/entities/juliasamuel/"

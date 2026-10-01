@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2155
+topic_total_pages: 2156
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1507,6 +1507,9 @@ topic_concepts:
   - key: "HardwareTalentSpillover"
     title: "Hardware Talent Spillover"
     url: "/wiki/concepts/hardwaretalentspillover/"
+  - key: "HawkeKeatingReformSettlement"
+    title: "Hawke-Keating Reform Settlement"
+    url: "/wiki/concepts/hawkekeatingreformsettlement/"
   - key: "HealthcarePayerHorizonMismatch"
     title: "Healthcare Payer Horizon Mismatch"
     url: "/wiki/concepts/healthcarepayerhorizonmismatch/"

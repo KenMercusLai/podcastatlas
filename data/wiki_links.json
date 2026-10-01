@@ -807,6 +807,10 @@
     "title": "187.豌豆公主：高敏和混沌是你真名",
     "url": "/wiki/sources/187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166/"
   },
+  "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202": {
+    "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
+    "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+  },
   "19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437": {
     "title": "19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举”",
     "url": "/wiki/sources/19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437/"
@@ -11618,6 +11622,10 @@
   "BobChapek": {
     "title": "Bob Chapek",
     "url": "/wiki/entities/bobchapek/"
+  },
+  "BobHawke": {
+    "title": "Bob Hawke",
+    "url": "/wiki/entities/bobhawke/"
   },
   "BobIger": {
     "title": "Bob Iger",
@@ -34175,6 +34183,10 @@
     "title": "Hawaii / 夏威夷",
     "url": "/wiki/entities/hawaii/"
   },
+  "HawkeKeatingReformSettlement": {
+    "title": "Hawke-Keating Reform Settlement",
+    "url": "/wiki/concepts/hawkekeatingreformsettlement/"
+  },
   "HawkerCentre": {
     "title": "Hawker Centre / 食阁",
     "url": "/wiki/concepts/hawkercentre/"
@@ -41015,6 +41027,10 @@
     "title": "John Hope Simpson",
     "url": "/wiki/entities/johnhopesimpson/"
   },
+  "JohnHoward": {
+    "title": "John Howard",
+    "url": "/wiki/entities/johnhoward/"
+  },
   "JohnHume": {
     "title": "John Hume",
     "url": "/wiki/entities/johnhume/"
@@ -41570,6 +41586,10 @@
   "JuliaDruskin": {
     "title": "Julia Druskin",
     "url": "/wiki/entities/juliadruskin/"
+  },
+  "JuliaGillard": {
+    "title": "Julia Gillard",
+    "url": "/wiki/entities/juliagillard/"
   },
   "JuliaSamuel": {
     "title": "Julia Samuel / 朱利亚·萨米尔",
@@ -42326,6 +42346,10 @@
   "KevinMitchell": {
     "title": "Kevin Mitchell",
     "url": "/wiki/entities/kevinmitchell/"
+  },
+  "KevinRudd": {
+    "title": "Kevin Rudd",
+    "url": "/wiki/entities/kevinrudd/"
   },
   "KevinWarsh": {
     "title": "Kevin Warsh",
@@ -48138,6 +48162,10 @@
   "MalcolmGaskell": {
     "title": "Malcolm Gaskell",
     "url": "/wiki/entities/malcolmgaskell/"
+  },
+  "MalcolmTurnbull": {
+    "title": "Malcolm Turnbull",
+    "url": "/wiki/entities/malcolmturnbull/"
   },
   "MaleEmotionalIntimacyNeed": {
     "title": "Male Emotional Intimacy Need / 男性情感亲密需要",
@@ -56946,6 +56974,10 @@
   "PaulHeyne": {
     "title": "Paul Heyne / 保罗·海恩",
     "url": "/wiki/entities/paulheyne/"
+  },
+  "PaulKeating": {
+    "title": "Paul Keating",
+    "url": "/wiki/entities/paulkeating/"
   },
   "PaulKruger": {
     "title": "Paul Kruger",
@@ -66311,6 +66343,10 @@
     "title": "Scott Lake",
     "url": "/wiki/entities/scottlake/"
   },
+  "ScottMorrison": {
+    "title": "Scott Morrison",
+    "url": "/wiki/entities/scottmorrison/"
+  },
   "ScottPage": {
     "title": "Scott Page",
     "url": "/wiki/entities/scottpage/"
@@ -75214,6 +75250,10 @@
   "TonyACRCloud": {
     "title": "Tony / ACR Cloud",
     "url": "/wiki/entities/tonyacrcloud/"
+  },
+  "TonyAbbott": {
+    "title": "Tony Abbott",
+    "url": "/wiki/entities/tonyabbott/"
   },
   "TonyBenn": {
     "title": "Tony Benn",

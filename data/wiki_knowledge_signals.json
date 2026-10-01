@@ -16086,9 +16086,9 @@
       "url": "/wiki/concepts/austerity/"
     },
     "Australia": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 5,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
@@ -16152,9 +16152,16 @@
           "show": "The Rest Is History",
           "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
           "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        },
+        {
+          "episode_file": "GLT2222829202 [GLT2222829202].md",
+          "key": "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202",
+          "show": "The Rest Is History",
+          "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
+          "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-01",
       "url": "/wiki/entities/australia/"
     },
     "AustralianHealthcareAccessTriage": {
@@ -21995,6 +22002,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/boronglatehan/"
+    },
+    "BobHawke": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2222829202 [GLT2222829202].md",
+          "key": "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202",
+          "show": "The Rest Is History",
+          "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
+          "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/bobhawke/"
     },
     "BobMackie": {
       "episode_count": 1,
@@ -82808,6 +82831,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/hatuey/"
     },
+    "HawkeKeatingReformSettlement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2222829202 [GLT2222829202].md",
+          "key": "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202",
+          "show": "The Rest Is History",
+          "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
+          "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/hawkekeatingreformsettlement/"
+    },
     "HazelGroveCustoms": {
       "episode_count": 1,
       "show_count": 1,
@@ -101559,6 +101598,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/johngroner/"
     },
+    "JohnHoward": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2222829202 [GLT2222829202].md",
+          "key": "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202",
+          "show": "The Rest Is History",
+          "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
+          "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/johnhoward/"
+    },
     "JohnIIOfFrance": {
       "episode_count": 2,
       "show_count": 1,
@@ -102815,6 +102870,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/julesrimet/"
     },
+    "JuliaGillard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2222829202 [GLT2222829202].md",
+          "key": "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202",
+          "show": "The Rest Is History",
+          "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
+          "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/juliagillard/"
+    },
     "JulietteBruce": {
       "episode_count": 1,
       "show_count": 1,
@@ -104027,6 +104098,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/kevinding/"
+    },
+    "KevinRudd": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2222829202 [GLT2222829202].md",
+          "key": "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202",
+          "show": "The Rest Is History",
+          "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
+          "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/kevinrudd/"
     },
     "KevinWarsh": {
       "episode_count": 4,
@@ -120346,6 +120433,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/malcolmgaskell/"
+    },
+    "MalcolmTurnbull": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2222829202 [GLT2222829202].md",
+          "key": "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202",
+          "show": "The Rest Is History",
+          "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
+          "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/malcolmturnbull/"
     },
     "MaleEmotionalIntimacyNeed": {
       "episode_count": 4,
@@ -141281,6 +141384,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/paulekman/"
     },
+    "PaulKeating": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2222829202 [GLT2222829202].md",
+          "key": "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202",
+          "show": "The Rest Is History",
+          "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
+          "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/paulkeating/"
+    },
     "PaulKruger": {
       "episode_count": 1,
       "show_count": 1,
@@ -148993,9 +149112,9 @@
       "url": "/wiki/concepts/primemembershipflywheel/"
     },
     "PrimeMinisterialRegicide": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7608869237 [GLT7608869237].md",
@@ -149003,6 +149122,13 @@
           "show": "The Rest Is History",
           "title": "193. How Prime Ministers Fall",
           "url": "/wiki/sources/193-how-prime-ministers-fall-glt7608869237/"
+        },
+        {
+          "episode_file": "GLT2222829202 [GLT2222829202].md",
+          "key": "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202",
+          "show": "The Rest Is History",
+          "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
+          "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
         }
       ],
       "updated": "2026-10-01",
@@ -163859,6 +163985,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/scottgalloway/"
+    },
+    "ScottMorrison": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2222829202 [GLT2222829202].md",
+          "key": "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202",
+          "show": "The Rest Is History",
+          "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
+          "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/scottmorrison/"
     },
     "ScreenActorsGuild": {
       "episode_count": 1,
@@ -185053,6 +185195,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/tonyacrcloud/"
+    },
+    "TonyAbbott": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2222829202 [GLT2222829202].md",
+          "key": "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202",
+          "show": "The Rest Is History",
+          "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
+          "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/tonyabbott/"
     },
     "TonyBenn": {
       "episode_count": 6,

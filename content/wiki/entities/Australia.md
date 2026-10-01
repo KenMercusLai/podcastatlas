@@ -12,7 +12,8 @@ sources:
   - 676-the-first-world-war-churchills-calamity-part-6-glt1275431911
   - vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861
   - 381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057
-last_updated: 2026-09-27
+  - 189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202
+last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,7 +21,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Australia is a country entity used by the wiki across Indigenous-European encounter, policy, climate, critical minerals, democratic design, online safety, [[AnzacSpirit]] memory, and consumer health.
+Australia is a country entity used by the wiki across Indigenous-European encounter, political leadership, economic reform, strategic identity, public policy, climate, critical minerals, democratic design, [[AnzacSpirit]] memory, online safety, and consumer health.
 
 ## Current Profile
 
@@ -32,12 +33,14 @@ The supplement branch comes from [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-
 
 The earliest branch currently held by the wiki concerns first contact and possession. At Botany Bay and during the Endeavour's repair period, [[AboriginalAustralians|Aboriginal Australians]] appear as people who can ignore, refuse, resist, communicate, and selectively accommodate rather than as passive witnesses to European discovery. Cook's eastern-coast charting and British claim as New South Wales join scientific knowledge to possession without Indigenous consent.
 
+The modern political branch runs from the [[HawkeKeatingReformSettlement]] through [[JohnHoward|John Howard's]] long conservative government into repeated internal replacements involving [[KevinRudd|Kevin Rudd]], [[JuliaGillard|Julia Gillard]], [[TonyAbbott|Tony Abbott]], [[MalcolmTurnbull|Malcolm Turnbull]], and [[ScottMorrison|Scott Morrison]]. It presents Australian national direction as a continuing argument among British inheritance, the U.S. alliance, Asian engagement, republicanism, Indigenous reconciliation, border restriction, mining, and climate risk.
+
 ## Key Characteristics
 
-- Australia appears as an advanced water-market policy case with both efficiency gains and fairness pressure.
-- It is repeatedly used as a model or comparison point for youth online age restrictions and age verification.
-- It is a plausible critical-minerals partner in rare-earth supply and processing discussions.
-- Its 2019-20 Black Summer fires make it a climate and wildfire-feedback case.
+- Modern politics joins market-opening Labor reform, conservative consolidation, and repeated party-room leadership replacement.
+- National orientation remains contested among British inheritance, U.S. alliance, Asian engagement, republicanism, reconciliation, borders, mining, and climate.
+- Water markets and online age restrictions make Australia an influential but contested policy laboratory.
+- Critical-mineral capacity and Black Summer fires connect resource wealth to climate and strategic pressure.
 - Gallipoli gives Australia a national-memory branch through post-federation sacrifice and [[AnzacSpirit]].
 - Its supplement industry rests on real manufacturing capability and light efficacy oversight rather than demonstrated product benefit.
 - Its first-voyage branch joins Aboriginal autonomy and resistance to British mapping, armed contact, collecting, and possession without consent.
@@ -50,10 +53,11 @@ The earliest branch currently held by the wiki concerns first contact and posses
 - Gallipoli memory branch: [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] says Gallipoli mattered because Australia had federated only in 1901 and the campaign fed a distinct national identity through Anzac sacrifice and Anzac Day.
 - Supplement-industry branch: [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861]] traces colonial self-medication, compounding pharmacists, naturopathy and health-food retail, a purpose-built contract-manufacturing sector, a listed-heavy [[AustralianTherapeuticGoodsRegulation|therapeutic-goods regime]], and the marketing plus daigou and bonded-warehouse route that carried Australian supplement brands into China.
 - Cook encounter branch: [[381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057]] describes Aboriginal indifference to the Endeavour, resistance to British landing, limited later exchange, coastal charting, and a territorial claim unsupported by local consent.
+- Modern leadership and reform branch: [[189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202]] connects the Hawke-Keating reform program to Howard's long government and the later Rudd-Gillard-Rudd and Abbott-Turnbull-Morrison leadership changes.
 
 ## Qualifications
 
-The Australia page remains source-shaped rather than comprehensive. Water-market claims, age-ban effectiveness, wildfire feedbacks, rare-earth partnership feasibility, Gallipoli memory, and the supplement-industry account are each bounded to specific podcast discussions and should not be treated as a complete national profile. The Cook branch relies mainly on British journals and collapses many distinct Aboriginal peoples and languages into a broad label; its spellings, intentions, translations, and encounter details remain qualified.
+The Australia page remains source-shaped rather than comprehensive. Water-market claims, age-ban effectiveness, wildfire feedbacks, rare-earth partnership feasibility, Gallipoli memory, supplement regulation, and political leadership are each bounded to specific podcast discussions. The prime-minister episode gives Hawke and Keating more depth than later leaders and does not prove that leadership spills caused declining governance. The Cook branch relies mainly on British journals and collapses many distinct Aboriginal peoples and languages into a broad label; its spellings, intentions, translations, and encounter details remain qualified.
 
 ## What Changed
 
@@ -61,6 +65,7 @@ The Australia page remains source-shaped rather than comprehensive. Water-market
 - Added the Gallipoli and Anzac national-memory branch.
 - Added the supplement-industry and consumer-health branch.
 - Added the first-voyage branch centered on Aboriginal agency, British force, eastern-coast mapping, and possession without consent.
+- Added modern political leadership, Hawke-Keating reform, and the contested Britain-U.S.-Asia orientation.
 
 ## Relationships
 
@@ -84,3 +89,8 @@ The Australia page remains source-shaped rather than comprehensive. Water-market
 - [[AboriginalAustralians]] - Indigenous peoples whose refusal and resistance complicate the British discovery frame.
 - [[JamesCook]] - navigator whose party charted the eastern coast and claimed it as New South Wales.
 - [[ScientificExplorationImperialClaim]] - framework joining the voyage's observation and mapping to possession.
+- [[BobHawke]] and [[PaulKeating]] - Labor partnership joining social provision to market-opening reform.
+- [[HawkeKeatingReformSettlement]] - concept for that hybrid governing program and its international afterlife.
+- [[JohnHoward]] - long conservative premiership between Labor reform and the spill era.
+- [[KevinRudd]], [[JuliaGillard]], [[TonyAbbott]], [[MalcolmTurnbull]], and [[ScottMorrison]] - modern leadership sequence shaped by party-room replacement.
+- [[PrimeMinisterialRegicide]] - comparative framework for internal removal in Westminster systems.
