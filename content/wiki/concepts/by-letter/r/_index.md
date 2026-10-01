@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9059
+wiki_total_pages: 9061
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "RagweedEcologicalFeedback"
     title: "Ragweed Ecological Feedback"
     url: "/wiki/concepts/ragweedecologicalfeedback/"
+  - key: "RailIntegratedSuburbanDevelopment"
+    title: "Rail-Integrated Suburban Development"
+    url: "/wiki/concepts/railintegratedsuburbandevelopment/"
   - key: "RainExposureFootCareBoundary"
     title: "Rain Exposure and Foot-Care Boundary / 雨后蹚水足部照护边界"
     url: "/wiki/concepts/rainexposurefootcareboundary/"
@@ -1184,6 +1187,9 @@ wiki_pages:
   - key: "RoutineAgentAutomation"
     title: "Routine Agent Automation"
     url: "/wiki/concepts/routineagentautomation/"
+  - key: "RoyalAnimalSpectacle"
+    title: "Royal Animal Spectacle"
+    url: "/wiki/concepts/royalanimalspectacle/"
   - key: "RoyalAnointingTradition"
     title: "Royal Anointing Tradition"
     url: "/wiki/concepts/royalanointingtradition/"

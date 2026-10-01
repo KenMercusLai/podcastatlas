@@ -123968,6 +123968,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/metisheroiccunning/"
     },
+    "Metroland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4986306476 [GLT4986306476].md",
+          "key": "213-london-moments-part-5-glt4986306476",
+          "show": "The Rest Is History",
+          "title": "213. London: Moments (Part 5)",
+          "url": "/wiki/sources/213-london-moments-part-5-glt4986306476/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/metroland/"
+    },
     "MetropolitanPolice": {
       "episode_count": 1,
       "show_count": 1,
@@ -123983,6 +123999,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/metropolitanpolice/"
+    },
+    "MetropolitanRailway": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4986306476 [GLT4986306476].md",
+          "key": "213-london-moments-part-5-glt4986306476",
+          "show": "The Rest Is History",
+          "title": "213. London: Moments (Part 5)",
+          "url": "/wiki/sources/213-london-moments-part-5-glt4986306476/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/metropolitanrailway/"
     },
     "MexicaEmpire": {
       "episode_count": 8,
@@ -151422,6 +151454,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/raidersofthelostark/"
     },
+    "RailIntegratedSuburbanDevelopment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4986306476 [GLT4986306476].md",
+          "key": "213-london-moments-part-5-glt4986306476",
+          "show": "The Rest Is History",
+          "title": "213. London: Moments (Part 5)",
+          "url": "/wiki/sources/213-london-moments-part-5-glt4986306476/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/railintegratedsuburbandevelopment/"
+    },
     "RainExposureFootCareBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -158279,6 +158327,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/roybaumeister/"
+    },
+    "RoyalAnimalSpectacle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4986306476 [GLT4986306476].md",
+          "key": "213-london-moments-part-5-glt4986306476",
+          "show": "The Rest Is History",
+          "title": "213. London: Moments (Part 5)",
+          "url": "/wiki/sources/213-london-moments-part-5-glt4986306476/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/concepts/royalanimalspectacle/"
     },
     "RoyalAnointingTradition": {
       "episode_count": 1,
@@ -182393,6 +182457,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/touristauthenticityperformance/"
+    },
+    "TowerOfLondon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4986306476 [GLT4986306476].md",
+          "key": "213-london-moments-part-5-glt4986306476",
+          "show": "The Rest Is History",
+          "title": "213. London: Moments (Part 5)",
+          "url": "/wiki/sources/213-london-moments-part-5-glt4986306476/"
+        }
+      ],
+      "updated": "2026-10-01",
+      "url": "/wiki/entities/toweroflondon/"
     },
     "TownPersonalAI": {
       "episode_count": 1,

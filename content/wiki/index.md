@@ -3360,8 +3360,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [216. Pigeons](sources/216-pigeons-glt2770080110.md) — The Rest Is History episode on pigeon domestication, symbolism, communication, Operation Columba, wartime intelligence, fallback systems, and passenger-pigeon extinction.
 - [215. Stalingrad and the Red Army (Part 2)](sources/215-stalingrad-and-the-red-army-part-2-glt4269997308.md) — The Rest Is History episode on Soviet urban adaptation, Operation Uranus, the Sixth Army's collapse, Pavlov's House, and contested war memory.
 - [214. The Battle of Stalingrad (Part 1)](sources/214-the-battle-of-stalingrad-part-1-glt4564292022.md) — The Rest Is History episode on Case Blue's oil logic and logistical overreach, the bombing of Stalingrad, Soviet coercive discipline, and close-range urban defence.
+- [213. London: Moments (Part 5)](sources/213-london-moments-part-5-glt4986306476.md) — The Rest Is History finale pairing the Tower menagerie with the Metropolitan Railway's transport, property, publicity, and Metroland suburban project.
 
 ## Entities
+- [Tower of London](entities/TowerOfLondon.md) — Royal fortress whose menagerie joined diplomatic animal gifts, public spectacle, care limits, reform, and folklore.
+- [Metropolitan Railway](entities/MetropolitanRailway.md) — Early underground railway that integrated route expansion, surplus-land development, publicity, and suburban demand.
+- [Metroland](entities/Metroland.md) — Railway-branded northwest London corridor that became shorthand for commuter aspiration, nostalgia, and class anxiety.
 - [Kyle Harper](entities/KyleHarper.md) — Historian connecting Roman decline to climate, disease ecology, demography, connectivity, and state capacity within a multi-causal model.
 - [Constantinople](entities/Constantinople.md) — Eastern Roman capital whose geography, infrastructure, institutions, Christianity, and Hippodrome politics sustained imperial power.
 - [Jake Paul](entities/JakePaul.md) — Creator, boxer, promoter, investor, and philanthropist connecting audience reach to a cross-domain business flywheel.
@@ -15077,6 +15081,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joseph Stalin](entities/JosephStalin.md) — Soviet leader whose city symbolism, industrial policy, strategic redeployment, and Order 227 shaped the Stalingrad setting.
 
 ## Concepts
+- [Royal Animal Spectacle](concepts/RoyalAnimalSpectacle.md) — Diplomatic and dynastic animal display whose prestige creates care obligations that spectacle alone cannot satisfy.
+- [Rail-Integrated Suburban Development](concepts/RailIntegratedSuburbanDevelopment.md) — Model joining transport, property, amenities, and lifestyle marketing to create recurring suburban passenger demand.
 - [Antonine Plague](concepts/AntoninePlague.md) — Second-century trans-imperial pandemic treated as a severe but bounded shock with unresolved pathogen and mortality.
 - [Plague of Cyprian](concepts/PlagueOfCyprian.md) — Third-century epidemic understood through feedback with civil war, provisioning failure, monetary disruption, and frontier pressure.
 - [Imperial Connectivity Disease Risk](concepts/ImperialConnectivityDiseaseRisk.md) — Systems tradeoff in which cities, transport, trade, armies, grain, migration, and animal contact create capacity while amplifying disease exposure.

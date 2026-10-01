@@ -1355,6 +1355,13 @@
       "url": "/topics/science/"
     }
   ],
+  "213-london-moments-part-5-glt4986306476": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "214-the-battle-of-stalingrad-part-1-glt4564292022": [
     {
       "key": "history",
@@ -67052,6 +67059,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "RoyalAnimalSpectacle": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RoyalExecutionLegitimacy": [

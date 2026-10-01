@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2885
+topic_total_pages: 2886
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3337,6 +3337,9 @@ topic_concepts:
   - key: "RomanProvincialConsolidation"
     title: "Roman Provincial Consolidation"
     url: "/wiki/concepts/romanprovincialconsolidation/"
+  - key: "RoyalAnimalSpectacle"
+    title: "Royal Animal Spectacle"
+    url: "/wiki/concepts/royalanimalspectacle/"
   - key: "RoyalExecutionLegitimacy"
     title: "Royal Execution Legitimacy"
     url: "/wiki/concepts/royalexecutionlegitimacy/"
