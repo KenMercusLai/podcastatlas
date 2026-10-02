@@ -10,6 +10,7 @@ sources:
   - the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449
   - the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019
   - how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614
+  - psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-28
 ---
@@ -36,6 +37,8 @@ Carhart-Harris adds a classic-psychedelic therapy case. The source treats prepar
 
 The solo psilocybin episode makes eligibility and dose-response limits more explicit. It flags psychosis or bipolar vulnerability, close family history, younger age, pregnancy or breastfeeding, serotonergic medication, acute increases in heart rate and blood pressure, hazardous environments, and the need for sober trained guides. It also pairs stronger benefit at a higher dose in one depression trial with more adverse events, including suicidal ideation and self-harm-related concerns, so average efficacy cannot substitute for individual screening and monitoring.
 
+Johnson adds an earlier protocol and repeated-exposure boundary. Psychiatric interviews, cardiovascular checks, family-history caution, monitored vital signs, pure measured drug, guides, and follow-up distinguish controlled therapy from recreational exposure. He also separates rare persistent perceptual symptoms from folklore about drugs stored in body fat and treats the absence of such cases in discussed research cohorts as reassuring but not proof of zero risk. Finally, weak [[PsychedelicMicrodosingEvidence]] and a theoretical serotonin 2B cardiac concern show why low subjective intensity is not equivalent to demonstrated benefit or established long-term safety.
+
 ## Key Claims
 - Psychedelics are potential psychiatric tools only when condition-specific evidence supports them.
 - Strong changes to cognition, memory, physiology, self-evaluation, or perceived reality make casual use a poor clinical analogy.
@@ -43,7 +46,7 @@ The solo psilocybin episode makes eligibility and dose-response limits more expl
 - Addiction, lasting undesirable change, cardiac effects, and destabilizing experience require compound-specific caution.
 - Cultural, religious, hopeful, or transformative narratives do not remove screening, supervision, follow-up, and mechanism uncertainty.
 - A therapy model's account of altered-state access does not replace compound-specific evidence, practitioner standards, emergency planning, and long-term follow-up.
-- Personal reports, early or unpublished findings, and clinical-trial benefit do not establish individual suitability or generalize across product identity, dose, setting, co-use, participant selection, therapeutic support, and time.
+- Personal reports, early or unpublished findings, clinical-trial benefit, or low subjective intensity do not establish individual suitability, efficacy, or long-term safety across product identity, dose, setting, co-use, participant selection, therapeutic support, and time.
 
 ## Evidence
 - Trial gate - [[essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263]] says these treatments should be used if rigorous trials show they work and not used if they fail.
@@ -56,15 +59,15 @@ The solo psilocybin episode makes eligibility and dose-response limits more expl
 - Clinical-versus-recreational contrast - [[the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449]] pairs structured MDMA-assisted PTSD therapy with contamination, overheating, cardiovascular, dose, frequency, caffeine, and polydrug cautions.
 - Classic-psychedelic protocol and durability - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]] pairs supported psilocybin sessions and integration with acute distress, relapse, unpublished findings, legal barriers, contamination, and professional-conduct safeguards.
 - Psilocybin eligibility and dose-response - [[how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614]] pairs psychiatric, age, pregnancy, medication, physiological, environmental, and legal cautions with dose-dependent benefit and adverse-event signals.
+- Screening and protocol sequence - [[psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247]] describes psychiatric and cardiovascular screening, pure measured psilocybin, monitored vital signs, guides, writing, and follow-up.
+- Persistent-effect and microdosing boundaries - [[psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247]] distinguishes rare persistent perceptual symptoms from flashback folklore and pairs unproven microdosing benefits with theoretical repeated-exposure risk.
 
 ## Counterevidence & Qualifications
 This concept is a safety boundary, not a claim that psychedelics are broadly approved, safe for all people, legal in all contexts, non-addictive, or superior to standard psychiatric care. Personal histories of depression, benefit, fear, or transformation cannot determine another person's eligibility. Trial claims, legal status, regulatory progress, relapse, and provider standards must be interpreted in their publication-date context. The page does not provide dosing, sourcing, ceremony, or self-treatment instructions; screening, contraindication, emergency, and follow-up decisions belong in qualified clinical and legal contexts.
 
 ## What Changed
-- Added the MDMA case showing that positive clinical evidence depends on product identity, participant selection, psychotherapy, monitoring, and integration.
-- Made heat, contamination, caffeine, cardiovascular strain, and polydrug exposure explicit clinical-versus-recreational boundaries.
-- Added the classic-psychedelic case showing that setting, guides, acute distress, integration, relapse, and professional conduct are parts of the safety boundary.
-- Added psilocybin-specific eligibility, medication, pregnancy, age, physiological, environmental, and dose-response constraints.
+- Added the earlier Johnson protocol's psychiatric and cardiovascular screening, measured product, physiological monitoring, and follow-up sequence.
+- Added rare persistent perceptual symptoms and weak microdosing evidence as distinct long-term safety and efficacy boundaries.
 
 ## Related Concepts
 - [[PsychiatricMedicationSupervisionBoundary]] - broader psychiatric treatment supervision rule updated by this episode.
@@ -79,3 +82,4 @@ This concept is a safety boundary, not a claim that psychedelics are broadly app
 - [[MDMANeurotoxicityRisk]] - compound-specific evidence and exposure-context qualification.
 - [[PsychedelicTherapyMechanism]] - combined mechanism hypothesis that remains bounded by clinical evidence and safety.
 - [[PsychedelicIntegration]] - follow-up process whose value and delivery require qualified evaluation.
+- [[PsychedelicMicrodosingEvidence]] - low-dose efficacy and cumulative-exposure uncertainty branch.

@@ -3550,6 +3550,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar](sources/scim9724505974-scim9724505974.md) — Huberman Lab interview on melanopsin light sensing, circadian alignment, mood pathways, meal and exercise timing, and internal-time-aware travel adaptation.
 - [Trump and tech leaders agree to voluntary AI safety accord](sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128.md) — Marketplace Tech on a voluntary AI safety accord, FTC scrutiny of AI labs, and documentary-ad reversals under platform and political pressure.
 - [Controlling Your Dopamine For Motivation, Focus & Satisfaction](sources/scim6449668176-scim6449668176.md) — Huberman Lab solo episode on dopamine baseline, peaks and troughs, reward history, anti-stacking, effort reward, cold exposure, social connection, and clinical boundaries.
+- [Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247.md) — Huberman Lab interview on psychedelic classes, clinical protocols, self-representation, integration, microdosing evidence, persistent perceptual symptoms, risks, and regulation.
 
 ## Entities
 - [考芬 / Kaofen](entities/KaofenFilmScholar.md) — Film-studies commentator connecting cinematic form to illness, migration, disability, care, race, and class.
@@ -15645,6 +15646,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Leonidas](entities/Leonidas.md) — Spartan king whose command, death at Thermopylae, and heroic afterlife join military defeat to sacrifice memory.
 - [Themistocles](entities/Themistocles.md) — Athenian politician and naval strategist associated with coalition persuasion, intelligence deception, Salamis, and contested memory-making.
 - [Xerxes I](entities/XerxesI.md) — Achaemenid king whose combined invasion wins at Thermopylae and burns Athens before naval defeat at Salamis.
+- [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
 
 ## Concepts
 - [Care Relationship Labor And Boundaries / 照护关系的劳动与边界](concepts/CareRelationshipLaborAndBoundaries.md) — Care as practical work, emotional labor, dignity, equality, dependency, and sustainable limits for both sides.
@@ -25054,5 +25056,6 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Battle of Thermopylae](concepts/BattleOfThermopylae.md) — Linked land-sea delaying battle remembered as noble sacrifice despite Persian outflanking and Greek military defeat.
 - [Battle of Salamis](concepts/BattleOfSalamis.md) — Naval turning point joining coalition management, deception, narrow-water tactics, Athenian training, and bounded counterfactual significance.
+- [Psychedelic Microdosing Evidence](concepts/PsychedelicMicrodosingEvidence.md) — Evidence-and-safety boundary around repeated low-dose psychedelic claims, expectancy, and cumulative exposure.
 
 ## Syntheses

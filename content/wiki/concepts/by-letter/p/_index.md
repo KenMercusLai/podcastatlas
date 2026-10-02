@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9353
+wiki_total_pages: 9354
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2171,6 +2171,9 @@ wiki_pages:
   - key: "PsychedelicLongevityHypothesis"
     title: "Psychedelic Longevity Hypothesis"
     url: "/wiki/concepts/psychedeliclongevityhypothesis/"
+  - key: "PsychedelicMicrodosingEvidence"
+    title: "Psychedelic Microdosing Evidence"
+    url: "/wiki/concepts/psychedelicmicrodosingevidence/"
   - key: "PsychedelicOrdinaryFreedom"
     title: "Psychedelic Ordinary Freedom"
     url: "/wiki/concepts/psychedelicordinaryfreedom/"

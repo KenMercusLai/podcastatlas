@@ -27933,3 +27933,11 @@ Added source `99-thermopylae-salamis-episode-2-glt9857497334`; created `BattleOf
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson
+
+Added source `psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247`; created `MatthewJohnson` and `PsychedelicMicrodosingEvidence`; and resynthesized `PsychedelicTherapyMechanism`, `PsychedelicIntegration`, and `PsychedelicClinicalSupervisionBoundary` from their complete preserved evidence inventories. Core synthesis: psychedelic therapy is a screened, supported intervention whose candidate mechanisms include self-representation, agency, and changed emotional relation to memory; integration includes writing, next-day review, and delaying major decisions; and low subjective intensity does not establish microdosing benefit or long-term safety. No settled contradiction was adopted. Persistent perceptual symptoms remain rare and poorly explained, while dose, adolescent, traumatic-brain-injury, legal, regulatory, and receptor-risk claims remain source-scoped to a September 2021 public interview. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,491-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

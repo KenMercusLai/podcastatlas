@@ -131176,6 +131176,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/matthewhill/"
     },
+    "MatthewJohnson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6100326247 [SCIM6100326247].md",
+          "key": "psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247",
+          "show": "Huberman Lab",
+          "title": "Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
+          "url": "/wiki/sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/matthewjohnson/"
+    },
     "MatthewMacDougall": {
       "episode_count": 1,
       "show_count": 1,
@@ -160834,9 +160850,9 @@
       "url": "/wiki/entities/psilocybinmushrooms/"
     },
     "PsychedelicClinicalSupervisionBoundary": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM5296180263 [SCIM5296180263].md",
@@ -160886,15 +160902,22 @@
           "show": "Huberman Lab",
           "title": "How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks",
           "url": "/wiki/sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614/"
+        },
+        {
+          "episode_file": "SCIM6100326247 [SCIM6100326247].md",
+          "key": "psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247",
+          "show": "Huberman Lab",
+          "title": "Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
+          "url": "/wiki/sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247/"
         }
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/psychedelicclinicalsupervisionboundary/"
     },
     "PsychedelicIntegration": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8487331019 [SCIM8487331019].md",
@@ -160909,10 +160932,33 @@
           "show": "Huberman Lab",
           "title": "How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks",
           "url": "/wiki/sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614/"
+        },
+        {
+          "episode_file": "SCIM6100326247 [SCIM6100326247].md",
+          "key": "psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247",
+          "show": "Huberman Lab",
+          "title": "Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
+          "url": "/wiki/sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247/"
         }
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/psychedelicintegration/"
+    },
+    "PsychedelicMicrodosingEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6100326247 [SCIM6100326247].md",
+          "key": "psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247",
+          "show": "Huberman Lab",
+          "title": "Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
+          "url": "/wiki/sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/psychedelicmicrodosingevidence/"
     },
     "PsychedelicOrdinaryFreedom": {
       "episode_count": 2,
@@ -160938,9 +160984,9 @@
       "url": "/wiki/concepts/psychedelicordinaryfreedom/"
     },
     "PsychedelicTherapyMechanism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8487331019 [SCIM8487331019].md",
@@ -160955,6 +161001,13 @@
           "show": "Huberman Lab",
           "title": "How Psilocybin Can Rewire Our Brain, Its Therapeutic Benefits & Its Risks",
           "url": "/wiki/sources/how-psilocybin-can-rewire-our-brain-its-therapeutic-benefits-its-risks-scim8168511614/"
+        },
+        {
+          "episode_file": "SCIM6100326247 [SCIM6100326247].md",
+          "key": "psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247",
+          "show": "Huberman Lab",
+          "title": "Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
+          "url": "/wiki/sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247/"
         }
       ],
       "updated": "2026-09-28",
