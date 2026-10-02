@@ -13638,6 +13638,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AshrafGhani": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AskJeeves": [
     {
       "key": "technology",
@@ -37537,6 +37544,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GreatGame": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GreatNorthernExpedition": [
     {
       "key": "science",
@@ -38572,6 +38586,13 @@
     }
   ],
   "Hamas": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "HamidKarzai": [
     {
       "key": "politics",
       "label": "Politics",
@@ -42672,6 +42693,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ImperialThreatPerceptionFeedback": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ImperialTourPoliticalTheater": [

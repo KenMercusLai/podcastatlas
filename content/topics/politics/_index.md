@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3003
+topic_total_pages: 3007
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1738,6 +1738,9 @@ topic_concepts:
   - key: "GrayMarketPeptides"
     title: "Gray-Market Peptides"
     url: "/wiki/concepts/graymarketpeptides/"
+  - key: "GreatGame"
+    title: "Great Game"
+    url: "/wiki/concepts/greatgame/"
   - key: "GreaterBayAreaCinema"
     title: "Greater Bay Area Cinema / 大湾区电影"
     url: "/wiki/concepts/greaterbayareacinema/"
@@ -1951,6 +1954,9 @@ topic_concepts:
   - key: "ImperialSubsidiarity"
     title: "Imperial Subsidiarity"
     url: "/wiki/concepts/imperialsubsidiarity/"
+  - key: "ImperialThreatPerceptionFeedback"
+    title: "Imperial Threat Perception Feedback"
+    url: "/wiki/concepts/imperialthreatperceptionfeedback/"
   - key: "ImperialTourPoliticalTheater"
     title: "Imperial Tour Political Theater / 帝国巡游政治剧场"
     url: "/wiki/concepts/imperialtourpoliticaltheater/"
@@ -5090,6 +5096,9 @@ topic_entities:
   - key: "ASEAN"
     title: "ASEAN"
     url: "/wiki/entities/asean/"
+  - key: "AshrafGhani"
+    title: "Ashraf Ghani"
+    url: "/wiki/entities/ashrafghani/"
   - key: "Assam"
     title: "Assam"
     url: "/wiki/entities/assam/"
@@ -5792,6 +5801,9 @@ topic_entities:
   - key: "Hamas"
     title: "Hamas"
     url: "/wiki/entities/hamas/"
+  - key: "HamidKarzai"
+    title: "Hamid Karzai"
+    url: "/wiki/entities/hamidkarzai/"
   - key: "HamiltonBurrDuel"
     title: "Hamilton-Burr Duel"
     url: "/wiki/entities/hamiltonburrduel/"

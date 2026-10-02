@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12069
+wiki_total_pages: 12079
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "AITO"
     title: "AITO / 问界"
     url: "/wiki/entities/aito/"
+  - key: "AkbarKhan"
+    title: "Akbar Khan"
+    url: "/wiki/entities/akbarkhan/"
   - key: "Akeso"
     title: "Akeso / 康方生物"
     url: "/wiki/entities/akeso/"
@@ -647,6 +650,9 @@ wiki_pages:
   - key: "AlexaPlus"
     title: "Alexa+"
     url: "/wiki/entities/alexaplus/"
+  - key: "AlexanderBurnes"
+    title: "Alexander Burnes"
+    url: "/wiki/entities/alexanderburnes/"
   - key: "AlexanderFarnese"
     title: "Alexander Farnese / Duke of Parma"
     url: "/wiki/entities/alexanderfarnese/"
@@ -1643,6 +1649,9 @@ wiki_pages:
   - key: "ASEAN"
     title: "ASEAN"
     url: "/wiki/entities/asean/"
+  - key: "AshrafGhani"
+    title: "Ashraf Ghani"
+    url: "/wiki/entities/ashrafghani/"
   - key: "AsiWind"
     title: "Asi Wind"
     url: "/wiki/entities/asiwind/"

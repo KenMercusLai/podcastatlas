@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12069
+wiki_total_pages: 12079
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "WilliamBennett"
     title: "William Bennett"
     url: "/wiki/entities/williambennett/"
+  - key: "WilliamBrydon"
+    title: "William Brydon"
+    url: "/wiki/entities/williambrydon/"
   - key: "WilliamCecil"
     title: "William Cecil / Lord Burleigh"
     url: "/wiki/entities/williamcecil/"
@@ -551,6 +554,9 @@ wiki_pages:
   - key: "WilliamCraig"
     title: "William Craig"
     url: "/wiki/entities/williamcraig/"
+  - key: "WilliamDalrymple"
+    title: "William Dalrymple"
+    url: "/wiki/entities/williamdalrymple/"
   - key: "WilliamDeresiewicz"
     title: "William Deresiewicz"
     url: "/wiki/entities/williamderesiewicz/"

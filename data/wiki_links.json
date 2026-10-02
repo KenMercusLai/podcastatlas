@@ -3363,6 +3363,10 @@
     "title": "88.别认输，惠子：在听不到喝彩的世界里，挥拳！",
     "url": "/wiki/sources/88-bie-renshu-huizi-zai-ting-budao-hecai-de-shijie-li-huiquan-708510803/"
   },
+  "88-the-first-anglo-afghan-war-glt5156371854": {
+    "title": "88. The First Anglo-Afghan War",
+    "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -6551,6 +6555,10 @@
     "title": "阿娇 / 柱子哥",
     "url": "/wiki/entities/ajiao/"
   },
+  "AkbarKhan": {
+    "title": "Akbar Khan",
+    "url": "/wiki/entities/akbarkhan/"
+  },
   "Akeso": {
     "title": "Akeso / 康方生物",
     "url": "/wiki/entities/akeso/"
@@ -6822,6 +6830,10 @@
   "AlexaPlus": {
     "title": "Alexa+",
     "url": "/wiki/entities/alexaplus/"
+  },
+  "AlexanderBurnes": {
+    "title": "Alexander Burnes",
+    "url": "/wiki/entities/alexanderburnes/"
   },
   "AlexanderFarnese": {
     "title": "Alexander Farnese / Duke of Parma",
@@ -9222,6 +9234,10 @@
   "AsanteQueenMothers": {
     "title": "Asante Queen Mothers",
     "url": "/wiki/entities/asantequeenmothers/"
+  },
+  "AshrafGhani": {
+    "title": "Ashraf Ghani",
+    "url": "/wiki/entities/ashrafghani/"
   },
   "AsiWind": {
     "title": "Asi Wind",
@@ -24087,6 +24103,10 @@
     "title": "Dorothy Arzner / 多罗西·阿兹娜",
     "url": "/wiki/entities/dorothyarzner/"
   },
+  "DostMuhammad": {
+    "title": "Dost Muhammad",
+    "url": "/wiki/entities/dostmuhammad/"
+  },
   "DotsPersonalAgent": {
     "title": "Dots Personal Agent",
     "url": "/wiki/entities/dotspersonalagent/"
@@ -25074,6 +25094,10 @@
   "EastGermany": {
     "title": "East Germany",
     "url": "/wiki/entities/eastgermany/"
+  },
+  "EastIndiaCompany": {
+    "title": "East India Company",
+    "url": "/wiki/entities/eastindiacompany/"
   },
   "EastStarAirlines": {
     "title": "East Star Airlines / 东星航空",
@@ -29375,6 +29399,10 @@
     "title": "First-Aid Triage and Escalation / 急救判断与升级",
     "url": "/wiki/concepts/firstaidtriageandescalation/"
   },
+  "FirstAngloAfghanWar": {
+    "title": "First Anglo-Afghan War",
+    "url": "/wiki/entities/firstangloafghanwar/"
+  },
   "FirstAntiWangMangRising": {
     "title": "刘氏反莽第一枪 / First Anti-Wang Mang Rising",
     "url": "/wiki/concepts/firstantiwangmangrising/"
@@ -30014,6 +30042,10 @@
   "ForeignBackedMonarchyLegitimacy": {
     "title": "Foreign-Backed Monarchy Legitimacy",
     "url": "/wiki/concepts/foreignbackedmonarchylegitimacy/"
+  },
+  "ForeignBackedRulerLegitimacyTrap": {
+    "title": "Foreign-Backed Ruler Legitimacy Trap",
+    "url": "/wiki/concepts/foreignbackedrulerlegitimacytrap/"
   },
   "ForeignBankingInChina": {
     "title": "Foreign Banking In China",
@@ -33699,6 +33731,10 @@
     "title": "Great Filter",
     "url": "/wiki/concepts/greatfilter/"
   },
+  "GreatGame": {
+    "title": "Great Game",
+    "url": "/wiki/concepts/greatgame/"
+  },
   "GreatHarvestBread": {
     "title": "Great Harvest Bread",
     "url": "/wiki/entities/greatharvestbread/"
@@ -34826,6 +34862,10 @@
   "HamidHosseini": {
     "title": "Hamid Hosseini",
     "url": "/wiki/entities/hamidhosseini/"
+  },
+  "HamidKarzai": {
+    "title": "Hamid Karzai",
+    "url": "/wiki/entities/hamidkarzai/"
   },
   "HamilcarBarca": {
     "title": "Hamilcar Barca / 哈米尔卡·巴卡",
@@ -39022,6 +39062,10 @@
   "ImperialTeacherHonorRitual": {
     "title": "帝王尊师礼制 / Imperial Teacher-Honor Ritual",
     "url": "/wiki/concepts/imperialteacherhonorritual/"
+  },
+  "ImperialThreatPerceptionFeedback": {
+    "title": "Imperial Threat Perception Feedback",
+    "url": "/wiki/concepts/imperialthreatperceptionfeedback/"
   },
   "ImperialTitleRetrenchment": {
     "title": "帝号退回王号 / Imperial Title Retrenchment",
@@ -52871,6 +52915,10 @@
     "title": "Military-Civil Integration / 军政一体",
     "url": "/wiki/concepts/militarycivilianintegration/"
   },
+  "MilitaryDisasterMemory": {
+    "title": "Military Disaster Memory",
+    "url": "/wiki/concepts/militarydisastermemory/"
+  },
   "MilitaryFinanceCorruption": {
     "title": "军费贪腐与战力空转 / Military Finance Corruption",
     "url": "/wiki/concepts/militaryfinancecorruption/"
@@ -56670,6 +56718,10 @@
   "OccultPseudoscienceLiteraryModernity": {
     "title": "Occult And Pseudoscience In Literary Modernity",
     "url": "/wiki/concepts/occultpseudoscienceliterarymodernity/"
+  },
+  "OccupationCommandFailure": {
+    "title": "Occupation Command Failure",
+    "url": "/wiki/concepts/occupationcommandfailure/"
   },
   "OccupationPacificationStrategy": {
     "title": "Occupation Pacification Strategy / 占领区怀柔治理",
@@ -69634,6 +69686,10 @@
   "ShahJahan": {
     "title": "Shah Jahan",
     "url": "/wiki/entities/shahjahan/"
+  },
+  "ShahShuja": {
+    "title": "Shah Shuja",
+    "url": "/wiki/entities/shahshuja/"
   },
   "ShaharAzulay": {
     "title": "Shahar Azulay",
@@ -82851,6 +82907,10 @@
     "title": "William Bennett",
     "url": "/wiki/entities/williambennett/"
   },
+  "WilliamBrydon": {
+    "title": "William Brydon",
+    "url": "/wiki/entities/williambrydon/"
+  },
   "WilliamCecil": {
     "title": "William Cecil / Lord Burleigh",
     "url": "/wiki/entities/williamcecil/"
@@ -82862,6 +82922,10 @@
   "WilliamCraig": {
     "title": "William Craig",
     "url": "/wiki/entities/williamcraig/"
+  },
+  "WilliamDalrymple": {
+    "title": "William Dalrymple",
+    "url": "/wiki/entities/williamdalrymple/"
   },
   "WilliamDeresiewicz": {
     "title": "William Deresiewicz",

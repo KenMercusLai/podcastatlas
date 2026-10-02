@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9381
+wiki_total_pages: 9386
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -926,6 +926,9 @@ wiki_pages:
   - key: "MilitaryCampPanic"
     title: "Military Camp Panic / 军营夜惊群体恐慌"
     url: "/wiki/concepts/militarycamppanic/"
+  - key: "MilitaryDisasterMemory"
+    title: "Military Disaster Memory"
+    url: "/wiki/concepts/militarydisastermemory/"
   - key: "MilitaryMeritRankSystem"
     title: "Military Merit Rank System / 军功爵制"
     url: "/wiki/concepts/militarymeritranksystem/"

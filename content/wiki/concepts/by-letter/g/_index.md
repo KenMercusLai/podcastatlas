@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9381
+wiki_total_pages: 9386
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "GreatFilter"
     title: "Great Filter"
     url: "/wiki/concepts/greatfilter/"
+  - key: "GreatGame"
+    title: "Great Game"
+    url: "/wiki/concepts/greatgame/"
   - key: "GreatRecoinage"
     title: "Great Recoinage / 大重铸"
     url: "/wiki/concepts/greatrecoinage/"

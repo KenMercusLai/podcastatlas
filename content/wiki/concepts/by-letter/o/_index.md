@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9381
+wiki_total_pages: 9386
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "OccultPolitics"
     title: "Occult Politics"
     url: "/wiki/concepts/occultpolitics/"
+  - key: "OccupationCommandFailure"
+    title: "Occupation Command Failure"
+    url: "/wiki/concepts/occupationcommandfailure/"
   - key: "OccupationPacificationStrategy"
     title: "Occupation Pacification Strategy / 占领区怀柔治理"
     url: "/wiki/concepts/occupationpacificationstrategy/"

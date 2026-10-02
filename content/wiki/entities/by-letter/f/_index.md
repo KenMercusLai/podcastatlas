@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12069
+wiki_total_pages: 12079
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "FirebrandSaints"
     title: "Firebrand Saints"
     url: "/wiki/entities/firebrandsaints/"
+  - key: "FirstAngloAfghanWar"
+    title: "First Anglo-Afghan War"
+    url: "/wiki/entities/firstangloafghanwar/"
   - key: "FirstBrands"
     title: "First Brands"
     url: "/wiki/entities/firstbrands/"

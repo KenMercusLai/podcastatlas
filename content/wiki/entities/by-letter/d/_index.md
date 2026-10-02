@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12069
+wiki_total_pages: 12079
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -863,6 +863,9 @@ wiki_pages:
   - key: "DorothyArzner"
     title: "Dorothy Arzner / 多罗西·阿兹娜"
     url: "/wiki/entities/dorothyarzner/"
+  - key: "DostMuhammad"
+    title: "Dost Muhammad"
+    url: "/wiki/entities/dostmuhammad/"
   - key: "DotsPersonalAgent"
     title: "Dots Personal Agent"
     url: "/wiki/entities/dotspersonalagent/"

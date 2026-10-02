@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9381
+wiki_total_pages: 9386
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "ImperialSymbolicStandardization"
     title: "Imperial Symbolic Standardization / 帝国符号标准化"
     url: "/wiki/concepts/imperialsymbolicstandardization/"
+  - key: "ImperialThreatPerceptionFeedback"
+    title: "Imperial Threat Perception Feedback"
+    url: "/wiki/concepts/imperialthreatperceptionfeedback/"
   - key: "ImperialTourPoliticalTheater"
     title: "Imperial Tour Political Theater / 帝国巡游政治剧场"
     url: "/wiki/concepts/imperialtourpoliticaltheater/"

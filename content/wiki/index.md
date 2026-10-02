@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [88. The First Anglo-Afghan War](sources/88-the-first-anglo-afghan-war-glt5156371854.md) — The Rest Is History with William Dalrymple on Great Game anxiety, regime change, occupation collapse, the 1842 Kabul retreat, and modern Afghan legitimacy parallels.
 - [89. Climate & Weather](sources/89-climate-weather-glt6521438447.md) — The Rest Is History countdown on climate and weather acting through settlement, food, war, revolution, culture, transport, forecasting, and political legitimacy.
 - [Understanding & Conquering Depression](sources/scim8966572027-scim8966572027.md) — Early Huberman Lab solo episode on major depression as a multisystem disorder, clinical assessment boundaries, inflammation and plasticity, and evidence-bounded treatment options.
 - [90. The Western Front](sources/90-the-western-front-glt9972346188.md) — The Rest Is History with Gary Sheffield on Western Front stalemate, soldier experience, uneven British learning, Allied victory in 1918, and the later "lions led by donkeys" memory.
@@ -3568,6 +3569,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247.md) — Huberman Lab interview on psychedelic classes, clinical protocols, self-representation, integration, microdosing evidence, persistent perceptual symptoms, risks, and regulation.
 
 ## Entities
+- [First Anglo-Afghan War](entities/FirstAngloAfghanWar.md) — 1839-1842 regime-change intervention ending in occupation collapse, the Kabul retreat, and Dost Muhammad's restoration.
+- [William Dalrymple](entities/WilliamDalrymple.md) — Historian linking the First Anglo-Afghan War to imperial anxiety, Afghan legitimacy, and qualified modern parallels.
+- [Dost Muhammad](entities/DostMuhammad.md) — Afghan ruler displaced by British intervention and restored after its failure.
+- [Shah Shuja](entities/ShahShuja.md) — Durrani ruler restored with Company force whose agency and foreign-dependence problem anchor the episode.
+- [Alexander Burnes](entities/AlexanderBurnes.md) — Traveler-agent whose diplomatic advice was rejected before the invasion and whose occupation conduct remains controversial.
+- [Akbar Khan](entities/AkbarKhan.md) — Dost Muhammad's son and resistance leader associated with operations against the Kabul retreat.
+- [East India Company](entities/EastIndiaCompany.md) — Hybrid commercial-governmental imperial institution whose Afghan expedition exposed command and logistics failures.
+- [William Brydon](entities/WilliamBrydon.md) — Army doctor turned iconic, but not sole, survivor of the Kabul retreat.
+- [Hamid Karzai](entities/HamidKarzai.md) — Afghan president portrayed as using courtesy and public distance from foreign patrons to manage legitimacy.
+- [Ashraf Ghani](entities/AshrafGhani.md) — Afghan president used in the episode's source-scoped analysis of elite distance and the 2021 collapse.
 - [James Stagg](entities/JamesStagg.md) — RAF meteorological adviser whose forecast shaped the timing of the D-Day launch decision.
 - [Gary Sheffield](entities/GarySheffield.md) — Military historian connecting Western Front structure, soldier experience, uneven learning, 1918 victory, and later popular memory.
 - [Douglas Haig](entities/DouglasHaig.md) — British commander treated as a qualified case of command error, institutional adaptation, coalition judgment, and retrospective caricature.
@@ -15681,6 +15692,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
 
 ## Concepts
+- [Great Game](concepts/GreatGame.md) — Imperial rivalry understood as a feedback system of intelligence, travel, rumor, and threat perception.
+- [Imperial Threat Perception Feedback](concepts/ImperialThreatPerceptionFeedback.md) — Escalation loop in which defensive reconnaissance and counteraction make each rival's fear appear confirmed.
+- [Foreign-Backed Ruler Legitimacy Trap](concepts/ForeignBackedRulerLegitimacyTrap.md) — Political bind where outside force secures office while making rule appear imposed or dependent.
+- [Occupation Command Failure](concepts/OccupationCommandFailure.md) — Compound breakdown across basing, logistics, divided authority, timing, and political complacency.
+- [Military Disaster Memory](concepts/MilitaryDisasterMemory.md) — Compression of complex defeat into an iconic survivor, image, phrase, or moral.
 - [Western Front Military Learning](concepts/WesternFrontMilitaryLearning.md) — Uneven tactical, organizational, coalition, and logistical adaptation from defensive stalemate to sustained Allied victory.
 - [Western Front Popular Memory](concepts/WesternFrontPopularMemory.md) — Later cultural framing of the front through futile slaughter, betrayed soldiers, anti-war poetry, and incompetent command.
 - [Nuclear Deterrence](concepts/NuclearDeterrence.md) — Conditional restraint through threatened retaliation, qualified by misperception, readiness, technical fragility, and crisis panic.

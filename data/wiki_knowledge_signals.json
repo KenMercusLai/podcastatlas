@@ -7026,6 +7026,36 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/affectivepolarization/"
     },
+    "Afghanistan": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "156.一个阿富汗女人的来信： 纸上的光，和出版背后的故事 [922362198].md",
+          "key": "156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198",
+          "show": "蜜獾吃书",
+          "title": "156.一个阿富汗女人的来信: 纸上的光，和出版背后的故事",
+          "url": "/wiki/sources/156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198/"
+        },
+        {
+          "episode_file": "Afghanistan, five years on： our correspondent visits [6a7ee547049c692a6b3ee0a9].md",
+          "key": "afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9",
+          "show": "Economist Podcasts",
+          "title": "Afghanistan, five years on: our correspondent visits",
+          "url": "/wiki/sources/afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9/"
+        },
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/afghanistan/"
+    },
     "AfonsoDeAlbuquerque": {
       "episode_count": 1,
       "show_count": 1,
@@ -8156,6 +8186,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/ajiao/"
     },
+    "AkbarKhan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/akbarkhan/"
+    },
     "AkronOhio": {
       "episode_count": 1,
       "show_count": 1,
@@ -8661,6 +8707,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/alexaplus/"
+    },
+    "AlexanderBurnes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/alexanderburnes/"
     },
     "AlexanderHaig": {
       "episode_count": 1,
@@ -15620,6 +15682,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/asantequeenmothers/"
+    },
+    "AshrafGhani": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/ashrafghani/"
     },
     "AsiWind": {
       "episode_count": 1,
@@ -54024,6 +54102,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/dopaminewantingloop/"
     },
+    "DostMuhammad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/dostmuhammad/"
+    },
     "DotsPersonalAgent": {
       "episode_count": 1,
       "show_count": 1,
@@ -56765,6 +56859,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/eastgermany/"
+    },
+    "EastIndiaCompany": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/eastindiacompany/"
     },
     "EasterRising": {
       "episode_count": 2,
@@ -71145,6 +71255,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/firstaidtriageandescalation/"
     },
+    "FirstAngloAfghanWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/firstangloafghanwar/"
+    },
     "FirstAntiWangMangRising": {
       "episode_count": 1,
       "show_count": 1,
@@ -72680,6 +72806,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/foreignbackedmonarchylegitimacy/"
+    },
+    "ForeignBackedRulerLegitimacyTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/foreignbackedrulerlegitimacytrap/"
     },
     "ForensicIdentificationExplanationGap": {
       "episode_count": 1,
@@ -83185,6 +83327,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/greatfear1789/"
     },
+    "GreatGame": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/greatgame/"
+    },
     "GreatHeathenArmy": {
       "episode_count": 1,
       "show_count": 1,
@@ -86128,6 +86286,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/hamadbinkhalifaalthani/"
+    },
+    "HamidKarzai": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/hamidkarzai/"
     },
     "HamilcarBarca": {
       "episode_count": 2,
@@ -99680,6 +99854,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/imperialteacherhonorritual/"
+    },
+    "ImperialThreatPerceptionFeedback": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/imperialthreatperceptionfeedback/"
     },
     "ImperialTourPoliticalTheater": {
       "episode_count": 7,
@@ -136070,6 +136260,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/militaryaioversightcompression/"
     },
+    "MilitaryDisasterMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/militarydisastermemory/"
+    },
     "MilitaryFinanceCorruption": {
       "episode_count": 1,
       "show_count": 1,
@@ -145595,6 +145801,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/occultpolitics/"
+    },
+    "OccupationCommandFailure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/occupationcommandfailure/"
     },
     "OceanBase": {
       "episode_count": 1,
@@ -178164,6 +178386,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/shahjahan/"
+    },
+    "ShahShuja": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/shahshuja/"
     },
     "ShaharAzulay": {
       "episode_count": 1,
@@ -210794,6 +211032,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/willoremus/"
     },
+    "WilliamBrydon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/williambrydon/"
+    },
     "WilliamCecil": {
       "episode_count": 4,
       "show_count": 1,
@@ -210830,6 +211084,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/williamcecil/"
+    },
+    "WilliamDalrymple": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156371854 [GLT5156371854].md",
+          "key": "88-the-first-anglo-afghan-war-glt5156371854",
+          "show": "The Rest Is History",
+          "title": "88. The First Anglo-Afghan War",
+          "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/williamdalrymple/"
     },
     "WilliamEwartGladstone": {
       "episode_count": 1,

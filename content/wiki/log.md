@@ -28060,3 +28060,11 @@ Added source `89-climate-weather-glt6521438447`; created `JamesStagg`; and resyn
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 88. The First Anglo-Afghan War
+
+Added a The Rest Is History source page with William Dalrymple on Great Game threat perception, the decision to replace Dost Muhammad with Shah Shuja, East India Company logistics and command failure, the Kabul uprising and winter retreat, Afghan resistance under Akbar Khan, the William Brydon survivor myth, Dost Muhammad's restoration, and qualified comparisons with Hamid Karzai, Ashraf Ghani, and the Taliban's 2021 return. Created pages for the First Anglo-Afghan War, William Dalrymple, Dost Muhammad, Shah Shuja, Alexander Burnes, Akbar Khan, the East India Company, William Brydon, Hamid Karzai, Ashraf Ghani, the Great Game, imperial threat perception feedback, the foreign-backed ruler legitimacy trap, occupation command failure, and military disaster memory; migrated and updated Afghanistan from its complete three-source evidence set. No direct contradiction found; exact numbers, personal-causation anecdotes, Russian threat magnitude, and the 1842-2021 analogy remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis coverage and the paragraph ledger were refreshed to 3,507 sources; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
