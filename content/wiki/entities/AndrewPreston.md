@@ -5,7 +5,8 @@ tags: [person, historian, religion, united-states, foreign-policy]
 sources:
   - 153-god-and-the-american-empire-glt8752091834
   - 152-american-crusades-glt4400059090
-last_updated: 2026-10-02
+  - 72-the-vietnam-war-glt4906340188
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,47 +14,50 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Andrew Preston is a historian of American religion and foreign policy whose paired conversations in [[152-american-crusades-glt4400059090]] and [[153-god-and-the-american-empire-glt8752091834]] interpret religion as a constitutive and internally divided part of American expansion, reform, diplomacy, and war rather than as decorative presidential rhetoric.
+Andrew Preston is a historian of American religion and foreign policy whose current wiki profile connects religious mission, imperial self-understanding, Cold War strategy, and the Vietnam War while resisting explanations that reduce policy to either belief or material power alone.
 
 ## Current Profile
 
-Preston's framework connects institutional structure, historical inheritance, and international conduct. [[152-american-crusades-glt4400059090]] traces a repertoire from Puritan exemplary mission through Manifest Destiny, abolition, Civil War emancipation, and Protestant empire in the Philippines. [[153-god-and-the-american-empire-glt8752091834]] explains its modern durability through church-state separation and a changing “marketplace of faith.”
+The paired religion episodes trace a repertoire from Puritan exemplary mission through Manifest Destiny, abolition, Civil War emancipation, Protestant empire in the Philippines, a modern “marketplace of faith,” and the later Judeo-Christian coalition. Preston's militant “sword of the spirit” and reformist “shield of faith” allow religious commitments to support conquest and intervention but also pacifism, pluralism, abolition, anti-imperialism, and human-rights pressure.
 
-Across both episodes, the militant “sword of the spirit” and reformist “shield of faith” allow religious commitments to support conquest, intervention, pacifism, pluralism, abolition, anti-imperialism, and human-rights pressure. His examples run from colonial New England to McKinley, the late-1930s construction of a public Judeo-Christian tradition, Truman, Reagan, Bush, and Trump. These broad historical claims remain attributable to Preston and require wider evidence before becoming exhaustive explanations of American religion or diplomacy.
+The Vietnam episode extends that method into decolonization and Cold War conflict. Preston calls U.S. conduct “anti-imperial imperialism”: officials could reject the identity of empire while supporting French recolonization and later exercising coercive power in South Vietnam. He simultaneously restores [[VietnamWarCivilWarAgency|Vietnamese agency]], judges the U.S. intervention illegitimate, and argues that victory was unavailable on acceptable terms. His account of withdrawal retains moral responsibility toward endangered South Vietnamese allies without turning that obligation into a defense of indefinite war.
 
 ## Key Characteristics
 
 - Interprets American religious persistence through disestablishment, competition, innovation, and political culture.
-- Treats religion as part of foreign-policy belief and coalition formation, not merely rhetorical packaging.
-- Distinguishes militant and reformist religious impulses rather than equating faith with interventionism alone.
-- Takes professed belief seriously while retaining land, slavery, markets, strategy, and power as interacting causes.
-- Uses presidential episodes to connect domestic religious pluralism with changing international moral frames.
+- Treats belief, strategy, institutions, land, markets, and power as interacting causes rather than mutually exclusive explanations.
+- Distinguishes militant and reformist religious impulses instead of equating faith with interventionism alone.
+- Uses imperial self-description critically, especially where anti-imperial identity coexists with coercive rule or intervention.
+- Restores local agency inside conflicts often narrated chiefly through American decision-makers.
+- Separates moral judgment from simple causation, including in the assessment of escalation, possible victory, and withdrawal.
 
 ## Evidence
 
-### Institutional persistence
-
-- [[153-god-and-the-american-empire-glt8752091834]] attributes American religious durability to church-state separation and a competitive “marketplace of faith.”
-
-### Foreign-policy interpretation
+### Religion and foreign policy
 
 - [[152-american-crusades-glt4400059090]] connects colonial violence, expansion, abolition, the Civil War, McKinley, and the Philippines to competing religious routes into foreign policy.
-- [[153-god-and-the-american-empire-glt8752091834]] uses the “sword” and “shield” distinction and examples from Truman through Trump to extend the framework into modern diplomacy.
+- [[153-god-and-the-american-empire-glt8752091834]] attributes religious durability to disestablishment and competition, then uses the “sword” and “shield” distinction from Truman through Trump.
+
+### Empire, agency, and Vietnam
+
+- [[72-the-vietnam-war-glt4906340188]] links French recolonization, American Cold War strategy, and imperial effects while making Vietnamese civil-war agency central to interpretation.
+- [[72-the-vietnam-war-glt4906340188]] also grounds Preston's judgments that the intervention was unnecessary, victory was not available on acceptable terms, and withdrawal remained morally costly for South Vietnamese allies.
 
 ## Qualifications
 
-The current profile rests on two short, consecutive podcast conversations. It records Preston's interpretive framework, not a complete bibliography, systematic comparison with Europe, or independent verification of colonial causation, presidential motives, denominational generalizations, and diplomatic anecdotes.
+The profile rests on three podcast conversations rather than Preston's complete scholarship or a systematic comparison with other historians. Colonial causation, religious generalizations, presidential motives, military requirements, bombing totals, draft inequality, possible-war counterfactuals, and judgments of legitimacy remain episode-attributed or require wider evidence. The Vietnam conversation advocates Vietnamese-centered history but still gives few Vietnamese voices direct representation.
 
 ## What Changed
 
-- Extended the profile backward from modern diplomacy to colonial war, expansion, abolition, Civil War emancipation, and the Philippines.
-- Clarified Preston's method as taking belief seriously without reducing policy to religion alone.
+- Extended Preston's profile from religion and empire into decolonization, Cold War intervention, and withdrawal.
+- Added local agency and acceptable-cost reasoning as recurring parts of his historical method.
+- Qualified anti-imperial American identity through his “anti-imperial imperialism” formulation.
 
 ## Relationships
 
-- [[AmericanReligiousPersistence]] - institutional explanation developed in the episode.
-- [[JudeoChristianNationalIdentity]] - historical coalition whose emergence Preston dates to the late 1930s.
-- [[ReligiousMoralFramingOfUSForeignPolicy]] - foreign-policy framework illustrated through presidential cases.
-- [[AmericanExceptionalism]] - national-difference belief partly expressed through religious mission.
-- [[ManifestDestiny]] - nineteenth-century fusion of expansion, civilizational hierarchy, and moral responsibility.
-- [[AmericanImperialSelfDenial]] - tension between Philippine rule and later anti-imperial self-understanding.
+- [[AmericanReligiousPersistence]] - institutional explanation developed in the religion episodes.
+- [[ReligiousMoralFramingOfUSForeignPolicy]] - framework joining belief to coalition and policy formation.
+- [[AmericanImperialSelfDenial]] - contradiction between anti-imperial identity and imperial effects.
+- [[VietnamWarCivilWarAgency]] - local-agency correction central to his Vietnam interpretation.
+- [[VietnamWarAmericanMemory]] - cultural frame his image and film analysis helps qualify.
+- [[InterventionWithdrawalDependency]] - moral and strategic problem illuminated by his withdrawal judgment.

@@ -7,7 +7,8 @@ sources:
   - vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6
   - 325-fall-of-saigon-apocalypse-now-part-2-glt1698435670
   - 324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362
-last_updated: 2026-09-28
+  - 72-the-vietnam-war-glt4906340188
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,24 +16,31 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Vietnam appears in the current evidence set through three distinct but connected profiles: the 1975 end of war and postwar aftermath, the historically engineered and climate-exposed [[MekongDelta|Mekong Delta]], and contemporary dependence on export access and regional supply chains.
+Vietnam appears in the current evidence through a colonial and civil-war history, the 1975 collapse and postwar aftermath, the engineered and climate-exposed [[MekongDelta|Mekong Delta]], and contemporary dependence on export access and regional supply chains.
 
 ## Current Profile
 
-The historical sources present the [[FallOfSaigon|fall of Saigon]] as a process beginning before the capital's capture. The failed [[ParisPeaceAccords]], American withdrawal, [[CongressionalWarPowersConstraint|congressional limits]], South Vietnamese aid dependence, a failed territorial retreat, and refugee congestion interacted in a [[StateCollapseCascade]]. North Vietnam's victory ended South Vietnamese state power but not suffering: re-education camps, damaged land and infrastructure, economic isolation, refugee flight, and later wars with Cambodia and China complicate both triumphalist liberation narratives and any equation with Khmer Rouge extermination.
+The new historical source extends the war profile backward. French rule in Indochina, attempted recolonization after 1945, the [[FirstIndochinaWar]], Dien Bien Phu, Cold War division, and U.S. support for the South shaped the later conflict. Yet the country cannot be reduced to foreign intervention: [[VietnamWarCivilWarAgency]] identifies North Vietnamese, South Vietnamese, and Viet Cong projects as politically consequential in their own right. This also changes how familiar images are read, because the Kim Phuc napalm strike and troops in the photograph belonged to South Vietnam rather than the United States.
 
-The Mekong source places Vietnam's southern productive geography inside a longer history of southward expansion, Chinese settlement, French colonial canal building, rice agriculture, and saltwater-intrusion risk. The tariff source then shows modern Vietnam as an export and manufacturing node whose access to the [[UnitedStates]] gives Washington leverage and whose regional supply chains can transmit pressure back toward [[China]].
+The 1975 sources present the [[FallOfSaigon|fall of Saigon]] as a process beginning before the capital's capture. The failed [[ParisPeaceAccords]], American withdrawal, congressional limits, South Vietnamese aid dependence, a failed territorial retreat, and refugee congestion interacted in a [[StateCollapseCascade]]. Victory ended South Vietnamese state power but not suffering: re-education camps, damaged infrastructure, isolation, refugee flight, and later wars with Cambodia and China complicate both triumphalist liberation narratives and any equation with Khmer Rouge extermination.
+
+The Mekong source places southern productive geography inside a longer history of expansion, Chinese settlement, colonial canals, rice agriculture, and saltwater-intrusion risk. The tariff source shows modern Vietnam as an export and manufacturing node whose U.S. market access creates leverage and whose regional supply chains can transmit pressure back toward China.
 
 ## Key Characteristics
 
+- Colonial rule, decolonization, Cold War division, and an intra-Vietnamese civil war jointly shaped the modern conflict.
+- Vietnamese actors retained agency despite French, American, Soviet, Chinese, and wider regional involvement.
 - Its 1975 reunification followed military victory, South Vietnamese collapse, and an unequal final evacuation.
-- South Vietnam's rapid defeat joined internal command failure to the withdrawal of American aid, firepower, and credible guarantees.
 - Postwar rule included coercive re-education and large refugee displacement without being identical to Khmer Rouge mass killing.
 - The Mekong Delta joins agricultural productivity to engineered-water and climate vulnerability.
 - Export dependence creates bargaining exposure to U.S. tariffs and market-access pressure.
-- Its position in East and Southeast Asian production networks makes it both an alternative to and an intermediary for China-linked supply chains.
+- East and Southeast Asian production networks make Vietnam both an alternative to and an intermediary for China-linked supply chains.
 
 ## Evidence
+
+### Colonial origins and civil-war agency
+
+- [[72-the-vietnam-war-glt4906340188]] connects French colonialism, postwar recolonization, Dien Bien Phu, national division, U.S. intervention, Vietnamese agency, and the limits of acceptable military victory.
 
 ### War ending and postwar aftermath
 
@@ -45,26 +53,26 @@ The Mekong source places Vietnam's southern productive geography inside a longer
 
 ### Trade and supply-chain exposure
 
-- [[vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6]] uses Vietnam to explain a U.S. tariff formula based on bilateral goods imbalance and the leverage created by export dependence.
+- [[vol-123-telangpu-de-duideng-guanshui-an-buzhi-shi-yi-chang-daxing-fucongxing-ceshi-lm6bkiqgyyefwompxon7lo6cnqp6]] uses Vietnam to explain U.S. tariff leverage created by bilateral imbalance and export dependence.
 
 ## Qualifications
 
-The 1975 episodes are heavily mediated through American and British narration and explicitly acknowledge limited Vietnamese perspective. Aid effects, military decisions, atrocities, camp, death, refugee, and resettlement totals remain source-scoped, and the sources do not establish that renewed bombing would have saved South Vietnam. The Mekong source is a travel-and-history interpretation rather than a complete environmental history, while the tariff source captures an April 2025 policy reading whose legal and economic aftermath can change. Modern Vietnam should not be reduced to war memory, delta vulnerability, or supply-chain dependence alone.
+The war episodes are heavily mediated through American and British narration even when they insist on Vietnamese agency. Bombing, aid, military decisions, atrocities, camps, deaths, refugees, and resettlement totals remain source-scoped, and the sources do not establish that renewed bombing would have preserved South Vietnam. The Mekong source is a travel-and-history interpretation rather than a complete environmental history; the tariff source captures a dated April 2025 policy reading. Modern Vietnam should not be reduced to war memory, delta vulnerability, or supply-chain dependence.
 
 ## What Changed
 
-- Added the treaty, aid-dependency, constitutional-constraint, military-retreat, and refugee-cascade prehistory to the existing final-evacuation account.
-- Preserved the distinction between Vietnamese postwar coercion and Khmer Rouge extermination.
+- Extended the profile from the 1975 ending back through French colonialism, decolonization, the First Indochina War, and Cold War division.
+- Made Vietnamese civil-war agency a central qualification to foreign-intervention narratives.
+- Added image-context evidence showing how American-centered memory can misidentify South Vietnamese action.
 
 ## Relationships
 
+- [[HoChiMinh]] - Vietnamese nationalist and communist leader linked to the Viet Minh and wartime OSS cooperation.
+- [[FirstIndochinaWar]] - decolonization conflict that ended French rule and preceded national division.
+- [[VietnamWarCivilWarAgency]] - framework centering competing Vietnamese political and military projects.
 - [[FallOfSaigon]] - 1975 collapse that ended South Vietnam's separate state power.
-- [[OperationFrequentWind]] - final American evacuation during the collapse.
 - [[VietnameseRefugeeExodus]] - postwar displacement and maritime escape.
 - [[VietnamWarAmericanMemory]] - foreign cultural frame that often marginalizes Vietnamese perspectives.
-- [[StateCollapseCascade]] - mechanism explaining the speed of South Vietnam's 1975 military and institutional defeat.
-- [[ParisPeaceAccords]] - withdrawal settlement that did not end the war.
-- [[MekongRiver]] - river system shaping Vietnam's southern geography and production.
 - [[MekongDeltaColonialCanalAgriculture]] - historical engineering pattern behind delta abundance and vulnerability.
 - [[UnitedStates]] - former intervening power and later export-market leverage point.
-- [[China]] - neighboring state, 1979 attacker named by the source, and supply-chain counterpart.
+- [[China]] - neighboring state, later military opponent, and supply-chain counterpart.

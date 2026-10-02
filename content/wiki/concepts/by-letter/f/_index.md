@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9419
+wiki_total_pages: 9421
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "FirstDraftThinking"
     title: "First Draft Thinking"
     url: "/wiki/concepts/firstdraftthinking/"
+  - key: "FirstIndochinaWar"
+    title: "First Indochina War"
+    url: "/wiki/concepts/firstindochinawar/"
   - key: "FirstMarchOnRome"
     title: "First March on Rome / 第一次进军罗马"
     url: "/wiki/concepts/firstmarchonrome/"

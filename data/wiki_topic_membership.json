@@ -5825,6 +5825,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "72-the-vietnam-war-glt4906340188": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "725Salon": [
     {
       "key": "culture",
@@ -84069,6 +84081,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "VietnamWarCivilWarAgency": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "VietnamWarCredibilityCollapse": [

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3062
+topic_total_pages: 3063
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8565,6 +8565,9 @@ topic_sources:
   - key: "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465"
     title: "69.闲聊推理文学：历史学者可不就是侦探吗！"
     url: "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+  - key: "72-the-vietnam-war-glt4906340188"
+    title: "72. The Vietnam War"
+    url: "/wiki/sources/72-the-vietnam-war-glt4906340188/"
   - key: "72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837"
     title: "72.君主论：读它是一场危险的冒险"
     url: "/wiki/sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837/"

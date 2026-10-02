@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？](sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf.md) — 无时差研究所 episode on education competition, advance learning, tutoring substitution, school capacity, family coordination, and child-development goals beyond scores.
+- [72. The Vietnam War](sources/72-the-vietnam-war-glt4906340188.md) — The Rest Is History with Andrew Preston on colonial origins, Vietnamese civil-war agency, American intervention and withdrawal, press access, iconic images, and film memory.
 - [73. England v Italy](sources/73-england-v-italy-glt3184835237.md) — The Rest Is History on Roman and papal influence, Reformation rivalry, the Grand Tour, Garibaldi, wartime internment, postwar aspiration, and football in Anglo-Italian relations.
 - [74. The Six Wives of Henry VIII](sources/74-the-six-wives-of-henry-viii-glt6913826589.md) — The Rest Is History on Henry VIII's marriages as a collision of dynastic insecurity, European diplomacy, religious change, court faction, gender, and coercive monarchy.
 - [Maximizing Productivity, Physical & Mental Health with Daily Tools](sources/scim3608509346-scim3608509346.md) — Full-length Huberman Lab daily-protocol episode coordinating circadian cues, focused work, exercise, meals, recovery, and sleep with explicit individual-fit and evidence boundaries.
@@ -3808,7 +3809,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Preston](entities/AlexPreston.md) — Novelist and guest historian interpreting British smuggling through fiscal history, organized violence, literary memory, and contemporary humanitarian experience.
 - [Hawkhurst Gang](entities/HawkhurstGang.md) — Violent eighteenth-century southeastern smuggling network whose coercion and defeat challenge the lovable-rogue myth.
 - [Saint Valentine](entities/SaintValentine.md) — Uncertain martyr figure or cluster of figures whose feast supplied the name later attached to the romantic holiday.
-- [Andrew Preston](entities/AndrewPreston.md) — Historian interpreting American religion through institutional persistence, expansion, reform, pluralism, and competing foreign-policy impulses.
+- [Andrew Preston](entities/AndrewPreston.md) — Historian connecting American religion, imperial self-understanding, local agency, Cold War strategy, and moral judgment in foreign policy.
+- [Ho Chi Minh](entities/HoChiMinh.md) — Vietnamese communist-nationalist leader whose wartime OSS cooperation preceded anti-colonial war and Cold War estrangement.
 - [Harry S. Truman](entities/HarrySTruman.md) — U.S. president whose early Cold War profile joins religious mobilization, biblical imagination, and recognition of Israel.
 - [David Spiegel](entities/DavidSpiegel.md) — Stanford psychiatrist and hypnosis researcher framing focused attention as a voluntary, clinically bounded route to mind-body control.
 - [Reveri](entities/Reveri.md) — Self-hypnosis app derived from David Spiegel's research framework, bounded from clinician-guided treatment.
@@ -10710,7 +10712,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梵一如 / Fan Yiru](entities/FanYiru.md) — Podcast speaker connecting Japan's structural constraints with a later relationship conversation on family, vulnerability, and care.
 - [Kumamoto / 熊本](entities/Kumamoto.md) — Japan regional case where TSMC investment turns semiconductor-chain relocation into local supplier, service, wage, and school spillovers.
 - [Howard Marks / 霍华德·马克斯](entities/HowardMarks.md) — Investor and memo writer used by vol.124 as the "nobody knows" uncertainty discipline for information overload and deliberate inaction.
-- [Vietnam](entities/Vietnam.md) — Country synthesized across the 1975 war ending, postwar displacement, Mekong Delta history, and export-market dependence.
+- [Vietnam](entities/Vietnam.md) — Country synthesized across colonialism, civil war, the 1975 ending, postwar displacement, Mekong Delta history, and export-market dependence.
 - [Ireland](entities/Ireland.md) — Island and political setting shaped by conquest, plantation, Union, famine, nationalism, revolution, partition, and later statehood.
 - [Max Weber](entities/MaxWeber.md) — Sociological reference for vol.123's patrimonial-governance frame.
 - [Midea Group](entities/MideaGroup.md) — Manufacturing-company coda in vol.123's discussion of operating through a more volatile global environment.
@@ -15937,7 +15939,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Valentine Card Commercialization](concepts/ValentineCardCommercialization.md) — Scaling of Valentine exchange through prepared verse, manufactured cards, cheaper post, anonymity, and transatlantic business.
 - [Vinegar Valentines](concepts/VinegarValentines.md) — Commercially printed insulting cards that used Valentine exchange for ridicule and anonymous social sanction.
 - [Manifest Destiny](concepts/ManifestDestiny.md) — Nineteenth-century ideology moralizing territorial expansion as both American right and civilizing responsibility.
-- [American Imperial Self-Denial](concepts/AmericanImperialSelfDenial.md) — Gap between American conquest and overseas rule and a recurring national self-image opposed to empire.
+- [American Imperial Self-Denial](concepts/AmericanImperialSelfDenial.md) — Gap between American anti-imperial identity and territorial conquest, coercive rule, or intervention with imperial effects.
+- [First Indochina War](concepts/FirstIndochinaWar.md) — 1946–1954 decolonization conflict whose French defeat and unsettled division preceded later U.S. intervention.
 - [American Religious Persistence](concepts/AmericanReligiousPersistence.md) — Institutional account of how disestablishment and religious competition helped public faith persist alongside modernization.
 - [Judeo-Christian National Identity](concepts/JudeoChristianNationalIdentity.md) — Wartime and Cold War coalition grouping Protestants, Catholics, and Jews inside a shared American religious story.
 - [Religious Moral Framing of U.S. Foreign Policy](concepts/ReligiousMoralFramingOfUSForeignPolicy.md) — Mission, uplift, good and evil, religious freedom, and pluralism as motives, restraints, and sources of reputational risk in American power.
@@ -16351,7 +16354,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patent Foramen Ovale Evaluation and Closure / 卵圆孔未闭评估与封堵](concepts/PatentForamenOvaleEvaluationAndClosure.md) — Finding-versus-indication framework for PFO anatomy, shunt testing, causal assessment, and treatment selection.
 - [Intervention–Withdrawal Dependency](concepts/InterventionWithdrawalDependency.md) — Process by which intervention creates reliance and obligations that make later withdrawal materially and morally difficult.
 - [Vietnamese Refugee Exodus](concepts/VietnameseRefugeeExodus.md) — Post-1975 displacement through evacuation, maritime flight, resettlement, and receiving-country hostility.
-- [Vietnam War American Memory](concepts/VietnamWarAmericanMemory.md) — Cultural process recentering Vietnam as an American story of trauma, humiliation, isolation, and military redemption.
+- [Vietnam War American Memory](concepts/VietnamWarAmericanMemory.md) — Cultural process recentering Vietnam as an American story through iconic images, trauma, humiliation, isolation, and military redemption.
+- [Vietnam War Civil-War Agency](concepts/VietnamWarCivilWarAgency.md) — Framework treating North Vietnamese, South Vietnamese, and Viet Cong actors as consequential participants rather than only Cold War proxies.
 - [Household AI Assistant](concepts/HouseholdAIAssistant.md) — Ambient shared-home assistant integrating purpose-built devices, domestic context, service access, and task execution.
 - [Prime Membership Flywheel](concepts/PrimeMembershipFlywheel.md) — Amazon mechanism linking bundled assistant utility to Prime acquisition, retention, usage, and commerce.
 - [ETF Consensus Feedback / ETF 共识反馈](concepts/ETFConsensusFeedback.md) — Feedback loop joining index rules, theme labels, distribution, flows, benchmark inclusion, liquidity, and attention.
@@ -16971,7 +16975,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Oral-Care Product Treatment Boundary / 口腔护理产品治疗边界](concepts/OralCareProductTreatmentBoundary.md) — Boundary separating supportive hygiene products from cure, regeneration, infection-treatment, or permanent-repair claims.
 - [Dental Aesthetic Treatment Boundary / 牙齿美学治疗边界](concepts/DentalAestheticTreatmentBoundary.md) — Distinction among normal tooth color, surface stain removal, chemical bleaching, veneers, and crowns.
 - [Dental Provider Qualification Assessment / 牙医与口腔机构资质判断](concepts/DentalProviderQualificationAssessment.md) — Multi-signal evaluation of credentials, scope, cases, peer standing, setting, and treatment fit.
-- [Photographic Witness](concepts/PhotographicWitness.md) — Evidence chain joining image capture, access, prose, editing, censorship, publication, and public belief.
+- [Photographic Witness](concepts/PhotographicWitness.md) — Evidence chain joining access, capture, context, editing, censorship, publication, later attribution, and public belief.
 - [Melodramatic Political Formation](concepts/MelodramaticPoliticalFormation.md) — Process by which mass-media roles supply emotional archetypes and communication habits later transferred into political life.
 - [Relationship Polarity Balance](concepts/RelationshipPolarityBalance.md) — Intimacy framework holding security with freedom, togetherness with separateness, and stability with change.
 - [Curiosity Over Reactivity](concepts/CuriosityOverReactivity.md) — Conflict stance that loosens fixed narratives through regulated, accountable inquiry into another person's experience.

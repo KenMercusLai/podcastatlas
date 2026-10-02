@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2452
+topic_total_pages: 2454
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1432,6 +1432,9 @@ topic_concepts:
   - key: "VictoryOverreachFailure"
     title: "Victory Overreach Failure / 数胜必亡式胜利反噬"
     url: "/wiki/concepts/victoryoverreachfailure/"
+  - key: "VietnamWarCivilWarAgency"
+    title: "Vietnam War Civil-War Agency"
+    url: "/wiki/concepts/vietnamwarcivilwaragency/"
   - key: "VikingAgePeriodization"
     title: "Viking Age Periodization"
     url: "/wiki/concepts/vikingageperiodization/"
@@ -6339,6 +6342,9 @@ topic_sources:
   - key: "710-the-terror-death-at-the-guillotine-part-4-glt5038102951"
     title: "710. The Terror: Death at the Guillotine (Part 4)"
     url: "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+  - key: "72-the-vietnam-war-glt4906340188"
+    title: "72. The Vietnam War"
+    url: "/wiki/sources/72-the-vietnam-war-glt4906340188/"
   - key: "72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837"
     title: "72.君主论：读它是一场危险的冒险"
     url: "/wiki/sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837/"

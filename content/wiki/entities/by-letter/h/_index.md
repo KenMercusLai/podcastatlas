@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12121
+wiki_total_pages: 12122
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "HMSEndurance"
     title: "HMS Endurance"
     url: "/wiki/entities/hmsendurance/"
+  - key: "HoChiMinh"
+    title: "Ho Chi Minh"
+    url: "/wiki/entities/hochiminh/"
   - key: "HockeyNinja"
     title: "Hockey Ninja"
     url: "/wiki/entities/hockeyninja/"

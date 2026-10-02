@@ -4,7 +4,8 @@ type: concept
 tags: [united-states, empire, memory, foreign-policy, identity]
 sources:
   - 152-american-crusades-glt4400059090
-last_updated: 2026-10-02
+  - 72-the-vietnam-war-glt4906340188
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,43 +13,50 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-American imperial self-denial is the gap between the United States' territorial conquest and overseas rule and its recurring self-image as a nation opposed to empire.
+American imperial self-denial is the gap between the United States' recurring anti-imperial self-image and conduct that involves territorial conquest, coercive overseas rule, or intervention with imperial effects.
 
 ## Current Synthesis
 
-[[152-american-crusades-glt4400059090]] grounds the concept in the Philippines. Americans openly debated imperialism and anti-imperialism in 1899-1900, annexed the islands, and fought a brutal war against Filipino resistance, yet the episode argues that the possession later became marginal to public attention and national memory.
+The Philippines provides the territorial case. Americans openly debated imperialism in 1899–1900, annexed the islands, and violently suppressed Filipino resistance, yet the possession later became marginal to public attention and national memory. Later wars against Nazi Germany, imperial Japan, and the Soviet “evil empire” reinforced an identity organized around opposition to other empires.
 
-Forgetting was reinforced by later wars against powers identified as empires, including Nazi Germany, imperial Japan, and the Soviet “evil empire.” Defining adversaries through empire could make American anti-imperial identity feel self-evident even where American conduct retained imperial features.
+Vietnam extends the concept beyond formal possession. The United States first supported French recolonization for Cold War reasons and later backed a non-communist South Vietnam while insisting it was not an imperial power. Preston's phrase “anti-imperial imperialism” captures the mechanism: rejecting colonial purpose or identity does not by itself remove imperial asymmetry, coercion, or dependency from policy. The category must still distinguish territorial colonial rule from alliance, aid, and intervention rather than treating every form of influence as identical.
 
 ## Key Claims
 
-- American denial of empire is incompatible with the history of overseas territorial possession and coercive rule.
-- Open debate around 1900 shows that contemporaries possessed and used the category of empire.
-- The Philippine experience reduced enthusiasm for further seizure while also becoming peripheral in later national memory.
-- Fighting rival empires strengthened an identity organized around opposition to empire.
-- Anti-imperial self-description can obscure rather than automatically disprove imperial conduct.
+- Anti-imperial self-description cannot by itself disprove imperial conduct or effects.
+- Territorial possession in the Philippines makes American participation in formal empire historically explicit.
+- Open debate around 1900 shows that contemporaries recognized and contested the category of empire.
+- Fighting rival empires strengthened a national identity that could obscure American coercion abroad.
+- Vietnam shows how imperial effects can arise through recolonization support, unequal alliance, intervention, and dependency without annexation.
+- Local agency remains essential: identifying imperial asymmetry must not turn Filipino or Vietnamese actors into passive objects.
 
 ## Evidence
 
-### Possession and contested rule
+### Territorial empire and forgetting
 
-- [[152-american-crusades-glt4400059090]] connects annexation of the Philippines, explicit imperialist and anti-imperialist debate, and violent suppression of Filipino resistance.
+- [[152-american-crusades-glt4400059090]] connects Philippine annexation, explicit imperialist and anti-imperialist debate, violent resistance suppression, later public marginalization, and an anti-imperial identity reinforced by conflict with rival empires.
 
-### Forgetting and adversarial identity
+### Intervention without annexation
 
-- [[152-american-crusades-glt4400059090]] argues that limited settler and official interest helped marginalize the Philippines, while later conflict with Nazi, Japanese, and Soviet empires reinforced American anti-imperial self-understanding.
+- [[72-the-vietnam-war-glt4906340188]] uses “anti-imperial imperialism” for U.S. support of France and later intervention in Vietnam while Americans continued to reject an imperial identity.
+- [[72-the-vietnam-war-glt4906340188]] also centers Vietnamese civil-war agency, preventing imperial analysis from becoming an exclusively American story.
 
 ## Counterevidence & Qualifications
 
-The episode distinguishes loss of interest from a conscious, coordinated suppression of memory. It does not establish one settled definition of empire, measure public memory over time, or show that all later U.S. alliances, bases, interventions, or influence were equivalent to territorial colonial rule.
+- The sources do not establish one settled definition that makes territorial colonialism, military alliance, covert action, economic influence, and direct intervention equivalent.
+- American officials' anti-colonial language and strategic concerns may have been sincerely held even when their policies had imperial effects.
+- The Philippine episode distinguishes loss of interest from a proven coordinated suppression of memory.
+- The Vietnam episode remains Western-framed and does not independently establish every motive, military claim, or counterfactual.
 
 ## What Changed
 
-- Created the concept around the contrast between Philippine rule and later anti-imperial national identity.
+- Extended the concept from formal Philippine possession to Vietnam-era intervention without annexation.
+- Added local agency as a guardrail against reproducing the American-centered framing under critique.
 
 ## Related Concepts
 
-- [[ManifestDestiny]] - expansionist duty narrative that preceded and helped legitimize overseas empire.
-- [[AmericanExceptionalism]] - national-difference belief that can support disavowal of ordinary imperial categories.
-- [[ReligiousMoralFramingOfUSForeignPolicy]] - mission language that can cast coercive power as uplift or liberation.
-- [[HistoricalMemoryContest]] - broader struggle over which pasts remain central to national identity.
+- [[ManifestDestiny]] - expansionist duty narrative that helped legitimize conquest and overseas rule.
+- [[AmericanExceptionalism]] - national-difference belief that can exempt American power from ordinary imperial categories.
+- [[ReligiousMoralFramingOfUSForeignPolicy]] - moral language that can cast coercive power as uplift or liberation.
+- [[VietnamWarCivilWarAgency]] - correction preventing imperial analysis from erasing Vietnamese political projects.
+- [[HistoricalMemoryContest]] - struggle over whether conquest and intervention remain central to national identity.

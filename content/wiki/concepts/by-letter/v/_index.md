@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 9419
+wiki_total_pages: 9421
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "VietnamWarAmericanMemory"
     title: "Vietnam War American Memory"
     url: "/wiki/concepts/vietnamwaramericanmemory/"
+  - key: "VietnamWarCivilWarAgency"
+    title: "Vietnam War Civil-War Agency"
+    url: "/wiki/concepts/vietnamwarcivilwaragency/"
   - key: "VietnamWarCredibilityCollapse"
     title: "Vietnam War Credibility Collapse"
     url: "/wiki/concepts/vietnamwarcredibilitycollapse/"

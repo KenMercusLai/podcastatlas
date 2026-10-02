@@ -10591,9 +10591,9 @@
       "url": "/wiki/concepts/americanexceptionalism/"
     },
     "AmericanImperialSelfDenial": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4400059090 [GLT4400059090].md",
@@ -10601,9 +10601,16 @@
           "show": "The Rest Is History",
           "title": "152. American Crusades",
           "url": "/wiki/sources/152-american-crusades-glt4400059090/"
+        },
+        {
+          "episode_file": "GLT4906340188 [GLT4906340188].md",
+          "key": "72-the-vietnam-war-glt4906340188",
+          "show": "The Rest Is History",
+          "title": "72. The Vietnam War",
+          "url": "/wiki/sources/72-the-vietnam-war-glt4906340188/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/americanimperialselfdenial/"
     },
     "AmericanIndependentParty": {
@@ -12014,9 +12021,9 @@
       "url": "/wiki/entities/andrewpalmer/"
     },
     "AndrewPreston": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8752091834 [GLT8752091834].md",
@@ -12031,9 +12038,16 @@
           "show": "The Rest Is History",
           "title": "152. American Crusades",
           "url": "/wiki/sources/152-american-crusades-glt4400059090/"
+        },
+        {
+          "episode_file": "GLT4906340188 [GLT4906340188].md",
+          "key": "72-the-vietnam-war-glt4906340188",
+          "show": "The Rest Is History",
+          "title": "72. The Vietnam War",
+          "url": "/wiki/sources/72-the-vietnam-war-glt4906340188/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/andrewpreston/"
     },
     "AndrogenInterventionClinicalBoundary": {
@@ -72053,6 +72067,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/firstcontactnoninterference/"
     },
+    "FirstIndochinaWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4906340188 [GLT4906340188].md",
+          "key": "72-the-vietnam-war-glt4906340188",
+          "show": "The Rest Is History",
+          "title": "72. The Vietnam War",
+          "url": "/wiki/sources/72-the-vietnam-war-glt4906340188/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/firstindochinawar/"
+    },
     "FirstMarchOnRome": {
       "episode_count": 2,
       "show_count": 1,
@@ -93341,6 +93371,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/hjalmarnilsonne/"
+    },
+    "HoChiMinh": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4906340188 [GLT4906340188].md",
+          "key": "72-the-vietnam-war-glt4906340188",
+          "show": "The Rest Is History",
+          "title": "72. The Vietnam War",
+          "url": "/wiki/sources/72-the-vietnam-war-glt4906340188/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/hochiminh/"
     },
     "HofburgPalace": {
       "episode_count": 1,
@@ -156177,9 +156223,9 @@
       "url": "/wiki/concepts/photocaptureprovenance/"
     },
     "PhotographicWitness": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1929673260 [GLT1929673260].md",
@@ -156187,9 +156233,16 @@
           "show": "The Rest Is History",
           "title": "493. Lee Miller: Exposing the Horrors of World War Two",
           "url": "/wiki/sources/493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260/"
+        },
+        {
+          "episode_file": "GLT4906340188 [GLT4906340188].md",
+          "key": "72-the-vietnam-war-glt4906340188",
+          "show": "The Rest Is History",
+          "title": "72. The Vietnam War",
+          "url": "/wiki/sources/72-the-vietnam-war-glt4906340188/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/photographicwitness/"
     },
     "PhysicalAIHardTakeoff": {
@@ -206388,9 +206441,9 @@
       "url": "/wiki/concepts/viennasocialhousingscale/"
     },
     "Vietnam": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国 [lkq2VXaATn4wXUE7y5q1FC3_8yfk].md",
@@ -206419,15 +206472,22 @@
           "show": "The Rest Is History",
           "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
           "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+        },
+        {
+          "episode_file": "GLT4906340188 [GLT4906340188].md",
+          "key": "72-the-vietnam-war-glt4906340188",
+          "show": "The Rest Is History",
+          "title": "72. The Vietnam War",
+          "url": "/wiki/sources/72-the-vietnam-war-glt4906340188/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/vietnam/"
     },
     "VietnamWarAmericanMemory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1698435670 [GLT1698435670].md",
@@ -206435,10 +206495,33 @@
           "show": "The Rest Is History",
           "title": "325: Fall of Saigon: Apocalypse Now (Part 2)",
           "url": "/wiki/sources/325-fall-of-saigon-apocalypse-now-part-2-glt1698435670/"
+        },
+        {
+          "episode_file": "GLT4906340188 [GLT4906340188].md",
+          "key": "72-the-vietnam-war-glt4906340188",
+          "show": "The Rest Is History",
+          "title": "72. The Vietnam War",
+          "url": "/wiki/sources/72-the-vietnam-war-glt4906340188/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/vietnamwaramericanmemory/"
+    },
+    "VietnamWarCivilWarAgency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4906340188 [GLT4906340188].md",
+          "key": "72-the-vietnam-war-glt4906340188",
+          "show": "The Rest Is History",
+          "title": "72. The Vietnam War",
+          "url": "/wiki/sources/72-the-vietnam-war-glt4906340188/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/vietnamwarcivilwaragency/"
     },
     "VietnamWarCredibilityCollapse": {
       "episode_count": 1,
