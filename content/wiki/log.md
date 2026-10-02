@@ -27825,3 +27825,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 106. Watergate: Part 1
+
+Added source `106-watergate-part-1-glt6675580126`; created `DanielEllsberg`, `PentagonPapers`, `WhiteHousePlumbers`, `HowardHunt`, `GordonLiddy`, `FrankWills`, `CommitteeToReelectPresident`, `OperationGemstone`, `ImperialPresidency`, and `PresidentialCommandClimate`; and resynthesized `WatergateScandal`, `RichardNixon`, and `HRHaldeman` from their complete preserved evidence inventories. Core synthesis: the Pentagon Papers response supplied the personnel and illegal leak-control methods that flowed through the plumbers and Gemstone into the DNC burglary, while Nixon's demands and loyalist structure created a permissive command climate without establishing a direct operational order; the June 23 tape separately grounds his early participation in obstruction. No settled contradiction was adopted. Nixon's psychology, advance knowledge, policy comparisons, operative motives, exact authorization sequence, dialogue, and counterfactual responsibility remain interpretive or source-scoped. Recurring show, agency, and briefly mentioned historical-figure pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,477-source coverage; no topic claim set was dirty and global compaction was not due. Changed canonical-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the corpus-wide scan still reports unrelated legacy broken links.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

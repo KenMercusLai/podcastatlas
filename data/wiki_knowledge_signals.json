@@ -39630,6 +39630,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/committeeofpublicsafety/"
     },
+    "CommitteeToReelectPresident": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6675580126 [GLT6675580126].md",
+          "key": "106-watergate-part-1-glt6675580126",
+          "show": "The Rest Is History",
+          "title": "106. Watergate: Part 1",
+          "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/committeetoreelectpresident/"
+    },
     "Commius": {
       "episode_count": 1,
       "show_count": 1,
@@ -46294,6 +46310,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/danielek/"
+    },
+    "DanielEllsberg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6675580126 [GLT6675580126].md",
+          "key": "106-watergate-part-1-glt6675580126",
+          "show": "The Rest Is History",
+          "title": "106. Watergate: Part 1",
+          "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/danielellsberg/"
     },
     "DanielOConnell": {
       "episode_count": 1,
@@ -73465,6 +73497,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/franksmith/"
     },
+    "FrankWills": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6675580126 [GLT6675580126].md",
+          "key": "106-watergate-part-1-glt6675580126",
+          "show": "The Rest Is History",
+          "title": "106. Watergate: Part 1",
+          "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/frankwills/"
+    },
     "Frankenstein": {
       "episode_count": 3,
       "show_count": 2,
@@ -81656,6 +81704,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/gordoncorera/"
     },
+    "GordonLiddy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6675580126 [GLT6675580126].md",
+          "key": "106-watergate-part-1-glt6675580126",
+          "show": "The Rest Is History",
+          "title": "106. Watergate: Part 1",
+          "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/gordonliddy/"
+    },
     "Goree": {
       "episode_count": 1,
       "show_count": 1,
@@ -84524,9 +84588,9 @@
       "url": "/wiki/concepts/hpvpreventionandfollowup/"
     },
     "HRHaldeman": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3853956463 [GLT3853956463].md",
@@ -84541,6 +84605,13 @@
           "show": "The Rest Is History",
           "title": "107. Watergate: Part 2",
           "url": "/wiki/sources/107-watergate-part-2-glt9677344742/"
+        },
+        {
+          "episode_file": "GLT6675580126 [GLT6675580126].md",
+          "key": "106-watergate-part-1-glt6675580126",
+          "show": "The Rest Is History",
+          "title": "106. Watergate: Part 1",
+          "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
         }
       ],
       "updated": "2026-10-02",
@@ -93291,6 +93362,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/howardhughesholdings/"
     },
+    "HowardHunt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6675580126 [GLT6675580126].md",
+          "key": "106-watergate-part-1-glt6675580126",
+          "show": "The Rest Is History",
+          "title": "106. Watergate: Part 1",
+          "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/howardhunt/"
+    },
     "HuChangWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -98204,6 +98291,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/imperialpreferencespeechrisk/"
+    },
+    "ImperialPresidency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6675580126 [GLT6675580126].md",
+          "key": "106-watergate-part-1-glt6675580126",
+          "show": "The Rest Is History",
+          "title": "106. Watergate: Part 1",
+          "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/imperialpresidency/"
     },
     "ImperialPrestigeVindication": {
       "episode_count": 2,
@@ -145989,6 +146092,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/operationfrequentwind/"
     },
+    "OperationGemstone": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6675580126 [GLT6675580126].md",
+          "key": "106-watergate-part-1-glt6675580126",
+          "show": "The Rest Is History",
+          "title": "106. Watergate: Part 1",
+          "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/operationgemstone/"
+    },
     "OperationUranus": {
       "episode_count": 1,
       "show_count": 1,
@@ -150590,6 +150709,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/pennsylvaniaexecutiongovernance/"
+    },
+    "PentagonPapers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6675580126 [GLT6675580126].md",
+          "key": "106-watergate-part-1-glt6675580126",
+          "show": "The Rest Is History",
+          "title": "106. Watergate: Part 1",
+          "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/pentagonpapers/"
     },
     "PeopleArtistStateHonor": {
       "episode_count": 1,
@@ -157490,6 +157625,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/presidentialaccessibilitysecuritytradeoff/"
+    },
+    "PresidentialCommandClimate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6675580126 [GLT6675580126].md",
+          "key": "106-watergate-part-1-glt6675580126",
+          "show": "The Rest Is History",
+          "title": "106. Watergate: Part 1",
+          "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/presidentialcommandclimate/"
     },
     "PresidentialImpeachment": {
       "episode_count": 2,
@@ -167842,9 +167993,9 @@
       "url": "/wiki/entities/richardnevilleearlofwarwick/"
     },
     "RichardNixon": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "Vol.268 两个劳斯莱斯 [1003563933].md",
@@ -167894,6 +168045,13 @@
           "show": "The Rest Is History",
           "title": "107. Watergate: Part 2",
           "url": "/wiki/sources/107-watergate-part-2-glt9677344742/"
+        },
+        {
+          "episode_file": "GLT6675580126 [GLT6675580126].md",
+          "key": "106-watergate-part-1-glt6675580126",
+          "show": "The Rest Is History",
+          "title": "106. Watergate: Part 1",
+          "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
         }
       ],
       "updated": "2026-10-02",
@@ -206083,9 +206241,9 @@
       "url": "/wiki/concepts/watersystemcyberresilience/"
     },
     "WatergateScandal": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9677344742 [GLT9677344742].md",
@@ -206093,6 +206251,13 @@
           "show": "The Rest Is History",
           "title": "107. Watergate: Part 2",
           "url": "/wiki/sources/107-watergate-part-2-glt9677344742/"
+        },
+        {
+          "episode_file": "GLT6675580126 [GLT6675580126].md",
+          "key": "106-watergate-part-1-glt6675580126",
+          "show": "The Rest Is History",
+          "title": "106. Watergate: Part 1",
+          "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
         }
       ],
       "updated": "2026-10-02",
@@ -207675,6 +207840,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/whitehorsetemple/"
+    },
+    "WhiteHousePlumbers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6675580126 [GLT6675580126].md",
+          "key": "106-watergate-part-1-glt6675580126",
+          "show": "The Rest Is History",
+          "title": "106. Watergate: Part 1",
+          "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/whitehouseplumbers/"
     },
     "WhiteRose": {
       "episode_count": 1,

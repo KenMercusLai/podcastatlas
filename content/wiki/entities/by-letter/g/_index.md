@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12012
+wiki_total_pages: 12020
 wiki_pages:
+  - key: "GordonLiddy"
+    title: "G. Gordon Liddy"
+    url: "/wiki/entities/gordonliddy/"
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
     url: "/wiki/entities/gwfhegel/"

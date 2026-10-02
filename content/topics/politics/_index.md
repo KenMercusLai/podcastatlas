@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2986
+topic_total_pages: 2988
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1936,6 +1936,9 @@ topic_concepts:
   - key: "ImperialPetitionOffenseRisk"
     title: "Imperial Petition Offense Risk / 申冤上书冒犯风险"
     url: "/wiki/concepts/imperialpetitionoffenserisk/"
+  - key: "ImperialPresidency"
+    title: "Imperial Presidency"
+    url: "/wiki/concepts/imperialpresidency/"
   - key: "ImperialPrestigeVindication"
     title: "Imperial Prestige Vindication"
     url: "/wiki/concepts/imperialprestigevindication/"
@@ -3076,6 +3079,9 @@ topic_concepts:
   - key: "PresidentialAccessibilitySecurityTradeoff"
     title: "Presidential Accessibility-Security Tradeoff"
     url: "/wiki/concepts/presidentialaccessibilitysecuritytradeoff/"
+  - key: "PresidentialCommandClimate"
+    title: "Presidential Command Climate"
+    url: "/wiki/concepts/presidentialcommandclimate/"
   - key: "PresidentialConflictOfInterest"
     title: "Presidential Conflict Of Interest"
     url: "/wiki/concepts/presidentialconflictofinterest/"

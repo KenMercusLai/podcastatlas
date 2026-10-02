@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12012
+wiki_total_pages: 12020
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
     url: "/wiki/entities/huckleberryfinn/"
+  - key: "HowardHunt"
+    title: "E. Howard Hunt"
+    url: "/wiki/entities/howardhunt/"
   - key: "HanAidi"
     title: "Emperor Ai of Han / 汉哀帝"
     url: "/wiki/entities/hanaidi/"

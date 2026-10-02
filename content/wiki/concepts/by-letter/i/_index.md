@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9324
+wiki_total_pages: 9326
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "ImperialPetitionOffenseRisk"
     title: "Imperial Petition Offense Risk / 申冤上书冒犯风险"
     url: "/wiki/concepts/imperialpetitionoffenserisk/"
+  - key: "ImperialPresidency"
+    title: "Imperial Presidency"
+    url: "/wiki/concepts/imperialpresidency/"
   - key: "ImperialPrestigeVindication"
     title: "Imperial Prestige Vindication"
     url: "/wiki/concepts/imperialprestigevindication/"

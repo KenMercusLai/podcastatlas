@@ -133,6 +133,13 @@
       "url": "/topics/science/"
     }
   ],
+  "106-watergate-part-1-glt6675580126": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "107-watergate-part-2-glt9677344742": [
     {
       "key": "history",
@@ -42343,6 +42350,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ImperialPresidency": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ImperialPrestigeVindication": [
     {
       "key": "politics",
@@ -63641,6 +63655,13 @@
     }
   ],
   "PresidentialAccessibilitySecurityTradeoff": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PresidentialCommandClimate": [
     {
       "key": "politics",
       "label": "Politics",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12012
+wiki_total_pages: 12020
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1316,6 +1316,9 @@ wiki_pages:
   - key: "CommitteeOfPublicSafety"
     title: "Committee of Public Safety"
     url: "/wiki/entities/committeeofpublicsafety/"
+  - key: "CommitteeToReelectPresident"
+    title: "Committee to Re-elect the President"
+    url: "/wiki/entities/committeetoreelectpresident/"
   - key: "Commius"
     title: "Commius"
     url: "/wiki/entities/commius/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9324
+wiki_total_pages: 9326
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1658,6 +1658,9 @@ wiki_pages:
   - key: "PresidentialAccessibilitySecurityTradeoff"
     title: "Presidential Accessibility-Security Tradeoff"
     url: "/wiki/concepts/presidentialaccessibilitysecuritytradeoff/"
+  - key: "PresidentialCommandClimate"
+    title: "Presidential Command Climate"
+    url: "/wiki/concepts/presidentialcommandclimate/"
   - key: "PresidentialConflictOfInterest"
     title: "Presidential Conflict Of Interest"
     url: "/wiki/concepts/presidentialconflictofinterest/"

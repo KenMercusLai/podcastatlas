@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [106. Watergate: Part 1](sources/106-watergate-part-1-glt6675580126.md) — The Rest Is History on Nixon's outsider formation, the Pentagon Papers, plumbers, Gemstone, the DNC burglary, and the June 23 obstruction discussion.
 - [Effects of Fasting & Time Restricted Eating on Fat Loss & Health](sources/scim6513533538-scim6513533538.md) — Huberman Lab solo episode on circadian eating windows, energy balance, physiological fasting state, glucose tools, adherence, and hormone or fertility boundaries.
 - [107. Watergate: Part 2](sources/107-watergate-part-2-glt9677344742.md) — The Rest Is History on Nixon's cover-up, the tapes, institutional confrontation, resignation, Ford's pardon, and Watergate's accountability-and-trust legacy.
 - [108. The Industrial Revolution](sources/108-the-industrial-revolution-glt2130563458.md) — The Rest Is History with Emma Griffin on Britain's conjunctural industrial takeoff, scarcity and abundance, worker agency, unequal gains, gender, child labor, empire, and environmental cost.
@@ -3538,7 +3539,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar](sources/scim9724505974-scim9724505974.md) — Huberman Lab interview on melanopsin light sensing, circadian alignment, mood pathways, meal and exercise timing, and internal-time-aware travel adaptation.
 
 ## Entities
-- [Watergate Scandal](entities/WatergateScandal.md) — Constitutional crisis in which burglary concealment, evidence resistance, and cross-party accountability forced Richard Nixon's resignation.
+- [Daniel Ellsberg](entities/DanielEllsberg.md) — Pentagon Papers source whose targeting connected Vietnam disclosure to the illegal methods preceding Watergate.
+- [Pentagon Papers](entities/PentagonPapers.md) — Classified Vietnam history whose disclosure triggered the White House leak-control response central to Watergate's prehistory.
+- [White House Plumbers](entities/WhiteHousePlumbers.md) — Leak-control unit whose illegal methods and operatives bridged the Pentagon Papers response and Watergate.
+- [E. Howard Hunt](entities/HowardHunt.md) — Former CIA and plumbers operative who helped carry covert methods into Gemstone and the Watergate burglary.
+- [G. Gordon Liddy](entities/GordonLiddy.md) — Extreme political operative whose Gemstone proposals became actionable within Nixon's reelection campaign.
+- [Frank Wills](entities/FrankWills.md) — Watergate security guard whose attention to taped doors exposed the DNC burglary.
+- [Committee to Re-elect the President](entities/CommitteeToReelectPresident.md) — Nixon campaign organization through which retained operatives and dirty-tricks proposals developed into the Watergate operation.
+- [Operation Gemstone](entities/OperationGemstone.md) — Umbrella of campaign dirty-tricks proposals that culminated in the DNC bugging plan.
+- [Watergate Scandal](entities/WatergateScandal.md) — Constitutional crisis joining leak retaliation, campaign burglary, obstruction, evidence resistance, and cross-party accountability.
 - [John Dean](entities/JohnDean.md) — White House counsel who moved from Watergate cover-up participant to warning insider and cooperating witness.
 - [Emma Griffin](entities/EmmaGriffin.md) — Historian interpreting Britain's industrialisation through combined economic causes and uneven worker, gender, childhood, and environmental effects.
 - [Mary Anning](entities/MaryAnning.md) — Fossil pioneer whose marine discoveries and uneven recognition show how field skill, commerce, class, and gender shaped early paleontology.
@@ -14245,7 +14254,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《弹劾》 / Impeachment: A Citizen's Guide](entities/ImpeachmentBook.md) — Sunstein book used by the episode to define impeachment around office abuse, public trust, and constitutional order.
 - [Alexander Hamilton](entities/AlexanderHamilton.md) — Federalist state-builder, executive-power theorist, and fatal participant in the Hamilton-Burr duel.
 - [Andrew Johnson](entities/AndrewJohnson.md) — First impeached U.S. president, used as a historical case for legal charges amid wider constitutional-political conflict.
-- [Richard Nixon](entities/RichardNixon.md) — Politically resilient U.S. president whose controlled style, institutional pressure, Watergate obstruction, and resignation define a mixed legacy.
+- [Richard Nixon](entities/RichardNixon.md) — Politically resilient U.S. president whose outsider identity, controlled style, diplomacy, institutional pressure, and Watergate obstruction define a mixed legacy.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
 - [Daniel Knowles](entities/DanielKnowles.md) — The Intelligence panelist warning that Supreme Court behavior and executive-power disputes show weakening U.S. constitutional guardrails.
 - [Rebecca Jackson](entities/RebeccaJackson.md) — The Intelligence panelist emphasizing representation erosion and historical memory conflicts in the America-at-250 episode.
@@ -15284,7 +15293,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [1968 United States Presidential Election](entities/UnitedStatesPresidentialElection1968.md) — Contest opened by Tet, McCarthy, and Johnson's withdrawal, then shaped by party crisis, disorder, racial signaling, Wallace, and campaign control.
 - [Hubert Humphrey](entities/HubertHumphrey.md) — Democratic nominee whose break with Johnson's bombing policy enabled a late but incomplete 1968 recovery.
 - [Spiro Agnew](entities/SpiroAgnew.md) — Nixon running mate selected to reinforce border-state and law-and-order appeal.
-- [H. R. Haldeman](entities/HRHaldeman.md) — Nixon loyalist linking personal campaign control and racially calculated messaging to the Watergate inner circle.
+- [H. R. Haldeman](entities/HRHaldeman.md) — Nixon loyalist linking campaign control and racially calculated messaging to the June 23 obstruction discussion and Watergate inner circle.
 - [Anna Chennault](entities/AnnaChennault.md) — Campaign intermediary whose contact with South Vietnam is documented but whose decisive influence remains contested.
 - [George Wallace](entities/GeorgeWallace.md) — Alabama segregationist who nationalized anti-government and law-and-order grievance in a consequential 1968 third-party campaign.
 - [Lurleen Wallace](entities/LurleenWallace.md) — Alabama proxy governor whose election preserved George Wallace's control despite term limits.
@@ -15592,6 +15601,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
 
 ## Concepts
+- [Imperial Presidency](concepts/ImperialPresidency.md) — Concentrated Cold War executive authority whose secrecy and operational capacity magnified the consequences of Nixon's personal style.
+- [Presidential Command Climate](concepts/PresidentialCommandClimate.md) — Incentive environment separating broad presidential pressure and personnel choices from proof of a specific operational order.
 - [Fed-Fasted State Continuum](concepts/FedFastedStateContinuum.md) — Distinction between time since the last calorie and physiological state across digestion, glucose, insulin, activity, fuel use, and cellular signaling.
 - [Cover-Up Escalation](concepts/CoverUpEscalation.md) — Process by which concealment creates new liabilities, defections, evidence conflicts, and institutional confrontations beyond an initiating offense.
 - [Constitutional Accountability-Trust Paradox](concepts/ConstitutionalAccountabilityTrustParadox.md) — Tension in which successful constraint demonstrates institutional strength while revealed abuse reduces public trust.

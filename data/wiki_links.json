@@ -79,6 +79,10 @@
     "title": "106.别再害怕冲突，快来学习谈判术！",
     "url": "/wiki/sources/106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645/"
   },
+  "106-watergate-part-1-glt6675580126": {
+    "title": "106. Watergate: Part 1",
+    "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
+  },
   "107-watergate-part-2-glt9677344742": {
     "title": "107. Watergate: Part 2",
     "url": "/wiki/sources/107-watergate-part-2-glt9677344742/"
@@ -18523,6 +18527,10 @@
     "title": "Committee of Public Safety",
     "url": "/wiki/entities/committeeofpublicsafety/"
   },
+  "CommitteeToReelectPresident": {
+    "title": "Committee to Re-elect the President",
+    "url": "/wiki/entities/committeetoreelectpresident/"
+  },
   "Commius": {
     "title": "Commius",
     "url": "/wiki/entities/commius/"
@@ -21170,6 +21178,10 @@
   "DanielEk": {
     "title": "Daniel Ek",
     "url": "/wiki/entities/danielek/"
+  },
+  "DanielEllsberg": {
+    "title": "Daniel Ellsberg",
+    "url": "/wiki/entities/danielellsberg/"
   },
   "DanielFranklin": {
     "title": "Daniel Franklin",
@@ -30447,6 +30459,10 @@
     "title": "Frank Wells",
     "url": "/wiki/entities/frankwells/"
   },
+  "FrankWills": {
+    "title": "Frank Wills",
+    "url": "/wiki/entities/frankwills/"
+  },
   "Frankenstein": {
     "title": "Frankenstein / 《弗兰肯斯坦》",
     "url": "/wiki/entities/frankenstein/"
@@ -33250,6 +33266,10 @@
   "GordonHansen": {
     "title": "Gordon Hanson",
     "url": "/wiki/entities/gordonhansen/"
+  },
+  "GordonLiddy": {
+    "title": "G. Gordon Liddy",
+    "url": "/wiki/entities/gordonliddy/"
   },
   "GordonMoore": {
     "title": "Gordon Moore",
@@ -37347,6 +37367,10 @@
     "title": "Howard Hughes Holdings",
     "url": "/wiki/entities/howardhughesholdings/"
   },
+  "HowardHunt": {
+    "title": "E. Howard Hunt",
+    "url": "/wiki/entities/howardhunt/"
+  },
   "HowardLutnick": {
     "title": "Howard Lutnick",
     "url": "/wiki/entities/howardlutnick/"
@@ -38718,6 +38742,10 @@
   "ImperialPreferenceSpeechRisk": {
     "title": "帝王偏好下的表达风险 / Imperial Preference Speech Risk",
     "url": "/wiki/concepts/imperialpreferencespeechrisk/"
+  },
+  "ImperialPresidency": {
+    "title": "Imperial Presidency",
+    "url": "/wiki/concepts/imperialpresidency/"
   },
   "ImperialPrestigeVindication": {
     "title": "Imperial Prestige Vindication",
@@ -57159,6 +57187,10 @@
     "title": "Operation Frequent Wind",
     "url": "/wiki/entities/operationfrequentwind/"
   },
+  "OperationGemstone": {
+    "title": "Operation Gemstone",
+    "url": "/wiki/entities/operationgemstone/"
+  },
   "OperationPimlico": {
     "title": "Operation Pimlico / 皮姆利科行动",
     "url": "/wiki/entities/operationpimlico/"
@@ -59046,6 +59078,10 @@
   "PennyStockBoilerRoomFraud": {
     "title": "Penny Stock Boiler Room Fraud",
     "url": "/wiki/concepts/pennystockboilerroomfraud/"
+  },
+  "PentagonPapers": {
+    "title": "Pentagon Papers",
+    "url": "/wiki/entities/pentagonpapers/"
   },
   "PeopleArtistStateHonor": {
     "title": "People's Artist State Honor",
@@ -61514,6 +61550,10 @@
   "PresidentialAccessibilitySecurityTradeoff": {
     "title": "Presidential Accessibility-Security Tradeoff",
     "url": "/wiki/concepts/presidentialaccessibilitysecuritytradeoff/"
+  },
+  "PresidentialCommandClimate": {
+    "title": "Presidential Command Climate",
+    "url": "/wiki/concepts/presidentialcommandclimate/"
   },
   "PresidentialConflictOfInterest": {
     "title": "Presidential Conflict Of Interest",
@@ -82114,6 +82154,10 @@
   "WhiteHouse": {
     "title": "White House",
     "url": "/wiki/entities/whitehouse/"
+  },
+  "WhiteHousePlumbers": {
+    "title": "White House Plumbers",
+    "url": "/wiki/entities/whitehouseplumbers/"
   },
   "WhiteMountainApache": {
     "title": "White Mountain Apache / 怀特山区阿帕齐",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12012
+wiki_total_pages: 12020
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "Pennsylvania"
     title: "Pennsylvania"
     url: "/wiki/entities/pennsylvania/"
+  - key: "PentagonPapers"
+    title: "Pentagon Papers"
+    url: "/wiki/entities/pentagonpapers/"
   - key: "PeoplesBankOfChina"
     title: "People's Bank of China"
     url: "/wiki/entities/peoplesbankofchina/"

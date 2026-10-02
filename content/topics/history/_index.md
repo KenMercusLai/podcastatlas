@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2415
+topic_total_pages: 2416
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4821,6 +4821,9 @@ topic_sources:
   - key: "05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925"
     title: "05.她来自马里乌波尔：“如果你看见过我曾见到的。”"
     url: "/wiki/sources/05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925/"
+  - key: "106-watergate-part-1-glt6675580126"
+    title: "106. Watergate: Part 1"
+    url: "/wiki/sources/106-watergate-part-1-glt6675580126/"
   - key: "107-watergate-part-2-glt9677344742"
     title: "107. Watergate: Part 2"
     url: "/wiki/sources/107-watergate-part-2-glt9677344742/"
