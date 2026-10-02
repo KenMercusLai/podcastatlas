@@ -45469,9 +45469,9 @@
       "url": "/wiki/concepts/daigouchannel/"
     },
     "DailyCircadianPerformanceRoutine": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5427393382 [SCIM5427393382].md",
@@ -45493,6 +45493,13 @@
           "show": "Huberman Lab",
           "title": "The Science of Making & Breaking Habits",
           "url": "/wiki/sources/the-science-of-making-breaking-habits-scim6848516659/"
+        },
+        {
+          "episode_file": "SCIM2746317304 [SCIM2746317304].md",
+          "key": "scim2746317304-scim2746317304",
+          "show": "Huberman Lab",
+          "title": "Time Perception & Entrainment by Dopamine, Serotonin & Hormones",
+          "url": "/wiki/sources/scim2746317304-scim2746317304/"
         }
       ],
       "updated": "2026-10-02",
@@ -83935,9 +83942,9 @@
       "url": "/wiki/entities/habibaystartupembassyresident/"
     },
     "HabitAutomaticityAndTaskBracketing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6848516659 [SCIM6848516659].md",
@@ -83945,6 +83952,13 @@
           "show": "Huberman Lab",
           "title": "The Science of Making & Breaking Habits",
           "url": "/wiki/sources/the-science-of-making-breaking-habits-scim6848516659/"
+        },
+        {
+          "episode_file": "SCIM2746317304 [SCIM2746317304].md",
+          "key": "scim2746317304-scim2746317304",
+          "show": "Huberman Lab",
+          "title": "Time Perception & Entrainment by Dopamine, Serotonin & Hormones",
+          "url": "/wiki/sources/scim2746317304-scim2746317304/"
         }
       ],
       "updated": "2026-10-02",
@@ -139509,9 +139523,9 @@
       "url": "/wiki/concepts/neurodivergentaiaugmentation/"
     },
     "NeuromodulatorStateToolkit": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -139547,9 +139561,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools to Improve Your Focus & Concentration",
           "url": "/wiki/sources/essentials-tools-to-improve-your-focus-concentration-scim2328129388/"
+        },
+        {
+          "episode_file": "SCIM2746317304 [SCIM2746317304].md",
+          "key": "scim2746317304-scim2746317304",
+          "show": "Huberman Lab",
+          "title": "Time Perception & Entrainment by Dopamine, Serotonin & Hormones",
+          "url": "/wiki/sources/scim2746317304-scim2746317304/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
@@ -193565,6 +193586,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/timeandpaydayloantrap/"
     },
+    "TimePerceptionAndNeurochemicalState": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2746317304 [SCIM2746317304].md",
+          "key": "scim2746317304-scim2746317304",
+          "show": "Huberman Lab",
+          "title": "Time Perception & Entrainment by Dopamine, Serotonin & Hormones",
+          "url": "/wiki/sources/scim2746317304-scim2746317304/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/timeperceptionandneurochemicalstate/"
+    },
     "TimelyRetirementRiskAvoidance": {
       "episode_count": 1,
       "show_count": 1,
@@ -197309,9 +197346,9 @@
       "url": "/wiki/concepts/ultraprocessedfoodpragmaticboundary/"
     },
     "UltradianDeepWorkBlock": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM5427393382 [SCIM5427393382].md",
@@ -197340,6 +197377,13 @@
           "show": "Huberman Lab",
           "title": "Optimizing Workspace for Productivity, Focus, & Creativity",
           "url": "/wiki/sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757/"
+        },
+        {
+          "episode_file": "SCIM2746317304 [SCIM2746317304].md",
+          "key": "scim2746317304-scim2746317304",
+          "show": "Huberman Lab",
+          "title": "Time Perception & Entrainment by Dopamine, Serotonin & Hormones",
+          "url": "/wiki/sources/scim2746317304-scim2746317304/"
         }
       ],
       "updated": "2026-10-02",

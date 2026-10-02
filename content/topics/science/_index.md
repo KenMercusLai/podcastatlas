@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1406
+topic_total_pages: 1408
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2230,6 +2230,9 @@ topic_concepts:
   - key: "ThreatDrivenAllianceReversal"
     title: "Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转"
     url: "/wiki/concepts/threatdrivenalliancereversal/"
+  - key: "TimePerceptionAndNeurochemicalState"
+    title: "Time Perception and Neurochemical State"
+    url: "/wiki/concepts/timeperceptionandneurochemicalstate/"
   - key: "TotalitarianDoubleLife"
     title: "Totalitarian Double Life / 极权双重生活"
     url: "/wiki/concepts/totalitariandoublelife/"
@@ -4107,6 +4110,9 @@ topic_sources:
   - key: "the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714"
     title: "The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez"
     url: "/wiki/sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714/"
+  - key: "scim2746317304-scim2746317304"
+    title: "Time Perception & Entrainment by Dopamine, Serotonin & Hormones"
+    url: "/wiki/sources/scim2746317304-scim2746317304/"
   - key: "tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886"
     title: "Tools for Hormone Optimization in Males | Dr. Kyle Gillett"
     url: "/wiki/sources/tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886/"

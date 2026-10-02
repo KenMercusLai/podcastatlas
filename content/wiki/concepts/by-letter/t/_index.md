@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9289
+wiki_total_pages: 9290
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "TimeAndPaydayLoanTrap"
     title: "Time and Payday Loan Trap / 时间与短贷陷阱"
     url: "/wiki/concepts/timeandpaydayloantrap/"
+  - key: "TimePerceptionAndNeurochemicalState"
+    title: "Time Perception and Neurochemical State"
+    url: "/wiki/concepts/timeperceptionandneurochemicalstate/"
   - key: "TimeStasisSystem"
     title: "Time-Stasis System"
     url: "/wiki/concepts/timestasissystem/"

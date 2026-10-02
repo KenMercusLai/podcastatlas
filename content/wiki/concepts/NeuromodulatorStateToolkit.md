@@ -8,7 +8,8 @@ sources:
   - focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033
   - optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946
   - essentials-tools-to-improve-your-focus-concentration-scim2328129388
-last_updated: 2026-10-01
+  - scim2746317304-scim2746317304
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,14 +25,16 @@ In [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim885
 
 [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] applies the four-chemical map specifically to concentration: epinephrine supplies alertness, acetylcholine selects the target, and dopamine supports continued pursuit. [[essentials-tools-to-improve-your-focus-concentration-scim2328129388]] preserves that metaphor in a condensed edit rather than independently corroborating it. The metaphor is pedagogical rather than a complete circuit model, and its behavioral-first ordering reinforces that sleep, work design, refocusing, and recovery should precede increasingly potent interventions.
 
+Subjective time is another proposed state-dependent output. In [[scim2746317304-scim2746317304]], dopamine- and norepinephrine-associated arousal is said to increase temporal resolution and elapsed-time estimates, while serotonin-associated states reduce them. This frame-rate account is retained as a source-scoped teaching model because attention, discomfort, drugs, sleep, and memory encoding are not reducible to one transmitter.
+
 ## Key Claims
 - Dopamine is framed as a motivation, drive, pursuit, anticipation, learning, and partial focus signal.
 - Epinephrine and norepinephrine are framed as energy, alertness, movement-readiness, and neural-excitability signals.
 - Serotonin is framed as a wellbeing, contentment, relaxation, satiety, and pain-relief signal.
 - Acetylcholine is framed as a focus, learning, and information-encoding signal that depends strongly on current activity.
 - Daily phase matters because dopamine and epinephrine are presented as higher earlier after waking while serotonin rises later.
-- Hormones, sleep, travel, diet, supplements, and personal context can change whether a tool helps or overshoots.
 - For focus specifically, alertness, selective attention, and persistence are complementary rather than interchangeable; prescription drugs, potent supplements, deliberate cold exposure, and addiction-recovery claims remain clinician-bound or source-scoped.
+- Present and remembered duration may shift with arousal, attention, and neuromodulator-associated state, but no transmitter functions as an exclusive internal clock.
 
 ## Evidence
 - Chemical-role map: [[essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379]] associates dopamine with motivation, epinephrine with energy, serotonin with wellbeing, and acetylcholine with focus and learning.
@@ -41,12 +44,13 @@ In [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim885
 - Safety and individualization: [[essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379]] warns about manipulating dopamine, serotonin, breathing, cold exposure, nicotine, and prescription-relevant pathways without context, while [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] adds warnings about stacking, addiction recovery, supplements, and cold-exposure timing.
 - Focus-specific mapping: [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] and its condensed [[essentials-tools-to-improve-your-focus-concentration-scim2328129388]] edit use epinephrine, acetylcholine, and dopamine to distinguish alertness, target selection, and persistence, then order behavior and nutrition before supplements and clinician-supervised drugs.
 - Full-length provenance: [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946]] supplies the original phase model, four-chemical framework, behavioral-first ordering, and individualized-experiment boundary later compressed by the Essentials edit.
+- Time-perception application: [[scim2746317304-scim2746317304]] applies dopamine-, norepinephrine-, and serotonin-associated states to present, prospective, and retrospective timing through a qualified frame-rate metaphor.
 
 ## Counterevidence & Qualifications
-This page summarizes practical neuroscience episodes, not a complete clinical neuroscience model. The arrow metaphor simplifies interacting systems and does not show that any one transmitter maps exclusively onto one mental function. The sources do not establish universal dosing, medication decisions, supplement safety, addiction treatment, cold-exposure suitability, or a guarantee that a given behavioral tool will move a person's state in the intended direction.
+This page summarizes practical neuroscience episodes, not a complete clinical neuroscience model. The arrow and frame-rate metaphors simplify interacting systems and do not show that any one transmitter maps exclusively onto one mental function or time judgment. The sources do not establish universal dosing, medication decisions, supplement safety, addiction treatment, trauma treatment, cold-exposure suitability, or a guarantee that a given behavioral tool will move a person's state in the intended direction.
 
 ## What Changed
-- Classified the focus Essentials cut as overlapping editorial provenance rather than independent evidence for the three-part metaphor.
+- Added time perception as a qualified state-dependent output of arousal, attention, and memory encoding.
 
 ## Related Concepts
 - [[DopamineToolTiming]] - dopamine-specific branch for motivation tools and timing.
@@ -60,3 +64,4 @@ This page summarizes practical neuroscience episodes, not a complete clinical ne
 - [[EmotionRegulationToolkit]] - adjacent self-regulation frame for monitoring and shaping internal states.
 - [[PsychiatricMedicationSupervisionBoundary]] - medical boundary for not converting mechanism talk into unsupervised drug decisions.
 - [[FocusTrainingToolkit]] - application of state regulation to focus entry, return, bounded work, and recovery.
+- [[TimePerceptionAndNeurochemicalState]] - application of the state model to experienced and remembered duration.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Time Perception & Entrainment by Dopamine, Serotonin & Hormones](sources/scim2746317304-scim2746317304.md) — Huberman Lab episode on biological entrainment, neurochemical state, present and remembered duration, work rhythms, and flexible temporal landmarks.
 - [121. Australia Before Cook](sources/121-australia-before-cook-glt2957294549.md) — The Rest Is History with David Hunt on Aboriginal deep time, oral traditions, Makassan exchange, pre-Cook contact, discovery myths, and contingent British settlement.
 - [122. Athelstan: England's Greatest Monarch](sources/122-athelstan-englands-greatest-monarch-glt8211065813.md) — The Rest Is History episode on Athelstan's Mercian formation, 927 unification, law, coinage, Christian kingship, diplomacy, Brunanburh, and specialist recovery.
 - [The Science of Gratitude & How to Build a Gratitude Practice](sources/scim2344094719-scim2344094719.md) — Huberman Lab episode distinguishing gratitude lists from sincere received or narratively witnessed gratitude and proposing a brief, source-scoped story-cue practice.
@@ -15538,6 +15539,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Time Perception and Neurochemical State](concepts/TimePerceptionAndNeurochemicalState.md) — State-dependent model separating present, prospective, and retrospective duration judgments.
 - [Australian Deep Time and Oral Continuity](concepts/AustralianDeepTimeAndOralContinuity.md) — Archaeological, genetic, linguistic, oral, legal, and landscape evidence for Aboriginal Australian history across deep time.
 - [Pre-British Australian Contact](concepts/PreBritishAustralianContact.md) — Evidence-ranked history of Makassan exchange and European maritime contact before Cook's 1770 voyage.
 - [Battle of Brunanburh](concepts/BattleOfBrunanburh.md) — Athelstan and Edmund's 937 coalition victory defending an enlarged but still contested English kingdom.

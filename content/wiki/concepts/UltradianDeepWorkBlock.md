@@ -7,6 +7,7 @@ sources:
   - focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033
   - essentials-tools-to-improve-your-focus-concentration-scim2328129388
   - optimizing-workspace-for-productivity-focus-creativity-scim5202577757
+  - scim2746317304-scim2746317304
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -23,14 +24,16 @@ Timing is treated as adjustable. The episode proposes four to six hours after es
 
 Workspace setup and interruption control become explicit in [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]]. It normalizes a roughly six-minute focus warm-up, recommends a centered and elevated work target, and treats room orientation, phone separation, connectivity controls, and periodic panoramic viewing as supports for entry and re-entry rather than guarantees of uninterrupted concentration.
 
+The earlier [[scim2746317304-scim2746317304]] episode frames waking ultradian cycles as intentionally initiated work periods and suggests leaving two to four hours between demanding bouts, with one or two bouts per day as a realistic ceiling for many people. This adds a recovery and frequency hypothesis, not evidence that everyone shares one exact 90-minute depletion clock.
+
 ## Key Claims
 - One protected daily block can be reserved for the hardest or most important cognitive task.
 - A 90-minute timer bounds the effort while allowing focus to rise and fall within the session.
 - Turning the phone fully off or physically separating it is presented as a stronger distraction boundary than partial notification control, reducing avoidable task switching and re-entry cost.
 - Eye-level or slightly elevated screen placement is presented as more alerting than a downward gaze.
-- Low-level white noise is offered as an optional learning and workflow aid.
 - Estimated circadian timing may help schedule the block, but observed personal performance takes precedence over the proposed window.
 - A warm-up and deliberate decompression period can be treated as parts of the work-recovery cycle.
+- Spacing demanding bouts and limiting their daily number may protect recovery, but the proposed intervals remain source-scoped.
 
 ## Evidence
 - Block structure - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] describes a 90-minute timer, one difficult task, variable concentration, and complete phone shutdown.
@@ -40,12 +43,13 @@ Workspace setup and interruption control become explicit in [[optimizing-workspa
 - Entry and recovery - [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] frames five to ten minutes of transition and 10-30 minutes of deliberate defocus as expected neighbors of a focus bout.
 - Editorial continuity - [[essentials-tools-to-improve-your-focus-concentration-scim2328129388]] repeats the roughly 90-minute bout and five- to ten-minute transition in a condensed release.
 - Workspace and boundary design - [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] adds elevated target placement, a focus warm-up, panoramic visual breaks, and stronger phone separation.
+- Bout frequency - [[scim2746317304-scim2746317304]] proposes two to four hours between demanding bouts and says many people can sustain one or two such bouts daily.
 
 ## Counterevidence & Qualifications
-The sources do not supply comparative trials for 90 versus other work-block lengths, establish white noise as universally beneficial, prove one optimal recovery interval, or show that screen height alone materially improves work. The six-minute and five-to-ten-minute warm-up descriptions are compatible heuristics, not a precise universal onset time. Attention disorders, pain, disability, shared workplaces, caregiving, job design, chronotype, and sleep debt can change the useful duration and setup. The ultradian label, precise focus window, and decompression duration remain source-scoped.
+The sources do not supply comparative trials for 90 versus other work-block lengths, establish white noise as universally beneficial, prove one optimal recovery interval or daily bout count, or show that screen height alone materially improves work. The six-minute and five-to-ten-minute warm-up descriptions are compatible heuristics, not a precise universal onset time. Attention disorders, pain, disability, shared workplaces, caregiving, job design, chronotype, and sleep debt can change the useful duration and setup. The ultradian label, precise focus window, bout spacing, and decompression duration remain source-scoped.
 
 ## What Changed
-- Added workspace layout, visual recovery, and phone-separation support for focus entry and re-entry.
+- Added a source-scoped recovery and daily-frequency hypothesis for demanding bouts.
 
 ## Related Concepts
 - [[DailyCircadianPerformanceRoutine]] - whole-day routine in which the work block appears.

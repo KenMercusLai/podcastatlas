@@ -27653,3 +27653,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Time Perception & Entrainment by Dopamine, Serotonin & Hormones
+
+Added source `scim2746317304-scim2746317304`; created `TimePerceptionAndNeurochemicalState`; and resynthesized `UltradianDeepWorkBlock`, `NeuromodulatorStateToolkit`, `DailyCircadianPerformanceRoutine`, and `HabitAutomaticityAndTaskBracketing` from their complete preserved evidence inventories. Core synthesis: present, prospective, and retrospective duration can diverge because arousal, attention, novelty, event density, daily phase, and memory encoding shape subjective time; routines can provide flexible temporal landmarks, and demanding work bouts require recovery. No settled contradiction was adopted. The neurotransmitter frame-rate model, early-precision/later-creativity schedule, 90-minute cycle and recovery interval, skin-light hormone effects, fasting guidance, blink rate, trauma-memory playback, cold exposure, cannabis, serotonergic drugs, and treatment claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,455-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
