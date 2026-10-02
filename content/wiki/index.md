@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [126. Napoleon in Egypt](sources/126-napoleon-in-egypt-glt3691914095.md) — The Rest Is History on Napoleon's failed Egyptian invasion, the Battle of the Nile, Egyptology, secular-imperial rhetoric, and colonial knowledge.
 - [How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss](sources/how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839.md) — Huberman Lab interview on evolutionary mating strategies, mutual choice, mate value, infidelity, jealousy, coercive control, and evidence limits.
 - [127. Neanderthals](sources/127-neanderthals-glt5202048433.md) — The Rest Is History with Chris Stringer on Neanderthal discovery, behavioral complexity, interbreeding, changing interpretation, and multicausal extinction.
 - [Erasing Fears & Traumas Based on the Modern Neuroscience of Fear](sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962.md) — Huberman Lab episode on distributed fear circuitry, conditioned trauma cues, extinction plus adaptive relearning, EMDR limits, assisted psychotherapy, social support, and deliberate-stress boundaries.
@@ -3508,6 +3509,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 
 ## Entities
+- [Napoleon's Egyptian Campaign](entities/NapoleonEgyptCampaign.md) — French invasion joining anti-British strategy, revolutionary empire, scientific inquiry, occupation, and military failure.
+- [Battle of the Nile](entities/BattleOfTheNile.md) — Nelson's 1798 destruction of the French fleet supporting the Egyptian expedition.
+- [Mamluk Egypt](entities/MamlukEgypt.md) — Nominally Ottoman Egyptian order governed by a Mamluk military elite before the French occupation.
+- [Muhammad Ali of Egypt](entities/MuhammadAliOfEgypt.md) — Albanian-born Ottoman ruler associated with Egyptian modernization, study missions, and antiquities loss.
+- [Description de l'Egypte](entities/DescriptionDeLEgypte.md) — Monumental expeditionary record linking documentation, Egyptology, and imperial classification.
 - [David Buss](entities/DavidBuss.md) — Evolutionary psychologist explaining mutual mate choice, mating strategies, scientific revision, jealousy, and mating-conflict risk.
 - [Neanderthals](entities/Neanderthals.md) — Distinct extinct human lineage with complex behavior, long Homo sapiens contact, and partial genetic survival through interbreeding.
 - [Chris Stringer](entities/ChrisStringer.md) — Paleoanthropologist interpreting Neanderthals through calibrated fossil, archaeological, genetic, and demographic evidence.
@@ -15517,6 +15523,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Egyptology](concepts/Egyptology.md) — Study of ancient Egypt, here synthesized through decipherment, expeditionary documentation, empire, and artifact custody.
+- [Colonial Knowledge Ambivalence](concepts/ColonialKnowledgeAmbivalence.md) — Tension between real understanding and the coercive access, classification, and possession of colonial rule.
+- [French Secular Universalism](concepts/FrenchSecularUniversalism.md) — Universal civic neutrality claim tested by Napoleon's Muslim-facing propaganda and coercive occupation.
 - [Evolutionary Mating Strategies](concepts/EvolutionaryMatingStrategies.md) — Mutual-choice framework separating long-term, short-term, retention, switching, and conflict contexts.
 - [Mate Value and Mutual Choice](concepts/MateValueAndMutualChoice.md) — Multidimensional and reciprocal model of romantic desirability that rejects a single universal score.
 - [Mate Switching Hypothesis](concepts/MateSwitchingHypothesis.md) — Hypothesis that some affairs assess or establish a replacement primary partnership.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9279
+wiki_total_pages: 9282
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1232,6 +1232,9 @@ wiki_pages:
   - key: "FrenchNewWave"
     title: "French New Wave / 法国新浪潮"
     url: "/wiki/concepts/frenchnewwave/"
+  - key: "FrenchSecularUniversalism"
+    title: "French Secular Universalism"
+    url: "/wiki/concepts/frenchsecularuniversalism/"
   - key: "FreshAllergySafeProductionScaling"
     title: "Fresh Allergy-Safe Production Scaling"
     url: "/wiki/concepts/freshallergysafeproductionscaling/"

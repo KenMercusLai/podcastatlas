@@ -373,6 +373,13 @@
       "url": "/topics/history/"
     }
   ],
+  "126-napoleon-in-egypt-glt3691914095": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780": [
     {
       "key": "history",
@@ -28894,6 +28901,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "Egyptology": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "EichmannInJerusalem": [

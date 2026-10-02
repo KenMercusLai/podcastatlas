@@ -219,6 +219,10 @@
     "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
     "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
   },
+  "126-napoleon-in-egypt-glt3691914095": {
+    "title": "126. Napoleon in Egypt",
+    "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+  },
   "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780": {
     "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
     "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
@@ -10691,6 +10695,10 @@
     "title": "Battle of the Bogside",
     "url": "/wiki/entities/battleofthebogside/"
   },
+  "BattleOfTheNile": {
+    "title": "Battle of the Nile",
+    "url": "/wiki/entities/battleofthenile/"
+  },
   "BattleOfTrafalgar": {
     "title": "Battle of Trafalgar",
     "url": "/wiki/entities/battleoftrafalgar/"
@@ -18171,6 +18179,10 @@
     "title": "Colonial Frontier Governance Fragility",
     "url": "/wiki/concepts/colonialfrontiergovernancefragility/"
   },
+  "ColonialKnowledgeAmbivalence": {
+    "title": "Colonial Knowledge Ambivalence",
+    "url": "/wiki/concepts/colonialknowledgeambivalence/"
+  },
   "ColonialLegalAdaptation": {
     "title": "Colonial Legal Adaptation",
     "url": "/wiki/concepts/coloniallegaladaptation/"
@@ -22343,6 +22355,10 @@
     "title": "《龙的传人》 / Descendants of the Dragon",
     "url": "/wiki/entities/descendantsofthedragon/"
   },
+  "DescriptionDeLEgypte": {
+    "title": "Description de l'Egypte",
+    "url": "/wiki/entities/descriptiondelegypte/"
+  },
   "DeshGarments": {
     "title": "Desh Garments",
     "url": "/wiki/entities/deshgarments/"
@@ -25142,6 +25158,10 @@
   "Egypt": {
     "title": "Egypt",
     "url": "/wiki/entities/egypt/"
+  },
+  "Egyptology": {
+    "title": "Egyptology",
+    "url": "/wiki/concepts/egyptology/"
   },
   "Eibon": {
     "title": "Eibon / 伊波恩",
@@ -30430,6 +30450,10 @@
   "FrenchRevolution": {
     "title": "French Revolution / 法国大革命",
     "url": "/wiki/entities/frenchrevolution/"
+  },
+  "FrenchSecularUniversalism": {
+    "title": "French Secular Universalism",
+    "url": "/wiki/concepts/frenchsecularuniversalism/"
   },
   "FreshAllergySafeProductionScaling": {
     "title": "Fresh Allergy-Safe Production Scaling",
@@ -49399,6 +49423,10 @@
     "title": "妈妈会 / Mama Hui",
     "url": "/wiki/concepts/mamahui/"
   },
+  "MamlukEgypt": {
+    "title": "Mamluk Egypt",
+    "url": "/wiki/entities/mamlukegypt/"
+  },
   "Mammut": {
     "title": "Mammut / 猛犸象",
     "url": "/wiki/entities/mammut/"
@@ -53475,6 +53503,10 @@
     "title": "Muhammad Ahmad",
     "url": "/wiki/entities/muhammadahmad/"
   },
+  "MuhammadAliOfEgypt": {
+    "title": "Muhammad Ali of Egypt",
+    "url": "/wiki/entities/muhammadaliofegypt/"
+  },
   "MuhammadAtalla": {
     "title": "Muhammad Atalla",
     "url": "/wiki/entities/muhammadatalla/"
@@ -54054,6 +54086,10 @@
   "NapoleonBonaparte": {
     "title": "Napoleon Bonaparte / 拿破仑",
     "url": "/wiki/entities/napoleonbonaparte/"
+  },
+  "NapoleonEgyptCampaign": {
+    "title": "Napoleon's Egyptian Campaign",
+    "url": "/wiki/entities/napoleonegyptcampaign/"
   },
   "NapoleonIII": {
     "title": "Napoleon III",

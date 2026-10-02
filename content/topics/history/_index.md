@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2387
+topic_total_pages: 2389
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -373,6 +373,9 @@ topic_concepts:
   - key: "EasternWesternZhouSplit"
     title: "Eastern-Western Zhou Split / 东周西周分裂"
     url: "/wiki/concepts/easternwesternzhousplit/"
+  - key: "Egyptology"
+    title: "Egyptology"
+    url: "/wiki/concepts/egyptology/"
   - key: "EliteCrisisBurdenSharing"
     title: "Elite Crisis Burden Sharing / 贵族危机共担动员"
     url: "/wiki/concepts/elitecrisisburdensharing/"
@@ -4845,6 +4848,9 @@ topic_sources:
   - key: "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516"
     title: "125. 马拉之死：卑鄙的暗杀，或正义的处决？"
     url: "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+  - key: "126-napoleon-in-egypt-glt3691914095"
+    title: "126. Napoleon in Egypt"
+    url: "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
   - key: "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780"
     title: "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖"
     url: "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"

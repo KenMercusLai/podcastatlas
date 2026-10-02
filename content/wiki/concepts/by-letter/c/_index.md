@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9279
+wiki_total_pages: 9282
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1478,6 +1478,9 @@ wiki_pages:
   - key: "ColonialFrontierGovernanceFragility"
     title: "Colonial Frontier Governance Fragility"
     url: "/wiki/concepts/colonialfrontiergovernancefragility/"
+  - key: "ColonialKnowledgeAmbivalence"
+    title: "Colonial Knowledge Ambivalence"
+    url: "/wiki/concepts/colonialknowledgeambivalence/"
   - key: "ColonialLegalAdaptation"
     title: "Colonial Legal Adaptation"
     url: "/wiki/concepts/coloniallegaladaptation/"

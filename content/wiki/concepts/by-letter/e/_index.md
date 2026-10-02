@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9279
+wiki_total_pages: 9282
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "EgocentricRobotData"
     title: "Egocentric Robot Data"
     url: "/wiki/concepts/egocentricrobotdata/"
+  - key: "Egyptology"
+    title: "Egyptology"
+    url: "/wiki/concepts/egyptology/"
   - key: "ElDorado"
     title: "El Dorado"
     url: "/wiki/concepts/eldorado/"

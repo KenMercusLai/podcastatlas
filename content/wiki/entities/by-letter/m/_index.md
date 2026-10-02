@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11968
+wiki_total_pages: 11973
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "MalvernArms"
     title: "Malvern Arms"
     url: "/wiki/entities/malvernarms/"
+  - key: "MamlukEgypt"
+    title: "Mamluk Egypt"
+    url: "/wiki/entities/mamlukegypt/"
   - key: "Mammut"
     title: "Mammut / 猛犸象"
     url: "/wiki/entities/mammut/"
@@ -1613,6 +1616,9 @@ wiki_pages:
   - key: "MuhammadAhmad"
     title: "Muhammad Ahmad"
     url: "/wiki/entities/muhammadahmad/"
+  - key: "MuhammadAliOfEgypt"
+    title: "Muhammad Ali of Egypt"
+    url: "/wiki/entities/muhammadaliofegypt/"
   - key: "MuhammadAtalla"
     title: "Muhammad Atalla"
     url: "/wiki/entities/muhammadatalla/"

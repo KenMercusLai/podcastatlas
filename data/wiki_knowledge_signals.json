@@ -19932,6 +19932,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/battleofstiklestad/"
     },
+    "BattleOfTheNile": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3691914095 [GLT3691914095].md",
+          "key": "126-napoleon-in-egypt-glt3691914095",
+          "show": "The Rest Is History",
+          "title": "126. Napoleon in Egypt",
+          "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/battleofthenile/"
+    },
     "BattleOfTrafalgar": {
       "episode_count": 3,
       "show_count": 1,
@@ -38441,6 +38457,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/colonialfrontiergovernancefragility/"
     },
+    "ColonialKnowledgeAmbivalence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3691914095 [GLT3691914095].md",
+          "key": "126-napoleon-in-egypt-glt3691914095",
+          "show": "The Rest Is History",
+          "title": "126. Napoleon in Egypt",
+          "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/colonialknowledgeambivalence/"
+    },
     "ColonialLegalAdaptation": {
       "episode_count": 2,
       "show_count": 1,
@@ -49491,6 +49523,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/derry/"
     },
+    "DescriptionDeLEgypte": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3691914095 [GLT3691914095].md",
+          "key": "126-napoleon-in-egypt-glt3691914095",
+          "show": "The Rest Is History",
+          "title": "126. Napoleon in Egypt",
+          "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/descriptiondelegypte/"
+    },
     "DesignBrandManufacturingUpgrade": {
       "episode_count": 1,
       "show_count": 1,
@@ -56026,9 +56074,9 @@
       "url": "/wiki/entities/edwardkeneally/"
     },
     "EdwardSaid": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -56036,9 +56084,16 @@
           "show": "The Rest Is History",
           "title": "541. Heart of Darkness: Fear and Loathing in the Congo",
           "url": "/wiki/sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786/"
+        },
+        {
+          "episode_file": "GLT3691914095 [GLT3691914095].md",
+          "key": "126-napoleon-in-egypt-glt3691914095",
+          "show": "The Rest Is History",
+          "title": "126. Napoleon in Egypt",
+          "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/edwardsaid/"
     },
     "EdwardShawcross": {
@@ -56394,6 +56449,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/egocentricrobotdata/"
+    },
+    "Egyptology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3691914095 [GLT3691914095].md",
+          "key": "126-napoleon-in-egypt-glt3691914095",
+          "show": "The Rest Is History",
+          "title": "126. Napoleon in Egypt",
+          "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/egyptology/"
     },
     "EightSleep": {
       "episode_count": 3,
@@ -73223,6 +73294,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/frenchrevolution/"
+    },
+    "FrenchSecularUniversalism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3691914095 [GLT3691914095].md",
+          "key": "126-napoleon-in-egypt-glt3691914095",
+          "show": "The Rest Is History",
+          "title": "126. Napoleon in Egypt",
+          "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/frenchsecularuniversalism/"
     },
     "FreshAllergySafeProductionScaling": {
       "episode_count": 1,
@@ -91235,9 +91322,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -91266,9 +91353,16 @@
           "show": "The Rest Is History",
           "title": "243. Trafalgar: A World at War (Part 1)",
           "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
+        },
+        {
+          "episode_file": "GLT3691914095 [GLT3691914095].md",
+          "key": "126-napoleon-in-egypt-glt3691914095",
+          "show": "The Rest Is History",
+          "title": "126. Napoleon in Egypt",
+          "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/horationelson/"
     },
     "HormoneContextAggression": {
@@ -103221,6 +103315,29 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/jeandemailly/"
+    },
+    "JeanFrancoisChampollion": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
+          "key": "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un",
+          "show": "乱翻书",
+          "title": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？",
+          "url": "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+        },
+        {
+          "episode_file": "GLT3691914095 [GLT3691914095].md",
+          "key": "126-napoleon-in-egypt-glt3691914095",
+          "show": "The Rest Is History",
+          "title": "126. Napoleon in Egypt",
+          "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/jeanfrancoischampollion/"
     },
     "JeanJacquesRousseau": {
       "episode_count": 4,
@@ -125961,6 +126078,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/malta/"
     },
+    "MamlukEgypt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3691914095 [GLT3691914095].md",
+          "key": "126-napoleon-in-egypt-glt3691914095",
+          "show": "The Rest Is History",
+          "title": "126. Napoleon in Egypt",
+          "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/mamlukegypt/"
+    },
     "ManInTheIronMask": {
       "episode_count": 1,
       "show_count": 1,
@@ -135980,6 +136113,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/muhammadahmad/"
     },
+    "MuhammadAliOfEgypt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3691914095 [GLT3691914095].md",
+          "key": "126-napoleon-in-egypt-glt3691914095",
+          "show": "The Rest Is History",
+          "title": "126. Napoleon in Egypt",
+          "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/muhammadaliofegypt/"
+    },
     "MultiAgentCollaboration": {
       "episode_count": 9,
       "show_count": 7,
@@ -137364,9 +137513,9 @@
       "url": "/wiki/entities/nansunshi/"
     },
     "NapoleonBonaparte": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "21.红与黑：他死于真诚 [569042001].md",
@@ -137409,10 +137558,33 @@
           "show": "The Rest Is History",
           "title": "243. Trafalgar: A World at War (Part 1)",
           "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
+        },
+        {
+          "episode_file": "GLT3691914095 [GLT3691914095].md",
+          "key": "126-napoleon-in-egypt-glt3691914095",
+          "show": "The Rest Is History",
+          "title": "126. Napoleon in Egypt",
+          "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/napoleonbonaparte/"
+    },
+    "NapoleonEgyptCampaign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3691914095 [GLT3691914095].md",
+          "key": "126-napoleon-in-egypt-glt3691914095",
+          "show": "The Rest Is History",
+          "title": "126. Napoleon in Egypt",
+          "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/napoleonegyptcampaign/"
     },
     "NapoleonIII": {
       "episode_count": 1,
@@ -168400,6 +168572,29 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/rosebertin/"
+    },
+    "RosettaStone": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
+          "key": "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un",
+          "show": "乱翻书",
+          "title": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？",
+          "url": "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+        },
+        {
+          "episode_file": "GLT3691914095 [GLT3691914095].md",
+          "key": "126-napoleon-in-egypt-glt3691914095",
+          "show": "The Rest Is History",
+          "title": "126. Napoleon in Egypt",
+          "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/rosettastone/"
     },
     "RossAndrewPaquette": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11968
+wiki_total_pages: 11973
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "DerryCitizensDefenceAssociation"
     title: "Derry Citizens Defence Association"
     url: "/wiki/entities/derrycitizensdefenceassociation/"
+  - key: "DescriptionDeLEgypte"
+    title: "Description de l'Egypte"
+    url: "/wiki/entities/descriptiondelegypte/"
   - key: "DeshGarments"
     title: "Desh Garments"
     url: "/wiki/entities/deshgarments/"
