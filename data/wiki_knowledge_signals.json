@@ -11461,9 +11461,9 @@
       "url": "/wiki/entities/andrewcarnegie/"
     },
     "AndrewHuberman": {
-      "episode_count": 57,
+      "episode_count": 58,
       "show_count": 1,
-      "source_note_count": 57,
+      "source_note_count": 58,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -11863,9 +11863,16 @@
           "show": "Huberman Lab",
           "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
           "url": "/wiki/sources/scim6449668176-scim6449668176/"
+        },
+        {
+          "episode_file": "SCIM2452395341 [SCIM2452395341].md",
+          "key": "scim2452395341-scim2452395341",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Sense of Pain & Pleasure",
+          "url": "/wiki/sources/scim2452395341-scim2452395341/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrewJohnson": {
@@ -38067,9 +38074,9 @@
       "url": "/wiki/concepts/clinicalhistorydisclosure/"
     },
     "ClinicalHypnosis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9896599213 [SCIM9896599213].md",
@@ -38077,9 +38084,16 @@
           "show": "Huberman Lab",
           "title": "Using Hypnosis to Enhance Mental & Physical Health & Performance | Dr. David Spiegel",
           "url": "/wiki/sources/using-hypnosis-to-enhance-mental-physical-health-performance-dr-david-spiegel-scim9896599213/"
+        },
+        {
+          "episode_file": "SCIM2452395341 [SCIM2452395341].md",
+          "key": "scim2452395341-scim2452395341",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Sense of Pain & Pleasure",
+          "url": "/wiki/sources/scim2452395341-scim2452395341/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/clinicalhypnosis/"
     },
     "ClinicalLanguageComprehensionValidation": {
@@ -95823,9 +95837,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 57,
+      "episode_count": 58,
       "show_count": 1,
-      "source_note_count": 57,
+      "source_note_count": 58,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -96225,9 +96239,16 @@
           "show": "Huberman Lab",
           "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
           "url": "/wiki/sources/scim6449668176-scim6449668176/"
+        },
+        {
+          "episode_file": "SCIM2452395341 [SCIM2452395341].md",
+          "key": "scim2452395341-scim2452395341",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Sense of Pain & Pleasure",
+          "url": "/wiki/sources/scim2452395341-scim2452395341/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HubertHumphrey": {
@@ -143708,9 +143729,9 @@
       "url": "/wiki/concepts/nighttimeeconomygovernance/"
     },
     "NighttimePainAmplification": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lrkt9Fqv6cef8Dkr69r-vSoiLsM7 [lrkt9Fqv6cef8Dkr69r-vSoiLsM7].md",
@@ -143718,9 +143739,16 @@
           "show": "这病说来话长",
           "title": "VOL.121白天不懂夜的疼 一招干掉这个影响你睡眠的“隐形刺客”",
           "url": "/wiki/sources/vol-121-baitian-bu-dong-ye-de-teng-yi-zhao-gandiao-zhege-yingxiang-ni-shuimian-de-yinxing-cike-lrkt9fqv6cef8dkr69r-vsoilsm7/"
+        },
+        {
+          "episode_file": "SCIM2452395341 [SCIM2452395341].md",
+          "key": "scim2452395341-scim2452395341",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Sense of Pain & Pleasure",
+          "url": "/wiki/sources/scim2452395341-scim2452395341/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/nighttimepainamplification/"
     },
     "NihonKotsu": {
@@ -150129,9 +150157,9 @@
       "url": "/wiki/concepts/paidservicetounpaidhouseworktransfer/"
     },
     "PainAsDistributedExperience": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1698075556 [SCIM1698075556].md",
@@ -150139,9 +150167,16 @@
           "show": "Huberman Lab",
           "title": "Tools to Reduce & Manage Pain | Dr. Sean Mackey",
           "url": "/wiki/sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556/"
+        },
+        {
+          "episode_file": "SCIM2452395341 [SCIM2452395341].md",
+          "key": "scim2452395341-scim2452395341",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Sense of Pain & Pleasure",
+          "url": "/wiki/sources/scim2452395341-scim2452395341/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/painasdistributedexperience/"
     },
     "PainAwareTrainingContinuity": {
@@ -156169,9 +156204,9 @@
       "url": "/wiki/concepts/playascontingencytesting/"
     },
     "PleasurePainBalanceAddiction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9435481929 [SCIM9435481929].md",
@@ -156179,6 +156214,13 @@
           "show": "Huberman Lab",
           "title": "Understanding & Treating Addiction | Dr. Anna Lembke",
           "url": "/wiki/sources/understanding-treating-addiction-dr-anna-lembke-scim9435481929/"
+        },
+        {
+          "episode_file": "SCIM2452395341 [SCIM2452395341].md",
+          "key": "scim2452395341-scim2452395341",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Sense of Pain & Pleasure",
+          "url": "/wiki/sources/scim2452395341-scim2452395341/"
         }
       ],
       "updated": "2026-10-03",
@@ -170138,9 +170180,9 @@
       "url": "/wiki/concepts/rewardfitnessrisk/"
     },
     "RewardPredictionErrorLearning": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -170162,9 +170204,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Making & Breaking Habits",
           "url": "/wiki/sources/the-science-of-making-breaking-habits-scim6848516659/"
+        },
+        {
+          "episode_file": "SCIM2452395341 [SCIM2452395341].md",
+          "key": "scim2452395341-scim2452395341",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Sense of Pain & Pleasure",
+          "url": "/wiki/sources/scim2452395341-scim2452395341/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/rewardpredictionerrorlearning/"
     },
     "RewardedDenunciationFiscalEnforcement": {

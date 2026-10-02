@@ -3571,6 +3571,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Controlling Your Dopamine For Motivation, Focus & Satisfaction](sources/scim6449668176-scim6449668176.md) — Huberman Lab solo episode on dopamine baseline, peaks and troughs, reward history, anti-stacking, effort reward, cold exposure, social connection, and clinical boundaries.
 - [Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247.md) — Huberman Lab interview on psychedelic classes, clinical protocols, self-representation, integration, microdosing evidence, persistent perceptual symptoms, risks, and regulation.
 - [85. Sherlock Holmes](sources/85-sherlock-holmes-glt8342867383.md) — The Rest Is History on Holmes as Victorian cultural myth, Doyle’s medical and spiritualist contradictions, imperial anxiety, scientific detection, visual iconography, and fandom.
+- [How to Control Your Sense of Pain & Pleasure](sources/scim2452395341-scim2452395341.md) — Early Huberman Lab solo episode on context-sensitive pain and pleasure, sensory maps, expectation, dopamine anticipation, opponent-process adaptation, and bounded pain tools.
 
 ## Entities
 - [Denis Diderot](entities/DenisDiderot.md) — Atheist Enlightenment writer presented through institutional accounts of corruption, intellectual generosity, and humane curiosity.

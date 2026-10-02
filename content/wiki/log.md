@@ -28100,3 +28100,11 @@ Added source `85-sherlock-holmes-glt8342867383`; created `JosephBell`, `SidneyPa
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | How to Control Your Sense of Pain & Pleasure
+
+Added source `scim2452395341-scim2452395341`; resynthesized `AndrewHuberman`, `HubermanLab`, `PainAsDistributedExperience`, `PleasurePainBalanceAddiction`, `RewardPredictionErrorLearning`, `ClinicalHypnosis`, and `NighttimePainAmplification` from their complete preserved evidence inventories. Core synthesis: pain is biologically real without mapping one-to-one onto tissue damage, because peripheral input, spinal gating, body maps, visual interpretation, expectation, arousal, sleep, learning, and context jointly shape experience; dopamine is more closely tied to anticipation and pursuit than pleasure itself; and repeated high-intensity reward can recruit opposing discomfort. No settled contradiction was adopted. Preparation timing, nighttime windows, red-hair thresholds, dopamine mechanisms, fibromyalgia biology, mirror-therapy cases, acupuncture pathways, hypnosis schedules, supplements, medications, cold, heat, and pain-tolerance practices remain source-scoped and clinically bounded. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,512-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the corpus-wide scan still reports 18 unrelated legacy broken links.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

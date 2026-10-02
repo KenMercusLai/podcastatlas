@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1425
+topic_total_pages: 1426
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3924,6 +3924,9 @@ topic_sources:
   - key: "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733"
     title: "How to Better Regulate Your Emotions | Dr. Marc Brackett"
     url: "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+  - key: "scim2452395341-scim2452395341"
+    title: "How to Control Your Sense of Pain & Pleasure"
+    url: "/wiki/sources/scim2452395341-scim2452395341/"
   - key: "how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563"
     title: "How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki"
     url: "/wiki/sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563/"

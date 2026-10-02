@@ -6,7 +6,8 @@ sources:
   - leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288
   - the-science-of-setting-achieving-goals-scim1292734289
   - the-science-of-making-breaking-habits-scim6848516659
-last_updated: 2026-10-02
+  - scim2452395341-scim2452395341
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,6 +23,8 @@ In [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim260295028
 
 A habit-sequence application in [[the-science-of-making-breaking-habits-scim6848516659]] proposes attaching positive anticipation not only to completion but also to preparation, effort, execution, and the period afterward. This “whole envelope” framing is best treated as behavior design built on reward-prediction language, not proof that every stage receives one measurable dopamine signal.
 
+The earlier pain-and-pleasure episode contributes the simplest version of the model: dopamine can shift toward anticipation as a reward becomes predictable, while intermittent or uncertain outcomes can sustain pursuit more strongly than guaranteed delivery. That bridge to variable reward schedules is behaviorally important, but it does not make every intermittent reward beneficial or reduce reinforcement learning to dopamine alone.
+
 ## Key Claims
 - Dopamine signals can occur before reward when an organism anticipates a desired outcome.
 - Better-than-expected outcomes can increase future pursuit, while worse-than-expected outcomes can reduce it.
@@ -29,7 +32,7 @@ A habit-sequence application in [[the-science-of-making-breaking-habits-scim6848
 - Reward prediction error makes motivation sensitive to expectation, surprise, and prior outcomes.
 - Procrastination, craving, and pursuit can be influenced by cue learning as well as conscious goals.
 - Intermediate milestones can provide update points before a distant goal is completed.
-- Reward design can include preparation, effort, execution, and aftermath rather than only an endpoint prize.
+- Reward design can include preparation, effort, execution, aftermath, and intermittent outcomes, making sequence and schedule consequential as well as endpoint value.
 
 ## Evidence
 - Anticipation signal: [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] says dopamine is released in anticipation, not only at reward receipt.
@@ -38,13 +41,14 @@ A habit-sequence application in [[the-science-of-making-breaking-habits-scim6848
 - Motivation consequence: [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] uses the mechanism to explain future pursuit, craving, and effort allocation.
 - Goal-design application: [[the-science-of-setting-achieving-goals-scim1292734289]] connects expectation-sensitive dopamine signals to milestone timing and progress assessment.
 - Habit-envelope application: [[the-science-of-making-breaking-habits-scim6848516659]] recommends positively anticipating the full task bracket rather than rewarding completion alone.
+- Early anticipation and uncertainty account: [[scim2452395341-scim2452395341]] distinguishes dopamine-linked pursuit from pleasure and connects predictable versus intermittent reward to later motivation.
 
 ## Counterevidence & Qualifications
-This page captures applied podcast explanations, not a full computational reinforcement-learning model. The supplied notes do not provide the underlying study methods or justify a universal milestone schedule, task-envelope technique, or dopamine response at every stage of a behavior. The synthesis should not imply that all motivation, learning, addiction, habit formation, or procrastination is reducible to one dopamine signal or one prediction-error equation.
+This page captures applied podcast explanations, not a full computational reinforcement-learning model. The supplied notes do not provide the underlying study methods or justify a universal milestone schedule, task-envelope technique, intermittent-reward protocol, or dopamine response at every stage of a behavior. Variable rewards can also support gambling-like compulsion, manipulation, or unstable motivation. The synthesis should not imply that all motivation, learning, addiction, habit formation, or procrastination is reducible to one dopamine signal or one prediction-error equation.
 
 ## What Changed
-- Added the whole habit envelope as a source-scoped reward-design application.
-- Clarified that positive anticipation across a task sequence is not direct measurement of a dopamine signal at every stage.
+- Added the earlier anticipation and intermittent-reward account as provenance for expectation-sensitive pursuit.
+- Clarified that uncertain reward can strengthen motivation without becoming a universal behavior-design recommendation.
 
 ## Related Concepts
 - [[DopaminePeakTroughBaseline]] - baseline and trough context in which reward updates affect motivation.
