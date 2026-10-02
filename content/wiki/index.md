@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [77. Statues: Whitehall](sources/77-statues-whitehall-glt3402485088.md) — The Rest Is History on Whitehall's military statues, collective memorials, placement, contested biography, and the multiple meanings of public monuments.
 - [78. Statues: Parliament Square](sources/78-statues-parliament-square-glt3870229260.md) — The Rest Is History on Churchill, political and imperial monuments, martyrdom, counter-memory, and the unresolved politics of keeping, removing, or adding statues.
 - [EP182-占星学的新时代，都市青年的精神归宿](sources/ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw.md) — 无时差研究所 episode on modern psychological astrology as a reflective map, layered chart interpretation, agency, and evidence boundaries.
 - [79. Ancient Olympics](sources/79-ancient-olympics-glt9627584488.md) — The Rest Is History on the ancient Games as a sacred festival of Zeus shaped by victory culture, elite access, limited truce, civic politics, exclusion, sacrifice, and violent heroism.
@@ -3584,6 +3585,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [Whitehall](entities/Whitehall.md) — London commemorative landscape where military concentration, placement, scale, omission, and collective memorial design shape public memory.
+- [Women of World War II Memorial](entities/WomenOfWorldWarIIMemorial.md) — Whitehall monument using uniforms and absent bodies to represent women's wartime service collectively.
 - [Parliament Square](entities/ParliamentSquare.md) — Westminster monument landscape joining democracy, empire, reform, liberation, omission, and contested public memory.
 - [葛阳 / Ge Yang (psychological astrologer)](entities/GeYangPsychologicalAstrologer.md) — Finance-trained EP182 guest presenting modern psychological astrology as a layered reflective model while retaining personal agency.
 - [Ancient Olympic Games](entities/AncientOlympicGames.md) — Sacred panhellenic festival joining Zeus worship, athletic victory, civic prestige, exclusion, sacrifice, and heroic memory.

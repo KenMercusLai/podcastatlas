@@ -28188,3 +28188,11 @@ Added source `78-statues-parliament-square-glt3870229260`; created `ParliamentSq
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 77. Statues: Whitehall
+
+Added source `77-statues-whitehall-glt3402485088`; created `Whitehall` and `WomenOfWorldWarIIMemorial`; and resynthesized `DouglasHaig`, `Cenotaph`, `BernardMontgomery`, `Boudicca`, and `StatueCommemorationPolitics` from their complete preserved evidence inventories. Core synthesis: public monuments are selective and relational rather than complete moral verdicts; biography, obscurity, scale, relocation, neighboring objects, public use, and representational balance all shape meaning, while collective or abstract memorials can commemorate service and death without choosing one heroic individual. No settled contradiction was adopted. Allegations, motives, popularity, audience response, artistic quality, cultural-influence claims, and the best keep-remove-relocate-add policy remain episode-attributed or interpretive. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,523-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

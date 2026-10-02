@@ -22264,9 +22264,9 @@
       "url": "/wiki/entities/bernardfreyberg/"
     },
     "BernardMontgomery": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2932235302 [GLT2932235302].md",
@@ -22274,9 +22274,16 @@
           "show": "The Rest Is History",
           "title": "247. Monty & Patton vs. the Nazis",
           "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+        },
+        {
+          "episode_file": "GLT3402485088 [GLT3402485088].md",
+          "key": "77-statues-whitehall-glt3402485088",
+          "show": "The Rest Is History",
+          "title": "77. Statues: Whitehall",
+          "url": "/wiki/sources/77-statues-whitehall-glt3402485088/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/bernardmontgomery/"
     },
     "BernardReneDeLaunay": {
@@ -24516,9 +24523,9 @@
       "url": "/wiki/entities/boubacarjosephndiaye/"
     },
     "Boudicca": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3128836892 [GLT3128836892].md",
@@ -24526,9 +24533,16 @@
           "show": "The Rest Is History",
           "title": "501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)",
           "url": "/wiki/sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892/"
+        },
+        {
+          "episode_file": "GLT3402485088 [GLT3402485088].md",
+          "key": "77-statues-whitehall-glt3402485088",
+          "show": "The Rest Is History",
+          "title": "77. Statues: Whitehall",
+          "url": "/wiki/sources/77-statues-whitehall-glt3402485088/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/boudicca/"
     },
     "BoudiccanRevolt": {
@@ -31413,9 +31427,9 @@
       "url": "/wiki/entities/cenzhilatehan/"
     },
     "Cenotaph": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2743125909 [GLT2743125909].md",
@@ -31430,6 +31444,13 @@
           "show": "The Rest Is History",
           "title": "78. Statues: Parliament Square",
           "url": "/wiki/sources/78-statues-parliament-square-glt3870229260/"
+        },
+        {
+          "episode_file": "GLT3402485088 [GLT3402485088].md",
+          "key": "77-statues-whitehall-glt3402485088",
+          "show": "The Rest Is History",
+          "title": "77. Statues: Whitehall",
+          "url": "/wiki/sources/77-statues-whitehall-glt3402485088/"
         }
       ],
       "updated": "2026-10-03",
@@ -54890,9 +54911,9 @@
       "url": "/wiki/entities/doubaoworkpartner/"
     },
     "DouglasHaig": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9972346188 [GLT9972346188].md",
@@ -54900,6 +54921,13 @@
           "show": "The Rest Is History",
           "title": "90. The Western Front",
           "url": "/wiki/sources/90-the-western-front-glt9972346188/"
+        },
+        {
+          "episode_file": "GLT3402485088 [GLT3402485088].md",
+          "key": "77-statues-whitehall-glt3402485088",
+          "show": "The Rest Is History",
+          "title": "77. Statues: Whitehall",
+          "url": "/wiki/sources/77-statues-whitehall-glt3402485088/"
         }
       ],
       "updated": "2026-10-03",
@@ -188533,9 +188561,9 @@
       "url": "/wiki/concepts/staticstretchingdoseprotocol/"
     },
     "StatueCommemorationPolitics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3870229260 [GLT3870229260].md",
@@ -188543,6 +188571,13 @@
           "show": "The Rest Is History",
           "title": "78. Statues: Parliament Square",
           "url": "/wiki/sources/78-statues-parliament-square-glt3870229260/"
+        },
+        {
+          "episode_file": "GLT3402485088 [GLT3402485088].md",
+          "key": "77-statues-whitehall-glt3402485088",
+          "show": "The Rest Is History",
+          "title": "77. Statues: Whitehall",
+          "url": "/wiki/sources/77-statues-whitehall-glt3402485088/"
         }
       ],
       "updated": "2026-10-03",
@@ -212073,6 +212108,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/whitevictimhoodnarrative/"
     },
+    "Whitehall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3402485088 [GLT3402485088].md",
+          "key": "77-statues-whitehall-glt3402485088",
+          "show": "The Rest Is History",
+          "title": "77. Statues: Whitehall",
+          "url": "/wiki/sources/77-statues-whitehall-glt3402485088/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/whitehall/"
+    },
     "WhitlamReformProgram": {
       "episode_count": 1,
       "show_count": 1,
@@ -213438,6 +213489,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/womenblamedfordynasticcollapse/"
+    },
+    "WomenOfWorldWarIIMemorial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3402485088 [GLT3402485088].md",
+          "key": "77-statues-whitehall-glt3402485088",
+          "show": "The Rest Is History",
+          "title": "77. Statues: Whitehall",
+          "url": "/wiki/sources/77-statues-whitehall-glt3402485088/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/womenofworldwariimemorial/"
     },
     "WomenSportswearSegmentStratification": {
       "episode_count": 1,

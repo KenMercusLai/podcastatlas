@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12106
+wiki_total_pages: 12108
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "WhiteVentedMynaTaiwan"
     title: "White-Vented Myna in Taiwan / 白尾八哥"
     url: "/wiki/entities/whiteventedmynataiwan/"
+  - key: "Whitehall"
+    title: "Whitehall"
+    url: "/wiki/entities/whitehall/"
   - key: "WhitneyDuan"
     title: "Whitney Duan"
     url: "/wiki/entities/whitneyduan/"
@@ -716,6 +719,9 @@ wiki_pages:
   - key: "WolverhamptonWanderers"
     title: "Wolverhampton Wanderers / 狼队"
     url: "/wiki/entities/wolverhamptonwanderers/"
+  - key: "WomenOfWorldWarIIMemorial"
+    title: "Women of World War II Memorial"
+    url: "/wiki/entities/womenofworldwariimemorial/"
   - key: "WNBA"
     title: "Women's National Basketball Association"
     url: "/wiki/entities/wnba/"
