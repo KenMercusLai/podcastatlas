@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9404
+wiki_total_pages: 9406
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1196,6 +1196,9 @@ wiki_pages:
   - key: "ModernMassTourism"
     title: "Modern Mass Tourism"
     url: "/wiki/concepts/modernmasstourism/"
+  - key: "ModernOlympicRevivalism"
+    title: "Modern Olympic Revivalism"
+    url: "/wiki/concepts/modernolympicrevivalism/"
   - key: "ModernPaganReconstruction"
     title: "Modern Pagan Reconstruction"
     url: "/wiki/concepts/modernpaganreconstruction/"

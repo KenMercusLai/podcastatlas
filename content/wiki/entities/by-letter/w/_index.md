@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12098
+wiki_total_pages: 12101
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "WilliamOfWykeham"
     title: "William of Wykeham"
     url: "/wiki/entities/williamofwykeham/"
+  - key: "WilliamPennyBrookes"
+    title: "William Penny Brookes"
+    url: "/wiki/entities/williampennybrookes/"
   - key: "WilliamPeterBlatty"
     title: "William Peter Blatty"
     url: "/wiki/entities/williampeterblatty/"

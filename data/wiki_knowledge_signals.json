@@ -17626,9 +17626,9 @@
       "url": "/wiki/concepts/authoritarianfascismboundary/"
     },
     "AuthoritarianSportsPropaganda": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT5810592007 [GLT5810592007].md",
@@ -17664,6 +17664,13 @@
           "show": "The Rest Is History",
           "title": "81. Modern Olympics - Part 2",
           "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
+        },
+        {
+          "episode_file": "GLT3795252606 [GLT3795252606].md",
+          "key": "80-modern-olympics-part-1-glt3795252606",
+          "show": "The Rest Is History",
+          "title": "80. Modern Olympics - Part 1",
+          "url": "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"
         }
       ],
       "updated": "2026-10-03",
@@ -107047,6 +107054,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/jerusalemhymn/"
     },
+    "JesseOwens": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3795252606 [GLT3795252606].md",
+          "key": "80-modern-olympics-part-1-glt3795252606",
+          "show": "The Rest Is History",
+          "title": "80. Modern Olympics - Part 1",
+          "url": "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/jesseowens/"
+    },
     "JessicaChiccehittoHindman": {
       "episode_count": 1,
       "show_count": 1,
@@ -138501,9 +138524,9 @@
       "url": "/wiki/concepts/modernmasstourism/"
     },
     "ModernOlympicGames": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4846758176 [GLT4846758176].md",
@@ -138511,10 +138534,33 @@
           "show": "The Rest Is History",
           "title": "81. Modern Olympics - Part 2",
           "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
+        },
+        {
+          "episode_file": "GLT3795252606 [GLT3795252606].md",
+          "key": "80-modern-olympics-part-1-glt3795252606",
+          "show": "The Rest Is History",
+          "title": "80. Modern Olympics - Part 1",
+          "url": "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"
         }
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/modernolympicgames/"
+    },
+    "ModernOlympicRevivalism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3795252606 [GLT3795252606].md",
+          "key": "80-modern-olympics-part-1-glt3795252606",
+          "show": "The Rest Is History",
+          "title": "80. Modern Olympics - Part 1",
+          "url": "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/modernolympicrevivalism/"
     },
     "ModernPaganReconstruction": {
       "episode_count": 2,
@@ -147802,6 +147848,29 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/olympias/"
     },
+    "OlympicAmateurism": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT3795252606 [GLT3795252606].md",
+          "key": "80-modern-olympics-part-1-glt3795252606",
+          "show": "The Rest Is History",
+          "title": "80. Modern Olympics - Part 1",
+          "url": "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"
+        },
+        {
+          "episode_file": "GLT4846758176 [GLT4846758176].md",
+          "key": "81-modern-olympics-part-2-glt4846758176",
+          "show": "The Rest Is History",
+          "title": "81. Modern Olympics - Part 2",
+          "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/olympicamateurism/"
+    },
     "OlympicColdWarRivalry": {
       "episode_count": 1,
       "show_count": 1,
@@ -155700,6 +155769,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/pierrecharlesvilleneuve/"
+    },
+    "PierreDeCoubertin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3795252606 [GLT3795252606].md",
+          "key": "80-modern-olympics-part-1-glt3795252606",
+          "show": "The Rest Is History",
+          "title": "80. Modern Olympics - Part 1",
+          "url": "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/pierredecoubertin/"
     },
     "PierrePlantard": {
       "episode_count": 1,
@@ -212408,6 +212493,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/williamofwykeham/"
+    },
+    "WilliamPennyBrookes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3795252606 [GLT3795252606].md",
+          "key": "80-modern-olympics-part-1-glt3795252606",
+          "show": "The Rest Is History",
+          "title": "80. Modern Olympics - Part 1",
+          "url": "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/williampennybrookes/"
     },
     "WilliamPetty": {
       "episode_count": 1,

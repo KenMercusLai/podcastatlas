@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2445
+topic_total_pages: 2446
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6348,6 +6348,9 @@ topic_sources:
   - key: "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000"
     title: "78.西方决斗史：出剑吧！为了荣誉！"
     url: "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
+  - key: "80-modern-olympics-part-1-glt3795252606"
+    title: "80. Modern Olympics - Part 1"
+    url: "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"
   - key: "80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649"
     title: "80.间谍与叛徒：恕我直言，007的故事弱爆了（上）"
     url: "/wiki/sources/80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649/"

@@ -28148,3 +28148,11 @@ Added source `81-modern-olympics-part-2-glt4846758176`; created `ModernOlympicGa
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 80. Modern Olympics - Part 1
+
+Added source `80-modern-olympics-part-1-glt3795252606`; created `PierreDeCoubertin`, `WilliamPennyBrookes`, `JesseOwens`, `ModernOlympicRevivalism`, and `OlympicAmateurism`; and resynthesized `ModernOlympicGames` and `AuthoritarianSportsPropaganda` from their complete preserved evidence inventories. Core synthesis: the modern Olympics were selectively assembled from English and Greek revival projects, Victorian improvement, elite amateurism, national discipline, internationalism, exhibitions, and classical prestige rather than directly restored from antiquity; early Games remained improvised and politically embedded; and Berlin 1936 turned ceremony, film, concealment, and host-state image management into a durable template whose prestige survived inconvenient results such as Jesse Owens's victories. No settled contradiction was adopted. Origin claims, motives, firsts, casualty anecdotes, reception judgments, and claims about the later inheritance of Berlin's forms remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,518-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

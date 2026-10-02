@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12098
+wiki_total_pages: 12101
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "PierreBourdieu"
     title: "Pierre Bourdieu / 皮埃尔·布迪厄"
     url: "/wiki/entities/pierrebourdieu/"
+  - key: "PierreDeCoubertin"
+    title: "Pierre de Coubertin"
+    url: "/wiki/entities/pierredecoubertin/"
   - key: "PierreLallement"
     title: "Pierre Lallement / 皮埃尔·拉勒芒"
     url: "/wiki/entities/pierrelallement/"

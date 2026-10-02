@@ -3327,6 +3327,10 @@
     "title": "80.间谍与叛徒：恕我直言，007的故事弱爆了（上）",
     "url": "/wiki/sources/80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649/"
   },
+  "80-modern-olympics-part-1-glt3795252606": {
+    "title": "80. Modern Olympics - Part 1",
+    "url": "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"
+  },
   "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209": {
     "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
     "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
@@ -41715,6 +41719,10 @@
     "title": "Jesse Livermore",
     "url": "/wiki/entities/jesselivermore/"
   },
+  "JesseOwens": {
+    "title": "Jesse Owens",
+    "url": "/wiki/entities/jesseowens/"
+  },
   "JesseRothstein": {
     "title": "Jesse Rothstein",
     "url": "/wiki/entities/jesserothstein/"
@@ -53691,6 +53699,10 @@
     "title": "Modern Olympic Games",
     "url": "/wiki/entities/modernolympicgames/"
   },
+  "ModernOlympicRevivalism": {
+    "title": "Modern Olympic Revivalism",
+    "url": "/wiki/concepts/modernolympicrevivalism/"
+  },
   "ModernPaganReconstruction": {
     "title": "Modern Pagan Reconstruction",
     "url": "/wiki/concepts/modernpaganreconstruction/"
@@ -57299,6 +57311,10 @@
     "title": "Olympias",
     "url": "/wiki/entities/olympias/"
   },
+  "OlympicAmateurism": {
+    "title": "Olympic Amateurism",
+    "url": "/wiki/concepts/olympicamateurism/"
+  },
   "OlympicColdWarRivalry": {
     "title": "Olympic Cold War Rivalry",
     "url": "/wiki/concepts/olympiccoldwarrivalry/"
@@ -60450,6 +60466,10 @@
   "PierreCharlesVilleneuve": {
     "title": "Pierre-Charles Villeneuve",
     "url": "/wiki/entities/pierrecharlesvilleneuve/"
+  },
+  "PierreDeCoubertin": {
+    "title": "Pierre de Coubertin",
+    "url": "/wiki/entities/pierredecoubertin/"
   },
   "PierreLallement": {
     "title": "Pierre Lallement / 皮埃尔·拉勒芒",
@@ -83182,6 +83202,10 @@
   "WilliamOfWykeham": {
     "title": "William of Wykeham",
     "url": "/wiki/entities/williamofwykeham/"
+  },
+  "WilliamPennyBrookes": {
+    "title": "William Penny Brookes",
+    "url": "/wiki/entities/williampennybrookes/"
   },
   "WilliamPeterBlatty": {
     "title": "William Peter Blatty",

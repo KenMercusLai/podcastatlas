@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9404
+wiki_total_pages: 9406
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "OlivineCarbonRemoval"
     title: "Olivine Carbon Removal"
     url: "/wiki/concepts/olivinecarbonremoval/"
+  - key: "OlympicAmateurism"
+    title: "Olympic Amateurism"
+    url: "/wiki/concepts/olympicamateurism/"
   - key: "OlympicColdWarRivalry"
     title: "Olympic Cold War Rivalry"
     url: "/wiki/concepts/olympiccoldwarrivalry/"

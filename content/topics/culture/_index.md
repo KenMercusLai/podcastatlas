@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3055
+topic_total_pages: 3056
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5162,6 +5162,9 @@ topic_entities:
   - key: "PhoebeCaulfield"
     title: "Phoebe Caulfield / 菲比"
     url: "/wiki/entities/phoebecaulfield/"
+  - key: "PierreDeCoubertin"
+    title: "Pierre de Coubertin"
+    url: "/wiki/entities/pierredecoubertin/"
   - key: "PiggyLordOfTheFlies"
     title: "Piggy / 猪崽子（《蝇王》）"
     url: "/wiki/entities/piggylordoftheflies/"
