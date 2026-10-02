@@ -27677,3 +27677,7 @@ Added source `119-world-cup-of-kings-queens-preview-glt7656399161`; resynthesize
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 118. End of the First World War & Remembrance
+
+Added source `118-end-of-the-first-world-war-remembrance-glt2743125909`; created `FirstWorldWarRemembrance`, `RemembrancePoppy`, `Cenotaph`, `UnknownWarrior`, `DavidRailton`, `ImperialWarGravesCommission`, `FabianWare`, and `BritishLegion`; and resynthesized `FirstWorldWar`, `RudyardKipling`, and `GeorgeV` from their complete preserved evidence inventories. Core synthesis: British remembrance was deliberately assembled from equal war graves, abstract monument and silence, a representative unknown body, literary language, monarchy, mass participation, and veteran charity; its combination of classical, Christian, civic, national, pacifist, and later multicultural meanings helps explain both durability and contest. No settled contradiction was adopted. Final-hours death counts, the Wilfred Owen anecdote, earlier battlefield-remains claims, ceremony totals, motives, and claims about sacredness, secular substitution, or national unity remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,458-source coverage; no topic claim set was dirty and global compaction was not due.

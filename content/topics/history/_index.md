@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2397
+topic_total_pages: 2399
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -454,6 +454,9 @@ topic_concepts:
   - key: "FirstWorldWarGasWarfare"
     title: "First World War Gas Warfare"
     url: "/wiki/concepts/firstworldwargaswarfare/"
+  - key: "FirstWorldWarRemembrance"
+    title: "First World War Remembrance"
+    url: "/wiki/concepts/firstworldwarremembrance/"
   - key: "FolkReligiousPanicTransmission"
     title: "Folk Religious Panic Transmission / 民间宗教恐慌传播"
     url: "/wiki/concepts/folkreligiouspanictransmission/"
@@ -4803,6 +4806,9 @@ topic_sources:
   - key: "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095"
     title: "112. 闲聊金庸第一弹：明教竟然今天还存在？"
     url: "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+  - key: "118-end-of-the-first-world-war-remembrance-glt2743125909"
+    title: "118. End of the First World War & Remembrance"
+    url: "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
   - key: "119-world-cup-of-kings-queens-preview-glt7656399161"
     title: "119. World Cup of Kings & Queens preview"
     url: "/wiki/sources/119-world-cup-of-kings-queens-preview-glt7656399161/"

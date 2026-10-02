@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11983
+wiki_total_pages: 11989
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "BritishFascisti"
     title: "British Fascisti"
     url: "/wiki/entities/britishfascisti/"
+  - key: "BritishLegion"
+    title: "British Legion"
+    url: "/wiki/entities/britishlegion/"
   - key: "BritishMuseum"
     title: "British Museum"
     url: "/wiki/entities/britishmuseum/"

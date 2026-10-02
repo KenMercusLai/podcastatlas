@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 11983
+wiki_total_pages: 11989
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "ImperialFascistLeague"
     title: "Imperial Fascist League"
     url: "/wiki/entities/imperialfascistleague/"
+  - key: "ImperialWarGravesCommission"
+    title: "Imperial War Graves Commission"
+    url: "/wiki/entities/imperialwargravescommission/"
   - key: "ImpulseWatch"
     title: "Impulse Watch"
     url: "/wiki/entities/impulsewatch/"

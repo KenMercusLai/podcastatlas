@@ -25188,6 +25188,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/britishgeneralelection2017/"
     },
+    "BritishLegion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2743125909 [GLT2743125909].md",
+          "key": "118-end-of-the-first-world-war-remembrance-glt2743125909",
+          "show": "The Rest Is History",
+          "title": "118. End of the First World War & Remembrance",
+          "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/britishlegion/"
+    },
     "BritishMediaExclusionOnlineAmplification": {
       "episode_count": 1,
       "show_count": 1,
@@ -30488,6 +30504,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/cenzhilatehan/"
+    },
+    "Cenotaph": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2743125909 [GLT2743125909].md",
+          "key": "118-end-of-the-first-world-war-remembrance-glt2743125909",
+          "show": "The Rest Is History",
+          "title": "118. End of the First World War & Remembrance",
+          "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/cenotaph/"
     },
     "CenovusEnergy": {
       "episode_count": 1,
@@ -47447,6 +47479,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/davidmancuso/"
+    },
+    "DavidRailton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2743125909 [GLT2743125909].md",
+          "key": "118-end-of-the-first-world-war-remembrance-glt2743125909",
+          "show": "The Rest Is History",
+          "title": "118. End of the First World War & Remembrance",
+          "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/davidrailton/"
     },
     "DavidSilver": {
       "episode_count": 2,
@@ -65437,6 +65485,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/fabianstrategy/"
     },
+    "FabianWare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2743125909 [GLT2743125909].md",
+          "key": "118-end-of-the-first-world-war-remembrance-glt2743125909",
+          "show": "The Rest Is History",
+          "title": "118. End of the First World War & Remembrance",
+          "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/fabianware/"
+    },
     "Fable5": {
       "episode_count": 7,
       "show_count": 4,
@@ -69919,9 +69983,9 @@
       "url": "/wiki/entities/firsttriumvirate/"
     },
     "FirstWorldWar": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "GLT1889262052 [GLT1889262052].md",
@@ -69985,6 +70049,13 @@
           "show": "The Rest Is History",
           "title": "295: The Rise of the Nazis (Part 1)",
           "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
+        },
+        {
+          "episode_file": "GLT2743125909 [GLT2743125909].md",
+          "key": "118-end-of-the-first-world-war-remembrance-glt2743125909",
+          "show": "The Rest Is History",
+          "title": "118. End of the First World War & Remembrance",
+          "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
         }
       ],
       "updated": "2026-09-29",
@@ -70005,6 +70076,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/firstworldwargaswarfare/"
+    },
+    "FirstWorldWarRemembrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2743125909 [GLT2743125909].md",
+          "key": "118-end-of-the-first-world-war-remembrance-glt2743125909",
+          "show": "The Rest Is History",
+          "title": "118. End of the First World War & Remembrance",
+          "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/firstworldwarremembrance/"
     },
     "FiscalExtractionRebellionSpiral": {
       "episode_count": 2,
@@ -78722,9 +78809,9 @@
       "url": "/wiki/entities/georgestephenson/"
     },
     "GeorgeV": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2826379729 [GLT2826379729].md",
@@ -78746,6 +78833,13 @@
           "show": "The Rest Is History",
           "title": "123. World Cup of Kings and Queens part 1",
           "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
+        },
+        {
+          "episode_file": "GLT2743125909 [GLT2743125909].md",
+          "key": "118-end-of-the-first-world-war-remembrance-glt2743125909",
+          "show": "The Rest Is History",
+          "title": "118. End of the First World War & Remembrance",
+          "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
         }
       ],
       "updated": "2026-10-01",
@@ -97895,6 +97989,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/imperialvictoryreframing/"
+    },
+    "ImperialWarGravesCommission": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2743125909 [GLT2743125909].md",
+          "key": "118-end-of-the-first-world-war-remembrance-glt2743125909",
+          "show": "The Rest Is History",
+          "title": "118. End of the First World War & Remembrance",
+          "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/imperialwargravescommission/"
     },
     "ImperialWarResourceMotive": {
       "episode_count": 1,
@@ -164047,6 +164157,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/rememberunderstandactloop/"
     },
+    "RemembrancePoppy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2743125909 [GLT2743125909].md",
+          "key": "118-end-of-the-first-world-war-remembrance-glt2743125909",
+          "show": "The Rest Is History",
+          "title": "118. End of the First World War & Remembrance",
+          "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/remembrancepoppy/"
+    },
     "RemigrationPolitics": {
       "episode_count": 2,
       "show_count": 1,
@@ -169676,9 +169802,9 @@
       "url": "/wiki/entities/rudolfvrba/"
     },
     "RudyardKipling": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2309179565 [GLT2309179565].md",
@@ -169693,6 +169819,13 @@
           "show": "The Rest Is History",
           "title": "150. Smuggling",
           "url": "/wiki/sources/150-smuggling-glt2228422151/"
+        },
+        {
+          "episode_file": "GLT2743125909 [GLT2743125909].md",
+          "key": "118-end-of-the-first-world-war-remembrance-glt2743125909",
+          "show": "The Rest Is History",
+          "title": "118. End of the First World War & Remembrance",
+          "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
         }
       ],
       "updated": "2026-10-02",
@@ -198278,6 +198411,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/universityofwashington/"
+    },
+    "UnknownWarrior": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2743125909 [GLT2743125909].md",
+          "key": "118-end-of-the-first-world-war-remembrance-glt2743125909",
+          "show": "The Rest Is History",
+          "title": "118. End of the First World War & Remembrance",
+          "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/unknownwarrior/"
     },
     "UnlearningExamExpression": {
       "episode_count": 1,

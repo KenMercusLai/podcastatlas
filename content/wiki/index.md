@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [118. End of the First World War & Remembrance](sources/118-end-of-the-first-world-war-remembrance-glt2743125909.md) — The Rest Is History on equal war graves, the Cenotaph, two-minute silence, Unknown Warrior, poppy, veteran welfare, and the changing meanings of remembrance.
 - [119. World Cup of Kings & Queens preview](sources/119-world-cup-of-kings-queens-preview-glt7656399161.md) — The Rest Is History preview defining tournament eligibility and comparing fame, achievement, moral cost, sacred continuity, constitutional role, and audience preference.
 - [120. The Oil Weapon](sources/120-the-oil-weapon-glt6620754143.md) — The Rest Is History on the 1973 oil crisis, producer leverage, Western dependence, Britain's three-day week, conservation, and the end of easy abundance.
 - [Time Perception & Entrainment by Dopamine, Serotonin & Hormones](sources/scim2746317304-scim2746317304.md) — Huberman Lab episode on biological entrainment, neurochemical state, present and remembered duration, work rhythms, and flexible temporal landmarks.
@@ -3518,6 +3519,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 
 ## Entities
+- [The Cenotaph](entities/Cenotaph.md) — Abstract empty-tomb monument that became the civic center of British national remembrance.
+- [Unknown Warrior](entities/UnknownWarrior.md) — Unidentified serviceman buried in Westminster Abbey as a representative focus for missing war dead and bereaved families.
+- [David Railton](entities/DavidRailton.md) — Army chaplain who proposed the Unknown Warrior burial and linked remembrance to veteran care.
+- [Imperial War Graves Commission](entities/ImperialWarGravesCommission.md) — Institution that joined graves registration, standardized design, and equal commemoration across rank.
+- [Fabian Ware](entities/FabianWare.md) — Organizer whose graves-registration work helped create the Imperial War Graves Commission.
+- [British Legion](entities/BritishLegion.md) — Veterans' organization connecting postwar welfare to the mass remembrance-poppy appeal.
 - [King Faisal](entities/KingFaisal.md) — Saudi monarch who linked Western support for Israel to the political security of cheap Arab oil.
 - [David Hunt](entities/DavidHunt.md) — Australian historian and broadcaster who separates Cook's navigational achievement from discovery mythology and Indigenous deep history.
 - [Edward the Elder](entities/EdwardTheElder.md) — Alfred's son and successor whose campaigns with Æthelflæd extended West Saxon-Mercian power before Athelstan's unification.
@@ -15542,6 +15549,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [First World War Remembrance](concepts/FirstWorldWarRemembrance.md) — Deliberately built and contested system joining equal graves, silence, monuments, representative burial, charity, and adaptable civic meaning.
+- [Remembrance Poppy](concepts/RemembrancePoppy.md) — Wearable symbol joining battlefield poetry, transnational activism, veteran charity, mass participation, and pacifist contest.
 - [1973 Oil Crisis](concepts/OilCrisis1973.md) — Price, supply, and geopolitical shock that exposed Western import dependence and shifted visible leverage toward producing states.
 - [Time Perception and Neurochemical State](concepts/TimePerceptionAndNeurochemicalState.md) — State-dependent model separating present, prospective, and retrospective duration judgments.
 - [Australian Deep Time and Oral Continuity](concepts/AustralianDeepTimeAndOralContinuity.md) — Archaeological, genetic, linguistic, oral, legal, and landscape evidence for Aboriginal Australian history across deep time.

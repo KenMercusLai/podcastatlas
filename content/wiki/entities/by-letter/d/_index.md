@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11983
+wiki_total_pages: 11989
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "DavidMcRaney"
     title: "David McRaney / 大卫·麦克雷尼"
     url: "/wiki/entities/davidmcraney/"
+  - key: "DavidRailton"
+    title: "David Railton"
+    url: "/wiki/entities/davidrailton/"
   - key: "DavidRicardo"
     title: "David Ricardo / 大卫·李嘉图"
     url: "/wiki/entities/davidricardo/"

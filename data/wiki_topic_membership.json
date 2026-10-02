@@ -218,6 +218,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "118-end-of-the-first-world-war-remembrance-glt2743125909": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087": [
     {
       "key": "politics",
@@ -32878,6 +32885,13 @@
     }
   ],
   "FirstWorldWarGasWarfare": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "FirstWorldWarRemembrance": [
     {
       "key": "history",
       "label": "History",

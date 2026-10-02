@@ -6,6 +6,7 @@ sources:
   - 231-queen-elizabeth-ii-part-1-glt2826379729
   - 190-jubilees-glt4093596173
   - 123-world-cup-of-kings-and-queens-part-1-glt3062961015
+  - 118-end-of-the-first-world-war-remembrance-glt2743125909
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-George V appears as Elizabeth II's grandfather and an early model of modern royal duty whose restrained public style gained legitimacy through world war, depression, dynastic survival, and his 1935 Silver Jubilee.
+George V appears as Elizabeth II's grandfather and an early model of modern royal duty whose restrained public style gained legitimacy through world war, national mourning, depression, dynastic survival, and his 1935 Silver Jubilee.
 
 ## Current Profile
 
@@ -26,6 +27,8 @@ His death also opens the succession sequence that moved [[EdwardVIII|Edward VIII
 
 [[123-world-cup-of-kings-and-queens-part-1-glt3062961015]] extends the same interpretation across his reign. His naval formation, formality, stamp collecting, hunting, and apparent dullness are set against stability through the First World War's aftermath, Irish independence, the General Strike, the Depression, and Labour's rise. The refusal to receive the Russian imperial family remains a morally and causally qualified example of dynastic survival taking priority over kinship.
 
+The post-1918 public-mourning settlement adds another expression of restrained monarchy. George endorsed the two-minute silence before the first Armistice anniversary observance and participated in the [[UnknownWarrior]] and [[Cenotaph]] ceremonies, using monarchy to authorize collective grief rather than triumphalist celebration [[118-end-of-the-first-world-war-remembrance-glt2743125909]].
+
 ## Key Characteristics
 
 - Grandfather and important childhood influence on Elizabeth II.
@@ -33,8 +36,8 @@ His death also opens the succession sequence that moved [[EdwardVIII|Edward VIII
 - Surviving sovereign after world war and the collapse of several European dynasties.
 - His 1935 Jubilee joined modest spectacle to hardship, unemployment, and unexpectedly strong public affection.
 - Ordinariness could function as constitutional strength when contrasted with dictatorial charisma.
-- Starting point of the succession crisis that redirected Elizabeth's life.
-- Formal and personally unglamorous sovereign whose steadiness helped normalize twentieth-century constitutional monarchy.
+- Starting point of the succession crisis that redirected Elizabeth's life, and a formal, personally unglamorous sovereign whose steadiness helped normalize twentieth-century constitutional monarchy.
+- Monarch who helped authorize the silence, Cenotaph, and Unknown Warrior as national mourning rituals.
 
 ## Evidence
 
@@ -44,16 +47,18 @@ His death also opens the succession sequence that moved [[EdwardVIII|Edward VIII
 - Jubilee and hardship: [[190-jubilees-glt4093596173]] places the 1935 celebration under unemployment and depression and notes the king's acknowledgment of those still without work.
 - Constitutional contrast: [[190-jubilees-glt4093596173]] interprets his restrained, ordinary image against collapsed monarchies and fascist spectacle.
 - Reign-wide stability: [[123-world-cup-of-kings-and-queens-part-1-glt3062961015]] connects George's dull public image with continuity through Irish conflict, labour unrest, depression, and political realignment.
+- National mourning: [[118-end-of-the-first-world-war-remembrance-glt2743125909]] connects George to the two-minute silence and the Unknown Warrior-Cenotaph ceremony.
 
 ## Qualifications
 
-The sources remain selective rather than a balanced account of his reign, politics, imperial role, family relationships, or public reception. Reported surprise at affection, the scale and motives of participation, and the contrast with fascist spectacle are source-scoped interpretations. The Russian asylum decision is presented through advisers' fear for the British monarchy and should not be reduced to George's personal preference alone.
+The sources remain selective rather than a balanced account of his reign, politics, imperial role, family relationships, or public reception. Reported surprise at affection, the scale and motives of participation, the contrast with fascist spectacle, and his personal influence over remembrance are source-scoped interpretations. The Russian asylum decision is presented through advisers' fear for the British monarchy and should not be reduced to George's personal preference alone.
 
 ## What Changed
 
 - Created a bounded profile of George V as a familial and institutional model of duty.
 - Added the 1935 Jubilee as evidence that restrained constitutional ordinariness could carry public value amid hardship and dictatorship.
 - Extended restrained ordinariness from the Jubilee to the wider political shocks of his reign.
+- Added George's role in authorizing restrained national mourning after the First World War.
 
 ## Relationships
 
@@ -62,3 +67,6 @@ The sources remain selective rather than a balanced account of his reign, politi
 - [[EdwardVIII]] - son whose abdication disrupted the expected succession.
 - [[MonarchicalAdaptiveContinuity]] - later framework supported by the dynasty's repeated presentation of duty.
 - [[RoyalJubileeNationalSelfAssessment]] - framework through which his Silver Jubilee reflected depression-era Britain and monarchical survival.
+- [[FirstWorldWarRemembrance]] - national ritual system to which he gave monarchical authority.
+- [[UnknownWarrior]] - representative burial at the center of the 1920 ceremony.
+- [[Cenotaph]] - abstract national monument associated with the silence and burial procession.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11983
+wiki_total_pages: 11989
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1670,6 +1670,9 @@ wiki_pages:
   - key: "ChimeiRebellion"
     title: "Red Eyebrows / 赤眉"
     url: "/wiki/entities/chimeirebellion/"
+  - key: "Cenotaph"
+    title: "The Cenotaph"
+    url: "/wiki/entities/cenotaph/"
   - key: "CactusFlowerStory"
     title: "《仙人掌之花》"
     url: "/wiki/entities/cactusflowerstory/"

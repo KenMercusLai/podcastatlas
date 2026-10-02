@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11983
+wiki_total_pages: 11989
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "F2HomeRobot"
     title: "F2 Home Robot"
     url: "/wiki/entities/f2homerobot/"
+  - key: "FabianWare"
+    title: "Fabian Ware"
+    url: "/wiki/entities/fabianware/"
   - key: "Fable5"
     title: "Fable 5"
     url: "/wiki/entities/fable5/"

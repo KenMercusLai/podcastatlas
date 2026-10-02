@@ -131,6 +131,10 @@
     "title": "117.诅咒兔：怪谈文学也要上桌吃饭",
     "url": "/wiki/sources/117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341/"
   },
+  "118-end-of-the-first-world-war-remembrance-glt2743125909": {
+    "title": "118. End of the First World War & Remembrance",
+    "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
+  },
   "118-shi-dachen-xinla-fengci-yongbuguoshi-768665425": {
     "title": "118.是，大臣：辛辣讽刺永不过时",
     "url": "/wiki/sources/118-shi-dachen-xinla-fengci-yongbuguoshi-768665425/"
@@ -12843,6 +12847,10 @@
     "title": "2017 British General Election",
     "url": "/wiki/entities/britishgeneralelection2017/"
   },
+  "BritishLegion": {
+    "title": "British Legion",
+    "url": "/wiki/entities/britishlegion/"
+  },
   "BritishMediaExclusionOnlineAmplification": {
     "title": "British Media Exclusion Online Amplification",
     "url": "/wiki/concepts/britishmediaexclusiononlineamplification/"
@@ -14870,6 +14878,10 @@
   "CenZhiLateHan": {
     "title": "岑晊 / Cen Zhi (late Han)",
     "url": "/wiki/entities/cenzhilatehan/"
+  },
+  "Cenotaph": {
+    "title": "The Cenotaph",
+    "url": "/wiki/entities/cenotaph/"
   },
   "CenovusEnergy": {
     "title": "Cenovus Energy",
@@ -21631,6 +21643,10 @@
     "title": "David McRaney / 大卫·麦克雷尼",
     "url": "/wiki/entities/davidmcraney/"
   },
+  "DavidRailton": {
+    "title": "David Railton",
+    "url": "/wiki/entities/davidrailton/"
+  },
   "DavidRicardo": {
     "title": "David Ricardo / 大卫·李嘉图",
     "url": "/wiki/entities/davidricardo/"
@@ -27475,6 +27491,10 @@
     "title": "Fabian Strategy / 费边战略",
     "url": "/wiki/concepts/fabianstrategy/"
   },
+  "FabianWare": {
+    "title": "Fabian Ware",
+    "url": "/wiki/entities/fabianware/"
+  },
   "Fable5": {
     "title": "Fable 5",
     "url": "/wiki/entities/fable5/"
@@ -29114,6 +29134,10 @@
   "FirstWorldWarGasWarfare": {
     "title": "First World War Gas Warfare",
     "url": "/wiki/concepts/firstworldwargaswarfare/"
+  },
+  "FirstWorldWarRemembrance": {
+    "title": "First World War Remembrance",
+    "url": "/wiki/concepts/firstworldwarremembrance/"
   },
   "FiscalExtractionRebellionSpiral": {
     "title": "财政压榨叛乱螺旋 / Fiscal Extraction Rebellion Spiral",
@@ -38622,6 +38646,10 @@
   "ImperialVictoryReframing": {
     "title": "Imperial Victory Reframing",
     "url": "/wiki/concepts/imperialvictoryreframing/"
+  },
+  "ImperialWarGravesCommission": {
+    "title": "Imperial War Graves Commission",
+    "url": "/wiki/entities/imperialwargravescommission/"
   },
   "ImperialWarResourceMotive": {
     "title": "Imperial War Resource Motive",
@@ -64711,6 +64739,10 @@
     "title": "Remember-Understand-Act Loop / 记忆—理解—行动闭环",
     "url": "/wiki/concepts/rememberunderstandactloop/"
   },
+  "RemembrancePoppy": {
+    "title": "Remembrance Poppy",
+    "url": "/wiki/concepts/remembrancepoppy/"
+  },
   "RemigrationPolitics": {
     "title": "Remigration Politics",
     "url": "/wiki/concepts/remigrationpolitics/"
@@ -78810,6 +78842,10 @@
   "UniversityOpportunityDensity": {
     "title": "University Opportunity Density",
     "url": "/wiki/concepts/universityopportunitydensity/"
+  },
+  "UnknownWarrior": {
+    "title": "Unknown Warrior",
+    "url": "/wiki/entities/unknownwarrior/"
   },
   "UnlearningExamExpression": {
     "title": "Unlearning Exam Expression / 去除应试表达",

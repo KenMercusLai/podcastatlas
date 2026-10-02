@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 11983
+wiki_total_pages: 11989
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1968"
     title: "1968 United States Presidential Election"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "UniversityOfWashington"
     title: "University of Washington"
     url: "/wiki/entities/universityofwashington/"
+  - key: "UnknownWarrior"
+    title: "Unknown Warrior"
+    url: "/wiki/entities/unknownwarrior/"
   - key: "UNTUCKit"
     title: "UNTUCKit"
     url: "/wiki/entities/untuckit/"

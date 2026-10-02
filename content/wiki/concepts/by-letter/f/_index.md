@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9291
+wiki_total_pages: 9293
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "FirstWorldWarGasWarfare"
     title: "First World War Gas Warfare"
     url: "/wiki/concepts/firstworldwargaswarfare/"
+  - key: "FirstWorldWarRemembrance"
+    title: "First World War Remembrance"
+    url: "/wiki/concepts/firstworldwarremembrance/"
   - key: "FirstAidTriageAndEscalation"
     title: "First-Aid Triage and Escalation / 急救判断与升级"
     url: "/wiki/concepts/firstaidtriageandescalation/"
