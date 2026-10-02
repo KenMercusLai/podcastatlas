@@ -7,7 +7,8 @@ sources:
   - 251-alfred-the-great-return-of-the-king-part-2-glt9621369023
   - 250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463
   - 12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618
-last_updated: 2026-09-30
+  - 122-athelstan-englands-greatest-monarch-glt8211065813
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,7 +28,9 @@ The breathing space after 879 allowed Alfred to bind burhs, organized military s
 
 The shorter anniversary account adds a territorial and dynastic bridge to that institutional synthesis. It emphasizes London's strategic importance, Alfred's fortification of the city, and a Mercian settlement reinforced through Æthelflæd's marriage to Æthelred. In this telling, expansion depended on local legitimacy and dynastic cooperation as well as West Saxon military power.
 
-This achievement remained multigenerational. Alfred was king of Wessex, not a united England; Edward, Æthelflæd, [[Athelstan]], and [[EdgarThePeaceful|Edgar]] extended and consolidated the system. His reputation is also unusually mediated: Asser and royal chronicle traditions were close to Alfred, Victorian admiration inflated the gentleman-inventor image, and the cakes, saintly rescue, minstrel disguise, and raven-banner stories are late, doubtful, or legendary evidence rather than the secure basis of his profile.
+This achievement remained multigenerational. Alfred was king of Wessex, not a united England; [[EdwardTheElder|Edward]], [[Aethelflaed|Æthelflæd]], [[Athelstan]], and [[EdgarThePeaceful|Edgar]] extended and consolidated the system. The Athelstan episode makes the bridge more concrete: Edward and Æthelflæd used burhs, markets, silver, military campaigns, and Anglo-Saxon political identity to recover East Anglia and much of the Midlands before Athelstan annexed York in 927.
+
+Alfred's reputation is also unusually mediated. Asser and royal chronicle traditions were close to Alfred, Victorian admiration inflated the gentleman-inventor image, and the cakes, saintly rescue, minstrel disguise, raven-banner story, and childhood investiture of Athelstan are late, doubtful, or politically shaped evidence rather than the secure basis of his profile.
 
 ## Key Characteristics
 
@@ -49,24 +52,27 @@ This achievement remained multigenerational. Alfred was king of Wessex, not a un
 - Chippenham crisis and source criticism - [[250-alfred-the-great-fury-of-the-vikings-part-1-glt7924523463]] explains the surprise attack that opened the collapse while distinguishing Alfred's importance from court-connected evidence, Victorian inflation, and legend.
 - Multigenerational outcome - [[548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286]] and [[251-alfred-the-great-return-of-the-king-part-2-glt9621369023]] place Alfred before Athelstan's unification and later consolidation rather than treating his reign as a completed English nation-state.
 - London and Mercian legitimacy - [[12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618]] connects control and fortification of London to a Mercian political settlement and Æthelflæd's dynastic partnership.
+- Successor mechanism - [[122-athelstan-englands-greatest-monarch-glt8211065813]] shows Edward and Æthelflæd extending Alfred's fortified, fiscal, military, and identity-building inheritance before Athelstan's conquest of York.
 
 ## Qualifications
 
-The sources are synthetic podcast accounts and emphasize Alfred's perspective. Much surviving evidence was produced by or near his circle, making childhood anecdotes, the comeback, rival reputations, and the reform narrative vulnerable to royal self-presentation. The exact originality, reach, and operation of his reforms are not independently established here; papal honors, Guthrum's beliefs, treaty chronology, burh administration, identity formation, and the counterfactual role of Viking destruction remain source-scoped. The anniversary episode compresses Edington, London's recovery, Mercian division, and later settlement and should not be read as a precise treaty chronology. Victorian invention claims and the cakes, St Cuthbert, minstrel, raven-banner, and other dramatic traditions are not treated as secure contemporary history.
+The sources are synthetic podcast accounts and emphasize Alfred's perspective. Much surviving evidence was produced by or near his circle, making childhood anecdotes, the comeback, rival reputations, the reform narrative, and Alfred's reported gift to the young Athelstan vulnerable to royal self-presentation. The exact originality, reach, and operation of his reforms are not independently established here; papal honors, Guthrum's beliefs, treaty chronology, burh administration, identity formation, and the counterfactual role of Viking destruction remain source-scoped. The anniversary episode compresses Edington, London's recovery, Mercian division, and later settlement and should not be read as a precise treaty chronology. Victorian invention claims and the cakes, St Cuthbert, minstrel, raven-banner, and other dramatic traditions are not treated as secure contemporary history.
 
 ## What Changed
 
+- Added Edward and Æthelflæd's campaigns as the concrete transmission mechanism between Alfredian reform and Athelstan's 927 unification.
 - Added London and Mercian dynastic legitimacy as a bridge from recovery to wider rule.
 - Added learning, translation, and scribal capacity as governing infrastructure.
 - Qualified the heroic comeback through Alfred-centered evidence, Victorian reputation-building, and late legendary traditions.
 - Clarified that broader identity and later unification were enabled but not completed by Alfred.
-- Added Alfred's Christian education, early war, alliance, payment, and treaty experience as the prehistory of the 878 crisis.
 
 ## Relationships
 
 - [[Guthrum]] - defeated opponent whose baptism and settlement Alfred sponsored.
 - [[BattleOfEdington]] - military hinge in Alfred's recovery from the 878 crisis.
 - [[DanelawSettlement]] - negotiated coexistence that qualified victory and created rebuilding space.
+- [[EdwardTheElder]] - son who extended the fortified West Saxon system through reconquest.
+- [[Aethelflaed]] - daughter whose Mercian rule joined burhs, campaigns, and regional legitimacy.
 - [[Athelstan]] - grandson who converts dynastic expansion into a united English kingdom.
 - [[EdgarThePeaceful]] - later ruler who displays the coercive and sacred reach of the consolidated monarchy.
 - [[AngloSaxonStateFormation]] - long process to which Alfred contributes defense, towns, administration, learning, and political identity.

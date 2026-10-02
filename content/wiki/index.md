@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [122. Athelstan: England's Greatest Monarch](sources/122-athelstan-englands-greatest-monarch-glt8211065813.md) — The Rest Is History episode on Athelstan's Mercian formation, 927 unification, law, coinage, Christian kingship, diplomacy, Brunanburh, and specialist recovery.
 - [The Science of Gratitude & How to Build a Gratitude Practice](sources/scim2344094719-scim2344094719.md) — Huberman Lab episode distinguishing gratitude lists from sincere received or narratively witnessed gratitude and proposing a brief, source-scoped story-cue practice.
 - [123. World Cup of Kings and Queens part 1](sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015.md) — The Rest Is History tournament portraits separating monarchical effectiveness, consequence, moral cost, cultural glamour, and modern audience affection.
 - [124. World Cup of Kings and Queens part 2](sources/124-world-cup-of-kings-and-queens-part-2-glt4467647081.md) — The Rest Is History tournament comparing warrior, transformative, survivalist, foundational, and constitutional models of monarchical success.
@@ -3513,6 +3514,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 
 ## Entities
+- [Edward the Elder](entities/EdwardTheElder.md) — Alfred's son and successor whose campaigns with Æthelflæd extended West Saxon-Mercian power before Athelstan's unification.
+- [Æthelflæd](entities/Aethelflaed.md) — Mercian ruler whose burhs, campaigns, sacred politics, and guardianship of Athelstan helped bridge Alfredian survival and English unification.
 - [Edward I of England](entities/EdwardIOfEngland.md) — Formidable medieval king whose military and administrative capacity coexisted with conquest, persecution, expulsion, and divisive memory.
 - [Henry VII](entities/HenryVII.md) — Tudor founder whose dynastic settlement, baronial restraint, and fiscal reconstruction restored stability without producing a romantic popular image.
 - [Richard I of England](entities/RichardIOfEngland.md) — Crusading warrior king whose heroic afterlife contrasts with prolonged absence, warfare, captivity, ransom, and practical criticism.
@@ -4724,10 +4727,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Louis XVI](entities/LouisXVI.md) — Bourbon king whose scandal-era reputational damage preceded constitutional collapse, suspension, trial, and execution.
 - [National Convention](entities/NationalConvention.md) — Republican assembly acting as legislature, court, and symbolic sovereign in the trial and execution of Louis XVI.
 - [李杰 / Li Jie (Respiratory Physician)](entities/LiJieRespiratoryDoctor.md) — Respiratory physician explaining obstructive sleep apnea, clinical testing, treatment selection, and home positive-airway-pressure use.
-- [Alfred the Great](entities/AlfredTheGreat.md) — Christian West Saxon ruler whose education, early wars, 878 recovery, fortified reform, and political identity underpin later English unification.
+- [Alfred the Great](entities/AlfredTheGreat.md) — Christian West Saxon ruler whose education, 878 recovery, fortified reform, and political identity were extended by Edward, Æthelflæd, and Athelstan.
 - [Guthrum](entities/Guthrum.md) — Danish ruler whose Chippenham surprise, defeat, baptism, and negotiated settlement connect Viking warfare to Christian territorial kingship.
 - [Great Heathen Army](entities/GreatHeathenArmy.md) — Viking coalition whose mobility, winter campaigning, large camps, conquest, and settlement transformed ninth-century England.
-- [Athelstan](entities/Athelstan.md) — West Saxon king presented as completing the political unification of England.
+- [Athelstan](entities/Athelstan.md) — Mercian-backed king whose conquest of York, law, coinage, diplomacy, and Brunanburh victory shaped a unified England.
 - [Edgar the Peaceful](entities/EdgarThePeaceful.md) — English king whose sacred ceremony and punitive enforcement reveal the coercive basis of royal peace.
 - [Rollo](entities/Rollo.md) — Viking warlord and baptized lower-Seine ruler whose settlement begins Normandy's hybrid political tradition.
 - [Stuart McMillan](entities/StuartMcMillan.md) — Sprint coach presenting speed-dependent gait, progressive plyometrics, eccentric capacity, and athlete-specific movement solutions.
@@ -15533,8 +15536,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Battle of Brunanburh](concepts/BattleOfBrunanburh.md) — Athelstan and Edmund's 937 coalition victory defending an enlarged but still contested English kingdom.
 - [Gratitude Narrative Practice](concepts/GratitudeNarrativePractice.md) — Brief practice centered on sincere received gratitude or a resonant helping story rather than decontextualized appreciation lists.
-- [Contextual Monarchical Success](concepts/ContextualMonarchicalSuccess.md) — Role-relative comparison of rulers through political order, consequence, moral cost, cultural memory, and audience judgment.
+- [Contextual Monarchical Success](concepts/ContextualMonarchicalSuccess.md) — Role-relative comparison of rulers through political order, consequence, moral cost, historical recovery, and audience judgment.
 - [CIA Intelligence-Covert Action Tension](concepts/CIAIntelligenceCovertActionTension.md) — Institutional conflict between understanding foreign conditions and secretly trying to change them.
 - [Covert Action Blowback](concepts/CovertActionBlowback.md) — Delayed, displaced, or reciprocal harm arising from apparently successful hidden intervention.
 - [Egyptology](concepts/Egyptology.md) — Study of ancient Egypt, here synthesized through decipherment, expeditionary documentation, empire, and artifact custody.
@@ -16741,7 +16745,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Political Execution Memory Contest](concepts/PoliticalExecutionMemoryContest.md) — Rival construction of an executed political figure as criminal, tyrant, victim, martyr, or sacrifice.
 - [Obstructive Sleep Apnea Recognition](concepts/ObstructiveSleepApneaRecognition.md) — Symptom, risk, screening, diagnostic, and escalation pathway that keeps consumer-device claims distinct from regulated sleep-medicine care.
 - [Positive Airway Pressure Therapy](concepts/PositiveAirwayPressureTherapy.md) — Noninvasive airway-support framework joining indication, titration, device fit, comfort, data, and adherence.
-- [Anglo-Saxon State Formation](concepts/AngloSaxonStateFormation.md) — Multigenerational development from divided kingdoms and Viking disruption through defense, towns, church, coinage, political unity, and coercive royal capacity.
+- [Anglo-Saxon State Formation](concepts/AngloSaxonStateFormation.md) — Multigenerational development from divided kingdoms through Alfredian reform, Edwardian-Mercian reconquest, Athelstan's unification, and contested royal capacity.
 - [Battle of Edington](concepts/BattleOfEdington.md) — Alfred's 878 victory treated as a bridge from military recovery to negotiated settlement and institutional rebuilding.
 - [Danelaw Settlement](concepts/DanelawSettlement.md) — Anglo-Danish legal-territorial accommodation that preserved Danish power while giving Wessex rebuilding space.
 - [Norman Hybrid Identity](concepts/NormanHybridIdentity.md) — Evolving synthesis of Scandinavian ancestry with Frankish, Christian, linguistic, and monastic adaptation in Normandy.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2392
+topic_total_pages: 2393
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4842,6 +4842,9 @@ topic_sources:
   - key: "120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218"
     title: "120.蓝狐岛：伟大事业中的雄心与现实"
     url: "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"
+  - key: "122-athelstan-englands-greatest-monarch-glt8211065813"
+    title: "122. Athelstan: England's Greatest Monarch"
+    url: "/wiki/sources/122-athelstan-englands-greatest-monarch-glt8211065813/"
   - key: "123-world-cup-of-kings-and-queens-part-1-glt3062961015"
     title: "123. World Cup of Kings and Queens part 1"
     url: "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"

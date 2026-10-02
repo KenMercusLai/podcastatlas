@@ -6839,6 +6839,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/aesopbeauty/"
     },
+    "Aethelflaed": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8211065813 [GLT8211065813].md",
+          "key": "122-athelstan-englands-greatest-monarch-glt8211065813",
+          "show": "The Rest Is History",
+          "title": "122. Athelstan: England's Greatest Monarch",
+          "url": "/wiki/sources/122-athelstan-englands-greatest-monarch-glt8211065813/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/aethelflaed/"
+    },
     "AethelredTheUnready": {
       "episode_count": 2,
       "show_count": 1,
@@ -8855,9 +8871,9 @@
       "url": "/wiki/entities/alfredterry/"
     },
     "AlfredTheGreat": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -8886,9 +8902,16 @@
           "show": "The Rest Is History",
           "title": "12 Days: Alfred the Great and Pepys' 'Fanatiques'",
           "url": "/wiki/sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618/"
+        },
+        {
+          "episode_file": "GLT8211065813 [GLT8211065813].md",
+          "key": "122-athelstan-englands-greatest-monarch-glt8211065813",
+          "show": "The Rest Is History",
+          "title": "122. Athelstan: England's Greatest Monarch",
+          "url": "/wiki/sources/122-athelstan-englands-greatest-monarch-glt8211065813/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/alfredthegreat/"
     },
     "AlfredWetzler": {
@@ -12224,9 +12247,9 @@
       "url": "/wiki/concepts/angloportuguesealliance/"
     },
     "AngloSaxonStateFormation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -12255,9 +12278,16 @@
           "show": "The Rest Is History",
           "title": "12 Days: Alfred the Great and Pepys' 'Fanatiques'",
           "url": "/wiki/sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618/"
+        },
+        {
+          "episode_file": "GLT8211065813 [GLT8211065813].md",
+          "key": "122-athelstan-englands-greatest-monarch-glt8211065813",
+          "show": "The Rest Is History",
+          "title": "122. Athelstan: England's Greatest Monarch",
+          "url": "/wiki/sources/122-athelstan-englands-greatest-monarch-glt8211065813/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/anglosaxonstateformation/"
     },
     "AnimalAbuseViolenceLink": {
@@ -15676,9 +15706,9 @@
       "url": "/wiki/entities/atang/"
     },
     "Athelstan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -15707,6 +15737,13 @@
           "show": "The Rest Is History",
           "title": "123. World Cup of Kings and Queens part 1",
           "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
+        },
+        {
+          "episode_file": "GLT8211065813 [GLT8211065813].md",
+          "key": "122-athelstan-englands-greatest-monarch-glt8211065813",
+          "show": "The Rest Is History",
+          "title": "122. Athelstan: England's Greatest Monarch",
+          "url": "/wiki/sources/122-athelstan-englands-greatest-monarch-glt8211065813/"
         }
       ],
       "updated": "2026-10-02",
@@ -19519,6 +19556,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/battleofantietam/"
+    },
+    "BattleOfBrunanburh": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8211065813 [GLT8211065813].md",
+          "key": "122-athelstan-englands-greatest-monarch-glt8211065813",
+          "show": "The Rest Is History",
+          "title": "122. Athelstan: England's Greatest Monarch",
+          "url": "/wiki/sources/122-athelstan-englands-greatest-monarch-glt8211065813/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/battleofbrunanburh/"
     },
     "BattleOfBunkerHill": {
       "episode_count": 1,
@@ -41427,9 +41480,9 @@
       "url": "/wiki/concepts/contextualexplanationwithoutexoneration/"
     },
     "ContextualMonarchicalSuccess": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4467647081 [GLT4467647081].md",
@@ -41444,6 +41497,13 @@
           "show": "The Rest Is History",
           "title": "123. World Cup of Kings and Queens part 1",
           "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
+        },
+        {
+          "episode_file": "GLT8211065813 [GLT8211065813].md",
+          "key": "122-athelstan-englands-greatest-monarch-glt8211065813",
+          "show": "The Rest Is History",
+          "title": "122. Athelstan: England's Greatest Monarch",
+          "url": "/wiki/sources/122-athelstan-englands-greatest-monarch-glt8211065813/"
         }
       ],
       "updated": "2026-10-02",
@@ -56390,6 +56450,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/edwardtheconfessor/"
+    },
+    "EdwardTheElder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8211065813 [GLT8211065813].md",
+          "key": "122-athelstan-englands-greatest-monarch-glt8211065813",
+          "show": "The Rest Is History",
+          "title": "122. Athelstan: England's Greatest Monarch",
+          "url": "/wiki/sources/122-athelstan-englands-greatest-monarch-glt8211065813/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/edwardtheelder/"
     },
     "EdwardV": {
       "episode_count": 2,

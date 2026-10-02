@@ -27633,3 +27633,11 @@ Added source `123-world-cup-of-kings-and-queens-part-1-glt3062961015`; created `
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 122. Athelstan: England's Greatest Monarch
+
+Added source `122-athelstan-englands-greatest-monarch-glt8211065813`; created `EdwardTheElder`, `Aethelflaed`, and `BattleOfBrunanburh`; and resynthesized `Athelstan`, `AlfredTheGreat`, `AngloSaxonStateFormation`, and `ContextualMonarchicalSuccess` from their complete preserved evidence inventories. Core synthesis: Athelstan's 927 conquest of York converted Alfredian survival and Edwardian-Mercian reconquest into rule over all English-speaking kingdoms, while law, assembly, coinage, Christian mercy, diplomacy, and Brunanburh helped turn conquest into government without making unity permanent or British overlordship uncontested. No settled contradiction was adopted; succession anecdotes, personal character, imperial language, Brunanburh's location, legal reach, and broad long-run consequences remain uncertain or source-scoped, and the listener vote remains audience-specific. The overview was updated with the new bounded synthesis. The downstream manifest and paragraph ledger were refreshed to 3,453-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
