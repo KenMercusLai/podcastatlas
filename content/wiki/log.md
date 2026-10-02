@@ -28124,3 +28124,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker
+
+Added source `scim3745275899-scim3745275899`; resynthesized `MatthewWalker`, `AdultNappingSleepPressure`, `AdultPolyphasicSleepEvidenceBoundary`, and `SleepDurationUShape` from their complete preserved evidence inventories. Core synthesis: sleep is active staged biology; morning light, regular timing, and behavioral foundations precede conditional use of caffeine, substances, supplements, or naps; sedation is not equivalent to intact sleep architecture; CBT-I-aligned tools outrank long-term pill reliance; extreme adult sleep-compression schedules remain unsupported; and long reported sleep may reflect illness or poor quality rather than direct harm. No settled contradiction was adopted. The rough 90-minute-cycle explanation is qualified by later evidence that cycle length varies, while supplement, hormone, sex, nap, mortality, and exact timing or dose claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,515-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

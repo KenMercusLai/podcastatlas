@@ -6422,9 +6422,9 @@
       "url": "/wiki/concepts/adultfevermedicationsafety/"
     },
     "AdultNappingSleepPressure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8589399999 [SCIM8589399999].md",
@@ -6432,15 +6432,22 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
           "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
+        },
+        {
+          "episode_file": "SCIM3745275899 [SCIM3745275899].md",
+          "key": "scim3745275899-scim3745275899",
+          "show": "Huberman Lab",
+          "title": "The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker",
+          "url": "/wiki/sources/scim3745275899-scim3745275899/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/adultnappingsleeppressure/"
     },
     "AdultPolyphasicSleepEvidenceBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8589399999 [SCIM8589399999].md",
@@ -6448,9 +6455,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
           "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
+        },
+        {
+          "episode_file": "SCIM3745275899 [SCIM3745275899].md",
+          "key": "scim3745275899-scim3745275899",
+          "show": "Huberman Lab",
+          "title": "The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker",
+          "url": "/wiki/sources/scim3745275899-scim3745275899/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/adultpolyphasicsleepevidenceboundary/"
     },
     "AdultProductsRelationshipSupport": {
@@ -132527,9 +132541,9 @@
       "url": "/wiki/entities/matthewmacdougall/"
     },
     "MatthewWalker": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -132572,9 +132586,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs",
           "url": "/wiki/sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487/"
+        },
+        {
+          "episode_file": "SCIM3745275899 [SCIM3745275899].md",
+          "key": "scim3745275899-scim3745275899",
+          "show": "Huberman Lab",
+          "title": "The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker",
+          "url": "/wiki/sources/scim3745275899-scim3745275899/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/matthewwalker/"
     },
     "MauricePaleologue": {
@@ -183014,6 +183035,29 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/sleepdisruptionsuiciderisksignal/"
+    },
+    "SleepDurationUShape": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "The case of the missing totem： Aung San Suu Kyi [6a560fc4f96471dde4821d2f].md",
+          "key": "the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f",
+          "show": "Economist Podcasts",
+          "title": "The case of the missing totem: Aung San Suu Kyi",
+          "url": "/wiki/sources/the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f/"
+        },
+        {
+          "episode_file": "SCIM3745275899 [SCIM3745275899].md",
+          "key": "scim3745275899-scim3745275899",
+          "show": "Huberman Lab",
+          "title": "The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker",
+          "url": "/wiki/sources/scim3745275899-scim3745275899/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/sleepdurationushape/"
     },
     "SleepHealthQQRT": {
       "episode_count": 3,

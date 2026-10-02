@@ -9,7 +9,8 @@ sources:
   - guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999
   - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
   - guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487
-last_updated: 2026-09-26
+  - scim3745275899-scim3745275899
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,6 +32,8 @@ The sleep-structure episode extends that same method across age and daily timing
 
 The protocols episode makes that stance operational. Walker joins regularity, light-dark contrast, cooling, substance boundaries, stimulus control, and bedtime rescheduling while explaining why compensating after a poor night can prolong disruption. He also separates promising closed-loop electrical, acoustic, thermal, and rocking research from safe consumer use and warns that maximizing one sleep stage can distort another.
 
+The earlier 2021 interview now provides a historical bridge across those later installments. It already joins stage timing, morning light, adenosine and caffeine, alcohol and THC, melatonin and other supplements, naps, CBT-I, and sleep anxiety in one foundations-first account. Its main addition is not a reversal but a clearer record that Walker's later framework developed from an earlier distinction among natural sleep, sedation, circadian timing, homeostatic pressure, and condition-specific intervention.
+
 ## Key Characteristics
 - Explains general sleep health, development, learning, emotion, dreaming, and alertness through quantity, quality, regularity, timing, stage-specific biology, and daytime function.
 - Separates pre-learning encoding, post-learning stabilization, motor consolidation, and creative integration.
@@ -51,14 +54,14 @@ The protocols episode makes that stance operational. Walker joins regularity, li
 - Sleep structure and alertness - [[guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999]] distinguishes lifespan sleep patterns, nap timing and inertia, caffeine blockade, insomnia-related nap avoidance, and unsupported adult polyphasic schedules.
 - Protocol hierarchy - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] joins regularity, light, temperature, caffeine, substances, stimulus control, and bedtime rescheduling while preserving supervision and safety boundaries.
 - Experimental enhancement - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] treats electrical, acoustic, thermal, and rocking interventions as timing-sensitive research rather than ready-made sleep optimization.
+- Earlier integrated framework - [[scim3745275899-scim3745275899]] joins stage architecture, light, caffeine, substances, supplements, naps, insomnia treatment, and anxiety-reduction tools while keeping preliminary findings source-scoped.
 
 ## Qualifications
-This profile is bounded to six structured episode summaries. Study details, effect sizes, school and athletic outcomes, historical creativity anecdotes, animal-to-human translation, developmental proportions, cycle lengths, QQRT thresholds, chronotype effects, nap benefits, aging estimates, caffeine cutoffs, driving-risk figures, endocrine and immune effects, mortality associations, anxiety thresholds, nightmare-treatment response, sleep-cueing efficacy, stimulation studies, suicide-risk estimates, lucid-dream prevalence, supplement evidence, and medication discussion are not independently validated here and should not be treated as personal medical or performance advice.
+This profile is bounded to seven structured episode summaries. Study details, effect sizes, school and athletic outcomes, historical creativity anecdotes, animal-to-human translation, developmental proportions, cycle lengths, QQRT thresholds, chronotype effects, nap benefits, aging estimates, caffeine cutoffs, driving-risk figures, endocrine and immune effects, mortality associations, anxiety thresholds, nightmare-treatment response, sleep-cueing efficacy, stimulation studies, suicide-risk estimates, lucid-dream prevalence, supplement evidence, sex and relationship findings, and medication discussion are not independently validated here and should not be treated as personal medical or performance advice.
 
 ## What Changed
-- Added the series-opening QQRT framework for quantity, quality, regularity, and timing.
-- Added the two-process account of circadian alerting and adenosine-based sleep pressure.
-- Added cross-system sleep-loss effects while preserving acute-versus-chronic and clinical boundaries.
+- Added the 2021 integrated account as historical corroboration for the later foundations-first framework.
+- Clarified that sedation, sleep timing, homeostatic pressure, and clinical intervention are distinct parts of Walker's practical model.
 
 ## Relationships
 - [[AndrewHuberman]] - interviewer and host who frames the practical questions.

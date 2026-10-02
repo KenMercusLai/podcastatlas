@@ -3574,6 +3574,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247.md) — Huberman Lab interview on psychedelic classes, clinical protocols, self-representation, integration, microdosing evidence, persistent perceptual symptoms, risks, and regulation.
 - [85. Sherlock Holmes](sources/85-sherlock-holmes-glt8342867383.md) — The Rest Is History on Holmes as Victorian cultural myth, Doyle’s medical and spiritualist contradictions, imperial anxiety, scientific detection, visual iconography, and fandom.
 - [How to Control Your Sense of Pain & Pleasure](sources/scim2452395341-scim2452395341.md) — Early Huberman Lab solo episode on context-sensitive pain and pleasure, sensory maps, expectation, dopamine anticipation, opponent-process adaptation, and bounded pain tools.
+- [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
 - [Checkpoint Charlie](entities/CheckpointCharlie.md) — Berlin Wall crossing where Allied access rights, East German authority, observation, and the October 1961 tank standoff converged.
