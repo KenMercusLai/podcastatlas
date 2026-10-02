@@ -3523,6 +3523,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [138. The Princes in the Tower Part 1](sources/138-the-princes-in-the-tower-part-1-glt6274021473.md) — The Rest Is History episode on Edward IV's Woodville marriage, Yorkist factional rupture, exile and restoration, the princes' upbringing, and the fragile 1483 succession.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
+- [Using Your Nervous System to Enhance Your Immune System](sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690.md) — Huberman Lab solo episode on layered immunity, sickness signaling, sleep, acute sympathetic activation, heat boundaries, and site-specific electroacupuncture mechanisms.
 
 ## Entities
 - [Ronald Hutton](entities/RonaldHutton.md) — Historian calibrating claims about paganism, ritual, Christianization, seasonal custom, and prehistoric religious evidence.
@@ -18481,6 +18482,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Immune Aging Mosaic](concepts/ImmuneAgingMosaic.md) — Aging frame where accumulated cellular variation and reduced immune-cell production make cancer or infection signals less distinct.
 - [Sleep Immune Repair](concepts/SleepImmuneRepair.md) — Sleep-immunity frame linking night immune-cell redistribution, bone marrow, neutrophil tissue work, cleanup, repair, and illness vulnerability.
 - [Brain-Immune State Coupling](concepts/BrainImmuneStateCoupling.md) — Brain-body immunology frame where neural states can be coupled to immune states, with strong caution around human translation.
+- [Site-Specific Electroacupuncture Immune Pathway](concepts/SiteSpecificElectroacupunctureImmunePathway.md) — Preclinical anatomy-dependent pathway linking deep-tissue stimulation, sensory neurons, vagal-adrenal signaling, catecholamines, and inflammatory effects.
 - [Autoimmune Disease Subtyping](concepts/AutoimmuneDiseaseSubtyping.md) — Precision-immunology frame treating autoimmune labels as heterogeneous immune configurations with variable treatment response.
 - [Context-Dependent Biomedical Interventions](concepts/ContextDependentBiomedicalInterventions.md) — Evidence and risk frame for peptides, cells, tissue banking, mindset, immune modulation, hormone therapy, and supplements across dose, timing, location, goals, and patient context.
 - [Machine Learning Biology Experiment Design](concepts/MachineLearningBiologyExperimentDesign.md) — AI-for-biology frame where machine learning models cell relationships and intervention sequences but still requires biological validation.

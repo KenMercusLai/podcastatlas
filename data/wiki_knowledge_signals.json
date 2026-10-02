@@ -5654,9 +5654,9 @@
       "url": "/wiki/concepts/acutesportsinjuryescalation/"
     },
     "AcuteStressImmunePriming": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1515778634 [SCIM1515778634].md",
@@ -5664,9 +5664,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
           "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
+        },
+        {
+          "episode_file": "SCIM4208180690 [SCIM4208180690].md",
+          "key": "using-your-nervous-system-to-enhance-your-immune-system-scim4208180690",
+          "show": "Huberman Lab",
+          "title": "Using Your Nervous System to Enhance Your Immune System",
+          "url": "/wiki/sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/acutestressimmunepriming/"
     },
     "AcuteWoundBurnFirstAid": {
@@ -24254,9 +24261,9 @@
       "url": "/wiki/concepts/brainhealthnutrientsufficiency/"
     },
     "BrainImmuneStateCoupling": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7009523546 [SCIM7009523546].md",
@@ -24271,9 +24278,16 @@
           "show": "Huberman Lab",
           "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
           "url": "/wiki/sources/scim1807559844-scim1807559844/"
+        },
+        {
+          "episode_file": "SCIM4208180690 [SCIM4208180690].md",
+          "key": "using-your-nervous-system-to-enhance-your-immune-system-scim4208180690",
+          "show": "Huberman Lab",
+          "title": "Using Your Nervous System to Enhance Your Immune System",
+          "url": "/wiki/sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/brainimmunestatecoupling/"
     },
     "BrainNetworkModularity": {
@@ -69486,9 +69500,9 @@
       "url": "/wiki/entities/feuillantclub/"
     },
     "FeverHeatImmuneResponseBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4509990462 [SCIM4509990462].md",
@@ -69510,9 +69524,16 @@
           "show": "Huberman Lab",
           "title": "AMA #13: Winter Months & Sickness, Wim Hof Breathing & Stressors",
           "url": "/wiki/sources/ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583/"
+        },
+        {
+          "episode_file": "SCIM4208180690 [SCIM4208180690].md",
+          "key": "using-your-nervous-system-to-enhance-your-immune-system-scim4208180690",
+          "show": "Huberman Lab",
+          "title": "Using Your Nervous System to Enhance Your Immune System",
+          "url": "/wiki/sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/feverheatimmuneresponseboundary/"
     },
     "FictionAsHistoricalEvidence": {
@@ -71962,9 +71983,9 @@
       "url": "/wiki/entities/foundationforindividualrightsandexpression/"
     },
     "FoundationalImmuneHealthFramework": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4509990462 [SCIM4509990462].md",
@@ -71986,9 +72007,16 @@
           "show": "这病说来话长",
           "title": "VOL.47食品与营养｜关于免疫力和补充剂的误区你中了几条？",
           "url": "/wiki/sources/vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk/"
+        },
+        {
+          "episode_file": "SCIM4208180690 [SCIM4208180690].md",
+          "key": "using-your-nervous-system-to-enhance-your-immune-system-scim4208180690",
+          "show": "Huberman Lab",
+          "title": "Using Your Nervous System to Enhance Your Immune System",
+          "url": "/wiki/sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/foundationalimmunehealthframework/"
     },
     "FounderAgreementDocumentation": {
@@ -178586,6 +178614,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/siri/"
     },
+    "SiteSpecificElectroacupunctureImmunePathway": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4208180690 [SCIM4208180690].md",
+          "key": "using-your-nervous-system-to-enhance-your-immune-system-scim4208180690",
+          "show": "Huberman Lab",
+          "title": "Using Your Nervous System to Enhance Your Immune System",
+          "url": "/wiki/sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/sitespecificelectroacupunctureimmunepathway/"
+    },
     "SittingBull": {
       "episode_count": 8,
       "show_count": 1,
@@ -179116,9 +179160,9 @@
       "url": "/wiki/concepts/sleephealthqqrt/"
     },
     "SleepImmuneRepair": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7009523546 [SCIM7009523546].md",
@@ -179140,9 +179184,16 @@
           "show": "Huberman Lab",
           "title": "AMA #13: Winter Months & Sickness, Wim Hof Breathing & Stressors",
           "url": "/wiki/sources/ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583/"
+        },
+        {
+          "episode_file": "SCIM4208180690 [SCIM4208180690].md",
+          "key": "using-your-nervous-system-to-enhance-your-immune-system-scim4208180690",
+          "show": "Huberman Lab",
+          "title": "Using Your Nervous System to Enhance Your Immune System",
+          "url": "/wiki/sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/sleepimmunerepair/"
     },
     "SleepLossEmotionalReactivity": {

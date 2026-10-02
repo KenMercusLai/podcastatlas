@@ -6,7 +6,8 @@ sources:
   - how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462
   - how-to-prevent-treat-colds-flu-scim6817932732
   - vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk
-last_updated: 2026-09-28
+  - using-your-nervous-system-to-enhance-your-immune-system-scim4208180690
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ The recovery and training branch now distinguishes adequate sleep and regular mo
 
 VOL.47 strengthens the food-sufficiency branch and replaces “boosting” language with [[ImmuneHomeostasisNotBoosting|immune homeostasis]]. Adequate energy, protein, food variety, and long-term routine support normal barriers and immune processes, while short bursts of vitamins, sudden exercise, or product purchases do not recreate that foundation. Supplements remain secondary tools for plausible gaps or special contexts.
 
+The nervous-system episode adds a layered-defense explanation beneath those habits: skin and mucosal barriers reduce entry, innate immunity responds quickly and broadly, and adaptive immunity develops more specific recognition and memory. Nasal breathing, avoiding contaminated hand-to-eye contact, and fermented foods are retained as adjunctive or source-scoped claims rather than substitutes for exposure reduction, adequate sleep, or medical care.
+
 ## Key Claims
 - Immune resilience is shaped partly by everyday sleep, nutrition, movement, hydration, light, and air conditions, but nutrient involvement does not prove benefit from above-adequate supplementation.
 - Regular manageable exercise is distinguished from excessive endurance load or intense training during systemic illness.
@@ -40,14 +43,14 @@ VOL.47 strengthens the food-sufficiency branch and replaces “boosting” langu
 - Trust boundary: [[how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462]] connects faith, gratitude, forgiveness, and community with coping while emphasizing permission in clinical settings.
 - Sleep, training, and early-rest boundary: [[how-to-prevent-treat-colds-flu-scim6817932732]] treats sleep as foundational, moderate exercise as supportive, and whole-body malaise as a reason to rest rather than push hard training.
 - Food and supplement hierarchy: [[vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk|VOL.47]] places adequate energy, protein, dietary variety, sleep, and stable routines before immune-marketed supplements and distinguishes biological nutrient roles from proven extra benefit.
+- Layered defenses and adjuncts: [[using-your-nervous-system-to-enhance-your-immune-system-scim4208180690]] connects physical barriers, innate and adaptive responses, sleep, ordinary health behaviors, hand-to-eye caution, nasal breathing, and fermented-food hypotheses without making any one measure sufficient.
 
 ## Counterevidence & Qualifications
 The framework bundles interventions with very different evidence bases and should not be read as a validated package or an "immune boost." The sources' nasal-breathing, microbiome, fermented-food, calorie-deficit, exercise-window, post-exercise carbohydrate, vitamin C, vitamin D, iron, zinc, protein, and other nutrient claims remain source-scoped and do not establish universal infection prevention or dosing. Severe infection, immunocompromise, dehydration, cardiopulmonary symptoms, persistent post-infection symptoms, autoimmune disease, allergy, pregnancy, lactation, malabsorption, and medication use require condition-specific evaluation. Spiritual practices and community support may be meaningful for some people and unwelcome or insufficient for others.
 
 ## What Changed
-- Added dietary variety, adequate energy, and protein sufficiency to the foundational layer.
-- Reframed the goal as regulated immune function rather than indiscriminate boosting.
-- Made explicit that nutrient involvement does not prove added benefit above sufficiency.
+- Added physical barriers, innate response, and adaptive memory as the biological layers beneath the lifestyle framework.
+- Kept nasal breathing and fermented-food claims as adjunctive rather than primary prevention.
 
 ## Related Concepts
 - [[ImmuneSystemAsTunableSensorNetwork]] - broader systems model in which context changes immune behavior.

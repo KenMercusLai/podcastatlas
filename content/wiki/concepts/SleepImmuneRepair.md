@@ -6,7 +6,8 @@ sources:
   - how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546
   - how-to-prevent-treat-colds-flu-scim6817932732
   - ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583
-last_updated: 2026-09-27
+  - using-your-nervous-system-to-enhance-your-immune-system-scim4208180690
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ The practical vulnerability frame treats partial-night or repeated sleep loss as
 
 The winter AMA reinforces the practical association between inadequate sleep and worse illness experience, while also noting that pathogen strain and unresolved immune variation affect severity. Sleep is therefore one modifiable contributor, not a complete explanation for whether exposure becomes illness or how severe that illness becomes.
 
+The nervous-system episode adds sickness-related sleep and glymphatic clearance to the explanatory picture. Those mechanisms support prioritizing sleep during illness, but its suggestions about elevating the feet and short-term 5-HTP are not established immune treatments and remain clinically bounded.
+
 ## Key Claims
 - Sleep is presented as a biological state with immune-system consequences.
 - Some immune cells may return to bone marrow at night.
@@ -39,13 +42,14 @@ The winter AMA reinforces the practical association between inadequate sleep and
 - Practical health boundary: [[how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546]] connects sleep disruption to illness vulnerability while keeping mechanisms explanatory.
 - Illness-load boundary: [[how-to-prevent-treat-colds-flu-scim6817932732]] treats sleep loss and intense training during malaise as avoidable stressors while keeping personal tracking observational.
 - Severity qualification: [[ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583]] associates sleep loss with feeling sicker while acknowledging that strain differences and other immune factors also shape outcomes.
+- Sickness sleep and clearance: [[using-your-nervous-system-to-enhance-your-immune-system-scim4208180690]] links early illness, sleep-state change, and glymphatic clearance while presenting foot elevation and 5-HTP as tentative rather than routine protocols.
 
 ## Counterevidence & Qualifications
-The sources do not specify a validated sleep prescription for immune optimization. Percentage-of-sleep-need, early-symptom, exercise, travel, personal-pattern, and illness-severity claims remain source-scoped. The sources do not settle how sleep duration, continuity, circadian timing, pathogen strain, illness state, or individual baseline should change recommendations.
+The sources do not specify a validated sleep prescription for immune optimization. Percentage-of-sleep-need, early-symptom, exercise, travel, personal-pattern, illness-severity, glymphatic, foot-elevation, and serotonin-supplement claims remain source-scoped. The sources do not settle how sleep duration, continuity, circadian timing, pathogen strain, illness state, or individual baseline should change recommendations. Serotonergic supplements can have interactions and adverse effects and are not routine sleep or infection treatment.
 
 ## What Changed
-- Added sleep loss as a qualified contributor to illness severity, not a sole cause.
-- Made pathogen strain and immune variation explicit competing explanations.
+- Added sickness-related sleep and glymphatic clearance to the mechanistic frame.
+- Kept foot elevation and 5-HTP outside the established sleep-immunity core.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account that this concept narrows to immune repair.

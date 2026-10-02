@@ -27729,3 +27729,11 @@ Added source `114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt25880
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Using Your Nervous System to Enhance Your Immune System
+
+Added source `using-your-nervous-system-to-enhance-your-immune-system-scim4208180690`; created `SiteSpecificElectroacupunctureImmunePathway`; and resynthesized `FoundationalImmuneHealthFramework`, `SleepImmuneRepair`, `BrainImmuneStateCoupling`, `AcuteStressImmunePriming`, and `FeverHeatImmuneResponseBoundary` from their complete preserved evidence inventories. Core synthesis: neural and immune systems communicate through identifiable vagal, cytokine, sympathetic, and adrenal routes, but controlled endotoxin physiology, transient biomarkers, and mouse electroacupuncture mechanisms do not establish general infection or inflammatory-disease treatments. No settled contradiction was adopted; the apparent tension around cyclic hyperventilation was retained as a state and evidence boundary between a controlled endotoxin challenge and active illness. Glymphatic foot elevation, 5-HTP, heat exposure, cold exposure, dopamine-linked healing, spirulina, fermented-food serving counts, and acupuncture efficacy remain source-scoped or clinically bounded. Recurring host and show pages were not changed because this episode adds no material identity or profile update beyond evidence already represented there. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,465-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9303
+wiki_total_pages: 9304
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "SingleStockLeveragedETF"
     title: "Single-Stock Leveraged ETF / 个股杠杆 ETF"
     url: "/wiki/concepts/singlestockleveragedetf/"
+  - key: "SiteSpecificElectroacupunctureImmunePathway"
+    title: "Site-Specific Electroacupuncture Immune Pathway"
+    url: "/wiki/concepts/sitespecificelectroacupunctureimmunepathway/"
   - key: "SituatedMediaObservation"
     title: "Situated Media Observation / 在场的媒体观察"
     url: "/wiki/concepts/situatedmediaobservation/"

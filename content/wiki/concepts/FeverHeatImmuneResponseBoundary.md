@@ -6,7 +6,8 @@ sources:
   - how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462
   - how-to-prevent-treat-colds-flu-scim6817932732
   - ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583
-last_updated: 2026-09-27
+  - using-your-nervous-system-to-enhance-your-immune-system-scim4208180690
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ The repeated-sauna evidence adds a useful state boundary: heat exposure may act 
 
 The winter AMA broadens that state boundary to deliberate cold exposure and cyclic hyperventilation. A practice proposed as a pre-exposure stressor cannot be assumed helpful once infection is developing; fever can be adaptive while still becoming dangerous at sufficiently high temperature.
 
+The earlier nervous-system episode independently reinforces the same separation. A single brief sauna study is described through changes in leukocyte profiles and cortisol, but these surrogate shifts do not show shorter illness or better clinical outcomes. The episode explicitly warns against sauna during fever because added heat can push adaptive temperature elevation toward dangerous overheating.
+
 ## Key Claims
 - Fever can be a coordinated host response and should not automatically be interpreted as biological failure.
 - Higher temperature may influence interferon or related antiviral signaling in experimental settings.
@@ -40,13 +43,14 @@ The winter AMA broadens that state boundary to deliberate cold exposure and cycl
 - Evidence limit: [[how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462]] relies partly on 1918-era institutional comparisons and traditional practice rather than contemporary randomized outcome trials.
 - Sauna-state boundary: [[how-to-prevent-treat-colds-flu-scim6817932732]] reports cortisol and leukocyte changes after repeated sessions but advises avoiding sauna when clearly ill or depleted.
 - Cold-and-breathing state boundary: [[ama-13-winter-months-sickness-wim-hof-breathing-stressors-scim4783359583]] warns that deliberate cold exposure and cyclic hyperventilation may become counterproductive during developing or active illness.
+- Single-session heat boundary: [[using-your-nervous-system-to-enhance-your-immune-system-scim4208180690]] reports transient leukocyte and cortisol changes after brief sauna exposure while warning against adding sauna heat during fever.
 
 ## Counterevidence & Qualifications
 Mechanistic signaling, transient cell-count changes, a small training study, historical group comparisons, and a podcast preview of cold exposure or cyclic hyperventilation do not establish clinical benefit. Deliberate heat can worsen dehydration, dizziness, hypotension, cardiovascular strain, or overheating; cold and hyperventilation can provoke cardiovascular, respiratory, fainting, or other risks. This concept is not advice to withhold antipyretics, induce fever, or use sauna, hydrotherapy, cold immersion, or breathwork during illness; those decisions depend on symptoms, diagnosis, risk factors, and professional guidance.
 
 ## What Changed
-- Extended the well-versus-actively-ill boundary from heat stress to cold exposure and cyclic hyperventilation.
-- Clarified that adaptive fever can still cross a clinically dangerous threshold.
+- Added a single-session sauna example while keeping transient biomarkers separate from clinical benefit.
+- Reinforced fever as a categorical reason not to add unsupervised sauna heat.
 
 ## Related Concepts
 - [[AcuteStressImmunePriming]] - adjacent short-term stress-response mechanism with chronic-use limits.
