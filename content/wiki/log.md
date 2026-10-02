@@ -27435,3 +27435,11 @@ Added source `12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 12 Days: Jean-Bédel Bokassa and the memory of pandemics
+
+Added source `12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305`; created `JeanBedelBokassa`, `CentralAfricanRepublic`, `PersonalistImperialSpectacle`, and `PandemicHistoricalMemory`; and resynthesized `ValeryGiscardDEstaing` from its complete preserved evidence inventory. Core synthesis: Bokassa's medals, military command, French relationship, coronation, and gifts turned personal status into costly imperial theatre, but the documented killing of schoolchildren matters more than disputed cannibalism stories; pandemic remembrance depends on rival events, images, emergency government, digital records, and altered daily life as well as mortality. No settled contradiction was adopted. Coronation cost, victim totals, French motives, reform claims, influenza origins and mortality, COVID-era causal forecasts, and the December 2021 lab-origin discussion remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,428-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [12 Days: Jean-Bédel Bokassa and the memory of pandemics](sources/12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305.md) — The Rest Is History on Bokassa's coup, imperial spectacle, violence, French backing, and the competing forces that shape memory of 1918 influenza and COVID-19.
 - [12 Days: Nero's Succession and the Fall of the Byzantine Empire](sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296.md) — The Rest Is History on the Rhine mutiny and Year of the Four Emperors, paired with Romanus IV, Manzikert, and Byzantine civil war.
 - [12 Days: Reconquest of Spain and the Old Queen of Hawaii](sources/12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415.md) — The Rest Is History on Granada's surrender, contested Reconquista memory, religious motives, Queen Emma, and Hawaii's monarchy under British-American pressure.
 - [12 Days: Martin Luther and J.R.R. Tolkien](sources/12-days-martin-luther-and-j-r-r-tolkien-glt9800831013.md) — The Rest Is History episode pairing Luther's excommunication with Tolkien's birth, Catholic imagination, mercy, grace, and anti-industrial modernity.
@@ -3488,6 +3489,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [Jean-Bédel Bokassa](entities/JeanBedelBokassa.md) — French-trained Central African soldier, coup leader, president, and self-crowned emperor whose spectacle coexisted with violent personal rule.
+- [Central African Republic](entities/CentralAfricanRepublic.md) — Post-colonial state represented through Dacko, Bokassa's coup and empire, institutional weakness, and continuing French leverage.
 - [Romanus IV](entities/RomanusIV.md) — Eastern Roman general-emperor captured at Manzikert and overthrown during the civil conflict that followed.
 - [Vitellius](entities/Vitellius.md) — Rhine-army candidate who defeated Otho before Vespasian's coalition overthrew him in AD 69.
 - [Galba](entities/Galba.md) — Post-Neronian emperor whose loss of Rhine-army allegiance exposed the fragility of formal succession.
@@ -15447,6 +15450,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Personalist Imperial Spectacle](concepts/PersonalistImperialSpectacle.md) — Use of titles, coronation, historical imitation, gifts, rank, and public spending to make one ruler embody the state.
+- [Pandemic Historical Memory](concepts/PandemicHistoricalMemory.md) — Process by which mortality, rival events, images, state response, technology, and later narratives shape whether pandemics remain publicly visible.
 - [Battle of Manzikert](concepts/BattleOfManzikert.md) — The 1071 defeat understood together with the succession war and Anatolian territorial losses that followed.
 - [Year of the Four Emperors](concepts/YearOfTheFourEmperors.md) — AD 69 succession crisis in which ritual, pedigree, army allegiance, and military victory competed.
 - [Hawaiian Monarchy under Foreign Pressure](concepts/HawaiianMonarchyForeignPressure.md) — Hawaiian royal adaptation through diplomacy, Christianity, and social institutions amid British and American influence.

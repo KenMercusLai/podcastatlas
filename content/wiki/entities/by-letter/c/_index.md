@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 11918
+wiki_total_pages: 11920
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "CentersForMedicareAndMedicaidServices"
     title: "Centers for Medicare & Medicaid Services"
     url: "/wiki/entities/centersformedicareandmedicaidservices/"
+  - key: "CentralAfricanRepublic"
+    title: "Central African Republic"
+    url: "/wiki/entities/centralafricanrepublic/"
   - key: "CentralAmerica"
     title: "Central America"
     url: "/wiki/entities/centralamerica/"

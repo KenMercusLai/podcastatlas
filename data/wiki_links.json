@@ -147,6 +147,10 @@
     "title": "12 Days: Death of Edward the Confessor and the Dreyfus Affair",
     "url": "/wiki/sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149/"
   },
+  "12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305": {
+    "title": "12 Days: Jean-Bédel Bokassa and the memory of pandemics",
+    "url": "/wiki/sources/12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305/"
+  },
   "12-days-martin-luther-and-j-r-r-tolkien-glt9800831013": {
     "title": "12 Days: Martin Luther and J.R.R. Tolkien",
     "url": "/wiki/sources/12-days-martin-luther-and-j-r-r-tolkien-glt9800831013/"
@@ -14750,6 +14754,10 @@
   "CentersForMedicareAndMedicaidServices": {
     "title": "Centers for Medicare & Medicaid Services",
     "url": "/wiki/entities/centersformedicareandmedicaidservices/"
+  },
+  "CentralAfricanRepublic": {
+    "title": "Central African Republic",
+    "url": "/wiki/entities/centralafricanrepublic/"
   },
   "CentralAmerica": {
     "title": "Central America",
@@ -40571,6 +40579,10 @@
     "title": "Jean-Baptiste Drouet",
     "url": "/wiki/entities/jeanbaptistedrouet/"
   },
+  "JeanBedelBokassa": {
+    "title": "Jean-Bédel Bokassa",
+    "url": "/wiki/entities/jeanbedelbokassa/"
+  },
   "JeanClaudeBiver": {
     "title": "Jean-Claude Biver",
     "url": "/wiki/entities/jeanclaudebiver/"
@@ -57491,6 +57503,10 @@
     "title": "Pandemic As Historical Force",
     "url": "/wiki/concepts/pandemicashistoricalforce/"
   },
+  "PandemicHistoricalMemory": {
+    "title": "Pandemic Historical Memory",
+    "url": "/wiki/concepts/pandemichistoricalmemory/"
+  },
   "Panerai": {
     "title": "Panerai",
     "url": "/wiki/entities/panerai/"
@@ -58722,6 +58738,10 @@
   "PersonalTrustPoliticalFragility": {
     "title": "Personal Trust Political Fragility / 私交信任的政治脆弱性",
     "url": "/wiki/concepts/personaltrustpoliticalfragility/"
+  },
+  "PersonalistImperialSpectacle": {
+    "title": "Personalist Imperial Spectacle",
+    "url": "/wiki/concepts/personalistimperialspectacle/"
   },
   "PersonalityTestIdentityBoundary": {
     "title": "Personality-Test Identity Boundary / 性格测试身份边界",

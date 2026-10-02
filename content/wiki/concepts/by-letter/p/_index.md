@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9249
+wiki_total_pages: 9251
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "PandemicAsHistoricalForce"
     title: "Pandemic As Historical Force"
     url: "/wiki/concepts/pandemicashistoricalforce/"
+  - key: "PandemicHistoricalMemory"
+    title: "Pandemic Historical Memory"
+    url: "/wiki/concepts/pandemichistoricalmemory/"
   - key: "PapalAtlanticPartition"
     title: "Papal Atlantic Partition"
     url: "/wiki/concepts/papalatlanticpartition/"
@@ -620,6 +623,9 @@ wiki_pages:
   - key: "PersonalEnterpriseMemoryOwnership"
     title: "Personal-Enterprise Memory Ownership"
     url: "/wiki/concepts/personalenterprisememoryownership/"
+  - key: "PersonalistImperialSpectacle"
+    title: "Personalist Imperial Spectacle"
+    url: "/wiki/concepts/personalistimperialspectacle/"
   - key: "PersonalityTestIdentityBoundary"
     title: "Personality-Test Identity Boundary / 性格测试身份边界"
     url: "/wiki/concepts/personalitytestidentityboundary/"

@@ -30047,6 +30047,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/cenovusenergy/"
     },
+    "CentralAfricanRepublic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8335317305 [GLT8335317305].md",
+          "key": "12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305",
+          "show": "The Rest Is History",
+          "title": "12 Days: Jean-Bédel Bokassa and the memory of pandemics",
+          "url": "/wiki/sources/12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/centralafricanrepublic/"
+    },
     "CentralBankIndependence": {
       "episode_count": 9,
       "show_count": 3,
@@ -102360,6 +102376,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/jeanbaptistedrouet/"
     },
+    "JeanBedelBokassa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8335317305 [GLT8335317305].md",
+          "key": "12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305",
+          "show": "The Rest Is History",
+          "title": "12 Days: Jean-Bédel Bokassa and the memory of pandemics",
+          "url": "/wiki/sources/12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/jeanbedelbokassa/"
+    },
     "JeanDeMailly": {
       "episode_count": 1,
       "show_count": 1,
@@ -145391,6 +145423,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/pandemicashistoricalforce/"
     },
+    "PandemicHistoricalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8335317305 [GLT8335317305].md",
+          "key": "12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305",
+          "show": "The Rest Is History",
+          "title": "12 Days: Jean-Bédel Bokassa and the memory of pandemics",
+          "url": "/wiki/sources/12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/pandemichistoricalmemory/"
+    },
     "PanfiloDeNarvaez": {
       "episode_count": 1,
       "show_count": 1,
@@ -148692,6 +148740,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/personalrulelegitimacycrisis/"
+    },
+    "PersonalistImperialSpectacle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8335317305 [GLT8335317305].md",
+          "key": "12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305",
+          "show": "The Rest Is History",
+          "title": "12 Days: Jean-Bédel Bokassa and the memory of pandemics",
+          "url": "/wiki/sources/12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/personalistimperialspectacle/"
     },
     "PersonalityTestIdentityBoundary": {
       "episode_count": 1,
@@ -196522,9 +196586,9 @@
       "url": "/wiki/concepts/valentinesdayhistoricalformation/"
     },
     "ValeryGiscardDEstaing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1396593896 [GLT1396593896].md",
@@ -196532,9 +196596,16 @@
           "show": "The Rest Is History",
           "title": "178. French Presidents: 1958-1981 (Part 1)",
           "url": "/wiki/sources/178-french-presidents-1958-1981-part-1-glt1396593896/"
+        },
+        {
+          "episode_file": "GLT8335317305 [GLT8335317305].md",
+          "key": "12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305",
+          "show": "The Rest Is History",
+          "title": "12 Days: Jean-Bédel Bokassa and the memory of pandemics",
+          "url": "/wiki/sources/12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt8335317305/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/valerygiscarddestaing/"
     },
     "ValkyrieBattleFate": {
