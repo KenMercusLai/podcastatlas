@@ -8,7 +8,8 @@ sources:
   - lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg
   - improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463
   - lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw
-last_updated: 2026-09-26
+  - scim5444804832-scim5444804832
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,11 +31,13 @@ Adult assessment adds a more explicit checklist without turning the checklist in
 
 VOL.108 extends the same boundary to children and to the “ADHD means smart” stereotype. Ordinary activity, mischief, a quick answer, or one strong performance is not enough; clinicians need age-relative attention and activity, learning, emotion, peer interaction, home and school function, and developmental history. Recent-onset adult inattention also needs alternatives such as anxiety, mood difficulty, fatigue, or sleep considered before an ADHD label.
 
+The 2021 solo episode provides earlier explicit caution against diagnosing oneself or other people and emphasizes that attention and impulse control fluctuate with sleep, stress, and life events. It also states that ADHD is not a measure of intelligence. These points strengthen the boundary but do not turn the episode's prevalence, genetics, or neurotransmitter account into diagnostic criteria.
+
 ## Key Claims
 - ADHD is presented as a psychiatric neurodevelopmental disorder, not merely a synonym for adult distraction.
 - Childhood onset or long developmental history matters in the source's explanation.
 - Impulsivity, hyperactivity, emotional-control difficulty, conflict, and unusual behavior can be part of ADHD, but they are not specific enough for casual self-labeling.
-- Adult attention decline can arise from sleep, stress, context, task load, and bodily state.
+- Adult attention decline can arise from sleep, stress, context, task load, bodily state, or life events, so one period of poor focus does not establish a developmental disorder.
 - The safer boundary is to seek qualified evaluation when symptoms persist, worsen, or impair life rather than treating internet vocabulary as diagnosis.
 - First-person diagnosed ADHD accounts can describe creative form and work impairment, but adult persistence still requires symptom severity, developmental history, and impairment across settings rather than becoming treatment advice for listeners.
 - Neither childhood activity nor isolated “high-light” performance establishes ADHD, intelligence, or absence of impairment.
@@ -49,13 +52,14 @@ VOL.108 extends the same boundary to children and to the “ADHD means smart” 
 - First-person diagnosis and work examples - [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] has Luo Yonghao and Lin Jianxin describe diagnosis, medication, attention branching, one-liner structure, multi-screen work, deadline risk, and the difference between ordinary delay and impaired delivery.
 - Adult assessment - [[improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463]] describes nine inattentive and nine hyperactive-impulsive symptom items, an adult threshold of at least five, and the need for excessive, impairing symptoms across life domains.
 - Pediatric and adult boundary - [[lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw]] separates ordinary child activity and isolated high performance from age-incongruent, functionally impairing patterns, while requiring childhood history and alternative explanations for adult assessment.
+- Early explicit caution - [[scim5444804832-scim5444804832]] warns against self- or lay diagnosis, separates ADHD from intelligence, and notes that attention varies with sleep, stress, and life circumstances.
 
 ## Counterevidence & Qualifications
-The sources are public podcast explanations, not diagnostic guidelines. This page should not be used to rule ADHD in or out for a specific person; its role is to keep self-description, internet vocabulary, stereotype, and professional assessment separate. Exact symptom thresholds, intelligence-score claims, and the episodes' heritability, prevalence, life-expectancy, and risk estimates remain source-scoped rather than self-screening rules.
+The sources are public podcast explanations, not diagnostic guidelines. This page should not be used to rule ADHD in or out for a specific person; its role is to keep self-description, internet vocabulary, stereotype, and professional assessment separate. Exact symptom thresholds, intelligence-score claims, low-dopamine explanations, and the episodes' heritability, prevalence, life-expectancy, and risk estimates remain source-scoped rather than self-screening rules.
 
 ## What Changed
-- Added the pediatric boundary separating ordinary activity and high-performance moments from age-relative, cross-setting impairment.
-- Added alternative explanations for recent adult attention decline while preserving childhood-history requirements.
+- Added earlier explicit caution against diagnosing oneself or others from fluctuating attention.
+- Strengthened the separation of ADHD from intelligence and neurotransmitter self-testing.
 
 ## Related Concepts
 - [[PrefrontalCortexOverattribution]] - adjacent boundary against turning attention problems into one-region brain diagnosis.

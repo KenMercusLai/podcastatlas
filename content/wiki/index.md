@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [ADHD & How Anyone Can Improve Their Focus](sources/scim5444804832-scim5444804832.md) — Early Huberman Lab solo episode on ADHD attention control, working memory, stimulant and adjunct boundaries, attentional blinks, movement, visual practice, and phone-driven context switching.
 - [97. Top Ten Mistresses](sources/97-top-ten-mistresses-glt8855582591.md) — The Rest Is History countdown on royal favourites, performers, interpreters, celebrity, dynastic strategy, and influence through intimate access outside formal office.
 - [98. Thermopylae & Salamis Episode 1](sources/98-thermopylae-salamis-episode-1-glt3813381992.md) — The Rest Is History on Persian imperial scale, Greek source asymmetry, the road from Ionian revolt to Xerxes' invasion, Athenian fleet-building, prophecy, and the linked Thermopylae-Artemisium defense.
 - [99. Thermopylae & Salamis Episode 2](sources/99-thermopylae-salamis-episode-2-glt9857497334.md) — The Rest Is History on Thermopylae's defeat and heroic afterlife, Athens' evacuation and burning, Salamis, Themistoclean strategy, Persian complexity, and civilizational counterfactuals.
@@ -15658,6 +15659,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
 
 ## Concepts
+- [Attentional Blink Training](concepts/AttentionalBlinkTraining.md) — Task-specific use of narrow, broad, and inward attention practice to reduce rapid successive-target misses, with durability and ADHD-transfer limits.
 - [Intimate Access as Informal Power](concepts/IntimateAccessInformalPower.md) — Influence through personal proximity, trust, communication, sexuality, celebrity, or interpretation rather than formal office.
 - [Care Relationship Labor And Boundaries / 照护关系的劳动与边界](concepts/CareRelationshipLaborAndBoundaries.md) — Care as practical work, emotional labor, dignity, equality, dependency, and sustainable limits for both sides.
 - [Bond Masculinity Adaptation](concepts/BondMasculinityAdaptation.md) — Preservation of Bond's recognizable masculine fantasy through changing humor, consequence, vulnerability, and moral judgment.

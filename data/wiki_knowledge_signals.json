@@ -234,9 +234,9 @@
       "url": "/wiki/entities/achristmascarol/"
     },
     "ADHDAttentionControlModel": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM4112569463 [SCIM4112569463].md",
@@ -265,15 +265,22 @@
           "show": "Huberman Lab",
           "title": "Adderall, Stimulants & Modafinil for ADHD: Short- & Long-Term Effects",
           "url": "/wiki/sources/adderall-stimulants-modafinil-for-adhd-short-long-term-effects-scim8090698200/"
+        },
+        {
+          "episode_file": "SCIM5444804832 [SCIM5444804832].md",
+          "key": "scim5444804832-scim5444804832",
+          "show": "Huberman Lab",
+          "title": "ADHD & How Anyone Can Improve Their Focus",
+          "url": "/wiki/sources/scim5444804832-scim5444804832/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/adhdattentioncontrolmodel/"
     },
     "ADHDExternalStructureAndTiming": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4112569463 [SCIM4112569463].md",
@@ -288,9 +295,16 @@
           "show": "这病说来话长",
           "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
           "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
+        },
+        {
+          "episode_file": "SCIM5444804832 [SCIM5444804832].md",
+          "key": "scim5444804832-scim5444804832",
+          "show": "Huberman Lab",
+          "title": "ADHD & How Anyone Can Improve Their Focus",
+          "url": "/wiki/sources/scim5444804832-scim5444804832/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/adhdexternalstructureandtiming/"
     },
     "ADHDHyperfocusAIWorkflow": {
@@ -310,9 +324,9 @@
       "url": "/wiki/concepts/adhdhyperfocusaiworkflow/"
     },
     "ADHDSelfDiagnosisBoundary": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
@@ -348,15 +362,22 @@
           "show": "这病说来话长",
           "title": "VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题",
           "url": "/wiki/sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw/"
+        },
+        {
+          "episode_file": "SCIM5444804832 [SCIM5444804832].md",
+          "key": "scim5444804832-scim5444804832",
+          "show": "Huberman Lab",
+          "title": "ADHD & How Anyone Can Improve Their Focus",
+          "url": "/wiki/sources/scim5444804832-scim5444804832/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
     },
     "ADHDTreatmentSelectionBoundary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM4112569463 [SCIM4112569463].md",
@@ -385,9 +406,16 @@
           "show": "Huberman Lab",
           "title": "Adderall, Stimulants & Modafinil for ADHD: Short- & Long-Term Effects",
           "url": "/wiki/sources/adderall-stimulants-modafinil-for-adhd-short-long-term-effects-scim8090698200/"
+        },
+        {
+          "episode_file": "SCIM5444804832 [SCIM5444804832].md",
+          "key": "scim5444804832-scim5444804832",
+          "show": "Huberman Lab",
+          "title": "ADHD & How Anyone Can Improve Their Focus",
+          "url": "/wiki/sources/scim5444804832-scim5444804832/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/adhdtreatmentselectionboundary/"
     },
     "AFCChampionsLeague": {
@@ -16579,6 +16607,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/attentionpresenceandhappiness/"
+    },
+    "AttentionalBlinkTraining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5444804832 [SCIM5444804832].md",
+          "key": "scim5444804832-scim5444804832",
+          "show": "Huberman Lab",
+          "title": "ADHD & How Anyone Can Improve Their Focus",
+          "url": "/wiki/sources/scim5444804832-scim5444804832/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/attentionalblinktraining/"
     },
     "AttilaTheHun": {
       "episode_count": 1,

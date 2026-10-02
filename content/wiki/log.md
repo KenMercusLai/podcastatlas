@@ -27957,3 +27957,11 @@ Added source `97-top-ten-mistresses-glt8855582591`; created `NightingaleTuti`, `
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | ADHD & How Anyone Can Improve Their Focus
+
+Added source `scim5444804832-scim5444804832`; created `AttentionalBlinkTraining`; and resynthesized `ADHDAttentionControlModel`, `ADHDExternalStructureAndTiming`, `ADHDSelfDiagnosisBoundary`, and `ADHDTreatmentSelectionBoundary` from their complete preserved evidence inventories. Core synthesis: ADHD concerns unreliable control of attention, impulse, working memory, time estimation, and task engagement rather than intelligence or a total absence of focus; medication and behavioral structure can be combined under individualized clinical oversight; and narrow, broad, inward, movement, visual, and phone-friction practices remain task-specific tools rather than universal treatments. No settled contradiction was adopted. The low-dopamine model, elimination diet, supplement doses, one-session attentional-blink result, cannabis claims, TMS, and smartphone threshold remain uncertain, experimental, disputed, or source-scoped. Recurring host and show pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,494-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
