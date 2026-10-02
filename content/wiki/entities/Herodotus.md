@@ -6,7 +6,8 @@ sources:
   - 669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260
   - 334-athens-and-the-birth-of-democracy-glt2496707123
   - 330-herodotus-the-birth-of-history-glt7158094581
-last_updated: 2026-09-28
+  - 99-thermopylae-salamis-episode-2-glt9857497334
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Herodotus is the Greek historian whose *Histories* joins inquiry into recent events with storytelling, travel, ethnography, cross-cultural comparison, and reflection on empire. His surviving narrative underpins both the liberation-and-performance frame for early Athenian democracy and the recoverable account of Marathon while creating source-asymmetry and interpretation problems.
+Herodotus is the Greek historian whose *Histories* joins inquiry into recent events with storytelling, travel, ethnography, cross-cultural comparison, and reflection on empire. His surviving narrative underpins the liberation-and-performance frame for early Athenian democracy and the recoverable accounts of Marathon, Thermopylae, and Salamis while creating source-asymmetry and interpretation problems.
 
 ## Current Profile
 
@@ -28,11 +29,13 @@ The dedicated episode broadens that profile. Born in Persian-ruled Halicarnassus
 
 That breadth also supports a cross-cultural profile. Herodotus remains partisan toward Greek survival, but he treats Persian virtues and Xerxes's humanity seriously and uses conflicting funerary customs to estrange Greek assumptions. His fallibility is part of the evidence problem: translation, distance, hearsay, performance, and narrative craft can generate error without reducing the work to lies.
 
+The Thermopylae-Salamis episode extends that source problem into the 480 BC campaign. It relies on the Greek narrative tradition for the hidden path, Leonidas' last stand, competing advice to Xerxes, and Themistocles' Sicinnus stratagem, yet notes that Herodotus does not emphasize [[Themistocles]] as strongly as later accounts. The episode therefore uses him both as the indispensable campaign narrator and as evidence of how reputation, enemies, and later retelling shape historical prominence.
+
 ## Key Characteristics
 
 - Herodotus applies inquiry, attributed testimony, comparison, and explicit uncertainty to recent human events.
 - His digressive narrative integrates war and politics with geography, custom, marvel, comedy, tragedy, and human motive.
-- He is the main recoverable narrative source for Marathon and the democracy episode's liberation claim.
+- He is the main recoverable narrative source for Marathon, Thermopylae, Salamis, and the democracy episode's liberation claim.
 - Dependence on his work creates asymmetry because Persian voices are not comparably preserved.
 - His cross-cultural comparisons question Greek universality and grant Persian opponents virtues and tragic humanity.
 - Translation, hearsay, performance, and interpretation make him indispensable but not transparently reliable.
@@ -47,20 +50,23 @@ That breadth also supports a cross-cultural profile. Herodotus remains partisan 
 - Inquiry and source handling: [[330-herodotus-the-birth-of-history-glt7158094581]] links *historia* to research and highlights attributed reports, explicit doubt, near-contemporary testimony, and preserved details that outlive Herodotus's own explanation.
 - Cross-cultural range: [[330-herodotus-the-birth-of-history-glt7158094581]] uses funerary comparison, Persian ideals, Xerxes's mortality, and distant ethnographic reports to show both perspective-taking and mediation risk.
 - Imperial warning: [[330-herodotus-the-birth-of-history-glt7158094581]] reads the Persian rise-and-fall arc and Athens's later imitation as a recurring danger of power.
+- Campaign narrative and reputation: [[99-thermopylae-salamis-episode-2-glt9857497334]] depends on the Greek tradition for Thermopylae and Salamis while noting Herodotus' comparatively limited emphasis on Themistocles.
 
 ## Qualifications
 
-The sources do not provide a complete biography, textual history, or independent audit of every claim in *The Histories*. Herodotus's travels, performance context, intended audience, and marvelous reports remain source-scoped, while the dedicated episode's admiration requires the same source criticism it praises.
+The sources do not provide a complete biography, textual history, or independent audit of every claim in *The Histories*. Herodotus's travels, performance context, intended audience, marvelous reports, campaign speeches, intelligence episodes, and allocation of individual credit remain source-scoped, while the dedicated episode's admiration requires the same source criticism it praises.
 
 ## What Changed
 
-- Expanded the profile from a necessary Marathon and democracy source into a historian of inquiry, comparison, narrative, and empire.
-- Added the distinction between recording testimony and endorsing it, plus the role of translation and oral transmission.
-- Added his qualified Persian sympathy and cross-cultural critique of Greek assumptions.
+- Extended his evidentiary role from Marathon into the Thermopylae-Salamis campaign.
+- Added the gap between Herodotus' treatment of Themistocles and later reputation as a case of narrative selection.
 
 ## Relationships
 
 - [[BattleOfMarathon]] - event whose detailed reconstruction depends heavily on Herodotus.
+- [[BattleOfThermopylae]] - defeat whose path, last stand, and sacrifice story come through Greek tradition.
+- [[BattleOfSalamis]] - naval victory whose strategy and deception narrative require source criticism.
+- [[Themistocles]] - strategist whose relative prominence changes across surviving traditions.
 - [[AchaemenidEmpire]] - empire whose own comparable narrative voice is absent from the source's evidence base.
 - [[GrecoPersianWarMemory]] - later memory field shaped by Greek narrative survival.
 - [[MythAsHistoricalEvidence]] - guardrail for religious and legendary elements inside historical reconstruction.

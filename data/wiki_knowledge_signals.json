@@ -5222,9 +5222,9 @@
       "url": "/wiki/concepts/acetylcholinefocussupport/"
     },
     "AchaemenidEmpire": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -5260,6 +5260,13 @@
           "show": "The Rest Is History",
           "title": "116. Alexander the Great Part 1",
           "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
+        },
+        {
+          "episode_file": "GLT9857497334 [GLT9857497334].md",
+          "key": "99-thermopylae-salamis-episode-2-glt9857497334",
+          "show": "The Rest Is History",
+          "title": "99. Thermopylae & Salamis Episode 2",
+          "url": "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
         }
       ],
       "updated": "2026-10-02",
@@ -16038,9 +16045,9 @@
       "url": "/wiki/concepts/athenianautochthony/"
     },
     "AthenianDemocracy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -16062,15 +16069,22 @@
           "show": "The Rest Is History",
           "title": "334: Athens and the Birth of Democracy",
           "url": "/wiki/sources/334-athens-and-the-birth-of-democracy-glt2496707123/"
+        },
+        {
+          "episode_file": "GLT9857497334 [GLT9857497334].md",
+          "key": "99-thermopylae-salamis-episode-2-glt9857497334",
+          "show": "The Rest Is History",
+          "title": "99. Thermopylae & Salamis Episode 2",
+          "url": "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/atheniandemocracy/"
     },
     "Athens": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT3125075511 [GLT3125075511].md",
@@ -16106,6 +16120,13 @@
           "show": "The Rest Is History",
           "title": "224. Roman Holidays",
           "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
+        },
+        {
+          "episode_file": "GLT9857497334 [GLT9857497334].md",
+          "key": "99-thermopylae-salamis-episode-2-glt9857497334",
+          "show": "The Rest Is History",
+          "title": "99. Thermopylae & Salamis Episode 2",
+          "url": "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
         }
       ],
       "updated": "2026-10-01",
@@ -20200,6 +20221,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/battleofrosebud/"
     },
+    "BattleOfSalamis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9857497334 [GLT9857497334].md",
+          "key": "99-thermopylae-salamis-episode-2-glt9857497334",
+          "show": "The Rest Is History",
+          "title": "99. Thermopylae & Salamis Episode 2",
+          "url": "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/battleofsalamis/"
+    },
     "BattleOfSaratoga": {
       "episode_count": 1,
       "show_count": 1,
@@ -20341,6 +20378,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/battleofthenile/"
+    },
+    "BattleOfThermopylae": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9857497334 [GLT9857497334].md",
+          "key": "99-thermopylae-salamis-episode-2-glt9857497334",
+          "show": "The Rest Is History",
+          "title": "99. Thermopylae & Salamis Episode 2",
+          "url": "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/battleofthermopylae/"
     },
     "BattleOfTrafalgar": {
       "episode_count": 3,
@@ -82869,9 +82922,9 @@
       "url": "/wiki/concepts/greaterbayareacinema/"
     },
     "GrecoPersianWarMemory": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -82893,9 +82946,16 @@
           "show": "The Rest Is History",
           "title": "330: Herodotus: The Birth of History",
           "url": "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"
+        },
+        {
+          "episode_file": "GLT9857497334 [GLT9857497334].md",
+          "key": "99-thermopylae-salamis-episode-2-glt9857497334",
+          "show": "The Rest Is History",
+          "title": "99. Thermopylae & Salamis Episode 2",
+          "url": "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/grecopersianwarmemory/"
     },
     "GreekMythology": {
@@ -90425,9 +90485,9 @@
       "url": "/wiki/entities/herodthegreat/"
     },
     "Herodotus": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -90449,9 +90509,16 @@
           "show": "The Rest Is History",
           "title": "330: Herodotus: The Birth of History",
           "url": "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"
+        },
+        {
+          "episode_file": "GLT9857497334 [GLT9857497334].md",
+          "key": "99-thermopylae-salamis-episode-2-glt9857497334",
+          "show": "The Rest Is History",
+          "title": "99. Thermopylae & Salamis Episode 2",
+          "url": "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/herodotus/"
     },
     "HeroicLastStandMyth": {
@@ -115499,6 +115566,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/leonidkravchuk/"
+    },
+    "Leonidas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9857497334 [GLT9857497334].md",
+          "key": "99-thermopylae-salamis-episode-2-glt9857497334",
+          "show": "The Rest Is History",
+          "title": "99. Thermopylae & Salamis Episode 2",
+          "url": "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/leonidas/"
     },
     "LeopoldBerchtold": {
       "episode_count": 2,
@@ -194535,6 +194618,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/themeledbeveragedesign/"
     },
+    "Themistocles": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9857497334 [GLT9857497334].md",
+          "key": "99-thermopylae-salamis-episode-2-glt9857497334",
+          "show": "The Rest Is History",
+          "title": "99. Thermopylae & Salamis Episode 2",
+          "url": "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/themistocles/"
+    },
     "TheobaldVonBethmannHollweg": {
       "episode_count": 1,
       "show_count": 1,
@@ -212278,6 +212377,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/wyattrebellion/"
+    },
+    "XerxesI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9857497334 [GLT9857497334].md",
+          "key": "99-thermopylae-salamis-episode-2-glt9857497334",
+          "show": "The Rest Is History",
+          "title": "99. Thermopylae & Salamis Episode 2",
+          "url": "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/xerxesi/"
     },
     "XiFuGongWesternHan": {
       "episode_count": 3,

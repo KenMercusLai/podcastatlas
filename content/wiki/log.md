@@ -27925,3 +27925,11 @@ Added source `100-decolonising-africa-glt2427735251`; created `FrantzFanon`, `Pa
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 99. Thermopylae & Salamis Episode 2
+
+Added source `99-thermopylae-salamis-episode-2-glt9857497334`; created `BattleOfThermopylae`, `BattleOfSalamis`, `Leonidas`, `Themistocles`, and `XerxesI`; and resynthesized `AchaemenidEmpire`, `Herodotus`, `Athens`, `AthenianDemocracy`, and `GrecoPersianWarMemory` from their complete preserved evidence inventories. Core synthesis: Thermopylae was a military defeat converted into a powerful sacrifice narrative, while Salamis broke the naval half of Xerxes' combined invasion through coalition cohesion, confined water, training, and a source-scoped intelligence stratagem. No settled contradiction was adopted. Force sizes, motives, the final stand, Themistocles' role in memory-making, the Sicinnus deception, allocation of credit, and all long-range civilizational counterfactuals remain uncertain or source-scoped; the un-ingested companion Episode 1 remains an explicit context gap. Recurring show pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,490-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

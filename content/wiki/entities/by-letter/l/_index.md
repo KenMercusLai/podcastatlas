@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12048
+wiki_total_pages: 12051
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "LeonidKravchuk"
     title: "Leonid Kravchuk"
     url: "/wiki/entities/leonidkravchuk/"
+  - key: "Leonidas"
+    title: "Leonidas"
+    url: "/wiki/entities/leonidas/"
   - key: "LeopoldAschenbrenner"
     title: "Leopold Aschenbrenner"
     url: "/wiki/entities/leopoldaschenbrenner/"

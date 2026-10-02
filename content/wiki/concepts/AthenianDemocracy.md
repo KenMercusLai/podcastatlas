@@ -6,7 +6,8 @@ sources:
   - 669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260
   - 668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182
   - 334-athens-and-the-birth-of-democracy-glt2496707123
-last_updated: 2026-09-28
+  - 99-thermopylae-salamis-episode-2-glt9857497334
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ Constitutional design does not by itself create the order. When Cleomenes and Is
 
 That sacred boundary is inclusive and exclusive in unfamiliar ways. Women do not vote but are necessary to citizen descent and ritual continuity; metics and enslaved people are outside democratic power. The later Marathon sources show the young order acting strategically, compromising with Persia, joining the [[IonianRevolt]], and facing possible destruction or restored tyranny. Its survival matters, but later Athenian empire and the discontinuity with modern liberal democracy prevent a clean progress story.
 
+The 480 BC episode tests whether that land-rooted demos can survive without control of Attica. Athens evacuates, the Persians burn the city and Acropolis, and political continuity moves temporarily into people and fleet. Victory at [[BattleOfSalamis|Salamis]] makes the maritime demos strategically decisive, but the claim that this single battle caused later philosophy, drama, Christianity, Islam, or "the West" remains counterfactual.
+
 ## Key Claims
 
 - Democracy emerges from Solonian compromise, tyranny, aristocratic rivalry, foreign intervention, constitutional invention, and popular resistance rather than one founding act.
@@ -32,6 +35,7 @@ That sacred boundary is inclusive and exclusive in unfamiliar ways. Women do not
 - The demos is a bounded sacred community, not a modern universal electorate; women's descent and ritual roles coexist with political exclusion, while metics and enslaved people remain outside it.
 - The order is militarily and politically fragile before Marathon, threatened by invasion, betrayal, and possible restored tyranny.
 - Athens's Persian submission, Ionian intervention, and later empire complicate the freedom-versus-despotism memory.
+- Evacuation and naval war show that the demos can persist beyond temporary possession of its territory, while leaving its later cultural trajectory contingent.
 
 ## Evidence
 
@@ -44,16 +48,17 @@ That sacred boundary is inclusive and exclusive in unfamiliar ways. Women do not
 - Tyranny risk: [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] presents Hippias and possible betrayal as a political danger from within.
 - Citizen cohesion: [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] connects phalanx cohesion with the Athenians' sense of themselves as free citizens fighting together.
 - Later qualification: [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] says Athens later became an imperial power and that tribute helped fund the Parthenon.
+- Evacuation and fleet: [[99-thermopylae-salamis-episode-2-glt9857497334]] presents the loss of Attica and Athens alongside collective survival through the Salamis fleet.
+- Counterfactual boundary: [[99-thermopylae-salamis-episode-2-glt9857497334]] distinguishes likely disruption of Periclean Athens from proof that Persian victory would extinguish Greek intellectual life.
 
 ## Counterevidence & Qualifications
 
-The origin reconstruction relies on scarce early evidence and myths that illuminate self-understanding without proving literal events. It does not settle Cleisthenes' motives, whether democracy generated autochthony or adapted older belief, or what excluded Athenians privately wanted. The Marathon counterfactual likewise cannot prove democracy would have vanished after Persian victory. Athens's strategic fear, compromised diplomacy, exclusions, slavery, and later imperial ambition prevent both idealization and dismissal by modern standards.
+The origin reconstruction relies on scarce early evidence and myths that illuminate self-understanding without proving literal events. It does not settle Cleisthenes' motives, whether democracy generated autochthony or adapted older belief, or what excluded Athenians privately wanted. Neither Marathon nor Salamis can prove what democracy or Greek culture would have become after Persian victory. Athens's strategic fear, compromised diplomacy, exclusions, slavery, and later imperial ambition prevent both idealization and dismissal by modern standards.
 
 ## What Changed
 
-- Recast the origin as a sequence of legal compromise, tyranny, faction, popular action, and institutional engineering rather than a 507 BC date alone.
-- Added demes, tribes, autochthony, heroic legitimation, and the sacred rather than rights-based definition of the demos.
-- Made gendered membership and the exclusion of metics and enslaved people explicit while retaining the later Marathon contingency and imperial qualification.
+- Added evacuation and Salamis as a test of whether a land-rooted demos could persist through people and fleet after losing the city.
+- Narrowed the civilizational counterfactual: Periclean development is contingent, but wider intellectual and religious consequences are not demonstrable.
 
 ## Related Concepts
 
@@ -64,6 +69,8 @@ The origin reconstruction relies on scarce early evidence and myths that illumin
 - [[Peisistratus]] - tyrant whose dynasty forms democracy's immediate political background.
 - [[IonianRevolt]] - revolt that the young democracy joins.
 - [[BattleOfMarathon]] - battle presented as a democratic-survival threshold.
+- [[BattleOfSalamis]] - battle in which the evacuated democracy's fleet becomes strategically decisive.
+- [[Themistocles]] - politician who makes naval power central to civic survival.
 - [[HippiasAthenianTyrant]] - possible restored-tyranny figure.
 - [[AchaemenidEmpire]] - imperial threat in the sources' frame.
 - [[GrecoPersianWarMemory]] - later freedom story that amplifies and simplifies Marathon.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [99. Thermopylae & Salamis Episode 2](sources/99-thermopylae-salamis-episode-2-glt9857497334.md) — The Rest Is History on Thermopylae's defeat and heroic afterlife, Athens' evacuation and burning, Salamis, Themistoclean strategy, Persian complexity, and civilizational counterfactuals.
 - [100. Decolonising Africa](sources/100-decolonising-africa-glt2427735251.md) — The Rest Is History on Fanon, Nkrumah, Pan-Africanism, divergent independence pathways, the Congo Crisis, inherited borders, and Cold War intervention.
 - [EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable](sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw.md) — 无时差研究所 episode on film form, dementia, family disclosure, migration, disability dignity, care labor, and ordinary farewell.
 - [101. James Bond](sources/101-james-bond-glt6304120514.md) — The Rest Is History on Ian Fleming, Bond's literary and screen forms, adaptive masculinity, consumer fantasy, and post-imperial British cultural branding.
@@ -15641,6 +15642,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patrice Lumumba](entities/PatriceLumumba.md) — First Congolese prime minister whose fall and murder became emblematic of decolonization's Cold War entanglement.
 - [Mobutu Sese Seko](entities/MobutuSeseSeko.md) — Congolese and Zairian ruler who joined Western backing, authoritarian consolidation, and authenticity politics.
 
+- [Leonidas](entities/Leonidas.md) — Spartan king whose command, death at Thermopylae, and heroic afterlife join military defeat to sacrifice memory.
+- [Themistocles](entities/Themistocles.md) — Athenian politician and naval strategist associated with coalition persuasion, intelligence deception, Salamis, and contested memory-making.
+- [Xerxes I](entities/XerxesI.md) — Achaemenid king whose combined invasion wins at Thermopylae and burns Athens before naval defeat at Salamis.
+
 ## Concepts
 - [Care Relationship Labor And Boundaries / 照护关系的劳动与边界](concepts/CareRelationshipLaborAndBoundaries.md) — Care as practical work, emotional labor, dignity, equality, dependency, and sustainable limits for both sides.
 - [Bond Masculinity Adaptation](concepts/BondMasculinityAdaptation.md) — Preservation of Bond's recognizable masculine fantasy through changing humor, consequence, vulnerability, and moral judgment.
@@ -25046,5 +25051,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [African Decolonization](concepts/AfricanDecolonization.md) — Uneven transfer from colonial rule shaped by settler power, mass politics, institutional exclusion, borders, and Cold War intervention.
 - [Pan-Africanism](concepts/PanAfricanism.md) — Diasporic and continental tradition connecting African liberation struggles across imperial and metropolitan networks.
+
+- [Battle of Thermopylae](concepts/BattleOfThermopylae.md) — Linked land-sea delaying battle remembered as noble sacrifice despite Persian outflanking and Greek military defeat.
+- [Battle of Salamis](concepts/BattleOfSalamis.md) — Naval turning point joining coalition management, deception, narrow-water tactics, Athenian training, and bounded counterfactual significance.
 
 ## Syntheses

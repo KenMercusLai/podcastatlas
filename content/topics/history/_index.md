@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2425
+topic_total_pages: 2427
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2432,6 +2432,9 @@ topic_entities:
   - key: "WuhuiZhuizong"
     title: "Wuhui Zhuizong / 无悔追踪"
     url: "/wiki/entities/wuhuizhuizong/"
+  - key: "XerxesI"
+    title: "Xerxes I"
+    url: "/wiki/entities/xerxesi/"
   - key: "XinDynasty"
     title: "Xin dynasty / 新朝"
     url: "/wiki/entities/xindynasty/"
@@ -6348,6 +6351,9 @@ topic_sources:
   - key: "91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018"
     title: "91.猎巫：塞勒姆1692，从癔症开始"
     url: "/wiki/sources/91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018/"
+  - key: "99-thermopylae-salamis-episode-2-glt9857497334"
+    title: "99. Thermopylae & Salamis Episode 2"
+    url: "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
   - key: "empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666"
     title: "Empress Matilda: Civil War and the Fight for the Throne"
     url: "/wiki/sources/empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666/"

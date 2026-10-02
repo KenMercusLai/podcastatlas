@@ -3411,6 +3411,10 @@
     "title": "99.很久很久以前，妖怪也推理啊…",
     "url": "/wiki/sources/99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220/"
   },
+  "99-thermopylae-salamis-episode-2-glt9857497334": {
+    "title": "99. Thermopylae & Salamis Episode 2",
+    "url": "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"
+  },
   "A23A": {
     "title": "A23A",
     "url": "/wiki/entities/a23a/"
@@ -10831,6 +10835,10 @@
     "title": "Battle of the Rosebud",
     "url": "/wiki/entities/battleofrosebud/"
   },
+  "BattleOfSalamis": {
+    "title": "Battle of Salamis",
+    "url": "/wiki/concepts/battleofsalamis/"
+  },
   "BattleOfSaratoga": {
     "title": "Battle of Saratoga",
     "url": "/wiki/entities/battleofsaratoga/"
@@ -10866,6 +10874,10 @@
   "BattleOfTheNile": {
     "title": "Battle of the Nile",
     "url": "/wiki/entities/battleofthenile/"
+  },
+  "BattleOfThermopylae": {
+    "title": "Battle of Thermopylae",
+    "url": "/wiki/concepts/battleofthermopylae/"
   },
   "BattleOfTrafalgar": {
     "title": "Battle of Trafalgar",
@@ -45795,6 +45807,10 @@
     "title": "Leonid Kravchuk",
     "url": "/wiki/entities/leonidkravchuk/"
   },
+  "Leonidas": {
+    "title": "Leonidas",
+    "url": "/wiki/entities/leonidas/"
+  },
   "LeopoldAschenbrenner": {
     "title": "Leopold Aschenbrenner",
     "url": "/wiki/entities/leopoldaschenbrenner/"
@@ -76563,6 +76579,10 @@
     "title": "Theme Park Resort Economics",
     "url": "/wiki/concepts/themeparkresorteconomics/"
   },
+  "Themistocles": {
+    "title": "Themistocles",
+    "url": "/wiki/entities/themistocles/"
+  },
   "TheobaldVonBethmannHollweg": {
     "title": "Theobald von Bethmann Hollweg",
     "url": "/wiki/entities/theobaldvonbethmannhollweg/"
@@ -83702,6 +83722,10 @@
   "Xcode": {
     "title": "Xcode",
     "url": "/wiki/entities/xcode/"
+  },
+  "XerxesI": {
+    "title": "Xerxes I",
+    "url": "/wiki/entities/xerxesi/"
   },
   "XiFuGongWesternHan": {
     "title": "息夫躬 / Xi Fu Gong (Western Han)",

@@ -8,6 +8,7 @@ sources:
   - 330-herodotus-the-birth-of-history-glt7158094581
   - 117-alexander-the-great-part-2-glt9707946822
   - 116-alexander-the-great-part-1-glt3321594885
+  - 99-thermopylae-salamis-episode-2-glt9857497334
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Achaemenid Empire / Persian Empire appears as a military, administrative, fiscal, and ideological order founded through conquest, consolidated under [[DariusI]], tested in the Greek wars, and ultimately defeated but selectively inherited by [[AlexanderTheGreat|Alexander the Great]].
+The Achaemenid Empire / Persian Empire appears as a military, administrative, fiscal, and ideological order founded through conquest, consolidated under [[DariusI]], tested by the campaigns of Darius and [[XerxesI]] in Greece, and ultimately defeated but selectively inherited by [[AlexanderTheGreat|Alexander the Great]].
 
 ## Current Profile
 
@@ -28,6 +29,8 @@ At Marathon itself, the empire's commanders choose terrain that gives beach acce
 
 The Herodotus episode adds a literary and moral profile without treating Persia as a mere despotic foil. Persian education prizes riding, archery, and truth-telling; Xerxes can appear powerful, handsome, and tragically conscious of mortality. At the same time, the episode reads his Greek invasion as hubristic overreach within an [[ImperialRiseDeclineCycle]] and warns that Athens later begins to reproduce imperial behavior.
 
+The Thermopylae-Salamis episode makes Xerxes' invasion operationally concrete as a combined land-sea campaign. Persian scale, intelligence, archery, cavalry, and multinational naval power bring victory at [[BattleOfThermopylae|Thermopylae]] and the capture of [[Athens]], but they also create supply and coordination pressures. At [[BattleOfSalamis|Salamis]], confined water converts naval numbers into crowding and disorder, breaking the fleet while leaving a substantial land army to fight on until Plataea.
+
 The Alexander sequence adds the empire's terminal succession crisis in stages. Granicus opens western Asia Minor; Issus exposes [[DariusIII|Darius III's]] family and prestige; Alexander's capture of Phoenician ports removes the navy's bases; and rejected settlement offers turn a bounded invasion into a whole-empire claim. Darius can still mobilize a large, diverse army at the [[BattleOfGaugamela]], but defeat opens Babylon, Susa, and Persepolis. Alexander's Egyptian coronation, retention of Persian officials, adoption of royal forms, dynastic marriages, and recruitment of Persian troops show that imperial structures and regional kingship outlive the reigning dynasty even as the conqueror uses exemplary violence and burns Persepolis.
 
 ## Key Characteristics
@@ -35,9 +38,9 @@ The Alexander sequence adds the empire's terminal succession crisis in stages. G
 - The empire grows through conquest and incorporation, especially Cyrus's victories over Lydia, Sardis, and Babylon.
 - Darius stabilizes the empire through administration, tribute, symbolic centers, and suppression of rebellion.
 - Persian imperial authority is presented as ideological as well as military, tied to truth/order against the lie.
-- The empire manages Ionian Greeks through client tyrants, satrapal authority, naval force, and exemplary punishment.
+- The empire manages Ionian Greeks through client tyrants, satrapal authority, naval force, intelligence, and exemplary punishment.
 - Persian strategy at Marathon depends on terrain, cavalry, naval mobility, intimidation, and possible internal betrayal in Athens.
-- Persian defeat at Marathon is militarily real but not empire-defining, while the sequence from Granicus and Issus to Gaugamela dismantles naval, royal, and territorial control.
+- Persian defeat at Marathon is not empire-defining; Xerxes' later combined invasion wins at Thermopylae and takes Athens before Salamis and Plataea end the campaign, while the sequence from Granicus and Issus to Gaugamela later dismantles naval, royal, and territorial control.
 - Institutions, regional kingship, and elite networks remain valuable enough for Alexander to inherit and adapt after military defeat, but Greek and Roman source dominance makes the empire's inner view harder to reconstruct than conqueror memory.
 
 ## Evidence
@@ -50,17 +53,18 @@ The Alexander sequence adds the empire's terminal succession crisis in stages. G
 - Imperial perspective: [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] notes that Marathon may have seemed peripheral to Persia and that no Persian account comparable to Herodotus survives.
 - Persian virtues and royal humanity: [[330-herodotus-the-birth-of-history-glt7158094581]] highlights truth-telling, riding, archery, Xerxes's stature, and his reflection on mortality.
 - Overreach and decline: [[330-herodotus-the-birth-of-history-glt7158094581]] interprets Xerxes's invasion and Cyrus's warning through an imperial rise-and-decline pattern that later implicates Athens.
+- Combined invasion and reversal: [[99-thermopylae-salamis-episode-2-glt9857497334]] links Persian logistics and intelligence to Thermopylae, Athens, Salamis, and the remaining army defeated at Plataea.
 - Final defeat and institutional survival: [[117-alexander-the-great-part-2-glt9707946822]] connects Gaugamela and Darius's death to Alexander's retention of Persian officials, court forms, marriages, and troops.
 - Escalating terminal war: [[116-alexander-the-great-part-1-glt3321594885]] connects western battles, the Phoenician coast, Egypt, and rejected settlements to Alexander's expanding claim on the empire.
 
 ## Qualifications
 
-The profile remains source-scoped to five podcast episodes. It does not synthesize the whole Achaemenid state, court, economy, religion, administration, Greek wars, or collapse. Persian ideals, royal motives, Issus, Gaugamela, settlement offers, and the succession crisis remain mediated chiefly through Greek and Roman traditions and the episodes' reconstruction; Alexander's selective reuse of imperial structures does not prove either seamless continuity or equal integration.
+The profile remains source-scoped to six podcast episodes. It does not synthesize the whole Achaemenid state, court, economy, religion, administration, Greek wars, or collapse. Persian ideals, royal motives, force sizes, Thermopylae and Salamis decision-making, Issus, Gaugamela, settlement offers, and the succession crisis remain mediated chiefly through Greek and Roman traditions and the episodes' reconstruction; Alexander's selective reuse of imperial structures does not prove either seamless continuity or equal integration.
 
 ## What Changed
 
-- Added the pre-Gaugamela erosion of western territory, maritime bases, royal prestige, and settlement options.
-- Clarified that Alexander's succession strategy begins developing before final military defeat.
+- Added Xerxes' combined land-sea invasion, the victory at Thermopylae, capture of Athens, and naval reversal at Salamis.
+- Clarified that Salamis breaks the amphibious strategy without by itself ending Persian military presence in Greece.
 
 ## Relationships
 
@@ -77,6 +81,9 @@ The profile remains source-scoped to five podcast episodes. It does not synthesi
 - [[GrecoPersianWarMemory]] - later memory field that often simplifies Persian-Athenian conflict.
 - [[CrossCulturalHistoricalPerspective]] - method that keeps Persian virtues and internal standards visible.
 - [[ImperialRiseDeclineCycle]] - moral-political pattern through which the episode reads Xerxes's overreach.
+- [[XerxesI]] - king whose Greek campaign exposes both imperial capacity and operational limits.
+- [[BattleOfThermopylae]] - Persian land victory produced by intelligence and outflanking.
+- [[BattleOfSalamis]] - naval defeat that breaks the combined invasion strategy.
 - [[DariusIII]] - final reigning king whose defeat and death create the succession crisis.
 - [[BattleOfGaugamela]] - decisive battle opening the imperial heartland.
 - [[AlexanderImperialSuccessionStrategy]] - selective inheritance of Persian elites, symbols, dynastic ties, and troops.

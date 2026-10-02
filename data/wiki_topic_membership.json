@@ -6003,6 +6003,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "99-thermopylae-salamis-episode-2-glt9857497334": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "A23A": [
     {
       "key": "science",
@@ -79704,6 +79711,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "Themistocles": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "TheobaldVonBethmannHollweg": [
     {
       "key": "politics",
@@ -86829,6 +86843,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "XerxesI": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "XiFuGongWesternHan": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9351
+wiki_total_pages: 9353
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -164,12 +164,18 @@ wiki_pages:
   - key: "BattleOfMarathon"
     title: "Battle of Marathon"
     url: "/wiki/concepts/battleofmarathon/"
+  - key: "BattleOfSalamis"
+    title: "Battle of Salamis"
+    url: "/wiki/concepts/battleofsalamis/"
   - key: "BattleOfStamfordBridge"
     title: "Battle of Stamford Bridge"
     url: "/wiki/concepts/battleofstamfordbridge/"
   - key: "BattleOfStiklestad"
     title: "Battle of Stiklestad"
     url: "/wiki/concepts/battleofstiklestad/"
+  - key: "BattleOfThermopylae"
+    title: "Battle of Thermopylae"
+    url: "/wiki/concepts/battleofthermopylae/"
   - key: "BattleOfWakefield"
     title: "Battle of Wakefield"
     url: "/wiki/concepts/battleofwakefield/"
