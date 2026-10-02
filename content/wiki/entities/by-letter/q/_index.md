@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 12020
+wiki_total_pages: 12021
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "QiuChuji"
     title: "丘处机"
     url: "/wiki/entities/qiuchuji/"
+  - key: "QiaoNini"
+    title: "乔妮妮 / Qiao Nini"
+    url: "/wiki/entities/qiaonini/"
   - key: "QiaoMaoLateHan"
     title: "乔瑁 / Qiao Mao (late Han)"
     url: "/wiki/entities/qiaomaolatehan/"

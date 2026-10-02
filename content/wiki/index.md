@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP193-Bel Canto|对话美声歌唱家，听歌剧到底在听什么？](sources/ep193-bel-canto-duihua-meisheng-gechangjia-ting-geju-daodi-zai-ting-shenme-ckwrijifn4vdabaaaadrcjk0.md) — 无时差研究所 conversation on operatic training, arts-career formation, language, performance, audience access, and cross-cultural creation.
 - [106. Watergate: Part 1](sources/106-watergate-part-1-glt6675580126.md) — The Rest Is History on Nixon's outsider formation, the Pentagon Papers, plumbers, Gemstone, the DNC burglary, and the June 23 obstruction discussion.
 - [Effects of Fasting & Time Restricted Eating on Fat Loss & Health](sources/scim6513533538-scim6513533538.md) — Huberman Lab solo episode on circadian eating windows, energy balance, physiological fasting state, glucose tools, adherence, and hormone or fertility boundaries.
 - [107. Watergate: Part 2](sources/107-watergate-part-2-glt9677344742.md) — The Rest Is History on Nixon's cover-up, the tapes, institutional confrontation, resignation, Ford's pardon, and Watergate's accountability-and-trust legacy.
@@ -3539,6 +3540,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar](sources/scim9724505974-scim9724505974.md) — Huberman Lab interview on melanopsin light sensing, circadian alignment, mood pathways, meal and exercise timing, and internal-time-aware travel adaptation.
 
 ## Entities
+- [乔妮妮 / Qiao Nini](entities/QiaoNini.md) — Soprano and doctoral student connecting vocal craft, language, acting, teaching, career constraints, and cross-cultural creation.
 - [Daniel Ellsberg](entities/DanielEllsberg.md) — Pentagon Papers source whose targeting connected Vietnam disclosure to the illegal methods preceding Watergate.
 - [Pentagon Papers](entities/PentagonPapers.md) — Classified Vietnam history whose disclosure triggered the White House leak-control response central to Watergate's prehistory.
 - [White House Plumbers](entities/WhiteHousePlumbers.md) — Leak-control unit whose illegal methods and operatives bridged the Pentagon Papers response and Watergate.
@@ -15601,6 +15603,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
 
 ## Concepts
+- [Operatic Performance Training / 歌剧表演训练](concepts/OperaticPerformanceTraining.md) — Integrated development of voice, language, text, acting, movement, style, and reliable live performance.
+- [Arts Career Formation / 艺术职业形成](concepts/ArtsCareerFormation.md) — Interaction of aptitude, teaching, family resources, practice, opportunity, and economic endurance in artistic careers.
+- [Experience-First Art Appreciation / 体验先于看懂](concepts/ExperienceFirstArtAppreciation.md) — Principle that sensory and emotional response can precede complete technical or historical understanding.
 - [Imperial Presidency](concepts/ImperialPresidency.md) — Concentrated Cold War executive authority whose secrecy and operational capacity magnified the consequences of Nixon's personal style.
 - [Presidential Command Climate](concepts/PresidentialCommandClimate.md) — Incentive environment separating broad presidential pressure and personnel choices from proof of a specific operational order.
 - [Fed-Fasted State Continuum](concepts/FedFastedStateContinuum.md) — Distinction between time since the last calorie and physiological state across digestion, glucose, insulin, activity, fuel use, and cellular signaling.

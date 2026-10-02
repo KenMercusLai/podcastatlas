@@ -9103,6 +9103,10 @@
     "title": "Artistic Feedback Boundary",
     "url": "/wiki/concepts/artisticfeedbackboundary/"
   },
+  "ArtsCareerFormation": {
+    "title": "Arts Career Formation / 艺术职业形成",
+    "url": "/wiki/concepts/artscareerformation/"
+  },
   "AsItIsPractice": {
     "title": "As It Is Practice / 如其所是",
     "url": "/wiki/concepts/asitispractice/"
@@ -27334,6 +27338,10 @@
   "ExpeditionTeamTrust": {
     "title": "Expedition Team Trust",
     "url": "/wiki/concepts/expeditionteamtrust/"
+  },
+  "ExperienceFirstArtAppreciation": {
+    "title": "Experience-First Art Appreciation / 体验先于看懂",
+    "url": "/wiki/concepts/experiencefirstartappreciation/"
   },
   "ExperienceFormingEducation": {
     "title": "Experience-Forming Education / 生成经验的教育",
@@ -57155,6 +57163,10 @@
     "title": "Open-World Robot Manipulation",
     "url": "/wiki/concepts/openworldrobotmanipulation/"
   },
+  "OperaticPerformanceTraining": {
+    "title": "Operatic Performance Training / 歌剧表演训练",
+    "url": "/wiki/concepts/operaticperformancetraining/"
+  },
   "OperatingRoomPhysiologyManagement": {
     "title": "Operating Room Physiology Management / 手术室生理管理",
     "url": "/wiki/concepts/operatingroomphysiologymanagement/"
@@ -63226,6 +63238,10 @@
   "QiaoMaoLateHan": {
     "title": "乔瑁 / Qiao Mao (late Han)",
     "url": "/wiki/entities/qiaomaolatehan/"
+  },
+  "QiaoNini": {
+    "title": "乔妮妮 / Qiao Nini",
+    "url": "/wiki/entities/qiaonini/"
   },
   "QiaoRui": {
     "title": "桥蕤 / Qiao Rui",
@@ -90142,6 +90158,10 @@
   "ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw": {
     "title": "EP18 都是黄泉预约客，保险买对心安乐",
     "url": "/wiki/sources/ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw/"
+  },
+  "ep193-bel-canto-duihua-meisheng-gechangjia-ting-geju-daodi-zai-ting-shenme-ckwrijifn4vdabaaaadrcjk0": {
+    "title": "EP193-Bel Canto|对话美声歌唱家，听歌剧到底在听什么？",
+    "url": "/wiki/sources/ep193-bel-canto-duihua-meisheng-gechangjia-ting-geju-daodi-zai-ting-shenme-ckwrijifn4vdabaaaadrcjk0/"
   },
   "ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv": {
     "title": "EP194-在剧本杀里沉浸爆哭是一种怎样的体验？",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9326
+wiki_total_pages: 9329
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1115,6 +1115,9 @@ wiki_pages:
   - key: "ExperienceOrchestrator"
     title: "Experience Orchestrator"
     url: "/wiki/concepts/experienceorchestrator/"
+  - key: "ExperienceFirstArtAppreciation"
+    title: "Experience-First Art Appreciation / 体验先于看懂"
+    url: "/wiki/concepts/experiencefirstartappreciation/"
   - key: "ExperienceFormingEducation"
     title: "Experience-Forming Education / 生成经验的教育"
     url: "/wiki/concepts/experienceformingeducation/"

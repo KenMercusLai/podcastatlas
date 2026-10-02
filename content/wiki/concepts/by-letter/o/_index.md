@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9326
+wiki_total_pages: 9329
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "OpenClawMoment"
     title: "OpenClaw Moment"
     url: "/wiki/concepts/openclawmoment/"
+  - key: "OperaticPerformanceTraining"
+    title: "Operatic Performance Training / 歌剧表演训练"
+    url: "/wiki/concepts/operaticperformancetraining/"
   - key: "OperatingRoomPhysiologyManagement"
     title: "Operating Room Physiology Management / 手术室生理管理"
     url: "/wiki/concepts/operatingroomphysiologymanagement/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3019
+topic_total_pages: 3020
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1144,6 +1144,9 @@ topic_concepts:
   - key: "ExpectedBehaviorCulture"
     title: "Expected-Behavior Culture"
     url: "/wiki/concepts/expectedbehaviorculture/"
+  - key: "ExperienceFirstArtAppreciation"
+    title: "Experience-First Art Appreciation / 体验先于看懂"
+    url: "/wiki/concepts/experiencefirstartappreciation/"
   - key: "ExperienceFormingEducation"
     title: "Experience-Forming Education / 生成经验的教育"
     url: "/wiki/concepts/experienceformingeducation/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9326
+wiki_total_pages: 9329
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2372,6 +2372,9 @@ wiki_pages:
   - key: "ArtisticFeedbackBoundary"
     title: "Artistic Feedback Boundary"
     url: "/wiki/concepts/artisticfeedbackboundary/"
+  - key: "ArtsCareerFormation"
+    title: "Arts Career Formation / 艺术职业形成"
+    url: "/wiki/concepts/artscareerformation/"
   - key: "AsItIsPractice"
     title: "As It Is Practice / 如其所是"
     url: "/wiki/concepts/asitispractice/"

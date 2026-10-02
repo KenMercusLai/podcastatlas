@@ -27833,3 +27833,11 @@ Added source `106-watergate-part-1-glt6675580126`; created `DanielEllsberg`, `Pe
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | EP193-Bel Canto|对话美声歌唱家，听歌剧到底在听什么？
+
+Added source `ep193-bel-canto-duihua-meisheng-gechangjia-ting-geju-daodi-zai-ting-shenme-ckwrijifn4vdabaaaadrcjk0`; created `QiaoNini`, `OperaticPerformanceTraining`, `ArtsCareerFormation`, and `ExperienceFirstArtAppreciation`; and resynthesized `WushichaYanjiusuo` from its complete preserved evidence inventory. Core synthesis: operatic craft integrates voice, language, text, acting, movement, and performance reliability; artistic careers emerge from aptitude, teaching fit, resources, work, and opportunity; and audiences can enter classical art through experience before complete understanding. No settled contradiction was adopted. Voice pedagogy, industry opportunity, career economics, bias, vocal care, and audience response remain source-scoped to one singer's experience. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,478-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
