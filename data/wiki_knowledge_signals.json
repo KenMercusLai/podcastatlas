@@ -108870,6 +108870,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/johnkruse/"
     },
+    "JohnLennon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5767145023 [GLT5767145023].md",
+          "key": "91-the-beatles-glt5767145023",
+          "show": "The Rest Is History",
+          "title": "91. The Beatles",
+          "url": "/wiki/sources/91-the-beatles-glt5767145023/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/johnlennon/"
+    },
     "JohnMasonNeale": {
       "episode_count": 1,
       "show_count": 1,
@@ -156743,6 +156759,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/popularcounterrevolution/"
     },
+    "PopularMusicAsCulturalTransmission": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5767145023 [GLT5767145023].md",
+          "key": "91-the-beatles-glt5767145023",
+          "show": "The Rest Is History",
+          "title": "91. The Beatles",
+          "url": "/wiki/sources/91-the-beatles-glt5767145023/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/popularmusicasculturaltransmission/"
+    },
     "PopularNPDDiscourse": {
       "episode_count": 2,
       "show_count": 2,
@@ -157644,9 +157676,9 @@
       "url": "/wiki/concepts/postimperialcommonwealthmonarchy/"
     },
     "PostImperialCulturalBranding": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6304120514 [GLT6304120514].md",
@@ -157654,9 +157686,16 @@
           "show": "The Rest Is History",
           "title": "101. James Bond",
           "url": "/wiki/sources/101-james-bond-glt6304120514/"
+        },
+        {
+          "episode_file": "GLT5767145023 [GLT5767145023].md",
+          "key": "91-the-beatles-glt5767145023",
+          "show": "The Rest Is History",
+          "title": "91. The Beatles",
+          "url": "/wiki/sources/91-the-beatles-glt5767145023/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/postimperialculturalbranding/"
     },
     "PostImperialIdentityGap": {
@@ -158255,9 +158294,9 @@
       "url": "/wiki/concepts/postwarmangamemoryandculturalexport/"
     },
     "PostwarTeenageConsumerMarket": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT1663902020 [GLT1663902020].md",
@@ -158286,9 +158325,16 @@
           "show": "The Rest Is History",
           "title": "210. London: Places (Part 2)",
           "url": "/wiki/sources/210-london-places-part-2-glt8561271853/"
+        },
+        {
+          "episode_file": "GLT5767145023 [GLT5767145023].md",
+          "key": "91-the-beatles-glt5767145023",
+          "show": "The Rest Is History",
+          "title": "91. The Beatles",
+          "url": "/wiki/sources/91-the-beatles-glt5767145023/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/postwarteenageconsumermarket/"
     },
     "PotentialAsGrowthRate": {
@@ -194390,9 +194436,9 @@
       "url": "/wiki/entities/theanxiousgeneration/"
     },
     "TheBeatles": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "8211241331_711602 [8211241331_711602].md",
@@ -194435,9 +194481,16 @@
           "show": "The Rest Is History",
           "title": "101. James Bond",
           "url": "/wiki/sources/101-james-bond-glt6304120514/"
+        },
+        {
+          "episode_file": "GLT5767145023 [GLT5767145023].md",
+          "key": "91-the-beatles-glt5767145023",
+          "show": "The Rest Is History",
+          "title": "91. The Beatles",
+          "url": "/wiki/sources/91-the-beatles-glt5767145023/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/thebeatles/"
     },
     "TheCanterburyTales": {

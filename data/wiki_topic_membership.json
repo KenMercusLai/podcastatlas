@@ -5956,6 +5956,18 @@
       "url": "/topics/history/"
     }
   ],
+  "91-the-beatles-glt5767145023": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "92-nuclear-weapons-glt2236644203": [
     {
       "key": "history",
@@ -63223,6 +63235,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PopularMusicAsCulturalTransmission": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "PopularNPDDiscourse": [

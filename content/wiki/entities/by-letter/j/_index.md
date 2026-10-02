@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12064
+wiki_total_pages: 12065
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -938,6 +938,9 @@ wiki_pages:
   - key: "JohnLasseter"
     title: "John Lasseter"
     url: "/wiki/entities/johnlasseter/"
+  - key: "JohnLennon"
+    title: "John Lennon"
+    url: "/wiki/entities/johnlennon/"
   - key: "JohnLocke"
     title: "John Locke / 约翰·洛克"
     url: "/wiki/entities/johnlocke/"

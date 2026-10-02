@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [91. The Beatles](sources/91-the-beatles-glt5767145023.md) — The Rest Is History on the Beatles as historical actors shaped by postwar austerity, youth markets, religion, empire, celebrity, and mass cultural transmission.
 - [92. Nuclear Weapons](sources/92-nuclear-weapons-glt2236644203.md) — The Rest Is History with Taylor Downing on Able Archer 83, Soviet first-strike fear, deterrence, nuclear accidents, false alarms, and Reagan's later diplomatic turn.
 - [EP188-教师节对话做题家养成师：当代做题界现状答疑](sources/ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3.md) — 无时差研究所 conversation on teacher evaluation, student-welfare boundaries, administrative overload, staffing mismatch, resource equalization, and education's broader value.
 - [93. Silicon Valley Part 1](sources/93-silicon-valley-part-1-glt5734449332.md) — The Rest Is History with Marc Andreessen on Silicon Valley’s institutional formation, mass internet adoption, browsers, and social media’s long prehistory.
@@ -5906,7 +5907,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Viktor Mayer-Schonberger / 维克托·迈尔-舍恩伯格](entities/ViktorMayerSchonberger.md) — Digital-memory theorist used by Episode 227 to explain why forgetting matters when records persist.
 - [Delete / 《删除》](entities/DeleteBook.md) — Book used by Episode 227 to describe digital systems making memory default and forgetting costly.
 - [罗大佑 / Luo Dayou](entities/LuoDayou.md) — Songwriter represented through 《所以》 as a mature response to "Because" and a meditation on AI-era consequence.
-- [The Beatles / 披头士](entities/TheBeatles.md) — Band represented through "Because" as the earlier song in Episode 228's because/so poetic-causality comparison.
+- [The Beatles / 披头士](entities/TheBeatles.md) — British band treated as a transatlantic breakthrough, youth-market catalyst, cultural transmitter, style influence, and post-imperial national symbol.
+- [John Lennon](entities/JohnLennon.md) — Beatles member whose celebrity, religious controversy, peace campaigning, and moral contradictions made him a contested countercultural figure.
 - ["Because" / Beatles Song](entities/BecauseSong.md) — Beatles song read as using a logical connective poetically to connect world, wind, sky, love, and feeling.
 - [《所以》 / Suoyi](entities/SuoyiSong.md) — Luo Dayou song read as a dense modern "so" sequence through AI, GPT, satellites, data, climate, capital, and home.
 - [The Carrier Bag Theory of Fiction / 《小说的载物袋理论》](entities/TheCarrierBagTheoryOfFiction.md) — Ursula K. Le Guin essay used by Episode 225 to challenge spear-like hero/conflict storytelling with containers, gathering, care, and relation.
@@ -17015,6 +17017,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Self-Directed State Shifting](concepts/SelfDirectedStateShifting.md) — Proactive and reactive practices for changing state without relying on the addictive object.
 - [Manufactured Rebellion Branding](concepts/ManufacturedRebellionBranding.md) — Deliberate construction of oppositional identity through appearance, behavior, publicity, and contrast with a respectable competitor.
 - [Postwar Teenage Consumer Market](concepts/PostwarTeenageConsumerMarket.md) — Youth market formed through discretionary income, leisure venues, media, playback technology, and shared generational identity.
+- [Popular Music as Cultural Transmission](concepts/PopularMusicAsCulturalTransmission.md) — Process by which songs, performance, celebrity, and repetition carry cultural assumptions beyond formal intellectual debate.
 - [Celebrity Folk-Devil Moral Panic](concepts/CelebrityFolkDevilMoralPanic.md) — Process by which a famous target condenses wider fears and may reshape how a stigmatized identity is publicly imagined.
 - [Pop-to-Album-Rock Transition](concepts/PopToAlbumRockTransition.md) — Late-1960s shift toward serious listening, albums, virtuosity, adult identity, and higher-value rock markets.
 - [Visual System Health Toolkit](concepts/VisualSystemHealthToolkit.md) — Framework joining outdoor light, varied viewing distance, smooth pursuit, accommodation, binocular balance, systemic health, and qualified eye care.

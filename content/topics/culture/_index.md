@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3042
+topic_total_pages: 3044
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2245,6 +2245,9 @@ topic_concepts:
   - key: "PopToAlbumRockTransition"
     title: "Pop-to-Album-Rock Transition"
     url: "/wiki/concepts/poptoalbumrocktransition/"
+  - key: "PopularMusicAsCulturalTransmission"
+    title: "Popular Music as Cultural Transmission"
+    url: "/wiki/concepts/popularmusicasculturaltransmission/"
   - key: "PortugueseCulturalSymbolPolitics"
     title: "Portuguese Cultural Symbol Politics"
     url: "/wiki/concepts/portugueseculturalsymbolpolitics/"
@@ -8541,6 +8544,9 @@ topic_sources:
   - key: "90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933"
     title: "90.酉阳杂俎：血滴子和武则天手指上的黑毛"
     url: "/wiki/sources/90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933/"
+  - key: "91-the-beatles-glt5767145023"
+    title: "91. The Beatles"
+    url: "/wiki/sources/91-the-beatles-glt5767145023/"
   - key: "94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232"
     title: "94.吉卜力的天才们：我的人生，交给热爱和友谊"
     url: "/wiki/sources/94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232/"

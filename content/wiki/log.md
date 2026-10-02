@@ -28029,3 +28029,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 91. The Beatles
+
+Added source `91-the-beatles-glt5767145023`; created `JohnLennon` and `PopularMusicAsCulturalTransmission`; and resynthesized `TheBeatles`, `PostwarTeenageConsumerMarket`, and `PostImperialCulturalBranding` from their complete preserved evidence inventories. Core synthesis: postwar prosperity, youth spending, mass media, and transatlantic exchange enabled Beatlemania, while the band's songs, image, humor, and celebrity amplified cultural changes involving religion, peace, spirituality, British identity, and suspicion of authority. No settled contradiction was adopted. The hosts' disagreement over long-term legacy, and claims about audience breadth, religion's decline, moral influence, national identity, and causation remain contested, interpretive, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,503-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

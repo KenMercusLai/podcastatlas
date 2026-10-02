@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9375
+wiki_total_pages: 9376
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1184,6 +1184,9 @@ wiki_pages:
   - key: "PopularCounterrevolution"
     title: "Popular Counter-Revolution"
     url: "/wiki/concepts/popularcounterrevolution/"
+  - key: "PopularMusicAsCulturalTransmission"
+    title: "Popular Music as Cultural Transmission"
+    url: "/wiki/concepts/popularmusicasculturaltransmission/"
   - key: "PopularNPDDiscourse"
     title: "Popular NPD Discourse / 大众NPD话语"
     url: "/wiki/concepts/popularnpddiscourse/"
