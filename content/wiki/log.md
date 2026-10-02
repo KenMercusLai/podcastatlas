@@ -28196,3 +28196,11 @@ Added source `77-statues-whitehall-glt3402485088`; created `Whitehall` and `Wome
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | Machines, Creativity & Love | Dr. Lex Fridman
+
+Added source `machines-creativity-love-dr-lex-fridman-scim8604353977`; resynthesized `LexFridman` and `CompanionRobots` from their complete preserved evidence inventories. Core synthesis: AI learning depends on objectives, feedback, and meaningful explanations, while machine companionship is hypothesized to grow through memory, ordinary shared time, voice, imperfection, surprise, limited refusal, and user control; human empathy toward machines remains evidence of attribution rather than sentience or present rights. The full conversation also connects that thesis to grief, friendship, jiu-jitsu vulnerability, lifelong partnership, public authenticity, and long-form podcast intimacy. No settled contradiction was adopted. Tesla, AI-control, robot-rights, personal-guide, and companion-outcome claims remain source-dated, aspirational, or source-scoped; the episode substantially overlaps the later Essentials edit and is not treated as independent corroboration. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,524-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Machines, Creativity & Love | Dr. Lex Fridman](sources/machines-creativity-love-dr-lex-fridman-scim8604353977.md) — Full Huberman Lab conversation on AI learning, user-owned guidance, robot companionship, shared memory, grief, friendship, vulnerability, and long-form conversation.
 - [77. Statues: Whitehall](sources/77-statues-whitehall-glt3402485088.md) — The Rest Is History on Whitehall's military statues, collective memorials, placement, contested biography, and the multiple meanings of public monuments.
 - [78. Statues: Parliament Square](sources/78-statues-parliament-square-glt3870229260.md) — The Rest Is History on Churchill, political and imperial monuments, martyrdom, counter-memory, and the unresolved politics of keeping, removing, or adding statues.
 - [EP182-占星学的新时代，都市青年的精神归宿](sources/ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw.md) — 无时差研究所 episode on modern psychological astrology as a reflective map, layered chart interpretation, agency, and evidence boundaries.

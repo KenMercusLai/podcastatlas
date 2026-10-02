@@ -40800,9 +40800,9 @@
       "url": "/wiki/concepts/companionanimalsterilizationdecision/"
     },
     "CompanionRobots": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 5,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
@@ -40845,9 +40845,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Machines, Creativity & Love | Dr. Lex Fridman",
           "url": "/wiki/sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065/"
+        },
+        {
+          "episode_file": "SCIM8604353977 [SCIM8604353977].md",
+          "key": "machines-creativity-love-dr-lex-fridman-scim8604353977",
+          "show": "Huberman Lab",
+          "title": "Machines, Creativity & Love | Dr. Lex Fridman",
+          "url": "/wiki/sources/machines-creativity-love-dr-lex-fridman-scim8604353977/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/companionrobots/"
     },
     "ComparativeGenomicsTraitInference": {
@@ -117369,9 +117376,9 @@
       "url": "/wiki/entities/lewisstrauss/"
     },
     "LexFridman": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
@@ -117393,9 +117400,16 @@
           "show": "Huberman Lab",
           "title": "Navigating Conflict, Finding Purpose & Maintaining Drive | Dr. Lex Fridman",
           "url": "/wiki/sources/navigating-conflict-finding-purpose-maintaining-drive-dr-lex-fridman-scim7125421200/"
+        },
+        {
+          "episode_file": "SCIM8604353977 [SCIM8604353977].md",
+          "key": "machines-creativity-love-dr-lex-fridman-scim8604353977",
+          "show": "Huberman Lab",
+          "title": "Machines, Creativity & Love | Dr. Lex Fridman",
+          "url": "/wiki/sources/machines-creativity-love-dr-lex-fridman-scim8604353977/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/lexfridman/"
     },
     "LexingtonAndConcord": {

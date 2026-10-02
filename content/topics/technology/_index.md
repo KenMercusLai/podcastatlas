@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3273
+topic_total_pages: 3274
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9168,6 +9168,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit"
     title: "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit/"
+  - key: "machines-creativity-love-dr-lex-fridman-scim8604353977"
+    title: "Machines, Creativity & Love | Dr. Lex Fridman"
+    url: "/wiki/sources/machines-creativity-love-dr-lex-fridman-scim8604353977/"
   - key: "tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128"
     title: "Making AI work - for work"
     url: "/wiki/sources/tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128/"
