@@ -441,6 +441,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "132-a-christmas-carol-glt9074696790": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo": [
     {
       "key": "technology",
@@ -5851,6 +5863,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "AChristmasCarol": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ADHDHyperfocusAIWorkflow": [
@@ -60998,6 +61017,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "PersonalRedemptionStructuralLimit": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "PersonalRevengeThroughStatePower": [

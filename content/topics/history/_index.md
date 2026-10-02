@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2382
+topic_total_pages: 2383
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4845,6 +4845,9 @@ topic_sources:
   - key: "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780"
     title: "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖"
     url: "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+  - key: "132-a-christmas-carol-glt9074696790"
+    title: "132. A Christmas Carol"
+    url: "/wiki/sources/132-a-christmas-carol-glt9074696790/"
   - key: "133-christmas-churches-glt8843719433"
     title: "133. Christmas churches"
     url: "/wiki/sources/133-christmas-churches-glt8843719433/"

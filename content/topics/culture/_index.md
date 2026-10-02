@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3015
+topic_total_pages: 3018
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2131,6 +2131,9 @@ topic_concepts:
   - key: "PersianMiniaturePainting"
     title: "Persian Miniature Painting"
     url: "/wiki/concepts/persianminiaturepainting/"
+  - key: "PersonalRedemptionStructuralLimit"
+    title: "Personal Redemption and Structural Limits"
+    url: "/wiki/concepts/personalredemptionstructurallimit/"
   - key: "PhysicalBookDesignTradeoff"
     title: "Physical Book Design Tradeoff"
     url: "/wiki/concepts/physicalbookdesigntradeoff/"
@@ -3317,6 +3320,9 @@ topic_entities:
   - key: "ABriefHistoryOfIntelligence"
     title: "A Brief History of Intelligence"
     url: "/wiki/entities/abriefhistoryofintelligence/"
+  - key: "AChristmasCarol"
+    title: "A Christmas Carol"
+    url: "/wiki/entities/achristmascarol/"
   - key: "AIArtificialIntelligenceFilm"
     title: "A.I. Artificial Intelligence / 《人工智能》"
     url: "/wiki/entities/aiartificialintelligencefilm/"
@@ -8094,6 +8100,9 @@ topic_sources:
   - key: "131-richang-zhimi-tuili-shi-wo-wei-neng-shuo-chukou-de-zhenxin-805617229"
     title: "131.“日常之谜”推理：是我未能说出口的真心"
     url: "/wiki/sources/131-richang-zhimi-tuili-shi-wo-wei-neng-shuo-chukou-de-zhenxin-805617229/"
+  - key: "132-a-christmas-carol-glt9074696790"
+    title: "132. A Christmas Carol"
+    url: "/wiki/sources/132-a-christmas-carol-glt9074696790/"
   - key: "134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226"
     title: "134.查令十字街84号：再次原谅世界的理由"
     url: "/wiki/sources/134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226/"

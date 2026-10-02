@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [132. A Christmas Carol](sources/132-a-christmas-carol-glt9074696790.md) — The Rest Is History walk through Dickensian London on horror, loneliness, festive warmth, literary geography, personal redemption, and structural inequality.
 - [133. Christmas churches](sources/133-christmas-churches-glt8843719433.md) — Festive The Rest Is History survey of British churches as repositories of Christmas charity, music, literature, art, calendars, folklore, film, and local memory.
 - [12 Days: Coronation of Charlemagne and the collapse of the Soviet Union](sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211.md) — The Rest Is History on Charlemagne's papal coronation and the Soviet collapse, pairing western empire-making with Gorbachev's loss of effective authority.
 - [12 Days: Good King Wenceslas and the first Gilbert & Sullivan](sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286.md) — The Rest Is History on Wenceslas's charitable and national afterlife, Neale's carol, and Gilbert and Sullivan's lost first opera, Thespis.
@@ -3498,6 +3499,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [A Christmas Carol](entities/AChristmasCarol.md) — Dickens's London ghost story joining childhood injury, financial isolation, festive warmth, social criticism, personal redemption, and adaptable fable.
 - [Rachel Morley](entities/RachelMorley.md) — Church-heritage interpreter using material details to connect British sites with wider cultural history.
 - [Friends of Friendless Churches](entities/FriendsOfFriendlessChurches.md) — British preservation organization joining care for vulnerable churches to public historical interpretation.
 - [M. R. James](entities/MRJames.md) — Scholar and ghost-story writer whose antiquarian research and church settings shaped a Christmas literary tradition.
@@ -3800,7 +3802,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raul Sendic](entities/RaulSendic.md) — Socialist labor activist and founder of the Tupamaros.
 - [Geoffrey Jackson](entities/GeoffreyJacksonDiplomat.md) — British ambassador held by the Tupamaros for 244 days in 1971.
 - [Dan Mitrione](entities/DanMitrione.md) — US police adviser whose kidnapping, death, and disputed torture-training role anchor a Cold War controversy.
-- [Charles Dickens](entities/CharlesDickens.md) — British novelist and travel writer connecting celebrity, moral judgment, dark sightseeing, travel documentation, and London's literary geography.
+- [Charles Dickens](entities/CharlesDickens.md) — British novelist connecting celebrity, travel, London's literary geography, Christmas horror, moral psychology, and philanthropy's structural limits.
 - [Andrew Carnegie](entities/AndrewCarnegie.md) — Scottish-born U.S. industrialist whose fortune and transatlantic philanthropy symbolize shifting Anglo-American economic power.
 - [Plutarco Elias Calles](entities/PlutarcoEliasCalles.md) — Post-revolutionary president whose anti-clerical state-building forms the political background to the episode's festival-reinvention argument.
 - [Lazaro Cardenas](entities/LazaroCardenas.md) — President associated by the episode with strong 1930s state promotion of Dia de Muertos as national tradition.
@@ -5310,7 +5312,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Our Hong Kong Foundation / 團結香港基金](entities/OurHongKongFoundation.md) — Tung-linked post-tenure establishment organization founded during the Umbrella Movement period.
 - [Hong Kong Coalition / 香港再出發大聯盟](entities/HongKongCoalition.md) — Tung-linked pro-establishment organization launched during the anti-extradition movement period.
 - [Inditex](entities/Inditex.md) — Zara parent company mentioned through a source-scoped update on margin pressure, flagship stores, and lower-priced brand expansion.
-- [London](entities/London.md) — United Kingdom capital represented as a political stage, fashion-media center, and layered historical city.
+- [London](entities/London.md) — United Kingdom capital represented as a political stage, fashion-media center, layered historical city, and qualified literary map.
 - [Snow Peak](entities/SnowPeak.md) — Japanese outdoor brand used as a bridge from titanium camping gear to lifestyle consumption.
 - [Yongkang / 永康](entities/Yongkang.md) — Zhejiang hardware and cup manufacturing cluster behind titanium-cup supply growth.
 - [淳于长 / Chunyu Zhang (Western Han)](entities/ChunyuZhangWesternHan.md) — Chengdi-era favorite whose public Changling reward, access-based extraction, exploitation of Empress Xu, and failed restoration bid through Wang Li turn proximity into danger.
@@ -15482,6 +15484,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Personal Redemption and Structural Limits](concepts/PersonalRedemptionStructuralLimit.md) — Pattern in which morally serious individual change repairs harm while leaving protection dependent on voluntary virtue rather than institutional change.
 - [Church Cultural Memory](concepts/ChurchCulturalMemory.md) — Preservation and interpretation of social history through church fabric, objects, art, graves, ritual, literature, and local stories.
 - [Biological Age Measurement Boundary](concepts/BiologicalAgeMeasurementBoundary.md) — Boundary separating longitudinal clock, biomarker, glucose, wearable, and personal-baseline signals from diagnosis or demonstrated longevity benefit.
 - [Epigenetic Aging Information Theory](concepts/EpigeneticAgingInformationTheory.md) — Sinclair's proposal that aging substantially reflects loss of regulatory information maintaining cell identity, bounded by measurement and translation limits.

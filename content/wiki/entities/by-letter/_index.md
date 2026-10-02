@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11943
+wiki_total_pages: 11944
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "ABriefHistoryOfIntelligence"
     title: "A Brief History of Intelligence"
     url: "/wiki/entities/abriefhistoryofintelligence/"
+  - key: "AChristmasCarol"
+    title: "A Christmas Carol"
+    url: "/wiki/entities/achristmascarol/"
   - key: "ABOTNavigation"
     title: "A-BOT Navigation"
     url: "/wiki/entities/abotnavigation/"

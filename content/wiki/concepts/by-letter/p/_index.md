@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9258
+wiki_total_pages: 9259
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "PersonalPensionAccount"
     title: "Personal Pension Account / 个人养老金账户"
     url: "/wiki/concepts/personalpensionaccount/"
+  - key: "PersonalRedemptionStructuralLimit"
+    title: "Personal Redemption and Structural Limits"
+    url: "/wiki/concepts/personalredemptionstructurallimit/"
   - key: "PersonalRevengeThroughStatePower"
     title: "Personal Revenge Through State Power / 以国力行私仇"
     url: "/wiki/concepts/personalrevengethroughstatepower/"

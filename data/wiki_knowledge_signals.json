@@ -217,6 +217,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/acrcloud/"
     },
+    "AChristmasCarol": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9074696790 [GLT9074696790].md",
+          "key": "132-a-christmas-carol-glt9074696790",
+          "show": "The Rest Is History",
+          "title": "132. A Christmas Carol",
+          "url": "/wiki/sources/132-a-christmas-carol-glt9074696790/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/achristmascarol/"
+    },
     "ADHDAttentionControlModel": {
       "episode_count": 4,
       "show_count": 2,
@@ -31079,9 +31095,9 @@
       "url": "/wiki/entities/charlesdegaulle/"
     },
     "CharlesDickens": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT7546211559 [GLT7546211559].md",
@@ -31110,9 +31126,16 @@
           "show": "The Rest Is History",
           "title": "133. Christmas churches",
           "url": "/wiki/sources/133-christmas-churches-glt8843719433/"
+        },
+        {
+          "episode_file": "GLT9074696790 [GLT9074696790].md",
+          "key": "132-a-christmas-carol-glt9074696790",
+          "show": "The Rest Is History",
+          "title": "132. A Christmas Carol",
+          "url": "/wiki/sources/132-a-christmas-carol-glt9074696790/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/charlesdickens/"
     },
     "CharlesDuncanCameron": {
@@ -120026,9 +120049,9 @@
       "url": "/wiki/entities/londinium/"
     },
     "London": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
@@ -120071,9 +120094,16 @@
           "show": "The Rest Is History",
           "title": "210. London: Places (Part 2)",
           "url": "/wiki/sources/210-london-places-part-2-glt8561271853/"
+        },
+        {
+          "episode_file": "GLT9074696790 [GLT9074696790].md",
+          "key": "132-a-christmas-carol-glt9074696790",
+          "show": "The Rest Is History",
+          "title": "132. A Christmas Carol",
+          "url": "/wiki/sources/132-a-christmas-carol-glt9074696790/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/london/"
     },
     "LonelinessPublicHealthRisk": {
@@ -149189,6 +149219,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/personalmemoryidentityresolution/"
+    },
+    "PersonalRedemptionStructuralLimit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9074696790 [GLT9074696790].md",
+          "key": "132-a-christmas-carol-glt9074696790",
+          "show": "The Rest Is History",
+          "title": "132. A Christmas Carol",
+          "url": "/wiki/sources/132-a-christmas-carol-glt9074696790/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/personalredemptionstructurallimit/"
     },
     "PersonalRiskTrustSignal": {
       "episode_count": 1,

@@ -267,6 +267,10 @@
     "title": "131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程",
     "url": "/wiki/sources/131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan/"
   },
+  "132-a-christmas-carol-glt9074696790": {
+    "title": "132. A Christmas Carol",
+    "url": "/wiki/sources/132-a-christmas-carol-glt9074696790/"
+  },
   "132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo": {
     "title": "132.当过度思考的打工人遇上低欲望的时代",
     "url": "/wiki/sources/132-dang-guodu-sikao-de-dagongren-yu-shang-di-yuwang-de-shidai-luaqswjqezbakxdrcshifxi0ermo/"
@@ -3326,6 +3330,10 @@
   "ACRCloud": {
     "title": "ACR Cloud",
     "url": "/wiki/entities/acrcloud/"
+  },
+  "AChristmasCarol": {
+    "title": "A Christmas Carol",
+    "url": "/wiki/entities/achristmascarol/"
   },
   "ACuo": {
     "title": "阿错 / Acuo",
@@ -58818,6 +58826,10 @@
   "PersonalPensionAccount": {
     "title": "Personal Pension Account / 个人养老金账户",
     "url": "/wiki/concepts/personalpensionaccount/"
+  },
+  "PersonalRedemptionStructuralLimit": {
+    "title": "Personal Redemption and Structural Limits",
+    "url": "/wiki/concepts/personalredemptionstructurallimit/"
   },
   "PersonalRevengeThroughStatePower": {
     "title": "Personal Revenge Through State Power / 以国力行私仇",
