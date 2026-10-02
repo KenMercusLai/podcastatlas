@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9346
+wiki_total_pages: 9348
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "BondFundReturnExpectationReset"
     title: "Bond Fund Return Expectation Reset"
     url: "/wiki/concepts/bondfundreturnexpectationreset/"
+  - key: "BondMasculinityAdaptation"
+    title: "Bond Masculinity Adaptation"
+    url: "/wiki/concepts/bondmasculinityadaptation/"
   - key: "BondedWarehouseCrossBorderImport"
     title: "Bonded Warehouse Cross-Border Import / 保税仓跨境电商"
     url: "/wiki/concepts/bondedwarehousecrossborderimport/"

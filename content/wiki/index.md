@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [101. James Bond](sources/101-james-bond-glt6304120514.md) — The Rest Is History on Ian Fleming, Bond's literary and screen forms, adaptive masculinity, consumer fantasy, and post-imperial British cultural branding.
 - [102. Germany from Adenauer to Angela](sources/102-germany-from-adenauer-to-angela-glt6085378369.md) — The Rest Is History on West German reconstruction, incomplete denazification, Ostpolitik, reunification, Merkelian caution, and the costs of political stability.
 - [103. The Norse Sagas](sources/103-the-norse-sagas-glt8280648151.md) — The Rest Is History with Eleanor Rosamund Barraclough on Icelandic settlement, Greenland and Vinland voyages, saga transmission, Christianisation, literary memory, and source criticism.
 - [505 茶海轶闻：与王恺漫谈中国茶的真假传说](sources/505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza.md) — 忽左忽右 with Wang Kai on Chinese tea provenance, craft, commercialization, Pu'er speculation, and East Asian cultural exchange.
@@ -3548,6 +3549,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Controlling Your Dopamine For Motivation, Focus & Satisfaction](sources/scim6449668176-scim6449668176.md) — Huberman Lab solo episode on dopamine baseline, peaks and troughs, reward history, anti-stacking, effort reward, cold exposure, social connection, and clinical boundaries.
 
 ## Entities
+- [James Bond](entities/JamesBond.md) — Fleming's fictional agent understood as a changing British, masculine, consumer, and post-imperial cultural fantasy.
+- [Ian Fleming](entities/IanFleming.md) — British author whose biography, wartime nostalgia, tastes, and prejudices shaped James Bond.
 - [Ludwig Erhard](entities/LudwigErhard.md) — Economist and Adenauer successor presented as a technocrat whose expertise did not produce durable political authority.
 - [Kurt Georg Kiesinger](entities/KurtGeorgKiesinger.md) — West German chancellor whose Nazi Party past exposed incomplete postwar personnel rupture.
 - [Willy Brandt](entities/WillyBrandt.md) — Anti-fascist chancellor linking Ostpolitik, German normalization, and public moral reckoning.
@@ -15629,6 +15632,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Gibney](entities/AlexGibney.md) — Documentary filmmaker whose Elon Musk film became a case study in platform ad review, reversal, and suspected political pressure.
 
 ## Concepts
+- [Bond Masculinity Adaptation](concepts/BondMasculinityAdaptation.md) — Preservation of Bond's recognizable masculine fantasy through changing humor, consequence, vulnerability, and moral judgment.
+- [Post-Imperial Cultural Branding](concepts/PostImperialCulturalBranding.md) — Conversion of reduced geopolitical power into exportable national style, irony, entertainment, and consumer prestige.
 - [Ostpolitik](concepts/Ostpolitik.md) — West German normalization strategy joining practical eastern diplomacy to Brandt-era reconciliation.
 - [Postwar German Democratic Caution](concepts/PostwarGermanDemocraticCaution.md) — Political culture of restraint, coalition, and stability shaped by dictatorship, war, defeat, and division.
 - [Oral Tradition to Manuscript Mediation](concepts/OralTraditionManuscriptMediation.md) — Process by which performance traditions are preserved and reshaped through later literary, religious, and political writing.

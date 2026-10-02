@@ -23574,6 +23574,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/bollandbranch/"
     },
+    "BondMasculinityAdaptation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6304120514 [GLT6304120514].md",
+          "key": "101-james-bond-glt6304120514",
+          "show": "The Rest Is History",
+          "title": "101. James Bond",
+          "url": "/wiki/sources/101-james-bond-glt6304120514/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/bondmasculinityadaptation/"
+    },
     "BondedWarehouseCrossBorderImport": {
       "episode_count": 1,
       "show_count": 1,
@@ -97361,6 +97377,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/iphoneduo/"
     },
+    "IanFleming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6304120514 [GLT6304120514].md",
+          "key": "101-james-bond-glt6304120514",
+          "show": "The Rest Is History",
+          "title": "101. James Bond",
+          "url": "/wiki/sources/101-james-bond-glt6304120514/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/ianfleming/"
+    },
     "IanHamiltonGallipoli": {
       "episode_count": 1,
       "show_count": 1,
@@ -104315,6 +104347,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/jamesangleton/"
+    },
+    "JamesBond": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6304120514 [GLT6304120514].md",
+          "key": "101-james-bond-glt6304120514",
+          "show": "The Rest Is History",
+          "title": "101. James Bond",
+          "url": "/wiki/sources/101-james-bond-glt6304120514/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/jamesbond/"
     },
     "JamesBoswell": {
       "episode_count": 1,
@@ -156651,6 +156699,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/postimperialcommonwealthmonarchy/"
     },
+    "PostImperialCulturalBranding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6304120514 [GLT6304120514].md",
+          "key": "101-james-bond-glt6304120514",
+          "show": "The Rest Is History",
+          "title": "101. James Bond",
+          "url": "/wiki/sources/101-james-bond-glt6304120514/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/postimperialculturalbranding/"
+    },
     "PostImperialIdentityGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -193113,9 +193177,9 @@
       "url": "/wiki/entities/theanxiousgeneration/"
     },
     "TheBeatles": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "8211241331_711602 [8211241331_711602].md",
@@ -193151,9 +193215,16 @@
           "show": "The Rest Is History",
           "title": "263: USA vs England: The 200-Year Rivalry",
           "url": "/wiki/sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559/"
+        },
+        {
+          "episode_file": "GLT6304120514 [GLT6304120514].md",
+          "key": "101-james-bond-glt6304120514",
+          "show": "The Rest Is History",
+          "title": "101. James Bond",
+          "url": "/wiki/sources/101-james-bond-glt6304120514/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/thebeatles/"
     },
     "TheCanterburyTales": {

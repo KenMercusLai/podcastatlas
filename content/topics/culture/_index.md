@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3029
+topic_total_pages: 3031
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -481,6 +481,9 @@ topic_concepts:
   - key: "BodilyTabooHumor"
     title: "Bodily Taboo Humor / 身体禁忌幽默"
     url: "/wiki/concepts/bodilytaboohumor/"
+  - key: "BondMasculinityAdaptation"
+    title: "Bond Masculinity Adaptation"
+    url: "/wiki/concepts/bondmasculinityadaptation/"
   - key: "BookAsGraveMemoryWork"
     title: "Book As Grave Memory Work"
     url: "/wiki/concepts/bookasgravememorywork/"
@@ -4448,6 +4451,9 @@ topic_entities:
   - key: "JainaHefford"
     title: "Jaina Hefford"
     url: "/wiki/entities/jainahefford/"
+  - key: "JamesBond"
+    title: "James Bond"
+    url: "/wiki/entities/jamesbond/"
   - key: "JamesCameron"
     title: "James Cameron"
     url: "/wiki/entities/jamescameron/"

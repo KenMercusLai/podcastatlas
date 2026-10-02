@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9346
+wiki_total_pages: 9348
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1334,6 +1334,9 @@ wiki_pages:
   - key: "PostImperialCommonwealthMonarchy"
     title: "Post-Imperial Commonwealth Monarchy"
     url: "/wiki/concepts/postimperialcommonwealthmonarchy/"
+  - key: "PostImperialCulturalBranding"
+    title: "Post-Imperial Cultural Branding"
+    url: "/wiki/concepts/postimperialculturalbranding/"
   - key: "PostImperialIdentityGap"
     title: "Post-Imperial Identity Gap / 后帝国身份落差"
     url: "/wiki/concepts/postimperialidentitygap/"

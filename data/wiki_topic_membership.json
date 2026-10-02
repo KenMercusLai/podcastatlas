@@ -107,6 +107,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "101-james-bond-glt6304120514": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "102-germany-from-adenauer-to-angela-glt6085378369": [
     {
       "key": "history",
@@ -16596,6 +16603,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "BondMasculinityAdaptation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "BondOfAssociation": [
@@ -44571,6 +44585,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "JamesBond": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "JamesCallender": [

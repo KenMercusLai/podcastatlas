@@ -27901,3 +27901,11 @@ Added source `scim6449668176-scim6449668176`; resynthesized `AndrewHuberman`, `H
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 101. James Bond
+
+Added source `101-james-bond-glt6304120514`; created `JamesBond`, `IanFleming`, `BondMasculinityAdaptation`, and `PostImperialCulturalBranding`; and resynthesized `TheBeatles` from its complete preserved evidence inventory. Core synthesis: Bond joins Fleming's personal masculine wish fulfilment to a consumerist, post-imperial British brand, while the films remain viable by changing the moral framing of drinking, violence, sexuality, irony, and damage without abandoning recognizability. No settled contradiction was adopted. Fleming's motives, audience acceptance, casting limits, actor rankings, and causal claims about British soft power remain interpretive or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,487-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
