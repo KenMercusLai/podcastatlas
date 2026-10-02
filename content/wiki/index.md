@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [86. The Enlightenment](sources/86-the-enlightenment-glt8077157127.md) — The Rest Is History on the Enlightenment as a plural Christian-European transformation joining social infrastructure and universal claims to religion, science, racism, and colonial hierarchy.
 - [Understanding & Treating Addiction | Dr. Anna Lembke](sources/understanding-treating-addiction-dr-anna-lembke-scim9435481929.md) — Huberman Lab interview on the pleasure-pain balance, dopamine adaptation, behavioral addiction, abstinence, relapse, community, truth-telling, and treatment boundaries.
 - [87. Afghanistan - Part 1](sources/87-afghanistan-part-1-glt7464087190.md) — The Rest Is History survey of Afghanistan as an imperial crossroads, Durrani state formation, the Durand Line, the Soviet war, Taliban origins, and intervention limits.
 - [88. The First Anglo-Afghan War](sources/88-the-first-anglo-afghan-war-glt5156371854.md) — The Rest Is History with William Dalrymple on Great Game anxiety, regime change, occupation collapse, the 1842 Kabul retreat, and modern Afghan legitimacy parallels.
@@ -3571,6 +3572,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247.md) — Huberman Lab interview on psychedelic classes, clinical protocols, self-representation, integration, microdosing evidence, persistent perceptual symptoms, risks, and regulation.
 
 ## Entities
+- [Denis Diderot](entities/DenisDiderot.md) — Atheist Enlightenment writer presented through institutional accounts of corruption, intellectual generosity, and humane curiosity.
 - [Anna Lembke](entities/AnnaLembke.md) — Psychiatrist framing addiction through pleasure-pain adaptation, bounded abstinence, community, honesty, and service-oriented recovery.
 - [Ahmad Shah Durrani](entities/AhmadShahDurrani.md) — Pashtun ruler whose coalition-building after 1747 founded the Durrani Empire and helped shape the later Afghan state.
 - [Durrani Empire](entities/DurraniEmpire.md) — Eighteenth-century Pashtun-led polity bridging earlier regional empires and modern Afghan state formation.
@@ -6590,7 +6592,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [William Franklin](entities/WilliamFranklin.md) — Benjamin Franklin's loyalist son and New Jersey governor, used by the source to make colonial rupture personal.
 - [Thomas Hutchinson](entities/ThomasHutchinson.md) — Massachusetts governor whose letters about colonial liberties became a catalyst in Franklin's break with Britain.
 - [Samuel Johnson](entities/SamuelJohnson.md) — British critic used by the Franklin source to expose slaveholding Americans' liberty contradiction.
-- [David Hume](entities/DavidHume.md) — Scottish Enlightenment figure whose praise marks Franklin's European intellectual reputation.
+- [David Hume](entities/DavidHume.md) — Scottish Enlightenment philosopher joining skepticism about sovereign reason and Franklin's reputation to a qualified record of racial hierarchy.
 - [George III](entities/GeorgeIII.md) — British monarch connecting chaotic coronation, colonial loyalty rupture, and an 1809 wartime-morale jubilee.
 - [John Adams](entities/JohnAdams.md) — Founding-era foil whose criticism of Franklin's French social diplomacy clarifies Franklin's effectiveness.
 - [Continental Congress](entities/ContinentalCongress.md) — Revolutionary institution where Franklin served as delegate and Declaration committee member and Washington was selected for command.
@@ -12572,8 +12574,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thomas Aquinas / 托马斯·阿奎那](entities/ThomasAquinas.md) — Catholic workers' union envoy who defends God and criticizes brutalizing commercial competition.
 - [Walter Benjamin / 本雅明](entities/WalterBenjamin.md) — Copier-scene figure used to literalize mechanical reproduction as office work.
 - [Karl Marx / 马克思](entities/KarlMarx.md) — Union graphic designer figure whose office-file mishap turns labor politics into workplace workflow satire.
-- [Jean-Jacques Rousseau / 卢梭](entities/JeanJacquesRousseau.md) — Salesperson fighting Voltaire over credit and competition in the episode's Enlightenment-as-office-conflict scene.
-- [Voltaire / 伏尔泰](entities/Voltaire.md) — Salesperson fighting Rousseau, linking Enlightenment rationality to company competition and Nietzsche's critique.
+- [Jean-Jacques Rousseau / 卢梭](entities/JeanJacquesRousseau.md) — Enlightenment insider and critic of civilization whose natural-goodness, virtue, gender, and active-reason afterlives remain qualified by conduct and source scope.
+- [Voltaire / 伏尔泰](entities/Voltaire.md) — Enlightenment critic joining active reason and anti-Christian polemic to socially useful theism, racial classification, civilizational projection, satire, and historical mythmaking.
 - [Jacques Derrida / 德里达](entities/JacquesDerrida.md) — Copier repair figure whose dismantled machine becomes a deconstruction joke.
 - [Diogenes / 第欧根尼](entities/Diogenes.md) — Barrel and open-office refusal figure used to contrast Cynic freedom with managed corporate freedom.
 - [Michel de Montaigne / 蒙田](entities/MichelDeMontaigne.md) — Essay/probation pun figure whose short reports and endless trial period become office satire.
@@ -15697,6 +15699,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
 
 ## Concepts
+- [Enlightenment](concepts/Enlightenment.md) — Plural European transformation joining religious inheritance, scientific inquiry, social infrastructure, universal ambition, and colonial-racial limits.
+- [Enlightenment Social Infrastructure](concepts/EnlightenmentSocialInfrastructure.md) — Print, literacy, correspondence, clubs, salons, coffeehouses, universities, courts, lodges, trade, and scientific institutions enabling Enlightenment circulation.
+- [Enlightenment Universalism and Colonial Hierarchy](concepts/EnlightenmentUniversalismColonialHierarchy.md) — Tension between universal reason and rights and culturally specific racial classification, slavery, empire, and coercive export.
 - [Pleasure-Pain Balance in Addiction](concepts/PleasurePainBalanceAddiction.md) — Opponent-process model connecting repeated reward to compensatory discomfort, craving, withdrawal, and narrowed ordinary reward.
 - [Recovery Truth-Telling and Amends](concepts/RecoveryTruthTellingAndAmends.md) — Recovery practice linking honest disclosure, proportionate responsibility, accountability, and relationship repair.
 - [Afghanistan as an Imperial Crossroads](concepts/AfghanistanImperialCrossroads.md) — Framework replacing a timeless graveyard myth with connection, incorporation, cultural exchange, resistance, and outward state formation.
@@ -16298,7 +16303,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelic Therapy Mechanism](concepts/PsychedelicTherapyMechanism.md) — Combined receptor, network, subjective, relational, and learning model for psychedelic-assisted mental-health change.
 - [Psychedelic Integration](concepts/PsychedelicIntegration.md) — Ongoing process for translating an acute psychedelic experience into qualified, durable ordinary-life learning.
 - [Immune Homeostasis, Not Indiscriminate Boosting](concepts/ImmuneHomeostasisNotBoosting.md) — Distinguishes regulated immune sufficiency from indiscriminate activation or supplement-led “boosting.”
-- [Freemasonry](concepts/Freemasonry.md) — Fraternal lodge tradition joining ritual, symbolism, mutual obligation, civic and imperial networks, exclusion, and case-specific risks of corrupt capture.
+- [Freemasonry](concepts/Freemasonry.md) — Fraternal lodge tradition joining ritual, Enlightenment sociability, mutual obligation, civic and imperial networks, exclusion, conspiracy projection, and case-specific corrupt capture.
 - [Masonic Secrecy–Conspiracy Feedback](concepts/MasonicSecrecyConspiracyFeedback.md) — Cycle linking ritual opacity and symbolic ambiguity to hostile totalization, repression, and renewed mystery.
 - [Fraternal Network Organizational Template](concepts/FraternalNetworkOrganizationalTemplate.md) — Portable cell, ritual, rank, mythology, credential, and mutual-obligation structure whose purpose depends on governance and use.
 - [鱼刺异物处置 / Fish-Bone Foreign-Body Care](concepts/FishBoneForeignBodyCare.md) — Rejects folk removal methods and routes suspected retained or migrated sharp foreign bodies through anatomical assessment.
@@ -16836,7 +16841,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Self-Abandonment Boundary](concepts/SelfAbandonmentBoundary.md) — Relationship limit separating love and empathy from codependent overgiving and surrender of one's own agency.
 - [Universal Rights and National Sovereignty Tension](concepts/UniversalRightsNationalSovereigntyTension.md) — Problem of grounding humanity-wide rights in the authority and citizenship boundaries of a particular nation.
 - [Revolutionary Church-State Rupture](concepts/RevolutionaryChurchStateRupture.md) — Process by which fiscal and administrative reform becomes mass conflict over religious and political allegiance.
-- [Christian Inheritance of Enlightenment Rights](concepts/ChristianInheritanceOfEnlightenmentRights.md) — Qualified claim that secular universal-rights morality partly retains Christian genealogies and symbolic forms.
+- [Christian Inheritance of Enlightenment Rights](concepts/ChristianInheritanceOfEnlightenmentRights.md) — Qualified claim that secular rights, light imagery, reform structure, civil religion, and universal mission partly retain Christian genealogies and symbolic forms.
 - [Human Movement Digital Twin / 人体运动数字孪生](concepts/HumanMovementDigitalTwin.md) — Measurement-and-simulation framework for performance, loading, equipment, and rehabilitation decisions.
 - [Rehabilitation Goal Differentiation / 康复目标分层](concepts/RehabilitationGoalDifferentiation.md) — Goal-first distinction among pain relief, daily function, and return-to-sport performance.
 - [Knee Stability Injury Cascade / 膝关节稳定性损伤链](concepts/KneeStabilityInjuryCascade.md) — Probabilistic interaction among menisci, cruciate stability, cartilage loading, and quadriceps capacity.
@@ -23031,7 +23036,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [War And Intimacy Breakdown](concepts/WarAndIntimacyBreakdown.md) — Pattern where war damages private relationships through broken time, national division, altered order, and failed return to prewar freedom.
 - [Material History Narrative](concepts/MaterialHistoryNarrative.md) — Historical frame that uses commodities and everyday products such as coffee or cosmetics to expose trade, labor, public space, state power, and modernization.
 - [Caffeinated Modernity](concepts/CaffeinatedModernity.md) — Coffee as wakefulness, anti-alcohol contrast, rational-public symbolism, workplace endurance, and a source-scoped support for modern social rhythms.
-- [Coffeehouse Public Sphere](concepts/CoffeehousePublicSphere.md) — Semi-public coffeehouse space where alert conversation, literature, theater talk, gossip, criticism, taxation, and surveillance develop together.
+- [Coffeehouse Public Sphere](concepts/CoffeehousePublicSphere.md) — Semi-public coffeehouse space where conversation, information, criticism, surveillance, Enlightenment exchange, and low-commitment social testing develop together.
 - [Coffee Commodity Politics](concepts/CoffeeCommodityPolitics.md) — Coffee's state, trade, monopoly, speculation, producer-protection, localization, and institutional-ownership layer.
 - [Cthulhu Mythos / 克苏鲁神话](concepts/CthulhuMythos.md) — Open, shared weird-fiction field built through Lovecraft, Smith, Derleth, magazine networks, cosmic horror, and later systematization.
 - [Cosmic Horror](concepts/CosmicHorror.md) — Horror of unknown age, scale, depth, and nonhuman priority, extended by episode 73 from dread into Smith's ornate and comic cosmic demotion.

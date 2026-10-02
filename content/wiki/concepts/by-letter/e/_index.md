@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9391
+wiki_total_pages: 9394
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -653,6 +653,15 @@ wiki_pages:
   - key: "EnjoymentVsPleasure"
     title: "Enjoyment Vs Pleasure"
     url: "/wiki/concepts/enjoymentvspleasure/"
+  - key: "Enlightenment"
+    title: "Enlightenment"
+    url: "/wiki/concepts/enlightenment/"
+  - key: "EnlightenmentSocialInfrastructure"
+    title: "Enlightenment Social Infrastructure"
+    url: "/wiki/concepts/enlightenmentsocialinfrastructure/"
+  - key: "EnlightenmentUniversalismColonialHierarchy"
+    title: "Enlightenment Universalism and Colonial Hierarchy"
+    url: "/wiki/concepts/enlightenmentuniversalismcolonialhierarchy/"
   - key: "EnslavedSelfEmancipation"
     title: "Enslaved Self-Emancipation"
     url: "/wiki/concepts/enslavedselfemancipation/"

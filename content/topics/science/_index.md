@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1421
+topic_total_pages: 1424
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -715,6 +715,12 @@ topic_concepts:
   - key: "EnjoymentVsPleasure"
     title: "Enjoyment Vs Pleasure"
     url: "/wiki/concepts/enjoymentvspleasure/"
+  - key: "Enlightenment"
+    title: "Enlightenment"
+    url: "/wiki/concepts/enlightenment/"
+  - key: "EnlightenmentSocialInfrastructure"
+    title: "Enlightenment Social Infrastructure"
+    url: "/wiki/concepts/enlightenmentsocialinfrastructure/"
   - key: "EnvironmentOverWillpower"
     title: "Environment Over Willpower"
     url: "/wiki/concepts/environmentoverwillpower/"
@@ -3573,6 +3579,9 @@ topic_sources:
   - key: "70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394"
     title: "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊"
     url: "/wiki/sources/70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394/"
+  - key: "86-the-enlightenment-glt8077157127"
+    title: "86. The Enlightenment"
+    url: "/wiki/sources/86-the-enlightenment-glt8077157127/"
   - key: "86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437"
     title: "86.打开一颗心：那美好的仗，我已经打过了"
     url: "/wiki/sources/86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437/"

@@ -36337,9 +36337,9 @@
       "url": "/wiki/entities/christiandior/"
     },
     "ChristianInheritanceOfEnlightenmentRights": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8413639265 [GLT8413639265].md",
@@ -36347,9 +36347,16 @@
           "show": "The Rest Is History",
           "title": "480. The French Revolution: The Rights of Man (Part 6)",
           "url": "/wiki/sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265/"
+        },
+        {
+          "episode_file": "GLT8077157127 [GLT8077157127].md",
+          "key": "86-the-enlightenment-glt8077157127",
+          "show": "The Rest Is History",
+          "title": "86. The Enlightenment",
+          "url": "/wiki/sources/86-the-enlightenment-glt8077157127/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/christianinheritanceofenlightenmentrights/"
     },
     "ChristianXOfDenmark": {
@@ -39056,6 +39063,36 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/coffeesourcingwork/"
+    },
+    "CoffeehousePublicSphere": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP246 让女生安心的约会小酒馆，什么样？ [lpD5zw9rYD3KPlMNAYwsOqOkvakm].md",
+          "key": "ep246-rang-nvsheng-anxin-de-yuehui-xiaojiuguan-shenme-yang-lpd5zw9ryd3kplmnaywsoqokvakm",
+          "show": "Talk三联",
+          "title": "EP246 让女生安心的约会小酒馆，什么样？",
+          "url": "/wiki/sources/ep246-rang-nvsheng-anxin-de-yuehui-xiaojiuguan-shenme-yang-lpd5zw9ryd3kplmnaywsoqokvakm/"
+        },
+        {
+          "episode_file": "74.全球上瘾：啊，咖啡！我黑色的阿波罗！ [678615763].md",
+          "key": "74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763",
+          "show": "蜜獾吃书",
+          "title": "74.全球上瘾：啊，咖啡！我黑色的阿波罗！",
+          "url": "/wiki/sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763/"
+        },
+        {
+          "episode_file": "GLT8077157127 [GLT8077157127].md",
+          "key": "86-the-enlightenment-glt8077157127",
+          "show": "The Rest Is History",
+          "title": "86. The Enlightenment",
+          "url": "/wiki/sources/86-the-enlightenment-glt8077157127/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/coffeehousepublicsphere/"
     },
     "CognitiveAdvisoryFeedback": {
       "episode_count": 1,
@@ -48448,9 +48485,9 @@
       "url": "/wiki/entities/davidgoggins/"
     },
     "DavidHume": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -48458,9 +48495,16 @@
           "show": "The Rest Is History",
           "title": "684. Franklin: Revenge of the American Genius (Part 2)",
           "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        },
+        {
+          "episode_file": "GLT8077157127 [GLT8077157127].md",
+          "key": "86-the-enlightenment-glt8077157127",
+          "show": "The Rest Is History",
+          "title": "86. The Enlightenment",
+          "url": "/wiki/sources/86-the-enlightenment-glt8077157127/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/davidhume/"
     },
     "DavidHunt": {
@@ -50609,6 +50653,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/deniablepatronagesignaling/"
+    },
+    "DenisDiderot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8077157127 [GLT8077157127].md",
+          "key": "86-the-enlightenment-glt8077157127",
+          "show": "The Rest Is History",
+          "title": "86. The Enlightenment",
+          "url": "/wiki/sources/86-the-enlightenment-glt8077157127/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/denisdiderot/"
     },
     "DenisHealey": {
       "episode_count": 4,
@@ -62953,6 +63013,54 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/enjoymentvspleasure/"
     },
+    "Enlightenment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8077157127 [GLT8077157127].md",
+          "key": "86-the-enlightenment-glt8077157127",
+          "show": "The Rest Is History",
+          "title": "86. The Enlightenment",
+          "url": "/wiki/sources/86-the-enlightenment-glt8077157127/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/enlightenment/"
+    },
+    "EnlightenmentSocialInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8077157127 [GLT8077157127].md",
+          "key": "86-the-enlightenment-glt8077157127",
+          "show": "The Rest Is History",
+          "title": "86. The Enlightenment",
+          "url": "/wiki/sources/86-the-enlightenment-glt8077157127/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/enlightenmentsocialinfrastructure/"
+    },
+    "EnlightenmentUniversalismColonialHierarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8077157127 [GLT8077157127].md",
+          "key": "86-the-enlightenment-glt8077157127",
+          "show": "The Rest Is History",
+          "title": "86. The Enlightenment",
+          "url": "/wiki/sources/86-the-enlightenment-glt8077157127/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/enlightenmentuniversalismcolonialhierarchy/"
+    },
     "EnochPowell": {
       "episode_count": 1,
       "show_count": 1,
@@ -75069,9 +75177,9 @@
       "url": "/wiki/concepts/freedomdutyandselfhood/"
     },
     "Freemasonry": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4122245847 [GLT4122245847].md",
@@ -75079,9 +75187,16 @@
           "show": "The Rest Is History",
           "title": "335: The Freemasons: History's Greatest Conspiracy Theory",
           "url": "/wiki/sources/335-the-freemasons-historys-greatest-conspiracy-theory-glt4122245847/"
+        },
+        {
+          "episode_file": "GLT8077157127 [GLT8077157127].md",
+          "key": "86-the-enlightenment-glt8077157127",
+          "show": "The Rest Is History",
+          "title": "86. The Enlightenment",
+          "url": "/wiki/sources/86-the-enlightenment-glt8077157127/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/freemasonry/"
     },
     "FremontCalifornia": {
@@ -106098,9 +106213,9 @@
       "url": "/wiki/entities/jeanfrancoischampollion/"
     },
     "JeanJacquesRousseau": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -106129,9 +106244,16 @@
           "show": "The Rest Is History",
           "title": "545. The French Revolution: The First Feminist (Part 2)",
           "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        },
+        {
+          "episode_file": "GLT8077157127 [GLT8077157127].md",
+          "key": "86-the-enlightenment-glt8077157127",
+          "show": "The Rest Is History",
+          "title": "86. The Enlightenment",
+          "url": "/wiki/sources/86-the-enlightenment-glt8077157127/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/jeanjacquesrousseau/"
     },
     "JeanJosephMounier": {
@@ -205633,9 +205755,9 @@
       "url": "/wiki/entities/volodymyrzelensky/"
     },
     "Voltaire": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -205657,9 +205779,16 @@
           "show": "The Rest Is History",
           "title": "411. The Man in the Iron Mask",
           "url": "/wiki/sources/411-the-man-in-the-iron-mask-glt3787137343/"
+        },
+        {
+          "episode_file": "GLT8077157127 [GLT8077157127].md",
+          "key": "86-the-enlightenment-glt8077157127",
+          "show": "The Rest Is History",
+          "title": "86. The Enlightenment",
+          "url": "/wiki/sources/86-the-enlightenment-glt8077157127/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/voltaire/"
     },
     "VoluntaryAISafetyCommitments": {

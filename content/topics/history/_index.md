@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2437
+topic_total_pages: 2438
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6348,6 +6348,9 @@ topic_sources:
   - key: "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209"
     title: "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）"
     url: "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+  - key: "86-the-enlightenment-glt8077157127"
+    title: "86. The Enlightenment"
+    url: "/wiki/sources/86-the-enlightenment-glt8077157127/"
   - key: "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550"
     title: "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）"
     url: "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"

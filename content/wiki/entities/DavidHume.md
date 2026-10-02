@@ -4,7 +4,8 @@ type: entity
 tags: [person, philosophy, enlightenment, science-history]
 sources:
   - 684-franklin-revenge-of-the-american-genius-part-2-glt6013835340
-last_updated: 2026-08-30
+  - 86-the-enlightenment-glt8077157127
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,35 +13,50 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-David Hume appears in the Franklin episode as the Scottish Enlightenment figure whose praise helps mark Benjamin Franklin as a serious European intellectual celebrity.
+David Hume appears as a Scottish Enlightenment philosopher who limits rationalist self-confidence, validates Benjamin Franklin's European intellectual reputation, and exemplifies the movement's unresolved racial hierarchy.
 
 ## Current Profile
 
-The source uses Hume as a reputational signal. During Franklin's British period, Hume's Edinburgh praise casts Franklin as America's first philosopher and major man of letters. The point is not Hume's own philosophy; it is that Franklin's European reception gave America a scientific and literary representative before independence.
+The Franklin source uses Hume primarily as a reputational signal: his Edinburgh praise casts [[BenjaminFranklin]] as America's first philosopher and a major man of letters. The Enlightenment survey expands the profile by citing Hume's claim that reason serves the passions and by distinguishing British and Scottish institutional contexts from more confrontational French ones.
+
+That expansion also adds a serious moral qualification. The episode attributes racial inferiority claims to Hume while saying he did not support the slave trade. The distinction matters but does not absolve the hierarchy: opposition to a trade can coexist with racist classification.
 
 ## Key Characteristics
 
-- Scottish Enlightenment figure used as evidence of Franklin's European intellectual recognition.
-- Praised Franklin as America's first philosopher and a major man of letters in the episode's account.
-- Helps connect Franklin's science and literary reputation to [[DiplomaticPersonaAsStrategicAsset|diplomatic persona]] before the French mission.
+- Scottish Enlightenment figure skeptical of sovereign or self-sufficient reason.
+- Participant in a university and intellectual culture presented as comparatively establishment-aligned.
+- Important validator of Franklin's European intellectual celebrity.
+- Example of how racial hierarchy could coexist with opposition to the slave trade.
 
 ## Evidence
 
-- Praise of Franklin: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] says Hume praised Franklin in Edinburgh as America's first philosopher and major man of letters.
-- Reputational setting: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] places the Hume praise in the section on Franklin's Enlightenment celebrity and scientific standing.
-- Strategic relevance: [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] later treats Franklin's fame as part of why he was useful in France.
+### Reason and Enlightenment context
+
+- [[86-the-enlightenment-glt8077157127]] cites Hume's reason-and-passions formula and places him within the Scottish Enlightenment.
+
+### Racial hierarchy and slavery qualification
+
+- [[86-the-enlightenment-glt8077157127]] attributes claims of African inferiority to Hume while distinguishing them from endorsement of the slave trade.
+
+### Franklin's reputation
+
+- [[684-franklin-revenge-of-the-american-genius-part-2-glt6013835340]] uses Hume's Edinburgh praise to mark Franklin as a major European-recognized intellectual before independence.
 
 ## Qualifications
 
-The page is source-scoped to Hume's role as a Franklin reputation marker. It does not summarize Hume's philosophy or his broader relationship to the American Revolution.
+- Both episodes are broad narrative sources rather than complete reconstructions of Hume's philosophy or the textual development of his racial views.
+- The reason-and-passions formula should not be expanded into a claim that Hume rejected reasoning altogether.
+- Opposition to the slave trade qualifies but does not erase racist hierarchy.
 
 ## What Changed
 
-- Created Hume as the Enlightenment reputation marker in Franklin's European celebrity.
+- Expanded Hume from a Franklin reputation marker into a qualified profile of reason, Scottish institutions, and racial hierarchy.
 
 ## Relationships
 
-- [[BenjaminFranklin]] - American figure whose reputation Hume validates in the source.
-- [[PuritanEnlightenmentPracticalEthic]] - concept linking Franklin's moral writing and practical science.
+- [[BenjaminFranklin]] - American figure whose European reputation Hume validates.
+- [[Enlightenment]] - wider formation in which Hume represents skeptical reason and Scottish institutional life.
+- [[EnlightenmentUniversalismColonialHierarchy]] - tension exposed by racial classification beside universal inquiry.
+- [[PuritanEnlightenmentPracticalEthic]] - Franklin's moral and experimental synthesis.
 - [[DiplomaticPersonaAsStrategicAsset]] - later use of intellectual celebrity as diplomatic leverage.
-- [[RoyalSociety]] - adjacent scientific-reputation institution in Franklin's profile.
+- [[JeanJacquesRousseau]] - fellow thinker and later personal antagonist in the survey's account.
