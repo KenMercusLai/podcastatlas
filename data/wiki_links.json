@@ -3371,6 +3371,10 @@
     "title": "89.剑桥夜攀者：让我们庄严地上房揭瓦",
     "url": "/wiki/sources/89-jianqiao-yepanzhe-rang-women-zhuangyan-de-shangfang-jiewa-710382629/"
   },
+  "90-the-western-front-glt9972346188": {
+    "title": "90. The Western Front",
+    "url": "/wiki/sources/90-the-western-front-glt9972346188/"
+  },
   "90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933": {
     "title": "90.酉阳杂俎：血滴子和武则天手指上的黑毛",
     "url": "/wiki/sources/90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933/"
@@ -24151,6 +24155,10 @@
     "title": "Douglas Adams / 道格拉斯·亚当斯",
     "url": "/wiki/entities/douglasadams/"
   },
+  "DouglasHaig": {
+    "title": "Douglas Haig",
+    "url": "/wiki/entities/douglashaig/"
+  },
   "Doushenshen": {
     "title": "Doushenshen",
     "url": "/wiki/entities/doushenshen/"
@@ -31946,6 +31954,10 @@
   "GaryMarcus": {
     "title": "Gary Marcus",
     "url": "/wiki/entities/garymarcus/"
+  },
+  "GarySheffield": {
+    "title": "Gary Sheffield",
+    "url": "/wiki/entities/garysheffield/"
   },
   "GaryStark": {
     "title": "Gary Stark",
@@ -82423,6 +82435,14 @@
     "title": "Western Front (First World War)",
     "url": "/wiki/entities/westernfrontfirstworldwar/"
   },
+  "WesternFrontMilitaryLearning": {
+    "title": "Western Front Military Learning",
+    "url": "/wiki/concepts/westernfrontmilitarylearning/"
+  },
+  "WesternFrontPopularMemory": {
+    "title": "Western Front Popular Memory",
+    "url": "/wiki/concepts/westernfrontpopularmemory/"
+  },
   "WesternHanDynasty": {
     "title": "Western Han dynasty / 西汉",
     "url": "/wiki/entities/westernhandynasty/"
@@ -82758,6 +82778,10 @@
   "WildlifeTourismSpectacle": {
     "title": "Wildlife Tourism Spectacle",
     "url": "/wiki/concepts/wildlifetourismspectacle/"
+  },
+  "WilfredOwen": {
+    "title": "Wilfred Owen",
+    "url": "/wiki/entities/wilfredowen/"
   },
   "WillCreeley": {
     "title": "Will Creeley",

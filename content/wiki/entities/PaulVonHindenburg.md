@@ -7,7 +7,8 @@ sources:
   - 298-the-nazis-total-power-part-4-glt6097237943
   - 297-the-nazis-hitlers-triumph-part-3-glt2055084600
   - 296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386
-last_updated: 2026-09-29
+  - 90-the-western-front-glt9972346188
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,9 +16,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Paul von Hindenburg was the German president whose conservative authority sustained decree government, ultimately placed [[AdolfHitler]] in the chancellorship, legitimated the 1933 emergency transition, increased pressure for the 1934 purge, and whose death opened the way for Hitler to merge the head-of-state office into personal rule.
+Paul von Hindenburg was a German wartime military leader and later president whose authority spans the failed 1918 offensive gamble, the stab-in-the-back afterlife of defeat, decree government, Hitler's appointment, the 1933 emergency transition, pressure for the 1934 purge, and the final merger of the head-of-state office into personal rule.
 
 ## Current Profile
+
+[[90-the-western-front-glt9972346188]] places Hindenburg with [[ErichLudendorff]] in a high command that chose a western battlefield gamble after Russia's defeat rather than seeking a favorable settlement. The offensive did not destroy the Allies, and the episode argues that Germany's army was beaten in 1918 even though armistice before occupation later enabled military leaders to redirect blame toward civilians, Jews, and Bolsheviks.
 
 The early episode places Hindenburg's 1925 election after [[FriedrichEbert]]'s death. The aging monarchist sought the exiled Kaiser's approval before running and entered the presidency surrounded by advisers hostile to democracy, putting an anti-Weimar figure at the center of the republic's constitutional order.
 
@@ -34,15 +37,16 @@ After the [[NightOfTheLongKnives|Night of the Long Knives]], the army accepted H
 ## Key Characteristics
 
 - His monarchism, anti-Weimar advisory circle, and presidential authority made his accession a legitimacy problem and later helped conservative elites make Hitler chancellor.
+- His wartime prestige rested beside responsibility for the failed 1918 offensive gamble and the political afterlife of defeat.
 - He sustained successive governments through Article 48 after parliamentary majority rule broke down.
 - He initially refused Hitler the chancellorship before accepting a conservative containment bargain.
 - His public symbolism and emergency authority presented Nazi power as national continuity while enabling constitutional dismantling.
-- His declining health made succession politics urgent in 1934.
-- His pressure aligned with army demands to suppress party disorder.
+- His declining health made succession politics urgent in 1934 while his pressure aligned with army demands to suppress party disorder.
 - His death enabled the merger of presidency and chancellorship under Hitler.
 
 ## Evidence
 
+- Wartime strategy and defeat: [[90-the-western-front-glt9972346188]] links Hindenburg and Ludendorff to the failed 1918 offensive choice and the later displacement of responsibility through the stab-in-the-back account.
 - Symbolic legitimation: [[298-the-nazis-total-power-part-4-glt6097237943]] connects Hindenburg's window appearance and the Day of Potsdam to the staged respectability of Hitler's transfer of power.
 - Anti-Weimar accession: [[296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386]] connects his 1925 election, monarchism, and advisers to the weakening of republican guardianship.
 - Presidential government: [[297-the-nazis-hitlers-triumph-part-3-glt2055084600]] connects Hindenburg to Brüning's decree rule and the Papen-Schleicher sequence.
@@ -54,12 +58,13 @@ After the [[NightOfTheLongKnives|Night of the Long Knives]], the army accepted H
 
 ## Qualifications
 
-This four-episode profile is not a full account of Hindenburg's presidency or responsibility for Hitler's appointment. Formal presidential authority did not mean he controlled how the Nazis used emergency power, but attempted containment does not remove responsibility for normalizing decree government, appointment, symbolism, or decree. His consultation with the Kaiser, capacity, private intentions, his son's influence, the exact form of the June 1934 threat, and the degree of control during consolidation remain episode-attributed.
+This five-source profile is not a full account of Hindenburg's military leadership, presidency, or responsibility for Hitler's appointment. Formal presidential authority did not mean he controlled how the Nazis used emergency power, but attempted containment does not remove responsibility for normalizing decree government, appointment, symbolism, or decree. The 1918 peace counterfactual, his role in defeat mythology, consultation with the Kaiser, capacity, private intentions, his son's influence, the exact form of the June 1934 threat, and the degree of control during consolidation remain episode-attributed.
 
 ## What Changed
 
 - Extended the profile back to his monarchist 1925 accession and anti-Weimar advisory setting.
 - Connected that legitimacy problem to the later presidential-cabinet sequence without making dictatorship inevitable.
+- Added the 1918 offensive gamble and military-defeat context behind his later political prestige.
 
 ## Relationships
 
@@ -75,3 +80,4 @@ This four-episode profile is not a full account of Hindenburg's presidency or re
 - [[WeimarRepublic]] - constitutional order weakened under the presidential-cabinet sequence.
 - [[FriedrichEbert]] - predecessor whose death opened the presidential election Hindenburg won.
 - [[ErichLudendorff]] - fellow wartime nationalist whose presidential candidacy remained marginal.
+- [[WesternFrontFirstWorldWar]] - theater of the 1918 offensive gamble and defeat.

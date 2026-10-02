@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2433
+topic_total_pages: 2436
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1504,6 +1504,12 @@ topic_concepts:
   - key: "WelshNationalIdentity"
     title: "Welsh National Identity"
     url: "/wiki/concepts/welshnationalidentity/"
+  - key: "WesternFrontMilitaryLearning"
+    title: "Western Front Military Learning"
+    url: "/wiki/concepts/westernfrontmilitarylearning/"
+  - key: "WesternFrontPopularMemory"
+    title: "Western Front Popular Memory"
+    url: "/wiki/concepts/westernfrontpopularmemory/"
   - key: "WesternHanLimitLandAndSlaves"
     title: "Western Han Land and Slave Caps / 西汉限田限奴改革"
     url: "/wiki/concepts/westernhanlimitlandandslaves/"
@@ -6348,6 +6354,9 @@ topic_sources:
   - key: "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997"
     title: "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）"
     url: "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+  - key: "90-the-western-front-glt9972346188"
+    title: "90. The Western Front"
+    url: "/wiki/sources/90-the-western-front-glt9972346188/"
   - key: "91-the-beatles-glt5767145023"
     title: "91. The Beatles"
     url: "/wiki/sources/91-the-beatles-glt5767145023/"

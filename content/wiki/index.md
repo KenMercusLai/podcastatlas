@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [90. The Western Front](sources/90-the-western-front-glt9972346188.md) — The Rest Is History with Gary Sheffield on Western Front stalemate, soldier experience, uneven British learning, Allied victory in 1918, and the later "lions led by donkeys" memory.
 - [91. The Beatles](sources/91-the-beatles-glt5767145023.md) — The Rest Is History on the Beatles as historical actors shaped by postwar austerity, youth markets, religion, empire, celebrity, and mass cultural transmission.
 - [92. Nuclear Weapons](sources/92-nuclear-weapons-glt2236644203.md) — The Rest Is History with Taylor Downing on Able Archer 83, Soviet first-strike fear, deterrence, nuclear accidents, false alarms, and Reagan's later diplomatic turn.
 - [EP188-教师节对话做题家养成师：当代做题界现状答疑](sources/ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3.md) — 无时差研究所 conversation on teacher evaluation, student-welfare boundaries, administrative overload, staffing mismatch, resource equalization, and education's broader value.
@@ -3565,6 +3566,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247.md) — Huberman Lab interview on psychedelic classes, clinical protocols, self-representation, integration, microdosing evidence, persistent perceptual symptoms, risks, and regulation.
 
 ## Entities
+- [Gary Sheffield](entities/GarySheffield.md) — Military historian connecting Western Front structure, soldier experience, uneven learning, 1918 victory, and later popular memory.
+- [Douglas Haig](entities/DouglasHaig.md) — British commander treated as a qualified case of command error, institutional adaptation, coalition judgment, and retrospective caricature.
+- [Wilfred Owen](entities/WilfredOwen.md) — Soldier-poet linking anti-war poetry, gallantry, the final Allied advance, and the cultural memory of doomed youth.
 - [Taylor Downing](entities/TaylorDowning.md) — Historian interpreting Able Archer 83 through Soviet fear, deterrence, technical fragility, and accumulated misreading.
 - [Able Archer 83](entities/AbleArcher83.md) — NATO exercise whose Soviet interpretation made it a central case of cumulative Cold War nuclear misperception.
 - [小雨 / Xiao Yu (physics teacher)](entities/XiaoYuPhysicsTeacher.md) — Source-scoped high-school physics teacher discussing evaluation, care, workload, staffing, and education reform in EP188.
@@ -15674,6 +15678,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
 
 ## Concepts
+- [Western Front Military Learning](concepts/WesternFrontMilitaryLearning.md) — Uneven tactical, organizational, coalition, and logistical adaptation from defensive stalemate to sustained Allied victory.
+- [Western Front Popular Memory](concepts/WesternFrontPopularMemory.md) — Later cultural framing of the front through futile slaughter, betrayed soldiers, anti-war poetry, and incompetent command.
 - [Nuclear Deterrence](concepts/NuclearDeterrence.md) — Conditional restraint through threatened retaliation, qualified by misperception, readiness, technical fragility, and crisis panic.
 - [Nuclear Accident and False-Alarm Risk](concepts/NuclearAccidentAndFalseAlarmRisk.md) — Sociotechnical risk linking weapons accidents, warning errors, command systems, doctrine, and crisis interpretation.
 - [Teacher Evaluation and Care Burden / 教师评价与照护负担](concepts/TeacherEvaluationAndCareBurden.md) — Mismatch between visible score metrics and teachers' wider safety, relational, developmental, and family-facing responsibilities.

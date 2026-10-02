@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9376
+wiki_total_pages: 9378
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -230,6 +230,12 @@ wiki_pages:
   - key: "WesternDragonCulturalSynthesis"
     title: "Western Dragon Cultural Synthesis"
     url: "/wiki/concepts/westerndragonculturalsynthesis/"
+  - key: "WesternFrontMilitaryLearning"
+    title: "Western Front Military Learning"
+    url: "/wiki/concepts/westernfrontmilitarylearning/"
+  - key: "WesternFrontPopularMemory"
+    title: "Western Front Popular Memory"
+    url: "/wiki/concepts/westernfrontpopularmemory/"
   - key: "WesternHanLimitLandAndSlaves"
     title: "Western Han Land and Slave Caps / 西汉限田限奴改革"
     url: "/wiki/concepts/westernhanlimitlandandslaves/"

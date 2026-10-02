@@ -5942,6 +5942,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "90-the-western-front-glt9972346188": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933": [
     {
       "key": "culture",
@@ -85527,6 +85534,20 @@
     }
   ],
   "WesternFrontFirstWorldWar": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "WesternFrontMilitaryLearning": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "WesternFrontPopularMemory": [
     {
       "key": "history",
       "label": "History",

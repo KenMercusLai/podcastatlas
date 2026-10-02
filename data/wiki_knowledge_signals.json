@@ -54406,6 +54406,22 @@
       "updated": "2026-09-03",
       "url": "/wiki/entities/doubaoworkpartner/"
     },
+    "DouglasHaig": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9972346188 [GLT9972346188].md",
+          "key": "90-the-western-front-glt9972346188",
+          "show": "The Rest Is History",
+          "title": "90. The Western Front",
+          "url": "/wiki/sources/90-the-western-front-glt9972346188/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/douglashaig/"
+    },
     "DouyinEcommerce": {
       "episode_count": 1,
       "show_count": 1,
@@ -64060,9 +64076,9 @@
       "url": "/wiki/entities/erichjarvis/"
     },
     "ErichLudendorff": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4099180386 [GLT4099180386].md",
@@ -64070,9 +64086,16 @@
           "show": "The Rest Is History",
           "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
           "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
+        },
+        {
+          "episode_file": "GLT9972346188 [GLT9972346188].md",
+          "key": "90-the-western-front-glt9972346188",
+          "show": "The Rest Is History",
+          "title": "90. The Western Front",
+          "url": "/wiki/sources/90-the-western-front-glt9972346188/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/erichludendorff/"
     },
     "ErnstJunger": {
@@ -71249,9 +71272,9 @@
       "url": "/wiki/entities/firsttriumvirate/"
     },
     "FirstWorldWar": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "GLT1889262052 [GLT1889262052].md",
@@ -71322,9 +71345,16 @@
           "show": "The Rest Is History",
           "title": "118. End of the First World War & Remembrance",
           "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
+        },
+        {
+          "episode_file": "GLT9972346188 [GLT9972346188].md",
+          "key": "90-the-western-front-glt9972346188",
+          "show": "The Rest Is History",
+          "title": "90. The Western Front",
+          "url": "/wiki/sources/90-the-western-front-glt9972346188/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/firstworldwar/"
     },
     "FirstWorldWarGasWarfare": {
@@ -78179,6 +78209,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/garylineker/"
+    },
+    "GarySheffield": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9972346188 [GLT9972346188].md",
+          "key": "90-the-western-front-glt9972346188",
+          "show": "The Rest Is History",
+          "title": "90. The Western Front",
+          "url": "/wiki/sources/90-the-western-front-glt9972346188/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/garysheffield/"
     },
     "GarySteinberg": {
       "episode_count": 1,
@@ -151517,9 +151563,9 @@
       "url": "/wiki/entities/paulrouse/"
     },
     "PaulVonHindenburg": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3861584466 [GLT3861584466].md",
@@ -151548,9 +151594,16 @@
           "show": "The Rest Is History",
           "title": "296: The Nazis: The Beer Hall Putsch (Part 2)",
           "url": "/wiki/sources/296-the-nazis-the-beer-hall-putsch-part-2-glt4099180386/"
+        },
+        {
+          "episode_file": "GLT9972346188 [GLT9972346188].md",
+          "key": "90-the-western-front-glt9972346188",
+          "show": "The Rest Is History",
+          "title": "90. The Western Front",
+          "url": "/wiki/sources/90-the-western-front-glt9972346188/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/paulvonhindenburg/"
     },
     "PaulaMejia": {
@@ -199562,9 +199615,9 @@
       "url": "/wiki/entities/treatyoftroyes/"
     },
     "TrenchLifeWesternFront": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2309179565 [GLT2309179565].md",
@@ -199572,9 +199625,16 @@
           "show": "The Rest Is History",
           "title": "671. The First World War: Blood in the Trenches (Part 1)",
           "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        },
+        {
+          "episode_file": "GLT9972346188 [GLT9972346188].md",
+          "key": "90-the-western-front-glt9972346188",
+          "show": "The Rest Is History",
+          "title": "90. The Western Front",
+          "url": "/wiki/sources/90-the-western-front-glt9972346188/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/trenchlifewesternfront/"
     },
     "TrenchSanitationDiseaseBurden": {
@@ -209903,9 +209963,9 @@
       "url": "/wiki/concepts/westerndragonculturalsynthesis/"
     },
     "WesternFrontFirstWorldWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2309179565 [GLT2309179565].md",
@@ -209913,10 +209973,56 @@
           "show": "The Rest Is History",
           "title": "671. The First World War: Blood in the Trenches (Part 1)",
           "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        },
+        {
+          "episode_file": "GLT9972346188 [GLT9972346188].md",
+          "key": "90-the-western-front-glt9972346188",
+          "show": "The Rest Is History",
+          "title": "90. The Western Front",
+          "url": "/wiki/sources/90-the-western-front-glt9972346188/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/westernfrontfirstworldwar/"
+    },
+    "WesternFrontMilitaryLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9972346188 [GLT9972346188].md",
+          "key": "90-the-western-front-glt9972346188",
+          "show": "The Rest Is History",
+          "title": "90. The Western Front",
+          "url": "/wiki/sources/90-the-western-front-glt9972346188/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/westernfrontmilitarylearning/"
+    },
+    "WesternFrontPopularMemory": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT2309179565 [GLT2309179565].md",
+          "key": "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565",
+          "show": "The Rest Is History",
+          "title": "671. The First World War: Blood in the Trenches (Part 1)",
+          "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        },
+        {
+          "episode_file": "GLT9972346188 [GLT9972346188].md",
+          "key": "90-the-western-front-glt9972346188",
+          "show": "The Rest Is History",
+          "title": "90. The Western Front",
+          "url": "/wiki/sources/90-the-western-front-glt9972346188/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/westernfrontpopularmemory/"
     },
     "WesternHanImperialLongevityComparison": {
       "episode_count": 1,
@@ -210508,6 +210614,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/wildlifeinstituteofindia/"
+    },
+    "WilfredOwen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9972346188 [GLT9972346188].md",
+          "key": "90-the-western-front-glt9972346188",
+          "show": "The Rest Is History",
+          "title": "90. The Western Front",
+          "url": "/wiki/sources/90-the-western-front-glt9972346188/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/wilfredowen/"
     },
     "WillCreeley": {
       "episode_count": 1,

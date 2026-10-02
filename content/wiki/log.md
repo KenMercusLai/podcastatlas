@@ -28037,3 +28037,10 @@ Added source `91-the-beatles-glt5767145023`; created `JohnLennon` and `PopularMu
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-03] ingest | 90. The Western Front
+
+Added source `90-the-western-front-glt9972346188`; created `GarySheffield`, `DouglasHaig`, `WilfredOwen`, `WesternFrontMilitaryLearning`, and `WesternFrontPopularMemory`; and resynthesized `WesternFrontFirstWorldWar`, `TrenchLifeWesternFront`, `FirstWorldWar`, `PaulVonHindenburg`, and `ErichLudendorff` from their complete preserved evidence inventories. Core synthesis: industrial firepower, communications, and mass armies created a genuine offensive problem; soldier life mixed danger with routine, faith, and comradeship; British and Allied learning was costly and uneven but operationally consequential; and later "lions led by donkeys" memory preserved real suffering while often obscuring adaptation and Germany's military defeat. No settled contradiction was adopted. Command judgments, German peace options, comparative army quality, religion, veteran memory, and cultural causation remain British-centered and source-scoped. The downstream history-and-geopolitics topic was refreshed to 3,504-source coverage and global compaction ran because the new candidate materially changed the landing-page map. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

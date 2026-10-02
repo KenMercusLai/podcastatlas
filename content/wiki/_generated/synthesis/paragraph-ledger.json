@@ -777,12 +777,13 @@
       "97ddacf9f023b1e5680c7127d46e96f638420591d4635592343ca4adfb26f62c",
       "70e5e81c25e66f1fe8d857b47ca94527789bb83f586564a97e0909e64e3dadf6",
       "9997fb9b346fa7223de58d73e84f180b8864b249000cade39b9408903896c2cc",
-      "16601a21e79111590dec9aaa39aaf37cda533c18f62b03ad841cc2b74da82008"
+      "16601a21e79111590dec9aaa39aaf37cda533c18f62b03ad841cc2b74da82008",
+      "63a515e020a9c43959a46584faeb8b50d6d1df53ac7fcb6403fbaa521cb5881a"
     ],
-    "paragraph_count": 777
+    "paragraph_count": 778
   },
-  "overview_commit": "abb27a3238a60d527dcccc1b673cd1f44c8deaaa",
-  "overview_digest": "c0e6151bf2cb060530c8227dba14d59127a3e26596a378411cfc13f6ca37c82f",
+  "overview_commit": "b5366770d624da19085963668b28ae4c3b85d714",
+  "overview_digest": "b75c6780a91d5313a6eeea4ea55c7a33cbeab4a6a638c709a55351ae219cd495",
   "paragraphs": [
     {
       "id": "7dde7eaae3c6f328bcf2828bece9fa5c46f700d145542c9dad39c7e60954c10d",
@@ -22782,6 +22783,30 @@
         "TheBeatles",
         "TheRestIsHistory",
         "WarOf1812"
+      ]
+    },
+    {
+      "id": "63a515e020a9c43959a46584faeb8b50d6d1df53ac7fcb6403fbaa521cb5881a",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[90-the-western-front-glt9972346188|90. The Western Front]], a [[TheRestIsHistory]] episode with [[GarySheffield]] reassessing the [[WesternFrontFirstWorldWar|Western Front]] from 1914 stalemate through the Allied victory of 1918 and its cultural afterlife. It adds [[GarySheffield]], [[DouglasHaig]], [[WilfredOwen]], [[WesternFrontMilitaryLearning]], and [[WesternFrontPopularMemory]], while extending [[FirstWorldWar]], [[TrenchLifeWesternFront]], [[PaulVonHindenburg]], and [[ErichLudendorff]]. Its core synthesis is that industrial firepower, communications, and mass armies created a genuine offensive problem; soldier life mixed danger with routine, faith, and comradeship; British and Allied learning was costly and uneven but operationally consequential; and later \"lions led by donkeys\" memory preserved real suffering while often obscuring adaptation and Germany's military defeat. No settled contradiction is recorded; command judgments, German peace options, comparative army quality, religion, veteran memory, and cultural causation remain British-centered and source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "90-the-western-front-glt9972346188",
+        "DouglasHaig",
+        "ErichLudendorff",
+        "FirstWorldWar",
+        "GarySheffield",
+        "PaulVonHindenburg",
+        "TheRestIsHistory",
+        "TrenchLifeWesternFront",
+        "WesternFrontFirstWorldWar",
+        "WesternFrontMilitaryLearning",
+        "WesternFrontPopularMemory",
+        "WilfredOwen"
       ]
     }
   ],
