@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9334
+wiki_total_pages: 9340
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -221,6 +221,15 @@ wiki_pages:
   - key: "TCMWinterSelfCareBoundary"
     title: "TCM Winter Self-Care Boundary / 中医冬季养生边界"
     url: "/wiki/concepts/tcmwinterselfcareboundary/"
+  - key: "TeaCommercializationQualityParadox"
+    title: "Tea Commercialization Quality Paradox / 名茶商业化质量悖论"
+    url: "/wiki/concepts/teacommercializationqualityparadox/"
+  - key: "TeaMarketAuthenticity"
+    title: "Tea Market Authenticity / 茶叶市场真实性"
+    url: "/wiki/concepts/teamarketauthenticity/"
+  - key: "TeaTerroirAndCraft"
+    title: "Tea Terroir and Craft / 茶叶风土与工艺"
+    url: "/wiki/concepts/teaterroirandcraft/"
   - key: "TeacherAIAugmentation"
     title: "Teacher AI Augmentation"
     url: "/wiki/concepts/teacheraiaugmentation/"

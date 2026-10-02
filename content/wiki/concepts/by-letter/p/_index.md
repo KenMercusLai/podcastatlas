@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9334
+wiki_total_pages: 9340
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2231,6 +2231,9 @@ wiki_pages:
   - key: "PTSDHomecomingNarrative"
     title: "PTSD Homecoming Narrative / 创伤版回家叙事"
     url: "/wiki/concepts/ptsdhomecomingnarrative/"
+  - key: "PuerTeaFinancialization"
+    title: "Pu'er Tea Financialization / 普洱茶金融化"
+    url: "/wiki/concepts/puerteafinancialization/"
   - key: "PublicAEDAccessReadiness"
     title: "Public AED Access Readiness / 公共AED可及性准备"
     url: "/wiki/concepts/publicaedaccessreadiness/"

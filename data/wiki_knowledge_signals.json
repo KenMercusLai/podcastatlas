@@ -35378,6 +35378,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/chinesesuperleague/"
     },
+    "ChineseTeaTraditionReconstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lighspj-Fv3GgyUj1wURPDbGXhza [lighspj-Fv3GgyUj1wURPDbGXhza].md",
+          "key": "505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza",
+          "show": "忽左忽右",
+          "title": "505 茶海轶闻：与王恺漫谈中国茶的真假传说",
+          "url": "/wiki/sources/505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/chineseteatraditionreconstruction/"
+    },
     "ChineseWarMemoryReconciliation": {
       "episode_count": 1,
       "show_count": 1,
@@ -56168,6 +56184,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/earthrisephoto/"
+    },
+    "EastAsianTeaCulturalExchange": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lighspj-Fv3GgyUj1wURPDbGXhza [lighspj-Fv3GgyUj1wURPDbGXhza].md",
+          "key": "505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza",
+          "show": "忽左忽右",
+          "title": "505 茶海轶闻：与王恺漫谈中国茶的真假传说",
+          "url": "/wiki/sources/505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/eastasianteaculturalexchange/"
     },
     "EastGermanIdentityAfterlife": {
       "episode_count": 1,
@@ -161180,6 +161212,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/publiussulpiciusrufus/"
     },
+    "PuerTeaFinancialization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lighspj-Fv3GgyUj1wURPDbGXhza [lighspj-Fv3GgyUj1wURPDbGXhza].md",
+          "key": "505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza",
+          "show": "忽左忽右",
+          "title": "505 茶海轶闻：与王恺漫谈中国茶的真假传说",
+          "url": "/wiki/sources/505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/puerteafinancialization/"
+    },
     "PuerYunnan": {
       "episode_count": 1,
       "show_count": 1,
@@ -191513,6 +191561,54 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/teaclubbarroviansociety/"
     },
+    "TeaCommercializationQualityParadox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lighspj-Fv3GgyUj1wURPDbGXhza [lighspj-Fv3GgyUj1wURPDbGXhza].md",
+          "key": "505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza",
+          "show": "忽左忽右",
+          "title": "505 茶海轶闻：与王恺漫谈中国茶的真假传说",
+          "url": "/wiki/sources/505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/teacommercializationqualityparadox/"
+    },
+    "TeaMarketAuthenticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lighspj-Fv3GgyUj1wURPDbGXhza [lighspj-Fv3GgyUj1wURPDbGXhza].md",
+          "key": "505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza",
+          "show": "忽左忽右",
+          "title": "505 茶海轶闻：与王恺漫谈中国茶的真假传说",
+          "url": "/wiki/sources/505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/teamarketauthenticity/"
+    },
+    "TeaTerroirAndCraft": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lighspj-Fv3GgyUj1wURPDbGXhza [lighspj-Fv3GgyUj1wURPDbGXhza].md",
+          "key": "505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza",
+          "show": "忽左忽右",
+          "title": "505 茶海轶闻：与王恺漫谈中国茶的真假传说",
+          "url": "/wiki/sources/505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/teaterroirandcraft/"
+    },
     "TeacherAIAugmentation": {
       "episode_count": 2,
       "show_count": 2,
@@ -204560,6 +204656,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/wangjunxingeneral/"
+    },
+    "WangKaiTeaWriter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lighspj-Fv3GgyUj1wURPDbGXhza [lighspj-Fv3GgyUj1wURPDbGXhza].md",
+          "key": "505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza",
+          "show": "忽左忽右",
+          "title": "505 茶海轶闻：与王恺漫谈中国茶的真假传说",
+          "url": "/wiki/sources/505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/wangkaiteawriter/"
     },
     "WangKangLateHan": {
       "episode_count": 1,

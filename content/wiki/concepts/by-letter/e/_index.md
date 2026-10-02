@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9334
+wiki_total_pages: 9340
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "EastAsianEducationCostPressure"
     title: "East Asian Education Cost Pressure / 东亚教育成本压力"
     url: "/wiki/concepts/eastasianeducationcostpressure/"
+  - key: "EastAsianTeaCulturalExchange"
+    title: "East Asian Tea Cultural Exchange / 东亚茶文化互塑"
+    url: "/wiki/concepts/eastasianteaculturalexchange/"
   - key: "EastAsianTigers"
     title: "East Asian Tigers"
     url: "/wiki/concepts/eastasiantigers/"

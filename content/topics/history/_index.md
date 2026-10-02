@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2419
+topic_total_pages: 2420
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -184,6 +184,9 @@ topic_concepts:
   - key: "ChineseAstrologicalPolitics"
     title: "Chinese Astrological Politics / 中国星占政治"
     url: "/wiki/concepts/chineseastrologicalpolitics/"
+  - key: "ChineseTeaTraditionReconstruction"
+    title: "Chinese Tea Tradition Reconstruction / 中国茶传统重构"
+    url: "/wiki/concepts/chineseteatraditionreconstruction/"
   - key: "ChivalricRomanceWarMemory"
     title: "Chivalric Romance War Memory"
     url: "/wiki/concepts/chivalricromancewarmemory/"
