@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Science of Hearing, Balance & Accelerated Learning](sources/scim1865244910-scim1865244910.md) — Full-length Huberman Lab episode on micro-rest replay, auditory attention, conditional sound tools, hearing safety, tinnitus boundaries, and visual-vestibular balance training.
 - [EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？](sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf.md) — 无时差研究所 episode on education competition, advance learning, tutoring substitution, school capacity, family coordination, and child-development goals beyond scores.
 - [71. England v Denmark](sources/71-england-v-denmark-glt2805859297.md) — The Rest Is History on Viking pressure and English state formation, Danelaw assimilation, Cnut, Stuart marriage, Copenhagen, literary exchange, wartime alliance, and football.
 - [72. The Vietnam War](sources/72-the-vietnam-war-glt4906340188.md) — The Rest Is History with Andrew Preston on colonial origins, Vietnamese civil-war agency, American intervention and withdrawal, press access, iconic images, and film memory.
@@ -15762,6 +15763,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Micro-Rest Learning Replay](concepts/MicroRestLearningReplay.md) — Practice-design principle using brief wakeful, low-input pauses to create opportunities for offline replay without treating ten seconds as a universal law.
 - [Anglo-Danish Relations](concepts/AngloDanishRelations.md) — Long-run relationship joining invasion, settlement, state formation, dynastic connection, naval violence, cultural exchange, and wartime alliance.
 - [Education Competition Uncertainty Loop / 教育竞争不确定性循环](concepts/EducationCompetitionUncertaintyLoop.md) — Escalation mechanism joining opaque comparison, scarce opportunity, reassurance spending, and rising preparation norms.
 - [Tutoring Restriction Substitution Effect / 校外培训限制的替代效应](concepts/TutoringRestrictionSubstitutionEffect.md) — Policy boundary where persistent selection demand can move tutoring online, into homes, or toward costlier private forms.

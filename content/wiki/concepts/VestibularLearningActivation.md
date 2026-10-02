@@ -6,7 +6,8 @@ sources:
   - essentials-how-hearing-balance-enhance-focus-learning-scim1135697510
   - using-play-to-rewire-improve-your-brain-scim9321743392
   - scim4448895120-scim4448895120
-last_updated: 2026-10-02
+  - scim1865244910-scim1865244910
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,9 +19,9 @@ Vestibular learning activation is the wiki's framework for how safe movement com
 ## Current Synthesis
 The vestibular system is a multisensory control loop rather than an inner-ear balance switch. Semicircular-canal and related signals about rotation, gravity, and acceleration combine with vision, eye position, spinal and brain processing, and body tilt to stabilize gaze and guide static or dynamic balance. The Berson interview strengthens this established branch by explaining compensatory eye movement in darkness, cerebellar calibration, and motion sickness as possible visual-vestibular conflict.
 
-The hearing-and-balance episode moves from coordination to a more tentative learning claim: safely practicing forward acceleration while tilted, as in turning on a bicycle, board, or similar movement, may affect mood and later learning through cerebellar outputs and neuromodulators including serotonin and dopamine. The play episode broadens the activity set to dance, soccer, martial arts, jumping, ducking, leaping, turning, and changing speed. It treats these movements as low-stakes exploratory inputs rather than a universal exercise prescription.
+The hearing-and-balance releases move from coordination to a more tentative learning claim: safely practicing forward acceleration while tilted, as in turning on a bicycle, board, or similar movement, may affect mood and later learning through cerebellar outputs and neuromodulators including serotonin and dopamine. The full-length release adds static drills that alternate near and far visual focus during one-leg standing and a practical motion-sickness distinction between gaze that tracks movement and rigid fixation. The play episode broadens the activity set to dance, soccer, martial arts, jumping, ducking, leaping, turning, and changing speed. It treats these movements as low-stakes exploratory inputs rather than a universal exercise prescription.
 
-Across all three sources, the anatomy, gaze-stabilization, sensory-conflict, and movement-specific balance claims are stronger than the brief causal account of pleasure, mood, plasticity, or broad learning transfer. Dynamic practice can train the practiced control problem without establishing that vestibular activation generally enhances later learning.
+Across the evidence, the anatomy, gaze-stabilization, sensory-conflict, and movement-specific balance claims are stronger than the brief causal account of pleasure, mood, plasticity, or broad learning transfer. Dynamic practice can train the practiced control problem without establishing that vestibular activation generally enhances later learning.
 
 ## Key Claims
 - Vestibular organs provide head-motion, acceleration, and gravity-related information across multiple axes.
@@ -37,15 +38,15 @@ Across all three sources, the anatomy, gaze-stabilization, sensory-conflict, and
 - Reflex and calibration - [[scim4448895120-scim4448895120]] describes opposite-direction eye movement during head turns and cerebellar visual-vestibular error correction.
 - Sensory conflict - [[scim4448895120-scim4448895120]] uses phone viewing in a moving car to explain one route to motion sickness.
 - Dynamic practice and learning claim - [[essentials-how-hearing-balance-enhance-focus-learning-scim1135697510]] links tilted acceleration in cycling, skateboarding, surfing, or snowboarding to balance training, mood, and subsequent learning.
+- Static practice and motion context - [[scim1865244910-scim1865244910]] adds near-to-far visual focus during single-leg standing and describes visual-motion mismatch during phone or book use in a moving vehicle.
 - Play movement range - [[using-play-to-rewire-improve-your-brain-scim9321743392]] contrasts repetitive linear movement with dance, soccer, martial arts, and other activities requiring changing speed, angle, height, balance, and visual orientation.
 
 ## Counterevidence & Qualifications
-The sources do not provide effect sizes, populations, training doses, or evidence that a particular activity improves general learning. The play episode's cerebellar and plasticity-transfer claims do not establish that novelty alone is beneficial, and the Berson interview explicitly leaves pleasure from movement unresolved. Cycling, skateboarding, surfing, snowboarding, martial arts, and field sports add fall, collision, environmental, and skill risks. Persistent dizziness, imbalance, hearing change, injury, or vestibular symptoms may require qualified assessment rather than self-experimentation.
+The sources do not provide effect sizes, populations, training doses, or evidence that a particular activity improves general learning. The full and Essentials hearing releases substantially overlap and are not independent confirmation. The play episode's cerebellar and plasticity-transfer claims do not establish that novelty alone is beneficial, and the Berson interview explicitly leaves pleasure from movement unresolved. Cycling, skateboarding, surfing, snowboarding, martial arts, and field sports add fall, collision, environmental, and skill risks. Persistent dizziness, imbalance, hearing change, injury, or vestibular symptoms may require qualified assessment rather than self-experimentation.
 
 ## What Changed
-- Added direct gaze-reflex, cerebellar calibration, and sensory-conflict mechanisms.
-- Strengthened the distinction between established balance control and uncertain mood or general-learning transfer.
-- Added motion sickness as a failure mode of multisensory alignment rather than a training effect.
+- Added the full-length source's static visual-focus drill and motion-context detail.
+- Kept movement-specific balance learning stronger than general mood or learning-transfer claims.
 
 ## Related Concepts
 - [[VisualVestibularStabilization]] - mechanism-centered account of gaze reflexes, calibration, and sensory conflict.

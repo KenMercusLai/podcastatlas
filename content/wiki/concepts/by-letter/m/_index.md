@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9422
+wiki_total_pages: 9423
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "MicroHappiness"
     title: "Micro-Happiness"
     url: "/wiki/concepts/microhappiness/"
+  - key: "MicroRestLearningReplay"
+    title: "Micro-Rest Learning Replay"
+    url: "/wiki/concepts/microrestlearningreplay/"
   - key: "MicrobiomeEcologicalResilience"
     title: "Microbiome Ecological Resilience"
     url: "/wiki/concepts/microbiomeecologicalresilience/"

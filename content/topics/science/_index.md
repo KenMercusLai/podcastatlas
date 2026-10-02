@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1428
+topic_total_pages: 1429
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4143,6 +4143,9 @@ topic_sources:
   - key: "scim2344094719-scim2344094719"
     title: "The Science of Gratitude & How to Build a Gratitude Practice"
     url: "/wiki/sources/scim2344094719-scim2344094719/"
+  - key: "scim1865244910-scim1865244910"
+    title: "The Science of Hearing, Balance & Accelerated Learning"
+    url: "/wiki/sources/scim1865244910-scim1865244910/"
   - key: "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890"
     title: "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight"
     url: "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"

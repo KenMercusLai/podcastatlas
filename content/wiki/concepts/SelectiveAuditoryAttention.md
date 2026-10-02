@@ -4,7 +4,8 @@ type: concept
 tags: [neuroscience, hearing, attention, memory, learning]
 sources:
   - essentials-how-hearing-balance-enhance-focus-learning-scim1135697510
-last_updated: 2026-09-21
+  - scim1865244910-scim1865244910
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,9 +15,9 @@ knowledge_schema: synthesis-v1
 Selective auditory attention is the effortful extraction of one sound stream or feature from competing audio, supported by sound-localization cues and targeted listening.
 
 ## Current Synthesis
-The episode connects auditory mechanics to the cocktail-party effect. Interaural timing and the frequency filtering created by outer-ear shape help identify where sound comes from; attention then narrows onto a chosen speaker or feature while suppressing competitors. That selection consumes effort, which helps explain why listening in crowded or noisy settings can be mentally tiring.
+The hearing releases connect auditory mechanics to the cocktail-party effect. Interaural timing and the frequency filtering created by outer-ear shape help identify where sound comes from; attention then narrows onto a chosen speaker or feature while suppressing competitors. That selection consumes effort, which helps explain why listening in crowded or noisy settings can be mentally tiring.
 
-For remembering a new name, the episode recommends a narrow application: deliberately hear the onset and offset sounds rather than trying to analyze every word. The useful principle is to raise the chosen signal's clarity at encoding, not to maintain constant hypervigilance.
+For remembering a new name, both the full and condensed releases recommend a narrow application: deliberately hear the onset and offset sounds rather than trying to analyze every word. The useful principle is to raise the chosen signal's clarity at encoding, not to maintain constant hypervigilance. Because the two releases cover the same episode material, the full version adds detail and provenance rather than independent confirmation.
 
 ## Key Claims
 - The auditory system extracts both what a sound is and where it originates.
@@ -30,12 +31,13 @@ For remembering a new name, the episode recommends a narrow application: deliber
 - Localization mechanics: [[essentials-how-hearing-balance-enhance-focus-learning-scim1135697510]] explains interaural timing, pinna filtering, and the mechanical effect of cupping the ear.
 - Competing streams: [[essentials-how-hearing-balance-enhance-focus-learning-scim1135697510]] describes a narrow cone of auditory attention used to extract one source from a noisy environment.
 - Name-memory tool: [[essentials-how-hearing-balance-enhance-focus-learning-scim1135697510]] recommends attending to onset and offset sounds in a name such as “Jeff.”
+- Full-length account: [[scim1865244910-scim1865244910]] links effortful cocktail-party selection and targeted word-boundary attention to adult auditory-map plasticity while leaving effect size unspecified.
 
 ## Counterevidence & Qualifications
-The episode does not quantify how much the name technique improves recall or compare it with repetition, spelling, visual association, or retrieval practice. Listening effort also depends on hearing ability, language, fatigue, room acoustics, attention, and noise level. The technique is presented for selected information, not every word in continuous speech.
+Neither release quantifies how much the name technique improves recall or compares it with repetition, spelling, visual association, or retrieval practice. Their overlapping content is not replication. Listening effort also depends on hearing ability, language, fatigue, room acoustics, attention, and noise level. The technique is presented for selected information, not every word in continuous speech.
 
 ## What Changed
-- Created a mechanism-to-practice account linking sound localization, the cocktail-party effect, listening effort, and name encoding.
+- Added the full-length release as richer but overlapping evidence and kept the recall benefit unquantified.
 
 ## Related Concepts
 - [[AttentionCapacitySelection]] - broader limited-capacity account of choosing among internal and external signals.

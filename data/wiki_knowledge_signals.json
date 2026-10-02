@@ -90039,9 +90039,9 @@
       "url": "/wiki/concepts/headlesssoftware/"
     },
     "HeadphoneUseHearingRisk": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
@@ -90056,9 +90056,16 @@
           "show": "这病说来话长",
           "title": "VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？",
           "url": "/wiki/sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z/"
+        },
+        {
+          "episode_file": "SCIM1865244910 [SCIM1865244910].md",
+          "key": "scim1865244910-scim1865244910",
+          "show": "Huberman Lab",
+          "title": "The Science of Hearing, Balance & Accelerated Learning",
+          "url": "/wiki/sources/scim1865244910-scim1865244910/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/headphoneusehearingrisk/"
     },
     "HealthCodedFoodLabelLiteracy": {
@@ -136851,6 +136858,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/mickjagger/"
     },
+    "MicroRestLearningReplay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1865244910 [SCIM1865244910].md",
+          "key": "scim1865244910-scim1865244910",
+          "show": "Huberman Lab",
+          "title": "The Science of Hearing, Balance & Accelerated Learning",
+          "url": "/wiki/sources/scim1865244910-scim1865244910/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/microrestlearningreplay/"
+    },
     "MicrobiomeEcologicalResilience": {
       "episode_count": 2,
       "show_count": 1,
@@ -178896,9 +178919,9 @@
       "url": "/wiki/concepts/selectiveanthemcanonization/"
     },
     "SelectiveAuditoryAttention": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1135697510 [SCIM1135697510].md",
@@ -178906,9 +178929,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Hearing & Balance Enhance Focus & Learning",
           "url": "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"
+        },
+        {
+          "episode_file": "SCIM1865244910 [SCIM1865244910].md",
+          "key": "scim1865244910-scim1865244910",
+          "show": "Huberman Lab",
+          "title": "The Science of Hearing, Balance & Accelerated Learning",
+          "url": "/wiki/sources/scim1865244910-scim1865244910/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/selectiveauditoryattention/"
     },
     "SelectiveNeuralStimulationPrecision": {
@@ -186509,9 +186539,9 @@
       "url": "/wiki/concepts/sorenessrecoveryboundary/"
     },
     "SoundBasedStateRegulation": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM1135697510 [SCIM1135697510].md",
@@ -186547,9 +186577,16 @@
           "show": "Huberman Lab",
           "title": "Optimizing Workspace for Productivity, Focus, & Creativity",
           "url": "/wiki/sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757/"
+        },
+        {
+          "episode_file": "SCIM1865244910 [SCIM1865244910].md",
+          "key": "scim1865244910-scim1865244910",
+          "show": "Huberman Lab",
+          "title": "The Science of Hearing, Balance & Accelerated Learning",
+          "url": "/wiki/sources/scim1865244910-scim1865244910/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/soundbasedstateregulation/"
     },
     "SoundsLikeTitanicBook": {
@@ -199845,9 +199882,9 @@
       "url": "/wiki/concepts/timelyretirementriskavoidance/"
     },
     "TinnitusSignalBoundary": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ljV6vMb1UPj03uQJUgLZ6GjNI-xb [ljV6vMb1UPj03uQJUgLZ6GjNI-xb].md",
@@ -199862,9 +199899,16 @@
           "show": "这病说来话长",
           "title": "VOL.49耳鼻咽喉科｜整天戴耳机感觉听力下降、耳鸣？喜欢采耳？这些习惯容易得中耳炎吗？得了中耳炎怎么办？",
           "url": "/wiki/sources/vol-49-erbiyanhouke-zhengtian-dai-erji-ganjue-tingli-xiajiang-erming-xihuan-caier-zhexie-xiguan-rongyi-de-zhongeryan-ma-dele-zhongeryan-zenmeban-lhtgv0oqyrvnm_-gsgj8jgatu26z/"
+        },
+        {
+          "episode_file": "SCIM1865244910 [SCIM1865244910].md",
+          "key": "scim1865244910-scim1865244910",
+          "show": "Huberman Lab",
+          "title": "The Science of Hearing, Balance & Accelerated Learning",
+          "url": "/wiki/sources/scim1865244910-scim1865244910/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/tinnitussignalboundary/"
     },
     "Tiresias": {
@@ -206051,9 +206095,9 @@
       "url": "/wiki/entities/vespasian/"
     },
     "VestibularLearningActivation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1135697510 [SCIM1135697510].md",
@@ -206075,9 +206119,16 @@
           "show": "Huberman Lab",
           "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
           "url": "/wiki/sources/scim4448895120-scim4448895120/"
+        },
+        {
+          "episode_file": "SCIM1865244910 [SCIM1865244910].md",
+          "key": "scim1865244910-scim1865244910",
+          "show": "Huberman Lab",
+          "title": "The Science of Hearing, Balance & Accelerated Learning",
+          "url": "/wiki/sources/scim1865244910-scim1865244910/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/vestibularlearningactivation/"
     },
     "VeterinaryMedicalMisinformation": {
