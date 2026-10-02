@@ -27697,3 +27697,11 @@ Added source `scim2965049301-scim2965049301`; created `DuncanFrench` and `Adapta
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 116. Alexander the Great Part 1
+
+Added source `116-alexander-the-great-part-1-glt3321594885`; created the disambiguated `PhilipIIMacedon`; migrated `Bucephalus` to the synthesis-first schema; and resynthesized `AlexanderTheGreat`, `DariusIII`, `Olympias`, `AchaemenidEmpire`, `AlexanderImperialSuccessionStrategy`, and `AlexanderLegendFormation` from their complete preserved evidence inventories. Core synthesis: Philip II supplied the Macedonian state, army, and invasion platform, while victories from Granicus and Issus through Tyre and Egypt widened Alexander's aims from a bounded punitive expedition into whole-imperial succession; heroic ritual, exemplary violence, local kingship, and self-mythologizing developed alongside military strategy. No settled contradiction was adopted. Philip's assassination, battle sequences, speeches, Darius's flight and offers, royal-family conduct, oracles, dreams, divine belief, and heroic anecdotes remain disputed, literary, or source-scoped, and the absent Persian narrative perspective limits the conqueror-centered account. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,461-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

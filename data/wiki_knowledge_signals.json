@@ -5199,9 +5199,9 @@
       "url": "/wiki/concepts/acetylcholinefocussupport/"
     },
     "AchaemenidEmpire": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -5230,6 +5230,13 @@
           "show": "The Rest Is History",
           "title": "117. Alexander the Great part 2",
           "url": "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
+        },
+        {
+          "episode_file": "GLT3321594885 [GLT3321594885].md",
+          "key": "116-alexander-the-great-part-1-glt3321594885",
+          "show": "The Rest Is History",
+          "title": "116. Alexander the Great Part 1",
+          "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
         }
       ],
       "updated": "2026-10-02",
@@ -8589,9 +8596,9 @@
       "url": "/wiki/entities/alexanderhoyos/"
     },
     "AlexanderImperialSuccessionStrategy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9707946822 [GLT9707946822].md",
@@ -8599,15 +8606,22 @@
           "show": "The Rest Is History",
           "title": "117. Alexander the Great part 2",
           "url": "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
+        },
+        {
+          "episode_file": "GLT3321594885 [GLT3321594885].md",
+          "key": "116-alexander-the-great-part-1-glt3321594885",
+          "show": "The Rest Is History",
+          "title": "116. Alexander the Great Part 1",
+          "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
         }
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/alexanderimperialsuccessionstrategy/"
     },
     "AlexanderLegendFormation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9707946822 [GLT9707946822].md",
@@ -8615,6 +8629,13 @@
           "show": "The Rest Is History",
           "title": "117. Alexander the Great part 2",
           "url": "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
+        },
+        {
+          "episode_file": "GLT3321594885 [GLT3321594885].md",
+          "key": "116-alexander-the-great-part-1-glt3321594885",
+          "show": "The Rest Is History",
+          "title": "116. Alexander the Great Part 1",
+          "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
         }
       ],
       "updated": "2026-10-02",
@@ -8692,9 +8713,9 @@
       "url": "/wiki/entities/alexandershulgin/"
     },
     "AlexanderTheGreat": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
@@ -8723,6 +8744,13 @@
           "show": "The Rest Is History",
           "title": "117. Alexander the Great part 2",
           "url": "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
+        },
+        {
+          "episode_file": "GLT3321594885 [GLT3321594885].md",
+          "key": "116-alexander-the-great-part-1-glt3321594885",
+          "show": "The Rest Is History",
+          "title": "116. Alexander the Great Part 1",
+          "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
         }
       ],
       "updated": "2026-10-02",
@@ -25598,6 +25626,29 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/bubbleschimpanzee/"
+    },
+    "Bucephalus": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感 [959614962].md",
+          "key": "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962",
+          "show": "蜜獾吃书",
+          "title": "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感",
+          "url": "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+        },
+        {
+          "episode_file": "GLT3321594885 [GLT3321594885].md",
+          "key": "116-alexander-the-great-part-1-glt3321594885",
+          "show": "The Rest Is History",
+          "title": "116. Alexander the Great Part 1",
+          "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/bucephalus/"
     },
     "BuddhistSpeechRestraint": {
       "episode_count": 2,
@@ -46368,9 +46419,9 @@
       "url": "/wiki/entities/dariusi/"
     },
     "DariusIII": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9707946822 [GLT9707946822].md",
@@ -46378,6 +46429,13 @@
           "show": "The Rest Is History",
           "title": "117. Alexander the Great part 2",
           "url": "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
+        },
+        {
+          "episode_file": "GLT3321594885 [GLT3321594885].md",
+          "key": "116-alexander-the-great-part-1-glt3321594885",
+          "show": "The Rest Is History",
+          "title": "116. Alexander the Great Part 1",
+          "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
         }
       ],
       "updated": "2026-10-02",
@@ -144341,9 +144399,9 @@
       "url": "/wiki/entities/olympedegouges/"
     },
     "Olympias": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8073929093 [GLT8073929093].md",
@@ -144351,6 +144409,13 @@
           "show": "The Rest Is History",
           "title": "206. Historical Love Island",
           "url": "/wiki/sources/206-historical-love-island-glt8073929093/"
+        },
+        {
+          "episode_file": "GLT3321594885 [GLT3321594885].md",
+          "key": "116-alexander-the-great-part-1-glt3321594885",
+          "show": "The Rest Is History",
+          "title": "116. Alexander the Great Part 1",
+          "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
         }
       ],
       "updated": "2026-10-01",
@@ -151410,6 +151475,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/philipii/"
+    },
+    "PhilipIIMacedon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3321594885 [GLT3321594885].md",
+          "key": "116-alexander-the-great-part-1-glt3321594885",
+          "show": "The Rest Is History",
+          "title": "116. Alexander the Great Part 1",
+          "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/philipiimacedon/"
     },
     "PhilipIVOfFrance": {
       "episode_count": 1,

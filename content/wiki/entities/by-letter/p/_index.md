@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11992
+wiki_total_pages: 11993
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -512,6 +512,9 @@ wiki_pages:
   - key: "PhilipHamilton"
     title: "Philip Hamilton"
     url: "/wiki/entities/philiphamilton/"
+  - key: "PhilipIIMacedon"
+    title: "Philip II of Macedon"
+    url: "/wiki/entities/philipiimacedon/"
   - key: "PhilipII"
     title: "Philip II of Spain"
     url: "/wiki/entities/philipii/"

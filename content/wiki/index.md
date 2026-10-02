@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [116. Alexander the Great Part 1](sources/116-alexander-the-great-part-1-glt3321594885.md) — The Rest Is History on Philip II's Macedonian platform, Alexander's early conquests, Issus, Tyre, Egypt, Siwa, expanding ambition, and source uncertainty.
 - [How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French](sources/scim2965049301-scim2965049301.md) — Huberman Lab interview on adaptation-led programming across resistance training, recovery, thermal stress, fuel selection, and mixed-martial-arts performance.
 - [117. Alexander the Great part 2](sources/117-alexander-the-great-part-2-glt9707946822.md) — The Rest Is History on Gaugamela, Achaemenid succession, eastern overextension, army resistance, source uncertainty, and Alexander's legendary afterlife.
 - [118. End of the First World War & Remembrance](sources/118-end-of-the-first-world-war-remembrance-glt2743125909.md) — The Rest Is History on equal war graves, the Cenotaph, two-minute silence, Unknown Warrior, poppy, veteran welfare, and the changing meanings of remembrance.
@@ -3521,6 +3522,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 
 ## Entities
+- [Philip II of Macedon](entities/PhilipIIMacedon.md) — Macedonian king whose state, army, Greek hegemony, and planned Persian invasion formed Alexander's inherited conquest platform.
 - [Duncan French](entities/DuncanFrench.md) — Exercise physiologist and UFC performance leader organizing training, recovery, nutrition, and environmental stress around target adaptations.
 - [Darius III](entities/DariusIII.md) — Final Achaemenid king whose defeat and death allowed Alexander to claim succession as avenger and heir.
 - [Battle of Gaugamela](entities/BattleOfGaugamela.md) — Decisive 331 BC victory opening the Achaemenid imperial heartland to Alexander.
