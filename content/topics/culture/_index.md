@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3018
+topic_total_pages: 3019
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1957,6 +1957,9 @@ topic_concepts:
   - key: "NaziDomesticAndYouthSocialization"
     title: "Nazi Domestic and Youth Socialization"
     url: "/wiki/concepts/nazidomesticandyouthsocialization/"
+  - key: "NeanderthalBehavioralComplexity"
+    title: "Neanderthal Behavioral Complexity"
+    url: "/wiki/concepts/neanderthalbehavioralcomplexity/"
   - key: "NeighborhoodOpportunityAccess"
     title: "Neighborhood Opportunity Access"
     url: "/wiki/concepts/neighborhoodopportunityaccess/"

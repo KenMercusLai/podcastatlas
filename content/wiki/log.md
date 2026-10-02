@@ -27578,3 +27578,11 @@ Added source `128-rasputin-glt1290733613`; created `GrigoryRasputin`, `Alexandra
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 127. Neanderthals
+
+Added source `127-neanderthals-glt5202048433`; created `Neanderthals`, `ChrisStringer`, `NeanderthalBehavioralComplexity`, `ArchaicHumanInterbreeding`, and `NeanderthalExtinctionCausalPluralism`. Core synthesis: Neanderthals were a distinct, behaviorally complex human lineage whose physical disappearance combined prior demographic vulnerability, climatic instability, competition, possible pathogen exchange, and partial absorption through interbreeding rather than a demonstrated single conquest mechanism. Intentional burial, tools, care, ornaments, and probable language narrow the old behavioral gap, while ritual purpose, cave art, organized violence, encounter conditions, and causal weights remain qualified. No settled contradiction was adopted. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,446-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

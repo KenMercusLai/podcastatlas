@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1400
+topic_total_pages: 1401
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1438,6 +1438,9 @@ topic_concepts:
   - key: "NaziInvoluntaryEuthanasiaProgram"
     title: "Nazi Involuntary-Euthanasia Program"
     url: "/wiki/concepts/naziinvoluntaryeuthanasiaprogram/"
+  - key: "NeanderthalExtinctionCausalPluralism"
+    title: "Neanderthal Extinction Causal Pluralism"
+    url: "/wiki/concepts/neanderthalextinctioncausalpluralism/"
   - key: "NearMissDesign"
     title: "Near-Miss Design"
     url: "/wiki/concepts/nearmissdesign/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9271
+wiki_total_pages: 9274
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2252,6 +2252,9 @@ wiki_pages:
   - key: "ArchaeologicalInterpretationUnderSparseEvidence"
     title: "Archaeological Interpretation Under Sparse Evidence"
     url: "/wiki/concepts/archaeologicalinterpretationundersparseevidence/"
+  - key: "ArchaicHumanInterbreeding"
+    title: "Archaic Human Interbreeding"
+    url: "/wiki/concepts/archaichumaninterbreeding/"
   - key: "ArcheryFlow"
     title: "Archery Flow / 射箭专注体验"
     url: "/wiki/concepts/archeryflow/"

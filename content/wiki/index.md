@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [127. Neanderthals](sources/127-neanderthals-glt5202048433.md) — The Rest Is History with Chris Stringer on Neanderthal discovery, behavioral complexity, interbreeding, changing interpretation, and multicausal extinction.
 - [Erasing Fears & Traumas Based on the Modern Neuroscience of Fear](sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962.md) — Huberman Lab episode on distributed fear circuitry, conditioned trauma cues, extinction plus adaptive relearning, EMDR limits, assisted psychotherapy, social support, and deliberate-stress boundaries.
 - [183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增](sources/ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1.md) — LateTalk review of Q3 2026 personal agents, frontier models, robotics, multi-agent research and security, AI-for-science, model economics, and revenue uncertainty.
 - [129. Cricket](sources/129-cricket-glt9095163579.md) — The Rest Is History with John Hotten on cricket's rural and Georgian roots, Victorian moralization, celebrity, Ashes rivalry, Bodyline, empire, and postcolonial power.
@@ -3506,6 +3507,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 
 ## Entities
+- [Neanderthals](entities/Neanderthals.md) — Distinct extinct human lineage with complex behavior, long Homo sapiens contact, and partial genetic survival through interbreeding.
+- [Chris Stringer](entities/ChrisStringer.md) — Paleoanthropologist interpreting Neanderthals through calibrated fossil, archaeological, genetic, and demographic evidence.
 - [Dots Personal Agent](entities/DotsPersonalAgent.md) — Source-reported OpenAI assistant using a persistent cloud computer, browser, and delegated tools inside ChatGPT.
 - [John Hotten](entities/JohnHotten.md) — Cricket writer interpreting the game's rules, institutions, celebrity, empire, postcolonial transformation, and amateur meaning.
 - [W. G. Grace](entities/WGGrace.md) — Victorian batsman joining technical innovation, rail-and-newspaper celebrity, sponsorship, and cricket's moral ambiguity.
@@ -15512,6 +15515,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Neanderthal Behavioral Complexity](concepts/NeanderthalBehavioralComplexity.md) — Cumulative evidence for Neanderthal technology, culture, care, burial, visual signaling, and probable language with explicit inference limits.
+- [Archaic Human Interbreeding](concepts/ArchaicHumanInterbreeding.md) — Gene flow among recent human lineages that joins population disappearance to partial genetic survival without settling encounter conditions.
+- [Neanderthal Extinction Causal Pluralism](concepts/NeanderthalExtinctionCausalPluralism.md) — Multicausal account combining demographic fragility, climate instability, competition, pathogens, and absorption.
 - [EMDR Mechanism Boundary](concepts/EMDRMechanismBoundary.md) — Separates possible EMDR benefit from oversimplified REM, bilateral-brain, and complete-relearning explanations.
 - [Fear Extinction and Positive Relearning](concepts/FearExtinctionPositiveRelearning.md) — Model distinguishing reduction of a learned threat response from building a competing safe, rewarding, or agency-restoring association.
 - [Cricket and Imperial Identity](concepts/CricketImperialIdentity.md) — Changing use of cricket as English self-image, settler rivalry, colonial appropriation, regional identity, and postcolonial authority.

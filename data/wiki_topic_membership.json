@@ -380,6 +380,13 @@
       "url": "/topics/history/"
     }
   ],
+  "127-neanderthals-glt5202048433": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "128-rasputin-glt1290733613": [
     {
       "key": "history",
@@ -56586,6 +56593,25 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "NeanderthalBehavioralComplexity": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "NeanderthalExtinctionCausalPluralism": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "NearMissDesign": [

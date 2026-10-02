@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9271
+wiki_total_pages: 9274
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -146,6 +146,12 @@ wiki_pages:
   - key: "NaziRearmamentWarEconomy"
     title: "Nazi Rearmament War Economy"
     url: "/wiki/concepts/nazirearmamentwareconomy/"
+  - key: "NeanderthalBehavioralComplexity"
+    title: "Neanderthal Behavioral Complexity"
+    url: "/wiki/concepts/neanderthalbehavioralcomplexity/"
+  - key: "NeanderthalExtinctionCausalPluralism"
+    title: "Neanderthal Extinction Causal Pluralism"
+    url: "/wiki/concepts/neanderthalextinctioncausalpluralism/"
   - key: "NearMissDesign"
     title: "Near-Miss Design"
     url: "/wiki/concepts/nearmissdesign/"

@@ -14355,6 +14355,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/archaeologicalinterpretationundersparseevidence/"
     },
+    "ArchaicHumanInterbreeding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5202048433 [GLT5202048433].md",
+          "key": "127-neanderthals-glt5202048433",
+          "show": "The Rest Is History",
+          "title": "127. Neanderthals",
+          "url": "/wiki/sources/127-neanderthals-glt5202048433/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/archaichumaninterbreeding/"
+    },
     "ArchieHall": {
       "episode_count": 1,
       "show_count": 1,
@@ -35247,6 +35263,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/chrispalmer/"
+    },
+    "ChrisStringer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5202048433 [GLT5202048433].md",
+          "key": "127-neanderthals-glt5202048433",
+          "show": "The Rest Is History",
+          "title": "127. Neanderthals",
+          "url": "/wiki/sources/127-neanderthals-glt5202048433/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/chrisstringer/"
     },
     "ChrisVoss": {
       "episode_count": 1,
@@ -138287,6 +138319,54 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/nemoclaw/"
+    },
+    "NeanderthalBehavioralComplexity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5202048433 [GLT5202048433].md",
+          "key": "127-neanderthals-glt5202048433",
+          "show": "The Rest Is History",
+          "title": "127. Neanderthals",
+          "url": "/wiki/sources/127-neanderthals-glt5202048433/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/neanderthalbehavioralcomplexity/"
+    },
+    "NeanderthalExtinctionCausalPluralism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5202048433 [GLT5202048433].md",
+          "key": "127-neanderthals-glt5202048433",
+          "show": "The Rest Is History",
+          "title": "127. Neanderthals",
+          "url": "/wiki/sources/127-neanderthals-glt5202048433/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/neanderthalextinctioncausalpluralism/"
+    },
+    "Neanderthals": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5202048433 [GLT5202048433].md",
+          "key": "127-neanderthals-glt5202048433",
+          "show": "The Rest Is History",
+          "title": "127. Neanderthals",
+          "url": "/wiki/sources/127-neanderthals-glt5202048433/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/neanderthals/"
     },
     "NebuchadnezzarII": {
       "episode_count": 1,

@@ -223,6 +223,10 @@
     "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
     "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
   },
+  "127-neanderthals-glt5202048433": {
+    "title": "127. Neanderthals",
+    "url": "/wiki/sources/127-neanderthals-glt5202048433/"
+  },
   "127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655": {
     "title": "127. 闲聊十二生肖之龙：神奇动物在哪里",
     "url": "/wiki/sources/127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655/"
@@ -8647,6 +8651,10 @@
     "title": "Archaeological Interpretation Under Sparse Evidence",
     "url": "/wiki/concepts/archaeologicalinterpretationundersparseevidence/"
   },
+  "ArchaicHumanInterbreeding": {
+    "title": "Archaic Human Interbreeding",
+    "url": "/wiki/concepts/archaichumaninterbreeding/"
+  },
   "ArcherAviation": {
     "title": "Archer Aviation",
     "url": "/wiki/entities/archeraviation/"
@@ -16834,6 +16842,10 @@
   "ChrisSchmitz": {
     "title": "Chris Schmitz",
     "url": "/wiki/entities/chrisschmitz/"
+  },
+  "ChrisStringer": {
+    "title": "Chris Stringer",
+    "url": "/wiki/entities/chrisstringer/"
   },
   "ChrisSurdean": {
     "title": "Chris Surdean",
@@ -54438,6 +54450,18 @@
   "NeMoCloud": {
     "title": "NeMo Cloud",
     "url": "/wiki/entities/nemocloud/"
+  },
+  "NeanderthalBehavioralComplexity": {
+    "title": "Neanderthal Behavioral Complexity",
+    "url": "/wiki/concepts/neanderthalbehavioralcomplexity/"
+  },
+  "NeanderthalExtinctionCausalPluralism": {
+    "title": "Neanderthal Extinction Causal Pluralism",
+    "url": "/wiki/concepts/neanderthalextinctioncausalpluralism/"
+  },
+  "Neanderthals": {
+    "title": "Neanderthals",
+    "url": "/wiki/entities/neanderthals/"
   },
   "NearMissDesign": {
     "title": "Near-Miss Design",

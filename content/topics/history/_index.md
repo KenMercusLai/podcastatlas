@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2385
+topic_total_pages: 2387
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -877,6 +877,9 @@ topic_concepts:
   - key: "NaturalDisasterPoliticalOmen"
     title: "Natural Disaster Political Omen / 自然灾害政治征兆"
     url: "/wiki/concepts/naturaldisasterpoliticalomen/"
+  - key: "NeanderthalBehavioralComplexity"
+    title: "Neanderthal Behavioral Complexity"
+    url: "/wiki/concepts/neanderthalbehavioralcomplexity/"
   - key: "NewRulerReformSignaling"
     title: "New Ruler Reform Signaling / 新君改革铺垫信号"
     url: "/wiki/concepts/newrulerreformsignaling/"
@@ -4845,6 +4848,9 @@ topic_sources:
   - key: "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780"
     title: "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖"
     url: "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+  - key: "127-neanderthals-glt5202048433"
+    title: "127. Neanderthals"
+    url: "/wiki/sources/127-neanderthals-glt5202048433/"
   - key: "128-rasputin-glt1290733613"
     title: "128. Rasputin"
     url: "/wiki/sources/128-rasputin-glt1290733613/"
