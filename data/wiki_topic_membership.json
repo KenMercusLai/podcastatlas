@@ -140,6 +140,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "108-the-industrial-revolution-glt2130563458": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905": [
     {
       "key": "culture",
@@ -42712,6 +42724,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "IndustrialRevolution": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "IndustryToFinanceCareerPath": [

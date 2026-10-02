@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9320
+wiki_total_pages: 9321
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "IndustrialLadder"
     title: "Industrial Ladder"
     url: "/wiki/concepts/industrialladder/"
+  - key: "IndustrialRevolution"
+    title: "Industrial Revolution"
+    url: "/wiki/concepts/industrialrevolution/"
   - key: "IndustrialSubsidyDependence"
     title: "Industrial Subsidy Dependence"
     url: "/wiki/concepts/industrialsubsidydependence/"

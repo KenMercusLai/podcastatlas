@@ -58668,6 +58668,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/emilybalcetis/"
     },
+    "EmmaGriffin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2130563458 [GLT2130563458].md",
+          "key": "108-the-industrial-revolution-glt2130563458",
+          "show": "The Rest Is History",
+          "title": "108. The Industrial Revolution",
+          "url": "/wiki/sources/108-the-industrial-revolution-glt2130563458/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/emmagriffin/"
+    },
     "EmmaHamilton": {
       "episode_count": 1,
       "show_count": 1,
@@ -99202,6 +99218,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/industrialinspectionrobotics/"
+    },
+    "IndustrialRevolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2130563458 [GLT2130563458].md",
+          "key": "108-the-industrial-revolution-glt2130563458",
+          "show": "The Rest Is History",
+          "title": "108. The Industrial Revolution",
+          "url": "/wiki/sources/108-the-industrial-revolution-glt2130563458/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/industrialrevolution/"
     },
     "InesButemacha": {
       "episode_count": 1,

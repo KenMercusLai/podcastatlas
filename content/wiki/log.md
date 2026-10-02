@@ -27801,3 +27801,11 @@ Added source `ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-c
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 108. The Industrial Revolution
+
+Added source `108-the-industrial-revolution-glt2130563458`; created `EmmaGriffin` and `IndustrialRevolution`. Core synthesis: Britain's industrial break arose from a conjunction of commerce, wages, capital, coal, steam, skill, risk, empire, naval power, and state support rather than one sufficient cause; it loosened chronic scarcity while distributing gains unevenly and imposing severe child-labor, gendered, imperial, urban, and environmental costs. No settled contradiction was adopted. Worker autobiographies are selective and much stronger for men than women; dates, causal weights, wage distribution, national comparisons, and the explanation for Britain's lack of an 1848 revolution remain source-scoped. Recurring host, show, and cited-thinker pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,474-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed. The corpus-wide legacy scan still reports 19 unrelated broken links outside this ingest.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1412
+topic_total_pages: 1414
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1093,6 +1093,9 @@ topic_concepts:
   - key: "IndividualPsychology"
     title: "Individual Psychology"
     url: "/wiki/concepts/individualpsychology/"
+  - key: "IndustrialRevolution"
+    title: "Industrial Revolution"
+    url: "/wiki/concepts/industrialrevolution/"
   - key: "InfectiousDiseasePublicLiteracy"
     title: "Infectious Disease Public Literacy"
     url: "/wiki/concepts/infectiousdiseasepublicliteracy/"
@@ -3471,6 +3474,9 @@ topic_sources:
   - key: "106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645"
     title: "106.别再害怕冲突，快来学习谈判术！"
     url: "/wiki/sources/106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645/"
+  - key: "108-the-industrial-revolution-glt2130563458"
+    title: "108. The Industrial Revolution"
+    url: "/wiki/sources/108-the-industrial-revolution-glt2130563458/"
   - key: "116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021"
     title: "116.不服从的艺术：分享一些实战方法，还有力量"
     url: "/wiki/sources/116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021/"

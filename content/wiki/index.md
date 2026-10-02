@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [108. The Industrial Revolution](sources/108-the-industrial-revolution-glt2130563458.md) — The Rest Is History with Emma Griffin on Britain's conjunctural industrial takeoff, scarcity and abundance, worker agency, unequal gains, gender, child labor, empire, and environmental cost.
 - [Nutrients for Brain Health & Performance](sources/scim8313693954-scim8313693954.md) — Huberman Lab solo episode on brain-supporting nutrients, taste and gut reward pathways, sweetener-pairing context, and learned food preference.
 - [109. Dinosaurs](sources/109-dinosaurs-glt4328792494.md) — The Rest Is History on fossils and myth, Victorian paleontology, American museum rivalry, dinosaur-science revision, bird ancestry, popular imagery, and extinction anxiety.
 - [110. History of India in 10 Buildings](sources/110-history-of-india-in-10-buildings-glt7972990176.md) — The Rest Is History on architecture as evidence of Indian urbanism, trade, religion, kingship, conquest, colonialism, memory, and political erasure.
@@ -3535,6 +3536,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar](sources/scim9724505974-scim9724505974.md) — Huberman Lab interview on melanopsin light sensing, circadian alignment, mood pathways, meal and exercise timing, and internal-time-aware travel adaptation.
 
 ## Entities
+- [Emma Griffin](entities/EmmaGriffin.md) — Historian interpreting Britain's industrialisation through combined economic causes and uneven worker, gender, childhood, and environmental effects.
 - [Mary Anning](entities/MaryAnning.md) — Fossil pioneer whose marine discoveries and uneven recognition show how field skill, commerce, class, and gender shaped early paleontology.
 - [Richard Owen](entities/RichardOwen.md) — Paleontologist who coined Dinosauria and joined classification, museum building, Crystal Palace spectacle, scientific revision, and contested credit.
 - [Mohenjo-daro](entities/MohenjoDaro.md) — Indus Valley city whose Great Bath joins early urban engineering, ritual interpretation, trade, and archaeological uncertainty.
@@ -15586,6 +15588,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
 
 ## Concepts
+- [Industrial Revolution](concepts/IndustrialRevolution.md) — Conjunctural transformation joining fossil energy, mechanization, commerce, empire, finance, labor, state power, material abundance, unequal gains, and environmental damage.
 - [Dinosaurs as a Cultural Mirror](concepts/DinosaurCulturalMirror.md) — Framework for how fossil interpretation and dinosaur imagery reflect myth, industry, institutions, national power, visual technology, and extinction anxiety.
 - [Dinosaur Science Revision](concepts/DinosaurScienceRevision.md) — Cumulative correction of dinosaur classification, anatomy, physiology, ancestry, behavior, and extinction.
 - [Mass Extinction as Planetary Warning](concepts/MassExtinctionPlanetaryWarning.md) — Framework separating extinction from evolutionary failure and qualifying the analogy between asteroid catastrophe and human environmental damage.

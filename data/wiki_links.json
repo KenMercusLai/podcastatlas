@@ -83,6 +83,10 @@
     "title": "107.闲聊伟大导演们的八卦（第一弹）",
     "url": "/wiki/sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818/"
   },
+  "108-the-industrial-revolution-glt2130563458": {
+    "title": "108. The Industrial Revolution",
+    "url": "/wiki/sources/108-the-industrial-revolution-glt2130563458/"
+  },
   "108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905": {
     "title": "108.祖与占：爱与不爱，巴黎就在那里（耸肩）",
     "url": "/wiki/sources/108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905/"
@@ -25839,6 +25843,10 @@
     "title": "Emma Fiquade",
     "url": "/wiki/entities/emmafiquade/"
   },
+  "EmmaGriffin": {
+    "title": "Emma Griffin",
+    "url": "/wiki/entities/emmagriffin/"
+  },
   "EmmaHamilton": {
     "title": "Emma Hamilton",
     "url": "/wiki/entities/emmahamilton/"
@@ -39074,6 +39082,10 @@
   "IndustrialLadder": {
     "title": "Industrial Ladder",
     "url": "/wiki/concepts/industrialladder/"
+  },
+  "IndustrialRevolution": {
+    "title": "Industrial Revolution",
+    "url": "/wiki/concepts/industrialrevolution/"
   },
   "IndustrialSubsidyDependence": {
     "title": "Industrial Subsidy Dependence",
