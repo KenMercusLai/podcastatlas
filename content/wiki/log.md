@@ -27498,3 +27498,11 @@ Added source `12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-u
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 133. Christmas churches
+
+Added source `133-christmas-churches-glt8843719433`; created `RachelMorley`, `FriendsOfFriendlessChurches`, `MRJames`, `SaintNicholas`, and `ChurchCulturalMemory`; and resynthesized `CharlesDickens` from its complete preserved evidence inventory. Core synthesis: British churches preserve Christmas and wider cultural history through charity records, furnishings, art, graves, calendars, literature, film, folklore, and local memory, while preservation and public interpretation make these traces legible. No settled contradiction was adopted. The top-ten ranking is intentionally playful, and biographical anecdotes, miracle stories, dates, custom origins, artifact identifications, etymology, pigment recipes, and claims of antiquity remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,436-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

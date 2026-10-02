@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 11939
+wiki_total_pages: 11943
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "FriendFeed"
     title: "FriendFeed"
     url: "/wiki/entities/friendfeed/"
+  - key: "FriendsOfFriendlessChurches"
+    title: "Friends of Friendless Churches"
+    url: "/wiki/entities/friendsoffriendlesschurches/"
   - key: "FromIdeaToFrontier"
     title: "From Idea to Frontier"
     url: "/wiki/entities/fromideatofrontier/"

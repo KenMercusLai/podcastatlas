@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9257
+wiki_total_pages: 9258
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "ChuHanWarDemythologizing"
     title: "Chu-Han War Demythologizing / 楚汉战争去神话化"
     url: "/wiki/concepts/chuhanwardemythologizing/"
+  - key: "ChurchCulturalMemory"
+    title: "Church Cultural Memory"
+    url: "/wiki/concepts/churchculturalmemory/"
   - key: "CinemaAsNationalMemory"
     title: "Cinema as National Memory"
     url: "/wiki/concepts/cinemaasnationalmemory/"

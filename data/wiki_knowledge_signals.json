@@ -31065,9 +31065,9 @@
       "url": "/wiki/entities/charlesdegaulle/"
     },
     "CharlesDickens": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7546211559 [GLT7546211559].md",
@@ -31089,6 +31089,13 @@
           "show": "The Rest Is History",
           "title": "212. Haunted London (Part 4)",
           "url": "/wiki/sources/212-haunted-london-part-4-glt8938796735/"
+        },
+        {
+          "episode_file": "GLT8843719433 [GLT8843719433].md",
+          "key": "133-christmas-churches-glt8843719433",
+          "show": "The Rest Is History",
+          "title": "133. Christmas churches",
+          "url": "/wiki/sources/133-christmas-churches-glt8843719433/"
         }
       ],
       "updated": "2026-10-01",
@@ -35545,6 +35552,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/chunyuzhangwesternhan/"
+    },
+    "ChurchCulturalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8843719433 [GLT8843719433].md",
+          "key": "133-christmas-churches-glt8843719433",
+          "show": "The Rest Is History",
+          "title": "133. Christmas churches",
+          "url": "/wiki/sources/133-christmas-churches-glt8843719433/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/churchculturalmemory/"
     },
     "Cicero": {
       "episode_count": 2,
@@ -72906,6 +72929,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/friendlendingboundary/"
+    },
+    "FriendsOfFriendlessChurches": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8843719433 [GLT8843719433].md",
+          "key": "133-christmas-churches-glt8843719433",
+          "show": "The Rest Is History",
+          "title": "133. Christmas churches",
+          "url": "/wiki/sources/133-christmas-churches-glt8843719433/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/friendsoffriendlesschurches/"
     },
     "FrontPackConversionEducation": {
       "episode_count": 1,
@@ -123750,6 +123789,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/mpwrai/"
     },
+    "MRJames": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8843719433 [GLT8843719433].md",
+          "key": "133-christmas-churches-glt8843719433",
+          "show": "The Rest Is History",
+          "title": "133. Christmas churches",
+          "url": "/wiki/sources/133-christmas-churches-glt8843719433/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/mrjames/"
+    },
     "MTRCorporation": {
       "episode_count": 1,
       "show_count": 1,
@@ -159909,6 +159964,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/rabiesexposurepostexposurecare/"
     },
+    "RachelMorley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8843719433 [GLT8843719433].md",
+          "key": "133-christmas-churches-glt8843719433",
+          "show": "The Rest Is History",
+          "title": "133. Christmas churches",
+          "url": "/wiki/sources/133-christmas-churches-glt8843719433/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/rachelmorley/"
+    },
     "RacialAntisemitism": {
       "episode_count": 1,
       "show_count": 1,
@@ -168984,6 +169055,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/saintmars/"
+    },
+    "SaintNicholas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8843719433 [GLT8843719433].md",
+          "key": "133-christmas-churches-glt8843719433",
+          "show": "The Rest Is History",
+          "title": "133. Christmas churches",
+          "url": "/wiki/sources/133-christmas-churches-glt8843719433/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/saintnicholas/"
     },
     "SaintPatrick": {
       "episode_count": 1,

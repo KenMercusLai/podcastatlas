@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11939
+wiki_total_pages: 11943
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "MStand"
     title: "M Stand"
     url: "/wiki/entities/mstand/"
+  - key: "MRJames"
+    title: "M. R. James"
+    url: "/wiki/entities/mrjames/"
   - key: "MMLaFleur"
     title: "M.M. LaFleur"
     url: "/wiki/entities/mmlafleur/"

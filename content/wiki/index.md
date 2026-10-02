@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [133. Christmas churches](sources/133-christmas-churches-glt8843719433.md) — Festive The Rest Is History survey of British churches as repositories of Christmas charity, music, literature, art, calendars, folklore, film, and local memory.
 - [12 Days: Coronation of Charlemagne and the collapse of the Soviet Union](sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211.md) — The Rest Is History on Charlemagne's papal coronation and the Soviet collapse, pairing western empire-making with Gorbachev's loss of effective authority.
 - [12 Days: Good King Wenceslas and the first Gilbert & Sullivan](sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286.md) — The Rest Is History on Wenceslas's charitable and national afterlife, Neale's carol, and Gilbert and Sullivan's lost first opera, Thespis.
 - [12 Days: Port wine and Darwin sets sail](sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478.md) — The Rest Is History on the Methuen Treaty's role in port's British market and the contingent, difficult departure of Darwin aboard HMS Beagle.
@@ -3496,6 +3497,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [Rachel Morley](entities/RachelMorley.md) — Church-heritage interpreter using material details to connect British sites with wider cultural history.
+- [Friends of Friendless Churches](entities/FriendsOfFriendlessChurches.md) — British preservation organization joining care for vulnerable churches to public historical interpretation.
+- [M. R. James](entities/MRJames.md) — Scholar and ghost-story writer whose antiquarian research and church settings shaped a Christmas literary tradition.
+- [Saint Nicholas](entities/SaintNicholas.md) — Bishop-saint whose miracle traditions, medieval imagery, and Dutch name forms connect to Santa Claus.
 - [Pope Leo III](entities/PopeLeoIII.md) — Politically vulnerable pope whose Frankish restoration and coronation of Charlemagne joined protection to imperial recognition.
 - [Irene of Athens](entities/IreneOfAthens.md) — Byzantine empress whose sole rule was used by western advocates as a partisan justification for Charlemagne's imperial title.
 - [Wenceslas of Bohemia](entities/WenceslasOfBohemia.md) — Tenth-century Bohemian duke remembered as a charitable saint, martyr, posthumous king, and Czech national protector.
@@ -15476,6 +15481,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Church Cultural Memory](concepts/ChurchCulturalMemory.md) — Preservation and interpretation of social history through church fabric, objects, art, graves, ritual, literature, and local stories.
 - [Biological Age Measurement Boundary](concepts/BiologicalAgeMeasurementBoundary.md) — Boundary separating longitudinal clock, biomarker, glucose, wearable, and personal-baseline signals from diagnosis or demonstrated longevity benefit.
 - [Epigenetic Aging Information Theory](concepts/EpigeneticAgingInformationTheory.md) — Sinclair's proposal that aging substantially reflects loss of regulatory information maintaining cell identity, bounded by measurement and translation limits.
 - [Tay Bridge Disaster](concepts/TayBridgeDisaster.md) — 1879 bridge collapse understood through wind exposure, design, construction economies, safety debt, professional authority, and cultural memory.

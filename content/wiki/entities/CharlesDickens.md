@@ -6,6 +6,7 @@ sources:
   - 263-usa-vs-england-the-200-year-rivalry-glt7546211559
   - 222-victorian-holidays-glt9970456316
   - 212-haunted-london-part-4-glt8938796735
+  - 133-christmas-churches-glt8843719433
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Charles Dickens is a British novelist and travel writer whose work is used here to connect literary celebrity, moral judgment, travel documentation, national stereotype, dark sightseeing, and the imaginative mapping of London.
+Charles Dickens is a British novelist and travel writer whose work is used here to connect literary celebrity, moral judgment, travel documentation, national stereotype, dark sightseeing, the imaginative mapping of London, and the material afterlife of Christmas fiction.
 
 ## Current Profile
 
@@ -26,6 +27,8 @@ The Victorian holidays episode adds his Italian travel writing. *Pictures from I
 
 The London walking episode reverses that outward gaze. Its route uses Dickens's reported attendance at executions, Mr Jaggers's office near Little Britain, and Fagin's Saffron Hill setting in *Oliver Twist* to make fiction part of the city's memory infrastructure. Dickens does not merely describe an already legible city here; later walkers use his writing to recover social and imaginative meaning from streets whose older material world has largely vanished.
 
+The Christmas churches episode adds a different kind of afterlife. It presents *A Christmas Carol* as a rapidly written work whose cultural reach exceeded Dickens's initial financial expectations, connects Scrooge to a likely London church-tower inspiration at St Michael's Cornhill, and follows the story into the 1984 Shrewsbury adaptation, where a prop Ebenezer Scrooge gravestone remained in St Chad's churchyard. Literature here becomes attached to physical places through inspiration, filming, retained objects, and seasonal repetition.
+
 ## Key Characteristics
 
 - British literary celebrity whose American reception, copyright campaign, and later backlash joined culture to national rivalry.
@@ -33,8 +36,8 @@ The London walking episode reverses that outward gaze. Its route uses Dickens's 
 - Author who converted disappointment into travel writing and satirical fiction mixing moral criticism with national stereotype.
 - Observer who translated foreign places through familiar British comparisons.
 - Traveler attracted to dark historical sites and conscious of the urge to record experience.
-- London writer whose fictional geography helps later audiences interpret Little Britain and Saffron Hill.
-- Figure associated with public execution both as reported spectator and as an author mapping nearby legal and criminal worlds.
+- London writer whose fictional geography helps later audiences interpret Little Britain, Saffron Hill, and a possible church-tower model for Scrooge's London.
+- Author whose Christmas fiction gained a material afterlife through adaptation, filming locations, and a retained prop gravestone.
 
 ## Evidence
 
@@ -44,15 +47,16 @@ The London walking episode reverses that outward gaze. Its route uses Dickens's 
 - Literary backlash: [[263-usa-vs-england-the-200-year-rivalry-glt7546211559]] connects *American Notes* and *Martin Chuzzlewit* to collapsing goodwill and caricatures of American vulgarity and money-mindedness.
 - Italian travel writing: [[222-victorian-holidays-glt9970456316]] uses *Pictures from Italy*, comparisons with London, dark historical sites, and Piacenza to connect observation with the recording of travel.
 - London memory map: [[212-haunted-london-part-4-glt8938796735]] connects reported execution attendance, Mr Jaggers's office near Little Britain, and Fagin's Saffron Hill setting to a walk through historically layered streets.
+- Christmas afterlife: [[133-christmas-churches-glt8843719433]] connects *A Christmas Carol* to rapid composition, St Michael's Cornhill, the 1984 Shrewsbury adaptation, and the Scrooge prop gravestone at St Chad's.
 
 ## Qualifications
 
-This profile is limited to three episodes' use of the 1842 American tour, Italian travel writing, execution culture, and selected London settings. It does not summarize Dickens's wider life, fiction, reform activity, later American visit, or the full legal history of international copyright. Reported attendance, topographical identifications, reactions, private motives, anecdotes, and national generalizations remain source-scoped.
+This profile is limited to four episodes' use of the 1842 American tour, Italian travel writing, execution culture, selected London settings, and *A Christmas Carol*. It does not summarize Dickens's wider life, fiction, reform activity, later American visit, or the full legal history of international copyright. Reported attendance, composition and earnings claims, topographical identifications, reactions, private motives, anecdotes, and national generalizations remain source-scoped.
 
 ## What Changed
 
 - Added Dickensian London as a literary map through which later walkers recover vanished or unobtrusive urban history.
-- Connected his interest in dark sites abroad to reported attendance at London executions without treating either as a complete account of his moral outlook.
+- Added the material afterlife of *A Christmas Carol* through church association, screen adaptation, and a retained prop gravestone.
 
 ## Relationships
 
@@ -66,3 +70,4 @@ This profile is limited to three episodes' use of the 1842 American tour, Italia
 - [[London]] - home city whose legal, criminal, and impoverished districts his fiction helps make historically legible.
 - [[UrbanArchitecturalMemory]] - interpretive process in which literature supplements surviving buildings, names, and plaques.
 - [[NewgatePrison]] - execution landscape he reportedly visited and whose vicinity anchors part of the walk.
+- [[ChurchCulturalMemory]] - framework explaining how Dickensian Christmas fiction became attached to church sites and objects.

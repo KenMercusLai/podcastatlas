@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11939
+wiki_total_pages: 11943
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "SaintColumba"
     title: "Saint Columba"
     url: "/wiki/entities/saintcolumba/"
+  - key: "SaintNicholas"
+    title: "Saint Nicholas"
+    url: "/wiki/entities/saintnicholas/"
   - key: "SaintPatrick"
     title: "Saint Patrick"
     url: "/wiki/entities/saintpatrick/"
