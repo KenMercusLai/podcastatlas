@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3272
+topic_total_pages: 3273
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3217,6 +3217,9 @@ topic_concepts:
   - key: "OlderWorkerAIRetirement"
     title: "Older Worker AI Retirement"
     url: "/wiki/concepts/olderworkerairetirement/"
+  - key: "OlympicHostCityLegacy"
+    title: "Olympic Host-City Legacy"
+    url: "/wiki/concepts/olympichostcitylegacy/"
   - key: "OnDeviceFastSlowBrain"
     title: "On Device Fast Slow Brain"
     url: "/wiki/concepts/ondevicefastslowbrain/"

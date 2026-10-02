@@ -17626,9 +17626,9 @@
       "url": "/wiki/concepts/authoritarianfascismboundary/"
     },
     "AuthoritarianSportsPropaganda": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT5810592007 [GLT5810592007].md",
@@ -17657,9 +17657,16 @@
           "show": "The Rest Is History",
           "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
           "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
+        },
+        {
+          "episode_file": "GLT4846758176 [GLT4846758176].md",
+          "key": "81-modern-olympics-part-2-glt4846758176",
+          "show": "The Rest Is History",
+          "title": "81. Modern Olympics - Part 2",
+          "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/authoritariansportspropaganda/"
     },
     "AuthoritarianStabilityLegitimation": {
@@ -18151,6 +18158,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/autonomousdrivingresponsibilityboundary/"
+    },
+    "AveryBrundage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4846758176 [GLT4846758176].md",
+          "key": "81-modern-olympics-part-2-glt4846758176",
+          "show": "The Rest Is History",
+          "title": "81. Modern Olympics - Part 2",
+          "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/averybrundage/"
     },
     "AviationGeneralHospital": {
       "episode_count": 1,
@@ -102831,6 +102854,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/internationalmonetaryfund/"
     },
+    "InternationalOlympicCommittee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4846758176 [GLT4846758176].md",
+          "key": "81-modern-olympics-part-2-glt4846758176",
+          "show": "The Rest Is History",
+          "title": "81. Modern Olympics - Part 2",
+          "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/internationalolympiccommittee/"
+    },
     "InternetLiabilitySpillover": {
       "episode_count": 4,
       "show_count": 1,
@@ -138461,6 +138500,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/modernmasstourism/"
     },
+    "ModernOlympicGames": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4846758176 [GLT4846758176].md",
+          "key": "81-modern-olympics-part-2-glt4846758176",
+          "show": "The Rest Is History",
+          "title": "81. Modern Olympics - Part 2",
+          "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/modernolympicgames/"
+    },
     "ModernPaganReconstruction": {
       "episode_count": 2,
       "show_count": 1,
@@ -147746,6 +147801,38 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/olympias/"
+    },
+    "OlympicColdWarRivalry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4846758176 [GLT4846758176].md",
+          "key": "81-modern-olympics-part-2-glt4846758176",
+          "show": "The Rest Is History",
+          "title": "81. Modern Olympics - Part 2",
+          "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/olympiccoldwarrivalry/"
+    },
+    "OlympicHostCityLegacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4846758176 [GLT4846758176].md",
+          "key": "81-modern-olympics-part-2-glt4846758176",
+          "show": "The Rest Is History",
+          "title": "81. Modern Olympics - Part 2",
+          "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/olympichostcitylegacy/"
     },
     "OmarBradley": {
       "episode_count": 1,
@@ -187026,6 +187113,36 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/sportslifestyleconsumption/"
+    },
+    "SportsMegaEventWelfareAccounting": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间 [1002986145].md",
+          "key": "vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145",
+          "show": "商业就是这样",
+          "title": "Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间",
+          "url": "/wiki/sources/vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145/"
+        },
+        {
+          "episode_file": "22.足球经济学：读者不必是球迷 [570874427].md",
+          "key": "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427",
+          "show": "蜜獾吃书",
+          "title": "22.足球经济学：读者不必是球迷",
+          "url": "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
+        },
+        {
+          "episode_file": "GLT4846758176 [GLT4846758176].md",
+          "key": "81-modern-olympics-part-2-glt4846758176",
+          "show": "The Rest Is History",
+          "title": "81. Modern Olympics - Part 2",
+          "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/sportsmegaeventwelfareaccounting/"
     },
     "SportsParticipationOverWinning": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3010
+topic_total_pages: 3014
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5114,6 +5114,9 @@ topic_entities:
   - key: "Australia"
     title: "Australia"
     url: "/wiki/entities/australia/"
+  - key: "AveryBrundage"
+    title: "Avery Brundage"
+    url: "/wiki/entities/averybrundage/"
   - key: "AvivOvadia"
     title: "Aviv Ovadia"
     url: "/wiki/entities/avivovadia/"
@@ -5942,6 +5945,9 @@ topic_entities:
   - key: "IndyJohar"
     title: "Indy Johar"
     url: "/wiki/entities/indyjohar/"
+  - key: "InternationalOlympicCommittee"
+    title: "International Olympic Committee"
+    url: "/wiki/entities/internationalolympiccommittee/"
   - key: "Iran"
     title: "Iran"
     url: "/wiki/entities/iran/"
@@ -6497,6 +6503,9 @@ topic_entities:
   - key: "Mississippi"
     title: "Mississippi"
     url: "/wiki/entities/mississippi/"
+  - key: "ModernOlympicGames"
+    title: "Modern Olympic Games"
+    url: "/wiki/entities/modernolympicgames/"
   - key: "MohamedMorsi"
     title: "Mohamed Morsi"
     url: "/wiki/entities/mohamedmorsi/"
@@ -8151,6 +8160,9 @@ topic_sources:
   - key: "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000"
     title: "78.西方决斗史：出剑吧！为了荣誉！"
     url: "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
+  - key: "81-modern-olympics-part-2-glt4846758176"
+    title: "81. Modern Olympics - Part 2"
+    url: "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
   - key: "a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c"
     title: "A firm Andy: what are new British PM's plans?"
     url: "/wiki/sources/a-firm-andy-what-are-new-british-pms-plans-6a5deeca76f8ee25bb4bbf9c/"

@@ -28140,3 +28140,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 81. Modern Olympics - Part 2
+
+Added source `81-modern-olympics-part-2-glt4846758176`; created `ModernOlympicGames`, `InternationalOlympicCommittee`, `AveryBrundage`, `OlympicColdWarRivalry`, and `OlympicHostCityLegacy`; and resynthesized `SportsMegaEventWelfareAccounting` and `AuthoritarianSportsPropaganda` from their complete preserved evidence inventories. Core synthesis: the postwar Olympics moved from austere reuse toward television, commercial spectacle, state rivalry, and high-cost urban commitments; Cold War medal systems and boycotts turned athletes into geopolitical proxies; political-neutrality claims repeatedly failed under protest, repression, and violence; and host-city welfare must separate resident outcomes from regime prestige, temporary attention, and genuine but uneven emotional value. No settled contradiction was adopted. Casualty totals, cost overruns, displacement counts, participation effects, doping generalizations, and city-legacy rankings remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,517-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

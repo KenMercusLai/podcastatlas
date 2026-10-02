@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [81. Modern Olympics - Part 2](sources/81-modern-olympics-part-2-glt4846758176.md) — The Rest Is History on postwar Olympic austerity, Cold War rivalry, protest, violence, commercialization, host-city costs, and enduring athlete stories.
 - [82. Sparta](sources/82-sparta-glt1755395266.md) — The Rest Is History on helot-backed militarization, citizen discipline, Spartan institutions and decline, source scarcity, Thermopylae, and modern ideological afterlives.
 - [83. The Berlin Wall](sources/83-the-berlin-wall-glt1824879961.md) — The Rest Is History with Ian McGregor on Berlin's postwar division, Operation Rose, escape attempts, Checkpoint Charlie, cultural pressure, and the contingent opening of 1989.
 - [84. Exams](sources/84-exams-glt6507641896.md) — The Rest Is History with Daisy Christodoulou on examination history, comparative judgment, standardization, mobility, elite overproduction, and teacher-assessment bias.
@@ -3578,6 +3579,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [Modern Olympic Games](entities/ModernOlympicGames.md) — Postwar international sporting institution shaped by political rivalry, media growth, host-city exposure, and enduring athlete narratives.
+- [International Olympic Committee](entities/InternationalOlympicCommittee.md) — Olympic governing institution profiled through neutrality, continuity, athlete politics, and host-city obligations.
+- [Avery Brundage](entities/AveryBrundage.md) — Olympic official symbolizing the conflict between claimed political neutrality, athlete punishment, and continuity amid violence.
 - [Checkpoint Charlie](entities/CheckpointCharlie.md) — Berlin Wall crossing where Allied access rights, East German authority, observation, and the October 1961 tank standoff converged.
 - [Ian McGregor](entities/IanMcGregor.md) — Historian and author connecting the Berlin Wall's diplomatic history to escape, culture, border personnel, and divided lives.
 - [Denis Diderot](entities/DenisDiderot.md) — Atheist Enlightenment writer presented through institutional accounts of corruption, intellectual generosity, and humane curiosity.
@@ -15718,6 +15722,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Olympic Cold War Rivalry](concepts/OlympicColdWarRivalry.md) — Proxy contest among political systems through medals, state training, symbolic matches, doping, defection, and boycotts.
+- [Olympic Host-City Legacy](concepts/OlympicHostCityLegacy.md) — Long-run balance of public cost, infrastructure, displacement, image, participation, political signaling, and shared experience.
 - [Enlightenment](concepts/Enlightenment.md) — Plural European transformation joining religious inheritance, scientific inquiry, social infrastructure, universal ambition, and colonial-racial limits.
 - [Enlightenment Social Infrastructure](concepts/EnlightenmentSocialInfrastructure.md) — Print, literacy, correspondence, clubs, salons, coffeehouses, universities, courts, lodges, trade, and scientific institutions enabling Enlightenment circulation.
 - [Enlightenment Universalism and Colonial Hierarchy](concepts/EnlightenmentUniversalismColonialHierarchy.md) — Tension between universal reason and rights and culturally specific racial classification, slavery, empire, and coercive export.

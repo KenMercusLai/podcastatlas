@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12095
+wiki_total_pages: 12098
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1820,6 +1820,9 @@ wiki_pages:
   - key: "Avatr"
     title: "Avatr / 阿维塔"
     url: "/wiki/entities/avatr/"
+  - key: "AveryBrundage"
+    title: "Avery Brundage"
+    url: "/wiki/entities/averybrundage/"
   - key: "AvignonFestival"
     title: "Avignon Festival"
     url: "/wiki/entities/avignonfestival/"

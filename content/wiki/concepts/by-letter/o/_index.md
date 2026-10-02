@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9402
+wiki_total_pages: 9404
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -236,6 +236,12 @@ wiki_pages:
   - key: "OlivineCarbonRemoval"
     title: "Olivine Carbon Removal"
     url: "/wiki/concepts/olivinecarbonremoval/"
+  - key: "OlympicColdWarRivalry"
+    title: "Olympic Cold War Rivalry"
+    url: "/wiki/concepts/olympiccoldwarrivalry/"
+  - key: "OlympicHostCityLegacy"
+    title: "Olympic Host-City Legacy"
+    url: "/wiki/concepts/olympichostcitylegacy/"
   - key: "Omega3StatusAndFormBoundary"
     title: "Omega-3 Status and Form Boundary"
     url: "/wiki/concepts/omega3statusandformboundary/"

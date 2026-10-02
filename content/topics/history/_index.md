@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2443
+topic_total_pages: 2445
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2183,6 +2183,9 @@ topic_entities:
   - key: "MinoanCivilization"
     title: "Minoan Civilization"
     url: "/wiki/entities/minoancivilization/"
+  - key: "ModernOlympicGames"
+    title: "Modern Olympic Games"
+    url: "/wiki/entities/modernolympicgames/"
   - key: "MohenjoDaro"
     title: "Mohenjo-daro"
     url: "/wiki/entities/mohenjodaro/"
@@ -6348,6 +6351,9 @@ topic_sources:
   - key: "80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649"
     title: "80.间谍与叛徒：恕我直言，007的故事弱爆了（上）"
     url: "/wiki/sources/80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649/"
+  - key: "81-modern-olympics-part-2-glt4846758176"
+    title: "81. Modern Olympics - Part 2"
+    url: "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
   - key: "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209"
     title: "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）"
     url: "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"

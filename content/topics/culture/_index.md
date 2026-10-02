@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3053
+topic_total_pages: 3055
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4442,6 +4442,9 @@ topic_entities:
   - key: "INEOS"
     title: "INEOS"
     url: "/wiki/entities/ineos/"
+  - key: "InternationalOlympicCommittee"
+    title: "International Olympic Committee"
+    url: "/wiki/entities/internationalolympiccommittee/"
   - key: "InternationalPadelFederation"
     title: "International Padel Federation"
     url: "/wiki/entities/internationalpadelfederation/"
@@ -4916,6 +4919,9 @@ topic_entities:
   - key: "MockTurtle"
     title: "Mock Turtle / 假海龟"
     url: "/wiki/entities/mockturtle/"
+  - key: "ModernOlympicGames"
+    title: "Modern Olympic Games"
+    url: "/wiki/entities/modernolympicgames/"
   - key: "MoffettNathanson"
     title: "MoffettNathanson"
     url: "/wiki/entities/moffettnathanson/"

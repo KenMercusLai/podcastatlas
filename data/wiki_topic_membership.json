@@ -5900,6 +5900,18 @@
       "url": "/topics/history/"
     }
   ],
+  "81-modern-olympics-part-2-glt4846758176": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "82-sparta-glt1755395266": [
     {
       "key": "history",
@@ -14563,6 +14575,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "AveryBrundage": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "AviationFinanceLeasing": [
@@ -43897,6 +43916,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "InternationalOlympicCommittee": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "InternationalPadelFederation": [
     {
       "key": "culture",
@@ -55684,6 +55715,23 @@
       "url": "/topics/culture/"
     }
   ],
+  "ModernOlympicGames": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ModernPoetryForChildren": [
     {
       "key": "culture",
@@ -59278,6 +59326,13 @@
     }
   ],
   "Ollama": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "OlympicHostCityLegacy": [
     {
       "key": "technology",
       "label": "Technology",

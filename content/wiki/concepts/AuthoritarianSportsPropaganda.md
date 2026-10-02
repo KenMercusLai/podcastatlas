@@ -7,7 +7,8 @@ sources:
   - 405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377
   - 253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711
   - 230-portugal-football-fado-and-fascism-part-4-glt9147423732
-last_updated: 2026-10-01
+  - 81-modern-olympics-part-2-glt4846758176
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,11 +22,13 @@ Authoritarian sports propaganda is the deliberate use of sport by a regime to ad
 
 The source set grounds the concept in [[BenitoMussolini]]'s [[ItalianFascism|fascist Italy]], the 1936 Berlin Olympics under [[NaziGermany|Nazi Germany]], Salazar's [[EstadoNovoPortugal|Estado Novo]], Brazil's 1970 World Cup under military rule, and [[FIFAWorldCup1978|Argentina 1978]] under the junta. Mussolini's regime built fields, organized leisure, trained instructors, reorganized football, directed press attention, used radio and public listening, staged symbols, and treated international tournaments as proof of the new state. Hitler and Goebbels similarly recognized the Olympics as an opportunity to display order, physical prowess, modernity, and international respectability, temporarily suppressing visible antisemitic messaging during the Games.
 
-[[LeniRiefenstahl]]'s *Olympia* adds film as a second-order showcase. Classical ruins, statues, bodies, nudity, torch imagery, and modern competition linked antiquity to Nazi Germany, while the presence of Jesse Owens and Sohn Kee-chung shows that the recorded event could contain results that complicated official racial ideology. Portugal adds a less mobilizational case: Benfica's European Cups, the 1966 national team, and [[Eusebio|Eusébio]] supplied prestige to an austere dictatorship whose style differed from fascist spectacle. Brazil and Argentina add mass television, communications infrastructure, star symbolism, urban concealment, and a victorious host team. The strongest synthesis is not that sport mechanically creates regime supporters, but that real competition gives authoritarian states emotionally powerful material to organize, claim, conceal through, and circulate.
+[[LeniRiefenstahl]]'s *Olympia* adds film as a second-order showcase. Classical ruins, statues, bodies, nudity, torch imagery, and modern competition linked antiquity to Nazi Germany, while the presence of Jesse Owens and Sohn Kee-chung shows that the recorded event could contain results that complicated official racial ideology. Portugal adds a less mobilizational case: Benfica's European Cups, the 1966 national team, and [[Eusebio|Eusébio]] supplied prestige to an austere dictatorship whose style differed from fascist spectacle. Brazil and Argentina add mass television, communications infrastructure, star symbolism, urban concealment, and a victorious host team.
+
+The postwar Olympic source extends the framework from host spectacle to enduring state athletic systems. The [[SovietUnion]] used sporting success to advertise modernity and improved socialist humanity; Eastern Bloc training made nominal amateurism compatible with full-time state support; and East German doping and pressure on athletes exposed the coercive cost of medal production. Moscow 1980 then shows that showcase politics can backfire when extreme security, emptiness, and shabby conditions communicate weakness rather than grandeur. The strongest synthesis is not that sport mechanically creates regime supporters, but that real competition gives authoritarian states emotionally powerful material to organize, claim, conceal through, and circulate, while outcomes and observation remain partly outside state control.
 
 ## Key Claims
 
-- Authoritarian sport propaganda works through institutions and infrastructure, not only slogans.
+- Authoritarian sport propaganda works through institutions, infrastructure, training systems, and medal incentives, not only slogans.
 - Mass participation and elite victory can be fused into one story of national health and regime competence.
 - Media systems turn matches into shared political events for people who never attend in person.
 - International tournaments let a regime perform modernity and prestige before foreign audiences.
@@ -45,15 +48,19 @@ The source set grounds the concept in [[BenitoMussolini]]'s [[ItalianFascism|fas
 - Brazilian appropriation: [[253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711]] connects Brazil's 1970 victory, national communications infrastructure, [[Pele|Pelé]], and the yellow shirt to military-regime legitimacy and later political reuse.
 - Argentine host spectacle: [[253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711]] describes junta spending, urban concealment, diplomatic and commercial participation, victory, and celebration beside a nearby torture center.
 - Portuguese prestige: [[230-portugal-football-fado-and-fascism-part-4-glt9147423732]] connects Benfica's 1961-62 European Cups, Portugal's 1966 World Cup run, and [[Eusebio|Eusébio]] to regime-era national presentation amid colonial conflict.
+- Soviet system claim: [[81-modern-olympics-part-2-glt4846758176]] connects Olympic success to Soviet claims of scientific modernity and political-system superiority.
+- Coercive medal production: [[81-modern-olympics-part-2-glt4846758176]] describes East German state-sponsored doping and wider athlete pressure in Eastern Bloc systems.
+- Showcase backfire: [[81-modern-olympics-part-2-glt4846758176]] argues that Moscow 1980 exposed Soviet bleakness and insecurity to Western journalists rather than projecting confident grandeur.
 
 ## Counterevidence & Qualifications
 
-The concept should not imply automatic audience conversion. The Italian source explicitly rejects a simple brainwashing model, notes anti-fascist criticism and protest, and treats Brazil 1970 and Argentina 1978 as reminders that World Cup victories do not prevent dictatorships from later declining. The Nazi source establishes deliberate showcase and concealment more securely than a uniform foreign or German audience response. The Portugal source does not establish that players, supporters, Benfica, or Eusébio endorsed Salazarism, and the regime's association with success should not be equated with ownership of it. The later World Cup source similarly cannot establish what every player, spectator, prisoner, or foreign audience believed, and its claims about drugs, threats, political pressure, Pelé's motives, and Argentina-Peru remain disputed or source-scoped. Genuine sporting quality and joy complicate regime appropriation but do not erase it.
+The concept should not imply automatic audience conversion. The Italian source explicitly rejects a simple brainwashing model, notes anti-fascist criticism and protest, and treats Brazil 1970 and Argentina 1978 as reminders that World Cup victories do not prevent dictatorships from later declining. The Nazi source establishes deliberate showcase and concealment more securely than a uniform foreign or German audience response. The Portugal source does not establish that players, supporters, Benfica, or Eusébio endorsed Salazarism, and the regime's association with success should not be equated with ownership of it. The later World Cup source similarly cannot establish what every player, spectator, prisoner, or foreign audience believed, and its claims about drugs, threats, political pressure, Pelé's motives, and Argentina-Peru remain disputed or source-scoped. The Olympics source is a conversational survey whose doping generalizations, athlete-pressure claims, and judgments of Moscow's reception require independent case-level evidence. Genuine sporting quality and joy complicate regime appropriation but do not erase it.
 
 ## What Changed
 
-- Added Salazar-era Portugal as a lower-spectacle case of authoritarian appropriation through club, national-team, and star prestige.
-- Distinguished regime use of Eusébio's image from the athlete's own politics and from fascist mass mobilization.
+- Extended the concept from hosted spectacle into persistent state training, medal, amateur-status, and doping systems.
+- Added Moscow 1980 as a case in which a planned propaganda showcase could communicate weakness rather than strength.
+- Preserved the boundary between state appropriation and the motives of individual athletes or audiences.
 
 ## Related Concepts
 
@@ -71,3 +78,6 @@ The concept should not imply automatic audience conversion. The Italian source e
 - [[WorldCupNationalMemory]] - later-memory process through which regime context may be retained, simplified, or displaced.
 - [[PortugueseCulturalSymbolPolitics]] - Portugal-specific frame placing football beside Fátima and fado.
 - [[AuthoritarianFascismBoundary]] - classification boundary showing that sports appropriation crosses different authoritarian forms.
+- [[OlympicColdWarRivalry]] - geopolitical medal contest through which Soviet and Eastern Bloc sports systems operated.
+- [[ModernOlympicGames]] - recurring international stage for regime display and audience comparison.
+- [[OlympicHostCityLegacy]] - host-city accounting that separates political prestige from resident welfare.

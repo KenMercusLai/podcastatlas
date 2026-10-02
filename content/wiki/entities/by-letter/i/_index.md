@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 12095
+wiki_total_pages: 12098
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "InternationalMonetaryFund"
     title: "International Monetary Fund"
     url: "/wiki/entities/internationalmonetaryfund/"
+  - key: "InternationalOlympicCommittee"
+    title: "International Olympic Committee"
+    url: "/wiki/entities/internationalolympiccommittee/"
   - key: "InternationalPadelFederation"
     title: "International Padel Federation"
     url: "/wiki/entities/internationalpadelfederation/"
