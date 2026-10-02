@@ -28244,3 +28244,11 @@ Added source `ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-pe
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 73. England v Italy
+
+Added source `73-england-v-italy-glt3184835237`; created `AngloItalianCulturalRelations`, `GiuseppeGaribaldi`, and `ArandoraStar`; and resynthesized `Italy`, `England`, `EnglandNationalFootballTeam`, `ItalyNationalFootballTeam`, and `GrandTourCulture` from their complete preserved evidence inventories. Core synthesis: England's relationship with Italy moved through Roman and papal orientation, Reformation rivalry, elite travel and cultural consumption, liberal enthusiasm for unification, wartime hostility and civilian internment, postwar aspiration, and football; admiration, imitation, condescension, stereotype, and coercion repeatedly coexisted. No settled contradiction was adopted. Ancient identity, literary encounters, quotations, club origins, wartime details, casualty counts, economic rankings, and national-character claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,530-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -12631,6 +12631,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/angloiranianrelations/"
     },
+    "AngloItalianCulturalRelations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3184835237 [GLT3184835237].md",
+          "key": "73-england-v-italy-glt3184835237",
+          "show": "The Rest Is History",
+          "title": "73. England v Italy",
+          "url": "/wiki/sources/73-england-v-italy-glt3184835237/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/angloitalianculturalrelations/"
+    },
     "AngloNormanSuccessionLegitimacy": {
       "episode_count": 4,
       "show_count": 1,
@@ -14900,6 +14916,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/aracelisegarra/"
+    },
+    "ArandoraStar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3184835237 [GLT3184835237].md",
+          "key": "73-england-v-italy-glt3184835237",
+          "show": "The Rest Is History",
+          "title": "73. England v Italy",
+          "url": "/wiki/sources/73-england-v-italy-glt3184835237/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/arandorastar/"
     },
     "ArchaeologicalInterpretationUnderSparseEvidence": {
       "episode_count": 3,
@@ -63309,9 +63341,9 @@
       "url": "/wiki/concepts/engineeringstate/"
     },
     "England": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -63368,15 +63400,22 @@
           "show": "The Rest Is History",
           "title": "462. St George: Dragon-Slayer",
           "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        },
+        {
+          "episode_file": "GLT3184835237 [GLT3184835237].md",
+          "key": "73-england-v-italy-glt3184835237",
+          "show": "The Rest Is History",
+          "title": "73. England v Italy",
+          "url": "/wiki/sources/73-england-v-italy-glt3184835237/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/england/"
     },
     "EnglandNationalFootballTeam": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_f5e779df1da7a4c278586ff9d3f1d98e_20827812 [default.mp3_ywr3ahjkcgo_f5e779df1da7a4c278586ff9d3f1d98e_20827812].md",
@@ -63391,9 +63430,16 @@
           "show": "The Rest Is History",
           "title": "180. England & Englishness",
           "url": "/wiki/sources/180-england-englishness-glt7388885434/"
+        },
+        {
+          "episode_file": "GLT3184835237 [GLT3184835237].md",
+          "key": "73-england-v-italy-glt3184835237",
+          "show": "The Rest Is History",
+          "title": "73. England v Italy",
+          "url": "/wiki/sources/73-england-v-italy-glt3184835237/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/englandnationalfootballteam/"
     },
     "EnglishCommonwealth": {
@@ -81958,6 +82004,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/gisaeng/"
     },
+    "GiuseppeGaribaldi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3184835237 [GLT3184835237].md",
+          "key": "73-england-v-italy-glt3184835237",
+          "show": "The Rest Is History",
+          "title": "73. England v Italy",
+          "url": "/wiki/sources/73-england-v-italy-glt3184835237/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/giuseppegaribaldi/"
+    },
     "GladiatorialSpectacle": {
       "episode_count": 1,
       "show_count": 1,
@@ -83975,9 +84037,9 @@
       "url": "/wiki/concepts/grailtraditionformation/"
     },
     "GrandTourCulture": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3921798295 [GLT3921798295].md",
@@ -83985,9 +84047,16 @@
           "show": "The Rest Is History",
           "title": "221. Holidays: Byron's Grand Tour",
           "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
+        },
+        {
+          "episode_file": "GLT3184835237 [GLT3184835237].md",
+          "key": "73-england-v-italy-glt3184835237",
+          "show": "The Rest Is History",
+          "title": "73. England v Italy",
+          "url": "/wiki/sources/73-england-v-italy-glt3184835237/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/grandtourculture/"
     },
     "GraphNeuralNetworks": {
@@ -105300,9 +105369,9 @@
       "url": "/wiki/concepts/italianirredentism/"
     },
     "Italy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3383347829 [GLT3383347829].md",
@@ -105317,15 +105386,22 @@
           "show": "The Rest Is History",
           "title": "194. The First Fascist",
           "url": "/wiki/sources/194-the-first-fascist-glt5479566212/"
+        },
+        {
+          "episode_file": "GLT3184835237 [GLT3184835237].md",
+          "key": "73-england-v-italy-glt3184835237",
+          "show": "The Rest Is History",
+          "title": "73. England v Italy",
+          "url": "/wiki/sources/73-england-v-italy-glt3184835237/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/italy/"
     },
     "ItalyNationalFootballTeam": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5810592007 [GLT5810592007].md",
@@ -105333,9 +105409,16 @@
           "show": "The Rest Is History",
           "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
           "url": "/wiki/sources/the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007/"
+        },
+        {
+          "episode_file": "GLT3184835237 [GLT3184835237].md",
+          "key": "73-england-v-italy-glt3184835237",
+          "show": "The Rest Is History",
+          "title": "73. England v Italy",
+          "url": "/wiki/sources/73-england-v-italy-glt3184835237/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/italynationalfootballteam/"
     },
     "Ithaca": {

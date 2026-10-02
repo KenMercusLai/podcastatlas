@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12119
+wiki_total_pages: 12121
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1499,6 +1499,9 @@ wiki_pages:
   - key: "AramaraCastro"
     title: "Aramara Castro"
     url: "/wiki/entities/aramaracastro/"
+  - key: "ArandoraStar"
+    title: "Arandora Star"
+    url: "/wiki/entities/arandorastar/"
   - key: "ArashFerdowsi"
     title: "Arash Ferdowsi"
     url: "/wiki/entities/arashferdowsi/"

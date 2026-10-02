@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？](sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf.md) — 无时差研究所 episode on education competition, advance learning, tutoring substitution, school capacity, family coordination, and child-development goals beyond scores.
+- [73. England v Italy](sources/73-england-v-italy-glt3184835237.md) — The Rest Is History on Roman and papal influence, Reformation rivalry, the Grand Tour, Garibaldi, wartime internment, postwar aspiration, and football in Anglo-Italian relations.
 - [74. The Six Wives of Henry VIII](sources/74-the-six-wives-of-henry-viii-glt6913826589.md) — The Rest Is History on Henry VIII's marriages as a collision of dynastic insecurity, European diplomacy, religious change, court faction, gender, and coercive monarchy.
 - [Maximizing Productivity, Physical & Mental Health with Daily Tools](sources/scim3608509346-scim3608509346.md) — Full-length Huberman Lab daily-protocol episode coordinating circadian cues, focused work, exercise, meals, recovery, and sleep with explicit individual-fit and evidence boundaries.
 - [75. The East India Company](sources/75-the-east-india-company-glt7809915873.md) — The Rest Is History with William Dalrymple on joint-stock trade, Bengal's wealth, Indian finance and soldiers, Plassey, famine, corporate bankruptcy, and the Company's conversion into imperial government.
@@ -5572,7 +5573,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jia Rang (Western Han)](entities/JiaRangWesternHan.md) — Western Han proposer of upper, middle, and lower Yellow River flood-control policies.
 - [Qian Mu](entities/QianMu.md) — Historian invoked through a five-hundred-year tree story about long-horizon judgment.
 - [Yellow River](entities/YellowRiver.md) — Chinese civilizational river treated here as both mother river and recurring hydraulic-governance challenge.
-- [Italy](entities/Italy.md) — Recently unified state whose 1915 First World War intervention is framed through irredentism, elite bargaining, Isonzo attrition, and postwar resentment.
+- [Italy](entities/Italy.md) — European state and cultural reference point spanning Roman and Christian authority, unification, wartime nationalism, British reception, and football.
 - [Gabriele D'Annunzio](entities/GabrieleDAnnunzio.md) — Poet-nationalist whose pro-war rhetoric and Fiume precedent connect Italian interventionism to later fascist style.
 - [Luigi Cadorna](entities/LuigiCadorna.md) — Italian commander whose frontal-attack doctrine shaped the early Isonzo disasters.
 - [Isonzo Front](entities/IsonzoFront.md) — Italian-Austro-Hungarian mountain front where Italy's intervention aims became attritional warfare.
@@ -6360,7 +6361,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hindu Kush Himalaya](entities/HinduKushHimalaya.md) — Regional mountain system linking warming, glacier retreat, cross-border flood hazards, and Nepal's disaster exposure.
 - [Paul Rouse](entities/PaulRouse.md) — Historian connecting Irish conquest, identity, famine, nationalism, and Home Rule while resisting simple binaries and unsupported claims.
 - [Vittorio Pozzo](entities/VittorioPozzo.md) — Italy national-team manager whose 1934 and 1938 World Cup wins complicate the fascist propaganda story with real sporting competence.
-- [Italy National Football Team](entities/ItalyNationalFootballTeam.md) — National team whose 1934 and 1938 World Cup victories are read through both football quality and Mussolini-era propaganda.
+- [Italy National Football Team](entities/ItalyNationalFootballTeam.md) — National team read through 1930s football quality and fascist propaganda, plus the modern Anglo-Italian rivalry of the Euro 2020 final.
 - [1934 FIFA World Cup](entities/FIFAWorldCup1934.md) — Italian-hosted tournament staged as a fascist showcase while remaining a real football competition.
 - [1938 FIFA World Cup](entities/FIFAWorldCup1938.md) — France-hosted tournament where Italy retained the title amid anti-fascist protest and Anschluss-era politics.
 - [周党 / Zhou Dang (Eastern Han)](entities/ZhouDangEasternHan.md) — Early Guangwu recluse whose nonconforming court appearance becomes a Liu Xiu tolerance test.
@@ -11430,7 +11431,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Sekigahara / 关原合战](entities/SekigaharaBattle.md) — regime-formation battle near Adams's arrival, used by the episode to place him at a consequential political moment.
 - [Konishi Yukinaga / 小西行长](entities/KonishiYukinaga.md) — Christian daimyo whose defeat, letter, and European afterlife show Japanese Christianity entering European imagination.
 - [Hasekura Tsunenaga / 支仓常长](entities/HasekuraTsunenaga.md) — Japanese envoy to Spain and Rome used by the episode as a failed diplomatic opening shaped by trade and Christian politics.
-- [England](entities/England.md) — Historical-state node spanning medieval Hundred Years' War origins, Elizabethan confessional-maritime crisis, and William Adams's Japan contact branch.
+- [England](entities/England.md) — Historical-state and identity node spanning Roman and Italian orientation, medieval rivalry, Elizabethan security, maritime contact, and national symbolism.
 - [Portugal](entities/Portugal.md) — Iberian maritime power tied to post-Reconquista Ceuta conquest, Age of Discovery memory, Asian trade, and Jesuit influence.
 - [Jesuits / 耶稣会](entities/Jesuits.md) — Catholic missionary network in Japan whose rivalry with Adams and later expulsion anchors the episode's religious-risk branch.
 - [《土里不吐气》](entities/TuLiBuTuQi.md) — source-scoped book preview about a city-to-countryside couple farming with biology/ecology backgrounds.
@@ -12319,7 +12320,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicolas Anelka](entities/NicolasAnelka.md) — Chelsea player whose saved penalty illustrates pressure after an opponent detects a pattern.
 - [John Terry](entities/JohnTerry.md) — Chelsea player whose slip extended the 2008 Champions League final shootout.
 - [Athletic Bilbao](entities/AthleticBilbao.md) — Club mentioned as a later context for Ignacio Palacio Huerta's penalty work.
-- [England National Football Team](entities/EnglandNationalFootballTeam.md) — National-team context for later data-driven penalty preparation.
+- [England National Football Team](entities/EnglandNationalFootballTeam.md) — High-pressure national team, data-preparation context, and public mirror of English identity and international rivalry.
+- [Giuseppe Garibaldi](entities/GiuseppeGaribaldi.md) — Italian unification leader received in Britain as a liberal mass celebrity and remembered through consumer and football culture.
+- [Arandora Star](entities/ArandoraStar.md) — Wartime internee transport whose sinking exposes the human cost of Britain's anti-Italian backlash.
 - [Soccernomics / 《足球经济学》](entities/Soccernomics.md) — Football-economics book now linked to penalty game theory, football as an economic laboratory, discrimination, open talent markets, club finance, and event welfare.
 - [Beautiful Game Theory](entities/BeautifulGameTheory.md) — Ignacio Palacio Huerta's related book linking football to game theory.
 - [Corey Turner](entities/CoreyTurner.md) — NPR education correspondent explaining graduate loan caps, Grad PLUS history, and the evidence around the Bennett hypothesis.
@@ -16062,7 +16065,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Justinianic Plague](concepts/JustinianicPlague.md) — Sixth-century pandemic understood through its fiscal, military, urban, and geopolitical effects.
 - [Nika Riots](concepts/NikaRiots.md) — Constantinopolitan coalition revolt transformed by massacre, elite punishment, and rebuilding into stronger Justinianic rule.
 - [Imperial Restoration Paradox](concepts/ImperialRestorationParadox.md) — Pattern in which recovering a former order damages or ends the institutions and capacity being restored.
-- [Grand Tour Culture](concepts/GrandTourCulture.md) — Elite travel system joining education, classical encounter, collecting, social polish, pleasure, and status display.
+- [Grand Tour Culture](concepts/GrandTourCulture.md) — Elite travel system joining education, classical encounter, collecting, social polish, status display, and an Anglo-Italian hierarchy of admiration and condescension.
+- [Anglo-Italian Cultural Relations](concepts/AngloItalianCulturalRelations.md) — Changing relationship joining Roman and papal authority, cultural transfer, travel, stereotype, wartime coercion, and football.
 - [Georgian Health Resort Formation](concepts/GeorgianHealthResortFormation.md) — Conversion of spa and seaside places into destinations through medical claims, architecture, sociability, patronage, and visitor services.
 - [Marginal Decade Backcasting](concepts/MarginalDecadeBackcasting.md) — Longevity-planning method that derives present capacity and reserve targets from desired late-life function.
 - [Functional Healthspan Assessment](concepts/FunctionalHealthspanAssessment.md) — Framework combining biomarkers with DEXA, bone, lean-mass, aerobic, strength, stability, and lived-function measures.

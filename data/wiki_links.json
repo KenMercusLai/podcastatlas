@@ -3295,6 +3295,10 @@
     "title": "725沙龙 / 725 Salon",
     "url": "/wiki/entities/725salon/"
   },
+  "73-england-v-italy-glt3184835237": {
+    "title": "73. England v Italy",
+    "url": "/wiki/sources/73-england-v-italy-glt3184835237/"
+  },
   "73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061": {
     "title": "73.虚境奇谭：恐怖+幽默=最好的克苏鲁",
     "url": "/wiki/sources/73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061/"
@@ -8159,6 +8163,10 @@
     "title": "Anglo-Iranian Relations",
     "url": "/wiki/concepts/angloiranianrelations/"
   },
+  "AngloItalianCulturalRelations": {
+    "title": "Anglo-Italian Cultural Relations",
+    "url": "/wiki/concepts/angloitalianculturalrelations/"
+  },
   "AngloNormanSuccessionLegitimacy": {
     "title": "Anglo-Norman Succession Legitimacy",
     "url": "/wiki/concepts/anglonormansuccessionlegitimacy/"
@@ -8934,6 +8942,10 @@
   "AramaraCastro": {
     "title": "Aramara Castro",
     "url": "/wiki/entities/aramaracastro/"
+  },
+  "ArandoraStar": {
+    "title": "Arandora Star",
+    "url": "/wiki/entities/arandorastar/"
   },
   "ArashFerdowsi": {
     "title": "Arash Ferdowsi",
@@ -33058,6 +33070,10 @@
   "GitHubCopilot": {
     "title": "GitHub Copilot",
     "url": "/wiki/entities/githubcopilot/"
+  },
+  "GiuseppeGaribaldi": {
+    "title": "Giuseppe Garibaldi",
+    "url": "/wiki/entities/giuseppegaribaldi/"
   },
   "GladiatorialSpectacle": {
     "title": "Gladiatorial Spectacle",
