@@ -3570,6 +3570,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trump and tech leaders agree to voluntary AI safety accord](sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128.md) — Marketplace Tech on a voluntary AI safety accord, FTC scrutiny of AI labs, and documentary-ad reversals under platform and political pressure.
 - [Controlling Your Dopamine For Motivation, Focus & Satisfaction](sources/scim6449668176-scim6449668176.md) — Huberman Lab solo episode on dopamine baseline, peaks and troughs, reward history, anti-stacking, effort reward, cold exposure, social connection, and clinical boundaries.
 - [Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247.md) — Huberman Lab interview on psychedelic classes, clinical protocols, self-representation, integration, microdosing evidence, persistent perceptual symptoms, risks, and regulation.
+- [85. Sherlock Holmes](sources/85-sherlock-holmes-glt8342867383.md) — The Rest Is History on Holmes as Victorian cultural myth, Doyle’s medical and spiritualist contradictions, imperial anxiety, scientific detection, visual iconography, and fandom.
 
 ## Entities
 - [Denis Diderot](entities/DenisDiderot.md) — Atheist Enlightenment writer presented through institutional accounts of corruption, intellectual generosity, and humane curiosity.
@@ -15697,6 +15698,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Themistocles](entities/Themistocles.md) — Athenian politician and naval strategist associated with coalition persuasion, intelligence deception, Salamis, and contested memory-making.
 - [Xerxes I](entities/XerxesI.md) — Achaemenid king whose combined invasion wins at Thermopylae and burns Athens before naval defeat at Salamis.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
+- [Joseph Bell](entities/JosephBell.md) — Edinburgh medical teacher whose diagnostic observation supplied an acknowledged model for Sherlock Holmes’s method.
+- [Sidney Paget](entities/SidneyPaget.md) — Strand illustrator who helped standardize Holmes’s costume, silhouette, and globally recognizable visual identity.
 
 ## Concepts
 - [Enlightenment](concepts/Enlightenment.md) — Plural European transformation joining religious inheritance, scientific inquiry, social infrastructure, universal ambition, and colonial-racial limits.
@@ -25147,5 +25150,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Major Depression Multisystem Model](concepts/MajorDepressionMultisystemModel.md) — Framework joining emotional, motivational, sleep, stress, endocrine, immune, pain, plasticity, and self-narrative dimensions of depression.
 - [Depression Assessment Boundary](concepts/DepressionAssessmentBoundary.md) — Boundary separating symptom recognition from diagnosis, differential assessment, severity evaluation, and treatment selection.
 - [Depression Intervention Evidence Boundary](concepts/DepressionInterventionEvidenceBoundary.md) — Selection rule separating behavioral supports, adjuncts, prescriptions, intensive diets, and altered-state treatments by evidence, feasibility, and risk.
+- [Sherlock Holmes as Victorian Cultural Myth](concepts/SherlockHolmesVictorianCulturalMyth.md) — Framework joining scientific detection, mythic London, imperial anxiety, mass publishing, visual design, and fandom in Holmes’s historical afterlife.
 
 ## Syntheses

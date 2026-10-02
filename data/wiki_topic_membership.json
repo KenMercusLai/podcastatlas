@@ -5907,6 +5907,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "85-sherlock-holmes-glt8342867383": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437": [
     {
       "key": "science",
@@ -46411,6 +46423,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "JosephBell": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "JosephCampbell": [

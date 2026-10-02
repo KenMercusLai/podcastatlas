@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9394
+wiki_total_pages: 9395
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -761,6 +761,9 @@ wiki_pages:
   - key: "ShellShock"
     title: "Shell Shock"
     url: "/wiki/concepts/shellshock/"
+  - key: "SherlockHolmesVictorianCulturalMyth"
+    title: "Sherlock Holmes as Victorian Cultural Myth"
+    url: "/wiki/concepts/sherlockholmesvictorianculturalmyth/"
   - key: "ShiJianqiaoRevengeCase"
     title: "Shi Jianqiao Revenge Case"
     url: "/wiki/concepts/shijianqiaorevengecase/"

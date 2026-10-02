@@ -15505,9 +15505,9 @@
       "url": "/wiki/entities/arthurbrooks/"
     },
     "ArthurConanDoyle": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "144. 被诅咒的木乃伊：福尔摩斯会和老舍联手探案吗？ [878168738].md",
@@ -15536,9 +15536,16 @@
           "show": "The Rest Is History",
           "title": "483. The Mysterious Case of the Ape Man",
           "url": "/wiki/sources/483-the-mysterious-case-of-the-ape-man-glt8701811415/"
+        },
+        {
+          "episode_file": "GLT8342867383 [GLT8342867383].md",
+          "key": "85-sherlock-holmes-glt8342867383",
+          "show": "The Rest Is History",
+          "title": "85. Sherlock Holmes",
+          "url": "/wiki/sources/85-sherlock-holmes-glt8342867383/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/arthurconandoyle/"
     },
     "ArthurOrton": {
@@ -92828,6 +92835,29 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/hollywoodnepotismnetworkadvantage/"
     },
+    "HolmesPasticheTradition": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "144. 被诅咒的木乃伊：福尔摩斯会和老舍联手探案吗？ [878168738].md",
+          "key": "144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738",
+          "show": "蜜獾吃书",
+          "title": "144. 被诅咒的木乃伊：福尔摩斯会和老舍联手探案吗？",
+          "url": "/wiki/sources/144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738/"
+        },
+        {
+          "episode_file": "GLT8342867383 [GLT8342867383].md",
+          "key": "85-sherlock-holmes-glt8342867383",
+          "show": "The Rest Is History",
+          "title": "85. Sherlock Holmes",
+          "url": "/wiki/sources/85-sherlock-holmes-glt8342867383/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/holmespastichetradition/"
+    },
     "HolocaustWarningActionGap": {
       "episode_count": 2,
       "show_count": 1,
@@ -110021,6 +110051,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/josephbanks/"
+    },
+    "JosephBell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8342867383 [GLT8342867383].md",
+          "key": "85-sherlock-holmes-glt8342867383",
+          "show": "The Rest Is History",
+          "title": "85. Sherlock Holmes",
+          "url": "/wiki/sources/85-sherlock-holmes-glt8342867383/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/josephbell/"
     },
     "JosephChamberlain": {
       "episode_count": 1,
@@ -180431,6 +180477,66 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/shequanlatehan/"
     },
+    "SherlockHolmes": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "144. 被诅咒的木乃伊：福尔摩斯会和老舍联手探案吗？ [878168738].md",
+          "key": "144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738",
+          "show": "蜜獾吃书",
+          "title": "144. 被诅咒的木乃伊：福尔摩斯会和老舍联手探案吗？",
+          "url": "/wiki/sources/144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738/"
+        },
+        {
+          "episode_file": "60.闲聊伟大作家们的八卦（第一弹） [648693204].md",
+          "key": "60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204",
+          "show": "蜜獾吃书",
+          "title": "60.闲聊伟大作家们的八卦（第一弹）",
+          "url": "/wiki/sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204/"
+        },
+        {
+          "episode_file": "53.玫瑰的名字（上）：真与假，正与邪，诠释与过度诠释 [636490184].md",
+          "key": "53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184",
+          "show": "蜜獾吃书",
+          "title": "53.玫瑰的名字（上）：真与假，正与邪，诠释与过度诠释",
+          "url": "/wiki/sources/53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184/"
+        },
+        {
+          "episode_file": "69.闲聊推理文学：历史学者可不就是侦探吗！ [666244465].md",
+          "key": "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465",
+          "show": "蜜獾吃书",
+          "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
+          "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+        },
+        {
+          "episode_file": "GLT8342867383 [GLT8342867383].md",
+          "key": "85-sherlock-holmes-glt8342867383",
+          "show": "The Rest Is History",
+          "title": "85. Sherlock Holmes",
+          "url": "/wiki/sources/85-sherlock-holmes-glt8342867383/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/sherlockholmes/"
+    },
+    "SherlockHolmesVictorianCulturalMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8342867383 [GLT8342867383].md",
+          "key": "85-sherlock-holmes-glt8342867383",
+          "show": "The Rest Is History",
+          "title": "85. Sherlock Holmes",
+          "url": "/wiki/sources/85-sherlock-holmes-glt8342867383/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/sherlockholmesvictorianculturalmyth/"
+    },
     "ShiBiLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -181415,6 +181521,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/sichuanwardevastation/"
+    },
+    "SidneyPaget": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8342867383 [GLT8342867383].md",
+          "key": "85-sherlock-holmes-glt8342867383",
+          "show": "The Rest Is History",
+          "title": "85. Sherlock Holmes",
+          "url": "/wiki/sources/85-sherlock-holmes-glt8342867383/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/sidneypaget/"
     },
     "SiegeEconomyStrategy": {
       "episode_count": 1,

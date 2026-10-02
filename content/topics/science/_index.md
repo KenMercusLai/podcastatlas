@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1424
+topic_total_pages: 1425
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2822,6 +2822,9 @@ topic_entities:
   - key: "JonathanHaidt"
     title: "Jonathan Haidt"
     url: "/wiki/entities/jonathanhaidt/"
+  - key: "JosephBell"
+    title: "Joseph Bell"
+    url: "/wiki/entities/josephbell/"
   - key: "JunhaoWen"
     title: "Junhao Wen"
     url: "/wiki/entities/junhaowen/"

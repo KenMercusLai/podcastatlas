@@ -2,28 +2,66 @@
 title: "Sherlock Holmes / 福尔摩斯"
 type: entity
 tags: [fictional-character, detective-fiction, publishing]
-sources: [144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
-last_updated: 2026-07-24
+sources:
+  - 144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738
+  - 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204
+  - 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184
+  - 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465
+  - 85-sherlock-holmes-glt8342867383
+last_updated: 2026-10-03
+knowledge_schema: synthesis-v1
 ---
 
 # Sherlock Holmes / 福尔摩斯
 
-Sherlock Holmes is the detective character created by [[ArthurConanDoyle|Arthur Conan Doyle / 柯南道尔]]. In [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]], [[MihuanChishu|蜜獾吃书]] uses Holmes to show the gap between an author's preferred self-image and the character that readers actually seize. Doyle wanted to be recognized as a historical novelist, but Holmes became the durable public figure.
+## Overview
 
-The episode also treats Holmes as a publishing and visual-design case. The character's name changed before publication, and the familiar thin, elegant Holmes image emerged through later illustration rather than from the earliest depiction. Fan backlash after Doyle killed Holmes in "The Final Problem" shows how serialized fiction can create reader ownership pressure.
+Sherlock Holmes is the fictional detective created by [[ArthurConanDoyle|Arthur Conan Doyle / 柯南道尔]] who became an international icon of observation, deduction, London, scientific detection, and reader-owned literary afterlife.
 
-Earlier, [[WilliamOfBaskerville|William of Baskerville]] in [[TheNameOfTheRose|《玫瑰的名字》]] had already connected the wiki to the Holmes tradition: Eco's investigator is a Sherlock-like figure whose observation and inference still require [[InterpretationAndOverinterpretation|interpretive humility]].
+## Current Profile
 
-[[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] adds two further Holmes functions. First, [[TheHoundOfTheBaskervilles|The Hound of the Baskervilles / 《巴斯克维尔的猎犬》]] shows that Holmes stories can use gothic fear while refusing supernatural causation. Second, late-Qing Holmes translation becomes part of [[ChineseDetectiveModernity]] because Holmes stood for evidence, procedure, science, and modern policing in contrast with [[GongAnFiction|公案小说]].
+Holmes begins as a transformed medical method. [[JosephBell]]'s diagnostic observation supplied an acknowledged influence, but Doyle combined that model with earlier detective fiction, expanding police institutions, scientific confidence, and the short-story magazine market. The result is an exceptional non-supernatural investigator whose intelligence makes apparently mysterious urban disorder legible and often surpasses official authority.
 
-[[144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738]] adds Holmes as a cross-cultural pastiche platform. In [[ShimadaSoji|岛田庄司]]'s [[TheCursedMummy|《被诅咒的木乃伊》]], Holmes is filtered through both [[NatsumeSoseki|夏目漱石]] and [[JohnWatson|华生]]: Soseki's manuscript makes him comic and almost deranged, while Watson's manuscript restores the familiar rational detective. The source therefore extends Holmes from evidence-procedure icon into [[HolmesPasticheTradition]], where the character can meet real writers and expose cultural misreadings such as [[OrientalistMysteryMisdirection|东方主义谜题误导]].
+The character also became [[SherlockHolmesVictorianCulturalMyth]]. Baker Street, fog, cabs, gaslight, class habits, imperial London, and [[SidneyPaget]]'s illustrations created a selective but powerful image of late Victorian and Edwardian Britain. India, Afghanistan, American violence, stolen wealth, espionage, and approaching war repeatedly bring distant danger into the metropolis, so rational confidence and imperial anxiety remain joined.
 
-## Connections
-- [[ArthurConanDoyle|Arthur Conan Doyle / 柯南道尔]] - creator.
-- [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] - source episode.
-- [[WilliamOfBaskerville|William of Baskerville]] - Holmes echo in the Eco branch.
-- [[TheHoundOfTheBaskervilles|The Hound of the Baskervilles / 《巴斯克维尔的猎犬》]] - rationalized gothic example.
-- [[ChineseDetectiveModernity]] and [[GongAnFiction|公案小说]] - translation and institutional-modernity branch.
-- [[SemioticDetectiveFiction]] and [[InterpretationAndOverinterpretation]] - adjacent detective-reading concepts.
-- [[AuthorMythDeflation]] - author preference and reader attachment diverge.
-- [[TheCursedMummy|《被诅咒的木乃伊》]], [[HolmesPasticheTradition|福尔摩斯同人传统]], [[DualManuscriptNarration|双手稿叙事]], and [[OrientalistMysteryMisdirection|东方主义谜题误导]] - episode 144's pastiche extension.
+Holmes then exceeded both author and period. Reader pressure after “The Final Problem,” visual standardization, stage and screen versions, fan societies, parody, and [[HolmesPasticheTradition]] made him a reusable cultural apparatus. Late-Qing translation made him part of [[ChineseDetectiveModernity]], while [[WilliamOfBaskerville|William of Baskerville]] and cross-cultural works such as [[TheCursedMummy|《被诅咒的木乃伊》]] show that later authors can invoke Holmes and still qualify his confidence through fallibility, perspective, and [[InterpretationAndOverinterpretation|interpretive humility]].
+
+## Key Characteristics
+
+- Turns observation, classification, and deduction into a form of exceptional but non-supernatural power.
+- Makes the modern city feel readable while depending on a stylized myth of London and British competence.
+- Registers imperial and geopolitical anxiety when dangers from abroad return to domestic cases.
+- Combines literary authorship with magazine economics, illustration, adaptation, and audience pressure.
+- Supports rationalized gothic storytelling in which supernatural atmosphere can resolve into human causation.
+- Became a global translation, parody, pastiche, and fandom platform partly independent of Doyle's preferences.
+
+## Evidence
+
+- Method and historical setting: [[85-sherlock-holmes-glt8342867383]] links Bell's medicine, policing, science, magazines, and Doyle's formula; [[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] places Holmes inside evidence-based detective and historical reasoning.
+- Gothic rationalism and interpretive limits: [[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] uses [[TheHoundOfTheBaskervilles]] as a rationalized gothic case; [[53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184]] uses William of Baskerville to inherit and qualify Holmesian inference.
+- Publishing, visual design, and reader ownership: [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] and [[85-sherlock-holmes-glt8342867383]] connect Doyle's unwanted fame, serial readers, character revival, illustration, and adaptation.
+- Global reuse: [[144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738]] turns Holmes into a cross-cultural pastiche platform, while [[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] adds the late-Qing translation and procedural-modernity branch.
+- Victorian cultural myth: [[85-sherlock-holmes-glt8342867383]] joins London atmosphere, class, empire, American threats, espionage, war anxiety, fandom, and visual iconography.
+
+## Qualifications
+
+Holmes is a stylized cultural construction rather than a transparent record of Victorian London, policing, class, or empire. Bell was an influence, not necessarily the sole source of the character. Claims that Holmes is the first superhero, that every overseas element represents imperial guilt, or that later detectives descend directly from him remain interpretive. Later illustration and adaptation also shape what audiences remember as “original” Holmes.
+
+## What Changed
+
+- Migrated the page to the synthesis-first schema from its complete preserved evidence inventory.
+- Added Bell's medical influence and the policing, science, and magazine context of Holmes's method.
+- Integrated London mythology, imperial return, espionage, and prewar anxiety into the character's historical profile.
+- Clarified illustration, fandom, translation, and pastiche as co-producers of Holmes's afterlife.
+
+## Relationships
+
+- [[ArthurConanDoyle|Arthur Conan Doyle / 柯南道尔]] - creator whose preferred authorial identity Holmes eclipsed.
+- [[JosephBell]] - medical influence on the detective's observational method.
+- [[SidneyPaget]] - illustrator who helped canonize the character's visual identity.
+- [[SherlockHolmesVictorianCulturalMyth]] - framework connecting Holmes to London, empire, scientific authority, and historical memory.
+- [[ModernCriminalInvestigationFormation]] - institutional history that complicates the fantasy of solitary brilliance.
+- [[TheHoundOfTheBaskervilles]] - rationalized gothic example.
+- [[ChineseDetectiveModernity]] - translation branch where Holmes signifies evidence, procedure, and modern policing.
+- [[HolmesPasticheTradition]] - global practice of reusing, parodying, and relocating the character.
+- [[WilliamOfBaskerville]] - later Holmes echo who adds fallibility and interpretive humility.

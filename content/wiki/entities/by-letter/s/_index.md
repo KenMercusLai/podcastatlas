@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12083
+wiki_total_pages: 12085
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "SichuanChanghong"
     title: "Sichuan Changhong"
     url: "/wiki/entities/sichuanchanghong/"
+  - key: "SidneyPaget"
+    title: "Sidney Paget"
+    url: "/wiki/entities/sidneypaget/"
   - key: "SiegeOfKhartoum"
     title: "Siege of Khartoum"
     url: "/wiki/entities/siegeofkhartoum/"
