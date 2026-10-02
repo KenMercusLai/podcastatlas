@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [12 Days: Nero's Succession and the Fall of the Byzantine Empire](sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296.md) — The Rest Is History on the Rhine mutiny and Year of the Four Emperors, paired with Romanus IV, Manzikert, and Byzantine civil war.
 - [12 Days: Reconquest of Spain and the Old Queen of Hawaii](sources/12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415.md) — The Rest Is History on Granada's surrender, contested Reconquista memory, religious motives, Queen Emma, and Hawaii's monarchy under British-American pressure.
 - [12 Days: Martin Luther and J.R.R. Tolkien](sources/12-days-martin-luther-and-j-r-r-tolkien-glt9800831013.md) — The Rest Is History episode pairing Luther's excommunication with Tolkien's birth, Catholic imagination, mercy, grace, and anti-industrial modernity.
 - [The Science of Making & Breaking Habits](sources/the-science-of-making-breaking-habits-scim6848516659.md) — Huberman Lab solo episode on habit automaticity, task bracketing, state-matched timing, reward learning, sleep consolidation, and post-habit replacement.
@@ -3487,6 +3488,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [Romanus IV](entities/RomanusIV.md) — Eastern Roman general-emperor captured at Manzikert and overthrown during the civil conflict that followed.
+- [Vitellius](entities/Vitellius.md) — Rhine-army candidate who defeated Otho before Vespasian's coalition overthrew him in AD 69.
+- [Galba](entities/Galba.md) — Post-Neronian emperor whose loss of Rhine-army allegiance exposed the fragility of formal succession.
 - [Queen Emma of Hawaii](entities/QueenEmmaOfHawaii.md) — Hawaiian queen, philanthropist, Anglican patron, international royal figure, and unsuccessful 1874 succession candidate.
 - [Kamehameha IV](entities/KamehamehaIV.md) — Hawaiian king whose travel, British affinity, racial experience, and Anglican policy shaped his response to foreign pressure.
 - [Solomon Northup](entities/SolomonNorthup.md) — Freeborn Black New Yorker kidnapped into twelve years of slavery whose rescue and memoir exposed the fragility of enforceable freedom.
@@ -15443,6 +15447,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Battle of Manzikert](concepts/BattleOfManzikert.md) — The 1071 defeat understood together with the succession war and Anatolian territorial losses that followed.
+- [Year of the Four Emperors](concepts/YearOfTheFourEmperors.md) — AD 69 succession crisis in which ritual, pedigree, army allegiance, and military victory competed.
 - [Hawaiian Monarchy under Foreign Pressure](concepts/HawaiianMonarchyForeignPressure.md) — Hawaiian royal adaptation through diplomacy, Christianity, and social institutions amid British and American influence.
 - [Habit Automaticity and Task Bracketing](concepts/HabitAutomaticityAndTaskBracketing.md) — Framework joining initiation friction, procedural rehearsal, sequence boundaries, and context independence.
 - [Post-Habit Replacement](concepts/PostHabitReplacement.md) — Source-scoped practice of using an unwanted habit as the cue for an easy constructive next action.

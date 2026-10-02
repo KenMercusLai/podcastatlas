@@ -19521,6 +19521,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/battleofloos/"
     },
+    "BattleOfManzikert": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6148714296 [GLT6148714296].md",
+          "key": "12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296",
+          "show": "The Rest Is History",
+          "title": "12 Days: Nero's Succession and the Fall of the Byzantine Empire",
+          "url": "/wiki/sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/battleofmanzikert/"
+    },
     "BattleOfMarathon": {
       "episode_count": 2,
       "show_count": 1,
@@ -25569,9 +25585,9 @@
       "url": "/wiki/concepts/byzantinecourtculturetransfer/"
     },
     "ByzantineEmpire": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -25628,6 +25644,13 @@
           "show": "The Rest Is History",
           "title": "156. When Did the Roman Empire Fall?",
           "url": "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
+        },
+        {
+          "episode_file": "GLT6148714296 [GLT6148714296].md",
+          "key": "12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296",
+          "show": "The Rest Is History",
+          "title": "12 Days: Nero's Succession and the Fall of the Byzantine Empire",
+          "url": "/wiki/sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296/"
         }
       ],
       "updated": "2026-10-02",
@@ -74948,6 +74971,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/galapagosislands/"
+    },
+    "Galba": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6148714296 [GLT6148714296].md",
+          "key": "12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296",
+          "show": "The Rest Is History",
+          "title": "12 Days: Nero's Succession and the Fall of the Byzantine Empire",
+          "url": "/wiki/sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/galba/"
     },
     "Galerius": {
       "episode_count": 1,
@@ -137495,9 +137534,9 @@
       "url": "/wiki/entities/nepal/"
     },
     "Nero": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7808118779 [GLT7808118779].md",
@@ -137519,9 +137558,16 @@
           "show": "The Rest Is History",
           "title": "176. The Jews Against Rome (Part 2)",
           "url": "/wiki/sources/176-the-jews-against-rome-part-2-glt3414103581/"
+        },
+        {
+          "episode_file": "GLT6148714296 [GLT6148714296].md",
+          "key": "12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296",
+          "show": "The Rest Is History",
+          "title": "12 Days: Nero's Succession and the Fall of the Byzantine Empire",
+          "url": "/wiki/sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/nero/"
     },
     "NervousSystemStateFlexibility": {
@@ -166484,9 +166530,9 @@
       "url": "/wiki/concepts/romanimperialfallperiodization/"
     },
     "RomanImperialLegitimacy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9103397168 [GLT9103397168].md",
@@ -166508,6 +166554,13 @@
           "show": "The Rest Is History",
           "title": "156. When Did the Roman Empire Fall?",
           "url": "/wiki/sources/156-when-did-the-roman-empire-fall-glt4933356600/"
+        },
+        {
+          "episode_file": "GLT6148714296 [GLT6148714296].md",
+          "key": "12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296",
+          "show": "The Rest Is History",
+          "title": "12 Days: Nero's Succession and the Fall of the Byzantine Empire",
+          "url": "/wiki/sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296/"
         }
       ],
       "updated": "2026-10-02",
@@ -166761,6 +166814,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/romanticizedwarmoralambivalence/"
+    },
+    "RomanusIV": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6148714296 [GLT6148714296].md",
+          "key": "12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296",
+          "show": "The Rest Is History",
+          "title": "12 Days: Nero's Succession and the Fall of the Byzantine Empire",
+          "url": "/wiki/sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/romanusiv/"
     },
     "RomulusAugustulus": {
       "episode_count": 1,
@@ -197249,9 +197318,9 @@
       "url": "/wiki/concepts/vertigovisualanchoring/"
     },
     "Vespasian": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7808118779 [GLT7808118779].md",
@@ -197273,9 +197342,16 @@
           "show": "The Rest Is History",
           "title": "176. The Jews Against Rome (Part 2)",
           "url": "/wiki/sources/176-the-jews-against-rome-part-2-glt3414103581/"
+        },
+        {
+          "episode_file": "GLT6148714296 [GLT6148714296].md",
+          "key": "12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296",
+          "show": "The Rest Is History",
+          "title": "12 Days: Nero's Succession and the Fall of the Byzantine Empire",
+          "url": "/wiki/sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/vespasian/"
     },
     "VestibularLearningActivation": {
@@ -198230,6 +198306,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/visualsystemhealthtoolkit/"
+    },
+    "Vitellius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6148714296 [GLT6148714296].md",
+          "key": "12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296",
+          "show": "The Rest Is History",
+          "title": "12 Days: Nero's Succession and the Fall of the Byzantine Empire",
+          "url": "/wiki/sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/vitellius/"
     },
     "VittorioPozzo": {
       "episode_count": 1,
@@ -211511,6 +211603,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/yelumureka/"
+    },
+    "YearOfTheFourEmperors": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6148714296 [GLT6148714296].md",
+          "key": "12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296",
+          "show": "The Rest Is History",
+          "title": "12 Days: Nero's Succession and the Fall of the Byzantine Empire",
+          "url": "/wiki/sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/yearofthefouremperors/"
     },
     "YegorGaidar": {
       "episode_count": 1,

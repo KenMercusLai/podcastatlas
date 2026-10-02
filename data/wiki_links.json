@@ -151,6 +151,10 @@
     "title": "12 Days: Martin Luther and J.R.R. Tolkien",
     "url": "/wiki/sources/12-days-martin-luther-and-j-r-r-tolkien-glt9800831013/"
   },
+  "12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296": {
+    "title": "12 Days: Nero's Succession and the Fall of the Byzantine Empire",
+    "url": "/wiki/sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296/"
+  },
   "12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415": {
     "title": "12 Days: Reconquest of Spain and the Old Queen of Hawaii",
     "url": "/wiki/sources/12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415/"
@@ -10546,6 +10550,10 @@
   "BattleOfLoos": {
     "title": "Battle of Loos",
     "url": "/wiki/entities/battleofloos/"
+  },
+  "BattleOfManzikert": {
+    "title": "Battle of Manzikert",
+    "url": "/wiki/concepts/battleofmanzikert/"
   },
   "BattleOfMarathon": {
     "title": "Battle of Marathon",
@@ -31026,6 +31034,10 @@
   "GalapagosIslands": {
     "title": "Galapagos Islands / 加拉帕戈斯群岛",
     "url": "/wiki/entities/galapagosislands/"
+  },
+  "Galba": {
+    "title": "Galba",
+    "url": "/wiki/entities/galba/"
   },
   "Galerius": {
     "title": "Galerius",
@@ -66063,6 +66075,10 @@
     "title": "Romanticized War Moral Ambivalence",
     "url": "/wiki/concepts/romanticizedwarmoralambivalence/"
   },
+  "RomanusIV": {
+    "title": "Romanus IV",
+    "url": "/wiki/entities/romanusiv/"
+  },
   "RomulusAugustulus": {
     "title": "Romulus Augustulus",
     "url": "/wiki/entities/romulusaugustulus/"
@@ -79283,6 +79299,10 @@
     "title": "Vitaly Kamluk",
     "url": "/wiki/entities/vitalykamluk/"
   },
+  "Vitellius": {
+    "title": "Vitellius",
+    "url": "/wiki/entities/vitellius/"
+  },
   "Vittel": {
     "title": "Vittel",
     "url": "/wiki/entities/vittel/"
@@ -84362,6 +84382,10 @@
   "YeXian": {
     "title": "《叶限》 / Ye Xian",
     "url": "/wiki/entities/yexian/"
+  },
+  "YearOfTheFourEmperors": {
+    "title": "Year of the Four Emperors",
+    "url": "/wiki/concepts/yearofthefouremperors/"
   },
   "YearWithoutASummer": {
     "title": "Year Without a Summer / 无夏之夏",

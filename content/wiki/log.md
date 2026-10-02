@@ -27427,3 +27427,11 @@ Added source `12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 12 Days: Nero's Succession and the Fall of the Byzantine Empire
+
+Added source `12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296`; created `Galba`, `Vitellius`, `RomanusIV`, `YearOfTheFourEmperors`, and `BattleOfManzikert`; and resynthesized `Nero`, `Vespasian`, `ByzantineEmpire`, and `RomanImperialLegitimacy` from their complete preserved evidence inventories. Core synthesis: AD 69 shows that New Year ritual, senatorial recognition, pedigree, army allegiance, and battlefield victory were competing rather than self-sufficient grounds of imperial authority, while Manzikert became a durable Byzantine rupture because court displacement and civil war magnified a battlefield defeat into dynastic destruction and Anatolian territorial loss. No settled contradiction was adopted; the title's “fall” is qualified by nearly four further centuries of eastern Roman survival. Omens, prophecy, private motives, battle mechanics, treaty terms, court responsibility, and Manzikert's exact causal weight remain ancient-source-dependent or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,427-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
