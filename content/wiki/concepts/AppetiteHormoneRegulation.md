@@ -6,7 +6,8 @@ sources:
   - essentials-how-to-control-hunger-eating-satiety-scim9260736648
   - the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890
   - the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714
-last_updated: 2026-09-25
+  - scim4349715199-scim4349715199
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ An anticipatory layer appears in [[PredictiveHomeostaticControl]]. AGRP activity
 
 The practical implication remains modest. Meal regularity, nutrient composition, food form, food order, movement, and whole-food defaults may change some inputs, but the sources do not establish a universal schedule, nutrient target, supplement, beverage, medication, or diet. Weight-loss counter-regulation, severe obesity, diabetes, eating disorders, and prescription treatment remain clinical rather than self-directed protocol questions.
 
+The eating-disorder source makes the boundary more explicit. Stomach distension, glucose, nutrients, POMC and AGRP neurons, and leptin help describe ordinary energy regulation and consequences of undernutrition, but they do not reduce anorexia, bulimia, or binge eating to one appetite defect. In severe restriction, low energy reserves and low leptin are linked to reproductive suppression, yet leptin administration is not presented as a general anorexia treatment; reward, habit, impulse control, cognition, and perception remain separate clinical layers.
+
 ## Key Claims
 - Appetite is regulated across brainstem, hypothalamic, forebrain, gut, endocrine, sensory, and learning systems rather than by one hunger center or willpower alone.
 - Ghrelin can combine low-glucose or fasting-related hunger with anticipatory signals learned from regular meal timing.
@@ -31,7 +34,7 @@ The practical implication remains modest. Meal regularity, nutrient composition,
 - CCK is presented as a gut-derived satiety signal linked to nutrient sensing after eating.
 - Insulin, glucagon, endogenous GLP-1, and leptin connect appetite to blood-glucose, adipose reserve, and energy-state regulation.
 - Rapid food-cue and oral signals can predict later nutrient delivery, while neuropod-cell and vagal signaling can report post-ingestive nutrient arrival before slower endocrine effects are complete.
-- Behavioral levers may change these inputs, but stronger mechanism and intervention claims require primary evidence and clinical context.
+- Homeostatic signals help explain both ordinary appetite and consequences of undernutrition, but eating disorders require additional diagnosis-specific reward, habit, impulse-control, cognitive, and perceptual models.
 
 ## Evidence
 - Neural accelerators and brakes - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] contrasts arcuate POMC/alpha-MSH and AGRP activity; [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] adds appetitive-versus-consummatory behavior and brainstem-versus-forebrain timescales.
@@ -43,14 +46,15 @@ The practical implication remains modest. Meal regularity, nutrient composition,
 - Rapid intestinal confirmation - [[the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714]] describes neuropod-cell neurotransmission to vagal neurons and reports optogenetic mouse experiments changing sugar-versus-sweetener preference.
 - Anatomical rewiring - [[the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714]] reports rapid changes in hormones, food preference, diabetes, and sensory function after bariatric procedures, while leaving the causal partition unresolved.
 - Sensory integration - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] links oral touch and texture signals with insular processing of enjoyment, avoidance, satiety, and continued eating.
+- Eating-disorder boundary - [[scim4349715199-scim4349715199]] links stomach, glucose, nutrient, POMC, AGRP, and leptin signals to energy regulation while showing why those signals do not by themselves explain restrictive or binge-purge disorders.
 
 ## Counterevidence & Qualifications
-The sources are condensed public education and do not provide complete primary references, effect sizes, or methods. Parabiosis interpretations, precise circuit roles, decerebrate-animal results, AGRP causal claims, CCK triggers, leptin resistance, weight-loss hunger and expenditure estimates, "fat foraging" and "amino acid foraging," neuropod-cell generalization, microbial amino-acid compensation, and behavioral protocols remain source-scoped. Bariatric surgery changes anatomy, nutrient delivery, hormones, neural exposure, and behavior together, so rapid postoperative change does not isolate one pathway. Animal findings do not establish identical human responses, and appetite changes can reflect medication, endocrine disease, diabetes, eating disorders, pregnancy, sleep, stress, or other clinical contexts not resolved by this framework.
+The sources are condensed public education and do not provide complete primary references, effect sizes, or methods. Parabiosis interpretations, precise circuit roles, decerebrate-animal results, AGRP causal claims, CCK triggers, leptin resistance, weight-loss hunger and expenditure estimates, "fat foraging" and "amino acid foraging," neuropod-cell generalization, microbial amino-acid compensation, reproductive effects, and behavioral protocols remain source-scoped. Bariatric surgery changes anatomy, nutrient delivery, hormones, neural exposure, and behavior together, so rapid postoperative change does not isolate one pathway. Leptin's association with energy reserves and reproductive suppression does not establish leptin replacement as general eating-disorder treatment. Animal findings do not establish identical human responses, and appetite changes can reflect medication, endocrine disease, diabetes, eating disorders, pregnancy, sleep, stress, or other clinical contexts not resolved by this framework.
 
 ## What Changed
-- Added rapid neuropod-cell and vagal nutrient confirmation alongside endocrine appetite signaling.
-- Added bariatric anatomical rewiring as suggestive evidence while preserving its multi-mechanism uncertainty.
-- Kept protein sensing, fiber compensation, and animal-to-human translation source-scoped.
+- The synthesis now spans anticipatory cues, rapid gut-neural confirmation, endocrine reserve signals, and longer-timescale behavioral regulation.
+- Eating disorders are explicitly separated from an appetite-signal-only model.
+- Leptin is retained as an energy-state signal while its treatment implications remain qualified.
 
 ## Related Concepts
 - [[SugarCravingNeuralControl]] - narrower neural and gut-reinforcement account for sugar seeking.
@@ -61,3 +65,4 @@ The sources are condensed public education and do not provide complete primary r
 - [[UltraProcessedFoodPragmaticBoundary]] - food-environment boundary that the episode extends with a qualified satiety-signaling hypothesis.
 - [[GLP1Agonists]] - therapeutic receptor-agonist category distinct from ordinary endogenous GLP-1 physiology.
 - [[StressEatingRewardLoop]] - stress and reward pathway that can alter appetite beyond nutrient need.
+- [[EatingDisorderMultisystemModel]] - clinical framework that adds reward, habit, cognition, perception, and social context to homeostatic appetite signals.

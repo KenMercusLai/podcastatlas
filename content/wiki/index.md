@@ -9,6 +9,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [94. Silicon Valley Part 2](sources/94-silicon-valley-part-2-glt3075342575.md) — The Rest Is History with Marc Andreessen on filter bubbles, political amplification, software-mediated transformation, cyberwar ambiguity, and movement-like online communities.
 - [95. 9/11](sources/95-9-11-glt8208243510.md) — The Rest Is History on 9/11 as global media spectacle, rival universalist projects, war-on-terror overreach, and long-run reputational damage.
 - [96. The UK’s Best Churches](sources/96-the-uks-best-churches-glt7919970372.md) — The Rest Is History survey of overlooked churches as archives of architecture, politics, war memory, art, science, folklore, literature, and local life.
+- [Healthy Eating & Eating Disorders: Metabolism, Anorexia, Bulimia, and Binge Eating](sources/scim4349715199-scim4349715199.md) — Early Huberman Lab solo episode on flexible healthy eating, appetite physiology, anorexic habit-reward dysregulation, binge-purge impulse control, and clinical treatment boundaries.
 - [ADHD & How Anyone Can Improve Their Focus](sources/scim5444804832-scim5444804832.md) — Early Huberman Lab solo episode on ADHD attention control, working memory, stimulant and adjunct boundaries, attentional blinks, movement, visual practice, and phone-driven context switching.
 - [97. Top Ten Mistresses](sources/97-top-ten-mistresses-glt8855582591.md) — The Rest Is History countdown on royal favourites, performers, interpreters, celebrity, dynastic strategy, and influence through intimate access outside formal office.
 - [98. Thermopylae & Salamis Episode 1](sources/98-thermopylae-salamis-episode-1-glt3813381992.md) — The Rest Is History on Persian imperial scale, Greek source asymmetry, the road from Ionian revolt to Xerxes' invasion, Athenian fleet-building, prophecy, and the linked Thermopylae-Artemisium defense.
@@ -25081,5 +25082,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Thermopylae](concepts/BattleOfThermopylae.md) — Linked land-sea delaying battle remembered as noble sacrifice despite Persian outflanking and Greek military defeat.
 - [Battle of Salamis](concepts/BattleOfSalamis.md) — Naval turning point joining coalition management, deception, narrow-water tactics, Athenian training, and bounded counterfactual significance.
 - [Psychedelic Microdosing Evidence](concepts/PsychedelicMicrodosingEvidence.md) — Evidence-and-safety boundary around repeated low-dose psychedelic claims, expectancy, and cumulative exposure.
+- [Eating Disorder Multisystem Model](concepts/EatingDisorderMultisystemModel.md) — Framework joining homeostatic, endocrine, reward, habit, impulse-control, cognitive, developmental, perceptual, and social processes without collapsing distinct diagnoses.
+- [Anorexia Habit-Reward Dysregulation](concepts/AnorexiaHabitRewardDysregulation.md) — Restrictive-eating model joining learned avoidance, automatic food choice, reward, body perception, energy state, and medical risk.
+- [Binge-Purging Impulse-Control Model](concepts/BingePurgingImpulseControl.md) — Loss-of-control model distinguishing shared binge mechanisms from bulimia's compensatory purging and treatment-specific boundaries.
 
 ## Syntheses

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9363
+wiki_total_pages: 9366
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2081,6 +2081,9 @@ wiki_pages:
   - key: "AnonymousVisitorIdentification"
     title: "Anonymous Visitor Identification"
     url: "/wiki/concepts/anonymousvisitoridentification/"
+  - key: "AnorexiaHabitRewardDysregulation"
+    title: "Anorexia Habit-Reward Dysregulation"
+    url: "/wiki/concepts/anorexiahabitrewarddysregulation/"
   - key: "AnswerEngineOptimization"
     title: "Answer Engine Optimization"
     url: "/wiki/concepts/answerengineoptimization/"

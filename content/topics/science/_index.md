@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1416
+topic_total_pages: 1417
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -634,6 +634,9 @@ topic_concepts:
   - key: "EarthObservationAI"
     title: "Earth Observation AI"
     url: "/wiki/concepts/earthobservationai/"
+  - key: "EatingDisorderMultisystemModel"
+    title: "Eating Disorder Multisystem Model"
+    url: "/wiki/concepts/eatingdisordermultisystemmodel/"
   - key: "EconomicClimateTechAdoption"
     title: "Economic Climate Tech Adoption"
     url: "/wiki/concepts/economicclimatetechadoption/"

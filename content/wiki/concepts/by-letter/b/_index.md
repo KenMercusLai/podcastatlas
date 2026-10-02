@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9363
+wiki_total_pages: 9366
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "BingeReleaseModel"
     title: "Binge Release Model"
     url: "/wiki/concepts/bingereleasemodel/"
+  - key: "BingePurgingImpulseControl"
+    title: "Binge-Purging Impulse-Control Model"
+    url: "/wiki/concepts/bingepurgingimpulsecontrol/"
   - key: "BioOilCarbonRemoval"
     title: "Bio-Oil Carbon Removal"
     url: "/wiki/concepts/biooilcarbonremoval/"

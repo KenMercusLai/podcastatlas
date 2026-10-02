@@ -12965,6 +12965,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/anonymousslanderretaliation/"
     },
+    "AnorexiaHabitRewardDysregulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4349715199 [SCIM4349715199].md",
+          "key": "scim4349715199-scim4349715199",
+          "show": "Huberman Lab",
+          "title": "Healthy Eating & Eating Disorders: Metabolism, Anorexia, Bulimia, and Binge Eating",
+          "url": "/wiki/sources/scim4349715199-scim4349715199/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/anorexiahabitrewarddysregulation/"
+    },
     "Anschluss": {
       "episode_count": 1,
       "show_count": 1,
@@ -14348,9 +14364,9 @@
       "url": "/wiki/concepts/appeasementlogic/"
     },
     "AppetiteHormoneRegulation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM9260736648 [SCIM9260736648].md",
@@ -14372,9 +14388,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez",
           "url": "/wiki/sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714/"
+        },
+        {
+          "episode_file": "SCIM4349715199 [SCIM4349715199].md",
+          "key": "scim4349715199-scim4349715199",
+          "show": "Huberman Lab",
+          "title": "Healthy Eating & Eating Disorders: Metabolism, Anorexia, Bulimia, and Binge Eating",
+          "url": "/wiki/sources/scim4349715199-scim4349715199/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/appetitehormoneregulation/"
     },
     "AppleMetal": {
@@ -22599,6 +22622,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/bingeoraldoctor/"
     },
+    "BingePurgingImpulseControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4349715199 [SCIM4349715199].md",
+          "key": "scim4349715199-scim4349715199",
+          "show": "Huberman Lab",
+          "title": "Healthy Eating & Eating Disorders: Metabolism, Anorexia, Bulimia, and Binge Eating",
+          "url": "/wiki/sources/scim4349715199-scim4349715199/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/bingepurgingimpulsecontrol/"
+    },
     "Bingzhongluo": {
       "episode_count": 1,
       "show_count": 1,
@@ -30515,9 +30554,9 @@
       "url": "/wiki/entities/casereadyintakeai/"
     },
     "CaseyHalpern": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9347675622 [SCIM9347675622].md",
@@ -30532,9 +30571,16 @@
           "show": "Huberman Lab",
           "title": "Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern",
           "url": "/wiki/sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131/"
+        },
+        {
+          "episode_file": "SCIM4349715199 [SCIM4349715199].md",
+          "key": "scim4349715199-scim4349715199",
+          "show": "Huberman Lab",
+          "title": "Healthy Eating & Eating Disorders: Metabolism, Anorexia, Bulimia, and Binge Eating",
+          "url": "/wiki/sources/scim4349715199-scim4349715199/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/caseyhalpern/"
     },
     "CaseyMeans": {
@@ -36645,9 +36691,9 @@
       "url": "/wiki/concepts/cinemaasnationalmemory/"
     },
     "CircadianEatingWindowAlignment": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM3664199211 [SCIM3664199211].md",
@@ -36676,9 +36722,16 @@
           "show": "Huberman Lab",
           "title": "Effects of Fasting & Time Restricted Eating on Fat Loss & Health",
           "url": "/wiki/sources/scim6513533538-scim6513533538/"
+        },
+        {
+          "episode_file": "SCIM4349715199 [SCIM4349715199].md",
+          "key": "scim4349715199-scim4349715199",
+          "show": "Huberman Lab",
+          "title": "Healthy Eating & Eating Disorders: Metabolism, Anorexia, Bulimia, and Binge Eating",
+          "url": "/wiki/sources/scim4349715199-scim4349715199/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/circadianeatingwindowalignment/"
     },
     "CircadianHomeostaticEnvironmentalModel": {
@@ -56620,6 +56673,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/easterrising/"
+    },
+    "EatingDisorderMultisystemModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4349715199 [SCIM4349715199].md",
+          "key": "scim4349715199-scim4349715199",
+          "show": "Huberman Lab",
+          "title": "Healthy Eating & Eating Disorders: Metabolism, Anorexia, Bulimia, and Binge Eating",
+          "url": "/wiki/sources/scim4349715199-scim4349715199/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/eatingdisordermultisystemmodel/"
     },
     "EccentricSprintCapacity": {
       "episode_count": 1,
@@ -123805,9 +123874,9 @@
       "url": "/wiki/concepts/lossaversion/"
     },
     "LossOfControlEating": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4911670131 [SCIM4911670131].md",
@@ -123815,9 +123884,16 @@
           "show": "Huberman Lab",
           "title": "Biology & Treatments for Compulsive Behaviors & Binge Eating | Dr. Casey Halpern",
           "url": "/wiki/sources/biology-treatments-for-compulsive-behaviors-binge-eating-dr-casey-halpern-scim4911670131/"
+        },
+        {
+          "episode_file": "SCIM4349715199 [SCIM4349715199].md",
+          "key": "scim4349715199-scim4349715199",
+          "show": "Huberman Lab",
+          "title": "Healthy Eating & Eating Disorders: Metabolism, Anorexia, Bulimia, and Binge Eating",
+          "url": "/wiki/sources/scim4349715199-scim4349715199/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/lossofcontroleating/"
     },
     "LostCauseMyth": {
@@ -174733,9 +174809,9 @@
       "url": "/wiki/entities/sasankakkinappoli/"
     },
     "SatchinPanda": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5921048014 [SCIM5921048014].md",
@@ -174743,9 +174819,16 @@
           "show": "Huberman Lab",
           "title": "Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda",
           "url": "/wiki/sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014/"
+        },
+        {
+          "episode_file": "SCIM4349715199 [SCIM4349715199].md",
+          "key": "scim4349715199-scim4349715199",
+          "show": "Huberman Lab",
+          "title": "Healthy Eating & Eating Disorders: Metabolism, Anorexia, Bulimia, and Binge Eating",
+          "url": "/wiki/sources/scim4349715199-scim4349715199/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/satchinpanda/"
     },
     "SaturnBird": {

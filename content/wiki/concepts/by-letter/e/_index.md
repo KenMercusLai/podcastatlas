@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9363
+wiki_total_pages: 9366
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "EatingAndKillingMoralAmbivalence"
     title: "Eating And Killing Moral Ambivalence"
     url: "/wiki/concepts/eatingandkillingmoralambivalence/"
+  - key: "EatingDisorderMultisystemModel"
+    title: "Eating Disorder Multisystem Model"
+    url: "/wiki/concepts/eatingdisordermultisystemmodel/"
   - key: "EBPFObservability"
     title: "eBPF Observability"
     url: "/wiki/concepts/ebpfobservability/"

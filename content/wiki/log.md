@@ -27989,3 +27989,11 @@ Added source `94-silicon-valley-part-2-glt3075342575`; created `InternetPolitica
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | Healthy Eating & Eating Disorders: Metabolism, Anorexia, Bulimia, and Binge Eating
+
+Added source `scim4349715199-scim4349715199`; created `EatingDisorderMultisystemModel`, `AnorexiaHabitRewardDysregulation`, and `BingePurgingImpulseControl`; and resynthesized `AppetiteHormoneRegulation`, `LossOfControlEating`, `CircadianEatingWindowAlignment`, `CaseyHalpern`, and `SatchinPanda` from their complete preserved evidence inventories. Core synthesis: healthy eating permits flexible nourishment, enjoyment, and social context, while anorexia, bulimia, and binge eating require diagnosis-specific models spanning homeostasis, endocrine state, reward, habit, inhibitory control, cognition, perception, development, and medical risk rather than willpower or one universal cause. No settled contradiction was adopted. The 2021 breakfast-versus-evening assessment, protein timing, prevalence, mortality, relapse, neural, cognitive, medication, psychedelic, exercise, virtual-reality, and early DBS claims remain source-scoped; all diagnosis and treatment decisions remain clinically bounded. Recurring host and show pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,498-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the corpus-wide scan still reports 18 unrelated legacy broken links.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

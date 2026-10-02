@@ -8263,6 +8263,10 @@
     "title": "Anonymous Visitor Identification",
     "url": "/wiki/concepts/anonymousvisitoridentification/"
   },
+  "AnorexiaHabitRewardDysregulation": {
+    "title": "Anorexia Habit-Reward Dysregulation",
+    "url": "/wiki/concepts/anorexiahabitrewarddysregulation/"
+  },
   "Anschluss": {
     "title": "Anschluss",
     "url": "/wiki/entities/anschluss/"
@@ -11798,6 +11802,10 @@
   "BingeOralDoctor": {
     "title": "宾哥 / Binge (oral-health doctor)",
     "url": "/wiki/entities/bingeoraldoctor/"
+  },
+  "BingePurgingImpulseControl": {
+    "title": "Binge-Purging Impulse-Control Model",
+    "url": "/wiki/concepts/bingepurgingimpulsecontrol/"
   },
   "BingeReleaseModel": {
     "title": "Binge Release Model",
@@ -25058,6 +25066,10 @@
   "EatingAndKillingMoralAmbivalence": {
     "title": "Eating And Killing Moral Ambivalence",
     "url": "/wiki/concepts/eatingandkillingmoralambivalence/"
+  },
+  "EatingDisorderMultisystemModel": {
+    "title": "Eating Disorder Multisystem Model",
+    "url": "/wiki/concepts/eatingdisordermultisystemmodel/"
   },
   "EccentricSprintCapacity": {
     "title": "Eccentric Sprint Capacity",
@@ -92458,6 +92470,10 @@
   "scim2965049301-scim2965049301": {
     "title": "How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
     "url": "/wiki/sources/scim2965049301-scim2965049301/"
+  },
+  "scim4349715199-scim4349715199": {
+    "title": "Healthy Eating & Eating Disorders: Metabolism, Anorexia, Bulimia, and Binge Eating",
+    "url": "/wiki/sources/scim4349715199-scim4349715199/"
   },
   "scim4448895120-scim4448895120": {
     "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
