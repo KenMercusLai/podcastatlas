@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [115. The Gunpowder Plot](sources/115-the-gunpowder-plot-glt1711431752.md) — The Rest Is History on Catesby's conspiracy, Fawkes's capture, intelligence ambiguity, treason punishment, and Bonfire Night's changing meanings.
 - [EP196-人类高效工作研究报告](sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge.md) — 无时差研究所 episode on hidden overtime incentives, knowledge-work coordination, pseudo-productivity, work-rest boundaries, health costs, and internalized overwork.
 - [116. Alexander the Great Part 1](sources/116-alexander-the-great-part-1-glt3321594885.md) — The Rest Is History on Philip II's Macedonian platform, Alexander's early conquests, Issus, Tyre, Egypt, Siwa, expanding ambition, and source uncertainty.
 - [How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French](sources/scim2965049301-scim2965049301.md) — Huberman Lab interview on adaptation-led programming across resistance training, recovery, thermal stress, fuel selection, and mixed-martial-arts performance.
@@ -3523,6 +3524,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 
 ## Entities
+- [Robert Catesby](entities/RobertCatesby.md) — Principal organizer of the Gunpowder Plot, distinguished from its later public face Guy Fawkes.
+- [Guy Fawkes](entities/GuyFawkes.md) — Plot explosives specialist whose cultural afterlife became a portable anti-establishment symbol.
+- [James VI and I](entities/JamesVIAndI.md) — Monarch whose accession raised toleration hopes and whose survival anchored Protestant thanksgiving.
+- [Robert Cecil](entities/RobertCecil.md) — Jacobean minister associated with plot detection, managed-discovery theories, and political stability.
 - [Philip II of Macedon](entities/PhilipIIMacedon.md) — Macedonian king whose state, army, Greek hegemony, and planned Persian invasion formed Alexander's inherited conquest platform.
 - [Duncan French](entities/DuncanFrench.md) — Exercise physiologist and UFC performance leader organizing training, recovery, nutrition, and environmental stress around target adaptations.
 - [Darius III](entities/DariusIII.md) — Final Achaemenid king whose defeat and death allowed Alexander to claim succession as avenger and heir.
@@ -15557,6 +15562,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Gunpowder Plot](concepts/GunpowderPlot.md) — Failed 1605 attack linking confessional exclusion, mass violence, intelligence ambiguity, and weak succession planning.
+- [Bonfire Night](concepts/BonfireNight.md) — Evolving 5 November tradition spanning Protestant thanksgiving, popular disorder, decline, and anti-establishment reuse.
 - [Invisible Overtime Incentive Trap / 隐形加班激励陷阱](concepts/InvisibleOvertimeIncentiveTrap.md) — Workplace mechanism where cost, performance stigma, and target ratchets make continued but unreported overtime rational.
 - [Internalized Overwork / 内化型过劳](concepts/InternalizedOverwork.md) — Responsibility and perfectionism mechanism that turns organizational pressure into self-imposed labor beyond explicit requirements.
 - [Adaptation-Led Programming](concepts/AdaptationLedProgramming.md) — Goal-first coordination of training, recovery, nutrition, environmental stress, and monitoring by adaptation and phase.

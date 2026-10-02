@@ -27713,3 +27713,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 115. The Gunpowder Plot
+
+Added source `115-the-gunpowder-plot-glt1711431752`; created `RobertCatesby`, `GuyFawkes`, `JamesVIAndI`, `RobertCecil`, `GunpowderPlot`, and `BonfireNight`; and resynthesized `TreasonAsSovereigntyContest` from its complete preserved evidence inventory. Core synthesis: the plot was a genuine, potentially catastrophic attack whose organizers lacked a credible route from destroying the Jacobean regime to establishing a durable replacement; possible intelligence management does not establish false-flag fabrication; and Bonfire Night repeatedly detached Fawkes from the conspiracy's original confessional program. No settled contradiction was adopted. The Monteagle letter, Cecil's foreknowledge, Garnet's involvement, powder effectiveness, and counterfactual consequences remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,463-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11993
+wiki_total_pages: 11997
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -566,6 +566,12 @@ wiki_pages:
   - key: "RobertBoyle"
     title: "Robert Boyle / 罗伯特·波义耳"
     url: "/wiki/entities/robertboyle/"
+  - key: "RobertCatesby"
+    title: "Robert Catesby"
+    url: "/wiki/entities/robertcatesby/"
+  - key: "RobertCecil"
+    title: "Robert Cecil"
+    url: "/wiki/entities/robertcecil/"
   - key: "RobertColls"
     title: "Robert Colls"
     url: "/wiki/entities/robertcolls/"

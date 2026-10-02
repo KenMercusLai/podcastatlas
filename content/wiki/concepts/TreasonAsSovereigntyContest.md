@@ -5,8 +5,9 @@ tags: [treason, sovereignty, law, legitimacy, political-violence]
 sources:
   - 249-treason-in-modern-britain-part-2-glt2159531504
   - 248-medieval-treason-part-1-glt9532907553
+  - 115-the-gunpowder-plot-glt1711431752
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-30
+last_updated: 2026-10-02
 ---
 
 # Treason as Sovereignty Contest
@@ -17,7 +18,9 @@ Treason as sovereignty contest is the principle that a treason charge identifies
 
 ## Current Synthesis
 
-The paired sources trace a recurring transfer and enlargement of allegiance among monarch, dynasty, realm, Parliament, religion, people, state, nation, and republic. The [[TreasonAct1351|Treason Act 1351/1352]] centered the monarch's life, royal succession, war, and adherence to enemies, yet late-medieval deposition, retrospective attainder, treasonous words, and imagined supernatural harm already made the identity and security of the lawful ruler contestable. Tudor religious supremacy and the Gunpowder Plot then widened the practical stakes toward confession, Parliament, institutions, and public order without simply erasing personal allegiance.
+The sources trace a recurring transfer and enlargement of allegiance among monarch, dynasty, realm, Parliament, religion, people, state, nation, and republic. The [[TreasonAct1351|Treason Act 1351/1352]] centered the monarch's life, royal succession, war, and adherence to enemies, yet late-medieval deposition, retrospective attainder, treasonous words, and imagined supernatural harm already made the identity and security of the lawful ruler contestable. Tudor religious supremacy widened the practical stakes toward confession, while the [[GunpowderPlot]] targeted king, succession, Parliament, and Protestant political order at once without simply erasing personal allegiance.
+
+The plot also exposes a difference between destroying sovereignty and replacing it. [[RobertCatesby]]'s circle could imagine killing the assembled regime and seizing Princess Elizabeth, but [[115-the-gunpowder-plot-glt1711431752]] finds little evidence that it possessed the coalition or governing plan needed to make a new claim enforceable. Intelligence management, prosecution, punishment, and annual thanksgiving then let the surviving state narrate the failed rupture as proof of legitimate deliverance.
 
 The trial of [[CharlesIOfEngland|Charles I]] made the later reversal explicit: a law historically centered on harm to the king was repurposed to allege that the king had levied war against the people. Charles's refusal to plead was therefore not incidental obstruction but a competing claim that the court itself lacked sovereign authority.
 
@@ -31,6 +34,7 @@ The same structure reappears across the Atlantic and in Ireland. British authori
 - Trials perform sovereign authority publicly as well as deciding legal guilt.
 - False conspiracy claims gain power when fear, apparent confirmation, elite sponsorship, and legal procedure reinforce one another.
 - Governments repeatedly adapt allegiance rules, evidence, and treason definitions to the crisis they face, but later repeal can restore an older baseline.
+- A conspiracy may threaten the sovereign order's personnel and institutions without possessing a viable alternative sovereignty.
 
 ## Evidence
 
@@ -43,6 +47,11 @@ The same structure reappears across the Atlantic and in Ireland. British authori
 
 - [[248-medieval-treason-part-1-glt9532907553]] presents the 1351/1352 act as a recurring baseline while tracing interpretive pressure around words, magic, collective violence, succession, religion, and poisoning.
 - [[248-medieval-treason-part-1-glt9532907553]] says most Henrician additions were repealed, showing that sovereign expansion could be legally reversed.
+
+### Destruction without viable succession
+
+- [[115-the-gunpowder-plot-glt1711431752]] combines an intended attack on king, family, Lords, MPs, and Parliament with a weak plan to seize Princess Elizabeth and little demonstrated support for a Catholic rising.
+- [[115-the-gunpowder-plot-glt1711431752]] distinguishes a genuine conspiracy from possible tactical management of its discovery, showing intelligence and legal theater operating around rather than inventing the sovereign threat.
 
 ### Reversible allegiance
 
@@ -61,12 +70,14 @@ The same structure reappears across the Atlantic and in Ireland. British authori
 - The sources are guided archival surveys, not a comprehensive doctrinal history of every treason statute or prosecution.
 - The long-run movement from king toward state and public institutions was layered rather than linear; personal allegiance, dynasty, religion, Parliament, and nation continued to overlap.
 - The concept distinguishes enforceable legal authority from moral legitimacy; victory can settle jurisdiction without settling historical judgment.
+- The Gunpowder Plot evidence does not establish that all English Catholics shared the conspirators' aims, nor that destroying the sitting regime would have made their alternative legitimate or durable.
 
 ## What Changed
 
 - Extended the model backward to the medieval statute, royal succession, deposition, attainder, and Tudor religious expansion.
 - Added durable statutory language and later repeal as constraints on sovereign innovation.
 - Qualified the shift from monarch to state as layered rather than linear.
+- Added the distinction between capacity for sovereign destruction and capacity to establish a successor order.
 
 ## Related Concepts
 
@@ -76,3 +87,5 @@ The same structure reappears across the Atlantic and in Ireland. British authori
 - [[ExemplaryTreasonPunishment]] - performs sovereign authority through public and bodily warning.
 - [[RepublicanFoundingWithoutSettlement]] - explains why sovereignty reversal may precede durable institutions.
 - [[PoliticalExecutionMemoryContest]] - tracks rival meanings attached to punishment for alleged betrayal.
+- [[GunpowderPlot]] - case in which attack on a sovereign order outran the conspirators' capacity to replace it.
+- [[BonfireNight]] - ritual through which the surviving order converted failed treason into public legitimacy.

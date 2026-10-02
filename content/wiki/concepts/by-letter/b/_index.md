@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9298
+wiki_total_pages: 9300
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "BondedWarehouseCrossBorderImport"
     title: "Bonded Warehouse Cross-Border Import / 保税仓跨境电商"
     url: "/wiki/concepts/bondedwarehousecrossborderimport/"
+  - key: "BonfireNight"
+    title: "Bonfire Night"
+    url: "/wiki/concepts/bonfirenight/"
   - key: "BonusShareSplitMisreading"
     title: "Bonus Share and Stock Split Misreading / 拆股送股误读"
     url: "/wiki/concepts/bonussharesplitmisreading/"

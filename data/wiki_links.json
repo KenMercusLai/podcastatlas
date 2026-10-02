@@ -123,6 +123,10 @@
     "title": "115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？",
     "url": "/wiki/sources/115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309/"
   },
+  "115-the-gunpowder-plot-glt1711431752": {
+    "title": "115. The Gunpowder Plot",
+    "url": "/wiki/sources/115-the-gunpowder-plot-glt1711431752/"
+  },
   "116-alexander-the-great-part-1-glt3321594885": {
     "title": "116. Alexander the Great Part 1",
     "url": "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
@@ -12274,6 +12278,10 @@
   "BondedWarehouseCrossBorderImport": {
     "title": "Bonded Warehouse Cross-Border Import / 保税仓跨境电商",
     "url": "/wiki/concepts/bondedwarehousecrossborderimport/"
+  },
+  "BonfireNight": {
+    "title": "Bonfire Night",
+    "url": "/wiki/concepts/bonfirenight/"
   },
   "BonnieHalpernFelsher": {
     "title": "Bonnie Halpern-Felsher",
@@ -33967,6 +33975,10 @@
     "title": "Gumroad",
     "url": "/wiki/entities/gumroad/"
   },
+  "GunpowderPlot": {
+    "title": "Gunpowder Plot",
+    "url": "/wiki/concepts/gunpowderplot/"
+  },
   "GuoDaLateHan": {
     "title": "郭大 / Guo Da (late Han)",
     "url": "/wiki/entities/guodalatehan/"
@@ -34158,6 +34170,10 @@
   "GuwenDeLiliang": {
     "title": "《古文的力量》",
     "url": "/wiki/entities/guwendeliliang/"
+  },
+  "GuyFawkes": {
+    "title": "Guy Fawkes",
+    "url": "/wiki/entities/guyfawkes/"
   },
   "GuyRaz": {
     "title": "Guy Raz",
@@ -40618,6 +40634,10 @@
   "JamesSteinberg": {
     "title": "James Steinberg",
     "url": "/wiki/entities/jamessteinberg/"
+  },
+  "JamesVIAndI": {
+    "title": "James VI and I",
+    "url": "/wiki/entities/jamesviandi/"
   },
   "JamieSiminoff": {
     "title": "Jamie Siminoff",
@@ -66030,6 +66050,14 @@
   "RobertBoyle": {
     "title": "Robert Boyle / 罗伯特·波义耳",
     "url": "/wiki/entities/robertboyle/"
+  },
+  "RobertCatesby": {
+    "title": "Robert Catesby",
+    "url": "/wiki/entities/robertcatesby/"
+  },
+  "RobertCecil": {
+    "title": "Robert Cecil",
+    "url": "/wiki/entities/robertcecil/"
   },
   "RobertColls": {
     "title": "Robert Colls",

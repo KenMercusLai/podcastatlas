@@ -23429,6 +23429,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/bondedwarehousecrossborderimport/"
     },
+    "BonfireNight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1711431752 [GLT1711431752].md",
+          "key": "115-the-gunpowder-plot-glt1711431752",
+          "show": "The Rest Is History",
+          "title": "115. The Gunpowder Plot",
+          "url": "/wiki/sources/115-the-gunpowder-plot-glt1711431752/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/bonfirenight/"
+    },
     "BonnieHalpernFelsher": {
       "episode_count": 1,
       "show_count": 1,
@@ -83220,6 +83236,22 @@
       "updated": "2026-08-07",
       "url": "/wiki/concepts/gulfstabilityrisk/"
     },
+    "GunpowderPlot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1711431752 [GLT1711431752].md",
+          "key": "115-the-gunpowder-plot-glt1711431752",
+          "show": "The Rest Is History",
+          "title": "115. The Gunpowder Plot",
+          "url": "/wiki/sources/115-the-gunpowder-plot-glt1711431752/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/gunpowderplot/"
+    },
     "GuoGongEasternHanJurist": {
       "episode_count": 1,
       "show_count": 1,
@@ -83848,6 +83880,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/guthrum/"
+    },
+    "GuyFawkes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1711431752 [GLT1711431752].md",
+          "key": "115-the-gunpowder-plot-glt1711431752",
+          "show": "The Rest Is History",
+          "title": "115. The Gunpowder Plot",
+          "url": "/wiki/sources/115-the-gunpowder-plot-glt1711431752/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/guyfawkes/"
     },
     "GwenShotwell": {
       "episode_count": 2,
@@ -103607,6 +103655,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/jamessteinberg/"
+    },
+    "JamesVIAndI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1711431752 [GLT1711431752].md",
+          "key": "115-the-gunpowder-plot-glt1711431752",
+          "show": "The Rest Is History",
+          "title": "115. The Gunpowder Plot",
+          "url": "/wiki/sources/115-the-gunpowder-plot-glt1711431752/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/jamesviandi/"
     },
     "JamieSiminoff": {
       "episode_count": 3,
@@ -167840,6 +167904,38 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/robertblum/"
     },
+    "RobertCatesby": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1711431752 [GLT1711431752].md",
+          "key": "115-the-gunpowder-plot-glt1711431752",
+          "show": "The Rest Is History",
+          "title": "115. The Gunpowder Plot",
+          "url": "/wiki/sources/115-the-gunpowder-plot-glt1711431752/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/robertcatesby/"
+    },
+    "RobertCecil": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1711431752 [GLT1711431752].md",
+          "key": "115-the-gunpowder-plot-glt1711431752",
+          "show": "The Rest Is History",
+          "title": "115. The Gunpowder Plot",
+          "url": "/wiki/sources/115-the-gunpowder-plot-glt1711431752/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/robertcecil/"
+    },
     "RobertColls": {
       "episode_count": 1,
       "show_count": 1,
@@ -196057,9 +196153,9 @@
       "url": "/wiki/entities/treasonact1351/"
     },
     "TreasonAsSovereigntyContest": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2159531504 [GLT2159531504].md",
@@ -196074,9 +196170,16 @@
           "show": "The Rest Is History",
           "title": "248. Medieval Treason (Part 1)",
           "url": "/wiki/sources/248-medieval-treason-part-1-glt9532907553/"
+        },
+        {
+          "episode_file": "GLT1711431752 [GLT1711431752].md",
+          "key": "115-the-gunpowder-plot-glt1711431752",
+          "show": "The Rest Is History",
+          "title": "115. The Gunpowder Plot",
+          "url": "/wiki/sources/115-the-gunpowder-plot-glt1711431752/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/treasonassovereigntycontest/"
     },
     "TreasuryBuybackPolicy": {

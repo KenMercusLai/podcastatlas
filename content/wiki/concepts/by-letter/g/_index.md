@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9298
+wiki_total_pages: 9300
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -611,6 +611,9 @@ wiki_pages:
   - key: "GulfStrategicDiversification"
     title: "Gulf Strategic Diversification"
     url: "/wiki/concepts/gulfstrategicdiversification/"
+  - key: "GunpowderPlot"
+    title: "Gunpowder Plot"
+    url: "/wiki/concepts/gunpowderplot/"
   - key: "GutSensoryNeuralSignaling"
     title: "Gut Sensory Neural Signaling"
     url: "/wiki/concepts/gutsensoryneuralsignaling/"

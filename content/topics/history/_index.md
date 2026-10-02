@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2403
+topic_total_pages: 2404
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4812,6 +4812,9 @@ topic_sources:
   - key: "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095"
     title: "112. 闲聊金庸第一弹：明教竟然今天还存在？"
     url: "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+  - key: "115-the-gunpowder-plot-glt1711431752"
+    title: "115. The Gunpowder Plot"
+    url: "/wiki/sources/115-the-gunpowder-plot-glt1711431752/"
   - key: "116-alexander-the-great-part-1-glt3321594885"
     title: "116. Alexander the Great Part 1"
     url: "/wiki/sources/116-alexander-the-great-part-1-glt3321594885/"
