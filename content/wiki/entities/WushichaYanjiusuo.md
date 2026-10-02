@@ -12,6 +12,7 @@ sources:
   - ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge
   - ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv
   - ep193-bel-canto-duihua-meisheng-gechangjia-ting-geju-daodi-zai-ting-shenme-ckwrijifn4vdabaaaadrcjk0
+  - ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -26,6 +27,8 @@ Across the current sources, the show functions as a conversational interpretatio
 
 EP193 adds a music-education branch through [[QiaoNini|乔妮妮]]. Personal training history becomes an explanation of [[OperaticPerformanceTraining|operatic performance training]], [[ArtsCareerFormation|arts-career formation]], and [[ExperienceFirstArtAppreciation|experience-first art appreciation]], keeping specialist technique connected to newcomer access and cross-cultural creation.
 
+EP191 adds an earlier film-studies branch through [[KaofenFilmScholar|考芬]]. Close readings of [[TheFatherFilm|《困在时间里的父亲》]], [[TheFarewellFilm|《别告诉她》]], and [[TheIntouchablesFilm|《触不可及》]] connect narrative form to dementia subjectivity, migrant-family separation, disability dignity, [[CareRelationshipLaborAndBoundaries|care labor and boundaries]], and ordinary farewell while keeping symbolic, ethical, and professional-care claims qualified.
+
 The shared profile is source-scoped translation. The show takes topics circulating through social media, old-drama and reality-TV clips, celebrity body speculation, product hype, travel reputation, workplace policy labels, or intimidating art forms and asks what underlying structure is being missed. It does not become a clinical, financial, industry-data, production-history, labor-research, conservatory-research, or country-studies authority; its value in these sources is organizing questions, boundaries, mechanisms, and lived reception.
 
 ## Key Characteristics
@@ -33,7 +36,7 @@ The shared profile is source-scoped translation. The show takes topics circulati
 - Gender-aware reading venue skeptical of male-rescuer independence narratives.
 - Media-circulation observer linking revival to clips, later commentary, and changing interpretive models.
 - Public medical-literacy venue when consumer health technology becomes a social-media topic.
-- Travel, creative-practice, social-play, and arts-education venue when an experience, production process, or participatory form needs to be read structurally.
+- Travel, film, creative-practice, social-play, and arts-education venue when an experience, production process, or cultural form needs to be read structurally.
 - Workplace-structure venue connecting formal rules to incentives, coordination habits, personal boundaries, and embodied cost.
 - Source-scoped commentator rather than a verified clinical, industry-data, or market source.
 
@@ -50,14 +53,15 @@ The shared profile is source-scoped translation. The show takes topics circulati
 - Workplace-structure venue: [[ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge]] connects a nominal “1075” schedule to workload, overtime-reporting incentives, low-value meetings, duplicated documents, always-on messaging, health strain, and self-imposed perfectionism.
 - Social-play interpretation: [[ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv]] uses experienced-player testimony to distinguish 剧本杀 genres and connect role fit, DM guidance, participant attention, online-versus-offline affordances, and shared memory.
 - Arts-education translation: [[ep193-bel-canto-duihua-meisheng-gechangjia-ting-geju-daodi-zai-ting-shenme-ckwrijifn4vdabaaaadrcjk0]] uses one soprano student's experience to explain Bel Canto, opera, art song, language study, role preparation, career formation, and audience access.
+- Film-form and care interpretation: [[ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw]] uses three films to connect unreliable perspective, space, sound, wedding structure, humor, and endings to dementia, migration, disclosure, disability, dignity, and caregiver limits.
 - Source-scoped commentator: [[ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf]] flags several industry, housing, and audience claims as impressions rather than independently checked research; [[ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy]] similarly keeps drug, pregnancy, price, patent, and pipeline claims bounded as public discussion rather than prescribing or investment guidance; [[ep383-wangmama-yongchuang-nanfei-zhongzu-geli-feichu-30nianhou-de-jintian-ta-zhende-zhongsheng-le-ma-gkwrirwowku-anekiqtitfzk]] keeps South African crime, education, corruption, and labor-pattern claims bounded to travel observation and conversation; [[ep386-shiyi-chuxing-bu-xiang-dang-dayuanzhong-zanmen-lai-tingting-zishen-lingdui-de-xiaoqiaosi-gkwrirwodgrhaeuitgtugmxp]] keeps destination prices, visas, safety, and demand trends bounded to a September 2026 travel conversation; [[ep387-neiyu-mingzhu-huashao-2-youyouyou-shangresou-jiujing-shui-caishi-zhongji-langren-gkwrirwofzopajzxyatybpqr]] explicitly marks cast psychology, off-camera events, chronology, and labor totals as incomplete or inferential; [[ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb]] keeps travel-shoot market figures, platform response, city character, and business viability source-scoped; [[ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge]] keeps company policy, overtime behavior, health, and generational comparisons bounded to lived experience; [[ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv]] keeps genre prevalence, licensing, format quality, and learning effects bounded to experienced-player testimony; [[ep193-bel-canto-duihua-meisheng-gechangjia-ting-geju-daodi-zai-ting-shenme-ckwrijifn4vdabaaaadrcjk0]] keeps voice pedagogy, career structure, bias, industry opportunity, and audience effects bounded to one guest's account.
 
 ## Qualifications
-This page is limited to the show's role in the ingested EP193, EP194, EP196, and EP383 through EP388 sources. It does not describe the show's full catalog, hosts, ownership, audience size, editorial history, clinical authority, labor-research authority, conservatory-research authority, travel expertise, photography-market authority, game-industry authority, production access, or complete topical range.
+This page is limited to the show's role in the ingested EP191, EP193, EP194, EP196, and EP383 through EP388 sources. It does not describe the show's full catalog, hosts, ownership, audience size, editorial history, clinical authority, labor-research authority, conservatory-research authority, care-research authority, travel expertise, photography-market authority, game-industry authority, production access, or complete topical range.
 
 ## What Changed
-- Extended the profile into arts education, classical vocal performance, and newcomer-facing art appreciation.
-- Added voice pedagogy, arts-career structure, bias, and audience response to the show's source-scope boundary.
+- Extended the profile into film-form analysis of illness, aging, disability, migration, care, and farewell.
+- Added a boundary between culturally revealing film interpretation and clinical, care-system, or universal ethical evidence.
 
 ## Relationships
 - [[MyFirstHalfLife|《我的前半生》]] - main work discussed in EP385.
@@ -93,3 +97,6 @@ This page is limited to the show's role in the ingested EP193, EP194, EP196, and
 - [[OperaticPerformanceTraining]] - integrated craft model developed from EP193.
 - [[ArtsCareerFormation]] - talent, training, resources, opportunity, and sustainability model developed from EP193.
 - [[ExperienceFirstArtAppreciation]] - newcomer-access principle developed from EP193.
+- [[KaofenFilmScholar|考芬]] - film-studies guest connecting formal analysis to social and ethical questions in EP191.
+- [[CareRelationshipLaborAndBoundaries]] - cross-film care synthesis developed in EP191.
+- [[DeathNormalizationPractice]] - ordinary-farewell frame reinforced in EP191.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12041
+wiki_total_pages: 12045
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "KeZiHost"
     title: "柯子"
     url: "/wiki/entities/kezihost/"
+  - key: "KaofenFilmScholar"
+    title: "考芬 / Kaofen"
+    url: "/wiki/entities/kaofenfilmscholar/"
   - key: "KuaiChe"
     title: "蒯彻 / Kuai Che"
     url: "/wiki/entities/kuaiche/"

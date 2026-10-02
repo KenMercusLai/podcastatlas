@@ -29772,6 +29772,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/cardiovascularexerciseriskboundary/"
     },
+    "CareRelationshipLaborAndBoundaries": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIaIFJWonABAAAADmrUsW [CKwRIaIFJWonABAAAADmrUsW].md",
+          "key": "ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw",
+          "show": "无时差研究所",
+          "title": "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable",
+          "url": "/wiki/sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/carerelationshiplaborandboundaries/"
+    },
     "CareSocialization": {
       "episode_count": 3,
       "show_count": 3,
@@ -48432,9 +48448,9 @@
       "url": "/wiki/concepts/deathnarrativederomanticization/"
     },
     "DeathNormalizationPractice": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lqBW_yofWhs8RpT3W0XSe_g9ajJ1 [lqBW_yofWhs8RpT3W0XSe_g9ajJ1].md",
@@ -48449,9 +48465,16 @@
           "show": "这病说来话长",
           "title": "VOL.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日",
           "url": "/wiki/sources/vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5/"
+        },
+        {
+          "episode_file": "CKwRIaIFJWonABAAAADmrUsW [CKwRIaIFJWonABAAAADmrUsW].md",
+          "key": "ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw",
+          "show": "无时差研究所",
+          "title": "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable",
+          "url": "/wiki/sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/deathnormalizationpractice/"
     },
     "DeathbedHeirReplacementResistance": {
@@ -49285,9 +49308,9 @@
       "url": "/wiki/concepts/dementiacaresocialsupportsystem/"
     },
     "DementiaCaregiverBurden": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
@@ -49302,9 +49325,16 @@
           "show": "这病说来话长",
           "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
           "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
+        },
+        {
+          "episode_file": "CKwRIaIFJWonABAAAADmrUsW [CKwRIaIFJWonABAAAADmrUsW].md",
+          "key": "ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw",
+          "show": "无时差研究所",
+          "title": "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable",
+          "url": "/wiki/sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/dementiacaregiverburden/"
     },
     "DementiaFriendlyHomeDesign": {
@@ -49331,9 +49361,9 @@
       "url": "/wiki/concepts/dementiafriendlyhomedesign/"
     },
     "DementiaPersonhoodMemory": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
@@ -49348,9 +49378,16 @@
           "show": "这病说来话长",
           "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
           "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
+        },
+        {
+          "episode_file": "CKwRIaIFJWonABAAAADmrUsW [CKwRIaIFJWonABAAAADmrUsW].md",
+          "key": "ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw",
+          "show": "无时差研究所",
+          "title": "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable",
+          "url": "/wiki/sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/dementiapersonhoodmemory/"
     },
     "DementiaRespectfulCommunication": {
@@ -110278,6 +110315,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/kangxilaile/"
+    },
+    "KaofenFilmScholar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIaIFJWonABAAAADmrUsW [CKwRIaIFJWonABAAAADmrUsW].md",
+          "key": "ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw",
+          "show": "无时差研究所",
+          "title": "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable",
+          "url": "/wiki/sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/kaofenfilmscholar/"
     },
     "KaogongfaReformBacklash": {
       "episode_count": 3,
@@ -193387,6 +193440,38 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/thefallofgondolin/"
     },
+    "TheFarewellFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIaIFJWonABAAAADmrUsW [CKwRIaIFJWonABAAAADmrUsW].md",
+          "key": "ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw",
+          "show": "无时差研究所",
+          "title": "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable",
+          "url": "/wiki/sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/thefarewellfilm/"
+    },
+    "TheFatherFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIaIFJWonABAAAADmrUsW [CKwRIaIFJWonABAAAADmrUsW].md",
+          "key": "ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw",
+          "show": "无时差研究所",
+          "title": "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable",
+          "url": "/wiki/sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/thefatherfilm/"
+    },
     "TheFraudZadieSmith": {
       "episode_count": 1,
       "show_count": 1,
@@ -193545,6 +193630,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/theindicator/"
+    },
+    "TheIntouchablesFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIaIFJWonABAAAADmrUsW [CKwRIaIFJWonABAAAADmrUsW].md",
+          "key": "ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw",
+          "show": "无时差研究所",
+          "title": "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable",
+          "url": "/wiki/sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/theintouchablesfilm/"
     },
     "TheKeralaStory": {
       "episode_count": 1,
@@ -211787,9 +211888,9 @@
       "url": "/wiki/entities/wurenzhixiao/"
     },
     "WushichaYanjiusuo": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -211853,6 +211954,13 @@
           "show": "无时差研究所",
           "title": "EP193-Bel Canto|对话美声歌唱家，听歌剧到底在听什么？",
           "url": "/wiki/sources/ep193-bel-canto-duihua-meisheng-gechangjia-ting-geju-daodi-zai-ting-shenme-ckwrijifn4vdabaaaadrcjk0/"
+        },
+        {
+          "episode_file": "CKwRIaIFJWonABAAAADmrUsW [CKwRIaIFJWonABAAAADmrUsW].md",
+          "key": "ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw",
+          "show": "无时差研究所",
+          "title": "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable",
+          "url": "/wiki/sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw/"
         }
       ],
       "updated": "2026-10-02",

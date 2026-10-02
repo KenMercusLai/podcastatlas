@@ -5,8 +5,9 @@ tags: [dementia, memory, dignity, care, aging]
 sources:
   - manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez
   - vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a
+  - ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-23
+last_updated: 2026-10-02
 ---
 
 # Dementia Personhood And Memory / 失智者人格与记忆
@@ -17,7 +18,7 @@ Dementia personhood and memory / 失智者人格与记忆 is the care principle 
 ## Current Synthesis
 The sources push against treating dementia as a single state of being "gone." Tang Yong's examples show that near-term memory, orientation, and coordination may decline while songs, occupational habits, aesthetic attention, emotional response, and deep personal patterns remain visible. VOL.133 adds that emotion, nonverbal sensitivity, choices, skills, affection, and the need to love and be loved can remain even when language or recall becomes unreliable.
 
-This principle matters because stigma and family exhaustion can both flatten the person with dementia into a problem to manage. The combined evidence argues for care that begins from biography, residual ability, emotional life, and everyday dignity. In practice that means introducing oneself instead of testing recall, speaking to rather than around the person, offering comprehensible choices, inviting participation, and shaping the environment for independent action while still recognizing severe functional and relational loss.
+This principle matters because stigma and family exhaustion can both flatten the person with dementia into a problem to manage. The combined evidence argues for care that begins from biography, residual ability, emotional life, and everyday dignity. In practice that means introducing oneself instead of testing recall, speaking to rather than around the person, offering comprehensible choices, inviting participation, and shaping the environment for independent action while still recognizing severe functional and relational loss. EP191 adds a formal-representation claim through [[TheFatherFilm|《困在时间里的父亲》]]: disrupted sequence, unstable space, changing identities, repeated searches, and sound cues can align viewers with the person's uncertainty instead of keeping him at a safe explanatory distance.
 
 ## Key Claims
 - Dementia is heterogeneous; Alzheimer disease, vascular dementia, frontal-lobe conditions, injury-related impairment, and Parkinsonian decline should not be collapsed into one image.
@@ -33,12 +34,14 @@ This principle matters because stigma and family exhaustion can both flatten the
 - Relationship loss - [[manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez]] describes caregivers facing the pain of non-recognition and shrinking connection.
 - Remaining capacity - [[vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a]] stresses that diagnosis does not erase all skill, emotion, personality, or capacity to love and be loved.
 - Practical respect - [[vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a]] replaces recall testing with contextual introductions and asks carers to preserve choice and participation.
+- Subjective representation - [[ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw]] reads unstable time, rooms, faces, sound, and Anthony's identity collapse as an attempt to place the audience inside dementia-related uncertainty.
 
 ## Counterevidence & Qualifications
-The concept should not be read as a clinical taxonomy or a claim that personality, recognition, emotion, or decision-making is always preserved in a stable way. Both sources use field examples and public explanation rather than individualized diagnostic or capacity guidance.
+The concept should not be read as a clinical taxonomy or a claim that personality, recognition, emotion, or decision-making is always preserved in a stable way. The sources use field examples, public explanation, and film interpretation rather than individualized diagnostic or capacity guidance. A film's unstable form can support empathy without reproducing every dementia experience or supplying clinical evidence.
 
 ## What Changed
-- Added communication, choice, participation, emotional sensitivity, and remaining ability as practical expressions of personhood.
+- Added film form as one way to represent subjective disorientation without reducing the person to an external diagnosis.
+- Preserved the boundary between experiential identification and clinical evidence.
 
 ## Related Concepts
 - [[PatientDignityInDailyCare]] - daily-care dignity frame this concept specifies for dementia.
@@ -49,3 +52,5 @@ The concept should not be read as a clinical taxonomy or a claim that personalit
 - [[MedicalRiskManagement]] - clinical-boundary frame for not turning public examples into diagnosis.
 - [[DementiaRespectfulCommunication]] - interaction method that operationalizes personhood.
 - [[DementiaFriendlyHomeDesign]] - environmental method that supports remaining ability.
+- [[TheFatherFilm|《困在时间里的父亲》]] - film representation extending the concept through unstable subjective form.
+- [[CareRelationshipLaborAndBoundaries]] - relational frame connecting personhood to caregiver labor and limits.

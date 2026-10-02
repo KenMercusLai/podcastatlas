@@ -14483,6 +14483,10 @@
     "title": "Care Companion Program",
     "url": "/wiki/entities/carecompanionprogram/"
   },
+  "CareRelationshipLaborAndBoundaries": {
+    "title": "Care Relationship Labor And Boundaries / 照护关系的劳动与边界",
+    "url": "/wiki/concepts/carerelationshiplaborandboundaries/"
+  },
   "CareSocialization": {
     "title": "Care Socialization / 照护社会化",
     "url": "/wiki/concepts/caresocialization/"
@@ -43470,6 +43474,10 @@
   "KaoHsinchuPrecisionCleaningCenter": {
     "title": "Kao Hsinchu Precision Cleaning Center / 花王新竹精密洗净中心",
     "url": "/wiki/entities/kaohsinchuprecisioncleaningcenter/"
+  },
+  "KaofenFilmScholar": {
+    "title": "考芬 / Kaofen",
+    "url": "/wiki/entities/kaofenfilmscholar/"
   },
   "KaogongfaReformBacklash": {
     "title": "考功法改革反噬 / Kaogongfa Reform Backlash",
@@ -76179,6 +76187,14 @@
     "title": "The Fall of Gondolin",
     "url": "/wiki/entities/thefallofgondolin/"
   },
+  "TheFarewellFilm": {
+    "title": "《别告诉她》 / The Farewell",
+    "url": "/wiki/entities/thefarewellfilm/"
+  },
+  "TheFatherFilm": {
+    "title": "《困在时间里的父亲》 / The Father",
+    "url": "/wiki/entities/thefatherfilm/"
+  },
   "TheFountainhead": {
     "title": "The Fountainhead / 《源泉》",
     "url": "/wiki/entities/thefountainhead/"
@@ -76250,6 +76266,10 @@
   "TheIntelligence": {
     "title": "The Intelligence",
     "url": "/wiki/entities/theintelligence/"
+  },
+  "TheIntouchablesFilm": {
+    "title": "《触不可及》 / The Intouchables",
+    "url": "/wiki/entities/theintouchablesfilm/"
   },
   "TheInventionOfChineseDragon": {
     "title": "《中国龙的发明：近现代中国形象的域外变迁》",
@@ -90338,6 +90358,10 @@
   "ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw": {
     "title": "EP18 都是黄泉预约客，保险买对心安乐",
     "url": "/wiki/sources/ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw/"
+  },
+  "ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw": {
+    "title": "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable",
+    "url": "/wiki/sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw/"
   },
   "ep193-bel-canto-duihua-meisheng-gechangjia-ting-geju-daodi-zai-ting-shenme-ckwrijifn4vdabaaaadrcjk0": {
     "title": "EP193-Bel Canto|对话美声歌唱家，听歌剧到底在听什么？",

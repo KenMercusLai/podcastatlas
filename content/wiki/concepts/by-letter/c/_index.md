@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9348
+wiki_total_pages: 9349
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "CardiovascularBrainHealthLink"
     title: "Cardiovascular-Brain Health Link"
     url: "/wiki/concepts/cardiovascularbrainhealthlink/"
+  - key: "CareRelationshipLaborAndBoundaries"
+    title: "Care Relationship Labor And Boundaries / 照护关系的劳动与边界"
+    url: "/wiki/concepts/carerelationshiplaborandboundaries/"
   - key: "CareSocialization"
     title: "Care Socialization / 照护社会化"
     url: "/wiki/concepts/caresocialization/"

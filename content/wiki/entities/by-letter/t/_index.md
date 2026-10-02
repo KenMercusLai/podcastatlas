@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12041
+wiki_total_pages: 12045
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1298,6 +1298,9 @@ wiki_pages:
   - key: "TongyueWangBao"
     title: "《僮约》 / Tong Yue (Wang Bao)"
     url: "/wiki/entities/tongyuewangbao/"
+  - key: "TheFarewellFilm"
+    title: "《别告诉她》 / The Farewell"
+    url: "/wiki/entities/thefarewellfilm/"
   - key: "TheJourneyToSfanomoe"
     title: "《前往斯法诺莫埃的旅途》 / The Journey to Sfanomoë"
     url: "/wiki/entities/thejourneytosfanomoe/"
@@ -1316,6 +1319,9 @@ wiki_pages:
   - key: "ThePhilosopherAndTheWolf"
     title: "《哲学家与狼》 / The Philosopher and the Wolf"
     url: "/wiki/entities/thephilosopherandthewolf/"
+  - key: "TheFatherFilm"
+    title: "《困在时间里的父亲》 / The Father"
+    url: "/wiki/entities/thefatherfilm/"
   - key: "TuLiBuTuQi"
     title: "《土里不吐气》"
     url: "/wiki/entities/tulibutuqi/"
@@ -1415,6 +1421,9 @@ wiki_pages:
   - key: "TheCursedMummy"
     title: "《被诅咒的木乃伊》 / The Cursed Mummy"
     url: "/wiki/entities/thecursedmummy/"
+  - key: "TheIntouchablesFilm"
+    title: "《触不可及》 / The Intouchables"
+    url: "/wiki/entities/theintouchablesfilm/"
   - key: "ThePrincessAndThePea"
     title: "《豌豆公主》 / The Princess and the Pea"
     url: "/wiki/entities/theprincessandthepea/"

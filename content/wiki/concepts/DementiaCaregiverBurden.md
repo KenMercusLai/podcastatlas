@@ -5,8 +5,9 @@ tags: [dementia, caregivers, family, care, aging]
 sources:
   - manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez
   - vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a
+  - ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-23
+last_updated: 2026-10-02
 ---
 
 # Dementia Caregiver Burden / 失智照护者负担
@@ -17,7 +18,7 @@ Dementia caregiver burden / 失智照护者负担 is the emotional, relational, 
 ## Current Synthesis
 The sources treat caregiver burden as a changing relationship rather than a simple hours-of-labor problem. Dementia care can turn spouses into nurses, adult children into coordinators, and daughters-in-law or other relatives into workers who give up jobs, privacy, money, or family stability. Because dementia may gradually erode recognition and shared memory, caregivers can also grieve while the person is still alive.
 
-The strongest shared claim is that love can start care but cannot supply all the conditions for care. When external resources are weak, sacrifice becomes the default operating system, producing anxiety, depression, resentment, divorce, job loss, and economic strain. VOL.133 adds that communication and environmental skills can reduce some daily friction, but these practices work best with shared family, community, clinical, and peer support rather than as another demand placed on one exhausted relative.
+The strongest shared claim is that love can start care but cannot supply all the conditions for care. When external resources are weak, sacrifice becomes the default operating system, producing anxiety, depression, resentment, divorce, job loss, and economic strain. VOL.133 adds that communication and environmental skills can reduce some daily friction, but these practices work best with shared family, community, clinical, and peer support rather than as another demand placed on one exhausted relative. EP191's reading of [[TheFatherFilm|《困在时间里的父亲》]] adds a cultural representation of the same mechanism: cooking, laundry, clothing, coordination, hurtful speech, and repeated uncertainty make physical and emotional labor inseparable, while the daughter's departure refuses the idea that devotion must mean endless personal captivity.
 
 ## Key Claims
 - Dementia caregiving can mix love, duty, exhaustion, resentment, grief, and guilt without any one emotion canceling the others.
@@ -34,12 +35,14 @@ The strongest shared claim is that love can start care but cannot supply all the
 - Choice constraint - [[manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez]] says caregivers with better knowledge still struggle to predict disease progression or find professional carers and acceptable institutions.
 - Mental-health burden - [[vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a]] says clinicians commonly see anxiety and depression among relatives caring for people with Alzheimer disease or other dementia.
 - Skill and network response - [[vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a]] combines simpler communication, home changes, family mobilization, and online peer support.
+- Film representation of care load - [[ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw]] identifies domestic tasks, emotional injury, relationship strain, and the daughter's eventual exit in 《困在时间里的父亲》.
 
 ## Counterevidence & Qualifications
-Neither source provides a representative survey of caregiver burden across China. The claims are grounded in podcast-reported field cases, clinical observation, and advocate guidance and should be used as qualitative evidence about mechanisms and pressure points.
+The sources do not provide a representative survey of caregiver burden across China. The claims are grounded in podcast-reported field cases, clinical observation, advocate guidance, and film criticism and should be used as qualitative evidence about mechanisms and pressure points. EP191's inferred link between care pressure and the daughter's marriage remains interpretive rather than established by the film.
 
 ## What Changed
-- Added caregiver anxiety and depression, practical communication skills, home changes, and peer support while preserving the structural-burden judgment.
+- Added the inseparability of domestic tasks and emotional injury in a film representation of dementia care.
+- Clarified that leaving or sharing care can preserve the caregiver's life rather than prove an absence of love.
 
 ## Related Concepts
 - [[DementiaCareSocialSupportSystem]] - public support system needed to reduce household isolation.
@@ -50,3 +53,4 @@ Neither source provides a representative survey of caregiver burden across China
 - [[LongTermCareInsurancePlanning]] - financing and service-access branch.
 - [[DementiaRespectfulCommunication]] - daily-care skill that can reduce avoidable conflict and shame.
 - [[DementiaFriendlyHomeDesign]] - environmental support that can reduce some supervision and safety pressure.
+- [[CareRelationshipLaborAndBoundaries]] - broader relational frame joining labor, dignity, dependency, and sustainable limits.

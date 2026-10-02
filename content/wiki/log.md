@@ -27909,3 +27909,11 @@ Added source `101-james-bond-glt6304120514`; created `JamesBond`, `IanFleming`, 
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable
+
+Added source `ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw`; created `KaofenFilmScholar`, `TheFatherFilm`, `TheFarewellFilm`, `TheIntouchablesFilm`, and `CareRelationshipLaborAndBoundaries`; and resynthesized `WushichaYanjiusuo`, `DementiaCaregiverBurden`, `DementiaPersonhoodMemory`, and `DeathNormalizationPractice` from their complete preserved evidence inventories. Core synthesis: the three films show care as practical work, emotional labor, dignity, equality, and negotiated limits; film form can represent dementia subjectivity without becoming clinical evidence; and farewell may be made through ordinary shared time rather than one final declaration. No settled contradiction was adopted. Diagnostic disclosure, the grandmother's knowledge, marriage causation, symbolic endings, professional-care safety, and race or class resolution remain contextual, interpretive, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,488-source coverage; no topic claim set was dirty and global compaction was not due. Changed canonical-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the corpus-wide scan still reports 19 unrelated legacy broken links.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

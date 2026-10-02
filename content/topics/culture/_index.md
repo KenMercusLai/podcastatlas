@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3031
+topic_total_pages: 3035
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6185,6 +6185,9 @@ topic_entities:
   - key: "ChurouNoOnna"
     title: "《初老的女人》"
     url: "/wiki/entities/churounoonna/"
+  - key: "TheFarewellFilm"
+    title: "《别告诉她》 / The Farewell"
+    url: "/wiki/entities/thefarewellfilm/"
   - key: "BieRenshuHuiziBook"
     title: "《别认输，惠子》"
     url: "/wiki/entities/bierenshuhuizibook/"
@@ -6254,6 +6257,9 @@ topic_entities:
   - key: "SiminYueling"
     title: "《四民月令》 / Simin Yueling"
     url: "/wiki/entities/siminyueling/"
+  - key: "TheFatherFilm"
+    title: "《困在时间里的父亲》 / The Father"
+    url: "/wiki/entities/thefatherfilm/"
   - key: "TuLiBuTuQi"
     title: "《土里不吐气》"
     url: "/wiki/entities/tulibutuqi/"
@@ -6818,6 +6824,9 @@ topic_entities:
   - key: "JourneyToTheWestConqueringDemons"
     title: "《西游降魔篇》 / Journey to the West: Conquering the Demons"
     url: "/wiki/entities/journeytothewestconqueringdemons/"
+  - key: "TheIntouchablesFilm"
+    title: "《触不可及》 / The Intouchables"
+    url: "/wiki/entities/theintouchablesfilm/"
   - key: "Fawning"
     title: "《讨好反应》 / Fawning"
     url: "/wiki/entities/fawning/"
@@ -8619,6 +8628,9 @@ topic_sources:
   - key: "ep-9-chatgpt-and-education-systems"
     title: "EP 9: ChatGPT and Education Systems"
     url: "/wiki/sources/ep-9-chatgpt-and-education-systems/"
+  - key: "ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw"
+    title: "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable"
+    url: "/wiki/sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw/"
   - key: "ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg"
     title: "EP238 2025年，你玩过怎样的“小众运动”？"
     url: "/wiki/sources/ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg/"
