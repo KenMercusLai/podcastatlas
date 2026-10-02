@@ -79384,6 +79384,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/geraldford/"
     },
+    "GeraldGardner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4064224583 [GLT4064224583].md",
+          "key": "113-halloween-and-modern-paganism-glt4064224583",
+          "show": "The Rest Is History",
+          "title": "113. Hallowe'en and modern paganism",
+          "url": "/wiki/sources/113-halloween-and-modern-paganism-glt4064224583/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/geraldgardner/"
+    },
     "GerardWinstanley": {
       "episode_count": 1,
       "show_count": 1,
@@ -84775,6 +84791,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/halliemiller/"
+    },
+    "HalloweenHistoricalLayering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4064224583 [GLT4064224583].md",
+          "key": "113-halloween-and-modern-paganism-glt4064224583",
+          "show": "The Rest Is History",
+          "title": "113. Hallowe'en and modern paganism",
+          "url": "/wiki/sources/113-halloween-and-modern-paganism-glt4064224583/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/halloweenhistoricallayering/"
     },
     "HamadBinKhalifaAlThani": {
       "episode_count": 1,
@@ -128007,6 +128039,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/margaretmitchell/"
     },
+    "MargaretMurray": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4064224583 [GLT4064224583].md",
+          "key": "113-halloween-and-modern-paganism-glt4064224583",
+          "show": "The Rest Is History",
+          "title": "113. Hallowe'en and modern paganism",
+          "url": "/wiki/sources/113-halloween-and-modern-paganism-glt4064224583/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/margaretmurray/"
+    },
     "MargaretThatcher": {
       "episode_count": 8,
       "show_count": 2,
@@ -135585,6 +135633,29 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/modernmasstourism/"
+    },
+    "ModernPaganReconstruction": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT4064224583 [GLT4064224583].md",
+          "key": "113-halloween-and-modern-paganism-glt4064224583",
+          "show": "The Rest Is History",
+          "title": "113. Hallowe'en and modern paganism",
+          "url": "/wiki/sources/113-halloween-and-modern-paganism-glt4064224583/"
+        },
+        {
+          "episode_file": "GLT2588049137 [GLT2588049137].md",
+          "key": "114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137",
+          "show": "The Rest Is History",
+          "title": "114. Stonehenge, ancient ritual and the origins of paganism",
+          "url": "/wiki/sources/114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/modernpaganreconstruction/"
     },
     "ModernPoliticalWritingPosture": {
       "episode_count": 1,
@@ -147126,9 +147197,9 @@
       "url": "/wiki/concepts/packagedwaterpricewar/"
     },
     "PaganContinuityClaims": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8329172184 [GLT8329172184].md",
@@ -147143,15 +147214,22 @@
           "show": "The Rest Is History",
           "title": "114. Stonehenge, ancient ritual and the origins of paganism",
           "url": "/wiki/sources/114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137/"
+        },
+        {
+          "episode_file": "GLT4064224583 [GLT4064224583].md",
+          "key": "113-halloween-and-modern-paganism-glt4064224583",
+          "show": "The Rest Is History",
+          "title": "113. Hallowe'en and modern paganism",
+          "url": "/wiki/sources/113-halloween-and-modern-paganism-glt4064224583/"
         }
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/pagancontinuityclaims/"
     },
     "PaganismAsLocalRitualTradition": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2588049137 [GLT2588049137].md",
@@ -147159,6 +147237,13 @@
           "show": "The Rest Is History",
           "title": "114. Stonehenge, ancient ritual and the origins of paganism",
           "url": "/wiki/sources/114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137/"
+        },
+        {
+          "episode_file": "GLT4064224583 [GLT4064224583].md",
+          "key": "113-halloween-and-modern-paganism-glt4064224583",
+          "show": "The Rest Is History",
+          "title": "113. Hallowe'en and modern paganism",
+          "url": "/wiki/sources/113-halloween-and-modern-paganism-glt4064224583/"
         }
       ],
       "updated": "2026-10-02",
@@ -169591,9 +169676,9 @@
       "url": "/wiki/entities/romulusaugustulus/"
     },
     "RonaldHutton": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8329172184 [GLT8329172184].md",
@@ -169608,6 +169693,13 @@
           "show": "The Rest Is History",
           "title": "114. Stonehenge, ancient ritual and the origins of paganism",
           "url": "/wiki/sources/114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137/"
+        },
+        {
+          "episode_file": "GLT4064224583 [GLT4064224583].md",
+          "key": "113-halloween-and-modern-paganism-glt4064224583",
+          "show": "The Rest Is History",
+          "title": "113. Hallowe'en and modern paganism",
+          "url": "/wiki/sources/113-halloween-and-modern-paganism-glt4064224583/"
         }
       ],
       "updated": "2026-10-02",

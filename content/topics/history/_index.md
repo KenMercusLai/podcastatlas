@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2405
+topic_total_pages: 2407
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2141,6 +2141,9 @@ topic_entities:
   - key: "ManhattanProject"
     title: "Manhattan Project"
     url: "/wiki/entities/manhattanproject/"
+  - key: "MargaretMurray"
+    title: "Margaret Murray"
+    url: "/wiki/entities/margaretmurray/"
   - key: "Mariupol"
     title: "Mariupol / 马里乌波尔"
     url: "/wiki/entities/mariupol/"
@@ -4812,6 +4815,9 @@ topic_sources:
   - key: "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095"
     title: "112. 闲聊金庸第一弹：明教竟然今天还存在？"
     url: "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+  - key: "113-halloween-and-modern-paganism-glt4064224583"
+    title: "113. Hallowe'en and modern paganism"
+    url: "/wiki/sources/113-halloween-and-modern-paganism-glt4064224583/"
   - key: "114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137"
     title: "114. Stonehenge, ancient ritual and the origins of paganism"
     url: "/wiki/sources/114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9304
+wiki_total_pages: 9306
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1172,6 +1172,9 @@ wiki_pages:
   - key: "ModernMassTourism"
     title: "Modern Mass Tourism"
     url: "/wiki/concepts/modernmasstourism/"
+  - key: "ModernPaganReconstruction"
+    title: "Modern Pagan Reconstruction"
+    url: "/wiki/concepts/modernpaganreconstruction/"
   - key: "ModernPoetryForChildren"
     title: "Modern Poetry For Children"
     url: "/wiki/concepts/modernpoetryforchildren/"

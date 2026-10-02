@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9304
+wiki_total_pages: 9306
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "HaircareSkincareization"
     title: "Haircare Skincare-ization / 护发护肤化"
     url: "/wiki/concepts/haircareskincareization/"
+  - key: "HalloweenHistoricalLayering"
+    title: "Halloween Historical Layering"
+    url: "/wiki/concepts/halloweenhistoricallayering/"
   - key: "HaloProductStrategy"
     title: "Halo Product Strategy"
     url: "/wiki/concepts/haloproductstrategy/"

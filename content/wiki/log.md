@@ -27737,3 +27737,11 @@ Added source `using-your-nervous-system-to-enhance-your-immune-system-scim420818
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 113. Hallowe'en and modern paganism
+
+Added source `113-halloween-and-modern-paganism-glt4064224583`; created `GeraldGardner`, `MargaretMurray`, `HalloweenHistoricalLayering`, and `ModernPaganReconstruction`; and resynthesized `RonaldHutton`, `PaganContinuityClaims`, and `PaganismAsLocalRitualTradition` from their complete preserved evidence inventories. Core synthesis: Halloween combines northern seasonal danger, medieval Christian commemoration, Irish transmission, regional discontinuity, and American commercialization, while modern paganism is both historically reconstructed and genuinely connected through older magical, seasonal, folkloric, mythic, and literary streams. No settled contradiction was adopted. Leland's Tuscan witch cult, Murray's survival thesis, Gardner's sole authorship, prehistoric Wiccan continuity, pagan demographics, political alignment, and specific cultural influence remain rejected, unresolved, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,466-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

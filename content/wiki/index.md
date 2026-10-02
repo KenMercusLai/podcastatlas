@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [113. Hallowe'en and modern paganism](sources/113-halloween-and-modern-paganism-glt4064224583.md) — The Rest Is History with Ronald Hutton on Halloween's layered history, disputed pagan continuity, Wicca, and modern religious reconstruction.
 - [114. Stonehenge, ancient ritual and the origins of paganism](sources/114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137.md) — The Rest Is History with Ronald Hutton on paganism, Christianization, Druids, continuity claims, prehistoric ritual, Stonehenge, and evidential uncertainty.
 - [115. The Gunpowder Plot](sources/115-the-gunpowder-plot-glt1711431752.md) — The Rest Is History on Catesby's conspiracy, Fawkes's capture, intelligence ambiguity, treason punishment, and Bonfire Night's changing meanings.
 - [EP196-人类高效工作研究报告](sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge.md) — 无时差研究所 episode on hidden overtime incentives, knowledge-work coordination, pseudo-productivity, work-rest boundaries, health costs, and internalized overwork.
@@ -3526,6 +3527,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Your Nervous System to Enhance Your Immune System](sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690.md) — Huberman Lab solo episode on layered immunity, sickness signaling, sleep, acute sympathetic activation, heat boundaries, and site-specific electroacupuncture mechanisms.
 
 ## Entities
+- [Gerald Gardner](entities/GeraldGardner.md) — Central publicist and creator of modern Wicca who joined claims of antiquity to adaptable ritual practice.
+- [Margaret Murray](entities/MargaretMurray.md) — Scholar whose rejected witch-cult thesis strongly influenced modern pagan self-understanding.
 - [Ronald Hutton](entities/RonaldHutton.md) — Historian calibrating claims about paganism, ritual, Christianization, seasonal custom, and prehistoric religious evidence.
 - [Robert Catesby](entities/RobertCatesby.md) — Principal organizer of the Gunpowder Plot, distinguished from its later public face Guy Fawkes.
 - [Guy Fawkes](entities/GuyFawkes.md) — Plot explosives specialist whose cultural afterlife became a portable anti-establishment symbol.
@@ -15565,6 +15568,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Halloween Historical Layering](concepts/HalloweenHistoricalLayering.md) — Model joining northern seasonal danger, Christian commemoration, Irish transmission, discontinuity, and American commercialization.
+- [Modern Pagan Reconstruction](concepts/ModernPaganReconstruction.md) — Historically modern recombination of older ritual, magical, seasonal, mythic, literary, and nature-centered streams.
 - [Paganism as Local Ritual Tradition](concepts/PaganismAsLocalRitualTradition.md) — Model of diverse pre-Christian religions as rooted in local ritual, place, and custom rather than one creed or scripture.
 - [Missionary Religion Conversion Dynamics](concepts/MissionaryReligionConversionDynamics.md) — Model joining universal mission, ruler conversion, political authority, institutional asymmetry, and selective adaptation.
 - [Pagan Continuity Claims](concepts/PaganContinuityClaims.md) — Evidence framework separating resemblance, transmission, adaptation, revival, reconstruction, and uninterrupted survival.
