@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2167
+topic_total_pages: 2168
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4199,6 +4199,9 @@ topic_entities:
   - key: "JacquesNecker"
     title: "Jacques Necker"
     url: "/wiki/entities/jacquesnecker/"
+  - key: "JagatSeth"
+    title: "Jagat Seth"
+    url: "/wiki/entities/jagatseth/"
   - key: "JamesMeade"
     title: "James Meade"
     url: "/wiki/entities/jamesmeade/"

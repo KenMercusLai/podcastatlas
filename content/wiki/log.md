@@ -28212,3 +28212,11 @@ Added source `76-statues-trafalgar-square-glt4670878913`; created `TrafalgarSqua
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 75. The East India Company
+
+Added source `75-the-east-india-company-glt7809915873`; created `RobertClive`, `JagatSeth`, and `CharteredCompanySovereignty`; and resynthesized `EastIndiaCompany`, `WilliamDalrymple`, `MughalEmpire`, and `Aurangzeb` from their complete preserved evidence inventories. Core synthesis: Company rule grew from joint-stock trade through Indian finance, Indian soldiers, Mughal fragmentation, and contingent political alliances, then exposed an extraction-responsibility mismatch through Bengal revenue, famine, corporate bankruptcy, parliamentary regulation, and eventual nationalization. No settled contradiction was adopted. GDP shares, production and death estimates, motives, precise payments, famine causation, and French counterfactuals remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,526-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [75. The East India Company](sources/75-the-east-india-company-glt7809915873.md) — The Rest Is History with William Dalrymple on joint-stock trade, Bengal's wealth, Indian finance and soldiers, Plassey, famine, corporate bankruptcy, and the Company's conversion into imperial government.
 - [76. Statues: Trafalgar Square](sources/76-statues-trafalgar-square-glt4670878913.md) — The Rest Is History on royal, naval, imperial, diplomatic, and martyr monuments as layered arguments about retention, removal, replacement, and public meaning.
 - [Machines, Creativity & Love | Dr. Lex Fridman](sources/machines-creativity-love-dr-lex-fridman-scim8604353977.md) — Full Huberman Lab conversation on AI learning, user-owned guidance, robot companionship, shared memory, grief, friendship, vulnerability, and long-form conversation.
 - [77. Statues: Whitehall](sources/77-statues-whitehall-glt3402485088.md) — The Rest Is History on Whitehall's military statues, collective memorials, placement, contested biography, and the multiple meanings of public monuments.
@@ -3587,6 +3588,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [Robert Clive](entities/RobertClive.md) — Company servant and commander whose Bengal campaign joined military force, Indian banking support, personal enrichment, and territorial expansion.
+- [Jagat Seth](entities/JagatSeth.md) — Bengali banking power whose anti-Siraj alliance with the Company shows Indian financial agency and its unintended imperial consequences.
 - [Trafalgar Square](entities/TrafalgarSquare.md) — London civic landscape where royal restoration, naval victory, imperial memory, diplomatic friendship, and changing commissions accumulate.
 - [Whitehall](entities/Whitehall.md) — London commemorative landscape where military concentration, placement, scale, omission, and collective memorial design shape public memory.
 - [Women of World War II Memorial](entities/WomenOfWorldWarIIMemorial.md) — Whitehall monument using uniforms and absent bodies to represent women's wartime service collectively.
@@ -15741,6 +15744,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Chartered-Company Sovereignty](concepts/CharteredCompanySovereignty.md) — Conversion of state-chartered commerce into territorial, fiscal, military, and governing power under unresolved profit-responsibility tensions.
 - [Statue Commemoration Politics](concepts/StatueCommemorationPolitics.md) — Framework joining original purpose, complete biography, placement, balance, counter-memory, later reception, and removal disputes.
 - [Psychological Astrology as Reflective Map / 心理占星作为反思地图](concepts/PsychologicalAstrologyAsReflectiveMap.md) — Use of chart symbolism for self-inquiry and choice expansion without granting it deterministic authority.
 - [Astrological Interpretation Evidence Boundary / 占星解释的证据边界](concepts/AstrologicalInterpretationEvidenceBoundary.md) — Distinction between narrative coherence or resonance and validated causal or predictive evidence.
