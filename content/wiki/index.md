@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [12 Days: Martin Luther and J.R.R. Tolkien](sources/12-days-martin-luther-and-j-r-r-tolkien-glt9800831013.md) — The Rest Is History episode pairing Luther's excommunication with Tolkien's birth, Catholic imagination, mercy, grace, and anti-industrial modernity.
 - [The Science of Making & Breaking Habits](sources/the-science-of-making-breaking-habits-scim6848516659.md) — Huberman Lab solo episode on habit automaticity, task bracketing, state-matched timing, reward learning, sleep consolidation, and post-habit replacement.
 - [12 Days: Solomon Northup and Albert Camus](sources/12-days-solomon-northup-and-albert-camus-glt6039583450.md) — The Rest Is History on Northup's kidnapping, enslavement, rescue, and abolitionist memoir, paired with Camus's absurdism, Algeria, anti-Stalinism, and unfinished legacy.
 - [12 Days: Death of Edward the Confessor and the Dreyfus Affair](sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149.md) — The Rest Is History episode pairing the disputed 1066 succession with Dreyfus's wrongful conviction, military cover-up, antisemitism, and French political polarization.

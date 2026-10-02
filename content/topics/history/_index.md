@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2370
+topic_total_pages: 2371
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4797,6 +4797,9 @@ topic_sources:
   - key: "12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149"
     title: "12 Days: Death of Edward the Confessor and the Dreyfus Affair"
     url: "/wiki/sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149/"
+  - key: "12-days-martin-luther-and-j-r-r-tolkien-glt9800831013"
+    title: "12 Days: Martin Luther and J.R.R. Tolkien"
+    url: "/wiki/sources/12-days-martin-luther-and-j-r-r-tolkien-glt9800831013/"
   - key: "12-days-solomon-northup-and-albert-camus-glt6039583450"
     title: "12 Days: Solomon Northup and Albert Camus"
     url: "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"

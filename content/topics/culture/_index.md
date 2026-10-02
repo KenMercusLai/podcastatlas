@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3014
+topic_total_pages: 3015
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8073,6 +8073,9 @@ topic_sources:
   - key: "117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341"
     title: "117.诅咒兔：怪谈文学也要上桌吃饭"
     url: "/wiki/sources/117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341/"
+  - key: "12-days-martin-luther-and-j-r-r-tolkien-glt9800831013"
+    title: "12 Days: Martin Luther and J.R.R. Tolkien"
+    url: "/wiki/sources/12-days-martin-luther-and-j-r-r-tolkien-glt9800831013/"
   - key: "12-days-solomon-northup-and-albert-camus-glt6039583450"
     title: "12 Days: Solomon Northup and Albert Camus"
     url: "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"

@@ -7,7 +7,8 @@ sources:
   - 436-luther-showdown-with-the-emperor-part-4-glt5159022101
   - 435-luther-the-battle-against-satan-part-3-glt9360370091
   - 434-luther-the-revolution-begins-part-2-glt4080973410
-last_updated: 2026-09-26
+  - 12-days-martin-luther-and-j-r-r-tolkien-glt9800831013
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The authority shift began before the public break. As professor of the Bible at 
 
 At Augsburg and Leipzig, the same authority problem became explicit. Luther told [[CardinalCajetan]] that the pope stood under God's word, while [[JohannEck]] used the Jan Hus precedent to show how far scriptural judgment could move Luther beyond accepted councils and tradition. Criticism of indulgences thereby became a dispute over who could decide which religious claims were binding.
 
+The anniversary account carries that dispute into public ritual: burning *Exsurge Domine* together with books of canon law rejected both a specific papal condemnation and the legal authority structure enforcing it. Formal excommunication followed after the rival standards could no longer adjudicate one another.
+
 At the [[DietOfWorms]], [[MartinLuther]] made Scripture the test by which papal and imperial demands should be judged, while his interrogators argued that heretics also cite the Bible and that the church must adjudicate ambiguity. Luther answered that God's word was plain under spiritual illumination, exposing the unresolved question of who could validate that claim.
 
 The later evidence treats expanded scriptural access as both emancipatory and destabilizing. [[VernacularScriptureReach|Vernacular translation]] and print widened participation; peasants could ask where the Bible authorized serfdom, while [[AndreasKarlstadt]], [[ThomasMuntzer|Thomas Müntzer]], and Luther disagreed over images, sacraments, property, violence, and rulers despite claiming fidelity to God's word.
@@ -37,13 +40,14 @@ Clarity therefore did not produce unity by itself. Luther's success in contestin
 - Claims of scriptural clarity do not eliminate disagreement over application.
 - Reform leaders may lose control of principles once followers apply them independently.
 - Political and social demands can acquire religious legitimacy through competing readings.
-- Formal condemnation can intensify rather than settle an authority dispute when rival publics reject the condemning institution.
+- Formal condemnation can intensify rather than settle an authority dispute when rival publics reject the institution, and destroying its legal and condemnatory texts can enact the resulting break.
 
 ## Evidence
 
 - Early authority shift: [[434-luther-the-revolution-begins-part-2-glt4080973410]] connects Luther's unglossed biblical study, 97 theses, anti-Aristotelian polemic, and Bible-alone claim.
 - Augsburg authority conflict: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] contrasts Cajetan's demand for recantation with Luther's claim that papal authority remains under Scripture.
 - Leipzig escalation: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] shows Eck drawing Luther into explicit defense of some Hussite propositions.
+- Public authority break: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] and [[12-days-martin-luther-and-j-r-r-tolkien-glt9800831013]] connect Luther's burning of the papal bull and canon law to the excommunication that followed.
 - Worms authority conflict: [[436-luther-showdown-with-the-emperor-part-4-glt5159022101]] contrasts Luther's scriptural conscience with Johann Eck's institutional interpretation argument and Charles V's appeal to tradition.
 - Vernacular access: [[436-luther-showdown-with-the-emperor-part-4-glt5159022101]] links Luther's German New Testament and accessible prose to ordinary readers.
 - Early pluralism: [[436-luther-showdown-with-the-emperor-part-4-glt5159022101]] shows Wittenberg reformers disagreeing over worship, images, and sacraments while Luther was absent.
@@ -59,6 +63,7 @@ Interpretive pluralism does not mean every reading is equally grounded, and inst
 
 - Extended the authority shift backward to Luther's biblical lectures, unglossed text request, 97 theses, and attack on Aristotelian scholasticism.
 - Distinguished this theological prehistory from the later institutional confrontations at Augsburg, Leipzig, and Worms.
+- Clarified public destruction of papal and canon-law texts as an enacted rejection of the condemning authority.
 
 ## Related Concepts
 

@@ -5,7 +5,8 @@ tags: [reformation, theology, salvation, faith]
 sources:
   - 435-luther-the-battle-against-satan-part-3-glt9360370091
   - 434-luther-the-revolution-begins-part-2-glt4080973410
-last_updated: 2026-09-26
+  - 12-days-martin-luther-and-j-r-r-tolkien-glt9800831013
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The later episode locates Luther's theological turn in his reading of Paul. “T
 
 That claim destabilized more than indulgence sales. If salvation did not depend on accumulated works or exclusive clerical mediation, purgatory practices, pilgrimages, masses, vows, saints, and papal authority all became vulnerable to renewed scriptural testing. Personal faith became necessary rather than nominal membership in Christendom.
 
+The anniversary episode states the institutional consequence especially clearly: salvation understood as God's gift no longer required the church's entire mediating “superstructure.” In that compressed account, the road from doctrine to excommunication runs through Luther's rejection of the papacy and canon law as necessary authorities over salvation.
+
 ## Key Claims
 
 - Grace makes salvation God's gift rather than a human achievement.
@@ -30,6 +33,7 @@ That claim destabilized more than indulgence sales. If salvation did not depend 
 - Works cannot purchase or compel salvation in this framework.
 - The doctrine weakens practices built on transferable or measurable spiritual merit.
 - Inner assurance can generate public resistance when institutional demands appear to contradict the Gospel.
+- A doctrine of unearned grace can become an institutional rupture when a church claims exclusive authority over its mediation.
 
 ## Evidence
 
@@ -38,15 +42,17 @@ That claim destabilized more than indulgence sales. If salvation did not depend 
 - Pauline turning point: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] links Luther's reading of Paul to relief from judgment anxiety and confidence in grace.
 - Indulgence expansion: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] follows the move from indulgence criticism to purgatory, works, clergy, and papal authority.
 - Personal belief: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] presents true Christianity as requiring inward conviction rather than passive membership in Christendom.
+- Institutional consequence: [[12-days-martin-luther-and-j-r-r-tolkien-glt9800831013]] links salvation as gift to rejection of papal and canon-law control before excommunication.
 
 ## Counterevidence & Qualifications
 
-The episodes acknowledge the objection that faith-alone teaching can sound like permission to sin, but they do not provide a systematic account of Luther's answer, sanctification, sacraments, or Catholic teaching on grace and works. Psychological interpretations of his monastic practice are source-shaped, and the date and setting of his decisive insight are uncertain because his later accounts differ.
+The episodes acknowledge the objection that faith-alone teaching can sound like permission to sin, but they do not provide a systematic account of Luther's answer, sanctification, sacraments, or Catholic teaching on grace and works. The anniversary episode's “superstructure” language compresses a complex late-medieval sacramental and institutional system. Psychological interpretations of Luther's monastic practice are source-shaped, and the date and setting of his decisive insight are uncertain because his later accounts differ.
 
 ## What Changed
 
 - Added Luther's failed pursuit of assurance through ascetic works, prayers, saints, and confession as the doctrine's experiential prehistory.
 - Added Staupitz's academic redirection as the bridge from private crisis to biblical theology.
+- Clarified how a claim about divine gift became a challenge to exclusive institutional mediation.
 
 ## Related Concepts
 

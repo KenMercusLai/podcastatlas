@@ -27411,3 +27411,11 @@ Added source `the-science-of-making-breaking-habits-scim6848516659`; created `Ha
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 12 Days: Martin Luther and J.R.R. Tolkien
+
+Added source `12-days-martin-luther-and-j-r-r-tolkien-glt9800831013`; resynthesized `MartinLuther`, `JRRTolkien`, `TheLordOfTheRings`, `SolaFideGrace`, `SolaScripturaInterpretivePluralism`, `AntiIndustrialPastoralism`, and `CorruptingPowerRenunciation` from their complete preserved evidence inventories. Core synthesis: Luther's burning of the papal bull and canon law made an authority rupture public before excommunication, while Tolkien's moral structure joins suspicion of industrial mastery to weakness, prior mercy, providence, and grace when Frodo cannot complete renunciation unaided. No settled contradiction was adopted. Ecumenical proposals, sales and ranking claims, biographical causation, war-literature superlatives, and the providential reading remain source-scoped or interpretive. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,425-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
