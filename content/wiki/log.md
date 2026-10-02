@@ -27546,3 +27546,11 @@ Added source `130-superheroes-glt5186846131`; created `Superman`, `Batman`, `Won
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 129. Cricket
+
+Added source `129-cricket-glt9095163579`; created `JohnHotten`, `WGGrace`, `DonaldBradman`, `VivRichards`, `WestIndiesCricketTeam`, `CricketImperialIdentity`, `VictorianCricketMoralization`, and `BodylineCrisis`; and resynthesized `MuscularChristianity` from its complete preserved evidence inventory. Core synthesis: cricket moved from rural and Georgian play through Victorian codification and moralization into an imperial prestige language that Australians, Caribbean communities, India, and Pakistan could appropriate for autonomy, resistance, collective identity, and postcolonial authority. No settled contradiction was adopted. Origin stories, dates and measurements, causal explanations, statistical comparisons, national-character claims, and the symbolic meaning of matches remain conversational, interpretive, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,442-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 11956
+wiki_total_pages: 11961
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "VitusBering"
     title: "Vitus Bering / 维图斯·白令"
     url: "/wiki/entities/vitusbering/"
+  - key: "VivRichards"
+    title: "Viv Richards"
+    url: "/wiki/entities/vivrichards/"
   - key: "VivekMurthy"
     title: "Vivek Murthy"
     url: "/wiki/entities/vivekmurthy/"

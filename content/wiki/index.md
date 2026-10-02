@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [129. Cricket](sources/129-cricket-glt9095163579.md) — The Rest Is History with John Hotten on cricket's rural and Georgian roots, Victorian moralization, celebrity, Ashes rivalry, Bodyline, empire, and postcolonial power.
 - [130. Superheroes](sources/130-superheroes-glt5186846131.md) — The Rest Is History episode on superhero comics as modern American mass culture shaped by printing, immigration, crime anxiety, science, social politics, vigilantism, and changing confidence in heroic power.
 - [Understanding Your Brain's Logic & Function | Dr. David Berson](sources/scim4448895120-scim4448895120.md) — Huberman Lab interview on melanopsin and circadian timing, visual-vestibular control, cerebellar correction, action hierarchy, distributed representation, plasticity, and connectomics.
 - [131. Burgundy: Europe's Forgotten Superpower](sources/131-burgundy-europes-forgotten-superpower-glt6941072856.md) — The Rest Is History with Bart van Loo on Burgundian state formation, Flemish wealth, French civil war, court spectacle, dynastic collapse, and Habsburg inheritance.
@@ -3502,6 +3503,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [John Hotten](entities/JohnHotten.md) — Cricket writer interpreting the game's rules, institutions, celebrity, empire, postcolonial transformation, and amateur meaning.
+- [W. G. Grace](entities/WGGrace.md) — Victorian batsman joining technical innovation, rail-and-newspaper celebrity, sponsorship, and cricket's moral ambiguity.
+- [Donald Bradman](entities/DonaldBradman.md) — Exceptional Australian batsman whose dominance made him the sporting and symbolic centre of the Bodyline crisis.
+- [Viv Richards](entities/VivRichards.md) — West Indies batsman embodying Caribbean dominance, postcolonial reversal, and the transition marked by India's 1983 victory.
+- [West Indies Cricket Team](entities/WestIndiesCricketTeam.md) — Transnational Caribbean team joining regional identity, diaspora, colonial inheritance, resistance, and postcolonial power.
 - [Superman](entities/Superman.md) — Early canonical superhero joining Depression reform, immigrant dual identity, wartime expansion, and American national symbolism.
 - [Batman](entities/Batman.md) — Human masked vigilante joining detective precursors, trauma, urban crime anxiety, wealth, and contested private justice.
 - [Wonder Woman](entities/WonderWoman.md) — Amazon superhero joining classical imagery to Marston's feminism, psychology, and power-and-submission theories.
@@ -15499,6 +15505,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Cricket and Imperial Identity](concepts/CricketImperialIdentity.md) — Changing use of cricket as English self-image, settler rivalry, colonial appropriation, regional identity, and postcolonial authority.
+- [Victorian Cricket Moralization](concepts/VictorianCricketMoralization.md) — Recasting of a gambling-rich Georgian game as a Victorian emblem of fair play, character, Englishness, and empire.
+- [Bodyline Crisis](concepts/BodylineCrisis.md) — 1932-33 cricket controversy joining tactics against Bradman to bodily danger, Australian nationalism, imperial ethics, and English class blame.
 - [Superhero Cultural History](concepts/SuperheroCulturalHistory.md) — Historically specific account of superhero form as a product of media technology, American identity, social anxiety, vigilantism, and political change.
 - [Melanopsin Circadian Photoreception](concepts/MelanopsinCircadianPhotoreception.md) — Non-image-forming retinal brightness pathway linking intrinsically photosensitive ganglion cells to daily circadian coordination.
 - [Visual-Vestibular Stabilization](concepts/VisualVestibularStabilization.md) — Gaze-control system joining inner-ear motion signals, compensatory eye movement, cerebellar correction, and sensory-conflict limits.

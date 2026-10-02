@@ -22953,6 +22953,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/bodybasedselftrust/"
     },
+    "BodylineCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9095163579 [GLT9095163579].md",
+          "key": "129-cricket-glt9095163579",
+          "show": "The Rest Is History",
+          "title": "129. Cricket",
+          "url": "/wiki/sources/129-cricket-glt9095163579/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/bodylinecrisis/"
+    },
     "BoerWar": {
       "episode_count": 1,
       "show_count": 1,
@@ -43004,6 +43020,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/crestedmynataiwan/"
     },
+    "CricketImperialIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9095163579 [GLT9095163579].md",
+          "key": "129-cricket-glt9095163579",
+          "show": "The Rest Is History",
+          "title": "129. Cricket",
+          "url": "/wiki/sources/129-cricket-glt9095163579/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/cricketimperialidentity/"
+    },
     "CrimeStatisticsComparability": {
       "episode_count": 2,
       "show_count": 1,
@@ -51826,6 +51858,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/donweinland/"
+    },
+    "DonaldBradman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9095163579 [GLT9095163579].md",
+          "key": "129-cricket-glt9095163579",
+          "show": "The Rest Is History",
+          "title": "129. Cricket",
+          "url": "/wiki/sources/129-cricket-glt9095163579/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/donaldbradman/"
     },
     "DonationsOfAlexandria": {
       "episode_count": 1,
@@ -105913,6 +105961,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/johngroner/"
     },
+    "JohnHotten": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9095163579 [GLT9095163579].md",
+          "key": "129-cricket-glt9095163579",
+          "show": "The Rest Is History",
+          "title": "129. Cricket",
+          "url": "/wiki/sources/129-cricket-glt9095163579/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/johnhotten/"
+    },
     "JohnHoward": {
       "episode_count": 1,
       "show_count": 1,
@@ -136079,9 +136143,9 @@
       "url": "/wiki/concepts/musclecontractionglucosedisposal/"
     },
     "MuscularChristianity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3711207657 [GLT3711207657].md",
@@ -136089,9 +136153,16 @@
           "show": "The Rest Is History",
           "title": "367. The Real Harry Potter: Magic, Empire and Beastly Bullies",
           "url": "/wiki/sources/367-the-real-harry-potter-magic-empire-and-beastly-bullies-glt3711207657/"
+        },
+        {
+          "episode_file": "GLT9095163579 [GLT9095163579].md",
+          "key": "129-cricket-glt9095163579",
+          "show": "The Rest Is History",
+          "title": "129. Cricket",
+          "url": "/wiki/sources/129-cricket-glt9095163579/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/muscularchristianity/"
     },
     "MusePersonalAgent": {
@@ -198838,6 +198909,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/victorklemperer/"
     },
+    "VictorianCricketMoralization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9095163579 [GLT9095163579].md",
+          "key": "129-cricket-glt9095163579",
+          "show": "The Rest Is History",
+          "title": "129. Cricket",
+          "url": "/wiki/sources/129-cricket-glt9095163579/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/victoriancricketmoralization/"
+    },
     "VictorianHomosexualIdentityFormation": {
       "episode_count": 1,
       "show_count": 1,
@@ -199525,6 +199612,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/vittoriopozzo/"
     },
+    "VivRichards": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9095163579 [GLT9095163579].md",
+          "key": "129-cricket-glt9095163579",
+          "show": "The Rest Is History",
+          "title": "129. Cricket",
+          "url": "/wiki/sources/129-cricket-glt9095163579/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/vivrichards/"
+    },
     "VivekMurthy": {
       "episode_count": 1,
       "show_count": 1,
@@ -199990,6 +200093,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/vulnerabilityaslovesource/"
+    },
+    "WGGrace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9095163579 [GLT9095163579].md",
+          "key": "129-cricket-glt9095163579",
+          "show": "The Rest Is History",
+          "title": "129. Cricket",
+          "url": "/wiki/sources/129-cricket-glt9095163579/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/wggrace/"
     },
     "WIPLimitPersonalProductivity": {
       "episode_count": 2,
@@ -204592,6 +204711,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/westgermany/"
+    },
+    "WestIndiesCricketTeam": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9095163579 [GLT9095163579].md",
+          "key": "129-cricket-glt9095163579",
+          "show": "The Rest Is History",
+          "title": "129. Cricket",
+          "url": "/wiki/sources/129-cricket-glt9095163579/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/westindiescricketteam/"
     },
     "WesternDragonCulturalSynthesis": {
       "episode_count": 1,

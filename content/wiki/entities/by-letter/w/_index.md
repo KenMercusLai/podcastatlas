@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 11956
+wiki_total_pages: 11961
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "WBYeats"
     title: "W. B. Yeats / 叶芝"
     url: "/wiki/entities/wbyeats/"
+  - key: "WGGrace"
+    title: "W. G. Grace"
+    url: "/wiki/entities/wggrace/"
   - key: "WTStead"
     title: "W. T. Stead"
     url: "/wiki/entities/wtstead/"
@@ -374,6 +377,9 @@ wiki_pages:
   - key: "WestGermany"
     title: "West Germany"
     url: "/wiki/entities/westgermany/"
+  - key: "WestIndiesCricketTeam"
+    title: "West Indies Cricket Team"
+    url: "/wiki/entities/westindiescricketteam/"
   - key: "WestVirginia"
     title: "West Virginia"
     url: "/wiki/entities/westvirginia/"
