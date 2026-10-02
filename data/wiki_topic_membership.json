@@ -251,6 +251,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "12-days-solomon-northup-and-albert-camus-glt6039583450": [
     {
       "key": "history",
@@ -38658,6 +38665,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "HawaiianMonarchyForeignPressure": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HawkeKeatingReformSettlement": [
     {
       "key": "economics",
@@ -46184,6 +46203,13 @@
     }
   ],
   "KamalaHarris": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "KamehamehaIV": [
     {
       "key": "politics",
       "label": "Politics",

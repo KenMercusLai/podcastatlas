@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2157
+topic_total_pages: 2158
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1507,6 +1507,9 @@ topic_concepts:
   - key: "HardwareTalentSpillover"
     title: "Hardware Talent Spillover"
     url: "/wiki/concepts/hardwaretalentspillover/"
+  - key: "HawaiianMonarchyForeignPressure"
+    title: "Hawaiian Monarchy under Foreign Pressure"
+    url: "/wiki/concepts/hawaiianmonarchyforeignpressure/"
   - key: "HawkeKeatingReformSettlement"
     title: "Hawke-Keating Reform Settlement"
     url: "/wiki/concepts/hawkekeatingreformsettlement/"

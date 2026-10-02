@@ -85529,6 +85529,45 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/hatuey/"
     },
+    "Hawaii": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "168. 银与信：一部日本劳工移民的跨洋汇款史 [lmGfmMGkAwOA_6XYUCnm1ljEbzWu].md",
+          "key": "168-yin-yu-xin-yibu-riben-laogong-yimin-de-kuayang-huikuan-shi-lmgfmmgkawoa-6xyucnm1ljebzwu",
+          "show": "起朱楼宴宾客",
+          "title": "168. 银与信：一部日本劳工移民的跨洋汇款史",
+          "url": "/wiki/sources/168-yin-yu-xin-yibu-riben-laogong-yimin-de-kuayang-huikuan-shi-lmgfmmgkawoa-6xyucnm1ljebzwu/"
+        },
+        {
+          "episode_file": "GLT9407596415 [GLT9407596415].md",
+          "key": "12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415",
+          "show": "The Rest Is History",
+          "title": "12 Days: Reconquest of Spain and the Old Queen of Hawaii",
+          "url": "/wiki/sources/12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/hawaii/"
+    },
+    "HawaiianMonarchyForeignPressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9407596415 [GLT9407596415].md",
+          "key": "12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415",
+          "show": "The Rest Is History",
+          "title": "12 Days: Reconquest of Spain and the Old Queen of Hawaii",
+          "url": "/wiki/sources/12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/hawaiianmonarchyforeignpressure/"
+    },
     "HawkeKeatingReformSettlement": {
       "episode_count": 1,
       "show_count": 1,
@@ -94890,9 +94929,9 @@
       "url": "/wiki/entities/iberianpeninsula/"
     },
     "IberianReconquista": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -94921,9 +94960,16 @@
           "show": "The Rest Is History",
           "title": "227. Portugal: On the Edge of the World (Part 1)",
           "url": "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
+        },
+        {
+          "episode_file": "GLT9407596415 [GLT9407596415].md",
+          "key": "12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415",
+          "show": "The Rest Is History",
+          "title": "12 Days: Reconquest of Spain and the Old Queen of Hawaii",
+          "url": "/wiki/sources/12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/iberianreconquista/"
     },
     "IbnFadlan": {
@@ -107228,6 +107274,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/kamakurashogunateformation/"
+    },
+    "KamehamehaIV": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9407596415 [GLT9407596415].md",
+          "key": "12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415",
+          "show": "The Rest Is History",
+          "title": "12 Days: Reconquest of Spain and the Old Queen of Hawaii",
+          "url": "/wiki/sources/12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/kamehamehaiv/"
     },
     "KandakeQueens": {
       "episode_count": 1,
@@ -158769,6 +158831,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/queenanttraffickingecology/"
+    },
+    "QueenEmmaOfHawaii": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9407596415 [GLT9407596415].md",
+          "key": "12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415",
+          "show": "The Rest Is History",
+          "title": "12 Days: Reconquest of Spain and the Old Queen of Hawaii",
+          "url": "/wiki/sources/12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/queenemmaofhawaii/"
     },
     "QueenNjinga": {
       "episode_count": 1,

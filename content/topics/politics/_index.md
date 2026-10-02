@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2975
+topic_total_pages: 2977
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1774,6 +1774,9 @@ topic_concepts:
   - key: "HateSpeechCriminalizationTradeoff"
     title: "Hate-Speech Criminalization Tradeoff"
     url: "/wiki/concepts/hatespeechcriminalizationtradeoff/"
+  - key: "HawaiianMonarchyForeignPressure"
+    title: "Hawaiian Monarchy under Foreign Pressure"
+    url: "/wiki/concepts/hawaiianmonarchyforeignpressure/"
   - key: "HawkeKeatingReformSettlement"
     title: "Hawke-Keating Reform Settlement"
     url: "/wiki/concepts/hawkekeatingreformsettlement/"
@@ -6080,6 +6083,9 @@ topic_entities:
   - key: "KamalaHarris"
     title: "Kamala Harris"
     url: "/wiki/entities/kamalaharris/"
+  - key: "KamehamehaIV"
+    title: "Kamehameha IV"
+    url: "/wiki/entities/kamehamehaiv/"
   - key: "KarenBass"
     title: "Karen Bass"
     url: "/wiki/entities/karenbass/"

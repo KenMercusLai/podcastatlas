@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [12 Days: Reconquest of Spain and the Old Queen of Hawaii](sources/12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415.md) — The Rest Is History on Granada's surrender, contested Reconquista memory, religious motives, Queen Emma, and Hawaii's monarchy under British-American pressure.
 - [12 Days: Martin Luther and J.R.R. Tolkien](sources/12-days-martin-luther-and-j-r-r-tolkien-glt9800831013.md) — The Rest Is History episode pairing Luther's excommunication with Tolkien's birth, Catholic imagination, mercy, grace, and anti-industrial modernity.
 - [The Science of Making & Breaking Habits](sources/the-science-of-making-breaking-habits-scim6848516659.md) — Huberman Lab solo episode on habit automaticity, task bracketing, state-matched timing, reward learning, sleep consolidation, and post-habit replacement.
 - [12 Days: Solomon Northup and Albert Camus](sources/12-days-solomon-northup-and-albert-camus-glt6039583450.md) — The Rest Is History on Northup's kidnapping, enslavement, rescue, and abolitionist memoir, paired with Camus's absurdism, Algeria, anti-Stalinism, and unfinished legacy.
@@ -3486,6 +3487,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [Queen Emma of Hawaii](entities/QueenEmmaOfHawaii.md) — Hawaiian queen, philanthropist, Anglican patron, international royal figure, and unsuccessful 1874 succession candidate.
+- [Kamehameha IV](entities/KamehamehaIV.md) — Hawaiian king whose travel, British affinity, racial experience, and Anglican policy shaped his response to foreign pressure.
 - [Solomon Northup](entities/SolomonNorthup.md) — Freeborn Black New Yorker kidnapped into twelve years of slavery whose rescue and memoir exposed the fragility of enforceable freedom.
 - [Albert Camus](entities/AlbertCamus.md) — Algerian-born French writer, Resistance journalist, anti-Stalinist, and thinker of the absurd whose final manuscript returned to Algeria.
 - [Alfred Dreyfus](entities/AlfredDreyfus.md) — Jewish French artillery officer whose wrongful conviction, degradation, imprisonment, pardon, and exoneration became a national political crisis.
@@ -10265,7 +10268,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [National City Bank / 国民城市银行](entities/NationalCityBank.md) — Charles E. Mitchell's bank, used by episode 170 as the historical trust-to-securities distribution case.
 - [Athene Holding / 雅典娜保险](entities/AtheneHolding.md) — Apollo-linked insurer used by episode 170 to explain annuity liabilities and private-credit risk transmission.
 - [素 / Su](entities/Su.md) — North America-based humanities PhD guest whose episode 168 research connects Japanese labor migration, remittances, multilingual archives, and qiaopi comparison.
-- [Hawaii / 夏威夷](entities/Hawaii.md) — Plantation-labor and remittance node linking Japanese contract migration, sugar production, Yokohama Specie Bank, and later U.S. West Coast movement.
+- [Hawaii / 夏威夷](entities/Hawaii.md) — Indigenous kingdom, plantation-labor and remittance node shaped by monarchy, foreign pressure, migration, and U.S. expansion.
 - [Yokohama Specie Bank / 横滨正金银行](entities/YokohamaSpecieBank.md) — Semi-official Japanese bank that made overseas labor remittances legible through consulate-adjacent banking and foreign-exchange infrastructure.
 - [Dillingham Commission](entities/DillinghamCommission.md) — U.S. immigration investigation used by episode 168 to show how remittances became racialized as wealth drain and loyalty threat.
 - [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Political-philosophy podcast context linking the 起朱楼 algorithm crossover with a direct Machiavelli reading.
@@ -15440,6 +15443,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Hawaiian Monarchy under Foreign Pressure](concepts/HawaiianMonarchyForeignPressure.md) — Hawaiian royal adaptation through diplomacy, Christianity, and social institutions amid British and American influence.
 - [Habit Automaticity and Task Bracketing](concepts/HabitAutomaticityAndTaskBracketing.md) — Framework joining initiation friction, procedural rehearsal, sequence boundaries, and context independence.
 - [Post-Habit Replacement](concepts/PostHabitReplacement.md) — Source-scoped practice of using an unwanted habit as the cue for an easy constructive next action.
 - [Free-Citizen Kidnapping into Slavery](concepts/FreeCitizenKidnappingIntoSlavery.md) — Mechanism by which violence, isolation, evidence asymmetry, and interstate sale could override a free Black person's lawful status.
@@ -17668,7 +17672,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [School Meals as Education Access / 校餐作为教育入口](concepts/SchoolMealsAsEducationAccess.md) — Pattern where meals make school attendance possible for children whose hunger would otherwise push them out of class.
 - [Humanitarian Witnessing Boundary / 人道见证边界](concepts/HumanitarianWitnessingBoundary.md) — Ethical limit of carrying suffering outward when testimony cannot solve immediate hunger.
 - [Ceuta Imperial Borderland / 休达帝国边地](concepts/CeutaImperialBorderland.md) — Pattern where Ceuta's geography lets imperial, commercial, scholarly, military, and migration layers accumulate.
-- [Iberian Reconquista / 伊比利亚收复失地运动](concepts/IberianReconquista.md) — Iberian Christian expansion frame used to explain Portugal's post-1249 turn toward North Africa and the Atlantic.
+- [Iberian Reconquista / 伊比利亚收复失地运动](concepts/IberianReconquista.md) — Qualified frame for Iberian Christian expansion, Granada's fall, confessional rupture, and later outward expansion.
 - [Portuguese Maritime Expansion / 葡萄牙海上扩张](concepts/PortugueseMaritimeExpansion.md) — Qualified expansion narrative in which the 1415 conquest of Ceuta becomes the conventional first station.
 - [Portuguese Crusading-Commercial Expansion](concepts/PortugueseCrusadingCommercialExpansion.md) — Framework joining spice commerce, royal prestige, Christian mission, and anti-Muslim violence in Portuguese expansion.
 - [Portuguese Fortified Maritime Network](concepts/PortugueseFortifiedMaritimeNetwork.md) — Coastal-node imperial model using ports, forts, naval routes, and diplomacy to project power with limited manpower.

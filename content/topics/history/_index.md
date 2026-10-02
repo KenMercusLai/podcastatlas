@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2371
+topic_total_pages: 2372
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4800,6 +4800,9 @@ topic_sources:
   - key: "12-days-martin-luther-and-j-r-r-tolkien-glt9800831013"
     title: "12 Days: Martin Luther and J.R.R. Tolkien"
     url: "/wiki/sources/12-days-martin-luther-and-j-r-r-tolkien-glt9800831013/"
+  - key: "12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415"
+    title: "12 Days: Reconquest of Spain and the Old Queen of Hawaii"
+    url: "/wiki/sources/12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415/"
   - key: "12-days-solomon-northup-and-albert-camus-glt6039583450"
     title: "12 Days: Solomon Northup and Albert Camus"
     url: "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"

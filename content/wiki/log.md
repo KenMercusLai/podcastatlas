@@ -27419,3 +27419,11 @@ Added source `12-days-martin-luther-and-j-r-r-tolkien-glt9800831013`; resynthesi
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 12 Days: Reconquest of Spain and the Old Queen of Hawaii
+
+Added source `12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415`; created `QueenEmmaOfHawaii`, `KamehamehaIV`, and `HawaiianMonarchyForeignPressure`; and resynthesized `Hawaii` and `IberianReconquista` from their complete preserved evidence inventories. Core synthesis: Granada's surrender was both a territorial endpoint and the opening of a confessional rupture, while sincere religious belief, dynastic consolidation, extraction, and coercion could operate together; Hawaii's rulers used monarchy, Anglicanism, diplomacy, travel, and philanthropy as active statecraft even as American commercial power narrowed their autonomy. No settled contradiction was adopted. Boabdil's farewell legend, the episode's compressed Hawaiian chronology, British-American contrast, 1874 election alignment, overthrow causation, and Emma counterfactual remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,426-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide scanner retained 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 11913
+wiki_total_pages: 11915
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "QueenChristinaOfSweden"
     title: "Queen Christina of Sweden / 瑞典女王克里斯蒂娜"
     url: "/wiki/entities/queenchristinaofsweden/"
+  - key: "QueenEmmaOfHawaii"
+    title: "Queen Emma of Hawaii"
+    url: "/wiki/entities/queenemmaofhawaii/"
   - key: "QueenNjinga"
     title: "Queen Njinga"
     url: "/wiki/entities/queennjinga/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 11913
+wiki_total_pages: 11915
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "Kamchatka"
     title: "Kamchatka / 勘察加"
     url: "/wiki/entities/kamchatka/"
+  - key: "KamehamehaIV"
+    title: "Kamehameha IV"
+    url: "/wiki/entities/kamehamehaiv/"
   - key: "KandakeQueens"
     title: "Kandake Queens"
     url: "/wiki/entities/kandakequeens/"
