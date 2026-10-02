@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2427
+topic_total_pages: 2428
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6351,6 +6351,9 @@ topic_sources:
   - key: "91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018"
     title: "91.猎巫：塞勒姆1692，从癔症开始"
     url: "/wiki/sources/91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018/"
+  - key: "98-thermopylae-salamis-episode-1-glt3813381992"
+    title: "98. Thermopylae & Salamis Episode 1"
+    url: "/wiki/sources/98-thermopylae-salamis-episode-1-glt3813381992/"
   - key: "99-thermopylae-salamis-episode-2-glt9857497334"
     title: "99. Thermopylae & Salamis Episode 2"
     url: "/wiki/sources/99-thermopylae-salamis-episode-2-glt9857497334/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [98. Thermopylae & Salamis Episode 1](sources/98-thermopylae-salamis-episode-1-glt3813381992.md) — The Rest Is History on Persian imperial scale, Greek source asymmetry, the road from Ionian revolt to Xerxes' invasion, Athenian fleet-building, prophecy, and the linked Thermopylae-Artemisium defense.
 - [99. Thermopylae & Salamis Episode 2](sources/99-thermopylae-salamis-episode-2-glt9857497334.md) — The Rest Is History on Thermopylae's defeat and heroic afterlife, Athens' evacuation and burning, Salamis, Themistoclean strategy, Persian complexity, and civilizational counterfactuals.
 - [100. Decolonising Africa](sources/100-decolonising-africa-glt2427735251.md) — The Rest Is History on Fanon, Nkrumah, Pan-Africanism, divergent independence pathways, the Congo Crisis, inherited borders, and Cold War intervention.
 - [EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable](sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw.md) — 无时差研究所 episode on film form, dementia, family disclosure, migration, disability dignity, care labor, and ordinary farewell.

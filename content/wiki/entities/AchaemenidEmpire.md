@@ -9,6 +9,7 @@ sources:
   - 117-alexander-the-great-part-2-glt9707946822
   - 116-alexander-the-great-part-1-glt3321594885
   - 99-thermopylae-salamis-episode-2-glt9857497334
+  - 98-thermopylae-salamis-episode-1-glt3813381992
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -29,7 +30,9 @@ At Marathon itself, the empire's commanders choose terrain that gives beach acce
 
 The Herodotus episode adds a literary and moral profile without treating Persia as a mere despotic foil. Persian education prizes riding, archery, and truth-telling; Xerxes can appear powerful, handsome, and tragically conscious of mortality. At the same time, the episode reads his Greek invasion as hubristic overreach within an [[ImperialRiseDeclineCycle]] and warns that Athens later begins to reproduce imperial behavior.
 
-The Thermopylae-Salamis episode makes Xerxes' invasion operationally concrete as a combined land-sea campaign. Persian scale, intelligence, archery, cavalry, and multinational naval power bring victory at [[BattleOfThermopylae|Thermopylae]] and the capture of [[Athens]], but they also create supply and coordination pressures. At [[BattleOfSalamis|Salamis]], confined water converts naval numbers into crowding and disorder, breaking the fleet while leaving a substantial land army to fight on until Plataea.
+The Thermopylae-Salamis sequence makes Xerxes' invasion operationally concrete as a combined land-sea campaign. The setup episode emphasizes unprecedented territorial scale from the Aegean toward Central Asia and the Indus, incorporation of Egypt and Babylon, king-of-kings representation, multinational mobilization, Hellespont bridges, and the Mount Athos canal. It also presents the empire as a moralized universal order opposed to lie and disorder, while noting that this interpretation and nearly every royal motive reach the wiki through Greek sources.
+
+Persian scale, intelligence, archery, cavalry, and multinational naval power bring victory at [[BattleOfThermopylae|Thermopylae]] and the capture of [[Athens]], but they also create supply and coordination pressures. At [[BattleOfSalamis|Salamis]], confined water converts naval numbers into crowding and disorder, breaking the fleet while leaving a substantial land army to fight on until Plataea. Because no comparable Persian narrative survives, the episode also allows that imperial messaging could frame the campaign around Leonidas' death, Athens' destruction, tribute, and restored order rather than Greek-defined humiliation.
 
 The Alexander sequence adds the empire's terminal succession crisis in stages. Granicus opens western Asia Minor; Issus exposes [[DariusIII|Darius III's]] family and prestige; Alexander's capture of Phoenician ports removes the navy's bases; and rejected settlement offers turn a bounded invasion into a whole-empire claim. Darius can still mobilize a large, diverse army at the [[BattleOfGaugamela]], but defeat opens Babylon, Susa, and Persepolis. Alexander's Egyptian coronation, retention of Persian officials, adoption of royal forms, dynastic marriages, and recruitment of Persian troops show that imperial structures and regional kingship outlive the reigning dynasty even as the conqueror uses exemplary violence and burns Persepolis.
 
@@ -38,8 +41,8 @@ The Alexander sequence adds the empire's terminal succession crisis in stages. G
 - The empire grows through conquest and incorporation, especially Cyrus's victories over Lydia, Sardis, and Babylon.
 - Darius stabilizes the empire through administration, tribute, symbolic centers, and suppression of rebellion.
 - Persian imperial authority is presented as ideological as well as military, tied to truth/order against the lie.
+- Xerxes' bridges, canal, multinational host, and controlled release of Greek spies turn imperial scale into engineering, logistics, and intimidation.
 - The empire manages Ionian Greeks through client tyrants, satrapal authority, naval force, intelligence, and exemplary punishment.
-- Persian strategy at Marathon depends on terrain, cavalry, naval mobility, intimidation, and possible internal betrayal in Athens.
 - Persian defeat at Marathon is not empire-defining; Xerxes' later combined invasion wins at Thermopylae and takes Athens before Salamis and Plataea end the campaign, while the sequence from Granicus and Issus to Gaugamela later dismantles naval, royal, and territorial control.
 - Institutions, regional kingship, and elite networks remain valuable enough for Alexander to inherit and adapt after military defeat, but Greek and Roman source dominance makes the empire's inner view harder to reconstruct than conqueror memory.
 
@@ -54,17 +57,19 @@ The Alexander sequence adds the empire's terminal succession crisis in stages. G
 - Persian virtues and royal humanity: [[330-herodotus-the-birth-of-history-glt7158094581]] highlights truth-telling, riding, archery, Xerxes's stature, and his reflection on mortality.
 - Overreach and decline: [[330-herodotus-the-birth-of-history-glt7158094581]] interprets Xerxes's invasion and Cyrus's warning through an imperial rise-and-decline pattern that later implicates Athens.
 - Combined invasion and reversal: [[99-thermopylae-salamis-episode-2-glt9857497334]] links Persian logistics and intelligence to Thermopylae, Athens, Salamis, and the remaining army defeated at Plataea.
+- Scale, infrastructure, and imperial mission: [[98-thermopylae-salamis-episode-1-glt3813381992]] links the empire's territorial reach, king-of-kings ideology, bridges, canal, contingents, and punitive purpose to Xerxes' campaign.
+- Narrative asymmetry: [[98-thermopylae-salamis-episode-1-glt3813381992]] notes the absence of a surviving Persian war narrative and preserves a source-scoped possibility that imperial propaganda framed the campaign as punishment and restored order.
 - Final defeat and institutional survival: [[117-alexander-the-great-part-2-glt9707946822]] connects Gaugamela and Darius's death to Alexander's retention of Persian officials, court forms, marriages, and troops.
 - Escalating terminal war: [[116-alexander-the-great-part-1-glt3321594885]] connects western battles, the Phoenician coast, Egypt, and rejected settlements to Alexander's expanding claim on the empire.
 
 ## Qualifications
 
-The profile remains source-scoped to six podcast episodes. It does not synthesize the whole Achaemenid state, court, economy, religion, administration, Greek wars, or collapse. Persian ideals, royal motives, force sizes, Thermopylae and Salamis decision-making, Issus, Gaugamela, settlement offers, and the succession crisis remain mediated chiefly through Greek and Roman traditions and the episodes' reconstruction; Alexander's selective reuse of imperial structures does not prove either seamless continuity or equal integration.
+The profile remains source-scoped to seven podcast episodes. It does not synthesize the whole Achaemenid state, court, economy, religion, administration, Greek wars, or collapse. Persian ideals, royal motives, force sizes, claimed Western inheritance, the hypothetical Persian victory narrative, Thermopylae and Salamis decision-making, Issus, Gaugamela, settlement offers, and the succession crisis remain mediated chiefly through Greek and Roman traditions and the episodes' reconstruction; Alexander's selective reuse of imperial structures does not prove either seamless continuity or equal integration.
 
 ## What Changed
 
-- Added Xerxes' combined land-sea invasion, the victory at Thermopylae, capture of Athens, and naval reversal at Salamis.
-- Clarified that Salamis breaks the amphibious strategy without by itself ending Persian military presence in Greece.
+- Added imperial territorial scale, engineering, mobilization, intimidation, and moralized kingship to the invasion profile.
+- Added the possibility of a Persian punishment-and-restoration narrative while keeping it explicitly source-scoped.
 
 ## Relationships
 

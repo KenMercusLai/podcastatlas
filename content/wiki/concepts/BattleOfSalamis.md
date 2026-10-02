@@ -4,6 +4,7 @@ type: concept
 tags: [ancient-greece, warfare, persia, athens, naval-history]
 sources:
   - 99-thermopylae-salamis-episode-2-glt9857497334
+  - 98-thermopylae-salamis-episode-1-glt3813381992
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,9 @@ The Battle of Salamis was the 480 BC naval battle in which a Greek coalition fle
 
 ## Current Synthesis
 
-Salamis follows strategic and political collapse elsewhere. [[BattleOfThermopylae|Thermopylae]] falls, the Artemisium fleet withdraws, Athenians evacuate Attica, and Persian forces burn Athens. Peloponnesian contingents prefer to defend the Isthmus, so [[Themistocles]] must keep the coalition together and make the straits the place of decision.
+Salamis begins as a policy before it becomes a battle. [[Themistocles]] directs Laurion silver into a trireme fleet, develops Piraeus, interprets Delphi's "wooden wall" as ships, and argues that civilians and sacred objects should leave Attica for Troezen and Salamis. The island's narrow water is therefore selected in advance as a place where a smaller fleet can reduce Persian numerical advantage.
+
+The battle then follows strategic and political collapse elsewhere. [[BattleOfThermopylae|Thermopylae]] falls, the Artemisium fleet withdraws, Athenians evacuate Attica, and Persian forces burn Athens. Peloponnesian contingents prefer to defend the Isthmus, so Themistocles must keep the coalition together and make the planned straits the place of decision.
 
 The episode presents battle as an interaction between deception, geography, cohesion, and training. Themistocles reportedly sends Sicinnus to tell Xerxes that the Greeks are breaking apart. The Persian fleet enters expecting flight, but narrow water crowds ships, tangles oars, and impedes coordination; the coherent Greek fleet then attacks and uses ramming effectively.
 
@@ -24,7 +27,7 @@ The victory is decisive within the campaign without ending the war by itself. Xe
 
 ## Key Claims
 
-- Salamis is chosen amid evacuation, coalition disagreement, and the visible destruction of Athens.
+- Laurion-funded fleet construction, Piraeus, the wooden-wall interpretation, evacuation, and coalition disagreement create the material, religious, and political preconditions for Salamis.
 - The narrow straits reduce the Persian fleet's numerical advantage and reward formation discipline.
 - The Sicinnus message is presented as a deception that encourages Xerxes to commit in unfavorable water.
 - Greek cohesion and intensive Athenian training matter alongside geography.
@@ -34,6 +37,7 @@ The victory is decisive within the campaign without ending the war by itself. Xe
 
 ## Evidence
 
+- Naval preparation and site choice: [[98-thermopylae-salamis-episode-1-glt3813381992]] connects Laurion silver, ostracism, Piraeus, the wooden-wall oracle, evacuation, and the tactical value of narrow straits.
 - Coalition and setting: [[99-thermopylae-salamis-episode-2-glt9857497334]] connects Peloponnesian withdrawal pressure, Athenian evacuation, the burning city, and Themistocles' persuasion.
 - Deception and commitment: [[99-thermopylae-salamis-episode-2-glt9857497334]] describes Sicinnus' message and Xerxes' decision to enter the straits.
 - Tactical mechanism: [[99-thermopylae-salamis-episode-2-glt9857497334]] attributes Persian disruption to confined water and Greek success to cohesion, training, and ramming.
@@ -42,11 +46,11 @@ The victory is decisive within the campaign without ending the war by itself. Xe
 
 ## Counterevidence & Qualifications
 
-The page is bounded to a Greek-centered podcast reconstruction. The Sicinnus story, Xerxes' motives, fleet size, tactical sequence, and share of credit among Greek contingents require caution. Salamis is decisive for the amphibious campaign in this source, but Plataea remains necessary, and no evidence can demonstrate the episode's civilizational counterfactuals.
+The page is bounded to two Greek-centered companion reconstructions. The political use of the oracle, Sicinnus story, Xerxes' motives, fleet size, tactical sequence, and share of credit among Greek contingents require caution. Salamis is decisive for the amphibious campaign in these sources, but Plataea remains necessary, and no evidence can demonstrate the episodes' civilizational counterfactuals.
 
 ## What Changed
 
-- Established Salamis as coalition management, intelligence manipulation, geography, naval training, and a bounded campaign turning point.
+- Added Laurion investment, Piraeus, the wooden-wall interpretation, evacuation planning, and advance selection of narrow water as the battle's preconditions.
 
 ## Related Concepts
 

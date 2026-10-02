@@ -27941,3 +27941,11 @@ Added source `psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 98. Thermopylae & Salamis Episode 1
+
+Added source `98-thermopylae-salamis-episode-1-glt3813381992`; completed the paired Thermopylae-Salamis sequence; and resynthesized `BattleOfThermopylae`, `BattleOfSalamis`, `Themistocles`, `XerxesI`, `Leonidas`, `AchaemenidEmpire`, `Herodotus`, `GrecoPersianWarMemory`, and `AthenianDemocracy` from their complete preserved evidence inventories. Core synthesis: Xerxes' invasion joined imperial ideology, engineering, logistics, and intimidation, while Athens' Laurion-funded naval turn, Piraeus, oracle interpretation, and evacuation plan created the strategic preconditions for Thermopylae-Artemisium and Salamis. No settled contradiction was adopted. Force sizes, royal and political motives, Persian propaganda, Delphic influence, Leonidas' intended sacrifice, and claims about equal Persian and Greek influence on the modern West remain uncertain, interpretive, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,492-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

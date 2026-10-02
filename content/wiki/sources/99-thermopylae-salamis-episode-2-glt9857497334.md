@@ -45,5 +45,5 @@ Its strongest contribution is the combination of strategy and memory. [[Themisto
 ## Contradictions
 
 - No settled contradiction was adopted. The episode extends the Marathon branch from the 490 BC victory to Xerxes' 480 BC invasion, Greek defeat at Thermopylae, and victory at Salamis.
-- The companion Episode 1 is not yet in this wiki, so the fleet-building, invasion preparation, oracle, and initial defensive-plan setup remain represented only through this episode's recap and related existing sources.
+- [[98-thermopylae-salamis-episode-1-glt3813381992|The companion Episode 1]] now supplies the fleet-building, invasion preparation, oracle, and initial defensive-plan setup that this episode only recaps.
 - Army size, casualty scale, Persian motives, Leonidas' reasoning, Themistocles' role in shaping the Thermopylae story, the Sicinnus deception, and all long-range civilizational counterfactuals remain uncertain, literary, or source-scoped.

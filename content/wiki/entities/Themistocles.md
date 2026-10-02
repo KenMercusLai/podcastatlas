@@ -4,6 +4,7 @@ type: entity
 tags: [person, athens, ancient-greece, warfare, politics]
 sources:
   - 99-thermopylae-salamis-episode-2-glt9857497334
+  - 98-thermopylae-salamis-episode-1-glt3813381992
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,9 @@ Themistocles was the Athenian politician and naval strategist whom the episode c
 
 ## Current Profile
 
-The episode's Themistocles works through persuasion, theater, and deception as well as naval command. After Thermopylae falls and Athens is evacuated and burned, Peloponnesian contingents want to defend the Isthmus. He keeps them at Salamis, where confined water can reduce Persian numerical advantage.
+The paired episodes make Themistocles' achievement a decade-long political and strategic project rather than a single battle trick. After Marathon, he anticipates a larger Persian return, appeals to poorer citizens whose power grows with naval service, improves Piraeus, and defeats Aristides' proposal to distribute the Laurion silver windfall. Ostracism removes Aristides, allowing investment in the fleet later used at Salamis; the episode says Aegina supplied the public rationale while Persia was the deeper threat.
+
+He then works through religious interpretation, persuasion, theater, and deception as well as naval command. He reads Delphi's "wooden wall" as the fleet, argues for evacuating Attica, and recognizes the tactical value of Salamis. After Thermopylae falls and Athens is burned, Peloponnesian contingents want to defend the Isthmus. He keeps them at Salamis, where confined water can reduce Persian numerical advantage.
 
 The episode then gives him the Sicinnus stratagem: a messenger tells [[XerxesI|Xerxes]] that the Athenians favor him and the Peloponnesians are about to flee. The Persian fleet enters expecting disintegration, meets a coherent force, and is defeated in the straits. This makes Themistocles the key individual in the episode's campaign account.
 
@@ -24,7 +27,8 @@ His profile remains morally and evidentially mixed. The hosts compare him to Chu
 
 ## Key Characteristics
 
-- Uses the evacuated Athenian fleet as a substitute strategic base for the abandoned city.
+- Converts Laurion silver, Piraeus, ostracism, and mass naval service into a fleet that substitutes for the evacuated city as a strategic base.
+- Turns the wooden-wall oracle into an evacuation and fleet strategy centered on Salamis.
 - Persuades a divided Greek coalition to remain at Salamis.
 - Exploits narrow water against Persian numerical strength.
 - Is credited with an intelligence deception carried through Sicinnus.
@@ -33,6 +37,8 @@ His profile remains morally and evidentially mixed. The hosts compare him to Chu
 
 ## Evidence
 
+- Fleet-building policy: [[98-thermopylae-salamis-episode-1-glt3813381992]] connects anticipation of renewed invasion with Piraeus, Laurion silver, Aristides' ostracism, and trireme construction.
+- Oracle and evacuation: [[98-thermopylae-salamis-episode-1-glt3813381992]] attributes the wooden-wall naval reading, evacuation plan, and Salamis geography to Themistocles.
 - Coalition leadership: [[99-thermopylae-salamis-episode-2-glt9857497334]] describes Themistocles resisting Peloponnesian pressure to withdraw.
 - Intelligence stratagem: [[99-thermopylae-salamis-episode-2-glt9857497334]] attributes the Sicinnus message to him and presents it as telling Xerxes what he wanted to believe.
 - Strategic result: [[99-thermopylae-salamis-episode-2-glt9857497334]] connects his plan to Persian entry into the straits and Greek victory.
@@ -40,11 +46,11 @@ His profile remains morally and evidentially mixed. The hosts compare him to Chu
 
 ## Qualifications
 
-The page is bounded to one podcast episode that itself distinguishes secure campaign events from uncertain stories. The exact Sicinnus episode, Themistocles' control over coalition decisions, his authorship of Thermopylae's memory frame, and the explanation that enemies reduced his place in Herodotus remain source-scoped.
+The page is bounded to two companion podcast episodes that distinguish secure campaign events from uncertain stories. The claim that Persia was Themistocles' private motive for a fleet publicly justified against Aegina, the political use of Delphi, the exact Sicinnus episode, his control over coalition decisions, his authorship of Thermopylae's memory frame, and the explanation that enemies reduced his place in Herodotus remain source-scoped.
 
 ## What Changed
 
-- Established a profile of Themistocles as coalition politician, naval strategist, intelligence manipulator, and contested memory-maker.
+- Extended the profile backward from Salamis to Laurion, Piraeus, ostracism, fleet construction, oracle interpretation, and evacuation planning.
 
 ## Relationships
 

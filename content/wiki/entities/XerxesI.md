@@ -4,6 +4,7 @@ type: entity
 tags: [person, persia, monarchy, ancient-history, warfare]
 sources:
   - 99-thermopylae-salamis-episode-2-glt9857497334
+  - 98-thermopylae-salamis-episode-1-glt3813381992
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,9 @@ Xerxes I was the Achaemenid king whose 480 BC invasion joined a large land army 
 
 ## Current Profile
 
-The episode presents Xerxes as commander of a combined campaign whose scale creates both power and logistical vulnerability. His army and fleet must advance in coordination; delay threatens supply and royal authority, while Persian intelligence helps locate the route around Thermopylae.
+The paired episodes present Xerxes as an Achaemenid dynast and commander rather than a simple despotic caricature. As the son of Atossa and grandson of [[CyrusTheGreat|Cyrus]], he inherits both legitimacy and a demand to punish Athens and Sparta for rebellion, insult, and the killing of Persian envoys. The source describes him as physically imposing, trained, capable, interested in gardens, and committed to imperial and cosmic order, while marking Herodotus' intimate character scenes as Greek literary projection.
+
+He prepares a combined campaign whose scale expresses king-of-kings status but creates logistical vulnerability. Multinational forces assemble across the empire; bridges cross the Hellespont; a canal bypasses the dangerous Mount Athos route; and released Greek spies spread knowledge of Persian scale. His army and fleet must advance in coordination, while delay threatens supply and royal authority and Persian intelligence later helps locate the route around Thermopylae.
 
 After victory at the pass, Xerxes' forces enter and burn Athens. Before Salamis, he receives competing advice: Demaratus recommends threatening the Peloponnese, while Artemisia recommends avoiding battle and allowing winter to erode Greek unity. Xerxes instead accepts information carried by Sicinnus that the coalition is disintegrating and commits the fleet to the straits.
 
@@ -24,7 +27,8 @@ The naval defeat breaks the amphibious strategy. Xerxes returns to Persepolis bu
 
 ## Key Characteristics
 
-- Commands a combined land and naval invasion of Greece.
+- Grounds invasion in dynastic legitimacy, imperial punishment, and a source-scoped moral mission of restoring order.
+- Commands a combined land-sea invasion whose bridges, canal, multinational mobilization, and controlled intimidation project imperial scale.
 - Benefits from Persian intelligence and the outflanking of Thermopylae.
 - Captures and burns Athens after its evacuation.
 - Receives alternative strategies from Demaratus and Artemisia before Salamis.
@@ -33,6 +37,9 @@ The naval defeat breaks the amphibious strategy. Xerxes returns to Persepolis bu
 
 ## Evidence
 
+- Dynasty and mission: [[98-thermopylae-salamis-episode-1-glt3813381992]] connects Atossa and Cyrus to succession and frames punishment of Athens and Sparta as imperial and cosmic duty.
+- Preparation and projection: [[98-thermopylae-salamis-episode-1-glt3813381992]] describes the Hellespont bridges, Mount Athos canal, imperial contingents, logistics, and released spies.
+- Character through Greek sources: [[98-thermopylae-salamis-episode-1-glt3813381992]] distinguishes a capable ruler from Herodotus' likely projected mortality scene and other literary characterization.
 - Combined strategy and logistics: [[99-thermopylae-salamis-episode-2-glt9857497334]] describes mutually dependent land and sea forces and the supply cost of delay.
 - Thermopylae and Athens: [[99-thermopylae-salamis-episode-2-glt9857497334]] connects the outflanking victory to the subsequent capture and burning of Athens.
 - Decision at Salamis: [[99-thermopylae-salamis-episode-2-glt9857497334]] contrasts Demaratus' and Artemisia's advice with the decision to enter the straits after Sicinnus' message.
@@ -40,11 +47,11 @@ The naval defeat breaks the amphibious strategy. Xerxes returns to Persepolis bu
 
 ## Qualifications
 
-This profile is bounded to one Greek-centered episode. The army estimate, royal motives, exact advice, Sicinnus exchange, and causal responsibility for Salamis remain source-scoped. Greek victory narrative does not provide an unmediated Persian account of Xerxes' aims or decision-making.
+This profile is bounded to two Greek-centered companion episodes. The estimate of roughly 250,000 to 300,000 troops, royal motives, moral mission, punishment of the sea, released-spy strategy, reported emotions, exact advice, Sicinnus exchange, and causal responsibility for Salamis remain source-scoped. Greek victory narrative does not provide an unmediated Persian account of Xerxes' aims or decision-making.
 
 ## What Changed
 
-- Established a campaign profile centered on combined strategy, intelligence, Athens, the Salamis decision, and the limits of Greek-source reconstruction.
+- Added dynastic legitimacy, imperial ideology, engineering, mobilization, intimidation, and the distinction between royal capability and Greek literary characterization.
 
 ## Relationships
 
