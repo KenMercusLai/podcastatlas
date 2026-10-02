@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12081
+wiki_total_pages: 12082
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1265,6 +1265,9 @@ wiki_pages:
   - key: "AnnaKerr"
     title: "Anna Kerr"
     url: "/wiki/entities/annakerr/"
+  - key: "AnnaLembke"
+    title: "Anna Lembke"
+    url: "/wiki/entities/annalembke/"
   - key: "AnnaSorokin"
     title: "Anna Sorokin / 安娜·索罗金"
     url: "/wiki/entities/annasorokin/"

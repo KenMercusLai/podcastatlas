@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Understanding & Treating Addiction | Dr. Anna Lembke](sources/understanding-treating-addiction-dr-anna-lembke-scim9435481929.md) — Huberman Lab interview on the pleasure-pain balance, dopamine adaptation, behavioral addiction, abstinence, relapse, community, truth-telling, and treatment boundaries.
 - [87. Afghanistan - Part 1](sources/87-afghanistan-part-1-glt7464087190.md) — The Rest Is History survey of Afghanistan as an imperial crossroads, Durrani state formation, the Durand Line, the Soviet war, Taliban origins, and intervention limits.
 - [88. The First Anglo-Afghan War](sources/88-the-first-anglo-afghan-war-glt5156371854.md) — The Rest Is History with William Dalrymple on Great Game anxiety, regime change, occupation collapse, the 1842 Kabul retreat, and modern Afghan legitimacy parallels.
 - [89. Climate & Weather](sources/89-climate-weather-glt6521438447.md) — The Rest Is History countdown on climate and weather acting through settlement, food, war, revolution, culture, transport, forecasting, and political legitimacy.
@@ -3570,6 +3571,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247.md) — Huberman Lab interview on psychedelic classes, clinical protocols, self-representation, integration, microdosing evidence, persistent perceptual symptoms, risks, and regulation.
 
 ## Entities
+- [Anna Lembke](entities/AnnaLembke.md) — Psychiatrist framing addiction through pleasure-pain adaptation, bounded abstinence, community, honesty, and service-oriented recovery.
 - [Ahmad Shah Durrani](entities/AhmadShahDurrani.md) — Pashtun ruler whose coalition-building after 1747 founded the Durrani Empire and helped shape the later Afghan state.
 - [Durrani Empire](entities/DurraniEmpire.md) — Eighteenth-century Pashtun-led polity bridging earlier regional empires and modern Afghan state formation.
 - [First Anglo-Afghan War](entities/FirstAngloAfghanWar.md) — 1839-1842 regime-change intervention ending in occupation collapse, the Kabul retreat, and Dost Muhammad's restoration.
@@ -15695,6 +15697,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
 
 ## Concepts
+- [Pleasure-Pain Balance in Addiction](concepts/PleasurePainBalanceAddiction.md) — Opponent-process model connecting repeated reward to compensatory discomfort, craving, withdrawal, and narrowed ordinary reward.
+- [Recovery Truth-Telling and Amends](concepts/RecoveryTruthTellingAndAmends.md) — Recovery practice linking honest disclosure, proportionate responsibility, accountability, and relationship repair.
 - [Afghanistan as an Imperial Crossroads](concepts/AfghanistanImperialCrossroads.md) — Framework replacing a timeless graveyard myth with connection, incorporation, cultural exchange, resistance, and outward state formation.
 - [Durand Line](concepts/DurandLine.md) — Colonial boundary dividing Pashtun populations and shaping later Afghanistan-Pakistan politics.
 - [Soviet-Afghan War](concepts/SovietAfghanWar.md) — Conflict linking communist state crisis, Soviet intervention, internationalized insurgency, civil war, and later Taliban formation.

@@ -28076,3 +28076,11 @@ Added source `87-afghanistan-part-1-glt7464087190`; created `AhmadShahDurrani`, 
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | Understanding & Treating Addiction | Dr. Anna Lembke
+
+Added source `understanding-treating-addiction-dr-anna-lembke-scim9435481929`; created `AnnaLembke`, `PleasurePainBalanceAddiction`, and `RecoveryTruthTellingAndAmends`; and resynthesized `AbstinenceModerationSelfControl` and `RecoveryCommunityConnection` from their complete preserved evidence inventories. Core synthesis: repeated high-intensity reward can recruit compensatory discomfort and shift use from pleasure seeking toward pain avoidance; bounded abstinence can serve as an assessment and early-recovery tool; and community, truth-telling, amends, barriers, daily commitments, and service can rebuild agency and connection. No settled contradiction was adopted; the raw body's “Lemke” spelling is normalized to Anna Lembke, while dopamine mechanisms, the 30-day average, truth-telling neuroscience, oxytocin claims, and behavioral-addiction generalizations remain source-scoped. Severe addiction and dangerous withdrawal require appropriate clinical care, and small psychedelic studies do not validate unsupervised use. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

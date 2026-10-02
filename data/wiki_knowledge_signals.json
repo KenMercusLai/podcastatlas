@@ -4993,9 +4993,9 @@
       "url": "/wiki/concepts/absoluteguaranteetrap/"
     },
     "AbstinenceModerationSelfControl": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8156556751 [SCIM8156556751].md",
@@ -5003,9 +5003,16 @@
           "show": "Huberman Lab",
           "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
           "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
+        },
+        {
+          "episode_file": "SCIM9435481929 [SCIM9435481929].md",
+          "key": "understanding-treating-addiction-dr-anna-lembke-scim9435481929",
+          "show": "Huberman Lab",
+          "title": "Understanding & Treating Addiction | Dr. Anna Lembke",
+          "url": "/wiki/sources/understanding-treating-addiction-dr-anna-lembke-scim9435481929/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/abstinencemoderationselfcontrol/"
     },
     "AbuDhabiUnitedGroup": {
@@ -12978,6 +12985,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/annakeay/"
+    },
+    "AnnaLembke": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9435481929 [SCIM9435481929].md",
+          "key": "understanding-treating-addiction-dr-anna-lembke-scim9435481929",
+          "show": "Huberman Lab",
+          "title": "Understanding & Treating Addiction | Dr. Anna Lembke",
+          "url": "/wiki/sources/understanding-treating-addiction-dr-anna-lembke-scim9435481929/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/annalembke/"
     },
     "AnnaTrapnel": {
       "episode_count": 1,
@@ -155977,6 +156000,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/playascontingencytesting/"
     },
+    "PleasurePainBalanceAddiction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9435481929 [SCIM9435481929].md",
+          "key": "understanding-treating-addiction-dr-anna-lembke-scim9435481929",
+          "show": "Huberman Lab",
+          "title": "Understanding & Treating Addiction | Dr. Anna Lembke",
+          "url": "/wiki/sources/understanding-treating-addiction-dr-anna-lembke-scim9435481929/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/pleasurepainbalanceaddiction/"
+    },
     "PlinyTheElder": {
       "episode_count": 1,
       "show_count": 1,
@@ -166353,9 +166392,9 @@
       "url": "/wiki/concepts/recordandreplay/"
     },
     "RecoveryCommunityConnection": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5476071523 [SCIM5476071523].md",
@@ -166370,9 +166409,16 @@
           "show": "Huberman Lab",
           "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
           "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
+        },
+        {
+          "episode_file": "SCIM9435481929 [SCIM9435481929].md",
+          "key": "understanding-treating-addiction-dr-anna-lembke-scim9435481929",
+          "show": "Huberman Lab",
+          "title": "Understanding & Treating Addiction | Dr. Anna Lembke",
+          "url": "/wiki/sources/understanding-treating-addiction-dr-anna-lembke-scim9435481929/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/recoverycommunityconnection/"
     },
     "RecoveryDistressTolerance": {
@@ -166406,6 +166452,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/recoverymonitoringtriad/"
+    },
+    "RecoveryTruthTellingAndAmends": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9435481929 [SCIM9435481929].md",
+          "key": "understanding-treating-addiction-dr-anna-lembke-scim9435481929",
+          "show": "Huberman Lab",
+          "title": "Understanding & Treating Addiction | Dr. Anna Lembke",
+          "url": "/wiki/sources/understanding-treating-addiction-dr-anna-lembke-scim9435481929/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/recoverytruthtellingandamends/"
     },
     "RecurrenceFreeSurvivalEndpoint": {
       "episode_count": 1,

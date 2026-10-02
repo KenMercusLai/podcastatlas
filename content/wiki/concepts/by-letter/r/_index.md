@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9389
+wiki_total_pages: 9391
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "RecoveryRangePayloadTradeoff"
     title: "Recovery Range Payload Tradeoff"
     url: "/wiki/concepts/recoveryrangepayloadtradeoff/"
+  - key: "RecoveryTruthTellingAndAmends"
+    title: "Recovery Truth-Telling and Amends"
+    url: "/wiki/concepts/recoverytruthtellingandamends/"
   - key: "RecruitingSupplyStrategy"
     title: "Recruiting Supply Strategy"
     url: "/wiki/concepts/recruitingsupplystrategy/"
