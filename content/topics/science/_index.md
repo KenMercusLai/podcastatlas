@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1427
+topic_total_pages: 1428
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4026,6 +4026,9 @@ topic_sources:
   - key: "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751"
     title: "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita"
     url: "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
+  - key: "scim3608509346-scim3608509346"
+    title: "Maximizing Productivity, Physical & Mental Health with Daily Tools"
+    url: "/wiki/sources/scim3608509346-scim3608509346/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770"
     title: "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china-42543770/"

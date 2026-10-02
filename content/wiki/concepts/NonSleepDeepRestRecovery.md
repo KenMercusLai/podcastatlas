@@ -10,7 +10,8 @@ sources:
   - how-meditation-works-science-based-effective-meditations-scim5642770846
   - focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033
   - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
-last_updated: 2026-10-01
+  - scim3608509346-scim3608509346
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The combined judgment remains conservative. A dopamine-availability change is no
 The live Q&A adds two practical uses: deliberate downshifting after stress and using yoga nidra or NSDR when awake during the night. [[the-science-of-creativity-how-to-enhance-creative-innovation-scim5096680097]] adds a pre-creative-state hypothesis: NSDR may prepare later divergent work, but the rest period is not itself idea generation. [[how-meditation-works-science-based-effective-meditations-scim5642770846]] sharpens the category boundary: ordinary meditation primarily practices focusing and refocusing, whereas yoga nidra and NSDR are presented as defocusing or deep-rest practices more directly aligned with downshifting and sleep recovery. The focus-toolkit episode adds 10-30 minutes as a practical range and presents NSDR as especially useful after poor sleep. These examples strengthen the low-cost accessibility case while preserving the central boundary that quiet wakeful rest is not identical to sleep and a dopamine or cortisol change does not guarantee sleep, working-memory, creativity, or full sleep-loss recovery.
 
 The full-length sleep toolkit independently supplies the longer episode context for those same practical uses: NSDR, yoga nidra, or hypnosis can replace a nap for people who become groggy and may be tried after nighttime waking. Because the later Essentials edit derives from this episode, the two versions are overlapping provenance rather than independent evidence.
+
+The earlier daily-tools episode in [[scim3608509346-scim3608509346]] adds a concrete placement inside an example day: a brief guided hypnosis or NSDR-like session after lunch and a walk, with long-exhale breathing, yoga nidra, or sleep hypnosis also offered for nighttime anxiety or wakefulness. This strengthens the state-transition use case but does not establish treatment efficacy for insomnia, anxiety, cognition, or recovery.
 
 ## Key Claims
 - NSDR or yoga nidra is presented as a possible way to downshift stress and restore subjective vigor.
@@ -47,14 +50,14 @@ The full-length sleep toolkit independently supplies the longer episode context 
 - Practice-category boundary - [[how-meditation-works-science-based-effective-meditations-scim5642770846]] distinguishes focusing/refocusing meditation from defocusing yoga nidra or NSDR and presents the latter as more directly aligned with rest and sleep support.
 - Sleep-deprived focus use - [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] presents 10-30 minutes of NSDR as a restoration option after poor sleep while contrasting it with active refocusing meditation.
 - Nap and nighttime-waking use - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] presents NSDR, yoga nidra, and hypnosis as alternatives to naps and possible return-to-sleep aids.
+- Daily placement and nighttime use - [[scim3608509346-scim3608509346]] places guided downshifting after lunch and offers body-based relaxation options during nighttime wakefulness.
 
 ## Counterevidence & Qualifications
 The sources do not establish a universal duration, controlled working-memory or creativity effect, guaranteed return to sleep, reduced biological sleep need, full reversal of sleep deprivation, or superiority over sleep, passive rest, meditation, or clinical treatment. The reported dopamine or cortisol change should not be read as a corresponding percentage gain in cognition, creativity, or sleep restoration, and the cited pathway interpretations remain source-scoped. Severe fatigue, exercise intolerance, persistent insomnia, faintness, pain, or functional decline requires assessment rather than additional relaxation audio.
 
 ## What Changed
-- Added the full-length episode's nap-alternative and nighttime-waking context.
-- Made explicit that the full and Essentials edits are overlapping rather than independent support.
-- Preserved subjective restoration as distinct from reversing sleep loss or treating insomnia.
+- Added early full-length provenance for post-lunch guided downshifting and nighttime body-based relaxation.
+- Preserved the boundary between a state-transition option and treatment for insomnia, anxiety, cognition, or recovery.
 
 ## Related Concepts
 - [[ExerciseRecoveryReadiness]] - broader framework for recovery inputs and load adjustment.

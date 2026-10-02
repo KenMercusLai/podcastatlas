@@ -7,7 +7,8 @@ sources:
   - optimizing-workspace-for-productivity-focus-creativity-scim5202577757
   - the-science-of-making-breaking-habits-scim6848516659
   - scim2746317304-scim2746317304
-last_updated: 2026-10-02
+  - scim3608509346-scim3608509346
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Daily circadian performance routine is the source's whole-day framework for sequ
 
 ## Current Synthesis
 The episode's distinctive move is integration. Wake-time tracking estimates the circadian low point; morning outdoor light and walking begin the alertness phase; caffeine is delayed; a protected work bout precedes exercise; meals and post-meal movement are chosen partly for daytime state; afternoon light supplies another time cue; and dinner, darkness, heat-driven cooling, and a cool room support sleep.
+
+The original full-length account in [[scim3608509346-scim3608509346]] makes the same sequence explicit and adds post-lunch guided downshifting, nighttime long-exhale or NSDR options, and weekend regularity. Because the later Essentials release condenses this episode, the two versions establish editorial continuity and fuller provenance rather than independent confirmation.
 
 This is an example routine rather than a universal schedule. The source repeatedly allows people to keep a different work window when it already works and to adapt the sequence around real obligations. Its medical, supplement, nutrition, and exercise mechanisms therefore remain hypotheses or source-scoped guidance, while the durable synthesis is to coordinate strong daily cues and judge them by function rather than protocol compliance.
 
@@ -41,16 +44,18 @@ A cognitive-mode hypothesis in [[scim2746317304-scim2746317304]] proposes that e
 - Focus timing - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] connects an estimated temperature minimum with a possible high-focus window but says people who work well immediately after waking should retain that pattern.
 - Day-night transition - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] pairs afternoon outdoor light with evening darkness, heat-driven cooling, and a cool bedroom.
 - Adaptation boundary - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] explicitly invites listeners to modify the tools around their own schedules.
+- Full-length provenance - [[scim3608509346-scim3608509346]] supplies the original morning-to-night sequence, post-lunch recovery, nighttime downshifting, and weekend-regularity context later condensed by the Essentials edit.
 - Workspace-phase evidence - [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] pairs brighter overhead light with early waking hours, reduced warm light with later work, and minimal necessary light during unavoidable night work.
 - Habit-placement evidence - [[the-science-of-making-breaking-habits-scim6848516659]] places more demanding habits in an alert phase, calmer practices later, and sleep-dependent consolidation at night.
 - Flexibility boundary - [[the-science-of-making-breaking-habits-scim6848516659]] recommends varying time and context after a habit becomes easier to test whether it is genuinely portable.
 - Cognitive-mode timing - [[scim2746317304-scim2746317304]] proposes earlier precision work and later fluid or creative work while noting that disrupted sleep can blur the underlying daily-state pattern.
 
 ## Counterevidence & Qualifications
-The sources describe public science education and example routines, not a validated universal schedule. Shift work, caregiving, disability, chronotype, eating disorders, diabetes, psychiatric conditions, sleep disorders, medication effects, pregnancy, training history, and occupational safety can change whether any element is appropriate. Mechanistic claims about optic flow, fasting, meal composition, cytokines, serotonin, supplements, light-sensitive retinal pathways, limbic friction, or precise cognitive and habit phases should not be treated as individualized care. State matching can help repetition or task selection without proving that one clock window is necessary.
+The sources describe public science education and example routines, not a validated universal schedule. The full and Essentials daily-tools releases are overlapping provenance. Shift work, caregiving, disability, chronotype, eating disorders, diabetes, psychiatric conditions, sleep disorders, medication effects, pregnancy, training history, and occupational safety can change whether any element is appropriate. Mechanistic claims about optic flow, fasting, meal composition, cytokines, serotonin, supplements, light-sensitive retinal pathways, limbic friction, or precise cognitive and habit phases should not be treated as individualized care. State matching can help repetition or task selection without proving that one clock window is necessary.
 
 ## What Changed
-- Added a qualified early-precision/later-creativity task-matching hypothesis.
+- Added the original full-length episode as overlapping provenance for the established whole-day sequence.
+- Extended the routine's recovery context with post-lunch downshifting, nighttime body-based options, and weekend regularity.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - sleep-focused parent toolkit that this routine extends into work, exercise, and meals.

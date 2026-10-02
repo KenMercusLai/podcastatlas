@@ -11530,9 +11530,9 @@
       "url": "/wiki/entities/andrewcarnegie/"
     },
     "AndrewHuberman": {
-      "episode_count": 58,
+      "episode_count": 59,
       "show_count": 1,
-      "source_note_count": 58,
+      "source_note_count": 59,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -11939,6 +11939,13 @@
           "show": "Huberman Lab",
           "title": "How to Control Your Sense of Pain & Pleasure",
           "url": "/wiki/sources/scim2452395341-scim2452395341/"
+        },
+        {
+          "episode_file": "SCIM3608509346 [SCIM3608509346].md",
+          "key": "scim3608509346-scim3608509346",
+          "show": "Huberman Lab",
+          "title": "Maximizing Productivity, Physical & Mental Health with Daily Tools",
+          "url": "/wiki/sources/scim3608509346-scim3608509346/"
         }
       ],
       "updated": "2026-10-03",
@@ -46823,9 +46830,9 @@
       "url": "/wiki/concepts/daigouchannel/"
     },
     "DailyCircadianPerformanceRoutine": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM5427393382 [SCIM5427393382].md",
@@ -46854,9 +46861,16 @@
           "show": "Huberman Lab",
           "title": "Time Perception & Entrainment by Dopamine, Serotonin & Hormones",
           "url": "/wiki/sources/scim2746317304-scim2746317304/"
+        },
+        {
+          "episode_file": "SCIM3608509346 [SCIM3608509346].md",
+          "key": "scim3608509346-scim3608509346",
+          "show": "Huberman Lab",
+          "title": "Maximizing Productivity, Physical & Mental Health with Daily Tools",
+          "url": "/wiki/sources/scim3608509346-scim3608509346/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/dailycircadianperformanceroutine/"
     },
     "DailyHydrationTiming": {
@@ -96247,9 +96261,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 58,
+      "episode_count": 59,
       "show_count": 1,
-      "source_note_count": 58,
+      "source_note_count": 59,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -96656,6 +96670,13 @@
           "show": "Huberman Lab",
           "title": "How to Control Your Sense of Pain & Pleasure",
           "url": "/wiki/sources/scim2452395341-scim2452395341/"
+        },
+        {
+          "episode_file": "SCIM3608509346 [SCIM3608509346].md",
+          "key": "scim3608509346-scim3608509346",
+          "show": "Huberman Lab",
+          "title": "Maximizing Productivity, Physical & Mental Health with Daily Tools",
+          "url": "/wiki/sources/scim3608509346-scim3608509346/"
         }
       ],
       "updated": "2026-10-03",
@@ -145426,9 +145447,9 @@
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonSleepDeepRestRecovery": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -145478,9 +145499,16 @@
           "show": "Huberman Lab",
           "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
+        },
+        {
+          "episode_file": "SCIM3608509346 [SCIM3608509346].md",
+          "key": "scim3608509346-scim3608509346",
+          "show": "Huberman Lab",
+          "title": "Maximizing Productivity, Physical & Mental Health with Daily Tools",
+          "url": "/wiki/sources/scim3608509346-scim3608509346/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/nonsleepdeeprestrecovery/"
     },
     "NonStandardLodgingSearch": {
@@ -203211,9 +203239,9 @@
       "url": "/wiki/concepts/ultraprocessedfoodpragmaticboundary/"
     },
     "UltradianDeepWorkBlock": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM5427393382 [SCIM5427393382].md",
@@ -203249,9 +203277,16 @@
           "show": "Huberman Lab",
           "title": "Time Perception & Entrainment by Dopamine, Serotonin & Hormones",
           "url": "/wiki/sources/scim2746317304-scim2746317304/"
+        },
+        {
+          "episode_file": "SCIM3608509346 [SCIM3608509346].md",
+          "key": "scim3608509346-scim3608509346",
+          "show": "Huberman Lab",
+          "title": "Maximizing Productivity, Physical & Mental Health with Daily Tools",
+          "url": "/wiki/sources/scim3608509346-scim3608509346/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/ultradiandeepworkblock/"
     },
     "UltrasoundExamPreparationAndSafety": {

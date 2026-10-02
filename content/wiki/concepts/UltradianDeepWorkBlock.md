@@ -8,7 +8,8 @@ sources:
   - essentials-tools-to-improve-your-focus-concentration-scim2328129388
   - optimizing-workspace-for-productivity-focus-creativity-scim5202577757
   - scim2746317304-scim2746317304
-last_updated: 2026-10-02
+  - scim3608509346-scim3608509346
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Ultradian deep work block is the source's practice of protecting one roughly 90-
 
 ## Current Synthesis
 The practical value of the block is environmental and attentional: choose the hardest important task, set a bounded interval, turn the phone off, place the screen at eye level or slightly higher, and optionally use low-level white noise. The focus-toolkit episode adds a realistic entry and exit: the first five to ten minutes may be a transition into focus, and 10-30 minutes of low-input defocus can follow the bout. Its condensed [[essentials-tools-to-improve-your-focus-concentration-scim2328129388]] edit reiterates the entry period but is not independent evidence for a universal cycle. The sources label the roughly 90-minute duration an ultradian rhythm, but none requires perfect concentration throughout the interval.
+
+[[scim3608509346-scim3608509346]] is the original full-length daily-tools source behind the later Essentials edit. It adds the example of a second later work bout and explicitly notes that many occupations cannot map neatly onto this structure; those details reinforce flexibility but do not create a second independent evidence line for the 90-minute claim.
 
 Timing is treated as adjustable. The episode proposes four to six hours after estimated temperature minimum as a possible high-focus window, yet explicitly says that people who already focus well immediately after waking should keep that schedule. The concept is therefore a protected-work design, not proof that every person has one exact 90-minute cognitive maximum.
 
@@ -40,16 +43,17 @@ The earlier [[scim2746317304-scim2746317304]] episode frames waking ultradian cy
 - Workspace state - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] links upward eye position and optional low-level white noise to alertness and workflow.
 - Timing option - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] proposes four to six hours after estimated temperature minimum as a work window.
 - Personal-fit boundary - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] says effective immediate-post-waking work should not be abandoned merely to match the suggested timing.
+- Original full-length context - [[scim3608509346-scim3608509346]] describes a possible second bout and acknowledges that the work-block structure does not fit every profession.
 - Entry and recovery - [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] frames five to ten minutes of transition and 10-30 minutes of deliberate defocus as expected neighbors of a focus bout.
 - Editorial continuity - [[essentials-tools-to-improve-your-focus-concentration-scim2328129388]] repeats the roughly 90-minute bout and five- to ten-minute transition in a condensed release.
 - Workspace and boundary design - [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] adds elevated target placement, a focus warm-up, panoramic visual breaks, and stronger phone separation.
 - Bout frequency - [[scim2746317304-scim2746317304]] proposes two to four hours between demanding bouts and says many people can sustain one or two such bouts daily.
 
 ## Counterevidence & Qualifications
-The sources do not supply comparative trials for 90 versus other work-block lengths, establish white noise as universally beneficial, prove one optimal recovery interval or daily bout count, or show that screen height alone materially improves work. The six-minute and five-to-ten-minute warm-up descriptions are compatible heuristics, not a precise universal onset time. Attention disorders, pain, disability, shared workplaces, caregiving, job design, chronotype, and sleep debt can change the useful duration and setup. The ultradian label, precise focus window, bout spacing, and decompression duration remain source-scoped.
+The sources do not supply comparative trials for 90 versus other work-block lengths, establish white noise as universally beneficial, prove one optimal recovery interval or daily bout count, or show that screen height alone materially improves work. The full and Essentials daily-tools releases are overlapping provenance. The six-minute and five-to-ten-minute warm-up descriptions are compatible heuristics, not a precise universal onset time. Attention disorders, pain, disability, shared workplaces, caregiving, job design, chronotype, and sleep debt can change the useful duration and setup. The ultradian label, precise focus window, bout spacing, and decompression duration remain source-scoped.
 
 ## What Changed
-- Added a source-scoped recovery and daily-frequency hypothesis for demanding bouts.
+- Added original full-length provenance for a possible second bout and the explicit occupational-fit boundary.
 
 ## Related Concepts
 - [[DailyCircadianPerformanceRoutine]] - whole-day routine in which the work block appears.

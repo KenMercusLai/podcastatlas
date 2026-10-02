@@ -28220,3 +28220,11 @@ Added source `75-the-east-india-company-glt7809915873`; created `RobertClive`, `
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | Maximizing Productivity, Physical & Mental Health with Daily Tools
+
+Added source `scim3608509346-scim3608509346`; updated `AndrewHuberman`, `HubermanLab`, `DailyCircadianPerformanceRoutine`, `UltradianDeepWorkBlock`, and `NonSleepDeepRestRecovery` from their complete preserved evidence inventories. Core synthesis: light, movement, caffeine, work, exercise, meals, rest, and sleep are presented as a coordinated daily sequence whose timing should be adapted to personal function and constraints. The source is the original full-length episode behind the later Essentials edit, so their overlap adds provenance rather than independent confirmation. No settled contradiction was adopted; optic-flow, fasting, 90-minute rhythm, exercise, nutrition, hormone, supplement, and sleep claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,527-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

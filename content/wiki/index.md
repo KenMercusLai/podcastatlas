@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Maximizing Productivity, Physical & Mental Health with Daily Tools](sources/scim3608509346-scim3608509346.md) — Full-length Huberman Lab daily-protocol episode coordinating circadian cues, focused work, exercise, meals, recovery, and sleep with explicit individual-fit and evidence boundaries.
 - [75. The East India Company](sources/75-the-east-india-company-glt7809915873.md) — The Rest Is History with William Dalrymple on joint-stock trade, Bengal's wealth, Indian finance and soldiers, Plassey, famine, corporate bankruptcy, and the Company's conversion into imperial government.
 - [76. Statues: Trafalgar Square](sources/76-statues-trafalgar-square-glt4670878913.md) — The Rest Is History on royal, naval, imperial, diplomatic, and martyr monuments as layered arguments about retention, removal, replacement, and public meaning.
 - [Machines, Creativity & Love | Dr. Lex Fridman](sources/machines-creativity-love-dr-lex-fridman-scim8604353977.md) — Full Huberman Lab conversation on AI learning, user-owned guidance, robot companionship, shared memory, grief, friendship, vulnerability, and long-form conversation.
