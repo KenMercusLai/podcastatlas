@@ -8,8 +8,9 @@ sources:
   - 244-trafalgar-countdown-to-annihilation-part-2-glt5489746159
   - 243-trafalgar-a-world-at-war-part-1-glt3542298238
   - 126-napoleon-in-egypt-glt3691914095
+  - 76-statues-trafalgar-square-glt4670878913
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-02
+last_updated: 2026-10-03
 ---
 
 # Horatio Nelson
@@ -20,7 +21,9 @@ Horatio Nelson is presented as a British naval commander whose preparation, tact
 
 ## Current Profile
 
-Nelson's command joined meticulous attention to weather, provisioning, health, and fleet readiness with an intense patriotic and religious sense of destiny. At the 1798 [[BattleOfTheNile]], he turned shallows assumed to protect the anchored French fleet into an avenue of attack, engaged from both sides, and destroyed the naval support for [[NapoleonEgyptCampaign|Napoleon's Egyptian expedition]]. At Trafalgar he again trusted captains to execute intent once battle became chaotic and sought not a limited win but annihilation through a two-column break into the allied line. The background source places those qualities in an inherited system: Hood's offensive strategy, Jervis's discipline and captain-level autonomy, professional training, dockyards, health, logistics, and practiced gunnery made Nelson a culmination of the [[RoyalNavy]] rather than a solitary genius. The same sources complicate that achievement: peers could find him fame-hungry, his aggressive self-image carried an apocalyptic edge, and his hostility to abolitionism placed heroic care for his own crews beside indifference to wealth rooted in Caribbean slavery. His visible courage and fatal wound at Trafalgar fused operational success with sacrifice and national myth, while the earlier comic source shows how Emma Hamilton and celebrity scandal remain part of his afterlife.
+Nelson's command joined meticulous attention to weather, provisioning, health, and fleet readiness with an intense patriotic and religious sense of destiny. At the 1798 [[BattleOfTheNile]], he turned shallows assumed to protect the anchored French fleet into an avenue of attack, engaged from both sides, and destroyed the naval support for [[NapoleonEgyptCampaign|Napoleon's Egyptian expedition]]. At Trafalgar he again trusted captains to execute intent once battle became chaotic and sought not a limited win but annihilation through a two-column break into the allied line. The background source places those qualities in an inherited system: Hood's offensive strategy, Jervis's discipline and captain-level autonomy, professional training, dockyards, health, logistics, and practiced gunnery made Nelson a culmination of the [[RoyalNavy]] rather than a solitary genius.
+
+The same sources complicate that achievement: peers could find him fame-hungry, his aggressive self-image carried an apocalyptic edge, and his hostility to abolitionism placed heroic care for his own crews beside indifference to wealth rooted in Caribbean slavery. His visible courage and fatal wound at Trafalgar fused operational success with sacrifice and national myth. [[76-statues-trafalgar-square-glt4670878913]] follows that afterlife into [[TrafalgarSquare]], where a Roman-style triumphal column commemorates victory and naval supremacy while disputes over slavery test whether selected military honor can remain separate from a wider moral record. The earlier comic source shows how Emma Hamilton and celebrity scandal form another, lighter branch of the same public afterlife.
 
 ## Key Characteristics
 
@@ -49,18 +52,19 @@ Nelson's command joined meticulous attention to weather, provisioning, health, a
 
 - [[244-trafalgar-countdown-to-annihilation-part-2-glt5489746159]] presents fame-consciousness, Emma Hamilton, anti-abolitionism, and Caribbean wealth as complications of the heroic profile.
 - [[357-historical-love-island-the-sequel-glt7719682575]] reduces that celebrity to a comic reality-show “bombshell” defined chiefly by charisma and romantic disruption.
+- [[76-statues-trafalgar-square-glt4670878913]] presents Nelson's Column as durable victory memory whose triumphal form and public prominence also make slavery and abolition disputes unavoidable.
 
 ## Qualifications
 
-The Nile and Trafalgar sources are British-centered conversational narratives, while the relationship source is intentional comedy. Reported dialogue, French anchoring assumptions, the captains' reactions, private motives, exact tactical expectations, casualty totals, last words, and causal claims about Nelson's individual contribution remain source-scoped. Treating Nelson as a culmination qualifies hero worship but does not make institutions alone sufficient to explain either victory. Care for British sailors does not resolve his politics of empire and slavery, and acknowledgment of those politics should not collapse analysis of command into either hero worship or total dismissal.
+The Nile and Trafalgar sources are British-centered conversational narratives, while the relationship source is intentional comedy. Reported dialogue, French anchoring assumptions, the captains' reactions, private motives, exact tactical expectations, casualty totals, last words, and causal claims about Nelson's individual contribution remain source-scoped. Treating Nelson as a culmination qualifies hero worship but does not make institutions alone sufficient to explain either victory. Care for British sailors does not resolve his politics of empire and slavery, while the alleged pro-slavery letter discussed in the monument episode remains disputed. Acknowledging those politics should not collapse analysis of command into either hero worship or total dismissal.
 
 ## What Changed
 
-- Reframed Nelson's leadership as a system of preparation, welfare, emotional mission, delegated intent, and tactical aggression.
 - Made annihilation-seeking ambition and public self-fashioning part of the profile rather than treating courage as uncomplicated.
 - Added anti-abolitionism and Caribbean slavery as direct moral qualifications to the heroic image.
 - Connected the pre-battle “Nelson touch” to its execution, cost, death, and memorial afterlife.
 - Extended his tactical profile backward to the Nile, where geographic risk and close engagement isolated Napoleon's army before the later Trafalgar campaign.
+- Added Nelson's Column as the civic afterlife where victory commemoration and slavery controversy meet.
 
 ## Relationships
 
@@ -76,3 +80,4 @@ The Nile and Trafalgar sources are British-centered conversational narratives, w
 - [[RoyalNavy]] - professional, fiscal, logistical, and cultural institution Nelson inherited and embodied.
 - [[BattleOfTheNile]] - earlier victory that destroyed the French fleet supporting the Egyptian invasion.
 - [[NapoleonEgyptCampaign]] - expedition strategically isolated by Nelson's Aboukir victory.
+- [[TrafalgarSquare]] - civic landscape where Nelson's victory and moral afterlife remain publicly contested.

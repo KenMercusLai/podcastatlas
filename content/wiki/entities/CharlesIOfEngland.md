@@ -7,8 +7,9 @@ sources:
   - 249-treason-in-modern-britain-part-2-glt2159531504
   - 144-the-trial-of-charles-i-part-2-glt2968292003
   - 143-the-trial-of-charles-i-part-1-glt4850801452
+  - 76-statues-trafalgar-square-glt4670878913
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-02
+last_updated: 2026-10-03
 ---
 
 # Charles I of England
@@ -27,15 +28,17 @@ The treason episode makes the jurisdictional conflict explicit. The Rump Commons
 
 The trial sequence adds Charles's active self-presentation. His refusal to recognize a court created by a purged Commons protected his theory that lawful authority required king, Lords, and Commons; his covered head, invocation of the people's liberties and ancient constitution, scaffold composure, and religious final language then asserted lawful kingship against the court's authority. These actions did not prevent execution, but they helped *Eikon Basilike*, blood relics, public shock, and European reaction turn defeat into a posthumous royalist victory whose memory coexisted with republican celebration.
 
+The restored equestrian statue at [[TrafalgarSquare]] gives that memory a durable urban form. Made during Charles's life, hidden after Parliament ordered its destruction, and returned after the Restoration, it materializes the movement from royal authority through regicide and iconoclasm to dynastic recovery. Its symbolic orientation toward Whitehall and [[OliverCromwell]] lets the city retain rival Civil War memories in spatial opposition [[76-statues-trafalgar-square-glt4670878913]].
+
 ## Key Characteristics
 
 - Stuart monarch executed after civil war and an army-backed political rupture.
 - Religious, fiscal, and personal-rule choices made his kingship appear innovating and tyrannical to important opponents.
 - Post-Naseby bargaining and the Scottish engagement helped renew war and hardened the case for prosecution.
-- Death preceded a clear decision about the future of monarchy.
-- Removal did not resolve the division between parliamentary and military authority.
+- Death preceded a clear decision about monarchy and did not resolve the division between parliamentary and military authority.
 - Refused to recognize or plead before the court that tried him.
 - Became the decisive test of whether sovereignty lay in the monarch or a Commons claiming to represent the people.
+- Acquired a restored monumental afterlife that makes regime change and unresolved Civil War memory visible in London.
 
 ## Evidence
 
@@ -47,16 +50,18 @@ The trial sequence adds Charles's active self-presentation. His refusal to recog
 - Jurisdiction and record: [[249-treason-in-modern-britain-part-2-glt2159531504]] connects Charles's refusal to plead to his rejection of the court and qualifies the later-compiled trial volumes as disputed evidence; [[143-the-trial-of-charles-i-part-1-glt4850801452]] adds his largely self-constructed defence under close confinement.
 - Trial performance: [[144-the-trial-of-charles-i-part-2-glt2968292003]] connects Charles's dress, covered head, cane, jurisdictional argument, and defence of ancient liberties to a visible contest over hierarchy.
 - Execution and afterlife: [[144-the-trial-of-charles-i-part-2-glt2968292003]] traces his scaffold composure, final speech, *Eikon Basilike*, blood relics, public shock, royalist martyrdom, and republican counter-memory.
+- Monumental restoration: [[76-statues-trafalgar-square-glt4670878913]] describes the statue's concealment after a destruction order, Restoration return, and spatial opposition to Cromwell.
 
 ## Qualifications
 
-This remains a source-bounded profile rather than a full account of Charles's reign, Civil War responsibility, theology, or all strands of his posthumous memory. His policies and character mattered without reducing a multicausal civil war to one personality. Calling the trial political theatre does not eliminate the constitutional seriousness of its rival sovereignty claims. Charles's intentions, the relative weight of religion and constitutional conflict, the legal basis, command responsibility, trial record, signer coercion, final words, *Eikon Basilike* authorship and reception, crowd mood, and possible alternatives to execution remain disputed or source-scoped.
+This remains a source-bounded profile rather than a full account of Charles's reign, Civil War responsibility, theology, or all strands of his posthumous memory. His policies and character mattered without reducing a multicausal civil war to one personality. Calling the trial political theatre does not eliminate the constitutional seriousness of its rival sovereignty claims. Charles's intentions, the relative weight of religion and constitutional conflict, the legal basis, command responsibility, trial record, signer coercion, final words, *Eikon Basilike* authorship and reception, crowd mood, statue chronology, intended orientation, and possible alternatives to execution remain disputed or source-scoped.
 
 ## What Changed
 
 - Added the policies, character, post-Naseby bargaining, and renewed war that hardened the case against Charles.
 - Clarified that refusing to plead defended a coherent rival constitution after an army-backed purge.
 - Distinguished culpability for renewed bloodshed from the court's disputed authority to judge a king.
+- Added the restored London statue as material evidence of royalist memory surviving republican iconoclasm.
 
 ## Relationships
 
@@ -68,3 +73,4 @@ This remains a source-bounded profile rather than a full account of Charles's re
 - [[JohnBradshaw]] - president of the extraordinary court whose authority Charles rejected.
 - [[PoliticalTrialSovereigntyPerformance]] - framework for the courtroom's visible contest over jurisdiction and hierarchy.
 - [[PoliticalExecutionMemoryContest]] - framework for Charles's rival royalist and republican afterlives.
+- [[TrafalgarSquare]] - site where his restored monument stages Restoration memory against Cromwellian counter-memory.

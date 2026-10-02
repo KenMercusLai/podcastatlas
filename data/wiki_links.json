@@ -3307,6 +3307,10 @@
     "title": "75.故事新编：骷髅被复活后会感激庄子吗？",
     "url": "/wiki/sources/75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087/"
   },
+  "76-statues-trafalgar-square-glt4670878913": {
+    "title": "76. Statues: Trafalgar Square",
+    "url": "/wiki/sources/76-statues-trafalgar-square-glt4670878913/"
+  },
   "76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220": {
     "title": "76.玄怪录：晚唐党争？没耽误宰相写大马猴的故事",
     "url": "/wiki/sources/76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220/"
@@ -78458,6 +78462,10 @@
   "TrafalgarCampaign": {
     "title": "Trafalgar Campaign",
     "url": "/wiki/entities/trafalgarcampaign/"
+  },
+  "TrafalgarSquare": {
+    "title": "Trafalgar Square",
+    "url": "/wiki/entities/trafalgarsquare/"
   },
   "TrafficArbitrageToBrandBuilding": {
     "title": "Traffic Arbitrage to Brand Building",

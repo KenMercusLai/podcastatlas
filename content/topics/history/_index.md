@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2449
+topic_total_pages: 2450
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6345,6 +6345,9 @@ topic_sources:
   - key: "74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763"
     title: "74.全球上瘾：啊，咖啡！我黑色的阿波罗！"
     url: "/wiki/sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763/"
+  - key: "76-statues-trafalgar-square-glt4670878913"
+    title: "76. Statues: Trafalgar Square"
+    url: "/wiki/sources/76-statues-trafalgar-square-glt4670878913/"
   - key: "77-statues-whitehall-glt3402485088"
     title: "77. Statues: Whitehall"
     url: "/wiki/sources/77-statues-whitehall-glt3402485088/"

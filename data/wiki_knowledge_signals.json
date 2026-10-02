@@ -32633,9 +32633,9 @@
       "url": "/wiki/entities/charlesiiofengland/"
     },
     "CharlesIOfEngland": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3360112790 [GLT3360112790].md",
@@ -32664,9 +32664,16 @@
           "show": "The Rest Is History",
           "title": "143. The Trial of Charles I Part 1",
           "url": "/wiki/sources/143-the-trial-of-charles-i-part-1-glt4850801452/"
+        },
+        {
+          "episode_file": "GLT4670878913 [GLT4670878913].md",
+          "key": "76-statues-trafalgar-square-glt4670878913",
+          "show": "The Rest Is History",
+          "title": "76. Statues: Trafalgar Square",
+          "url": "/wiki/sources/76-statues-trafalgar-square-glt4670878913/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/charlesiofengland/"
     },
     "CharlesLightoller": {
@@ -57633,9 +57640,9 @@
       "url": "/wiki/concepts/edgecaseopportunitydiscovery/"
     },
     "EdithCavell": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1889262052 [GLT1889262052].md",
@@ -57643,9 +57650,16 @@
           "show": "The Rest Is History",
           "title": "674. The First World War: The Spy Who Took on the Germans (Part 4)",
           "url": "/wiki/sources/674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052/"
+        },
+        {
+          "episode_file": "GLT4670878913 [GLT4670878913].md",
+          "key": "76-statues-trafalgar-square-glt4670878913",
+          "show": "The Rest Is History",
+          "title": "76. Statues: Trafalgar Square",
+          "url": "/wiki/sources/76-statues-trafalgar-square-glt4670878913/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/edithcavell/"
     },
     "EdithOfWessex": {
@@ -94277,9 +94291,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HoratioNelson": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT7719682575 [GLT7719682575].md",
@@ -94315,9 +94329,16 @@
           "show": "The Rest Is History",
           "title": "126. Napoleon in Egypt",
           "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        },
+        {
+          "episode_file": "GLT4670878913 [GLT4670878913].md",
+          "key": "76-statues-trafalgar-square-glt4670878913",
+          "show": "The Rest Is History",
+          "title": "76. Statues: Trafalgar Square",
+          "url": "/wiki/sources/76-statues-trafalgar-square-glt4670878913/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/horationelson/"
     },
     "HormoneContextAggression": {
@@ -188575,9 +188596,9 @@
       "url": "/wiki/concepts/staticstretchingdoseprotocol/"
     },
     "StatueCommemorationPolitics": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3870229260 [GLT3870229260].md",
@@ -188592,6 +188613,13 @@
           "show": "The Rest Is History",
           "title": "77. Statues: Whitehall",
           "url": "/wiki/sources/77-statues-whitehall-glt3402485088/"
+        },
+        {
+          "episode_file": "GLT4670878913 [GLT4670878913].md",
+          "key": "76-statues-trafalgar-square-glt4670878913",
+          "show": "The Rest Is History",
+          "title": "76. Statues: Trafalgar Square",
+          "url": "/wiki/sources/76-statues-trafalgar-square-glt4670878913/"
         }
       ],
       "updated": "2026-10-03",
@@ -200712,6 +200740,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/trafalgarcampaign/"
+    },
+    "TrafalgarSquare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4670878913 [GLT4670878913].md",
+          "key": "76-statues-trafalgar-square-glt4670878913",
+          "show": "The Rest Is History",
+          "title": "76. Statues: Trafalgar Square",
+          "url": "/wiki/sources/76-statues-trafalgar-square-glt4670878913/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/trafalgarsquare/"
     },
     "TrafficArbitrageToBrandBuilding": {
       "episode_count": 1,

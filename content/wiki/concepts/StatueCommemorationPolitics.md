@@ -5,6 +5,7 @@ tags: [statues, monuments, public-memory, politics, commemoration]
 sources:
   - 78-statues-parliament-square-glt3870229260
   - 77-statues-whitehall-glt3402485088
+  - 76-statues-trafalgar-square-glt4670878913
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -27,6 +28,8 @@ The framework extends from Parliament Square into [[Whitehall]]. Obscurity can m
 
 The episode also sharpens the problem of multiple meanings. [[Boudicca]] can signify resistance to Rome, a British national ancestor, Victorian identity, and imperial power at once. Such ambiguity is not necessarily a design failure; it is evidence that a monument's meaning is produced jointly by form, location, inherited narrative, and later viewers.
 
+Public attention and replacement extend that framework in [[TrafalgarSquare]]. A statue may cease to instruct because passersby no longer recognize its subject, yet obscurity does not settle whether it should remain. Charles I's restored monument, [[HoratioNelson|Nelson's]] triumphal column, imperial generals, [[GeorgeWashington]], the removed Edward Jenner, the fourth plinth, and [[EdithCavell]] instead show a landscape continuously revised by regime change, international friendship, moral dispute, indifference, and new commissions [[76-statues-trafalgar-square-glt4670878913]].
+
 ## Key Claims
 
 - Original commemorative purpose is necessary context but does not exhaust a statue's later public meaning.
@@ -35,7 +38,7 @@ The episode also sharpens the problem of multiple meanings. [[Boudicca]] can sig
 - Counter-statues, plural representation, and contextual balance can complicate inherited heroism without guaranteeing that retention is always justified.
 - Present controversy often uses a statue as a proxy through which wider political identities and historical grievances are fought.
 - Abstract memorials, political heroes, conquerors, victims, and martyrs perform different commemorative work and should not be judged by a single undifferentiated standard.
-- Obscurity, scale, relocation, and actual public use can matter as much as the depicted biography in determining whether a monument remains intelligible.
+- Obscurity, scale, relocation, actual public use, and the replacement question can matter as much as biography because an empty plinth, restored figure, or new commission makes a fresh public claim rather than neutral space.
 
 ## Evidence
 
@@ -55,15 +58,17 @@ The episode also sharpens the problem of multiple meanings. [[Boudicca]] can sig
 ### Placement, obscurity, and multiple meaning
 
 - [[77-statues-whitehall-glt3402485088]] uses Walter Raleigh's relocation, forgotten aristocrats, uneven public attention, and Boudicca's conflicting Roman, British, Victorian, and imperial meanings to show that monuments remain spatial and interpretive objects.
+- [[76-statues-trafalgar-square-glt4670878913]] uses neglected royal statues, Nelson's Column, imperial generals, Jenner's removal, the fourth plinth, Washington, and Cavell to connect fading recognition with restoration, replacement, international gift, and conflicting inscriptions.
 
 ## Counterevidence & Qualifications
 
-The sources do not provide a universal decision rule for retention, removal, relocation, contextualization, or new commissions. Balance can illuminate conflict, but it can also imply false equivalence or leave coercive symbolism intact. Original intent may be disputed, later audiences are not uniform, and adding monuments does not by itself repair unequal control over public space. Observations about attention, claims that removal rejects a wider commemorative tradition, and artistic or culture-war judgments remain those of conversational walking tours.
+The sources do not provide a universal decision rule for retention, removal, relocation, contextualization, or new commissions. Balance can illuminate conflict, but it can also imply false equivalence or leave coercive symbolism intact. Original intent may be disputed, later audiences are not uniform, and adding monuments does not by itself repair unequal control over public space. Indifference is evidence about present legibility rather than proof of harmlessness, while distress among affected communities matters without mechanically dictating one outcome. Observations about attention, disputed letters, inscriptions, motives, and artistic or culture-war judgments remain those of conversational walking tours.
 
 ## What Changed
 
 - Added obscurity, scale, relocation, public use, and multivalent symbolism as distinct parts of monument judgment.
 - Added collective clothing and abstract design as alternatives to the single heroic body.
+- Added fading public recognition and the replacement question as distinct parts of monument judgment.
 
 ## Related Concepts
 
@@ -74,3 +79,4 @@ The sources do not provide a universal decision rule for retention, removal, rel
 - [[ContextualMonarchicalSuccess]] - parallel framework separating achievement criteria from total moral approval.
 - [[Whitehall]] - landscape extending the framework through military concentration, relocation, and collective memorials.
 - [[WomenOfWorldWarIIMemorial]] - example of collective service represented without one heroic individual.
+- [[TrafalgarSquare]] - landscape testing restoration, triumphal form, imperial memory, indifference, removal, and new commissions.
