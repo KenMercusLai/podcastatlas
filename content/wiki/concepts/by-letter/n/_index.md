@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9373
+wiki_total_pages: 9375
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -515,6 +515,12 @@ wiki_pages:
   - key: "NovusHomoOutsiderPolitics"
     title: "Novus Homo Outsider Politics / 新人局外人政治"
     url: "/wiki/concepts/novushomooutsiderpolitics/"
+  - key: "NuclearAccidentAndFalseAlarmRisk"
+    title: "Nuclear Accident and False-Alarm Risk"
+    url: "/wiki/concepts/nuclearaccidentandfalsealarmrisk/"
+  - key: "NuclearDeterrence"
+    title: "Nuclear Deterrence"
+    url: "/wiki/concepts/nucleardeterrence/"
   - key: "NuclearDisasterMemory"
     title: "Nuclear Disaster Memory"
     url: "/wiki/concepts/nucleardisastermemory/"

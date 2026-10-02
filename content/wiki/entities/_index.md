@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12062
+wiki_total_pages: 12064
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "AbhijitTipke"
     title: "Abhijit Tipke"
     url: "/wiki/entities/abhijittipke/"
+  - key: "AbleArcher83"
+    title: "Able Archer 83"
+    url: "/wiki/entities/ablearcher83/"
   - key: "AboriginalAustralians"
     title: "Aboriginal Australians"
     url: "/wiki/entities/aboriginalaustralians/"

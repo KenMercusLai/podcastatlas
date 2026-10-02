@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2431
+topic_total_pages: 2432
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6351,6 +6351,9 @@ topic_sources:
   - key: "91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018"
     title: "91.猎巫：塞勒姆1692，从癔症开始"
     url: "/wiki/sources/91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018/"
+  - key: "92-nuclear-weapons-glt2236644203"
+    title: "92. Nuclear Weapons"
+    url: "/wiki/sources/92-nuclear-weapons-glt2236644203/"
   - key: "95-9-11-glt8208243510"
     title: "95. 9/11"
     url: "/wiki/sources/95-9-11-glt8208243510/"

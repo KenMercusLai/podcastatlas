@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [92. Nuclear Weapons](sources/92-nuclear-weapons-glt2236644203.md) — The Rest Is History with Taylor Downing on Able Archer 83, Soviet first-strike fear, deterrence, nuclear accidents, false alarms, and Reagan's later diplomatic turn.
 - [EP188-教师节对话做题家养成师：当代做题界现状答疑](sources/ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3.md) — 无时差研究所 conversation on teacher evaluation, student-welfare boundaries, administrative overload, staffing mismatch, resource equalization, and education's broader value.
 - [93. Silicon Valley Part 1](sources/93-silicon-valley-part-1-glt5734449332.md) — The Rest Is History with Marc Andreessen on Silicon Valley’s institutional formation, mass internet adoption, browsers, and social media’s long prehistory.
 - [94. Silicon Valley Part 2](sources/94-silicon-valley-part-2-glt3075342575.md) — The Rest Is History with Marc Andreessen on filter bubbles, political amplification, software-mediated transformation, cyberwar ambiguity, and movement-like online communities.
@@ -3562,6 +3563,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247.md) — Huberman Lab interview on psychedelic classes, clinical protocols, self-representation, integration, microdosing evidence, persistent perceptual symptoms, risks, and regulation.
 
 ## Entities
+- [Taylor Downing](entities/TaylorDowning.md) — Historian interpreting Able Archer 83 through Soviet fear, deterrence, technical fragility, and accumulated misreading.
+- [Able Archer 83](entities/AbleArcher83.md) — NATO exercise whose Soviet interpretation made it a central case of cumulative Cold War nuclear misperception.
 - [小雨 / Xiao Yu (physics teacher)](entities/XiaoYuPhysicsTeacher.md) — Source-scoped high-school physics teacher discussing evaluation, care, workload, staffing, and education reform in EP188.
 - [Osama bin Laden](entities/OsamaBinLaden.md) — Al-Qaeda founder represented through transnational jihad, symbolic targeting, global media, and strategic provocation.
 - [Al-Qaeda](entities/AlQaeda.md) — Transnational jihadist organization using symbolic violence and global media to magnify political effects.
@@ -15668,6 +15671,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
 
 ## Concepts
+- [Nuclear Deterrence](concepts/NuclearDeterrence.md) — Conditional restraint through threatened retaliation, qualified by misperception, readiness, technical fragility, and crisis panic.
+- [Nuclear Accident and False-Alarm Risk](concepts/NuclearAccidentAndFalseAlarmRisk.md) — Sociotechnical risk linking weapons accidents, warning errors, command systems, doctrine, and crisis interpretation.
 - [Teacher Evaluation and Care Burden / 教师评价与照护负担](concepts/TeacherEvaluationAndCareBurden.md) — Mismatch between visible score metrics and teachers' wider safety, relational, developmental, and family-facing responsibilities.
 - [Teacher Administrative Overload / 教师事务性过载](concepts/TeacherAdministrativeOverload.md) — Non-teaching duty stack that compresses preparation, recovery, bodily care, and family time.
 - [School Mental-Health Referral Boundary / 学校心理健康转介边界](concepts/SchoolMentalHealthReferralBoundary.md) — Boundary between teacher observation and support versus professional diagnosis and treatment.

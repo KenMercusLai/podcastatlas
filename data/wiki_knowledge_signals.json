@@ -4799,6 +4799,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/abdullahibnalzubayr/"
     },
+    "AbleArcher83": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2236644203 [GLT2236644203].md",
+          "key": "92-nuclear-weapons-glt2236644203",
+          "show": "The Rest Is History",
+          "title": "92. Nuclear Weapons",
+          "url": "/wiki/sources/92-nuclear-weapons-glt2236644203/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/ablearcher83/"
+    },
     "AbleistCurePressure": {
       "episode_count": 1,
       "show_count": 1,
@@ -39118,9 +39134,9 @@
       "url": "/wiki/concepts/coldshiveringthermogenesis/"
     },
     "ColdWarNuclearMisperception": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -39135,9 +39151,16 @@
           "show": "The Rest Is History",
           "title": "312: Reagan, Iran-Contra and the Cold War (Part 3)",
           "url": "/wiki/sources/312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229/"
+        },
+        {
+          "episode_file": "GLT2236644203 [GLT2236644203].md",
+          "key": "92-nuclear-weapons-glt2236644203",
+          "show": "The Rest Is History",
+          "title": "92. Nuclear Weapons",
+          "url": "/wiki/sources/92-nuclear-weapons-glt2236644203/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/coldwarnuclearmisperception/"
     },
     "ColdWarRegimeChangePressure": {
@@ -144663,6 +144686,38 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/novushomooutsiderpolitics/"
     },
+    "NuclearAccidentAndFalseAlarmRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2236644203 [GLT2236644203].md",
+          "key": "92-nuclear-weapons-glt2236644203",
+          "show": "The Rest Is History",
+          "title": "92. Nuclear Weapons",
+          "url": "/wiki/sources/92-nuclear-weapons-glt2236644203/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/nuclearaccidentandfalsealarmrisk/"
+    },
+    "NuclearDeterrence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2236644203 [GLT2236644203].md",
+          "key": "92-nuclear-weapons-glt2236644203",
+          "show": "The Rest Is History",
+          "title": "92. Nuclear Weapons",
+          "url": "/wiki/sources/92-nuclear-weapons-glt2236644203/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/nucleardeterrence/"
+    },
     "NuclearDisasterMemory": {
       "episode_count": 2,
       "show_count": 2,
@@ -147501,6 +147556,29 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/operationgemstone/"
+    },
+    "OperationRYAN": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
+          "key": "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209",
+          "show": "蜜獾吃书",
+          "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
+          "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+        },
+        {
+          "episode_file": "GLT2236644203 [GLT2236644203].md",
+          "key": "92-nuclear-weapons-glt2236644203",
+          "show": "The Rest Is History",
+          "title": "92. Nuclear Weapons",
+          "url": "/wiki/sources/92-nuclear-weapons-glt2236644203/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/operationryan/"
     },
     "OperationUranus": {
       "episode_count": 1,
@@ -193005,6 +193083,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/taybridgedisaster/"
+    },
+    "TaylorDowning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2236644203 [GLT2236644203].md",
+          "key": "92-nuclear-weapons-glt2236644203",
+          "show": "The Rest Is History",
+          "title": "92. Nuclear Weapons",
+          "url": "/wiki/sources/92-nuclear-weapons-glt2236644203/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/taylordowning/"
     },
     "TeaClubBarrovianSociety": {
       "episode_count": 1,
