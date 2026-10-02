@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9329
+wiki_total_pages: 9332
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1148,6 +1148,15 @@ wiki_pages:
   - key: "ClassicalProseReading"
     title: "Classical Prose Reading / 古文阅读"
     url: "/wiki/concepts/classicalprosereading/"
+  - key: "ClassicalReceptionAmbivalence"
+    title: "Classical Reception Ambivalence"
+    url: "/wiki/concepts/classicalreceptionambivalence/"
+  - key: "ClassicsGatekeepingAndRenewal"
+    title: "Classics Gatekeeping and Renewal"
+    url: "/wiki/concepts/classicsgatekeepingandrenewal/"
+  - key: "ClassicsPoliticalPlasticity"
+    title: "Classics Political Plasticity"
+    url: "/wiki/concepts/classicspoliticalplasticity/"
   - key: "ClassroomMagazineCirculation"
     title: "Classroom Magazine Circulation / 班级杂志传阅"
     url: "/wiki/concepts/classroommagazinecirculation/"

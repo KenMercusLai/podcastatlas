@@ -71,6 +71,10 @@
     "title": "104.你一生的故事：终点已经注定，还要出发吗？",
     "url": "/wiki/sources/104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680/"
   },
+  "105-classics-glt1093096549": {
+    "title": "105. Classics",
+    "url": "/wiki/sources/105-classics-glt1093096549/"
+  },
   "105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645": {
     "title": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜",
     "url": "/wiki/sources/105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645/"
@@ -17611,9 +17615,21 @@
     "title": "Classical Prose Reading / 古文阅读",
     "url": "/wiki/concepts/classicalprosereading/"
   },
+  "ClassicalReceptionAmbivalence": {
+    "title": "Classical Reception Ambivalence",
+    "url": "/wiki/concepts/classicalreceptionambivalence/"
+  },
   "ClassicsBasedNamingGovernance": {
     "title": "经典据依式改名治理 / Classics-Based Naming Governance",
     "url": "/wiki/concepts/classicsbasednaminggovernance/"
+  },
+  "ClassicsGatekeepingAndRenewal": {
+    "title": "Classics Gatekeeping and Renewal",
+    "url": "/wiki/concepts/classicsgatekeepingandrenewal/"
+  },
+  "ClassicsPoliticalPlasticity": {
+    "title": "Classics Political Plasticity",
+    "url": "/wiki/concepts/classicspoliticalplasticity/"
   },
   "ClassroomMagazineCirculation": {
     "title": "Classroom Magazine Circulation / 班级杂志传阅",
@@ -50666,6 +50682,10 @@
   "MaryAnning": {
     "title": "Mary Anning",
     "url": "/wiki/entities/maryanning/"
+  },
+  "MaryBeard": {
+    "title": "Mary Beard",
+    "url": "/wiki/entities/marybeard/"
   },
   "MaryChilds": {
     "title": "Mary Childs",

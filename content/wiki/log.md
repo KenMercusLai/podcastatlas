@@ -27841,3 +27841,11 @@ Added source `ep193-bel-canto-duihua-meisheng-gechangjia-ting-geju-daodi-zai-tin
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 105. Classics
+
+Added source `105-classics-glt1093096549`; created `MaryBeard`, `ClassicalReceptionAmbivalence`, `ClassicsPoliticalPlasticity`, and `ClassicsGatekeepingAndRenewal`; and resynthesized `Virgil`, `Colosseum`, and `Tacitus` from their complete preserved evidence inventories. Core synthesis: Greek and Roman material remains culturally powerful because its meanings are unstable enough to support sacred history, elite prestige, empire, dictatorship, revolution, anti-autocratic criticism, spectacle, and popular culture, while a defensible future for classics requires wider access, moral candor, Mediterranean breadth, and continuing scholarship. No settled contradiction was adopted. Display motives, humanist chronology, Christian iconography, educational practice, modern political reception, and the equivalence of ancient and modern exploitation remain interpretive or source-scoped. Recurring hosts, the show page, and briefly mentioned ancient or modern figures were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,479-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the corpus-wide scan still reports 19 unrelated legacy broken links outside this ingest.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

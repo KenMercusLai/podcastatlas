@@ -37052,6 +37052,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/classicalexaminationorthodoxy/"
     },
+    "ClassicalReceptionAmbivalence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1093096549 [GLT1093096549].md",
+          "key": "105-classics-glt1093096549",
+          "show": "The Rest Is History",
+          "title": "105. Classics",
+          "url": "/wiki/sources/105-classics-glt1093096549/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/classicalreceptionambivalence/"
+    },
     "ClassicsBasedNamingGovernance": {
       "episode_count": 1,
       "show_count": 1,
@@ -37067,6 +37083,38 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/classicsbasednaminggovernance/"
+    },
+    "ClassicsGatekeepingAndRenewal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1093096549 [GLT1093096549].md",
+          "key": "105-classics-glt1093096549",
+          "show": "The Rest Is History",
+          "title": "105. Classics",
+          "url": "/wiki/sources/105-classics-glt1093096549/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/classicsgatekeepingandrenewal/"
+    },
+    "ClassicsPoliticalPlasticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1093096549 [GLT1093096549].md",
+          "key": "105-classics-glt1093096549",
+          "show": "The Rest Is History",
+          "title": "105. Classics",
+          "url": "/wiki/sources/105-classics-glt1093096549/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/classicspoliticalplasticity/"
     },
     "ClaudeMethosPreview": {
       "episode_count": 2,
@@ -39206,9 +39254,9 @@
       "url": "/wiki/concepts/colorectalcancerscreening/"
     },
     "Colosseum": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7808118779 [GLT7808118779].md",
@@ -39216,9 +39264,16 @@
           "show": "The Rest Is History",
           "title": "369. The Colosseum: Rome's Arena of Death",
           "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
+        },
+        {
+          "episode_file": "GLT1093096549 [GLT1093096549].md",
+          "key": "105-classics-glt1093096549",
+          "show": "The Rest Is History",
+          "title": "105. Classics",
+          "url": "/wiki/sources/105-classics-glt1093096549/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/colosseum/"
     },
     "ColumbianExchange": {
@@ -129800,6 +129855,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/maryanning/"
     },
+    "MaryBeard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1093096549 [GLT1093096549].md",
+          "key": "105-classics-glt1093096549",
+          "show": "The Rest Is History",
+          "title": "105. Classics",
+          "url": "/wiki/sources/105-classics-glt1093096549/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/marybeard/"
+    },
     "MaryClaireHaver": {
       "episode_count": 1,
       "show_count": 1,
@@ -189954,9 +190025,9 @@
       "url": "/wiki/concepts/tacitgratituderestraint/"
     },
     "Tacitus": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1970351222 [GLT1970351222].md",
@@ -189971,9 +190042,16 @@
           "show": "The Rest Is History",
           "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
           "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
+        },
+        {
+          "episode_file": "GLT1093096549 [GLT1093096549].md",
+          "key": "105-classics-glt1093096549",
+          "show": "The Rest Is History",
+          "title": "105. Classics",
+          "url": "/wiki/sources/105-classics-glt1093096549/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/tacitus/"
     },
     "TacticalCredibilityCost": {
@@ -202308,9 +202386,9 @@
       "url": "/wiki/concepts/viralproducttobrandtransition/"
     },
     "Virgil": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5520362156 [GLT5520362156].md",
@@ -202325,9 +202403,16 @@
           "show": "The Rest Is History",
           "title": "198. Cleopatra's Downfall (Part 4)",
           "url": "/wiki/sources/198-cleopatras-downfall-part-4-glt1186341405/"
+        },
+        {
+          "episode_file": "GLT1093096549 [GLT1093096549].md",
+          "key": "105-classics-glt1093096549",
+          "show": "The Rest Is History",
+          "title": "105. Classics",
+          "url": "/wiki/sources/105-classics-glt1093096549/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/virgil/"
     },
     "VirtualCellWorldModel": {

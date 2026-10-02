@@ -6,7 +6,8 @@ tags: [person, rome, historian, literature, imperialism]
 sources:
   - 502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222
   - 500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317
-last_updated: 2026-09-23
+  - 105-classics-glt1093096549
+last_updated: 2026-10-02
 ---
 
 # Tacitus
@@ -23,6 +24,8 @@ Episode 502 reads the Agricola as eulogy, political literature, and historical e
 
 Tacitus condemns robbery, corruption, luxury, servility, and the moral softening that can accompany Roman urban habits. Yet the episode emphasizes [[AncientImperialCritiqueLimits]]: his admiration for supposedly austere frontier peoples and his hostility to imperial poison do not entail regret for mass killing, enslavement, or conquest. His criticism is powerful but historically specific.
 
+The classics episode adds Tacitus's later political availability. Beard recalls encountering the Calgacus line about making a desert and calling it peace as a left-leaning teenager and uses Tacitus to show that classics can criticize autocracy and empire from within an imperial tradition. This afterlife strengthens his role in [[ClassicsPoliticalPlasticity]] without removing the limits already established by the Britain episodes. [[105-classics-glt1093096549]]
+
 ## Key Characteristics
 
 - Agricola's son-in-law and laudatory biographer.
@@ -31,7 +34,7 @@ Tacitus condemns robbery, corruption, luxury, servility, and the moral softening
 - Authorial creator of speeches used to stage competing moral views of conquest.
 - Critic of corruption, luxury, servility, and cultural softening under empire.
 - Roman moralist whose critique does not map cleanly onto modern humanitarian anti-imperialism.
-- Later writer whose treatments of frontier peoples acquired consequential imperial and ideological afterlives.
+- Later writer whose frontier narratives and anti-autocratic language acquired consequential ideological afterlives without erasing their ancient limits.
 
 ## Evidence
 
@@ -42,16 +45,16 @@ Tacitus condemns robbery, corruption, luxury, servility, and the moral softening
 - Imperial ambivalence: [[502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222]] reads the Agricola as praise for an ideal governor and as a darker portrait of empire as poison.
 - Moral focus: [[502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222]] stresses Tacitus's opposition to luxury and moral softening more than to massacre or enslavement.
 - Source criticism: [[502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222]] contrasts his Domitian-jealousy explanation with the strategic pressures of the Danubian crisis.
+- Political afterlife: [[105-classics-glt1093096549]] uses Tacitus's Calgacus speech as evidence that classical texts could equip later readers to criticize one-man rule and imperial corruption.
 
 ## Qualifications
 
-The current profile is limited to these episodes' use of Tacitus for Britain and does not cover his complete career or corpus. His proximity to Agricola could provide information while also sharpening praise and hostility toward Domitian. Roman descriptions of Druids, sacrifice, barbarism, and speeches could justify conquest or stage moral conflict; archaeology does not validate every scene, number, motive, or sequence.
+The current profile is limited to these episodes' use of Tacitus for Britain and his later political reception; it does not cover his complete career or corpus. His proximity to Agricola could provide information while also sharpening praise and hostility toward Domitian. Roman descriptions of Druids, sacrifice, barbarism, and speeches could justify conquest or stage moral conflict; archaeology does not validate every scene, number, motive, or sequence. Modern anti-imperial use of Calgacus's words should not be projected backward into a complete Tacitean rejection of conquest or slavery.
 
 ## What Changed
 
-- Extended Tacitus from Agricola's northern campaigns back to Caratacus, client rule, and Anglesey.
-- Added the possibility of Agricola-linked eyewitness information without treating the narrative as transparent.
-- Added Druidic and sacrificial imagery as an interested conquest frame.
+- Added Tacitus's modern political afterlife as a resource for criticizing autocracy and empire.
+- Preserved the distinction between that later use and the historically narrower limits of his Roman critique.
 
 ## Relationships
 
@@ -62,3 +65,4 @@ The current profile is limited to these episodes' use of Tacitus for Britain and
 - [[RomanEmpire]] - political order Tacitus serves, criticizes, and morally interprets.
 - [[AncientImperialCritiqueLimits]] - concept defining the scope of his critique.
 - [[RomanProvincialConsolidation]] - practices his account presents as both administration and cultural subjection.
+- [[ClassicsPoliticalPlasticity]] - framework for his later use against autocracy from within a text produced by empire.
