@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9359
+wiki_total_pages: 9363
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -809,6 +809,9 @@ wiki_pages:
   - key: "InternetPhoneModel"
     title: "Internet Phone Model"
     url: "/wiki/concepts/internetphonemodel/"
+  - key: "InternetPoliticalAmplification"
+    title: "Internet Political Amplification"
+    url: "/wiki/concepts/internetpoliticalamplification/"
   - key: "InternetRiskAvoidanceTrap"
     title: "Internet Risk-Avoidance Trap"
     url: "/wiki/concepts/internetriskavoidancetrap/"

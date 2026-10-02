@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [94. Silicon Valley Part 2](sources/94-silicon-valley-part-2-glt3075342575.md) — The Rest Is History with Marc Andreessen on filter bubbles, political amplification, software-mediated transformation, cyberwar ambiguity, and movement-like online communities.
 - [95. 9/11](sources/95-9-11-glt8208243510.md) — The Rest Is History on 9/11 as global media spectacle, rival universalist projects, war-on-terror overreach, and long-run reputational damage.
 - [96. The UK’s Best Churches](sources/96-the-uks-best-churches-glt7919970372.md) — The Rest Is History survey of overlooked churches as archives of architecture, politics, war memory, art, science, folklore, literature, and local life.
 - [ADHD & How Anyone Can Improve Their Focus](sources/scim5444804832-scim5444804832.md) — Early Huberman Lab solo episode on ADHD attention control, working memory, stimulant and adjunct boundaries, attentional blinks, movement, visual practice, and phone-driven context switching.
@@ -15663,6 +15664,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
 
 ## Concepts
+- [Internet Political Amplification](concepts/InternetPoliticalAmplification.md) — Model separating older political ideas from the reach, intensity, coordination, and conflict produced by digital networks.
+- [Software Eating the World Thesis](concepts/SoftwareEatingTheWorldThesis.md) — Qualified account of software as institutional leverage across digital and physical activity.
+- [Cyberwar Escalation Ambiguity](concepts/CyberwarEscalationAmbiguity.md) — Uncertainty over attribution, severity, proportionality, and conventional response thresholds for digital attacks.
+- [Networked Movement Identity](concepts/NetworkedMovementIdentity.md) — Online belonging converted into political, consumer, advocacy, or financial participation.
 - [Terror as Global Media Spectacle](concepts/TerrorAsGlobalMediaSpectacle.md) — Violence designed for worldwide visual circulation, symbolic amplification, durable memory, and political reaction.
 - [Rival Universalist Projects](concepts/RivalUniversalistProjects.md) — Opposing global missions that compete to define a future for humanity while differing radically in methods and legitimacy.
 - [War on Terror Overreach](concepts/WarOnTerrorOverreach.md) — Expansion from security response into wars and exceptional methods that undermine law, legitimacy, and strategic power.

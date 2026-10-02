@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3002
+topic_total_pages: 3003
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2062,6 +2062,9 @@ topic_concepts:
   - key: "InternetLiabilitySpillover"
     title: "Internet Liability Spillover"
     url: "/wiki/concepts/internetliabilityspillover/"
+  - key: "InternetPoliticalAmplification"
+    title: "Internet Political Amplification"
+    url: "/wiki/concepts/internetpoliticalamplification/"
   - key: "InternmentWithoutTrial"
     title: "Internment Without Trial"
     url: "/wiki/concepts/internmentwithouttrial/"

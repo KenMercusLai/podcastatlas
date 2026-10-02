@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2165
+topic_total_pages: 2166
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2122,6 +2122,9 @@ topic_concepts:
   - key: "NetscapePlatformEcosystem"
     title: "Netscape Platform Ecosystem"
     url: "/wiki/concepts/netscapeplatformecosystem/"
+  - key: "NetworkedMovementIdentity"
+    title: "Networked Movement Identity"
+    url: "/wiki/concepts/networkedmovementidentity/"
   - key: "NewOrderAssetPricing"
     title: "New Order Asset Pricing"
     url: "/wiki/concepts/neworderassetpricing/"

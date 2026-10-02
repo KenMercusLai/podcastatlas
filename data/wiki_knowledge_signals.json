@@ -45737,6 +45737,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/cyberport/"
     },
+    "CyberwarEscalationAmbiguity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3075342575 [GLT3075342575].md",
+          "key": "94-silicon-valley-part-2-glt3075342575",
+          "show": "The Rest Is History",
+          "title": "94. Silicon Valley Part 2",
+          "url": "/wiki/sources/94-silicon-valley-part-2-glt3075342575/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/cyberwarescalationambiguity/"
+    },
     "CycleStockValuationTrap": {
       "episode_count": 1,
       "show_count": 1,
@@ -70633,6 +70649,36 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/filmtofestivalfeedback/"
+    },
+    "FilterBubble": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260812_0812_MP_TECH_pod_128 [tech_20260812_0812_MP_TECH_pod_128].md",
+          "key": "tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "TikTok excluded millions from crucial safety guardrails",
+          "url": "/wiki/sources/tech-20260812-0812-mp-tech-pod-128-tech-20260812-0812-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授 [lo6IK8Cj2NjVu-cy2JDJ_Kl1JpUQ].md",
+          "key": "164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq",
+          "show": "起朱楼宴宾客",
+          "title": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授",
+          "url": "/wiki/sources/164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq/"
+        },
+        {
+          "episode_file": "GLT3075342575 [GLT3075342575].md",
+          "key": "94-silicon-valley-part-2-glt3075342575",
+          "show": "The Rest Is History",
+          "title": "94. Silicon Valley Part 2",
+          "url": "/wiki/sources/94-silicon-valley-part-2-glt3075342575/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/filterbubble/"
     },
     "FinDeSiecleViennaCrisisReading": {
       "episode_count": 2,
@@ -101954,6 +102000,22 @@
       "updated": "2026-08-05",
       "url": "/wiki/concepts/internetmoraltrial/"
     },
+    "InternetPoliticalAmplification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3075342575 [GLT3075342575].md",
+          "key": "94-silicon-valley-part-2-glt3075342575",
+          "show": "The Rest Is History",
+          "title": "94. Silicon Valley Part 2",
+          "url": "/wiki/sources/94-silicon-valley-part-2-glt3075342575/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/internetpoliticalamplification/"
+    },
     "InterpersonalImageProjection": {
       "episode_count": 1,
       "show_count": 1,
@@ -129979,9 +130041,9 @@
       "url": "/wiki/concepts/maritimewarningfragmentation/"
     },
     "MarkAndreessen": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "TSR-S4-RonConway-v4 [TSR-S4-RonConway-v4].md",
@@ -130003,9 +130065,16 @@
           "show": "Huberman Lab",
           "title": "How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen",
           "url": "/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870/"
+        },
+        {
+          "episode_file": "GLT3075342575 [GLT3075342575].md",
+          "key": "94-silicon-valley-part-2-glt3075342575",
+          "show": "The Rest Is History",
+          "title": "94. Silicon Valley Part 2",
+          "url": "/wiki/sources/94-silicon-valley-part-2-glt3075342575/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/markandreessen/"
     },
     "MarkAntony": {
@@ -141696,6 +141765,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/netherlands/"
+    },
+    "NetworkedMovementIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3075342575 [GLT3075342575].md",
+          "key": "94-silicon-valley-part-2-glt3075342575",
+          "show": "The Rest Is History",
+          "title": "94. Silicon Valley Part 2",
+          "url": "/wiki/sources/94-silicon-valley-part-2-glt3075342575/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/networkedmovementidentity/"
     },
     "NeuralInterfaceBitrateAdoptionTradeoff": {
       "episode_count": 1,
@@ -183267,6 +183352,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/softwareacquisitionoperatingplatform/"
     },
+    "SoftwareEatingTheWorldThesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3075342575 [GLT3075342575].md",
+          "key": "94-silicon-valley-part-2-glt3075342575",
+          "show": "The Rest Is History",
+          "title": "94. Silicon Valley Part 2",
+          "url": "/wiki/sources/94-silicon-valley-part-2-glt3075342575/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/softwareeatingtheworldthesis/"
+    },
     "SogdianRock": {
       "episode_count": 1,
       "show_count": 1,
@@ -193020,9 +193121,9 @@
       "url": "/wiki/concepts/technologyassistedinteriorenforcement/"
     },
     "TechnologyMoralPanicCycle": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7464698870 [SCIM7464698870].md",
@@ -193030,9 +193131,16 @@
           "show": "Huberman Lab",
           "title": "How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience | Marc Andreessen",
           "url": "/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870/"
+        },
+        {
+          "episode_file": "GLT3075342575 [GLT3075342575].md",
+          "key": "94-silicon-valley-part-2-glt3075342575",
+          "show": "The Rest Is History",
+          "title": "94. Silicon Valley Part 2",
+          "url": "/wiki/sources/94-silicon-valley-part-2-glt3075342575/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/technologymoralpaniccycle/"
     },
     "TechnologyPhilosophy": {

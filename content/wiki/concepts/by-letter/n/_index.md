@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9359
+wiki_total_pages: 9363
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "NetscapePlatformEcosystem"
     title: "Netscape Platform Ecosystem"
     url: "/wiki/concepts/netscapeplatformecosystem/"
+  - key: "NetworkedMovementIdentity"
+    title: "Networked Movement Identity"
+    url: "/wiki/concepts/networkedmovementidentity/"
   - key: "NeuralGeometry"
     title: "Neural Geometry"
     url: "/wiki/concepts/neuralgeometry/"

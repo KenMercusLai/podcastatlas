@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3264
+topic_total_pages: 3269
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1660,6 +1660,9 @@ topic_concepts:
   - key: "CybersecuritySimulationModeling"
     title: "Cybersecurity Simulation Modeling"
     url: "/wiki/concepts/cybersecuritysimulationmodeling/"
+  - key: "CyberwarEscalationAmbiguity"
+    title: "Cyberwar Escalation Ambiguity"
+    url: "/wiki/concepts/cyberwarescalationambiguity/"
   - key: "DarkFiber"
     title: "Dark Fiber"
     url: "/wiki/concepts/darkfiber/"
@@ -2659,6 +2662,9 @@ topic_concepts:
   - key: "InternetLiabilitySpillover"
     title: "Internet Liability Spillover"
     url: "/wiki/concepts/internetliabilityspillover/"
+  - key: "InternetPoliticalAmplification"
+    title: "Internet Political Amplification"
+    url: "/wiki/concepts/internetpoliticalamplification/"
   - key: "InternetRiskAvoidanceTrap"
     title: "Internet Risk-Avoidance Trap"
     url: "/wiki/concepts/internetriskavoidancetrap/"
@@ -3133,6 +3139,9 @@ topic_concepts:
   - key: "NetscapePlatformEcosystem"
     title: "Netscape Platform Ecosystem"
     url: "/wiki/concepts/netscapeplatformecosystem/"
+  - key: "NetworkedMovementIdentity"
+    title: "Networked Movement Identity"
+    url: "/wiki/concepts/networkedmovementidentity/"
   - key: "NeuralGeometry"
     title: "Neural Geometry"
     url: "/wiki/concepts/neuralgeometry/"
@@ -3967,6 +3976,9 @@ topic_concepts:
   - key: "SoftwareDeveloperHiringPullback"
     title: "Software Developer Hiring Pullback"
     url: "/wiki/concepts/softwaredeveloperhiringpullback/"
+  - key: "SoftwareEatingTheWorldThesis"
+    title: "Software Eating the World Thesis"
+    url: "/wiki/concepts/softwareeatingtheworldthesis/"
   - key: "SoftwareMaintenanceRevenueCompression"
     title: "Software Maintenance Revenue Compression"
     url: "/wiki/concepts/softwaremaintenancerevenuecompression/"
@@ -8484,6 +8496,9 @@ topic_sources:
   - key: "biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1"
     title: "71. 编程的内燃机时代"
     url: "/wiki/sources/biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1/"
+  - key: "94-silicon-valley-part-2-glt3075342575"
+    title: "94. Silicon Valley Part 2"
+    url: "/wiki/sources/94-silicon-valley-part-2-glt3075342575/"
   - key: "tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128"
     title: "A case for AI models that understand, not just predict, the way the world works"
     url: "/wiki/sources/tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128/"

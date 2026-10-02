@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9359
+wiki_total_pages: 9363
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1280,6 +1280,9 @@ wiki_pages:
   - key: "SoftwareDeveloperHiringPullback"
     title: "Software Developer Hiring Pullback"
     url: "/wiki/concepts/softwaredeveloperhiringpullback/"
+  - key: "SoftwareEatingTheWorldThesis"
+    title: "Software Eating the World Thesis"
+    url: "/wiki/concepts/softwareeatingtheworldthesis/"
   - key: "SoftwareMaintenanceRevenueCompression"
     title: "Software Maintenance Revenue Compression"
     url: "/wiki/concepts/softwaremaintenancerevenuecompression/"

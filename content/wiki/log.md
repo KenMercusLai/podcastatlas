@@ -27981,3 +27981,11 @@ Added the source and integrated its account of global media spectacle, rival uni
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 94. Silicon Valley Part 2
+
+Added source `94-silicon-valley-part-2-glt3075342575`; created `InternetPoliticalAmplification`, `SoftwareEatingTheWorldThesis`, `CyberwarEscalationAmbiguity`, and `NetworkedMovementIdentity`; and resynthesized `MarkAndreessen`, `FilterBubble`, and `TechnologyMoralPanicCycle` from their complete preserved evidence inventories. Core synthesis: the internet can reinforce affinity while increasing hostile cross-cutting exposure, older political currents gain networked reach rather than being created from nothing, software acts as institutional leverage, cyber conflict lacks clear escalation thresholds, and online belonging can become political, consumer, or financial action. No settled contradiction was adopted. Employment, cultural assimilation, protest substitution, deterrence, asset valuation, and historical-analogy claims remain interpretive or source-scoped. Recurring host and show pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,497-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the corpus-wide scan still reports 18 unrelated legacy broken links.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

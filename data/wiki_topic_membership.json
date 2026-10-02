@@ -5970,6 +5970,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "94-silicon-valley-part-2-glt3075342575": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "95-9-11-glt8208243510": [
     {
       "key": "history",
@@ -24766,6 +24773,13 @@
     }
   ],
   "CybersecuritySimulationModeling": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "CyberwarEscalationAmbiguity": [
     {
       "key": "technology",
       "label": "Technology",
@@ -43749,6 +43763,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "InternetPoliticalAmplification": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "InternetRiskAvoidanceTrap": [
     {
       "key": "technology",
@@ -57290,6 +57316,18 @@
     }
   ],
   "NetscapePlatformEcosystem": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "NetworkedMovementIdentity": [
     {
       "key": "technology",
       "label": "Technology",
@@ -73759,6 +73797,13 @@
     }
   ],
   "SoftwareDeveloperHiringPullback": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "SoftwareEatingTheWorldThesis": [
     {
       "key": "technology",
       "label": "Technology",
