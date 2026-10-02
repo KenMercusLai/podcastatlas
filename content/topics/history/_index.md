@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2399
+topic_total_pages: 2402
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -22,6 +22,12 @@ topic_concepts:
   - key: "AlcoholAsPowerCatalyst"
     title: "Alcohol as Power Catalyst / 酒作为权力催化剂"
     url: "/wiki/concepts/alcoholaspowercatalyst/"
+  - key: "AlexanderLegendFormation"
+    title: "Alexander Legend Formation"
+    url: "/wiki/concepts/alexanderlegendformation/"
+  - key: "AlexanderImperialSuccessionStrategy"
+    title: "Alexander's Imperial Succession Strategy"
+    url: "/wiki/concepts/alexanderimperialsuccessionstrategy/"
   - key: "AlexandrianLibraryMyth"
     title: "Alexandrian Library Myth"
     url: "/wiki/concepts/alexandrianlibrarymyth/"
@@ -4806,6 +4812,9 @@ topic_sources:
   - key: "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095"
     title: "112. 闲聊金庸第一弹：明教竟然今天还存在？"
     url: "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+  - key: "117-alexander-the-great-part-2-glt9707946822"
+    title: "117. Alexander the Great part 2"
+    url: "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
   - key: "118-end-of-the-first-world-war-remembrance-glt2743125909"
     title: "118. End of the First World War & Remembrance"
     url: "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"

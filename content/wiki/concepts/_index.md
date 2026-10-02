@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9293
+wiki_total_pages: 9295
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1697,6 +1697,12 @@ wiki_pages:
   - key: "AlcoholSystemicDoseRisk"
     title: "Alcohol Systemic Dose Risk"
     url: "/wiki/concepts/alcoholsystemicdoserisk/"
+  - key: "AlexanderLegendFormation"
+    title: "Alexander Legend Formation"
+    url: "/wiki/concepts/alexanderlegendformation/"
+  - key: "AlexanderImperialSuccessionStrategy"
+    title: "Alexander's Imperial Succession Strategy"
+    url: "/wiki/concepts/alexanderimperialsuccessionstrategy/"
   - key: "AlexandrianLibraryMyth"
     title: "Alexandrian Library Myth"
     url: "/wiki/concepts/alexandrianlibrarymyth/"

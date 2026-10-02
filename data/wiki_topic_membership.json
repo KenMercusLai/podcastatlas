@@ -211,6 +211,13 @@
       "url": "/topics/science/"
     }
   ],
+  "117-alexander-the-great-part-2-glt9707946822": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341": [
     {
       "key": "culture",
@@ -10847,6 +10854,20 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "AlexanderImperialSuccessionStrategy": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "AlexanderLegendFormation": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "AlexanderLiss": [

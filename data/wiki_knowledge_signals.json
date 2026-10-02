@@ -5199,9 +5199,9 @@
       "url": "/wiki/concepts/acetylcholinefocussupport/"
     },
     "AchaemenidEmpire": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -5223,9 +5223,16 @@
           "show": "The Rest Is History",
           "title": "330: Herodotus: The Birth of History",
           "url": "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"
+        },
+        {
+          "episode_file": "GLT9707946822 [GLT9707946822].md",
+          "key": "117-alexander-the-great-part-2-glt9707946822",
+          "show": "The Rest Is History",
+          "title": "117. Alexander the Great part 2",
+          "url": "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/achaemenidempire/"
     },
     "AchaemenidImperialOrderIdeology": {
@@ -8565,6 +8572,38 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/alexanderhoyos/"
     },
+    "AlexanderImperialSuccessionStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9707946822 [GLT9707946822].md",
+          "key": "117-alexander-the-great-part-2-glt9707946822",
+          "show": "The Rest Is History",
+          "title": "117. Alexander the Great part 2",
+          "url": "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/alexanderimperialsuccessionstrategy/"
+    },
+    "AlexanderLegendFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9707946822 [GLT9707946822].md",
+          "key": "117-alexander-the-great-part-2-glt9707946822",
+          "show": "The Rest Is History",
+          "title": "117. Alexander the Great part 2",
+          "url": "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/alexanderlegendformation/"
+    },
     "AlexanderLiss": {
       "episode_count": 1,
       "show_count": 1,
@@ -8637,9 +8676,9 @@
       "url": "/wiki/entities/alexandershulgin/"
     },
     "AlexanderTheGreat": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
@@ -8661,6 +8700,13 @@
           "show": "The Rest Is History",
           "title": "154. The Most Disastrous Party in History",
           "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
+        },
+        {
+          "episode_file": "GLT9707946822 [GLT9707946822].md",
+          "key": "117-alexander-the-great-part-2-glt9707946822",
+          "show": "The Rest Is History",
+          "title": "117. Alexander the Great part 2",
+          "url": "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
         }
       ],
       "updated": "2026-10-02",
@@ -19673,6 +19719,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/battleofedington/"
+    },
+    "BattleOfGaugamela": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9707946822 [GLT9707946822].md",
+          "key": "117-alexander-the-great-part-2-glt9707946822",
+          "show": "The Rest Is History",
+          "title": "117. Alexander the Great part 2",
+          "url": "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/battleofgaugamela/"
     },
     "BattleOfGettysburg": {
       "episode_count": 1,
@@ -46288,6 +46350,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/dariusi/"
+    },
+    "DariusIII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9707946822 [GLT9707946822].md",
+          "key": "117-alexander-the-great-part-2-glt9707946822",
+          "show": "The Rest Is History",
+          "title": "117. Alexander the Great part 2",
+          "url": "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/dariusiii/"
     },
     "DarrenAlpert": {
       "episode_count": 1,
@@ -150407,9 +150485,9 @@
       "url": "/wiki/entities/perplexitycomputer/"
     },
     "Persepolis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6506112996 [GLT6506112996].md",
@@ -150417,6 +150495,13 @@
           "show": "The Rest Is History",
           "title": "154. The Most Disastrous Party in History",
           "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
+        },
+        {
+          "episode_file": "GLT9707946822 [GLT9707946822].md",
+          "key": "117-alexander-the-great-part-2-glt9707946822",
+          "show": "The Rest Is History",
+          "title": "117. Alexander the Great part 2",
+          "url": "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
         }
       ],
       "updated": "2026-10-02",

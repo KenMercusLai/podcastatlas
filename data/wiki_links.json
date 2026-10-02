@@ -127,6 +127,10 @@
     "title": "116.不服从的艺术：分享一些实战方法，还有力量",
     "url": "/wiki/sources/116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021/"
   },
+  "117-alexander-the-great-part-2-glt9707946822": {
+    "title": "117. Alexander the Great part 2",
+    "url": "/wiki/sources/117-alexander-the-great-part-2-glt9707946822/"
+  },
   "117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341": {
     "title": "117.诅咒兔：怪谈文学也要上桌吃饭",
     "url": "/wiki/sources/117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341/"
@@ -6699,6 +6703,14 @@
     "title": "Alexander Hoyos",
     "url": "/wiki/entities/alexanderhoyos/"
   },
+  "AlexanderImperialSuccessionStrategy": {
+    "title": "Alexander's Imperial Succession Strategy",
+    "url": "/wiki/concepts/alexanderimperialsuccessionstrategy/"
+  },
+  "AlexanderLegendFormation": {
+    "title": "Alexander Legend Formation",
+    "url": "/wiki/concepts/alexanderlegendformation/"
+  },
   "AlexanderLiss": {
     "title": "Alexander Liss",
     "url": "/wiki/entities/alexanderliss/"
@@ -10654,6 +10666,10 @@
   "BattleOfEdington": {
     "title": "Battle of Edington",
     "url": "/wiki/concepts/battleofedington/"
+  },
+  "BattleOfGaugamela": {
+    "title": "Battle of Gaugamela",
+    "url": "/wiki/entities/battleofgaugamela/"
   },
   "BattleOfGettysburg": {
     "title": "Battle of Gettysburg",
@@ -21254,6 +21270,10 @@
   "DariusI": {
     "title": "Darius I",
     "url": "/wiki/entities/dariusi/"
+  },
+  "DariusIII": {
+    "title": "Darius III",
+    "url": "/wiki/entities/dariusiii/"
   },
   "DarkAdviserCraft": {
     "title": "Dark Adviser Craft / 毒士灰度谋略",

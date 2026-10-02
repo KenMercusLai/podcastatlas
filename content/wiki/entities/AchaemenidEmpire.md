@@ -6,7 +6,8 @@ sources:
   - 669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260
   - 668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182
   - 330-herodotus-the-birth-of-history-glt7158094581
-last_updated: 2026-09-28
+  - 117-alexander-the-great-part-2-glt9707946822
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Achaemenid Empire / Persian Empire appears in the wiki as the imperial power whose expansion under [[CyrusTheGreat]], consolidation under [[DariusI]], suppression of the [[IonianRevolt]], and punitive expedition against Athens and Eretria lead to the [[BattleOfMarathon]].
+The Achaemenid Empire / Persian Empire appears as a military, administrative, fiscal, and ideological order founded through conquest, consolidated under [[DariusI]], tested in the Greek wars, and ultimately defeated but selectively inherited by [[AlexanderTheGreat|Alexander the Great]].
 
 ## Current Profile
 
@@ -26,6 +27,8 @@ At Marathon itself, the empire's commanders choose terrain that gives beach acce
 
 The Herodotus episode adds a literary and moral profile without treating Persia as a mere despotic foil. Persian education prizes riding, archery, and truth-telling; Xerxes can appear powerful, handsome, and tragically conscious of mortality. At the same time, the episode reads his Greek invasion as hubristic overreach within an [[ImperialRiseDeclineCycle]] and warns that Athens later begins to reproduce imperial behavior.
 
+The Alexander episode adds the empire's terminal succession crisis. [[DariusIII|Darius III]] can still mobilize a large, diverse army at the [[BattleOfGaugamela]], but defeat opens Babylon, Susa, and Persepolis. Alexander's retention of Persian officials, adoption of royal forms, dynastic marriages, and recruitment of Persian troops show that the empire's governing structures outlive the reigning dynasty even as the conqueror burns Persepolis and pursues resistance eastward.
+
 ## Key Characteristics
 
 - The empire grows through conquest and incorporation, especially Cyrus's victories over Lydia, Sardis, and Babylon.
@@ -33,8 +36,8 @@ The Herodotus episode adds a literary and moral profile without treating Persia 
 - Persian imperial authority is presented as ideological as well as military, tied to truth/order against the lie.
 - The empire manages Ionian Greeks through client tyrants, satrapal authority, naval force, and exemplary punishment.
 - Persian strategy at Marathon depends on terrain, cavalry, naval mobility, intimidation, and possible internal betrayal in Athens.
-- Persian defeat at Marathon is militarily real but not necessarily empire-defining from its viewpoint, while Herodotus's Persian virtues and humanized Xerxes complicate a freedom-versus-despotism caricature.
-- Greek-source dominance makes the empire's inner view harder to reconstruct than Greek memory.
+- Persian defeat at Marathon is militarily real but not empire-defining, while defeat at Gaugamela opens the imperial heartland and leaves institutions and elite networks valuable enough for Alexander to inherit and adapt.
+- Greek and Roman source dominance makes the empire's inner view harder to reconstruct than conqueror memory.
 
 ## Evidence
 
@@ -46,16 +49,18 @@ The Herodotus episode adds a literary and moral profile without treating Persia 
 - Imperial perspective: [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] notes that Marathon may have seemed peripheral to Persia and that no Persian account comparable to Herodotus survives.
 - Persian virtues and royal humanity: [[330-herodotus-the-birth-of-history-glt7158094581]] highlights truth-telling, riding, archery, Xerxes's stature, and his reflection on mortality.
 - Overreach and decline: [[330-herodotus-the-birth-of-history-glt7158094581]] interprets Xerxes's invasion and Cyrus's warning through an imperial rise-and-decline pattern that later implicates Athens.
+- Final defeat and institutional survival: [[117-alexander-the-great-part-2-glt9707946822]] connects Gaugamela and Darius's death to Alexander's retention of Persian officials, court forms, marriages, and troops.
 
 ## Qualifications
 
-The profile remains source-scoped to three podcast episodes. It does not synthesize the whole Achaemenid state, court, economy, religion, administration, or Xerxes's invasion. Persian ideals, royal motives, and inner viewpoints remain mediated chiefly through Herodotus and the episodes' reconstruction; sympathetic representation does not remove Greek narrative asymmetry.
+The profile remains source-scoped to four podcast episodes. It does not synthesize the whole Achaemenid state, court, economy, religion, administration, Greek wars, or collapse. Persian ideals, royal motives, Gaugamela, and the succession crisis remain mediated chiefly through Greek and Roman traditions and the episodes' reconstruction; Alexander's selective reuse of imperial structures does not prove either seamless continuity or equal integration.
 
 ## What Changed
 
 - Expanded the Persian Empire node from a Marathon expedition profile into the pre-Marathon imperial context: Cyrus's conquests, Darius's consolidation, ideology, Ionian revolt, and punitive sequence.
 - Preserved the prior qualification that Persian inner perspective is partly inferred because comparable Persian narrative evidence is absent from the source frame.
 - Added Herodotus's sympathetic account of Persian virtues, Xerxes's humanity, and the source-scoped rise-and-decline interpretation.
+- Extended the profile through Darius III's defeat and the survival of Persian governing forms inside Alexander's succession project.
 
 ## Relationships
 
@@ -72,3 +77,6 @@ The profile remains source-scoped to three podcast episodes. It does not synthes
 - [[GrecoPersianWarMemory]] - later memory field that often simplifies Persian-Athenian conflict.
 - [[CrossCulturalHistoricalPerspective]] - method that keeps Persian virtues and internal standards visible.
 - [[ImperialRiseDeclineCycle]] - moral-political pattern through which the episode reads Xerxes's overreach.
+- [[DariusIII]] - final reigning king whose defeat and death create the succession crisis.
+- [[BattleOfGaugamela]] - decisive battle opening the imperial heartland.
+- [[AlexanderImperialSuccessionStrategy]] - selective inheritance of Persian elites, symbols, dynastic ties, and troops.

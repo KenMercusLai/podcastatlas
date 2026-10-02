@@ -6,6 +6,7 @@ sources:
   - zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc
   - 491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613
   - 154-the-most-disastrous-party-in-history-glt6506112996
+  - 117-alexander-the-great-part-2-glt9707946822
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-02
 ---
@@ -14,44 +15,51 @@ last_updated: 2026-10-02
 
 ## Overview
 
-Alexander the Great / 亚历山大大帝 enters the wiki through tactical adaptation at [[SogdianRock|粟特岩堡]], a culturally influential clean-shaven ruling image, and the contested memory of [[Persepolis]]' destruction.
+Alexander the Great / 亚历山大大帝 appears as a tactically adaptive Macedonian conqueror who defeated [[DariusIII|Darius III]], attempted to inherit the [[AchaemenidEmpire]], pushed through Central Asia and India, and acquired an afterlife in which administrative ambition, charisma, violence, and legend cannot be separated.
 
 ## Current Profile
 
-The Central Asian source presents Alexander in 327 BCE. Faced with a fortress whose defenders consider its cliffs impassable, he reportedly selects three hundred experienced climbers for a night ascent. Their dawn appearance above the position creates the impression that the inaccessible height has been breached, and the garrison surrenders.
+The campaign profile now begins with the decisive [[BattleOfGaugamela]] in 331 BC. Alexander rejects a western territorial settlement, defeats Darius's larger army, and enters Babylon and Susa with enough restraint to cooperate with Persian elites. Pursuit of Darius and Bessus, adoption of Persian royal forms, marriage, and Persian recruitment support [[AlexanderImperialSuccessionStrategy]]: he is trying to take over an imperial machine, not merely plunder it.
 
-A separate cultural-history account adds another mode of influence. By presenting himself clean shaven rather than in his father Philip II's mature, Zeus-like style, Alexander made the smooth-chinned ruler youthful, powerful, and prestigious; later Roman shaving culture repeatedly negotiated that model.
+That strategy does not settle the motive for continued expansion. The eastern campaigns can be read as necessary consolidation of former Persian lands, pursuit of security, or an inability to stop. Macedonian resistance to Persian dress, proskynesis, intermarriage, and incorporated troops shows that practices legible as imperial integration to new subjects could feel like displacement to the original conquerors. The killings of Philotas, Parmenion, Callisthenes, and Cleitus, the Hyphasis refusal, and the desert disaster sharpen the coercive and self-destructive side of the profile.
 
-The darker imperial-memory layer comes from the conquest of the [[AchaemenidEmpire]]. Alexander is said to have burned the palace at [[Persepolis]] during a drunken celebration after Thais urged revenge for Xerxes' burning of Athens. [[154-the-most-disastrous-party-in-history-glt6506112996]] uses the story as an image of victory turning into hubris while keeping its exact motive and sequence uncertain.
+The Sogdian Rock retelling preserves the tactical pattern at smaller scale: Alexander selects experienced climbers for a night ascent and turns their appearance above an allegedly inaccessible fortress into psychological shock. His clean-shaven royal image shows another form of influence, making youthful smoothness prestigious in later Greek and Roman elite culture.
+
+Persepolis remains the darkest symbolic hinge. Alexander burned the palace, but drunken impulse, Thaïs's call for revenge, deliberate retaliation for Xerxes, and dynastic rupture remain competing explanations. His death in Babylon without secure succession breaks the empire among rivals, while [[AlexanderLegendFormation]] carries him into Roman comparison, religious traditions, romance, and continuing disputes over whether military brilliance warrants “greatness.”
 
 ## Key Characteristics
 
-- Adapts to an apparently inaccessible fortress through specialized personnel, night movement, and psychological shock.
-- Converts small-scale penetration into disproportionate pressure on defenders.
+- Combines battlefield maneuver and psychological shock, from Gaugamela to Sogdian Rock.
+- Seeks to convert conquest into Achaemenid succession through local elites, court forms, dynastic ties, and military incorporation.
+- Continues east despite mounting strategic ambiguity, elite killings, army resistance, and logistical catastrophe.
 - Made clean-shaven rulership an influential elite visual model.
-- Associated with the destruction of Persepolis after conquest of the Achaemenid imperial center.
-- Carries an afterlife in which military brilliance and cultural prestige coexist with stories of destructive excess.
+- Carries an afterlife in which military brilliance, cultural transformation, and charisma coexist with destructive excess and moral dispute.
 
 ## Evidence
 
-- Specialized selection and unexpected approach: [[zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc|Hanji 1108]] describes three hundred experienced climbers ascending Sogdian Rock at night.
-- Psychological result: [[zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc|Hanji 1108]] links the climbers' dawn appearance to surrender.
+- Battlefield and succession: [[117-alexander-the-great-part-2-glt9707946822]] connects Gaugamela, entry into the imperial capitals, pursuit of Darius, and Persian incorporation.
+- Expansion and resistance: [[117-alexander-the-great-part-2-glt9707946822]] follows the Central Asian and Indian campaigns, Macedonian opposition, Hyphasis refusal, and desert return.
+- Specialized selection and psychological result: [[zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc|Hanji 1108]] describes the Sogdian Rock night ascent and links the climbers' dawn appearance to surrender.
 - Ruler image: [[491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613]] contrasts Alexander's youthful smooth face with Philip II's mature bearded kingship and traces the former's later prestige at Rome.
-- Imperial destruction: [[154-the-most-disastrous-party-in-history-glt6506112996]] connects Alexander to the burning of Persepolis and its later memory as drunken hubris.
+- Imperial destruction: [[154-the-most-disastrous-party-in-history-glt6506112996]] preserves the drunken-party memory, while [[117-alexander-the-great-part-2-glt9707946822]] keeps that story alongside deliberate political and revenge explanations.
+- Death and afterlife: [[117-alexander-the-great-part-2-glt9707946822]] connects failed succession to the successor wars and traces Roman, religious, and romance transformations.
 
 ## Qualifications
 
-This profile relies on three popular-history retellings and remains selective rather than biographical. Sogdian force size, equipment, casualties, captive totals, surrender mechanism, and the Roxana sequence are not independently verified here. The beard episode rejects Plutarch's anti-grabbing explanation and treats Alexander's image-making motive as interpretation. At Persepolis, the roles of alcohol, Thais, revenge, accident, and deliberate policy remain contested; the memorable party story should not be treated as a settled reconstruction.
+This profile relies on four popular-history retellings and late ancient traditions rather than contemporary Persian narrative evidence. Army sizes, speeches, battlefield details, court plots, the Hyphasis episode, Roxana sequence, death, and tomb remain uncertain. Integration does not imply equality or excuse conquest, and strategic rationality need not exclude personal compulsion. The beard episode treats image-making motive as interpretation; at Persepolis, alcohol, Thaïs, revenge, accident, and deliberate policy remain contested.
 
 ## What Changed
 
-- Added Persepolis as a destructive-imperial-memory counterweight to the existing tactical and visual-influence profile.
+- Expanded the profile from tactical, visual, and Persepolis episodes into conquest, Achaemenid succession, eastern overextension, military resistance, death, and afterlife.
+- Reframed Persian adoption as a governing strategy that also threatened Macedonian status.
+- Preserved the competing explanations for Persepolis rather than privileging the drunken-party tradition.
 
 ## Relationships
 
 - [[SogdianRock|粟特岩堡]] - fortress grounding the tactical profile.
-- [[UnexpectedApproachFortressAssault|意外进路式要塞突袭]] - abstracted pattern behind the cliff ascent.
-- [[FacialHairAsSocialCode]] - framework for Alexander's clean-shaven break with mature bearded kingship.
+- [[BattleOfGaugamela]] - decisive victory opening the Achaemenid heartland.
+- [[DariusIII]] - defeated king whose death supports Alexander's heir-and-avenger claim.
+- [[AlexanderImperialSuccessionStrategy]] - framework for Persian administrative, court, dynastic, and military incorporation.
+- [[AlexanderLegendFormation]] - reception process joining uncertain history to Roman, religious, and romance traditions.
 - [[Persepolis]] - conquered imperial site whose destruction shapes Alexander's moral and cultural afterlife.
 - [[AchaemenidEmpire]] - empire defeated by Alexander.
-- [[DisastrousPartyPoliticalSymbol]] - framework for the burning story as a symbol whose force exceeds its evidentiary certainty.

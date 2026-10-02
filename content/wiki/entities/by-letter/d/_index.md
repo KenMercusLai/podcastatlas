@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11989
+wiki_total_pages: 11991
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "DariusI"
     title: "Darius I"
     url: "/wiki/entities/dariusi/"
+  - key: "DariusIII"
+    title: "Darius III"
+    url: "/wiki/entities/dariusiii/"
   - key: "DarkMatterLabs"
     title: "Dark Matter Labs"
     url: "/wiki/entities/darkmatterlabs/"

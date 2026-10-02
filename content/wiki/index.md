@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [117. Alexander the Great part 2](sources/117-alexander-the-great-part-2-glt9707946822.md) — The Rest Is History on Gaugamela, Achaemenid succession, eastern overextension, army resistance, source uncertainty, and Alexander's legendary afterlife.
 - [118. End of the First World War & Remembrance](sources/118-end-of-the-first-world-war-remembrance-glt2743125909.md) — The Rest Is History on equal war graves, the Cenotaph, two-minute silence, Unknown Warrior, poppy, veteran welfare, and the changing meanings of remembrance.
 - [119. World Cup of Kings & Queens preview](sources/119-world-cup-of-kings-queens-preview-glt7656399161.md) — The Rest Is History preview defining tournament eligibility and comparing fame, achievement, moral cost, sacred continuity, constitutional role, and audience preference.
 - [120. The Oil Weapon](sources/120-the-oil-weapon-glt6620754143.md) — The Rest Is History on the 1973 oil crisis, producer leverage, Western dependence, Britain's three-day week, conservation, and the end of easy abundance.
@@ -3519,6 +3520,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 
 ## Entities
+- [Darius III](entities/DariusIII.md) — Final Achaemenid king whose defeat and death allowed Alexander to claim succession as avenger and heir.
+- [Battle of Gaugamela](entities/BattleOfGaugamela.md) — Decisive 331 BC victory opening the Achaemenid imperial heartland to Alexander.
 - [The Cenotaph](entities/Cenotaph.md) — Abstract empty-tomb monument that became the civic center of British national remembrance.
 - [Unknown Warrior](entities/UnknownWarrior.md) — Unidentified serviceman buried in Westminster Abbey as a representative focus for missing war dead and bereaved families.
 - [David Railton](entities/DavidRailton.md) — Army chaplain who proposed the Unknown Warrior burial and linked remembrance to veteran care.
@@ -11930,7 +11933,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gnaeus Octavius / 格奈乌斯·屋大维](entities/GnaeusOctaviusRomanConsul.md) — Conservative 87 BC consul whose conflict with Cinna over Italian enfranchisement ends with Cinna's outlawry and Octavius's murder in office.
 - [Aristion of Athens / 雅典的阿里斯提昂](entities/AristionAthens.md) — Athenian philosopher-politician who leads Athens into Mithridatic revolt before Sulla's siege, sack, and forced-poison execution.
 - [Athens / 雅典](entities/Athens.md) — Greek city whose anti-Roman revolt, starvation siege, sack, and loss of remaining independence connect Roman imperial pressure to the Sullan crisis.
-- [Achaemenid Empire / Persian Empire](entities/AchaemenidEmpire.md) — Persian imperial system whose expansion, ideals, punitive strategy, Xerxes narrative, and Greek-source asymmetry frame the wars with Athens.
+- [Achaemenid Empire / Persian Empire](entities/AchaemenidEmpire.md) — Persian imperial order whose conquest, administration, ideology, Greek wars, final defeat, and selective inheritance frame its long political life.
 - [Herodotus](entities/Herodotus.md) — Greek historian who combines inquiry, attributed testimony, ethnography, cross-cultural comparison, narrative art, and reflection on empire.
 - [Miltiades](entities/Miltiades.md) — Athenian commander whose road-blocking strategy and cavalry-window attack plan anchor the Marathon reconstruction.
 - [Darius I](entities/DariusI.md) — Persian king whose revenge motive frames the punitive expedition against Eretria and Athens before Marathon.
@@ -15208,7 +15211,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 - [夷陵 / Yiling (Late Han)](entities/YilingLateHan.md) — Mountain-and-river forward position seized by Gan Ning during the post-Red-Cliffs Jiangling campaign.
-- [Alexander the Great / 亚历山大大帝](entities/AlexanderTheGreat.md) — Macedonian conqueror represented through Sogdian tactics, clean-shaven rulership, and contested Persepolis destruction memory.
+- [Alexander the Great / 亚历山大大帝](entities/AlexanderTheGreat.md) — Macedonian conqueror whose tactics, Persian succession project, eastern overextension, royal image, violence, and legendary afterlife remain inseparable.
 - [Sogdian Rock / 粟特岩堡](entities/SogdianRock.md) — Cliff fortress whose unexpected night ascent becomes a comparison for the Yiling operation.
 - [华容道 / Huarong Road (Late Han)](entities/HuarongRoadLateHan.md) — Marshy post-Red-Cliffs retreat route where rain, illness, wounded troops, animals, and pursuit pressure create a mobility crisis.
 - [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han campaign whose coalition persuasion, resistance decision, readiness constraints, deception, fire, retreat, and disputed credit reshape the Jingzhou contest.
@@ -15529,7 +15532,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Black Dinner](entities/BlackDinner.md) — 1440 Scottish feast remembered for converting royal hospitality into dynastic betrayal and execution.
 - [Bal des Ardents](entities/BalDesArdents.md) — 1393 court masquerade whose lethal fire amplified anxiety around Charles VI's instability.
 - [Khodynka Tragedy](entities/KhodynkaTragedy.md) — 1896 coronation crowd disaster whose mass death and royal response damaged Nicholas II's political memory.
-- [Persepolis](entities/Persepolis.md) — Achaemenid ceremonial capital linking Alexander's destructive conquest memory to the shah's 1971 imperial spectacle.
+- [Persepolis](entities/Persepolis.md) — Achaemenid ceremonial capital linking disputed motives for Alexander's burning to the shah's 1971 imperial spectacle.
 - [Mary Ainsworth](entities/MaryAinsworth.md) — Developmental psychologist whose Strange Situation anchors the episode's plasticity-qualified attachment account.
 - [Helen Fisher](entities/HelenFisher.md) — Relationship researcher associated with desire-love-attachment phases and broad mate-selection types.
 - [Julie Gottman](entities/JulieGottman.md) — Relationship researcher linked with John Gottman to couple outcomes and destructive conflict patterns.
@@ -15549,6 +15552,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Alexander's Imperial Succession Strategy](concepts/AlexanderImperialSuccessionStrategy.md) — Conquest-to-rule strategy combining Macedonian force with Persian elites, symbols, dynastic ties, and troops.
+- [Alexander Legend Formation](concepts/AlexanderLegendFormation.md) — Transformation of uncertain campaign history into Roman exemplarity, religious adaptation, romance, and contested greatness.
 - [First World War Remembrance](concepts/FirstWorldWarRemembrance.md) — Deliberately built and contested system joining equal graves, silence, monuments, representative burial, charity, and adaptable civic meaning.
 - [Remembrance Poppy](concepts/RemembrancePoppy.md) — Wearable symbol joining battlefield poetry, transnational activism, veteran charity, mass participation, and pacifist contest.
 - [1973 Oil Crisis](concepts/OilCrisis1973.md) — Price, supply, and geopolitical shock that exposed Western import dependence and shifted visible leverage toward producing states.

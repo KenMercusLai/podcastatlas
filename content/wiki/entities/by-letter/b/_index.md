@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11989
+wiki_total_pages: 11991
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "BattleOfCrecy"
     title: "Battle of Crécy"
     url: "/wiki/entities/battleofcrecy/"
+  - key: "BattleOfGaugamela"
+    title: "Battle of Gaugamela"
+    url: "/wiki/entities/battleofgaugamela/"
   - key: "BattleOfGettysburg"
     title: "Battle of Gettysburg"
     url: "/wiki/entities/battleofgettysburg/"
