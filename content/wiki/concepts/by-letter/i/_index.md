@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9354
+wiki_total_pages: 9355
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -860,6 +860,9 @@ wiki_pages:
   - key: "IntimacyBeyondGenderScript"
     title: "Intimacy Beyond Gender Script / 超越性别脚本的亲密"
     url: "/wiki/concepts/intimacybeyondgenderscript/"
+  - key: "IntimateAccessInformalPower"
+    title: "Intimate Access as Informal Power"
+    url: "/wiki/concepts/intimateaccessinformalpower/"
   - key: "IntimateFrontierPacification"
     title: "Intimate Frontier Pacification / 亲密关系式边患安抚"
     url: "/wiki/concepts/intimatefrontierpacification/"

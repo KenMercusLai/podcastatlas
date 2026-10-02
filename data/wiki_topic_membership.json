@@ -5984,6 +5984,13 @@
       "url": "/topics/science/"
     }
   ],
+  "97-top-ten-mistresses-glt8855582591": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "98-thermopylae-salamis-episode-1-glt3813381992": [
     {
       "key": "history",
@@ -51916,6 +51923,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MadameDePompadour": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MadameDeRenal": [
     {
       "key": "culture",
@@ -62054,6 +62068,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "PiersGaveston": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PigButcheringScam": [

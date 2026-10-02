@@ -15570,6 +15570,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/askthehearttvdrama/"
     },
+    "Aspasia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855582591 [GLT8855582591].md",
+          "key": "97-top-ten-mistresses-glt8855582591",
+          "show": "The Rest Is History",
+          "title": "97. Top Ten Mistresses",
+          "url": "/wiki/sources/97-top-ten-mistresses-glt8855582591/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/aspasia/"
+    },
     "AspirationalEmotionalPremium": {
       "episode_count": 2,
       "show_count": 2,
@@ -37485,9 +37501,9 @@
       "url": "/wiki/concepts/cleopatrareceptionhistory/"
     },
     "CleopatraVII": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -37523,9 +37539,16 @@
           "show": "The Rest Is History",
           "title": "195. Young Cleopatra (Part 1)",
           "url": "/wiki/sources/195-young-cleopatra-part-1-glt1502910094/"
+        },
+        {
+          "episode_file": "GLT8855582591 [GLT8855582591].md",
+          "key": "97-top-ten-mistresses-glt8855582591",
+          "show": "The Rest Is History",
+          "title": "97. Top Ten Mistresses",
+          "url": "/wiki/sources/97-top-ten-mistresses-glt8855582591/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/cleopatravii/"
     },
     "ClimateAidRetrenchment": {
@@ -59143,9 +59166,9 @@
       "url": "/wiki/entities/emmagriffin/"
     },
     "EmmaHamilton": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7671750288 [GLT7671750288].md",
@@ -59153,9 +59176,16 @@
           "show": "The Rest Is History",
           "title": "238. The Regency Revolution",
           "url": "/wiki/sources/238-the-regency-revolution-glt7671750288/"
+        },
+        {
+          "episode_file": "GLT8855582591 [GLT8855582591].md",
+          "key": "97-top-ten-mistresses-glt8855582591",
+          "show": "The Rest Is History",
+          "title": "97. Top Ten Mistresses",
+          "url": "/wiki/sources/97-top-ten-mistresses-glt8855582591/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/emmahamilton/"
     },
     "EmmaOfNormandy": {
@@ -102192,6 +102222,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/interventionstestingprogram/"
     },
+    "IntimateAccessInformalPower": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855582591 [GLT8855582591].md",
+          "key": "97-top-ten-mistresses-glt8855582591",
+          "show": "The Rest Is History",
+          "title": "97. Top Ten Mistresses",
+          "url": "/wiki/sources/97-top-ten-mistresses-glt8855582591/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/intimateaccessinformalpower/"
+    },
     "IntracranialCircuitMapping": {
       "episode_count": 2,
       "show_count": 1,
@@ -118269,6 +118315,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/lihuaspeechtherapist/"
     },
+    "LillieLangtry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855582591 [GLT8855582591].md",
+          "key": "97-top-ten-mistresses-glt8855582591",
+          "show": "The Rest Is History",
+          "title": "97. Top Ten Mistresses",
+          "url": "/wiki/sources/97-top-ten-mistresses-glt8855582591/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/lillielangtry/"
+    },
     "LilyRadiographer": {
       "episode_count": 1,
       "show_count": 1,
@@ -127670,6 +127732,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/madagascar/"
     },
+    "MadameDePompadour": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855582591 [GLT8855582591].md",
+          "key": "97-top-ten-mistresses-glt8855582591",
+          "show": "The Rest Is History",
+          "title": "97. Top Ten Mistresses",
+          "url": "/wiki/sources/97-top-ten-mistresses-glt8855582591/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/madamedepompadour/"
+    },
     "MadameRoland": {
       "episode_count": 2,
       "show_count": 1,
@@ -128222,9 +128300,9 @@
       "url": "/wiki/concepts/maleurologicalhealthmisconceptions/"
     },
     "Malinche": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -128274,9 +128352,16 @@
           "show": "The Rest Is History",
           "title": "385. The Fall of the Aztecs: The Woman Who Changed The World (Part 2)",
           "url": "/wiki/sources/385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457/"
+        },
+        {
+          "episode_file": "GLT8855582591 [GLT8855582591].md",
+          "key": "97-top-ten-mistresses-glt8855582591",
+          "show": "The Rest Is History",
+          "title": "97. Top Ten Mistresses",
+          "url": "/wiki/sources/97-top-ten-mistresses-glt8855582591/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/malinche/"
     },
     "Malta": {
@@ -129623,6 +129708,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/marieantoinette/"
+    },
+    "MarieWalewska": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855582591 [GLT8855582591].md",
+          "key": "97-top-ten-mistresses-glt8855582591",
+          "show": "The Rest Is History",
+          "title": "97. Top Ten Mistresses",
+          "url": "/wiki/sources/97-top-ten-mistresses-glt8855582591/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/mariewalewska/"
     },
     "MarijaGimbutas": {
       "episode_count": 1,
@@ -141273,6 +141374,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/nekohealth/"
     },
+    "NellGwyn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855582591 [GLT8855582591].md",
+          "key": "97-top-ten-mistresses-glt8855582591",
+          "show": "The Rest Is History",
+          "title": "97. Top Ten Mistresses",
+          "url": "/wiki/sources/97-top-ten-mistresses-glt8855582591/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/nellgwyn/"
+    },
     "NelsonMandela": {
       "episode_count": 2,
       "show_count": 2,
@@ -142497,6 +142614,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/nightofthelongknives/"
+    },
+    "NightingaleTuti": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855582591 [GLT8855582591].md",
+          "key": "97-top-ten-mistresses-glt8855582591",
+          "show": "The Rest Is History",
+          "title": "97. Top Ten Mistresses",
+          "url": "/wiki/sources/97-top-ten-mistresses-glt8855582591/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/nightingaletuti/"
     },
     "NightmareImageryRehearsalTherapy": {
       "episode_count": 2,
@@ -153983,6 +154116,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/pierreplantard/"
+    },
+    "PiersGaveston": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855582591 [GLT8855582591].md",
+          "key": "97-top-ten-mistresses-glt8855582591",
+          "show": "The Rest Is History",
+          "title": "97. Top Ten Mistresses",
+          "url": "/wiki/sources/97-top-ten-mistresses-glt8855582591/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/piersgaveston/"
     },
     "Pigeon": {
       "episode_count": 1,

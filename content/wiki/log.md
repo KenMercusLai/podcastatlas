@@ -27949,3 +27949,11 @@ Added source `98-thermopylae-salamis-episode-1-glt3813381992`; completed the pai
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 97. Top Ten Mistresses
+
+Added source `97-top-ten-mistresses-glt8855582591`; created `NightingaleTuti`, `PiersGaveston`, `NellGwyn`, `LillieLangtry`, `MadameDePompadour`, `Aspasia`, `MarieWalewska`, and `IntimateAccessInformalPower`; and resynthesized `Malinche`, `CleopatraVII`, and `EmmaHamilton` from their complete preserved evidence inventories. Core synthesis: intimate proximity can create interpretive, patronage, dynastic, reputational, or factional leverage without becoming formal authority, but “mistress” is an unstable category that can obscure sovereignty, uncertain sexuality, intellectual partnership, enslavement, and coercion. No settled contradiction was adopted. The ranking, private motives, relationship types, individual policy effects, and causal counterfactuals remain uncertain, contested, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,493-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [97. Top Ten Mistresses](sources/97-top-ten-mistresses-glt8855582591.md) — The Rest Is History countdown on royal favourites, performers, interpreters, celebrity, dynastic strategy, and influence through intimate access outside formal office.
 - [98. Thermopylae & Salamis Episode 1](sources/98-thermopylae-salamis-episode-1-glt3813381992.md) — The Rest Is History on Persian imperial scale, Greek source asymmetry, the road from Ionian revolt to Xerxes' invasion, Athenian fleet-building, prophecy, and the linked Thermopylae-Artemisium defense.
 - [99. Thermopylae & Salamis Episode 2](sources/99-thermopylae-salamis-episode-2-glt9857497334.md) — The Rest Is History on Thermopylae's defeat and heroic afterlife, Athens' evacuation and burning, Salamis, Themistoclean strategy, Persian complexity, and civilizational counterfactuals.
 - [100. Decolonising Africa](sources/100-decolonising-africa-glt2427735251.md) — The Rest Is History on Fanon, Nkrumah, Pan-Africanism, divergent independence pathways, the Congo Crisis, inherited borders, and Cold War intervention.
@@ -3554,6 +3555,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247.md) — Huberman Lab interview on psychedelic classes, clinical protocols, self-representation, integration, microdosing evidence, persistent perceptual symptoms, risks, and regulation.
 
 ## Entities
+- [The Nightingale / Tuti](entities/NightingaleTuti.md) — Qajar concubine remembered for Fath-Ali Shah's affection and mourning, with little demonstrated political influence.
+- [Piers Gaveston](entities/PiersGaveston.md) — Edward II's royal favourite whose elevation intensified aristocratic conflict regardless of unresolved sexual history.
+- [Nell Gwyn](entities/NellGwyn.md) — Restoration actress and popular Protestant royal mistress whose sons entered aristocratic life.
+- [Lillie Langtry](entities/LillieLangtry.md) — Jersey-born royal mistress who converted painted beauty and scandal into a transatlantic acting career.
+- [Madame de Pompadour](entities/MadameDePompadour.md) — Louis XV's favourite whose political confidence continued after their sexual relationship ended.
+- [Aspasia](entities/Aspasia.md) — Milesian partner of Pericles remembered through contested traditions of rhetoric, philosophy, sexuality, and political influence.
+- [Marie Walewska](entities/MarieWalewska.md) — Polish noblewoman whose relationship with Napoleon joined patriotic lobbying, affection, and dynastic consequence.
 - [考芬 / Kaofen](entities/KaofenFilmScholar.md) — Film-studies commentator connecting cinematic form to illness, migration, disability, care, race, and class.
 - [《困在时间里的父亲》 / The Father](entities/TheFatherFilm.md) — Film representing dementia-related uncertainty through unstable time, space, identity, sound, and family care.
 - [《别告诉她》 / The Farewell](entities/TheFarewellFilm.md) — Family film joining concealed illness, migration distance, wedding reunion, partial truth, and ordinary farewell.
@@ -15650,6 +15658,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
 
 ## Concepts
+- [Intimate Access as Informal Power](concepts/IntimateAccessInformalPower.md) — Influence through personal proximity, trust, communication, sexuality, celebrity, or interpretation rather than formal office.
 - [Care Relationship Labor And Boundaries / 照护关系的劳动与边界](concepts/CareRelationshipLaborAndBoundaries.md) — Care as practical work, emotional labor, dignity, equality, dependency, and sustainable limits for both sides.
 - [Bond Masculinity Adaptation](concepts/BondMasculinityAdaptation.md) — Preservation of Bond's recognizable masculine fantasy through changing humor, consequence, vulnerability, and moral judgment.
 - [Post-Imperial Cultural Branding](concepts/PostImperialCulturalBranding.md) — Conversion of reduced geopolitical power into exportable national style, irony, entertainment, and consumer prestige.

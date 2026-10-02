@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12052
+wiki_total_pages: 12059
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "Madagascar"
     title: "Madagascar / 马达加斯加"
     url: "/wiki/entities/madagascar/"
+  - key: "MadameDePompadour"
+    title: "Madame de Pompadour"
+    url: "/wiki/entities/madamedepompadour/"
   - key: "MadameDeRenal"
     title: "Madame de Renal / 雷奈尔夫人"
     url: "/wiki/entities/madamederenal/"
@@ -377,6 +380,9 @@ wiki_pages:
   - key: "MarieAntoinette"
     title: "Marie Antoinette"
     url: "/wiki/entities/marieantoinette/"
+  - key: "MarieWalewska"
+    title: "Marie Walewska"
+    url: "/wiki/entities/mariewalewska/"
   - key: "MarieLouiseVonFranz"
     title: "Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹"
     url: "/wiki/entities/marielouisevonfranz/"

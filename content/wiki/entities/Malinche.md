@@ -11,7 +11,8 @@ sources:
   - 387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427
   - 386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852
   - 385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457
-last_updated: 2026-09-27
+  - 97-top-ten-mistresses-glt8855582591
+last_updated: 2026-10-03
 ---
 
 ## Overview
@@ -30,7 +31,7 @@ Her departure from Tenochtitlan with Cortes to confront Narvaez then leaves [[Pe
 
 At the end of the [[SiegeOfTenochtitlan|siege of Tenochtitlan]], she is present when [[Cuauhtemoc]] is brought before Cortes and helps communicate the victors' demand for gold. The next episode finds her pregnant with Cortes's son Martin when Cortes's wife arrives in the conquered capital. Cortes later takes her on the Honduras expedition, grants her native village as an encomienda, and arranges her marriage to Juan Jaramillo, giving her and her child standing within Spanish law. She survives the expedition, later has a daughter named Maria, and then disappears from the surviving record.
 
-The source resists reading this settlement as a simple romantic conclusion. Property, marriage, parenthood, translation, and legal status all operate inside a violent colonial order that gave Malinche agency but sharply constrained its terms.
+The sources resist reading this settlement as a simple romantic conclusion. Property, marriage, parenthood, translation, and legal status all operate inside a violent colonial order that gave Malinche agency but sharply constrained its terms. A later comparative ranking places her first among historical mistresses because her Nahuatl-Maya-Spanish interpretation and political mediation are treated as causal to the anti-Mexica coalition. That judgment reinforces her structural importance but does not make “mistress” an adequate account of enslavement, coercion, or conquest by a coalition with many Indigenous decision-makers.
 
 ## Key Characteristics
 
@@ -55,16 +56,18 @@ The source resists reading this settlement as a simple romantic conclusion. Prop
 - Retreat survival: [[389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815]] identifies Malinche among those who escaped the Noche Triste.
 - Communication dependence: [[388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073]] places Malinche with Cortes on the coast while Alvarado's garrison interpreted rumor and festival preparations without her.
 - Encounter mediation and hostage scene: [[387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427]] makes the Spaniards dependent on Malinche and attributes to her advice that Moctezuma comply with an armed demand rather than risk death.
+- Comparative causal ranking: [[97-top-ten-mistresses-glt8855582591]] places Malinche first because translation and diplomacy made communication and coalition-building possible, while presenting the conclusion as a counterfactual historical argument.
 
 ## Qualifications
 
-These seven consecutive episodes do not reconstruct Malinche's whole life or interpreting work. Part 2 presents her childhood, name, sale, possible hostility to Mexica power, and influence over Cortes with explicit or implicit uncertainty; enslavement sharply constrained the choices within which any agency operated. Part 3 cannot establish whether she manipulated, strategically shaped, or faithfully relayed negotiations, the Cholula warning, or Moctezuma's welcome. Part 4 reports her advice in a hostage scene whose wording and chronology are contested; it does not reveal her private judgment or make her the author of Cortes's coercion. Part 5 establishes her absence, not the counterfactual claim that she could have prevented the massacre; Part 6 records her survival but gives little detail about her actions during the retreat. Her birth date, age, later death, degree of choice, and private relationships remain uncertain. Legal recognition and property should not be mistaken for freedom from the coercive structure of conquest.
+These seven consecutive conquest episodes and the later comparative countdown do not reconstruct Malinche's whole life or interpreting work. Part 2 presents her childhood, name, sale, possible hostility to Mexica power, and influence over Cortes with explicit or implicit uncertainty; enslavement sharply constrained the choices within which any agency operated. Part 3 cannot establish whether she manipulated, strategically shaped, or faithfully relayed negotiations, the Cholula warning, or Moctezuma's welcome. Part 4 reports her advice in a hostage scene whose wording and chronology are contested; it does not reveal her private judgment or make her the author of Cortes's coercion. Part 5 establishes her absence, not the counterfactual claim that she could have prevented the massacre; Part 6 records her survival but gives little detail about her actions during the retreat. The countdown's claim that conquest would have been far harder without her is plausible but not independently testable, and it must not erase the coalition's many Indigenous decision-makers. Her birth date, age, later death, degree of choice, and private relationships remain uncertain. Legal recognition and property should not be mistaken for freedom from the coercive structure of conquest.
 
 ## What Changed
 
 - Extended the profile to her reported origins, enslavement, transfer at Potonchan, and first coastal diplomacy.
 - Added the Nahuatl-Maya-Spanish interpretation chain and her later removal of Aguilar as the middle link.
 - Distinguished constrained political agency from unsupported certainty about vengeance, loyalty, or private motive.
+- Added the later comparative ranking while bounding its indispensability claim and rejecting “mistress” as an adequate account of enslavement and agency.
 
 ## Relationships
 

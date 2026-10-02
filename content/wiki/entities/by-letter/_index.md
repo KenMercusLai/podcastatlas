@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12052
+wiki_total_pages: 12059
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1649,6 +1649,9 @@ wiki_pages:
   - key: "ASML"
     title: "ASML / 阿斯麦"
     url: "/wiki/entities/asml/"
+  - key: "Aspasia"
+    title: "Aspasia"
+    url: "/wiki/entities/aspasia/"
   - key: "Assam"
     title: "Assam"
     url: "/wiki/entities/assam/"
