@@ -27618,3 +27618,11 @@ Added source `124-world-cup-of-kings-and-queens-part-2-glt4467647081`; created `
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | The Science of Gratitude & How to Build a Gratitude Practice
+
+Added source `scim2344094719-scim2344094719`; created `GratitudeNarrativePractice`; and resynthesized `SerotoninSocialWellbeingTools`, `InterpersonalSynchronyAndRapport`, and `AntonioDamasio` from their complete preserved evidence inventories. Core synthesis: sincere received gratitude or an emotionally credible helping narrative is presented as a stronger practice input than a decontextualized gratitude list, and a few stable story cues can support a brief repeated practice. No settled contradiction was adopted. The combined protocol was synthesized across studies rather than tested as one package, so dose, durability, list-practice inferiority, neural and inflammatory causality, serotonin mediation, supplement effects, and clinical outcomes remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,451-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

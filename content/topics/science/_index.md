@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1404
+topic_total_pages: 1406
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -952,6 +952,9 @@ topic_concepts:
   - key: "GradualParentChildRelationship"
     title: "Gradual Parent-Child Relationship / 渐进式亲子关系"
     url: "/wiki/concepts/gradualparentchildrelationship/"
+  - key: "GratitudeNarrativePractice"
+    title: "Gratitude Narrative Practice"
+    url: "/wiki/concepts/gratitudenarrativepractice/"
   - key: "GreenParadox"
     title: "Green Paradox"
     url: "/wiki/concepts/greenparadox/"
@@ -4080,6 +4083,9 @@ topic_sources:
   - key: "the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763"
     title: "The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton"
     url: "/wiki/sources/the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763/"
+  - key: "scim2344094719-scim2344094719"
+    title: "The Science of Gratitude & How to Build a Gratitude Practice"
+    url: "/wiki/sources/scim2344094719-scim2344094719/"
   - key: "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890"
     title: "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight"
     url: "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Science of Gratitude & How to Build a Gratitude Practice](sources/scim2344094719-scim2344094719.md) — Huberman Lab episode distinguishing gratitude lists from sincere received or narratively witnessed gratitude and proposing a brief, source-scoped story-cue practice.
 - [124. World Cup of Kings and Queens part 2](sources/124-world-cup-of-kings-and-queens-part-2-glt4467647081.md) — The Rest Is History tournament comparing warrior, transformative, survivalist, foundational, and constitutional models of monarchical success.
 - [125. The CIA](sources/125-the-cia-glt6232412389.md) — The Rest Is History with Hugh Wilford on CIA origins, intelligence versus covert action, intervention, blowback, counterintelligence, culture, and myth.
 - [126. Napoleon in Egypt](sources/126-napoleon-in-egypt-glt3691914095.md) — The Rest Is History on Napoleon's failed Egyptian invasion, the Battle of the Nile, Egyptology, secular-imperial rhetoric, and colonial knowledge.
@@ -6751,7 +6752,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Caltech](entities/Caltech.md) — Institutional context for Ralph Adolphs' emotion-neuroscience research in the Huberman Lab episode.
 - [David Anderson](entities/DavidAnderson.md) — Collaborator reference for the functional emotion framework discussed by Ralph Adolphs.
 - [Da Vinci Surgical System](entities/DaVinciSurgicalSystem.md) — Surgical robotics example from the Fei-Fei Li episode, used to ground human-controlled medical robot collaboration.
-- [Antonio Damasio](entities/AntonioDamasio.md) — Decision-and-emotion reference used to show that emotion supports motivation and choice.
+- [Antonio Damasio](entities/AntonioDamasio.md) — Neuroscience reference connecting emotion to decision-making and narrative perspective-taking to gratitude-related activation.
 - [Paul Ekman](entities/PaulEkman.md) — Facial-expression research reference whose influence is acknowledged and qualified by the Adolphs episode.
 - [Patient SM](entities/PatientSM.md) — Amygdala-lesion research case used to distinguish fear perception, external-threat fear, and internal panic.
 - [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by medical imaging, liver health, oncology, orthopedics, outpatient diagnostic safety, urology, anesthesiology, otolaryngology, ophthalmology, rehabilitation, exercise safety, and consumer medical boundaries.
@@ -15528,6 +15529,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Gratitude Narrative Practice](concepts/GratitudeNarrativePractice.md) — Brief practice centered on sincere received gratitude or a resonant helping story rather than decontextualized appreciation lists.
 - [Contextual Monarchical Success](concepts/ContextualMonarchicalSuccess.md) — Role-relative comparison of rulers through political order, consequence, moral cost, cultural memory, and audience judgment.
 - [CIA Intelligence-Covert Action Tension](concepts/CIAIntelligenceCovertActionTension.md) — Institutional conflict between understanding foreign conditions and secretly trying to change them.
 - [Covert Action Blowback](concepts/CovertActionBlowback.md) — Delayed, displaced, or reciprocal harm arising from apparently successful hidden intervention.
@@ -16695,7 +16697,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Attention Foraging Model](concepts/AttentionForagingModel.md) — Model of focus and switching as allocation among information patches with competing expected returns.
 - [Social Value Accounting](concepts/SocialValueAccounting.md) — Hierarchy-sensitive account of social information value, reciprocity, and unequal exchange rates.
 - [Context-Dependent Social Hormone Effects](concepts/ContextDependentSocialHormoneEffects.md) — Context-first model of testosterone and oxytocin effects on risk, status, affiliation, vigilance, and hierarchy.
-- [Interpersonal Synchrony and Rapport](concepts/InterpersonalSynchronyAndRapport.md) — Bounded use of behavioral and physiological coordination as a signal of rapport and teamwork.
+- [Interpersonal Synchrony and Rapport](concepts/InterpersonalSynchronyAndRapport.md) — Bounded use of behavioral, physiological, and narrative coordination as a signal of rapport or repeatable state without assuming causation.
 - [Decision Speed-Accuracy Control](concepts/DecisionSpeedAccuracyControl.md) — Framework for matching evidence accumulation, arousal, fatigue, and decision ownership to task demands.
 - [Social Imitation in Market Bubbles](concepts/SocialImitationMarketBubbles.md) — Social-learning feedback in which copying can displace independent valuation and amplify shared error.
 - [Biological Rationality Mismatch](concepts/BiologicalRationalityMismatch.md) — Gap between evolved decision environments and modern information, market, food, and social demands.

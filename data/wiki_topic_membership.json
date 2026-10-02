@@ -37101,6 +37101,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GratitudeNarrativePractice": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "GraveOfTheFireflies": [
     {
       "key": "culture",
@@ -94970,6 +94977,13 @@
     }
   ],
   "scim1807559844-scim1807559844": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "scim2344094719-scim2344094719": [
     {
       "key": "science",
       "label": "Science",

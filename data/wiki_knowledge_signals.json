@@ -13598,9 +13598,9 @@
       "url": "/wiki/concepts/antonineplague/"
     },
     "AntonioDamasio": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -13608,9 +13608,16 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "SCIM2344094719 [SCIM2344094719].md",
+          "key": "scim2344094719-scim2344094719",
+          "show": "Huberman Lab",
+          "title": "The Science of Gratitude & How to Build a Gratitude Practice",
+          "url": "/wiki/sources/scim2344094719-scim2344094719/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/antoniodamasio/"
     },
     "AntonioDeOliveiraSalazar": {
@@ -81309,6 +81316,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/graphneuralnetworks/"
     },
+    "GratitudeNarrativePractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2344094719 [SCIM2344094719].md",
+          "key": "scim2344094719-scim2344094719",
+          "show": "Huberman Lab",
+          "title": "The Science of Gratitude & How to Build a Gratitude Practice",
+          "url": "/wiki/sources/scim2344094719-scim2344094719/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/gratitudenarrativepractice/"
+    },
     "GrayMarketPeptides": {
       "episode_count": 3,
       "show_count": 3,
@@ -100093,9 +100116,9 @@
       "url": "/wiki/concepts/interpersonalimageprojection/"
     },
     "InterpersonalSynchronyAndRapport": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM9606820714 [SCIM9606820714].md",
@@ -100117,6 +100140,13 @@
           "show": "Huberman Lab",
           "title": "Science of Social Bonding in Family, Friendship & Romantic Love",
           "url": "/wiki/sources/science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543/"
+        },
+        {
+          "episode_file": "SCIM2344094719 [SCIM2344094719].md",
+          "key": "scim2344094719-scim2344094719",
+          "show": "Huberman Lab",
+          "title": "The Science of Gratitude & How to Build a Gratitude Practice",
+          "url": "/wiki/sources/scim2344094719-scim2344094719/"
         }
       ],
       "updated": "2026-10-02",
@@ -173719,9 +173749,9 @@
       "url": "/wiki/concepts/seriousmentalillnessfamilycareboundary/"
     },
     "SerotoninSocialWellbeingTools": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -173736,9 +173766,16 @@
           "show": "Huberman Lab",
           "title": "Optimize & Control Your Brain Chemistry to Improve Health & Performance",
           "url": "/wiki/sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946/"
+        },
+        {
+          "episode_file": "SCIM2344094719 [SCIM2344094719].md",
+          "key": "scim2344094719-scim2344094719",
+          "show": "Huberman Lab",
+          "title": "The Science of Gratitude & How to Build a Gratitude Practice",
+          "url": "/wiki/sources/scim2344094719-scim2344094719/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/serotoninsocialwellbeingtools/"
     },
     "ServiceDeliveryDemocraticTrust": {
