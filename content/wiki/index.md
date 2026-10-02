@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [12 Days: Good King Wenceslas and the first Gilbert & Sullivan](sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286.md) — The Rest Is History on Wenceslas's charitable and national afterlife, Neale's carol, and Gilbert and Sullivan's lost first opera, Thespis.
 - [12 Days: Port wine and Darwin sets sail](sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478.md) — The Rest Is History on the Methuen Treaty's role in port's British market and the contingent, difficult departure of Darwin aboard HMS Beagle.
 - [The Biology of Slowing & Reversing Aging | Dr. David Sinclair](sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627.md) — Huberman Lab interview on epigenetic aging, fasting and adaptive stress, NAD and longevity compounds, biological-age measurement, and experimental rejuvenation boundaries.
 - [12 Days: Massacre of the Innocents and the Tay Bridge disaster](sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270.md) — The Rest Is History on Matthew's historically doubtful massacre narrative, Herod's reputation, the Tay Bridge collapse, and William McGonagall's comic-literary afterlife.
@@ -3494,6 +3495,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [Wenceslas of Bohemia](entities/WenceslasOfBohemia.md) — Tenth-century Bohemian duke remembered as a charitable saint, martyr, posthumous king, and Czech national protector.
+- [Boleslaus I of Bohemia](entities/BoleslausIOfBohemia.md) — Wenceslas's younger brother and successor, associated with the coup and killing behind the saint's martyr memory.
+- [John Mason Neale](entities/JohnMasonNeale.md) — Anglo-Catholic hymn writer who wrote the 1853 English lyrics of “Good King Wenceslas.”
+- [Good King Wenceslas](entities/GoodKingWenceslas.md) — Victorian carol joining a medieval ruler's charitable reputation to an older non-Christmas melody.
+- [Gilbert and Sullivan](entities/GilbertAndSullivan.md) — Victorian comic-opera partnership whose fantasy settings and role reversals supported durable institutional satire.
+- [Thespis, or The Gods Grown Old](entities/ThespisOpera.md) — Partly lost 1871 first Gilbert and Sullivan collaboration about actors incompetently replacing the Olympian gods.
 - [Charles Lyell](entities/CharlesLyell.md) — Geologist whose slow-change framework influenced Darwin's interpretation of natural history.
 - [John Methuen](entities/JohnMethuen.md) — English diplomat associated with the 1703 cloth-and-wine treaty with Portugal.
 - [Methuen Treaty](entities/MethuenTreaty.md) — 1703 Anglo-Portuguese agreement joining wartime alignment to cloth and wine preferences.

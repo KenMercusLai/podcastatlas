@@ -22978,6 +22978,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/bohaikingdomlatehan/"
     },
+    "BoleslausIOfBohemia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4255677286 [GLT4255677286].md",
+          "key": "12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286",
+          "show": "The Rest Is History",
+          "title": "12 Days: Good King Wenceslas and the first Gilbert & Sullivan",
+          "url": "/wiki/sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/boleslausiofbohemia/"
+    },
     "BollAndBranch": {
       "episode_count": 1,
       "show_count": 1,
@@ -44456,6 +44472,29 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/cyrusthegreat/"
+    },
+    "CzechRepublic": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "12.慢：当米兰·昆德拉一句正经没有 [549335675].md",
+          "key": "12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675",
+          "show": "蜜獾吃书",
+          "title": "12.慢：当米兰·昆德拉一句正经没有",
+          "url": "/wiki/sources/12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675/"
+        },
+        {
+          "episode_file": "GLT4255677286 [GLT4255677286].md",
+          "key": "12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286",
+          "show": "The Rest Is History",
+          "title": "12 Days: Good King Wenceslas and the first Gilbert & Sullivan",
+          "url": "/wiki/sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/czechrepublic/"
     },
     "DCFValuationAsNarrative": {
       "episode_count": 1,
@@ -78401,6 +78440,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/giftrefusalasauthority/"
     },
+    "GilbertAndSullivan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4255677286 [GLT4255677286].md",
+          "key": "12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286",
+          "show": "The Rest Is History",
+          "title": "12 Days: Good King Wenceslas and the first Gilbert & Sullivan",
+          "url": "/wiki/sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/gilbertandsullivan/"
+    },
     "GinaPoe": {
       "episode_count": 2,
       "show_count": 1,
@@ -79796,6 +79851,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/goodinside/"
+    },
+    "GoodKingWenceslas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4255677286 [GLT4255677286].md",
+          "key": "12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286",
+          "show": "The Rest Is History",
+          "title": "12 Days: Good King Wenceslas and the first Gilbert & Sullivan",
+          "url": "/wiki/sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/goodkingwenceslas/"
     },
     "GoodLifeAsHappyTogether": {
       "episode_count": 1,
@@ -105712,6 +105783,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/johnkruse/"
     },
+    "JohnMasonNeale": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4255677286 [GLT4255677286].md",
+          "key": "12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286",
+          "show": "The Rest Is History",
+          "title": "12 Days: Good King Wenceslas and the first Gilbert & Sullivan",
+          "url": "/wiki/sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/johnmasonneale/"
+    },
     "JohnMcCarthy": {
       "episode_count": 1,
       "show_count": 1,
@@ -127388,9 +127475,9 @@
       "url": "/wiki/entities/martinpinzon/"
     },
     "MartyrdomHistoricalMemory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4510547363 [GLT4510547363].md",
@@ -127398,6 +127485,13 @@
           "show": "The Rest Is History",
           "title": "12 Days: The Murder of Thomas Becket and the Wounded Knee Massacre",
           "url": "/wiki/sources/12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363/"
+        },
+        {
+          "episode_file": "GLT4255677286 [GLT4255677286].md",
+          "key": "12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286",
+          "show": "The Rest Is History",
+          "title": "12 Days: Good King Wenceslas and the first Gilbert & Sullivan",
+          "url": "/wiki/sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286/"
         }
       ],
       "updated": "2026-10-02",
@@ -168765,9 +168859,9 @@
       "url": "/wiki/entities/saintcolumba/"
     },
     "SaintLegendAccretion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5334319363 [GLT5334319363].md",
@@ -168782,6 +168876,13 @@
           "show": "The Rest Is History",
           "title": "164. Saint Patrick",
           "url": "/wiki/sources/164-saint-patrick-glt2665917893/"
+        },
+        {
+          "episode_file": "GLT4255677286 [GLT4255677286].md",
+          "key": "12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286",
+          "show": "The Rest Is History",
+          "title": "12 Days: Good King Wenceslas and the first Gilbert & Sullivan",
+          "url": "/wiki/sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286/"
         }
       ],
       "updated": "2026-10-02",
@@ -190278,6 +190379,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/theseus/"
     },
+    "ThespisOpera": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4255677286 [GLT4255677286].md",
+          "key": "12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286",
+          "show": "The Rest Is History",
+          "title": "12 Days: Good King Wenceslas and the first Gilbert & Sullivan",
+          "url": "/wiki/sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/thespisopera/"
+    },
     "ThinSoleSneakerRevival": {
       "episode_count": 2,
       "show_count": 2,
@@ -203606,6 +203723,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/wenxueasternhan/"
+    },
+    "WenceslasOfBohemia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4255677286 [GLT4255677286].md",
+          "key": "12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286",
+          "show": "The Rest Is History",
+          "title": "12 Days: Good King Wenceslas and the first Gilbert & Sullivan",
+          "url": "/wiki/sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/wenceslasofbohemia/"
     },
     "WendySuzuki": {
       "episode_count": 3,

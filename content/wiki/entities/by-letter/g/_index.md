@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 11931
+wiki_total_pages: 11937
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "GilLuria"
     title: "Gil Luria"
     url: "/wiki/entities/gilluria/"
+  - key: "GilbertAndSullivan"
+    title: "Gilbert and Sullivan"
+    url: "/wiki/entities/gilbertandsullivan/"
   - key: "GilbertGifford"
     title: "Gilbert Gifford"
     url: "/wiki/entities/gilbertgifford/"
@@ -638,6 +641,9 @@ wiki_pages:
   - key: "GoodInside"
     title: "Good Inside"
     url: "/wiki/entities/goodinside/"
+  - key: "GoodKingWenceslas"
+    title: "Good King Wenceslas"
+    url: "/wiki/entities/goodkingwenceslas/"
   - key: "GoodToGo"
     title: "Good To Go"
     url: "/wiki/entities/goodtogo/"

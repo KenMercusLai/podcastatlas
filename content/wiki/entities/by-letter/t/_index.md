@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 11931
+wiki_total_pages: 11937
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -626,6 +626,9 @@ wiki_pages:
   - key: "Theseus"
     title: "Theseus"
     url: "/wiki/entities/theseus/"
+  - key: "ThespisOpera"
+    title: "Thespis, or The Gods Grown Old"
+    url: "/wiki/entities/thespisopera/"
   - key: "ThibautLouisLucas"
     title: "Thibaut-Louis Lucas"
     url: "/wiki/entities/thibautlouislucas/"

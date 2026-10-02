@@ -27018,6 +27018,10 @@ Added source `170-the-falklands-war-the-task-force-sails-part-2-glt1917394924`; 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-02] ingest | 12 Days: Good King Wenceslas and the first Gilbert & Sullivan
+
+Added source `12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286`; created `WenceslasOfBohemia`, `BoleslausIOfBohemia`, `JohnMasonNeale`, `GoodKingWenceslas`, `GilbertAndSullivan`, and `ThespisOpera`; and resynthesized `CzechRepublic`, `SaintLegendAccretion`, and `MartyrdomHistoricalMemory` from their complete preserved evidence inventories. Core synthesis: a historical Bohemian duke's charity and violent death were layered into saintly kingship, a Victorian Christmas carol, and Czech national-protector legends, while Gilbert and Sullivan's partly lost first collaboration survives through role-reversal satire and the much larger reputation of their later partnership. No settled contradiction was adopted. Wenceslas's chronology and killer, Boleslaus's exact role, Otto's royal recognition, the tune's original setting, *Thespis* reception and score survival, and the interpretation of *The Mikado* remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,434-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
 ## [2026-10-02] ingest | 136. 1922: The Birth of the Modern World Part 1
 
 Added source `136-1922-the-birth-of-the-modern-world-part-1-glt1607440485`; created `JamesJoyce`, `TSEliot`, `LiteraryModernismPostwarFragmentation`, and `PostwarCrisisModernity1922`. Core synthesis: 1922 works best as an interpretive hinge rather than a literal origin, joining modernist difficulty and fragmented inheritance to Weimar violence and inflation, conservative enablement of Mussolini, Soviet formation, and fear-driven politics in a still-unsettled postwar order. No settled contradiction was adopted. Exchange rates, famine mortality, political motives, literary judgments, dialogue, and causal claims about Bolshevik fear remain episode-attributed or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,417-source coverage; no topic claim set was dirty and global compaction was not due.
@@ -27478,6 +27482,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] ingest | 12 Days: Port wine and Darwin sets sail
 
 Added source `12-days-port-wine-and-darwin-sets-sail-glt6423200478`; created `JohnMethuen`, `CharlesLyell`, `MethuenTreaty`, and `PortWine`; and resynthesized `CharlesDarwin`, `HMSBeagle`, `RobertFitzRoy`, `EvolutionaryTheoryFormation`, `BritishDrinkMarketFormation`, and `AngloPortugueseAlliance` from their complete preserved evidence inventories. Core synthesis: port's British identity emerged from Portuguese production, merchant contact, fortification, war, treaty preference, and social ritual, while Darwin's voyage was enabled by constrained career options, FitzRoy's need for a companion, family persuasion, Lyell's geology, and a hazardous delayed departure before later field evidence acquired evolutionary meaning. No settled contradiction was adopted. Duty and import figures, the Lamego story, port-house origins, ship dimensions and dates, private motives, the slavery quarrel, and Lyell's precise causal influence remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,433-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-02] lint | Wiki health check
 
