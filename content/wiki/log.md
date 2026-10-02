@@ -27451,3 +27451,10 @@ Added source `12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248`;
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-02] ingest | 12 Days: The Murder of Thomas Becket and the Wounded Knee Massacre
+
+Added source `12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363`; created `ThomasBecket` and `MartyrdomHistoricalMemory`; and resynthesized `HenryIIOfEngland`, `GhostDance`, and `WoundedKneeMassacre` from their complete preserved evidence inventories. Core synthesis: Becket's shift from royal servant to ecclesiastical opponent made Henry II's patronage strategy fail, while ambiguous royal rage became lethal through court action and Becket's posthumous cult compelled penance; Wounded Knee's encirclement, disarmament, civilian deaths, and likely friendly fire support the massacre classification, while later writing and activism converted it into a durable symbol without repairing material dispossession. No settled contradiction was adopted. Henry's exact words and intent, Becket's inward desire for martyrdom, Wovoka-to-Lakota transmission, casualty totals, and the cross-case martyrdom comparison remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,430-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

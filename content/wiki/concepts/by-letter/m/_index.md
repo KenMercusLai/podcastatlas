@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9252
+wiki_total_pages: 9253
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "MarshmallowTestContext"
     title: "Marshmallow Test Context"
     url: "/wiki/concepts/marshmallowtestcontext/"
+  - key: "MartyrdomHistoricalMemory"
+    title: "Martyrdom as Historical Memory"
+    url: "/wiki/concepts/martyrdomhistoricalmemory/"
   - key: "MartyrdomStaging"
     title: "Martyrdom Staging"
     url: "/wiki/concepts/martyrdomstaging/"

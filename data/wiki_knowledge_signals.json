@@ -78218,9 +78218,9 @@
       "url": "/wiki/entities/ghezo/"
     },
     "GhostDance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7996658277 [GLT7996658277].md",
@@ -78235,9 +78235,16 @@
           "show": "The Rest Is History",
           "title": "455. Fall of the Sioux: The Ghost Dance (Part 2)",
           "url": "/wiki/sources/455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118/"
+        },
+        {
+          "episode_file": "GLT4510547363 [GLT4510547363].md",
+          "key": "12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363",
+          "show": "The Rest Is History",
+          "title": "12 Days: The Murder of Thomas Becket and the Wounded Knee Massacre",
+          "url": "/wiki/sources/12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/ghostdance/"
     },
     "GhostOfTsushima": {
@@ -87173,9 +87180,9 @@
       "url": "/wiki/entities/henrygrey/"
     },
     "HenryIIOfEngland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3399401666 [GLT3399401666].md",
@@ -87190,9 +87197,16 @@
           "show": "The Rest Is History",
           "title": "336: Ireland: Celts, Conquest and Cromwell (Part 1)",
           "url": "/wiki/sources/336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699/"
+        },
+        {
+          "episode_file": "GLT4510547363 [GLT4510547363].md",
+          "key": "12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363",
+          "show": "The Rest Is History",
+          "title": "12 Days: The Murder of Thomas Becket and the Wounded Knee Massacre",
+          "url": "/wiki/sources/12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/henryiiofengland/"
     },
     "HenryIOfEngland": {
@@ -127243,6 +127257,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/martinpinzon/"
+    },
+    "MartyrdomHistoricalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4510547363 [GLT4510547363].md",
+          "key": "12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363",
+          "show": "The Rest Is History",
+          "title": "12 Days: The Murder of Thomas Becket and the Wounded Knee Massacre",
+          "url": "/wiki/sources/12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/martyrdomhistoricalmemory/"
     },
     "MartyrdomStaging": {
       "episode_count": 2,
@@ -190197,6 +190227,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/thomasarnold/"
     },
+    "ThomasBecket": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4510547363 [GLT4510547363].md",
+          "key": "12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363",
+          "show": "The Rest Is History",
+          "title": "12 Days: The Murder of Thomas Becket and the Wounded Knee Massacre",
+          "url": "/wiki/sources/12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/thomasbecket/"
+    },
     "ThomasCook": {
       "episode_count": 2,
       "show_count": 1,
@@ -205598,9 +205644,9 @@
       "url": "/wiki/concepts/woundcoveragereconstructionselection/"
     },
     "WoundedKneeMassacre": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7996658277 [GLT7996658277].md",
@@ -205608,9 +205654,16 @@
           "show": "The Rest Is History",
           "title": "456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)",
           "url": "/wiki/sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277/"
+        },
+        {
+          "episode_file": "GLT4510547363 [GLT4510547363].md",
+          "key": "12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363",
+          "show": "The Rest Is History",
+          "title": "12 Days: The Murder of Thomas Becket and the Wounded Knee Massacre",
+          "url": "/wiki/sources/12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/woundedkneemassacre/"
     },
     "Wovoka": {

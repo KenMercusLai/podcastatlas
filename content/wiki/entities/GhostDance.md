@@ -5,7 +5,8 @@ tags: [religion, lakota, native-american-history, social-movements]
 sources:
   - 456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277
   - 455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118
-last_updated: 2026-09-25
+  - 12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,9 +18,9 @@ The Ghost Dance was a Native religious renewal movement derived from [[Wovoka]]'
 
 ## Current Profile
 
-Wovoka's reported message emphasized peace, love, nonviolence, communal dancing, reunion with the dead, and renewal of Native life. Lakota emissaries carried it east under conditions of hunger, epidemic disease, drought, ration cuts, land loss, and reservation confinement. The promise of seeing dead relatives and the bison return made the movement a religious language for personal grief and civilizational catastrophe.
+Wovoka's reported message emphasized peace, love, nonviolence, communal dancing, reunion with the dead, and renewal of Native life. Lakota emissaries carried it east under conditions of hunger, epidemic disease, drought, ration cuts, land loss, reservation confinement, and pressure to abandon language, dress, and religion. The promise of seeing dead relatives and the bison return made the movement a religious language for personal grief and civilizational catastrophe.
 
-Transmission and local adaptation complicate any single doctrine. Ghost shirts, bulletproof claims, removal of settlers, visions, collapse, screaming, and speaking in tongues became associated with the reservation movement, but the sources do not assign all such claims directly to Wovoka. [[SittingBull]] participated without being established as its prophetic or military commander. [[SecurityCrisisAmplification]] nevertheless recast the movement as coordinated insurrection; after [[WoundedKneeMassacre|Wounded Knee]], suppression gave way to [[FrontierViolenceSpectacle]] when leaders joined Buffalo Bill's show.
+Transmission and local adaptation complicate any single doctrine. Ghost shirts, bulletproof claims, removal or destruction of settlers, visions, collapse, screaming, and speaking in tongues became associated with the reservation movement, but the sources do not assign all such claims directly to Wovoka. Comparison with Christian resurrection is plausible as an interpretive influence claim, not a complete genealogy of Native theology. [[SittingBull]] participated without being established as its prophetic or military commander. [[SecurityCrisisAmplification]] nevertheless recast the movement as coordinated insurrection; after [[WoundedKneeMassacre|Wounded Knee]], suppression gave way to [[FrontierViolenceSpectacle]] when leaders joined Buffalo Bill's show.
 
 ## Key Characteristics
 
@@ -35,6 +36,7 @@ Transmission and local adaptation complicate any single doctrine. Ghost shirts, 
 - Origin and teaching: [[455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118]] describes Wovoka, the eclipse vision, peace, dancing, the dead, renewal, and uncertain religious influences.
 - Lakota appeal and adaptation: [[455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118]] links the movement to hunger, disease, drought, confinement, grief, ghost shirts, and later militant claims.
 - Panic and attribution: [[455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118]] and [[456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277]] contrast press claims about Sitting Bull with the absence of a coordinated uprising under his command.
+- Compressed corroboration: [[12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363]] again joins cultural coercion, ration cuts, ecological collapse, resurrection hope, ghost shirts, and official insurgency fear while compressing distinctions among versions of the teaching.
 - Suppression and spectacle: [[456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277]] describes the movement's decline and the commutation of arrested dancers' sentences through participation in Buffalo Bill's show.
 
 ## Qualifications
@@ -44,13 +46,12 @@ Transmission and local adaptation complicate any single doctrine. Ghost shirts, 
 - Wovoka's message, emissary reports, Lakota adaptations, and later white accounts cannot be treated as one uncontested doctrine.
 - Motives attributed to individual participants, including Sitting Bull, remain interpretive.
 - The exact content of Kicking Bear's untranslated Glasgow speech is unknown.
+- The statement that restored earth would bury white settlers may describe a transmitted or localized version; it should not be attributed unqualifiedly to Wovoka's peaceful core message.
 
 ## What Changed
 
-- Added Wovoka's reported peaceful teaching and the emissary-transmission boundary.
-- Added communion with the dead and return of the bison as expressions of grief and renewal.
-- Connected the movement's appeal directly to hunger, disease, drought, ration cuts, and reservation coercion.
-- Distinguished local militant adaptations from proof of coordinated insurrection.
+- Added language, dress, and religious coercion to the movement's reservation context.
+- Sharpened the boundary between Christian-influence comparison, Wovoka's reported message, and localized militant transmission.
 
 ## Relationships
 
