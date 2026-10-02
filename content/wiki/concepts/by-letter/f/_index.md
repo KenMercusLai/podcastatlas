@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9323
+wiki_total_pages: 9324
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "February1974UKGeneralElection"
     title: "February 1974 UK General Election"
     url: "/wiki/concepts/february1974ukgeneralelection/"
+  - key: "FedFastedStateContinuum"
+    title: "Fed-Fasted State Continuum"
+    url: "/wiki/concepts/fedfastedstatecontinuum/"
   - key: "FederalAIPreemption"
     title: "Federal AI Preemption"
     url: "/wiki/concepts/federalaipreemption/"

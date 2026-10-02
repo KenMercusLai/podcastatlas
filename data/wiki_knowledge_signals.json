@@ -36341,9 +36341,9 @@
       "url": "/wiki/concepts/cinemaasnationalmemory/"
     },
     "CircadianEatingWindowAlignment": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM3664199211 [SCIM3664199211].md",
@@ -36365,6 +36365,13 @@
           "show": "Huberman Lab",
           "title": "Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar",
           "url": "/wiki/sources/scim9724505974-scim9724505974/"
+        },
+        {
+          "episode_file": "SCIM6513533538 [SCIM6513533538].md",
+          "key": "scim6513533538-scim6513533538",
+          "show": "Huberman Lab",
+          "title": "Effects of Fasting & Time Restricted Eating on Fat Loss & Health",
+          "url": "/wiki/sources/scim6513533538-scim6513533538/"
         }
       ],
       "updated": "2026-10-02",
@@ -68030,6 +68037,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/fedex/"
+    },
+    "FedFastedStateContinuum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6513533538 [SCIM6513533538].md",
+          "key": "scim6513533538-scim6513533538",
+          "show": "Huberman Lab",
+          "title": "Effects of Fasting & Time Restricted Eating on Fat Loss & Health",
+          "url": "/wiki/sources/scim6513533538-scim6513533538/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/fedfastedstatecontinuum/"
     },
     "FederalBureauOfInvestigation": {
       "episode_count": 1,

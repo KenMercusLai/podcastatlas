@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Effects of Fasting & Time Restricted Eating on Fat Loss & Health](sources/scim6513533538-scim6513533538.md) — Huberman Lab solo episode on circadian eating windows, energy balance, physiological fasting state, glucose tools, adherence, and hormone or fertility boundaries.
 - [107. Watergate: Part 2](sources/107-watergate-part-2-glt9677344742.md) — The Rest Is History on Nixon's cover-up, the tapes, institutional confrontation, resignation, Ford's pardon, and Watergate's accountability-and-trust legacy.
 - [108. The Industrial Revolution](sources/108-the-industrial-revolution-glt2130563458.md) — The Rest Is History with Emma Griffin on Britain's conjunctural industrial takeoff, scarcity and abundance, worker agency, unequal gains, gender, child labor, empire, and environmental cost.
 - [Nutrients for Brain Health & Performance](sources/scim8313693954-scim8313693954.md) — Huberman Lab solo episode on brain-supporting nutrients, taste and gut reward pathways, sweetener-pairing context, and learned food preference.
@@ -15591,6 +15592,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
 
 ## Concepts
+- [Fed-Fasted State Continuum](concepts/FedFastedStateContinuum.md) — Distinction between time since the last calorie and physiological state across digestion, glucose, insulin, activity, fuel use, and cellular signaling.
 - [Cover-Up Escalation](concepts/CoverUpEscalation.md) — Process by which concealment creates new liabilities, defections, evidence conflicts, and institutional confrontations beyond an initiating offense.
 - [Constitutional Accountability-Trust Paradox](concepts/ConstitutionalAccountabilityTrustParadox.md) — Tension in which successful constraint demonstrates institutional strength while revealed abuse reduces public trust.
 - [Industrial Revolution](concepts/IndustrialRevolution.md) — Conjunctural transformation joining fossil energy, mechanization, commerce, empire, finance, labor, state power, material abundance, unequal gains, and environmental damage.
