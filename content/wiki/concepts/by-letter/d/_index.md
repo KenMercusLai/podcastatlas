@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9314
+wiki_total_pages: 9317
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -734,6 +734,12 @@ wiki_pages:
   - key: "DinosaurAsLivingAnimal"
     title: "Dinosaur As Living Animal / 恐龙作为活着的动物"
     url: "/wiki/concepts/dinosauraslivinganimal/"
+  - key: "DinosaurScienceRevision"
+    title: "Dinosaur Science Revision"
+    url: "/wiki/concepts/dinosaursciencerevision/"
+  - key: "DinosaurCulturalMirror"
+    title: "Dinosaurs as a Cultural Mirror"
+    url: "/wiki/concepts/dinosaurculturalmirror/"
   - key: "DiocletianicMilitaryFiscalReconstruction"
     title: "Diocletianic Military-Fiscal Reconstruction"
     url: "/wiki/concepts/diocletianicmilitaryfiscalreconstruction/"

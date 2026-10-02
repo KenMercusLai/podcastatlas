@@ -27785,3 +27785,11 @@ Added source `scim8313693954-scim8313693954`; created `LearnedFoodPreferenceCond
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 109. Dinosaurs
+
+Added source `109-dinosaurs-glt4328792494`; created `MaryAnning`, `RichardOwen`, `DinosaurCulturalMirror`, `DinosaurScienceRevision`, and `MassExtinctionPlanetaryWarning`; and migrated and resynthesized `BirdDinosaurContinuity` from its complete preserved evidence inventory. Core synthesis: dinosaurs repeatedly became cultural mirrors for myth, industrial excavation, scientific institutions, national competition, visual technology, and extinction anxiety, while new anatomical, evolutionary, and geological evidence constrained and revised those images. No settled contradiction was adopted. Fossil origins for specific myths, body-temperature and pack-hunting claims, scientific personalities and motives, political readings of illustrations, and the humanity-as-asteroid analogy remain disputed, qualified, or source-scoped. Recurring host and show pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,472-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

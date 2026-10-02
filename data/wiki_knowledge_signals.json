@@ -22678,6 +22678,29 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/bipolarmaniahypomaniaspectrum/"
     },
+    "BirdDinosaurContinuity": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "146. 不爱侏罗纪世界？快来《恐龙庇护所》当饲养员！ [886472126].md",
+          "key": "146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126",
+          "show": "蜜獾吃书",
+          "title": "146. 不爱侏罗纪世界？快来《恐龙庇护所》当饲养员！",
+          "url": "/wiki/sources/146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126/"
+        },
+        {
+          "episode_file": "GLT4328792494 [GLT4328792494].md",
+          "key": "109-dinosaurs-glt4328792494",
+          "show": "The Rest Is History",
+          "title": "109. Dinosaurs",
+          "url": "/wiki/sources/109-dinosaurs-glt4328792494/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/birddinosaurcontinuity/"
+    },
     "Birdhouse": {
       "episode_count": 1,
       "show_count": 1,
@@ -51356,6 +51379,38 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/dingdongxiaoqu/"
+    },
+    "DinosaurCulturalMirror": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4328792494 [GLT4328792494].md",
+          "key": "109-dinosaurs-glt4328792494",
+          "show": "The Rest Is History",
+          "title": "109. Dinosaurs",
+          "url": "/wiki/sources/109-dinosaurs-glt4328792494/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/dinosaurculturalmirror/"
+    },
+    "DinosaurScienceRevision": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4328792494 [GLT4328792494].md",
+          "key": "109-dinosaurs-glt4328792494",
+          "show": "The Rest Is History",
+          "title": "109. Dinosaurs",
+          "url": "/wiki/sources/109-dinosaurs-glt4328792494/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/dinosaursciencerevision/"
     },
     "Diocletian": {
       "episode_count": 2,
@@ -129461,6 +129516,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/maryainsworth/"
     },
+    "MaryAnning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4328792494 [GLT4328792494].md",
+          "key": "109-dinosaurs-glt4328792494",
+          "show": "The Rest Is History",
+          "title": "109. Dinosaurs",
+          "url": "/wiki/sources/109-dinosaurs-glt4328792494/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/maryanning/"
+    },
     "MaryClaireHaver": {
       "episode_count": 1,
       "show_count": 1,
@@ -129804,6 +129875,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/massbroadcastculture/"
+    },
+    "MassExtinctionPlanetaryWarning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4328792494 [GLT4328792494].md",
+          "key": "109-dinosaurs-glt4328792494",
+          "show": "The Rest Is History",
+          "title": "109. Dinosaurs",
+          "url": "/wiki/sources/109-dinosaurs-glt4328792494/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/massextinctionplanetarywarning/"
     },
     "MassPoliticalCampaigning": {
       "episode_count": 2,
@@ -167671,6 +167758,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/richardofyork/"
+    },
+    "RichardOwen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4328792494 [GLT4328792494].md",
+          "key": "109-dinosaurs-glt4328792494",
+          "show": "The Rest Is History",
+          "title": "109. Dinosaurs",
+          "url": "/wiki/sources/109-dinosaurs-glt4328792494/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/richardowen/"
     },
     "RichardRoose": {
       "episode_count": 1,

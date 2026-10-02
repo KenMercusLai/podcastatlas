@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2981
+topic_total_pages: 2982
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1126,6 +1126,9 @@ topic_concepts:
   - key: "DignityBasedPersuasion"
     title: "Dignity-Based Persuasion / 尊严激将式说服"
     url: "/wiki/concepts/dignitybasedpersuasion/"
+  - key: "DinosaurCulturalMirror"
+    title: "Dinosaurs as a Cultural Mirror"
+    url: "/wiki/concepts/dinosaurculturalmirror/"
   - key: "DiplomaticNeglectEscalation"
     title: "Diplomatic Neglect Escalation"
     url: "/wiki/concepts/diplomaticneglectescalation/"
