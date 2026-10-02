@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Using Temperature to Optimize Performance, Brain & Body Health | Dr. Craig Heller](sources/scim6467660570-scim6467660570.md) — Huberman Lab interview on thermal limits, glabrous-skin heat exchange, targeted cooling and rewarming, exercise performance, sleep, and evidence boundaries.
 - [105. Classics](sources/105-classics-glt1093096549.md) — The Rest Is History with Mary Beard on classical reception, Roman political ambiguity, elite gatekeeping, moral critique, public access, and scholarly renewal.
 - [EP193-Bel Canto|对话美声歌唱家，听歌剧到底在听什么？](sources/ep193-bel-canto-duihua-meisheng-gechangjia-ting-geju-daodi-zai-ting-shenme-ckwrijifn4vdabaaaadrcjk0.md) — 无时差研究所 conversation on operatic training, arts-career formation, language, performance, audience access, and cross-cultural creation.
 - [106. Watergate: Part 1](sources/106-watergate-part-1-glt6675580126.md) — The Rest Is History on Nixon's outsider formation, the Pentagon Papers, plumbers, Gemstone, the DNC burglary, and the June 23 obstruction discussion.
@@ -3541,6 +3542,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar](sources/scim9724505974-scim9724505974.md) — Huberman Lab interview on melanopsin light sensing, circadian alignment, mood pathways, meal and exercise timing, and internal-time-aware travel adaptation.
 
 ## Entities
+- [Craig Heller](entities/CraigHeller.md) — Stanford thermal physiologist explaining glabrous heat transfer, exercise cooling, rewarming, and the limits of preliminary applications.
 - [Mary Beard](entities/MaryBeard.md) — Classicist interpreting Rome through reception history, moral ambivalence, political reuse, public access, and disciplinary renewal.
 - [乔妮妮 / Qiao Nini](entities/QiaoNini.md) — Soprano and doctoral student connecting vocal craft, language, acting, teaching, career constraints, and cross-cultural creation.
 - [Daniel Ellsberg](entities/DanielEllsberg.md) — Pentagon Papers source whose targeting connected Vietnam disclosure to the illegal methods preceding Watergate.

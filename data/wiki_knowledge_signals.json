@@ -43315,6 +43315,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/craftlaborbottleneck/"
     },
+    "CraigHeller": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6467660570 [SCIM6467660570].md",
+          "key": "scim6467660570-scim6467660570",
+          "show": "Huberman Lab",
+          "title": "Using Temperature to Optimize Performance, Brain & Body Health | Dr. Craig Heller",
+          "url": "/wiki/sources/scim6467660570-scim6467660570/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/craigheller/"
+    },
     "CraigKoniver": {
       "episode_count": 1,
       "show_count": 1,
@@ -64810,9 +64826,9 @@
       "url": "/wiki/concepts/exercisefatoxidationsequencing/"
     },
     "ExerciseHeatManagement": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3687301411 [SCIM3687301411].md",
@@ -64827,9 +64843,16 @@
           "show": "Huberman Lab",
           "title": "Using Deliberate Cold Exposure for Health and Performance",
           "url": "/wiki/sources/using-deliberate-cold-exposure-for-health-and-performance-scim1045909781/"
+        },
+        {
+          "episode_file": "SCIM6467660570 [SCIM6467660570].md",
+          "key": "scim6467660570-scim6467660570",
+          "show": "Huberman Lab",
+          "title": "Using Temperature to Optimize Performance, Brain & Body Health | Dr. Craig Heller",
+          "url": "/wiki/sources/scim6467660570-scim6467660570/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/exerciseheatmanagement/"
     },
     "ExerciseHydrationPerformanceBoundary": {
@@ -193916,9 +193939,9 @@
       "url": "/wiki/entities/theresamay/"
     },
     "ThermoregulationAndGlabrousHeatTransfer": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5583107634 [SCIM5583107634].md",
@@ -193933,9 +193956,16 @@
           "show": "Huberman Lab",
           "title": "Using Deliberate Cold Exposure for Health and Performance",
           "url": "/wiki/sources/using-deliberate-cold-exposure-for-health-and-performance-scim1045909781/"
+        },
+        {
+          "episode_file": "SCIM6467660570 [SCIM6467660570].md",
+          "key": "scim6467660570-scim6467660570",
+          "show": "Huberman Lab",
+          "title": "Using Temperature to Optimize Performance, Brain & Body Health | Dr. Craig Heller",
+          "url": "/wiki/sources/scim6467660570-scim6467660570/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/thermoregulationandglabrousheattransfer/"
     },
     "TheroigneDeMericourt": {

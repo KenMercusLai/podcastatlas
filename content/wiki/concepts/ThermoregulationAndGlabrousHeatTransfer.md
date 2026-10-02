@@ -5,7 +5,8 @@ tags: [thermoregulation, temperature, hypothalamus, glabrous-skin, safety]
 sources:
   - scim5583107634-scim5583107634
   - using-deliberate-cold-exposure-for-health-and-performance-scim1045909781
-last_updated: 2026-10-01
+  - scim6467660570-scim6467660570
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,12 +22,15 @@ Glabrous skin on the palms, soles, and upper face contains specialized vascular 
 
 The cold-exposure episode adds exercise and hyperthermia context. It distinguishes whole-body cold, which evokes compensatory heating and systemic stress, from moderate cooling of the palms, soles, or upper face, which is intended to remove heat while maintaining blood flow. Reported gains in continued work and faster return toward baseline temperature support the mechanism as a performance hypothesis, but the supplied note does not establish comparative effectiveness for emergency treatment or a universal cooling temperature.
 
+The Heller interview sharpens the distinction between thermal sensation and heat removal. Cooling the neck, torso, or broad skin can feel effective while cold signaling and vasoconstriction reduce flow through heat-loss pathways; local working-muscle heat can also become limiting before whole-body temperature reaches an emergency range. The same vascular portals can be used in the opposite direction for rewarming. These principles make measurement, blood flow, context, and escalation more important than maximizing cold or warmth.
+
 ## Key Claims
 - Skin and core temperatures are related signals, not interchangeable measurements.
 - The preoptic hypothalamus coordinates autonomic, motor, and behavioral temperature responses.
 - Heat discomfort and lethargy can function as protective outputs rather than mere failures of will.
 - Palms, soles, and the upper face can provide efficient heat-exchange routes because of their specialized circulation.
 - Maximum cold is not automatically maximum cooling because vasoconstriction can impede heat transfer.
+- Feeling cooler is not evidence that core temperature has fallen or that local muscle heat has been removed.
 - Rapid surface-based heating or cooling does not replace emergency assessment for dangerous core-temperature states.
 
 ## Evidence
@@ -36,13 +40,17 @@ The cold-exposure episode adds exercise and hyperthermia context. It distinguish
 - Emergency boundary - [[scim5583107634-scim5583107634]] cautions against over-cold materials that provoke vasoconstriction and treats severe hyperthermia, hypothermia, and high fever as potentially dangerous.
 - Exercise distinction - [[using-deliberate-cold-exposure-for-health-and-performance-scim1045909781]] separates compensatory responses to broad surface cooling from moderate glabrous-skin cooling intended to remove heat while preserving flow.
 - Performance and hyperthermia examples - [[using-deliberate-cold-exposure-for-health-and-performance-scim1045909781]] reports longer continued work and faster temperature recovery with glabrous cooling but omits enough methods to define general effect size or emergency-care superiority.
+- Sensation-versus-transfer distinction - [[scim6467660570-scim6467660570]] argues that neck or torso cooling can change perceived temperature and vascular responses without proving adequate core cooling.
+- Bidirectional application - [[scim6467660570-scim6467660570]] links palms, soles, and upper-face cooling with heat removal and hand or foot warming with rapid rewarming, while retaining both as context-dependent applications.
+- Local and systemic limits - [[scim6467660570-scim6467660570]] distinguishes heat trapped in contracting muscle from gradually rising whole-body temperature and gives cognitive impairment as a warning sign of dangerous systemic heat.
 
 ## Counterevidence & Qualifications
-The supplied notes do not provide complete comparative trials, effect sizes, measurement methods, or emergency-care protocols for glabrous-skin cooling or warming. Reported exercise-volume gains and hyperthermia examples do not establish what most people should expect or whether targeted cooling is superior to established emergency measures. Face, hand, or foot temperature is not a substitute for core assessment, and cooling recommendations differ by context, available equipment, exertional heat illness, cold injury, cardiovascular state, age, and consciousness. Severe confusion, collapse, seizure, loss of consciousness, or suspected heat stroke or hypothermia requires emergency care.
+The supplied notes do not provide complete comparative trials, effect sizes, measurement methods, or emergency-care protocols for glabrous-skin cooling or warming. The Heller episode's roughly twofold hyperthermia-cooling comparison and rapid postoperative rewarming example remain source-scoped rather than replacements for established emergency care. Reported exercise-volume gains do not establish what most people should expect. Face, hand, or foot temperature and subjective comfort are not substitutes for core assessment, and recommendations differ by equipment, exertional heat illness, cold injury, cardiovascular state, age, medication, and consciousness. Severe confusion, collapse, seizure, loss of consciousness, or suspected heat stroke or hypothermia requires emergency care.
 
 ## What Changed
 - Added the distinction between systemic cold stress and flow-preserving glabrous-skin heat removal.
-- Added exercise and induced-hyperthermia examples while keeping effect size and emergency superiority unresolved.
+- Added the distinction between subjective cooling and demonstrated removal of local or core heat.
+- Added bidirectional cooling and rewarming applications while keeping emergency superiority unresolved.
 
 ## Related Concepts
 - [[HeatExposureDoseAndSafety]] - deliberate exposure framework governed by the same protective control system.

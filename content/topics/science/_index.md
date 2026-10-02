@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1414
+topic_total_pages: 1415
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2582,6 +2582,9 @@ topic_entities:
   - key: "ConvectiveCapital"
     title: "Convective Capital"
     url: "/wiki/entities/convectivecapital/"
+  - key: "CraigHeller"
+    title: "Craig Heller"
+    url: "/wiki/entities/craigheller/"
   - key: "CTA102"
     title: "CTA-102"
     url: "/wiki/entities/cta102/"

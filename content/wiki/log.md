@@ -27849,3 +27849,11 @@ Added source `105-classics-glt1093096549`; created `MaryBeard`, `ClassicalRecept
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Using Temperature to Optimize Performance, Brain & Body Health | Dr. Craig Heller
+
+Added source `scim6467660570-scim6467660570`; created `CraigHeller`; and resynthesized `ThermoregulationAndGlabrousHeatTransfer` and `ExerciseHeatManagement` from their complete preserved evidence inventories. Core synthesis: local muscle heat, whole-body heat, and thermal sensation are distinct; palms, soles, and upper-face glabrous skin can exchange heat efficiently only while blood flow remains open; and moderate targeted cooling can increase acute thermal margin or work capacity without establishing universal performance effects or emergency-treatment superiority. No settled contradiction was adopted. Very large training changes, migraine, concussion, caffeine, barefoot-running, brown-fat, brain-freeze, and commercial-device implications remain source-scoped, anecdotal, or uncertain. Recurring host and show pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,480-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
