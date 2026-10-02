@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11991
+wiki_total_pages: 11992
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -962,6 +962,9 @@ wiki_pages:
   - key: "Dubai"
     title: "Dubai / 迪拜"
     url: "/wiki/entities/dubai/"
+  - key: "DuncanFrench"
+    title: "Duncan French"
+    url: "/wiki/entities/duncanfrench/"
   - key: "Dune"
     title: "Dune / 沙丘"
     url: "/wiki/entities/dune/"

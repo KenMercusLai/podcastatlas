@@ -27689,3 +27689,11 @@ Added source `118-end-of-the-first-world-war-remembrance-glt2743125909`; created
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French
+
+Added source `scim2965049301-scim2965049301`; created `DuncanFrench` and `AdaptationLedProgramming`; and resynthesized `UFC`, `StrengthHypertrophyProgramming`, and `MetabolicFlexibility` from their complete preserved evidence inventories. Core synthesis: training, recovery, fuel availability, arousal, cold, and heat should be selected and timed according to the target adaptation and phase, while excess volume or fatigue can degrade the defining quality of the work. No settled contradiction was adopted. The six-by-ten resistance protocol, acute hormonal mechanisms, targeted-carbohydrate strategy, cold timing, sauna progression, heat-acclimation timeline, ketone use after head trauma, and mental-fatigue mechanisms remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,460-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide scanner retains 19 unrelated pre-existing broken wikilinks.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

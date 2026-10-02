@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French](sources/scim2965049301-scim2965049301.md) — Huberman Lab interview on adaptation-led programming across resistance training, recovery, thermal stress, fuel selection, and mixed-martial-arts performance.
 - [117. Alexander the Great part 2](sources/117-alexander-the-great-part-2-glt9707946822.md) — The Rest Is History on Gaugamela, Achaemenid succession, eastern overextension, army resistance, source uncertainty, and Alexander's legendary afterlife.
 - [118. End of the First World War & Remembrance](sources/118-end-of-the-first-world-war-remembrance-glt2743125909.md) — The Rest Is History on equal war graves, the Cenotaph, two-minute silence, Unknown Warrior, poppy, veteran welfare, and the changing meanings of remembrance.
 - [119. World Cup of Kings & Queens preview](sources/119-world-cup-of-kings-queens-preview-glt7656399161.md) — The Rest Is History preview defining tournament eligibility and comparing fame, achievement, moral cost, sacred continuity, constitutional role, and audience preference.
@@ -3520,6 +3521,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 
 ## Entities
+- [Duncan French](entities/DuncanFrench.md) — Exercise physiologist and UFC performance leader organizing training, recovery, nutrition, and environmental stress around target adaptations.
 - [Darius III](entities/DariusIII.md) — Final Achaemenid king whose defeat and death allowed Alexander to claim succession as avenger and heir.
 - [Battle of Gaugamela](entities/BattleOfGaugamela.md) — Decisive 331 BC victory opening the Achaemenid imperial heartland to Alexander.
 - [The Cenotaph](entities/Cenotaph.md) — Abstract empty-tomb monument that became the civic center of British national remembrance.
@@ -11180,7 +11182,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [乐视体育 / LeSports](entities/LeSports.md) — Innovative Chinese sports-streaming business whose premium rights portfolio outran payment, advertising, conversion, and group-level financing capacity.
 - [PP体育 / PP Sports](entities/PPSports.md) — China sports-streaming rights case tied to high-priced Premier League rights and later market repricing.
 - [DAZN](entities/DAZN.md) — Sports-streaming comparison case for high-priced rights, long losses, and eventual recovery attempts.
-- [UFC](entities/UFC.md) — U.S. combat-sports rights case used as a top-rights inflation benchmark.
+- [UFC](entities/UFC.md) — Mixed-martial-arts organization represented through media rights, commercialization, and integrated athlete-performance infrastructure.
 - [中国足球超级联赛 / Chinese Super League](entities/ChineseSuperLeague.md) — Chinese top football league used as a sports-rights bubble, Evergrande legacy, and expansion-policy case.
 - [中国男子篮球职业联赛 / Chinese Basketball Association](entities/ChineseBasketballAssociation.md) — Chinese basketball league case for short-video rights and live-commerce monetization.
 - [Zydor Church](entities/ZydorChurch.md) — Oakland psychedelic church using mushrooms and DMT as sacrament while testing the boundary between religion, harm reduction, and federal drug law.
@@ -15552,6 +15554,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Adaptation-Led Programming](concepts/AdaptationLedProgramming.md) — Goal-first coordination of training, recovery, nutrition, environmental stress, and monitoring by adaptation and phase.
 - [Alexander's Imperial Succession Strategy](concepts/AlexanderImperialSuccessionStrategy.md) — Conquest-to-rule strategy combining Macedonian force with Persian elites, symbols, dynastic ties, and troops.
 - [Alexander Legend Formation](concepts/AlexanderLegendFormation.md) — Transformation of uncertain campaign history into Roman exemplarity, religious adaptation, romance, and contested greatness.
 - [First World War Remembrance](concepts/FirstWorldWarRemembrance.md) — Deliberately built and contested system joining equal graves, silence, monuments, representative burial, charity, and adaptable civic meaning.
@@ -24583,7 +24586,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Health-Coded Food Label Literacy / 健康概念食品标签识读](concepts/HealthCodedFoodLabelLiteracy.md) — Translates high-protein, low-GI, zero-fat, natural, and similar claims into whole-product, serving-size, use-context, and personal-relevance judgments.
 
 - [Endurance Training Modalities](concepts/EnduranceTrainingModalities.md) — Four-mode framework separating muscular, long-duration, anaerobic-interval, and high-intensity aerobic endurance training.
-- [Metabolic Flexibility](concepts/MetabolicFlexibility.md) — Capacity to use the fuel best matched to the current demand rather than maximizing fat or carbohydrate use universally.
+- [Metabolic Flexibility](concepts/MetabolicFlexibility.md) — Capacity to match carbohydrate and fat use and availability to current work demand and training phase.
 - [Breathing Gears and CO2 Tolerance](concepts/BreathingGearsCO2Tolerance.md) — Flexible nasal-to-mouth breathing framework for exercise pacing, recovery, mechanics, and controlled response to respiratory drive.
 - [Exercise Hydration Performance Boundary](concepts/ExerciseHydrationPerformanceBoundary.md) — Boundary around sweat loss, electrolytes, exercise-fluid heuristics, and supplement claims.
 - [Robot In-Context Learning / 机器人上下文学习](concepts/RobotInContextLearning.md) — Robot adaptation from demonstrations, corrections, body motion, attempts, and failures without retraining every new task offline.
@@ -24594,7 +24597,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vertical Integration for Data Cold Start](concepts/VerticalIntegrationForDataColdStart.md) — Temporary ownership of an operating layer to obtain initial model-training data before third-party adoption is sufficient.
 - [Drawdown Capital Allocation and Alignment](concepts/DrawdownCapitalAllocationAndAlignment.md) — Crisis response combining share repurchases with performance equity during a severe public-market decline.
 
-- [Strength and Hypertrophy Programming](concepts/StrengthHypertrophyProgramming.md) — Training framework connecting motor-unit recruitment to load, weekly volume, failure, movement speed, and rest.
+- [Strength and Hypertrophy Programming](concepts/StrengthHypertrophyProgramming.md) — Training framework coordinating recruitment, load, volume, metabolic stress, failure, speed, and rest by goal.
 - [Exercise Recovery Readiness](concepts/ExerciseRecoveryReadiness.md) — Multi-domain personal trends, soreness and adaptation boundaries, acute state shifts, and chronic workload or lifestyle recovery choices.
 - [Familiar Pain Relationship Pattern](concepts/FamiliarPainRelationshipPattern.md) — Tendency to mistake historically familiar attraction, deprivation, or conflict for present-day compatibility and safety.
 - [Relationship Conflict Repair](concepts/RelationshipConflictRepair.md) — Regulation, pause, perspective-taking, response choice, and return process for repairing interpersonal rupture.

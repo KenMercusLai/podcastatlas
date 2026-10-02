@@ -5805,6 +5805,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/adamipsmith/"
     },
+    "AdaptationLedProgramming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2965049301 [SCIM2965049301].md",
+          "key": "scim2965049301-scim2965049301",
+          "show": "Huberman Lab",
+          "title": "How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
+          "url": "/wiki/sources/scim2965049301-scim2965049301/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/adaptationledprogramming/"
+    },
     "AddedFreeSugarDistinction": {
       "episode_count": 2,
       "show_count": 2,
@@ -54782,6 +54798,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/dulldirtydangerousrobotics/"
+    },
+    "DuncanFrench": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2965049301 [SCIM2965049301].md",
+          "key": "scim2965049301-scim2965049301",
+          "show": "Huberman Lab",
+          "title": "How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
+          "url": "/wiki/sources/scim2965049301-scim2965049301/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/duncanfrench/"
     },
     "Dune": {
       "episode_count": 1,
@@ -132109,9 +132141,9 @@
       "url": "/wiki/concepts/metaboliccapacitymodel/"
     },
     "MetabolicFlexibility": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1818614492 [SCIM1818614492].md",
@@ -132119,9 +132151,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
+        },
+        {
+          "episode_file": "SCIM2965049301 [SCIM2965049301].md",
+          "key": "scim2965049301-scim2965049301",
+          "show": "Huberman Lab",
+          "title": "How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
+          "url": "/wiki/sources/scim2965049301-scim2965049301/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/metabolicflexibility/"
     },
     "MetabolicHealthBiomarkerContext": {
@@ -184749,9 +184788,9 @@
       "url": "/wiki/concepts/strengthfirstselfexamination/"
     },
     "StrengthHypertrophyProgramming": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -184794,6 +184833,13 @@
           "show": "Huberman Lab",
           "title": "How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
           "url": "/wiki/sources/how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856/"
+        },
+        {
+          "episode_file": "SCIM2965049301 [SCIM2965049301].md",
+          "key": "scim2965049301-scim2965049301",
+          "show": "Huberman Lab",
+          "title": "How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
+          "url": "/wiki/sources/scim2965049301-scim2965049301/"
         }
       ],
       "updated": "2026-10-02",
@@ -196949,6 +196995,36 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/ubtechrobotics/"
+    },
+    "UFC": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP238 2025年，你玩过怎样的“小众运动”？ [lpAW-keLa5vk6Avl_S11H_yexwLg].md",
+          "key": "ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg",
+          "show": "Talk三联",
+          "title": "EP238 2025年，你玩过怎样的“小众运动”？",
+          "url": "/wiki/sources/ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg/"
+        },
+        {
+          "episode_file": "E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意 [c3607c08-6eb6-48bd-8250-b41b5b8272e6].md",
+          "key": "e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6",
+          "show": "硅谷101",
+          "title": "E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意",
+          "url": "/wiki/sources/e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6/"
+        },
+        {
+          "episode_file": "SCIM2965049301 [SCIM2965049301].md",
+          "key": "scim2965049301-scim2965049301",
+          "show": "Huberman Lab",
+          "title": "How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
+          "url": "/wiki/sources/scim2965049301-scim2965049301/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/ufc/"
     },
     "UGG": {
       "episode_count": 2,
