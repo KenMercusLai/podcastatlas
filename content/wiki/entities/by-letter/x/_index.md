@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 12061
+wiki_total_pages: 12062
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "XiaoZhaoLihun"
     title: "小赵（《离婚》） / Xiao Zhao"
     url: "/wiki/entities/xiaozhaolihun/"
+  - key: "XiaoYuPhysicsTeacher"
+    title: "小雨 / Xiao Yu (physics teacher)"
+    url: "/wiki/entities/xiaoyuphysicsteacher/"
   - key: "XiaoyusanInsurance"
     title: "小雨伞"
     url: "/wiki/entities/xiaoyusaninsurance/"

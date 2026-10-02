@@ -29046,6 +29046,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "EducationResourceEqualizationSystemLimits": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "EducationSignalInflation": [
     {
       "key": "economics",
@@ -70651,6 +70658,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SchoolMentalHealthReferralBoundary": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "SchoolParentalRightsConflict": [
     {
       "key": "culture",
@@ -78365,12 +78379,26 @@
       "url": "/topics/culture/"
     }
   ],
+  "TeacherAdministrativeOverload": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TeacherAsFatherEthic": [
     {
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "TeacherEvaluationAndCareBurden": [
     {
       "key": "culture",
       "label": "Culture",
@@ -87270,6 +87298,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "XiaoYuPhysicsTeacher": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "XiaoZhaoLihun": [
     {
       "key": "culture",
@@ -93308,6 +93348,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw": [

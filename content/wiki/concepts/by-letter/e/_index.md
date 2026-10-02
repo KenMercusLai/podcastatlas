@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9369
+wiki_total_pages: 9373
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "EducationMotivationArchitecture"
     title: "Education Motivation Architecture"
     url: "/wiki/concepts/educationmotivationarchitecture/"
+  - key: "EducationResourceEqualizationSystemLimits"
+    title: "Education Resource Equalization System Limits / 教育资源均衡的系统边界"
+    url: "/wiki/concepts/educationresourceequalizationsystemlimits/"
   - key: "EducationSignalInflation"
     title: "Education Signal Inflation / 学历信号膨胀"
     url: "/wiki/concepts/educationsignalinflation/"

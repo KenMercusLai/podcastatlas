@@ -25311,6 +25311,10 @@
     "title": "Education Motivation Architecture",
     "url": "/wiki/concepts/educationmotivationarchitecture/"
   },
+  "EducationResourceEqualizationSystemLimits": {
+    "title": "Education Resource Equalization System Limits / 教育资源均衡的系统边界",
+    "url": "/wiki/concepts/educationresourceequalizationsystemlimits/"
+  },
   "EducationSignalInflation": {
     "title": "Education Signal Inflation / 学历信号膨胀",
     "url": "/wiki/concepts/educationsignalinflation/"
@@ -68539,6 +68543,10 @@
     "title": "School Meals as Education Access / 校餐作为教育入口",
     "url": "/wiki/concepts/schoolmealsaseducationaccess/"
   },
+  "SchoolMentalHealthReferralBoundary": {
+    "title": "School Mental-Health Referral Boundary / 学校心理健康转介边界",
+    "url": "/wiki/concepts/schoolmentalhealthreferralboundary/"
+  },
   "SchoolParentalRightsConflict": {
     "title": "School Parental-Rights Conflict",
     "url": "/wiki/concepts/schoolparentalrightsconflict/"
@@ -75691,9 +75699,17 @@
     "title": "Teacher AI Literacy",
     "url": "/wiki/concepts/teacherailiteracy/"
   },
+  "TeacherAdministrativeOverload": {
+    "title": "Teacher Administrative Overload / 教师事务性过载",
+    "url": "/wiki/concepts/teacheradministrativeoverload/"
+  },
   "TeacherAsFatherEthic": {
     "title": "一日为师终身为父伦理 / Teacher-as-Father Ethic",
     "url": "/wiki/concepts/teacherasfatherethic/"
+  },
+  "TeacherEvaluationAndCareBurden": {
+    "title": "Teacher Evaluation and Care Burden / 教师评价与照护负担",
+    "url": "/wiki/concepts/teacherevaluationandcareburden/"
   },
   "TeacherStudentCoFieldLearning": {
     "title": "Teacher-Student Co-Field Learning / 师生共同在场学习",
@@ -84167,6 +84183,10 @@
     "title": "小小跑 / XiaoXiaoPao",
     "url": "/wiki/entities/xiaoxiaopao/"
   },
+  "XiaoYuPhysicsTeacher": {
+    "title": "小雨 / Xiao Yu (physics teacher)",
+    "url": "/wiki/entities/xiaoyuphysicsteacher/"
+  },
   "XiaoZhaoLihun": {
     "title": "小赵（《离婚》） / Xiao Zhao",
     "url": "/wiki/entities/xiaozhaolihun/"
@@ -90534,6 +90554,10 @@
   "ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw": {
     "title": "EP18 都是黄泉预约客，保险买对心安乐",
     "url": "/wiki/sources/ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw/"
+  },
+  "ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3": {
+    "title": "EP188-教师节对话做题家养成师：当代做题界现状答疑",
+    "url": "/wiki/sources/ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3/"
   },
   "ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw": {
     "title": "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable",

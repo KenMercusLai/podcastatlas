@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1417
+topic_total_pages: 1418
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3407,6 +3407,9 @@ topic_entities:
   - key: "MengDoctorZheBing"
     title: "孟医生 / Meng Doctor (emergency medicine)"
     url: "/wiki/entities/mengdoctorzhebing/"
+  - key: "XiaoYuPhysicsTeacher"
+    title: "小雨 / Xiao Yu (physics teacher)"
+    url: "/wiki/entities/xiaoyuphysicsteacher/"
   - key: "CuiJiabin"
     title: "崔嘉宾 / Cui Jiabin"
     url: "/wiki/entities/cuijiabin/"

@@ -57194,6 +57194,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/educationmotivationarchitecture/"
     },
+    "EducationResourceEqualizationSystemLimits": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIasFCgeVABAAAADf6hi3 [CKwRIasFCgeVABAAAADf6hi3].md",
+          "key": "ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3",
+          "show": "无时差研究所",
+          "title": "EP188-教师节对话做题家养成师：当代做题界现状答疑",
+          "url": "/wiki/sources/ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/educationresourceequalizationsystemlimits/"
+    },
     "EdwardCarson": {
       "episode_count": 2,
       "show_count": 1,
@@ -175374,6 +175390,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/schoolmealsaseducationaccess/"
     },
+    "SchoolMentalHealthReferralBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIasFCgeVABAAAADf6hi3 [CKwRIasFCgeVABAAAADf6hi3].md",
+          "key": "ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3",
+          "show": "无时差研究所",
+          "title": "EP188-教师节对话做题家养成师：当代做题界现状答疑",
+          "url": "/wiki/sources/ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/schoolmentalhealthreferralboundary/"
+    },
     "SchoolParentalRightsConflict": {
       "episode_count": 1,
       "show_count": 1,
@@ -193061,6 +193093,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/teacheraiaugmentation/"
     },
+    "TeacherAdministrativeOverload": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIasFCgeVABAAAADf6hi3 [CKwRIasFCgeVABAAAADf6hi3].md",
+          "key": "ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3",
+          "show": "无时差研究所",
+          "title": "EP188-教师节对话做题家养成师：当代做题界现状答疑",
+          "url": "/wiki/sources/ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/teacheradministrativeoverload/"
+    },
     "TeacherAsFatherEthic": {
       "episode_count": 1,
       "show_count": 1,
@@ -193076,6 +193124,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/teacherasfatherethic/"
+    },
+    "TeacherEvaluationAndCareBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIasFCgeVABAAAADf6hi3 [CKwRIasFCgeVABAAAADf6hi3].md",
+          "key": "ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3",
+          "show": "无时差研究所",
+          "title": "EP188-教师节对话做题家养成师：当代做题界现状答疑",
+          "url": "/wiki/sources/ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/teacherevaluationandcareburden/"
     },
     "TeacherStudentCoFieldLearning": {
       "episode_count": 1,
@@ -212862,9 +212926,9 @@
       "url": "/wiki/entities/wurenzhixiao/"
     },
     "WushichaYanjiusuo": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -212935,9 +212999,16 @@
           "show": "无时差研究所",
           "title": "EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable",
           "url": "/wiki/sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw/"
+        },
+        {
+          "episode_file": "CKwRIasFCgeVABAAAADf6hi3 [CKwRIasFCgeVABAAAADf6hi3].md",
+          "key": "ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3",
+          "show": "无时差研究所",
+          "title": "EP188-教师节对话做题家养成师：当代做题界现状答疑",
+          "url": "/wiki/sources/ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/wushichayanjiusuo/"
     },
     "WusiSouthernXiongnu": {
@@ -214010,6 +214081,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/xiaoxianwesternhan/"
+    },
+    "XiaoYuPhysicsTeacher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIasFCgeVABAAAADf6hi3 [CKwRIasFCgeVABAAAADf6hi3].md",
+          "key": "ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3",
+          "show": "无时差研究所",
+          "title": "EP188-教师节对话做题家养成师：当代做题界现状答疑",
+          "url": "/wiki/sources/ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/xiaoyuphysicsteacher/"
     },
     "XiaochangNutritionGuest": {
       "episode_count": 4,

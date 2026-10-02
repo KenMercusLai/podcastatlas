@@ -28005,3 +28005,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | EP188-教师节对话做题家养成师：当代做题界现状答疑
+
+Added source `ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3`; created `XiaoYuPhysicsTeacher`, `TeacherEvaluationAndCareBurden`, `TeacherAdministrativeOverload`, `SchoolMentalHealthReferralBoundary`, and `EducationResourceEqualizationSystemLimits`; and resynthesized `WushichaYanjiusuo` from its complete preserved evidence inventory. Core synthesis: teaching combines visible score accountability with less measurable safety, pastoral, family-facing, and developmental work; serious student distress requires supported referral rather than teacher-as-clinician rescue; and teacher rotation, subject-choice reform, and “double reduction” can advance fairness only when staffing, incentives, school capacity, materials, family context, teacher time, and recovery are treated as one implementation system. No settled contradiction was adopted. Hiring competition, subject shortages, evaluation weights, family and student causal claims, ethnic-class outcomes, and reform effects remain local, historical, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,500-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the corpus-wide scan still reports 18 unrelated legacy broken links.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9369
+wiki_total_pages: 9373
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -230,12 +230,18 @@ wiki_pages:
   - key: "TeaTerroirAndCraft"
     title: "Tea Terroir and Craft / 茶叶风土与工艺"
     url: "/wiki/concepts/teaterroirandcraft/"
+  - key: "TeacherAdministrativeOverload"
+    title: "Teacher Administrative Overload / 教师事务性过载"
+    url: "/wiki/concepts/teacheradministrativeoverload/"
   - key: "TeacherAIAugmentation"
     title: "Teacher AI Augmentation"
     url: "/wiki/concepts/teacheraiaugmentation/"
   - key: "TeacherAILiteracy"
     title: "Teacher AI Literacy"
     url: "/wiki/concepts/teacherailiteracy/"
+  - key: "TeacherEvaluationAndCareBurden"
+    title: "Teacher Evaluation and Care Burden / 教师评价与照护负担"
+    url: "/wiki/concepts/teacherevaluationandcareburden/"
   - key: "TeacherStudentCoFieldLearning"
     title: "Teacher-Student Co-Field Learning / 师生共同在场学习"
     url: "/wiki/concepts/teacherstudentcofieldlearning/"

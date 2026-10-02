@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9369
+wiki_total_pages: 9373
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "SchoolMealsAsEducationAccess"
     title: "School Meals as Education Access / 校餐作为教育入口"
     url: "/wiki/concepts/schoolmealsaseducationaccess/"
+  - key: "SchoolMentalHealthReferralBoundary"
+    title: "School Mental-Health Referral Boundary / 学校心理健康转介边界"
+    url: "/wiki/concepts/schoolmentalhealthreferralboundary/"
   - key: "SchoolParentalRightsConflict"
     title: "School Parental-Rights Conflict"
     url: "/wiki/concepts/schoolparentalrightsconflict/"
