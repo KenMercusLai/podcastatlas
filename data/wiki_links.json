@@ -11575,6 +11575,10 @@
     "title": "Bioinformatics Domain Gap",
     "url": "/wiki/concepts/bioinformaticsdomaingap/"
   },
+  "BiologicalAgeMeasurementBoundary": {
+    "title": "Biological Age Measurement Boundary",
+    "url": "/wiki/concepts/biologicalagemeasurementboundary/"
+  },
   "BiologicalAgency": {
     "title": "Biological Agency / 生物能动性",
     "url": "/wiki/concepts/biologicalagency/"
@@ -21459,6 +21463,10 @@
     "title": "David Silver",
     "url": "/wiki/entities/davidsilver/"
   },
+  "DavidSinclair": {
+    "title": "David Sinclair",
+    "url": "/wiki/entities/davidsinclair/"
+  },
   "DavidSpiegel": {
     "title": "David Spiegel",
     "url": "/wiki/entities/davidspiegel/"
@@ -26238,6 +26246,10 @@
   "Epicurus": {
     "title": "Epicurus / 伊壁鸠鲁",
     "url": "/wiki/entities/epicurus/"
+  },
+  "EpigeneticAgingInformationTheory": {
+    "title": "Epigenetic Aging Information Theory",
+    "url": "/wiki/concepts/epigeneticaginginformationtheory/"
   },
   "EpigeneticReprogrammingBoundary": {
     "title": "Epigenetic Reprogramming Boundary",
@@ -92226,6 +92238,10 @@
   "the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481": {
     "title": "The Biology of Aggression, Mating, & Arousal | Dr. David Anderson",
     "url": "/wiki/sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481/"
+  },
+  "the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627": {
+    "title": "The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+    "url": "/wiki/sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627/"
   },
   "the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786": {
     "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",

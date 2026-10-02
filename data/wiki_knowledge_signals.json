@@ -21990,6 +21990,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/biocomputingethics/"
     },
+    "BiologicalAgeMeasurementBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1831113627 [SCIM1831113627].md",
+          "key": "the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627",
+          "show": "Huberman Lab",
+          "title": "The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+          "url": "/wiki/sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/biologicalagemeasurementboundary/"
+    },
     "BiologicalHarnessEngineering": {
       "episode_count": 1,
       "show_count": 1,
@@ -46723,6 +46739,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/davidsilver/"
     },
+    "DavidSinclair": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1831113627 [SCIM1831113627].md",
+          "key": "the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627",
+          "show": "Huberman Lab",
+          "title": "The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+          "url": "/wiki/sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/davidsinclair/"
+    },
     "DavidSpiegel": {
       "episode_count": 1,
       "show_count": 1,
@@ -61511,6 +61543,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/epicherohumanlimits/"
+    },
+    "EpigeneticAgingInformationTheory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1831113627 [SCIM1831113627].md",
+          "key": "the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627",
+          "show": "Huberman Lab",
+          "title": "The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+          "url": "/wiki/sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/epigeneticaginginformationtheory/"
     },
     "EpigeneticReprogrammingBoundary": {
       "episode_count": 3,
@@ -98747,9 +98795,9 @@
       "url": "/wiki/concepts/intermediaryroutegatekeeping/"
     },
     "IntermittentChallengeHormesis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7949990176 [SCIM7949990176].md",
@@ -98757,9 +98805,16 @@
           "show": "Huberman Lab",
           "title": "Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
           "url": "/wiki/sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176/"
+        },
+        {
+          "episode_file": "SCIM1831113627 [SCIM1831113627].md",
+          "key": "the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627",
+          "show": "Huberman Lab",
+          "title": "The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+          "url": "/wiki/sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/intermittentchallengehormesis/"
     },
     "IntermittentReinforcement": {
@@ -135924,9 +135979,9 @@
       "url": "/wiki/concepts/mythologyforengland/"
     },
     "NADTherapyEvidenceBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6125190274 [SCIM6125190274].md",
@@ -135948,9 +136003,16 @@
           "show": "Huberman Lab",
           "title": "AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) & How to Improve Memory",
           "url": "/wiki/sources/ama-12-thoughts-on-longevity-supplements-resveratrol-nr-nmn-etc-how-to-improve-memory-scim5764692205/"
+        },
+        {
+          "episode_file": "SCIM1831113627 [SCIM1831113627].md",
+          "key": "the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627",
+          "show": "Huberman Lab",
+          "title": "The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+          "url": "/wiki/sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/nadtherapyevidenceboundary/"
     },
     "NASA": {

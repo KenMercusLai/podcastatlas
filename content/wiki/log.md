@@ -27466,3 +27466,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | The Biology of Slowing & Reversing Aging | Dr. David Sinclair
+
+Added source `the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627`; created `DavidSinclair`, `EpigeneticAgingInformationTheory`, and `BiologicalAgeMeasurementBoundary`; and resynthesized `IntermittentChallengeHormesis` and `NADTherapyEvidenceBoundary` from their complete preserved evidence inventories. Core synthesis: Sinclair's information-loss theory, adaptive-stress model, longitudinal measurement approach, and mouse retinal-reprogramming work form a coherent research program, but pathway activity, personal protocols, unpublished observations, animal results, and biomarker changes do not establish safe human age reversal or longer life. The later Attia evidence review materially qualifies the episode's favorable resveratrol, NMN, NAD, metformin, and biological-age framing. Prescription drugs, prolonged fasting, iron and lipid interpretation, fertility, radiation choices, and supplement regimens remain source-scoped public education requiring individualized context. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,432-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

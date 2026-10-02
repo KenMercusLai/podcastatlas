@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Biology of Slowing & Reversing Aging | Dr. David Sinclair](sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627.md) — Huberman Lab interview on epigenetic aging, fasting and adaptive stress, NAD and longevity compounds, biological-age measurement, and experimental rejuvenation boundaries.
 - [12 Days: Massacre of the Innocents and the Tay Bridge disaster](sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270.md) — The Rest Is History on Matthew's historically doubtful massacre narrative, Herod's reputation, the Tay Bridge collapse, and William McGonagall's comic-literary afterlife.
 - [12 Days: The Murder of Thomas Becket and the Wounded Knee Massacre](sources/12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363.md) — The Rest Is History on Becket's murder and cult, Wounded Knee's coercive context, and the posthumous power of martyrdom and massacre memory.
 - [12 Days: The Battle of Wakefield and Emperor Karl I](sources/12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248.md) — The Rest Is History on Richard of York's death at Wakefield and Karl I's wartime coronation, reform efforts, imperial collapse, and failed restoration attempts.
@@ -3492,6 +3493,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [David Sinclair](entities/DavidSinclair.md) — Genetics and aging researcher presented through epigenetic information loss, adaptive-stress signaling, biological-age measurement, and experimental rejuvenation.
 - [William McGonagall](entities/WilliamMcGonagall.md) — Dundee weaver and self-appointed poet whose awkward Tay Bridge elegy became an enduring work of unintended comedy.
 - [Thomas Bouch](entities/ThomasBouch.md) — Victorian railway engineer whose celebrated Tay Bridge design became an institutional-failure and accountability case after the 1879 collapse.
 - [Thomas Becket](entities/ThomasBecket.md) — Henry II's former chancellor and Archbishop of Canterbury whose cathedral murder produced a powerful martyr cult and royal penance.
@@ -15459,6 +15461,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Biological Age Measurement Boundary](concepts/BiologicalAgeMeasurementBoundary.md) — Boundary separating longitudinal clock, biomarker, glucose, wearable, and personal-baseline signals from diagnosis or demonstrated longevity benefit.
+- [Epigenetic Aging Information Theory](concepts/EpigeneticAgingInformationTheory.md) — Sinclair's proposal that aging substantially reflects loss of regulatory information maintaining cell identity, bounded by measurement and translation limits.
 - [Tay Bridge Disaster](concepts/TayBridgeDisaster.md) — 1879 bridge collapse understood through wind exposure, design, construction economies, safety debt, professional authority, and cultural memory.
 - [Massacre of the Innocents](concepts/MassacreOfTheInnocents.md) — Matthew narrative whose Moses pattern and martyr afterlife remain meaningful despite weak historical corroboration.
 - [Martyrdom as Historical Memory](concepts/MartyrdomHistoricalMemory.md) — Process by which violent death or mass killing gains durable sacred, moral, and political authority through commemoration and delayed reckoning.

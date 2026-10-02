@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9255
+wiki_total_pages: 9257
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -770,6 +770,9 @@ wiki_pages:
   - key: "EpicModernAfterlife"
     title: "Epic Modern Afterlife"
     url: "/wiki/concepts/epicmodernafterlife/"
+  - key: "EpigeneticAgingInformationTheory"
+    title: "Epigenetic Aging Information Theory"
+    url: "/wiki/concepts/epigeneticaginginformationtheory/"
   - key: "EpigeneticReprogrammingBoundary"
     title: "Epigenetic Reprogramming Boundary"
     url: "/wiki/concepts/epigeneticreprogrammingboundary/"

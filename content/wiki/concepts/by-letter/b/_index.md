@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9255
+wiki_total_pages: 9257
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "BioinformaticsDomainGap"
     title: "Bioinformatics Domain Gap"
     url: "/wiki/concepts/bioinformaticsdomaingap/"
+  - key: "BiologicalAgeMeasurementBoundary"
+    title: "Biological Age Measurement Boundary"
+    url: "/wiki/concepts/biologicalagemeasurementboundary/"
   - key: "BiologicalAgency"
     title: "Biological Agency / 生物能动性"
     url: "/wiki/concepts/biologicalagency/"
