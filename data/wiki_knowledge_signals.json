@@ -7027,9 +7027,9 @@
       "url": "/wiki/concepts/affectivepolarization/"
     },
     "Afghanistan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "156.一个阿富汗女人的来信： 纸上的光，和出版背后的故事 [922362198].md",
@@ -7051,10 +7051,33 @@
           "show": "The Rest Is History",
           "title": "88. The First Anglo-Afghan War",
           "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        },
+        {
+          "episode_file": "GLT7464087190 [GLT7464087190].md",
+          "key": "87-afghanistan-part-1-glt7464087190",
+          "show": "The Rest Is History",
+          "title": "87. Afghanistan - Part 1",
+          "url": "/wiki/sources/87-afghanistan-part-1-glt7464087190/"
         }
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/afghanistan/"
+    },
+    "AfghanistanImperialCrossroads": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7464087190 [GLT7464087190].md",
+          "key": "87-afghanistan-part-1-glt7464087190",
+          "show": "The Rest Is History",
+          "title": "87. Afghanistan - Part 1",
+          "url": "/wiki/sources/87-afghanistan-part-1-glt7464087190/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/afghanistanimperialcrossroads/"
     },
     "AfonsoDeAlbuquerque": {
       "episode_count": 1,
@@ -7799,6 +7822,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/aguirreexpedition/"
+    },
+    "AhmadShahDurrani": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7464087190 [GLT7464087190].md",
+          "key": "87-afghanistan-part-1-glt7464087190",
+          "show": "The Rest Is History",
+          "title": "87. Afghanistan - Part 1",
+          "url": "/wiki/sources/87-afghanistan-part-1-glt7464087190/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/ahmadshahdurrani/"
     },
     "AhnPanSeok": {
       "episode_count": 1,
@@ -55936,6 +55975,38 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/duongvanminh/"
     },
+    "DurandLine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7464087190 [GLT7464087190].md",
+          "key": "87-afghanistan-part-1-glt7464087190",
+          "show": "The Rest Is History",
+          "title": "87. Afghanistan - Part 1",
+          "url": "/wiki/sources/87-afghanistan-part-1-glt7464087190/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/durandline/"
+    },
+    "DurraniEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7464087190 [GLT7464087190].md",
+          "key": "87-afghanistan-part-1-glt7464087190",
+          "show": "The Rest Is History",
+          "title": "87. Afghanistan - Part 1",
+          "url": "/wiki/sources/87-afghanistan-part-1-glt7464087190/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/durraniempire/"
+    },
     "DurringtonWalls": {
       "episode_count": 1,
       "show_count": 1,
@@ -72808,9 +72879,9 @@
       "url": "/wiki/concepts/foreignbackedmonarchylegitimacy/"
     },
     "ForeignBackedRulerLegitimacyTrap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5156371854 [GLT5156371854].md",
@@ -72818,6 +72889,13 @@
           "show": "The Rest Is History",
           "title": "88. The First Anglo-Afghan War",
           "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        },
+        {
+          "episode_file": "GLT7464087190 [GLT7464087190].md",
+          "key": "87-afghanistan-part-1-glt7464087190",
+          "show": "The Rest Is History",
+          "title": "87. Afghanistan - Part 1",
+          "url": "/wiki/sources/87-afghanistan-part-1-glt7464087190/"
         }
       ],
       "updated": "2026-10-03",
@@ -83328,9 +83406,9 @@
       "url": "/wiki/entities/greatfear1789/"
     },
     "GreatGame": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5156371854 [GLT5156371854].md",
@@ -83338,6 +83416,13 @@
           "show": "The Rest Is History",
           "title": "88. The First Anglo-Afghan War",
           "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        },
+        {
+          "episode_file": "GLT7464087190 [GLT7464087190].md",
+          "key": "87-afghanistan-part-1-glt7464087190",
+          "show": "The Rest Is History",
+          "title": "87. Afghanistan - Part 1",
+          "url": "/wiki/sources/87-afghanistan-part-1-glt7464087190/"
         }
       ],
       "updated": "2026-10-03",
@@ -145803,9 +145888,9 @@
       "url": "/wiki/concepts/occultpolitics/"
     },
     "OccupationCommandFailure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5156371854 [GLT5156371854].md",
@@ -145813,6 +145898,13 @@
           "show": "The Rest Is History",
           "title": "88. The First Anglo-Afghan War",
           "url": "/wiki/sources/88-the-first-anglo-afghan-war-glt5156371854/"
+        },
+        {
+          "episode_file": "GLT7464087190 [GLT7464087190].md",
+          "key": "87-afghanistan-part-1-glt7464087190",
+          "show": "The Rest Is History",
+          "title": "87. Afghanistan - Part 1",
+          "url": "/wiki/sources/87-afghanistan-part-1-glt7464087190/"
         }
       ],
       "updated": "2026-10-03",
@@ -185131,6 +185223,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/sovereigninfrastructureinterdependence/"
     },
+    "SovietAfghanWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7464087190 [GLT7464087190].md",
+          "key": "87-afghanistan-part-1-glt7464087190",
+          "show": "The Rest Is History",
+          "title": "87. Afghanistan - Part 1",
+          "url": "/wiki/sources/87-afghanistan-part-1-glt7464087190/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/sovietafghanwar/"
+    },
     "SovietUnion": {
       "episode_count": 10,
       "show_count": 3,
@@ -192847,6 +192955,29 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/talentvirtuedistinction/"
+    },
+    "Taliban": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Afghanistan, five years on： our correspondent visits [6a7ee547049c692a6b3ee0a9].md",
+          "key": "afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9",
+          "show": "Economist Podcasts",
+          "title": "Afghanistan, five years on: our correspondent visits",
+          "url": "/wiki/sources/afghanistan-five-years-on-our-correspondent-visits-6a7ee547049c692a6b3ee0a9/"
+        },
+        {
+          "episode_file": "GLT7464087190 [GLT7464087190].md",
+          "key": "87-afghanistan-part-1-glt7464087190",
+          "show": "The Rest Is History",
+          "title": "87. Afghanistan - Part 1",
+          "url": "/wiki/sources/87-afghanistan-part-1-glt7464087190/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/taliban/"
     },
     "Talleyrand": {
       "episode_count": 1,
@@ -208535,9 +208666,9 @@
       "url": "/wiki/entities/warofthegoldenstool/"
     },
     "WarOnTerrorOverreach": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8208243510 [GLT8208243510].md",
@@ -208545,6 +208676,13 @@
           "show": "The Rest Is History",
           "title": "95. 9/11",
           "url": "/wiki/sources/95-9-11-glt8208243510/"
+        },
+        {
+          "episode_file": "GLT7464087190 [GLT7464087190].md",
+          "key": "87-afghanistan-part-1-glt7464087190",
+          "show": "The Rest Is History",
+          "title": "87. Afghanistan - Part 1",
+          "url": "/wiki/sources/87-afghanistan-part-1-glt7464087190/"
         }
       ],
       "updated": "2026-10-03",

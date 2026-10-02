@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9386
+wiki_total_pages: 9389
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "AfghanWomenFirstPersonWriting"
     title: "Afghan Women First-Person Writing"
     url: "/wiki/concepts/afghanwomenfirstpersonwriting/"
+  - key: "AfghanistanImperialCrossroads"
+    title: "Afghanistan as an Imperial Crossroads"
+    url: "/wiki/concepts/afghanistanimperialcrossroads/"
   - key: "AfricaConnectivityInfrastructure"
     title: "Africa Connectivity Infrastructure"
     url: "/wiki/concepts/africaconnectivityinfrastructure/"

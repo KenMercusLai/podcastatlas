@@ -28068,3 +28068,11 @@ Added a The Rest Is History source page with William Dalrymple on Great Game thr
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 87. Afghanistan - Part 1
+
+Added source `87-afghanistan-part-1-glt7464087190`; created `AhmadShahDurrani`, `DurraniEmpire`, `AfghanistanImperialCrossroads`, `DurandLine`, and `SovietAfghanWar`; and resynthesized `Afghanistan`, `Taliban`, `GreatGame`, `ForeignBackedRulerLegitimacyTrap`, `OccupationCommandFailure`, and `WarOnTerrorOverreach` from their complete preserved evidence inventories. Core synthesis: Afghanistan is both a difficult mountain polity and a connected imperial crossroads; Durrani coalition-building and the Durand Line shaped later state and border politics; and Soviet and post-2001 interventions exposed recurring but non-identical gaps among city control, rural legitimacy, corruption, foreign dependence, and durable governance. No settled contradiction was adopted. Ethnic origin stories, artistic influence, religious-tolerance explanations, casualty and funding estimates, Taliban founding stories, and intervention counterfactuals remain compressed, disputed, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,508-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the corpus-wide scan still reports 18 unrelated legacy broken links.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

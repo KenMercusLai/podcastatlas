@@ -3351,6 +3351,10 @@
     "title": "86.打开一颗心：那美好的仗，我已经打过了",
     "url": "/wiki/sources/86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437/"
   },
+  "87-afghanistan-part-1-glt7464087190": {
+    "title": "87. Afghanistan - Part 1",
+    "url": "/wiki/sources/87-afghanistan-part-1-glt7464087190/"
+  },
   "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550": {
     "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
     "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
@@ -6067,6 +6071,10 @@
     "title": "Afghanistan",
     "url": "/wiki/entities/afghanistan/"
   },
+  "AfghanistanImperialCrossroads": {
+    "title": "Afghanistan as an Imperial Crossroads",
+    "url": "/wiki/concepts/afghanistanimperialcrossroads/"
+  },
   "AfonsoDeAlbuquerque": {
     "title": "Afonso de Albuquerque",
     "url": "/wiki/entities/afonsodealbuquerque/"
@@ -6418,6 +6426,10 @@
   "AhmadAlSharah": {
     "title": "Ahmad al-Sharah",
     "url": "/wiki/entities/ahmadalsharah/"
+  },
+  "AhmadShahDurrani": {
+    "title": "Ahmad Shah Durrani",
+    "url": "/wiki/entities/ahmadshahdurrani/"
   },
   "AhnPanSeok": {
     "title": "安盼熙 / Ahn Pan-seok",
@@ -24694,6 +24706,14 @@
   "Duoshan": {
     "title": "Duoshan",
     "url": "/wiki/entities/duoshan/"
+  },
+  "DurandLine": {
+    "title": "Durand Line",
+    "url": "/wiki/concepts/durandline/"
+  },
+  "DurraniEmpire": {
+    "title": "Durrani Empire",
+    "url": "/wiki/entities/durraniempire/"
   },
   "DurringtonWalls": {
     "title": "Durrington Walls",
@@ -72238,6 +72258,10 @@
   "SovereignOilFundGovernance": {
     "title": "Sovereign Oil Fund Governance",
     "url": "/wiki/concepts/sovereignoilfundgovernance/"
+  },
+  "SovietAfghanWar": {
+    "title": "Soviet-Afghan War",
+    "url": "/wiki/concepts/sovietafghanwar/"
   },
   "SovietUnion": {
     "title": "Soviet Union",

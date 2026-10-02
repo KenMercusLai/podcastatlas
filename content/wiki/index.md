@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [87. Afghanistan - Part 1](sources/87-afghanistan-part-1-glt7464087190.md) — The Rest Is History survey of Afghanistan as an imperial crossroads, Durrani state formation, the Durand Line, the Soviet war, Taliban origins, and intervention limits.
 - [88. The First Anglo-Afghan War](sources/88-the-first-anglo-afghan-war-glt5156371854.md) — The Rest Is History with William Dalrymple on Great Game anxiety, regime change, occupation collapse, the 1842 Kabul retreat, and modern Afghan legitimacy parallels.
 - [89. Climate & Weather](sources/89-climate-weather-glt6521438447.md) — The Rest Is History countdown on climate and weather acting through settlement, food, war, revolution, culture, transport, forecasting, and political legitimacy.
 - [Understanding & Conquering Depression](sources/scim8966572027-scim8966572027.md) — Early Huberman Lab solo episode on major depression as a multisystem disorder, clinical assessment boundaries, inflammation and plasticity, and evidence-bounded treatment options.
@@ -3569,6 +3570,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247.md) — Huberman Lab interview on psychedelic classes, clinical protocols, self-representation, integration, microdosing evidence, persistent perceptual symptoms, risks, and regulation.
 
 ## Entities
+- [Ahmad Shah Durrani](entities/AhmadShahDurrani.md) — Pashtun ruler whose coalition-building after 1747 founded the Durrani Empire and helped shape the later Afghan state.
+- [Durrani Empire](entities/DurraniEmpire.md) — Eighteenth-century Pashtun-led polity bridging earlier regional empires and modern Afghan state formation.
 - [First Anglo-Afghan War](entities/FirstAngloAfghanWar.md) — 1839-1842 regime-change intervention ending in occupation collapse, the Kabul retreat, and Dost Muhammad's restoration.
 - [William Dalrymple](entities/WilliamDalrymple.md) — Historian linking the First Anglo-Afghan War to imperial anxiety, Afghan legitimacy, and qualified modern parallels.
 - [Dost Muhammad](entities/DostMuhammad.md) — Afghan ruler displaced by British intervention and restored after its failure.
@@ -9536,7 +9539,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Letitia James](entities/LetitiaJames.md) — New York attorney general arguing that Kalshi violated state gambling law by operating without a gambling license.
 - [New York State](entities/NewYorkState.md) — State jurisdiction at the center of the CFTC-Kalshi prediction-market federalism dispute.
 - [Tom Sass](entities/TomSass.md) — The Intelligence correspondent reporting from Afghanistan on Taliban control, poverty, women's restrictions, aid cuts, and Western engagement.
-- [Taliban](entities/Taliban.md) — Afghan governing movement whose hardline rule is described as combining lower visible violence with ideological policing and gender exclusion.
+- [Taliban](entities/Taliban.md) — Afghan movement formed through modern war and rural insurgency whose current hardline rule combines lower visible violence with ideological policing and gender exclusion.
 - [Hibatullah Akhundzada](entities/HibatullahAkhundzada.md) — Taliban amir whose Kandahar-based hardline consolidation anchors the Afghanistan segment.
 - [Nirmal Purja](entities/NirmalPurja.md) — Nepali mountaineer remembered for Project Possible, rescue claims, and contested high-altitude methods.
 - [Project Possible](entities/ProjectPossible.md) — Nirmal Purja's project to climb all fourteen 8,000-metre peaks as quickly as possible.
@@ -13372,7 +13375,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [有光](entities/YouguangPublishing.md) — Publishing brand that brought 《一个阿富汗女人的来信》 to Chinese readers and coordinated author support, translation, production, and sales.
 - [洪蔚琳](entities/HongWeilin.md) — Journalist whose 正面连接 article introduced 哈迪亚·海达里's story and became the route through which the editor contacted the author.
 - [正面连接](entities/ZhengmianLianjie.md) — Media/reporting context for the article that led from Afghan women's testimony to the later Chinese book project.
-- [Afghanistan](entities/Afghanistan.md) — Country context for the episode's discussion of war, regime change, women's education, public restriction, and daily coercion.
+- [Afghanistan](entities/Afghanistan.md) — Imperial crossroads and modern state shaped by Durrani formation, contested borders, foreign intervention, Taliban rule, and lived civilian experience.
 - [奥尔罕·帕慕克 / Orhan Pamuk](entities/OrhanPamuk.md) — Turkish novelist whose 《我的名字叫红》 lets 蜜獾吃书 connect murder mystery, miniature painting, cultural identity, and narrative perspective.
 - [《我的名字叫红》 / My Name Is Red](entities/MyNameIsRed.md) — Orhan Pamuk novel discussed as a murder mystery built from Ottoman miniature art, portrait pressure, memory, style, and Shekure's worldly survival.
 - [Sajith Wickramasekara](entities/SajithWickramasekara.md) — Benchling co-founder and CEO whose YC offsite episode defines founder mode as ownership, customer proximity, standards, and faster executive-fit judgment.
@@ -15692,7 +15695,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
 
 ## Concepts
-- [Great Game](concepts/GreatGame.md) — Imperial rivalry understood as a feedback system of intelligence, travel, rumor, and threat perception.
+- [Afghanistan as an Imperial Crossroads](concepts/AfghanistanImperialCrossroads.md) — Framework replacing a timeless graveyard myth with connection, incorporation, cultural exchange, resistance, and outward state formation.
+- [Durand Line](concepts/DurandLine.md) — Colonial boundary dividing Pashtun populations and shaping later Afghanistan-Pakistan politics.
+- [Soviet-Afghan War](concepts/SovietAfghanWar.md) — Conflict linking communist state crisis, Soviet intervention, internationalized insurgency, civil war, and later Taliban formation.
+- [Great Game](concepts/GreatGame.md) — Imperial rivalry operating through intelligence, threat perception, diplomatic control, intervention, and border-making around Afghan agency.
 - [Imperial Threat Perception Feedback](concepts/ImperialThreatPerceptionFeedback.md) — Escalation loop in which defensive reconnaissance and counteraction make each rival's fear appear confirmed.
 - [Foreign-Backed Ruler Legitimacy Trap](concepts/ForeignBackedRulerLegitimacyTrap.md) — Political bind where outside force secures office while making rule appear imposed or dependent.
 - [Occupation Command Failure](concepts/OccupationCommandFailure.md) — Compound breakdown across basing, logistics, divided authority, timing, and political complacency.

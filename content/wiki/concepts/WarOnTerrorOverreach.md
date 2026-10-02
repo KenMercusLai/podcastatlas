@@ -4,6 +4,7 @@ type: concept
 tags: [war-on-terror, foreign-policy, human-rights, legitimacy, united-states]
 sources:
   - 95-9-11-glt8208243510
+  - 87-afghanistan-part-1-glt7464087190
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -20,6 +21,8 @@ War on terror overreach is the expansion of a defensible security response into 
 
 The concept joins strategic and moral self-undermining. A response can remove regimes and degrade violent organizations while still fulfilling part of an attacker's provocation strategy by exhausting resources, widening conflict, and damaging legitimacy. The episode's claim that [[China]] benefited is best treated as an indirect opportunity-cost argument, not proof that 9/11 caused China's rise.
 
+The Afghanistan-centered account adds an important qualification. The hosts call the post-2001 intervention an imperial venture combining strategic interest with moral idealism and judge its result a failure, but do not claim that withdrawal timing or every alternative was obvious. Overreach here includes the gap between the scale of the transformative mission and the local legitimacy, rural control, and institutional capacity available to sustain it [[87-afghanistan-part-1-glt7464087190]].
+
 ## Key Claims
 
 - Defining terrorism as open-ended war expands the range and duration of permissible state action.
@@ -28,6 +31,7 @@ The concept joins strategic and moral self-undermining. A response can remove re
 - Military capacity can produce mission expansion when leaders treat universal values as a mandate to remake other societies.
 - Overreach can help an attacker strategically even when the attacker's own movement and wider religious reputation also suffer.
 - Opportunity costs can benefit third powers without making them authors or sole winners of the conflict.
+- Moral purpose does not remove the imperial power relationship created by prolonged foreign occupation.
 
 ## Evidence
 
@@ -43,14 +47,19 @@ The concept joins strategic and moral self-undermining. A response can remove re
 
 - [[95-9-11-glt8208243510]] argues that American expenditure and distraction indirectly benefited China while failing to produce a comparable benefit for militant Islam.
 
+### Afghanistan mission limits
+
+- [[87-afghanistan-part-1-glt7464087190]] links city-centered control, corruption perceptions, foreign dependence, and Taliban rural durability to the intervention's failure.
+
 ## Counterevidence & Qualifications
 
-The source acknowledges that leaving Saddam Hussein in power was not a simple or harmless alternative, and it does not claim that every post-9/11 security measure was unnecessary. It offers no full counterfactual, casualty audit, fiscal model, or comparison of policy alternatives. Afghanistan, Iraq, domestic counterterrorism, intelligence reform, and later campaigns should not be collapsed into one undifferentiated judgment.
+The sources do not claim that every post-9/11 security measure was unnecessary or that Afghanistan had one obvious policy counterfactual. They offer no full casualty audit, fiscal model, or systematic comparison of staying, withdrawing, limiting objectives, or changing the political settlement. Afghanistan, Iraq, domestic counterterrorism, intelligence reform, and later campaigns should not be collapsed into one undifferentiated judgment.
 
 ## What Changed
 
 - Established a framework separating initial security response from later expansion and self-undermining methods.
 - Qualified the China-beneficiary claim as indirect opportunity cost rather than single-cause history.
+- Added mission-state mismatch and foreign-backed legitimacy as Afghanistan-specific forms of overreach.
 
 ## Related Concepts
 
@@ -58,3 +67,6 @@ The source acknowledges that leaving Saddam Hussein in power was not a simple or
 - [[ReligiousMoralFramingOfUSForeignPolicy]] - mission language that can authorize action while raising standards the action may violate.
 - [[RivalUniversalistProjects]] - competing global missions behind the episode's interpretation.
 - [[TerrorAsGlobalMediaSpectacle]] - attack mechanism whose political force depended partly on the scale of reaction.
+- [[ForeignBackedRulerLegitimacyTrap]] - mechanism through which occupation can weaken the government it supports.
+- [[OccupationCommandFailure]] - operational and political gap between military presence and durable control.
+- [[SovietAfghanWar]] - earlier intervention used as a qualified comparison rather than a deterministic template.

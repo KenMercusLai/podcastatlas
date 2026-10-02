@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9386
+wiki_total_pages: 9389
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1178,6 +1178,9 @@ wiki_pages:
   - key: "DunningKrugerEffect"
     title: "Dunning-Kruger Effect"
     url: "/wiki/concepts/dunningkrugereffect/"
+  - key: "DurandLine"
+    title: "Durand Line"
+    url: "/wiki/concepts/durandline/"
   - key: "DutchDisease"
     title: "Dutch Disease"
     url: "/wiki/concepts/dutchdisease/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9386
+wiki_total_pages: 9389
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1364,6 +1364,9 @@ wiki_pages:
   - key: "SovietUrbanActiveDefense"
     title: "Soviet Urban Active Defence"
     url: "/wiki/concepts/sovieturbanactivedefense/"
+  - key: "SovietAfghanWar"
+    title: "Soviet-Afghan War"
+    url: "/wiki/concepts/sovietafghanwar/"
   - key: "SpaceBasedAIInfrastructure"
     title: "Space Based AI Infrastructure"
     url: "/wiki/concepts/spacebasedaiinfrastructure/"

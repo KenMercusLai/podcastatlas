@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12079
+wiki_total_pages: 12081
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "AhmadAlSharah"
     title: "Ahmad al-Sharah"
     url: "/wiki/entities/ahmadalsharah/"
+  - key: "AhmadShahDurrani"
+    title: "Ahmad Shah Durrani"
+    url: "/wiki/entities/ahmadshahdurrani/"
   - key: "AIAndDemocracyFoundation"
     title: "AI and Democracy Foundation"
     url: "/wiki/entities/aianddemocracyfoundation/"

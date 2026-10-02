@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12079
+wiki_total_pages: 12081
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "Duoshan"
     title: "Duoshan"
     url: "/wiki/entities/duoshan/"
+  - key: "DurraniEmpire"
+    title: "Durrani Empire"
+    url: "/wiki/entities/durraniempire/"
   - key: "DurringtonWalls"
     title: "Durrington Walls"
     url: "/wiki/entities/durringtonwalls/"
