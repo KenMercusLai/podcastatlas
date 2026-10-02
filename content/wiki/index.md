@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [119. World Cup of Kings & Queens preview](sources/119-world-cup-of-kings-queens-preview-glt7656399161.md) — The Rest Is History preview defining tournament eligibility and comparing fame, achievement, moral cost, sacred continuity, constitutional role, and audience preference.
 - [120. The Oil Weapon](sources/120-the-oil-weapon-glt6620754143.md) — The Rest Is History on the 1973 oil crisis, producer leverage, Western dependence, Britain's three-day week, conservation, and the end of easy abundance.
 - [Time Perception & Entrainment by Dopamine, Serotonin & Hormones](sources/scim2746317304-scim2746317304.md) — Huberman Lab episode on biological entrainment, neurochemical state, present and remembered duration, work rhythms, and flexible temporal landmarks.
 - [121. Australia Before Cook](sources/121-australia-before-cook-glt2957294549.md) — The Rest Is History with David Hunt on Aboriginal deep time, oral traditions, Makassan exchange, pre-Cook contact, discovery myths, and contingent British settlement.

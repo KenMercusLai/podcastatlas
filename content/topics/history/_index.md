@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2396
+topic_total_pages: 2397
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4803,6 +4803,9 @@ topic_sources:
   - key: "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095"
     title: "112. 闲聊金庸第一弹：明教竟然今天还存在？"
     url: "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+  - key: "119-world-cup-of-kings-queens-preview-glt7656399161"
+    title: "119. World Cup of Kings & Queens preview"
+    url: "/wiki/sources/119-world-cup-of-kings-queens-preview-glt7656399161/"
   - key: "12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618"
     title: "12 Days: Alfred the Great and Pepys' 'Fanatiques'"
     url: "/wiki/sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618/"

@@ -27669,3 +27669,11 @@ Added source `120-the-oil-weapon-glt6620754143`; created `KingFaisal` and `OilCr
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 119. World Cup of Kings & Queens preview
+
+Added source `119-world-cup-of-kings-queens-preview-glt7656399161`; resynthesized `ContextualMonarchicalSuccess` from its complete preserved evidence inventory; and extended `Athelstan` and `OliverCromwell` without changing their established judgments. Core synthesis: the preview makes monarchical comparison explicitly criteria-dependent before voting begins, with eligibility, seeding, host framing, fame, achievement, moral cost, sacred continuity, and constitutional role all shaping the field. No settled contradiction was adopted. The Athelstan-Alfred boundary is a unified-realm tournament rubric, Cromwell's inclusion is constitutional analogy rather than formal kingship, and predictions remain audience-specific. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,457-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

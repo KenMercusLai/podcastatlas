@@ -6,6 +6,7 @@ sources:
   - 124-world-cup-of-kings-and-queens-part-2-glt4467647081
   - 123-world-cup-of-kings-and-queens-part-1-glt3062961015
   - 122-athelstan-englands-greatest-monarch-glt8211065813
+  - 119-world-cup-of-kings-queens-preview-glt7656399161
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,7 @@ Contextual monarchical success is the principle that a ruler's effectiveness mus
 
 ## Current Synthesis
 
-The two tournament episodes turn a knockout competition into a comparative test of monarchy. The first-round cases add administration, legal reform, fiscal reconstruction, conquest-to-consolidation, crusading glamour, quasi-monarchical protection, imperial spectacle, and constitutional dullness. The later rounds add martial command, religious transformation, political survival, foundational state change, and constitutional restraint.
+The tournament preview and two voting episodes turn a knockout competition into a comparative test of monarchy. Before voting, the preview names celebrity, achievement, charisma, fame, solidity, longevity, military flair, and sacred continuity as competing standards; its seeds and qualifiers also show that recognizability and host preference shape the field before any reign is assessed. The first-round cases then add administration, legal reform, fiscal reconstruction, conquest-to-consolidation, crusading glamour, quasi-monarchical protection, imperial spectacle, and constitutional dullness. The later rounds add martial command, religious transformation, political survival, foundational state change, and constitutional restraint.
 
 The comparison separates effectiveness from moral approval. Conquest, coercion, religious persecution, slavery-linked interests, foreign dependence, and long-run military failure can qualify rulers whose charisma or consequences remain historically important. Conversely, political caution or apparent dullness can become a virtue when the office requires neutrality rather than personal rule.
 
@@ -38,6 +39,7 @@ The dedicated Athelstan episode shows why recovery can change the comparison. It
 
 ## Evidence
 
+- Pre-vote criteria and field construction - [[119-world-cup-of-kings-queens-preview-glt7656399161]] shows that fame, achievement, charisma, longevity, military flair, moral liability, and recognizability influence eligibility, seeding, and predictions before listeners vote.
 - Role-relative standards - [[124-world-cup-of-kings-and-queens-part-2-glt4467647081]] contrasts Henry V's proactive warrior ideal with Elizabeth II's politically cautious constitutional role.
 - Effectiveness versus affection - [[123-world-cup-of-kings-and-queens-part-1-glt3062961015]] contrasts Edward I's capacity, Henry VII's stabilization, Cnut's consolidation, Richard I's glamour, Cromwell's contested effectiveness, Victoria's imperial image, and George V's useful dullness.
 - Consequence and moral cost - [[124-world-cup-of-kings-and-queens-part-2-glt4467647081]] treats Henry VIII's religious transformation and William's foundational conquest as important without making violence a virtue.
@@ -48,7 +50,7 @@ The dedicated Athelstan episode shows why recovery can change the comparison. It
 
 ## Counterevidence & Qualifications
 
-The concept does not make every ruler successful on self-chosen terms or prevent cross-period moral judgment. Contemporary expectations were divided, and the tournament compresses complex reigns into a comic knockout format. The dedicated Athelstan episode adds evidence but remains a sympathetic podcast reconstruction built from a thin record. Listener voting cannot isolate achievement from entertainment, identity, nostalgia, obscurity preference, recent popular culture, or the hosts' framing. The framework is therefore useful for exposing criteria, not for producing an objective league table.
+The concept does not make every ruler successful on self-chosen terms or prevent cross-period moral judgment. Contemporary expectations were divided, and the tournament compresses complex reigns into a comic knockout format. Its preview also shows that the hosts shape eligibility, seeds, pairings, and expectations before listeners vote. The dedicated Athelstan episode adds evidence but remains a sympathetic podcast reconstruction built from a thin record. Listener voting cannot isolate achievement from entertainment, identity, nostalgia, obscurity preference, recent popular culture, or the hosts' framing. The framework is therefore useful for exposing criteria, not for producing an objective league table.
 
 ## What Changed
 
@@ -56,6 +58,7 @@ The concept does not make every ruler successful on self-chosen terms or prevent
 - Created the concept from the episode's explicit contrast between warrior, transformative, survivalist, foundational, and constitutional models of monarchy.
 - Added audience composition and cultural afterlife as parts of comparative judgment rather than treating reputation as a direct measure of reign quality.
 - Added first-round negative cases showing why effectiveness, stabilization, glamour, and constitutional restraint diverge from affection.
+- Added the preview's evidence that criteria, eligibility, seeding, and host framing shape the comparison before audience voting begins.
 
 ## Related Concepts
 

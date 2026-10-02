@@ -15713,9 +15713,9 @@
       "url": "/wiki/entities/atang/"
     },
     "Athelstan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -15751,6 +15751,13 @@
           "show": "The Rest Is History",
           "title": "122. Athelstan: England's Greatest Monarch",
           "url": "/wiki/sources/122-athelstan-englands-greatest-monarch-glt8211065813/"
+        },
+        {
+          "episode_file": "GLT7656399161 [GLT7656399161].md",
+          "key": "119-world-cup-of-kings-queens-preview-glt7656399161",
+          "show": "The Rest Is History",
+          "title": "119. World Cup of Kings & Queens preview",
+          "url": "/wiki/sources/119-world-cup-of-kings-queens-preview-glt7656399161/"
         }
       ],
       "updated": "2026-10-02",
@@ -41510,9 +41517,9 @@
       "url": "/wiki/concepts/contextualexplanationwithoutexoneration/"
     },
     "ContextualMonarchicalSuccess": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4467647081 [GLT4467647081].md",
@@ -41534,6 +41541,13 @@
           "show": "The Rest Is History",
           "title": "122. Athelstan: England's Greatest Monarch",
           "url": "/wiki/sources/122-athelstan-englands-greatest-monarch-glt8211065813/"
+        },
+        {
+          "episode_file": "GLT7656399161 [GLT7656399161].md",
+          "key": "119-world-cup-of-kings-queens-preview-glt7656399161",
+          "show": "The Rest Is History",
+          "title": "119. World Cup of Kings & Queens preview",
+          "url": "/wiki/sources/119-world-cup-of-kings-queens-preview-glt7656399161/"
         }
       ],
       "updated": "2026-10-02",
@@ -144008,9 +144022,9 @@
       "url": "/wiki/entities/olivercarroll/"
     },
     "OliverCromwell": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT6280042699 [GLT6280042699].md",
@@ -144039,9 +144053,16 @@
           "show": "The Rest Is History",
           "title": "123. World Cup of Kings and Queens part 1",
           "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
+        },
+        {
+          "episode_file": "GLT7656399161 [GLT7656399161].md",
+          "key": "119-world-cup-of-kings-queens-preview-glt7656399161",
+          "show": "The Rest Is History",
+          "title": "119. World Cup of Kings & Queens preview",
+          "url": "/wiki/sources/119-world-cup-of-kings-queens-preview-glt7656399161/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/olivercromwell/"
     },
     "OliverNorth": {

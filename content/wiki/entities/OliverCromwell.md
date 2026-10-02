@@ -7,8 +7,9 @@ sources:
   - 333-the-republic-of-britain-life-under-cromwell-glt3360112790
   - 328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855
   - 123-world-cup-of-kings-and-queens-part-1-glt3062961015
+  - 119-world-cup-of-kings-queens-preview-glt7656399161
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-28
+last_updated: 2026-10-02
 ---
 
 # Oliver Cromwell
@@ -25,7 +26,7 @@ Cromwell arrived with about 12,000 troops and oversaw notorious violence at Drog
 
 The republic episode broadens the profile. Cromwell was a senior army figure but not yet the sole architect of the regicide settlement, and he even voted to retain the House of Lords. Later parliamentary dissolutions, heavy taxation, worship control, and providential interpretation concentrated authority in his hands while leaving army–Parliament relations and succession unresolved. His 1657 investiture makes that unresolved form visible: robes, Bible, sceptre, sword, oath, heralds, and public acclamation created a quasi-coronation even though he remained Lord Protector. The sources credit sincerity rather than simple self-aggrandizement, but treat that sincerity as compatible with coercion, atrocity, institutional borrowing, and political failure.
 
-The tournament source captures the same ambiguity by calling Cromwell “king-shaped.” It credits effective government, international fear, and a comparatively sound position at his death, yet his first-round defeat by [[CharlesIIOfEngland|Charles II]] shows how Irish violence, royalist hostility, and uncertainty over whether a Protector belongs in a monarchical comparison keep his reputation divisive.
+The tournament preview deliberately admits Cromwell through the “king-shaped hole” left by abolished monarchy, citing royal-style coin imagery and a coronation-like installation without treating him as a formal king. The first-round episode then credits effective government, international fear, and a comparatively sound position at his death, yet his defeat by [[CharlesIIOfEngland|Charles II]] shows how Irish violence, royalist hostility, and uncertainty over whether a Protector belongs in a monarchical comparison keep his reputation divisive.
 
 ## Key Characteristics
 
@@ -44,12 +45,12 @@ The tournament source captures the same ambiguity by calling Cromwell “king-sh
 - Dispossession and memory: [[336-ireland-celts-conquest-and-cromwell-part-1-glt6280042699]] presents Cromwell as a lightning rod for a longer process of land transfer, transportation, and colonization; [[333-the-republic-of-britain-life-under-cromwell-glt3360112790]] adds surrendered people, civilians, and survey-enabled redistribution.
 - Rise and rule: [[333-the-republic-of-britain-life-under-cromwell-glt3360112790]] distinguishes Cromwell's limited initial position from his later dissolutions, taxation, worship control, and executive dominance.
 - Quasi-coronation: [[328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855]] describes the 1657 investiture through royal-style objects, oath, heralds, and acclamation while preserving the Protectoral title.
-- Comparative reputation: [[123-world-cup-of-kings-and-queens-part-1-glt3062961015]] treats Cromwell as effective and feared abroad but constitutionally ambiguous and sharply divided in Irish, royalist, and popular memory.
+- Comparative reputation: [[119-world-cup-of-kings-queens-preview-glt7656399161]] makes his eligibility a deliberately provocative “king-shaped hole” analogy, while [[123-world-cup-of-kings-and-queens-part-1-glt3062961015]] treats him as effective and feared abroad but constitutionally ambiguous and sharply divided in Irish, royalist, and popular memory.
 - Belief and succession: [[333-the-republic-of-britain-life-under-cromwell-glt3360112790]] connects providential interpretation to political weakness and traces the rapid collapse after [[RichardCromwell]] succeeded him.
 
 ## Qualifications
 
-The sources remain podcast-scale syntheses rather than a full biography or constitutional history. The Irish episode treats Cromwell's reputation as grounded in real violence while warning that personalizing the whole transformation around him can hide its longer institutional chronology. Judgments about sincerity, political ability, responsibility for regicide, international fear, the condition of the state at his death, divine discernment, and the Henry-versus-Richard succession counterfactual remain source-scoped. Coronation-like or “king-shaped” form does not prove that the Protectorate was simply monarchy restored or accepted as equivalent to kingship.
+The sources remain podcast-scale syntheses rather than a full biography or constitutional history. The Irish episode treats Cromwell's reputation as grounded in real violence while warning that personalizing the whole transformation around him can hide its longer institutional chronology. Judgments about sincerity, political ability, responsibility for regicide, international fear, the condition of the state at his death, divine discernment, and the Henry-versus-Richard succession counterfactual remain source-scoped. The preview acknowledges that controversy helped motivate Cromwell's inclusion; coronation-like or “king-shaped” form does not prove that the Protectorate was simply monarchy restored or accepted as equivalent to kingship.
 
 ## What Changed
 
