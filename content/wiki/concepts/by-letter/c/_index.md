@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9321
+wiki_total_pages: 9323
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1946,6 +1946,9 @@ wiki_pages:
   - key: "ConstituentNationSportingIdentity"
     title: "Constituent Nation Sporting Identity"
     url: "/wiki/concepts/constituentnationsportingidentity/"
+  - key: "ConstitutionalAccountabilityTrustParadox"
+    title: "Constitutional Accountability-Trust Paradox"
+    url: "/wiki/concepts/constitutionalaccountabilitytrustparadox/"
   - key: "ConstitutionalAfterlifeOfRevolution"
     title: "Constitutional Afterlife of Revolution"
     url: "/wiki/concepts/constitutionalafterlifeofrevolution/"
@@ -2327,6 +2330,9 @@ wiki_pages:
   - key: "CourtesyCoveredElimination"
     title: "Courtesy-Covered Elimination / 礼遇包装式清除"
     url: "/wiki/concepts/courtesycoveredelimination/"
+  - key: "CoverUpEscalation"
+    title: "Cover-Up Escalation"
+    url: "/wiki/concepts/coverupescalation/"
   - key: "CovertActionBlowback"
     title: "Covert Action Blowback"
     url: "/wiki/concepts/covertactionblowback/"

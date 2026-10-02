@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [107. Watergate: Part 2](sources/107-watergate-part-2-glt9677344742.md) — The Rest Is History on Nixon's cover-up, the tapes, institutional confrontation, resignation, Ford's pardon, and Watergate's accountability-and-trust legacy.
 - [108. The Industrial Revolution](sources/108-the-industrial-revolution-glt2130563458.md) — The Rest Is History with Emma Griffin on Britain's conjunctural industrial takeoff, scarcity and abundance, worker agency, unequal gains, gender, child labor, empire, and environmental cost.
 - [Nutrients for Brain Health & Performance](sources/scim8313693954-scim8313693954.md) — Huberman Lab solo episode on brain-supporting nutrients, taste and gut reward pathways, sweetener-pairing context, and learned food preference.
 - [109. Dinosaurs](sources/109-dinosaurs-glt4328792494.md) — The Rest Is History on fossils and myth, Victorian paleontology, American museum rivalry, dinosaur-science revision, bird ancestry, popular imagery, and extinction anxiety.
@@ -3536,6 +3537,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar](sources/scim9724505974-scim9724505974.md) — Huberman Lab interview on melanopsin light sensing, circadian alignment, mood pathways, meal and exercise timing, and internal-time-aware travel adaptation.
 
 ## Entities
+- [Watergate Scandal](entities/WatergateScandal.md) — Constitutional crisis in which burglary concealment, evidence resistance, and cross-party accountability forced Richard Nixon's resignation.
+- [John Dean](entities/JohnDean.md) — White House counsel who moved from Watergate cover-up participant to warning insider and cooperating witness.
 - [Emma Griffin](entities/EmmaGriffin.md) — Historian interpreting Britain's industrialisation through combined economic causes and uneven worker, gender, childhood, and environmental effects.
 - [Mary Anning](entities/MaryAnning.md) — Fossil pioneer whose marine discoveries and uneven recognition show how field skill, commerce, class, and gender shaped early paleontology.
 - [Richard Owen](entities/RichardOwen.md) — Paleontologist who coined Dinosauria and joined classification, museum building, Crystal Palace spectacle, scientific revision, and contested credit.
@@ -4066,7 +4069,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [罗路 / Luo Lu (plastic surgeon)](entities/LuoLuPlasticSurgeon.md) — Plastic-surgery clinician explaining breast reconstruction, tissue transfer, differential assessment, indication, expectation, and psychosocial care.
 - [张晶 / Zhang Jing (声东击西)](entities/ZhangJingShengdongJixi.md) — Journalist, 声东击西 co-founder, and content practitioner connecting reporting, long-form audio, platform feedback, AI summaries, and professional community.
 - [Henry Kissinger](entities/HenryKissinger.md) — U.S. diplomat balancing acceptance of South Vietnamese defeat against credibility, aid, bombing, and evacuation concerns.
-- [Gerald Ford](entities/GeraldFord.md) — U.S. president constrained by Watergate's aftermath, Congress, public opinion, and an impossible evacuation hierarchy.
+- [Gerald Ford](entities/GeraldFord.md) — U.S. president whose Nixon pardon and Vietnam choices joined institutional closure to severe political and operational constraint.
 - [Nguyễn Văn Thiệu](entities/NguyenVanThieu.md) — South Vietnamese president whose failed territorial withdrawal and partly credible betrayal charge shape the collapse account.
 - [Paris Peace Accords](entities/ParisPeaceAccords.md) — 1973 settlement that enabled U.S. withdrawal without producing durable peace or enforceable deterrence.
 - [Operation Babylift](entities/OperationBabylift.md) — Humanitarian child-evacuation effort whose fatal crash became a symbol of intervention failure.
@@ -14241,7 +14244,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《弹劾》 / Impeachment: A Citizen's Guide](entities/ImpeachmentBook.md) — Sunstein book used by the episode to define impeachment around office abuse, public trust, and constitutional order.
 - [Alexander Hamilton](entities/AlexanderHamilton.md) — Federalist state-builder, executive-power theorist, and fatal participant in the Hamilton-Burr duel.
 - [Andrew Johnson](entities/AndrewJohnson.md) — First impeached U.S. president, used as a historical case for legal charges amid wider constitutional-political conflict.
-- [Richard Nixon](entities/RichardNixon.md) — President used across impeachment, Fed-pressure, and 1970s diplomacy/investigation branches including the Lockheed bribery source.
+- [Richard Nixon](entities/RichardNixon.md) — Politically resilient U.S. president whose controlled style, institutional pressure, Watergate obstruction, and resignation define a mixed legacy.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
 - [Daniel Knowles](entities/DanielKnowles.md) — The Intelligence panelist warning that Supreme Court behavior and executive-power disputes show weakening U.S. constitutional guardrails.
 - [Rebecca Jackson](entities/RebeccaJackson.md) — The Intelligence panelist emphasizing representation erosion and historical memory conflicts in the America-at-250 episode.
@@ -15280,7 +15283,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [1968 United States Presidential Election](entities/UnitedStatesPresidentialElection1968.md) — Contest opened by Tet, McCarthy, and Johnson's withdrawal, then shaped by party crisis, disorder, racial signaling, Wallace, and campaign control.
 - [Hubert Humphrey](entities/HubertHumphrey.md) — Democratic nominee whose break with Johnson's bombing policy enabled a late but incomplete 1968 recovery.
 - [Spiro Agnew](entities/SpiroAgnew.md) — Nixon running mate selected to reinforce border-state and law-and-order appeal.
-- [H. R. Haldeman](entities/HRHaldeman.md) — Nixon loyalist linking personal campaign control, staged television, and racially calculated messaging.
+- [H. R. Haldeman](entities/HRHaldeman.md) — Nixon loyalist linking personal campaign control and racially calculated messaging to the Watergate inner circle.
 - [Anna Chennault](entities/AnnaChennault.md) — Campaign intermediary whose contact with South Vietnam is documented but whose decisive influence remains contested.
 - [George Wallace](entities/GeorgeWallace.md) — Alabama segregationist who nationalized anti-government and law-and-order grievance in a consequential 1968 third-party campaign.
 - [Lurleen Wallace](entities/LurleenWallace.md) — Alabama proxy governor whose election preserved George Wallace's control despite term limits.
@@ -15588,6 +15591,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
 
 ## Concepts
+- [Cover-Up Escalation](concepts/CoverUpEscalation.md) — Process by which concealment creates new liabilities, defections, evidence conflicts, and institutional confrontations beyond an initiating offense.
+- [Constitutional Accountability-Trust Paradox](concepts/ConstitutionalAccountabilityTrustParadox.md) — Tension in which successful constraint demonstrates institutional strength while revealed abuse reduces public trust.
 - [Industrial Revolution](concepts/IndustrialRevolution.md) — Conjunctural transformation joining fossil energy, mechanization, commerce, empire, finance, labor, state power, material abundance, unequal gains, and environmental damage.
 - [Dinosaurs as a Cultural Mirror](concepts/DinosaurCulturalMirror.md) — Framework for how fossil interpretation and dinosaur imagery reflect myth, industry, institutions, national power, visual technology, and extinction anxiety.
 - [Dinosaur Science Revision](concepts/DinosaurScienceRevision.md) — Cumulative correction of dinosaur classification, anatomy, physiology, ancestry, behavior, and extinction.
@@ -23765,7 +23770,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Presidential System](concepts/PresidentialSystem.md) — Executive-government design where a separately elected president gains stability and energy but requires exceptional correction mechanisms.
 - [Parliamentary System](concepts/ParliamentarySystem.md) — Government design where cabinets depend on legislative confidence, clarifying what U.S. impeachment is not.
 - [Separation Of Powers](concepts/SeparationOfPowers.md) — U.S. constitutional structure that makes impeachment a cross-branch emergency check rather than ordinary legislative removal.
-- [Presidential Impeachment](concepts/PresidentialImpeachment.md) — Constitutional process for removing or disqualifying a president when misconduct threatens public trust or constitutional order.
+- [Presidential Impeachment](concepts/PresidentialImpeachment.md) — Exceptional constitutional repair process whose credible advance can constrain or dislodge a president before final conviction.
 - [High Crimes And Misdemeanors](concepts/HighCrimesAndMisdemeanors.md) — Ambiguous impeachment standard centered on high office, public trust, abuse of power, and constitutional stakes.
 - [Twenty-Fifth Amendment](concepts/TwentyFifthAmendment.md) — Incapacity mechanism distinct from impeachment, allowing temporary or contested transfer of presidential power.
 - [Constitutional Robustness](concepts/ConstitutionalRobustness.md) — Idea that mature constitutional systems matter because they can correct, restart, and survive failure without routine collapse.

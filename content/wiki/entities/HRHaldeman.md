@@ -1,10 +1,11 @@
 ---
 title: "H. R. Haldeman"
 type: entity
-tags: [person, politics, campaigns, media]
+tags: [person, politics, campaigns, media, watergate]
 sources:
   - 513-america-in-68-nixons-great-comeback-part-6-glt3853956463
-last_updated: 2026-09-22
+  - 107-watergate-part-2-glt9677344742
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,37 +13,47 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-H. R. Haldeman appears as a California loyalist who helped place [[RichardNixon]]'s 1968 campaign under personal rather than conventional party control.
+H. R. Haldeman appears as a California loyalist who helped place [[RichardNixon]]'s campaign and White House under tight personal control before becoming part of the inner circle consumed by the [[WatergateScandal]].
 
 ## Current Profile
 
-Haldeman's episode role joins loyalty, message discipline, media management, and racial calculation. He promoted a television-first campaign in which Nixon appeared in staged question-and-answer settings, while his notes are used as evidence that apparently general law-and-order appeals also involved deliberate racial strategy.
+The 1968 episode joins Haldeman's loyalty to message discipline, media management, and racial calculation. He promoted a television-first campaign in which Nixon appeared in staged question-and-answer settings, while his surviving notes expose deliberate strategy beneath apparently general law-and-order appeals.
+
+The Watergate episode extends that controlled-loyalist structure into government. Haldeman took part in repeated meetings over how to contain the scandal and allocate blame, but Nixon ultimately removed him when protecting the presidency required sacrificing close aides. The source uses the emotionally distant farewell between the two men to illustrate both loyalty and the isolation produced by Nixon's management style.
 
 ## Key Characteristics
 
 - Personal Nixon loyalist rather than a representative of the traditional party apparatus.
-- Advocate of tightly managed television campaigning.
-- Worked with producer Roger Ailes on controlled voter-question formats.
+- Advocate of tightly managed television campaigning and message control.
 - Connected campaign discipline to Nixon's suspicion and preference for trusted insiders.
-- Left notes that expose racial calculation beneath public campaign ambiguity.
+- Left notes exposing racial calculation beneath public campaign ambiguity.
+- Participated in the senior-circle effort to contain Watergate and decide who would bear responsibility.
+- Was dismissed when Nixon tried to separate his own survival from the cover-up's collapse.
 
 ## Evidence
 
-- Organization and loyalty: [[513-america-in-68-nixons-great-comeback-part-6-glt3853956463]] identifies Haldeman among the California loyalists controlling the campaign.
-- Television strategy: [[513-america-in-68-nixons-great-comeback-part-6-glt3853956463]] credits him with moving the campaign toward staged, television-centered events.
-- Racial strategy: [[513-america-in-68-nixons-great-comeback-part-6-glt3853956463]] uses Haldeman's notes to qualify any race-neutral reading of law and order.
+### Campaign control and messaging
+
+- [[513-america-in-68-nixons-great-comeback-part-6-glt3853956463]] identifies Haldeman among the California loyalists, credits him with staged television strategy, and uses his notes to qualify a race-neutral reading of law and order.
+
+### Watergate inner circle
+
+- [[107-watergate-part-2-glt9677344742]] places Haldeman in containment and blame discussions before Nixon dismissed him with other close aides.
 
 ## Qualifications
 
-The episode mentions Haldeman's later Watergate association but does not reconstruct it. His 1968 role is presented through campaign strategy and surviving notes, not as a complete biography or documentary archive.
+The 1968 source provides campaign notes and interpretation rather than a complete Haldeman biography. The Watergate episode establishes his proximity to the response and removal but does not reconstruct every act, charge, or later legal proceeding. Its farewell anecdote and interpretations of Nixon's emotional distance remain source-scoped.
 
 ## What Changed
 
-- Added Haldeman as the organizational link between Nixon's loyalist staffing, controlled television, and racially calculated campaign messaging.
+- Extended Haldeman's loyalist control role from the 1968 campaign into the Watergate White House.
+- Reframed his dismissal as the failure of an inner-circle model built on loyalty and containment.
 
 ## Relationships
 
-- [[RichardNixon]] - candidate whose trust and campaign control Haldeman served.
-- [[ControlledTelevisionCampaign]] - campaign form he helped implement.
+- [[RichardNixon]] - candidate and president whose trust, campaign control, and scandal response Haldeman served.
+- [[JohnDean]] - White House counsel involved in the same containment meetings before cooperating.
+- [[WatergateScandal]] - crisis that turned loyalist control into legal and political exposure.
+- [[ControlledTelevisionCampaign]] - campaign form Haldeman helped implement.
 - [[LawAndOrderRacialSignaling]] - message strategy illuminated by his notes.
-- [[UnitedStatesPresidentialElection1968]] - electoral setting for his campaign work.
+- [[CoverUpEscalation]] - mechanism that defeated the inner circle's containment strategy.

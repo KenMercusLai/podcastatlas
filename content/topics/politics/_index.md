@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2982
+topic_total_pages: 2986
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -856,6 +856,9 @@ topic_concepts:
   - key: "ConservativePartyClassRealignment"
     title: "Conservative Party Class Realignment"
     url: "/wiki/concepts/conservativepartyclassrealignment/"
+  - key: "ConstitutionalAccountabilityTrustParadox"
+    title: "Constitutional Accountability-Trust Paradox"
+    url: "/wiki/concepts/constitutionalaccountabilitytrustparadox/"
   - key: "ConstitutionalRobustness"
     title: "Constitutional Robustness"
     url: "/wiki/concepts/constitutionalrobustness/"
@@ -919,6 +922,9 @@ topic_concepts:
   - key: "CourtFeedbackCollapse"
     title: "Court Feedback Collapse / 君臣反馈失灵"
     url: "/wiki/concepts/courtfeedbackcollapse/"
+  - key: "CoverUpEscalation"
+    title: "Cover-Up Escalation"
+    url: "/wiki/concepts/coverupescalation/"
   - key: "CredibilityCascade"
     title: "Credibility Cascade"
     url: "/wiki/concepts/credibilitycascade/"
@@ -6008,6 +6014,9 @@ topic_entities:
   - key: "JohnCurtin"
     title: "John Curtin"
     url: "/wiki/entities/johncurtin/"
+  - key: "JohnDean"
+    title: "John Dean"
+    url: "/wiki/entities/johndean/"
   - key: "JohnDudleyDukeOfNorthumberland"
     title: "John Dudley, Duke of Northumberland"
     url: "/wiki/entities/johndudleydukeofnorthumberland/"
@@ -7268,6 +7277,9 @@ topic_entities:
   - key: "WangZhengjun"
     title: "Wang Zhengjun / 王政君"
     url: "/wiki/entities/wangzhengjun/"
+  - key: "WatergateScandal"
+    title: "Watergate Scandal"
+    url: "/wiki/entities/watergatescandal/"
   - key: "WeimarRepublic"
     title: "Weimar Republic"
     url: "/wiki/entities/weimarrepublic/"

@@ -27809,3 +27809,11 @@ Added source `108-the-industrial-revolution-glt2130563458`; created `EmmaGriffin
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 107. Watergate: Part 2
+
+Added source `107-watergate-part-2-glt9677344742`; created `WatergateScandal`, `JohnDean`, `CoverUpEscalation`, and `ConstitutionalAccountabilityTrustParadox`; migrated and resynthesized `PresidentialImpeachment`; and resynthesized `RichardNixon`, `GeraldFord`, and `HRHaldeman` from their complete preserved evidence inventories. Core synthesis: the burglary became presidentially fatal through obstruction, participant defection, recorded evidence, and resistance to lawful investigation; Watergate demonstrated effective constitutional constraint while also weakening political trust and furnishing a template for later partisan scandal conflict. No settled contradiction was adopted. Ford's pardon rationale, audience and approval figures, Nixon's psychology, private dialogue, counterfactual tape destruction, later-scandal comparisons, and long-run cultural causation remain interpretive or source-scoped. Recurring host and show pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,475-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -133,6 +133,13 @@
       "url": "/topics/science/"
     }
   ],
+  "107-watergate-part-2-glt9677344742": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818": [
     {
       "key": "culture",
@@ -22827,6 +22834,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ConstitutionalAccountabilityTrustParadox": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ConstitutionalRobustness": [
     {
       "key": "politics",
@@ -23589,6 +23603,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "CoverUpEscalation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CovertPoliticalTechnology": [
@@ -45681,6 +45702,13 @@
     }
   ],
   "JohnCurtin": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "JohnDean": [
     {
       "key": "politics",
       "label": "Politics",
@@ -84446,6 +84474,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "WatergateScandal": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "WattsTowers": [

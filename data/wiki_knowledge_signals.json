@@ -41289,6 +41289,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/constitutionof1793/"
     },
+    "ConstitutionalAccountabilityTrustParadox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9677344742 [GLT9677344742].md",
+          "key": "107-watergate-part-2-glt9677344742",
+          "show": "The Rest Is History",
+          "title": "107. Watergate: Part 2",
+          "url": "/wiki/sources/107-watergate-part-2-glt9677344742/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/constitutionalaccountabilitytrustparadox/"
+    },
     "ConstitutionalAfterlifeOfRevolution": {
       "episode_count": 1,
       "show_count": 1,
@@ -43126,6 +43142,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/courtwomenhistoriography/"
+    },
+    "CoverUpEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9677344742 [GLT9677344742].md",
+          "key": "107-watergate-part-2-glt9677344742",
+          "show": "The Rest Is History",
+          "title": "107. Watergate: Part 2",
+          "url": "/wiki/sources/107-watergate-part-2-glt9677344742/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/coverupescalation/"
     },
     "CovertActionBlowback": {
       "episode_count": 1,
@@ -79562,9 +79594,9 @@
       "url": "/wiki/concepts/georgianhealthresortformation/"
     },
     "GeraldFord": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6047251362 [GLT6047251362].md",
@@ -79572,9 +79604,16 @@
           "show": "The Rest Is History",
           "title": "324: Fall of Saigon: The Nightmare Begins (Part 1)",
           "url": "/wiki/sources/324-fall-of-saigon-the-nightmare-begins-part-1-glt6047251362/"
+        },
+        {
+          "episode_file": "GLT9677344742 [GLT9677344742].md",
+          "key": "107-watergate-part-2-glt9677344742",
+          "show": "The Rest Is History",
+          "title": "107. Watergate: Part 2",
+          "url": "/wiki/sources/107-watergate-part-2-glt9677344742/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/geraldford/"
     },
     "GeraldGardner": {
@@ -84462,9 +84501,9 @@
       "url": "/wiki/concepts/hpvpreventionandfollowup/"
     },
     "HRHaldeman": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3853956463 [GLT3853956463].md",
@@ -84472,9 +84511,16 @@
           "show": "The Rest Is History",
           "title": "513. America in '68: Nixon's Great Comeback (Part 6)",
           "url": "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+        },
+        {
+          "episode_file": "GLT9677344742 [GLT9677344742].md",
+          "key": "107-watergate-part-2-glt9677344742",
+          "show": "The Rest Is History",
+          "title": "107. Watergate: Part 2",
+          "url": "/wiki/sources/107-watergate-part-2-glt9677344742/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/hrhaldeman/"
     },
     "HRiderHaggard": {
@@ -107202,6 +107248,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/johncurtin/"
+    },
+    "JohnDean": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9677344742 [GLT9677344742].md",
+          "key": "107-watergate-part-2-glt9677344742",
+          "show": "The Rest Is History",
+          "title": "107. Watergate: Part 2",
+          "url": "/wiki/sources/107-watergate-part-2-glt9677344742/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/johndean/"
     },
     "JohnDee": {
       "episode_count": 2,
@@ -157406,6 +157468,29 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/presidentialaccessibilitysecuritytradeoff/"
     },
+    "PresidentialImpeachment": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "173.弹劾：如何罢免一位总统 [963141809].md",
+          "key": "173-tanhe-ruhe-bamian-yiwei-zongtong-963141809",
+          "show": "蜜獾吃书",
+          "title": "173.弹劾：如何罢免一位总统",
+          "url": "/wiki/sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809/"
+        },
+        {
+          "episode_file": "GLT9677344742 [GLT9677344742].md",
+          "key": "107-watergate-part-2-glt9677344742",
+          "show": "The Rest Is History",
+          "title": "107. Watergate: Part 2",
+          "url": "/wiki/sources/107-watergate-part-2-glt9677344742/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/presidentialimpeachment/"
+    },
     "PresidentialSymbolicLeadership": {
       "episode_count": 5,
       "show_count": 1,
@@ -167734,9 +167819,9 @@
       "url": "/wiki/entities/richardnevilleearlofwarwick/"
     },
     "RichardNixon": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "Vol.268 两个劳斯莱斯 [1003563933].md",
@@ -167779,9 +167864,16 @@
           "show": "The Rest Is History",
           "title": "323: History's Greatest Dogs",
           "url": "/wiki/sources/323-historys-greatest-dogs-glt5170761413/"
+        },
+        {
+          "episode_file": "GLT9677344742 [GLT9677344742].md",
+          "key": "107-watergate-part-2-glt9677344742",
+          "show": "The Rest Is History",
+          "title": "107. Watergate: Part 2",
+          "url": "/wiki/sources/107-watergate-part-2-glt9677344742/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/richardnixon/"
     },
     "RichardOfShrewsbury": {
@@ -205966,6 +206058,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/watersystemcyberresilience/"
+    },
+    "WatergateScandal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9677344742 [GLT9677344742].md",
+          "key": "107-watergate-part-2-glt9677344742",
+          "show": "The Rest Is History",
+          "title": "107. Watergate: Part 2",
+          "url": "/wiki/sources/107-watergate-part-2-glt9677344742/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/watergatescandal/"
     },
     "WawelHill": {
       "episode_count": 1,
