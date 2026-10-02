@@ -27610,3 +27610,11 @@ Added source `125-the-cia-glt6232412389`; created `HughWilford`, `AllenDulles`, 
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 124. World Cup of Kings and Queens part 2
+
+Added source `124-world-cup-of-kings-and-queens-part-2-glt4467647081`; created `ContextualMonarchicalSuccess`; and resynthesized `Athelstan`, `HenryVOfEngland`, `HenryVIII`, `CharlesIIOfEngland`, `EdwardIIIOfEngland`, `WilliamTheConqueror`, `ElizabethII`, and `ElizabethI` from their complete preserved evidence inventories. Core synthesis: standards of successful monarchy depend on political role, so martial command, religious and institutional transformation, political survival, foundational conquest, and constitutional restraint cannot be ranked by one timeless criterion; reputation also depends on Shakespeare, national myth, screen images, cliché, controversy, and audience composition. No settled contradiction was adopted. The listener tournament is not an objective ranking, and claims about popularity, comparative success, motives, parliamentary consequences, religious symbolism, and individual anecdotes remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,450-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

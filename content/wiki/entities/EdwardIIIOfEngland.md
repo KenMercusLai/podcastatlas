@@ -8,6 +8,7 @@ sources:
   - 321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345
   - 320-hundred-years-war-the-black-prince-part-3-glt6004693022
   - 319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638
+  - 124-world-cup-of-kings-and-queens-part-2-glt4467647081
 last_updated: 2026-09-29
 knowledge_schema: synthesis-v1
 ---
@@ -34,6 +35,8 @@ The Poitiers prehistory also sharpens Edward's war aims. His French crown claim 
 
 The later source shows the limit of Edward's war system. John II's captivity and French disorder create leverage, but Edward cannot take Reims or Paris in 1359-1360. The [[TreatyOfBretigny|Treaty of Brétigny]] gives him enlarged sovereign [[Aquitaine]] in exchange for renouncing the French crown claim, yet the Black Prince's costly government, Aquitanian appeals, and [[CharlesVOfFrance|Charles V's]] recovery unravel most of the gain. Edward renews the crown claim after the treaty breaks down but dies in 1377 amid political and military decline.
 
+The tournament episode compresses these achievements and limits into the image of a long-reigning chivalric king. Sluys, Crécy, Poitiers, the longbow, the Black Prince, English in law and Parliament, Chaucer, and the Order of the Garter support the heroic reputation; the Black Death, Alice Perrers, late decline, and strategic overreach keep that image from becoming an unqualified verdict.
+
 ## Key Characteristics
 
 - Pragmatic claimant who converts dynastic and territorial grievance into parliamentary, economic, and public mobilization.
@@ -42,7 +45,7 @@ The later source shows the limit of Edward's war system. John II's captivity and
 - King able to sustain the shipping, administration, settlement, and garrison required to hold Calais.
 - Chivalric image-maker using Arthur, St George, Windsor, fellowship, and the Order of the Garter.
 - Negotiator using crown claims, factionalism, raids, captivity, and battlefield leverage to seek sovereign territory.
-- Victorious but ultimately unable to make Brétigny and England's wider French gains durable.
+- Victorious and culturally influential but ultimately unable to make Brétigny and England's wider French gains durable, leaving chivalric memory stronger than the settlement.
 
 ## Evidence
 
@@ -60,17 +63,16 @@ The later source shows the limit of Edward's war system. John II's captivity and
 - War aims and leverage: [[320-hundred-years-war-the-black-prince-part-3-glt6004693022]] frames the crown claim as bargaining theater for sovereign possessions and connects French factionalism to English operations.
 - Failed final invasion: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] says Edward cannot take Reims or Paris despite deep campaigning.
 - Settlement and reversal: [[321-hundred-years-war-a-storm-of-swords-part-4-glt1570526345]] links Brétigny to enlarged Aquitaine, later treaty repudiation, renewed crown claims, and the collapse of English positions.
+- Comparative kingship: [[124-world-cup-of-kings-and-queens-part-2-glt4467647081]] groups military victories, chivalry, language, literature, and the Garter into Edward's prestige while preserving late decline and long-run overreach.
 
 ## Qualifications
 
-This profile remains selective rather than a continuous reign history. The operational claims about longbow performance, army and fleet numbers, casualties, speeches, and the Black Prince's badge remain source-scoped, and the Calais chronology is internally inconsistent. The post-Poitiers narrative compresses treaty implementation and French reconquest. The Garter chronology is unresolved: one source gives 1344 and another gives St George's Day 1349.
+This profile remains selective rather than a continuous reign history. The operational claims about longbow performance, army and fleet numbers, casualties, speeches, and the Black Prince's badge remain source-scoped, and the Calais chronology is internally inconsistent. The post-Poitiers narrative compresses treaty implementation and French reconquest. The tournament's heroic synthesis is a reputation judgment, not evidence that battlefield prestige made the war strategically durable. The Garter chronology is unresolved: one source gives 1344 and another gives St George's Day 1349.
 
 ## What Changed
 
-- Added wool pressure, Flemish alignment, borrowing, and Sluys to the explanation of Edward's opening strategy.
-- Added the Normandy chevauchée, river crossings, battlefield selection, and prepared victory at Crécy.
-- Added Calais as evidence that Edward could convert one victory into a supplied and garrisoned foothold.
-- Qualified the heroic image with fiscal fragility, civilian destruction, expulsion, and source-level tactical uncertainty.
+- Added the tournament's compact chivalric reputation and its links among victory, the Garter, language, and literary culture.
+- Set that heroic memory against late decline, civilian destruction, fiscal fragility, and the impermanence of most French gains.
 
 ## Relationships
 
@@ -97,3 +99,4 @@ This profile remains selective rather than a continuous reign history. The opera
 - [[TreatyOfBretigny]] - settlement exchanging Edward's crown claim for sovereign territory.
 - [[EdwardTheBlackPrince]] - son whose Aquitanian government inherits the settlement's burdens.
 - [[BattlefieldVictoryPoliticalControl]] - concept explaining why Edward's victories fail to yield lasting conquest.
+- [[ContextualMonarchicalSuccess]] - comparison in which martial prestige and cultural legacy compete with strategic durability and moral cost.

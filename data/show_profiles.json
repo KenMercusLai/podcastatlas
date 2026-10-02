@@ -939,14 +939,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-30",
       "latest_episode_file": "GLT5038102951 [GLT5038102951].md",
-      "source_note_count": 485,
-      "topic_matched_source_note_count": 459,
+      "source_note_count": 486,
+      "topic_matched_source_note_count": 460,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 453
+          "source_note_count": 454
         },
         {
           "key": "politics",
@@ -1004,25 +1004,25 @@
           "episode_count": 9
         },
         {
-          "key": "HernanCortes",
-          "title": "Hernan Cortes",
-          "url": "/wiki/entities/hernancortes/",
-          "kind": "person",
-          "episode_count": 8
-        },
-        {
-          "key": "AdamIPSmith",
-          "title": "Adam I. P. Smith",
-          "url": "/wiki/entities/adamipsmith/",
-          "kind": "person",
-          "episode_count": 7
-        },
-        {
           "key": "ElizabethI",
           "title": "Elizabeth I",
           "url": "/wiki/entities/elizabethi/",
           "kind": "person",
-          "episode_count": 7
+          "episode_count": 8
+        },
+        {
+          "key": "ElizabethII",
+          "title": "Elizabeth II",
+          "url": "/wiki/entities/elizabethii/",
+          "kind": "person",
+          "episode_count": 8
+        },
+        {
+          "key": "HenryVOfEngland",
+          "title": "Henry V of England",
+          "url": "/wiki/entities/henryvofengland/",
+          "kind": "person",
+          "episode_count": 8
         }
       ],
       "start_here_episode_files": [

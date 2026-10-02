@@ -9,6 +9,7 @@ sources:
   - 554-1066-the-shadows-of-war-part-1-glt1461163139
   - 551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299
   - 550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693
+  - 124-world-cup-of-kings-and-queens-part-2-glt4467647081
 last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
@@ -31,6 +32,8 @@ Weather delays his crossing and his Hastings base leaves him exposed, but he use
 
 The profile remains morally divided. William brings a measure of succession stability and stronger exploitation of English state capacity, yet the [[HarryingOfTheNorth]], dispossession, famine, and native accounts of trauma prevent administrative achievement from becoming moral vindication.
 
+The tournament episode adds a concise reception judgment: William is respected more than loved. Hastings, the number 1066, Domesday, castles, and cathedrals make him foundational enough that later English identity absorbs the Norman victory rather than remembering it simply as “our” defeat, while the Harrying and his undignified funeral keep brutality and human fallibility inside that memory.
+
 ## Key Characteristics
 
 - Child successor hardened by guardian murders and a struggle to suppress unauthorized castles, then a claimant whose legitimacy joins reported promise, oath, papal approval, invasion, victory, and coronation.
@@ -39,7 +42,7 @@ The profile remains morally divided. William brings a measure of succession stab
 - Mobile commander who turns devastation, surrender, and control of symbolic centers into political submission.
 - Ruler who uses Anglo-Saxon coronation forms and administration to legitimate and strengthen conquest.
 - Conqueror whose castles, confiscations, and church appointments support a small Norman elite.
-- Brutal consolidator held responsible for the Harrying and later reported as judging his persecution excessive.
+- Brutal consolidator held responsible for the Harrying and later remembered as foundational, respected, and morally difficult rather than warmly loved.
 
 ## Evidence
 
@@ -52,15 +55,16 @@ The profile remains morally divided. William brings a measure of succession stab
 - Violence and qualification - [[557-1066-the-norman-conquest-part-4-glt5156716826]] describes the Harrying, Battle Abbey penance, English trauma, and Orderic Vitalis's reported deathbed confession.
 - Promise and oath prehistory - [[551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299]] places Edward's reported promise during the Godwin exile and follows Harold's capture, release, Brittany service, and relic-backed oath.
 - Minority and ducal restoration - [[550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693]] follows Robert's death, William's vulnerable succession, murdered guardians, 1047 victory, and dismantling of illegal castles.
+- Foundational reputation - [[124-world-cup-of-kings-and-queens-part-2-glt4467647081]] connects 1066, Domesday, castles, cathedrals, the absorption of Norman victory into English identity, the Harrying, piety, and the puncturing story of William's funeral.
 
 ## Qualifications
 
-This is a source-bounded profile rather than a complete biography. William's exact age at succession, the effect of illegitimacy, psychological claims derived from childhood violence, Edward's promise, the purpose of Harold's journey, the oath's freedom and meaning, papal motives, coalition composition, force and ship totals, the comparative novelty of Norman arms, the deliberate-bait interpretation, battlefield layout, intentional character of the retreats, William's role in Harold's death, Harold-body traditions, William's initial intentions toward the English elite, casualty estimates, conscience stories, and the causal link between his rule and slavery decline remain qualified or source-scoped.
+This is a source-bounded profile rather than a complete biography. William's exact age at succession, the effect of illegitimacy, psychological claims derived from childhood violence, Edward's promise, the purpose of Harold's journey, the oath's freedom and meaning, papal motives, coalition composition, force and ship totals, the comparative novelty of Norman arms, the deliberate-bait interpretation, battlefield layout, intentional character of the retreats, William's role in Harold's death, Harold-body traditions, William's initial intentions toward the English elite, casualty estimates, conscience stories, funeral details, and the causal link between his rule and slavery decline remain qualified or source-scoped. Treating Hastings as absorbed into English identity does not erase conquest trauma or regional memory.
 
 ## What Changed
 
-- Extended the profile back to William's child succession, violent minority, 1047 victory, and suppression of unauthorized castles.
-- Reframed castle-building as a problem William first mastered inside Normandy before using fortifications in conquest.
+- Added the distinction between foundational respect and personal affection in William's later English reputation.
+- Connected the absorption of 1066 into national history to Domesday, castles, cathedrals, and the continuing moral weight of the Harrying.
 
 ## Relationships
 
@@ -76,3 +80,4 @@ This is a source-bounded profile rather than a complete biography. William's exa
 - [[DomesdayBook]] - survey that records and consolidates his land order.
 - [[HarryingOfTheNorth]] - most destructive repression associated with his rule.
 - [[ConquestRuptureContinuity]] - framework for the divided historical judgment on his reign.
+- [[ContextualMonarchicalSuccess]] - comparison separating foundational impact from affection or moral approval.

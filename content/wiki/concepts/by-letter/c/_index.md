@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9284
+wiki_total_pages: 9285
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2096,6 +2096,9 @@ wiki_pages:
   - key: "ContextualExplanationWithoutExoneration"
     title: "Contextual Explanation Without Exoneration"
     url: "/wiki/concepts/contextualexplanationwithoutexoneration/"
+  - key: "ContextualMonarchicalSuccess"
+    title: "Contextual Monarchical Success"
+    url: "/wiki/concepts/contextualmonarchicalsuccess/"
   - key: "ContextualSodiumIntake"
     title: "Contextual Sodium Intake"
     url: "/wiki/concepts/contextualsodiumintake/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [124. World Cup of Kings and Queens part 2](sources/124-world-cup-of-kings-and-queens-part-2-glt4467647081.md) — The Rest Is History tournament comparing warrior, transformative, survivalist, foundational, and constitutional models of monarchical success.
 - [125. The CIA](sources/125-the-cia-glt6232412389.md) — The Rest Is History with Hugh Wilford on CIA origins, intelligence versus covert action, intervention, blowback, counterintelligence, culture, and myth.
 - [126. Napoleon in Egypt](sources/126-napoleon-in-egypt-glt3691914095.md) — The Rest Is History on Napoleon's failed Egyptian invasion, the Battle of the Nile, Egyptology, secular-imperial rhetoric, and colonial knowledge.
 - [How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss](sources/how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839.md) — Huberman Lab interview on evolutionary mating strategies, mutual choice, mate value, infidelity, jealousy, coercive control, and evidence limits.
@@ -15527,6 +15528,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Contextual Monarchical Success](concepts/ContextualMonarchicalSuccess.md) — Role-relative comparison of rulers through political order, consequence, moral cost, cultural memory, and audience judgment.
 - [CIA Intelligence-Covert Action Tension](concepts/CIAIntelligenceCovertActionTension.md) — Institutional conflict between understanding foreign conditions and secretly trying to change them.
 - [Covert Action Blowback](concepts/CovertActionBlowback.md) — Delayed, displaced, or reciprocal harm arising from apparently successful hidden intervention.
 - [Egyptology](concepts/Egyptology.md) — Study of ancient Egypt, here synthesized through decipherment, expeditionary documentation, empire, and artifact custody.

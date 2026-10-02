@@ -10,6 +10,7 @@ sources:
   - 486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611
   - 485-henry-iv-the-usurper-king-part-1-glt8868267122
   - 462-st-george-dragon-slayer-glt5334319363
+  - 124-world-cup-of-kings-and-queens-part-2-glt4467647081
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -38,6 +39,8 @@ His 1420 settlement was more ambitious than holding Normandy: marriage to [[Cath
 
 Henry's campaign symbolism also drew on an established English patron-saint tradition. Raising George's banner at Harfleur and invoking God and [[StGeorge|St George]] at Agincourt placed the king's operational and providential claims inside that symbolic language.
 
+The tournament episode makes Henry's reputation itself part of the profile. It treats him as an unusually proactive and charismatic warrior king whose image is inseparable from Agincourt, Shakespeare, children's history, and screen adaptation, but also advances the deliberately sharp judgment that his early death and England's later French losses make him overrated. That verdict adds reception evidence without displacing the wider record of military, diplomatic, administrative, and linguistic statecraft.
+
 ## Key Characteristics
 
 - Dynastic heir given major titles and exposure to unstable Cheshire and Wales from age thirteen.
@@ -46,7 +49,7 @@ Henry's campaign symbolism also drew on an established English patron-saint trad
 - Battlefield commander who sustained cohesion under exhaustion and used formation, archers, stakes, terrain, and initiative at Agincourt.
 - Operational gambler whose march toward Calais and later fear-driven prisoner-killing order expose the risks and coercion inside his command.
 - Regime builder and diplomat who converted military success into domestic legitimacy and used imperial and Burgundian relationships to isolate opponents.
-- Conqueror and political communicator who joined Normandy, English and French identities, English-language administration, and St George symbolism to his claim.
+- Conqueror and political communicator whose Normandy settlement, English-language administration, St George symbolism, and Shakespearean afterlife sustain a heroic but contested reputation.
 
 ## Evidence
 
@@ -67,14 +70,16 @@ Henry's campaign symbolism also drew on an established English patron-saint trad
 - Administrative legacy: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] highlights separate kingdoms under one crown and Henry's use of English documents.
 - Religious complexity: [[486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611]] places Henry's English Bible, Oxford position, Wycliffite family networks, friendship with Oldcastle, and later orthodoxy in tension without resolving his private belief.
 - Patron-saint invocation: [[462-st-george-dragon-slayer-glt5334319363]] says Henry raised George's banner at Harfleur and invoked God and the saint at Agincourt.
+- Comparative reputation: [[124-world-cup-of-kings-and-queens-part-2-glt4467647081]] contrasts Henry's charismatic warrior ideal with constitutional restraint and qualifies heroic memory through early death, persecution, strategic cost, and later French reversal.
 
 ## Qualifications
 
-The sources do not resolve how sincere Henry's maximalist diplomacy was, whether he sought battle during the march, whether refusal to retreat was prudent, or whether he could have sustained the French settlement had he lived. Admiration for his competence is balanced by Harfleur's destruction and expulsions, a hanging used to enforce discipline, prisoner killing, battlefield mass death, looting, taxation, continuing resistance, religious persecution, and the possibility that seeking all France was strategic overreach. His friendship with Oldcastle and interest in reform do not establish Lollard adherence or a clear private conversion narrative. The George invocations document symbolic use, not proof of saintly intervention or the accuracy of later battle legend. The tennis-balls story, exact force and fleet totals, and motives behind particular decisions remain disputed or reconstructed.
+The sources do not resolve how sincere Henry's maximalist diplomacy was, whether he sought battle during the march, whether refusal to retreat was prudent, or whether he could have sustained the French settlement had he lived. Admiration for his competence is balanced by Harfleur's destruction and expulsions, a hanging used to enforce discipline, prisoner killing, battlefield mass death, looting, taxation, continuing resistance, religious persecution, and the possibility that seeking all France was strategic overreach. His friendship with Oldcastle and interest in reform do not establish Lollard adherence or a clear private conversion narrative. The George invocations document symbolic use, not proof of saintly intervention or the accuracy of later battle legend. The tournament's “overrated” verdict is a provocative comparative judgment rather than a settled assessment. The tennis-balls story, exact force and fleet totals, and motives behind particular decisions remain disputed or reconstructed.
 
 ## What Changed
 
-- Added St George's banner and invocation as part of Henry's campaign symbolism without treating later legend as battlefield evidence.
+- Added the contrast between Henry's charismatic warrior ideal and the modern constitutional model of royal success.
+- Qualified the tournament's “overrated” verdict against the fuller evidence for Henry's statecraft and the real costs and fragility of his French project.
 
 ## Relationships
 
@@ -98,3 +103,4 @@ The sources do not resolve how sincere Henry's maximalist diplomacy was, whether
 - [[CharlesVIIOfFrance]] - disinherited rival whose supporters continued resistance.
 - [[StGeorge]] - patron saint invoked in Henry's Harfleur and Agincourt campaign symbolism.
 - [[PatronSaintSymbolicPlasticity]] - broader process through which medieval invocation became durable English national memory.
+- [[ContextualMonarchicalSuccess]] - framework exposing how martial charisma, consequence, cost, and later reversal produce different verdicts on Henry.

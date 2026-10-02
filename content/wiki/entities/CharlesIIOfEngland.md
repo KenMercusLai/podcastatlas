@@ -7,6 +7,7 @@ sources:
   - 357-historical-love-island-the-sequel-glt7719682575
   - 333-the-republic-of-britain-life-under-cromwell-glt3360112790
   - 249-treason-in-modern-britain-part-2-glt2159531504
+  - 124-world-cup-of-kings-and-queens-part-2-glt4467647081
 last_updated: 2026-09-30
 knowledge_schema: synthesis-v1
 ---
@@ -27,6 +28,8 @@ The broader current profile also includes the sociable “Merry Monarch”: a ru
 
 The settlement Charles offered from Breda and then enforced after his return promised not to reopen the entire Civil War, left land questions to Parliament, and proposed qualified liberty of conscience and general pardon, indemnity, and oblivion. It excluded those directly responsible for his father's sentence, combining broad political forgetting with selective trials, executions, and posthumous punishment. Charles was also initially skeptical of Titus Oates's Popish Plot allegations and emerged politically strengthened when the false conspiracy collapsed.
 
+The tournament episode adds the longer-reign survival test. It follows exile, Worcester, hiding, Restoration, plague, the Great Fire, the Exclusion Crisis, scientific curiosity, mistresses, and Catholic ambiguity, presenting Charles as a gifted performer who understood spectacle and timing. That canny survival is qualified by the retreat from Breda's toleration, poverty-driven choices, French money and war, slavery-linked interests, and a reported deathbed conversion.
+
 ## Key Characteristics
 
 - Stuart claimant restored after republican collapse through George Monck's evolving intervention rather than a predetermined plan.
@@ -34,7 +37,7 @@ The settlement Charles offered from Breda and then enforced after his return pro
 - Used broad political forgetting alongside selective punishment of those tied most directly to Charles I's execution.
 - Announcer of the vest fashion recorded by Samuel Pepys in October 1666.
 - Promoter of a coordinated three-part male ensemble in the episode's account.
-- Charismatic and prank-loving ruler whose male friendships helped define his public sociability.
+- Charismatic and prank-loving political survivor whose spectacle, timing, sociability, and scientific curiosity helped define his public persona.
 - Protected his queen's position while remaining persistently unfaithful within the marriage.
 
 ## Evidence
@@ -48,15 +51,16 @@ The settlement Charles offered from Breda and then enforced after his return pro
 - Friendship and forgiveness: [[357-historical-love-island-the-sequel-glt7719682575]] uses his repeated reconciliation with the Earl of Rochester to show tolerance within male friendship.
 - Restoration settlement: [[249-treason-in-modern-britain-part-2-glt2159531504]] connects the Declaration of Breda to limited religious, property, and pardon commitments.
 - Selective punishment and Popish Plot: [[249-treason-in-modern-britain-part-2-glt2159531504]] contrasts the regicide exclusions with Charles's initial dismissal of Oates's claims and his strengthened position after their collapse.
+- Survival and compromise: [[124-world-cup-of-kings-and-queens-part-2-glt4467647081]] joins exile, Restoration, court performance, crisis management, French dependence, Catholic sympathy, and slavery-linked interests in a qualified account of Charles's political skill.
 
 ## Qualifications
 
-The four sources cover restoration contingency, treason politics, clothing history, and a comic personal-character sketch rather than Charles II's full reign. The precise claim that he “invented” the suit on one date compresses a longer evolution in tailoring, textiles, court dress, religion, and military style. Monck family influence, the breadth of Breda's commitments, responsibility for individual punishments, the inevitability counterfactual, the “jester” label, numerical claims about partners and children, and judgments about marital loyalty or friendship remain source-scoped.
+The sources cover restoration contingency, treason politics, clothing history, personal character, and a compressed reign comparison rather than Charles II's full government. The precise claim that he “invented” the suit on one date compresses a longer evolution in tailoring, textiles, court dress, religion, and military style. Monck family influence, the breadth of Breda's commitments, responsibility for individual punishments, the inevitability counterfactual, the “jester” label, poverty as a master motive, deathbed conversion, numerical claims about partners and children, and judgments about marital loyalty or friendship remain source-scoped.
 
 ## What Changed
 
-- Added Breda's negotiated commitments and the combination of general oblivion with selective regicide punishment.
-- Added Charles's skeptical response to the Popish Plot and the political benefit he gained from its collapse.
+- Added the reign-wide survival profile: crisis management, court performance, scientific curiosity, French dependence, Catholic ambiguity, and slavery-linked interests.
+- Connected the Merry Monarch persona to political timing and survival rather than treating it only as comic character.
 
 ## Relationships
 
@@ -70,3 +74,4 @@ The four sources cover restoration contingency, treason politics, clothing histo
 - [[AnneMonck]] - informal political actor credited with encouraging restoration.
 - [[RestorationContingency]] - framework distinguishing Charles's return from historical inevitability.
 - [[TreasonAsSovereigntyContest]] - framework connecting Restoration pardon, punishment, and later conspiracy prosecution to sovereign power.
+- [[ContextualMonarchicalSuccess]] - comparative framework in which Charles's achievement lies chiefly in restoration, performance, and survival under constraint.
