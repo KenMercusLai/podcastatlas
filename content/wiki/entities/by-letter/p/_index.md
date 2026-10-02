@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11927
+wiki_total_pages: 11931
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -776,6 +776,9 @@ wiki_pages:
   - key: "PortWashingtonWisconsin"
     title: "Port Washington, Wisconsin"
     url: "/wiki/entities/portwashingtonwisconsin/"
+  - key: "PortWine"
+    title: "Port Wine"
+    url: "/wiki/entities/portwine/"
   - key: "PortlandOregon"
     title: "Portland, Oregon"
     url: "/wiki/entities/portlandoregon/"

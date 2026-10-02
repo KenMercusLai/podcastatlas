@@ -12123,9 +12123,9 @@
       "url": "/wiki/concepts/anglonormansuccessionlegitimacy/"
     },
     "AngloPortugueseAlliance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1834337589 [GLT1834337589].md",
@@ -12133,9 +12133,16 @@
           "show": "The Rest Is History",
           "title": "227. Portugal: On the Edge of the World (Part 1)",
           "url": "/wiki/sources/227-portugal-on-the-edge-of-the-world-part-1-glt1834337589/"
+        },
+        {
+          "episode_file": "GLT6423200478 [GLT6423200478].md",
+          "key": "12-days-port-wine-and-darwin-sets-sail-glt6423200478",
+          "show": "The Rest Is History",
+          "title": "12 Days: Port wine and Darwin sets sail",
+          "url": "/wiki/sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/angloportuguesealliance/"
     },
     "AngloSaxonStateFormation": {
@@ -24660,9 +24667,9 @@
       "url": "/wiki/concepts/britishdomesticservicehierarchy/"
     },
     "BritishDrinkMarketFormation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6408276244 [GLT6408276244].md",
@@ -24670,9 +24677,16 @@
           "show": "The Rest Is History",
           "title": "289: Drink — Britain’s Empire of Booze",
           "url": "/wiki/sources/289-drink-glt6408276244/"
+        },
+        {
+          "episode_file": "GLT6423200478 [GLT6423200478].md",
+          "key": "12-days-port-wine-and-darwin-sets-sail-glt6423200478",
+          "show": "The Rest Is History",
+          "title": "12 Days: Port wine and Darwin sets sail",
+          "url": "/wiki/sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/britishdrinkmarketformation/"
     },
     "BritishECReferendum1975": {
@@ -30903,9 +30917,9 @@
       "url": "/wiki/entities/charlesalexandredecalonne/"
     },
     "CharlesDarwin": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
@@ -30955,9 +30969,16 @@
           "show": "The Rest Is History",
           "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
           "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+        },
+        {
+          "episode_file": "GLT6423200478 [GLT6423200478].md",
+          "key": "12-days-port-wine-and-darwin-sets-sail-glt6423200478",
+          "show": "The Rest Is History",
+          "title": "12 Days: Port wine and Darwin sets sail",
+          "url": "/wiki/sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/charlesdarwin/"
     },
     "CharlesDawson": {
@@ -31263,6 +31284,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/charleslightoller/"
+    },
+    "CharlesLyell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6423200478 [GLT6423200478].md",
+          "key": "12-days-port-wine-and-darwin-sets-sail-glt6423200478",
+          "show": "The Rest Is History",
+          "title": "12 Days: Port wine and Darwin sets sail",
+          "url": "/wiki/sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/charleslyell/"
     },
     "CharlesStewartParnell": {
       "episode_count": 1,
@@ -63069,9 +63106,9 @@
       "url": "/wiki/concepts/evolutionarymisrecognition/"
     },
     "EvolutionaryTheoryFormation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2992613399 [GLT2992613399].md",
@@ -63079,9 +63116,16 @@
           "show": "The Rest Is History",
           "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
           "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+        },
+        {
+          "episode_file": "GLT6423200478 [GLT6423200478].md",
+          "key": "12-days-port-wine-and-darwin-sets-sail-glt6423200478",
+          "show": "The Rest Is History",
+          "title": "12 Days: Port wine and Darwin sets sail",
+          "url": "/wiki/sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/evolutionarytheoryformation/"
     },
     "ExMachinaFilm": {
@@ -82721,9 +82765,9 @@
       "url": "/wiki/entities/hhasquith/"
     },
     "HMSBeagle": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2992613399 [GLT2992613399].md",
@@ -82731,9 +82775,16 @@
           "show": "The Rest Is History",
           "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
           "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+        },
+        {
+          "episode_file": "GLT6423200478 [GLT6423200478].md",
+          "key": "12-days-port-wine-and-darwin-sets-sail-glt6423200478",
+          "show": "The Rest Is History",
+          "title": "12 Days: Port wine and Darwin sets sail",
+          "url": "/wiki/sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/hmsbeagle/"
     },
     "HMSEndurance": {
@@ -105692,6 +105743,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/johnmcewen/"
+    },
+    "JohnMethuen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6423200478 [GLT6423200478].md",
+          "key": "12-days-port-wine-and-darwin-sets-sail-glt6423200478",
+          "show": "The Rest Is History",
+          "title": "12 Days: Port wine and Darwin sets sail",
+          "url": "/wiki/sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/johnmethuen/"
     },
     "JohnOfGaunt": {
       "episode_count": 4,
@@ -130521,6 +130588,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/methodologydisarmament/"
     },
+    "MethuenTreaty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6423200478 [GLT6423200478].md",
+          "key": "12-days-port-wine-and-darwin-sets-sail-glt6423200478",
+          "show": "The Rest Is History",
+          "title": "12 Days: Port wine and Darwin sets sail",
+          "url": "/wiki/sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/methuentreaty/"
+    },
     "MetisHeroicCunning": {
       "episode_count": 2,
       "show_count": 2,
@@ -152278,6 +152361,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/portenabledmanufacturingcity/"
     },
+    "PortWine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6423200478 [GLT6423200478].md",
+          "key": "12-days-port-wine-and-darwin-sets-sail-glt6423200478",
+          "show": "The Rest Is History",
+          "title": "12 Days: Port wine and Darwin sets sail",
+          "url": "/wiki/sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/portwine/"
+    },
     "PortablePoliticalCapital": {
       "episode_count": 1,
       "show_count": 1,
@@ -165647,9 +165746,9 @@
       "url": "/wiki/entities/robertfkennedy/"
     },
     "RobertFitzRoy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2992613399 [GLT2992613399].md",
@@ -165657,9 +165756,16 @@
           "show": "The Rest Is History",
           "title": "283: Ecuador: Darwin's Adventure to the Galapagos",
           "url": "/wiki/sources/283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399/"
+        },
+        {
+          "episode_file": "GLT6423200478 [GLT6423200478].md",
+          "key": "12-days-port-wine-and-darwin-sets-sail-glt6423200478",
+          "show": "The Rest Is History",
+          "title": "12 Days: Port wine and Darwin sets sail",
+          "url": "/wiki/sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/robertfitzroy/"
     },
     "RobertFrancoisDamiens": {

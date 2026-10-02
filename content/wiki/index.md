@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [12 Days: Port wine and Darwin sets sail](sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478.md) — The Rest Is History on the Methuen Treaty's role in port's British market and the contingent, difficult departure of Darwin aboard HMS Beagle.
 - [The Biology of Slowing & Reversing Aging | Dr. David Sinclair](sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627.md) — Huberman Lab interview on epigenetic aging, fasting and adaptive stress, NAD and longevity compounds, biological-age measurement, and experimental rejuvenation boundaries.
 - [12 Days: Massacre of the Innocents and the Tay Bridge disaster](sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270.md) — The Rest Is History on Matthew's historically doubtful massacre narrative, Herod's reputation, the Tay Bridge collapse, and William McGonagall's comic-literary afterlife.
 - [12 Days: The Murder of Thomas Becket and the Wounded Knee Massacre](sources/12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363.md) — The Rest Is History on Becket's murder and cult, Wounded Knee's coercive context, and the posthumous power of martyrdom and massacre memory.
@@ -3493,6 +3494,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [Charles Lyell](entities/CharlesLyell.md) — Geologist whose slow-change framework influenced Darwin's interpretation of natural history.
+- [John Methuen](entities/JohnMethuen.md) — English diplomat associated with the 1703 cloth-and-wine treaty with Portugal.
+- [Methuen Treaty](entities/MethuenTreaty.md) — 1703 Anglo-Portuguese agreement joining wartime alignment to cloth and wine preferences.
+- [Port Wine](entities/PortWine.md) — Portuguese fortified wine shaped into a British market and social institution through trade, tariffs, and merchant networks.
 - [David Sinclair](entities/DavidSinclair.md) — Genetics and aging researcher presented through epigenetic information loss, adaptive-stress signaling, biological-age measurement, and experimental rejuvenation.
 - [William McGonagall](entities/WilliamMcGonagall.md) — Dundee weaver and self-appointed poet whose awkward Tay Bridge elegy became an enduring work of unintended comedy.
 - [Thomas Bouch](entities/ThomasBouch.md) — Victorian railway engineer whose celebrated Tay Bridge design became an institutional-failure and accountability case after the 1879 collapse.

@@ -272,6 +272,18 @@
       "url": "/topics/history/"
     }
   ],
+  "12-days-port-wine-and-darwin-sets-sail-glt6423200478": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "12-days-reconquest-of-spain-and-the-old-queen-of-hawaii-glt9407596415": [
     {
       "key": "history",
@@ -45554,6 +45566,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "JohnMethuen": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "JohnPhillips": [
     {
       "key": "economics",
@@ -53648,6 +53667,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "MethuenTreaty": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "MexicanPostRevolutionaryCulturalNationalism": [
@@ -62500,6 +62526,13 @@
     }
   ],
   "PortEnabledManufacturingCity": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "PortWine": [
     {
       "key": "economics",
       "label": "Economics",

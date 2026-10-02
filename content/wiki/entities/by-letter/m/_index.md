@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 11927
+wiki_total_pages: 11931
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "MetaX"
     title: "MetaX / 沐曦"
     url: "/wiki/entities/metax/"
+  - key: "MethuenTreaty"
+    title: "Methuen Treaty"
+    url: "/wiki/entities/methuentreaty/"
   - key: "METR"
     title: "METR"
     url: "/wiki/entities/metr/"

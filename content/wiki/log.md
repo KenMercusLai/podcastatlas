@@ -27474,3 +27474,11 @@ Added source `the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim18311
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 12 Days: Port wine and Darwin sets sail
+
+Added source `12-days-port-wine-and-darwin-sets-sail-glt6423200478`; created `JohnMethuen`, `CharlesLyell`, `MethuenTreaty`, and `PortWine`; and resynthesized `CharlesDarwin`, `HMSBeagle`, `RobertFitzRoy`, `EvolutionaryTheoryFormation`, `BritishDrinkMarketFormation`, and `AngloPortugueseAlliance` from their complete preserved evidence inventories. Core synthesis: port's British identity emerged from Portuguese production, merchant contact, fortification, war, treaty preference, and social ritual, while Darwin's voyage was enabled by constrained career options, FitzRoy's need for a companion, family persuasion, Lyell's geology, and a hazardous delayed departure before later field evidence acquired evolutionary meaning. No settled contradiction was adopted. Duty and import figures, the Lamego story, port-house origins, ship dimensions and dates, private motives, the slavery quarrel, and Lyell's precise causal influence remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,433-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

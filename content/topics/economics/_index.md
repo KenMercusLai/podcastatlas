@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2158
+topic_total_pages: 2162
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4259,6 +4259,9 @@ topic_entities:
   - key: "JohnMaynardKeynes"
     title: "John Maynard Keynes / 凯恩斯"
     url: "/wiki/entities/johnmaynardkeynes/"
+  - key: "JohnMethuen"
+    title: "John Methuen"
+    url: "/wiki/entities/johnmethuen/"
   - key: "JohnPhillips"
     title: "John Phillips"
     url: "/wiki/entities/johnphillips/"
@@ -4487,6 +4490,9 @@ topic_entities:
   - key: "MengYan"
     title: "Meng Yan / 孟岩"
     url: "/wiki/entities/mengyan/"
+  - key: "MethuenTreaty"
+    title: "Methuen Treaty"
+    url: "/wiki/entities/methuentreaty/"
   - key: "Mexico"
     title: "Mexico"
     url: "/wiki/entities/mexico/"
@@ -4682,6 +4688,9 @@ topic_entities:
   - key: "Polymarket"
     title: "Polymarket"
     url: "/wiki/entities/polymarket/"
+  - key: "PortWine"
+    title: "Port Wine"
+    url: "/wiki/entities/portwine/"
   - key: "Portugal"
     title: "Portugal"
     url: "/wiki/entities/portugal/"
@@ -5619,6 +5628,9 @@ topic_sources:
   - key: "1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6"
     title: "1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18"
     url: "/wiki/sources/1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6/"
+  - key: "12-days-port-wine-and-darwin-sets-sail-glt6423200478"
+    title: "12 Days: Port wine and Darwin sets sail"
+    url: "/wiki/sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478/"
   - key: "129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb"
     title: "129.货币的本质，以及黄金的真正价值 | 串台十分吸引"
     url: "/wiki/sources/129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb/"
