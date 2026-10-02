@@ -42270,9 +42270,9 @@
       "url": "/wiki/concepts/contextdependentbiomedicalinterventions/"
     },
     "ContextDependentSocialHormoneEffects": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM9606820714 [SCIM9606820714].md",
@@ -42294,9 +42294,16 @@
           "show": "Huberman Lab",
           "title": "Science of Social Bonding in Family, Friendship & Romantic Love",
           "url": "/wiki/sources/science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543/"
+        },
+        {
+          "episode_file": "SCIM5791514102 [SCIM5791514102].md",
+          "key": "scim5791514102-scim5791514102",
+          "show": "Huberman Lab",
+          "title": "Science of Stress, Testosterone & Free Will | Dr. Robert Sapolsky",
+          "url": "/wiki/sources/scim5791514102-scim5791514102/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/contextdependentsocialhormoneeffects/"
     },
     "ContextualBanditPersonalization": {
@@ -74690,9 +74697,9 @@
       "url": "/wiki/concepts/freespeechcoalitionvpaxton/"
     },
     "FreeWill": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
@@ -74714,9 +74721,16 @@
           "show": "Huberman Lab",
           "title": "Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris",
           "url": "/wiki/sources/using-meditation-to-focus-view-consciousness-expand-your-mind-dr-sam-harris-scim3261454307/"
+        },
+        {
+          "episode_file": "SCIM5791514102 [SCIM5791514102].md",
+          "key": "scim5791514102-scim5791514102",
+          "show": "Huberman Lab",
+          "title": "Science of Stress, Testosterone & Free Will | Dr. Robert Sapolsky",
+          "url": "/wiki/sources/scim5791514102-scim5791514102/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/freewill/"
     },
     "FreedomDutyAndSelfhood": {
@@ -133597,9 +133611,9 @@
       "url": "/wiki/entities/mengmengjiang/"
     },
     "MenopausalHormoneTherapy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1557774220 [SCIM1557774220].md",
@@ -133614,9 +133628,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
           "url": "/wiki/sources/how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5123681521/"
+        },
+        {
+          "episode_file": "SCIM5791514102 [SCIM5791514102].md",
+          "key": "scim5791514102-scim5791514102",
+          "show": "Huberman Lab",
+          "title": "Science of Stress, Testosterone & Free Will | Dr. Robert Sapolsky",
+          "url": "/wiki/sources/scim5791514102-scim5791514102/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/menopausalhormonetherapy/"
     },
     "MenopauseClinicalSharedDecision": {
@@ -138308,6 +138329,29 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/moralpressureadjudication/"
+    },
+    "MoralResponsibilityUnderDeterminism": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
+          "key": "ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx",
+          "show": "Talk三联",
+          "title": "EP256 AI时代，“自由意志”还存在吗？",
+          "url": "/wiki/sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx/"
+        },
+        {
+          "episode_file": "SCIM5791514102 [SCIM5791514102].md",
+          "key": "scim5791514102-scim5791514102",
+          "show": "Huberman Lab",
+          "title": "Science of Stress, Testosterone & Free Will | Dr. Robert Sapolsky",
+          "url": "/wiki/sources/scim5791514102-scim5791514102/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/moralresponsibilityunderdeterminism/"
     },
     "MoralSlanderReframing": {
       "episode_count": 2,
@@ -170808,6 +170852,29 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/robertnapier/"
     },
+    "RobertSapolsky": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
+          "key": "ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx",
+          "show": "Talk三联",
+          "title": "EP256 AI时代，“自由意志”还存在吗？",
+          "url": "/wiki/sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx/"
+        },
+        {
+          "episode_file": "SCIM5791514102 [SCIM5791514102].md",
+          "key": "scim5791514102-scim5791514102",
+          "show": "Huberman Lab",
+          "title": "Science of Stress, Testosterone & Free Will | Dr. Robert Sapolsky",
+          "url": "/wiki/sources/scim5791514102-scim5791514102/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/robertsapolsky/"
+    },
     "RobertStephenson": {
       "episode_count": 1,
       "show_count": 1,
@@ -188029,9 +188096,9 @@
       "url": "/wiki/concepts/stresseatingrewardloop/"
     },
     "StressResponseRecovery": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -188053,9 +188120,16 @@
           "show": "Tomorrow, Today",
           "title": "Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490/"
+        },
+        {
+          "episode_file": "SCIM5791514102 [SCIM5791514102].md",
+          "key": "scim5791514102-scim5791514102",
+          "show": "Huberman Lab",
+          "title": "Science of Stress, Testosterone & Free Will | Dr. Robert Sapolsky",
+          "url": "/wiki/sources/scim5791514102-scim5791514102/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/stressresponserecovery/"
     },
     "StressUrinaryIncontinence": {
