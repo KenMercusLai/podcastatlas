@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9415
+wiki_total_pages: 9418
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1019,6 +1019,9 @@ wiki_pages:
   - key: "TurnkeyHandsetSolutions"
     title: "Turnkey Handset Solutions"
     url: "/wiki/concepts/turnkeyhandsetsolutions/"
+  - key: "TutoringRestrictionSubstitutionEffect"
+    title: "Tutoring Restriction Substitution Effect / 校外培训限制的替代效应"
+    url: "/wiki/concepts/tutoringrestrictionsubstitutioneffect/"
   - key: "TVMotionStutter"
     title: "TV Motion Stutter"
     url: "/wiki/concepts/tvmotionstutter/"

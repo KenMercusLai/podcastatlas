@@ -28236,3 +28236,11 @@ Added source `74-the-six-wives-of-henry-viii-glt6913826589`; created `CatherineO
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？
+
+Added source `ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf`; created `ChenPrimarySchoolTeacher`, `KouziMother`, `EducationCompetitionUncertaintyLoop`, `TutoringRestrictionSubstitutionEffect`, and `FamilyEducationAlignment`; and resynthesized `WushichaYanjiusuo` and `EducationResourceEqualizationSystemLimits` from their complete preserved evidence inventories. Core synthesis: opaque comparison and scarce educational opportunity can turn tutoring and credentials into reassurance purchases, while restrictions that change visible supply without changing selection demand may shift preparation into less visible and more unequal forms. The episode's preferred counterweight is selective rather than absent investment, stable family coordination, durable school and teacher capacity, and educational aims that include kindness, curiosity, experience, health, resilience, and autonomy. No settled contradiction was adopted. Regional comparisons, school quality, teacher staffing, substitute pay, tutoring behavior, child outcomes, and mental-health interpretations remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,529-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

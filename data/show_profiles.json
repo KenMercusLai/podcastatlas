@@ -2350,14 +2350,14 @@
       "earliest_episode_date": "2018-08-12",
       "latest_episode_date": "2026-09-22",
       "latest_episode_file": "GKwRIJIOiF27Ag4hdwTbxhjB [GKwRIJIOiF27Ag4hdwTbxhjB].md",
-      "source_note_count": 12,
-      "topic_matched_source_note_count": 5,
+      "source_note_count": 13,
+      "topic_matched_source_note_count": 6,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 4
+          "source_note_count": 5
         },
         {
           "key": "science",

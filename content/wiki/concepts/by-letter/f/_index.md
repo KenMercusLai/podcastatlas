@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9415
+wiki_total_pages: 9418
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "FamilyCommunicationScaffolding"
     title: "Family Communication Scaffolding"
     url: "/wiki/concepts/familycommunicationscaffolding/"
+  - key: "FamilyEducationAlignment"
+    title: "Family Education Alignment / 家庭教育协同"
+    url: "/wiki/concepts/familyeducationalignment/"
   - key: "FamilyEthicsAtEndOfLife"
     title: "Family Ethics At End Of Life"
     url: "/wiki/concepts/familyethicsatendoflife/"

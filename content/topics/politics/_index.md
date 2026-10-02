@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3019
+topic_total_pages: 3020
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4042,6 +4042,9 @@ topic_concepts:
   - key: "TurkishOppositionRealignment"
     title: "Turkish Opposition Realignment"
     url: "/wiki/concepts/turkishoppositionrealignment/"
+  - key: "TutoringRestrictionSubstitutionEffect"
+    title: "Tutoring Restriction Substitution Effect / 校外培训限制的替代效应"
+    url: "/wiki/concepts/tutoringrestrictionsubstitutioneffect/"
   - key: "TwentyFifthAmendment"
     title: "Twenty-Fifth Amendment"
     url: "/wiki/concepts/twentyfifthamendment/"

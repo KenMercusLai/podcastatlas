@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12117
+wiki_total_pages: 12119
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "KeikoBoxer"
     title: "惠子 / Keiko (boxer)"
     url: "/wiki/entities/keikoboxer/"
+  - key: "KouziMother"
+    title: "扣子妈妈 / Kouzi's mother"
+    url: "/wiki/entities/kouzimother/"
   - key: "KitcheeSC"
     title: "杰志 / Kitchee SC"
     url: "/wiki/entities/kitcheesc/"

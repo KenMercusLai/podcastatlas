@@ -33656,6 +33656,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/chenlinlatehan/"
     },
+    "ChenPrimarySchoolTeacher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIDoEwBb3ABAAAADGPBgF [CKwRIDoEwBb3ABAAAADGPBgF].md",
+          "key": "ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf",
+          "show": "无时差研究所",
+          "title": "EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？",
+          "url": "/wiki/sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/chenprimaryschoolteacher/"
+    },
     "ChenQiuLateHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -57896,6 +57912,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/eduardhabsburg/"
     },
+    "EducationCompetitionUncertaintyLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIDoEwBb3ABAAAADGPBgF [CKwRIDoEwBb3ABAAAADGPBgF].md",
+          "key": "ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf",
+          "show": "无时差研究所",
+          "title": "EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？",
+          "url": "/wiki/sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/educationcompetitionuncertaintyloop/"
+    },
     "EducationMarginBurden": {
       "episode_count": 1,
       "show_count": 1,
@@ -57943,9 +57975,9 @@
       "url": "/wiki/concepts/educationmotivationarchitecture/"
     },
     "EducationResourceEqualizationSystemLimits": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CKwRIasFCgeVABAAAADf6hi3 [CKwRIasFCgeVABAAAADf6hi3].md",
@@ -57953,6 +57985,13 @@
           "show": "无时差研究所",
           "title": "EP188-教师节对话做题家养成师：当代做题界现状答疑",
           "url": "/wiki/sources/ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3/"
+        },
+        {
+          "episode_file": "CKwRIDoEwBb3ABAAAADGPBgF [CKwRIDoEwBb3ABAAAADGPBgF].md",
+          "key": "ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf",
+          "show": "无时差研究所",
+          "title": "EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？",
+          "url": "/wiki/sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf/"
         }
       ],
       "updated": "2026-10-03",
@@ -68219,6 +68258,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/familycommunicationscaffolding/"
+    },
+    "FamilyEducationAlignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIDoEwBb3ABAAAADGPBgF [CKwRIDoEwBb3ABAAAADGPBgF].md",
+          "key": "ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf",
+          "show": "无时差研究所",
+          "title": "EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？",
+          "url": "/wiki/sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/familyeducationalignment/"
     },
     "FamilyHealthcarePersuasion": {
       "episode_count": 2,
@@ -114052,6 +114107,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/kouxuneasternhan/"
+    },
+    "KouziMother": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIDoEwBb3ABAAAADGPBgF [CKwRIDoEwBb3ABAAAADGPBgF].md",
+          "key": "ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf",
+          "show": "无时差研究所",
+          "title": "EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？",
+          "url": "/wiki/sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/kouzimother/"
     },
     "Krakow": {
       "episode_count": 1,
@@ -202422,6 +202493,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/turingtestjudgmenttrap/"
     },
+    "TutoringRestrictionSubstitutionEffect": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIDoEwBb3ABAAAADGPBgF [CKwRIDoEwBb3ABAAAADGPBgF].md",
+          "key": "ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf",
+          "show": "无时差研究所",
+          "title": "EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？",
+          "url": "/wiki/sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/tutoringrestrictionsubstitutioneffect/"
+    },
     "TwentyFourHistories": {
       "episode_count": 1,
       "show_count": 1,
@@ -215421,9 +215508,9 @@
       "url": "/wiki/entities/wurenzhixiao/"
     },
     "WushichaYanjiusuo": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -215508,6 +215595,13 @@
           "show": "无时差研究所",
           "title": "EP182-占星学的新时代，都市青年的精神归宿",
           "url": "/wiki/sources/ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw/"
+        },
+        {
+          "episode_file": "CKwRIDoEwBb3ABAAAADGPBgF [CKwRIDoEwBb3ABAAAADGPBgF].md",
+          "key": "ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf",
+          "show": "无时差研究所",
+          "title": "EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？",
+          "url": "/wiki/sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf/"
         }
       ],
       "updated": "2026-10-03",

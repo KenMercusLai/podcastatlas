@@ -19891,6 +19891,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ChenPrimarySchoolTeacher": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ChenTangWesternHan": [
     {
       "key": "history",
@@ -29211,6 +29218,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "EducationCompetitionUncertaintyLoop": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "EducationDepartmentAbolition": [
     {
       "key": "politics",
@@ -32083,6 +32097,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "FamilyEducationAlignment": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "FamilyMemoryNonfiction": [
@@ -48000,6 +48021,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "KouziMother": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Krakow": [
@@ -82353,6 +82381,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "TutoringRestrictionSubstitutionEffect": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "TwelveInsigniaPoliticalSymbolism": [
     {
       "key": "history",
@@ -93748,6 +93788,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3": [

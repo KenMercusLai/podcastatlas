@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9415
+wiki_total_pages: 9418
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "EducationAccountabilityProtest"
     title: "Education Accountability Protest"
     url: "/wiki/concepts/educationaccountabilityprotest/"
+  - key: "EducationCompetitionUncertaintyLoop"
+    title: "Education Competition Uncertainty Loop / 教育竞争不确定性循环"
+    url: "/wiki/concepts/educationcompetitionuncertaintyloop/"
   - key: "EducationDepartmentAbolition"
     title: "Education Department Abolition"
     url: "/wiki/concepts/educationdepartmentabolition/"

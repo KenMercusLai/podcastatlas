@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12117
+wiki_total_pages: 12119
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2459,6 +2459,9 @@ wiki_pages:
   - key: "ChenQun"
     title: "陈群 / Chen Qun"
     url: "/wiki/entities/chenqun/"
+  - key: "ChenPrimarySchoolTeacher"
+    title: "陈老师 / Chen (primary-school teacher)"
+    url: "/wiki/entities/chenprimaryschoolteacher/"
   - key: "ChenSportsRehabilitationGuest"
     title: "陈老师 / Chen (sports-rehabilitation guest)"
     url: "/wiki/entities/chensportsrehabilitationguest/"

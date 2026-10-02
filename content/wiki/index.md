@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？](sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf.md) — 无时差研究所 episode on education competition, advance learning, tutoring substitution, school capacity, family coordination, and child-development goals beyond scores.
 - [74. The Six Wives of Henry VIII](sources/74-the-six-wives-of-henry-viii-glt6913826589.md) — The Rest Is History on Henry VIII's marriages as a collision of dynastic insecurity, European diplomacy, religious change, court faction, gender, and coercive monarchy.
 - [Maximizing Productivity, Physical & Mental Health with Daily Tools](sources/scim3608509346-scim3608509346.md) — Full-length Huberman Lab daily-protocol episode coordinating circadian cues, focused work, exercise, meals, recovery, and sleep with explicit individual-fit and evidence boundaries.
 - [75. The East India Company](sources/75-the-east-india-company-glt7809915873.md) — The Rest Is History with William Dalrymple on joint-stock trade, Bengal's wealth, Indian finance and soldiers, Plassey, famine, corporate bankruptcy, and the Company's conversion into imperial government.
@@ -3590,6 +3591,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [陈老师 / Chen (primary-school teacher)](entities/ChenPrimarySchoolTeacher.md) — EP180 teacher connecting classroom attention and fatigue to staffing capacity, student safety, and educational aims beyond rank.
+- [扣子妈妈 / Kouzi's mother](entities/KouziMother.md) — EP180 Beijing parent distinguishing selective extracurricular investment from preschool acceleration and credential-maximizing competition.
 - [Catherine of Aragon](entities/CatherineOfAragon.md) — Henry VIII's first wife, active queen, mother of Mary, and defender of her marriage's validity amid dynastic and church-state crisis.
 - [Anne Boleyn](entities/AnneBoleyn.md) — Henry VIII's second wife, reformist influence, mother of Elizabeth, and queen destroyed through unresolved allegations and court prosecution.
 - [Jane Seymour](entities/JaneSeymour.md) — Henry VIII's third wife and mother of Edward VI, whose dynastic importance exceeds the secure evidence for her personality.
@@ -15752,6 +15755,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Education Competition Uncertainty Loop / 教育竞争不确定性循环](concepts/EducationCompetitionUncertaintyLoop.md) — Escalation mechanism joining opaque comparison, scarce opportunity, reassurance spending, and rising preparation norms.
+- [Tutoring Restriction Substitution Effect / 校外培训限制的替代效应](concepts/TutoringRestrictionSubstitutionEffect.md) — Policy boundary where persistent selection demand can move tutoring online, into homes, or toward costlier private forms.
+- [Family Education Alignment / 家庭教育协同](concepts/FamilyEducationAlignment.md) — Role-neutral coordination of parental participation, responsibility, emotional steadiness, and consistent education boundaries.
 - [Tudor Royal Marriage Statecraft](concepts/TudorRoyalMarriageStatecraft.md) — Framework joining royal marriage to succession, diplomacy, religion, court faction, law, property, and coercive power.
 - [Chartered-Company Sovereignty](concepts/CharteredCompanySovereignty.md) — Conversion of state-chartered commerce into territorial, fiscal, military, and governing power under unresolved profit-responsibility tensions.
 - [Statue Commemoration Politics](concepts/StatueCommemorationPolitics.md) — Framework joining original purpose, complete biography, placement, balance, counter-memory, later reception, and removal disputes.
