@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 11920
+wiki_total_pages: 11923
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "KarlDrais"
     title: "Karl Drais / 卡尔·德莱斯"
     url: "/wiki/entities/karldrais/"
+  - key: "KarlI"
+    title: "Karl I"
+    url: "/wiki/entities/karli/"
   - key: "KarlJaspers"
     title: "Karl Jaspers / 卡尔·亚斯贝尔斯"
     url: "/wiki/entities/karljaspers/"

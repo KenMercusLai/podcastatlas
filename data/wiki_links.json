@@ -167,6 +167,10 @@
     "title": "12 Days: Solomon Northup and Albert Camus",
     "url": "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"
   },
+  "12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248": {
+    "title": "12 Days: The Battle of Wakefield and Emperor Karl I",
+    "url": "/wiki/sources/12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248/"
+  },
   "12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675": {
     "title": "12.慢：当米兰·昆德拉一句正经没有",
     "url": "/wiki/sources/12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675/"
@@ -10630,6 +10634,10 @@
   "BattleOfValmy": {
     "title": "Battle of Valmy",
     "url": "/wiki/entities/battleofvalmy/"
+  },
+  "BattleOfWakefield": {
+    "title": "Battle of Wakefield",
+    "url": "/wiki/concepts/battleofwakefield/"
   },
   "Battlecode": {
     "title": "Battlecode",
@@ -36147,6 +36155,10 @@
     "title": "Holocaust Warning-to-Action Gap",
     "url": "/wiki/concepts/holocaustwarningactiongap/"
   },
+  "HolyCrownOfHungary": {
+    "title": "Holy Crown of Hungary",
+    "url": "/wiki/entities/holycrownofhungary/"
+  },
   "HolyGrail": {
     "title": "Holy Grail",
     "url": "/wiki/entities/holygrail/"
@@ -42902,6 +42914,10 @@
   "KarlDrais": {
     "title": "Karl Drais / 卡尔·德莱斯",
     "url": "/wiki/entities/karldrais/"
+  },
+  "KarlI": {
+    "title": "Karl I",
+    "url": "/wiki/entities/karli/"
   },
   "KarlJaspers": {
     "title": "Karl Jaspers / 卡尔·亚斯贝尔斯",
@@ -65210,6 +65226,10 @@
   "RichardOfShrewsbury": {
     "title": "Richard of Shrewsbury",
     "url": "/wiki/entities/richardofshrewsbury/"
+  },
+  "RichardOfYork": {
+    "title": "Richard of York",
+    "url": "/wiki/entities/richardofyork/"
   },
   "RichardRoose": {
     "title": "Richard Roose",

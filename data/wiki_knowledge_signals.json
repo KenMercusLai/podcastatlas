@@ -16713,9 +16713,9 @@
       "url": "/wiki/entities/austria/"
     },
     "AustriaHungary": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -16772,9 +16772,16 @@
           "show": "The Rest Is History",
           "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
           "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
+        },
+        {
+          "episode_file": "GLT9919744248 [GLT9919744248].md",
+          "key": "12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248",
+          "show": "The Rest Is History",
+          "title": "12 Days: The Battle of Wakefield and Emperor Karl I",
+          "url": "/wiki/sources/12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/austriahungary/"
     },
     "AustrianFirstVictimNarrative": {
@@ -19857,6 +19864,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/battleofvalmy/"
+    },
+    "BattleOfWakefield": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9919744248 [GLT9919744248].md",
+          "key": "12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248",
+          "show": "The Rest Is History",
+          "title": "12 Days: The Battle of Wakefield and Emperor Karl I",
+          "url": "/wiki/sources/12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/battleofwakefield/"
     },
     "BattlefieldFeintAndLure": {
       "episode_count": 7,
@@ -89467,6 +89490,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/holocaustwarningactiongap/"
     },
+    "HolyCrownOfHungary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9919744248 [GLT9919744248].md",
+          "key": "12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248",
+          "show": "The Rest Is History",
+          "title": "12 Days: The Battle of Wakefield and Emperor Karl I",
+          "url": "/wiki/sources/12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/holycrownofhungary/"
+    },
     "HolyGrail": {
       "episode_count": 1,
       "show_count": 1,
@@ -107611,6 +107650,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/karldeisseroth/"
+    },
+    "KarlI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9919744248 [GLT9919744248].md",
+          "key": "12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248",
+          "show": "The Rest Is History",
+          "title": "12 Days: The Battle of Wakefield and Emperor Karl I",
+          "url": "/wiki/sources/12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/karli/"
     },
     "KarlLudwigOfAustria": {
       "episode_count": 1,
@@ -164662,6 +164717,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/richardofshrewsbury/"
     },
+    "RichardOfYork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9919744248 [GLT9919744248].md",
+          "key": "12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248",
+          "show": "The Rest Is History",
+          "title": "12 Days: The Battle of Wakefield and Emperor Karl I",
+          "url": "/wiki/sources/12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/richardofyork/"
+    },
     "RichardRoose": {
       "episode_count": 1,
       "show_count": 1,
@@ -201836,9 +201907,9 @@
       "url": "/wiki/entities/warrencommission/"
     },
     "WarsOfTheRoses": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "31.冰与火之歌：虽然从不自称历史 [594509848].md",
@@ -201860,6 +201931,13 @@
           "show": "The Rest Is History",
           "title": "138. The Princes in the Tower Part 1",
           "url": "/wiki/sources/138-the-princes-in-the-tower-part-1-glt6274021473/"
+        },
+        {
+          "episode_file": "GLT9919744248 [GLT9919744248].md",
+          "key": "12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248",
+          "show": "The Rest Is History",
+          "title": "12 Days: The Battle of Wakefield and Emperor Karl I",
+          "url": "/wiki/sources/12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248/"
         }
       ],
       "updated": "2026-10-02",

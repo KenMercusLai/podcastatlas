@@ -284,6 +284,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675": [
     {
       "key": "culture",
@@ -14823,6 +14830,13 @@
     }
   ],
   "BattleOfLoos": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "BattleOfWakefield": [
     {
       "key": "history",
       "label": "History",

@@ -27443,3 +27443,11 @@ Added source `12-days-jean-bedel-bokassa-and-the-memory-of-pandemics-glt83353173
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 12 Days: The Battle of Wakefield and Emperor Karl I
+
+Added source `12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248`; created `RichardOfYork`, `KarlI`, `HolyCrownOfHungary`, and `BattleOfWakefield`; and resynthesized `WarsOfTheRoses` and `AustriaHungary` from their complete preserved evidence inventories. Core synthesis: Richard of York's credible claim could not overcome the sacred standing of an anointed king or the military disaster at Wakefield, while Karl I's coronation, reform ideas, peace efforts, and restoration claims could not replace the state capacity lost through war, German dependence, and imperial collapse. No settled contradiction was adopted. Wakefield's tactics, Shakespeare's memory effects, crown origins, reform feasibility, peace diplomacy, and the legal and geopolitical details of restoration remain unresolved or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,429-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

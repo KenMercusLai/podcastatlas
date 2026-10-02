@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2374
+topic_total_pages: 2376
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -97,6 +97,9 @@ topic_concepts:
   - key: "BanditAssassinationAttribution"
     title: "Bandit Assassination Attribution / 盗贼行刺归因"
     url: "/wiki/concepts/banditassassinationattribution/"
+  - key: "BattleOfWakefield"
+    title: "Battle of Wakefield"
+    url: "/wiki/concepts/battleofwakefield/"
   - key: "BattlefieldCommanderReplacementRisk"
     title: "Battlefield Commander Replacement Risk / 阵前换将风险"
     url: "/wiki/concepts/battlefieldcommanderreplacementrisk/"
@@ -4812,6 +4815,9 @@ topic_sources:
   - key: "12-days-solomon-northup-and-albert-camus-glt6039583450"
     title: "12 Days: Solomon Northup and Albert Camus"
     url: "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"
+  - key: "12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248"
+    title: "12 Days: The Battle of Wakefield and Emperor Karl I"
+    url: "/wiki/sources/12-days-the-battle-of-wakefield-and-emperor-karl-i-glt9919744248/"
   - key: "120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218"
     title: "120.蓝狐岛：伟大事业中的雄心与现实"
     url: "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"
