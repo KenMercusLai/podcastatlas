@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9274
+wiki_total_pages: 9279
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "EvilAsResponsibilityFailure"
     title: "Evil As Responsibility Failure"
     url: "/wiki/concepts/evilasresponsibilityfailure/"
+  - key: "EvolutionaryMatingStrategies"
+    title: "Evolutionary Mating Strategies"
+    url: "/wiki/concepts/evolutionarymatingstrategies/"
   - key: "EvolutionaryMisrecognition"
     title: "Evolutionary Misrecognition / 进化式误认"
     url: "/wiki/concepts/evolutionarymisrecognition/"

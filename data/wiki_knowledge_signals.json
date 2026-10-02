@@ -47041,6 +47041,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/davidbreshears/"
     },
+    "DavidBuss": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4159413839 [SCIM4159413839].md",
+          "key": "how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839",
+          "show": "Huberman Lab",
+          "title": "How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss",
+          "url": "/wiki/sources/how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/davidbuss/"
+    },
     "DavidGiffels": {
       "episode_count": 1,
       "show_count": 1,
@@ -63550,6 +63566,22 @@
       ],
       "updated": "2026-08-05",
       "url": "/wiki/concepts/evidenceovertestimony/"
+    },
+    "EvolutionaryMatingStrategies": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4159413839 [SCIM4159413839].md",
+          "key": "how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839",
+          "show": "Huberman Lab",
+          "title": "How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss",
+          "url": "/wiki/sources/how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/evolutionarymatingstrategies/"
     },
     "EvolutionaryMisrecognition": {
       "episode_count": 1,
@@ -103087,6 +103119,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/jaybhattacharya/"
     },
+    "JealousyAndMateRetention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4159413839 [SCIM4159413839].md",
+          "key": "how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839",
+          "show": "Huberman Lab",
+          "title": "How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss",
+          "url": "/wiki/sources/how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/jealousyandmateretention/"
+    },
     "JealousyAsPoliticalViolence": {
       "episode_count": 2,
       "show_count": 1,
@@ -128588,6 +128636,38 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/matamba/"
     },
+    "MateSwitchingHypothesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4159413839 [SCIM4159413839].md",
+          "key": "how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839",
+          "show": "Huberman Lab",
+          "title": "How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss",
+          "url": "/wiki/sources/how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/mateswitchinghypothesis/"
+    },
+    "MateValueAndMutualChoice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4159413839 [SCIM4159413839].md",
+          "key": "how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839",
+          "show": "Huberman Lab",
+          "title": "How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss",
+          "url": "/wiki/sources/how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/matevalueandmutualchoice/"
+    },
     "MaternalImmuneActivation": {
       "episode_count": 1,
       "show_count": 1,
@@ -128675,6 +128755,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/maternalstatussuccessionleverage/"
+    },
+    "MatingConflictRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4159413839 [SCIM4159413839].md",
+          "key": "how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839",
+          "show": "Huberman Lab",
+          "title": "How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss",
+          "url": "/wiki/sources/how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/matingconflictrisk/"
     },
     "MattBallColorado": {
       "episode_count": 1,

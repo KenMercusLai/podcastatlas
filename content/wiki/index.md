@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss](sources/how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839.md) — Huberman Lab interview on evolutionary mating strategies, mutual choice, mate value, infidelity, jealousy, coercive control, and evidence limits.
 - [127. Neanderthals](sources/127-neanderthals-glt5202048433.md) — The Rest Is History with Chris Stringer on Neanderthal discovery, behavioral complexity, interbreeding, changing interpretation, and multicausal extinction.
 - [Erasing Fears & Traumas Based on the Modern Neuroscience of Fear](sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962.md) — Huberman Lab episode on distributed fear circuitry, conditioned trauma cues, extinction plus adaptive relearning, EMDR limits, assisted psychotherapy, social support, and deliberate-stress boundaries.
 - [183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增](sources/ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1.md) — LateTalk review of Q3 2026 personal agents, frontier models, robotics, multi-agent research and security, AI-for-science, model economics, and revenue uncertainty.
@@ -3507,6 +3508,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 
 ## Entities
+- [David Buss](entities/DavidBuss.md) — Evolutionary psychologist explaining mutual mate choice, mating strategies, scientific revision, jealousy, and mating-conflict risk.
 - [Neanderthals](entities/Neanderthals.md) — Distinct extinct human lineage with complex behavior, long Homo sapiens contact, and partial genetic survival through interbreeding.
 - [Chris Stringer](entities/ChrisStringer.md) — Paleoanthropologist interpreting Neanderthals through calibrated fossil, archaeological, genetic, and demographic evidence.
 - [Dots Personal Agent](entities/DotsPersonalAgent.md) — Source-reported OpenAI assistant using a persistent cloud computer, browser, and delegated tools inside ChatGPT.
@@ -15515,6 +15517,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Evolutionary Mating Strategies](concepts/EvolutionaryMatingStrategies.md) — Mutual-choice framework separating long-term, short-term, retention, switching, and conflict contexts.
+- [Mate Value and Mutual Choice](concepts/MateValueAndMutualChoice.md) — Multidimensional and reciprocal model of romantic desirability that rejects a single universal score.
+- [Mate Switching Hypothesis](concepts/MateSwitchingHypothesis.md) — Hypothesis that some affairs assess or establish a replacement primary partnership.
+- [Jealousy and Mate Retention](concepts/JealousyAndMateRetention.md) — Pair-bond threat response ranging from reassurance to unsafe surveillance, isolation, stalking, and violence.
+- [Mating Conflict Risk](concepts/MatingConflictRisk.md) — Conduct-centered framework for deception, sexual overperception, coercive control, stalking, and repeat offending.
 - [Neanderthal Behavioral Complexity](concepts/NeanderthalBehavioralComplexity.md) — Cumulative evidence for Neanderthal technology, culture, care, burial, visual signaling, and probable language with explicit inference limits.
 - [Archaic Human Interbreeding](concepts/ArchaicHumanInterbreeding.md) — Gene flow among recent human lineages that joins population disappearance to partial genetic survival without settling encounter conditions.
 - [Neanderthal Extinction Causal Pluralism](concepts/NeanderthalExtinctionCausalPluralism.md) — Multicausal account combining demographic fragility, climate instability, competition, pathogens, and absorption.

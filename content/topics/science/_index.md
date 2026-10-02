@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1401
+topic_total_pages: 1404
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1267,6 +1267,9 @@ topic_concepts:
   - key: "MarshmallowTestContext"
     title: "Marshmallow Test Context"
     url: "/wiki/concepts/marshmallowtestcontext/"
+  - key: "MateValueAndMutualChoice"
+    title: "Mate Value and Mutual Choice"
+    url: "/wiki/concepts/matevalueandmutualchoice/"
   - key: "MaternalImmuneActivation"
     title: "Maternal Immune Activation"
     url: "/wiki/concepts/maternalimmuneactivation/"
@@ -2588,6 +2591,9 @@ topic_entities:
   - key: "DavidBerson"
     title: "David Berson"
     url: "/wiki/entities/davidberson/"
+  - key: "DavidBuss"
+    title: "David Buss"
+    url: "/wiki/entities/davidbuss/"
   - key: "DavidLinden"
     title: "David Linden"
     url: "/wiki/entities/davidlinden/"
@@ -3846,6 +3852,9 @@ topic_sources:
   - key: "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002"
     title: "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang"
     url: "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
+  - key: "how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839"
+    title: "How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss"
+    url: "/wiki/sources/how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839/"
   - key: "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274"
     title: "How Placebo Effects Work to Change Our Biology & Psychology"
     url: "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"

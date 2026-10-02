@@ -27586,3 +27586,11 @@ Added source `127-neanderthals-glt5202048433`; created `Neanderthals`, `ChrisStr
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss
+
+Added source `how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839`; created `DavidBuss`, `EvolutionaryMatingStrategies`, `MateValueAndMutualChoice`, `MateSwitchingHypothesis`, `JealousyAndMateRetention`, and `MatingConflictRisk`. Core synthesis: human mating combines mutual choice with competition across long-term, short-term, retention, and switching contexts; mate value is multidimensional and reciprocal; later ovulation evidence moved Buss toward a mate-switching account of many affairs; and jealousy can range from pair-bond protection to dangerous coercion, stalking, or violence. No settled contradiction was adopted. Sex differences, prevalence rates, dark-triad associations, evolutionary functions, and app or pornography effects remain population-level, source-scoped, or method-limited, while Paul Eastwick's pair-specific attraction research qualifies universal ranking claims. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,447-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

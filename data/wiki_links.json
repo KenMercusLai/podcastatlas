@@ -21471,6 +21471,10 @@
     "title": "David Breshears",
     "url": "/wiki/entities/davidbreshears/"
   },
+  "DavidBuss": {
+    "title": "David Buss",
+    "url": "/wiki/entities/davidbuss/"
+  },
   "DavidCameron": {
     "title": "David Cameron",
     "url": "/wiki/entities/davidcameron/"
@@ -26922,6 +26926,10 @@
   "Evoken": {
     "title": "Evoken / 言语科技",
     "url": "/wiki/entities/evoken/"
+  },
+  "EvolutionaryMatingStrategies": {
+    "title": "Evolutionary Mating Strategies",
+    "url": "/wiki/concepts/evolutionarymatingstrategies/"
   },
   "EvolutionaryMisrecognition": {
     "title": "Evolutionary Misrecognition / 进化式误认",
@@ -40747,6 +40755,10 @@
     "title": "Jay Bhattacharya",
     "url": "/wiki/entities/jaybhattacharya/"
   },
+  "JealousyAndMateRetention": {
+    "title": "Jealousy and Mate Retention",
+    "url": "/wiki/concepts/jealousyandmateretention/"
+  },
   "JealousyAsPoliticalViolence": {
     "title": "Jealousy as Political Violence / 嫉妒转化为政治杀机",
     "url": "/wiki/concepts/jealousyaspoliticalviolence/"
@@ -50455,6 +50467,14 @@
     "title": "Matamba",
     "url": "/wiki/entities/matamba/"
   },
+  "MateSwitchingHypothesis": {
+    "title": "Mate Switching Hypothesis",
+    "url": "/wiki/concepts/mateswitchinghypothesis/"
+  },
+  "MateValueAndMutualChoice": {
+    "title": "Mate Value and Mutual Choice",
+    "url": "/wiki/concepts/matevalueandmutualchoice/"
+  },
   "MaterialHistoryNarrative": {
     "title": "Material History Narrative",
     "url": "/wiki/concepts/materialhistorynarrative/"
@@ -50498,6 +50518,10 @@
   "MatildaGould": {
     "title": "Matilda Gould",
     "url": "/wiki/entities/matildagould/"
+  },
+  "MatingConflictRisk": {
+    "title": "Mating Conflict Risk",
+    "url": "/wiki/concepts/matingconflictrisk/"
   },
   "MatriarchyQuestion": {
     "title": "Matriarchy Question",
@@ -90446,6 +90470,10 @@
   "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002": {
     "title": "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang",
     "url": "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
+  },
+  "how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839": {
+    "title": "How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss",
+    "url": "/wiki/sources/how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839/"
   },
   "how-meditation-works-science-based-effective-meditations-scim5642770846": {
     "title": "How Meditation Works & Science-Based Effective Meditations",

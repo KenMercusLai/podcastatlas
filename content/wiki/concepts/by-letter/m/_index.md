@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9274
+wiki_total_pages: 9279
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -368,6 +368,12 @@ wiki_pages:
   - key: "MassacreOfTheInnocents"
     title: "Massacre of the Innocents"
     url: "/wiki/concepts/massacreoftheinnocents/"
+  - key: "MateSwitchingHypothesis"
+    title: "Mate Switching Hypothesis"
+    url: "/wiki/concepts/mateswitchinghypothesis/"
+  - key: "MateValueAndMutualChoice"
+    title: "Mate Value and Mutual Choice"
+    url: "/wiki/concepts/matevalueandmutualchoice/"
   - key: "MaterialHistoryNarrative"
     title: "Material History Narrative"
     url: "/wiki/concepts/materialhistorynarrative/"
@@ -386,6 +392,9 @@ wiki_pages:
   - key: "MathematicalTheoryOfIntelligence"
     title: "Mathematical Theory Of Intelligence"
     url: "/wiki/concepts/mathematicaltheoryofintelligence/"
+  - key: "MatingConflictRisk"
+    title: "Mating Conflict Risk"
+    url: "/wiki/concepts/matingconflictrisk/"
   - key: "MatriarchyQuestion"
     title: "Matriarchy Question"
     url: "/wiki/concepts/matriarchyquestion/"
