@@ -5879,6 +5879,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "79-ancient-olympics-glt9627584488": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262": [
     {
       "key": "economics",
@@ -59351,6 +59358,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "OlympicTruce": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Oman": [

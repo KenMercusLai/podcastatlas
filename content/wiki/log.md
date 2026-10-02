@@ -28164,3 +28164,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 79. Ancient Olympics
+
+Added source `79-ancient-olympics-glt9627584488`; created `AncientOlympicGames`, `Kyniska`, `MiloOfCroton`, `AncientOlympicSacredCompetition`, `OlympicTruce`, and `AncientGreekAthleticGlory`; and resynthesized `ModernOlympicGames`, `ModernOlympicRevivalism`, and `OlympicAmateurism` from their complete preserved evidence inventories. Core synthesis: the ancient Games were a sacred festival of Zeus joining myth, sacrifice, oath, civic rivalry, unequal access, winner-centered glory, and violent heroic memory; the Olympic truce protected festival participation without ending war; and modern revival selectively borrowed ancient prestige without restoring the festival's religious and social system. No settled contradiction was adopted. Foundation dates, origin myths, ancient anecdotes, event rules, individual feats, cult stories, and the exact chronology and causes of decline remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,520-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

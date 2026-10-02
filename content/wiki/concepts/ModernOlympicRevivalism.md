@@ -4,6 +4,7 @@ type: concept
 tags: [olympics, revivalism, invented-tradition, nationalism]
 sources:
   - 80-modern-olympics-part-1-glt3795252606
+  - 79-ancient-olympics-glt9627584488
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,9 @@ Modern Olympic revivalism is the selective construction of new sporting institut
 
 ## Current Synthesis
 
-[[80-modern-olympics-part-1-glt3795252606]] rejects a simple story in which [[PierreDeCoubertin]] restored a dormant ancient institution. Robert Dover's Cotswold games, a Newmarket chariot race, Greek post-independence festivals, and [[WilliamPennyBrookes|William Penny Brookes's]] Much Wenlock Olympian movement supplied different meanings and practices before Coubertin's international project. Their motives ranged from festival culture and physical defense to national rebirth, social improvement, masculinity, and education.
+[[79-ancient-olympics-glt9627584488]] defines what could not be directly revived. The [[AncientOlympicGames]] belonged to Zeus worship, sacrifice, myth, male status boundaries, civic rivalry, winner-centered glory, and violent heroic culture. Reusing the name “Olympics” therefore created an appearance of familiarity across a profound change in religious purpose and social meaning.
+
+[[80-modern-olympics-part-1-glt3795252606]] rejects a simple story in which [[PierreDeCoubertin]] restored that dormant institution. Robert Dover's Cotswold games, a Newmarket chariot race, Greek post-independence festivals, and [[WilliamPennyBrookes|William Penny Brookes's]] Much Wenlock Olympian movement supplied different meanings and practices before Coubertin's international project. Their motives ranged from festival culture and physical defense to national rebirth, social improvement, masculinity, and education.
 
 What endured was not exact ancient continuity but a usable prestige language. The marathon itself was a modern event built around an ancient story; early Games attached themselves to world exhibitions; and Berlin 1936 used Hellenic bodies, torch imagery, and ceremony to connect an authoritarian modern state to classical beauty. Revivalism therefore created authority by selecting and staging the past, while organizational form kept changing with host needs and political context.
 
@@ -24,6 +27,7 @@ What endured was not exact ancient continuity but a usable prestige language. Th
 
 - Modern Olympic formation had multiple antecedents rather than one exclusive founder or birthplace.
 - Ancient continuity supplied prestige without dictating the actual program or institutional form.
+- The ancient festival's sacred and winner-centered logic makes direct restoration an especially misleading description.
 - Greek nationalism, Victorian improvement, French national anxiety, and internationalist rhetoric all shaped revival.
 - Local festivals and world exhibitions were practical infrastructure for early Olympic experimentation.
 - Newly invented events and ceremonies could later appear timeless through repetition.
@@ -31,6 +35,7 @@ What endured was not exact ancient continuity but a usable prestige language. Th
 
 ## Evidence
 
+- Ancient discontinuity: [[79-ancient-olympics-glt9627584488]] joins the old Games to Zeus worship, sacrifice, exclusion, civic competition, and heroic violence rather than modern secular sport.
 - English antecedents: [[80-modern-olympics-part-1-glt3795252606]] links Cotswold contests and Much Wenlock to festival culture, manliness, defense, and social improvement.
 - Greek antecedents: [[80-modern-olympics-part-1-glt3795252606]] describes post-independence nationalist calls and the 1859 Athens games.
 - Coubertin's synthesis: [[80-modern-olympics-part-1-glt3795252606]] connects Wenlock, French defeat, idealized British schooling, masculinity, patriotism, and peace rhetoric.
@@ -39,11 +44,12 @@ What endured was not exact ancient continuity but a usable prestige language. Th
 
 ## Counterevidence & Qualifications
 
-Multiple origins do not mean that every antecedent contributed equally or through a documented chain of influence. The source's motive attributions and “true birthplace” language are interpretive, and the account does not replace specialist work on ancient games, Greek revival organizations, Brookes, Coubertin, or the early international committees.
+Multiple origins do not mean that every antecedent contributed equally or through a documented chain of influence. Ancient-modern discontinuity does not erase genuine borrowing, admiration, or historical reference. The sources' motive attributions, ancient anecdotes, and “true birthplace” language are interpretive, and the account does not replace specialist work on ancient games, Greek revival organizations, Brookes, Coubertin, or the early international committees.
 
 ## What Changed
 
 - Created a multi-origin account that distinguishes selective classical authority from direct institutional continuity.
+- Added the ancient festival's sacred, exclusionary, and winner-centered form as the baseline against which revival is selective.
 
 ## Related Concepts
 

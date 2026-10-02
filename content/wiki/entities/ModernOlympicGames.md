@@ -5,6 +5,7 @@ tags: [sports, olympics, history, politics, mega-events]
 sources:
   - 81-modern-olympics-part-2-glt4846758176
   - 80-modern-olympics-part-1-glt3795252606
+  - 79-ancient-olympics-glt9627584488
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -13,11 +14,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Modern Olympic Games are an international sporting institution assembled from nineteenth-century revival movements and transformed into a recurring stage for athletic competition, national prestige, political conflict, mass media, and host-city development.
+The Modern Olympic Games are an international sporting institution assembled from nineteenth-century revival movements rather than a direct continuation of the sacred [[AncientOlympicGames]], and transformed into a recurring stage for athletic competition, national prestige, political conflict, mass media, and host-city development.
 
 ## Current Profile
 
-[[80-modern-olympics-part-1-glt3795252606]] presents the Games not as a direct restoration of antiquity but as a synthesis of English folk and improvement contests, Greek nationalist revival, [[WilliamPennyBrookes|Much Wenlock]], [[PierreDeCoubertin|Coubertin's]] educational and masculine ideals, [[OlympicAmateurism|elite amateurism]], world exhibitions, and national prestige. Early Games were improvised and sometimes dangerous, while the marathon and much later ceremonial tradition show how modern inventions could acquire the authority of antiquity.
+[[79-ancient-olympics-glt9627584488]] sharpens the historical boundary behind the modern name. The ancient festival joined Zeus worship, animal sacrifice, myth, civic representation, gender and status exclusion, brutal combat, and winner-centered glory; its truce enabled attendance without abolishing war. The modern institution could borrow Olympia's name and classical authority, but not simply restore that religious and social system.
+
+[[80-modern-olympics-part-1-glt3795252606]] presents the Games as a synthesis of English folk and improvement contests, Greek nationalist revival, [[WilliamPennyBrookes|Much Wenlock]], [[PierreDeCoubertin|Coubertin's]] educational and masculine ideals, [[OlympicAmateurism|elite amateurism]], world exhibitions, and national prestige. Early Games were improvised and sometimes dangerous, while the marathon and much later ceremonial tradition show how modern inventions could acquire the authority of antiquity.
 
 Berlin 1936 is the decisive prewar institutional and aesthetic turn in that source. Nazi image management, classical bodies, torch symbolism, film, and managed hospitality demonstrated how a host could use the Games to conceal repression and project modernity. [[JesseOwens|Jesse Owens's]] victories complicated racial propaganda without canceling the regime's wider prestige gain. [[81-modern-olympics-part-2-glt4846758176]] then follows the Games from London 1948 austerity through Cold War rivalry, television, sponsorship, protest, terrorism, boycotts, doping, and large urban commitments.
 
@@ -25,7 +28,7 @@ Together, the sources make politics constitutive rather than exceptional. Yet th
 
 ## Key Characteristics
 
-- Claims of ancient continuity rest on selective modern revival, invention, and institution building.
+- Claims of continuity rest on selective revival and invention because the ancient and modern Games differ in religious foundation, social logic, event culture, and institutional form.
 - International competition can become symbolic comparison among states and political systems.
 - Television, sponsorship, ceremony, and urban construction make the Games a media and infrastructure project as well as a sporting event.
 - Amateurism and eligibility rules can hide class advantage or materially different forms of athlete support.
@@ -35,6 +38,7 @@ Together, the sources make politics constitutive rather than exceptional. Yet th
 
 ## Evidence
 
+- Ancient-modern boundary: [[79-ancient-olympics-glt9627584488]] places ancient competition inside Zeus worship, sacrifice, civic rivalry, exclusion, and heroic violence.
 - Constructed origins: [[80-modern-olympics-part-1-glt3795252606]] connects Cotswold, Greek, Much Wenlock, Coubertin, exhibition, and amateur traditions.
 - Prewar transformation: [[80-modern-olympics-part-1-glt3795252606]] follows improvised early Games into Los Angeles ceremony and Berlin's propaganda template.
 - Postwar transformation: [[81-modern-olympics-part-2-glt4846758176]] contrasts London 1948's austerity with later spectacle, television, and construction.
@@ -44,13 +48,14 @@ Together, the sources make politics constitutive rather than exceptional. Yet th
 
 ## Qualifications
 
-The current profile is bounded to two conversational historical surveys and does not independently audit their origin claims, anecdotes, figures, event firsts, casualty totals, or city rankings. Multiple antecedents do not mean equal causal influence, and Berlin's importance does not make every later ceremony ideologically identical to its Nazi use. A poor fiscal or political legacy does not establish that every resident, athlete, or viewer receives no value, while memorable sporting moments do not validate governance failures.
+The current profile is bounded to three conversational historical surveys and does not independently audit their origin claims, ancient traditions, anecdotes, figures, event firsts, casualty totals, or city rankings. Difference from the ancient festival does not mean the modern movement drew no real inspiration from antiquity, while multiple modern antecedents do not mean equal causal influence. Berlin's importance does not make every later ceremony ideologically identical to its Nazi use. A poor fiscal or political legacy does not establish that every resident, athlete, or viewer receives no value, while memorable sporting moments do not validate governance failures.
 
 ## What Changed
 
 - Extended the profile backward from postwar transformation to the Games' constructed, multi-origin revival.
 - Added amateurism as a class and support-system problem rather than a neutral absence of pay.
 - Added Berlin 1936 as a template for ceremony, film, concealment, and host-state image management.
+- Sharpened the boundary between the modern institution and the ancient sacred festival it selectively invokes.
 
 ## Relationships
 

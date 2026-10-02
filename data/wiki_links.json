@@ -3319,6 +3319,10 @@
     "title": "78.西方决斗史：出剑吧！为了荣誉！",
     "url": "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
   },
+  "79-ancient-olympics-glt9627584488": {
+    "title": "79. Ancient Olympics",
+    "url": "/wiki/sources/79-ancient-olympics-glt9627584488/"
+  },
   "79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262": {
     "title": "79.各位领导，但凡咱学点博弈论：契约理论如何解释职场管理",
     "url": "/wiki/sources/79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262/"
@@ -7835,6 +7839,10 @@
     "title": "Ancient Chinese Soul Summoning / 招魂",
     "url": "/wiki/concepts/ancientchinesesoulsummoning/"
   },
+  "AncientGreekAthleticGlory": {
+    "title": "Ancient Greek Athletic Glory",
+    "url": "/wiki/concepts/ancientgreekathleticglory/"
+  },
   "AncientGreekHonorCommunity": {
     "title": "Ancient Greek Honor Community",
     "url": "/wiki/concepts/ancientgreekhonorcommunity/"
@@ -7846,6 +7854,14 @@
   "AncientLargeArmyCommandLimits": {
     "title": "Ancient Large-Army Command Limits / 古代大兵团指挥极限",
     "url": "/wiki/concepts/ancientlargearmycommandlimits/"
+  },
+  "AncientOlympicGames": {
+    "title": "Ancient Olympic Games",
+    "url": "/wiki/entities/ancientolympicgames/"
+  },
+  "AncientOlympicSacredCompetition": {
+    "title": "Ancient Olympic Sacred Competition",
+    "url": "/wiki/concepts/ancientolympicsacredcompetition/"
   },
   "AncientRomanSexualStatusHierarchy": {
     "title": "Ancient Roman Sexual Status Hierarchy",
@@ -44899,6 +44915,10 @@
     "title": "Kylin OS",
     "url": "/wiki/entities/kylinos/"
   },
+  "Kyniska": {
+    "title": "Kyniska",
+    "url": "/wiki/entities/kyniska/"
+  },
   "KyogokuNatsuhiko": {
     "title": "京极夏彦 / Kyogoku Natsuhiko",
     "url": "/wiki/entities/kyogokunatsuhiko/"
@@ -53103,6 +53123,10 @@
     "title": "Millian",
     "url": "/wiki/entities/millian/"
   },
+  "MiloOfCroton": {
+    "title": "Milo of Croton",
+    "url": "/wiki/entities/miloofcroton/"
+  },
   "MilojeVasic": {
     "title": "Miloje Vasić",
     "url": "/wiki/entities/milojevasic/"
@@ -57326,6 +57350,10 @@
   "OlympicHostCityLegacy": {
     "title": "Olympic Host-City Legacy",
     "url": "/wiki/concepts/olympichostcitylegacy/"
+  },
+  "OlympicTruce": {
+    "title": "Olympic Truce",
+    "url": "/wiki/concepts/olympictruce/"
   },
   "Oman": {
     "title": "Oman",

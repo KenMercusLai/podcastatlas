@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3014
+topic_total_pages: 3015
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2620,6 +2620,9 @@ topic_concepts:
   - key: "OilRevenueSanctionsLeverage"
     title: "Oil Revenue Sanctions Leverage"
     url: "/wiki/concepts/oilrevenuesanctionsleverage/"
+  - key: "OlympicTruce"
+    title: "Olympic Truce"
+    url: "/wiki/concepts/olympictruce/"
   - key: "OmenLaunderedPurge"
     title: "Omen-Laundered Purge / 天象包装式清洗"
     url: "/wiki/concepts/omenlaunderedpurge/"

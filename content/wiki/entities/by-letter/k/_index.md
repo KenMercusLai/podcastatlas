@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12101
+wiki_total_pages: 12104
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "KylinOS"
     title: "Kylin OS"
     url: "/wiki/entities/kylinos/"
+  - key: "Kyniska"
+    title: "Kyniska"
+    url: "/wiki/entities/kyniska/"
   - key: "Kyoto"
     title: "Kyoto / 京都"
     url: "/wiki/entities/kyoto/"

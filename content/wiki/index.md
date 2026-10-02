@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [79. Ancient Olympics](sources/79-ancient-olympics-glt9627584488.md) — The Rest Is History on the ancient Games as a sacred festival of Zeus shaped by victory culture, elite access, limited truce, civic politics, exclusion, sacrifice, and violent heroism.
 - [How to Optimize Your Brain-Body Function & Health](sources/scim4317576130-scim4317576130.md) — Early Huberman Lab episode on interoception, brain-body signaling, breathing, gut sensing, fermented foods, immune responses, and awareness-practice limits.
 - [80. Modern Olympics - Part 1](sources/80-modern-olympics-part-1-glt3795252606.md) — The Rest Is History on the Olympics' multi-origin revival, Coubertin, amateurism, improvised early Games, and Berlin 1936 as a propaganda template.
 - [81. Modern Olympics - Part 2](sources/81-modern-olympics-part-2-glt4846758176.md) — The Rest Is History on postwar Olympic austerity, Cold War rivalry, protest, violence, commercialization, host-city costs, and enduring athlete stories.
@@ -3581,6 +3582,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [Ancient Olympic Games](entities/AncientOlympicGames.md) — Sacred panhellenic festival joining Zeus worship, athletic victory, civic prestige, exclusion, sacrifice, and heroic memory.
+- [Kyniska](entities/Kyniska.md) — Spartan chariot owner whose Olympic victory exposes an elite ownership loophole within women's exclusion.
+- [Milo of Croton](entities/MiloOfCroton.md) — Celebrated wrestler whose Olympic victories expanded into legends of strength and dangerous heroic excess.
 - [Pierre de Coubertin](entities/PierreDeCoubertin.md) — French organizer who joined education, patriotism, masculinity, amateurism, and peace rhetoric in the international Olympic project.
 - [William Penny Brookes](entities/WilliamPennyBrookes.md) — Much Wenlock organizer whose social-improvement games supplied a practical precedent for Olympic revival.
 - [Jesse Owens](entities/JesseOwens.md) — Berlin 1936 champion whose victories challenged Nazi racial ideology without erasing the Games' propaganda value.
@@ -15727,6 +15731,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Ancient Olympic Sacred Competition](concepts/AncientOlympicSacredCompetition.md) — Integration of athletic contest with Zeus worship, myth, sacrifice, oath, civic identity, and heroic memory.
+- [Olympic Truce](concepts/OlympicTruce.md) — Limited protection for festival travel and participation rather than a general suspension of Greek warfare.
+- [Ancient Greek Athletic Glory](concepts/AncientGreekAthleticGlory.md) — Winner-centered system converting victory into civic reward, lasting fame, public shame, and heroic afterlife.
 - [Interoceptive Brain-Body Communication](concepts/InteroceptiveBrainBodyCommunication.md) — Integration of mechanical, chemical, immune, and consciously accessible signals from organs into regulation and felt body state.
 - [Modern Olympic Revivalism](concepts/ModernOlympicRevivalism.md) — Selective construction of modern sporting institutions through ancient prestige, local festivals, education, nationalism, and politics.
 - [Olympic Amateurism](concepts/OlympicAmateurism.md) — Class-coded eligibility ideal destabilized by professional sport and materially different forms of athlete support.

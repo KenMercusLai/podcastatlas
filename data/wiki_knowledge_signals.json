@@ -11210,6 +11210,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/ancientchinesebookmateriality/"
     },
+    "AncientGreekAthleticGlory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9627584488 [GLT9627584488].md",
+          "key": "79-ancient-olympics-glt9627584488",
+          "show": "The Rest Is History",
+          "title": "79. Ancient Olympics",
+          "url": "/wiki/sources/79-ancient-olympics-glt9627584488/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/ancientgreekathleticglory/"
+    },
     "AncientGreekHonorCommunity": {
       "episode_count": 3,
       "show_count": 2,
@@ -11255,6 +11271,38 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/ancientimperialcritiquelimits/"
+    },
+    "AncientOlympicGames": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9627584488 [GLT9627584488].md",
+          "key": "79-ancient-olympics-glt9627584488",
+          "show": "The Rest Is History",
+          "title": "79. Ancient Olympics",
+          "url": "/wiki/sources/79-ancient-olympics-glt9627584488/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/ancientolympicgames/"
+    },
+    "AncientOlympicSacredCompetition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9627584488 [GLT9627584488].md",
+          "key": "79-ancient-olympics-glt9627584488",
+          "show": "The Rest Is History",
+          "title": "79. Ancient Olympics",
+          "url": "/wiki/sources/79-ancient-olympics-glt9627584488/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/ancientolympicsacredcompetition/"
     },
     "AncientRomanSexualStatusHierarchy": {
       "episode_count": 1,
@@ -114361,6 +114409,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/kyliejenner/"
     },
+    "Kyniska": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9627584488 [GLT9627584488].md",
+          "key": "79-ancient-olympics-glt9627584488",
+          "show": "The Rest Is History",
+          "title": "79. Ancient Olympics",
+          "url": "/wiki/sources/79-ancient-olympics-glt9627584488/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/kyniska/"
+    },
     "LAnseAuxMeadows": {
       "episode_count": 1,
       "show_count": 1,
@@ -137160,6 +137224,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/millennialromanimperialeschatology/"
     },
+    "MiloOfCroton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9627584488 [GLT9627584488].md",
+          "key": "79-ancient-olympics-glt9627584488",
+          "show": "The Rest Is History",
+          "title": "79. Ancient Olympics",
+          "url": "/wiki/sources/79-ancient-olympics-glt9627584488/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/miloofcroton/"
+    },
     "MilojeVasic": {
       "episode_count": 1,
       "show_count": 1,
@@ -138561,9 +138641,9 @@
       "url": "/wiki/concepts/modernmasstourism/"
     },
     "ModernOlympicGames": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4846758176 [GLT4846758176].md",
@@ -138578,15 +138658,22 @@
           "show": "The Rest Is History",
           "title": "80. Modern Olympics - Part 1",
           "url": "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"
+        },
+        {
+          "episode_file": "GLT9627584488 [GLT9627584488].md",
+          "key": "79-ancient-olympics-glt9627584488",
+          "show": "The Rest Is History",
+          "title": "79. Ancient Olympics",
+          "url": "/wiki/sources/79-ancient-olympics-glt9627584488/"
         }
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/modernolympicgames/"
     },
     "ModernOlympicRevivalism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3795252606 [GLT3795252606].md",
@@ -138594,6 +138681,13 @@
           "show": "The Rest Is History",
           "title": "80. Modern Olympics - Part 1",
           "url": "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"
+        },
+        {
+          "episode_file": "GLT9627584488 [GLT9627584488].md",
+          "key": "79-ancient-olympics-glt9627584488",
+          "show": "The Rest Is History",
+          "title": "79. Ancient Olympics",
+          "url": "/wiki/sources/79-ancient-olympics-glt9627584488/"
         }
       ],
       "updated": "2026-10-03",
@@ -147886,9 +147980,9 @@
       "url": "/wiki/entities/olympias/"
     },
     "OlympicAmateurism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3795252606 [GLT3795252606].md",
@@ -147903,6 +147997,13 @@
           "show": "The Rest Is History",
           "title": "81. Modern Olympics - Part 2",
           "url": "/wiki/sources/81-modern-olympics-part-2-glt4846758176/"
+        },
+        {
+          "episode_file": "GLT9627584488 [GLT9627584488].md",
+          "key": "79-ancient-olympics-glt9627584488",
+          "show": "The Rest Is History",
+          "title": "79. Ancient Olympics",
+          "url": "/wiki/sources/79-ancient-olympics-glt9627584488/"
         }
       ],
       "updated": "2026-10-03",
@@ -147939,6 +148040,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/olympichostcitylegacy/"
+    },
+    "OlympicTruce": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9627584488 [GLT9627584488].md",
+          "key": "79-ancient-olympics-glt9627584488",
+          "show": "The Rest Is History",
+          "title": "79. Ancient Olympics",
+          "url": "/wiki/sources/79-ancient-olympics-glt9627584488/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/olympictruce/"
     },
     "OmarBradley": {
       "episode_count": 1,

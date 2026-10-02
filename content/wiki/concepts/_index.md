@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9407
+wiki_total_pages: 9410
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1949,6 +1949,9 @@ wiki_pages:
   - key: "AncientChineseSoulSummoning"
     title: "Ancient Chinese Soul Summoning / 招魂"
     url: "/wiki/concepts/ancientchinesesoulsummoning/"
+  - key: "AncientGreekAthleticGlory"
+    title: "Ancient Greek Athletic Glory"
+    url: "/wiki/concepts/ancientgreekathleticglory/"
   - key: "AncientGreekHonorCommunity"
     title: "Ancient Greek Honor Community"
     url: "/wiki/concepts/ancientgreekhonorcommunity/"
@@ -1958,6 +1961,9 @@ wiki_pages:
   - key: "AncientLargeArmyCommandLimits"
     title: "Ancient Large-Army Command Limits / 古代大兵团指挥极限"
     url: "/wiki/concepts/ancientlargearmycommandlimits/"
+  - key: "AncientOlympicSacredCompetition"
+    title: "Ancient Olympic Sacred Competition"
+    url: "/wiki/concepts/ancientolympicsacredcompetition/"
   - key: "AncientRomanSexualStatusHierarchy"
     title: "Ancient Roman Sexual Status Hierarchy"
     url: "/wiki/concepts/ancientromansexualstatushierarchy/"
