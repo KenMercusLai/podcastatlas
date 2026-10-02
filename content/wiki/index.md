@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Nutrients for Brain Health & Performance](sources/scim8313693954-scim8313693954.md) — Huberman Lab solo episode on brain-supporting nutrients, taste and gut reward pathways, sweetener-pairing context, and learned food preference.
 - [110. History of India in 10 Buildings](sources/110-history-of-india-in-10-buildings-glt7972990176.md) — The Rest Is History on architecture as evidence of Indian urbanism, trade, religion, kingship, conquest, colonialism, memory, and political erasure.
 - [111. Golden Ages](sources/111-golden-ages-glt9885576415.md) — The Rest Is History on retrospective nostalgia, canon formation, power, excluded costs, political memory, and competing models of historical flourishing.
 - [112. Medieval Science](sources/112-medieval-science-glt3839934134.md) — The Rest Is History with Seb Falk on medieval scientific practice, instruments, cross-cultural transmission, science-religion categories, and continuity into early modern inquiry.
@@ -15581,6 +15582,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
 
 ## Concepts
+- [Learned Food-Preference Conditioning](concepts/LearnedFoodPreferenceConditioning.md) — Food-preference model joining oral taste, post-ingestive nutrient sensing, metabolic usefulness, dopamine reinforcement, and belief.
 - [Architecture as Historical Evidence](concepts/ArchitectureAsHistoricalEvidence.md) — Method for reading buildings, planning, materials, reuse, alteration, and demolition as evidence of historical change.
 - [Architectural Erasure and Regime Memory](concepts/ArchitecturalErasureAndRegimeMemory.md) — Framework for how alteration, appropriation, demolition, and replacement can reorder the authorized public past.
 - [Golden-Age Narrative](concepts/GoldenAgeNarrative.md) — Framework treating golden ages as real but selectively remembered achievements sharpened by later decline, canon formation, unequal costs, and political reuse.

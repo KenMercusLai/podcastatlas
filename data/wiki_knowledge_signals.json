@@ -24307,9 +24307,9 @@
       "url": "/wiki/entities/brainhq/"
     },
     "BrainHealthNutrientSufficiency": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4201272551 [SCIM4201272551].md",
@@ -24317,9 +24317,16 @@
           "show": "Huberman Lab",
           "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
           "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        },
+        {
+          "episode_file": "SCIM8313693954 [SCIM8313693954].md",
+          "key": "scim8313693954-scim8313693954",
+          "show": "Huberman Lab",
+          "title": "Nutrients for Brain Health & Performance",
+          "url": "/wiki/sources/scim8313693954-scim8313693954/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/brainhealthnutrientsufficiency/"
     },
     "BrainImmuneStateCoupling": {
@@ -114008,6 +114015,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/leapmotort03/"
     },
+    "LearnedFoodPreferenceConditioning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8313693954 [SCIM8313693954].md",
+          "key": "scim8313693954-scim8313693954",
+          "show": "Huberman Lab",
+          "title": "Nutrients for Brain Health & Performance",
+          "url": "/wiki/sources/scim8313693954-scim8313693954/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/learnedfoodpreferenceconditioning/"
+    },
     "LearningDrivenRoleExpansion": {
       "episode_count": 1,
       "show_count": 1,
@@ -186803,9 +186826,9 @@
       "url": "/wiki/concepts/sufferingbasedmoralsubjecthood/"
     },
     "SugarCravingNeuralControl": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM2821501065 [SCIM2821501065].md",
@@ -186841,6 +186864,13 @@
           "show": "Huberman Lab",
           "title": "Controlling Sugar Cravings & Metabolism with Science-Based Tools",
           "url": "/wiki/sources/controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681/"
+        },
+        {
+          "episode_file": "SCIM8313693954 [SCIM8313693954].md",
+          "key": "scim8313693954-scim8313693954",
+          "show": "Huberman Lab",
+          "title": "Nutrients for Brain Health & Performance",
+          "url": "/wiki/sources/scim8313693954-scim8313693954/"
         }
       ],
       "updated": "2026-10-02",
@@ -188721,9 +188751,9 @@
       "url": "/wiki/entities/swedishempire/"
     },
     "SweetenerUncertainty": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -188738,9 +188768,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
           "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        },
+        {
+          "episode_file": "SCIM8313693954 [SCIM8313693954].md",
+          "key": "scim8313693954-scim8313693954",
+          "show": "Huberman Lab",
+          "title": "Nutrients for Brain Health & Performance",
+          "url": "/wiki/sources/scim8313693954-scim8313693954/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/sweeteneruncertainty/"
     },
     "SweynForkbeard": {
@@ -190578,9 +190615,9 @@
       "url": "/wiki/concepts/tastefirstcpgpositioning/"
     },
     "TasteIdentityValenceCircuit": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7979038386 [SCIM7979038386].md",
@@ -190588,9 +190625,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
           "url": "/wiki/sources/the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386/"
+        },
+        {
+          "episode_file": "SCIM8313693954 [SCIM8313693954].md",
+          "key": "scim8313693954-scim8313693954",
+          "show": "Huberman Lab",
+          "title": "Nutrients for Brain Health & Performance",
+          "url": "/wiki/sources/scim8313693954-scim8313693954/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/tasteidentityvalencecircuit/"
     },
     "TasteNutrientHazardDetection": {

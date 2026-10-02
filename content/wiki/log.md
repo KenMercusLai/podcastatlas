@@ -27777,3 +27777,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Nutrients for Brain Health & Performance
+
+Added source `scim8313693954-scim8313693954`; created `LearnedFoodPreferenceConditioning`; and resynthesized `BrainHealthNutrientSufficiency`, `TasteIdentityValenceCircuit`, `SugarCravingNeuralControl`, and `SweetenerUncertainty` from their complete preserved evidence inventories. Core synthesis: food preference reflects interacting oral taste, post-ingestive nutrient sensing, metabolically usable fuel, dopamine reinforcement, and belief, while nutrient and sweetener claims remain dependent on dose, formulation, baseline status, pairing, substitution target, and evidence quality. No settled contradiction was adopted. Supplement doses, preference-reset timing, glutamine, hypoxia, sleep-apnea, artificial-sweetener conditioning, and belief-linked metabolic effects remain source-scoped or clinically bounded. Recurring host, show, and cited-researcher pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,471-source coverage; no topic claim set was dirty and global compaction ran because the age gate was due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

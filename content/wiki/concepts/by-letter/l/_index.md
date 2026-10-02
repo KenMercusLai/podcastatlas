@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9313
+wiki_total_pages: 9314
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "LearnableEmotionalIntelligence"
     title: "Learnable Emotional Intelligence"
     url: "/wiki/concepts/learnableemotionalintelligence/"
+  - key: "LearnedFoodPreferenceConditioning"
+    title: "Learned Food-Preference Conditioning"
+    url: "/wiki/concepts/learnedfoodpreferenceconditioning/"
   - key: "LearningAheadOfReadiness"
     title: "Learning Ahead of Readiness"
     url: "/wiki/concepts/learningaheadofreadiness/"
