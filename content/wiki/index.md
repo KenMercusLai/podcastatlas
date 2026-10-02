@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？](sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf.md) — 无时差研究所 episode on education competition, advance learning, tutoring substitution, school capacity, family coordination, and child-development goals beyond scores.
+- [71. England v Denmark](sources/71-england-v-denmark-glt2805859297.md) — The Rest Is History on Viking pressure and English state formation, Danelaw assimilation, Cnut, Stuart marriage, Copenhagen, literary exchange, wartime alliance, and football.
 - [72. The Vietnam War](sources/72-the-vietnam-war-glt4906340188.md) — The Rest Is History with Andrew Preston on colonial origins, Vietnamese civil-war agency, American intervention and withdrawal, press access, iconic images, and film memory.
 - [73. England v Italy](sources/73-england-v-italy-glt3184835237.md) — The Rest Is History on Roman and papal influence, Reformation rivalry, the Grand Tour, Garibaldi, wartime internment, postwar aspiration, and football in Anglo-Italian relations.
 - [74. The Six Wives of Henry VIII](sources/74-the-six-wives-of-henry-viii-glt6913826589.md) — The Rest Is History on Henry VIII's marriages as a collision of dynastic insecurity, European diplomacy, religious change, court faction, gender, and coercive monarchy.
@@ -3593,6 +3594,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [Anne of Denmark](entities/AnneOfDenmark.md) — Danish princess and Stuart queen whose marriage, household agency, court culture, and descendants tied Denmark to Scotland and England.
 - [陈老师 / Chen (primary-school teacher)](entities/ChenPrimarySchoolTeacher.md) — EP180 teacher connecting classroom attention and fatigue to staffing capacity, student safety, and educational aims beyond rank.
 - [扣子妈妈 / Kouzi's mother](entities/KouziMother.md) — EP180 Beijing parent distinguishing selective extracurricular investment from preschool acceleration and credential-maximizing competition.
 - [Catherine of Aragon](entities/CatherineOfAragon.md) — Henry VIII's first wife, active queen, mother of Mary, and defender of her marriage's validity amid dynastic and church-state crisis.
@@ -15760,6 +15762,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Anglo-Danish Relations](concepts/AngloDanishRelations.md) — Long-run relationship joining invasion, settlement, state formation, dynastic connection, naval violence, cultural exchange, and wartime alliance.
 - [Education Competition Uncertainty Loop / 教育竞争不确定性循环](concepts/EducationCompetitionUncertaintyLoop.md) — Escalation mechanism joining opaque comparison, scarce opportunity, reassurance spending, and rising preparation norms.
 - [Tutoring Restriction Substitution Effect / 校外培训限制的替代效应](concepts/TutoringRestrictionSubstitutionEffect.md) — Policy boundary where persistent selection demand can move tutoring online, into homes, or toward costlier private forms.
 - [Family Education Alignment / 家庭教育协同](concepts/FamilyEducationAlignment.md) — Role-neutral coordination of parental participation, responsibility, emotional steadiness, and consistent education boundaries.

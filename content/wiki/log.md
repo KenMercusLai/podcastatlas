@@ -28260,3 +28260,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 71. England v Denmark
+
+Added source `71-england-v-denmark-glt2805859297`; created `AngloDanishRelations` and `AnneOfDenmark`; and resynthesized `Denmark`, `CnutTheGreat`, `HansChristianAndersen`, and `AngloSaxonStateFormation` from their complete preserved evidence inventories. Core synthesis: Danish invasion, settlement, conversion, and renewed conquest helped concentrate and reshape English political development, while later dynastic marriage, naval coercion, literary exchange, wartime exile, and alliance kept rivalry and kinship intertwined. No settled contradiction was adopted. Shifting ethnic and national labels, compressed treaty chronology, state-formation causation, saint and court anecdotes, private motives, naval stories, assimilation, and literary testimony remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,532-source coverage; no topic claim set was dirty and global compaction was not due. Identity, whitespace, synthesis, and publish validation were run after the ingest.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -12597,6 +12597,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/angloamericanpowerreversal/"
     },
+    "AngloDanishRelations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2805859297 [GLT2805859297].md",
+          "key": "71-england-v-denmark-glt2805859297",
+          "show": "The Rest Is History",
+          "title": "71. England v Denmark",
+          "url": "/wiki/sources/71-england-v-denmark-glt2805859297/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/anglodanishrelations/"
+    },
     "AngloFrenchDualMonarchy": {
       "episode_count": 1,
       "show_count": 1,
@@ -12722,9 +12738,9 @@
       "url": "/wiki/concepts/angloportuguesealliance/"
     },
     "AngloSaxonStateFormation": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -12760,9 +12776,16 @@
           "show": "The Rest Is History",
           "title": "122. Athelstan: England's Greatest Monarch",
           "url": "/wiki/sources/122-athelstan-englands-greatest-monarch-glt8211065813/"
+        },
+        {
+          "episode_file": "GLT2805859297 [GLT2805859297].md",
+          "key": "71-england-v-denmark-glt2805859297",
+          "show": "The Rest Is History",
+          "title": "71. England v Denmark",
+          "url": "/wiki/sources/71-england-v-denmark-glt2805859297/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/anglosaxonstateformation/"
     },
     "AnimalAbuseViolenceLink": {
@@ -13194,6 +13217,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/anneofcleves/"
+    },
+    "AnneOfDenmark": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2805859297 [GLT2805859297].md",
+          "key": "71-england-v-denmark-glt2805859297",
+          "show": "The Rest Is History",
+          "title": "71. England v Denmark",
+          "url": "/wiki/sources/71-england-v-denmark-glt2805859297/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/anneofdenmark/"
     },
     "AnnetteGordonReed": {
       "episode_count": 1,
@@ -38725,9 +38764,9 @@
       "url": "/wiki/entities/clytemnestra/"
     },
     "CnutTheGreat": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2312975985 [GLT2312975985].md",
@@ -38742,9 +38781,16 @@
           "show": "The Rest Is History",
           "title": "123. World Cup of Kings and Queens part 1",
           "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
+        },
+        {
+          "episode_file": "GLT2805859297 [GLT2805859297].md",
+          "key": "71-england-v-denmark-glt2805859297",
+          "show": "The Rest Is History",
+          "title": "71. England v Denmark",
+          "url": "/wiki/sources/71-england-v-denmark-glt2805859297/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/cnutthegreat/"
     },
     "CoCom": {
@@ -51150,9 +51196,9 @@
       "url": "/wiki/entities/denkyira/"
     },
     "Denmark": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -51181,9 +51227,16 @@
           "show": "The Rest Is History",
           "title": "284: Denmark: The Great Escape",
           "url": "/wiki/sources/284-denmark-the-great-escape-glt4809968647/"
+        },
+        {
+          "episode_file": "GLT2805859297 [GLT2805859297].md",
+          "key": "71-england-v-denmark-glt2805859297",
+          "show": "The Rest Is History",
+          "title": "71. England v Denmark",
+          "url": "/wiki/sources/71-england-v-denmark-glt2805859297/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/denmark/"
     },
     "DentalAestheticTreatmentBoundary": {
@@ -88765,6 +88818,36 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/hanqingurey/"
+    },
+    "HansChristianAndersen": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "187.豌豆公主：高敏和混沌是你真名 [999958166].md",
+          "key": "187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166",
+          "show": "蜜獾吃书",
+          "title": "187.豌豆公主：高敏和混沌是你真名",
+          "url": "/wiki/sources/187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166/"
+        },
+        {
+          "episode_file": "55.安徒生童话：海的女儿和不灭的灵魂 [639782306].md",
+          "key": "55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306",
+          "show": "蜜獾吃书",
+          "title": "55.安徒生童话：海的女儿和不灭的灵魂",
+          "url": "/wiki/sources/55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306/"
+        },
+        {
+          "episode_file": "GLT2805859297 [GLT2805859297].md",
+          "key": "71-england-v-denmark-glt2805859297",
+          "show": "The Rest Is History",
+          "title": "71. England v Denmark",
+          "url": "/wiki/sources/71-england-v-denmark-glt2805859297/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/hanschristianandersen/"
     },
     "HansJonas": {
       "episode_count": 1,

@@ -7,7 +7,8 @@ sources:
   - 80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649
   - how-to-get-what-greenland-has-with-permission
   - 284-denmark-the-great-escape-glt4809968647
-last_updated: 2026-09-30
+  - 71-england-v-denmark-glt2805859297
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,11 +16,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Denmark appears across the wiki as an occupied Second World War state that enabled an exceptional Jewish rescue, a Cold War setting for ideological defection and British intelligence work, and the kingdom-state within which self-governing [[Greenland]] retains political agency.
+Denmark appears across the wiki as a North Sea kingdom whose invasion, settlement, conversion, monarchy, dynastic ties, naval conflict, occupation, civic rescue, intelligence role, and constitutional relationship with [[Greenland]] repeatedly connect it to Britain, Scandinavia, Europe, and the Arctic.
 
 ## Current Profile
 
-The Second World War branch distinguishes rapid military defeat from civic passivity. German occupation preserved Denmark's government, parliament, police, courts, and king because stability and food production served German interests. When the cooperation arrangement collapsed in 1943, [[GeorgFerdinandDuckwitz]]'s warning, inclusive national identity, domestic institutions, informal trust networks, boat transport, and nearby [[Sweden]] enabled the [[RescueOfTheDanishJews]].
+The medieval branch makes Denmark part of England's formation rather than an external footnote to it. [[71-england-v-denmark-glt2805859297]] uses “Dane” broadly for overlapping Scandinavian raiders and settlers, then follows invasion, the [[DanelawSettlement|Danelaw]], conversion, assimilation, renewed conquest, and [[CnutTheGreat|Cnut]]'s North Sea monarchy. Danish pressure helped concentrate West Saxon power and accelerate [[AngloSaxonStateFormation|English state formation]], while English institutions later gave Danish conquerors wealth and governing machinery to appropriate.
+
+The later [[AngloDanishRelations|Anglo-Danish relationship]] remained neither steadily hostile nor steadily friendly. [[AnneOfDenmark|Anne of Denmark]]'s Stuart marriage, British attacks on Copenhagen, literary exchange, diplomatic disappointment, and Danish sailors' Allied service from Newcastle show cultural proximity coexisting with coercion, alliance, and selective memory.
+
+The Second World War rescue branch distinguishes rapid military defeat from civic passivity. German occupation preserved Denmark's government, parliament, police, courts, and king because stability and food production served German interests. When the cooperation arrangement collapsed in 1943, [[GeorgFerdinandDuckwitz]]'s warning, inclusive national identity, domestic institutions, informal trust networks, boat transport, and nearby [[Sweden]] enabled the [[RescueOfTheDanishJews]]. The Newcastle sailors add a complementary exile-and-alliance story without erasing early accommodation or German control.
 
 The Cold War branch uses Copenhagen as a lived contrast to the [[SovietUnion]] for [[OlegGordievsky]]. Libraries, public life, music, and uncensored print helped turn ideological doubt into [[IdeologicalDefection]], while Danish observation and later Finnish-side coordination supported [[MI6]] operations.
 
@@ -27,13 +32,17 @@ The contemporary Arctic branch separates Danish constitutional connection from o
 
 ## Key Characteristics
 
-- Small European kingdom whose institutions and civic networks retained partial capacity under German occupation.
+- North Sea kingdom whose medieval expansion, settlement, conversion, and monarchy helped reshape England and Denmark together.
+- Long-running British counterpart joined by dynastic marriage, naval violence, literary exchange, exile, and alliance.
+- Small European state whose institutions and civic networks retained partial capacity under German occupation.
 - Setting for a multi-causal Holocaust rescue built from warning, social inclusion, hiding, transport, and Swedish refuge.
 - Cold War posting and coordination state in the Gordievsky–MI6 story.
 - Kingdom partner whose relationship with self-governing Greenland limits acquisition rhetoric and supports permission-based defense access.
 
 ## Evidence
 
+- Medieval formation and conquest: [[71-england-v-denmark-glt2805859297]] connects Scandinavian invasion, the Danelaw, English state formation, assimilation, Sweyn, Cnut, and North Sea monarchy.
+- Dynastic, naval, cultural, and wartime relations: [[71-england-v-denmark-glt2805859297]] links Anne's marriage, Copenhagen, Andersen, and Danish sailors in Newcastle.
 - Occupation and rescue: [[284-denmark-the-great-escape-glt4809968647]] connects preserved institutions, Jewish civic inclusion, decentralized hiding, Oresund crossings, and Swedish admission.
 - Cold War contrast and recruitment: [[80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]] places Gordievsky's freedom shock and British assessment in Denmark.
 - Extraction coordination: [[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] links Danish personnel to the Finnish side of Operation Pimlico.
@@ -41,17 +50,19 @@ The contemporary Arctic branch separates Danish constitutional connection from o
 
 ## Qualifications
 
-The bounded sources are selective podcast narratives rather than a complete history of Denmark. The rescue episode should not turn a high survival rate into an uncomplicated national virtue story: early cooperation, German occupation, profiteering, capture, deportation, and uneven agency remain material. The Gordievsky sources focus on one intelligence career, while the Greenland source presents a contemporary strategic argument whose legal, political, and mineral details may change.
+The bounded sources are selective podcast narratives rather than a complete history of Denmark. The Anglo-Danish survey compresses a millennium and uses shifting labels such as Dane, English, and British; its state-formation claims, anecdotes, motives, military details, and assimilation account remain source-scoped. The rescue episode should not turn a high survival rate into an uncomplicated national virtue story: early cooperation, German occupation, profiteering, capture, deportation, and uneven agency remain material. The Gordievsky sources focus on one intelligence career, while the Greenland source presents a contemporary strategic argument whose legal, political, and mineral details may change.
 
 ## What Changed
 
-- Added occupied Denmark's preserved institutions and the collapse of the cooperation arrangement.
-- Added the rescue of Danish Jews as a warning-to-action, civic-network, transport, and refuge-policy case.
-- Qualified national heroism by retaining accommodation, capture, payment, and German self-interest.
+- Expanded Denmark from a mainly modern occupation, intelligence, and Arctic profile into a medieval-to-modern North Sea kingdom.
+- Added rivalry, kinship, dynastic connection, naval violence, literary exchange, and wartime maritime alliance as the long-run British relationship.
 
 ## Relationships
 
 - [[RescueOfTheDanishJews]] - 1943 rescue process enabled by Danish institutions, networks, and geography.
+- [[AngloDanishRelations]] - relationship joining medieval conquest to dynastic, naval, cultural, and wartime connection.
+- [[CnutTheGreat]] - Danish conqueror whose English rule joined coercion to institutional continuity.
+- [[AnneOfDenmark]] - Danish princess whose marriage tied the kingdom to the Stuart monarchy.
 - [[Sweden]] - nearby refuge state that received Danish Jewish escapees.
 - [[ChristianXOfDenmark]] - monarch symbolizing national continuity and Jewish civic inclusion.
 - [[OlegGordievsky]] - Soviet officer whose Danish posting contributed to ideological defection.

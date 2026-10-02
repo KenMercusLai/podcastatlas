@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9421
+wiki_total_pages: 9422
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2003,6 +2003,9 @@ wiki_pages:
   - key: "AngloAmericanPowerReversal"
     title: "Anglo-American Power Reversal"
     url: "/wiki/concepts/angloamericanpowerreversal/"
+  - key: "AngloDanishRelations"
+    title: "Anglo-Danish Relations"
+    url: "/wiki/concepts/anglodanishrelations/"
   - key: "AngloFrenchDualMonarchy"
     title: "Anglo-French Dual Monarchy"
     url: "/wiki/concepts/anglofrenchdualmonarchy/"
