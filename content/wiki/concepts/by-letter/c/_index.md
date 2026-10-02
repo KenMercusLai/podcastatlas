@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9282
+wiki_total_pages: 9284
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1001,6 +1001,9 @@ wiki_pages:
   - key: "ChurchCulturalMemory"
     title: "Church Cultural Memory"
     url: "/wiki/concepts/churchculturalmemory/"
+  - key: "CIAIntelligenceCovertActionTension"
+    title: "CIA Intelligence-Covert Action Tension"
+    url: "/wiki/concepts/ciaintelligencecovertactiontension/"
   - key: "CinemaAsNationalMemory"
     title: "Cinema as National Memory"
     url: "/wiki/concepts/cinemaasnationalmemory/"
@@ -2318,6 +2321,9 @@ wiki_pages:
   - key: "CourtesyCoveredElimination"
     title: "Courtesy-Covered Elimination / 礼遇包装式清除"
     url: "/wiki/concepts/courtesycoveredelimination/"
+  - key: "CovertActionBlowback"
+    title: "Covert Action Blowback"
+    url: "/wiki/concepts/covertactionblowback/"
   - key: "CovertPoliticalTechnology"
     title: "Covert Political Technology / 阴谋式政治技术"
     url: "/wiki/concepts/covertpoliticaltechnology/"

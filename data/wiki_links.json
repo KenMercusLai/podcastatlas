@@ -219,6 +219,10 @@
     "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
     "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
   },
+  "125-the-cia-glt6232412389": {
+    "title": "125. The CIA",
+    "url": "/wiki/sources/125-the-cia-glt6232412389/"
+  },
   "126-napoleon-in-egypt-glt3691914095": {
     "title": "126. Napoleon in Egypt",
     "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
@@ -7035,6 +7039,10 @@
     "title": "Allegra Byron",
     "url": "/wiki/entities/allegrabyron/"
   },
+  "AllenDulles": {
+    "title": "Allen Dulles",
+    "url": "/wiki/entities/allendulles/"
+  },
   "AllenNewell": {
     "title": "Allen Newell",
     "url": "/wiki/entities/allennewell/"
@@ -13306,6 +13314,10 @@
   "CIA": {
     "title": "CIA / Central Intelligence Agency / 中情局",
     "url": "/wiki/entities/cia/"
+  },
+  "CIAIntelligenceCovertActionTension": {
+    "title": "CIA Intelligence-Covert Action Tension",
+    "url": "/wiki/concepts/ciaintelligencecovertactiontension/"
   },
   "CITICCapital": {
     "title": "CITIC Capital / 中信资本",
@@ -19662,6 +19674,10 @@
   "CoventryLifeSettlements": {
     "title": "Coventry (life settlements)",
     "url": "/wiki/entities/coventrylifesettlements/"
+  },
+  "CovertActionBlowback": {
+    "title": "Covert Action Blowback",
+    "url": "/wiki/concepts/covertactionblowback/"
   },
   "CovertPoliticalTechnology": {
     "title": "Covert Political Technology / 阴谋式政治技术",
@@ -37543,6 +37559,10 @@
     "title": "Hugh Parsons",
     "url": "/wiki/entities/hughparsons/"
   },
+  "HughWilford": {
+    "title": "Hugh Wilford",
+    "url": "/wiki/entities/hughwilford/"
+  },
   "HugoChavez": {
     "title": "Hugo Chavez",
     "url": "/wiki/entities/hugochavez/"
@@ -40362,6 +40382,10 @@
   "JamaicanWomensNationalTeam": {
     "title": "Jamaican Women's National Team",
     "url": "/wiki/entities/jamaicanwomensnationalteam/"
+  },
+  "JamesAngleton": {
+    "title": "James Angleton",
+    "url": "/wiki/entities/jamesangleton/"
   },
   "JamesAx": {
     "title": "James Ax",

@@ -9362,6 +9362,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/allegrabyron/"
     },
+    "AllenDulles": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6232412389 [GLT6232412389].md",
+          "key": "125-the-cia-glt6232412389",
+          "show": "The Rest Is History",
+          "title": "125. The CIA",
+          "url": "/wiki/sources/125-the-cia-glt6232412389/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/allendulles/"
+    },
     "AllenNewell": {
       "episode_count": 1,
       "show_count": 1,
@@ -26058,6 +26074,45 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/chipsact/"
     },
+    "CIA": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
+          "key": "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209",
+          "show": "蜜獾吃书",
+          "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
+          "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+        },
+        {
+          "episode_file": "GLT6232412389 [GLT6232412389].md",
+          "key": "125-the-cia-glt6232412389",
+          "show": "The Rest Is History",
+          "title": "125. The CIA",
+          "url": "/wiki/sources/125-the-cia-glt6232412389/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/cia/"
+    },
+    "CIAIntelligenceCovertActionTension": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6232412389 [GLT6232412389].md",
+          "key": "125-the-cia-glt6232412389",
+          "show": "The Rest Is History",
+          "title": "125. The CIA",
+          "url": "/wiki/sources/125-the-cia-glt6232412389/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/ciaintelligencecovertactiontension/"
+    },
     "CLRJames": {
       "episode_count": 1,
       "show_count": 1,
@@ -38199,9 +38254,9 @@
       "url": "/wiki/concepts/coldwarnuclearmisperception/"
     },
     "ColdWarRegimeChangePressure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6405070034 [GLT6405070034].md",
@@ -38209,9 +38264,16 @@
           "show": "The Rest Is History",
           "title": "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)",
           "url": "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"
+        },
+        {
+          "episode_file": "GLT6232412389 [GLT6232412389].md",
+          "key": "125-the-cia-glt6232412389",
+          "show": "The Rest Is History",
+          "title": "125. The CIA",
+          "url": "/wiki/sources/125-the-cia-glt6232412389/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/coldwarregimechangepressure/"
     },
     "ColdWarSecurityLoyaltyPolitics": {
@@ -42582,6 +42644,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/courtwomenhistoriography/"
+    },
+    "CovertActionBlowback": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6232412389 [GLT6232412389].md",
+          "key": "125-the-cia-glt6232412389",
+          "show": "The Rest Is History",
+          "title": "125. The CIA",
+          "url": "/wiki/sources/125-the-cia-glt6232412389/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/covertactionblowback/"
     },
     "Coze": {
       "episode_count": 2,
@@ -93703,6 +93781,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/hughparsons/"
     },
+    "HughWilford": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6232412389 [GLT6232412389].md",
+          "key": "125-the-cia-glt6232412389",
+          "show": "The Rest Is History",
+          "title": "125. The CIA",
+          "url": "/wiki/sources/125-the-cia-glt6232412389/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/hughwilford/"
+    },
     "HugoChavez": {
       "episode_count": 3,
       "show_count": 1,
@@ -102603,6 +102697,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/jakepaul/"
     },
+    "JamesAngleton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6232412389 [GLT6232412389].md",
+          "key": "125-the-cia-glt6232412389",
+          "show": "The Rest Is History",
+          "title": "125. The CIA",
+          "url": "/wiki/sources/125-the-cia-glt6232412389/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/jamesangleton/"
+    },
     "JamesBoswell": {
       "episode_count": 1,
       "show_count": 1,
@@ -109428,6 +109538,29 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/kimkardashian/"
+    },
+    "KimPhilby": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "80.间谍与叛徒：恕我直言，007的故事弱爆了 (上) [691866649].md",
+          "key": "80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649",
+          "show": "蜜獾吃书",
+          "title": "80.间谍与叛徒：恕我直言，007的故事弱爆了（上）",
+          "url": "/wiki/sources/80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649/"
+        },
+        {
+          "episode_file": "GLT6232412389 [GLT6232412389].md",
+          "key": "125-the-cia-glt6232412389",
+          "show": "The Rest Is History",
+          "title": "125. The CIA",
+          "url": "/wiki/sources/125-the-cia-glt6232412389/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/kimphilby/"
     },
     "KimVaccarella": {
       "episode_count": 1,
