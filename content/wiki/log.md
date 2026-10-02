@@ -27753,3 +27753,11 @@ Added source `112-medieval-science-glt3839934134`; created `SebFalk`, `JohnOfWes
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar
+
+Added source `scim9724505974-scim9724505974`; created `SamerHattar` and `CircadianHomeostaticEnvironmentalModel`; and resynthesized `MelanopsinCircadianPhotoreception`, `MorningLightCircadianAnchoring`, `DayNightLightMentalHealth`, `CircadianEatingWindowAlignment`, and `CircadianTravelAdaptation` from their complete preserved evidence inventories. Core synthesis: light intensity, duration, spectrum, and biological timing jointly shape retinal input; sleep, feeding, mood, learning, and activity are best understood through interacting circadian, homeostatic, and direct environmental effects; and useful alignment depends on internal phase and observed function rather than copying one early schedule. No settled contradiction was adopted. Exact light and red-light thresholds, perihabenular mechanisms, eye-color and bipolar sensitivity, chronotype claims, Hattar's meal and exercise routine, daylight-saving effects, and jet-lag recovery time remain source-scoped or clinically bounded. Recurring host and show pages were not changed because the interview adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,468-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

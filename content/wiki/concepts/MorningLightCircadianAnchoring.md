@@ -13,7 +13,8 @@ sources:
   - ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344
   - ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211
   - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
-last_updated: 2026-10-01
+  - scim9724505974-scim9724505974
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -45,6 +46,8 @@ AMA #1 reinforces the hierarchy without adding a universal dose: early outdoor l
 
 The full-length sleep toolkit confirms that hierarchy and makes the two-anchor pattern explicit: outdoor light soon after waking sets the strongest daily timing cue, while low-angle late-day light can help mark evening without authorizing bright artificial light at night. Because this is the longer source behind the later Essentials edit, it strengthens provenance but is not independent replication.
 
+The Hattar interview adds a measurement and mechanism boundary. Conscious vision adapts across lighting conditions, so a room that feels bright can still provide far less circadian input than cloudy outdoor light. Duration and intensity jointly determine exposure, while timing and spectrum modify the result; this supports practical outdoor morning light but argues against treating subjective brightness, blue blocking, or one minute target as a complete rule.
+
 ## Key Claims
 - Outdoor ambient daylight in the first hour after waking is presented as beneficial even when the person cannot see the eastern horizon.
 - Outdoor light within 30-60 minutes after waking is presented as a strong anchor for early cortisol timing, melatonin suppression, alertness, and later sleep.
@@ -72,16 +75,15 @@ The full-length sleep toolkit confirms that hierarchy and makes the two-anchor p
 - Dark-region and evening routine - [[ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344]] prioritizes sunlight, offers bright overhead or 10,000-lux artificial light before sunrise, and pairs late-day daylight with dim, low evening lighting.
 - Nature-evidence hierarchy - [[ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211]] treats morning outdoor light as the strongest-supported element of nature contact, distinguishes bright-lamp fallback from outdoor exposure, and rejects windows, screens, or images as equivalent substitutes.
 - Full-length two-anchor account - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] pairs outdoor light soon after waking with late-day low-angle light and keeps nighttime brightness reduction as the complementary boundary.
+- Brightness-measurement boundary - [[scim9724505974-scim9724505974]] explains that visual adaptation makes subjective brightness unreliable, cloudy outdoor light commonly exceeds indoor light, and intensity must be interpreted together with duration, timing, and spectrum.
 
 ## Counterevidence & Qualifications
-The sources do not establish one universal lux threshold, exposure duration, latitude adjustment, artificial-light device standard, optic-flow effect, cortisol target, or clinical treatment protocol. Their clear-day and overcast minute ranges differ, so weather-based timings should be read as rough source examples rather than precise prescriptions. The vision episode's two-to-ten-minute example and its dopamine, glucose, pain, metabolism, and appetite claims lack enough methodological detail here to generalize; AMA #1's metabolism claim has the same boundary. The Journal Club psychiatric study is observational and measured light at the wrist rather than at the eye. AMA #14's roughly 50% melatonin-protection claim and red-light vision or mitochondrial claims also lack enough methods here for universal use. The sources do not claim light exposure alone can solve insomnia, mood disorders, shift-work safety problems, jet lag, pediatric sleep disruption, school-schedule mismatch, hospital-lighting problems, or circadian disorders without other context.
+The sources do not establish one universal lux threshold, exposure duration, latitude adjustment, artificial-light device standard, optic-flow effect, cortisol target, or clinical treatment protocol. Their clear-day and overcast minute ranges differ, so weather-based timings should be read as rough source examples rather than precise prescriptions. The vision episode's two-to-ten-minute example and its dopamine, glucose, pain, metabolism, and appetite claims lack enough methodological detail here to generalize; AMA #1's metabolism claim has the same boundary. The Journal Club psychiatric study is observational and measured light at the wrist rather than at the eye. AMA #14's roughly 50% melatonin-protection claim and red-light vision or mitochondrial claims also lack enough methods here for universal use. The Hattar source adds personal timing practice and rough bright-day examples, not an individualized retinal-sensitivity test. The sources do not claim light exposure alone can solve insomnia, mood disorders, shift-work safety problems, jet lag, pediatric sleep disruption, school-schedule mismatch, hospital-lighting problems, or circadian disorders without other context.
 
 ## What Changed
-- Added the full-length episode as the underlying provenance for the morning and late-day two-anchor pattern.
-- Preserved outdoor daylight as preferred while retaining artificial light as a dark-region fallback.
-- Kept red evening illumination distinct from red or near-infrared therapy.
-- Preserved differing duration, observational psychiatric, and source-scoped physiological-effect boundaries.
-- Explicitly treated the full and Essentials edits as overlapping, not independent replication.
+- Added the distinction between perceived brightness and the retinal light signal relevant to circadian timing.
+- Made intensity, duration, spectrum, and biological timing joint exposure variables rather than a single-minute rule.
+- Strengthened the case for cloudy outdoor light over subjectively adequate indoor light while keeping exact doses individualized.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account supported by light timing.

@@ -3527,6 +3527,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 - [Using Your Nervous System to Enhance Your Immune System](sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690.md) — Huberman Lab solo episode on layered immunity, sickness signaling, sleep, acute sympathetic activation, heat boundaries, and site-specific electroacupuncture mechanisms.
 
+- [Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar](sources/scim9724505974-scim9724505974.md) — Huberman Lab interview on melanopsin light sensing, circadian alignment, mood pathways, meal and exercise timing, and internal-time-aware travel adaptation.
+
 ## Entities
 - [Seb Falk](entities/SebFalk.md) — Historian using ordinary practitioners, instruments, and translation networks to challenge scientific-dark-age mythology.
 - [John of Westwick](entities/JohnOfWestwick.md) — Late-medieval monk whose textual work, travel, and equatorium design exemplify practical knowledge-making.
@@ -15570,6 +15572,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexandra Feodorovna](entities/AlexandraFeodorovna.md) — Russian empress whose son's hemophilia drove reliance on Rasputin and exposed her to sexual and wartime conspiracy stories.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
+- [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
+
 ## Concepts
 - [Medieval Science Continuity](concepts/MedievalScienceContinuity.md) — Qualified continuity of preservation, translation, criticism, calculation, and institutional change from antiquity into early modern science.
 - [Medieval Scientific Practice](concepts/MedievalScientificPractice.md) — Joined textual, mathematical, observational, computational, and instrument-making work before modern professional science.
@@ -24931,5 +24935,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Humanitarian Imperial Intervention](concepts/HumanitarianImperialIntervention.md) — Sincere moral purpose operating through imperial institutions whose strategic interests and coercive powers remain active.
 - [Mass Press Imperial Policy Pressure](concepts/MassPressImperialPolicyPressure.md) — Media personalization that makes action politically urgent before mission, authority, and means are coherent.
 - [Imperial Martyrdom Memory](concepts/ImperialMartyrdomMemory.md) — Conversion of defeat and a celebrated death into sanctity, betrayal, blame, and support for later force.
+
+- [Circadian-Homeostatic-Environmental Model](concepts/CircadianHomeostaticEnvironmentalModel.md) — Tripartite model joining internal clock phase, accumulated biological need, and direct environmental inputs.
 
 ## Syntheses

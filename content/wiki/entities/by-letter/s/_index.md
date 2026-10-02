@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12002
+wiki_total_pages: 12003
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "SameDev"
     title: "Same.Dev"
     url: "/wiki/entities/samedev/"
+  - key: "SamerHattar"
+    title: "Samer Hattar"
+    url: "/wiki/entities/samerhattar/"
   - key: "Samnites"
     title: "Samnites / 萨莫奈人"
     url: "/wiki/entities/samnites/"

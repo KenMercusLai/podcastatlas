@@ -36263,9 +36263,9 @@
       "url": "/wiki/concepts/cinemaasnationalmemory/"
     },
     "CircadianEatingWindowAlignment": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3664199211 [SCIM3664199211].md",
@@ -36280,15 +36280,38 @@
           "show": "Huberman Lab",
           "title": "Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda",
           "url": "/wiki/sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014/"
+        },
+        {
+          "episode_file": "SCIM9724505974 [SCIM9724505974].md",
+          "key": "scim9724505974-scim9724505974",
+          "show": "Huberman Lab",
+          "title": "Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/scim9724505974-scim9724505974/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/circadianeatingwindowalignment/"
     },
-    "CircadianTravelAdaptation": {
-      "episode_count": 2,
+    "CircadianHomeostaticEnvironmentalModel": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9724505974 [SCIM9724505974].md",
+          "key": "scim9724505974-scim9724505974",
+          "show": "Huberman Lab",
+          "title": "Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/scim9724505974-scim9724505974/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/circadianhomeostaticenvironmentalmodel/"
+    },
+    "CircadianTravelAdaptation": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -36303,9 +36326,16 @@
           "show": "Huberman Lab",
           "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
+        },
+        {
+          "episode_file": "SCIM9724505974 [SCIM9724505974].md",
+          "key": "scim9724505974-scim9724505974",
+          "show": "Huberman Lab",
+          "title": "Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/scim9724505974-scim9724505974/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/circadiantraveladaptation/"
     },
     "Circe": {
@@ -47863,9 +47893,9 @@
       "url": "/wiki/concepts/daynightlightimmunesupport/"
     },
     "DayNightLightMentalHealth": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9183043757 [SCIM9183043757].md",
@@ -47880,9 +47910,16 @@
           "show": "Huberman Lab",
           "title": "Mental Health Toolkit: Tools to Bolster Your Mood & Mental Health",
           "url": "/wiki/sources/mental-health-toolkit-tools-to-bolster-your-mood-mental-health-scim1991900083/"
+        },
+        {
+          "episode_file": "SCIM9724505974 [SCIM9724505974].md",
+          "key": "scim9724505974-scim9724505974",
+          "show": "Huberman Lab",
+          "title": "Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/scim9724505974-scim9724505974/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/daynightlightmentalhealth/"
     },
     "DayOfTheDead": {
@@ -131192,9 +131229,9 @@
       "url": "/wiki/concepts/melanocortinpeptidevitality/"
     },
     "MelanopsinCircadianPhotoreception": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4448895120 [SCIM4448895120].md",
@@ -131202,6 +131239,13 @@
           "show": "Huberman Lab",
           "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
           "url": "/wiki/sources/scim4448895120-scim4448895120/"
+        },
+        {
+          "episode_file": "SCIM9724505974 [SCIM9724505974].md",
+          "key": "scim9724505974-scim9724505974",
+          "show": "Huberman Lab",
+          "title": "Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/scim9724505974-scim9724505974/"
         }
       ],
       "updated": "2026-10-02",
@@ -136540,9 +136584,9 @@
       "url": "/wiki/concepts/morganaticmarriage/"
     },
     "MorningLightCircadianAnchoring": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -136613,9 +136657,16 @@
           "show": "Huberman Lab",
           "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
+        },
+        {
+          "episode_file": "SCIM9724505974 [SCIM9724505974].md",
+          "key": "scim9724505974-scim9724505974",
+          "show": "Huberman Lab",
+          "title": "Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/scim9724505974-scim9724505974/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
     },
     "Morocco": {
@@ -171959,6 +172010,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/samesurnamekingenfeoffment/"
+    },
+    "SamerHattar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9724505974 [SCIM9724505974].md",
+          "key": "scim9724505974-scim9724505974",
+          "show": "Huberman Lab",
+          "title": "Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar",
+          "url": "/wiki/sources/scim9724505974-scim9724505974/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/samerhattar/"
     },
     "Samnites": {
       "episode_count": 3,
