@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [96. The UK’s Best Churches](sources/96-the-uks-best-churches-glt7919970372.md) — The Rest Is History survey of overlooked churches as archives of architecture, politics, war memory, art, science, folklore, literature, and local life.
 - [ADHD & How Anyone Can Improve Their Focus](sources/scim5444804832-scim5444804832.md) — Early Huberman Lab solo episode on ADHD attention control, working memory, stimulant and adjunct boundaries, attentional blinks, movement, visual practice, and phone-driven context switching.
 - [97. Top Ten Mistresses](sources/97-top-ten-mistresses-glt8855582591.md) — The Rest Is History countdown on royal favourites, performers, interpreters, celebrity, dynastic strategy, and influence through intimate access outside formal office.
 - [98. Thermopylae & Salamis Episode 1](sources/98-thermopylae-salamis-episode-1-glt3813381992.md) — The Rest Is History on Persian imperial scale, Greek source asymmetry, the road from Ionian revolt to Xerxes' invasion, Athenian fleet-building, prophecy, and the linked Thermopylae-Artemisium defense.

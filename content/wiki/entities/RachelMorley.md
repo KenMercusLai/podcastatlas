@@ -4,7 +4,8 @@ type: entity
 tags: [person, church-heritage, preservation, public-history]
 sources:
   - 133-christmas-churches-glt8843719433
-last_updated: 2026-10-02
+  - 96-the-uks-best-churches-glt7919970372
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,41 +13,45 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Rachel Morley is represented as a church-heritage specialist from [[FriendsOfFriendlessChurches]] who interprets British churches through buildings, objects, art, literature, folklore, and local memory.
+Rachel Morley is represented as a church-heritage specialist from [[FriendsOfFriendlessChurches]] who interprets British and Irish churches through buildings, objects, art, politics, literature, folklore, and local memory.
 
 ## Current Profile
 
-In [[133-christmas-churches-glt8843719433]], Morley constructs a deliberately playful Christmas top ten whose entries range from cathedrals to redundant parish churches, a cemetery, and a natural chasm. Her method begins with a visible or recorded detail—a donation box, font, calendar dial, wall painting, grave, film prop, or concealed horse skull—and uses it to open a wider historical story.
+Across [[96-the-uks-best-churches-glt7919970372]] and [[133-christmas-churches-glt8843719433]], Morley uses themed top-ten lists to move attention away from only the most famous monuments. Her method begins with a visible feature, inscription, object, image, grave, ruin, or local story and uses it to open a wider historical problem.
 
-The result is public history through material encounter rather than a comprehensive architectural survey. Christmas supplies the organizing occasion, but her subjects include charity, music, antiquarian fiction, food technology, confessional discipline, medieval computation, Arthurian geography, folk custom, and preservation advocacy.
+The earlier general survey ranges across saint cults, Welsh nonconformity, war remembrance, Saxon dating, stained glass, wall paintings, folk belief, literature, and modernism. The later Christmas survey adds charity, music, antiquarian fiction, food technology, confessional discipline, medieval computation, film, and seasonal custom. Together they present public history through material encounter rather than comprehensive architectural ranking, with preservation advocacy as a practical conclusion.
 
 ## Key Characteristics
 
-- Public interpreter of British church heritage.
-- Representative of Friends of Friendless Churches in the episode.
+- Public interpreter of British and Irish church heritage.
+- Representative of Friends of Friendless Churches across both episodes.
 - Uses material details to connect local sites with wider cultural history.
-- Mixes architectural, literary, artistic, folkloric, and social evidence.
-- Presents specialist knowledge through humor and an intentionally loose ranking format.
+- Mixes architectural, political, literary, artistic, folkloric, scientific, and social evidence.
+- Uses humor and intentionally selective rankings to make overlooked places memorable.
+- Joins historical interpretation to the case for preservation and continued public access.
 
 ## Evidence
 
-- Heritage role - [[133-christmas-churches-glt8843719433]] introduces Morley as the returning Friends of Friendless Churches guest responsible for the list.
-- Material-history method - [[133-christmas-churches-glt8843719433]] follows her interpretations of benefaction boards, an alms box, a font, a calendar dial, paintings, graves, and church fabric.
+- Heritage role - [[96-the-uks-best-churches-glt7919970372]] and [[133-christmas-churches-glt8843719433]] present Morley as the Friends of Friendless Churches guest responsible for both lists.
+- Material-history method - [[96-the-uks-best-churches-glt7919970372]] and [[133-christmas-churches-glt8843719433]] build outward from church fabric, inscriptions, furnishings, paintings, graves, ruins, and reused objects.
+- Political and social range - [[96-the-uks-best-churches-glt7919970372]] connects churches to nonconformist burial conflict, war loss, technology, science, trade, literature, and gendered judgment.
 - Cultural range - [[133-christmas-churches-glt8843719433]] connects churches to music, charity, fiction, film, baking, seasonal prohibition, Arthurian literature, and folklore.
-- Preservation advocacy - [[133-christmas-churches-glt8843719433]] closes by encouraging support for the organization she represents.
+- Preservation advocacy - [[96-the-uks-best-churches-glt7919970372]] and [[133-christmas-churches-glt8843719433]] connect accessible historical interpretation to support for vulnerable or redundant churches.
 
 ## Qualifications
 
-This profile is limited to one conversational festive episode and does not establish Morley's full biography, professional title, publications, or institutional responsibilities. The episode's top-ten conceit rewards memorable connections rather than exhaustive comparison, and its individual historical anecdotes remain source-scoped.
+This profile is limited to two conversational list episodes and does not establish Morley's full biography, publications, or institutional responsibilities beyond the role stated in the sources. The top-ten format rewards memorable connections rather than exhaustive comparison, and miracle stories, local legends, object attributions, priority claims, dates, and biographical anecdotes remain source-scoped.
 
 ## What Changed
 
-- Created a bounded profile of Morley's material-detail-led approach to church heritage and public history.
+- Expanded the profile from one festive survey to a broader method spanning politics, war memory, science, art, literature, folklore, and preservation.
+- Clarified that selective ranking and humor are engagement devices rather than claims of comprehensive comparison.
 
 ## Relationships
 
 - [[FriendsOfFriendlessChurches]] - preservation organization she represents in the episode.
 - [[ChurchCulturalMemory]] - interpretive framework synthesized from her church examples.
+- [[TSEliot|T. S. Eliot]] - poet used to frame the earlier survey and named in its preservation history.
 - [[MRJames]] - scholar-writer she uses to connect antiquarian work with Christmas ghost stories.
 - [[SaintNicholas]] - saint tradition she interprets through Winchester Cathedral's medieval font.
-- [[TheRestIsHistory]] - podcast hosting her festive church survey.
+- [[TheRestIsHistory]] - podcast hosting both church surveys.

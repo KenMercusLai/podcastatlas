@@ -36567,9 +36567,9 @@
       "url": "/wiki/entities/chunyuzhangwesternhan/"
     },
     "ChurchCulturalMemory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8843719433 [GLT8843719433].md",
@@ -36577,9 +36577,16 @@
           "show": "The Rest Is History",
           "title": "133. Christmas churches",
           "url": "/wiki/sources/133-christmas-churches-glt8843719433/"
+        },
+        {
+          "episode_file": "GLT7919970372 [GLT7919970372].md",
+          "key": "96-the-uks-best-churches-glt7919970372",
+          "show": "The Rest Is History",
+          "title": "96. The UK’s Best Churches",
+          "url": "/wiki/sources/96-the-uks-best-churches-glt7919970372/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/churchculturalmemory/"
     },
     "Cicero": {
@@ -74960,9 +74967,9 @@
       "url": "/wiki/concepts/friendlendingboundary/"
     },
     "FriendsOfFriendlessChurches": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8843719433 [GLT8843719433].md",
@@ -74970,9 +74977,16 @@
           "show": "The Rest Is History",
           "title": "133. Christmas churches",
           "url": "/wiki/sources/133-christmas-churches-glt8843719433/"
+        },
+        {
+          "episode_file": "GLT7919970372 [GLT7919970372].md",
+          "key": "96-the-uks-best-churches-glt7919970372",
+          "show": "The Rest Is History",
+          "title": "96. The UK’s Best Churches",
+          "url": "/wiki/sources/96-the-uks-best-churches-glt7919970372/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/friendsoffriendlesschurches/"
     },
     "FrontPackConversionEducation": {
@@ -164114,9 +164128,9 @@
       "url": "/wiki/concepts/rabiesexposurepostexposurecare/"
     },
     "RachelMorley": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8843719433 [GLT8843719433].md",
@@ -164124,9 +164138,16 @@
           "show": "The Rest Is History",
           "title": "133. Christmas churches",
           "url": "/wiki/sources/133-christmas-churches-glt8843719433/"
+        },
+        {
+          "episode_file": "GLT7919970372 [GLT7919970372].md",
+          "key": "96-the-uks-best-churches-glt7919970372",
+          "show": "The Rest Is History",
+          "title": "96. The UK’s Best Churches",
+          "url": "/wiki/sources/96-the-uks-best-churches-glt7919970372/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/rachelmorley/"
     },
     "RacialAntisemitism": {
@@ -191125,9 +191146,9 @@
       "url": "/wiki/concepts/tcelleducationandthymusaging/"
     },
     "TSEliot": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1607440485 [GLT1607440485].md",
@@ -191135,9 +191156,16 @@
           "show": "The Rest Is History",
           "title": "136. 1922: The Birth of the Modern World Part 1",
           "url": "/wiki/sources/136-1922-the-birth-of-the-modern-world-part-1-glt1607440485/"
+        },
+        {
+          "episode_file": "GLT7919970372 [GLT7919970372].md",
+          "key": "96-the-uks-best-churches-glt7919970372",
+          "show": "The Rest Is History",
+          "title": "96. The UK’s Best Churches",
+          "url": "/wiki/sources/96-the-uks-best-churches-glt7919970372/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/tseliot/"
     },
     "TVBTalentPipeline": {
