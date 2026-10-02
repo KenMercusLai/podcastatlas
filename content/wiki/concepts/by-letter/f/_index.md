@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9269
+wiki_total_pages: 9271
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "FDAReviewModernization"
     title: "FDA Review Modernization"
     url: "/wiki/concepts/fdareviewmodernization/"
+  - key: "FearExtinctionPositiveRelearning"
+    title: "Fear Extinction and Positive Relearning"
+    url: "/wiki/concepts/fearextinctionpositiverelearning/"
   - key: "FearDrivenAIAdoption"
     title: "Fear-Driven AI Adoption / 恐懼驅動的AI採用"
     url: "/wiki/concepts/feardrivenaiadoption/"

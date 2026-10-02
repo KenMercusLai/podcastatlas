@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Erasing Fears & Traumas Based on the Modern Neuroscience of Fear](sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962.md) — Huberman Lab episode on distributed fear circuitry, conditioned trauma cues, extinction plus adaptive relearning, EMDR limits, assisted psychotherapy, social support, and deliberate-stress boundaries.
 - [183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增](sources/ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1.md) — LateTalk review of Q3 2026 personal agents, frontier models, robotics, multi-agent research and security, AI-for-science, model economics, and revenue uncertainty.
 - [129. Cricket](sources/129-cricket-glt9095163579.md) — The Rest Is History with John Hotten on cricket's rural and Georgian roots, Victorian moralization, celebrity, Ashes rivalry, Bodyline, empire, and postcolonial power.
 - [130. Superheroes](sources/130-superheroes-glt5186846131.md) — The Rest Is History episode on superhero comics as modern American mass culture shaped by printing, immigration, crime anxiety, science, social politics, vigilantism, and changing confidence in heroic power.
@@ -15507,6 +15508,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [EMDR Mechanism Boundary](concepts/EMDRMechanismBoundary.md) — Separates possible EMDR benefit from oversimplified REM, bilateral-brain, and complete-relearning explanations.
+- [Fear Extinction and Positive Relearning](concepts/FearExtinctionPositiveRelearning.md) — Model distinguishing reduction of a learned threat response from building a competing safe, rewarding, or agency-restoring association.
 - [Cricket and Imperial Identity](concepts/CricketImperialIdentity.md) — Changing use of cricket as English self-image, settler rivalry, colonial appropriation, regional identity, and postcolonial authority.
 - [Victorian Cricket Moralization](concepts/VictorianCricketMoralization.md) — Recasting of a gambling-rich Georgian game as a Victorian emblem of fair play, character, Englishness, and empire.
 - [Bodyline Crisis](concepts/BodylineCrisis.md) — 1932-33 cricket controversy joining tactics against Bradman to bodily danger, Australian nationalism, imperial ethics, and English class blame.

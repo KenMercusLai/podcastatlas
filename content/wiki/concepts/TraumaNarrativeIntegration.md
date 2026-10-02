@@ -10,8 +10,9 @@ sources:
   - essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982
   - vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g
   - a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666
+  - erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-27
+last_updated: 2026-10-02
 ---
 
 # Trauma Narrative Integration / 创伤叙事整合
@@ -29,6 +30,8 @@ Sleep neuroscience supplies a neurobiological neighbor, not a replacement for th
 A medical-event aftermath in [[vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g|VOL.124]] broadens the synthesis: after suspected mushroom poisoning and prolonged visual uncertainty, 依依 avoided mushrooms and repeatedly dreamed about companions from the event. The episode's narrative-therapy discussion suggests that retelling can restore authorship and support help-seeking, while preserving a crucial differential boundary—psychological care should accompany, not erase, unresolved physical evaluation.
 
 The expressive-writing episode adds a standardized self-directed format: four private 15–30 minute sessions on one stressful event, combining facts, emotions, and associations. It supports the page's fragment-to-story model, but also sharpens the safety boundary. Acute distress is expected, the episode recommends recovery time and professional support when needed, and its broad health and mechanism claims remain source-scoped rather than proof that every trauma should be repeatedly narrated alone.
+
+The fear-and-trauma episode adds an exposure-learning interpretation. Repeated supported recounting may reduce the physiological amplitude attached to a terrible story until it becomes more tolerable to remember, but lower arousal is not the whole target. [[FearExtinctionPositiveRelearning]] proposes that new safety, reward, connection, or agency also needs to become associated with the memory or formerly avoided situation. [[EMDRMechanismBoundary]] fits inside this synthesis as a possible desensitization aid whose mechanism and capacity for broader relearning remain qualified.
 
 ## Key Claims
 - Traumatic memory often begins as fragments, bodily panic, images, dreams, silence, or repeated scenes rather than ordinary narrative memory.
@@ -48,14 +51,15 @@ The expressive-writing episode adds a standardized self-directed format: four pr
 - REM emotional-memory mechanism - [[essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982]] says REM sleep may allow emotional memory processing without full norepinephrine-driven physiological alarm, while maladaptive REM may reinforce PTSD-like re-experiencing.
 - Medical-event aftermath and help-seeking - [[vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g]] connects post-poisoning avoidance and recurring dreams with narrative retelling and increased willingness to seek psychological care.
 - Structured expressive writing - [[a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666]] adds repeated private writing that combines facts, feelings, and associations, together with recovery time and professional-care boundaries.
+- Supported recounting and relearning - [[erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962]] frames repeated recounting as extinction-like reduction of bodily alarm while arguing that adaptive new association is a distinct further task.
 
 ## Counterevidence & Qualifications
-Not every painful memory is ready for narration, and not every representation is healing. Dramatic visualization or expressive writing can make trauma more faceable, but neither is automatically clinical treatment. Forgetting, numbing, avoiding, or sleeping may sometimes protect a person in the short term, so integration should not become pressure to expose more than someone can hold. The REM and expressive-writing mechanisms are source-scoped public neuroscience and psychology education; they do not replace trauma therapy, crisis care, medication management, sleep-disorder treatment, or medical follow-up. A more coherent account is not necessarily complete or objectively verified, and psychological formulation must not be used to dismiss persistent physical symptoms.
+Not every painful memory is ready for narration, and not every representation is healing. Dramatic visualization, expressive writing, repeated recounting, or eye-movement procedures can make trauma more faceable, but none is automatically appropriate clinical treatment. Forgetting, numbing, avoiding, or sleeping may sometimes protect a person in the short term, so integration should not become pressure to expose more than someone can hold. The REM, expressive-writing, extinction, and EMDR mechanisms are source-scoped public neuroscience and psychology education; they do not replace trauma therapy, crisis care, medication management, sleep-disorder treatment, or medical follow-up. A more coherent account is not necessarily complete or objectively verified, and psychological formulation must not be used to dismiss persistent physical symptoms.
 
 ## What Changed
-- Added the four-session expressive-writing format as one bounded route from facts, feelings, and associations toward narrative coherence.
-- Clarified that repeated narration can be acutely distressing and may require recovery time or professional containment.
-- Separated reported benefits and proposed mechanisms from a universal trauma-treatment claim.
+- Added repeated supported recounting as an extinction-like route toward tolerable memory.
+- Distinguished lower physiological alarm from new safety, reward, connection, or agency learning.
+- Added EMDR as a qualified desensitization neighbor without adopting a settled mechanism claim.
 
 ## Related Concepts
 - [[BereavementGriefWork]] - grief process that may require narrative integration.
@@ -68,3 +72,5 @@ Not every painful memory is ready for narration, and not every representation is
 - [[TemporaryFamilyHealing]] - relational setting where traumatic material can become faceable without being solved.
 - [[WildMushroomPoisoningTriage]] - medical-response context whose physical uncertainty can continue alongside psychological recovery.
 - [[ExpressiveWritingProtocol]] - structured self-directed writing branch with explicit distress and care boundaries.
+- [[FearExtinctionPositiveRelearning]] - separates desensitization from competing adaptive association.
+- [[EMDRMechanismBoundary]] - bounds eye-movement claims within supported trauma recall.

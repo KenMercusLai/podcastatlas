@@ -5,8 +5,9 @@ tags: [mdma, ptsd, psychotherapy, trauma, clinical-research]
 sources:
   - the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449
   - the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019
+  - erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-28
+last_updated: 2026-10-02
 ---
 
 # MDMA-Assisted PTSD Therapy
@@ -23,6 +24,8 @@ The MDMA source reports substantial response and loss-of-diagnosis proportions i
 
 That comparison supports mechanism differentiation rather than a hierarchy of compounds. It may help explain why MDMA fits trauma-focused talk therapy, but it does not establish that MDMA is easier, safer, approved, or appropriate for a given person. Both sources keep the intervention inside preparation, monitoring, psychotherapy, integration, identified product, and professional safeguards.
 
+The earlier fear-and-trauma episode contributes a compatible but less complete affective-learning account: simultaneous dopamine-, serotonin-, and oxytocin-related effects may let traumatic material be revisited with greater connection and safety, allowing a new emotional association to form. This strengthens the link to [[FearExtinctionPositiveRelearning]] while remaining a proposed mechanism rather than proof that hormone or transmitter changes cause clinical recovery.
+
 ## Key Claims
 - MDMA is presented as an adjunct that may enhance psychotherapy, not a stand-alone PTSD cure.
 - Preparation, therapeutic trust, monitored drug sessions, and integration are constitutive parts of the intervention.
@@ -38,13 +41,14 @@ That comparison supports mechanism differentiation rather than a hierarchy of co
 - Protocol - [[the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449]] describes preparatory sessions, three MDMA-or-placebo sessions, paired therapists, and follow-up integration.
 - Outcome signal - [[the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449]] reports higher clinical response and loss-of-diagnosis proportions in the MDMA-plus-therapy arm.
 - Comparative process - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]] describes MDMA therapy as more dialogic and relational than classic psychedelic sessions, with a safer-feeling approach to trauma as a hypothesis.
+- Earlier affective-learning account - [[erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962]] proposes that dopamine-, serotonin-, oxytocin-, safety-, and connection-related changes may help remap feelings onto a traumatic narrative during supervised psychotherapy.
 
 ## Counterevidence & Qualifications
-The supplied sources are public education from May and June 2023, not the primary trial reports or current regulatory record. Placebo masking, therapist effects, participant selection, adverse-event ascertainment, durability, comorbidities, expectancy, comparative efficacy, and later evidence cannot be fully evaluated from the notes. The concept provides no dosing, sourcing, eligibility, or self-treatment instructions and remains inside [[PsychedelicClinicalSupervisionBoundary]].
+The supplied sources are public education from December 2021 and May and June 2023, not the primary trial reports or current regulatory record. Placebo masking, therapist effects, participant selection, adverse-event ascertainment, durability, comorbidities, expectancy, comparative efficacy, and later evidence cannot be fully evaluated from the notes. Neurotransmitter and oxytocin changes do not by themselves establish the therapeutic mechanism. The concept provides no dosing, sourcing, eligibility, or self-treatment instructions and remains inside [[PsychedelicClinicalSupervisionBoundary]].
 
 ## What Changed
-- Created a dedicated concept separating the complete therapy program from the acute MDMA state.
-- Added the qualified contrast with classic psychedelic therapy: more dialogue, affiliation, and safer-feeling trauma approach without claiming superiority.
+- Added the earlier affective-relearning account linking connection and reduced threat to a new association with traumatic material.
+- Kept transmitter and oxytocin explanations provisional rather than causal treatment claims.
 
 ## Related Concepts
 - [[MDMA]] - pharmacological adjunct used in the intervention.
@@ -55,3 +59,4 @@ The supplied sources are public education from May and June 2023, not the primar
 - [[MDMANeurotoxicityRisk]] - compound-specific benefit-risk qualification.
 - [[PsychedelicTherapyMechanism]] - related classic-psychedelic model with a different acute therapeutic process.
 - [[PsychedelicIntegration]] - follow-up process shared across assisted-therapy models.
+- [[FearExtinctionPositiveRelearning]] - broader distinction between threat reduction and adaptive new association.

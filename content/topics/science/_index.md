@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1399
+topic_total_pages: 1400
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3693,6 +3693,9 @@ topic_sources:
   - key: "ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv"
     title: "EP87《稀缺》：如何设计一个让自己变聪明的系统"
     url: "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
+  - key: "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962"
+    title: "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear"
+    url: "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645"
     title: "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"

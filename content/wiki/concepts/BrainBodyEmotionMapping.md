@@ -8,8 +8,9 @@ sources:
   - how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252
   - how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002
   - the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481
+  - erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-01
+last_updated: 2026-10-02
 ---
 
 # Brain-Body Emotion Mapping
@@ -26,10 +27,12 @@ The Barrett episode adds [[AllostaticBodyBudget]] and a predictive action layer.
 
 Across development, primitive regulatory states do not remain raw physiology: through social experience, culture, concepts, and stories, bodily feeling can become conscious emotion, narrative, belief, value, and identity. This connects brain-body mapping to [[EmotionGuidedLearning]] while preserving the same measurement boundary: an interpretive developmental pathway is not a one-to-one physiological code.
 
+The fear-and-trauma episode adds an insular calibration example. A discussed mouse study is interpreted as showing that bodily feedback to insular cortex helps match internal fear response to external conditions; disrupting that activity can make mild stimuli produce disproportionate internal responses. This supports interoceptive calibration as a candidate mechanism, not a human diagnostic test or proof that one insular circuit explains trauma.
+
 ## Key Claims
 - Body diagrams can reveal emotion concepts without directly measuring physiological emotion signatures.
 - Existing body-measurement studies are often too crude to map emotions at high resolution.
-- The insula is important because it receives extensive input from the body.
+- The insula receives extensive bodily input and may help calibrate internal response to external conditions, with the current causal fear example limited to mice.
 - Vagus-nerve and autonomic pathways make brain-body emotional feedback bidirectional.
 - Brain imaging favors distributed signatures for basic emotions over single localized centers.
 - Different kinds of pain or body signals can drive different motivated behaviors.
@@ -47,15 +50,14 @@ Across development, primitive regulatory states do not remain raw physiology: th
 - Predictive allostasis - [[how-to-understand-emotions-dr-lisa-feldman-barrett-scim3919749252]] describes the brain as preparing bodily regulation before movement and affect as a coarse summary that emotion categories interpret in context.
 - Developmental abstraction - [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] uses a child's changing expressions of love to show how bodily attachment feelings can acquire richer concepts and narratives over time.
 - Learning bridge - [[how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002]] connects physiology, hormones, stress, immunity, digestion, microbiome, culture, and social interaction to conscious meaning and learning.
+- Fear-calibration example - [[erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962]] discusses a mouse study in which inhibiting insular activity made mild external stimuli produce disproportionately large internal fear responses.
 
 ## Counterevidence & Qualifications
-The concept remains partly prospective. The sources expect richer body signatures may exist but say the necessary high-dimensional physiological studies and specific vagus-fiber decoding are still developing. Barrett's body-budget metaphor does not establish a single measurable personal budget, and her depression and treatment remarks remain source-scoped rather than a complete clinical model. Immordino-Yang's developmental examples explain a plausible pathway from feeling to meaning but do not establish a universal sequence, a fixed emotion vocabulary, or a direct physiological decoder.
+The concept remains partly prospective. The sources expect richer body signatures may exist but say the necessary high-dimensional physiological studies and specific vagus-fiber decoding are still developing. Barrett's body-budget metaphor does not establish a single measurable personal budget, and her depression and treatment remarks remain source-scoped rather than a complete clinical model. Immordino-Yang's developmental examples explain a plausible pathway from feeling to meaning but do not establish a universal sequence, a fixed emotion vocabulary, or a direct physiological decoder. The insula result is a mouse manipulation and cannot diagnose, localize, or prescribe treatment for human fear or trauma.
 
 ## What Changed
-- Added predictive allostasis, action preparation, and affect as a coarse body-state summary.
-- Clarified that brain-body mapping includes forecast and control, not only readout.
-- Added the developmental pathway from bodily regulation through concepts and stories to belief, value, identity, and learning.
-- Clarified that general vagal bidirectionality is better established in the source account than organ- and fiber-specific emotional control.
+- Added the mouse insula finding as a candidate mechanism for matching internal fear response to external conditions.
+- Clarified that interoceptive calibration is not a human biomarker or a single-circuit account of trauma.
 
 ## Related Concepts
 - [[EmotionsAsFunctionalControlStates]] - broader emotion framework that body mapping may refine.

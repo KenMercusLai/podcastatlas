@@ -6,6 +6,7 @@ sources:
   - essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944
   - the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481
   - science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543
+  - erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,7 @@ Social isolation tachykinin is the source-scoped claim that social isolation can
 ## Current Synthesis
 The Anderson episode presents tachykinins as neuropeptides released with classical transmitters and linked to internal-state shifts. In fruit flies, Drosophila tachykinin neurons are described as aggression-promoting, and social isolation increases tachykinin levels. In mice, two weeks of isolation is said to increase tachykinin-2 across the brain, contributing to heightened aggression, fear, and anxiety-like behavior.
 
-The clinical meaning is deliberately bounded. The full interview identifies osanitant as the discussed receptor blocker and says treated isolated mice could return to group housing without attacking littermates, without simple sedation. The solo bonding episode uses tachykinin more generally to explain why chronic isolation may be accompanied by irritability and harder social re-entry. Together, the sources make tachykinin a bridge between social environment, neuropeptide state, and behavior in animal models, not a proven human or veterinary treatment or direct explanation for human violence or anxiety.
+The clinical meaning is deliberately bounded. The full interview identifies osanitant as the discussed receptor blocker and says treated isolated mice could return to group housing without attacking littermates, without simple sedation. The solo bonding episode uses tachykinin more generally to explain why chronic isolation may be accompanied by irritability and harder social re-entry. The fear-and-trauma episode adds a broad claim that trusted social connection can reduce tachykinin effectiveness or levels after threatening experience, but the supplied note does not resolve species, measurement, or mechanism. Together, the sources make tachykinin a bridge between social environment, neuropeptide state, and behavior in animal models, not a proven human or veterinary treatment or direct explanation for human violence, trauma, or anxiety.
 
 ## Key Claims
 - Tachykinins are related neuropeptides encoded by genes and released alongside classical neurotransmitters.
@@ -26,6 +27,7 @@ The clinical meaning is deliberately bounded. The full interview identifies osan
 - Social isolation raises tachykinin levels in flies and tachykinin-2 levels in mice.
 - Blocking tachykinin signaling can reduce isolation-linked aggression, fear, and anxiety-like behavior in mice.
 - The source frames possible human relevance cautiously rather than as established treatment evidence.
+- Trusted social connection is proposed as a countervailing influence, with species and mechanism unresolved in the supplied account.
 
 ## Evidence
 - Fly aggression evidence - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] says activating Drosophila tachykinin neurons promotes aggression.
@@ -34,13 +36,14 @@ The clinical meaning is deliberately bounded. The full interview identifies osan
 - Translational boundary evidence - [[essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944]] treats bereavement and human isolation relevance as possible but unproven.
 - Rehousing and sedation boundary - [[the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481]] reports successful group rehousing after osanitant treatment and says the effect was not simple sedation, while keeping human use speculative.
 - Public-education extension - [[science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543]] connects isolation-linked tachykinin to irritability and difficult social re-entry without adding human intervention evidence.
+- Trauma-support extension - [[erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962]] says trusted social connection may reduce tachykinin effectiveness or levels after fear-inducing events without supplying enough detail for a human causal or treatment claim.
 
 ## Counterevidence & Qualifications
-This concept is based on animal-model discussion. It does not justify self-treatment, drug selection, violence prediction, or a settled human psychiatric mechanism for loneliness, anxiety, bereavement, or aggression.
+This concept is based principally on animal-model discussion. It does not justify self-treatment, drug selection, violence prediction, or a settled human psychiatric mechanism for loneliness, trauma, anxiety, bereavement, or aggression. The new source's social-connection claim lacks enough species and measurement detail to establish human reversal of tachykinin signaling.
 
 ## What Changed
-- Created the tachykinin-isolation concept from Anderson's fly and mouse evidence.
-- Added the chronic-isolation and difficult-re-entry interpretation while preserving the gap between animal mechanisms and human treatment.
+- Added trusted social connection as a proposed countervailing influence after fear or isolation.
+- Made the missing species, measurement, and human-treatment evidence explicit.
 
 ## Related Concepts
 - [[AggressionCircuitBiology]] - behavior branch affected by isolation-linked tachykinin signaling.

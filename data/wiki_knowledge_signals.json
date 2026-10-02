@@ -10477,9 +10477,9 @@
       "url": "/wiki/entities/amywebb/"
     },
     "AmygdalaFearDissociation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -10494,9 +10494,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",
           "url": "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
+        },
+        {
+          "episode_file": "SCIM2745308962 [SCIM2745308962].md",
+          "key": "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962",
+          "show": "Huberman Lab",
+          "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
+          "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/amygdalafeardissociation/"
     },
     "AmygdalaValenceAssignment": {
@@ -17323,9 +17330,9 @@
       "url": "/wiki/concepts/autonomicromanticcoordination/"
     },
     "AutonomicStressTraining": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -17361,9 +17368,16 @@
           "show": "Huberman Lab",
           "title": "How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
           "url": "/wiki/sources/how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173/"
+        },
+        {
+          "episode_file": "SCIM2745308962 [SCIM2745308962].md",
+          "key": "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962",
+          "show": "Huberman Lab",
+          "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
+          "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/autonomicstresstraining/"
     },
     "AutonomousDrivingDataFlywheel": {
@@ -23805,9 +23819,9 @@
       "url": "/wiki/entities/bradgerstner/"
     },
     "BrainBodyEmotionMapping": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -23843,9 +23857,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Aggression, Mating, & Arousal | Dr. David Anderson",
           "url": "/wiki/sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481/"
+        },
+        {
+          "episode_file": "SCIM2745308962 [SCIM2745308962].md",
+          "key": "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962",
+          "show": "Huberman Lab",
+          "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
+          "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/brainbodyemotionmapping/"
     },
     "BrainComputerInterface": {
@@ -54791,6 +54812,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/ejchichilnisky/"
     },
+    "EMDRMechanismBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2745308962 [SCIM2745308962].md",
+          "key": "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962",
+          "show": "Huberman Lab",
+          "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
+          "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/emdrmechanismboundary/"
+    },
     "ETFConsensusFeedback": {
       "episode_count": 1,
       "show_count": 1,
@@ -66917,6 +66954,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/feardrivengroupviolence/"
+    },
+    "FearExtinctionPositiveRelearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2745308962 [SCIM2745308962].md",
+          "key": "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962",
+          "show": "Huberman Lab",
+          "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
+          "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/fearextinctionpositiverelearning/"
     },
     "February1974UKGeneralElection": {
       "episode_count": 2,
@@ -124039,9 +124092,9 @@
       "url": "/wiki/entities/mdma/"
     },
     "MDMAAssistedPTSDTherapy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6952643449 [SCIM6952643449].md",
@@ -124056,9 +124109,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris",
           "url": "/wiki/sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019/"
+        },
+        {
+          "episode_file": "SCIM2745308962 [SCIM2745308962].md",
+          "key": "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962",
+          "show": "Huberman Lab",
+          "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
+          "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/mdmaassistedptsdtherapy/"
     },
     "MDMANeurotoxicityRisk": {
@@ -178522,9 +178582,9 @@
       "url": "/wiki/concepts/socialimmersionlanguagelearning/"
     },
     "SocialIsolationTachykinin": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM8499505944 [SCIM8499505944].md",
@@ -178546,6 +178606,13 @@
           "show": "Huberman Lab",
           "title": "Science of Social Bonding in Family, Friendship & Romantic Love",
           "url": "/wiki/sources/science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543/"
+        },
+        {
+          "episode_file": "SCIM2745308962 [SCIM2745308962].md",
+          "key": "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962",
+          "show": "Huberman Lab",
+          "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
+          "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
         }
       ],
       "updated": "2026-10-02",
@@ -190925,9 +190992,9 @@
       "url": "/wiki/concepts/therapeuticmusicalsynchrony/"
     },
     "TherapeuticStateLearning": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2644851631 [SCIM2644851631].md",
@@ -190942,9 +191009,16 @@
           "show": "Huberman Lab",
           "title": "The Science of MDMA & Its Therapeutic Uses: Benefits & Risks",
           "url": "/wiki/sources/the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449/"
+        },
+        {
+          "episode_file": "SCIM2745308962 [SCIM2745308962].md",
+          "key": "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962",
+          "show": "Huberman Lab",
+          "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
+          "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/therapeuticstatelearning/"
     },
     "TherapyFitAndIntensity": {
@@ -194292,9 +194366,9 @@
       "url": "/wiki/concepts/trashcancorpusscientificai/"
     },
     "TraumaCueResponse": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6456251481 [SCIM6456251481].md",
@@ -194302,9 +194376,16 @@
           "show": "Huberman Lab",
           "title": "How to Heal From Post-Traumatic Stress Disorder (PTSD) | Dr. Victor Carrión",
           "url": "/wiki/sources/how-to-heal-from-post-traumatic-stress-disorder-ptsd-dr-victor-carrion-scim6456251481/"
+        },
+        {
+          "episode_file": "SCIM2745308962 [SCIM2745308962].md",
+          "key": "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962",
+          "show": "Huberman Lab",
+          "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
+          "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/traumacueresponse/"
     },
     "TraumaFunctionalRecognition": {
@@ -194324,9 +194405,9 @@
       "url": "/wiki/concepts/traumafunctionalrecognition/"
     },
     "TraumaNarrativeIntegration": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "166.悠游长风：温柔的幻想之歌，抚平焦虑的沟壑 [948043059].md",
@@ -194376,9 +194457,16 @@
           "show": "Huberman Lab",
           "title": "A Science-Supported Journaling Protocol to Improve Mental & Physical Health",
           "url": "/wiki/sources/a-science-supported-journaling-protocol-to-improve-mental-physical-health-scim8054388666/"
+        },
+        {
+          "episode_file": "SCIM2745308962 [SCIM2745308962].md",
+          "key": "erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962",
+          "show": "Huberman Lab",
+          "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
+          "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/traumanarrativeintegration/"
     },
     "TraumaWitnessingAndLanguage": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9269
+wiki_total_pages: 9271
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -419,6 +419,9 @@ wiki_pages:
   - key: "EmbodiedVulnerabilityPublicDesign"
     title: "Embodied Vulnerability Public Design / 身体脆弱性与公共设计"
     url: "/wiki/concepts/embodiedvulnerabilitypublicdesign/"
+  - key: "EMDRMechanismBoundary"
+    title: "EMDR Mechanism Boundary"
+    url: "/wiki/concepts/emdrmechanismboundary/"
   - key: "EmergencyCashAssistance"
     title: "Emergency Cash Assistance / 紧急现金援助"
     url: "/wiki/concepts/emergencycashassistance/"

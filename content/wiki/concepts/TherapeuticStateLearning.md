@@ -5,7 +5,8 @@ tags: [psychiatry, learning, psychedelics, trauma]
 sources:
   - essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631
   - the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449
-last_updated: 2026-09-21
+  - erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ A structured learning environment makes the bridge from temporary openness to du
 
 The concept also offers one possible account of psychedelic benefit in depression. If hopelessness constrains which futures feel representable, a changed state may temporarily admit alternatives that ordinary processing filters out. Both sources leave important mechanisms incomplete, so the synthesis remains a learning hypothesis under [[PsychedelicClinicalSupervisionBoundary]], not a treatment protocol.
 
+The fear-and-trauma episode broadens the principle beyond one compound. It frames ketamine-assisted and MDMA-assisted psychotherapy as ways traumatic material might be revisited with less fear, more connection, or a different emotional state, and it argues that durable recovery requires attaching new adaptive experience to the old narrative. This strengthens the learning bridge while leaving compound-specific mechanisms, efficacy, and suitability unresolved.
+
 ## Key Claims
 - Acute altered experience can become therapeutically relevant through later memory and learning.
 - MDMA-related connectedness is framed as a possible proof that connection can occur.
@@ -35,12 +38,14 @@ The concept also offers one possible account of psychedelic benefit in depressio
 - Relationship transfer - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] agrees that therapy can create learned models exported to other relationships.
 - Future-model hypothesis - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] suggests psychedelics may let a depressed person represent paths that hopelessness had filtered out.
 - Structured PTSD context - [[the-science-of-mdma-its-therapeutic-uses-benefits-risks-scim6952643449]] describes preparation, monitored MDMA-assisted psychotherapy, and follow-up integration while explicitly rejecting MDMA as a stand-alone cure.
+- Cross-intervention learning frame - [[erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962]] compares ketamine- and MDMA-assisted psychotherapy as supervised attempts to revisit trauma in a different affective state and build new association.
 
 ## Counterevidence & Qualifications
-The sources do not establish one causal mechanism linking acute trust, threat-circuit changes, memory access, and durable outcome. Reported trial results remain dated and source-scoped, and altered states can involve addiction, lasting undesirable change, physiological risk, or destabilization. The concept does not establish efficacy, safety, dosage, eligibility, or a do-it-yourself route.
+The sources do not establish one causal mechanism linking acute trust, dissociation, threat-circuit changes, memory access, positive association, and durable outcome. Reported trial results and mechanism comparisons remain dated and source-scoped, and altered states can involve addiction, lasting undesirable change, physiological risk, or destabilization. The concept does not establish efficacy, safety, dosage, eligibility, or a do-it-yourself route.
 
 ## What Changed
-- Added preparation, supported trauma exposure, and integration as the structured bridge between acute state and later learning.
+- Extended the learning model across MDMA- and ketamine-assisted psychotherapy while preserving compound-specific uncertainty.
+- Connected altered-state learning to positive or agency-restoring relearning after threat reduction.
 
 ## Related Concepts
 - [[MemoryReconsolidationPsychiatry]] - narrower trauma-memory updating hypothesis.
@@ -49,3 +54,5 @@ The sources do not establish one causal mechanism linking acute trust, threat-ci
 - [[MDMA]] - substance used in the episode's connectedness-and-learning example.
 - [[Neuroplasticity]] - broader capacity for experience-dependent change.
 - [[MDMAAssistedPTSDTherapy]] - clinical program that makes preparation and integration explicit.
+- [[FearExtinctionPositiveRelearning]] - broader model for attaching adaptive experience to an activated fear memory.
+- [[KetamineTreatmentSafety]] - clinical and route-specific boundary for the ketamine branch.
