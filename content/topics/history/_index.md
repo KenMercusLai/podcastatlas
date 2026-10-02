@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2391
+topic_total_pages: 2392
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4842,6 +4842,9 @@ topic_sources:
   - key: "120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218"
     title: "120.蓝狐岛：伟大事业中的雄心与现实"
     url: "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"
+  - key: "123-world-cup-of-kings-and-queens-part-1-glt3062961015"
+    title: "123. World Cup of Kings and Queens part 1"
+    url: "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
   - key: "124-world-cup-of-kings-and-queens-part-2-glt4467647081"
     title: "124. World Cup of Kings and Queens part 2"
     url: "/wiki/sources/124-world-cup-of-kings-and-queens-part-2-glt4467647081/"

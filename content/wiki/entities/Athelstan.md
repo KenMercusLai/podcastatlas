@@ -6,7 +6,8 @@ sources:
   - 548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286
   - 327-coronations-the-deep-history-part-1-glt4746607803
   - 124-world-cup-of-kings-and-queens-part-2-glt4467647081
-last_updated: 2026-09-28
+  - 123-world-cup-of-kings-and-queens-part-1-glt3062961015
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,7 +25,7 @@ Athelstan is therefore important less through a detailed biographical narrative 
 
 The coronation episode adds a ritual transition: Athelstan is presented as apparently the first English king crowned with a crown rather than inaugurated with a martial helmet. The claim connects changing political scale to a more explicitly Christian and imperial visual language, although the episode does not treat the earlier practice or priority as certain.
 
-The tournament episode adds a reception layer. Among the podcast's history-focused listeners, Athelstan defeats better-known monarchs and finally [[ElizabethI|Elizabeth I]]. The hosts interpret him as a specialist choice: his association with English unification carries high historical consequence without the burden of the familiar clichés and controversies attached to later royal icons.
+The tournament episodes add a reception layer. Athelstan first defeats [[QueenVictoria|Victoria]], then better-known monarchs, and finally [[ElizabethI|Elizabeth I]]. The hosts interpret him as a specialist choice: his association with English unification carries high historical consequence without the burden of the familiar clichés and controversies attached to later royal icons.
 
 ## Key Characteristics
 
@@ -41,7 +42,7 @@ The tournament episode adds a reception layer. Among the podcast's history-focus
 - Dynastic sequence - [[548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286]] situates him between Alfred's defensive foundations and Edgar's mature royal authority.
 - Long-run significance - [[548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286]] uses that unity to explain England's later wealth, order, and attraction to conquerors.
 - Ritual transition - [[327-coronations-the-deep-history-part-1-glt4746607803]] presents Athelstan as apparently the first English king crowned with a crown rather than a helmet.
-- Comparative reputation - [[124-world-cup-of-kings-and-queens-part-2-glt4467647081]] presents Athelstan's tournament victory as a history-listener judgment that rewards unification, Anglo-Saxon interest, and distance from overfamiliar royal mythology.
+- Comparative reputation - [[123-world-cup-of-kings-and-queens-part-1-glt3062961015]] records Athelstan's first-round victory over Victoria, while [[124-world-cup-of-kings-and-queens-part-2-glt4467647081]] interprets his overall win as a history-listener judgment rewarding unification, Anglo-Saxon interest, and distance from overfamiliar royal mythology.
 
 ## Qualifications
 
@@ -49,8 +50,8 @@ The sources give Athelstan a structural rather than detailed biography. “Compl
 
 ## What Changed
 
-- Added the specialist-reception layer behind Athelstan's tournament victory over more famous monarchs.
-- Separated listener preference from an objective or general-public ranking.
+- Added Victoria as the first concrete case in Athelstan's tournament path from obscure unifier to overall winner.
+- Clarified that the reception claim rests across both tournament episodes while remaining audience-specific.
 
 ## Relationships
 

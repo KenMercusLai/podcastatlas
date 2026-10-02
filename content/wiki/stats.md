@@ -12,21 +12,21 @@ outputs: ["html"]
 ## Pages
 - Overview: 1
 - Concepts: 9286
-- Entities: 11976
-- Sources: 3451
-- Total wiki content pages: 24714
+- Entities: 11979
+- Sources: 3452
+- Total wiki content pages: 24718
 
 ## Links
-- Wiki link references: 597107
-- Unique wiki link targets: 24723
-- Missing targets: 13
+- Wiki link references: 597190
+- Unique wiki link targets: 24728
+- Missing targets: 14
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 3451
-- Matched episodes: 3451
+- Source pages: 3452
+- Matched episodes: 3452
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -54,6 +54,8 @@ outputs: ["html"]
   - `content/wiki/concepts/InnovatorTraitConfiguration.md`
   - `content/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364.md`
   - `content/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870.md`
+- `[[MargaretBeaufort]]`
+  - `content/wiki/entities/HenryVII.md`
 - `[[Mosaic]]`
   - `content/wiki/entities/MarkAndreessen.md`
   - `content/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870.md`

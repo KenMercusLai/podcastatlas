@@ -15676,9 +15676,9 @@
       "url": "/wiki/entities/atang/"
     },
     "Athelstan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9632339286 [GLT9632339286].md",
@@ -15700,9 +15700,16 @@
           "show": "The Rest Is History",
           "title": "124. World Cup of Kings and Queens part 2",
           "url": "/wiki/sources/124-world-cup-of-kings-and-queens-part-2-glt4467647081/"
+        },
+        {
+          "episode_file": "GLT3062961015 [GLT3062961015].md",
+          "key": "123-world-cup-of-kings-and-queens-part-1-glt3062961015",
+          "show": "The Rest Is History",
+          "title": "123. World Cup of Kings and Queens part 1",
+          "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/athelstan/"
     },
     "Athena": {
@@ -37309,9 +37316,9 @@
       "url": "/wiki/entities/clytemnestra/"
     },
     "CnutTheGreat": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2312975985 [GLT2312975985].md",
@@ -37319,6 +37326,13 @@
           "show": "The Rest Is History",
           "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
           "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        },
+        {
+          "episode_file": "GLT3062961015 [GLT3062961015].md",
+          "key": "123-world-cup-of-kings-and-queens-part-1-glt3062961015",
+          "show": "The Rest Is History",
+          "title": "123. World Cup of Kings and Queens part 1",
+          "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
         }
       ],
       "updated": "2026-09-22",
@@ -41413,9 +41427,9 @@
       "url": "/wiki/concepts/contextualexplanationwithoutexoneration/"
     },
     "ContextualMonarchicalSuccess": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4467647081 [GLT4467647081].md",
@@ -41423,6 +41437,13 @@
           "show": "The Rest Is History",
           "title": "124. World Cup of Kings and Queens part 2",
           "url": "/wiki/sources/124-world-cup-of-kings-and-queens-part-2-glt4467647081/"
+        },
+        {
+          "episode_file": "GLT3062961015 [GLT3062961015].md",
+          "key": "123-world-cup-of-kings-and-queens-part-1-glt3062961015",
+          "show": "The Rest Is History",
+          "title": "123. World Cup of Kings and Queens part 1",
+          "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
         }
       ],
       "updated": "2026-10-02",
@@ -56140,6 +56161,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/edwardiiofengland/"
     },
+    "EdwardIOfEngland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3062961015 [GLT3062961015].md",
+          "key": "123-world-cup-of-kings-and-queens-part-1-glt3062961015",
+          "show": "The Rest Is History",
+          "title": "123. World Cup of Kings and Queens part 1",
+          "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/edwardiofengland/"
+    },
     "EdwardIV": {
       "episode_count": 2,
       "show_count": 1,
@@ -57332,9 +57369,9 @@
       "url": "/wiki/entities/elizabetheverest/"
     },
     "ElizabethI": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -57391,6 +57428,13 @@
           "show": "The Rest Is History",
           "title": "124. World Cup of Kings and Queens part 2",
           "url": "/wiki/sources/124-world-cup-of-kings-and-queens-part-2-glt4467647081/"
+        },
+        {
+          "episode_file": "GLT3062961015 [GLT3062961015].md",
+          "key": "123-world-cup-of-kings-and-queens-part-1-glt3062961015",
+          "show": "The Rest Is History",
+          "title": "123. World Cup of Kings and Queens part 1",
+          "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
         }
       ],
       "updated": "2026-09-22",
@@ -78528,9 +78572,9 @@
       "url": "/wiki/entities/georgestephenson/"
     },
     "GeorgeV": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2826379729 [GLT2826379729].md",
@@ -78545,6 +78589,13 @@
           "show": "The Rest Is History",
           "title": "190. Jubilees",
           "url": "/wiki/sources/190-jubilees-glt4093596173/"
+        },
+        {
+          "episode_file": "GLT3062961015 [GLT3062961015].md",
+          "key": "123-world-cup-of-kings-and-queens-part-1-glt3062961015",
+          "show": "The Rest Is History",
+          "title": "123. World Cup of Kings and Queens part 1",
+          "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
         }
       ],
       "updated": "2026-10-01",
@@ -88113,9 +88164,9 @@
       "url": "/wiki/entities/henrygrey/"
     },
     "HenryIIOfEngland": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3399401666 [GLT3399401666].md",
@@ -88137,6 +88188,13 @@
           "show": "The Rest Is History",
           "title": "12 Days: The Murder of Thomas Becket and the Wounded Knee Massacre",
           "url": "/wiki/sources/12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363/"
+        },
+        {
+          "episode_file": "GLT3062961015 [GLT3062961015].md",
+          "key": "123-world-cup-of-kings-and-queens-part-1-glt3062961015",
+          "show": "The Rest Is History",
+          "title": "123. World Cup of Kings and Queens part 1",
+          "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
         }
       ],
       "updated": "2026-10-02",
@@ -88375,6 +88433,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/henrytricks/"
+    },
+    "HenryVII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3062961015 [GLT3062961015].md",
+          "key": "123-world-cup-of-kings-and-queens-part-1-glt3062961015",
+          "show": "The Rest Is History",
+          "title": "123. World Cup of Kings and Queens part 1",
+          "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/henryvii/"
     },
     "HenryVIII": {
       "episode_count": 2,
@@ -143701,9 +143775,9 @@
       "url": "/wiki/entities/olivercarroll/"
     },
     "OliverCromwell": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6280042699 [GLT6280042699].md",
@@ -143725,6 +143799,13 @@
           "show": "The Rest Is History",
           "title": "328: Coronations: Sex, Holy Oil and Civil War (Part 2)",
           "url": "/wiki/sources/328-coronations-sex-holy-oil-and-civil-war-part-2-glt8165021855/"
+        },
+        {
+          "episode_file": "GLT3062961015 [GLT3062961015].md",
+          "key": "123-world-cup-of-kings-and-queens-part-1-glt3062961015",
+          "show": "The Rest Is History",
+          "title": "123. World Cup of Kings and Queens part 1",
+          "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
         }
       ],
       "updated": "2026-09-28",
@@ -160625,9 +160706,9 @@
       "url": "/wiki/entities/queennjinga/"
     },
     "QueenVictoria": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT8608697296 [GLT8608697296].md",
@@ -160656,6 +160737,13 @@
           "show": "The Rest Is History",
           "title": "190. Jubilees",
           "url": "/wiki/sources/190-jubilees-glt4093596173/"
+        },
+        {
+          "episode_file": "GLT3062961015 [GLT3062961015].md",
+          "key": "123-world-cup-of-kings-and-queens-part-1-glt3062961015",
+          "show": "The Rest Is History",
+          "title": "123. World Cup of Kings and Queens part 1",
+          "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
         }
       ],
       "updated": "2026-10-01",
@@ -166237,6 +166325,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/richardiiofengland/"
+    },
+    "RichardIOfEngland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3062961015 [GLT3062961015].md",
+          "key": "123-world-cup-of-kings-and-queens-part-1-glt3062961015",
+          "show": "The Rest Is History",
+          "title": "123. World Cup of Kings and Queens part 1",
+          "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/richardiofengland/"
     },
     "RichardJDaley": {
       "episode_count": 1,

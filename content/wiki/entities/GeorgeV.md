@@ -5,6 +5,7 @@ tags: [person, britain, monarchy]
 sources:
   - 231-queen-elizabeth-ii-part-1-glt2826379729
   - 190-jubilees-glt4093596173
+  - 123-world-cup-of-kings-and-queens-part-1-glt3062961015
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ His death also opens the succession sequence that moved [[EdwardVIII|Edward VIII
 
 [[190-jubilees-glt4093596173]] broadens that family portrait into public history. George V's 1935 Silver Jubilee followed the First World War, the fall of several European monarchies, and the Depression. Its reduced imperial display, acknowledgment of unemployment, and reportedly unexpected public affection made his ordinariness and lack of theatrical charisma politically useful when Europe also offered fascist mass spectacle.
 
+[[123-world-cup-of-kings-and-queens-part-1-glt3062961015]] extends the same interpretation across his reign. His naval formation, formality, stamp collecting, hunting, and apparent dullness are set against stability through the First World War's aftermath, Irish independence, the General Strike, the Depression, and Labour's rise. The refusal to receive the Russian imperial family remains a morally and causally qualified example of dynastic survival taking priority over kinship.
+
 ## Key Characteristics
 
 - Grandfather and important childhood influence on Elizabeth II.
@@ -31,6 +34,7 @@ His death also opens the succession sequence that moved [[EdwardVIII|Edward VIII
 - His 1935 Jubilee joined modest spectacle to hardship, unemployment, and unexpectedly strong public affection.
 - Ordinariness could function as constitutional strength when contrasted with dictatorial charisma.
 - Starting point of the succession crisis that redirected Elizabeth's life.
+- Formal and personally unglamorous sovereign whose steadiness helped normalize twentieth-century constitutional monarchy.
 
 ## Evidence
 
@@ -39,15 +43,17 @@ His death also opens the succession sequence that moved [[EdwardVIII|Edward VIII
 - Succession consequence: [[231-queen-elizabeth-ii-part-1-glt2826379729]] traces his death through Edward VIII's accession and abdication to George VI's reign and Elizabeth's heirship.
 - Jubilee and hardship: [[190-jubilees-glt4093596173]] places the 1935 celebration under unemployment and depression and notes the king's acknowledgment of those still without work.
 - Constitutional contrast: [[190-jubilees-glt4093596173]] interprets his restrained, ordinary image against collapsed monarchies and fascist spectacle.
+- Reign-wide stability: [[123-world-cup-of-kings-and-queens-part-1-glt3062961015]] connects George's dull public image with continuity through Irish conflict, labour unrest, depression, and political realignment.
 
 ## Qualifications
 
-The sources remain selective rather than a balanced account of his reign, politics, imperial role, family relationships, or public reception. Reported surprise at affection, the scale and motives of participation, and the contrast with fascist spectacle are source-scoped interpretations.
+The sources remain selective rather than a balanced account of his reign, politics, imperial role, family relationships, or public reception. Reported surprise at affection, the scale and motives of participation, and the contrast with fascist spectacle are source-scoped interpretations. The Russian asylum decision is presented through advisers' fear for the British monarchy and should not be reduced to George's personal preference alone.
 
 ## What Changed
 
 - Created a bounded profile of George V as a familial and institutional model of duty.
 - Added the 1935 Jubilee as evidence that restrained constitutional ordinariness could carry public value amid hardship and dictatorship.
+- Extended restrained ordinariness from the Jubilee to the wider political shocks of his reign.
 
 ## Relationships
 

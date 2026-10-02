@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [The Science of Gratitude & How to Build a Gratitude Practice](sources/scim2344094719-scim2344094719.md) — Huberman Lab episode distinguishing gratitude lists from sincere received or narratively witnessed gratitude and proposing a brief, source-scoped story-cue practice.
+- [123. World Cup of Kings and Queens part 1](sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015.md) — The Rest Is History tournament portraits separating monarchical effectiveness, consequence, moral cost, cultural glamour, and modern audience affection.
 - [124. World Cup of Kings and Queens part 2](sources/124-world-cup-of-kings-and-queens-part-2-glt4467647081.md) — The Rest Is History tournament comparing warrior, transformative, survivalist, foundational, and constitutional models of monarchical success.
 - [125. The CIA](sources/125-the-cia-glt6232412389.md) — The Rest Is History with Hugh Wilford on CIA origins, intelligence versus covert action, intervention, blowback, counterintelligence, culture, and myth.
 - [126. Napoleon in Egypt](sources/126-napoleon-in-egypt-glt3691914095.md) — The Rest Is History on Napoleon's failed Egyptian invasion, the Battle of the Nile, Egyptology, secular-imperial rhetoric, and colonial knowledge.
@@ -3512,6 +3513,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 
 ## Entities
+- [Edward I of England](entities/EdwardIOfEngland.md) — Formidable medieval king whose military and administrative capacity coexisted with conquest, persecution, expulsion, and divisive memory.
+- [Henry VII](entities/HenryVII.md) — Tudor founder whose dynastic settlement, baronial restraint, and fiscal reconstruction restored stability without producing a romantic popular image.
+- [Richard I of England](entities/RichardIOfEngland.md) — Crusading warrior king whose heroic afterlife contrasts with prolonged absence, warfare, captivity, ransom, and practical criticism.
 - [Hugh Wilford](entities/HughWilford.md) — Historian of the CIA, covert action, and Cold War cultural politics.
 - [Allen Dulles](entities/AllenDulles.md) — Early CIA director associated with elite institutional culture and covert-action expansion.
 - [James Angleton](entities/JamesAngleton.md) — CIA counterintelligence chief whose career joins real penetration risk to institutional paranoia.

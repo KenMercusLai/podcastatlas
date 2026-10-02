@@ -27626,3 +27626,10 @@ Added source `scim2344094719-scim2344094719`; created `GratitudeNarrativePractic
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-02] ingest | 123. World Cup of Kings and Queens part 1
+
+Added source `123-world-cup-of-kings-and-queens-part-1-glt3062961015`; created `EdwardIOfEngland`, `HenryVII`, and `RichardIOfEngland`; and resynthesized `Athelstan`, `ElizabethI`, `HenryIIOfEngland`, `CnutTheGreat`, `OliverCromwell`, `QueenVictoria`, `GeorgeV`, and `ContextualMonarchicalSuccess` from their complete preserved evidence inventories. Core synthesis: monarchical effectiveness, consequence, moral cost, glamour, familiarity, and modern affection are distinct criteria, so strong government or constitutional stability need not win audience approval. No settled contradiction was adopted; the rankings remain audience-specific, the reign portraits are compressed, and effective rule does not erase conquest, persecution, extraction, empire, or exclusion. The downstream manifest and paragraph ledger were refreshed to 3,452-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

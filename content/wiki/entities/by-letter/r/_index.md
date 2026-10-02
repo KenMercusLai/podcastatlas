@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11976
+wiki_total_pages: 11979
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "RichardFeynman"
     title: "Richard Feynman"
     url: "/wiki/entities/richardfeynman/"
+  - key: "RichardIOfEngland"
+    title: "Richard I of England"
+    url: "/wiki/entities/richardiofengland/"
   - key: "RichardIIOfEngland"
     title: "Richard II of England"
     url: "/wiki/entities/richardiiofengland/"

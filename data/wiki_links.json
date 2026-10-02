@@ -211,6 +211,10 @@
     "title": "123.人性实验：当心你自己！",
     "url": "/wiki/sources/123-renxing-shiyan-dangxin-ni-ziji-779479569/"
   },
+  "123-world-cup-of-kings-and-queens-part-1-glt3062961015": {
+    "title": "123. World Cup of Kings and Queens part 1",
+    "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
+  },
   "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361": {
     "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
     "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
@@ -25047,6 +25051,10 @@
     "title": "Edward II of England",
     "url": "/wiki/entities/edwardiiofengland/"
   },
+  "EdwardIOfEngland": {
+    "title": "Edward I of England",
+    "url": "/wiki/entities/edwardiofengland/"
+  },
   "EdwardIV": {
     "title": "Edward IV",
     "url": "/wiki/entities/edwardiv/"
@@ -35742,6 +35750,10 @@
   "HenryTricks": {
     "title": "Henry Tricks",
     "url": "/wiki/entities/henrytricks/"
+  },
+  "HenryVII": {
+    "title": "Henry VII",
+    "url": "/wiki/entities/henryvii/"
   },
   "HenryVIII": {
     "title": "Henry VIII",
@@ -65546,6 +65558,10 @@
   "RichardIIOfEngland": {
     "title": "Richard II of England",
     "url": "/wiki/entities/richardiiofengland/"
+  },
+  "RichardIOfEngland": {
+    "title": "Richard I of England",
+    "url": "/wiki/entities/richardiofengland/"
   },
   "RichardJDaley": {
     "title": "Richard J. Daley",

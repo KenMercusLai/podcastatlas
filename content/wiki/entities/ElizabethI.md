@@ -11,6 +11,7 @@ sources:
   - 691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561
   - 542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016
   - 124-world-cup-of-kings-and-queens-part-2-glt4467647081
+  - 123-world-cup-of-kings-and-queens-part-1-glt3062961015
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-22
 ---
@@ -29,7 +30,7 @@ Her hesitation is not simple weakness. The sources repeatedly show Elizabeth pre
 
 The earlier [[JohnDee]] episode adds an intellectual-patronage layer to this security profile. Elizabeth can use astrology to time her coronation and entertain alchemical, cartographic, and imperial expertise while keeping dangerous occult practice outside formal political commitment. The pattern resembles her later controlled ambiguity: useful knowledge and deniable risk remain close to the crown without becoming identical to royal doctrine.
 
-The tournament episode adds the public-image synthesis. Elizabeth's survival and opportunism helped join Protestantism to patriotic English identity, while the Virgin Queen persona occupied symbolic space left by the rejection of Marian devotion. The Armada, Drake, Shakespeare, and the “Elizabethan age” gave that construction exceptional durability, but also made her reputation vulnerable to cliché, moral criticism, and counter-memory centered on [[MaryQueenOfScots|Mary, Queen of Scots]].
+The tournament episodes add the public-image synthesis. Elizabeth's survival and opportunism helped join Protestantism to patriotic English identity, while the Virgin Queen persona occupied symbolic space left by the rejection of Marian devotion. The Armada, Drake, Shakespeare, and the “Elizabethan age” gave that construction exceptional durability, but also made her reputation vulnerable to cliché, moral criticism, and counter-memory centered on [[MaryQueenOfScots|Mary, Queen of Scots]]. Her decisive first-round victory over [[EdwardIOfEngland|Edward I]] shows the image's popular force before her narrow final defeat by [[Athelstan]].
 
 ## Key Characteristics
 
@@ -49,7 +50,7 @@ The tournament episode adds the public-image synthesis. Elizabeth's survival and
 - Royal-execution boundary: [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]] shows Elizabeth resisting Mary's execution immediately after the early plots, and [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] shows the same legitimacy concern during the final warrant crisis.
 - War escalation: [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]], [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]], and [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] connect Drake, Anjou, the Dutch theatre, Mary's execution, and the Spanish Armada path.
 - Intellectual patronage: [[542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016]] links Dee to Elizabeth's coronation timing, Mortlake visit, cartographic expansion arguments, alchemical interest, and providential imperial imagery.
-- Iconic national memory: [[124-world-cup-of-kings-and-queens-part-2-glt4467647081]] connects Elizabeth's opportunism and survival to Protestant patriotism, the Virgin Queen image, Armada-Drake-Shakespeare memory, and continuing controversy over Mary.
+- Iconic national memory: [[123-world-cup-of-kings-and-queens-part-1-glt3062961015]] records Elizabeth's decisive first-round victory over Edward I, while [[124-world-cup-of-kings-and-queens-part-2-glt4467647081]] connects her opportunism and survival to Protestant patriotism, the Virgin Queen image, Armada-Drake-Shakespeare memory, and continuing controversy over Mary.
 
 ## Qualifications
 
@@ -57,8 +58,8 @@ Elizabeth's caution should not be flattened into passivity. The same sources sho
 
 ## What Changed
 
-- Added the Virgin Queen image as a durable junction of Protestantism, patriotic identity, political survival, and Marian symbolic displacement.
-- Qualified the familiar Armada-Drake-Shakespeare “golden age” through cliché, controversy, and Mary-centered counter-memory.
+- Added the first-round result as evidence of Elizabeth's durable popular image against a formidable medieval king.
+- Preserved the qualification that a tournament result measures one audience's reception, not objective governing quality.
 
 ## Relationships
 
