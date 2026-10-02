@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12045
+wiki_total_pages: 12048
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -611,6 +611,9 @@ wiki_pages:
   - key: "FranklinDRoosevelt"
     title: "Franklin D. Roosevelt"
     url: "/wiki/entities/franklindroosevelt/"
+  - key: "FrantzFanon"
+    title: "Frantz Fanon"
+    url: "/wiki/entities/frantzfanon/"
   - key: "FranzBoas"
     title: "Franz Boas / 博尔斯"
     url: "/wiki/entities/franzboas/"

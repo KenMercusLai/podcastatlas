@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12045
+wiki_total_pages: 12048
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "Patreon"
     title: "Patreon"
     url: "/wiki/entities/patreon/"
+  - key: "PatriceLumumba"
+    title: "Patrice Lumumba"
+    url: "/wiki/entities/patricelumumba/"
   - key: "PatriciaCornwell"
     title: "Patricia Cornwell"
     url: "/wiki/entities/patriciacornwell/"

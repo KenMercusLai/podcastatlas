@@ -7000,6 +7000,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/afonsohenriques/"
     },
+    "AfricanDecolonization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2427735251 [GLT2427735251].md",
+          "key": "100-decolonising-africa-glt2427735251",
+          "show": "The Rest Is History",
+          "title": "100. Decolonising Africa",
+          "url": "/wiki/sources/100-decolonising-africa-glt2427735251/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/africandecolonization/"
+    },
     "AfricanFemaleAuthorityInstitutions": {
       "episode_count": 1,
       "show_count": 1,
@@ -9081,9 +9097,9 @@
       "url": "/wiki/entities/alfredwetzler/"
     },
     "Algeria": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
@@ -9098,6 +9114,13 @@
           "show": "The Rest Is History",
           "title": "12 Days: Solomon Northup and Albert Camus",
           "url": "/wiki/sources/12-days-solomon-northup-and-albert-camus-glt6039583450/"
+        },
+        {
+          "episode_file": "GLT2427735251 [GLT2427735251].md",
+          "key": "100-decolonising-africa-glt2427735251",
+          "show": "The Rest Is History",
+          "title": "100. Decolonising Africa",
+          "url": "/wiki/sources/100-decolonising-africa-glt2427735251/"
         }
       ],
       "updated": "2026-10-02",
@@ -21252,9 +21275,9 @@
       "url": "/wiki/entities/belfast/"
     },
     "BelgianCongo": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5172130471 [GLT5172130471].md",
@@ -21262,9 +21285,16 @@
           "show": "The Rest Is History",
           "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
           "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
+        },
+        {
+          "episode_file": "GLT2427735251 [GLT2427735251].md",
+          "key": "100-decolonising-africa-glt2427735251",
+          "show": "The Rest Is History",
+          "title": "100. Decolonising Africa",
+          "url": "/wiki/sources/100-decolonising-africa-glt2427735251/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/belgiancongo/"
     },
     "Belgium": {
@@ -39043,9 +39073,9 @@
       "url": "/wiki/entities/colonelmadaneverestpilot/"
     },
     "ColonialCategoryAfterlife": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "16a80abc-0826-4ec8-8c94-54ecb79161ef [16a80abc-0826-4ec8-8c94-54ecb79161ef].md",
@@ -39053,9 +39083,16 @@
           "show": "声东击西",
           "title": "#405 从地理边界到思维边界：我们如何被「划界」塑造？",
           "url": "/wiki/sources/405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc/"
+        },
+        {
+          "episode_file": "GLT2427735251 [GLT2427735251].md",
+          "key": "100-decolonising-africa-glt2427735251",
+          "show": "The Rest Is History",
+          "title": "100. Decolonising Africa",
+          "url": "/wiki/sources/100-decolonising-africa-glt2427735251/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/colonialcategoryafterlife/"
     },
     "ColonialChocolateCommodityChain": {
@@ -49511,9 +49548,9 @@
       "url": "/wiki/entities/democraticparty/"
     },
     "DemocraticRepublicOfCongo": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》 [998655210].md",
@@ -49535,9 +49572,16 @@
           "show": "The Rest Is History",
           "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
           "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
+        },
+        {
+          "episode_file": "GLT2427735251 [GLT2427735251].md",
+          "key": "100-decolonising-africa-glt2427735251",
+          "show": "The Rest Is History",
+          "title": "100. Decolonising Africa",
+          "url": "/wiki/sources/100-decolonising-africa-glt2427735251/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/democraticrepublicofcongo/"
     },
     "DemocraticRepublicanParty": {
@@ -73913,6 +73957,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/frankfurtparliament/"
     },
+    "FrantzFanon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2427735251 [GLT2427735251].md",
+          "key": "100-decolonising-africa-glt2427735251",
+          "show": "The Rest Is History",
+          "title": "100. Decolonising Africa",
+          "url": "/wiki/sources/100-decolonising-africa-glt2427735251/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/frantzfanon/"
+    },
     "FranzConradVonHotzendorf": {
       "episode_count": 2,
       "show_count": 1,
@@ -80205,9 +80265,9 @@
       "url": "/wiki/entities/geronimodeaguilar/"
     },
     "Ghana": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Taking the shine off： albedo and global temperatures [6a730fdaca067b295bab9760].md",
@@ -80236,9 +80296,16 @@
           "show": "The Rest Is History",
           "title": "269: Ghana: The Ashanti Empire",
           "url": "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"
+        },
+        {
+          "episode_file": "GLT2427735251 [GLT2427735251].md",
+          "key": "100-decolonising-africa-glt2427735251",
+          "show": "The Rest Is History",
+          "title": "100. Decolonising Africa",
+          "url": "/wiki/sources/100-decolonising-africa-glt2427735251/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/ghana/"
     },
     "Gheelish": {
@@ -112705,9 +112772,9 @@
       "url": "/wiki/entities/kush/"
     },
     "KwameNkrumah": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -112722,9 +112789,16 @@
           "show": "The Rest Is History",
           "title": "231. Queen Elizabeth II (Part 1)",
           "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
+        },
+        {
+          "episode_file": "GLT2427735251 [GLT2427735251].md",
+          "key": "100-decolonising-africa-glt2427735251",
+          "show": "The Rest Is History",
+          "title": "100. Decolonising Africa",
+          "url": "/wiki/sources/100-decolonising-africa-glt2427735251/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/kwamenkrumah/"
     },
     "KwasiKwarteng": {
@@ -136451,6 +136525,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/mobilityfirstembodiedai/"
     },
+    "MobutuSeseSeko": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2427735251 [GLT2427735251].md",
+          "key": "100-decolonising-africa-glt2427735251",
+          "show": "The Rest Is History",
+          "title": "100. Decolonising Africa",
+          "url": "/wiki/sources/100-decolonising-africa-glt2427735251/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/mobutuseseseko/"
+    },
     "Moctezuma": {
       "episode_count": 3,
       "show_count": 1,
@@ -149103,6 +149193,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/palm/"
     },
+    "PanAfricanism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2427735251 [GLT2427735251].md",
+          "key": "100-decolonising-africa-glt2427735251",
+          "show": "The Rest Is History",
+          "title": "100. Decolonising Africa",
+          "url": "/wiki/sources/100-decolonising-africa-glt2427735251/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/panafricanism/"
+    },
     "PanGreekGod": {
       "episode_count": 1,
       "show_count": 1,
@@ -150362,6 +150468,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/patientsymbolizationprojection/"
+    },
+    "PatriceLumumba": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2427735251 [GLT2427735251].md",
+          "key": "100-decolonising-africa-glt2427735251",
+          "show": "The Rest Is History",
+          "title": "100. Decolonising Africa",
+          "url": "/wiki/sources/100-decolonising-africa-glt2427735251/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/patricelumumba/"
     },
     "PatriciaResnick": {
       "episode_count": 1,

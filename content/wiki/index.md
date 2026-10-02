@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [100. Decolonising Africa](sources/100-decolonising-africa-glt2427735251.md) — The Rest Is History on Fanon, Nkrumah, Pan-Africanism, divergent independence pathways, the Congo Crisis, inherited borders, and Cold War intervention.
 - [EP191-从三部电影看(生)老病死|The Father, The Farewell, The Intouchable](sources/ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-farewell-the-intouchable-ckwriaifjwonabaaaadmrusw.md) — 无时差研究所 episode on film form, dementia, family disclosure, migration, disability dignity, care labor, and ordinary farewell.
 - [101. James Bond](sources/101-james-bond-glt6304120514.md) — The Rest Is History on Ian Fleming, Bond's literary and screen forms, adaptive masculinity, consumer fantasy, and post-imperial British cultural branding.
 - [102. Germany from Adenauer to Angela](sources/102-germany-from-adenauer-to-angela-glt6085378369.md) — The Rest Is History on West German reconstruction, incomplete denazification, Ostpolitik, reunification, Merkelian caution, and the costs of political stability.
@@ -3874,7 +3875,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Edward VIII](entities/EdwardVIII.md) — King whose abdication made George VI sovereign and redirected Elizabeth II toward the throne.
 - [Prince Philip](entities/PrincePhilip.md) — Elizabeth II's husband, naval officer, Malta companion, and later focus of publicly symbolic pandemic grief.
 - [Diana, Princess of Wales](entities/DianaPrincessOfWales.md) — Royal figure whose marriage crisis, emotional public style, and death exposed the monarchy's model-family vulnerability.
-- [Kwame Nkrumah](entities/KwameNkrumah.md) — Ghanaian leader whose 1961 dance with Elizabeth II became a symbol of post-imperial accommodation.
+- [Kwame Nkrumah](entities/KwameNkrumah.md) — Ghanaian nationalist and Pan-African leader who joined mass independence politics to post-imperial symbolism.
 - [Harold Macmillan](entities/HaroldMacmillan.md) — British prime minister whose “winds of change” position represented governmental acceptance of African decolonisation.
 - [Loch Ness Monster](entities/LochNessMonster.md) — Legendary Scottish cryptid whose modern long-necked form emerged through 1933-34 sightings, media circulation, and hoax evidence.
 - [Loch Ness](entities/LochNess.md) — Deep Highland loch whose geography, changing access, and tourism made it a persuasive stage for hidden-creature stories.
@@ -12949,7 +12950,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kakapo / 宵鹦鹉](entities/Kakapo.md) — New Zealand night parrot used by episode 186 to show island vulnerability and successful intensive conservation.
 - [Madagascar / 马达加斯加](entities/Madagascar.md) — Island setting for the aye-aye refuge-paradox branch and Ranavalona I's contested anti-European monarchy case.
 - [Komodo Island / 科莫多岛](entities/KomodoIsland.md) — Tourism and conservation setting for the Komodo dragon section.
-- [Democratic Republic of the Congo / 刚果民主共和国](entities/DemocraticRepublicOfCongo.md) — Later state connecting distinct Congo Free State, Belgian Congo, Zaire, and conservation layers without collapsing them.
+- [Democratic Republic of the Congo / 刚果民主共和国](entities/DemocraticRepublicOfCongo.md) — Later state connecting colonial extraction, abrupt independence, Cold War intervention, Mobutu-era Zaire, and conservation.
 - [New Zealand / 新西兰](entities/NewZealand.md) — Island ecology setting for the kakapo recovery story.
 - [周开亚 / Zhou Kaiya](entities/ZhouKaiya.md) — Nanjing University scientist contacted in episode 186's baiji search.
 - [李商隐 / Li Shangyin](entities/LiShangyin.md) — Late-Tang poet defended by episode 183 as politically aware, emotionally serious, technically exacting, and central to later Red Chamber intertext.
@@ -15635,6 +15636,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
 - [Alex Gibney](entities/AlexGibney.md) — Documentary filmmaker whose Elon Musk film became a case study in platform ad review, reversal, and suspected political pressure.
+
+- [Frantz Fanon](entities/FrantzFanon.md) — Martinique-born anti-colonial thinker linking Algeria, revolutionary violence, Black identity, and Pan-Africanism.
+- [Patrice Lumumba](entities/PatriceLumumba.md) — First Congolese prime minister whose fall and murder became emblematic of decolonization's Cold War entanglement.
+- [Mobutu Sese Seko](entities/MobutuSeseSeko.md) — Congolese and Zairian ruler who joined Western backing, authoritarian consolidation, and authenticity politics.
 
 ## Concepts
 - [Care Relationship Labor And Boundaries / 照护关系的劳动与边界](concepts/CareRelationshipLaborAndBoundaries.md) — Care as practical work, emotional labor, dignity, equality, dependency, and sustainable limits for both sides.
@@ -24703,7 +24708,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Relational Border / 关系性边界](concepts/RelationalBorder.md) — Border understood as a changing zone of separation, contact, movement, identity, and negotiation rather than only a fixed line.
 - [Modern Boundary Hardening / 现代边界硬化](concepts/ModernBoundaryHardening.md) — Process through which states, markets, and empires make territorial, legal, property, and identity categories more exclusive.
-- [Colonial Category Afterlife / 殖民分类遗产](concepts/ColonialCategoryAfterlife.md) — Persistence of colonial partitions, classifications, institutions, and economic positions after formal decolonization.
+- [Colonial Category Afterlife / 殖民分类遗产](concepts/ColonialCategoryAfterlife.md) — Persistence of colonial partitions, classifications, borders, institutions, and capacity constraints after formal decolonization.
 - [Historical International Law / 国际法历史化](concepts/HistoricalInternationalLaw.md) — Method that reconstructs a legal rule's historical problem and power relations before applying it as a present standard.
 - [Problem-Led Interdisciplinarity / 真问题驱动的跨学科](concepts/ProblemLedInterdisciplinarity.md) — Research crossing disciplines because the underlying problem requires it rather than for interdisciplinary branding.
 - [Okinawa Base Politics](concepts/OkinawaBasePolitics.md) — Conflict among alliance strategy, unequal local military burdens, historical memory, consent, and economic priorities in Okinawa.
@@ -25038,5 +25043,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Consumer Protection Enforcement](concepts/AIConsumerProtectionEnforcement.md) — Application of existing deception, unfair-practice, marketing, safety, and data-handling law to AI products.
 - [Political Platform Ad Gatekeeping](concepts/PoliticalPlatformAdGatekeeping.md) — Platform control over classifying, rejecting, restricting, and approving paid political or issue-related promotion.
 - [Media Self-Censorship Under Political Pressure](concepts/MediaSelfCensorshipUnderPoliticalPressure.md) — Anticipatory restriction by media firms seeking to avoid political, legal, regulatory, or access costs without a direct censorship order.
+
+- [African Decolonization](concepts/AfricanDecolonization.md) — Uneven transfer from colonial rule shaped by settler power, mass politics, institutional exclusion, borders, and Cold War intervention.
+- [Pan-Africanism](concepts/PanAfricanism.md) — Diasporic and continental tradition connecting African liberation struggles across imperial and metropolitan networks.
 
 ## Syntheses

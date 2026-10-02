@@ -27917,3 +27917,11 @@ Added source `ep191-cong-san-bu-dianying-kan-sheng-lao-bing-si-the-father-the-fa
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 100. Decolonising Africa
+
+Added source `100-decolonising-africa-glt2427735251`; created `FrantzFanon`, `PatriceLumumba`, `MobutuSeseSeko`, `AfricanDecolonization`, and `PanAfricanism`; and resynthesized `KwameNkrumah`, `Ghana`, `Algeria`, `BelgianCongo`, `DemocraticRepublicOfCongo`, and `ColonialCategoryAfterlife` from their complete preserved evidence inventories. Core synthesis: African independence followed divergent pathways shaped by settler power, colonial administration, mass politics, ideological networks, inherited borders, and Cold War intervention; Western and diasporic vocabularies could become anti-colonial resources without erasing African agency. No settled contradiction was adopted. Demographic figures, professional counts, casualties, intelligence responsibility, leader motives, national-integration claims, and comparisons with Chinese investment remain source-scoped or require country-specific evidence. The guest-name spelling in the supplied notes remains uncanonicalized. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,489-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

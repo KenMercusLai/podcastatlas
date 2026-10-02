@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9349
+wiki_total_pages: 9351
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "PalynologyAsEvidence"
     title: "Palynology As Evidence"
     url: "/wiki/concepts/palynologyasevidence/"
+  - key: "PanAfricanism"
+    title: "Pan-Africanism"
+    url: "/wiki/concepts/panafricanism/"
   - key: "PanamaCanalDroughtDisruption"
     title: "Panama Canal Drought Disruption"
     url: "/wiki/concepts/panamacanaldroughtdisruption/"
