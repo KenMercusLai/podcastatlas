@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 11961
+wiki_total_pages: 11962
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "DorothyArzner"
     title: "Dorothy Arzner / 多罗西·阿兹娜"
     url: "/wiki/entities/dorothyarzner/"
+  - key: "DotsPersonalAgent"
+    title: "Dots Personal Agent"
+    url: "/wiki/entities/dotspersonalagent/"
   - key: "DouaiReimsSeminaries"
     title: "Douai and Reims Seminaries"
     url: "/wiki/entities/douaireimsseminaries/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增](sources/ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1.md) — LateTalk review of Q3 2026 personal agents, frontier models, robotics, multi-agent research and security, AI-for-science, model economics, and revenue uncertainty.
 - [129. Cricket](sources/129-cricket-glt9095163579.md) — The Rest Is History with John Hotten on cricket's rural and Georgian roots, Victorian moralization, celebrity, Ashes rivalry, Bodyline, empire, and postcolonial power.
 - [130. Superheroes](sources/130-superheroes-glt5186846131.md) — The Rest Is History episode on superhero comics as modern American mass culture shaped by printing, immigration, crime anxiety, science, social politics, vigilantism, and changing confidence in heroic power.
 - [Understanding Your Brain's Logic & Function | Dr. David Berson](sources/scim4448895120-scim4448895120.md) — Huberman Lab interview on melanopsin and circadian timing, visual-vestibular control, cerebellar correction, action hierarchy, distributed representation, plasticity, and connectomics.
@@ -3503,6 +3504,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [Dots Personal Agent](entities/DotsPersonalAgent.md) — Source-reported OpenAI assistant using a persistent cloud computer, browser, and delegated tools inside ChatGPT.
 - [John Hotten](entities/JohnHotten.md) — Cricket writer interpreting the game's rules, institutions, celebrity, empire, postcolonial transformation, and amateur meaning.
 - [W. G. Grace](entities/WGGrace.md) — Victorian batsman joining technical innovation, rail-and-newspaper celebrity, sponsorship, and cricket's moral ambiguity.
 - [Donald Bradman](entities/DonaldBradman.md) — Exceptional Australian batsman whose dominance made him the sporting and symbolic centre of the Bodyline crisis.

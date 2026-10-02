@@ -5,7 +5,8 @@ tags: [robotics, foundation-models, embodied-ai, physical-ai]
 sources:
   - dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf
   - yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr
-last_updated: 2026-09-17
+  - ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,7 @@ General model robot boundary is the limit between what a broad digital-world fou
 ## Current Synthesis
 The Astra discussion in the Shizilukou Crossing episode treats general foundation models as important but not decisive. The guests accept that Astra-style systems can improve semantic understanding, spatial reasoning, and high-level task decomposition. They draw the boundary at continuous sensor input, physical contact, tactile feedback, reliable low-level skills, and real-world validation, where robotics companies still need their own model and system stack.
 
-The Shenpu Intelligence interview adds a second Astra test. [[WangJiawei]] treats the robot-arm demonstration as real evidence that general intelligence can spill into physical tasks, and credits the model with grasp success and with spatial, scene, task-planning, and trial-and-error ability. He then moves the boundary: the demonstration video is sped up, a single inference is slow, success in a static scene does not establish recovery when a cup tilts, and robot execution needs a real-time, stable, controllable [[SmallBrainActionLayer|Action Policy]] below the planning brain. In this account the boundary is not only contact but reaction time and controllability, and even a strong general model may need its action capability integrated rather than assumed.
+The Shenpu Intelligence interview adds a second Astra test. [[WangJiawei]] treats the robot-arm demonstration as real evidence that general intelligence can spill into physical tasks, then moves the boundary to reaction time, controllability, and disturbance recovery. The Q3 review adds a drawing demonstration and a source-reported simulation result across 42 tasks and 2,100 trials. Its roughly 22% average success rate is presented as a large relative gain over named predecessors but still far below production reliability, reinforcing a moving boundary rather than proving that general models have subsumed the embodied stack.
 
 ## Key Claims
 - General models can strengthen object recognition, semantic interpretation, spatial layout understanding, and task planning.
@@ -26,6 +27,7 @@ The Shenpu Intelligence interview adds a second Astra test. [[WangJiawei]] treat
 - Robots cannot rely on interrupted turn-based reasoning alone because they must keep receiving and reacting to sensor input during action.
 - The strongest architecture may connect large models, embodied models, and physical feedback rather than make one model solve all layers.
 - Real-time reaction and controllability can be part of the boundary: a model that plans well in a static scene may still fail to recover from a disturbance during execution.
+- Relative benchmark leadership can coexist with an absolute success rate too low for production use.
 
 ## Evidence
 - Astra capability evidence: [[dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf]] records Xu Huazhe saying Astra was strong at semantic and spatial generalization in Poke Robotics tests.
@@ -34,14 +36,14 @@ The Shenpu Intelligence interview adds a second Astra test. [[WangJiawei]] treat
 - Continuous-input evidence: [[dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf]] records Shen Yujun saying robots must receive sensor inputs during inference and change strategy while acting.
 - System evidence: [[dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf]] records Xu proposing a system where a large model helps infer object type and strategy while an embodied model executes.
 - Real-time boundary evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] records the sped-up robot-arm video, the long single-pass inference, the static-scene caveat, the tilted-cup recovery example, and the argument for a lower Action Policy layer.
+- Quantified but limited progress: [[ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1]] reports a robot drawing and correcting an estimated direction error plus roughly 22% average success in one 42-task simulation evaluation, while retaining fine-control, long-sequence, and real-time limits.
 
 ## Counterevidence & Qualifications
-The source is discussing a newly visible model capability through operator tests rather than a standardized benchmark. The boundary may move as general models absorb more robot data, but the episode argues that doing so turns the entrant into a robotics system builder rather than eliminating the embodied stack. The Shenpu interview adds that public robot-arm demonstrations can hide latency, which makes the boundary harder to locate from video alone and leaves the upper layer's eventual absorption of the lower layer an open possibility.
+The sources discuss newly visible capability through operator tests, podcast summaries, and a relayed simulation result rather than independently reproduced evaluation. The boundary may move as general models absorb more robot data, but doing so can turn the entrant into a robotics system builder rather than eliminate the embodied stack. Public demonstrations can hide latency, and a low absolute success rate can look impressive against weaker baselines while remaining commercially inadequate. The upper layer's eventual absorption of the lower layer remains open.
 
 ## What Changed
-- Added a concept for the Astra-triggered debate about whether general foundation models can subsume robotics.
-- The current judgment separates semantic/spatial gains from complex contact and continuous-control reliability.
-- Added a real-time reaction and controllability boundary from the Shenpu Intelligence interview, distinct from the contact and sensor-input boundary recorded by the earlier Shizilukou episode.
+- Added quantified Astra evidence without treating relative benchmark leadership as production readiness.
+- Strengthened the judgment that the boundary is moving upward while fine control, long sequences, latency, and absolute reliability remain unresolved.
 
 ## Related Concepts
 - [[LayeredRobotArchitecture]] - architecture that connects high-level reasoning to low-level embodied skills.

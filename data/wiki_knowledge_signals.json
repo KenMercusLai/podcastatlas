@@ -31702,9 +31702,9 @@
       "url": "/wiki/entities/chaseandrews/"
     },
     "ChatGPT6Astra": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
@@ -31726,9 +31726,16 @@
           "show": "枫言枫语",
           "title": "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战",
           "url": "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
+        },
+        {
+          "episode_file": "与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增 (1) [183-1].md",
+          "key": "ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1",
+          "show": "晚点聊 LateTalk",
+          "title": "183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增",
+          "url": "/wiki/sources/ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/chatgpt6astra/"
     },
     "CheNiuChanyu": {
@@ -52522,6 +52529,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/dopaminewantingloop/"
+    },
+    "DotsPersonalAgent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增 (1) [183-1].md",
+          "key": "ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1",
+          "show": "晚点聊 LateTalk",
+          "title": "183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增",
+          "url": "/wiki/sources/ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/dotspersonalagent/"
     },
     "DouDuEasternHan": {
       "episode_count": 2,
@@ -76737,9 +76760,9 @@
       "url": "/wiki/entities/generalgrowthproperties/"
     },
     "GeneralModelRobotBoundary": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断 [ls6W3MRJJRECuQG33yC3LBDmDZPf].md",
@@ -76754,9 +76777,16 @@
           "show": "十字路口Crossing",
           "title": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家",
           "url": "/wiki/sources/yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr/"
+        },
+        {
+          "episode_file": "与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增 (1) [183-1].md",
+          "key": "ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1",
+          "show": "晚点聊 LateTalk",
+          "title": "183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增",
+          "url": "/wiki/sources/ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/generalmodelrobotboundary/"
     },
     "GeneralPostOfficeDublin": {
@@ -136166,9 +136196,9 @@
       "url": "/wiki/concepts/muscularchristianity/"
     },
     "MusePersonalAgent": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
@@ -136204,9 +136234,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g/"
+        },
+        {
+          "episode_file": "与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增 (1) [183-1].md",
+          "key": "ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1",
+          "show": "晚点聊 LateTalk",
+          "title": "183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增",
+          "url": "/wiki/sources/ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/musepersonalagent/"
     },
     "MuseumInterpretationLegibility": {
@@ -149473,9 +149510,9 @@
       "url": "/wiki/concepts/personalguardattacksurface/"
     },
     "PersonalLifeAgent": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "273.逛完外滩大会，发现蚂蚁找到了新位置 [loTxOgfoqqWcJigxIHTIxvNCbfc3].md",
@@ -149504,9 +149541,16 @@
           "show": "Marketplace Tech",
           "title": "Amazon wants Alexa to finish your to-do list, not just research it",
           "url": "/wiki/sources/tech-20260928-0928-mp-tech-pod-128-tech-20260928-0928-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增 (1) [183-1].md",
+          "key": "ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1",
+          "show": "晚点聊 LateTalk",
+          "title": "183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增",
+          "url": "/wiki/sources/ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/personallifeagent/"
     },
     "PersonalMemoryIdentityResolution": {
@@ -183643,9 +183687,9 @@
       "url": "/wiki/concepts/structuralpowerimbalance/"
     },
     "StructuredDecisionModel": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Vol. 175 GPT 6 Astra, Opus 5.5, Jev 诸模型混战 (1) [6700-1].md",
@@ -183653,9 +183697,16 @@
           "show": "枫言枫语",
           "title": "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战",
           "url": "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
+        },
+        {
+          "episode_file": "与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增 (1) [183-1].md",
+          "key": "ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1",
+          "show": "晚点聊 LateTalk",
+          "title": "183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增",
+          "url": "/wiki/sources/ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/structureddecisionmodel/"
     },
     "StructuredGrievingPractice": {

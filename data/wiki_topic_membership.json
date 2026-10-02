@@ -27516,6 +27516,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "DotsPersonalAgent": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DouaiReimsSeminaries": [
     {
       "key": "culture",
@@ -90373,6 +90380,13 @@
     }
   ],
   "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1": [
     {
       "key": "technology",
       "label": "Technology",

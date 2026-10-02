@@ -8,7 +8,8 @@ sources:
   - yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242
   - tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128
   - all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g
-last_updated: 2026-09-26
+  - ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,14 +19,14 @@ knowledge_schema: synthesis-v1
 Muse is described as [[Meta]]'s broad consumer personal-agent product, distinct from the wiki's [[MetaMuseModels|Muse model]] and [[MuseImage|Muse Image]] entities.
 
 ## Current Profile
-Muse represents the distribution-and-ecosystem route to personal agency. Meta can combine familiar consumer channels, social-interest and saved-content signals, free or subsidized compute, and per-user virtual machines to connect discovery and preferences to email, planning, shopping, booking, and transaction completion. The newest source strengthens the mass-market-utility thesis but not yet durable adoption: rapid download and ranking claims show attention, while retention, economics, reliability, permission behavior, and error rates remain unverified.
+Muse represents the distribution-and-ecosystem route to personal agency. Meta can combine familiar consumer channels, social-interest and saved-content signals, free or subsidized compute, advertising reach, and per-user virtual machines to connect discovery and preferences to email, planning, shopping, booking, and transaction completion. Multiple sources now strengthen the mass-market-attention thesis through rankings, advertising reach, and rapid-download claims, but retention, economics, reliability, permission behavior, and error rates remain unverified.
 
 Muse's value and risk are inseparable. Acting across accounts can save time, expose lower prices, and reduce cancellation friction, but it requires sensitive permissions, dependable recovery, clear human-fallback disclosure, and access to platforms that may prefer to preserve their own traffic and transaction control.
 
 ## Key Characteristics
 - Covers consumer tasks such as email triage, travel, shopping, subscriptions, appointments, forms, household planning, and calendars.
 - Uses Meta's installed base, familiar channels, and free or subsidized strategy to reduce acquisition and product-education costs.
-- Can combine interest and saved-content signals with cloud execution or virtual-machine capacity.
+- Can combine interest and saved-content signals with cloud execution, proactive follow-through, and cross-device continuity.
 - Depends on broad data and action permissions whose value is inseparable from user trust, privacy, and recovery.
 - Faces platform resistance when user convenience threatens an incumbent's traffic, advertising, transaction data, or competing-agent control.
 - Uses approachable consumer design to make action-taking agents legible beyond technical users.
@@ -37,14 +38,15 @@ Muse's value and risk are inseparable. Acting across accounts can save time, exp
 - Ranking and platform-access evidence: [[yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242]] reports that Muse topped the U.S. Apple App Store free chart and that [[Amazon]] blocked it.
 - Consumer action, errors, and fallback: [[tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128]] describes appointments, forms, fantasy-football management, shopping, a duplicate hotel booking, human-handled calls, and contrasting [[Shopify]] access.
 - Mainstream utility and economic mechanism: [[all-in-with-chamath-jason-sacks-friedberg-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-g]] presents email, travel, shopping, price comparison, and subscription management as accessible demonstrations of personal-agent value.
+- Q3 product boundary: [[ai-jibao-26q3-muse-yinbao-geren-zhuli-astra-jinru-jiqiren-openai-shouru-mengzeng-1-183-1]] reports heavy Facebook and Instagram promotion, roughly 3.4 million downloads in under 20 days, cloud virtual machines, basic website-operation failures, Amazon restrictions, and refusal to accept bank credentials for a transfer.
 
 ## Qualifications
-The sources report product impressions, rankings, download claims, isolated errors, and strategic interpretation rather than verified architecture, retention, unit economics, safety, or population error rates. Saved and engagement data can be noisy or obsolete. A reported duplicate booking does not establish general unreliability, and rapid downloads do not establish habit or willingness to grant sensitive access. Claims about bypassing app-store fees, payment rails, marketplace power, and subscription breakage are forecasts rather than measured outcomes.
+The sources report product impressions, rankings, download claims, isolated errors, and strategic interpretation rather than verified architecture, retention, unit economics, safety, or population error rates. Saved and engagement data can be noisy or obsolete. A duplicate booking or failed menu interaction does not establish general unreliability, and rapid downloads do not establish habit or willingness to grant sensitive access. Refusing bank credentials shows one boundary, not a complete payment-safety system. Claims about bypassing app-store fees, payment rails, marketplace power, and subscription breakage are forecasts rather than measured outcomes.
 
 ## What Changed
-- The mainstream-adoption thesis is stronger because a second source reports rapid downloads and simple everyday use cases, but durable engagement remains unproven.
-- Price transparency, subscription cancellation, and headless transactions are now explicit parts of Muse's economic profile.
-- The profile now separates visible consumer utility from the still-unresolved permission, recovery, disclosure, and platform-access burden.
+- Added advertising reach, cross-device continuity, operational failure, and explicit bank-credential refusal from the Q3 review.
+- Strengthened mass-market attention without upgrading it to durable adoption.
+- Preserved platform access, permissions, recovery, disclosure, and payment authority as unresolved constraints.
 
 ## Relationships
 - [[Meta]] - company and distribution ecosystem behind the product in the sources.
