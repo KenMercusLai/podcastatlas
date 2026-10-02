@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9414
+wiki_total_pages: 9415
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "TudorFemaleSovereigntyConstraint"
     title: "Tudor Female Sovereignty Constraint"
     url: "/wiki/concepts/tudorfemalesovereigntyconstraint/"
+  - key: "TudorRoyalMarriageStatecraft"
+    title: "Tudor Royal Marriage Statecraft"
+    url: "/wiki/concepts/tudorroyalmarriagestatecraft/"
   - key: "TudorSuccessionCrisis"
     title: "Tudor Succession Crisis"
     url: "/wiki/concepts/tudorsuccessioncrisis/"

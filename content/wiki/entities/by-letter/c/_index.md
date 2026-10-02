@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12111
+wiki_total_pages: 12117
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -395,12 +395,18 @@ wiki_pages:
   - key: "CatherineNixie"
     title: "Catherine Nixie"
     url: "/wiki/entities/catherinenixie/"
+  - key: "CatherineOfAragon"
+    title: "Catherine of Aragon"
+    url: "/wiki/entities/catherineofaragon/"
   - key: "CatherineOfSiena"
     title: "Catherine of Siena"
     url: "/wiki/entities/catherineofsiena/"
   - key: "CatherineOfValois"
     title: "Catherine of Valois"
     url: "/wiki/entities/catherineofvalois/"
+  - key: "CatherineParr"
+    title: "Catherine Parr"
+    url: "/wiki/entities/catherineparr/"
   - key: "CatholicChurch"
     title: "Catholic Church"
     url: "/wiki/entities/catholicchurch/"

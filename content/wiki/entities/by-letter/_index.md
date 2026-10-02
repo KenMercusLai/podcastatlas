@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12111
+wiki_total_pages: 12117
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1283,9 +1283,15 @@ wiki_pages:
   - key: "AnneBoden"
     title: "Anne Boden"
     url: "/wiki/entities/anneboden/"
+  - key: "AnneBoleyn"
+    title: "Anne Boleyn"
+    url: "/wiki/entities/anneboleyn/"
   - key: "AnneMonck"
     title: "Anne Monck"
     url: "/wiki/entities/annemonck/"
+  - key: "AnneOfCleves"
+    title: "Anne of Cleves"
+    url: "/wiki/entities/anneofcleves/"
   - key: "AnneRowe"
     title: "Anne Rowe"
     url: "/wiki/entities/annerowe/"

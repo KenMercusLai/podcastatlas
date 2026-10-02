@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2450
+topic_total_pages: 2451
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6342,6 +6342,9 @@ topic_sources:
   - key: "72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837"
     title: "72.君主论：读它是一场危险的冒险"
     url: "/wiki/sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837/"
+  - key: "74-the-six-wives-of-henry-viii-glt6913826589"
+    title: "74. The Six Wives of Henry VIII"
+    url: "/wiki/sources/74-the-six-wives-of-henry-viii-glt6913826589/"
   - key: "74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763"
     title: "74.全球上瘾：啊，咖啡！我黑色的阿波罗！"
     url: "/wiki/sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763/"

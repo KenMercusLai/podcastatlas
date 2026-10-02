@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [74. The Six Wives of Henry VIII](sources/74-the-six-wives-of-henry-viii-glt6913826589.md) — The Rest Is History on Henry VIII's marriages as a collision of dynastic insecurity, European diplomacy, religious change, court faction, gender, and coercive monarchy.
 - [Maximizing Productivity, Physical & Mental Health with Daily Tools](sources/scim3608509346-scim3608509346.md) — Full-length Huberman Lab daily-protocol episode coordinating circadian cues, focused work, exercise, meals, recovery, and sleep with explicit individual-fit and evidence boundaries.
 - [75. The East India Company](sources/75-the-east-india-company-glt7809915873.md) — The Rest Is History with William Dalrymple on joint-stock trade, Bengal's wealth, Indian finance and soldiers, Plassey, famine, corporate bankruptcy, and the Company's conversion into imperial government.
 - [76. Statues: Trafalgar Square](sources/76-statues-trafalgar-square-glt4670878913.md) — The Rest Is History on royal, naval, imperial, diplomatic, and martyr monuments as layered arguments about retention, removal, replacement, and public meaning.
@@ -3589,6 +3590,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [Catherine of Aragon](entities/CatherineOfAragon.md) — Henry VIII's first wife, active queen, mother of Mary, and defender of her marriage's validity amid dynastic and church-state crisis.
+- [Anne Boleyn](entities/AnneBoleyn.md) — Henry VIII's second wife, reformist influence, mother of Elizabeth, and queen destroyed through unresolved allegations and court prosecution.
+- [Jane Seymour](entities/JaneSeymour.md) — Henry VIII's third wife and mother of Edward VI, whose dynastic importance exceeds the secure evidence for her personality.
+- [Anne of Cleves](entities/AnneOfCleves.md) — German alliance bride who converted Henry VIII's rejection into a property-backed settlement and long survival in England.
+- [Catherine Parr](entities/CatherineParr.md) — Henry VIII's Protestant final wife, whose learned religious role required careful tactical deference.
+- [Thomas Cromwell](entities/ThomasCromwell.md) — Tudor minister connecting royal supremacy, Anne Boleyn's prosecution, and the failed Cleves alliance.
 - [Robert Clive](entities/RobertClive.md) — Company servant and commander whose Bengal campaign joined military force, Indian banking support, personal enrichment, and territorial expansion.
 - [Jagat Seth](entities/JagatSeth.md) — Bengali banking power whose anti-Siraj alliance with the Company shows Indian financial agency and its unintended imperial consequences.
 - [Trafalgar Square](entities/TrafalgarSquare.md) — London civic landscape where royal restoration, naval victory, imperial memory, diplomatic friendship, and changing commissions accumulate.
@@ -15745,6 +15752,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Tudor Royal Marriage Statecraft](concepts/TudorRoyalMarriageStatecraft.md) — Framework joining royal marriage to succession, diplomacy, religion, court faction, law, property, and coercive power.
 - [Chartered-Company Sovereignty](concepts/CharteredCompanySovereignty.md) — Conversion of state-chartered commerce into territorial, fiscal, military, and governing power under unresolved profit-responsibility tensions.
 - [Statue Commemoration Politics](concepts/StatueCommemorationPolitics.md) — Framework joining original purpose, complete biography, placement, balance, counter-memory, later reception, and removal disputes.
 - [Psychological Astrology as Reflective Map / 心理占星作为反思地图](concepts/PsychologicalAstrologyAsReflectiveMap.md) — Use of chart symbolism for self-inquiry and choice expansion without granting it deterministic authority.

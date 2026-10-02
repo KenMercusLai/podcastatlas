@@ -28228,3 +28228,11 @@ Added source `scim3608509346-scim3608509346`; updated `AndrewHuberman`, `Huberma
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 74. The Six Wives of Henry VIII
+
+Added source `74-the-six-wives-of-henry-viii-glt6913826589`; created `CatherineOfAragon`, `AnneBoleyn`, `JaneSeymour`, `AnneOfCleves`, `CatherineParr`, `ThomasCromwell`, and `TudorRoyalMarriageStatecraft`; and resynthesized `HenryVIII` and `CatherineHoward` from their complete preserved evidence inventories. Core synthesis: Henry VIII's marriages joined Tudor succession insecurity, European alliance, religious jurisdiction, court faction, gendered agency, and coercive personal monarchy, while the six wives retained sharply different strategies and outcomes inside that unequal system. No settled contradiction was adopted. Private affection, sexual conduct, consummation, miscarriage causation, individual motives, and counterfactual marital outcomes remain source-scoped; modern archetype comparisons do not replace evidence. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,528-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

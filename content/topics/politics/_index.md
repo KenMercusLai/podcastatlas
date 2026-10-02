@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3017
+topic_total_pages: 3019
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4033,6 +4033,9 @@ topic_concepts:
   - key: "TruthAgainstAbsurdPower"
     title: "Truth Against Absurd Power"
     url: "/wiki/concepts/truthagainstabsurdpower/"
+  - key: "TudorRoyalMarriageStatecraft"
+    title: "Tudor Royal Marriage Statecraft"
+    url: "/wiki/concepts/tudorroyalmarriagestatecraft/"
   - key: "TuoguReformPolitics"
     title: "Tuogu Reform Politics / 托古改制政治"
     url: "/wiki/concepts/tuogureformpolitics/"
@@ -5069,6 +5072,9 @@ topic_entities:
   - key: "AnnaKerr"
     title: "Anna Kerr"
     url: "/wiki/entities/annakerr/"
+  - key: "AnneOfCleves"
+    title: "Anne of Cleves"
+    url: "/wiki/entities/anneofcleves/"
   - key: "AnshelPfeffer"
     title: "Anshel Pfeffer"
     url: "/wiki/entities/anshelpfeffer/"

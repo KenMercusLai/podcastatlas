@@ -3303,6 +3303,10 @@
     "title": "74.全球上瘾：啊，咖啡！我黑色的阿波罗！",
     "url": "/wiki/sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763/"
   },
+  "74-the-six-wives-of-henry-viii-glt6913826589": {
+    "title": "74. The Six Wives of Henry VIII",
+    "url": "/wiki/sources/74-the-six-wives-of-henry-viii-glt6913826589/"
+  },
   "75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087": {
     "title": "75.故事新编：骷髅被复活后会感激庄子吗？",
     "url": "/wiki/sources/75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087/"
@@ -8323,9 +8327,17 @@
     "title": "Anne Boden",
     "url": "/wiki/entities/anneboden/"
   },
+  "AnneBoleyn": {
+    "title": "Anne Boleyn",
+    "url": "/wiki/entities/anneboleyn/"
+  },
   "AnneMonck": {
     "title": "Anne Monck",
     "url": "/wiki/entities/annemonck/"
+  },
+  "AnneOfCleves": {
+    "title": "Anne of Cleves",
+    "url": "/wiki/entities/anneofcleves/"
   },
   "AnneRowe": {
     "title": "Anne Rowe",
@@ -15059,6 +15071,10 @@
     "title": "Catherine Nixie",
     "url": "/wiki/entities/catherinenixie/"
   },
+  "CatherineOfAragon": {
+    "title": "Catherine of Aragon",
+    "url": "/wiki/entities/catherineofaragon/"
+  },
   "CatherineOfSiena": {
     "title": "Catherine of Siena",
     "url": "/wiki/entities/catherineofsiena/"
@@ -15066,6 +15082,10 @@
   "CatherineOfValois": {
     "title": "Catherine of Valois",
     "url": "/wiki/entities/catherineofvalois/"
+  },
+  "CatherineParr": {
+    "title": "Catherine Parr",
+    "url": "/wiki/entities/catherineparr/"
   },
   "CatholicBurialLegitimacy": {
     "title": "Catholic Burial Legitimacy",
@@ -41250,6 +41270,10 @@
   "JaneFonda": {
     "title": "Jane Fonda",
     "url": "/wiki/entities/janefonda/"
+  },
+  "JaneSeymour": {
+    "title": "Jane Seymour",
+    "url": "/wiki/entities/janeseymour/"
   },
   "JaneSharp": {
     "title": "Jane Sharp",
@@ -77315,6 +77339,10 @@
     "title": "Thomas Cook",
     "url": "/wiki/entities/thomascook/"
   },
+  "ThomasCromwell": {
+    "title": "Thomas Cromwell",
+    "url": "/wiki/entities/thomascromwell/"
+  },
   "ThomasDoughty": {
     "title": "Thomas Doughty",
     "url": "/wiki/entities/thomasdoughty/"
@@ -79046,6 +79074,10 @@
   "TudorFemaleSovereigntyConstraint": {
     "title": "Tudor Female Sovereignty Constraint",
     "url": "/wiki/concepts/tudorfemalesovereigntyconstraint/"
+  },
+  "TudorRoyalMarriageStatecraft": {
+    "title": "Tudor Royal Marriage Statecraft",
+    "url": "/wiki/concepts/tudorroyalmarriagestatecraft/"
   },
   "TudorSuccessionCrisis": {
     "title": "Tudor Succession Crisis",

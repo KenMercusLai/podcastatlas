@@ -5846,6 +5846,13 @@
       "url": "/topics/history/"
     }
   ],
+  "74-the-six-wives-of-henry-viii-glt6913826589": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087": [
     {
       "key": "culture",
@@ -12727,6 +12734,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "AnneOfCleves": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "AnneRowe": [
@@ -82252,6 +82266,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TudorRoyalMarriageStatecraft": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TungChaoYung": [
