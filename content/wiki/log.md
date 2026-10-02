@@ -28180,3 +28180,11 @@ Added source `ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ck
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 78. Statues: Parliament Square
+
+Added source `78-statues-parliament-square-glt3870229260`; created `ParliamentSquare` and `StatueCommemorationPolitics`; and resynthesized `WinstonChurchill` and `Cenotaph` from their complete preserved evidence inventories. Core synthesis: public statues commemorate selected achievements without certifying complete moral lives, but original purpose does not freeze later reception; placement, omission, balance, counter-statues, protest, and the distinction among named heroes, collective memorials, and martyrs all shape public meaning. No settled contradiction was adopted. Claims about original motives, public reception, artistic quality, political balance, appropriation, and the best keep-remove-add policy remain episode-attributed or interpretive. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,522-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

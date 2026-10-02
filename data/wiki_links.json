@@ -3315,6 +3315,10 @@
     "title": "77.她是自由的野狗，她是法拉奇",
     "url": "/wiki/sources/77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187/"
   },
+  "78-statues-parliament-square-glt3870229260": {
+    "title": "78. Statues: Parliament Square",
+    "url": "/wiki/sources/78-statues-parliament-square-glt3870229260/"
+  },
   "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000": {
     "title": "78.西方决斗史：出剑吧！为了荣誉！",
     "url": "/wiki/sources/78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000/"
@@ -58963,6 +58967,10 @@
     "title": "Parkinson's Law",
     "url": "/wiki/concepts/parkinsonslaw/"
   },
+  "ParliamentSquare": {
+    "title": "Parliament Square",
+    "url": "/wiki/entities/parliamentsquare/"
+  },
   "ParliamentaryAttainder": {
     "title": "Parliamentary Attainder",
     "url": "/wiki/concepts/parliamentaryattainder/"
@@ -73406,6 +73414,10 @@
   "StatsBomb": {
     "title": "StatsBomb",
     "url": "/wiki/entities/statsbomb/"
+  },
+  "StatueCommemorationPolitics": {
+    "title": "Statue Commemoration Politics",
+    "url": "/wiki/concepts/statuecommemorationpolitics/"
   },
   "StatusAnxietyPersuasion": {
     "title": "Status Anxiety Persuasion / 位阶焦虑式说服",

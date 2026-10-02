@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9412
+wiki_total_pages: 9413
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1826,6 +1826,9 @@ wiki_pages:
   - key: "StatisticalSignificanceThreshold"
     title: "Statistical Significance Threshold"
     url: "/wiki/concepts/statisticalsignificancethreshold/"
+  - key: "StatueCommemorationPolitics"
+    title: "Statue Commemoration Politics"
+    url: "/wiki/concepts/statuecommemorationpolitics/"
   - key: "StatusAnxietyPersuasion"
     title: "Status Anxiety Persuasion / 位阶焦虑式说服"
     url: "/wiki/concepts/statusanxietypersuasion/"

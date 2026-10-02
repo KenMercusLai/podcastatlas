@@ -9,7 +9,8 @@ sources:
   - 241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726
   - 240-young-churchill-soldier-of-empire-part-2-glt4710302249
   - 239-young-churchill-born-to-lead-part-1-glt1969009161
-last_updated: 2026-10-01
+  - 78-statues-parliament-square-glt3870229260
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,6 +32,8 @@ The Gallipoli sources present the same appetite for bold action under much highe
 
 A Second World War comparison comes from [[399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942]]. Churchill again favored an ambitious peripheral move, arguing for a landing farther up Italy rather than an advance only from the toe. The Italian case complicates the Gallipoli profile: terrain and resources again constrained the shortcut logic, but Italy's exit from the war, German diversion, ports, and Foggia meant the campaign achieved limited strategic returns even while the rapid advance failed.
 
+The later public-memory layer does not supply the missing full premiership or imperial biography. Churchill's [[ParliamentSquare]] statue was erected principally to commemorate his role in Britain's resistance to Nazi Germany in 1940, then became a proxy conflict over empire, India, race, labor, and current political identity. The useful distinction is between the achievement selected for commemoration and the complete record of the person, but later audiences need not accept that separation. [[78-statues-parliament-square-glt3870229260]]
+
 ## Key Characteristics
 
 - Aristocratic inheritance, parental distance, paternal pressure, mortality anxiety, and a strong sense of destiny fed an unusually deliberate search for danger, fame, and political identity.
@@ -39,7 +42,7 @@ A Second World War comparison comes from [[399-the-savage-storm-world-war-ii-and
 - Real physical courage coexisted with unusually strong control over its stories, while humor, sentiment, and loyalty to [[ElizabethEverest]] complicate a profile reduced to ambition or martial performance.
 - He admired determined enemies and opposed some punitive practices without rejecting the imperial hierarchy that created his opportunities.
 - He repeatedly preferred bold peripheral action promising leverage over direct strategic deadlock.
-- The Italian campaign partly qualifies his Gallipoli failure pattern because constrained attrition still produced limited strategic gains.
+- His heroic 1940 memory remains publicly powerful while the meaning of commemorating him is contested through other parts of his record.
 
 ## Evidence
 
@@ -54,16 +57,16 @@ A Second World War comparison comes from [[399-the-savage-storm-world-war-ii-and
 - Political fall: [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] links Fisher's resignation, the shell shortage scandal, Asquith's coalition, naval-officer hostility, and Churchill's removal from the Admiralty.
 - Responsibility judgment: [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] says Churchill was the chief scapegoat but deserved major responsibility because he would not abandon the campaign once it was clearly failing.
 - Italian comparison: [[399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942]] identifies Churchill as an advocate of a higher landing and presents the resulting campaign as constrained and attritional but not devoid of strategic gains.
+- Statue and commemorative purpose: [[78-statues-parliament-square-glt3870229260]] says the Parliament Square monument principally honors Churchill's 1940 role while documenting how later protest connects it to broader disputes over his record.
 
 ## Qualifications
 
-The six sources cover selected moments rather than a complete biography. The childhood account depends on memoir, reported dialogue, correspondence, and later recollection; its causal links among neglect, destiny, and ambition remain interpretive. The early episodes are centered on Churchill and give limited Cuban, Pashtun, Sudanese, Egyptian, Boer, African, and civilian perspectives; personal bravery, admiration for an enemy, or criticism of excess should not become a defense of imperial war. The hosts' distinction between paternal hierarchy and hatred does not remove racism or coercion from the worldview described. The later sources do not assess his premiership, domestic politics, wider imperial record, writings, or complete Second World War leadership. The Italian source gives his preference but not a full reconstruction of his role in Allied Mediterranean decision-making.
+The seven sources cover selected moments rather than a complete biography. The childhood account depends on memoir, reported dialogue, correspondence, and later recollection; its causal links among neglect, destiny, and ambition remain interpretive. The early episodes are centered on Churchill and give limited Cuban, Pashtun, Sudanese, Egyptian, Boer, African, and civilian perspectives; personal bravery, admiration for an enemy, or criticism of excess should not become a defense of imperial war. The hosts' distinction between paternal hierarchy and hatred does not remove racism or coercion from the worldview described. The later sources do not fully assess his premiership, domestic politics, wider imperial record, writings, or Second World War leadership. The Italian source gives his preference but not a full reconstruction of Allied Mediterranean decision-making, while the statue episode argues about public commemoration rather than settling the historical controversies it invokes.
 
 ## What Changed
 
-- Extended the profile back through childhood, family relationships, Harrow, and Sandhurst.
-- Added maternal distance, Everest's care, mortality anxiety, imperial reading, and early destiny belief to the explanation of ambition.
-- Qualified Churchill's later self-portrait as an academic dunce without denying school conflict or parental disappointment.
+- Added the distinction between Churchill's 1940-centered commemoration and judgment of his complete record.
+- Added the Parliament Square statue as a case where later culture-war conflict changes reception without changing the monument's original purpose.
 
 ## Relationships
 
@@ -86,3 +89,5 @@ The six sources cover selected moments rather than a complete biography. The chi
 - [[FirstWorldWar]] - wartime context for the episode.
 - [[ItalianCampaign1943]] - Second World War comparison for Churchill's peripheral strategic preference.
 - [[SecondaryTheaterResourceConstraint]] - resource boundary that shaped the Italian campaign he favored.
+- [[ParliamentSquare]] - site where Churchill's public heroic memory becomes a contemporary political flashpoint.
+- [[StatueCommemorationPolitics]] - framework separating selected commemorative purpose from complete biography and later reception.

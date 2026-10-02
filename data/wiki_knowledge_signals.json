@@ -31413,9 +31413,9 @@
       "url": "/wiki/entities/cenzhilatehan/"
     },
     "Cenotaph": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2743125909 [GLT2743125909].md",
@@ -31423,9 +31423,16 @@
           "show": "The Rest Is History",
           "title": "118. End of the First World War & Remembrance",
           "url": "/wiki/sources/118-end-of-the-first-world-war-remembrance-glt2743125909/"
+        },
+        {
+          "episode_file": "GLT3870229260 [GLT3870229260].md",
+          "key": "78-statues-parliament-square-glt3870229260",
+          "show": "The Rest Is History",
+          "title": "78. Statues: Parliament Square",
+          "url": "/wiki/sources/78-statues-parliament-square-glt3870229260/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/cenotaph/"
     },
     "CenovusEnergy": {
@@ -151997,6 +152004,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/parkinsonismrecognitiontreatmentboundary/"
     },
+    "ParliamentSquare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3870229260 [GLT3870229260].md",
+          "key": "78-statues-parliament-square-glt3870229260",
+          "show": "The Rest Is History",
+          "title": "78. Statues: Parliament Square",
+          "url": "/wiki/sources/78-statues-parliament-square-glt3870229260/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/parliamentsquare/"
+    },
     "ParliamentaryAttainder": {
       "episode_count": 1,
       "show_count": 1,
@@ -188509,6 +188532,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/staticstretchingdoseprotocol/"
     },
+    "StatueCommemorationPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3870229260 [GLT3870229260].md",
+          "key": "78-statues-parliament-square-glt3870229260",
+          "show": "The Rest Is History",
+          "title": "78. Statues: Parliament Square",
+          "url": "/wiki/sources/78-statues-parliament-square-glt3870229260/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/statuecommemorationpolitics/"
+    },
     "StatusCodedEverydayRegulation": {
       "episode_count": 1,
       "show_count": 1,
@@ -213141,9 +213180,9 @@
       "url": "/wiki/entities/winsentertainment/"
     },
     "WinstonChurchill": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -213186,9 +213225,16 @@
           "show": "The Rest Is History",
           "title": "239. Young Churchill: Born to Lead (Part 1)",
           "url": "/wiki/sources/239-young-churchill-born-to-lead-part-1-glt1969009161/"
+        },
+        {
+          "episode_file": "GLT3870229260 [GLT3870229260].md",
+          "key": "78-statues-parliament-square-glt3870229260",
+          "show": "The Rest Is History",
+          "title": "78. Statues: Parliament Square",
+          "url": "/wiki/sources/78-statues-parliament-square-glt3870229260/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/winstonchurchill/"
     },
     "WinterRespiratoryInfectionRisk": {

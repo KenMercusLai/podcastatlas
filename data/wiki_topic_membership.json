@@ -5867,6 +5867,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "78-statues-parliament-square-glt3870229260": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "78-xifang-juedou-shi-chujian-ba-weile-rongyu-687731000": [
     {
       "key": "history",
@@ -60951,6 +60958,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ParliamentSquare": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ParliamentaryAttainder": [
     {
       "key": "politics",
@@ -75858,6 +75872,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "StatueCommemorationPolitics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "StatusAnxietyPersuasion": [

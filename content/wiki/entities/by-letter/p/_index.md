@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12105
+wiki_total_pages: 12106
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "ParkMobile"
     title: "ParkMobile"
     url: "/wiki/entities/parkmobile/"
+  - key: "ParliamentSquare"
+    title: "Parliament Square"
+    url: "/wiki/entities/parliamentsquare/"
   - key: "PartNet"
     title: "PartNet / PartNet Mobility"
     url: "/wiki/entities/partnet/"

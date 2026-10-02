@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3015
+topic_total_pages: 3017
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3769,6 +3769,9 @@ topic_concepts:
   - key: "StatewideLeftPrimaryTest"
     title: "Statewide Left Primary Test"
     url: "/wiki/concepts/statewideleftprimarytest/"
+  - key: "StatueCommemorationPolitics"
+    title: "Statue Commemoration Politics"
+    url: "/wiki/concepts/statuecommemorationpolitics/"
   - key: "StatusAnxietyPersuasion"
     title: "Status Anxiety Persuasion / 位阶焦虑式说服"
     url: "/wiki/concepts/statusanxietypersuasion/"
@@ -6704,6 +6707,9 @@ topic_entities:
   - key: "ParisPeaceAccords"
     title: "Paris Peace Accords"
     url: "/wiki/entities/parispeaceaccords/"
+  - key: "ParliamentSquare"
+    title: "Parliament Square"
+    url: "/wiki/entities/parliamentsquare/"
   - key: "PasqualePaoli"
     title: "Pasquale Paoli"
     url: "/wiki/entities/pasqualepaoli/"
