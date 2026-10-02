@@ -27721,3 +27721,11 @@ Added source `115-the-gunpowder-plot-glt1711431752`; created `RobertCatesby`, `G
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 114. Stonehenge, ancient ritual and the origins of paganism
+
+Added source `114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137`; created `RonaldHutton`, `PaganismAsLocalRitualTradition`, `MissionaryReligionConversionDynamics`, and `PaganContinuityClaims`; migrated `DruidicKnowledge` to the synthesis-first schema; and resynthesized `Stonehenge`, `StonehengeRitualLandscape`, `ArchaeologicalInterpretationUnderSparseEvidence`, and `Merlin` from their complete preserved evidence inventories. Core synthesis: paganism is best treated here as a retrospective category for diverse rooted ritual traditions; Christianization combined missionary and ruler-conversion advantages with selective adaptation; and resemblance, reuse, revival, or reconstruction do not by themselves establish uninterrupted pagan survival. No settled contradiction was adopted. Green Man and sheela-na-gig meanings, Harranian and Lithuanian survival, Christian inheritance, Druid testimony, prehistoric human-remains interpretation, Stonehenge's purpose, and the Red Lady of Paviland's status remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,464-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

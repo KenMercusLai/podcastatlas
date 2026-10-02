@@ -4,7 +4,8 @@ type: concept
 tags: [archaeology, ritual, landscape, neolithic-britain]
 sources:
   - 199-stonehenge-glt3612348466
-last_updated: 2026-10-01
+  - 114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ The Stonehenge ritual landscape is the interpretation of [[Stonehenge]], [[Durri
 
 [[199-stonehenge-glt3612348466]] supports a sequence in which a precise circle of distant bluestones became associated with a major cremation cemetery, then was rearranged inside a monumental sarsen architecture around 2500 BCE as burial at the site ceased. Nearby Durrington Walls adds settlement and feasting evidence, while long-distance stone and human mobility place Salisbury Plain within wider networks across Britain and possibly beyond.
 
-This landscape could gather small dispersed communities for burial, ritual, trade, feasting, courtship, construction, and social exchange. Yet no single activity explains every phase. Solstice alignment is materially strong; ancestor protection, restricted inner space, music, decoration, political leadership, and the contrast between a landscape of life and a landscape of death remain interpretations with different levels of support.
+This landscape could gather small dispersed communities for burial, ritual, trade, feasting, courtship, construction, and social exchange. Yet no single activity explains every phase. [[114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137]] adds a longer prehistoric sequence in which chambered monuments were blocked or abandoned and circular forms became dominant around 3000 BCE, but treats the conceptual story behind that shift as unrecoverable. Solstice alignment is materially strong; ancestor protection, restricted inner space, music, decoration, political leadership, sacred meaning, and the contrast between a landscape of life and a landscape of death remain interpretations with different levels of support.
 
 ## Key Claims
 
@@ -27,6 +28,7 @@ This landscape could gather small dispersed communities for burial, ritual, trad
 - Durrington Walls shows that settlement and feasting belong to the interpretation of the monumental landscape.
 - The solar axis supports repeated seasonal attention without proving that Stonehenge was a modern astronomical machine.
 - Mortuary, ancestral, social, political, and celebratory interpretations may overlap but should not be collapsed into one proven purpose.
+- Monumental form can demonstrate large conceptual change without revealing the beliefs that made the change meaningful.
 
 ## Evidence
 
@@ -34,14 +36,16 @@ This landscape could gather small dispersed communities for burial, ritual, trad
 - Regional networks: [[199-stonehenge-glt3612348466]] links Welsh geology, possible nonlocal burials, widespread stone-axe quarrying, and routes of movement.
 - Lived landscape: [[199-stonehenge-glt3612348466]] connects Durrington Walls, pigs, feasting, builder accommodation, trade, and social gathering.
 - Solar materiality: [[199-stonehenge-glt3612348466]] treats the midsummer-sunrise and midwinter-sunset alignment as widely accepted.
+- Long-sequence boundary: [[114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137]] places Stonehenge after a broader shift from sealed chamber monuments toward circular forms while declining to supply a recoverable theological explanation.
 
 ## Counterevidence & Qualifications
 
-The life-at-Durrington and death-at-Stonehenge contrast is partial rather than comprehensive. Archaeology cannot determine whether every gathering was ritual, whether the inner space was restricted, how seasonal use varied, or what participants believed. The protective-sarsen and ancestor-bluestone model is Pitts's proposal, and population replacement after the large monument does not alone explain the site's changing use or fragmentation.
+The life-at-Durrington and death-at-Stonehenge contrast is partial rather than comprehensive. Archaeology cannot determine whether every gathering was ritual, whether the inner space was restricted, how seasonal use varied, or what participants believed. The protective-sarsen and ancestor-bluestone model is Pitts's proposal, population replacement after the large monument does not alone explain the site's changing use or fragmentation, and the earlier chamber-to-circle transition does not establish one religious revolution.
 
 ## What Changed
 
 - Established a multi-site, multi-phase interpretation joining monument, settlement, burial, feasting, mobility, and solar alignment.
+- Extended the landscape backward into a broader monumental transition while keeping its conceptual meaning unresolved.
 
 ## Related Concepts
 

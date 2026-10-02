@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 11997
+wiki_total_pages: 11998
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -815,6 +815,9 @@ wiki_pages:
   - key: "RonWyden"
     title: "Ron Wyden"
     url: "/wiki/entities/ronwyden/"
+  - key: "RonaldHutton"
+    title: "Ronald Hutton"
+    url: "/wiki/entities/ronaldhutton/"
   - key: "RonaldReagan"
     title: "Ronald Reagan / 罗纳德·里根"
     url: "/wiki/entities/ronaldreagan/"

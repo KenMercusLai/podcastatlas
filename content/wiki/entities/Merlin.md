@@ -4,7 +4,8 @@ type: entity
 tags: [legend, prophecy, britain, arthurian, occultism]
 sources:
   - 174-merlin-magic-and-the-british-glt5141910845
-last_updated: 2026-10-01
+  - 114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,9 +17,9 @@ Merlin is the legendary British prophet, artificer, and royal adviser whose medi
 
 ## Current Profile
 
-The source attributes Merlin's dominant literary form to Geoffrey of Monmouth's twelfth-century combination of earlier traditions, including the wild man Myrddin Wyllt and Merlin Ambrosius of the Vortigern dragon story. Merlin advises Arthur, moves Stonehenge in legend, predicts political futures, and gives disruptive imported knowledge a British genealogy.
+[[174-merlin-magic-and-the-british-glt5141910845]] attributes Merlin's dominant literary form to Geoffrey of Monmouth's twelfth-century combination of earlier traditions, including the wild man Myrddin Wyllt and Merlin Ambrosius of the Vortigern dragon story. Merlin advises Arthur, moves Stonehenge in legend, predicts political futures, and gives disruptive imported knowledge a British genealogy.
 
-Merlin's political durability comes from being both national ancestor and counsel model. Medieval rulers could place occult wisdom within Solomonic sacred kingship, rebels and courts could invoke Merlinic prophecy, and later figures such as [[JohnDee]] could present themselves as Merlin-like advisers. The source treats this as evidence about political culture, not proof of Merlin's historicity or supernatural powers.
+Merlin's political durability comes from being both national ancestor and counsel model. Medieval rulers could place occult wisdom within Solomonic sacred kingship, rebels and courts could invoke Merlinic prophecy, and later figures such as [[JohnDee]] could present themselves as Merlin-like advisers. [[114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137]] further separates this reception history from a Druid identity: Merlin's demonic-parentage tradition and service to a devout Christian Arthur make him a poor historical fit for a Druid. Both sources treat the legend as evidence about political and religious imagination, not verified biography.
 
 ## Key Characteristics
 
@@ -27,6 +28,7 @@ Merlin's political durability comes from being both national ancestor and counse
 - British frame for astrology, alchemy, divination, and secret wisdom.
 - Arthurian source of national and imperial legitimation.
 - Model later learned advisers could consciously or retrospectively inhabit.
+- Figure whose later identification as a Druid is weaker than his medieval Christian and demonic narrative setting.
 
 ## Evidence
 
@@ -34,14 +36,16 @@ Merlin's political durability comes from being both national ancestor and counse
 - Political role: [[174-merlin-magic-and-the-british-glt5141910845]] emphasizes prophecy used by rulers and popular rebellions and says Merlin's historical existence was not seriously challenged until the seventeenth century.
 - Knowledge localization: [[174-merlin-magic-and-the-british-glt5141910845]] presents Merlin as a British frame for translated astrological, alchemical, and divinatory learning.
 - Later model: [[174-merlin-magic-and-the-british-glt5141910845]] compares Roger Bacon and especially John Dee to Merlin-like royal advisers.
+- Druid boundary: [[114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137]] argues that Merlin's parentage and Christian royal service do not support reading him as a Druid.
 
 ## Qualifications
 
-The source compresses a large and changing corpus into one political interpretation. Geoffrey's synthesis, medieval reception, rebellion traditions, Islamic-world transmission, and the chronology of skepticism require fuller textual evidence. Legendary deeds are evidence of cultural memory and legitimation, not verified biography.
+The sources compress a large and changing corpus into political and religious interpretations. Geoffrey's synthesis, medieval reception, rebellion traditions, Islamic-world transmission, Druid identification, and the chronology of skepticism require fuller textual evidence. Legendary deeds and parentage are evidence of cultural memory and legitimation, not verified biography.
 
 ## What Changed
 
 - Created a profile separating Merlin's medieval prophetic-political role from the modern generic wizard image.
+- Qualified the later Merlin-as-Druid identification against his medieval Christian narrative setting.
 
 ## Relationships
 
@@ -51,3 +55,5 @@ The source compresses a large and changing corpus into one political interpretat
 - [[OccultPolitics]] - framework explaining Merlin's use in counsel, prophecy, and legitimacy.
 - [[ImperialCartographicMythmaking]] - later Arthurian-imperial use of Merlin and legendary precedent.
 - [[LastDefenderOfCamelot|The Last Defender of Camelot]] - modern literary afterlife that reworks Merlin's power and loneliness.
+- [[DruidicKnowledge]] - later association that the historical-evidence discussion treats as a poor fit for Merlin.
+- [[RonaldHutton]] - historian who distinguishes Merlin's medieval legend from Druidic history.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9300
+wiki_total_pages: 9303
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -38,6 +38,12 @@ wiki_pages:
   - key: "PadelParticipationBoom"
     title: "Padel Participation Boom"
     url: "/wiki/concepts/padelparticipationboom/"
+  - key: "PaganContinuityClaims"
+    title: "Pagan Continuity Claims"
+    url: "/wiki/concepts/pagancontinuityclaims/"
+  - key: "PaganismAsLocalRitualTradition"
+    title: "Paganism as Local Ritual Tradition"
+    url: "/wiki/concepts/paganismaslocalritualtradition/"
   - key: "PagedAttention"
     title: "PagedAttention"
     url: "/wiki/concepts/pagedattention/"

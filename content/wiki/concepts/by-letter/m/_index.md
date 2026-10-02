@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9300
+wiki_total_pages: 9303
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1013,6 +1013,9 @@ wiki_pages:
   - key: "MissionaryFieldworkInfrastructure"
     title: "Missionary Fieldwork Infrastructure / 传教士田野基础设施"
     url: "/wiki/concepts/missionaryfieldworkinfrastructure/"
+  - key: "MissionaryReligionConversionDynamics"
+    title: "Missionary Religion Conversion Dynamics"
+    url: "/wiki/concepts/missionaryreligionconversiondynamics/"
   - key: "MistrustTriggeredMissionLaunch"
     title: "Mistrust-Triggered Mission Launch / 疑忌触发式出发"
     url: "/wiki/concepts/mistrusttriggeredmissionlaunch/"
