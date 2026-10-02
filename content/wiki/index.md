@@ -3503,6 +3503,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Optimizing Workspace for Productivity, Focus, & Creativity](sources/optimizing-workspace-for-productivity-focus-creativity-scim5202577757.md) — Huberman Lab solo episode on task-matched light, gaze, posture, sound, interruption boundaries, movement, and active-workstation tradeoffs.
 - [138. The Princes in the Tower Part 1](sources/138-the-princes-in-the-tower-part-1-glt6274021473.md) — The Rest Is History episode on Edward IV's Woodville marriage, Yorkist factional rupture, exile and restoration, the princes' upbringing, and the fragile 1483 succession.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
+- [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 
 ## Entities
 - [Dots Personal Agent](entities/DotsPersonalAgent.md) — Source-reported OpenAI assistant using a persistent cloud computer, browser, and delegated tools inside ChatGPT.
@@ -4509,7 +4510,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sergei Sazonov](entities/SergeiSazonov.md) — Russian foreign minister who joined Balkan strategy and prestige to Serbian support and early mobilisation.
 - [Maurice Paléologue](entities/MauricePaleologue.md) — French ambassador whose discretion during a communications gap reinforced Russia's hard line.
 - [Serbia](entities/Serbia.md) — Balkan state whose divided civilian and nationalist networks complicated assassination responsibility before its ultimatum crisis with Austria-Hungary.
-- [Nicholas II](entities/NicholasII.md) — Russian tsar whose reign opened under Khodynka's shadow and who later moved from doubt and precaution to approval of general mobilisation.
+- [Nicholas II](entities/NicholasII.md) — Russian tsar whose reign joined Khodynka's shadow, family reliance on Rasputin, and a pressured move from doubt to general mobilisation.
 - [Helmuth von Moltke the Younger](entities/HelmuthVonMoltkeTheYounger.md) — German chief of staff whose strategic fatalism made delay appear more dangerous than preparation.
 - [Edward Grey](entities/EdwardGrey.md) — British foreign secretary who moved from ambiguous French expectations and failed mediation to the case for intervention.
 - [H. H. Asquith](entities/HHAsquith.md) — British prime minister who moved from spectator hopes through cabinet division to the final decision for war.
@@ -15506,6 +15507,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [William Ewart Gladstone](entities/WilliamEwartGladstone.md) — Liberal prime minister caught between abolitionist pressure, imperial restraint, mission ambiguity, and blame for delayed relief.
 - [Garnet Wolseley](entities/GarnetWolseley.md) — Gordon ally and relief commander joining intervention advocacy, military interest, logistical failure, and heroic memory-making.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
+- [Grigory Rasputin](entities/GrigoryRasputin.md) — Siberian religious outsider whose Romanov access, misconduct, anti-war advice, murder, and legend became symbols of late-imperial crisis.
+- [Alexandra Feodorovna](entities/AlexandraFeodorovna.md) — Russian empress whose son's hemophilia drove reliance on Rasputin and exposed her to sexual and wartime conspiracy stories.
+- [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
 - [EMDR Mechanism Boundary](concepts/EMDRMechanismBoundary.md) — Separates possible EMDR benefit from oversimplified REM, bilateral-brain, and complete-relearning explanations.
@@ -16521,7 +16525,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [July Crisis](concepts/JulyCrisis.md) — Final 1914 escalation in which alliance firmness, strategic anxiety, ultimatum diplomacy, mobilisation, and political choice opened general European war.
 - [British Foreign-Policy Ambiguity in 1914](concepts/BritishForeignPolicyAmbiguity1914.md) — Gap between formal non-obligation and private, naval, imperial, and strategic expectations shaping Britain's choice.
 - [Mobilisation-Diplomacy Escalation Trap](concepts/MobilisationDiplomacyEscalationTrap.md) — Feedback in which precautionary military preparation alters rival threat perception and shrinks diplomatic reversibility.
-- [Scandal Plausibility and Legitimacy Damage](concepts/ScandalPlausibilityLegitimacyDamage.md) — Process by which hostile priors and expectation-matched false allegations can weaken an institution despite the target's factual innocence.
+- [Scandal Plausibility and Legitimacy Damage](concepts/ScandalPlausibilityLegitimacyDamage.md) — Process by which hostile priors, real misconduct, and expectation-matched exaggeration can weaken an institution beyond what evidence supports.
 - [Privilege Reform Legitimacy Trap](concepts/PrivilegeReformLegitimacyTrap.md) — Mechanism by which necessary reform, lawful privilege defence, publicity, and coercion widen a fiscal dispute into a sovereignty crisis.
 - [Revolutionary Crisis Convergence](concepts/RevolutionaryCrisisConvergence.md) — Process through which environmental, fiscal, subsistence, institutional, expectation, rumor, and coercive pressures reinforce one another into political rupture.
 - [Cold Exposure Dose and Safety](concepts/ColdExposureDoseAndSafety.md) — Minimum-effective-dose cold framework with explicit immersion, breathwork, hypothermia, and cardiovascular safety gates.

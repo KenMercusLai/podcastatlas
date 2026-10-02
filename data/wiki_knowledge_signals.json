@@ -8643,6 +8643,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/alexanderthegreat/"
     },
+    "AlexandraFeodorovna": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1290733613 [GLT1290733613].md",
+          "key": "128-rasputin-glt1290733613",
+          "show": "The Rest Is History",
+          "title": "128. Rasputin",
+          "url": "/wiki/sources/128-rasputin-glt1290733613/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/alexandrafeodorovna/"
+    },
     "AlexandraSuichBass": {
       "episode_count": 2,
       "show_count": 1,
@@ -8759,6 +8775,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/alexandrianwar/"
+    },
+    "AlexeiNikolaevich": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1290733613 [GLT1290733613].md",
+          "key": "128-rasputin-glt1290733613",
+          "show": "The Rest Is History",
+          "title": "128. Rasputin",
+          "url": "/wiki/sources/128-rasputin-glt1290733613/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/alexeinikolaevich/"
     },
     "AlfredDouglas": {
       "episode_count": 3,
@@ -81558,6 +81590,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/grievancerallyperformance/"
     },
+    "GrigoryRasputin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1290733613 [GLT1290733613].md",
+          "key": "128-rasputin-glt1290733613",
+          "show": "The Rest Is History",
+          "title": "128. Rasputin",
+          "url": "/wiki/sources/128-rasputin-glt1290733613/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/grigoryrasputin/"
+    },
     "Grokbot": {
       "episode_count": 3,
       "show_count": 2,
@@ -89620,9 +89668,9 @@
       "url": "/wiki/concepts/historicalfiguresasrealitytvarchetypes/"
     },
     "HistoricalInquirySourceCriticism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7158094581 [GLT7158094581].md",
@@ -89637,9 +89685,16 @@
           "show": "The Rest Is History",
           "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
           "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
+        },
+        {
+          "episode_file": "GLT1290733613 [GLT1290733613].md",
+          "key": "128-rasputin-glt1290733613",
+          "show": "The Rest Is History",
+          "title": "128. Rasputin",
+          "url": "/wiki/sources/128-rasputin-glt1290733613/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/historicalinquirysourcecriticism/"
     },
     "HistoricalInternationalLaw": {
@@ -139282,9 +139337,9 @@
       "url": "/wiki/entities/nicholasculpeper/"
     },
     "NicholasII": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1322848845 [GLT1322848845].md",
@@ -139306,6 +139361,13 @@
           "show": "The Rest Is History",
           "title": "154. The Most Disastrous Party in History",
           "url": "/wiki/sources/154-the-most-disastrous-party-in-history-glt6506112996/"
+        },
+        {
+          "episode_file": "GLT1290733613 [GLT1290733613].md",
+          "key": "128-rasputin-glt1290733613",
+          "show": "The Rest Is History",
+          "title": "128. Rasputin",
+          "url": "/wiki/sources/128-rasputin-glt1290733613/"
         }
       ],
       "updated": "2026-10-02",
@@ -170989,9 +171051,9 @@
       "url": "/wiki/entities/scaleai/"
     },
     "ScandalPlausibilityLegitimacyDamage": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9914208350 [GLT9914208350].md",
@@ -171006,9 +171068,16 @@
           "show": "The Rest Is History",
           "title": "475. The French Revolution: Marie Antoinette (Part 1)",
           "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
+        },
+        {
+          "episode_file": "GLT1290733613 [GLT1290733613].md",
+          "key": "128-rasputin-glt1290733613",
+          "show": "The Rest Is History",
+          "title": "128. Rasputin",
+          "url": "/wiki/sources/128-rasputin-glt1290733613/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/scandalplausibilitylegitimacydamage/"
     },
     "ScandinavianChristianKingship": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 11962
+wiki_total_pages: 11965
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -674,6 +674,9 @@ wiki_pages:
   - key: "AlexandrWang"
     title: "Alexandr Wang"
     url: "/wiki/entities/alexandrwang/"
+  - key: "AlexandraFeodorovna"
+    title: "Alexandra Feodorovna"
+    url: "/wiki/entities/alexandrafeodorovna/"
   - key: "AlexandraRavello"
     title: "Alexandra Ravello"
     url: "/wiki/entities/alexandraravello/"
@@ -695,6 +698,9 @@ wiki_pages:
   - key: "AlexeiChirikov"
     title: "Alexei Chirikov / 阿列克谢·齐里科夫"
     url: "/wiki/entities/alexeichirikov/"
+  - key: "AlexeiNikolaevich"
+    title: "Alexei Nikolaevich"
+    url: "/wiki/entities/alexeinikolaevich/"
   - key: "AlexiHorowitzGhazi"
     title: "Alexi Horowitz-Ghazi"
     url: "/wiki/entities/alexihorowitzghazi/"

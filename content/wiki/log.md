@@ -27570,3 +27570,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 128. Rasputin
+
+Added source `128-rasputin-glt1290733613`; created `GrigoryRasputin`, `AlexandraFeodorovna`, and the disambiguated `AlexeiNikolaevich`; and resynthesized `NicholasII`, `ScandalPlausibilityLegitimacyDamage`, and `HistoricalInquirySourceCriticism` from their complete preserved evidence inventories. Core synthesis: Alexei's hemophilia and apparent recovery made Rasputin emotionally indispensable to Alexandra and useful to Nicholas as a voice of holy peasant Russia, while his real drinking and sexual misconduct gave factional reports, wartime conspiracy, propaganda, and memoir a plausible base for far larger claims. No settled contradiction was adopted. The Alexandra affair, the lurid Yar report, a demonstrated healing mechanism, Rasputin's ability to prevent war, and the poison-and-drowning murder legend remain rejected, unresolved, or source-scoped; correcting them does not excuse supported misconduct. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,445-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

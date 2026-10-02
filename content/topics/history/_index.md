@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2384
+topic_total_pages: 2385
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4845,6 +4845,9 @@ topic_sources:
   - key: "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780"
     title: "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖"
     url: "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+  - key: "128-rasputin-glt1290733613"
+    title: "128. Rasputin"
+    url: "/wiki/sources/128-rasputin-glt1290733613/"
   - key: "131-burgundy-europes-forgotten-superpower-glt6941072856"
     title: "131. Burgundy: Europe's Forgotten Superpower"
     url: "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
