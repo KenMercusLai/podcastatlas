@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [89. Climate & Weather](sources/89-climate-weather-glt6521438447.md) — The Rest Is History countdown on climate and weather acting through settlement, food, war, revolution, culture, transport, forecasting, and political legitimacy.
 - [Understanding & Conquering Depression](sources/scim8966572027-scim8966572027.md) — Early Huberman Lab solo episode on major depression as a multisystem disorder, clinical assessment boundaries, inflammation and plasticity, and evidence-bounded treatment options.
 - [90. The Western Front](sources/90-the-western-front-glt9972346188.md) — The Rest Is History with Gary Sheffield on Western Front stalemate, soldier experience, uneven British learning, Allied victory in 1918, and the later "lions led by donkeys" memory.
 - [91. The Beatles](sources/91-the-beatles-glt5767145023.md) — The Rest Is History on the Beatles as historical actors shaped by postwar austerity, youth markets, religion, empire, celebrity, and mass cultural transmission.
@@ -3567,6 +3568,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247.md) — Huberman Lab interview on psychedelic classes, clinical protocols, self-representation, integration, microdosing evidence, persistent perceptual symptoms, risks, and regulation.
 
 ## Entities
+- [James Stagg](entities/JamesStagg.md) — RAF meteorological adviser whose forecast shaped the timing of the D-Day launch decision.
 - [Gary Sheffield](entities/GarySheffield.md) — Military historian connecting Western Front structure, soldier experience, uneven learning, 1918 victory, and later popular memory.
 - [Douglas Haig](entities/DouglasHaig.md) — British commander treated as a qualified case of command error, institutional adaptation, coalition judgment, and retrospective caricature.
 - [Wilfred Owen](entities/WilfredOwen.md) — Soldier-poet linking anti-war poetry, gallantry, the final Allied advance, and the cultural memory of doomed youth.

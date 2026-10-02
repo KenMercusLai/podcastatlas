@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1420
+topic_total_pages: 1421
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3576,6 +3576,9 @@ topic_sources:
   - key: "86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437"
     title: "86.打开一颗心：那美好的仗，我已经打过了"
     url: "/wiki/sources/86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437/"
+  - key: "89-climate-weather-glt6521438447"
+    title: "89. Climate & Weather"
+    url: "/wiki/sources/89-climate-weather-glt6521438447/"
   - key: "93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489"
     title: "93.聊聊头发：秃了，就会变强吗？"
     url: "/wiki/sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489/"

@@ -37828,9 +37828,9 @@
       "url": "/wiki/concepts/climatefoodpricetransmission/"
     },
     "ClimateHistoryCausalPluralism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8815959934 [GLT8815959934].md",
@@ -37838,15 +37838,22 @@
           "show": "The Rest Is History",
           "title": "313: Climate Apocalypse",
           "url": "/wiki/sources/313-climate-apocalypse-glt8815959934/"
+        },
+        {
+          "episode_file": "GLT6521438447 [GLT6521438447].md",
+          "key": "89-climate-weather-glt6521438447",
+          "show": "The Rest Is History",
+          "title": "89. Climate & Weather",
+          "url": "/wiki/sources/89-climate-weather-glt6521438447/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/climatehistorycausalpluralism/"
     },
     "ClimateShockInstitutionalResilience": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8815959934 [GLT8815959934].md",
@@ -37854,9 +37861,16 @@
           "show": "The Rest Is History",
           "title": "313: Climate Apocalypse",
           "url": "/wiki/sources/313-climate-apocalypse-glt8815959934/"
+        },
+        {
+          "episode_file": "GLT6521438447 [GLT6521438447].md",
+          "key": "89-climate-weather-glt6521438447",
+          "show": "The Rest Is History",
+          "title": "89. Climate & Weather",
+          "url": "/wiki/sources/89-climate-weather-glt6521438447/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/climateshockinstitutionalresilience/"
     },
     "ClinicalBehaviorChangeRedFlags": {
@@ -105238,6 +105252,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/jamessexton/"
+    },
+    "JamesStagg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6521438447 [GLT6521438447].md",
+          "key": "89-climate-weather-glt6521438447",
+          "show": "The Rest Is History",
+          "title": "89. Climate & Weather",
+          "url": "/wiki/sources/89-climate-weather-glt6521438447/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/jamesstagg/"
     },
     "JamesSteinberg": {
       "episode_count": 1,

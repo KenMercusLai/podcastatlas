@@ -28052,3 +28052,11 @@ Added source `scim8966572027-scim8966572027`; created `MajorDepressionMultisyste
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 89. Climate & Weather
+
+Added source `89-climate-weather-glt6521438447`; created `JamesStagg`; and resynthesized `ClimateHistoryCausalPluralism` and `ClimateShockInstitutionalResilience` from their complete preserved evidence inventories. Core synthesis: environmental conditions influence history through food, logistics, transport, institutions, legitimacy, and decisions, while forecasting can become anticipatory resilience when experts communicate uncertainty and leaders can act. No settled contradiction was adopted. Temperature estimates, volcanic and typhoon chronologies, bread-price timing, battle mechanisms, invention stories, and counterfactual claims remain source-scoped. Recurring host, show, event, and ruler pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,506-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

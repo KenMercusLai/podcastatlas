@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2436
+topic_total_pages: 2437
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6354,6 +6354,9 @@ topic_sources:
   - key: "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997"
     title: "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）"
     url: "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+  - key: "89-climate-weather-glt6521438447"
+    title: "89. Climate & Weather"
+    url: "/wiki/sources/89-climate-weather-glt6521438447/"
   - key: "90-the-western-front-glt9972346188"
     title: "90. The Western Front"
     url: "/wiki/sources/90-the-western-front-glt9972346188/"
