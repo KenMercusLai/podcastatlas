@@ -28172,3 +28172,11 @@ Added source `79-ancient-olympics-glt9627584488`; created `AncientOlympicGames`,
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | EP182-占星学的新时代，都市青年的精神归宿
+
+Added source `ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw`; created `GeYangPsychologicalAstrologer`, `PsychologicalAstrologyAsReflectiveMap`, and `AstrologicalInterpretationEvidenceBoundary`; and resynthesized `WushichaYanjiusuo` and `AgathaChristie` from their complete preserved evidence inventories. Core synthesis: modern psychological astrology can operate as a symbolic map for naming patterns and widening choices without becoming navigation or fate, but interpretive coherence, retrospective fit, and historical correlation do not establish causation, prediction, or reliability. No settled contradiction was adopted. Claims about pregnancy, fetal sex, heredity, health, crime, national character, markets, and historical cycles remain source-scoped and should not replace qualified evidence or professional advice. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,521-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

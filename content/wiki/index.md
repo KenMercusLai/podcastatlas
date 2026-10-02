@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP182-占星学的新时代，都市青年的精神归宿](sources/ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw.md) — 无时差研究所 episode on modern psychological astrology as a reflective map, layered chart interpretation, agency, and evidence boundaries.
 - [79. Ancient Olympics](sources/79-ancient-olympics-glt9627584488.md) — The Rest Is History on the ancient Games as a sacred festival of Zeus shaped by victory culture, elite access, limited truce, civic politics, exclusion, sacrifice, and violent heroism.
 - [How to Optimize Your Brain-Body Function & Health](sources/scim4317576130-scim4317576130.md) — Early Huberman Lab episode on interoception, brain-body signaling, breathing, gut sensing, fermented foods, immune responses, and awareness-practice limits.
 - [80. Modern Olympics - Part 1](sources/80-modern-olympics-part-1-glt3795252606.md) — The Rest Is History on the Olympics' multi-origin revival, Coubertin, amateurism, improvised early Games, and Berlin 1936 as a propaganda template.
@@ -3582,6 +3583,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [葛阳 / Ge Yang (psychological astrologer)](entities/GeYangPsychologicalAstrologer.md) — Finance-trained EP182 guest presenting modern psychological astrology as a layered reflective model while retaining personal agency.
 - [Ancient Olympic Games](entities/AncientOlympicGames.md) — Sacred panhellenic festival joining Zeus worship, athletic victory, civic prestige, exclusion, sacrifice, and heroic memory.
 - [Kyniska](entities/Kyniska.md) — Spartan chariot owner whose Olympic victory exposes an elite ownership loophole within women's exclusion.
 - [Milo of Croton](entities/MiloOfCroton.md) — Celebrated wrestler whose Olympic victories expanded into legends of strength and dangerous heroic excess.
@@ -15731,6 +15733,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Psychological Astrology as Reflective Map / 心理占星作为反思地图](concepts/PsychologicalAstrologyAsReflectiveMap.md) — Use of chart symbolism for self-inquiry and choice expansion without granting it deterministic authority.
+- [Astrological Interpretation Evidence Boundary / 占星解释的证据边界](concepts/AstrologicalInterpretationEvidenceBoundary.md) — Distinction between narrative coherence or resonance and validated causal or predictive evidence.
 - [Ancient Olympic Sacred Competition](concepts/AncientOlympicSacredCompetition.md) — Integration of athletic contest with Zeus worship, myth, sacrifice, oath, civic identity, and heroic memory.
 - [Olympic Truce](concepts/OlympicTruce.md) — Limited protection for festival travel and participation rather than a general suspension of Greek warfare.
 - [Ancient Greek Athletic Glory](concepts/AncientGreekAthleticGlory.md) — Winner-centered system converting victory into civic reward, lasting fame, public shame, and heroic afterlife.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12104
+wiki_total_pages: 12105
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1433,6 +1433,9 @@ wiki_pages:
   - key: "GeYing"
     title: "葛婴 / Ge Ying"
     url: "/wiki/entities/geying/"
+  - key: "GeYangPsychologicalAstrologer"
+    title: "葛阳 / Ge Yang (psychological astrologer)"
+    url: "/wiki/entities/geyangpsychologicalastrologer/"
   - key: "Guanxia"
     title: "观夏 / Guanxia"
     url: "/wiki/entities/guanxia/"

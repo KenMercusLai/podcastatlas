@@ -6,7 +6,8 @@ sources:
   - 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589
   - 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465
   - 185-agatha-christie-glt9092045420
-last_updated: 2026-10-01
+  - ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ The earlier sources establish two complementary frames. [[82-xianliao-weida-zuoj
 [[185-agatha-christie-glt9092045420]] turns those materials into a fuller historical interpretation. Her financially shaken childhood is connected, cautiously, to plots organized by inheritance, status, appearance, and insecure comfort; wartime nursing supports the technical use of poison; marital betrayal offers context for recurring triangles; archaeological travel widens the setting beyond rural England; and Christian belief informs a world in which murder violates an intelligible moral standard.
 
 The episode rejects simple nostalgia. [[HerculePoirot|Hercule Poirot]] is a Belgian refugee and physically unheroic modern outsider, while [[MissMarple|Miss Marple]] expects greed and cruelty inside ordinary village life. Christie repeatedly invites readers to trust stereotypes about class, gender, nationality, and professional role, then turns that trust into [[SocialStereotypeMisdirection]]. Her formal daring remains bounded by genre rules, making unusual culprit structures part of [[RuleBoundDetectivePlotInnovation]] rather than arbitrary surprise.
+
+A sharply different reception layer comes from modern psychological astrology: [[GeYangPsychologicalAstrologer|葛阳]] uses Christie's birth chart in [[ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw]] to demonstrate elemental, planet-sign-house, house-ruler, and aspect interpretation, reading discipline, detail, mystery writing, sibling influence, and imagined violence back through known biography. This is evidence about how Christie can be recruited as an astrological case study, not independent evidence about her personality or the causes of her writing.
 
 ## Key Characteristics
 
@@ -43,18 +46,16 @@ The episode rejects simple nostalgia. [[HerculePoirot|Hercule Poirot]] is a Belg
 - Moral framework: [[185-agatha-christie-glt9092045420]] connects Christie's Christianity and belief in evil to detection as restoration of moral order.
 - Formal innovation: [[185-agatha-christie-glt9092045420]] uses the guilty narrator, collective guilt, guilty detective, and no-survivor closed circle to show rule-bound experimentation.
 - Social history: [[185-agatha-christie-glt9092045420]] reads the novels from the 1920s through the 1950s as records of changing middle-class life, postwar austerity, taxation, mobility, and identity.
+- Astrological reception: [[ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw]] retrospectively maps Christie's known traits and career onto a birth chart, demonstrating layered interpretation while also exemplifying [[AstrologicalInterpretationEvidenceBoundary]].
 
 ## Qualifications
 
-The sources are podcast interpretations rather than a comprehensive biography or complete textual study. Direct causal links from childhood loss or marital betrayal to particular plots remain plausible readings, not demonstrated authorial explanations. Sales totals, theological conclusions, private motives during the 1926 disappearance, judgments about stronger and weaker decades, and claims about individual novels remain source-scoped. Recognizing that Christie can subvert stereotypes does not establish that every representation escapes snobbery, xenophobia, sexism, or imperial assumptions.
+The sources are podcast interpretations rather than a comprehensive biography or complete textual study. Direct causal links from childhood loss or marital betrayal to particular plots remain plausible readings, not demonstrated authorial explanations. The astrological source is a retrospective worked example and does not show that chart placements caused Christie's temperament, relationships, violence-related imagination, or career. Sales totals, theological conclusions, private motives during the 1926 disappearance, judgments about stronger and weaker decades, and claims about individual novels remain source-scoped. Recognizing that Christie can subvert stereotypes does not establish that every representation escapes snobbery, xenophobia, sexism, or imperial assumptions.
 
 ## What Changed
 
-- Reframed Christie as a historian of changing middle-class anxiety rather than mainly a biographical-gossip subject.
-- Added social stereotypes as a deliberate mechanism of reader misdirection.
-- Strengthened the account of ordinary respectable evil and Christian moral judgment.
-- Added Poirot and Marple as contrasting instruments of the same social vision.
-- Defined her formal originality as extreme innovation conducted within recognizable genre rules.
+- Added Christie's use as a worked astrological interpretation case.
+- Kept that reception history distinct from biographical or causal evidence about her writing.
 
 ## Relationships
 
@@ -66,3 +67,4 @@ The sources are podcast interpretations rather than a comprehensive biography or
 - [[HistoricalDetectiveReasoning]] - adjacent comparison between detective method and evidence-bound historical inquiry.
 - [[AuthorMythDeflation]] - framework that resists reducing literary achievement to public legend or scandal.
 - [[PuzzleSnackMystery]] - neighboring account of the compact pleasure of clue-driven fiction.
+- [[AstrologicalInterpretationEvidenceBoundary]] - boundary qualifying the retrospective chart reading added by EP182.

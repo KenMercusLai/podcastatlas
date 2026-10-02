@@ -7243,9 +7243,9 @@
       "url": "/wiki/entities/agamemnon/"
     },
     "AgathaChristie": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "82.闲聊伟大作家的八卦（第二弹） [695228589].md",
@@ -7267,9 +7267,16 @@
           "show": "The Rest Is History",
           "title": "185. Agatha Christie",
           "url": "/wiki/sources/185-agatha-christie-glt9092045420/"
+        },
+        {
+          "episode_file": "CKwRIJEE0pslABAAAADNPAMW [CKwRIJEE0pslABAAAADNPAMW].md",
+          "key": "ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw",
+          "show": "无时差研究所",
+          "title": "EP182-占星学的新时代，都市青年的精神归宿",
+          "url": "/wiki/sources/ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/agathachristie/"
     },
     "AgentCivilizationNarrative": {
@@ -16126,6 +16133,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/associativeknowledgesystems/"
+    },
+    "AstrologicalInterpretationEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIJEE0pslABAAAADNPAMW [CKwRIJEE0pslABAAAADNPAMW].md",
+          "key": "ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw",
+          "show": "无时差研究所",
+          "title": "EP182-占星学的新时代，都市青年的精神归宿",
+          "url": "/wiki/sources/ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/astrologicalinterpretationevidenceboundary/"
     },
     "Atang": {
       "episode_count": 20,
@@ -79121,6 +79144,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/gejianxiong/"
+    },
+    "GeYangPsychologicalAstrologer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIJEE0pslABAAAADNPAMW [CKwRIJEE0pslABAAAADNPAMW].md",
+          "key": "ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw",
+          "show": "无时差研究所",
+          "title": "EP182-占星学的新时代，都市青年的精神归宿",
+          "url": "/wiki/sources/ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/geyangpsychologicalastrologer/"
     },
     "GeelyAutomobile": {
       "episode_count": 3,
@@ -163333,6 +163372,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/psychologicalabuserecognition/"
     },
+    "PsychologicalAstrologyAsReflectiveMap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIJEE0pslABAAAADNPAMW [CKwRIJEE0pslABAAAADNPAMW].md",
+          "key": "ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw",
+          "show": "无时差研究所",
+          "title": "EP182-占星学的新时代，都市青年的精神归宿",
+          "url": "/wiki/sources/ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/psychologicalastrologyasreflectivemap/"
+    },
     "PsychologicalBoundaryProtection": {
       "episode_count": 2,
       "show_count": 1,
@@ -214958,9 +215013,9 @@
       "url": "/wiki/entities/wurenzhixiao/"
     },
     "WushichaYanjiusuo": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -215038,6 +215093,13 @@
           "show": "无时差研究所",
           "title": "EP188-教师节对话做题家养成师：当代做题界现状答疑",
           "url": "/wiki/sources/ep188-jiaoshijie-duihua-zuotijia-yangchengshi-dangdai-zuotijie-xianzhuang-dayi-ckwriasfcgevabaaaadf6hi3/"
+        },
+        {
+          "episode_file": "CKwRIJEE0pslABAAAADNPAMW [CKwRIJEE0pslABAAAADNPAMW].md",
+          "key": "ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw",
+          "show": "无时差研究所",
+          "title": "EP182-占星学的新时代，都市青年的精神归宿",
+          "url": "/wiki/sources/ep182-zhanxingxue-de-xinshidai-dushi-qingnian-de-jingshen-guisu-ckwrijee0pslabaaaadnpamw/"
         }
       ],
       "updated": "2026-10-03",

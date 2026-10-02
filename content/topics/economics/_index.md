@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2166
+topic_total_pages: 2167
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5567,6 +5567,9 @@ topic_entities:
   - key: "MoChen"
     title: "莫晨 / Mo Chen"
     url: "/wiki/entities/mochen/"
+  - key: "GeYangPsychologicalAstrologer"
+    title: "葛阳 / Ge Yang (psychological astrologer)"
+    url: "/wiki/entities/geyangpsychologicalastrologer/"
   - key: "JiangHuaan"
     title: "蒋华安 / Jiang Huaan"
     url: "/wiki/entities/jianghuaan/"
