@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2408
+topic_total_pages: 2410
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -508,6 +508,9 @@ topic_concepts:
   - key: "GlassSteagallAct"
     title: "Glass-Steagall Act / 格拉斯-斯蒂格尔法案"
     url: "/wiki/concepts/glasssteagallact/"
+  - key: "GoldenAgeNarrative"
+    title: "Golden-Age Narrative"
+    url: "/wiki/concepts/goldenagenarrative/"
   - key: "GrainBorderCoercion"
     title: "Grain And Border Coercion / 粮食与封边胁迫"
     url: "/wiki/concepts/grainbordercoercion/"
@@ -4815,6 +4818,9 @@ topic_sources:
   - key: "109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773"
     title: "109.闲聊左传之春秋运动会！"
     url: "/wiki/sources/109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773/"
+  - key: "111-golden-ages-glt9885576415"
+    title: "111. Golden Ages"
+    url: "/wiki/sources/111-golden-ages-glt9885576415/"
   - key: "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095"
     title: "112. 闲聊金庸第一弹：明教竟然今天还存在？"
     url: "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"

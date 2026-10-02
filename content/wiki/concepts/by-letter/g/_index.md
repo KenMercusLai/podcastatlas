@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9310
+wiki_total_pages: 9311
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "GoldPortfolioProducts"
     title: "Gold Portfolio Products / 黄金家组合产品"
     url: "/wiki/concepts/goldportfolioproducts/"
+  - key: "GoldenAgeNarrative"
+    title: "Golden-Age Narrative"
+    url: "/wiki/concepts/goldenagenarrative/"
   - key: "GoodCompanyGoodStock"
     title: "Good Company Vs Good Stock"
     url: "/wiki/concepts/goodcompanygoodstock/"

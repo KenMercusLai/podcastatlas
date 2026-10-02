@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [111. Golden Ages](sources/111-golden-ages-glt9885576415.md) — The Rest Is History on retrospective nostalgia, canon formation, power, excluded costs, political memory, and competing models of historical flourishing.
 - [112. Medieval Science](sources/112-medieval-science-glt3839934134.md) — The Rest Is History with Seb Falk on medieval scientific practice, instruments, cross-cultural transmission, science-religion categories, and continuity into early modern inquiry.
 - [113. Hallowe'en and modern paganism](sources/113-halloween-and-modern-paganism-glt4064224583.md) — The Rest Is History with Ronald Hutton on Halloween's layered history, disputed pagan continuity, Wicca, and modern religious reconstruction.
 - [114. Stonehenge, ancient ritual and the origins of paganism](sources/114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137.md) — The Rest Is History with Ronald Hutton on paganism, Christianization, Druids, continuity claims, prehistoric ritual, Stonehenge, and evidential uncertainty.
@@ -15575,6 +15576,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
 
 ## Concepts
+- [Golden-Age Narrative](concepts/GoldenAgeNarrative.md) — Framework treating golden ages as real but selectively remembered achievements sharpened by later decline, canon formation, unequal costs, and political reuse.
 - [Medieval Science Continuity](concepts/MedievalScienceContinuity.md) — Qualified continuity of preservation, translation, criticism, calculation, and institutional change from antiquity into early modern science.
 - [Medieval Scientific Practice](concepts/MedievalScientificPractice.md) — Joined textual, mathematical, observational, computational, and instrument-making work before modern professional science.
 - [Premodern Science-Religion Entanglement](concepts/PremodernScienceReligionEntanglement.md) — Historically overlapping theology, natural philosophy, astronomy, and knowledge categories that resist a simple conflict binary.

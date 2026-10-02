@@ -80514,6 +80514,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/goldjewelryvalueperceptionrisk/"
     },
+    "GoldenAgeNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9885576415 [GLT9885576415].md",
+          "key": "111-golden-ages-glt9885576415",
+          "show": "The Rest Is History",
+          "title": "111. Golden Ages",
+          "url": "/wiki/sources/111-golden-ages-glt9885576415/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/goldenagenarrative/"
+    },
     "GoldenDoor": {
       "episode_count": 1,
       "show_count": 1,

@@ -173,6 +173,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "111-golden-ages-glt9885576415": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095": [
     {
       "key": "history",
@@ -36578,6 +36585,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "GoldenAgeNarrative": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "GoldenDawn": [
