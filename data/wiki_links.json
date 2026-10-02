@@ -255,6 +255,10 @@
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
   },
+  "131-burgundy-europes-forgotten-superpower-glt6941072856": {
+    "title": "131. Burgundy: Europe's Forgotten Superpower",
+    "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
+  },
   "131-richang-zhimi-tuili-shi-wo-wei-neng-shuo-chukou-de-zhenxin-805617229": {
     "title": "131.“日常之谜”推理：是我未能说出口的真心",
     "url": "/wiki/sources/131-richang-zhimi-tuili-shi-wo-wei-neng-shuo-chukou-de-zhenxin-805617229/"
@@ -13047,6 +13051,14 @@
     "title": "Burgundian Court Art",
     "url": "/wiki/concepts/burgundiancourtart/"
   },
+  "BurgundianStateFormation": {
+    "title": "Burgundian State Formation",
+    "url": "/wiki/concepts/burgundianstateformation/"
+  },
+  "Burgundy": {
+    "title": "Burgundy",
+    "url": "/wiki/entities/burgundy/"
+  },
   "BuridanIndecisionEffect": {
     "title": "Buridan Indecision Effect / 布利丹效应",
     "url": "/wiki/concepts/buridanindecisioneffect/"
@@ -15270,6 +15282,10 @@
   "CharlesTheBad": {
     "title": "Charles the Bad",
     "url": "/wiki/entities/charlesthebad/"
+  },
+  "CharlesTheBold": {
+    "title": "Charles the Bold",
+    "url": "/wiki/entities/charlesthebold/"
   },
   "CharlesV": {
     "title": "Charles V",
@@ -41667,6 +41683,10 @@
     "title": "Joan Johnson",
     "url": "/wiki/entities/joanjohnson/"
   },
+  "JoanOfArc": {
+    "title": "Joan of Arc",
+    "url": "/wiki/entities/joanofarc/"
+  },
   "JoannaStern": {
     "title": "Joanna Stern",
     "url": "/wiki/entities/joannastern/"
@@ -50227,6 +50247,10 @@
     "title": "Mary II",
     "url": "/wiki/entities/maryii/"
   },
+  "MaryOfBurgundy": {
+    "title": "Mary of Burgundy",
+    "url": "/wiki/entities/maryofburgundy/"
+  },
   "MaryParsons": {
     "title": "Mary Parsons",
     "url": "/wiki/entities/maryparsons/"
@@ -56847,6 +56871,10 @@
     "title": "Order of the Garter",
     "url": "/wiki/entities/orderofthegarter/"
   },
+  "OrderOfTheGoldenFleece": {
+    "title": "Order of the Golden Fleece",
+    "url": "/wiki/entities/orderofthegoldenfleece/"
+  },
   "OrdinaryEscapeCourage": {
     "title": "Ordinary Escape Courage",
     "url": "/wiki/concepts/ordinaryescapecourage/"
@@ -59138,6 +59166,10 @@
   "PhilipSidney": {
     "title": "Sir Philip Sidney",
     "url": "/wiki/entities/philipsidney/"
+  },
+  "PhilipTheBold": {
+    "title": "Philip the Bold",
+    "url": "/wiki/entities/philipthebold/"
   },
   "PhilipTheGood": {
     "title": "Philip the Good",

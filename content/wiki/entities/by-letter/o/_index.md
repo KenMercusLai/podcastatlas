@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 11944
+wiki_total_pages: 11950
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "OrderOfTheGarter"
     title: "Order of the Garter"
     url: "/wiki/entities/orderofthegarter/"
+  - key: "OrderOfTheGoldenFleece"
+    title: "Order of the Golden Fleece"
+    url: "/wiki/entities/orderofthegoldenfleece/"
   - key: "OrenCass"
     title: "Oren Cass"
     url: "/wiki/entities/orencass/"

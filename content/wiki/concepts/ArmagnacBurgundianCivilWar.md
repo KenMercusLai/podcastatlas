@@ -5,6 +5,7 @@ tags: [civil-war, france, burgundy, medieval-history]
 sources:
   - 490-hundred-years-war-england-triumphant-part-4-glt2692942762
   - 487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021
+  - 131-burgundy-europes-forgotten-superpower-glt6941072856
 last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ John's Cabochien mobilization and the Armagnac capture of Paris showed that both
 
 Attempts at reconciliation ended with [[JohnTheFearless|John the Fearless's]] murder at Montereau. That rupture transformed civil conflict into an Anglo-Burgundian alignment and helped produce the [[TreatyOfTroyes|Treaty of Troyes]].
 
+The Burgundy episode carries the consequences beyond Troyes: Burgundian participation in Joan of Arc's capture still served the English alliance, but Philip the Good's 1435 return to the French side then helped close England's opportunity. The civil war therefore created leverage for Burgundy as well as England, without fixing either alliance permanently.
+
 ## Key Claims
 
 - Royal incapacity and competition over the council and Dauphin helped turn princely rivalry into civil war.
@@ -30,8 +33,8 @@ Attempts at reconciliation ended with [[JohnTheFearless|John the Fearless's]] mu
 - Cabochien and Armagnac violence made control of Paris and the royal family instruments of factional rule.
 - English rulers used alternating factional alignments before Henry V invaded.
 - Rival factions prevented coherent French resistance after Agincourt, while Armagnac control used coercion and purge in Paris.
-- Burgundian territorial pressure indirectly aided Henry's Norman campaign.
-- Montereau destroyed a possible anti-English reconciliation and converted factional grievance into English diplomatic leverage.
+- Burgundian pressure aided Henry's Norman campaign, while Montereau converted factional grievance into English diplomatic leverage.
+- Philip the Good's later alliance reversal shows that Burgundian autonomy, not permanent English loyalty, remained a central outcome of the factional struggle.
 
 ## Evidence
 
@@ -40,15 +43,17 @@ Attempts at reconciliation ended with [[JohnTheFearless|John the Fearless's]] mu
 - Fragmented command: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] links dauphin deaths, Armagnac appointment, and Parisian purge to weak coordination.
 - Strategic interaction: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] says Burgundian advances made it harder to oppose Henry in Normandy.
 - Escalation and realignment: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] traces Paris, Montereau, and Philip's alliance turn.
+- Longer alliance cycle: [[131-burgundy-europes-forgotten-superpower-glt6941072856]] connects civil division to Agincourt, Troyes, Joan's capture, and the 1435 Burgundian-French reconciliation.
 
 ## Counterevidence & Qualifications
 
-The episodes emphasize elite faction and high politics more than local loyalties or civilian experience. Burgundian action was not identical to stable English alliance throughout the period, the Cabochiens cannot be reduced to passive Burgundian instruments, and reconciliation remained conceivable before Montereau. Private motives and the exact mechanics of urban mobilization remain source-scoped.
+The episodes emphasize elite faction and high politics more than local loyalties or civilian experience. Burgundian action was not identical to stable English alliance, the Cabochiens cannot be reduced to passive instruments, and reconciliation remained conceivable before Montereau. Rumors behind the Orléans murder, private motives, urban mobilization, and the degree to which Burgundy deliberately weakened both England and France remain source-scoped.
 
 ## What Changed
 
 - Extended the conflict backward to royal incapacity, the Orléans murder, the Armagnac coalition, and the 1413 struggle for Paris.
 - Created a causal frame connecting French civil conflict to English conquest and the Troyes settlement.
+- Extended the frame through Joan of Arc and Philip's 1435 reversal, clarifying that Burgundy used rather than simply joined the Anglo-French conflict.
 
 ## Related Concepts
 
@@ -58,3 +63,4 @@ The episodes emphasize elite faction and high politics more than local loyalties
 - [[HistoricalMemoryContest]] - interpretive frame that can obscure factional causation behind national war stories.
 - [[LouisOfOrleans]] - murdered prince whose heirs formed the anti-Burgundian coalition.
 - [[JohnTheFearless]] - Burgundian leader whose violence and shifting diplomacy structured the conflict.
+- [[BurgundianStateFormation]] - autonomy project that benefited from factional leverage but remained territorially fragile.

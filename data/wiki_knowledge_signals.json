@@ -14675,9 +14675,9 @@
       "url": "/wiki/concepts/arktraditionlayering/"
     },
     "ArmagnacBurgundianCivilWar": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -14692,6 +14692,13 @@
           "show": "The Rest Is History",
           "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
           "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
+        },
+        {
+          "episode_file": "GLT6941072856 [GLT6941072856].md",
+          "key": "131-burgundy-europes-forgotten-superpower-glt6941072856",
+          "show": "The Rest Is History",
+          "title": "131. Burgundy: Europe's Forgotten Superpower",
+          "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
         }
       ],
       "updated": "2026-09-23",
@@ -19158,9 +19165,9 @@
       "url": "/wiki/entities/barrygoldwater/"
     },
     "BartVanLoo": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1331750756 [GLT1331750756].md",
@@ -19168,6 +19175,13 @@
           "show": "The Rest Is History",
           "title": "271: Belgium: History's Greatest Artist",
           "url": "/wiki/sources/271-belgium-historys-greatest-artist-glt1331750756/"
+        },
+        {
+          "episode_file": "GLT6941072856 [GLT6941072856].md",
+          "key": "131-burgundy-europes-forgotten-superpower-glt6941072856",
+          "show": "The Rest Is History",
+          "title": "131. Burgundy: Europe's Forgotten Superpower",
+          "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
         }
       ],
       "updated": "2026-09-30",
@@ -25478,9 +25492,9 @@
       "url": "/wiki/concepts/bureaucraticimpeachmentreview/"
     },
     "BurgundianCourtArt": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1331750756 [GLT1331750756].md",
@@ -25488,10 +25502,49 @@
           "show": "The Rest Is History",
           "title": "271: Belgium: History's Greatest Artist",
           "url": "/wiki/sources/271-belgium-historys-greatest-artist-glt1331750756/"
+        },
+        {
+          "episode_file": "GLT6941072856 [GLT6941072856].md",
+          "key": "131-burgundy-europes-forgotten-superpower-glt6941072856",
+          "show": "The Rest Is History",
+          "title": "131. Burgundy: Europe's Forgotten Superpower",
+          "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
         }
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/burgundiancourtart/"
+    },
+    "BurgundianStateFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6941072856 [GLT6941072856].md",
+          "key": "131-burgundy-europes-forgotten-superpower-glt6941072856",
+          "show": "The Rest Is History",
+          "title": "131. Burgundy: Europe's Forgotten Superpower",
+          "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/burgundianstateformation/"
+    },
+    "Burgundy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6941072856 [GLT6941072856].md",
+          "key": "131-burgundy-europes-forgotten-superpower-glt6941072856",
+          "show": "The Rest Is History",
+          "title": "131. Burgundy: Europe's Forgotten Superpower",
+          "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/burgundy/"
     },
     "BuridanIndecisionEffect": {
       "episode_count": 1,
@@ -31413,6 +31466,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/charlesthebad/"
+    },
+    "CharlesTheBold": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6941072856 [GLT6941072856].md",
+          "key": "131-burgundy-europes-forgotten-superpower-glt6941072856",
+          "show": "The Rest Is History",
+          "title": "131. Burgundy: Europe's Forgotten Superpower",
+          "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/charlesthebold/"
     },
     "CharlesV": {
       "episode_count": 1,
@@ -69524,9 +69593,9 @@
       "url": "/wiki/concepts/fixedcampsiegeengineering/"
     },
     "Flanders": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3100937638 [GLT3100937638].md",
@@ -69541,6 +69610,13 @@
           "show": "The Rest Is History",
           "title": "271: Belgium: History's Greatest Artist",
           "url": "/wiki/sources/271-belgium-historys-greatest-artist-glt1331750756/"
+        },
+        {
+          "episode_file": "GLT6941072856 [GLT6941072856].md",
+          "key": "131-burgundy-europes-forgotten-superpower-glt6941072856",
+          "show": "The Rest Is History",
+          "title": "131. Burgundy: Europe's Forgotten Superpower",
+          "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
         }
       ],
       "updated": "2026-09-30",
@@ -104954,6 +105030,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/jizhoulatehan/"
     },
+    "JoanOfArc": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6941072856 [GLT6941072856].md",
+          "key": "131-burgundy-europes-forgotten-superpower-glt6941072856",
+          "show": "The Rest Is History",
+          "title": "131. Burgundy: Europe's Forgotten Superpower",
+          "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/joanofarc/"
+    },
     "JoannaStern": {
       "episode_count": 4,
       "show_count": 1,
@@ -106155,9 +106247,9 @@
       "url": "/wiki/entities/johnthebaptist/"
     },
     "JohnTheFearless": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -106179,6 +106271,13 @@
           "show": "The Rest Is History",
           "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
           "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
+        },
+        {
+          "episode_file": "GLT6941072856 [GLT6941072856].md",
+          "key": "131-burgundy-europes-forgotten-superpower-glt6941072856",
+          "show": "The Rest Is History",
+          "title": "131. Burgundy: Europe's Forgotten Superpower",
+          "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
         }
       ],
       "updated": "2026-09-23",
@@ -127817,6 +127916,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/maryii/"
     },
+    "MaryOfBurgundy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6941072856 [GLT6941072856].md",
+          "key": "131-burgundy-europes-forgotten-superpower-glt6941072856",
+          "show": "The Rest Is History",
+          "title": "131. Burgundy: Europe's Forgotten Superpower",
+          "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/maryofburgundy/"
+    },
     "MaryParsons": {
       "episode_count": 1,
       "show_count": 1,
@@ -143962,6 +144077,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/orderofthegarter/"
     },
+    "OrderOfTheGoldenFleece": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6941072856 [GLT6941072856].md",
+          "key": "131-burgundy-europes-forgotten-superpower-glt6941072856",
+          "show": "The Rest Is History",
+          "title": "131. Burgundy: Europe's Forgotten Superpower",
+          "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/orderofthegoldenfleece/"
+    },
     "OrdinaryInvestorMacroBoundary": {
       "episode_count": 3,
       "show_count": 2,
@@ -149880,10 +150011,26 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/philipsheridan/"
     },
-    "PhilipTheGood": {
-      "episode_count": 2,
+    "PhilipTheBold": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6941072856 [GLT6941072856].md",
+          "key": "131-burgundy-europes-forgotten-superpower-glt6941072856",
+          "show": "The Rest Is History",
+          "title": "131. Burgundy: Europe's Forgotten Superpower",
+          "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/philipthebold/"
+    },
+    "PhilipTheGood": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -149898,6 +150045,13 @@
           "show": "The Rest Is History",
           "title": "271: Belgium: History's Greatest Artist",
           "url": "/wiki/sources/271-belgium-historys-greatest-artist-glt1331750756/"
+        },
+        {
+          "episode_file": "GLT6941072856 [GLT6941072856].md",
+          "key": "131-burgundy-europes-forgotten-superpower-glt6941072856",
+          "show": "The Rest Is History",
+          "title": "131. Burgundy: Europe's Forgotten Superpower",
+          "url": "/wiki/sources/131-burgundy-europes-forgotten-superpower-glt6941072856/"
         }
       ],
       "updated": "2026-09-30",

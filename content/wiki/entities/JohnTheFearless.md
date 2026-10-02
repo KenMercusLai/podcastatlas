@@ -6,6 +6,7 @@ sources:
   - 490-hundred-years-war-england-triumphant-part-4-glt2692942762
   - 488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983
   - 487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021
+  - 131-burgundy-europes-forgotten-superpower-glt6941072856
 last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-John the Fearless is the Burgundian duke whose pressure on the Armagnacs aided English expansion and whose murder at Montereau transformed the factional balance.
+John the Fearless is the Burgundian duke whose violent competition for French government aided English expansion and whose murder at Montereau transformed the factional balance.
 
 ## Current Profile
 
@@ -26,9 +27,11 @@ John later maneuvered between negotiation with [[HenryVOfEngland|Henry V]] and r
 
 At Montereau, John was killed by the Dauphin's servants during a controlled meeting. Regardless of whether misunderstanding or treachery caused the attack, blame attached to the Dauphin and moved John's son [[PhilipTheGood|Philip the Good]] toward England.
 
+The Burgundy episode adds John's earlier crusading reputation and sharpens the causal sequence: his murder of Orléans opens civil war, that division helps Henry V at Agincourt, and John's own killing makes the later Anglo-Burgundian settlement far more likely.
+
 ## Key Characteristics
 
-- Burgundian faction leader competing with the Armagnacs for control of France.
+- Crusade veteran and Burgundian faction leader competing with the Armagnacs for control of France.
 - Prince whose territorial and commercial position connected Burgundy, Flanders, France, and English wool interests.
 - Organizer and defender of Louis of Orléans's murder.
 - Major prince absent from Agincourt despite participation by some Burgundian kin and retainers.
@@ -45,15 +48,17 @@ At Montereau, John was killed by the Dauphin's servants during a controlled meet
 - Strategic role: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] links Burgundian advances to Henry's freedom of action in Normandy.
 - Paris and reconciliation: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] traces John's faction from Parisian victory toward talks with the Dauphin.
 - Murder and consequences: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] describes Montereau and Philip's movement toward England.
+- Long causal arc: [[131-burgundy-europes-forgotten-superpower-glt6941072856]] connects John's crusading reputation, Orléans's murder, Agincourt-era division, Montereau, and the English alliance.
 
 ## Qualifications
 
-The sources do not settle every motive behind Louis's murder, why John stayed away from Agincourt, or whether his later killing resulted from a planned betrayal or a confrontation triggered by his movement toward his sword. His relationship with England was tactical and shifting rather than a simple permanent alliance, and the source's account of the wool trade does not reduce all Burgundian policy to commerce.
+The sources do not settle every motive behind Louis's murder, including rumors about John's wife, why John stayed away from Agincourt, or whether his later killing resulted from planned betrayal or a confrontation triggered by movement toward his sword. His relationship with England was tactical and shifting rather than a permanent alliance, and wool interests do not reduce all Burgundian policy to commerce.
 
 ## What Changed
 
 - Extended John's profile backward to his territorial base, rivalry with Orléans, 1407 murder, tyrannicide defense, and Parisian mobilization.
 - Added John's politically suggestive but motive-uncertain absence from Agincourt.
+- Added the episode's crusading background and its continuous murder-civil war-English intervention-realignment sequence.
 
 ## Relationships
 
@@ -64,3 +69,4 @@ The sources do not settle every motive behind Louis's murder, why John stayed aw
 - [[CharlesVIIOfFrance]] - Dauphin blamed for John's death.
 - [[PhilipTheGood]] - son who responded by moving toward England.
 - [[TreatyOfTroyes]] - settlement made more likely by the political consequences of John's murder.
+- [[Burgundy]] - composite state whose French interests and northern wealth shaped his choices.

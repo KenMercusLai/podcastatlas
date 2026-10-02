@@ -27522,3 +27522,11 @@ Added source `132-a-christmas-carol-glt9074696790`; created `AChristmasCarol` an
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 131. Burgundy: Europe's Forgotten Superpower
+
+Added source `131-burgundy-europes-forgotten-superpower-glt6941072856`; created `Burgundy`, `PhilipTheBold`, `CharlesTheBold`, `MaryOfBurgundy`, `JoanOfArc`, `OrderOfTheGoldenFleece`, and `BurgundianStateFormation`; and resynthesized `PhilipTheGood`, `JohnTheFearless`, `Flanders`, `BartVanLoo`, `BurgundianCourtArt`, and `ArmagnacBurgundianCivilWar` from their complete preserved evidence inventories. Core synthesis: Burgundy converted dynastic marriage, Flemish urban wealth, shifting Anglo-French alliances, and quasi-royal court culture into a powerful but discontinuous state; Charles the Bold's military overreach and succession failure ended the kingdom project, while Mary of Burgundy's marriage preserved the northern inheritance under the Habsburgs. No settled contradiction was adopted. Murder motives, city populations, trade causation, Joan's undocumented encounter with Philip, contemporary-order examples, and the counterfactual survival of Burgundy remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,439-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

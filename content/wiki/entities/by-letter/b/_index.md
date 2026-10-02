@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11944
+wiki_total_pages: 11950
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1148,6 +1148,9 @@ wiki_pages:
   - key: "BurgerKing"
     title: "Burger King"
     url: "/wiki/entities/burgerking/"
+  - key: "Burgundy"
+    title: "Burgundy"
+    url: "/wiki/entities/burgundy/"
   - key: "BurkeAndHare"
     title: "Burke and Hare / 伯克与黑尔"
     url: "/wiki/entities/burkeandhare/"

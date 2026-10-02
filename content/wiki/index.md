@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [131. Burgundy: Europe's Forgotten Superpower](sources/131-burgundy-europes-forgotten-superpower-glt6941072856.md) — The Rest Is History with Bart van Loo on Burgundian state formation, Flemish wealth, French civil war, court spectacle, dynastic collapse, and Habsburg inheritance.
 - [132. A Christmas Carol](sources/132-a-christmas-carol-glt9074696790.md) — The Rest Is History walk through Dickensian London on horror, loneliness, festive warmth, literary geography, personal redemption, and structural inequality.
 - [133. Christmas churches](sources/133-christmas-churches-glt8843719433.md) — Festive The Rest Is History survey of British churches as repositories of Christmas charity, music, literature, art, calendars, folklore, film, and local memory.
 - [12 Days: Coronation of Charlemagne and the collapse of the Soviet Union](sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211.md) — The Rest Is History on Charlemagne's papal coronation and the Soviet collapse, pairing western empire-making with Gorbachev's loss of effective authority.
@@ -3499,6 +3500,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [Burgundy](entities/Burgundy.md) — Late-medieval composite state joining a French duchy to the Low Countries before military defeat and dynastic partition.
+- [Philip the Bold](entities/PhilipTheBold.md) — Valois duke whose Flemish marriage established Burgundy's durable north-south economic and dynastic base.
+- [Charles the Bold](entities/CharlesTheBold.md) — Burgundian duke whose effort to connect his lands ended in defeat, death, and succession crisis at Nancy.
+- [Mary of Burgundy](entities/MaryOfBurgundy.md) — Burgundian heir whose Habsburg marriage preserved much of the northern inheritance.
+- [Joan of Arc](entities/JoanOfArc.md) — French military-religious figure captured by Burgundian troops and transferred to the English.
+- [Order of the Golden Fleece](entities/OrderOfTheGoldenFleece.md) — Burgundian chivalric order projecting Philip the Good's quasi-royal status and surviving through Habsburg inheritance.
 - [A Christmas Carol](entities/AChristmasCarol.md) — Dickens's London ghost story joining childhood injury, financial isolation, festive warmth, social criticism, personal redemption, and adaptable fable.
 - [Rachel Morley](entities/RachelMorley.md) — Church-heritage interpreter using material details to connect British sites with wider cultural history.
 - [Friends of Friendless Churches](entities/FriendsOfFriendlessChurches.md) — British preservation organization joining care for vulnerable churches to public historical interpretation.
@@ -15484,6 +15491,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Burgundian State Formation](concepts/BurgundianStateFormation.md) — Composite-state process joining dynastic marriage, urban wealth, alliance flexibility, court integration, territorial ambition, and succession fragility.
 - [Personal Redemption and Structural Limits](concepts/PersonalRedemptionStructuralLimit.md) — Pattern in which morally serious individual change repairs harm while leaving protection dependent on voluntary virtue rather than institutional change.
 - [Church Cultural Memory](concepts/ChurchCulturalMemory.md) — Preservation and interpretation of social history through church fabric, objects, art, graves, ritual, literature, and local stories.
 - [Biological Age Measurement Boundary](concepts/BiologicalAgeMeasurementBoundary.md) — Boundary separating longitudinal clock, biomarker, glucose, wearable, and personal-baseline signals from diagnosis or demonstrated longevity benefit.
