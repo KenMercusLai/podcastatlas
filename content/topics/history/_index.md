@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2377
+topic_total_pages: 2378
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4806,6 +4806,9 @@ topic_sources:
   - key: "12-days-martin-luther-and-j-r-r-tolkien-glt9800831013"
     title: "12 Days: Martin Luther and J.R.R. Tolkien"
     url: "/wiki/sources/12-days-martin-luther-and-j-r-r-tolkien-glt9800831013/"
+  - key: "12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270"
+    title: "12 Days: Massacre of the Innocents and the Tay Bridge disaster"
+    url: "/wiki/sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270/"
   - key: "12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296"
     title: "12 Days: Nero's Succession and the Fall of the Byzantine Empire"
     url: "/wiki/sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296/"

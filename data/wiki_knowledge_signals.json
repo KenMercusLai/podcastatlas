@@ -87992,9 +87992,9 @@
       "url": "/wiki/concepts/herovillainhistoricalreduction/"
     },
     "HerodTheGreat": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3414103581 [GLT3414103581].md",
@@ -88002,9 +88002,16 @@
           "show": "The Rest Is History",
           "title": "176. The Jews Against Rome (Part 2)",
           "url": "/wiki/sources/176-the-jews-against-rome-part-2-glt3414103581/"
+        },
+        {
+          "episode_file": "GLT2451242270 [GLT2451242270].md",
+          "key": "12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270",
+          "show": "The Rest Is History",
+          "title": "12 Days: Massacre of the Innocents and the Tay Bridge disaster",
+          "url": "/wiki/sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/herodthegreat/"
     },
     "Herodotus": {
@@ -127695,6 +127702,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/massproducedaiintimacy/"
+    },
+    "MassacreOfTheInnocents": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2451242270 [GLT2451242270].md",
+          "key": "12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270",
+          "show": "The Rest Is History",
+          "title": "12 Days: Massacre of the Innocents and the Tay Bridge disaster",
+          "url": "/wiki/sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/massacreoftheinnocents/"
     },
     "MasudHusain": {
       "episode_count": 1,
@@ -168313,9 +168336,9 @@
       "url": "/wiki/concepts/sacralqueenshipandregency/"
     },
     "SacredHistorySourceCriticism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1528147434 [GLT1528147434].md",
@@ -168323,9 +168346,16 @@
           "show": "The Rest Is History",
           "title": "265: Saudi Arabia: The Mystery of the Kaaba",
           "url": "/wiki/sources/265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434/"
+        },
+        {
+          "episode_file": "GLT2451242270 [GLT2451242270].md",
+          "key": "12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270",
+          "show": "The Rest Is History",
+          "title": "12 Days: Massacre of the Innocents and the Tay Bridge disaster",
+          "url": "/wiki/sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/sacredhistorysourcecriticism/"
     },
     "SacredObjectAuthorityMigration": {
@@ -187460,6 +187490,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/taxidriver/"
     },
+    "TayBridgeDisaster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2451242270 [GLT2451242270].md",
+          "key": "12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270",
+          "show": "The Rest Is History",
+          "title": "12 Days: Massacre of the Innocents and the Tay Bridge disaster",
+          "url": "/wiki/sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/taybridgedisaster/"
+    },
     "TeaClubBarrovianSociety": {
       "episode_count": 1,
       "show_count": 1,
@@ -187642,9 +187688,9 @@
       "url": "/wiki/concepts/technicalleadershipfortechnologycompanies/"
     },
     "TechnologicalDisasterAsInstitutionalFailure": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "04.切尔诺贝利的午夜： “我要进监狱了。” [530594843].md",
@@ -187659,9 +187705,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a/"
+        },
+        {
+          "episode_file": "GLT2451242270 [GLT2451242270].md",
+          "key": "12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270",
+          "show": "The Rest Is History",
+          "title": "12 Days: Massacre of the Innocents and the Tay Bridge disaster",
+          "url": "/wiki/sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/technologicaldisasterasinstitutionalfailure/"
     },
     "TechnologicalInnovationLocalFiscalShock": {
@@ -190242,6 +190295,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/thomasbecket/"
+    },
+    "ThomasBouch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2451242270 [GLT2451242270].md",
+          "key": "12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270",
+          "show": "The Rest Is History",
+          "title": "12 Days: Massacre of the Innocents and the Tay Bridge disaster",
+          "url": "/wiki/sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/thomasbouch/"
     },
     "ThomasCook": {
       "episode_count": 2,
@@ -204373,6 +204442,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/williamjoyce/"
+    },
+    "WilliamMcGonagall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2451242270 [GLT2451242270].md",
+          "key": "12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270",
+          "show": "The Rest Is History",
+          "title": "12 Days: Massacre of the Innocents and the Tay Bridge disaster",
+          "url": "/wiki/sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/williammcgonagall/"
     },
     "WilliamMcKinley": {
       "episode_count": 2,

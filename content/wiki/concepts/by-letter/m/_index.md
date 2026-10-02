@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9253
+wiki_total_pages: 9255
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "MassProducedAIIntimacy"
     title: "Mass-Produced AI Intimacy"
     url: "/wiki/concepts/massproducedaiintimacy/"
+  - key: "MassacreOfTheInnocents"
+    title: "Massacre of the Innocents"
+    url: "/wiki/concepts/massacreoftheinnocents/"
   - key: "MaterialHistoryNarrative"
     title: "Material History Narrative"
     url: "/wiki/concepts/materialhistorynarrative/"

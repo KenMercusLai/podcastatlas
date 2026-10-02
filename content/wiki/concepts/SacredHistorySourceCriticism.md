@@ -4,7 +4,8 @@ type: concept
 tags: [historical-method, religion, source-criticism, sacred-history]
 sources:
   - 265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434
-last_updated: 2026-09-30
+  - 12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,9 @@ Sacred history source criticism is a method for distinguishing a tradition's rel
 
 The Kaaba episode begins with the Muslim account because the sanctuary cannot be understood solely as an archaeological object. It then separates Quranic references, later traditions about Adam and Abraham, disputed classical identifications, late external references, and politically charged reconstruction stories. Confidence therefore varies by claim rather than being assigned wholesale to either faith or skepticism.
 
-The method has two boundaries. Sparse external evidence prevents a definitive secular reconstruction of the earliest Kaaba, while secular uncertainty does not erase the sanctuary's lived religious reality. The episode also turns criticism back on the historian: non-belief is a standpoint, not an automatic guarantee of neutral access to a tradition's mystery, beauty, or power.
+The [[MassacreOfTheInnocents|Massacre of the Innocents]] supplies a second, textually different case. Matthew's story has a clear Moses-and-Exodus function and fits [[HerodTheGreat|Herod's]] remembered dynastic violence, but it lacks support from the other canonical Gospels and Josephus. The method therefore separates literary-theological coherence, character plausibility, liturgical commemoration, and external historical corroboration instead of allowing any one to stand in for the others.
+
+The method has two boundaries. Sparse or negative external evidence narrows what secular history can responsibly affirm, while historical uncertainty does not erase a sanctuary's lived reality or a narrative's theological and commemorative force. The Kaaba episode also turns criticism back on the historian: non-belief is a standpoint, not an automatic guarantee of neutral access to a tradition's mystery, beauty, or power.
 
 ## Key Claims
 
@@ -28,6 +31,7 @@ The method has two boundaries. Sparse external evidence prevents a definitive se
 - Ambiguous place names and analogical shrines require geographic, linguistic, chronological, and transmission testing.
 - Political interests can shape reconstruction stories without making every sacred claim reducible to propaganda.
 - Historical skepticism has its own standpoint and interpretive limits.
+- Literary pattern and character fit can explain why a sacred story works without establishing that its event occurred.
 
 ## Evidence
 
@@ -35,16 +39,18 @@ The method has two boundaries. Sparse external evidence prevents a definitive se
 - **Negative evidence boundary:** [[265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434]] finds no secure early external cross-check while refusing a definitive late-origin conclusion.
 - **Political context:** [[265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434]] reads siege and rebuilding traditions alongside Umayyad-Ibn al-Zubayr rivalry.
 - **Standpoint reflexivity:** [[265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434]] questions whether secular distance is equivalent to neutrality or complete understanding.
+- **Narrative function and corroboration:** [[12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270]] distinguishes Matthew's Moses pattern and Herodian plausibility from silence in the other Gospels and Josephus.
+- **Commemoration:** [[12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270]] shows that Childermas, martyr status, and the Coventry Carol can carry meaning even when the originating event remains doubtful.
 
 ## Counterevidence & Qualifications
 
-The episode is not a systematic review of Islamic studies, archaeology, epigraphy, Quranic scholarship, or the full revisionist debate. Sparse evidence can support multiple models, and the failure of one proposed identification does not establish another. Respect for religious meaning must not suspend ordinary evidentiary distinctions, while source criticism should not pretend to adjudicate supernatural truth or the whole significance of worship.
+The sources are not systematic reviews of Islamic studies, archaeology, epigraphy, Quranic scholarship, biblical studies, Herodian history, or the full revisionist debates. Sparse evidence can support multiple models, and the failure of one proposed identification does not establish another. Absence from expected sources may be weighty without becoming direct disproof. Respect for religious meaning must not suspend ordinary evidentiary distinctions, while source criticism should not pretend to adjudicate supernatural truth or the whole significance of worship, story, or commemoration.
 
 ## What Changed
 
-- Established a claim-by-claim method for religious tradition under sparse external evidence.
-- Added the historian's secular standpoint as an explicit interpretive qualification.
-- Distinguished lack of corroboration from proof of late invention.
+- Added a Gospel case distinguishing literary-theological function and character plausibility from event corroboration.
+- Extended the framework from sacred sites to sacred narratives and their liturgical afterlives.
+- Clarified that strong negative evidence narrows confidence without mechanically proving non-occurrence.
 
 ## Related Concepts
 
@@ -53,3 +59,5 @@ The episode is not a systematic review of Islamic studies, archaeology, epigraph
 - [[EarlyIslamicReligiousFormation]] - historical-development framework that must remain bounded by source quality.
 - [[SacredSitePoliticalLegitimacy]] - political inference tested through this source-critical method.
 - [[ArchaeologicalInterpretationUnderSparseEvidence]] - comparable problem of inference under limited material traces.
+- [[MassacreOfTheInnocents]] - Gospel case separating theological pattern, remembered character, attestation, and commemoration.
+- [[MartyrdomHistoricalMemory]] - afterlife through which doubtful or contested historical narratives can still organize sacred remembrance.
