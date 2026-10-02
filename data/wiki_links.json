@@ -3839,6 +3839,10 @@
     "title": "AI Consumer Growth Metrics",
     "url": "/wiki/concepts/aiconsumergrowthmetrics/"
   },
+  "AIConsumerProtectionEnforcement": {
+    "title": "AI Consumer Protection Enforcement",
+    "url": "/wiki/concepts/aiconsumerprotectionenforcement/"
+  },
   "AIContentCompressionLoss": {
     "title": "AI Content Compression Loss / AI内容压缩损失",
     "url": "/wiki/concepts/aicontentcompressionloss/"
@@ -6694,6 +6698,10 @@
   "AlexGMICloud": {
     "title": "Alex (GMI Cloud)",
     "url": "/wiki/entities/alexgmicloud/"
+  },
+  "AlexGibney": {
+    "title": "Alex Gibney",
+    "url": "/wiki/entities/alexgibney/"
   },
   "AlexGoldman": {
     "title": "Alex Goldman",
@@ -51327,6 +51335,10 @@
     "title": "Media Saturation and Everyday Conformity",
     "url": "/wiki/concepts/mediasaturationandeverydayconformity/"
   },
+  "MediaSelfCensorshipUnderPoliticalPressure": {
+    "title": "Media Self-Censorship Under Political Pressure",
+    "url": "/wiki/concepts/mediaselfcensorshipunderpoliticalpressure/"
+  },
   "MediaTek": {
     "title": "MediaTek",
     "url": "/wiki/entities/mediatek/"
@@ -60738,6 +60750,10 @@
   "PoliticalPerformanceSincerity": {
     "title": "Political Performance and Sincerity",
     "url": "/wiki/concepts/politicalperformancesincerity/"
+  },
+  "PoliticalPlatformAdGatekeeping": {
+    "title": "Political Platform Ad Gatekeeping",
+    "url": "/wiki/concepts/politicalplatformadgatekeeping/"
   },
   "PoliticalPluralitySharedWorld": {
     "title": "Political Plurality and the Shared World",
@@ -93210,6 +93226,10 @@
   "tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128": {
     "title": "AI-powered surveillance costs lives at the southern border",
     "url": "/wiki/sources/tech-20261001-mp-tech-pod-128-tech-20261001-mp-tech-pod-128/"
+  },
+  "tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128": {
+    "title": "Trump and tech leaders agree to voluntary AI safety accord",
+    "url": "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
   },
   "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4": {
     "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",

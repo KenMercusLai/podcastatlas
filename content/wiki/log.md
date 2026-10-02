@@ -27885,3 +27885,11 @@ Added a source page for The Rest Is History's survey of postwar German democracy
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Trump and tech leaders agree to voluntary AI safety accord
+
+Added source `tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128`; created `AlexGibney`, `AIConsumerProtectionEnforcement`, `PoliticalPlatformAdGatekeeping`, and `MediaSelfCensorshipUnderPoliticalPressure`; and resynthesized `FederalTradeCommission`, `WillOremus`, and `VoluntaryAISafetyCommitments` from their complete preserved evidence inventories. Core synthesis: a nonbinding accord can normalize internal controls, audits, and board oversight, while FTC investigation may add evidence access through existing law; both remain credible only with institutional independence, clear duties, and bounded claims. No settled contradiction was adopted. Political leverage, platform interference, and studio self-censorship remain plausible but unproven interpretations. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,485-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

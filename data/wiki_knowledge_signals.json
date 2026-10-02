@@ -1717,6 +1717,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/aiconsciousnessboundary/"
     },
+    "AIConsumerProtectionEnforcement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261002_MP_TECH_pod_128 [tech_20261002_MP_TECH_pod_128].md",
+          "key": "tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump and tech leaders agree to voluntary AI safety accord",
+          "url": "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/aiconsumerprotectionenforcement/"
+    },
     "AIContentCompressionLoss": {
       "episode_count": 1,
       "show_count": 1,
@@ -8427,6 +8443,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/alexdomash/"
+    },
+    "AlexGibney": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261002_MP_TECH_pod_128 [tech_20261002_MP_TECH_pod_128].md",
+          "key": "tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump and tech leaders agree to voluntary AI safety accord",
+          "url": "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/alexgibney/"
     },
     "AlexHearn": {
       "episode_count": 1,
@@ -68363,6 +68395,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/federalresearchfundingpoliticalrisk/"
+    },
+    "FederalTradeCommission": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ed8c760b6e391051b3e2f7c5f8f114ae_36678497 [default.mp3_ywr3ahjkcgo_ed8c760b6e391051b3e2f7c5f8f114ae_36678497].md",
+          "key": "why-is-there-a-supplement-craze-if-they-dont-even-work",
+          "show": "Planet Money",
+          "title": "Why is there a supplement craze if they don't even work?",
+          "url": "/wiki/sources/why-is-there-a-supplement-craze-if-they-dont-even-work/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_458211787fbf02aa814e0493ec76bb50_29375215 [default.mp3_ywr3ahjkcgo_458211787fbf02aa814e0493ec76bb50_29375215].md",
+          "key": "can-trump-make-buying-a-home-more-affordable",
+          "show": "Planet Money",
+          "title": "Can Trump make buying a home more affordable?",
+          "url": "/wiki/sources/can-trump-make-buying-a-home-more-affordable/"
+        },
+        {
+          "episode_file": "tech_20261002_MP_TECH_pod_128 [tech_20261002_MP_TECH_pod_128].md",
+          "key": "tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump and tech leaders agree to voluntary AI safety accord",
+          "url": "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/federaltradecommission/"
     },
     "FederalistParty": {
       "episode_count": 2,
@@ -131571,6 +131633,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/mediasaturationandeverydayconformity/"
     },
+    "MediaSelfCensorshipUnderPoliticalPressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261002_MP_TECH_pod_128 [tech_20261002_MP_TECH_pod_128].md",
+          "key": "tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump and tech leaders agree to voluntary AI safety accord",
+          "url": "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/mediaselfcensorshipunderpoliticalpressure/"
+    },
     "MedicalAIRobotCollaborationBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -155060,6 +155138,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/politicalperformancesincerity/"
+    },
+    "PoliticalPlatformAdGatekeeping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261002_MP_TECH_pod_128 [tech_20261002_MP_TECH_pod_128].md",
+          "key": "tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump and tech leaders agree to voluntary AI safety accord",
+          "url": "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/politicalplatformadgatekeeping/"
     },
     "PoliticalPluralitySharedWorld": {
       "episode_count": 1,
@@ -203529,9 +203623,9 @@
       "url": "/wiki/entities/voltaire/"
     },
     "VoluntaryAISafetyCommitments": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "tech_20260731_0731_MP_TECH_pod_128 [tech_20260731_0731_MP_TECH_pod_128].md",
@@ -203567,9 +203661,16 @@
           "show": "Marketplace Tech",
           "title": "AI safety requires action, not promises",
           "url": "/wiki/sources/tech-20260916-mp-tech-pod-128-tech-20260916-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261002_MP_TECH_pod_128 [tech_20261002_MP_TECH_pod_128].md",
+          "key": "tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump and tech leaders agree to voluntary AI safety accord",
+          "url": "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/voluntaryaisafetycommitments/"
     },
     "VrbaWetzlerReport": {
@@ -208975,6 +209076,36 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/willmarshall/"
+    },
+    "WillOremus": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260824_MP_TECH_pod_128 [tech_20260824_MP_TECH_pod_128].md",
+          "key": "tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI loves negative parallelism",
+          "url": "/wiki/sources/tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
+          "key": "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI model unintentionally hacks another company's system",
+          "url": "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261002_MP_TECH_pod_128 [tech_20261002_MP_TECH_pod_128].md",
+          "key": "tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump and tech leaders agree to voluntary AI safety accord",
+          "url": "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/willoremus/"
     },
     "WilliamCecil": {
       "episode_count": 4,

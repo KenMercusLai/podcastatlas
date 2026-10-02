@@ -3544,6 +3544,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Your Nervous System to Enhance Your Immune System](sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690.md) — Huberman Lab solo episode on layered immunity, sickness signaling, sleep, acute sympathetic activation, heat boundaries, and site-specific electroacupuncture mechanisms.
 
 - [Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar](sources/scim9724505974-scim9724505974.md) — Huberman Lab interview on melanopsin light sensing, circadian alignment, mood pathways, meal and exercise timing, and internal-time-aware travel adaptation.
+- [Trump and tech leaders agree to voluntary AI safety accord](sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128.md) — Marketplace Tech on a voluntary AI safety accord, FTC scrutiny of AI labs, and documentary-ad reversals under platform and political pressure.
 
 ## Entities
 - [Ludwig Erhard](entities/LudwigErhard.md) — Economist and Adenauer successor presented as a technocrat whose expertise did not produce durable political authority.
@@ -9985,7 +9986,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [USAID](entities/USAID.md) — Aid agency used in the source as the humanitarian-consequence test for DOGE-style cuts.
 - [Orange House](entities/OrangeHouseLebanon.md) — Mona Khalil and Habiba Fayed's Lebanese B&B and turtle-conservation center.
 - [Habiba Fayed](entities/HabibaFayed.md) — Mona Khalil's collaborator in restoring and running the Orange House conservation hub.
-- [Will Oremus](entities/WillOremus.md) — Technology commentator and Atlantic writer tying AI benchmark gaming, social-media age bans, Apple device leasing, and AI-writing tics to incentive and control problems.
+- [Will Oremus](entities/WillOremus.md) — Atlantic technology journalist connecting AI behavior, voluntary safety, enforcement, platform policy, and media power through incentive analysis.
 - [Hugging Face](entities/HuggingFace.md) — AI platform company named as the outside system accessed in the source-scoped OpenAI model sandbox incident.
 - [Klarna](entities/Klarna.md) — Reported Apple financing partner in the Marketplace Tech discussion of lease-like device access.
 - [Face (硅谷101)](entities/FaceSiliconValley101.md) — 硅谷101 host/narrator using personal ChatGPT interaction, journalism labor, sycophantic AI, and verification concerns to frame E245.
@@ -12682,7 +12683,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Smirks](entities/Smirks.md) — U.S. importer that pitched tara flour to Daily Harvest in the episode's supply-chain account.
 - [Molinos (Peru)](entities/MolinosPeru.md) — Peruvian producer identified in the episode as the upstream tara-flour manufacturer.
 - [Chobani](entities/Chobani.md) — Food company that later purchased Daily Harvest, used in the episode's limited-consequences frame.
-- [Federal Trade Commission](entities/FederalTradeCommission.md) — U.S. advertising regulator in the Prevagen false-advertising case.
+- [Federal Trade Commission](entities/FederalTradeCommission.md) — U.S. consumer-protection and antitrust regulator represented through supplement advertising, housing-investor scrutiny, and frontier-AI investigation.
 - [Prevagen](entities/Prevagen.md) — Memory supplement used as the episode's case study in weak oversight, GRAS routing, and delayed advertising enforcement.
 - [Mark Underwood](entities/MarkUnderwood.md) — Prevagen-linked figure in the episode's jellyfish-protein origin story.
 - [NeuroShake](entities/NeuroShake.md) — Food product used in the episode to illustrate the GRAS self-certification route behind a supplement ingredient.
@@ -15624,6 +15625,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 - [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
+- [Alex Gibney](entities/AlexGibney.md) — Documentary filmmaker whose Elon Musk film became a case study in platform ad review, reversal, and suspected political pressure.
 
 ## Concepts
 - [Ostpolitik](concepts/Ostpolitik.md) — West German normalization strategy joining practical eastern diplomacy to Brandt-era reconciliation.
@@ -20608,7 +20610,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Safety Ideal Fatal Contradiction](concepts/SafetyIdealFatalContradiction.md) — Pattern where a space organized around protection produces a fatal outcome against someone it claimed to protect.
 - [Chatbot Memory Salience Failure](concepts/ChatbotMemorySalienceFailure.md) — Failure mode where a chatbot remembers a fact but misjudges its importance, sensitivity, timing, or conversational relevance.
 - [AI Lab Safety Report Cards](concepts/AILabSafetyReportCards.md) — External scorecard approach for comparing frontier AI labs' model testing, whistleblower policies, current harms, military posture, and safety commitments.
-- [Voluntary AI Safety Commitments](concepts/VoluntaryAISafetyCommitments.md) — Nonbinding AI-company safety promises whose credibility depends on observable action, independent access, consequences, and feasible participation.
+- [Voluntary AI Safety Commitments](concepts/VoluntaryAISafetyCommitments.md) — Nonbinding AI-company safety promises and accords whose credibility depends on observable action, independent access, consequences, and feasible participation.
 - [Unilateral AI Pause Commitments](concepts/UnilateralAIPauseCommitments.md) — Stronger pause pledges that should trigger at dangerous capability thresholds even if competitors keep developing.
 - [Tool AI Human Control](concepts/ToolAIHumanControl.md) — Safety-governance path where AI systems remain tools under human direction rather than treating superintelligence as necessary or inevitable.
 - [Physical Intelligence System Stack](concepts/PhysicalIntelligenceSystemStack.md) — Yao Song's definition of physical intelligence as data, compute, models, software, hardware, scenes, solutions, and remote systems working together.
@@ -25021,5 +25023,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scripted Murder Role-Play / 剧本杀](concepts/ScriptedMurderRolePlay.md) — Facilitated social game combining character performance, asymmetric information, evidence exchange, and collective story reconstruction.
 - [Facilitated Immersive Play / 引导式沉浸游戏](concepts/FacilitatedImmersivePlay.md) — Experience model joining scenario quality, role fit, facilitation, and sustained participant attention.
 - [One-Shot Collaborative Narrative Memory / 一次性共同叙事记忆](concepts/OneShotCollaborativeNarrativeMemory.md) — Shared memory created when a repeatable story becomes a singular event through one group's choices and interaction.
+- [AI Consumer Protection Enforcement](concepts/AIConsumerProtectionEnforcement.md) — Application of existing deception, unfair-practice, marketing, safety, and data-handling law to AI products.
+- [Political Platform Ad Gatekeeping](concepts/PoliticalPlatformAdGatekeeping.md) — Platform control over classifying, rejecting, restricting, and approving paid political or issue-related promotion.
+- [Media Self-Censorship Under Political Pressure](concepts/MediaSelfCensorshipUnderPoliticalPressure.md) — Anticipatory restriction by media firms seeking to avoid political, legal, regulatory, or access costs without a direct censorship order.
 
 ## Syntheses

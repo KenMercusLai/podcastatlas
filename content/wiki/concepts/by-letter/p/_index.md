@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9343
+wiki_total_pages: 9346
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1109,6 +1109,9 @@ wiki_pages:
   - key: "PoliticalPerformanceSincerity"
     title: "Political Performance and Sincerity"
     url: "/wiki/concepts/politicalperformancesincerity/"
+  - key: "PoliticalPlatformAdGatekeeping"
+    title: "Political Platform Ad Gatekeeping"
+    url: "/wiki/concepts/politicalplatformadgatekeeping/"
   - key: "PoliticalPluralitySharedWorld"
     title: "Political Plurality and the Shared World"
     url: "/wiki/concepts/politicalpluralitysharedworld/"

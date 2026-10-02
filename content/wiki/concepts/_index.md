@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9343
+wiki_total_pages: 9346
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -806,6 +806,9 @@ wiki_pages:
   - key: "AIConsumerGrowthMetrics"
     title: "AI Consumer Growth Metrics"
     url: "/wiki/concepts/aiconsumergrowthmetrics/"
+  - key: "AIConsumerProtectionEnforcement"
+    title: "AI Consumer Protection Enforcement"
+    url: "/wiki/concepts/aiconsumerprotectionenforcement/"
   - key: "AIContentCompressionLoss"
     title: "AI Content Compression Loss / AI内容压缩损失"
     url: "/wiki/concepts/aicontentcompressionloss/"

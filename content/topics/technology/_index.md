@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3262
+topic_total_pages: 3264
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -316,6 +316,9 @@ topic_concepts:
   - key: "AIConsumerGrowthMetrics"
     title: "AI Consumer Growth Metrics"
     url: "/wiki/concepts/aiconsumergrowthmetrics/"
+  - key: "AIConsumerProtectionEnforcement"
+    title: "AI Consumer Protection Enforcement"
+    url: "/wiki/concepts/aiconsumerprotectionenforcement/"
   - key: "AIContentCompressionLoss"
     title: "AI Content Compression Loss / AI内容压缩损失"
     url: "/wiki/concepts/aicontentcompressionloss/"
@@ -9393,6 +9396,9 @@ topic_sources:
   - key: "tsr-s2-trevorblackwell-v2"
     title: "Trevor Blackwell on Viaweb, Robots, and Early Y Combinator"
     url: "/wiki/sources/tsr-s2-trevorblackwell-v2/"
+  - key: "tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128"
+    title: "Trump and tech leaders agree to voluntary AI safety accord"
+    url: "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
   - key: "tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128"
     title: "Uncanny AI: Why AI bots remember random, sometimes useless information"
     url: "/wiki/sources/tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128/"

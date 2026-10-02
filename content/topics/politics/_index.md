@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2995
+topic_total_pages: 2999
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -112,6 +112,9 @@ topic_concepts:
   - key: "AICompetitionAntitrustRemedy"
     title: "AI Competition Antitrust Remedy"
     url: "/wiki/concepts/aicompetitionantitrustremedy/"
+  - key: "AIConsumerProtectionEnforcement"
+    title: "AI Consumer Protection Enforcement"
+    url: "/wiki/concepts/aiconsumerprotectionenforcement/"
   - key: "AIContentLabelingAndFiltering"
     title: "AI Content Labeling and Filtering"
     url: "/wiki/concepts/aicontentlabelingandfiltering/"
@@ -2383,6 +2386,9 @@ topic_concepts:
   - key: "MediaOwnershipIndependenceRisk"
     title: "Media Ownership Independence Risk"
     url: "/wiki/concepts/mediaownershipindependencerisk/"
+  - key: "MediaSelfCensorshipUnderPoliticalPressure"
+    title: "Media Self-Censorship Under Political Pressure"
+    url: "/wiki/concepts/mediaselfcensorshipunderpoliticalpressure/"
   - key: "MedicalDeviceClinicalValidation"
     title: "Medical Device Clinical Validation"
     url: "/wiki/concepts/medicaldeviceclinicalvalidation/"
@@ -2932,6 +2938,9 @@ topic_concepts:
   - key: "PoliticalPerformanceSincerity"
     title: "Political Performance and Sincerity"
     url: "/wiki/concepts/politicalperformancesincerity/"
+  - key: "PoliticalPlatformAdGatekeeping"
+    title: "Political Platform Ad Gatekeeping"
+    url: "/wiki/concepts/politicalplatformadgatekeeping/"
   - key: "PoliticalPluralitySharedWorld"
     title: "Political Plurality and the Shared World"
     url: "/wiki/concepts/politicalpluralitysharedworld/"
@@ -8523,6 +8532,9 @@ topic_sources:
   - key: "trial-and-terror-russia-escalates-kyiv-campaign-6abe39c382177b9ab8a8904c"
     title: "Trial and terror: Russia escalates Kyiv campaign"
     url: "/wiki/sources/trial-and-terror-russia-escalates-kyiv-campaign-6abe39c382177b9ab8a8904c/"
+  - key: "tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128"
+    title: "Trump and tech leaders agree to voluntary AI safety accord"
+    url: "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
   - key: "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128"
     title: "Trump rejects AI's \"effective altruism\" movement"
     url: "/wiki/sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128/"
