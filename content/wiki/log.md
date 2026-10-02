@@ -27661,3 +27661,11 @@ Added source `scim2746317304-scim2746317304`; created `TimePerceptionAndNeuroche
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 120. The Oil Weapon
+
+Added source `120-the-oil-weapon-glt6620754143`; created `KingFaisal` and `OilCrisis1973`; and resynthesized `OPEC`, `SevenSistersOilMajors`, `EdwardHeath`, and `ThreeDayWeekUK1974` from their complete preserved evidence inventories. Core synthesis: the Yom Kippur War triggered a shock whose force came from rising Western consumption, import dependence, decolonization, producer sovereignty, and the weakening of the older company-centered order; in Britain that external shock combined with inflation, wage controls, coal dependence, and miners' leverage rather than causing the three-day week alone. No settled contradiction was adopted. The episode's broad OPEC language is qualified because the 1973 price, production, and embargo measures were related but not one OPEC-wide policy; figures, motives, environmental effects, public anecdotes, and preparedness claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,456-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide scanner retains 19 unrelated pre-existing broken wikilinks.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

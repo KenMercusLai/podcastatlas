@@ -345,6 +345,18 @@
       "url": "/topics/history/"
     }
   ],
+  "120-the-oil-weapon-glt6620754143": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "121-australia-before-cook-glt2957294549": [
     {
       "key": "history",
@@ -47032,6 +47044,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "KingFaisal": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "KinleySalmon": [
     {
       "key": "politics",
@@ -58410,6 +58429,23 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "OilCrisis1973": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "OilDependencyBlackoutRisk": [

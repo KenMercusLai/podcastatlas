@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [120. The Oil Weapon](sources/120-the-oil-weapon-glt6620754143.md) — The Rest Is History on the 1973 oil crisis, producer leverage, Western dependence, Britain's three-day week, conservation, and the end of easy abundance.
 - [Time Perception & Entrainment by Dopamine, Serotonin & Hormones](sources/scim2746317304-scim2746317304.md) — Huberman Lab episode on biological entrainment, neurochemical state, present and remembered duration, work rhythms, and flexible temporal landmarks.
 - [121. Australia Before Cook](sources/121-australia-before-cook-glt2957294549.md) — The Rest Is History with David Hunt on Aboriginal deep time, oral traditions, Makassan exchange, pre-Cook contact, discovery myths, and contingent British settlement.
 - [122. Athelstan: England's Greatest Monarch](sources/122-athelstan-englands-greatest-monarch-glt8211065813.md) — The Rest Is History episode on Athelstan's Mercian formation, 927 unification, law, coinage, Christian kingship, diplomacy, Brunanburh, and specialist recovery.
@@ -3516,6 +3517,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 
 ## Entities
+- [King Faisal](entities/KingFaisal.md) — Saudi monarch who linked Western support for Israel to the political security of cheap Arab oil.
 - [David Hunt](entities/DavidHunt.md) — Australian historian and broadcaster who separates Cook's navigational achievement from discovery mythology and Indigenous deep history.
 - [Edward the Elder](entities/EdwardTheElder.md) — Alfred's son and successor whose campaigns with Æthelflæd extended West Saxon-Mercian power before Athelstan's unification.
 - [Æthelflæd](entities/Aethelflaed.md) — Mercian ruler whose burhs, campaigns, sacred politics, and guardianship of Athelstan helped bridge Alfredian survival and English unification.
@@ -15539,6 +15541,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [1973 Oil Crisis](concepts/OilCrisis1973.md) — Price, supply, and geopolitical shock that exposed Western import dependence and shifted visible leverage toward producing states.
 - [Time Perception and Neurochemical State](concepts/TimePerceptionAndNeurochemicalState.md) — State-dependent model separating present, prospective, and retrospective duration judgments.
 - [Australian Deep Time and Oral Continuity](concepts/AustralianDeepTimeAndOralContinuity.md) — Archaeological, genetic, linguistic, oral, legal, and landscape evidence for Aboriginal Australian history across deep time.
 - [Pre-British Australian Contact](concepts/PreBritishAustralianContact.md) — Evidence-ranked history of Makassan exchange and European maritime contact before Cook's 1770 voyage.

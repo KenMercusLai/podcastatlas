@@ -56157,9 +56157,9 @@
       "url": "/wiki/entities/edwardgrey/"
     },
     "EdwardHeath": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT9519811642 [GLT9519811642].md",
@@ -56202,6 +56202,13 @@
           "show": "The Rest Is History",
           "title": "417. Britain in 1974: State of Emergency (Part 1)",
           "url": "/wiki/sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949/"
+        },
+        {
+          "episode_file": "GLT6620754143 [GLT6620754143].md",
+          "key": "120-the-oil-weapon-glt6620754143",
+          "show": "The Rest Is History",
+          "title": "120. The Oil Weapon",
+          "url": "/wiki/sources/120-the-oil-weapon-glt6620754143/"
         }
       ],
       "updated": "2026-09-27",
@@ -110024,6 +110031,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/kinderhymne/"
     },
+    "KingFaisal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6620754143 [GLT6620754143].md",
+          "key": "120-the-oil-weapon-glt6620754143",
+          "show": "The Rest Is History",
+          "title": "120. The Oil Weapon",
+          "url": "/wiki/sources/120-the-oil-weapon-glt6620754143/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/kingfaisal/"
+    },
     "KingSolomonsMines": {
       "episode_count": 1,
       "show_count": 1,
@@ -142469,6 +142492,50 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/ocdorderpressure/"
     },
+    "OPEC": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "Pump and circumstance： is China the new OPEC？ [6a7c37287cf3c58886773a66].md",
+          "key": "pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66",
+          "show": "Economist Podcasts",
+          "title": "Pump and circumstance: is China the new OPEC?",
+          "url": "/wiki/sources/pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586 [default.mp3_ywr3ahjkcgo_daf859cd7d85a829a02ba1b45d4a0aa9_34350586].md",
+          "key": "chevron-venezuela-and-the-paradox-of-plenty",
+          "show": "Planet Money",
+          "title": "Chevron, Venezuela and the Paradox of Plenty",
+          "url": "/wiki/sources/chevron-venezuela-and-the-paradox-of-plenty/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_ee9c680c4f023a27ab50db1b774d6ff0_24044984 [default.mp3_ywr3ahjkcgo_ee9c680c4f023a27ab50db1b774d6ff0_24044984].md",
+          "key": "venezuelas-recent-economic-history-update",
+          "show": "Planet Money",
+          "title": "Venezuela's recent economic history (Update)",
+          "url": "/wiki/sources/venezuelas-recent-economic-history-update/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6de40aadb0709698bbe625e5508949b5_29033608 [default.mp3_ywr3ahjkcgo_6de40aadb0709698bbe625e5508949b5_29033608].md",
+          "key": "the-secret-meeting-that-launched-opec",
+          "show": "Planet Money",
+          "title": "The secret meeting that launched OPEC",
+          "url": "/wiki/sources/the-secret-meeting-that-launched-opec/"
+        },
+        {
+          "episode_file": "GLT6620754143 [GLT6620754143].md",
+          "key": "120-the-oil-weapon-glt6620754143",
+          "show": "The Rest Is History",
+          "title": "120. The Oil Weapon",
+          "url": "/wiki/sources/120-the-oil-weapon-glt6620754143/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/opec/"
+    },
     "Oakley": {
       "episode_count": 1,
       "show_count": 1,
@@ -143443,6 +143510,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/oilconcessionbargaining/"
+    },
+    "OilCrisis1973": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6620754143 [GLT6620754143].md",
+          "key": "120-the-oil-weapon-glt6620754143",
+          "show": "The Rest Is History",
+          "title": "120. The Oil Weapon",
+          "url": "/wiki/sources/120-the-oil-weapon-glt6620754143/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/oilcrisis1973/"
     },
     "OilNationalization": {
       "episode_count": 3,
@@ -174119,6 +174202,29 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/sevenlearnings/"
     },
+    "SevenSistersOilMajors": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6de40aadb0709698bbe625e5508949b5_29033608 [default.mp3_ywr3ahjkcgo_6de40aadb0709698bbe625e5508949b5_29033608].md",
+          "key": "the-secret-meeting-that-launched-opec",
+          "show": "Planet Money",
+          "title": "The secret meeting that launched OPEC",
+          "url": "/wiki/sources/the-secret-meeting-that-launched-opec/"
+        },
+        {
+          "episode_file": "GLT6620754143 [GLT6620754143].md",
+          "key": "120-the-oil-weapon-glt6620754143",
+          "show": "The Rest Is History",
+          "title": "120. The Oil Weapon",
+          "url": "/wiki/sources/120-the-oil-weapon-glt6620754143/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/sevensistersoilmajors/"
+    },
     "SevenYearsWar": {
       "episode_count": 2,
       "show_count": 1,
@@ -192631,9 +192737,9 @@
       "url": "/wiki/concepts/threatchallengestressreappraisal/"
     },
     "ThreeDayWeekUK1974": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6761791949 [GLT6761791949].md",
@@ -192648,6 +192754,13 @@
           "show": "The Rest Is History",
           "title": "418. Britain in 1974: The Crisis Election (Part 2)",
           "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
+        },
+        {
+          "episode_file": "GLT6620754143 [GLT6620754143].md",
+          "key": "120-the-oil-weapon-glt6620754143",
+          "show": "The Rest Is History",
+          "title": "120. The Oil Weapon",
+          "url": "/wiki/sources/120-the-oil-weapon-glt6620754143/"
         }
       ],
       "updated": "2026-09-27",

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2395
+topic_total_pages: 2396
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4842,6 +4842,9 @@ topic_sources:
   - key: "12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363"
     title: "12 Days: The Murder of Thomas Becket and the Wounded Knee Massacre"
     url: "/wiki/sources/12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363/"
+  - key: "120-the-oil-weapon-glt6620754143"
+    title: "120. The Oil Weapon"
+    url: "/wiki/sources/120-the-oil-weapon-glt6620754143/"
   - key: "120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218"
     title: "120.蓝狐岛：伟大事业中的雄心与现实"
     url: "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"

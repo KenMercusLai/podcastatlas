@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9290
+wiki_total_pages: 9291
 wiki_pages:
+  - key: "OilCrisis1973"
+    title: "1973 Oil Crisis"
+    url: "/wiki/concepts/oilcrisis1973/"
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
     url: "/wiki/concepts/onetoonetooneallocation/"

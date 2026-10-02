@@ -5,11 +5,14 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2978
+topic_total_pages: 2981
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
     url: "/wiki/concepts/chileancoup1973/"
+  - key: "OilCrisis1973"
+    title: "1973 Oil Crisis"
+    url: "/wiki/concepts/oilcrisis1973/"
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
     url: "/wiki/concepts/a2atransactionnorms/"
@@ -6128,6 +6131,9 @@ topic_entities:
   - key: "KimJongUn"
     title: "Kim Jong Un"
     url: "/wiki/entities/kimjongun/"
+  - key: "KingFaisal"
+    title: "King Faisal"
+    url: "/wiki/entities/kingfaisal/"
   - key: "KinleySalmon"
     title: "Kinley Salmon"
     url: "/wiki/entities/kinleysalmon/"
@@ -7860,6 +7866,9 @@ topic_sources:
   - key: "119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087"
     title: "119.安乐死现场：正因生命如此珍贵"
     url: "/wiki/sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087/"
+  - key: "120-the-oil-weapon-glt6620754143"
+    title: "120. The Oil Weapon"
+    url: "/wiki/sources/120-the-oil-weapon-glt6620754143/"
   - key: "139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf"
     title: "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？"
     url: "/wiki/sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf/"

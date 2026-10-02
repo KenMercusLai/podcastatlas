@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2163
+topic_total_pages: 2164
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -13,6 +13,9 @@ topic_concepts:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
     url: "/wiki/concepts/hongkong1973stockmarketcrash/"
+  - key: "OilCrisis1973"
+    title: "1973 Oil Crisis"
+    url: "/wiki/concepts/oilcrisis1973/"
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
     url: "/wiki/concepts/onetoonetooneallocation/"

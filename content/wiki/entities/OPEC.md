@@ -2,32 +2,64 @@
 title: "OPEC"
 type: entity
 tags: [organization, energy, oil, geopolitics]
-sources: [pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66, chevron-venezuela-and-the-paradox-of-plenty, venezuelas-recent-economic-history-update, the-secret-meeting-that-launched-opec]
-last_updated: 2026-08-12
+sources:
+  - pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66
+  - chevron-venezuela-and-the-paradox-of-plenty
+  - venezuelas-recent-economic-history-update
+  - the-secret-meeting-that-launched-opec
+  - 120-the-oil-weapon-glt6620754143
+last_updated: 2026-10-02
+knowledge_schema: synthesis-v1
 ---
 
 # OPEC
 
-[[pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66]] adds a demand-side contrast to OPEC's producer-side market power. The episode argues that [[China]] helped stabilize prices after the [[StraitOfHormuz]] shock by cutting crude imports, drawing on stockpiles, limiting refined-product exports, and reducing fuel use. That makes the title's "new OPEC" framing deliberately nonliteral: China is compared with OPEC because it moved oil prices, but its mechanism is [[DemandSideOilMarketPower]] rather than [[OilProducerSupplyCoordination]].
+## Overview
 
-[[chevron-venezuela-and-the-paradox-of-plenty]] adds the Venezuela-centered prehistory behind OPEC. The episode says [[JuanPabloPerezAlfonso]] helped move [[Venezuela]] from bilateral [[OilConcessionBargaining]] toward producer-country coordination, joining Iran, Iraq, Saudi Arabia, and Kuwait to form OPEC so oil states would not simply compete against one another.
+OPEC is the producer-state organization formed by Iran, Iraq, Kuwait, Saudi Arabia, and Venezuela to increase oil-exporting countries' leverage over company pricing, production terms, and the distribution of petroleum value.
 
-OPEC appears in [[the-secret-meeting-that-launched-opec]] as the oil-producing-state organization created after producer countries saw the limits of company-controlled oil pricing under the [[SevenSistersOilMajors|Seven Sisters]]. The episode presents OPEC's origin as a bargaining response: states that supplied oil wanted more leverage over contracts, posted prices, and the distribution of value.
+## Current Profile
 
-The page's central role in the wiki is as a case of [[OilProducerSupplyCoordination]]. The episode says OPEC was not born with immediate price-setting power; it became influential only after the 1973 oil shock showed that coordinated production cuts could move prices. That makes OPEC a bridge between commodity history, geopolitics, and the institutional difficulty of keeping sovereign members aligned.
+The bounded evidence places OPEC between the older power of the [[SevenSistersOilMajors|Seven Sisters]] and the recurring difficulty of coordinating sovereign producers. [[chevron-venezuela-and-the-paradox-of-plenty]] supplies the Venezuela-centered route through [[JuanPabloPerezAlfonso]] and [[OilConcessionBargaining]], while [[the-secret-meeting-that-launched-opec]] shows the organization beginning as a consultative response to unilateral company price cuts rather than an immediately powerful price setter.
 
-The source also makes OPEC structurally fragile. [[ProductionQuotaDiscipline]] is hard because each member has an incentive to sell extra barrels when prices are high. [[SaudiArabia]]'s [[SwingProducerRole]] can stabilize the group, but it also concentrates adjustment pain on one member and can trigger retaliation when others cheat.
+The [[OilCrisis1973|1973 oil crisis]] made producer leverage visible, but the sources require institutional precision. [[120-the-oil-weapon-glt6620754143]] uses OPEC broadly for the Vienna negotiations and subsequent Gulf and Arab action; [[the-secret-meeting-that-launched-opec]] explicitly says the production cuts and embargo were not an OPEC-wide policy. The synthesis therefore treats 1973 as a demonstration that coordinated supply could move markets without attributing every measure to the full organization.
 
-[[venezuelas-recent-economic-history-update]] adds OPEC from the dependent-producer side. The source says [[NicolasMaduro]] appealed to OPEC for help after oil prices collapsed in 2014, showing how a member state's domestic fiscal and currency system can become exposed when oil coordination does not preserve enough revenue.
+Later evidence shows persistent coordination limits. Quotas create incentives to cheat, [[SaudiArabia]]'s [[SwingProducerRole]] concentrates adjustment costs, oil-dependent members remain vulnerable when prices fall, chokepoints can overwhelm formal output decisions, and [[DemandSideOilMarketPower|large-consumer flexibility]] can also move prices.
 
-## Connections
-- [[JuanPabloPerezAlfonso]] and [[OilConcessionBargaining]] - Venezuela-centered bargaining and coordination branch added by the Chevron source.
-- [[SevenSistersOilMajors]] - predecessor company power structure that OPEC pushed against.
-- [[WandaJablonski]] - journalist whose reporting and relationships helped producer officials understand the oil-company structure.
-- [[OilProducerSupplyCoordination]] - core market-power mechanism.
-- [[ProductionQuotaDiscipline]] and [[SwingProducerRole]] - quota and stabilization mechanisms.
-- [[SaudiArabia]], [[UnitedArabEmirates|United Arab Emirates]], [[Venezuela]], and [[Iran]] - source countries tied to OPEC's founding, operations, or later conflict.
-- [[NicolasMaduro]], [[OilRevenueDependence]], and [[CurrencyControlTrap]] - Venezuela collapse branch added by Planet Money.
-- [[GreenParadox]] - long-term demand-collapse incentive that the source uses to explain UAE pressure to pump more.
-- [[StraitOfHormuz]] and [[ChokepointShippingConfidence]] - shipping layer that can overwhelm formal supply decisions.
-- [[China]], [[MathieuFavasse]], and [[DemandSideOilMarketPower]] - consumer-side oil-market influence added by the Pump and circumstance episode.
+## Key Characteristics
+
+- Producer-state organization created in response to company control over posted prices and concessions.
+- Founded through cooperation among Middle Eastern producers and Venezuela.
+- Became a central vehicle for [[OilProducerSupplyCoordination]] without directly setting retail fuel prices.
+- Gained credibility after the 1973 shock demonstrated producer leverage.
+- Remains constrained by member sovereignty, quota cheating, unequal adjustment burdens, and geopolitical conflict.
+- Operates alongside demand-side power, shipping constraints, and producer revenue dependence.
+
+## Evidence
+
+- Origins and bargaining: [[chevron-venezuela-and-the-paradox-of-plenty]] and [[the-secret-meeting-that-launched-opec]] connect Perez Alfonso, producer grievances, company price cuts, and the move from bilateral bargaining to coordination.
+- 1973 leverage and scope: [[120-the-oil-weapon-glt6620754143]] describes Vienna negotiations and Gulf and Arab action, while [[the-secret-meeting-that-launched-opec]] distinguishes those measures from an OPEC-wide policy.
+- Coordination discipline: [[the-secret-meeting-that-launched-opec]] connects quotas, cheating, Saudi adjustment, UAE pressure, and Hormuz constraints.
+- Producer vulnerability: [[venezuelas-recent-economic-history-update]] shows Maduro appealing to OPEC after the 2014 price collapse.
+- Demand-side contrast: [[pump-and-circumstance-is-china-the-new-opec-6a7c37287cf3c58886773a66]] shows China moving prices through imports, stocks, refining, and consumption rather than producer quotas.
+
+## Qualifications
+
+OPEC is not a unitary actor that automatically controls price. The sources distinguish posted prices, crude supply, retail fuel prices, transport constraints, national embargo decisions, and OPEC-wide policy. The 1973 terminology remains especially important: broad public shorthand should not collapse Arab-exporter action into a unanimous organizational decision. Claims about the UAE's 2026 exit and current influence remain source-attributed.
+
+## What Changed
+
+- Clarified the difference between OPEC-wide coordination and the distinct Arab and Gulf measures of 1973.
+- Added King Faisal's alliance-and-pressure context to the shift in producer power.
+- Preserved the view of 1973 as a market-power demonstration without turning OPEC into a unitary price setter.
+
+## Relationships
+
+- [[SevenSistersOilMajors]] - company-centered order that producer coordination challenged.
+- [[JuanPabloPerezAlfonso]] - Venezuelan architect of producer-country cooperation.
+- [[OilProducerSupplyCoordination]] - core market mechanism associated with the organization.
+- [[ProductionQuotaDiscipline]] - recurring problem of enforcing agreed output limits.
+- [[SwingProducerRole]] - Saudi stabilization role that concentrates adjustment costs.
+- [[OilCrisis1973]] - episode that demonstrated producer leverage while requiring institutional qualification.
+- [[DemandSideOilMarketPower]] - consumer-side mechanism that can also influence prices.
+- [[StraitOfHormuz]] - chokepoint capable of limiting usable supply regardless of formal output decisions.
