@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12090
+wiki_total_pages: 12092
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "CheckersDog"
     title: "Checkers"
     url: "/wiki/entities/checkersdog/"
+  - key: "CheckpointCharlie"
+    title: "Checkpoint Charlie"
+    url: "/wiki/entities/checkpointcharlie/"
   - key: "ChelanPUD"
     title: "Chelan PUD"
     url: "/wiki/entities/chelanpud/"

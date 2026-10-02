@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [83. The Berlin Wall](sources/83-the-berlin-wall-glt1824879961.md) — The Rest Is History with Ian McGregor on Berlin's postwar division, Operation Rose, escape attempts, Checkpoint Charlie, cultural pressure, and the contingent opening of 1989.
 - [84. Exams](sources/84-exams-glt6507641896.md) — The Rest Is History with Daisy Christodoulou on examination history, comparative judgment, standardization, mobility, elite overproduction, and teacher-assessment bias.
 - [86. The Enlightenment](sources/86-the-enlightenment-glt8077157127.md) — The Rest Is History on the Enlightenment as a plural Christian-European transformation joining social infrastructure and universal claims to religion, science, racism, and colonial hierarchy.
 - [Understanding & Treating Addiction | Dr. Anna Lembke](sources/understanding-treating-addiction-dr-anna-lembke-scim9435481929.md) — Huberman Lab interview on the pleasure-pain balance, dopamine adaptation, behavioral addiction, abstinence, relapse, community, truth-telling, and treatment boundaries.
@@ -3575,6 +3576,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Control Your Sense of Pain & Pleasure](sources/scim2452395341-scim2452395341.md) — Early Huberman Lab solo episode on context-sensitive pain and pleasure, sensory maps, expectation, dopamine anticipation, opponent-process adaptation, and bounded pain tools.
 
 ## Entities
+- [Checkpoint Charlie](entities/CheckpointCharlie.md) — Berlin Wall crossing where Allied access rights, East German authority, observation, and the October 1961 tank standoff converged.
+- [Ian McGregor](entities/IanMcGregor.md) — Historian and author connecting the Berlin Wall's diplomatic history to escape, culture, border personnel, and divided lives.
 - [Denis Diderot](entities/DenisDiderot.md) — Atheist Enlightenment writer presented through institutional accounts of corruption, intellectual generosity, and humane curiosity.
 - [Anna Lembke](entities/AnnaLembke.md) — Psychiatrist framing addiction through pleasure-pain adaptation, bounded abstinence, community, honesty, and service-oriented recovery.
 - [Ahmad Shah Durrani](entities/AhmadShahDurrani.md) — Pashtun ruler whose coalition-building after 1747 founded the Durrani Empire and helped shape the later Afghan state.

@@ -22103,9 +22103,9 @@
       "url": "/wiki/entities/bereniceiv/"
     },
     "BerlinWall": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4069689977 [GLT4069689977].md",
@@ -22113,9 +22113,16 @@
           "show": "The Rest Is History",
           "title": "322: East Germany: Life Behind the Iron Curtain",
           "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        },
+        {
+          "episode_file": "GLT1824879961 [GLT1824879961].md",
+          "key": "83-the-berlin-wall-glt1824879961",
+          "show": "The Rest Is History",
+          "title": "83. The Berlin Wall",
+          "url": "/wiki/sources/83-the-berlin-wall-glt1824879961/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/berlinwall/"
     },
     "BernardFreyberg": {
@@ -32853,6 +32860,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/checkersdog/"
+    },
+    "CheckpointCharlie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1824879961 [GLT1824879961].md",
+          "key": "83-the-berlin-wall-glt1824879961",
+          "show": "The Rest Is History",
+          "title": "83. The Berlin Wall",
+          "url": "/wiki/sources/83-the-berlin-wall-glt1824879961/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/checkpointcharlie/"
     },
     "CheerChanyu": {
       "episode_count": 2,
@@ -57045,9 +57068,9 @@
       "url": "/wiki/concepts/eastgermanidentityafterlife/"
     },
     "EastGermany": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6217148052 [GLT6217148052].md",
@@ -57062,9 +57085,16 @@
           "show": "The Rest Is History",
           "title": "322: East Germany: Life Behind the Iron Curtain",
           "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        },
+        {
+          "episode_file": "GLT1824879961 [GLT1824879961].md",
+          "key": "83-the-berlin-wall-glt1824879961",
+          "show": "The Rest Is History",
+          "title": "83. The Berlin Wall",
+          "url": "/wiki/sources/83-the-berlin-wall-glt1824879961/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/eastgermany/"
     },
     "EastIndiaCompany": {
@@ -77350,9 +77380,9 @@
       "url": "/wiki/entities/fyrefestival/"
     },
     "GDRStateLegitimacy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4069689977 [GLT4069689977].md",
@@ -77360,9 +77390,16 @@
           "show": "The Rest Is History",
           "title": "322: East Germany: Life Behind the Iron Curtain",
           "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        },
+        {
+          "episode_file": "GLT1824879961 [GLT1824879961].md",
+          "key": "83-the-berlin-wall-glt1824879961",
+          "show": "The Rest Is History",
+          "title": "83. The Berlin Wall",
+          "url": "/wiki/sources/83-the-berlin-wall-glt1824879961/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/gdrstatelegitimacy/"
     },
     "GECapital": {
@@ -98589,6 +98626,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/ianmacgregor/"
+    },
+    "IanMcGregor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1824879961 [GLT1824879961].md",
+          "key": "83-the-berlin-wall-glt1824879961",
+          "show": "The Rest Is History",
+          "title": "83. The Berlin Wall",
+          "url": "/wiki/sources/83-the-berlin-wall-glt1824879961/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/ianmcgregor/"
     },
     "IberianPeninsula": {
       "episode_count": 1,
@@ -136622,9 +136675,9 @@
       "url": "/wiki/entities/mikesteinberger/"
     },
     "MikhailGorbachev": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -136660,9 +136713,16 @@
           "show": "The Rest Is History",
           "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
           "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
+        },
+        {
+          "episode_file": "GLT1824879961 [GLT1824879961].md",
+          "key": "83-the-berlin-wall-glt1824879961",
+          "show": "The Rest Is History",
+          "title": "83. The Berlin Wall",
+          "url": "/wiki/sources/83-the-berlin-wall-glt1824879961/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/mikhailgorbachev/"
     },
     "MilesWilliams": {
@@ -206537,9 +206597,9 @@
       "url": "/wiki/entities/walterraleigh/"
     },
     "WalterUlbricht": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4069689977 [GLT4069689977].md",
@@ -206547,9 +206607,16 @@
           "show": "The Rest Is History",
           "title": "322: East Germany: Life Behind the Iron Curtain",
           "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        },
+        {
+          "episode_file": "GLT1824879961 [GLT1824879961].md",
+          "key": "83-the-berlin-wall-glt1824879961",
+          "show": "The Rest Is History",
+          "title": "83. The Berlin Wall",
+          "url": "/wiki/sources/83-the-berlin-wall-glt1824879961/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/walterulbricht/"
     },
     "WalterWalker": {
