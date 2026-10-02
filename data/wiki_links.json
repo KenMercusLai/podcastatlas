@@ -67,6 +67,10 @@
     "title": "103.她是刺穿夜雾的光，她是汉娜·阿伦特",
     "url": "/wiki/sources/103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789/"
   },
+  "104-macbeth-glt3313769671": {
+    "title": "104. Macbeth",
+    "url": "/wiki/sources/104-macbeth-glt3313769671/"
+  },
   "104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680": {
     "title": "104.你一生的故事：终点已经注定，还要出发吗？",
     "url": "/wiki/sources/104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680/"
@@ -33819,6 +33823,10 @@
     "title": "Grundfos / 格兰富",
     "url": "/wiki/entities/grundfos/"
   },
+  "Gruoch": {
+    "title": "Gruoch",
+    "url": "/wiki/entities/gruoch/"
+  },
   "Gryphon": {
     "title": "Gryphon / 鹰头狮",
     "url": "/wiki/entities/gryphon/"
@@ -36554,6 +36562,10 @@
   "HistoricalReportingAIHallucination": {
     "title": "历史报道中的AI幻觉 / Historical Reporting AI Hallucination",
     "url": "/wiki/concepts/historicalreportingaihallucination/"
+  },
+  "HistoricalReputationConstruction": {
+    "title": "Historical Reputation Construction",
+    "url": "/wiki/concepts/historicalreputationconstruction/"
   },
   "HistoricalRhymePoliticalReading": {
     "title": "Historical Rhyme Political Reading / 历史押韵式政治阅读",
@@ -49411,6 +49423,14 @@
     "title": "Mac Studio",
     "url": "/wiki/entities/macstudio/"
   },
+  "MacbethHistoricalKing": {
+    "title": "Macbeth (historical king)",
+    "url": "/wiki/entities/macbethhistoricalking/"
+  },
+  "MacbethPlay": {
+    "title": "Macbeth / 《麦克白》",
+    "url": "/wiki/entities/macbethplay/"
+  },
   "MachiavellianIntelligence": {
     "title": "Machiavellian Intelligence / 马基雅维利智能",
     "url": "/wiki/concepts/machiavellianintelligence/"
@@ -51386,6 +51406,10 @@
   "MedievalScientificPractice": {
     "title": "Medieval Scientific Practice",
     "url": "/wiki/concepts/medievalscientificpractice/"
+  },
+  "MedievalScottishSuccession": {
+    "title": "Medieval Scottish Competitive Succession",
+    "url": "/wiki/concepts/medievalscottishsuccession/"
   },
   "MedievalUrbanMarginality": {
     "title": "Medieval Urban Marginality",

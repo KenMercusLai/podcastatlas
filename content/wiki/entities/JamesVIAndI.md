@@ -4,6 +4,7 @@ type: entity
 tags: [person, monarch, scotland, england, jacobean-era]
 sources:
   - 115-the-gunpowder-plot-glt1711431752
+  - 104-macbeth-glt3313769671
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-02
 ---
@@ -12,50 +13,43 @@ last_updated: 2026-10-02
 
 ## Overview
 
-James VI of Scotland and I of England appears in the source as the monarch whose accession raised Catholic hopes of toleration and whose intended destruction became the center of the [[GunpowderPlot]].
+James VI of Scotland and I of England appears as a monarch shaped by confessional conspiracy, dynastic self-presentation, witchcraft belief, and royal patronage of Shakespeare's company.
 
 ## Current Profile
 
-[[115-the-gunpowder-plot-glt1711431752]] presents James's succession as an ambiguous opening for English Catholics. His descent from Mary, Queen of Scots, and reported signals about relaxing recusancy enforcement encouraged hope, but he avoided major concessions after taking the English throne. The conspirators then planned to kill him, his family, Lords, and MPs at the state opening and to seize Princess Elizabeth.
+James's English accession created an ambiguous opening for Catholics: hopes of relaxed recusancy enforcement gave way to disappointment and then Catesby's plan to destroy king, family, Lords, and MPs. After discovery, James treated the plot as grave treason without declaring all Catholics collectively guilty or blaming a foreign power, while thanksgiving institutionalized his survival as Protestant memory.
 
-After the plot failed, James treated it as a grave attack without declaring all English Catholics collectively guilty or blaming a foreign power. The episode reads that restraint as politically important, although annual thanksgiving under his reign helped institutionalize the escape as Protestant national memory.
+His cultural politics joined patronage, genealogy, and supernatural threat. Shakespeare's company became the King's Men, James claimed descent from Banquo, and [[MacbethPlay]] recast Banquo favorably. James's *Daemonologie*, North Berwick experience, and belief that witches threatened him supplied a court context in which witchcraft, conspiracy, prophecy, and royal vulnerability could converge on stage.
 
 ## Key Characteristics
 
-- Scottish king who also succeeded to the English throne.
-- Initial focus of Catholic hopes for relief from recusancy enforcement.
-- Monarch who avoided the major concessions some Catholics expected.
-- Principal target of the planned parliamentary explosion.
-- Ruler who distinguished the conspirators from Catholics as a whole after the discovery.
-- Beneficiary of a thanksgiving tradition that framed survival as Protestant deliverance.
+- Scottish king who succeeded to the English throne.
+- Initial focus of Catholic hopes and principal target of the Gunpowder Plot.
+- Ruler who distinguished conspirators from Catholics collectively after discovery.
+- Patron whose King's Men made Shakespearean theatre part of court culture.
+- Monarch whose claimed Banquo ancestry affected dramatic characterization.
+- Author and believer whose witchcraft concerns shaped the Jacobean political imagination.
 
 ## Evidence
 
-### Accession and disappointed toleration
-
-- [[115-the-gunpowder-plot-glt1711431752]] connects Catholic expectations to James's parentage and reported pre-accession signals, then describes the absence of major relief after accession.
-
-### Target and survivor
-
-- [[115-the-gunpowder-plot-glt1711431752]] makes James, his family, and the assembled political establishment the intended victims of Catesby's plan.
-
-### Political response
-
-- [[115-the-gunpowder-plot-glt1711431752]] says James denied foreign involvement and avoided attributing the plot to all English Catholics.
+- Accession and plot: [[115-the-gunpowder-plot-glt1711431752]] connects Catholic expectations, disappointed toleration, attempted parliamentary destruction, and James's response.
+- Patronage and genealogy: [[104-macbeth-glt3313769671]] links the King's Men and Banquo's virtuous recasting to James's court and claimed descent.
+- Witchcraft context: [[104-macbeth-glt3313769671]] connects *Daemonologie*, Anne of Denmark's voyage, North Berwick trials, and royal conspiracy fear to Macbeth's witches.
 
 ## Qualifications
 
-This page is a source-bounded profile of James's relationship to one crisis, not a general account of his Scottish and English reigns. The episode does not fully establish what promises Thomas Percy received, how James's enforcement policy changed over time, or how far royal restraint limited subsequent anti-Catholic penalties.
+The page remains bounded to two crises and their cultural afterlife, not a full reign. The sources do not settle James's private response to the play, the strength of his Banquo belief, the exact development of recusancy policy, the reliability of witchcraft accusations, or how directly any one court event shaped Shakespeare.
 
 ## What Changed
 
-- Created a bounded profile connecting accession expectations, attempted regicide, and the response to the failed plot.
-- Preserved the difference between refusing major toleration and refusing collective blame.
+- Added royal patronage, Banquo genealogy, demonology, and witchcraft politics.
+- Connected James's Gunpowder Plot experience to Macbeth's staged world of treason and equivocation.
 
 ## Relationships
 
-- [[GunpowderPlot]] - conspiracy intended to kill James and rupture his political order.
-- [[RobertCatesby]] - organizer of the planned attack on the king and Parliament.
-- [[RobertCecil]] - senior political figure associated with stability and management of the plot's discovery.
-- [[BonfireNight]] - public thanksgiving tradition built around James's survival.
-- [[TreasonAsSovereigntyContest]] - frames the plot as an attack on royal, parliamentary, and confessional authority.
+- [[GunpowderPlot]] - conspiracy intended to destroy James and his political order.
+- [[MacbethPlay]] - court-facing tragedy shaped by James's ancestry and interests.
+- [[WilliamShakespeare]] - playwright within the royally patronized King's Men.
+- [[RobertCatesby]] - organizer of the planned attack on king and Parliament.
+- [[BonfireNight]] - thanksgiving tradition built around James's survival.
+- [[HistoricalReputationConstruction]] - frame for patronage and later memory reshaping inherited history.

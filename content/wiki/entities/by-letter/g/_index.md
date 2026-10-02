@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12023
+wiki_total_pages: 12026
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "Grundfos"
     title: "Grundfos / 格兰富"
     url: "/wiki/entities/grundfos/"
+  - key: "Gruoch"
+    title: "Gruoch"
+    url: "/wiki/entities/gruoch/"
   - key: "Gryphon"
     title: "Gryphon / 鹰头狮"
     url: "/wiki/entities/gryphon/"

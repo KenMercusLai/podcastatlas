@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9332
+wiki_total_pages: 9334
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "MedievalScientificPractice"
     title: "Medieval Scientific Practice"
     url: "/wiki/concepts/medievalscientificpractice/"
+  - key: "MedievalScottishSuccession"
+    title: "Medieval Scottish Competitive Succession"
+    url: "/wiki/concepts/medievalscottishsuccession/"
   - key: "MedievalUrbanMarginality"
     title: "Medieval Urban Marginality"
     url: "/wiki/concepts/medievalurbanmarginality/"

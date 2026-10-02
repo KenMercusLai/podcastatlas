@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3022
+topic_total_pages: 3023
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1438,6 +1438,9 @@ topic_concepts:
   - key: "HistoricalMemoryContest"
     title: "Historical Memory Contest"
     url: "/wiki/concepts/historicalmemorycontest/"
+  - key: "HistoricalReputationConstruction"
+    title: "Historical Reputation Construction"
+    url: "/wiki/concepts/historicalreputationconstruction/"
   - key: "HistoricalWorldviewReconstruction"
     title: "Historical Worldview Reconstruction"
     url: "/wiki/concepts/historicalworldviewreconstruction/"

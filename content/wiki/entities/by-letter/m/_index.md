@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12023
+wiki_total_pages: 12026
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -41,6 +41,12 @@ wiki_pages:
   - key: "MacStudio"
     title: "Mac Studio"
     url: "/wiki/entities/macstudio/"
+  - key: "MacbethHistoricalKing"
+    title: "Macbeth (historical king)"
+    url: "/wiki/entities/macbethhistoricalking/"
+  - key: "MacbethPlay"
+    title: "Macbeth / 《麦克白》"
+    url: "/wiki/entities/macbethplay/"
   - key: "MacBook"
     title: "MacBook"
     url: "/wiki/entities/macbook/"

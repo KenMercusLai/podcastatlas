@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [104. Macbeth](sources/104-macbeth-glt3313769671.md) — The Rest Is History on the historical Macbeth, medieval Scottish succession, Shakespeare's Jacobean adaptation, regicide, witchcraft, and theatrical memory.
 - [Using Temperature to Optimize Performance, Brain & Body Health | Dr. Craig Heller](sources/scim6467660570-scim6467660570.md) — Huberman Lab interview on thermal limits, glabrous-skin heat exchange, targeted cooling and rewarming, exercise performance, sleep, and evidence boundaries.
 - [105. Classics](sources/105-classics-glt1093096549.md) — The Rest Is History with Mary Beard on classical reception, Roman political ambiguity, elite gatekeeping, moral critique, public access, and scholarly renewal.
 - [EP193-Bel Canto|对话美声歌唱家，听歌剧到底在听什么？](sources/ep193-bel-canto-duihua-meisheng-gechangjia-ting-geju-daodi-zai-ting-shenme-ckwrijifn4vdabaaaadrcjk0.md) — 无时差研究所 conversation on operatic training, arts-career formation, language, performance, audience access, and cross-cultural creation.
@@ -3542,6 +3543,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar](sources/scim9724505974-scim9724505974.md) — Huberman Lab interview on melanopsin light sensing, circadian alignment, mood pathways, meal and exercise timing, and internal-time-aware travel adaptation.
 
 ## Entities
+- [Macbeth (historical king)](entities/MacbethHistoricalKing.md) — Long-ruling 11th-century Scottish king later recast as Shakespeare's murderous usurper.
+- [Gruoch](entities/Gruoch.md) — Macbeth's queen and dynastic partner, distinct from the fictional Lady Macbeth.
+- [Macbeth / 《麦克白》](entities/MacbethPlay.md) — Shakespeare tragedy joining regicide, equivocation, witchcraft, Jacobean politics, and theatrical afterlife.
 - [Craig Heller](entities/CraigHeller.md) — Stanford thermal physiologist explaining glabrous heat transfer, exercise cooling, rewarming, and the limits of preliminary applications.
 - [Mary Beard](entities/MaryBeard.md) — Classicist interpreting Rome through reception history, moral ambivalence, political reuse, public access, and disciplinary renewal.
 - [乔妮妮 / Qiao Nini](entities/QiaoNini.md) — Soprano and doctoral student connecting vocal craft, language, acting, teaching, career constraints, and cross-cultural creation.
@@ -15607,6 +15611,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
 
 ## Concepts
+- [Medieval Scottish Competitive Succession](concepts/MedievalScottishSuccession.md) — Model of wider-kin royal eligibility, regional power, marriage, and conflict before settled primogeniture.
+- [Historical Reputation Construction](concepts/HistoricalReputationConstruction.md) — Layered process by which dynasties, chronicles, drama, and performance turn historical actors into durable archetypes.
 - [Classical Reception Ambivalence](concepts/ClassicalReceptionAmbivalence.md) — Persistence of ancient material through unresolved meanings such as prestige, tyranny, sacred history, violence, resistance, and glamour.
 - [Classics Political Plasticity](concepts/ClassicsPoliticalPlasticity.md) — Capacity of classical material to support conflicting projects of empire, dictatorship, republicanism, revolution, and critique.
 - [Classics Gatekeeping and Renewal](concepts/ClassicsGatekeepingAndRenewal.md) — Tension between classical learning as elite credential and its renewal through access, candor, breadth, and scholarship.

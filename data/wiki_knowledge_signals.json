@@ -83112,6 +83112,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/growthwitnessing/"
     },
+    "Gruoch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3313769671 [GLT3313769671].md",
+          "key": "104-macbeth-glt3313769671",
+          "show": "The Rest Is History",
+          "title": "104. Macbeth",
+          "url": "/wiki/sources/104-macbeth-glt3313769671/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/gruoch/"
+    },
     "GuJiWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -83756,9 +83772,9 @@
       "url": "/wiki/concepts/gulfstabilityrisk/"
     },
     "GunpowderPlot": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1711431752 [GLT1711431752].md",
@@ -83766,6 +83782,13 @@
           "show": "The Rest Is History",
           "title": "115. The Gunpowder Plot",
           "url": "/wiki/sources/115-the-gunpowder-plot-glt1711431752/"
+        },
+        {
+          "episode_file": "GLT3313769671 [GLT3313769671].md",
+          "key": "104-macbeth-glt3313769671",
+          "show": "The Rest Is History",
+          "title": "104. Macbeth",
+          "url": "/wiki/sources/104-macbeth-glt3313769671/"
         }
       ],
       "updated": "2026-10-02",
@@ -91389,6 +91412,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/historicalreadingassurvivalwisdom/"
+    },
+    "HistoricalReputationConstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3313769671 [GLT3313769671].md",
+          "key": "104-macbeth-glt3313769671",
+          "show": "The Rest Is History",
+          "title": "104. Macbeth",
+          "url": "/wiki/sources/104-macbeth-glt3313769671/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/historicalreputationconstruction/"
     },
     "HistoricalWorldviewReconstruction": {
       "episode_count": 1,
@@ -104270,9 +104309,9 @@
       "url": "/wiki/entities/jamessteinberg/"
     },
     "JamesVIAndI": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1711431752 [GLT1711431752].md",
@@ -104280,6 +104319,13 @@
           "show": "The Rest Is History",
           "title": "115. The Gunpowder Plot",
           "url": "/wiki/sources/115-the-gunpowder-plot-glt1711431752/"
+        },
+        {
+          "episode_file": "GLT3313769671 [GLT3313769671].md",
+          "key": "104-macbeth-glt3313769671",
+          "show": "The Rest Is History",
+          "title": "104. Macbeth",
+          "url": "/wiki/sources/104-macbeth-glt3313769671/"
         }
       ],
       "updated": "2026-10-02",
@@ -126915,6 +126961,38 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/macstudio/"
     },
+    "MacbethHistoricalKing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3313769671 [GLT3313769671].md",
+          "key": "104-macbeth-glt3313769671",
+          "show": "The Rest Is History",
+          "title": "104. Macbeth",
+          "url": "/wiki/sources/104-macbeth-glt3313769671/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/macbethhistoricalking/"
+    },
+    "MacbethPlay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3313769671 [GLT3313769671].md",
+          "key": "104-macbeth-glt3313769671",
+          "show": "The Rest Is History",
+          "title": "104. Macbeth",
+          "url": "/wiki/sources/104-macbeth-glt3313769671/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/macbethplay/"
+    },
     "MachineIntelligenceResearchInstitute": {
       "episode_count": 1,
       "show_count": 1,
@@ -131582,6 +131660,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/medievalscientificpractice/"
+    },
+    "MedievalScottishSuccession": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3313769671 [GLT3313769671].md",
+          "key": "104-macbeth-glt3313769671",
+          "show": "The Rest Is History",
+          "title": "104. Macbeth",
+          "url": "/wiki/sources/104-macbeth-glt3313769671/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/medievalscottishsuccession/"
     },
     "MedievalVisualPoliticalNarrative": {
       "episode_count": 1,
@@ -174107,9 +174201,9 @@
       "url": "/wiki/concepts/scorchedearthsupplydenial/"
     },
     "Scotland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2603959218 [GLT2603959218].md",
@@ -174124,9 +174218,16 @@
           "show": "The Rest Is History",
           "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
           "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        },
+        {
+          "episode_file": "GLT3313769671 [GLT3313769671].md",
+          "key": "104-macbeth-glt3313769671",
+          "show": "The Rest Is History",
+          "title": "104. Macbeth",
+          "url": "/wiki/sources/104-macbeth-glt3313769671/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/scotland/"
     },
     "ScottBessent": {
@@ -176399,9 +176500,9 @@
       "url": "/wiki/entities/shakespeareandcompany/"
     },
     "ShakespeareHistoryPlayPoliticalMemory": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
@@ -176430,9 +176531,16 @@
           "show": "The Rest Is History",
           "title": "415. The Murder of Richard II (Part 3)",
           "url": "/wiki/sources/415-the-murder-of-richard-ii-part-3-glt6435684837/"
+        },
+        {
+          "episode_file": "GLT3313769671 [GLT3313769671].md",
+          "key": "104-macbeth-glt3313769671",
+          "show": "The Rest Is History",
+          "title": "104. Macbeth",
+          "url": "/wiki/sources/104-macbeth-glt3313769671/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/shakespearehistoryplaypoliticalmemory/"
     },
     "ShanBingLateHan": {
@@ -208791,9 +208899,9 @@
       "url": "/wiki/entities/williampynchon/"
     },
     "WilliamShakespeare": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》19丨马陵之战 [lhBAPt09X2PtdQx0uoPkP8APBaDA].md",
@@ -208822,9 +208930,16 @@
           "show": "忽左忽右",
           "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
           "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
+        },
+        {
+          "episode_file": "GLT3313769671 [GLT3313769671].md",
+          "key": "104-macbeth-glt3313769671",
+          "show": "The Rest Is History",
+          "title": "104. Macbeth",
+          "url": "/wiki/sources/104-macbeth-glt3313769671/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/williamshakespeare/"
     },
     "WilliamSlim": {
