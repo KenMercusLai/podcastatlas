@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [110. History of India in 10 Buildings](sources/110-history-of-india-in-10-buildings-glt7972990176.md) — The Rest Is History on architecture as evidence of Indian urbanism, trade, religion, kingship, conquest, colonialism, memory, and political erasure.
 - [111. Golden Ages](sources/111-golden-ages-glt9885576415.md) — The Rest Is History on retrospective nostalgia, canon formation, power, excluded costs, political memory, and competing models of historical flourishing.
 - [112. Medieval Science](sources/112-medieval-science-glt3839934134.md) — The Rest Is History with Seb Falk on medieval scientific practice, instruments, cross-cultural transmission, science-religion categories, and continuity into early modern inquiry.
 - [113. Hallowe'en and modern paganism](sources/113-halloween-and-modern-paganism-glt4064224583.md) — The Rest Is History with Ronald Hutton on Halloween's layered history, disputed pagan continuity, Wicca, and modern religious reconstruction.
@@ -3531,6 +3532,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar](sources/scim9724505974-scim9724505974.md) — Huberman Lab interview on melanopsin light sensing, circadian alignment, mood pathways, meal and exercise timing, and internal-time-aware travel adaptation.
 
 ## Entities
+- [Mohenjo-daro](entities/MohenjoDaro.md) — Indus Valley city whose Great Bath joins early urban engineering, ritual interpretation, trade, and archaeological uncertainty.
+- [Qutb Minar Complex](entities/QutbMinarComplex.md) — Delhi Sultanate complex where monumental scale and temple spolia make layered conquest and authority visible.
+- [Hall of Nations and Nehru Pavilion](entities/HallOfNationsIndia.md) — Celebrated 1972 Indian modernist complex whose demolition became a conflict over Nehruvian national memory.
+- [Babri Masjid](entities/BabriMasjid.md) — Ayodhya mosque whose disputed origin, 1992 demolition, and temple replacement transformed Indian political memory.
 - [Seb Falk](entities/SebFalk.md) — Historian using ordinary practitioners, instruments, and translation networks to challenge scientific-dark-age mythology.
 - [John of Westwick](entities/JohnOfWestwick.md) — Late-medieval monk whose textual work, travel, and equatorium design exemplify practical knowledge-making.
 - [Gerald Gardner](entities/GeraldGardner.md) — Central publicist and creator of modern Wicca who joined claims of antiquity to adaptable ritual practice.
@@ -15576,6 +15581,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
 
 ## Concepts
+- [Architecture as Historical Evidence](concepts/ArchitectureAsHistoricalEvidence.md) — Method for reading buildings, planning, materials, reuse, alteration, and demolition as evidence of historical change.
+- [Architectural Erasure and Regime Memory](concepts/ArchitecturalErasureAndRegimeMemory.md) — Framework for how alteration, appropriation, demolition, and replacement can reorder the authorized public past.
 - [Golden-Age Narrative](concepts/GoldenAgeNarrative.md) — Framework treating golden ages as real but selectively remembered achievements sharpened by later decline, canon formation, unequal costs, and political reuse.
 - [Medieval Science Continuity](concepts/MedievalScienceContinuity.md) — Qualified continuity of preservation, translation, criticism, calculation, and institutional change from antiquity into early modern science.
 - [Medieval Scientific Practice](concepts/MedievalScientificPractice.md) — Joined textual, mathematical, observational, computational, and instrument-making work before modern professional science.

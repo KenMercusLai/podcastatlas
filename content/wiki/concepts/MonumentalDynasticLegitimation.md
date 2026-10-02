@@ -5,7 +5,8 @@ tags: [political-legitimacy, architecture, dynasty, public-space, ancient-rome]
 sources:
   - 369-the-colosseum-romes-arena-of-death-glt7808118779
   - 362-the-taj-mahal-love-and-death-glt2445608477
-last_updated: 2026-09-28
+  - 110-history-of-india-in-10-buildings-glt7972990176
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ Legitimation depended on use as well as construction. Under [[Titus]], ordered s
 
 The [[TajMahal]] case in [[362-the-taj-mahal-love-and-death-glt2445608477]] broadens the framework from a new dynasty's public arena to an established emperor's funerary complex. [[ShahJahan]] commemorated [[MumtazMahal]], but the project's Timurid and earlier Mughal tomb precedents, exceptional refinement, Quranic program, and [[TajMahalParadiseSymbolism|paradise landscape]] also presented him as a pious and perfect king. Here personal grief and royal legitimation reinforce one another rather than forming rival explanations.
 
+[[110-history-of-india-in-10-buildings-glt7972990176]] extends the mechanism beyond two imperial monuments. At Udayagiri, Chandragupta II's attendance beside Vishnu's Varaha avatar links royal protection to divine rescue; the Brihadeeswara Temple makes Chola wealth and engineering overwhelming through scale; the [[QutbMinarComplex]] turns reused temple material into a Sultanate assertion of conquest; and Jaipur joins grid planning, astronomy, temple, palace, commerce, and unified facade to make regional sovereignty spatially coherent.
+
 ## Key Claims
 
 - Reusing a predecessor's private space can turn architecture into a visible succession argument.
@@ -30,8 +33,8 @@ The [[TajMahal]] case in [[362-the-taj-mahal-love-and-death-glt2445608477]] broa
 - Conquest can support a monument through money, labor, iconography, and narrative without one simple funding channel.
 - Seating and circulation make social classification materially experienceable.
 - Inaugural ceremony activates a building's meaning through punishment, hierarchy, abundance, and spectacle.
-- Disaster and reputational weakness can increase the political value of monumental moral guardianship.
-- Funerary commemoration can legitimate an established ruler by joining affection, piety, genealogy, refinement, and command of resources.
+- Disaster, reputational weakness, and funerary commemoration can increase the political value of moral guardianship by joining affection, piety, genealogy, refinement, and command of resources.
+- Divine imagery, sacred proximity, city planning, and material appropriation can each make political hierarchy appear cosmically, economically, or historically grounded.
 
 ## Evidence
 
@@ -41,15 +44,17 @@ The [[TajMahal]] case in [[362-the-taj-mahal-love-and-death-glt2445608477]] broa
 - Embodied hierarchy: [[369-the-colosseum-romes-arena-of-death-glt7808118779]] describes ranked seating as a census made visible in stone.
 - Inaugural activation: [[369-the-colosseum-romes-arena-of-death-glt7808118779]] connects Titus's disasters and reputation to punishment, ordered spectatorship, and lavish games.
 - Funerary genealogy and ideal kingship: [[362-the-taj-mahal-love-and-death-glt2445608477]] connects the Taj Mahal to Timurid and earlier Mughal tombs, paradise imagery, Mumtaz's commemoration, and Shah Jahan's image as a perfect king.
+- Indian comparative cases: [[110-history-of-india-in-10-buildings-glt7972990176]] uses Udayagiri, the Brihadeeswara Temple, the Qutb complex, Mughal gardens, and Jaipur to connect divinity, scale, conquest, landscape, commerce, and planning to authority.
 
 ## Counterevidence & Qualifications
 
-Political meaning does not reduce a monument to propaganda or make every patron motive recoverable. At the Colosseum, public use reproduced rank and organized lethal spectacle; the Roman source also qualifies a simple “Jerusalem loot paid for it” story. At the Taj Mahal, documented grief and religious meaning coexist with imperial self-presentation, while design labor and exact motive remain more complex than a single ruler's intention. The two cases identify a comparative mechanism, not a universal rule for all monuments.
+Political meaning does not reduce a monument to propaganda or make every patron motive recoverable. At the Colosseum, public use reproduced rank and organized lethal spectacle; the Roman source also qualifies a simple “Jerusalem loot paid for it” story. At the Taj Mahal, documented grief and religious meaning coexist with imperial self-presentation, while design labor and exact motive remain more complex than a single ruler's intention. The Indian survey adds breadth rather than complete case histories: dates, patron intentions, audience experience, and the political meaning of spolia remain source-scoped.
 
 ## What Changed
 
-- Expanded the framework from Flavian site reversal and public spectacle to Mughal funerary genealogy, grief, piety, and ideal kingship.
-- Qualified the framework so political function does not erase religious meaning, affection, or uncertain design agency.
+- Expanded the framework from arena and mausoleum to divine relief, temple scale, spolia, gardens, and planned urban sovereignty.
+- Distinguished several legitimation mechanisms rather than treating monumental size as the only political signal.
+- Preserved religious meaning, affection, use, and uncertain design agency alongside political function.
 
 ## Related Concepts
 
@@ -60,3 +65,5 @@ Political meaning does not reduce a monument to propaganda or make every patron 
 - [[TajMahal]] - funerary case where commemoration and royal self-presentation operate together.
 - [[MughalArchitecturalSynthesis]] - composite architectural inheritance ordered into Mughal imperial form.
 - [[TajMahalParadiseSymbolism]] - sacred program that supports but is not exhausted by dynastic legitimation.
+- [[QutbMinarComplex]] - conquest-era case where reused sacred material asserts a new political order.
+- [[ArchitectureAsHistoricalEvidence]] - method for testing how built form makes legitimacy visible.

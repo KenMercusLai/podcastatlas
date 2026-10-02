@@ -103,6 +103,10 @@
     "title": "110.初老的女人：疲惫，温柔，辽阔",
     "url": "/wiki/sources/110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278/"
   },
+  "110-history-of-india-in-10-buildings-glt7972990176": {
+    "title": "110. History of India in 10 Buildings",
+    "url": "/wiki/sources/110-history-of-india-in-10-buildings-glt7972990176/"
+  },
   "111-golden-ages-glt9885576415": {
     "title": "111. Golden Ages",
     "url": "/wiki/sources/111-golden-ages-glt9885576415/"
@@ -8755,6 +8759,14 @@
     "title": "Architectural Archive Research / 建筑档案研究",
     "url": "/wiki/concepts/architecturalarchiveresearch/"
   },
+  "ArchitecturalErasureAndRegimeMemory": {
+    "title": "Architectural Erasure and Regime Memory",
+    "url": "/wiki/concepts/architecturalerasureandregimememory/"
+  },
+  "ArchitectureAsHistoricalEvidence": {
+    "title": "Architecture as Historical Evidence",
+    "url": "/wiki/concepts/architectureashistoricalevidence/"
+  },
   "ArchiveAccessTradeoff": {
     "title": "Archive Access Tradeoff",
     "url": "/wiki/concepts/archiveaccesstradeoff/"
@@ -10054,6 +10066,10 @@
   "BabingtonPlot": {
     "title": "Babington Plot",
     "url": "/wiki/entities/babingtonplot/"
+  },
+  "BabriMasjid": {
+    "title": "Babri Masjid",
+    "url": "/wiki/entities/babrimasjid/"
   },
   "BabsonCollege": {
     "title": "Babson College",
@@ -34511,6 +34527,10 @@
     "title": "Halifax / 哈利法克斯",
     "url": "/wiki/entities/halifax/"
   },
+  "HallOfNationsIndia": {
+    "title": "Hall of Nations and Nehru Pavilion",
+    "url": "/wiki/entities/hallofnationsindia/"
+  },
   "HallidonHill": {
     "title": "Hallidon Hill",
     "url": "/wiki/entities/hallidonhill/"
@@ -53207,6 +53227,10 @@
     "title": "Mohammed Abdel Krim",
     "url": "/wiki/entities/mohammedabdelkrim/"
   },
+  "MohenjoDaro": {
+    "title": "Mohenjo-daro",
+    "url": "/wiki/entities/mohenjodaro/"
+  },
   "MoisesYee": {
     "title": "Moises Yee",
     "url": "/wiki/entities/moisesyee/"
@@ -63738,6 +63762,10 @@
   "Quora": {
     "title": "Quora",
     "url": "/wiki/entities/quora/"
+  },
+  "QutbMinarComplex": {
+    "title": "Qutb Minar Complex",
+    "url": "/wiki/entities/qutbminarcomplex/"
   },
   "QuwoWarringStates": {
     "title": "曲沃 / Quwo (Warring States)",

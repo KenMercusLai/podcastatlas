@@ -173,6 +173,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "110-history-of-india-in-10-buildings-glt7972990176": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "111-golden-ages-glt9885576415": [
     {
       "key": "history",
@@ -13095,6 +13102,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ArchitectureAsHistoricalEvidence": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "ArchiveAccessTradeoff": [
@@ -55221,6 +55235,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "MohenjoDaro": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "MoisesYee": [

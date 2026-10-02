@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12003
+wiki_total_pages: 12007
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1445,6 +1445,9 @@ wiki_pages:
   - key: "MohammedAbdelKrim"
     title: "Mohammed Abdel Krim"
     url: "/wiki/entities/mohammedabdelkrim/"
+  - key: "MohenjoDaro"
+    title: "Mohenjo-daro"
+    url: "/wiki/entities/mohenjodaro/"
   - key: "MoisesYee"
     title: "Moises Yee"
     url: "/wiki/entities/moisesyee/"

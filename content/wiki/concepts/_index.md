@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9311
+wiki_total_pages: 9313
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2270,6 +2270,12 @@ wiki_pages:
   - key: "ArchitecturalArchiveResearch"
     title: "Architectural Archive Research / 建筑档案研究"
     url: "/wiki/concepts/architecturalarchiveresearch/"
+  - key: "ArchitecturalErasureAndRegimeMemory"
+    title: "Architectural Erasure and Regime Memory"
+    url: "/wiki/concepts/architecturalerasureandregimememory/"
+  - key: "ArchitectureAsHistoricalEvidence"
+    title: "Architecture as Historical Evidence"
+    url: "/wiki/concepts/architectureashistoricalevidence/"
   - key: "ArchiveAccessTradeoff"
     title: "Archive Access Tradeoff"
     url: "/wiki/concepts/archiveaccesstradeoff/"

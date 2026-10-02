@@ -14574,6 +14574,38 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/architecturalarchiveresearch/"
     },
+    "ArchitecturalErasureAndRegimeMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7972990176 [GLT7972990176].md",
+          "key": "110-history-of-india-in-10-buildings-glt7972990176",
+          "show": "The Rest Is History",
+          "title": "110. History of India in 10 Buildings",
+          "url": "/wiki/sources/110-history-of-india-in-10-buildings-glt7972990176/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/architecturalerasureandregimememory/"
+    },
+    "ArchitectureAsHistoricalEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7972990176 [GLT7972990176].md",
+          "key": "110-history-of-india-in-10-buildings-glt7972990176",
+          "show": "The Rest Is History",
+          "title": "110. History of India in 10 Buildings",
+          "url": "/wiki/sources/110-history-of-india-in-10-buildings-glt7972990176/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/architectureashistoricalevidence/"
+    },
     "ArchivePreservationBias": {
       "episode_count": 2,
       "show_count": 2,
@@ -18194,6 +18226,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/babbittcoffee/"
+    },
+    "BabriMasjid": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7972990176 [GLT7972990176].md",
+          "key": "110-history-of-india-in-10-buildings-glt7972990176",
+          "show": "The Rest Is History",
+          "title": "110. History of India in 10 Buildings",
+          "url": "/wiki/sources/110-history-of-india-in-10-buildings-glt7972990176/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/babrimasjid/"
     },
     "Babylon": {
       "episode_count": 2,
@@ -84827,6 +84875,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/haitianflavoring/"
     },
+    "HallOfNationsIndia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7972990176 [GLT7972990176].md",
+          "key": "110-history-of-india-in-10-buildings-glt7972990176",
+          "show": "The Rest Is History",
+          "title": "110. History of India in 10 Buildings",
+          "url": "/wiki/sources/110-history-of-india-in-10-buildings-glt7972990176/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/hallofnationsindia/"
+    },
     "HallidonHill": {
       "episode_count": 1,
       "show_count": 1,
@@ -135872,9 +135936,9 @@
       "url": "/wiki/concepts/modernistarchitecture/"
     },
     "ModernistHeritageRecognitionGap": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lskF8BdKhS71LbWJOmt3gU1kO8BE [lskF8BdKhS71LbWJOmt3gU1kO8BE].md",
@@ -135882,9 +135946,16 @@
           "show": "忽左忽右",
           "title": "498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师",
           "url": "/wiki/sources/498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be/"
+        },
+        {
+          "episode_file": "GLT7972990176 [GLT7972990176].md",
+          "key": "110-history-of-india-in-10-buildings-glt7972990176",
+          "show": "The Rest Is History",
+          "title": "110. History of India in 10 Buildings",
+          "url": "/wiki/sources/110-history-of-india-in-10-buildings-glt7972990176/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/modernistheritagerecognitiongap/"
     },
     "ModernizingAutocracy": {
@@ -136086,6 +136157,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/mohammedabdelkrim/"
+    },
+    "MohenjoDaro": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7972990176 [GLT7972990176].md",
+          "key": "110-history-of-india-in-10-buildings-glt7972990176",
+          "show": "The Rest Is History",
+          "title": "110. History of India in 10 Buildings",
+          "url": "/wiki/sources/110-history-of-india-in-10-buildings-glt7972990176/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/mohenjodaro/"
     },
     "MomoTimeApp": {
       "episode_count": 1,
@@ -136338,9 +136425,9 @@
       "url": "/wiki/concepts/monumentbuildingassocialcoordination/"
     },
     "MonumentalDynasticLegitimation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7808118779 [GLT7808118779].md",
@@ -136355,9 +136442,16 @@
           "show": "The Rest Is History",
           "title": "362. The Taj Mahal: Love and Death",
           "url": "/wiki/sources/362-the-taj-mahal-love-and-death-glt2445608477/"
+        },
+        {
+          "episode_file": "GLT7972990176 [GLT7972990176].md",
+          "key": "110-history-of-india-in-10-buildings-glt7972990176",
+          "show": "The Rest Is History",
+          "title": "110. History of India in 10 Buildings",
+          "url": "/wiki/sources/110-history-of-india-in-10-buildings-glt7972990176/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/monumentaldynasticlegitimation/"
     },
     "MoodMeterEmotionalCheckIn": {
@@ -137201,9 +137295,9 @@
       "url": "/wiki/entities/msmagazine/"
     },
     "MughalArchitecturalSynthesis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2445608477 [GLT2445608477].md",
@@ -137211,9 +137305,16 @@
           "show": "The Rest Is History",
           "title": "362. The Taj Mahal: Love and Death",
           "url": "/wiki/sources/362-the-taj-mahal-love-and-death-glt2445608477/"
+        },
+        {
+          "episode_file": "GLT7972990176 [GLT7972990176].md",
+          "key": "110-history-of-india-in-10-buildings-glt7972990176",
+          "show": "The Rest Is History",
+          "title": "110. History of India in 10 Buildings",
+          "url": "/wiki/sources/110-history-of-india-in-10-buildings-glt7972990176/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/mughalarchitecturalsynthesis/"
     },
     "MughalEmpire": {
@@ -161967,6 +162068,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/qunfangnoodlehouse/"
+    },
+    "QutbMinarComplex": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7972990176 [GLT7972990176].md",
+          "key": "110-history-of-india-in-10-buildings-glt7972990176",
+          "show": "The Rest Is History",
+          "title": "110. History of India in 10 Buildings",
+          "url": "/wiki/sources/110-history-of-india-in-10-buildings-glt7972990176/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/qutbminarcomplex/"
     },
     "QwenOffice": {
       "episode_count": 2,

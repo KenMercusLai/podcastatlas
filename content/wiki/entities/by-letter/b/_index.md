@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12003
+wiki_total_pages: 12007
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "BabingtonPlot"
     title: "Babington Plot"
     url: "/wiki/entities/babingtonplot/"
+  - key: "BabriMasjid"
+    title: "Babri Masjid"
+    url: "/wiki/entities/babrimasjid/"
   - key: "BabsonCollege"
     title: "Babson College"
     url: "/wiki/entities/babsoncollege/"
