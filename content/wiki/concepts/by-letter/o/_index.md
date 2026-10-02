@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9341
+wiki_total_pages: 9343
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "OstarbeiterForcedLabor"
     title: "Ostarbeiter Forced Labor / 东方劳工强制劳动"
     url: "/wiki/concepts/ostarbeiterforcedlabor/"
+  - key: "Ostpolitik"
+    title: "Ostpolitik"
+    url: "/wiki/concepts/ostpolitik/"
   - key: "OTAPlatformConcentration"
     title: "OTA Platform Concentration"
     url: "/wiki/concepts/otaplatformconcentration/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12033
+wiki_total_pages: 12038
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "KUOW"
     title: "KUOW"
     url: "/wiki/entities/kuow/"
+  - key: "KurtGeorgKiesinger"
+    title: "Kurt Georg Kiesinger"
+    url: "/wiki/entities/kurtgeorgkiesinger/"
   - key: "KurtStenn"
     title: "Kurt Stenn / 库尔特·斯坦"
     url: "/wiki/entities/kurtstenn/"

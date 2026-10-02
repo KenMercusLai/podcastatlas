@@ -107,6 +107,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "102-germany-from-adenauer-to-angela-glt6085378369": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "103-the-norse-sagas-glt8280648151": [
     {
       "key": "history",
@@ -36297,6 +36304,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GerhardSchroder": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GermanCaretakerStalemate": [
     {
       "key": "politics",
@@ -39396,6 +39410,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HelmutSchmidt": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "HemantTaneja": [
@@ -47656,6 +47677,13 @@
       "url": "/topics/history/"
     }
   ],
+  "KurtGeorgKiesinger": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "KurtStenn": [
     {
       "key": "science",
@@ -51250,6 +51278,13 @@
     }
   ],
   "LuciusCorneliusCinna": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "LudwigErhard": [
     {
       "key": "politics",
       "label": "Politics",
@@ -59750,6 +59785,13 @@
       "url": "/topics/history/"
     }
   ],
+  "Ostpolitik": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "OswaldMosley": [
     {
       "key": "politics",
@@ -63340,6 +63382,13 @@
     }
   ],
   "PostwarAdministrativeRetrenchment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PostwarGermanDemocraticCaution": [
     {
       "key": "politics",
       "label": "Politics",
@@ -85700,6 +85749,13 @@
     }
   ],
   "WillieWhitelaw": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "WillyBrandt": [
     {
       "key": "politics",
       "label": "Politics",

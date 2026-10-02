@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12033
+wiki_total_pages: 12038
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "WillieWhitelaw"
     title: "Willie Whitelaw"
     url: "/wiki/entities/williewhitelaw/"
+  - key: "WillyBrandt"
+    title: "Willy Brandt"
+    url: "/wiki/entities/willybrandt/"
   - key: "WillyHeidinger"
     title: "Willy Heidinger / 海丁格尔"
     url: "/wiki/entities/willyheidinger/"

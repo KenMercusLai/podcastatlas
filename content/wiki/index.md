@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [102. Germany from Adenauer to Angela](sources/102-germany-from-adenauer-to-angela-glt6085378369.md) — The Rest Is History on West German reconstruction, incomplete denazification, Ostpolitik, reunification, Merkelian caution, and the costs of political stability.
 - [103. The Norse Sagas](sources/103-the-norse-sagas-glt8280648151.md) — The Rest Is History with Eleanor Rosamund Barraclough on Icelandic settlement, Greenland and Vinland voyages, saga transmission, Christianisation, literary memory, and source criticism.
 - [505 茶海轶闻：与王恺漫谈中国茶的真假传说](sources/505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza.md) — 忽左忽右 with Wang Kai on Chinese tea provenance, craft, commercialization, Pu'er speculation, and East Asian cultural exchange.
 - [104. Macbeth](sources/104-macbeth-glt3313769671.md) — The Rest Is History on the historical Macbeth, medieval Scottish succession, Shakespeare's Jacobean adaptation, regicide, witchcraft, and theatrical memory.
@@ -3545,6 +3546,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar](sources/scim9724505974-scim9724505974.md) — Huberman Lab interview on melanopsin light sensing, circadian alignment, mood pathways, meal and exercise timing, and internal-time-aware travel adaptation.
 
 ## Entities
+- [Ludwig Erhard](entities/LudwigErhard.md) — Economist and Adenauer successor presented as a technocrat whose expertise did not produce durable political authority.
+- [Kurt Georg Kiesinger](entities/KurtGeorgKiesinger.md) — West German chancellor whose Nazi Party past exposed incomplete postwar personnel rupture.
+- [Willy Brandt](entities/WillyBrandt.md) — Anti-fascist chancellor linking Ostpolitik, German normalization, and public moral reckoning.
+- [Helmut Schmidt](entities/HelmutSchmidt.md) — Pro-European West German chancellor whose democratic leadership coexisted with a morally ambiguous wartime biography.
+- [Gerhard Schröder](entities/GerhardSchroder.md) — Third Way German chancellor whose later Russian energy ties shape the retrospective judgment of Nord Stream.
 - [Eleanor Rosamund Barraclough](entities/EleanorRosamundBarraclough.md) — Scholar connecting Viking travel, Old Norse literature, landscape, and source-critical interpretation.
 - [Icelandic Sagas](entities/IcelandicSagas.md) — Medieval Icelandic prose corpus joining oral memory, farms, kinship, law, feud, travel, and later political mediation.
 - [Eric the Red](entities/EricTheRed.md) — Saga-associated outlaw, explorer, and promoter linked to Norse settlement of Greenland.
@@ -15620,6 +15626,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
 
 ## Concepts
+- [Ostpolitik](concepts/Ostpolitik.md) — West German normalization strategy joining practical eastern diplomacy to Brandt-era reconciliation.
+- [Postwar German Democratic Caution](concepts/PostwarGermanDemocraticCaution.md) — Political culture of restraint, coalition, and stability shaped by dictatorship, war, defeat, and division.
 - [Oral Tradition to Manuscript Mediation](concepts/OralTraditionManuscriptMediation.md) — Process by which performance traditions are preserved and reshaped through later literary, religious, and political writing.
 - [Chinese Tea Tradition Reconstruction / 中国茶传统重构](concepts/ChineseTeaTraditionReconstruction.md) — How interruption, revival, borrowing, and recombination produce apparently continuous tea traditions.
 - [Tea Market Authenticity / 茶叶市场真实性](concepts/TeaMarketAuthenticity.md) — Traceability across tea name, origin, cultivar, process, age, volume, storage, and sensory presentation.

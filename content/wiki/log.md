@@ -27877,3 +27877,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 102. Germany from Adenauer to Angela
+
+Added a source page for The Rest Is History's survey of postwar German democracy from Adenauer to Merkel. Created Ludwig Erhard, Kurt Georg Kiesinger, Willy Brandt, Helmut Schmidt, Gerhard Schröder, Ostpolitik, and Postwar German Democratic Caution; updated Angela Merkel, Konrad Adenauer, Helmut Kohl, West Germany, Nord Stream, European Energy Security Dependence, the index, and the overview. No settled contradiction found; numerical, biographical, causal, and policy-comparison claims remain source-scoped.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

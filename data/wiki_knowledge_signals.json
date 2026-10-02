@@ -12128,9 +12128,9 @@
       "url": "/wiki/entities/angelraymer/"
     },
     "AngelaMerkel": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
@@ -12145,9 +12145,16 @@
           "show": "The Rest Is History",
           "title": "290: 2022: A History",
           "url": "/wiki/sources/290-2022-a-history-glt4625765030/"
+        },
+        {
+          "episode_file": "GLT6085378369 [GLT6085378369].md",
+          "key": "102-germany-from-adenauer-to-angela-glt6085378369",
+          "show": "The Rest Is History",
+          "title": "102. Germany from Adenauer to Angela",
+          "url": "/wiki/sources/102-germany-from-adenauer-to-angela-glt6085378369/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/angelamerkel/"
     },
     "AngelicIntelligence": {
@@ -64089,9 +64096,9 @@
       "url": "/wiki/concepts/europeandefenseautonomy/"
     },
     "EuropeanEnergySecurityDependence": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4625765030 [GLT4625765030].md",
@@ -64113,6 +64120,13 @@
           "show": "The Rest Is History",
           "title": "168. Oil: Conflict, Chaos and Climate Change",
           "url": "/wiki/sources/168-oil-conflict-chaos-and-climate-change-glt4572551005/"
+        },
+        {
+          "episode_file": "GLT6085378369 [GLT6085378369].md",
+          "key": "102-germany-from-adenauer-to-angela-glt6085378369",
+          "show": "The Rest Is History",
+          "title": "102. Germany from Adenauer to Angela",
+          "url": "/wiki/sources/102-germany-from-adenauer-to-angela-glt6085378369/"
         }
       ],
       "updated": "2026-10-02",
@@ -79893,6 +79907,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/gerardwinstanley/"
     },
+    "GerhardSchroder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6085378369 [GLT6085378369].md",
+          "key": "102-germany-from-adenauer-to-angela-glt6085378369",
+          "show": "The Rest Is History",
+          "title": "102. Germany from Adenauer to Angela",
+          "url": "/wiki/sources/102-germany-from-adenauer-to-angela-glt6085378369/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/gerhardschroder/"
+    },
     "GermanCaretakerStalemate": {
       "episode_count": 1,
       "show_count": 1,
@@ -89100,9 +89130,9 @@
       "url": "/wiki/entities/hellobike/"
     },
     "HelmutKohl": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4069689977 [GLT4069689977].md",
@@ -89110,10 +89140,33 @@
           "show": "The Rest Is History",
           "title": "322: East Germany: Life Behind the Iron Curtain",
           "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        },
+        {
+          "episode_file": "GLT6085378369 [GLT6085378369].md",
+          "key": "102-germany-from-adenauer-to-angela-glt6085378369",
+          "show": "The Rest Is History",
+          "title": "102. Germany from Adenauer to Angela",
+          "url": "/wiki/sources/102-germany-from-adenauer-to-angela-glt6085378369/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/helmutkohl/"
+    },
+    "HelmutSchmidt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6085378369 [GLT6085378369].md",
+          "key": "102-germany-from-adenauer-to-angela-glt6085378369",
+          "show": "The Rest Is History",
+          "title": "102. Germany from Adenauer to Angela",
+          "url": "/wiki/sources/102-germany-from-adenauer-to-angela-glt6085378369/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/helmutschmidt/"
     },
     "HelmuthVonMoltkeTheYounger": {
       "episode_count": 2,
@@ -111853,9 +111906,9 @@
       "url": "/wiki/entities/kongqiangfilm/"
     },
     "KonradAdenauer": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6217148052 [GLT6217148052].md",
@@ -111863,9 +111916,16 @@
           "show": "The Rest Is History",
           "title": "679. Germany: The Song Hitler Stole (Part 3)",
           "url": "/wiki/sources/679-germany-the-song-hitler-stole-part-3-glt6217148052/"
+        },
+        {
+          "episode_file": "GLT6085378369 [GLT6085378369].md",
+          "key": "102-germany-from-adenauer-to-angela-glt6085378369",
+          "show": "The Rest Is History",
+          "title": "102. Germany from Adenauer to Angela",
+          "url": "/wiki/sources/102-germany-from-adenauer-to-angela-glt6085378369/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/konradadenauer/"
     },
     "KonradLorenz": {
@@ -112374,6 +112434,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/kurikarabattle/"
+    },
+    "KurtGeorgKiesinger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6085378369 [GLT6085378369].md",
+          "key": "102-germany-from-adenauer-to-angela-glt6085378369",
+          "show": "The Rest Is History",
+          "title": "102. Germany from Adenauer to Angela",
+          "url": "/wiki/sources/102-germany-from-adenauer-to-angela-glt6085378369/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/kurtgeorgkiesinger/"
     },
     "KurtVonSchleicher": {
       "episode_count": 1,
@@ -124694,6 +124770,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/lucylethbridge/"
+    },
+    "LudwigErhard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6085378369 [GLT6085378369].md",
+          "key": "102-germany-from-adenauer-to-angela-glt6085378369",
+          "show": "The Rest Is History",
+          "title": "102. Germany from Adenauer to Angela",
+          "url": "/wiki/sources/102-germany-from-adenauer-to-angela-glt6085378369/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/ludwigerhard/"
     },
     "LuffyMedicalChannel": {
       "episode_count": 1,
@@ -143129,9 +143221,9 @@
       "url": "/wiki/concepts/nonviolentmovementcredibilitycrisis/"
     },
     "NordStream": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4572551005 [GLT4572551005].md",
@@ -143139,6 +143231,13 @@
           "show": "The Rest Is History",
           "title": "168. Oil: Conflict, Chaos and Climate Change",
           "url": "/wiki/sources/168-oil-conflict-chaos-and-climate-change-glt4572551005/"
+        },
+        {
+          "episode_file": "GLT6085378369 [GLT6085378369].md",
+          "key": "102-germany-from-adenauer-to-angela-glt6085378369",
+          "show": "The Rest Is History",
+          "title": "102. Germany from Adenauer to Angela",
+          "url": "/wiki/sources/102-germany-from-adenauer-to-angela-glt6085378369/"
         }
       ],
       "updated": "2026-10-02",
@@ -147115,6 +147214,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/osorioduqueestrada/"
+    },
+    "Ostpolitik": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6085378369 [GLT6085378369].md",
+          "key": "102-germany-from-adenauer-to-angela-glt6085378369",
+          "show": "The Rest Is History",
+          "title": "102. Germany from Adenauer to Angela",
+          "url": "/wiki/sources/102-germany-from-adenauer-to-angela-glt6085378369/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/ostpolitik/"
     },
     "OswaldMosley": {
       "episode_count": 4,
@@ -156923,6 +157038,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/postwarfashionconsumerrevolution/"
+    },
+    "PostwarGermanDemocraticCaution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6085378369 [GLT6085378369].md",
+          "key": "102-germany-from-adenauer-to-angela-glt6085378369",
+          "show": "The Rest Is History",
+          "title": "102. Germany from Adenauer to Angela",
+          "url": "/wiki/sources/102-germany-from-adenauer-to-angela-glt6085378369/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/postwargermandemocraticcaution/"
     },
     "PostwarImperialFiscalSecurityBind": {
       "episode_count": 1,
@@ -208129,9 +208260,9 @@
       "url": "/wiki/entities/westbengal/"
     },
     "WestGermany": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6217148052 [GLT6217148052].md",
@@ -208146,9 +208277,16 @@
           "show": "The Rest Is History",
           "title": "253. The World Cup: Post-war reconciliation, Brazilian dictatorship, and North Koreans in Middlesbrough (Part 2)",
           "url": "/wiki/sources/253-the-world-cup-post-war-reconciliation-brazilian-dictatorship-and-north-koreans-in-middlesbrough-part-2-glt3874165711/"
+        },
+        {
+          "episode_file": "GLT6085378369 [GLT6085378369].md",
+          "key": "102-germany-from-adenauer-to-angela-glt6085378369",
+          "show": "The Rest Is History",
+          "title": "102. Germany from Adenauer to Angela",
+          "url": "/wiki/sources/102-germany-from-adenauer-to-angela-glt6085378369/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/westgermany/"
     },
     "WestIndiesCricketTeam": {
@@ -209322,6 +209460,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/williewhitelaw/"
+    },
+    "WillyBrandt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6085378369 [GLT6085378369].md",
+          "key": "102-germany-from-adenauer-to-angela-glt6085378369",
+          "show": "The Rest Is History",
+          "title": "102. Germany from Adenauer to Angela",
+          "url": "/wiki/sources/102-germany-from-adenauer-to-angela-glt6085378369/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/willybrandt/"
     },
     "WimHof": {
       "episode_count": 2,

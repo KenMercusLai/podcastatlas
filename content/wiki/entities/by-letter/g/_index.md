@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12033
+wiki_total_pages: 12038
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "GerardWinstanley"
     title: "Gerard Winstanley"
     url: "/wiki/entities/gerardwinstanley/"
+  - key: "GerhardSchroder"
+    title: "Gerhard Schröder"
+    url: "/wiki/entities/gerhardschroder/"
   - key: "GermanEmpire"
     title: "German Empire"
     url: "/wiki/entities/germanempire/"
