@@ -70887,9 +70887,9 @@
       "url": "/wiki/entities/ferdinandmaximilian/"
     },
     "FermentedFoodResponsePersonalization": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM3206044616 [SCIM3206044616].md",
@@ -70911,9 +70911,16 @@
           "show": "Huberman Lab",
           "title": "How to Enhance Your Gut Microbiome for Brain & Overall Health",
           "url": "/wiki/sources/how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394/"
+        },
+        {
+          "episode_file": "SCIM4317576130 [SCIM4317576130].md",
+          "key": "scim4317576130-scim4317576130",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Brain-Body Function & Health",
+          "url": "/wiki/sources/scim4317576130-scim4317576130/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/fermentedfoodresponsepersonalization/"
     },
     "Ferrero": {
@@ -85780,9 +85787,9 @@
       "url": "/wiki/entities/gustavstresemann/"
     },
     "GutSensoryNeuralSignaling": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM8970398714 [SCIM8970398714].md",
@@ -85804,9 +85811,16 @@
           "show": "Huberman Lab",
           "title": "How to Enhance Your Gut Microbiome for Brain & Overall Health",
           "url": "/wiki/sources/how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394/"
+        },
+        {
+          "episode_file": "SCIM4317576130 [SCIM4317576130].md",
+          "key": "scim4317576130-scim4317576130",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Brain-Body Function & Health",
+          "url": "/wiki/sources/scim4317576130-scim4317576130/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/gutsensoryneuralsignaling/"
     },
     "Guthrum": {
@@ -103002,6 +103016,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/internetpoliticalamplification/"
     },
+    "InteroceptiveBrainBodyCommunication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4317576130 [SCIM4317576130].md",
+          "key": "scim4317576130-scim4317576130",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Brain-Body Function & Health",
+          "url": "/wiki/sources/scim4317576130-scim4317576130/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/interoceptivebrainbodycommunication/"
+    },
     "InterpersonalImageProjection": {
       "episode_count": 1,
       "show_count": 1,
@@ -111334,9 +111364,9 @@
       "url": "/wiki/concepts/jungianselfandego/"
     },
     "JustinSonnenburg": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9214130216 [SCIM9214130216].md",
@@ -111344,9 +111374,16 @@
           "show": "Huberman Lab",
           "title": "How to Build, Maintain & Repair Gut Health | Dr. Justin Sonnenburg",
           "url": "/wiki/sources/how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216/"
+        },
+        {
+          "episode_file": "SCIM4317576130 [SCIM4317576130].md",
+          "key": "scim4317576130-scim4317576130",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Brain-Body Function & Health",
+          "url": "/wiki/sources/scim4317576130-scim4317576130/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/justinsonnenburg/"
     },
     "JustinianI": {
@@ -155649,9 +155686,9 @@
       "url": "/wiki/concepts/physicsstagnationclaim/"
     },
     "PhysiologicalSigh": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM1991900083 [SCIM1991900083].md",
@@ -155687,9 +155724,16 @@
           "show": "Huberman Lab",
           "title": "Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
           "url": "/wiki/sources/breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802/"
+        },
+        {
+          "episode_file": "SCIM4317576130 [SCIM4317576130].md",
+          "key": "scim4317576130-scim4317576130",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Brain-Body Function & Health",
+          "url": "/wiki/sources/scim4317576130-scim4317576130/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/physiologicalsigh/"
     },
     "PiTongEasternHan": {
@@ -169389,9 +169433,9 @@
       "url": "/wiki/concepts/respectbasedconflictdeescalation/"
     },
     "RespiratoryGasBalanceAndBreathworkSafety": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7880960950 [SCIM7880960950].md",
@@ -169406,9 +169450,16 @@
           "show": "Huberman Lab",
           "title": "Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
           "url": "/wiki/sources/breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802/"
+        },
+        {
+          "episode_file": "SCIM4317576130 [SCIM4317576130].md",
+          "key": "scim4317576130-scim4317576130",
+          "show": "Huberman Lab",
+          "title": "How to Optimize Your Brain-Body Function & Health",
+          "url": "/wiki/sources/scim4317576130-scim4317576130/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/respiratorygasbalanceandbreathworksafety/"
     },
     "RespiratoryRhythmGeneration": {

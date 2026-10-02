@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9406
+wiki_total_pages: 9407
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "InternshipAsCareerExploration"
     title: "Internship As Career Exploration"
     url: "/wiki/concepts/internshipascareerexploration/"
+  - key: "InteroceptiveBrainBodyCommunication"
+    title: "Interoceptive Brain-Body Communication"
+    url: "/wiki/concepts/interoceptivebrainbodycommunication/"
   - key: "InterpersonalImageProjection"
     title: "Interpersonal Image Projection / 人际意象投射"
     url: "/wiki/concepts/interpersonalimageprojection/"

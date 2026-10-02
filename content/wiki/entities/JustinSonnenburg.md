@@ -4,7 +4,8 @@ type: entity
 tags: [person, microbiologist, immunologist, gut-microbiome, stanford]
 sources:
   - how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216
-last_updated: 2026-10-02
+  - scim4317576130-scim4317576130
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Justin Sonnenburg is the [[StanfordUniversity]] microbiology and immunology professor interviewed by [[AndrewHuberman]] about gut microbial ecology, diet, immune and metabolic signaling, and the limits of microbiome interventions.
 
 ## Current Profile
-The current source presents Sonnenburg as an ecological and experimental interpreter of the gut microbiome. He explains microbial communities through assembly, local niches, substrates, competition, stable states, perturbation, and recovery rather than through a simple inventory of “good” and “bad” organisms. His practical emphasis is on diverse whole-plant fiber, live fermented foods when tolerated, and reduced reliance on highly processed foods, while his evidentiary stance remains cautious about cleanses, fasting, probiotic supplements, purified prebiotics, direct brain effects, and any single definition of a healthy microbiome.
+The interview presents Sonnenburg as an ecological and experimental interpreter of the gut microbiome. He explains microbial communities through assembly, local niches, substrates, competition, stable states, perturbation, and recovery rather than through a simple inventory of “good” and “bad” organisms. His practical emphasis is on diverse whole-plant fiber, live fermented foods when tolerated, and reduced reliance on highly processed foods, while his evidentiary stance remains cautious about cleanses, fasting, probiotic supplements, purified prebiotics, direct brain effects, and any single definition of a healthy microbiome. The earlier solo episode supplies only a brief attribution of the Stanford diet intervention to his work and does not independently expand his biography or full research program.
 
 His discussion of the Stanford fiber-versus-fermented-food intervention adds a researcher-side account of [[FermentedFoodResponsePersonalization]]. The fermented-food arm showed the clearest cohort-wide microbial-diversity and inflammatory-marker changes, whereas fiber responses varied with starting diversity. He treats those findings as informative without making them a universal clinical prescription.
 
@@ -32,12 +33,14 @@ His discussion of the Stanford fiber-versus-fermented-food intervention adds a r
 - Intervention research: [[how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216]] reports the Stanford high-fiber versus high-fermented-food study and its heterogeneous responses.
 - Communication mechanisms: [[how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216]] describes epithelial, immune, enteric-neural, cellular, and circulating-metabolite routes.
 - Evidence discipline: [[how-to-build-maintain-repair-gut-health-dr-justin-sonnenburg-scim9214130216]] repeatedly marks healthy-microbiome definitions, fasting, cleanses, probiotics, prebiotics, and brain outcomes as unsettled or mixed.
+- Earlier attribution: [[scim4317576130-scim4317576130]] credits Sonnenburg with the Stanford fiber-versus-fermented-food comparison and previews its diversity and inflammatory-marker findings.
 
 ## Qualifications
-The profile is bounded to one public interview and its condensed account of underlying research. It does not independently audit the cited trials or animal studies, define a universally healthy microbiome, establish long-term clinical benefit from fermented foods, or support individualized dietary, supplement, antibiotic, fasting, sanitation, or fecal-transplant decisions.
+The profile is bounded to one public interview plus one earlier solo-episode attribution and their condensed account of underlying research. The early source spells the surname “Sonnenberg”; the wiki follows the established [[JustinSonnenburg]] identity. These sources do not independently audit the cited trials or animal studies, define a universally healthy microbiome, establish long-term clinical benefit from fermented foods, or support individualized dietary, supplement, antibiotic, fasting, sanitation, or fecal-transplant decisions.
 
 ## What Changed
-- Created the profile to capture Sonnenburg's ecological microbiome framework, diet-intervention research, and uncertainty boundaries.
+- Added the earlier solo episode's attribution of the Stanford diet intervention to Sonnenburg.
+- Recorded the supplied episode's surname inconsistency without splitting the identity.
 
 ## Relationships
 - [[AndrewHuberman]] - interviewer who elicits mechanisms, practical dietary implications, and evidence limits.

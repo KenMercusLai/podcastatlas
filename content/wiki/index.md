@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Optimize Your Brain-Body Function & Health](sources/scim4317576130-scim4317576130.md) — Early Huberman Lab episode on interoception, brain-body signaling, breathing, gut sensing, fermented foods, immune responses, and awareness-practice limits.
 - [80. Modern Olympics - Part 1](sources/80-modern-olympics-part-1-glt3795252606.md) — The Rest Is History on the Olympics' multi-origin revival, Coubertin, amateurism, improvised early Games, and Berlin 1936 as a propaganda template.
 - [81. Modern Olympics - Part 2](sources/81-modern-olympics-part-2-glt4846758176.md) — The Rest Is History on postwar Olympic austerity, Cold War rivalry, protest, violence, commercialization, host-city costs, and enduring athlete stories.
 - [82. Sparta](sources/82-sparta-glt1755395266.md) — The Rest Is History on helot-backed militarization, citizen discipline, Spartan institutions and decline, source scarcity, Thermopylae, and modern ideological afterlives.
@@ -15726,6 +15727,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Interoceptive Brain-Body Communication](concepts/InteroceptiveBrainBodyCommunication.md) — Integration of mechanical, chemical, immune, and consciously accessible signals from organs into regulation and felt body state.
 - [Modern Olympic Revivalism](concepts/ModernOlympicRevivalism.md) — Selective construction of modern sporting institutions through ancient prestige, local festivals, education, nationalism, and politics.
 - [Olympic Amateurism](concepts/OlympicAmateurism.md) — Class-coded eligibility ideal destabilized by professional sport and materially different forms of athlete support.
 - [Olympic Cold War Rivalry](concepts/OlympicColdWarRivalry.md) — Proxy contest among political systems through medals, state training, symbolic matches, doping, defection, and boycotts.
