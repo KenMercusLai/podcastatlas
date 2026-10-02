@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 12027
+wiki_total_pages: 12033
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "EldenRing"
     title: "Elden Ring / 艾尔登法环"
     url: "/wiki/entities/eldenring/"
+  - key: "EleanorRosamundBarraclough"
+    title: "Eleanor Rosamund Barraclough"
+    url: "/wiki/entities/eleanorrosamundbarraclough/"
   - key: "ElectiveStudyAbroad"
     title: "Elective Study Abroad"
     url: "/wiki/entities/electivestudyabroad/"
@@ -542,6 +545,9 @@ wiki_pages:
   - key: "EricSchmidt"
     title: "Eric Schmidt"
     url: "/wiki/entities/ericschmidt/"
+  - key: "EricTheRed"
+    title: "Eric the Red"
+    url: "/wiki/entities/ericthered/"
   - key: "EricWeinstein"
     title: "Eric Weinstein"
     url: "/wiki/entities/ericweinstein/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 12027
+wiki_total_pages: 12033
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "VingeruMakandewiri"
     title: "Vingeru Makandewiri"
     url: "/wiki/entities/vingerumakandewiri/"
+  - key: "Vinland"
+    title: "Vinland"
+    url: "/wiki/entities/vinland/"
   - key: "VincaCulture"
     title: "Vinča Culture"
     url: "/wiki/entities/vincaculture/"

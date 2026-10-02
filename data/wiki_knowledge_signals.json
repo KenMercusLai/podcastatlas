@@ -57653,6 +57653,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/elderintimacycareautonomy/"
     },
+    "EleanorRosamundBarraclough": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8280648151 [GLT8280648151].md",
+          "key": "103-the-norse-sagas-glt8280648151",
+          "show": "The Rest Is History",
+          "title": "103. The Norse Sagas",
+          "url": "/wiki/sources/103-the-norse-sagas-glt8280648151/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/eleanorrosamundbarraclough/"
+    },
     "ElectionAdministrationTrust": {
       "episode_count": 2,
       "show_count": 1,
@@ -63445,6 +63461,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/ericfeishu/"
+    },
+    "EricTheRed": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8280648151 [GLT8280648151].md",
+          "key": "103-the-norse-sagas-glt8280648151",
+          "show": "The Rest Is History",
+          "title": "103. The Norse Sagas",
+          "url": "/wiki/sources/103-the-norse-sagas-glt8280648151/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/ericthered/"
     },
     "EricWeinstein": {
       "episode_count": 1,
@@ -97287,6 +97319,45 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/ibnfadlan/"
     },
+    "Iceland": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Marine warfare： Le Pen runs for president [6a4e1f2781fe1f6460b7117c].md",
+          "key": "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c",
+          "show": "Economist Podcasts",
+          "title": "Marine warfare: Le Pen runs for president",
+          "url": "/wiki/sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c/"
+        },
+        {
+          "episode_file": "GLT8280648151 [GLT8280648151].md",
+          "key": "103-the-norse-sagas-glt8280648151",
+          "show": "The Rest Is History",
+          "title": "103. The Norse Sagas",
+          "url": "/wiki/sources/103-the-norse-sagas-glt8280648151/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/iceland/"
+    },
+    "IcelandicSagas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8280648151 [GLT8280648151].md",
+          "key": "103-the-norse-sagas-glt8280648151",
+          "show": "The Rest Is History",
+          "title": "103. The Norse Sagas",
+          "url": "/wiki/sources/103-the-norse-sagas-glt8280648151/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/icelandicsagas/"
+    },
     "Iceni": {
       "episode_count": 1,
       "show_count": 1,
@@ -112512,6 +112583,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/kyliejenner/"
+    },
+    "LAnseAuxMeadows": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8280648151 [GLT8280648151].md",
+          "key": "103-the-norse-sagas-glt8280648151",
+          "show": "The Rest Is History",
+          "title": "103. The Norse Sagas",
+          "url": "/wiki/sources/103-the-norse-sagas-glt8280648151/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/lanseauxmeadows/"
     },
     "LCatterton": {
       "episode_count": 1,
@@ -143171,9 +143258,9 @@
       "url": "/wiki/entities/normandy/"
     },
     "NorseMythology": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
@@ -143202,9 +143289,16 @@
           "show": "The Rest Is History",
           "title": "358: Viking Sorcery",
           "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
+        },
+        {
+          "episode_file": "GLT8280648151 [GLT8280648151].md",
+          "key": "103-the-norse-sagas-glt8280648151",
+          "show": "The Rest Is History",
+          "title": "103. The Norse Sagas",
+          "url": "/wiki/sources/103-the-norse-sagas-glt8280648151/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/norsemythology/"
     },
     "NorthAmericanBlueEnergyPartners": {
@@ -146674,6 +146768,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/oralmicrobiomepreventivecare/"
+    },
+    "OralTraditionManuscriptMediation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8280648151 [GLT8280648151].md",
+          "key": "103-the-norse-sagas-glt8280648151",
+          "show": "The Rest Is History",
+          "title": "103. The Norse Sagas",
+          "url": "/wiki/sources/103-the-norse-sagas-glt8280648151/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/oraltraditionmanuscriptmediation/"
     },
     "OralTurnPoliticalCommunication": {
       "episode_count": 1,
@@ -172226,9 +172336,9 @@
       "url": "/wiki/concepts/safeeffortprocrastinationreset/"
     },
     "SagaSourceCriticism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5802152245 [GLT5802152245].md",
@@ -172243,9 +172353,16 @@
           "show": "The Rest Is History",
           "title": "552. The Last Viking: The Saga of Harald Hardrada (Part 1)",
           "url": "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
+        },
+        {
+          "episode_file": "GLT8280648151 [GLT8280648151].md",
+          "key": "103-the-norse-sagas-glt8280648151",
+          "show": "The Rest Is History",
+          "title": "103. The Norse Sagas",
+          "url": "/wiki/sources/103-the-norse-sagas-glt8280648151/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/sagasourcecriticism/"
     },
     "SageOx": {
@@ -181218,6 +181335,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/snobberyasvalueranking/"
+    },
+    "SnorriSturluson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8280648151 [GLT8280648151].md",
+          "key": "103-the-norse-sagas-glt8280648151",
+          "show": "The Rest Is History",
+          "title": "103. The Norse Sagas",
+          "url": "/wiki/sources/103-the-norse-sagas-glt8280648151/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/snorristurluson/"
     },
     "SnowPeak": {
       "episode_count": 1,
@@ -202400,9 +202533,9 @@
       "url": "/wiki/concepts/vikingageperiodization/"
     },
     "VikingAgeWorldview": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1200485419 [GLT1200485419].md",
@@ -202410,9 +202543,16 @@
           "show": "The Rest Is History",
           "title": "358: Viking Sorcery",
           "url": "/wiki/sources/358-viking-sorcery-glt1200485419/"
+        },
+        {
+          "episode_file": "GLT8280648151 [GLT8280648151].md",
+          "key": "103-the-norse-sagas-glt8280648151",
+          "show": "The Rest Is History",
+          "title": "103. The Norse Sagas",
+          "url": "/wiki/sources/103-the-norse-sagas-glt8280648151/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/vikingageworldview/"
     },
     "VikingEasternRoutes": {
@@ -202547,6 +202687,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/vinegarvalentines/"
+    },
+    "Vinland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8280648151 [GLT8280648151].md",
+          "key": "103-the-norse-sagas-glt8280648151",
+          "show": "The Rest Is History",
+          "title": "103. The Norse Sagas",
+          "url": "/wiki/sources/103-the-norse-sagas-glt8280648151/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/vinland/"
     },
     "ViolenceReductionPublicHealthModel": {
       "episode_count": 1,

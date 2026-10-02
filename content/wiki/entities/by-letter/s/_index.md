@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12027
+wiki_total_pages: 12033
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "Snapchat"
     title: "Snapchat"
     url: "/wiki/entities/snapchat/"
+  - key: "SnorriSturluson"
+    title: "Snorri Sturluson"
+    url: "/wiki/entities/snorristurluson/"
   - key: "SnowPeak"
     title: "Snow Peak"
     url: "/wiki/entities/snowpeak/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2420
+topic_total_pages: 2422
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -934,6 +934,9 @@ topic_concepts:
   - key: "OmenCodedRemonstrance"
     title: "Omen-Coded Remonstrance / 天象灾异包装式进谏"
     url: "/wiki/concepts/omencodedremonstrance/"
+  - key: "OralTraditionManuscriptMediation"
+    title: "Oral Tradition to Manuscript Mediation"
+    url: "/wiki/concepts/oraltraditionmanuscriptmediation/"
   - key: "OstarbeiterForcedLabor"
     title: "Ostarbeiter Forced Labor / 东方劳工强制劳动"
     url: "/wiki/concepts/ostarbeiterforcedlabor/"
@@ -4827,6 +4830,9 @@ topic_sources:
   - key: "05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925"
     title: "05.她来自马里乌波尔：“如果你看见过我曾见到的。”"
     url: "/wiki/sources/05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925/"
+  - key: "103-the-norse-sagas-glt8280648151"
+    title: "103. The Norse Sagas"
+    url: "/wiki/sources/103-the-norse-sagas-glt8280648151/"
   - key: "104-macbeth-glt3313769671"
     title: "104. Macbeth"
     url: "/wiki/sources/104-macbeth-glt3313769671/"

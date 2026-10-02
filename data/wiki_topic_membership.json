@@ -107,6 +107,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "103-the-norse-sagas-glt8280648151": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "104-macbeth-glt3313769671": [
     {
       "key": "history",
@@ -42042,6 +42049,13 @@
       "url": "/topics/science/"
     }
   ],
+  "IcelandicSagas": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "IdaLupino": [
     {
       "key": "culture",
@@ -59474,6 +59488,18 @@
     }
   ],
   "OralMythMagicalRealismSource": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "OralTraditionManuscriptMediation": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "culture",
       "label": "Culture",

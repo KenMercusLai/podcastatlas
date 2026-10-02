@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3023
+topic_total_pages: 3025
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2065,6 +2065,9 @@ topic_concepts:
   - key: "OralMythMagicalRealismSource"
     title: "Oral Myth As Magical Realism Source"
     url: "/wiki/concepts/oralmythmagicalrealismsource/"
+  - key: "OralTraditionManuscriptMediation"
+    title: "Oral Tradition to Manuscript Mediation"
+    url: "/wiki/concepts/oraltraditionmanuscriptmediation/"
   - key: "OralTurnPoliticalCommunication"
     title: "Oral Turn in Political Communication"
     url: "/wiki/concepts/oralturnpoliticalcommunication/"
@@ -4361,6 +4364,9 @@ topic_entities:
   - key: "ILibertine"
     title: "I, Libertine"
     url: "/wiki/entities/ilibertine/"
+  - key: "IcelandicSagas"
+    title: "Icelandic Sagas"
+    url: "/wiki/entities/icelandicsagas/"
   - key: "IdaLupino"
     title: "Ida Lupino / 艾达·卢皮诺"
     url: "/wiki/entities/idalupino/"

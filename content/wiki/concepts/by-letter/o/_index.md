@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9340
+wiki_total_pages: 9341
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "OralMythMagicalRealismSource"
     title: "Oral Myth As Magical Realism Source"
     url: "/wiki/concepts/oralmythmagicalrealismsource/"
+  - key: "OralTraditionManuscriptMediation"
+    title: "Oral Tradition to Manuscript Mediation"
+    url: "/wiki/concepts/oraltraditionmanuscriptmediation/"
   - key: "OralTurnPoliticalCommunication"
     title: "Oral Turn in Political Communication"
     url: "/wiki/concepts/oralturnpoliticalcommunication/"

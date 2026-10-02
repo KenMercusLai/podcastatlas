@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [103. The Norse Sagas](sources/103-the-norse-sagas-glt8280648151.md) — The Rest Is History with Eleanor Rosamund Barraclough on Icelandic settlement, Greenland and Vinland voyages, saga transmission, Christianisation, literary memory, and source criticism.
 - [505 茶海轶闻：与王恺漫谈中国茶的真假传说](sources/505-chahai-yiwen-yu-wangkai-mantan-zhongguocha-de-zhenjia-chuanshuo-lighspj-fv3ggyuj1wurpdbgxhza.md) — 忽左忽右 with Wang Kai on Chinese tea provenance, craft, commercialization, Pu'er speculation, and East Asian cultural exchange.
 - [104. Macbeth](sources/104-macbeth-glt3313769671.md) — The Rest Is History on the historical Macbeth, medieval Scottish succession, Shakespeare's Jacobean adaptation, regicide, witchcraft, and theatrical memory.
 - [Using Temperature to Optimize Performance, Brain & Body Health | Dr. Craig Heller](sources/scim6467660570-scim6467660570.md) — Huberman Lab interview on thermal limits, glabrous-skin heat exchange, targeted cooling and rewarming, exercise performance, sleep, and evidence boundaries.
@@ -3544,6 +3545,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar](sources/scim9724505974-scim9724505974.md) — Huberman Lab interview on melanopsin light sensing, circadian alignment, mood pathways, meal and exercise timing, and internal-time-aware travel adaptation.
 
 ## Entities
+- [Eleanor Rosamund Barraclough](entities/EleanorRosamundBarraclough.md) — Scholar connecting Viking travel, Old Norse literature, landscape, and source-critical interpretation.
+- [Icelandic Sagas](entities/IcelandicSagas.md) — Medieval Icelandic prose corpus joining oral memory, farms, kinship, law, feud, travel, and later political mediation.
+- [Eric the Red](entities/EricTheRed.md) — Saga-associated outlaw, explorer, and promoter linked to Norse settlement of Greenland.
+- [Vinland](entities/Vinland.md) — Saga name for a North American Norse expedition zone partly anchored by Newfoundland archaeology.
+- [L'Anse aux Meadows](entities/LAnseAuxMeadows.md) — Newfoundland Norse site supporting temporary pre-Columbian Scandinavian presence in North America.
+- [Snorri Sturluson](entities/SnorriSturluson.md) — Medieval Icelandic author and politician associated with the Prose Edda and kings' sagas.
 - [王恺 / Wang Kai (tea writer)](entities/WangKaiTeaWriter.md) — Writer and field reporter who investigates tea through production sites, historical sources, interviews, and comparative tasting.
 - [Macbeth (historical king)](entities/MacbethHistoricalKing.md) — Long-ruling 11th-century Scottish king later recast as Shakespeare's murderous usurper.
 - [Gruoch](entities/Gruoch.md) — Macbeth's queen and dynastic partner, distinct from the fictional Lady Macbeth.
@@ -15613,6 +15620,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samer Hattar](entities/SamerHattar.md) — Neuroscientist studying retinal light input, circadian timing, sleep, mood, and behavior.
 
 ## Concepts
+- [Oral Tradition to Manuscript Mediation](concepts/OralTraditionManuscriptMediation.md) — Process by which performance traditions are preserved and reshaped through later literary, religious, and political writing.
 - [Chinese Tea Tradition Reconstruction / 中国茶传统重构](concepts/ChineseTeaTraditionReconstruction.md) — How interruption, revival, borrowing, and recombination produce apparently continuous tea traditions.
 - [Tea Market Authenticity / 茶叶市场真实性](concepts/TeaMarketAuthenticity.md) — Traceability across tea name, origin, cultivar, process, age, volume, storage, and sensory presentation.
 - [Tea Terroir and Craft / 茶叶风土与工艺](concepts/TeaTerroirAndCraft.md) — Joint production of tea character through ecology, plant material, craft, storage, water, and brewing.
