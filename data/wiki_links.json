@@ -3343,6 +3343,10 @@
     "title": "84.冰路狂花：好姑娘，你只是忘了勇敢",
     "url": "/wiki/sources/84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676/"
   },
+  "84-exams-glt6507641896": {
+    "title": "84. Exams",
+    "url": "/wiki/sources/84-exams-glt6507641896/"
+  },
   "85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571": {
     "title": "85.车墩墩野事记：走啊！搬到乡下钻小树林儿去！",
     "url": "/wiki/sources/85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571/"
@@ -18851,6 +18855,10 @@
     "title": "Comparative Genomics Trait Inference",
     "url": "/wiki/concepts/comparativegenomicstraitinference/"
   },
+  "ComparativeJudgmentAssessment": {
+    "title": "Comparative Judgment Assessment",
+    "url": "/wiki/concepts/comparativejudgmentassessment/"
+  },
   "ComparativeMedicine": {
     "title": "Comparative Medicine / 比较医学",
     "url": "/wiki/concepts/comparativemedicine/"
@@ -21202,6 +21210,10 @@
   "Daishen": {
     "title": "Daishen",
     "url": "/wiki/entities/daishen/"
+  },
+  "DaisyChristodoulou": {
+    "title": "Daisy Christodoulou",
+    "url": "/wiki/entities/daisychristodoulou/"
   },
   "DakayiKexin": {
     "title": "《打开一颗心》 / Open Heart",
@@ -25859,6 +25871,10 @@
     "title": "Elite Fiscal-Law Compliance / 贵族税法同遵",
     "url": "/wiki/concepts/elitefiscallawcompliance/"
   },
+  "EliteOverproduction": {
+    "title": "Elite Overproduction",
+    "url": "/wiki/concepts/eliteoverproduction/"
+  },
   "EliteRelocationControl": {
     "title": "Elite Relocation Control / 豪杰迁徙控制",
     "url": "/wiki/concepts/eliterelocationcontrol/"
@@ -27442,6 +27458,14 @@
   "ExamDrivenScienceEducation": {
     "title": "Exam-Driven Science Education / 应试化科学教育",
     "url": "/wiki/concepts/examdrivenscienceeducation/"
+  },
+  "ExamStandardizationValidityTradeoff": {
+    "title": "Exam Standardization-Validity Tradeoff",
+    "url": "/wiki/concepts/examstandardizationvaliditytradeoff/"
+  },
+  "ExaminationSystems": {
+    "title": "Examination Systems",
+    "url": "/wiki/concepts/examinationsystems/"
   },
   "ExcavatedTextLexicalCorrection": {
     "title": "出土文献词义校正 / Excavated Text Lexical Correction",
@@ -37178,6 +37202,10 @@
   "HongWeilin": {
     "title": "洪蔚琳",
     "url": "/wiki/entities/hongweilin/"
+  },
+  "HongXiuquan": {
+    "title": "Hong Xiuquan",
+    "url": "/wiki/entities/hongxiuquan/"
   },
   "HongduMenxue": {
     "title": "鸿都门学 / Hongdu Menxue",
@@ -52643,6 +52671,10 @@
     "title": "Michael Servetus",
     "url": "/wiki/entities/michaelservetus/"
   },
+  "MichaelYoung": {
+    "title": "Michael Young",
+    "url": "/wiki/entities/michaelyoung/"
+  },
   "MichelDeCastelnau": {
     "title": "Michel de Castelnau",
     "url": "/wiki/entities/micheldecastelnau/"
@@ -56158,6 +56190,10 @@
   "NoLongerHuman": {
     "title": "《人间失格》 / No Longer Human",
     "url": "/wiki/entities/nolongerhuman/"
+  },
+  "NoMoreMarking": {
+    "title": "No More Marking",
+    "url": "/wiki/entities/nomoremarking/"
   },
   "NoPoachingAgreements": {
     "title": "No-Poaching Agreements",
@@ -60030,6 +60066,10 @@
   "PeterThiel": {
     "title": "Peter Thiel",
     "url": "/wiki/entities/peterthiel/"
+  },
+  "PeterTurchin": {
+    "title": "Peter Turchin",
+    "url": "/wiki/entities/peterturchin/"
   },
   "PeterWard": {
     "title": "Peter Ward",
@@ -75898,6 +75938,10 @@
   "TeacherAsFatherEthic": {
     "title": "一日为师终身为父伦理 / Teacher-as-Father Ethic",
     "url": "/wiki/concepts/teacherasfatherethic/"
+  },
+  "TeacherAssessmentBias": {
+    "title": "Teacher Assessment Bias",
+    "url": "/wiki/concepts/teacherassessmentbias/"
   },
   "TeacherEvaluationAndCareBurden": {
     "title": "Teacher Evaluation and Care Burden / 教师评价与照护负担",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9395
+wiki_total_pages: 9400
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "TeacherAILiteracy"
     title: "Teacher AI Literacy"
     url: "/wiki/concepts/teacherailiteracy/"
+  - key: "TeacherAssessmentBias"
+    title: "Teacher Assessment Bias"
+    url: "/wiki/concepts/teacherassessmentbias/"
   - key: "TeacherEvaluationAndCareBurden"
     title: "Teacher Evaluation and Care Burden / 教师评价与照护负担"
     url: "/wiki/concepts/teacherevaluationandcareburden/"

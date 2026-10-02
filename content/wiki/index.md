@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [84. Exams](sources/84-exams-glt6507641896.md) — The Rest Is History with Daisy Christodoulou on examination history, comparative judgment, standardization, mobility, elite overproduction, and teacher-assessment bias.
 - [86. The Enlightenment](sources/86-the-enlightenment-glt8077157127.md) — The Rest Is History on the Enlightenment as a plural Christian-European transformation joining social infrastructure and universal claims to religion, science, racism, and colonial hierarchy.
 - [Understanding & Treating Addiction | Dr. Anna Lembke](sources/understanding-treating-addiction-dr-anna-lembke-scim9435481929.md) — Huberman Lab interview on the pleasure-pain balance, dopamine adaptation, behavioral addiction, abstinence, relapse, community, truth-telling, and treatment boundaries.
 - [87. Afghanistan - Part 1](sources/87-afghanistan-part-1-glt7464087190.md) — The Rest Is History survey of Afghanistan as an imperial crossroads, Durrani state formation, the Durand Line, the Soviet war, Taliban origins, and intervention limits.
@@ -12245,7 +12246,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [罗翔 / Luo Xiang](entities/LuoXiang.md) — Legal scholar and public intellectual whose 《法律的悖论》 is used by 蜜獾吃书 to examine criminal law, moral judgment, punishment, freedom, and rational humility.
 - [《法律的悖论》 / The Paradox of Law](entities/TheParadoxOfLaw.md) — Luo Xiang book discussed as an accessible criminal-law philosophy route through paradox, moral context, state-power limits, punishment theory, and freedom boundaries.
 - [John Rawls / 罗尔斯](entities/JohnRawls.md) — Philosopher used through the veil of ignorance to test legal and social rules from unknown weak positions.
-- [John Stuart Mill / 穆勒](entities/JohnStuartMill.md) — Liberal philosopher used to test self-regarding conduct, harm, paternalism, and non-waivable freedom.
+- [John Stuart Mill / 穆勒](entities/JohnStuartMill.md) — Liberal philosopher used to test self-regarding conduct, paternalism, future freedom, and the risks of concentrating talent inside the state.
 - [Jeremy Bentham / 边沁](entities/JeremyBentham.md) — Utilitarian philosopher used in the episode's punishment-theory discussion of deterrence and social welfare.
 - [Immanuel Kant / 康德](entities/ImmanuelKant.md) — Retributivist punishment reference used to connect punishment with responsibility, dignity, and proportionality.
 - [G. W. F. Hegel / 黑格尔](entities/GWFHegel.md) — Philosopher represented through late Jena intellectual transition and responsibility-based retributive punishment.
@@ -15678,7 +15679,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [General Gordon](entities/CharlesGeorgeGordon.md) — Evangelical engineer, China commander, philanthropist, abolitionist administrator, and Victorian martyr whose sincerity coexisted with imperial power and institutional impracticality.
 - [Lytton Strachey](entities/LyttonStrachey.md) — Revisionist biographer whose skeptical Gordon portrait challenged Victorian hagiography but invites scrutiny of its own totalizing assumptions.
-- [Taiping Rebellion](entities/TaipingRebellion.md) — Vast religiously charged Chinese civil war that formed the setting for Gordon's first military fame.
+- [Taiping Rebellion](entities/TaipingRebellion.md) — Vast religiously charged Chinese civil war linked to Hong Xiuquan, examination failure, Taiping state-building, and Gordon's first military fame.
 - [Ever Victorious Army](entities/EverVictoriousArmy.md) — Small merchant-backed Shanghai force whose success and legend grew under Gordon's command.
 - [Muhammad Ahmad](entities/MuhammadAhmad.md) — Sudanese Mahdi whose religious-political movement captured Khartoum and exceeded Gordon's slavery-centered interpretation.
 - [William Ewart Gladstone](entities/WilliamEwartGladstone.md) — Liberal prime minister caught between abolitionist pressure, imperial restraint, mission ambiguity, and blame for delayed relief.
@@ -15701,6 +15702,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
 - [Joseph Bell](entities/JosephBell.md) — Edinburgh medical teacher whose diagnostic observation supplied an acknowledged model for Sherlock Holmes’s method.
 - [Sidney Paget](entities/SidneyPaget.md) — Strand illustrator who helped standardize Holmes’s costume, silhouette, and globally recognizable visual identity.
+
+- [Daisy Christodoulou](entities/DaisyChristodoulou.md) — Education and assessment specialist connecting examination history, comparative judgment, public confidence, and distributional fairness.
+- [No More Marking](entities/NoMoreMarking.md) — Assessment company presented as aggregating pairwise judgments of extended writing into a measurement scale.
+- [Hong Xiuquan](entities/HongXiuquan.md) — Taiping leader whose profile joins examination failure, Christian influence, visionary claim, and rebellion without reducing one to another.
+- [Peter Turchin](entities/PeterTurchin.md) — Scholar invoked for the concept of elite overproduction and its application to credential competition.
+- [Michael Young](entities/MichaelYoung.md) — Social critic invoked for meritocracy as a warning about winners converting rank into moral deservingness.
 
 ## Concepts
 - [Enlightenment](concepts/Enlightenment.md) — Plural European transformation joining religious inheritance, scientific inquiry, social infrastructure, universal ambition, and colonial-racial limits.
@@ -21098,7 +21105,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Malthusian Trap / 马尔萨斯陷阱](concepts/MalthusianTrap.md) — Agricultural-civilization limit that episode 150 uses to define what modernization escapes.
 - [Modernization As Compound Growth / 复合增长式现代化](concepts/ModernizationAsCompoundGrowth.md) — Episode 150 definition of modernization as sustained compounding through productivity, markets, science, and industrial organization.
 - [Free-Market Scientific Loop / 自由市场与现代科学闭环](concepts/FreeMarketScientificLoop.md) — Episode 150 mechanism linking markets, limited government, science, and industrial technology into modern growth.
-- [Imperial Examination Opportunity Equality / 科举与机会平等](concepts/ImperialExaminationOpportunityEquality.md) — Episode 150 reading of 科举 as an agricultural-era opportunity institution that later hardened into constraint.
+- [Imperial Examination Opportunity Equality / 科举与机会平等](concepts/ImperialExaminationOpportunityEquality.md) — Public examination route that widened mobility beyond heredity while retaining preparation, curriculum, closure, and position-scarcity limits.
 - [Development As Variation System / 发展作为变异系统](concepts/DevelopmentAsVariationSystem.md) — Yuen Yuen Ang frame used by episode 150 to reject one-cause or one-sequence development models.
 - [Weak Institutions Market Building / 弱制度启动市场](concepts/WeakInstitutionsMarketBuilding.md) — Episode 150 mechanism where imperfect institutions can start early markets but must later be upgraded.
 - [Directed Improvisation / 引导创变](concepts/DirectedImprovisation.md) — Center-local reform model where central boundaries and incentives combine with local problem-solving.
@@ -21460,7 +21467,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cultural Bias In Testing / 测试中的文化偏差](concepts/CulturalBiasInTesting.md) — Risk that supposedly neutral tests measure language, schooling, exhaustion, cultural familiarity, or class background.
 - [Educational Tracking By Testing / 测试驱动的教育分流](concepts/EducationalTrackingByTesting.md) — Placement of children into different schools, curricula, resources, or life expectations by test result.
 - [Forced Sterilization By Eugenics / 优生学强制绝育](concepts/ForcedSterilizationByEugenics.md) — State-violence pattern where people labeled unfit lose reproductive autonomy in the name of heredity or public welfare.
-- [Meritocratic Arrogance / 绩优主义傲慢](concepts/MeritocraticArrogance.md) — Status posture where score, degree, vocabulary, or elite credential becomes contempt rather than responsibility.
+- [Meritocratic Arrogance / 绩优主义傲慢](concepts/MeritocraticArrogance.md) — Status posture where measured achievement becomes contempt, superior dignity, or a claim of moral deservingness.
 - [Ambisexual Worldbuilding / 双性世界建构](concepts/AmbisexualWorldbuilding.md) — Le Guin/Gethen thought experiment where absence of fixed male/female sorting makes hidden assumptions about gender, protection, weakness, desire, and power visible.
 - [Anthropological Science Fiction Worldbuilding / 人类学式科幻世界建构](concepts/AnthropologicalScienceFictionWorldbuilding.md) — Method where speculative worlds become credible through myths, field-note texture, local categories, politics, religion, kinship, and outsider misunderstanding.
 - [Shifgrethor Political Face / 西弗格雷瑟式政治面子](concepts/ShifgrethorPoliticalFace.md) — Gethenian honor/face grammar linking reputation, pride, authority, indirect speech, court politics, and the risk that concession becomes betrayal.
@@ -25152,5 +25159,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Depression Assessment Boundary](concepts/DepressionAssessmentBoundary.md) — Boundary separating symptom recognition from diagnosis, differential assessment, severity evaluation, and treatment selection.
 - [Depression Intervention Evidence Boundary](concepts/DepressionInterventionEvidenceBoundary.md) — Selection rule separating behavioral supports, adjuncts, prescriptions, intensive diets, and altered-state treatments by evidence, feasibility, and risk.
 - [Sherlock Holmes as Victorian Cultural Myth](concepts/SherlockHolmesVictorianCulturalMyth.md) — Framework joining scientific detection, mythic London, imperial anxiety, mass publishing, visual design, and fandom in Holmes’s historical afterlife.
+
+- [Examination Systems](concepts/ExaminationSystems.md) — Scalable selection infrastructure connecting assessment to credentials, education, employment, public office, and institutional legitimacy.
+- [Comparative Judgment Assessment](concepts/ComparativeJudgmentAssessment.md) — Measurement method aggregating repeated pairwise judgments of extended work into a scale.
+- [Elite Overproduction](concepts/EliteOverproduction.md) — Condition in which educated or credentialed aspirants outnumber the elite positions available to absorb them.
+- [Exam Standardization-Validity Tradeoff](concepts/ExamStandardizationValidityTradeoff.md) — Tension between consistent scalable assessment and meaningful measurement of valued knowledge or capacity.
+- [Teacher Assessment Bias](concepts/TeacherAssessmentBias.md) — Risk that contextual teacher judgment systematically reflects expectations, behavior history, disability perceptions, or class signals.
 
 ## Syntheses

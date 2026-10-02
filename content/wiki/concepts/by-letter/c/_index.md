@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9395
+wiki_total_pages: 9400
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1694,6 +1694,9 @@ wiki_pages:
   - key: "ComparativeGenomicsTraitInference"
     title: "Comparative Genomics Trait Inference"
     url: "/wiki/concepts/comparativegenomicstraitinference/"
+  - key: "ComparativeJudgmentAssessment"
+    title: "Comparative Judgment Assessment"
+    url: "/wiki/concepts/comparativejudgmentassessment/"
   - key: "ComparativeMedicine"
     title: "Comparative Medicine / 比较医学"
     url: "/wiki/concepts/comparativemedicine/"

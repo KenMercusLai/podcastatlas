@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12085
+wiki_total_pages: 12090
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "Daishen"
     title: "Daishen"
     url: "/wiki/entities/daishen/"
+  - key: "DaisyChristodoulou"
+    title: "Daisy Christodoulou"
+    url: "/wiki/entities/daisychristodoulou/"
   - key: "DaliContainerShip"
     title: "Dali Container Ship"
     url: "/wiki/entities/dalicontainership/"

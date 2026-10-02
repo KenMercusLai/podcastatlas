@@ -40677,6 +40677,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/comparativegenomicstraitinference/"
     },
+    "ComparativeJudgmentAssessment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/comparativejudgmentassessment/"
+    },
     "ComparativeMedicine": {
       "episode_count": 1,
       "show_count": 1,
@@ -46701,6 +46717,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/dairychoicetoleranceboundary/"
+    },
+    "DaisyChristodoulou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/daisychristodoulou/"
     },
     "DalianYingbo": {
       "episode_count": 1,
@@ -58979,6 +59011,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/eliteendorsementreputationmaking/"
     },
+    "EliteOverproduction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/eliteoverproduction/"
+    },
     "ElizaHamilton": {
       "episode_count": 1,
       "show_count": 1,
@@ -65632,6 +65680,38 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/exmachinafilm/"
+    },
+    "ExamStandardizationValidityTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/examstandardizationvaliditytradeoff/"
+    },
+    "ExaminationSystems": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/examinationsystems/"
     },
     "ExchangeTradedFund": {
       "episode_count": 3,
@@ -93692,6 +93772,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/hongliangji/"
     },
+    "HongXiuquan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/hongxiuquan/"
+    },
     "HongjunSiliconValley101": {
       "episode_count": 1,
       "show_count": 1,
@@ -99567,6 +99663,36 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/imperialedictimplementationresistance/"
+    },
+    "ImperialExaminationOpportunityEquality": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4） [lpHAveRx7GYxNTncAK_-lb5hSrqA].md",
+          "key": "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa/"
+        },
+        {
+          "episode_file": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方 [lgPVP04rnGaGkPuBtE2AC6I5JI3g].md",
+          "key": "150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g",
+          "show": "起朱楼宴宾客",
+          "title": "150.“中国如何跳出贫困陷阱”，现代化之路又会走向何方",
+          "url": "/wiki/sources/150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g/"
+        },
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/imperialexaminationopportunityequality/"
     },
     "ImperialFascistLeague": {
       "episode_count": 1,
@@ -109650,6 +109776,29 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/johnredmond/"
+    },
+    "JohnStuartMill": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "100.法律的悖论：谢天谢地，幸好我们还有罗翔 [733477302].md",
+          "key": "100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302",
+          "show": "蜜獾吃书",
+          "title": "100.法律的悖论：谢天谢地，幸好我们还有罗翔",
+          "url": "/wiki/sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302/"
+        },
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/johnstuartmill/"
     },
     "JohnTernus": {
       "episode_count": 4,
@@ -134802,6 +134951,29 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/meritshieldedaccountability/"
     },
+    "MeritocraticArrogance": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "37.智商测试：请问你是智力婆罗门吗？ [608020679].md",
+          "key": "37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679",
+          "show": "蜜獾吃书",
+          "title": "37.智商测试：请问你是智力婆罗门吗？",
+          "url": "/wiki/sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679/"
+        },
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/meritocraticarrogance/"
+    },
     "Merlin": {
       "episode_count": 2,
       "show_count": 1,
@@ -135750,6 +135922,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/michaelservetus/"
+    },
+    "MichaelYoung": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/michaelyoung/"
     },
     "MichelFoucault": {
       "episode_count": 4,
@@ -144315,6 +144503,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/noexit/"
+    },
+    "NoMoreMarking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/nomoremarking/"
     },
     "NoPositionEncoding": {
       "episode_count": 2,
@@ -154541,6 +154745,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/peterthegreat/"
+    },
+    "PeterTurchin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/peterturchin/"
     },
     "PetitTrianon": {
       "episode_count": 1,
@@ -192909,9 +193129,9 @@
       "url": "/wiki/entities/tainopeople/"
     },
     "TaipingRebellion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2700696137 [GLT2700696137].md",
@@ -192919,9 +193139,16 @@
           "show": "The Rest Is History",
           "title": "141. General Gordon: The Ultimate Victorian Hero",
           "url": "/wiki/sources/141-general-gordon-the-ultimate-victorian-hero-glt2700696137/"
+        },
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/taipingrebellion/"
     },
     "Taipingjing": {
@@ -194200,6 +194427,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/teacherasfatherethic/"
+    },
+    "TeacherAssessmentBias": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6507641896 [GLT6507641896].md",
+          "key": "84-exams-glt6507641896",
+          "show": "The Rest Is History",
+          "title": "84. Exams",
+          "url": "/wiki/sources/84-exams-glt6507641896/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/teacherassessmentbias/"
     },
     "TeacherEvaluationAndCareBurden": {
       "episode_count": 1,

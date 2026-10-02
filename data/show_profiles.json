@@ -939,25 +939,25 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-30",
       "latest_episode_file": "GLT5038102951 [GLT5038102951].md",
-      "source_note_count": 525,
-      "topic_matched_source_note_count": 495,
+      "source_note_count": 526,
+      "topic_matched_source_note_count": 496,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 487
-        },
-        {
-          "key": "politics",
-          "label": "Politics",
-          "url": "/topics/politics/",
-          "source_note_count": 50
+          "source_note_count": 488
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
+          "source_note_count": 51
+        },
+        {
+          "key": "politics",
+          "label": "Politics",
+          "url": "/topics/politics/",
           "source_note_count": 50
         },
         {
@@ -1027,8 +1027,8 @@
       ],
       "start_here_episode_files": [
         "GLT5038102951 [GLT5038102951].md",
-        "GLT6013835340 [GLT6013835340].md",
         "GLT2882541084 [GLT2882541084].md",
+        "GLT6013835340 [GLT6013835340].md",
         "GLT9598017819 [GLT9598017819].md"
       ]
     },

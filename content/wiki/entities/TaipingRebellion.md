@@ -4,7 +4,8 @@ type: entity
 tags: [event, china, civil-war, religion, qing]
 sources:
   - 141-general-gordon-the-ultimate-victorian-hero-glt2700696137
-last_updated: 2026-10-02
+  - 84-exams-glt6507641896
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,9 @@ The Taiping Rebellion was the vast and destructive Chinese civil war in which th
 
 ## Current Profile
 
-The episode presents the rebellion as a religiously charged response to a China under internal strain and foreign pressure. Hong's claim to be the younger brother of Jesus led some British observers initially to imagine the movement as a form of advancing Protestantism, but the conflict became an immense civil war rather than a simple story of Christian conversion.
+The sources present the rebellion as a religiously charged response to a China under internal strain and foreign pressure. [[HongXiuquan|Hong Xiuquan]]'s claim to be the younger brother of Jesus led some British observers initially to imagine the movement as a form of advancing Protestantism, but the conflict became an immense civil war rather than a simple story of Christian conversion.
+
+The exams episode adds a selection-system prehistory. Hong repeatedly failed advanced imperial examinations before exposure to Christianity and visionary reinterpretation helped redirect his life. The resulting Taiping Heavenly Kingdom developed state-like structures, including its own examinations. This makes examination frustration relevant without turning it into a sufficient explanation of mass rebellion.
 
 For Gordon's biography, the rebellion supplied the setting in which engineering, mapping, discipline, and conspicuous fearlessness became military celebrity. The source also compares the Taiping and later Mahdist movements as religious responses to disruption associated with modernization, Western contact, and imperial pressure, while leaving that analogy qualified rather than treating the movements as equivalent.
 
@@ -27,6 +30,7 @@ For Gordon's biography, the rebellion supplied the setting in which engineering,
 - Crisis shaped by domestic upheaval as well as Western military and commercial intrusion.
 - Setting for Gordon's command of the [[EverVictoriousArmy]] and emergence as “Chinese Gordon.”
 - Precedent used by the episode to frame his later encounter with religious revolt in Sudan.
+- Movement led by a repeatedly unsuccessful examination candidate that later reproduced examination and state structures of its own.
 
 ## Evidence
 
@@ -34,17 +38,21 @@ For Gordon's biography, the rebellion supplied the setting in which engineering,
 - War scale and setting: [[141-general-gordon-the-ultimate-victorian-hero-glt2700696137]] characterizes the rebellion as a massive, exceptionally bloody civil war amid foreign pressure on China.
 - Gordon connection: [[141-general-gordon-the-ultimate-victorian-hero-glt2700696137]] traces his command of the merchant-backed force fighting Taiping threats near Shanghai.
 - Comparative interpretation: [[141-general-gordon-the-ultimate-victorian-hero-glt2700696137]] compares Taiping and Mahdist religious mobilization while using the former chiefly to prepare Gordon's later story.
+- Selection-system prehistory: [[84-exams-glt6507641896]] links Hong's repeated examination failure to his later visionary trajectory and describes Taiping state structures, including examinations.
 
 ## Qualifications
 
-The source is organized around Gordon rather than the rebellion's Chinese participants. It gives limited attention to Taiping governance, Qing strategy, regional variation, civilian experience, casualty estimates, ideology beyond Hong's central claim, or the full role of foreign powers. The Mahdist comparison is interpretive and does not establish equivalent theology, social bases, or political programs.
+The sources remain compressed and give limited attention to Taiping governance, Qing strategy, regional variation, civilian experience, casualty estimates, ideology beyond Hong's central claim, or the full role of foreign powers. The Mahdist comparison is interpretive and does not establish equivalent theology, social bases, or political programs. Examination failure is one biographical factor and cannot explain the rebellion without religious, economic, political, and organizational context.
 
 ## What Changed
 
 - Created a bounded profile separating the rebellion's religious and Chinese civil-war character from its use as a stage in Gordon's legend.
+- Added Hong Xiuquan's examination-failure context and the Taiping movement's later reuse of examination structures.
 
 ## Relationships
 
 - [[CharlesGeorgeGordon]] - foreign commander whose role in suppressing the rebellion created his Chinese fame.
 - [[EverVictoriousArmy]] - small foreign-officered force deployed against Taiping advances around Shanghai.
 - [[ImperialCivilisingMissionContradiction]] - relevant tension between foreign claims of order or reform and intervention in Chinese war.
+- [[HongXiuquan]] - religious and political leader whose biography links blocked examination aspiration to the movement.
+- [[ExaminationSystems]] - institution appearing both before Hong's revolt and inside Taiping state-building.

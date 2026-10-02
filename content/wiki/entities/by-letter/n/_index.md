@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 12085
+wiki_total_pages: 12090
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -653,6 +653,9 @@ wiki_pages:
   - key: "NoExit"
     title: "No Exit / 《禁闭》"
     url: "/wiki/entities/noexit/"
+  - key: "NoMoreMarking"
+    title: "No More Marking"
+    url: "/wiki/entities/nomoremarking/"
   - key: "NoamSobel"
     title: "Noam Sobel"
     url: "/wiki/entities/noamsobel/"

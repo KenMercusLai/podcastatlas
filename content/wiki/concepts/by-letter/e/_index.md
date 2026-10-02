@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9395
+wiki_total_pages: 9400
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "EliteFiscalLawCompliance"
     title: "Elite Fiscal-Law Compliance / 贵族税法同遵"
     url: "/wiki/concepts/elitefiscallawcompliance/"
+  - key: "EliteOverproduction"
+    title: "Elite Overproduction"
+    url: "/wiki/concepts/eliteoverproduction/"
   - key: "EliteRelocationControl"
     title: "Elite Relocation Control / 豪杰迁徙控制"
     url: "/wiki/concepts/eliterelocationcontrol/"
@@ -1037,9 +1040,15 @@ wiki_pages:
   - key: "ExVivoCARTManufacturing"
     title: "Ex Vivo CAR-T Manufacturing"
     url: "/wiki/concepts/exvivocartmanufacturing/"
+  - key: "ExamStandardizationValidityTradeoff"
+    title: "Exam Standardization-Validity Tradeoff"
+    url: "/wiki/concepts/examstandardizationvaliditytradeoff/"
   - key: "ExamDrivenScienceEducation"
     title: "Exam-Driven Science Education / 应试化科学教育"
     url: "/wiki/concepts/examdrivenscienceeducation/"
+  - key: "ExaminationSystems"
+    title: "Examination Systems"
+    url: "/wiki/concepts/examinationsystems/"
   - key: "ExceptionStateSurveillanceTechnology"
     title: "Exception-State Surveillance Technology"
     url: "/wiki/concepts/exceptionstatesurveillancetechnology/"

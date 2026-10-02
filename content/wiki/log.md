@@ -28108,3 +28108,11 @@ Added source `scim2452395341-scim2452395341`; resynthesized `AndrewHuberman`, `H
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 84. Exams
+
+Added source `84-exams-glt6507641896`; created `DaisyChristodoulou`, `NoMoreMarking`, `HongXiuquan`, `PeterTurchin`, `MichaelYoung`, `ExaminationSystems`, `ComparativeJudgmentAssessment`, `EliteOverproduction`, `ExamStandardizationValidityTradeoff`, and `TeacherAssessmentBias`; and resynthesized `JohnStuartMill`, `TaipingRebellion`, `MeritocraticArrogance`, and `ImperialExaminationOpportunityEquality` from their complete preserved evidence inventories. Core synthesis: examinations are durable selection infrastructure because they scale comparison and can constrain patronage, but standardization can narrow validity, mobility can coexist with closure and scarce elite roles, and teacher assessment redistributes rather than eliminates bias. No settled contradiction was adopted. Comparative-judgment performance, teacher-assessment effects, historical exam difficulty, Chinese participation and social-composition claims, casualty estimates, and links from examination failure to rebellion remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,513-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

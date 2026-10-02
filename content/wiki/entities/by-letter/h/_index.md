@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12085
+wiki_total_pages: 12090
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -803,6 +803,9 @@ wiki_pages:
   - key: "HongLetong"
     title: "Hong Letong / 洪乐潼"
     url: "/wiki/entities/hongletong/"
+  - key: "HongXiuquan"
+    title: "Hong Xiuquan"
+    url: "/wiki/entities/hongxiuquan/"
   - key: "HongkongLand"
     title: "Hongkong Land / 香港置地"
     url: "/wiki/entities/hongkongland/"
