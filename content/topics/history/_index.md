@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2380
+topic_total_pages: 2381
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4797,6 +4797,9 @@ topic_sources:
   - key: "12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618"
     title: "12 Days: Alfred the Great and Pepys' 'Fanatiques'"
     url: "/wiki/sources/12-days-alfred-the-great-and-pepys-fanatiques-glt3956381618/"
+  - key: "12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211"
+    title: "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union"
+    url: "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
   - key: "12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149"
     title: "12 Days: Death of Edward the Confessor and the Dreyfus Affair"
     url: "/wiki/sources/12-days-death-of-edward-the-confessor-and-the-dreyfus-affair-glt1738062149/"

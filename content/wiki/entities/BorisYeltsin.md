@@ -5,6 +5,7 @@ tags: [person, russia, politics, post-soviet]
 sources:
   - 161-yeltsin-economic-chaos-and-president-putin-glt3048619920
   - 160-the-fall-of-the-soviet-union-glt9472343994
+  - 12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,7 @@ Boris Yeltsin is represented as the populist Russian leader who displaced [[Mikh
 
 ## Current Profile
 
-[[160-the-fall-of-the-soviet-union-glt9472343994]] supplies the prehistory to the 1990s presidency. After humiliation within the Soviet party system, Yeltsin used popular politics and election as Russia's leader to create a rival authority inside the union. His opposition to the August coup gave him a defining public role; afterward he banned the Russian Communist Party, dominated Gorbachev, and joined Ukrainian and Belarusian leaders in dissolving the union.
+[[160-the-fall-of-the-soviet-union-glt9472343994]] and the Christmas anniversary source supply the prehistory to the 1990s presidency. After humiliation within the Soviet party system, Yeltsin used popular politics and election as Russia's leader to create a rival authority inside the union. His opposition to the August coup gave him a defining public role; afterward he banned the Russian Communist Party, dominated Gorbachev, joined Ukrainian and Belarusian leaders in dissolving the union, and arranged the final transfer of nuclear and presidential authority.
 
 [[161-yeltsin-economic-chaos-and-president-putin-glt3048619920]] follows the costs of governing the successor state without a settled route from planning to markets. Yeltsin backed [[YegorGaidar]]'s rapid liberalization and privatization, while inflation, enterprise collapse, poverty, and [[OligarchicPrivatizationCapture]] made reform appear inseparable from dispossession. In 1993 he used military force against parliament and secured a stronger presidency. His 1999 transfer to Putin is portrayed as dependent on oligarchic support and elite protection, though the source does not independently establish every claim.
 
@@ -37,6 +38,7 @@ Across both sources, Yeltsin's strength is tactical and performative: he recogni
 
 ### Soviet endgame
 - [[160-the-fall-of-the-soviet-union-glt9472343994]] connects Yeltsin's party break, Russian election, sovereignty challenge, coup resistance, post-coup dominance, and Belavezha agreement.
+- [[12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211]] corroborates the failed-coup and republican-exit sequence and follows it through the December handover from Gorbachev.
 
 ### Economic transition and ownership
 - [[161-yeltsin-economic-chaos-and-president-putin-glt3048619920]] links price liberalization, inflation, enterprise collapse, poverty, vouchers, loans-for-shares, and oligarchic backing.
@@ -46,13 +48,14 @@ Across both sources, Yeltsin's strength is tactical and performative: he recogni
 
 ## Qualifications
 
-The profile comes from two narrative podcasts rather than a comprehensive political or economic history. The collapse episode's revenge interpretation risks reducing institutional conflict to personality, while the 1990s episode does not fully separate reform design from inherited scarcity, regional variation, state breakdown, or external advice. The suicide-attempt account, drinking anecdotes, unresolved-territory discussions, public-preference figure, 1996 election claims, and succession bargain remain source-scoped or disputed.
+The profile comes from narrative podcasts rather than a comprehensive political or economic history. The collapse episodes' rivalry framing risks reducing institutional conflict to personality, while the 1990s episode does not fully separate reform design from inherited scarcity, regional variation, state breakdown, or external advice. Accounts of Yeltsin's private reactions to Gorbachev's resignation, the suicide attempt, drinking, unresolved territories, public preferences, the 1996 election, and the succession bargain remain source-scoped or disputed.
 
 ## What Changed
 
 - Added Yeltsin's rise inside the Soviet system, creation of rival Russian authority, and role in the union's dissolution.
 - Connected his coup-era symbolic leadership to later executive concentration.
 - Qualified motive, public-preference, territorial, and biographical claims as source-scoped.
+- Added the final negotiated handover as ceremony following Yeltsin's prior institutional victory.
 
 ## Relationships
 

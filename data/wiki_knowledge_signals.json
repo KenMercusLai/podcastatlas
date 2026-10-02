@@ -23202,9 +23202,9 @@
       "url": "/wiki/entities/borisjohnson/"
     },
     "BorisYeltsin": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3048619920 [GLT3048619920].md",
@@ -23219,6 +23219,13 @@
           "show": "The Rest Is History",
           "title": "160. The Fall of the Soviet Union",
           "url": "/wiki/sources/160-the-fall-of-the-soviet-union-glt9472343994/"
+        },
+        {
+          "episode_file": "GLT9083951211 [GLT9083951211].md",
+          "key": "12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211",
+          "show": "The Rest Is History",
+          "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
+          "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
         }
       ],
       "updated": "2026-10-02",
@@ -30901,9 +30908,9 @@
       "url": "/wiki/concepts/charismaticpoliticalmartyrdom/"
     },
     "Charlemagne": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1014708592 [GLT1014708592].md",
@@ -30911,6 +30918,13 @@
           "show": "The Rest Is History",
           "title": "157. Byzantium and the Ghosts of Rome",
           "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
+        },
+        {
+          "episode_file": "GLT9083951211 [GLT9083951211].md",
+          "key": "12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211",
+          "show": "The Rest Is History",
+          "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
+          "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
         }
       ],
       "updated": "2026-10-02",
@@ -53534,9 +53548,9 @@
       "url": "/wiki/concepts/dualprocessbereavementoscillation/"
     },
     "DualSovereigntyStateDissolution": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9472343994 [GLT9472343994].md",
@@ -53544,6 +53558,13 @@
           "show": "The Rest Is History",
           "title": "160. The Fall of the Soviet Union",
           "url": "/wiki/sources/160-the-fall-of-the-soviet-union-glt9472343994/"
+        },
+        {
+          "episode_file": "GLT9083951211 [GLT9083951211].md",
+          "key": "12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211",
+          "show": "The Rest Is History",
+          "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
+          "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
         }
       ],
       "updated": "2026-10-02",
@@ -64858,9 +64879,9 @@
       "url": "/wiki/entities/fafadebelem/"
     },
     "FailedCoupAuthorityTransfer": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9472343994 [GLT9472343994].md",
@@ -64868,6 +64889,13 @@
           "show": "The Rest Is History",
           "title": "160. The Fall of the Soviet Union",
           "url": "/wiki/sources/160-the-fall-of-the-soviet-union-glt9472343994/"
+        },
+        {
+          "episode_file": "GLT9083951211 [GLT9083951211].md",
+          "key": "12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211",
+          "show": "The Rest Is History",
+          "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
+          "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
         }
       ],
       "updated": "2026-10-02",
@@ -89714,9 +89742,9 @@
       "url": "/wiki/entities/holygrail/"
     },
     "HolyRomanEmpire": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9923460597 [GLT9923460597].md",
@@ -89731,6 +89759,13 @@
           "show": "The Rest Is History",
           "title": "157. Byzantium and the Ghosts of Rome",
           "url": "/wiki/sources/157-byzantium-and-the-ghosts-of-rome-glt1014708592/"
+        },
+        {
+          "episode_file": "GLT9083951211 [GLT9083951211].md",
+          "key": "12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211",
+          "show": "The Rest Is History",
+          "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
+          "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
         }
       ],
       "updated": "2026-10-02",
@@ -100570,6 +100605,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/ireland/"
+    },
+    "IreneOfAthens": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9083951211 [GLT9083951211].md",
+          "key": "12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211",
+          "show": "The Rest Is History",
+          "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
+          "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/ireneofathens/"
     },
     "IrishCitizenArmy": {
       "episode_count": 1,
@@ -132105,9 +132156,9 @@
       "url": "/wiki/entities/mikesteinberger/"
     },
     "MikhailGorbachev": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -132136,6 +132187,13 @@
           "show": "The Rest Is History",
           "title": "159. Young Putin, the KGB and the Soviet Union",
           "url": "/wiki/sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203/"
+        },
+        {
+          "episode_file": "GLT9083951211 [GLT9083951211].md",
+          "key": "12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211",
+          "show": "The Rest Is History",
+          "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
+          "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
         }
       ],
       "updated": "2026-10-02",
@@ -152175,6 +152233,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/popejoan/"
     },
+    "PopeLeoIII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9083951211 [GLT9083951211].md",
+          "key": "12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211",
+          "show": "The Rest Is History",
+          "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
+          "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/popeleoiii/"
+    },
     "PopeLeoXIV": {
       "episode_count": 1,
       "show_count": 1,
@@ -166980,9 +167054,9 @@
       "url": "/wiki/concepts/romanimperialfallperiodization/"
     },
     "RomanImperialLegitimacy": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT9103397168 [GLT9103397168].md",
@@ -167011,6 +167085,13 @@
           "show": "The Rest Is History",
           "title": "12 Days: Nero's Succession and the Fall of the Byzantine Empire",
           "url": "/wiki/sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296/"
+        },
+        {
+          "episode_file": "GLT9083951211 [GLT9083951211].md",
+          "key": "12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211",
+          "show": "The Rest Is History",
+          "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
+          "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
         }
       ],
       "updated": "2026-10-02",
@@ -179475,9 +179556,9 @@
       "url": "/wiki/concepts/sovereigninfrastructureinterdependence/"
     },
     "SovietUnion": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 3,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -179541,6 +179622,13 @@
           "show": "The Rest Is History",
           "title": "159. Young Putin, the KGB and the Soviet Union",
           "url": "/wiki/sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203/"
+        },
+        {
+          "episode_file": "GLT9083951211 [GLT9083951211].md",
+          "key": "12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211",
+          "show": "The Rest Is History",
+          "title": "12 Days: Coronation of Charlemagne and the collapse of the Soviet Union",
+          "url": "/wiki/sources/12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211/"
         }
       ],
       "updated": "2026-10-02",

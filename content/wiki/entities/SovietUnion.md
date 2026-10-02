@@ -12,6 +12,7 @@ sources:
   - 182-operation-barbarossa-glt3299389649
   - 160-the-fall-of-the-soviet-union-glt9472343994
   - 159-young-putin-the-kgb-and-the-soviet-union-glt7336670203
+  - 12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -36,7 +37,7 @@ The external-patron branch shows a different form of power. Preferential Soviet 
 
 The late-system prehistory in [[159-young-putin-the-kgb-and-the-soviet-union-glt7336670203]] joins Brezhnev-era stability and consumer improvement to oil dependence, weak consumer production, corruption, alcoholism, absenteeism, demographic pressure, and falling relative performance. [[YuriAndropov]] sought disciplinary repair inside the system; [[MikhailGorbachev]] instead pursued perestroika and glasnost as a Leninist renewal, while Chernobyl, economic interdependence, elite disruption, and national movements made controlled opening increasingly difficult.
 
-[[160-the-fall-of-the-soviet-union-glt9472343994]] supplies the end mechanism. Political opening revealed suppressed disagreement and historical trauma while shortages worsened; elected republican institutions competed with union authority; and the failed August coup transferred practical power toward [[BorisYeltsin]] and accelerated republican exit. Together the episodes support [[PartialReformDestabilization]]: a state that had regenerated under invasion and mobilized through disaster became unable to coordinate legitimacy, economy, coercion, and sovereignty across its constituent republics after old mechanisms weakened without stable replacements.
+[[160-the-fall-of-the-soviet-union-glt9472343994]] and the Christmas anniversary source supply the end mechanism. Political opening revealed suppressed disagreement and historical trauma while shortages worsened; elected republican institutions competed with union authority; and the failed August coup transferred practical power toward [[BorisYeltsin]] and accelerated republican exit. Ukraine's referendum and the Russian-Ukrainian-Belarusian agreement hollowed out the center before [[MikhailGorbachev]] resigned and the Soviet flag was lowered. Together the episodes support [[PartialReformDestabilization]]: a state that had regenerated under invasion and mobilized through disaster became unable to coordinate legitimacy, economy, coercion, and sovereignty across its constituent republics after old mechanisms weakened without stable replacements.
 
 ## Key Characteristics
 
@@ -58,16 +59,18 @@ The late-system prehistory in [[159-young-putin-the-kgb-and-the-soviet-union-glt
 - External patronage: [[dark-times-for-cubas-economic-experiment]] connects favorable oil and commodity terms to Cuba's survival and the 1991 collapse to the Special Period.
 - Stagnation and reform pressure: [[159-young-putin-the-kgb-and-the-soviet-union-glt7336670203]] connects Brezhnev-era stability, oil-backed imports, weak consumer industry, Andropov's discipline, Gorbachev's renewal project, Chernobyl, and nationalism.
 - Reform and dissolution: [[160-the-fall-of-the-soviet-union-glt9472343994]] connects scarcity, televised politics, party weakening, Russian dual sovereignty, the failed coup, and republican agreement.
+- Final dissolution ceremony: [[12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211]] connects the August coup, Ukrainian referendum, republican exit, Gorbachev's resignation, and Kremlin flag change.
 - Intellectual qualification: [[135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670]] uses Sartre's reported silence about Soviet abuses as an episode-attributed case of ideological totalization.
 
 ## Qualifications
 
-These sources cover selected wartime, family-memory, nuclear-disaster, espionage, intellectual, Cuba-policy, stagnation, reform, and collapse branches rather than a comprehensive history of Soviet government, society, economy, nationalities, culture, or reform. State capacity varied sharply across periods and institutions, so wartime mobilization, nuclear administration, KGB behavior, patronage, and terminal weakness should not be flattened into one invariant model. The reform-and-collapse episodes' leadership and sequencing emphasis may underweight republican movements, public opinion, economic policy, constitutional detail, and international conditions. Defense-spending and oil estimates, elite-interest claims, public-preference figures, output statistics, casualty counts, motive attributions, and counterfactuals remain source-scoped.
+These sources cover selected wartime, family-memory, nuclear-disaster, espionage, intellectual, Cuba-policy, stagnation, reform, and collapse branches rather than a comprehensive history of Soviet government, society, economy, nationalities, culture, or reform. State capacity varied sharply across periods and institutions, so wartime mobilization, nuclear administration, KGB behavior, patronage, and terminal weakness should not be flattened into one invariant model. The reform-and-collapse episodes' leadership, sequencing, and ceremony emphasis may underweight republican movements, public opinion, economic policy, constitutional detail, and international conditions. Defense-spending and oil estimates, elite-interest claims, public-preference figures, output statistics, casualty counts, motive attributions, and counterfactuals remain source-scoped.
 
 ## What Changed
 
 - Added late-Soviet stagnation, Andropov's preservationist repair, and Gorbachev's Leninist renewal project.
 - Deepened partial reform as a sequencing problem across economy, openness, federalism, and party authority.
+- Added the distinction between republican dismantling of the center and the later resignation-and-flag ceremony.
 
 ## Relationships
 

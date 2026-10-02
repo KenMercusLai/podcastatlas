@@ -4,6 +4,7 @@ type: concept
 tags: [politics, state-collapse, sovereignty, soviet-union]
 sources:
   - 160-the-fall-of-the-soviet-union-glt9472343994
+  - 12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ Dual sovereignty state dissolution is the process by which a constituent unit bu
 
 ## Current Synthesis
 
-[[160-the-fall-of-the-soviet-union-glt9472343994]] presents the [[SovietUnion|Soviet Union]] after 1990 as increasingly governed through rival centers. [[BorisYeltsin]]'s elected leadership of [[Russia]], which contained more than half the union's population, gave him a platform from which Russian sovereignty, advisers, policy, and commands could challenge [[MikhailGorbachev]]'s union presidency.
+The sources present the [[SovietUnion|Soviet Union]] after 1990 as increasingly governed through rival centers. [[BorisYeltsin]]'s elected leadership of [[Russia]], which contained more than half the union's population, gave him a platform from which Russian sovereignty, advisers, policy, and commands could challenge [[MikhailGorbachev]]'s union presidency.
 
 The mechanism was recursive. Union weakness encouraged republican leaders to claim more authority; each successful claim deprived the union of commands, revenue, loyalty, or legitimacy; and that further weakening made exit safer and preservation less credible. The August coup and Belavezha agreement accelerated the process, but did not create the prior institutional rivalry.
 
@@ -35,14 +36,16 @@ The mechanism was recursive. Union weakness encouraged republican leaders to cla
 
 ### Republican exit
 - [[160-the-fall-of-the-soviet-union-glt9472343994]] connects the weakening union to Ukrainian sovereignty, the referendum, and the Belavezha agreement among republican leaders.
+- [[12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211]] corroborates the sequence and emphasizes that republican agreement left Gorbachev with a title whose state had already disappeared.
 
 ## Counterevidence & Qualifications
 
-One podcast episode cannot establish dual sovereignty as a sufficient explanation for Soviet collapse. Scarcity, failed reform, Communist Party decline, national movements, coercion, constitutional design, popular votes, international context, and the August coup also mattered. Describing elite incentives does not invalidate mass national preferences, and the mechanism should not be generalized to every federation with strong regional government.
+Two related podcast episodes cannot establish dual sovereignty as a sufficient explanation for Soviet collapse. Scarcity, failed reform, Communist Party decline, national movements, coercion, constitutional design, popular votes, international context, and the August coup also mattered. Describing elite incentives does not invalidate mass national preferences, and the mechanism should not be generalized to every federation with strong regional government.
 
 ## What Changed
 
 - Established the concept from the Russian-union rivalry and republican dissolution sequence.
+- Added the empty-office endpoint in which formal resignation followed the prior loss of a governing state.
 
 ## Related Concepts
 

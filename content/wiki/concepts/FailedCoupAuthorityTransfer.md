@@ -4,6 +4,7 @@ type: concept
 tags: [politics, coups, legitimacy, state-collapse]
 sources:
   - 160-the-fall-of-the-soviet-union-glt9472343994
+  - 12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -16,7 +17,7 @@ Failed coup authority transfer is the paradoxical process by which an unsuccessf
 
 ## Current Synthesis
 
-In [[160-the-fall-of-the-soviet-union-glt9472343994]], the August 1991 hardline coup was meant to stop the weakening of the [[SovietUnion]] and the proposed Union Treaty. Its organizers isolated [[MikhailGorbachev]] but failed to force his resignation, arrest [[BorisYeltsin]], dominate communications, or secure the streets.
+In both accounts, the August 1991 hardline coup was meant to stop the weakening of the [[SovietUnion]] and the proposed Union Treaty. Its organizers isolated [[MikhailGorbachev]] but failed to force his resignation, arrest [[BorisYeltsin]], dominate communications, or secure the streets.
 
 Yeltsin's public resistance outside the Russian White House converted operational failure into an authority shift. Afterward he could humiliate Gorbachev publicly, ban the Communist Party in Russia, assert Russian command, and move toward the republican settlement that ended the union. The coup therefore accelerated the transfer it sought to prevent.
 
@@ -35,14 +36,16 @@ Yeltsin's public resistance outside the Russian White House converted operationa
 
 ### Post-coup authority shift
 - [[160-the-fall-of-the-soviet-union-glt9472343994]] connects Yeltsin's tank-top resistance to his later public dominance over Gorbachev, ban of the Russian Communist Party, and movement toward dissolution.
+- [[12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211]] corroborates Yeltsin's visibility, party ban, and post-coup dominance before following the transfer through Gorbachev's resignation.
 
 ## Counterevidence & Qualifications
 
-The concept identifies a mechanism, not a universal coup outcome. Failed coups may strengthen incumbents, produce repression, or leave authority fragmented instead of empowering a rival. The Soviet outcome depended on pre-existing [[DualSovereigntyStateDissolution|dual sovereignty]], institutional weakness, public mobilization, elite defections, and Gorbachev's isolation. The episode's dramatic focus on Yeltsin should not erase collective resistance or decisions inside the military and republics.
+The concept identifies a mechanism, not a universal coup outcome. Failed coups may strengthen incumbents, produce repression, or leave authority fragmented instead of empowering a rival. The Soviet outcome depended on pre-existing [[DualSovereigntyStateDissolution|dual sovereignty]], institutional weakness, public mobilization, elite defections, and Gorbachev's isolation. The episodes' dramatic focus on Yeltsin should not erase collective resistance or decisions inside the military and republics.
 
 ## What Changed
 
 - Established the concept from the August 1991 coup and its unintended institutional consequences.
+- Added corroboration linking the failed coup's authority shift to the final December handover.
 
 ## Related Concepts
 

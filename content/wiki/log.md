@@ -27490,3 +27490,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 12 Days: Coronation of Charlemagne and the collapse of the Soviet Union
+
+Added source `12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211`; created `PopeLeoIII` and `IreneOfAthens`; and resynthesized `Charlemagne`, `HolyRomanEmpire`, `RomanImperialLegitimacy`, `MikhailGorbachev`, `BorisYeltsin`, `SovietUnion`, `DualSovereigntyStateDissolution`, and `FailedCoupAuthorityTransfer` from their complete preserved evidence inventories. Core synthesis: Charlemagne's coronation joined papal vulnerability, Frankish protection, territorial power, Roman ceremony, sacred symbolism, and a gendered challenge to Irene's eastern rule, while the Soviet ceremony of dissolution followed an earlier transfer of effective authority through failed coup, Russian dual sovereignty, Ukrainian exit, and republican agreement. No settled contradiction was adopted. Charlemagne's prior knowledge, the Jerusalem delegation, Leo's injuries, Irene's supposed invalidity, leader motives, post-Soviet causation, and later Russian and Chinese policy lessons remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,435-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

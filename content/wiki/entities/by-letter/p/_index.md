@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 11937
+wiki_total_pages: 11939
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -749,6 +749,9 @@ wiki_pages:
   - key: "PopeJoan"
     title: "Pope Joan"
     url: "/wiki/entities/popejoan/"
+  - key: "PopeLeoIII"
+    title: "Pope Leo III"
+    url: "/wiki/entities/popeleoiii/"
   - key: "PopeLeoXIV"
     title: "Pope Leo XIV"
     url: "/wiki/entities/popeleoxiv/"

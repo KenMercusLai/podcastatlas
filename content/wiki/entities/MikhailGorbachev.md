@@ -7,6 +7,7 @@ sources:
   - 312-reagan-iran-contra-and-the-cold-war-part-3-glt4042202229
   - 160-the-fall-of-the-soviet-union-glt9472343994
   - 159-young-putin-the-kgb-and-the-soviet-union-glt7336670203
+  - 12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -25,7 +26,7 @@ The reformer's formation and intent appear in [[159-young-putin-the-kgb-and-the-
 
 The domestic endgame in [[160-the-fall-of-the-soviet-union-glt9472343994]] shows Gorbachev using the Congress of People's Deputies and a union presidency to bypass a resistant Communist Party, but political opening coincided with worsening shortages, national movements, argument over history, and reformers' impatience. Together the episode pair supports [[PartialReformDestabilization]]: old coordination and authority weakened before stable economic and federal replacements existed. His reluctance to rely consistently on force distinguished him from harder Soviet rulers, although violence in Georgia and Lithuania prevents a simple nonviolent profile.
 
-By 1990–91 [[BorisYeltsin]] had made the Russian presidency a rival source of sovereignty. Gorbachev's proposed Union Treaty could not stabilize that [[DualSovereigntyStateDissolution|dual sovereignty]], and the August coup left him formally restored but practically eclipsed. He resigned after republican leaders removed the institutional basis of the union.
+By 1990–91 [[BorisYeltsin]] had made the Russian presidency a rival source of sovereignty. Gorbachev's proposed Union Treaty could not stabilize that [[DualSovereigntyStateDissolution|dual sovereignty]], and the August coup left him formally restored but practically eclipsed. Ukraine's independence vote and republican agreement removed the institutional basis of his office before his 25 December 1991 televised resignation. The signature, transfer of the nuclear briefcase, and lowering of the Kremlin flag made a completed authority loss ceremonially visible.
 
 ## Key Characteristics
 
@@ -35,7 +36,7 @@ By 1990–91 [[BorisYeltsin]] had made the Russian presidency a rival source of 
 - Tried to preserve a reformed and decentralized union rather than simply abolish the Soviet state.
 - Rejected systematic mass repression as a solution while still bearing responsibility for episodes of force.
 - Lost authority as scarcity, public criticism, republican nationalism, and rival Russian institutions reinforced one another.
-- Returned from the failed August coup with the presidency intact in form but transferred authority in practice to Yeltsin.
+- Returned from the failed August coup with the presidency intact in form but authority transferred to Yeltsin, then resigned after republican exit hollowed out the union office.
 
 ## Evidence
 
@@ -53,15 +54,17 @@ By 1990–91 [[BorisYeltsin]] had made the Russian presidency a rival source of 
 
 ### Loss of effective authority
 - [[160-the-fall-of-the-soviet-union-glt9472343994]] traces the Russian presidency's challenge, the failed coup, Yeltsin's post-coup dominance, republican agreement, and Gorbachev's December 1991 resignation.
+- [[12-days-coronation-of-charlemagne-and-the-collapse-of-the-soviet-union-glt9083951211]] adds the final meeting with Yeltsin, televised resignation, nuclear handover, and flag change as symbols of an authority transfer already completed.
 
 ## Qualifications
 
-These sources are narrative podcasts, not a complete history of perestroika, glasnost, Soviet nationalities, economic policy, coercion, or the end of the Cold War. The reform episodes' emphasis on idealism, sequencing, and personal rivalry risks understating structural conditions and collective action. Claims about Gorbachev's private ideals, the influence of travel or Raisa, the alternatives available to him, responsibility for Chernobyl concealment and later violence, Western financial aid, and how far another reform sequence could have preserved the union remain interpretive or source-scoped.
+These sources are narrative podcasts, not a complete history of perestroika, glasnost, Soviet nationalities, economic policy, coercion, or the end of the Cold War. The reform episodes' emphasis on idealism, sequencing, personal rivalry, and televised symbolism risks understating structural conditions and collective action. Claims about Gorbachev's private ideals, the influence of travel or Raisa, the alternatives available to him, responsibility for Chernobyl concealment and later violence, Western financial aid, and how far another reform sequence could have preserved the union remain interpretive or source-scoped.
 
 ## What Changed
 
 - Added Gorbachev's Leninist reform idealism, Western exposure, and intended renewal of socialism.
 - Connected Chernobyl, glasnost, perestroika, nationalism, and economic coordination to partial-reform risk.
+- Added the distinction between the prior hollowing of the union presidency and the ceremony of Gorbachev's resignation.
 
 ## Relationships
 
