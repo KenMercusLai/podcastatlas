@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Understanding & Conquering Depression](sources/scim8966572027-scim8966572027.md) — Early Huberman Lab solo episode on major depression as a multisystem disorder, clinical assessment boundaries, inflammation and plasticity, and evidence-bounded treatment options.
 - [90. The Western Front](sources/90-the-western-front-glt9972346188.md) — The Rest Is History with Gary Sheffield on Western Front stalemate, soldier experience, uneven British learning, Allied victory in 1918, and the later "lions led by donkeys" memory.
 - [91. The Beatles](sources/91-the-beatles-glt5767145023.md) — The Rest Is History on the Beatles as historical actors shaped by postwar austerity, youth markets, religion, empire, celebrity, and mass cultural transmission.
 - [92. Nuclear Weapons](sources/92-nuclear-weapons-glt2236644203.md) — The Rest Is History with Taylor Downing on Able Archer 83, Soviet first-strike fear, deterrence, nuclear accidents, false alarms, and Reagan's later diplomatic turn.
@@ -25110,5 +25111,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eating Disorder Multisystem Model](concepts/EatingDisorderMultisystemModel.md) — Framework joining homeostatic, endocrine, reward, habit, impulse-control, cognitive, developmental, perceptual, and social processes without collapsing distinct diagnoses.
 - [Anorexia Habit-Reward Dysregulation](concepts/AnorexiaHabitRewardDysregulation.md) — Restrictive-eating model joining learned avoidance, automatic food choice, reward, body perception, energy state, and medical risk.
 - [Binge-Purging Impulse-Control Model](concepts/BingePurgingImpulseControl.md) — Loss-of-control model distinguishing shared binge mechanisms from bulimia's compensatory purging and treatment-specific boundaries.
+- [Major Depression Multisystem Model](concepts/MajorDepressionMultisystemModel.md) — Framework joining emotional, motivational, sleep, stress, endocrine, immune, pain, plasticity, and self-narrative dimensions of depression.
+- [Depression Assessment Boundary](concepts/DepressionAssessmentBoundary.md) — Boundary separating symptom recognition from diagnosis, differential assessment, severity evaluation, and treatment selection.
+- [Depression Intervention Evidence Boundary](concepts/DepressionInterventionEvidenceBoundary.md) — Selection rule separating behavioral supports, adjuncts, prescriptions, intensive diets, and altered-state treatments by evidence, feasibility, and risk.
 
 ## Syntheses

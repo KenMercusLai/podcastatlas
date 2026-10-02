@@ -28044,3 +28044,11 @@ Added source `90-the-western-front-glt9972346188`; created `GarySheffield`, `Dou
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | Understanding & Conquering Depression
+
+Added source `scim8966572027-scim8966572027`; created `MajorDepressionMultisystemModel`, `DepressionAssessmentBoundary`, and `DepressionInterventionEvidenceBoundary`; and resynthesized `InflammationLinkedDepressionSubtype` from its complete preserved evidence inventory. Core synthesis: major depression can involve interacting mood, reward, action, sleep, appetite, stress, endocrine, inflammatory, pain, plasticity, and self-narrative systems; symptom recognition should lead to qualified differential assessment rather than self-diagnosis; and behavioral supports, supplements, prescriptions, intensive diets, ketamine, and psychedelic therapy require separate evidence and safety judgments. No settled contradiction was adopted. Monoamine assignments, prevalence and disability figures, cortisol timing, thyroid proportion, genetic susceptibility, supplement thresholds, ketogenic effects, and ketamine or psilocybin outcomes remain source-scoped 2021 public education. Recurring host and show pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,505-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -50670,6 +50670,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/deodorodafonseca/"
     },
+    "DepressionAssessmentBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8966572027 [SCIM8966572027].md",
+          "key": "scim8966572027-scim8966572027",
+          "show": "Huberman Lab",
+          "title": "Understanding & Conquering Depression",
+          "url": "/wiki/sources/scim8966572027-scim8966572027/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/depressionassessmentboundary/"
+    },
     "DepressionChronotherapy": {
       "episode_count": 1,
       "show_count": 1,
@@ -50685,6 +50701,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/depressionchronotherapy/"
+    },
+    "DepressionInterventionEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8966572027 [SCIM8966572027].md",
+          "key": "scim8966572027-scim8966572027",
+          "show": "Huberman Lab",
+          "title": "Understanding & Conquering Depression",
+          "url": "/wiki/sources/scim8966572027-scim8966572027/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/depressioninterventionevidenceboundary/"
     },
     "DerekAbbott": {
       "episode_count": 1,
@@ -100566,9 +100598,9 @@
       "url": "/wiki/entities/infinityventurestudio/"
     },
     "InflammationLinkedDepressionSubtype": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1807559844 [SCIM1807559844].md",
@@ -100576,9 +100608,16 @@
           "show": "Huberman Lab",
           "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
           "url": "/wiki/sources/scim1807559844-scim1807559844/"
+        },
+        {
+          "episode_file": "SCIM8966572027 [SCIM8966572027].md",
+          "key": "scim8966572027-scim8966572027",
+          "show": "Huberman Lab",
+          "title": "Understanding & Conquering Depression",
+          "url": "/wiki/sources/scim8966572027-scim8966572027/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/inflammationlinkeddepressionsubtype/"
     },
     "InflammatoryBowelDiseaseManagement": {
@@ -128315,6 +128354,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/majesticapartmentsshanghai/"
+    },
+    "MajorDepressionMultisystemModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8966572027 [SCIM8966572027].md",
+          "key": "scim8966572027-scim8966572027",
+          "show": "Huberman Lab",
+          "title": "Understanding & Conquering Depression",
+          "url": "/wiki/sources/scim8966572027-scim8966572027/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/majordepressionmultisystemmodel/"
     },
     "MajorProjectsOfficeCanada": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1418
+topic_total_pages: 1420
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1267,6 +1267,9 @@ topic_concepts:
   - key: "MachineZone"
     title: "Machine Zone"
     url: "/wiki/concepts/machinezone/"
+  - key: "MajorDepressionMultisystemModel"
+    title: "Major Depression Multisystem Model"
+    url: "/wiki/concepts/majordepressionmultisystemmodel/"
   - key: "MaleEmotionalIntimacyNeed"
     title: "Male Emotional Intimacy Need / 男性情感亲密需要"
     url: "/wiki/concepts/maleemotionalintimacyneed/"
@@ -4155,6 +4158,9 @@ topic_sources:
   - key: "understand-improve-memory-using-science-based-tools-scim9087472978"
     title: "Understand & Improve Memory Using Science-Based Tools"
     url: "/wiki/sources/understand-improve-memory-using-science-based-tools-scim9087472978/"
+  - key: "scim8966572027-scim8966572027"
+    title: "Understanding & Conquering Depression"
+    url: "/wiki/sources/scim8966572027-scim8966572027/"
   - key: "understanding-controlling-aggression-scim4257261370"
     title: "Understanding & Controlling Aggression"
     url: "/wiki/sources/understanding-controlling-aggression-scim4257261370/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9378
+wiki_total_pages: 9381
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -503,12 +503,18 @@ wiki_pages:
   - key: "DepositGuaranteeCrisisResponse"
     title: "Deposit Guarantee Crisis Response"
     url: "/wiki/concepts/depositguaranteecrisisresponse/"
+  - key: "DepressionAssessmentBoundary"
+    title: "Depression Assessment Boundary"
+    url: "/wiki/concepts/depressionassessmentboundary/"
   - key: "DepressionChronotherapy"
     title: "Depression Chronotherapy"
     url: "/wiki/concepts/depressionchronotherapy/"
   - key: "DepressionDrivenInnovation"
     title: "Depression Driven Innovation"
     url: "/wiki/concepts/depressiondriveninnovation/"
+  - key: "DepressionInterventionEvidenceBoundary"
+    title: "Depression Intervention Evidence Boundary"
+    url: "/wiki/concepts/depressioninterventionevidenceboundary/"
   - key: "DerivativeAmplifiedVolatility"
     title: "Derivative Amplified Volatility"
     url: "/wiki/concepts/derivativeamplifiedvolatility/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9378
+wiki_total_pages: 9381
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "MainlandSoutheastAsiaRiverValleyStateFormation"
     title: "Mainland Southeast Asia River-Valley State Formation / 中南半岛河谷国家形成"
     url: "/wiki/concepts/mainlandsoutheastasiarivervalleystateformation/"
+  - key: "MajorDepressionMultisystemModel"
+    title: "Major Depression Multisystem Model"
+    url: "/wiki/concepts/majordepressionmultisystemmodel/"
   - key: "MajorEventAttentionConversion"
     title: "Major-Event Attention Conversion"
     url: "/wiki/concepts/majoreventattentionconversion/"

@@ -52087,6 +52087,13 @@
       "url": "/topics/history/"
     }
   ],
+  "MajorDepressionMultisystemModel": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "MajorEventAttentionConversion": [
     {
       "key": "culture",
@@ -95782,6 +95789,13 @@
     }
   ],
   "scim6449668176-scim6449668176": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "scim8966572027-scim8966572027": [
     {
       "key": "science",
       "label": "Science",
