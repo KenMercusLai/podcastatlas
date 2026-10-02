@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3008
+topic_total_pages: 3010
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5321,6 +5321,9 @@ topic_entities:
   - key: "Cleisthenes"
     title: "Cleisthenes"
     url: "/wiki/entities/cleisthenes/"
+  - key: "CleomenesI"
+    title: "Cleomenes I"
+    url: "/wiki/entities/cleomenesi/"
   - key: "ColinKaepernick"
     title: "Colin Kaepernick"
     url: "/wiki/entities/colinkaepernick/"
@@ -5741,6 +5744,9 @@ topic_entities:
   - key: "GoShirakawa"
     title: "Go-Shirakawa"
     url: "/wiki/entities/goshirakawa/"
+  - key: "Gorgo"
+    title: "Gorgo"
+    url: "/wiki/entities/gorgo/"
   - key: "GoughWhitlam"
     title: "Gough Whitlam"
     url: "/wiki/entities/goughwhitlam/"

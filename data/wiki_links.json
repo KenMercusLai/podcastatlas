@@ -3331,6 +3331,10 @@
     "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
     "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
   },
+  "82-sparta-glt1755395266": {
+    "title": "82. Sparta",
+    "url": "/wiki/sources/82-sparta-glt1755395266/"
+  },
   "82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589": {
     "title": "82.闲聊伟大作家的八卦（第二弹）",
     "url": "/wiki/sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589/"
@@ -17898,6 +17902,10 @@
   "Cleisthenes": {
     "title": "Cleisthenes",
     "url": "/wiki/entities/cleisthenes/"
+  },
+  "CleomenesI": {
+    "title": "Cleomenes I",
+    "url": "/wiki/entities/cleomenesi/"
   },
   "CleopatraReceptionHistory": {
     "title": "Cleopatra Reception History",
@@ -33590,6 +33598,10 @@
   "Goree": {
     "title": "Goree Island",
     "url": "/wiki/entities/goree/"
+  },
+  "Gorgo": {
+    "title": "Gorgo",
+    "url": "/wiki/entities/gorgo/"
   },
   "GossipAsSocialGrooming": {
     "title": "Gossip As Social Grooming / 八卦作为社会性梳毛",
@@ -72446,6 +72458,18 @@
   "SpanishImperialMonopolyVulnerability": {
     "title": "Spanish Imperial Monopoly Vulnerability",
     "url": "/wiki/concepts/spanishimperialmonopolyvulnerability/"
+  },
+  "Sparta": {
+    "title": "Sparta",
+    "url": "/wiki/entities/sparta/"
+  },
+  "SpartaMirage": {
+    "title": "Sparta Mirage",
+    "url": "/wiki/concepts/spartamirage/"
+  },
+  "SpartanSocialOrder": {
+    "title": "Spartan Social Order",
+    "url": "/wiki/concepts/spartansocialorder/"
   },
   "SpatialComputing": {
     "title": "Spatial Computing / 空间计算",

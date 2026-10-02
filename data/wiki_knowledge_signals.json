@@ -20684,9 +20684,9 @@
       "url": "/wiki/entities/battleofthenile/"
     },
     "BattleOfThermopylae": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9857497334 [GLT9857497334].md",
@@ -20701,9 +20701,16 @@
           "show": "The Rest Is History",
           "title": "98. Thermopylae & Salamis Episode 1",
           "url": "/wiki/sources/98-thermopylae-salamis-episode-1-glt3813381992/"
+        },
+        {
+          "episode_file": "GLT1755395266 [GLT1755395266].md",
+          "key": "82-sparta-glt1755395266",
+          "show": "The Rest Is History",
+          "title": "82. Sparta",
+          "url": "/wiki/sources/82-sparta-glt1755395266/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/battleofthermopylae/"
     },
     "BattleOfTrafalgar": {
@@ -37819,6 +37826,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/cleisthenes/"
+    },
+    "CleomenesI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1755395266 [GLT1755395266].md",
+          "key": "82-sparta-glt1755395266",
+          "show": "The Rest Is History",
+          "title": "82. Sparta",
+          "url": "/wiki/sources/82-sparta-glt1755395266/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/cleomenesi/"
     },
     "CleopatraReceptionHistory": {
       "episode_count": 4,
@@ -83149,6 +83172,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/goree/"
     },
+    "Gorgo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1755395266 [GLT1755395266].md",
+          "key": "82-sparta-glt1755395266",
+          "show": "The Rest Is History",
+          "title": "82. Sparta",
+          "url": "/wiki/sources/82-sparta-glt1755395266/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/gorgo/"
+    },
     "GottmanInstitute": {
       "episode_count": 1,
       "show_count": 1,
@@ -116785,9 +116824,9 @@
       "url": "/wiki/entities/leonidkravchuk/"
     },
     "Leonidas": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9857497334 [GLT9857497334].md",
@@ -116802,9 +116841,16 @@
           "show": "The Rest Is History",
           "title": "98. Thermopylae & Salamis Episode 1",
           "url": "/wiki/sources/98-thermopylae-salamis-episode-1-glt3813381992/"
+        },
+        {
+          "episode_file": "GLT1755395266 [GLT1755395266].md",
+          "key": "82-sparta-glt1755395266",
+          "show": "The Rest Is History",
+          "title": "82. Sparta",
+          "url": "/wiki/sources/82-sparta-glt1755395266/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/leonidas/"
     },
     "LeopoldBerchtold": {
@@ -186318,6 +186364,54 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/spanishconquestofmexico/"
+    },
+    "Sparta": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1755395266 [GLT1755395266].md",
+          "key": "82-sparta-glt1755395266",
+          "show": "The Rest Is History",
+          "title": "82. Sparta",
+          "url": "/wiki/sources/82-sparta-glt1755395266/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/sparta/"
+    },
+    "SpartaMirage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1755395266 [GLT1755395266].md",
+          "key": "82-sparta-glt1755395266",
+          "show": "The Rest Is History",
+          "title": "82. Sparta",
+          "url": "/wiki/sources/82-sparta-glt1755395266/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/spartamirage/"
+    },
+    "SpartanSocialOrder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1755395266 [GLT1755395266].md",
+          "key": "82-sparta-glt1755395266",
+          "show": "The Rest Is History",
+          "title": "82. Sparta",
+          "url": "/wiki/sources/82-sparta-glt1755395266/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/spartansocialorder/"
     },
     "SpatialComputing": {
       "episode_count": 2,

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [82. Sparta](sources/82-sparta-glt1755395266.md) — The Rest Is History on helot-backed militarization, citizen discipline, Spartan institutions and decline, source scarcity, Thermopylae, and modern ideological afterlives.
 - [83. The Berlin Wall](sources/83-the-berlin-wall-glt1824879961.md) — The Rest Is History with Ian McGregor on Berlin's postwar division, Operation Rose, escape attempts, Checkpoint Charlie, cultural pressure, and the contingent opening of 1989.
 - [84. Exams](sources/84-exams-glt6507641896.md) — The Rest Is History with Daisy Christodoulou on examination history, comparative judgment, standardization, mobility, elite overproduction, and teacher-assessment bias.
 - [86. The Enlightenment](sources/86-the-enlightenment-glt8077157127.md) — The Rest Is History on the Enlightenment as a plural Christian-European transformation joining social infrastructure and universal claims to religion, science, racism, and colonial hierarchy.
@@ -15700,7 +15701,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patrice Lumumba](entities/PatriceLumumba.md) — First Congolese prime minister whose fall and murder became emblematic of decolonization's Cold War entanglement.
 - [Mobutu Sese Seko](entities/MobutuSeseSeko.md) — Congolese and Zairian ruler who joined Western backing, authoritarian consolidation, and authenticity politics.
 
-- [Leonidas](entities/Leonidas.md) — Spartan king whose command, death at Thermopylae, and heroic afterlife join military defeat to sacrifice memory.
+- [Leonidas](entities/Leonidas.md) — Spartan king whose command, death at Thermopylae, and Roman-to-modern afterlife join military defeat to sacrifice memory.
 - [Themistocles](entities/Themistocles.md) — Athenian politician and naval strategist associated with coalition persuasion, intelligence deception, Salamis, and contested memory-making.
 - [Xerxes I](entities/XerxesI.md) — Achaemenid king whose combined invasion wins at Thermopylae and burns Athens before naval defeat at Salamis.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
@@ -15712,6 +15713,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hong Xiuquan](entities/HongXiuquan.md) — Taiping leader whose profile joins examination failure, Christian influence, visionary claim, and rebellion without reducing one to another.
 - [Peter Turchin](entities/PeterTurchin.md) — Scholar invoked for the concept of elite overproduction and its application to credential competition.
 - [Michael Young](entities/MichaelYoung.md) — Social critic invoked for meritocracy as a warning about winners converting rank into moral deservingness.
+- [Sparta](entities/Sparta.md) — Ancient Greek polity whose citizen discipline and military power depended on Messenian conquest, helot labor, and a narrow status order.
+- [Cleomenes I](entities/CleomenesI.md) — Spartan king whose Athenian interventions, Argive violence, royal counsel, and disputed death survive chiefly through Herodotean tradition.
+- [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
 - [Enlightenment](concepts/Enlightenment.md) — Plural European transformation joining religious inheritance, scientific inquiry, social infrastructure, universal ambition, and colonial-racial limits.
@@ -25153,7 +25157,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [African Decolonization](concepts/AfricanDecolonization.md) — Uneven transfer from colonial rule shaped by settler power, mass politics, institutional exclusion, borders, and Cold War intervention.
 - [Pan-Africanism](concepts/PanAfricanism.md) — Diasporic and continental tradition connecting African liberation struggles across imperial and metropolitan networks.
 
-- [Battle of Thermopylae](concepts/BattleOfThermopylae.md) — Linked land-sea delaying battle remembered as noble sacrifice despite Persian outflanking and Greek military defeat.
+- [Battle of Thermopylae](concepts/BattleOfThermopylae.md) — Linked land-sea defeat transformed into sacrifice memory and later Spartan legend despite allied participation and Persian victory.
 - [Battle of Salamis](concepts/BattleOfSalamis.md) — Naval turning point joining coalition management, deception, narrow-water tactics, Athenian training, and bounded counterfactual significance.
 - [Psychedelic Microdosing Evidence](concepts/PsychedelicMicrodosingEvidence.md) — Evidence-and-safety boundary around repeated low-dose psychedelic claims, expectancy, and cumulative exposure.
 - [Eating Disorder Multisystem Model](concepts/EatingDisorderMultisystemModel.md) — Framework joining homeostatic, endocrine, reward, habit, impulse-control, cognitive, developmental, perceptual, and social processes without collapsing distinct diagnoses.
@@ -25169,5 +25173,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Elite Overproduction](concepts/EliteOverproduction.md) — Condition in which educated or credentialed aspirants outnumber the elite positions available to absorb them.
 - [Exam Standardization-Validity Tradeoff](concepts/ExamStandardizationValidityTradeoff.md) — Tension between consistent scalable assessment and meaningful measurement of valued knowledge or capacity.
 - [Teacher Assessment Bias](concepts/TeacherAssessmentBias.md) — Risk that contextual teacher judgment systematically reflects expectations, behavior history, disability perceptions, or class signals.
+- [Spartan Social Order](concepts/SpartanSocialOrder.md) — System joining citizen military discipline to helot agriculture, perioikoi production, revolt fear, status contraction, and strategic rigidity.
+- [Sparta Mirage](concepts/SpartaMirage.md) — Source-critical gap between historical Sparta and its outsider, heroic, ideological, educational, and cinematic representations.
 
 ## Syntheses

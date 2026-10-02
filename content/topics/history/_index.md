@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2441
+topic_total_pages: 2443
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1246,6 +1246,9 @@ topic_concepts:
   - key: "SpanishCivilWar"
     title: "Spanish Civil War"
     url: "/wiki/concepts/spanishcivilwar/"
+  - key: "SpartaMirage"
+    title: "Sparta Mirage"
+    url: "/wiki/concepts/spartamirage/"
   - key: "SportsAsHistoricalReadingFrame"
     title: "Sports As Historical Reading Frame"
     url: "/wiki/concepts/sportsashistoricalreadingframe/"
@@ -6348,6 +6351,9 @@ topic_sources:
   - key: "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209"
     title: "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）"
     url: "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+  - key: "82-sparta-glt1755395266"
+    title: "82. Sparta"
+    url: "/wiki/sources/82-sparta-glt1755395266/"
   - key: "83-the-berlin-wall-glt1824879961"
     title: "83. The Berlin Wall"
     url: "/wiki/sources/83-the-berlin-wall-glt1824879961/"

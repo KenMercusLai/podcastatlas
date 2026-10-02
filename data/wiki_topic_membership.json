@@ -5900,6 +5900,13 @@
       "url": "/topics/history/"
     }
   ],
+  "82-sparta-glt1755395266": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589": [
     {
       "key": "culture",
@@ -21572,6 +21579,13 @@
     }
   ],
   "Cleisthenes": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "CleomenesI": [
     {
       "key": "politics",
       "label": "Politics",
@@ -37371,6 +37385,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "Gorgo": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "GottmanInstitute": [
@@ -74619,6 +74640,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "SpartaMirage": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "SpatialComputing": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12092
+wiki_total_pages: 12095
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1214,6 +1214,9 @@ wiki_pages:
   - key: "SpanishArmada"
     title: "Spanish Armada"
     url: "/wiki/entities/spanisharmada/"
+  - key: "Sparta"
+    title: "Sparta"
+    url: "/wiki/entities/sparta/"
   - key: "SpencerPratt"
     title: "Spencer Pratt"
     url: "/wiki/entities/spencerpratt/"

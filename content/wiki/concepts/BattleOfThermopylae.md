@@ -5,7 +5,8 @@ tags: [ancient-greece, warfare, persia, sparta, historical-memory]
 sources:
   - 99-thermopylae-salamis-episode-2-glt9857497334
   - 98-thermopylae-salamis-episode-1-glt3813381992
-last_updated: 2026-10-02
+  - 82-sparta-glt1755395266
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ The paired episodes place Thermopylae inside a joint land-sea plan with Artemisi
 
 The pass is never an impregnable position. Leonidas knows of a path around it and assigns local hoplites to guard the route. Ephialtes guides the Persians, the Immortals turn the Greek rear, and the path guard withdraws. Leonidas then keeps Spartans, Thespians, and Thebans in place while other troops escape.
 
-The battle is therefore a military defeat with a distinct memory afterlife. [[GrecoPersianWarMemory]] turns Leonidas' death into Homeric glory, fulfillment of a Delphic oracle, obedience to Spartan obligation, and a sacrifice that could be paired with the Athenian abandonment of Attica. The episode attributes some of this political framing to [[Themistocles]] but treats that role as uncertain.
+The battle is therefore a military defeat with a distinct memory afterlife. [[GrecoPersianWarMemory]] turns Leonidas' death into Homeric glory, fulfillment of a Delphic oracle, obedience to Spartan obligation, and a sacrifice that could be paired with the Athenian abandonment of Attica. The paired episode attributes some of this political framing to [[Themistocles]] but treats that role as uncertain. The Sparta episode extends the same compression into Roman commemoration and modern popular culture, where the 300 can eclipse the allied force and the coercive [[SpartanSocialOrder]] that sustained citizen warfare.
 
 ## Key Claims
 
@@ -31,7 +32,7 @@ The battle is therefore a military defeat with a distinct memory afterlife. [[Gr
 - Persian intelligence and Ephialtes' guidance, not frontal combat alone, make the decisive outflanking possible.
 - Leonidas' remaining force includes Thespians and Thebans as well as the famous 300 Spartans.
 - The last stand covers withdrawal but cannot prevent the road to Athens from opening.
-- Later memory converts defeat into an exemplary narrative of chosen sacrifice and civic unity.
+- Later memory converts defeat into chosen sacrifice and civic unity, while modern retellings often isolate the 300 from allied participation and Sparta's helot-supported social system.
 
 ## Evidence
 
@@ -40,15 +41,16 @@ The battle is therefore a military defeat with a distinct memory afterlife. [[Gr
 - Outflanking mechanism: [[99-thermopylae-salamis-episode-2-glt9857497334]] describes the known path, its local guard, Ephialtes, and the Immortals' movement into the rear.
 - Final stand and outcome: [[99-thermopylae-salamis-episode-2-glt9857497334]] says Leonidas remains with Spartans, Thespians, and Thebans before the pass falls and the Greek fleet withdraws.
 - Memory transformation: [[99-thermopylae-salamis-episode-2-glt9857497334]] connects the death to Homeric glory, a Delphic oracle, and possible Themistoclean political messaging.
+- Spartan and modern reception: [[82-sparta-glt1755395266]] distinguishes the elite 300 from other defenders and traces the last stand through Roman festival, later admirers, and *300*.
 
 ## Counterevidence & Qualifications
 
-The page is bounded to two companion podcast reconstructions based primarily on Greek literary tradition. Persian and Greek force estimates, the selection and intentions of Leonidas' force, the intentions of the Thebans, the exact function of the final stand, the oracle's role, and Themistocles' contribution to later memory remain uncertain. Calling the battle strategically useful does not turn its immediate result into a Greek military victory.
+The page is bounded to three podcast reconstructions based primarily on Greek literary tradition. Persian and Greek force estimates, the selection and intentions of Leonidas' force, the intentions of the Thebans, the exact function of the final stand, the oracle's role, and Themistocles' contribution to later memory remain uncertain. Calling the battle strategically useful does not turn its immediate result into a Greek military victory, and cultural influence does not make later depictions accurate.
 
 ## What Changed
 
-- Added the strategic selection of Thermopylae and Artemisium after the northern line was rejected.
-- Added the initial coalition force and the selection of Spartan fathers as qualified evidence for planned sacrifice.
+- Extended the synthesis from ancient sacrifice memory to Roman and modern reception.
+- Made the modern erasure of allied defenders and helot-supported Spartan institutions explicit.
 
 ## Related Concepts
 
@@ -58,4 +60,7 @@ The page is bounded to two companion podcast reconstructions based primarily on 
 - [[AchaemenidEmpire]] - imperial force whose logistics and combined campaign shape the strategy.
 - [[Athens]] - city exposed after the pass falls.
 - [[GrecoPersianWarMemory]] - memory field that converts defeat into exemplary sacrifice.
+- [[Sparta]] - polity whose reputation became inseparable from the battle.
+- [[SpartanSocialOrder]] - coercive institutional base behind the citizen contingent.
+- [[SpartaMirage]] - source and reception problem that magnifies the 300 into a complete image of Sparta.
 - [[MythAsHistoricalEvidence]] - guardrail for oracle, Homeric pattern, and later political meaning.

@@ -5,7 +5,8 @@ tags: [person, sparta, ancient-greece, warfare, kingship]
 sources:
   - 99-thermopylae-salamis-episode-2-glt9857497334
   - 98-thermopylae-salamis-episode-1-glt3813381992
-last_updated: 2026-10-02
+  - 82-sparta-glt1755395266
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,7 +24,7 @@ He knows a route bypasses the pass and assigns local hoplites to guard it, but E
 
 Leonidas sends much of the force away and remains with a smaller group. His death does not reverse the immediate defeat: [[XerxesI|Xerxes]] takes the pass, displays Leonidas' severed head, and exposes the road to Athens. Its later significance comes through memory.
 
-That afterlife joins the Spartan 300 to Thespian and Theban participation, Homeric chosen death, a Delphic oracle requiring a king's sacrifice, and possible political use by [[Themistocles]]. The profile therefore separates recoverable command and defeat from the meanings later attached to them.
+That afterlife joins the Spartan 300 to Thespian and Theban participation, Homeric chosen death, a Delphic oracle requiring a king's sacrifice, and possible political use by [[Themistocles]]. The Sparta episode extends the reception beyond the campaign: Leonidas receives continuing commemoration in Roman times and later admiration from writers and artists, while *300* compresses the coalition into a visually moralized Spartan legend. The profile therefore separates recoverable command and defeat from the meanings later attached to them.
 
 ## Key Characteristics
 
@@ -32,7 +33,7 @@ That afterlife joins the Spartan 300 to Thespian and Theban participation, Homer
 - Knows the position can be bypassed and assigns troops to the mountain path.
 - Remains after the outflanking with Spartans, Thespians, and Thebans while others withdraw.
 - Dies in a battle that is immediately disastrous for the Greek defensive line.
-- Becomes the central personal symbol of noble sacrifice in Thermopylae memory.
+- Becomes the central personal symbol of noble sacrifice in Thermopylae memory and later Spartan reception.
 
 ## Evidence
 
@@ -41,14 +42,16 @@ That afterlife joins the Spartan 300 to Thespian and Theban participation, Homer
 - Final stand: [[99-thermopylae-salamis-episode-2-glt9857497334]] places Spartans, Thespians, and Thebans with him after other troops leave.
 - Defeat and treatment: [[99-thermopylae-salamis-episode-2-glt9857497334]] describes his death and Xerxes' display of his head.
 - Memory: [[99-thermopylae-salamis-episode-2-glt9857497334]] links his death to Homeric glory, a Delphic oracle, and possible Themistoclean messaging.
+- Longer afterlife: [[82-sparta-glt1755395266]] identifies the 300 as an elite royal bodyguard, preserves allied participation, and traces Leonidas through Roman commemoration, later admirers, and *300*.
 
 ## Qualifications
 
-This profile is bounded to two companion podcast episodes and Greek narrative tradition. It does not independently establish Leonidas' motives, the exact size, selection, composition, or voluntariness of the force, the oracle's historical influence, or the later political authorship of the heroic story.
+This profile is bounded to three podcast episodes and a predominantly Greek narrative tradition. It does not independently establish Leonidas' motives, the exact size, selection, composition, or voluntariness of the force, the oracle's historical influence, or the later political authorship of the heroic story. Later commemoration shows reception, not direct access to the battle.
 
 ## What Changed
 
-- Added the prophecy, Olympic timing, selection of 300 fathers, and larger allied force that preceded the last stand.
+- Extended Leonidas's profile from campaign memory into Roman, literary, and cinematic reception.
+- Reinforced that the 300 were an elite royal contingent within a larger final defense, not the whole Greek force.
 
 ## Relationships
 
@@ -57,4 +60,6 @@ This profile is bounded to two companion podcast episodes and Greek narrative tr
 - [[AchaemenidEmpire]] - invading power his force delays.
 - [[Themistocles]] - strategist possibly associated with repurposing the sacrifice for coalition unity.
 - [[GrecoPersianWarMemory]] - memory field that makes his death exemplary.
+- [[Sparta]] - polity whose institutions and later image his kingship came to represent.
+- [[SpartaMirage]] - source and reception problem shaping what Leonidas means beyond the battle.
 - [[MythAsHistoricalEvidence]] - method for handling oracle, Homeric pattern, and heroic afterlife.

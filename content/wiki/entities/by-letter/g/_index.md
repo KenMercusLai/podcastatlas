@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12092
+wiki_total_pages: 12095
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -740,6 +740,9 @@ wiki_pages:
   - key: "Goree"
     title: "Goree Island"
     url: "/wiki/entities/goree/"
+  - key: "Gorgo"
+    title: "Gorgo"
+    url: "/wiki/entities/gorgo/"
   - key: "GottmanInstitute"
     title: "Gottman Institute / 哥特曼研究所"
     url: "/wiki/entities/gottmaninstitute/"
