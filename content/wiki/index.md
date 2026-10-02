@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP196-人类高效工作研究报告](sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge.md) — 无时差研究所 episode on hidden overtime incentives, knowledge-work coordination, pseudo-productivity, work-rest boundaries, health costs, and internalized overwork.
 - [116. Alexander the Great Part 1](sources/116-alexander-the-great-part-1-glt3321594885.md) — The Rest Is History on Philip II's Macedonian platform, Alexander's early conquests, Issus, Tyre, Egypt, Siwa, expanding ambition, and source uncertainty.
 - [How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French](sources/scim2965049301-scim2965049301.md) — Huberman Lab interview on adaptation-led programming across resistance training, recovery, thermal stress, fuel selection, and mixed-martial-arts performance.
 - [117. Alexander the Great part 2](sources/117-alexander-the-great-part-2-glt9707946822.md) — The Rest Is History on Gaugamela, Achaemenid succession, eastern overextension, army resistance, source uncertainty, and Alexander's legendary afterlife.
@@ -15556,6 +15557,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Invisible Overtime Incentive Trap / 隐形加班激励陷阱](concepts/InvisibleOvertimeIncentiveTrap.md) — Workplace mechanism where cost, performance stigma, and target ratchets make continued but unreported overtime rational.
+- [Internalized Overwork / 内化型过劳](concepts/InternalizedOverwork.md) — Responsibility and perfectionism mechanism that turns organizational pressure into self-imposed labor beyond explicit requirements.
 - [Adaptation-Led Programming](concepts/AdaptationLedProgramming.md) — Goal-first coordination of training, recovery, nutrition, environmental stress, and monitoring by adaptation and phase.
 - [Alexander's Imperial Succession Strategy](concepts/AlexanderImperialSuccessionStrategy.md) — Conquest-to-rule strategy combining Macedonian force with Persian elites, symbols, dynastic ties, and troops.
 - [Alexander Legend Formation](concepts/AlexanderLegendFormation.md) — Transformation of uncertain campaign history into Roman exemplarity, religious adaptation, romance, and contested greatness.

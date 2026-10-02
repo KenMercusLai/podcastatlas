@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1409
+topic_total_pages: 1410
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3684,6 +3684,9 @@ topic_sources:
   - key: "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa"
     title: "EP 4: A.I. talk with a Rocket Scientist from NASA"
     url: "/wiki/sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa/"
+  - key: "ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge"
+    title: "EP196-人类高效工作研究报告"
+    url: "/wiki/sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge/"
   - key: "ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo"
     title: "EP248 在高原与地下，探寻中国“大科学项目”"
     url: "/wiki/sources/ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo/"

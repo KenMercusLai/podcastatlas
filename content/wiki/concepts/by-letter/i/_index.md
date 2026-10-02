@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9296
+wiki_total_pages: 9298
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -779,6 +779,9 @@ wiki_pages:
   - key: "InternalTransferStrategy"
     title: "Internal Transfer Strategy"
     url: "/wiki/concepts/internaltransferstrategy/"
+  - key: "InternalizedOverwork"
+    title: "Internalized Overwork / 内化型过劳"
+    url: "/wiki/concepts/internalizedoverwork/"
   - key: "InternetBlackoutPublicSafetyRisk"
     title: "Internet Blackout Public-Safety Risk"
     url: "/wiki/concepts/internetblackoutpublicsafetyrisk/"
@@ -965,6 +968,9 @@ wiki_pages:
   - key: "InvisibleClassicalAI"
     title: "Invisible Classical AI"
     url: "/wiki/concepts/invisibleclassicalai/"
+  - key: "InvisibleOvertimeIncentiveTrap"
+    title: "Invisible Overtime Incentive Trap / 隐形加班激励陷阱"
+    url: "/wiki/concepts/invisibleovertimeincentivetrap/"
   - key: "InwardLookingSelfCultivation"
     title: "Inward-Looking Self-Cultivation / 向内求式自我修行"
     url: "/wiki/concepts/inwardlookingselfcultivation/"

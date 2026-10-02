@@ -96015,9 +96015,9 @@
       "url": "/wiki/entities/hypenvice/"
     },
     "HyperactiveHiveMind": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6504498504 [SCIM6504498504].md",
@@ -96025,9 +96025,16 @@
           "show": "Huberman Lab",
           "title": "How to Enhance Focus and Improve Productivity | Dr. Cal Newport",
           "url": "/wiki/sources/how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504/"
+        },
+        {
+          "episode_file": "CKwRIJIFXc-UABAAAAD057GE [CKwRIJIFXc-UABAAAAD057GE].md",
+          "key": "ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge",
+          "show": "无时差研究所",
+          "title": "EP196-人类高效工作研究报告",
+          "url": "/wiki/sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/hyperactivehivemind/"
     },
     "HyperscaleDataCenterMoratorium": {
@@ -100444,6 +100451,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/internalsafetyresearchexposure/"
     },
+    "InternalizedOverwork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIJIFXc-UABAAAAD057GE [CKwRIJIFXc-UABAAAAD057GE].md",
+          "key": "ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge",
+          "show": "无时差研究所",
+          "title": "EP196-人类高效工作研究报告",
+          "url": "/wiki/sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/internalizedoverwork/"
+    },
     "InternationalAirTransportAssociation": {
       "episode_count": 1,
       "show_count": 1,
@@ -101709,6 +101732,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/investortooperatorlearning/"
+    },
+    "InvisibleOvertimeIncentiveTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIJIFXc-UABAAAAD057GE [CKwRIJIFXc-UABAAAAD057GE].md",
+          "key": "ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge",
+          "show": "无时差研究所",
+          "title": "EP196-人类高效工作研究报告",
+          "url": "/wiki/sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/invisibleovertimeincentivetrap/"
     },
     "InwardLookingSelfCultivation": {
       "episode_count": 1,
@@ -158813,9 +158852,9 @@
       "url": "/wiki/concepts/pseudoindependentwomennarrative/"
     },
     "PseudoProductivity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6504498504 [SCIM6504498504].md",
@@ -158823,9 +158862,16 @@
           "show": "Huberman Lab",
           "title": "How to Enhance Focus and Improve Productivity | Dr. Cal Newport",
           "url": "/wiki/sources/how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504/"
+        },
+        {
+          "episode_file": "CKwRIJIFXc-UABAAAAD057GE [CKwRIJIFXc-UABAAAAD057GE].md",
+          "key": "ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge",
+          "show": "无时差研究所",
+          "title": "EP196-人类高效工作研究报告",
+          "url": "/wiki/sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/pseudoproductivity/"
     },
     "PsilocybinMushrooms": {
@@ -208101,9 +208147,9 @@
       "url": "/wiki/entities/woodrowwilson/"
     },
     "WorkRestBoundary": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？ [lsLocZLnKMcrRfpN9Coh8RrQO_WB].md",
@@ -208118,9 +208164,16 @@
           "show": "这病说来话长",
           "title": "VOL.72精神科｜别太拿性格测试当事 三甲精神科医生教你和职场做减压切割",
           "url": "/wiki/sources/vol-72-jingshenke-bie-tai-na-xingge-ceshi-dangshi-sanjia-jingshenke-yisheng-jiao-ni-he-zhichang-zuo-jianya-qiege-li6jofbvucknthuqw1flm-r0m4kw/"
+        },
+        {
+          "episode_file": "CKwRIJIFXc-UABAAAAD057GE [CKwRIJIFXc-UABAAAAD057GE].md",
+          "key": "ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge",
+          "show": "无时差研究所",
+          "title": "EP196-人类高效工作研究报告",
+          "url": "/wiki/sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/workrestboundary/"
     },
     "WorkRoleTransitionRitual": {
@@ -209552,9 +209605,9 @@
       "url": "/wiki/entities/wurenzhixiao/"
     },
     "WushichaYanjiusuo": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -209597,9 +209650,16 @@
           "show": "无时差研究所",
           "title": "EP388-王妈妈花木兰一日体验卡 | 聊聊约拍这个出圈的生意",
           "url": "/wiki/sources/ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb/"
+        },
+        {
+          "episode_file": "CKwRIJIFXc-UABAAAAD057GE [CKwRIJIFXc-UABAAAAD057GE].md",
+          "key": "ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge",
+          "show": "无时差研究所",
+          "title": "EP196-人类高效工作研究报告",
+          "url": "/wiki/sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/wushichayanjiusuo/"
     },
     "WusiSouthernXiongnu": {
