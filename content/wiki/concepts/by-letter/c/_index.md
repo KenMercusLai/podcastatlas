@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9260
+wiki_total_pages: 9265
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1853,6 +1853,9 @@ wiki_pages:
   - key: "CongressionalWarPowersConstraint"
     title: "Congressional War-Powers Constraint"
     url: "/wiki/concepts/congressionalwarpowersconstraint/"
+  - key: "ConnectomicsWiringDiagramMethod"
+    title: "Connectomics Wiring-Diagram Method"
+    url: "/wiki/concepts/connectomicswiringdiagrammethod/"
   - key: "ConquestCaptivityNarrativeUncertainty"
     title: "Conquest Captivity Narrative Uncertainty"
     url: "/wiki/concepts/conquestcaptivitynarrativeuncertainty/"

@@ -30343,9 +30343,9 @@
       "url": "/wiki/entities/centuriesofthebristlecone/"
     },
     "CerebellarPrediction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1807559844 [SCIM1807559844].md",
@@ -30353,9 +30353,16 @@
           "show": "Huberman Lab",
           "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
           "url": "/wiki/sources/scim1807559844-scim1807559844/"
+        },
+        {
+          "episode_file": "SCIM4448895120 [SCIM4448895120].md",
+          "key": "scim4448895120-scim4448895120",
+          "show": "Huberman Lab",
+          "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
+          "url": "/wiki/sources/scim4448895120-scim4448895120/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/cerebellarprediction/"
     },
     "Cerebras": {
@@ -40123,6 +40130,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/congressionalwarpowersconstraint/"
     },
+    "ConnectomicsWiringDiagramMethod": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4448895120 [SCIM4448895120].md",
+          "key": "scim4448895120-scim4448895120",
+          "show": "Huberman Lab",
+          "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
+          "url": "/wiki/sources/scim4448895120-scim4448895120/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/connectomicswiringdiagrammethod/"
+    },
     "ConquestCaptivityNarrativeUncertainty": {
       "episode_count": 2,
       "show_count": 1,
@@ -46800,6 +46823,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/davidbailey/"
     },
+    "DavidBerson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4448895120 [SCIM4448895120].md",
+          "key": "scim4448895120-scim4448895120",
+          "show": "Huberman Lab",
+          "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
+          "url": "/wiki/sources/scim4448895120-scim4448895120/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/davidberson/"
+    },
     "DavidBrancaccio": {
       "episode_count": 3,
       "show_count": 1,
@@ -51231,6 +51270,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/distributedlocalresilience/"
+    },
+    "DistributedNeuralRepresentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4448895120 [SCIM4448895120].md",
+          "key": "scim4448895120-scim4448895120",
+          "show": "Huberman Lab",
+          "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
+          "url": "/wiki/sources/scim4448895120-scim4448895120/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/distributedneuralrepresentation/"
     },
     "DistributedSpeechLanguageCircuits": {
       "episode_count": 1,
@@ -129603,6 +129658,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/melanocortinpeptidevitality/"
     },
+    "MelanopsinCircadianPhotoreception": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4448895120 [SCIM4448895120].md",
+          "key": "scim4448895120-scim4448895120",
+          "show": "Huberman Lab",
+          "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
+          "url": "/wiki/sources/scim4448895120-scim4448895120/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/melanopsincircadianphotoreception/"
+    },
     "MelissaIlardo": {
       "episode_count": 1,
       "show_count": 1,
@@ -161815,6 +161886,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/reflectiveselfexploration/"
+    },
+    "ReflexDeliberationControlHierarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4448895120 [SCIM4448895120].md",
+          "key": "scim4448895120-scim4448895120",
+          "show": "Huberman Lab",
+          "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
+          "url": "/wiki/sources/scim4448895120-scim4448895120/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/reflexdeliberationcontrolhierarchy/"
     },
     "ReflexiveSelfAwareness": {
       "episode_count": 1,
@@ -198328,9 +198415,9 @@
       "url": "/wiki/entities/vespasian/"
     },
     "VestibularLearningActivation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1135697510 [SCIM1135697510].md",
@@ -198345,6 +198432,13 @@
           "show": "Huberman Lab",
           "title": "Using Play to Rewire & Improve Your Brain",
           "url": "/wiki/sources/using-play-to-rewire-improve-your-brain-scim9321743392/"
+        },
+        {
+          "episode_file": "SCIM4448895120 [SCIM4448895120].md",
+          "key": "scim4448895120-scim4448895120",
+          "show": "Huberman Lab",
+          "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
+          "url": "/wiki/sources/scim4448895120-scim4448895120/"
         }
       ],
       "updated": "2026-10-02",
@@ -199279,6 +199373,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/visualsystemhealthtoolkit/"
+    },
+    "VisualVestibularStabilization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4448895120 [SCIM4448895120].md",
+          "key": "scim4448895120-scim4448895120",
+          "show": "Huberman Lab",
+          "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
+          "url": "/wiki/sources/scim4448895120-scim4448895120/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/visualvestibularstabilization/"
     },
     "Vitellius": {
       "episode_count": 1,

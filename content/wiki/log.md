@@ -27530,3 +27530,11 @@ Added source `131-burgundy-europes-forgotten-superpower-glt6941072856`; created 
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Understanding Your Brain's Logic & Function | Dr. David Berson
+
+Added source `scim4448895120-scim4448895120`; created `DavidBerson`, `MelanopsinCircadianPhotoreception`, `VisualVestibularStabilization`, `ReflexDeliberationControlHierarchy`, `DistributedNeuralRepresentation`, and `ConnectomicsWiringDiagramMethod`; and resynthesized `CerebellarPrediction` and `VestibularLearningActivation` from their complete preserved evidence inventories. Core synthesis: nervous-system function combines specialized pathways with distributed control—retinal brightness cells synchronize biological time, visual and vestibular signals stabilize gaze, cerebellar comparison corrects error, layered circuits select or inhibit action, and wiring diagrams generate hypotheses that physiology must test. No settled contradiction was adopted. Outdoor-light/myopia mechanisms, animal mood pathways, movement pleasure, broad learning transfer, cortical-repurposing generalization, and connectomic implications remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,440-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

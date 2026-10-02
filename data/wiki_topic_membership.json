@@ -22487,6 +22487,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ConnectomicsWiringDiagramMethod": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ConquestCaptivityNarrativeUncertainty": [
     {
       "key": "history",
@@ -25305,6 +25312,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "DavidBerson": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "DavidBlumen": [
     {
       "key": "technology",
@@ -27017,6 +27031,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "DistributedNeuralRepresentation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "DistributedSpeechLanguageCircuits": [
@@ -53256,6 +53277,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MelanopsinCircadianPhotoreception": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "MelodramaticPoliticalFormation": [
     {
       "key": "politics",
@@ -66640,6 +66668,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ReflexDeliberationControlHierarchy": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ReflexiveSelfAwareness": [
@@ -94825,6 +94860,13 @@
     }
   ],
   "scim1807559844-scim1807559844": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "scim4448895120-scim4448895120": [
     {
       "key": "science",
       "label": "Science",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9260
+wiki_total_pages: 9265
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "DistributedComplicityUnderAuthoritarianism"
     title: "Distributed Complicity Under Authoritarianism"
     url: "/wiki/concepts/distributedcomplicityunderauthoritarianism/"
+  - key: "DistributedNeuralRepresentation"
+    title: "Distributed Neural Representation"
+    url: "/wiki/concepts/distributedneuralrepresentation/"
   - key: "DistributedSpeechLanguageCircuits"
     title: "Distributed Speech-Language Circuits"
     url: "/wiki/concepts/distributedspeechlanguagecircuits/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9260
+wiki_total_pages: 9265
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "MelanocortinPeptideVitality"
     title: "Melanocortin Peptide Vitality"
     url: "/wiki/concepts/melanocortinpeptidevitality/"
+  - key: "MelanopsinCircadianPhotoreception"
+    title: "Melanopsin Circadian Photoreception"
+    url: "/wiki/concepts/melanopsincircadianphotoreception/"
   - key: "MelodramaticPoliticalFormation"
     title: "Melodramatic Political Formation"
     url: "/wiki/concepts/melodramaticpoliticalformation/"

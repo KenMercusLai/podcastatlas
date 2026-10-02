@@ -18735,6 +18735,10 @@
     "title": "Congressional War-Powers Constraint",
     "url": "/wiki/concepts/congressionalwarpowersconstraint/"
   },
+  "ConnectomicsWiringDiagramMethod": {
+    "title": "Connectomics Wiring-Diagram Method",
+    "url": "/wiki/concepts/connectomicswiringdiagrammethod/"
+  },
   "ConocoPhillips": {
     "title": "ConocoPhillips",
     "url": "/wiki/entities/conocophillips/"
@@ -21399,6 +21403,10 @@
     "title": "David Baker",
     "url": "/wiki/entities/davidbaker/"
   },
+  "DavidBerson": {
+    "title": "David Berson",
+    "url": "/wiki/entities/davidberson/"
+  },
   "DavidBlumen": {
     "title": "David Blumen",
     "url": "/wiki/entities/davidblumen/"
@@ -23158,6 +23166,10 @@
   "DistributedLocalResilience": {
     "title": "分布式地方韧性 / Distributed Local Resilience",
     "url": "/wiki/concepts/distributedlocalresilience/"
+  },
+  "DistributedNeuralRepresentation": {
+    "title": "Distributed Neural Representation",
+    "url": "/wiki/concepts/distributedneuralrepresentation/"
   },
   "DistributedSpeechLanguageCircuits": {
     "title": "Distributed Speech-Language Circuits",
@@ -51047,6 +51059,10 @@
     "title": "Melanocortin Peptide Vitality",
     "url": "/wiki/concepts/melanocortinpeptidevitality/"
   },
+  "MelanopsinCircadianPhotoreception": {
+    "title": "Melanopsin Circadian Photoreception",
+    "url": "/wiki/concepts/melanopsincircadianphotoreception/"
+  },
   "MelissaIlardo": {
     "title": "Melissa Ilardo",
     "url": "/wiki/entities/melissailardo/"
@@ -64166,6 +64182,10 @@
   "ReflectiveSelfExploration": {
     "title": "Reflective Self-Exploration",
     "url": "/wiki/concepts/reflectiveselfexploration/"
+  },
+  "ReflexDeliberationControlHierarchy": {
+    "title": "Reflex-Deliberation Control Hierarchy",
+    "url": "/wiki/concepts/reflexdeliberationcontrolhierarchy/"
   },
   "ReflexiveSelfAwareness": {
     "title": "Reflexive Self-Awareness / 反身性自我意识",
@@ -79495,6 +79515,10 @@
     "title": "Visual System Health Toolkit",
     "url": "/wiki/concepts/visualsystemhealthtoolkit/"
   },
+  "VisualVestibularStabilization": {
+    "title": "Visual-Vestibular Stabilization",
+    "url": "/wiki/concepts/visualvestibularstabilization/"
+  },
   "VitalismLifePrincipleDebate": {
     "title": "Vitalism And Life-Principle Debate / 活力论与生命本质争论",
     "url": "/wiki/concepts/vitalismlifeprincipledebate/"
@@ -91406,6 +91430,10 @@
   "scim1807559844-scim1807559844": {
     "title": "Life, Death & the Neuroscience of Your Unique Experience | Dr. David Linden",
     "url": "/wiki/sources/scim1807559844-scim1807559844/"
+  },
+  "scim4448895120-scim4448895120": {
+    "title": "Understanding Your Brain's Logic & Function | Dr. David Berson",
+    "url": "/wiki/sources/scim4448895120-scim4448895120/"
   },
   "scim5583107634-scim5583107634": {
     "title": "The Science & Health Benefits of Deliberate Heat Exposure",

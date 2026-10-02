@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Understanding Your Brain's Logic & Function | Dr. David Berson](sources/scim4448895120-scim4448895120.md) — Huberman Lab interview on melanopsin and circadian timing, visual-vestibular control, cerebellar correction, action hierarchy, distributed representation, plasticity, and connectomics.
 - [131. Burgundy: Europe's Forgotten Superpower](sources/131-burgundy-europes-forgotten-superpower-glt6941072856.md) — The Rest Is History with Bart van Loo on Burgundian state formation, Flemish wealth, French civil war, court spectacle, dynastic collapse, and Habsburg inheritance.
 - [132. A Christmas Carol](sources/132-a-christmas-carol-glt9074696790.md) — The Rest Is History walk through Dickensian London on horror, loneliness, festive warmth, literary geography, personal redemption, and structural inequality.
 - [133. Christmas churches](sources/133-christmas-churches-glt8843719433.md) — Festive The Rest Is History survey of British churches as repositories of Christmas charity, music, literature, art, calendars, folklore, film, and local memory.
@@ -3500,6 +3501,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [David Berson](entities/DavidBerson.md) — Brown University neuroscientist explaining retinal specialization, sensory integration, layered action control, cortical representation, and connectomic hypothesis generation.
 - [Burgundy](entities/Burgundy.md) — Late-medieval composite state joining a French duchy to the Low Countries before military defeat and dynastic partition.
 - [Philip the Bold](entities/PhilipTheBold.md) — Valois duke whose Flemish marriage established Burgundy's durable north-south economic and dynastic base.
 - [Charles the Bold](entities/CharlesTheBold.md) — Burgundian duke whose effort to connect his lands ended in defeat, death, and succession crisis at Nancy.
@@ -15491,6 +15493,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Melanopsin Circadian Photoreception](concepts/MelanopsinCircadianPhotoreception.md) — Non-image-forming retinal brightness pathway linking intrinsically photosensitive ganglion cells to daily circadian coordination.
+- [Visual-Vestibular Stabilization](concepts/VisualVestibularStabilization.md) — Gaze-control system joining inner-ear motion signals, compensatory eye movement, cerebellar correction, and sensory-conflict limits.
+- [Reflex-Deliberation Control Hierarchy](concepts/ReflexDeliberationControlHierarchy.md) — Layered control account joining rapid orientation, basal-ganglia action gating, cortical override, and trained automaticity.
+- [Distributed Neural Representation](concepts/DistributedNeuralRepresentation.md) — Middle account joining specialized neural components, population coding, multiple cortical maps, and constrained plasticity.
+- [Connectomics Wiring-Diagram Method](concepts/ConnectomicsWiringDiagramMethod.md) — Serial electron-microscopy reconstruction used to generate anatomical circuit hypotheses that require functional testing.
 - [Burgundian State Formation](concepts/BurgundianStateFormation.md) — Composite-state process joining dynastic marriage, urban wealth, alliance flexibility, court integration, territorial ambition, and succession fragility.
 - [Personal Redemption and Structural Limits](concepts/PersonalRedemptionStructuralLimit.md) — Pattern in which morally serious individual change repairs harm while leaving protection dependent on voluntary virtue rather than institutional change.
 - [Church Cultural Memory](concepts/ChurchCulturalMemory.md) — Preservation and interpretation of social history through church fabric, objects, art, graves, ritual, literature, and local stories.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9260
+wiki_total_pages: 9265
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "ReflectiveSelfExploration"
     title: "Reflective Self-Exploration"
     url: "/wiki/concepts/reflectiveselfexploration/"
+  - key: "ReflexDeliberationControlHierarchy"
+    title: "Reflex-Deliberation Control Hierarchy"
+    url: "/wiki/concepts/reflexdeliberationcontrolhierarchy/"
   - key: "ReflexiveSelfAwareness"
     title: "Reflexive Self-Awareness / 反身性自我意识"
     url: "/wiki/concepts/reflexiveselfawareness/"
