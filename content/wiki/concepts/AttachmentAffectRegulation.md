@@ -6,6 +6,7 @@ sources:
   - how-relationships-shape-your-brain-dr-allan-schore-scim1947263719
   - how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809
   - the-science-of-love-desire-and-attachment-scim1112390541
+  - science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -22,10 +23,10 @@ Security does not mean continuous perfect synchrony. Misattunement is expected; 
 
 Perel adds an adult-couple application: present conflict may reactivate older relational learning, and partners can organize around fears of abandonment or suffocation. This strengthens the case for attending to bodily state and repeated interaction without treating childhood as destiny or using attachment language to erase present conduct.
 
-The solo Huberman episode adds the Strange Situation lineage and a more explicit plasticity claim. Secure, avoidant, ambivalent or resistant, and disorganized patterns are presented as tendencies visible in separation and reunion, but not as permanent identities. Adult romantic attachment can reuse early regulatory machinery while later relationships, self-regulation, and repeated co-regulation alter how that machinery is expressed.
+The two solo Huberman episodes add the Strange Situation lineage, autonomic coordination, shared prediction, and a more explicit plasticity claim. Secure, avoidant, ambivalent or resistant, and disorganized patterns are presented as tendencies visible in separation and reunion, but not as permanent identities. Infant-caregiver bonding is described as mutual regulation of breathing, heart rate, pupil state, touch, and predictable shared ritual; adult romantic attachment can reuse this early regulatory machinery while later relationships, self-regulation, and repeated co-regulation alter how it is expressed.
 
 ## Key Claims
-- Early attachment is presented as affect communication and regulation through repeated nonverbal interaction.
+- Early attachment is presented as affect communication and regulation through repeated nonverbal interaction, autonomic coordination, and predictable shared experience.
 - Secure attachment supports both self-regulation and interactive regulation rather than privileging either one.
 - Avoidant patterns over-rely on self-regulation, while anxious patterns over-rely on external regulation in the source's model.
 - Disorganized attachment is described as loss of usable self- or interpersonal regulation under stress, sometimes involving dissociation.
@@ -40,13 +41,14 @@ The solo Huberman episode adds the Strange Situation lineage and a more explicit
 - Later plasticity: [[how-relationships-shape-your-brain-dr-allan-schore-scim1947263719]] argues that therapy and vulnerable, trustworthy relationships can create emotionally significant experiences that revise established patterns.
 - Adult-couple extension: [[how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809]] connects recurring conflict to implicit memory and to abandonment/suffocation fears that can change across relationships.
 - Classification and plasticity: [[the-science-of-love-desire-and-attachment-scim1112390541]] uses [[MaryAinsworth|Mary Ainsworth]]'s separation-and-reunion categories while emphasizing that secure and insecure tendencies can change.
+- Autonomic and cognitive coordination: [[science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543]] describes infant-caregiver regulation through bodily timing, touch, and predictable shared narrative, then extends those systems to adult bonds.
 
 ## Counterevidence & Qualifications
-The sources are broad public interviews and education, not complete attachment assessments or treatment protocols. Attachment labels should not be used to diagnose oneself, a partner, a child, or a caregiver from isolated behavior. Developmental timing, cross-cultural robustness, predictive strength, dissociation, limbic-autonomic, cortisol, and neural-circuit explanations remain source-scoped; later functioning reflects more than the first two years, and present conduct remains accountable even when older learning is activated.
+The sources are broad public interviews and education, not complete attachment assessments or treatment protocols. Attachment labels should not be used to diagnose oneself, a partner, a child, or a caregiver from isolated behavior. Developmental timing, cross-cultural robustness, predictive strength, dissociation, limbic-autonomic, cortisol, hemisphere, synchrony, oxytocin, and neural-circuit explanations remain source-scoped; later functioning reflects more than the first two years, and present conduct remains accountable even when older learning is activated.
 
 ## What Changed
-- Added the Strange Situation categories and an explicit adult-attachment plasticity judgment.
-- Preserved the boundary between developmental explanation, present-day accountability, and amateur diagnosis.
+- Added autonomic coordination and predictable shared experience as complementary channels in early and adult bonding.
+- Strengthened the plasticity boundary against treating early attachment as adult destiny.
 
 ## Related Concepts
 - [[EmotionalCoRegulationFit]] - adult support-fit branch of interactive regulation.

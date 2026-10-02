@@ -9260,9 +9260,9 @@
       "url": "/wiki/entities/allanquatermain/"
     },
     "AllanSchore": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1947263719 [SCIM1947263719].md",
@@ -9270,9 +9270,16 @@
           "show": "Huberman Lab",
           "title": "How Relationships Shape Your Brain | Dr. Allan Schore",
           "url": "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
+        },
+        {
+          "episode_file": "SCIM2455538543 [SCIM2455538543].md",
+          "key": "science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543",
+          "show": "Huberman Lab",
+          "title": "Science of Social Bonding in Family, Friendship & Romantic Love",
+          "url": "/wiki/sources/science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/allanschore/"
     },
     "AllegoricalAdaptationSpecificity": {
@@ -16014,9 +16021,9 @@
       "url": "/wiki/concepts/atrocitynarrativereframing/"
     },
     "AttachmentAffectRegulation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1947263719 [SCIM1947263719].md",
@@ -16038,6 +16045,13 @@
           "show": "Huberman Lab",
           "title": "The Science of Love, Desire and Attachment",
           "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
+        },
+        {
+          "episode_file": "SCIM2455538543 [SCIM2455538543].md",
+          "key": "science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543",
+          "show": "Huberman Lab",
+          "title": "Science of Social Bonding in Family, Friendship & Romantic Love",
+          "url": "/wiki/sources/science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543/"
         }
       ],
       "updated": "2026-10-02",
@@ -40951,9 +40965,9 @@
       "url": "/wiki/concepts/contextdependentbiomedicalinterventions/"
     },
     "ContextDependentSocialHormoneEffects": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9606820714 [SCIM9606820714].md",
@@ -40968,9 +40982,16 @@
           "show": "Huberman Lab",
           "title": "The Causes & Treatments for Autism | Dr. Karen Parker",
           "url": "/wiki/sources/the-causes-treatments-for-autism-dr-karen-parker-scim5460291325/"
+        },
+        {
+          "episode_file": "SCIM2455538543 [SCIM2455538543].md",
+          "key": "science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543",
+          "show": "Huberman Lab",
+          "title": "Science of Social Bonding in Family, Friendship & Romantic Love",
+          "url": "/wiki/sources/science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/contextdependentsocialhormoneeffects/"
     },
     "ContextualBanditPersonalization": {
@@ -58079,9 +58100,9 @@
       "url": "/wiki/concepts/empathylikebehavioralassays/"
     },
     "EmpathyModeDifferentiation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1420437673 [SCIM1420437673].md",
@@ -58089,9 +58110,16 @@
           "show": "Huberman Lab",
           "title": "How to Shape Your Identity & Goals | Dr. Maya Shankar",
           "url": "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
+        },
+        {
+          "episode_file": "SCIM2455538543 [SCIM2455538543].md",
+          "key": "science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543",
+          "show": "Huberman Lab",
+          "title": "Science of Social Bonding in Family, Friendship & Romantic Love",
+          "url": "/wiki/sources/science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/empathymodedifferentiation/"
     },
     "EmperorAnOfHan": {
@@ -99376,9 +99404,9 @@
       "url": "/wiki/concepts/interpersonalimageprojection/"
     },
     "InterpersonalSynchronyAndRapport": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9606820714 [SCIM9606820714].md",
@@ -99393,9 +99421,16 @@
           "show": "Huberman Lab",
           "title": "How Relationships Shape Your Brain | Dr. Allan Schore",
           "url": "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
+        },
+        {
+          "episode_file": "SCIM2455538543 [SCIM2455538543].md",
+          "key": "science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543",
+          "show": "Huberman Lab",
+          "title": "Science of Social Bonding in Family, Friendship & Romantic Love",
+          "url": "/wiki/sources/science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/interpersonalsynchronyandrapport/"
     },
     "Interpositive": {
@@ -108075,9 +108110,9 @@
       "url": "/wiki/entities/katjahoyer/"
     },
     "KayTye": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4105255786 [SCIM4105255786].md",
@@ -108085,9 +108120,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",
           "url": "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
+        },
+        {
+          "episode_file": "SCIM2455538543 [SCIM2455538543].md",
+          "key": "science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543",
+          "show": "Huberman Lab",
+          "title": "Science of Social Bonding in Family, Friendship & Romantic Love",
+          "url": "/wiki/sources/science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/kaytye/"
     },
     "Kearney": {
@@ -177991,9 +178033,9 @@
       "url": "/wiki/concepts/socialhistorycaseframing/"
     },
     "SocialHomeostasis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4105255786 [SCIM4105255786].md",
@@ -178001,9 +178043,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Social Interactions and Emotions | Dr. Kay Tye",
           "url": "/wiki/sources/the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786/"
+        },
+        {
+          "episode_file": "SCIM2455538543 [SCIM2455538543].md",
+          "key": "science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543",
+          "show": "Huberman Lab",
+          "title": "Science of Social Bonding in Family, Friendship & Romantic Love",
+          "url": "/wiki/sources/science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/socialhomeostasis/"
     },
     "SocialImitationMarketBubbles": {
@@ -178039,9 +178088,9 @@
       "url": "/wiki/concepts/socialimmersionlanguagelearning/"
     },
     "SocialIsolationTachykinin": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8499505944 [SCIM8499505944].md",
@@ -178056,9 +178105,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Aggression, Mating, & Arousal | Dr. David Anderson",
           "url": "/wiki/sources/the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481/"
+        },
+        {
+          "episode_file": "SCIM2455538543 [SCIM2455538543].md",
+          "key": "science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543",
+          "show": "Huberman Lab",
+          "title": "Science of Social Bonding in Family, Friendship & Romantic Love",
+          "url": "/wiki/sources/science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/socialisolationtachykinin/"
     },
     "SocialJetlag": {

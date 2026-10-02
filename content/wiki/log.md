@@ -27506,3 +27506,11 @@ Added source `133-christmas-churches-glt8843719433`; created `RachelMorley`, `Fr
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Science of Social Bonding in Family, Friendship & Romantic Love
+
+Added source `science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543`; resynthesized `SocialHomeostasis`, `SocialIsolationTachykinin`, `InterpersonalSynchronyAndRapport`, `EmpathyModeDifferentiation`, `AttachmentAffectRegulation`, `ContextDependentSocialHormoneEffects`, `KayTye`, and `AllanSchore` from their complete preserved evidence inventories. Core synthesis: social bonding is a regulated, plastic process in which acute deprivation can motivate reconnection, chronic isolation can shift stress and approach states, shared narratives can coordinate physiology, and emotional resonance remains distinct from cognitive understanding. No settled contradiction was adopted. Circuit localization, introvert-extrovert dopamine claims, synchrony effects, oxytocin genetics and administration, and MDMA-assisted psychotherapy remain source-scoped and non-prescriptive. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,437-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

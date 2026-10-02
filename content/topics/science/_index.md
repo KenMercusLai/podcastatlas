@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1391
+topic_total_pages: 1392
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3975,6 +3975,9 @@ topic_sources:
   - key: "science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820"
     title: "Science of Mindsets for Health & Performance | Dr. Alia Crum"
     url: "/wiki/sources/science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820/"
+  - key: "science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543"
+    title: "Science of Social Bonding in Family, Friendship & Romantic Love"
+    url: "/wiki/sources/science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543/"
   - key: "science-based-mental-training-visualization-for-improved-learning-scim9944841947"
     title: "Science-Based Mental Training & Visualization for Improved Learning"
     url: "/wiki/sources/science-based-mental-training-visualization-for-improved-learning-scim9944841947/"
