@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9317
+wiki_total_pages: 9320
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "FacialHairAsSocialCode"
     title: "Facial Hair As Social Code"
     url: "/wiki/concepts/facialhairassocialcode/"
+  - key: "FacilitatedImmersivePlay"
+    title: "Facilitated Immersive Play / 引导式沉浸游戏"
+    url: "/wiki/concepts/facilitatedimmersiveplay/"
   - key: "FactFutureAssetPricing"
     title: "Fact/Future Asset Pricing"
     url: "/wiki/concepts/factfutureassetpricing/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9317
+wiki_total_pages: 9320
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "ScriptAsSocialHistory"
     title: "Script As Social History"
     url: "/wiki/concepts/scriptassocialhistory/"
+  - key: "ScriptedMurderRolePlay"
+    title: "Scripted Murder Role-Play / 剧本杀"
+    url: "/wiki/concepts/scriptedmurderroleplay/"
   - key: "ScurvyNutritionInsight"
     title: "Scurvy Nutrition Insight"
     url: "/wiki/concepts/scurvynutritioninsight/"

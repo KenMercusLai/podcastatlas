@@ -27793,3 +27793,11 @@ Added source `109-dinosaurs-glt4328792494`; created `MaryAnning`, `RichardOwen`,
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | EP194-在剧本杀里沉浸爆哭是一种怎样的体验？
+
+Added source `ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv`; created `ScriptedMurderRolePlay`, `FacilitatedImmersivePlay`, and `OneShotCollaborativeNarrativeMemory`; and resynthesized `WushichaYanjiusuo` from its complete preserved evidence inventory. Core synthesis: 剧本杀 is a facilitated family of role-play formats whose quality depends jointly on script, role fit, DM guidance, and participant commitment, while asymmetric information and live group interaction turn a repeatable text into a singular shared event. No settled contradiction was adopted. Genre prevalence, licensing, online-versus-offline quality, learning effects, and broad accessibility remain source-scoped player judgments. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,473-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

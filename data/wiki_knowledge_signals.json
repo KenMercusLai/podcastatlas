@@ -66111,6 +66111,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/facialhairassocialcode/"
     },
+    "FacilitatedImmersivePlay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIW4FQUvTABAAAADtZWUV [CKwRIW4FQUvTABAAAADtZWUV].md",
+          "key": "ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv",
+          "show": "无时差研究所",
+          "title": "EP194-在剧本杀里沉浸爆哭是一种怎样的体验？",
+          "url": "/wiki/sources/ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/facilitatedimmersiveplay/"
+    },
     "FactoryBasedDeterrence": {
       "episode_count": 1,
       "show_count": 1,
@@ -145316,6 +145332,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/oncologypsychologicalsupport/"
     },
+    "OneShotCollaborativeNarrativeMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIW4FQUvTABAAAADtZWUV [CKwRIW4FQUvTABAAAADtZWUV].md",
+          "key": "ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv",
+          "show": "无时差研究所",
+          "title": "EP194-在剧本杀里沉浸爆哭是一种怎样的体验？",
+          "url": "/wiki/sources/ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/oneshotcollaborativenarrativememory/"
+    },
     "OneX": {
       "episode_count": 1,
       "show_count": 1,
@@ -173863,6 +173895,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/scriptedcandortrap/"
+    },
+    "ScriptedMurderRolePlay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIW4FQUvTABAAAADtZWUV [CKwRIW4FQUvTABAAAADtZWUV].md",
+          "key": "ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv",
+          "show": "无时差研究所",
+          "title": "EP194-在剧本杀里沉浸爆哭是一种怎样的体验？",
+          "url": "/wiki/sources/ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/scriptedmurderroleplay/"
     },
     "ScyllaAndCharybdis": {
       "episode_count": 1,
@@ -210428,9 +210476,9 @@
       "url": "/wiki/entities/wurenzhixiao/"
     },
     "WushichaYanjiusuo": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -210480,6 +210528,13 @@
           "show": "无时差研究所",
           "title": "EP196-人类高效工作研究报告",
           "url": "/wiki/sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge/"
+        },
+        {
+          "episode_file": "CKwRIW4FQUvTABAAAADtZWUV [CKwRIW4FQUvTABAAAADtZWUV].md",
+          "key": "ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv",
+          "show": "无时差研究所",
+          "title": "EP194-在剧本杀里沉浸爆哭是一种怎样的体验？",
+          "url": "/wiki/sources/ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv/"
         }
       ],
       "updated": "2026-10-02",

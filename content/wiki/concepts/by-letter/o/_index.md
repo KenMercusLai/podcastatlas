@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9317
+wiki_total_pages: 9320
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "OneShotAICoding"
     title: "One-Shot AI Coding"
     url: "/wiki/concepts/oneshotaicoding/"
+  - key: "OneShotCollaborativeNarrativeMemory"
+    title: "One-Shot Collaborative Narrative Memory / 一次性共同叙事记忆"
+    url: "/wiki/concepts/oneshotcollaborativenarrativememory/"
   - key: "OngakuKissa"
     title: "Ongaku Kissa"
     url: "/wiki/concepts/ongakukissa/"

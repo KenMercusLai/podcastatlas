@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [113. Hallowe'en and modern paganism](sources/113-halloween-and-modern-paganism-glt4064224583.md) — The Rest Is History with Ronald Hutton on Halloween's layered history, disputed pagan continuity, Wicca, and modern religious reconstruction.
 - [114. Stonehenge, ancient ritual and the origins of paganism](sources/114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137.md) — The Rest Is History with Ronald Hutton on paganism, Christianization, Druids, continuity claims, prehistoric ritual, Stonehenge, and evidential uncertainty.
 - [115. The Gunpowder Plot](sources/115-the-gunpowder-plot-glt1711431752.md) — The Rest Is History on Catesby's conspiracy, Fawkes's capture, intelligence ambiguity, treason punishment, and Bonfire Night's changing meanings.
+- [EP194-在剧本杀里沉浸爆哭是一种怎样的体验？](sources/ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv.md) — 无时差研究所 episode on 剧本杀 genres, role fit, DM facilitation, player commitment, distribution formats, and singular shared narrative memory.
 - [EP196-人类高效工作研究报告](sources/ep196-renlei-gaoxiao-gongzuo-yanjiu-baogao-ckwrijifxc-uabaaaad057ge.md) — 无时差研究所 episode on hidden overtime incentives, knowledge-work coordination, pseudo-productivity, work-rest boundaries, health costs, and internalized overwork.
 - [116. Alexander the Great Part 1](sources/116-alexander-the-great-part-1-glt3321594885.md) — The Rest Is History on Philip II's Macedonian platform, Alexander's early conquests, Issus, Tyre, Egypt, Siwa, expanding ambition, and source uncertainty.
 - [How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French](sources/scim2965049301-scim2965049301.md) — Huberman Lab interview on adaptation-led programming across resistance training, recovery, thermal stress, fuel selection, and mixed-martial-arts performance.
@@ -5938,7 +5939,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frederick AI](entities/FrederickAI.md) — Wu Hankun's source-reported early agent project for founder task execution.
 - [《粉色悖论》 / Pink Paradox](entities/PinkParadox.md) — Wu Hankun's first AI short-film case, begun as a role-farewell project.
 - [《人口异常》 / Population Anomaly](entities/PopulationAnomaly.md) — Wu Hankun's later science-fiction AI short-film experiment.
-- [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Conversational podcast show represented by culture commentary on 《我的前半生》 and public medical-literacy discussion of GLP-1 weight-loss drugs.
+- [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Conversational podcast represented by culture, health, travel, creative-practice, workplace, and social-play interpretation.
 - [亦舒 / Yi Shu](entities/YiShu.md) — Authorial baseline for EP385's comparison between the 《我的前半生》 novel's female-supported rebuilding and the TV drama's male-mentor rewrite.
 - [《我的前半生》 / My First Half Life](entities/MyFirstHalfLife.md) — Yi Shu novel and 2017 TV adaptation reread as an old-drama revival, gender-narrative, and economic-memory case.
 - [罗子君 / Luo Zijun](entities/LuoZijun.md) — 《我的前半生》 heroine whose divorce, work return, and claimed independence test the difference between supported agency and male-authorized growth.
@@ -24954,5 +24955,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial Martyrdom Memory](concepts/ImperialMartyrdomMemory.md) — Conversion of defeat and a celebrated death into sanctity, betrayal, blame, and support for later force.
 
 - [Circadian-Homeostatic-Environmental Model](concepts/CircadianHomeostaticEnvironmentalModel.md) — Tripartite model joining internal clock phase, accumulated biological need, and direct environmental inputs.
+- [Scripted Murder Role-Play / 剧本杀](concepts/ScriptedMurderRolePlay.md) — Facilitated social game combining character performance, asymmetric information, evidence exchange, and collective story reconstruction.
+- [Facilitated Immersive Play / 引导式沉浸游戏](concepts/FacilitatedImmersivePlay.md) — Experience model joining scenario quality, role fit, facilitation, and sustained participant attention.
+- [One-Shot Collaborative Narrative Memory / 一次性共同叙事记忆](concepts/OneShotCollaborativeNarrativeMemory.md) — Shared memory created when a repeatable story becomes a singular event through one group's choices and interaction.
 
 ## Syntheses
