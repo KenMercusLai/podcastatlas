@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9366
+wiki_total_pages: 9369
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -875,6 +875,9 @@ wiki_pages:
   - key: "SiliconCarbonGovernance"
     title: "Silicon Carbon Governance"
     url: "/wiki/concepts/siliconcarbongovernance/"
+  - key: "SiliconValleyInnovationSystem"
+    title: "Silicon Valley Innovation System"
+    url: "/wiki/concepts/siliconvalleyinnovationsystem/"
   - key: "SilverDollarCredit"
     title: "Silver Dollar Credit"
     url: "/wiki/concepts/silverdollarcredit/"
@@ -1193,6 +1196,9 @@ wiki_pages:
   - key: "SocialMediaDesignRegulation"
     title: "Social Media Design Regulation"
     url: "/wiki/concepts/socialmediadesignregulation/"
+  - key: "SocialMediaPrehistory"
+    title: "Social Media Prehistory"
+    url: "/wiki/concepts/socialmediaprehistory/"
   - key: "SocialMediaProductLiability"
     title: "Social Media Product Liability"
     url: "/wiki/concepts/socialmediaproductliability/"

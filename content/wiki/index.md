@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [93. Silicon Valley Part 1](sources/93-silicon-valley-part-1-glt5734449332.md) — The Rest Is History with Marc Andreessen on Silicon Valley’s institutional formation, mass internet adoption, browsers, and social media’s long prehistory.
 - [94. Silicon Valley Part 2](sources/94-silicon-valley-part-2-glt3075342575.md) — The Rest Is History with Marc Andreessen on filter bubbles, political amplification, software-mediated transformation, cyberwar ambiguity, and movement-like online communities.
 - [95. 9/11](sources/95-9-11-glt8208243510.md) — The Rest Is History on 9/11 as global media spectacle, rival universalist projects, war-on-terror overreach, and long-run reputational damage.
 - [96. The UK’s Best Churches](sources/96-the-uks-best-churches-glt7919970372.md) — The Rest Is History survey of overlooked churches as archives of architecture, politics, war memory, art, science, folklore, literature, and local life.
@@ -15665,6 +15666,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
 
 ## Concepts
+- [Silicon Valley Innovation System](concepts/SiliconValleyInnovationSystem.md) — How public research, Stanford commercialization, chips, migration, and culture combined into a technology cluster.
+- [Mass Internet Adoption](concepts/MassInternetAdoption.md) — The complementary access, interface, device, policy, and capacity layers that moved the internet into ordinary use.
+- [Social Media Prehistory](concepts/SocialMediaPrehistory.md) — The long lineage of networked social mechanics before modern mass-market platforms.
 - [Internet Political Amplification](concepts/InternetPoliticalAmplification.md) — Model separating older political ideas from the reach, intensity, coordination, and conflict produced by digital networks.
 - [Software Eating the World Thesis](concepts/SoftwareEatingTheWorldThesis.md) — Qualified account of software as institutional leverage across digital and physical activity.
 - [Cyberwar Escalation Ambiguity](concepts/CyberwarEscalationAmbiguity.md) — Uncertainty over attribution, severity, proportionality, and conventional response thresholds for digital attacks.

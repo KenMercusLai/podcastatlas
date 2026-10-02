@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9366
+wiki_total_pages: 9369
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "MassExtinctionPlanetaryWarning"
     title: "Mass Extinction as Planetary Warning"
     url: "/wiki/concepts/massextinctionplanetarywarning/"
+  - key: "MassInternetAdoption"
+    title: "Mass Internet Adoption"
+    url: "/wiki/concepts/massinternetadoption/"
   - key: "MassParticipationSportsEventMoat"
     title: "Mass Participation Sports Event Moat"
     url: "/wiki/concepts/massparticipationsportseventmoat/"

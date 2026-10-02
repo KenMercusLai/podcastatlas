@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3269
+topic_total_pages: 3272
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2917,6 +2917,9 @@ topic_concepts:
   - key: "MarketingScienceUserPath"
     title: "Marketing Science User Path / 营销科学用户路径"
     url: "/wiki/concepts/marketingscienceuserpath/"
+  - key: "MassInternetAdoption"
+    title: "Mass Internet Adoption"
+    url: "/wiki/concepts/massinternetadoption/"
   - key: "MassProducedAIIntimacy"
     title: "Mass-Produced AI Intimacy"
     url: "/wiki/concepts/massproducedaiintimacy/"
@@ -3943,6 +3946,9 @@ topic_concepts:
   - key: "SiliconCarbonGovernance"
     title: "Silicon Carbon Governance"
     url: "/wiki/concepts/siliconcarbongovernance/"
+  - key: "SiliconValleyInnovationSystem"
+    title: "Silicon Valley Innovation System"
+    url: "/wiki/concepts/siliconvalleyinnovationsystem/"
   - key: "Sim2Real"
     title: "Sim2Real"
     url: "/wiki/concepts/sim2real/"
@@ -8496,6 +8502,9 @@ topic_sources:
   - key: "biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1"
     title: "71. 编程的内燃机时代"
     url: "/wiki/sources/biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1/"
+  - key: "93-silicon-valley-part-1-glt5734449332"
+    title: "93. Silicon Valley Part 1"
+    url: "/wiki/sources/93-silicon-valley-part-1-glt5734449332/"
   - key: "94-silicon-valley-part-2-glt3075342575"
     title: "94. Silicon Valley Part 2"
     url: "/wiki/sources/94-silicon-valley-part-2-glt3075342575/"

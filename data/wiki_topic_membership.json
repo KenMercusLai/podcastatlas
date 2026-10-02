@@ -5963,6 +5963,13 @@
       "url": "/topics/science/"
     }
   ],
+  "93-silicon-valley-part-1-glt5734449332": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232": [
     {
       "key": "culture",
@@ -53077,6 +53084,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MassInternetAdoption": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MassParticipationSportsEventMoat": [
     {
       "key": "culture",
@@ -72966,6 +72980,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "SiliconValleyInnovationSystem": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "SilverDollarCredit": [

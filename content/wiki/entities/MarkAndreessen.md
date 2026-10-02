@@ -7,6 +7,7 @@ sources:
   - socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8
   - how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870
   - 94-silicon-valley-part-2-glt3075342575
+  - 93-silicon-valley-part-1-glt5734449332
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -15,10 +16,10 @@ knowledge_schema: synthesis-v1
 Mark Andreessen is the wiki's established key for Marc Andreessen, the Mosaic and [[Netscape]] browser figure and [[AndreessenHorowitz]] co-founder who appears across internet history, investor-network conflict, founder judgment, artificial intelligence, and broad arguments about technology's political and institutional effects.
 
 ## Current Profile
-Across the bounded sources, Andreessen moves from builder to network actor, investor, and public theorist. [[RonConway]] associates his Netscape work with making the internet usable and lowering startup costs through the browser and open-source ecosystem. [[ParkerConrad]] places him inside a disputed investor-network intervention during the Zenefits aftermath. In two long-form conversations, Andreessen interprets exceptional founders through unusual trait combinations and detailed idea mazes, argues that institutions often resist non-consensus builders, favors human-augmenting and defensive approaches to AI, and frames the internet and software as amplifiers of political, cultural, commercial, and movement dynamics. The profile is influential but perspective-bound: its institutional, labor, cultural, geopolitical, regulatory, and historical conclusions are arguments rather than neutral consensus.
+Across the bounded sources, Andreessen moves from browser builder to network actor, investor, and public theorist. [[RonConway]] associates his Netscape work with making the internet usable and lowering startup costs through the browser and open-source ecosystem. [[ParkerConrad]] places him inside a disputed investor-network intervention during the Zenefits aftermath. In three long-form conversations, Andreessen interprets Silicon Valley as an institutional system, mass internet use as a contingent interface-and-distribution achievement, exceptional founders through trait combinations and detailed idea mazes, and software and networks as amplifiers of institutional, political, cultural, and movement dynamics. The profile is influential but perspective-bound: its historical, institutional, labor, cultural, geopolitical, and regulatory conclusions are arguments rather than neutral consensus.
 
 ## Key Characteristics
-- Internet builder associated with the browser becoming an ordinary-user access layer.
+- Internet builder and participant-historian who links browser adoption to Silicon Valley's military-research, university, chip, migration, and cultural foundations.
 - Venture investor who evaluates founders through depth, obsession, adaptation, and non-consensus judgment.
 - Network actor whose institutional relationships can affect conflicts around founders and firms.
 - Technological optimist who emphasizes productivity, irreversibility, and opportunity costs from blocking beneficial innovation.
@@ -32,14 +33,15 @@ Across the bounded sources, Andreessen moves from builder to network actor, inve
 - Founder judgment: [[how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870]] develops [[InnovatorTraitConfiguration]] and [[FounderIdeaMaze]] as explanations and selection heuristics.
 - Technology and governance worldview: [[how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870]] connects [[DefensiveAIGovernance]], institutional replacement, nuclear-energy opportunity cost, and [[TechnologyMoralPanicCycle]].
 - Internet and software interpretation: [[94-silicon-valley-part-2-glt3075342575]] develops [[InternetPoliticalAmplification]], [[SoftwareEatingTheWorldThesis]], [[CyberwarEscalationAmbiguity]], and [[NetworkedMovementIdentity]] while qualifying a totalizing [[FilterBubble]] account.
+- Silicon Valley and adoption history: [[93-silicon-valley-part-1-glt5734449332]] develops [[SiliconValleyInnovationSystem]], [[MassInternetAdoption]], [[BrowserAsInternetUnlock]], and [[SocialMediaPrehistory]].
 
 ## Qualifications
-Conway's and Conrad's accounts are participant memories, and Conrad's conflict account lacks complete responses from every named party. Andreessen's two interviews are worldview statements rather than balanced reviews: they rely on investor observation, broad historical analogy, and contested political, employment, cultural, nuclear, and geopolitical claims. The established wiki key spells his first name “Mark,” while both interview metadata and public usage use “Marc”; no duplicate entity was created.
+Conway's and Conrad's accounts are participant memories, and Conrad's conflict account lacks complete responses from every named party. Andreessen's interviews are worldview statements rather than balanced reviews: they rely on participant memory, investor observation, compressed origin stories, and broad historical analogy. The Silicon Valley account underexamines public subsidy, labor, exclusion, gender, dispossession, surveillance, and harms, while its claims about a clean early internet and real-name innovation remain qualified. The established wiki key spells his first name “Mark,” while interview metadata and public usage use “Marc”; no duplicate entity was created.
 
 ## What Changed
-- Extended Andreessen's public-theorist profile from AI and institutions to internet politics, software-mediated transformation, cyber conflict, and movement-like communities.
-- Qualified his technology-and-employment optimism with distribution, transition, and evidence-scope limits.
-- Clarified that his filter-bubble critique distinguishes affinity from cross-cutting conflict rather than showing platforms are neutral.
+- Added Andreessen's institutional origin account of Silicon Valley and his contingent model of mass internet adoption.
+- Connected his browser role to the longer research, access-service, device-integration, and broadband stack.
+- Qualified his military-origin, early-network, frontier, and real-identity narratives as participant interpretation.
 
 ## Relationships
 - [[AndreessenHorowitz]] - venture firm he co-founded and platform for his investor and policy role.
@@ -49,3 +51,5 @@ Conway's and Conrad's accounts are participant memories, and Conrad's conflict a
 - [[DefensiveAIGovernance]] - AI-risk response he favors over broad prior restraint.
 - [[SoftwareEatingTheWorldThesis]] - institutional-transformation argument most closely associated with his public technology worldview.
 - [[InternetPoliticalAmplification]] - his distinction between older political impulses and networked intensification.
+- [[SiliconValleyInnovationSystem]] - his account of the region's public, university, hardware, migration, and cultural foundations.
+- [[MassInternetAdoption]] - his account of the layers that moved the internet from specialists to ordinary users.
