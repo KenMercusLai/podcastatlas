@@ -3391,6 +3391,10 @@
     "title": "94.吉卜力的天才们：我的人生，交给热爱和友谊",
     "url": "/wiki/sources/94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232/"
   },
+  "95-9-11-glt8208243510": {
+    "title": "95. 9/11",
+    "url": "/wiki/sources/95-9-11-glt8208243510/"
+  },
   "95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611": {
     "title": "95.都市传说：猎奇故事和我们内心深处的焦虑",
     "url": "/wiki/sources/95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611/"
@@ -6570,6 +6574,10 @@
   "AlMurray": {
     "title": "Al Murray",
     "url": "/wiki/entities/almurray/"
+  },
+  "AlQaeda": {
+    "title": "Al-Qaeda",
+    "url": "/wiki/entities/alqaeda/"
   },
   "Alabama": {
     "title": "Alabama",
@@ -57751,6 +57759,10 @@
     "title": "Orville Nelson",
     "url": "/wiki/entities/orvillenelson/"
   },
+  "OsamaBinLaden": {
+    "title": "Osama bin Laden",
+    "url": "/wiki/entities/osamabinladen/"
+  },
   "OscarWilde": {
     "title": "Oscar Wilde / 王尔德",
     "url": "/wiki/entities/oscarwilde/"
@@ -66450,6 +66462,10 @@
   "RitualizedSocialBoundary": {
     "title": "Ritualized Social Boundary / 仪式化社会边界",
     "url": "/wiki/concepts/ritualizedsocialboundary/"
+  },
+  "RivalUniversalistProjects": {
+    "title": "Rival Universalist Projects",
+    "url": "/wiki/concepts/rivaluniversalistprojects/"
   },
   "RiverAsLivingEntity": {
     "title": "River As Living Entity / 河流作为生命",
@@ -76011,6 +76027,10 @@
     "title": "Territorial Slavery Expansion",
     "url": "/wiki/concepts/territorialslaveryexpansion/"
   },
+  "TerrorAsGlobalMediaSpectacle": {
+    "title": "Terror as Global Media Spectacle",
+    "url": "/wiki/concepts/terrorasglobalmediaspectacle/"
+  },
   "TerrorRuleBackfire": {
     "title": "恐怖治理反噬 / Terror Rule Backfire",
     "url": "/wiki/concepts/terrorrulebackfire/"
@@ -81498,6 +81518,10 @@
   "WarOfTheWorlds": {
     "title": "The War of the Worlds / 《世界大战》",
     "url": "/wiki/entities/waroftheworlds/"
+  },
+  "WarOnTerrorOverreach": {
+    "title": "War on Terror Overreach",
+    "url": "/wiki/concepts/waronterroroverreach/"
   },
   "WarSpilloverHubOpportunity": {
     "title": "War Spillover Hub Opportunity",

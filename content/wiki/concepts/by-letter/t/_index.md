@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9356
+wiki_total_pages: 9359
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "TerritorialSlaveryExpansion"
     title: "Territorial Slavery Expansion"
     url: "/wiki/concepts/territorialslaveryexpansion/"
+  - key: "TerrorAsGlobalMediaSpectacle"
+    title: "Terror as Global Media Spectacle"
+    url: "/wiki/concepts/terrorasglobalmediaspectacle/"
   - key: "TerrorismPressureWrongfulConviction"
     title: "Terrorism Pressure and Wrongful Conviction"
     url: "/wiki/concepts/terrorismpressurewrongfulconviction/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9356
+wiki_total_pages: 9359
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "WarGenderedCivilianHarm"
     title: "War Gendered Civilian Harm"
     url: "/wiki/concepts/wargenderedcivilianharm/"
+  - key: "WarOnTerrorOverreach"
+    title: "War on Terror Overreach"
+    url: "/wiki/concepts/waronterroroverreach/"
   - key: "WarSpilloverHubOpportunity"
     title: "War Spillover Hub Opportunity"
     url: "/wiki/concepts/warspilloverhubopportunity/"

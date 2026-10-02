@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [95. 9/11](sources/95-9-11-glt8208243510.md) — The Rest Is History on 9/11 as global media spectacle, rival universalist projects, war-on-terror overreach, and long-run reputational damage.
 - [96. The UK’s Best Churches](sources/96-the-uks-best-churches-glt7919970372.md) — The Rest Is History survey of overlooked churches as archives of architecture, politics, war memory, art, science, folklore, literature, and local life.
 - [ADHD & How Anyone Can Improve Their Focus](sources/scim5444804832-scim5444804832.md) — Early Huberman Lab solo episode on ADHD attention control, working memory, stimulant and adjunct boundaries, attentional blinks, movement, visual practice, and phone-driven context switching.
 - [97. Top Ten Mistresses](sources/97-top-ten-mistresses-glt8855582591.md) — The Rest Is History countdown on royal favourites, performers, interpreters, celebrity, dynastic strategy, and influence through intimate access outside formal office.
@@ -3557,6 +3558,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson](sources/psychedelics-for-treating-mental-disorders-dr-matthew-johnson-scim6100326247.md) — Huberman Lab interview on psychedelic classes, clinical protocols, self-representation, integration, microdosing evidence, persistent perceptual symptoms, risks, and regulation.
 
 ## Entities
+- [Osama bin Laden](entities/OsamaBinLaden.md) — Al-Qaeda founder represented through transnational jihad, symbolic targeting, global media, and strategic provocation.
+- [Al-Qaeda](entities/AlQaeda.md) — Transnational jihadist organization using symbolic violence and global media to magnify political effects.
 - [The Nightingale / Tuti](entities/NightingaleTuti.md) — Qajar concubine remembered for Fath-Ali Shah's affection and mourning, with little demonstrated political influence.
 - [Piers Gaveston](entities/PiersGaveston.md) — Edward II's royal favourite whose elevation intensified aristocratic conflict regardless of unresolved sexual history.
 - [Nell Gwyn](entities/NellGwyn.md) — Restoration actress and popular Protestant royal mistress whose sons entered aristocratic life.
@@ -3735,7 +3738,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anatoly Sobchak](entities/AnatolySobchak.md) — St. Petersburg mayor and constitutional contributor who served as Vladimir Putin's professor, patron, and political superior.
 - [Boris Yeltsin](entities/BorisYeltsin.md) — Post-Soviet Russian president linking rapid market transition, executive concentration, oligarchic power, Chechen war, and Putin's succession.
 - [Yegor Gaidar](entities/YegorGaidar.md) — Russian reformer associated with rapid price liberalization and the social and political backlash to shock therapy.
-- [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian and Rest Is History co-host interpreting Putin through post-Soviet instability, legitimacy, grievance, and war-exit constraints.
+- [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian interpreting authoritarian legitimacy and 9/11 through reaction, contingency, nationalism, visual memory, and unintended consequence.
 - [Peter Pomerantsev](entities/PeterPomerantsev.md) — Author whose work supplies the episode's framework for managed media, staged opposition, and destabilized political reality.
 - [Ferdinand Maximilian](entities/FerdinandMaximilian.md) — Liberal Habsburg archduke whose foreign-backed Mexican throne ended at Queretaro in 1867.
 - [Benito Juarez](entities/BenitoJuarez.md) — Liberal Mexican president who preserved republican resistance and defeated the Second Mexican Empire.
@@ -3770,7 +3773,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Francis Young](entities/FrancisYoung.md) — Historian distinguishing occult legitimation, advice, propaganda, decision failure, and security response in British politics.
 - [Merlin](entities/Merlin.md) — Legendary British prophet and royal adviser whose political afterlife shaped rebellion, kingship, and later learned self-fashioning.
 - [Helen Duncan](entities/HelenDuncan.md) — Wartime medium whose seances became a possible information-leakage and public-order concern.
-- [Tom Holland](entities/TomHolland.md) — Historian and podcast host interpreting Roman crucifixion, historical-Jesus evidence, and Christianity's moral inversion of the cross.
+- [Tom Holland](entities/TomHolland.md) — Historian interpreting ancient moral change, modern propaganda, rival universalism, and the reputational consequences of war.
 - [Henry Tricks](entities/HenryTricks.md) — Technology editor framing smart glasses through bystander suspicion, misuse, phone dependence, and their possible role as AI-agent interfaces.
 - [Simon Garfield](entities/SimonGarfield.md) — Author of The Pen, used by the episode to connect writing instruments, material constraints, mass production, and cultural status.
 - [Judean Revolt, 66-73 CE](entities/JudeanRevolt66To73.md) — Divided provincial rebellion whose defeat destroyed Jerusalem's Temple and acquired an exceptional religious and political afterlife.
@@ -9593,7 +9596,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Juan Pablo Gospino-Gomez](entities/JuanPabloGospinoGomez.md) — Argentina worker whose multiple jobs and repeated raises show inflation's labor-market routines.
 - [Neo Tango](entities/NeoTango.md) — Argentina tango shoe store used to show imported-cost pressure, multi-currency cash sales, and repeated menu costs.
 - [Muslim Brotherhood](entities/MuslimBrotherhood.md) — Political and social movement whose post-Arab Spring weakness anchors the episode's political-Islam segment.
-- [Sayyid Qutb / Sayed Qutb](entities/SayyidQutb.md) — Ideological reference point used by the episode to explain the Brotherhood's dignity, Islamic-values, and social-organization frame.
+- [Sayyid Qutb / Sayed Qutb](entities/SayyidQutb.md) — Islamist thinker represented through Brotherhood dignity politics, universal Islamic renewal, and later jihadist intellectual lineage.
 - [Mohamed Morsi](entities/MohamedMorsi.md) — Brotherhood-linked Egyptian president whose election and overthrow mark the source's clearest rise-and-reversal case.
 - [Abdel Fattah al-Sisi](entities/AbdelFattahAlSisi.md) — Egyptian coup leader presented as the strongest example of authoritarian backlash against the Brotherhood.
 - [Matt Ashby](entities/MattAshby.md) — UCL researcher whose city-crime dataset grounds the episode's Europe-America crime comparison.
@@ -14859,7 +14862,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bill Clinton](entities/BillClinton.md) — Post-presidency speech-income example used to explain political identity premium.
 - [Hillary Clinton](entities/HillaryClinton.md) — High-fee speech and campaign-controversy example in EP77's political identity premium comparison.
 - [Barack Obama](entities/BarackObama.md) — U.S. political figure used both as an America-at-250 hope/backlash marker and as a cleaner post-office political-identity-premium case.
-- [George W. Bush](entities/GeorgeWBush.md) — U.S. president represented through political-family business, constitutional incapacity procedure, evangelical language, and post-9/11 pluralism.
+- [George W. Bush](entities/GeorgeWBush.md) — U.S. president represented through business networks, constitutional procedure, religious pluralism, universal mission, and war-on-terror overreach.
 - [Shopify](entities/Shopify.md) — E-commerce platform that grew into merchant infrastructure and is later cited as an early AI-assistant commerce integration partner.
 - [Tobias Lütke](entities/TobiasLutke.md) — Shopify co-founder and CEO whose path runs from German software apprenticeship and Snowdevil's Ruby storefront to venture-scale leadership and IPO.
 - [Scott Lake](entities/ScottLake.md) — Snowdevil and early Shopify co-founder who handled business/vendor work, named Shopify, and held the early CEO role before leaving.
@@ -15660,6 +15663,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matthew Johnson](entities/MatthewJohnson.md) — Psychedelic researcher connecting differentiated pharmacology to clinical protocols, evidence calibration, safety, and regulation.
 
 ## Concepts
+- [Terror as Global Media Spectacle](concepts/TerrorAsGlobalMediaSpectacle.md) — Violence designed for worldwide visual circulation, symbolic amplification, durable memory, and political reaction.
+- [Rival Universalist Projects](concepts/RivalUniversalistProjects.md) — Opposing global missions that compete to define a future for humanity while differing radically in methods and legitimacy.
+- [War on Terror Overreach](concepts/WarOnTerrorOverreach.md) — Expansion from security response into wars and exceptional methods that undermine law, legitimacy, and strategic power.
 - [Attentional Blink Training](concepts/AttentionalBlinkTraining.md) — Task-specific use of narrow, broad, and inward attention practice to reduce rapid successive-target misses, with durability and ADHD-transfer limits.
 - [Intimate Access as Informal Power](concepts/IntimateAccessInformalPower.md) — Influence through personal proximity, trust, communication, sexuality, celebrity, or interpretation rather than formal office.
 - [Care Relationship Labor And Boundaries / 照护关系的劳动与边界](concepts/CareRelationshipLaborAndBoundaries.md) — Care as practical work, emotional labor, dignity, equality, dependency, and sustainable limits for both sides.
@@ -15795,7 +15801,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Imperial Self-Denial](concepts/AmericanImperialSelfDenial.md) — Gap between American conquest and overseas rule and a recurring national self-image opposed to empire.
 - [American Religious Persistence](concepts/AmericanReligiousPersistence.md) — Institutional account of how disestablishment and religious competition helped public faith persist alongside modernization.
 - [Judeo-Christian National Identity](concepts/JudeoChristianNationalIdentity.md) — Wartime and Cold War coalition grouping Protestants, Catholics, and Jews inside a shared American religious story.
-- [Religious Moral Framing of U.S. Foreign Policy](concepts/ReligiousMoralFramingOfUSForeignPolicy.md) — Recurrent use of mission, uplift, humanitarianism, good and evil, religious freedom, pluralism, and crusade in American international politics.
+- [Religious Moral Framing of U.S. Foreign Policy](concepts/ReligiousMoralFramingOfUSForeignPolicy.md) — Mission, uplift, good and evil, religious freedom, and pluralism as motives, restraints, and sources of reputational risk in American power.
 - [Clinical Hypnosis](concepts/ClinicalHypnosis.md) — Voluntary focused-attention intervention using bodily regulation, imagery, and suggestion for defined clinical goals.
 - [Hypnotizability](concepts/Hypnotizability.md) — Graded individual capacity for hypnotic experience, distinguished from practice skill and treatment outcome.
 - [Ukrainian National Identity](concepts/UkrainianNationalIdentity.md) — Historically changing identity formed through cultural practice, regional diversity, political organization, trauma, and democratic sovereignty rather than Soviet invention.

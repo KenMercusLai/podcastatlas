@@ -8282,6 +8282,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/almurray/"
     },
+    "AlQaeda": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8208243510 [GLT8208243510].md",
+          "key": "95-9-11-glt8208243510",
+          "show": "The Rest Is History",
+          "title": "95. 9/11",
+          "url": "/wiki/sources/95-9-11-glt8208243510/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/alqaeda/"
+    },
     "AlanCastel": {
       "episode_count": 1,
       "show_count": 1,
@@ -53078,9 +53094,9 @@
       "url": "/wiki/entities/dominicmiarten/"
     },
     "DominicSandbrook": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4575290976 [GLT4575290976].md",
@@ -53088,9 +53104,16 @@
           "show": "The Rest Is History",
           "title": "162. Putin's Russia",
           "url": "/wiki/sources/162-putins-russia-glt4575290976/"
+        },
+        {
+          "episode_file": "GLT8208243510 [GLT8208243510].md",
+          "key": "95-9-11-glt8208243510",
+          "show": "The Rest Is History",
+          "title": "95. 9/11",
+          "url": "/wiki/sources/95-9-11-glt8208243510/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/dominicsandbrook/"
     },
     "DominosPizza": {
@@ -79967,9 +79990,9 @@
       "url": "/wiki/entities/georgevi/"
     },
     "GeorgeWBush": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "173.弹劾：如何罢免一位总统 [963141809].md",
@@ -79991,9 +80014,16 @@
           "show": "The Rest Is History",
           "title": "153. God and the American Empire",
           "url": "/wiki/sources/153-god-and-the-american-empire-glt8752091834/"
+        },
+        {
+          "episode_file": "GLT8208243510 [GLT8208243510].md",
+          "key": "95-9-11-glt8208243510",
+          "show": "The Rest Is History",
+          "title": "95. 9/11",
+          "url": "/wiki/sources/95-9-11-glt8208243510/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/georgewbush/"
     },
     "GeorgeWallace": {
@@ -147803,6 +147833,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/orthokeratologymyopiacontrol/"
     },
+    "OsamaBinLaden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8208243510 [GLT8208243510].md",
+          "key": "95-9-11-glt8208243510",
+          "show": "The Rest Is History",
+          "title": "95. 9/11",
+          "url": "/wiki/sources/95-9-11-glt8208243510/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/osamabinladen/"
+    },
     "OscarWilde": {
       "episode_count": 4,
       "show_count": 2,
@@ -166640,9 +166686,9 @@
       "url": "/wiki/concepts/religiousexperiencemedicalizationboundary/"
     },
     "ReligiousMoralFramingOfUSForeignPolicy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8752091834 [GLT8752091834].md",
@@ -166657,9 +166703,16 @@
           "show": "The Rest Is History",
           "title": "152. American Crusades",
           "url": "/wiki/sources/152-american-crusades-glt4400059090/"
+        },
+        {
+          "episode_file": "GLT8208243510 [GLT8208243510].md",
+          "key": "95-9-11-glt8208243510",
+          "show": "The Rest Is History",
+          "title": "95. 9/11",
+          "url": "/wiki/sources/95-9-11-glt8208243510/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/religiousmoralframingofusforeignpolicy/"
     },
     "RemedialEducationTargeting": {
@@ -170020,6 +170073,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/ritualizedsocialboundary/"
+    },
+    "RivalUniversalistProjects": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8208243510 [GLT8208243510].md",
+          "key": "95-9-11-glt8208243510",
+          "show": "The Rest Is History",
+          "title": "95. 9/11",
+          "url": "/wiki/sources/95-9-11-glt8208243510/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/rivaluniversalistprojects/"
     },
     "RiverAsLivingEntity": {
       "episode_count": 1,
@@ -174777,6 +174846,29 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/saxonyanhalt/"
+    },
+    "SayyidQutb": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Spring, then fall： a weakened Muslim Brotherhood [6a7aef1b616564bf00d9b354].md",
+          "key": "spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354",
+          "show": "Economist Podcasts",
+          "title": "Spring, then fall: a weakened Muslim Brotherhood",
+          "url": "/wiki/sources/spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354/"
+        },
+        {
+          "episode_file": "GLT8208243510 [GLT8208243510].md",
+          "key": "95-9-11-glt8208243510",
+          "show": "The Rest Is History",
+          "title": "95. 9/11",
+          "url": "/wiki/sources/95-9-11-glt8208243510/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/sayyidqutb/"
     },
     "ScaleAI": {
       "episode_count": 4,
@@ -193482,6 +193574,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/territorialslaveryexpansion/"
     },
+    "TerrorAsGlobalMediaSpectacle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8208243510 [GLT8208243510].md",
+          "key": "95-9-11-glt8208243510",
+          "show": "The Rest Is History",
+          "title": "95. 9/11",
+          "url": "/wiki/sources/95-9-11-glt8208243510/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/terrorasglobalmediaspectacle/"
+    },
     "TerrorRuleBackfire": {
       "episode_count": 3,
       "show_count": 1,
@@ -197283,9 +197391,9 @@
       "url": "/wiki/entities/tomhanks/"
     },
     "TomHolland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5186420966 [GLT5186420966].md",
@@ -197300,9 +197408,16 @@
           "show": "The Rest Is History",
           "title": "162. Putin's Russia",
           "url": "/wiki/sources/162-putins-russia-glt4575290976/"
+        },
+        {
+          "episode_file": "GLT8208243510 [GLT8208243510].md",
+          "key": "95-9-11-glt8208243510",
+          "show": "The Rest Is History",
+          "title": "95. 9/11",
+          "url": "/wiki/sources/95-9-11-glt8208243510/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/tomholland/"
     },
     "TomNuttall": {
@@ -207458,6 +207573,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/warofthegoldenstool/"
+    },
+    "WarOnTerrorOverreach": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8208243510 [GLT8208243510].md",
+          "key": "95-9-11-glt8208243510",
+          "show": "The Rest Is History",
+          "title": "95. 9/11",
+          "url": "/wiki/sources/95-9-11-glt8208243510/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/waronterroroverreach/"
     },
     "WarrenCommission": {
       "episode_count": 3,

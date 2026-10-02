@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 12059
+wiki_total_pages: 12061
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "OrvilleNelson"
     title: "Orville Nelson"
     url: "/wiki/entities/orvillenelson/"
+  - key: "OsamaBinLaden"
+    title: "Osama bin Laden"
+    url: "/wiki/entities/osamabinladen/"
   - key: "OscarWilde"
     title: "Oscar Wilde / 王尔德"
     url: "/wiki/entities/oscarwilde/"

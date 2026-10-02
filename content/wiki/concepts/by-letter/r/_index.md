@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9356
+wiki_total_pages: 9359
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "RitualizedSocialBoundary"
     title: "Ritualized Social Boundary / 仪式化社会边界"
     url: "/wiki/concepts/ritualizedsocialboundary/"
+  - key: "RivalUniversalistProjects"
+    title: "Rival Universalist Projects"
+    url: "/wiki/concepts/rivaluniversalistprojects/"
   - key: "RiverAsLivingEntity"
     title: "River As Living Entity / 河流作为生命"
     url: "/wiki/concepts/riveraslivingentity/"

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7dde7eaae3c6f328bcf2828bece9fa5c46f700d145542c9dad39c7e60954c10d",
       "dd672fa1717539f5dab38c305a59d9e88f2c0107b86b402b31375065d636b313",
       "f675edf892ee52d8341ee167bbbc6839c9f97c9569f2233bea485e51c366392c",
       "6e136b358cff61003fb4df15f0b3f39f2bf43b0d64fa941310906c084be8a2d8",
@@ -778,11 +779,38 @@
       "9997fb9b346fa7223de58d73e84f180b8864b249000cade39b9408903896c2cc",
       "16601a21e79111590dec9aaa39aaf37cda533c18f62b03ad841cc2b74da82008"
     ],
-    "paragraph_count": 776
+    "paragraph_count": 777
   },
-  "overview_commit": "949094889d3b094f7b7adf7e87941403ddcdd307",
-  "overview_digest": "68cb073394b997b75635f390a256d78104bd3f640fafd93e7c4b61ed3fdf0857",
+  "overview_commit": "7bdff214edffb079b7c6e585f636f3844b020e2a",
+  "overview_digest": "c0e6151bf2cb060530c8227dba14d59127a3e26596a378411cfc13f6ca37c82f",
   "paragraphs": [
+    {
+      "id": "7dde7eaae3c6f328bcf2828bece9fa5c46f700d145542c9dad39c7e60954c10d",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[95-9-11-glt8208243510|95. 9/11]], a [[TheRestIsHistory|The Rest Is History]] episode interpreting the September 11 attacks through [[TerrorAsGlobalMediaSpectacle]], [[RivalUniversalistProjects]], and [[WarOnTerrorOverreach]]. It adds [[OsamaBinLaden|Osama bin Laden]] and [[AlQaeda|al-Qaeda]], extends [[GeorgeWBush|George W. Bush]], [[SayyidQutb|Sayyid Qutb]], [[TomHolland]], [[DominicSandbrook]], and [[ReligiousMoralFramingOfUSForeignPolicy]], and connects the attack to the durable [[Post911CounterterrorismArchitecture]]. Its core synthesis is that 9/11's historical force came not only from mass murder but from globally designed imagery and the reactions it provoked: Afghanistan, Iraq, torture, legal exceptionalism, and reputational damage. No settled contradiction is recorded; the rival-universalist comparison, psychological readings, Afghanistan-Iraq counterfactual, and claim that [[China]] benefited from American overreach remain episode-attributed or interpretive.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 4
+      },
+      "wikilinks": [
+        "95-9-11-glt8208243510",
+        "AlQaeda",
+        "China",
+        "DominicSandbrook",
+        "GeorgeWBush",
+        "OsamaBinLaden",
+        "Post911CounterterrorismArchitecture",
+        "ReligiousMoralFramingOfUSForeignPolicy",
+        "RivalUniversalistProjects",
+        "SayyidQutb",
+        "TerrorAsGlobalMediaSpectacle",
+        "TheRestIsHistory",
+        "TomHolland",
+        "WarOnTerrorOverreach"
+      ]
+    },
     {
       "id": "dd672fa1717539f5dab38c305a59d9e88f2c0107b86b402b31375065d636b313",
       "primary_topic": "psychology-and-personal-development",

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3035
+topic_total_pages: 3036
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2884,6 +2884,9 @@ topic_concepts:
   - key: "TenderOfferMediaCampaign"
     title: "Tender Offer Media Campaign / 收购要约媒体战"
     url: "/wiki/concepts/tenderoffermediacampaign/"
+  - key: "TerrorAsGlobalMediaSpectacle"
+    title: "Terror as Global Media Spectacle"
+    url: "/wiki/concepts/terrorasglobalmediaspectacle/"
   - key: "TextbookExcerptFlattening"
     title: "Textbook Excerpt Flattening / 教材删节造成的文本扁平化"
     url: "/wiki/concepts/textbookexcerptflattening/"

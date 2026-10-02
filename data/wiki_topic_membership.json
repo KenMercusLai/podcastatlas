@@ -5970,6 +5970,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "95-9-11-glt8208243510": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514": [
     {
       "key": "culture",
@@ -78812,6 +78819,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "TerrorAsGlobalMediaSpectacle": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "TerrorRuleBackfire": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12059
+wiki_total_pages: 12061
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "AlMansurCordoba"
     title: "Al-Mansur / Almanzor (Cordoba)"
     url: "/wiki/entities/almansurcordoba/"
+  - key: "AlQaeda"
+    title: "Al-Qaeda"
+    url: "/wiki/entities/alqaeda/"
   - key: "Alabama"
     title: "Alabama"
     url: "/wiki/entities/alabama/"

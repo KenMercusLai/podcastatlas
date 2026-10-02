@@ -27973,3 +27973,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 95. 9/11
+
+Added the source and integrated its account of global media spectacle, rival universalist projects, war-on-terror overreach, and the reputational consequences of the post-9/11 response.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
