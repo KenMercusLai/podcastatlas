@@ -27538,3 +27538,11 @@ Added source `scim4448895120-scim4448895120`; created `DavidBerson`, `Melanopsin
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 130. Superheroes
+
+Added source `130-superheroes-glt5186846131`; created `Superman`, `Batman`, `WonderWoman`, `SpiderMan`, `BlackPanther`, and `SuperheroCulturalHistory`; and resynthesized `SuperheroTallTaleContinuity` and `Watchmen` from their complete preserved evidence inventories. Core synthesis: superheroes are not explained by timeless myth alone but by cheap comic production, Depression and wartime politics, immigrant identity, crime anxiety, gender theory, Space Age science, youth culture, race politics, vigilantism, and later distrust of uncomplicated power. No settled contradiction was adopted. Creator motives, genre ancestry, political orientation, symbolic imagery, Black Panther naming influence, and blockbuster-culture explanations remain interpretive or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,441-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 11951
+wiki_total_pages: 11956
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1208,6 +1208,9 @@ wiki_pages:
   - key: "SphereAbacus"
     title: "Sphere Abacus"
     url: "/wiki/entities/sphereabacus/"
+  - key: "SpiderMan"
+    title: "Spider-Man"
+    url: "/wiki/entities/spiderman/"
   - key: "SpinMaster"
     title: "Spin Master"
     url: "/wiki/entities/spinmaster/"
@@ -1712,6 +1715,9 @@ wiki_pages:
   - key: "SuperDry"
     title: "Super Dry"
     url: "/wiki/entities/superdry/"
+  - key: "Superman"
+    title: "Superman"
+    url: "/wiki/entities/superman/"
   - key: "SuperMonkey"
     title: "SuperMonkey / 超级猩猩"
     url: "/wiki/entities/supermonkey/"

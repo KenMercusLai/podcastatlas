@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 11951
+wiki_total_pages: 11956
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "WNBA"
     title: "Women's National Basketball Association"
     url: "/wiki/entities/wnba/"
+  - key: "WonderWoman"
+    title: "Wonder Woman"
+    url: "/wiki/entities/wonderwoman/"
   - key: "WoodrowWilson"
     title: "Woodrow Wilson"
     url: "/wiki/entities/woodrowwilson/"

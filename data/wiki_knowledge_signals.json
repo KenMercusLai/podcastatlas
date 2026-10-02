@@ -19304,6 +19304,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/bath/"
     },
+    "Batman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5186846131 [GLT5186846131].md",
+          "key": "130-superheroes-glt5186846131",
+          "show": "The Rest Is History",
+          "title": "130. Superheroes",
+          "url": "/wiki/sources/130-superheroes-glt5186846131/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/batman/"
+    },
     "BatterySupplierDiversification": {
       "episode_count": 1,
       "show_count": 1,
@@ -22457,6 +22473,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/blackkettle/"
+    },
+    "BlackPanther": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5186846131 [GLT5186846131].md",
+          "key": "130-superheroes-glt5186846131",
+          "show": "The Rest Is History",
+          "title": "130. Superheroes",
+          "url": "/wiki/sources/130-superheroes-glt5186846131/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/blackpanther/"
     },
     "BlackTruffleMassMarketization": {
       "episode_count": 1,
@@ -180655,6 +180687,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/spencerpratt/"
     },
+    "SpiderMan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5186846131 [GLT5186846131].md",
+          "key": "130-superheroes-glt5186846131",
+          "show": "The Rest Is History",
+          "title": "130. Superheroes",
+          "url": "/wiki/sources/130-superheroes-glt5186846131/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/spiderman/"
+    },
     "SpineComfortAdjunctBoundary": {
       "episode_count": 3,
       "show_count": 1,
@@ -185609,6 +185657,45 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/superslowjogging/"
     },
+    "SuperheroCulturalHistory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5186846131 [GLT5186846131].md",
+          "key": "130-superheroes-glt5186846131",
+          "show": "The Rest Is History",
+          "title": "130. Superheroes",
+          "url": "/wiki/sources/130-superheroes-glt5186846131/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/superheroculturalhistory/"
+    },
+    "SuperheroTallTaleContinuity": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "157.吹牛大王历险记：叔本华、扒马褂和超级英雄 [924722703].md",
+          "key": "157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703",
+          "show": "蜜獾吃书",
+          "title": "157.吹牛大王历险记：叔本华、扒马褂和超级英雄",
+          "url": "/wiki/sources/157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703/"
+        },
+        {
+          "episode_file": "GLT5186846131 [GLT5186846131].md",
+          "key": "130-superheroes-glt5186846131",
+          "show": "The Rest Is History",
+          "title": "130. Superheroes",
+          "url": "/wiki/sources/130-superheroes-glt5186846131/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/superherotalltalecontinuity/"
+    },
     "SuperiorCreditConflictRisk": {
       "episode_count": 3,
       "show_count": 1,
@@ -185638,6 +185725,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/superiorcreditconflictrisk/"
+    },
+    "Superman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5186846131 [GLT5186846131].md",
+          "key": "130-superheroes-glt5186846131",
+          "show": "The Rest Is History",
+          "title": "130. Superheroes",
+          "url": "/wiki/sources/130-superheroes-glt5186846131/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/superman/"
     },
     "SupervisedFineTuning": {
       "episode_count": 1,
@@ -203111,6 +203214,29 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/wattyler/"
     },
+    "Watchmen": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "01.麦田守望者：20世纪的美国贾宝玉 [523554422].md",
+          "key": "01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422",
+          "show": "蜜獾吃书",
+          "title": "01.麦田守望者：20世纪的美国贾宝玉",
+          "url": "/wiki/sources/01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422/"
+        },
+        {
+          "episode_file": "GLT5186846131 [GLT5186846131].md",
+          "key": "130-superheroes-glt5186846131",
+          "show": "The Rest Is History",
+          "title": "130. Superheroes",
+          "url": "/wiki/sources/130-superheroes-glt5186846131/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/watchmen/"
+    },
     "WaterSystemCyberResilience": {
       "episode_count": 2,
       "show_count": 2,
@@ -206144,6 +206270,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/womenshealthdiagnosticgap/"
+    },
+    "WonderWoman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5186846131 [GLT5186846131].md",
+          "key": "130-superheroes-glt5186846131",
+          "show": "The Rest Is History",
+          "title": "130. Superheroes",
+          "url": "/wiki/sources/130-superheroes-glt5186846131/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/wonderwoman/"
     },
     "WongJing": {
       "episode_count": 1,

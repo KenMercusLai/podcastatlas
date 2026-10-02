@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9265
+wiki_total_pages: 9266
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2216,6 +2216,9 @@ wiki_pages:
   - key: "SupercriticalFoamMidsole"
     title: "Supercritical Foam Midsole"
     url: "/wiki/concepts/supercriticalfoammidsole/"
+  - key: "SuperheroCulturalHistory"
+    title: "Superhero Cultural History"
+    url: "/wiki/concepts/superheroculturalhistory/"
   - key: "SuperheroTallTaleContinuity"
     title: "Superhero Tall-Tale Continuity"
     url: "/wiki/concepts/superherotalltalecontinuity/"

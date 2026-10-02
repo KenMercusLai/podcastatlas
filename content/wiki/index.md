@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [130. Superheroes](sources/130-superheroes-glt5186846131.md) — The Rest Is History episode on superhero comics as modern American mass culture shaped by printing, immigration, crime anxiety, science, social politics, vigilantism, and changing confidence in heroic power.
 - [Understanding Your Brain's Logic & Function | Dr. David Berson](sources/scim4448895120-scim4448895120.md) — Huberman Lab interview on melanopsin and circadian timing, visual-vestibular control, cerebellar correction, action hierarchy, distributed representation, plasticity, and connectomics.
 - [131. Burgundy: Europe's Forgotten Superpower](sources/131-burgundy-europes-forgotten-superpower-glt6941072856.md) — The Rest Is History with Bart van Loo on Burgundian state formation, Flemish wealth, French civil war, court spectacle, dynastic collapse, and Habsburg inheritance.
 - [132. A Christmas Carol](sources/132-a-christmas-carol-glt9074696790.md) — The Rest Is History walk through Dickensian London on horror, loneliness, festive warmth, literary geography, personal redemption, and structural inequality.
@@ -3501,6 +3502,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [139. The Princes in the Tower Part 2](sources/139-the-princes-in-the-tower-part-2-glt4685691538.md) — The Rest Is History episode on Edward V's seizure, Richard III's escalating usurpation, the princes' disappearance, probable murder, alternative suspects, remains, and survival theories.
 
 ## Entities
+- [Superman](entities/Superman.md) — Early canonical superhero joining Depression reform, immigrant dual identity, wartime expansion, and American national symbolism.
+- [Batman](entities/Batman.md) — Human masked vigilante joining detective precursors, trauma, urban crime anxiety, wealth, and contested private justice.
+- [Wonder Woman](entities/WonderWoman.md) — Amazon superhero joining classical imagery to Marston's feminism, psychology, and power-and-submission theories.
+- [Spider-Man](entities/SpiderMan.md) — Marvel teenager who centers adolescence, guilt, responsibility, science, and everyday social difficulty.
+- [Black Panther](entities/BlackPanther.md) — Black superhero whose 1966 emergence and later film connect racial representation, political symbolism, and blockbuster culture.
 - [David Berson](entities/DavidBerson.md) — Brown University neuroscientist explaining retinal specialization, sensory integration, layered action control, cortical representation, and connectomic hypothesis generation.
 - [Burgundy](entities/Burgundy.md) — Late-medieval composite state joining a French duchy to the Low Countries before military defeat and dynastic partition.
 - [Philip the Bold](entities/PhilipTheBold.md) — Valois duke whose Flemish marriage established Burgundy's durable north-south economic and dynastic base.
@@ -15493,6 +15499,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 
 ## Concepts
+- [Superhero Cultural History](concepts/SuperheroCulturalHistory.md) — Historically specific account of superhero form as a product of media technology, American identity, social anxiety, vigilantism, and political change.
 - [Melanopsin Circadian Photoreception](concepts/MelanopsinCircadianPhotoreception.md) — Non-image-forming retinal brightness pathway linking intrinsically photosensitive ganglion cells to daily circadian coordination.
 - [Visual-Vestibular Stabilization](concepts/VisualVestibularStabilization.md) — Gaze-control system joining inner-ear motion signals, compensatory eye movement, cerebellar correction, and sensory-conflict limits.
 - [Reflex-Deliberation Control Hierarchy](concepts/ReflexDeliberationControlHierarchy.md) — Layered control account joining rapid orientation, basal-ganglia action gating, cortical override, and trained automaticity.

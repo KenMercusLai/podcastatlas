@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1398
+topic_total_pages: 1399
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3251,6 +3251,9 @@ topic_entities:
   - key: "WinthropKellogg"
     title: "Winthrop Kellogg / 凯洛格"
     url: "/wiki/entities/winthropkellogg/"
+  - key: "WonderWoman"
+    title: "Wonder Woman"
+    url: "/wiki/entities/wonderwoman/"
   - key: "WoodsHoleOceanographicInstitution"
     title: "Woods Hole Oceanographic Institution"
     url: "/wiki/entities/woodsholeoceanographicinstitution/"

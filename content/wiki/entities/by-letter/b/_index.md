@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 11951
+wiki_total_pages: 11956
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "Bath"
     title: "Bath"
     url: "/wiki/entities/bath/"
+  - key: "Batman"
+    title: "Batman"
+    url: "/wiki/entities/batman/"
   - key: "BattleOfActium"
     title: "Battle of Actium"
     url: "/wiki/entities/battleofactium/"
@@ -710,6 +713,9 @@ wiki_pages:
   - key: "BlackLivesMatter"
     title: "Black Lives Matter"
     url: "/wiki/entities/blacklivesmatter/"
+  - key: "BlackPanther"
+    title: "Black Panther"
+    url: "/wiki/entities/blackpanther/"
   - key: "BlackBerry"
     title: "BlackBerry"
     url: "/wiki/entities/blackberry/"
