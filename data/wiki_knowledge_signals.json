@@ -4827,9 +4827,9 @@
       "url": "/wiki/concepts/abolitionistpublicwitness/"
     },
     "AboriginalAustralians": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6950185057 [GLT6950185057].md",
@@ -4837,9 +4837,16 @@
           "show": "The Rest Is History",
           "title": "381. Captain Cook: To the Ends of the Earth (Part 2)",
           "url": "/wiki/sources/381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057/"
+        },
+        {
+          "episode_file": "GLT2957294549 [GLT2957294549].md",
+          "key": "121-australia-before-cook-glt2957294549",
+          "show": "The Rest Is History",
+          "title": "121. Australia Before Cook",
+          "url": "/wiki/sources/121-australia-before-cook-glt2957294549/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/aboriginalaustralians/"
     },
     "AbrahamBeame": {
@@ -16688,9 +16695,9 @@
       "url": "/wiki/concepts/austerity/"
     },
     "Australia": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 5,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
@@ -16761,9 +16768,16 @@
           "show": "The Rest Is History",
           "title": "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)",
           "url": "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+        },
+        {
+          "episode_file": "GLT2957294549 [GLT2957294549].md",
+          "key": "121-australia-before-cook-glt2957294549",
+          "show": "The Rest Is History",
+          "title": "121. Australia Before Cook",
+          "url": "/wiki/sources/121-australia-before-cook-glt2957294549/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/australia/"
     },
     "AustralianConstitutionalCrisis1975": {
@@ -16781,6 +16795,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/australianconstitutionalcrisis1975/"
+    },
+    "AustralianDeepTimeAndOralContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2957294549 [GLT2957294549].md",
+          "key": "121-australia-before-cook-glt2957294549",
+          "show": "The Rest Is History",
+          "title": "121. Australia Before Cook",
+          "url": "/wiki/sources/121-australia-before-cook-glt2957294549/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/australiandeeptimeandoralcontinuity/"
     },
     "AustralianHealthcareAccessTriage": {
       "episode_count": 1,
@@ -47332,6 +47362,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/davidhume/"
+    },
+    "DavidHunt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2957294549 [GLT2957294549].md",
+          "key": "121-australia-before-cook-glt2957294549",
+          "show": "The Rest Is History",
+          "title": "121. Australia Before Cook",
+          "url": "/wiki/sources/121-australia-before-cook-glt2957294549/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/davidhunt/"
     },
     "DavidHyam": {
       "episode_count": 1,
@@ -103030,9 +103076,9 @@
       "url": "/wiki/entities/jamesconnolly/"
     },
     "JamesCook": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6950185057 [GLT6950185057].md",
@@ -103047,9 +103093,16 @@
           "show": "The Rest Is History",
           "title": "380. Captain Cook: History’s Greatest Explorer (Part 1)",
           "url": "/wiki/sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435/"
+        },
+        {
+          "episode_file": "GLT2957294549 [GLT2957294549].md",
+          "key": "121-australia-before-cook-glt2957294549",
+          "show": "The Rest Is History",
+          "title": "121. Australia Before Cook",
+          "url": "/wiki/sources/121-australia-before-cook-glt2957294549/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/jamescook/"
     },
     "JamesEarlRay": {
@@ -155622,6 +155675,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/praiseaspoliticalmemory/"
     },
+    "PreBritishAustralianContact": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2957294549 [GLT2957294549].md",
+          "key": "121-australia-before-cook-glt2957294549",
+          "show": "The Rest Is History",
+          "title": "121. Australia Before Cook",
+          "url": "/wiki/sources/121-australia-before-cook-glt2957294549/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/prebritishaustraliancontact/"
+    },
     "PreCallQualification": {
       "episode_count": 1,
       "show_count": 1,
@@ -172184,9 +172253,9 @@
       "url": "/wiki/concepts/sciencetrustpoliticization/"
     },
     "ScientificExplorationImperialClaim": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6950185057 [GLT6950185057].md",
@@ -172201,9 +172270,16 @@
           "show": "The Rest Is History",
           "title": "380. Captain Cook: History’s Greatest Explorer (Part 1)",
           "url": "/wiki/sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435/"
+        },
+        {
+          "episode_file": "GLT2957294549 [GLT2957294549].md",
+          "key": "121-australia-before-cook-glt2957294549",
+          "show": "The Rest Is History",
+          "title": "121. Australia Before Cook",
+          "url": "/wiki/sources/121-australia-before-cook-glt2957294549/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/scientificexplorationimperialclaim/"
     },
     "ScientificPrecariat": {

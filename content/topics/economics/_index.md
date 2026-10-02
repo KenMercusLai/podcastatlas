@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2162
+topic_total_pages: 2163
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2347,6 +2347,9 @@ topic_concepts:
   - key: "PowerScarcityInfrastructureInvesting"
     title: "Power Scarcity Infrastructure Investing"
     url: "/wiki/concepts/powerscarcityinfrastructureinvesting/"
+  - key: "PreBritishAustralianContact"
+    title: "Pre-British Australian Contact"
+    url: "/wiki/concepts/prebritishaustraliancontact/"
   - key: "PrecisionManufacturingAsStrategy"
     title: "Precision Manufacturing As Strategy"
     url: "/wiki/concepts/precisionmanufacturingasstrategy/"

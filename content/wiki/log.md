@@ -27641,3 +27641,15 @@ Added source `122-athelstan-englands-greatest-monarch-glt8211065813`; created `E
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 121. Australia Before Cook
+
+Added source `121-australia-before-cook-glt2957294549`; created `DavidHunt`, `AustralianDeepTimeAndOralContinuity`, and `PreBritishAustralianContact`; and resynthesized `JamesCook`, `AboriginalAustralians`, `Australia`, and `ScientificExplorationImperialClaim` from their complete preserved evidence inventories. Core synthesis: Australian history begins with tens of thousands of years of diverse Indigenous life, oral law, landscape knowledge, and exchange rather than Cook's arrival; Makassan trade and documented Dutch and Spanish voyages further separate Cook's navigational achievement from an absolute discovery claim; and British settlement became attractive partly through post-American-Revolution penal logistics rather than historical inevitability. No settled contradiction was adopted. Migration dates and waves, megafauna causation, ancient oral-memory interpretations, artifact claims, early-contact timing, and colonial counterfactuals remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,454-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide scanner retains 19 unrelated pre-existing broken wikilinks, and its optional semantic pass remains unavailable without a provider-qualified model.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

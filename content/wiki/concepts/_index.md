@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9287
+wiki_total_pages: 9289
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2558,6 +2558,9 @@ wiki_pages:
   - key: "AustralianConstitutionalCrisis1975"
     title: "Australian Constitutional Crisis of 1975"
     url: "/wiki/concepts/australianconstitutionalcrisis1975/"
+  - key: "AustralianDeepTimeAndOralContinuity"
+    title: "Australian Deep Time and Oral Continuity"
+    url: "/wiki/concepts/australiandeeptimeandoralcontinuity/"
   - key: "AustralianHealthcareAccessTriage"
     title: "Australian Healthcare Access Triage / 澳洲医疗可及性分诊"
     url: "/wiki/concepts/australianhealthcareaccesstriage/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9287
+wiki_total_pages: 9289
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1496,6 +1496,9 @@ wiki_pages:
   - key: "PragmaticReligiousToleration"
     title: "Pragmatic Religious Toleration"
     url: "/wiki/concepts/pragmaticreligioustoleration/"
+  - key: "PreBritishAustralianContact"
+    title: "Pre-British Australian Contact"
+    url: "/wiki/concepts/prebritishaustraliancontact/"
   - key: "PreCallQualification"
     title: "Pre-Call Qualification"
     url: "/wiki/concepts/precallqualification/"

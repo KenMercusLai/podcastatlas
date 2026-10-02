@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2393
+topic_total_pages: 2395
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -88,6 +88,9 @@ topic_concepts:
   - key: "AuspiciousOmenPolitics"
     title: "Auspicious Omen Politics / 祥瑞政治"
     url: "/wiki/concepts/auspiciousomenpolitics/"
+  - key: "AustralianDeepTimeAndOralContinuity"
+    title: "Australian Deep Time and Oral Continuity"
+    url: "/wiki/concepts/australiandeeptimeandoralcontinuity/"
   - key: "AustroHungarianDualMonarchy"
     title: "Austro-Hungarian Dual Monarchy"
     url: "/wiki/concepts/austrohungariandualmonarchy/"
@@ -4842,6 +4845,9 @@ topic_sources:
   - key: "120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218"
     title: "120.蓝狐岛：伟大事业中的雄心与现实"
     url: "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"
+  - key: "121-australia-before-cook-glt2957294549"
+    title: "121. Australia Before Cook"
+    url: "/wiki/sources/121-australia-before-cook-glt2957294549/"
   - key: "122-athelstan-englands-greatest-monarch-glt8211065813"
     title: "122. Athelstan: England's Greatest Monarch"
     url: "/wiki/sources/122-athelstan-englands-greatest-monarch-glt8211065813/"

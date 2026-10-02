@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [121. Australia Before Cook](sources/121-australia-before-cook-glt2957294549.md) — The Rest Is History with David Hunt on Aboriginal deep time, oral traditions, Makassan exchange, pre-Cook contact, discovery myths, and contingent British settlement.
 - [122. Athelstan: England's Greatest Monarch](sources/122-athelstan-englands-greatest-monarch-glt8211065813.md) — The Rest Is History episode on Athelstan's Mercian formation, 927 unification, law, coinage, Christian kingship, diplomacy, Brunanburh, and specialist recovery.
 - [The Science of Gratitude & How to Build a Gratitude Practice](sources/scim2344094719-scim2344094719.md) — Huberman Lab episode distinguishing gratitude lists from sincere received or narratively witnessed gratitude and proposing a brief, source-scoped story-cue practice.
 - [123. World Cup of Kings and Queens part 1](sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015.md) — The Rest Is History tournament portraits separating monarchical effectiveness, consequence, moral cost, cultural glamour, and modern audience affection.
@@ -3514,6 +3515,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [128. Rasputin](sources/128-rasputin-glt1290733613.md) — The Rest Is History episode separating Rasputin's religious role, Romanov access, misconduct, anti-war advice, murder, and political afterlife from sexual and supernatural legend.
 
 ## Entities
+- [David Hunt](entities/DavidHunt.md) — Australian historian and broadcaster who separates Cook's navigational achievement from discovery mythology and Indigenous deep history.
 - [Edward the Elder](entities/EdwardTheElder.md) — Alfred's son and successor whose campaigns with Æthelflæd extended West Saxon-Mercian power before Athelstan's unification.
 - [Æthelflæd](entities/Aethelflaed.md) — Mercian ruler whose burhs, campaigns, sacred politics, and guardianship of Athelstan helped bridge Alfredian survival and English unification.
 - [Edward I of England](entities/EdwardIOfEngland.md) — Formidable medieval king whose military and administrative capacity coexisted with conquest, persecution, expulsion, and divisive memory.
@@ -15536,6 +15538,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Australian Deep Time and Oral Continuity](concepts/AustralianDeepTimeAndOralContinuity.md) — Archaeological, genetic, linguistic, oral, legal, and landscape evidence for Aboriginal Australian history across deep time.
+- [Pre-British Australian Contact](concepts/PreBritishAustralianContact.md) — Evidence-ranked history of Makassan exchange and European maritime contact before Cook's 1770 voyage.
 - [Battle of Brunanburh](concepts/BattleOfBrunanburh.md) — Athelstan and Edmund's 937 coalition victory defending an enlarged but still contested English kingdom.
 - [Gratitude Narrative Practice](concepts/GratitudeNarrativePractice.md) — Brief practice centered on sincere received gratitude or a resonant helping story rather than decontextualized appreciation lists.
 - [Contextual Monarchical Success](concepts/ContextualMonarchicalSuccess.md) — Role-relative comparison of rulers through political order, consequence, moral cost, historical recovery, and audience judgment.

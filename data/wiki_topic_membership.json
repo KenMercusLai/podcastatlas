@@ -345,6 +345,13 @@
       "url": "/topics/history/"
     }
   ],
+  "121-australia-before-cook-glt2957294549": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "122-athelstan-englands-greatest-monarch-glt8211065813": [
     {
       "key": "history",
@@ -13885,6 +13892,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "AustralianDeepTimeAndOralContinuity": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "AustralianMateship": [
@@ -63192,6 +63206,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PreBritishAustralianContact": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "PreCommercialSportsCommunity": [
