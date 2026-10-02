@@ -5,7 +5,8 @@ tags: [dopamine, motivation, neuroscience, behavior]
 sources:
   - leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288
   - nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635
-last_updated: 2026-10-01
+  - scim6449668176-scim6449668176
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 Dopamine peak-trough baseline is the episode's model for motivation as a changing relationship among tonic baseline dopamine, phasic peaks above that baseline, and subsequent troughs below baseline that influence future pursuit and effort.
 
 ## Current Synthesis
-Across the current sources, [[AndrewHuberman]] treats dopamine as dynamic rather than simply good or bad. Baseline dopamine supports readiness for pursuit and effort, while peaks can create motivation, wanting, pleasure, and action momentum. Large or frequently repeated peaks can be followed by troughs and, over time, reduced baseline motivation, especially when the person repeatedly chases the same high-intensity stimulus to escape the trough. The nicotine episode supplies a concrete dependence case: rapid delivery strengthens reinforcement, repeated exposure reduces the response, and absence of the expected nicotine effect can produce below-baseline craving and withdrawal. The practical synthesis is to protect baseline dopamine and treat substance withdrawal as a clinical and behavioral support problem, not a reason for compulsive restimulation.
+Across the current sources, [[AndrewHuberman]] treats dopamine as dynamic rather than simply good or bad. The earlier [[scim6449668176-scim6449668176]] episode supplies the baseline-versus-peak formulation and argues that satisfaction and later motivation depend on a peak's size relative to baseline and recent reward history. The later procrastination episode adds reward prediction, effort, and anti-stacking detail, while the nicotine episode supplies a dependence case in which rapid delivery strengthens reinforcement and the missing expected effect contributes to craving and withdrawal. The practical synthesis is to protect ordinary motivation capacity, avoid repeatedly using high-intensity stimulation to escape troughs, and treat substance withdrawal as a clinical and behavioral support problem.
 
 ## Key Claims
 - Baseline dopamine is presented as a background level that affects general motivation and readiness for effort.
@@ -32,13 +33,14 @@ Across the current sources, [[AndrewHuberman]] treats dopamine as dynamic rather
 - Practical rule: [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] says protecting baseline means not repeatedly using high-dopamine behaviors to escape troughs.
 - Tool boundary: [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] warns against stacking dopamine-raising activities, substances, and supplements.
 - Nicotine dependence case: [[nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635]] connects rapid delivery, repeated use, tolerance, below-baseline withdrawal, craving, and early relapse.
+- Earlier provenance: [[scim6449668176-scim6449668176]] introduces tonic baseline, phasic peaks, proportional post-peak drops, recent-history effects, and progressive narrowing of pleasure.
 
 ## Counterevidence & Qualifications
-This page summarizes public neuroscience explanations, not direct measurement of an individual's dopamine level. The nicotine account does not establish exact dopamine trajectories for every user or comparative addiction risk across every product. It should not be used to diagnose addiction, depression, ADHD, Parkinson's disease, medication effects, or any other clinical state. Substance withdrawal and cessation medication decisions need qualified support.
+This page summarizes public neuroscience explanations, not direct measurement of an individual's dopamine level. The sources overlap substantially and therefore do not provide independent replication. Exact dopamine multipliers, proportional-drop language, depletion claims, and trajectories for particular behaviors or users remain source-scoped. The model should not be used to diagnose addiction, depression, ADHD, Parkinson's disease, medication effects, or any other clinical state. Substance withdrawal and cessation medication decisions need qualified support.
 
 ## What Changed
-- Added nicotine as a concrete delivery-speed, tolerance, withdrawal, and relapse case.
-- Extended baseline protection into a supported cessation boundary rather than a self-treatment protocol.
+- Added the 2021 episode as earlier provenance for the baseline, peak, trough, and reward-history model.
+- Clarified that overlapping Huberman episodes are not independent confirmation of exact dopamine trajectories.
 
 ## Related Concepts
 - [[DopamineWantingLoop]] - pursuit mechanism that operates through anticipation and wanting.

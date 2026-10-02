@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1415
+topic_total_pages: 1416
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3657,6 +3657,9 @@ topic_sources:
   - key: "controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681"
     title: "Controlling Sugar Cravings & Metabolism with Science-Based Tools"
     url: "/wiki/sources/controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681/"
+  - key: "scim6449668176-scim6449668176"
+    title: "Controlling Your Dopamine For Motivation, Focus & Satisfaction"
+    url: "/wiki/sources/scim6449668176-scim6449668176/"
   - key: "create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305"
     title: "Create Your Ideal Future Using Science-Based Protocols | Ari Wallach"
     url: "/wiki/sources/create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305/"

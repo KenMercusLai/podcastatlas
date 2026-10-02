@@ -27893,3 +27893,11 @@ Added source `tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128`; crea
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | Controlling Your Dopamine For Motivation, Focus & Satisfaction
+
+Added source `scim6449668176-scim6449668176`; resynthesized `AndrewHuberman`, `HubermanLab`, `DopaminePeakTroughBaseline`, `DopamineBaselineMaintenance`, `DopamineToolTiming`, `EffortAsReward`, and `MotivationCrowdingOut` from their complete preserved evidence inventories. Core synthesis: motivation depends on baseline, peak size, recent reward history, and learned interpretation, so optional stimulation should not become a required stack and effort can carry reward without unsafe deprivation. No settled contradiction was adopted. The episode substantially overlaps later Huberman dopamine material and is treated as earlier provenance rather than independent replication; quantitative, supplement, prescription, cold-exposure, addiction, psychiatric, nighttime-light, and social-reward claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,486-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

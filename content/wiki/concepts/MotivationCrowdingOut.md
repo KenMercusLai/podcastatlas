@@ -8,7 +8,8 @@ sources:
   - master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751
   - how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142
   - how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673
-last_updated: 2026-09-27
+  - scim6449668176-scim6449668176
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ knowledge_schema: synthesis-v1
 Motivation crowding out is the wiki's frame for reward systems that weaken an activity's intrinsic, civic, identity-based, or process-based motivation by changing what the behavior means to the person doing it.
 
 ## Current Synthesis
-The current evidence connects an economics/incentives version with a neuroscience/motivation version. [[79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262]] uses blood donation through [[RichardTitmuss|Richard Titmuss]] and a Swiss nuclear-waste siting example to show that external payment can cheapen a moral or civic act when it changes its perceived meaning. [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] gives the same pattern an intrinsic-motivation mechanism: external rewards can reduce later voluntary engagement with an activity, and stacking extra dopamine around already-valued work can make the original activity feel less rewarding afterward.
+The current evidence connects an economics/incentives version with a psychology and neuroscience version. [[79-gewei-lingdao-danfan-zan-xuedian-boyilun-690004262]] uses blood donation through [[RichardTitmuss|Richard Titmuss]] and a Swiss nuclear-waste siting example to show that external payment can cheapen a moral or civic act when it changes its perceived meaning. [[scim6449668176-scim6449668176]] supplies the earlier Huberman treatment of the drawing-reward experiment and argues that phones, caffeine, music, supplements, or other stacked rewards can make an already-valued activity increasingly dependent on the added stimulation. [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] later restates the same intrinsic-motivation and anti-stacking mechanism, so the two episodes are overlapping provenance rather than independent evidence.
 
 [[master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751]] reinforces the interpretation layer. Fujita's discussion of children rewarded for drawing suggests crowding out happens when people reinterpret why they are acting: the same activity can shift from "I like this" to "I did it for a reward," especially when the reward is expected in advance.
 
@@ -41,12 +42,14 @@ An important productivity qualification comes from [[AdamGrant]]. Meta-analytic 
 - Self-explanation shift: [[master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751]] uses the expected drawing-reward finding to show how rewards can change perceived motive.
 - Output-versus-meaning qualification: [[how-to-unlock-your-potential-motivation-unique-abilities-dr-adam-grant-scim2670765142]] says incentives generally raise productivity, especially quantity, while controlling framing can weaken intrinsic motivation.
 - Temptation-bundling boundary: [[how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673]] reserves an enjoyable activity for pairing with an unpleasant but worthwhile task.
+- Earlier reward-removal and stacking account: [[scim6449668176-scim6449668176]] uses the drawing experiment, phone layering, and optional exercise rewards to argue that expected external stimulation can change later voluntary engagement.
 
 ## Counterevidence & Qualifications
-Crowding out does not mean all rewards are harmful. Pay, recognition, prizes, penalties, and temptation bundles can increase output or repetition and may be necessary or useful when they are proportionate, respectful, autonomy-preserving, sufficiently large for the context, or attached to behavior that lacks intrinsic motivation. Quantity gains do not guarantee quality or durable interest, and the concept warns against careless reward design rather than compensation or feedback as such. Fujita also notes that adults with a clear sense that they love an activity may be more resistant to confusing payment with the underlying motive, though the episode treats that as controversial.
+Crowding out does not mean all rewards are harmful. Pay, recognition, prizes, penalties, and temptation bundles can increase output or repetition and may be necessary or useful when they are proportionate, respectful, autonomy-preserving, sufficiently large for the context, or attached to behavior that lacks intrinsic motivation. Quantity gains do not guarantee quality or durable interest, and dopamine language does not by itself establish the psychological mechanism or effect size. The concept warns against careless reward design rather than compensation or feedback as such. Fujita also notes that adults with a clear sense that they love an activity may be more resistant to confusing payment with the underlying motive, though the episode treats that as controversial.
 
 ## What Changed
-- Added temptation bundling as a bounded case where reward may support an unpleasant task rather than displace existing intrinsic interest.
+- Added the earlier drawing-reward, phone-layering, and optional-stimulation account.
+- Marked the two Huberman dopamine episodes as overlapping provenance rather than independent confirmation.
 
 ## Related Concepts
 - [[EffortAsReward]] - process-motivation branch that protects effort from outcome-only reward.

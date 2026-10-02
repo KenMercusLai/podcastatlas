@@ -11256,9 +11256,9 @@
       "url": "/wiki/entities/andrewcarnegie/"
     },
     "AndrewHuberman": {
-      "episode_count": 56,
+      "episode_count": 57,
       "show_count": 1,
-      "source_note_count": 56,
+      "source_note_count": 57,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -11651,9 +11651,16 @@
           "show": "Huberman Lab",
           "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
           "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
+        },
+        {
+          "episode_file": "SCIM6449668176 [SCIM6449668176].md",
+          "key": "scim6449668176-scim6449668176",
+          "show": "Huberman Lab",
+          "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
+          "url": "/wiki/sources/scim6449668176-scim6449668176/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrewJohnson": {
@@ -53390,9 +53397,9 @@
       "url": "/wiki/entities/donnasummer/"
     },
     "DopamineBaselineMaintenance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -53400,9 +53407,16 @@
           "show": "Huberman Lab",
           "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
           "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        },
+        {
+          "episode_file": "SCIM6449668176 [SCIM6449668176].md",
+          "key": "scim6449668176-scim6449668176",
+          "show": "Huberman Lab",
+          "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
+          "url": "/wiki/sources/scim6449668176-scim6449668176/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/dopaminebaselinemaintenance/"
     },
     "DopamineInvertedU": {
@@ -53443,9 +53457,9 @@
       "url": "/wiki/concepts/dopamineinvertedu/"
     },
     "DopaminePeakTroughBaseline": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -53460,15 +53474,22 @@
           "show": "Huberman Lab",
           "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
           "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
+        },
+        {
+          "episode_file": "SCIM6449668176 [SCIM6449668176].md",
+          "key": "scim6449668176-scim6449668176",
+          "show": "Huberman Lab",
+          "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
+          "url": "/wiki/sources/scim6449668176-scim6449668176/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/dopaminepeaktroughbaseline/"
     },
     "DopamineToolTiming": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -53504,9 +53525,16 @@
           "show": "Huberman Lab",
           "title": "Optimize & Control Your Brain Chemistry to Improve Health & Performance",
           "url": "/wiki/sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946/"
+        },
+        {
+          "episode_file": "SCIM6449668176 [SCIM6449668176].md",
+          "key": "scim6449668176-scim6449668176",
+          "show": "Huberman Lab",
+          "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
+          "url": "/wiki/sources/scim6449668176-scim6449668176/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/dopaminetooltiming/"
     },
     "DopamineWantingLoop": {
@@ -57302,9 +57330,9 @@
       "url": "/wiki/concepts/effectiveconfusionodysseyperiod/"
     },
     "EffortAsReward": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -57319,9 +57347,16 @@
           "show": "Huberman Lab",
           "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
           "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
+        },
+        {
+          "episode_file": "SCIM6449668176 [SCIM6449668176].md",
+          "key": "scim6449668176-scim6449668176",
+          "show": "Huberman Lab",
+          "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
+          "url": "/wiki/sources/scim6449668176-scim6449668176/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/effortasreward/"
     },
     "EffortNarrativeInterrogation": {
@@ -94731,9 +94766,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 56,
+      "episode_count": 57,
       "show_count": 1,
-      "source_note_count": 56,
+      "source_note_count": 57,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -95126,9 +95161,16 @@
           "show": "Huberman Lab",
           "title": "Nicotine’s Effects on the Brain & Body & How to Quit Smoking or Vaping",
           "url": "/wiki/sources/nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635/"
+        },
+        {
+          "episode_file": "SCIM6449668176 [SCIM6449668176].md",
+          "key": "scim6449668176-scim6449668176",
+          "show": "Huberman Lab",
+          "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
+          "url": "/wiki/sources/scim6449668176-scim6449668176/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HubertHumphrey": {
@@ -137812,9 +137854,9 @@
       "url": "/wiki/concepts/motherhoodbeyondchildbirth/"
     },
     "MotivationCrowdingOut": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "79.各位领导，但凡咱学点博弈论… … [690004262].md",
@@ -137850,9 +137892,16 @@
           "show": "Huberman Lab",
           "title": "How to Shape Your Identity & Goals | Dr. Maya Shankar",
           "url": "/wiki/sources/how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673/"
+        },
+        {
+          "episode_file": "SCIM6449668176 [SCIM6449668176].md",
+          "key": "scim6449668176-scim6449668176",
+          "show": "Huberman Lab",
+          "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
+          "url": "/wiki/sources/scim6449668176-scim6449668176/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/motivationcrowdingout/"
     },
     "MotivationRewardEffortCalculation": {

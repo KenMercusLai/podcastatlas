@@ -3545,6 +3545,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar](sources/scim9724505974-scim9724505974.md) — Huberman Lab interview on melanopsin light sensing, circadian alignment, mood pathways, meal and exercise timing, and internal-time-aware travel adaptation.
 - [Trump and tech leaders agree to voluntary AI safety accord](sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128.md) — Marketplace Tech on a voluntary AI safety accord, FTC scrutiny of AI labs, and documentary-ad reversals under platform and political pressure.
+- [Controlling Your Dopamine For Motivation, Focus & Satisfaction](sources/scim6449668176-scim6449668176.md) — Huberman Lab solo episode on dopamine baseline, peaks and troughs, reward history, anti-stacking, effort reward, cold exposure, social connection, and clinical boundaries.
 
 ## Entities
 - [Ludwig Erhard](entities/LudwigErhard.md) — Economist and Adenauer successor presented as a technocrat whose expertise did not produce durable political authority.

@@ -8,7 +8,8 @@ sources:
   - tools-to-enhance-working-memory-attention-scim1948560111
   - using-caffeine-to-optimize-mental-physical-performance-scim1210768101
   - optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946
-last_updated: 2026-10-01
+  - scim6449668176-scim6449668176
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ In [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim885
 [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] sharpens the timing rule by adding [[DopaminePeakTroughBaseline]]: the same tool can help, overshoot, or backfire depending on baseline state, peak size, trough depth, stacking, and whether the activity is already intrinsically rewarding. [[tools-to-enhance-working-memory-attention-scim1948560111]] adds a task-specific branch for working memory, where bromocriptine, cold exposure, L-tyrosine, mucuna pruriens, and rest practices differ sharply in directness of evidence and risk.
 
 [[using-caffeine-to-optimize-mental-physical-performance-scim1210768101]] makes caffeine's role more specific. It presents caffeine as both an alertness tool and a reinforcer that can strengthen preference for paired tastes, contexts, people, and activities. Its exercise example supports the broader anti-stacking rule: caffeine may make training feel more rewarding, but repeatedly combining caffeine, tyrosine, intense music, and hard exercise is presented as a way to create unusually high peaks followed by lower subjective states. The working rule remains to maintain baseline first, test low-risk tools individually, avoid routine stacking, and keep supplements or drugs inside medical context.
+
+[[scim6449668176-scim6449668176]] supplies earlier provenance for that rule. It distinguishes optional behavioral inputs such as phone-free exercise and healthy social connection from stronger cold, stimulant, supplement, and prescription levers, while arguing that recent dopamine history changes the effect of the next input. Because this episode substantially overlaps the later solo treatments, it expands provenance and examples rather than independently validating their exact mechanisms or effect sizes.
 
 ## Key Claims
 - Dopamine above baseline is associated with increased motivation, drive, pursuit, and some focus.
@@ -42,14 +45,15 @@ In [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim885
 - Working-memory evidence hierarchy: [[tools-to-enhance-working-memory-attention-scim1948560111]] separates direct baseline-stratified bromocriptine evidence from indirect yoga-nidra or cold-state mechanisms and cautious supplement discussion.
 - Caffeine reinforcement and stacking - [[using-caffeine-to-optimize-mental-physical-performance-scim1210768101]] links caffeine to learned contextual preference and warns against repeatedly layering several dopamine- and arousal-raising inputs around exercise.
 - Full-length provenance: [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946]] supplies the original behavioral, nutritional, supplement, and prescription hierarchy later compressed by the Essentials edit.
+- Earlier peak-history provenance: [[scim6449668176-scim6449668176]] connects phone layering, intermittent omission of optional rewards, cold exposure, stimulant and supplement potency, nighttime light, and social connection to later motivation.
 
 ## Counterevidence & Qualifications
-The page should not be read as supplement, cold-exposure, caffeine, training, or medication advice. The very high L-tyrosine study dose, mucuna/L-Dopa potency, possible post-tyrosine crash, caffeine-receptor claims, reinforcement examples, and prescription comparisons do not define self-treatment protocols. The sources are especially bounded for people with psychiatric conditions, panic vulnerability, cardiovascular risk, pregnancy, medication use, addiction history, sleep deprivation, or other clinical constraints.
+The page should not be read as supplement, cold-exposure, caffeine, training, or medication advice. The very high L-tyrosine study dose, mucuna/L-Dopa potency, possible post-tyrosine crash, caffeine-receptor claims, cold-water protocol, dopamine multipliers, reinforcement examples, and prescription comparisons do not define self-treatment protocols. Several sources are edits or overlapping solo presentations rather than independent confirmation. The claims are especially bounded for people with psychiatric conditions, panic vulnerability, cardiovascular risk, pregnancy, medication use, addiction history, sleep deprivation, or other clinical constraints.
 
 ## What Changed
-- Added the full-length episode as provenance for the later Essentials account.
-- Clarified that the two episode edits do not provide independent replication.
-- Preserved caffeine reinforcement, anti-stacking, inverted-U, and medical-safety boundaries.
+- Added the 2021 episode as earlier provenance for peak history, anti-stacking, phone layering, cold, and social reward.
+- Clarified that overlapping solo episodes and edits do not provide independent replication.
+- Preserved caffeine reinforcement, inverted-U, cold-exposure, psychiatric, and medical-safety boundaries.
 
 ## Related Concepts
 - [[NeuromodulatorStateToolkit]] - umbrella state-control model that contains this dopamine branch.
