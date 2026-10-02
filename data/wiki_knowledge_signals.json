@@ -4646,9 +4646,9 @@
       "url": "/wiki/concepts/abbasidsuccessioninstability/"
     },
     "AbbasidTranslationMovement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8529456010 [GLT8529456010].md",
@@ -4656,9 +4656,16 @@
           "show": "The Rest Is History",
           "title": "379. Baghdad: The Arabian Nights (Part 4)",
           "url": "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+        },
+        {
+          "episode_file": "GLT3839934134 [GLT3839934134].md",
+          "key": "112-medieval-science-glt3839934134",
+          "show": "The Rest Is History",
+          "title": "112. Medieval Science",
+          "url": "/wiki/sources/112-medieval-science-glt3839934134/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-02",
       "url": "/wiki/concepts/abbasidtranslationmovement/"
     },
     "AbbeyOfMonteCassino": {
@@ -14839,9 +14846,9 @@
       "url": "/wiki/concepts/aristocraticvampire/"
     },
     "Aristotle": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
@@ -14856,9 +14863,16 @@
           "show": "The Rest Is History",
           "title": "361. The Lost Library of Alexandria",
           "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        },
+        {
+          "episode_file": "GLT3839934134 [GLT3839934134].md",
+          "key": "112-medieval-science-glt3839934134",
+          "show": "The Rest Is History",
+          "title": "112. Medieval Science",
+          "url": "/wiki/sources/112-medieval-science-glt3839934134/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/aristotle/"
     },
     "ArkOfTheCovenant": {
@@ -107524,6 +107538,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/johnofgaunt/"
     },
+    "JohnOfWestwick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3839934134 [GLT3839934134].md",
+          "key": "112-medieval-science-glt3839934134",
+          "show": "The Rest Is History",
+          "title": "112. Medieval Science",
+          "url": "/wiki/sources/112-medieval-science-glt3839934134/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/johnofwestwick/"
+    },
     "JohnOldcastle": {
       "episode_count": 1,
       "show_count": 1,
@@ -130932,6 +130962,38 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/medievalguildapprenticeshiprights/"
     },
+    "MedievalScienceContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3839934134 [GLT3839934134].md",
+          "key": "112-medieval-science-glt3839934134",
+          "show": "The Rest Is History",
+          "title": "112. Medieval Science",
+          "url": "/wiki/sources/112-medieval-science-glt3839934134/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/medievalsciencecontinuity/"
+    },
+    "MedievalScientificPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3839934134 [GLT3839934134].md",
+          "key": "112-medieval-science-glt3839934134",
+          "show": "The Rest Is History",
+          "title": "112. Medieval Science",
+          "url": "/wiki/sources/112-medieval-science-glt3839934134/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/medievalscientificpractice/"
+    },
     "MedievalVisualPoliticalNarrative": {
       "episode_count": 1,
       "show_count": 1,
@@ -140900,9 +140962,9 @@
       "url": "/wiki/entities/nicolassarkozy/"
     },
     "NicolausCopernicus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2590789810 [GLT2590789810].md",
@@ -140910,9 +140972,16 @@
           "show": "The Rest Is History",
           "title": "270: Poland: Copernicus, the Dragon and the Salt Mine",
           "url": "/wiki/sources/270-poland-copernicus-the-dragon-and-the-salt-mine-glt2590789810/"
+        },
+        {
+          "episode_file": "GLT3839934134 [GLT3839934134].md",
+          "key": "112-medieval-science-glt3839934134",
+          "show": "The Rest Is History",
+          "title": "112. Medieval Science",
+          "url": "/wiki/sources/112-medieval-science-glt3839934134/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "url": "/wiki/entities/nicolauscopernicus/"
     },
     "NicoleBernardDawes": {
@@ -156870,6 +156939,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/premodernidentitymodernnationality/"
+    },
+    "PremodernScienceReligionEntanglement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3839934134 [GLT3839934134].md",
+          "key": "112-medieval-science-glt3839934134",
+          "show": "The Rest Is History",
+          "title": "112. Medieval Science",
+          "url": "/wiki/sources/112-medieval-science-glt3839934134/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/concepts/premodernsciencereligionentanglement/"
     },
     "PrenatalScreeningAndPregnancyCareLimits": {
       "episode_count": 2,
@@ -173610,6 +173695,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/seasonalwellnessmarketingboundary/"
+    },
+    "SebFalk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3839934134 [GLT3839934134].md",
+          "key": "112-medieval-science-glt3839934134",
+          "show": "The Rest Is History",
+          "title": "112. Medieval Science",
+          "url": "/wiki/sources/112-medieval-science-glt3839934134/"
+        }
+      ],
+      "updated": "2026-10-02",
+      "url": "/wiki/entities/sebfalk/"
     },
     "SebastianCastellio": {
       "episode_count": 1,

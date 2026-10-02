@@ -107,6 +107,10 @@
     "title": "111. 花衣魔笛手：快来，和历史学家一起推理童话真相",
     "url": "/wiki/sources/111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766/"
   },
+  "112-medieval-science-glt3839934134": {
+    "title": "112. Medieval Science",
+    "url": "/wiki/sources/112-medieval-science-glt3839934134/"
+  },
   "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095": {
     "title": "112. 闲聊金庸第一弹：明教竟然今天还存在？",
     "url": "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
@@ -42379,6 +42383,10 @@
     "title": "John of Gaunt",
     "url": "/wiki/entities/johnofgaunt/"
   },
+  "JohnOfWestwick": {
+    "title": "John of Westwick",
+    "url": "/wiki/entities/johnofwestwick/"
+  },
   "JohnOldcastle": {
     "title": "Sir John Oldcastle",
     "url": "/wiki/entities/johnoldcastle/"
@@ -51218,6 +51226,14 @@
   "MedievalGuildApprenticeshipRights": {
     "title": "中世纪行会学徒权利 / Medieval Guild Apprenticeship Rights",
     "url": "/wiki/concepts/medievalguildapprenticeshiprights/"
+  },
+  "MedievalScienceContinuity": {
+    "title": "Medieval Science Continuity",
+    "url": "/wiki/concepts/medievalsciencecontinuity/"
+  },
+  "MedievalScientificPractice": {
+    "title": "Medieval Scientific Practice",
+    "url": "/wiki/concepts/medievalscientificpractice/"
   },
   "MedievalUrbanMarginality": {
     "title": "Medieval Urban Marginality",
@@ -61359,6 +61375,10 @@
     "title": "Premodern Identity and Modern Nationality",
     "url": "/wiki/concepts/premodernidentitymodernnationality/"
   },
+  "PremodernScienceReligionEntanglement": {
+    "title": "Premodern Science-Religion Entanglement",
+    "url": "/wiki/concepts/premodernsciencereligionentanglement/"
+  },
   "PrenatalScreeningAndPregnancyCareLimits": {
     "title": "Prenatal Screening and Pregnancy-Care Limits / 产前筛查与孕期照护边界",
     "url": "/wiki/concepts/prenatalscreeningandpregnancycarelimits/"
@@ -68354,6 +68374,10 @@
   "SeattleSounders": {
     "title": "Seattle Sounders",
     "url": "/wiki/entities/seattlesounders/"
+  },
+  "SebFalk": {
+    "title": "Seb Falk",
+    "url": "/wiki/entities/sebfalk/"
   },
   "SebastianCastellio": {
     "title": "Sebastian Castellio",

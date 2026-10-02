@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12000
+wiki_total_pages: 12002
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "SeaWorld"
     title: "SeaWorld"
     url: "/wiki/entities/seaworld/"
+  - key: "SebFalk"
+    title: "Seb Falk"
+    url: "/wiki/entities/sebfalk/"
   - key: "SebastianTheResidency"
     title: "Sebastian (The Residency)"
     url: "/wiki/entities/sebastiantheresidency/"

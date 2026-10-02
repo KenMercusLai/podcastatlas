@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9306
+wiki_total_pages: 9309
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -554,6 +554,12 @@ wiki_pages:
   - key: "MedievalFemaleSovereigntyConstraint"
     title: "Medieval Female Sovereignty Constraint"
     url: "/wiki/concepts/medievalfemalesovereigntyconstraint/"
+  - key: "MedievalScienceContinuity"
+    title: "Medieval Science Continuity"
+    url: "/wiki/concepts/medievalsciencecontinuity/"
+  - key: "MedievalScientificPractice"
+    title: "Medieval Scientific Practice"
+    url: "/wiki/concepts/medievalscientificpractice/"
   - key: "MedievalUrbanMarginality"
     title: "Medieval Urban Marginality"
     url: "/wiki/concepts/medievalurbanmarginality/"

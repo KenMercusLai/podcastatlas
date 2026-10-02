@@ -5,7 +5,8 @@ tags: [philosophy, history, knowledge]
 sources:
   - 271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un
   - 361-the-lost-library-of-alexandria-glt1578679297
-last_updated: 2026-09-28
+  - 112-medieval-science-glt3839934134
+last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,43 +14,45 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Aristotle / 亚里士多德 is a Greek philosopher whose transmitted corpus, school community, empirical program, and Lyceum model connect the wiki's historical-evidence branch to the institutional formation of Hellenistic scholarship.
+Aristotle / 亚里士多德 was a Greek philosopher whose empirical ambition, school community, transmitted corpus, and later reception shaped ancient, medieval, Islamicate, and early modern knowledge.
 
 ## Current Profile
 
-Aristotle's profile now joins historical method to institutional history. A large corpus shaped by lectures, school notes, students, compilation, editing, and transmission is not evidence that the thinker was invented; it is evidence that authorship and textual survival can be institutional processes.
+Aristotle's corpus is both individual and institutional. Lectures, students, school notes, compilation, editing, and repeated transmission help explain its scale without implying that the philosopher was invented. His Lyceum joined communal life, reading, discussion, classification, direct investigation, and writing, and is presented as a model later expanded by the Alexandrian Museum.
 
-The positive institutional side appears in the Lyceum, which joined communal life, reading, discussion, classification, direct investigation, and writing within a Mouseion sacred to the Muses. That research community is presented as the main model that [[PtolemyI]] expanded into the [[MuseumOfAlexandria|Museum of Alexandria]].
+Medieval readers encountered Aristotle through difficult multilingual transmission, sometimes moving through Greek, Syriac, Arabic, Castilian, and Latin settings. They treated his scope and authority seriously but did not merely obey him: Christian objections to an eternal universe and debates over the vacuum and divine power show selection, criticism, and adaptation.
 
 ## Key Characteristics
 
-- Philosopher associated with empirical inquiry, classification, politics, animals, and the structure of the universe.
+- Philosopher associated with empirical inquiry, classification, politics, animals, and cosmology.
 - Founder of the Lyceum as a community for teaching, discussion, research, and writing.
 - Intellectual and institutional precedent for the Alexandrian Museum.
-- Thinker whose surviving corpus reflects school, lecture, editorial, and transmission processes as well as individual authorship.
-- Historical figure used to distinguish evidence-bound source criticism from conspiratorial nonexistence claims.
+- Thinker whose surviving corpus reflects school, editorial, and transmission processes.
+- Major authority transformed through multilingual medieval reception.
+- Source of propositions that medieval Christian scholars could adopt, qualify, or reject.
 
 ## Evidence
 
-- Corpus and transmission: [[271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un]] argues that students, notes, school activity, and later editing explain corpus complexity without requiring fabrication.
-- Lyceum research model: [[361-the-lost-library-of-alexandria-glt1578679297]] describes philosophers living, dining, walking, reading, investigating, and writing in an institution sacred to the Muses.
-- Alexandrian influence: [[361-the-lost-library-of-alexandria-glt1578679297]] presents Aristotle as teacher and model behind Ptolemy's larger royal Museum project.
+- **Corpus and transmission:** [[271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un]] argues that students, notes, school activity, and later editing explain corpus complexity without requiring fabrication.
+- **Lyceum research model:** [[361-the-lost-library-of-alexandria-glt1578679297]] describes philosophers living, dining, reading, investigating, and writing in an institution sacred to the Muses, and presents it as an Alexandrian precedent.
+- **Medieval reception:** [[112-medieval-science-glt3839934134]] describes multilingual textual routes, Christian rejection of an eternal universe, and active argument around Aristotelian physics.
 
 ## Qualifications
 
-Both sources use Aristotle selectively. The pseudohistory episode addresses existence and transmission rather than reconstructing individual works, while the Alexandria episode uses the Lyceum as an institutional genealogy and does not settle exact personal influence, chronology, or Ptolemy's education. [[AristotlePoeticsBookTwo|亚里士多德《诗学》第二卷]] remains a separate literary-afterlife node.
+Each source uses Aristotle selectively. The pseudohistory episode addresses existence and corpus formation; the Alexandria episode offers an institutional genealogy; and the medieval-science episode compresses centuries of translation and scholastic debate. Exact textual routes, the degree of Ptolemaic personal influence, and variation among medieval readers require more specialized evidence. [[AristotlePoeticsBookTwo|亚里士多德《诗学》第二卷]] remains a separate literary-afterlife node.
 
 ## What Changed
 
-- Added the Lyceum's communal research model and its proposed influence on the Museum of Alexandria.
-- Joined Aristotle's corpus-transmission problem to the institutions that create and preserve knowledge.
+- Extended Aristotle's institutional and textual afterlife into multilingual medieval reception.
+- Replaced the image of passive scholastic obedience with adoption, criticism, and doctrinal qualification.
+- Connected corpus survival to later transformation rather than preservation alone.
 
 ## Relationships
 
+- [[MedievalScienceContinuity]] - framework in which Aristotelian reception involved both continuity and revision.
+- [[AbbasidTranslationMovement]] - major translation and commentary environment within his medieval transmission.
+- [[PremodernScienceReligionEntanglement]] - context for disputes over creation, eternity, nature, and divine power.
 - [[MuseumOfAlexandria]] - royal research institution modeled partly on the Lyceum.
-- [[PtolemyI]] - ruler whom the source connects to Aristotle's teaching and institutional legacy.
-- [[LibraryOfAlexandria]] - collection whose research setting extends the Lyceum model.
-- [[TextualSurvivalThroughRecopying]] - transmission process that helps explain how a complex corpus persists.
-- [[PseudoHistoryConspiracy]] - denial framework that misreads corpus complexity as nonexistence.
-- [[EvidenceBoundHistoricalRevision]] - method that distinguishes source criticism from total denial.
+- [[TextualSurvivalThroughRecopying]] - process sustaining and reshaping the corpus.
+- [[EvidenceBoundHistoricalRevision]] - method distinguishing source criticism from total denial.
 - [[AristotlePoeticsBookTwo]] - separate literary node concerning a lost work attributed to Aristotle.

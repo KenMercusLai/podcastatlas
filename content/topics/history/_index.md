@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2407
+topic_total_pages: 2408
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -817,6 +817,9 @@ topic_concepts:
   - key: "MedicalizationOfChildbirth"
     title: "Medicalisation of Childbirth"
     url: "/wiki/concepts/medicalizationofchildbirth/"
+  - key: "MedievalScienceContinuity"
+    title: "Medieval Science Continuity"
+    url: "/wiki/concepts/medievalsciencecontinuity/"
   - key: "MencianGreatManCriterion"
     title: "Mencian Great-Man Criterion / 孟子大丈夫标准"
     url: "/wiki/concepts/menciangreatmancriterion/"

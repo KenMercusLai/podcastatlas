@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9306
+wiki_total_pages: 9309
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1628,6 +1628,9 @@ wiki_pages:
   - key: "PremodernIdentityModernNationality"
     title: "Premodern Identity and Modern Nationality"
     url: "/wiki/concepts/premodernidentitymodernnationality/"
+  - key: "PremodernScienceReligionEntanglement"
+    title: "Premodern Science-Religion Entanglement"
+    url: "/wiki/concepts/premodernsciencereligionentanglement/"
   - key: "PrenatalScreeningAndPregnancyCareLimits"
     title: "Prenatal Screening and Pregnancy-Care Limits / 产前筛查与孕期照护边界"
     url: "/wiki/concepts/prenatalscreeningandpregnancycarelimits/"

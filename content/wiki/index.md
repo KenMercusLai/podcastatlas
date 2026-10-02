@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [112. Medieval Science](sources/112-medieval-science-glt3839934134.md) — The Rest Is History with Seb Falk on medieval scientific practice, instruments, cross-cultural transmission, science-religion categories, and continuity into early modern inquiry.
 - [113. Hallowe'en and modern paganism](sources/113-halloween-and-modern-paganism-glt4064224583.md) — The Rest Is History with Ronald Hutton on Halloween's layered history, disputed pagan continuity, Wicca, and modern religious reconstruction.
 - [114. Stonehenge, ancient ritual and the origins of paganism](sources/114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137.md) — The Rest Is History with Ronald Hutton on paganism, Christianization, Druids, continuity claims, prehistoric ritual, Stonehenge, and evidential uncertainty.
 - [115. The Gunpowder Plot](sources/115-the-gunpowder-plot-glt1711431752.md) — The Rest Is History on Catesby's conspiracy, Fawkes's capture, intelligence ambiguity, treason punishment, and Bonfire Night's changing meanings.
@@ -3527,6 +3528,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Your Nervous System to Enhance Your Immune System](sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690.md) — Huberman Lab solo episode on layered immunity, sickness signaling, sleep, acute sympathetic activation, heat boundaries, and site-specific electroacupuncture mechanisms.
 
 ## Entities
+- [Seb Falk](entities/SebFalk.md) — Historian using ordinary practitioners, instruments, and translation networks to challenge scientific-dark-age mythology.
+- [John of Westwick](entities/JohnOfWestwick.md) — Late-medieval monk whose textual work, travel, and equatorium design exemplify practical knowledge-making.
 - [Gerald Gardner](entities/GeraldGardner.md) — Central publicist and creator of modern Wicca who joined claims of antiquity to adaptable ritual practice.
 - [Margaret Murray](entities/MargaretMurray.md) — Scholar whose rejected witch-cult thesis strongly influenced modern pagan self-understanding.
 - [Ronald Hutton](entities/RonaldHutton.md) — Historian calibrating claims about paganism, ritual, Christianization, seasonal custom, and prehistoric religious evidence.
@@ -8005,7 +8008,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大雁塔 / Great Wild Goose Pagoda](entities/GreatWildGoosePagoda.md) — Tang-associated monument invoked in episode 271 as a material-memory target of pseudohistory.
 - [Rosetta Stone / 罗塞塔石碑](entities/RosettaStone.md) — Cross-linguistic evidence example used in episode 271 against totalizing historical denial.
 - [Jean-Francois Champollion / 商博良](entities/JeanFrancoisChampollion.md) — Decipherment figure used in episode 271's Rosetta Stone evidence-chain example.
-- [Aristotle / 亚里士多德](entities/Aristotle.md) — Philosopher whose corpus transmission and Lyceum model connect historical evidence to Alexandrian research institutions.
+- [Aristotle / 亚里士多德](entities/Aristotle.md) — Philosopher whose corpus, Lyceum, multilingual transmission, and critical medieval reception shaped later knowledge institutions.
 - [Matt Adelman](entities/MattAdelman.md) — Former Target buyer explaining line review odds, planograms, shelf productivity, and buyer defense in the Planet Money board-game retail episode.
 - [Tori Welch](entities/ToriWelch.md) — Exploding Kittens global sourcing person connecting Sell Me a Sasquatch's retail launch to factory production and color quality control.
 - [Subway China / 赛百味中国](entities/SubwayChina.md) — Foreign-origin sandwich chain whose China local general-agency shift is used as a store-acceleration case.
@@ -15449,7 +15452,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wawel Hill](entities/WawelHill.md) — Krakow castle-and-cathedral complex connecting monarchy, Catholicism, national commemoration, Nazi appropriation, and survival.
 - [Malbork Castle](entities/MalborkCastle.md) — Teutonic fortress carrying Baltic, German, Polish, crusading, and imperial-nationalist meanings.
 - [Torun](entities/Torun.md) — Vistula trading city associated with Gothic brick, gingerbread, wartime survival, and Copernicus.
-- [Nicolaus Copernicus](entities/NicolausCopernicus.md) — Renaissance canon and astronomer whose Polish-German national classification remains necessarily qualified.
+- [Nicolaus Copernicus](entities/NicolausCopernicus.md) — Renaissance canon and astronomer joining heliocentric innovation to inherited mathematics, debate, and qualified national identity.
 - [Wieliczka Salt Mine](entities/WieliczkaSaltMine.md) — Royal salt industry transformed into an underground religious-art, tourism, and national-memory complex.
 
 - [Roger Berkowitz](entities/RogerBerkowitz.md) — Political theorist reconstructing Hannah Arendt's account of friendship, plurality, truth, and reciprocal persuasion.
@@ -15568,6 +15571,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexei Nikolaevich](entities/AlexeiNikolaevich.md) — Nicholas II's hemophiliac heir, disambiguated from Peter the Great's son, whose illness shaped Rasputin's court standing.
 
 ## Concepts
+- [Medieval Science Continuity](concepts/MedievalScienceContinuity.md) — Qualified continuity of preservation, translation, criticism, calculation, and institutional change from antiquity into early modern science.
+- [Medieval Scientific Practice](concepts/MedievalScientificPractice.md) — Joined textual, mathematical, observational, computational, and instrument-making work before modern professional science.
+- [Premodern Science-Religion Entanglement](concepts/PremodernScienceReligionEntanglement.md) — Historically overlapping theology, natural philosophy, astronomy, and knowledge categories that resist a simple conflict binary.
 - [Halloween Historical Layering](concepts/HalloweenHistoricalLayering.md) — Model joining northern seasonal danger, Christian commemoration, Irish transmission, discontinuity, and American commercialization.
 - [Modern Pagan Reconstruction](concepts/ModernPaganReconstruction.md) — Historically modern recombination of older ritual, magical, seasonal, mythic, literary, and nature-centered streams.
 - [Paganism as Local Ritual Tradition](concepts/PaganismAsLocalRitualTradition.md) — Model of diverse pre-Christian religions as rooted in local ritual, place, and custom rather than one creed or scripture.
@@ -16247,7 +16253,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Paraphimosis Emergency / 包皮嵌顿急症](concepts/ParaphimosisEmergency.md) — Urgent recognition boundary for a retracted foreskin trapped behind the glans with swelling and possible circulation compromise.
 - [Islamic Legal Scholarly Authority](concepts/IslamicLegalScholarlyAuthority.md) — Law-before-state framework in which ulama and jurists interpret divine sources beyond ruler command.
 - [Hadith Authentication](concepts/HadithAuthentication.md) — Source-critical evaluation of attributed prophetic reports through transmission chains and related scrutiny.
-- [Abbasid Translation Movement](concepts/AbbasidTranslationMovement.md) — Distributed patronage network that translated and transformed inherited learning in Arabic intellectual life.
+- [Abbasid Translation Movement](concepts/AbbasidTranslationMovement.md) — Distributed multilingual network that transformed inherited learning and helped connect ancient, medieval, and early modern science.
 - [Arabian Nights Transmission](concepts/ArabianNightsTransmission.md) — Layered movement of tales through oral performance, manuscripts, translation, editing, illustration, and adaptation.
 - [Abbasid Succession Instability](concepts/AbbasidSuccessionInstability.md) — Pattern joining contested designation, divided inheritance, civil war, and military dependence in caliphal transfer.
 - [Imperial Metropolis Integration](concepts/ImperialMetropolisIntegration.md) — Framework connecting imperial trade, language, law, infrastructure, migration, wealth, coercive labor, and urban risk.

@@ -27745,3 +27745,11 @@ Added source `113-halloween-and-modern-paganism-glt4064224583`; created `GeraldG
 ## [2026-10-02] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-02] ingest | 112. Medieval Science
+
+Added source `112-medieval-science-glt3839934134`; created `SebFalk`, `JohnOfWestwick`, `MedievalScienceContinuity`, `MedievalScientificPractice`, and `PremodernScienceReligionEntanglement`; and resynthesized `Aristotle`, `NicolausCopernicus`, and `AbbasidTranslationMovement` from their complete preserved evidence inventories. Core synthesis: medieval inquiry joined texts, calculation, observation, instruments, theology, and cross-cultural transmission, so early modern science is better understood through qualified continuity and transformation than disappearance and sudden rebirth. No settled contradiction was adopted. Modern professional science, laboratory specialization, and designed repeatable experiment remain later developments; early clock technology, John of Westwick's biography and equatorium attribution, the al-Tusi-to-Copernicus route, and broad claims about church or Islamicate institutions remain uncertain or source-scoped. Recurring show pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,467-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
