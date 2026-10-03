@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9429
+wiki_total_pages: 9433
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "HeroVillainHistoricalReduction"
     title: "Hero-Villain Historical Reduction"
     url: "/wiki/concepts/herovillainhistoricalreduction/"
+  - key: "HeroicFailureMemory"
+    title: "Heroic Failure Memory"
+    url: "/wiki/concepts/heroicfailurememory/"
   - key: "HeroicLastStandMyth"
     title: "Heroic Last Stand Myth"
     url: "/wiki/concepts/heroiclaststandmyth/"
@@ -536,6 +539,9 @@ wiki_pages:
   - key: "HolocaustWarningActionGap"
     title: "Holocaust Warning-to-Action Gap"
     url: "/wiki/concepts/holocaustwarningactiongap/"
+  - key: "Holodomor"
+    title: "Holodomor"
+    url: "/wiki/concepts/holodomor/"
   - key: "HomeBloodPressureMeasurement"
     title: "Home Blood Pressure Measurement / 家庭血压测量"
     url: "/wiki/concepts/homebloodpressuremeasurement/"

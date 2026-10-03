@@ -28300,3 +28300,11 @@ Added source `defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-d
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 69. England v Ukraine
+
+Added source `69-england-v-ukraine-glt5469973001`; created `JohnHughesWelshIndustrialist`, `GarethJonesJournalist`, `Donetsk`, `AngloUkrainianRelations`, `CrimeanWar`, `Holodomor`, and `HeroicFailureMemory`; upgraded `Crimea` to the synthesis-v1 schema; and resynthesized `KievanRus`, `VladimirTheGreat`, and `VarangianGuard` from their complete preserved evidence inventories. Core synthesis: Anglo-Ukrainian connections are episodic rather than one continuous bilateral tradition, running through Byzantine military mobility, the Crimean War, Welsh-led industry at Huzovka, and Gareth Jones's famine reporting. No settled contradiction was adopted. The Crimean “New England” tradition, etymological and football analogies, war anecdotes, industrial figures, publication details, and disputed commemorative claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,537-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

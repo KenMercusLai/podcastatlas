@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12131
+wiki_total_pages: 12134
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "GarethBrown"
     title: "Gareth Brown"
     url: "/wiki/entities/garethbrown/"
+  - key: "GarethJonesJournalist"
+    title: "Gareth Jones (journalist)"
+    url: "/wiki/entities/garethjonesjournalist/"
   - key: "GarethSouthgate"
     title: "Gareth Southgate"
     url: "/wiki/entities/garethsouthgate/"

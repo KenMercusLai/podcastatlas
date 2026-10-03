@@ -5628,6 +5628,13 @@
       "url": "/topics/history/"
     }
   ],
+  "69-england-v-ukraine-glt5469973001": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465": [
     {
       "key": "history",
@@ -12622,6 +12629,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "AngloUkrainianRelations": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "Anhui": [
@@ -24274,6 +24288,11 @@
     }
   ],
   "Crimea": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "politics",
       "label": "Politics",

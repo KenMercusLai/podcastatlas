@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12131
+wiki_total_pages: 12134
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "DonationOfConstantine"
     title: "Donation of Constantine / 君士坦丁献土"
     url: "/wiki/entities/donationofconstantine/"
+  - key: "Donetsk"
+    title: "Donetsk"
+    url: "/wiki/entities/donetsk/"
   - key: "DongHongguang"
     title: "Dong Hongguang / 董宏光"
     url: "/wiki/entities/donghongguang/"

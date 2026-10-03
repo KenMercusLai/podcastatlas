@@ -12804,6 +12804,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/anglosaxonstateformation/"
     },
+    "AngloUkrainianRelations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5469973001 [GLT5469973001].md",
+          "key": "69-england-v-ukraine-glt5469973001",
+          "show": "The Rest Is History",
+          "title": "69. England v Ukraine",
+          "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/angloukrainianrelations/"
+    },
     "AnimalAbuseViolenceLink": {
       "episode_count": 4,
       "show_count": 2,
@@ -44972,6 +44988,45 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/crimestatisticscomparability/"
     },
+    "Crimea": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Far Crimea： war comes to Russia’s door [6a3e560c26d5a6687a90c658].md",
+          "key": "far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658",
+          "show": "Economist Podcasts",
+          "title": "Far Crimea: war comes to Russia's door",
+          "url": "/wiki/sources/far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658/"
+        },
+        {
+          "episode_file": "GLT5469973001 [GLT5469973001].md",
+          "key": "69-england-v-ukraine-glt5469973001",
+          "show": "The Rest Is History",
+          "title": "69. England v Ukraine",
+          "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/crimea/"
+    },
+    "CrimeanWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5469973001 [GLT5469973001].md",
+          "key": "69-england-v-ukraine-glt5469973001",
+          "show": "The Rest Is History",
+          "title": "69. England v Ukraine",
+          "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/crimeanwar/"
+    },
     "CriminalLawAfterLivelihoodCollapse": {
       "episode_count": 1,
       "show_count": 1,
@@ -54095,6 +54150,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/donationsofalexandria/"
+    },
+    "Donetsk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5469973001 [GLT5469973001].md",
+          "key": "69-england-v-ukraine-glt5469973001",
+          "show": "The Rest Is History",
+          "title": "69. England v Ukraine",
+          "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/donetsk/"
     },
     "DongBanNanyangLateHan": {
       "episode_count": 1,
@@ -79282,6 +79353,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/gardenhotelshanghai/"
     },
+    "GarethJonesJournalist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5469973001 [GLT5469973001].md",
+          "key": "69-england-v-ukraine-glt5469973001",
+          "show": "The Rest Is History",
+          "title": "69. England v Ukraine",
+          "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/garethjonesjournalist/"
+    },
     "GarethSouthgate": {
       "episode_count": 1,
       "show_count": 1,
@@ -92215,6 +92302,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/herodotus/"
     },
+    "HeroicFailureMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5469973001 [GLT5469973001].md",
+          "key": "69-england-v-ukraine-glt5469973001",
+          "show": "The Rest Is History",
+          "title": "69. England v Ukraine",
+          "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/heroicfailurememory/"
+    },
     "HeroicLastStandMyth": {
       "episode_count": 5,
       "show_count": 1,
@@ -93743,6 +93846,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/holocaustwarningactiongap/"
+    },
+    "Holodomor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5469973001 [GLT5469973001].md",
+          "key": "69-england-v-ukraine-glt5469973001",
+          "show": "The Rest Is History",
+          "title": "69. England v Ukraine",
+          "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/holodomor/"
     },
     "HolyCrownOfHungary": {
       "episode_count": 1,
@@ -110310,6 +110429,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/johnhoward/"
     },
+    "JohnHughesWelshIndustrialist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5469973001 [GLT5469973001].md",
+          "key": "69-england-v-ukraine-glt5469973001",
+          "show": "The Rest Is History",
+          "title": "69. England v Ukraine",
+          "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/johnhugheswelshindustrialist/"
+    },
     "JohnIIOfFrance": {
       "episode_count": 2,
       "show_count": 1,
@@ -113453,9 +113588,9 @@
       "url": "/wiki/entities/khwarazmianempire/"
     },
     "KievanRus": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT8286135160 [GLT8286135160].md",
@@ -113484,9 +113619,16 @@
           "show": "The Rest Is History",
           "title": "148. The Vikings Go East",
           "url": "/wiki/sources/148-the-vikings-go-east-glt1476178706/"
+        },
+        {
+          "episode_file": "GLT5469973001 [GLT5469973001].md",
+          "key": "69-england-v-ukraine-glt5469973001",
+          "show": "The Rest Is History",
+          "title": "69. England v Ukraine",
+          "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/kievanrus/"
     },
     "KimKardashian": {
@@ -205656,9 +205798,9 @@
       "url": "/wiki/entities/vannevarbush/"
     },
     "VarangianGuard": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5802152245 [GLT5802152245].md",
@@ -205680,9 +205822,16 @@
           "show": "The Rest Is History",
           "title": "149. The Birth of Russia",
           "url": "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
+        },
+        {
+          "episode_file": "GLT5469973001 [GLT5469973001].md",
+          "key": "69-england-v-ukraine-glt5469973001",
+          "show": "The Rest Is History",
+          "title": "69. England v Ukraine",
+          "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/varangianguard/"
     },
     "VaricellaZosterLatencyReactivation": {
@@ -207496,9 +207645,9 @@
       "url": "/wiki/entities/vladimirraitz/"
     },
     "VladimirTheGreat": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2354182753 [GLT2354182753].md",
@@ -207506,9 +207655,16 @@
           "show": "The Rest Is History",
           "title": "149. The Birth of Russia",
           "url": "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
+        },
+        {
+          "episode_file": "GLT5469973001 [GLT5469973001].md",
+          "key": "69-england-v-ukraine-glt5469973001",
+          "show": "The Rest Is History",
+          "title": "69. England v Ukraine",
+          "url": "/wiki/sources/69-england-v-ukraine-glt5469973001/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/vladimirthegreat/"
     },
     "VocalLearningEvolution": {

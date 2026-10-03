@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9429
+wiki_total_pages: 9433
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2024,6 +2024,9 @@ wiki_pages:
   - key: "AngloSaxonStateFormation"
     title: "Anglo-Saxon State Formation"
     url: "/wiki/concepts/anglosaxonstateformation/"
+  - key: "AngloUkrainianRelations"
+    title: "Anglo-Ukrainian Relations"
+    url: "/wiki/concepts/angloukrainianrelations/"
   - key: "AnimalAbuseViolenceLink"
     title: "Animal Abuse Violence Link"
     url: "/wiki/concepts/animalabuseviolencelink/"
