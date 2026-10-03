@@ -11,7 +11,8 @@ sources:
   - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
   - vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0
   - guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440
-last_updated: 2026-09-29
+  - scim4224560223-scim4224560223
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -35,6 +36,8 @@ The psychiatric sleep episode makes the loop explicit at sleep onset: once a per
 
 The Galpin interview adds a simple feedback-delay rule: when a sleep score becomes stressful or compulsive, do not check it during at least the first hour after waking. This preserves the possibility of periodic pattern review while reducing the chance that one estimate sets the day's expectations before subjective restoration and function can be noticed.
 
+The January 2021 Huberman episode supplies an early anti-rigidity version of the same judgment. It warns that neurotic attachment to sleep schedules can itself worsen sleep and presents NSDR, hypnosis, yoga nidra, or meditation as ways to practice downshifting after waking or during the day. That framing supports calm rest over performance pressure but does not establish these practices as treatments for chronic insomnia or as substitutes for adequate sleep.
+
 ## Key Claims
 - Sleep advice can backfire when a flexible health range becomes an exact performance demand.
 - Device data can reassure some users while intensifying vigilance, repeated checking, or parental fear in others.
@@ -57,13 +60,14 @@ The Galpin interview adds a simple feedback-delay rule: when a sleep score becom
 - Sleep-onset interpretation and de-arousal - [[vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0]] connects a catastrophic thought after longer-than-usual sleep latency with stress arousal and offers slow breathing, body scanning, or a simple imagery-and-word anchor as possible attention shifts.
 - Functional and device boundary - [[vol-70-jingshenke-you-shimian-le-zhende-ke-zhiyu-sanjia-jingshenke-yisheng-gei-ni-shuimian-zhizhao-lkfpagwnhiqlhyyz71xwefocyhf0]] prioritizes waking restoration and wider life context over an exact eight-hour, 90-minute-cycle, or consumer deep-sleep target.
 - Delayed score checking - [[guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440]] recommends waiting at least the first waking hour before viewing a sleep score when feedback has become stressful or compulsive.
+- Early anti-rigidity framing - [[scim4224560223-scim4224560223]] warns that rigid schedule attachment can worsen sleep and offers guided rest or contemplative practices as de-arousal options rather than guarantees.
 
 ## Counterevidence & Qualifications
-Sleep worry is not an explanation for every sleep complaint. Persistent difficulty, daytime impairment, witnessed breathing pauses, recurrent dream enactment, uncomfortable legs, irresistible daytime sleep, medication effects, menopause symptoms, dementia, neurological disease, or circadian change can require medical assessment. Belief effects, athlete-feedback practice, clock and phone removal, conditioning, breathing, body scans, and attention-shifting tools are source-scoped and are not substitutes for CBT-I or sleep-medicine evaluation.
+Sleep worry is not an explanation for every sleep complaint. Persistent difficulty, daytime impairment, witnessed breathing pauses, recurrent dream enactment, uncomfortable legs, irresistible daytime sleep, medication effects, menopause symptoms, dementia, neurological disease, or circadian change can require medical assessment. Belief effects, athlete-feedback practice, clock and phone removal, conditioning, breathing, body scans, NSDR, hypnosis, yoga nidra, meditation, and attention-shifting tools are source-scoped and are not substitutes for adequate sleep, CBT-I, or sleep-medicine evaluation.
 
 ## What Changed
-- Added delayed morning score checking as a practical orthosomnia boundary.
-- Preserved periodic pattern review while prioritizing subjective restoration and function before device feedback.
+- Added early provenance for the claim that rigid adherence to sleep protocols can become part of the problem.
+- Kept guided rest and contemplative practices as de-arousal options rather than insomnia treatment or sleep replacement.
 
 ## Related Concepts
 - [[ChronicInsomniaRecognitionAndTreatment]] - clinical pathway for persistent symptoms and daytime impairment.

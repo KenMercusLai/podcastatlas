@@ -6545,9 +6545,9 @@
       "url": "/wiki/concepts/adultnappingsleeppressure/"
     },
     "AdultPolyphasicSleepEvidenceBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8589399999 [SCIM8589399999].md",
@@ -6562,9 +6562,16 @@
           "show": "Huberman Lab",
           "title": "The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker",
           "url": "/wiki/sources/scim3745275899-scim3745275899/"
+        },
+        {
+          "episode_file": "SCIM4224560223 [SCIM4224560223].md",
+          "key": "scim4224560223-scim4224560223",
+          "show": "Huberman Lab",
+          "title": "How to Defeat Jet Lag, Shift Work & Sleeplessness",
+          "url": "/wiki/sources/scim4224560223-scim4224560223/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/adultpolyphasicsleepevidenceboundary/"
     },
     "AdultProductsRelationshipSupport": {
@@ -38554,9 +38561,9 @@
       "url": "/wiki/concepts/circadianhomeostaticenvironmentalmodel/"
     },
     "CircadianTravelAdaptation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -38578,9 +38585,16 @@
           "show": "Huberman Lab",
           "title": "Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar",
           "url": "/wiki/sources/scim9724505974-scim9724505974/"
+        },
+        {
+          "episode_file": "SCIM4224560223 [SCIM4224560223].md",
+          "key": "scim4224560223-scim4224560223",
+          "show": "Huberman Lab",
+          "title": "How to Defeat Jet Lag, Shift Work & Sleeplessness",
+          "url": "/wiki/sources/scim4224560223-scim4224560223/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/circadiantraveladaptation/"
     },
     "Circe": {
@@ -150647,9 +150661,9 @@
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonSleepDeepRestRecovery": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -150720,6 +150734,13 @@
           "show": "Huberman Lab",
           "title": "How to Focus to Change Your Brain",
           "url": "/wiki/sources/scim3840916606-scim3840916606/"
+        },
+        {
+          "episode_file": "SCIM4224560223 [SCIM4224560223].md",
+          "key": "scim4224560223-scim4224560223",
+          "show": "Huberman Lab",
+          "title": "How to Defeat Jet Lag, Shift Work & Sleeplessness",
+          "url": "/wiki/sources/scim4224560223-scim4224560223/"
         }
       ],
       "updated": "2026-10-04",
@@ -188582,9 +188603,9 @@
       "url": "/wiki/entities/shidaifengjun/"
     },
     "ShiftWorkCircadianHealth": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5921048014 [SCIM5921048014].md",
@@ -188592,9 +188613,16 @@
           "show": "Huberman Lab",
           "title": "Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda",
           "url": "/wiki/sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014/"
+        },
+        {
+          "episode_file": "SCIM4224560223 [SCIM4224560223].md",
+          "key": "scim4224560223-scim4224560223",
+          "show": "Huberman Lab",
+          "title": "How to Defeat Jet Lag, Shift Work & Sleeplessness",
+          "url": "/wiki/sources/scim4224560223-scim4224560223/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/shiftworkcircadianhealth/"
     },
     "ShilajitEvidenceBoundary": {
@@ -190121,9 +190149,9 @@
       "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
     },
     "SleepAnxietyLoop": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 4,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "tech_20260811_0811_MP_TECH_pod_128 [tech_20260811_0811_MP_TECH_pod_128].md",
@@ -190180,15 +190208,22 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: Optimal Nutrition & Supplementation for Fitness",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440/"
+        },
+        {
+          "episode_file": "SCIM4224560223 [SCIM4224560223].md",
+          "key": "scim4224560223-scim4224560223",
+          "show": "Huberman Lab",
+          "title": "How to Defeat Jet Lag, Shift Work & Sleeplessness",
+          "url": "/wiki/sources/scim4224560223-scim4224560223/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/sleepanxietyloop/"
     },
     "SleepArchitectureAcrossLifespan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8589399999 [SCIM8589399999].md",
@@ -190196,9 +190231,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
           "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
+        },
+        {
+          "episode_file": "SCIM4224560223 [SCIM4224560223].md",
+          "key": "scim4224560223-scim4224560223",
+          "show": "Huberman Lab",
+          "title": "How to Defeat Jet Lag, Shift Work & Sleeplessness",
+          "url": "/wiki/sources/scim4224560223-scim4224560223/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/sleeparchitectureacrosslifespan/"
     },
     "SleepAsDailyHealthAccount": {
@@ -190514,9 +190556,9 @@
       "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -190566,9 +190608,16 @@
           "show": "Huberman Lab",
           "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
+        },
+        {
+          "episode_file": "SCIM4224560223 [SCIM4224560223].md",
+          "key": "scim4224560223-scim4224560223",
+          "show": "Huberman Lab",
+          "title": "How to Defeat Jet Lag, Shift Work & Sleeplessness",
+          "url": "/wiki/sources/scim4224560223-scim4224560223/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/sleepsupplementboundary/"
     },
     "SleepTemperatureToolkit": {
@@ -202749,9 +202798,9 @@
       "url": "/wiki/entities/televisionbroadcastslimited/"
     },
     "TemperatureMinimumClockShifting": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -202773,9 +202822,16 @@
           "show": "Huberman Lab",
           "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
+        },
+        {
+          "episode_file": "SCIM4224560223 [SCIM4224560223].md",
+          "key": "scim4224560223-scim4224560223",
+          "show": "Huberman Lab",
+          "title": "How to Defeat Jet Lag, Shift Work & Sleeplessness",
+          "url": "/wiki/sources/scim4224560223-scim4224560223/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/temperatureminimumclockshifting/"
     },
     "TemporaryFamilyHealing": {

@@ -3685,6 +3685,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Optimize Your Learning & Creativity With Science-Based Tools](sources/optimize-your-learning-creativity-with-science-based-tools-scim9141486324.md) — Early Huberman Lab episode on goal-directed plasticity, state-matched learning and creativity, circadian routine design, deep rest, and evidence boundaries.
 - [How to Learn Faster by Using Failures, Movement & Balance](sources/how-to-learn-faster-by-using-failures-movement-balance-scim9872815940.md) — Early Huberman Lab episode on correctable errors, adult neuroplasticity, flow versus learning, arousal regulation, sleep consolidation, and safe vestibular novelty.
 - [How to Focus to Change Your Brain](sources/scim3840916606-scim3840916606.md) — Early Huberman Lab episode on attention-gated adult neuroplasticity, alertness, sensory selection, bounded focus bouts, sleep, and deep-rest consolidation.
+- [How to Defeat Jet Lag, Shift Work & Sleeplessness](sources/scim4224560223-scim4224560223.md) — Early Huberman Lab episode on phase-aware light and temperature timing, travel, shift work, lifespan sleep, de-arousal, supplements, and the limits of adult sleep compression.
 
 ## Entities
 - [Dan Jackson](entities/DanJackson.md) — North East historian connecting railway formation and English regional identity to geography, industry, institutions, language, and culture.

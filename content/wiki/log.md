@@ -29011,3 +29011,11 @@ Added source `18-the-north-south-divide-glt3709184192`; created [[EnglishNorthSo
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | How to Defeat Jet Lag, Shift Work & Sleeplessness
+
+Added source `scim4224560223-scim4224560223`; resynthesized [[TemperatureMinimumClockShifting]], [[CircadianTravelAdaptation]], [[ShiftWorkCircadianHealth]], [[SleepArchitectureAcrossLifespan]], [[AdultPolyphasicSleepEvidenceBoundary]], [[SleepAnxietyLoop]], [[NonSleepDeepRestRecovery]], and [[SleepSupplementBoundary]] from their complete preserved evidence inventories. Core synthesis: light, activity, food, and temperature are phase-dependent cues rather than universally helpful inputs, so travel and shift-work timing should be reasoned from internal biological time while preserving occupational, clinical, and safety limits. The episode's claim that repeated 45-minute sleep blocks can reduce adult sleep need conflicts with later review-based evidence and was retained as source-scoped counterevidence rather than current guidance; exact lux targets, phase windows, daily shift rates, short-trip rules, developmental estimates, supplement mechanisms, and hormone claims also remain source-scoped. Recurring host and show profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,626-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

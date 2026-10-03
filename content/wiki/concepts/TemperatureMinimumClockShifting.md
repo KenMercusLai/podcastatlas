@@ -6,7 +6,8 @@ sources:
   - essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468
   - essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382
   - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
-last_updated: 2026-10-01
+  - scim4224560223-scim4224560223
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ The daily-tools episode uses the same estimate for performance rather than clock
 
 The full-length toolkit adds a schedule-stability boundary for shift work: when possible, remaining on the same shift for roughly two weeks is presented as less disruptive than frequent rotation. That occupational suggestion is not a safety plan and does not establish that workers can accurately infer circadian phase from wake time alone.
 
+The January 2021 episode supplies early provenance for the same model and makes its travel logic explicit: light, exercise, food, and temperature are treated as direction-changing cues rather than universally helpful inputs. It estimates the minimum from three to seven recent wake times and proposes one-to-three-hour daily shifts, but those numerical claims remain planning heuristics rather than measured personal phase or guaranteed adaptation rates.
+
 ## Key Claims
 - Temperature minimum is defined in the source as roughly two hours before typical wake-up time.
 - Bright light, exercise, or caffeine in the two to four hours before temperature minimum tends to delay the clock.
@@ -40,14 +43,14 @@ The full-length toolkit adds a schedule-stability boundary for shift work: when 
 - Applied use - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] applies the rule to travel, early wake-ups, shift work, and night-cycle wakefulness.
 - Performance use - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] uses the estimated minimum to propose a work window while explicitly preserving effective immediate-post-waking work.
 - Shift-work application - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] suggests avoiding rapid shift rotation and keeping one schedule for roughly two weeks when feasible.
+- Early phase-response account - [[scim4224560223-scim4224560223]] uses recent wake times to estimate the low point and applies before-versus-after timing to light, exercise, food, temperature, travel, and night work.
 
 ## Counterevidence & Qualifications
-The sources do not provide a validated individual circadian assessment, occupational safety plan, sleep-disorder treatment, pediatric sleep protocol, productivity trial, or travel medicine guide. The red-light claim, exact timing windows, focus window, and clock-shifting advice remain source-scoped and may not fit people with insomnia, bipolar disorder, medication effects, pregnancy, caregiving constraints, or safety-critical shift work.
+The sources do not provide a validated individual circadian assessment, occupational safety plan, sleep-disorder treatment, pediatric sleep protocol, productivity trial, or travel medicine guide. Wake-time averaging can misestimate circadian phase, especially under irregular schedules. The red-light claim, exact timing windows, one-to-three-hour shift rate, focus window, and clock-shifting advice remain source-scoped and may not fit people with insomnia, bipolar disorder, medication effects, pregnancy, caregiving constraints, or safety-critical shift work.
 
 ## What Changed
-- Added schedule stability as a qualified shift-work application.
-- Preserved the temperature minimum as an estimate rather than an individual circadian measurement.
-- Retained the bounded focus-scheduling use as a planning hypothesis.
+- Added early provenance for estimating the minimum across several recent wake times and coordinating multiple cues.
+- Kept exact phase windows and daily shift rates as source-scoped heuristics rather than validated personal measurements.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent daily timing toolkit.
