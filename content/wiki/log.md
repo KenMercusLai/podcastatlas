@@ -28572,3 +28572,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 49. Food Glorious Food
+
+Added source `49-food-glorious-food-glt7001895639`; created `PenVogler`, `ScoffBook`, and `BritishCuisineHistoricalReputation`; and resynthesized `RoastBeefEnglishIdentity` and `CulinaryNationalism` from their complete preserved evidence inventories. Core synthesis: British food's bad reputation is historically concentrated rather than timeless, while class aspiration, enclosure, industrialization, religion, empire, imported ingredients, literature, and selective memory all shaped what became recognizable as national cuisine. No settled contradiction was adopted. Crop-adoption chronology, livestock weights, enclosure effects, Puritan taste, recipe priority, fasting, meal-name, small-beer, sandwich, and literary-influence claims remain conversational or source-scoped. Recurring hosts, show, and peripheral cited-figure pages were not changed because the episode adds no durable identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,571-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

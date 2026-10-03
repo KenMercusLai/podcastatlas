@@ -4749,6 +4749,13 @@
       "url": "/topics/history/"
     }
   ],
+  "49-food-glorious-food-glt7001895639": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098": [
     {
       "key": "culture",
@@ -71630,6 +71637,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ScoffBook": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ScottBessent": [

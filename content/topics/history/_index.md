@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2478
+topic_total_pages: 2479
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6033,6 +6033,9 @@ topic_sources:
   - key: "489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192"
     title: "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)"
     url: "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
+  - key: "49-food-glorious-food-glt7001895639"
+    title: "49. Food Glorious Food"
+    url: "/wiki/sources/49-food-glorious-food-glt7001895639/"
   - key: "490-hundred-years-war-england-triumphant-part-4-glt2692942762"
     title: "490. Hundred Years' War: England Triumphant (Part 4)"
     url: "/wiki/sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762/"

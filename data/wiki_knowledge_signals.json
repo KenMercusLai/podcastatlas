@@ -26296,6 +26296,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/britishcoupparanoia1974/"
     },
+    "BritishCuisineHistoricalReputation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7001895639 [GLT7001895639].md",
+          "key": "49-food-glorious-food-glt7001895639",
+          "show": "The Rest Is History",
+          "title": "49. Food Glorious Food",
+          "url": "/wiki/sources/49-food-glorious-food-glt7001895639/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/britishcuisinehistoricalreputation/"
+    },
     "BritishDeindustrialization1970s": {
       "episode_count": 2,
       "show_count": 1,
@@ -46628,9 +46644,9 @@
       "url": "/wiki/entities/cuitlahuac/"
     },
     "CulinaryNationalism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5964129806 [GLT5964129806].md",
@@ -46638,9 +46654,16 @@
           "show": "The Rest Is History",
           "title": "286: England: Beef and Liberty",
           "url": "/wiki/sources/286-england-beef-and-liberty-glt5964129806/"
+        },
+        {
+          "episode_file": "GLT7001895639 [GLT7001895639].md",
+          "key": "49-food-glorious-food-glt7001895639",
+          "show": "The Rest Is History",
+          "title": "49. Food Glorious Food",
+          "url": "/wiki/sources/49-food-glorious-food-glt7001895639/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/culinarynationalism/"
     },
     "CulinaryTraditionMythmaking": {
@@ -156511,6 +156534,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/pelvicfloorfunctionmatching/"
     },
+    "PenVogler": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7001895639 [GLT7001895639].md",
+          "key": "49-food-glorious-food-glt7001895639",
+          "show": "The Rest Is History",
+          "title": "49. Food Glorious Food",
+          "url": "/wiki/sources/49-food-glorious-food-glt7001895639/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/penvogler/"
+    },
     "PenalSeverityExecutionTradeoff": {
       "episode_count": 1,
       "show_count": 1,
@@ -175212,9 +175251,9 @@
       "url": "/wiki/concepts/roadarchaeology/"
     },
     "RoastBeefEnglishIdentity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5964129806 [GLT5964129806].md",
@@ -175222,9 +175261,16 @@
           "show": "The Rest Is History",
           "title": "286: England: Beef and Liberty",
           "url": "/wiki/sources/286-england-beef-and-liberty-glt5964129806/"
+        },
+        {
+          "episode_file": "GLT7001895639 [GLT7001895639].md",
+          "key": "49-food-glorious-food-glt7001895639",
+          "show": "The Rest Is History",
+          "title": "49. Food Glorious Food",
+          "url": "/wiki/sources/49-food-glorious-food-glt7001895639/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/roastbeefenglishidentity/"
     },
     "RobbenIsland": {
@@ -180489,6 +180535,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/scipioaemilianus/"
+    },
+    "ScoffBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7001895639 [GLT7001895639].md",
+          "key": "49-food-glorious-food-glt7001895639",
+          "show": "The Rest Is History",
+          "title": "49. Food Glorious Food",
+          "url": "/wiki/sources/49-food-glorious-food-glt7001895639/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/scoffbook/"
     },
     "ScorchedEarthSupplyDenial": {
       "episode_count": 2,

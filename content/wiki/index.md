@@ -3629,6 +3629,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [367-社会改革能带来性别和谐吗？](sources/367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl.md) — 独树不成林 episode using Camille Paglia and 《性面具》 to separate equal rights from total social-construction explanations and examine nature, embodiment, maternity, and the limits of reform.
 - [53. Game of Thrones](sources/53-game-of-thrones-glt6687512105.md) — The Rest Is History on Game of Thrones as influential popular medievalism whose historical layering, modern anxieties, and grim realism remain distinct from medieval social accuracy.
 - [51. Aztecs](sources/51-aztecs-glt9590586130.md) — The Rest Is History episode with Camilla Townsend on Nahuatl evidence, Mexica migration and urban life, sacrifice, conquest myths, and Indigenous survival.
+- [49. Food Glorious Food](sources/49-food-glorious-food-glt7001895639.md) — The Rest Is History with Pen Vogler on British food reputation, class, religion, empire, industrial change, imported tastes, and invented tradition.
 - [50. Teenagers](sources/50-teenagers-glt9697541566.md) — The Rest Is History on adolescence versus the modern teenager, youth institutions, consumer culture, moral panic, generational conflict, and politically diverse rebellion.
 
 ## Entities
@@ -15857,6 +15858,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Camille Paglia / 卡米尔·帕利亚](entities/CamillePaglia.md) — Cultural critic presented through her challenge to total social-construction accounts of gender, sexuality, civilization, and maternity.
 - [《性面具》 / Sexual Personae](entities/SexualPersonae.md) — Paglia work interpreted through nature, sexuality, civilizational order, and maternal embodiment, with its binary psychoanalytic claims kept source-scoped.
 - [Camilla Townsend](entities/CamillaTownsend.md) — Historian using Nahuatl-language evidence to reconstruct Mexica history and challenge conquest myths.
+- [Pen Vogler](entities/PenVogler.md) — Food historian connecting British cuisine to class, religion, agriculture, empire, and historical reputation.
+- [Scoff: A History of Food and Class in Britain](entities/ScoffBook.md) — Pen Vogler's book framing food as evidence for class and social change.
 
 ## Concepts
 - [Pandemic Fiscal Relief Tradeoffs / 疫情财政救济权衡](concepts/PandemicFiscalReliefTradeoffs.md) — Emergency balance among rapid household support, targeting, work incentives, demand, debt, and inflation.
@@ -25395,5 +25398,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fantasy Medieval Realism](concepts/FantasyMedievalRealism.md) — Framework separating grim surface authenticity from historical plausibility grounded in institutions, belief, capacity, norms, and limits.
 - [Nahuatl Post-Conquest Historiography](concepts/NahuatlPostConquestHistoriography.md) — Indigenous-language archive and method joining alphabetic Nahuatl texts to pictorial, archaeological, and linguistic evidence.
 - [Mexica Sacrifice: Religious and Imperial Logics](concepts/MexicaSacrificeReligiousImperialLogic.md) — Framework connecting reciprocal sacred obligation, captive warfare, ritual embodiment, and imperial intimidation without reducing Mexica culture to sacrifice.
+- [British Cuisine as Historical Reputation](concepts/BritishCuisineHistoricalReputation.md) — Periodized account of how class, religion, political economy, empire, and selective memory shape judgments of British food.
 
 ## Syntheses

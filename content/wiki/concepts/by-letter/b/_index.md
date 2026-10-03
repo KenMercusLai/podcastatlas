@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9480
+wiki_total_pages: 9481
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "BritishCoupParanoia1974"
     title: "British Coup Paranoia in 1974"
     url: "/wiki/concepts/britishcoupparanoia1974/"
+  - key: "BritishCuisineHistoricalReputation"
+    title: "British Cuisine as Historical Reputation"
+    url: "/wiki/concepts/britishcuisinehistoricalreputation/"
   - key: "BritishDeindustrialization1970s"
     title: "British Deindustrialization in the 1970s"
     url: "/wiki/concepts/britishdeindustrialization1970s/"
