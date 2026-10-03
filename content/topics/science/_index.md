@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1443
+topic_total_pages: 1444
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4266,6 +4266,9 @@ topic_sources:
   - key: "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744"
     title: "Wake-up haul: an Ozempic moment for the brain"
     url: "/wiki/sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744/"
+  - key: "scim5670648609-scim5670648609"
+    title: "Welcome to the Huberman Lab Podcast"
+    url: "/wiki/sources/scim5670648609-scim5670648609/"
   - key: "why-is-there-a-supplement-craze-if-they-dont-even-work"
     title: "Why is there a supplement craze if they don't even work?"
     url: "/wiki/sources/why-is-there-a-supplement-craze-if-they-dont-even-work/"

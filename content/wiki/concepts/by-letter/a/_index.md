@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9575
+wiki_total_pages: 9577
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2618,6 +2618,9 @@ wiki_pages:
   - key: "AudienceBackedRetailPitch"
     title: "Audience-Backed Retail Pitch"
     url: "/wiki/concepts/audiencebackedretailpitch/"
+  - key: "AudienceResponsiveDeepDivePodcasting"
+    title: "Audience-Responsive Deep-Dive Podcasting"
+    url: "/wiki/concepts/audienceresponsivedeepdivepodcasting/"
   - key: "AudienceVsMeetingDiplomacy"
     title: "Audience-Versus-Meeting Diplomacy / 朝会之别"
     url: "/wiki/concepts/audiencevsmeetingdiplomacy/"

@@ -11902,9 +11902,9 @@
       "url": "/wiki/entities/andrewcarnegie/"
     },
     "AndrewHuberman": {
-      "episode_count": 60,
+      "episode_count": 61,
       "show_count": 1,
-      "source_note_count": 60,
+      "source_note_count": 61,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -12325,9 +12325,16 @@
           "show": "Huberman Lab",
           "title": "How Your Brain Works & Changes",
           "url": "/wiki/sources/how-your-brain-works-changes-scim1534957507/"
+        },
+        {
+          "episode_file": "SCIM5670648609 [SCIM5670648609].md",
+          "key": "scim5670648609-scim5670648609",
+          "show": "Huberman Lab",
+          "title": "Welcome to the Huberman Lab Podcast",
+          "url": "/wiki/sources/scim5670648609-scim5670648609/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrewJohnson": {
@@ -17769,6 +17776,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/audiencebeforeproductmarketing/"
+    },
+    "AudienceResponsiveDeepDivePodcasting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5670648609 [SCIM5670648609].md",
+          "key": "scim5670648609-scim5670648609",
+          "show": "Huberman Lab",
+          "title": "Welcome to the Huberman Lab Podcast",
+          "url": "/wiki/sources/scim5670648609-scim5670648609/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/audienceresponsivedeepdivepodcasting/"
     },
     "AudioPlatformExpansion": {
       "episode_count": 1,
@@ -45419,9 +45442,9 @@
       "url": "/wiki/concepts/costaricancivilwar1948/"
     },
     "CostelloDog": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3392253065 [SCIM3392253065].md",
@@ -45429,9 +45452,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Machines, Creativity & Love | Dr. Lex Fridman",
           "url": "/wiki/sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065/"
+        },
+        {
+          "episode_file": "SCIM5670648609 [SCIM5670648609].md",
+          "key": "scim5670648609-scim5670648609",
+          "show": "Huberman Lab",
+          "title": "Welcome to the Huberman Lab Podcast",
+          "url": "/wiki/sources/scim5670648609-scim5670648609/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/costellodog/"
     },
     "CounselExitAfterNonresponse": {
@@ -100185,9 +100215,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 60,
+      "episode_count": 61,
       "show_count": 1,
-      "source_note_count": 60,
+      "source_note_count": 61,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -100608,9 +100638,16 @@
           "show": "Huberman Lab",
           "title": "How Your Brain Works & Changes",
           "url": "/wiki/sources/how-your-brain-works-changes-scim1534957507/"
+        },
+        {
+          "episode_file": "SCIM5670648609 [SCIM5670648609].md",
+          "key": "scim5670648609-scim5670648609",
+          "show": "Huberman Lab",
+          "title": "Welcome to the Huberman Lab Podcast",
+          "url": "/wiki/sources/scim5670648609-scim5670648609/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HubertHumphrey": {
@@ -184109,6 +184146,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/schoolstorytradition/"
+    },
+    "ScienceBasedToolTaxonomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5670648609 [SCIM5670648609].md",
+          "key": "scim5670648609-scim5670648609",
+          "show": "Huberman Lab",
+          "title": "Welcome to the Huberman Lab Podcast",
+          "url": "/wiki/sources/scim5670648609-scim5670648609/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/sciencebasedtooltaxonomy/"
     },
     "ScienceCommunicationTrustRepair": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9575
+wiki_total_pages: 9577
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "ScienceValueTransmission"
     title: "Science Value Transmission / 科学价值观传入"
     url: "/wiki/concepts/sciencevaluetransmission/"
+  - key: "ScienceBasedToolTaxonomy"
+    title: "Science-Based Tool Taxonomy"
+    url: "/wiki/concepts/sciencebasedtooltaxonomy/"
   - key: "ScienceReligionCivilizationTension"
     title: "Science-Religion Civilization Tension"
     url: "/wiki/concepts/sciencereligioncivilizationtension/"

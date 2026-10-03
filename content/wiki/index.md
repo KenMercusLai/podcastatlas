@@ -29,6 +29,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [31. The Second Reich](sources/31-the-second-reich-glt1008050219.md) — The Rest Is History with Katja Hoyer on Prussia, German nationhood, Bismarckian unification, imperial militarism, industrial power, and retrospective memory.
 - [EP163-被互联网冲击的艺术](sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf.md) — 无时差研究所 conversation on ordinary creative agency, experience-first viewing, curatorial design, provenance, art pricing, conceptual ownership, and internet-era attention.
 - [32. What if?](sources/32-what-if-glt7767131043.md) — The Rest Is History on disciplined counterfactuals, structure and agency, technological context, alternative-history fantasy, and May 1940 as a possible choke point.
+- [Welcome to the Huberman Lab Podcast](sources/scim5670648609-scim5670648609.md) — Launch statement defining the show's science-for-everyday-life mission, month-long topic arcs, audience input, broad tool scope, and Costello's recording presence.
 - [How Foods & Nutrients Control Our Moods](sources/how-foods-nutrients-control-our-moods-scim8271372367.md) — Early Huberman Lab episode on embodied mood, vagal and gut nutrient sensing, neuromodulators, microbiome individuality, and intervention-specific safety boundaries.
 - [33. The Beautiful Game](sources/33-the-beautiful-game-glt5860295083.md) — The Rest Is History with Jonathan Wilson on football's codification, industrial and civic culture, informal-imperial diffusion, Argentine identity, labor rights, media, and women's interrupted tradition.
 - [34. St Cuthbert’s Day](sources/34-st-cuthberts-day-glt9977520388.md) — The Rest Is History on Cuthbert's ascetic life, near-memory hagiography, cross-class Christian appeal, relic cult, pilgrimage wealth, and posthumous political authority.
@@ -5254,7 +5255,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Saguntum / 萨贡托](entities/Saguntum.md) — Iberian city whose disputed alignment and siege trigger the Second Punic War.
 - [Melissa Ilardo](entities/MelissaIlardo.md) — Human-genetics researcher connecting population adaptation, diving physiology, inherited variation, and cultural ecology.
 - [黎医生 / Li Doctor (respiratory and smoking cessation)](entities/LiDoctorSmokingCessation.md) — Source-scoped respiratory guest explaining vaping harms, environmental smoke exposure, and supported smoking cessation.
-- [Costello (Andrew Huberman's dog)](entities/CostelloDog.md) — Huberman's companion dog whose decline, remembered character, and public bond ground the episode's account of care and grief.
+- [Costello (Andrew Huberman's dog)](entities/CostelloDog.md) — Huberman's companion dog, introduced as a steady recording presence and later remembered through care, grief, and a public bond.
 - [Homer (Lex Fridman's dog)](entities/HomerLexFridmanDog.md) — Fridman's Newfoundland companion whose shared life, cancer, euthanasia, and death ground the episode's attachment framework.
 - [Hannibal Barca / 汉尼拔](entities/HannibalBarca.md) — Carthaginian commander whose inherited postwar base and Italian campaign join initiative, alliance politics, deception, and encirclement.
 - [Quintus Fabius Maximus / 昆图斯·费边·马克西姆斯](entities/QuintusFabiusMaximus.md) — Roman dictator who shadows Hannibal, avoids pitched battle, and buys time for recruitment and training.
@@ -7214,8 +7215,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for health, neuroscience, psychology, goal pursuit, sensory biology, endocrine metabolism, sleep-wake timing, exercise, nutrition, AI, relationships, and bounded self-regulation tools.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host connecting biological, motivational, attentional, endocrine, and sensory mechanisms with adaptable routines, goal pursuit, health decisions, and explicit safety boundaries.
+- [Huberman Lab](entities/HubermanLab.md) — Show launched around deep topic arcs, listener input, and science-based tools spanning behavior, biology, technology, and bounded medical interventions.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host connecting sustained science teaching, audience questions, biological mechanisms, practical tools, and explicit safety boundaries.
 - [Lisa Feldman Barrett](entities/LisaFeldmanBarrett.md) — Psychologist and neuroscientist explaining constructed emotion, affect, contextual face inference, granularity, and predictive bodily regulation.
 - [Abud Bakri](entities/AbudBakri.md) — Internal medicine physician and Huberman Lab guest explaining peptide evidence hierarchy, sourcing quality, clinical oversight, GLP-1 maturity, and experimental peptide caution.
 - [Andy Stumpf](entities/AndyStumpf.md) — Huberman Lab guest and Drownproof author connecting concern/influence sorting, small daily discipline, wingsuit risk, vulnerability, and defining enough.
@@ -16000,6 +16001,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Geoffrey of Monmouth](entities/GeoffreyOfMonmouth.md) — Twelfth-century writer whose synthetic British history decisively shaped Arthur and Merlin's medieval profiles.
 
 ## Concepts
+- [Audience-Responsive Deep-Dive Podcasting](concepts/AudienceResponsiveDeepDivePodcasting.md) — Programming model combining sustained topic arcs, multiple episode formats, and listener demand signals without ceding editorial or evidentiary authority.
+- [Science-Based Tool Taxonomy](concepts/ScienceBasedToolTaxonomy.md) — Framework separating behavioral, avoidance, nutritional, supplemental, prescription, interface, and device interventions from evidence or endorsement claims.
 - [Historical Analogy Limits](concepts/HistoricalAnalogyLimits.md) — Method for using a past event as a bounded comparison without turning partial similarity into exact precedent, prediction, or moral equivalence.
 - [Antisemitic Conspiracy Scapegoating](concepts/AntisemiticConspiracyScapegoating.md) — Mechanism that personalizes diffuse systems and crises as coordinated Jewish control and can convert false belief into institutional violence.
 - [Mythic Double Determination](concepts/MythicDoubleDetermination.md) — Framework in which divine intervention and human action remain simultaneous explanations without erasing responsibility or evidence boundaries.
