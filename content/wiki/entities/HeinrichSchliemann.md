@@ -4,7 +4,8 @@ type: entity
 tags: [archaeology, ancient-greece, troy, mycenae]
 sources:
   - 458-helen-of-troy-a-family-of-blood-part-2-glt7255356131
-last_updated: 2026-09-25
+  - 6-troy-glt4742295987
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Heinrich Schliemann was a wealthy businessman and early excavator whose work at 
 
 ## Current Profile
 
-The episode treats Schliemann neither as a simple discoverer nor as a mere fraud. His excavations exposed spectacular material remains, but he interpreted a burned city as Homer's Troy, named a treasure for Priam, linked jewelry to Helen, and associated a Mycenaean gold mask with [[Agamemnon]]. He also embellished his childhood vocation and falsely placed his wife Sophia at the removal of the treasure.
+The sources treat Schliemann neither as a simple discoverer nor as a mere fraud. His excavations exposed spectacular material remains and helped reestablish Hisarlik as archaeological [[Troy]], but his large trenches damaged the site's layered evidence. He interpreted one burned city as Homer's Troy, named a treasure for Priam, linked jewelry to Helen, and associated a Mycenaean gold mask with [[Agamemnon]]. He also embellished his childhood vocation and falsely placed his wife Sophia at the removal of the treasure.
 
 His career is therefore a durable evidence-boundary case: literary conviction can motivate productive inquiry, yet desired identifications can distort chronology, provenance, and historical judgment.
 
@@ -25,12 +26,14 @@ His career is therefore a durable evidence-boundary case: literary conviction ca
 - He used wealth, language ability, and Homeric enthusiasm to pursue large archaeological claims.
 - He publicized finds by attaching them immediately to famous epic names.
 - His excavations materially advanced knowledge even when his identifications failed.
+- His methods damaged archaeological layers even as his discoveries changed the historicity debate.
 - His personal accounts mixed genuine achievement with theatrical or fabricated details.
 - His mistakes helped later archaeology define a more cautious professional distance from heroic legend.
 
 ## Evidence
 
 - Excavation record: [[458-helen-of-troy-a-family-of-blood-part-2-glt7255356131]] follows his work at Hisarlik and Mycenae and the treasures and shaft graves he exposed.
+- Site impact: [[6-troy-glt4742295987]] credits Hisarlik's identification while emphasizing the archaeological damage caused by his extensive digging.
 - Narrative inflation: [[458-helen-of-troy-a-family-of-blood-part-2-glt7255356131]] rejects the Sophia treasure story and questions his childhood-Troy autobiography.
 - Chronological failure: [[458-helen-of-troy-a-family-of-blood-part-2-glt7255356131]] notes that the celebrated Agamemnon mask and burial predate the expected Trojan War horizon by centuries.
 
@@ -38,11 +41,13 @@ His career is therefore a durable evidence-boundary case: literary conviction ca
 
 - This profile follows one podcast's compressed historiographical account and does not adjudicate every dispute about excavation technique, ownership, or authenticity.
 - Finding an archaeological Troy or Mycenaean elite burial does not identify Priam, Helen, or Agamemnon.
+- Broad agreement that Hisarlik is Troy does not vindicate Schliemann's preferred layer or authenticate the Homeric war.
 - Later scholarly caution had evidentiary and political causes; the episode's account of the postwar reaction is itself interpretive.
 
 ## What Changed
 
 - Established Schliemann as a mixed case of real discovery, premature Homeric identification, and self-authored public legend.
+- Added the tension between Hisarlik's durable identification and the evidentiary loss caused by his excavation method.
 
 ## Relationships
 
@@ -51,3 +56,4 @@ His career is therefore a durable evidence-boundary case: literary conviction ca
 - [[HelenOfTroy]] - epic figure whose name Schliemann used to narrate treasure and his own domestic life.
 - [[HomericBronzeAgeMemory]] - question his discoveries reopened without resolving at the level of named individuals.
 - [[MythAsHistoricalEvidence]] - evidence boundary his career both productively explores and repeatedly violates.
+- [[Troy]] - layered site his work made famous while also damaging its archaeological record.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12256
+wiki_total_pages: 12257
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1178,6 +1178,9 @@ wiki_pages:
   - key: "TrojanHorse"
     title: "Trojan Horse"
     url: "/wiki/entities/trojanhorse/"
+  - key: "Troy"
+    title: "Troy"
+    url: "/wiki/entities/troy/"
   - key: "TrumpMediaAndTechnologyGroup"
     title: "Trump Media And Technology Group"
     url: "/wiki/entities/trumpmediaandtechnologygroup/"

@@ -93937,9 +93937,9 @@
       "url": "/wiki/entities/heinrichhimmler/"
     },
     "HeinrichSchliemann": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7255356131 [GLT7255356131].md",
@@ -93947,9 +93947,16 @@
           "show": "The Rest Is History",
           "title": "458. Helen of Troy: A Family of Blood (Part 2)",
           "url": "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
+        },
+        {
+          "episode_file": "GLT4742295987 [GLT4742295987].md",
+          "key": "6-troy-glt4742295987",
+          "show": "The Rest Is History",
+          "title": "6. Troy",
+          "url": "/wiki/sources/6-troy-glt4742295987/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/heinrichschliemann/"
     },
     "HeirSupportThreatPerception": {
@@ -97606,9 +97613,9 @@
       "url": "/wiki/concepts/homericadaptationmodernization/"
     },
     "HomericBronzeAgeMemory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7255356131 [GLT7255356131].md",
@@ -97616,9 +97623,16 @@
           "show": "The Rest Is History",
           "title": "458. Helen of Troy: A Family of Blood (Part 2)",
           "url": "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
+        },
+        {
+          "episode_file": "GLT4742295987 [GLT4742295987].md",
+          "key": "6-troy-glt4742295987",
+          "show": "The Rest Is History",
+          "title": "6. Troy",
+          "url": "/wiki/sources/6-troy-glt4742295987/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/homericbronzeagememory/"
     },
     "HomericFantasyGeography": {
@@ -146876,9 +146890,9 @@
       "url": "/wiki/concepts/mysterynarrativeoverfitting/"
     },
     "MythicAndMaterialWarCausation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7058693674 [GLT7058693674].md",
@@ -146886,9 +146900,16 @@
           "show": "The Rest Is History",
           "title": "457. Helen of Troy: Queen of the Greek Myths (Part 1)",
           "url": "/wiki/sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674/"
+        },
+        {
+          "episode_file": "GLT4742295987 [GLT4742295987].md",
+          "key": "6-troy-glt4742295987",
+          "show": "The Rest Is History",
+          "title": "6. Troy",
+          "url": "/wiki/sources/6-troy-glt4742295987/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/mythicandmaterialwarcausation/"
     },
     "MythicBiographySourceCaution": {
@@ -209828,6 +209849,38 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/trojanhorse/"
+    },
+    "TrojanWarCulturalAfterlife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4742295987 [GLT4742295987].md",
+          "key": "6-troy-glt4742295987",
+          "show": "The Rest Is History",
+          "title": "6. Troy",
+          "url": "/wiki/sources/6-troy-glt4742295987/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/trojanwarculturalafterlife/"
+    },
+    "Troy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4742295987 [GLT4742295987].md",
+          "key": "6-troy-glt4742295987",
+          "show": "The Rest Is History",
+          "title": "6. Troy",
+          "url": "/wiki/sources/6-troy-glt4742295987/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/troy/"
     },
     "TrueButEvasiveRemonstrance": {
       "episode_count": 1,

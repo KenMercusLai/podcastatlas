@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-04] ingest | 6. Troy
+
+Added source `6-troy-glt4742295987`; created [[Troy]] and [[TrojanWarCulturalAfterlife]]; and resynthesized [[HomericBronzeAgeMemory]], [[MythicAndMaterialWarCausation]], and [[HeinrichSchliemann]] from their complete preserved evidence inventories. Core synthesis: Hisarlik, strategic geography, and possible Hittite correspondences give Homeric tradition a plausible Bronze Age setting without verifying the epic war, while Troy's firmer legacy lies in its repeated reuse for ancestry, geopolitical performance, victim-centered tragedy, modern war memory, and film. No settled contradiction was adopted. Hittite name equations, trade-route causation, exact ancient and medieval transmission, ancestry claims, world-war comparisons, and broad claims about Christian or modern sympathy remain qualified, interpretive, or source-scoped. Recurring host and Homeric-character pages were not changed where the episode added reception provenance rather than a durable profile revision. The automatic `wiki/overview.md` was read for context and not manually rewritten because the later dedicated Troy and Helen sources already carry the topic's global synthesis. The downstream manifest and paragraph ledger were refreshed to 3,642-source coverage; no topic claim set was dirty and global compaction was not due.
+
 ## [2026-10-04] ingest | Welcome to the Huberman Lab Podcast
 
 Added source `scim5670648609-scim5670648609`; created [[AudienceResponsiveDeepDivePodcasting]] and [[ScienceBasedToolTaxonomy]]; and resynthesized [[AndrewHuberman]], [[HubermanLab]], and [[CostelloDog]] from their preserved evidence inventories. Core synthesis: the launch episode defines an editorial architecture rather than a scientific protocol—month-long topic arcs, solo and guest formats, listener demand signals, and a broad tool scope whose inclusion does not establish efficacy, safety, or individual suitability. No settled contradiction was adopted. The proposed monthly cadence and audience voting remain launch intentions rather than a verified account of every later release, and the episode supplies no detailed scientific evidence. The automatic `wiki/overview.md` was read for context and not manually rewritten because this short orientation did not warrant a new global synthesis paragraph. The downstream manifest and paragraph ledger were refreshed to 3,637-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide scanner retains 19 unrelated pre-existing broken wikilinks.
@@ -29135,6 +29139,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] ingest | 7. The Lessons of History
 
 Added source `7-the-lessons-of-history-glt2771707131`; created [[HistoricalLearningWithoutPrediction]] and [[Thucydides]]; and resynthesized [[HistoricalAnalogyLimits]], [[Herodotus]], and [[PeterTurchin]] from their complete evidence inventories. Core synthesis: history can widen perspective, surface inherited constraints, and discipline judgment without supplying universal formulas or certain forecasts. Munich, appeasement, great-power rivalry, geography, social cycles, and predictive models remain useful only when mechanism, context, evidence, and disanalogy stay explicit. No settled contradiction was adopted; aphorism attribution, cyclic patterns, forecasts, geographic claims, and compressed political examples remain source-scoped.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-04] lint | Wiki health check
 

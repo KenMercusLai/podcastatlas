@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2538
+topic_total_pages: 2540
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2435,6 +2435,9 @@ topic_entities:
   - key: "TrinityNuclearTest"
     title: "Trinity Nuclear Test"
     url: "/wiki/entities/trinitynucleartest/"
+  - key: "Troy"
+    title: "Troy"
+    url: "/wiki/entities/troy/"
   - key: "Tutankhamun"
     title: "Tutankhamun"
     url: "/wiki/entities/tutankhamun/"
@@ -6396,6 +6399,9 @@ topic_sources:
   - key: "59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469"
     title: "59.克里特岛：阳光、海龟、神话和二战战场"
     url: "/wiki/sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469/"
+  - key: "6-troy-glt4742295987"
+    title: "6. Troy"
+    url: "/wiki/sources/6-troy-glt4742295987/"
   - key: "60-muhammad-glt7621065751"
     title: "60. Muhammad"
     url: "/wiki/sources/60-muhammad-glt7621065751/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9583
+wiki_total_pages: 9584
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "TripartiteBalanceStrategy"
     title: "Tripartite Balance Strategy / 三分天下式制衡"
     url: "/wiki/concepts/tripartitebalancestrategy/"
+  - key: "TrojanWarCulturalAfterlife"
+    title: "Trojan War Cultural Afterlife"
+    url: "/wiki/concepts/trojanwarculturalafterlife/"
   - key: "TroupeDisciplineAsIdentityFormation"
     title: "Troupe Discipline As Identity Formation"
     url: "/wiki/concepts/troupedisciplineasidentityformation/"

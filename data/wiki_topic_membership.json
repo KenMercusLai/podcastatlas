@@ -5628,6 +5628,13 @@
       "url": "/topics/science/"
     }
   ],
+  "6-troy-glt4742295987": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "60-muhammad-glt7621065751": [
     {
       "key": "history",
@@ -83170,6 +83177,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Troy": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "TrueEducationKDrama": [

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [6. Troy](sources/6-troy-glt4742295987.md) — The Rest Is History on Troy's qualified Bronze Age setting, rival war explanations, tragic victimhood, political ancestry, modern war memory, and film.
 - [7. The Lessons of History](sources/7-the-lessons-of-history-glt2771707131.md) — The Rest Is History on historical analogy, recurring pressures, geography, prediction limits, and humility without universal formulas.
 - [8. The Echo of a Coffee House](sources/8-the-echo-of-a-coffee-house-glt8695060101.md) — The Rest Is History on Reformation print, social-media amplification, culture wars, vocal minorities, archival visibility, and the conditions for durable moral change.
 - [9. Causes of the First World War](sources/9-causes-of-the-first-world-war-glt8234482474.md) — The Rest Is History on fear, preventive-war logic, alliances, mobilisation, imperial strategy, Britain's contingent entry, and counterfactual neutrality.
@@ -3703,6 +3704,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [10. Christmas](sources/10-christmas-glt9855064623.md) — The Rest Is History survey of Nativity chronology, early feast dating, public festivity, Puritan suppression, Victorian domestic reinvention, Santa Claus, commerce, and the 1914 truce.
 
 ## Entities
+- [Troy](entities/Troy.md) — Bronze Age site and epic city whose archaeology, strategic setting, political appropriation, and victim-centered afterlife must be kept distinct.
 - [Popish Plot](entities/PopishPlot.md) — Fabricated Catholic assassination plot whose political crisis and institutional exclusions outlived exposure of the fraud.
 - [Titus Oates](entities/TitusOates.md) — Popish Plot accuser illustrating how a narrow accurate detail can lend rhetorical force to a much larger false claim.
 - [Stephen Fry](entities/StephenFry.md) — Writer, actor, comedian, and Greek-myth reteller whose Troy method preserves ambiguity, ancient difference, emotional restraint, and layered divine-human causation.
@@ -16007,6 +16009,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Santa Claus](entities/SantaClaus.md) — Hybrid Christmas gift-giver shaped by Saint Nicholas, Dutch-American literature, English Father Christmas, and domestic festival culture.
 
 ## Concepts
+- [Trojan War Cultural Afterlife](concepts/TrojanWarCulturalAfterlife.md) — Framework joining Troy's ancestral, geopolitical, tragic, war-memory, and cinematic reuse without treating reception as event proof.
 - [Audience-Responsive Deep-Dive Podcasting](concepts/AudienceResponsiveDeepDivePodcasting.md) — Programming model combining sustained topic arcs, multiple episode formats, and listener demand signals without ceding editorial or evidentiary authority.
 - [Science-Based Tool Taxonomy](concepts/ScienceBasedToolTaxonomy.md) — Framework separating behavioral, avoidance, nutritional, supplemental, prescription, interface, and device interventions from evidence or endorsement claims.
 - [Historical Analogy Limits](concepts/HistoricalAnalogyLimits.md) — Method for using a past event as a bounded comparison without turning partial similarity into exact precedent, prediction, or moral equivalence.
