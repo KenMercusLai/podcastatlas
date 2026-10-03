@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2477
+topic_total_pages: 2478
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6072,6 +6072,9 @@ topic_sources:
   - key: "499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726"
     title: "499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)"
     url: "/wiki/sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726/"
+  - key: "50-teenagers-glt9697541566"
+    title: "50. Teenagers"
+    url: "/wiki/sources/50-teenagers-glt9697541566/"
   - key: "500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317"
     title: "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)"
     url: "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"

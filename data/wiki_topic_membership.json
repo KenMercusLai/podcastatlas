@@ -4854,6 +4854,13 @@
       "url": "/topics/history/"
     }
   ],
+  "50-teenagers-glt9697541566": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317": [
     {
       "key": "history",
@@ -79483,6 +79490,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "TeenagerHistoricalIdentity": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Telangana": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9474
+wiki_total_pages: 9475
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "TeenChatbotMentalHealthRisk"
     title: "Teen Chatbot Mental Health Risk"
     url: "/wiki/concepts/teenchatbotmentalhealthrisk/"
+  - key: "TeenagerHistoricalIdentity"
+    title: "Teenager as Historical Identity"
+    url: "/wiki/concepts/teenagerhistoricalidentity/"
   - key: "TelosCrisis"
     title: "Telos Crisis / 目的危机"
     url: "/wiki/concepts/teloscrisis/"

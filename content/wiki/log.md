@@ -28556,3 +28556,11 @@ Added source `scim5512858918-scim5512858918` and resynthesized `Thermoregulation
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 50. Teenagers
+
+Added source `50-teenagers-glt9697541566`; created `TeenagerHistoricalIdentity`; and resynthesized `PostwarTeenageConsumerMarket` from its complete preserved evidence inventory. Core synthesis: adolescence and coming of age long predate the teenager as a named, self-conscious identity; Victorian youth institutions, interwar music and playback, 1940s American media, disposable income, and targeted consumption gradually made that identity legible and scalable, with girls central to its economic and cultural formation. No settled contradiction was adopted. The 1944 word-origin claim, period boundaries, consumer causation, ancient and modern comparisons, political generalizations, behavioral trends, and the proposed decline of classic youth tribes remain broad or source-scoped. Recurring host, show, and cited-figure pages were not changed because the episode adds no durable identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,569-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

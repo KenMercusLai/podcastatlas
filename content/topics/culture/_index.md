@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3075
+topic_total_pages: 3076
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2929,6 +2929,9 @@ topic_concepts:
   - key: "TechnologyAmbivalenceFireSignal"
     title: "Technology Ambivalence in Fire and Signal / 火与信号的技术双重性"
     url: "/wiki/concepts/technologyambivalencefiresignal/"
+  - key: "TeenagerHistoricalIdentity"
+    title: "Teenager as Historical Identity"
+    url: "/wiki/concepts/teenagerhistoricalidentity/"
   - key: "TemporaryFamilyHealing"
     title: "Temporary Family Healing / 临时家庭式修复"
     url: "/wiki/concepts/temporaryfamilyhealing/"

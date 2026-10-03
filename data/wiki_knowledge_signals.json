@@ -162718,9 +162718,9 @@
       "url": "/wiki/concepts/postwarmangamemoryandculturalexport/"
     },
     "PostwarTeenageConsumerMarket": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT1663902020 [GLT1663902020].md",
@@ -162756,6 +162756,13 @@
           "show": "The Rest Is History",
           "title": "91. The Beatles",
           "url": "/wiki/sources/91-the-beatles-glt5767145023/"
+        },
+        {
+          "episode_file": "GLT9697541566 [GLT9697541566].md",
+          "key": "50-teenagers-glt9697541566",
+          "show": "The Rest Is History",
+          "title": "50. Teenagers",
+          "url": "/wiki/sources/50-teenagers-glt9697541566/"
         }
       ],
       "updated": "2026-10-03",
@@ -198849,6 +198856,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/tedvallance/"
+    },
+    "TeenagerHistoricalIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9697541566 [GLT9697541566].md",
+          "key": "50-teenagers-glt9697541566",
+          "show": "The Rest Is History",
+          "title": "50. Teenagers",
+          "url": "/wiki/sources/50-teenagers-glt9697541566/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/teenagerhistoricalidentity/"
     },
     "Telemachus": {
       "episode_count": 1,

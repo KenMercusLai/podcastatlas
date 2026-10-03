@@ -3628,6 +3628,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [367-社会改革能带来性别和谐吗？](sources/367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl.md) — 独树不成林 episode using Camille Paglia and 《性面具》 to separate equal rights from total social-construction explanations and examine nature, embodiment, maternity, and the limits of reform.
 - [53. Game of Thrones](sources/53-game-of-thrones-glt6687512105.md) — The Rest Is History on Game of Thrones as influential popular medievalism whose historical layering, modern anxieties, and grim realism remain distinct from medieval social accuracy.
 - [51. Aztecs](sources/51-aztecs-glt9590586130.md) — The Rest Is History episode with Camilla Townsend on Nahuatl evidence, Mexica migration and urban life, sacrifice, conquest myths, and Indigenous survival.
+- [50. Teenagers](sources/50-teenagers-glt9697541566.md) — The Rest Is History on adolescence versus the modern teenager, youth institutions, consumer culture, moral panic, generational conflict, and politically diverse rebellion.
 
 ## Entities
 - [Paul Lay](entities/PaulLay.md) — Historian interpreting Cromwell through constitutional change, religious conviction, Irish atrocity, evidentiary caution, and later myth.
@@ -17278,6 +17279,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Self-Directed State Shifting](concepts/SelfDirectedStateShifting.md) — Proactive and reactive practices for changing state without relying on the addictive object.
 - [Manufactured Rebellion Branding](concepts/ManufacturedRebellionBranding.md) — Deliberate construction of oppositional identity through appearance, behavior, publicity, and contrast with a respectable competitor.
 - [Postwar Teenage Consumer Market](concepts/PostwarTeenageConsumerMarket.md) — Youth market formed through discretionary income, leisure venues, media, playback technology, and shared generational identity.
+- [Teenager as Historical Identity](concepts/TeenagerHistoricalIdentity.md) — Distinction between recurring adolescence and a modern identity organized through markets, media, style, and generational difference.
 - [Popular Music as Cultural Transmission](concepts/PopularMusicAsCulturalTransmission.md) — Process by which songs, performance, celebrity, and repetition carry cultural assumptions beyond formal intellectual debate.
 - [Celebrity Folk-Devil Moral Panic](concepts/CelebrityFolkDevilMoralPanic.md) — Process by which a famous target condenses wider fears and may reshape how a stigmatized identity is publicly imagined.
 - [Pop-to-Album-Rock Transition](concepts/PopToAlbumRockTransition.md) — Late-1960s shift toward serious listening, albums, virtuosity, adult identity, and higher-value rock markets.
