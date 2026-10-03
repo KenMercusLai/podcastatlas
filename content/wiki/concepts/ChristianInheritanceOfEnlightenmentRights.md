@@ -5,6 +5,7 @@ tags: [christianity, enlightenment, human-rights, intellectual-history]
 sources:
   - 480-the-french-revolution-the-rights-of-man-part-6-glt8413639265
   - 86-the-enlightenment-glt8077157127
+  - 46-culture-wars-glt4237848862
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-03
 ---
@@ -21,6 +22,8 @@ The French Revolution source uses [[Voltaire|Voltaire's]] Calas campaign, Paulin
 
 The most useful synthesis is continuity without identity. Secular reform can preserve inherited moral assumptions and symbolic forms while competing with Churches institutionally and revising doctrine substantially. Christian inheritance is one input into Enlightenment universalism, not proof of exclusive Christian origin or institutional ownership.
 
+[[46-culture-wars-glt4237848862]] extends the same qualified genealogy into modern symbolic politics. Its strongest contribution is not the claim that every culture conflict is secretly Christian, but that progress, emancipation, purification, concern for victims, and universal moral judgment can remain structurally Christian after explicit doctrine or Church allegiance recedes. That continuity helps explain why Christians and progressives can appear as opponents while sharing parts of the same moral vocabulary.
+
 ## Key Claims
 
 - Secular moral arguments can preserve assumptions inherited from traditions they criticize.
@@ -29,6 +32,7 @@ The most useful synthesis is continuity without identity. Secular reform can pre
 - Revolutionary sacred language shows continuity of form without proving continuity of doctrine or authority.
 - Enlightenment and Church conflict can involve rival universal orders rather than a simple reason-versus-belief divide.
 - Universal mission can support emancipation while also encouraging conversion-like or colonial export.
+- Shared inheritance can intensify conflict when rival camps use overlapping moral concepts to reach incompatible judgments about tradition and reform.
 
 ## Evidence
 
@@ -45,17 +49,23 @@ The most useful synthesis is continuity without identity. Secular reform can pre
 
 - [[86-the-enlightenment-glt8077157127]] describes religious plurality, civil-religion projects, and Christian-like universal ambition within a culturally specific European movement.
 
+### Modern moral and political afterlife
+
+- [[46-culture-wars-glt4237848862]] connects progress, civil rights, abolition, sexuality, statues, and moral purification to a contested post-Christian culture-war grammar.
+
 ## Counterevidence & Qualifications
 
 - The sources present an interpretive genealogy rather than proof of exclusive Christian origin.
 - Classical philosophy, Roman law, Islamic and cross-cultural transmission, scientific practice, commerce, political conflict, and American precedent also shaped Enlightenment and revolutionary thought.
 - Borrowing symbols does not establish doctrinal agreement, and institutional Christianity participated in censorship and persecution criticized by reformers.
 - Genealogical continuity does not make every Enlightenment thinker religious or every later universalist export a Christian project.
+- The culture-war episode is British-American and Christian-centered; it does not establish that moral progress, universalism, or symbolic conflict lack non-Christian genealogies.
 
 ## What Changed
 
 - Broadened the rights genealogy into light imagery, reform structure, civil religion, and universal mission.
 - Preserved institutional rivalry and non-Christian inputs as explicit limits.
+- Extended the genealogy into modern culture-war conflict while retaining continuity-without-identity and non-exclusive-causation limits.
 
 ## Related Concepts
 
@@ -65,3 +75,4 @@ The most useful synthesis is continuity without identity. Secular reform can pre
 - [[DeclarationOfRightsOfManAndCitizen]] - rights document anchoring the revolutionary argument.
 - [[UniversalRightsNationalSovereigntyTension]] - political tension inside the universal claim.
 - [[RevolutionaryRomanism]] - classical vocabulary that replaced or supplemented Christian public forms.
+- [[CultureWarHistoricalGenealogy]] - modern political extension of inherited progress, purification, and universal moral language.

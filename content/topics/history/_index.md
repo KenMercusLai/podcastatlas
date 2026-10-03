@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2481
+topic_total_pages: 2482
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5946,6 +5946,9 @@ topic_sources:
   - key: "459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704"
     title: "459. The Suit, Savile Row, and Smartly Dressed Men"
     url: "/wiki/sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704/"
+  - key: "46-culture-wars-glt4237848862"
+    title: "46. Culture Wars"
+    url: "/wiki/sources/46-culture-wars-glt4237848862/"
   - key: "460-the-empress-of-the-apocalypse-glt9103397168"
     title: "460. The Empress of the Apocalypse"
     url: "/wiki/sources/460-the-empress-of-the-apocalypse-glt9103397168/"

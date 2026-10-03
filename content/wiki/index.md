@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [46. Culture Wars](sources/46-culture-wars-glt4237848862.md) — The Rest Is History on recurring identity conflict, post-Christian moral genealogy, symbolic politics, institutional change, and pluralist containment.
 - [47. The Seven Years' War](sources/47-the-seven-years-war-glt8800494407.md) — The Rest Is History with Dan Snow on the conflict's global theaters, Britain's fiscal-military and naval capacity, imperial expansion, slavery and Company corruption, and revolutionary blowback.
 - [EP170-一个非典型金融女博士的自述](sources/ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb.md) — 无时差研究所 conversation on doctoral training, long-cycle finance research, career alignment, fund-manager agency conflicts, gender labels, and doctoral-student isolation.
 - [48. The French Revolution](sources/48-the-french-revolution-glt2092335857.md) — The Rest Is History overview of the Revolution as contingent escalation from fiscal and subsistence crisis through rights, war, regicide, terror, reaction, and Napoleonic order.
@@ -3638,6 +3639,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Control Your Metabolism by Thyroid & Growth Hormone](sources/scim2147325995-scim2147325995.md) — Full-length Huberman Lab episode on thyroid-axis nutrient sufficiency, cellular metabolism, slow-wave-sleep-linked growth hormone, exercise, amino-acid pathways, heat, and medical safety boundaries.
 
 ## Entities
+- [Symmachus](entities/Symmachus.md) — Late Roman senator represented through his toleration argument for restoring the Altar of Victory.
+- [Ambrose of Milan](entities/AmbroseOfMilan.md) — Late Roman bishop represented through his refusal to compromise over pagan sacrifice and the Altar of Victory.
 - [Dan Snow](entities/DanSnow.md) — Historian and broadcaster interpreting the Seven Years' War through global conflict, institutional capacity, imperial memory, and political blowback.
 - [靖靖 / Jingjing (finance PhD)](entities/JingjingFinancePhD.md) — Partially identified EP170 guest connecting finance doctoral training, research practice, career choice, credential boundaries, and student wellbeing.
 - [Paul Lay](entities/PaulLay.md) — Historian interpreting Cromwell through constitutional change, religious conviction, Irish atrocity, evidentiary caution, and later myth.
@@ -3915,7 +3918,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anatoly Sobchak](entities/AnatolySobchak.md) — St. Petersburg mayor and constitutional contributor who served as Vladimir Putin's professor, patron, and political superior.
 - [Boris Yeltsin](entities/BorisYeltsin.md) — Post-Soviet Russian president linking rapid market transition, executive concentration, oligarchic power, Chechen war, and Putin's succession.
 - [Yegor Gaidar](entities/YegorGaidar.md) — Russian reformer associated with rapid price liberalization and the social and political backlash to shock therapy.
-- [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian and children’s-history author connecting political interpretation to reader-tested narrative, moral signaling, and qualified myth.
+- [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian connecting political identity and consequence to symbolic conflict, reader-tested narrative, moral signaling, and qualified myth.
 - [Adventures in Time](entities/AdventuresInTime.md) — Dominic Sandbrook’s children’s-history series using narrative momentum, vivid detail, reader testing, and ethical restraint.
 - [Peter Pomerantsev](entities/PeterPomerantsev.md) — Author whose work supplies the episode's framework for managed media, staged opposition, and destabilized political reality.
 - [Ferdinand Maximilian](entities/FerdinandMaximilian.md) — Liberal Habsburg archduke whose foreign-backed Mexican throne ended at Queretaro in 1867.
@@ -3951,7 +3954,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Francis Young](entities/FrancisYoung.md) — Historian distinguishing occult legitimation, advice, propaganda, decision failure, and security response in British politics.
 - [Merlin](entities/Merlin.md) — Legendary British prophet and royal adviser whose political afterlife shaped rebellion, kingship, and later learned self-fashioning.
 - [Helen Duncan](entities/HelenDuncan.md) — Wartime medium whose seances became a possible information-leakage and public-order concern.
-- [Tom Holland](entities/TomHolland.md) — Historian using graduated-confidence reconstruction across sacred biography, ancient moral change, modern propaganda, and war.
+- [Tom Holland](entities/TomHolland.md) — Historian using graduated-confidence reconstruction and Christian moral genealogy across sacred biography, culture war, propaganda, and war.
 - [Henry Tricks](entities/HenryTricks.md) — Technology editor framing smart glasses through bystander suspicion, misuse, phone dependence, and their possible role as AI-agent interfaces.
 - [Simon Garfield](entities/SimonGarfield.md) — Author of The Pen, used by the episode to connect writing instruments, material constraints, mass production, and cultural status.
 - [Judean Revolt, 66-73 CE](entities/JudeanRevolt66To73.md) — Divided provincial rebellion whose defeat destroyed Jerusalem's Temple and acquired an exceptional religious and political afterlife.
@@ -15869,6 +15872,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scoff: A History of Food and Class in Britain](entities/ScoffBook.md) — Pen Vogler's book framing food as evidence for class and social change.
 
 ## Concepts
+- [Culture War Historical Genealogy](concepts/CultureWarHistoricalGenealogy.md) — Framework separating recurring symbolic-identity conflict from the modern Western moral grammar of progress, purification, and tradition.
 - [Fiscal-Military State](concepts/FiscalMilitaryState.md) — State capacity that converts taxation, public credit, borrowing, subsidy, logistics, and supply into sustained military power.
 - [Doctoral Training and Career Alignment / 博士培养与职业对齐](concepts/DoctoralTrainingCareerAlignment.md) — Aligning degree timing and preparation with academic, industry, public-sector, or other intended work.
 - [Long-Cycle Social-Science Research / 社会科学长周期研究](concepts/LongCycleSocialScienceResearch.md) — Research pipeline from question, data, and replication through feedback, revision, publication, or abandonment.

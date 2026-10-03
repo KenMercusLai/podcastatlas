@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12185
+wiki_total_pages: 12187
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -959,6 +959,9 @@ wiki_pages:
   - key: "AmberReeves"
     title: "Amber Reeves / 安伯·里夫斯"
     url: "/wiki/entities/amberreeves/"
+  - key: "AmbroseOfMilan"
+    title: "Ambrose of Milan"
+    url: "/wiki/entities/ambroseofmilan/"
   - key: "AMCTheatres"
     title: "AMC Theatres"
     url: "/wiki/entities/amctheatres/"

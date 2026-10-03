@@ -10545,6 +10545,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/ambientvoiceagentinterface/"
     },
+    "AmbroseOfMilan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4237848862 [GLT4237848862].md",
+          "key": "46-culture-wars-glt4237848862",
+          "show": "The Rest Is History",
+          "title": "46. Culture Wars",
+          "url": "/wiki/sources/46-culture-wars-glt4237848862/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/ambroseofmilan/"
+    },
     "AmericanCivilWar": {
       "episode_count": 4,
       "show_count": 1,
@@ -37355,9 +37371,9 @@
       "url": "/wiki/entities/christiandior/"
     },
     "ChristianInheritanceOfEnlightenmentRights": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8413639265 [GLT8413639265].md",
@@ -37372,6 +37388,13 @@
           "show": "The Rest Is History",
           "title": "86. The Enlightenment",
           "url": "/wiki/sources/86-the-enlightenment-glt8077157127/"
+        },
+        {
+          "episode_file": "GLT4237848862 [GLT4237848862].md",
+          "key": "46-culture-wars-glt4237848862",
+          "show": "The Rest Is History",
+          "title": "46. Culture Wars",
+          "url": "/wiki/sources/46-culture-wars-glt4237848862/"
         }
       ],
       "updated": "2026-10-03",
@@ -46928,6 +46951,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/culturereviewtvreportformat/"
     },
+    "CultureWarHistoricalGenealogy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4237848862 [GLT4237848862].md",
+          "key": "46-culture-wars-glt4237848862",
+          "show": "The Rest Is History",
+          "title": "46. Culture Wars",
+          "url": "/wiki/sources/46-culture-wars-glt4237848862/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/culturewarhistoricalgenealogy/"
+    },
     "CumulativeRiverValleyDevelopmentRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -54834,9 +54873,9 @@
       "url": "/wiki/entities/dominicmiarten/"
     },
     "DominicSandbrook": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4575290976 [GLT4575290976].md",
@@ -54858,6 +54897,13 @@
           "show": "The Rest Is History",
           "title": "70. Children’s History",
           "url": "/wiki/sources/70-childrens-history-glt3229015713/"
+        },
+        {
+          "episode_file": "GLT4237848862 [GLT4237848862].md",
+          "key": "46-culture-wars-glt4237848862",
+          "show": "The Rest Is History",
+          "title": "46. Culture Wars",
+          "url": "/wiki/sources/46-culture-wars-glt4237848862/"
         }
       ],
       "updated": "2026-10-03",
@@ -196746,6 +196792,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/symbolicstatusdowngradebackfire/"
     },
+    "Symmachus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4237848862 [GLT4237848862].md",
+          "key": "46-culture-wars-glt4237848862",
+          "show": "The Rest Is History",
+          "title": "46. Culture Wars",
+          "url": "/wiki/sources/46-culture-wars-glt4237848862/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/symmachus/"
+    },
     "SymptomDrivenSpineCare": {
       "episode_count": 5,
       "show_count": 2,
@@ -203522,9 +203584,9 @@
       "url": "/wiki/entities/tomhanks/"
     },
     "TomHolland": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT5186420966 [GLT5186420966].md",
@@ -203553,6 +203615,13 @@
           "show": "The Rest Is History",
           "title": "60. Muhammad",
           "url": "/wiki/sources/60-muhammad-glt7621065751/"
+        },
+        {
+          "episode_file": "GLT4237848862 [GLT4237848862].md",
+          "key": "46-culture-wars-glt4237848862",
+          "show": "The Rest Is History",
+          "title": "46. Culture Wars",
+          "url": "/wiki/sources/46-culture-wars-glt4237848862/"
         }
       ],
       "updated": "2026-10-03",

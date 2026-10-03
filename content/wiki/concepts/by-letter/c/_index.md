@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9486
+wiki_total_pages: 9487
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2768,6 +2768,9 @@ wiki_pages:
   - key: "CulturalPreservationColony"
     title: "Cultural-Preservation Colony"
     url: "/wiki/concepts/culturalpreservationcolony/"
+  - key: "CultureWarHistoricalGenealogy"
+    title: "Culture War Historical Genealogy"
+    url: "/wiki/concepts/culturewarhistoricalgenealogy/"
   - key: "CultureLedFoodAdoption"
     title: "Culture-Led Food Adoption"
     url: "/wiki/concepts/cultureledfoodadoption/"

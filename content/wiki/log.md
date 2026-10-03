@@ -28620,3 +28620,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 46. Culture Wars
+
+Added the episode's competing broad and post-Christian definitions of culture war, the Altar of Victory toleration-versus-purification case, institutional and generational change mechanisms, and pluralist containment. Created the central genealogy concept and source-bounded Symmachus and Ambrose profiles; updated Dominic Sandbrook, Tom Holland, Christian moral inheritance, the index, and the living overview. The downstream manifest and paragraph ledger were refreshed to 3,577-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
