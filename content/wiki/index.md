@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [16. Pompeii](sources/16-pompeii-glt3349011345.md) — The Rest Is History with Sophie Hay on Pompeii as a layered city, archaeological interpretation, conservation, everyday life, and the disputed eruption date.
 - [17. Fascism](sources/17-fascism-glt5738760220.md) — The Rest Is History on fascism as a historically specific interwar ideology of national rebirth, mass violence, spectacle, modernity, and moral rupture.
 - [18. The North South Divide](sources/18-the-north-south-divide-glt3709184192.md) — The Rest Is History with Dan Jackson on geography, London centrality, industrial power, accent, class, politics, and layered English regional identity.
 - [19. King Arthur](sources/19-king-arthur-glt1076701162.md) — The Rest Is History on Arthur's uncertain historicity, medieval legend formation, political reuse, sacred objects, mythic landscapes, and modern afterlives.
@@ -3689,6 +3690,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Defeat Jet Lag, Shift Work & Sleeplessness](sources/scim4224560223-scim4224560223.md) — Early Huberman Lab episode on phase-aware light and temperature timing, travel, shift work, lifespan sleep, de-arousal, supplements, and the limits of adult sleep compression.
 
 ## Entities
+- [Sophie Hay](entities/SophieHay.md) — Archaeologist connecting long-term Pompeii fieldwork, conservation, public communication, and evidentiary caution.
+- [Gaius Alleius Nigidius Maius](entities/GaiusAlleiusNigidiusMaius.md) — Pompeian notable reconstructed from rental, games, and probable tomb inscriptions found across two centuries.
 - [Dan Jackson](entities/DanJackson.md) — North East historian connecting railway formation and English regional identity to geography, industry, institutions, language, and culture.
 - [Michael Wood](entities/MichaelWood.md) — Historian and broadcaster who frames Chinese history through continuity, rupture, territorial change, and selective political memory.
 - [Delphic Oracle](entities/DelphicOracle.md) — Ancient Greek institution joining Apollo's sacred authority, professional interpretation, possible information advantage, and ambiguous fulfillment.
@@ -15984,6 +15987,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Geoffrey of Monmouth](entities/GeoffreyOfMonmouth.md) — Twelfth-century writer whose synthetic British history decisively shaped Arthur and Merlin's medieval profiles.
 
 ## Concepts
+- [Pompeii as an Archaeological Palimpsest](concepts/PompeiiArchaeologicalPalimpsest.md) — Framework separating Pompeii's destruction horizon from its long urban development and changing excavation, conservation, and interpretation.
 - [Fascism's Historical Specificity](concepts/FascismHistoricalSpecificity.md) — Framework defining fascism as a post-First World War revolutionary ideology rather than a synonym for dictatorship, violence, or evil.
 - [English North-South Divide](concepts/EnglishNorthSouthDivide.md) — Layered regional distinction produced through geography, political boundaries, industrial change, culture, and London centrality.
 - [London Metropolitan Dominance](concepts/LondonMetropolitanDominance.md) — Durable concentration of national power reinforced by Thames geography, European access, state formation, and institutional accumulation.

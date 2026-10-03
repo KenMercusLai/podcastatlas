@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2524
+topic_total_pages: 2526
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1054,6 +1054,9 @@ topic_concepts:
   - key: "PoliticalVentureInvestment"
     title: "Political Venture Investment / 政治风险投资"
     url: "/wiki/concepts/politicalventureinvestment/"
+  - key: "PompeiiArchaeologicalPalimpsest"
+    title: "Pompeii as an Archaeological Palimpsest"
+    url: "/wiki/concepts/pompeiiarchaeologicalpalimpsest/"
   - key: "PostBattleTerrorSignaling"
     title: "Post-Battle Terror Signaling / 战后恐怖震慑"
     url: "/wiki/concepts/postbattleterrorsignaling/"
@@ -5142,6 +5145,9 @@ topic_sources:
   - key: "159-young-putin-the-kgb-and-the-soviet-union-glt7336670203"
     title: "159. Young Putin, the KGB and the Soviet Union"
     url: "/wiki/sources/159-young-putin-the-kgb-and-the-soviet-union-glt7336670203/"
+  - key: "16-pompeii-glt3349011345"
+    title: "16. Pompeii"
+    url: "/wiki/sources/16-pompeii-glt3349011345/"
   - key: "160-the-fall-of-the-soviet-union-glt9472343994"
     title: "160. The Fall of the Soviet Union"
     url: "/wiki/sources/160-the-fall-of-the-soviet-union-glt9472343994/"

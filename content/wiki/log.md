@@ -29027,3 +29027,11 @@ Added source `17-fascism-glt5738760220`; created [[FascismHistoricalSpecificity]
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 16. Pompeii
+
+Added source `16-pompeii-glt3349011345`; created [[SophieHay]], [[GaiusAlleiusNigidiusMaius]], and [[PompeiiArchaeologicalPalimpsest]]; and resynthesized [[Pompeii]], [[Herculaneum]], [[MountVesuvius]], [[EruptionOfVesuvius79]], [[PlinyTheYounger]], and [[MultiEvidenceDisasterReconstruction]] from their complete preserved evidence inventories. Core synthesis: Pompeii is a layered city and managed archaeological site rather than a frozen time capsule; its destruction unfolded through changing hazards, while texts, seasonal remains, food, bodies, graffiti, inscriptions, scans, and volcanology support different levels of inference. No settled contradiction was adopted. The traditional 24 August date is weakened by manuscript variants and autumnal evidence, but the 17 October graffito lacks a year and the disputed coin is unreadable; body identities, religious traces, cultural memory, precise chronology, and individual motives remain qualified or source-scoped. Recurring host and show profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten because the later Pompeii-disaster entry already covers the global topic while this ingest primarily deepens bounded archaeology pages. The downstream manifest and paragraph ledger were refreshed to 3,628-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

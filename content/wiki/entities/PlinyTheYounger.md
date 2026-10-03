@@ -5,7 +5,8 @@ tags: [person, ancient-rome, author, eyewitness, vesuvius]
 sources:
   - 355-roman-apocalypse-pompeii-79-ad-glt6664993493
   - 224-roman-holidays-glt9939678940
-last_updated: 2026-10-01
+  - 16-pompeii-glt3349011345
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,7 +28,7 @@ The holiday source presents the later villa owner describing a coastal retreat w
 - Letter writer whose account supplies eruption shape, darkness, panic, retreating sea, and evacuation details.
 - Son evacuating alongside his mother amid earthquakes and ash.
 - Nephew who memorialized Pliny the Elder as calm, brave, and public-minded.
-- Essential but interested literary source whose transmitted eruption date is disputed.
+- Essential but interested literary source whose medieval manuscript traditions transmit competing eruption dates.
 - Elite villa owner whose architectural description makes cultivated leisure legible through comfort, silence, views, and contemplation.
 
 ## Evidence
@@ -36,15 +37,16 @@ The holiday source presents the later villa owner describing a coastal retreat w
 - Misenum experience: [[355-roman-apocalypse-pompeii-79-ad-glt6664993493]] describes tremors, evacuation, sea withdrawal, fire, darkness, ash, and fear.
 - Family testimony: [[355-roman-apocalypse-pompeii-79-ad-glt6664993493]] uses his account for his uncle's route, conduct, and death.
 - Dating problem: [[355-roman-apocalypse-pompeii-79-ad-glt6664993493]] contrasts the transmitted 24 August date with autumnal archaeological evidence.
+- Transmission problem: [[16-pompeii-glt3349011345]] reports October, November, and December variants alongside August and notes that no manuscript-artifact combination settles one exact day.
 - Cultivated retreat: [[224-roman-holidays-glt9939678940]] uses Pliny's Laurentian villa to connect sea views, quiet rooms, sun, rest, and contemplation to respectable elite leisure.
 
 ## Qualifications
 
-Pliny wrote for readers in both cases: the eruption letters are retrospective and shape his uncle's image, while the villa description is a cultivated self-presentation rather than a neutral inventory of Roman leisure. Textual transmission complicates the eruption date, and his elite property cannot represent ordinary Roman holidays.
+Pliny wrote for readers in both cases: the eruption letters are retrospective and shape his uncle's image, while the villa description is a cultivated self-presentation rather than a neutral inventory of Roman leisure. Medieval textual transmission complicates the eruption date, archaeological clues do not uniquely resolve it, and his elite property cannot represent ordinary Roman holidays.
 
 ## What Changed
 
-- Broadened Pliny from eruption witness and commemorator to a source for elite ideals of morally legitimate retreat.
+- Added the competing manuscript dates and sharpened the boundary between textual transmission and archaeological dating.
 
 ## Relationships
 

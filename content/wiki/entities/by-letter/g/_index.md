@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12247
+wiki_total_pages: 12249
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "GaiaBernstein"
     title: "Gaia Bernstein"
     url: "/wiki/entities/gaiabernstein/"
+  - key: "GaiusAlleiusNigidiusMaius"
+    title: "Gaius Alleius Nigidius Maius"
+    url: "/wiki/entities/gaiusalleiusnigidiusmaius/"
   - key: "GaiusCassiusLonginus"
     title: "Gaius Cassius Longinus / 卡西乌斯"
     url: "/wiki/entities/gaiuscassiuslonginus/"

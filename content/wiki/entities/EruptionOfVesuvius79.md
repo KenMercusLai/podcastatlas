@@ -4,7 +4,8 @@ type: entity
 tags: [event, volcanic-disaster, ancient-rome, campania]
 sources:
   - 355-roman-apocalypse-pompeii-79-ad-glt6664993493
-last_updated: 2026-09-28
+  - 16-pompeii-glt3349011345
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,9 @@ The eruption of Vesuvius in 79 CE is the volcanic disaster that destroyed [[Herc
 
 ## Current Profile
 
-The source reconstructs an event lasting through multiple hazard phases rather than a single blast. After midday the eruption column rose, darkened the region, and dropped pumice most heavily toward Pompeii. Around twelve hours later a surge destroyed Herculaneum. Near dawn Pompeii's pumice fall eased and some survivors moved toward escape, but collapse of the column then sent the largest flow across the city. Misenum and other communities survived the darkness and ash at greater distance, while Stabiae remained dangerous enough to prevent Pliny the Elder's escape.
+The sources reconstruct an event lasting roughly a day through multiple hazard phases rather than a single blast. After midday the eruption column rose, darkened the region, and dropped pumice most heavily toward Pompeii. Around twelve hours later a surge destroyed Herculaneum. Near dawn Pompeii's pumice fall eased and some survivors moved toward escape, but collapse of the column then sent the largest flow across the city. Misenum and other communities survived the darkness and ash at greater distance, while Stabiae remained dangerous enough to prevent Pliny the Elder's escape.
+
+The exact calendar date remains unresolved. Medieval copies of Pliny the Younger's letters transmit August and later alternatives; pomegranates, grape-processing debris, clothing, and a charcoal graffito favor autumn, but the graffito's 17 October date lacks a year and a once-decisive coin reading has been questioned.
 
 ## Key Characteristics
 
@@ -33,14 +36,15 @@ The source reconstructs an event lasting through multiple hazard phases rather t
 - Pompeii phase: [[355-roman-apocalypse-pompeii-79-ad-glt6664993493]] describes easing pumice, renewed movement, column collapse, and final flow.
 - Wider survival and death: [[355-roman-apocalypse-pompeii-79-ad-glt6664993493]] contrasts Misenum's survival with Pliny the Elder's death at Stabiae.
 - Dating evidence: [[355-roman-apocalypse-pompeii-79-ad-glt6664993493]] compares the transmitted August date with autumnal finds and the October inscription.
+- Manuscript and artifact limits: [[16-pompeii-glt3349011345]] adds competing copied dates, the graffito's missing year, and an unreadable coin inscription.
 
 ## Qualifications
 
-The episode favors an autumn date later than 17 October but does not establish one exact day. Its hour-by-hour sequence, speed claims, depth estimates, victim count, individual stories, atmospheric reach, and ancient divine-judgment interpretations remain source-scoped or reconstructed.
+Both episodes favor a later-autumn date over an unqualified 24 August, but neither establishes one exact day; the 17 October graffito supplies a day and month, not a secure eruption year. The hour-by-hour sequence, speed claims, depth estimates, victim count, individual stories, atmospheric reach, coin reading, and ancient interpretations remain source-scoped or reconstructed.
 
 ## What Changed
 
-- Created an event profile organizing the catastrophe by phase, location, evidence type, and uncertainty.
+- Strengthened the later-autumn judgment while adding manuscript variants and limits of the graffito and coin evidence.
 
 ## Relationships
 

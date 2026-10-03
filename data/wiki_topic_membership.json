@@ -1394,6 +1394,13 @@
       "url": "/topics/history/"
     }
   ],
+  "16-pompeii-glt3349011345": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz": [
     {
       "key": "technology",
@@ -64436,6 +64443,13 @@
     }
   ],
   "Pompeii": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "PompeiiArchaeologicalPalimpsest": [
     {
       "key": "history",
       "label": "History",

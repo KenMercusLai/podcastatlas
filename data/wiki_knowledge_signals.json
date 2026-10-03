@@ -67296,9 +67296,9 @@
       "url": "/wiki/concepts/errorgatedadultneuroplasticity/"
     },
     "EruptionOfVesuvius79": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6664993493 [GLT6664993493].md",
@@ -67306,9 +67306,16 @@
           "show": "The Rest Is History",
           "title": "355: Roman Apocalypse: Pompeii 79 AD",
           "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        },
+        {
+          "episode_file": "GLT3349011345 [GLT3349011345].md",
+          "key": "16-pompeii-glt3349011345",
+          "show": "The Rest Is History",
+          "title": "16. Pompeii",
+          "url": "/wiki/sources/16-pompeii-glt3349011345/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/eruptionofvesuvius79/"
     },
     "ErwinRommel": {
@@ -81086,6 +81093,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/gaiyaneasternhan/"
     },
+    "GaiusAlleiusNigidiusMaius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3349011345 [GLT3349011345].md",
+          "key": "16-pompeii-glt3349011345",
+          "show": "The Rest Is History",
+          "title": "16. Pompeii",
+          "url": "/wiki/sources/16-pompeii-glt3349011345/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/gaiusalleiusnigidiusmaius/"
+    },
     "GaiusCassiusLonginus": {
       "episode_count": 2,
       "show_count": 2,
@@ -94807,9 +94830,9 @@
       "url": "/wiki/entities/herbertsimon/"
     },
     "Herculaneum": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6664993493 [GLT6664993493].md",
@@ -94817,9 +94840,16 @@
           "show": "The Rest Is History",
           "title": "355: Roman Apocalypse: Pompeii 79 AD",
           "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        },
+        {
+          "episode_file": "GLT3349011345 [GLT3349011345].md",
+          "key": "16-pompeii-glt3349011345",
+          "show": "The Rest Is History",
+          "title": "16. Pompeii",
+          "url": "/wiki/sources/16-pompeii-glt3349011345/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/herculaneum/"
     },
     "HerculePoirot": {
@@ -145266,9 +145296,9 @@
       "url": "/wiki/concepts/moudestructionstrike/"
     },
     "MountVesuvius": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6664993493 [GLT6664993493].md",
@@ -145276,9 +145306,16 @@
           "show": "The Rest Is History",
           "title": "355: Roman Apocalypse: Pompeii 79 AD",
           "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        },
+        {
+          "episode_file": "GLT3349011345 [GLT3349011345].md",
+          "key": "16-pompeii-glt3349011345",
+          "show": "The Rest Is History",
+          "title": "16. Pompeii",
+          "url": "/wiki/sources/16-pompeii-glt3349011345/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/mountvesuvius/"
     },
     "MountainBaseStrategicOptionality": {
@@ -145625,9 +145662,9 @@
       "url": "/wiki/concepts/multiagentcollaboration/"
     },
     "MultiEvidenceDisasterReconstruction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6664993493 [GLT6664993493].md",
@@ -145635,9 +145672,16 @@
           "show": "The Rest Is History",
           "title": "355: Roman Apocalypse: Pompeii 79 AD",
           "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        },
+        {
+          "episode_file": "GLT3349011345 [GLT3349011345].md",
+          "key": "16-pompeii-glt3349011345",
+          "show": "The Rest Is History",
+          "title": "16. Pompeii",
+          "url": "/wiki/sources/16-pompeii-glt3349011345/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/multievidencedisasterreconstruction/"
     },
     "MultiPlan": {
@@ -162976,9 +163020,9 @@
       "url": "/wiki/entities/plinytheelder/"
     },
     "PlinyTheYounger": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6664993493 [GLT6664993493].md",
@@ -162993,9 +163037,16 @@
           "show": "The Rest Is History",
           "title": "224. Roman Holidays",
           "url": "/wiki/sources/224-roman-holidays-glt9939678940/"
+        },
+        {
+          "episode_file": "GLT3349011345 [GLT3349011345].md",
+          "key": "16-pompeii-glt3349011345",
+          "show": "The Rest Is History",
+          "title": "16. Pompeii",
+          "url": "/wiki/sources/16-pompeii-glt3349011345/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/plinytheyounger/"
     },
     "PlutarcoEliasCalles": {
@@ -163967,9 +164018,9 @@
       "url": "/wiki/entities/polyphemus/"
     },
     "Pompeii": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6664993493 [GLT6664993493].md",
@@ -163977,10 +164028,33 @@
           "show": "The Rest Is History",
           "title": "355: Roman Apocalypse: Pompeii 79 AD",
           "url": "/wiki/sources/355-roman-apocalypse-pompeii-79-ad-glt6664993493/"
+        },
+        {
+          "episode_file": "GLT3349011345 [GLT3349011345].md",
+          "key": "16-pompeii-glt3349011345",
+          "show": "The Rest Is History",
+          "title": "16. Pompeii",
+          "url": "/wiki/sources/16-pompeii-glt3349011345/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/pompeii/"
+    },
+    "PompeiiArchaeologicalPalimpsest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3349011345 [GLT3349011345].md",
+          "key": "16-pompeii-glt3349011345",
+          "show": "The Rest Is History",
+          "title": "16. Pompeii",
+          "url": "/wiki/sources/16-pompeii-glt3349011345/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/pompeiiarchaeologicalpalimpsest/"
     },
     "Pompey": {
       "episode_count": 5,
@@ -192827,6 +192901,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/sophiedegrouchy/"
+    },
+    "SophieHay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3349011345 [GLT3349011345].md",
+          "key": "16-pompeii-glt3349011345",
+          "show": "The Rest Is History",
+          "title": "16. Pompeii",
+          "url": "/wiki/sources/16-pompeii-glt3349011345/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/sophiehay/"
     },
     "SophieScholl": {
       "episode_count": 1,

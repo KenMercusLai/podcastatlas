@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9569
+wiki_total_pages: 9570
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1211,6 +1211,9 @@ wiki_pages:
   - key: "PolynesianNavigation"
     title: "Polynesian Navigation"
     url: "/wiki/concepts/polynesiannavigation/"
+  - key: "PompeiiArchaeologicalPalimpsest"
+    title: "Pompeii as an Archaeological Palimpsest"
+    url: "/wiki/concepts/pompeiiarchaeologicalpalimpsest/"
   - key: "PonziScheme"
     title: "Ponzi Scheme"
     url: "/wiki/concepts/ponzischeme/"
