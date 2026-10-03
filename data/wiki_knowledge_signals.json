@@ -16282,6 +16282,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/artscareerformation/"
     },
+    "ArtworkValueProvenanceAndAttention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIaIEIyu2ABAAAACSCgXf [CKwRIaIEIyu2ABAAAACSCgXf].md",
+          "key": "ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf",
+          "show": "无时差研究所",
+          "title": "EP163-被互联网冲击的艺术",
+          "url": "/wiki/sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/artworkvalueprovenanceandattention/"
+    },
     "Asante": {
       "episode_count": 2,
       "show_count": 1,
@@ -47418,6 +47434,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/cunardline/"
     },
+    "CuratorialExperienceDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIaIEIyu2ABAAAACSCgXf [CKwRIaIEIyu2ABAAAACSCgXf].md",
+          "key": "ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf",
+          "show": "无时差研究所",
+          "title": "EP163-被互联网冲击的艺术",
+          "url": "/wiki/sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/curatorialexperiencedesign/"
+    },
     "CuriosityDrivenMemoryEncoding": {
       "episode_count": 1,
       "show_count": 1,
@@ -67525,6 +67557,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/evergrandewealth/"
     },
+    "EverydayCreativeAgency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIaIEIyu2ABAAAACSCgXf [CKwRIaIEIyu2ABAAAACSCgXf].md",
+          "key": "ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf",
+          "show": "无时差研究所",
+          "title": "EP163-被互联网冲击的艺术",
+          "url": "/wiki/sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/everydaycreativeagency/"
+    },
     "EverydayFoodCultureHistory": {
       "episode_count": 5,
       "show_count": 4,
@@ -68586,9 +68634,9 @@
       "url": "/wiki/concepts/expeditionteamtrust/"
     },
     "ExperienceFirstArtAppreciation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CKwRIJIFN4VdABAAAADrCjk0 [CKwRIJIFN4VdABAAAADrCjk0].md",
@@ -68596,9 +68644,16 @@
           "show": "无时差研究所",
           "title": "EP193-Bel Canto|对话美声歌唱家，听歌剧到底在听什么？",
           "url": "/wiki/sources/ep193-bel-canto-duihua-meisheng-gechangjia-ting-geju-daodi-zai-ting-shenme-ckwrijifn4vdabaaaadrcjk0/"
+        },
+        {
+          "episode_file": "CKwRIaIEIyu2ABAAAACSCgXf [CKwRIaIEIyu2ABAAAACSCgXf].md",
+          "key": "ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf",
+          "show": "无时差研究所",
+          "title": "EP163-被互联网冲击的艺术",
+          "url": "/wiki/sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/experiencefirstartappreciation/"
     },
     "ExperienceFormingEducation": {
@@ -111873,6 +111928,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/jimmycarter/"
     },
+    "JinLaoshiArtist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIaIEIyu2ABAAAACSCgXf [CKwRIaIEIyu2ABAAAACSCgXf].md",
+          "key": "ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf",
+          "show": "无时差研究所",
+          "title": "EP163-被互联网冲击的艺术",
+          "url": "/wiki/sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/jinlaoshiartist/"
+    },
     "JinMidiWesternHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -143320,9 +143391,9 @@
       "url": "/wiki/entities/monalisa/"
     },
     "MonaLisaFameFormation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1735270133 [GLT1735270133].md",
@@ -143330,9 +143401,16 @@
           "show": "The Rest Is History",
           "title": "667. The Mystery of the Mona Lisa",
           "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
+        },
+        {
+          "episode_file": "CKwRIaIEIyu2ABAAAACSCgXf [CKwRIaIEIyu2ABAAAACSCgXf].md",
+          "key": "ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf",
+          "show": "无时差研究所",
+          "title": "EP163-被互联网冲击的艺术",
+          "url": "/wiki/sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/monalisafameformation/"
     },
     "MonarchicalAdaptiveContinuity": {
@@ -185268,6 +185346,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/shangxiabanchang/"
     },
+    "ShangYuArtGuest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIaIEIyu2ABAAAACSCgXf [CKwRIaIEIyu2ABAAAACSCgXf].md",
+          "key": "ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf",
+          "show": "无时差研究所",
+          "title": "EP163-被互联网冲击的艺术",
+          "url": "/wiki/sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/shangyuartguest/"
+    },
     "ShangdeHuanxingPenalReform": {
       "episode_count": 1,
       "show_count": 1,
@@ -221573,9 +221667,9 @@
       "url": "/wiki/entities/wurenzhixiao/"
     },
     "WushichaYanjiusuo": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -221716,9 +221810,16 @@
           "show": "无时差研究所",
           "title": "EP165-密室逃脱爆发期：扮演别人，究竟在寻找一种怎样的刺激？",
           "url": "/wiki/sources/ep165-mishi-taotuo-baofa-qi-banyan-bieren-jiujing-zai-xunzhao-yizhong-zenyang-de-ciji-ckwriueennadabaaaacxz2y3/"
+        },
+        {
+          "episode_file": "CKwRIaIEIyu2ABAAAACSCgXf [CKwRIaIEIyu2ABAAAACSCgXf].md",
+          "key": "ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf",
+          "show": "无时差研究所",
+          "title": "EP163-被互联网冲击的艺术",
+          "url": "/wiki/sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/wushichayanjiusuo/"
     },
     "WusiSouthernXiongnu": {

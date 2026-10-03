@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9539
+wiki_total_pages: 9542
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "EverydayBehavioralEconomics"
     title: "Everyday Behavioral Economics / 日常行为经济学"
     url: "/wiki/concepts/everydaybehavioraleconomics/"
+  - key: "EverydayCreativeAgency"
+    title: "Everyday Creative Agency / 日常创造能动性"
+    url: "/wiki/concepts/everydaycreativeagency/"
   - key: "EverydayFoodCultureHistory"
     title: "Everyday Food Culture History"
     url: "/wiki/concepts/everydayfoodculturehistory/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12230
+wiki_total_pages: 12232
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2441,6 +2441,9 @@ wiki_pages:
   - key: "Shaoliang"
     title: "少梁 / Shaoliang"
     url: "/wiki/entities/shaoliang/"
+  - key: "ShangYuArtGuest"
+    title: "尚玉 / Shang Yu"
+    url: "/wiki/entities/shangyuartguest/"
   - key: "ShiJiao"
     title: "尸佼 / Shi Jiao"
     url: "/wiki/entities/shijiao/"

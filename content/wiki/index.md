@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP163-被互联网冲击的艺术](sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf.md) — 无时差研究所 conversation on ordinary creative agency, experience-first viewing, curatorial design, provenance, art pricing, conceptual ownership, and internet-era attention.
 - [32. What if?](sources/32-what-if-glt7767131043.md) — The Rest Is History on disciplined counterfactuals, structure and agency, technological context, alternative-history fantasy, and May 1940 as a possible choke point.
 - [How Foods & Nutrients Control Our Moods](sources/how-foods-nutrients-control-our-moods-scim8271372367.md) — Early Huberman Lab episode on embodied mood, vagal and gut nutrient sensing, neuromodulators, microbiome individuality, and intervention-specific safety boundaries.
 - [33. The Beautiful Game](sources/33-the-beautiful-game-glt5860295083.md) — The Rest Is History with Jonathan Wilson on football's codification, industrial and civic culture, informal-imperial diffusion, Argentine identity, labor rights, media, and women's interrupted tradition.
@@ -6254,6 +6255,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《粉色悖论》 / Pink Paradox](entities/PinkParadox.md) — Wu Hankun's first AI short-film case, begun as a role-farewell project.
 - [《人口异常》 / Population Anomaly](entities/PopulationAnomaly.md) — Wu Hankun's later science-fiction AI short-film experiment.
 - [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Conversational podcast represented by culture, health, travel, creative-practice, workplace, language, macro-policy, racial-history, identity, and social-play interpretation.
+- [尚玉 / Shang Yu](entities/ShangYuArtGuest.md) — EP163 guest connecting ordinary art access to museums, art markets, provenance, curation, and career entry.
+- [金老师 / Jin Laoshi](entities/JinLaoshiArtist.md) — EP163 painter and multidisciplinary-art guest connecting creative unlearning, perception, and quiet attention.
 - [亦舒 / Yi Shu](entities/YiShu.md) — Authorial baseline for EP385's comparison between the 《我的前半生》 novel's female-supported rebuilding and the TV drama's male-mentor rewrite.
 - [《我的前半生》 / My First Half Life](entities/MyFirstHalfLife.md) — Yi Shu novel and 2017 TV adaptation reread as an old-drama revival, gender-narrative, and economic-memory case.
 - [罗子君 / Luo Zijun](entities/LuoZijun.md) — 《我的前半生》 heroine whose divorce, work return, and claimed independence test the difference between supported agency and male-authorized growth.
@@ -16105,6 +16108,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Operatic Performance Training / 歌剧表演训练](concepts/OperaticPerformanceTraining.md) — Integrated development of voice, language, text, acting, movement, style, and reliable live performance.
 - [Arts Career Formation / 艺术职业形成](concepts/ArtsCareerFormation.md) — Interaction of aptitude, teaching, family resources, practice, opportunity, and economic endurance in artistic careers.
 - [Experience-First Art Appreciation / 体验先于看懂](concepts/ExperienceFirstArtAppreciation.md) — Principle that sensory and emotional response can precede complete technical or historical understanding.
+- [Everyday Creative Agency / 日常创造能动性](concepts/EverydayCreativeAgency.md) — Capacity to make and perceive creatively without first proving professional status or market value.
+- [Curatorial Experience Design / 策展体验设计](concepts/CuratorialExperienceDesign.md) — Organization of sequence, space, light, interpretation, and participation into a visitor journey.
+- [Artwork Value, Provenance, and Attention / 艺术品价值、来源与注意力](concepts/ArtworkValueProvenanceAndAttention.md) — Framework separating personal and aesthetic response from provenance-, institution-, story-, and attention-driven market value.
 - [Imperial Presidency](concepts/ImperialPresidency.md) — Concentrated Cold War executive authority whose secrecy and operational capacity magnified the consequences of Nixon's personal style.
 - [Presidential Command Climate](concepts/PresidentialCommandClimate.md) — Incentive environment separating broad presidential pressure and personnel choices from proof of a specific operational order.
 - [Fed-Fasted State Continuum](concepts/FedFastedStateContinuum.md) — Distinction between time since the last calorie and physiological state across digestion, glucose, insulin, activity, fuel use, and cellular signaling.

@@ -9535,6 +9535,10 @@
     "title": "Arts Career Formation / 艺术职业形成",
     "url": "/wiki/concepts/artscareerformation/"
   },
+  "ArtworkValueProvenanceAndAttention": {
+    "title": "Artwork Value, Provenance, and Attention / 艺术品价值、来源与注意力",
+    "url": "/wiki/concepts/artworkvalueprovenanceandattention/"
+  },
   "AsItIsPractice": {
     "title": "As It Is Practice / 如其所是",
     "url": "/wiki/concepts/asitispractice/"
@@ -21219,6 +21223,10 @@
     "title": "杯酒释兵权 / Cup of Wine Disarms Generals",
     "url": "/wiki/concepts/cupwinedisarmsgenerals/"
   },
+  "CuratorialExperienceDesign": {
+    "title": "Curatorial Experience Design / 策展体验设计",
+    "url": "/wiki/concepts/curatorialexperiencedesign/"
+  },
   "CuriosityDrivenMemoryEncoding": {
     "title": "Curiosity-Driven Memory Encoding",
     "url": "/wiki/concepts/curiositydrivenmemoryencoding/"
@@ -27874,6 +27882,10 @@
   "EverydayBehavioralEconomics": {
     "title": "Everyday Behavioral Economics / 日常行为经济学",
     "url": "/wiki/concepts/everydaybehavioraleconomics/"
+  },
+  "EverydayCreativeAgency": {
+    "title": "Everyday Creative Agency / 日常创造能动性",
+    "url": "/wiki/concepts/everydaycreativeagency/"
   },
   "EverydayFoodCultureHistory": {
     "title": "Everyday Food Culture History",
@@ -42942,6 +42954,10 @@
   "JinJinggong": {
     "title": "晋静公 / Duke Jing of Jin",
     "url": "/wiki/entities/jinjinggong/"
+  },
+  "JinLaoshiArtist": {
+    "title": "金老师 / Jin Laoshi",
+    "url": "/wiki/entities/jinlaoshiartist/"
   },
   "JinLiegong": {
     "title": "晋烈公 / Duke Lie of Jin",
@@ -71019,6 +71035,10 @@
     "title": "Shang Yang Reforms / 商鞅变法",
     "url": "/wiki/concepts/shangyangreforms/"
   },
+  "ShangYuArtGuest": {
+    "title": "尚玉 / Shang Yu",
+    "url": "/wiki/entities/shangyuartguest/"
+  },
   "Shangcai": {
     "title": "上蔡 / Shangcai",
     "url": "/wiki/entities/shangcai/"
@@ -92138,6 +92158,10 @@
   "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u": {
     "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
     "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
+  },
+  "ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf": {
+    "title": "EP163-被互联网冲击的艺术",
+    "url": "/wiki/sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf/"
   },
   "ep165-mishi-taotuo-baofa-qi-banyan-bieren-jiujing-zai-xunzhao-yizhong-zenyang-de-ciji-ckwriueennadabaaaacxz2y3": {
     "title": "EP165-密室逃脱爆发期：扮演别人，究竟在寻找一种怎样的刺激？",

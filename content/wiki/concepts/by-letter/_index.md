@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9539
+wiki_total_pages: 9542
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2414,6 +2414,9 @@ wiki_pages:
   - key: "ArtsCareerFormation"
     title: "Arts Career Formation / 艺术职业形成"
     url: "/wiki/concepts/artscareerformation/"
+  - key: "ArtworkValueProvenanceAndAttention"
+    title: "Artwork Value, Provenance, and Attention / 艺术品价值、来源与注意力"
+    url: "/wiki/concepts/artworkvalueprovenanceandattention/"
   - key: "AsItIsPractice"
     title: "As It Is Practice / 如其所是"
     url: "/wiki/concepts/asitispractice/"
