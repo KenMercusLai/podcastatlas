@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9585
+wiki_total_pages: 9587
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1187,6 +1187,9 @@ wiki_pages:
   - key: "RomanAlliedCitizenshipCrisis"
     title: "Roman Allied Citizenship Crisis / 罗马同盟者公民权危机"
     url: "/wiki/concepts/romanalliedcitizenshipcrisis/"
+  - key: "RomanAnalogyInAmericanPolitics"
+    title: "Roman Analogy in American Politics"
+    url: "/wiki/concepts/romananalogyinamericanpolitics/"
   - key: "RomanCivicMilitaryIncorporation"
     title: "Roman Civic-Military Incorporation / 罗马公民军事整合"
     url: "/wiki/concepts/romancivicmilitaryincorporation/"

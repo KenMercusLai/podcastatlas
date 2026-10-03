@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2543
+topic_total_pages: 2545
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1234,6 +1234,9 @@ topic_concepts:
   - key: "RoleAttachmentPowerExit"
     title: "Role Attachment and Power Exit / 权力角色依附与退场"
     url: "/wiki/concepts/roleattachmentpowerexit/"
+  - key: "RomanAnalogyInAmericanPolitics"
+    title: "Roman Analogy in American Politics"
+    url: "/wiki/concepts/romananalogyinamericanpolitics/"
   - key: "RomanImperialFallPeriodization"
     title: "Roman Imperial Fall Periodization"
     url: "/wiki/concepts/romanimperialfallperiodization/"
@@ -5628,6 +5631,9 @@ topic_sources:
   - key: "299-the-greatest-female-pharaoh-glt5076645168"
     title: "299: The Greatest Female Pharaoh"
     url: "/wiki/sources/299-the-greatest-female-pharaoh-glt5076645168/"
+  - key: "3-is-trump-caesar-or-nixon-glt4982990068"
+    title: "3. Is Trump Caesar or Nixon?"
+    url: "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
   - key: "30-a-royal-row-glt5120507213"
     title: "30. A Royal Row"
     url: "/wiki/sources/30-a-royal-row-glt5120507213/"

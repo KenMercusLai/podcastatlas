@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9585
+wiki_total_pages: 9587
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1253,6 +1253,9 @@ wiki_pages:
   - key: "PopulistDemocraticEnergy"
     title: "Populist Democratic Energy"
     url: "/wiki/concepts/populistdemocraticenergy/"
+  - key: "PopulistPoliticalPerformance"
+    title: "Populist Political Performance"
+    url: "/wiki/concepts/populistpoliticalperformance/"
   - key: "PorcelainStoneClayBinaryFormula"
     title: "Porcelain Stone-Clay Binary Formula / 瓷石瓷土二元配方"
     url: "/wiki/concepts/porcelainstoneclaybinaryformula/"

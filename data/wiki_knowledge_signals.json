@@ -38595,6 +38595,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/cicero/"
     },
+    "Cincinnatus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4982990068 [GLT4982990068].md",
+          "key": "3-is-trump-caesar-or-nixon-glt4982990068",
+          "show": "The Rest Is History",
+          "title": "3. Is Trump Caesar or Nixon?",
+          "url": "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/cincinnatus/"
+    },
     "CinemaAsNationalMemory": {
       "episode_count": 1,
       "show_count": 1,
@@ -104529,9 +104545,9 @@
       "url": "/wiki/concepts/imperialpreferencespeechrisk/"
     },
     "ImperialPresidency": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6675580126 [GLT6675580126].md",
@@ -104539,9 +104555,16 @@
           "show": "The Rest Is History",
           "title": "106. Watergate: Part 1",
           "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
+        },
+        {
+          "episode_file": "GLT4982990068 [GLT4982990068].md",
+          "key": "3-is-trump-caesar-or-nixon-glt4982990068",
+          "show": "The Rest Is History",
+          "title": "3. Is Trump Caesar or Nixon?",
+          "url": "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/imperialpresidency/"
     },
     "ImperialPrestigeVindication": {
@@ -114676,6 +114699,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/johnmasonneale/"
+    },
+    "JohnMcCain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4982990068 [GLT4982990068].md",
+          "key": "3-is-trump-caesar-or-nixon-glt4982990068",
+          "show": "The Rest Is History",
+          "title": "3. Is Trump Caesar or Nixon?",
+          "url": "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/johnmccain/"
     },
     "JohnMcCarthy": {
       "episode_count": 1,
@@ -159477,9 +159516,9 @@
       "url": "/wiki/concepts/peaceinfrastructure/"
     },
     "PeacefulTransferOfPower": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6535571769 [GLT6535571769].md",
@@ -159494,9 +159533,16 @@
           "show": "The Rest Is History",
           "title": "685. Hamilton: Duel to the Death (Part 3)",
           "url": "/wiki/sources/685-hamilton-duel-to-the-death-part-3-glt9231431046/"
+        },
+        {
+          "episode_file": "GLT4982990068 [GLT4982990068].md",
+          "key": "3-is-trump-caesar-or-nixon-glt4982990068",
+          "show": "The Rest Is History",
+          "title": "3. Is Trump Caesar or Nixon?",
+          "url": "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/peacefultransferofpower/"
     },
     "PeakEndTaskMemory": {
@@ -165102,6 +165148,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/populistdemocraticenergy/"
+    },
+    "PopulistPoliticalPerformance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4982990068 [GLT4982990068].md",
+          "key": "3-is-trump-caesar-or-nixon-glt4982990068",
+          "show": "The Rest Is History",
+          "title": "3. Is Trump Caesar or Nixon?",
+          "url": "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/populistpoliticalperformance/"
     },
     "PorkConsumptionSubstitution": {
       "episode_count": 1,
@@ -176332,9 +176394,9 @@
       "url": "/wiki/concepts/republicanmemoryagainstdictatorship/"
     },
     "RepublicanRestraintLeadership": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -176349,9 +176411,16 @@
           "show": "The Rest Is History",
           "title": "350: The Triumph of George Washington (Part 4)",
           "url": "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"
+        },
+        {
+          "episode_file": "GLT4982990068 [GLT4982990068].md",
+          "key": "3-is-trump-caesar-or-nixon-glt4982990068",
+          "show": "The Rest Is History",
+          "title": "3. Is Trump Caesar or Nixon?",
+          "url": "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/republicanrestraintleadership/"
     },
     "ReputationConstrainedWarRestraint": {
@@ -178339,9 +178408,9 @@
       "url": "/wiki/entities/richardnevilleearlofwarwick/"
     },
     "RichardNixon": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 4,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "Vol.268 两个劳斯莱斯 [1003563933].md",
@@ -178398,9 +178467,16 @@
           "show": "The Rest Is History",
           "title": "106. Watergate: Part 1",
           "url": "/wiki/sources/106-watergate-part-1-glt6675580126/"
+        },
+        {
+          "episode_file": "GLT4982990068 [GLT4982990068].md",
+          "key": "3-is-trump-caesar-or-nixon-glt4982990068",
+          "show": "The Rest Is History",
+          "title": "3. Is Trump Caesar or Nixon?",
+          "url": "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/richardnixon/"
     },
     "RichardOfShrewsbury": {
@@ -180332,6 +180408,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/romanalliedcitizenshipcrisis/"
+    },
+    "RomanAnalogyInAmericanPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4982990068 [GLT4982990068].md",
+          "key": "3-is-trump-caesar-or-nixon-glt4982990068",
+          "show": "The Rest Is History",
+          "title": "3. Is Trump Caesar or Nixon?",
+          "url": "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/romananalogyinamericanpolitics/"
     },
     "RomanBritain": {
       "episode_count": 5,

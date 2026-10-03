@@ -3236,6 +3236,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "3-is-trump-caesar-or-nixon-glt4982990068": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "30-a-royal-row-glt5120507213": [
     {
       "key": "history",
@@ -47360,6 +47372,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "JohnMcCain": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JohnMcEwen": [
     {
       "key": "politics",
@@ -64703,6 +64722,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "PopulistPoliticalPerformance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "PortEnabledManufacturingCity": [
     {
       "key": "economics",
@@ -70654,6 +70685,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "RomanAnalogyInAmericanPolitics": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "RomanImperialFallPeriodization": [

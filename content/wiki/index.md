@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [3. Is Trump Caesar or Nixon?](sources/3-is-trump-caesar-or-nixon-glt4982990068.md) — The Rest Is History on Trump's refusal to concede, Nixon's exit, Washington and Cincinnatus, Roman political analogy, populist performance, and the limits of its late-2020 forecast.
 - [4. We’re all so 17th Century](sources/4-were-all-so-17th-century-glt1251829896.md) — The Rest Is History on plague, civil war, print disruption, religious conflict, political ancestry, and the limits of comparing modern crises with the seventeenth century.
 - [5. 1981](sources/5-1981-glt3026558838.md) — The Rest Is History on 1981 Britain, recent-history method, Diana, Thatcher, music, cricket, personal memory, and popular culture as historical evidence.
 - [6. Troy](sources/6-troy-glt4742295987.md) — The Rest Is History on Troy's qualified Bronze Age setting, rival war explanations, tragic victimhood, political ancestry, modern war memory, and film.
@@ -3706,6 +3707,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [10. Christmas](sources/10-christmas-glt9855064623.md) — The Rest Is History survey of Nativity chronology, early feast dating, public festivity, Puritan suppression, Victorian domestic reinvention, Santa Claus, commerce, and the 1914 truce.
 
 ## Entities
+- [Cincinnatus](entities/Cincinnatus.md) — Roman republican exemplar whose remembered voluntary withdrawal made relinquishing emergency power a model of political legitimacy.
+- [John McCain](entities/JohnMcCain.md) — U.S. war hero and senator presented as an honor-centered foil to Trump's anti-establishment political style.
 - [John Milton](entities/JohnMilton.md) — Poet, Commonwealth official, regicide defender, and advocate of freer print in a contested seventeenth-century information order.
 - [Troy](entities/Troy.md) — Bronze Age site and epic city whose archaeology, strategic setting, political appropriation, and victim-centered afterlife must be kept distinct.
 - [Popish Plot](entities/PopishPlot.md) — Fabricated Catholic assassination plot whose political crisis and institutional exclusions outlived exposure of the fraud.
@@ -16013,6 +16016,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Santa Claus](entities/SantaClaus.md) — Hybrid Christmas gift-giver shaped by Saint Nicholas, Dutch-American literature, English Father Christmas, and domestic festival culture.
 
 ## Concepts
+- [Roman Analogy in American Politics](concepts/RomanAnalogyInAmericanPolitics.md) — Use of Roman virtue, Caesarism, imperial excess, and spectacle to interpret American leadership without claiming exact equivalence.
+- [Populist Political Performance](concepts/PopulistPoliticalPerformance.md) — Anti-elite political identification built through humor, insult, spectacle, transgression, and entertainment.
 - [Trojan War Cultural Afterlife](concepts/TrojanWarCulturalAfterlife.md) — Framework joining Troy's ancestral, geopolitical, tragic, war-memory, and cinematic reuse without treating reception as event proof.
 - [Audience-Responsive Deep-Dive Podcasting](concepts/AudienceResponsiveDeepDivePodcasting.md) — Programming model combining sustained topic arcs, multiple episode formats, and listener demand signals without ceding editorial or evidentiary authority.
 - [Science-Based Tool Taxonomy](concepts/ScienceBasedToolTaxonomy.md) — Framework separating behavioral, avoidance, nutritional, supplemental, prescription, interface, and device interventions from evidence or endorsement claims.

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3098
+topic_total_pages: 3099
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2308,6 +2308,9 @@ topic_concepts:
   - key: "PopularMusicAsCulturalTransmission"
     title: "Popular Music as Cultural Transmission"
     url: "/wiki/concepts/popularmusicasculturaltransmission/"
+  - key: "PopulistPoliticalPerformance"
+    title: "Populist Political Performance"
+    url: "/wiki/concepts/populistpoliticalperformance/"
   - key: "PortugueseCulturalSymbolPolitics"
     title: "Portuguese Cultural Symbol Politics"
     url: "/wiki/concepts/portugueseculturalsymbolpolitics/"

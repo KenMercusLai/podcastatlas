@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3055
+topic_total_pages: 3058
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3034,6 +3034,9 @@ topic_concepts:
   - key: "PopulistDemocraticEnergy"
     title: "Populist Democratic Energy"
     url: "/wiki/concepts/populistdemocraticenergy/"
+  - key: "PopulistPoliticalPerformance"
+    title: "Populist Political Performance"
+    url: "/wiki/concepts/populistpoliticalperformance/"
   - key: "Post911CounterterrorismArchitecture"
     title: "Post-9/11 Counterterrorism Architecture"
     url: "/wiki/concepts/post911counterterrorismarchitecture/"
@@ -6173,6 +6176,9 @@ topic_entities:
   - key: "JohnMajor"
     title: "John Major"
     url: "/wiki/entities/johnmajor/"
+  - key: "JohnMcCain"
+    title: "John McCain"
+    url: "/wiki/entities/johnmccain/"
   - key: "JohnMcEwen"
     title: "John McEwen"
     url: "/wiki/entities/johnmcewen/"
@@ -8148,6 +8154,9 @@ topic_sources:
   - key: "290-2022-a-history-glt4625765030"
     title: "290: 2022: A History"
     url: "/wiki/sources/290-2022-a-history-glt4625765030/"
+  - key: "3-is-trump-caesar-or-nixon-glt4982990068"
+    title: "3. Is Trump Caesar or Nixon?"
+    url: "/wiki/sources/3-is-trump-caesar-or-nixon-glt4982990068/"
   - key: "310-ronald-reagan-and-the-american-dream-part-1-glt3254036306"
     title: "310: Ronald Reagan and the American Dream (Part 1)"
     url: "/wiki/sources/310-ronald-reagan-and-the-american-dream-part-1-glt3254036306/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12259
+wiki_total_pages: 12261
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1064,6 +1064,9 @@ wiki_pages:
   - key: "Cimarrones"
     title: "Cimarrones"
     url: "/wiki/entities/cimarrones/"
+  - key: "Cincinnatus"
+    title: "Cincinnatus"
+    url: "/wiki/entities/cincinnatus/"
   - key: "CindyYuanxingzhe"
     title: "Cindy (远行者与碎冰匠)"
     url: "/wiki/entities/cindyyuanxingzhe/"
