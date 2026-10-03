@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [How to Lose Fat With Science-Based Tools](sources/scim2441056488-scim2441056488.md) — Full Huberman Lab episode on energy balance, nervous-system control of fat use, NEAT, shivering thermogenesis, exercise sequencing, and safety-bounded secondary compounds.
+- [55. The World Cup of Gods - Preview](sources/55-the-world-cup-of-gods-preview-glt7465078719.md) — The Rest Is History preview defining a discontinued-worship eligibility rule and launching a listener-voted mythology tournament as participatory public history.
 - [57. Paris](sources/57-paris-glt6186083108.md) — The Rest Is History with Agnès Poirier on Paris as layered symbolic capital, from medieval institutional density through revolution, Haussmann, occupation, liberation, and the Left Bank.
 - [58. The World Cup of Gods - Part 1](sources/58-the-world-cup-of-gods-part-1-glt8884399326.md) — The Rest Is History tournament on ambiguous gods, violent and regenerative cults, ruler deification, saintly accretion, literary afterlives, and modern worship.
 - [Science of Muscle Growth, Increasing Strength & Muscular Recovery](sources/scim1817217176-scim1817217176.md) — Early Huberman Lab episode on neuromuscular strength and hypertrophy, lactate, recovery monitoring, soreness, cold and anti-inflammatory tradeoffs, and nutrition support.
@@ -3624,6 +3625,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [小元 / Xiaoyuan (returnee professional)](entities/XiaoyuanReturnee.md) — EP174 guest whose return from a stable U.S. model-risk career exposes cultural, travel, mutual-aid, and career-transfer tradeoffs.
 - [小苗 / Xiaomiao (AI researcher)](entities/XiaomiaoAIResearcher.md) — EP174 guest whose disrupted U.S. plans led to a Singapore doctorate and a discussion of corpus bias and recommendation fairness.
+- [World Cup of Gods](entities/WorldCupOfGods.md) — Listener-voted mythology tournament using discontinued worship, revival, category ambiguity, and modern reception as a comic comparative-history frame.
 - [Moloch](entities/Moloch.md) — Disputed Levantine deity or ritual term whose child-sacrifice association and later demonic reputation require layered evidence.
 - [Xipe Totec](entities/XipeTotec.md) — Aztec “Flayed One” joining agricultural renewal, sacrificial embodiment, disease, healing, and divine danger.
 - [Ishtar / Inanna](entities/IshtarInanna.md) — Mesopotamian goddess combining love, war, kingship, underworld descent, ritual boundary-crossing, and later reception.

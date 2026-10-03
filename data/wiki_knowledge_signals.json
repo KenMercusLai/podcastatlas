@@ -11384,9 +11384,9 @@
       "url": "/wiki/concepts/ancientchinesebookmateriality/"
     },
     "AncientDivineIdentitySyncretism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6474253297 [GLT6474253297].md",
@@ -11401,6 +11401,13 @@
           "show": "The Rest Is History",
           "title": "58. The World Cup of Gods - Part 1",
           "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
+        },
+        {
+          "episode_file": "GLT7465078719 [GLT7465078719].md",
+          "key": "55-the-world-cup-of-gods-preview-glt7465078719",
+          "show": "The Rest Is History",
+          "title": "55. The World Cup of Gods - Preview",
+          "url": "/wiki/sources/55-the-world-cup-of-gods-preview-glt7465078719/"
         }
       ],
       "updated": "2026-10-03",
@@ -217153,6 +217160,36 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/worldcupnationalmemory/"
+    },
+    "WorldCupOfGods": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT7465078719 [GLT7465078719].md",
+          "key": "55-the-world-cup-of-gods-preview-glt7465078719",
+          "show": "The Rest Is History",
+          "title": "55. The World Cup of Gods - Preview",
+          "url": "/wiki/sources/55-the-world-cup-of-gods-preview-glt7465078719/"
+        },
+        {
+          "episode_file": "GLT8884399326 [GLT8884399326].md",
+          "key": "58-the-world-cup-of-gods-part-1-glt8884399326",
+          "show": "The Rest Is History",
+          "title": "58. The World Cup of Gods - Part 1",
+          "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
+        },
+        {
+          "episode_file": "GLT6474253297 [GLT6474253297].md",
+          "key": "59-the-world-cup-of-gods-part-2-glt6474253297",
+          "show": "The Rest Is History",
+          "title": "59. The World Cup of Gods - Part 2",
+          "url": "/wiki/sources/59-the-world-cup-of-gods-part-2-glt6474253297/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/worldcupofgods/"
     },
     "WorldFoodProgramme": {
       "episode_count": 1,
