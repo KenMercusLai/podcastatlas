@@ -48846,9 +48846,9 @@
       "url": "/wiki/entities/danegan/"
     },
     "DanJackson": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2177757841 [GLT2177757841].md",
@@ -48856,9 +48856,16 @@
           "show": "The Rest Is History",
           "title": "140. The Birth of the Railways",
           "url": "/wiki/sources/140-the-birth-of-the-railways-glt2177757841/"
+        },
+        {
+          "episode_file": "GLT3709184192 [GLT3709184192].md",
+          "key": "18-the-north-south-divide-glt3709184192",
+          "show": "The Rest Is History",
+          "title": "18. The North South Divide",
+          "url": "/wiki/sources/18-the-north-south-divide-glt3709184192/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/danjackson/"
     },
     "DanMitrione": {
@@ -65658,6 +65665,38 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/englishnationalidentity/"
+    },
+    "EnglishNorthSouthDivide": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3709184192 [GLT3709184192].md",
+          "key": "18-the-north-south-divide-glt3709184192",
+          "show": "The Rest Is History",
+          "title": "18. The North South Divide",
+          "url": "/wiki/sources/18-the-north-south-divide-glt3709184192/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/englishnorthsouthdivide/"
+    },
+    "EnglishRegionalIdentityFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3709184192 [GLT3709184192].md",
+          "key": "18-the-north-south-divide-glt3709184192",
+          "show": "The Rest Is History",
+          "title": "18. The North South Divide",
+          "url": "/wiki/sources/18-the-north-south-divide-glt3709184192/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/englishregionalidentityformation/"
     },
     "EnjoymentVsPleasure": {
       "episode_count": 1,
@@ -128801,9 +128840,9 @@
       "url": "/wiki/entities/londinium/"
     },
     "London": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
@@ -128853,10 +128892,33 @@
           "show": "The Rest Is History",
           "title": "132. A Christmas Carol",
           "url": "/wiki/sources/132-a-christmas-carol-glt9074696790/"
+        },
+        {
+          "episode_file": "GLT3709184192 [GLT3709184192].md",
+          "key": "18-the-north-south-divide-glt3709184192",
+          "show": "The Rest Is History",
+          "title": "18. The North South Divide",
+          "url": "/wiki/sources/18-the-north-south-divide-glt3709184192/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/london/"
+    },
+    "LondonMetropolitanDominance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3709184192 [GLT3709184192].md",
+          "key": "18-the-north-south-divide-glt3709184192",
+          "show": "The Rest Is History",
+          "title": "18. The North South Divide",
+          "url": "/wiki/sources/18-the-north-south-divide-glt3709184192/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/londonmetropolitandominance/"
     },
     "LonelinessPublicHealthRisk": {
       "episode_count": 1,
@@ -163258,9 +163320,9 @@
       "url": "/wiki/concepts/polishbuiltheritagepalimpsest/"
     },
     "PoliticalAccentPrestige": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Slip the surly bonds？ Scott Bessent goes on a yield trip [6a8eb9200c15e359f9599e1a].md",
@@ -163268,9 +163330,16 @@
           "show": "Economist Podcasts",
           "title": "Slip the Surly Bonds? Scott Bessent Goes on a Yield Trip",
           "url": "/wiki/sources/slip-the-surly-bonds-scott-bessent-goes-on-a-yield-trip-6a8eb9200c15e359f9599e1a/"
+        },
+        {
+          "episode_file": "GLT3709184192 [GLT3709184192].md",
+          "key": "18-the-north-south-divide-glt3709184192",
+          "show": "The Rest Is History",
+          "title": "18. The North South Divide",
+          "url": "/wiki/sources/18-the-north-south-divide-glt3709184192/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/politicalaccentprestige/"
     },
     "PoliticalAuthorityCollapseCascade": {

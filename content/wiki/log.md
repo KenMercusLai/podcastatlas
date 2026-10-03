@@ -29004,3 +29004,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-04] ingest | 18. The North South Divide
+
+Added source `18-the-north-south-divide-glt3709184192`; created [[EnglishNorthSouthDivide]], [[LondonMetropolitanDominance]], and [[EnglishRegionalIdentityFormation]]; and resynthesized [[DanJackson]], [[London]], and [[PoliticalAccentPrestige]] from their complete preserved evidence inventories. Core synthesis: England's North-South divide is a changing overlap of physical geography, political boundaries, industrial specialization, class, language, sport, and metropolitan power rather than one timeless frontier; London's Thames position, European access, state centrality, and accumulated institutions gave it a dominance that northern industrial strength did not permanently displace. No settled contradiction was adopted. The Mersey-Humber line remains heuristic, while the Midlands, Wales, east-west geography, northern city-town differences, and North East micro-regions qualify a binary map; unclear transcript passages and precise boundary, employment, migration, accent, and political claims remain source-scoped. Recurring host and show profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,625-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

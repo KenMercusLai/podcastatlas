@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [18. The North South Divide](sources/18-the-north-south-divide-glt3709184192.md) — The Rest Is History with Dan Jackson on geography, London centrality, industrial power, accent, class, politics, and layered English regional identity.
 - [19. King Arthur](sources/19-king-arthur-glt1076701162.md) — The Rest Is History on Arthur's uncertain historicity, medieval legend formation, political reuse, sacred objects, mythic landscapes, and modern afterlives.
 - [20. China](sources/20-china-glt4329327216.md) — The Rest Is History with Michael Wood on Chinese civilizational continuity, unity, imperial expansion, foreign coercion, revolution, historical memory, and modernization.
 - [21. The History of the Future](sources/21-the-history-of-the-future-glt7103118075.md) — The Rest Is History on prophecy, apocalypse, technological futurism, dystopia, and future visions as mirrors of present anxiety.
@@ -3686,6 +3687,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Focus to Change Your Brain](sources/scim3840916606-scim3840916606.md) — Early Huberman Lab episode on attention-gated adult neuroplasticity, alertness, sensory selection, bounded focus bouts, sleep, and deep-rest consolidation.
 
 ## Entities
+- [Dan Jackson](entities/DanJackson.md) — North East historian connecting railway formation and English regional identity to geography, industry, institutions, language, and culture.
 - [Michael Wood](entities/MichaelWood.md) — Historian and broadcaster who frames Chinese history through continuity, rupture, territorial change, and selective political memory.
 - [Delphic Oracle](entities/DelphicOracle.md) — Ancient Greek institution joining Apollo's sacred authority, professional interpretation, possible information advantage, and ambiguous fulfillment.
 - [John Major](entities/JohnMajor.md) — British Conservative prime minister whose hostile contemporary reception and improved later reputation illustrate retrospective political memory.
@@ -3987,7 +3989,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [George, Duke of Clarence](entities/GeorgeDukeOfClarence.md) — Yorkist royal brother whose defections and death narrowed the adult dynastic field before 1483.
 - [William Hastings](entities/WilliamHastings.md) — Edward IV loyalist whose summary execution marks the crisis's turn toward overt usurpation.
 - [Henry Stafford, Duke of Buckingham](entities/HenryStaffordDukeOfBuckingham.md) — Richard III ally, later rebel, and principal alternative suspect in the princes' deaths.
-- [Dan Jackson](entities/DanJackson.md) — Historian interpreting British railway origins through North East coal, cumulative invention, institutions, and social change.
 - [George Stephenson](entities/GeorgeStephenson.md) — Mining engineer whose practical locomotive work anchors the Hetton and Stockton-Darlington stages of early British rail.
 - [Robert Stephenson](entities/RobertStephenson.md) — Locomotive designer and civil engineer connecting Rocket, major works, gauge standards, and national railway growth.
 - [Hetton Railway](entities/HettonRailway.md) — 1822 colliery line presented as an early complete locomotive-powered coal route.
@@ -5757,7 +5758,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Our Hong Kong Foundation / 團結香港基金](entities/OurHongKongFoundation.md) — Tung-linked post-tenure establishment organization founded during the Umbrella Movement period.
 - [Hong Kong Coalition / 香港再出發大聯盟](entities/HongKongCoalition.md) — Tung-linked pro-establishment organization launched during the anti-extradition movement period.
 - [Inditex](entities/Inditex.md) — Zara parent company mentioned through a source-scoped update on margin pressure, flagship stores, and lower-priced brand expansion.
-- [London](entities/London.md) — United Kingdom capital represented as a political stage, fashion-media center, layered historical city, and qualified literary map.
+- [London](entities/London.md) — Structurally dominant United Kingdom capital represented through political, fashion-media, urban-memory, migration, and literary-geography branches.
 - [Snow Peak](entities/SnowPeak.md) — Japanese outdoor brand used as a bridge from titanium camping gear to lifestyle consumption.
 - [Yongkang / 永康](entities/Yongkang.md) — Zhejiang hardware and cup manufacturing cluster behind titanium-cup supply growth.
 - [淳于长 / Chunyu Zhang (Western Han)](entities/ChunyuZhangWesternHan.md) — Chengdi-era favorite whose public Changling reward, access-based extraction, exploitation of Empress Xu, and failed restoration bid through Wang Li turn proximity into danger.
@@ -15981,6 +15982,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Geoffrey of Monmouth](entities/GeoffreyOfMonmouth.md) — Twelfth-century writer whose synthetic British history decisively shaped Arthur and Merlin's medieval profiles.
 
 ## Concepts
+- [English North-South Divide](concepts/EnglishNorthSouthDivide.md) — Layered regional distinction produced through geography, political boundaries, industrial change, culture, and London centrality.
+- [London Metropolitan Dominance](concepts/LondonMetropolitanDominance.md) — Durable concentration of national power reinforced by Thames geography, European access, state formation, and institutional accumulation.
+- [English Regional Identity Formation](concepts/EnglishRegionalIdentityFormation.md) — Multi-scale production of belonging through geography, work, transport, language, class, sport, media, and rivalry.
 - [Chinese Civilizational Continuity](concepts/ChineseCivilizationalContinuity.md) — Qualified framework for unity, fragmentation, institutional inheritance, territorial change, revolution, and the political use of history in China.
 - [Future Visions as Present Anxiety](concepts/FutureVisionsAsPresentAnxiety.md) — Framework reading prophecy, futurism, models, and dystopia as evidence about the fears and assumptions of their own time.
 - [Prophetic Ambiguity and Interpretation](concepts/PropheticAmbiguityAndInterpretation.md) — Mechanism by which difficult wording, specialist authority, information access, and retrospective reading preserve prophetic force.

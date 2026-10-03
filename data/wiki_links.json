@@ -1131,6 +1131,10 @@
     "title": "18.如何识别、逃离并避免成为《精神吸血鬼》",
     "url": "/wiki/sources/18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000/"
   },
+  "18-the-north-south-divide-glt3709184192": {
+    "title": "18. The North South Divide",
+    "url": "/wiki/sources/18-the-north-south-divide-glt3709184192/"
+  },
   "180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611": {
     "title": "180.爱丽丝梦游仙境：世界多荒诞，我也是自己的主宰（下）",
     "url": "/wiki/sources/180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611/"
@@ -27247,6 +27251,14 @@
     "title": "English National Identity",
     "url": "/wiki/concepts/englishnationalidentity/"
   },
+  "EnglishNorthSouthDivide": {
+    "title": "English North-South Divide",
+    "url": "/wiki/concepts/englishnorthsouthdivide/"
+  },
+  "EnglishRegionalIdentityFormation": {
+    "title": "English Regional Identity Formation",
+    "url": "/wiki/concepts/englishregionalidentityformation/"
+  },
   "EnjoymentVsPleasure": {
     "title": "Enjoyment Vs Pleasure",
     "url": "/wiki/concepts/enjoymentvspleasure/"
@@ -49322,6 +49334,10 @@
   "LondonCollegeOfCommunication": {
     "title": "London College of Communication",
     "url": "/wiki/entities/londoncollegeofcommunication/"
+  },
+  "LondonMetropolitanDominance": {
+    "title": "London Metropolitan Dominance",
+    "url": "/wiki/concepts/londonmetropolitandominance/"
   },
   "LonelinessPublicHealthRisk": {
     "title": "Loneliness as a Public-Health Risk",
