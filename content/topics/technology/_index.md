@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3280
+topic_total_pages: 3282
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1336,6 +1336,9 @@ topic_concepts:
   - key: "CalculationIntegrityAttack"
     title: "Calculation Integrity Attack"
     url: "/wiki/concepts/calculationintegrityattack/"
+  - key: "CaliforniaDreamAndReinvention"
+    title: "California Dream and Reinvention"
+    url: "/wiki/concepts/californiadreamandreinvention/"
   - key: "CameraFreeSmartGlasses"
     title: "Camera-Free Smart Glasses / 无摄像头智能眼镜"
     url: "/wiki/concepts/camerafreesmartglasses/"
@@ -5069,6 +5072,9 @@ topic_entities:
   - key: "CalculatingEmpires"
     title: "Calculating Empires"
     url: "/wiki/entities/calculatingempires/"
+  - key: "California"
+    title: "California"
+    url: "/wiki/entities/california/"
   - key: "CaliforniaHighSpeedRail"
     title: "California High-Speed Rail"
     url: "/wiki/entities/californiahighspeedrail/"

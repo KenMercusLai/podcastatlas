@@ -3609,6 +3609,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 - [How Smell, Taste & Pheromone-Like Chemicals Control You](sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027.md) — Full Huberman Lab episode on olfactory pathways, sniffing and respiratory phase, smell training, gustatory and gut nutrient sensing, and the boundary between human chemical effects and established pheromones.
 - [The Science of Vision, Eye Health & Seeing Better](sources/scim3952740577-scim3952740577.md) — Early Huberman Lab solo episode on visual inference, retinal light signaling, varied eye use, developmental balance, and bounded behavioral eye-health tools.
+- [61. California](sources/61-california-glt2438679240.md) — The Rest Is History on California's Indigenous past, settler violence, Gold Rush, engineered abundance, Hollywood, political change, Silicon Valley, and paired utopian and dystopian futures.
 - [62. Magna Carta](sources/62-magna-carta-glt5613809659.md) — The Rest Is History episode on King John's 1215 crisis, lawful limits on monarchy, reissue, rights-centered reinterpretation, and Magna Carta's political afterlife.
 - [How to Build Endurance in Your Brain & Body](sources/scim8024795061-scim8024795061.md) — Early Huberman Lab solo episode on four endurance modes, brain-body persistence, breathing, hydration, recovery, visual pacing, and source-scoped protocols.
 
@@ -13647,7 +13648,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wendy Liu](entities/WendyLiu.md) — Girl Scouts of the USA chief revenue officer explaining digital cookie sales, girl-led learning, platform feedback, and online safety.
 - [Nicole Turner-Lee](entities/NicoleTurnerLee.md) — Brookings Institution expert explaining California's DROP platform as useful but incomplete consumer privacy agency over broker-held data.
 - [Brookings Institution](entities/BrookingsInstitution.md) — Policy institution represented by Nicole Turner-Lee in the Marketplace Tech discussion of data brokers and state privacy tools.
-- [California](entities/California.md) — State appearing through wildfire rebuilding, carbon removal, data-broker deletion, and Meta social-media litigation.
+- [California](entities/California.md) — State whose reinvention mythology joins Indigenous and settler history, infrastructure, entertainment, technology, regulation, climate risk, and contested public capacity.
 - [New Mexico](entities/NewMexico.md) — State attorney-general verdict context where Meta was found to have violated state law and misled consumers about child-safety guardrails.
 - [Delete Request and Opt Out Platform](entities/DeleteRequestAndOptOutPlatform.md) — California's DROP/DROPS tool for residents to centralize deletion requests to registered data brokers, with effectiveness dependent on broker compliance.
 - [Kalshi](entities/Kalshi.md) — Prediction-market platform used by Marketplace Tech to examine harmful-event wagers, Khamenei-related market resolution, CFTC rules, market-integrity risk, and self-regulatory guardrails.
@@ -15056,7 +15057,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mickey Mouse](entities/MickeyMouse.md) — Disney character that became a branded animation, merchandise, club, comics, and licensing flywheel.
 - [Kay Kamen](entities/KayKamen.md) — Merchandising operator who professionalized Disney consumer products in the 1930s.
 - [Snow White and the Seven Dwarfs](entities/SnowWhiteAndTheSevenDwarfs.md) — Bet-the-company animated feature that proved premium animation and later rerelease economics.
-- [Disneyland](entities/Disneyland.md) — Anaheim theme park that turned Disney IP into a physical media and retail platform.
+- [Disneyland](entities/Disneyland.md) — Anaheim theme park that joins Disney's physical media platform to California's designed nostalgia and futurism.
 - [Walt Disney World](entities/WaltDisneyWorld.md) — Florida project completed by Roy Disney after Walt's death.
 - [ABC](entities/ABC.md) — Television partner that financed and promoted Disneyland while gaining breakout programming.
 - [WED Enterprises](entities/WEDEnterprises.md) — Walt Disney's personal company that designed Disneyland and retained valuable park rights before buyouts.
@@ -15814,6 +15815,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [California Dream and Reinvention](concepts/CaliforniaDreamAndReinvention.md) — How California repeatedly turns story, migration, infrastructure, entertainment, and technology into future imagery while displacing social and environmental costs.
 - [Endurance Effort Persistence](concepts/EnduranceEffortPersistence.md) — Brain-body model of continued effort shaped by physiological capacity, perceived progress, arousal, and pacing cues.
 - [King Under Law](concepts/KingUnderLaw.md) — Principle that monarchic authority remains constrained by law, lawful process, and enforceable limits rather than personal will.
 - [Constitutional Memory Reuse](concepts/ConstitutionalMemoryReuse.md) — Process by which reissue, interpretation, myth, and mobilization widen an older legal event into later constitutional authority.
@@ -15886,7 +15888,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Teacher Administrative Overload / 教师事务性过载](concepts/TeacherAdministrativeOverload.md) — Non-teaching duty stack that compresses preparation, recovery, bodily care, and family time.
 - [School Mental-Health Referral Boundary / 学校心理健康转介边界](concepts/SchoolMentalHealthReferralBoundary.md) — Boundary between teacher observation and support versus professional diagnosis and treatment.
 - [Education Resource Equalization System Limits / 教育资源均衡的系统边界](concepts/EducationResourceEqualizationSystemLimits.md) — Constraints on equalization when staffing, incentives, school capacity, students, and family resources remain uneven.
-- [Silicon Valley Innovation System](concepts/SiliconValleyInnovationSystem.md) — How public research, Stanford commercialization, chips, migration, and culture combined into a technology cluster.
+- [Silicon Valley Innovation System](concepts/SiliconValleyInnovationSystem.md) — How public research, Stanford commercialization, chips, migration, culture, and California future-branding combined into a technology cluster.
 - [Mass Internet Adoption](concepts/MassInternetAdoption.md) — The complementary access, interface, device, policy, and capacity layers that moved the internet into ordinary use.
 - [Social Media Prehistory](concepts/SocialMediaPrehistory.md) — The long lineage of networked social mechanics before modern mass-market platforms.
 - [Internet Political Amplification](concepts/InternetPoliticalAmplification.md) — Model separating older political ideas from the reach, intensity, coordination, and conflict produced by digital networks.

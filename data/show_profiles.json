@@ -939,8 +939,8 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-30",
       "latest_episode_file": "GLT5038102951 [GLT5038102951].md",
-      "source_note_count": 548,
-      "topic_matched_source_note_count": 517,
+      "source_note_count": 549,
+      "topic_matched_source_note_count": 518,
       "topics": [
         {
           "key": "history",
@@ -958,7 +958,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 53
+          "source_note_count": 54
         },
         {
           "key": "economics",

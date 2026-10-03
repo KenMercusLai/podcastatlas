@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9456
+wiki_total_pages: 9457
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "CaliforniaDeleteAct"
     title: "California Delete Act"
     url: "/wiki/concepts/californiadeleteact/"
+  - key: "CaliforniaDreamAndReinvention"
+    title: "California Dream and Reinvention"
+    url: "/wiki/concepts/californiadreamandreinvention/"
   - key: "CaliforniaEnergyPermittingPolitics"
     title: "California Energy Permitting Politics"
     url: "/wiki/concepts/californiaenergypermittingpolitics/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3073
+topic_total_pages: 3074
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -565,6 +565,9 @@ topic_concepts:
   - key: "CainMarkReinterpretation"
     title: "Cain Mark Reinterpretation / 该隐印记重释"
     url: "/wiki/concepts/cainmarkreinterpretation/"
+  - key: "CaliforniaDreamAndReinvention"
+    title: "California Dream and Reinvention"
+    url: "/wiki/concepts/californiadreamandreinvention/"
   - key: "CampusConservativeMediaNetwork"
     title: "Campus Conservative Media Network"
     url: "/wiki/concepts/campusconservativemedianetwork/"

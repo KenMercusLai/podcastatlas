@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3029
+topic_total_pages: 3031
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5270,6 +5270,9 @@ topic_entities:
   - key: "CalDOGE"
     title: "CalDOGE"
     url: "/wiki/entities/caldoge/"
+  - key: "California"
+    title: "California"
+    url: "/wiki/entities/california/"
   - key: "Carbon180"
     title: "Carbon180"
     url: "/wiki/entities/carbon180/"
@@ -8172,6 +8175,9 @@ topic_sources:
   - key: "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819"
     title: "563. Peter the Great: Bloodbath in the Kremlin (Part 2)"
     url: "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
+  - key: "61-california-glt2438679240"
+    title: "61. California"
+    url: "/wiki/sources/61-california-glt2438679240/"
   - key: "64-bawangbieji-fengmo-yu-chenghuo-656094350"
     title: "64.霸王别姬：疯魔与成活"
     url: "/wiki/sources/64-bawangbieji-fengmo-yu-chenghuo-656094350/"

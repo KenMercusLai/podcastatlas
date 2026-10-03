@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2471
+topic_total_pages: 2472
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1955,6 +1955,9 @@ topic_entities:
   - key: "Bucephalus"
     title: "Bucephalus / 布西法拉斯"
     url: "/wiki/entities/bucephalus/"
+  - key: "California"
+    title: "California"
+    url: "/wiki/entities/california/"
   - key: "Cambodia"
     title: "Cambodia / 柬埔寨"
     url: "/wiki/entities/cambodia/"

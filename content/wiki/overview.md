@@ -28,8 +28,11 @@ sources: [90-the-western-front-glt9972346188, vol-73-jingshenke-shaonian-ertong-
   95-9-11-glt8208243510
   scim4317576130-scim4317576130
   scim1865244910-scim1865244910
+  61-california-glt2438679240
 last_updated: 2026-10-03
 ---
+
+The latest addition is [[61-california-glt2438679240|61. California]], a [[TheRestIsHistory]] survey of [[California]] from its literary name and Indigenous past through conquest, the Gold Rush, railroads, water engineering, Hollywood, racial conflict, political realignment, counterculture, Silicon Valley, inequality, and disaster imagery. It adds [[CaliforniaDreamAndReinvention]], resynthesizes [[California]] and [[Disneyland]], and extends [[SiliconValleyInnovationSystem]]. Its core synthesis is that California's apparent rootlessness is historical: migration, public and private infrastructure, entertainment, and technology repeatedly manufacture an exportable future, while Indigenous catastrophe, racial exclusion, ecological transformation, homelessness, unequal wealth, and weak public capacity remain constitutive costs rather than exceptions. No settled contradiction is recorded; mission attribution, population and violence figures, water and tax causation, Hollywood motives, Proposition 13 effects, and exclusive invention claims remain source-scoped or qualified.
 
 The latest addition is [[how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856|How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin]], an early [[HubermanLab]] masterclass with [[AndyGalpin]] and [[AndrewHuberman]] on [[NinePhysiologicalAdaptations]], [[StrengthHypertrophyProgramming]], [[EnduranceTrainingModalities]], recovery, hydration, thermal exposure, breathing, and supplements. Its core synthesis is that exercises do not own adaptations: load, volume, frequency, rest, cadence, range of motion, progression, and intent determine the dominant result, while recovery capacity determines whether the stress becomes improvement. It extends [[AndyGalpin]] and clarifies the programming role of the nine-adaptation taxonomy without duplicating the later specialized series. No settled contradiction is recorded; the episode's load, set, interval, fluid, sodium, temperature, breathing, and supplement protocols remain source-scoped public education rather than universal or individualized prescriptions.
 

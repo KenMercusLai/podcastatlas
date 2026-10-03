@@ -5304,6 +5304,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "61-california-glt2438679240": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353": [
     {
       "key": "economics",
@@ -18500,6 +18507,21 @@
   ],
   "California": [
     {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
@@ -18517,6 +18539,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "CaliforniaDreamAndReinvention": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CaliforniaEnergyPermittingPolitics": [
