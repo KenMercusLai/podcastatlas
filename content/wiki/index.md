@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP179-我们的内心都住着一个刘小样——做自己是要付出巨大代价的](sources/ep179-womende-neixin-dou-zhuzhe-yige-liuxiaoyang-zuoziji-shi-yao-fuchu-juda-daijia-ckwriaset1ykabaaaadc008h.md) — 无时差研究所 on Liu Xiaoyang, the costs of leaving, public expectation, concrete practice, and meaning in ordinary life.
 - [70. Children’s History](sources/70-childrens-history-glt3229015713.md) — The Rest Is History on narrative hooks, child-reader feedback, atrocity, moral signaling, myth, ambiguity, and multiple perspectives in history for children.
 - [The Science of Hearing, Balance & Accelerated Learning](sources/scim1865244910-scim1865244910.md) — Full-length Huberman Lab episode on micro-rest replay, auditory attention, conditional sound tools, hearing safety, tinnitus boundaries, and visual-vestibular balance training.
 - [EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？](sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf.md) — 无时差研究所 episode on education competition, advance learning, tutoring substitution, school capacity, family coordination, and child-development goals beyond scores.
@@ -3596,6 +3597,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [刘晓漾 / Liu Xiaoyang](entities/LiuXiaoyang.md) — Rural woman whose refusal of numbness and repeated departures became a public story about aspiration without a clean success ending.
+- [张越 / Zhang Yue (television host)](entities/ZhangYueCCTV.md) — Television interviewer whose encounter with Liu Xiaoyang joined public visibility to caution about urban survival.
+- [余秀华 / Yu Xiuhua](entities/YuXiuhua.md) — Poet used in EP179 as a practice-before-recognition comparison.
+- [范雨素 / Fan Yusu](entities/FanYusu.md) — Writer used in EP179 as a gradual-practice and urban-accumulation comparison.
+- [许渊冲 / Xu Yuanchong](entities/XuYuanchongTranslator.md) — Translator used in EP179 as a model of lifelong practice-centered purpose.
 - [Anne of Denmark](entities/AnneOfDenmark.md) — Danish princess and Stuart queen whose marriage, household agency, court culture, and descendants tied Denmark to Scotland and England.
 - [陈老师 / Chen (primary-school teacher)](entities/ChenPrimarySchoolTeacher.md) — EP180 teacher connecting classroom attention and fatigue to staffing capacity, student safety, and educational aims beyond rank.
 - [扣子妈妈 / Kouzi's mother](entities/KouziMother.md) — EP180 Beijing parent distinguishing selective extracurricular investment from preschool acceleration and credential-maximizing competition.
@@ -15765,6 +15771,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Exit Freedom Material Conditions / 出走自由的物质条件](concepts/ExitFreedomMaterialConditions.md) — Freedom after departure depends on capability, income, knowledge, relationships, and a viable place to stand.
+- [Ideal-to-Practice Conversion / 理想的实践转化](concepts/IdealToPracticeConversion.md) — Movement from dissatisfaction or recognition-seeking toward a specific repeatable valued activity.
+- [Ordinary-Life Non-Mediocrity / 平凡不等于平庸](concepts/OrdinaryLifeNonMediocrity.md) — Distinction between ordinary circumstances and living without attention, care, desire, or meaning.
 - [Children's History Narrative](concepts/ChildrensHistoryNarrative.md) — Craft framework joining story, child-reader feedback, age-appropriate atrocity, moral signaling, myth correction, ambiguity, and multiple perspectives.
 - [Micro-Rest Learning Replay](concepts/MicroRestLearningReplay.md) — Practice-design principle using brief wakeful, low-input pauses to create opportunities for offline replay without treating ten seconds as a universal law.
 - [Anglo-Danish Relations](concepts/AngloDanishRelations.md) — Long-run relationship joining invasion, settlement, state formation, dynastic connection, naval violence, cultural exchange, and wartime alliance.

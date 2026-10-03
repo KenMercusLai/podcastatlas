@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9424
+wiki_total_pages: 9427
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "OrdinaryPeopleResistance"
     title: "Ordinary People Resistance"
     url: "/wiki/concepts/ordinarypeopleresistance/"
+  - key: "OrdinaryLifeNonMediocrity"
+    title: "Ordinary-Life Non-Mediocrity / 平凡不等于平庸"
+    url: "/wiki/concepts/ordinarylifenonmediocrity/"
   - key: "OrexinAgonists"
     title: "Orexin Agonists"
     url: "/wiki/concepts/orexinagonists/"

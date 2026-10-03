@@ -28284,3 +28284,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | EP179-我们的内心都住着一个刘小样——做自己是要付出巨大代价的
+
+Added source `ep179-womende-neixin-dou-zhuzhe-yige-liuxiaoyang-zuoziji-shi-yao-fuchu-juda-daijia-ckwriaset1ykabaaaadc008h`; created `LiuXiaoyang`, `ZhangYueCCTV`, `YuXiuhua`, `FanYusu`, `XuYuanchongTranslator`, `ExitFreedomMaterialConditions`, `IdealToPracticeConversion`, and `OrdinaryLifeNonMediocrity`; and resynthesized `WushichaYanjiusuo` and `SpiritualFreedomUnderConstraint` from their complete preserved evidence inventories. Core synthesis: departure does not become durable freedom without capability, income, relationships, and a viable place to stand; public recognition can burden rather than replace concrete practice; and return or ordinary life need not erase aspiration, attention, or the value of trying. No settled contradiction was adopted. Claims about Liu Xiaoyang's motives, health, city experience, family ties, creative ambition, and rejection of particular paths remain the hosts' interpretation of a magazine profile, while comparisons with Yu Xiuhua, Fan Yusu, and Xu Yuanchong remain illustrative rather than directly equivalent. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,535-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

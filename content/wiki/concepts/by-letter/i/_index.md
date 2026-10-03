@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9424
+wiki_total_pages: 9427
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "ICUFamilyParticipationBoundary"
     title: "ICU Family Participation Boundary / ICU家属参与边界"
     url: "/wiki/concepts/icufamilyparticipationboundary/"
+  - key: "IdealToPracticeConversion"
+    title: "Ideal-to-Practice Conversion / 理想的实践转化"
+    url: "/wiki/concepts/idealtopracticeconversion/"
   - key: "IdentityPoliticsAsPoliticalSorting"
     title: "Identity Politics As Political Sorting"
     url: "/wiki/concepts/identitypoliticsaspoliticalsorting/"

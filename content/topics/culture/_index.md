@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3065
+topic_total_pages: 3066
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7916,6 +7916,9 @@ topic_entities:
   - key: "ChudongZahuopu"
     title: "触动杂货铺 / Chudong Zahuopu"
     url: "/wiki/entities/chudongzahuopu/"
+  - key: "XuYuanchongTranslator"
+    title: "许渊冲 / Xu Yuanchong"
+    url: "/wiki/entities/xuyuanchongtranslator/"
   - key: "ShuoDeHaoTing"
     title: "说得好听 / Shuo De Hao Ting"
     url: "/wiki/entities/shuodehaoting/"

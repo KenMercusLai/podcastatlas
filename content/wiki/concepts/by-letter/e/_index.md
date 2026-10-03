@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9424
+wiki_total_pages: 9427
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1124,6 +1124,9 @@ wiki_pages:
   - key: "Existutions"
     title: "Existutions"
     url: "/wiki/concepts/existutions/"
+  - key: "ExitFreedomMaterialConditions"
+    title: "Exit Freedom Material Conditions / 出走自由的物质条件"
+    url: "/wiki/concepts/exitfreedommaterialconditions/"
   - key: "ExpansionaryVsAnxietyMarketing"
     title: "Expansionary vs Anxiety-Based Marketing / 扩张型与焦虑型营销"
     url: "/wiki/concepts/expansionaryvsanxietymarketing/"
