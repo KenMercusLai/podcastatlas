@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 9475
+wiki_total_pages: 9480
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "USRestaurantRealEstateConstraint"
     title: "U.S. Restaurant Real Estate Constraint"
     url: "/wiki/concepts/usrestaurantrealestateconstraint/"
+  - key: "USWelfareFragmentation"
+    title: "U.S. Welfare Fragmentation / 美国福利体系碎片化"
+    url: "/wiki/concepts/uswelfarefragmentation/"
   - key: "USChinaAIMacroAsymmetry"
     title: "U.S.-China AI Macro Asymmetry / 中美AI宏观不对称"
     url: "/wiki/concepts/uschinaaimacroasymmetry/"
@@ -179,6 +182,9 @@ wiki_pages:
   - key: "UnitreeIPOValuation"
     title: "Unitree IPO Valuation / 宇树上市估值"
     url: "/wiki/concepts/unitreeipovaluation/"
+  - key: "UniversalBasicIncomeFeasibility"
+    title: "Universal Basic Income Feasibility / 全民基本收入可行性"
+    url: "/wiki/concepts/universalbasicincomefeasibility/"
   - key: "UniversalDigitalAgent"
     title: "Universal Digital Agent"
     url: "/wiki/concepts/universaldigitalagent/"

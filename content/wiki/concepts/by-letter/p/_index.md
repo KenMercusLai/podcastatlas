@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9475
+wiki_total_pages: 9480
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "PandemicCrossBorderDecisionCompression"
     title: "Pandemic Cross-Border Decision Compression"
     url: "/wiki/concepts/pandemiccrossborderdecisioncompression/"
+  - key: "PandemicFiscalReliefTradeoffs"
+    title: "Pandemic Fiscal Relief Tradeoffs / 疫情财政救济权衡"
+    url: "/wiki/concepts/pandemicfiscalrelieftradeoffs/"
   - key: "PandemicHistoricalMemory"
     title: "Pandemic Historical Memory"
     url: "/wiki/concepts/pandemichistoricalmemory/"

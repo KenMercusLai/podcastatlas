@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2170
+topic_total_pages: 2172
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -577,6 +577,9 @@ topic_concepts:
   - key: "ChinaBiotechAssetRepricing"
     title: "China Biotech Asset Repricing"
     url: "/wiki/concepts/chinabiotechassetrepricing/"
+  - key: "ChinaDualCirculationStrategy"
+    title: "China Dual Circulation Strategy / 中国双循环战略"
+    url: "/wiki/concepts/chinadualcirculationstrategy/"
   - key: "ChinaEquityStructuralSelection"
     title: "China Equity Structural Selection / 中国权益结构分化"
     url: "/wiki/concepts/chinaequitystructuralselection/"
@@ -1207,6 +1210,9 @@ topic_concepts:
   - key: "FireTechClimateResilience"
     title: "Fire Tech Climate Resilience"
     url: "/wiki/concepts/firetechclimateresilience/"
+  - key: "FiscalMonetaryTransmissionDifference"
+    title: "Fiscal-Monetary Transmission Difference / 财政与货币传导差异"
+    url: "/wiki/concepts/fiscalmonetarytransmissiondifference/"
   - key: "FixedIncomePlusProduct"
     title: "Fixed Income Plus Product / 固收+产品"
     url: "/wiki/concepts/fixedincomeplusproduct/"

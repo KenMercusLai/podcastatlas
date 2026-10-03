@@ -20626,6 +20626,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ChinaDualCirculationStrategy": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "ChinaEnterpriseAISystemDebt": [
     {
       "key": "technology",
@@ -33712,6 +33719,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "FiscalMonetaryTransmissionDifference": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "FisherNash": [

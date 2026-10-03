@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP171-疫情下的中美经济政策：发钱刺激消费，一生能遇到几回？](sources/ep171-yiqing-xia-de-zhongmei-jingji-zhengce-faqian-ciji-xiaofei-yisheng-neng-yudao-jihui-ckwriueebny5abaaaacoc8to.md) — 无时差研究所 on U.S. pandemic relief, welfare fragmentation, fiscal-monetary transmission, China's targeted response and dual circulation, and the limits of treating emergency checks as UBI evidence.
 - [Supercharge Exercise Performance & Recovery with Cooling](sources/scim5512858918-scim5512858918.md) — Early Huberman Lab episode on heat-limited exercise, cardiac drift, flow-preserving glabrous-skin cooling, and recovery-adaptation tradeoffs.
 - [54. Cromwell and the Protectorate](sources/54-cromwell-and-the-protectorate-glt5457562231.md) — The Rest Is History with Paul Lay on Cromwell's elusive biography, the Protectorate's unsettled constitution, Ireland, succession failure, and contested political afterlife.
 - [How to Lose Fat With Science-Based Tools](sources/scim2441056488-scim2441056488.md) — Full Huberman Lab episode on energy balance, nervous-system control of fat use, NEAT, shivering thermogenesis, exercise sequencing, and safety-bounded secondary compounds.
@@ -6177,7 +6178,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frederick AI](entities/FrederickAI.md) — Wu Hankun's source-reported early agent project for founder task execution.
 - [《粉色悖论》 / Pink Paradox](entities/PinkParadox.md) — Wu Hankun's first AI short-film case, begun as a role-farewell project.
 - [《人口异常》 / Population Anomaly](entities/PopulationAnomaly.md) — Wu Hankun's later science-fiction AI short-film experiment.
-- [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Conversational podcast represented by culture, health, travel, creative-practice, workplace, language, and social-play interpretation.
+- [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Conversational podcast represented by culture, health, travel, creative-practice, workplace, language, macro-policy, and social-play interpretation.
 - [亦舒 / Yi Shu](entities/YiShu.md) — Authorial baseline for EP385's comparison between the 《我的前半生》 novel's female-supported rebuilding and the TV drama's male-mentor rewrite.
 - [《我的前半生》 / My First Half Life](entities/MyFirstHalfLife.md) — Yi Shu novel and 2017 TV adaptation reread as an old-drama revival, gender-narrative, and economic-memory case.
 - [罗子君 / Luo Zijun](entities/LuoZijun.md) — 《我的前半生》 heroine whose divorce, work return, and claimed independence test the difference between supported agency and male-authorized growth.
@@ -15858,6 +15859,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Camilla Townsend](entities/CamillaTownsend.md) — Historian using Nahuatl-language evidence to reconstruct Mexica history and challenge conquest myths.
 
 ## Concepts
+- [Pandemic Fiscal Relief Tradeoffs / 疫情财政救济权衡](concepts/PandemicFiscalReliefTradeoffs.md) — Emergency balance among rapid household support, targeting, work incentives, demand, debt, and inflation.
+- [U.S. Welfare Fragmentation / 美国福利体系碎片化](concepts/USWelfareFragmentation.md) — How substantial programs can coexist with uneven eligibility, federal-state variation, and high navigation costs.
+- [Fiscal-Monetary Transmission Difference / 财政与货币传导差异](concepts/FiscalMonetaryTransmissionDifference.md) — Distinction between direct income channels and financial-liquidity or asset-price channels.
+- [China Dual Circulation Strategy / 中国双循环战略](concepts/ChinaDualCirculationStrategy.md) — Domestic-demand and industrial-capability strategy that retains international trade and investment links.
+- [Universal Basic Income Feasibility / 全民基本收入可行性](concepts/UniversalBasicIncomeFeasibility.md) — Funding, program-integration, regional-cost, labor, and durability tests for a recurring unconditional income floor.
 - [Levellers](concepts/Levellers.md) — Radical republican current joining democratic demands and freeborn rights to anti-conquest argument before suppression at Burford.
 - [Instrument of Government (1653)](concepts/InstrumentOfGovernment1653.md) — Written Protectorate framework whose formal offices did not settle military power, legitimacy, or succession.
 - [Pandemic Cross-Border Decision Compression](concepts/PandemicCrossBorderDecisionCompression.md) — Crisis process that forces deferred choices about country, family, study, work, and belonging under a suddenly narrower option set.

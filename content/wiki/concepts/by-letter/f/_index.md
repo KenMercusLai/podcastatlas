@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9475
+wiki_total_pages: 9480
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "FiscalMilitaryNavalState"
     title: "Fiscal-Military Naval State"
     url: "/wiki/concepts/fiscalmilitarynavalstate/"
+  - key: "FiscalMonetaryTransmissionDifference"
+    title: "Fiscal-Monetary Transmission Difference / 财政与货币传导差异"
+    url: "/wiki/concepts/fiscalmonetarytransmissiondifference/"
   - key: "FishOilNaturalStatinBoundary"
     title: "Fish Oil Natural Statin Boundary / 鱼油不是天然他汀"
     url: "/wiki/concepts/fishoilnaturalstatinboundary/"
