@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9577
+wiki_total_pages: 9580
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "NativeAlienSpeciesBoundary"
     title: "Native-Alien Species Boundary / 原生外來邊界"
     url: "/wiki/concepts/nativealienspeciesboundary/"
+  - key: "NativityNarrativeSynthesis"
+    title: "Nativity Narrative Synthesis"
+    url: "/wiki/concepts/nativitynarrativesynthesis/"
   - key: "NATOAllianceCredibility"
     title: "NATO Alliance Credibility"
     url: "/wiki/concepts/natoalliancecredibility/"

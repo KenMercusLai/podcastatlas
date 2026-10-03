@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9577
+wiki_total_pages: 9580
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "ChristianInheritanceOfEnlightenmentRights"
     title: "Christian Inheritance of Enlightenment Rights"
     url: "/wiki/concepts/christianinheritanceofenlightenmentrights/"
+  - key: "ChristmasTruce1914"
+    title: "Christmas Truce of 1914"
+    url: "/wiki/concepts/christmastruce1914/"
   - key: "ChronicDiseaseTreatmentAdherence"
     title: "Chronic Disease Treatment Adherence / 慢病治疗依从性"
     url: "/wiki/concepts/chronicdiseasetreatmentadherence/"

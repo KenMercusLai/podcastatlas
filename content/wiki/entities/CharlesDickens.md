@@ -8,6 +8,7 @@ sources:
   - 212-haunted-london-part-4-glt8938796735
   - 133-christmas-churches-glt8843719433
   - 132-a-christmas-carol-glt9074696790
+  - 10-christmas-glt9855064623
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -34,6 +35,8 @@ The dedicated [[AChristmasCarol|*A Christmas Carol*]] walk deepens that profile.
 
 The episode also clarifies Dickens's moral politics. His story rejects the reduction of people to ledgers, workhouses, and “surplus population,” but resolves structural inequality through Scrooge's philanthropy, higher pay, and personal care. [[PersonalRedemptionStructuralLimit]] preserves both the humane force of this answer and its dependence on individual virtue.
 
+The earlier Christmas survey scales that judgment up from one book to a festival. [[10-christmas-glt9855064623]] places *A Christmas Carol* and the first Christmas card together in 1843 and treats Dickens as a major—though not solitary—agent of [[ModernChristmasReinvention]]. The Cratchit household joins domestic warmth, food, poverty, ghosts, charity, and temporary relief from industrial work, while Scrooge's spending makes commerce both the problem and the vehicle of generosity.
+
 ## Key Characteristics
 
 - British literary celebrity whose American reception, copyright campaign, and later backlash joined culture to national rivalry.
@@ -42,7 +45,7 @@ The episode also clarifies Dickens's moral politics. His story rejects the reduc
 - Observer who translated foreign places through familiar British comparisons.
 - Traveler attracted to dark historical sites and conscious of the urge to record experience.
 - London writer whose fictional geography helps later audiences interpret Little Britain, Saffron Hill, Cornhill, and plausible but uncertain Scrooge sites.
-- Author whose Christmas fiction joins horror, social criticism, personal redemption, adaptation, filming locations, and retained objects.
+- Author whose Christmas fiction joins horror, social criticism, personal redemption, domestic festival formation, adaptation, filming locations, and retained objects.
 
 ## Evidence
 
@@ -56,15 +59,17 @@ The episode also clarifies Dickens's moral politics. His story rejects the reduc
 - Moral psychology: [[132-a-christmas-carol-glt9074696790]] connects Dickens's childhood injury, financial anxiety, loneliness, and divided temperament to Scrooge's past and transformation.
 - City and genre: [[132-a-christmas-carol-glt9074696790]] uses Cornhill, churches, courts, markets, financial language, bodily horror, and a graveyard to join London texture to ghost-story and fairy-tale form.
 - Political limit: [[132-a-christmas-carol-glt9074696790]] contrasts Dickens's rejection of economic dehumanization with a remedy centered on personal philanthropy and self-improvement.
+- Modern Christmas template: [[10-christmas-glt9855064623]] connects the 1843 story to family warmth, poverty, food, charity, moral transformation, spending, and relief from industrial labor.
 
 ## Qualifications
 
-This profile is limited to five episodes' use of the 1842 American tour, Italian travel writing, execution culture, selected London settings, and *A Christmas Carol*. It does not summarize Dickens's wider life, fiction, reform activity, later American visit, or the full legal history of international copyright. Reported attendance, composition and earnings claims, topographical identifications, psychological self-portrait readings, political classification, reactions, private motives, anecdotes, and national generalizations remain source-scoped.
+This profile is limited to six episodes' use of the 1842 American tour, Italian travel writing, execution culture, selected London settings, and *A Christmas Carol*. It does not summarize Dickens's wider life, fiction, reform activity, later American visit, or the full legal history of international copyright. Reported attendance, composition and earnings claims, topographical identifications, psychological self-portrait readings, political classification, festival influence, reactions, private motives, anecdotes, and national generalizations remain source-scoped. Calling Dickens crucial to modern Christmas does not make him its sole inventor.
 
 ## What Changed
 
 - Deepened *A Christmas Carol* from material afterlife into moral psychology, adult horror, urban geography, and adaptable fable.
 - Added the qualified judgment that its humane personal redemption leaves structural inequality dependent on individual virtue.
+- Added Dickens's bounded role in the 1843 domestic and commercial Christmas template.
 
 ## Relationships
 
@@ -81,3 +86,4 @@ This profile is limited to five episodes' use of the 1842 American tour, Italian
 - [[ChurchCulturalMemory]] - framework explaining how Dickensian Christmas fiction became attached to church sites and objects.
 - [[AChristmasCarol]] - major work through which trauma, money, loneliness, horror, generosity, and adaptation converge.
 - [[PersonalRedemptionStructuralLimit]] - tension between Dickens's humanizing moral appeal and the institutional limits of philanthropy.
+- [[ModernChristmasReinvention]] - broader process in which his fiction joined domestic warmth, charity, commerce, and seasonal escape.

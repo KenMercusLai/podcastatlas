@@ -29107,3 +29107,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 10. Christmas
+
+Added source `10-christmas-glt9855064623`; created [[SantaClaus]], [[NativityNarrativeSynthesis]], [[ModernChristmasReinvention]], and [[ChristmasTruce1914]]; and extended [[AChristmasCarol]], [[CharlesDickens]], [[SaintNicholas]], [[PrinceAlbertOfSaxeCoburgAndGotha]], [[December25ChristmasDating]], and [[Saturnalia]] from their complete preserved evidence inventories. Core synthesis: Christmas is a layered and repeatedly reinvented festival whose familiar modern form combines distinct Gospel narratives, Christian calendar reasoning, public festivity and charity, suppression and revival, transatlantic gift-giver traditions, Victorian domesticity, literature, and commerce. No settled contradiction was adopted; the source reinforces existing skepticism toward simple pagan-copying claims, corrects the personal attribution of the parliamentary Christmas ban to Cromwell, and keeps coronation motives, royal and literary influence, post-Restoration decline, and 1914 football details source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,638-source coverage; no topic claim set was dirty and global compaction was not due. New-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

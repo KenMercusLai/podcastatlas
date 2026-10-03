@@ -218,9 +218,9 @@
       "url": "/wiki/entities/acrcloud/"
     },
     "AChristmasCarol": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9074696790 [GLT9074696790].md",
@@ -228,6 +228,13 @@
           "show": "The Rest Is History",
           "title": "132. A Christmas Carol",
           "url": "/wiki/sources/132-a-christmas-carol-glt9074696790/"
+        },
+        {
+          "episode_file": "GLT9855064623 [GLT9855064623].md",
+          "key": "10-christmas-glt9855064623",
+          "show": "The Rest Is History",
+          "title": "10. Christmas",
+          "url": "/wiki/sources/10-christmas-glt9855064623/"
         }
       ],
       "updated": "2026-10-02",
@@ -33838,9 +33845,9 @@
       "url": "/wiki/entities/charlesdegaulle/"
     },
     "CharlesDickens": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT7546211559 [GLT7546211559].md",
@@ -33876,6 +33883,13 @@
           "show": "The Rest Is History",
           "title": "132. A Christmas Carol",
           "url": "/wiki/sources/132-a-christmas-carol-glt9074696790/"
+        },
+        {
+          "episode_file": "GLT9855064623 [GLT9855064623].md",
+          "key": "10-christmas-glt9855064623",
+          "show": "The Rest Is History",
+          "title": "10. Christmas",
+          "url": "/wiki/sources/10-christmas-glt9855064623/"
         }
       ],
       "updated": "2026-10-02",
@@ -38095,6 +38109,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/christielamond/"
+    },
+    "ChristmasTruce1914": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9855064623 [GLT9855064623].md",
+          "key": "10-christmas-glt9855064623",
+          "show": "The Rest Is History",
+          "title": "10. Christmas",
+          "url": "/wiki/sources/10-christmas-glt9855064623/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/christmastruce1914/"
     },
     "ChristopherClark": {
       "episode_count": 1,
@@ -51309,9 +51339,9 @@
       "url": "/wiki/concepts/debtthresholduncertainty/"
     },
     "December25ChristmasDating": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8329172184 [GLT8329172184].md",
@@ -51319,6 +51349,13 @@
           "show": "The Rest Is History",
           "title": "402. Christmas: Pagan or Christian?",
           "url": "/wiki/sources/402-christmas-pagan-or-christian-glt8329172184/"
+        },
+        {
+          "episode_file": "GLT9855064623 [GLT9855064623].md",
+          "key": "10-christmas-glt9855064623",
+          "show": "The Rest Is History",
+          "title": "10. Christmas",
+          "url": "/wiki/sources/10-christmas-glt9855064623/"
         }
       ],
       "updated": "2026-09-27",
@@ -144010,6 +144047,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/modernboundaryhardening/"
     },
+    "ModernChristmasReinvention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9855064623 [GLT9855064623].md",
+          "key": "10-christmas-glt9855064623",
+          "show": "The Rest Is History",
+          "title": "10. Christmas",
+          "url": "/wiki/sources/10-christmas-glt9855064623/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/modernchristmasreinvention/"
+    },
     "ModernMassTourism": {
       "episode_count": 3,
       "show_count": 1,
@@ -148023,6 +148076,29 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/nativealienspeciesboundary/"
+    },
+    "NativityNarrativeSynthesis": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT4776258433 [GLT4776258433].md",
+          "key": "288-jesus-christ-the-history-part-2-glt4776258433",
+          "show": "The Rest Is History",
+          "title": "288: Jesus Christ: The History (Part 2)",
+          "url": "/wiki/sources/288-jesus-christ-the-history-part-2-glt4776258433/"
+        },
+        {
+          "episode_file": "GLT9855064623 [GLT9855064623].md",
+          "key": "10-christmas-glt9855064623",
+          "show": "The Rest Is History",
+          "title": "10. Christmas",
+          "url": "/wiki/sources/10-christmas-glt9855064623/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/nativitynarrativesynthesis/"
     },
     "NaturalIntelligenceAIBoundary": {
       "episode_count": 1,
@@ -167741,9 +167817,9 @@
       "url": "/wiki/concepts/primeministerialregicide/"
     },
     "PrinceAlbertOfSaxeCoburgAndGotha": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1735608678 [GLT1735608678].md",
@@ -167751,6 +167827,13 @@
           "show": "The Rest Is History",
           "title": "67. Anglo-German Relations",
           "url": "/wiki/sources/67-anglo-german-relations-glt1735608678/"
+        },
+        {
+          "episode_file": "GLT9855064623 [GLT9855064623].md",
+          "key": "10-christmas-glt9855064623",
+          "show": "The Rest Is History",
+          "title": "10. Christmas",
+          "url": "/wiki/sources/10-christmas-glt9855064623/"
         }
       ],
       "updated": "2026-10-03",
@@ -182341,9 +182424,9 @@
       "url": "/wiki/entities/saintmars/"
     },
     "SaintNicholas": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8843719433 [GLT8843719433].md",
@@ -182351,6 +182434,13 @@
           "show": "The Rest Is History",
           "title": "133. Christmas churches",
           "url": "/wiki/sources/133-christmas-churches-glt8843719433/"
+        },
+        {
+          "episode_file": "GLT9855064623 [GLT9855064623].md",
+          "key": "10-christmas-glt9855064623",
+          "show": "The Rest Is History",
+          "title": "10. Christmas",
+          "url": "/wiki/sources/10-christmas-glt9855064623/"
         }
       ],
       "updated": "2026-10-02",
@@ -183279,6 +183369,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/sansculottes/"
     },
+    "SantaClaus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9855064623 [GLT9855064623].md",
+          "key": "10-christmas-glt9855064623",
+          "show": "The Rest Is History",
+          "title": "10. Christmas",
+          "url": "/wiki/sources/10-christmas-glt9855064623/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/santaclaus/"
+    },
     "SantaiZiCatholicVillage": {
       "episode_count": 1,
       "show_count": 1,
@@ -183635,9 +183741,9 @@
       "url": "/wiki/entities/saturnbird/"
     },
     "Saturnalia": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8329172184 [GLT8329172184].md",
@@ -183645,6 +183751,13 @@
           "show": "The Rest Is History",
           "title": "402. Christmas: Pagan or Christian?",
           "url": "/wiki/sources/402-christmas-pagan-or-christian-glt8329172184/"
+        },
+        {
+          "episode_file": "GLT9855064623 [GLT9855064623].md",
+          "key": "10-christmas-glt9855064623",
+          "show": "The Rest Is History",
+          "title": "10. Christmas",
+          "url": "/wiki/sources/10-christmas-glt9855064623/"
         }
       ],
       "updated": "2026-09-27",

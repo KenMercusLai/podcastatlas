@@ -3697,6 +3697,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Master Your Sleep & Be More Alert When Awake](sources/master-your-sleep-be-more-alert-when-awake-scim6660090579.md) — Early Huberman Lab episode on two-process sleep regulation, circadian light anchors, caffeine, naps, NSDR, and behavior-first supplement boundaries.
 - [15. Walls and Borders](sources/15-walls-and-borders-glt1636005045.md) — The Rest Is History on walls and borders as purpose-specific infrastructure, political symbols, institutional systems, and incomplete answers to deeper conflict.
 - [How Your Brain Works & Changes](sources/how-your-brain-works-changes-scim1534957507.md) — First Huberman Lab episode on the nervous-system loop, sensation and attention, neuromodulators, adult plasticity, rest-dependent consolidation, and ultradian focus.
+- [10. Christmas](sources/10-christmas-glt9855064623.md) — The Rest Is History survey of Nativity chronology, early feast dating, public festivity, Puritan suppression, Victorian domestic reinvention, Santa Claus, commerce, and the 1914 truce.
 
 ## Entities
 - [Popish Plot](entities/PopishPlot.md) — Fabricated Catholic assassination plot whose political crisis and institutional exclusions outlived exposure of the fraud.
@@ -15999,6 +16000,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [King Arthur](entities/KingArthur.md) — Historically uncertain British hero transformed into a medieval universal king, political symbol, and durable figure of romance and return.
 - [Geoffrey of Monmouth](entities/GeoffreyOfMonmouth.md) — Twelfth-century writer whose synthetic British history decisively shaped Arthur and Merlin's medieval profiles.
+- [Santa Claus](entities/SantaClaus.md) — Hybrid Christmas gift-giver shaped by Saint Nicholas, Dutch-American literature, English Father Christmas, and domestic festival culture.
 
 ## Concepts
 - [Audience-Responsive Deep-Dive Podcasting](concepts/AudienceResponsiveDeepDivePodcasting.md) — Programming model combining sustained topic arcs, multiple episode formats, and listener demand signals without ceding editorial or evidentiary authority.
@@ -25636,5 +25638,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Arthurian Legend Accretion](concepts/ArthurianLegendAccretion.md) — Layered formation of the Arthurian cycle from disputed early evidence through pseudo-history, romance, landscape, and modern retelling.
 - [Arthurian Political Legitimation](concepts/ArthurianPoliticalLegitimation.md) — Selective use of Arthurian prophecy, conquest, relics, and place to authorize restoration, monarchy, institutional prestige, and empire.
+- [Nativity Narrative Synthesis](concepts/NativityNarrativeSynthesis.md) — Source-critical separation of Matthew and Luke's infancy stories from their later combined Christmas form.
+- [Modern Christmas Reinvention](concepts/ModernChristmasReinvention.md) — Nineteenth-century recombination of older worship, festivity, and charity into domestic, literary, royal, and commercial Christmas.
+- [Christmas Truce of 1914](concepts/ChristmasTruce1914.md) — Qualified account of localized First World War fraternization, football stories, continued fighting, and later Christmas memory.
 
 ## Syntheses

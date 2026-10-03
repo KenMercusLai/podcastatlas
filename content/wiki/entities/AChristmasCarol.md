@@ -4,6 +4,7 @@ type: entity
 tags: [literature, christmas, ghost-story, victorian-britain]
 sources:
   - 132-a-christmas-carol-glt9074696790
+  - 10-christmas-glt9855064623
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ The episode maps this movement onto [[London|the City of London]]. Cornhill's co
 
 Politically, the work condemns the reduction of people to workhouse policy, “surplus population,” and ledger entries. Its answer is nevertheless Scrooge's repentance, a pay rise, gifts, and care rather than institutional change, making [[PersonalRedemptionStructuralLimit]] central to both its power and its limits.
 
+The earlier Christmas survey adds the work's festival-level role. [[10-christmas-glt9855064623]] places its 1843 publication beside the first Christmas card and treats the Cratchit feast as a template for [[ModernChristmasReinvention]]: family warmth, food, poverty, charity, ghosts, and moral change briefly interrupt industrial labor while making benevolent wealth the mechanism of repair.
+
 ## Key Characteristics
 
 - Ghost story that uses fear, bodily horror, death, and memory to force moral recognition.
@@ -32,6 +35,7 @@ Politically, the work condemns the reduction of people to workhouse policy, “s
 - Christmas story whose warmth depends on contrast with poverty, cold, loss, and danger.
 - Social criticism that humanizes people reduced by economic abstraction while locating repair in personal generosity.
 - Compact fairy-tale and moral-fable structure capable of extensive adaptation and parody.
+- Central literary template for the domestic, charitable, and commercially mediated modern Christmas.
 
 ## Evidence
 
@@ -41,14 +45,16 @@ Politically, the work condemns the reduction of people to workhouse policy, “s
 - Literary geography: [[132-a-christmas-carol-glt9074696790]] uses Cornhill, Newman Court, St Michael's, White Lion Court, St Peter upon Cornhill, and Leadenhall Market as certain landmarks or explicitly qualified candidates.
 - Political tension: [[132-a-christmas-carol-glt9074696790]] contrasts the story's attack on statistical dehumanization and extreme inequality with its solution through philanthropy and self-improvement.
 - Adaptability: [[132-a-christmas-carol-glt9074696790]] attributes the work's durable afterlife to its overlapping forms as ghost story, fairy tale, legend, myth, and moral fable.
+- Festival formation: [[10-christmas-glt9855064623]] connects the 1843 work to the domestic Christmas template and highlights the tension between escape from money-making and generosity financed by Scrooge's wealth.
 
 ## Qualifications
 
-This profile is based on one conversational walking episode rather than a complete textual, bibliographical, political, or adaptation history. Proposed real-world addresses remain conjectural, and reported composition details, inspirations, name origins, printing changes, audience, political classification, and influence on modern Christmas are episode-attributed. Reading Scrooge partly through Dickens's own anxieties is interpretive rather than a settled biographical identity.
+This profile is based on two conversational episodes rather than a complete textual, bibliographical, political, or adaptation history. Proposed real-world addresses remain conjectural, and reported composition details, inspirations, name origins, printing changes, audience, political classification, and influence on modern Christmas are episode-attributed. Reading Scrooge partly through Dickens's own anxieties is interpretive rather than a settled biographical identity, and locating the work at the center of modern Christmas does not make it the festival's sole cause.
 
 ## What Changed
 
 - Established the work as a distinct subject joining horror, festive warmth, literary geography, moral psychology, and political limitation.
+- Added its 1843 role in the domestic, charitable, and commercial Christmas template.
 
 ## Relationships
 
@@ -57,3 +63,4 @@ This profile is based on one conversational walking episode rather than a comple
 - [[PersonalRedemptionStructuralLimit]] - political tension between emotionally powerful conversion and structurally narrow remedy.
 - [[UrbanArchitecturalMemory]] - process through which text and surviving places make a partly fictional route legible.
 - [[ChurchCulturalMemory]] - adjacent afterlife in which church associations, filming, and retained objects materialize the story.
+- [[ModernChristmasReinvention]] - festival-level process in which the story became a durable emotional and moral template.

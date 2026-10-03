@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9577
+wiki_total_pages: 9580
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1205,6 +1205,9 @@ wiki_pages:
   - key: "ModernChineseAcademicInstitutionBuilding"
     title: "Modern Chinese Academic Institution Building / 中国现代学术制度建设"
     url: "/wiki/concepts/modernchineseacademicinstitutionbuilding/"
+  - key: "ModernChristmasReinvention"
+    title: "Modern Christmas Reinvention"
+    url: "/wiki/concepts/modernchristmasreinvention/"
   - key: "MediterraneanDietModernConstruction"
     title: "Modern Construction of the Mediterranean Diet"
     url: "/wiki/concepts/mediterraneandietmodernconstruction/"

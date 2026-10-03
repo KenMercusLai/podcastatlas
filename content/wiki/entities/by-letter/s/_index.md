@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12254
+wiki_total_pages: 12255
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "SantaClaraUniversity"
     title: "Santa Clara University"
     url: "/wiki/entities/santaclarauniversity/"
+  - key: "SantaClaus"
+    title: "Santa Claus"
+    url: "/wiki/entities/santaclaus/"
   - key: "Santorini"
     title: "Santorini"
     url: "/wiki/entities/santorini/"
