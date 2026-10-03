@@ -28628,3 +28628,11 @@ Added the episode's competing broad and post-Christian definitions of culture wa
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | EP169-美国社会如何制造“模范少数”和背后的隐性歧视
+
+Added source `ep169-meiguo-shehui-ruhe-zhizao-mofan-shaoshu-he-beihou-de-yinxing-qishi-ckwriaiewlfyabaaaacimxkl`; created bounded profiles for Stop Asian Hate and Vincent Chin; created concepts for the model-minority and perpetual-foreigner stereotypes, gendered Asian stereotypes, geopolitical anti-Asian spillover, cumulative racial microaggression harm, and Asian diaspora belonging pressure; and resynthesized `WushichaYanjiusuo` from its complete preserved evidence inventory. Core synthesis: apparently positive achievement stereotypes can coexist with conditional foreignness; international hostility can cross nationality and citizenship through racial category collapse; and repeated ambiguous treatment can produce cumulative harm and intergenerational belonging pressure. No settled contradiction was adopted. Historical genealogies, prevalence, demographic comparisons, media effects, interpersonal motives, and experiences outside the episode's East Asian and Chinese-facing emphasis remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,578-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

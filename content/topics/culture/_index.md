@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3077
+topic_total_pages: 3078
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1345,6 +1345,9 @@ topic_concepts:
   - key: "GenderPerformanceAndTrauma"
     title: "Gender Performance And Trauma"
     url: "/wiki/concepts/genderperformanceandtrauma/"
+  - key: "GenderedAsianStereotypes"
+    title: "Gendered Asian Stereotypes / 亚裔性别化刻板印象"
+    url: "/wiki/concepts/genderedasianstereotypes/"
   - key: "GenderedCreatorConfidence"
     title: "Gendered Creator Confidence"
     url: "/wiki/concepts/genderedcreatorconfidence/"

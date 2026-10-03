@@ -9507,6 +9507,10 @@
     "title": "Asi Wind",
     "url": "/wiki/entities/asiwind/"
   },
+  "AsianDiasporaBelongingPressure": {
+    "title": "Asian Diaspora Belonging Pressure / 亚裔离散归属压力",
+    "url": "/wiki/concepts/asiandiasporabelongingpressure/"
+  },
   "AskJeeves": {
     "title": "Ask Jeeves",
     "url": "/wiki/entities/askjeeves/"
@@ -32643,6 +32647,10 @@
     "title": "Gendered Age Anxiety",
     "url": "/wiki/concepts/genderedageanxiety/"
   },
+  "GenderedAsianStereotypes": {
+    "title": "Gendered Asian Stereotypes / 亚裔性别化刻板印象",
+    "url": "/wiki/concepts/genderedasianstereotypes/"
+  },
   "GenderedConsortScapegoating": {
     "title": "红颜祸水式替罪叙事 / Gendered Consort Scapegoating",
     "url": "/wiki/concepts/genderedconsortscapegoating/"
@@ -33010,6 +33018,10 @@
   "GeometricUnity": {
     "title": "Geometric Unity",
     "url": "/wiki/concepts/geometricunity/"
+  },
+  "GeopoliticalAntiAsianSpillover": {
+    "title": "Geopolitical Anti-Asian Spillover / 地缘政治反亚裔外溢",
+    "url": "/wiki/concepts/geopoliticalantiasianspillover/"
   },
   "GeopoliticalCriminalDeterrence": {
     "title": "Geopolitical Criminal Deterrence / 地缘犯罪威慑",
@@ -54199,6 +54211,10 @@
     "title": "Model-Infra Co-Design",
     "url": "/wiki/concepts/modelinfracodesign/"
   },
+  "ModelMinorityStereotype": {
+    "title": "Model Minority Stereotype / 模范少数族裔刻板印象",
+    "url": "/wiki/concepts/modelminoritystereotype/"
+  },
   "ModelPostTrainingBottleneck": {
     "title": "Model Post-Training Bottleneck",
     "url": "/wiki/concepts/modelposttrainingbottleneck/"
@@ -60463,6 +60479,10 @@
     "title": "Peronism",
     "url": "/wiki/concepts/peronism/"
   },
+  "PerpetualForeignerStereotype": {
+    "title": "Perpetual Foreigner Stereotype / 永远的外国人刻板印象",
+    "url": "/wiki/concepts/perpetualforeignerstereotype/"
+  },
   "Perplexity": {
     "title": "Perplexity",
     "url": "/wiki/entities/perplexity/"
@@ -65258,6 +65278,10 @@
   "RacialAntisemitism": {
     "title": "Racial Antisemitism",
     "url": "/wiki/concepts/racialantisemitism/"
+  },
+  "RacialMicroaggressionCumulativeHarm": {
+    "title": "Racial Microaggression Cumulative Harm / 种族微歧视的累积伤害",
+    "url": "/wiki/concepts/racialmicroaggressioncumulativeharm/"
   },
   "RacializedAncestralClaimmaking": {
     "title": "Racialized Ancestral Claimmaking",
@@ -74359,6 +74383,10 @@
     "title": "Stop & Shop",
     "url": "/wiki/entities/stopandshop/"
   },
+  "StopAsianHate": {
+    "title": "Stop Asian Hate",
+    "url": "/wiki/entities/stopasianhate/"
+  },
   "StopKillingGames": {
     "title": "Stop Killing Games",
     "url": "/wiki/entities/stopkillinggames/"
@@ -81442,6 +81470,10 @@
   "VinceGiudice": {
     "title": "Vince Giudice",
     "url": "/wiki/entities/vincegiudice/"
+  },
+  "VincentChin": {
+    "title": "Vincent Chin / 陈果仁",
+    "url": "/wiki/entities/vincentchin/"
   },
   "VincenzoPerugia": {
     "title": "Vincenzo Perugia",
@@ -91702,6 +91734,10 @@
   "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u": {
     "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
     "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
+  },
+  "ep169-meiguo-shehui-ruhe-zhizao-mofan-shaoshu-he-beihou-de-yinxing-qishi-ckwriaiewlfyabaaaacimxkl": {
+    "title": "EP169-美国社会如何制造“模范少数”和背后的隐性歧视",
+    "url": "/wiki/sources/ep169-meiguo-shehui-ruhe-zhizao-mofan-shaoshu-he-beihou-de-yinxing-qishi-ckwriaiewlfyabaaaacimxkl/"
   },
   "ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb": {
     "title": "EP170-一个非典型金融女博士的自述",

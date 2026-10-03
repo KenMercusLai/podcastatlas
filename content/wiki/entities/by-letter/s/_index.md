@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12187
+wiki_total_pages: 12189
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1586,6 +1586,9 @@ wiki_pages:
   - key: "StopAndShop"
     title: "Stop & Shop"
     url: "/wiki/entities/stopandshop/"
+  - key: "StopAsianHate"
+    title: "Stop Asian Hate"
+    url: "/wiki/entities/stopasianhate/"
   - key: "StopKillingGames"
     title: "Stop Killing Games"
     url: "/wiki/entities/stopkillinggames/"

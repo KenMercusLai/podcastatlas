@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9487
+wiki_total_pages: 9493
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "Peronism"
     title: "Peronism"
     url: "/wiki/concepts/peronism/"
+  - key: "PerpetualForeignerStereotype"
+    title: "Perpetual Foreigner Stereotype / 永远的外国人刻板印象"
+    url: "/wiki/concepts/perpetualforeignerstereotype/"
   - key: "PersianMiniaturePainting"
     title: "Persian Miniature Painting"
     url: "/wiki/concepts/persianminiaturepainting/"

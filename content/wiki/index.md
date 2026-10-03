@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP169-美国社会如何制造“模范少数”和背后的隐性歧视](sources/ep169-meiguo-shehui-ruhe-zhizao-mofan-shaoshu-he-beihou-de-yinxing-qishi-ckwriaiewlfyabaaaacimxkl.md) — 无时差研究所 on model-minority and perpetual-foreigner stereotypes, gendered representation, geopolitical spillover, microaggressions, and Asian diaspora belonging.
 - [46. Culture Wars](sources/46-culture-wars-glt4237848862.md) — The Rest Is History on recurring identity conflict, post-Christian moral genealogy, symbolic politics, institutional change, and pluralist containment.
 - [47. The Seven Years' War](sources/47-the-seven-years-war-glt8800494407.md) — The Rest Is History with Dan Snow on the conflict's global theaters, Britain's fiscal-military and naval capacity, imperial expansion, slavery and Company corruption, and revolutionary blowback.
 - [EP170-一个非典型金融女博士的自述](sources/ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb.md) — 无时差研究所 conversation on doctoral training, long-cycle finance research, career alignment, fund-manager agency conflicts, gender labels, and doctoral-student isolation.
@@ -3639,6 +3640,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Control Your Metabolism by Thyroid & Growth Hormone](sources/scim2147325995-scim2147325995.md) — Full-length Huberman Lab episode on thyroid-axis nutrient sufficiency, cellular metabolism, slow-wave-sleep-linked growth hormone, exercise, amino-acid pathways, heat, and medical safety boundaries.
 
 ## Entities
+- [Stop Asian Hate](entities/StopAsianHate.md) — Public-action frame connecting pandemic-era anti-Asian violence to testimony, coalition-building, and longer histories of exclusion.
+- [Vincent Chin / 陈果仁](entities/VincentChin.md) — Chinese American victim whose anti-Japanese misidentification illustrates racialized category collapse.
 - [Symmachus](entities/Symmachus.md) — Late Roman senator represented through his toleration argument for restoring the Altar of Victory.
 - [Ambrose of Milan](entities/AmbroseOfMilan.md) — Late Roman bishop represented through his refusal to compromise over pagan sacrifice and the Altar of Victory.
 - [Dan Snow](entities/DanSnow.md) — Historian and broadcaster interpreting the Seven Years' War through global conflict, institutional capacity, imperial memory, and political blowback.
@@ -6189,7 +6192,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frederick AI](entities/FrederickAI.md) — Wu Hankun's source-reported early agent project for founder task execution.
 - [《粉色悖论》 / Pink Paradox](entities/PinkParadox.md) — Wu Hankun's first AI short-film case, begun as a role-farewell project.
 - [《人口异常》 / Population Anomaly](entities/PopulationAnomaly.md) — Wu Hankun's later science-fiction AI short-film experiment.
-- [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Conversational podcast represented by culture, health, travel, creative-practice, workplace, language, macro-policy, and social-play interpretation.
+- [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Conversational podcast represented by culture, health, travel, creative-practice, workplace, language, macro-policy, racial-history, identity, and social-play interpretation.
 - [亦舒 / Yi Shu](entities/YiShu.md) — Authorial baseline for EP385's comparison between the 《我的前半生》 novel's female-supported rebuilding and the TV drama's male-mentor rewrite.
 - [《我的前半生》 / My First Half Life](entities/MyFirstHalfLife.md) — Yi Shu novel and 2017 TV adaptation reread as an old-drama revival, gender-narrative, and economic-memory case.
 - [罗子君 / Luo Zijun](entities/LuoZijun.md) — 《我的前半生》 heroine whose divorce, work return, and claimed independence test the difference between supported agency and male-authorized growth.
@@ -15872,6 +15875,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scoff: A History of Food and Class in Britain](entities/ScoffBook.md) — Pen Vogler's book framing food as evidence for class and social change.
 
 ## Concepts
+- [Model Minority Stereotype / 模范少数族裔刻板印象](concepts/ModelMinorityStereotype.md) — Apparently positive success stereotype that can erase effort, inequality, need, leadership, and individual difference.
+- [Perpetual Foreigner Stereotype / 永远的外国人刻板印象](concepts/PerpetualForeignerStereotype.md) — Treatment of Asian-looking people as conditionally loyal or externally rooted regardless of citizenship and generation.
+- [Gendered Asian Stereotypes / 亚裔性别化刻板印象](concepts/GenderedAsianStereotypes.md) — Racial scripts constraining Asian men and women through emasculation, martial reduction, submission, and sexualization.
+- [Geopolitical Anti-Asian Spillover / 地缘政治反亚裔外溢](concepts/GeopoliticalAntiAsianSpillover.md) — Transfer of hostility toward Asian states, ideologies, or rivals onto heterogeneous Asian-looking populations.
+- [Racial Microaggression Cumulative Harm / 种族微歧视的累积伤害](concepts/RacialMicroaggressionCumulativeHarm.md) — Repeated ambiguous suspicion, coldness, misrecognition, or fetishization that produces self-doubt and withdrawal.
+- [Asian Diaspora Belonging Pressure / 亚裔离散归属压力](concepts/AsianDiasporaBelongingPressure.md) — Generational and migration strain around language, origin, representation, and conditional national belonging.
 - [Culture War Historical Genealogy](concepts/CultureWarHistoricalGenealogy.md) — Framework separating recurring symbolic-identity conflict from the modern Western moral grammar of progress, purification, and tradition.
 - [Fiscal-Military State](concepts/FiscalMilitaryState.md) — State capacity that converts taxation, public credit, borrowing, subsidy, logistics, and supply into sustained military power.
 - [Doctoral Training and Career Alignment / 博士培养与职业对齐](concepts/DoctoralTrainingCareerAlignment.md) — Aligning degree timing and preparation with academic, industry, public-sector, or other intended work.

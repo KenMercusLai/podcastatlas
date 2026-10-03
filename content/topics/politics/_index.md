@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3032
+topic_total_pages: 3033
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1699,6 +1699,9 @@ topic_concepts:
   - key: "GeneticCulpabilityProblem"
     title: "Genetic Culpability Problem / 遗传归责问题"
     url: "/wiki/concepts/geneticculpabilityproblem/"
+  - key: "GeopoliticalAntiAsianSpillover"
+    title: "Geopolitical Anti-Asian Spillover / 地缘政治反亚裔外溢"
+    url: "/wiki/concepts/geopoliticalantiasianspillover/"
   - key: "GeopoliticalCriminalDeterrence"
     title: "Geopolitical Criminal Deterrence / 地缘犯罪威慑"
     url: "/wiki/concepts/geopoliticalcriminaldeterrence/"

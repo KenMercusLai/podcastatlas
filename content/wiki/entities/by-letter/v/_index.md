@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 12187
+wiki_total_pages: 12189
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "VinceGiudice"
     title: "Vince Giudice"
     url: "/wiki/entities/vincegiudice/"
+  - key: "VincentChin"
+    title: "Vincent Chin / 陈果仁"
+    url: "/wiki/entities/vincentchin/"
   - key: "VincenzoPerugia"
     title: "Vincenzo Perugia"
     url: "/wiki/entities/vincenzoperugia/"

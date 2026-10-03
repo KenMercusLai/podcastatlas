@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9487
+wiki_total_pages: 9493
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2417,6 +2417,9 @@ wiki_pages:
   - key: "AsItIsPractice"
     title: "As It Is Practice / 如其所是"
     url: "/wiki/concepts/asitispractice/"
+  - key: "AsianDiasporaBelongingPressure"
+    title: "Asian Diaspora Belonging Pressure / 亚裔离散归属压力"
+    url: "/wiki/concepts/asiandiasporabelongingpressure/"
   - key: "ASICWorkloadPredictionRisk"
     title: "ASIC Workload Prediction Risk"
     url: "/wiki/concepts/asicworkloadpredictionrisk/"
