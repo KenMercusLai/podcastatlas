@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [29. Americanisation](sources/29-americanisation-glt9683168458.md) — The Rest Is History on American power through language, media, consumer culture, strategic scale, moral centrality, reciprocal exchange, and domain limits.
 - [30. A Royal Row](sources/30-a-royal-row-glt5120507213.md) — The Rest Is History on Harry and Meghan, outsider royal marriage, rival emotional norms, Commonwealth symbolism, media vulnerability, and dynastic family conflict.
 - [31. The Second Reich](sources/31-the-second-reich-glt1008050219.md) — The Rest Is History with Katja Hoyer on Prussia, German nationhood, Bismarckian unification, imperial militarism, industrial power, and retrospective memory.
 - [EP163-被互联网冲击的艺术](sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf.md) — 无时差研究所 conversation on ordinary creative agency, experience-first viewing, curatorial design, provenance, art pricing, conceptual ownership, and internet-era attention.
@@ -4722,7 +4723,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bubbles the Chimpanzee](entities/BubblesChimpanzee.md) — Celebrity chimpanzee whose path from infant pet to sanctuary exposes the limits of humanized private ownership.
 - [Cal Newport](entities/CalNewport.md) — computer science professor and author connecting attention design, deep work, digital minimalism, and sustainable knowledge-work systems.
 - [John Jacob Astor IV](entities/JohnJacobAstor.md) — Gilded Age millionaire connecting Titanic's first class to New York wealth and luxury hospitality.
-- [W. T. Stead](entities/WTStead.md) — Late-Victorian editor whose Gordon campaign demonstrated press-driven policy pressure before his later Titanic voyage.
+- [W. T. Stead](entities/WTStead.md) — Late-Victorian editor, campaigner, and early interpreter of American succession whose journalism turned attention into policy pressure.
 - [Joseph Laroche](entities/JosephLaroche.md) — Haitian engineer whose family widened Titanic's second-class and migration story.
 - [E.J. Chichilnisky](entities/EJChichilnisky.md) — retinal neuroscientist linking human retinal recording and cell-type identification to adaptive vision-restoring implants.
 - [Harland & Wolff](entities/HarlandAndWolff.md) — Belfast shipbuilder whose engineering system produced Titanic within contemporary safety rules and Home Rule politics.
@@ -16442,7 +16443,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Democratic Security Escalation Trap](concepts/DemocraticSecurityEscalationTrap.md) — Process in which defeating a real armed challenge through expanding emergency coercion destroys the democracy being defended.
 - [Urban Guerrilla Armed Propaganda](concepts/UrbanGuerrillaArmedPropaganda.md) — Coercive action designed for resources, political messaging, publicity, and demonstration of state incapacity.
 - [Militant-to-Democratic Politics](concepts/MilitantToDemocraticPolitics.md) — Contingent shift from armed activism into electoral government without erasing responsibility, victimization, or justice disputes.
-- [Anglo-American Power Reversal](concepts/AngloAmericanPowerReversal.md) — Shift in attention, capital, strategic hierarchy, and cultural judgment between Britain and the United States across distinct domains.
+- [Anglo-American Power Reversal](concepts/AngloAmericanPowerReversal.md) — Uneven transfer of attention, capital, strategic hierarchy, language, technology, and cultural judgment from Britain toward the United States.
 - [Black American GIs in Wartime Britain](concepts/BlackAmericanGIsWartimeBritain.md) — Allied wartime case where U.S. military segregation met British civilian resistance, racial conflict, and local solidarity.
 - [Day of the Dead](concepts/DayOfTheDead.md) — Layered Mexican commemorative festival joining Catholic-Iberian ritual, Indigenous materials, colonial foodways, national recoding, political art, and media spectacle.
 - [Invented Tradition](concepts/InventedTradition.md) — Selective assembly or formalization of practices presented through continuity with an older past, without implying that their social meaning is unreal.
@@ -17430,7 +17431,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Self-Directed State Shifting](concepts/SelfDirectedStateShifting.md) — Proactive and reactive practices for changing state without relying on the addictive object.
 - [Manufactured Rebellion Branding](concepts/ManufacturedRebellionBranding.md) — Deliberate construction of oppositional identity through appearance, behavior, publicity, and contrast with a respectable competitor.
 - [Postwar Teenage Consumer Market](concepts/PostwarTeenageConsumerMarket.md) — Youth market formed through discretionary income, leisure venues, media, playback technology, and shared generational identity.
-- [Teenager as Historical Identity](concepts/TeenagerHistoricalIdentity.md) — Distinction between recurring adolescence and a modern identity organized through markets, media, style, and generational difference.
+- [Teenager as Historical Identity](concepts/TeenagerHistoricalIdentity.md) — Distinction between recurring adolescence and an American-amplified modern identity organized through markets, media, style, and generational difference.
 - [Popular Music as Cultural Transmission](concepts/PopularMusicAsCulturalTransmission.md) — Process by which songs, performance, celebrity, and repetition carry cultural assumptions beyond formal intellectual debate.
 - [Celebrity Folk-Devil Moral Panic](concepts/CelebrityFolkDevilMoralPanic.md) — Process by which a famous target condenses wider fears and may reshape how a stigmatized identity is publicly imagined.
 - [Pop-to-Album-Rock Transition](concepts/PopToAlbumRockTransition.md) — Late-1960s shift toward serious listening, albums, virtuosity, adult identity, and higher-value rock markets.
@@ -22598,7 +22599,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [U.S. Constitutional Reform Constraint](concepts/USConstitutionalReformConstraint.md) — sp.05 explanation of how Article V thresholds, slavery-era compromises, federalism, and presidentialism make structural reform hard.
 - [MAGA Coalition Fracture](concepts/MAGACoalitionFracture.md) — sp.05 concept for the split between grassroots nativism, Silicon Valley labor demand, Trump politics, and narrow Republican governing margins.
 - [Identity Politics As Political Sorting](concepts/IdentityPoliticsAsPoliticalSorting.md) — Account of how welfare, race, immigration, refugee deservingness, MAGA, BLM, media, and party identities sort political judgment.
-- [American Exceptionalism](concepts/AmericanExceptionalism.md) — Belief in distinctive American purpose expressed through exemplary mission, expansion, anti-imperial identity, and demands for rule exceptions.
+- [American Exceptionalism](concepts/AmericanExceptionalism.md) — Belief in distinctive American purpose expressed through mission, expansion, anti-imperial identity, moral centrality, and demands for rule exceptions.
 - [South African White Migrant Labor](concepts/SouthAfricanWhiteMigrantLabor.md) — Field-reporting concept for white South Africans working as seasonal, employer-dependent farm laborers in Mississippi.
 - [Selective White Refugee Exception](concepts/SelectiveWhiteRefugeeException.md) — Immigration-politics pattern where restrictionist policy opens favored pathways for white migrants who fit a persecution narrative.
 - [White Victimhood Narrative](concepts/WhiteVictimhoodNarrative.md) — Race-and-grievance story in which loss of historical advantage is recoded as discrimination or persecution.
@@ -24316,7 +24317,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Historical Memory Contest](concepts/HistoricalMemoryContest.md) — Institutional struggle over how evidence, heroes, injuries, symbols, and grievance are preserved, revised, suppressed, or mobilized.
 - [Immigration Backlash Cycle](concepts/ImmigrationBacklashCycle.md) — Recurring immigration-politics pattern of openness, anxiety, restriction, and reopening, with U.S. history and a British post-Brexit variant.
 - [Assimilation Capacity](concepts/AssimilationCapacity.md) — Society's ability to integrate newcomers through work, culture, community, and national belonging.
-- [American Cultural Exports](concepts/AmericanCulturalExports.md) — U.S. cultural power through absorption, marketing, media distribution, artist rights, and public figures such as Dolly Parton.
+- [American Cultural Exports](concepts/AmericanCulturalExports.md) — U.S. cultural power through absorption, scale, language, infrastructure, distribution, ownership, and globally legible public figures.
 - [Auto Research](concepts/AutoResearch.md) — AI research-automation loop where models read papers, form hypotheses, write code, run experiments, and analyze results before full RSI.
 - [Enterprise Owned Models](concepts/EnterpriseOwnedModels.md) — Enterprise route of owning or post-training domain models when data, benchmarks, cost, or access constraints make frontier-only use unattractive.
 - [Record and Replay](concepts/RecordAndReplay.md) — Computer-use pattern where human GUI workflows are recorded into repeatable agent skills.
@@ -25552,5 +25553,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Politics of Historical Reenactment](concepts/HistoricalReenactmentPolitics.md) — How embodied performance selects identities, victories, enemies, and inherited worlds with continuing political meaning.
 - [Historical Game Simulation](concepts/HistoricalGameSimulation.md) — Rule-based representation that makes strategic constraints experiential while narrowing causation and possible outcomes.
 - [Ethics of Historical Entertainment](concepts/HistoricalEntertainmentEthics.md) — Case-specific boundary between historical engagement and the concealment or aestheticization of violence and oppression.
+- [Americanization](concepts/Americanization.md) — Process joining U.S. strategic power, markets, media, language, social categories, and moral frames with attraction, adaptation, and resentment abroad.
 
 ## Syntheses

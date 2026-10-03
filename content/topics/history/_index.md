@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2504
+topic_total_pages: 2505
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5499,6 +5499,9 @@ topic_sources:
   - key: "289-drink-glt6408276244"
     title: "289: Drink — Britain’s Empire of Booze"
     url: "/wiki/sources/289-drink-glt6408276244/"
+  - key: "29-americanisation-glt9683168458"
+    title: "29. Americanisation"
+    url: "/wiki/sources/29-americanisation-glt9683168458/"
   - key: "290-2022-a-history-glt4625765030"
     title: "290: 2022: A History"
     url: "/wiki/sources/290-2022-a-history-glt4625765030/"

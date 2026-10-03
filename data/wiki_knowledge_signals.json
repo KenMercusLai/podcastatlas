@@ -10641,9 +10641,9 @@
       "url": "/wiki/entities/americancivilwar/"
     },
     "AmericanCulturalExports": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "The 250-year experiment： America’s birthday [6a477d9aecd123914320b4ad].md",
@@ -10665,9 +10665,16 @@
           "show": "The Rest Is History",
           "title": "263: USA vs England: The 200-Year Rivalry",
           "url": "/wiki/sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559/"
+        },
+        {
+          "episode_file": "GLT9683168458 [GLT9683168458].md",
+          "key": "29-americanisation-glt9683168458",
+          "show": "The Rest Is History",
+          "title": "29. Americanisation",
+          "url": "/wiki/sources/29-americanisation-glt9683168458/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/americanculturalexports/"
     },
     "AmericanDemocraticResilience": {
@@ -10792,9 +10799,9 @@
       "url": "/wiki/concepts/americandemocraticresilience/"
     },
     "AmericanExceptionalism": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "b28f7eaa-c801-4d5f-a6e5-35326d335df7 [b28f7eaa-c801-4d5f-a6e5-35326d335df7].md",
@@ -10816,9 +10823,16 @@
           "show": "The Rest Is History",
           "title": "152. American Crusades",
           "url": "/wiki/sources/152-american-crusades-glt4400059090/"
+        },
+        {
+          "episode_file": "GLT9683168458 [GLT9683168458].md",
+          "key": "29-americanisation-glt9683168458",
+          "show": "The Rest Is History",
+          "title": "29. Americanisation",
+          "url": "/wiki/sources/29-americanisation-glt9683168458/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/americanexceptionalism/"
     },
     "AmericanImperialSelfDenial": {
@@ -11011,6 +11025,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/americanrightbritainwarningnarrative/"
+    },
+    "Americanization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9683168458 [GLT9683168458].md",
+          "key": "29-americanisation-glt9683168458",
+          "show": "The Rest Is History",
+          "title": "29. Americanisation",
+          "url": "/wiki/sources/29-americanisation-glt9683168458/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/americanization/"
     },
     "AmericasWorkforceAcademy": {
       "episode_count": 1,
@@ -12866,9 +12896,9 @@
       "url": "/wiki/concepts/angerdrivenwardecision/"
     },
     "AngloAmericanPowerReversal": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7546211559 [GLT7546211559].md",
@@ -12876,9 +12906,16 @@
           "show": "The Rest Is History",
           "title": "263: USA vs England: The 200-Year Rivalry",
           "url": "/wiki/sources/263-usa-vs-england-the-200-year-rivalry-glt7546211559/"
+        },
+        {
+          "episode_file": "GLT9683168458 [GLT9683168458].md",
+          "key": "29-americanisation-glt9683168458",
+          "show": "The Rest Is History",
+          "title": "29. Americanisation",
+          "url": "/wiki/sources/29-americanisation-glt9683168458/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/angloamericanpowerreversal/"
     },
     "AngloDanishRelations": {
@@ -201664,9 +201701,9 @@
       "url": "/wiki/entities/tedvallance/"
     },
     "TeenagerHistoricalIdentity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9697541566 [GLT9697541566].md",
@@ -201674,9 +201711,16 @@
           "show": "The Rest Is History",
           "title": "50. Teenagers",
           "url": "/wiki/sources/50-teenagers-glt9697541566/"
+        },
+        {
+          "episode_file": "GLT9683168458 [GLT9683168458].md",
+          "key": "29-americanisation-glt9683168458",
+          "show": "The Rest Is History",
+          "title": "29. Americanisation",
+          "url": "/wiki/sources/29-americanisation-glt9683168458/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/teenagerhistoricalidentity/"
     },
     "Telemachus": {
@@ -213645,9 +213689,9 @@
       "url": "/wiki/concepts/wiplimitpersonalproductivity/"
     },
     "WTStead": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1273657377 [GLT1273657377].md",
@@ -213662,9 +213706,16 @@
           "show": "The Rest Is History",
           "title": "142. General Gordon and the Siege of Khartoum",
           "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        },
+        {
+          "episode_file": "GLT9683168458 [GLT9683168458].md",
+          "key": "29-americanisation-glt9683168458",
+          "show": "The Rest Is History",
+          "title": "29. Americanisation",
+          "url": "/wiki/sources/29-americanisation-glt9683168458/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/wtstead/"
     },
     "WahahaADCalciumMilk": {

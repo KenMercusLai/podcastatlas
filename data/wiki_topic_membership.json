@@ -3001,6 +3001,18 @@
       "url": "/topics/history/"
     }
   ],
+  "29-americanisation-glt9683168458": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "290-2022-a-history-glt4625765030": [
     {
       "key": "history",
@@ -12400,6 +12412,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "Americanization": [
     {
       "key": "culture",
       "label": "Culture",

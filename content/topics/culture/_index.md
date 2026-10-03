@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3090
+topic_total_pages: 3092
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -277,6 +277,9 @@ topic_concepts:
   - key: "AmericanSportsCapitalInEuropeanFootball"
     title: "American Sports Capital In European Football"
     url: "/wiki/concepts/americansportscapitalineuropeanfootball/"
+  - key: "Americanization"
+    title: "Americanization"
+    url: "/wiki/concepts/americanization/"
   - key: "AnalogMediaPreservation"
     title: "Analog Media Preservation"
     url: "/wiki/concepts/analogmediapreservation/"
@@ -8466,6 +8469,9 @@ topic_sources:
   - key: "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930"
     title: "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话"
     url: "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
+  - key: "29-americanisation-glt9683168458"
+    title: "29. Americanisation"
+    url: "/wiki/sources/29-americanisation-glt9683168458/"
   - key: "30-a-royal-row-glt5120507213"
     title: "30. A Royal Row"
     url: "/wiki/sources/30-a-royal-row-glt5120507213/"

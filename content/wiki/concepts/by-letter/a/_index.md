@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9545
+wiki_total_pages: 9546
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1913,6 +1913,9 @@ wiki_pages:
   - key: "AmericanSportsCapitalInEuropeanFootball"
     title: "American Sports Capital In European Football"
     url: "/wiki/concepts/americansportscapitalineuropeanfootball/"
+  - key: "Americanization"
+    title: "Americanization"
+    url: "/wiki/concepts/americanization/"
   - key: "AmnestyExploitationCrime"
     title: "Amnesty Exploitation Crime / 大赦预期犯罪"
     url: "/wiki/concepts/amnestyexploitationcrime/"

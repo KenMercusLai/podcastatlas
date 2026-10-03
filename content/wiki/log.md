@@ -28860,3 +28860,11 @@ Added source `scim8789190900-scim8789190900`; resynthesized [[PhysiologicalSigh]
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 29. Americanisation
+
+Added source `29-americanisation-glt9683168458`; created [[Americanization]]; and resynthesized [[AmericanCulturalExports]], [[AmericanExceptionalism]], [[AngloAmericanPowerReversal]], [[TeenagerHistoricalIdentity]], and [[WTStead]] from their complete preserved evidence inventories. Core synthesis: Americanization joins strategic and economic scale to English-language media, consumer culture, technological infrastructure, and moral attention, producing attraction, adaptation, resentment, and reciprocal exchange rather than uniform one-way assimilation. No settled contradiction was adopted. Claims about imported political terminology, Chinese cultural reach, American sports, national psychology, media causation, and precise word or category origins remain source-scoped. Recurring host and show profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,607-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
