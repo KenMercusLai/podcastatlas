@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Science of Emotions & Relationships](sources/the-science-of-emotions-relationships-scim6339543648.md) — Early Huberman Lab episode on dimensional emotion mapping, attachment, adolescent reorientation, social hormones, and the nonuniform effects of vagal stimulation.
 - [39. Elizabeth I](sources/39-elizabeth-i-glt7302124935.md) — The Rest Is History with Tracy Borman on Elizabeth's religious pragmatism, Virgin Queen image, marriage strategy, surveillance state, Armada, and succession.
 - [EP166-Spotify缘何成为地表最强音乐流媒体平台？](sources/ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd.md) — 无时差研究所 conversation on playlist discovery, distributed recommendation, licensing, cross-language bias, audio-platform expansion, royalty gaming, and Spotify workplace culture.
 - [40. History as Entertainment](sources/40-history-as-entertainment-glt9519276470.md) — The Rest Is History on reenactment, theme parks, board games, video games, historical simulation, ideological framing, and the ethics of making violence entertaining.
@@ -15913,6 +15914,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Emotion State Coordinate Model](concepts/EmotionStateCoordinateModel.md) — Three-axis description of emotional state through arousal, valence, and inward-versus-outward attention.
+- [Vagus Stimulation State Boundary](concepts/VagusStimulationStateBoundary.md) — Caution that vagal stimulation can activate or calm depending on pathway, method, dose, and context.
 - [Elizabethan Religious Pragmatism](concepts/ElizabethanReligiousPragmatism.md) — Protestant settlement strategy combining selective Catholic continuity with political stabilization and coercive limits.
 - [Virgin Queen Image Statecraft](concepts/VirginQueenImageStatecraft.md) — Conversion of Elizabeth's unmarried female rule into authority through portraiture, performance, sacred analogy, and reputation management.
 - [Playlist As Discovery Interface](concepts/PlaylistAsDiscoveryInterface.md) — Playlist layer translating mood, activity, and setting into low-friction music discovery.

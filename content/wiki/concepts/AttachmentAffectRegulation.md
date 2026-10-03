@@ -7,6 +7,7 @@ sources:
   - how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809
   - the-science-of-love-desire-and-attachment-scim1112390541
   - science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543
+  - the-science-of-emotions-relationships-scim6339543648
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -25,6 +26,8 @@ Perel adds an adult-couple application: present conflict may reactivate older re
 
 The two solo Huberman episodes add the Strange Situation lineage, autonomic coordination, shared prediction, and a more explicit plasticity claim. Secure, avoidant, ambivalent or resistant, and disorganized patterns are presented as tendencies visible in separation and reunion, but not as permanent identities. Infant-caregiver bonding is described as mutual regulation of breathing, heart rate, pupil state, touch, and predictable shared ritual; adult romantic attachment can reuse this early regulatory machinery while later relationships, self-regulation, and repeated co-regulation alter how it is expressed.
 
+The earlier emotion-and-relationships episode sharpens the developmental starting point: an infant first experiences bodily need without a mature explanation, signals distress, and gradually links internal state to caregiver response. Gaze, vocalization, affect, touch, and reunion reliability form observable channels of that learning, while written language becomes an additional later bonding channel. This supports the regulation model without proving that any single infancy pattern determines adult personality.
+
 ## Key Claims
 - Early attachment is presented as affect communication and regulation through repeated nonverbal interaction, autonomic coordination, and predictable shared experience.
 - Secure attachment supports both self-regulation and interactive regulation rather than privileging either one.
@@ -42,13 +45,14 @@ The two solo Huberman episodes add the Strange Situation lineage, autonomic coor
 - Adult-couple extension: [[how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809]] connects recurring conflict to implicit memory and to abandonment/suffocation fears that can change across relationships.
 - Classification and plasticity: [[the-science-of-love-desire-and-attachment-scim1112390541]] uses [[MaryAinsworth|Mary Ainsworth]]'s separation-and-reunion categories while emphasizing that secure and insecure tendencies can change.
 - Autonomic and cognitive coordination: [[science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543]] describes infant-caregiver regulation through bodily timing, touch, and predictable shared narrative, then extends those systems to adult bonds.
+- Early need-response learning: [[the-science-of-emotions-relationships-scim6339543648]] links infant bodily need, signaling, caregiver response, gaze, voice, affect, touch, separation, and reunion while warning against fixed adult labels.
 
 ## Counterevidence & Qualifications
 The sources are broad public interviews and education, not complete attachment assessments or treatment protocols. Attachment labels should not be used to diagnose oneself, a partner, a child, or a caregiver from isolated behavior. Developmental timing, cross-cultural robustness, predictive strength, dissociation, limbic-autonomic, cortisol, hemisphere, synchrony, oxytocin, and neural-circuit explanations remain source-scoped; later functioning reflects more than the first two years, and present conduct remains accountable even when older learning is activated.
 
 ## What Changed
-- Added autonomic coordination and predictable shared experience as complementary channels in early and adult bonding.
-- Strengthened the plasticity boundary against treating early attachment as adult destiny.
+- Made internal-need-to-caregiver-response learning explicit as the developmental foundation of affect regulation.
+- Added gaze, vocalization, affect, touch, and reunion reliability as complementary bonding channels while preserving the plasticity boundary.
 
 ## Related Concepts
 - [[EmotionalCoRegulationFit]] - adult support-fit branch of interactive regulation.
@@ -60,3 +64,4 @@ The sources are broad public interviews and education, not complete attachment a
 - [[RelationshipPolarityBalance]] - adult intimacy tension between security and separateness.
 - [[CuriosityOverReactivity]] - regulated inquiry when old learning shapes present interpretation.
 - [[AutonomicRomanticCoordination]] - adult physiological expression of self- and interpersonal regulation.
+- [[EmotionStateCoordinateModel]] - state-description neighbor for arousal, valence, and attention direction within regulation.

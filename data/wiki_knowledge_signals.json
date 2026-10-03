@@ -6203,9 +6203,9 @@
       "url": "/wiki/concepts/administrativerenamingoverreach/"
     },
     "AdolescentAutonomyScaffolding": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9155116429 [SCIM9155116429].md",
@@ -6220,6 +6220,13 @@
           "show": "Huberman Lab",
           "title": "Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy",
           "url": "/wiki/sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498/"
+        },
+        {
+          "episode_file": "SCIM6339543648 [SCIM6339543648].md",
+          "key": "the-science-of-emotions-relationships-scim6339543648",
+          "show": "Huberman Lab",
+          "title": "The Science of Emotions & Relationships",
+          "url": "/wiki/sources/the-science-of-emotions-relationships-scim6339543648/"
         }
       ],
       "updated": "2026-09-27",
@@ -17297,9 +17304,9 @@
       "url": "/wiki/concepts/atrocitynarrativereframing/"
     },
     "AttachmentAffectRegulation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1947263719 [SCIM1947263719].md",
@@ -17328,6 +17335,13 @@
           "show": "Huberman Lab",
           "title": "Science of Social Bonding in Family, Friendship & Romantic Love",
           "url": "/wiki/sources/science-of-social-bonding-in-family-friendship-romantic-love-scim2455538543/"
+        },
+        {
+          "episode_file": "SCIM6339543648 [SCIM6339543648].md",
+          "key": "the-science-of-emotions-relationships-scim6339543648",
+          "show": "Huberman Lab",
+          "title": "The Science of Emotions & Relationships",
+          "url": "/wiki/sources/the-science-of-emotions-relationships-scim6339543648/"
         }
       ],
       "updated": "2026-10-02",
@@ -25451,9 +25465,9 @@
       "url": "/wiki/entities/bradgerstner/"
     },
     "BrainBodyEmotionMapping": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -25496,6 +25510,13 @@
           "show": "Huberman Lab",
           "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
           "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
+        },
+        {
+          "episode_file": "SCIM6339543648 [SCIM6339543648].md",
+          "key": "the-science-of-emotions-relationships-scim6339543648",
+          "show": "Huberman Lab",
+          "title": "The Science of Emotions & Relationships",
+          "url": "/wiki/sources/the-science-of-emotions-relationships-scim6339543648/"
         }
       ],
       "updated": "2026-10-02",
@@ -43854,9 +43875,9 @@
       "url": "/wiki/concepts/contextdependentbiomedicalinterventions/"
     },
     "ContextDependentSocialHormoneEffects": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM9606820714 [SCIM9606820714].md",
@@ -43885,6 +43906,13 @@
           "show": "Huberman Lab",
           "title": "Science of Stress, Testosterone & Free Will | Dr. Robert Sapolsky",
           "url": "/wiki/sources/scim5791514102-scim5791514102/"
+        },
+        {
+          "episode_file": "SCIM6339543648 [SCIM6339543648].md",
+          "key": "the-science-of-emotions-relationships-scim6339543648",
+          "show": "Huberman Lab",
+          "title": "The Science of Emotions & Relationships",
+          "url": "/wiki/sources/the-science-of-emotions-relationships-scim6339543648/"
         }
       ],
       "updated": "2026-10-03",
@@ -61877,6 +61905,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/emotionregulationtoolkit/"
+    },
+    "EmotionStateCoordinateModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6339543648 [SCIM6339543648].md",
+          "key": "the-science-of-emotions-relationships-scim6339543648",
+          "show": "Huberman Lab",
+          "title": "The Science of Emotions & Relationships",
+          "url": "/wiki/sources/the-science-of-emotions-relationships-scim6339543648/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/emotionstatecoordinatemodel/"
     },
     "EmotionalCoRegulationFit": {
       "episode_count": 4,
@@ -142990,9 +143034,9 @@
       "url": "/wiki/concepts/monumentaldynasticlegitimation/"
     },
     "MoodMeterEmotionalCheckIn": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6059113217 [SCIM6059113217].md",
@@ -143000,6 +143044,13 @@
           "show": "Huberman Lab",
           "title": "How to Increase Your Emotional Intelligence | Dr. Marc Brackett",
           "url": "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
+        },
+        {
+          "episode_file": "SCIM6339543648 [SCIM6339543648].md",
+          "key": "the-science-of-emotions-relationships-scim6339543648",
+          "show": "Huberman Lab",
+          "title": "The Science of Emotions & Relationships",
+          "url": "/wiki/sources/the-science-of-emotions-relationships-scim6339543648/"
         }
       ],
       "updated": "2026-09-23",
@@ -209890,6 +209941,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/vaccinescheduletrustrebuilding/"
+    },
+    "VagusStimulationStateBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6339543648 [SCIM6339543648].md",
+          "key": "the-science-of-emotions-relationships-scim6339543648",
+          "show": "Huberman Lab",
+          "title": "The Science of Emotions & Relationships",
+          "url": "/wiki/sources/the-science-of-emotions-relationships-scim6339543648/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/vagusstimulationstateboundary/"
     },
     "ValentineCardCommercialization": {
       "episode_count": 1,

@@ -28740,3 +28740,11 @@ Added source `39-elizabeth-i-glt7302124935`; created a bounded profile for Thoma
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | The Science of Emotions & Relationships
+
+Added source `the-science-of-emotions-relationships-scim6339543648`; created `EmotionStateCoordinateModel` and `VagusStimulationStateBoundary`; and resynthesized `BrainBodyEmotionMapping`, `AttachmentAffectRegulation`, `MoodMeterEmotionalCheckIn`, `ContextDependentSocialHormoneEffects`, and `AdolescentAutonomyScaffolding` from their complete preserved evidence inventories. Core synthesis: emotional states can be described through arousal, valence, and inward-versus-outward attention without reducing emotion to one center; attachment develops through repeated need-response and nonverbal regulation while remaining plastic; adolescent peer orientation and autonomy require supportive sleep and social context; and oxytocin, vasopressin, mirror-neuron, and vagal-stimulation claims require pathway, species, intervention, and evidence boundaries. No settled contradiction was adopted. Human pheromone effects, animal reproductive and pair-bonding models, intranasal oxytocin, implanted vagus stimulation, puberty mechanisms, school-start interventions, and hemispheric or mirror-neuron explanations remain source-scoped. Recurring host and show pages were not changed because the episode adds no durable identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,592-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
