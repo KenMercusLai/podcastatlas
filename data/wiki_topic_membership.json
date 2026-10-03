@@ -5157,6 +5157,18 @@
       "url": "/topics/history/"
     }
   ],
+  "5-1981-glt3026558838": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "50-teenagers-glt9697541566": [
     {
       "key": "history",
@@ -64621,6 +64633,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PopularCultureHistoricalMemory": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "PopularMusicAsCulturalTransmission": [

@@ -53785,9 +53785,9 @@
       "url": "/wiki/entities/dianamitford/"
     },
     "DianaPrincessOfWales": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -53809,6 +53809,13 @@
           "show": "The Rest Is History",
           "title": "30. A Royal Row",
           "url": "/wiki/sources/30-a-royal-row-glt5120507213/"
+        },
+        {
+          "episode_file": "GLT3026558838 [GLT3026558838].md",
+          "key": "5-1981-glt3026558838",
+          "show": "The Rest Is History",
+          "title": "5. 1981",
+          "url": "/wiki/sources/5-1981-glt3026558838/"
         }
       ],
       "updated": "2026-10-04",
@@ -97025,9 +97032,9 @@
       "url": "/wiki/concepts/historicalreputationconstruction/"
     },
     "HistoricalStructureAgencyCausation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7767131043 [GLT7767131043].md",
@@ -97035,6 +97042,13 @@
           "show": "The Rest Is History",
           "title": "32. What if?",
           "url": "/wiki/sources/32-what-if-glt7767131043/"
+        },
+        {
+          "episode_file": "GLT3026558838 [GLT3026558838].md",
+          "key": "5-1981-glt3026558838",
+          "show": "The Rest Is History",
+          "title": "5. 1981",
+          "url": "/wiki/sources/5-1981-glt3026558838/"
         }
       ],
       "updated": "2026-10-04",
@@ -102969,6 +102983,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/iphoneduo/"
+    },
+    "IanBotham": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3026558838 [GLT3026558838].md",
+          "key": "5-1981-glt3026558838",
+          "show": "The Rest Is History",
+          "title": "5. 1981",
+          "url": "/wiki/sources/5-1981-glt3026558838/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/ianbotham/"
     },
     "IanFleming": {
       "episode_count": 1,
@@ -136015,9 +136045,9 @@
       "url": "/wiki/entities/margaretmurray/"
     },
     "MargaretThatcher": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -136074,9 +136104,16 @@
           "show": "The Rest Is History",
           "title": "170. The Falklands War: The Task Force Sails (Part 2)",
           "url": "/wiki/sources/170-the-falklands-war-the-task-force-sails-part-2-glt1917394924/"
+        },
+        {
+          "episode_file": "GLT3026558838 [GLT3026558838].md",
+          "key": "5-1981-glt3026558838",
+          "show": "The Rest Is History",
+          "title": "5. 1981",
+          "url": "/wiki/sources/5-1981-glt3026558838/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/margaretthatcher/"
     },
     "MarginTradingForcedSelling": {
@@ -164836,6 +164873,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/popularcounterrevolution/"
     },
+    "PopularCultureHistoricalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3026558838 [GLT3026558838].md",
+          "key": "5-1981-glt3026558838",
+          "show": "The Rest Is History",
+          "title": "5. 1981",
+          "url": "/wiki/sources/5-1981-glt3026558838/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/popularculturehistoricalmemory/"
+    },
     "PopularMusicAsCulturalTransmission": {
       "episode_count": 1,
       "show_count": 1,
@@ -173941,9 +173994,9 @@
       "url": "/wiki/concepts/rebellionjustifiedpowerexpansion/"
     },
     "RecentHistoryPerspective": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8035489270 [GLT8035489270].md",
@@ -173951,6 +174004,13 @@
           "show": "The Rest Is History",
           "title": "23. The 90s",
           "url": "/wiki/sources/23-the-90s-glt8035489270/"
+        },
+        {
+          "episode_file": "GLT3026558838 [GLT3026558838].md",
+          "key": "5-1981-glt3026558838",
+          "show": "The Rest Is History",
+          "title": "5. 1981",
+          "url": "/wiki/sources/5-1981-glt3026558838/"
         }
       ],
       "updated": "2026-10-04",
@@ -204197,9 +204257,9 @@
       "url": "/wiki/entities/tezukaosamu/"
     },
     "ThatcheriteMoralMarketPolitics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1785737730 [GLT1785737730].md",
@@ -204207,9 +204267,16 @@
           "show": "The Rest Is History",
           "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
           "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
+        },
+        {
+          "episode_file": "GLT3026558838 [GLT3026558838].md",
+          "key": "5-1981-glt3026558838",
+          "show": "The Rest Is History",
+          "title": "5. 1981",
+          "url": "/wiki/sources/5-1981-glt3026558838/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/thatcheritemoralmarketpolitics/"
     },
     "The120DaysOfSodom": {
@@ -215084,9 +215151,9 @@
       "url": "/wiki/entities/vittoriopozzo/"
     },
     "VivRichards": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9095163579 [GLT9095163579].md",
@@ -215094,9 +215161,16 @@
           "show": "The Rest Is History",
           "title": "129. Cricket",
           "url": "/wiki/sources/129-cricket-glt9095163579/"
+        },
+        {
+          "episode_file": "GLT3026558838 [GLT3026558838].md",
+          "key": "5-1981-glt3026558838",
+          "show": "The Rest Is History",
+          "title": "5. 1981",
+          "url": "/wiki/sources/5-1981-glt3026558838/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/vivrichards/"
     },
     "VivekMurthy": {

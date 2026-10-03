@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [5. 1981](sources/5-1981-glt3026558838.md) — The Rest Is History on 1981 Britain, recent-history method, Diana, Thatcher, music, cricket, personal memory, and popular culture as historical evidence.
 - [6. Troy](sources/6-troy-glt4742295987.md) — The Rest Is History on Troy's qualified Bronze Age setting, rival war explanations, tragic victimhood, political ancestry, modern war memory, and film.
 - [7. The Lessons of History](sources/7-the-lessons-of-history-glt2771707131.md) — The Rest Is History on historical analogy, recurring pressures, geography, prediction limits, and humility without universal formulas.
 - [8. The Echo of a Coffee House](sources/8-the-echo-of-a-coffee-house-glt8695060101.md) — The Rest Is History on Reformation print, social-media amplification, culture wars, vocal minorities, archival visibility, and the conditions for durable moral change.
@@ -3952,7 +3953,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Hotten](entities/JohnHotten.md) — Cricket writer interpreting the game's rules, institutions, celebrity, empire, postcolonial transformation, and amateur meaning.
 - [W. G. Grace](entities/WGGrace.md) — Victorian batsman joining technical innovation, rail-and-newspaper celebrity, sponsorship, and cricket's moral ambiguity.
 - [Donald Bradman](entities/DonaldBradman.md) — Exceptional Australian batsman whose dominance made him the sporting and symbolic centre of the Bodyline crisis.
-- [Viv Richards](entities/VivRichards.md) — West Indies batsman embodying Caribbean dominance, postcolonial reversal, and the transition marked by India's 1983 victory.
+- [Viv Richards](entities/VivRichards.md) — West Indies batsman embodying Caribbean dominance, postcolonial reversal, friendship across racial lines, and the transition marked by India's 1983 victory.
 - [West Indies Cricket Team](entities/WestIndiesCricketTeam.md) — Transnational Caribbean team joining regional identity, diaspora, colonial inheritance, resistance, and postcolonial power.
 - [Superman](entities/Superman.md) — Early canonical superhero joining Depression reform, immigrant dual identity, wartime expansion, and American national symbolism.
 - [Batman](entities/Batman.md) — Human masked vigilante joining detective precursors, trauma, urban crime anxiety, wealth, and contested private justice.
@@ -4194,7 +4195,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [George VI](entities/GeorgeVI.md) — Reluctant wartime king whose accession and duty directly shaped Elizabeth II's formation and succession.
 - [Edward VIII](entities/EdwardVIII.md) — King whose abdication made George VI sovereign and redirected Elizabeth II toward the throne.
 - [Prince Philip](entities/PrincePhilip.md) — Elizabeth II's husband, naval officer, Malta companion, and later focus of publicly symbolic pandemic grief.
-- [Diana, Princess of Wales](entities/DianaPrincessOfWales.md) — Royal figure whose marriage crisis, emotional public style, and death exposed the monarchy's model-family vulnerability.
+- [Diana, Princess of Wales](entities/DianaPrincessOfWales.md) — Royal figure whose 1981 wedding, emotional public style, marriage crisis, and death made her a modern myth and exposed the monarchy's model-family vulnerability.
 - [Kwame Nkrumah](entities/KwameNkrumah.md) — Ghanaian nationalist and Pan-African leader who joined mass independence politics to post-imperial symbolism.
 - [Harold Macmillan](entities/HaroldMacmillan.md) — British prime minister whose “winds of change” position represented governmental acceptance of African decolonisation.
 - [Loch Ness Monster](entities/LochNessMonster.md) — Legendary Scottish cryptid whose modern long-necked form emerged through 1933-34 sightings, media circulation, and hoax evidence.
@@ -11023,7 +11024,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [CIA / Central Intelligence Agency / 中情局](entities/CIA.md) — U.S. intelligence service whose need for Soviet-warning intelligence and curiosity about Britain's source created ally-side exposure risk in episode 81.
 - [Aldrich Ames / 奥德里奇·艾姆斯](entities/AldrichAmes.md) — CIA officer whose betrayal to the KGB exposed Oleg Gordievsky and made Operation Pimlico urgent.
 - [Operation RYAN / 莱恩行动](entities/OperationRYAN.md) — KGB nuclear-war warning operation used by episode 81 to show Soviet fear becoming an intelligence feedback loop.
-- [Margaret Thatcher / 玛格丽特·撒切尔](entities/MargaretThatcher.md) — Prominent 1974 Conservative campaigner, 1975 party leader, and later prime minister who approved Operation Pimlico.
+- [Margaret Thatcher / 玛格丽特·撒切尔](entities/MargaretThatcher.md) — Conservative leader interpreted across contingent rise, 1981 crisis, Falklands recovery, Cold War decisions, and contested structural change.
 - [Ronald Reagan / 罗纳德·里根](entities/RonaldReagan.md) — U.S. president represented through performance, religious-moral language, contested policy, Cold War risk, rights diplomacy, and arms control.
 - [Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫](entities/MikhailGorbachev.md) — Final Soviet leader whose Leninist renewal, political opening, arms control, and loss of authority joined idealism to partial-reform risk.
 - [Yuri Andropov / 尤里·安德罗波夫](entities/YuriAndropov.md) — Soviet leader joining preservationist reform, coercive discipline, and Operation RYAN's prior-confirming nuclear fear.
@@ -11032,6 +11033,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Foot / 迈克尔·富特](entities/MichaelFoot.md) — British politician appearing as a contested source-scoped KGB-money allegation in Gordievsky's London intelligence.
 - [Michael Bettaney / 迈克尔·贝塔尼](entities/MichaelBettaney.md) — British-side intelligence figure in the "Koba" letter incident used to show Gordievsky's counterintelligence value.
 - [《间谍与叛徒》 / The Spy and the Traitor](entities/TheSpyAndTheTraitor.md) — Ben Macintyre nonfiction book used by episode 80 to narrate Oleg Gordievsky's Cold War defection from KGB officer to MI6 source.
+- [Ian Botham](entities/IanBotham.md) — English cricketer whose 1981 Ashes comeback became a symbol of national recovery, individualism, and sporting friendship across racial lines.
 - [Ben Macintyre / 本·麦金泰尔](entities/BenMacintyre.md) — Author of 《间谍与叛徒》, introduced through episode 80's Cold War espionage narrative.
 - [Oleg Gordievsky / 奥列格·戈尔杰夫斯基](entities/OlegGordievsky.md) — KGB officer and MI6 source whose ideological defection anchors episode 80.
 - [KGB / 克格勃](entities/KGB.md) — Soviet state-security and intelligence institution central to episode 80's account of double life, surveillance, and Cold War spycraft.
@@ -16025,7 +16027,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chinese Civilizational Continuity](concepts/ChineseCivilizationalContinuity.md) — Qualified framework for unity, fragmentation, institutional inheritance, territorial change, revolution, and the political use of history in China.
 - [Future Visions as Present Anxiety](concepts/FutureVisionsAsPresentAnxiety.md) — Framework reading prophecy, futurism, models, and dystopia as evidence about the fears and assumptions of their own time.
 - [Prophetic Ambiguity and Interpretation](concepts/PropheticAmbiguityAndInterpretation.md) — Mechanism by which difficult wording, specialist authority, information access, and retrospective reading preserve prophetic force.
-- [Recent-History Perspective](concepts/RecentHistoryPerspective.md) — Method for using lived memory as evidence without mistaking familiar, generational, or nostalgic experience for representative history.
+- [Recent-History Perspective](concepts/RecentHistoryPerspective.md) — Method for joining private continuity and lived memory to public crisis without mistaking familiar or nostalgic experience for representative history.
 - [Sexual History Evidence Interpretation](concepts/SexualHistoryEvidenceInterpretation.md) — Contextual reading of intimate, literary, legal, and commercial sources as both historical evidence and audience-shaped performance.
 - [Class-Stratified Sexual Respectability](concepts/ClassStratifiedSexualRespectability.md) — Gender- and class-specific system of sexual knowledge, reputation, discretion, availability, and unequal material consequences.
 - [Sex Work as an Economic Spectrum](concepts/SexWorkEconomicSpectrum.md) — Framework joining varied entry routes, constrained agency, urban markets, reproductive risk, patronage, and insecurity.
@@ -16039,7 +16041,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Royal Outsider Marriage](concepts/RoyalOutsiderMarriage.md) — Friction produced when intimate partnership brings an outsider into a hereditary institution of rank, ritual, succession, and public symbolism.
 - [Royal Duty–Emotional Disclosure Conflict](concepts/RoyalDutyEmotionalDisclosureConflict.md) — Clash between restrained role-bound service and public emotional or mental-health disclosure as rival standards of care.
 - [German Unification](concepts/GermanUnification.md) — Conversion of cultural, liberal, popular, and economic German nationhood into a Prussian-led state through Bismarckian war and statecraft.
-- [Historical Structure-Agency Causation](concepts/HistoricalStructureAgencyCausation.md) — Framework for weighing individual choices against replacement mechanisms, institutional resilience, material conditions, and time horizon.
+- [Historical Structure-Agency Causation](concepts/HistoricalStructureAgencyCausation.md) — Framework for weighing individual choices and responsibility against replacement mechanisms, institutional resilience, material conditions, and time horizon.
 - [Football as Mass Culture](concepts/FootballAsMassCulture.md) — Framework treating football as a shared institution of time, belonging, civic identity, political symbolism, and social conflict.
 - [Saint-Relic Political Authority](concepts/SaintRelicPoliticalAuthority.md) — Conversion of holy remains and associated objects into pilgrimage, landholding, institutional continuity, and royal legitimacy.
 - [Cross-Class Christian Conversion](concepts/CrossClassChristianConversion.md) — Religious expansion through simultaneous elite credibility and practical or moral concern for socially neglected people.
@@ -17876,7 +17878,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Livelihood-First Pacification](concepts/LivelihoodFirstPacification.md) — governance pattern where officials repair hunger and production before treating disorder as enemy suppression.
 - [Conservative Leadership Election 1975](concepts/ConservativeLeadershipElection1975.md) — Contest opened by Heath's 1974 defeats and Joseph's withdrawal, ending with Thatcher's victory over Heath and Whitelaw.
 - [Conservative Party Class Realignment](concepts/ConservativePartyClassRealignment.md) — shift from patrician Heathite paternalism toward middle-class, grammar-school, free-market Conservative identity.
-- [Thatcherite Moral-Market Politics](concepts/ThatcheriteMoralMarketPolitics.md) — political style fusing free-market economics with moral language about thrift, work, discipline, property, and anti-socialism.
+- [Thatcherite Moral-Market Politics](concepts/ThatcheriteMoralMarketPolitics.md) — Political style fusing markets and moral discipline with an aspirational appeal extending beyond a purely middle-class base.
+- [Popular Culture as Historical Memory](concepts/PopularCultureHistoricalMemory.md) — How music, sport, television, celebrity, and public spectacle organize emotional memory of the recent past.
 - [RULER Framework](concepts/RULERFramework.md) — Marc Brackett's emotional-intelligence model for recognizing, understanding, labeling, expressing, and regulating emotions.
 - [Mood Meter Emotional Check-In](concepts/MoodMeterEmotionalCheckIn.md) — Pleasantness-and-energy map for noticing an emotional state without automatically judging or fixing it.
 - [Emotion Mentorship](concepts/EmotionMentorship.md) — Supportive relationship that gives permission to feel through listening, compassion, inquiry, and practical help.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3054
+topic_total_pages: 3055
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8223,6 +8223,9 @@ topic_sources:
   - key: "474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702"
     title: "474. The Road to The Great War: The Lights Go Out (Part 6)"
     url: "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
+  - key: "5-1981-glt3026558838"
+    title: "5. 1981"
+    url: "/wiki/sources/5-1981-glt3026558838/"
   - key: "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o"
     title: "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？"
     url: "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"

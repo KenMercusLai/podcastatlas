@@ -29147,3 +29147,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 5. 1981
+
+Added source `5-1981-glt3026558838`; created [[IanBotham]] and [[PopularCultureHistoricalMemory]]; and resynthesized [[MargaretThatcher]], [[DianaPrincessOfWales]], [[VivRichards]], [[RecentHistoryPerspective]], [[HistoricalStructureAgencyCausation]], and [[ThatcheriteMoralMarketPolitics]] from their complete preserved evidence inventories. Core synthesis: recent history is remembered through unequal personal experience and through cultural cues such as music, sport, television, and royal spectacle, while those vivid symbols cannot replace structural evidence. The episode's Thatcher interpretation adds aspirational working-class reception and longer economic pressures without erasing responsibility for policy choices; its Diana and Botham cases distinguish durable public symbolism from uniform contemporary meaning. No settled contradiction was adopted. The counterfactual claim that Britain would have developed similarly without Thatcher, the representativeness of union-member support, Diana's emotional significance, Botham's political symbolism, and causal links among the royal wedding, the Ashes, Falklands patriotism, and Thatcherism remain qualified or source-scoped. Recurring host and show profiles were not changed because the episode adds thematic evidence rather than a durable biographical revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,643-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2540
+topic_total_pages: 2542
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1063,6 +1063,9 @@ topic_concepts:
   - key: "PompeiiArchaeologicalPalimpsest"
     title: "Pompeii as an Archaeological Palimpsest"
     url: "/wiki/concepts/pompeiiarchaeologicalpalimpsest/"
+  - key: "PopularCultureHistoricalMemory"
+    title: "Popular Culture as Historical Memory"
+    url: "/wiki/concepts/popularculturehistoricalmemory/"
   - key: "PostBattleTerrorSignaling"
     title: "Post-Battle Terror Signaling / 战后恐怖震慑"
     url: "/wiki/concepts/postbattleterrorsignaling/"
@@ -6246,6 +6249,9 @@ topic_sources:
   - key: "499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726"
     title: "499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)"
     url: "/wiki/sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726/"
+  - key: "5-1981-glt3026558838"
+    title: "5. 1981"
+    url: "/wiki/sources/5-1981-glt3026558838/"
   - key: "50-teenagers-glt9697541566"
     title: "50. Teenagers"
     url: "/wiki/sources/50-teenagers-glt9697541566/"
