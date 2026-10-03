@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9532
+wiki_total_pages: 9535
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -863,6 +863,12 @@ wiki_pages:
   - key: "EscalationOfCommitment"
     title: "Escalation Of Commitment / 非理性投入升级"
     url: "/wiki/concepts/escalationofcommitment/"
+  - key: "EspionageHistoricalImpact"
+    title: "Espionage Historical Impact"
+    url: "/wiki/concepts/espionagehistoricalimpact/"
+  - key: "EspionageFictionWorldbuilding"
+    title: "Espionage–Fiction Worldbuilding"
+    url: "/wiki/concepts/espionagefictionworldbuilding/"
   - key: "ESPNAffiliateFeeModel"
     title: "ESPN Affiliate Fee Model"
     url: "/wiki/concepts/espnaffiliatefeemodel/"

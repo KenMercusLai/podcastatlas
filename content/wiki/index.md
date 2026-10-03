@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [37. Spies, with Ben Macintyre](sources/37-spies-with-ben-macintyre-glt4382644548.md) — The Rest Is History with Ben Macintyre on fiction and espionage, wartime deception, Gordievsky and nuclear misperception, spy motives, historical impact, and archival limits.
 - [38. Communism](sources/38-communism-glt7587678050.md) — The Rest Is History on communist ideals, Christian and utopian precedents, Marx and Engels, Leninist adaptation, Stalinist coercion, political religion, and the persistence of formal communist states.
 - [The Science of Emotions & Relationships](sources/the-science-of-emotions-relationships-scim6339543648.md) — Early Huberman Lab episode on dimensional emotion mapping, attachment, adolescent reorientation, social hormones, and the nonuniform effects of vagal stimulation.
 - [39. Elizabeth I](sources/39-elizabeth-i-glt7302124935.md) — The Rest Is History with Tracy Borman on Elizabeth's religious pragmatism, Virgin Queen image, marriage strategy, surveillance state, Armada, and succession.
@@ -3656,6 +3657,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [41. Persia](sources/41-persia-glt6414068538.md) — The Rest Is History conversation with Ali Ansari on Iran/Persia continuity, pre-Islamic empires, Zoroastrian influence, paradise gardens, and Persianate administration.
 
 ## Entities
+- [Operation Mincemeat](entities/OperationMincemeat.md) — Allied wartime deception built around a fabricated identity, planted documents, neutral Spain, and intelligence feedback.
+- [Ursula Kaczynski / Agent Sonya](entities/UrsulaKaczynski.md) — Soviet military-intelligence officer whose domestic cover benefited from gendered investigative assumptions.
+- [Juan Pujol / Garbo](entities/JuanPujol.md) — Spanish double agent whose fictitious sub-agent network supported Allied D-Day deception.
 - [Vladimir Lenin](entities/VladimirLenin.md) — Bolshevik revolutionary who adapted Marxism to agrarian Russia through vanguard-party organization and seizure of power.
 - [Thomas Seymour](entities/ThomasSeymour.md) — Tudor courtier whose inappropriate conduct toward the teenage Elizabeth created lasting reputational danger.
 - [沈阳 / Shenyang (city)](entities/ShenyangCity.md) — Liaoning capital viewed through Xita memory and the social, spatial, and governance systems of morning markets.
@@ -15917,6 +15921,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Intelligence History Evidence Boundary](concepts/IntelligenceHistoryEvidenceBoundary.md) — Limits on espionage history created by secrecy, unknown agents, selective access, weeded files, and fragile digital records.
+- [Espionage Historical Impact](concepts/EspionageHistoricalImpact.md) — Framework for testing when secret collection, deception, interpretation, or covert action materially changes events.
+- [Espionage–Fiction Worldbuilding](concepts/EspionageFictionWorldbuilding.md) — Shared construction of internally credible artificial realities in narrative fiction and operational deception.
 - [Communism](concepts/Communism.md) — Political tradition joining common ownership and classless liberation to historically varied doctrines, movements, and party-states.
 - [Marxism as Political Religion](concepts/MarxismAsPoliticalReligion.md) — Qualified analogy for Marxism's canonical, prophetic, ritual, identity-forming, and redemptive structures.
 - [Utopian Communist Coercion](concepts/UtopianCommunistCoercion.md) — Risk that compulsory pursuit of common ownership and a classless future centralizes control and suppresses plural correction.

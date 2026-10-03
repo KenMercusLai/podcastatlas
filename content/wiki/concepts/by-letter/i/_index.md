@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9532
+wiki_total_pages: 9535
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "IntelligenceFlywheel"
     title: "Intelligence Flywheel"
     url: "/wiki/concepts/intelligenceflywheel/"
+  - key: "IntelligenceHistoryEvidenceBoundary"
+    title: "Intelligence History Evidence Boundary"
+    url: "/wiki/concepts/intelligencehistoryevidenceboundary/"
   - key: "IntelligenceLiaisonRisk"
     title: "Intelligence Liaison Risk / 情报盟友协作风险"
     url: "/wiki/concepts/intelligenceliaisonrisk/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2493
+topic_total_pages: 2496
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -421,6 +421,9 @@ topic_concepts:
   - key: "EnvironmentalProxyHistoricalEvidence"
     title: "Environmental Proxy Evidence in History"
     url: "/wiki/concepts/environmentalproxyhistoricalevidence/"
+  - key: "EspionageHistoricalImpact"
+    title: "Espionage Historical Impact"
+    url: "/wiki/concepts/espionagehistoricalimpact/"
   - key: "EuropeanAmazonProjection"
     title: "European Amazon Projection"
     url: "/wiki/concepts/europeanamazonprojection/"
@@ -718,6 +721,9 @@ topic_concepts:
   - key: "InstrumentalTruceBreach"
     title: "Instrumental Truce Breach / 工具化议和毁约"
     url: "/wiki/concepts/instrumentaltrucebreach/"
+  - key: "IntelligenceHistoryEvidenceBoundary"
+    title: "Intelligence History Evidence Boundary"
+    url: "/wiki/concepts/intelligencehistoryevidenceboundary/"
   - key: "InterestReframingPersuasion"
     title: "Interest Reframing Persuasion / 利益重构式说服"
     url: "/wiki/concepts/interestreframingpersuasion/"
@@ -5727,6 +5733,9 @@ topic_sources:
   - key: "369-the-colosseum-romes-arena-of-death-glt7808118779"
     title: "369. The Colosseum: Rome's Arena of Death"
     url: "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
+  - key: "37-spies-with-ben-macintyre-glt4382644548"
+    title: "37. Spies, with Ben Macintyre"
+    url: "/wiki/sources/37-spies-with-ben-macintyre-glt4382644548/"
   - key: "370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034"
     title: "370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)"
     url: "/wiki/sources/370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034/"

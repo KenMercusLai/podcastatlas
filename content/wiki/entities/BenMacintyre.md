@@ -2,21 +2,64 @@
 title: "Ben Macintyre / 本·麦金泰尔"
 type: entity
 tags: [author, journalist, nonfiction, espionage]
-sources: [81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209, 80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]
-last_updated: 2026-08-06
+sources:
+  - 81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209
+  - 80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649
+  - 37-spies-with-ben-macintyre-glt4382644548
+last_updated: 2026-10-03
+knowledge_schema: synthesis-v1
 ---
 
 # Ben Macintyre / 本·麦金泰尔
 
-Ben Macintyre / 本·麦金泰尔 enters the wiki as the author of [[TheSpyAndTheTraitor|《间谍与叛徒》 / The Spy and the Traitor]], the book discussed in [[80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]]. The episode says Macintyre interviewed [[OlegGordievsky|Oleg Gordievsky]] and former [[MI6]] participants, giving the story both biographical and operational detail.
+## Overview
 
-The source uses Macintyre's book as a model of readable historical nonfiction: individual motives, institutional secrecy, and Cold War pressure are kept in narrative tension without reducing the story to simple betrayal or adventure fantasy.
+Ben Macintyre is a journalist and narrative historian whose espionage writing joins individual motive, institutional secrecy, operational detail, and the problem of proving historical consequence.
 
-[[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] adds the book's second-half payoff: [[OperationRYAN]], [[AldrichAmes|Ames]]'s betrayal, the Moscow recall, and [[OperationPimlico]]'s escape through [[Finland]]. The episode keeps Macintyre's narrative method attached to political meaning by treating Gordievsky's value as [[StrategicIntelligenceInterpretation]], not only adventure suspense.
+## Current Profile
 
-## Connections
-- [[TheSpyAndTheTraitor]] - book source.
-- [[OlegGordievsky]], [[KGB]], and [[MI6]] - central subject and institutions.
-- [[MihuanChishu|蜜獾吃书]] - podcast that introduces him to the wiki.
-- [[OperationRYAN]], [[AldrichAmes]], [[OperationPimlico]], and [[Finland]] - second-half branch added by episode 81.
-- [[ColdWarSpycraft]] and [[StrategicIntelligenceInterpretation]] - episode-level narrative frames drawn from the book.
+The two [[MihuanChishu|蜜獾吃书]] episodes use Macintyre's [[TheSpyAndTheTraitor|《间谍与叛徒》]] to reconstruct [[OlegGordievsky|Oleg Gordievsky's]] ideological turn, handling by [[MI6]], strategic reporting, betrayal, and extraction. They show a narrative method that treats tradecraft as patient bureaucracy and relationship management rather than gadget fantasy, while keeping family cost and political consequence visible.
+
+[[37-spies-with-ben-macintyre-glt4382644548]] broadens that profile beyond one biography. Macintyre compares spycraft with fiction, tests [[EspionageHistoricalImpact|when intelligence changes history]], contrasts Gordievsky with [[KimPhilby|Kim Philby]], uses [[UrsulaKaczynski|Agent Sonya]] to expose a gendered security blind spot, and makes archive access part of the historian's method. His work in the wiki therefore combines readable storytelling with explicit uncertainty about closed files, unknown agents, motive, and causation.
+
+## Key Characteristics
+
+- Writes narrative history centered on espionage, secrecy, deception, and individual motive.
+- Treats mundane procedure and institutional behavior as more explanatory than glamorous spy imagery.
+- Uses biography to connect private conviction with strategic and political consequence.
+- Distinguishes frequent intelligence activity from rare cases of demonstrable historical effect.
+- Acknowledges the evidentiary limits created by secrecy, selective access, and incomplete archives.
+
+## Evidence
+
+### Gordievsky narrative and operational method
+
+- [[80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649]] follows ideological defection, recruitment, source protection, and escape planning.
+- [[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] completes the strategic-warning, betrayal, extraction, and family-cost sequence.
+
+### Comparative espionage history
+
+- [[37-spies-with-ben-macintyre-glt4382644548]] ranges across wartime deception, Cold War sources, women in intelligence, cyber operations, and covert intervention.
+
+### Historiographical boundary
+
+- [[37-spies-with-ben-macintyre-glt4382644548]] says participant interviews can be available even when operational files remain closed and warns that digital records may be historically fragile.
+
+## Qualifications
+
+The wiki sources are podcast conversations and summaries of Macintyre's work, not the full books or underlying archives. Their judgments about motives, troop movements, policy effects, literary influence, and institutional access remain episode-attributed where the supplied evidence does not independently establish them.
+
+## What Changed
+
+- Expanded the profile from one Gordievsky book to Macintyre's comparative account of espionage and deception.
+- Added his explicit test of whether intelligence changes history.
+- Added archive access and digital-record loss as constraints on his historical method.
+
+## Relationships
+
+- [[TheSpyAndTheTraitor]] - book through which the wiki first encountered his work.
+- [[OlegGordievsky]] - central biographical subject used to connect motive, tradecraft, and strategic warning.
+- [[OperationMincemeat]] - wartime deception case associated with his historical writing.
+- [[EspionageFictionWorldbuilding]] - shared narrative craft he identifies in fiction and intelligence.
+- [[EspionageHistoricalImpact]] - causal problem organizing his comparison of intelligence cases.
+- [[IntelligenceHistoryEvidenceBoundary]] - archival constraint on the histories he can reconstruct.

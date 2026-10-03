@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 12214
+wiki_total_pages: 12217
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1968"
     title: "1968 United States Presidential Election"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "UrsulaKLeGuin"
     title: "Ursula K. Le Guin / 厄休拉·勒古恩"
     url: "/wiki/entities/ursulakleguin/"
+  - key: "UrsulaKaczynski"
+    title: "Ursula Kaczynski / Agent Sonya"
+    url: "/wiki/entities/ursulakaczynski/"
   - key: "Uruguay"
     title: "Uruguay"
     url: "/wiki/entities/uruguay/"

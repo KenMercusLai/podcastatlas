@@ -2127,6 +2127,10 @@
     "title": "369. The Colosseum: Rome's Arena of Death",
     "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
   },
+  "37-spies-with-ben-macintyre-glt4382644548": {
+    "title": "37. Spies, with Ben Macintyre",
+    "url": "/wiki/sources/37-spies-with-ben-macintyre-glt4382644548/"
+  },
   "37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679": {
     "title": "37.智商测试：请问你是智力婆罗门吗？",
     "url": "/wiki/sources/37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679/"
@@ -27547,6 +27551,14 @@
     "title": "Eshu",
     "url": "/wiki/entities/eshu/"
   },
+  "EspionageFictionWorldbuilding": {
+    "title": "Espionage–Fiction Worldbuilding",
+    "url": "/wiki/concepts/espionagefictionworldbuilding/"
+  },
+  "EspionageHistoricalImpact": {
+    "title": "Espionage Historical Impact",
+    "url": "/wiki/concepts/espionagehistoricalimpact/"
+  },
   "EspressoCodeEditor": {
     "title": "Espresso",
     "url": "/wiki/entities/espressocodeeditor/"
@@ -40631,6 +40643,10 @@
     "title": "Intelligence Flywheel",
     "url": "/wiki/concepts/intelligenceflywheel/"
   },
+  "IntelligenceHistoryEvidenceBoundary": {
+    "title": "Intelligence History Evidence Boundary",
+    "url": "/wiki/concepts/intelligencehistoryevidenceboundary/"
+  },
   "IntelligenceLiaisonRisk": {
     "title": "Intelligence Liaison Risk / 情报盟友协作风险",
     "url": "/wiki/concepts/intelligenceliaisonrisk/"
@@ -43982,6 +43998,10 @@
   "JuanPeron": {
     "title": "Juan Perón",
     "url": "/wiki/entities/juanperon/"
+  },
+  "JuanPujol": {
+    "title": "Juan Pujol / Garbo",
+    "url": "/wiki/entities/juanpujol/"
   },
   "JuanSalvadorPenguin": {
     "title": "Juan Salvador / 胡安·萨尔瓦多",
@@ -58522,6 +58542,10 @@
   "OperationGemstone": {
     "title": "Operation Gemstone",
     "url": "/wiki/entities/operationgemstone/"
+  },
+  "OperationMincemeat": {
+    "title": "Operation Mincemeat",
+    "url": "/wiki/entities/operationmincemeat/"
   },
   "OperationPimlico": {
     "title": "Operation Pimlico / 皮姆利科行动",
@@ -81030,6 +81054,10 @@
   "UrsulaKLeGuin": {
     "title": "Ursula K. Le Guin / 厄休拉·勒古恩",
     "url": "/wiki/entities/ursulakleguin/"
+  },
+  "UrsulaKaczynski": {
+    "title": "Ursula Kaczynski / Agent Sonya",
+    "url": "/wiki/entities/ursulakaczynski/"
   },
   "Uruguay": {
     "title": "Uruguay",

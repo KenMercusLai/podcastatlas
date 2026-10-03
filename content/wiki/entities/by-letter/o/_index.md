@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 12214
+wiki_total_pages: 12217
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "OperationGemstone"
     title: "Operation Gemstone"
     url: "/wiki/entities/operationgemstone/"
+  - key: "OperationMincemeat"
+    title: "Operation Mincemeat"
+    url: "/wiki/entities/operationmincemeat/"
   - key: "OperationPimlico"
     title: "Operation Pimlico / 皮姆利科行动"
     url: "/wiki/entities/operationpimlico/"

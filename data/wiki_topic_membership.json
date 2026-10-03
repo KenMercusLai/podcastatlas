@@ -3682,6 +3682,13 @@
       "url": "/topics/history/"
     }
   ],
+  "37-spies-with-ben-macintyre-glt4382644548": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "37-zhishang-ceshi-qingwen-ni-shi-zhili-poluomen-ma-608020679": [
     {
       "key": "culture",
@@ -31416,6 +31423,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "EspionageHistoricalImpact": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "EspressoCodeEditor": [
     {
       "key": "technology",
@@ -44312,6 +44326,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "IntelligenceHistoryEvidenceBoundary": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "IntelligenceTesting": [

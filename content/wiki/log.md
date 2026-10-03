@@ -28764,3 +28764,11 @@ Added source `ep165-mishi-taotuo-baofa-qi-banyan-bieren-jiujing-zai-xunzhao-yizh
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 37. Spies, with Ben Macintyre
+
+Added source `37-spies-with-ben-macintyre-glt4382644548`; created `JuanPujol`, `UrsulaKaczynski`, `OperationMincemeat`, `EspionageFictionWorldbuilding`, `EspionageHistoricalImpact`, and `IntelligenceHistoryEvidenceBoundary`; and resynthesized `BenMacintyre`, `OlegGordievsky`, `KimPhilby`, `ColdWarSpycraft`, and `StrategicIntelligenceInterpretation` from their complete preserved evidence inventories. Core synthesis: espionage resembles fiction because both construct credible worlds, but historical importance requires a traceable path from collection or deception through interpretation to changed behavior; wartime deception, Gordievsky's adversary insight, Philby's betrayal, Agent Sonya's gendered cover, and the Iran intervention show that impact can be defensive, destructive, morally asymmetric, and difficult to prove. No settled contradiction was adopted. Troop movements, literary influence, sleeper prevalence, individual motives, policy causation, MI6 access, and the survival of digital records remain source-scoped. Recurring host, show, intelligence-service, and political-leader profiles were not changed where the episode added context but no durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,595-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
