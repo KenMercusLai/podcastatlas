@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12233
+wiki_total_pages: 12235
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -893,6 +893,9 @@ wiki_pages:
   - key: "PrinceHallFreemasonry"
     title: "Prince Hall Freemasonry"
     url: "/wiki/entities/princehallfreemasonry/"
+  - key: "PrinceHarry"
+    title: "Prince Harry"
+    url: "/wiki/entities/princeharry/"
   - key: "PrinceHisahito"
     title: "Prince Hisahito"
     url: "/wiki/entities/princehisahito/"

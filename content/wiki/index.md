@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [30. A Royal Row](sources/30-a-royal-row-glt5120507213.md) — The Rest Is History on Harry and Meghan, outsider royal marriage, rival emotional norms, Commonwealth symbolism, media vulnerability, and dynastic family conflict.
 - [31. The Second Reich](sources/31-the-second-reich-glt1008050219.md) — The Rest Is History with Katja Hoyer on Prussia, German nationhood, Bismarckian unification, imperial militarism, industrial power, and retrospective memory.
 - [EP163-被互联网冲击的艺术](sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf.md) — 无时差研究所 conversation on ordinary creative agency, experience-first viewing, curatorial design, provenance, art pricing, conceptual ownership, and internet-era attention.
 - [32. What if?](sources/32-what-if-glt7767131043.md) — The Rest Is History on disciplined counterfactuals, structure and agency, technological context, alternative-history fantasy, and May 1940 as a possible choke point.
@@ -3666,6 +3667,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [41. Persia](sources/41-persia-glt6414068538.md) — The Rest Is History conversation with Ali Ansari on Iran/Persia continuity, pre-Islamic empires, Zoroastrian influence, paradise gardens, and Persianate administration.
 
 ## Entities
+- [Prince Harry](entities/PrinceHarry.md) — Younger royal son whose public break with his family joins inherited rank, mental-health disclosure, and institutional media vulnerability.
+- [Meghan Markle](entities/MeghanMarkle.md) — American actor and royal spouse placed at the intersection of celebrity self-narration, outsider marriage, race, and hereditary rules.
 - [Prussia](entities/Prussia.md) — Scattered Baltic-Brandenburg state whose military, administrative, and industrial power became the vehicle for German unification.
 - [Jonathan Wilson (football writer)](entities/JonathanWilsonFootballWriter.md) — Football writer and historian connecting codification, network diffusion, national identity, labor systems, and global media.
 - [St Cuthbert](entities/StCuthbert.md) — Northumbrian ascetic, healer, and saint whose remembered charity became a powerful relic cult and political symbol.
@@ -15946,6 +15949,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Royal Outsider Marriage](concepts/RoyalOutsiderMarriage.md) — Friction produced when intimate partnership brings an outsider into a hereditary institution of rank, ritual, succession, and public symbolism.
+- [Royal Duty–Emotional Disclosure Conflict](concepts/RoyalDutyEmotionalDisclosureConflict.md) — Clash between restrained role-bound service and public emotional or mental-health disclosure as rival standards of care.
 - [German Unification](concepts/GermanUnification.md) — Conversion of cultural, liberal, popular, and economic German nationhood into a Prussian-led state through Bismarckian war and statecraft.
 - [Historical Structure-Agency Causation](concepts/HistoricalStructureAgencyCausation.md) — Framework for weighing individual choices against replacement mechanisms, institutional resilience, material conditions, and time horizon.
 - [Football as Mass Culture](concepts/FootballAsMassCulture.md) — Framework treating football as a shared institution of time, belonging, civic identity, political symbolism, and social conflict.

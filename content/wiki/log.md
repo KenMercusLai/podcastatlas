@@ -28844,3 +28844,11 @@ Added source `31-the-second-reich-glt1008050219`; created [[Prussia]] and [[Germ
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 30. A Royal Row
+
+Added source `30-a-royal-row-glt5120507213`; created [[PrinceHarry]], [[MeghanMarkle]], [[RoyalOutsiderMarriage]], and [[RoyalDutyEmotionalDisclosureConflict]]; and resynthesized [[DianaPrincessOfWales]] and [[RoyalFamilyMediaVulnerability]] from their complete preserved evidence inventories. Core synthesis: royal marriage joins personal intimacy to rank, ritual, succession, and public symbolism, while the Harry-Meghan interview exposes a conflict between restrained duty and public emotional disclosure. No settled contradiction was adopted. The episode's Americanization thesis complements but does not resolve claims centered on race, mental health, press treatment, or institutional culture, and its historical analogies remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,605-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

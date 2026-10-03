@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9543
+wiki_total_pages: 9545
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1265,6 +1265,9 @@ wiki_pages:
   - key: "RoyalAnointingTradition"
     title: "Royal Anointing Tradition"
     url: "/wiki/concepts/royalanointingtradition/"
+  - key: "RoyalDutyEmotionalDisclosureConflict"
+    title: "Royal Duty–Emotional Disclosure Conflict"
+    url: "/wiki/concepts/royaldutyemotionaldisclosureconflict/"
   - key: "RoyalExecutionLegitimacy"
     title: "Royal Execution Legitimacy"
     url: "/wiki/concepts/royalexecutionlegitimacy/"
@@ -1280,6 +1283,9 @@ wiki_pages:
   - key: "RoyalMinorityCustodyPolitics"
     title: "Royal Minority Custody Politics"
     url: "/wiki/concepts/royalminoritycustodypolitics/"
+  - key: "RoyalOutsiderMarriage"
+    title: "Royal Outsider Marriage"
+    url: "/wiki/concepts/royaloutsidermarriage/"
   - key: "RoyalUsurpationSpeechTaboo"
     title: "Royal Usurpation Speech Taboo / 宗室帝位言说禁忌"
     url: "/wiki/concepts/royalusurpationspeechtaboo/"

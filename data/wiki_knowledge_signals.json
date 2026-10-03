@@ -53247,9 +53247,9 @@
       "url": "/wiki/entities/dianamitford/"
     },
     "DianaPrincessOfWales": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -53264,9 +53264,16 @@
           "show": "The Rest Is History",
           "title": "186. The New Elizabethan Age",
           "url": "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
+        },
+        {
+          "episode_file": "GLT5120507213 [GLT5120507213].md",
+          "key": "30-a-royal-row-glt5120507213",
+          "show": "The Rest Is History",
+          "title": "30. A Royal Row",
+          "url": "/wiki/sources/30-a-royal-row-glt5120507213/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/dianaprincessofwales/"
     },
     "DianlingQiang": {
@@ -138180,6 +138187,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/meghirschberg/"
     },
+    "MeghanMarkle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5120507213 [GLT5120507213].md",
+          "key": "30-a-royal-row-glt5120507213",
+          "show": "The Rest Is History",
+          "title": "30. A Royal Row",
+          "url": "/wiki/sources/30-a-royal-row-glt5120507213/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/meghanmarkle/"
+    },
     "MehmedII": {
       "episode_count": 1,
       "show_count": 1,
@@ -166373,6 +166396,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/princehallfreemasonry/"
     },
+    "PrinceHarry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5120507213 [GLT5120507213].md",
+          "key": "30-a-royal-row-glt5120507213",
+          "show": "The Rest Is History",
+          "title": "30. A Royal Row",
+          "url": "/wiki/sources/30-a-royal-row-glt5120507213/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/princeharry/"
+    },
     "PrinceMochihito": {
       "episode_count": 1,
       "show_count": 1,
@@ -179527,6 +179566,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/royalcaribbean/"
     },
+    "RoyalDutyEmotionalDisclosureConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5120507213 [GLT5120507213].md",
+          "key": "30-a-royal-row-glt5120507213",
+          "show": "The Rest Is History",
+          "title": "30. A Royal Row",
+          "url": "/wiki/sources/30-a-royal-row-glt5120507213/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/royaldutyemotionaldisclosureconflict/"
+    },
     "RoyalExecutionLegitimacy": {
       "episode_count": 3,
       "show_count": 1,
@@ -179558,9 +179613,9 @@
       "url": "/wiki/concepts/royalexecutionlegitimacy/"
     },
     "RoyalFamilyMediaVulnerability": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5667149245 [GLT5667149245].md",
@@ -179575,9 +179630,16 @@
           "show": "The Rest Is History",
           "title": "186. The New Elizabethan Age",
           "url": "/wiki/sources/186-the-new-elizabethan-age-glt7640926802/"
+        },
+        {
+          "episode_file": "GLT5120507213 [GLT5120507213].md",
+          "key": "30-a-royal-row-glt5120507213",
+          "show": "The Rest Is History",
+          "title": "30. A Royal Row",
+          "url": "/wiki/sources/30-a-royal-row-glt5120507213/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/royalfamilymediavulnerability/"
     },
     "RoyalFiefDiscipline": {
@@ -179742,6 +179804,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/royalnavy/"
+    },
+    "RoyalOutsiderMarriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5120507213 [GLT5120507213].md",
+          "key": "30-a-royal-row-glt5120507213",
+          "show": "The Rest Is History",
+          "title": "30. A Royal Row",
+          "url": "/wiki/sources/30-a-royal-row-glt5120507213/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/royaloutsidermarriage/"
     },
     "RoyalSociety": {
       "episode_count": 3,

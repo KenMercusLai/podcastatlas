@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12233
+wiki_total_pages: 12235
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "MeganMcCartyCorino"
     title: "Megan McCarty-Corino"
     url: "/wiki/entities/meganmccartycorino/"
+  - key: "MeghanMarkle"
+    title: "Meghan Markle"
+    url: "/wiki/entities/meghanmarkle/"
   - key: "MeghnaNanu"
     title: "Meghna Nanu"
     url: "/wiki/entities/meghnananu/"
