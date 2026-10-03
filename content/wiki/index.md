@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [12. Conspiracy Theories](sources/12-conspiracy-theories-glt7580472793.md) — The Rest Is History survey of conspiracy belief as meaning-making, political weaponry, grain-of-truth reasoning, scapegoating, and institutional consequence.
 - [13. Stephen Fry and Troy](sources/13-stephen-fry-and-troy-glt5875934078.md) — The Rest Is History interview on Fry's Trojan War retelling, Homeric ambiguity, grief, cunning, myth-history boundaries, double determination, and why Greek myth endures.
 - [14. Historical Fiction](sources/14-historical-fiction-glt2461510190.md) — The Rest Is History on factual constraint, imaginative truth, past mental worlds, public memory, research restraint, and ethical proximity in historical fiction.
 - [16. Pompeii](sources/16-pompeii-glt3349011345.md) — The Rest Is History with Sophie Hay on Pompeii as a layered city, archaeological interpretation, conservation, everyday life, and the disputed eruption date.
@@ -3696,6 +3697,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Your Brain Works & Changes](sources/how-your-brain-works-changes-scim1534957507.md) — First Huberman Lab episode on the nervous-system loop, sensation and attention, neuromodulators, adult plasticity, rest-dependent consolidation, and ultradian focus.
 
 ## Entities
+- [Popish Plot](entities/PopishPlot.md) — Fabricated Catholic assassination plot whose political crisis and institutional exclusions outlived exposure of the fraud.
+- [Titus Oates](entities/TitusOates.md) — Popish Plot accuser illustrating how a narrow accurate detail can lend rhetorical force to a much larger false claim.
 - [Stephen Fry](entities/StephenFry.md) — Writer, actor, comedian, and Greek-myth reteller whose Troy method preserves ambiguity, ancient difference, emotional restraint, and layered divine-human causation.
 - [Hadrian's Wall](entities/HadriansWall.md) — Roman frontier barrier illustrating both imperial capacity and the strategic limits that fortification acknowledges.
 - [Great Wall of China](entities/GreatWallOfChina.md) — Layered frontier works later transformed into a national symbol and metaphor for digital information control.
@@ -15996,6 +15999,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Geoffrey of Monmouth](entities/GeoffreyOfMonmouth.md) — Twelfth-century writer whose synthetic British history decisively shaped Arthur and Merlin's medieval profiles.
 
 ## Concepts
+- [Antisemitic Conspiracy Scapegoating](concepts/AntisemiticConspiracyScapegoating.md) — Mechanism that personalizes diffuse systems and crises as coordinated Jewish control and can convert false belief into institutional violence.
 - [Mythic Double Determination](concepts/MythicDoubleDetermination.md) — Framework in which divine intervention and human action remain simultaneous explanations without erasing responsibility or evidence boundaries.
 - [Wall and Border Systems](concepts/WallBorderSystems.md) — Framework separating purpose-specific effectiveness, enforcement capacity, political legitimacy, and conflict resolution.
 - [Pompeii as an Archaeological Palimpsest](concepts/PompeiiArchaeologicalPalimpsest.md) — Framework separating Pompeii's destruction horizon from its long urban development and changing excavation, conservation, and interpretation.

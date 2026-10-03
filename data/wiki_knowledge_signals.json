@@ -14559,6 +14559,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/antinouscultformation/"
     },
+    "AntisemiticConspiracyScapegoating": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7580472793 [GLT7580472793].md",
+          "key": "12-conspiracy-theories-glt7580472793",
+          "show": "The Rest Is History",
+          "title": "12. Conspiracy Theories",
+          "url": "/wiki/sources/12-conspiracy-theories-glt7580472793/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/antisemiticconspiracyscapegoating/"
+    },
     "AntisemitismIsraelCriticismBoundary": {
       "episode_count": 2,
       "show_count": 2,
@@ -43660,9 +43676,9 @@
       "url": "/wiki/concepts/consortiogroupfinancing/"
     },
     "ConspiracyTheoryPatternSeeking": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 3,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
@@ -43733,9 +43749,16 @@
           "show": "The Rest Is History",
           "title": "335: The Freemasons: History's Greatest Conspiracy Theory",
           "url": "/wiki/sources/335-the-freemasons-historys-greatest-conspiracy-theory-glt4122245847/"
+        },
+        {
+          "episode_file": "GLT7580472793 [GLT7580472793].md",
+          "key": "12-conspiracy-theories-glt7580472793",
+          "show": "The Rest Is History",
+          "title": "12. Conspiracy Theories",
+          "url": "/wiki/sources/12-conspiracy-theories-glt7580472793/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/conspiracytheorypatternseeking/"
     },
     "ConstanceMarkievicz": {
@@ -164485,6 +164508,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/popeyes/"
     },
+    "PopishPlot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7580472793 [GLT7580472793].md",
+          "key": "12-conspiracy-theories-glt7580472793",
+          "show": "The Rest Is History",
+          "title": "12. Conspiracy Theories",
+          "url": "/wiki/sources/12-conspiracy-theories-glt7580472793/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/popishplot/"
+    },
     "PoppaeaSabina": {
       "episode_count": 1,
       "show_count": 1,
@@ -207231,6 +207270,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/titus/"
+    },
+    "TitusOates": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7580472793 [GLT7580472793].md",
+          "key": "12-conspiracy-theories-glt7580472793",
+          "show": "The Rest Is History",
+          "title": "12. Conspiracy Theories",
+          "url": "/wiki/sources/12-conspiracy-theories-glt7580472793/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/titusoates/"
     },
     "Tlaxcala": {
       "episode_count": 2,

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2528
+topic_total_pages: 2529
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5016,6 +5016,9 @@ topic_sources:
   - key: "12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363"
     title: "12 Days: The Murder of Thomas Becket and the Wounded Knee Massacre"
     url: "/wiki/sources/12-days-the-murder-of-thomas-becket-and-the-wounded-knee-massacre-glt4510547363/"
+  - key: "12-conspiracy-theories-glt7580472793"
+    title: "12. Conspiracy Theories"
+    url: "/wiki/sources/12-conspiracy-theories-glt7580472793/"
   - key: "120-the-oil-weapon-glt6620754143"
     title: "120. The Oil Weapon"
     url: "/wiki/sources/120-the-oil-weapon-glt6620754143/"
