@@ -8454,6 +8454,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/akbarkhan/"
     },
+    "Akhenaten": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2697164979 [GLT2697164979].md",
+          "key": "27-tutankhamun-glt2697164979",
+          "show": "The Rest Is History",
+          "title": "27. Tutankhamun",
+          "url": "/wiki/sources/27-tutankhamun-glt2697164979/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/akhenaten/"
+    },
     "AkronOhio": {
       "episode_count": 1,
       "show_count": 1,
@@ -11615,6 +11631,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/ancientolympicsacredcompetition/"
+    },
+    "AncientPastIdeologicalProjection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2697164979 [GLT2697164979].md",
+          "key": "27-tutankhamun-glt2697164979",
+          "show": "The Rest Is History",
+          "title": "27. Tutankhamun",
+          "url": "/wiki/sources/27-tutankhamun-glt2697164979/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/ancientpastideologicalprojection/"
     },
     "AncientRomanSexualStatusHierarchy": {
       "episode_count": 1,
@@ -16874,6 +16906,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/atang/"
+    },
+    "Atenism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2697164979 [GLT2697164979].md",
+          "key": "27-tutankhamun-glt2697164979",
+          "show": "The Rest Is History",
+          "title": "27. Tutankhamun",
+          "url": "/wiki/sources/27-tutankhamun-glt2697164979/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/atenism/"
     },
     "Athelstan": {
       "episode_count": 6,
@@ -60413,9 +60461,9 @@
       "url": "/wiki/concepts/egocentricrobotdata/"
     },
     "Egyptology": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3691914095 [GLT3691914095].md",
@@ -60423,6 +60471,13 @@
           "show": "The Rest Is History",
           "title": "126. Napoleon in Egypt",
           "url": "/wiki/sources/126-napoleon-in-egypt-glt3691914095/"
+        },
+        {
+          "episode_file": "GLT2697164979 [GLT2697164979].md",
+          "key": "27-tutankhamun-glt2697164979",
+          "show": "The Rest Is History",
+          "title": "27. Tutankhamun",
+          "url": "/wiki/sources/27-tutankhamun-glt2697164979/"
         }
       ],
       "updated": "2026-10-02",
@@ -98355,6 +98410,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/houthis/"
+    },
+    "HowardCarter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2697164979 [GLT2697164979].md",
+          "key": "27-tutankhamun-glt2697164979",
+          "show": "The Rest Is History",
+          "title": "27. Tutankhamun",
+          "url": "/wiki/sources/27-tutankhamun-glt2697164979/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/howardcarter/"
     },
     "HowardHughesHoldings": {
       "episode_count": 1,
@@ -147452,6 +147523,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/nebuchadnezzarii/"
+    },
+    "Nefertiti": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2697164979 [GLT2697164979].md",
+          "key": "27-tutankhamun-glt2697164979",
+          "show": "The Rest Is History",
+          "title": "27. Tutankhamun",
+          "url": "/wiki/sources/27-tutankhamun-glt2697164979/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/nefertiti/"
     },
     "NeglectedFrictionProductInnovation": {
       "episode_count": 1,
@@ -208648,6 +208735,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/turingtestjudgmenttrap/"
+    },
+    "Tutankhamun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2697164979 [GLT2697164979].md",
+          "key": "27-tutankhamun-glt2697164979",
+          "show": "The Rest Is History",
+          "title": "27. Tutankhamun",
+          "url": "/wiki/sources/27-tutankhamun-glt2697164979/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/tutankhamun/"
     },
     "TutoringRestrictionSubstitutionEffect": {
       "episode_count": 1,

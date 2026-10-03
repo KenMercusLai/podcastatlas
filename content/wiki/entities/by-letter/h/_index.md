@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12235
+wiki_total_pages: 12239
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "HowWeSurvive"
     title: "How We Survive"
     url: "/wiki/entities/howwesurvive/"
+  - key: "HowardCarter"
+    title: "Howard Carter"
+    url: "/wiki/entities/howardcarter/"
   - key: "HowardHughesHoldings"
     title: "Howard Hughes Holdings"
     url: "/wiki/entities/howardhughesholdings/"

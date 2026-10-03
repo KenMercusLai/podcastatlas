@@ -3669,8 +3669,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [41. Persia](sources/41-persia-glt6414068538.md) — The Rest Is History conversation with Ali Ansari on Iran/Persia continuity, pre-Islamic empires, Zoroastrian influence, paradise gardens, and Persianate administration.
 - [Master Stress: Tools for Managing Stress & Anxiety](sources/scim8789190900-scim8789190900.md) — Early Huberman Lab episode on acute, medium-term, and chronic stress, physiological sighs, bounded arousal training, social buffering, and safety limits.
 - [Control Pain & Heal Faster With Your Brain](sources/control-pain-heal-faster-with-your-brain-scim8085045324.md) — Early Huberman Lab episode on distributed pain, body-map plasticity, constraint-based rehabilitation, inflammation timing, sleep, movement, and regenerative-treatment evidence limits.
+- [27. Tutankhamun](sources/27-tutankhamun-glt2697164979.md) — The Rest Is History on Tutankhamun's tomb, Carter's discovery, Akhenaten's Aten revolution, restoration, Amarna uncertainty, and later ideological projection.
 
 ## Entities
+- [Tutankhamun](entities/Tutankhamun.md) — Boy pharaoh whose sparse reign contrasts with the exceptional archaeological and media afterlife of his tomb.
+- [Akhenaten](entities/Akhenaten.md) — Eighteenth Dynasty pharaoh whose Aten-centered religious and cultural rupture was radical but institutionally fragile.
+- [Nefertiti](entities/Nefertiti.md) — Amarna royal and religious authority whose succession role, imagery, and modern appropriation remain contested.
+- [Howard Carter](entities/HowardCarter.md) — Excavator whose persistence and patronage-supported search led to the 1922 discovery of Tutankhamun's tomb.
 - [Prince Harry](entities/PrinceHarry.md) — Younger royal son whose public break with his family joins inherited rank, mental-health disclosure, and institutional media vulnerability.
 - [Meghan Markle](entities/MeghanMarkle.md) — American actor and royal spouse placed at the intersection of celebrity self-narration, outsider marriage, race, and hereditary rules.
 - [Prussia](entities/Prussia.md) — Scattered Baltic-Brandenburg state whose military, administrative, and industrial power became the vehicle for German unification.
@@ -15953,6 +15958,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Atenism](concepts/Atenism.md) — Radical, short-lived, royal-mediated Amarna religious program centered on the Aten.
+- [Ideological Projection onto the Ancient Past](concepts/AncientPastIdeologicalProjection.md) — Framework separating useful historical analogy from unsupported identity, transmission, motive, or descent claims.
 - [Royal Outsider Marriage](concepts/RoyalOutsiderMarriage.md) — Friction produced when intimate partnership brings an outsider into a hereditary institution of rank, ritual, succession, and public symbolism.
 - [Royal Duty–Emotional Disclosure Conflict](concepts/RoyalDutyEmotionalDisclosureConflict.md) — Clash between restrained role-bound service and public emotional or mental-health disclosure as rival standards of care.
 - [German Unification](concepts/GermanUnification.md) — Conversion of cultural, liberal, popular, and economic German nationhood into a Prussian-led state through Bismarckian war and statecraft.

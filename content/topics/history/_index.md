@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2507
+topic_total_pages: 2511
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -694,6 +694,9 @@ topic_concepts:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
     url: "/wiki/concepts/iberianreconquista/"
+  - key: "AncientPastIdeologicalProjection"
+    title: "Ideological Projection onto the Ancient Past"
+    url: "/wiki/concepts/ancientpastideologicalprojection/"
   - key: "IdiomOriginSkepticism"
     title: "Idiom Origin Skepticism / 典故来源辨伪"
     url: "/wiki/concepts/idiomoriginskepticism/"
@@ -2129,6 +2132,9 @@ topic_entities:
   - key: "HowToHideAnEmpire"
     title: "How to Hide an Empire"
     url: "/wiki/entities/howtohideanempire/"
+  - key: "HowardCarter"
+    title: "Howard Carter"
+    url: "/wiki/entities/howardcarter/"
   - key: "HuangdiNeijing"
     title: "Huangdi Neijing / 《黄帝内经》"
     url: "/wiki/entities/huangdineijing/"
@@ -2405,6 +2411,9 @@ topic_entities:
   - key: "TrinityNuclearTest"
     title: "Trinity Nuclear Test"
     url: "/wiki/entities/trinitynucleartest/"
+  - key: "Tutankhamun"
+    title: "Tutankhamun"
+    url: "/wiki/entities/tutankhamun/"
   - key: "TartariaTablets"
     title: "Tărtăria Tablets"
     url: "/wiki/entities/tartariatablets/"
@@ -5445,6 +5454,9 @@ topic_sources:
   - key: "269-ghana-the-ashanti-empire-glt3638102749"
     title: "269: Ghana: The Ashanti Empire"
     url: "/wiki/sources/269-ghana-the-ashanti-empire-glt3638102749/"
+  - key: "27-tutankhamun-glt2697164979"
+    title: "27. Tutankhamun"
+    url: "/wiki/sources/27-tutankhamun-glt2697164979/"
   - key: "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un"
     title: "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？"
     url: "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"

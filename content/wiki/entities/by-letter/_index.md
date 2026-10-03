@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12235
+wiki_total_pages: 12239
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "Akeso"
     title: "Akeso / 康方生物"
     url: "/wiki/entities/akeso/"
+  - key: "Akhenaten"
+    title: "Akhenaten"
+    url: "/wiki/entities/akhenaten/"
   - key: "AkronOhio"
     title: "Akron, Ohio"
     url: "/wiki/entities/akronohio/"

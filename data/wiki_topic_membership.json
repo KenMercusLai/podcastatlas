@@ -2790,6 +2790,13 @@
       "url": "/topics/history/"
     }
   ],
+  "27-tutankhamun-glt2697164979": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829": [
     {
       "key": "culture",
@@ -12606,6 +12613,13 @@
     }
   ],
   "AncientLargeArmyCommandLimits": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "AncientPastIdeologicalProjection": [
     {
       "key": "history",
       "label": "History",
@@ -42117,6 +42131,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "HowardCarter": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "HowardHughesHoldings": [
@@ -83203,6 +83224,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "Tutankhamun": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "TutoringRestrictionSubstitutionEffect": [

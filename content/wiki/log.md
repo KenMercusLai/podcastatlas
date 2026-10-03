@@ -28884,3 +28884,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 27. Tutankhamun
+
+Added source `27-tutankhamun-glt2697164979`; created [[Tutankhamun]], [[Akhenaten]], [[Nefertiti]], [[HowardCarter]], [[Atenism]], and [[AncientPastIdeologicalProjection]]; and resynthesized [[Egyptology]] from its complete preserved evidence inventory. Core synthesis: Tutankhamun's fame comes chiefly from exceptional tomb survival and its media afterlife, while Akhenaten's radical but institutionally fragile Aten program and the fragmentary Amarna record invite later political, racial, religious, and psychoanalytic projection. No settled contradiction was adopted. Genealogy, succession, mummy identity, cause of death, artistic meaning, classification of Atenism, and influence on later monotheisms remain source-scoped or contested. Recurring host, show, and modern-Egypt profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,610-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
