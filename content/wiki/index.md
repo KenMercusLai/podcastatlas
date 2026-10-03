@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [13. Stephen Fry and Troy](sources/13-stephen-fry-and-troy-glt5875934078.md) — The Rest Is History interview on Fry's Trojan War retelling, Homeric ambiguity, grief, cunning, myth-history boundaries, double determination, and why Greek myth endures.
 - [14. Historical Fiction](sources/14-historical-fiction-glt2461510190.md) — The Rest Is History on factual constraint, imaginative truth, past mental worlds, public memory, research restraint, and ethical proximity in historical fiction.
 - [16. Pompeii](sources/16-pompeii-glt3349011345.md) — The Rest Is History with Sophie Hay on Pompeii as a layered city, archaeological interpretation, conservation, everyday life, and the disputed eruption date.
 - [17. Fascism](sources/17-fascism-glt5738760220.md) — The Rest Is History on fascism as a historically specific interwar ideology of national rebirth, mass violence, spectacle, modernity, and moral rupture.
@@ -3694,6 +3695,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [15. Walls and Borders](sources/15-walls-and-borders-glt1636005045.md) — The Rest Is History on walls and borders as purpose-specific infrastructure, political symbols, institutional systems, and incomplete answers to deeper conflict.
 
 ## Entities
+- [Stephen Fry](entities/StephenFry.md) — Writer, actor, comedian, and Greek-myth reteller whose Troy method preserves ambiguity, ancient difference, emotional restraint, and layered divine-human causation.
 - [Hadrian's Wall](entities/HadriansWall.md) — Roman frontier barrier illustrating both imperial capacity and the strategic limits that fortification acknowledges.
 - [Great Wall of China](entities/GreatWallOfChina.md) — Layered frontier works later transformed into a national symbol and metaphor for digital information control.
 - [Sophie Hay](entities/SophieHay.md) — Archaeologist connecting long-term Pompeii fieldwork, conservation, public communication, and evidentiary caution.
@@ -15993,6 +15995,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Geoffrey of Monmouth](entities/GeoffreyOfMonmouth.md) — Twelfth-century writer whose synthetic British history decisively shaped Arthur and Merlin's medieval profiles.
 
 ## Concepts
+- [Mythic Double Determination](concepts/MythicDoubleDetermination.md) — Framework in which divine intervention and human action remain simultaneous explanations without erasing responsibility or evidence boundaries.
 - [Wall and Border Systems](concepts/WallBorderSystems.md) — Framework separating purpose-specific effectiveness, enforcement capacity, political legitimacy, and conflict resolution.
 - [Pompeii as an Archaeological Palimpsest](concepts/PompeiiArchaeologicalPalimpsest.md) — Framework separating Pompeii's destruction horizon from its long urban development and changing excavation, conservation, and interpretation.
 - [Fascism's Historical Specificity](concepts/FascismHistoricalSpecificity.md) — Framework defining fascism as a post-First World War revolutionary ideology rather than a synonym for dictatorship, violence, or evil.

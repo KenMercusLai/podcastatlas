@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9572
+wiki_total_pages: 9573
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1628,6 +1628,9 @@ wiki_pages:
   - key: "MythicAndMaterialWarCausation"
     title: "Mythic and Material War Causation"
     url: "/wiki/concepts/mythicandmaterialwarcausation/"
+  - key: "MythicDoubleDetermination"
+    title: "Mythic Double Determination"
+    url: "/wiki/concepts/mythicdoubledetermination/"
   - key: "MythicEnvironmentalImagination"
     title: "Mythic Environmental Imagination"
     url: "/wiki/concepts/mythicenvironmentalimagination/"

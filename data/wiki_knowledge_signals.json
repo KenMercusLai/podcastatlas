@@ -87459,9 +87459,9 @@
       "url": "/wiki/concepts/grecopersianwarmemory/"
     },
     "GreekMythology": {
-      "episode_count": 7,
-      "show_count": 2,
-      "source_note_count": 7,
+      "episode_count": 8,
+      "show_count": 3,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
@@ -87511,9 +87511,16 @@
           "show": "蜜獾吃书",
           "title": "59.克里特岛：阳光、海龟、神话和二战战场",
           "url": "/wiki/sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469/"
+        },
+        {
+          "episode_file": "GLT5875934078 [GLT5875934078].md",
+          "key": "13-stephen-fry-and-troy-glt5875934078",
+          "show": "The Rest Is History",
+          "title": "13. Stephen Fry and Troy",
+          "url": "/wiki/sources/13-stephen-fry-and-troy-glt5875934078/"
         }
       ],
-      "updated": "2026-08-06",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/greekmythology/"
     },
     "GreekWarOfIndependence": {
@@ -146641,6 +146648,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/mythicbiographysourcecaution/"
     },
+    "MythicDoubleDetermination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5875934078 [GLT5875934078].md",
+          "key": "13-stephen-fry-and-troy-glt5875934078",
+          "show": "The Rest Is History",
+          "title": "13. Stephen Fry and Troy",
+          "url": "/wiki/sources/13-stephen-fry-and-troy-glt5875934078/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/mythicdoubledetermination/"
+    },
     "MythologyForEngland": {
       "episode_count": 1,
       "show_count": 1,
@@ -196011,6 +196034,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/stephenchow/"
+    },
+    "StephenFry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5875934078 [GLT5875934078].md",
+          "key": "13-stephen-fry-and-troy-glt5875934078",
+          "show": "The Rest Is History",
+          "title": "13. Stephen Fry and Troy",
+          "url": "/wiki/sources/13-stephen-fry-and-troy-glt5875934078/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/stephenfry/"
     },
     "StephenKosslyn": {
       "episode_count": 1,

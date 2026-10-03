@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1441
+topic_total_pages: 1442
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1444,6 +1444,9 @@ topic_concepts:
   - key: "MythAsPublicDream"
     title: "Myth As Public Dream / 神话作为公共的梦"
     url: "/wiki/concepts/mythaspublicdream/"
+  - key: "MythicDoubleDetermination"
+    title: "Mythic Double Determination"
+    url: "/wiki/concepts/mythicdoubledetermination/"
   - key: "MythicEnvironmentalImagination"
     title: "Mythic Environmental Imagination"
     url: "/wiki/concepts/mythicenvironmentalimagination/"
