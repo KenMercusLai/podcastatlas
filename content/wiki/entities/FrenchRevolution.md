@@ -23,8 +23,9 @@ sources:
   - 476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350
   - 475-the-french-revolution-marie-antoinette-part-1-glt3119389535
   - 383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929
+  - 48-the-french-revolution-glt2092335857
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-27
+last_updated: 2026-10-03
 ---
 
 # French Revolution / 法国大革命
@@ -35,7 +36,7 @@ The French Revolution was the upheaval that grew from structural crisis and prio
 
 ## Current Profile
 
-The sources frame the Revolution as a pressure system and a struggle to create political meaning, not simply a contest between liberty and reaction. Its cultural prehistory includes monarchical reputation, court rumor, the [[DiamondNecklaceAffair|Diamond Necklace Affair]], war debt, tax privilege, restricted credit, failed reform, parlementary resistance, and provincial identity. Hail, drought, harvest failure, winter cold, bread inflation, rural insecurity, urban unemployment, effective bankruptcy, grievance politics, and unresolved representation completed a [[RevolutionaryCrisisConvergence|convergent crisis]]. Calling the [[EstatesGeneral1789|Estates-General]] raised expectations without settling voting rules. [[EmmanuelJosephSieyes|Sieyes]], the [[NationalAssembly1789|National Assembly]], and the [[TennisCourtOath|Tennis Court Oath]] shifted sovereignty away from corporate orders; royal retreat, hunger, Parisian mobilization, and military defection then broke royal control. The [[StormingOfTheBastille|Bastille's fall]] joined liberation to [[RevolutionaryCrowdVengeance|post-surrender vengeance]], while rights, Church rupture, popular action, war, massacre, abolition, regicide, and Terror repeatedly widened the gap between national sovereignty, institutional authority, citizenship, and coercive power.
+The sources frame the Revolution as a pressure system and a struggle to create political meaning, not simply a contest between liberty and reaction or a plan directed by one mastermind. Its cultural prehistory includes monarchical reputation, court rumor, the [[DiamondNecklaceAffair|Diamond Necklace Affair]], war debt, tax privilege, restricted credit, failed reform, parlementary resistance, and provincial identity. Hail, drought, harvest failure, winter cold, bread inflation, rural insecurity, urban unemployment, effective bankruptcy, grievance politics, and unresolved representation completed a [[RevolutionaryCrisisConvergence|convergent crisis]]. Calling the [[EstatesGeneral1789|Estates-General]] raised expectations without settling voting rules. [[EmmanuelJosephSieyes|Sieyes]], the [[NationalAssembly1789|National Assembly]], and the [[TennisCourtOath|Tennis Court Oath]] shifted sovereignty away from corporate orders; royal retreat, hunger, Parisian mobilization, and military defection then broke royal control. The [[StormingOfTheBastille|Bastille's fall]] joined liberation to [[RevolutionaryCrowdVengeance|post-surrender vengeance]], while rights, Church rupture, popular action, war, massacre, abolition, regicide, and Terror repeatedly widened the gap between national sovereignty, institutional authority, citizenship, and coercive power. The panoramic source makes contingency explicit: reform did not begin with a republican consensus, and fiscal breakdown, street pressure, royal mistrust, war, and factional fear successively moved the range of plausible action.
 
 The Napoleon source extends this arc beyond the Terror. Revolutionary war and officer turnover gave politically reliable young soldiers opportunities unavailable under the old hierarchy; [[SiegeOfToulon|Toulon]] made [[NapoleonBonaparte|Napoleon]] a general. Thermidor removed one patronage network but created another around [[PaulBarras|Paul Barras]]. In the [[VendemiaireUprising|Vendémiaire uprising]], artillery defeated an armed royalist challenge and secured the Directory, showing the post-Terror state restoring order through concentrated military force. Revolutionary universalism also gave Napoleon a language for becoming French and planning outward war, so the Revolution's inclusive claims, expansionary ambition, and capacity to create a military ruler remained connected.
 
@@ -47,7 +48,7 @@ The Napoleon source extends this arc beyond the Terror. Revolutionary war and of
 - Clubs, municipalities, sections, civic arms, print culture, sans-culottes, and fédérés made revolutionary politics locally actionable and capable of armed pressure beyond one central command.
 - Factions with incompatible aims converged on war, making loyalty the test of constitutional authority and joining revolutionary universalism, court counterrevolution, military ambition, royal duplicity, and wider conspiracy claims.
 - Invasion panic and internal-enemy rumors produced organized popular violence before later terror institutions existed.
-- Abolition and Valmy created a Republic with military credibility before its mandate, institutions, and citizenship were settled; Toulon and Vendémiaire later turned military competence into a route for post-Terror regime survival and personal rule.
+- Abolition and Valmy created a Republic with military credibility before its mandate, institutions, and citizenship were settled; Toulon and Vendémiaire later turned military competence into a route for post-Terror regime survival and personal rule, leaving rights, citizenship, republican, national, and left-right vocabularies alongside gendered exclusion, religious rupture, civil war, terror, reaction, and demand for authoritarian stability.
 
 ## Evidence
 
@@ -114,6 +115,10 @@ The Napoleon source extends this arc beyond the Terror. Revolutionary war and of
 
 - [[383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929]] connects officer turnover, Jacobin reliability, Toulon, the Robespierre risk, Barras's patronage, Vendémiaire, disarmament, and the Army of Italy command to Napoleon's rise through and beyond the Terror.
 
+### Panoramic process and contested legacy
+
+- [[48-the-french-revolution-glt2092335857]] links fiscal and subsistence crisis, constitutional experimentation, Parisian pressure, war, regicide, terror, the Vendée, Thermidor, Napoleon, rights, republicanism, reaction, and modern political categories into one contingent process.
+
 ## Qualifications
 
 - These episodes are selective and do not provide a comprehensive social, colonial, imperial, or economic history of the Revolution.
@@ -139,13 +144,12 @@ The Napoleon source extends this arc beyond the Terror. Revolutionary war and of
 - Marie Antoinette's early charity and sentimental simplicity complicate a pure-decadence caricature, while her court privilege and later political conduct prevent the opposite reduction to an apolitical victim.
 - The Napoleon episode is a biographical narrative rather than a full history of Thermidor, the Directory, royalism, or Parisian political society after the Terror.
 - Vendémiaire casualty totals, Barras's and Napoleon's competing recollections, and claims about the state's restored monopoly of violence remain source-scoped or interpretive.
+- The panoramic source compresses a decade of change and treats the Vendée's classification, violence's causal primacy, Robespierre's sincerity, British democratic delay, and the Revolution's comparative global significance as interpretive or source-scoped.
 
 ## What Changed
 
-- Extended the chronology through Thermidor and the Directory's defence during Vendémiaire.
-- Added revolutionary military turnover and political reliability as mechanisms of Napoleon's rapid rise.
-- Added Toulon and Vendémiaire as distinct links between organized violence, regime survival, and personal advancement.
-- Connected revolutionary universalism to Napoleon's new French identity and planned Italian expansion without treating empire as inevitable.
+- Added a panoramic account of contingent escalation without a single mastermind or an initial republican consensus.
+- Made the joint legacy of rights, citizenship, terror, reaction, and authoritarian stabilization explicit without treating any outcome as inevitable.
 
 ## Relationships
 

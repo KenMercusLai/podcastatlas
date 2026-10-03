@@ -28588,3 +28588,11 @@ Added source `scim5718648905-scim5718648905` and resynthesized `AcuteStressImmun
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 48. The French Revolution
+
+Added source `48-the-french-revolution-glt2092335857` and resynthesized `FrenchRevolution`, `RevolutionaryTerrorPolitics`, and `RevolutionaryAuthoritarianOrder` from their complete preserved evidence inventories. Core synthesis: the Revolution was a contingent process rather than one event or a centrally directed plan; fiscal and subsistence crisis, constitutional experimentation, street pressure, war, conspiracy fear, virtue politics, and factional conflict carried reform beyond its initial aims, while rights and republican citizenship remained entangled with exclusion, civil war, terror, reaction, and demand for authoritarian stability. No settled contradiction was adopted. The Vendée classification, violence-first interpretation, death totals, Robespierre's sincerity and fall, British democratic delay, Haitian and Napoleonic comparisons, and claims of comparative global significance remain contested, compressed, or source-scoped. Recurring hosts, show, and briefly mentioned figures were not changed because the episode adds no durable identity update beyond richer later sources. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,573-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

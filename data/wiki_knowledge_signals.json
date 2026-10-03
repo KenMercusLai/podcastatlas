@@ -77062,9 +77062,9 @@
       "url": "/wiki/concepts/frenchnewwave/"
     },
     "FrenchRevolution": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 2,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -77205,9 +77205,16 @@
           "show": "The Rest Is History",
           "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
           "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        },
+        {
+          "episode_file": "GLT2092335857 [GLT2092335857].md",
+          "key": "48-the-french-revolution-glt2092335857",
+          "show": "The Rest Is History",
+          "title": "48. The French Revolution",
+          "url": "/wiki/sources/48-the-french-revolution-glt2092335857/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/frenchrevolution/"
     },
     "FrenchSecularUniversalism": {
@@ -173492,9 +173499,9 @@
       "url": "/wiki/concepts/revolutionaryatrocitynarrativecontest/"
     },
     "RevolutionaryAuthoritarianOrder": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6500252244 [GLT6500252244].md",
@@ -173509,9 +173516,16 @@
           "show": "The Rest Is History",
           "title": "383. Young Napoleon: The Shadow of the Guillotine (Part 2)",
           "url": "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+        },
+        {
+          "episode_file": "GLT2092335857 [GLT2092335857].md",
+          "key": "48-the-french-revolution-glt2092335857",
+          "show": "The Rest Is History",
+          "title": "48. The French Revolution",
+          "url": "/wiki/sources/48-the-french-revolution-glt2092335857/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/revolutionaryauthoritarianorder/"
     },
     "RevolutionaryChurchStateRupture": {
@@ -173942,9 +173956,9 @@
       "url": "/wiki/concepts/revolutionaryruralpoliticization/"
     },
     "RevolutionaryTerrorPolitics": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -173987,9 +174001,16 @@
           "show": "The Rest Is History",
           "title": "710. The Terror: Death at the Guillotine (Part 4)",
           "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        },
+        {
+          "episode_file": "GLT2092335857 [GLT2092335857].md",
+          "key": "48-the-french-revolution-glt2092335857",
+          "show": "The Rest Is History",
+          "title": "48. The French Revolution",
+          "url": "/wiki/sources/48-the-french-revolution-glt2092335857/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/revolutionaryterrorpolitics/"
     },
     "RevolutionaryTribunal": {

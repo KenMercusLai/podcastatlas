@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2479
+topic_total_pages: 2480
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6003,6 +6003,9 @@ topic_sources:
   - key: "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441"
     title: "479. The French Revolution: The Storming of the Bastille (Part 5)"
     url: "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+  - key: "48-the-french-revolution-glt2092335857"
+    title: "48. The French Revolution"
+    url: "/wiki/sources/48-the-french-revolution-glt2092335857/"
   - key: "480-the-french-revolution-the-rights-of-man-part-6-glt8413639265"
     title: "480. The French Revolution: The Rights of Man (Part 6)"
     url: "/wiki/sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265/"

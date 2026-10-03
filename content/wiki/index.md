@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [48. The French Revolution](sources/48-the-french-revolution-glt2092335857.md) — The Rest Is History overview of the Revolution as contingent escalation from fiscal and subsistence crisis through rights, war, regicide, terror, reaction, and Napoleonic order.
 - [EP171-疫情下的中美经济政策：发钱刺激消费，一生能遇到几回？](sources/ep171-yiqing-xia-de-zhongmei-jingji-zhengce-faqian-ciji-xiaofei-yisheng-neng-yudao-jihui-ckwriueebny5abaaaacoc8to.md) — 无时差研究所 on U.S. pandemic relief, welfare fragmentation, fiscal-monetary transmission, China's targeted response and dual circulation, and the limits of treating emergency checks as UBI evidence.
 - [Supercharge Exercise Performance & Recovery with Cooling](sources/scim5512858918-scim5512858918.md) — Early Huberman Lab episode on heat-limited exercise, cardiac drift, flow-preserving glabrous-skin cooling, and recovery-adaptation tradeoffs.
 - [54. Cromwell and the Protectorate](sources/54-cromwell-and-the-protectorate-glt5457562231.md) — The Rest Is History with Paul Lay on Cromwell's elusive biography, the Protectorate's unsettled constitution, Ireland, succession failure, and contested political afterlife.
