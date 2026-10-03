@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12139
+wiki_total_pages: 12142
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -875,6 +875,9 @@ wiki_pages:
   - key: "PrimaMateria"
     title: "Prima Materia"
     url: "/wiki/entities/primamateria/"
+  - key: "PrinceAlbertOfSaxeCoburgAndGotha"
+    title: "Prince Albert of Saxe-Coburg and Gotha"
+    url: "/wiki/entities/princealbertofsaxecoburgandgotha/"
   - key: "PrinceGroup"
     title: "Prince Group"
     url: "/wiki/entities/princegroup/"

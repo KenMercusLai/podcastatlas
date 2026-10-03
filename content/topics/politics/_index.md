@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3023
+topic_total_pages: 3025
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -280,6 +280,9 @@ topic_concepts:
   - key: "AngloAmericanPowerReversal"
     title: "Anglo-American Power Reversal"
     url: "/wiki/concepts/angloamericanpowerreversal/"
+  - key: "AngloGermanRelations"
+    title: "Anglo-German Relations"
+    url: "/wiki/concepts/anglogermanrelations/"
   - key: "AngloIranianRelations"
     title: "Anglo-Iranian Relations"
     url: "/wiki/concepts/angloiranianrelations/"
@@ -8175,6 +8178,9 @@ topic_sources:
   - key: "665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819"
     title: "665. Britain in the 70s: The Bailout from Hell (Part 4)"
     url: "/wiki/sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819/"
+  - key: "67-anglo-german-relations-glt1735608678"
+    title: "67. Anglo-German Relations"
+    url: "/wiki/sources/67-anglo-german-relations-glt1735608678/"
   - key: "684-franklin-revenge-of-the-american-genius-part-2-glt6013835340"
     title: "684. Franklin: Revenge of the American Genius (Part 2)"
     url: "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"

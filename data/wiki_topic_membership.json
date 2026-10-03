@@ -5483,6 +5483,18 @@
       "url": "/topics/history/"
     }
   ],
+  "67-anglo-german-relations-glt1735608678": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556": [
     {
       "key": "culture",
@@ -12625,6 +12637,23 @@
     }
   ],
   "AngloAmericanPowerReversal": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "AngloGermanRelations": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "politics",
       "label": "Politics",

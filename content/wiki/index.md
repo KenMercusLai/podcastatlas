@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [67. Anglo-German Relations](sources/67-anglo-german-relations-glt1735608678.md) — The Rest Is History on kinship, religion, dynasty, alliance, admiration, rivalry, war, reconstruction, European power, and football in British-German relations.
 - [Understanding & Healing the Mind | Dr. Karl Deisseroth](sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008.md) — Full Huberman Lab interview on psychiatric measurement, optogenetics, CLARITY, stimulation precision, dissociation circuits, psychedelics, MDMA, and qualified scientific optimism.
 - [Trump's Superintelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions](sources/all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm.md) — All-In on the White House superintelligence accord, audit and board accountability, strategic compute, macro data versus voter experience, midterm forecasts, and breaking-news framing.
 - [68. The British Empire](sources/68-the-british-empire-glt6076978409.md) — The Rest Is History with Satnam Sanghera on imperial complexity, race, Sikh identity, education, exceptionalism, and post-imperial legacies.
@@ -3602,6 +3603,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [St Boniface](entities/StBoniface.md) — Devon-born missionary used to represent early Anglo-Saxon religious kinship with German lands.
+- [Sophia of Hanover](entities/SophiaOfHanover.md) — Protestant dynastic bridge from the Palatine exile generation to Britain's Hanoverian succession.
+- [Prince Albert of Saxe-Coburg and Gotha](entities/PrinceAlbertOfSaxeCoburgAndGotha.md) — German-born British consort associated with Victorian reform, the Great Exhibition, cultural exchange, and memorial legacy.
 - [CLARITY](entities/CLARITY.md) — Hydrogel-based tissue-clearing and mapping technology that preserves selected molecular and cellular structure in transparent intact tissue.
 - [White House Accord on Superintelligence](entities/WhiteHouseSuperintelligenceAccord.md) — Voluntary frontier-AI governance initiative reportedly joining internal controls, external audits, board oversight, and possible existing-law consequences for public commitments.
 - [Satnam Sanghera](entities/SatnamSanghera.md) — British Sikh writer using accessible public history to connect empire with race, identity, institutions, and contemporary politics.
@@ -15786,6 +15790,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Anglo-German Relations](concepts/AngloGermanRelations.md) — Long-run relationship cycling through kinship, religion, dynasty, alliance, admiration, rivalry, war, reconstruction, and European power politics.
 - [Optogenetics](concepts/Optogenetics.md) — Causal research method using genetically delivered light-sensitive proteins to control selected cells and test circuit function.
 - [Dissociation Circuit Inference](concepts/DissociationCircuitInference.md) — Cross-species evidence ladder connecting subjective dissociation, activity patterns, homologous regions, and causal animal intervention.
 - [AI Accountability Audit Chain](concepts/AIAccountabilityAuditChain.md) — Governance sequence linking internal controls, independent auditors, board oversight, public representations, and possible existing-law enforcement.

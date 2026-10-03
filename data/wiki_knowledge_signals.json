@@ -12719,6 +12719,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/anglofrenchdualmonarchy/"
     },
+    "AngloGermanRelations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735608678 [GLT1735608678].md",
+          "key": "67-anglo-german-relations-glt1735608678",
+          "show": "The Rest Is History",
+          "title": "67. Anglo-German Relations",
+          "url": "/wiki/sources/67-anglo-german-relations-glt1735608678/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/anglogermanrelations/"
+    },
     "AngloIranianOilCompany": {
       "episode_count": 1,
       "show_count": 1,
@@ -162344,6 +162360,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/primeministerialregicide/"
     },
+    "PrinceAlbertOfSaxeCoburgAndGotha": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735608678 [GLT1735608678].md",
+          "key": "67-anglo-german-relations-glt1735608678",
+          "show": "The Rest Is History",
+          "title": "67. Anglo-German Relations",
+          "url": "/wiki/sources/67-anglo-german-relations-glt1735608678/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/princealbertofsaxecoburgandgotha/"
+    },
     "PrinceHallFreemasonry": {
       "episode_count": 1,
       "show_count": 1,
@@ -187011,6 +187043,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/sophiaalekseyevna/"
     },
+    "SophiaOfHanover": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735608678 [GLT1735608678].md",
+          "key": "67-anglo-german-relations-glt1735608678",
+          "show": "The Rest Is History",
+          "title": "67. Anglo-German Relations",
+          "url": "/wiki/sources/67-anglo-german-relations-glt1735608678/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/sophiaofhanover/"
+    },
     "SophieChotek": {
       "episode_count": 2,
       "show_count": 1,
@@ -189036,6 +189084,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/stbartholomewthegreat/"
+    },
+    "StBoniface": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735608678 [GLT1735608678].md",
+          "key": "67-anglo-german-relations-glt1735608678",
+          "show": "The Rest Is History",
+          "title": "67. Anglo-German Relations",
+          "url": "/wiki/sources/67-anglo-german-relations-glt1735608678/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/stboniface/"
     },
     "StBricesDayMassacre": {
       "episode_count": 1,

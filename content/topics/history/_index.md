@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2462
+topic_total_pages: 2464
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -52,6 +52,9 @@ topic_concepts:
   - key: "AngkorHydraulicEmpire"
     title: "Angkor Hydraulic Empire / 吴哥水利帝国"
     url: "/wiki/concepts/angkorhydraulicempire/"
+  - key: "AngloGermanRelations"
+    title: "Anglo-German Relations"
+    url: "/wiki/concepts/anglogermanrelations/"
   - key: "AngloUkrainianRelations"
     title: "Anglo-Ukrainian Relations"
     url: "/wiki/concepts/angloukrainianrelations/"
@@ -6234,6 +6237,9 @@ topic_sources:
   - key: "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260"
     title: "669. Greece vs. Persia: The Battle of Marathon (Part 2)"
     url: "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+  - key: "67-anglo-german-relations-glt1735608678"
+    title: "67. Anglo-German Relations"
+    url: "/wiki/sources/67-anglo-german-relations-glt1735608678/"
   - key: "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565"
     title: "671. The First World War: Blood in the Trenches (Part 1)"
     url: "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"

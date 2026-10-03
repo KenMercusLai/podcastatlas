@@ -28332,3 +28332,11 @@ Added source `understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008`;
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 67. Anglo-German Relations
+
+Added source `67-anglo-german-relations-glt1735608678`; created `StBoniface`, `SophiaOfHanover`, `PrinceAlbertOfSaxeCoburgAndGotha`, and `AngloGermanRelations`. Core synthesis: British views of German lands and states shifted among kinship, religious solidarity, dynastic connection, strategic partnership, cultural admiration, competitive anxiety, wartime demonization, and postwar respect, with France and the European balance of power repeatedly changing the frame. No settled contradiction was adopted. The claim that Second World War opinion was chiefly anti-Nazi qualifies but does not erase broader enemy stereotypes; migration, atrocities, propaganda, industrial comparisons, reunification attitudes, and Brexit causation remain source-scoped. Recurring show, country, and Bismarck pages were not changed because the episode adds no durable identity update beyond the new relationship synthesis. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,541-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

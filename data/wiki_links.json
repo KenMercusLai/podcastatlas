@@ -3103,6 +3103,10 @@
     "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
     "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
   },
+  "67-anglo-german-relations-glt1735608678": {
+    "title": "67. Anglo-German Relations",
+    "url": "/wiki/sources/67-anglo-german-relations-glt1735608678/"
+  },
   "67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556": {
     "title": "67.美狄亚：古希腊秦香莲的复仇及其现代性",
     "url": "/wiki/sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556/"
@@ -8186,6 +8190,10 @@
   "AngloFrenchDualMonarchy": {
     "title": "Anglo-French Dual Monarchy",
     "url": "/wiki/concepts/anglofrenchdualmonarchy/"
+  },
+  "AngloGermanRelations": {
+    "title": "Anglo-German Relations",
+    "url": "/wiki/concepts/anglogermanrelations/"
   },
   "AngloIranianOilCompany": {
     "title": "Anglo-Iranian Oil Company",
@@ -62555,6 +62563,10 @@
     "title": "Priming And Stereotype Memory / 启动效应与刻板印象记忆",
     "url": "/wiki/concepts/primingandstereotypememory/"
   },
+  "PrinceAlbertOfSaxeCoburgAndGotha": {
+    "title": "Prince Albert of Saxe-Coburg and Gotha",
+    "url": "/wiki/entities/princealbertofsaxecoburgandgotha/"
+  },
   "PrinceGroup": {
     "title": "Prince Group",
     "url": "/wiki/entities/princegroup/"
@@ -72531,6 +72543,10 @@
     "title": "Sophia Alekseyevna / 索菲娅·阿列克谢耶芙娜",
     "url": "/wiki/entities/sophiaalekseyevna/"
   },
+  "SophiaOfHanover": {
+    "title": "Sophia of Hanover",
+    "url": "/wiki/entities/sophiaofhanover/"
+  },
   "SophiaTolstaya": {
     "title": "Sophia Tolstaya / 索菲亚",
     "url": "/wiki/entities/sophiatolstaya/"
@@ -73214,6 +73230,10 @@
   "StBartholomewsDayMassacre": {
     "title": "St Bartholomew's Day Massacre",
     "url": "/wiki/entities/stbartholomewsdaymassacre/"
+  },
+  "StBoniface": {
+    "title": "St Boniface",
+    "url": "/wiki/entities/stboniface/"
   },
   "StBricesDayMassacre": {
     "title": "St Brice's Day Massacre",

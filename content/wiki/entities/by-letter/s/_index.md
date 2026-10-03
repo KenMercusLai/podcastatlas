@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12139
+wiki_total_pages: 12142
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1136,6 +1136,9 @@ wiki_pages:
   - key: "SophiaAlekseyevna"
     title: "Sophia Alekseyevna / 索菲娅·阿列克谢耶芙娜"
     url: "/wiki/entities/sophiaalekseyevna/"
+  - key: "SophiaOfHanover"
+    title: "Sophia of Hanover"
+    url: "/wiki/entities/sophiaofhanover/"
   - key: "SophiaTolstaya"
     title: "Sophia Tolstaya / 索菲亚"
     url: "/wiki/entities/sophiatolstaya/"
@@ -1301,6 +1304,9 @@ wiki_pages:
   - key: "StBartholomewsDayMassacre"
     title: "St Bartholomew's Day Massacre"
     url: "/wiki/entities/stbartholomewsdaymassacre/"
+  - key: "StBoniface"
+    title: "St Boniface"
+    url: "/wiki/entities/stboniface/"
   - key: "StGeorge"
     title: "St George"
     url: "/wiki/entities/stgeorge/"
