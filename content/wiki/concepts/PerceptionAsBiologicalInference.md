@@ -5,7 +5,8 @@ tags: [perception, sensory-systems, learning, context, individuality]
 sources:
   - scim1807559844-scim1807559844
   - the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386
-last_updated: 2026-10-01
+  - scim3952740577-scim3952740577
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,7 @@ Perception as biological inference is the view that experienced reality is const
 ## Current Synthesis
 Olfaction provides the clearest case in the source. People differ in functional odor-receptor genes, so the same molecule can be absent, pleasant, or foul across individuals. Framing can also shift an ambiguous odor toward “cheese” or “vomit,” while learned pairings make vanilla or mint smell sweet in some cultures.
 
-The broader point extends beyond smell. Visual organization differs across viewers; early light exposure can shape eye development; childhood climate can calibrate sweating capacity; and perfect pitch combines predisposition with early training. Perception is therefore both biological and historical: different bodies can receive different inputs, and similar inputs can be interpreted through different learned models.
+The broader point extends beyond smell. Vision supplies a direct computational example: the retina converts light into electrical patterns, while the brain compares wavelength signals, fills each eye's blind spot, combines binocular disparity with size, motion, and prior knowledge, and constructs a usable estimate of color, object, and depth. Visual organization also differs across viewers; early light exposure can shape eye development; childhood climate can calibrate sweating capacity; and perfect pitch combines predisposition with early training. Perception is therefore both biological and historical: different bodies can receive different inputs, and similar inputs can be interpreted through different learned models.
 
 Taste adds an experimental distinction between detection and perception. Oral receptor cells transduce chemicals, but the source places recognizable quality in downstream brain activity and describes color matching as a case in which people can share the label “yellow” despite choosing different physical mixtures. [[TasteIdentityValenceCircuit]] further separates identifying a stimulus from finding it attractive or aversive, while conditioned taste aversion shows that learned value can change without requiring a new chemical input.
 
@@ -27,7 +28,7 @@ Taste adds an experimental distinction between detection and perception. Oral re
 - Cultural pairings train sensory associations that can feel immediate or natural.
 - Early experience can alter the sensory organ or physiological response, not only conscious interpretation.
 - Individual perceptual differences are scientifically meaningful variation rather than mere measurement noise.
-- Detection of a physical stimulus is necessary for many percepts but is not identical to the brain's experienced representation.
+- Detection of a physical stimulus is necessary for many percepts but is not identical to the brain's experienced representation; vision integrates incomplete and comparative signals with motion, binocular differences, and prior knowledge.
 - Perceptual identity and positive or negative value can be partly dissociated and revised through learning.
 
 ## Evidence
@@ -37,14 +38,14 @@ Taste adds an experimental distinction between detection and perception. Oral re
 - Auditory learning - [[scim1807559844-scim1807559844]] treats perfect pitch as a predisposition whose expression depends strongly on early training.
 - Detection versus perception - [[the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386]] separates oral chemical transduction from downstream taste experience and uses color matching to illustrate individual variation behind a shared label.
 - Identity versus value - [[the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386]] describes mouse circuit experiments and conditioned taste aversion as evidence that recognition and attraction or avoidance are not the same operation.
+- Visual construction - [[scim3952740577-scim3952740577]] uses color comparison, blind-spot completion, binocular disparity, size, motion, and prior knowledge to describe sight as the brain's inference from retinal activity.
 
 ## Counterevidence & Qualifications
-Calling perception inference does not mean it is arbitrary or detached from external structure. The sources combine receptor genetics, developmental adaptation, learned association, circuit intervention, conditioned aversion, and perceptual matching; these are related but not interchangeable mechanisms. Numerical receptor and perfect-pitch estimates remain source-scoped, while mouse activation or silencing cannot directly establish subjective experience or identical human circuit organization.
+Calling perception inference does not mean it is arbitrary or detached from external structure. The sources combine receptor genetics, developmental adaptation, learned association, circuit intervention, conditioned aversion, perceptual matching, and visual completion; these are related but not interchangeable mechanisms. The visual episode is a public neuroscience explanation rather than a complete computational or psychophysical account, and its comparative-animal, cortical-allocation, hallucination, and critical-period claims remain source-scoped. Numerical receptor and perfect-pitch estimates remain source-scoped, while mouse activation or silencing cannot directly establish subjective experience or identical human circuit organization.
 
 ## What Changed
-- Added a direct detection-versus-perception distinction from taste circuitry.
-- Separated perceptual identity from valence and learned behavioral meaning.
-- Extended individual variation from receptor differences to divergent physical matches under shared labels.
+- Added vision as a direct inference example through color comparison, blind-spot completion, depth cues, motion, and prior knowledge.
+- Clarified that biological inference is constrained reconstruction from sensory signals, not arbitrary invention.
 
 ## Related Concepts
 - [[DevelopmentalIndividuality]] - broader framework joining inherited variation, experience, and random development.
@@ -53,3 +54,4 @@ Calling perception inference does not mean it is arbitrary or detached from exte
 - [[BrainBodyEmotionMapping]] - neighboring attempt to relate perception of internal state to feeling.
 - [[BodilyResolution]] - practice-oriented refinement of bodily and emotional discrimination.
 - [[TasteIdentityValenceCircuit]] - circuit example separating detection, identity, value, and behavior.
+- [[VisualSystemHealthToolkit]] - visual branch joining perceptual construction with varied eye use and clinical boundaries.

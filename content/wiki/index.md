@@ -3606,6 +3606,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Control Your Sense of Pain & Pleasure](sources/scim2452395341-scim2452395341.md) — Early Huberman Lab solo episode on context-sensitive pain and pleasure, sensory maps, expectation, dopamine anticipation, opponent-process adaptation, and bounded pain tools.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 - [How Smell, Taste & Pheromone-Like Chemicals Control You](sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027.md) — Full Huberman Lab episode on olfactory pathways, sniffing and respiratory phase, smell training, gustatory and gut nutrient sensing, and the boundary between human chemical effects and established pheromones.
+- [The Science of Vision, Eye Health & Seeing Better](sources/scim3952740577-scim3952740577.md) — Early Huberman Lab solo episode on visual inference, retinal light signaling, varied eye use, developmental balance, and bounded behavioral eye-health tools.
 
 ## Entities
 - [Ian Kershaw](entities/IanKershaw.md) — Historian joining Hitler biography to institutional capacity, social participation, war, and postwar memory.

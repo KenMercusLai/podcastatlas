@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1434
+topic_total_pages: 1435
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4176,6 +4176,9 @@ topic_sources:
   - key: "the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019"
     title: "The Science of Psychedelics for Mental Health | Dr. Robin Carhart-Harris"
     url: "/wiki/sources/the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019/"
+  - key: "scim3952740577-scim3952740577"
+    title: "The Science of Vision, Eye Health & Seeing Better"
+    url: "/wiki/sources/scim3952740577-scim3952740577/"
   - key: "the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714"
     title: "The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez"
     url: "/wiki/sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714/"

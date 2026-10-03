@@ -155521,9 +155521,9 @@
       "url": "/wiki/concepts/perceivedsimilarityinrelationships/"
     },
     "PerceptionAsBiologicalInference": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1807559844 [SCIM1807559844].md",
@@ -155538,9 +155538,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
           "url": "/wiki/sources/the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386/"
+        },
+        {
+          "episode_file": "SCIM3952740577 [SCIM3952740577].md",
+          "key": "scim3952740577-scim3952740577",
+          "show": "Huberman Lab",
+          "title": "The Science of Vision, Eye Health & Seeing Better",
+          "url": "/wiki/sources/scim3952740577-scim3952740577/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/perceptionasbiologicalinference/"
     },
     "PerceptionConsciousnessBoundary": {
@@ -208459,9 +208466,9 @@
       "url": "/wiki/concepts/visualfocusefforttool/"
     },
     "VisualSystemHealthToolkit": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1823781754 [SCIM1823781754].md",
@@ -208490,9 +208497,16 @@
           "show": "这病说来话长",
           "title": "VOL.37眼科｜你近视吗?眼睛保健操到底有用吗？｜为何我国闭角型青光眼发病概率大？",
           "url": "/wiki/sources/vol-37-yanke-ni-jinshi-ma-yanjing-baojiancao-daodi-youyong-ma-weihe-woguo-bijiaoxing-qingguangyan-fabing-gailv-da-ltflr8s93wbkieqidme8ykjuznzp/"
+        },
+        {
+          "episode_file": "SCIM3952740577 [SCIM3952740577].md",
+          "key": "scim3952740577-scim3952740577",
+          "show": "Huberman Lab",
+          "title": "The Science of Vision, Eye Health & Seeing Better",
+          "url": "/wiki/sources/scim3952740577-scim3952740577/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/visualsystemhealthtoolkit/"
     },
     "VisualVestibularStabilization": {
