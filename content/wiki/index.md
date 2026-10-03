@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [65. A Very British Scandal](sources/65-a-very-british-scandal-glt1741780940.md) — The Rest Is History on Jeremy Thorpe, Norman Scott, sexuality and secrecy, the failed Exmoor attack, the 1979 trial, and scandal as a marker of 1970s British change.
 - [66. Ghosts](sources/66-ghosts-glt2309926019.md) — The Rest Is History with Roger Clarke on changing ghost traditions, religious conflict, class-biased testimony, famous hauntings, media technology, hoax, and unresolved evidence.
 - [67. Anglo-German Relations](sources/67-anglo-german-relations-glt1735608678.md) — The Rest Is History on kinship, religion, dynasty, alliance, admiration, rivalry, war, reconstruction, European power, and football in British-German relations.
 - [Understanding & Healing the Mind | Dr. Karl Deisseroth](sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008.md) — Full Huberman Lab interview on psychiatric measurement, optogenetics, CLARITY, stimulation precision, dissociation circuits, psychedelics, MDMA, and qualified scientific optimism.
@@ -3605,6 +3606,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Smell, Taste & Pheromone-Like Chemicals Control You](sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027.md) — Full Huberman Lab episode on olfactory pathways, sniffing and respiratory phase, smell training, gustatory and gut nutrient sensing, and the boundary between human chemical effects and established pheromones.
 
 ## Entities
+- [Norman Scott](entities/NormanScott.md) — Former Thorpe lover and surviving target whose letters, persistence, and experience of the failed attack became central to the scandal.
+- [Andrew Newton](entities/AndrewNewton.md) — Airline pilot recruited through intermediaries who killed Rinka and failed to shoot Norman Scott.
+- [Liberal Party (UK)](entities/LiberalPartyUK.md) — Regionally persistent party whose revival under Thorpe produced brief coalition leverage and leader-centered reputational risk.
 - [Roger Clarke](entities/RogerClarke.md) — Writer and cultural historian who asks what different periods want ghosts to mean.
 - [Hinton Ampner](entities/HintonAmpner.md) — Documented eighteenth-century haunted-house case connecting domestic testimony, Civil War memory, and literary interpretation.
 - [Cock Lane Ghost](entities/CockLaneGhost.md) — London poltergeist hoax amplified through murder accusation, crowds, newspapers, and elite investigation.
@@ -4573,7 +4577,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wife of Bath](entities/WifeOfBath.md) — Chaucerian clothmaker and pilgrim whose prologue and tale connect wealth, marriage, abuse, and female sovereignty.
 - [Alice Chaucer](entities/AliceChaucer.md) — Chaucer's granddaughter and exceptional heiress whose descendants approached late-medieval royal succession.
 - [Enoch Powell](entities/EnochPowell.md) — Former Conservative whose anti-Heath, free-market, and anti-European intervention shaped the February 1974 campaign.
-- [Jeremy Thorpe](entities/JeremyThorpe.md) — Liberal leader whose electoral surge made him pivotal in Heath's failed coalition talks.
+- [Jeremy Thorpe](entities/JeremyThorpe.md) — Flamboyant Liberal leader whose 1974 coalition leverage preceded allegations of a plot against former lover Norman Scott and a legally acquitted but historically disputed scandal.
 - [Marcia Williams](entities/MarciaWilliams.md) — Wilson's private secretary and gatekeeper, presented through a qualified account of political dependence, office conflict, and hostile aide testimony.
 - [Walter Walker](entities/WalterWalker.md) — Retired general whose anti-communist strongman rhetoric became part of 1974 coup speculation without proving operational capability.
 - [David Stirling](entities/DavidStirling.md) — SAS founder and GB75 organizer whose essential-services plan fed coup fears without demonstrating a seizure plan.
@@ -15797,6 +15801,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Sexuality, Secrecy, and Political Vulnerability](concepts/SexualitySecrecyPoliticalVulnerability.md) — Mechanism by which stigma turns private relationships, documentary traces, and threatened exposure into unequal political leverage.
 - [Ghost Belief as Cultural History](concepts/GhostBeliefAsCulturalHistory.md) — Method that studies what changing societies ask ghosts to mean without confusing cultural value with supernatural proof.
 - [Media Technology and Ghost Culture](concepts/MediaTechnologyGhostCulture.md) — Framework for how newspapers, image and broadcast media, horror film, and digital communication reshape haunting stories and evidence.
 - [Anglo-German Relations](concepts/AngloGermanRelations.md) — Long-run relationship cycling through kinship, religion, dynasty, alliance, admiration, rivalry, war, reconstruction, and European power politics.

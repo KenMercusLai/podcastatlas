@@ -12087,6 +12087,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/andrewloogoldham/"
     },
+    "AndrewNewton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1741780940 [GLT1741780940].md",
+          "key": "65-a-very-british-scandal-glt1741780940",
+          "show": "The Rest Is History",
+          "title": "65. A Very British Scandal",
+          "url": "/wiki/sources/65-a-very-british-scandal-glt1741780940/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/andrewnewton/"
+    },
     "AndrewPalmer": {
       "episode_count": 2,
       "show_count": 1,
@@ -108200,9 +108216,9 @@
       "url": "/wiki/entities/jennyorangutan/"
     },
     "JeremyThorpe": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9690615062 [GLT9690615062].md",
@@ -108210,9 +108226,16 @@
           "show": "The Rest Is History",
           "title": "418. Britain in 1974: The Crisis Election (Part 2)",
           "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
+        },
+        {
+          "episode_file": "GLT1741780940 [GLT1741780940].md",
+          "key": "65-a-very-british-scandal-glt1741780940",
+          "show": "The Rest Is History",
+          "title": "65. A Very British Scandal",
+          "url": "/wiki/sources/65-a-very-british-scandal-glt1741780940/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/jeremythorpe/"
     },
     "JerusalemHymn": {
@@ -120330,6 +120353,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/libgen/"
+    },
+    "LiberalPartyUK": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1741780940 [GLT1741780940].md",
+          "key": "65-a-very-british-scandal-glt1741780940",
+          "show": "The Rest Is History",
+          "title": "65. A Very British Scandal",
+          "url": "/wiki/sources/65-a-very-british-scandal-glt1741780940/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/liberalpartyuk/"
     },
     "LiberationDestructionDilemma": {
       "episode_count": 1,
@@ -146773,6 +146812,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/normanhybrididentity/"
+    },
+    "NormanScott": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1741780940 [GLT1741780940].md",
+          "key": "65-a-very-british-scandal-glt1741780940",
+          "show": "The Rest Is History",
+          "title": "65. A Very British Scandal",
+          "url": "/wiki/sources/65-a-very-british-scandal-glt1741780940/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/normanscott/"
     },
     "Normandy": {
       "episode_count": 2,
@@ -180667,6 +180722,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/sexualharassmentnaminglag/"
+    },
+    "SexualitySecrecyPoliticalVulnerability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1741780940 [GLT1741780940].md",
+          "key": "65-a-very-british-scandal-glt1741780940",
+          "show": "The Rest Is History",
+          "title": "65. A Very British Scandal",
+          "url": "/wiki/sources/65-a-very-british-scandal-glt1741780940/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/sexualitysecrecypoliticalvulnerability/"
     },
     "ShaWujing": {
       "episode_count": 3,

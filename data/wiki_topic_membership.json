@@ -5342,6 +5342,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "65-a-very-british-scandal-glt1741780940": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922": [
     {
       "key": "history",
@@ -58847,6 +58859,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "NormanScott": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "NorseMythology": [
     {
       "key": "culture",
@@ -72354,6 +72373,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "SexualitySecrecyPoliticalVulnerability": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ShaQingqing": [

@@ -28006,6 +28006,10 @@ Added source `scim5444804832-scim5444804832`; created `AttentionalBlinkTraining`
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-03] ingest | 65. A Very British Scandal
+
+Added source `65-a-very-british-scandal-glt1741780940`; created `NormanScott`, `AndrewNewton`, `LiberalPartyUK`, and `SexualitySecrecyPoliticalVulnerability`; and resynthesized `JeremyThorpe` from its complete preserved evidence inventory. Core synthesis: continuing anti-gay stigma made disclosure politically dangerous after decriminalization, while Thorpe's rising Liberal leverage increased the perceived cost of Scott's claims; deniable intermediaries then converted reputational containment into a failed physical attack. No settled contradiction was adopted. Thorpe's acquittal remains the legal outcome, while the hosts' probable-guilt judgment, the authorization chain, payment purpose, relationship details, intelligence context, and broader Thatcher-era causal claims remain disputed or source-scoped. Recurring host and peripheral politician pages were not changed because the episode adds no durable identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,544-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -28352,6 +28356,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] ingest | How Smell, Taste & Pheromone-Like Chemicals Control You
 
 Added source `how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027` and resynthesized `Chemosensation`, `HumanChemicalSignaling`, `InhalationArousalLearning`, `OlfactoryTraining`, and `TasteNutrientHazardDetection` from their complete preserved evidence inventories. Core synthesis: smell, taste, post-ingestive nutrient sensing, and interpersonal chemical cues guide attention, learning, food seeking, physiology, and social judgment, while chemical influence does not establish a canonical human pheromone system. No settled contradiction was adopted. The nasal-breathing learning comparison, sniff-count protocol, peppermint attention effect, neuron-turnover timing, fat taste, diet-driven taste shifts, extra-oral receptor meaning, partner-scent identification, cycle effects, menstrual synchrony, vomeronasal anatomy, and handshake sampling remain source-scoped or qualified. The full episode substantially overlaps its later Essentials edit but adds methodological and mechanistic detail. Recurring show and host pages were not changed because the episode adds no durable identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,543-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-03] lint | Wiki health check
 

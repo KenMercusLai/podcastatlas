@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12147
+wiki_total_pages: 12150
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "LiberalDemocraticPartyJapan"
     title: "Liberal Democratic Party (Japan)"
     url: "/wiki/entities/liberaldemocraticpartyjapan/"
+  - key: "LiberalPartyUK"
+    title: "Liberal Party (UK)"
+    url: "/wiki/entities/liberalpartyuk/"
   - key: "Liberia"
     title: "Liberia"
     url: "/wiki/entities/liberia/"

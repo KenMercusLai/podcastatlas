@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3025
+topic_total_pages: 3028
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3604,6 +3604,9 @@ topic_concepts:
   - key: "SettlerProvocationStrategy"
     title: "Settler Provocation Strategy"
     url: "/wiki/concepts/settlerprovocationstrategy/"
+  - key: "SexualitySecrecyPoliticalVulnerability"
+    title: "Sexuality, Secrecy, and Political Vulnerability"
+    url: "/wiki/concepts/sexualitysecrecypoliticalvulnerability/"
   - key: "ShadowAI"
     title: "Shadow AI"
     url: "/wiki/concepts/shadowai/"
@@ -6650,6 +6653,9 @@ topic_entities:
   - key: "NithyaRaman"
     title: "Nithya Raman"
     url: "/wiki/entities/nithyaraman/"
+  - key: "NormanScott"
+    title: "Norman Scott"
+    url: "/wiki/entities/normanscott/"
   - key: "NorthernIreland"
     title: "Northern Ireland"
     url: "/wiki/entities/northernireland/"
@@ -8166,6 +8172,9 @@ topic_sources:
   - key: "64-bawangbieji-fengmo-yu-chenghuo-656094350"
     title: "64.霸王别姬：疯魔与成活"
     url: "/wiki/sources/64-bawangbieji-fengmo-yu-chenghuo-656094350/"
+  - key: "65-a-very-british-scandal-glt1741780940"
+    title: "65. A Very British Scandal"
+    url: "/wiki/sources/65-a-very-british-scandal-glt1741780940/"
   - key: "662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730"
     title: "662. Britain in the 70s: The Rise of Thatcher (Part 1)"
     url: "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
