@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3038
+topic_total_pages: 3040
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5369,6 +5369,9 @@ topic_entities:
   - key: "Cleisthenes"
     title: "Cleisthenes"
     url: "/wiki/entities/cleisthenes/"
+  - key: "ClementAttlee"
+    title: "Clement Attlee"
+    url: "/wiki/entities/clementattlee/"
   - key: "CleomenesI"
     title: "Cleomenes I"
     url: "/wiki/entities/cleomenesi/"
@@ -5450,6 +5453,9 @@ topic_entities:
   - key: "DavidKirkpatrick"
     title: "David Kirkpatrick"
     url: "/wiki/entities/davidkirkpatrick/"
+  - key: "DavidLloydGeorge"
+    title: "David Lloyd George"
+    url: "/wiki/entities/davidlloydgeorge/"
   - key: "DavidStirling"
     title: "David Stirling"
     url: "/wiki/entities/davidstirling/"

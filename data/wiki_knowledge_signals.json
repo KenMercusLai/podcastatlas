@@ -39091,6 +39091,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/cleisthenes/"
     },
+    "ClementAttlee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9826873277 [GLT9826873277].md",
+          "key": "36-our-greatest-prime-minister-glt9826873277",
+          "show": "The Rest Is History",
+          "title": "36. Our Greatest Prime Minister",
+          "url": "/wiki/sources/36-our-greatest-prime-minister-glt9826873277/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/clementattlee/"
+    },
     "CleomenesI": {
       "episode_count": 1,
       "show_count": 1,
@@ -50198,6 +50214,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/davidlinden/"
+    },
+    "DavidLloydGeorge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9826873277 [GLT9826873277].md",
+          "key": "36-our-greatest-prime-minister-glt9826873277",
+          "show": "The Rest Is History",
+          "title": "36. Our Greatest Prime Minister",
+          "url": "/wiki/sources/36-our-greatest-prime-minister-glt9826873277/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/davidlloydgeorge/"
     },
     "DavidMancuso": {
       "episode_count": 1,
@@ -95335,9 +95367,9 @@
       "url": "/wiki/concepts/historicalcritiquetolerance/"
     },
     "HistoricalEntertainment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9519276470 [GLT9519276470].md",
@@ -95345,6 +95377,13 @@
           "show": "The Rest Is History",
           "title": "40. History as Entertainment",
           "url": "/wiki/sources/40-history-as-entertainment-glt9519276470/"
+        },
+        {
+          "episode_file": "GLT9826873277 [GLT9826873277].md",
+          "key": "36-our-greatest-prime-minister-glt9826873277",
+          "show": "The Rest Is History",
+          "title": "36. Our Greatest Prime Minister",
+          "url": "/wiki/sources/36-our-greatest-prime-minister-glt9826873277/"
         }
       ],
       "updated": "2026-10-03",
@@ -95798,9 +95837,9 @@
       "url": "/wiki/concepts/historicalreenactmentpolitics/"
     },
     "HistoricalReputationConstruction": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3313769671 [GLT3313769671].md",
@@ -95815,6 +95854,13 @@
           "show": "The Rest Is History",
           "title": "56. Nero",
           "url": "/wiki/sources/56-nero-glt7241559003/"
+        },
+        {
+          "episode_file": "GLT9826873277 [GLT9826873277].md",
+          "key": "36-our-greatest-prime-minister-glt9826873277",
+          "show": "The Rest Is History",
+          "title": "36. Our Greatest Prime Minister",
+          "url": "/wiki/sources/36-our-greatest-prime-minister-glt9826873277/"
         }
       ],
       "updated": "2026-10-03",
@@ -145467,9 +145513,9 @@
       "url": "/wiki/concepts/natoalliancecredibility/"
     },
     "NHS": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "A firm Andy： what are new British PM’s plans？ [6a5deeca76f8ee25bb4bbf9c].md",
@@ -145484,6 +145530,13 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "GLT9826873277 [GLT9826873277].md",
+          "key": "36-our-greatest-prime-minister-glt9826873277",
+          "show": "The Rest Is History",
+          "title": "36. Our Greatest Prime Minister",
+          "url": "/wiki/sources/36-our-greatest-prime-minister-glt9826873277/"
         }
       ],
       "updated": "2026-09-02",
@@ -218475,9 +218528,9 @@
       "url": "/wiki/entities/williamdalrymple/"
     },
     "WilliamEwartGladstone": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6227664313 [GLT6227664313].md",
@@ -218485,9 +218538,16 @@
           "show": "The Rest Is History",
           "title": "142. General Gordon and the Siege of Khartoum",
           "url": "/wiki/sources/142-general-gordon-and-the-siege-of-khartoum-glt6227664313/"
+        },
+        {
+          "episode_file": "GLT9826873277 [GLT9826873277].md",
+          "key": "36-our-greatest-prime-minister-glt9826873277",
+          "show": "The Rest Is History",
+          "title": "36. Our Greatest Prime Minister",
+          "url": "/wiki/sources/36-our-greatest-prime-minister-glt9826873277/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/williamewartgladstone/"
     },
     "WilliamFranklin": {
@@ -219141,9 +219201,9 @@
       "url": "/wiki/entities/winsentertainment/"
     },
     "WinstonChurchill": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -219200,6 +219260,13 @@
           "show": "The Rest Is History",
           "title": "43. 1940",
           "url": "/wiki/sources/43-1940-glt2702093158/"
+        },
+        {
+          "episode_file": "GLT9826873277 [GLT9826873277].md",
+          "key": "36-our-greatest-prime-minister-glt9826873277",
+          "show": "The Rest Is History",
+          "title": "36. Our Greatest Prime Minister",
+          "url": "/wiki/sources/36-our-greatest-prime-minister-glt9826873277/"
         }
       ],
       "updated": "2026-10-03",

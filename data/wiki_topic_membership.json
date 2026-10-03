@@ -3585,6 +3585,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "36-our-greatest-prime-minister-glt9826873277": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "360-fear-city-new-york-in-the-1970s-glt7107047696": [
     {
       "key": "history",
@@ -22020,6 +22027,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ClementAttlee": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CleomenesI": [
     {
       "key": "politics",
@@ -26335,6 +26349,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "DavidLloydGeorge": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "DavidMcRaney": [

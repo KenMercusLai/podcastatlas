@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [36. Our Greatest Prime Minister](sources/36-our-greatest-prime-minister-glt9826873277.md) — The Rest Is History listener tournament on British prime ministers, moral reputation, political archetypes, living constituencies, and Attlee's victory over Gladstone.
 - [37. Spies, with Ben Macintyre](sources/37-spies-with-ben-macintyre-glt4382644548.md) — The Rest Is History with Ben Macintyre on fiction and espionage, wartime deception, Gordievsky and nuclear misperception, spy motives, historical impact, and archival limits.
 - [38. Communism](sources/38-communism-glt7587678050.md) — The Rest Is History on communist ideals, Christian and utopian precedents, Marx and Engels, Leninist adaptation, Stalinist coercion, political religion, and the persistence of formal communist states.
 - [The Science of Emotions & Relationships](sources/the-science-of-emotions-relationships-scim6339543648.md) — Early Huberman Lab episode on dimensional emotion mapping, attachment, adolescent reorientation, social hormones, and the nonuniform effects of vagal stimulation.
@@ -3657,6 +3658,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [41. Persia](sources/41-persia-glt6414068538.md) — The Rest Is History conversation with Ali Ansari on Iran/Persia continuity, pre-Islamic empires, Zoroastrian influence, paradise gardens, and Persianate administration.
 
 ## Entities
+- [Clement Attlee](entities/ClementAttlee.md) — Labour prime minister joining postwar welfare reform, patriotic statecraft, understated character, and a durable NHS-centered reputation.
+- [David Lloyd George](entities/DavidLloydGeorge.md) — Liberal reformer and wartime leader whose major achievements coexist with corruption, misconduct, and damaged moral reputation.
 - [Operation Mincemeat](entities/OperationMincemeat.md) — Allied wartime deception built around a fabricated identity, planted documents, neutral Spain, and intelligence feedback.
 - [Ursula Kaczynski / Agent Sonya](entities/UrsulaKaczynski.md) — Soviet military-intelligence officer whose domestic cover benefited from gendered investigative assumptions.
 - [Juan Pujol / Garbo](entities/JuanPujol.md) — Spanish double agent whose fictitious sub-agent network supported Allied D-Day deception.
@@ -5898,7 +5901,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jackie Fisher / Admiral Lord Fisher](entities/JackieFisher.md) — First Sea Lord whose Dardanelles warnings make Gallipoli an ignored institutional-objection case.
 - [Enver Pasha](entities/EnverPasha.md) — Ottoman leader whose German orientation and Sarikamish disaster form part of Gallipoli's prehistory.
 - [Mustafa Kemal / Ataturk](entities/MustafaKemalAtaturk.md) — Ottoman commander whose Gallipoli role made his reputation and is treated as a step toward later Turkish national authority.
-- [Winston Churchill](entities/WinstonChurchill.md) — British soldier-writer and wartime leader joining imperial formation, bold strategy, public rhetoric, and the May 1940 decision to continue the war.
+- [Winston Churchill](entities/WinstonChurchill.md) — British soldier-writer and wartime leader joining imperial formation, bold strategy, the May 1940 decision, heroic memory, and culture-war contest.
 - [Lindsay Cole](entities/LindsayCole.md) — Forensic psychology professor and parent used by Planet Money to show professional-household strain under inflation.
 - [Rick Schultz](entities/RickSchultz.md) — Retired Planet Money listener whose pensions, investments, homeownership, and timing make the comfortable-retiree side of the economy visible.
 - [Leo Vamaka](entities/LeoVamaka.md) — Teen Planet Money listener whose coupon use, food budgeting, and gasoline sensitivity illustrate inflation-shaped consumer habits.
@@ -10403,7 +10406,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Number 10 North](entities/Number10North.md) — Burnham's proposed Manchester office for splitting the Downing Street operation.
 - [Manchester](entities/Manchester.md) — City named as the planned location of Number 10 North.
 - [Greater Manchester](entities/GreaterManchester.md) — Region where Burnham built his mayoral reputation before entering national leadership.
-- [NHS](entities/NHS.md) — UK public-service benchmark in the Burnham episode's political delivery-gap frame.
+- [NHS](entities/NHS.md) — UK public-service benchmark, contested data-platform environment, and political-memory symbol associated with Clement Attlee.
 - [Shiyan / 十堰](entities/Shiyan.md) — Hubei auto-built city whose Second Automobile Works and Dongfeng legacy leaves a commercial-vehicle base and diversification challenge.
 - [Dongfeng Motor / 东风汽车](entities/DongfengMotor.md) — Auto company successor to 二汽 whose headquarters move to Wuhan is the turning point in the Shiyan source.
 - [Second Automobile Works / 二汽](entities/SecondAutomobileWorks.md) — Third Front auto project that created Shiyan as an industrial city and later became Dongfeng Motor.
@@ -15872,7 +15875,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Taiping Rebellion](entities/TaipingRebellion.md) — Vast religiously charged Chinese civil war linked to Hong Xiuquan, examination failure, Taiping state-building, and Gordon's first military fame.
 - [Ever Victorious Army](entities/EverVictoriousArmy.md) — Small merchant-backed Shanghai force whose success and legend grew under Gordon's command.
 - [Muhammad Ahmad](entities/MuhammadAhmad.md) — Sudanese Mahdi whose religious-political movement captured Khartoum and exceeded Gordon's slavery-centered interpretation.
-- [William Ewart Gladstone](entities/WilliamEwartGladstone.md) — Liberal prime minister caught between abolitionist pressure, imperial restraint, mission ambiguity, and blame for delayed relief.
+- [William Ewart Gladstone](entities/WilliamEwartGladstone.md) — Liberal prime minister joining administrative reform, mass politics, Christian moral intensity, imperial restraint, and contested public memory.
 - [Garnet Wolseley](entities/GarnetWolseley.md) — Gordon ally and relief commander joining intervention advocacy, military interest, logistical failure, and heroic memory-making.
 - [Siege of Khartoum](entities/SiegeOfKhartoum.md) — 1884-1885 siege where an ambiguous mission ended in Mahdist victory, Gordon's death, and a powerful betrayal narrative.
 - [Grigory Rasputin](entities/GrigoryRasputin.md) — Siberian religious outsider whose Romanov access, misconduct, anti-war advice, murder, and legend became symbols of late-imperial crisis.
@@ -16074,7 +16077,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pu'er Tea Financialization / 普洱茶金融化](concepts/PuerTeaFinancialization.md) — Aging tea as drink, stored inventory, collectible, status object, and speculative asset.
 - [East Asian Tea Cultural Exchange / 东亚茶文化互塑](concepts/EastAsianTeaCulturalExchange.md) — Reciprocal movement and local redesign of tea techniques, objects, aesthetics, and ritual across East Asia.
 - [Medieval Scottish Competitive Succession](concepts/MedievalScottishSuccession.md) — Model of wider-kin royal eligibility, regional power, marriage, and conflict before settled primogeniture.
-- [Historical Reputation Construction](concepts/HistoricalReputationConstruction.md) — Layered process by which dynasties, chronicles, drama, and performance turn historical actors into durable archetypes.
+- [Historical Reputation Construction](concepts/HistoricalReputationConstruction.md) — Layered process by which regimes, media, institutions, parties, and audiences turn historical actors into durable archetypes.
 - [Classical Reception Ambivalence](concepts/ClassicalReceptionAmbivalence.md) — Persistence of ancient material through unresolved meanings such as prestige, tyranny, sacred history, violence, resistance, and glamour.
 - [Classics Political Plasticity](concepts/ClassicsPoliticalPlasticity.md) — Capacity of classical material to support conflicting projects of empire, dictatorship, republicanism, revolution, and critique.
 - [Classics Gatekeeping and Renewal](concepts/ClassicsGatekeepingAndRenewal.md) — Tension between classical learning as elite credential and its renewal through access, candor, breadth, and scholarship.

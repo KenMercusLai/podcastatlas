@@ -939,14 +939,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-30",
       "latest_episode_file": "GLT5038102951 [GLT5038102951].md",
-      "source_note_count": 572,
-      "topic_matched_source_note_count": 536,
+      "source_note_count": 573,
+      "topic_matched_source_note_count": 537,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 527
+          "source_note_count": 528
         },
         {
           "key": "culture",
@@ -1011,16 +1011,16 @@
           "episode_count": 9
         },
         {
+          "key": "WinstonChurchill",
+          "title": "Winston Churchill",
+          "url": "/wiki/entities/winstonchurchill/",
+          "kind": "person",
+          "episode_count": 9
+        },
+        {
           "key": "ElizabethII",
           "title": "Elizabeth II",
           "url": "/wiki/entities/elizabethii/",
-          "kind": "person",
-          "episode_count": 8
-        },
-        {
-          "key": "HenryVOfEngland",
-          "title": "Henry V of England",
-          "url": "/wiki/entities/henryvofengland/",
           "kind": "person",
           "episode_count": 8
         }

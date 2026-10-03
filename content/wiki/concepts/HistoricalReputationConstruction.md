@@ -5,6 +5,7 @@ tags: [historical-memory, historiography, literature, legitimacy]
 sources:
   - 104-macbeth-glt3313769671
   - 56-nero-glt7241559003
+  - 36-our-greatest-prime-minister-glt9826873277
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ Different media make the resulting image durable. Chronicle, [[WilliamShakespear
 
 Reputation construction is therefore neither a single fabrication nor the passive accumulation of facts. Later interests select real events, uncertain anecdotes, genres, monuments, and emotionally reusable scenes. Revision must separate those layers while preserving the possibility that interested traditions record genuine wrongdoing: Macbeth's wars remain violent, and Nero's murder of [[AgrippinaTheYounger|Agrippina]], coercive rule, and theatrical punishment prevent source criticism from becoming automatic exoneration.
 
+Popular voting is another active reputation mechanism. Vague criteria let voters rank achievement, moral character, political temperament, current controversy, and emotional allegiance at once. [[ClementAttlee|Attlee]] benefits from the living symbolic force of the [[NHS]] and Labour memory; Gladstone survives without an equivalent Liberal constituency through reform and moral seriousness; Lloyd George's achievements are discounted by misconduct; and Churchill's heroic international status becomes inseparable from culture-war dispute. [[36-our-greatest-prime-minister-glt9826873277]]
+
 ## Key Claims
 
 - Successor regimes can turn defeated predecessors into illegitimate interruptions or moral opposites.
@@ -30,8 +33,8 @@ Reputation construction is therefore neither a single fabrication nor the passiv
 - Literature, biography, religion, monuments, and performance make reputations portable through scene, object, phrase, and ritual.
 - Political and religious communities retain details that serve current legitimacy, persecution memory, or moral explanation.
 - Material remains can both challenge a legend and keep it physically present.
+- Parties, institutions, current events, and participatory media give some historical reputations stronger living constituencies than others.
 - Revision requires separating historical, dynastic, literary, religious, and reception layers without assuming any layer is neutral.
-- Demonstrating hostile construction does not exonerate conduct supported by stronger evidence.
 
 ## Evidence
 
@@ -40,16 +43,16 @@ Reputation construction is therefore neither a single fabrication nor the passiv
 - Convergent hostile memory: [[56-nero-glt7241559003]] joins senatorial writing, Christian apocalyptic tradition, and Flavian legitimacy to Nero's black legend.
 - Material and popular resistance: [[56-nero-glt7241559003]] preserves coins, archaeology, Nero's own public performances, continued posthumous appeal, and the Colossus as evidence that elite hostility never fully controlled his image.
 - Revision without exoneration: [[56-nero-glt7241559003]] treats fire accusation and lurid biography cautiously while retaining murder, coercion, and theatrical punishment in the current judgment.
+- Participatory ranking and living constituencies: [[36-our-greatest-prime-minister-glt9826873277]] links tournament outcomes to moral reputation, political archetype, party memory, current controversy, and the NHS as a durable symbol.
 
 ## Counterevidence & Qualifications
 
-The concept does not imply that every negative reputation is false or that later art and religion merely propagandize. Macbeth's rise and wars were violent; Nero's rule included murder and persecution. Nor can the causal weight of any single dynasty, author, monument, or audience be established from these episodes alone. Material evidence does not automatically defeat texts, and popularity does not establish benevolence.
+The concept does not imply that every negative reputation is false or that later art and religion merely propagandize. Macbeth's rise and wars were violent; Nero's rule included murder and persecution. Nor can the causal weight of any single dynasty, author, monument, party, institution, current event, or audience be established from these episodes alone. Material evidence does not automatically defeat texts, and popularity does not establish benevolence or comparative greatness.
 
 ## What Changed
 
-- Added convergent senatorial, dynastic, and religious memory as a black-legend mechanism.
-- Added material landscape and continuing popularity as partial resistance to elite narrative control.
-- Distinguished justified revision from reflexive rehabilitation.
+- Added public voting, party memory, symbolic institutions, and current controversy as mechanisms that give reputations unequal living constituencies.
+- Distinguished popularity under vague criteria from comparative historical merit.
 
 ## Related Concepts
 
@@ -58,3 +61,4 @@ The concept does not imply that every negative reputation is false or that later
 - [[ShakespeareHistoryPlayPoliticalMemory]] - theatrical mechanism that makes altered political history repeatable.
 - [[ImperialPerformancePolitics]] - rulerly self-fashioning that can supply later hostile memory with durable scenes.
 - [[MonumentalDynasticLegitimation]] - use of a predecessor's physical landscape to stage successor legitimacy.
+- [[HistoricalEntertainment]] - participatory form that can expose and reinforce public reputation at the same time.

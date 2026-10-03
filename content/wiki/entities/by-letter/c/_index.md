@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12217
+wiki_total_pages: 12219
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1187,6 +1187,9 @@ wiki_pages:
   - key: "Cleisthenes"
     title: "Cleisthenes"
     url: "/wiki/entities/cleisthenes/"
+  - key: "ClementAttlee"
+    title: "Clement Attlee"
+    url: "/wiki/entities/clementattlee/"
   - key: "CleomenesI"
     title: "Cleomenes I"
     url: "/wiki/entities/cleomenesi/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2496
+topic_total_pages: 2497
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5703,6 +5703,9 @@ topic_sources:
   - key: "359-martin-luther-kings-dream-glt8593313865"
     title: "359: Martin Luther King's Dream"
     url: "/wiki/sources/359-martin-luther-kings-dream-glt8593313865/"
+  - key: "36-our-greatest-prime-minister-glt9826873277"
+    title: "36. Our Greatest Prime Minister"
+    url: "/wiki/sources/36-our-greatest-prime-minister-glt9826873277/"
   - key: "360-fear-city-new-york-in-the-1970s-glt7107047696"
     title: "360. Fear City: New York in the 1970s"
     url: "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
