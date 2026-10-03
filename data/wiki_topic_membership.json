@@ -81945,6 +81945,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "TrainingCorpusSocialBias": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "TransEurasianMigrationCascade": [
     {
       "key": "history",

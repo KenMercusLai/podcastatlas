@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9459
+wiki_total_pages: 9463
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -803,6 +803,9 @@ wiki_pages:
   - key: "ReturnOnEquityAnalysis"
     title: "Return On Equity Analysis"
     url: "/wiki/concepts/returnonequityanalysis/"
+  - key: "ReturnMigrationCareerDiscontinuity"
+    title: "Return-Migration Career Discontinuity"
+    url: "/wiki/concepts/returnmigrationcareerdiscontinuity/"
   - key: "ReturningArmyInterdictionRisk"
     title: "Returning Army Interdiction Risk / 归师勿遏式追击风险"
     url: "/wiki/concepts/returningarmyinterdictionrisk/"

@@ -7191,6 +7191,10 @@
     "title": "Algorithmic Objectivity Promise / 算法客观性承诺",
     "url": "/wiki/concepts/algorithmicobjectivitypromise/"
   },
+  "AlgorithmicOpportunityDistribution": {
+    "title": "Algorithmic Opportunity Distribution",
+    "url": "/wiki/concepts/algorithmicopportunitydistribution/"
+  },
   "AlgorithmicPredictionLoop": {
     "title": "Algorithmic Prediction Loop / 算法预判循环",
     "url": "/wiki/concepts/algorithmicpredictionloop/"
@@ -59163,6 +59167,10 @@
     "title": "Pandemic As Historical Force",
     "url": "/wiki/concepts/pandemicashistoricalforce/"
   },
+  "PandemicCrossBorderDecisionCompression": {
+    "title": "Pandemic Cross-Border Decision Compression",
+    "url": "/wiki/concepts/pandemiccrossborderdecisioncompression/"
+  },
   "PandemicHistoricalMemory": {
     "title": "Pandemic Historical Memory",
     "url": "/wiki/concepts/pandemichistoricalmemory/"
@@ -66670,6 +66678,10 @@
   "RetrosynthesisAI": {
     "title": "Retrosynthesis AI",
     "url": "/wiki/concepts/retrosynthesisai/"
+  },
+  "ReturnMigrationCareerDiscontinuity": {
+    "title": "Return-Migration Career Discontinuity",
+    "url": "/wiki/concepts/returnmigrationcareerdiscontinuity/"
   },
   "ReturnOnEquityAnalysis": {
     "title": "Return On Equity Analysis",
@@ -78943,6 +78955,10 @@
     "title": "Training Compute Allocation",
     "url": "/wiki/concepts/trainingcomputeallocation/"
   },
+  "TrainingCorpusSocialBias": {
+    "title": "Training-Corpus Social Bias",
+    "url": "/wiki/concepts/trainingcorpussocialbias/"
+  },
   "TrainingFuelTimingContext": {
     "title": "Training Fuel Timing Context",
     "url": "/wiki/concepts/trainingfueltimingcontext/"
@@ -85123,6 +85139,10 @@
     "title": "小米有品 / Xiaomi Youpin",
     "url": "/wiki/entities/xiaomiyoupin/"
   },
+  "XiaomiaoAIResearcher": {
+    "title": "小苗 / Xiaomiao (AI researcher)",
+    "url": "/wiki/entities/xiaomiaoairesearcher/"
+  },
   "Xiaoning": {
     "title": "Xiaoning",
     "url": "/wiki/entities/xiaoning/"
@@ -85142,6 +85162,10 @@
   "XiaoyaoAsNonDependence": {
     "title": "Xiaoyao As Non-Dependence / 逍遥作为不被外物左右",
     "url": "/wiki/concepts/xiaoyaoasnondependence/"
+  },
+  "XiaoyuanReturnee": {
+    "title": "小元 / Xiaoyuan (returnee professional)",
+    "url": "/wiki/entities/xiaoyuanreturnee/"
   },
   "XiaoyusanInsurance": {
     "title": "小雨伞",
@@ -91458,6 +91482,10 @@
   "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u": {
     "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
     "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
+  },
+  "ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn": {
+    "title": "EP174-疫情下的跨国之路",
+    "url": "/wiki/sources/ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn/"
   },
   "ep176-jutou-hunzhan-de-shequ-tuangou-meili-he-zai-ckwrijeem9ngabaaaac5h72a": {
     "title": "EP176-巨头混战的社区团购，魅力何在？",

@@ -10,6 +10,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Science of Muscle Growth, Increasing Strength & Muscular Recovery](sources/scim1817217176-scim1817217176.md) — Early Huberman Lab episode on neuromuscular strength and hypertrophy, lactate, recovery monitoring, soreness, cold and anti-inflammatory tradeoffs, and nutrition support.
 - [59. The World Cup of Gods - Part 2](sources/59-the-world-cup-of-gods-part-2-glt6474253297.md) — The Rest Is History tournament on Athena, Odin, Greek, Roman, Egyptian, and Mithraic gods as changing products of ritual, politics, literature, syncretism, and reception.
 - [60. Muhammad](sources/60-muhammad-glt7621065751.md) — The Rest Is History on Muhammad's probable existence, late biography, the Qur'an as early evidence, late-antique context, and contested revisionist reconstruction.
+- [EP174-疫情下的跨国之路](sources/ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn.md) — 无时差研究所 on pandemic-compressed migration choices, return-career discontinuity, costly cross-border travel, diaspora aid, training-corpus bias, and recommendation fairness.
 - [EP176-巨头混战的社区团购，魅力何在？](sources/ep176-jutou-hunzhan-de-shequ-tuangou-meili-he-zai-ckwrijeem9ngabaaaac5h72a.md) — 无时差研究所 on demand-led community buying, center and grid warehouses, neighborhood pickup, rural retail access, platform competition, and fulfillment limits.
 - [63. Hitler, with Ian Kershaw - part 1](sources/63-hitler-with-ian-kershaw-part-1-glt1996418919.md) — The Rest Is History with Ian Kershaw on Hitler's contingent postwar formation, individual agency, structural conditions, historical method, and the long radicalization from antisemitism to genocide.
 - [64. Hitler, with Ian Kershaw - part 2](sources/64-hitler-with-ian-kershaw-part-2-glt5766781968.md) — The Rest Is History with Ian Kershaw on Hitler's delegated dictatorship, radicalization, war, defeat, postwar memory, and the limits of madness or moral analogy as explanation.
@@ -3618,6 +3619,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Build Endurance in Your Brain & Body](sources/scim8024795061-scim8024795061.md) — Early Huberman Lab solo episode on four endurance modes, brain-body persistence, breathing, hydration, recovery, visual pacing, and source-scoped protocols.
 
 ## Entities
+- [小元 / Xiaoyuan (returnee professional)](entities/XiaoyuanReturnee.md) — EP174 guest whose return from a stable U.S. model-risk career exposes cultural, travel, mutual-aid, and career-transfer tradeoffs.
+- [小苗 / Xiaomiao (AI researcher)](entities/XiaomiaoAIResearcher.md) — EP174 guest whose disrupted U.S. plans led to a Singapore doctorate and a discussion of corpus bias and recommendation fairness.
 - [Moloch](entities/Moloch.md) — Disputed Levantine deity or ritual term whose child-sacrifice association and later demonic reputation require layered evidence.
 - [Xipe Totec](entities/XipeTotec.md) — Aztec “Flayed One” joining agricultural renewal, sacrificial embodiment, disease, healing, and divine danger.
 - [Ishtar / Inanna](entities/IshtarInanna.md) — Mesopotamian goddess combining love, war, kingship, underworld descent, ritual boundary-crossing, and later reception.
@@ -15829,6 +15832,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Pandemic Cross-Border Decision Compression](concepts/PandemicCrossBorderDecisionCompression.md) — Crisis process that forces deferred choices about country, family, study, work, and belonging under a suddenly narrower option set.
+- [Return-Migration Career Discontinuity](concepts/ReturnMigrationCareerDiscontinuity.md) — Break between experience accumulated abroad and the roles, signals, pay, and working conditions recognized after return.
+- [Training-Corpus Social Bias](concepts/TrainingCorpusSocialBias.md) — Learned social association and reporting-frequency distortion in human-produced language data.
+- [Algorithmic Opportunity Distribution](concepts/AlgorithmicOpportunityDistribution.md) — Fairness question of whether recommendation systems give different groups comparable chances to encounter high-value information.
 - [Ancient Divine Identity and Syncretism](concepts/AncientDivineIdentitySyncretism.md) — Framework distinguishing divine identity, equivalence, fusion, transmission, reuse, and later reception.
 - [Early Islamic Evidence Reconstruction](concepts/EarlyIslamicEvidenceReconstruction.md) — Graduated-confidence method combining the Qur'an, later narratives, external fragments, material evidence, geography, and late-antique context.
 - [California Dream and Reinvention](concepts/CaliforniaDreamAndReinvention.md) — How California repeatedly turns story, migration, infrastructure, entertainment, and technology into future imagery while displacing social and environmental costs.

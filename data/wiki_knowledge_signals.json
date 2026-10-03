@@ -9493,6 +9493,22 @@
       "updated": "2026-08-06",
       "url": "/wiki/concepts/algorithmiclabeling/"
     },
+    "AlgorithmicOpportunityDistribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIMAEiJaWABAAAACyYIpN [CKwRIMAEiJaWABAAAACyYIpN].md",
+          "key": "ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn",
+          "show": "无时差研究所",
+          "title": "EP174-疫情下的跨国之路",
+          "url": "/wiki/sources/ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/algorithmicopportunitydistribution/"
+    },
     "AlgorithmicRomanticCompatibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -153870,6 +153886,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/pandemicashistoricalforce/"
     },
+    "PandemicCrossBorderDecisionCompression": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIMAEiJaWABAAAACyYIpN [CKwRIMAEiJaWABAAAACyYIpN].md",
+          "key": "ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn",
+          "show": "无时差研究所",
+          "title": "EP174-疫情下的跨国之路",
+          "url": "/wiki/sources/ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/pandemiccrossborderdecisioncompression/"
+    },
     "PandemicHistoricalMemory": {
       "episode_count": 1,
       "show_count": 1,
@@ -172621,6 +172653,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/retrospectivecoronationnarrative/"
+    },
+    "ReturnMigrationCareerDiscontinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIMAEiJaWABAAAACyYIpN [CKwRIMAEiJaWABAAAACyYIpN].md",
+          "key": "ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn",
+          "show": "无时差研究所",
+          "title": "EP174-疫情下的跨国之路",
+          "url": "/wiki/sources/ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/returnmigrationcareerdiscontinuity/"
     },
     "ReturningArmyInterdictionRisk": {
       "episode_count": 2,
@@ -203475,6 +203523,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/trainingchaosmanagement/"
     },
+    "TrainingCorpusSocialBias": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIMAEiJaWABAAAACyYIpN [CKwRIMAEiJaWABAAAACyYIpN].md",
+          "key": "ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn",
+          "show": "无时差研究所",
+          "title": "EP174-疫情下的跨国之路",
+          "url": "/wiki/sources/ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/trainingcorpussocialbias/"
+    },
     "TrainingFuelTimingContext": {
       "episode_count": 2,
       "show_count": 1,
@@ -219380,6 +219444,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/xiaomi/"
     },
+    "XiaomiaoAIResearcher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIMAEiJaWABAAAACyYIpN [CKwRIMAEiJaWABAAAACyYIpN].md",
+          "key": "ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn",
+          "show": "无时差研究所",
+          "title": "EP174-疫情下的跨国之路",
+          "url": "/wiki/sources/ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/xiaomiaoairesearcher/"
+    },
     "XiaopangyaPodcastGuest": {
       "episode_count": 1,
       "show_count": 1,
@@ -219411,6 +219491,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/xiaoweiduanwenreporter/"
+    },
+    "XiaoyuanReturnee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIMAEiJaWABAAAACyYIpN [CKwRIMAEiJaWABAAAACyYIpN].md",
+          "key": "ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn",
+          "show": "无时差研究所",
+          "title": "EP174-疫情下的跨国之路",
+          "url": "/wiki/sources/ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/xiaoyuanreturnee/"
     },
     "XiaoyusanInsurance": {
       "episode_count": 7,

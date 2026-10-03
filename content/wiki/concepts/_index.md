@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9459
+wiki_total_pages: 9463
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1769,6 +1769,9 @@ wiki_pages:
   - key: "AlgorithmicObjectivityPromise"
     title: "Algorithmic Objectivity Promise / 算法客观性承诺"
     url: "/wiki/concepts/algorithmicobjectivitypromise/"
+  - key: "AlgorithmicOpportunityDistribution"
+    title: "Algorithmic Opportunity Distribution"
+    url: "/wiki/concepts/algorithmicopportunitydistribution/"
   - key: "AlgorithmicPredictionLoop"
     title: "Algorithmic Prediction Loop / 算法预判循环"
     url: "/wiki/concepts/algorithmicpredictionloop/"

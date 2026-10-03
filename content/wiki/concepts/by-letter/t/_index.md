@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9459
+wiki_total_pages: 9463
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "TrainingStressRecoveryContinuum"
     title: "Training Stress-Recovery Continuum"
     url: "/wiki/concepts/trainingstressrecoverycontinuum/"
+  - key: "TrainingCorpusSocialBias"
+    title: "Training-Corpus Social Bias"
+    url: "/wiki/concepts/trainingcorpussocialbias/"
   - key: "TransatlanticBurdenShifting"
     title: "Transatlantic Burden Shifting"
     url: "/wiki/concepts/transatlanticburdenshifting/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 12166
+wiki_total_pages: 12168
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "Xiaojia"
     title: "小佳"
     url: "/wiki/entities/xiaojia/"
+  - key: "XiaoyuanReturnee"
+    title: "小元 / Xiaoyuan (returnee professional)"
+    url: "/wiki/entities/xiaoyuanreturnee/"
   - key: "XiaohuaMeilunMeihuan"
     title: "小华 / 美轮美换"
     url: "/wiki/entities/xiaohuameilunmeihuan/"
@@ -341,6 +344,9 @@ wiki_pages:
   - key: "XiaopangyaPodcastGuest"
     title: "小胖丫 / 小胖鸭 (Podcast Guest)"
     url: "/wiki/entities/xiaopangyapodcastguest/"
+  - key: "XiaomiaoAIResearcher"
+    title: "小苗 / Xiaomiao (AI researcher)"
+    url: "/wiki/entities/xiaomiaoairesearcher/"
   - key: "XiaoweiDuanwenReporter"
     title: "小薇 / Xiaowei (Duanwen reporter)"
     url: "/wiki/entities/xiaoweiduanwenreporter/"

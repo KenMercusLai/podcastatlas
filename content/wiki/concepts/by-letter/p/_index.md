@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9459
+wiki_total_pages: 9463
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "PandemicAsHistoricalForce"
     title: "Pandemic As Historical Force"
     url: "/wiki/concepts/pandemicashistoricalforce/"
+  - key: "PandemicCrossBorderDecisionCompression"
+    title: "Pandemic Cross-Border Decision Compression"
+    url: "/wiki/concepts/pandemiccrossborderdecisioncompression/"
   - key: "PandemicHistoricalMemory"
     title: "Pandemic Historical Memory"
     url: "/wiki/concepts/pandemichistoricalmemory/"

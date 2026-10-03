@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3282
+topic_total_pages: 3283
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4324,6 +4324,9 @@ topic_concepts:
   - key: "TrainingAutopilot"
     title: "Training Autopilot"
     url: "/wiki/concepts/trainingautopilot/"
+  - key: "TrainingCorpusSocialBias"
+    title: "Training-Corpus Social Bias"
+    url: "/wiki/concepts/trainingcorpussocialbias/"
   - key: "TransformerArchitecture"
     title: "Transformer Architecture"
     url: "/wiki/concepts/transformerarchitecture/"
