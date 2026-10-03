@@ -5,6 +5,7 @@ tags: [history, historiography, causation, counterfactuals]
 sources:
   - 183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177
   - 32-what-if-glt7767131043
+  - 9-causes-of-the-first-world-war-glt8234482474
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -22,6 +23,8 @@ The two episodes use deliberately strange or familiar questions to make causal a
 The method is most useful when it avoids both heroic determinism and structure-only inevitability. Individual decisions can redirect events, especially near dynastic succession, battle, or a political choke point, but their effects depend on armies, alliances, institutions, technology, culture, political endurance, and prior crisis. [[32-what-if-glt7767131043]] sharpens the plausibility rule: a limited alternative close to a documented decision can test causation, whereas a long parallel history accumulates unsupported assumptions and becomes fiction.
 
 Technological counterfactuals require the same discipline. An invention cannot simply be moved into another century while leaving its enabling economy, institutions, skills, incentives, and competition unchanged. A counterfactual should therefore clarify a mechanism and its uncertainty, not masquerade as an observable alternative history.
+
+A British policy counterfactual adds a short decision horizon and a dangerously long consequence horizon. Britain plausibly could have remained outside the war in August 1914, but moving from that decision to quick German victory, the fate of the British Empire, or the absence of Nazism, the Holocaust, Soviet communism, and the Cold War requires increasingly speculative links. The case therefore separates a credible alternative choice from confidence about its distant results. [[9-causes-of-the-first-world-war-glt8234482474]] supplies the scenario.
 
 ## Key Claims
 
@@ -63,14 +66,18 @@ Technological counterfactuals require the same discipline. An invention cannot s
 
 - [[32-what-if-glt7767131043]] treats the [[May1940BritishWarCabinetCrisis]] as a case where a bounded decision and an unusually authoritative individual may have changed the available strategic path.
 
+### British intervention in 1914
+
+- [[9-causes-of-the-first-world-war-glt8234482474]] treats British neutrality or Anglo-German alignment as plausible choices constrained by French naval expectations, the Channel coast, empire, the naval race, honour, and Belgian neutrality, while keeping claims about the resulting twentieth century explicitly unobservable.
+
 ## Counterevidence & Qualifications
 
-Counterfactual outcomes cannot be directly observed, and confidence falls quickly when one changed premise is asked to carry decades of political, technological, or cultural development. Both episodes are conversational exercises rather than systematic causal models; their siege comparisons, leader rankings, military claims, electoral judgments, replacement actors, technological pathways, and alternative national futures remain source-scoped. Useful counterfactuals should complement source criticism and comparative evidence, not replace them. Political preference also shapes which lost world is imagined and whether it appears as tragedy, liberation, nostalgia, or dystopia.
+Counterfactual outcomes cannot be directly observed, and confidence falls quickly when one changed premise is asked to carry decades of political, technological, or cultural development. The three episodes are conversational exercises rather than systematic causal models; their siege comparisons, leader rankings, military claims, electoral judgments, replacement actors, technological pathways, British-neutrality scenarios, and alternative national futures remain source-scoped. A plausible decision not to intervene does not establish a quick German victory or a less violent twentieth century. Useful counterfactuals should complement source criticism and comparative evidence, not replace them. Political preference also shapes which lost world is imagined and whether it appears as tragedy, liberation, nostalgia, or dystopia.
 
 ## What Changed
 
-- Added a sharper boundary between limited causal tests and long-range alternative-history fiction.
-- Added replacement mechanisms, technological enabling conditions, and rare choke points to the plausibility test.
+- Added British neutrality in 1914 as a plausible policy alternative with rapidly widening downstream uncertainty.
+- Distinguished confidence in an available choice from confidence in a whole alternate twentieth century.
 
 ## Related Concepts
 
@@ -81,3 +88,4 @@ Counterfactual outcomes cannot be directly observed, and confidence falls quickl
 - [[HistoricalMemoryContest]] - explains how later narratives can turn one counterfactual or causal ranking into public common sense.
 - [[HistoricalStructureAgencyCausation]] - tests whether individual divergence survives the pressures of institutions, capacity, and long-run structure.
 - [[May1940BritishWarCabinetCrisis]] - example of a bounded political choke point with unusually large downstream stakes.
+- [[FearDrivenPreventiveWarLogic]] - causal hypothesis tested by asking what actors believed restraint would cost.

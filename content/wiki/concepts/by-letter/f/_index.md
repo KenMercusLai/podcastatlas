@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9580
+wiki_total_pages: 9581
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "FearDrivenGroupViolence"
     title: "Fear-Driven Group Violence / 恐惧驱动的群体暴力"
     url: "/wiki/concepts/feardrivengroupviolence/"
+  - key: "FearDrivenPreventiveWarLogic"
+    title: "Fear-Driven Preventive-War Logic"
+    url: "/wiki/concepts/feardrivenpreventivewarlogic/"
   - key: "FeatureCreep"
     title: "Feature Creep"
     url: "/wiki/concepts/featurecreep/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3053
+topic_total_pages: 3054
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1465,6 +1465,9 @@ topic_concepts:
   - key: "FDAReviewModernization"
     title: "FDA Review Modernization"
     url: "/wiki/concepts/fdareviewmodernization/"
+  - key: "FearDrivenPreventiveWarLogic"
+    title: "Fear-Driven Preventive-War Logic"
+    url: "/wiki/concepts/feardrivenpreventivewarlogic/"
   - key: "February1974UKGeneralElection"
     title: "February 1974 UK General Election"
     url: "/wiki/concepts/february1974ukgeneralelection/"

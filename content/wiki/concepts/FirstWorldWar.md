@@ -14,7 +14,8 @@ sources:
   - 295-the-rise-of-the-nazis-part-1-glt8045984312
   - 118-end-of-the-first-world-war-remembrance-glt2743125909
   - 90-the-western-front-glt9972346188
-last_updated: 2026-10-03
+  - 9-causes-of-the-first-world-war-glt8234482474
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ knowledge_schema: synthesis-v1
 The First World War is the 1914-1918 conflict that the wiki currently enters through the final [[JulyCrisis|July Crisis]], the [[WesternFrontFirstWorldWar|Western Front]] from trench stalemate to the Allied victory of 1918, [[RMSLusitania|RMS Lusitania]], [[EdithCavell|Edith Cavell]]'s occupied-Belgium case, the [[GallipoliCampaign|Gallipoli campaign]], [[Italy]]'s costly [[IsonzoFront|Isonzo front]], German defeat and radicalization, and the construction of [[FirstWorldWarRemembrance|remembrance]].
 
 ## Current Synthesis
+
+The outbreak synthesis treats the Sarajevo-to-Belgium chain as contingent but not accidental: Austria-Hungary, Russia, Germany, France, and Britain repeatedly interpreted retreat, delay, or neutrality as a threat to security, prestige, alliance credibility, imperial position, or future power. [[FearDrivenPreventiveWarLogic|Fear-driven preventive-war logic]] therefore joins the more detailed July Crisis account without displacing responsibility from leaders who understood much of the danger and still chose escalation. [[9-causes-of-the-first-world-war-glt8234482474]] supplies the comparative interpretation.
 
 The wiki's current First World War page is still selective rather than general. [[473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845]] and [[474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702]] supply the war-entry chain from Austria-Hungary's declaration against Serbia through Russian mobilisation, German ultimatums and operational rigidity, Britain's informal obligation to France, cabinet division, Belgian neutrality, and the public moral narrative of British entry. [[671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565]] supplies the Western Front soldier-experience baseline: trench lines after mobile-war failure, defensive firepower, [[TrenchLifeWesternFront|trench life]], [[ShellShock|shell shock]], [[FirstWorldWarGasWarfare|gas warfare]], and [[BattleOfLoos|Loos]] as failed offensive and family grief. [[90-the-western-front-glt9972346188]] extends that baseline through the Somme, Passchendaele, Cambrai, Germany's failed 1918 spring offensive, Allied coalition and logistical improvement, and the defeat of the German army. It also separates battlefield history from [[WesternFrontPopularMemory|the later "lions led by donkeys" memory]].
 
@@ -39,7 +42,7 @@ Germany's home-front and post-defeat experience adds another branch. Blockade ha
 ## Key Claims
 
 - The Western Front joined defensive deadlock and mixed soldier experience to uneven learning, improved Allied logistics and coalition command, and the military defeat of Germany in 1918.
-- The final July Crisis joined failed off-ramps and conscious political choice to perceived obligation, miscommunication, mobilisation rigidity, strategic fear, and fatalism rather than simple ignorance of the approaching catastrophe.
+- The war-entry crisis joined failed off-ramps and conscious political choice to perceived obligation, imperial and status interests, preventive fear, miscommunication, mobilisation rigidity, and fatalism rather than one master cause or simple ignorance of the approaching catastrophe.
 - Maritime economic warfare made civilian shipping, blockade logic, neutral rights, and propaganda part of the war's strategic field.
 - Occupation and resistance made non-frontline civilian and medical spaces part of the war's moral and legal battlefield.
 - Ottoman entry and Russia's Caucasus crisis made the Dardanelles look strategically useful, while Gallipoli and the Isonzo reproduced trench, machine-gun, barbed-wire, terrain, and attrition dynamics in different theaters.
@@ -48,6 +51,7 @@ Germany's home-front and post-defeat experience adds another branch. Blockade ha
 
 ## Evidence
 
+- Outbreak synthesis: [[9-causes-of-the-first-world-war-glt8234482474]] connects the Sarajevo chain, alliances, naval rivalry, imperial strategy, prestige, preventive timing, mobilisation, and British choice through the claim that leaders repeatedly saw war as the least bad option.
 - War entry: [[473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845]] connects Austro-Hungarian war against Serbia, failed limitation, Russian mobilisation, and personal-state tension; [[474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702]] connects the result to German war planning, British-French naval expectations, cabinet division, Belgian neutrality, and Grey's Commons speech.
 - Western Front baseline: [[671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565]] connects the 1914 mobile-war failure, trench construction, defensive firepower, Graves and Junger's testimony, shell shock, Ypres gas, Loos, and John Kipling's death.
 - Western Front adaptation and victory: [[90-the-western-front-glt9972346188]] connects uneven learning at the Somme, Third Ypres, and Cambrai to the failed German spring offensive, Foch's coalition coordination, repeated Allied advances, transport capacity, and German defeat.
@@ -64,18 +68,20 @@ Germany's home-front and post-defeat experience adds another branch. Blockade ha
 
 ## Counterevidence & Qualifications
 
-This page is a seed page, not a general history of the First World War. The July Crisis sources challenge literal sleepwalking and uniform war-enthusiasm narratives but do not erase uncertainty, constraint, patriotic mobilisation, or responsibility. They treat Russian general mobilisation as decisive without making it the sole cause, and Belgium as decisive to Britain's entry without reducing that decision to one motive. The Western Front sources qualify simple retrospective anti-war memory by showing that soldiers could combine duty, sacrifice, fear, boredom, faith, comradeship, and trauma, and that learning and victory can coexist with command error and mass loss. The later source is British-centered, and its judgments about German peace options, army quality, generals, and cultural causation remain contested interpretations. The Lusitania source preserves war-relevant cargo and British censorship without using them to justify mass civilian death. The Cavell source preserves real escape assistance and military-law arguments alongside the execution's disastrous politics. The Italy source contrasts interventionist spectacle with broad anti-war sentiment and treats fascist use of resentment as an afterlife, not an automatic outcome. The German-aftermath sources do not show that defeat necessarily produced Nazism. The remembrance source is British-centered and treats sacredness, secular substitution, duty, multicultural unity, and ritual longevity as interpretations rather than universal consensus; final-hours deaths, ceremony totals, and disputed anecdotes remain source-scoped.
+This page is a seed page, not a general history of the First World War. The July Crisis sources challenge literal sleepwalking and uniform war-enthusiasm narratives but do not erase uncertainty, constraint, patriotic mobilisation, or responsibility. They treat Russian general mobilisation as decisive without making it the sole cause, and Belgium as decisive to Britain's entry without reducing that decision to one motive. The new overview episode's fear synthesis does not prove that fear outweighed ideology, domestic politics, nationalism, or material interest in every capital; its British-neutrality, Anglo-German alignment, quick-victory, imperial-blowback, and alternate-twentieth-century claims remain counterfactual or source-scoped. The Western Front sources qualify simple retrospective anti-war memory by showing that soldiers could combine duty, sacrifice, fear, boredom, faith, comradeship, and trauma, and that learning and victory can coexist with command error and mass loss. The later source is British-centered, and its judgments about German peace options, army quality, generals, and cultural causation remain contested interpretations. The Lusitania source preserves war-relevant cargo and British censorship without using them to justify mass civilian death. The Cavell source preserves real escape assistance and military-law arguments alongside the execution's disastrous politics. The Italy source contrasts interventionist spectacle with broad anti-war sentiment and treats fascist use of resentment as an afterlife, not an automatic outcome. The German-aftermath sources do not show that defeat necessarily produced Nazism. The remembrance source is British-centered and treats sacredness, secular substitution, duty, multicultural unity, and ritual longevity as interpretations rather than universal consensus; final-hours deaths, ceremony totals, and disputed anecdotes remain source-scoped.
 
 ## What Changed
 
-- Extended the Western Front branch from 1915 experience through uneven learning and the Allied victory of 1918.
-- Made German military defeat and the high command's later blame-shifting explicit before the radicalization branch.
-- Added a distinction between battlefield history and the later "lions led by donkeys" memory.
+- Added fear and preventive timing as a cross-power outbreak synthesis without making them sole causes.
+- Added Britain's non-intervention and Anglo-German alignment as bounded counterfactual tests.
+- Made explicit that mobilisation machinery accelerated escalation without eliminating informed political choice.
 
 ## Related Concepts
 
 - [[JulyCrisis]] - diplomatic and mobilisation escalation that opened the general European war.
 - [[MobilisationDiplomacyEscalationTrap]] - mechanism linking military preparation to shrinking diplomatic reversibility.
+- [[FearDrivenPreventiveWarLogic]] - mechanism linking fear of future weakness, humiliation, or exposure to present escalation.
+- [[HistoricalCounterfactualReasoning]] - method used to test British non-intervention without treating an alternative outcome as observed history.
 - [[EdwardGrey]] - British foreign secretary who articulated the intervention case.
 - [[HHAsquith]] - prime minister managing the divided British cabinet.
 - [[WesternFrontFirstWorldWar]] - battlefield baseline for trench stalemate and soldier experience.

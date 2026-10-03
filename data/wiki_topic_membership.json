@@ -6517,6 +6517,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "9-causes-of-the-first-world-war-glt8234482474": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "90-the-western-front-glt9972346188": [
     {
       "key": "history",
@@ -33135,6 +33142,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "FearDrivenPreventiveWarLogic": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FeatherlessAI": [

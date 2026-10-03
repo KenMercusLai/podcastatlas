@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [9. Causes of the First World War](sources/9-causes-of-the-first-world-war-glt8234482474.md) — The Rest Is History on fear, preventive-war logic, alliances, mobilisation, imperial strategy, Britain's contingent entry, and counterfactual neutrality.
 - [11. Brexit](sources/11-brexit-glt9171248177.md) — The Rest Is History survey of geographic, constitutional, imperial, and wartime Brexit parallels, emphasizing selective memory and the limits of historical analogy.
 - [12. Conspiracy Theories](sources/12-conspiracy-theories-glt7580472793.md) — The Rest Is History survey of conspiracy belief as meaning-making, political weaponry, grain-of-truth reasoning, scapegoating, and institutional consequence.
 - [13. Stephen Fry and Troy](sources/13-stephen-fry-and-troy-glt5875934078.md) — The Rest Is History interview on Fry's Trojan War retelling, Homeric ambiguity, grief, cunning, myth-history boundaries, double determination, and why Greek myth endures.
@@ -17267,6 +17268,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [July Crisis](concepts/JulyCrisis.md) — Final 1914 escalation in which alliance firmness, strategic anxiety, ultimatum diplomacy, mobilisation, and political choice opened general European war.
 - [British Foreign-Policy Ambiguity in 1914](concepts/BritishForeignPolicyAmbiguity1914.md) — Gap between formal non-obligation and private, naval, imperial, and strategic expectations shaping Britain's choice.
 - [Mobilisation-Diplomacy Escalation Trap](concepts/MobilisationDiplomacyEscalationTrap.md) — Feedback in which precautionary military preparation alters rival threat perception and shrinks diplomatic reversibility.
+- [Fear-Driven Preventive-War Logic](concepts/FearDrivenPreventiveWarLogic.md) — Pattern in which feared future weakness, humiliation, or exposure makes present escalation appear the least bad option.
 - [Scandal Plausibility and Legitimacy Damage](concepts/ScandalPlausibilityLegitimacyDamage.md) — Process by which hostile priors, real misconduct, and expectation-matched exaggeration can weaken an institution beyond what evidence supports.
 - [Privilege Reform Legitimacy Trap](concepts/PrivilegeReformLegitimacyTrap.md) — Mechanism by which necessary reform, lawful privilege defence, publicity, and coercion widen a fiscal dispute into a sovereignty crisis.
 - [Revolutionary Crisis Convergence](concepts/RevolutionaryCrisisConvergence.md) — Process through which environmental, fiscal, subsistence, institutional, expectation, rumor, and coercive pressures reinforce one another into political rupture.
@@ -18220,7 +18222,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unrestricted Submarine Warfare](concepts/UnrestrictedSubmarineWarfare.md) — First World War naval strategy where submarine attacks on merchant shipping collided with cruiser rules, civilian passengers, and neutral rights.
 - [Passenger-Liner Atrocity Propaganda](concepts/PassengerLinerAtrocityPropaganda.md) — Pattern for how a civilian ship sinking becomes a contested wartime symbol through suffering, censorship, justification, and conspiracy.
 - [Neutrality-to-Intervention Memory](concepts/NeutralityToInterventionMemory.md) — Pattern where a shock that does not immediately end neutrality later becomes evidence for intervention.
-- [First World War](concepts/FirstWorldWar.md) — Seed concept spanning war entry, major 1915 branches, public memory, and Germany's destabilizing defeat aftermath.
+- [First World War](concepts/FirstWorldWar.md) — Selective synthesis spanning multi-causal war entry, major 1915 branches, public memory, and Germany's destabilizing defeat aftermath.
 - [War Defeat Radicalization](concepts/WarDefeatRadicalization.md) — Process joining mass wartime loss and sudden defeat to betrayal myths, scapegoating, violence, and contingent political mobilization.
 - [Trench Life on the Western Front](concepts/TrenchLifeWesternFront.md) — Soldier-experience pattern where mud, dugouts, vermin, boredom, food, comradeship, shellfire, and gas fear coexist.
 - [Shell Shock](concepts/ShellShock.md) — First World War psychological injury category framed as breakdown under shelling and harrowing front-line experience.

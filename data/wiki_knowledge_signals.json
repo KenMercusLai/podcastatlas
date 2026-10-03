@@ -72316,6 +72316,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/feardrivengroupviolence/"
     },
+    "FearDrivenPreventiveWarLogic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8234482474 [GLT8234482474].md",
+          "key": "9-causes-of-the-first-world-war-glt8234482474",
+          "show": "The Rest Is History",
+          "title": "9. Causes of the First World War",
+          "url": "/wiki/sources/9-causes-of-the-first-world-war-glt8234482474/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/feardrivenpreventivewarlogic/"
+    },
     "FearExtinctionPositiveRelearning": {
       "episode_count": 1,
       "show_count": 1,
@@ -74905,9 +74921,9 @@
       "url": "/wiki/entities/firsttriumvirate/"
     },
     "FirstWorldWar": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "GLT1889262052 [GLT1889262052].md",
@@ -74985,9 +75001,16 @@
           "show": "The Rest Is History",
           "title": "90. The Western Front",
           "url": "/wiki/sources/90-the-western-front-glt9972346188/"
+        },
+        {
+          "episode_file": "GLT8234482474 [GLT8234482474].md",
+          "key": "9-causes-of-the-first-world-war-glt8234482474",
+          "show": "The Rest Is History",
+          "title": "9. Causes of the First World War",
+          "url": "/wiki/sources/9-causes-of-the-first-world-war-glt8234482474/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/firstworldwar/"
     },
     "FirstWorldWarGasWarfare": {
@@ -96361,9 +96384,9 @@
       "url": "/wiki/concepts/historicalcompositeallegory/"
     },
     "HistoricalCounterfactualReasoning": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3395544177 [GLT3395544177].md",
@@ -96378,6 +96401,13 @@
           "show": "The Rest Is History",
           "title": "32. What if?",
           "url": "/wiki/sources/32-what-if-glt7767131043/"
+        },
+        {
+          "episode_file": "GLT8234482474 [GLT8234482474].md",
+          "key": "9-causes-of-the-first-world-war-glt8234482474",
+          "show": "The Rest Is History",
+          "title": "9. Causes of the First World War",
+          "url": "/wiki/sources/9-causes-of-the-first-world-war-glt8234482474/"
         }
       ],
       "updated": "2026-10-04",
@@ -115993,9 +116023,9 @@
       "url": "/wiki/entities/juliusstreicher/"
     },
     "JulyCrisis": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT2293540702 [GLT2293540702].md",
@@ -116038,9 +116068,16 @@
           "show": "The Rest Is History",
           "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
           "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
+        },
+        {
+          "episode_file": "GLT8234482474 [GLT8234482474].md",
+          "key": "9-causes-of-the-first-world-war-glt8234482474",
+          "show": "The Rest Is History",
+          "title": "9. Causes of the First World War",
+          "url": "/wiki/sources/9-causes-of-the-first-world-war-glt8234482474/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/julycrisis/"
     },
     "JumiKingChengguoLateHan": {
@@ -143633,9 +143670,9 @@
       "url": "/wiki/concepts/mobiletechnologyconvergence/"
     },
     "MobilisationDiplomacyEscalationTrap": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1322848845 [GLT1322848845].md",
@@ -143657,9 +143694,16 @@
           "show": "The Rest Is History",
           "title": "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)",
           "url": "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"
+        },
+        {
+          "episode_file": "GLT8234482474 [GLT8234482474].md",
+          "key": "9-causes-of-the-first-world-war-glt8234482474",
+          "show": "The Rest Is History",
+          "title": "9. Causes of the First World War",
+          "url": "/wiki/sources/9-causes-of-the-first-world-war-glt8234482474/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/mobilisationdiplomacyescalationtrap/"
     },
     "MobilityFirstEmbodiedAI": {

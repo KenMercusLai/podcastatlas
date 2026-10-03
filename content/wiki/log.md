@@ -29115,3 +29115,11 @@ Added source `10-christmas-glt9855064623`; created [[SantaClaus]], [[NativityNar
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 9. Causes of the First World War
+
+Added source `9-causes-of-the-first-world-war-glt8234482474`; created [[FearDrivenPreventiveWarLogic]]; and resynthesized [[FirstWorldWar]], [[JulyCrisis]], [[MobilisationDiplomacyEscalationTrap]], and [[HistoricalCounterfactualReasoning]] from their complete preserved evidence inventories. Core synthesis: the 1914 powers repeatedly treated war as the least bad option because retreat, delay, neutrality, or alliance failure seemed likely to bring future weakness, humiliation, or strategic exposure; mobilisation and railway timing accelerated this reasoning without removing informed political choice. No settled contradiction was adopted. Russia's role as the key avoidable widening decision, Serbia's responsibility, British neutrality or Anglo-German alignment, a quick German victory, imperial blowback, and claims about a less violent alternate twentieth century remain attributed, contested, or counterfactual. Recurring host and show profiles were not changed because the episode adds a topic synthesis rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,639-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

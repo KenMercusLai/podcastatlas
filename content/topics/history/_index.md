@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2532
+topic_total_pages: 2533
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6642,6 +6642,9 @@ topic_sources:
   - key: "89-climate-weather-glt6521438447"
     title: "89. Climate & Weather"
     url: "/wiki/sources/89-climate-weather-glt6521438447/"
+  - key: "9-causes-of-the-first-world-war-glt8234482474"
+    title: "9. Causes of the First World War"
+    url: "/wiki/sources/9-causes-of-the-first-world-war-glt8234482474/"
   - key: "90-the-western-front-glt9972346188"
     title: "90. The Western Front"
     url: "/wiki/sources/90-the-western-front-glt9972346188/"
