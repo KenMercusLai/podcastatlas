@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9481
+wiki_total_pages: 9485
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -968,6 +968,12 @@ wiki_pages:
   - key: "DoctorPatientCommunication"
     title: "Doctor-Patient Communication"
     url: "/wiki/concepts/doctorpatientcommunication/"
+  - key: "DoctoralStudentIsolationMentalHealth"
+    title: "Doctoral Student Isolation and Mental Health / 博士生孤立与心理健康"
+    url: "/wiki/concepts/doctoralstudentisolationmentalhealth/"
+  - key: "DoctoralTrainingCareerAlignment"
+    title: "Doctoral Training and Career Alignment / 博士培养与职业对齐"
+    url: "/wiki/concepts/doctoraltrainingcareeralignment/"
   - key: "DocumentChunking"
     title: "Document Chunking"
     url: "/wiki/concepts/documentchunking/"

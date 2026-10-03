@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP170-一个非典型金融女博士的自述](sources/ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb.md) — 无时差研究所 conversation on doctoral training, long-cycle finance research, career alignment, fund-manager agency conflicts, gender labels, and doctoral-student isolation.
 - [48. The French Revolution](sources/48-the-french-revolution-glt2092335857.md) — The Rest Is History overview of the Revolution as contingent escalation from fiscal and subsistence crisis through rights, war, regicide, terror, reaction, and Napoleonic order.
 - [EP171-疫情下的中美经济政策：发钱刺激消费，一生能遇到几回？](sources/ep171-yiqing-xia-de-zhongmei-jingji-zhengce-faqian-ciji-xiaofei-yisheng-neng-yudao-jihui-ckwriueebny5abaaaacoc8to.md) — 无时差研究所 on U.S. pandemic relief, welfare fragmentation, fiscal-monetary transmission, China's targeted response and dual circulation, and the limits of treating emergency checks as UBI evidence.
 - [Supercharge Exercise Performance & Recovery with Cooling](sources/scim5512858918-scim5512858918.md) — Early Huberman Lab episode on heat-limited exercise, cardiac drift, flow-preserving glabrous-skin cooling, and recovery-adaptation tradeoffs.
@@ -3635,6 +3636,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Boost Your Energy & Immune System with Cortisol & Adrenaline](sources/scim5718648905-scim5718648905.md) — Early Huberman Lab episode on cortisol and epinephrine timing, body-brain arousal, acute immune signaling, post-learning activation, chronic stress eating, and recovery boundaries.
 
 ## Entities
+- [靖靖 / Jingjing (finance PhD)](entities/JingjingFinancePhD.md) — Partially identified EP170 guest connecting finance doctoral training, research practice, career choice, credential boundaries, and student wellbeing.
 - [Paul Lay](entities/PaulLay.md) — Historian interpreting Cromwell through constitutional change, religious conviction, Irish atrocity, evidentiary caution, and later myth.
 - [John Lambert](entities/JohnLambert.md) — Army leader and constitutional architect associated with the Instrument of Government.
 - [小元 / Xiaoyuan (returnee professional)](entities/XiaoyuanReturnee.md) — EP174 guest whose return from a stable U.S. model-risk career exposes cultural, travel, mutual-aid, and career-transfer tradeoffs.
@@ -15864,6 +15866,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scoff: A History of Food and Class in Britain](entities/ScoffBook.md) — Pen Vogler's book framing food as evidence for class and social change.
 
 ## Concepts
+- [Doctoral Training and Career Alignment / 博士培养与职业对齐](concepts/DoctoralTrainingCareerAlignment.md) — Aligning degree timing and preparation with academic, industry, public-sector, or other intended work.
+- [Long-Cycle Social-Science Research / 社会科学长周期研究](concepts/LongCycleSocialScienceResearch.md) — Research pipeline from question, data, and replication through feedback, revision, publication, or abandonment.
+- [Fund Manager Window Dressing and Agency Conflict / 基金经理橱窗粉饰与委托代理冲突](concepts/FundManagerWindowDressingAgencyConflict.md) — Disclosure-timing behavior that can make visible holdings diverge from investor welfare and the true investment process.
+- [Doctoral Student Isolation and Mental Health / 博士生孤立与心理健康](concepts/DoctoralStudentIsolationMentalHealth.md) — How independent research, uncertain feedback, reduced contact, and solitary living can narrow doctoral support.
 - [Pandemic Fiscal Relief Tradeoffs / 疫情财政救济权衡](concepts/PandemicFiscalReliefTradeoffs.md) — Emergency balance among rapid household support, targeting, work incentives, demand, debt, and inflation.
 - [U.S. Welfare Fragmentation / 美国福利体系碎片化](concepts/USWelfareFragmentation.md) — How substantial programs can coexist with uneven eligibility, federal-state variation, and high navigation costs.
 - [Fiscal-Monetary Transmission Difference / 财政与货币传导差异](concepts/FiscalMonetaryTransmissionDifference.md) — Distinction between direct income channels and financial-liquidity or asset-price channels.

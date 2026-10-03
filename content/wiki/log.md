@@ -28596,3 +28596,11 @@ Added source `48-the-french-revolution-glt2092335857` and resynthesized `FrenchR
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | EP170-一个非典型金融女博士的自述
+
+Added source `ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb`, a bounded profile for guest 靖靖, and concepts for doctoral training and career alignment, long-cycle social-science research, fund-manager window dressing and agency conflict, and doctoral-student isolation and mental health. Core synthesis: doctoral timing and preparation should be judged against intended work; the publication cycle extends far beyond drafting; point-in-time fund disclosures can hide holding history and incentive conflict; and independent research can erode routine social support. No settled contradiction was adopted. Degree lengths, hiring preferences, marriage and childbirth estimates, postdoctoral requirements, disciplinary comparisons, and prevalence claims remain one guest's May 2021 observations rather than representative statistics. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,574-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -35666,6 +35666,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FundManagerWindowDressingAgencyConflict": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "FundRecommendationConflictDisclosure": [
     {
       "key": "economics",
@@ -46348,6 +46355,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "JingjingFinancePhD": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "JingjueKingdom": [

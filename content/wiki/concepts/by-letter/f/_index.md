@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9481
+wiki_total_pages: 9485
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1412,6 +1412,9 @@ wiki_pages:
   - key: "FundManagerRankingIncentives"
     title: "Fund Manager Ranking Incentives / 基金经理排名激励"
     url: "/wiki/concepts/fundmanagerrankingincentives/"
+  - key: "FundManagerWindowDressingAgencyConflict"
+    title: "Fund Manager Window Dressing and Agency Conflict / 基金经理橱窗粉饰与委托代理冲突"
+    url: "/wiki/concepts/fundmanagerwindowdressingagencyconflict/"
   - key: "FundRecommendationConflictDisclosure"
     title: "Fund Recommendation Conflict Disclosure / 基金推荐利益冲突披露"
     url: "/wiki/concepts/fundrecommendationconflictdisclosure/"

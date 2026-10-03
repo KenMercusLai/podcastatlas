@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9481
+wiki_total_pages: 9485
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "LongChainAICompetition"
     title: "Long-Chain AI Competition"
     url: "/wiki/concepts/longchainaicompetition/"
+  - key: "LongCycleSocialScienceResearch"
+    title: "Long-Cycle Social-Science Research / 社会科学长周期研究"
+    url: "/wiki/concepts/longcyclesocialscienceresearch/"
   - key: "LongDistanceTradeFriction"
     title: "Long-Distance Trade Friction"
     url: "/wiki/concepts/longdistancetradefriction/"

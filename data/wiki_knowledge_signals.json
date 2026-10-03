@@ -54477,6 +54477,38 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/doctorpatientcommunication/"
     },
+    "DoctoralStudentIsolationMentalHealth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIUEEY8KfABAAAACln4fb [CKwRIUEEY8KfABAAAACln4fb].md",
+          "key": "ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb",
+          "show": "无时差研究所",
+          "title": "EP170-一个非典型金融女博士的自述",
+          "url": "/wiki/sources/ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/doctoralstudentisolationmentalhealth/"
+    },
+    "DoctoralTrainingCareerAlignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIUEEY8KfABAAAACln4fb [CKwRIUEEY8KfABAAAACln4fb].md",
+          "key": "ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb",
+          "show": "无时差研究所",
+          "title": "EP170-一个非典型金融女博士的自述",
+          "url": "/wiki/sources/ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/doctoraltrainingcareeralignment/"
+    },
     "DocumentaryEthicalRestraint": {
       "episode_count": 1,
       "show_count": 1,
@@ -78836,6 +78868,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/functionalmedicinesystemsmodel/"
+    },
+    "FundManagerWindowDressingAgencyConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIUEEY8KfABAAAACln4fb [CKwRIUEEY8KfABAAAACln4fb].md",
+          "key": "ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb",
+          "show": "无时差研究所",
+          "title": "EP170-一个非典型金融女博士的自述",
+          "url": "/wiki/sources/ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/fundmanagerwindowdressingagencyconflict/"
     },
     "FuneralRitualAccountability": {
       "episode_count": 1,
@@ -110907,6 +110955,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/jingchengwangming/"
     },
+    "JingjingFinancePhD": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIUEEY8KfABAAAACln4fb [CKwRIUEEY8KfABAAAACln4fb].md",
+          "key": "ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb",
+          "show": "无时差研究所",
+          "title": "EP170-一个非典型金融女博士的自述",
+          "url": "/wiki/sources/ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/jingjingfinancephd/"
+    },
     "JingjueKingdom": {
       "episode_count": 2,
       "show_count": 1,
@@ -126864,6 +126928,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/longcoviddifferentialrecovery/"
+    },
+    "LongCycleSocialScienceResearch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIUEEY8KfABAAAACln4fb [CKwRIUEEY8KfABAAAACln4fb].md",
+          "key": "ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb",
+          "show": "无时差研究所",
+          "title": "EP170-一个非典型金融女博士的自述",
+          "url": "/wiki/sources/ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/longcyclesocialscienceresearch/"
     },
     "LongDurationEnduranceStandard": {
       "episode_count": 2,
@@ -218966,9 +219046,9 @@
       "url": "/wiki/entities/wurenzhixiao/"
     },
     "WushichaYanjiusuo": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -219081,6 +219161,13 @@
           "show": "无时差研究所",
           "title": "EP171-疫情下的中美经济政策：发钱刺激消费，一生能遇到几回？",
           "url": "/wiki/sources/ep171-yiqing-xia-de-zhongmei-jingji-zhengce-faqian-ciji-xiaofei-yisheng-neng-yudao-jihui-ckwriueebny5abaaaacoc8to/"
+        },
+        {
+          "episode_file": "CKwRIUEEY8KfABAAAACln4fb [CKwRIUEEY8KfABAAAACln4fb].md",
+          "key": "ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb",
+          "show": "无时差研究所",
+          "title": "EP170-一个非典型金融女博士的自述",
+          "url": "/wiki/sources/ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb/"
         }
       ],
       "updated": "2026-10-03",

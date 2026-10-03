@@ -24031,6 +24031,14 @@
     "title": "Doctor-Patient Communication",
     "url": "/wiki/concepts/doctorpatientcommunication/"
   },
+  "DoctoralStudentIsolationMentalHealth": {
+    "title": "Doctoral Student Isolation and Mental Health / 博士生孤立与心理健康",
+    "url": "/wiki/concepts/doctoralstudentisolationmentalhealth/"
+  },
+  "DoctoralTrainingCareerAlignment": {
+    "title": "Doctoral Training and Career Alignment / 博士培养与职业对齐",
+    "url": "/wiki/concepts/doctoraltrainingcareeralignment/"
+  },
   "DocumentChunking": {
     "title": "Document Chunking",
     "url": "/wiki/concepts/documentchunking/"
@@ -31822,6 +31830,10 @@
   "FundManagerRankingIncentives": {
     "title": "Fund Manager Ranking Incentives / 基金经理排名激励",
     "url": "/wiki/concepts/fundmanagerrankingincentives/"
+  },
+  "FundManagerWindowDressingAgencyConflict": {
+    "title": "Fund Manager Window Dressing and Agency Conflict / 基金经理橱窗粉饰与委托代理冲突",
+    "url": "/wiki/concepts/fundmanagerwindowdressingagencyconflict/"
   },
   "FundRecommendationConflictDisclosure": {
     "title": "Fund Recommendation Conflict Disclosure / 基金推荐利益冲突披露",
@@ -42843,6 +42855,10 @@
     "title": "Beijing-Tianjin Intercity Railway / 京津城际铁路",
     "url": "/wiki/entities/jingjinintercityrailway/"
   },
+  "JingjingFinancePhD": {
+    "title": "靖靖 / Jingjing (finance PhD)",
+    "url": "/wiki/entities/jingjingfinancephd/"
+  },
   "JingjueKingdom": {
     "title": "Jingjue Kingdom / 精绝古国",
     "url": "/wiki/entities/jingjuekingdom/"
@@ -48918,6 +48934,10 @@
   "LongCovidDifferentialRecovery": {
     "title": "Long COVID Differential and Recovery",
     "url": "/wiki/concepts/longcoviddifferentialrecovery/"
+  },
+  "LongCycleSocialScienceResearch": {
+    "title": "Long-Cycle Social-Science Research / 社会科学长周期研究",
+    "url": "/wiki/concepts/longcyclesocialscienceresearch/"
   },
   "LongDistanceTradeFriction": {
     "title": "Long-Distance Trade Friction",
@@ -91654,6 +91674,10 @@
   "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u": {
     "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
     "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
+  },
+  "ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb": {
+    "title": "EP170-一个非典型金融女博士的自述",
+    "url": "/wiki/sources/ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb/"
   },
   "ep171-yiqing-xia-de-zhongmei-jingji-zhengce-faqian-ciji-xiaofei-yisheng-neng-yudao-jihui-ckwriueebny5abaaaacoc8to": {
     "title": "EP171-疫情下的中美经济政策：发钱刺激消费，一生能遇到几回？",

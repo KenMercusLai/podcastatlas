@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2172
+topic_total_pages: 2174
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1390,6 +1390,9 @@ topic_concepts:
   - key: "FundManagerRankingIncentives"
     title: "Fund Manager Ranking Incentives / 基金经理排名激励"
     url: "/wiki/concepts/fundmanagerrankingincentives/"
+  - key: "FundManagerWindowDressingAgencyConflict"
+    title: "Fund Manager Window Dressing and Agency Conflict / 基金经理橱窗粉饰与委托代理冲突"
+    url: "/wiki/concepts/fundmanagerwindowdressingagencyconflict/"
   - key: "FundRecommendationConflictDisclosure"
     title: "Fund Recommendation Conflict Disclosure / 基金推荐利益冲突披露"
     url: "/wiki/concepts/fundrecommendationconflictdisclosure/"
@@ -5639,6 +5642,9 @@ topic_entities:
   - key: "Xueqiu"
     title: "雪球 / Xueqiu"
     url: "/wiki/entities/xueqiu/"
+  - key: "JingjingFinancePhD"
+    title: "靖靖 / Jingjing (finance PhD)"
+    url: "/wiki/entities/jingjingfinancephd/"
   - key: "Mianji"
     title: "面基"
     url: "/wiki/entities/mianji/"
