@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [22. Weird Wars](sources/22-weird-wars-glt2360848948.md) — The Rest Is History countdown on ten unfamiliar conflicts, memorable oddity, historical distance, political myth, and the ethics of keeping suffering visible.
 - [23. The 90s](sources/23-the-90s-glt8035489270.md) — The Rest Is History on recent-history method, 1990s nostalgia, post-Cold War instability, internet transformation, political memory, religion, and Brexit's preconditions.
 - [24. Sex in the City](sources/24-sex-in-the-city-glt9221135938.md) — The Rest Is History with Hallie Rubenhold on sexual-history evidence, prostitution, class, gender, respectability, and Georgian-Victorian continuity and change.
 - [EP160-我在美国自己建房子，美国也有学区房？](sources/ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm.md) — 无时差研究所 with a Phoenix-area homeowner on builder-bounded new construction, mortgage closing, schools, upgrades, DIY, smart-home infrastructure, solar, and post-handover work.
@@ -4007,7 +4008,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anatoly Sobchak](entities/AnatolySobchak.md) — St. Petersburg mayor and constitutional contributor who served as Vladimir Putin's professor, patron, and political superior.
 - [Boris Yeltsin](entities/BorisYeltsin.md) — Post-Soviet Russian president linking rapid market transition, executive concentration, oligarchic power, Chechen war, and Putin's succession.
 - [Yegor Gaidar](entities/YegorGaidar.md) — Russian reformer associated with rapid price liberalization and the social and political backlash to shock therapy.
-- [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian connecting political identity, narrative craft, and consequence to structural persistence, replacement mechanisms, and bounded counterfactuals.
+- [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian connecting political identity, narrative craft, comparative war stories, and consequence to structural persistence and ethical historical entertainment.
 - [Adventures in Time](entities/AdventuresInTime.md) — Dominic Sandbrook’s children’s-history series using narrative momentum, vivid detail, reader testing, and ethical restraint.
 - [Peter Pomerantsev](entities/PeterPomerantsev.md) — Author whose work supplies the episode's framework for managed media, staged opposition, and destabilized political reality.
 - [Ferdinand Maximilian](entities/FerdinandMaximilian.md) — Liberal Habsburg archduke whose foreign-backed Mexican throne ended at Queretaro in 1867.
@@ -4043,7 +4044,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Francis Young](entities/FrancisYoung.md) — Historian distinguishing occult legitimation, advice, propaganda, decision failure, and security response in British politics.
 - [Merlin](entities/Merlin.md) — Legendary British prophet and royal adviser whose political afterlife shaped rebellion, kingship, and later learned self-fashioning.
 - [Helen Duncan](entities/HelenDuncan.md) — Wartime medium whose seances became a possible information-leakage and public-order concern.
-- [Tom Holland](entities/TomHolland.md) — Historian using graduated-confidence reconstruction, moral genealogy, and counterfactual choke points across religion, culture, propaganda, and war.
+- [Tom Holland](entities/TomHolland.md) — Historian using graduated-confidence reconstruction, moral genealogy, cross-regional comparison, and counterfactual choke points across religion, culture, propaganda, and war.
 - [Henry Tricks](entities/HenryTricks.md) — Technology editor framing smart glasses through bystander suspicion, misuse, phone dependence, and their possible role as AI-agent interfaces.
 - [Simon Garfield](entities/SimonGarfield.md) — Author of The Pen, used by the episode to connect writing instruments, material constraints, mass production, and cultural status.
 - [Judean Revolt, 66-73 CE](entities/JudeanRevolt66To73.md) — Divided provincial rebellion whose defeat destroyed Jerusalem's Temple and acquired an exceptional religious and political afterlife.
@@ -8213,7 +8214,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Modern rocket-recovery setting and northwest historical-geography corridor around Longshan, Guanlong roads, and Guanzhong ties.
-- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected abolitionist, African female-power, medieval, Elizabethan, Troubles, national-symbol, sport-politics, Habsburg, Odyssey, Founding Fathers, and Roman Civil War branches.
+- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected narrative branches and comparative formats across war, politics, religion, literature, public memory, and historical entertainment.
 - [Empress Matilda](entities/EmpressMatilda.md) — Twelfth-century claimant whose hereditary and oath-backed legitimacy collided with Stephen's coronation and gendered warrior-kingship expectations.
 - [Henry I of England](entities/HenryIOfEngland.md) — Anglo-Norman king whose own legitimacy tactics and loss of William Atheling created Matilda's succession crisis.
 - [Stephen of Blois](entities/StephenOfBlois.md) — Rival claimant who converted speed, treasury control, coronation, and anointing into practical kingship against Matilda.
@@ -25581,10 +25582,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Persian Garden and Paradise Tradition](concepts/PersianGardenParadiseTradition.md) — Planned, irrigated, walled garden form and Persian-to-Greek vocabulary behind later paradise imagery.
 - [Persianate Administrative Transmission](concepts/PersianateAdministrativeTransmission.md) — Persian bureaucratic language and practice transmitted through Mughal and British Indian administration.
 
-- [Historical Entertainment](concepts/HistoricalEntertainment.md) — Public engagement with the past through pleasurable narrative, performance, play, spectacle, and immersion.
+- [Historical Entertainment](concepts/HistoricalEntertainment.md) — Public engagement with the past through pleasurable narrative, comparison, performance, play, spectacle, and immersion.
 - [Politics of Historical Reenactment](concepts/HistoricalReenactmentPolitics.md) — How embodied performance selects identities, victories, enemies, and inherited worlds with continuing political meaning.
 - [Historical Game Simulation](concepts/HistoricalGameSimulation.md) — Rule-based representation that makes strategic constraints experiential while narrowing causation and possible outcomes.
-- [Ethics of Historical Entertainment](concepts/HistoricalEntertainmentEthics.md) — Case-specific boundary between historical engagement and the concealment or aestheticization of violence and oppression.
+- [Ethics of Historical Entertainment](concepts/HistoricalEntertainmentEthics.md) — Case-specific boundary between engaging historical framing and the concealment or aestheticization of violence, victims, and oppression.
 - [Americanization](concepts/Americanization.md) — Process joining U.S. strategic power, markets, media, language, social categories, and moral frames with attraction, adaptation, and resentment abroad.
 - [Error-Gated Adult Neuroplasticity](concepts/ErrorGatedAdultNeuroplasticity.md) — Adult-learning model linking correctable mismatch, attention, reinforcement, bounded practice, and later consolidation.
 

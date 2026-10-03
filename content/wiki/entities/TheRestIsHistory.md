@@ -38,7 +38,8 @@ sources:
   - 376-baghdad-the-forging-of-islam-part-1-glt9529602805
   - 283-ecuador-darwins-adventure-to-the-galapagos-glt2992613399
   - 273-portugal-the-carnation-revolution-glt3297148398
-last_updated: 2026-09-30
+  - 22-weird-wars-glt2360848948
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -46,9 +47,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including revolution and democratization in [[Portugal]], ancient Greek war memory, science history and [[CharlesDarwin|Darwin]], a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary and legendary afterlives, founding and Roman political-crisis branches, medieval Anglo-French and Chaucer branches, comparative African female power, early Quaker abolitionist activism, postwar Caribbean British migration, and [[LordByron|Lord Byron / 拜伦]]'s celebrity, Gothic, and philhellenic afterlives.
+The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches and comparative formats, including revolution and democratization in [[Portugal]], ancient Greek war memory, science history and [[CharlesDarwin|Darwin]], a 1915 [[FirstWorldWar|First World War]] branch, an obscure-war countdown, national-symbol and sport-politics episodes, literary and legendary afterlives, founding and Roman political-crisis branches, medieval Anglo-French and Chaucer branches, comparative African female power, early Quaker abolitionist activism, postwar Caribbean British migration, and [[LordByron|Lord Byron / 拜伦]]'s celebrity, Gothic, and philhellenic afterlives.
 
 ## Current Profile
+
+The weird-wars countdown adds a compressed comparative branch. [[22-weird-wars-glt2360848948]] moves across ten conflicts using sacred poisoning, religious community, diplomatic neglect, a severed ear, global trade rivalry, population catastrophe, machine guns against emus, and railway warfare as retrieval hooks. Its organizing judgment is that “weirdness” often comes from unfamiliarity and later memory rather than the conflict itself; repeated returns to mass suffering keep [[HistoricalEntertainment]] tied to [[HistoricalEntertainmentEthics]].
 
 The Portugal branch distinguishes a swift, symbolically peaceful coup from the unstable transition it opened. [[273-portugal-the-carnation-revolution-glt3297148398]] connects [[EstadoNovoPortugal|Estado Novo]] rigidity, [[PortugueseColonialWars|colonial war]], and officer grievance to the [[CarnationRevolution]], then follows competing military, communist, conservative, and moderate projects until the November 1975 turn and electoral consolidation.
 
@@ -78,7 +81,7 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 
 ## Key Characteristics
 
-- The show is used as a source of chronological narrative history with emphasis on decisions, evidence chains, symbols, inherited constraints, and contingency, from Portugal's contested post-coup settlement and Darwin's delayed interpretation to Marathon, the 1915 war branch, and late Umayyad prehistory of Abbasid Baghdad.
+- The show is used for both chronological narrative and rapid comparison, with emphasis on decisions, evidence chains, symbols, inherited constraints, contingency, and the way memorable framing can reveal or conceal human cost.
 - Its abolitionist branch uses Benjamin Lay to connect Quaker equality, plantation slavery, ethical consumption, public stunts, and institutional discipline.
 - Its African female-power branch treats women rulers, queen mothers, and warriors as institutional cases while preserving slavery, coercion, and source-bias qualifications.
 - Its medieval branches treat the Hundred Years' War as a multi-causal origin problem and Chaucer's writing as qualified evidence for post-plague social and linguistic change.
@@ -87,6 +90,8 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 - Its Homeric, Mayerling, Founding Fathers, Roman Civil War, and Byron branches use literature, scandal, biography, celebrity, and military or political careers to expose institutional crisis and public authority while preserving uncertainty about motives and impact.
 
 ## Evidence
+
+- Comparative obscure-war branch: [[22-weird-wars-glt2360848948]] compares ten conflicts across periods and regions, using vivid anomalies to create attention while treating Canudos, the Triple Alliance, and the Russian Civil War as warnings against confusing obscurity with triviality.
 
 - Portugal revolution branch: [[273-portugal-the-carnation-revolution-glt3297148398]] links colonial-war and officer pressures to the April coup, then follows nationalization, land occupation, decolonization, regional backlash, Cold War anxiety, and the moderate military turn.
 
@@ -118,14 +123,17 @@ The Byron branch now begins with family mythology, childhood adversity, educatio
 
 This page summarizes only the episodes currently listed in its evidence inventory. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The early Islamic branch's claims about Jewish and Zoroastrian influence, conversion policy, chronology, and religious practice remain source-scoped rather than settled by comparison alone. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition. The Byron inventory covers three installments rather than a complete life or literary study. The Chaucer branch uses fictional characters as suggestive rather than representative evidence, and its Cecily Champagne, plague-season, women's-autonomy, and dialect-influence claims remain source-scoped. The Windrush branch relies on one interview-led interpretation; passenger totals, demographic comparisons, church attendance, the warship claim, and international mixed-heritage comparisons remain source-scoped.
 
-The Darwin branch is an accessible outline rather than a specialist history of biology: specimen counts, taxonomy, exact wording, and the causal weight of individual Galapagos observations remain source-scoped. The Portugal branch is likewise a brisk metropolitan political narrative; its colonial-war budget figure, foreign-intervention claims, personality anecdotes, and limited treatment of African decolonization require fuller specialist sourcing.
+The Darwin branch is an accessible outline rather than a specialist history of biology: specimen counts, taxonomy, exact wording, and the causal weight of individual Galapagos observations remain source-scoped. The Portugal branch is likewise a brisk metropolitan political narrative; its colonial-war budget figure, foreign-intervention claims, personality anecdotes, and limited treatment of African decolonization require fuller specialist sourcing. The weird-wars branch gives each conflict only a short treatment; its dates, casualty totals, poisoning story, strategic explanations, and labels such as “first world war” remain comparative prompts rather than comprehensive findings.
 
 ## What Changed
 
-- Added a modern Portuguese branch linking authoritarian rigidity and colonial war to coup, revolutionary uncertainty, and democratic consolidation.
-- Distinguished the Carnation Revolution's peaceful iconography from the conflictual process that followed it.
+- Added a comparative obscure-war branch centered on historical distance, memorable hooks, and neglected human cost.
+- Made the relationship between entertaining formats and ethical correction explicit in the show's profile.
 
 ## Relationships
+
+- [[HistoricalEntertainment]] - format-level framework for the show's countdown, surprise, narrative hooks, and participatory devices.
+- [[HistoricalEntertainmentEthics]] - boundary requiring suffering, coercion, and victims to remain visible within pleasurable history.
 
 - [[CarnationRevolution]] - peaceful-symbol coup whose uncertain aftermath opens the show's modern Portugal branch.
 - [[PortugueseRevolutionaryProcess]] - contested transition used to distinguish regime collapse from democratic consolidation.

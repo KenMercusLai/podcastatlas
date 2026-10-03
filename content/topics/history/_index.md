@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2517
+topic_total_pages: 2518
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5328,6 +5328,9 @@ topic_sources:
   - key: "219-justinian-making-rome-great-again-part-2-glt2369595847"
     title: "219. Justinian: Making Rome Great Again (Part 2)"
     url: "/wiki/sources/219-justinian-making-rome-great-again-part-2-glt2369595847/"
+  - key: "22-weird-wars-glt2360848948"
+    title: "22. Weird Wars"
+    url: "/wiki/sources/22-weird-wars-glt2360848948/"
   - key: "220-justinian-theodora-the-secret-history-part-3-glt6795699757"
     title: "220. Justinian & Theodora: The Secret History (Part 3)"
     url: "/wiki/sources/220-justinian-theodora-the-secret-history-part-3-glt6795699757/"

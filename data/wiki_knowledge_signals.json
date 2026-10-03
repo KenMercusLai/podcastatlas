@@ -55617,9 +55617,9 @@
       "url": "/wiki/entities/dominicmiarten/"
     },
     "DominicSandbrook": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT4575290976 [GLT4575290976].md",
@@ -55655,6 +55655,13 @@
           "show": "The Rest Is History",
           "title": "32. What if?",
           "url": "/wiki/sources/32-what-if-glt7767131043/"
+        },
+        {
+          "episode_file": "GLT2360848948 [GLT2360848948].md",
+          "key": "22-weird-wars-glt2360848948",
+          "show": "The Rest Is History",
+          "title": "22. Weird Wars",
+          "url": "/wiki/sources/22-weird-wars-glt2360848948/"
         }
       ],
       "updated": "2026-10-04",
@@ -95881,9 +95888,9 @@
       "url": "/wiki/concepts/historicalcritiquetolerance/"
     },
     "HistoricalEntertainment": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9519276470 [GLT9519276470].md",
@@ -95905,15 +95912,22 @@
           "show": "The Rest Is History",
           "title": "35. The Prime Ministers’ World Cup",
           "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
+        },
+        {
+          "episode_file": "GLT2360848948 [GLT2360848948].md",
+          "key": "22-weird-wars-glt2360848948",
+          "show": "The Rest Is History",
+          "title": "22. Weird Wars",
+          "url": "/wiki/sources/22-weird-wars-glt2360848948/"
         }
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/historicalentertainment/"
     },
     "HistoricalEntertainmentEthics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9519276470 [GLT9519276470].md",
@@ -95921,9 +95935,16 @@
           "show": "The Rest Is History",
           "title": "40. History as Entertainment",
           "url": "/wiki/sources/40-history-as-entertainment-glt9519276470/"
+        },
+        {
+          "episode_file": "GLT2360848948 [GLT2360848948].md",
+          "key": "22-weird-wars-glt2360848948",
+          "show": "The Rest Is History",
+          "title": "22. Weird Wars",
+          "url": "/wiki/sources/22-weird-wars-glt2360848948/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/historicalentertainmentethics/"
     },
     "HistoricalFantasySourceLayering": {
@@ -203675,9 +203696,9 @@
       "url": "/wiki/entities/theprincipleofresponsibility/"
     },
     "TheRestIsHistory": {
-      "episode_count": 35,
+      "episode_count": 36,
       "show_count": 1,
-      "source_note_count": 35,
+      "source_note_count": 36,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -203923,9 +203944,16 @@
           "show": "The Rest Is History",
           "title": "273: Portugal: The Carnation Revolution",
           "url": "/wiki/sources/273-portugal-the-carnation-revolution-glt3297148398/"
+        },
+        {
+          "episode_file": "GLT2360848948 [GLT2360848948].md",
+          "key": "22-weird-wars-glt2360848948",
+          "show": "The Rest Is History",
+          "title": "22. Weird Wars",
+          "url": "/wiki/sources/22-weird-wars-glt2360848948/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheRollingStones": {
@@ -206669,9 +206697,9 @@
       "url": "/wiki/entities/tomhanks/"
     },
     "TomHolland": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT5186420966 [GLT5186420966].md",
@@ -206714,6 +206742,13 @@
           "show": "The Rest Is History",
           "title": "32. What if?",
           "url": "/wiki/sources/32-what-if-glt7767131043/"
+        },
+        {
+          "episode_file": "GLT2360848948 [GLT2360848948].md",
+          "key": "22-weird-wars-glt2360848948",
+          "show": "The Rest Is History",
+          "title": "22. Weird Wars",
+          "url": "/wiki/sources/22-weird-wars-glt2360848948/"
         }
       ],
       "updated": "2026-10-04",

@@ -9,6 +9,7 @@ sources:
   - 60-muhammad-glt7621065751
   - 46-culture-wars-glt4237848862
   - 32-what-if-glt7767131043
+  - 22-weird-wars-glt2360848948
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -31,12 +32,14 @@ The Muhammad episode also makes his standpoint explicit: secular non-belief is n
 
 The counterfactual episode adds a complementary causal method. Holland accepts structural constraints but gives greater weight than Sandbrook to epochal individuals and rare choke points, using Athenian survival, Jesus, Muhammad, dynastic succession, and May 1940 to argue that some outcomes depend on people or decisions that have no straightforward substitute. He also insists that technological alternatives retain their enabling cultural and economic setting.
 
+The weird-wars countdown adds a compact comparative mode. [[22-weird-wars-glt2360848948]] moves from sacred poisoning and Al-Kahina's mutable afterlife to a global Dutch-Portuguese conflict and the Emu War. Holland uses unfamiliarity, symbolic reuse, and absurd detail to create attention, while the episode's repeated suffering caveat keeps comic framing from becoming its final judgment.
+
 ## Key Characteristics
 
 - Uses graduated confidence to separate historical cores from later sacred or narrative detail.
 - Reconstructs religious origins through textual, external, material, geographic, and contextual evidence.
 - Advances broad Christian moral-genealogy arguments about victimhood, progress, and culture war while exposing them to source-scope qualification.
-- Uses ancient analogy to illuminate modern propaganda and power while preserving differences between cases.
+- Uses ancient and cross-regional comparison to illuminate propaganda, power, memory, and narrative oddity while preserving differences between cases.
 - Revises civilizational binaries toward global, late-antique, and cross-tradition contexts.
 - Centers moral and reputational self-undermining alongside battlefield and institutional consequences.
 - Makes the historian's own secular standpoint part of the methodological problem.
@@ -49,18 +52,16 @@ The counterfactual episode adds a complementary causal method. Holland accepts s
 - **Global conflict and overreach:** [[95-9-11-glt8208243510]] reframes 9/11 through rival universalism, reputational damage, and American overreach.
 - **Culture war and moral inheritance:** [[46-culture-wars-glt4237848862]] links the Altar of Victory, progress, civil rights, sexuality, statues, and universalism to a contested post-Christian genealogy.
 - **Agency, contingency, and technological context:** [[32-what-if-glt7767131043]] uses Athens, religious founders, May 1940, Rome, and industrialization to identify possible choke points while rejecting context-free invention transfer.
+- **Comparative war, memory, and entertainment:** [[22-weird-wars-glt2360848948]] links the First Sacred War, Al-Kahina, the Dutch-Portuguese War, and the Emu War to sacred authority, symbolic reuse, global scale, and the ethics of comic framing.
 
 ## Qualifications
 
-This profile is bounded to six episodes and does not summarize Holland's full scholarship or bibliography. His Christian moral genealogy, Palestine reconstruction, northern Qur'anic geography, Abd al-Malik comparison, Augustan analogy, rival-universalist frame, China-beneficiary claim, epochal-individual judgments, and choke-point counterfactuals are interpretations rather than settled consensus. His narrow culture-war definition clarifies a specific modern genealogy but may understate comparable non-Christian or premodern conflicts. Explicit reflexivity about non-belief improves transparency but does not itself validate a reconstruction.
+This profile is bounded to seven episodes and does not summarize Holland's full scholarship or bibliography. His Christian moral genealogy, Palestine reconstruction, northern Qur'anic geography, Abd al-Malik comparison, Augustan analogy, rival-universalist frame, China-beneficiary claim, epochal-individual judgments, choke-point counterfactuals, poisoning narrative, and “first world war” comparison are interpretations rather than settled consensus. His narrow culture-war definition clarifies a specific modern genealogy but may understate comparable non-Christian or premodern conflicts. Explicit reflexivity about non-belief improves transparency but does not itself validate a reconstruction, and a countdown cannot substitute for specialist histories of its ten conflicts.
 
 ## What Changed
 
-- Added early Islam as a major case of Holland's graduated-confidence historical method.
-- Made standpoint reflexivity and provisional model-building explicit features of his profile.
-- Added his contested Palestine and Abd al-Malik arguments without converting them into consensus claims.
-- Added his culture-war definition as post-Christian theological conflict structured by progress and moral inheritance.
-- Added his stronger account of irreplaceable individuals, rare choke points, and context-bound technological development.
+- Added rapid cross-regional war comparison as a mode joining sacred authority, memory, global scale, and comic incongruity.
+- Added explicit ethical qualification of entertaining war stories through repeated return to human suffering.
 
 ## Relationships
 
@@ -75,3 +76,5 @@ This profile is bounded to six episodes and does not summarize Holland's full sc
 - [[CultureWarHistoricalGenealogy]] - framework organizing his narrower post-Christian definition and Sandbrook's broader continuity claim.
 - [[HistoricalCounterfactualReasoning]] - method through which he tests contingency and plausible divergence.
 - [[HistoricalStructureAgencyCausation]] - framework capturing his stronger emphasis on epochal individuals inside structural conditions.
+- [[HistoricalEntertainment]] - framework for his use of comparison, surprise, and memorable anomalies.
+- [[HistoricalEntertainmentEthics]] - boundary preserving suffering and moral consequence within comic historical framing.

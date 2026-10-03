@@ -28956,3 +28956,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 22. Weird Wars
+
+Added source `22-weird-wars-glt2360848948`; resynthesized [[TheRestIsHistory]], [[TomHolland]], [[DominicSandbrook]], [[HistoricalEntertainment]], and [[HistoricalEntertainmentEthics]] from their complete preserved evidence inventories. Core synthesis: wars often look “weird” because historical distance, selective memory, comic names, and vivid anecdotes displace structural causes, while responsible entertainment must restore victims, scale, and consequences. No settled contradiction was adopted. Dates, casualty estimates, poisoning stories, strategic explanations, symbolic afterlives, and the Dutch-Portuguese “first world war” label remain source-scoped; the episode's brief Abyssinian treatment does not override the fuller existing branch. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,619-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
