@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Understanding & Healing the Mind | Dr. Karl Deisseroth](sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008.md) — Full Huberman Lab interview on psychiatric measurement, optogenetics, CLARITY, stimulation precision, dissociation circuits, psychedelics, MDMA, and qualified scientific optimism.
 - [Trump's Superintelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions](sources/all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm.md) — All-In on the White House superintelligence accord, audit and board accountability, strategic compute, macro data versus voter experience, midterm forecasts, and breaking-news framing.
 - [68. The British Empire](sources/68-the-british-empire-glt6076978409.md) — The Rest Is History with Satnam Sanghera on imperial complexity, race, Sikh identity, education, exceptionalism, and post-imperial legacies.
 - [69. England v Ukraine](sources/69-england-v-ukraine-glt5469973001.md) — The Rest Is History on Rus-Byzantine links, Crimea, the Crimean War, Welsh Huzovka, Gareth Jones, the Holodomor, heroic failure, and football.
@@ -3601,6 +3602,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [CLARITY](entities/CLARITY.md) — Hydrogel-based tissue-clearing and mapping technology that preserves selected molecular and cellular structure in transparent intact tissue.
 - [White House Accord on Superintelligence](entities/WhiteHouseSuperintelligenceAccord.md) — Voluntary frontier-AI governance initiative reportedly joining internal controls, external audits, board oversight, and possible existing-law consequences for public commitments.
 - [Satnam Sanghera](entities/SatnamSanghera.md) — British Sikh writer using accessible public history to connect empire with race, identity, institutions, and contemporary politics.
 - [Empireland](entities/Empireland.md) — Sanghera's public-history book on the British Empire's continuing presence in modern Britain.
@@ -5039,8 +5041,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cossack Hetmanate / 哥萨克酋长国](entities/CossackHetmanate.md) — Frontier military polity whose constrained autonomy and divided allegiance are exposed by Mazepa's defection.
 - [Battle of Lesnaya / 列斯纳亚战役](entities/BattleOfLesnaya.md) — 1708 logistical turning point where Russia destroys Lewenhaupt's delayed Swedish relief column and supplies.
 - [Baturin / 巴图林](entities/Baturin.md) — Cossack capital and intended Swedish base destroyed in a Russian assault combining supply denial and political deterrence.
-- [Karl Deisseroth](entities/KarlDeisseroth.md) — Psychiatrist and neuroscientist connecting interview-based care to cells, circuits, optogenetics, stimulation technologies, and rigorous hope.
-- [Projections](entities/ProjectionsBook.md) — Deisseroth's book joining psychiatric cases, neuroscience, accessibility, evidential restraint, and qualified optimism.
+- [Karl Deisseroth](entities/KarlDeisseroth.md) — Psychiatrist and neuroscientist connecting clinical observation to causal circuit testing, structural mapping, stimulation technologies, and rigorous hope.
+- [Projections](entities/ProjectionsBook.md) — Deisseroth's book joining psychiatric cases, neuroscience, literary attention, accessibility, evidential restraint, and qualified optimism.
 - [Charles XII / 卡尔十二世](entities/CharlesXII.md) — Swedish warrior king whose tactical confidence survives supply collapse, the failed Ukrainian gamble, Poltava, and years of continued war.
 - [Battle of Poltava / 波尔塔瓦战役](entities/BattleOfPoltava.md) — 1709 battle where accumulated Swedish logistical attrition and command failure meet Russia's fortified, artillery-backed army.
 - [Great Northern War / 大北方战争](entities/GreatNorthernWar.md) — 1700-1721 coalition war linking Swedish invasion, Ukrainian alignment, Poltava, and the transfer of Baltic primacy to Russia.
@@ -15784,6 +15786,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Optogenetics](concepts/Optogenetics.md) — Causal research method using genetically delivered light-sensitive proteins to control selected cells and test circuit function.
+- [Dissociation Circuit Inference](concepts/DissociationCircuitInference.md) — Cross-species evidence ladder connecting subjective dissociation, activity patterns, homologous regions, and causal animal intervention.
 - [AI Accountability Audit Chain](concepts/AIAccountabilityAuditChain.md) — Governance sequence linking internal controls, independent auditors, board oversight, public representations, and possible existing-law enforcement.
 - [Strategic Compute Capacity](concepts/StrategicComputeCapacity.md) — National capacity to supply, secure, allocate, and operate the chips, power, data centers, networks, and defensive systems required for AI.
 - [Breaking-News Framing Under Uncertainty](concepts/BreakingNewsFramingUnderUncertainty.md) — Editorial balance between verification caution, descriptive clarity, explicit attribution, and timely correction during developing events.
@@ -17212,8 +17216,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Home Blood Pressure Measurement / 家庭血压测量](concepts/HomeBloodPressureMeasurement.md) — Standardized out-of-clinic monitoring using an appropriate device, cuff, posture, rest period, and repeat schedule.
 - [Antihypertensive Medication Adherence / 降压药依从性](concepts/AntihypertensiveMedicationAdherence.md) — Consistent clinician-guided dosing, response monitoring, adverse-effect review, and avoidance of unilateral stopping.
 - [Hypertension Target-Organ Damage / 高血压靶器官损害](concepts/HypertensionTargetOrganDamage.md) — Cumulative brain, eye, heart, kidney, peripheral-artery, and aortic injury associated with sustained or unstable high blood pressure.
-- [Psychiatry Measurement Gap](concepts/PsychiatryMeasurementGap.md) — Mismatch between physically grounded mental illness and routine assessment that still relies heavily on interviews, behavior, scales, and functional evidence.
-- [Selective Neural Stimulation Precision](concepts/SelectiveNeuralStimulationPrecision.md) — Requirement to control the relevant cell type, projection, circuit, and activity pattern rather than broadly stimulating nearby excitable tissue.
+- [Psychiatry Measurement Gap](concepts/PsychiatryMeasurementGap.md) — Mismatch between physically grounded mental illness and assessment that still relies on interviews and behavior, with emerging biomarkers and passive sensing limited by validation and privacy.
+- [Selective Neural Stimulation Precision](concepts/SelectiveNeuralStimulationPrecision.md) — Requirement to know and control the relevant cell type, projection, circuit, and pattern, whether for direct stimulation or causal target discovery.
 - [Psychiatric Stigma and Treatment Delay](concepts/PsychiatricStigmaTreatmentDelay.md) — Pathway by which shame and handle-it-alone beliefs postpone care and can allow distress or impairment to deepen.
 - [Therapeutic State Learning](concepts/TherapeuticStateLearning.md) — Hypothesis that altered or relational experiences matter when their learning transfers into later ordinary life.
 - [Stand-up Comedy Iteration](concepts/StandupComedyIteration.md) — Live process of turning captured premises into working material through testing, revision, sequencing, and retirement.

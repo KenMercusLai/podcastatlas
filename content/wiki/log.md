@@ -28324,3 +28324,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligenc
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | Understanding & Healing the Mind | Dr. Karl Deisseroth
+
+Added source `understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008`; created `Optogenetics`, `CLARITY`, and `DissociationCircuitInference`; and resynthesized `KarlDeisseroth`, `ProjectionsBook`, `PsychiatryMeasurementGap`, and `SelectiveNeuralStimulationPrecision` from their complete preserved evidence inventories. Core synthesis: optogenetics is most immediately valuable as a causal circuit-discovery platform, CLARITY supplies complementary structural mapping, and cross-species dissociation work illustrates how subjective report, rhythms, anatomical homology, and selective intervention can converge without making animal states identical to human experience. No settled contradiction was adopted. EEG biomarkers, passive behavioral sensing, optogenetic psychiatric care, brain-machine interfaces, dissociation translation, psychedelic mechanisms, and MDMA learning remain emerging, privacy-sensitive, animal-model, or source-scoped. The full episode substantially overlaps its later Essentials edit but contributes additional methodological detail. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,540-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

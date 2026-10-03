@@ -13751,6 +13751,10 @@
     "title": "CJ Finn",
     "url": "/wiki/entities/cjfinn/"
   },
+  "CLARITY": {
+    "title": "CLARITY",
+    "url": "/wiki/entities/clarity/"
+  },
   "CLRJames": {
     "title": "C. L. R. James",
     "url": "/wiki/entities/clrjames/"
@@ -23782,6 +23786,10 @@
   "DissentSpaceCompression": {
     "title": "Dissent Space Compression",
     "url": "/wiki/concepts/dissentspacecompression/"
+  },
+  "DissociationCircuitInference": {
+    "title": "Dissociation Circuit Inference",
+    "url": "/wiki/concepts/dissociationcircuitinference/"
   },
   "DistantStateAppeasementTrap": {
     "title": "Distant-State Appeasement Trap / 远国安抚误读",
@@ -58086,6 +58094,10 @@
   "OptionSellingDiscipline": {
     "title": "Option Selling Discipline",
     "url": "/wiki/concepts/optionsellingdiscipline/"
+  },
+  "Optogenetics": {
+    "title": "Optogenetics",
+    "url": "/wiki/concepts/optogenetics/"
   },
   "Oracle": {
     "title": "Oracle",
@@ -94746,6 +94758,10 @@
   "understanding-controlling-aggression-scim4257261370": {
     "title": "Understanding & Controlling Aggression",
     "url": "/wiki/sources/understanding-controlling-aggression-scim4257261370/"
+  },
+  "understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008": {
+    "title": "Understanding & Healing the Mind | Dr. Karl Deisseroth",
+    "url": "/wiki/sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008/"
   },
   "understanding-treating-addiction-dr-anna-lembke-scim9435481929": {
     "title": "Understanding & Treating Addiction | Dr. Anna Lembke",

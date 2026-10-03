@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9438
+wiki_total_pages: 9440
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -908,6 +908,9 @@ wiki_pages:
   - key: "DissentSpaceCompression"
     title: "Dissent Space Compression"
     url: "/wiki/concepts/dissentspacecompression/"
+  - key: "DissociationCircuitInference"
+    title: "Dissociation Circuit Inference"
+    url: "/wiki/concepts/dissociationcircuitinference/"
   - key: "DistantStateAppeasementTrap"
     title: "Distant-State Appeasement Trap / 远国安抚误读"
     url: "/wiki/concepts/distantstateappeasementtrap/"

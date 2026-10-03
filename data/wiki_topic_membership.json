@@ -18135,6 +18135,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "CLARITY": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CNN": [
     {
       "key": "culture",
@@ -27673,6 +27685,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "DissociationCircuitInference": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "DistantStateAppeasementTrap": [
@@ -60138,6 +60157,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "Optogenetics": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "Oracle": [
@@ -98881,6 +98907,13 @@
     }
   ],
   "understanding-controlling-aggression-scim4257261370": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008": [
     {
       "key": "science",
       "label": "Science",

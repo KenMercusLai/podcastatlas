@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1429
+topic_total_pages: 1433
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -583,6 +583,9 @@ topic_concepts:
   - key: "DiscoveryModel"
     title: "Discovery Model"
     url: "/wiki/concepts/discoverymodel/"
+  - key: "DissociationCircuitInference"
+    title: "Dissociation Circuit Inference"
+    url: "/wiki/concepts/dissociationcircuitinference/"
   - key: "DistributedNeuralRepresentation"
     title: "Distributed Neural Representation"
     url: "/wiki/concepts/distributedneuralrepresentation/"
@@ -1543,6 +1546,9 @@ topic_concepts:
   - key: "OptimismGap"
     title: "Optimism Gap"
     url: "/wiki/concepts/optimismgap/"
+  - key: "Optogenetics"
+    title: "Optogenetics"
+    url: "/wiki/concepts/optogenetics/"
   - key: "OrbitalComputeGovernance"
     title: "Orbital Compute Governance"
     url: "/wiki/concepts/orbitalcomputegovernance/"
@@ -2591,6 +2597,9 @@ topic_entities:
   - key: "ChristiaanHuygens"
     title: "Christiaan Huygens / 惠更斯"
     url: "/wiki/entities/christiaanhuygens/"
+  - key: "CLARITY"
+    title: "CLARITY"
+    url: "/wiki/entities/clarity/"
   - key: "ColumbiaUniversity"
     title: "Columbia University"
     url: "/wiki/entities/columbiauniversity/"
@@ -4191,6 +4200,9 @@ topic_sources:
   - key: "understanding-controlling-aggression-scim4257261370"
     title: "Understanding & Controlling Aggression"
     url: "/wiki/sources/understanding-controlling-aggression-scim4257261370/"
+  - key: "understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008"
+    title: "Understanding & Healing the Mind | Dr. Karl Deisseroth"
+    url: "/wiki/sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008/"
   - key: "scim4448895120-scim4448895120"
     title: "Understanding Your Brain's Logic & Function | Dr. David Berson"
     url: "/wiki/sources/scim4448895120-scim4448895120/"

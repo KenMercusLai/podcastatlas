@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9438
+wiki_total_pages: 9440
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "OptionSellingDiscipline"
     title: "Option Selling Discipline"
     url: "/wiki/concepts/optionsellingdiscipline/"
+  - key: "Optogenetics"
+    title: "Optogenetics"
+    url: "/wiki/concepts/optogenetics/"
   - key: "OracleBoneDivination"
     title: "Oracle-Bone Divination / 甲骨占卜"
     url: "/wiki/concepts/oraclebonedivination/"

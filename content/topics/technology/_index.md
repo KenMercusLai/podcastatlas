@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3278
+topic_total_pages: 3279
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5201,6 +5201,9 @@ topic_entities:
   - key: "Claimy"
     title: "Claimy"
     url: "/wiki/entities/claimy/"
+  - key: "CLARITY"
+    title: "CLARITY"
+    url: "/wiki/entities/clarity/"
   - key: "ClarkCreo"
     title: "Clark (Creo)"
     url: "/wiki/entities/clarkcreo/"

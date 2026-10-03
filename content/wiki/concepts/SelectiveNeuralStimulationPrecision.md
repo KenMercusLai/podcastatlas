@@ -5,7 +5,8 @@ tags: [neuroscience, optogenetics, neuromodulation, psychiatry]
 sources:
   - essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631
   - how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780
-last_updated: 2026-09-26
+  - understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,16 +20,18 @@ The episode develops this idea through vagus nerve stimulation. The vagus is an 
 
 [[KarlDeisseroth]] presents optogenetics as a conditional precision solution: light-sensitive control could, in principle, select a cell type and projection. The condition is decisive, however—researchers must first know which elements and pattern to target.
 
+The full [[understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008]] interview sharpens the translational route. [[Optogenetics]] can test causal circuits, loss of function, synthetic perception, and candidate disease-related states, but its most practical psychiatric contribution may be the discovery of targets for medication or another less invasive treatment. Nominally precise control is therefore an experimental means, not evidence that direct optogenetic psychiatric care is ready.
+
 [[EJChichilnisky]] supplies a second circuit example through the retina. A useful [[CellTypeAwareRetinalProsthesis]] must distinguish ganglion-cell types, locate them in an individual's retina, calibrate each electrode-cell relationship, and reproduce coordinated patterns derived from [[RetinalNeuralCoding]]. Across both sources, precision is therefore not only a hardware property; it depends on biological understanding, local calibration, and an explicit target pattern.
 
 ## Key Claims
 - Electrical stimulation can affect many nearby excitable cells and projections at once.
 - Off-target voice, swallowing, speaking, and breathing effects can cap vagus-stimulation intensity.
-- Clinical adjustment already allows frequency and intensity to be tuned over time.
+- Clinical adjustment can tune frequency and intensity, but immediate device control does not imply an immediate or predictable mood response.
 - Optogenetics could in principle select particular cells or projections more precisely than electricity.
 - Selectivity is useful only when the relevant biological target and activity pattern are known.
-- Immediate device control does not imply immediate or predictable mood response.
 - Retinal prostheses add individualized cell recognition and calibration to the precision requirement.
+- Causal target discovery can improve conventional treatment even when the discovery tool is not itself deployed clinically.
 
 ## Evidence
 - Vagus access and pathway - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] describes the nerve as an accessible brain-body route reaching the solitary tract nucleus near major neuromodulatory systems.
@@ -37,13 +40,14 @@ The episode develops this idea through vagus nerve stimulation. The vagus is an 
 - Delayed clinical feedback - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] describes adjustment during a visit followed by later assessment of mood change.
 - Retinal cell-type targeting - [[how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780]] argues that useful vision restoration requires identifying and separately coordinating functionally different ganglion-cell types.
 - Local calibration - [[how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780]] describes recording, stimulation-and-recording calibration, and desired-pattern stimulation as distinct device steps.
+- Indirect clinical route - [[understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008]] frames optogenetics primarily as a way to identify causal targets that could guide medication or other treatments.
 
 ## Counterevidence & Qualifications
 The sources do not establish optogenetics as a current human psychiatric treatment, prove the mechanism of vagus-related mood benefit, or demonstrate a high-fidelity retinal prosthesis. Electrical spread, stable identification, calibration, coding accuracy, biological variability, and downstream interpretation remain intervention-specific constraints. Selectivity is a research direction whose bottleneck is target knowledge as much as device capability.
 
 ## What Changed
 - Extended the framework from vagus stimulation and optogenetics to individualized, cell-type-aware retinal stimulation.
-- Added local calibration and coordinated target patterns as requirements beyond nominal electrode precision.
+- Clarified that causal discovery can be clinically useful even when the selective research tool is not the delivered treatment.
 
 ## Related Concepts
 - [[CircuitBasedPsychiatry]] - broader framework defining the target-discovery problem.
@@ -53,3 +57,4 @@ The sources do not establish optogenetics as a current human psychiatric treatme
 - [[MedicalRiskManagement]] - safety framework for dose limits and invasive intervention.
 - [[RetinalNeuralCoding]] - retinal example showing why target identity and code matter.
 - [[CellTypeAwareRetinalProsthesis]] - proposed implant architecture applying the precision requirement.
+- [[Optogenetics]] - causal research method that makes conditional cellular and projection selectivity explicit.

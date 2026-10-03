@@ -27414,6 +27414,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/ciaintelligencecovertactiontension/"
     },
+    "CLARITY": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1806352008 [SCIM1806352008].md",
+          "key": "understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008",
+          "show": "Huberman Lab",
+          "title": "Understanding & Healing the Mind | Dr. Karl Deisseroth",
+          "url": "/wiki/sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/clarity/"
+    },
     "CLRJames": {
       "episode_count": 1,
       "show_count": 1,
@@ -53633,6 +53649,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/dispersedbusinesselitepower/"
+    },
+    "DissociationCircuitInference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1806352008 [SCIM1806352008].md",
+          "key": "understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008",
+          "show": "Huberman Lab",
+          "title": "Understanding & Healing the Mind | Dr. Karl Deisseroth",
+          "url": "/wiki/sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/dissociationcircuitinference/"
     },
     "DistributedComplicityUnderAuthoritarianism": {
       "episode_count": 3,
@@ -112971,9 +113003,9 @@
       "url": "/wiki/entities/karissabodnar/"
     },
     "KarlDeisseroth": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2644851631 [SCIM2644851631].md",
@@ -112981,9 +113013,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth",
           "url": "/wiki/sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631/"
+        },
+        {
+          "episode_file": "SCIM1806352008 [SCIM1806352008].md",
+          "key": "understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008",
+          "show": "Huberman Lab",
+          "title": "Understanding & Healing the Mind | Dr. Karl Deisseroth",
+          "url": "/wiki/sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/karldeisseroth/"
     },
     "KarlI": {
@@ -150136,6 +150175,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/optinworkplacehealthmonitoring/"
     },
+    "Optogenetics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1806352008 [SCIM1806352008].md",
+          "key": "understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008",
+          "show": "Huberman Lab",
+          "title": "Understanding & Healing the Mind | Dr. Karl Deisseroth",
+          "url": "/wiki/sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/optogenetics/"
+    },
     "OralAirwayDevelopment": {
       "episode_count": 2,
       "show_count": 2,
@@ -163405,9 +163460,9 @@
       "url": "/wiki/entities/projectglasswing/"
     },
     "ProjectionsBook": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2644851631 [SCIM2644851631].md",
@@ -163415,9 +163470,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth",
           "url": "/wiki/sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631/"
+        },
+        {
+          "episode_file": "SCIM1806352008 [SCIM1806352008].md",
+          "key": "understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008",
+          "show": "Huberman Lab",
+          "title": "Understanding & Healing the Mind | Dr. Karl Deisseroth",
+          "url": "/wiki/sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/projectionsbook/"
     },
     "ProlactinDopaminePituitaryInterpretation": {
@@ -164353,9 +164415,9 @@
       "url": "/wiki/concepts/psychiatricstigmatreatmentdelay/"
     },
     "PsychiatryMeasurementGap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2644851631 [SCIM2644851631].md",
@@ -164363,9 +164425,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth",
           "url": "/wiki/sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631/"
+        },
+        {
+          "episode_file": "SCIM1806352008 [SCIM1806352008].md",
+          "key": "understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008",
+          "show": "Huberman Lab",
+          "title": "Understanding & Healing the Mind | Dr. Karl Deisseroth",
+          "url": "/wiki/sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/psychiatrymeasurementgap/"
     },
     "PsychiatryPsychotherapyCollaboration": {
@@ -179426,9 +179495,9 @@
       "url": "/wiki/concepts/selectiveauditoryattention/"
     },
     "SelectiveNeuralStimulationPrecision": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2644851631 [SCIM2644851631].md",
@@ -179443,9 +179512,16 @@
           "show": "Huberman Lab",
           "title": "How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky",
           "url": "/wiki/sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780/"
+        },
+        {
+          "episode_file": "SCIM1806352008 [SCIM1806352008].md",
+          "key": "understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008",
+          "show": "Huberman Lab",
+          "title": "Understanding & Healing the Mind | Dr. Karl Deisseroth",
+          "url": "/wiki/sources/understanding-healing-the-mind-dr-karl-deisseroth-scim1806352008/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/selectiveneuralstimulationprecision/"
     },
     "SelectiveSinicizationInJapan": {
