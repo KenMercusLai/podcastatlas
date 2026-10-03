@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9568
+wiki_total_pages: 9569
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "FarmingWarStatecraft"
     title: "Farming-War Statecraft / 耕战逻辑"
     url: "/wiki/concepts/farmingwarstatecraft/"
+  - key: "FascismHistoricalSpecificity"
+    title: "Fascism's Historical Specificity"
+    url: "/wiki/concepts/fascismhistoricalspecificity/"
   - key: "FascistGlamourAndMemory"
     title: "Fascist Glamour and Memory"
     url: "/wiki/concepts/fascistglamourandmemory/"

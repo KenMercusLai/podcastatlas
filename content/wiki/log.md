@@ -29019,3 +29019,11 @@ Added source `scim4224560223-scim4224560223`; resynthesized [[TemperatureMinimum
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 17. Fascism
+
+Added source `17-fascism-glt5738760220`; created [[FascismHistoricalSpecificity]]; and resynthesized [[AuthoritarianFascismBoundary]], [[FascistPoliticalTheatre]], and [[NaziRacialMorality]] from their complete preserved evidence inventories. Core synthesis: fascism is most useful here as a historically specific post-First World War project joining humiliation, national rebirth, anti-democracy, anti-communism, revolutionary violence, mass belonging, spectacle, technology, youth, and human remaking; reactionary authoritarian preservation can remain brutal without sharing that complete project; and Nazi racial ideology fused pseudoscience with invented readings of antiquity and rejection of universal dignity. No settled contradiction was adopted. The no-current-fascist-regime judgment, Franco classification, Christianity and communism comparisons, class-support account, Nietzschean influence, and ancient-racial genealogy remain interpretive or source-scoped. Recurring host, ruler, and precursor profiles were not changed because the episode adds conceptual comparison rather than durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten because the episode substantially overlaps existing interwar, fascism, and Nazism synthesis. The downstream manifest and paragraph ledger were refreshed to 3,627-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

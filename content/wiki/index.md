@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [17. Fascism](sources/17-fascism-glt5738760220.md) — The Rest Is History on fascism as a historically specific interwar ideology of national rebirth, mass violence, spectacle, modernity, and moral rupture.
 - [18. The North South Divide](sources/18-the-north-south-divide-glt3709184192.md) — The Rest Is History with Dan Jackson on geography, London centrality, industrial power, accent, class, politics, and layered English regional identity.
 - [19. King Arthur](sources/19-king-arthur-glt1076701162.md) — The Rest Is History on Arthur's uncertain historicity, medieval legend formation, political reuse, sacred objects, mythic landscapes, and modern afterlives.
 - [20. China](sources/20-china-glt4329327216.md) — The Rest Is History with Michael Wood on Chinese civilizational continuity, unity, imperial expansion, foreign coercion, revolution, historical memory, and modernization.
@@ -15983,6 +15984,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Geoffrey of Monmouth](entities/GeoffreyOfMonmouth.md) — Twelfth-century writer whose synthetic British history decisively shaped Arthur and Merlin's medieval profiles.
 
 ## Concepts
+- [Fascism's Historical Specificity](concepts/FascismHistoricalSpecificity.md) — Framework defining fascism as a post-First World War revolutionary ideology rather than a synonym for dictatorship, violence, or evil.
 - [English North-South Divide](concepts/EnglishNorthSouthDivide.md) — Layered regional distinction produced through geography, political boundaries, industrial change, culture, and London centrality.
 - [London Metropolitan Dominance](concepts/LondonMetropolitanDominance.md) — Durable concentration of national power reinforced by Thames geography, European access, state formation, and institutional accumulation.
 - [English Regional Identity Formation](concepts/EnglishRegionalIdentityFormation.md) — Multi-scale production of belonging through geography, work, transport, language, class, sport, media, and rivalry.

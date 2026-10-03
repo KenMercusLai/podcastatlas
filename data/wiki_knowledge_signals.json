@@ -18478,9 +18478,9 @@
       "url": "/wiki/concepts/authorcommercialfilmbalance/"
     },
     "AuthoritarianFascismBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9147423732 [GLT9147423732].md",
@@ -18488,9 +18488,16 @@
           "show": "The Rest Is History",
           "title": "230. Portugal: Football, Fado, and Fascism? (Part 4)",
           "url": "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"
+        },
+        {
+          "episode_file": "GLT5738760220 [GLT5738760220].md",
+          "key": "17-fascism-glt5738760220",
+          "show": "The Rest Is History",
+          "title": "17. Fascism",
+          "url": "/wiki/sources/17-fascism-glt5738760220/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/authoritarianfascismboundary/"
     },
     "AuthoritarianSportsPropaganda": {
@@ -71687,6 +71694,22 @@
       "updated": "2026-08-22",
       "url": "/wiki/concepts/farmingwarstatecraft/"
     },
+    "FascismHistoricalSpecificity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5738760220 [GLT5738760220].md",
+          "key": "17-fascism-glt5738760220",
+          "show": "The Rest Is History",
+          "title": "17. Fascism",
+          "url": "/wiki/sources/17-fascism-glt5738760220/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/fascismhistoricalspecificity/"
+    },
     "FascistGlamourAndMemory": {
       "episode_count": 1,
       "show_count": 1,
@@ -71704,9 +71727,9 @@
       "url": "/wiki/concepts/fascistglamourandmemory/"
     },
     "FascistPoliticalTheatre": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5479566212 [GLT5479566212].md",
@@ -71714,9 +71737,16 @@
           "show": "The Rest Is History",
           "title": "194. The First Fascist",
           "url": "/wiki/sources/194-the-first-fascist-glt5479566212/"
+        },
+        {
+          "episode_file": "GLT5738760220 [GLT5738760220].md",
+          "key": "17-fascism-glt5738760220",
+          "show": "The Rest Is History",
+          "title": "17. Fascism",
+          "url": "/wiki/sources/17-fascism-glt5738760220/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/fascistpoliticaltheatre/"
     },
     "FascistSportPolicy": {
@@ -147996,9 +148026,9 @@
       "url": "/wiki/entities/naziparty/"
     },
     "NaziRacialMorality": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6100029744 [GLT6100029744].md",
@@ -148013,9 +148043,16 @@
           "show": "The Rest Is History",
           "title": "375. Hitler and the Mitford Sisters",
           "url": "/wiki/sources/375-hitler-and-the-mitford-sisters-glt5493256820/"
+        },
+        {
+          "episode_file": "GLT5738760220 [GLT5738760220].md",
+          "key": "17-fascism-glt5738760220",
+          "show": "The Rest Is History",
+          "title": "17. Fascism",
+          "url": "/wiki/sources/17-fascism-glt5738760220/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/naziracialmorality/"
     },
     "NaziRearmamentWarEconomy": {
