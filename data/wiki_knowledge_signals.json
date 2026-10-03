@@ -12929,9 +12929,9 @@
       "url": "/wiki/concepts/angloitalianculturalrelations/"
     },
     "AngloNormanSuccessionLegitimacy": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3399401666 [GLT3399401666].md",
@@ -12960,9 +12960,16 @@
           "show": "The Rest Is History",
           "title": "550. The Road to 1066: Rise of the Normans (Part 3)",
           "url": "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
+        },
+        {
+          "episode_file": "GLT5177665423 [GLT5177665423].md",
+          "key": "44-1066-glt5177665423",
+          "show": "The Rest Is History",
+          "title": "44. 1066",
+          "url": "/wiki/sources/44-1066-glt5177665423/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/anglonormansuccessionlegitimacy/"
     },
     "AngloPortugueseAlliance": {
@@ -20867,9 +20874,9 @@
       "url": "/wiki/entities/battleofgettysburg/"
     },
     "BattleOfHastings": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3522014441 [GLT3522014441].md",
@@ -20877,9 +20884,16 @@
           "show": "The Rest Is History",
           "title": "556. 1066: The Battle of Hastings (Part 3)",
           "url": "/wiki/sources/556-1066-the-battle-of-hastings-part-3-glt3522014441/"
+        },
+        {
+          "episode_file": "GLT5177665423 [GLT5177665423].md",
+          "key": "44-1066-glt5177665423",
+          "show": "The Rest Is History",
+          "title": "44. 1066",
+          "url": "/wiki/sources/44-1066-glt5177665423/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/battleofhastings/"
     },
     "BattleOfLakeTrasimene": {
@@ -31737,9 +31751,9 @@
       "url": "/wiki/entities/cassivellaunus/"
     },
     "CastleBasedPrivateLordship": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9316865693 [GLT9316865693].md",
@@ -31747,9 +31761,16 @@
           "show": "The Rest Is History",
           "title": "550. The Road to 1066: Rise of the Normans (Part 3)",
           "url": "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
+        },
+        {
+          "episode_file": "GLT5177665423 [GLT5177665423].md",
+          "key": "44-1066-glt5177665423",
+          "show": "The Rest Is History",
+          "title": "44. 1066",
+          "url": "/wiki/sources/44-1066-glt5177665423/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/castlebasedprivatelordship/"
     },
     "Castrati": {
@@ -42778,9 +42799,9 @@
       "url": "/wiki/concepts/conquestdisciplinelegitimacy/"
     },
     "ConquestRuptureContinuity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5156716826 [GLT5156716826].md",
@@ -42788,9 +42809,16 @@
           "show": "The Rest Is History",
           "title": "557. 1066: The Norman Conquest (Part 4)",
           "url": "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
+        },
+        {
+          "episode_file": "GLT5177665423 [GLT5177665423].md",
+          "key": "44-1066-glt5177665423",
+          "show": "The Rest Is History",
+          "title": "44. 1066",
+          "url": "/wiki/sources/44-1066-glt5177665423/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/conquestrupturecontinuity/"
     },
     "ConscienceFormationUnderDictatorship": {
@@ -64713,9 +64741,9 @@
       "url": "/wiki/entities/englishdefenceleague/"
     },
     "EnglishNationalIdentity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7388885434 [GLT7388885434].md",
@@ -64723,9 +64751,16 @@
           "show": "The Rest Is History",
           "title": "180. England & Englishness",
           "url": "/wiki/sources/180-england-englishness-glt7388885434/"
+        },
+        {
+          "episode_file": "GLT5177665423 [GLT5177665423].md",
+          "key": "44-1066-glt5177665423",
+          "show": "The Rest Is History",
+          "title": "44. 1066",
+          "url": "/wiki/sources/44-1066-glt5177665423/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/englishnationalidentity/"
     },
     "EnjoymentVsPleasure": {
@@ -148662,9 +148697,9 @@
       "url": "/wiki/entities/nordstream/"
     },
     "NormanConquestOfEngland": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -148714,9 +148749,16 @@
           "show": "The Rest Is History",
           "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
           "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        },
+        {
+          "episode_file": "GLT5177665423 [GLT5177665423].md",
+          "key": "44-1066-glt5177665423",
+          "show": "The Rest Is History",
+          "title": "44. 1066",
+          "url": "/wiki/sources/44-1066-glt5177665423/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/normanconquestofengland/"
     },
     "NormanEliteReplacement": {

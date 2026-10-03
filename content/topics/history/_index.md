@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2483
+topic_total_pages: 2484
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5886,6 +5886,9 @@ topic_sources:
   - key: "439-disco-sex-and-race-in-seventies-america-glt8206137792"
     title: "439. Disco: Sex and Race in Seventies America"
     url: "/wiki/sources/439-disco-sex-and-race-in-seventies-america-glt8206137792/"
+  - key: "44-1066-glt5177665423"
+    title: "44. 1066"
+    url: "/wiki/sources/44-1066-glt5177665423/"
   - key: "440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746"
     title: "440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)"
     url: "/wiki/sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746/"

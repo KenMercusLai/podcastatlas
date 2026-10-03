@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [44. 1066](sources/44-1066-glt5177665423.md) — The Rest Is History on the three-way succession struggle, papal reform, castles and cavalry, slavery and class change, cultural rupture, and England's national memory of defeat.
 - [How Hormones Control Hunger, Eating & Satiety](sources/scim1789507430-scim1789507430.md) — Early Huberman Lab solo episode on brain-gut appetite regulation, ghrelin timing, nutrient-linked satiety, processed-food intake, glucose context, meal order, movement, and intervention boundaries.
 - [45. Top Ten Eunuchs](sources/45-top-ten-eunuchs-glt5221212176.md) — The Rest Is History on castration through captivity, court power, punishment, family economics, religion, performance, and the unequal relationship between bodily coercion and later mobility.
 - [EP169-美国社会如何制造“模范少数”和背后的隐性歧视](sources/ep169-meiguo-shehui-ruhe-zhizao-mofan-shaoshu-he-beihou-de-yinxing-qishi-ckwriaiewlfyabaaaacimxkl.md) — 无时差研究所 on model-minority and perpetual-foreigner stereotypes, gendered representation, geopolitical spillover, microaggressions, and Asian diaspora belonging.

@@ -28652,3 +28652,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 44. 1066
+
+Added source `44-1066-glt5177665423` and resynthesized `NormanConquestOfEngland`, `AngloNormanSuccessionLegitimacy`, `CastleBasedPrivateLordship`, `BattleOfHastings`, `ConquestRuptureContinuity`, and `EnglishNationalIdentity` from their complete preserved evidence inventories. Core synthesis: 1066 joined a plural succession contest to reform-papal legitimacy and a castle-cavalry system that could turn victory into territorial control, while its social and cultural afterlife combined elite displacement, source-scoped slavery decline, class memory, lost church traditions, and a national story built around defeat. No settled contradiction was adopted. Harold's oath and death, papal motives, military-revolution language, England's supposed lack of castles, slavery chronology, surname-class persistence, cultural-loss judgments, and counterfactual outcomes remain disputed, compressed, or source-scoped. Recurring hosts, show, claimants, and artifact pages were not changed because richer later episodes already supply their durable profiles. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,581-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
