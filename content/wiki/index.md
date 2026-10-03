@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [59. The World Cup of Gods - Part 2](sources/59-the-world-cup-of-gods-part-2-glt6474253297.md) — The Rest Is History tournament on Athena, Odin, Greek, Roman, Egyptian, and Mithraic gods as changing products of ritual, politics, literature, syncretism, and reception.
 - [60. Muhammad](sources/60-muhammad-glt7621065751.md) — The Rest Is History on Muhammad's probable existence, late biography, the Qur'an as early evidence, late-antique context, and contested revisionist reconstruction.
 - [EP176-巨头混战的社区团购，魅力何在？](sources/ep176-jutou-hunzhan-de-shequ-tuangou-meili-he-zai-ckwrijeem9ngabaaaac5h72a.md) — 无时差研究所 on demand-led community buying, center and grid warehouses, neighborhood pickup, rural retail access, platform competition, and fulfillment limits.
 - [63. Hitler, with Ian Kershaw - part 1](sources/63-hitler-with-ian-kershaw-part-1-glt1996418919.md) — The Rest Is History with Ian Kershaw on Hitler's contingent postwar formation, individual agency, structural conditions, historical method, and the long radicalization from antisemitism to genocide.
@@ -3615,6 +3616,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Build Endurance in Your Brain & Body](sources/scim8024795061-scim8024795061.md) — Early Huberman Lab solo episode on four endurance modes, brain-body persistence, breathing, hydration, recovery, visual pacing, and source-scoped protocols.
 
 ## Entities
+- [Zeus](entities/Zeus.md) — Greek sky-father and divine patriarch distinguished from Jupiter's specifically Roman civic and ritual identity.
+- [Anubis](entities/Anubis.md) — Egyptian canine-headed psychopomp associated with embalming, regeneration, and escorting the dead.
+- [Isis (goddess)](entities/IsisGoddess.md) — Egyptian and Mediterranean goddess whose cult, Ptolemaic political uses, literary forms, and Christian comparisons require layered interpretation.
+- [Apollo (god)](entities/ApolloGod.md) — Greek god joining beauty, plague, healing, prophecy, sacred centers, and oblique oracular interpretation.
 - [King John](entities/KingJohn.md) — English monarch whose military defeat, fiscal extraction, arbitrary rule, and repudiated settlement produced the 1215 Magna Carta crisis.
 - [Edward Coke](entities/EdwardCoke.md) — Jurist who made Magna Carta a source of fundamental law by joining legal inheritance to a powerful restoration narrative.
 - [John Lilburne](entities/JohnLilburne.md) — Leveller radical who converted Magna Carta and Coke's interpretation into a language of freeborn English rights.
@@ -4526,7 +4531,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robert Lustig](entities/RobertLustig.md) — Pediatric endocrinologist and metabolic-health advocate connecting sugar, food structure, appetite signaling, chronic disease, and food-system policy.
 - [Trevor Phillips](entities/TrevorPhillips.md) — Historian framing Windrush through Caribbean British agency, family mobility, settlement, and migration-wave specificity.
 - [Empire Windrush](entities/EmpireWindrush.md) — Ship whose June 1948 arrival became a landmark of postwar Caribbean British history and public memory.
-- [Mithras](entities/Mithras.md) — Roman mystery-cult god distinguished from Persian Mithra, Sol Invictus, and unsupported death-resurrection parallels.
+- [Mithras](entities/Mithras.md) — Roman mystery-cult god joining eastern name-prestige to male initiatory, military-administrative, and archaeological contexts.
 - [Sol Invictus](entities/SolInvictus.md) — Roman solar deity whose probable December 25 observance does not establish direct influence on Christmas.
 - [Pope Joan](entities/PopeJoan.md) — Legendary disguised female pope whose fictional biography became historically consequential through ritual, repetition, and polemic.
 - [Jean de Mailly](entities/JeanDeMailly.md) — Early thirteenth-century chronicler who supplied an early surviving punitive account of Pope Joan.
@@ -11868,7 +11873,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Enkidu / 恩启都](entities/Enkidu.md) — Gilgamesh's counterpart and friend whose death turns heroic adventure into mortality knowledge in EP269.
 - [The Poetic Edda / 诗体埃达](entities/PoeticEdda.md) — Old Norse poetic collection used in EP269 to introduce gods, heroic material, Ragnarok, and oral/manuscript layering.
 - [The Prose Edda / 散文埃达](entities/ProseEdda.md) — Medieval explanatory Norse text used in EP269 as a companion and organizing guide to Edda material.
-- [Odin / 奥丁](entities/Odin.md) — Contradictory Norse figure of knowledge, runes, elite legitimacy, wandering, war, mind, magic, sacrifice, and unreliable patronage.
+- [Odin / 奥丁](entities/Odin.md) — Contradictory Norse figure of wisdom, sacrifice, war, magic, royal genealogy, Christian mediation, and unstable modern reception.
 - [Thor / 托尔](entities/Thor.md) — Norse god and Marvel superhero reference used in EP269 to contrast Edda trickery and modern heroic simplification.
 - [Loki / 洛基](entities/Loki.md) — Norse figure whose Edda relations and Marvel rewriting make him a compact adaptation case in EP269.
 - [Valhalla / 瓦尔哈拉](entities/Valhalla.md) — Norse heroic afterlife hall in EP269, tied to Odin's warrior gathering, Ragnarok, and game/fantasy reuse.
@@ -12746,7 +12751,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Euripides / 欧里比德斯](entities/Euripides.md) — Greek tragedian treated by the source as modern-feeling for his psychological hesitation, hero deconstruction, and moral unease.
 - [Jason / 伊阿宋](entities/Jason.md) — Golden Fleece hero whose debt to Medea and later betrayal make him the deconstructed male hero in the episode.
 - [Golden Fleece / 金羊毛](entities/GoldenFleece.md) — Mythic quest object that brings Jason and Medea together and supplies the heroic prehistory behind Euripides' tragedy.
-- [Dionysus / 狄俄尼索斯](entities/Dionysus.md) — Greek god whose ritual and ecstatic freedom frame the episode's account of tragedy and The Bacchae.
+- [Dionysus / 狄俄尼索斯](entities/Dionysus.md) — Greek god joining wine, theatre, mystery, ecstasy, sexuality, violence, and the social danger of repressed release.
 - [The Bacchae / 酒神的伴侣](entities/TheBacchae.md) — Euripides tragedy used as a comparison for freedom, ecstasy, violence, and order collapse.
 - [Fuchsia Dunlop / 胡霞](entities/FuchsiaDunlop.md) — British food writer whose 《鱼翅与花椒》 is read through Sichuan cuisine, appetite, cultural translation, and identity change.
 - [《鱼翅与花椒》 / Shark's Fin and Sichuan Pepper](entities/SharkFinAndSichuanPepper.md) — Food memoir used by the source to connect Chengdu, Sichuan cuisine, culinary grammar, texture, bias, and animal ethics.
@@ -12939,7 +12944,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Helios](entities/Helios.md) — Sun god whose sacred cattle trigger Zeus' punishment after the crew violates repeated warnings.
 - [Poseidon](entities/Poseidon.md) — Sea god invoked by Polyphemus to curse Odysseus with delayed, lonely, troubled return.
 - [Lotus Eaters](entities/LotusEaters.md) — Odyssey people whose lotus threatens homecoming by erasing the desire to return.
-- [Athena](entities/Athena.md) — Divine strategist in the Odyssey homecoming branch, enabling release, disguise, recognition, and revenge.
+- [Athena](entities/Athena.md) — Greek strategist and civic patron joining wisdom, war, terrifying protection, Athenian identity, ritual participation, and religious afterlife.
 - [Penelope](entities/Penelope.md) — Odysseus' wife whose delay tactics, bow contest, and marriage-bed test complete the recognition sequence.
 - [Telemachus](entities/Telemachus.md) — Odysseus' son whose Athena-guided maturation and weapon-removal role support the household restoration.
 - [Calypso](entities/Calypso.md) — Island figure who receives shipwrecked Odysseus, holds him outside home, and later offers immortality against mortal return.
@@ -15817,6 +15822,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Ancient Divine Identity and Syncretism](concepts/AncientDivineIdentitySyncretism.md) — Framework distinguishing divine identity, equivalence, fusion, transmission, reuse, and later reception.
 - [Early Islamic Evidence Reconstruction](concepts/EarlyIslamicEvidenceReconstruction.md) — Graduated-confidence method combining the Qur'an, later narratives, external fragments, material evidence, geography, and late-antique context.
 - [California Dream and Reinvention](concepts/CaliforniaDreamAndReinvention.md) — How California repeatedly turns story, migration, infrastructure, entertainment, and technology into future imagery while displacing social and environmental costs.
 - [Endurance Effort Persistence](concepts/EnduranceEffortPersistence.md) — Brain-body model of continued effort shaped by physiological capacity, perceived progress, arousal, and pacing cues.
@@ -22247,7 +22253,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sensory Hypersensitivity Accommodation / 感官超敏适配](concepts/SensoryHypersensitivityAccommodation.md) — Practical frame for changing environments around intense sensory experience instead of treating overload as bad attitude.
 - [Gendered Fairy-Tale Punishment / 童话中的性别化惩罚](concepts/GenderedFairyTalePunishment.md) — Pattern where fairy tales discipline women through bodily pain, exposure, lost voice, constrained movement, or compliance.
 - [Literary Ambiguity As Complexity / 文学混沌性](concepts/LiteraryAmbiguityAsComplexity.md) — Reading frame where strong works preserve conflicting pressures instead of collapsing into one clean answer.
-- [Norse Mythology / 北欧神话](concepts/NorseMythology.md) — Layered field joining variable local stories, Edda preservation, lived Viking worldview, and modern literary or screen transformation.
+- [Norse Mythology / 北欧神话](concepts/NorseMythology.md) — Layered field joining local stories, Edda preservation, Viking worldview, Christian mediation, and political or popular reinvention.
 - [Ragnarok / 诸神的黄昏](concepts/Ragnarok.md) — Norse end-time and renewal pattern in EP269 where known doom sharpens courage and modern ecological/fantasy reinterpretation.
 - [Epic Modern Afterlife](concepts/EpicModernAfterlife.md) — EP269 pattern where ancient epics return through films, games, fantasy, superhero franchises, phrases, and reading culture.
 - [Oral Epic Repetition](concepts/OralEpicRepetition.md) — Cross-epic poetics frame from EP269 for repetition as memory, breath, chorus, and emotional accumulation.

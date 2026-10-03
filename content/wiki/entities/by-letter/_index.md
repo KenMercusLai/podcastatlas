@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12157
+wiki_total_pages: 12161
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1415,6 +1415,9 @@ wiki_pages:
   - key: "ANUA"
     title: "ANUA"
     url: "/wiki/entities/anua/"
+  - key: "Anubis"
+    title: "Anubis"
+    url: "/wiki/entities/anubis/"
   - key: "AnulaJayasuria"
     title: "Anula Jayasuria"
     url: "/wiki/entities/anulajayasuria/"
@@ -1448,6 +1451,9 @@ wiki_pages:
   - key: "Apodex"
     title: "Apodex"
     url: "/wiki/entities/apodex/"
+  - key: "ApolloGod"
+    title: "Apollo (god)"
+    url: "/wiki/entities/apollogod/"
   - key: "Apollo11"
     title: "Apollo 11"
     url: "/wiki/entities/apollo11/"

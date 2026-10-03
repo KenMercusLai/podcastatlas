@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9458
+wiki_total_pages: 9459
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1952,6 +1952,9 @@ wiki_pages:
   - key: "AncientChineseSoulSummoning"
     title: "Ancient Chinese Soul Summoning / 招魂"
     url: "/wiki/concepts/ancientchinesesoulsummoning/"
+  - key: "AncientDivineIdentitySyncretism"
+    title: "Ancient Divine Identity and Syncretism"
+    url: "/wiki/concepts/ancientdivineidentitysyncretism/"
   - key: "AncientGreekAthleticGlory"
     title: "Ancient Greek Athletic Glory"
     url: "/wiki/concepts/ancientgreekathleticglory/"

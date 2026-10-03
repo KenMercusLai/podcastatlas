@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12157
+wiki_total_pages: 12161
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "ZenPayroll"
     title: "ZenPayroll"
     url: "/wiki/entities/zenpayroll/"
+  - key: "Zeus"
+    title: "Zeus"
+    url: "/wiki/entities/zeus/"
   - key: "Zeying"
     title: "Zeying"
     url: "/wiki/entities/zeying/"

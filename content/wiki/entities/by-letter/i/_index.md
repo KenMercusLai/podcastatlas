@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 12157
+wiki_total_pages: 12161
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "ISIS"
     title: "ISIS"
     url: "/wiki/entities/isis/"
+  - key: "IsisGoddess"
+    title: "Isis (goddess)"
+    url: "/wiki/entities/isisgoddess/"
   - key: "IslamicRevolutionaryGuardCorps"
     title: "Islamic Revolutionary Guard Corps"
     url: "/wiki/entities/islamicrevolutionaryguardcorps/"
