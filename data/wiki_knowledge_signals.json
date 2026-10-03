@@ -55811,9 +55811,9 @@
       "url": "/wiki/entities/dominicmiarten/"
     },
     "DominicSandbrook": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT4575290976 [GLT4575290976].md",
@@ -55856,6 +55856,13 @@
           "show": "The Rest Is History",
           "title": "22. Weird Wars",
           "url": "/wiki/sources/22-weird-wars-glt2360848948/"
+        },
+        {
+          "episode_file": "GLT2461510190 [GLT2461510190].md",
+          "key": "14-historical-fiction-glt2461510190",
+          "show": "The Rest Is History",
+          "title": "14. Historical Fiction",
+          "url": "/wiki/sources/14-historical-fiction-glt2461510190/"
         }
       ],
       "updated": "2026-10-04",
@@ -96358,9 +96365,9 @@
       "url": "/wiki/concepts/historicalfemalerolemodelcaution/"
     },
     "HistoricalFictionFactualConstraint": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4466006716 [GLT4466006716].md",
@@ -96368,10 +96375,33 @@
           "show": "The Rest Is History",
           "title": "400. Victorian Britain's Maddest Mystery",
           "url": "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"
+        },
+        {
+          "episode_file": "GLT2461510190 [GLT2461510190].md",
+          "key": "14-historical-fiction-glt2461510190",
+          "show": "The Rest Is History",
+          "title": "14. Historical Fiction",
+          "url": "/wiki/sources/14-historical-fiction-glt2461510190/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/historicalfictionfactualconstraint/"
+    },
+    "HistoricalFictionHistoricalImagination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2461510190 [GLT2461510190].md",
+          "key": "14-historical-fiction-glt2461510190",
+          "show": "The Rest Is History",
+          "title": "14. Historical Fiction",
+          "url": "/wiki/sources/14-historical-fiction-glt2461510190/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/historicalfictionhistoricalimagination/"
     },
     "HistoricalFiguresAsRealityTVArchetypes": {
       "episode_count": 3,
@@ -96796,9 +96826,9 @@
       "url": "/wiki/concepts/historicalstructureagencycausation/"
     },
     "HistoricalWorldviewReconstruction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2672520929 [GLT2672520929].md",
@@ -96806,9 +96836,16 @@
           "show": "The Rest Is History",
           "title": "242. French History on Film",
           "url": "/wiki/sources/242-french-history-on-film-glt2672520929/"
+        },
+        {
+          "episode_file": "GLT2461510190 [GLT2461510190].md",
+          "key": "14-historical-fiction-glt2461510190",
+          "show": "The Rest Is History",
+          "title": "14. Historical Fiction",
+          "url": "/wiki/sources/14-historical-fiction-glt2461510190/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/historicalworldviewreconstruction/"
     },
     "HistoryAsLifeResource": {
@@ -207388,9 +207425,9 @@
       "url": "/wiki/entities/tomhanks/"
     },
     "TomHolland": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT5186420966 [GLT5186420966].md",
@@ -207440,6 +207477,13 @@
           "show": "The Rest Is History",
           "title": "22. Weird Wars",
           "url": "/wiki/sources/22-weird-wars-glt2360848948/"
+        },
+        {
+          "episode_file": "GLT2461510190 [GLT2461510190].md",
+          "key": "14-historical-fiction-glt2461510190",
+          "show": "The Rest Is History",
+          "title": "14. Historical Fiction",
+          "url": "/wiki/sources/14-historical-fiction-glt2461510190/"
         }
       ],
       "updated": "2026-10-04",

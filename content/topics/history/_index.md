@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2527
+topic_total_pages: 2528
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5085,6 +5085,9 @@ topic_sources:
   - key: "139-the-princes-in-the-tower-part-2-glt4685691538"
     title: "139. The Princes in the Tower Part 2"
     url: "/wiki/sources/139-the-princes-in-the-tower-part-2-glt4685691538/"
+  - key: "14-historical-fiction-glt2461510190"
+    title: "14. Historical Fiction"
+    url: "/wiki/sources/14-historical-fiction-glt2461510190/"
   - key: "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285"
     title: "14.武士威廉：大航海时代的日本和西方"
     url: "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"

@@ -535,6 +535,10 @@
     "title": "139. 为什么伟大不能被计划：有志者事竟成，吗？",
     "url": "/wiki/sources/139-weishenme-weida-buneng-bei-jihua-youzhizhe-shijingsheng-ma-849965735/"
   },
+  "14-historical-fiction-glt2461510190": {
+    "title": "14. Historical Fiction",
+    "url": "/wiki/sources/14-historical-fiction-glt2461510190/"
+  },
   "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285": {
     "title": "14.武士威廉：大航海时代的日本和西方",
     "url": "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
@@ -37626,6 +37630,10 @@
   "HistoricalFictionFactualConstraint": {
     "title": "Historical Fiction Factual Constraint",
     "url": "/wiki/concepts/historicalfictionfactualconstraint/"
+  },
+  "HistoricalFictionHistoricalImagination": {
+    "title": "Historical Fiction and Historical Imagination",
+    "url": "/wiki/concepts/historicalfictionhistoricalimagination/"
   },
   "HistoricalFiguresAsRealityTVArchetypes": {
     "title": "Historical Figures as Reality-TV Archetypes",

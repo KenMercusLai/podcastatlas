@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3094
+topic_total_pages: 3096
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1489,6 +1489,9 @@ topic_concepts:
   - key: "HistoricalAmbiguityInMainstreamCinema"
     title: "Historical Ambiguity in Mainstream Cinema / 主流影像中的历史暧昧性"
     url: "/wiki/concepts/historicalambiguityinmainstreamcinema/"
+  - key: "HistoricalFictionHistoricalImagination"
+    title: "Historical Fiction and Historical Imagination"
+    url: "/wiki/concepts/historicalfictionhistoricalimagination/"
   - key: "HistoricalMemoryContest"
     title: "Historical Memory Contest"
     url: "/wiki/concepts/historicalmemorycontest/"
@@ -8301,6 +8304,9 @@ topic_sources:
   - key: "139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf"
     title: "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？"
     url: "/wiki/sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf/"
+  - key: "14-historical-fiction-glt2461510190"
+    title: "14. Historical Fiction"
+    url: "/wiki/sources/14-historical-fiction-glt2461510190/"
   - key: "140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655"
     title: "140. 还可以的金女士：“所以人为什么要努力啊？！”"
     url: "/wiki/sources/140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655/"

@@ -29059,3 +29059,11 @@ Added source `master-your-sleep-be-more-alert-when-awake-scim6660090579`; resynt
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 14. Historical Fiction
+
+Added source `14-historical-fiction-glt2461510190`; created [[HistoricalFictionHistoricalImagination]]; and resynthesized [[HistoricalFictionFactualConstraint]], [[HistoricalWorldviewReconstruction]], [[TomHolland]], and [[DominicSandbrook]] from their complete preserved evidence inventories. Core synthesis: historical fiction can use archival constraint, reconstructed voice, declared anachronism, fantasy, or counterfactual construction, but its method should make past social and moral worlds causally active, keep research subordinate to narrative life, and remain explicit about ethical proximity and invented event. No settled contradiction was adopted; the episode qualifies strict factual constraint as one method among several, while literary influence, genre conservatism, authenticity, and evaluations of individual works remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,632-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [14. Historical Fiction](sources/14-historical-fiction-glt2461510190.md) — The Rest Is History on factual constraint, imaginative truth, past mental worlds, public memory, research restraint, and ethical proximity in historical fiction.
 - [16. Pompeii](sources/16-pompeii-glt3349011345.md) — The Rest Is History with Sophie Hay on Pompeii as a layered city, archaeological interpretation, conservation, everyday life, and the disputed eruption date.
 - [17. Fascism](sources/17-fascism-glt5738760220.md) — The Rest Is History on fascism as a historically specific interwar ideology of national rebirth, mass violence, spectacle, modernity, and moral rupture.
 - [18. The North South Divide](sources/18-the-north-south-divide-glt3709184192.md) — The Rest Is History with Dan Jackson on geography, London centrality, industrial power, accent, class, politics, and layered English regional identity.
@@ -4026,7 +4027,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anatoly Sobchak](entities/AnatolySobchak.md) — St. Petersburg mayor and constitutional contributor who served as Vladimir Putin's professor, patron, and political superior.
 - [Boris Yeltsin](entities/BorisYeltsin.md) — Post-Soviet Russian president linking rapid market transition, executive concentration, oligarchic power, Chechen war, and Putin's succession.
 - [Yegor Gaidar](entities/YegorGaidar.md) — Russian reformer associated with rapid price liberalization and the social and political backlash to shock therapy.
-- [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian connecting political identity, narrative craft, comparative war stories, and consequence to structural persistence and ethical historical entertainment.
+- [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian connecting political identity, narrative craft, historical fiction, public memory, and consequence to structural persistence and ethical historical entertainment.
 - [Adventures in Time](entities/AdventuresInTime.md) — Dominic Sandbrook’s children’s-history series using narrative momentum, vivid detail, reader testing, and ethical restraint.
 - [Peter Pomerantsev](entities/PeterPomerantsev.md) — Author whose work supplies the episode's framework for managed media, staged opposition, and destabilized political reality.
 - [Ferdinand Maximilian](entities/FerdinandMaximilian.md) — Liberal Habsburg archduke whose foreign-backed Mexican throne ended at Queretaro in 1867.
@@ -4062,7 +4063,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Francis Young](entities/FrancisYoung.md) — Historian distinguishing occult legitimation, advice, propaganda, decision failure, and security response in British politics.
 - [Merlin](entities/Merlin.md) — Legendary British prophet and royal adviser whose political afterlife shaped rebellion, kingship, and later learned self-fashioning.
 - [Helen Duncan](entities/HelenDuncan.md) — Wartime medium whose seances became a possible information-leakage and public-order concern.
-- [Tom Holland](entities/TomHolland.md) — Historian using graduated-confidence reconstruction, moral genealogy, cross-regional comparison, and counterfactual choke points across religion, culture, propaganda, and war.
+- [Tom Holland](entities/TomHolland.md) — Historian using graduated-confidence reconstruction, moral genealogy, imaginative truth, cross-regional comparison, and counterfactual choke points across religion, literature, propaganda, and war.
 - [Henry Tricks](entities/HenryTricks.md) — Technology editor framing smart glasses through bystander suspicion, misuse, phone dependence, and their possible role as AI-agent interfaces.
 - [Simon Garfield](entities/SimonGarfield.md) — Author of The Pen, used by the episode to connect writing instruments, material constraints, mass production, and cultural status.
 - [Judean Revolt, 66-73 CE](entities/JudeanRevolt66To73.md) — Divided provincial rebellion whose defeat destroyed Jerusalem's Temple and acquired an exceptional religious and political afterlife.
@@ -16470,7 +16471,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial War Resource Motive](concepts/ImperialWarResourceMotive.md) — Framework separating formal war sequence and public grievance from overlapping commodity and strategic incentives.
 - [Depression Chronotherapy](concepts/DepressionChronotherapy.md) — Clinically supervised combination of wake therapy, circadian phase shifting, and bright light for depression, kept distinct from self-directed sleep deprivation.
 - [Cinema as National Memory](concepts/CinemaAsNationalMemory.md) — How film confirms, revises, domesticates, or avoids inherited national histories.
-- [Historical Worldview Reconstruction](concepts/HistoricalWorldviewReconstruction.md) — Making past beliefs, incentives, and status codes causally govern historical drama.
+- [Historical Worldview Reconstruction](concepts/HistoricalWorldviewReconstruction.md) — Making past beliefs, incentives, and status codes causally govern historical drama while allowing explicit anachronism as a qualified alternative method.
 - [Party-Membership Leadership Selection](concepts/PartyMembershipLeadershipSelection.md) — Tradeoff between wider internal participation and the representativeness, parliamentary support, and governing viability of party leaders.
 - [Political Authority Collapse Cascade](concepts/PoliticalAuthorityCollapseCascade.md) — Sequence in which policy failure, forced reversal, ally sacrifice, and elite defection reveal and accelerate a leader's loss of control.
 - [Systems-Era Generalship](concepts/SystemsEraGeneralship.md) — Command in industrial mass warfare as the integration of institutions, logistics, staff work, morale, communication, and judgment.
@@ -16952,7 +16953,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Workstation Posture Adjustment / 工位姿势调整](concepts/WorkstationPostureAdjustment.md) — Conditional fitting of screens, desks, chairs, supports, and task layout within movement variability and symptom-sensitive rehabilitation.
 - [Joint Supplement and Treatment Boundary / 关节补剂与治疗边界](concepts/JointSupplementTreatmentBoundary.md) — Distinguishes nutritional or symptom support from claims to diagnose, regenerate, or treat damaged joints, cartilage, and bone.
 - [Claimant Politics and Public Spectacle](concepts/ClaimantPoliticsAndPublicSpectacle.md) — Process by which media, funding, courtroom entertainment, grievance, and organization make a weak identity claim politically durable.
-- [Historical Fiction Factual Constraint](concepts/HistoricalFictionFactualConstraint.md) — Method preserving documented events while locating invention in viewpoint, selection, interiority, and bounded extension.
+- [Historical Fiction Factual Constraint](concepts/HistoricalFictionFactualConstraint.md) — One historical-fiction method preserving documented events while locating invention in viewpoint, selection, interiority, and bounded extension.
+- [Historical Fiction and Historical Imagination](concepts/HistoricalFictionHistoricalImagination.md) — Plural framework joining evidence, worldview, voice, imaginative truth, public memory, and ethical proximity in fiction about the past.
 - [Food-System Nutrition Responsibility](concepts/FoodSystemNutritionResponsibility.md) — Shared-responsibility frame connecting dietary agency to knowledge, access, affordability, product design, institutional defaults, and external costs.
 - [Calorie Metabolic Non-Equivalence](concepts/CalorieMetabolicNonEquivalence.md) — Distinction between gross food energy and the energy absorbed, processed, signaled, stored, or made available to the microbiome after ingestion.
 - [Postwar Caribbean British Settlement](concepts/PostwarCaribbeanBritishSettlement.md) — Process by which temporary migration, return plans, relationships, children, and recognition developed into durable British settlement.

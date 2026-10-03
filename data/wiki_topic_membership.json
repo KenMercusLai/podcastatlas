@@ -885,6 +885,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "14-historical-fiction-glt2461510190": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285": [
     {
       "key": "history",
@@ -41184,6 +41196,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "HistoricalFictionHistoricalImagination": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "HistoricalInquirySourceCriticism": [
