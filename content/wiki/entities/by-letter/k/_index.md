@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12153
+wiki_total_pages: 12156
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "KingFaisal"
     title: "King Faisal"
     url: "/wiki/entities/kingfaisal/"
+  - key: "KingJohn"
+    title: "King John"
+    url: "/wiki/entities/kingjohn/"
   - key: "KingSolomonsMines"
     title: "King Solomon's Mines"
     url: "/wiki/entities/kingsolomonsmines/"

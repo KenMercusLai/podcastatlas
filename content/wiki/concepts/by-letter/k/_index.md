@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 9453
+wiki_total_pages: 9455
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "KinSacrificeReputationPerformance"
     title: "Kin Sacrifice Reputation Performance / 亲属牺牲式声望表演"
     url: "/wiki/concepts/kinsacrificereputationperformance/"
+  - key: "KingUnderLaw"
+    title: "King Under Law"
+    url: "/wiki/concepts/kingunderlaw/"
   - key: "KingdomOfGodEschatology"
     title: "Kingdom of God Eschatology"
     url: "/wiki/concepts/kingdomofgodeschatology/"

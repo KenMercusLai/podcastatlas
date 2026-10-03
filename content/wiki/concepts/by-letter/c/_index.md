@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9453
+wiki_total_pages: 9455
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1976,6 +1976,9 @@ wiki_pages:
   - key: "ConstitutionalAfterlifeOfRevolution"
     title: "Constitutional Afterlife of Revolution"
     url: "/wiki/concepts/constitutionalafterlifeofrevolution/"
+  - key: "ConstitutionalMemoryReuse"
+    title: "Constitutional Memory Reuse"
+    url: "/wiki/concepts/constitutionalmemoryreuse/"
   - key: "ConstitutionalMonarchyVetoConflict"
     title: "Constitutional Monarchy Veto Conflict"
     url: "/wiki/concepts/constitutionalmonarchyvetoconflict/"

@@ -28404,3 +28404,11 @@ Added source `ep176-jutou-hunzhan-de-shequ-tuangou-meili-he-zai-ckwrijeem9ngabaa
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 62. Magna Carta
+
+Added source `62-magna-carta-glt5613809659`; created `KingJohn`, `EdwardCoke`, `JohnLilburne`, `KingUnderLaw`, and `ConstitutionalMemoryReuse`; and resynthesized `MagnaCarta` and `TedVallance` from their complete preserved evidence inventories. Core synthesis: the 1215 settlement joined elite armed bargaining and specific feudal grievances to broader lawful-judgment and justice principles; its immediate failure did not prevent reissue, legal circulation, commentary, historical myth, radical appropriation, and transatlantic reuse from making it a durable language of constrained government. No settled contradiction was adopted. The charter was not a democratic constitution or direct blueprint for Parliament, while the widening of free-men language, particular legal survivals, Coke's historical method, American influence, modern emergency-power applications, and manuscript-site claims remain source-scoped. Recurring show, host, supporting-cleric, and later-monarch pages were not changed because the episode adds no durable identity update beyond the selected synthesis pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,550-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -3609,8 +3609,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 - [How Smell, Taste & Pheromone-Like Chemicals Control You](sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027.md) — Full Huberman Lab episode on olfactory pathways, sniffing and respiratory phase, smell training, gustatory and gut nutrient sensing, and the boundary between human chemical effects and established pheromones.
 - [The Science of Vision, Eye Health & Seeing Better](sources/scim3952740577-scim3952740577.md) — Early Huberman Lab solo episode on visual inference, retinal light signaling, varied eye use, developmental balance, and bounded behavioral eye-health tools.
+- [62. Magna Carta](sources/62-magna-carta-glt5613809659.md) — The Rest Is History episode on King John's 1215 crisis, lawful limits on monarchy, reissue, rights-centered reinterpretation, and Magna Carta's political afterlife.
 
 ## Entities
+- [King John](entities/KingJohn.md) — English monarch whose military defeat, fiscal extraction, arbitrary rule, and repudiated settlement produced the 1215 Magna Carta crisis.
+- [Edward Coke](entities/EdwardCoke.md) — Jurist who made Magna Carta a source of fundamental law by joining legal inheritance to a powerful restoration narrative.
+- [John Lilburne](entities/JohnLilburne.md) — Leveller radical who converted Magna Carta and Coke's interpretation into a language of freeborn English rights.
 - [Ian Kershaw](entities/IanKershaw.md) — Historian joining Hitler biography to institutional capacity, social participation, war, and postwar memory.
 - [Sheikh Jarrah](entities/SheikhJarrah.md) — East Jerusalem neighborhood where property claims, refugee housing, and asymmetric recovery rules became a 2021 conflict flashpoint.
 - [Fatah](entities/Fatah.md) — Palestinian political movement whose perceived corruption and accommodation weakened its resistance legitimacy in the source account.
@@ -15809,6 +15813,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [King Under Law](concepts/KingUnderLaw.md) — Principle that monarchic authority remains constrained by law, lawful process, and enforceable limits rather than personal will.
+- [Constitutional Memory Reuse](concepts/ConstitutionalMemoryReuse.md) — Process by which reissue, interpretation, myth, and mobilization widen an older legal event into later constitutional authority.
 - [Ideological Radicalization Without Equilibrium](concepts/IdeologicalRadicalizationWithoutEquilibrium.md) — Regime pattern in which success enables further escalation because core ideological goals supply no stable moderate endpoint.
 - [Hitler Memory and Moral Analogy](concepts/HitlerMemoryAndMoralAnalogy.md) — Framework for Hitler as postwar alibi, benchmark of evil, and comparison whose moral force can sharpen or replace analysis.
 - [Nakba](concepts/Nakba.md) — Palestinian mass displacement and village depopulation around 1948, treated as the historical basis of refugee and return claims.

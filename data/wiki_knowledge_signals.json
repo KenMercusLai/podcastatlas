@@ -42748,6 +42748,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/constitutionalafterlifeofrevolution/"
     },
+    "ConstitutionalMemoryReuse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5613809659 [GLT5613809659].md",
+          "key": "62-magna-carta-glt5613809659",
+          "show": "The Rest Is History",
+          "title": "62. Magna Carta",
+          "url": "/wiki/sources/62-magna-carta-glt5613809659/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/constitutionalmemoryreuse/"
+    },
     "ConstitutionalMonarchyVetoConflict": {
       "episode_count": 1,
       "show_count": 1,
@@ -58541,6 +58557,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/edwardcarson/"
+    },
+    "EdwardCoke": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5613809659 [GLT5613809659].md",
+          "key": "62-magna-carta-glt5613809659",
+          "show": "The Rest Is History",
+          "title": "62. Magna Carta",
+          "url": "/wiki/sources/62-magna-carta-glt5613809659/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/edwardcoke/"
     },
     "EdwardGrey": {
       "episode_count": 3,
@@ -111349,6 +111381,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/johnlennon/"
     },
+    "JohnLilburne": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5613809659 [GLT5613809659].md",
+          "key": "62-magna-carta-glt5613809659",
+          "show": "The Rest Is History",
+          "title": "62. Magna Carta",
+          "url": "/wiki/sources/62-magna-carta-glt5613809659/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/johnlilburne/"
+    },
     "JohnMasonNeale": {
       "episode_count": 1,
       "show_count": 1,
@@ -114550,6 +114598,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/kingfaisal/"
     },
+    "KingJohn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5613809659 [GLT5613809659].md",
+          "key": "62-magna-carta-glt5613809659",
+          "show": "The Rest Is History",
+          "title": "62. Magna Carta",
+          "url": "/wiki/sources/62-magna-carta-glt5613809659/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/kingjohn/"
+    },
     "KingSolomonsMines": {
       "episode_count": 1,
       "show_count": 1,
@@ -114565,6 +114629,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/kingsolomonsmines/"
+    },
+    "KingUnderLaw": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5613809659 [GLT5613809659].md",
+          "key": "62-magna-carta-glt5613809659",
+          "show": "The Rest Is History",
+          "title": "62. Magna Carta",
+          "url": "/wiki/sources/62-magna-carta-glt5613809659/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/kingunderlaw/"
     },
     "KingdomOfGodEschatology": {
       "episode_count": 1,
@@ -130767,6 +130847,29 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/magichatbrewingcompany/"
+    },
+    "MagnaCarta": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "100.法律的悖论：谢天谢地，幸好我们还有罗翔 [733477302].md",
+          "key": "100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302",
+          "show": "蜜獾吃书",
+          "title": "100.法律的悖论：谢天谢地，幸好我们还有罗翔",
+          "url": "/wiki/sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302/"
+        },
+        {
+          "episode_file": "GLT5613809659 [GLT5613809659].md",
+          "key": "62-magna-carta-glt5613809659",
+          "show": "The Rest Is History",
+          "title": "62. Magna Carta",
+          "url": "/wiki/sources/62-magna-carta-glt5613809659/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/magnacarta/"
     },
     "MagneticResonanceSafetyAndAppropriateness": {
       "episode_count": 3,
@@ -197501,9 +197604,9 @@
       "url": "/wiki/entities/tedsarandos/"
     },
     "TedVallance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2968292003 [GLT2968292003].md",
@@ -197518,9 +197621,16 @@
           "show": "The Rest Is History",
           "title": "143. The Trial of Charles I Part 1",
           "url": "/wiki/sources/143-the-trial-of-charles-i-part-1-glt4850801452/"
+        },
+        {
+          "episode_file": "GLT5613809659 [GLT5613809659].md",
+          "key": "62-magna-carta-glt5613809659",
+          "show": "The Rest Is History",
+          "title": "62. Magna Carta",
+          "url": "/wiki/sources/62-magna-carta-glt5613809659/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/tedvallance/"
     },
     "Telemachus": {
