@@ -8581,9 +8581,9 @@
       "url": "/wiki/entities/almansurcordoba/"
     },
     "AlMurray": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2932235302 [GLT2932235302].md",
@@ -8591,9 +8591,16 @@
           "show": "The Rest Is History",
           "title": "247. Monty & Patton vs. the Nazis",
           "url": "/wiki/sources/247-monty-patton-vs-the-nazis-glt2932235302/"
+        },
+        {
+          "episode_file": "GLT5677879972 [GLT5677879972].md",
+          "key": "28-the-kings-of-comedy-glt5677879972",
+          "show": "The Rest Is History",
+          "title": "28. The Kings of Comedy",
+          "url": "/wiki/sources/28-the-kings-of-comedy-glt5677879972/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/almurray/"
     },
     "AlQaeda": {
@@ -41509,9 +41516,9 @@
       "url": "/wiki/concepts/columbussecondvoyagecolonization/"
     },
     "ComedyAsInvoluntaryJudgment": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7538555033 [SCIM7538555033].md",
@@ -41519,10 +41526,33 @@
           "show": "Huberman Lab",
           "title": "The Science & Art of Comedy & Creativity | Tom Segura",
           "url": "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+        },
+        {
+          "episode_file": "GLT5677879972 [GLT5677879972].md",
+          "key": "28-the-kings-of-comedy-glt5677879972",
+          "show": "The Rest Is History",
+          "title": "28. The Kings of Comedy",
+          "url": "/wiki/sources/28-the-kings-of-comedy-glt5677879972/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/comedyasinvoluntaryjudgment/"
+    },
+    "ComedyShapingHistoricalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5677879972 [GLT5677879972].md",
+          "key": "28-the-kings-of-comedy-glt5677879972",
+          "show": "The Rest Is History",
+          "title": "28. The Kings of Comedy",
+          "url": "/wiki/sources/28-the-kings-of-comedy-glt5677879972/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/comedyshapinghistoricalmemory/"
     },
     "ComfortLedFootwearDemand": {
       "episode_count": 2,
@@ -100863,9 +100893,9 @@
       "url": "/wiki/entities/humbertodelgado/"
     },
     "HumorousRemonstrance": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人 [lnHc_LSJ53gY-YqMWqobNw5Y37g9].md",
@@ -100873,9 +100903,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9/"
+        },
+        {
+          "episode_file": "GLT5677879972 [GLT5677879972].md",
+          "key": "28-the-kings-of-comedy-glt5677879972",
+          "show": "The Rest Is History",
+          "title": "28. The Kings of Comedy",
+          "url": "/wiki/sources/28-the-kings-of-comedy-glt5677879972/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/humorousremonstrance/"
     },
     "HundredSchoolsSynthesis": {
@@ -136635,9 +136672,9 @@
       "url": "/wiki/concepts/masonicsecrecyconspiracyfeedback/"
     },
     "MassBroadcastCulture": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5281126494 [GLT5281126494].md",
@@ -136645,9 +136682,16 @@
           "show": "The Rest Is History",
           "title": "137. 1922: The Birth of the Modern World Part 2",
           "url": "/wiki/sources/137-1922-the-birth-of-the-modern-world-part-2-glt5281126494/"
+        },
+        {
+          "episode_file": "GLT5677879972 [GLT5677879972].md",
+          "key": "28-the-kings-of-comedy-glt5677879972",
+          "show": "The Rest Is History",
+          "title": "28. The Kings of Comedy",
+          "url": "/wiki/sources/28-the-kings-of-comedy-glt5677879972/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/massbroadcastculture/"
     },
     "MassExtinctionPlanetaryWarning": {
@@ -151643,6 +151687,36 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/odysseus/"
+    },
+    "OffensiveHumorSpeechSpace": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "162.屁书：闲聊“人间之气”！一天几次最健康？ [938004270].md",
+          "key": "162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270",
+          "show": "蜜獾吃书",
+          "title": "162.屁书：闲聊“人间之气”！一天几次最健康？",
+          "url": "/wiki/sources/162-pishu-xianliao-renjian-zhi-qi-yitian-jici-zui-jiankang-938004270/"
+        },
+        {
+          "episode_file": "135.闲聊伟大作家们的八卦（第三弹） [823746670].md",
+          "key": "135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670",
+          "show": "蜜獾吃书",
+          "title": "135.闲聊伟大作家们的八卦（第三弹）",
+          "url": "/wiki/sources/135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670/"
+        },
+        {
+          "episode_file": "GLT5677879972 [GLT5677879972].md",
+          "key": "28-the-kings-of-comedy-glt5677879972",
+          "show": "The Rest Is History",
+          "title": "28. The Kings of Comedy",
+          "url": "/wiki/sources/28-the-kings-of-comedy-glt5677879972/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/offensivehumorspeechspace/"
     },
     "OfficeAgentHarnessDesign": {
       "episode_count": 1,

@@ -2931,6 +2931,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "28-the-kings-of-comedy-glt5677879972": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "280-serbia-the-birthplace-of-civilisation-glt4941340070": [
     {
       "key": "history",
@@ -22841,6 +22848,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ComedyShapingHistoricalMemory": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "ComfortLedFootwearDemand": [

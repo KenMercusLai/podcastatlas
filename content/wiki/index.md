@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [28. The Kings of Comedy](sources/28-the-kings-of-comedy-glt5677879972.md) — The Rest Is History with Al Murray on licensed fools, wartime humor, changing taste, comic historical memory, and the rise and fragmentation of shared broadcast culture.
 - [29. Americanisation](sources/29-americanisation-glt9683168458.md) — The Rest Is History on American power through language, media, consumer culture, strategic scale, moral centrality, reciprocal exchange, and domain limits.
 - [30. A Royal Row](sources/30-a-royal-row-glt5120507213.md) — The Rest Is History on Harry and Meghan, outsider royal marriage, rival emotional norms, Commonwealth symbolism, media vulnerability, and dynastic family conflict.
 - [31. The Second Reich](sources/31-the-second-reich-glt1008050219.md) — The Rest Is History with Katja Hoyer on Prussia, German nationhood, Bismarckian unification, imperial militarism, industrial power, and retrospective memory.
@@ -4175,7 +4176,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Liz Truss](entities/LizTruss.md) — British prime minister whose 45-day tenure became a case of rapid policy and political-authority collapse.
 - [Kwasi Kwarteng](entities/KwasiKwarteng.md) — Truss's chancellor, associated with the mini-budget and the failed attempt to restore authority by dismissing a close ally.
 - [Rishi Sunak](entities/RishiSunak.md) — Conservative leadership rival used to examine activist preference, competence, authenticity, and succession resentment.
-- [Al Murray](entities/AlMurray.md) — Author and broadcaster presenting a systems-centered account of Allied Second World War command.
+- [Al Murray](entities/AlMurray.md) — Comedian, author, and broadcaster connecting popular history, comedy, public memory, and systems-centered military command.
 - [Bernard Montgomery](entities/BernardMontgomery.md) — British commander framed through morale, discipline, welfare, and institutional effectiveness.
 - [William Slim](entities/WilliamSlim.md) — Burma commander presented as rebuilding and adapting a diverse imperial army.
 - [George S. Patton](entities/GeorgeSPatton.md) — American commander associated with tactical ability and deliberate theatrical self-presentation.
@@ -16206,7 +16207,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Respiratory Rhythm Generation](concepts/RespiratoryRhythmGeneration.md) — Brainstem coordination of inspiratory rhythm, recruited active expiration, respiratory muscles, and state-linked ascending signals.
 - [Literary Modernism and Postwar Fragmentation](concepts/LiteraryModernismPostwarFragmentation.md) — Modernist difficulty, documentary specificity, fragments, and inherited tradition interpreted within the aftermath of mass war.
 - [Postwar Crisis Modernity in 1922](concepts/PostwarCrisisModernity1922.md) — Hinge-year synthesis joining cultural experiment, political violence, fascist enabling, Soviet formation, and institutional fragility.
-- [Mass Broadcast Culture](concepts/MassBroadcastCulture.md) — Shared-audience culture formed through radio, film, news spectacle, and institutional gatekeepers, with later fragmentation as a qualification.
+- [Mass Broadcast Culture](concepts/MassBroadcastCulture.md) — Shared-audience culture formed through radio, film, news, and comedy, with later fragmentation and unequal inclusion as qualifications.
 - [Imperial Retrenchment After the First World War](concepts/ImperialRetrenchmentAfterFirstWorldWar.md) — Gap between formal imperial reach and reduced fiscal, naval, and political command after 1918.
 - [Irish Treaty-Civil War Split](concepts/IrishTreatyCivilWarSplit.md) — Mechanism by which partial sovereignty, the oath, and partition divided an independence movement into civil conflict.
 - [Ethnonational State Formation After Empire](concepts/EthnonationalStateFormationAfterEmpire.md) — Replacement of plural imperial space by nationally bounded successor states through war, mandate, and displacement.
@@ -17472,6 +17473,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Therapeutic State Learning](concepts/TherapeuticStateLearning.md) — Hypothesis that altered or relational experiences matter when their learning transfers into later ordinary life.
 - [Stand-up Comedy Iteration](concepts/StandupComedyIteration.md) — Live process of turning captured premises into working material through testing, revision, sequencing, and retirement.
 - [Comedy as Involuntary Judgment](concepts/ComedyAsInvoluntaryJudgment.md) — Laughter as rapid felt evidence that remains contextual and partly opaque.
+- [Comedy Shaping Historical Memory](concepts/ComedyShapingHistoricalMemory.md) — Comic simplification, parody, quotation, and tonal reversal becoming durable public shorthand for the past.
 - [Performer-Audience State Coupling](concepts/PerformerAudienceStateCoupling.md) — Reciprocal shaping of performer readiness and audience emotion during live performance.
 - [Pediatric Myopia Control / 儿童青少年近视防控](concepts/PediatricMyopiaControl.md) — Longitudinal framework for slowing myopia onset or progression through behavior, combined measurement, optical control, and medication without cure claims.
 - [Orthokeratology Myopia Control / 角膜塑形镜近视控制](concepts/OrthokeratologyMyopiaControl.md) — Temporary overnight corneal reshaping for daytime clarity and peripheral defocus, bounded by fitting, hygiene, corneal health, and visual quality.
@@ -17716,7 +17718,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antisemitism Israel Criticism Boundary](concepts/AntisemitismIsraelCriticismBoundary.md) — Distinction between legitimate criticism of Israeli government policy and identity-based blame or dual-loyalty claims directed at Jews.
 - [Aristocratic Death Dignity / 贵族式临终尊严](concepts/AristocraticDeathDignity.md) — Dignity pattern where bodily composure, ritual form, and courtesy at the edge of death express noble spirit.
 - [溺爱不明 / Parental Indulgence Blindness](concepts/ParentalIndulgenceBlindness.md) — Parenting and family-education pattern where love blinds caregivers to faults and turns protection into exemption from limits.
-- [滑稽讽谏 / Humorous Remonstrance](concepts/HumorousRemonstrance.md) — Corrective speech that uses wit, comic reversal, and absurd extrapolation to expose flattery or false logic near power.
+- [滑稽讽谏 / Humorous Remonstrance](concepts/HumorousRemonstrance.md) — Licensed or indirect comic speech that exposes false logic and carries conditional criticism near power.
 - [Tang-Wu Revolution Legitimacy Taboo / 汤武革命合法性禁区](concepts/TangWuRevolutionLegitimacyTaboo.md) — Political boundary where anti-tyrant revolution legitimates a dynasty's founding but threatens later rulers if treated as repeatable doctrine.
 - [Diplomatic Neglect Escalation](concepts/DiplomaticNeglectEscalation.md) — Pattern where an ignored diplomatic response becomes a crisis amplifier because recognition and status are at stake.
 - [Hostage Mission Dependency Trap](concepts/HostageMissionDependencyTrap.md) — Crisis pattern where rescue envoys and support missions become additional hostage leverage.

@@ -28868,3 +28868,11 @@ Added source `29-americanisation-glt9683168458`; created [[Americanization]]; an
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 28. The Kings of Comedy
+
+Added source `28-the-kings-of-comedy-glt5677879972`; created [[ComedyShapingHistoricalMemory]]; and resynthesized [[AlMurray]], [[HumorousRemonstrance]], [[ComedyAsInvoluntaryJudgment]], [[MassBroadcastCulture]], and [[OffensiveHumorSpeechSpace]] from their complete preserved evidence inventories. Core synthesis: comedy is historically situated evidence about status, trauma, taste, audience, and media, while licensed mockery can carry conditional criticism and memorable comic works can shape public history beyond academic control. No settled contradiction was adopted. Cross-cultural jester stories, audience-influence claims, judgments about what remains funny, and the scale or loss of shared British comic culture remain source-scoped. Recurring host and show profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,608-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

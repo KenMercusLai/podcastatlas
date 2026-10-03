@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2505
+topic_total_pages: 2507
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -247,6 +247,9 @@ topic_concepts:
   - key: "ColonialSourceMediation"
     title: "Colonial Source Mediation"
     url: "/wiki/concepts/colonialsourcemediation/"
+  - key: "ComedyShapingHistoricalMemory"
+    title: "Comedy Shaping Historical Memory"
+    url: "/wiki/concepts/comedyshapinghistoricalmemory/"
   - key: "CommandSynchronizationFailure"
     title: "Command Synchronization Failure / 军令同步失灵"
     url: "/wiki/concepts/commandsynchronizationfailure/"
@@ -5469,6 +5472,9 @@ topic_sources:
   - key: "279-cameroon-the-slave-general-of-peter-the-great-glt8175760918"
     title: "279: Cameroon: The Slave General of Peter the Great"
     url: "/wiki/sources/279-cameroon-the-slave-general-of-peter-the-great-glt8175760918/"
+  - key: "28-the-kings-of-comedy-glt5677879972"
+    title: "28. The Kings of Comedy"
+    url: "/wiki/sources/28-the-kings-of-comedy-glt5677879972/"
   - key: "280-serbia-the-birthplace-of-civilisation-glt4941340070"
     title: "280: Serbia: The Birthplace of Civilisation"
     url: "/wiki/sources/280-serbia-the-birthplace-of-civilisation-glt4941340070/"
