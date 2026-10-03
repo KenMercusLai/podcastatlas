@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9423
+wiki_total_pages: 9424
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "ChildhoodSurvivalRuleGeneralization"
     title: "Childhood Survival Rule Generalization / 童年生存规则泛化"
     url: "/wiki/concepts/childhoodsurvivalrulegeneralization/"
+  - key: "ChildrensHistoryNarrative"
+    title: "Children's History Narrative"
+    url: "/wiki/concepts/childrenshistorynarrative/"
   - key: "ChildrensLiteratureComplexity"
     title: "Children's Literature Complexity"
     url: "/wiki/concepts/childrensliteraturecomplexity/"

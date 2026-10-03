@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12123
+wiki_total_pages: 12124
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "AdventrisPharmaceuticals"
     title: "Adventris Pharmaceuticals"
     url: "/wiki/entities/adventrispharmaceuticals/"
+  - key: "AdventuresInTime"
+    title: "Adventures in Time"
+    url: "/wiki/entities/adventuresintime/"
   - key: "AdWords"
     title: "AdWords"
     url: "/wiki/entities/adwords/"

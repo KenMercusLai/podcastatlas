@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2455
+topic_total_pages: 2457
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -181,6 +181,9 @@ topic_concepts:
   - key: "ChildbirthHistory"
     title: "Childbirth History"
     url: "/wiki/concepts/childbirthhistory/"
+  - key: "ChildrensHistoryNarrative"
+    title: "Children's History Narrative"
+    url: "/wiki/concepts/childrenshistorynarrative/"
   - key: "ChineseAstrologicalPolitics"
     title: "Chinese Astrological Politics / 中国星占政治"
     url: "/wiki/concepts/chineseastrologicalpolitics/"
@@ -6306,6 +6309,9 @@ topic_sources:
   - key: "699-the-troubles-return-of-the-ira-part-3-glt9519811642"
     title: "699. The Troubles: Return of the IRA (Part 3)"
     url: "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+  - key: "70-childrens-history-glt3229015713"
+    title: "70. Children’s History"
+    url: "/wiki/sources/70-childrens-history-glt3229015713/"
   - key: "700-the-troubles-bloody-sunday-part-4-glt3909829334"
     title: "700. The Troubles: Bloody Sunday (Part 4)"
     url: "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"

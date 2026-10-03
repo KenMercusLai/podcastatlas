@@ -6658,6 +6658,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/adventureuncertaintyreframing/"
     },
+    "AdventuresInTime": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3229015713 [GLT3229015713].md",
+          "key": "70-childrens-history-glt3229015713",
+          "show": "The Rest Is History",
+          "title": "70. Children’s History",
+          "url": "/wiki/sources/70-childrens-history-glt3229015713/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/adventuresintime/"
+    },
     "AdversitySilenceDiscipline": {
       "episode_count": 5,
       "show_count": 1,
@@ -35040,6 +35056,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/childeharoldspilgrimage/"
     },
+    "ChildrensHistoryNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3229015713 [GLT3229015713].md",
+          "key": "70-childrens-history-glt3229015713",
+          "show": "The Rest Is History",
+          "title": "70. Children’s History",
+          "url": "/wiki/sources/70-childrens-history-glt3229015713/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/childrenshistorynarrative/"
+    },
     "Chile": {
       "episode_count": 4,
       "show_count": 3,
@@ -53941,9 +53973,9 @@
       "url": "/wiki/entities/dominicmiarten/"
     },
     "DominicSandbrook": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4575290976 [GLT4575290976].md",
@@ -53958,6 +53990,13 @@
           "show": "The Rest Is History",
           "title": "95. 9/11",
           "url": "/wiki/sources/95-9-11-glt8208243510/"
+        },
+        {
+          "episode_file": "GLT3229015713 [GLT3229015713].md",
+          "key": "70-childrens-history-glt3229015713",
+          "show": "The Rest Is History",
+          "title": "70. Children’s History",
+          "url": "/wiki/sources/70-childrens-history-glt3229015713/"
         }
       ],
       "updated": "2026-10-03",

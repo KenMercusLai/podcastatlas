@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [70. Children’s History](sources/70-childrens-history-glt3229015713.md) — The Rest Is History on narrative hooks, child-reader feedback, atrocity, moral signaling, myth, ambiguity, and multiple perspectives in history for children.
 - [The Science of Hearing, Balance & Accelerated Learning](sources/scim1865244910-scim1865244910.md) — Full-length Huberman Lab episode on micro-rest replay, auditory attention, conditional sound tools, hearing safety, tinnitus boundaries, and visual-vestibular balance training.
 - [EP180-非典型北京妈妈的佛系鸡娃：我们究竟想培养怎样的孩子？](sources/ep180-feidianxing-beijing-mama-de-foxi-jiwa-women-jiujing-xiang-peiyang-zenyang-de-haizi-ckwridoewbb3abaaaadgpbgf.md) — 无时差研究所 episode on education competition, advance learning, tutoring substitution, school capacity, family coordination, and child-development goals beyond scores.
 - [71. England v Denmark](sources/71-england-v-denmark-glt2805859297.md) — The Rest Is History on Viking pressure and English state formation, Danelaw assimilation, Cnut, Stuart marriage, Copenhagen, literary exchange, wartime alliance, and football.
@@ -3824,7 +3825,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anatoly Sobchak](entities/AnatolySobchak.md) — St. Petersburg mayor and constitutional contributor who served as Vladimir Putin's professor, patron, and political superior.
 - [Boris Yeltsin](entities/BorisYeltsin.md) — Post-Soviet Russian president linking rapid market transition, executive concentration, oligarchic power, Chechen war, and Putin's succession.
 - [Yegor Gaidar](entities/YegorGaidar.md) — Russian reformer associated with rapid price liberalization and the social and political backlash to shock therapy.
-- [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian interpreting authoritarian legitimacy and 9/11 through reaction, contingency, nationalism, visual memory, and unintended consequence.
+- [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian and children’s-history author connecting political interpretation to reader-tested narrative, moral signaling, and qualified myth.
+- [Adventures in Time](entities/AdventuresInTime.md) — Dominic Sandbrook’s children’s-history series using narrative momentum, vivid detail, reader testing, and ethical restraint.
 - [Peter Pomerantsev](entities/PeterPomerantsev.md) — Author whose work supplies the episode's framework for managed media, staged opposition, and destabilized political reality.
 - [Ferdinand Maximilian](entities/FerdinandMaximilian.md) — Liberal Habsburg archduke whose foreign-backed Mexican throne ended at Queretaro in 1867.
 - [Benito Juarez](entities/BenitoJuarez.md) — Liberal Mexican president who preserved republican resistance and defeated the Second Mexican Empire.
@@ -15763,6 +15765,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Children's History Narrative](concepts/ChildrensHistoryNarrative.md) — Craft framework joining story, child-reader feedback, age-appropriate atrocity, moral signaling, myth correction, ambiguity, and multiple perspectives.
 - [Micro-Rest Learning Replay](concepts/MicroRestLearningReplay.md) — Practice-design principle using brief wakeful, low-input pauses to create opportunities for offline replay without treating ten seconds as a universal law.
 - [Anglo-Danish Relations](concepts/AngloDanishRelations.md) — Long-run relationship joining invasion, settlement, state formation, dynastic connection, naval violence, cultural exchange, and wartime alliance.
 - [Education Competition Uncertainty Loop / 教育竞争不确定性循环](concepts/EducationCompetitionUncertaintyLoop.md) — Escalation mechanism joining opaque comparison, scarce opportunity, reassurance spending, and rising preparation norms.
