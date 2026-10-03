@@ -6380,6 +6380,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "8-the-echo-of-a-coffee-house-glt8695060101": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "80-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-shang-691866649": [
     {
       "key": "history",
@@ -85426,6 +85433,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "VocalMinorityHistoricalAgency": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "VocalTractSpeechProduction": [

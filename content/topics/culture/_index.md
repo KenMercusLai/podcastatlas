@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3096
+topic_total_pages: 3097
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3112,6 +3112,9 @@ topic_concepts:
   - key: "VisualRepresentationLiteracy"
     title: "Visual Representation Literacy / 视觉表征素养"
     url: "/wiki/concepts/visualrepresentationliteracy/"
+  - key: "VocalMinorityHistoricalAgency"
+    title: "Vocal Minority Historical Agency"
+    url: "/wiki/concepts/vocalminorityhistoricalagency/"
   - key: "VocationalEducation"
     title: "Vocational Education / 职业教育"
     url: "/wiki/concepts/vocationaleducation/"

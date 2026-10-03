@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2533
+topic_total_pages: 2535
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1504,6 +1504,9 @@ topic_concepts:
   - key: "VirtuePracticeInternalization"
     title: "Virtue Practice Internalization / 修养内化"
     url: "/wiki/concepts/virtuepracticeinternalization/"
+  - key: "VocalMinorityHistoricalAgency"
+    title: "Vocal Minority Historical Agency"
+    url: "/wiki/concepts/vocalminorityhistoricalagency/"
   - key: "WanbiGuizhaoDiplomacy"
     title: "Wanbi Guizhao Diplomacy / 完璧归赵式外交"
     url: "/wiki/concepts/wanbiguizhaodiplomacy/"
@@ -6606,6 +6609,9 @@ topic_sources:
   - key: "79-ancient-olympics-glt9627584488"
     title: "79. Ancient Olympics"
     url: "/wiki/sources/79-ancient-olympics-glt9627584488/"
+  - key: "8-the-echo-of-a-coffee-house-glt8695060101"
+    title: "8. The Echo of a Coffee House"
+    url: "/wiki/sources/8-the-echo-of-a-coffee-house-glt8695060101/"
   - key: "80-modern-olympics-part-1-glt3795252606"
     title: "80. Modern Olympics - Part 1"
     url: "/wiki/sources/80-modern-olympics-part-1-glt3795252606/"

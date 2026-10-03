@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 9581
+wiki_total_pages: 9582
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "VocalLearningEvolution"
     title: "Vocal Learning Evolution"
     url: "/wiki/concepts/vocallearningevolution/"
+  - key: "VocalMinorityHistoricalAgency"
+    title: "Vocal Minority Historical Agency"
+    url: "/wiki/concepts/vocalminorityhistoricalagency/"
   - key: "VocalTractSpeechProduction"
     title: "Vocal-Tract Speech Production"
     url: "/wiki/concepts/vocaltractspeechproduction/"

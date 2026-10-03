@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [8. The Echo of a Coffee House](sources/8-the-echo-of-a-coffee-house-glt8695060101.md) — The Rest Is History on Reformation print, social-media amplification, culture wars, vocal minorities, archival visibility, and the conditions for durable moral change.
 - [9. Causes of the First World War](sources/9-causes-of-the-first-world-war-glt8234482474.md) — The Rest Is History on fear, preventive-war logic, alliances, mobilisation, imperial strategy, Britain's contingent entry, and counterfactual neutrality.
 - [11. Brexit](sources/11-brexit-glt9171248177.md) — The Rest Is History survey of geographic, constitutional, imperial, and wartime Brexit parallels, emphasizing selective memory and the limits of historical analogy.
 - [12. Conspiracy Theories](sources/12-conspiracy-theories-glt7580472793.md) — The Rest Is History survey of conspiracy belief as meaning-making, political weaponry, grain-of-truth reasoning, scapegoating, and institutional consequence.
@@ -16073,6 +16074,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Racial Microaggression Cumulative Harm / 种族微歧视的累积伤害](concepts/RacialMicroaggressionCumulativeHarm.md) — Repeated ambiguous suspicion, coldness, misrecognition, or fetishization that produces self-doubt and withdrawal.
 - [Asian Diaspora Belonging Pressure / 亚裔离散归属压力](concepts/AsianDiasporaBelongingPressure.md) — Generational and migration strain around language, origin, representation, and conditional national belonging.
 - [Culture War Historical Genealogy](concepts/CultureWarHistoricalGenealogy.md) — Framework separating recurring symbolic-identity conflict from the modern Western moral grammar of progress, purification, and tradition.
+- [Vocal Minority Historical Agency](concepts/VocalMinorityHistoricalAgency.md) — Conditional model separating minority intensity, media visibility, representativeness, institutional consolidation, and durable change.
 - [Fiscal-Military State](concepts/FiscalMilitaryState.md) — State capacity that converts taxation, public credit, borrowing, subsidy, logistics, and supply into sustained military power.
 - [Doctoral Training and Career Alignment / 博士培养与职业对齐](concepts/DoctoralTrainingCareerAlignment.md) — Aligning degree timing and preparation with academic, industry, public-sector, or other intended work.
 - [Long-Cycle Social-Science Research / 社会科学长周期研究](concepts/LongCycleSocialScienceResearch.md) — Research pipeline from question, data, and replication through feedback, revision, publication, or abandonment.
