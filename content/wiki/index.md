@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP176-巨头混战的社区团购，魅力何在？](sources/ep176-jutou-hunzhan-de-shequ-tuangou-meili-he-zai-ckwrijeem9ngabaaaac5h72a.md) — 无时差研究所 on demand-led community buying, center and grid warehouses, neighborhood pickup, rural retail access, platform competition, and fulfillment limits.
 - [63. Hitler, with Ian Kershaw - part 1](sources/63-hitler-with-ian-kershaw-part-1-glt1996418919.md) — The Rest Is History with Ian Kershaw on Hitler's contingent postwar formation, individual agency, structural conditions, historical method, and the long radicalization from antisemitism to genocide.
 - [64. Hitler, with Ian Kershaw - part 2](sources/64-hitler-with-ian-kershaw-part-2-glt5766781968.md) — The Rest Is History with Ian Kershaw on Hitler's delegated dictatorship, radicalization, war, defeat, postwar memory, and the limits of madness or moral analogy as explanation.
 - [EP177-巴以冲突：我们该如何理解遥远的哭声](sources/ep177-ba-yi-chongtu-women-gai-ruhe-lijie-yaoyuan-de-kusheng-ckwriaiepeo1abaaaac8efxz.md) — 无时差研究所 on Sheikh Jarrah, the Nakba, return rights, differentiated Palestinian legal status, territorial fragmentation, Zionism, and the boundary between Israel criticism and antisemitism.
@@ -14193,9 +14194,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [朴朴超市 / Pupu Supermarket](entities/PupuSupermarket.md) — Fuzhou-origin front-warehouse grocery company used as a steadier density-first contrast.
 - [盒马 / Hema](entities/Hema.md) — Store-warehouse fresh-retail route inside Alibaba's grocery and instant-retail experiments.
 - [呆萝卜 / Da Luobo](entities/DaLuobo.md) — Hefei community fresh-grocery company that expanded quickly before cash-burn collapse.
-- [兴盛优选 / Xingsheng Youxuan](entities/XingshengYouxuan.md) — Early community group-buying platform before large-platform subsidy competition.
-- [多多买菜 / Duoduo Maicai](entities/DuoduoMaicai.md) — Pinduoduo's community-group-buying business and a surviving platform-backed route.
-- [美团优选 / Meituan Youxuan](entities/MeituanYouxuan.md) — Meituan's community-group-buying business in the large-platform entry wave.
+- [兴盛优选 / Xingsheng Youxuan](entities/XingshengYouxuan.md) — Early community-buying operator whose store network supported group heads, pickup points, and local density.
+- [多多买菜 / Duoduo Maicai](entities/DuoduoMaicai.md) — Pinduoduo's demand-informed, platform-backed community-grocery route.
+- [美团优选 / Meituan Youxuan](entities/MeituanYouxuan.md) — Meituan's platform-backed next-day neighborhood-retail and logistics route.
 - [淘菜菜 / Taocaicai](entities/Taocaicai.md) — Alibaba's community-grocery business and platform-backed community group-buying entrant.
 - [Lan Shili / 兰世立](entities/LanShili.md) — Hubei entrepreneur whose East Star businesses, airline failure, litigation, acquittal, and later relaunch attempts anchor the episode.
 - [East Star Airlines / 东星航空](entities/EastStarAirlines.md) — Early Chinese private airline founded by Lan Shili, expanded through aircraft leasing, and grounded in 2009 before bankruptcy.
@@ -23869,8 +23870,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ecommerce Surface Metrics Risk](concepts/EcommerceSurfaceMetricsRisk.md) — Risk that GMV, growth, valuation, repeat purchase, and listing status hide weak cash flow and unit economics.
 - [Vertical Ecommerce Failure Modes](concepts/VerticalEcommerceFailureModes.md) — Category-platform trap where focus aids early growth but expansion, inventory, and marketplace copying erode advantage.
 - [Platform Dependency Risk](concepts/PlatformDependencyRisk.md) — Vulnerability created when growth relies on another platform's traffic, links, rankings, rules, or creator ecosystem.
-- [Fresh Grocery Ecommerce Economics](concepts/FreshGroceryEcommerceEconomics.md) — Online grocery constraints around low gross margin, cold chain, shrinkage, density, and delivery cost.
-- [Community Group Buying](concepts/CommunityGroupBuying.md) — Preorder, aggregate-purchase, neighborhood-pickup grocery model shaped by group leaders, subsidy wars, and regulation.
+- [Fresh Grocery Ecommerce Economics](concepts/FreshGroceryEcommerceEconomics.md) — Tradeoffs among perishability, inventory, density, speed, coverage, and fulfillment cost across online grocery formats.
+- [Community Group Buying](concepts/CommunityGroupBuying.md) — Demand-led preorder, warehouse, grouped-route, and neighborhood-pickup model with rural reach and operational limits.
 - [Instant Retail](concepts/InstantRetail.md) — One-hour local delivery layer expanding ecommerce into groceries, medicine, flowers, alcohol, daily goods, and electronics.
 - [Ecommerce Fulfillment Complexity](concepts/EcommerceFulfillmentComplexity.md) — Operational burden behind online orders across purchasing, inventory, warehousing, picking, delivery, returns, fraud, and after-sales.
 - [Chinese Private Airline Opening](concepts/ChinesePrivateAirlineOpening.md) — Policy and market window that let private capital enter Chinese civil aviation while leaving high capital and regulatory barriers intact.

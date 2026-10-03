@@ -28396,3 +28396,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | EP176-巨头混战的社区团购，魅力何在？
+
+Added source `ep176-jutou-hunzhan-de-shequ-tuangou-meili-he-zai-ckwrijeem9ngabaaaac5h72a`; resynthesized `CommunityGroupBuying`, `FreshGroceryEcommerceEconomics`, `XingshengYouxuan`, `MeituanYouxuan`, `DuoduoMaicai`, and `DingdongMaicai` from their complete preserved evidence inventories. Core synthesis: community group buying is a demand-led next-day retail and logistics network whose preorder aggregation, short warehouse dwell, grouped routes, and pickup nodes can reduce inventory and last-mile costs while extending assortment into underserved rural markets. It does not eliminate thin margins, subsidy pressure, returns, high-value custody, cross-province freight, congestion, or regional adaptation, and therefore coexists with front-warehouse instant delivery. No settled contradiction was adopted; profitability, commission, warehouse-time, service-radius, market-share, and competitive claims remain historical and source-scoped to the June 2021 episode. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,549-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
