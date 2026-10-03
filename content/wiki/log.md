@@ -28716,3 +28716,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 40. History as Entertainment
+
+Added source `40-history-as-entertainment-glt9519276470`; created bounded profiles for Monopoly, Puy du Fou, and the Civilization game series; and created concepts for historical entertainment, reenactment politics, historical game simulation, and the ethics of historical entertainment. Core synthesis: entertainment can make the past imaginable and strategic constraints experiential, but every performance and rule system selects viewpoints, rewards, outcomes, and omissions; detailed texture does not prevent deterministic development models, nationalist framing, or the concealment of slavery and atrocity. No settled contradiction was adopted. Claims about particular spectacles, game origins and mechanics, visitor rankings, reenactor politics, military wargaming, and audience effects remain source-scoped. Recurring hosts and show profiles were not changed because the survey adds no durable identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,589-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2488
+topic_total_pages: 2490
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -601,6 +601,9 @@ topic_concepts:
   - key: "HistoricalDreamForeshadowing"
     title: "Historical Dream Foreshadowing / 梦兆叙事伏笔"
     url: "/wiki/concepts/historicaldreamforeshadowing/"
+  - key: "HistoricalEntertainment"
+    title: "Historical Entertainment"
+    url: "/wiki/concepts/historicalentertainment/"
   - key: "HistoricalFantasySourceLayering"
     title: "Historical Fantasy Source Layering"
     url: "/wiki/concepts/historicalfantasysourcelayering/"
@@ -5766,6 +5769,9 @@ topic_sources:
   - key: "399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942"
     title: "399. The Savage Storm: World War II and The Battle for Italy"
     url: "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
+  - key: "40-history-as-entertainment-glt9519276470"
+    title: "40. History as Entertainment"
+    url: "/wiki/sources/40-history-as-entertainment-glt9519276470/"
   - key: "400-victorian-britains-maddest-mystery-glt4466006716"
     title: "400. Victorian Britain's Maddest Mystery"
     url: "/wiki/sources/400-victorian-britains-maddest-mystery-glt4466006716/"

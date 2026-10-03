@@ -2283,6 +2283,10 @@
     "title": "3D printing was supposed to disrupt prosthetic costs. It hasn't.",
     "url": "/wiki/sources/3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt/"
   },
+  "40-history-as-entertainment-glt9519276470": {
+    "title": "40. History as Entertainment",
+    "url": "/wiki/sources/40-history-as-entertainment-glt9519276470/"
+  },
   "40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366": {
     "title": "40.平面国：禁止染色/女人危险/向上不是向北！",
     "url": "/wiki/sources/40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366/"
@@ -18022,6 +18026,10 @@
   "CivilizationFragilityAllegory": {
     "title": "Civilization Fragility Allegory / 文明脆弱性寓言",
     "url": "/wiki/concepts/civilizationfragilityallegory/"
+  },
+  "CivilizationGameSeries": {
+    "title": "Civilization (game series)",
+    "url": "/wiki/entities/civilizationgameseries/"
   },
   "CivilizationModernizationValueInvestmentChina": {
     "title": "《文明、现代化、价值投资与中国》",
@@ -37343,6 +37351,14 @@
     "title": "Historical Dream Foreshadowing / 梦兆叙事伏笔",
     "url": "/wiki/concepts/historicaldreamforeshadowing/"
   },
+  "HistoricalEntertainment": {
+    "title": "Historical Entertainment",
+    "url": "/wiki/concepts/historicalentertainment/"
+  },
+  "HistoricalEntertainmentEthics": {
+    "title": "Ethics of Historical Entertainment",
+    "url": "/wiki/concepts/historicalentertainmentethics/"
+  },
   "HistoricalFantasySourceLayering": {
     "title": "Historical Fantasy Source Layering",
     "url": "/wiki/concepts/historicalfantasysourcelayering/"
@@ -37358,6 +37374,10 @@
   "HistoricalFiguresAsRealityTVArchetypes": {
     "title": "Historical Figures as Reality-TV Archetypes",
     "url": "/wiki/concepts/historicalfiguresasrealitytvarchetypes/"
+  },
+  "HistoricalGameSimulation": {
+    "title": "Historical Game Simulation",
+    "url": "/wiki/concepts/historicalgamesimulation/"
   },
   "HistoricalInquirySourceCriticism": {
     "title": "Historical Inquiry and Source Criticism",
@@ -37406,6 +37426,10 @@
   "HistoricalRecordAuthority": {
     "title": "Historical Record Authority / 史官记录话语权",
     "url": "/wiki/concepts/historicalrecordauthority/"
+  },
+  "HistoricalReenactmentPolitics": {
+    "title": "Politics of Historical Reenactment",
+    "url": "/wiki/concepts/historicalreenactmentpolitics/"
   },
   "HistoricalReportingAIHallucination": {
     "title": "历史报道中的AI幻觉 / Historical Reporting AI Hallucination",
@@ -54623,6 +54647,10 @@
     "title": "Monomyth / 单一神话",
     "url": "/wiki/concepts/monomyth/"
   },
+  "MonopolyGame": {
+    "title": "Monopoly (board game)",
+    "url": "/wiki/entities/monopolygame/"
+  },
   "MonopsonyByArtifice": {
     "title": "Monopsony By Artifice",
     "url": "/wiki/concepts/monopsonybyartifice/"
@@ -64382,6 +64410,10 @@
   "PutnamCompetition": {
     "title": "Putnam Competition",
     "url": "/wiki/entities/putnamcompetition/"
+  },
+  "PuyDuFou": {
+    "title": "Puy du Fou",
+    "url": "/wiki/entities/puydufou/"
   },
   "PuyangBattleLateHan": {
     "title": "濮阳之战 / Puyang Battle (Late Han)",

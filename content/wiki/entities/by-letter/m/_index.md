@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12209
+wiki_total_pages: 12212
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1529,6 +1529,9 @@ wiki_pages:
   - key: "MonicaStoney"
     title: "Monica Stoney"
     url: "/wiki/entities/monicastoney/"
+  - key: "MonopolyGame"
+    title: "Monopoly (board game)"
+    url: "/wiki/entities/monopolygame/"
   - key: "Monrovia"
     title: "Monrovia"
     url: "/wiki/entities/monrovia/"

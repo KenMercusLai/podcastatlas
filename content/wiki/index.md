@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [40. History as Entertainment](sources/40-history-as-entertainment-glt9519276470.md) — The Rest Is History on reenactment, theme parks, board games, video games, historical simulation, ideological framing, and the ethics of making violence entertaining.
 - [EP287 一起逛早市：寻找北方最鲜活的早晨](sources/ep287-yiqi-guang-zaoshi-xunzhao-beifang-zui-xianhuo-de-zaochen-lpuox4b-b02k-awt-hsjuph-froi.md) — Talk三联 field report on northern morning markets, breakfast locality, timed urban space, social life, governance, and tourism-driven change.
 - [EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？](sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y.md) — 无时差研究所 conversation on lived Hainan, tourism geography, free-trade-port opportunity, island logistics, resident costs, public services, and talent retention.
 - [42. The Wild West](sources/42-the-wild-west-glt7464073840.md) — The Rest Is History on frontier expansion, Native dispossession, bison destruction, western celebrity, masculinity, Turner's frontier thesis, and the Wild West as contested national myth.
@@ -15904,6 +15905,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scoff: A History of Food and Class in Britain](entities/ScoffBook.md) — Pen Vogler's book framing food as evidence for class and social change.
 - [Sasanian Empire](entities/SasanianEmpire.md) — Pre-Islamic Iranian empire associated with territorial Iran, compiled historical memory, and armored courtly culture.
 
+- [Monopoly (board game)](entities/MonopolyGame.md) — Property-trading game whose Georgist critique became a commercial accumulation competition and adaptable political form.
+- [Puy du Fou](entities/PuyDuFou.md) — French historical theme park illustrating spectacular, selective, and ideologically situated public history.
+- [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
+
 ## Concepts
 - [Morning Market Urbanism / 早市城市主义](concepts/MorningMarketUrbanism.md) — Timed system joining food access, low-cost trade, social contact, reversible public space, and practical market governance.
 - [Breakfast Locality / 早餐地方性](concepts/BreakfastLocality.md) — Persistence of regional morning foods through stable tastes, small-shop economics, service rhythms, and social occasions.
@@ -25477,5 +25482,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zoroastrian Religious Influence](concepts/ZoroastrianReligiousInfluence.md) — Qualified transmission of Iranian truth/lie, end-times, and redeemer themes into later religious traditions.
 - [Persian Garden and Paradise Tradition](concepts/PersianGardenParadiseTradition.md) — Planned, irrigated, walled garden form and Persian-to-Greek vocabulary behind later paradise imagery.
 - [Persianate Administrative Transmission](concepts/PersianateAdministrativeTransmission.md) — Persian bureaucratic language and practice transmitted through Mughal and British Indian administration.
+
+- [Historical Entertainment](concepts/HistoricalEntertainment.md) — Public engagement with the past through pleasurable narrative, performance, play, spectacle, and immersion.
+- [Politics of Historical Reenactment](concepts/HistoricalReenactmentPolitics.md) — How embodied performance selects identities, victories, enemies, and inherited worlds with continuing political meaning.
+- [Historical Game Simulation](concepts/HistoricalGameSimulation.md) — Rule-based representation that makes strategic constraints experiential while narrowing causation and possible outcomes.
+- [Ethics of Historical Entertainment](concepts/HistoricalEntertainmentEthics.md) — Case-specific boundary between historical engagement and the concealment or aestheticization of violence and oppression.
 
 ## Syntheses

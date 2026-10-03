@@ -3859,6 +3859,13 @@
       "url": "/topics/history/"
     }
   ],
+  "40-history-as-entertainment-glt9519276470": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366": [
     {
       "key": "culture",
@@ -40819,6 +40826,13 @@
     }
   ],
   "HistoricalDreamForeshadowing": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "HistoricalEntertainment": [
     {
       "key": "history",
       "label": "History",

@@ -38598,6 +38598,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/civilizationfragilityallegory/"
     },
+    "CivilizationGameSeries": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9519276470 [GLT9519276470].md",
+          "key": "40-history-as-entertainment-glt9519276470",
+          "show": "The Rest Is History",
+          "title": "40. History as Entertainment",
+          "url": "/wiki/sources/40-history-as-entertainment-glt9519276470/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/civilizationgameseries/"
+    },
     "CivilizationalSelfDestructionCycle": {
       "episode_count": 2,
       "show_count": 2,
@@ -95051,6 +95067,38 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/historicalcritiquetolerance/"
     },
+    "HistoricalEntertainment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9519276470 [GLT9519276470].md",
+          "key": "40-history-as-entertainment-glt9519276470",
+          "show": "The Rest Is History",
+          "title": "40. History as Entertainment",
+          "url": "/wiki/sources/40-history-as-entertainment-glt9519276470/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/historicalentertainment/"
+    },
+    "HistoricalEntertainmentEthics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9519276470 [GLT9519276470].md",
+          "key": "40-history-as-entertainment-glt9519276470",
+          "show": "The Rest Is History",
+          "title": "40. History as Entertainment",
+          "url": "/wiki/sources/40-history-as-entertainment-glt9519276470/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/historicalentertainmentethics/"
+    },
     "HistoricalFantasySourceLayering": {
       "episode_count": 2,
       "show_count": 2,
@@ -95142,6 +95190,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/historicalfiguresasrealitytvarchetypes/"
+    },
+    "HistoricalGameSimulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9519276470 [GLT9519276470].md",
+          "key": "40-history-as-entertainment-glt9519276470",
+          "show": "The Rest Is History",
+          "title": "40. History as Entertainment",
+          "url": "/wiki/sources/40-history-as-entertainment-glt9519276470/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/historicalgamesimulation/"
     },
     "HistoricalInquirySourceCriticism": {
       "episode_count": 4,
@@ -95449,6 +95513,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/historicalreadingassurvivalwisdom/"
+    },
+    "HistoricalReenactmentPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9519276470 [GLT9519276470].md",
+          "key": "40-history-as-entertainment-glt9519276470",
+          "show": "The Rest Is History",
+          "title": "40. History as Entertainment",
+          "url": "/wiki/sources/40-history-as-entertainment-glt9519276470/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/historicalreenactmentpolitics/"
     },
     "HistoricalReputationConstruction": {
       "episode_count": 2,
@@ -142684,6 +142764,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/mongolstrategicterror/"
     },
+    "MonopolyGame": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9519276470 [GLT9519276470].md",
+          "key": "40-history-as-entertainment-glt9519276470",
+          "show": "The Rest Is History",
+          "title": "40. History as Entertainment",
+          "url": "/wiki/sources/40-history-as-entertainment-glt9519276470/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/monopolygame/"
+    },
     "Monsanto": {
       "episode_count": 1,
       "show_count": 1,
@@ -168612,6 +168708,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/pushpullintimacycommunication/"
+    },
+    "PuyDuFou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9519276470 [GLT9519276470].md",
+          "key": "40-history-as-entertainment-glt9519276470",
+          "show": "The Rest Is History",
+          "title": "40. History as Entertainment",
+          "url": "/wiki/sources/40-history-as-entertainment-glt9519276470/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/puydufou/"
     },
     "PyroDash": {
       "episode_count": 1,
