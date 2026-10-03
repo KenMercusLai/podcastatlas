@@ -3781,6 +3781,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "38-communism-glt7587678050": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "380-captain-cook-historys-greatest-explorer-part-1-glt8106697435": [
     {
       "key": "history",
@@ -22912,6 +22919,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Communism": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CommunityBankAIAdoption": [

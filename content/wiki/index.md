@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [38. Communism](sources/38-communism-glt7587678050.md) — The Rest Is History on communist ideals, Christian and utopian precedents, Marx and Engels, Leninist adaptation, Stalinist coercion, political religion, and the persistence of formal communist states.
 - [The Science of Emotions & Relationships](sources/the-science-of-emotions-relationships-scim6339543648.md) — Early Huberman Lab episode on dimensional emotion mapping, attachment, adolescent reorientation, social hormones, and the nonuniform effects of vagal stimulation.
 - [39. Elizabeth I](sources/39-elizabeth-i-glt7302124935.md) — The Rest Is History with Tracy Borman on Elizabeth's religious pragmatism, Virgin Queen image, marriage strategy, surveillance state, Armada, and succession.
 - [EP166-Spotify缘何成为地表最强音乐流媒体平台？](sources/ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd.md) — 无时差研究所 conversation on playlist discovery, distributed recommendation, licensing, cross-language bias, audio-platform expansion, royalty gaming, and Spotify workplace culture.
@@ -3654,6 +3655,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [41. Persia](sources/41-persia-glt6414068538.md) — The Rest Is History conversation with Ali Ansari on Iran/Persia continuity, pre-Islamic empires, Zoroastrian influence, paradise gardens, and Persianate administration.
 
 ## Entities
+- [Vladimir Lenin](entities/VladimirLenin.md) — Bolshevik revolutionary who adapted Marxism to agrarian Russia through vanguard-party organization and seizure of power.
 - [Thomas Seymour](entities/ThomasSeymour.md) — Tudor courtier whose inappropriate conduct toward the teenage Elizabeth created lasting reputational danger.
 - [沈阳 / Shenyang (city)](entities/ShenyangCity.md) — Liaoning capital viewed through Xita memory and the social, spatial, and governance systems of morning markets.
 - [太原 / Taiyuan (modern city)](entities/TaiyuanModern.md) — Shanxi capital represented through reusable market space, regular-customer trade, seasonal produce, and local breakfast.
@@ -12759,7 +12761,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Baruch Spinoza / 斯宾诺莎](entities/BaruchSpinoza.md) — Figure who reframes the absent boss-God as "NATURE" capital in the source's corporate theology joke.
 - [Thomas Aquinas / 托马斯·阿奎那](entities/ThomasAquinas.md) — Catholic workers' union envoy who defends God and criticizes brutalizing commercial competition.
 - [Walter Benjamin / 本雅明](entities/WalterBenjamin.md) — Copier-scene figure used to literalize mechanical reproduction as office work.
-- [Karl Marx / 马克思](entities/KarlMarx.md) — Union graphic designer figure whose office-file mishap turns labor politics into workplace workflow satire.
+- [Karl Marx / 马克思](entities/KarlMarx.md) — Theorist of class, capitalism, and communist emancipation whose work spans political doctrine, later reinterpretation, and cultural satire.
 - [Jean-Jacques Rousseau / 卢梭](entities/JeanJacquesRousseau.md) — Enlightenment insider and critic of civilization whose natural-goodness, virtue, gender, and active-reason afterlives remain qualified by conduct and source scope.
 - [Voltaire / 伏尔泰](entities/Voltaire.md) — Enlightenment critic joining active reason and anti-Christian polemic to socially useful theism, racial classification, civilizational projection, satire, and historical mythmaking.
 - [Jacques Derrida / 德里达](entities/JacquesDerrida.md) — Copier repair figure whose dismantled machine becomes a deconstruction joke.
@@ -13247,7 +13249,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Johann Jakob Bachofen](entities/JohannJakobBachofen.md) — Jurist and classical scholar whose 《母权论》 is treated as a disputed but influential challenge to patriarchal-eternity assumptions.
 - [《母权论》 / Mother Right](entities/MotherRight.md) — Bachofen's 1861 book used by episode 178 to examine mother-right, myth, kinship, inheritance, and modern caution about matriarchy claims.
 - [Lewis Henry Morgan](entities/LewisHenryMorgan.md) — 19th-century anthropology figure connected to Bachofen and later debates over kinship and patriarchal historical contingency.
-- [Friedrich Engels](entities/FriedrichEngels.md) — Later social-theory figure named through the Bachofen/Morgan reception line around family, property, kinship, and women's status.
+- [Friedrich Engels](entities/FriedrichEngels.md) — Marx's collaborator connecting industrial Manchester, communist theory, and later analysis of family, property, and kinship.
 - [Henry Maine](entities/HenryMaine.md) — Legal-history foil for patriarchal-eternity assumptions that Bachofen's mother-right frame challenged.
 - [Mosuo](entities/Mosuo.md) — Kinship case used to show why matriliny or matrilocality should not be simplified into political matriarchy.
 - [Himiko](entities/Himiko.md) — Early Japanese female ruler example used cautiously in the episode's discussion of female political authority and matriarchy evidence.
@@ -15796,7 +15798,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Friedrich Paulus](entities/FriedrichPaulus.md) — German Sixth Army commander who remained in the Stalingrad pocket under Hitler's hold order and ultimately surrendered.
 - [Case Blue](entities/CaseBlue.md) — Germany's 1942 southern offensive whose oil objective was undermined by divided effort, overconfidence, and logistical overreach.
 - [Vasily Chuikov](entities/VasilyChuikov.md) — Soviet 62nd Army commander linking close-range urban defence, Volga sustainment, and attritional endurance.
-- [Joseph Stalin](entities/JosephStalin.md) — Soviet dictator whose prewar misjudgment, reserve-generating state, Kiev decision, industrial policy, and coercion shaped the eastern war.
+- [Joseph Stalin](entities/JosephStalin.md) — Soviet dictator joining ideological commitment, collectivization, industrial capacity, wartime mobilization, misjudgment, and coercion.
 - [Newgate Prison](entities/NewgatePrison.md) — London prison and execution landscape joining confinement, trial, punishment, religion, and urban memory.
 - [Smithfield](entities/Smithfield.md) — London market and open space layered with commerce, religion, punishment, revolt, and commemoration.
 - [St Bartholomew the Great](entities/StBartholomewTheGreat.md) — Surviving medieval priory church shaped by institutional continuity, Reformation reuse, folklore, and cultural afterlife.
@@ -15914,6 +15916,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Communism](concepts/Communism.md) — Political tradition joining common ownership and classless liberation to historically varied doctrines, movements, and party-states.
+- [Marxism as Political Religion](concepts/MarxismAsPoliticalReligion.md) — Qualified analogy for Marxism's canonical, prophetic, ritual, identity-forming, and redemptive structures.
+- [Utopian Communist Coercion](concepts/UtopianCommunistCoercion.md) — Risk that compulsory pursuit of common ownership and a classless future centralizes control and suppresses plural correction.
 - [Emotion State Coordinate Model](concepts/EmotionStateCoordinateModel.md) — Three-axis description of emotional state through arousal, valence, and inward-versus-outward attention.
 - [Vagus Stimulation State Boundary](concepts/VagusStimulationStateBoundary.md) — Caution that vagal stimulation can activate or calm depending on pathway, method, dose, and context.
 - [Elizabethan Religious Pragmatism](concepts/ElizabethanReligiousPragmatism.md) — Protestant settlement strategy combining selective Catholic continuity with political stabilization and coercive limits.
@@ -19530,7 +19535,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Textile Knowledge Transfer](concepts/TextileKnowledgeTransfer.md) — Movement of garment know-how through training, factory routines, and cross-cultural operating practice.
 - [Flying Geese Model](concepts/FlyingGeeseModel.md) — Pattern where industries and expertise move from earlier industrializers to later ones.
 - [Donju Market Class](concepts/DonjuMarketClass.md) — North Korean entrepreneur class tolerated by the regime but lacking secure property rights.
-- [Marxist-Leninist State Capacity](concepts/MarxistLeninistStateCapacity.md) — Claim that some former Marxist-Leninist systems can grow after market reforms because state capacity remains.
+- [Marxist-Leninist State Capacity](concepts/MarxistLeninistStateCapacity.md) — Retained party-state capacity that can support market-era development while also enabling confiscation, repression, and political control.
 - [Rocket Recovery Binary Outcome](concepts/RocketRecoveryBinaryOutcome.md) — Strict reusable-booster recovery standard where close descent still fails unless the stage lands and remains stable.
 - [Recovery Range Payload Tradeoff](concepts/RecoveryRangePayloadTradeoff.md) — Zhuque-3 source frame for how landing-site distance and propellant reserve affect reusable-rocket payload.
 - [Reuse-First Rocket Design](concepts/ReuseFirstRocketDesign.md) — Design principle that material, propellant, engine, recovery, and maintenance choices must serve repeated flight from the start.

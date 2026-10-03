@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3037
+topic_total_pages: 3038
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -814,6 +814,9 @@ topic_concepts:
   - key: "CommonEnemyAlliance"
     title: "Common-Enemy Alliance / 共同敌人联盟"
     url: "/wiki/concepts/commonenemyalliance/"
+  - key: "Communism"
+    title: "Communism"
+    url: "/wiki/concepts/communism/"
   - key: "CompanionAnimalPublicSymbolism"
     title: "Companion Animal Public Symbolism"
     url: "/wiki/concepts/companionanimalpublicsymbolism/"

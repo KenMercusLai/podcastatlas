@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9528
+wiki_total_pages: 9531
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "MartyrdomStaging"
     title: "Martyrdom Staging"
     url: "/wiki/concepts/martyrdomstaging/"
+  - key: "MarxismAsPoliticalReligion"
+    title: "Marxism as Political Religion"
+    url: "/wiki/concepts/marxismaspoliticalreligion/"
   - key: "MarxistLeninistStateCapacity"
     title: "Marxist-Leninist State Capacity"
     url: "/wiki/concepts/marxistleniniststatecapacity/"

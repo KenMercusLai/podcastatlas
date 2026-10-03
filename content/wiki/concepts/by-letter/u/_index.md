@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 9528
+wiki_total_pages: 9531
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "UterineFibroidTreatmentDecision"
     title: "Uterine Fibroid Treatment Decision / 子宫肌瘤治疗决策"
     url: "/wiki/concepts/uterinefibroidtreatmentdecision/"
+  - key: "UtopianCommunistCoercion"
+    title: "Utopian Communist Coercion"
+    url: "/wiki/concepts/utopiancommunistcoercion/"
   - key: "UVExposureSkinProtection"
     title: "UV Exposure and Skin Protection"
     url: "/wiki/concepts/uvexposureskinprotection/"

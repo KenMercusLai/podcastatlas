@@ -41766,6 +41766,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/communicationritualparticipation/"
     },
+    "Communism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7587678050 [GLT7587678050].md",
+          "key": "38-communism-glt7587678050",
+          "show": "The Rest Is History",
+          "title": "38. Communism",
+          "url": "/wiki/sources/38-communism-glt7587678050/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/communism/"
+    },
     "CommunityBankAIAdoption": {
       "episode_count": 1,
       "show_count": 1,
@@ -77907,6 +77923,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/friedrichebert/"
     },
+    "FriedrichEngels": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "178.母权论：伟大的错误or深刻的洞见？母权社会存在过吗？ [974657368].md",
+          "key": "178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368",
+          "show": "蜜獾吃书",
+          "title": "178.母权论：伟大的错误or深刻的洞见？母权社会存在过吗？",
+          "url": "/wiki/sources/178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368/"
+        },
+        {
+          "episode_file": "GLT7587678050 [GLT7587678050].md",
+          "key": "38-communism-glt7587678050",
+          "show": "The Rest Is History",
+          "title": "38. Communism",
+          "url": "/wiki/sources/38-communism-glt7587678050/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/friedrichengels/"
+    },
     "FriedrichHecker": {
       "episode_count": 1,
       "show_count": 1,
@@ -113867,9 +113906,9 @@
       "url": "/wiki/entities/josephpkennedysr/"
     },
     "JosephStalin": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4564292022 [GLT4564292022].md",
@@ -113884,9 +113923,16 @@
           "show": "The Rest Is History",
           "title": "182. Operation Barbarossa",
           "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
+        },
+        {
+          "episode_file": "GLT7587678050 [GLT7587678050].md",
+          "key": "38-communism-glt7587678050",
+          "show": "The Rest Is History",
+          "title": "38. Communism",
+          "url": "/wiki/sources/38-communism-glt7587678050/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/josephstalin/"
     },
     "JosephStiglitz": {
@@ -115300,6 +115346,36 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/karlludwigofaustria/"
+    },
+    "KarlMarx": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "激发动物精神，创造更多机会 [lnDyFDMtGo-9l5cR8OY82t1XnLFe].md",
+          "key": "jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe",
+          "show": "面基",
+          "title": "激发动物精神，创造更多机会",
+          "url": "/wiki/sources/jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe/"
+        },
+        {
+          "episode_file": "92.柏拉图上班记：用哲学搞笑职场 [716822350].md",
+          "key": "92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350",
+          "show": "蜜獾吃书",
+          "title": "92.柏拉图上班记：用哲学搞笑职场",
+          "url": "/wiki/sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350/"
+        },
+        {
+          "episode_file": "GLT7587678050 [GLT7587678050].md",
+          "key": "38-communism-glt7587678050",
+          "show": "The Rest Is History",
+          "title": "38. Communism",
+          "url": "/wiki/sources/38-communism-glt7587678050/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/karlmarx/"
     },
     "KarmaAsCauseAndEffect": {
       "episode_count": 1,
@@ -135534,6 +135610,45 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/martyrdomstaging/"
+    },
+    "MarxismAsPoliticalReligion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7587678050 [GLT7587678050].md",
+          "key": "38-communism-glt7587678050",
+          "show": "The Rest Is History",
+          "title": "38. Communism",
+          "url": "/wiki/sources/38-communism-glt7587678050/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/marxismaspoliticalreligion/"
+    },
+    "MarxistLeninistStateCapacity": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_73f44257561fca7084d9017442f895aa_42230668 [default.mp3_ywr3ahjkcgo_73f44257561fca7084d9017442f895aa_42230668].md",
+          "key": "getting-entrepreneurial-in-korea-summer-school",
+          "show": "Planet Money",
+          "title": "Getting entrepreneurial in Korea (Summer School)",
+          "url": "/wiki/sources/getting-entrepreneurial-in-korea-summer-school/"
+        },
+        {
+          "episode_file": "GLT7587678050 [GLT7587678050].md",
+          "key": "38-communism-glt7587678050",
+          "show": "The Rest Is History",
+          "title": "38. Communism",
+          "url": "/wiki/sources/38-communism-glt7587678050/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/marxistleniniststatecapacity/"
     },
     "MaryAinsworth": {
       "episode_count": 1,
@@ -209919,6 +210034,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/uterinefibroidtreatmentdecision/"
     },
+    "UtopianCommunistCoercion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7587678050 [GLT7587678050].md",
+          "key": "38-communism-glt7587678050",
+          "show": "The Rest Is History",
+          "title": "38. Communism",
+          "url": "/wiki/sources/38-communism-glt7587678050/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/utopiancommunistcoercion/"
+    },
     "VaccineScheduleTrustRebuilding": {
       "episode_count": 2,
       "show_count": 2,
@@ -212005,6 +212136,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/vivekmurthy/"
+    },
+    "VladimirLenin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7587678050 [GLT7587678050].md",
+          "key": "38-communism-glt7587678050",
+          "show": "The Rest Is History",
+          "title": "38. Communism",
+          "url": "/wiki/sources/38-communism-glt7587678050/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/vladimirlenin/"
     },
     "VladimirPutin": {
       "episode_count": 7,

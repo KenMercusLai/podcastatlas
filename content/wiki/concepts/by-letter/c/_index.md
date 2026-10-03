@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9528
+wiki_total_pages: 9531
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1658,6 +1658,9 @@ wiki_pages:
   - key: "CommunicationResilience"
     title: "Communication Resilience"
     url: "/wiki/concepts/communicationresilience/"
+  - key: "Communism"
+    title: "Communism"
+    url: "/wiki/concepts/communism/"
   - key: "CommunityBankAIAdoption"
     title: "Community Bank AI Adoption"
     url: "/wiki/concepts/communitybankaiadoption/"

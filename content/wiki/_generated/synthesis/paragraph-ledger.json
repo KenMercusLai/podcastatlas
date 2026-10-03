@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "bbc9d3299e2f5a46b71a984ffb8b7d937abe2c7a467a4d595c2626624e0664bd",
       "7dde7eaae3c6f328bcf2828bece9fa5c46f700d145542c9dad39c7e60954c10d",
       "dd672fa1717539f5dab38c305a59d9e88f2c0107b86b402b31375065d636b313",
       "f675edf892ee52d8341ee167bbbc6839c9f97c9569f2233bea485e51c366392c",
@@ -780,11 +781,41 @@
       "16601a21e79111590dec9aaa39aaf37cda533c18f62b03ad841cc2b74da82008",
       "63a515e020a9c43959a46584faeb8b50d6d1df53ac7fcb6403fbaa521cb5881a"
     ],
-    "paragraph_count": 778
+    "paragraph_count": 779
   },
-  "overview_commit": "ba22a5127b1ff4ad0de350b6bda0d10d8d8dc9ff",
-  "overview_digest": "8c76eaa3c8bdff8b3566c08a032939d8c071c4857cc25af57d1ed146c21b31cf",
+  "overview_commit": "6cf990759673d25af2323874866387c9894ab716",
+  "overview_digest": "7c027771374db728588fb823bce6975e1d5a3797a434a6abd13b8c265338d116",
   "paragraphs": [
+    {
+      "id": "bbc9d3299e2f5a46b71a984ffb8b7d937abe2c7a467a4d595c2626624e0664bd",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[38-communism-glt7587678050|38. Communism]], a [[TheRestIsHistory]] episode tracing [[Communism]] from Christian communal and utopian precedents through [[KarlMarx|Karl Marx / 马克思]], [[FriedrichEngels]], [[VladimirLenin]], [[JosephStalin]], Soviet disillusion, and the continuing formal communist identity of [[China]], [[Cuba]], [[Vietnam]], and [[Laos]]. It adds [[VladimirLenin]], [[Communism]], [[MarxismAsPoliticalReligion]], and [[UtopianCommunistCoercion]], while resynthesizing Marx, Engels, Stalin, and [[MarxistLeninistStateCapacity]] from their complete evidence inventories. Its core synthesis separates an enduring ideal of equality and liberation from one-party implementation: Marxism can function as a scientific doctrine and political religion, while vanguard authority, compulsory property transfer, economic remaking, and anti-pluralism create a recurrent coercion risk. No settled contradiction is recorded; inherent-totalitarianism, human-nature, exploitation, living-standard, ideological-belief, and Marx-to-Lenin-to-Stalin causal claims remain interpretive or source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "38-communism-glt7587678050",
+        "China",
+        "Communism",
+        "Cuba",
+        "FriedrichEngels",
+        "JosephStalin",
+        "KarlMarx",
+        "Laos",
+        "MarxismAsPoliticalReligion",
+        "MarxistLeninistStateCapacity",
+        "TheRestIsHistory",
+        "UtopianCommunistCoercion",
+        "Vietnam",
+        "VladimirLenin"
+      ]
+    },
     {
       "id": "7dde7eaae3c6f328bcf2828bece9fa5c46f700d145542c9dad39c7e60954c10d",
       "primary_topic": "history-and-geopolitics",

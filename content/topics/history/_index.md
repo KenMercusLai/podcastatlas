@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2491
+topic_total_pages: 2493
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -253,6 +253,9 @@ topic_concepts:
   - key: "CommonEnemyAlliance"
     title: "Common-Enemy Alliance / 共同敌人联盟"
     url: "/wiki/concepts/commonenemyalliance/"
+  - key: "Communism"
+    title: "Communism"
+    url: "/wiki/concepts/communism/"
   - key: "ComplicitWitnessScapegoatNarrative"
     title: "Complicit-Witness Scapegoat Narrative"
     url: "/wiki/concepts/complicitwitnessscapegoatnarrative/"
@@ -5754,6 +5757,9 @@ topic_sources:
   - key: "379-baghdad-the-arabian-nights-part-4-glt8529456010"
     title: "379. Baghdad: The Arabian Nights (Part 4)"
     url: "/wiki/sources/379-baghdad-the-arabian-nights-part-4-glt8529456010/"
+  - key: "38-communism-glt7587678050"
+    title: "38. Communism"
+    url: "/wiki/sources/38-communism-glt7587678050/"
   - key: "380-captain-cook-historys-greatest-explorer-part-1-glt8106697435"
     title: "380. Captain Cook: History’s Greatest Explorer (Part 1)"
     url: "/wiki/sources/380-captain-cook-historys-greatest-explorer-part-1-glt8106697435/"
