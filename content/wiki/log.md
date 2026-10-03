@@ -28900,3 +28900,11 @@ Added source `ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 26. Witches
+
+Added source `26-witches-glt8850594772`; created [[SusannahLipscomb]] and [[EarlyModernWitchcraftProsecution]]; and resynthesized [[WitchHuntMechanism]] and [[WitchcraftBeliefEvidenceThreshold]] from their complete preserved evidence inventories. Core synthesis: early-modern prosecution required more than recurring belief in harmful magic; diabolic theology and criminal law joined Reformation anxiety, famine, neighborhood grievance, reputation, gender hierarchy, and institutional evidence rules. No settled contradiction was adopted. Protestant exclusivity was qualified, and prosecution totals, regional patterns, last-execution dates, modern examples, and garbled transcript details remain source-scoped. Recurring host, show, James VI and I, and John Dee pages were not changed because the episode adds no durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,612-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

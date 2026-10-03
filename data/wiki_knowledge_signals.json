@@ -59034,6 +59034,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/earlymodernmidwifery/"
     },
+    "EarlyModernWitchcraftProsecution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8850594772 [GLT8850594772].md",
+          "key": "26-witches-glt8850594772",
+          "show": "The Rest Is History",
+          "title": "26. Witches",
+          "url": "/wiki/sources/26-witches-glt8850594772/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/earlymodernwitchcraftprosecution/"
+    },
     "EarlyPortugueseAtlanticPlantationSlavery": {
       "episode_count": 1,
       "show_count": 1,
@@ -199028,6 +199044,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/susannasoberg/"
     },
+    "SusannahLipscomb": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8850594772 [GLT8850594772].md",
+          "key": "26-witches-glt8850594772",
+          "show": "The Rest Is History",
+          "title": "26. Witches",
+          "url": "/wiki/sources/26-witches-glt8850594772/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/susannahlipscomb/"
+    },
     "Sushiro": {
       "episode_count": 3,
       "show_count": 2,
@@ -220321,9 +220353,9 @@
       "url": "/wiki/concepts/wishfulfrontierconciliation/"
     },
     "WitchHuntMechanism": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "34.猫咪秘史：呵，愚蠢又可爱的人类 [601590607].md",
@@ -220345,15 +220377,22 @@
           "show": "The Rest Is History",
           "title": "331: American Witches",
           "url": "/wiki/sources/331-american-witches-glt9152886733/"
+        },
+        {
+          "episode_file": "GLT8850594772 [GLT8850594772].md",
+          "key": "26-witches-glt8850594772",
+          "show": "The Rest Is History",
+          "title": "26. Witches",
+          "url": "/wiki/sources/26-witches-glt8850594772/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/witchhuntmechanism/"
     },
     "WitchcraftBeliefEvidenceThreshold": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9152886733 [GLT9152886733].md",
@@ -220361,9 +220400,16 @@
           "show": "The Rest Is History",
           "title": "331: American Witches",
           "url": "/wiki/sources/331-american-witches-glt9152886733/"
+        },
+        {
+          "episode_file": "GLT8850594772 [GLT8850594772].md",
+          "key": "26-witches-glt8850594772",
+          "show": "The Rest Is History",
+          "title": "26. Witches",
+          "url": "/wiki/sources/26-witches-glt8850594772/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/witchcraftbeliefevidencethreshold/"
     },
     "Wittenberg": {

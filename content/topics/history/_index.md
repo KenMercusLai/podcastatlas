@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2511
+topic_total_pages: 2512
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5430,6 +5430,9 @@ topic_sources:
   - key: "259-iran-england-the-little-satan-glt8347276204"
     title: "259: Iran: England - 'The Little Satan'"
     url: "/wiki/sources/259-iran-england-the-little-satan-glt8347276204/"
+  - key: "26-witches-glt8850594772"
+    title: "26. Witches"
+    url: "/wiki/sources/26-witches-glt8850594772/"
   - key: "260-croatia-the-man-who-saved-the-roman-empire-glt9631298578"
     title: "260: Croatia: The Man Who Saved The Roman Empire"
     url: "/wiki/sources/260-croatia-the-man-who-saved-the-roman-empire-glt9631298578/"

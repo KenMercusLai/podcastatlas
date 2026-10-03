@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [26. Witches](sources/26-witches-glt8850594772.md) — The Rest Is History with Susannah Lipscomb on diabolic witchcraft, Reformation anxiety, local grievance, gender, evidence, and the persistence of witch-hunt patterns.
 - [EP161-三周年特别节目：“做客”无时差，这次换我们被采访](sources/ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf.md) — 无时差研究所 retrospective on open-topic podcasting, interview preparation, co-host accountability, monetization boundaries, listener criticism, and multi-platform distribution.
 - [28. The Kings of Comedy](sources/28-the-kings-of-comedy-glt5677879972.md) — The Rest Is History with Al Murray on licensed fools, wartime humor, changing taste, comic historical memory, and the rise and fragmentation of shared broadcast culture.
 - [29. Americanisation](sources/29-americanisation-glt9683168458.md) — The Rest Is History on American power through language, media, consumer culture, strategic scale, moral centrality, reciprocal exchange, and domain limits.
@@ -3673,6 +3674,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [27. Tutankhamun](sources/27-tutankhamun-glt2697164979.md) — The Rest Is History on Tutankhamun's tomb, Carter's discovery, Akhenaten's Aten revolution, restoration, Amarna uncertainty, and later ideological projection.
 
 ## Entities
+- [Susannah Lipscomb](entities/SusannahLipscomb.md) — Early-modern historian whose witchcraft account joins demonology, legal procedure, gender, social stress, and evidentiary change.
 - [Tutankhamun](entities/Tutankhamun.md) — Boy pharaoh whose sparse reign contrasts with the exceptional archaeological and media afterlife of his tomb.
 - [Akhenaten](entities/Akhenaten.md) — Eighteenth Dynasty pharaoh whose Aten-centered religious and cultural rupture was radical but institutionally fragile.
 - [Nefertiti](entities/Nefertiti.md) — Amarna royal and religious authority whose succession role, imagery, and modern appropriation remain contested.
@@ -15959,6 +15961,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Early Modern Witchcraft Prosecution](concepts/EarlyModernWitchcraftProsecution.md) — Interaction of diabolic theology, criminal law, confessional anxiety, social stress, gender, local accusation, and evidentiary change.
 - [Atenism](concepts/Atenism.md) — Radical, short-lived, royal-mediated Amarna religious program centered on the Aten.
 - [Ideological Projection onto the Ancient Past](concepts/AncientPastIdeologicalProjection.md) — Framework separating useful historical analogy from unsupported identity, transmission, motive, or descent claims.
 - [Royal Outsider Marriage](concepts/RoyalOutsiderMarriage.md) — Friction produced when intimate partnership brings an outsider into a hereditary institution of rank, ritual, succession, and public symbolism.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3048
+topic_total_pages: 3050
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1219,6 +1219,9 @@ topic_concepts:
   - key: "EarlyModernJapanEuropeContact"
     title: "Early Modern Japan-Europe Contact"
     url: "/wiki/concepts/earlymodernjapaneuropecontact/"
+  - key: "EarlyModernWitchcraftProsecution"
+    title: "Early Modern Witchcraft Prosecution"
+    url: "/wiki/concepts/earlymodernwitchcraftprosecution/"
   - key: "EarlyWarringStatesInterstateWar"
     title: "Early Warring States Interstate War / 战国早期诸侯混战"
     url: "/wiki/concepts/earlywarringstatesinterstatewar/"
@@ -8121,6 +8124,9 @@ topic_sources:
   - key: "258-costa-rica-civil-war-glt4854467564"
     title: "258. Costa Rica: Civil War"
     url: "/wiki/sources/258-costa-rica-civil-war-glt4854467564/"
+  - key: "26-witches-glt8850594772"
+    title: "26. Witches"
+    url: "/wiki/sources/26-witches-glt8850594772/"
   - key: "261-uruguay-the-tupamaros-glt1539968794"
     title: "261: Uruguay: The Tupamaros"
     url: "/wiki/sources/261-uruguay-the-tupamaros-glt1539968794/"

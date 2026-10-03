@@ -4,7 +4,8 @@ type: concept
 tags: [witchcraft, law, evidence, early-modern-history, courts]
 sources:
   - 331-american-witches-glt9152886733
-last_updated: 2026-09-28
+  - 26-witches-glt8850594772
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,9 +17,9 @@ Witchcraft belief-evidence threshold is the distinction between accepting witchc
 
 ## Current Synthesis
 
-The Springfield case shows that supernatural belief and procedural skepticism were not opposites. Authorities could inhabit the same religious worldview as accusers while questioning perception, hearsay, motive, and proof. That distinction helps explain why many allegations never reached court and why many prosecutions failed.
+The Springfield case shows that supernatural belief and procedural skepticism were not opposites. Authorities could inhabit the same religious worldview as accusers while questioning perception, hearsay, motive, and proof. The broader early-modern account adds acquittal after coached testimony and the later rejection of confession or spectral claims as sufficient on their own. That distinction helps explain why many allegations never reached court, why many prosecutions failed, and why capital prosecution could decline before belief disappeared.
 
-The threshold also reframes historical change. On this account, witch hunting declined not only because belief disappeared, but because courts became less willing to turn weak testimony into lethal judgment. [[SalemWitchTrials|Salem]] therefore appears as an exceptional breakdown or lowering of evidentiary restraint rather than the inevitable result of belief.
+The threshold therefore reframes historical change as an institutional shift as well as an intellectual one. Courts can raise the cost of converting popular fear into lethal judgment even when judges and communities continue to accept witchcraft as possible. [[SalemWitchTrials|Salem]] appears as an exceptional breakdown or lowering of evidentiary restraint rather than the inevitable result of belief.
 
 ## Key Claims
 
@@ -38,15 +39,17 @@ The threshold also reframes historical change. On this account, witch hunting de
 ### Comparative prosecution pattern
 
 - [[331-american-witches-glt9152886733]] reports that many accusations never reached court and that conviction rates were lower than popular memory assumes.
+- [[26-witches-glt8850594772]] contrasts convictions based on confession or spectral claims with later judicial reluctance and gives the Salmsbury acquittal as a coached-testimony case.
 
 ## Counterevidence & Qualifications
 
-Legal skepticism did not make witchcraft proceedings fair, safe, or modern. The episode's reported European and English conviction rates are source-scoped and require comparison across jurisdictions, definitions, and records. Failure to convict also does not erase detention, stigma, family harm, or other punishment.
+Legal skepticism did not make witchcraft proceedings fair, safe, or modern. The sources' prosecution totals, conviction rates, last-execution dates, and causal claims about decline are source-scoped and require comparison across jurisdictions, definitions, and records. Failure to convict also does not erase detention, stigma, family harm, or other punishment.
 
 ## What Changed
 
-- Added a distinction between shared supernatural belief and case-specific legal sufficiency.
-- Added failed prosecution as a necessary comparison for Salem-centered historical memory.
+- Added coached testimony, confession, and spectral claims as contrasting evidence problems.
+- Extended the threshold from New England case comparison to the broader decline of European capital prosecution.
+- Preserved continued belief alongside stronger judicial restraint.
 
 ## Related Concepts
 
@@ -55,3 +58,4 @@ Legal skepticism did not make witchcraft proceedings fair, safe, or modern. The 
 - [[SpectralEvidence]] - subjective proof category whose admission can lower the threshold.
 - [[EvidenceOverTestimony]] - general preference for testing claims beyond assertion.
 - [[RationalHumility]] - epistemic restraint when causes remain plausible but unproven.
+- [[EarlyModernWitchcraftProsecution]] - historical system whose decline was partly mediated by this threshold.

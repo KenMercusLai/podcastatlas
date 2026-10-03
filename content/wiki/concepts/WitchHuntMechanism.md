@@ -6,7 +6,8 @@ sources:
   - 34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607
   - 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018
   - 331-american-witches-glt9152886733
-last_updated: 2026-09-28
+  - 26-witches-glt8850594772
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,9 +19,9 @@ Witch-hunt mechanism / 猎巫机制 is the process by which diffuse pressure and
 
 ## Current Synthesis
 
-The mechanism begins with pressures that are difficult to master directly: war, disease, economic strain, household loss, gender discipline, religious anxiety, political insecurity, and status conflict. An interpretive frame then turns bodily symptoms, dreams, animal behavior, quarrels, coincidence, or a disliked neighbor into signs of hostile agency. Accusation can become moral performance and self-protection when authorities accept those signs, confession is safer than denial, or naming others redirects suspicion.
+The mechanism begins with pressures that are difficult to master directly: war, disease, failed harvests, high food prices, household loss, gender discipline, religious anxiety, political insecurity, and status conflict. An interpretive frame then turns bodily symptoms, dreams, animal behavior, denied charity, quarrels, coincidence, or a disliked neighbor into signs of hostile agency. Accusation can become moral performance and self-protection when authorities accept those signs, confession is safer than denial, or naming others redirects suspicion.
 
-The combined sources now separate accusation from inevitable escalation. [[SalemWitchTrials|Salem]] shows how [[SpectralEvidence]], coerced denunciation, and authority can convert subjective experience into lethal procedure. [[331-american-witches-glt9152886733|Springfield]] shows that a community can share belief in witches while courts reject a particular case for inadequate proof. [[34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607|The cat-history episode]] extends the target set: animals associated with night, women, paganism, blackness, or household intimacy can materialize the imagined alliance and become objects of persecution.
+The combined sources now separate accusation from inevitable escalation and distinguish recurring belief from historically specific prosecution. [[26-witches-glt8850594772]] shows elite demonology and criminal law joining local grievance in a cross-confessional early-modern setting. [[SalemWitchTrials|Salem]] shows how [[SpectralEvidence]], coerced denunciation, and authority can convert subjective experience into lethal procedure. [[331-american-witches-glt9152886733|Springfield]] shows that a community can share belief in witches while courts reject a particular case for inadequate proof. [[34-maomi-mishi-he-yuchun-you-keai-de-renlei-601590607|The cat-history episode]] extends the target set: animals associated with night, women, paganism, blackness, or household intimacy can materialize the imagined alliance and become objects of persecution.
 
 ## Key Claims
 
@@ -37,6 +38,7 @@ The combined sources now separate accusation from inevitable escalation. [[Salem
 ### Pressure, accusation, and institutional escalation
 
 - [[91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]] links Salem's war, disease, poverty, political instability, Puritan discipline, gendered conflict, spectacle, spectral evidence, and coerced confession.
+- [[26-witches-glt8850594772]] links diabolic theology and criminalization to Reformation anxiety, famine, food prices, denied charity, reputation, misogyny, and neighborhood grievance.
 
 ### Neighbor dependence and evidentiary restraint
 
@@ -48,14 +50,14 @@ The combined sources now separate accusation from inevitable escalation. [[Salem
 
 ## Counterevidence & Qualifications
 
-The mechanism is a comparative model, not proof that every accusation has the same cause or that every disliked person becomes a target. Salem's extraordinary escalation should not stand for all early modern prosecutions, and Springfield's failed convictions should not imply that accusation was harmless. The cat-history source contains legend-heavy material that remains evidence of cultural association rather than proof of each narrated event. Modern analogies must not erase the distinct theology, law, and violence of historical witch trials.
+The mechanism is a comparative model, not proof that every accusation has the same cause or that every disliked person becomes a target. Salem's extraordinary escalation should not stand for all early-modern prosecutions, and Springfield's failed convictions should not imply that accusation was harmless. Protestant and Catholic cases, regional gender patterns, and modern child accusations require local explanation. The cat-history source contains legend-heavy material that remains evidence of cultural association rather than proof of each narrated event. Modern analogies must not erase the distinct theology, law, and violence of historical witch trials.
 
 ## What Changed
 
-- Added neighbor dependence, household grief, and settlement economy to the pressure model.
-- Distinguished the social production of accusation from the legal threshold for conviction.
-- Qualified Salem as an exceptional escalation rather than the default outcome of witchcraft belief.
-- Preserved animals as a symbolic and persecuted extension of the human target set.
+- Added failed harvests, food prices, denied charity, and long reputation to the pressure model.
+- Distinguished recurring witch belief from the demonological and legal machinery of prosecution.
+- Extended the model across Protestant and Catholic settings while preserving regional variation.
+- Strengthened the claim that institutional evidence rules can interrupt escalation before belief disappears.
 
 ## Related Concepts
 
@@ -66,3 +68,4 @@ The mechanism is a comparative model, not proof that every accusation has the sa
 - [[InternetMoralTrial]] - modern public-discourse analogy requiring historical qualification.
 - [[ConspiracyTheoryPatternSeeking]] - related conversion of ambiguous events into hidden coordinated agency.
 - [[ObservationBeforeInference]] - counter-method that tests evidence before settling on an attractive causal story.
+- [[EarlyModernWitchcraftProsecution]] - period-specific synthesis of demonology, law, gender, subsistence stress, and local accusation.

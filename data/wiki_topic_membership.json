@@ -2706,6 +2706,18 @@
       "url": "/topics/history/"
     }
   ],
+  "26-witches-glt8850594772": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "260-croatia-the-man-who-saved-the-roman-empire-glt9631298578": [
     {
       "key": "history",
@@ -29353,6 +29365,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "EarlyModernWitchcraftProsecution": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "EarlyTransplantationImaginary": [
