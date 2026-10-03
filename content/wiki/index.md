@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [25. Empires](sources/25-empires-glt2896270746.md) — The Rest Is History on empire as coercive political order, legitimacy, integration, anti-imperial inheritance, nation-states, and the persistence of imperial forms.
 - [26. Witches](sources/26-witches-glt8850594772.md) — The Rest Is History with Susannah Lipscomb on diabolic witchcraft, Reformation anxiety, local grievance, gender, evidence, and the persistence of witch-hunt patterns.
 - [EP161-三周年特别节目：“做客”无时差，这次换我们被采访](sources/ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf.md) — 无时差研究所 retrospective on open-topic podcasting, interview preparation, co-host accountability, monetization boundaries, listener criticism, and multi-platform distribution.
 - [28. The Kings of Comedy](sources/28-the-kings-of-comedy-glt5677879972.md) — The Rest Is History with Al Murray on licensed fools, wartime humor, changing taste, comic historical memory, and the rise and fragmentation of shared broadcast culture.
@@ -15962,6 +15963,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Empire as Political Order](concepts/EmpireAsPoliticalOrder.md) — Framework joining center-periphery command, coercion, administration, infrastructure, legitimacy, identity, and careful institutional comparison.
+- [Anti-Imperial Traditions Within Empire](concepts/AntiImperialTraditionsWithinEmpire.md) — Entangled genealogy of biblical, classical, and colonial inheritances appropriated for resistance without erasing colonized agency.
 - [Early Modern Witchcraft Prosecution](concepts/EarlyModernWitchcraftProsecution.md) — Interaction of diabolic theology, criminal law, confessional anxiety, social stress, gender, local accusation, and evidentiary change.
 - [Atenism](concepts/Atenism.md) — Radical, short-lived, royal-mediated Amarna religious program centered on the Aten.
 - [Ideological Projection onto the Ancient Past](concepts/AncientPastIdeologicalProjection.md) — Framework separating useful historical analogy from unsupported identity, transmission, motive, or descent claims.

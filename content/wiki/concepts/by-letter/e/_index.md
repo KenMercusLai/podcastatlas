@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9551
+wiki_total_pages: 9553
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "EmpathyModeDifferentiation"
     title: "Empathy-Mode Differentiation"
     url: "/wiki/concepts/empathymodedifferentiation/"
+  - key: "EmpireAsPoliticalOrder"
+    title: "Empire as Political Order"
+    url: "/wiki/concepts/empireaspoliticalorder/"
   - key: "EmployeeEquityCommunication"
     title: "Employee Equity Communication"
     url: "/wiki/concepts/employeeequitycommunication/"

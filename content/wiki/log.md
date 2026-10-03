@@ -28916,3 +28916,11 @@ Added source `optimize-your-learning-creativity-with-science-based-tools-scim914
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 25. Empires
+
+Added source `25-empires-glt2896270746`; created [[EmpireAsPoliticalOrder]] and [[AntiImperialTraditionsWithinEmpire]]; and resynthesized [[AchaemenidImperialOrderIdeology]], [[AmericanImperialSelfDenial]], and [[ImperialRiseDeclineCycle]] from their complete preserved evidence inventories. Core synthesis: empire is a recurring center-periphery order sustained by coercion but also by administration, infrastructure, moral legitimation, and appropriated identity, while traditions formed inside imperial worlds can supply later languages of resistance. No settled contradiction was adopted. The episode rejects a fixed two-century decline law, and its comparisons among territorial empires, nation-states, federations, informal hegemony, and corporate power remain source-scoped and institutionally distinct. Recurring host and show profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,614-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

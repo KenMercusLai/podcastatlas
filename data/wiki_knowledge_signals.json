@@ -5375,9 +5375,9 @@
       "url": "/wiki/entities/achaemenidempire/"
     },
     "AchaemenidImperialOrderIdeology": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8965800182 [GLT8965800182].md",
@@ -5392,6 +5392,13 @@
           "show": "The Rest Is History",
           "title": "41. Persia",
           "url": "/wiki/sources/41-persia-glt6414068538/"
+        },
+        {
+          "episode_file": "GLT2896270746 [GLT2896270746].md",
+          "key": "25-empires-glt2896270746",
+          "show": "The Rest Is History",
+          "title": "25. Empires",
+          "url": "/wiki/sources/25-empires-glt2896270746/"
         }
       ],
       "updated": "2026-10-03",
@@ -10859,9 +10866,9 @@
       "url": "/wiki/concepts/americanexceptionalism/"
     },
     "AmericanImperialSelfDenial": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4400059090 [GLT4400059090].md",
@@ -10876,6 +10883,13 @@
           "show": "The Rest Is History",
           "title": "72. The Vietnam War",
           "url": "/wiki/sources/72-the-vietnam-war-glt4906340188/"
+        },
+        {
+          "episode_file": "GLT2896270746 [GLT2896270746].md",
+          "key": "25-empires-glt2896270746",
+          "show": "The Rest Is History",
+          "title": "25. Empires",
+          "url": "/wiki/sources/25-empires-glt2896270746/"
         }
       ],
       "updated": "2026-10-03",
@@ -14158,6 +14172,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/concepts/antihouthicoalitionfragmentation/"
+    },
+    "AntiImperialTraditionsWithinEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2896270746 [GLT2896270746].md",
+          "key": "25-empires-glt2896270746",
+          "show": "The Rest Is History",
+          "title": "25. Empires",
+          "url": "/wiki/sources/25-empires-glt2896270746/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/antiimperialtraditionswithinempire/"
     },
     "AntiIndustrialPastoralism": {
       "episode_count": 3,
@@ -63889,6 +63919,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/emperorzhiofhan/"
     },
+    "EmpireAsPoliticalOrder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2896270746 [GLT2896270746].md",
+          "key": "25-empires-glt2896270746",
+          "show": "The Rest Is History",
+          "title": "25. Empires",
+          "url": "/wiki/sources/25-empires-glt2896270746/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/empireaspoliticalorder/"
+    },
     "EmpireOfBooze": {
       "episode_count": 1,
       "show_count": 1,
@@ -103818,9 +103864,9 @@
       "url": "/wiki/concepts/imperialretrenchmentafterfirstworldwar/"
     },
     "ImperialRiseDeclineCycle": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7158094581 [GLT7158094581].md",
@@ -103828,6 +103874,13 @@
           "show": "The Rest Is History",
           "title": "330: Herodotus: The Birth of History",
           "url": "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"
+        },
+        {
+          "episode_file": "GLT2896270746 [GLT2896270746].md",
+          "key": "25-empires-glt2896270746",
+          "show": "The Rest Is History",
+          "title": "25. Empires",
+          "url": "/wiki/sources/25-empires-glt2896270746/"
         }
       ],
       "updated": "2026-09-28",

@@ -5,6 +5,7 @@ tags: [united-states, empire, memory, foreign-policy, identity]
 sources:
   - 152-american-crusades-glt4400059090
   - 72-the-vietnam-war-glt4906340188
+  - 25-empires-glt2896270746
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ The Philippines provides the territorial case. Americans openly debated imperial
 
 Vietnam extends the concept beyond formal possession. The United States first supported French recolonization for Cold War reasons and later backed a non-communist South Vietnam while insisting it was not an imperial power. Preston's phrase “anti-imperial imperialism” captures the mechanism: rejecting colonial purpose or identity does not by itself remove imperial asymmetry, coercion, or dependency from policy. The category must still distinguish territorial colonial rule from alliance, aid, and intervention rather than treating every form of influence as identical.
 
+[[25-empires-glt2896270746]] widens the territorial and structural question. The episode interprets continental expansion, Native American reservations, land taken from Mexico, Puerto Rico, the former Philippines, overseas bases, and global influence as evidence that the United States can be analyzed as an imperial project even when Americans reject the name. That wider frame strengthens the self-denial thesis but also makes definitional discipline more important: conquest incorporated as state territory, unincorporated possessions, military basing, and informal influence are related without being interchangeable.
+
 ## Key Claims
 
 - Anti-imperial self-description cannot by itself disprove imperial conduct or effects.
@@ -28,6 +31,7 @@ Vietnam extends the concept beyond formal possession. The United States first su
 - Open debate around 1900 shows that contemporaries recognized and contested the category of empire.
 - Fighting rival empires strengthened a national identity that could obscure American coercion abroad.
 - Vietnam shows how imperial effects can arise through recolonization support, unequal alliance, intervention, and dependency without annexation.
+- Continental conquest, possessions, bases, and global influence provide distinct imperial evidence that should not be collapsed into one mechanism.
 - Local agency remains essential: identifying imperial asymmetry must not turn Filipino or Vietnamese actors into passive objects.
 
 ## Evidence
@@ -41,15 +45,21 @@ Vietnam extends the concept beyond formal possession. The United States first su
 - [[72-the-vietnam-war-glt4906340188]] uses “anti-imperial imperialism” for U.S. support of France and later intervention in Vietnam while Americans continued to reject an imperial identity.
 - [[72-the-vietnam-war-glt4906340188]] also centers Vietnamese civil-war agency, preventing imperial analysis from becoming an exclusively American story.
 
+### Continental and global imperial features
+
+- [[25-empires-glt2896270746]] groups westward conquest, Native reservations, territory taken from Mexico, Puerto Rico, the Philippines, overseas bases, and global influence as evidence for analyzing the United States through an imperial lens.
+
 ## Counterevidence & Qualifications
 
 - The sources do not establish one settled definition that makes territorial colonialism, military alliance, covert action, economic influence, and direct intervention equivalent.
 - American officials' anti-colonial language and strategic concerns may have been sincerely held even when their policies had imperial effects.
 - The Philippine episode distinguishes loss of interest from a proven coordinated suppression of memory.
 - The Vietnam episode remains Western-framed and does not independently establish every motive, military claim, or counterfactual.
+- The broad imperial label must preserve legal and political differences among incorporated territory, reservations, colonies or possessions, sovereign allies, bases, and informal hegemony.
 
 ## What Changed
 
+- Extended the evidence set to continental conquest, reservations, possessions, bases, and global influence while tightening the category boundary.
 - Extended the concept from formal Philippine possession to Vietnam-era intervention without annexation.
 - Added local agency as a guardrail against reproducing the American-centered framing under critique.
 
