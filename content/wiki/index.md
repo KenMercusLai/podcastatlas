@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [47. The Seven Years' War](sources/47-the-seven-years-war-glt8800494407.md) — The Rest Is History with Dan Snow on the conflict's global theaters, Britain's fiscal-military and naval capacity, imperial expansion, slavery and Company corruption, and revolutionary blowback.
 - [EP170-一个非典型金融女博士的自述](sources/ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaacln4fb.md) — 无时差研究所 conversation on doctoral training, long-cycle finance research, career alignment, fund-manager agency conflicts, gender labels, and doctoral-student isolation.
 - [48. The French Revolution](sources/48-the-french-revolution-glt2092335857.md) — The Rest Is History overview of the Revolution as contingent escalation from fiscal and subsistence crisis through rights, war, regicide, terror, reaction, and Napoleonic order.
 - [EP171-疫情下的中美经济政策：发钱刺激消费，一生能遇到几回？](sources/ep171-yiqing-xia-de-zhongmei-jingji-zhengce-faqian-ciji-xiaofei-yisheng-neng-yudao-jihui-ckwriueebny5abaaaacoc8to.md) — 无时差研究所 on U.S. pandemic relief, welfare fragmentation, fiscal-monetary transmission, China's targeted response and dual circulation, and the limits of treating emergency checks as UBI evidence.
@@ -3636,6 +3637,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Boost Your Energy & Immune System with Cortisol & Adrenaline](sources/scim5718648905-scim5718648905.md) — Early Huberman Lab episode on cortisol and epinephrine timing, body-brain arousal, acute immune signaling, post-learning activation, chronic stress eating, and recovery boundaries.
 
 ## Entities
+- [Dan Snow](entities/DanSnow.md) — Historian and broadcaster interpreting the Seven Years' War through global conflict, institutional capacity, imperial memory, and political blowback.
 - [靖靖 / Jingjing (finance PhD)](entities/JingjingFinancePhD.md) — Partially identified EP170 guest connecting finance doctoral training, research practice, career choice, credential boundaries, and student wellbeing.
 - [Paul Lay](entities/PaulLay.md) — Historian interpreting Cromwell through constitutional change, religious conviction, Irish atrocity, evidentiary caution, and later myth.
 - [John Lambert](entities/JohnLambert.md) — Army leader and constitutional architect associated with the Instrument of Government.
@@ -15866,6 +15868,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scoff: A History of Food and Class in Britain](entities/ScoffBook.md) — Pen Vogler's book framing food as evidence for class and social change.
 
 ## Concepts
+- [Fiscal-Military State](concepts/FiscalMilitaryState.md) — State capacity that converts taxation, public credit, borrowing, subsidy, logistics, and supply into sustained military power.
 - [Doctoral Training and Career Alignment / 博士培养与职业对齐](concepts/DoctoralTrainingCareerAlignment.md) — Aligning degree timing and preparation with academic, industry, public-sector, or other intended work.
 - [Long-Cycle Social-Science Research / 社会科学长周期研究](concepts/LongCycleSocialScienceResearch.md) — Research pipeline from question, data, and replication through feedback, revision, publication, or abandonment.
 - [Fund Manager Window Dressing and Agency Conflict / 基金经理橱窗粉饰与委托代理冲突](concepts/FundManagerWindowDressingAgencyConflict.md) — Disclosure-timing behavior that can make visible holdings diverge from investor welfare and the true investment process.

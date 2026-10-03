@@ -28604,3 +28604,11 @@ Added source `ep170-yige-feidianxing-jinrong-nvboshi-de-zishu-ckwriueey8kfabaaaa
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 47. The Seven Years' War
+
+Added source `47-the-seven-years-war-glt8800494407`; created `DanSnow` and `FiscalMilitaryState`; and resynthesized `SevenYearsWar`, `BritishEmpire`, `JamesCook`, `RobertClive`, and `EastIndiaCompany` from their complete preserved evidence inventories. Core synthesis: the war was an overlapping global conflict in which public credit, naval logistics, continental subsidy, cartography, colonial forces, and locally driven Company warfare expanded British power, while slavery, bribery, Native resistance, debt, standing forces, and difficult governance made victory politically unstable and helped create the conditions for later Atlantic revolutions. No settled contradiction was adopted. The strength of causal links to Anglophone power, Prussia's later trajectory, and the American and French Revolutions, along with theater coordination, policy motives, negotiated priorities, and the relative weight of finance and battle, remains interpretive or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,575-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

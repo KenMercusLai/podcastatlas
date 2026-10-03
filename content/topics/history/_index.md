@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2480
+topic_total_pages: 2481
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5973,6 +5973,9 @@ topic_sources:
   - key: "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632"
     title: "469. The Road to The Great War: Countdown to Armageddon (Part 1)"
     url: "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
+  - key: "47-the-seven-years-war-glt8800494407"
+    title: "47. The Seven Years' War"
+    url: "/wiki/sources/47-the-seven-years-war-glt8800494407/"
   - key: "470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569"
     title: "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)"
     url: "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"

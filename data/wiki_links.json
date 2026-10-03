@@ -2631,6 +2631,10 @@
     "title": "47.鸟有什么好看的：原来…丹顶鹤是秃的！",
     "url": "/wiki/sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924/"
   },
+  "47-the-seven-years-war-glt8800494407": {
+    "title": "47. The Seven Years' War",
+    "url": "/wiki/sources/47-the-seven-years-war-glt8800494407/"
+  },
   "470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569": {
     "title": "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)",
     "url": "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"
@@ -21635,6 +21639,10 @@
     "title": "Dan Siroker",
     "url": "/wiki/entities/dansiroker/"
   },
+  "DanSnow": {
+    "title": "Dan Snow",
+    "url": "/wiki/entities/dansnow/"
+  },
   "DanWang": {
     "title": "Dan Wang",
     "url": "/wiki/entities/danwang/"
@@ -29942,6 +29950,10 @@
   "FiscalMilitaryNavalState": {
     "title": "Fiscal-Military Naval State",
     "url": "/wiki/concepts/fiscalmilitarynavalstate/"
+  },
+  "FiscalMilitaryState": {
+    "title": "Fiscal-Military State",
+    "url": "/wiki/concepts/fiscalmilitarystate/"
   },
   "FiscalMonetaryTransmissionDifference": {
     "title": "Fiscal-Monetary Transmission Difference / 财政与货币传导差异",

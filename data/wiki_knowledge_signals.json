@@ -26421,9 +26421,9 @@
       "url": "/wiki/concepts/britishelectioncampaigneffects/"
     },
     "BritishEmpire": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6076978409 [GLT6076978409].md",
@@ -26431,6 +26431,13 @@
           "show": "The Rest Is History",
           "title": "68. The British Empire",
           "url": "/wiki/sources/68-the-british-empire-glt6076978409/"
+        },
+        {
+          "episode_file": "GLT8800494407 [GLT8800494407].md",
+          "key": "47-the-seven-years-war-glt8800494407",
+          "show": "The Rest Is History",
+          "title": "47. The Seven Years' War",
+          "url": "/wiki/sources/47-the-seven-years-war-glt8800494407/"
         }
       ],
       "updated": "2026-10-03",
@@ -48064,6 +48071,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/danpashman/"
     },
+    "DanSnow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8800494407 [GLT8800494407].md",
+          "key": "47-the-seven-years-war-glt8800494407",
+          "show": "The Rest Is History",
+          "title": "47. The Seven Years' War",
+          "url": "/wiki/sources/47-the-seven-years-war-glt8800494407/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/dansnow/"
+    },
     "DanceAsOpenEmbodiedInquiry": {
       "episode_count": 1,
       "show_count": 1,
@@ -58447,9 +58470,9 @@
       "url": "/wiki/entities/eastgermany/"
     },
     "EastIndiaCompany": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5156371854 [GLT5156371854].md",
@@ -58464,6 +58487,13 @@
           "show": "The Rest Is History",
           "title": "75. The East India Company",
           "url": "/wiki/sources/75-the-east-india-company-glt7809915873/"
+        },
+        {
+          "episode_file": "GLT8800494407 [GLT8800494407].md",
+          "key": "47-the-seven-years-war-glt8800494407",
+          "show": "The Rest Is History",
+          "title": "47. The Seven Years' War",
+          "url": "/wiki/sources/47-the-seven-years-war-glt8800494407/"
         }
       ],
       "updated": "2026-10-03",
@@ -73553,6 +73583,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/fiscalmilitarynavalstate/"
+    },
+    "FiscalMilitaryState": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8800494407 [GLT8800494407].md",
+          "key": "47-the-seven-years-war-glt8800494407",
+          "show": "The Rest Is History",
+          "title": "47. The Seven Years' War",
+          "url": "/wiki/sources/47-the-seven-years-war-glt8800494407/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/fiscalmilitarystate/"
     },
     "FiscalMonetaryTransmissionDifference": {
       "episode_count": 1,
@@ -108243,9 +108289,9 @@
       "url": "/wiki/entities/jamesconnolly/"
     },
     "JamesCook": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6950185057 [GLT6950185057].md",
@@ -108267,9 +108313,16 @@
           "show": "The Rest Is History",
           "title": "121. Australia Before Cook",
           "url": "/wiki/sources/121-australia-before-cook-glt2957294549/"
+        },
+        {
+          "episode_file": "GLT8800494407 [GLT8800494407].md",
+          "key": "47-the-seven-years-war-glt8800494407",
+          "show": "The Rest Is History",
+          "title": "47. The Seven Years' War",
+          "url": "/wiki/sources/47-the-seven-years-war-glt8800494407/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/jamescook/"
     },
     "JamesEarlRay": {
@@ -175476,9 +175529,9 @@
       "url": "/wiki/entities/robertcecil/"
     },
     "RobertClive": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7809915873 [GLT7809915873].md",
@@ -175486,6 +175539,13 @@
           "show": "The Rest Is History",
           "title": "75. The East India Company",
           "url": "/wiki/sources/75-the-east-india-company-glt7809915873/"
+        },
+        {
+          "episode_file": "GLT8800494407 [GLT8800494407].md",
+          "key": "47-the-seven-years-war-glt8800494407",
+          "show": "The Rest Is History",
+          "title": "47. The Seven Years' War",
+          "url": "/wiki/sources/47-the-seven-years-war-glt8800494407/"
         }
       ],
       "updated": "2026-10-03",
@@ -182528,9 +182588,9 @@
       "url": "/wiki/entities/sevensistersoilmajors/"
     },
     "SevenYearsWar": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3042850673 [GLT3042850673].md",
@@ -182545,9 +182605,16 @@
           "show": "The Rest Is History",
           "title": "285: Canada: Beaver Wars",
           "url": "/wiki/sources/285-canada-beaver-wars-glt6084067740/"
+        },
+        {
+          "episode_file": "GLT8800494407 [GLT8800494407].md",
+          "key": "47-the-seven-years-war-glt8800494407",
+          "show": "The Rest Is History",
+          "title": "47. The Seven Years' War",
+          "url": "/wiki/sources/47-the-seven-years-war-glt8800494407/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/sevenyearswar/"
     },
     "SeventhGeneration": {

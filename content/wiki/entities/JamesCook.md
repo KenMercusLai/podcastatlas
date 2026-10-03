@@ -6,7 +6,8 @@ sources:
   - 381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057
   - 380-captain-cook-historys-greatest-explorer-part-1-glt8106697435
   - 121-australia-before-cook-glt2957294549
-last_updated: 2026-10-02
+  - 47-the-seven-years-war-glt8800494407
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ James Cook was a Yorkshire-born sailor, surveyor, and commander of the [[Endeavo
 
 ## Current Profile
 
-Cook's technical authority was formed before the Pacific. A coal-trade apprenticeship taught practical seamanship; wartime survey work on the St Lawrence and later Newfoundland charting made accuracy, observation, and navigational usefulness the basis of his Royal Navy advancement. His rise from a farm-labourer family was unusual but still depended on patronage and naval institutions as well as merit.
+Cook's technical authority was formed before the Pacific. A coal-trade apprenticeship taught practical seamanship; wartime survey work on the St Lawrence and later Newfoundland charting made accuracy, observation, and navigational usefulness the basis of his Royal Navy advancement. [[47-the-seven-years-war-glt8800494407]] places the St Lawrence chart in its operational setting, where survey knowledge helped a fleet and army approach Quebec. His rise from a farm-labourer family was unusual but still depended on patronage and naval institutions as well as merit.
 
 On the voyage, Cook appears as a disciplined Enlightenment navigator operating inside an imperial mission. He treats provisioning and health as command problems, worries about venereal disease, punishes his own crew as well as threatening islanders, regrets killings, values accurate observation, and increasingly recognizes Pacific skill and social complexity. The same voyage also uses firearms, coercive demonstrations, mapping, and possession ceremonies to convert encounter into British strategic knowledge.
 
@@ -39,6 +40,7 @@ The earlier [[121-australia-before-cook-glt2957294549]] adds a necessary chronol
 ## Evidence
 
 - Formation and promotion: [[380-captain-cook-historys-greatest-explorer-part-1-glt8106697435]] traces Cook from coal ships and HMS Eagle through St Lawrence and Newfoundland survey work to selection for the Pacific mission.
+- Wartime application: [[47-the-seven-years-war-glt8800494407]] connects Cook's St Lawrence survey to the British fleet and army's approach to Quebec.
 - Scientific and maritime command: [[380-captain-cook-historys-greatest-explorer-part-1-glt8106697435]] establishes the transit mission, personnel, provisioning, and departure; [[381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057]] follows Cook from the Tahiti observatory through New Zealand circumnavigation, reef damage, ship repair, and return to Britain.
 - Discipline and restraint: [[381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057]] shows him punishing theft and abuse by his own men, fearing disease transmission, and trying to prevent uncontrolled escalation.
 - Coercion and violence: [[381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057]] records lethal encounters, threats to burn canoes, armed warnings, and British possession ceremonies.
@@ -47,13 +49,11 @@ The earlier [[121-australia-before-cook-glt2957294549]] adds a necessary chronol
 
 ## Qualifications
 
-This profile derives from three popular-history episodes centered largely on European records. It does not settle Cook's private motives for joining the Navy, the South Sea shilling story, exact health effects of particular provisions, responsibility for every killing, the sincerity of his remorse, or the relationship between his personal conduct and later colonization. The pre-Cook episode's migration dates, oral-memory interpretations, and early-contact disputes remain source-scoped.
+This profile derives from four popular-history episodes centered largely on European records. It does not settle Cook's private motives for joining the Navy, the South Sea shilling story, exact health effects of particular provisions, responsibility for every killing, the sincerity of his remorse, or the relationship between his personal conduct and later colonization. The precise authorship, use, and decisiveness of St Lawrence charts and the pre-Cook episode's migration dates, oral-memory interpretations, and early-contact disputes remain source-scoped.
 
 ## What Changed
 
-- Added the merchant, naval, wartime-survey, and Newfoundland formation behind Cook's Pacific command.
-- Extended practical discipline to provisioning and crew health while keeping specific scurvy claims qualified.
-- Reframed “discovery” as later national mythology rather than a description of Australia's historical beginning.
+- Connected Cook's St Lawrence surveying more explicitly to the Quebec campaign and the wartime use of cartographic knowledge.
 
 ## Relationships
 
@@ -66,3 +66,4 @@ This profile derives from three popular-history episodes centered largely on Eur
 - [[NewZealand]] - islands he circumnavigated, charted, and claimed for Britain.
 - [[Australia]] - eastern coast he charted and claimed as New South Wales.
 - [[PreBritishAustralianContact]] - contact history that predates his 1770 voyage.
+- [[SevenYearsWar]] - conflict in which his survey work became operational naval knowledge.
