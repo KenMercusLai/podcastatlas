@@ -4,8 +4,9 @@ type: entity
 tags: [institution, britain, naval-warfare, state-capacity]
 sources:
   - 243-trafalgar-a-world-at-war-part-1-glt3542298238
+  - 43-1940-glt2702093158
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-30
+last_updated: 2026-10-03
 ---
 
 # Royal Navy
@@ -18,6 +19,8 @@ The Royal Navy is presented as Britain's principal maritime fighting institution
 
 The Trafalgar background source rejects the idea that British naval dominance was natural or ancient. Competition with the Dutch and French, Cromwellian spending, Restoration administration, officer examinations, Samuel Pepys's bureaucracy, parliamentary finance, public credit, nationwide recruitment, provisioning, sailor health, dockyard mechanization, and incremental gunnery improvement accumulated into reliable fleet readiness. By 1805 the Navy could control approaches, sustain blockade, operate across oceans, and support a close-action doctrine that trusted captains to execute a shared objective. [[HoratioNelson]] embodied this system, but did not create it alone.
 
+The 1940 source shows the long strategic afterlife of that capacity. After France fell and the army escaped through Dunkirk, Britain still possessed the world's largest navy, a merchant fleet, imperial connections, and global supply access. The Navy made German air superiority insufficient for a successful [[OperationSeaLion|cross-Channel invasion]] because improvised landing forces would still have to cross, land, reinforce, and resupply under naval attack. The episode also treats the fleet as a bargaining asset Britain risked losing through a negotiated settlement.
+
 ## Key Characteristics
 
 - Professionally trained service that required practical seamanship and officer examination.
@@ -26,6 +29,7 @@ The Trafalgar background source rejects the idea that British naval dominance wa
 - Industrial organization whose dockyards and machine-tool processes anticipated wider factory production.
 - Combat system built around practiced gunnery, close action, discipline, aggression, and delegated command.
 - National institution whose language, songs, investment instruments, and heroic memory shaped British identity.
+- Strategic backstop whose sea control, merchant-shipping environment, and global reach preserved British options after continental defeat.
 
 ## Evidence
 
@@ -41,14 +45,19 @@ The Trafalgar background source rejects the idea that British naval dominance wa
 
 - [[243-trafalgar-a-world-at-war-part-1-glt3542298238]] links Channel control, Mediterranean reach, Hood's offensive strategy, Jervis's discipline and delegated captaincy, aggressive incentives, and Nelson's annihilation-seeking command.
 
+### 1940 invasion constraint
+
+- [[43-1940-glt2702093158]] connects the Navy's retained scale and Channel intervention capacity to the impracticality of Sea Lion even under a more favorable German air outcome.
+- [[43-1940-glt2702093158]] treats naval and merchant-shipping assets as foundations of continued resistance and potential targets of a peace settlement.
+
 ## Qualifications
 
-This profile derives from one British-centered popular-history episode. Its comparative claims about French abstraction, British firing speed, technological leadership, state spending, public health, industrialization, and institutional superiority require broader evidence. Parliamentary legitimacy and national identity should not obscure coercive recruitment, imperial commerce, extreme shipboard violence, or the politics of whose liberty naval power protected.
+This profile derives from two British-centered popular-history episodes separated by more than a century. Comparative claims about French abstraction, British firing speed, technological leadership, state spending, public health, industrialization, 1940 fleet effectiveness, likely peace terms, and invasion outcomes require broader evidence. Parliamentary legitimacy and national identity should not obscure coercive recruitment, imperial commerce, extreme shipboard violence, or the politics of whose liberty naval power protected.
 
 ## What Changed
 
-- Created the profile around the Navy as a cumulative institution rather than a collection of ships or heroic commanders.
-- Joined finance, bureaucracy, logistics, health, industry, and command doctrine in one explanation of operational readiness.
+- Extended the cumulative-institution account from Trafalgar to Britain's retained strategic capacity after Dunkirk.
+- Added the distinction between German air superiority and the joint naval-logistical capacity needed to invade.
 
 ## Relationships
 
@@ -60,3 +69,6 @@ This profile derives from one British-centered popular-history episode. Its comp
 - [[BattleOfTrafalgar]] - battle where accumulated institutional capability became tactical performance.
 - [[NavalBreakthroughTactics]] - close-action method enabled by training, gunnery, and captain-level autonomy.
 - [[BankOfEngland|Bank of England]] - public-credit institution linked by the source to naval expansion.
+- [[OperationSeaLion]] - invasion plan constrained by British sea control and German amphibious weakness.
+- [[BattleOfBritain]] - air campaign whose outcome mattered alongside, not instead of, naval power.
+- [[DunkirkEvacuation]] - retreat after which the fleet and global maritime system remained foundations of resistance.

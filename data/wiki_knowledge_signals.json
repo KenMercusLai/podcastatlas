@@ -20761,6 +20761,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/battleofantietam/"
     },
+    "BattleOfBritain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2702093158 [GLT2702093158].md",
+          "key": "43-1940-glt2702093158",
+          "show": "The Rest Is History",
+          "title": "43. 1940",
+          "url": "/wiki/sources/43-1940-glt2702093158/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/battleofbritain/"
+    },
     "BattleOfBrunanburh": {
       "episode_count": 1,
       "show_count": 1,
@@ -57589,6 +57605,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/dune/"
     },
+    "DunkirkEvacuation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2702093158 [GLT2702093158].md",
+          "key": "43-1940-glt2702093158",
+          "show": "The Rest Is History",
+          "title": "43. 1940",
+          "url": "/wiki/sources/43-1940-glt2702093158/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/dunkirkevacuation/"
+    },
     "Dunstan": {
       "episode_count": 1,
       "show_count": 1,
@@ -69433,6 +69465,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/falklandswarpoliticalafterlife/"
+    },
+    "FallOfFrance1940": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2702093158 [GLT2702093158].md",
+          "key": "43-1940-glt2702093158",
+          "show": "The Rest Is History",
+          "title": "43. 1940",
+          "url": "/wiki/sources/43-1940-glt2702093158/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/falloffrance1940/"
     },
     "FallOfSaigon": {
       "episode_count": 2,
@@ -108588,9 +108636,9 @@
       "url": "/wiki/entities/jamesearlray/"
     },
     "JamesHolland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8130436942 [GLT8130436942].md",
@@ -108605,9 +108653,16 @@
           "show": "The Rest Is History",
           "title": "182. Operation Barbarossa",
           "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
+        },
+        {
+          "episode_file": "GLT2702093158 [GLT2702093158].md",
+          "key": "43-1940-glt2702093158",
+          "show": "The Rest Is History",
+          "title": "43. 1940",
+          "url": "/wiki/sources/43-1940-glt2702093158/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/jamesholland/"
     },
     "JamesHollis": {
@@ -127804,6 +127859,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/lordelgin/"
     },
+    "LordHalifax": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2702093158 [GLT2702093158].md",
+          "key": "43-1940-glt2702093158",
+          "show": "The Rest Is History",
+          "title": "43. 1940",
+          "url": "/wiki/sources/43-1940-glt2702093158/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/lordhalifax/"
+    },
     "LordOfTheFlies": {
       "episode_count": 1,
       "show_count": 1,
@@ -136011,6 +136082,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/maximilienrobespierre/"
+    },
+    "May1940BritishWarCabinetCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2702093158 [GLT2702093158].md",
+          "key": "43-1940-glt2702093158",
+          "show": "The Rest Is History",
+          "title": "43. 1940",
+          "url": "/wiki/sources/43-1940-glt2702093158/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/may1940britishwarcabinetcrisis/"
     },
     "May1968France": {
       "episode_count": 3,
@@ -146691,6 +146778,29 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/neutralitytointerventionmemory/"
     },
+    "NevilleChamberlain": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "激发动物精神，创造更多机会 [lnDyFDMtGo-9l5cR8OY82t1XnLFe].md",
+          "key": "jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe",
+          "show": "面基",
+          "title": "激发动物精神，创造更多机会",
+          "url": "/wiki/sources/jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe/"
+        },
+        {
+          "episode_file": "GLT2702093158 [GLT2702093158].md",
+          "key": "43-1940-glt2702093158",
+          "show": "The Rest Is History",
+          "title": "43. 1940",
+          "url": "/wiki/sources/43-1940-glt2702093158/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/nevillechamberlain/"
+    },
     "NewAmerica": {
       "episode_count": 1,
       "show_count": 1,
@@ -152283,6 +152393,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/operationryan/"
+    },
+    "OperationSeaLion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2702093158 [GLT2702093158].md",
+          "key": "43-1940-glt2702093158",
+          "show": "The Rest Is History",
+          "title": "43. 1940",
+          "url": "/wiki/sources/43-1940-glt2702093158/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/operationsealion/"
     },
     "OperationUranus": {
       "episode_count": 1,
@@ -177846,6 +177972,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/roybaumeister/"
     },
+    "RoyalAirForce": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2702093158 [GLT2702093158].md",
+          "key": "43-1940-glt2702093158",
+          "show": "The Rest Is History",
+          "title": "43. 1940",
+          "url": "/wiki/sources/43-1940-glt2702093158/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/royalairforce/"
+    },
     "RoyalAnimalSpectacle": {
       "episode_count": 1,
       "show_count": 1,
@@ -178088,9 +178230,9 @@
       "url": "/wiki/concepts/royalminoritycustodypolitics/"
     },
     "RoyalNavy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3542298238 [GLT3542298238].md",
@@ -178098,9 +178240,16 @@
           "show": "The Rest Is History",
           "title": "243. Trafalgar: A World at War (Part 1)",
           "url": "/wiki/sources/243-trafalgar-a-world-at-war-part-1-glt3542298238/"
+        },
+        {
+          "episode_file": "GLT2702093158 [GLT2702093158].md",
+          "key": "43-1940-glt2702093158",
+          "show": "The Rest Is History",
+          "title": "43. 1940",
+          "url": "/wiki/sources/43-1940-glt2702093158/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/royalnavy/"
     },
     "RoyalSociety": {
@@ -217645,9 +217794,9 @@
       "url": "/wiki/entities/winsentertainment/"
     },
     "WinstonChurchill": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT1275431911 [GLT1275431911].md",
@@ -217697,6 +217846,13 @@
           "show": "The Rest Is History",
           "title": "78. Statues: Parliament Square",
           "url": "/wiki/sources/78-statues-parliament-square-glt3870229260/"
+        },
+        {
+          "episode_file": "GLT2702093158 [GLT2702093158].md",
+          "key": "43-1940-glt2702093158",
+          "show": "The Rest Is History",
+          "title": "43. 1940",
+          "url": "/wiki/sources/43-1940-glt2702093158/"
         }
       ],
       "updated": "2026-10-03",

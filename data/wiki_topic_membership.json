@@ -4209,6 +4209,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "43-1940-glt2702093158": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "43-xiyouji-duo-ni-shi-shenme-yaojing-618154182": [
     {
       "key": "culture",
@@ -51537,6 +51544,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LordHalifax": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LordOfLight": [
     {
       "key": "culture",
@@ -54117,6 +54131,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "May1940BritishWarCabinetCrisis": [
     {
       "key": "politics",
       "label": "Politics",
@@ -58220,11 +58241,6 @@
     }
   ],
   "NevilleChamberlain": [
-    {
-      "key": "history",
-      "label": "History",
-      "url": "/topics/history/"
-    },
     {
       "key": "politics",
       "label": "Politics",

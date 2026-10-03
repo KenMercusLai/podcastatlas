@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3033
+topic_total_pages: 3035
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2407,6 +2407,9 @@ topic_concepts:
   - key: "MatsutakeCommonsManagement"
     title: "Matsutake Commons Management / 松茸山公共资源治理"
     url: "/wiki/concepts/matsutakecommonsmanagement/"
+  - key: "May1940BritishWarCabinetCrisis"
+    title: "May 1940 British War Cabinet Crisis"
+    url: "/wiki/concepts/may1940britishwarcabinetcrisis/"
   - key: "MediaOwnershipIndependenceRisk"
     title: "Media Ownership Independence Risk"
     url: "/wiki/concepts/mediaownershipindependencerisk/"
@@ -6353,6 +6356,9 @@ topic_entities:
   - key: "LongTermStockExchange"
     title: "Long-Term Stock Exchange"
     url: "/wiki/entities/longtermstockexchange/"
+  - key: "LordHalifax"
+    title: "Lord Halifax"
+    url: "/wiki/entities/lordhalifax/"
   - key: "LordRandolphChurchill"
     title: "Lord Randolph Churchill"
     url: "/wiki/entities/lordrandolphchurchill/"

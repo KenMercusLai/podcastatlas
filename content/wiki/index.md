@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [43. 1940](sources/43-1940-glt2702093158.md) — The Rest Is History with James Holland on France's collapse, Dunkirk, the May War Cabinet crisis, the Battle of Britain, Sea Lion, and Britain's retained strategic capacity.
 - [44. 1066](sources/44-1066-glt5177665423.md) — The Rest Is History on the three-way succession struggle, papal reform, castles and cavalry, slavery and class change, cultural rupture, and England's national memory of defeat.
 - [How Hormones Control Hunger, Eating & Satiety](sources/scim1789507430-scim1789507430.md) — Early Huberman Lab solo episode on brain-gut appetite regulation, ghrelin timing, nutrient-linked satiety, processed-food intake, glucose context, meal order, movement, and intervention boundaries.
 - [45. Top Ten Eunuchs](sources/45-top-ten-eunuchs-glt5221212176.md) — The Rest Is History on castration through captivity, court power, punishment, family economics, religion, performance, and the unequal relationship between bodily coercion and later mobility.
@@ -3643,6 +3644,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Control Your Metabolism by Thyroid & Growth Hormone](sources/scim2147325995-scim2147325995.md) — Full-length Huberman Lab episode on thyroid-axis nutrient sufficiency, cellular metabolism, slow-wave-sleep-linked growth hormone, exercise, amino-acid pathways, heat, and medical safety boundaries.
 
 ## Entities
+- [Lord Halifax](entities/LordHalifax.md) — British foreign secretary who advocated exploring Italian-mediated peace terms during the May 1940 War Cabinet crisis.
+- [Royal Air Force](entities/RoyalAirForce.md) — British air institution whose distributed resilience and joint role with naval power helped preserve resistance in 1940.
 - [Bagoas](entities/Bagoas.md) — Persian eunuch whose contested association with Darius III and Alexander exposes the politics and reception of intimate court access.
 - [Boston Corbett](entities/BostonCorbett.md) — Union soldier who killed John Wilkes Booth and whose self-castration is presented through intense religious literalism and uncertain mental-health causes.
 - [Samson Rowley / Hassan Aga](entities/SamsonRowley.md) — English captive who was castrated, converted, and later became treasurer in Ottoman-linked Algiers.
@@ -4566,7 +4569,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [J. D. Tippit](entities/JDTippit.md) — Dallas police officer whose killing created the suspect trail from Oak Cliff to Oswald's arrest at the Texas Theatre.
 - [House Select Committee on Assassinations](entities/HouseSelectCommitteeOnAssassinations.md) — Later congressional inquiry whose disputed acoustic finding gave qualified official standing to a possible JFK conspiracy.
 - [Karen Parker](entities/KarenParker.md) — Social neuroscientist connecting comparative models, autism-relevant biomarkers, neuropeptides, and cautiously bounded clinical translation.
-- [James Holland](entities/JamesHolland.md) — Military historian joining strategy, logistics, operational capacity, ideology, and lived experience across Barbarossa and the Italian campaign.
+- [James Holland](entities/JamesHolland.md) — Military historian joining strategy, logistics, communications, operational capacity, ideology, and lived experience across major Second World War campaigns.
 - [Italian Campaign of 1943](entities/ItalianCampaign1943.md) — Allied mainland campaign that achieved Italian exit, German diversion, ports, and Foggia but became a constrained attritional advance.
 - [Albert Kesselring](entities/AlbertKesselring.md) — German commander whose Salerno concentration and forward defense of southern Italy receive a source-bounded critical reassessment.
 - [王靖 / Wang Jing (production designer)](entities/WangJingProductionDesigner.md) — Production designer using architectural accumulation, operational detail, and domestic space to create institutional and character realism.
@@ -5868,7 +5871,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jackie Fisher / Admiral Lord Fisher](entities/JackieFisher.md) — First Sea Lord whose Dardanelles warnings make Gallipoli an ignored institutional-objection case.
 - [Enver Pasha](entities/EnverPasha.md) — Ottoman leader whose German orientation and Sarikamish disaster form part of Gallipoli's prehistory.
 - [Mustafa Kemal / Ataturk](entities/MustafaKemalAtaturk.md) — Ottoman commander whose Gallipoli role made his reputation and is treated as a step toward later Turkish national authority.
-- [Winston Churchill](entities/WinstonChurchill.md) — British soldier-writer and leader whose early imperial adventures, moral tensions, and publicity methods precede later bold peripheral strategy.
+- [Winston Churchill](entities/WinstonChurchill.md) — British soldier-writer and wartime leader joining imperial formation, bold strategy, public rhetoric, and the May 1940 decision to continue the war.
 - [Lindsay Cole](entities/LindsayCole.md) — Forensic psychology professor and parent used by Planet Money to show professional-household strain under inflation.
 - [Rick Schultz](entities/RickSchultz.md) — Retired Planet Money listener whose pensions, investments, homeownership, and timing make the comfortable-retiree side of the economy visible.
 - [Leo Vamaka](entities/LeoVamaka.md) — Teen Planet Money listener whose coupon use, food budgeting, and gasoline sensitivity illustrate inflation-shaped consumer habits.
@@ -9592,7 +9595,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《比特本位》 / The Bit Standard](entities/BitStandardBook.md) — Zhou Luohua book discussed as a Bitcoin, monetary-history, proof-of-work, and production-relations frame.
 - [《货币起源》 / The Origin of Money](entities/CurrencyOriginBook.md) — Zhou Luohua book reference linking his broader monetary project to money flow and currency-anchor questions.
 - [John Maynard Keynes / 凯恩斯](entities/JohnMaynardKeynes.md) — Economist used in the 面基 source to frame animal spirits as opportunity-activated investment, consumption, and action.
-- [Neville Chamberlain / 张伯伦](entities/NevilleChamberlain.md) — Historical policy example used by the source for equipment replacement, industrial upgrading, and opportunity-based selection.
+- [Neville Chamberlain / 张伯伦](entities/NevilleChamberlain.md) — British prime minister connecting industrial preparation, political failure after Norway, and support for continued resistance in May 1940.
 - [Viviana Zelizer / 泽利泽](entities/VivianaZelizer.md) — Sociologist cited in the source's argument that courts and institutions can raise the priced value of human life.
 - [Suno](entities/Suno.md) — Generative AI music company trying to reposition itself as artist-support infrastructure through Suno Spark while facing source-scoped training-copyright litigation.
 - [Suno Spark](entities/SunoSpark.md) — Suno artist-incubator program for unsigned musicians, combining grants, marketing support, artist development, and AI tools.
@@ -15741,7 +15744,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pierre-Charles Villeneuve](entities/PierreCharlesVilleneuve.md) — French admiral whose learned caution, Atlantic campaign, coalition constraints, and reversal maneuver preceded defeat at Trafalgar.
 - [Federico Gravina](entities/FedericoGravina.md) — Spanish admiral navigating coalition pressure, distinct government instructions, capacity limits, and honor before Trafalgar.
 - [Trafalgar Campaign](entities/TrafalgarCampaign.md) — 1805 sequence of Atlantic feint, pursuit, failed concentration, blockade, and coalition pressure culminating at Trafalgar.
-- [Royal Navy](entities/RoyalNavy.md) — British maritime institution synthesized through finance, administration, training, logistics, health, dockyards, gunnery, and command culture.
+- [Royal Navy](entities/RoyalNavy.md) — British maritime institution synthesized through finance, administration, training, logistics, global reach, sea control, and invasion constraint.
 
 - [Manchester City](entities/ManchesterCity.md) — English football club whose post-2008 dominance is now tied to a disputed financial-rule finding, appeal, sanctions, and supporter identity.
 - [Abu Dhabi United Group](entities/AbuDhabiUnitedGroup.md) — Manchester City ownership group at the center of the source's foreign investment and disputed sponsorship-finance case.
@@ -15886,6 +15889,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scoff: A History of Food and Class in Britain](entities/ScoffBook.md) — Pen Vogler's book framing food as evidence for class and social change.
 
 ## Concepts
+- [Fall of France (1940)](concepts/FallOfFrance1940.md) — Campaign showing how communications, combined arms, and decision speed can defeat material strength that is poorly coordinated.
+- [Dunkirk Evacuation](concepts/DunkirkEvacuation.md) — Operation Dynamo understood as an unexpectedly large manpower rescue overlapping Britain's decision to continue the war.
+- [May 1940 British War Cabinet Crisis](concepts/May1940BritishWarCabinetCrisis.md) — Dispute over negotiation, alliance credibility, strategic assets, and continued resistance as France collapsed.
+- [Battle of Britain](concepts/BattleOfBritain.md) — Air campaign decisive for preserving Britain in the war even though German invasion capacity was independently weak.
+- [Operation Sea Lion](concepts/OperationSeaLion.md) — German invasion plan whose amphibious, naval, intelligence, landing, and sustainment means did not match its objective.
 - [Castration, Coercion, and Mobility](concepts/CastrationCoercionAndMobility.md) — Framework preserving original bodily violence when survivors later gain office, income, status, or renewed agency.
 - [Eunuch Court Power](concepts/EunuchCourtPower.md) — Authority built from intimate ruler access and perceived exclusion from succession, extending into administration, diplomacy, and war.
 - [Castrati](concepts/Castrati.md) — Musical labor system joining childhood surgery, family investment, institutional demand, rare celebrity, and unequal outcomes.

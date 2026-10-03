@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9497
+wiki_total_pages: 9502
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "FalklandsWarPoliticalAfterlife"
     title: "Falklands War Political Afterlife"
     url: "/wiki/concepts/falklandswarpoliticalafterlife/"
+  - key: "FallOfFrance1940"
+    title: "Fall of France (1940)"
+    url: "/wiki/concepts/falloffrance1940/"
   - key: "FallingObjectPublicSafety"
     title: "Falling Object Public Safety"
     url: "/wiki/concepts/fallingobjectpublicsafety/"

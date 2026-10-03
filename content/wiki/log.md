@@ -28660,3 +28660,11 @@ Added source `44-1066-glt5177665423` and resynthesized `NormanConquestOfEngland`
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 43. 1940
+
+Added source `43-1940-glt2702093158`; created bounded profiles for Lord Halifax and the Royal Air Force; created concepts for the fall of France, Dunkirk evacuation, May 1940 War Cabinet crisis, Battle of Britain, and Operation Sea Lion; and resynthesized James Holland, Winston Churchill, Neville Chamberlain, and the Royal Navy from their complete preserved evidence inventories. Core synthesis: France's material strength was defeated by faster German coordination and command; Britain retained naval, air, merchant-shipping, imperial, and global-resource capacity after Dunkirk; refusing peace feelers kept those assets in the war; and Sea Lion's joint-capacity weakness means the Battle of Britain mattered chiefly by preserving Britain as an active enemy and forcing Germany toward a long attritional struggle. No settled contradiction was adopted. Force comparisons, evacuation totals, commander motives, likely peace terms, airfield and bombing figures, invasion feasibility, and counterfactual campaign outcomes remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,582-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

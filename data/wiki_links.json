@@ -2451,6 +2451,10 @@
     "title": "42章经",
     "url": "/wiki/entities/42zhangjing/"
   },
+  "43-1940-glt2702093158": {
+    "title": "43. 1940",
+    "url": "/wiki/sources/43-1940-glt2702093158/"
+  },
   "43-xiyouji-duo-ni-shi-shenme-yaojing-618154182": {
     "title": "43.西游记：咄！你是什么妖精！",
     "url": "/wiki/sources/43-xiyouji-duo-ni-shi-shenme-yaojing-618154182/"
@@ -11114,6 +11118,10 @@
   "BattleOfAntietam": {
     "title": "Battle of Antietam",
     "url": "/wiki/entities/battleofantietam/"
+  },
+  "BattleOfBritain": {
+    "title": "Battle of Britain",
+    "url": "/wiki/concepts/battleofbritain/"
   },
   "BattleOfBrunanburh": {
     "title": "Battle of Brunanburh",
@@ -25091,6 +25099,10 @@
     "title": "Dune / 沙丘",
     "url": "/wiki/entities/dune/"
   },
+  "DunkirkEvacuation": {
+    "title": "Dunkirk Evacuation",
+    "url": "/wiki/concepts/dunkirkevacuation/"
+  },
   "DunlopPneumaticTyreCompany": {
     "title": "Dunlop Pneumatic Tyre Company",
     "url": "/wiki/entities/dunloppneumatictyrecompany/"
@@ -28474,6 +28486,10 @@
   "FalklandsWarPoliticalAfterlife": {
     "title": "Falklands War Political Afterlife",
     "url": "/wiki/concepts/falklandswarpoliticalafterlife/"
+  },
+  "FallOfFrance1940": {
+    "title": "Fall of France (1940)",
+    "url": "/wiki/concepts/falloffrance1940/"
   },
   "FallOfSaigon": {
     "title": "Fall of Saigon",
@@ -49211,6 +49227,10 @@
     "title": "Lord Elgin",
     "url": "/wiki/entities/lordelgin/"
   },
+  "LordHalifax": {
+    "title": "Lord Halifax",
+    "url": "/wiki/entities/lordhalifax/"
+  },
   "LordOfLight": {
     "title": "《光明王》 / Lord of Light",
     "url": "/wiki/entities/lordoflight/"
@@ -52126,6 +52146,10 @@
   "MaxusV90": {
     "title": "Maxus V90",
     "url": "/wiki/entities/maxusv90/"
+  },
+  "May1940BritishWarCabinetCrisis": {
+    "title": "May 1940 British War Cabinet Crisis",
+    "url": "/wiki/concepts/may1940britishwarcabinetcrisis/"
   },
   "May1968France": {
     "title": "May 1968 in France",
@@ -58394,6 +58418,10 @@
   "OperationRYAN": {
     "title": "Operation RYAN / 莱恩行动",
     "url": "/wiki/entities/operationryan/"
+  },
+  "OperationSeaLion": {
+    "title": "Operation Sea Lion",
+    "url": "/wiki/concepts/operationsealion/"
   },
   "OperationSunbeam": {
     "title": "Operation Sunbeam / 阳光计划",
@@ -68338,6 +68366,10 @@
   "RoySeiders": {
     "title": "Roy Seiders",
     "url": "/wiki/entities/royseiders/"
+  },
+  "RoyalAirForce": {
+    "title": "Royal Air Force",
+    "url": "/wiki/entities/royalairforce/"
   },
   "RoyalAnimalSpectacle": {
     "title": "Royal Animal Spectacle",

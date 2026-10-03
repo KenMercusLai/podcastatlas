@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9497
+wiki_total_pages: 9502
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1187,6 +1187,9 @@ wiki_pages:
   - key: "DunbarNumber"
     title: "Dunbar Number / 邓巴数"
     url: "/wiki/concepts/dunbarnumber/"
+  - key: "DunkirkEvacuation"
+    title: "Dunkirk Evacuation"
+    url: "/wiki/concepts/dunkirkevacuation/"
   - key: "DunningKrugerEffect"
     title: "Dunning-Kruger Effect"
     url: "/wiki/concepts/dunningkrugereffect/"

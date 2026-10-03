@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9497
+wiki_total_pages: 9502
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "MaximalSpeedVitalityHypothesis"
     title: "Maximal Speed Vitality Hypothesis"
     url: "/wiki/concepts/maximalspeedvitalityhypothesis/"
+  - key: "May1940BritishWarCabinetCrisis"
+    title: "May 1940 British War Cabinet Crisis"
+    url: "/wiki/concepts/may1940britishwarcabinetcrisis/"
   - key: "MayerlingDeathPact"
     title: "Mayerling Death Pact"
     url: "/wiki/concepts/mayerlingdeathpact/"
