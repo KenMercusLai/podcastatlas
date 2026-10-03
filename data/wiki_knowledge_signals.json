@@ -39040,6 +39040,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/clarisonic/"
     },
+    "ClassStratifiedSexualRespectability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9221135938 [GLT9221135938].md",
+          "key": "24-sex-in-the-city-glt9221135938",
+          "show": "The Rest Is History",
+          "title": "24. Sex in the City",
+          "url": "/wiki/sources/24-sex-in-the-city-glt9221135938/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/classstratifiedsexualrespectability/"
+    },
     "ClassicCitationLegitimationCapture": {
       "episode_count": 2,
       "show_count": 1,
@@ -89837,6 +89853,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/halliemiller/"
+    },
+    "HallieRubenhold": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9221135938 [GLT9221135938].md",
+          "key": "24-sex-in-the-city-glt9221135938",
+          "show": "The Rest Is History",
+          "title": "24. Sex in the City",
+          "url": "/wiki/sources/24-sex-in-the-city-glt9221135938/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/hallierubenhold/"
     },
     "HalloweenHistoricalLayering": {
       "episode_count": 1,
@@ -185396,6 +185428,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/sexsteroidfeedbackregulation/"
     },
+    "SexWorkEconomicSpectrum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9221135938 [GLT9221135938].md",
+          "key": "24-sex-in-the-city-glt9221135938",
+          "show": "The Rest Is History",
+          "title": "24. Sex in the City",
+          "url": "/wiki/sources/24-sex-in-the-city-glt9221135938/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/sexworkeconomicspectrum/"
+    },
     "SexualDifferentiationPathway": {
       "episode_count": 3,
       "show_count": 1,
@@ -185494,6 +185542,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/sexualharassmentnaminglag/"
+    },
+    "SexualHistoryEvidenceInterpretation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9221135938 [GLT9221135938].md",
+          "key": "24-sex-in-the-city-glt9221135938",
+          "show": "The Rest Is History",
+          "title": "24. Sex in the City",
+          "url": "/wiki/sources/24-sex-in-the-city-glt9221135938/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/sexualhistoryevidenceinterpretation/"
     },
     "SexualOrientationDevelopmentalCorrelates": {
       "episode_count": 1,

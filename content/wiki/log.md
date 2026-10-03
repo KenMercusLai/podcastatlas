@@ -28932,3 +28932,11 @@ Added source `ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwr
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 24. Sex in the City
+
+Added source `24-sex-in-the-city-glt9221135938`; created [[HallieRubenhold]], [[SexualHistoryEvidenceInterpretation]], [[ClassStratifiedSexualRespectability]], and [[SexWorkEconomicSpectrum]]. Core synthesis: British sexual history cannot be reduced to licentious Georgians and repressed Victorians because public ideals, surviving evidence, and lived behavior vary by class and gender; sex work likewise spans coercion, poverty, family strategy, constrained choice, celebrity, and persistent economic risk. No settled contradiction was adopted. Abortion remedies and timing, behavioral continuity, urban-sex-market geography, same-sex subcultures, prosecutions, and named biographical anecdotes remain source-scoped. Recurring host and show profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,616-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

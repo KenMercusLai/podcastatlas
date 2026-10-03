@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2513
+topic_total_pages: 2515
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1249,6 +1249,9 @@ topic_concepts:
   - key: "SelfPreservationAsStateStrategy"
     title: "Self-Preservation as State Strategy / 以自保包装国策"
     url: "/wiki/concepts/selfpreservationasstatestrategy/"
+  - key: "SexualHistoryEvidenceInterpretation"
+    title: "Sexual History Evidence Interpretation"
+    url: "/wiki/concepts/sexualhistoryevidenceinterpretation/"
   - key: "ShangYangReforms"
     title: "Shang Yang Reforms / 商鞅变法"
     url: "/wiki/concepts/shangyangreforms/"
@@ -5373,6 +5376,9 @@ topic_sources:
   - key: "239-young-churchill-born-to-lead-part-1-glt1969009161"
     title: "239. Young Churchill: Born to Lead (Part 1)"
     url: "/wiki/sources/239-young-churchill-born-to-lead-part-1-glt1969009161/"
+  - key: "24-sex-in-the-city-glt9221135938"
+    title: "24. Sex in the City"
+    url: "/wiki/sources/24-sex-in-the-city-glt9221135938/"
   - key: "240-young-churchill-soldier-of-empire-part-2-glt4710302249"
     title: "240. Young Churchill: Soldier of Empire (Part 2)"
     url: "/wiki/sources/240-young-churchill-soldier-of-empire-part-2-glt4710302249/"

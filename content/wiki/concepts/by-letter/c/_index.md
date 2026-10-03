@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9555
+wiki_total_pages: 9558
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1154,6 +1154,9 @@ wiki_pages:
   - key: "ClassMobilityPerformance"
     title: "Class Mobility Performance / 阶级上升表演"
     url: "/wiki/concepts/classmobilityperformance/"
+  - key: "ClassStratifiedSexualRespectability"
+    title: "Class-Stratified Sexual Respectability"
+    url: "/wiki/concepts/classstratifiedsexualrespectability/"
   - key: "ClassicCanvasShoeDecline"
     title: "Classic Canvas Shoe Decline"
     url: "/wiki/concepts/classiccanvasshoedecline/"

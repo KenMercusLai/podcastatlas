@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12241
+wiki_total_pages: 12242
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "HallieMiller"
     title: "Hallie Miller"
     url: "/wiki/entities/halliemiller/"
+  - key: "HallieRubenhold"
+    title: "Hallie Rubenhold"
+    url: "/wiki/entities/hallierubenhold/"
   - key: "HamadBinKhalifaAlThani"
     title: "Hamad bin Khalifa Al Thani"
     url: "/wiki/entities/hamadbinkhalifaalthani/"
