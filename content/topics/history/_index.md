@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2515
+topic_total_pages: 2517
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1153,6 +1153,9 @@ topic_concepts:
   - key: "QueenMotherRegency"
     title: "Queen-Mother Regency / 太后摄政"
     url: "/wiki/concepts/queenmotherregency/"
+  - key: "RecentHistoryPerspective"
+    title: "Recent-History Perspective"
+    url: "/wiki/concepts/recenthistoryperspective/"
   - key: "ReformWithoutPopularDeliberation"
     title: "Reform Without Popular Deliberation / 不与民虑始"
     url: "/wiki/concepts/reformwithoutpopulardeliberation/"
@@ -5349,6 +5352,9 @@ topic_sources:
   - key: "229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817"
     title: "229. Portugal: Gold, Earthquakes, and Brazil (Part 3)"
     url: "/wiki/sources/229-portugal-gold-earthquakes-and-brazil-part-3-glt8317395817/"
+  - key: "23-the-90s-glt8035489270"
+    title: "23. The 90s"
+    url: "/wiki/sources/23-the-90s-glt8035489270/"
   - key: "230-portugal-football-fado-and-fascism-part-4-glt9147423732"
     title: "230. Portugal: Football, Fado, and Fascism? (Part 4)"
     url: "/wiki/sources/230-portugal-football-fado-and-fascism-part-4-glt9147423732/"

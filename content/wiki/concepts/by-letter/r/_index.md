@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9559
+wiki_total_pages: 9560
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "ReceivablesRisk"
     title: "Receivables Risk"
     url: "/wiki/concepts/receivablesrisk/"
+  - key: "RecentHistoryPerspective"
+    title: "Recent-History Perspective"
+    url: "/wiki/concepts/recenthistoryperspective/"
   - key: "ReciprocalTariffFormula"
     title: "Reciprocal Tariff Formula"
     url: "/wiki/concepts/reciprocaltariffformula/"

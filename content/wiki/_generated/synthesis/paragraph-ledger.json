@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8acbcfb4e29fba02878bca0d9d4cb29edf99fe87b7b48806f161f50c0fbfcff9",
       "7c66e9f5a836d4a8f0d7db852532a4b69adce88d1241441dcf4fdb20de615b85",
       "299dbc3075a3b1904939b52650009dd5344c8d74c6fd01466c0c82b109a610b0",
       "bbc9d3299e2f5a46b71a984ffb8b7d937abe2c7a467a4d595c2626624e0664bd",
@@ -783,11 +784,33 @@
       "16601a21e79111590dec9aaa39aaf37cda533c18f62b03ad841cc2b74da82008",
       "63a515e020a9c43959a46584faeb8b50d6d1df53ac7fcb6403fbaa521cb5881a"
     ],
-    "paragraph_count": 781
+    "paragraph_count": 782
   },
-  "overview_commit": "5b7cf567a86232987d5fc79d14a2d5217b596d1e",
-  "overview_digest": "4341131862d6b9f366facdf229a26df8106f0b2a3ce6034a3c0dbf0b89634654",
+  "overview_commit": "dded08771911931d6a82a83d271c14cdc40a330e",
+  "overview_digest": "57dc40badac981acd917d4d37e7408761f5cb4ad598f70453d303ab44377f4c2",
   "paragraphs": [
+    {
+      "id": "8acbcfb4e29fba02878bca0d9d4cb29edf99fe87b7b48806f161f50c0fbfcff9",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[23-the-90s-glt8035489270|23. The 90s]], a [[TheRestIsHistory|The Rest Is History]] episode on recent-history method, 1990s nostalgia, and the decade as a hinge between the Cold War and 9/11. It adds [[JohnMajor]] and [[RecentHistoryPerspective]], while extending [[TonyBlair]], [[FrancisFukuyama]], [[GoldenAgeNarrative]], [[MassInternetAdoption]], and [[PostColdWarOrderRupture]]. Its core synthesis is that lived memory provides texture without making one generation's experience representative: Western prosperity, Britpop, and political relief coexist with Rwanda, Yugoslavia, Russian collapse, China's rise, religious persistence, culture conflict, and digital transformation. No settled contradiction is recorded; the 1989-2001 period boundary, euro-Brexit counterfactual, life-expectancy figure, secularization diagnosis, cultural-fragmentation cause, and geopolitical rankings remain interpretive or source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "23-the-90s-glt8035489270",
+        "FrancisFukuyama",
+        "GoldenAgeNarrative",
+        "JohnMajor",
+        "MassInternetAdoption",
+        "PostColdWarOrderRupture",
+        "RecentHistoryPerspective",
+        "TheRestIsHistory",
+        "TonyBlair"
+      ]
+    },
     {
       "id": "7c66e9f5a836d4a8f0d7db852532a4b69adce88d1241441dcf4fdb20de615b85",
       "primary_topic": "business-and-markets",

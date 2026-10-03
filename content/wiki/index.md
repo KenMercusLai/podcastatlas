@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [23. The 90s](sources/23-the-90s-glt8035489270.md) — The Rest Is History on recent-history method, 1990s nostalgia, post-Cold War instability, internet transformation, political memory, religion, and Brexit's preconditions.
 - [24. Sex in the City](sources/24-sex-in-the-city-glt9221135938.md) — The Rest Is History with Hallie Rubenhold on sexual-history evidence, prostitution, class, gender, respectability, and Georgian-Victorian continuity and change.
 - [EP160-我在美国自己建房子，美国也有学区房？](sources/ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm.md) — 无时差研究所 with a Phoenix-area homeowner on builder-bounded new construction, mortgage closing, schools, upgrades, DIY, smart-home infrastructure, solar, and post-handover work.
 - [25. Empires](sources/25-empires-glt2896270746.md) — The Rest Is History on empire as coercive political order, legitimacy, integration, anti-imperial inheritance, nation-states, and the persistence of imperial forms.
@@ -3679,6 +3680,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Learn Faster by Using Failures, Movement & Balance](sources/how-to-learn-faster-by-using-failures-movement-balance-scim9872815940.md) — Early Huberman Lab episode on correctable errors, adult neuroplasticity, flow versus learning, arousal regulation, sleep consolidation, and safe vestibular novelty.
 
 ## Entities
+- [John Major](entities/JohnMajor.md) — British Conservative prime minister whose hostile contemporary reception and improved later reputation illustrate retrospective political memory.
 - [Hallie Rubenhold](entities/HallieRubenhold.md) — Historian centering women’s experience, class, urban life, and contextual source criticism in Georgian and Victorian sexual history.
 - [Ricky (Phoenix Homeowner)](entities/RickyPhoenixHomeowner.md) — Phoenix-area new-build buyer whose account connects family-supported financing, builder choices, DIY work, smart-home infrastructure, and long-term owner responsibility.
 - [Susannah Lipscomb](entities/SusannahLipscomb.md) — Early-modern historian whose witchcraft account joins demonology, legal procedure, gender, social stress, and evidentiary change.
@@ -3694,7 +3696,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lindisfarne](entities/Lindisfarne.md) — Northumbrian monastery joining Cuthbert's relic cult, pilgrimage wealth, Viking vulnerability, and mobile institutional continuity.
 - [Benjamin Disraeli](entities/BenjaminDisraeli.md) — Conservative prime minister and novelist whose vivid persona outweighs Salisbury's administrative substance in the audience poll.
 - [Lord Salisbury](entities/LordSalisbury.md) — Three-time Conservative prime minister whose imperial-era and party significance exceed his present public recognition.
-- [Tony Blair](entities/TonyBlair.md) — Three-election Labour prime minister whose later reputation is dominated in the source by Iraq and post-office wealth.
+- [Tony Blair](entities/TonyBlair.md) — Labour prime minister whose 1997 optimism and three election victories contrast with later reputational damage centered on Iraq and post-office wealth.
 - [Lord Palmerston](entities/LordPalmerston.md) — Victorian prime minister associated with gunboat diplomacy, late accession, and modern reputational liabilities.
 - [William Pitt the Younger](entities/WilliamPittTheYounger.md) — Youngest British prime minister in the source, associated with reform, war leadership, anti-Jacobinism, and abolition.
 - [William Pitt the Elder](entities/WilliamPittTheElder.md) — Statesman credited with helping drive Seven Years' War victory and Britain's global imperial rise.
@@ -13466,7 +13468,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《绿色星球》](entities/TheGreenPlanet.md) — BBC plant-world documentary/book topic previewed through Beimin's Chinese translation work and plant behavior examples.
 - [Roger Zelazny / 罗杰·泽拉兹尼](entities/RogerZelazny.md) — Science-fiction and fantasy writer read through New Wave experimentation, mythic style, robot-human personhood, embodied life, and digital transcendence.
 - [《光明王》 / Lord of Light](entities/LordOfLight.md) — Zelazny work recommended as mythic far-future science fiction about religious-political conflict, rebellion, and ornate speculative style.
-- [Francis Fukuyama / 福山](entities/FrancisFukuyama.md) — Political theorist represented through war-aim criticism, identity and demography reading signals, and a qualified providential genealogy of liberal universalism.
+- [Francis Fukuyama / 福山](entities/FrancisFukuyama.md) — Political theorist represented through war-aim criticism, reading signals, and qualified providential and 1990s-triumphalist interpretations of liberal universalism.
 - [《身份政治》](entities/IdentityPoliticsBook.md) — Fukuyama book previewed as a possible future political-theory topic tied to concrete human understanding.
 - [《龙王之怒：1931年长江水灾》](entities/LongwangZhinu1931ChangjiangShuizai.md) — Book discussed by episode 65 as a disaster-history account of the 1931 Yangtze flood.
 - [Yangtze River / 长江](entities/YangtzeRiver.md) — Main river system in episode 65's floodplain, Wuhan, wetland, and levee-risk account.
@@ -15968,6 +15970,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Recent-History Perspective](concepts/RecentHistoryPerspective.md) — Method for using lived memory as evidence without mistaking familiar, generational, or nostalgic experience for representative history.
 - [Sexual History Evidence Interpretation](concepts/SexualHistoryEvidenceInterpretation.md) — Contextual reading of intimate, literary, legal, and commercial sources as both historical evidence and audience-shaped performance.
 - [Class-Stratified Sexual Respectability](concepts/ClassStratifiedSexualRespectability.md) — Gender- and class-specific system of sexual knowledge, reputation, discretion, availability, and unequal material consequences.
 - [Sex Work as an Economic Spectrum](concepts/SexWorkEconomicSpectrum.md) — Framework joining varied entry routes, constrained agency, urban markets, reproductive risk, patronage, and insecurity.
@@ -16114,7 +16117,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [School Mental-Health Referral Boundary / 学校心理健康转介边界](concepts/SchoolMentalHealthReferralBoundary.md) — Boundary between teacher observation and support versus professional diagnosis and treatment.
 - [Education Resource Equalization System Limits / 教育资源均衡的系统边界](concepts/EducationResourceEqualizationSystemLimits.md) — Constraints on equalization when staffing, incentives, school capacity, students, and family resources remain uneven.
 - [Silicon Valley Innovation System](concepts/SiliconValleyInnovationSystem.md) — How public research, Stanford commercialization, chips, migration, culture, and California future-branding combined into a technology cluster.
-- [Mass Internet Adoption](concepts/MassInternetAdoption.md) — The complementary access, interface, device, policy, and capacity layers that moved the internet into ordinary use.
+- [Mass Internet Adoption](concepts/MassInternetAdoption.md) — Complementary access, interface, device, policy, and capacity layers that moved the internet into ordinary use and fragmented shared media attention.
 - [Social Media Prehistory](concepts/SocialMediaPrehistory.md) — The long lineage of networked social mechanics before modern mass-market platforms.
 - [Internet Political Amplification](concepts/InternetPoliticalAmplification.md) — Model separating older political ideas from the reach, intensity, coordination, and conflict produced by digital networks.
 - [Software Eating the World Thesis](concepts/SoftwareEatingTheWorldThesis.md) — Qualified account of software as institutional leverage across digital and physical activity.
@@ -16160,7 +16163,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Learned Food-Preference Conditioning](concepts/LearnedFoodPreferenceConditioning.md) — Food-preference model joining oral taste, post-ingestive nutrient sensing, metabolic usefulness, dopamine reinforcement, and belief.
 - [Architecture as Historical Evidence](concepts/ArchitectureAsHistoricalEvidence.md) — Method for reading buildings, planning, materials, reuse, alteration, and demolition as evidence of historical change.
 - [Architectural Erasure and Regime Memory](concepts/ArchitecturalErasureAndRegimeMemory.md) — Framework for how alteration, appropriation, demolition, and replacement can reorder the authorized public past.
-- [Golden-Age Narrative](concepts/GoldenAgeNarrative.md) — Framework treating golden ages as real but selectively remembered achievements sharpened by later decline, canon formation, unequal costs, and political reuse.
+- [Golden-Age Narrative](concepts/GoldenAgeNarrative.md) — Framework treating golden ages as real but selectively remembered achievements shaped by later decline, canon formation, unequal costs, generation, and geography.
 - [Medieval Science Continuity](concepts/MedievalScienceContinuity.md) — Qualified continuity of preservation, translation, criticism, calculation, and institutional change from antiquity into early modern science.
 - [Medieval Scientific Practice](concepts/MedievalScientificPractice.md) — Joined textual, mathematical, observational, computational, and instrument-making work before modern professional science.
 - [Premodern Science-Religion Entanglement](concepts/PremodernScienceReligionEntanglement.md) — Historically overlapping theology, natural philosophy, astronomy, and knowledge categories that resist a simple conflict binary.
@@ -21566,7 +21569,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Belle Epoque / 美好年代](concepts/BelleEpoque.md) — Remembered prewar European golden age read by the source as real cultural abundance but unevenly classed access.
 - [Elite Cosmopolitan Mobility](concepts/EliteCosmopolitanMobility.md) — Class, language, passport, and network conditions that make world-citizen travel available to some people more than others.
 - [European Integration As War Prevention](concepts/EuropeanIntegrationWarPrevention.md) — Bounded claim that shared institutions and industrial chains can lower internal war risk while commerce alone cannot prevent external coercion.
-- [Post-Cold War Order Rupture](concepts/PostColdWarOrderRupture.md) — Interpretation of the 2022 invasion as a contingent rupture in a post-1990 order that was itself not inevitable.
+- [Post-Cold War Order Rupture](concepts/PostColdWarOrderRupture.md) — Interpretation of 2022 as a contingent rupture in a post-1990 order whose later pressures were already visible during the 1990s.
 - [European Energy Security Dependence](concepts/EuropeanEnergySecurityDependence.md) — Strategic exposure through which imported energy constrains sanctions, households, industry, and alliance action during conflict.
 - [Passport Mobility Inequality](concepts/PassportMobilityInequality.md) — Difference between borderless travel for strong passport holders and permit-heavy travel for others.
 - [European Language Friction](concepts/EuropeanLanguageFriction.md) — European language diversity as both cultural asset and practical barrier to social and political integration.

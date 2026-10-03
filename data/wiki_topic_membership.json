@@ -2466,6 +2466,18 @@
       "url": "/topics/history/"
     }
   ],
+  "23-the-90s-glt8035489270": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "230-portugal-football-fado-and-fascism-part-4-glt9147423732": [
     {
       "key": "history",
@@ -47123,6 +47135,13 @@
       "url": "/topics/history/"
     }
   ],
+  "JohnMajor": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JohnMaynardKeynes": [
     {
       "key": "economics",
@@ -68303,6 +68322,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "RecentHistoryPerspective": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "RecepTayyipErdogan": [

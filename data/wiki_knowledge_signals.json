@@ -77255,9 +77255,9 @@
       "url": "/wiki/entities/francescodelgiocondo/"
     },
     "FrancisFukuyama": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "161. 全球宏观和资本市场2026一季度复盘与展望 [lgZjnsGkur1mcrMkqqxSvXHZB0bm].md",
@@ -77286,9 +77286,16 @@
           "show": "The Rest Is History",
           "title": "153. God and the American Empire",
           "url": "/wiki/sources/153-god-and-the-american-empire-glt8752091834/"
+        },
+        {
+          "episode_file": "GLT8035489270 [GLT8035489270].md",
+          "key": "23-the-90s-glt8035489270",
+          "show": "The Rest Is History",
+          "title": "23. The 90s",
+          "url": "/wiki/sources/23-the-90s-glt8035489270/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/francisfukuyama/"
     },
     "FrancisGrasso": {
@@ -85303,9 +85310,9 @@
       "url": "/wiki/concepts/goldjewelryvalueperceptionrisk/"
     },
     "GoldenAgeNarrative": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9885576415 [GLT9885576415].md",
@@ -85313,9 +85320,16 @@
           "show": "The Rest Is History",
           "title": "111. Golden Ages",
           "url": "/wiki/sources/111-golden-ages-glt9885576415/"
+        },
+        {
+          "episode_file": "GLT8035489270 [GLT8035489270].md",
+          "key": "23-the-90s-glt8035489270",
+          "show": "The Rest Is History",
+          "title": "23. The 90s",
+          "url": "/wiki/sources/23-the-90s-glt8035489270/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/goldenagenarrative/"
     },
     "GoldenDoor": {
@@ -113908,6 +113922,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/johnlilburne/"
     },
+    "JohnMajor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8035489270 [GLT8035489270].md",
+          "key": "23-the-90s-glt8035489270",
+          "show": "The Rest Is History",
+          "title": "23. The 90s",
+          "url": "/wiki/sources/23-the-90s-glt8035489270/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/johnmajor/"
+    },
     "JohnMasonNeale": {
       "episode_count": 1,
       "show_count": 1,
@@ -136980,9 +137010,9 @@
       "url": "/wiki/concepts/massextinctionplanetarywarning/"
     },
     "MassInternetAdoption": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5734449332 [GLT5734449332].md",
@@ -136990,9 +137020,16 @@
           "show": "The Rest Is History",
           "title": "93. Silicon Valley Part 1",
           "url": "/wiki/sources/93-silicon-valley-part-1-glt5734449332/"
+        },
+        {
+          "episode_file": "GLT8035489270 [GLT8035489270].md",
+          "key": "23-the-90s-glt8035489270",
+          "show": "The Rest Is History",
+          "title": "23. The 90s",
+          "url": "/wiki/sources/23-the-90s-glt8035489270/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/massinternetadoption/"
     },
     "MassPoliticalCampaigning": {
@@ -164559,9 +164596,9 @@
       "url": "/wiki/concepts/postcnutenglishsuccessioncrisis/"
     },
     "PostColdWarOrderRupture": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4625765030 [GLT4625765030].md",
@@ -164583,9 +164620,16 @@
           "show": "The Rest Is History",
           "title": "161. Yeltsin, Economic Chaos and President Putin",
           "url": "/wiki/sources/161-yeltsin-economic-chaos-and-president-putin-glt3048619920/"
+        },
+        {
+          "episode_file": "GLT8035489270 [GLT8035489270].md",
+          "key": "23-the-90s-glt8035489270",
+          "show": "The Rest Is History",
+          "title": "23. The 90s",
+          "url": "/wiki/sources/23-the-90s-glt8035489270/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/postcoldwarorderrupture/"
     },
     "PostDefeatForceReconstitution": {
@@ -172848,6 +172892,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/rebellionjustifiedpowerexpansion/"
+    },
+    "RecentHistoryPerspective": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8035489270 [GLT8035489270].md",
+          "key": "23-the-90s-glt8035489270",
+          "show": "The Rest Is History",
+          "title": "23. The 90s",
+          "url": "/wiki/sources/23-the-90s-glt8035489270/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/recenthistoryperspective/"
     },
     "ReceptiveRemonstranceGovernance": {
       "episode_count": 8,
@@ -207099,9 +207159,9 @@
       "url": "/wiki/entities/tonybenn/"
     },
     "TonyBlair": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6124252189 [GLT6124252189].md",
@@ -207109,6 +207169,13 @@
           "show": "The Rest Is History",
           "title": "35. The Prime Ministers’ World Cup",
           "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
+        },
+        {
+          "episode_file": "GLT8035489270 [GLT8035489270].md",
+          "key": "23-the-90s-glt8035489270",
+          "show": "The Rest Is History",
+          "title": "23. The 90s",
+          "url": "/wiki/sources/23-the-90s-glt8035489270/"
         }
       ],
       "updated": "2026-10-04",
