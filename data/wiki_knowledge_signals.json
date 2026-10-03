@@ -69424,9 +69424,9 @@
       "url": "/wiki/concepts/facialhairassocialcode/"
     },
     "FacilitatedImmersivePlay": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CKwRIW4FQUvTABAAAADtZWUV [CKwRIW4FQUvTABAAAADtZWUV].md",
@@ -69434,9 +69434,16 @@
           "show": "无时差研究所",
           "title": "EP194-在剧本杀里沉浸爆哭是一种怎样的体验？",
           "url": "/wiki/sources/ep194-zai-jubensha-li-chenjin-baoku-shi-yizhong-zenyang-de-tiyan-ckwriw4fquvtabaaaadtzwuv/"
+        },
+        {
+          "episode_file": "CKwRIUEENnadABAAAACXz2y3 [CKwRIUEENnadABAAAACXz2y3].md",
+          "key": "ep165-mishi-taotuo-baofa-qi-banyan-bieren-jiujing-zai-xunzhao-yizhong-zenyang-de-ciji-ckwriueennadabaaaacxz2y3",
+          "show": "无时差研究所",
+          "title": "EP165-密室逃脱爆发期：扮演别人，究竟在寻找一种怎样的刺激？",
+          "url": "/wiki/sources/ep165-mishi-taotuo-baofa-qi-banyan-bieren-jiujing-zai-xunzhao-yizhong-zenyang-de-ciji-ckwriueennadabaaaacxz2y3/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/facilitatedimmersiveplay/"
     },
     "FactoryBasedDeterrence": {
@@ -102106,6 +102113,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/imitativeselfformation/"
+    },
+    "ImmersiveEscapeRoomDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIUEENnadABAAAACXz2y3 [CKwRIUEENnadABAAAACXz2y3].md",
+          "key": "ep165-mishi-taotuo-baofa-qi-banyan-bieren-jiujing-zai-xunzhao-yizhong-zenyang-de-ciji-ckwriueennadabaaaacxz2y3",
+          "show": "无时差研究所",
+          "title": "EP165-密室逃脱爆发期：扮演别人，究竟在寻找一种怎样的刺激？",
+          "url": "/wiki/sources/ep165-mishi-taotuo-baofa-qi-banyan-bieren-jiujing-zai-xunzhao-yizhong-zenyang-de-ciji-ckwriueennadabaaaacxz2y3/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/immersiveescaperoomdesign/"
     },
     "ImmigrantLocalOfficeRepresentation": {
       "episode_count": 1,
@@ -220841,9 +220864,9 @@
       "url": "/wiki/entities/wurenzhixiao/"
     },
     "WushichaYanjiusuo": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -220977,6 +221000,13 @@
           "show": "无时差研究所",
           "title": "EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？",
           "url": "/wiki/sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y/"
+        },
+        {
+          "episode_file": "CKwRIUEENnadABAAAACXz2y3 [CKwRIUEENnadABAAAACXz2y3].md",
+          "key": "ep165-mishi-taotuo-baofa-qi-banyan-bieren-jiujing-zai-xunzhao-yizhong-zenyang-de-ciji-ckwriueennadabaaaacxz2y3",
+          "show": "无时差研究所",
+          "title": "EP165-密室逃脱爆发期：扮演别人，究竟在寻找一种怎样的刺激？",
+          "url": "/wiki/sources/ep165-mishi-taotuo-baofa-qi-banyan-bieren-jiujing-zai-xunzhao-yizhong-zenyang-de-ciji-ckwriueennadabaaaacxz2y3/"
         }
       ],
       "updated": "2026-10-03",

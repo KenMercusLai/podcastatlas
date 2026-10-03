@@ -28756,3 +28756,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | EP165-密室逃脱爆发期：扮演别人，究竟在寻找一种怎样的刺激？
+
+Added source `ep165-mishi-taotuo-baofa-qi-banyan-bieren-jiujing-zai-xunzhao-yizhong-zenyang-de-ciji-ckwriueennadabaaaacxz2y3`; created `ImmersiveEscapeRoomDesign`; and resynthesized `FacilitatedImmersivePlay` and `WushichaYanjiusuo` from their complete preserved evidence inventories. Core synthesis: escape rooms evolved from searches and locks through mechanisms toward responsive narrative environments where space, production craft, player roles, live NPC improvisation, and group participation jointly create immersion; hidden endings and novelty features earn repeat attention only when they add integrated story or decision value. No settled contradiction was adopted. Industry phase dates, prices, investment, payback, theme life, award significance, venue examples, and China-U.S. comparisons remain one experienced Beijing player's March 2021 account. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,594-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

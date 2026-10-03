@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9531
+wiki_total_pages: 9532
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "ImmediateReliefWellnessConsumption"
     title: "Immediate-Relief Wellness Consumption / 即时缓解型疗愈消费"
     url: "/wiki/concepts/immediatereliefwellnessconsumption/"
+  - key: "ImmersiveEscapeRoomDesign"
+    title: "Immersive Escape-Room Design / 沉浸式密室设计"
+    url: "/wiki/concepts/immersiveescaperoomdesign/"
   - key: "ImmigrantLocalOfficeRepresentation"
     title: "Immigrant Local-Office Representation"
     url: "/wiki/concepts/immigrantlocalofficerepresentation/"
