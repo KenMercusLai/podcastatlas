@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12178
+wiki_total_pages: 12180
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "CamilleDesmoulins"
     title: "Camille Desmoulins"
     url: "/wiki/entities/camilledesmoulins/"
+  - key: "CamillePaglia"
+    title: "Camille Paglia / 卡米尔·帕利亚"
+    url: "/wiki/entities/camillepaglia/"
   - key: "CamiloDurana"
     title: "Camilo Durana"
     url: "/wiki/entities/camilodurana/"

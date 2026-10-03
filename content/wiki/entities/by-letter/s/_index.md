@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12178
+wiki_total_pages: 12180
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1931,6 +1931,9 @@ wiki_pages:
   - key: "ShanHeGuRen"
     title: "《山河故人》 / Mountains May Depart"
     url: "/wiki/entities/shanheguren/"
+  - key: "SexualPersonae"
+    title: "《性面具》 / Sexual Personae"
+    url: "/wiki/entities/sexualpersonae/"
   - key: "SiddharthaHesse"
     title: "《悉达多》 / Siddhartha"
     url: "/wiki/entities/siddharthahesse/"

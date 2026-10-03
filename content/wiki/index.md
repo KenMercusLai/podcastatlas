@@ -3623,6 +3623,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Build Endurance in Your Brain & Body](sources/scim8024795061-scim8024795061.md) — Early Huberman Lab solo episode on four endurance modes, brain-body persistence, breathing, hydration, recovery, visual pacing, and source-scoped protocols.
 - [56. Nero](sources/56-nero-glt7241559003.md) — The Rest Is History on Nero's dynastic rise, performance politics, violence, the Great Fire, Christian punishment, collapse, and hostile afterlife.
 - [How to Learn Skills Faster](sources/scim8083153125-scim8083153125.md) — Early Huberman Lab solo episode on safe repetition density, informative errors, stage-matched practice, post-training consolidation, sleep, and mental-rehearsal limits.
+- [367-社会改革能带来性别和谐吗？](sources/367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl.md) — 独树不成林 episode using Camille Paglia and 《性面具》 to separate equal rights from total social-construction explanations and examine nature, embodiment, maternity, and the limits of reform.
 
 ## Entities
 - [Paul Lay](entities/PaulLay.md) — Historian interpreting Cromwell through constitutional change, religious conviction, Irish atrocity, evidentiary caution, and later myth.
@@ -15847,6 +15848,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Seneca](entities/Seneca.md) — Stoic philosopher and early Neronian adviser whose estrangement ended in forced suicide.
 - [Suetonius](entities/Suetonius.md) — Roman biographer whose vivid account of Nero is indispensable but shaped by genre, hostility, and moral design.
 - [Great Fire of Rome](entities/GreatFireOfRome.md) — Nine-day urban disaster linking Neronian relief and rebuilding to arson accusation, Christian punishment, and historical memory.
+- [Camille Paglia / 卡米尔·帕利亚](entities/CamillePaglia.md) — Cultural critic presented through her challenge to total social-construction accounts of gender, sexuality, civilization, and maternity.
+- [《性面具》 / Sexual Personae](entities/SexualPersonae.md) — Paglia work interpreted through nature, sexuality, civilizational order, and maternal embodiment, with its binary psychoanalytic claims kept source-scoped.
 
 ## Concepts
 - [Levellers](concepts/Levellers.md) — Radical republican current joining democratic demands and freeborn rights to anti-conquest argument before suppression at Burford.
@@ -25373,5 +25376,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Paris as Symbolic Capital](concepts/ParisAsSymbolicCapital.md) — Framework joining Paris's institutional density, revolutionary theater, national centrality, built image, and global mythology.
 - [Haussmannian Urban Modernization](concepts/HaussmannianUrbanModernization.md) — Model of coordinated urban infrastructure and public-health improvement inseparable from demolition, displacement, and inherited loss.
 - [Imperial Performance Politics](concepts/ImperialPerformancePolitics.md) — Mode of personal rule joining artistic persona, myth, spectacle, architecture, punishment, and audience appeal.
+- [Gender Conflict Construction-Embodiment Boundary / 性别冲突的建构—身体边界](concepts/GenderConflictConstructionEmbodimentBoundary.md) — Distinguishes equal-rights commitments from total construction claims while avoiding biological fatalism.
+- [Nature as Non-Moral Constraint / 自然作为非道德约束](concepts/NatureAsNonMoralConstraint.md) — View of bodily and natural forces as indifferent to justice, with civilization capable of protection and oppression.
+- [Maternal Embodiment Ambivalence / 母体具身矛盾性](concepts/MaternalEmbodimentAmbivalence.md) — Pregnancy and maternity understood as simultaneous generativity, involuntariness, power, dependence, risk, and porous bodily boundary.
 
 ## Syntheses

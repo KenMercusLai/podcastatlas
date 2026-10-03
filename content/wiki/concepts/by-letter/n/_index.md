@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9468
+wiki_total_pages: 9471
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "NaturalizedPlayerPolicyInChineseFootball"
     title: "Naturalized Player Policy In Chinese Football"
     url: "/wiki/concepts/naturalizedplayerpolicyinchinesefootball/"
+  - key: "NatureAsNonMoralConstraint"
+    title: "Nature as Non-Moral Constraint / 自然作为非道德约束"
+    url: "/wiki/concepts/natureasnonmoralconstraint/"
   - key: "NatureContactSelfPerception"
     title: "Nature Contact And Self-Perception"
     url: "/wiki/concepts/naturecontactselfperception/"

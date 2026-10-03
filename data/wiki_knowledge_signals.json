@@ -28812,6 +28812,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/camilledesmoulins/"
     },
+    "CamillePaglia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmXou4DGsNVKdwplHqGubtkMV7PL [lmXou4DGsNVKdwplHqGubtkMV7PL].md",
+          "key": "367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl",
+          "show": "独树不成林",
+          "title": "367-社会改革能带来性别和谐吗？",
+          "url": "/wiki/sources/367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/camillepaglia/"
+    },
     "CampaignCoordinationWithoutCommunication": {
       "episode_count": 1,
       "show_count": 1,
@@ -57392,9 +57408,9 @@
       "url": "/wiki/entities/durringtonwalls/"
     },
     "DushuBuchenglin": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -57416,9 +57432,16 @@
           "show": "独树不成林",
           "title": "347-到底为啥有些傻蛋只会以说教的方式沟通",
           "url": "/wiki/sources/347-daodi-weisha-youxie-shadan-zhihui-yi-shuojiao-de-fangshi-goutong-lhhiozceulxpeyczobgjaolyymmt/"
+        },
+        {
+          "episode_file": "lmXou4DGsNVKdwplHqGubtkMV7PL [lmXou4DGsNVKdwplHqGubtkMV7PL].md",
+          "key": "367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl",
+          "show": "独树不成林",
+          "title": "367-社会改革能带来性别和谐吗？",
+          "url": "/wiki/sources/367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/dushubuchenglin/"
     },
     "DutchDomesticCleanlinessCivicOrder": {
@@ -80645,6 +80668,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/genbioai/"
+    },
+    "GenderConflictConstructionEmbodimentBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmXou4DGsNVKdwplHqGubtkMV7PL [lmXou4DGsNVKdwplHqGubtkMV7PL].md",
+          "key": "367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl",
+          "show": "独树不成林",
+          "title": "367-社会改革能带来性别和谐吗？",
+          "url": "/wiki/sources/367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/genderconflictconstructionembodimentboundary/"
     },
     "GenderedAIMarketing": {
       "episode_count": 1,
@@ -134887,6 +134926,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/matevalueandmutualchoice/"
     },
+    "MaternalEmbodimentAmbivalence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmXou4DGsNVKdwplHqGubtkMV7PL [lmXou4DGsNVKdwplHqGubtkMV7PL].md",
+          "key": "367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl",
+          "show": "独树不成林",
+          "title": "367-社会改革能带来性别和谐吗？",
+          "url": "/wiki/sources/367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/maternalembodimentambivalence/"
+    },
     "MaternalImmuneActivation": {
       "episode_count": 1,
       "show_count": 1,
@@ -144894,6 +144949,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/naturalizedplayerpolicyinchinesefootball/"
+    },
+    "NatureAsNonMoralConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmXou4DGsNVKdwplHqGubtkMV7PL [lmXou4DGsNVKdwplHqGubtkMV7PL].md",
+          "key": "367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl",
+          "show": "独树不成林",
+          "title": "367-社会改革能带来性别和谐吗？",
+          "url": "/wiki/sources/367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/natureasnonmoralconstraint/"
     },
     "NatureExposureHealthEvidence": {
       "episode_count": 1,
@@ -182257,6 +182328,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/sexualharassmentnaminglag/"
+    },
+    "SexualPersonae": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmXou4DGsNVKdwplHqGubtkMV7PL [lmXou4DGsNVKdwplHqGubtkMV7PL].md",
+          "key": "367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl",
+          "show": "独树不成林",
+          "title": "367-社会改革能带来性别和谐吗？",
+          "url": "/wiki/sources/367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/sexualpersonae/"
     },
     "SexualitySecrecyPoliticalVulnerability": {
       "episode_count": 1,

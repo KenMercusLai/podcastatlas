@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9468
+wiki_total_pages: 9471
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "GenderBarrierSpaceflight"
     title: "Gender Barrier Spaceflight"
     url: "/wiki/concepts/genderbarrierspaceflight/"
+  - key: "GenderConflictConstructionEmbodimentBoundary"
+    title: "Gender Conflict Construction-Embodiment Boundary / 性别冲突的建构—身体边界"
+    url: "/wiki/concepts/genderconflictconstructionembodimentboundary/"
   - key: "GenderPerformanceAndTrauma"
     title: "Gender Performance And Trauma"
     url: "/wiki/concepts/genderperformanceandtrauma/"

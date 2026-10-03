@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9468
+wiki_total_pages: 9471
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "MaterialsPipelineCompany"
     title: "Materials Pipeline Company"
     url: "/wiki/concepts/materialspipelinecompany/"
+  - key: "MaternalEmbodimentAmbivalence"
+    title: "Maternal Embodiment Ambivalence / 母体具身矛盾性"
+    url: "/wiki/concepts/maternalembodimentambivalence/"
   - key: "MaternalImmuneActivation"
     title: "Maternal Immune Activation"
     url: "/wiki/concepts/maternalimmuneactivation/"

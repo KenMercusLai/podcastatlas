@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3074
+topic_total_pages: 3075
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6497,6 +6497,9 @@ topic_entities:
   - key: "NianNuJiaoChibiHuaiGu"
     title: "《念奴娇·赤壁怀古》 / Nian Nu Jiao: Reminiscence at Red Cliff"
     url: "/wiki/entities/niannujiaochibihuaigu/"
+  - key: "SexualPersonae"
+    title: "《性面具》 / Sexual Personae"
+    url: "/wiki/entities/sexualpersonae/"
   - key: "BizarreStories"
     title: "《怪诞故事集》 / Bizarre Stories"
     url: "/wiki/entities/bizarrestories/"
