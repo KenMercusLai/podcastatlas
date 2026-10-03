@@ -939,14 +939,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-30",
       "latest_episode_file": "GLT5038102951 [GLT5038102951].md",
-      "source_note_count": 569,
-      "topic_matched_source_note_count": 533,
+      "source_note_count": 570,
+      "topic_matched_source_note_count": 534,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 524
+          "source_note_count": 525
         },
         {
           "key": "culture",
@@ -983,18 +983,18 @@
           "episode_count": 12
         },
         {
+          "key": "ElizabethI",
+          "title": "Elizabeth I",
+          "url": "/wiki/entities/elizabethi/",
+          "kind": "person",
+          "episode_count": 10
+        },
+        {
           "key": "MaximilienRobespierre",
           "title": "Maximilien Robespierre / 罗伯斯庇尔",
           "url": "/wiki/entities/maximilienrobespierre/",
           "kind": "person",
           "episode_count": 10
-        },
-        {
-          "key": "ElizabethI",
-          "title": "Elizabeth I",
-          "url": "/wiki/entities/elizabethi/",
-          "kind": "person",
-          "episode_count": 9
         },
         {
           "key": "KaiserWilhelmII",

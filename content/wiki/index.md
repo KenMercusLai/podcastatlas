@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [39. Elizabeth I](sources/39-elizabeth-i-glt7302124935.md) — The Rest Is History with Tracy Borman on Elizabeth's religious pragmatism, Virgin Queen image, marriage strategy, surveillance state, Armada, and succession.
 - [EP166-Spotify缘何成为地表最强音乐流媒体平台？](sources/ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd.md) — 无时差研究所 conversation on playlist discovery, distributed recommendation, licensing, cross-language bias, audio-platform expansion, royalty gaming, and Spotify workplace culture.
 - [40. History as Entertainment](sources/40-history-as-entertainment-glt9519276470.md) — The Rest Is History on reenactment, theme parks, board games, video games, historical simulation, ideological framing, and the ethics of making violence entertaining.
 - [EP287 一起逛早市：寻找北方最鲜活的早晨](sources/ep287-yiqi-guang-zaoshi-xunzhao-beifang-zui-xianhuo-de-zaochen-lpuox4b-b02k-awt-hsjuph-froi.md) — Talk三联 field report on northern morning markets, breakfast locality, timed urban space, social life, governance, and tourism-driven change.
@@ -3652,6 +3653,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [41. Persia](sources/41-persia-glt6414068538.md) — The Rest Is History conversation with Ali Ansari on Iran/Persia continuity, pre-Islamic empires, Zoroastrian influence, paradise gardens, and Persianate administration.
 
 ## Entities
+- [Thomas Seymour](entities/ThomasSeymour.md) — Tudor courtier whose inappropriate conduct toward the teenage Elizabeth created lasting reputational danger.
 - [沈阳 / Shenyang (city)](entities/ShenyangCity.md) — Liaoning capital viewed through Xita memory and the social, spatial, and governance systems of morning markets.
 - [太原 / Taiyuan (modern city)](entities/TaiyuanModern.md) — Shanxi capital represented through reusable market space, regular-customer trade, seasonal produce, and local breakfast.
 - [吴忠 / Wuzhong (Ningxia city)](entities/WuzhongCity.md) — Ningxia city whose morning food culture joins beef-noodle-derived early tea, Hui foods, business sociality, and lamb-offal breakfast.
@@ -15911,6 +15913,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Elizabethan Religious Pragmatism](concepts/ElizabethanReligiousPragmatism.md) — Protestant settlement strategy combining selective Catholic continuity with political stabilization and coercive limits.
+- [Virgin Queen Image Statecraft](concepts/VirginQueenImageStatecraft.md) — Conversion of Elizabeth's unmarried female rule into authority through portraiture, performance, sacred analogy, and reputation management.
 - [Playlist As Discovery Interface](concepts/PlaylistAsDiscoveryInterface.md) — Playlist layer translating mood, activity, and setting into low-friction music discovery.
 - [Cross-Language Recommendation Bias](concepts/CrossLanguageRecommendationBias.md) — Failure mode where language or region priors override a user's genre or style intent.
 - [Audio Platform Expansion](concepts/AudioPlatformExpansion.md) — Strategy of extending a music service across podcasts, radio, audiobooks, and related audio formats.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9524
+wiki_total_pages: 9526
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "ElizabethanRecusancySecurityState"
     title: "Elizabethan Recusancy Security State"
     url: "/wiki/concepts/elizabethanrecusancysecuritystate/"
+  - key: "ElizabethanReligiousPragmatism"
+    title: "Elizabethan Religious Pragmatism"
+    url: "/wiki/concepts/elizabethanreligiouspragmatism/"
   - key: "ElonComputePlatform"
     title: "Elon Compute Platform"
     url: "/wiki/concepts/eloncomputeplatform/"

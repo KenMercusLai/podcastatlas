@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 9524
+wiki_total_pages: 9526
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "ViralToySupplyChain"
     title: "Viral Toy Supply Chain"
     url: "/wiki/concepts/viraltoysupplychain/"
+  - key: "VirginQueenImageStatecraft"
+    title: "Virgin Queen Image Statecraft"
+    url: "/wiki/concepts/virginqueenimagestatecraft/"
   - key: "VirtualAssetAMLRisk"
     title: "Virtual Asset AML Risk"
     url: "/wiki/concepts/virtualassetamlrisk/"

@@ -7,53 +7,58 @@ sources:
   - 694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087
   - 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496
   - 691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561
+  - 39-elizabeth-i-glt7302124935
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-27
+last_updated: 2026-10-03
 ---
 
 # Mary, Queen of Scots
 
 ## Overview
 
-Mary, Queen of Scots is the Catholic dynastic claimant around whom the Elizabethan sources organize succession danger, conspiracy evidence, and royal-execution legitimacy. Her importance begins before the later Throckmorton and Babington plots: her escape into England in 1568 turns Scottish defeat and French-Guise kinship into an English security problem.
+Mary, Queen of Scots is the Catholic dynastic claimant around whom the Elizabethan sources organize succession danger, conspiracy evidence, royal-execution legitimacy, and political theatre. Her 1568 arrival in England turned Scottish defeat and French-Guise kinship into a persistent English security problem.
 
 ## Current Profile
 
-Mary is dangerous in the sources because she combines several roles that would be less threatening separately. She has Tudor blood, Catholic identity, a past as Queen of France, connections to the Guise family, and enough recognition among English and Scottish Catholics to make her a plausible successor if [[ElizabethI|Elizabeth I]] dies. Once captive in England, that claim makes marriage schemes, papal support, northern revolt, invasion planning, cipher correspondence, trial, and execution part of one continuing problem.
+Mary was dangerous because she combined Tudor blood, Catholic identity, prior French queenship, Guise connections, and recognition among English and Scottish Catholics. Captivity did not neutralize those assets: marriage schemes, papal support, northern revolt, invasion planning, cipher correspondence, trial, and execution all made her body and claim politically usable.
 
-Her agency remains contested. The sources show her as a political actor in correspondence and claimant networks, but they also preserve uncertainty about the early Ridolfi evidence and about how much Cecil's intelligence exposure manufactured the public case. By the final Babington episode, the controlled correspondence channel gives ministers much stronger evidence than the earlier plots had supplied.
+Her agency remains source-dependent. Early Ridolfi evidence is murky and may reflect intelligence manufacture as well as danger; the later Babington controlled channel supplied a much stronger evidentiary path. Even then, killing an anointed queen threatened the legitimacy norms protecting monarchy itself.
+
+The newest source emphasizes [[ElizabethI|Elizabeth I]]'s responsibility after signing the warrant. Elizabeth is presented as knowing the execution would proceed, then distancing herself and sacrificing William Davison to limit reaction from Catholic Europe and Mary's son [[JamesVIAndI|James VI]]. This sharpens rather than removes the earlier account of genuine hesitation and legal-political pressure.
 
 ## Key Characteristics
 
-- Mary is a Catholic dynastic alternative to Elizabeth, not merely a foreign prisoner.
-- Her 1568 arrival in England converts Scottish and French politics into English domestic security.
-- Her claim lets Catholic schemes join aristocratic marriage, northern rebellion, papal authority, and invasion planning.
-- Her status as an anointed queen repeatedly blocks easy execution even when ministers see her as dangerous.
-- Her final trial and execution convert political defeat into Catholic martyr symbolism.
+- Catholic dynastic alternative to Elizabeth rather than merely a foreign prisoner.
+- Claimant whose 1568 arrival converted Scottish and French politics into English domestic security.
+- Focal point joining aristocratic marriage, rebellion, papal authority, foreign invasion, and intelligence work.
+- Anointed queen whose status repeatedly obstructed easy execution.
+- Political actor whose responsibility is clearer in Babington evidence than in every earlier plot.
+- Executed rival whose scaffold performance and Elizabeth's distancing made death a contest over legitimacy and memory.
 
 ## Evidence
 
-- Claimant status: [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]], [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]], and [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] all treat Mary's Catholic claim as the hinge between Elizabeth's personal survival and Protestant England's future.
-- English captivity: [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]] follows Mary's 1567 abdication, 1568 escape, failed restoration effort, and crossing into England seeking Elizabeth's help.
-- Plot focal point: [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]] links Mary to Norfolk, Ridolfi, the Northern Rising, and papal support; [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] links her to Throckmorton and French-embassy channels; [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] links her to Babington.
-- Sovereign constraint: [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]], [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]], and [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] show her anointed status and torture-tainted evidence delaying prosecution or execution.
-- Martyr symbolism: [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] grounds the final scaffold performance through prayer, costume, and composure.
+- Claimant and captivity: [[691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561]] follows Mary's Scottish defeat, arrival, Norfolk marriage scheme, Northern Rising, and Ridolfi exposure.
+- Confessional threat: [[692-elizabeth-i-vs-the-catholics-a-massacre-in-paris-part-2-glt4665799025]] joins Mary's claim to papal excommunication and Protestant atrocity memory.
+- Plot focal point: [[694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087]] links her to Throckmorton and foreign diplomatic channels; [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] supplies the Babington controlled-channel evidence.
+- Execution legitimacy and symbolism: [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]] grounds the trial, warrant, legal problem, and scaffold performance.
+- Elizabeth's distancing: [[39-elizabeth-i-glt7302124935]] presents Elizabeth as understanding the warrant would be carried out and Davison as the later scapegoat.
 
 ## Qualifications
 
-Mary's threat is stronger than a symbolic claim but weaker than a simple record of proved participation in every alleged plot. The Ridolfi material remains especially murky because the episode raises the possibility that Cecil or his agents partly manufactured the exposure. Her eventual execution rests on a later evidentiary path through Babington and Walsingham's controlled channel.
+Mary's threat was more than symbolic, but association does not prove equal involvement in every plot. Ridolfi remains especially uncertain, and even the stronger Babington record passed through Walsingham's controlled intelligence channel. The newest source's confident reading of Elizabeth's knowledge is an interpretation of warrant politics; it should not erase her concern about precedent, Catholic reaction, James, or the institutional pressure created by ministers and Parliament.
 
 ## What Changed
 
-- Adds Mary's 1567-1568 movement from Scottish deposition into English captivity as the start of the English security problem.
-- Adds Norfolk, Ridolfi, the Northern Rising, and papal excommunication as pre-Throckmorton threat layers.
-- Narrows the synthesis by distinguishing early suspicion from the later Babington evidence path.
+- Added Elizabeth's post-warrant distancing and Davison's scapegoating to the execution synthesis.
+- Clarified that this political-theatre reading sharpens rather than cancels the legitimacy and diplomatic constraints.
+- Added James VI's reaction as part of the reason Elizabeth sought distance from the execution.
 
 ## Relationships
 
-- [[ElizabethI|Elizabeth I]] - cousin, reigning queen, and target whose death would make Mary's claim actionable.
-- [[WilliamCecil|William Cecil / Lord Burleigh]] - minister who repeatedly argues that Mary must be removed.
-- [[FrancisWalsingham]] - intelligence operator whose later network turns Mary's correspondence into evidence.
-- [[ThomasHowardDukeOfNorfolk|Thomas Howard / Duke of Norfolk]] - proposed husband whose marriage scheme would amplify Mary's English power.
-- [[RidolfiPlot]] - early conspiracy field connecting Mary to papal money, Norfolk, and foreign intervention.
-- [[TudorSuccessionCrisis]] - concept explaining why Mary's body and claim become strategic.
+- [[ElizabethI|Elizabeth I]] - cousin, reigning queen, and political authorizer who later distanced herself from the execution.
+- [[JamesVIAndI|James VI and I]] - son whose Scottish power and succession prospects shaped English management of Mary's death.
+- [[WilliamCecil|William Cecil / Lord Burleigh]] - minister who repeatedly argued that Mary had to be removed.
+- [[FrancisWalsingham]] - intelligence operator whose controlled correspondence channel made prosecution possible.
+- [[ThomasHowardDukeOfNorfolk|Thomas Howard / Duke of Norfolk]] - proposed husband whose English power could amplify Mary's claim.
+- [[TudorSuccessionCrisis]] - framework explaining why Mary's body, correspondence, and death remained strategic.
+- [[RoyalExecutionLegitimacy]] - norm conflict created by legally killing an anointed sovereign.

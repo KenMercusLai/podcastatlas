@@ -60874,9 +60874,9 @@
       "url": "/wiki/entities/elizabetheverest/"
     },
     "ElizabethI": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -60940,9 +60940,16 @@
           "show": "The Rest Is History",
           "title": "123. World Cup of Kings and Queens part 1",
           "url": "/wiki/sources/123-world-cup-of-kings-and-queens-part-1-glt3062961015/"
+        },
+        {
+          "episode_file": "GLT7302124935 [GLT7302124935].md",
+          "key": "39-elizabeth-i-glt7302124935",
+          "show": "The Rest Is History",
+          "title": "39. Elizabeth I",
+          "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/elizabethi/"
     },
     "ElizabethII": {
@@ -61055,6 +61062,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/elizabethanrecusancysecuritystate/"
+    },
+    "ElizabethanReligiousPragmatism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7302124935 [GLT7302124935].md",
+          "key": "39-elizabeth-i-glt7302124935",
+          "show": "The Rest Is History",
+          "title": "39. Elizabeth I",
+          "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/elizabethanreligiouspragmatism/"
     },
     "EllisPark": {
       "episode_count": 1,
@@ -135691,9 +135714,9 @@
       "url": "/wiki/entities/maryquant/"
     },
     "MaryQueenOfScots": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -135722,9 +135745,16 @@
           "show": "The Rest Is History",
           "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
           "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        },
+        {
+          "episode_file": "GLT7302124935 [GLT7302124935].md",
+          "key": "39-elizabeth-i-glt7302124935",
+          "show": "The Rest Is History",
+          "title": "39. Elizabeth I",
+          "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/maryqueenofscots/"
     },
     "MaryVetsera": {
@@ -176653,6 +176683,36 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/robertcolls/"
     },
+    "RobertDudley": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "GLT7302124935 [GLT7302124935].md",
+          "key": "39-elizabeth-i-glt7302124935",
+          "show": "The Rest Is History",
+          "title": "39. Elizabeth I",
+          "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/robertdudley/"
+    },
     "RobertELee": {
       "episode_count": 3,
       "show_count": 1,
@@ -191459,6 +191519,50 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/spain/"
     },
+    "SpanishArmada": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "GLT1627515087 [GLT1627515087].md",
+          "key": "694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087",
+          "show": "The Rest Is History",
+          "title": "694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+          "url": "/wiki/sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087/"
+        },
+        {
+          "episode_file": "GLT5637968455 [GLT5637968455].md",
+          "key": "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+          "show": "The Rest Is History",
+          "title": "695. Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+          "url": "/wiki/sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455/"
+        },
+        {
+          "episode_file": "GLT2334035496 [GLT2334035496].md",
+          "key": "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+          "show": "The Rest Is History",
+          "title": "696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+          "url": "/wiki/sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496/"
+        },
+        {
+          "episode_file": "14.武士威廉：大航海时代的日本和西方 [555771285].md",
+          "key": "14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285",
+          "show": "蜜獾吃书",
+          "title": "14.武士威廉：大航海时代的日本和西方",
+          "url": "/wiki/sources/14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285/"
+        },
+        {
+          "episode_file": "GLT7302124935 [GLT7302124935].md",
+          "key": "39-elizabeth-i-glt7302124935",
+          "show": "The Rest Is History",
+          "title": "39. Elizabeth I",
+          "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/spanisharmada/"
+    },
     "SpanishCaribbeanExpansion": {
       "episode_count": 2,
       "show_count": 1,
@@ -203267,6 +203371,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/thomaspaine/"
     },
+    "ThomasSeymour": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7302124935 [GLT7302124935].md",
+          "key": "39-elizabeth-i-glt7302124935",
+          "show": "The Rest Is History",
+          "title": "39. Elizabeth I",
+          "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/thomasseymour/"
+    },
     "ThomasVenner": {
       "episode_count": 1,
       "show_count": 1,
@@ -206975,9 +207095,9 @@
       "url": "/wiki/concepts/tudorroyalmarriagestatecraft/"
     },
     "TudorSuccessionCrisis": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -207006,9 +207126,16 @@
           "show": "The Rest Is History",
           "title": "691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)",
           "url": "/wiki/sources/691-elizabeth-i-vs-the-catholics-the-queens-spymaster-part-1-glt8312620561/"
+        },
+        {
+          "episode_file": "GLT7302124935 [GLT7302124935].md",
+          "key": "39-elizabeth-i-glt7302124935",
+          "show": "The Rest Is History",
+          "title": "39. Elizabeth I",
+          "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/tudorsuccessioncrisis/"
     },
     "TuileriesInsurrection": {
@@ -211542,6 +211669,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/virgil/"
+    },
+    "VirginQueenImageStatecraft": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7302124935 [GLT7302124935].md",
+          "key": "39-elizabeth-i-glt7302124935",
+          "show": "The Rest Is History",
+          "title": "39. Elizabeth I",
+          "url": "/wiki/sources/39-elizabeth-i-glt7302124935/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/virginqueenimagestatecraft/"
     },
     "VirtualCellWorldModel": {
       "episode_count": 2,

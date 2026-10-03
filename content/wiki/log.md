@@ -28732,3 +28732,11 @@ Added source `ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingt
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 39. Elizabeth I
+
+Added source `39-elizabeth-i-glt7302124935`; created a bounded profile for Thomas Seymour and concepts for Elizabethan religious pragmatism and Virgin Queen image statecraft; and resynthesized Elizabeth I, Robert Dudley, Mary Queen of Scots, the Spanish Armada, and the Tudor succession crisis from their complete preserved evidence inventories. Core synthesis: Elizabeth converted unmarried female rule and selective religious continuity into political authority through controlled ambiguity, image management, and ministerial capacity, while persecution, surveillance, succession danger, warrant theatre, and operational contingency qualify the golden-age image. No settled contradiction was adopted. Elizabeth's virginity, private religious practice, Thomas Seymour's long-term psychological effect, the Tilbury text, the warrant reaction, Henry VIII's exclusion of the Scottish line, and deathbed signaling toward James remain source-scoped or qualified. Recurring host, show, and family profiles were not changed where the episode added context but no durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,591-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

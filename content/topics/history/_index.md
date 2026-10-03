@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2490
+topic_total_pages: 2491
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5766,6 +5766,9 @@ topic_sources:
   - key: "383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929"
     title: "383. Young Napoleon: The Shadow of the Guillotine (Part 2)"
     url: "/wiki/sources/383-young-napoleon-the-shadow-of-the-guillotine-part-2-glt2658259929/"
+  - key: "39-elizabeth-i-glt7302124935"
+    title: "39. Elizabeth I"
+    url: "/wiki/sources/39-elizabeth-i-glt7302124935/"
   - key: "399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942"
     title: "399. The Savage Storm: World War II and The Battle for Italy"
     url: "/wiki/sources/399-the-savage-storm-world-war-ii-and-the-battle-for-italy-glt8130436942/"
