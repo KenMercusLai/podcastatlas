@@ -24619,6 +24619,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/borisyeltsin/"
     },
+    "BorleyRectory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309926019 [GLT2309926019].md",
+          "key": "66-ghosts-glt2309926019",
+          "show": "The Rest Is History",
+          "title": "66. Ghosts",
+          "url": "/wiki/sources/66-ghosts-glt2309926019/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/borleyrectory/"
+    },
     "BorrowedKnifeKilling": {
       "episode_count": 2,
       "show_count": 1,
@@ -39135,6 +39151,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/cocacola/"
+    },
+    "CockLaneGhost": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309926019 [GLT2309926019].md",
+          "key": "66-ghosts-glt2309926019",
+          "show": "The Rest Is History",
+          "title": "66. Ghosts",
+          "url": "/wiki/sources/66-ghosts-glt2309926019/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/cocklaneghost/"
     },
     "Cockpunch": {
       "episode_count": 1,
@@ -66241,9 +66273,9 @@
       "url": "/wiki/concepts/everydaysymptomnutritiontriage/"
     },
     "EvidenceBoundFolkloreInquiry": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》46丨骂你是个“二百五”的历史来源 [lkz5HiamAOJTVaNllBuNEcY3G3ff].md",
@@ -66272,9 +66304,16 @@
           "show": "蜜獾吃书",
           "title": "115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？",
           "url": "/wiki/sources/115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309/"
+        },
+        {
+          "episode_file": "GLT2309926019 [GLT2309926019].md",
+          "key": "66-ghosts-glt2309926019",
+          "show": "The Rest Is History",
+          "title": "66. Ghosts",
+          "url": "/wiki/sources/66-ghosts-glt2309926019/"
         }
       ],
-      "updated": "2026-08-19",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/evidenceboundfolkloreinquiry/"
     },
     "EvidenceBoundHistoricalRevision": {
@@ -82217,6 +82256,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/ghezo/"
     },
+    "GhostBeliefAsCulturalHistory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309926019 [GLT2309926019].md",
+          "key": "66-ghosts-glt2309926019",
+          "show": "The Rest Is History",
+          "title": "66. Ghosts",
+          "url": "/wiki/sources/66-ghosts-glt2309926019/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/ghostbeliefasculturalhistory/"
+    },
     "GhostDance": {
       "episode_count": 3,
       "show_count": 1,
@@ -89828,6 +89883,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/haroldwilson/"
     },
+    "HarryPrice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309926019 [GLT2309926019].md",
+          "key": "66-ghosts-glt2309926019",
+          "show": "The Rest Is History",
+          "title": "66. Ghosts",
+          "url": "/wiki/sources/66-ghosts-glt2309926019/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/harryprice/"
+    },
     "HarrySTruman": {
       "episode_count": 1,
       "show_count": 1,
@@ -93163,6 +93234,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/hindukushhimalaya/"
+    },
+    "HintonAmpner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309926019 [GLT2309926019].md",
+          "key": "66-ghosts-glt2309926019",
+          "show": "The Rest Is History",
+          "title": "66. Ghosts",
+          "url": "/wiki/sources/66-ghosts-glt2309926019/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/hintonampner/"
     },
     "HippiasAthenianTyrant": {
       "episode_count": 2,
@@ -129113,9 +129200,9 @@
       "url": "/wiki/entities/mpwrai/"
     },
     "MRJames": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8843719433 [GLT8843719433].md",
@@ -129123,9 +129210,16 @@
           "show": "The Rest Is History",
           "title": "133. Christmas churches",
           "url": "/wiki/sources/133-christmas-churches-glt8843719433/"
+        },
+        {
+          "episode_file": "GLT2309926019 [GLT2309926019].md",
+          "key": "66-ghosts-glt2309926019",
+          "show": "The Rest Is History",
+          "title": "66. Ghosts",
+          "url": "/wiki/sources/66-ghosts-glt2309926019/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/mrjames/"
     },
     "MTRCorporation": {
@@ -134572,6 +134666,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/mediaselfcensorshipunderpoliticalpressure/"
+    },
+    "MediaTechnologyGhostCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309926019 [GLT2309926019].md",
+          "key": "66-ghosts-glt2309926019",
+          "show": "The Rest Is History",
+          "title": "66. Ghosts",
+          "url": "/wiki/sources/66-ghosts-glt2309926019/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/mediatechnologyghostculture/"
     },
     "MedicalAIRobotCollaborationBoundary": {
       "episode_count": 1,
@@ -174151,6 +174261,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/rogercasement/"
     },
+    "RogerClarke": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309926019 [GLT2309926019].md",
+          "key": "66-ghosts-glt2309926019",
+          "show": "The Rest Is History",
+          "title": "66. Ghosts",
+          "url": "/wiki/sources/66-ghosts-glt2309926019/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/rogerclarke/"
+    },
     "RogerLordOfTheFlies": {
       "episode_count": 1,
       "show_count": 1,
@@ -198609,6 +198735,29 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/thetroubles/"
+    },
+    "TheTurnOfTheScrew": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "69.闲聊推理文学：历史学者可不就是侦探吗！ [666244465].md",
+          "key": "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465",
+          "show": "蜜獾吃书",
+          "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
+          "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+        },
+        {
+          "episode_file": "GLT2309926019 [GLT2309926019].md",
+          "key": "66-ghosts-glt2309926019",
+          "show": "The Rest Is History",
+          "title": "66. Ghosts",
+          "url": "/wiki/sources/66-ghosts-glt2309926019/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/theturnofthescrew/"
     },
     "TheWhiteHairedGirl": {
       "episode_count": 1,

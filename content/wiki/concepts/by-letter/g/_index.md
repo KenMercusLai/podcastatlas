@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9441
+wiki_total_pages: 9443
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "Gesamtkunstwerk"
     title: "Gesamtkunstwerk"
     url: "/wiki/concepts/gesamtkunstwerk/"
+  - key: "GhostBeliefAsCulturalHistory"
+    title: "Ghost Belief as Cultural History"
+    url: "/wiki/concepts/ghostbeliefasculturalhistory/"
   - key: "GiftRefusalAsAuthority"
     title: "Gift Refusal As Authority / 拒礼立威"
     url: "/wiki/concepts/giftrefusalasauthority/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2464
+topic_total_pages: 2465
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6210,6 +6210,9 @@ topic_sources:
   - key: "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571"
     title: "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)"
     url: "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
+  - key: "66-ghosts-glt2309926019"
+    title: "66. Ghosts"
+    url: "/wiki/sources/66-ghosts-glt2309926019/"
   - key: "660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898"
     title: "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)"
     url: "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"

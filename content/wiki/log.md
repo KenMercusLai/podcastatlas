@@ -28340,3 +28340,11 @@ Added source `67-anglo-german-relations-glt1735608678`; created `StBoniface`, `S
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 66. Ghosts
+
+Added source `66-ghosts-glt2309926019`; created `RogerClarke`, `HintonAmpner`, `CockLaneGhost`, `BorleyRectory`, `HarryPrice`, `GhostBeliefAsCulturalHistory`, and `MediaTechnologyGhostCulture`; and resynthesized `MRJames`, `TheTurnOfTheScrew`, and `EvidenceBoundFolkloreInquiry` from their complete preserved evidence inventories. Core synthesis: ghost reports can document changing religious conflict, domestic hierarchy, cultural fear, media form, commercial incentive, and evidentiary practice without thereby proving supernatural causation; new media alter both apparition forms and the artifacts offered as proof. No settled contradiction was adopted. Hinton Ampner's proposed influence on *The Turn of the Screw*, Shakespeare's Catholicism, battle-memory explanations, national styles, fraud and arson allegations, and paranormal images remain source-scoped. Recurring show and host pages were not changed because the episode adds no durable identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,542-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -4,7 +4,8 @@ type: entity
 tags: [person, writer, scholar, ghost-stories, antiquarianism]
 sources:
   - 133-christmas-churches-glt8843719433
-last_updated: 2026-10-02
+  - 66-ghosts-glt2309926019
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,39 +13,42 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-M. R. James is represented as a scholar, antiquarian, Cambridge figure, and ghost-story writer whose research into manuscripts, stained glass, artifacts, and churches supplied material and atmosphere for fiction associated with Christmas reading and performance.
+M. R. James is represented as a scholar, antiquarian, Cambridge figure, and ghost-story writer whose manuscripts, artifacts, churches, and pre-Reformation survivals supplied material for fiction associated with Christmas reading and performance.
 
 ## Current Profile
 
-[[133-christmas-churches-glt8843719433]] presents James's stories as encounters in which educated antiquarians investigate old texts, objects, or sites and discover supernatural forces that unsettle rational confidence. The episode connects this pattern directly to his scholarly work rather than treating his fictional settings as generic Gothic decoration.
+James's fiction is grounded in scholarly research into manuscripts, stained glass, artifacts, and church history. His educated investigators encounter forces that unsettle rational confidence, while the stories' communal Christmas reception turns learned antiquarian material into seasonal entertainment. [[133-christmas-churches-glt8843719433]]
 
-His Christmas association lies mainly in reception: stories written from antiquarian and ecclesiastical materials became seasonal communal entertainment. The episode closes the profile with his simple, overgrown, difficult-to-find grave at St John's Cemetery in Eton, making the memorial landscape itself part of the Jamesian atmosphere.
+A confessional-historical reading emphasizes pre-Protestant guardian spirits, walking corpses, black magic, and occult practice, placing James within a longer Gothic reuse of Reformation loss and fear rather than treating his supernatural world as generic atmosphere. [[66-ghosts-glt2309926019]]
 
 ## Key Characteristics
 
 - Scholar and Cambridge institutional figure.
-- Antiquarian researcher of manuscripts, stained glass, artifacts, and church history.
-- Writer of ghost stories centered on learned inquiry and supernatural disruption.
-- Author strongly associated with Christmas storytelling traditions.
-- Figure whose modest Eton grave extends the episode's interest in overlooked material memory.
+- Antiquarian researcher of manuscripts, stained glass, artifacts, churches, and older religious material.
+- Writer whose learned protagonists disturb or release supernatural forces.
+- Author whose ghosts often preserve pre-Protestant, corporeal, protective, or occult forms.
+- Figure strongly associated with Christmas storytelling traditions.
+- Writer whose modest Eton grave extends the atmosphere of overlooked material memory.
 
 ## Evidence
 
-- Scholarly background - [[133-christmas-churches-glt8843719433]] connects James with manuscripts, stained glass, artifacts, and church history.
-- Fictional method - [[133-christmas-churches-glt8843719433]] describes antiquarian protagonists whose investigations disturb rational assumptions.
-- Seasonal reception - [[133-christmas-churches-glt8843719433]] places his ghost stories within Christmas reading and entertainment.
-- Memorial setting - [[133-christmas-churches-glt8843719433]] describes his grave at St John's Cemetery in Eton as simple, overgrown, and hard to find.
+- Scholarly basis - [[133-christmas-churches-glt8843719433]] connects James with manuscripts, stained glass, artifacts, church history, and antiquarian protagonists.
+- Seasonal reception - [[133-christmas-churches-glt8843719433]] places his ghost stories within Christmas reading and entertainment and describes his simple, overgrown Eton grave.
+- Confessional and Gothic layer - [[66-ghosts-glt2309926019]] interprets his guardian spirits, walking corpses, black magic, and occult material as afterlives of a pre-Protestant world.
 
 ## Qualifications
 
-This page reflects one short podcast segment rather than a complete literary or scholarly biography. It does not establish the publication history, chronology, full institutional career, or precise development of Christmas ghost-story broadcasting and reading traditions.
+These sources provide thematic podcast readings rather than a complete literary or scholarly biography. They do not establish publication chronology, the full institutional career, or the precise historical development of James's religious imagery and Christmas reception. The Reformation reading is interpretive rather than exhaustive.
 
 ## What Changed
 
-- Created a bounded profile connecting James's scholarship, supernatural fiction, Christmas reception, and physical memorial.
+- Added the pre-Protestant and Reformation-afterlife interpretation to the existing antiquarian and Christmas profile.
+- Distinguished the source's Gothic reading from a complete account of James's supernatural fiction.
 
 ## Relationships
 
-- [[RachelMorley]] - heritage interpreter presenting his work through church and antiquarian history.
 - [[ChurchCulturalMemory]] - material and scholarly environment feeding his fiction and later remembrance.
-- [[TheRestIsHistory]] - podcast situating his ghost stories within the festive church list.
+- [[GhostBeliefAsCulturalHistory]] - frame locating his ghosts within changing religious and cultural needs.
+- [[ReformationLegacyAmbivalence]] - confessional rupture whose imaginative afterlife informs the new reading.
+- [[MediaTechnologyGhostCulture]] - circulation framework for the later performance and reception of ghost stories.
+- [[TheRestIsHistory]] - podcast situating James within both Christmas heritage and British ghost history.

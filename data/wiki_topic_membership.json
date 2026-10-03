@@ -5368,6 +5368,18 @@
       "url": "/topics/history/"
     }
   ],
+  "66-ghosts-glt2309926019": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536": [
     {
       "key": "culture",
@@ -54046,6 +54058,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "MediaTechnologyGhostCulture": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     },
     {
       "key": "culture",

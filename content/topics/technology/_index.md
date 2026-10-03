@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3279
+topic_total_pages: 3280
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2944,6 +2944,9 @@ topic_concepts:
   - key: "MediaInternetConvergence"
     title: "Media Internet Convergence"
     url: "/wiki/concepts/mediainternetconvergence/"
+  - key: "MediaTechnologyGhostCulture"
+    title: "Media Technology and Ghost Culture"
+    url: "/wiki/concepts/mediatechnologyghostculture/"
   - key: "MedicalAIEducation"
     title: "Medical AI Education / 医学AI教育"
     url: "/wiki/concepts/medicalaieducation/"

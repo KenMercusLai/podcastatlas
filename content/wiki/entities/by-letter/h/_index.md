@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12142
+wiki_total_pages: 12147
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "HarryMoser"
     title: "Harry Moser"
     url: "/wiki/entities/harrymoser/"
+  - key: "HarryPrice"
+    title: "Harry Price"
+    url: "/wiki/entities/harryprice/"
   - key: "HarrySTruman"
     title: "Harry S. Truman"
     url: "/wiki/entities/harrystruman/"
@@ -686,6 +689,9 @@ wiki_pages:
   - key: "HinoharaShigeaki"
     title: "Hinohara Shigeaki / 日野原重明"
     url: "/wiki/entities/hinoharashigeaki/"
+  - key: "HintonAmpner"
+    title: "Hinton Ampner"
+    url: "/wiki/entities/hintonampner/"
   - key: "Hipmunk"
     title: "Hipmunk"
     url: "/wiki/entities/hipmunk/"
