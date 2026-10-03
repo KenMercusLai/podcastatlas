@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP177-巴以冲突：我们该如何理解遥远的哭声](sources/ep177-ba-yi-chongtu-women-gai-ruhe-lijie-yaoyuan-de-kusheng-ckwriaiepeo1abaaaac8efxz.md) — 无时差研究所 on Sheikh Jarrah, the Nakba, return rights, differentiated Palestinian legal status, territorial fragmentation, Zionism, and the boundary between Israel criticism and antisemitism.
 - [65. A Very British Scandal](sources/65-a-very-british-scandal-glt1741780940.md) — The Rest Is History on Jeremy Thorpe, Norman Scott, sexuality and secrecy, the failed Exmoor attack, the 1979 trial, and scandal as a marker of 1970s British change.
 - [66. Ghosts](sources/66-ghosts-glt2309926019.md) — The Rest Is History with Roger Clarke on changing ghost traditions, religious conflict, class-biased testimony, famous hauntings, media technology, hoax, and unresolved evidence.
 - [67. Anglo-German Relations](sources/67-anglo-german-relations-glt1735608678.md) — The Rest Is History on kinship, religion, dynasty, alliance, admiration, rivalry, war, reconstruction, European power, and football in British-German relations.
@@ -3606,6 +3607,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Smell, Taste & Pheromone-Like Chemicals Control You](sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027.md) — Full Huberman Lab episode on olfactory pathways, sniffing and respiratory phase, smell training, gustatory and gut nutrient sensing, and the boundary between human chemical effects and established pheromones.
 
 ## Entities
+- [Sheikh Jarrah](entities/SheikhJarrah.md) — East Jerusalem neighborhood where property claims, refugee housing, and asymmetric recovery rules became a 2021 conflict flashpoint.
+- [Fatah](entities/Fatah.md) — Palestinian political movement whose perceived corruption and accommodation weakened its resistance legitimacy in the source account.
 - [Norman Scott](entities/NormanScott.md) — Former Thorpe lover and surviving target whose letters, persistence, and experience of the failed attack became central to the scandal.
 - [Andrew Newton](entities/AndrewNewton.md) — Airline pilot recruited through intermediaries who killed Rinka and failed to shoot Norman Scott.
 - [Liberal Party (UK)](entities/LiberalPartyUK.md) — Regionally persistent party whose revival under Thorpe produced brief coalition leverage and leader-centered reputational risk.
@@ -15801,6 +15804,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Nakba](concepts/Nakba.md) — Palestinian mass displacement and village depopulation around 1948, treated as the historical basis of refugee and return claims.
+- [Palestinian Right of Return](concepts/PalestinianRightOfReturn.md) — Claim that displaced Palestinians retain a right to return or remedy despite demographic and implementation conflict.
+- [Differentiated Palestinian Legal Status](concepts/DifferentiatedPalestinianLegalStatus.md) — Division of Palestinians among unequal citizenship, residency, occupied-territory, and blockaded-territory regimes.
+- [Occupation Territorial Fragmentation](concepts/OccupationTerritorialFragmentation.md) — Use of settlements, roads, barriers, permits, and zones to divide territory and practical sovereignty.
+- [Zionism](concepts/Zionism.md) — Jewish national self-determination project analyzed separately from Judaism and Jewish identity.
+- [Holocaust Memory and State Legitimacy](concepts/HolocaustMemoryStateLegitimacy.md) — Framework distinguishing legitimate genocide remembrance from contested uses of memory in security and state-legitimacy narratives.
+- [One-State Equal Rights](concepts/OneStateEqualRights.md) — Normative proposal for equal Jewish and Palestinian citizenship in one state, with major transition questions unresolved.
 - [Sexuality, Secrecy, and Political Vulnerability](concepts/SexualitySecrecyPoliticalVulnerability.md) — Mechanism by which stigma turns private relationships, documentary traces, and threatened exposure into unequal political leverage.
 - [Ghost Belief as Cultural History](concepts/GhostBeliefAsCulturalHistory.md) — Method that studies what changing societies ask ghosts to mean without confusing cultural value with supernatural proof.
 - [Media Technology and Ghost Culture](concepts/MediaTechnologyGhostCulture.md) — Framework for how newspapers, image and broadcast media, horror film, and digital communication reshape haunting stories and evidence.

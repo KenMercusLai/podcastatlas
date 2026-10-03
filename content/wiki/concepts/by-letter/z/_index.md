@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "z"
-wiki_total_pages: 9444
+wiki_total_pages: 9451
 wiki_pages:
   - key: "ZeroTrustSecurity"
     title: "Zero Trust Security"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "ZhuangbiAsSocialSignaling"
     title: "Zhuangbi As Social Signaling / 装逼作为社会信号"
     url: "/wiki/concepts/zhuangbiassocialsignaling/"
+  - key: "Zionism"
+    title: "Zionism"
+    url: "/wiki/concepts/zionism/"
   - key: "ZoneOfPossibleAgreement"
     title: "Zone Of Possible Agreement / 协议区间"
     url: "/wiki/concepts/zoneofpossibleagreement/"

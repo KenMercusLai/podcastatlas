@@ -23247,6 +23247,10 @@
     "title": "Different-Surname King Suspicion / 异姓诸侯王猜忌",
     "url": "/wiki/concepts/differentsurnamekingsuspicion/"
   },
+  "DifferentiatedPalestinianLegalStatus": {
+    "title": "Differentiated Palestinian Legal Status",
+    "url": "/wiki/concepts/differentiatedpalestinianlegalstatus/"
+  },
   "DifferentiatedThyroidCancerDecisionMaking": {
     "title": "Differentiated Thyroid Cancer Decision-Making / 分化型甲状腺癌决策",
     "url": "/wiki/concepts/differentiatedthyroidcancerdecisionmaking/"
@@ -28726,6 +28730,10 @@
   "FatTailRisk": {
     "title": "Fat-Tail Risk",
     "url": "/wiki/concepts/fattailrisk/"
+  },
+  "Fatah": {
+    "title": "Fatah",
+    "url": "/wiki/entities/fatah/"
   },
   "FatalDeadlineRebellionTrigger": {
     "title": "Fatal Deadline Rebellion Trigger / 误期死局式起义触发",
@@ -37198,6 +37206,10 @@
   "HoloAssets": {
     "title": "Holo Assets",
     "url": "/wiki/concepts/holoassets/"
+  },
+  "HolocaustMemoryStateLegitimacy": {
+    "title": "Holocaust Memory and State Legitimacy",
+    "url": "/wiki/concepts/holocaustmemorystatelegitimacy/"
   },
   "HolocaustWarningActionGap": {
     "title": "Holocaust Warning-to-Action Gap",
@@ -55135,6 +55147,10 @@
     "title": "Nakagawa Masashichi Shoten / 中川政七商店",
     "url": "/wiki/entities/nakagawamasashichishoten/"
   },
+  "Nakba": {
+    "title": "Nakba",
+    "url": "/wiki/concepts/nakba/"
+  },
   "NamingPowerSocialChange": {
     "title": "Naming Power In Social Change / 社会变革中的命名权",
     "url": "/wiki/concepts/namingpowersocialchange/"
@@ -57167,6 +57183,10 @@
     "title": "Occupation Pacification Strategy / 占领区怀柔治理",
     "url": "/wiki/concepts/occupationpacificationstrategy/"
   },
+  "OccupationTerritorialFragmentation": {
+    "title": "Occupation Territorial Fragmentation",
+    "url": "/wiki/concepts/occupationterritorialfragmentation/"
+  },
   "OceanAcidification": {
     "title": "Ocean Acidification",
     "url": "/wiki/concepts/oceanacidification/"
@@ -57746,6 +57766,10 @@
   "OneShotCollaborativeNarrativeMemory": {
     "title": "One-Shot Collaborative Narrative Memory / 一次性共同叙事记忆",
     "url": "/wiki/concepts/oneshotcollaborativenarrativememory/"
+  },
+  "OneStateEqualRights": {
+    "title": "One-State Equal Rights",
+    "url": "/wiki/concepts/onestateequalrights/"
   },
   "OneThreeFiveSevenConsumerSegmentation": {
     "title": "One Three Five Seven Consumer Segmentation",
@@ -58942,6 +58966,10 @@
   "PalestinianQuestionInIsraeliPolitics": {
     "title": "Palestinian Question in Israeli Politics",
     "url": "/wiki/concepts/palestinianquestioninisraelipolitics/"
+  },
+  "PalestinianRightOfReturn": {
+    "title": "Palestinian Right of Return",
+    "url": "/wiki/concepts/palestinianrightofreturn/"
   },
   "Palestinians": {
     "title": "Palestinians",
@@ -70614,6 +70642,10 @@
   "SheikhHasina": {
     "title": "Sheikh Hasina",
     "url": "/wiki/entities/sheikhhasina/"
+  },
+  "SheikhJarrah": {
+    "title": "Sheikh Jarrah",
+    "url": "/wiki/entities/sheikhjarrah/"
   },
   "ShekharNatarajan": {
     "title": "Shekhar Natarajan",
@@ -89715,6 +89747,10 @@
     "title": "Zinc (popcorn-bucket design)",
     "url": "/wiki/entities/zincpopcornbuckets/"
   },
+  "Zionism": {
+    "title": "Zionism",
+    "url": "/wiki/concepts/zionism/"
+  },
   "Zisi": {
     "title": "子思 / Zisi",
     "url": "/wiki/entities/zisi/"
@@ -91306,6 +91342,10 @@
   "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u": {
     "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
     "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
+  },
+  "ep177-ba-yi-chongtu-women-gai-ruhe-lijie-yaoyuan-de-kusheng-ckwriaiepeo1abaaaac8efxz": {
+    "title": "EP177-巴以冲突：我们该如何理解遥远的哭声",
+    "url": "/wiki/sources/ep177-ba-yi-chongtu-women-gai-ruhe-lijie-yaoyuan-de-kusheng-ckwriaiepeo1abaaaac8efxz/"
   },
   "ep179-womende-neixin-dou-zhuzhe-yige-liuxiaoyang-zuoziji-shi-yao-fuchu-juda-daijia-ckwriaset1ykabaaaadc008h": {
     "title": "EP179-我们的内心都住着一个刘小样——做自己是要付出巨大代价的",

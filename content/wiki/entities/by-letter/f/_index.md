@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12150
+wiki_total_pages: 12152
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "Fast16"
     title: "Fast 16"
     url: "/wiki/entities/fast16/"
+  - key: "Fatah"
+    title: "Fatah"
+    url: "/wiki/entities/fatah/"
   - key: "Fauda"
     title: "Fauda"
     url: "/wiki/entities/fauda/"

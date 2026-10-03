@@ -2,21 +2,45 @@
 title: "Hamas"
 type: entity
 tags: [armed-movement, politics, geopolitics]
-sources: [in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74, omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb]
-last_updated: 2026-08-08
+sources:
+  - in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74
+  - omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb
+  - ep177-ba-yi-chongtu-women-gai-ruhe-lijie-yaoyuan-de-kusheng-ckwriaiepeo1abaaaac8efxz
+last_updated: 2026-10-03
+knowledge_schema: synthesis-v1
 ---
 
 # Hamas
 
-[[in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74]] makes Hamas the central actor in [[DisarmamentWithdrawalSequencing]]. The episode says Hamas wants [[Israel]] to withdraw first and then begin disarming, while also arguing that any arms it gives up should stay in [[Gaza]] and be stored by a Palestinian administration.
+## Overview
+Hamas is a Palestinian armed and political movement whose wiki profile combines electoral legitimacy claims, resistance politics, violence, governance competition, and unresolved disarmament in Gaza diplomacy.
 
-Hamas appears in [[omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb]] as part of [[GregCarlstrom]]'s comparison between the thin U.S.-Iran MOU and other unresolved Middle East agreements. The episode says the Gaza agreement leaves major questions unanswered, including Hamas disarmament.
+## Current Profile
+The 2021 source explains Hamas's support partly through election victory, resistance credibility, Gaza blockade, and dissatisfaction with Fatah. Later sources treat Hamas less as a constituency-based movement than as the central armed actor in an implementation deadlock: Israel demands complete disarmament before withdrawal, while Hamas seeks withdrawal first and wants surrendered weapons retained under Palestinian control.
 
-The source uses Hamas as an implementation problem. A diplomatic statement can imply a path toward peace while omitting the security and enforcement questions that determine whether armed capacity changes.
+## Key Characteristics
+- Armed movement whose violence and rocket attacks are central to Israeli security claims.
+- Political competitor that gained power through elections and dissatisfaction with Fatah.
+- Governing actor in Gaza operating under blockade, war, and severe material constraints.
+- Central party to disarmament, withdrawal, verification, and postwar-administration disputes.
+- Can be flattened into either terrorism alone or resistance alone; the bounded sources do not justify either simplification.
 
-## Connections
-- [[Gaza]] - theater where the source locates the unresolved disarmament question.
-- [[DisarmamentWithdrawalSequencing]], [[InternationalVerificationCommittee]], and [[NationalCommitteeForAdministrationOfGaza]] - disarmament, verification, and Palestinian-administration branch added by the Gaza sticking-points source.
-- [[Egypt]], [[Qatar]], and [[Turkey]] - regional pressure channel named in the later source.
-- [[ThinDiplomaticFrameworks]] - broad pattern of under-specified agreements.
-- [[ProxyConflictSpoilerRisk]] - adjacent concept for armed actors that can keep conflict alive despite formal diplomacy.
+## Evidence
+- Electoral and resistance context: [[ep177-ba-yi-chongtu-women-gai-ruhe-lijie-yaoyuan-de-kusheng-ckwriaiepeo1abaaaac8efxz]] links support to elections, Fatah's legitimacy crisis, occupation, and blockade.
+- Disarmament sequence: [[in-arms-way-gaza-deal-sticking-points-6a71b49647235c354d3c9b74]] records incompatible Israeli and Hamas ordering demands plus proposed verification and administration bodies.
+- Thin-agreement risk: [[omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb]] uses unresolved Hamas disarmament as an example of diplomatic text omitting enforcement.
+
+## Qualifications
+The 2021 episode explicitly gives insufficient ethical scrutiny to violence against civilians and largely explains violence through occupation and blockade. The later sources focus on deal mechanics rather than ideology, governance outcomes, public support, hostages, or the full history of armed action.
+
+## What Changed
+- Added Hamas's electoral rise and competition with Fatah to the existing disarmament profile.
+- Added occupation and blockade as source-claimed causes of resistance support while explicitly retaining the civilian-violence analytical gap.
+
+## Relationships
+- [[Gaza]] - territory Hamas governs in part and where disarmament and withdrawal are contested.
+- [[Israel]] - military adversary and counterpart in the withdrawal-disarmament deadlock.
+- [[Fatah]] - Palestinian rival whose perceived corruption helped Hamas's appeal in the episode's account.
+- [[Palestinians]] - constituency Hamas claims to represent but does not exhaust.
+- [[DisarmamentWithdrawalSequencing]] - implementation deadlock defining later-source treatment.
+- [[ThinDiplomaticFrameworks]] - broader pattern in which unresolved armed capacity survives headline agreements.

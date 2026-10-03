@@ -28364,3 +28364,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | EP177-巴以冲突：我们该如何理解遥远的哭声
+
+Added source `ep177-ba-yi-chongtu-women-gai-ruhe-lijie-yaoyuan-de-kusheng-ckwriaiepeo1abaaaac8efxz`; created `SheikhJarrah`, `Fatah`, `Nakba`, `PalestinianRightOfReturn`, `DifferentiatedPalestinianLegalStatus`, `OccupationTerritorialFragmentation`, `Zionism`, `HolocaustMemoryStateLegitimacy`, and `OneStateEqualRights`; and resynthesized `Israel`, `Palestinians`, `Hamas`, `Gaza`, `AntisemitismIsraelCriticismBoundary`, and `PalestinianQuestionInIsraeliPolitics` from their complete preserved evidence inventories. Core synthesis: the episode connects the 2021 Sheikh Jarrah and Gaza escalation to 1948 displacement, asymmetric return rules, differentiated Palestinian legal status, territorial fragmentation, and the demographic logic of Jewish statehood, while distinguishing criticism of Zionism or Israeli policy from hostility toward Jews. No settled factual contradiction was adopted. Its one-state equal-rights preference remains in tension with a two-state prescription elsewhere in the wiki, and its historical numbers, legal interpretations, apartheid comparison, and causal account of violence remain source-scoped because the episode is explicitly pro-Palestinian, does not document every claim, and gives limited treatment to Israeli security arguments and Hamas violence against civilians. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,545-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

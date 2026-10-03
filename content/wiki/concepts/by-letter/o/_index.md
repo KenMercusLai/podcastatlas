@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9444
+wiki_total_pages: 9451
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "OccupationPacificationStrategy"
     title: "Occupation Pacification Strategy / 占领区怀柔治理"
     url: "/wiki/concepts/occupationpacificationstrategy/"
+  - key: "OccupationTerritorialFragmentation"
+    title: "Occupation Territorial Fragmentation"
+    url: "/wiki/concepts/occupationterritorialfragmentation/"
   - key: "OCDCompulsionReinforcementLoop"
     title: "OCD Compulsion Reinforcement Loop"
     url: "/wiki/concepts/ocdcompulsionreinforcementloop/"
@@ -305,6 +308,9 @@ wiki_pages:
   - key: "OneShotCollaborativeNarrativeMemory"
     title: "One-Shot Collaborative Narrative Memory / 一次性共同叙事记忆"
     url: "/wiki/concepts/oneshotcollaborativenarrativememory/"
+  - key: "OneStateEqualRights"
+    title: "One-State Equal Rights"
+    url: "/wiki/concepts/onestateequalrights/"
   - key: "OngakuKissa"
     title: "Ongaku Kissa"
     url: "/wiki/concepts/ongakukissa/"

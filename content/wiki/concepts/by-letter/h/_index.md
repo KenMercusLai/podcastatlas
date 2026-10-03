@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9444
+wiki_total_pages: 9451
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "HoloAssets"
     title: "Holo Assets"
     url: "/wiki/concepts/holoassets/"
+  - key: "HolocaustMemoryStateLegitimacy"
+    title: "Holocaust Memory and State Legitimacy"
+    url: "/wiki/concepts/holocaustmemorystatelegitimacy/"
   - key: "HolocaustWarningActionGap"
     title: "Holocaust Warning-to-Action Gap"
     url: "/wiki/concepts/holocaustwarningactiongap/"

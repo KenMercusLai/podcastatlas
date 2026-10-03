@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3028
+topic_total_pages: 3029
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5588,6 +5588,9 @@ topic_entities:
   - key: "EzraPound"
     title: "Ezra Pound"
     url: "/wiki/entities/ezrapound/"
+  - key: "Fatah"
+    title: "Fatah"
+    url: "/wiki/entities/fatah/"
   - key: "FederalCommunicationsCommission"
     title: "Federal Communications Commission"
     url: "/wiki/entities/federalcommunicationscommission/"

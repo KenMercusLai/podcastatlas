@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9444
+wiki_total_pages: 9451
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "PalestinianQuestionInIsraeliPolitics"
     title: "Palestinian Question in Israeli Politics"
     url: "/wiki/concepts/palestinianquestioninisraelipolitics/"
+  - key: "PalestinianRightOfReturn"
+    title: "Palestinian Right of Return"
+    url: "/wiki/concepts/palestinianrightofreturn/"
   - key: "PalynologyAsEvidence"
     title: "Palynology As Evidence"
     url: "/wiki/concepts/palynologyasevidence/"
