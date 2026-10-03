@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9504
+wiki_total_pages: 9507
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "HaijinAndMaritimeSmuggling"
     title: "Haijin and Maritime Smuggling"
     url: "/wiki/concepts/haijinandmaritimesmuggling/"
+  - key: "HainanGrowthResidentDistribution"
+    title: "Hainan Growth and Resident Distribution / 海南增长与居民获得感"
+    url: "/wiki/concepts/hainangrowthresidentdistribution/"
   - key: "HairScalpCareBoundary"
     title: "Hair and Scalp Care Boundary / 头发与头皮护理边界"
     url: "/wiki/concepts/hairscalpcareboundary/"

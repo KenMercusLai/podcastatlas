@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12201
+wiki_total_pages: 12205
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2198,6 +2198,9 @@ wiki_pages:
   - key: "LuoDayou"
     title: "罗大佑 / Luo Dayou"
     url: "/wiki/entities/luodayou/"
+  - key: "LuoMamaHainanGuest"
+    title: "罗妈妈 / Hainan Local Guest"
+    url: "/wiki/entities/luomamahainanguest/"
   - key: "LuoZijun"
     title: "罗子君 / Luo Zijun"
     url: "/wiki/entities/luozijun/"

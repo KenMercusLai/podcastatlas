@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9504
+wiki_total_pages: 9507
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1040,6 +1040,9 @@ wiki_pages:
   - key: "PolicyDrivenMarketRally"
     title: "Policy-Driven Market Rally"
     url: "/wiki/concepts/policydrivenmarketrally/"
+  - key: "PolicyDrivenTalentRetentionGap"
+    title: "Policy-Driven Talent Retention Gap / 政策引才与留才落差"
+    url: "/wiki/concepts/policydriventalentretentiongap/"
   - key: "PolishBuiltHeritagePalimpsest"
     title: "Polish Built-Heritage Palimpsest"
     url: "/wiki/concepts/polishbuiltheritagepalimpsest/"

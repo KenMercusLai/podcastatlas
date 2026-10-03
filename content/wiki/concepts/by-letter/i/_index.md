@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9504
+wiki_total_pages: 9507
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1088,6 +1088,9 @@ wiki_pages:
   - key: "IslandAdventureInversion"
     title: "Island Adventure Inversion / 荒岛冒险反写"
     url: "/wiki/concepts/islandadventureinversion/"
+  - key: "IslandConnectivityDevelopmentConstraint"
+    title: "Island Connectivity Development Constraint / 岛屿连通性发展约束"
+    url: "/wiki/concepts/islandconnectivitydevelopmentconstraint/"
   - key: "IslandEcologicalSuccession"
     title: "Island Ecological Succession"
     url: "/wiki/concepts/islandecologicalsuccession/"

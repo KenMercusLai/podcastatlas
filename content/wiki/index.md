@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？](sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y.md) — 无时差研究所 conversation on lived Hainan, tourism geography, free-trade-port opportunity, island logistics, resident costs, public services, and talent retention.
 - [42. The Wild West](sources/42-the-wild-west-glt7464073840.md) — The Rest Is History on frontier expansion, Native dispossession, bison destruction, western celebrity, masculinity, Turner's frontier thesis, and the Wild West as contested national myth.
 - [43. 1940](sources/43-1940-glt2702093158.md) — The Rest Is History with James Holland on France's collapse, Dunkirk, the May War Cabinet crisis, the Battle of Britain, Sea Lion, and Britain's retained strategic capacity.
 - [44. 1066](sources/44-1066-glt5177665423.md) — The Rest Is History on the three-way succession struggle, papal reform, castles and cavalry, slavery and class change, cultural rupture, and England's national memory of defeat.
@@ -3646,6 +3647,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Optimize Testosterone & Estrogen](sources/how-to-optimize-testosterone-estrogen-scim7814508461.md) — Full-length Huberman Lab episode on sex-steroid feedback, aromatization, sleep and breathing, light, exercise, menopause, supplements, bloodwork, and clinical risk boundaries.
 
 ## Entities
+- [Hainan / 海南](entities/Hainan.md) — Chinese island province framed through local life, tourism concentration, policy-led growth, connectivity, and uneven resident benefit.
+- [Haikou / 海口](entities/Haikou.md) — Hainan's provincial capital and lived-city counterpoint to the island's resort image.
+- [Sanya / 三亚](entities/Sanya.md) — Resort-oriented city anchoring Hainan's external tourism image and eastern visitor corridor.
+- [罗妈妈 / Hainan Local Guest](entities/LuoMamaHainanGuest.md) — Hainan-born EP167 guest whose family history and observations ground the episode.
 - [Lord Halifax](entities/LordHalifax.md) — British foreign secretary who advocated exploring Italian-mediated peace terms during the May 1940 War Cabinet crisis.
 - [Royal Air Force](entities/RoyalAirForce.md) — British air institution whose distributed resilience and joint role with naval power helped preserve resistance in 1940.
 - [Bagoas](entities/Bagoas.md) — Persian eunuch whose contested association with Darius III and Alexander exposes the politics and reception of intimate court access.
@@ -15893,6 +15898,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scoff: A History of Food and Class in Britain](entities/ScoffBook.md) — Pen Vogler's book framing food as evidence for class and social change.
 
 ## Concepts
+- [Hainan Growth and Resident Distribution / 海南增长与居民获得感](concepts/HainanGrowthResidentDistribution.md) — Test of whether tourism, duty-free, property, and policy-led growth become broad resident welfare and regional capability.
+- [Island Connectivity Development Constraint / 岛屿连通性发展约束](concepts/IslandConnectivityDevelopmentConstraint.md) — Mechanism by which bounded island geography supports regulation while raising transport and logistics friction.
+- [Policy-Driven Talent Retention Gap / 政策引才与留才落差](concepts/PolicyDrivenTalentRetentionGap.md) — Difference between incentive-led recruitment and durable settlement supported by careers, services, and personal fit.
 - [Fall of France (1940)](concepts/FallOfFrance1940.md) — Campaign showing how communications, combined arms, and decision speed can defeat material strength that is poorly coordinated.
 - [Dunkirk Evacuation](concepts/DunkirkEvacuation.md) — Operation Dynamo understood as an unexpectedly large manpower rescue overlapping Britain's decision to continue the war.
 - [May 1940 British War Cabinet Crisis](concepts/May1940BritishWarCabinetCrisis.md) — Dispute over negotiation, alliance credibility, strategic assets, and continued resistance as France collapsed.

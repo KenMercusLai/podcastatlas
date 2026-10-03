@@ -88747,6 +88747,38 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/haihunmarquisate/"
     },
+    "Haikou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIW4ESA88ABAAAACdEa4Y [CKwRIW4ESA88ABAAAACdEa4Y].md",
+          "key": "ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y",
+          "show": "无时差研究所",
+          "title": "EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？",
+          "url": "/wiki/sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/haikou/"
+    },
+    "Hainan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIW4ESA88ABAAAACdEa4Y [CKwRIW4ESA88ABAAAACdEa4Y].md",
+          "key": "ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y",
+          "show": "无时差研究所",
+          "title": "EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？",
+          "url": "/wiki/sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/hainan/"
+    },
     "HainanAirlines": {
       "episode_count": 2,
       "show_count": 1,
@@ -88769,6 +88801,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/hainanairlines/"
+    },
+    "HainanGrowthResidentDistribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIW4ESA88ABAAAACdEa4Y [CKwRIW4ESA88ABAAAACdEa4Y].md",
+          "key": "ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y",
+          "show": "无时差研究所",
+          "title": "EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？",
+          "url": "/wiki/sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/hainangrowthresidentdistribution/"
     },
     "HairAsPoliticalIdentity": {
       "episode_count": 3,
@@ -107481,6 +107529,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/islandadventureinversion/"
+    },
+    "IslandConnectivityDevelopmentConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIW4ESA88ABAAAACdEa4Y [CKwRIW4ESA88ABAAAACdEa4Y].md",
+          "key": "ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y",
+          "show": "无时差研究所",
+          "title": "EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？",
+          "url": "/wiki/sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/islandconnectivitydevelopmentconstraint/"
     },
     "IslandVariationEvolutionaryEvidence": {
       "episode_count": 1,
@@ -130168,6 +130232,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/luoluplasticsurgeon/"
+    },
+    "LuoMamaHainanGuest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIW4ESA88ABAAAACdEa4Y [CKwRIW4ESA88ABAAAACdEa4Y].md",
+          "key": "ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y",
+          "show": "无时差研究所",
+          "title": "EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？",
+          "url": "/wiki/sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/luomamahainanguest/"
     },
     "LuoTong": {
       "episode_count": 1,
@@ -161079,6 +161159,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/policyboundagenticlendingsupport/"
     },
+    "PolicyDrivenTalentRetentionGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIW4ESA88ABAAAACdEa4Y [CKwRIW4ESA88ABAAAACdEa4Y].md",
+          "key": "ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y",
+          "show": "无时差研究所",
+          "title": "EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？",
+          "url": "/wiki/sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/policydriventalentretentiongap/"
+    },
     "PolicyLeverageForSystemChange": {
       "episode_count": 1,
       "show_count": 1,
@@ -180400,6 +180496,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/santoriniatlantistheory/"
+    },
+    "Sanya": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIW4ESA88ABAAAACdEa4Y [CKwRIW4ESA88ABAAAACdEa4Y].md",
+          "key": "ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y",
+          "show": "无时差研究所",
+          "title": "EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？",
+          "url": "/wiki/sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/sanya/"
     },
     "SaraGottfried": {
       "episode_count": 2,
@@ -219853,9 +219965,9 @@
       "url": "/wiki/entities/wurenzhixiao/"
     },
     "WushichaYanjiusuo": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -219982,6 +220094,13 @@
           "show": "无时差研究所",
           "title": "EP169-美国社会如何制造“模范少数”和背后的隐性歧视",
           "url": "/wiki/sources/ep169-meiguo-shehui-ruhe-zhizao-mofan-shaoshu-he-beihou-de-yinxing-qishi-ckwriaiewlfyabaaaacimxkl/"
+        },
+        {
+          "episode_file": "CKwRIW4ESA88ABAAAACdEa4Y [CKwRIW4ESA88ABAAAACdEa4Y].md",
+          "key": "ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y",
+          "show": "无时差研究所",
+          "title": "EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？",
+          "url": "/wiki/sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y/"
         }
       ],
       "updated": "2026-10-03",

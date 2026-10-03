@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12201
+wiki_total_pages: 12205
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -95,9 +95,15 @@ wiki_pages:
   - key: "HaierSmartHome"
     title: "Haier Smart Home / 海尔智家"
     url: "/wiki/entities/haiersmarthome/"
+  - key: "Haikou"
+    title: "Haikou / 海口"
+    url: "/wiki/entities/haikou/"
   - key: "HaileGebrselassie"
     title: "Haile Gebrselassie"
     url: "/wiki/entities/hailegebrselassie/"
+  - key: "Hainan"
+    title: "Hainan / 海南"
+    url: "/wiki/entities/hainan/"
   - key: "HainanAirlines"
     title: "Hainan Airlines / 海南航空"
     url: "/wiki/entities/hainanairlines/"

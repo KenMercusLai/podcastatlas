@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12201
+wiki_total_pages: 12205
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "Santorini"
     title: "Santorini"
     url: "/wiki/entities/santorini/"
+  - key: "Sanya"
+    title: "Sanya / 三亚"
+    url: "/wiki/entities/sanya/"
   - key: "SAP"
     title: "SAP"
     url: "/wiki/entities/sap/"

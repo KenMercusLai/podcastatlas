@@ -35351,13 +35351,25 @@
     "title": "《还可以的金女士》",
     "url": "/wiki/entities/haikeyidejinnvshi/"
   },
+  "Haikou": {
+    "title": "Haikou / 海口",
+    "url": "/wiki/entities/haikou/"
+  },
   "HaileGebrselassie": {
     "title": "Haile Gebrselassie",
     "url": "/wiki/entities/hailegebrselassie/"
   },
+  "Hainan": {
+    "title": "Hainan / 海南",
+    "url": "/wiki/entities/hainan/"
+  },
   "HainanAirlines": {
     "title": "Hainan Airlines / 海南航空",
     "url": "/wiki/entities/hainanairlines/"
+  },
+  "HainanGrowthResidentDistribution": {
+    "title": "Hainan Growth and Resident Distribution / 海南增长与居民获得感",
+    "url": "/wiki/concepts/hainangrowthresidentdistribution/"
   },
   "HainishCycle": {
     "title": "海恩宇宙 / Hainish Cycle",
@@ -41254,6 +41266,10 @@
   "IslandBeeCompany": {
     "title": "Island Bee Company",
     "url": "/wiki/entities/islandbeecompany/"
+  },
+  "IslandConnectivityDevelopmentConstraint": {
+    "title": "Island Connectivity Development Constraint / 岛屿连通性发展约束",
+    "url": "/wiki/concepts/islandconnectivitydevelopmentconstraint/"
   },
   "IslandEcologicalSuccession": {
     "title": "Island Ecological Succession",
@@ -50002,6 +50018,10 @@
   "LuoLuPlasticSurgeon": {
     "title": "罗路 / Luo Lu (plastic surgeon)",
     "url": "/wiki/entities/luoluplasticsurgeon/"
+  },
+  "LuoMamaHainanGuest": {
+    "title": "罗妈妈 / Hainan Local Guest",
+    "url": "/wiki/entities/luomamahainanguest/"
   },
   "LuoQianqian": {
     "title": "Luo Qianqian / 雒芊芊",
@@ -61803,6 +61823,10 @@
     "title": "Policy-Driven Market Rally",
     "url": "/wiki/concepts/policydrivenmarketrally/"
   },
+  "PolicyDrivenTalentRetentionGap": {
+    "title": "Policy-Driven Talent Retention Gap / 政策引才与留才落差",
+    "url": "/wiki/concepts/policydriventalentretentiongap/"
+  },
   "PolicyLeverageForSystemChange": {
     "title": "Policy Leverage For System Change",
     "url": "/wiki/concepts/policyleverageforsystemchange/"
@@ -69338,6 +69362,10 @@
   "SantoriniAtlantisTheory": {
     "title": "Santorini Atlantis Theory",
     "url": "/wiki/concepts/santoriniatlantistheory/"
+  },
+  "Sanya": {
+    "title": "Sanya / 三亚",
+    "url": "/wiki/entities/sanya/"
   },
   "SapnaMaheshwari": {
     "title": "Sapna Maheshwari",
@@ -91842,6 +91870,10 @@
   "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u": {
     "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
     "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
+  },
+  "ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y": {
+    "title": "EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？",
+    "url": "/wiki/sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y/"
   },
   "ep169-meiguo-shehui-ruhe-zhizao-mofan-shaoshu-he-beihou-de-yinxing-qishi-ckwriaiewlfyabaaaacimxkl": {
     "title": "EP169-美国社会如何制造“模范少数”和背后的隐性歧视",
