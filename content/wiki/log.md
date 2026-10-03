@@ -28444,3 +28444,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | Science of Muscle Growth, Increasing Strength & Muscular Recovery
+
+Added source `scim1817217176-scim1817217176` and resynthesized `StrengthHypertrophyProgramming`, `MindMuscleConnection`, `RecoveryMonitoringTriad`, `LactateMetabolicShuttle`, `SorenessRecoveryBoundary`, `CreatineMonohydrateEvidence`, and `MuscleAsLongevityInfrastructure` from their complete preserved evidence inventories. Core synthesis: strength, hypertrophy, explosiveness, soreness, and readiness are related but distinct outcomes shaped by neural recruitment, local versus distributed effort, training dose, recovery, and goal-sensitive intervention timing. No settled contradiction was adopted. The full 2021 episode is underlying provenance for its later Essentials edit rather than independent replication; carbon-dioxide-tolerance thresholds, workout duration, cold timing, antihistamine and NSAID effects, acute hormone protocols, supplement effects, and numeric nutrition guidance remain source-scoped. Recurring show and host pages were not changed because the episode adds no durable identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,555-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -10,7 +10,8 @@ sources:
   - guest-series-dr-andy-galpin-optimal-protocols-to-build-strength-grow-muscles-scim5680136934
   - how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856
   - scim2965049301-scim2965049301
-last_updated: 2026-10-02
+  - scim1817217176-scim1817217176
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -36,6 +37,8 @@ The earlier integrated conversation reinforces those conclusions while making mo
 
 French adds a stress-interaction example rather than a competing universal template. Six sets of ten repetitions at roughly 80% of one-repetition maximum with about two minutes of rest is presented as a demanding research protocol intended to combine mechanical load with metabolic stress and an acute anabolic environment. Extending that to ten sets can force load down or make the work unsustainable, while longer rest can clear more metabolic by-products and change the stimulus. The durable contribution is that intensity, volume, and rest trade off against one another; the acute hormone response and exact protocol do not establish a required route to long-term hypertrophy.
 
+The full 2021 episode supplies the underlying provenance for the later Essentials edit and adds a clearer goal distinction around local isolation. Deliberate contraction and between-set flexing may increase target-muscle awareness for hypertrophy while reducing subsequent performance; strength and explosiveness instead favor coordinated recruitment and stopping fast work before velocity falls. Its 45-to-60-minute session suggestion and named repetition, rest, and volume ranges remain heuristics rather than biological cutoffs.
+
 ## Key Claims
 - Strength and muscle size overlap but are not identical because neural recruitment can increase force without proportional hypertrophy.
 - Motor-unit recruitment and forceful intent allow moderate or lighter loads to stimulate adaptation; maximal loading is not the only route.
@@ -60,14 +63,16 @@ French adds a stress-interaction example rather than a competing universal templ
 - Tissue and hypertrophy boundaries: [[guest-series-dr-andy-galpin-optimal-protocols-to-build-strength-grow-muscles-scim5680136934]] says connective tissues adapt more slowly than muscle, supports autoregulation before technical breakdown, and rejects muscle damage or compulsory absolute failure as requirements for hypertrophy.
 - Range, soreness, and continuity: [[how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856]] recommends full available joint range without technical compromise, treats severe soreness as a possible cost to weekly volume, and distinguishes strength from hypertrophy partly through damage and recovery demands.
 - Load-volume-rest interaction: [[scim2965049301-scim2965049301]] uses six-by-ten and ten-by-ten examples to show how short rest can preserve metabolic stress while excess volume can lower sustainable load and dilute the target.
+- Full-episode provenance and goal distinction: [[scim1817217176-scim1817217176]] links local isolation and between-set contraction to hypertrophy while linking coordinated recruitment and preserved movement speed to strength and explosiveness.
 
 ## Counterevidence & Qualifications
-The sources are public education, not a complete review or individualized program. The earlier roughly five-to-fifteen-set range, Galpin's roughly ten-set minimum with higher advanced ranges, and French's six-by-ten research protocol are different source-scoped heuristics, not one settled dose. AMA #14's repetition bands are likewise a useful bias rather than a clean boundary between neural strength and muscle growth. Acute testosterone or catecholamine changes do not by themselves establish long-term strength or hypertrophy outcomes. The sources do not fully specify training age, sex, disability, injury, technique, sport demands, nutrition, or clinical context. "Close to failure" and soreness are not precise universal prescriptions, and pain, cardiovascular risk, osteoporosis, balance limitations, medication, and prior injury can change safe movement choice and progression.
+The sources are public education, not a complete review or individualized program. The earlier roughly five-to-fifteen-set range, Galpin's roughly ten-set minimum with higher advanced ranges, and French's six-by-ten research protocol are different source-scoped heuristics, not one settled dose. AMA #14's repetition bands and the full episode's workout-duration suggestion are likewise useful biases rather than clean biological boundaries. The full episode and its later Essentials edit are editorially related evidence, not independent replication. Acute testosterone or catecholamine changes do not by themselves establish long-term strength or hypertrophy outcomes. The sources do not fully specify training age, sex, disability, injury, technique, sport demands, nutrition, or clinical context. "Close to failure" and soreness are not precise universal prescriptions, and pain, cardiovascular risk, osteoporosis, balance limitations, medication, and prior injury can change safe movement choice and progression.
 
 ## What Changed
 - Added the interaction among mechanical load, metabolic stress, volume, and rest.
 - Preserved French's six-by-ten example as a demanding research protocol rather than a universal hypertrophy prescription.
 - Explicitly separated acute hormonal response from demonstrated long-term adaptation.
+- Added the full episode as underlying provenance and clarified the isolation-versus-coordination tradeoff by training goal.
 
 ## Related Concepts
 - [[NinePhysiologicalAdaptations]] - assessment taxonomy separating strength, power, hypertrophy, and muscular endurance.
