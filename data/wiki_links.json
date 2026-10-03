@@ -2027,6 +2027,10 @@
     "title": "349: The Birth of the United States (Part 3)",
     "url": "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
   },
+  "35-the-prime-ministers-world-cup-glt6124252189": {
+    "title": "35. The Prime Ministers’ World Cup",
+    "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
+  },
   "35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624": {
     "title": "35.天真的人类学家：做田野会上瘾的！",
     "url": "/wiki/sources/35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624/"
@@ -11738,6 +11742,10 @@
   "BenjaminAlarie": {
     "title": "Benjamin Alarie",
     "url": "/wiki/entities/benjaminalarie/"
+  },
+  "BenjaminDisraeli": {
+    "title": "Benjamin Disraeli",
+    "url": "/wiki/entities/benjamindisraeli/"
   },
   "BenjaminEidlis": {
     "title": "Benjamin Eidlis",
@@ -49359,6 +49367,10 @@
     "title": "Lord Halifax",
     "url": "/wiki/entities/lordhalifax/"
   },
+  "LordLiverpool": {
+    "title": "Lord Liverpool",
+    "url": "/wiki/entities/lordliverpool/"
+  },
   "LordOfLight": {
     "title": "《光明王》 / Lord of Light",
     "url": "/wiki/entities/lordoflight/"
@@ -49367,9 +49379,17 @@
     "title": "Lord of the Flies / 《蝇王》",
     "url": "/wiki/entities/lordoftheflies/"
   },
+  "LordPalmerston": {
+    "title": "Lord Palmerston",
+    "url": "/wiki/entities/lordpalmerston/"
+  },
   "LordRandolphChurchill": {
     "title": "Lord Randolph Churchill",
     "url": "/wiki/entities/lordrandolphchurchill/"
+  },
+  "LordSalisbury": {
+    "title": "Lord Salisbury",
+    "url": "/wiki/entities/lordsalisbury/"
   },
   "LordsAppellant": {
     "title": "Lords Appellant",
@@ -67891,6 +67911,10 @@
     "title": "Robert Napier",
     "url": "/wiki/entities/robertnapier/"
   },
+  "RobertPeel": {
+    "title": "Robert Peel",
+    "url": "/wiki/entities/robertpeel/"
+  },
   "RobertPersons": {
     "title": "Robert Persons",
     "url": "/wiki/entities/robertpersons/"
@@ -79159,6 +79183,10 @@
     "title": "Tony Benn",
     "url": "/wiki/entities/tonybenn/"
   },
+  "TonyBlair": {
+    "title": "Tony Blair",
+    "url": "/wiki/entities/tonyblair/"
+  },
   "TonyContentEngineer": {
     "title": "东尼 / Tony (content engineer)",
     "url": "/wiki/entities/tonycontentengineer/"
@@ -84326,6 +84354,14 @@
   "WilliamPirrie": {
     "title": "William Pirrie",
     "url": "/wiki/entities/williampirrie/"
+  },
+  "WilliamPittTheElder": {
+    "title": "William Pitt the Elder",
+    "url": "/wiki/entities/williampitttheelder/"
+  },
+  "WilliamPittTheYounger": {
+    "title": "William Pitt the Younger",
+    "url": "/wiki/entities/williampitttheyounger/"
   },
   "WilliamPynchon": {
     "title": "William Pynchon",

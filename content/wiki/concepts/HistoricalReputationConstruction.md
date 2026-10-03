@@ -6,7 +6,8 @@ sources:
   - 104-macbeth-glt3313769671
   - 56-nero-glt7241559003
   - 36-our-greatest-prime-minister-glt9826873277
-last_updated: 2026-10-03
+  - 35-the-prime-ministers-world-cup-glt6124252189
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,7 +25,7 @@ Different media make the resulting image durable. Chronicle, [[WilliamShakespear
 
 Reputation construction is therefore neither a single fabrication nor the passive accumulation of facts. Later interests select real events, uncertain anecdotes, genres, monuments, and emotionally reusable scenes. Revision must separate those layers while preserving the possibility that interested traditions record genuine wrongdoing: Macbeth's wars remain violent, and Nero's murder of [[AgrippinaTheYounger|Agrippina]], coercive rule, and theatrical punishment prevent source criticism from becoming automatic exoneration.
 
-Popular voting is another active reputation mechanism. Vague criteria let voters rank achievement, moral character, political temperament, current controversy, and emotional allegiance at once. [[ClementAttlee|Attlee]] benefits from the living symbolic force of the [[NHS]] and Labour memory; Gladstone survives without an equivalent Liberal constituency through reform and moral seriousness; Lloyd George's achievements are discounted by misconduct; and Churchill's heroic international status becomes inseparable from culture-war dispute. [[36-our-greatest-prime-minister-glt9826873277]]
+Popular voting is another active reputation mechanism. Vague criteria let voters rank achievement, moral character, political temperament, current controversy, familiarity, and emotional allegiance at once. The first round shows vivid persona defeating administrative substance, recent controversy overwhelming electoral success, and concise schoolbook associations outperforming diffuse constitutional importance. [[35-the-prime-ministers-world-cup-glt6124252189]] The later rounds add living political constituencies: [[ClementAttlee|Attlee]] benefits from the symbolic force of the [[NHS]] and Labour memory; Gladstone survives without an equivalent Liberal constituency through reform and moral seriousness; Lloyd George's achievements are discounted by misconduct; and Churchill's heroic international status becomes inseparable from culture-war dispute. [[36-our-greatest-prime-minister-glt9826873277]]
 
 ## Key Claims
 
@@ -33,7 +34,7 @@ Popular voting is another active reputation mechanism. Vague criteria let voters
 - Literature, biography, religion, monuments, and performance make reputations portable through scene, object, phrase, and ritual.
 - Political and religious communities retain details that serve current legitimacy, persecution memory, or moral explanation.
 - Material remains can both challenge a legend and keep it physically present.
-- Parties, institutions, current events, and participatory media give some historical reputations stronger living constituencies than others.
+- Parties, institutions, current events, name recognition, vivid persona, and participatory media give some historical reputations stronger living constituencies than others.
 - Revision requires separating historical, dynastic, literary, religious, and reception layers without assuming any layer is neutral.
 
 ## Evidence
@@ -43,16 +44,18 @@ Popular voting is another active reputation mechanism. Vague criteria let voters
 - Convergent hostile memory: [[56-nero-glt7241559003]] joins senatorial writing, Christian apocalyptic tradition, and Flavian legitimacy to Nero's black legend.
 - Material and popular resistance: [[56-nero-glt7241559003]] preserves coins, archaeology, Nero's own public performances, continued posthumous appeal, and the Colossus as evidence that elite hostility never fully controlled his image.
 - Revision without exoneration: [[56-nero-glt7241559003]] treats fire accusation and lurid biography cautiously while retaining murder, coercion, and theatrical punishment in the current judgment.
+- Vividness and accessibility: [[35-the-prime-ministers-world-cup-glt6124252189]] contrasts Disraeli with Salisbury and Peel with Walpole to show memorable character and concise associations outperforming administrative or constitutional substance.
+- Platform and present controversy: [[35-the-prime-ministers-world-cup-glt6124252189]] makes Twitter audience skew explicit and uses Blair and Thatcher to show recent controversy reorganizing retrospective judgment.
 - Participatory ranking and living constituencies: [[36-our-greatest-prime-minister-glt9826873277]] links tournament outcomes to moral reputation, political archetype, party memory, current controversy, and the NHS as a durable symbol.
 
 ## Counterevidence & Qualifications
 
-The concept does not imply that every negative reputation is false or that later art and religion merely propagandize. Macbeth's rise and wars were violent; Nero's rule included murder and persecution. Nor can the causal weight of any single dynasty, author, monument, party, institution, current event, or audience be established from these episodes alone. Material evidence does not automatically defeat texts, and popularity does not establish benevolence or comparative greatness.
+The concept does not imply that every negative reputation is false or that later art and religion merely propagandize. Macbeth's rise and wars were violent; Nero's rule included murder and persecution. Nor can the causal weight of any single dynasty, author, monument, party, institution, current event, platform, or audience be established from these episodes alone. Material evidence does not automatically defeat texts, and popularity, familiarity, or vividness does not establish benevolence or comparative greatness.
 
 ## What Changed
 
-- Added public voting, party memory, symbolic institutions, and current controversy as mechanisms that give reputations unequal living constituencies.
-- Distinguished popularity under vague criteria from comparative historical merit.
+- Added vivid personality, name recognition, and concise schoolbook associations as mechanisms of public reputation.
+- Added platform composition as a boundary on interpreting audience-ranked historical figures.
 
 ## Related Concepts
 

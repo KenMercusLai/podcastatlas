@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12219
+wiki_total_pages: 12227
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -632,6 +632,12 @@ wiki_pages:
   - key: "WilliamPirrie"
     title: "William Pirrie"
     url: "/wiki/entities/williampirrie/"
+  - key: "WilliamPittTheElder"
+    title: "William Pitt the Elder"
+    url: "/wiki/entities/williampitttheelder/"
+  - key: "WilliamPittTheYounger"
+    title: "William Pitt the Younger"
+    url: "/wiki/entities/williampitttheyounger/"
   - key: "WilliamPynchon"
     title: "William Pynchon"
     url: "/wiki/entities/williampynchon/"

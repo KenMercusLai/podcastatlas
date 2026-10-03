@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [35. The Prime Ministers’ World Cup](sources/35-the-prime-ministers-world-cup-glt6124252189.md) — The Rest Is History first-round tournament on prime-ministerial reputation, Twitter audience bias, name recognition, vivid personality, and the gap between popularity and governing substance.
 - [How to Increase Motivation & Drive](sources/how-to-increase-motivation-drive-scim9999790924.md) — Early Huberman Lab episode on dopamine-driven wanting, pleasure-pain adaptation, reward prediction error, intermittent reinforcement, and motivation safety boundaries.
 - [36. Our Greatest Prime Minister](sources/36-our-greatest-prime-minister-glt9826873277.md) — The Rest Is History listener tournament on British prime ministers, moral reputation, political archetypes, living constituencies, and Attlee's victory over Gladstone.
 - [37. Spies, with Ben Macintyre](sources/37-spies-with-ben-macintyre-glt4382644548.md) — The Rest Is History with Ben Macintyre on fiction and espionage, wartime deception, Gordievsky and nuclear misperception, spy motives, historical impact, and archival limits.
@@ -3659,6 +3660,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [41. Persia](sources/41-persia-glt6414068538.md) — The Rest Is History conversation with Ali Ansari on Iran/Persia continuity, pre-Islamic empires, Zoroastrian influence, paradise gardens, and Persianate administration.
 
 ## Entities
+- [Benjamin Disraeli](entities/BenjaminDisraeli.md) — Conservative prime minister and novelist whose vivid persona outweighs Salisbury's administrative substance in the audience poll.
+- [Lord Salisbury](entities/LordSalisbury.md) — Three-time Conservative prime minister whose imperial-era and party significance exceed his present public recognition.
+- [Tony Blair](entities/TonyBlair.md) — Three-election Labour prime minister whose later reputation is dominated in the source by Iraq and post-office wealth.
+- [Lord Palmerston](entities/LordPalmerston.md) — Victorian prime minister associated with gunboat diplomacy, late accession, and modern reputational liabilities.
+- [William Pitt the Younger](entities/WilliamPittTheYounger.md) — Youngest British prime minister in the source, associated with reform, war leadership, anti-Jacobinism, and abolition.
+- [William Pitt the Elder](entities/WilliamPittTheElder.md) — Statesman credited with helping drive Seven Years' War victory and Britain's global imperial rise.
+- [Lord Liverpool](entities/LordLiverpool.md) — Long-serving post-Napoleonic prime minister whose stability is offset in public memory by Peterloo and weak recognition.
+- [Robert Peel](entities/RobertPeel.md) — Conservative prime minister remembered through Corn Law repeal and creation of the Metropolitan Police.
 - [Clement Attlee](entities/ClementAttlee.md) — Labour prime minister joining postwar welfare reform, patriotic statecraft, understated character, and a durable NHS-centered reputation.
 - [David Lloyd George](entities/DavidLloydGeorge.md) — Liberal reformer and wartime leader whose major achievements coexist with corruption, misconduct, and damaged moral reputation.
 - [Operation Mincemeat](entities/OperationMincemeat.md) — Allied wartime deception built around a fabricated identity, planted documents, neutral Spain, and intelligence feedback.

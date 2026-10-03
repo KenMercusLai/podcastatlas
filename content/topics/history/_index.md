@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2497
+topic_total_pages: 2498
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5676,6 +5676,9 @@ topic_sources:
   - key: "349-the-birth-of-the-united-states-part-3-glt9804967639"
     title: "349: The Birth of the United States (Part 3)"
     url: "/wiki/sources/349-the-birth-of-the-united-states-part-3-glt9804967639/"
+  - key: "35-the-prime-ministers-world-cup-glt6124252189"
+    title: "35. The Prime Ministers’ World Cup"
+    url: "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
   - key: "350-the-triumph-of-george-washington-part-4-glt1619660676"
     title: "350: The Triumph of George Washington (Part 4)"
     url: "/wiki/sources/350-the-triumph-of-george-washington-part-4-glt1619660676/"

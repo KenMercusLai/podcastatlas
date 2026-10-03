@@ -3510,6 +3510,13 @@
       "url": "/topics/history/"
     }
   ],
+  "35-the-prime-ministers-world-cup-glt6124252189": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "350-the-triumph-of-george-washington-part-4-glt1619660676": [
     {
       "key": "history",
@@ -16080,6 +16087,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "BenjaminDisraeli": [
     {
       "key": "politics",
       "label": "Politics",
@@ -51673,6 +51687,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "LordLiverpool": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LordOfLight": [
     {
       "key": "culture",
@@ -51687,7 +51708,21 @@
       "url": "/topics/culture/"
     }
   ],
+  "LordPalmerston": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LordRandolphChurchill": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "LordSalisbury": [
     {
       "key": "politics",
       "label": "Politics",
@@ -69732,6 +69767,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "RobertPeel": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RobertSapolsky": [
     {
       "key": "science",
@@ -81980,6 +82022,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "TonyBlair": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "TonyContentEngineer": [
     {
       "key": "technology",
@@ -87103,6 +87152,20 @@
     }
   ],
   "WilliamPirrie": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "WilliamPittTheElder": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "WilliamPittTheYounger": [
     {
       "key": "politics",
       "label": "Politics",

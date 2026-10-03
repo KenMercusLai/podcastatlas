@@ -5,7 +5,8 @@ tags: [history, entertainment, public-history, narrative, immersion]
 sources:
   - 40-history-as-entertainment-glt9519276470
   - 36-our-greatest-prime-minister-glt9826873277
-last_updated: 2026-10-03
+  - 35-the-prime-ministers-world-cup-glt6124252189
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,7 +20,7 @@ Historical entertainment is the presentation of the past through pleasurable nar
 
 [[40-history-as-entertainment-glt9519276470]] treats entertainment as intrinsic to historical communication from Herodotus onward, not as a modern dilution of serious history. Reenactments, theme parks, board games, and video games attract audiences through immediacy and agency, but those same forms necessarily select characters, conflicts, rules, environments, and outcomes. Entertainment can therefore generate curiosity and practical understanding while also naturalizing conquest, nationalism, violence, or a single model of development.
 
-Listener-voted historical tournaments add a low-cost participatory form. Sporting language, brackets, rivalry, and suspense attract attention, while deliberately vague criteria invite audiences to expose how achievement, character, archetype, party identity, current controversy, and inherited symbolism shape their judgments. The format produces useful discussion but not a stable comparative ranking. [[36-our-greatest-prime-minister-glt9826873277]]
+Listener-voted historical tournaments add a low-cost participatory form. Sporting language, brackets, rivalry, and suspense attract attention, while deliberately vague criteria invite audiences to expose how achievement, character, archetype, party identity, current controversy, inherited symbolism, and simple name recognition shape their judgments. The first-round recap makes audience composition explicit: a self-selected Twitter public is not a national electorate, and memorable personalities can defeat less vivid but administratively substantial figures. The concluding episode shows how moral judgment and living political constituencies then shape the later rounds. [[35-the-prime-ministers-world-cup-glt6124252189]] [[36-our-greatest-prime-minister-glt9826873277]]
 
 ## Key Claims
 
@@ -28,7 +29,7 @@ Listener-voted historical tournaments add a low-cost participatory form. Sportin
 - Every entertainment form interprets the past through selection, compression, rules, pacing, and viewpoint.
 - Violence and conflict are especially compatible with spectacle and clear game objectives, which can crowd out ordinary life and structural history.
 - Accuracy and fantasy are not simple opposites: audiences may want detailed texture while also wanting freedom to alter events.
-- Participatory voting can make reception itself visible, but its outcome depends on criteria, audience composition, timing, and living political constituencies.
+- Participatory voting can make reception itself visible, but its outcome depends on criteria, platform audience, name recognition, timing, and living political constituencies.
 
 ## Evidence
 
@@ -46,16 +47,17 @@ Listener-voted historical tournaments add a low-cost participatory form. Sportin
 
 ### Participation and public judgment
 
-- [[36-our-greatest-prime-minister-glt9826873277]] uses a knockout tournament to turn British prime ministers into contrasting archetypes and reveal the present-day constituencies behind their reputations.
+- [[35-the-prime-ministers-world-cup-glt6124252189]] uses first-round mismatches to expose name recognition, platform skew, vivid personality, and recent controversy as conditions of participation.
+- [[36-our-greatest-prime-minister-glt9826873277]] carries the knockout tournament to its conclusion, turning British prime ministers into contrasting archetypes and revealing the present-day constituencies behind their reputations.
 
 ## Counterevidence & Qualifications
 
-The sources range widely and conversationally; they do not compare learning outcomes across books, museums, games, reenactments, parks, or public voting. Enjoyment can motivate further inquiry, but neither immersion nor factual detail guarantees contextual understanding. Violence is common in the first source's examples without being the only viable basis for historical entertainment. A tournament result measures one participating audience under underspecified criteria, not historical merit.
+The sources range widely and conversationally; they do not compare learning outcomes across books, museums, games, reenactments, parks, or public voting. Enjoyment can motivate further inquiry, but neither immersion nor factual detail guarantees contextual understanding. Violence is common in the first source's examples without being the only viable basis for historical entertainment. The tournament measures a self-selected podcast audience voting on Twitter under underspecified criteria, not national opinion or historical merit; explanations for individual results remain interpretive.
 
 ## What Changed
 
-- Added listener voting and tournament structure as participatory historical entertainment.
-- Added the distinction between productive reputation discussion and valid comparative ranking.
+- Added platform audience and name recognition as explicit constraints on participatory historical tournaments.
+- Clarified that first-round mismatches can be analytically revealing without becoming valid comparative rankings.
 
 ## Related Concepts
 

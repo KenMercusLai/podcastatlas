@@ -22687,6 +22687,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/benitomussolini/"
     },
+    "BenjaminDisraeli": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6124252189 [GLT6124252189].md",
+          "key": "35-the-prime-ministers-world-cup-glt6124252189",
+          "show": "The Rest Is History",
+          "title": "35. The Prime Ministers’ World Cup",
+          "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/benjamindisraeli/"
+    },
     "BenjaminEidlis": {
       "episode_count": 1,
       "show_count": 1,
@@ -95381,9 +95397,9 @@
       "url": "/wiki/concepts/historicalcritiquetolerance/"
     },
     "HistoricalEntertainment": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9519276470 [GLT9519276470].md",
@@ -95398,9 +95414,16 @@
           "show": "The Rest Is History",
           "title": "36. Our Greatest Prime Minister",
           "url": "/wiki/sources/36-our-greatest-prime-minister-glt9826873277/"
+        },
+        {
+          "episode_file": "GLT6124252189 [GLT6124252189].md",
+          "key": "35-the-prime-ministers-world-cup-glt6124252189",
+          "show": "The Rest Is History",
+          "title": "35. The Prime Ministers’ World Cup",
+          "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/historicalentertainment/"
     },
     "HistoricalEntertainmentEthics": {
@@ -95851,9 +95874,9 @@
       "url": "/wiki/concepts/historicalreenactmentpolitics/"
     },
     "HistoricalReputationConstruction": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3313769671 [GLT3313769671].md",
@@ -95875,9 +95898,16 @@
           "show": "The Rest Is History",
           "title": "36. Our Greatest Prime Minister",
           "url": "/wiki/sources/36-our-greatest-prime-minister-glt9826873277/"
+        },
+        {
+          "episode_file": "GLT6124252189 [GLT6124252189].md",
+          "key": "35-the-prime-ministers-world-cup-glt6124252189",
+          "show": "The Rest Is History",
+          "title": "35. The Prime Ministers’ World Cup",
+          "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/historicalreputationconstruction/"
     },
     "HistoricalWorldviewReconstruction": {
@@ -128602,6 +128632,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/lordhalifax/"
     },
+    "LordLiverpool": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6124252189 [GLT6124252189].md",
+          "key": "35-the-prime-ministers-world-cup-glt6124252189",
+          "show": "The Rest Is History",
+          "title": "35. The Prime Ministers’ World Cup",
+          "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/lordliverpool/"
+    },
     "LordOfTheFlies": {
       "episode_count": 1,
       "show_count": 1,
@@ -128617,6 +128663,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/lordoftheflies/"
+    },
+    "LordPalmerston": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6124252189 [GLT6124252189].md",
+          "key": "35-the-prime-ministers-world-cup-glt6124252189",
+          "show": "The Rest Is History",
+          "title": "35. The Prime Ministers’ World Cup",
+          "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/lordpalmerston/"
     },
     "LordRandolphChurchill": {
       "episode_count": 2,
@@ -128640,6 +128702,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/lordrandolphchurchill/"
+    },
+    "LordSalisbury": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6124252189 [GLT6124252189].md",
+          "key": "35-the-prime-ministers-world-cup-glt6124252189",
+          "show": "The Rest Is History",
+          "title": "35. The Prime Ministers’ World Cup",
+          "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/lordsalisbury/"
     },
     "LordsAppellant": {
       "episode_count": 1,
@@ -177371,6 +177449,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/robertnapier/"
     },
+    "RobertPeel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6124252189 [GLT6124252189].md",
+          "key": "35-the-prime-ministers-world-cup-glt6124252189",
+          "show": "The Rest Is History",
+          "title": "35. The Prime Ministers’ World Cup",
+          "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/robertpeel/"
+    },
     "RobertSapolsky": {
       "episode_count": 2,
       "show_count": 2,
@@ -205889,6 +205983,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/tonybenn/"
     },
+    "TonyBlair": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6124252189 [GLT6124252189].md",
+          "key": "35-the-prime-ministers-world-cup-glt6124252189",
+          "show": "The Rest Is History",
+          "title": "35. The Prime Ministers’ World Cup",
+          "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/tonyblair/"
+    },
     "TonyHawk": {
       "episode_count": 1,
       "show_count": 1,
@@ -218859,6 +218969,38 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/williampirrie/"
+    },
+    "WilliamPittTheElder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6124252189 [GLT6124252189].md",
+          "key": "35-the-prime-ministers-world-cup-glt6124252189",
+          "show": "The Rest Is History",
+          "title": "35. The Prime Ministers’ World Cup",
+          "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/williampitttheelder/"
+    },
+    "WilliamPittTheYounger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6124252189 [GLT6124252189].md",
+          "key": "35-the-prime-ministers-world-cup-glt6124252189",
+          "show": "The Rest Is History",
+          "title": "35. The Prime Ministers’ World Cup",
+          "url": "/wiki/sources/35-the-prime-ministers-world-cup-glt6124252189/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/williampitttheyounger/"
     },
     "WilliamPynchon": {
       "episode_count": 1,

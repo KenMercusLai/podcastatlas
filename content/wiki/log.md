@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-04] ingest | 35. The Prime Ministers’ World Cup
+
+Added source `35-the-prime-ministers-world-cup-glt6124252189`; created bounded profiles for Benjamin Disraeli, Lord Salisbury, Tony Blair, Lord Palmerston, William Pitt the Younger, William Pitt the Elder, Lord Liverpool, and Robert Peel; and resynthesized historical entertainment and historical reputation construction from their complete preserved evidence inventories. Core synthesis: the first-round listener tournament reveals how a self-selected Twitter audience, name recognition, vivid personality, concise schoolbook associations, recent controversy, ideology, and living political memory can outweigh administrative or constitutional substance. No settled contradiction was adopted. Vote shares, individual voter motives, Thatcher's gendered reception, Palmerston's conduct, Pitt's abolitionism, Wilson's surveillance fears, and cross-era comparisons remain interpretive, compressed, or source-scoped. Established participant, recurring host, and show profiles were not changed where the episode added a bracket result but no durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,598-source coverage; no topic claim set was dirty and global compaction was not due.
+
 ## [2026-10-03] ingest | How to Increase Motivation & Drive
 
 Added source `how-to-increase-motivation-drive-scim9999790924`; resynthesized `DopamineWantingLoop`, `PleasurePainBalanceAddiction`, `RewardPredictionErrorLearning`, `DopaminePeakTroughBaseline`, and `IntermittentReinforcement` from their complete preserved evidence inventories. Core synthesis: dopamine is more useful here as a model of wanting, effort, pursuit, and expectation-sensitive learning than as a synonym for pleasure; repeated intense rewards can recruit opposing discomfort and reduce ordinary reward sensitivity; and intermittent reinforcement changes persistence but is ethically and behaviorally different when self-chosen and low-stakes versus externally controlled. No settled contradiction was adopted. Exact dopamine multipliers, light-at-night timing, rat-study generalization, neurotransmitter contrasts, prolactin mechanisms, supplement effects, stimulant expectations, and selective-reward protocols remain source-scoped or clinically bounded. Recurring host and show pages were not changed because the episode adds early mechanism provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,597-source coverage; no topic claim set was dirty and global compaction was not due.
@@ -28786,5 +28790,9 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
