@@ -7866,6 +7866,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/agilityrobotics/"
     },
+    "AgnesPoirier": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6186083108 [GLT6186083108].md",
+          "key": "57-paris-glt6186083108",
+          "show": "The Rest Is History",
+          "title": "57. Paris",
+          "url": "/wiki/sources/57-paris-glt6186083108/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/agnespoirier/"
+    },
     "Agojie": {
       "episode_count": 1,
       "show_count": 1,
@@ -82451,6 +82467,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/georgesdanton/"
     },
+    "GeorgesEugeneHaussmann": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6186083108 [GLT6186083108].md",
+          "key": "57-paris-glt6186083108",
+          "show": "The Rest Is History",
+          "title": "57. Paris",
+          "url": "/wiki/sources/57-paris-glt6186083108/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/georgeseugenehaussmann/"
+    },
     "GeorgesPompidou": {
       "episode_count": 3,
       "show_count": 1,
@@ -90635,6 +90667,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/hatuey/"
+    },
+    "HaussmannianUrbanModernization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6186083108 [GLT6186083108].md",
+          "key": "57-paris-glt6186083108",
+          "show": "The Rest Is History",
+          "title": "57. Paris",
+          "url": "/wiki/sources/57-paris-glt6186083108/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/haussmannianurbanmodernization/"
     },
     "Hawaii": {
       "episode_count": 2,
@@ -148192,6 +148240,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/northernxiongnulatehan/"
     },
+    "NotreDameDeParis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6186083108 [GLT6186083108].md",
+          "key": "57-paris-glt6186083108",
+          "show": "The Rest Is History",
+          "title": "57. Paris",
+          "url": "/wiki/sources/57-paris-glt6186083108/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/notredamedeparis/"
+    },
     "NovusHomoOutsiderPolitics": {
       "episode_count": 1,
       "show_count": 1,
@@ -154312,9 +154376,9 @@
       "url": "/wiki/concepts/parentingsturdiness/"
     },
     "Paris": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Bots on the ground： China leads humanoid race [6a91564cee851f3f31239bbf].md",
@@ -154322,10 +154386,33 @@
           "show": "Economist Podcasts",
           "title": "Bots on the ground: China leads humanoid race",
           "url": "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+        },
+        {
+          "episode_file": "GLT6186083108 [GLT6186083108].md",
+          "key": "57-paris-glt6186083108",
+          "show": "The Rest Is History",
+          "title": "57. Paris",
+          "url": "/wiki/sources/57-paris-glt6186083108/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/paris/"
+    },
+    "ParisAsSymbolicCapital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6186083108 [GLT6186083108].md",
+          "key": "57-paris-glt6186083108",
+          "show": "The Rest Is History",
+          "title": "57. Paris",
+          "url": "/wiki/sources/57-paris-glt6186083108/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/parisassymboliccapital/"
     },
     "ParisForeignMissionsSociety": {
       "episode_count": 1,

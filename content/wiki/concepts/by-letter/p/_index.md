@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9463
+wiki_total_pages: 9465
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "ParentingSturdiness"
     title: "Parenting Sturdiness"
     url: "/wiki/concepts/parentingsturdiness/"
+  - key: "ParisAsSymbolicCapital"
+    title: "Paris as Symbolic Capital"
+    url: "/wiki/concepts/parisassymboliccapital/"
   - key: "ParkingCostInternalization"
     title: "Parking Cost Internalization"
     url: "/wiki/concepts/parkingcostinternalization/"

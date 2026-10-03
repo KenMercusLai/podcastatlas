@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 12168
+wiki_total_pages: 12171
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "NotebookLM"
     title: "NotebookLM"
     url: "/wiki/entities/notebooklm/"
+  - key: "NotreDameDeParis"
+    title: "Notre-Dame de Paris"
+    url: "/wiki/entities/notredamedeparis/"
   - key: "NovoNordisk"
     title: "Novo Nordisk"
     url: "/wiki/entities/novonordisk/"

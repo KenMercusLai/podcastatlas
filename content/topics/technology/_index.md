@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3283
+topic_total_pages: 3284
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2386,6 +2386,9 @@ topic_concepts:
   - key: "HarnessEngineering"
     title: "Harness Engineering"
     url: "/wiki/concepts/harnessengineering/"
+  - key: "HaussmannianUrbanModernization"
+    title: "Haussmannian Urban Modernization"
+    url: "/wiki/concepts/haussmannianurbanmodernization/"
   - key: "HealthcareAIInfrastructure"
     title: "Healthcare AI Infrastructure"
     url: "/wiki/concepts/healthcareaiinfrastructure/"

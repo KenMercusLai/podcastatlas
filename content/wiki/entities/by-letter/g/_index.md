@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12168
+wiki_total_pages: 12171
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "GeorgesPompidou"
     title: "Georges Pompidou"
     url: "/wiki/entities/georgespompidou/"
+  - key: "GeorgesEugeneHaussmann"
+    title: "Georges-Eugène Haussmann"
+    url: "/wiki/entities/georgeseugenehaussmann/"
   - key: "GeorgetownLawCenterOnPrivacyTechnology"
     title: "Georgetown Law Center on Privacy and Technology"
     url: "/wiki/entities/georgetownlawcenteronprivacytechnology/"

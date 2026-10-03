@@ -5269,6 +5269,13 @@
       "url": "/topics/history/"
     }
   ],
+  "57-paris-glt6186083108": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "570-hannibal-the-invasion-of-italy-part-3-glt2952414067": [
     {
       "key": "history",
@@ -39739,6 +39746,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "HaussmannianUrbanModernization": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "HawaiianMonarchyForeignPressure": [

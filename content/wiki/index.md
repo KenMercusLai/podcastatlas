@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [57. Paris](sources/57-paris-glt6186083108.md) — The Rest Is History with Agnès Poirier on Paris as layered symbolic capital, from medieval institutional density through revolution, Haussmann, occupation, liberation, and the Left Bank.
 - [58. The World Cup of Gods - Part 1](sources/58-the-world-cup-of-gods-part-1-glt8884399326.md) — The Rest Is History tournament on ambiguous gods, violent and regenerative cults, ruler deification, saintly accretion, literary afterlives, and modern worship.
 - [Science of Muscle Growth, Increasing Strength & Muscular Recovery](sources/scim1817217176-scim1817217176.md) — Early Huberman Lab episode on neuromuscular strength and hypertrophy, lactate, recovery monitoring, soreness, cold and anti-inflammatory tradeoffs, and nutrition support.
 - [59. The World Cup of Gods - Part 2](sources/59-the-world-cup-of-gods-part-2-glt6474253297.md) — The Rest Is History tournament on Athena, Odin, Greek, Roman, Egyptian, and Mithraic gods as changing products of ritual, politics, literature, syncretism, and reception.
@@ -15831,6 +15832,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cleomenes I](entities/CleomenesI.md) — Spartan king whose Athenian interventions, Argive violence, royal counsel, and disputed death survive chiefly through Herodotean tradition.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
+- [Agnès Poirier](entities/AgnesPoirier.md) — French journalist and author interpreting Paris through history, monuments, political culture, and personal memory.
+- [Notre-Dame de Paris](entities/NotreDameDeParis.md) — Medieval cathedral linking Parisian growth, national ceremony, the 1944 liberation, and the global shock of the 2019 fire.
+- [Georges-Eugène Haussmann](entities/GeorgesEugeneHaussmann.md) — Second Empire administrator whose infrastructure and demolitions decisively reshaped modern Paris.
+
 ## Concepts
 - [Pandemic Cross-Border Decision Compression](concepts/PandemicCrossBorderDecisionCompression.md) — Crisis process that forces deferred choices about country, family, study, work, and belonging under a suddenly narrower option set.
 - [Return-Migration Career Discontinuity](concepts/ReturnMigrationCareerDiscontinuity.md) — Break between experience accumulated abroad and the roles, signals, pay, and working conditions recognized after return.
@@ -25350,5 +25355,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Teacher Assessment Bias](concepts/TeacherAssessmentBias.md) — Risk that contextual teacher judgment systematically reflects expectations, behavior history, disability perceptions, or class signals.
 - [Spartan Social Order](concepts/SpartanSocialOrder.md) — System joining citizen military discipline to helot agriculture, perioikoi production, revolt fear, status contraction, and strategic rigidity.
 - [Sparta Mirage](concepts/SpartaMirage.md) — Source-critical gap between historical Sparta and its outsider, heroic, ideological, educational, and cinematic representations.
+
+- [Paris as Symbolic Capital](concepts/ParisAsSymbolicCapital.md) — Framework joining Paris's institutional density, revolutionary theater, national centrality, built image, and global mythology.
+- [Haussmannian Urban Modernization](concepts/HaussmannianUrbanModernization.md) — Model of coordinated urban infrastructure and public-health improvement inseparable from demolition, displacement, and inherited loss.
 
 ## Syntheses

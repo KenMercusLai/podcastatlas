@@ -28468,3 +28468,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 57. Paris
+
+Added source `57-paris-glt6186083108`; created `AgnesPoirier`, `NotreDameDeParis`, `GeorgesEugeneHaussmann`, `ParisAsSymbolicCapital`, and `HaussmannianUrbanModernization`; and resynthesized `Paris` from its complete preserved evidence inventory. Core synthesis: Paris's global force comes from accumulated royal, religious, university, commercial, artistic, revolutionary, and national roles, while its myth remains inseparable from disease, violence, demolition, occupation, political failure, and disappointment. No settled contradiction was adopted. Medieval population figures, 1944 crowd claims, comparative national-political judgments, the Commune assessment, and claims about American reception of French theory remain source-scoped. Recurring show, host, French-state, revolution, Dreyfus, de Gaulle, and intellectual pages were not changed because the episode adds no durable identity update beyond the selected city synthesis. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,558-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

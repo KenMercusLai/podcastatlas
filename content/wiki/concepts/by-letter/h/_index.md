@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9463
+wiki_total_pages: 9465
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "HateSpeechCriminalizationTradeoff"
     title: "Hate-Speech Criminalization Tradeoff"
     url: "/wiki/concepts/hatespeechcriminalizationtradeoff/"
+  - key: "HaussmannianUrbanModernization"
+    title: "Haussmannian Urban Modernization"
+    url: "/wiki/concepts/haussmannianurbanmodernization/"
   - key: "HawaiianMonarchyForeignPressure"
     title: "Hawaiian Monarchy under Foreign Pressure"
     url: "/wiki/concepts/hawaiianmonarchyforeignpressure/"
