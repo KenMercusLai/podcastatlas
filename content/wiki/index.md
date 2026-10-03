@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Lose Fat With Science-Based Tools](sources/scim2441056488-scim2441056488.md) — Full Huberman Lab episode on energy balance, nervous-system control of fat use, NEAT, shivering thermogenesis, exercise sequencing, and safety-bounded secondary compounds.
 - [57. Paris](sources/57-paris-glt6186083108.md) — The Rest Is History with Agnès Poirier on Paris as layered symbolic capital, from medieval institutional density through revolution, Haussmann, occupation, liberation, and the Left Bank.
 - [58. The World Cup of Gods - Part 1](sources/58-the-world-cup-of-gods-part-1-glt8884399326.md) — The Rest Is History tournament on ambiguous gods, violent and regenerative cults, ruler deification, saintly accretion, literary afterlives, and modern worship.
 - [Science of Muscle Growth, Increasing Strength & Muscular Recovery](sources/scim1817217176-scim1817217176.md) — Early Huberman Lab episode on neuromuscular strength and hypertrophy, lactate, recovery monitoring, soreness, cold and anti-inflammatory tradeoffs, and nutrition support.
