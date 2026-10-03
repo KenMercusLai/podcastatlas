@@ -5615,9 +5615,25 @@
         "DengXiaoping",
         "ZhaoZiyang"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "football-governance-joins-codification-labor-and-local-appropriation",
+      "qualifications": [
+        "The episode's broad causal links, wage figures, political motives, and later transcript chronology remain source-scoped.",
+        "Institutional diffusion does not imply permanent British ownership of football's local meanings."
+      ],
+      "statement": "[[33-the-beautiful-game-glt5860295083|The Beautiful Game]] adds a sports-governance sequence: codified rules and British-linked institutions enabled diffusion, local communities converted the game into their own civic and national culture, and later wage, transfer, media, and gender-access rules redistributed power among clubs, players, supporters, and excluded participants through [[FootballImperialNetworkDiffusion]], [[SportsPlayerAutonomy]], and [[WomensFootballVisibility]].",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "33-the-beautiful-game-glt5860295083",
+        "FootballImperialNetworkDiffusion",
+        "SportsPlayerAutonomy",
+        "WomensFootballVisibility"
+      ]
     }
   ],
-  "input_digest": "e272cc85a25b97e977b8cbcc58155884285d8f3fe1b37bc052c9f82e4c6d9c30",
+  "input_digest": "09035f3705c71683fc4fcff5c5cb8c70d85e7fed8d4bfda6fd3f42ca2aa0d374",
   "summary": "Across historical and modern cases, governance depends on more than formal rules: legitimacy, succession, appointments, information channels, administrative capacity, coercion, market design, public symbols, accountability, and implementation incentives determine whether institutions can act and whether their action remains bounded. The corpus repeatedly shows capacity as bidirectional—able to coordinate welfare, infrastructure, reform, safety, and peaceful transfer, but also surveillance, exclusion, plunder, repression, blame shifting, and violence—so current judgments distinguish procedure from power interest, visible evidence from inferred motive, and effective coordination from legitimate authority. The Hong Kong financial-media addition extends this to newsroom governance: cross-faction judgment, advertiser resistance, evidence-based correction, operational resilience, and ownership structure jointly determine whether public explanation remains autonomous. Claims of independence, like broader claims of legitimate authority, remain open to evidence and source limitations.",
   "topic_id": "governance-and-institutions"
 }

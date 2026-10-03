@@ -75281,6 +75281,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/foodservicebeachheadscaling/"
     },
+    "FootballAsMassCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5860295083 [GLT5860295083].md",
+          "key": "33-the-beautiful-game-glt5860295083",
+          "show": "The Rest Is History",
+          "title": "33. The Beautiful Game",
+          "url": "/wiki/sources/33-the-beautiful-game-glt5860295083/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/footballasmassculture/"
+    },
     "FootballClubAsCommunityAsset": {
       "episode_count": 4,
       "show_count": 4,
@@ -75367,9 +75383,9 @@
       "url": "/wiki/concepts/footballfootwearmarketentry/"
     },
     "FootballImperialNetworkDiffusion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2171290588 [GLT2171290588].md",
@@ -75377,9 +75393,16 @@
           "show": "The Rest Is History",
           "title": "252. The World Cup: British Imperialism, South American rivalries, and Mussolini (Part 1)",
           "url": "/wiki/sources/252-the-world-cup-british-imperialism-south-american-rivalries-and-mussolini-part-1-glt2171290588/"
+        },
+        {
+          "episode_file": "GLT5860295083 [GLT5860295083].md",
+          "key": "33-the-beautiful-game-glt5860295083",
+          "show": "The Rest Is History",
+          "title": "33. The Beautiful Game",
+          "url": "/wiki/sources/33-the-beautiful-game-glt5860295083/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/footballimperialnetworkdiffusion/"
     },
     "FootballYouthAcademyContinuity": {
@@ -113802,6 +113825,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/jonathankeats/"
+    },
+    "JonathanWilsonFootballWriter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5860295083 [GLT5860295083].md",
+          "key": "33-the-beautiful-game-glt5860295083",
+          "show": "The Rest Is History",
+          "title": "33. The Beautiful Game",
+          "url": "/wiki/sources/33-the-beautiful-game-glt5860295083/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/jonathanwilsonfootballwriter/"
     },
     "JorgeAnaya": {
       "episode_count": 1,
@@ -192902,6 +192941,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/sportscapitalcannotbuylegitimacy/"
     },
+    "SportsFandomNetworkEffects": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_10701ebbc7bfab728b0d90d814218d73_28143355 [default.mp3_ywr3ahjkcgo_10701ebbc7bfab728b0d90d814218d73_28143355].md",
+          "key": "can-world-cup-mania-grow-mls-in-the-us",
+          "show": "Planet Money",
+          "title": "Can World Cup mania grow MLS in the U.S.?",
+          "url": "/wiki/sources/can-world-cup-mania-grow-mls-in-the-us/"
+        },
+        {
+          "episode_file": "GLT5860295083 [GLT5860295083].md",
+          "key": "33-the-beautiful-game-glt5860295083",
+          "show": "The Rest Is History",
+          "title": "33. The Beautiful Game",
+          "url": "/wiki/sources/33-the-beautiful-game-glt5860295083/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/sportsfandomnetworkeffects/"
+    },
     "SportsLifestyleConsumption": {
       "episode_count": 7,
       "show_count": 4,
@@ -193005,6 +193067,36 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/sportsparticipationoverwinning/"
+    },
+    "SportsPlayerAutonomy": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_c8ff88dd95079a214d90ec0effc42c2e_30207655 [default.mp3_ywr3ahjkcgo_c8ff88dd95079a214d90ec0effc42c2e_30207655].md",
+          "key": "how-we-got-free-agents-in-baseball",
+          "show": "Planet Money",
+          "title": "How we got free agents in baseball",
+          "url": "/wiki/sources/how-we-got-free-agents-in-baseball/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_82086d387202979b5bea7e27dddc82a8_32416568 [default.mp3_ywr3ahjkcgo_82086d387202979b5bea7e27dddc82a8_32416568].md",
+          "key": "planet-money-vs-the-nbas-tanking-problem",
+          "show": "Planet Money",
+          "title": "Planet Money vs. the NBA's tanking problem",
+          "url": "/wiki/sources/planet-money-vs-the-nbas-tanking-problem/"
+        },
+        {
+          "episode_file": "GLT5860295083 [GLT5860295083].md",
+          "key": "33-the-beautiful-game-glt5860295083",
+          "show": "The Rest Is History",
+          "title": "33. The Beautiful Game",
+          "url": "/wiki/sources/33-the-beautiful-game-glt5860295083/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/sportsplayerautonomy/"
     },
     "SportsPoliticalInterference": {
       "episode_count": 3,
@@ -219806,9 +219898,9 @@
       "url": "/wiki/concepts/womenworkplaceprogressstall/"
     },
     "WomensFootballVisibility": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "赵丽娜：在场比赢重要；门将的信心、直觉与热爱 [229fde7d-d39d-4f7c-a33d-607f5370fc60].md",
@@ -219816,9 +219908,16 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱",
           "url": "/wiki/sources/zhao-lina-zaichang-bi-ying-zhongyao-menjiang-de-xinxin-zhijue-yu-reai-229fde7d-d39d-4f7c-a33d-607f5370fc60/"
+        },
+        {
+          "episode_file": "GLT5860295083 [GLT5860295083].md",
+          "key": "33-the-beautiful-game-glt5860295083",
+          "show": "The Rest Is History",
+          "title": "33. The Beautiful Game",
+          "url": "/wiki/sources/33-the-beautiful-game-glt5860295083/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/womensfootballvisibility/"
     },
     "WomensHealthDiagnosticGap": {

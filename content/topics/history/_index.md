@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2499
+topic_total_pages: 2500
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5619,6 +5619,9 @@ topic_sources:
   - key: "329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279"
     title: "329: Coronations: Chaos, Ceremony and Empire (Part 3)"
     url: "/wiki/sources/329-coronations-chaos-ceremony-and-empire-part-3-glt8755026279/"
+  - key: "33-the-beautiful-game-glt5860295083"
+    title: "33. The Beautiful Game"
+    url: "/wiki/sources/33-the-beautiful-game-glt5860295083/"
   - key: "330-herodotus-the-birth-of-history-glt7158094581"
     title: "330: Herodotus: The Birth of History"
     url: "/wiki/sources/330-herodotus-the-birth-of-history-glt7158094581/"

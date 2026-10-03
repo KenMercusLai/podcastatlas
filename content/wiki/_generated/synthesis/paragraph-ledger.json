@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "299dbc3075a3b1904939b52650009dd5344c8d74c6fd01466c0c82b109a610b0",
       "bbc9d3299e2f5a46b71a984ffb8b7d937abe2c7a467a4d595c2626624e0664bd",
       "7dde7eaae3c6f328bcf2828bece9fa5c46f700d145542c9dad39c7e60954c10d",
       "dd672fa1717539f5dab38c305a59d9e88f2c0107b86b402b31375065d636b313",
@@ -781,11 +782,38 @@
       "16601a21e79111590dec9aaa39aaf37cda533c18f62b03ad841cc2b74da82008",
       "63a515e020a9c43959a46584faeb8b50d6d1df53ac7fcb6403fbaa521cb5881a"
     ],
-    "paragraph_count": 779
+    "paragraph_count": 780
   },
-  "overview_commit": "a64134c9858ab0a77ac87eb8e7181ac062e4f232",
-  "overview_digest": "7c027771374db728588fb823bce6975e1d5a3797a434a6abd13b8c265338d116",
+  "overview_commit": "9a4d3e92e98185545fafa3fd1c086da75fec7d86",
+  "overview_digest": "5820ae9d947aa49a822d4834fa2969973718a567ce757e10a236d2f08c5a9b10",
   "paragraphs": [
+    {
+      "id": "299dbc3075a3b1904939b52650009dd5344c8d74c6fd01466c0c82b109a610b0",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "culture-and-media",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[33-the-beautiful-game-glt5860295083|33. The Beautiful Game]], a [[TheRestIsHistory]] episode with [[JonathanWilsonFootballWriter|Jonathan Wilson]] and [[DominicSandbrook]] on football as modern mass culture. It adds [[JonathanWilsonFootballWriter]] and [[FootballAsMassCulture]], while resynthesizing [[FootballImperialNetworkDiffusion]], [[SportsFandomNetworkEffects]], [[SportsPlayerAutonomy]], and [[WomensFootballVisibility]] from their complete evidence inventories. Its core synthesis is that codified rules became a global institution through schools, churches, industrial towns, commercial and migratory networks, Saturday leisure, clubs, family inheritance, media, and labor-law change; Argentina shows transmission becoming locally owned national identity rather than permanent British cultural control. No settled contradiction is recorded. Cultural readings of playing style, wage and audience figures, political motives, women's-football chronology, and claims from the garbled later transcript remain source-scoped or qualified.",
+      "topic_scores": {
+        "culture-and-media": 3,
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "33-the-beautiful-game-glt5860295083",
+        "DominicSandbrook",
+        "FootballAsMassCulture",
+        "FootballImperialNetworkDiffusion",
+        "JonathanWilsonFootballWriter",
+        "SportsFandomNetworkEffects",
+        "SportsPlayerAutonomy",
+        "TheRestIsHistory",
+        "WomensFootballVisibility"
+      ]
+    },
     {
       "id": "bbc9d3299e2f5a46b71a984ffb8b7d937abe2c7a467a4d595c2626624e0664bd",
       "primary_topic": "governance-and-institutions",

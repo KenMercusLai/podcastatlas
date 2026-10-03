@@ -28797,9 +28797,17 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-04] ingest | 33. The Beautiful Game
+
+Added source `33-the-beautiful-game-glt5860295083`; created the bounded [[JonathanWilsonFootballWriter|Jonathan Wilson]] profile and [[FootballAsMassCulture]] concept; and resynthesized [[FootballImperialNetworkDiffusion]], [[SportsFandomNetworkEffects]], [[SportsPlayerAutonomy]], and [[WomensFootballVisibility]] from their complete preserved evidence inventories. Core synthesis: modern football became mass culture through codification, industrial leisure, civic clubs, informal commercial and educational networks, local national appropriation, inherited fandom, media, and labor-law change. No settled contradiction was adopted. Cultural-style readings, wage and audience figures, political motives, exact women's-football chronology, and claims drawn from the garbled later transcript remain source-scoped or qualified.
+
 ## [2026-10-04] ingest | 34. St Cuthbert’s Day
 
 Added source `34-st-cuthberts-day-glt9977520388`; created bounded profiles for St Cuthbert and Lindisfarne; created `SaintRelicPoliticalAuthority` and `CrossClassChristianConversion`; and resynthesized `SaintLegendAccretion` and `PatronSaintSymbolicPlasticity` from their complete preserved evidence inventories. Core synthesis: Cuthbert's near-memory hagiography joins elite renunciation, care for vulnerable people, miracle convention, pilgrimage, relic custody, land, and royal patronage, while later custodians redirect the saint from Northumbrian charity toward dynastic, territorial, gendered, and national uses. No settled contradiction was adopted. Birthplace, class, individual miracles, bodily incorruption, royal ritual details, ruler motives, the Reformation body's condition, and the wartime fog story remain hagiographic, interpretive, or source-scoped. Recurring host, show, and royal profiles were not changed where the episode added a bounded cult tradition rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,599-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-04] lint | Wiki health check
 

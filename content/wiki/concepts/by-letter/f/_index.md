@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9537
+wiki_total_pages: 9538
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -824,6 +824,9 @@ wiki_pages:
   - key: "FootballAsEconomicLaboratory"
     title: "Football As Economic Laboratory"
     url: "/wiki/concepts/footballaseconomiclaboratory/"
+  - key: "FootballAsMassCulture"
+    title: "Football as Mass Culture"
+    url: "/wiki/concepts/footballasmassculture/"
   - key: "FootballClubAsCommunityAsset"
     title: "Football Club As Community Asset"
     url: "/wiki/concepts/footballclubascommunityasset/"

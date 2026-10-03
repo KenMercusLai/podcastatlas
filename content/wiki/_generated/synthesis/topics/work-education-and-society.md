@@ -3,9 +3,9 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-09-29
-as_of_overview_commit: 3ad527d05b7b8f83de9312fcae14f19d2fc98542
-input_digest: 48a91f9e66749d373f678f61bf2384383c1aeb563ad7e71cef5a97423fbbade2
+last_updated: 2026-10-04
+as_of_overview_commit: 9a4d3e92e98185545fafa3fd1c086da75fec7d86
+input_digest: 1cdbd8110843752d57755fac9d87a3392fa55b9cbca7a43a1a260605ad8009ef
 ---
 
 # Work, Education, and Society
@@ -1290,3 +1290,14 @@ The Conti series enters work and society through [[MentalHealthStructureFunction
 - The source is a December 2022 public-education episode rather than an individualized anesthetic, analgesic, obstetric, spinal, or recovery plan.
 - Historical labor-analgesia coverage estimates are unsourced and should not be treated as current prevalence.
 - Dosing, lockout intervals, neuraxial eligibility, ambulation, delivery mode, newborn effects, eye-anesthesia choices, and emergency authority depend on the patient, procedure, institution, and clinical team.
+
+### Football Culture Links Leisure Labor Mobility And Access
+
+[[33-the-beautiful-game-glt5860295083|The football-history episode]] adds a work-and-society case: industrial time and Saturday leisure supported club culture, restrictive wage and transfer systems limited player mobility, and later legal change expanded [[SportsPlayerAutonomy]], while [[WomensFootballVisibility]] preserves the access and institutional-memory costs of exclusion.
+
+**Evidence:** [[33-the-beautiful-game-glt5860295083]], [[SportsPlayerAutonomy]], [[WomensFootballVisibility]]
+
+**Qualifications:**
+
+- The episode is a structured conversational summary rather than a labor-history dataset or complete account of women's football.
+- Maximum-wage, audience, and chronology claims remain source-scoped, especially where the later transcript was garbled.

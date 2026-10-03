@@ -3,9 +3,9 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-10-03
-as_of_overview_commit: 6cf990759673d25af2323874866387c9894ab716
-input_digest: e272cc85a25b97e977b8cbcc58155884285d8f3fe1b37bc052c9f82e4c6d9c30
+last_updated: 2026-10-04
+as_of_overview_commit: 9a4d3e92e98185545fafa3fd1c086da75fec7d86
+input_digest: 09035f3705c71683fc4fcff5c5cb8c70d85e7fed8d4bfda6fd3f42ca2aa0d374
 ---
 
 # Governance and Institutions
@@ -2749,3 +2749,14 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 - The episode is a broad narrative-history synthesis and does not settle the causal share of central direction, local government, grassroots enterprise, foreign expertise, labor mobilization, or individual leaders.
 - Cultural Revolution memory helps explain threat perception without justifying repression or proving that military force was inevitable.
 - Leadership motives, casualty scale, and counterfactual political outcomes remain source-scoped.
+
+### Football Governance Joins Codification Labor And Local Appropriation
+
+[[33-the-beautiful-game-glt5860295083|The Beautiful Game]] adds a sports-governance sequence: codified rules and British-linked institutions enabled diffusion, local communities converted the game into their own civic and national culture, and later wage, transfer, media, and gender-access rules redistributed power among clubs, players, supporters, and excluded participants through [[FootballImperialNetworkDiffusion]], [[SportsPlayerAutonomy]], and [[WomensFootballVisibility]].
+
+**Evidence:** [[33-the-beautiful-game-glt5860295083]], [[FootballImperialNetworkDiffusion]], [[SportsPlayerAutonomy]], [[WomensFootballVisibility]]
+
+**Qualifications:**
+
+- The episode's broad causal links, wage figures, political motives, and later transcript chronology remain source-scoped.
+- Institutional diffusion does not imply permanent British ownership of football's local meanings.
