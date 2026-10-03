@@ -33437,9 +33437,9 @@
       "url": "/wiki/entities/cheerchanyu/"
     },
     "Chemosensation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "02026-jue-podcast-v2 [02026-jue-podcast-v2].md",
@@ -33461,9 +33461,16 @@
           "show": "Huberman Lab",
           "title": "How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
           "url": "/wiki/sources/how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783/"
+        },
+        {
+          "episode_file": "SCIM5509060027 [SCIM5509060027].md",
+          "key": "how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027",
+          "show": "Huberman Lab",
+          "title": "How Smell, Taste & Pheromone-Like Chemicals Control You",
+          "url": "/wiki/sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/chemosensation/"
     },
     "ChenAnni": {
@@ -98017,9 +98024,9 @@
       "url": "/wiki/concepts/humancenteredaieducation/"
     },
     "HumanChemicalSignaling": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM3853502826 [SCIM3853502826].md",
@@ -98041,9 +98048,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Love, Desire and Attachment",
           "url": "/wiki/sources/the-science-of-love-desire-and-attachment-scim1112390541/"
+        },
+        {
+          "episode_file": "SCIM5509060027 [SCIM5509060027].md",
+          "key": "how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027",
+          "show": "Huberman Lab",
+          "title": "How Smell, Taste & Pheromone-Like Chemicals Control You",
+          "url": "/wiki/sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/humanchemicalsignaling/"
     },
     "HumanCommunityDataLicensing": {
@@ -102752,9 +102766,9 @@
       "url": "/wiki/concepts/ingredientflavorlabeltransparency/"
     },
     "InhalationArousalLearning": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM3853502826 [SCIM3853502826].md",
@@ -102783,9 +102797,16 @@
           "show": "Huberman Lab",
           "title": "Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
           "url": "/wiki/sources/breathing-for-mental-physical-health-performance-dr-jack-feldman-scim4863659802/"
+        },
+        {
+          "episode_file": "SCIM5509060027 [SCIM5509060027].md",
+          "key": "how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027",
+          "show": "Huberman Lab",
+          "title": "How Smell, Taste & Pheromone-Like Chemicals Control You",
+          "url": "/wiki/sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/inhalationarousallearning/"
     },
     "InjuryRecoveryAdherence": {
@@ -148934,9 +148955,9 @@
       "url": "/wiki/concepts/olfactoryhealthsignal/"
     },
     "OlfactoryTraining": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -148958,9 +148979,16 @@
           "show": "Huberman Lab",
           "title": "How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
           "url": "/wiki/sources/how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783/"
+        },
+        {
+          "episode_file": "SCIM5509060027 [SCIM5509060027].md",
+          "key": "how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027",
+          "show": "Huberman Lab",
+          "title": "How Smell, Taste & Pheromone-Like Chemicals Control You",
+          "url": "/wiki/sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/olfactorytraining/"
     },
     "OlgaOfKiev": {
@@ -196216,9 +196244,9 @@
       "url": "/wiki/concepts/tasteidentityvalencecircuit/"
     },
     "TasteNutrientHazardDetection": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3853502826 [SCIM3853502826].md",
@@ -196233,9 +196261,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
           "url": "/wiki/sources/the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386/"
+        },
+        {
+          "episode_file": "SCIM5509060027 [SCIM5509060027].md",
+          "key": "how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027",
+          "show": "Huberman Lab",
+          "title": "How Smell, Taste & Pheromone-Like Chemicals Control You",
+          "url": "/wiki/sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/tastenutrienthazarddetection/"
     },
     "TateWalker": {

@@ -3602,6 +3602,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [85. Sherlock Holmes](sources/85-sherlock-holmes-glt8342867383.md) — The Rest Is History on Holmes as Victorian cultural myth, Doyle’s medical and spiritualist contradictions, imperial anxiety, scientific detection, visual iconography, and fandom.
 - [How to Control Your Sense of Pain & Pleasure](sources/scim2452395341-scim2452395341.md) — Early Huberman Lab solo episode on context-sensitive pain and pleasure, sensory maps, expectation, dopamine anticipation, opponent-process adaptation, and bounded pain tools.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
+- [How Smell, Taste & Pheromone-Like Chemicals Control You](sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027.md) — Full Huberman Lab episode on olfactory pathways, sniffing and respiratory phase, smell training, gustatory and gut nutrient sensing, and the boundary between human chemical effects and established pheromones.
 
 ## Entities
 - [Roger Clarke](entities/RogerClarke.md) — Writer and cultural historian who asks what different periods want ghosts to mean.

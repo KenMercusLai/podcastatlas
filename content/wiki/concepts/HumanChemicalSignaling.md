@@ -6,7 +6,8 @@ sources:
   - essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826
   - how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783
   - the-science-of-love-desire-and-attachment-scim1112390541
-last_updated: 2026-10-02
+  - how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,7 +21,7 @@ The combined evidence supports a bounded claim: humans continually sample chemic
 
 Social sampling is broader than those effects. Handshakes may transfer odor that is later brought toward the nose, close same-sex friends can have more similar body odor than expected by chance, and electronic-nose patterns may help predict social judgments. These findings do not establish what every person is detecting, whether odor similarity causes friendship, or a universal pheromone pathway.
 
-Reproductive claims require still more restraint. MHC-related odor preference, menstrual synchrony, and a possible human analogue of the mouse Bruce effect remain suggestive, disputed, or hypothetical rather than settled causal mechanisms. A separate episode reports cycle-linked odor-attractiveness findings and loss of some peaks with oral contraception, adding a bounded attraction result without establishing a conscious cue, mechanism, or universal mate-selection effect.
+Reproductive claims require still more restraint. MHC-related odor preference, menstrual synchrony, and a possible human analogue of the mouse Bruce effect remain suggestive, disputed, or hypothetical rather than settled causal mechanisms. A separate episode reports cycle-linked odor-attractiveness findings and loss of some peaks with oral contraception. The full-length smell-and-taste episode adds above-chance partner-shirt identification and cycle-linked odor discrimination, but neither finding establishes a conscious cue, mechanism, or universal mate-selection effect.
 
 ## Key Claims
 - Humans can sample biologically relevant chemical information from tears, skin, sweat, breath, and body odor.
@@ -29,7 +30,7 @@ Reproductive claims require still more restraint. MHC-related odor preference, m
 - Evidence for chemical influence is not equivalent to proof of a specific human pheromone and dedicated pheromone pathway.
 - Animal reproductive effects provide mechanistic comparisons but cannot be assumed to operate identically in humans.
 - Menstrual synchrony and a human Bruce-like recurrent-pregnancy-loss mechanism remain unsettled.
-- Cycle-linked odor ratings may vary with ovulatory and contraceptive context, but the result does not establish individual fertility detection or compatibility.
+- Familiar-partner identification and cycle-linked odor ratings can vary above chance in bounded studies, but these results do not establish individual fertility detection, compatibility, or pheromonal recognition.
 
 ## Evidence
 - Tear-mediated effects - [[essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826]] introduces sadness-tear effects; [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]] adds the reported free-testosterone reduction, independent replication, and aggression research direction.
@@ -37,13 +38,14 @@ Reproductive claims require still more restraint. MHC-related odor preference, m
 - Fear and aggression - [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]] describes fear-odor autonomic effects and sex-differentiated hexadecanal findings.
 - Reproductive boundary - [[essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826]] reviews animal pheromone comparisons, while [[how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783]] keeps MHC preference, menstrual synchrony, and a possible human Bruce-like effect qualified.
 - Cycle-linked attraction - [[the-science-of-love-desire-and-attachment-scim1112390541]] reports odor-rating changes around the pre-ovulatory phase and the absence of some cycle-linked peaks with oral contraception.
+- Partner identification and discrimination - [[how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027]] reports above-chance identification of a stable partner's shirt odor and cycle-linked variation in odor discrimination.
 
 ## Counterevidence & Qualifications
-The sources do not establish a canonical human pheromone system. Menstrual synchrony has substantial replication and analytical criticism; handshake behavior does not identify the information sampled; odor similarity may reflect shared environments or selection rather than cause friendship; and the human recurrent-pregnancy-loss account is explicitly a hypothesis. Cycle phase, symmetry, oral contraception, hexadecanal, and tear findings require their laboratory tasks, samples, doses, hormonal definitions, and replication context and should not be generalized into individual fertility or compatibility prediction.
+The sources do not establish a canonical human pheromone system. Menstrual synchrony has substantial replication and analytical criticism; handshake behavior does not identify the information sampled; odor similarity may reflect shared environments or selection rather than cause friendship; and the human recurrent-pregnancy-loss account is explicitly a hypothesis. Cycle phase, symmetry, oral contraception, partner-shirt identification, hexadecanal, and tear findings require their laboratory tasks, samples, doses, hormonal definitions, and replication context and should not be generalized into individual fertility or compatibility prediction.
 
 ## What Changed
-- Added cycle- and contraceptive-context odor-attractiveness findings.
-- Preserved the boundary between measurable rating changes and fertility, compatibility, or pheromone claims.
+- Added familiar-partner odor identification and cycle-linked discrimination findings.
+- Preserved the boundary between above-chance laboratory effects and fertility, compatibility, or pheromone claims.
 
 ## Related Concepts
 - [[Chemosensation]] - broader domain containing smell, taste, and chemical-cue sensing.

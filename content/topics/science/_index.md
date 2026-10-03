@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1433
+topic_total_pages: 1434
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3927,6 +3927,9 @@ topic_sources:
   - key: "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719"
     title: "How Relationships Shape Your Brain | Dr. Allan Schore"
     url: "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
+  - key: "how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027"
+    title: "How Smell, Taste & Pheromone-Like Chemicals Control You"
+    url: "/wiki/sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027/"
   - key: "how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783"
     title: "How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel"
     url: "/wiki/sources/how-smells-influence-our-hormones-health-behavior-dr-noam-sobel-scim2074118783/"
