@@ -13,7 +13,7 @@ last_updated: 2026-09-20
 # #405 从地理边界到思维边界：我们如何被「划界」塑造？
 
 ## Summary
-This [[ShengdongJixi|声东击西]] conversation between [[XuTao|徐涛]] and historian [[SongNianshen|宋念申]] begins with competing memories of [[ShenYang|沈阳]]'s Xita district, then uses the Tumen and Yalu river borderlands to argue that a border is a changing social relationship rather than only a stable line. Qing and Korean restrictions, survival migration, Russian expansion, identity documents, colonial partitions, and disciplinary categories become one account of how [[RelationalBorder|relational borders]] are crossed in practice while modern institutions make them harder and more exclusionary.
+This [[ShengdongJixi|声东击西]] conversation between [[XuTao|徐涛]] and historian [[SongNianshen|宋念申]] begins with competing memories of [[ShenyangCity|沈阳]]'s Xita district, then uses the Tumen and Yalu river borderlands to argue that a border is a changing social relationship rather than only a stable line. Qing and Korean restrictions, survival migration, Russian expansion, identity documents, colonial partitions, and disciplinary categories become one account of how [[RelationalBorder|relational borders]] are crossed in practice while modern institutions make them harder and more exclusionary.
 
 The episode's durable synthesis joins everyday border life to larger structures. [[ModernBoundaryHardening|modern boundary hardening]] links imperialism, capitalism, colonialism, state documentation, and exclusive ownership; [[ColonialCategoryAfterlife|colonial category afterlife]] explains why partitions and ethnic classifications can persist after formal decolonization; [[HistoricalInternationalLaw|historical international law]] asks where legal rules came from before treating them as neutral; and [[ProblemLedInterdisciplinarity|problem-led interdisciplinarity]] carries the same critique into knowledge production.
 
@@ -35,7 +35,7 @@ The episode's durable synthesis joins everyday border life to larger structures.
 
 ## Connections
 - [[ShengdongJixi|声东击西]], [[XuTao|徐涛]], and [[SongNianshen|宋念申]] - show, host, and historian guest.
-- [[ShenYang|沈阳]], [[China]], [[QingDynasty|清朝]], [[Russia]], [[NorthKorea|朝鲜]], and [[SouthKorea|韩国]] - regional and historical setting around Xita and the Tumen-Yalu borderlands.
+- [[ShenyangCity|沈阳]], [[China]], [[QingDynasty|清朝]], [[Russia]], [[NorthKorea|朝鲜]], and [[SouthKorea|韩国]] - regional and historical setting around Xita and the Tumen-Yalu borderlands.
 - [[RelationalBorder]], [[ModernBoundaryHardening]], and [[NortheastModernityTestSite]] - border process, institutional hardening, and Northeast modernity branch.
 - [[ColonialCategoryAfterlife]], [[HistoricalInternationalLaw]], [[IdentityPoliticsAsPoliticalSorting]], and [[PostImperialIdentityGap]] - colonial inheritance, rules, identity, and political-economic structure branch.
 - [[ProblemLedInterdisciplinarity]], [[HistoricalQuestionConsciousness]], and [[HistoricalComplexityAgainstLabels]] - method branch resisting discipline-first and label-first explanation.

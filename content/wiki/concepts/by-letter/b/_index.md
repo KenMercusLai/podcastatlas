@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9507
+wiki_total_pages: 9511
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "BrazilFiscalPoliticalStalemate"
     title: "Brazil Fiscal-Political Stalemate"
     url: "/wiki/concepts/brazilfiscalpoliticalstalemate/"
+  - key: "BreakfastLocality"
+    title: "Breakfast Locality / 早餐地方性"
+    url: "/wiki/concepts/breakfastlocality/"
   - key: "BreakingNewsFramingUnderUncertainty"
     title: "Breaking-News Framing Under Uncertainty"
     url: "/wiki/concepts/breakingnewsframingunderuncertainty/"

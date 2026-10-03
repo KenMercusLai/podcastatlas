@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12205
+wiki_total_pages: 12208
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1589,6 +1589,9 @@ wiki_pages:
   - key: "Taiyi"
     title: "太一 / Taiyi"
     url: "/wiki/entities/taiyi/"
+  - key: "TaiyuanModern"
+    title: "太原 / Taiyuan (modern city)"
+    url: "/wiki/entities/taiyuanmodern/"
   - key: "TaiyuanWarringStates"
     title: "太原 / Taiyuan (Warring States)"
     url: "/wiki/entities/taiyuanwarringstates/"

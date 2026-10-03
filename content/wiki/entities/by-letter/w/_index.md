@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12205
+wiki_total_pages: 12208
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1007,6 +1007,9 @@ wiki_pages:
   - key: "WuGuang"
     title: "吴广 / Wu Guang"
     url: "/wiki/entities/wuguang/"
+  - key: "WuzhongCity"
+    title: "吴忠 / Wuzhong (Ningxia city)"
+    url: "/wiki/entities/wuzhongcity/"
   - key: "WuChengen"
     title: "吴承恩"
     url: "/wiki/entities/wuchengen/"

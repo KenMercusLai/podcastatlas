@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP287 一起逛早市：寻找北方最鲜活的早晨](sources/ep287-yiqi-guang-zaoshi-xunzhao-beifang-zui-xianhuo-de-zaochen-lpuox4b-b02k-awt-hsjuph-froi.md) — Talk三联 field report on northern morning markets, breakfast locality, timed urban space, social life, governance, and tourism-driven change.
 - [EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？](sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y.md) — 无时差研究所 conversation on lived Hainan, tourism geography, free-trade-port opportunity, island logistics, resident costs, public services, and talent retention.
 - [42. The Wild West](sources/42-the-wild-west-glt7464073840.md) — The Rest Is History on frontier expansion, Native dispossession, bison destruction, western celebrity, masculinity, Turner's frontier thesis, and the Wild West as contested national myth.
 - [43. 1940](sources/43-1940-glt2702093158.md) — The Rest Is History with James Holland on France's collapse, Dunkirk, the May War Cabinet crisis, the Battle of Britain, Sea Lion, and Britain's retained strategic capacity.
@@ -3647,6 +3648,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Optimize Testosterone & Estrogen](sources/how-to-optimize-testosterone-estrogen-scim7814508461.md) — Full-length Huberman Lab episode on sex-steroid feedback, aromatization, sleep and breathing, light, exercise, menopause, supplements, bloodwork, and clinical risk boundaries.
 
 ## Entities
+- [沈阳 / Shenyang (city)](entities/ShenyangCity.md) — Liaoning capital viewed through Xita memory and the social, spatial, and governance systems of morning markets.
+- [太原 / Taiyuan (modern city)](entities/TaiyuanModern.md) — Shanxi capital represented through reusable market space, regular-customer trade, seasonal produce, and local breakfast.
+- [吴忠 / Wuzhong (Ningxia city)](entities/WuzhongCity.md) — Ningxia city whose morning food culture joins beef-noodle-derived early tea, Hui foods, business sociality, and lamb-offal breakfast.
 - [Hainan / 海南](entities/Hainan.md) — Chinese island province framed through local life, tourism concentration, policy-led growth, connectivity, and uneven resident benefit.
 - [Haikou / 海口](entities/Haikou.md) — Hainan's provincial capital and lived-city counterpoint to the island's resort image.
 - [Sanya / 三亚](entities/Sanya.md) — Resort-oriented city anchoring Hainan's external tourism image and eastern visitor corridor.
@@ -15898,6 +15902,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scoff: A History of Food and Class in Britain](entities/ScoffBook.md) — Pen Vogler's book framing food as evidence for class and social change.
 
 ## Concepts
+- [Morning Market Urbanism / 早市城市主义](concepts/MorningMarketUrbanism.md) — Timed system joining food access, low-cost trade, social contact, reversible public space, and practical market governance.
+- [Breakfast Locality / 早餐地方性](concepts/BreakfastLocality.md) — Persistence of regional morning foods through stable tastes, small-shop economics, service rhythms, and social occasions.
+- [Touristification of Everyday Markets / 日常市场游客化](concepts/TouristificationOfEverydayMarkets.md) — Shift from resident provisioning toward visitor food, shareable experience, replicated stalls, and possible homogenization.
+- [Wuzhong Morning Tea / 吴忠早茶](concepts/WuzhongMorningTea.md) — Ningxia breakfast-and-social format developed from beef-noodle shops, side dishes, Hui foods, and covered-bowl tea.
 - [Hainan Growth and Resident Distribution / 海南增长与居民获得感](concepts/HainanGrowthResidentDistribution.md) — Test of whether tourism, duty-free, property, and policy-led growth become broad resident welfare and regional capability.
 - [Island Connectivity Development Constraint / 岛屿连通性发展约束](concepts/IslandConnectivityDevelopmentConstraint.md) — Mechanism by which bounded island geography supports regulation while raising transport and logistics friction.
 - [Policy-Driven Talent Retention Gap / 政策引才与留才落差](concepts/PolicyDrivenTalentRetentionGap.md) — Difference between incentive-led recruitment and durable settlement supported by careers, services, and personal fit.

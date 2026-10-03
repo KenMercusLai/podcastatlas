@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9507
+wiki_total_pages: 9511
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "WuxiaIntertextualCraft"
     title: "Wuxia Intertextual Craft"
     url: "/wiki/concepts/wuxiaintertextualcraft/"
+  - key: "WuzhongMorningTea"
+    title: "Wuzhong Morning Tea / 吴忠早茶"
+    url: "/wiki/concepts/wuzhongmorningtea/"
   - key: "WishfulFrontierConciliation"
     title: "一厢情愿式边疆怀柔 / Wishful Frontier Conciliation"
     url: "/wiki/concepts/wishfulfrontierconciliation/"

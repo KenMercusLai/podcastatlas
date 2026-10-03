@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9507
+wiki_total_pages: 9511
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "TouristAuthenticityPerformance"
     title: "Tourist Authenticity Performance"
     url: "/wiki/concepts/touristauthenticityperformance/"
+  - key: "TouristificationOfEverydayMarkets"
+    title: "Touristification of Everyday Markets / 日常市场游客化"
+    url: "/wiki/concepts/touristificationofeverydaymarkets/"
   - key: "ToutengWar"
     title: "Touteng War"
     url: "/wiki/concepts/toutengwar/"

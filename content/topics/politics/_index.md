@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3036
+topic_total_pages: 3037
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2521,6 +2521,9 @@ topic_concepts:
   - key: "MoralizedWarPretext"
     title: "Moralized War Pretext / 道德化战争借口"
     url: "/wiki/concepts/moralizedwarpretext/"
+  - key: "MorningMarketUrbanism"
+    title: "Morning Market Urbanism / 早市城市主义"
+    url: "/wiki/concepts/morningmarketurbanism/"
   - key: "MotiveBasedTalentEvaluation"
     title: "Motive-Based Talent Evaluation / 动机导向的才干评价"
     url: "/wiki/concepts/motivebasedtalentevaluation/"

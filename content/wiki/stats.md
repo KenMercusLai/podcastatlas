@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 9507
-- Entities: 12205
-- Sources: 3585
-- Total wiki content pages: 25298
+- Concepts: 9511
+- Entities: 12208
+- Sources: 3586
+- Total wiki content pages: 25306
 
 ## Links
-- Wiki link references: 605955
-- Unique wiki link targets: 25308
-- Missing targets: 14
+- Wiki link references: 606044
+- Unique wiki link targets: 25317
+- Missing targets: 15
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 3585
-- Matched episodes: 3585
+- Source pages: 3586
+- Matched episodes: 3586
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -65,5 +65,7 @@ outputs: ["html"]
   - `content/wiki/concepts/TayBridgeDisaster.md`
 - `[[SupplementContaminationAndMislabelling]]`
   - `content/wiki/concepts/ShilajitEvidenceBoundary.md`
+- `[[TemporaryUseUrbanism]]`
+  - `content/wiki/concepts/MorningMarketUrbanism.md`
 
 All wiki source pages resolve to episode pages.

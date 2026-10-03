@@ -28692,3 +28692,11 @@ Added source `ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-ke
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | EP287 一起逛早市：寻找北方最鲜活的早晨
+
+Added source `ep287-yiqi-guang-zaoshi-xunzhao-beifang-zui-xianhuo-de-zaochen-lpuox4b-b02k-awt-hsjuph-froi`; created disambiguated bounded profiles for modern Shenyang, Taiyuan, and Wuzhong; created concepts for morning-market urbanism, breakfast locality, touristification of everyday markets, and Wuzhong morning tea; and resynthesized `FarmersMarketUrbanism` and `MarketFreshnessCulture` from their complete preserved evidence inventories. Core synthesis: northern morning markets persist when consumer habits, low-cost livelihoods, reusable urban space, social routines, and practical governance align, while tourism can sustain attention yet displace everyday produce and create homogenization; regional breakfast remains durable through stable tastes, small-shop economics, ingredient systems, and distinct social occasions. No settled contradiction was adopted. Citywide market counts, north-south comparisons, freshness claims, historical chronology, and long-run tourism effects remain source-scoped, with Taiyuan receiving less coverage than Shenyang and Wuzhong. A pre-existing city/person collision was repaired by moving the #405 Xita links from `ShenYang` (申阳) to `ShenyangCity`. Recurring host, reporters, show, and magazine profiles were not changed because the episode adds reporting roles rather than durable identity updates. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,586-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge schema, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -56672,6 +56672,18 @@
       "url": "/topics/science/"
     }
   ],
+  "MorningMarketUrbanism": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Morocco": [
     {
       "key": "politics",
@@ -81995,6 +82007,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "TouristificationOfEverydayMarkets": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "TownPersonalAI": [

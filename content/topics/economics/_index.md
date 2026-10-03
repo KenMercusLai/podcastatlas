@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2174
+topic_total_pages: 2176
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2089,6 +2089,9 @@ topic_concepts:
   - key: "MoralHazardContagionTradeoff"
     title: "Moral Hazard Contagion Tradeoff"
     url: "/wiki/concepts/moralhazardcontagiontradeoff/"
+  - key: "MorningMarketUrbanism"
+    title: "Morning Market Urbanism / 早市城市主义"
+    url: "/wiki/concepts/morningmarketurbanism/"
   - key: "MortalityRiskPricing"
     title: "Mortality Risk Pricing"
     url: "/wiki/concepts/mortalityriskpricing/"
@@ -3019,6 +3022,9 @@ topic_concepts:
   - key: "TokugawaForeignTradeAmbivalence"
     title: "Tokugawa Foreign-Trade Ambivalence"
     url: "/wiki/concepts/tokugawaforeigntradeambivalence/"
+  - key: "TouristificationOfEverydayMarkets"
+    title: "Touristification of Everyday Markets / 日常市场游客化"
+    url: "/wiki/concepts/touristificationofeverydaymarkets/"
   - key: "TradeAdjustmentAssistance"
     title: "Trade Adjustment Assistance"
     url: "/wiki/concepts/tradeadjustmentassistance/"
