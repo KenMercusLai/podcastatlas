@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2168
+topic_total_pages: 2169
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2707,6 +2707,9 @@ topic_concepts:
   - key: "SmallOpenEconomyVulnerability"
     title: "Small Open Economy Vulnerability"
     url: "/wiki/concepts/smallopeneconomyvulnerability/"
+  - key: "SmallBatchBeverageMarketEntry"
+    title: "Small-Batch Beverage Market Entry"
+    url: "/wiki/concepts/smallbatchbeveragemarketentry/"
   - key: "SocialEngineeringFraud"
     title: "Social Engineering Fraud"
     url: "/wiki/concepts/socialengineeringfraud/"

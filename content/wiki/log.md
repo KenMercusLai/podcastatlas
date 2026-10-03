@@ -28292,3 +28292,11 @@ Added source `ep179-womende-neixin-dou-zhuzhe-yige-liuxiaoyang-zuoziji-shi-yao-f
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | Where all those weird new drinks are coming from
+
+Added source `defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689`; created `Flavorman`, `TomGibson`, `FunctionalBeverageOccasionCreation`, and `SmallBatchBeverageMarketEntry`; and resynthesized `SyntheticFlavorScalability` and `BeverageDevelopmentFeasibility` from their complete preserved evidence inventories. Core synthesis: expanding aroma chemistry widens the sensory design palette, functional and ritual concepts create new purchase occasions, and spare canning capacity lowers the cost of test batches, but a feasible prototype still faces efficacy, demand, distribution, and shelf-access boundaries. No settled contradiction was adopted. Health benefits, client and launch counts, manufacturing minimums, per-can costs, alcohol-demand trends, and consumer-welfare conclusions remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,536-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

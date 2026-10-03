@@ -22560,9 +22560,9 @@
       "url": "/wiki/entities/betterbrain/"
     },
     "BeverageDevelopmentFeasibility": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIJIOhQDBARgQkQTaLWPn [GKwRIJIOhQDBARgQkQTaLWPn].md",
@@ -22570,9 +22570,16 @@
           "show": "大小电波",
           "title": "咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调",
           "url": "/wiki/sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689 [default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689].md",
+          "key": "defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689",
+          "show": "Planet Money",
+          "title": "Where all those weird new drinks are coming from",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/beveragedevelopmentfeasibility/"
     },
     "BexleyNaturalMarket": {
@@ -72844,6 +72851,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/flaviobolsonaro/"
     },
+    "Flavorman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689 [default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689].md",
+          "key": "defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689",
+          "show": "Planet Money",
+          "title": "Where all those weird new drinks are coming from",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/flavorman/"
+    },
     "FlexibilityNeuralSafetyGating": {
       "episode_count": 2,
       "show_count": 1,
@@ -77595,6 +77618,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/functionalarticulationdisorder/"
+    },
+    "FunctionalBeverageOccasionCreation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689 [default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689].md",
+          "key": "defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689",
+          "show": "Planet Money",
+          "title": "Where all those weird new drinks are coming from",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/functionalbeverageoccasioncreation/"
     },
     "FunctionalFitnessReadiness": {
       "episode_count": 2,
@@ -184706,6 +184745,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/slowwavesleeprestoration/"
     },
+    "SmallBatchBeverageMarketEntry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689 [default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689].md",
+          "key": "defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689",
+          "show": "Planet Money",
+          "title": "Where all those weird new drinks are coming from",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/smallbatchbeveragemarketentry/"
+    },
     "SmallBrainActionLayer": {
       "episode_count": 1,
       "show_count": 1,
@@ -193902,9 +193957,9 @@
       "url": "/wiki/concepts/syntheticbiologyscreeningsafeguards/"
     },
     "SyntheticFlavorScalability": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？ [1016110497].md",
@@ -193912,9 +193967,16 @@
           "show": "声动早咖啡",
           "title": "图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？",
           "url": "/wiki/sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689 [default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689].md",
+          "key": "defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689",
+          "show": "Planet Money",
+          "title": "Where all those weird new drinks are coming from",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/syntheticflavorscalability/"
     },
     "SyntheticHappiness": {
@@ -200461,6 +200523,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/tomclarke/"
+    },
+    "TomGibson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689 [default.mp3_ywr3ahjkcgo_1d6032299c869d5d0b0b061236e43043_31916689].md",
+          "key": "defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689",
+          "show": "Planet Money",
+          "title": "Where all those weird new drinks are coming from",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/tomgibson/"
     },
     "TomHanks": {
       "episode_count": 1,

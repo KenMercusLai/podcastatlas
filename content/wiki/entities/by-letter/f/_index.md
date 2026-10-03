@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12129
+wiki_total_pages: 12131
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "FlavioBolsonaro"
     title: "Flavio Bolsonaro"
     url: "/wiki/entities/flaviobolsonaro/"
+  - key: "Flavorman"
+    title: "Flavorman"
+    url: "/wiki/entities/flavorman/"
   - key: "Flexcoat"
     title: "Flexcoat"
     url: "/wiki/entities/flexcoat/"

@@ -73849,6 +73849,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SmallBatchBeverageMarketEntry": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SmallBrainActionLayer": [
     {
       "key": "technology",

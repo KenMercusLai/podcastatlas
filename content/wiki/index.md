@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Where all those weird new drinks are coming from](sources/defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689.md) — Planet Money on flavor science, functional category creation, spare canning capacity, and the remaining distribution barriers behind beverage proliferation.
 - [EP179-我们的内心都住着一个刘小样——做自己是要付出巨大代价的](sources/ep179-womende-neixin-dou-zhuzhe-yige-liuxiaoyang-zuoziji-shi-yao-fuchu-juda-daijia-ckwriaset1ykabaaaadc008h.md) — 无时差研究所 on Liu Xiaoyang, the costs of leaving, public expectation, concrete practice, and meaning in ordinary life.
 - [70. Children’s History](sources/70-childrens-history-glt3229015713.md) — The Rest Is History on narrative hooks, child-reader feedback, atrocity, moral signaling, myth, ambiguity, and multiple perspectives in history for children.
 - [The Science of Hearing, Balance & Accelerated Learning](sources/scim1865244910-scim1865244910.md) — Full-length Huberman Lab episode on micro-rest replay, auditory attention, conditional sound tools, hearing safety, tinnitus boundaries, and visual-vestibular balance training.
@@ -3597,6 +3598,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [Flavorman](entities/Flavorman.md) — Louisville beverage developer linking flavor construction, functional formulation, prototyping, and production feasibility.
+- [Tom Gibson](entities/TomGibson.md) — Flavorman chief flavorist explaining aroma composition and interpretive flavor design.
 - [刘晓漾 / Liu Xiaoyang](entities/LiuXiaoyang.md) — Rural woman whose refusal of numbness and repeated departures became a public story about aspiration without a clean success ending.
 - [张越 / Zhang Yue (television host)](entities/ZhangYueCCTV.md) — Television interviewer whose encounter with Liu Xiaoyang joined public visibility to caution about urban survival.
 - [余秀华 / Yu Xiuhua](entities/YuXiuhua.md) — Poet used in EP179 as a practice-before-recognition comparison.
@@ -15771,6 +15774,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Functional Beverage Occasion Creation](concepts/FunctionalBeverageOccasionCreation.md) — Positioning drinks around energy, hydration, protein, sleep, gut health, or ritual substitution to create new purchase occasions.
+- [Small-Batch Beverage Market Entry](concepts/SmallBatchBeverageMarketEntry.md) — Lower test-run risk created by shared canning capacity while distribution and shelf access remain barriers.
 - [Exit Freedom Material Conditions / 出走自由的物质条件](concepts/ExitFreedomMaterialConditions.md) — Freedom after departure depends on capability, income, knowledge, relationships, and a viable place to stand.
 - [Ideal-to-Practice Conversion / 理想的实践转化](concepts/IdealToPracticeConversion.md) — Movement from dissatisfaction or recognition-seeking toward a specific repeatable valued activity.
 - [Ordinary-Life Non-Mediocrity / 平凡不等于平庸](concepts/OrdinaryLifeNonMediocrity.md) — Distinction between ordinary circumstances and living without attention, care, desire, or meaning.

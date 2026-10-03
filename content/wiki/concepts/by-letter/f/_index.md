@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9427
+wiki_total_pages: 9429
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1367,6 +1367,9 @@ wiki_pages:
   - key: "FunctionalArticulationDisorder"
     title: "Functional Articulation Disorder / 功能性构音障碍"
     url: "/wiki/concepts/functionalarticulationdisorder/"
+  - key: "FunctionalBeverageOccasionCreation"
+    title: "Functional Beverage Occasion Creation"
+    url: "/wiki/concepts/functionalbeverageoccasioncreation/"
   - key: "FunctionalExtinction"
     title: "Functional Extinction"
     url: "/wiki/concepts/functionalextinction/"
