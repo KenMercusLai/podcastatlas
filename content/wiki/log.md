@@ -28532,3 +28532,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | EP172-从黑话到学术词汇的滥用，语言究竟有多大的力量？
+
+Added source `ep172-cong-heihua-dao-xueshu-cihui-de-lanyong-yuyan-jiujing-you-duo-da-de-liliang-ckwrirwedkviabaaaacrytp7`; resynthesized `JargonBoundaryMaking` and `GroupBoundaryLanguage`; and extended `WushichaYanjiusuo` from its complete preserved evidence inventory. Core synthesis: insider language can compress genuine shared knowledge and protect group coordination, but organizational incentives can also turn terminology into status, conformity, and a substitute for data or product evidence. No settled contradiction was adopted; company-culture, language-history, generational, and terminology-effect claims remain conversational and source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,566-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

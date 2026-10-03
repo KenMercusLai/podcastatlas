@@ -86072,6 +86072,29 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/groundcover/"
     },
+    "GroupBoundaryLanguage": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "83.梳毛、八卦及语言的进化：人际关系“邓巴数”,咱不服不行 [698132861].md",
+          "key": "83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861",
+          "show": "蜜獾吃书",
+          "title": "83.梳毛、八卦及语言的进化：人际关系“邓巴数”，咱不服不行",
+          "url": "/wiki/sources/83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861/"
+        },
+        {
+          "episode_file": "CKwRIRwEdkviABAAAACrytp7 [CKwRIRwEdkviABAAAACrytp7].md",
+          "key": "ep172-cong-heihua-dao-xueshu-cihui-de-lanyong-yuyan-jiujing-you-duo-da-de-liliang-ckwrirwedkviabaaaacrytp7",
+          "show": "无时差研究所",
+          "title": "EP172-从黑话到学术词汇的滥用，语言究竟有多大的力量？",
+          "url": "/wiki/sources/ep172-cong-heihua-dao-xueshu-cihui-de-lanyong-yuyan-jiujing-you-duo-da-de-liliang-ckwrirwedkviabaaaacrytp7/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/groupboundarylanguage/"
+    },
     "GrowthHormoneBehavioralRegulation": {
       "episode_count": 3,
       "show_count": 1,
@@ -108596,6 +108619,36 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/jaredrutter/"
+    },
+    "JargonBoundaryMaking": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "sp.06 串台｜ 和李乌鸦＆超哥high聊：做读书博主的“守墓心得” [819825708].md",
+          "key": "sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708",
+          "show": "蜜獾吃书",
+          "title": "sp.06 串台｜和李乌鸦＆超哥 high 聊：做读书博主的“守墓心得”",
+          "url": "/wiki/sources/sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708/"
+        },
+        {
+          "episode_file": "102.江湖丛谈：骗术、黑话和民间道义 [736516488].md",
+          "key": "102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488",
+          "show": "蜜獾吃书",
+          "title": "102.江湖丛谈：骗术、黑话和民间道义",
+          "url": "/wiki/sources/102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488/"
+        },
+        {
+          "episode_file": "CKwRIRwEdkviABAAAACrytp7 [CKwRIRwEdkviABAAAACrytp7].md",
+          "key": "ep172-cong-heihua-dao-xueshu-cihui-de-lanyong-yuyan-jiujing-you-duo-da-de-liliang-ckwrirwedkviabaaaacrytp7",
+          "show": "无时差研究所",
+          "title": "EP172-从黑话到学术词汇的滥用，语言究竟有多大的力量？",
+          "url": "/wiki/sources/ep172-cong-heihua-dao-xueshu-cihui-de-lanyong-yuyan-jiujing-you-duo-da-de-liliang-ckwrirwedkviabaaaacrytp7/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/jargonboundarymaking/"
     },
     "JasonCowley": {
       "episode_count": 1,
@@ -218616,9 +218669,9 @@
       "url": "/wiki/entities/wurenzhixiao/"
     },
     "WushichaYanjiusuo": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "GKwRIDoObJ-fAi177wTQizMF [GKwRIDoObJ-fAi177wTQizMF].md",
@@ -218717,6 +218770,13 @@
           "show": "无时差研究所",
           "title": "EP179-我们的内心都住着一个刘小样——做自己是要付出巨大代价的",
           "url": "/wiki/sources/ep179-womende-neixin-dou-zhuzhe-yige-liuxiaoyang-zuoziji-shi-yao-fuchu-juda-daijia-ckwriaset1ykabaaaadc008h/"
+        },
+        {
+          "episode_file": "CKwRIRwEdkviABAAAACrytp7 [CKwRIRwEdkviABAAAACrytp7].md",
+          "key": "ep172-cong-heihua-dao-xueshu-cihui-de-lanyong-yuyan-jiujing-you-duo-da-de-liliang-ckwrirwedkviabaaaacrytp7",
+          "show": "无时差研究所",
+          "title": "EP172-从黑话到学术词汇的滥用，语言究竟有多大的力量？",
+          "url": "/wiki/sources/ep172-cong-heihua-dao-xueshu-cihui-de-lanyong-yuyan-jiujing-you-duo-da-de-liliang-ckwrirwedkviabaaaacrytp7/"
         }
       ],
       "updated": "2026-10-03",

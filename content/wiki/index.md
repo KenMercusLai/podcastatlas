@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Science of Muscle Growth, Increasing Strength & Muscular Recovery](sources/scim1817217176-scim1817217176.md) — Early Huberman Lab episode on neuromuscular strength and hypertrophy, lactate, recovery monitoring, soreness, cold and anti-inflammatory tradeoffs, and nutrition support.
 - [59. The World Cup of Gods - Part 2](sources/59-the-world-cup-of-gods-part-2-glt6474253297.md) — The Rest Is History tournament on Athena, Odin, Greek, Roman, Egyptian, and Mithraic gods as changing products of ritual, politics, literature, syncretism, and reception.
 - [60. Muhammad](sources/60-muhammad-glt7621065751.md) — The Rest Is History on Muhammad's probable existence, late biography, the Qur'an as early evidence, late-antique context, and contested revisionist reconstruction.
+- [EP172-从黑话到学术词汇的滥用，语言究竟有多大的力量？](sources/ep172-cong-heihua-dao-xueshu-cihui-de-lanyong-yuyan-jiujing-you-duo-da-de-liliang-ckwrirwedkviabaaaacrytp7.md) — 无时差研究所 on jargon as communication compression, group identity, organizational conformity, gatekeeping, and a possible substitute for product evidence.
 - [EP174-疫情下的跨国之路](sources/ep174-yiqing-xia-de-kuaguo-zhilu-ckwrimaeijawabaaaacyyipn.md) — 无时差研究所 on pandemic-compressed migration choices, return-career discontinuity, costly cross-border travel, diaspora aid, training-corpus bias, and recommendation fairness.
 - [EP176-巨头混战的社区团购，魅力何在？](sources/ep176-jutou-hunzhan-de-shequ-tuangou-meili-he-zai-ckwrijeem9ngabaaaac5h72a.md) — 无时差研究所 on demand-led community buying, center and grid warehouses, neighborhood pickup, rural retail access, platform competition, and fulfillment limits.
 - [63. Hitler, with Ian Kershaw - part 1](sources/63-hitler-with-ian-kershaw-part-1-glt1996418919.md) — The Rest Is History with Ian Kershaw on Hitler's contingent postwar formation, individual agency, structural conditions, historical method, and the long radicalization from antisemitism to genocide.
@@ -6173,7 +6174,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frederick AI](entities/FrederickAI.md) — Wu Hankun's source-reported early agent project for founder task execution.
 - [《粉色悖论》 / Pink Paradox](entities/PinkParadox.md) — Wu Hankun's first AI short-film case, begun as a role-farewell project.
 - [《人口异常》 / Population Anomaly](entities/PopulationAnomaly.md) — Wu Hankun's later science-fiction AI short-film experiment.
-- [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Conversational podcast represented by culture, health, travel, creative-practice, workplace, and social-play interpretation.
+- [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Conversational podcast represented by culture, health, travel, creative-practice, workplace, language, and social-play interpretation.
 - [亦舒 / Yi Shu](entities/YiShu.md) — Authorial baseline for EP385's comparison between the 《我的前半生》 novel's female-supported rebuilding and the TV drama's male-mentor rewrite.
 - [《我的前半生》 / My First Half Life](entities/MyFirstHalfLife.md) — Yi Shu novel and 2017 TV adaptation reread as an old-drama revival, gender-narrative, and economic-memory case.
 - [罗子君 / Luo Zijun](entities/LuoZijun.md) — 《我的前半生》 heroine whose divorce, work return, and claimed independence test the difference between supported agency and male-authorized growth.
@@ -21580,7 +21581,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gossip As Social Grooming / 八卦作为社会性梳毛](concepts/GossipAsSocialGrooming.md) — Revalues gossip and small talk as relationship mapping and maintenance, while preserving harm boundaries.
 - [Language As Social Grooming / 语言作为社会性梳毛](concepts/LanguageAsSocialGrooming.md) — Episode 83 frame for conversation as scalable relationship maintenance rather than only information transfer.
 - [Machiavellian Intelligence / 马基雅维利智能](concepts/MachiavellianIntelligence.md) — Social-cognition capacity to track alliances and third-party relations under group pressure.
-- [Group-Boundary Language / 群体边界语言](concepts/GroupBoundaryLanguage.md) — Dialect, slang, black talk, memes, and shared codes as signs of belonging and exclusion.
+- [Group-Boundary Language / 群体边界语言](concepts/GroupBoundaryLanguage.md) — Dialect, slang, black talk, memes, and shared codes as tools of belonging, protection, hierarchy, and exclusion.
 - [Workplace Informal Talk / 职场非正式闲聊](concepts/WorkplaceInformalTalk.md) — Management-side frame for tea rooms, shared meals, and casual chat as workplace social infrastructure.
 - [Cold War Nuclear Misperception / 冷战核误判](concepts/ColdWarNuclearMisperception.md) — Nuclear escalation risk created by fear, confirmatory intelligence, ambiguous military signals, and failed reassurance.
 - [Intelligence Liaison Risk / 情报盟友协作风险](concepts/IntelligenceLiaisonRisk.md) — Ally-sharing problem where sanitized intelligence, curiosity, and compromised officials can expose a protected source.
@@ -22626,7 +22627,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [春点 / Chun Dian Argot](concepts/ChunDianArgot.md) — Jianghu insider language used for secrecy, group recognition, trade coordination, status boundary-making, and sometimes fraud.
 - [Jianghu Scam Craft](concepts/JianghuScamCraft.md) — Older street-fraud repertoire combining observation, props, collaborators, argot, fear, greed, and role assignment.
 - [Informal Jianghu Order](concepts/InformalJianghuOrder.md) — Non-state rules, brokers, lodging customs, mediation, and reputation mechanisms that constrained old Jianghu life without becoming formal law.
-- [Jargon Boundary Making](concepts/JargonBoundaryMaking.md) — Language-sociology frame for when insider terms support precision or solidarity and when they become status display or exclusion.
+- [Jargon Boundary Making](concepts/JargonBoundaryMaking.md) — Language-sociology frame for when insider terms support precision or solidarity and when they become evidence substitution, status display, or exclusion.
 - [Legal Paradox Thinking](concepts/LegalParadoxThinking.md) — Legal-reasoning discipline for holding plausible but conflicting legal, moral, institutional, and practical claims without collapsing them into one slogan.
 - [Law-Morality Boundary](concepts/LawMoralityBoundary.md) — Criminal-law boundary between moral context that can prevent cruelty and moralism that turns law into arbitrary coercion.
 - [Criminal Law As Power Limitation](concepts/CriminalLawAsPowerLimitation.md) — Frame treating criminal law as a restraint on state punishment power as well as a mechanism for responding to crime.
