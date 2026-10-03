@@ -14994,9 +14994,9 @@
       "url": "/wiki/concepts/appeasementlogic/"
     },
     "AppetiteHormoneRegulation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM9260736648 [SCIM9260736648].md",
@@ -15025,6 +15025,13 @@
           "show": "Huberman Lab",
           "title": "Healthy Eating & Eating Disorders: Metabolism, Anorexia, Bulimia, and Binge Eating",
           "url": "/wiki/sources/scim4349715199-scim4349715199/"
+        },
+        {
+          "episode_file": "SCIM1789507430 [SCIM1789507430].md",
+          "key": "scim1789507430-scim1789507430",
+          "show": "Huberman Lab",
+          "title": "How Hormones Control Hunger, Eating & Satiety",
+          "url": "/wiki/sources/scim1789507430-scim1789507430/"
         }
       ],
       "updated": "2026-10-03",
@@ -83947,9 +83954,9 @@
       "url": "/wiki/concepts/glycationskinanxiety/"
     },
     "GlycemicResponseToolBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2821501065 [SCIM2821501065].md",
@@ -83971,9 +83978,16 @@
           "show": "Huberman Lab",
           "title": "Controlling Sugar Cravings & Metabolism with Science-Based Tools",
           "url": "/wiki/sources/controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681/"
+        },
+        {
+          "episode_file": "SCIM1789507430 [SCIM1789507430].md",
+          "key": "scim1789507430-scim1789507430",
+          "show": "Huberman Lab",
+          "title": "How Hormones Control Hunger, Eating & Satiety",
+          "url": "/wiki/sources/scim1789507430-scim1789507430/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/glycemicresponsetoolboundary/"
     },
     "GnaeusJuliusAgricola": {
@@ -143803,9 +143817,9 @@
       "url": "/wiki/concepts/muscleaslongevityinfrastructure/"
     },
     "MuscleContractionGlucoseDisposal": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3664199211 [SCIM3664199211].md",
@@ -143813,9 +143827,16 @@
           "show": "Huberman Lab",
           "title": "Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means",
           "url": "/wiki/sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211/"
+        },
+        {
+          "episode_file": "SCIM1789507430 [SCIM1789507430].md",
+          "key": "scim1789507430-scim1789507430",
+          "show": "Huberman Lab",
+          "title": "How Hormones Control Hunger, Eating & Satiety",
+          "url": "/wiki/sources/scim1789507430-scim1789507430/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/musclecontractionglucosedisposal/"
     },
     "MuscularChristianity": {
@@ -207250,9 +207271,9 @@
       "url": "/wiki/entities/ultabeauty/"
     },
     "UltraProcessedFoodPragmaticBoundary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM3206044616 [SCIM3206044616].md",
@@ -207281,9 +207302,16 @@
           "show": "Huberman Lab",
           "title": "How Sugar & Processed Foods Impact Your Health | Dr. Robert Lustig",
           "url": "/wiki/sources/how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968/"
+        },
+        {
+          "episode_file": "SCIM1789507430 [SCIM1789507430].md",
+          "key": "scim1789507430-scim1789507430",
+          "show": "Huberman Lab",
+          "title": "How Hormones Control Hunger, Eating & Satiety",
+          "url": "/wiki/sources/scim1789507430-scim1789507430/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/ultraprocessedfoodpragmaticboundary/"
     },
     "UltradianDeepWorkBlock": {

@@ -7,6 +7,7 @@ sources:
   - the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890
   - the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714
   - scim4349715199-scim4349715199
+  - scim1789507430-scim1789507430
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -37,10 +38,10 @@ The eating-disorder source makes the boundary more explicit. Stomach distension,
 - Homeostatic signals help explain both ordinary appetite and consequences of undernutrition, but eating disorders require additional diagnosis-specific reward, habit, impulse-control, cognitive, and perceptual models.
 
 ## Evidence
-- Neural accelerators and brakes - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] contrasts arcuate POMC/alpha-MSH and AGRP activity; [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] adds appetitive-versus-consummatory behavior and brainstem-versus-forebrain timescales.
-- Anticipatory hunger - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] describes ghrelin as a gastrointestinal hunger signal that can rise around learned meal times and when glucose falls.
+- Neural accelerators and brakes - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] and its underlying full episode, [[scim1789507430-scim1789507430]], contrast arcuate POMC/alpha-MSH and AGRP activity; [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] adds appetitive-versus-consummatory behavior and brainstem-versus-forebrain timescales.
+- Anticipatory hunger - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] and [[scim1789507430-scim1789507430]] describe ghrelin as a gastrointestinal hunger signal that can rise around learned meal times and when glucose falls.
 - Predictive food cues - [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] reports that AGRP activity falls rapidly when food appears and that the response size predicts later intake.
-- Nutrient-linked satiety - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] connects CCK release to gut sensing and to amino acids, fatty acids, and sugar.
+- Nutrient-linked satiety - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] and [[scim1789507430-scim1789507430]] connect CCK release to gut sensing and to amino acids, fatty acids, and sugar.
 - Reserve and counter-regulation - [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] presents leptin as an adipose-linked signal and falling leptin after weight loss as part of a starvation-like defense response.
 - Glucose and endocrine feedback - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] links insulin, glucagon, endogenous GLP-1, and leptin to glucose stability, appetite, or satiety.
 - Rapid intestinal confirmation - [[the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714]] describes neuropod-cell neurotransmission to vagal neurons and reports optogenetic mouse experiments changing sugar-versus-sweetener preference.
@@ -49,12 +50,13 @@ The eating-disorder source makes the boundary more explicit. Stomach distension,
 - Eating-disorder boundary - [[scim4349715199-scim4349715199]] links stomach, glucose, nutrient, POMC, AGRP, and leptin signals to energy regulation while showing why those signals do not by themselves explain restrictive or binge-purge disorders.
 
 ## Counterevidence & Qualifications
-The sources are condensed public education and do not provide complete primary references, effect sizes, or methods. Parabiosis interpretations, precise circuit roles, decerebrate-animal results, AGRP causal claims, CCK triggers, leptin resistance, weight-loss hunger and expenditure estimates, "fat foraging" and "amino acid foraging," neuropod-cell generalization, microbial amino-acid compensation, reproductive effects, and behavioral protocols remain source-scoped. Bariatric surgery changes anatomy, nutrient delivery, hormones, neural exposure, and behavior together, so rapid postoperative change does not isolate one pathway. Leptin's association with energy reserves and reproductive suppression does not establish leptin replacement as general eating-disorder treatment. Animal findings do not establish identical human responses, and appetite changes can reflect medication, endocrine disease, diabetes, eating disorders, pregnancy, sleep, stress, or other clinical contexts not resolved by this framework.
+The sources are condensed public education and do not provide complete primary references, effect sizes, or methods. The full 2021 hunger episode and its later Essentials edit are overlapping provenance rather than independent confirmation. Parabiosis interpretations, precise circuit roles, decerebrate-animal results, AGRP causal claims, CCK triggers, leptin resistance, weight-loss hunger and expenditure estimates, "fat foraging" and "amino acid foraging," neuropod-cell generalization, microbial amino-acid compensation, reproductive effects, and behavioral protocols remain source-scoped. Bariatric surgery changes anatomy, nutrient delivery, hormones, neural exposure, and behavior together, so rapid postoperative change does not isolate one pathway. Leptin's association with energy reserves and reproductive suppression does not establish leptin replacement as general eating-disorder treatment. Animal findings do not establish identical human responses, and appetite changes can reflect medication, endocrine disease, diabetes, eating disorders, pregnancy, sleep, stress, or other clinical contexts not resolved by this framework.
 
 ## What Changed
 - The synthesis now spans anticipatory cues, rapid gut-neural confirmation, endocrine reserve signals, and longer-timescale behavioral regulation.
 - Eating disorders are explicitly separated from an appetite-signal-only model.
 - Leptin is retained as an energy-state signal while its treatment implications remain qualified.
+- Added the full 2021 episode as underlying provenance without treating its later Essentials edit as independent replication.
 
 ## Related Concepts
 - [[SugarCravingNeuralControl]] - narrower neural and gut-reinforcement account for sugar seeking.

@@ -6,7 +6,8 @@ sources:
   - essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065
   - essentials-how-to-control-hunger-eating-satiety-scim9260736648
   - controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681
-last_updated: 2026-10-02
+  - scim1789507430-scim1789507430
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -36,16 +37,17 @@ The full episode adds timing and state boundaries. A rapid glucose rise after ha
 - Lemon/lime layer - [[essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065]] presents a couple tablespoons of lemon or lime juice as a possible glucose-response blunting tool while acknowledging mechanism uncertainty.
 - Cinnamon boundary - [[essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065]] pairs cinnamon's possible gastric-emptying effect with a daily dose caution.
 - Stronger-tool boundary - [[essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065]] warns that berberine and glucose-lowering drugs can cause excessive glucose drops and should be taken seriously.
-- Food order and movement - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] proposes fiber first, then protein and carbohydrate, plus a calm post-meal walk or regular exercise as glucose-regulation tools.
+- Food order and movement - [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] and its underlying full episode, [[scim1789507430-scim1789507430]], propose fiber first, then protein and carbohydrate, plus a calm post-meal walk or regular exercise as glucose-regulation tools.
 - State and timing boundary - [[controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681]] distinguishes post-exercise glycogen context from casual intake and warns that acidic-juice or stronger lowering tools can be hazardous when glucose is already low.
 
 ## Counterevidence & Qualifications
-This is public nutrition and supplement literacy, not individualized diabetes care, weight-loss treatment, oncology advice, pregnancy guidance, medication adjustment, or hypoglycemia management. CGM self-experimentation can reveal patterns, but it does not establish universal causal effects or replace clinical interpretation. The food-order and exercise claims come from condensed notes without effect sizes or participant details, and the hunger source's "nanograms per deciliter" glucose unit is not adopted. Conditioned insulin responses to sweetener flavors do not establish that all sweeteners have the same effect; pairing, compound, dose, species, and substitution context matter.
+This is public nutrition and supplement literacy, not individualized diabetes care, weight-loss treatment, oncology advice, pregnancy guidance, medication adjustment, or hypoglycemia management. CGM self-experimentation can reveal patterns, but it does not establish universal causal effects or replace clinical interpretation. The full hunger episode and its later Essentials edit are overlapping provenance; their food-order and exercise claims come from condensed notes without effect sizes or participant details, and their "nanograms per deciliter" glucose unit is not adopted. Conditioned insulin responses to sweetener flavors do not establish that all sweeteners have the same effect; pairing, compound, dose, species, and substitution context matter.
 
 ## What Changed
 - Added exercise, fasting, baseline glucose, and timing as boundaries on interpreting glucose-response tools.
 - Clarified that CGM self-observation and conditioned sweetener responses do not establish universal effects.
 - Retained food order and post-meal movement as source-scoped meal-context tools.
+- Added the full 2021 hunger episode as underlying provenance rather than independent confirmation.
 
 ## Related Concepts
 - [[PracticalSugarControl]] - broad dietary behavior frame that this tool boundary operationalizes.

@@ -4,8 +4,9 @@ type: concept
 tags: [exercise, glucose, skeletal-muscle, movement]
 sources:
   - transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211
+  - scim1789507430-scim1789507430
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-25
+last_updated: 2026-10-03
 ---
 
 # Muscle Contraction Glucose Disposal
@@ -14,7 +15,7 @@ last_updated: 2026-09-25
 Muscle contraction glucose disposal is the principle that contracting skeletal muscle can increase glucose uptake and energy use, making frequent ordinary movement and post-meal walking relevant alongside formal exercise.
 
 ## Current Synthesis
-The episode treats contraction frequency as a metabolic input. Walking, brief movement breaks, soleus-focused movement, fidgeting, and other non-exercise activity can interrupt long inactive periods and create repeated opportunities for glucose uptake. A calm post-meal walk is therefore framed as an accessible meal-context tool rather than a substitute for medical treatment.
+The sources treat contraction frequency as a metabolic input. Walking, brief movement breaks, soleus-focused movement, fidgeting, and other non-exercise activity can interrupt long inactive periods and create repeated opportunities for glucose uptake. A calm post-meal walk is therefore framed as an accessible meal-context tool rather than a substitute for medical treatment.
 
 Structured exercise adds different adaptations. Resistance work builds muscle and demand; endurance or zone-2 work is linked in the source to mitochondrial biogenesis; high-intensity work is linked to fusion and other capacity changes. These assignments are useful organizing claims but remain source-scoped because the summary does not supply protocols or comparative effect sizes.
 
@@ -28,13 +29,15 @@ Structured exercise adds different adaptations. Resistance work builds muscle an
 ## Evidence
 - Contraction mechanism - [[transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211]] says muscle contraction helps move glucose channels to the cell membrane and supports glucose uptake.
 - Distributed movement - [[transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211]] recommends movement breaks and a short walk after meals while also discussing NEAT and under-desk treadmills.
-- Exercise diversity - [[transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211]] attributes complementary mitochondrial and muscle effects to resistance, endurance, zone-2, and high-intensity training.
+- Post-meal context - [[scim1789507430-scim1789507430]] presents walking after a meal as a practical glucose-response tool and links more intense contraction to muscle glucose uptake and glycogen storage.
+- Exercise diversity - [[transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211]] and [[scim1789507430-scim1789507430]] attribute complementary glucose, mitochondrial, muscle, and insulin-sensitivity effects to resistance, endurance, zone-2, and high-intensity training.
 
 ## Counterevidence & Qualifications
-The episode summary does not establish universal step counts, post-meal timing, training doses, or effect sizes. Associations between step counts and mortality do not by themselves prove causality. People using glucose-lowering medication or managing cardiovascular, metabolic, neurological, orthopedic, pregnancy, or eating-disorder concerns may need individualized guidance.
+The episode summaries do not establish universal step counts, post-meal timing, training doses, or effect sizes. The hunger source's GLUT4, glycogen, and exercise-frequency claims lack complete methods or comparative data. Associations between step counts and mortality do not by themselves prove causality. People using glucose-lowering medication or managing cardiovascular, metabolic, neurological, orthopedic, pregnancy, or eating-disorder concerns may need individualized guidance.
 
 ## What Changed
 - Created the concept to join ordinary movement, post-meal walking, and structured exercise without treating them as interchangeable.
+- Added overlapping support for post-meal movement while retaining exercise-dose and mechanism claims as source-scoped.
 
 ## Related Concepts
 - [[MovementThermogenesis]] - covers non-exercise energy expenditure from ordinary activity.

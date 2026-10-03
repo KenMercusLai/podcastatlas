@@ -7,7 +7,8 @@ sources:
   - essentials-how-to-control-hunger-eating-satiety-scim9260736648
   - the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890
   - how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968
-last_updated: 2026-09-27
+  - scim1789507430-scim1789507430
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -42,18 +43,18 @@ The Lustig interview adds a more categorical metabolic and policy critique. It u
 - Access constraint: [[how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616]] says an immediate ban could remove about 60% of grocery products and names practical family foods that may fall within the category.
 - Reformulation route: [[how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616]] points to country-specific formulations as evidence that U.S. products could be changed.
 - Replacement logic: [[how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616]] repeatedly uses "instead of what?" to judge real-world dietary changes.
-- Satiety-signaling hypothesis: [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] claims that emulsifier-related mucosal damage can impair gut-neuron sensing and CCK deployment, but gives no product-specific or study-level detail.
-- Controlled-feeding evidence: [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] describes a Kevin Hall NIH study in which an ultra-processed diet increased spontaneous intake and weight gain despite matched palatability.
+- Satiety-signaling hypothesis: [[essentials-how-to-control-hunger-eating-satiety-scim9260736648]] and its underlying full episode, [[scim1789507430-scim1789507430]], claim that emulsifier-related mucosal damage can impair gut-neuron sensing and CCK deployment, but give no product-specific or study-level detail.
+- Controlled-feeding evidence: [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] and [[scim1789507430-scim1789507430]] describe a controlled inpatient comparison in which an ultra-processed diet increased spontaneous intake and weight gain despite substantial diet matching.
 - Mechanism uncertainty: [[the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890]] names energy density, engineered macronutrient combinations, and lower food volume as possible explanations rather than a resolved causal pathway.
 - Metabolic and system critique: [[how-sugar-processed-foods-impact-your-health-dr-robert-lustig-scim6504027968]] links added sugar, low fiber, emulsifiers, reward signaling, school procurement, affordability, labeling, and reformulation to the ultra-processed-food environment.
 
 ## Counterevidence & Qualifications
-The sources do not establish that every additive, product, or processing method is harmless, nor do they quantify causal effects across all NOVA categories. Convenience, affordability, nutrient composition, consumption frequency, eating rate, energy density, volume, and replacement foods must be assessed separately. Reformulation can improve products without making them equivalent to minimally processed staples. Emulsifier and fructose mechanisms are too underspecified for class-wide avoidance advice, the condensed Knight source does not provide the Hall study's full diet matching, sample, duration, or effect sizes, and Lustig's claim that many class-four products are not food is retained as advocacy rather than a settled classification.
+The sources do not establish that every additive, product, or processing method is harmless, nor do they quantify causal effects across all NOVA categories. Convenience, affordability, nutrient composition, consumption frequency, eating rate, energy density, volume, and replacement foods must be assessed separately. Reformulation can improve products without making them equivalent to minimally processed staples. The full 2021 hunger episode and its later Essentials edit are overlapping provenance, not independent replication. Emulsifier and fructose mechanisms are too underspecified for class-wide avoidance advice, the condensed hunger and Knight sources do not provide the controlled trial's full sample, duration, diet matching, or effect sizes, and Lustig's claim that many class-four products are not food is retained as advocacy rather than a settled classification.
 
 ## What Changed
 - Added a metabolic and food-system critique spanning sugar, fiber, reward, school defaults, labels, external costs, and reformulation.
 - Kept the categorical “not food” claim source-scoped and preserved replacement and affordability tests.
-- Added controlled-feeding evidence for greater spontaneous intake on an ultra-processed pattern.
+- Added controlled-feeding evidence for greater spontaneous intake on an ultra-processed pattern, with the full 2021 hunger episode treated as underlying provenance for its later Essentials edit.
 - Kept energy density, volume, eating rate, and engineered combinations as unresolved mechanisms rather than universal product properties.
 - Preserved affordability, classification, reformulation, and replacement constraints on blanket bans.
 
