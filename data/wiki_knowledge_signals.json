@@ -26077,6 +26077,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/britishelectioncampaigneffects/"
     },
+    "BritishEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6076978409 [GLT6076978409].md",
+          "key": "68-the-british-empire-glt6076978409",
+          "show": "The Rest Is History",
+          "title": "68. The British Empire",
+          "url": "/wiki/sources/68-the-british-empire-glt6076978409/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/britishempire/"
+    },
     "BritishFascism": {
       "episode_count": 4,
       "show_count": 1,
@@ -62240,6 +62256,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/empirewindrush/"
     },
+    "Empireland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6076978409 [GLT6076978409].md",
+          "key": "68-the-british-empire-glt6076978409",
+          "show": "The Rest Is History",
+          "title": "68. The British Empire",
+          "url": "/wiki/sources/68-the-british-empire-glt6076978409/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/empireland/"
+    },
     "EmployeeHealthBenefitsAI": {
       "episode_count": 1,
       "show_count": 1,
@@ -93172,9 +93204,9 @@
       "url": "/wiki/concepts/historicalcatastrophenarrativeethics/"
     },
     "HistoricalComplexityAgainstLabels": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？ [3d36f181-94ad-4883-8db3-5f040b5ed45b].md",
@@ -93189,6 +93221,13 @@
           "show": "The Rest Is History",
           "title": "184. History's Biggest Questions with Dan Carlin (Part 2)",
           "url": "/wiki/sources/184-historys-biggest-questions-with-dan-carlin-part-2-glt1976082798/"
+        },
+        {
+          "episode_file": "GLT6076978409 [GLT6076978409].md",
+          "key": "68-the-british-empire-glt6076978409",
+          "show": "The Rest Is History",
+          "title": "68. The British Empire",
+          "url": "/wiki/sources/68-the-british-empire-glt6076978409/"
         }
       ],
       "updated": "2026-10-01",
@@ -100338,6 +100377,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/imperialcartographicmythmaking/"
     },
+    "ImperialCategoryIdentityFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6076978409 [GLT6076978409].md",
+          "key": "68-the-british-empire-glt6076978409",
+          "show": "The Rest Is History",
+          "title": "68. The British Empire",
+          "url": "/wiki/sources/68-the-british-empire-glt6076978409/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/imperialcategoryidentityformation/"
+    },
     "ImperialCenterRelocation": {
       "episode_count": 1,
       "show_count": 1,
@@ -100774,6 +100829,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/imperialmetropolisintegration/"
+    },
+    "ImperialMoralAudit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6076978409 [GLT6076978409].md",
+          "key": "68-the-british-empire-glt6076978409",
+          "show": "The Rest Is History",
+          "title": "68. The British Empire",
+          "url": "/wiki/sources/68-the-british-empire-glt6076978409/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/imperialmoralaudit/"
     },
     "ImperialNameTaboo": {
       "episode_count": 1,
@@ -159993,9 +160064,9 @@
       "url": "/wiki/concepts/postimperialculturalbranding/"
     },
     "PostImperialIdentityGap": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "92f097c7-3ae4-4a2b-87d0-e23b518b590a [92f097c7-3ae4-4a2b-87d0-e23b518b590a].md",
@@ -160003,9 +160074,16 @@
           "show": "声东击西",
           "title": "#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？",
           "url": "/wiki/sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a/"
+        },
+        {
+          "episode_file": "GLT6076978409 [GLT6076978409].md",
+          "key": "68-the-british-empire-glt6076978409",
+          "show": "The Rest Is History",
+          "title": "68. The British Empire",
+          "url": "/wiki/sources/68-the-british-empire-glt6076978409/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/postimperialidentitygap/"
     },
     "PostInfectiousReturnToActivity": {
@@ -177469,6 +177547,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/satchinpanda/"
+    },
+    "SatnamSanghera": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6076978409 [GLT6076978409].md",
+          "key": "68-the-british-empire-glt6076978409",
+          "show": "The Rest Is History",
+          "title": "68. The British Empire",
+          "url": "/wiki/sources/68-the-british-empire-glt6076978409/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/satnamsanghera/"
     },
     "SaturnBird": {
       "episode_count": 1,

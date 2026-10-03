@@ -28308,3 +28308,11 @@ Added source `69-england-v-ukraine-glt5469973001`; created `JohnHughesWelshIndus
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 68. The British Empire
+
+Added source `68-the-british-empire-glt6076978409`; created `SatnamSanghera`, `Empireland`, `BritishEmpire`, `ImperialMoralAudit`, and `ImperialCategoryIdentityFormation`; and resynthesized `HistoricalComplexityAgainstLabels` and `PostImperialIdentityGap` from their complete preserved evidence inventories. Core synthesis: the British Empire's heterogeneous institutions, motives, beneficiaries, victims, and afterlives cannot be explained by one moral score, but complexity does not weaken factual judgment of coercion, racism, violence, or genocide; imperial classifications and education could reshape identity; and exceptionalist expectations can outlast material capacity and historical understanding. No settled contradiction was adopted. The net-benefit argument, Sikh demographic effects, curriculum claims, and causal links from empire to Brexit, Iraq, or modern institutional racism remain source-scoped. Recurring show and host pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,538-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

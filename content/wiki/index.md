@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [68. The British Empire](sources/68-the-british-empire-glt6076978409.md) — The Rest Is History with Satnam Sanghera on imperial complexity, race, Sikh identity, education, exceptionalism, and post-imperial legacies.
 - [69. England v Ukraine](sources/69-england-v-ukraine-glt5469973001.md) — The Rest Is History on Rus-Byzantine links, Crimea, the Crimean War, Welsh Huzovka, Gareth Jones, the Holodomor, heroic failure, and football.
 - [Where all those weird new drinks are coming from](sources/defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689.md) — Planet Money on flavor science, functional category creation, spare canning capacity, and the remaining distribution barriers behind beverage proliferation.
 - [EP179-我们的内心都住着一个刘小样——做自己是要付出巨大代价的](sources/ep179-womende-neixin-dou-zhuzhe-yige-liuxiaoyang-zuoziji-shi-yao-fuchu-juda-daijia-ckwriaset1ykabaaaadc008h.md) — 无时差研究所 on Liu Xiaoyang, the costs of leaving, public expectation, concrete practice, and meaning in ordinary life.
@@ -3599,6 +3600,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [Satnam Sanghera](entities/SatnamSanghera.md) — British Sikh writer using accessible public history to connect empire with race, identity, institutions, and contemporary politics.
+- [Empireland](entities/Empireland.md) — Sanghera's public-history book on the British Empire's continuing presence in modern Britain.
+- [British Empire](entities/BritishEmpire.md) — Heterogeneous global formation whose institutions, inequalities, and afterlives resist a single moral score.
 - [John Hughes (Welsh industrialist)](entities/JohnHughesWelshIndustrialist.md) — Welsh industrialist whose Huzovka coal-and-iron project became a formative layer in Donetsk's history.
 - [Gareth Jones (journalist)](entities/GarethJonesJournalist.md) — Welsh journalist whose famine reporting challenged Soviet concealment and correspondent denial.
 - [Donetsk](entities/Donetsk.md) — Ukrainian industrial city whose Huzovka predecessor grew around Welsh-led coal and iron works.
@@ -15778,6 +15782,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Imperial Moral Audit](concepts/ImperialMoralAudit.md) — Critique of collapsing a heterogeneous empire into one aggregate balance of glory versus crime.
+- [Imperial Category Identity Formation](concepts/ImperialCategoryIdentityFormation.md) — Feedback process through which imperial classifications amplify existing traits and reshape later institutions and identity.
 - [Anglo-Ukrainian Relations](concepts/AngloUkrainianRelations.md) — Episodic British-Ukrainian connections through medieval service, war, industry, migration, journalism, and sport.
 - [Crimean War](concepts/CrimeanWar.md) — Conflict joining imperial strategy and religion to modern media, military administration, and heroic-failure memory.
 - [Holodomor](concepts/Holodomor.md) — Soviet Ukrainian famine understood through mass suffering, information control, witness, denial, and contested memory.

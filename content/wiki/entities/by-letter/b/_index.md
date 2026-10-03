@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12134
+wiki_total_pages: 12137
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1082,6 +1082,9 @@ wiki_pages:
   - key: "BritishColumbia"
     title: "British Columbia / 加拿大BC省"
     url: "/wiki/entities/britishcolumbia/"
+  - key: "BritishEmpire"
+    title: "British Empire"
+    url: "/wiki/entities/britishempire/"
   - key: "BritishFascisti"
     title: "British Fascisti"
     url: "/wiki/entities/britishfascisti/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9433
+wiki_total_pages: 9435
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "ImperialCartographicMythmaking"
     title: "Imperial Cartographic Mythmaking"
     url: "/wiki/concepts/imperialcartographicmythmaking/"
+  - key: "ImperialCategoryIdentityFormation"
+    title: "Imperial Category Identity Formation"
+    url: "/wiki/concepts/imperialcategoryidentityformation/"
   - key: "ImperialCenterRelocation"
     title: "Imperial Center Relocation"
     url: "/wiki/concepts/imperialcenterrelocation/"
@@ -206,6 +209,9 @@ wiki_pages:
   - key: "ImperialMetropolisIntegration"
     title: "Imperial Metropolis Integration"
     url: "/wiki/concepts/imperialmetropolisintegration/"
+  - key: "ImperialMoralAudit"
+    title: "Imperial Moral Audit"
+    url: "/wiki/concepts/imperialmoralaudit/"
   - key: "ImperialPatronDependency"
     title: "Imperial Patron Dependency"
     url: "/wiki/concepts/imperialpatrondependency/"

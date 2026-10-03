@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 12134
+wiki_total_pages: 12137
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -419,6 +419,9 @@ wiki_pages:
   - key: "EmpireWindrush"
     title: "Empire Windrush"
     url: "/wiki/entities/empirewindrush/"
+  - key: "Empireland"
+    title: "Empireland"
+    url: "/wiki/entities/empireland/"
   - key: "EmpressDowagerWeiPingdi"
     title: "Empress Dowager Wei (Pingdi) / 卫太后"
     url: "/wiki/entities/empressdowagerweipingdi/"
