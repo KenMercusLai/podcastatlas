@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9511
+wiki_total_pages: 9515
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -563,9 +563,18 @@ wiki_pages:
   - key: "PerpetualForeignerStereotype"
     title: "Perpetual Foreigner Stereotype / 永远的外国人刻板印象"
     url: "/wiki/concepts/perpetualforeignerstereotype/"
+  - key: "PersianCivilizationalContinuity"
+    title: "Persian Civilizational Continuity"
+    url: "/wiki/concepts/persiancivilizationalcontinuity/"
+  - key: "PersianGardenParadiseTradition"
+    title: "Persian Garden and Paradise Tradition"
+    url: "/wiki/concepts/persiangardenparadisetradition/"
   - key: "PersianMiniaturePainting"
     title: "Persian Miniature Painting"
     url: "/wiki/concepts/persianminiaturepainting/"
+  - key: "PersianateAdministrativeTransmission"
+    title: "Persianate Administrative Transmission"
+    url: "/wiki/concepts/persianateadministrativetransmission/"
   - key: "PersistentAgentMemory"
     title: "Persistent Agent Memory"
     url: "/wiki/concepts/persistentagentmemory/"

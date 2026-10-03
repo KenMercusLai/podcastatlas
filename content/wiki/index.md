@@ -3646,6 +3646,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Boost Your Energy & Immune System with Cortisol & Adrenaline](sources/scim5718648905-scim5718648905.md) — Early Huberman Lab episode on cortisol and epinephrine timing, body-brain arousal, acute immune signaling, post-learning activation, chronic stress eating, and recovery boundaries.
 - [How to Control Your Metabolism by Thyroid & Growth Hormone](sources/scim2147325995-scim2147325995.md) — Full-length Huberman Lab episode on thyroid-axis nutrient sufficiency, cellular metabolism, slow-wave-sleep-linked growth hormone, exercise, amino-acid pathways, heat, and medical safety boundaries.
 - [How to Optimize Testosterone & Estrogen](sources/how-to-optimize-testosterone-estrogen-scim7814508461.md) — Full-length Huberman Lab episode on sex-steroid feedback, aromatization, sleep and breathing, light, exercise, menopause, supplements, bloodwork, and clinical risk boundaries.
+- [41. Persia](sources/41-persia-glt6414068538.md) — The Rest Is History conversation with Ali Ansari on Iran/Persia continuity, pre-Islamic empires, Zoroastrian influence, paradise gardens, and Persianate administration.
 
 ## Entities
 - [沈阳 / Shenyang (city)](entities/ShenyangCity.md) — Liaoning capital viewed through Xita memory and the social, spatial, and governance systems of morning markets.
@@ -4167,7 +4168,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Costa Rica](entities/CostaRica.md) — Central American republic whose post-1948 settlement joined expanded citizenship, civilian rule, and army abolition.
 - [Jose Figueres Ferrer](entities/JoseFigueresFerrer.md) — Costa Rican rebel leader, temporary junta head, institutional reformer, and later elected president.
 - [Rafael Angel Calderon](entities/RafaelAngelCalderon.md) — Costa Rican welfare populist and defeated 1948 candidate central to the election crisis preceding civil war.
-- [Ali Ansari](entities/AliAnsari.md) — Historian interpreting Anglo-Iranian relations and Mongol conquest through institutional context, source criticism, and resistance to simple moral narratives.
+- [Ali Ansari](entities/AliAnsari.md) — Historian interpreting Persian civilizational continuity, Anglo-Iranian relations, and Mongol conquest through institutional context and source criticism.
 - [Anglo-Iranian Oil Company](entities/AngloIranianOilCompany.md) — British-linked oil enterprise that built strategic industrial capacity while becoming a focus of Iranian sovereignty and revenue conflict.
 - [Mohammad Mossadegh](entities/MohammadMossadegh.md) — Iranian prime minister associated with oil nationalization and overthrown in the 1953 coup.
 - [Tupamaros](entities/Tupamaros.md) — Uruguayan urban guerrilla movement whose robberies, kidnappings, armed propaganda, and defeat were bound to a wider democratic collapse.
@@ -6829,7 +6830,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [班超 / Ban Chao (Eastern Han)](entities/BanChaoEasternHan.md) — Eastern Han Western Regions commander whose profile now begins with Ban-family historiography, Ban Gu rescue, copyist ambition, and late military opening before Shanshan/Khotan shock diplomacy, proxy strategy, and final handoff.
 - [甘英 / Gan Ying (Eastern Han)](entities/GanYingEasternHan.md) — Eastern Han envoy sent by Ban Chao toward Da Qin/Rome and Tiaozhi, reaching Parthia's western boundary before route warnings turned him back.
 - [大秦 / Da Qin](entities/DaQin.md) — Han-era exonym for the Roman Empire in Hanji 771, capturing Rome as a far-western polity known through mediated route reports.
-- [安息 / Parthian Empire](entities/ParthianEmpire.md) — Intermediary polity whose officials' sea-route warning stops Gan Ying's mission toward Da Qin/Rome.
+- [安息 / Parthian Empire](entities/ParthianEmpire.md) — Long-lived Iranian and Roman-rival empire whose officials also shape Gan Ying's route knowledge toward Da Qin/Rome.
 - [条支国 / Tiaozhi Kingdom](entities/TiaozhiKingdom.md) — Far-western destination named with Da Qin in Gan Ying's mission, kept source-scoped pending fuller geography.
 - [班昭 / Ban Zhao (late Han)](entities/BanZhaoLateHan.md) — Eastern Han historiographical continuator, teacher, adviser, petitioning actor, and `Nujie` author whose profile links Ban Gu, Ban Chao, Ma Rong, Deng-regency counsel, and gender-norm controversy.
 - [班婕妤 / Ban Jieyu (Western Han)](entities/BanJieyuWesternHan.md) — Western Han consort whose profile now joins self-restrained favor management, direct court rivalry, motive-based wugu defense, and later Ban-family exemplar memory behind Ban Zhao's `Nujie`.
@@ -12245,11 +12246,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gnaeus Octavius / 格奈乌斯·屋大维](entities/GnaeusOctaviusRomanConsul.md) — Conservative 87 BC consul whose conflict with Cinna over Italian enfranchisement ends with Cinna's outlawry and Octavius's murder in office.
 - [Aristion of Athens / 雅典的阿里斯提昂](entities/AristionAthens.md) — Athenian philosopher-politician who leads Athens into Mithridatic revolt before Sulla's siege, sack, and forced-poison execution.
 - [Athens / 雅典](entities/Athens.md) — Greek city whose anti-Roman revolt, starvation siege, sack, and loss of remaining independence connect Roman imperial pressure to the Sullan crisis.
-- [Achaemenid Empire / Persian Empire](entities/AchaemenidEmpire.md) — Persian imperial order whose conquest, administration, ideology, Greek wars, final defeat, and selective inheritance frame its long political life.
+- [Achaemenid Empire / Persian Empire](entities/AchaemenidEmpire.md) — Foundational Iranian imperial order whose conquest, ideology, Greek wars, defeat, and selective inheritance frame its long political life.
 - [Herodotus](entities/Herodotus.md) — Greek historian who combines inquiry, attributed testimony, ethnography, cross-cultural comparison, narrative art, and reflection on empire.
 - [Miltiades](entities/Miltiades.md) — Athenian commander whose road-blocking strategy and cavalry-window attack plan anchor the Marathon reconstruction.
 - [Darius I](entities/DariusI.md) — Persian king whose revenge motive frames the punitive expedition against Eretria and Athens before Marathon.
-- [Cyrus the Great](entities/CyrusTheGreat.md) — Persian founder figure whose conquests of Lydia, Sardis, and Babylon create the imperial inheritance behind Darius's Marathon prehistory.
+- [Cyrus the Great](entities/CyrusTheGreat.md) — Persian founder figure whose conquest, accommodation, favorable memory, and Pasargadae garden shape the Achaemenid inheritance.
 - [Aristagoras](entities/Aristagoras.md) — Miletian ruler whose failed Naxos expedition and tactical democratic turn help launch the Ionian Revolt.
 - [Histias](entities/Histias.md) — Miletian tyrant and Persian client whose loyalty, court removal, and suspected intrigue shape the Ionian Revolt branch.
 - [Miletus](entities/Miletus.md) — Ionian city whose instability launches the revolt and whose destruction warns Athens about Persian punishment.
@@ -15900,6 +15901,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Camilla Townsend](entities/CamillaTownsend.md) — Historian using Nahuatl-language evidence to reconstruct Mexica history and challenge conquest myths.
 - [Pen Vogler](entities/PenVogler.md) — Food historian connecting British cuisine to class, religion, agriculture, empire, and historical reputation.
 - [Scoff: A History of Food and Class in Britain](entities/ScoffBook.md) — Pen Vogler's book framing food as evidence for class and social change.
+- [Sasanian Empire](entities/SasanianEmpire.md) — Pre-Islamic Iranian empire associated with territorial Iran, compiled historical memory, and armored courtly culture.
 
 ## Concepts
 - [Morning Market Urbanism / 早市城市主义](concepts/MorningMarketUrbanism.md) — Timed system joining food access, low-cost trade, social contact, reversible public space, and practical market governance.
@@ -25469,5 +25471,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nahuatl Post-Conquest Historiography](concepts/NahuatlPostConquestHistoriography.md) — Indigenous-language archive and method joining alphabetic Nahuatl texts to pictorial, archaeological, and linguistic evidence.
 - [Mexica Sacrifice: Religious and Imperial Logics](concepts/MexicaSacrificeReligiousImperialLogic.md) — Framework connecting reciprocal sacred obligation, captive warfare, ritual embodiment, and imperial intimidation without reducing Mexica culture to sacrifice.
 - [British Cuisine as Historical Reputation](concepts/BritishCuisineHistoricalReputation.md) — Periodized account of how class, religion, political economy, empire, and selective memory shape judgments of British food.
+- [Persian Civilizational Continuity](concepts/PersianCivilizationalContinuity.md) — Continuity-through-transformation account linking Iran and Persia across changing empires, religions, and conquests.
+- [Zoroastrian Religious Influence](concepts/ZoroastrianReligiousInfluence.md) — Qualified transmission of Iranian truth/lie, end-times, and redeemer themes into later religious traditions.
+- [Persian Garden and Paradise Tradition](concepts/PersianGardenParadiseTradition.md) — Planned, irrigated, walled garden form and Persian-to-Greek vocabulary behind later paradise imagery.
+- [Persianate Administrative Transmission](concepts/PersianateAdministrativeTransmission.md) — Persian bureaucratic language and practice transmitted through Mughal and British Indian administration.
 
 ## Syntheses

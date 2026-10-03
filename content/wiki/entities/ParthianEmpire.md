@@ -6,7 +6,8 @@ tags: [polity, ancient-iran, han, diplomacy, route]
 sources:
   - zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf
   - 197-antony-cleopatra-part-3-glt1953107818
-last_updated: 2026-10-01
+  - 41-persia-glt6414068538
+last_updated: 2026-10-03
 ---
 
 ## Overview
@@ -21,14 +22,17 @@ Hanji 771 maps Anxi to the Parthian Empire and broadly to today's Iran region. G
 
 That description is the immediate reason Gan Ying gives up the onward journey. Across the two sources, Parthia is therefore not a passive space between Rome and Han China: its military capability constrains Roman expansion, while its route information shapes the practical horizon of Han-Roman contact.
 
+The longer Iranian imperial sequence places Parthia between the Achaemenids and Sasanians. [[41-persia-glt6414068538]] characterizes the dynasty as long-lived and decentralized, emphasizes its repeated contest with the Roman Republic and Empire, and associates Parthian Iran with heavily armored cavalry later central to Persian courtly-warrior memory.
+
 ## Key Characteristics
 
 - Ancient Iranian imperial power identified in Hanji 771 with Anxi.
 - Mobile military opponent that defeats major Roman eastern campaigns.
 - Power whose defeat of Antony changes the political balance within his alliance with Cleopatra.
 - Western limit reached by Gan Ying's mission before he turns back.
-- Intermediary between Eastern Han route knowledge and the Roman/Da Qin target.
-- Officials in the source describe the sea route as dangerous enough to halt the mission.
+- Intermediary whose officials' sea-route warning shapes Eastern Han knowledge and halts the mission toward Rome/Da Qin.
+- Long-lived, decentralized Iranian empire positioned between Achaemenid and Sasanian rule.
+- Roman rival associated with heavily armored cavalry and later courtly-warrior traditions.
 
 ## Evidence
 
@@ -39,15 +43,17 @@ That description is the immediate reason Gan Ying gives up the onward journey. A
 - Route warning: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] records Parthian officials describing the sea passage to Rome as months or years long and risky.
 - Mission outcome: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] says Gan Ying abandons the onward trip after hearing that account.
 - Interpretive role: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] makes the Parthian route description central to why Han-Roman contact remains indirect.
+- Iranian imperial sequence: [[41-persia-glt6414068538]] describes Parthia as decentralized, durable, and repeatedly competitive with Rome.
+- Cavalry culture: [[41-persia-glt6414068538]] associates Parthian and Sasanian power with heavily armored mounted warriors.
 
 ## Qualifications
 
-This remains a bounded profile, not a full Parthian political or military history. Troop losses, responsibility for Antony's failure, Artavasdes's role, and the episode's successor-to-Persia shorthand remain source-scoped. Hanji 771 implies that Parthian officials influenced Gan Ying's decision, but does not prove intentional deception or a formal policy of blocking Han-Roman contact.
+This remains a bounded profile, not a full Parthian political or military history. Troop losses, responsibility for Antony's failure, Artavasdes's role, decentralized-government shorthand, cavalry-development priority, and the episode's successor-to-Persia framing remain source-scoped. Hanji 771 implies that Parthian officials influenced Gan Ying's decision, but does not prove intentional deception or a formal policy of blocking Han-Roman contact.
 
 ## What Changed
 
-- Expanded Parthia from a Han route intermediary into a military power that checks Roman eastern expansion.
-- Added Antony's defeat as the hinge that deepens his alliance and dependence on Cleopatra.
+- Added Parthia's place in the longer Iranian imperial sequence.
+- Added the source's decentralized-durability and armored-cavalry characterization.
 
 ## Relationships
 
@@ -60,3 +66,5 @@ This remains a bounded profile, not a full Parthian political or military histor
 - [[MarkAntony]] - Roman commander whose failed invasion changes the eastern civil-war balance.
 - [[CleopatraVII]] - Egyptian ruler whose strategic leverage rises after Antony's Parthian defeat.
 - [[RomanHellenisticImperialSynthesis]] - eastern political turn strengthened by Rome's failure to conquer Parthia.
+- [[SasanianEmpire]] - successor Iranian empire paired with Parthia in the episode's cavalry and continuity account.
+- [[PersianCivilizationalContinuity]] - longer tradition in which Parthia forms a distinct imperial layer.

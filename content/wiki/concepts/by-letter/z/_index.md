@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "z"
-wiki_total_pages: 9511
+wiki_total_pages: 9515
 wiki_pages:
   - key: "ZeroTrustSecurity"
     title: "Zero Trust Security"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "ZoneOfPossibleAgreement"
     title: "Zone Of Possible Agreement / 协议区间"
     url: "/wiki/concepts/zoneofpossibleagreement/"
+  - key: "ZoroastrianReligiousInfluence"
+    title: "Zoroastrian Religious Influence"
+    url: "/wiki/concepts/zoroastrianreligiousinfluence/"
   - key: "ZouXikouMigration"
     title: "Zou Xikou Migration"
     url: "/wiki/concepts/zouxikoumigration/"

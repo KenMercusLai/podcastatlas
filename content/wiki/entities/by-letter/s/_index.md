@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12208
+wiki_total_pages: 12209
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "Saronic"
     title: "Saronic"
     url: "/wiki/entities/saronic/"
+  - key: "SasanianEmpire"
+    title: "Sasanian Empire"
+    url: "/wiki/entities/sasanianempire/"
   - key: "SasankAkkinappoli"
     title: "Sasank Akkinappoli"
     url: "/wiki/entities/sasankakkinappoli/"

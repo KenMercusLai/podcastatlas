@@ -5,7 +5,8 @@ tags: [person, persia, monarchy, ancient-history]
 sources:
   - 668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182
   - 145-babylon-glt7141377161
-last_updated: 2026-10-02
+  - 41-persia-glt6414068538
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The episode uses Cyrus to explain why Darius is not merely an ambitious king but
 
 Cyrus's Babylonian transition joins method to scale. After [[Nabonidus]]'s long absence and ritual unpopularity, Cyrus benefits from limited willingness to defend the king and represents himself as respectful of Babylonian gods. Conquest is therefore not presented only as battlefield replacement but as a claim to restore a city's proper sacred and political order.
 
+Cyrus also functions as an Iranian founder figure whose empire was represented as universal and morally ordered. [[41-persia-glt6414068538]] broadens his favorable reception through Greek, Jewish, and biblical memory and associates his Pasargadae landscape with the [[PersianGardenParadiseTradition]].
+
 This remains a bounded profile rather than a full biography. It records Cyrus's roles in the Marathon prehistory and Babylonian transition: imperial expansion creates later Ionian-Persian collision, while accommodation helps explain how the same empire could absorb an exceptionally prestigious city.
 
 ## Key Characteristics
@@ -29,6 +32,8 @@ This remains a bounded profile rather than a full biography. It records Cyrus's 
 - His conquest of Lydia and Sardis brings Ionian Greek cities into the Persian orbit.
 - His conquest of Babylon marks the decisive proof of Persian imperial scale.
 - His Babylonian victory is presented as benefiting from Nabonidus's unpopularity and a public posture of respect toward local gods.
+- Later memory presents him as a nationally foundational and unusually favorably remembered imperial ruler.
+- Pasargadae connects his kingship to the planned Persian garden and paradise tradition.
 - The sources emphasize Cyrus as context for later imperial orders rather than providing a complete life or reign.
 
 ## Evidence
@@ -37,14 +42,17 @@ This remains a bounded profile rather than a full biography. It records Cyrus's 
 - Ionian incorporation: [[668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182]] links Cyrus's conquest of Lydia and Sardis to Persian rule over Ionian Greeks.
 - Babylonian conquest: [[668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182]] identifies Cyrus's 539 BC conquest of Babylon as definitive for his rise.
 - Conquest through accommodation: [[145-babylon-glt7141377161]] connects Nabonidus's absence and ritual disruption to Cyrus's ability to enter Babylon as a ruler presenting respect for its gods.
+- Founder and reception: [[41-persia-glt6414068538]] describes Cyrus as binding Medes and Persians, receiving praise from some conquered peoples, and appearing as an anointed figure in Isaiah.
+- Garden kingship: [[41-persia-glt6414068538]] associates Cyrus and Pasargadae with the planned, walled garden behind the episode's paradise claim.
 
 ## Qualifications
 
-The page is source-scoped to Cyrus's roles in a Marathon setup episode and a Babylon episode. It does not synthesize his full reign, religion, imperial policy, or later reception. The degree of Babylonian resistance, popular support, Nabonidus's unpopularity, and Cyrus's personal religious motives remain episode-attributed rather than settled here.
+The page is source-scoped to Cyrus's roles in a Marathon setup episode, a Babylon episode, and a broad Persia overview. It does not synthesize his full reign, religion, imperial policy, or later reception. The degree of Babylonian resistance, popular support, Nabonidus's unpopularity, Cyrus's personal religious motives, the universality of favorable memory, and the episode's first-empire framing remain episode-attributed rather than settled here.
 
 ## What Changed
 
-- Added Babylonian accommodation and local ritual legitimacy to the earlier conquest-and-scale profile.
+- Added Cyrus's founder role, favorable cross-cultural reception, and moral-universal imperial framing.
+- Added Pasargadae as the royal anchor for the Persian garden and paradise tradition.
 
 ## Relationships
 
@@ -55,3 +63,5 @@ The page is source-scoped to Cyrus's roles in a Marathon setup episode and a Bab
 - [[Babylon]] - prestigious imperial city absorbed under a restoration-oriented conquest narrative.
 - [[Nabonidus]] - displaced king whose absence and ritual politics form the episode's immediate conquest context.
 - [[Marduk]] - Babylonian patron god whose local authority Cyrus is presented as respecting.
+- [[PersianGardenParadiseTradition]] - landscape and vocabulary tradition associated with Cyrus at Pasargadae.
+- [[PersianCivilizationalContinuity]] - longer Iranian tradition in which Cyrus functions as a founding figure.

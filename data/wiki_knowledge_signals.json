@@ -5310,9 +5310,9 @@
       "url": "/wiki/concepts/acetylcholinefocussupport/"
     },
     "AchaemenidEmpire": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -5362,15 +5362,22 @@
           "show": "The Rest Is History",
           "title": "98. Thermopylae & Salamis Episode 1",
           "url": "/wiki/sources/98-thermopylae-salamis-episode-1-glt3813381992/"
+        },
+        {
+          "episode_file": "GLT6414068538 [GLT6414068538].md",
+          "key": "41-persia-glt6414068538",
+          "show": "The Rest Is History",
+          "title": "41. Persia",
+          "url": "/wiki/sources/41-persia-glt6414068538/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/achaemenidempire/"
     },
     "AchaemenidImperialOrderIdeology": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8965800182 [GLT8965800182].md",
@@ -5378,9 +5385,16 @@
           "show": "The Rest Is History",
           "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
           "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        },
+        {
+          "episode_file": "GLT6414068538 [GLT6414068538].md",
+          "key": "41-persia-glt6414068538",
+          "show": "The Rest Is History",
+          "title": "41. Persia",
+          "url": "/wiki/sources/41-persia-glt6414068538/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/achaemenidimperialorderideology/"
     },
     "AchievementAsAdaptiveOverdrive": {
@@ -9588,9 +9602,9 @@
       "url": "/wiki/concepts/algorithmictrustmigration/"
     },
     "AliAnsari": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8347276204 [GLT8347276204].md",
@@ -9612,9 +9626,16 @@
           "show": "The Rest Is History",
           "title": "165. The Rise of Genghis Khan",
           "url": "/wiki/sources/165-the-rise-of-genghis-khan-glt3370086758/"
+        },
+        {
+          "episode_file": "GLT6414068538 [GLT6414068538].md",
+          "key": "41-persia-glt6414068538",
+          "show": "The Rest Is History",
+          "title": "41. Persia",
+          "url": "/wiki/sources/41-persia-glt6414068538/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/aliansari/"
     },
     "AliCrum": {
@@ -47554,9 +47575,9 @@
       "url": "/wiki/concepts/cynicismandhopefulskepticism/"
     },
     "CyrusTheGreat": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8965800182 [GLT8965800182].md",
@@ -47571,9 +47592,16 @@
           "show": "The Rest Is History",
           "title": "145. Babylon",
           "url": "/wiki/sources/145-babylon-glt7141377161/"
+        },
+        {
+          "episode_file": "GLT6414068538 [GLT6414068538].md",
+          "key": "41-persia-glt6414068538",
+          "show": "The Rest Is History",
+          "title": "41. Persia",
+          "url": "/wiki/sources/41-persia-glt6414068538/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/cyrusthegreat/"
     },
     "CzechRepublic": {
@@ -155911,9 +155939,9 @@
       "url": "/wiki/concepts/parliamentarysystem/"
     },
     "ParthianEmpire": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行 [lnrjUbKEOAhAvfk55rPIwNW15njF].md",
@@ -155928,9 +155956,16 @@
           "show": "The Rest Is History",
           "title": "197. Antony & Cleopatra (Part 3)",
           "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
+        },
+        {
+          "episode_file": "GLT6414068538 [GLT6414068538].md",
+          "key": "41-persia-glt6414068538",
+          "show": "The Rest Is History",
+          "title": "41. Persia",
+          "url": "/wiki/sources/41-persia-glt6414068538/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/parthianempire/"
     },
     "PartialReformDestabilization": {
@@ -158464,6 +158499,54 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/pershingsquare/"
+    },
+    "PersianCivilizationalContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6414068538 [GLT6414068538].md",
+          "key": "41-persia-glt6414068538",
+          "show": "The Rest Is History",
+          "title": "41. Persia",
+          "url": "/wiki/sources/41-persia-glt6414068538/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/persiancivilizationalcontinuity/"
+    },
+    "PersianGardenParadiseTradition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6414068538 [GLT6414068538].md",
+          "key": "41-persia-glt6414068538",
+          "show": "The Rest Is History",
+          "title": "41. Persia",
+          "url": "/wiki/sources/41-persia-glt6414068538/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/persiangardenparadisetradition/"
+    },
+    "PersianateAdministrativeTransmission": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6414068538 [GLT6414068538].md",
+          "key": "41-persia-glt6414068538",
+          "show": "The Rest Is History",
+          "title": "41. Persia",
+          "url": "/wiki/sources/41-persia-glt6414068538/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/persianateadministrativetransmission/"
     },
     "PersistentCloudAgents": {
       "episode_count": 2,
@@ -180787,6 +180870,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/sardis/"
+    },
+    "SasanianEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6414068538 [GLT6414068538].md",
+          "key": "41-persia-glt6414068538",
+          "show": "The Rest Is History",
+          "title": "41. Persia",
+          "url": "/wiki/sources/41-persia-glt6414068538/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/sasanianempire/"
     },
     "SasankAkkinappoli": {
       "episode_count": 1,
@@ -233675,6 +233774,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zongzilatehan/"
+    },
+    "ZoroastrianReligiousInfluence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6414068538 [GLT6414068538].md",
+          "key": "41-persia-glt6414068538",
+          "show": "The Rest Is History",
+          "title": "41. Persia",
+          "url": "/wiki/sources/41-persia-glt6414068538/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/zoroastrianreligiousinfluence/"
     },
     "ZouPeixuan": {
       "episode_count": 1,

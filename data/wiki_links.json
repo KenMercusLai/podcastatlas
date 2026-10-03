@@ -2359,6 +2359,10 @@
     "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
     "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
   },
+  "41-persia-glt6414068538": {
+    "title": "41. Persia",
+    "url": "/wiki/sources/41-persia-glt6414068538/"
+  },
   "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038": {
     "title": "41.施剑翘复仇案：超越哈贝马斯的情与法",
     "url": "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
@@ -60619,9 +60623,21 @@
     "title": "Pershing Square",
     "url": "/wiki/entities/pershingsquare/"
   },
+  "PersianCivilizationalContinuity": {
+    "title": "Persian Civilizational Continuity",
+    "url": "/wiki/concepts/persiancivilizationalcontinuity/"
+  },
+  "PersianGardenParadiseTradition": {
+    "title": "Persian Garden and Paradise Tradition",
+    "url": "/wiki/concepts/persiangardenparadisetradition/"
+  },
   "PersianMiniaturePainting": {
     "title": "Persian Miniature Painting",
     "url": "/wiki/concepts/persianminiaturepainting/"
+  },
+  "PersianateAdministrativeTransmission": {
+    "title": "Persianate Administrative Transmission",
+    "url": "/wiki/concepts/persianateadministrativetransmission/"
   },
   "PersistentAgentMemory": {
     "title": "Persistent Agent Memory",
@@ -69462,6 +69478,10 @@
   "SaruKaniGassen": {
     "title": "猿蟹合战 / Saru Kani Gassen",
     "url": "/wiki/entities/sarukanigassen/"
+  },
+  "SasanianEmpire": {
+    "title": "Sasanian Empire",
+    "url": "/wiki/entities/sasanianempire/"
   },
   "SasankAkkinappoli": {
     "title": "Sasank Akkinappoli",
@@ -90382,6 +90402,10 @@
   "Zoox": {
     "title": "Zoox",
     "url": "/wiki/entities/zoox/"
+  },
+  "ZoroastrianReligiousInfluence": {
+    "title": "Zoroastrian Religious Influence",
+    "url": "/wiki/concepts/zoroastrianreligiousinfluence/"
   },
   "ZouJi": {
     "title": "成侯邹忌 / Chenghou Zou Ji",

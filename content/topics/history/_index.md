@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2487
+topic_total_pages: 2488
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5796,6 +5796,9 @@ topic_sources:
   - key: "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455"
     title: "409. The Nazis in Power: Hitler's War on the Jews (Part 6)"
     url: "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
+  - key: "41-persia-glt6414068538"
+    title: "41. Persia"
+    url: "/wiki/sources/41-persia-glt6414068538/"
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
