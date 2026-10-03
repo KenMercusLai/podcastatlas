@@ -5,6 +5,7 @@ tags: [historiography, analogy, politics, source-criticism]
 sources:
   - 11-brexit-glt9171248177
   - 7-the-lessons-of-history-glt2771707131
+  - 4-were-all-so-17th-century-glt1251829896
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -21,7 +22,9 @@ Historical analogy limits is the principle that a past event can clarify one mec
 
 [[7-the-lessons-of-history-glt2771707131]] generalizes the same guardrail. Munich, appeasement, Hitler, and the Second World War can become scripts that collapse distinct disputes into a moral choice between resistance and surrender. Thucydides is similarly flattened when a contingent account of Athens and Sparta becomes an automatic rule about any rising and established power.
 
-Analogy is therefore a structured comparison rather than a hunt for a matching story. The analyst identifies a shared dimension, preserves differences in scale, culture, evidence, and context, and separates an event's later public memory from its operational history. Several partial mirrors can explain why a political narrative resonates even when none predicts policy outcomes.
+Severity calibration adds a further test. Epidemic fear, political polarization, media disruption, religiously inflected moral conflict, and contested political ancestry can rhyme across periods, yet the plague deaths, civil-war casualties, and institutional collapse described in [[4-were-all-so-17th-century-glt1251829896]] make equivalence misleading. The comparison is useful partly because the contrast corrects inflated crisis language.
+
+Analogy is therefore a structured comparison rather than a hunt for a matching story. The analyst identifies a shared dimension, preserves differences in scale, culture, evidence, institutions, and context, and separates an event's later public memory from its operational history. Several partial mirrors can explain why a political narrative resonates even when none predicts policy outcomes.
 
 ## Key Claims
 
@@ -31,6 +34,7 @@ Analogy is therefore a structured comparison rather than a hunt for a matching s
 - Public memory may explain an analogy's political force even when the remembered story simplifies the event.
 - Comparing several imperfect precedents is safer than treating one case as a historical script.
 - An analogy becomes especially dangerous when its moral label closes debate before situational fit is tested.
+- Severity and consequence must be compared explicitly; a shared mechanism does not imply comparable mortality, violence, or institutional breakdown.
 
 ## Evidence
 
@@ -54,14 +58,18 @@ Analogy is therefore a structured comparison rather than a hunt for a matching s
 
 - [[7-the-lessons-of-history-glt2771707131]] distinguishes Thucydides' contingent presentation of Athens and Sparta from later attempts to turn rising-power rivalry into a universal trap.
 
+### Shared mechanisms with unequal severity
+
+- [[4-were-all-so-17th-century-glt1251829896]] compares epidemic fear, pamphlet conflict, religious polarization, political ancestry, and scapegoating while using seventeenth-century plague and civil-war mortality to reject crisis equivalence.
+
 ## Counterevidence & Qualifications
 
-The sources are conversational historical surveys rather than formal comparative-method studies. Their chosen cases are selective, compressed, and centered on British, European, and military-political memory. Saying that no analogy is exact does not make all comparisons equally useful: evidentiary quality, causal relevance, proportionality, and explicit treatment of differences still determine whether an analogy informs or misleads.
+The sources are conversational historical surveys rather than formal comparative-method studies. Their chosen cases are selective, compressed, and centered on British, European, and military-political memory. Civil War–Brexit maps, Little Ice Age comparison, Scottish religious inheritance, witch-hunt analogy, and casualty figures remain episode-level prompts rather than demonstrated equivalences. Saying that no analogy is exact does not make all comparisons equally useful: evidentiary quality, causal relevance, proportionality, and explicit treatment of differences still determine whether an analogy informs or misleads.
 
 ## What Changed
 
-- Generalized the method beyond Brexit to debate-closing war analogies and great-power “trap” claims.
-- Added culture, evidence quality, and moral preselection to the dimensions that must be tested.
+- Added severity calibration: recurring mechanisms must be separated from mortality, violence, and institutional consequence.
+- Added contrast as a positive use of analogy rather than treating disanalogy only as a limitation.
 
 ## Related Concepts
 

@@ -96306,9 +96306,9 @@
       "url": "/wiki/concepts/historicalambiguityinmainstreamcinema/"
     },
     "HistoricalAnalogyLimits": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9171248177 [GLT9171248177].md",
@@ -96323,6 +96323,13 @@
           "show": "The Rest Is History",
           "title": "7. The Lessons of History",
           "url": "/wiki/sources/7-the-lessons-of-history-glt2771707131/"
+        },
+        {
+          "episode_file": "GLT1251829896 [GLT1251829896].md",
+          "key": "4-were-all-so-17th-century-glt1251829896",
+          "show": "The Rest Is History",
+          "title": "4. We’re all so 17th Century",
+          "url": "/wiki/sources/4-were-all-so-17th-century-glt1251829896/"
         }
       ],
       "updated": "2026-10-04",
@@ -107511,9 +107518,9 @@
       "url": "/wiki/concepts/internetmoraltrial/"
     },
     "InternetPoliticalAmplification": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3075342575 [GLT3075342575].md",
@@ -107528,6 +107535,13 @@
           "show": "The Rest Is History",
           "title": "8. The Echo of a Coffee House",
           "url": "/wiki/sources/8-the-echo-of-a-coffee-house-glt8695060101/"
+        },
+        {
+          "episode_file": "GLT1251829896 [GLT1251829896].md",
+          "key": "4-were-all-so-17th-century-glt1251829896",
+          "show": "The Rest Is History",
+          "title": "4. We’re all so 17th Century",
+          "url": "/wiki/sources/4-were-all-so-17th-century-glt1251829896/"
         }
       ],
       "updated": "2026-10-04",
@@ -114710,6 +114724,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/johnmethuen/"
+    },
+    "JohnMilton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1251829896 [GLT1251829896].md",
+          "key": "4-were-all-so-17th-century-glt1251829896",
+          "show": "The Rest Is History",
+          "title": "4. We’re all so 17th Century",
+          "url": "/wiki/sources/4-were-all-so-17th-century-glt1251829896/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/johnmilton/"
     },
     "JohnOfGaunt": {
       "episode_count": 4,

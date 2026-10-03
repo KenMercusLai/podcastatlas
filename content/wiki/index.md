@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [4. We’re all so 17th Century](sources/4-were-all-so-17th-century-glt1251829896.md) — The Rest Is History on plague, civil war, print disruption, religious conflict, political ancestry, and the limits of comparing modern crises with the seventeenth century.
 - [5. 1981](sources/5-1981-glt3026558838.md) — The Rest Is History on 1981 Britain, recent-history method, Diana, Thatcher, music, cricket, personal memory, and popular culture as historical evidence.
 - [6. Troy](sources/6-troy-glt4742295987.md) — The Rest Is History on Troy's qualified Bronze Age setting, rival war explanations, tragic victimhood, political ancestry, modern war memory, and film.
 - [7. The Lessons of History](sources/7-the-lessons-of-history-glt2771707131.md) — The Rest Is History on historical analogy, recurring pressures, geography, prediction limits, and humility without universal formulas.
@@ -3705,6 +3706,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [10. Christmas](sources/10-christmas-glt9855064623.md) — The Rest Is History survey of Nativity chronology, early feast dating, public festivity, Puritan suppression, Victorian domestic reinvention, Santa Claus, commerce, and the 1914 truce.
 
 ## Entities
+- [John Milton](entities/JohnMilton.md) — Poet, Commonwealth official, regicide defender, and advocate of freer print in a contested seventeenth-century information order.
 - [Troy](entities/Troy.md) — Bronze Age site and epic city whose archaeology, strategic setting, political appropriation, and victim-centered afterlife must be kept distinct.
 - [Popish Plot](entities/PopishPlot.md) — Fabricated Catholic assassination plot whose political crisis and institutional exclusions outlived exposure of the fraud.
 - [Titus Oates](entities/TitusOates.md) — Popish Plot accuser illustrating how a narrow accurate detail can lend rhetorical force to a much larger false claim.
