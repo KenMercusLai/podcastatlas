@@ -9,7 +9,8 @@ sources:
   - e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e
   - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
   - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
-last_updated: 2026-10-01
+  - scim1705222315-scim1705222315
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The Walker protocols episode clarifies the peripheral mechanism: warming hands a
 
 The full-length toolkit adds a practical comfort distinction: exposed hands, feet, and upper face can support heat release, while socks may help a person who becomes uncomfortably cold but worsen sleep for someone already waking hot. This reinforces individualized thermal neutrality rather than one fixed room or clothing rule.
 
+The early office-hours episode adds the underlying daily curve: body temperature is described as lowest late in the biological night, rising after waking, and peaking later in the day. Light and exercise help entrain that rhythm, while temperature is treated as an output through which the central clock coordinates tissues. Early-day cold is proposed to raise temperature after exposure, whereas late-day cold may delay the clock; those phase claims remain source-scoped rather than a home treatment rule.
+
 ## Key Claims
 - Morning temperature increase is part of alertness, and movement or carefully used cold exposure can support it.
 - Evening heat can aid later cooling, while late-night cold exposure may increase alertness at the wrong time.
@@ -34,7 +37,7 @@ The full-length toolkit adds a practical comfort distinction: exposed hands, fee
 - Overnight temperature needs may change between sleep onset, early deep sleep, later sleep, and waking.
 - Dual-zone control can reduce conflict when bed partners have different temperature preferences.
 - Sensor-guided temperature can personalize timing, but stage-estimation errors and changing health contexts can make a generic protocol inappropriate.
-- Peripheral warming can assist core heat loss, while REM and comfort may require avoiding both excessive cold and excessive heat.
+- Peripheral warming can assist core heat loss, while REM, comfort, and biological time require avoiding temperature extremes rather than assuming one fixed “correct” body temperature or cold-exposure hour.
 
 ## Evidence
 - Morning and evening direction - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] links morning cold and exercise with alertness, and evening heat followed by cooling with sleep support.
@@ -45,15 +48,15 @@ The full-length toolkit adds a practical comfort distinction: exposed hands, fee
 - Peripheral heat loss - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] links hand and foot warming, vasodilation, bathing, and subsequent cooling with sleep onset.
 - Thermal neutrality and controlled warming - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] connects REM with avoiding temperature extremes and reports laboratory thermal-suit effects in older adults.
 - Individual comfort and heat release - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] highlights hands, feet, and upper-face heat release and treats socks as conditional on whether the sleeper is too cold or too warm.
+- Daily curve and phase hypothesis - [[scim1705222315-scim1705222315]] describes a late-night temperature low, a post-waking rise, and a later-day peak while presenting light, exercise, and cold timing as possible entrainment inputs.
 
 ## Counterevidence & Qualifications
-The sources do not establish one ideal room or bed temperature, universal stage-specific curves, or clinical benefit for pregnancy, chemotherapy symptoms, shift work, or sleep disorders. The roughly 67°F room target and large older-adult thermal-suit effect reported by Walker remain source-scoped rather than universal thresholds. Exact physiological mechanisms and product improvement percentages remain source-scoped. Hot or cold exposure can be unsafe in some medical contexts, and a temperature intervention cannot compensate for insufficient sleep opportunity or replace evaluation of serious symptoms.
+The sources do not establish one ideal body, room, or bed temperature, universal stage-specific curves, or clinical benefit for pregnancy, chemotherapy symptoms, shift work, or sleep disorders. The roughly 67°F room target and large older-adult thermal-suit effect reported by Walker remain source-scoped rather than universal thresholds. The office-hours timing, daily peak, and cold phase-advance or phase-delay claims likewise lack enough methods here for individualized use. Exact physiological mechanisms and product improvement percentages remain source-scoped. Hot or cold exposure can be unsafe in some medical contexts, and a temperature intervention cannot compensate for insufficient sleep opportunity or replace evaluation of serious symptoms.
 
 ## What Changed
-- Added socks and exposed extremities as conditional comfort tools rather than universal instructions.
-- Preserved peripheral warming and subsequent core heat loss as the bath, shower, and hand-foot mechanism.
-- Retained thermal neutrality as a limit on maximizing cold.
-- Kept controlled skin warming as promising laboratory evidence rather than a universal home protocol.
+- Added the daily temperature curve and central-clock effector account.
+- Distinguished biological-time interpretation from a fixed “correct” temperature.
+- Kept early- versus late-day cold phase effects source-scoped rather than universal timing advice.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - broader 24-hour timing system containing temperature cues.

@@ -14,6 +14,7 @@ sources:
   - optimize-your-learning-creativity-with-science-based-tools-scim9141486324
   - scim3840916606-scim3840916606
   - scim4224560223-scim4224560223
+  - scim1705222315-scim1705222315
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -40,6 +41,8 @@ The preceding [[scim3840916606-scim3840916606]] episode gives that learning use 
 
 The January 2021 sleep episode adds another early use case: NSDR, hypnosis, yoga nidra, or meditation during nighttime waking, daytime stress, or the morning after insufficient sleep. Its strongest contribution is anti-rigidity—learning to calm the nervous system when sleep cannot be forced—not evidence that quiet rest erases sleep debt or that all named practices are interchangeable.
 
+The preceding office-hours episode places a roughly 20-minute nap or NSDR-like period immediately after about 90 minutes of learning and presents hypnosis as focused attention combined with deep rest. This strengthens the early post-learning provenance, but it still does not isolate NSDR from napping, quiet rest, or hypnosis, or establish transfer beyond the described tasks.
+
 ## Key Claims
 - NSDR or yoga nidra is presented as a possible way to downshift stress and restore subjective vigor.
 - The practice can be used during travel or after exercise without requiring specialized equipment.
@@ -63,13 +66,14 @@ The January 2021 sleep episode adds another early use case: NSDR, hypnosis, yoga
 - Earlier learning-consolidation account - [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] places 10-30 minutes of afternoon NSDR, yoga nidra, hypnosis, or shallow rest between demanding work periods and later learning.
 - Earliest post-practice account - [[scim3840916606-scim3840916606]] reports a 20-minute NSDR-like or shallow-nap condition immediately after a spatial-memory task as improving learning rate.
 - Early sleep-anxiety use - [[scim4224560223-scim4224560223]] presents NSDR, hypnosis, yoga nidra, and meditation as possible downshifting tools during waking at night, daytime stress, or the morning after poor sleep.
+- Office-hours post-learning use - [[scim1705222315-scim1705222315]] places a roughly 20-minute nap or NSDR-like period after a learning bout and describes hypnosis as a focused-rest state better suited to state change than detailed factual acquisition.
 
 ## Counterevidence & Qualifications
 The sources do not establish a universal duration, controlled working-memory, creativity, spatial-memory, or sensory-motor effect, guaranteed return to sleep, reduced biological sleep need, full reversal of sleep deprivation, interchangeability among NSDR, yoga nidra, hypnosis, and meditation, or superiority over sleep, passive rest, meditation, or clinical treatment. The reported dopamine or cortisol change should not be read as a corresponding percentage gain in cognition, creativity, or sleep restoration, and the cited pathway interpretations remain source-scoped. The early 20-minute post-practice result lacks enough detail here to separate NSDR from a shallow nap or ordinary quiet rest. Severe fatigue, exercise intolerance, persistent insomnia, faintness, pain, or functional decline requires assessment rather than additional relaxation audio.
 
 ## What Changed
-- Added early provenance for nighttime, daytime, and post-sleep-loss de-arousal use.
-- Preserved the boundary between a state-transition option and insomnia treatment, sleep-debt reversal, or sleep replacement.
+- Added office-hours provenance for a short post-learning rest period and the focused-rest account of hypnosis.
+- Preserved uncertainty about whether NSDR, naps, hypnosis, and ordinary quiet rest produce the same consolidation effect.
 
 ## Related Concepts
 - [[ExerciseRecoveryReadiness]] - broader framework for recovery inputs and load adjustment.

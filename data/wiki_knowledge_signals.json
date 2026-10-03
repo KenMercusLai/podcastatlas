@@ -41050,9 +41050,9 @@
       "url": "/wiki/concepts/coldflusupplementevidenceboundary/"
     },
     "ColdShiveringThermogenesis": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM9321862300 [SCIM9321862300].md",
@@ -41081,9 +41081,16 @@
           "show": "Huberman Lab",
           "title": "How to Lose Fat With Science-Based Tools",
           "url": "/wiki/sources/scim2441056488-scim2441056488/"
+        },
+        {
+          "episode_file": "SCIM1705222315 [SCIM1705222315].md",
+          "key": "scim1705222315-scim1705222315",
+          "show": "Huberman Lab",
+          "title": "Using Science to Optimize Sleep, Learning & Metabolism",
+          "url": "/wiki/sources/scim1705222315-scim1705222315/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/coldshiveringthermogenesis/"
     },
     "ColdWarNuclearMisperception": {
@@ -48614,9 +48621,9 @@
       "url": "/wiki/concepts/daigouchannel/"
     },
     "DailyCircadianPerformanceRoutine": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM5427393382 [SCIM5427393382].md",
@@ -48659,6 +48666,13 @@
           "show": "Huberman Lab",
           "title": "Optimize Your Learning & Creativity With Science-Based Tools",
           "url": "/wiki/sources/optimize-your-learning-creativity-with-science-based-tools-scim9141486324/"
+        },
+        {
+          "episode_file": "SCIM1705222315 [SCIM1705222315].md",
+          "key": "scim1705222315-scim1705222315",
+          "show": "Huberman Lab",
+          "title": "Using Science to Optimize Sleep, Learning & Metabolism",
+          "url": "/wiki/sources/scim1705222315-scim1705222315/"
         }
       ],
       "updated": "2026-10-04",
@@ -144814,9 +144828,9 @@
       "url": "/wiki/concepts/morganaticmarriage/"
     },
     "MorningLightCircadianAnchoring": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -144894,9 +144908,16 @@
           "show": "Huberman Lab",
           "title": "Timing Your Light, Food, & Exercise for Optimal Sleep, Energy & Mood | Dr. Samer Hattar",
           "url": "/wiki/sources/scim9724505974-scim9724505974/"
+        },
+        {
+          "episode_file": "SCIM1705222315 [SCIM1705222315].md",
+          "key": "scim1705222315-scim1705222315",
+          "show": "Huberman Lab",
+          "title": "Using Science to Optimize Sleep, Learning & Metabolism",
+          "url": "/wiki/sources/scim1705222315-scim1705222315/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
     },
     "MorningMarketUrbanism": {
@@ -150742,9 +150763,9 @@
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonSleepDeepRestRecovery": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -150822,6 +150843,13 @@
           "show": "Huberman Lab",
           "title": "How to Defeat Jet Lag, Shift Work & Sleeplessness",
           "url": "/wiki/sources/scim4224560223-scim4224560223/"
+        },
+        {
+          "episode_file": "SCIM1705222315 [SCIM1705222315].md",
+          "key": "scim1705222315-scim1705222315",
+          "show": "Huberman Lab",
+          "title": "Using Science to Optimize Sleep, Learning & Metabolism",
+          "url": "/wiki/sources/scim1705222315-scim1705222315/"
         }
       ],
       "updated": "2026-10-04",
@@ -190667,9 +190695,9 @@
       "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -190726,15 +190754,22 @@
           "show": "Huberman Lab",
           "title": "How to Defeat Jet Lag, Shift Work & Sleeplessness",
           "url": "/wiki/sources/scim4224560223-scim4224560223/"
+        },
+        {
+          "episode_file": "SCIM1705222315 [SCIM1705222315].md",
+          "key": "scim1705222315-scim1705222315",
+          "show": "Huberman Lab",
+          "title": "Using Science to Optimize Sleep, Learning & Metabolism",
+          "url": "/wiki/sources/scim1705222315-scim1705222315/"
         }
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/sleepsupplementboundary/"
     },
     "SleepTemperatureToolkit": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -190777,9 +190812,16 @@
           "show": "Huberman Lab",
           "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836/"
+        },
+        {
+          "episode_file": "SCIM1705222315 [SCIM1705222315].md",
+          "key": "scim1705222315-scim1705222315",
+          "show": "Huberman Lab",
+          "title": "Using Science to Optimize Sleep, Learning & Metabolism",
+          "url": "/wiki/sources/scim1705222315-scim1705222315/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/sleeptemperaturetoolkit/"
     },
     "SleepWakeTimingToolkit": {
@@ -202019,9 +202061,9 @@
       "url": "/wiki/entities/taokan/"
     },
     "TargetedMemoryReactivation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -202029,9 +202071,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
           "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        },
+        {
+          "episode_file": "SCIM1705222315 [SCIM1705222315].md",
+          "key": "scim1705222315-scim1705222315",
+          "show": "Huberman Lab",
+          "title": "Using Science to Optimize Sleep, Learning & Metabolism",
+          "url": "/wiki/sources/scim1705222315-scim1705222315/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/targetedmemoryreactivation/"
     },
     "TargetedSupplementNeedAssessment": {

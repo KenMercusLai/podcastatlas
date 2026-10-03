@@ -4,7 +4,8 @@ type: concept
 tags: [sleep, memory, cueing, neuroscience, learning]
 sources:
   - guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951
-last_updated: 2026-09-25
+  - scim1705222315-scim1705222315
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,12 +19,15 @@ The episode presents cueing as a two-stage procedure. A sound or odor is first a
 
 Two applications are described. In learning studies, an odor paired with material during wakefulness and reintroduced during sleep reportedly improves later memory relative to an unpaired odor. In nightmare treatment, a pleasant piano chord paired with a rewritten dream ending and replayed during REM reportedly improved the response beyond imagery rehearsal alone.
 
+The earlier office-hours episode adds spatial-memory provenance. It describes odor or tone cues paired with remembering object locations and replayed during sleep, with later retention improving when the cue remains safe and below the awakening threshold. It also proposes tactile cueing as a possibility, but the supplied note does not establish a tactile result.
+
 The concept is promising because it links controlled waking association with selective sleep processing, but it remains experimental. Safe cue delivery, accurate sleep staging, cue intensity, habituation, awakenings, and whether effects generalize beyond particular tasks or nightmare protocols remain open.
 
 ## Key Claims
 - A cue must first be bonded to learning or therapeutic material while awake.
 - Re-presentation during sleep is intended to bias processing without crossing the awakening threshold.
 - Sound and odor can serve as cues in the studies described by the source.
+- The early spatial-learning example ties cueing to object-location memory rather than general intelligence or unpaired stimulation.
 - Cueing may strengthen learned material or enhance nightmare rescripting under specific experimental conditions.
 - A cue alone is not a general memory enhancer, and practical use depends on safety and protocol details.
 
@@ -32,12 +36,14 @@ The concept is promising because it links controlled waking association with sel
 - Odor application - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] reports that a rose scent helped only when it had been paired with the learning experience first.
 - Nightmare application - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] describes a pleasant piano chord paired with imagery rehearsal and replayed during REM.
 - Safety boundary - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] cautions against unsafe odor-delivery practices such as burning incense during sleep.
+- Spatial-learning provenance - [[scim1705222315-scim1705222315]] describes odor or tone association during object-location learning followed by below-threshold replay during sleep and improved later retention.
 
 ## Counterevidence & Qualifications
-The source summary does not establish effect size across tasks, optimal sleep stage, replication, durability, home-device accuracy, or whether repeated cueing fragments sleep. The nightmare result appears tied to a specific small study and should not be generalized into a consumer protocol. Fire, allergy, respiratory, volume, and sleep-disruption risks matter for home cue delivery.
+The source summaries do not establish effect size across tasks, optimal sleep stage, replication, durability, home-device accuracy, a demonstrated tactile result, or whether repeated cueing fragments sleep. The nightmare result appears tied to a specific small study and should not be generalized into a consumer protocol. Fire, allergy, respiratory, volume, and sleep-disruption risks matter for home cue delivery.
 
 ## What Changed
-- Created an experimental sleep-cueing synthesis with the waking-association and safety boundaries made explicit.
+- Added earlier object-location learning evidence using odor or tone cues.
+- Kept tactile stimulation as a proposed extension rather than an established result.
 
 ## Related Concepts
 - [[NightmareImageryRehearsalTherapy]] - therapeutic content that cueing may experimentally reinforce.

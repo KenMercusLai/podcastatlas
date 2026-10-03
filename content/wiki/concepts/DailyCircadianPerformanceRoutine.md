@@ -9,6 +9,7 @@ sources:
   - scim2746317304-scim2746317304
   - scim3608509346-scim3608509346
   - optimize-your-learning-creativity-with-science-based-tools-scim9141486324
+  - scim1705222315-scim1705222315
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -33,6 +34,8 @@ A cognitive-mode hypothesis in [[scim2746317304-scim2746317304]] proposes that e
 
 The earlier [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] episode makes the task-fit rule more explicit and less clock-bound. Alertness is useful for deliberate learning and linear implementation, while relaxed or slightly sleepy states may be better for exploratory combination; creative implementation still returns to focused work. Morning and evening light, delayed caffeine, exercise, meal composition, afternoon deep rest, and nighttime dimness are examples of state inputs, not a requirement to copy the host's day.
 
+The January 2021 office-hours episode adds anticipatory plasticity and self-experiment design. Repeated wake, exercise, sleep, and meal timing can make the body begin preparing for those events, but the episode also recommends tracking wake time, light, meals, exercise, temperature sensations, and rest while changing only one or two variables at a time. Consistency is therefore a way to reveal and train a pattern, not a reason to ignore individual sleep or performance response.
+
 ## Key Claims
 - Daily performance is presented as a sequencing problem across the full 24-hour cycle, not a collection of independent hacks.
 - Wake time, outdoor light, movement, caffeine, work, exercise, food, late-day light, darkness, and temperature all act as state or timing cues.
@@ -40,7 +43,7 @@ The earlier [[optimize-your-learning-creativity-with-science-based-tools-scim914
 - Afternoon light, evening starch, heat followed by cooling, darkness, and a cool room form the transition from daytime activation to sleep.
 - Workspace lighting and cognitive mode can be adjusted across the waking day without treating every person as having the same analytic or creative peak.
 - State-matched timing can support early habit repetition, but later context independence is stronger evidence of automaticity than permanent clock dependence.
-- Task type may be matched to broad daily state, but early precision and later creativity are hypotheses rather than universal clock rules.
+- Task type and repeated routines may be matched to broad daily state, but early precision, later creativity, and anticipatory timing are hypotheses best tested by changing only a small number of variables at once.
 
 ## Evidence
 - Whole-day sequence - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] follows one day from wake-time recording through morning light, work, exercise, meals, afternoon light, dinner, cooling, and sleep.
@@ -53,14 +56,15 @@ The earlier [[optimize-your-learning-creativity-with-science-based-tools-scim914
 - Flexibility boundary - [[the-science-of-making-breaking-habits-scim6848516659]] recommends varying time and context after a habit becomes easier to test whether it is genuinely portable.
 - Cognitive-mode timing - [[scim2746317304-scim2746317304]] proposes earlier precision work and later fluid or creative work while noting that disrupted sleep can blur the underlying daily-state pattern.
 - Earlier state-to-task provenance - [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] matches alert focus to learning and implementation, lower arousal to exploration, and rest to recovery without making one clock schedule universal.
+- Anticipation and self-tracking - [[scim1705222315-scim1705222315]] says regular waking, exercise, sleep, and meal cues can become easier through anticipation and proposes tracking multiple outcomes while changing only one or two inputs at a time.
 
 ## Counterevidence & Qualifications
-The sources describe public science education and example routines, not a validated universal schedule. The full and Essentials daily-tools releases are overlapping provenance. Shift work, caregiving, disability, chronotype, eating disorders, diabetes, psychiatric conditions, sleep disorders, medication effects, pregnancy, training history, and occupational safety can change whether any element is appropriate. Mechanistic claims about optic flow, fasting, meal composition, cytokines, serotonin, supplements, light-sensitive retinal pathways, limbic friction, or precise cognitive and habit phases should not be treated as individualized care. The earlier episode's caffeine, sodium, carbohydrate, evening-alertness, and light-plasticity explanations are likewise source-scoped. State matching can help repetition or task selection without proving that one clock window is necessary.
+The sources describe public science education and example routines, not a validated universal schedule. The full and Essentials daily-tools releases are overlapping provenance. Shift work, caregiving, disability, chronotype, eating disorders, diabetes, psychiatric conditions, sleep disorders, medication effects, pregnancy, training history, and occupational safety can change whether any element is appropriate. Mechanistic claims about optic flow, fasting, meal composition, cytokines, serotonin, supplements, light-sensitive retinal pathways, limbic friction, or precise cognitive and habit phases should not be treated as individualized care. The early episodes' caffeine, sodium, carbohydrate, evening-alertness, anticipatory-plasticity, food-neurotransmitter, and light-plasticity explanations are likewise source-scoped. State matching and consistent cues can help repetition or task selection without proving that one clock window is necessary.
 
 ## What Changed
-- Added earlier provenance for matching learning, creative exploration, and implementation to different arousal states.
-- Clarified that task fit matters more than copying the host's clock schedule.
-- Extended the routine's afternoon-rest and morning/evening light context.
+- Added anticipatory plasticity across waking, exercise, meals, and sleep.
+- Added a one-or-two-variable self-tracking rule for distinguishing personal timing effects.
+- Preserved consistency as a learning aid rather than a demand for rigid schedule compliance.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - sleep-focused parent toolkit that this routine extends into work, exercise, and meals.

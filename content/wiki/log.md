@@ -29035,3 +29035,11 @@ Added source `16-pompeii-glt3349011345`; created [[SophieHay]], [[GaiusAlleiusNi
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | Using Science to Optimize Sleep, Learning & Metabolism
+
+Added source `scim1705222315-scim1705222315`; resynthesized [[DailyCircadianPerformanceRoutine]], [[MorningLightCircadianAnchoring]], [[TargetedMemoryReactivation]], [[NonSleepDeepRestRecovery]], [[SleepSupplementBoundary]], [[SleepTemperatureToolkit]], and [[ColdShiveringThermogenesis]] from their complete preserved evidence inventories. Core synthesis: light, activity, food, temperature, rest, and supplements have timing-, intensity-, and goal-dependent effects, while stable routines and one-or-two-variable tracking can reveal individual response without turning an example schedule into a universal prescription. No settled contradiction was adopted; exact light, learning-cue, supplement, temperature, cold, neurotransmitter, metabolism, mood, and sex-difference claims remain source-scoped. Recurring host and show profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,629-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

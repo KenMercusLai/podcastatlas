@@ -11,6 +11,7 @@ sources:
   - developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354
   - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
   - scim4224560223-scim4224560223
+  - scim1705222315-scim1705222315
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -39,6 +40,8 @@ The full-length sleep toolkit supplies the longer context behind the Essentials 
 
 The January 2021 episode supplies early provenance for the same behavior-first hierarchy and the magnesium, theanine, apigenin, melatonin, 5-HTP, tryptophan, and tyrosine discussion. It adds proposed reproductive-hormone concerns around melatonin and anti-estrogenic effects around apigenin, but the supplied summary does not establish their clinical magnitude. Those mechanisms therefore remain source-scoped reasons for caution and medical discussion, not generalized claims that the compounds are uniformly unsafe.
 
+The preceding office-hours episode separately reports magnesium threonate use 30-60 minutes before sleep, GABA- or chloride-channel explanations for apigenin and passionflower, and a first-person pattern of rapid sleep followed by waking roughly 90 minutes later after tryptophan or 5-HTP. This adds provenance for individual-response screening, not comparative efficacy or a recommendation to start or stop any compound.
+
 ## Key Claims
 - Behavioral tools come first, nutrition second, supplements third, and prescription drugs require physician involvement.
 - Magnesium forms, apigenin, theanine, and occasional inositol are presented as possible sleep supports; evidence may depend on deficiency, formulation, and individual response.
@@ -61,13 +64,14 @@ The January 2021 episode supplies early provenance for the same behavior-first h
 - Variable isolation and melatonin boundary - [[developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354]] checks caffeine and meal timing first, discusses myo-inositol for night waking, recommends isolated trials, and raises routine-use, maintenance, label, and pediatric concerns about melatonin.
 - Personal regimen boundary - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] reports intermittent glycine, GABA, and myo-inositol use for sleep or nighttime waking without supplying controlled comparative evidence.
 - Early hormone and next-day-effect cautions - [[scim4224560223-scim4224560223]] places behavior before supplements and raises source-scoped melatonin, apigenin, theanine, serotonin-precursor, and tyrosine concerns.
+- Early individual-response account - [[scim1705222315-scim1705222315]] discusses magnesium threonate, apigenin, passionflower, tryptophan, and 5-HTP while reporting first-person sleep fragmentation after serotonin precursors.
 
 ## Counterevidence & Qualifications
 The sources do not determine whether any person should use, taper, or avoid a supplement, hormone, serotonin precursor, or prescription sleep medication. They do not establish comparative efficacy for valerian, glycine, phosphatidylserine, GABA, theanine, myo-inositol, magnesium forms, or deficiency testing; quantify reproductive or anti-estrogenic effects; certify product quality; validate doses, label-variance estimates, or long-term dependence claims; or replace clinical care for insomnia, pediatric sleep, pregnancy, psychiatric illness, breathing disorders, drug interactions, or persistent impairment.
 
 ## What Changed
-- Added early provenance for the behavior-first hierarchy and named sleep-aid cautions.
-- Kept reproductive-hormone, anti-estrogenic, dream, label, and next-day-effect claims source-scoped rather than generalized.
+- Added office-hours provenance for magnesium timing, passionflower, and an adverse first-person serotonin-precursor response.
+- Kept GABA, chloride-channel, timing, and sleep-fragmentation explanations source-scoped rather than comparative treatment evidence.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent timing toolkit that places supplements after behavior and nutrition.

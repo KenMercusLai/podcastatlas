@@ -3688,6 +3688,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Learn Faster by Using Failures, Movement & Balance](sources/how-to-learn-faster-by-using-failures-movement-balance-scim9872815940.md) — Early Huberman Lab episode on correctable errors, adult neuroplasticity, flow versus learning, arousal regulation, sleep consolidation, and safe vestibular novelty.
 - [How to Focus to Change Your Brain](sources/scim3840916606-scim3840916606.md) — Early Huberman Lab episode on attention-gated adult neuroplasticity, alertness, sensory selection, bounded focus bouts, sleep, and deep-rest consolidation.
 - [How to Defeat Jet Lag, Shift Work & Sleeplessness](sources/scim4224560223-scim4224560223.md) — Early Huberman Lab episode on phase-aware light and temperature timing, travel, shift work, lifespan sleep, de-arousal, supplements, and the limits of adult sleep compression.
+- [Using Science to Optimize Sleep, Learning & Metabolism](sources/scim1705222315-scim1705222315.md) — Early Huberman Lab office-hours episode on timing-dependent light, exercise, learning, rest, supplements, temperature, cold exposure, meals, and one-variable self-tracking.
 
 ## Entities
 - [Sophie Hay](entities/SophieHay.md) — Archaeologist connecting long-term Pompeii fieldwork, conservation, public communication, and evidentiary caution.
