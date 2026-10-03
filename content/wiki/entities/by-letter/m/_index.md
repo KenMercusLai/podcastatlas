@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12161
+wiki_total_pages: 12166
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1496,6 +1496,9 @@ wiki_pages:
   - key: "MolinosPeru"
     title: "Molinos (Peru)"
     url: "/wiki/entities/molinosperu/"
+  - key: "Moloch"
+    title: "Moloch"
+    url: "/wiki/entities/moloch/"
   - key: "Molycorp"
     title: "Molycorp"
     url: "/wiki/entities/molycorp/"

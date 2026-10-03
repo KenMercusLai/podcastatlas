@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 12161
+wiki_total_pages: 12166
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "XiningWildlifePark"
     title: "Xining Wildlife Park / 西宁野生动物园"
     url: "/wiki/entities/xiningwildlifepark/"
+  - key: "XipeTotec"
+    title: "Xipe Totec"
+    url: "/wiki/entities/xipetotec/"
   - key: "XiuLife"
     title: "Xiu Life / 秀生活"
     url: "/wiki/entities/xiulife/"

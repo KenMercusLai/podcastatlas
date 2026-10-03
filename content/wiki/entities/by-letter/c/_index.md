@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12161
+wiki_total_pages: 12166
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1670,6 +1670,9 @@ wiki_pages:
   - key: "CVCCapitalPartners"
     title: "CVC Capital Partners"
     url: "/wiki/entities/cvccapitalpartners/"
+  - key: "Cybele"
+    title: "Cybele"
+    url: "/wiki/entities/cybele/"
   - key: "CyberAvengers"
     title: "Cyber Avengers"
     url: "/wiki/entities/cyberavengers/"

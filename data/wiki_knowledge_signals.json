@@ -11336,9 +11336,9 @@
       "url": "/wiki/concepts/ancientchinesebookmateriality/"
     },
     "AncientDivineIdentitySyncretism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6474253297 [GLT6474253297].md",
@@ -11346,6 +11346,13 @@
           "show": "The Rest Is History",
           "title": "59. The World Cup of Gods - Part 2",
           "url": "/wiki/sources/59-the-world-cup-of-gods-part-2-glt6474253297/"
+        },
+        {
+          "episode_file": "GLT8884399326 [GLT8884399326].md",
+          "key": "58-the-world-cup-of-gods-part-1-glt8884399326",
+          "show": "The Rest Is History",
+          "title": "58. The World Cup of Gods - Part 1",
+          "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
         }
       ],
       "updated": "2026-10-03",
@@ -26060,6 +26067,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/brighton/"
+    },
+    "BrigidOfKildare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8884399326 [GLT8884399326].md",
+          "key": "58-the-world-cup-of-gods-part-1-glt8884399326",
+          "show": "The Rest Is History",
+          "title": "58. The World Cup of Gods - Part 1",
+          "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/brigidofkildare/"
     },
     "Britain1976IMFCrisis": {
       "episode_count": 5,
@@ -46996,6 +47019,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/cuthbertcollingwood/"
+    },
+    "Cybele": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8884399326 [GLT8884399326].md",
+          "key": "58-the-world-cup-of-gods-part-1-glt8884399326",
+          "show": "The Rest Is History",
+          "title": "58. The World Cup of Gods - Part 1",
+          "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/cybele/"
     },
     "CyberCapableModelControls": {
       "episode_count": 2,
@@ -106434,6 +106473,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/isaiahdorman/"
     },
+    "IshtarInanna": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8884399326 [GLT8884399326].md",
+          "key": "58-the-world-cup-of-gods-part-1-glt8884399326",
+          "show": "The Rest Is History",
+          "title": "58. The World Cup of Gods - Part 1",
+          "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/ishtarinanna/"
+    },
     "IsisGoddess": {
       "episode_count": 1,
       "show_count": 1,
@@ -126136,6 +126191,29 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/logoswapmerchandisestandardization/"
     },
+    "Loki": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
+          "key": "ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw",
+          "show": "Talk三联",
+          "title": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？",
+          "url": "/wiki/sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw/"
+        },
+        {
+          "episode_file": "GLT8884399326 [GLT8884399326].md",
+          "key": "58-the-world-cup-of-gods-part-1-glt8884399326",
+          "show": "The Rest Is History",
+          "title": "58. The World Cup of Gods - Part 1",
+          "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/loki/"
+    },
     "LolaMontez": {
       "episode_count": 1,
       "show_count": 1,
@@ -141128,6 +141206,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/mohenjodaro/"
     },
+    "Moloch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8884399326 [GLT8884399326].md",
+          "key": "58-the-world-cup-of-gods-part-1-glt8884399326",
+          "show": "The Rest Is History",
+          "title": "58. The World Cup of Gods - Part 1",
+          "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/moloch/"
+    },
     "MomoTimeApp": {
       "episode_count": 1,
       "show_count": 1,
@@ -148873,9 +148967,9 @@
       "url": "/wiki/entities/oceanbase/"
     },
     "OctavianAugustus": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -148904,9 +148998,16 @@
           "show": "The Rest Is History",
           "title": "197. Antony & Cleopatra (Part 3)",
           "url": "/wiki/sources/197-antony-cleopatra-part-3-glt1953107818/"
+        },
+        {
+          "episode_file": "GLT8884399326 [GLT8884399326].md",
+          "key": "58-the-world-cup-of-gods-part-1-glt8884399326",
+          "show": "The Rest Is History",
+          "title": "58. The World Cup of Gods - Part 1",
+          "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/octavianaugustus/"
     },
     "October1974UKGeneralElection": {
@@ -163610,9 +163711,9 @@
       "url": "/wiki/entities/princemochihito/"
     },
     "PrincePhilip": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2826379729 [GLT2826379729].md",
@@ -163620,9 +163721,16 @@
           "show": "The Rest Is History",
           "title": "231. Queen Elizabeth II (Part 1)",
           "url": "/wiki/sources/231-queen-elizabeth-ii-part-1-glt2826379729/"
+        },
+        {
+          "episode_file": "GLT8884399326 [GLT8884399326].md",
+          "key": "58-the-world-cup-of-gods-part-1-glt8884399326",
+          "show": "The Rest Is History",
+          "title": "58. The World Cup of Gods - Part 1",
+          "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/princephilip/"
     },
     "PrincelyConsortDependency": {
@@ -220265,6 +220373,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/xiongnusuccessionfragmentation/"
+    },
+    "XipeTotec": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8884399326 [GLT8884399326].md",
+          "key": "58-the-world-cup-of-gods-part-1-glt8884399326",
+          "show": "The Rest Is History",
+          "title": "58. The World Cup of Gods - Part 1",
+          "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/xipetotec/"
     },
     "XiuliChanyu": {
       "episode_count": 1,

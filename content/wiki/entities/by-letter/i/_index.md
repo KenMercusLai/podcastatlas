@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 12161
+wiki_total_pages: 12166
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "IshikawaTakuboku"
     title: "Ishikawa Takuboku / 石川啄木"
     url: "/wiki/entities/ishikawatakuboku/"
+  - key: "IshtarInanna"
+    title: "Ishtar / Inanna"
+    url: "/wiki/entities/ishtarinanna/"
   - key: "ISIS"
     title: "ISIS"
     url: "/wiki/entities/isis/"

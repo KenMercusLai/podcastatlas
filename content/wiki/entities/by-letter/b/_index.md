@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12161
+wiki_total_pages: 12166
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1076,6 +1076,9 @@ wiki_pages:
   - key: "Brighton"
     title: "Brighton"
     url: "/wiki/entities/brighton/"
+  - key: "BrigidOfKildare"
+    title: "Brigid / Saint Brigid of Kildare"
+    url: "/wiki/entities/brigidofkildare/"
   - key: "BristolMyersSquibb"
     title: "Bristol Myers Squibb / BMS"
     url: "/wiki/entities/bristolmyerssquibb/"

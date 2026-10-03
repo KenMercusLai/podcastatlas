@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [58. The World Cup of Gods - Part 1](sources/58-the-world-cup-of-gods-part-1-glt8884399326.md) — The Rest Is History tournament on ambiguous gods, violent and regenerative cults, ruler deification, saintly accretion, literary afterlives, and modern worship.
 - [Science of Muscle Growth, Increasing Strength & Muscular Recovery](sources/scim1817217176-scim1817217176.md) — Early Huberman Lab episode on neuromuscular strength and hypertrophy, lactate, recovery monitoring, soreness, cold and anti-inflammatory tradeoffs, and nutrition support.
 - [59. The World Cup of Gods - Part 2](sources/59-the-world-cup-of-gods-part-2-glt6474253297.md) — The Rest Is History tournament on Athena, Odin, Greek, Roman, Egyptian, and Mithraic gods as changing products of ritual, politics, literature, syncretism, and reception.
 - [60. Muhammad](sources/60-muhammad-glt7621065751.md) — The Rest Is History on Muhammad's probable existence, late biography, the Qur'an as early evidence, late-antique context, and contested revisionist reconstruction.
@@ -3617,6 +3618,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Build Endurance in Your Brain & Body](sources/scim8024795061-scim8024795061.md) — Early Huberman Lab solo episode on four endurance modes, brain-body persistence, breathing, hydration, recovery, visual pacing, and source-scoped protocols.
 
 ## Entities
+- [Moloch](entities/Moloch.md) — Disputed Levantine deity or ritual term whose child-sacrifice association and later demonic reputation require layered evidence.
+- [Xipe Totec](entities/XipeTotec.md) — Aztec “Flayed One” joining agricultural renewal, sacrificial embodiment, disease, healing, and divine danger.
+- [Ishtar / Inanna](entities/IshtarInanna.md) — Mesopotamian goddess combining love, war, kingship, underworld descent, ritual boundary-crossing, and later reception.
+- [Brigid / Saint Brigid of Kildare](entities/BrigidOfKildare.md) — Disputed Irish goddess-saint figure whose direction of development remains historically unresolved.
+- [Cybele](entities/Cybele.md) — Phrygian and Roman mother goddess associated with Attis, sacred stones, ecstatic devotion, and ritual castration.
 - [Zeus](entities/Zeus.md) — Greek sky-father and divine patriarch distinguished from Jupiter's specifically Roman civic and ritual identity.
 - [Anubis](entities/Anubis.md) — Egyptian canine-headed psychopomp associated with embalming, regeneration, and escorting the dead.
 - [Isis (goddess)](entities/IsisGoddess.md) — Egyptian and Mediterranean goddess whose cult, Ptolemaic political uses, literary forms, and Christian comparisons require layered interpretation.
