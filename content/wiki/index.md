@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [63. Hitler, with Ian Kershaw - part 1](sources/63-hitler-with-ian-kershaw-part-1-glt1996418919.md) — The Rest Is History with Ian Kershaw on Hitler's contingent postwar formation, individual agency, structural conditions, historical method, and the long radicalization from antisemitism to genocide.
 - [64. Hitler, with Ian Kershaw - part 2](sources/64-hitler-with-ian-kershaw-part-2-glt5766781968.md) — The Rest Is History with Ian Kershaw on Hitler's delegated dictatorship, radicalization, war, defeat, postwar memory, and the limits of madness or moral analogy as explanation.
 - [EP177-巴以冲突：我们该如何理解遥远的哭声](sources/ep177-ba-yi-chongtu-women-gai-ruhe-lijie-yaoyuan-de-kusheng-ckwriaiepeo1abaaaac8efxz.md) — 无时差研究所 on Sheikh Jarrah, the Nakba, return rights, differentiated Palestinian legal status, territorial fragmentation, Zionism, and the boundary between Israel criticism and antisemitism.
 - [65. A Very British Scandal](sources/65-a-very-british-scandal-glt1741780940.md) — The Rest Is History on Jeremy Thorpe, Norman Scott, sexuality and secrecy, the failed Exmoor attack, the 1979 trial, and scandal as a marker of 1970s British change.
