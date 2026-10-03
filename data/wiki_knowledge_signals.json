@@ -67060,6 +67060,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/eroticblueprint/"
     },
+    "ErrorGatedAdultNeuroplasticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9872815940 [SCIM9872815940].md",
+          "key": "how-to-learn-faster-by-using-failures-movement-balance-scim9872815940",
+          "show": "Huberman Lab",
+          "title": "How to Learn Faster by Using Failures, Movement & Balance",
+          "url": "/wiki/sources/how-to-learn-faster-by-using-failures-movement-balance-scim9872815940/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/errorgatedadultneuroplasticity/"
+    },
     "EruptionOfVesuvius79": {
       "episode_count": 1,
       "show_count": 1,
@@ -75237,9 +75253,9 @@
       "url": "/wiki/concepts/floodplainretreatgovernance/"
     },
     "FlowClutchLearningDistinction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4201272551 [SCIM4201272551].md",
@@ -75247,9 +75263,16 @@
           "show": "Huberman Lab",
           "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
           "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        },
+        {
+          "episode_file": "SCIM9872815940 [SCIM9872815940].md",
+          "key": "how-to-learn-faster-by-using-failures-movement-balance-scim9872815940",
+          "show": "Huberman Lab",
+          "title": "How to Learn Faster by Using Failures, Movement & Balance",
+          "url": "/wiki/sources/how-to-learn-faster-by-using-failures-movement-balance-scim9872815940/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/flowclutchlearningdistinction/"
     },
     "FlowMasterPersonalWorkflow": {
@@ -212521,9 +212544,9 @@
       "url": "/wiki/entities/vespasian/"
     },
     "VestibularLearningActivation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1135697510 [SCIM1135697510].md",
@@ -212552,9 +212575,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Hearing, Balance & Accelerated Learning",
           "url": "/wiki/sources/scim1865244910-scim1865244910/"
+        },
+        {
+          "episode_file": "SCIM9872815940 [SCIM9872815940].md",
+          "key": "how-to-learn-faster-by-using-failures-movement-balance-scim9872815940",
+          "show": "Huberman Lab",
+          "title": "How to Learn Faster by Using Failures, Movement & Balance",
+          "url": "/wiki/sources/how-to-learn-faster-by-using-failures-movement-balance-scim9872815940/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/vestibularlearningactivation/"
     },
     "VeterinaryMedicalMisinformation": {

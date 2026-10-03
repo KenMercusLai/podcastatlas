@@ -31564,6 +31564,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ErrorGatedAdultNeuroplasticity": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "EscalationOfCommitment": [
     {
       "key": "science",
@@ -96086,6 +96093,13 @@
     }
   ],
   "how-to-increase-your-willpower-tenacity-scim7958949675": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "how-to-learn-faster-by-using-failures-movement-balance-scim9872815940": [
     {
       "key": "science",
       "label": "Science",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9558
+wiki_total_pages: 9559
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -866,6 +866,9 @@ wiki_pages:
   - key: "ERPTrustMoat"
     title: "ERP Trust Moat"
     url: "/wiki/concepts/erptrustmoat/"
+  - key: "ErrorGatedAdultNeuroplasticity"
+    title: "Error-Gated Adult Neuroplasticity"
+    url: "/wiki/concepts/errorgatedadultneuroplasticity/"
   - key: "EscalationOfCommitment"
     title: "Escalation Of Commitment / 非理性投入升级"
     url: "/wiki/concepts/escalationofcommitment/"

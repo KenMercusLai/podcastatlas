@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1439
+topic_total_pages: 1441
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -742,6 +742,9 @@ topic_concepts:
   - key: "EpinephrineAlertnessToolkit"
     title: "Epinephrine Alertness Toolkit"
     url: "/wiki/concepts/epinephrinealertnesstoolkit/"
+  - key: "ErrorGatedAdultNeuroplasticity"
+    title: "Error-Gated Adult Neuroplasticity"
+    url: "/wiki/concepts/errorgatedadultneuroplasticity/"
   - key: "EscalationOfCommitment"
     title: "Escalation Of Commitment / 非理性投入升级"
     url: "/wiki/concepts/escalationofcommitment/"
@@ -3978,6 +3981,9 @@ topic_sources:
   - key: "how-to-increase-your-willpower-tenacity-scim7958949675"
     title: "How to Increase Your Willpower & Tenacity"
     url: "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
+  - key: "how-to-learn-faster-by-using-failures-movement-balance-scim9872815940"
+    title: "How to Learn Faster by Using Failures, Movement & Balance"
+    url: "/wiki/sources/how-to-learn-faster-by-using-failures-movement-balance-scim9872815940/"
   - key: "scim8083153125-scim8083153125"
     title: "How to Learn Skills Faster"
     url: "/wiki/sources/scim8083153125-scim8083153125/"
