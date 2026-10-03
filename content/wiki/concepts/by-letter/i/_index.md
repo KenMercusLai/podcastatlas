@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9451
+wiki_total_pages: 9453
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "IdeologicalOvercontrol"
     title: "Ideological Overcontrol / 意识形态过度控制"
     url: "/wiki/concepts/ideologicalovercontrol/"
+  - key: "IdeologicalRadicalizationWithoutEquilibrium"
+    title: "Ideological Radicalization Without Equilibrium"
+    url: "/wiki/concepts/ideologicalradicalizationwithoutequilibrium/"
   - key: "IdeologicalTotalizationRisk"
     title: "Ideological Totalization Risk / 主义万能钥匙风险"
     url: "/wiki/concepts/ideologicaltotalizationrisk/"

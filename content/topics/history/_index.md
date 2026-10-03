@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2466
+topic_total_pages: 2469
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -634,6 +634,9 @@ topic_concepts:
   - key: "HistoriographicalPresentism"
     title: "Historiographical Presentism / 史评当代性"
     url: "/wiki/concepts/historiographicalpresentism/"
+  - key: "HitlerMemoryAndMoralAnalogy"
+    title: "Hitler Memory and Moral Analogy"
+    url: "/wiki/concepts/hitlermemoryandmoralanalogy/"
   - key: "HomericBronzeAgeMemory"
     title: "Homeric Bronze Age Memory"
     url: "/wiki/concepts/homericbronzeagememory/"
@@ -2102,6 +2105,9 @@ topic_entities:
   - key: "HutianKilnSite"
     title: "Hutian Kiln Site / 湖田古瓷窑址"
     url: "/wiki/entities/hutiankilnsite/"
+  - key: "IanKershaw"
+    title: "Ian Kershaw"
+    url: "/wiki/entities/iankershaw/"
   - key: "IBM"
     title: "IBM"
     url: "/wiki/entities/ibm/"
@@ -6201,6 +6207,9 @@ topic_sources:
   - key: "59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469"
     title: "59.克里特岛：阳光、海龟、神话和二战战场"
     url: "/wiki/sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469/"
+  - key: "64-hitler-with-ian-kershaw-part-2-glt5766781968"
+    title: "64. Hitler, with Ian Kershaw - part 2"
+    url: "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
   - key: "65-a-very-british-scandal-glt1741780940"
     title: "65. A Very British Scandal"
     url: "/wiki/sources/65-a-very-british-scandal-glt1741780940/"

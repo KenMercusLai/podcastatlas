@@ -5342,6 +5342,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "64-hitler-with-ian-kershaw-part-2-glt5766781968": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "65-a-very-british-scandal-glt1741780940": [
     {
       "key": "history",
@@ -40775,6 +40782,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HitlerMemoryAndMoralAnalogy": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "HojoMasako": [
     {
       "key": "politics",
@@ -42597,6 +42611,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "IanKershaw": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "IanPaisley": [

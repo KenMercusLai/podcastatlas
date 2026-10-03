@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 12152
+wiki_total_pages: 12153
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "IanHamiltonGallipoli"
     title: "Ian Hamilton"
     url: "/wiki/entities/ianhamiltongallipoli/"
+  - key: "IanKershaw"
+    title: "Ian Kershaw"
+    url: "/wiki/entities/iankershaw/"
   - key: "IanMacGregor"
     title: "Ian MacGregor"
     url: "/wiki/entities/ianmacgregor/"

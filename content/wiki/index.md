@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [64. Hitler, with Ian Kershaw - part 2](sources/64-hitler-with-ian-kershaw-part-2-glt5766781968.md) — The Rest Is History with Ian Kershaw on Hitler's delegated dictatorship, radicalization, war, defeat, postwar memory, and the limits of madness or moral analogy as explanation.
 - [EP177-巴以冲突：我们该如何理解遥远的哭声](sources/ep177-ba-yi-chongtu-women-gai-ruhe-lijie-yaoyuan-de-kusheng-ckwriaiepeo1abaaaac8efxz.md) — 无时差研究所 on Sheikh Jarrah, the Nakba, return rights, differentiated Palestinian legal status, territorial fragmentation, Zionism, and the boundary between Israel criticism and antisemitism.
 - [65. A Very British Scandal](sources/65-a-very-british-scandal-glt1741780940.md) — The Rest Is History on Jeremy Thorpe, Norman Scott, sexuality and secrecy, the failed Exmoor attack, the 1979 trial, and scandal as a marker of 1970s British change.
 - [66. Ghosts](sources/66-ghosts-glt2309926019.md) — The Rest Is History with Roger Clarke on changing ghost traditions, religious conflict, class-biased testimony, famous hauntings, media technology, hoax, and unresolved evidence.
@@ -3607,6 +3608,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Smell, Taste & Pheromone-Like Chemicals Control You](sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027.md) — Full Huberman Lab episode on olfactory pathways, sniffing and respiratory phase, smell training, gustatory and gut nutrient sensing, and the boundary between human chemical effects and established pheromones.
 
 ## Entities
+- [Ian Kershaw](entities/IanKershaw.md) — Historian joining Hitler biography to institutional capacity, social participation, war, and postwar memory.
 - [Sheikh Jarrah](entities/SheikhJarrah.md) — East Jerusalem neighborhood where property claims, refugee housing, and asymmetric recovery rules became a 2021 conflict flashpoint.
 - [Fatah](entities/Fatah.md) — Palestinian political movement whose perceived corruption and accommodation weakened its resistance legitimacy in the source account.
 - [Norman Scott](entities/NormanScott.md) — Former Thorpe lover and surviving target whose letters, persistence, and experience of the failed attack became central to the scandal.
@@ -15804,6 +15806,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Ideological Radicalization Without Equilibrium](concepts/IdeologicalRadicalizationWithoutEquilibrium.md) — Regime pattern in which success enables further escalation because core ideological goals supply no stable moderate endpoint.
+- [Hitler Memory and Moral Analogy](concepts/HitlerMemoryAndMoralAnalogy.md) — Framework for Hitler as postwar alibi, benchmark of evil, and comparison whose moral force can sharpen or replace analysis.
 - [Nakba](concepts/Nakba.md) — Palestinian mass displacement and village depopulation around 1948, treated as the historical basis of refugee and return claims.
 - [Palestinian Right of Return](concepts/PalestinianRightOfReturn.md) — Claim that displaced Palestinians retain a right to return or remedy despite demographic and implementation conflict.
 - [Differentiated Palestinian Legal Status](concepts/DifferentiatedPalestinianLegalStatus.md) — Division of Palestinians among unequal citizenship, residency, occupied-territory, and blockaded-territory regimes.

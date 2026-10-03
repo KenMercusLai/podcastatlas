@@ -6283,9 +6283,9 @@
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -6377,9 +6377,16 @@
           "show": "The Rest Is History",
           "title": "182. Operation Barbarossa",
           "url": "/wiki/sources/182-operation-barbarossa-glt3299389649/"
+        },
+        {
+          "episode_file": "GLT5766781968 [GLT5766781968].md",
+          "key": "64-hitler-with-ian-kershaw-part-2-glt5766781968",
+          "show": "The Rest Is History",
+          "title": "64. Hitler, with Ian Kershaw - part 2",
+          "url": "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/adolfhitler/"
     },
     "AdoptedLondonIdentity": {
@@ -53761,9 +53768,9 @@
       "url": "/wiki/concepts/dissociationcircuitinference/"
     },
     "DistributedComplicityUnderAuthoritarianism": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -53785,9 +53792,16 @@
           "show": "The Rest Is History",
           "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
           "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
+        },
+        {
+          "episode_file": "GLT5766781968 [GLT5766781968].md",
+          "key": "64-hitler-with-ian-kershaw-part-2-glt5766781968",
+          "show": "The Rest Is History",
+          "title": "64. Hitler, with Ian Kershaw - part 2",
+          "url": "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/distributedcomplicityunderauthoritarianism/"
     },
     "DistributedLocalResilience": {
@@ -94045,6 +94059,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/historyasliferesource/"
     },
+    "HitlerMemoryAndMoralAnalogy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5766781968 [GLT5766781968].md",
+          "key": "64-hitler-with-ian-kershaw-part-2-glt5766781968",
+          "show": "The Rest Is History",
+          "title": "64. Hitler, with Ian Kershaw - part 2",
+          "url": "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/hitlermemoryandmoralanalogy/"
+    },
     "HjalmarNilsonne": {
       "episode_count": 1,
       "show_count": 1,
@@ -99878,6 +99908,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/ianhamiltongallipoli/"
     },
+    "IanKershaw": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5766781968 [GLT5766781968].md",
+          "key": "64-hitler-with-ian-kershaw-part-2-glt5766781968",
+          "show": "The Rest Is History",
+          "title": "64. Hitler, with Ian Kershaw - part 2",
+          "url": "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/iankershaw/"
+    },
     "IanMacGregor": {
       "episode_count": 2,
       "show_count": 1,
@@ -100150,6 +100196,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/ideologicaloccupationselfsabotage/"
+    },
+    "IdeologicalRadicalizationWithoutEquilibrium": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5766781968 [GLT5766781968].md",
+          "key": "64-hitler-with-ian-kershaw-part-2-glt5766781968",
+          "show": "The Rest Is History",
+          "title": "64. Hitler, with Ian Kershaw - part 2",
+          "url": "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/ideologicalradicalizationwithoutequilibrium/"
     },
     "IdeologicalTotalizationRisk": {
       "episode_count": 4,
@@ -215821,9 +215883,9 @@
       "url": "/wiki/concepts/workingmemorylearningbottleneck/"
     },
     "WorkingTowardsTheFuhrer": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9460111455 [GLT9460111455].md",
@@ -215831,9 +215893,16 @@
           "show": "The Rest Is History",
           "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
           "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
+        },
+        {
+          "episode_file": "GLT5766781968 [GLT5766781968].md",
+          "key": "64-hitler-with-ian-kershaw-part-2-glt5766781968",
+          "show": "The Rest Is History",
+          "title": "64. Hitler, with Ian Kershaw - part 2",
+          "url": "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/workingtowardsthefuhrer/"
     },
     "WorkplaceBullying": {
