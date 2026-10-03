@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2526
+topic_total_pages: 2527
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5118,6 +5118,9 @@ topic_sources:
   - key: "149-the-birth-of-russia-glt2354182753"
     title: "149. The Birth of Russia"
     url: "/wiki/sources/149-the-birth-of-russia-glt2354182753/"
+  - key: "15-walls-and-borders-glt1636005045"
+    title: "15. Walls and Borders"
+    url: "/wiki/sources/15-walls-and-borders-glt1636005045/"
   - key: "150-smuggling-glt2228422151"
     title: "150. Smuggling"
     url: "/wiki/sources/150-smuggling-glt2228422151/"

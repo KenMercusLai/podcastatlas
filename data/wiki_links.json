@@ -731,6 +731,10 @@
     "title": "15.闭经记：更年期给我自由！",
     "url": "/wiki/sources/15-bijingji-gengnianqi-gei-wo-ziyou-557912552/"
   },
+  "15-walls-and-borders-glt1636005045": {
+    "title": "15. Walls and Borders",
+    "url": "/wiki/sources/15-walls-and-borders-glt1636005045/"
+  },
   "150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165": {
     "title": "150.吃菌！和阿错聊云南的鸡枞、松茸、见手青",
     "url": "/wiki/sources/150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165/"
@@ -34631,6 +34635,10 @@
     "title": "Great Treason Incident / 大逆事件",
     "url": "/wiki/entities/greattreasonincident/"
   },
+  "GreatWallOfChina": {
+    "title": "Great Wall of China",
+    "url": "/wiki/entities/greatwallofchina/"
+  },
   "GreatWesternSchism": {
     "title": "Great Western Schism",
     "url": "/wiki/entities/greatwesternschism/"
@@ -35570,6 +35578,10 @@
   "Hadrian": {
     "title": "Hadrian",
     "url": "/wiki/entities/hadrian/"
+  },
+  "HadriansWall": {
+    "title": "Hadrian's Wall",
+    "url": "/wiki/entities/hadrianswall/"
   },
   "HagiaSophia": {
     "title": "Hagia Sophia",
@@ -82482,6 +82494,10 @@
   "Walgreens": {
     "title": "Walgreens",
     "url": "/wiki/entities/walgreens/"
+  },
+  "WallBorderSystems": {
+    "title": "Wall and Border Systems",
+    "url": "/wiki/concepts/wallbordersystems/"
   },
   "WallStreetJournal": {
     "title": "Wall Street Journal",

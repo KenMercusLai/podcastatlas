@@ -3689,8 +3689,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Focus to Change Your Brain](sources/scim3840916606-scim3840916606.md) — Early Huberman Lab episode on attention-gated adult neuroplasticity, alertness, sensory selection, bounded focus bouts, sleep, and deep-rest consolidation.
 - [How to Defeat Jet Lag, Shift Work & Sleeplessness](sources/scim4224560223-scim4224560223.md) — Early Huberman Lab episode on phase-aware light and temperature timing, travel, shift work, lifespan sleep, de-arousal, supplements, and the limits of adult sleep compression.
 - [Using Science to Optimize Sleep, Learning & Metabolism](sources/scim1705222315-scim1705222315.md) — Early Huberman Lab office-hours episode on timing-dependent light, exercise, learning, rest, supplements, temperature, cold exposure, meals, and one-variable self-tracking.
+- [15. Walls and Borders](sources/15-walls-and-borders-glt1636005045.md) — The Rest Is History on walls and borders as purpose-specific infrastructure, political symbols, institutional systems, and incomplete answers to deeper conflict.
 
 ## Entities
+- [Hadrian's Wall](entities/HadriansWall.md) — Roman frontier barrier illustrating both imperial capacity and the strategic limits that fortification acknowledges.
+- [Great Wall of China](entities/GreatWallOfChina.md) — Layered frontier works later transformed into a national symbol and metaphor for digital information control.
 - [Sophie Hay](entities/SophieHay.md) — Archaeologist connecting long-term Pompeii fieldwork, conservation, public communication, and evidentiary caution.
 - [Gaius Alleius Nigidius Maius](entities/GaiusAlleiusNigidiusMaius.md) — Pompeian notable reconstructed from rental, games, and probable tomb inscriptions found across two centuries.
 - [Dan Jackson](entities/DanJackson.md) — North East historian connecting railway formation and English regional identity to geography, industry, institutions, language, and culture.
@@ -15988,6 +15991,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Geoffrey of Monmouth](entities/GeoffreyOfMonmouth.md) — Twelfth-century writer whose synthetic British history decisively shaped Arthur and Merlin's medieval profiles.
 
 ## Concepts
+- [Wall and Border Systems](concepts/WallBorderSystems.md) — Framework separating purpose-specific effectiveness, enforcement capacity, political legitimacy, and conflict resolution.
 - [Pompeii as an Archaeological Palimpsest](concepts/PompeiiArchaeologicalPalimpsest.md) — Framework separating Pompeii's destruction horizon from its long urban development and changing excavation, conservation, and interpretation.
 - [Fascism's Historical Specificity](concepts/FascismHistoricalSpecificity.md) — Framework defining fascism as a post-First World War revolutionary ideology rather than a synonym for dictatorship, violence, or evil.
 - [English North-South Divide](concepts/EnglishNorthSouthDivide.md) — Layered regional distinction produced through geography, political boundaries, industrial change, culture, and London centrality.

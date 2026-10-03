@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9570
+wiki_total_pages: 9571
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "WaldenMomentAgainstOdysseyMoment"
     title: "Walden Moment Against Odyssey Moment / 用瓦尔登湖时刻消解奥德赛时刻"
     url: "/wiki/concepts/waldenmomentagainstodysseymoment/"
+  - key: "WallBorderSystems"
+    title: "Wall and Border Systems"
+    url: "/wiki/concepts/wallbordersystems/"
   - key: "WallStreetPrivateMortgageCapital"
     title: "Wall Street Private Mortgage Capital"
     url: "/wiki/concepts/wallstreetprivatemortgagecapital/"

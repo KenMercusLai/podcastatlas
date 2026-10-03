@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12249
+wiki_total_pages: 12251
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "GreatTreasonIncident"
     title: "Great Treason Incident / 大逆事件"
     url: "/wiki/entities/greattreasonincident/"
+  - key: "GreatWallOfChina"
+    title: "Great Wall of China"
+    url: "/wiki/entities/greatwallofchina/"
   - key: "GreatWesternSchism"
     title: "Great Western Schism"
     url: "/wiki/entities/greatwesternschism/"

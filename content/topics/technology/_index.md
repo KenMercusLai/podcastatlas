@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3286
+topic_total_pages: 3289
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4456,6 +4456,9 @@ topic_concepts:
   - key: "VoluntaryAISafetyCommitments"
     title: "Voluntary AI Safety Commitments"
     url: "/wiki/concepts/voluntaryaisafetycommitments/"
+  - key: "WallBorderSystems"
+    title: "Wall and Border Systems"
+    url: "/wiki/concepts/wallbordersystems/"
   - key: "WarVisibilityStrategy"
     title: "War Visibility Strategy"
     url: "/wiki/concepts/warvisibilitystrategy/"
@@ -5771,6 +5774,9 @@ topic_entities:
   - key: "GPU"
     title: "GPU"
     url: "/wiki/entities/gpu/"
+  - key: "GreatWallOfChina"
+    title: "Great Wall of China"
+    url: "/wiki/entities/greatwallofchina/"
   - key: "GregBrockman"
     title: "Greg Brockman"
     url: "/wiki/entities/gregbrockman/"
@@ -5810,6 +5816,9 @@ topic_entities:
   - key: "H3C"
     title: "H3C / 华三"
     url: "/wiki/entities/h3c/"
+  - key: "HadriansWall"
+    title: "Hadrian's Wall"
+    url: "/wiki/entities/hadrianswall/"
   - key: "HanBoxiao"
     title: "Han Boxiao"
     url: "/wiki/entities/hanboxiao/"

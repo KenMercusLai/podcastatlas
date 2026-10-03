@@ -23121,9 +23121,9 @@
       "url": "/wiki/entities/bereniceiv/"
     },
     "BerlinWall": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4069689977 [GLT4069689977].md",
@@ -23138,9 +23138,16 @@
           "show": "The Rest Is History",
           "title": "83. The Berlin Wall",
           "url": "/wiki/sources/83-the-berlin-wall-glt1824879961/"
+        },
+        {
+          "episode_file": "GLT1636005045 [GLT1636005045].md",
+          "key": "15-walls-and-borders-glt1636005045",
+          "show": "The Rest Is History",
+          "title": "15. Walls and Borders",
+          "url": "/wiki/sources/15-walls-and-borders-glt1636005045/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/berlinwall/"
     },
     "BernardFreyberg": {
@@ -87306,6 +87313,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/greatsiouxreservation/"
     },
+    "GreatWallOfChina": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1636005045 [GLT1636005045].md",
+          "key": "15-walls-and-borders-glt1636005045",
+          "show": "The Rest Is History",
+          "title": "15. Walls and Borders",
+          "url": "/wiki/sources/15-walls-and-borders-glt1636005045/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/greatwallofchina/"
+    },
     "GreatWesternSchism": {
       "episode_count": 1,
       "show_count": 1,
@@ -89875,6 +89898,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/hadrian/"
+    },
+    "HadriansWall": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1636005045 [GLT1636005045].md",
+          "key": "15-walls-and-borders-glt1636005045",
+          "show": "The Rest Is History",
+          "title": "15. Walls and Borders",
+          "url": "/wiki/sources/15-walls-and-borders-glt1636005045/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/hadrianswall/"
     },
     "HagiaSophia": {
       "episode_count": 1,
@@ -215087,6 +215126,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/wales/"
+    },
+    "WallBorderSystems": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1636005045 [GLT1636005045].md",
+          "key": "15-walls-and-borders-glt1636005045",
+          "show": "The Rest Is History",
+          "title": "15. Walls and Borders",
+          "url": "/wiki/sources/15-walls-and-borders-glt1636005045/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/wallbordersystems/"
     },
     "WallStreetPrivateMortgageCapital": {
       "episode_count": 1,

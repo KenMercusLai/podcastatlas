@@ -29043,3 +29043,11 @@ Added source `scim1705222315-scim1705222315`; resynthesized [[DailyCircadianPerf
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 15. Walls and Borders
+
+Added source `15-walls-and-borders-glt1636005045`; created [[HadriansWall|Hadrian's Wall]], [[GreatWallOfChina|Great Wall of China]], and [[WallBorderSystems|Wall and Border Systems]]; and resynthesized [[BerlinWall]] from its complete preserved evidence inventory. Core synthesis: barriers should be evaluated separately for purpose-specific operational performance, the institutions that enforce them, and whether they resolve the conflict behind them; walls can display state capacity while revealing anxiety, incomplete control, or dependence on coercion. No settled contradiction was adopted. The long-standing Spain-Portugal border and ancient sacred boundaries qualify simple modernity and fluidity claims, while Westphalia, border-hardening, migration, the Israeli barrier, national attitudes, and digital-censorship effectiveness remain interpretive or source-scoped. Recurring host and show profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,630-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
