@@ -3631,6 +3631,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [51. Aztecs](sources/51-aztecs-glt9590586130.md) — The Rest Is History episode with Camilla Townsend on Nahuatl evidence, Mexica migration and urban life, sacrifice, conquest myths, and Indigenous survival.
 - [49. Food Glorious Food](sources/49-food-glorious-food-glt7001895639.md) — The Rest Is History with Pen Vogler on British food reputation, class, religion, empire, industrial change, imported tastes, and invented tradition.
 - [50. Teenagers](sources/50-teenagers-glt9697541566.md) — The Rest Is History on adolescence versus the modern teenager, youth institutions, consumer culture, moral panic, generational conflict, and politically diverse rebellion.
+- [Boost Your Energy & Immune System with Cortisol & Adrenaline](sources/scim5718648905-scim5718648905.md) — Early Huberman Lab episode on cortisol and epinephrine timing, body-brain arousal, acute immune signaling, post-learning activation, chronic stress eating, and recovery boundaries.
 
 ## Entities
 - [Paul Lay](entities/PaulLay.md) — Historian interpreting Cromwell through constitutional change, religious conviction, Irish atrocity, evidentiary caution, and later myth.

@@ -6,7 +6,8 @@ sources:
   - essentials-understand-improve-memory-using-science-based-tools-scim6024056343
   - using-caffeine-to-optimize-mental-physical-performance-scim1210768101
   - understand-improve-memory-using-science-based-tools-scim9087472978
-last_updated: 2026-10-01
+  - scim5718648905-scim5718648905
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ Post-learning arousal tagging is the source's memory-timing model in which a bri
 ## Current Synthesis
 The sources treat memory as selective perception rather than a passive recording. Repetition remains reliable because repeatedly activated neural circuits strengthen over time, but a sharp arousal increase may make some experiences memorable with fewer repetitions. Animal one-trial learning, human cold-water studies, and practical tool discussion all point to the same timing claim: arousal is most useful when it follows or closes the learning bout, not when chronic stress keeps the learner elevated throughout. The full 2022 episode and its later Essentials edit share editorial provenance and therefore strengthen detail and traceability rather than independent replication.
 
-The practical synthesis is a contrast pattern. The learner should focus calmly during study or practice, then use a brief, safe arousal stimulus late in the session, immediately afterward, or within roughly 5 to 15 minutes. The dedicated caffeine episode supplies a narrower example: caffeine after learning is claimed to improve later memory through adrenaline and other catecholamines. Sleep, naps, and non-sleep deep rest still matter afterward because arousal may tag what deserves retention while rest and sleep help consolidate circuit changes.
+The practical synthesis is a contrast pattern. The learner should focus calmly during study or practice, then use a brief, safe arousal stimulus late in the session, immediately afterward, or within roughly 5 to 15 minutes. The earlier cortisol-and-adrenaline episode gives a broader example sequence of learning, post-learning activation, non-sleep deep rest, and sleep; this is a source-scoped teaching model rather than a proven universal optimum. The dedicated caffeine episode supplies a narrower example: caffeine after learning is claimed to improve later memory through adrenaline and other catecholamines. Sleep, naps, and non-sleep deep rest still matter afterward because arousal may tag what deserves retention while rest and sleep help consolidate circuit changes.
 
 ## Key Claims
 - Memory is selective, so biological state helps determine which perceptions are stamped down for later replay.
@@ -37,13 +38,14 @@ The practical synthesis is a contrast pattern. The learner should focus calmly d
 - Consolidation support - [[essentials-understand-improve-memory-using-science-based-tools-scim6024056343]] pairs arousal tagging with later sleep, naps, and non-sleep deep rest.
 - Caffeine-after-learning example - [[using-caffeine-to-optimize-mental-physical-performance-scim1210768101]] says caffeine taken after study can strengthen memory for material already learned through catecholamine-related arousal.
 - Full-episode mechanism - [[understand-improve-memory-using-science-based-tools-scim9087472978]] joins animal place aversion and preference, human post-reading cold exposure, beta-blocker attenuation, and the acute-versus-chronic stress distinction.
+- Earlier protocol framing - [[scim5718648905-scim5718648905]] presents a learning bout followed by an adrenaline-raising stimulus, non-sleep deep rest, and sleep, while leaving the sequence and duration source-scoped.
 
 ## Counterevidence & Qualifications
-The evidence is presented through educational podcast summaries rather than a complete protocol review, and the full episode plus Essentials edit should not be counted as two independent demonstrations. The sources do not show that every subject, learner, task, or health context benefits from deliberate adrenaline elevation, nor do they establish a universally safe caffeine dose or time when later sleep is considered. Cold exposure, stimulants, intense exercise, breathwork, and stress induction can be unsafe or counterproductive depending on panic history, cardiovascular risk, sleep state, medications, pregnancy, injury, and clinical context.
+The evidence is presented through educational podcast summaries rather than a complete protocol review, and full episodes plus their Essentials edits should not be counted as independent demonstrations. The sources do not show that every subject, learner, task, or health context benefits from deliberate adrenaline elevation, nor do they establish a universally optimal 90-minute bout, tool sequence, caffeine dose, or time when later sleep is considered. Cold exposure, stimulants, intense exercise, breathwork, and stress induction can be unsafe or counterproductive depending on panic history, cardiovascular risk, sleep state, medications, pregnancy, injury, and clinical context.
 
 ## What Changed
-- Added the full-length episode as detailed provenance for the animal, human cold-water, beta-blocker, and stress-contrast account.
-- Clarified that the full episode and Essentials edit are not independent replication.
+- Added the earlier cortisol-and-adrenaline episode as provenance for sequencing learning, acute activation, deep rest, and sleep.
+- Kept the proposed sequence and duration source-scoped rather than treating them as a universal optimum.
 
 ## Related Concepts
 - [[MemoryConsolidationWindows]] - broader timing frame for review, retrieval, rest, and sleep after learning.

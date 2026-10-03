@@ -5779,9 +5779,9 @@
       "url": "/wiki/concepts/acutesportsinjuryescalation/"
     },
     "AcuteStressImmunePriming": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1515778634 [SCIM1515778634].md",
@@ -5796,9 +5796,16 @@
           "show": "Huberman Lab",
           "title": "Using Your Nervous System to Enhance Your Immune System",
           "url": "/wiki/sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690/"
+        },
+        {
+          "episode_file": "SCIM5718648905 [SCIM5718648905].md",
+          "key": "scim5718648905-scim5718648905",
+          "show": "Huberman Lab",
+          "title": "Boost Your Energy & Immune System with Cortisol & Adrenaline",
+          "url": "/wiki/sources/scim5718648905-scim5718648905/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/acutestressimmunepriming/"
     },
     "AcuteWoundBurnFirstAid": {
@@ -65579,9 +65586,9 @@
       "url": "/wiki/concepts/epigeneticreprogrammingboundary/"
     },
     "EpinephrineAlertnessToolkit": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -65610,9 +65617,16 @@
           "show": "Huberman Lab",
           "title": "Optimize & Control Your Brain Chemistry to Improve Health & Performance",
           "url": "/wiki/sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946/"
+        },
+        {
+          "episode_file": "SCIM5718648905 [SCIM5718648905].md",
+          "key": "scim5718648905-scim5718648905",
+          "show": "Huberman Lab",
+          "title": "Boost Your Energy & Immune System with Cortisol & Adrenaline",
+          "url": "/wiki/sources/scim5718648905-scim5718648905/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/epinephrinealertnesstoolkit/"
     },
     "EpistemicInjusticeExperienceSilencing": {
@@ -162235,9 +162249,9 @@
       "url": "/wiki/concepts/postinfectiousreturntoactivity/"
     },
     "PostLearningArousalTagging": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6024056343 [SCIM6024056343].md",
@@ -162259,9 +162273,16 @@
           "show": "Huberman Lab",
           "title": "Understand & Improve Memory Using Science-Based Tools",
           "url": "/wiki/sources/understand-improve-memory-using-science-based-tools-scim9087472978/"
+        },
+        {
+          "episode_file": "SCIM5718648905 [SCIM5718648905].md",
+          "key": "scim5718648905-scim5718648905",
+          "show": "Huberman Lab",
+          "title": "Boost Your Energy & Immune System with Cortisol & Adrenaline",
+          "url": "/wiki/sources/scim5718648905-scim5718648905/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/postlearningarousaltagging/"
     },
     "PostPlagueSocialMobility": {
@@ -193302,9 +193323,9 @@
       "url": "/wiki/concepts/stressbiologicalaging/"
     },
     "StressEatingRewardLoop": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -193312,9 +193333,16 @@
           "show": "Huberman Lab",
           "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
           "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        },
+        {
+          "episode_file": "SCIM5718648905 [SCIM5718648905].md",
+          "key": "scim5718648905-scim5718648905",
+          "show": "Huberman Lab",
+          "title": "Boost Your Energy & Immune System with Cortisol & Adrenaline",
+          "url": "/wiki/sources/scim5718648905-scim5718648905/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/stresseatingrewardloop/"
     },
     "StressResponseRecovery": {

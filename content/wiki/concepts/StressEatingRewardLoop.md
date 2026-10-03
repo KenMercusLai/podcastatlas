@@ -4,7 +4,8 @@ type: concept
 tags: [stress, nutrition, reward, metabolism]
 sources:
   - control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803
-last_updated: 2026-09-04
+  - scim5718648905-scim5718648905
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ The Epel source does not treat stress as a universal explanation for obesity. It
 
 The source also makes the environment upstream. Medications such as naltrexone plus Wellbutrin are mentioned as possible help in early trials, but Epel emphasizes refined sugar, liquid sugar, institutional soda access, and food-industry messaging as public-health conditions that individual willpower or drugs do not solve by themselves.
 
+The earlier cortisol-and-adrenaline episode adds a time-course hypothesis. Acute activation can suppress appetite, whereas sustained stress is presented as increasing preference for high-fat and high-sugar comfort foods and weakening ordinary negative feedback in the CRH-ACTH-cortisol system. This complements the phenotype and environment account, but the proposed four-to-seven-day transition is source-scoped rather than a diagnostic threshold.
+
 ## Key Claims
 - Stress eating is presented as variable: some people eat less, while many overeat or binge under stress.
 - A subset of people with obesity are described as having higher compulsive eating traits and stronger stress-reward coupling.
@@ -25,6 +28,7 @@ The source also makes the environment upstream. Medications such as naltrexone p
 - Refined sugar and liquid sugar are treated as environment-level drivers, not only individual preference problems.
 - Removing sugary drinks from workplaces or institutions can reduce waist weight among heavy soda drinkers, but high reward-based drive may need added support.
 - Medication may dampen compulsive eating for some people, but the source keeps it subordinate to nutrition, environment, and clinical context.
+- Acute stress may suppress appetite while prolonged activation can increase comfort-food seeking, but the direction and timing vary by person and context.
 
 ## Evidence
 - Phenotype variation - [[control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803]] says some people eat less under stress while many overeat or binge.
@@ -32,12 +36,14 @@ The source also makes the environment upstream. Medications such as naltrexone p
 - Reward and insulin - [[control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803]] cites Rajita Sinha's work and links greater insulin resistance to stronger reward-center activation under stress.
 - Medication boundary - [[control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803]] mentions naltrexone plus Wellbutrin as dampening compulsive eating in early trials while not solving the toxic food environment.
 - Liquid-sugar environment - [[control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803]] describes UCSF soda-removal work, waist changes among heavy soda drinkers, and motivational interviewing for people with high reward-based drive.
+- Stress-duration hypothesis - [[scim5718648905-scim5718648905]] distinguishes acute appetite suppression from longer-stress comfort-food seeking and presents altered cortisol feedback as a possible reinforcing mechanism.
 
 ## Counterevidence & Qualifications
-The source does not claim stress causes all overeating, obesity, insulin resistance, or metabolic disease. Medication discussion is not individualized prescribing guidance, and institutional soda-removal outcomes remain source-scoped without the underlying trial details in this note.
+The sources do not claim stress causes all overeating, obesity, insulin resistance, or metabolic disease. Some people eat less under stress, and the proposed four-to-seven-day transition and cortisol feedback mechanism are not universal clinical cutoffs. Medication discussion is not individualized prescribing guidance, and institutional soda-removal outcomes remain source-scoped without the underlying trial details in this note.
 
 ## What Changed
-- Created the stress-eating reward-loop concept from Epel's obesity, craving, reward, insulin, and soda-environment discussion.
+- Added the acute appetite-suppression versus prolonged comfort-food-seeking distinction.
+- Added the proposed cortisol-feedback mechanism while keeping its timing and causality source-scoped.
 
 ## Related Concepts
 - [[MindfulEatingCueControl]] - practical branch for hunger checks, cravings, and cue management.

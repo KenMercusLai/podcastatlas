@@ -28580,3 +28580,11 @@ Added source `49-food-glorious-food-glt7001895639`; created `PenVogler`, `ScoffB
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | Boost Your Energy & Immune System with Cortisol & Adrenaline
+
+Added source `scim5718648905-scim5718648905` and resynthesized `AcuteStressImmunePriming`, `EpinephrineAlertnessToolkit`, `PostLearningArousalTagging`, and `StressEatingRewardLoop` from their complete preserved evidence inventories. Core synthesis: cortisol and epinephrine are context-dependent activation signals whose effects depend on timing, intensity, duration, baseline, and recovery; brief controllable activation can support alertness, memory tagging, and source-scoped immune modulation, while sustained activation can impair recovery and shift appetite toward comfort foods. No settled contradiction was adopted. The full 2021 episode is underlying provenance for its later Essentials edit rather than independent replication; exact light durations, immune windows, stress-transition thresholds, learning sequences, fasting schedules, supplement effects, and hormone-related claims remain source-scoped. Recurring host and show pages were not changed because the episode adds no durable identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,572-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
