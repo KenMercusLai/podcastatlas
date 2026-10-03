@@ -5,7 +5,8 @@ tags: [motor-learning, practice, attention, visualization]
 sources:
   - essentials-how-to-learn-skills-faster-scim2224786015
   - science-based-mental-training-visualization-for-improved-learning-scim9944841947
-last_updated: 2026-09-28
+  - scim8083153125-scim8083153125
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Stage-matched motor skill practice is the principle that repetition speed, atten
 Beginners first need enough ordinary attempts to generate accurate proprioceptive and outcome feedback. Moving extremely slowly too early may distort the movement and produce too few informative errors. Once basic control exists, slow practice can isolate movement features, and attention can shift from only the result toward specific components of technique.
 
 External cadence and visualization are secondary tools. A metronome can raise output or impose timing pressure when a learner can already respond to the cue. Mental rehearsal becomes more defensible after the learner has performed the skill at least once: short, simple, first-person sequences can refine timing, accuracy, consistency, or inhibition, especially when imagery uses the same action and label as physical practice. It remains incomplete without muscle activation, spinal patterning, sensory feedback, and real-world correction.
+
+The full 2021 episode is the underlying provenance for the later Essentials progression. Its suggestion that slow practice becomes useful around a 25%-to-30% success rate illustrates the stage-matching idea but does not establish a universal threshold; task risk, speed, feedback, fatigue, and coaching still determine when a tool becomes useful.
 
 ## Key Claims
 - Early learners benefit most from safe full attempts that produce authentic feedback and errors.
@@ -34,13 +37,15 @@ External cadence and visualization are secondary tools. A metronome can raise ou
 - Rehearsal boundary - [[essentials-how-to-learn-skills-faster-scim2224786015]] distinguishes upper-motor-neuron rehearsal from the fuller biological loop of actual movement.
 - Matched imagery - [[science-based-mental-training-visualization-for-improved-learning-scim9944841947]] favors brief first-person sequences, repeated with the same action and labels used in real practice.
 - Inhibition branch - [[science-based-mental-training-visualization-for-improved-learning-scim9944841947]] reports that combined mental and physical practice improved withholding of incorrect responses in a stop-signal task.
+- Original progression - [[scim8083153125-scim8083153125]] supplies the full-length account of ordinary-speed attempts, later slow practice, feature-specific attention, metronome pressure, and supplemental visualization.
 
 ## Counterevidence & Qualifications
-The episodes' approximate success-rate thresholds, metronome advantage, imagery durations, repetition counts, session frequencies, and perspective effects are source-scoped rather than universal cutoffs. Appropriate progression depends on the task, injury risk, feedback quality, coach input, fatigue, imagery ability, and learner. Visualization may be useful, but the sources do not establish equal transfer across skills or populations, and injury-limited practice remains subordinate to appropriate rehabilitation or clinical guidance.
+The episodes' approximate success-rate thresholds, metronome advantage, imagery durations, repetition counts, session frequencies, and perspective effects are source-scoped rather than universal cutoffs. The original and Essentials motor-learning episodes overlap editorially, so their shared progression is not independent confirmation. Appropriate progression depends on the task, injury risk, feedback quality, coach input, fatigue, imagery ability, and learner. Visualization may be useful, but the sources do not establish equal transfer across skills or populations, and injury-limited practice remains subordinate to appropriate rehabilitation or clinical guidance.
 
 ## What Changed
-- Clarified that mental rehearsal is primarily a refinement tool after some successful real execution.
-- Added task matching, brief first-person sequencing, and response inhibition while preserving physical practice as the foundation.
+- Added the original 2021 provenance for the stage-matched progression later condensed in Essentials.
+- Retained the proposed 25%-to-30% slow-practice threshold as an illustration rather than a universal cutoff.
+- Marked the full and condensed motor-learning episodes as editorial overlap rather than replication.
 
 ## Related Concepts
 - [[MotorSkillRepetitionDensity]] - supplies the early high-attempt practice foundation.

@@ -137391,9 +137391,9 @@
       "url": "/wiki/concepts/mentalillnessdestigmatization/"
     },
     "MentalPracticeAndVisualization": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9944841947 [SCIM9944841947].md",
@@ -137408,9 +137408,16 @@
           "show": "Huberman Lab",
           "title": "The Science & Practice of Movement | Ido Portal",
           "url": "/wiki/sources/the-science-practice-of-movement-ido-portal-scim2315861899/"
+        },
+        {
+          "episode_file": "SCIM8083153125 [SCIM8083153125].md",
+          "key": "scim8083153125-scim8083153125",
+          "show": "Huberman Lab",
+          "title": "How to Learn Skills Faster",
+          "url": "/wiki/sources/scim8083153125-scim8083153125/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/mentalpracticeandvisualization/"
     },
     "MentalizingProjection": {
@@ -142385,9 +142392,9 @@
       "url": "/wiki/concepts/motivebasedfalseaccusationdefense/"
     },
     "MotorSkillRepetitionDensity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2224786015 [SCIM2224786015].md",
@@ -142395,9 +142402,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Learn Skills Faster",
           "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
+        },
+        {
+          "episode_file": "SCIM8083153125 [SCIM8083153125].md",
+          "key": "scim8083153125-scim8083153125",
+          "show": "Huberman Lab",
+          "title": "How to Learn Skills Faster",
+          "url": "/wiki/sources/scim8083153125-scim8083153125/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/motorskillrepetitiondensity/"
     },
     "MouDestructionStrike": {
@@ -161934,9 +161948,9 @@
       "url": "/wiki/concepts/postplaguesocialmobility/"
     },
     "PostPracticeMotorConsolidation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2224786015 [SCIM2224786015].md",
@@ -161951,9 +161965,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
           "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
+        },
+        {
+          "episode_file": "SCIM8083153125 [SCIM8083153125].md",
+          "key": "scim8083153125-scim8083153125",
+          "show": "Huberman Lab",
+          "title": "How to Learn Skills Faster",
+          "url": "/wiki/sources/scim8083153125-scim8083153125/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/postpracticemotorconsolidation/"
     },
     "PostRestorationMeritThreat": {
@@ -190935,9 +190956,9 @@
       "url": "/wiki/entities/stacysims/"
     },
     "StageMatchedMotorSkillPractice": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2224786015 [SCIM2224786015].md",
@@ -190952,9 +190973,16 @@
           "show": "Huberman Lab",
           "title": "Science-Based Mental Training & Visualization for Improved Learning",
           "url": "/wiki/sources/science-based-mental-training-visualization-for-improved-learning-scim9944841947/"
+        },
+        {
+          "episode_file": "SCIM8083153125 [SCIM8083153125].md",
+          "key": "scim8083153125-scim8083153125",
+          "show": "Huberman Lab",
+          "title": "How to Learn Skills Faster",
+          "url": "/wiki/sources/scim8083153125-scim8083153125/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/stagematchedmotorskillpractice/"
     },
     "StagedVolcanicCatastrophe": {

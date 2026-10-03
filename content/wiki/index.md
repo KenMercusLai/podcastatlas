@@ -3622,6 +3622,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [62. Magna Carta](sources/62-magna-carta-glt5613809659.md) — The Rest Is History episode on King John's 1215 crisis, lawful limits on monarchy, reissue, rights-centered reinterpretation, and Magna Carta's political afterlife.
 - [How to Build Endurance in Your Brain & Body](sources/scim8024795061-scim8024795061.md) — Early Huberman Lab solo episode on four endurance modes, brain-body persistence, breathing, hydration, recovery, visual pacing, and source-scoped protocols.
 - [56. Nero](sources/56-nero-glt7241559003.md) — The Rest Is History on Nero's dynastic rise, performance politics, violence, the Great Fire, Christian punishment, collapse, and hostile afterlife.
+- [How to Learn Skills Faster](sources/scim8083153125-scim8083153125.md) — Early Huberman Lab solo episode on safe repetition density, informative errors, stage-matched practice, post-training consolidation, sleep, and mental-rehearsal limits.
 
 ## Entities
 - [Paul Lay](entities/PaulLay.md) — Historian interpreting Cromwell through constitutional change, religious conviction, Irish atrocity, evidentiary caution, and later myth.

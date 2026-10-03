@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1435
+topic_total_pages: 1436
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3972,6 +3972,9 @@ topic_sources:
   - key: "how-to-increase-your-willpower-tenacity-scim7958949675"
     title: "How to Increase Your Willpower & Tenacity"
     url: "/wiki/sources/how-to-increase-your-willpower-tenacity-scim7958949675/"
+  - key: "scim8083153125-scim8083153125"
+    title: "How to Learn Skills Faster"
+    url: "/wiki/sources/scim8083153125-scim8083153125/"
   - key: "how-to-make-better-decisions-dr-michael-platt-scim9606820714"
     title: "How to Make Better Decisions | Dr. Michael Platt"
     url: "/wiki/sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714/"

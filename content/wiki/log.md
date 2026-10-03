@@ -28508,3 +28508,11 @@ Added source `54-cromwell-and-the-protectorate-glt5457562231`; created `PaulLay`
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | How to Learn Skills Faster
+
+Added source `scim8083153125-scim8083153125`; resynthesized `MotorSkillRepetitionDensity`, `StageMatchedMotorSkillPractice`, `PostPracticeMotorConsolidation`, and `MentalPracticeAndVisualization` from their complete preserved evidence inventories. Core synthesis: motor learning depends on safe, feedback-rich attempts, stage-matched practice tools, low-interference post-practice time, sleep, and mental rehearsal that supplements rather than replaces execution. No settled contradiction was adopted. The full 2021 episode is underlying provenance for its later Essentials edit rather than independent replication; study percentages, practice thresholds, replay direction, mechanisms, range-of-motion claims, and supplement guidance remain source-scoped. Recurring host and show pages were not changed because the episode adds no durable identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,563-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

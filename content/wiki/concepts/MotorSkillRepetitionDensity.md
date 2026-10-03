@@ -4,7 +4,8 @@ type: concept
 tags: [motor-learning, practice, neuroscience, skill]
 sources:
   - essentials-how-to-learn-skills-faster-scim2224786015
-last_updated: 2026-09-21
+  - scim8083153125-scim8083153125
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ The source treats attempts, errors, and correction as one loop. A learner needs 
 
 Density is not a command to rush recklessly. Attempts must remain safe and sufficiently attentive for proprioceptive and outcome feedback to guide correction. The practical target is a bounded block of focused practice with many usable trials, not fatigue-driven volume or meaningless repetition.
 
+The original 2021 episode supplies the full-length provenance for the later Essentials account. It distinguishes discrete open-loop attempts from continuously adjusted closed-loop movement and makes persistence part of practice density: punitive feedback can lower learning opportunity by reducing how often a learner tries again. Because the two versions are editorially related, their agreement improves traceability rather than independent evidential strength.
+
 ## Key Claims
 - Early motor learning is better tracked through safe attempts per unit time than through hours alone.
 - Errors are useful when they reveal a correctable gap and lead to another attentive attempt.
@@ -29,13 +32,15 @@ Density is not a command to rush recklessly. Attempts must remain safe and suffi
 - Practice-density claim - [[essentials-how-to-learn-skills-faster-scim2224786015]] recommends maximizing safe repetitions inside a designated practice block.
 - Persistence mechanism - [[essentials-how-to-learn-skills-faster-scim2224786015]] reports that neutral error feedback preserved more attempts and higher success than point-loss framing.
 - Error signal - [[essentials-how-to-learn-skills-faster-scim2224786015]] presents errors as cues for attention, neuromodulator recruitment, and movement correction.
+- Full-length provenance - [[scim8083153125-scim8083153125]] connects open- and closed-loop practice, feedback framing, error-triggered attention, and repeated correction in the original episode.
 
 ## Counterevidence & Qualifications
-The source does not provide complete study citations, task definitions, or effect sizes for the large feedback experiment or animal winner-effect work. Repetition count alone cannot establish learning quality, transfer, retention, injury safety, or suitability for a particular sport, instrument, disability, or rehabilitation plan.
+The sources do not provide complete study citations, task definitions, or effect sizes for the large feedback experiment or animal winner-effect work. The full episode and Essentials edit overlap editorially and do not constitute independent replication. Repetition count alone cannot establish learning quality, transfer, retention, injury safety, or suitability for a particular sport, instrument, disability, or rehabilitation plan.
 
 ## What Changed
-- Created a motor-learning concept that separates repetition density from total practice time.
-- Made safety, feedback quality, and persistence explicit limits on the value of more attempts.
+- Added the original 2021 episode as the provenance layer for the later Essentials synthesis.
+- Made the open-loop versus closed-loop distinction explicit within repetition design.
+- Marked agreement between the full and condensed episodes as editorial continuity rather than replication.
 
 ## Related Concepts
 - [[StageMatchedMotorSkillPractice]] - changes the practice tool as control improves.

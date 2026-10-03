@@ -5,7 +5,8 @@ tags: [learning, mental-practice, visualization, motor-learning]
 sources:
   - science-based-mental-training-visualization-for-improved-learning-scim9944841947
   - the-science-practice-of-movement-ido-portal-scim2315861899
-last_updated: 2026-10-01
+  - scim8083153125-scim8083153125
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The evidence supports mental rehearsal as a constrained addition to practice, no
 Portal's movement interview reaches the same boundary from experience. He prefers “experientialization” to visualization because useful rehearsal may include sound, touch, effort, space, emotion, and other remembered features rather than pictures alone. That broader label does not make imagination equivalent to action: he explicitly grounds rehearsal in prior tangible experience and feedback.
 
 The mechanism remains partial neural overlap. Imagery can reinstate aspects of perception, timing, spatial transformation, and voluntary-movement planning, but it omits muscle activation, proprioceptive error, environmental consequences, and much of the feedback that makes physical execution informative. Real practice therefore remains primary. Mental practice becomes especially valuable when it can be layered onto the maximum feasible real practice or when injury and other constraints temporarily reduce execution.
+
+The earlier motor-learning episode supplies a quantitative illustration of that hierarchy: it reports smaller strength gains from imagined finger and elbow exertion than from physical training. Those percentages support the direction of the synthesis but remain source-scoped because the supplied note does not provide the study citation, methods, sample, or uncertainty.
 
 ## Key Claims
 - Mental imagery preserves some timing, spatial, perceptual, and movement-planning structure of real action without being equivalent to execution.
@@ -36,13 +39,15 @@ The mechanism remains partial neural overlap. Imagery can reinstate aspects of p
 - Practice matching - [[science-based-mental-training-visualization-for-improved-learning-scim9944841947]] says rehearsal works best for a skill already executed and when labels and imagined actions match real training.
 - Combination and inhibition - [[science-based-mental-training-visualization-for-improved-learning-scim9944841947]] reports that combined physical and imagined practice improved a stop-signal task more than either mode alone.
 - Experiential grounding - [[the-science-practice-of-movement-ido-portal-scim2315861899]] has Portal prefer fuller experiential rehearsal to visualization while insisting that the imagined scenario be grounded in tangible prior experience and feedback.
+- Physical-practice hierarchy - [[scim8083153125-scim8083153125]] reports mental-training strength gains below those from physical training and explains rehearsal through movement-command pathways without full execution feedback.
 
 ## Counterevidence & Qualifications
-The sources do not establish one universal repetition count, session frequency, perspective, sensory mode, or transfer effect across tasks and populations. The exact protocol ranges, older-adult advantage, neural-connectivity findings, eye-movement strategy, injury-recovery benefit, and response-inhibition results remain source-scoped. Imagery can rehearse an inaccurate pattern, and people with weak or absent visual imagery may need verbal, auditory, tactile, or execution-based alternatives. Mental practice does not replace coaching, sensory feedback, rehabilitation, sleep, or medical care.
+The sources do not establish one universal repetition count, session frequency, perspective, sensory mode, or transfer effect across tasks and populations. The exact protocol ranges, older-adult advantage, neural-connectivity findings, eye-movement strategy, injury-recovery benefit, response-inhibition results, and reported finger, elbow, and physical-training percentages remain source-scoped. Imagery can rehearse an inaccurate pattern, and people with weak or absent visual imagery may need verbal, auditory, tactile, or execution-based alternatives. Mental practice does not replace coaching, sensory feedback, rehabilitation, sleep, or medical care.
 
 ## What Changed
-- Added Portal's broader experiential-rehearsal frame without weakening the execution-and-feedback boundary.
-- Made nonvisual sensory content explicit while preserving task matching and physical practice as foundations.
+- Added the earlier motor-learning episode's strength comparison as support for the physical-practice hierarchy.
+- Kept the reported percentages source-scoped because the supplied note omits full study methods.
+- Preserved mental rehearsal as a supplement grounded in execution and feedback.
 
 ## Related Concepts
 - [[StageMatchedMotorSkillPractice]] - places visualization within a proficiency-dependent practice sequence.
