@@ -28428,3 +28428,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 60. Muhammad
+
+Added source `60-muhammad-glt7621065751`; created `Quran` and `EarlyIslamicEvidenceReconstruction`; and resynthesized `Muhammad`, `Mecca`, `AbdAlMalik`, `TomHolland`, and `SacredHistorySourceCriticism` from their complete preserved evidence inventories. Core synthesis: Muhammad's existence and an early Qur'anic association are much firmer than the detailed later biography; late narrative, external fragments, manuscripts, geography, coins, inscriptions, and late-antique context support graduated rather than all-or-nothing reconstruction. No settled contradiction was adopted. Muhammad's proposed invasion of Palestine, northern Qur'anic geography, the Doctrina Jacobi chronology, Ibn al-Zubayr's sanctuary location, and Abd al-Malik's role in crystallizing recognisable Islam remain contested or source-scoped. Recurring show and dynasty pages were not changed because the episode adds no durable identity update beyond the focused pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,553-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2472
+topic_total_pages: 2473
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6210,6 +6210,9 @@ topic_sources:
   - key: "59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469"
     title: "59.克里特岛：阳光、海龟、神话和二战战场"
     url: "/wiki/sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469/"
+  - key: "60-muhammad-glt7621065751"
+    title: "60. Muhammad"
+    url: "/wiki/sources/60-muhammad-glt7621065751/"
   - key: "62-magna-carta-glt5613809659"
     title: "62. Magna Carta"
     url: "/wiki/sources/62-magna-carta-glt5613809659/"

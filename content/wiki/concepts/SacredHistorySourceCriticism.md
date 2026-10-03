@@ -5,7 +5,8 @@ tags: [historical-method, religion, source-criticism, sacred-history]
 sources:
   - 265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434
   - 12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270
-last_updated: 2026-10-02
+  - 60-muhammad-glt7621065751
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,51 +14,50 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Sacred history source criticism is a method for distinguishing a tradition's religious account, its textual layers, external attestation, material and political context, and the narrower conclusions available to secular historical inquiry without assuming that one standpoint exhausts the subject's meaning.
+Sacred history source criticism distinguishes a tradition's religious account, textual layers, external attestation, material and political context, and the narrower conclusions available to secular inquiry without assuming that either belief or skepticism exhausts the subject's meaning.
 
 ## Current Synthesis
 
-The Kaaba episode begins with the Muslim account because the sanctuary cannot be understood solely as an archaeological object. It then separates Quranic references, later traditions about Adam and Abraham, disputed classical identifications, late external references, and politically charged reconstruction stories. Confidence therefore varies by claim rather than being assigned wholesale to either faith or skepticism.
+The Kaaba case separates Quranic references, later traditions about Adam and Abraham, disputed classical identifications, late external references, and politically charged reconstruction stories. The Muhammad case applies the same discipline to biography: early fragments and the [[Quran|Qur'an]] make Muhammad's existence much firmer than the complete later life, while manuscripts, inscriptions, coins, geography, and late-antique context constrain competing models.
 
-The [[MassacreOfTheInnocents|Massacre of the Innocents]] supplies a second, textually different case. Matthew's story has a clear Moses-and-Exodus function and fits [[HerodTheGreat|Herod's]] remembered dynastic violence, but it lacks support from the other canonical Gospels and Josephus. The method therefore separates literary-theological coherence, character plausibility, liturgical commemoration, and external historical corroboration instead of allowing any one to stand in for the others.
+The [[MassacreOfTheInnocents|Massacre of the Innocents]] supplies a Gospel case. Matthew's story has a clear Moses-and-Exodus function and fits [[HerodTheGreat|Herod's]] remembered violence, but lacks support from the other canonical Gospels and Josephus. Literary-theological coherence, character plausibility, commemoration, and external corroboration must therefore remain separate evidence classes.
 
-The method has two boundaries. Sparse or negative external evidence narrows what secular history can responsibly affirm, while historical uncertainty does not erase a sanctuary's lived reality or a narrative's theological and commemorative force. The Kaaba episode also turns criticism back on the historian: non-belief is a standpoint, not an automatic guarantee of neutral access to a tradition's mystery, beauty, or power.
+The method has reciprocal limits. Sparse or negative external evidence narrows what history can affirm without mechanically proving invention or non-occurrence. Sacred meaning does not suspend ordinary evidentiary distinctions, while non-belief is itself a standpoint rather than a guarantee of complete neutrality.
 
 ## Key Claims
 
 - Religious significance and secular historical recoverability are different questions.
-- Quranic reference, later Muslim tradition, external testimony, and modern inference should not be treated as one evidence class.
+- Confidence should be assigned claim by claim rather than wholesale to a tradition or its critics.
+- Scripture, later narrative, external testimony, manuscripts, inscriptions, coins, and modern inference are distinct evidence classes.
 - Absence of clear external attestation narrows conclusions but does not by itself prove late invention.
-- Ambiguous place names and analogical shrines require geographic, linguistic, chronological, and transmission testing.
-- Political interests can shape reconstruction stories without making every sacred claim reducible to propaganda.
+- Literary pattern and character fit can explain why a sacred story works without establishing occurrence.
+- Political interests can shape sacred memory without reducing every claim to propaganda.
 - Historical skepticism has its own standpoint and interpretive limits.
-- Literary pattern and character fit can explain why a sacred story works without establishing that its event occurred.
 
 ## Evidence
 
-- **Layered evidence:** [[265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434]] moves from Quranic names and traditional narratives to classical geography and later chronicles.
-- **Negative evidence boundary:** [[265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434]] finds no secure early external cross-check while refusing a definitive late-origin conclusion.
-- **Political context:** [[265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434]] reads siege and rebuilding traditions alongside Umayyad-Ibn al-Zubayr rivalry.
-- **Standpoint reflexivity:** [[265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434]] questions whether secular distance is equivalent to neutrality or complete understanding.
-- **Narrative function and corroboration:** [[12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270]] distinguishes Matthew's Moses pattern and Herodian plausibility from silence in the other Gospels and Josephus.
-- **Commemoration:** [[12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270]] shows that Childermas, martyr status, and the Coventry Carol can carry meaning even when the originating event remains doubtful.
+- **Sacred site and layered tradition:** [[265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434]] moves from Quranic names and sacred narratives to classical geography, chronicles, and political reconstruction.
+- **Biography and graduated confidence:** [[60-muhammad-glt7621065751]] distinguishes Muhammad's probable existence from disputed chronology, geography, conquest, and later narrative form.
+- **Material constraints:** [[60-muhammad-glt7621065751]] uses manuscripts, coins, inscriptions, and monuments while preserving limits on what each can date.
+- **Narrative function and corroboration:** [[12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270]] separates Matthew's Moses pattern and Herodian plausibility from external silence.
+- **Meaning beyond occurrence:** [[265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434]] and [[12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270]] preserve lived, theological, and commemorative significance without treating it as direct event proof.
 
 ## Counterevidence & Qualifications
 
-The sources are not systematic reviews of Islamic studies, archaeology, epigraphy, Quranic scholarship, biblical studies, Herodian history, or the full revisionist debates. Sparse evidence can support multiple models, and the failure of one proposed identification does not establish another. Absence from expected sources may be weighty without becoming direct disproof. Respect for religious meaning must not suspend ordinary evidentiary distinctions, while source criticism should not pretend to adjudicate supernatural truth or the whole significance of worship, story, or commemoration.
+The sources are not systematic reviews of Islamic studies, Quranic scholarship, archaeology, epigraphy, biblical studies, or Herodian history. Sparse evidence supports multiple models; ambiguous texts and place names resist single readings; manuscript dating has technical limits; and later narratives may preserve early material. Respect for sacred meaning must not suspend evidence testing, while source criticism cannot adjudicate supernatural truth or fully explain worship and commemoration.
 
 ## What Changed
 
-- Added a Gospel case distinguishing literary-theological function and character plausibility from event corroboration.
-- Extended the framework from sacred sites to sacred narratives and their liturgical afterlives.
-- Clarified that strong negative evidence narrows confidence without mechanically proving non-occurrence.
+- Added graduated reconstruction of sacred biography alongside sacred sites and Gospel narrative.
+- Expanded the evidence ladder to include manuscripts, coins, inscriptions, geography, and late-antique context.
+- Clarified that confidence in Muhammad's existence does not imply confidence in every traditional or revisionist detail.
 
 ## Related Concepts
 
+- [[EarlyIslamicEvidenceReconstruction]] - focused application to Muhammad, the Qur'an, conquest, and late-seventh-century consolidation.
 - [[HistoricalJesusReconstruction]] - parallel graduated-confidence method for sacred biography and supernatural claims.
-- [[TextualChronologyOriginTesting]] - adjacent preference for earliest recoverable evidence over later elaboration.
+- [[TextualChronologyOriginTesting]] - preference for earliest recoverable evidence over untested later elaboration.
 - [[EarlyIslamicReligiousFormation]] - historical-development framework that must remain bounded by source quality.
 - [[SacredSitePoliticalLegitimacy]] - political inference tested through this source-critical method.
 - [[ArchaeologicalInterpretationUnderSparseEvidence]] - comparable problem of inference under limited material traces.
-- [[MassacreOfTheInnocents]] - Gospel case separating theological pattern, remembered character, attestation, and commemoration.
-- [[MartyrdomHistoricalMemory]] - afterlife through which doubtful or contested historical narratives can still organize sacred remembrance.
+- [[MartyrdomHistoricalMemory]] - afterlife through which contested narratives can organize sacred remembrance.

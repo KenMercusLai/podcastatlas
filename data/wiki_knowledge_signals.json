@@ -4775,9 +4775,9 @@
       "url": "/wiki/entities/abbiehoffman/"
     },
     "AbdAlMalik": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1528147434 [GLT1528147434].md",
@@ -4785,9 +4785,16 @@
           "show": "The Rest Is History",
           "title": "265: Saudi Arabia: The Mystery of the Kaaba",
           "url": "/wiki/sources/265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434/"
+        },
+        {
+          "episode_file": "GLT7621065751 [GLT7621065751].md",
+          "key": "60-muhammad-glt7621065751",
+          "show": "The Rest Is History",
+          "title": "60. Muhammad",
+          "url": "/wiki/sources/60-muhammad-glt7621065751/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/abdalmalik/"
     },
     "AbdAlRahmanIII": {
@@ -57892,6 +57899,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/earlyconfucianresistancepolitics/"
+    },
+    "EarlyIslamicEvidenceReconstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7621065751 [GLT7621065751].md",
+          "key": "60-muhammad-glt7621065751",
+          "show": "The Rest Is History",
+          "title": "60. Muhammad",
+          "url": "/wiki/sources/60-muhammad-glt7621065751/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/earlyislamicevidencereconstruction/"
     },
     "EarlyIslamicReligiousFormation": {
       "episode_count": 1,
@@ -135186,9 +135209,9 @@
       "url": "/wiki/concepts/meaningthroughexperience/"
     },
     "Mecca": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1528147434 [GLT1528147434].md",
@@ -135196,9 +135219,16 @@
           "show": "The Rest Is History",
           "title": "265: Saudi Arabia: The Mystery of the Kaaba",
           "url": "/wiki/sources/265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434/"
+        },
+        {
+          "episode_file": "GLT7621065751 [GLT7621065751].md",
+          "key": "60-muhammad-glt7621065751",
+          "show": "The Rest Is History",
+          "title": "60. Muhammad",
+          "url": "/wiki/sources/60-muhammad-glt7621065751/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/mecca/"
     },
     "MechanismAgnosticPublicHealth": {
@@ -142173,9 +142203,9 @@
       "url": "/wiki/entities/mughalempire/"
     },
     "Muhammad": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1528147434 [GLT1528147434].md",
@@ -142183,9 +142213,16 @@
           "show": "The Rest Is History",
           "title": "265: Saudi Arabia: The Mystery of the Kaaba",
           "url": "/wiki/sources/265-saudi-arabia-the-mystery-of-the-kaaba-glt1528147434/"
+        },
+        {
+          "episode_file": "GLT7621065751 [GLT7621065751].md",
+          "key": "60-muhammad-glt7621065751",
+          "show": "The Rest Is History",
+          "title": "60. Muhammad",
+          "url": "/wiki/sources/60-muhammad-glt7621065751/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/muhammad/"
     },
     "MuhammadAhmad": {
@@ -167877,6 +167914,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/qunfangnoodlehouse/"
     },
+    "Quran": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7621065751 [GLT7621065751].md",
+          "key": "60-muhammad-glt7621065751",
+          "show": "The Rest Is History",
+          "title": "60. Muhammad",
+          "url": "/wiki/sources/60-muhammad-glt7621065751/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/quran/"
+    },
     "QutbMinarComplex": {
       "episode_count": 1,
       "show_count": 1,
@@ -177265,9 +177318,9 @@
       "url": "/wiki/concepts/sacralqueenshipandregency/"
     },
     "SacredHistorySourceCriticism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1528147434 [GLT1528147434].md",
@@ -177282,9 +177335,16 @@
           "show": "The Rest Is History",
           "title": "12 Days: Massacre of the Innocents and the Tay Bridge disaster",
           "url": "/wiki/sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270/"
+        },
+        {
+          "episode_file": "GLT7621065751 [GLT7621065751].md",
+          "key": "60-muhammad-glt7621065751",
+          "show": "The Rest Is History",
+          "title": "60. Muhammad",
+          "url": "/wiki/sources/60-muhammad-glt7621065751/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/sacredhistorysourcecriticism/"
     },
     "SacredObjectAuthorityMigration": {
@@ -202152,9 +202212,9 @@
       "url": "/wiki/entities/tomhanks/"
     },
     "TomHolland": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5186420966 [GLT5186420966].md",
@@ -202176,6 +202236,13 @@
           "show": "The Rest Is History",
           "title": "95. 9/11",
           "url": "/wiki/sources/95-9-11-glt8208243510/"
+        },
+        {
+          "episode_file": "GLT7621065751 [GLT7621065751].md",
+          "key": "60-muhammad-glt7621065751",
+          "show": "The Rest Is History",
+          "title": "60. Muhammad",
+          "url": "/wiki/sources/60-muhammad-glt7621065751/"
         }
       ],
       "updated": "2026-10-03",

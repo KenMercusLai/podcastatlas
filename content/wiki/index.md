@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [60. Muhammad](sources/60-muhammad-glt7621065751.md) — The Rest Is History on Muhammad's probable existence, late biography, the Qur'an as early evidence, late-antique context, and contested revisionist reconstruction.
 - [EP176-巨头混战的社区团购，魅力何在？](sources/ep176-jutou-hunzhan-de-shequ-tuangou-meili-he-zai-ckwrijeem9ngabaaaac5h72a.md) — 无时差研究所 on demand-led community buying, center and grid warehouses, neighborhood pickup, rural retail access, platform competition, and fulfillment limits.
 - [63. Hitler, with Ian Kershaw - part 1](sources/63-hitler-with-ian-kershaw-part-1-glt1996418919.md) — The Rest Is History with Ian Kershaw on Hitler's contingent postwar formation, individual agency, structural conditions, historical method, and the long radicalization from antisemitism to genocide.
 - [64. Hitler, with Ian Kershaw - part 2](sources/64-hitler-with-ian-kershaw-part-2-glt5766781968.md) — The Rest Is History with Ian Kershaw on Hitler's delegated dictatorship, radicalization, war, defeat, postwar memory, and the limits of madness or moral analogy as explanation.
@@ -3911,7 +3912,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Francis Young](entities/FrancisYoung.md) — Historian distinguishing occult legitimation, advice, propaganda, decision failure, and security response in British politics.
 - [Merlin](entities/Merlin.md) — Legendary British prophet and royal adviser whose political afterlife shaped rebellion, kingship, and later learned self-fashioning.
 - [Helen Duncan](entities/HelenDuncan.md) — Wartime medium whose seances became a possible information-leakage and public-order concern.
-- [Tom Holland](entities/TomHolland.md) — Historian interpreting ancient moral change, modern propaganda, rival universalism, and the reputational consequences of war.
+- [Tom Holland](entities/TomHolland.md) — Historian using graduated-confidence reconstruction across sacred biography, ancient moral change, modern propaganda, and war.
 - [Henry Tricks](entities/HenryTricks.md) — Technology editor framing smart glasses through bystander suspicion, misuse, phone dependence, and their possible role as AI-agent interfaces.
 - [Simon Garfield](entities/SimonGarfield.md) — Author of The Pen, used by the episode to connect writing instruments, material constraints, mass production, and cultural status.
 - [Judean Revolt, 66-73 CE](entities/JudeanRevolt66To73.md) — Divided provincial rebellion whose defeat destroyed Jerusalem's Temple and acquired an exceptional religious and political afterlife.
@@ -4112,9 +4113,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Rivera](entities/DiegoRivera.md) — Muralist who recontextualized Posada's skeleton figure within post-revolutionary Mexican national art.
 - [La Catrina](entities/LaCatrina.md) — Elegant female skeleton whose meaning layers class satire, muralism, nationalism, and modern festival iconography.
 - [Kaaba](entities/Kaaba.md) — Islam's holiest sanctuary, examined through ritual centrality, sacred tradition, sparse early evidence, and contested reconstruction.
-- [Mecca](entities/Mecca.md) — Islamic pilgrimage city whose sanctuary, contested early attestation, and political custody anchor the episode.
-- [Muhammad](entities/Muhammad.md) — Source-bounded profile of the prophet's revelation, migration, return to Mecca, and reconsecration of the Kaaba.
-- [Abd al-Malik](entities/AbdAlMalik.md) — Umayyad caliph associated with imperial consolidation, Mecca's recovery, and qualified sacred-geography formation claims.
+- [Mecca](entities/Mecca.md) — Islamic pilgrimage city whose sanctuary, sacred centrality, contested early attestation, and political custody anchor the sources.
+- [Muhammad](entities/Muhammad.md) — Islam's prophet, treated as highly probable historically while the details of his later biography remain contested.
+- [Abd al-Malik](entities/AbdAlMalik.md) — Umayyad caliph associated with imperial consolidation, Mecca's recovery, and public late-seventh-century Islamic identity.
+- [Qur'an](entities/Quran.md) — Islam's scripture and an early but historically difficult witness to Muhammad's movement and late-antique religious world.
 - [Abdullah ibn al-Zubayr](entities/AbdullahIbnAlZubayr.md) — Mecca-centered rival whose defense and rebuilding of the Kaaba supported a competing claim to rule.
 - [Hwang Jini / Hwang Jin-hee](entities/HwangJini.md) — Joseon gisaeng and sijo poet whose durable cultural reputation must be separated from her legend-heavy biography.
 - [Joseon Dynasty](entities/JoseonDynasty.md) — Korean dynastic setting connecting Confucian hierarchy, gisaeng training, gender constraint, and literary memory.
@@ -15815,6 +15817,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Early Islamic Evidence Reconstruction](concepts/EarlyIslamicEvidenceReconstruction.md) — Graduated-confidence method combining the Qur'an, later narratives, external fragments, material evidence, geography, and late-antique context.
 - [California Dream and Reinvention](concepts/CaliforniaDreamAndReinvention.md) — How California repeatedly turns story, migration, infrastructure, entertainment, and technology into future imagery while displacing social and environmental costs.
 - [Endurance Effort Persistence](concepts/EnduranceEffortPersistence.md) — Brain-body model of continued effort shaped by physiological capacity, perceived progress, arousal, and pacing cues.
 - [King Under Law](concepts/KingUnderLaw.md) — Principle that monarchic authority remains constrained by law, lawful process, and enforceable limits rather than personal will.
@@ -16247,7 +16250,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mexican Post-Revolutionary Cultural Nationalism](concepts/MexicanPostRevolutionaryCulturalNationalism.md) — State-supported recoding of Indigenous symbols, art, ritual, and anti-clerical identity into a modern national culture.
 - [Film-to-Festival Feedback](concepts/FilmToFestivalFeedback.md) — Process by which stylized screen spectacle becomes a model for later real-world public ritual.
 - [Cristero War](concepts/CristeroWar.md) — Armed Catholic resistance to post-revolutionary anti-clerical policy and political context for later cultural recoding.
-- [Sacred History Source Criticism](concepts/SacredHistorySourceCriticism.md) — Method separating religious meaning, textual layers, external attestation, political context, and secular historical limits.
+- [Sacred History Source Criticism](concepts/SacredHistorySourceCriticism.md) — Method grading scripture, later narrative, external testimony, material evidence, political context, and secular historical limits.
 - [Sacred Site Political Legitimacy](concepts/SacredSitePoliticalLegitimacy.md) — Authority and liability created through custody, protection, rebuilding, and administration of a revered sanctuary.
 - [Gisaeng Social Institution](concepts/Gisaeng.md) — Korean institution joining low hereditary status and coercive service to artistic education, elite access, and bounded cultural agency.
 - [Sijo Poetry](concepts/SijoPoetry.md) — Compact Korean verse form linking gisaeng literary memory and Hwang Jini's reputation to a clear translation boundary.

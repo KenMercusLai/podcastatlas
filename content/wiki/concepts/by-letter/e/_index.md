@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9457
+wiki_total_pages: 9458
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "EarlyFintechFraudControls"
     title: "Early Fintech Fraud Controls"
     url: "/wiki/concepts/earlyfintechfraudcontrols/"
+  - key: "EarlyIslamicEvidenceReconstruction"
+    title: "Early Islamic Evidence Reconstruction"
+    url: "/wiki/concepts/earlyislamicevidencereconstruction/"
   - key: "EarlyIslamicReligiousFormation"
     title: "Early Islamic Religious Formation"
     url: "/wiki/concepts/earlyislamicreligiousformation/"

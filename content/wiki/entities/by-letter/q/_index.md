@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 12156
+wiki_total_pages: 12157
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "Quora"
     title: "Quora"
     url: "/wiki/entities/quora/"
+  - key: "Quran"
+    title: "Qur'an"
+    url: "/wiki/entities/quran/"
   - key: "QutbMinarComplex"
     title: "Qutb Minar Complex"
     url: "/wiki/entities/qutbminarcomplex/"

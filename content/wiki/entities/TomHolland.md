@@ -6,6 +6,7 @@ sources:
   - 175-crucifixion-part-1-glt5186420966
   - 162-putins-russia-glt4575290976
   - 95-9-11-glt8208243510
+  - 60-muhammad-glt7621065751
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -14,60 +15,50 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Tom Holland is a historian and co-host of [[TheRestIsHistory|The Rest Is History]] whose covered work moves among ancient moral transformation, propaganda and political power, and the ideological and reputational consequences of 9/11.
+Tom Holland is a historian and co-host of [[TheRestIsHistory|The Rest Is History]] whose covered work combines source-graded reconstruction with large interpretations of ancient religion, moral change, propaganda, war, and political power.
 
 ## Current Profile
 
-In [[175-crucifixion-part-1-glt5186420966]], Holland moves between material practice and moral genealogy. He reconstructs crucifixion as variable public degradation rather than a standardized device, applies graduated historical confidence to [[Jesus]], and argues that Christianity's most distinctive reversal was making an enslaved and humiliated victim the site of divine victory.
+Holland repeatedly separates secure cores from interpretive extensions. In the crucifixion episode he treats Jesus's Roman execution as strongly attested while grading individual Passion details; in the Muhammad episode he treats Muhammad's existence and an early Qur'anic association as substantially firmer than later biography, geography, or his own Palestine reconstruction.
 
-His interpretive position is explicit rather than neutral. The episode promotes the larger thesis associated with his book *Dominion*: Western moral attention to victims remains deeply marked by Christianity, including among people hostile or indifferent to Christian belief. His reading of [[FriedrichNietzsche|Nietzsche]] and his recollection of Sinjar supply perspective and coherence, but not exclusive proof of that genealogy.
+His larger arguments connect ancient and modern worlds. He presents the crucified victim as a Christian moral inversion whose legacy persists in Western concern for victims, revises an Islam-versus-West framing of 9/11 toward rival universalist projects, and uses propaganda and imperial analogy to interpret Putin's Russia. These arguments seek coherence across time but remain broader than the evidence proving any exclusive genealogy.
 
-In [[162-putins-russia-glt4575290976]], Holland applies similar moral and comparative reasoning to the present. He uses [[PeterPomerantsev]]'s work, Augustan Rome, nuclear fear, and the destruction of cities to interpret [[VladimirPutin]]'s propaganda system and to question historical traditions that turn safely distant mass violence into “greatness.”
-
-In [[95-9-11-glt8208243510]], Holland revises his earlier Islam-versus-West framing toward globalisation and [[RivalUniversalistProjects]]. He treats [[OsamaBinLaden|Osama bin Laden]] and [[GeorgeWBush|George W. Bush]] as opposed universalists, identifies Iraq as the wrong turn after Afghanistan, and argues that torture, detention abuse, and war damaged American moral authority while jihadist violence damaged Islam's reputation among many non-Muslims. His China-beneficiary conclusion is a broad geopolitical interpretation rather than a demonstrated single-cause history.
+The Muhammad episode also makes his standpoint explicit: secular non-belief is not neutral access to sacred history. Holland nonetheless applies historical method to revelation claims, late sources, fragments, inscriptions, coins, geography, and late-antique context, offering provisional models rather than claiming final certainty.
 
 ## Key Characteristics
 
-- Reconstructs ancient punishment through varied evidence and graduated confidence rather than accepting or dismissing Gospel narratives wholesale.
-- Treats the crucified savior, more than resurrection alone, as Christianity's distinctive ancient scandal.
-- Reads Nietzsche as a hostile witness to Christianity's moral inversion and connects ancient history to modern experiences of violence and victimhood.
-- Advances a broad Christian genealogy of Western morality while exposing it to source-scope qualification.
-- Uses ancient analogy to illuminate modern authority while preserving differences between cases and challenging greatness narratives that detach conquest from its victims.
-- Revises civilizational binaries by treating post-9/11 conflict as competition among global projects shaped by globalisation.
-- Centers reputational and moral self-undermining alongside battlefield and institutional consequences.
+- Uses graduated confidence to separate historical cores from later sacred or narrative detail.
+- Reconstructs religious origins through textual, external, material, geographic, and contextual evidence.
+- Advances broad Christian moral-genealogy arguments while exposing them to source-scope qualification.
+- Uses ancient analogy to illuminate modern propaganda and power while preserving differences between cases.
+- Revises civilizational binaries toward global, late-antique, and cross-tradition contexts.
+- Centers moral and reputational self-undermining alongside battlefield and institutional consequences.
+- Makes the historian's own secular standpoint part of the methodological problem.
 
 ## Evidence
 
-### Historical reconstruction
-
-- [[175-crucifixion-part-1-glt5186420966]] presents Holland's account of crucifixion mechanics, humiliation, social targets, Roman political logic, archaeological finds, and the graded historicity of Passion details.
-
-### Cultural interpretation
-
-- [[175-crucifixion-part-1-glt5186420966]] connects Paul, Constantine, Christian art, Nietzsche, *Dominion*, and Sinjar to Holland's claim that the cross reversed the moral meaning of power and victimhood.
-
-### Modern power and war
-
-- [[162-putins-russia-glt4575290976]] connects Pomerantsev's “hall of mirrors,” Augustan comparison, nuclear danger, and violence in Ukraine, Syria, and Chechnya to Holland's interpretation of Putin and historical greatness.
-- [[95-9-11-glt8208243510]] connects rival universalism, the Afghanistan-Iraq distinction, abuse in the war on terror, and indirect benefit to China to Holland's reassessment of 9/11.
+- **Sacred biography and punishment:** [[175-crucifixion-part-1-glt5186420966]] reconstructs Roman crucifixion and grades claims about Jesus's Passion.
+- **Early Islamic reconstruction:** [[60-muhammad-glt7621065751]] distinguishes Muhammad's likely existence and an early Qur'anic core from disputed chronology, geography, and later institutional form.
+- **Modern power and propaganda:** [[162-putins-russia-glt4575290976]] connects managed reality, ancient analogy, war, and historical greatness.
+- **Global conflict and overreach:** [[95-9-11-glt8208243510]] reframes 9/11 through rival universalism, reputational damage, and American overreach.
 
 ## Qualifications
 
-This profile is bounded to three episodes and does not summarize Holland's full scholarship, bibliography, public career, or every position taken elsewhere. The Christian moral genealogy, Augustan comparison, rival-universalist frame, media interpretation, China-beneficiary claim, and judgments of historical greatness or overreach are arguments rather than comprehensive comparative demonstrations. Archaeological, theological, political, and current-war details remain source-scoped.
+This profile is bounded to four episodes and does not summarize Holland's full scholarship or bibliography. His Christian moral genealogy, Palestine reconstruction, northern Qur'anic geography, Abd al-Malik comparison, Augustan analogy, rival-universalist frame, and China-beneficiary claim are interpretations rather than settled consensus. Explicit reflexivity about non-belief improves transparency but does not itself validate a reconstruction.
 
 ## What Changed
 
-- Added Holland's revised globalisation frame for 9/11 and his emphasis on mutual reputational damage and American overreach.
+- Added early Islam as a major case of Holland's graduated-confidence historical method.
+- Made standpoint reflexivity and provisional model-building explicit features of his profile.
+- Added his contested Palestine and Abd al-Malik arguments without converting them into consensus claims.
 
 ## Relationships
 
 - [[TheRestIsHistory]] - podcast he co-hosts and the source context for this profile.
-- [[RomanCrucifixionAsPublicHumiliation]] - historical framework he develops in the episode.
-- [[HistoricalJesusReconstruction]] - method he applies to the Passion evidence.
+- [[Muhammad]] - sacred and historical figure at the center of his early-Islam reconstruction.
+- [[EarlyIslamicEvidenceReconstruction]] - method exemplified by his use of fragments, texts, context, and material evidence.
+- [[HistoricalJesusReconstruction]] - parallel method he applies to Passion evidence.
 - [[CrossSymbolicInversion]] - cultural thesis linking Roman shame to Christian victory and victim-centered morality.
-- [[FriedrichNietzsche]] - hostile critic used to illuminate Christianity's inversion of ancient values.
-- [[DominicSandbrook]] - co-host in the Putin episode.
 - [[VladimirPutin]] - modern ruler interpreted through media, war, and historical analogy.
-- [[ManagedRealityAuthoritarianism]] - propaganda framework Holland draws from Pomerantsev.
 - [[RivalUniversalistProjects]] - post-9/11 interpretive frame he advances.
 - [[WarOnTerrorOverreach]] - judgment linking Iraq and abusive methods to weakened American credibility.
