@@ -28908,3 +28908,11 @@ Added source `26-witches-glt8850594772`; created [[SusannahLipscomb]] and [[Earl
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | Optimize Your Learning & Creativity With Science-Based Tools
+
+Added source `optimize-your-learning-creativity-with-science-based-tools-scim9141486324`; resynthesized [[Neuroplasticity]], [[DailyCircadianPerformanceRoutine]], [[NonSleepDeepRestRecovery]], [[CreativeStateMatching]], [[UltradianDeepWorkBlock]], and [[CaffeineAdenosineSleepTiming]] from their complete preserved evidence inventories. Core synthesis: plasticity is useful only relative to a defined change; alert focus selects and practices, lower arousal can support creative exploration, focused work implements, and quiet rest or sleep may consolidate. No settled contradiction was adopted. The short-, medium-, and long-term plasticity taxonomy, go/no-go simplification, caffeine and food mechanisms, sensory-motor NSDR effect, psychedelic, circadian, temperature, sound, and 90-minute claims remain source-scoped public education rather than individualized guidance. Recurring host and show profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,613-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

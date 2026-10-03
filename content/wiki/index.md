@@ -3672,6 +3672,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Master Stress: Tools for Managing Stress & Anxiety](sources/scim8789190900-scim8789190900.md) — Early Huberman Lab episode on acute, medium-term, and chronic stress, physiological sighs, bounded arousal training, social buffering, and safety limits.
 - [Control Pain & Heal Faster With Your Brain](sources/control-pain-heal-faster-with-your-brain-scim8085045324.md) — Early Huberman Lab episode on distributed pain, body-map plasticity, constraint-based rehabilitation, inflammation timing, sleep, movement, and regenerative-treatment evidence limits.
 - [27. Tutankhamun](sources/27-tutankhamun-glt2697164979.md) — The Rest Is History on Tutankhamun's tomb, Carter's discovery, Akhenaten's Aten revolution, restoration, Amarna uncertainty, and later ideological projection.
+- [Optimize Your Learning & Creativity With Science-Based Tools](sources/optimize-your-learning-creativity-with-science-based-tools-scim9141486324.md) — Early Huberman Lab episode on goal-directed plasticity, state-matched learning and creativity, circadian routine design, deep rest, and evidence boundaries.
 
 ## Entities
 - [Susannah Lipscomb](entities/SusannahLipscomb.md) — Early-modern historian whose witchcraft account joins demonology, legal procedure, gender, social stress, and evidentiary change.

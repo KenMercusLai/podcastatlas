@@ -8,7 +8,8 @@ sources:
   - the-science-of-making-breaking-habits-scim6848516659
   - scim2746317304-scim2746317304
   - scim3608509346-scim3608509346
-last_updated: 2026-10-03
+  - optimize-your-learning-creativity-with-science-based-tools-scim9141486324
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -30,6 +31,8 @@ A behavior-learning branch in [[the-science-of-making-breaking-habits-scim684851
 
 A cognitive-mode hypothesis in [[scim2746317304-scim2746317304]] proposes that earlier dopamine- and norepinephrine-associated states may suit precise, rule-bound work, while later serotonin-associated states may suit more fluid or creative work. This complements the workspace-phase model but remains probabilistic; sleep quality, chronotype, task demands, and observed performance take priority over a fixed schedule.
 
+The earlier [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] episode makes the task-fit rule more explicit and less clock-bound. Alertness is useful for deliberate learning and linear implementation, while relaxed or slightly sleepy states may be better for exploratory combination; creative implementation still returns to focused work. Morning and evening light, delayed caffeine, exercise, meal composition, afternoon deep rest, and nighttime dimness are examples of state inputs, not a requirement to copy the host's day.
+
 ## Key Claims
 - Daily performance is presented as a sequencing problem across the full 24-hour cycle, not a collection of independent hacks.
 - Wake time, outdoor light, movement, caffeine, work, exercise, food, late-day light, darkness, and temperature all act as state or timing cues.
@@ -49,13 +52,15 @@ A cognitive-mode hypothesis in [[scim2746317304-scim2746317304]] proposes that e
 - Habit-placement evidence - [[the-science-of-making-breaking-habits-scim6848516659]] places more demanding habits in an alert phase, calmer practices later, and sleep-dependent consolidation at night.
 - Flexibility boundary - [[the-science-of-making-breaking-habits-scim6848516659]] recommends varying time and context after a habit becomes easier to test whether it is genuinely portable.
 - Cognitive-mode timing - [[scim2746317304-scim2746317304]] proposes earlier precision work and later fluid or creative work while noting that disrupted sleep can blur the underlying daily-state pattern.
+- Earlier state-to-task provenance - [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] matches alert focus to learning and implementation, lower arousal to exploration, and rest to recovery without making one clock schedule universal.
 
 ## Counterevidence & Qualifications
-The sources describe public science education and example routines, not a validated universal schedule. The full and Essentials daily-tools releases are overlapping provenance. Shift work, caregiving, disability, chronotype, eating disorders, diabetes, psychiatric conditions, sleep disorders, medication effects, pregnancy, training history, and occupational safety can change whether any element is appropriate. Mechanistic claims about optic flow, fasting, meal composition, cytokines, serotonin, supplements, light-sensitive retinal pathways, limbic friction, or precise cognitive and habit phases should not be treated as individualized care. State matching can help repetition or task selection without proving that one clock window is necessary.
+The sources describe public science education and example routines, not a validated universal schedule. The full and Essentials daily-tools releases are overlapping provenance. Shift work, caregiving, disability, chronotype, eating disorders, diabetes, psychiatric conditions, sleep disorders, medication effects, pregnancy, training history, and occupational safety can change whether any element is appropriate. Mechanistic claims about optic flow, fasting, meal composition, cytokines, serotonin, supplements, light-sensitive retinal pathways, limbic friction, or precise cognitive and habit phases should not be treated as individualized care. The earlier episode's caffeine, sodium, carbohydrate, evening-alertness, and light-plasticity explanations are likewise source-scoped. State matching can help repetition or task selection without proving that one clock window is necessary.
 
 ## What Changed
-- Added the original full-length episode as overlapping provenance for the established whole-day sequence.
-- Extended the routine's recovery context with post-lunch downshifting, nighttime body-based options, and weekend regularity.
+- Added earlier provenance for matching learning, creative exploration, and implementation to different arousal states.
+- Clarified that task fit matters more than copying the host's clock schedule.
+- Extended the routine's afternoon-rest and morning/evening light context.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - sleep-focused parent toolkit that this routine extends into work, exercise, and meals.

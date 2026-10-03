@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1438
+topic_total_pages: 1439
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4077,6 +4077,9 @@ topic_sources:
   - key: "optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946"
     title: "Optimize & Control Your Brain Chemistry to Improve Health & Performance"
     url: "/wiki/sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946/"
+  - key: "optimize-your-learning-creativity-with-science-based-tools-scim9141486324"
+    title: "Optimize Your Learning & Creativity With Science-Based Tools"
+    url: "/wiki/sources/optimize-your-learning-creativity-with-science-based-tools-scim9141486324/"
   - key: "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046"
     title: "Peptides: The Science, Uses & Safety | Dr. Abud Bakri"
     url: "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"

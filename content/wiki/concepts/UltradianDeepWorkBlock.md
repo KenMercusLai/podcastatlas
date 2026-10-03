@@ -9,7 +9,8 @@ sources:
   - optimizing-workspace-for-productivity-focus-creativity-scim5202577757
   - scim2746317304-scim2746317304
   - scim3608509346-scim3608509346
-last_updated: 2026-10-03
+  - optimize-your-learning-creativity-with-science-based-tools-scim9141486324
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,6 +29,8 @@ Timing is treated as adjustable. The episode proposes four to six hours after es
 Workspace setup and interruption control become explicit in [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]]. It normalizes a roughly six-minute focus warm-up, recommends a centered and elevated work target, and treats room orientation, phone separation, connectivity controls, and periodic panoramic viewing as supports for entry and re-entry rather than guarantees of uninterrupted concentration.
 
 The earlier [[scim2746317304-scim2746317304]] episode frames waking ultradian cycles as intentionally initiated work periods and suggests leaving two to four hours between demanding bouts, with one or two bouts per day as a realistic ceiling for many people. This adds a recovery and frequency hypothesis, not evidence that everyone shares one exact 90-minute depletion clock.
+
+The proposed 90-minute blocks are periods for expanding mental capacity, not the only productive hours in the day. Email, meetings, reading, and routine obligations can surround them, and the block should be placed where the person's alertness and task type fit rather than automatically first thing in the morning. This scope distinction is explicit in [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]].
 
 ## Key Claims
 - One protected daily block can be reserved for the hardest or most important cognitive task.
@@ -48,12 +51,14 @@ The earlier [[scim2746317304-scim2746317304]] episode frames waking ultradian cy
 - Editorial continuity - [[essentials-tools-to-improve-your-focus-concentration-scim2328129388]] repeats the roughly 90-minute bout and five- to ten-minute transition in a condensed release.
 - Workspace and boundary design - [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] adds elevated target placement, a focus warm-up, panoramic visual breaks, and stronger phone separation.
 - Bout frequency - [[scim2746317304-scim2746317304]] proposes two to four hours between demanding bouts and says many people can sustain one or two such bouts daily.
+- Capacity-expansion scope - [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] distinguishes one or two demanding learning blocks from ordinary work across the rest of the day.
 
 ## Counterevidence & Qualifications
-The sources do not supply comparative trials for 90 versus other work-block lengths, establish white noise as universally beneficial, prove one optimal recovery interval or daily bout count, or show that screen height alone materially improves work. The full and Essentials daily-tools releases are overlapping provenance. The six-minute and five-to-ten-minute warm-up descriptions are compatible heuristics, not a precise universal onset time. Attention disorders, pain, disability, shared workplaces, caregiving, job design, chronotype, and sleep debt can change the useful duration and setup. The ultradian label, precise focus window, bout spacing, and decompression duration remain source-scoped.
+The sources do not supply comparative trials for 90 versus other work-block lengths, establish white noise as universally beneficial, prove one optimal recovery interval or daily bout count, or show that screen height alone materially improves work. The full and Essentials daily-tools releases are overlapping provenance. The six-minute and five-to-ten-minute warm-up descriptions are compatible heuristics, not a precise universal onset time. Attention disorders, pain, disability, shared workplaces, caregiving, job design, chronotype, and sleep debt can change the useful duration and setup. The ultradian label, precise focus window, two-block framing, bout spacing, and decompression duration remain source-scoped.
 
 ## What Changed
-- Added original full-length provenance for a possible second bout and the explicit occupational-fit boundary.
+- Added early provenance distinguishing capacity-expanding blocks from the rest of a normal workday.
+- Clarified that task and observed alertness govern placement more than a fixed morning rule.
 
 ## Related Concepts
 - [[DailyCircadianPerformanceRoutine]] - whole-day routine in which the work block appears.
