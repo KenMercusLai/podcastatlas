@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Foods & Nutrients Control Our Moods](sources/how-foods-nutrients-control-our-moods-scim8271372367.md) — Early Huberman Lab episode on embodied mood, vagal and gut nutrient sensing, neuromodulators, microbiome individuality, and intervention-specific safety boundaries.
 - [33. The Beautiful Game](sources/33-the-beautiful-game-glt5860295083.md) — The Rest Is History with Jonathan Wilson on football's codification, industrial and civic culture, informal-imperial diffusion, Argentine identity, labor rights, media, and women's interrupted tradition.
 - [34. St Cuthbert’s Day](sources/34-st-cuthberts-day-glt9977520388.md) — The Rest Is History on Cuthbert's ascetic life, near-memory hagiography, cross-class Christian appeal, relic cult, pilgrimage wealth, and posthumous political authority.
 - [35. The Prime Ministers’ World Cup](sources/35-the-prime-ministers-world-cup-glt6124252189.md) — The Rest Is History first-round tournament on prime-ministerial reputation, Twitter audience bias, name recognition, vivid personality, and the gap between popularity and governing substance.

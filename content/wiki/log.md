@@ -28812,3 +28812,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | How Foods & Nutrients Control Our Moods
+
+Added source `how-foods-nutrients-control-our-moods-scim8271372367`; resynthesized [[InteroceptiveBrainBodyCommunication]], [[BrainBodyEmotionMapping]], [[MindsetPhysiologyEffects]], and [[AliCrum]] from their complete preserved evidence inventories. Core synthesis: mood and emotion are embodied, action-biased states influenced by heterogeneous organ signaling, nutrient sensing, neuromodulation, immune context, microbiome ecology, and interpretation without being reducible to one food, transmitter, supplement, or vagal pathway. No settled contradiction was adopted. EPA, antidepressant, L-tyrosine, mucuna pruriens, 5-HTP, L-carnitine, probiotic, fasting, saccharin, inflammation, and heart-rate-variability claims remain source-scoped and clinically bounded. Recurring host and show profiles were not changed because the episode added topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,601-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

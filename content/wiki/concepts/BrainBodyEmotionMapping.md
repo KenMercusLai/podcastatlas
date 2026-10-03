@@ -10,8 +10,9 @@ sources:
   - the-biology-of-aggression-mating-arousal-dr-david-anderson-scim2527130481
   - erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962
   - the-science-of-emotions-relationships-scim6339543648
+  - how-foods-nutrients-control-our-moods-scim8271372367
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-02
+last_updated: 2026-10-04
 ---
 
 # Brain-Body Emotion Mapping
@@ -31,6 +32,8 @@ Across development, primitive regulatory states do not remain raw physiology: th
 The fear-and-trauma episode adds an insular calibration example. A discussed mouse study is interpreted as showing that bodily feedback to insular cortex helps match internal fear response to external conditions; disrupting that activity can make mild stimuli produce disproportionate internal responses. This supports interoceptive calibration as a candidate mechanism, not a human diagnostic test or proof that one insular circuit explains trauma.
 
 The early emotion-and-relationships episode contributes a descriptive attention layer. Its [[EmotionStateCoordinateModel]] joins arousal and valence to inward-versus-outward attention and uses a brief interoception/exteroception exercise to make state weighting observable. The same source cautions that vagal signaling is not uniformly calming, strengthening the need to distinguish a body pathway from the direction of the resulting state change.
+
+The earlier food-and-mood episode adds an action-and-nutrition application. Attraction and aversion bias movement toward or away from stimuli, while organ signals, nutrient sensing, immune state, satiety, and neuromodulation can alter that action readiness. This supports the embodied model but does not establish that one food, supplement, transmitter, microbiome state, or vagal pathway determines an emotion.
 
 ## Key Claims
 - Body diagrams can reveal emotion concepts without directly measuring physiological emotion signatures.
@@ -56,13 +59,14 @@ The early emotion-and-relationships episode contributes a descriptive attention 
 - Fear-calibration example - [[erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962]] discusses a mouse study in which inhibiting insular activity made mild external stimuli produce disproportionately large internal fear responses.
 - Attention-direction layer - [[the-science-of-emotions-relationships-scim6339543648]] adds arousal, valence, and interoceptive-versus-exteroceptive attention as descriptive coordinates while rejecting a single emotion center.
 - Vagal-state qualification - [[the-science-of-emotions-relationships-scim6339543648]] says vagal stimulation can increase activation and alertness rather than functioning as a universal calming signal.
+- Action-and-nutrition application - [[how-foods-nutrients-control-our-moods-scim8271372367]] connects attraction, aversion, organ sensing, food approach, satiety, and neuromodulation while keeping specific nutrient and treatment claims bounded.
 
 ## Counterevidence & Qualifications
-The concept remains partly prospective. The sources expect richer body signatures may exist but say the necessary high-dimensional physiological studies and specific vagus-fiber decoding are still developing. Barrett's body-budget metaphor does not establish a single measurable personal budget, and her depression and treatment remarks remain source-scoped rather than a complete clinical model. Immordino-Yang's developmental examples explain a plausible pathway from feeling to meaning but do not establish a universal sequence, a fixed emotion vocabulary, or a direct physiological decoder. The insula result is a mouse manipulation and cannot diagnose, localize, or prescribe treatment for human fear or trauma.
+The concept remains partly prospective. The sources expect richer body signatures may exist but say the necessary high-dimensional physiological studies and specific vagus-fiber decoding are still developing. Barrett's body-budget metaphor does not establish a single measurable personal budget, and her depression and treatment remarks remain source-scoped rather than a complete clinical model. Immordino-Yang's developmental examples explain a plausible pathway from feeling to meaning but do not establish a universal sequence, a fixed emotion vocabulary, or a direct physiological decoder. The insula result is a mouse manipulation and cannot diagnose, localize, or prescribe treatment for human fear or trauma. Nutrition, supplement, microbiome, and neurotransmitter claims likewise do not supply a one-to-one emotional decoder or individualized mood treatment.
 
 ## What Changed
-- Added attention direction as a descriptive layer connecting body sensing to outward environmental focus.
-- Clarified that vagal participation does not predict a uniformly calming emotional effect.
+- Added attraction and aversion as action-biased applications of embodied emotion.
+- Added nutrient, satiety, immune, and neuromodulator inputs without reducing emotion to food chemistry.
 
 ## Related Concepts
 - [[EmotionsAsFunctionalControlStates]] - broader emotion framework that body mapping may refine.

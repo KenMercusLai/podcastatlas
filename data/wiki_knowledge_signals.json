@@ -9646,9 +9646,9 @@
       "url": "/wiki/entities/aliansari/"
     },
     "AliCrum": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1082295503 [SCIM1082295503].md",
@@ -9663,9 +9663,16 @@
           "show": "Huberman Lab",
           "title": "Science of Mindsets for Health & Performance | Dr. Alia Crum",
           "url": "/wiki/sources/science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820/"
+        },
+        {
+          "episode_file": "SCIM8271372367 [SCIM8271372367].md",
+          "key": "how-foods-nutrients-control-our-moods-scim8271372367",
+          "show": "Huberman Lab",
+          "title": "How Foods & Nutrients Control Our Moods",
+          "url": "/wiki/sources/how-foods-nutrients-control-our-moods-scim8271372367/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/alicrum/"
     },
     "AliIbnAbiTalib": {
@@ -25511,9 +25518,9 @@
       "url": "/wiki/entities/bradgerstner/"
     },
     "BrainBodyEmotionMapping": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -25563,9 +25570,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Emotions & Relationships",
           "url": "/wiki/sources/the-science-of-emotions-relationships-scim6339543648/"
+        },
+        {
+          "episode_file": "SCIM8271372367 [SCIM8271372367].md",
+          "key": "how-foods-nutrients-control-our-moods-scim8271372367",
+          "show": "Huberman Lab",
+          "title": "How Foods & Nutrients Control Our Moods",
+          "url": "/wiki/sources/how-foods-nutrients-control-our-moods-scim8271372367/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/brainbodyemotionmapping/"
     },
     "BrainComputerInterface": {
@@ -106318,9 +106332,9 @@
       "url": "/wiki/concepts/internetpoliticalamplification/"
     },
     "InteroceptiveBrainBodyCommunication": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4317576130 [SCIM4317576130].md",
@@ -106328,9 +106342,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Your Brain-Body Function & Health",
           "url": "/wiki/sources/scim4317576130-scim4317576130/"
+        },
+        {
+          "episode_file": "SCIM8271372367 [SCIM8271372367].md",
+          "key": "how-foods-nutrients-control-our-moods-scim8271372367",
+          "show": "Huberman Lab",
+          "title": "How Foods & Nutrients Control Our Moods",
+          "url": "/wiki/sources/how-foods-nutrients-control-our-moods-scim8271372367/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/interoceptivebrainbodycommunication/"
     },
     "InterpersonalImageProjection": {
@@ -141630,9 +141651,9 @@
       "url": "/wiki/concepts/mindfuleatingcuecontrol/"
     },
     "MindsetPhysiologyEffects": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2208611274 [SCIM2208611274].md",
@@ -141647,9 +141668,16 @@
           "show": "Huberman Lab",
           "title": "Science of Mindsets for Health & Performance | Dr. Alia Crum",
           "url": "/wiki/sources/science-of-mindsets-for-health-performance-dr-alia-crum-scim9502231820/"
+        },
+        {
+          "episode_file": "SCIM8271372367 [SCIM8271372367].md",
+          "key": "how-foods-nutrients-control-our-moods-scim8271372367",
+          "show": "Huberman Lab",
+          "title": "How Foods & Nutrients Control Our Moods",
+          "url": "/wiki/sources/how-foods-nutrients-control-our-moods-scim8271372367/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/mindsetphysiologyeffects/"
     },
     "MingDynasty": {
