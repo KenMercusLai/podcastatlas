@@ -3619,6 +3619,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [61. California](sources/61-california-glt2438679240.md) — The Rest Is History on California's Indigenous past, settler violence, Gold Rush, engineered abundance, Hollywood, political change, Silicon Valley, and paired utopian and dystopian futures.
 - [62. Magna Carta](sources/62-magna-carta-glt5613809659.md) — The Rest Is History episode on King John's 1215 crisis, lawful limits on monarchy, reissue, rights-centered reinterpretation, and Magna Carta's political afterlife.
 - [How to Build Endurance in Your Brain & Body](sources/scim8024795061-scim8024795061.md) — Early Huberman Lab solo episode on four endurance modes, brain-body persistence, breathing, hydration, recovery, visual pacing, and source-scoped protocols.
+- [56. Nero](sources/56-nero-glt7241559003.md) — The Rest Is History on Nero's dynastic rise, performance politics, violence, the Great Fire, Christian punishment, collapse, and hostile afterlife.
 
 ## Entities
 - [小元 / Xiaoyuan (returnee professional)](entities/XiaoyuanReturnee.md) — EP174 guest whose return from a stable U.S. model-risk career exposes cultural, travel, mutual-aid, and career-transfer tradeoffs.
@@ -15836,6 +15837,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agnès Poirier](entities/AgnesPoirier.md) — French journalist and author interpreting Paris through history, monuments, political culture, and personal memory.
 - [Notre-Dame de Paris](entities/NotreDameDeParis.md) — Medieval cathedral linking Parisian growth, national ceremony, the 1944 liberation, and the global shock of the 2019 fire.
 - [Georges-Eugène Haussmann](entities/GeorgesEugeneHaussmann.md) — Second Empire administrator whose infrastructure and demolitions decisively reshaped modern Paris.
+- [Agrippina the Younger](entities/AgrippinaTheYounger.md) — Julio-Claudian dynastic broker who enabled Nero's accession before their conflict ended in her murder.
+- [Seneca](entities/Seneca.md) — Stoic philosopher and early Neronian adviser whose estrangement ended in forced suicide.
+- [Suetonius](entities/Suetonius.md) — Roman biographer whose vivid account of Nero is indispensable but shaped by genre, hostility, and moral design.
+- [Great Fire of Rome](entities/GreatFireOfRome.md) — Nine-day urban disaster linking Neronian relief and rebuilding to arson accusation, Christian punishment, and historical memory.
 
 ## Concepts
 - [Pandemic Cross-Border Decision Compression](concepts/PandemicCrossBorderDecisionCompression.md) — Crisis process that forces deferred choices about country, family, study, work, and belonging under a suddenly narrower option set.
@@ -25359,5 +25364,6 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Paris as Symbolic Capital](concepts/ParisAsSymbolicCapital.md) — Framework joining Paris's institutional density, revolutionary theater, national centrality, built image, and global mythology.
 - [Haussmannian Urban Modernization](concepts/HaussmannianUrbanModernization.md) — Model of coordinated urban infrastructure and public-health improvement inseparable from demolition, displacement, and inherited loss.
+- [Imperial Performance Politics](concepts/ImperialPerformancePolitics.md) — Mode of personal rule joining artistic persona, myth, spectacle, architecture, punishment, and audience appeal.
 
 ## Syntheses

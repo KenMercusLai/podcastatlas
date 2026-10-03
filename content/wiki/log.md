@@ -28484,3 +28484,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 56. Nero
+
+Added source `56-nero-glt7241559003`; created `AgrippinaTheYounger`, `Seneca`, `Suetonius`, `GreatFireOfRome`, and `ImperialPerformancePolitics`; and resynthesized `Nero`, `HistoricalInquirySourceCriticism`, and `HistoricalReputationConstruction` from their complete preserved evidence inventories. Core synthesis: Nero's performance, populism, architecture, coercion, and self-mythologizing formed one political style, while senatorial, Christian, and Flavian hostility shaped but did not wholly invent his black legend. No settled contradiction was adopted. Nero's responsibility for the fire is treated as unlikely; poisoning stories, elaborate murder mechanics, Poppaea's death, the Tacitus passage, Christian-targeting logic, last words, and many intimate anecdotes remain source-scoped. Recurring show and peripheral figure pages were not changed because the episode adds no durable identity update beyond the selected synthesis. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,560-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

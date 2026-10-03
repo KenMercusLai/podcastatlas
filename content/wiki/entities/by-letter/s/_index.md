@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12171
+wiki_total_pages: 12175
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -473,6 +473,9 @@ wiki_pages:
   - key: "SellMeASasquatch"
     title: "Sell Me a Sasquatch"
     url: "/wiki/entities/sellmeasasquatch/"
+  - key: "Seneca"
+    title: "Seneca"
+    url: "/wiki/entities/seneca/"
   - key: "Senegal"
     title: "Senegal"
     url: "/wiki/entities/senegal/"
@@ -1679,6 +1682,9 @@ wiki_pages:
   - key: "SudaneseArmedForces"
     title: "Sudanese Armed Forces"
     url: "/wiki/entities/sudanesearmedforces/"
+  - key: "Suetonius"
+    title: "Suetonius"
+    url: "/wiki/entities/suetonius/"
   - key: "SuetoniusPaulinus"
     title: "Suetonius Paulinus"
     url: "/wiki/entities/suetoniuspaulinus/"

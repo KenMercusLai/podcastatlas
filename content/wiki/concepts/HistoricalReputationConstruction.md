@@ -4,7 +4,8 @@ type: concept
 tags: [historical-memory, historiography, literature, legitimacy]
 sources:
   - 104-macbeth-glt3313769671
-last_updated: 2026-10-02
+  - 56-nero-glt7241559003
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,39 +13,48 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Historical reputation construction is the process by which later dynasties, chroniclers, playwrights, political contexts, and performance traditions convert a complex historical actor into a durable hero, villain, usurper, or archetype.
+Historical reputation construction is the cumulative process by which successors, chroniclers, biographers, religious communities, political contexts, material landscapes, and performance traditions convert a complex actor into a durable hero, villain, usurper, or archetype.
 
 ## Current Synthesis
 
-[[104-macbeth-glt3313769671]] supplies Macbeth as a layered case. The historical king's long reign, pilgrimage, and honorable burial do not disappear, but Duncan's restored line benefits from a cleaner succession story in which [[MacbethHistoricalKing|Macbeth]] becomes an interruption. Chronicle tradition then supplies dramatic materials, and [[WilliamShakespeare]] adapts them to [[JamesVIAndI|James VI and I]], the [[GunpowderPlot]], witchcraft fear, and theatre.
+Successor legitimacy is a recurrent engine of reputation change. Duncan's restored line benefits when the historical [[MacbethHistoricalKing|Macbeth]] becomes an illegitimate interruption, while the Flavians define restoration against [[Nero]]'s private landscape and civil-war legacy. In both cases, political succession selects from real violence, uncertain motive, and inherited narrative to make the defeated predecessor morally useful. [[104-macbeth-glt3313769671]] [[56-nero-glt7241559003]]
 
-Reputation construction is cumulative rather than a single fabrication. Dynastic genealogy, national origin stories, dramatic compression, memorable characters, political archetypes, adaptations, and even invented theatrical folklore reinforce one another until the later image becomes more culturally available than the sparse historical record.
+Different media make the resulting image durable. Chronicle, [[WilliamShakespeare|Shakespearean]] drama, court context, adaptation, and theatrical folklore turn Macbeth into a portable tyrant; hostile biography, Christian apocalyptic tradition, the Golden House, the Colossus, punishment scenes, and Nero's own performances make the monstrous emperor repeatable in text, religion, and urban space. Material survival and continued popularity can resist elite control without restoring a neutral original reputation. [[104-macbeth-glt3313769671]] [[56-nero-glt7241559003]]
+
+Reputation construction is therefore neither a single fabrication nor the passive accumulation of facts. Later interests select real events, uncertain anecdotes, genres, monuments, and emotionally reusable scenes. Revision must separate those layers while preserving the possibility that interested traditions record genuine wrongdoing: Macbeth's wars remain violent, and Nero's murder of [[AgrippinaTheYounger|Agrippina]], coercive rule, and theatrical punishment prevent source criticism from becoming automatic exoneration.
 
 ## Key Claims
 
-- Restored regimes can turn defeated rivals into illegitimate interruptions.
-- Sparse evidence gives later narrative forms more room to organize motive and moral identity.
-- Literature makes reputations portable through scene, character, phrase, and performance.
-- Patronage and current political fear shape which inherited details are retained or altered.
-- Later reception can add new folklore that audiences mistake for ancient tradition.
-- Revision requires separating historical, chronicle, dramatic, and performance layers without assuming any layer is politically neutral.
+- Successor regimes can turn defeated predecessors into illegitimate interruptions or moral opposites.
+- Sparse or one-sided evidence gives later narrative forms more room to organize motive and identity.
+- Literature, biography, religion, monuments, and performance make reputations portable through scene, object, phrase, and ritual.
+- Political and religious communities retain details that serve current legitimacy, persecution memory, or moral explanation.
+- Material remains can both challenge a legend and keep it physically present.
+- Revision requires separating historical, dynastic, literary, religious, and reception layers without assuming any layer is neutral.
+- Demonstrating hostile construction does not exonerate conduct supported by stronger evidence.
 
 ## Evidence
 
-- Dynastic layer: [[104-macbeth-glt3313769671]] links Macbeth's villainization to the return of Duncan's line and later need for continuous royal genealogy.
-- Dramatic layer: [[104-macbeth-glt3313769671]] contrasts the historical reign with [[MacbethPlay]] and connects Banquo, equivocation, and witches to Jacobean politics.
-- Reception layer: [[104-macbeth-glt3313769671]] follows Lady Macbeth's political archetype, modern adaptations, and the possibly late invention of the curse.
+- Dynastic interruption: [[104-macbeth-glt3313769671]] links Macbeth's villainization to Duncan's restored line and a later need for continuous royal genealogy.
+- Dramatic portability: [[104-macbeth-glt3313769671]] connects Banquo, equivocation, witches, Lady Macbeth, adaptation, and curse folklore to Jacobean and later performance contexts.
+- Convergent hostile memory: [[56-nero-glt7241559003]] joins senatorial writing, Christian apocalyptic tradition, and Flavian legitimacy to Nero's black legend.
+- Material and popular resistance: [[56-nero-glt7241559003]] preserves coins, archaeology, Nero's own public performances, continued posthumous appeal, and the Colossus as evidence that elite hostility never fully controlled his image.
+- Revision without exoneration: [[56-nero-glt7241559003]] treats fire accusation and lurid biography cautiously while retaining murder, coercion, and theatrical punishment in the current judgment.
 
 ## Counterevidence & Qualifications
 
-The concept does not imply that every negative reputation is false or that later art merely propagandizes. Macbeth's rise and wars were violent, and Shakespeare's tragedy has meanings beyond court flattery. The causal weight of any single dynasty, chronicle, performance, or audience remains difficult to establish from one episode.
+The concept does not imply that every negative reputation is false or that later art and religion merely propagandize. Macbeth's rise and wars were violent; Nero's rule included murder and persecution. Nor can the causal weight of any single dynasty, author, monument, or audience be established from these episodes alone. Material evidence does not automatically defeat texts, and popularity does not establish benevolence.
 
 ## What Changed
 
-- Created a layered model joining dynastic memory, chronicle, drama, and performance folklore.
+- Added convergent senatorial, dynastic, and religious memory as a black-legend mechanism.
+- Added material landscape and continuing popularity as partial resistance to elite narrative control.
+- Distinguished justified revision from reflexive rehabilitation.
 
 ## Related Concepts
 
+- [[HistoricalInquirySourceCriticism]] - method for testing the evidence from which reputations are built.
 - [[HistoricalMemoryContest]] - broader struggle over which past becomes institutionally authoritative.
 - [[ShakespeareHistoryPlayPoliticalMemory]] - theatrical mechanism that makes altered political history repeatable.
-- [[MedievalScottishSuccession]] - historical structure later narrowed into a usurper story.
+- [[ImperialPerformancePolitics]] - rulerly self-fashioning that can supply later hostile memory with durable scenes.
+- [[MonumentalDynasticLegitimation]] - use of a predecessor's physical landscape to stage successor legitimacy.

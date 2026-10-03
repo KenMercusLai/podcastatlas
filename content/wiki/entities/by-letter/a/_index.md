@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12171
+wiki_total_pages: 12175
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "Agojie"
     title: "Agojie"
     url: "/wiki/entities/agojie/"
+  - key: "AgrippinaTheYounger"
+    title: "Agrippina the Younger"
+    url: "/wiki/entities/agrippinatheyounger/"
   - key: "AHACreator"
     title: "AHA Creator"
     url: "/wiki/entities/ahacreator/"

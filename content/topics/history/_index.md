@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2474
+topic_total_pages: 2475
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6174,6 +6174,9 @@ topic_sources:
   - key: "559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077"
     title: "559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)"
     url: "/wiki/sources/559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077/"
+  - key: "56-nero-glt7241559003"
+    title: "56. Nero"
+    url: "/wiki/sources/56-nero-glt7241559003/"
   - key: "560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351"
     title: "560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)"
     url: "/wiki/sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351/"

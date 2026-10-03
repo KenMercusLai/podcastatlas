@@ -7962,6 +7962,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/agriculturalweatherriskmanagement/"
     },
+    "AgrippinaTheYounger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7241559003 [GLT7241559003].md",
+          "key": "56-nero-glt7241559003",
+          "show": "The Rest Is History",
+          "title": "56. Nero",
+          "url": "/wiki/sources/56-nero-glt7241559003/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/agrippinatheyounger/"
+    },
     "AguirreExpedition": {
       "episode_count": 1,
       "show_count": 1,
@@ -85299,6 +85315,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/greatfear1789/"
     },
+    "GreatFireOfRome": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7241559003 [GLT7241559003].md",
+          "key": "56-nero-glt7241559003",
+          "show": "The Rest Is History",
+          "title": "56. Nero",
+          "url": "/wiki/sources/56-nero-glt7241559003/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/greatfireofrome/"
+    },
     "GreatGame": {
       "episode_count": 2,
       "show_count": 1,
@@ -94270,9 +94302,9 @@
       "url": "/wiki/concepts/historicalfiguresasrealitytvarchetypes/"
     },
     "HistoricalInquirySourceCriticism": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7158094581 [GLT7158094581].md",
@@ -94294,9 +94326,16 @@
           "show": "The Rest Is History",
           "title": "128. Rasputin",
           "url": "/wiki/sources/128-rasputin-glt1290733613/"
+        },
+        {
+          "episode_file": "GLT7241559003 [GLT7241559003].md",
+          "key": "56-nero-glt7241559003",
+          "show": "The Rest Is History",
+          "title": "56. Nero",
+          "url": "/wiki/sources/56-nero-glt7241559003/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/historicalinquirysourcecriticism/"
     },
     "HistoricalInternationalLaw": {
@@ -94570,9 +94609,9 @@
       "url": "/wiki/concepts/historicalreadingassurvivalwisdom/"
     },
     "HistoricalReputationConstruction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3313769671 [GLT3313769671].md",
@@ -94580,9 +94619,16 @@
           "show": "The Rest Is History",
           "title": "104. Macbeth",
           "url": "/wiki/sources/104-macbeth-glt3313769671/"
+        },
+        {
+          "episode_file": "GLT7241559003 [GLT7241559003].md",
+          "key": "56-nero-glt7241559003",
+          "show": "The Rest Is History",
+          "title": "56. Nero",
+          "url": "/wiki/sources/56-nero-glt7241559003/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/historicalreputationconstruction/"
     },
     "HistoricalWorldviewReconstruction": {
@@ -101881,6 +101927,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/imperialpatrondependency/"
+    },
+    "ImperialPerformancePolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7241559003 [GLT7241559003].md",
+          "key": "56-nero-glt7241559003",
+          "show": "The Rest Is History",
+          "title": "56. Nero",
+          "url": "/wiki/sources/56-nero-glt7241559003/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/imperialperformancepolitics/"
     },
     "ImperialPetitionOffenseRisk": {
       "episode_count": 1,
@@ -145369,9 +145431,9 @@
       "url": "/wiki/entities/nepal/"
     },
     "Nero": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT7808118779 [GLT7808118779].md",
@@ -145400,9 +145462,16 @@
           "show": "The Rest Is History",
           "title": "12 Days: Nero's Succession and the Fall of the Byzantine Empire",
           "url": "/wiki/sources/12-days-neros-succession-and-the-fall-of-the-byzantine-empire-glt6148714296/"
+        },
+        {
+          "episode_file": "GLT7241559003 [GLT7241559003].md",
+          "key": "56-nero-glt7241559003",
+          "show": "The Rest Is History",
+          "title": "56. Nero",
+          "url": "/wiki/sources/56-nero-glt7241559003/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/nero/"
     },
     "NervousSystemStateFlexibility": {
@@ -181492,6 +181561,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/semiconductorindexconcentration/"
     },
+    "Seneca": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7241559003 [GLT7241559003].md",
+          "key": "56-nero-glt7241559003",
+          "show": "The Rest Is History",
+          "title": "56. Nero",
+          "url": "/wiki/sources/56-nero-glt7241559003/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/seneca/"
+    },
     "Senegal": {
       "episode_count": 2,
       "show_count": 2,
@@ -193764,6 +193849,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/sudutechnology/"
+    },
+    "Suetonius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7241559003 [GLT7241559003].md",
+          "key": "56-nero-glt7241559003",
+          "show": "The Rest Is History",
+          "title": "56. Nero",
+          "url": "/wiki/sources/56-nero-glt7241559003/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/suetonius/"
     },
     "SuetoniusPaulinus": {
       "episode_count": 2,

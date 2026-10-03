@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12171
+wiki_total_pages: 12175
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "GreatFear1789"
     title: "Great Fear of 1789"
     url: "/wiki/entities/greatfear1789/"
+  - key: "GreatFireOfRome"
+    title: "Great Fire of Rome"
+    url: "/wiki/entities/greatfireofrome/"
   - key: "GreatHarvestBread"
     title: "Great Harvest Bread"
     url: "/wiki/entities/greatharvestbread/"
