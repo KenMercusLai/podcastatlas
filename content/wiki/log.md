@@ -29051,3 +29051,11 @@ Added source `15-walls-and-borders-glt1636005045`; created [[HadriansWall|Hadria
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | Master Your Sleep & Be More Alert When Awake
+
+Added source `master-your-sleep-be-more-alert-when-awake-scim6660090579`; resynthesized [[TwoProcessSleepRegulation]], [[MorningLightCircadianAnchoring]], [[CaffeineAdenosineSleepTiming]], [[SleepWakeTimingToolkit]], [[AdultNappingSleepPressure]], [[NonSleepDeepRestRecovery]], and [[SleepSupplementBoundary]] from their complete preserved evidence inventories. Core synthesis: sleep and wakefulness reflect interacting homeostatic and circadian processes, so waking behaviors—especially outdoor morning light, late-day light, darker nights, consistent activity and food timing, and individualized caffeine or nap use—shape later sleep, while guided rest and supplements remain secondary. No settled contradiction was adopted; exact light windows, endocrine timing, dopamine effects, nap lengths, supplement efficacy, melatonin-puberty claims, apigenin hormone effects, and product-label variance remain source-scoped. Recurring host and show profiles were not changed because the episode adds foundational topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,631-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

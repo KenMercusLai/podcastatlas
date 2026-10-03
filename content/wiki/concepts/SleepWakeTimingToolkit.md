@@ -13,7 +13,8 @@ sources:
   - guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663
   - ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965
   - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
-last_updated: 2026-10-01
+  - master-your-sleep-be-more-alert-when-awake-scim6660090579
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -68,14 +69,14 @@ The full-length sleep-toolkit episode confirms that system and adds practical ni
 - Recovery and learned cues - [[guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663]] joins schedule regularity, wind-down, dim light, stimulus control, and restraint after a poor night.
 - Travel adaptation - [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965]] coordinates gradual pre-travel wake shifts or after-arrival local light, movement, caffeine, meals, social activity, and nighttime dimness.
 - Full-length toolkit and clinical boundary - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] confirms the three-period daily structure, adds nighttime-waking options, and separates suspected apnea from ordinary sleep optimization.
+- Early behavioral hierarchy - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] organizes morning outdoor light, sunset light, darker nights, activity, food timing, naps, guided rest, and supplements into a foundations-first sleep-wake system.
 
 ## Counterevidence & Qualifications
 The sources are public sleep education, not clinical sleep-medicine protocols. They do not settle individual treatment for insomnia, sleep apnea, psychiatric illness, medication effects, pregnancy, pediatric sleep, shift-work safety, trauma-related nightmares, gastrointestinal disease, adolescent school policy, or serious circadian disorders. Bedtime rescheduling can create hazardous sleepiness and requires more caution than ordinary sleep hygiene. Mouth taping can introduce breathing or aspiration risk and is not a substitute for apnea assessment. The supplement, red-light, THC, alcohol, sauna, cold-exposure, bed-angle, tracker, growth-hormone, REM, nap-duration, nap-effect, social-jetlag, meal-timing, optic-flow, light-intensity, and travel claims remain source-scoped.
 
 ## What Changed
-- Added nighttime-waking tools while preserving the distinction between guided rest and clinical insomnia care.
-- Made suspected sleep apnea an explicit escalation boundary inside the full-day toolkit.
-- Kept bed angle, mouth taping, red light, and detailed supplement protocols below the behavioral foundations.
+- Added early provenance for the full-day, behavior-first hierarchy linking waking cues to later sleep.
+- Preserved individual-response, sleep-disorder, and clinical boundaries rather than turning the example routine into a universal schedule.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account that this toolkit operationalizes.

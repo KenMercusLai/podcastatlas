@@ -15,6 +15,7 @@ sources:
   - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
   - scim9724505974-scim9724505974
   - scim1705222315-scim1705222315
+  - master-your-sleep-be-more-alert-when-awake-scim6660090579
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -81,14 +82,14 @@ The January 2021 office-hours episode supplies earlier provenance for that joint
 - Brightness-measurement boundary - [[scim9724505974-scim9724505974]] explains that visual adaptation makes subjective brightness unreliable, cloudy outdoor light commonly exceeds indoor light, and intensity must be interpreted together with duration, timing, and spectrum.
 - Early photon-duration and window account - [[scim1705222315-scim1705222315]] says the morning system can integrate photons over time and treats window-filtered sunlight as a much weaker clock-setting input than outdoor exposure.
 - Evening and color boundary - [[scim1705222315-scim1705222315]] presents late-day sunlight as partial protection against later light while distinguishing dim red illumination from bright red devices and warning that nighttime brightness is not solved by blocking blue alone.
+- Earliest behavior-first account - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] prioritizes outdoor light soon after waking, treats window or car-glass exposure as weaker, adds sunset light as a second anchor, and pairs both with late-night darkness.
 
 ## Counterevidence & Qualifications
 The sources do not establish one universal lux threshold, exposure duration, latitude adjustment, artificial-light device standard, optic-flow effect, cortisol target, or clinical treatment protocol. Their clear-day and overcast minute ranges differ, so weather-based timings should be read as rough source examples rather than precise prescriptions. The vision episode's two-to-ten-minute example and its dopamine, glucose, pain, metabolism, and appetite claims lack enough methodological detail here to generalize; AMA #1's metabolism claim has the same boundary. The Journal Club psychiatric study is observational and measured light at the wrist rather than at the eye. AMA #14's roughly 50% melatonin-protection claim and red-light vision or mitochondrial claims also lack enough methods here for universal use. The January office-hours claims about 50-to-100-fold window delays, ordinary moonlight or firelight, full-moon waking, and evening protection are also source-scoped rather than universal thresholds. The Hattar source adds personal timing practice and rough bright-day examples, not an individualized retinal-sensitivity test. The sources do not claim light exposure alone can solve insomnia, mood disorders, shift-work safety problems, jet lag, pediatric sleep disruption, school-schedule mismatch, hospital-lighting problems, or circadian disorders without other context.
 
 ## What Changed
-- Added early provenance for photon accumulation, weak window-filtered exposure, and late-day light as a partial second anchor.
-- Clarified that dim red illumination and bright red-light devices are different, while blue blocking does not remove the nighttime-brightness problem.
-- Kept moonlight, firelight, window-delay, and evening-protection claims source-scoped rather than universal rules.
+- Extended early provenance back to the January 2021 behavior-first account of morning light, sunset light, and late-night darkness.
+- Kept exact exposure minutes, window-effect magnitude, cortisol-to-melatonin timing, and proposed mood mechanisms source-scoped.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account supported by light timing.

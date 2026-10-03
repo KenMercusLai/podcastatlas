@@ -15,6 +15,7 @@ sources:
   - scim3840916606-scim3840916606
   - scim4224560223-scim4224560223
   - scim1705222315-scim1705222315
+  - master-your-sleep-be-more-alert-when-awake-scim6660090579
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -67,13 +68,14 @@ The preceding office-hours episode places a roughly 20-minute nap or NSDR-like p
 - Earliest post-practice account - [[scim3840916606-scim3840916606]] reports a 20-minute NSDR-like or shallow-nap condition immediately after a spatial-memory task as improving learning rate.
 - Early sleep-anxiety use - [[scim4224560223-scim4224560223]] presents NSDR, hypnosis, yoga nidra, and meditation as possible downshifting tools during waking at night, daytime stress, or the morning after poor sleep.
 - Office-hours post-learning use - [[scim1705222315-scim1705222315]] places a roughly 20-minute nap or NSDR-like period after a learning bout and describes hypnosis as a focused-rest state better suited to state change than detailed factual acquisition.
+- Earliest sleep-transition account - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] groups yoga nidra, meditation, and hypnosis as parasympathetic downshifting practices that may reduce rumination and support sleep without replacing it.
 
 ## Counterevidence & Qualifications
 The sources do not establish a universal duration, controlled working-memory, creativity, spatial-memory, or sensory-motor effect, guaranteed return to sleep, reduced biological sleep need, full reversal of sleep deprivation, interchangeability among NSDR, yoga nidra, hypnosis, and meditation, or superiority over sleep, passive rest, meditation, or clinical treatment. The reported dopamine or cortisol change should not be read as a corresponding percentage gain in cognition, creativity, or sleep restoration, and the cited pathway interpretations remain source-scoped. The early 20-minute post-practice result lacks enough detail here to separate NSDR from a shallow nap or ordinary quiet rest. Severe fatigue, exercise intolerance, persistent insomnia, faintness, pain, or functional decline requires assessment rather than additional relaxation audio.
 
 ## What Changed
-- Added office-hours provenance for a short post-learning rest period and the focused-rest account of hypnosis.
-- Preserved uncertainty about whether NSDR, naps, hypnosis, and ordinary quiet rest produce the same consolidation effect.
+- Extended provenance to the earliest sleep-transition account of yoga nidra, meditation, and hypnosis.
+- Preserved uncertainty about equivalence, mechanism, sleep restoration, and clinical insomnia benefit.
 
 ## Related Concepts
 - [[ExerciseRecoveryReadiness]] - broader framework for recovery inputs and load adjustment.

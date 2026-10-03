@@ -5,7 +5,8 @@ tags: [sleep, naps, adenosine, insomnia, alertness]
 sources:
   - guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999
   - scim3745275899-scim3745275899
-last_updated: 2026-10-03
+  - master-your-sleep-be-more-alert-when-awake-scim6660090579
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -36,12 +37,13 @@ The earlier Walker interview independently supports the same conditional judgmen
 - Insomnia boundary - [[guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999]] places nap avoidance inside cognitive behavioral therapy for insomnia.
 - Personal experiment - [[guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999]] proposes moving a nap earlier for about two weeks and then returning to baseline to test whether the effect reverses.
 - Earlier corroboration - [[scim3745275899-scim3745275899]] reports broad possible nap benefits and a source-scoped NASA estimate while preserving the short, early, nighttime-sleep-first boundary.
+- Earliest individual-fit account - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] presents roughly 20-to-60-minute naps as potentially useful while noting that some people wake groggy and should judge the practice by their own later sleep and functioning.
 
 ## Counterevidence & Qualifications
 The sources do not establish one nap duration for every goal or sleeper. Work schedules, caregiving, shift work, age, medications, sleep disorders, driving, and safety-critical work can change the tradeoff. The learning, emotion, cardiovascular, cortisol, immune, NASA, pilot, and productivity effect sizes remain source-scoped. Persistent insomnia or daytime sleepiness requires qualified assessment rather than nap optimization alone.
 
 ## What Changed
-- Strengthened the short, early, conditional nap judgment with an earlier independent presentation of the same nighttime-sleep tradeoff.
+- Extended provenance to an earlier conditional account that treats nap response and grogginess as individual rather than universally beneficial.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent timing system in which nap placement affects the following night.

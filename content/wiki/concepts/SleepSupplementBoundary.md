@@ -12,6 +12,7 @@ sources:
   - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
   - scim4224560223-scim4224560223
   - scim1705222315-scim1705222315
+  - master-your-sleep-be-more-alert-when-awake-scim6660090579
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -65,13 +66,14 @@ The preceding office-hours episode separately reports magnesium threonate use 30
 - Personal regimen boundary - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] reports intermittent glycine, GABA, and myo-inositol use for sleep or nighttime waking without supplying controlled comparative evidence.
 - Early hormone and next-day-effect cautions - [[scim4224560223-scim4224560223]] places behavior before supplements and raises source-scoped melatonin, apigenin, theanine, serotonin-precursor, and tyrosine concerns.
 - Early individual-response account - [[scim1705222315-scim1705222315]] discusses magnesium threonate, apigenin, passionflower, tryptophan, and 5-HTP while reporting first-person sleep fragmentation after serotonin precursors.
+- Earliest behavior-first and hormone-caution account - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] places light, schedule, activity, nutrition, and sleep environment before magnesium threonate, theanine, apigenin, or melatonin and keeps hormone and label-accuracy concerns as reasons for caution rather than efficacy evidence.
 
 ## Counterevidence & Qualifications
 The sources do not determine whether any person should use, taper, or avoid a supplement, hormone, serotonin precursor, or prescription sleep medication. They do not establish comparative efficacy for valerian, glycine, phosphatidylserine, GABA, theanine, myo-inositol, magnesium forms, or deficiency testing; quantify reproductive or anti-estrogenic effects; certify product quality; validate doses, label-variance estimates, or long-term dependence claims; or replace clinical care for insomnia, pediatric sleep, pregnancy, psychiatric illness, breathing disorders, drug interactions, or persistent impairment.
 
 ## What Changed
-- Added office-hours provenance for magnesium timing, passionflower, and an adverse first-person serotonin-precursor response.
-- Kept GABA, chloride-channel, timing, and sleep-fragmentation explanations source-scoped rather than comparative treatment evidence.
+- Extended provenance to the earliest behavior-first discussion of magnesium threonate, theanine, apigenin, and melatonin.
+- Kept reproductive-hormone, anti-estrogenic, label-accuracy, dream, and next-day-effect claims source-scoped rather than comparative treatment evidence.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent timing toolkit that places supplements after behavior and nutrition.

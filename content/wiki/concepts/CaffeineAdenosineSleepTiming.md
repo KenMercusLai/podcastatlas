@@ -12,6 +12,7 @@ sources:
   - using-caffeine-to-optimize-mental-physical-performance-scim1210768101
   - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
   - optimize-your-learning-creativity-with-science-based-tools-scim9141486324
+  - master-your-sleep-be-more-alert-when-awake-scim6660090579
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -66,14 +67,14 @@ The earlier [[optimize-your-learning-creativity-with-science-based-tools-scim914
 - Dose, adaptation, and early-training exception - [[using-caffeine-to-optimize-mental-physical-performance-scim1210768101]] connects adenosine blockade and crashes to a source-suggested dose range, morning delay, bedtime-relative cutoff, tolerance, and a conditional early-exercise tradeoff.
 - Earlier practical cutoff - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] suggests keeping intake very low after 4 p.m. and says 2-3 p.m. may be a better stopping point for many people.
 - Early personal-routine provenance - [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] describes delaying black coffee or mate for about two hours after waking while hydrating first.
+- Earliest blockade-and-crash account - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] presents caffeine as an adenosine antagonist, explains a possible crash when blockade recedes, and emphasizes individual sensitivity rather than one universal timing rule.
 
 ## Counterevidence & Qualifications
 The sources do not settle a universal caffeine dose, cutoff time, genetic metabolizer adjustment, pregnancy guideline, anxiety boundary, cardiovascular boundary, medication interaction, withdrawal protocol, or whether a caffeine nap improves meaningful outcomes for a given person. The early episode's cortisol-and-crash explanation, the reported 15-20% deep-sleep reduction, CYP1A2 explanation, one-to-three-milligram-per-kilogram range, abstinence schedules, and hydration or electrolyte advice lack enough context here for individualized use. People with sleep disorders, panic symptoms, heart conditions, pregnancy, medication interactions, or occupational demands need qualified guidance. Coffee's observational health associations do not prove that caffeine itself supplies the benefit.
 
 ## What Changed
-- Added early personal-routine provenance for a roughly two-hour morning delay and hydration first.
-- Preserved the delay and all cutoff times as heuristics rather than universal rules.
-- Kept the early cortisol-and-crash mechanism source-scoped beneath later blockade and sensitivity accounts.
+- Extended provenance to the earliest episode's blockade, rebound-crash, and individual-sensitivity account.
+- Preserved all delay and cutoff times as heuristics rather than universal rules.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent timing toolkit where caffeine is one cue.

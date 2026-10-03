@@ -3689,6 +3689,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Focus to Change Your Brain](sources/scim3840916606-scim3840916606.md) — Early Huberman Lab episode on attention-gated adult neuroplasticity, alertness, sensory selection, bounded focus bouts, sleep, and deep-rest consolidation.
 - [How to Defeat Jet Lag, Shift Work & Sleeplessness](sources/scim4224560223-scim4224560223.md) — Early Huberman Lab episode on phase-aware light and temperature timing, travel, shift work, lifespan sleep, de-arousal, supplements, and the limits of adult sleep compression.
 - [Using Science to Optimize Sleep, Learning & Metabolism](sources/scim1705222315-scim1705222315.md) — Early Huberman Lab office-hours episode on timing-dependent light, exercise, learning, rest, supplements, temperature, cold exposure, meals, and one-variable self-tracking.
+- [Master Your Sleep & Be More Alert When Awake](sources/master-your-sleep-be-more-alert-when-awake-scim6660090579.md) — Early Huberman Lab episode on two-process sleep regulation, circadian light anchors, caffeine, naps, NSDR, and behavior-first supplement boundaries.
 - [15. Walls and Borders](sources/15-walls-and-borders-glt1636005045.md) — The Rest Is History on walls and borders as purpose-specific infrastructure, political symbols, institutional systems, and incomplete answers to deeper conflict.
 
 ## Entities
