@@ -1,23 +1,48 @@
 ---
 title: "Arizona"
 type: entity
-tags: [place, state, public-finance, crypto]
-sources: [tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128, tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128]
-last_updated: 2026-08-05
+tags: [place, state, housing, public-finance, technology]
+sources:
+  - tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128
+  - tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128
+  - ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm
+last_updated: 2026-10-04
+knowledge_schema: synthesis-v1
 ---
 
 # Arizona
 
-[[tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128]] adds Arizona as a lighter-touch autonomous-vehicle testing and deployment hub compared with [[California]]. [[KirstenKorosek]] also contrasts public response by saying complaints appear less common in Phoenix than in San Francisco, making Arizona part of the [[RobotaxiLocalAcceptance]] branch.
+## Overview
 
-Arizona appears in [[tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128]] as a U.S. state with a digital-asset reserve law that [[LizFarmer]] describes differently from a direct state investment bet. The episode frames Arizona's model around [[SeizedDigitalAssetCustody]]: the state can hold seized digital assets instead of immediately converting them to cash.
+Arizona is a U.S. state represented in the wiki through three narrow windows: Phoenix-area new-build homeownership, comparatively permissive autonomous-vehicle deployment, and state custody of seized digital assets.
 
-The Arizona example matters because it makes crypto custody a property-rights and asset-preservation issue as well as an investment issue. If a person later has a valid claim to seized or unclaimed digital assets, forced conversion to cash could prevent them from receiving later gains from the original asset.
+## Current Profile
 
-## Connections
-- [[LizFarmer]] and [[PewCharitableTrusts]] - source explanation.
-- [[SeizedDigitalAssetCustody]] - core legal and custody frame.
-- [[StateCryptoReserves]] - broader reserve-law context.
-- [[Bitcoin]], [[CryptocurrencyMarketStructure]], and [[VirtualAssetAMLRisk]] - digital-asset context.
-- [[Texas]] and [[NewHampshire]] - other state examples named in the episode.
-- [[KirstenKorosek]], [[Waymo]], [[AutonomousVehicleRegulatoryPatchwork]], and [[RobotaxiLocalAcceptance]] - robotaxi regulatory and public-response context added by Marketplace Tech.
+The sources do not supply a general state profile. [[ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm|EP160]] uses the Phoenix area to show land- and builder-led housing production under zoning, inspection, school, tax, desert-climate, and household-finance constraints. [[tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128]] presents Arizona as a lighter-touch robotaxi testing and deployment environment than California. [[tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128]] presents its digital-asset law as custody of seized or unclaimed property rather than a straightforward taxpayer-funded crypto bet.
+
+## Key Characteristics
+- Phoenix-area planned-community housing case where zoning, staged inspection, school access, property tax, heat, solar, and landscaping intersect.
+- Lighter-touch autonomous-vehicle regulatory and deployment setting in the source's California-Arizona comparison.
+- Digital-asset custody jurisdiction preserving some seized assets in kind rather than automatically converting them to cash.
+
+## Evidence
+- Housing and climate: [[ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm|EP160]] describes a Phoenix-area builder community, city inspections, school tradeoffs, solar economics, and low-water desert landscaping.
+- Robotaxi regulation: [[tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128]] contrasts Arizona's lighter-touch environment and Phoenix reception with California and San Francisco.
+- Digital-asset custody: [[tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128]] says Arizona can retain seized digital assets so a later valid claimant is not limited to the cash value at forced conversion.
+
+## Qualifications
+
+Each source covers a different, narrow subject. EP160 is one homeowner's February 2021 experience and does not establish statewide housing, school, tax, solar, or construction conditions. The robotaxi source is a late-2025 industry recap, and the crypto source is an April 2026 policy discussion that does not demonstrate reserve performance under fiscal stress.
+
+## What Changed
+- Added the Phoenix-area housing, construction, school, energy, and desert-landscaping context.
+- Reorganized the existing robotaxi and crypto material into the synthesis-first entity contract.
+
+## Relationships
+- [[RickyPhoenixHomeowner|Ricky]] - homeowner grounding the Phoenix-area case.
+- [[PlannedCommunityNewBuild]] - housing-production model illustrated in the state.
+- [[RobotaxiLocalAcceptance]] - public-response issue compared across Phoenix and San Francisco.
+- [[AutonomousVehicleRegulatoryPatchwork]] - state-by-state regulatory frame in which Arizona appears lighter-touch.
+- [[SeizedDigitalAssetCustody]] - legal-custody model associated with Arizona's crypto law.
+- [[California]] - stricter regulatory comparison in the robotaxi source.
+- [[Texas]] and [[NewHampshire]] - other state digital-asset-law examples.

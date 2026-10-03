@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 12240
+wiki_total_pages: 12241
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "Ricky"
     title: "Ricky"
     url: "/wiki/entities/ricky/"
+  - key: "RickyPhoenixHomeowner"
+    title: "Ricky (Phoenix Homeowner)"
+    url: "/wiki/entities/rickyphoenixhomeowner/"
   - key: "RickyAlam"
     title: "Ricky Alam"
     url: "/wiki/entities/rickyalam/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9553
+wiki_total_pages: 9555
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "PlanetarySelfAwareness"
     title: "Planetary Self-Awareness"
     url: "/wiki/concepts/planetaryselfawareness/"
+  - key: "PlannedCommunityNewBuild"
+    title: "Planned-Community New Build"
+    url: "/wiki/concepts/plannedcommunitynewbuild/"
   - key: "PlanogramGatekeeping"
     title: "Planogram Gatekeeping"
     url: "/wiki/concepts/planogramgatekeeping/"

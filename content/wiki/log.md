@@ -28924,3 +28924,11 @@ Added source `25-empires-glt2896270746`; created [[EmpireAsPoliticalOrder]] and 
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | EP160-我在美国自己建房子，美国也有学区房？
+
+Added source `ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm`; created [[RickyPhoenixHomeowner]], [[PlannedCommunityNewBuild]], and [[HomeownershipAsOngoingProject]]; and resynthesized [[Arizona]] and [[MortgageApproval]] from their complete preserved evidence inventories. Core synthesis: a planned-community new build offers bounded choice inside builder, zoning, inspection, appraisal, and closing systems, while ownership after handover becomes a continuing queue of maintenance, improvement, cost, learning, and attachment. No settled contradiction was adopted. The title's “自己建房子” is qualified as builder-led rather than fully custom construction, and prices, rates, school rules, subsidies, appreciation, labor quotes, and payback periods remain source-scoped February 2021 observations. The existing finance commentator [[Ricky]] was kept distinct through a semantic suffix, and the recurring show profile was not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,615-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

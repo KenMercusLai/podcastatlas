@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP160-我在美国自己建房子，美国也有学区房？](sources/ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm.md) — 无时差研究所 with a Phoenix-area homeowner on builder-bounded new construction, mortgage closing, schools, upgrades, DIY, smart-home infrastructure, solar, and post-handover work.
 - [25. Empires](sources/25-empires-glt2896270746.md) — The Rest Is History on empire as coercive political order, legitimacy, integration, anti-imperial inheritance, nation-states, and the persistence of imperial forms.
 - [26. Witches](sources/26-witches-glt8850594772.md) — The Rest Is History with Susannah Lipscomb on diabolic witchcraft, Reformation anxiety, local grievance, gender, evidence, and the persistence of witch-hunt patterns.
 - [EP161-三周年特别节目：“做客”无时差，这次换我们被采访](sources/ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf.md) — 无时差研究所 retrospective on open-topic podcasting, interview preparation, co-host accountability, monetization boundaries, listener criticism, and multi-platform distribution.
@@ -3676,6 +3677,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Optimize Your Learning & Creativity With Science-Based Tools](sources/optimize-your-learning-creativity-with-science-based-tools-scim9141486324.md) — Early Huberman Lab episode on goal-directed plasticity, state-matched learning and creativity, circadian routine design, deep rest, and evidence boundaries.
 
 ## Entities
+- [Ricky (Phoenix Homeowner)](entities/RickyPhoenixHomeowner.md) — Phoenix-area new-build buyer whose account connects family-supported financing, builder choices, DIY work, smart-home infrastructure, and long-term owner responsibility.
 - [Susannah Lipscomb](entities/SusannahLipscomb.md) — Early-modern historian whose witchcraft account joins demonology, legal procedure, gender, social stress, and evidentiary change.
 - [Tutankhamun](entities/Tutankhamun.md) — Boy pharaoh whose sparse reign contrasts with the exceptional archaeological and media afterlife of his tomb.
 - [Akhenaten](entities/Akhenaten.md) — Eighteenth Dynasty pharaoh whose Aten-centered religious and cultural rupture was radical but institutionally fragile.
@@ -15963,6 +15965,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Planned-Community New Build](concepts/PlannedCommunityNewBuild.md) — Builder-led housing model combining standardized production with bounded buyer choices, inspections, upgrade pricing, appraisal, and closing.
+- [Homeownership as Ongoing Project](concepts/HomeownershipAsOngoingProject.md) — Post-closing cycle of maintenance, improvement, learning, coordination, owner labor, continuing cost, and place attachment.
 - [Empire as Political Order](concepts/EmpireAsPoliticalOrder.md) — Framework joining center-periphery command, coercion, administration, infrastructure, legitimacy, identity, and careful institutional comparison.
 - [Anti-Imperial Traditions Within Empire](concepts/AntiImperialTraditionsWithinEmpire.md) — Entangled genealogy of biblical, classical, and colonial inheritances appropriated for resistance without erasing colonized agency.
 - [Early Modern Witchcraft Prosecution](concepts/EarlyModernWitchcraftProsecution.md) — Interaction of diabolic theology, criminal law, confessional anxiety, social stress, gender, local accusation, and evidentiary change.

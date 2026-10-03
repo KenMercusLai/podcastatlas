@@ -15872,6 +15872,36 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/aristotle/"
     },
+    "Arizona": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20251229_1229_MP_TECH_pod_128 [tech_20251229_1229_MP_TECH_pod_128].md",
+          "key": "tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Robotaxis moved into the fast lane in 2025",
+          "url": "/wiki/sources/tech-20251229-1229-mp-tech-pod-128-tech-20251229-1229-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260414_0414_MP_TECH_pod_128 [tech_20260414_0414_MP_TECH_pod_128].md",
+          "key": "tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "States are getting crypto-curious",
+          "url": "/wiki/sources/tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "CKwRIUEECXq5ABAAAACKi6jm [CKwRIUEECXq5ABAAAACKi6jm].md",
+          "key": "ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm",
+          "show": "无时差研究所",
+          "title": "EP160-我在美国自己建房子，美国也有学区房？",
+          "url": "/wiki/sources/ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/arizona/"
+    },
     "ArkOfTheCovenant": {
       "episode_count": 1,
       "show_count": 1,
@@ -96800,6 +96830,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/homeostaticneuralplasticity/"
     },
+    "HomeownershipAsOngoingProject": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIUEECXq5ABAAAACKi6jm [CKwRIUEECXq5ABAAAACKi6jm].md",
+          "key": "ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm",
+          "show": "无时差研究所",
+          "title": "EP160-我在美国自己建房子，美国也有学区房？",
+          "url": "/wiki/sources/ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/homeownershipasongoingproject/"
+    },
     "HomerLexFridmanDog": {
       "episode_count": 1,
       "show_count": 1,
@@ -144452,6 +144498,36 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/mortalitytransition/"
     },
+    "MortgageApproval": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "131.我在日本买了一套自住房 [lloFkgAJ-hyAJksrPkoYLAKuoCXz].md",
+          "key": "131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz",
+          "show": "起朱楼宴宾客",
+          "title": "131.我在日本买了一套自住房",
+          "url": "/wiki/sources/131-wo-zai-riben-mai-le-yi-tao-zizhu-fang-llofkgaj-hyajksrpkoylakuocxz/"
+        },
+        {
+          "episode_file": "EP24 房贷车贷消费贷，贷贷为奴，代代还 [lswnAA7X8BiKu9ouyV-_C1DKF439].md",
+          "key": "ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439",
+          "show": "一劳永逸",
+          "title": "EP24 房贷车贷消费贷，贷贷为奴，代代还",
+          "url": "/wiki/sources/ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439/"
+        },
+        {
+          "episode_file": "CKwRIUEECXq5ABAAAACKi6jm [CKwRIUEECXq5ABAAAACKi6jm].md",
+          "key": "ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm",
+          "show": "无时差研究所",
+          "title": "EP160-我在美国自己建房子，美国也有学区房？",
+          "url": "/wiki/sources/ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/mortgageapproval/"
+    },
     "MoscowUprising1682": {
       "episode_count": 1,
       "show_count": 1,
@@ -161835,6 +161911,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/planetlabs/"
     },
+    "PlannedCommunityNewBuild": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIUEECXq5ABAAAACKi6jm [CKwRIUEECXq5ABAAAACKi6jm].md",
+          "key": "ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm",
+          "show": "无时差研究所",
+          "title": "EP160-我在美国自己建房子，美国也有学区房？",
+          "url": "/wiki/sources/ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/plannedcommunitynewbuild/"
+    },
     "PlantVarietyIntellectualProperty": {
       "episode_count": 1,
       "show_count": 1,
@@ -177223,6 +177315,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/rickschultz/"
+    },
+    "RickyPhoenixHomeowner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIUEECXq5ABAAAACKi6jm [CKwRIUEECXq5ABAAAACKi6jm].md",
+          "key": "ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm",
+          "show": "无时差研究所",
+          "title": "EP160-我在美国自己建房子，美国也有学区房？",
+          "url": "/wiki/sources/ep160-wo-zai-meiguo-ziji-jian-fangzi-meiguo-ye-you-xuequ-fang-ckwriueecxq5abaaaacki6jm/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/rickyphoenixhomeowner/"
     },
     "RideHailingSafetyOperations": {
       "episode_count": 1,

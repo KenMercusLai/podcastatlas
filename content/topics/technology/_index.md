@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3284
+topic_total_pages: 3285
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4871,6 +4871,9 @@ topic_entities:
   - key: "ArgoFloats"
     title: "Argo floats"
     url: "/wiki/entities/argofloats/"
+  - key: "Arizona"
+    title: "Arizona"
+    url: "/wiki/entities/arizona/"
   - key: "ArthurResidencyFounder"
     title: "Arthur (The Residency founder)"
     url: "/wiki/entities/arthurresidencyfounder/"
