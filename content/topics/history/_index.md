@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2521
+topic_total_pages: 2522
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5241,6 +5241,9 @@ topic_sources:
   - key: "189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202"
     title: "189. Australian Prime Ministers: Bob Hawke - Scott Morrison (Part 3)"
     url: "/wiki/sources/189-australian-prime-ministers-bob-hawke-scott-morrison-part-3-glt2222829202/"
+  - key: "19-king-arthur-glt1076701162"
+    title: "19. King Arthur"
+    url: "/wiki/sources/19-king-arthur-glt1076701162/"
   - key: "190-jubilees-glt4093596173"
     title: "190. Jubilees"
     url: "/wiki/sources/190-jubilees-glt4093596173/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9563
+wiki_total_pages: 9565
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2393,6 +2393,12 @@ wiki_pages:
   - key: "ArtReproductionAndCirculation"
     title: "Art Reproduction and Circulation"
     url: "/wiki/concepts/artreproductionandcirculation/"
+  - key: "ArthurianLegendAccretion"
+    title: "Arthurian Legend Accretion"
+    url: "/wiki/concepts/arthurianlegendaccretion/"
+  - key: "ArthurianPoliticalLegitimation"
+    title: "Arthurian Political Legitimation"
+    url: "/wiki/concepts/arthurianpoliticallegitimation/"
   - key: "ArtificialCognition"
     title: "Artificial Cognition"
     url: "/wiki/concepts/artificialcognition/"

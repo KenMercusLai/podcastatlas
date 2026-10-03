@@ -2080,6 +2080,13 @@
       "url": "/topics/history/"
     }
   ],
+  "19-king-arthur-glt1076701162": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "190-jubilees-glt4093596173": [
     {
       "key": "history",
@@ -37147,6 +37154,13 @@
     }
   ],
   "GeoffreyChaucer": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "GeoffreyOfMonmouth": [
     {
       "key": "culture",
       "label": "Culture",

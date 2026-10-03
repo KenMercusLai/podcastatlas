@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [19. King Arthur](sources/19-king-arthur-glt1076701162.md) — The Rest Is History on Arthur's uncertain historicity, medieval legend formation, political reuse, sacred objects, mythic landscapes, and modern afterlives.
 - [20. China](sources/20-china-glt4329327216.md) — The Rest Is History with Michael Wood on Chinese civilizational continuity, unity, imperial expansion, foreign coercion, revolution, historical memory, and modernization.
 - [21. The History of the Future](sources/21-the-history-of-the-future-glt7103118075.md) — The Rest Is History on prophecy, apocalypse, technological futurism, dystopia, and future visions as mirrors of present anxiety.
 - [22. Weird Wars](sources/22-weird-wars-glt2360848948.md) — The Rest Is History countdown on ten unfamiliar conflicts, memorable oddity, historical distance, political myth, and the ethics of keeping suffering visible.
@@ -15976,6 +15977,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Puy du Fou](entities/PuyDuFou.md) — French historical theme park illustrating spectacular, selective, and ideologically situated public history.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
+- [King Arthur](entities/KingArthur.md) — Historically uncertain British hero transformed into a medieval universal king, political symbol, and durable figure of romance and return.
+- [Geoffrey of Monmouth](entities/GeoffreyOfMonmouth.md) — Twelfth-century writer whose synthetic British history decisively shaped Arthur and Merlin's medieval profiles.
+
 ## Concepts
 - [Chinese Civilizational Continuity](concepts/ChineseCivilizationalContinuity.md) — Qualified framework for unity, fragmentation, institutional inheritance, territorial change, revolution, and the political use of history in China.
 - [Future Visions as Present Anxiety](concepts/FutureVisionsAsPresentAnxiety.md) — Framework reading prophecy, futurism, models, and dystopia as evidence about the fears and assumptions of their own time.
@@ -25597,5 +25601,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ethics of Historical Entertainment](concepts/HistoricalEntertainmentEthics.md) — Case-specific boundary between engaging historical framing and the concealment or aestheticization of violence, victims, and oppression.
 - [Americanization](concepts/Americanization.md) — Process joining U.S. strategic power, markets, media, language, social categories, and moral frames with attraction, adaptation, and resentment abroad.
 - [Error-Gated Adult Neuroplasticity](concepts/ErrorGatedAdultNeuroplasticity.md) — Adult-learning model linking correctable mismatch, attention, reinforcement, bounded practice, and later consolidation.
+
+- [Arthurian Legend Accretion](concepts/ArthurianLegendAccretion.md) — Layered formation of the Arthurian cycle from disputed early evidence through pseudo-history, romance, landscape, and modern retelling.
+- [Arthurian Political Legitimation](concepts/ArthurianPoliticalLegitimation.md) — Selective use of Arthurian prophecy, conquest, relics, and place to authorize restoration, monarchy, institutional prestige, and empire.
 
 ## Syntheses

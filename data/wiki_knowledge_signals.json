@@ -16345,6 +16345,38 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/arthursmithwoodward/"
     },
+    "ArthurianLegendAccretion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1076701162 [GLT1076701162].md",
+          "key": "19-king-arthur-glt1076701162",
+          "show": "The Rest Is History",
+          "title": "19. King Arthur",
+          "url": "/wiki/sources/19-king-arthur-glt1076701162/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/arthurianlegendaccretion/"
+    },
+    "ArthurianPoliticalLegitimation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1076701162 [GLT1076701162].md",
+          "key": "19-king-arthur-glt1076701162",
+          "show": "The Rest Is History",
+          "title": "19. King Arthur",
+          "url": "/wiki/sources/19-king-arthur-glt1076701162/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/arthurianpoliticallegitimation/"
+    },
     "ArticlesOfConfederation": {
       "episode_count": 1,
       "show_count": 1,
@@ -83482,6 +83514,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/geoffreyjacksondiplomat/"
     },
+    "GeoffreyOfMonmouth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1076701162 [GLT1076701162].md",
+          "key": "19-king-arthur-glt1076701162",
+          "show": "The Rest Is History",
+          "title": "19. King Arthur",
+          "url": "/wiki/sources/19-king-arthur-glt1076701162/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/geoffreyofmonmouth/"
+    },
     "GeometricUnity": {
       "episode_count": 1,
       "show_count": 1,
@@ -96859,9 +96907,9 @@
       "url": "/wiki/entities/holycrownofhungary/"
     },
     "HolyGrail": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9518077570 [GLT9518077570].md",
@@ -96869,9 +96917,16 @@
           "show": "The Rest Is History",
           "title": "346: The Mystery of the Holy Grail (Part 2)",
           "url": "/wiki/sources/346-the-mystery-of-the-holy-grail-part-2-glt9518077570/"
+        },
+        {
+          "episode_file": "GLT1076701162 [GLT1076701162].md",
+          "key": "19-king-arthur-glt1076701162",
+          "show": "The Rest Is History",
+          "title": "19. King Arthur",
+          "url": "/wiki/sources/19-king-arthur-glt1076701162/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/holygrail/"
     },
     "HolyRomanEmpire": {
@@ -117369,6 +117424,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/kinderhymne/"
+    },
+    "KingArthur": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1076701162 [GLT1076701162].md",
+          "key": "19-king-arthur-glt1076701162",
+          "show": "The Rest Is History",
+          "title": "19. King Arthur",
+          "url": "/wiki/sources/19-king-arthur-glt1076701162/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/kingarthur/"
     },
     "KingFaisal": {
       "episode_count": 1,
@@ -140130,9 +140201,9 @@
       "url": "/wiki/concepts/meritocraticarrogance/"
     },
     "Merlin": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5141910845 [GLT5141910845].md",
@@ -140147,9 +140218,16 @@
           "show": "The Rest Is History",
           "title": "114. Stonehenge, ancient ritual and the origins of paganism",
           "url": "/wiki/sources/114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137/"
+        },
+        {
+          "episode_file": "GLT1076701162 [GLT1076701162].md",
+          "key": "19-king-arthur-glt1076701162",
+          "show": "The Rest Is History",
+          "title": "19. King Arthur",
+          "url": "/wiki/sources/19-king-arthur-glt1076701162/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/merlin/"
     },
     "MessageRelayPoliticalPower": {

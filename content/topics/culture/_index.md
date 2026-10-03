@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3092
+topic_total_pages: 3093
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4277,6 +4277,9 @@ topic_entities:
   - key: "GeoffreyChaucer"
     title: "Geoffrey Chaucer"
     url: "/wiki/entities/geoffreychaucer/"
+  - key: "GeoffreyOfMonmouth"
+    title: "Geoffrey of Monmouth"
+    url: "/wiki/entities/geoffreyofmonmouth/"
   - key: "GeorgeHalas"
     title: "George Halas"
     url: "/wiki/entities/georgehalas/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12245
+wiki_total_pages: 12247
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "GeoffreyJacksonDiplomat"
     title: "Geoffrey Jackson"
     url: "/wiki/entities/geoffreyjacksondiplomat/"
+  - key: "GeoffreyOfMonmouth"
+    title: "Geoffrey of Monmouth"
+    url: "/wiki/entities/geoffreyofmonmouth/"
   - key: "GeoffreyWinthropYoung"
     title: "Geoffrey Winthrop Young"
     url: "/wiki/entities/geoffreywinthropyoung/"
