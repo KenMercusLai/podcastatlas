@@ -9,8 +9,9 @@ sources:
   - essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634
   - how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173
   - erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962
+  - scim8789190900-scim8789190900
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-02
+last_updated: 2026-10-04
 ---
 
 # Autonomic Stress Training
@@ -28,6 +29,8 @@ The Epel episode adds a stress-biology version. Controlled activation can be use
 The cortisol-and-adrenaline Essentials episode sharpens the training target: a cold shower, cyclic breathing, or intense exercise is not valuable merely because it is uncomfortable. The proposed skill is to let the body become alert while using calm exhalation and mental steadiness, then to end the activation rather than extend it into chronic stress.
 
 The fear-and-trauma episode adds a deliberately narrow animal finding: five-minute daily stress bouts reportedly reversed some chronic-stress-related behavior and glucocorticoid changes in mice, while 15-minute bouts worsened outcomes. Huberman uses this to motivate questions about brief self-directed arousal in humans, including cyclic hyperventilation, but explicitly warns about panic and anxiety vulnerability. The source therefore strengthens the dose and agency boundary without establishing a human trauma treatment.
+
+The earlier stress episode makes the proposed skill explicit: enter a safe heightened body state, then widen visual attention or otherwise maintain cognitive steadiness before deliberately recovering. This separates stress tolerance from mere exposure intensity. Cold, hard exercise, and activating breathwork are examples, not interchangeable or universally safe protocols.
 
 ## Key Claims
 - Deliberate physiological stress can make autonomic arousal more observable, but the training target is controllable activation plus deactivation rather than maximal hormone release.
@@ -49,14 +52,15 @@ The fear-and-trauma episode adds a deliberately narrow animal finding: five-minu
 - Timing counterexample - [[how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173]] reports that a long pre-jiu-jitsu cold plunge left Willink tight and feeling bad, qualifying simple cold-before-performance advice.
 - Recovery supports - [[how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173]] places hard training alongside sleep, play, social connection, hydration, and context rather than treating stress exposure as self-sufficient.
 - Brief-stress dose boundary - [[erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962]] reports that five-minute stress bouts improved selected mouse outcomes while longer bouts worsened them, then cautions against translating stimulating breathwork into unsupervised treatment for panic- or anxiety-prone people.
+- Early stress-threshold framing - [[scim8789190900-scim8789190900]] defines the target as retaining cognitive control while bodily arousal remains elevated and proposes panoramic vision as one calming attention tool during activation.
 
 ## Counterevidence & Qualifications
-The Adolphs source explicitly calls the ice-bath case an experiment of one, the Willink notes are lived training and leadership accounts, and the Epel source keeps high-arousal biomarker findings preliminary. The cortisol-and-adrenaline source adds mechanistic and immune claims without establishing broad infection prevention, while the fear-and-trauma result is a mouse study rather than a human clinical protocol. Together they do not establish safety, general transfer, trauma treatment, clinical benefit, or suitability for all people. The pre-jiu-jitsu counterexample shows why timing matters. Injury, illness, sleep debt, disordered exercise, pregnancy, cardiovascular risk, panic vulnerability, or unsafe training contexts can make deliberate stress counterproductive.
+The Adolphs source explicitly calls the ice-bath case an experiment of one, the Willink notes are lived training and leadership accounts, and the Epel source keeps high-arousal biomarker findings preliminary. The cortisol-and-adrenaline source adds mechanistic and immune claims without establishing broad infection prevention, while the fear-and-trauma result is a mouse study rather than a human clinical protocol. Together they do not establish safety, general transfer, trauma treatment, clinical benefit, or suitability for all people. The panoramic-vision proposal also lacks a comparative effect size in the supplied summary. The pre-jiu-jitsu counterexample shows why timing matters. Injury, illness, sleep debt, disordered exercise, pregnancy, cardiovascular risk, panic vulnerability, or unsafe training contexts can make deliberate stress counterproductive.
 
 ## What Changed
-- Added the short-versus-long mouse-stress finding as evidence that dose may reverse direction.
-- Made the animal-to-human gap and panic-vulnerability warning explicit.
-- Clarified that voluntary entry into arousal is a proposed training variable, not proof of trauma efficacy.
+- Added the early stress-threshold formulation: cognitive steadiness during elevated bodily arousal followed by recovery.
+- Added panoramic attention as a proposed in-state tool while preserving the missing effect-size evidence.
+- Clarified that voluntary activation is not equivalent to maximizing discomfort or proving transfer.
 
 ## Related Concepts
 - [[EmotionRegulationToolkit]] - broader practical toolkit that may include embodied tools.

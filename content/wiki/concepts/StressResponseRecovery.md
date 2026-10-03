@@ -7,7 +7,8 @@ sources:
   - essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634
   - defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490
   - scim5791514102-scim5791514102
-last_updated: 2026-10-03
+  - scim8789190900-scim8789190900
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,12 +24,14 @@ The practical synthesis is plural. [[ElissaEpel]] groups stress tools into top-d
 
 The cortisol-and-adrenaline Essentials episode makes duration and switchability more concrete. Morning light is used to place cortisol early, deliberate stressors can raise daytime arousal, and the training goal is to remain mentally regulated while the body is activated and then return toward baseline. Its exact immune windows and hormone thresholds remain source-scoped, but it strengthens recovery—not suppression—as the central criterion.
 
+The earlier stress episode supplies the practical timescale frame beneath that conclusion. It separates stressors from the generic mobilization response, treats acute activation as potentially useful, and uses persistent activation plus disrupted sleep as warning signs that stress is no longer resolving. Real-time breathing, bounded stress practice, panoramic visual attention, and trusted social connection are presented as different routes because the useful intervention changes with timescale.
+
 A lived creative-career case shows that subjective and physiological recovery can diverge. [[AdahSharma]] describes recovering quickly from rejection and pressure while also reporting increased heart rate, acne, and hives. Exercise and yoga help her regulate, but she does not claim anxiety disappears. This supports treating body signals as part of recovery assessment rather than inferring regulation from continued performance alone.
 
 ## Key Claims
 - Stress is defined in the source as perceived demands exceeding perceived resources.
 - Acute stress can mobilize attention, energy, and problem-solving when it resolves, while chronic or repeatedly reactivated stress becomes costly as rumination and vigilance keep physiology engaged.
-- Recovery depends on matching the intervention to the stress form, not relying on one universal tool.
+- Recovery depends on matching immediate down-regulation, medium-term tolerance training, or long-term sleep and social support to the stress form rather than relying on one universal tool.
 - Top-down reframing, body-based regulation, and environmental cue changes are complementary stress routes.
 - Control, predictability, outlets, meaning, and social support can change the stress response to a similar demand, but their value depends on dose and context.
 - A practice is unlikely to help when it is intolerable or mismatched to the person, and durable stress management generally requires repeated dedicated practice rather than a universal branded method.
@@ -46,13 +49,16 @@ A lived creative-career case shows that subjective and physiological recovery ca
 - Hormone timing and deactivation - [[essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634]] connects morning light, brief deliberate activation, calm exhalation, and consistent schedules to turning stress physiology on and off.
 - Subjective-physical mismatch - [[defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490]] has Sharma describe fast emotional recovery alongside elevated heart rate, acne, and hives under pressure.
 - Movement-based regulation - [[defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490]] identifies exercise and yoga as helpful coping practices while explicitly preserving ongoing anxiety.
+- Timescale and sleep boundary - [[scim8789190900-scim8789190900]] separates acute, medium-term, and long-term stress and uses persistent activation and impaired sleep as practical warning signs of unrecovered load.
+- Tool matching - [[scim8789190900-scim8789190900]] assigns breathing to immediate regulation, bounded arousal to tolerance practice, and social connection plus ordinary health foundations to longer-term buffering.
 
 ## Counterevidence & Qualifications
-The sources are public education and personal testimony rather than individualized stress, medical, psychiatric, or workplace guidance. They do not claim stress can always be reframed, controlled, or exercised away. Control and prediction can backfire, forced-versus-voluntary exercise is an animal-model illustration, and no practice is established here as best for everyone. Sharma's symptoms are self-reported and not a diagnosis or causal proof. Exact acute-stress immune windows, chronic-stress thresholds, fasting effects, and supplement claims are not universal cutoffs, and chronic caregiving or other non-negotiable stressors may require acceptance and support more than activation practices.
+The sources are public education and personal testimony rather than individualized stress, medical, psychiatric, or workplace guidance. They do not claim stress can always be reframed, controlled, or exercised away. Control and prediction can backfire, forced-versus-voluntary exercise is an animal-model illustration, and no practice is established here as best for everyone. Sharma's symptoms are self-reported and not a diagnosis or causal proof. Exact acute-stress immune windows, chronic-stress thresholds, heart-rate-variability interpretations, panoramic-vision effects, fasting effects, and supplement claims are not universal cutoffs, and chronic caregiving or other non-negotiable stressors may require acceptance and support more than activation practices.
 
 ## What Changed
-- Added control, predictability, outlets, social support, and individual fit while making their backfire conditions explicit.
-- Strengthened the distinction between identical physical demand and different psychologically mediated stress outcomes.
+- Added the immediate, medium-term, and long-term tool-matching frame.
+- Added sleep disruption as a practical warning sign of unrecovered stress while avoiding a diagnostic cutoff.
+- Preserved panoramic vision, HRV, and supplement claims as source-scoped.
 
 ## Related Concepts
 - [[EmotionRegulationToolkit]] - broader toolkit for noticing and regulating emotion states.

@@ -5793,9 +5793,9 @@
       "url": "/wiki/concepts/acutesportsinjuryescalation/"
     },
     "AcuteStressImmunePriming": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1515778634 [SCIM1515778634].md",
@@ -5817,9 +5817,16 @@
           "show": "Huberman Lab",
           "title": "Boost Your Energy & Immune System with Cortisol & Adrenaline",
           "url": "/wiki/sources/scim5718648905-scim5718648905/"
+        },
+        {
+          "episode_file": "SCIM8789190900 [SCIM8789190900].md",
+          "key": "scim8789190900-scim8789190900",
+          "show": "Huberman Lab",
+          "title": "Master Stress: Tools for Managing Stress & Anxiety",
+          "url": "/wiki/sources/scim8789190900-scim8789190900/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/acutestressimmunepriming/"
     },
     "AcuteWoundBurnFirstAid": {
@@ -18689,9 +18696,9 @@
       "url": "/wiki/concepts/autonomicromanticcoordination/"
     },
     "AutonomicStressTraining": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -18734,9 +18741,16 @@
           "show": "Huberman Lab",
           "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
           "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
+        },
+        {
+          "episode_file": "SCIM8789190900 [SCIM8789190900].md",
+          "key": "scim8789190900-scim8789190900",
+          "show": "Huberman Lab",
+          "title": "Master Stress: Tools for Managing Stress & Anxiety",
+          "url": "/wiki/sources/scim8789190900-scim8789190900/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/autonomicstresstraining/"
     },
     "AutonomousDrivingDataFlywheel": {
@@ -25534,9 +25548,9 @@
       "url": "/wiki/entities/bradgerstner/"
     },
     "BrainBodyEmotionMapping": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -25593,6 +25607,13 @@
           "show": "Huberman Lab",
           "title": "How Foods & Nutrients Control Our Moods",
           "url": "/wiki/sources/how-foods-nutrients-control-our-moods-scim8271372367/"
+        },
+        {
+          "episode_file": "SCIM8789190900 [SCIM8789190900].md",
+          "key": "scim8789190900-scim8789190900",
+          "show": "Huberman Lab",
+          "title": "Master Stress: Tools for Managing Stress & Anxiety",
+          "url": "/wiki/sources/scim8789190900-scim8789190900/"
         }
       ],
       "updated": "2026-10-04",
@@ -160892,9 +160913,9 @@
       "url": "/wiki/concepts/physicsstagnationclaim/"
     },
     "PhysiologicalSigh": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM1991900083 [SCIM1991900083].md",
@@ -160937,9 +160958,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Your Brain-Body Function & Health",
           "url": "/wiki/sources/scim4317576130-scim4317576130/"
+        },
+        {
+          "episode_file": "SCIM8789190900 [SCIM8789190900].md",
+          "key": "scim8789190900-scim8789190900",
+          "show": "Huberman Lab",
+          "title": "Master Stress: Tools for Managing Stress & Anxiety",
+          "url": "/wiki/sources/scim8789190900-scim8789190900/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/physiologicalsigh/"
     },
     "PiTongEasternHan": {
@@ -184632,9 +184660,9 @@
       "url": "/wiki/concepts/seriousmentalillnessfamilycareboundary/"
     },
     "SerotoninSocialWellbeingTools": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -184656,9 +184684,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Gratitude & How to Build a Gratitude Practice",
           "url": "/wiki/sources/scim2344094719-scim2344094719/"
+        },
+        {
+          "episode_file": "SCIM8789190900 [SCIM8789190900].md",
+          "key": "scim8789190900-scim8789190900",
+          "show": "Huberman Lab",
+          "title": "Master Stress: Tools for Managing Stress & Anxiety",
+          "url": "/wiki/sources/scim8789190900-scim8789190900/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/serotoninsocialwellbeingtools/"
     },
     "ServiceDeliveryDemocraticTrust": {
@@ -190494,9 +190529,9 @@
       "url": "/wiki/concepts/socialimmersionlanguagelearning/"
     },
     "SocialIsolationTachykinin": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM8499505944 [SCIM8499505944].md",
@@ -190525,9 +190560,16 @@
           "show": "Huberman Lab",
           "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
           "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
+        },
+        {
+          "episode_file": "SCIM8789190900 [SCIM8789190900].md",
+          "key": "scim8789190900-scim8789190900",
+          "show": "Huberman Lab",
+          "title": "Master Stress: Tools for Managing Stress & Anxiety",
+          "url": "/wiki/sources/scim8789190900-scim8789190900/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/socialisolationtachykinin/"
     },
     "SocialJetlag": {
@@ -195933,9 +195975,9 @@
       "url": "/wiki/concepts/stresseatingrewardloop/"
     },
     "StressResponseRecovery": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -195964,9 +196006,16 @@
           "show": "Huberman Lab",
           "title": "Science of Stress, Testosterone & Free Will | Dr. Robert Sapolsky",
           "url": "/wiki/sources/scim5791514102-scim5791514102/"
+        },
+        {
+          "episode_file": "SCIM8789190900 [SCIM8789190900].md",
+          "key": "scim8789190900-scim8789190900",
+          "show": "Huberman Lab",
+          "title": "Master Stress: Tools for Managing Stress & Anxiety",
+          "url": "/wiki/sources/scim8789190900-scim8789190900/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/stressresponserecovery/"
     },
     "StressUrinaryIncontinence": {

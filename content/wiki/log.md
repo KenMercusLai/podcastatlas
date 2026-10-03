@@ -28852,3 +28852,11 @@ Added source `30-a-royal-row-glt5120507213`; created [[PrinceHarry]], [[MeghanMa
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | Master Stress: Tools for Managing Stress & Anxiety
+
+Added source `scim8789190900-scim8789190900`; resynthesized [[PhysiologicalSigh]], [[StressResponseRecovery]], [[AutonomicStressTraining]], [[AcuteStressImmunePriming]], [[BrainBodyEmotionMapping]], [[SerotoninSocialWellbeingTools]], and [[SocialIsolationTachykinin]] from their complete preserved evidence inventories. Core synthesis: stress is a generic mobilization system whose effects depend on timescale, context, switchability, and recovery; immediate breathing, bounded arousal practice, sleep, and trusted social connection address different parts of that problem. No settled contradiction was adopted. Panoramic-vision, heart-rate, serotonin, tachykinin, endotoxin, immune, melatonin, L-theanine, and ashwagandha claims remain source-scoped and clinically bounded. Recurring host and show profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,606-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

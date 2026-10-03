@@ -6,7 +6,8 @@ sources:
   - essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379
   - optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946
   - scim2344094719-scim2344094719
-last_updated: 2026-10-02
+  - scim8789190900-scim8789190900
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Serotonin social wellbeing tools are the episode's frame for supporting comfort,
 In [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946]] and its later condensed edit, [[essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379]], serotonin is presented as the neuromodulator branch most tied to soothing, contentment, satiety, and later-day relaxation. The practical tools are social and nutritional as much as supplemental: consensual physical contact, receiving gratitude, observing gratitude, tryptophan-containing foods, and myoinositol are discussed as possible levers. Both edits keep high serotonin, antidepressant treatment, appetite, libido, lethargy, and serotonergic syndrome inside explicit clinical and dose-related boundaries; their overlap is provenance rather than independent replication.
 
 The gratitude episode deepens one social branch without turning serotonin into a complete explanation. It distinguishes list-based appreciation from sincere received gratitude and emotionally resonant observation, then proposes [[GratitudeNarrativePractice]] as a brief repeated route into the state. Serotonin is one mechanism named alongside prefrontal, cingulate, autonomic, empathic, and inflammatory processes; the source does not isolate serotonin as the cause of the reported effects.
+
+The earlier stress episode supplies a broader long-term-buffering claim: trusted time with partners, family, friends, pets, and other sources of delight may help reduce chronic stress. It associates ordinary social connection with serotonin more than oxytocin, but does not provide enough comparative evidence to make that a universal transmitter assignment.
 
 ## Key Claims
 - Serotonin is associated with wellbeing, comfort, relaxation, satiety, soothing, and some pain relief.
@@ -36,14 +39,14 @@ The gratitude episode deepens one social branch without turning serotonin into a
 - Clinical boundary: [[essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379]] warns that excessive serotonin can connect to appetite, libido, lethargy, and serotonergic syndrome concerns.
 - Full-length provenance: [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946]] supplies the original social, nutritional, supplement, and prescription boundary later compressed by the Essentials edit.
 - Gratitude-practice branch: [[scim2344094719-scim2344094719]] distinguishes list-based appreciation from received or narratively witnessed gratitude and places serotonin within a broader prefrontal, cingulate, autonomic, empathic, and inflammatory account.
+- Long-term social buffering: [[scim8789190900-scim8789190900]] links trusted connection and delight to reduced chronic stress while presenting serotonin as a proposed mechanism rather than a complete explanation.
 
 ## Counterevidence & Qualifications
-The page is not a treatment guide for depression, sleep disorders, appetite problems, libido changes, serotonergic syndrome, or antidepressant use. The myoinositol sleep discussion is explicitly personal and experimental, and social-contact tools depend on consent, relationship context, culture, and safety. The gratitude source does not establish that serotonin mediates every benefit, and its 5-HTP, tryptophan, and kanna discussion is not a recommendation for unsupervised use.
+The page is not a treatment guide for depression, sleep disorders, appetite problems, libido changes, serotonergic syndrome, or antidepressant use. The myoinositol sleep discussion is explicitly personal and experimental, and social-contact tools depend on consent, relationship context, culture, and safety. The sources do not establish that serotonin mediates every benefit or that ordinary connection is generally more serotonergic than oxytocin-related. The gratitude source's 5-HTP, tryptophan, and kanna discussion is not a recommendation for unsupervised use.
 
 ## What Changed
-- Distinguished received or narratively witnessed gratitude from list-based appreciation.
-- Clarified that serotonin is one proposed mechanism inside a broader brain-body account.
-- Added explicit caution around 5-HTP, tryptophan, kanna, and causal overreach.
+- Added trusted social connection and delight as proposed long-term stress buffers.
+- Kept the serotonin-versus-oxytocin comparison source-scoped rather than universal.
 
 ## Related Concepts
 - [[NeuromodulatorStateToolkit]] - umbrella state-control model that contains this serotonin branch.

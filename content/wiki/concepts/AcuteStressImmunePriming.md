@@ -6,7 +6,8 @@ sources:
   - essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634
   - using-your-nervous-system-to-enhance-your-immune-system-scim4208180690
   - scim5718648905-scim5718648905
-last_updated: 2026-10-03
+  - scim8789190900-scim8789190900
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,6 +23,8 @@ Its strongest human example is a 2014 endotoxin challenge in which trained cycli
 
 The full 2021 cortisol-and-adrenaline episode supplies detailed underlying provenance for the later Essentials edit. It also discusses a proposed one-to-four-day protective window and adrenal-dependence in animal work, but those details remain source-scoped and the two edits are not independent demonstrations.
 
+The earlier stress episode adds separate chronological provenance for the same broad acute-versus-chronic distinction and for discussion of the human endotoxin challenge. It does not add an independent experiment: the repeated study should still be counted once.
+
 ## Key Claims
 - Brief sympathetic activation may temporarily mobilize immune activity rather than uniformly suppress it.
 - Duration and recovery distinguish proposed acute benefit from chronic immune cost.
@@ -35,14 +38,15 @@ The full 2021 cortisol-and-adrenaline episode supplies detailed underlying prove
 - Protocol and marker detail - [[using-your-nervous-system-to-enhance-your-immune-system-scim4208180690]] identifies cyclic hyperventilation plus breath retention, an epinephrine rise, increased IL-10, reduced TNF-alpha, IL-6, and IL-8, and fewer symptoms in the endotoxin setting.
 - Regulation emphasis - [[essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634]] makes the ability to activate and deactivate the stress response more important than any single cold, breathing, exercise, or caffeine protocol.
 - Full-episode provenance - [[scim5718648905-scim5718648905]] joins brief-stress animal work, the human endotoxin example, categorical breath-hold safety, and the distinction between inflammatory symptom modulation and ordinary infection outcomes.
+- Earlier stress provenance - [[scim8789190900-scim8789190900]] uses the endotoxin challenge to illustrate acute immune modulation while warning about breath holds near water and the need for medical clearance.
 
 ## Counterevidence & Qualifications
-The source notes do not provide sample size, effect sizes, replication record, or a complete adverse-event profile. The full episode and Essentials edit share editorial provenance rather than independently replicating the claims. Endotoxin exposure models inflammation without reproducing an ordinary infection, and lower symptoms do not necessarily mean stronger pathogen clearance. Hyperventilation with breath retention can cause loss of consciousness and must not be done near water, while driving, or in other fall-risk settings. Cold exposure, hyperventilation, intense exercise, caffeine, and fasting may be inappropriate with cardiovascular disease, panic vulnerability, pregnancy, medication interactions, illness, or inadequate recovery. The proposed one-to-four-day window remains source-scoped rather than a clinical cutoff.
+The source notes do not provide sample size, effect sizes, replication record, or a complete adverse-event profile. Repeated discussion across Huberman Lab episodes does not independently replicate the experiment. Endotoxin exposure models inflammation without reproducing an ordinary infection, and lower symptoms do not necessarily mean stronger pathogen clearance. Hyperventilation with breath retention can cause loss of consciousness and must not be done near water, while driving, or in other fall-risk settings. Cold exposure, hyperventilation, intense exercise, caffeine, and fasting may be inappropriate with cardiovascular disease, panic vulnerability, pregnancy, medication interactions, illness, or inadequate recovery. The proposed one-to-four-day window remains source-scoped rather than a clinical cutoff.
 
 ## What Changed
-- Added the original full cortisol-and-adrenaline episode as detailed provenance for the animal and human immune discussion.
-- Clarified that the full episode and later Essentials edit are not independent replication.
-- Kept the proposed immune window source-scoped while preserving categorical breath-hold safety and infection-outcome boundaries.
+- Added the earlier stress episode as chronological provenance for the endotoxin example.
+- Clarified that repeated discussion of the same study is not independent replication.
+- Preserved the infection-outcome and categorical breath-hold safety boundaries.
 
 ## Related Concepts
 - [[StressResponseRecovery]] - broader distinction between useful acute activation and costly unrecovered stress.
