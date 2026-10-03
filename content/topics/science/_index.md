@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1437
+topic_total_pages: 1438
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3690,6 +3690,9 @@ topic_sources:
   - key: "claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk"
     title: "Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness"
     url: "/wiki/sources/claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk/"
+  - key: "control-pain-heal-faster-with-your-brain-scim8085045324"
+    title: "Control Pain & Heal Faster With Your Brain"
+    url: "/wiki/sources/control-pain-heal-faster-with-your-brain-scim8085045324/"
   - key: "controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681"
     title: "Controlling Sugar Cravings & Metabolism with Science-Based Tools"
     url: "/wiki/sources/controlling-sugar-cravings-metabolism-with-science-based-tools-scim2411268681/"

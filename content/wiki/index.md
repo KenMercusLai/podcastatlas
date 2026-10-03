@@ -3668,6 +3668,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Optimize Testosterone & Estrogen](sources/how-to-optimize-testosterone-estrogen-scim7814508461.md) — Full-length Huberman Lab episode on sex-steroid feedback, aromatization, sleep and breathing, light, exercise, menopause, supplements, bloodwork, and clinical risk boundaries.
 - [41. Persia](sources/41-persia-glt6414068538.md) — The Rest Is History conversation with Ali Ansari on Iran/Persia continuity, pre-Islamic empires, Zoroastrian influence, paradise gardens, and Persianate administration.
 - [Master Stress: Tools for Managing Stress & Anxiety](sources/scim8789190900-scim8789190900.md) — Early Huberman Lab episode on acute, medium-term, and chronic stress, physiological sighs, bounded arousal training, social buffering, and safety limits.
+- [Control Pain & Heal Faster With Your Brain](sources/control-pain-heal-faster-with-your-brain-scim8085045324.md) — Early Huberman Lab episode on distributed pain, body-map plasticity, constraint-based rehabilitation, inflammation timing, sleep, movement, and regenerative-treatment evidence limits.
 
 ## Entities
 - [Prince Harry](entities/PrinceHarry.md) — Younger royal son whose public break with his family joins inherited rank, mental-health disclosure, and institutional media vulnerability.

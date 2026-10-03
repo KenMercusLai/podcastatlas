@@ -148071,9 +148071,9 @@
       "url": "/wiki/concepts/neuroplasticity/"
     },
     "NeurorestorativeStrokeRecovery": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3649091801 [SCIM3649091801].md",
@@ -148081,9 +148081,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg",
           "url": "/wiki/sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801/"
+        },
+        {
+          "episode_file": "SCIM8085045324 [SCIM8085045324].md",
+          "key": "control-pain-heal-faster-with-your-brain-scim8085045324",
+          "show": "Huberman Lab",
+          "title": "Control Pain & Heal Faster With Your Brain",
+          "url": "/wiki/sources/control-pain-heal-faster-with-your-brain-scim8085045324/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/neurorestorativestrokerecovery/"
     },
     "NeurosurgicalTreatmentSelection": {
@@ -155718,9 +155725,9 @@
       "url": "/wiki/concepts/paidservicetounpaidhouseworktransfer/"
     },
     "PainAsDistributedExperience": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1698075556 [SCIM1698075556].md",
@@ -155735,9 +155742,16 @@
           "show": "Huberman Lab",
           "title": "How to Control Your Sense of Pain & Pleasure",
           "url": "/wiki/sources/scim2452395341-scim2452395341/"
+        },
+        {
+          "episode_file": "SCIM8085045324 [SCIM8085045324].md",
+          "key": "control-pain-heal-faster-with-your-brain-scim8085045324",
+          "show": "Huberman Lab",
+          "title": "Control Pain & Heal Faster With Your Brain",
+          "url": "/wiki/sources/control-pain-heal-faster-with-your-brain-scim8085045324/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/painasdistributedexperience/"
     },
     "PainAwareTrainingContinuity": {
@@ -188893,9 +188907,9 @@
       "url": "/wiki/entities/siri/"
     },
     "SiteSpecificElectroacupunctureImmunePathway": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4208180690 [SCIM4208180690].md",
@@ -188903,9 +188917,16 @@
           "show": "Huberman Lab",
           "title": "Using Your Nervous System to Enhance Your Immune System",
           "url": "/wiki/sources/using-your-nervous-system-to-enhance-your-immune-system-scim4208180690/"
+        },
+        {
+          "episode_file": "SCIM8085045324 [SCIM8085045324].md",
+          "key": "control-pain-heal-faster-with-your-brain-scim8085045324",
+          "show": "Huberman Lab",
+          "title": "Control Pain & Heal Faster With Your Brain",
+          "url": "/wiki/sources/control-pain-heal-faster-with-your-brain-scim8085045324/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/sitespecificelectroacupunctureimmunepathway/"
     },
     "SittingBull": {
