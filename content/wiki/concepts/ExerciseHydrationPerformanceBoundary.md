@@ -7,7 +7,8 @@ sources:
   - how-to-optimize-your-water-quality-intake-for-health-scim6169879512
   - guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440
   - using-salt-to-optimize-mental-physical-performance-scim4397006205
-last_updated: 2026-10-02
+  - scim8024795061-scim8024795061
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The sodium episode explains why fluid volume alone is incomplete. Osmotic concen
 
 The formulas are best retained as starting estimates, not targets that override thirst, climate, exercise duration, sweat rate, body size, acclimation, food intake, or medical status. The same boundary applies to caffeine, sauna replacement, carbohydrate-electrolyte drinks, magnesium malate, and sodium suggestions: the episodes describe possible performance or recovery roles, but none establishes need, dose, safety, or superiority for an individual.
 
+The 2021 full endurance episode supplies the earlier provenance for the same Galpin equation, sweat-loss range, and reported performance decrement later retained in the Essentials edit. That editorial continuity increases traceability but does not provide an independent validation study.
+
 ## Key Claims
 - Fluid loss can become a performance bottleneck across endurance modes, especially with heat, intensity, duration, and heavy sweating.
 - Sodium, potassium, and magnesium support neural electrical signaling and are relevant when meaningful exercise losses occur.
@@ -45,14 +48,14 @@ The formulas are best retained as starting estimates, not targets that override 
 - Two-sided hydration risk: [[guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440]] links about 2% body-mass dehydration with reduced performance while warning that excessive water can contribute to hyponatremia.
 - Field adjustment: [[guest-series-dr-andy-galpin-optimal-nutrition-supplementation-for-fitness-scim1024405440]] proposes pre/post exercise weighing, roughly 125% fluid-loss replacement, slow intake, and sweat-salt observations as practical but source-scoped tools.
 - Regulatory and clinical context: [[using-salt-to-optimize-mental-physical-performance-scim4397006205]] repeats the Galpin equation while linking exertion replacement to osmotic and volume regulation, blood pressure, salt appetite, diet, climate, and overhydration risk.
+- Full-episode provenance: [[scim8024795061-scim8024795061]] gives the same pounds-divided-by-30 fluid heuristic and broad dehydration-performance claim in the original 2021 discussion.
 
 ## Counterevidence & Qualifications
-The episode summaries do not state the evidence base, uncertainty, units validation, safe upper limits, sodium concentration, or population assumptions behind their numerical claims. The formulas are mathematically close but are stated over slightly different 15-minute versus 15-20-minute intervals, and the heat, caffeine, 125%-replacement, salt-residue, nocturia, and orthostatic-salt heuristics are not validated here. Excessive fluid intake can be unsafe, and kidney, cardiac, blood-pressure, medication, heat-illness, endocrine, and other clinical contexts can change appropriate replacement. The page is public education, not an individualized hydration, supplement, sauna, or exercise prescription.
+The episode summaries do not state the evidence base, uncertainty, units validation, safe upper limits, sodium concentration, or population assumptions behind their numerical claims. The original and Essentials endurance versions overlap editorially, so repetition of the same figures is not independent evidence. The formulas are mathematically close but are stated over slightly different 15-minute versus 15-20-minute intervals, and the heat, caffeine, 125%-replacement, salt-residue, nocturia, and orthostatic-salt heuristics are not validated here. Excessive fluid intake can be unsafe, and kidney, cardiac, blood-pressure, medication, heat-illness, endocrine, and other clinical contexts can change appropriate replacement. The page is public education, not an individualized hydration, supplement, sauna, or exercise prescription.
 
 ## What Changed
-- Added osmotic-versus-volume regulation as the reason water and sodium replacement are not interchangeable.
-- Added blood-pressure, orthostatic, diet, caffeine, and carbohydrate context to exercise-fluid interpretation.
-- Kept the Galpin equation, replacement percentages, salt ranges, and caffeine ratios source-scoped.
+- Added the original 2021 provenance for the Galpin equation and dehydration-performance estimate.
+- Marked agreement with the later Essentials edit as editorial continuity rather than validation.
 
 ## Related Concepts
 - [[ElectrolyteDrinkUseBoundary]] - broader distinction between meaningful replacement and routine health-halo consumption.

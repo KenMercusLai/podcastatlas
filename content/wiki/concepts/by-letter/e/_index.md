@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9455
+wiki_total_pages: 9456
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -617,6 +617,9 @@ wiki_pages:
   - key: "EndoscopyPathologyFollowup"
     title: "Endoscopy Pathology and Follow-up / 内镜病理与复诊闭环"
     url: "/wiki/concepts/endoscopypathologyfollowup/"
+  - key: "EnduranceEffortPersistence"
+    title: "Endurance Effort Persistence"
+    url: "/wiki/concepts/enduranceeffortpersistence/"
   - key: "EnduranceTrainingModalities"
     title: "Endurance Training Modalities"
     url: "/wiki/concepts/endurancetrainingmodalities/"

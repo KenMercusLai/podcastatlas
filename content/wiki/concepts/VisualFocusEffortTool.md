@@ -9,8 +9,9 @@ sources:
   - essentials-tools-to-improve-your-focus-concentration-scim2328129388
   - optimizing-workspace-for-productivity-focus-creativity-scim5202577757
   - the-science-of-setting-achieving-goals-scim1292734289
+  - scim8024795061-scim8024795061
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-02
+last_updated: 2026-10-03
 ---
 
 # Visual Focus Effort Tool
@@ -27,12 +28,14 @@ The visual focus effort tool is the proposal that narrowing gaze onto a specific
 
 The earlier [[the-science-of-setting-achieving-goals-scim1292734289]] connects 30-60 seconds of single-point focus before work with physiological readiness and reports an ankle-weight walking result attributed to [[EmilyBalcetis]]. It supports the qualitative direction of the later sources but creates a numeric discrepancy: 23% faster here versus 27% faster in the later interview note.
 
+The 2021 endurance episode provides an earlier field application rather than a controlled comparison. It proposes alternating narrow attention to a landmark or competitor with panoramic viewing during sustained work: the target can organize a temporary effort increase, while the wider view limits the mental cost of remaining narrowly focused throughout a long session.
+
 ## Key Claims
 - Visual and cognitive focus are coupled closely enough that gaze can be treated as part of task setup.
 - Narrow gaze is proposed as an activation tool at the start of a work bout or during a demanding phase of physical effort.
 - A moving task can be divided into successive concrete landmarks, with attention recalibrated after each target is reached.
 - Blinking remains allowed; the protocol is sustained attention, not unbroken staring.
-- Panoramic viewing can be interleaved to relax the visual system and reduce fatigue.
+- Panoramic viewing can be interleaved to relax the visual system and reduce fatigue, making narrow landmark focus a strategic pacing tool rather than a continuous visual mode during endurance work.
 - Overt gaze and covert attention are separable, so eye direction alone does not prove where cognitive attention is placed.
 - Work-target placement and visual recovery should be treated together: narrow forward focus can support engagement, while periodic distance viewing limits continuous near-focus demand.
 
@@ -46,14 +49,15 @@ The earlier [[the-science-of-setting-achieving-goals-scim1292734289]] connects 3
 - Physical-task findings - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] reports an ankle-weight walking experiment with faster movement and lower discomfort under narrowed attention.
 - Earlier physical-task account - [[the-science-of-setting-achieving-goals-scim1292734289]] reports the same directional result with a different speed figure and links brief pre-task fixation to readiness.
 - Desk-work extension - [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] recommends a centered target and panoramic distance viewing after sustained near work.
+- Early endurance application - [[scim8024795061-scim8024795061]] proposes switching between a concrete landmark and wider vision as effort and mental fatigue change.
 
 ## Counterevidence & Qualifications
-The source notes provide reported effect sizes for one walking task but not the full sample, methods, citation, or replication context, and they disagree on whether movement was 23% or 27% faster while agreeing on a 17% perceived-effort or discomfort difference. Their 30-60-second, 30-90-second, up-to-three-minute, and 45-to-5 ranges do not establish optimal durations. Continuous narrowing may itself become tiring during long efforts, and a physical target protocol does not automatically transfer to study, creative work, depression, or anxiety. Screen width and elevation must remain compatible with visual comfort, accessibility, pain, and task demands. A brief gaze exercise is not treatment for attention disorders, visual problems, anxiety, fatigue, or cardiovascular disease. Discomfort, headache, dizziness, or eyestrain are reasons to stop rather than intensify the protocol.
+The source notes provide reported effect sizes for one walking task but not the full sample, methods, citation, or replication context, and they disagree on whether movement was 23% or 27% faster while agreeing on a 17% perceived-effort or discomfort difference. The early endurance application is anecdotal and does not independently validate those later study accounts. Their 30-60-second, 30-90-second, up-to-three-minute, and 45-to-5 ranges do not establish optimal durations. Continuous narrowing may itself become tiring during long efforts, and a physical target protocol does not automatically transfer to study, creative work, depression, or anxiety. Screen width and elevation must remain compatible with visual comfort, accessibility, pain, and task demands. A brief gaze exercise is not treatment for attention disorders, visual problems, anxiety, fatigue, or cardiovascular disease. Discomfort, headache, dizziness, or eyestrain are reasons to stop rather than intensify the protocol.
 
 ## What Changed
-- Added the earlier 30-60-second readiness protocol and physical-task account.
-- Recorded the unresolved 23%-versus-27% speed discrepancy.
-- Kept duration and physiological-readiness mechanisms source-scoped.
+- Added the earlier endurance-specific landmark and panoramic-vision application.
+- Clarified that narrow focus is a strategic pacing mode rather than a continuous requirement.
+- Kept the field application separate from later controlled-task claims.
 
 ## Related Concepts
 - [[GoalPursuitBehaviorDesign]] - broader toolkit that places gaze control inside a scheduled work session.

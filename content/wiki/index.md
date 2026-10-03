@@ -3610,6 +3610,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Smell, Taste & Pheromone-Like Chemicals Control You](sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027.md) — Full Huberman Lab episode on olfactory pathways, sniffing and respiratory phase, smell training, gustatory and gut nutrient sensing, and the boundary between human chemical effects and established pheromones.
 - [The Science of Vision, Eye Health & Seeing Better](sources/scim3952740577-scim3952740577.md) — Early Huberman Lab solo episode on visual inference, retinal light signaling, varied eye use, developmental balance, and bounded behavioral eye-health tools.
 - [62. Magna Carta](sources/62-magna-carta-glt5613809659.md) — The Rest Is History episode on King John's 1215 crisis, lawful limits on monarchy, reissue, rights-centered reinterpretation, and Magna Carta's political afterlife.
+- [How to Build Endurance in Your Brain & Body](sources/scim8024795061-scim8024795061.md) — Early Huberman Lab solo episode on four endurance modes, brain-body persistence, breathing, hydration, recovery, visual pacing, and source-scoped protocols.
 
 ## Entities
 - [King John](entities/KingJohn.md) — English monarch whose military defeat, fiscal extraction, arbitrary rule, and repudiated settlement produced the 1215 Magna Carta crisis.
@@ -15813,6 +15814,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [Endurance Effort Persistence](concepts/EnduranceEffortPersistence.md) — Brain-body model of continued effort shaped by physiological capacity, perceived progress, arousal, and pacing cues.
 - [King Under Law](concepts/KingUnderLaw.md) — Principle that monarchic authority remains constrained by law, lawful process, and enforceable limits rather than personal will.
 - [Constitutional Memory Reuse](concepts/ConstitutionalMemoryReuse.md) — Process by which reissue, interpretation, myth, and mobilization widen an older legal event into later constitutional authority.
 - [Ideological Radicalization Without Equilibrium](concepts/IdeologicalRadicalizationWithoutEquilibrium.md) — Regime pattern in which success enables further escalation because core ideological goals supply no stable moderate endpoint.

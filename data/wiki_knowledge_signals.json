@@ -25839,9 +25839,9 @@
       "url": "/wiki/concepts/breathfulpresence/"
     },
     "BreathingGearsCO2Tolerance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1818614492 [SCIM1818614492].md",
@@ -25849,9 +25849,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
+        },
+        {
+          "episode_file": "SCIM8024795061 [SCIM8024795061].md",
+          "key": "scim8024795061-scim8024795061",
+          "show": "Huberman Lab",
+          "title": "How to Build Endurance in Your Brain & Body",
+          "url": "/wiki/sources/scim8024795061-scim8024795061/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/breathinggearsco2tolerance/"
     },
     "Brexit": {
@@ -63664,10 +63671,26 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/endoscopypathologyfollowup/"
     },
-    "EnduranceTrainingModalities": {
-      "episode_count": 3,
+    "EnduranceEffortPersistence": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8024795061 [SCIM8024795061].md",
+          "key": "scim8024795061-scim8024795061",
+          "show": "Huberman Lab",
+          "title": "How to Build Endurance in Your Brain & Body",
+          "url": "/wiki/sources/scim8024795061-scim8024795061/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/enduranceeffortpersistence/"
+    },
+    "EnduranceTrainingModalities": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1120276865 [SCIM1120276865].md",
@@ -63689,9 +63712,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
+        },
+        {
+          "episode_file": "SCIM8024795061 [SCIM8024795061].md",
+          "key": "scim8024795061-scim8024795061",
+          "show": "Huberman Lab",
+          "title": "How to Build Endurance in Your Brain & Body",
+          "url": "/wiki/sources/scim8024795061-scim8024795061/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/endurancetrainingmodalities/"
     },
     "EnergyAbundanceClimateStrategy": {
@@ -66888,9 +66918,9 @@
       "url": "/wiki/concepts/exerciseheatmanagement/"
     },
     "ExerciseHydrationPerformanceBoundary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1120276865 [SCIM1120276865].md",
@@ -66919,9 +66949,16 @@
           "show": "Huberman Lab",
           "title": "Using Salt to Optimize Mental & Physical Performance",
           "url": "/wiki/sources/using-salt-to-optimize-mental-physical-performance-scim4397006205/"
+        },
+        {
+          "episode_file": "SCIM8024795061 [SCIM8024795061].md",
+          "key": "scim8024795061-scim8024795061",
+          "show": "Huberman Lab",
+          "title": "How to Build Endurance in Your Brain & Body",
+          "url": "/wiki/sources/scim8024795061-scim8024795061/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/exercisehydrationperformanceboundary/"
     },
     "ExerciseLinkedCognitiveResilience": {
@@ -208659,9 +208696,9 @@
       "url": "/wiki/concepts/visualfatiguecausebasedmanagement/"
     },
     "VisualFocusEffortTool": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -208704,9 +208741,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Setting & Achieving Goals",
           "url": "/wiki/sources/the-science-of-setting-achieving-goals-scim1292734289/"
+        },
+        {
+          "episode_file": "SCIM8024795061 [SCIM8024795061].md",
+          "key": "scim8024795061-scim8024795061",
+          "show": "Huberman Lab",
+          "title": "How to Build Endurance in Your Brain & Body",
+          "url": "/wiki/sources/scim8024795061-scim8024795061/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/visualfocusefforttool/"
     },
     "VisualSystemHealthToolkit": {

@@ -28412,3 +28412,11 @@ Added source `62-magna-carta-glt5613809659`; created `KingJohn`, `EdwardCoke`, `
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | How to Build Endurance in Your Brain & Body
+
+Added source `scim8024795061-scim8024795061`; created `EnduranceEffortPersistence`; and resynthesized `EnduranceTrainingModalities`, `ExerciseHydrationPerformanceBoundary`, `BreathingGearsCO2Tolerance`, and `VisualFocusEffortTool` from their complete preserved evidence inventories. Core synthesis: endurance is a family of local, anaerobic, high-intensity aerobic, and long-duration capacities whose continuation depends on interacting neural, muscular, circulatory, cardiac, respiratory, metabolic, perceptual, and pacing constraints. No settled contradiction was adopted. The four-versus-five-breath slow-exhale protocol is retained as unresolved source-version drift; the full episode and later Essentials edit are editorial overlap rather than independent replication; and the central-governor, glial, side-stitch, hydration, cold, fuel-shift, supplement, and visual-pacing mechanisms remain source-scoped. Recurring host and show pages were not changed because the episode adds no material identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,551-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
