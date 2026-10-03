@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12232
+wiki_total_pages: 12233
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -1004,6 +1004,9 @@ wiki_pages:
   - key: "PrudhoeBay"
     title: "Prudhoe Bay / 普拉德霍湾"
     url: "/wiki/entities/prudhoebay/"
+  - key: "Prussia"
+    title: "Prussia"
+    url: "/wiki/entities/prussia/"
   - key: "PsilocybinMushrooms"
     title: "Psilocybin Mushrooms"
     url: "/wiki/entities/psilocybinmushrooms/"

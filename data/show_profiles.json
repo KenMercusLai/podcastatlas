@@ -939,14 +939,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-30",
       "latest_episode_file": "GLT5038102951 [GLT5038102951].md",
-      "source_note_count": 577,
-      "topic_matched_source_note_count": 541,
+      "source_note_count": 578,
+      "topic_matched_source_note_count": 542,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 532
+          "source_note_count": 533
         },
         {
           "key": "culture",
@@ -990,18 +990,18 @@
           "episode_count": 10
         },
         {
+          "key": "KaiserWilhelmII",
+          "title": "Kaiser Wilhelm II",
+          "url": "/wiki/entities/kaiserwilhelmii/",
+          "kind": "person",
+          "episode_count": 10
+        },
+        {
           "key": "MaximilienRobespierre",
           "title": "Maximilien Robespierre / 罗伯斯庇尔",
           "url": "/wiki/entities/maximilienrobespierre/",
           "kind": "person",
           "episode_count": 10
-        },
-        {
-          "key": "KaiserWilhelmII",
-          "title": "Kaiser Wilhelm II",
-          "url": "/wiki/entities/kaiserwilhelmii/",
-          "kind": "person",
-          "episode_count": 9
         },
         {
           "key": "MarieAntoinette",

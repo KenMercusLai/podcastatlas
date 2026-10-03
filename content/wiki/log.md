@@ -28836,3 +28836,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 31. The Second Reich
+
+Added source `31-the-second-reich-glt1008050219`; created [[Prussia]] and [[GermanUnification]]; and resynthesized [[Germany]], [[GermanEmpire]], [[OttoVonBismarck]], [[KatjaHoyer]], [[KaiserWilhelmII]], and [[NationalismStatePower]] from their complete preserved evidence inventories. Core synthesis: German nationhood was culturally, socially, and economically imagined before 1871, while Prussian capacity and Bismarck's contingent use of parliament, war, and diplomacy fixed its timing and institutional form. No settled contradiction was adopted. The empire's military foundation remains consequential without establishing an inevitable road to Nazism, and Wilhelm II's formal responsibility remains compatible with the wider July Crisis machinery. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,604-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9542
+wiki_total_pages: 9543
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "GermanLuxuryCarChinaPressure"
     title: "German Luxury Car China Pressure / 德系豪华车中国压力"
     url: "/wiki/concepts/germanluxurycarchinapressure/"
+  - key: "GermanUnification"
+    title: "German Unification"
+    url: "/wiki/concepts/germanunification/"
   - key: "Gesamtkunstwerk"
     title: "Gesamtkunstwerk"
     url: "/wiki/concepts/gesamtkunstwerk/"

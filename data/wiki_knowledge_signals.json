@@ -83894,9 +83894,9 @@
       "url": "/wiki/concepts/germancaretakerstalemate/"
     },
     "GermanEmpire": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8045984312 [GLT8045984312].md",
@@ -83904,9 +83904,16 @@
           "show": "The Rest Is History",
           "title": "295: The Rise of the Nazis (Part 1)",
           "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
+        },
+        {
+          "episode_file": "GLT1008050219 [GLT1008050219].md",
+          "key": "31-the-second-reich-glt1008050219",
+          "show": "The Rest Is History",
+          "title": "31. The Second Reich",
+          "url": "/wiki/sources/31-the-second-reich-glt1008050219/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/germanempire/"
     },
     "GermanNationalAnthem": {
@@ -83941,10 +83948,26 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/germanpeasantswar/"
     },
+    "GermanUnification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1008050219 [GLT1008050219].md",
+          "key": "31-the-second-reich-glt1008050219",
+          "show": "The Rest Is History",
+          "title": "31. The Second Reich",
+          "url": "/wiki/sources/31-the-second-reich-glt1008050219/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/germanunification/"
+    },
     "Germany": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "111. 花衣魔笛手：快来，和历史学家一起推理童话真相 [751190766].md",
@@ -83987,9 +84010,16 @@
           "show": "Economist Podcasts",
           "title": "Right in front: AfD could win German state",
           "url": "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"
+        },
+        {
+          "episode_file": "GLT1008050219 [GLT1008050219].md",
+          "key": "31-the-second-reich-glt1008050219",
+          "show": "The Rest Is History",
+          "title": "31. The Second Reich",
+          "url": "/wiki/sources/31-the-second-reich-glt1008050219/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/germany/"
     },
     "GeronimoDeAguilar": {
@@ -115360,9 +115390,9 @@
       "url": "/wiki/entities/kailas/"
     },
     "KaiserWilhelmII": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -115426,9 +115456,16 @@
           "show": "The Rest Is History",
           "title": "183. History's Biggest Questions with Dan Carlin (Part 1)",
           "url": "/wiki/sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177/"
+        },
+        {
+          "episode_file": "GLT1008050219 [GLT1008050219].md",
+          "key": "31-the-second-reich-glt1008050219",
+          "show": "The Rest Is History",
+          "title": "31. The Second Reich",
+          "url": "/wiki/sources/31-the-second-reich-glt1008050219/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/kaiserwilhelmii/"
     },
     "KamakuraShogunateFormation": {
@@ -115854,9 +115891,9 @@
       "url": "/wiki/entities/kateaha/"
     },
     "KatjaHoyer": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4069689977 [GLT4069689977].md",
@@ -115864,9 +115901,16 @@
           "show": "The Rest Is History",
           "title": "322: East Germany: Life Behind the Iron Curtain",
           "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
+        },
+        {
+          "episode_file": "GLT1008050219 [GLT1008050219].md",
+          "key": "31-the-second-reich-glt1008050219",
+          "show": "The Rest Is History",
+          "title": "31. The Second Reich",
+          "url": "/wiki/sources/31-the-second-reich-glt1008050219/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/katjahoyer/"
     },
     "KayTye": {
@@ -146731,9 +146775,9 @@
       "url": "/wiki/concepts/nationalservicesocialintegration/"
     },
     "NationalismStatePower": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9746323554 [GLT9746323554].md",
@@ -146741,9 +146785,16 @@
           "show": "The Rest Is History",
           "title": "326: The Year of Revolutions: 1848",
           "url": "/wiki/sources/326-the-year-of-revolutions-1848-glt9746323554/"
+        },
+        {
+          "episode_file": "GLT1008050219 [GLT1008050219].md",
+          "key": "31-the-second-reich-glt1008050219",
+          "show": "The Rest Is History",
+          "title": "31. The Second Reich",
+          "url": "/wiki/sources/31-the-second-reich-glt1008050219/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/nationalismstatepower/"
     },
     "NationalistAtlantisMythmaking": {
@@ -154448,9 +154499,9 @@
       "url": "/wiki/entities/ottothegreat/"
     },
     "OttoVonBismarck": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8045984312 [GLT8045984312].md",
@@ -154458,9 +154509,16 @@
           "show": "The Rest Is History",
           "title": "295: The Rise of the Nazis (Part 1)",
           "url": "/wiki/sources/295-the-rise-of-the-nazis-part-1-glt8045984312/"
+        },
+        {
+          "episode_file": "GLT1008050219 [GLT1008050219].md",
+          "key": "31-the-second-reich-glt1008050219",
+          "show": "The Rest Is History",
+          "title": "31. The Second Reich",
+          "url": "/wiki/sources/31-the-second-reich-glt1008050219/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/ottovonbismarck/"
     },
     "OttomanEmpire": {
@@ -167949,6 +168007,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/prudentambiguityselfprotection/"
+    },
+    "Prussia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1008050219 [GLT1008050219].md",
+          "key": "31-the-second-reich-glt1008050219",
+          "show": "The Rest Is History",
+          "title": "31. The Second Reich",
+          "url": "/wiki/sources/31-the-second-reich-glt1008050219/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/prussia/"
     },
     "PseudoConsensusTeamFailure": {
       "episode_count": 1,

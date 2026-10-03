@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [31. The Second Reich](sources/31-the-second-reich-glt1008050219.md) — The Rest Is History with Katja Hoyer on Prussia, German nationhood, Bismarckian unification, imperial militarism, industrial power, and retrospective memory.
 - [EP163-被互联网冲击的艺术](sources/ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf.md) — 无时差研究所 conversation on ordinary creative agency, experience-first viewing, curatorial design, provenance, art pricing, conceptual ownership, and internet-era attention.
 - [32. What if?](sources/32-what-if-glt7767131043.md) — The Rest Is History on disciplined counterfactuals, structure and agency, technological context, alternative-history fantasy, and May 1940 as a possible choke point.
 - [How Foods & Nutrients Control Our Moods](sources/how-foods-nutrients-control-our-moods-scim8271372367.md) — Early Huberman Lab episode on embodied mood, vagal and gut nutrient sensing, neuromodulators, microbiome individuality, and intervention-specific safety boundaries.
@@ -3665,6 +3666,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [41. Persia](sources/41-persia-glt6414068538.md) — The Rest Is History conversation with Ali Ansari on Iran/Persia continuity, pre-Islamic empires, Zoroastrian influence, paradise gardens, and Persianate administration.
 
 ## Entities
+- [Prussia](entities/Prussia.md) — Scattered Baltic-Brandenburg state whose military, administrative, and industrial power became the vehicle for German unification.
 - [Jonathan Wilson (football writer)](entities/JonathanWilsonFootballWriter.md) — Football writer and historian connecting codification, network diffusion, national identity, labor systems, and global media.
 - [St Cuthbert](entities/StCuthbert.md) — Northumbrian ascetic, healer, and saint whose remembered charity became a powerful relic cult and political symbol.
 - [Lindisfarne](entities/Lindisfarne.md) — Northumbrian monastery joining Cuthbert's relic cult, pilgrimage wealth, Viking vulnerability, and mobile institutional continuity.
@@ -4362,7 +4364,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Frankopan](entities/PeterFrankopan.md) — Global historian presenting a proxy-rich, non-deterministic account of climate, ecology, institutions, and power.
 - [The Earth Transformed](entities/TheEarthTransformed.md) — Peter Frankopan book represented as a long-duration environmental history of climate, disease, energy, inequality, and political resilience.
 - [Naram-Sin](entities/NaramSin.md) — Akkadian ruler used as a counterexample to automatic climate-collapse reasoning through crisis-linked centralization.
-- [Katja Hoyer](entities/KatjaHoyer.md) — East German-born historian whose Beyond the Wall account combines state politics with everyday GDR life.
+- [Katja Hoyer](entities/KatjaHoyer.md) — German-born historian interpreting Prussia, imperial Germany, and East Germany without reducing them to their coercive institutions.
 - [Walter Ulbricht](entities/WalterUlbricht.md) — Early GDR leader associated with socialist construction, the 1953 crisis, and Wall-backed stabilization.
 - [Erich Honecker](entities/ErichHonecker.md) — Later GDR leader associated with controlled cultural relaxation, welfare-consumer strain, and reform failure.
 - [Stasi](entities/Stasi.md) — East German security and intelligence institution central to surveillance and coercive control.
@@ -4666,8 +4668,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kristallnacht / Night of Broken Glass](entities/Kristallnacht.md) — State-enabled November 1938 pogrom joining central direction, police nonprotection, local participation, mass arrest, and dispossession.
 - [Herschel Grünspan](entities/HerschelGrunspan.md) — Polish Jewish refugee whose shooting of Ernst vom Rath was appropriated as the pogrom's public pretext.
 - [Ernst vom Rath](entities/ErnstVomRath.md) — German diplomat whose death Nazi leaders converted into propaganda authorization for Kristallnacht.
-- [Otto von Bismarck](entities/OttoVonBismarck.md) — Prussian statesman who founded an empire combining mass electoral politics with monarchical and military autonomy.
-- [German Empire](entities/GermanEmpire.md) — German state whose mixed constitutional order, wartime militarization, and abrupt defeat frame the prehistory of Weimar.
+- [Otto von Bismarck](entities/OttoVonBismarck.md) — Prussian statesman whose parliamentary defiance, wars, and statecraft fixed the timing and form of German unification.
+- [German Empire](entities/GermanEmpire.md) — Prussian-led 1871 state combining centralized nationhood, elections, monarchical-military autonomy, and later wartime collapse.
 - [Nazi Party](entities/NaziParty.md) — Movement formed from the German Workers' Party through Hitler's speaking, organizing, and early control in postwar Munich.
 - [Adolf Hitler](entities/AdolfHitler.md) — Nazi dictator who turned coup failure into procedural subversion, then joined mass mobilization, elite sponsorship, racial ideology, expansion, and violence.
 - [Joseph Goebbels](entities/JosephGoebbels.md) — Nazi propagandist who joined centralized film and radio distribution to racial-health morality, agitation, mobilization, and deniability.
@@ -7230,7 +7232,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Heiligenkreuz Abbey](entities/HeiligenkreuzAbbey.md) — Burial destination for Mary Vetsera after her body is removed from Mayerling.
 - [Capuchin Crypt](entities/CapuchinCrypt.md) — Habsburg burial site reached after Rudolf's suicide is framed as eligible for Catholic burial.
 - [Carmelite Convent at Mayerling](entities/CarmeliteConventMayerling.md) — Religious replacement for Rudolf's hunting lodge after the Mayerling deaths.
-- [Kaiser Wilhelm II](entities/KaiserWilhelmII.md) — German monarch whose blank-cheque support, deterrence miscalculation, later restraint proposals, and mobilisation decisions shaped the July Crisis.
+- [Kaiser Wilhelm II](entities/KaiserWilhelmII.md) — German monarch whose character, formal command, blank-cheque support, miscalculation, and constrained restraint shaped the July Crisis.
 - [黄浮 / Huang Fu (Donghai chancellor)](entities/HuangFuDonghaiLateHan.md) — East Sea official who executes Xu Xuan and is punished after eunuch complaint.
 - [李暠 / Li Gao (Runan administrator)](entities/LiGaoRunanLateHan.md) — Former Runan administrator whose daughter is killed in the Xu Xuan case.
 - [刘茂 / Liu Mao (late Han)](entities/LiuMaoLateHan.md) — Huan-era official whose bounded roles now include a Taichang-to-sikong appointment notice and later contrast as Chen Fan's co-remonstrant who retreats under pressure.
@@ -14856,7 +14858,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Garfield AI](entities/GarfieldAI.md) — Legal AI company used as the source's positive human-in-the-loop legal AI example.
 - [Russia](entities/Russia.md) — Country framed through hybrid pressure, Ukraine-war spillover, possible future tests of NATO credibility, and Britain's post-Brexit defence relevance.
 - [Ukraine](entities/Ukraine.md) — War context for NATO support, Russian hybrid pressure, European defense autonomy, and the defence argument in Britain's post-Brexit role.
-- [Germany](entities/Germany.md) — Country page covering NATO reassurance, folklore, war-memory, Spahn scandal politics, and national-anthem symbolism.
+- [Germany](entities/Germany.md) — Country page spanning nineteenth-century unification, folklore, war memory, NATO reassurance, domestic politics, and national symbols.
 - [Lithuania](entities/Lithuania.md) — Baltic security case where German deployment and American force uncertainty make NATO credibility visible.
 - [Ali Khamenei](entities/AliKhamenei.md) — Iranian supreme-leader figure whose funeral is framed by The Intelligence as religious rite, regime display, and succession test.
 - [Mujtaba Khamenei](entities/MujtabaKhamenei.md) — Khamenei son described by the episode as supposed successor whose absence creates command uncertainty.
@@ -15944,6 +15946,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [German Unification](concepts/GermanUnification.md) — Conversion of cultural, liberal, popular, and economic German nationhood into a Prussian-led state through Bismarckian war and statecraft.
 - [Historical Structure-Agency Causation](concepts/HistoricalStructureAgencyCausation.md) — Framework for weighing individual choices against replacement mechanisms, institutional resilience, material conditions, and time horizon.
 - [Football as Mass Culture](concepts/FootballAsMassCulture.md) — Framework treating football as a shared institution of time, belonging, civic identity, political symbolism, and social conflict.
 - [Saint-Relic Political Authority](concepts/SaintRelicPoliticalAuthority.md) — Conversion of holy remains and associated objects into pilgrimage, landholding, institutional continuity, and royal legitimacy.
@@ -25363,7 +25366,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Revolutions of 1848](concepts/RevolutionsOf1848.md) — Plural European crisis joining subsistence pressure, political experimentation, nationalism, media, crowds, and state recovery.
 - [Revolutionary Contagion](concepts/RevolutionaryContagion.md) — Diffusion of revolutionary expectations and repertoires through news and crowd-state interaction without unified command.
-- [Nationalism and State Power](concepts/NationalismStatePower.md) — Shift from emotionally powerful national aspiration toward nationalism backed by armies, administration, law, and territory.
+- [Nationalism and State Power](concepts/NationalismStatePower.md) — Shift from national aspiration toward state-backed effectiveness, with Germany showing how agency fixed timing and institutional form.
 - [Post-Revolutionary Conservatism](concepts/PostRevolutionaryConservatism.md) — Adaptive conservative politics that preserves authority by selectively absorbing changes revolution made unavoidable.
 - [Popular Counter-Revolution](concepts/PopularCounterrevolution.md) — Social participation in restoring order alongside loyal armies, administration, elections, and coercion.
 - [Constitutional Afterlife of Revolution](concepts/ConstitutionalAfterlifeOfRevolution.md) — Survival or later reuse of constitutional forms after revolutionary coalitions fragment or lose.
