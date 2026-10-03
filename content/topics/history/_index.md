@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2518
+topic_total_pages: 2519
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5298,6 +5298,9 @@ topic_sources:
   - key: "209-londinium-part-1-glt8659020002"
     title: "209. Londinium (Part 1)"
     url: "/wiki/sources/209-londinium-part-1-glt8659020002/"
+  - key: "21-the-history-of-the-future-glt7103118075"
+    title: "21. The History of the Future"
+    url: "/wiki/sources/21-the-history-of-the-future-glt7103118075/"
   - key: "210-london-places-part-2-glt8561271853"
     title: "210. London: Places (Part 2)"
     url: "/wiki/sources/210-london-places-part-2-glt8561271853/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [21. The History of the Future](sources/21-the-history-of-the-future-glt7103118075.md) — The Rest Is History on prophecy, apocalypse, technological futurism, dystopia, and future visions as mirrors of present anxiety.
 - [22. Weird Wars](sources/22-weird-wars-glt2360848948.md) — The Rest Is History countdown on ten unfamiliar conflicts, memorable oddity, historical distance, political myth, and the ethics of keeping suffering visible.
 - [23. The 90s](sources/23-the-90s-glt8035489270.md) — The Rest Is History on recent-history method, 1990s nostalgia, post-Cold War instability, internet transformation, political memory, religion, and Brexit's preconditions.
 - [24. Sex in the City](sources/24-sex-in-the-city-glt9221135938.md) — The Rest Is History with Hallie Rubenhold on sexual-history evidence, prostitution, class, gender, respectability, and Georgian-Victorian continuity and change.
@@ -3682,6 +3683,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Focus to Change Your Brain](sources/scim3840916606-scim3840916606.md) — Early Huberman Lab episode on attention-gated adult neuroplasticity, alertness, sensory selection, bounded focus bouts, sleep, and deep-rest consolidation.
 
 ## Entities
+- [Delphic Oracle](entities/DelphicOracle.md) — Ancient Greek institution joining Apollo's sacred authority, professional interpretation, possible information advantage, and ambiguous fulfillment.
 - [John Major](entities/JohnMajor.md) — British Conservative prime minister whose hostile contemporary reception and improved later reputation illustrate retrospective political memory.
 - [Hallie Rubenhold](entities/HallieRubenhold.md) — Historian centering women’s experience, class, urban life, and contextual source criticism in Georgian and Victorian sexual history.
 - [Ricky (Phoenix Homeowner)](entities/RickyPhoenixHomeowner.md) — Phoenix-area new-build buyer whose account connects family-supported financing, builder choices, DIY work, smart-home infrastructure, and long-term owner responsibility.
@@ -15972,6 +15974,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Future Visions as Present Anxiety](concepts/FutureVisionsAsPresentAnxiety.md) — Framework reading prophecy, futurism, models, and dystopia as evidence about the fears and assumptions of their own time.
+- [Prophetic Ambiguity and Interpretation](concepts/PropheticAmbiguityAndInterpretation.md) — Mechanism by which difficult wording, specialist authority, information access, and retrospective reading preserve prophetic force.
 - [Recent-History Perspective](concepts/RecentHistoryPerspective.md) — Method for using lived memory as evidence without mistaking familiar, generational, or nostalgic experience for representative history.
 - [Sexual History Evidence Interpretation](concepts/SexualHistoryEvidenceInterpretation.md) — Contextual reading of intimate, literary, legal, and commercial sources as both historical evidence and audience-shaped performance.
 - [Class-Stratified Sexual Respectability](concepts/ClassStratifiedSexualRespectability.md) — Gender- and class-specific system of sexual knowledge, reputation, discretion, availability, and unequal material consequences.

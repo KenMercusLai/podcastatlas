@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9560
+wiki_total_pages: 9562
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2111,6 +2111,9 @@ wiki_pages:
   - key: "ProphecyTriggeredPolicy"
     title: "Prophecy-Triggered Policy / 预言触发政策"
     url: "/wiki/concepts/prophecytriggeredpolicy/"
+  - key: "PropheticAmbiguityAndInterpretation"
+    title: "Prophetic Ambiguity and Interpretation"
+    url: "/wiki/concepts/propheticambiguityandinterpretation/"
   - key: "ProprietaryAIInterconnectFragmentation"
     title: "Proprietary AI Interconnect Fragmentation"
     url: "/wiki/concepts/proprietaryaiinterconnectfragmentation/"

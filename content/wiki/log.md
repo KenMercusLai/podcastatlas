@@ -28972,3 +28972,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 21. The History of the Future
+
+Added source `21-the-history-of-the-future-glt7103118075`; created [[DelphicOracle]], [[FutureVisionsAsPresentAnxiety]], and [[PropheticAmbiguityAndInterpretation]]; and resynthesized [[ApocalypticThinking]] and [[CircularLinearTimeTension|Circular and Linear Time Tension]] from their complete preserved evidence inventories. Core synthesis: imagined futures often reveal the anxieties and moral structures of the present, while prophecy gains authority through ritual, information, ambiguity, interpretation, and retrospective fulfillment. No settled contradiction was adopted. The episode's civilizational typologies, climate-theology genealogy, oracle mechanics, historical “firsts,” and geopolitical prediction claims remain conversational or source-scoped, and analogy between ancient diviners and modern experts does not imply equal evidence. Recurring host, show, Orwell, and Fukuyama profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,621-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

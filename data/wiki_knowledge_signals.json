@@ -15013,6 +15013,36 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/apobparticleburden/"
     },
+    "ApocalypticThinking": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "02026-sagmeister-podcast-v2 [02026-sagmeister-podcast-v2].md",
+          "key": "stefan-sagmeister-finally-something-good-yqqxftsvema",
+          "show": "Long Now",
+          "title": "Stefan Sagmeister: Finally, something good.",
+          "url": "/wiki/sources/stefan-sagmeister-finally-something-good-yqqxftsvema/"
+        },
+        {
+          "episode_file": "03.莱博维茨的赞歌：要有光，哪怕废土之上 [528163687].md",
+          "key": "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687",
+          "show": "蜜獾吃书",
+          "title": "03.莱博维茨的赞歌：要有光，哪怕废土之上",
+          "url": "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+        },
+        {
+          "episode_file": "GLT7103118075 [GLT7103118075].md",
+          "key": "21-the-history-of-the-future-glt7103118075",
+          "show": "The Rest Is History",
+          "title": "21. The History of the Future",
+          "url": "/wiki/sources/21-the-history-of-the-future-glt7103118075/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/apocalypticthinking/"
+    },
     "Apollo11": {
       "episode_count": 1,
       "show_count": 1,
@@ -38565,6 +38595,29 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/circuitbasedpsychiatry/"
     },
+    "CircularLinearTimeTension": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "山上山下皆人间，无事逍遥即神仙 [lhJIgUq74flhaTdXnBrnzhjg_ACP].md",
+          "key": "shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp",
+          "show": "面基",
+          "title": "山上山下皆人间，无事逍遥即神仙",
+          "url": "/wiki/sources/shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp/"
+        },
+        {
+          "episode_file": "GLT7103118075 [GLT7103118075].md",
+          "key": "21-the-history-of-the-future-glt7103118075",
+          "show": "The Rest Is History",
+          "title": "21. The History of the Future",
+          "url": "/wiki/sources/21-the-history-of-the-future-glt7103118075/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/circularlineartimetension/"
+    },
     "Citgo": {
       "episode_count": 2,
       "show_count": 1,
@@ -51789,6 +51842,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/deloitte/"
+    },
+    "DelphicOracle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7103118075 [GLT7103118075].md",
+          "key": "21-the-history-of-the-future-glt7103118075",
+          "show": "The Rest Is History",
+          "title": "21. The History of the Future",
+          "url": "/wiki/sources/21-the-history-of-the-future-glt7103118075/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/delphicoracle/"
     },
     "DemandSideTraffickingLiability": {
       "episode_count": 1,
@@ -80228,6 +80297,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/futureselfcontinuity/"
+    },
+    "FutureVisionsAsPresentAnxiety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7103118075 [GLT7103118075].md",
+          "key": "21-the-history-of-the-future-glt7103118075",
+          "show": "The Rest Is History",
+          "title": "21. The History of the Future",
+          "url": "/wiki/sources/21-the-history-of-the-future-glt7103118075/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/futurevisionsaspresentanxiety/"
     },
     "FuwaiHospital": {
       "episode_count": 2,
@@ -168359,6 +168444,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/prophecytriggeredpolicy/"
+    },
+    "PropheticAmbiguityAndInterpretation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7103118075 [GLT7103118075].md",
+          "key": "21-the-history-of-the-future-glt7103118075",
+          "show": "The Rest Is History",
+          "title": "21. The History of the Future",
+          "url": "/wiki/sources/21-the-history-of-the-future-glt7103118075/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/propheticambiguityandinterpretation/"
     },
     "ProspectiveMemory": {
       "episode_count": 1,
