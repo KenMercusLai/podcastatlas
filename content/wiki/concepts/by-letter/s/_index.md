@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9435
+wiki_total_pages: 9438
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1952,6 +1952,9 @@ wiki_pages:
   - key: "StrategicCompromiseAsAgency"
     title: "Strategic Compromise as Agency / 策略性妥协保全机会"
     url: "/wiki/concepts/strategiccompromiseasagency/"
+  - key: "StrategicComputeCapacity"
+    title: "Strategic Compute Capacity"
+    url: "/wiki/concepts/strategiccomputecapacity/"
   - key: "StrategicConcessionDiplomacy"
     title: "Strategic Concession Diplomacy / 欲擒故纵式让利外交"
     url: "/wiki/concepts/strategicconcessiondiplomacy/"

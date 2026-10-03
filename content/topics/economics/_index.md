@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2169
+topic_total_pages: 2170
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6336,6 +6336,9 @@ topic_sources:
   - key: "trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439"
     title: "Trailer ｜叮！下周一早晨，来杯「声动早咖啡」吧！"
     url: "/wiki/sources/trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm"
+    title: "Trump's Superintelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm/"
   - key: "vanguard-1"
     title: "Vanguard"
     url: "/wiki/sources/vanguard-1/"

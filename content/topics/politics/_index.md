@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3020
+topic_total_pages: 3023
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -82,6 +82,9 @@ topic_concepts:
   - key: "AIAccessToJustice"
     title: "AI Access To Justice"
     url: "/wiki/concepts/aiaccesstojustice/"
+  - key: "AIAccountabilityAuditChain"
+    title: "AI Accountability Audit Chain"
+    url: "/wiki/concepts/aiaccountabilityauditchain/"
   - key: "AIAlignmentGovernance"
     title: "AI Alignment Governance"
     url: "/wiki/concepts/aialignmentgovernance/"
@@ -7394,6 +7397,9 @@ topic_entities:
   - key: "WesternSahara"
     title: "Western Sahara"
     url: "/wiki/entities/westernsahara/"
+  - key: "WhiteHouseSuperintelligenceAccord"
+    title: "White House Accord on Superintelligence"
+    url: "/wiki/entities/whitehousesuperintelligenceaccord/"
   - key: "WidgeryInquiry"
     title: "Widgery Inquiry"
     url: "/wiki/entities/widgeryinquiry/"
@@ -8601,6 +8607,9 @@ topic_sources:
   - key: "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128"
     title: "Trump rejects AI's \"effective altruism\" movement"
     url: "/wiki/sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm"
+    title: "Trump's Superintelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm/"
   - key: "tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128"
     title: "U.S. regulators eye rules for prediction markets"
     url: "/wiki/sources/tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128/"

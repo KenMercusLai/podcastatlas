@@ -28316,3 +28316,11 @@ Added source `68-the-british-empire-glt6076978409`; created `SatnamSanghera`, `E
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | Trump's Superintelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm`; created `WhiteHouseSuperintelligenceAccord`, `AIAccountabilityAuditChain`, `StrategicComputeCapacity`, and `BreakingNewsFramingUnderUncertainty`; resynthesized `VoluntaryAISafetyCommitments` and `AIIndustrySelfRegulation` from their complete preserved evidence inventories; and upgraded `AggregateIndicatorsLivedExperienceGap` to the synthesis-v1 schema from its complete preserved evidence inventory. Core synthesis: the proposed accord may move safety promises into a control-audit-board-regulator chain without becoming a licensing system, while its real force depends on primary text, auditor independence, evidence access, legal distinctions, remedies, and compliance. The episode also reframes chips, electricity, data centers, inference, and cyber defense as strategic compute capacity, and shows why improving macro indicators can coexist with negative household and electoral sentiment. One unresolved legal-characterization tension is retained: Marketplace Tech calls the accord nonbinding, while All-In says existing law can reach public commitments; these claims may coexist but cannot be settled without primary text and legal analysis. Flight-event facts, media-coordination allegations, bank-loss estimates, grid comparisons, and election forecasts remain source-scoped. Recurring host and company pages were not changed because the episode adds no durable identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,539-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

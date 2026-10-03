@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9435
+wiki_total_pages: 9438
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "AIAccessToJustice"
     title: "AI Access To Justice"
     url: "/wiki/concepts/aiaccesstojustice/"
+  - key: "AIAccountabilityAuditChain"
+    title: "AI Accountability Audit Chain"
+    url: "/wiki/concepts/aiaccountabilityauditchain/"
   - key: "AIAdoptionBaselineMeasurement"
     title: "AI Adoption Baseline Measurement"
     url: "/wiki/concepts/aiadoptionbaselinemeasurement/"

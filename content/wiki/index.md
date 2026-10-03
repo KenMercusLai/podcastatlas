@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Trump's Superintelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions](sources/all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm.md) — All-In on the White House superintelligence accord, audit and board accountability, strategic compute, macro data versus voter experience, midterm forecasts, and breaking-news framing.
 - [68. The British Empire](sources/68-the-british-empire-glt6076978409.md) — The Rest Is History with Satnam Sanghera on imperial complexity, race, Sikh identity, education, exceptionalism, and post-imperial legacies.
 - [69. England v Ukraine](sources/69-england-v-ukraine-glt5469973001.md) — The Rest Is History on Rus-Byzantine links, Crimea, the Crimean War, Welsh Huzovka, Gareth Jones, the Holodomor, heroic failure, and football.
 - [Where all those weird new drinks are coming from](sources/defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689-defaultmp3-ywr3ahjkcgo-1d6032299c869d5d0b0b061236e43043-31916689.md) — Planet Money on flavor science, functional category creation, spare canning capacity, and the remaining distribution barriers behind beverage proliferation.
@@ -3600,6 +3601,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science & Practice of Perfecting Your Sleep | Dr. Matt Walker](sources/scim3745275899-scim3745275899.md) — Early Huberman Lab interview on sleep-stage architecture, light and caffeine timing, substances, supplements, naps, insomnia treatment, and practical sleep-anxiety boundaries.
 
 ## Entities
+- [White House Accord on Superintelligence](entities/WhiteHouseSuperintelligenceAccord.md) — Voluntary frontier-AI governance initiative reportedly joining internal controls, external audits, board oversight, and possible existing-law consequences for public commitments.
 - [Satnam Sanghera](entities/SatnamSanghera.md) — British Sikh writer using accessible public history to connect empire with race, identity, institutions, and contemporary politics.
 - [Empireland](entities/Empireland.md) — Sanghera's public-history book on the British Empire's continuing presence in modern Britain.
 - [British Empire](entities/BritishEmpire.md) — Heterogeneous global formation whose institutions, inequalities, and afterlives resist a single moral score.
@@ -15782,6 +15784,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gorgo](entities/Gorgo.md) — Spartan royal woman remembered for warning Cleomenes I against an escalating attempt at bribery.
 
 ## Concepts
+- [AI Accountability Audit Chain](concepts/AIAccountabilityAuditChain.md) — Governance sequence linking internal controls, independent auditors, board oversight, public representations, and possible existing-law enforcement.
+- [Strategic Compute Capacity](concepts/StrategicComputeCapacity.md) — National capacity to supply, secure, allocate, and operate the chips, power, data centers, networks, and defensive systems required for AI.
+- [Breaking-News Framing Under Uncertainty](concepts/BreakingNewsFramingUnderUncertainty.md) — Editorial balance between verification caution, descriptive clarity, explicit attribution, and timely correction during developing events.
 - [Imperial Moral Audit](concepts/ImperialMoralAudit.md) — Critique of collapsing a heterogeneous empire into one aggregate balance of glory versus crime.
 - [Imperial Category Identity Formation](concepts/ImperialCategoryIdentityFormation.md) — Feedback process through which imperial classifications amplify existing traits and reshape later institutions and identity.
 - [Anglo-Ukrainian Relations](concepts/AngloUkrainianRelations.md) — Episodic British-Ukrainian connections through medieval service, war, industry, migration, journalism, and sport.

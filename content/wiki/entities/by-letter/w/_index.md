@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12137
+wiki_total_pages: 12138
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "WhiteHouse"
     title: "White House"
     url: "/wiki/entities/whitehouse/"
+  - key: "WhiteHouseSuperintelligenceAccord"
+    title: "White House Accord on Superintelligence"
+    url: "/wiki/entities/whitehousesuperintelligenceaccord/"
   - key: "WhiteHousePlumbers"
     title: "White House Plumbers"
     url: "/wiki/entities/whitehouseplumbers/"

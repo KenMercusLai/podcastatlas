@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3274
+topic_total_pages: 3278
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -139,6 +139,9 @@ topic_concepts:
   - key: "AIAccessToJustice"
     title: "AI Access To Justice"
     url: "/wiki/concepts/aiaccesstojustice/"
+  - key: "AIAccountabilityAuditChain"
+    title: "AI Accountability Audit Chain"
+    url: "/wiki/concepts/aiaccountabilityauditchain/"
   - key: "AIAdoptionBaselineMeasurement"
     title: "AI Adoption Baseline Measurement"
     url: "/wiki/concepts/aiadoptionbaselinemeasurement/"
@@ -4081,6 +4084,9 @@ topic_concepts:
   - key: "StrategicBorderCorridorDependence"
     title: "Strategic Border-Corridor Dependence"
     url: "/wiki/concepts/strategicbordercorridordependence/"
+  - key: "StrategicComputeCapacity"
+    title: "Strategic Compute Capacity"
+    url: "/wiki/concepts/strategiccomputecapacity/"
   - key: "StrategicGeneration"
     title: "Strategic Generation"
     url: "/wiki/concepts/strategicgeneration/"
@@ -7724,6 +7730,9 @@ topic_entities:
   - key: "WhatsNextKejiZaozhidao"
     title: "What's Next｜科技早知道"
     url: "/wiki/entities/whatsnextkejizaozhidao/"
+  - key: "WhiteHouseSuperintelligenceAccord"
+    title: "White House Accord on Superintelligence"
+    url: "/wiki/entities/whitehousesuperintelligenceaccord/"
   - key: "WholeEarthCatalog"
     title: "Whole Earth Catalog / 《全球目录》"
     url: "/wiki/entities/wholeearthcatalog/"
@@ -9429,6 +9438,9 @@ topic_sources:
   - key: "tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128"
     title: "Trump and tech leaders agree to voluntary AI safety accord"
     url: "/wiki/sources/tech-20261002-mp-tech-pod-128-tech-20261002-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm"
+    title: "Trump's Superintelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm/"
   - key: "tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128"
     title: "Uncanny AI: Why AI bots remember random, sometimes useless information"
     url: "/wiki/sources/tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128/"

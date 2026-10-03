@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9435
+wiki_total_pages: 9438
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "BrazilFiscalPoliticalStalemate"
     title: "Brazil Fiscal-Political Stalemate"
     url: "/wiki/concepts/brazilfiscalpoliticalstalemate/"
+  - key: "BreakingNewsFramingUnderUncertainty"
+    title: "Breaking-News Framing Under Uncertainty"
+    url: "/wiki/concepts/breakingnewsframingunderuncertainty/"
   - key: "BreakupWorldLoss"
     title: "Breakup World Loss"
     url: "/wiki/concepts/breakupworldloss/"
