@@ -5,7 +5,8 @@ tags: [development, endocrinology, hormones, sexual-development]
 sources:
   - essentials-how-hormones-shape-sexual-development-scim8971920142
   - how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531
-last_updated: 2026-09-22
+  - how-hormones-shape-sexual-development-scim2813244786
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Sexual differentiation pathway is the source-scoped model in which chromosomal s
 The sources reject a single-switch account of sexual development. Chromosomal patterns influence early gonadal pathways, but later outcomes depend on whether relevant hormones are produced, converted into active forms, received by target cells, and present during tissue-specific developmental windows. Testosterone-to-DHT conversion, testosterone-to-estrogen conversion in selected circuits, receptor function, and target-tissue sensitivity illustrate different gates at which outcomes can diverge.
 
 The Swan interview adds an exposure and measurement layer. Rat phthalate work is described as producing incompletely masculinized male reproductive development only during a narrow gestational window. Her human studies then use anogenital distance as a population research marker of fetal androgen exposure and report shorter distance with higher maternal biomarkers for selected anti-androgenic phthalates. The current synthesis treats this as a developmental association with reported replication, not as a complete anatomy model or individual diagnostic test.
+
+The full 2021 episode is the longer provenance behind the later Essentials edit. Its cases and animal comparisons reinforce that production, conversion, receptor response, and tissue timing can diverge, while its sexual-orientation material belongs under [[SexualOrientationDevelopmentalCorrelates]] rather than being used to infer identity from anatomy or developmental markers.
 
 ## Key Claims
 - Chromosomal, gonadal, hormonal, and morphological sex describe related but non-identical developmental layers.
@@ -34,14 +37,16 @@ The Swan interview adds an exposure and measurement layer. Rat phthalate work is
 - Sensitive window - [[how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531]] describes a narrow gestational exposure window in rat phthalate studies.
 - Human developmental marker - [[how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531]] reports maternal phthalate-metabolite associations with male infant anogenital distance and a related TIDES replication.
 - Later association - [[how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531]] reports associations between adult male anogenital distance and sperm count or prior fatherhood in selected populations.
+- Full-length provenance - [[how-hormones-shape-sexual-development-scim2813244786]] supplies the longer guevedoces, androgen-insensitivity, aromatization, animal-comparison, puberty, and developmental-correlate account later condensed in the Essentials edit.
 
 ## Counterevidence & Qualifications
-These are condensed episode-level accounts, not comprehensive developmental endocrinology or toxicology reviews. They do not fully cover sex-chromosome variation, every gene or duct pathway, receptor subtype, dose-response shape, confounder, human behavioral diversity, gender identity, or clinical diagnostic criteria. Animal timing and phenotype cannot be transferred directly to human effect size. Anogenital distance overlaps across populations and is not presented here as a home measurement, fertility test, or basis for inferring behavior or identity.
+These are episode-level accounts, not comprehensive developmental endocrinology or toxicology reviews. The full episode and its Essentials edit substantially overlap and are not independent confirmation. The sources do not fully cover sex-chromosome variation, every gene or duct pathway, receptor subtype, dose-response shape, confounder, human behavioral diversity, gender identity, or clinical diagnostic criteria. Animal timing and phenotype cannot be transferred directly to human effect size. Anogenital distance and other developmental correlates overlap across populations and are not presented here as home measurements, fertility tests, or bases for inferring behavior, orientation, or identity.
 
 ## What Changed
 - Added environmental modulation and narrow exposure windows to the layered developmental pathway.
 - Added anogenital distance as a bounded population research marker of fetal androgen signaling.
 - Added the reported phthalate association and TIDES replication without converting them into individual diagnosis or deterministic outcome.
+- Added the full 2021 episode as underlying provenance and separated its orientation correlates into a dedicated non-predictive evidence boundary.
 
 ## Related Concepts
 - [[SexSteroidFeedbackRegulation]] - broader hormone-conversion and feedback system within which developmental signaling occurs.
@@ -50,3 +55,4 @@ These are condensed episode-level accounts, not comprehensive developmental endo
 - [[HormoneContextAggression]] - behavioral branch where aromatization and receptor context complicate testosterone-only explanations.
 - [[MaleHormoneHealthPhenotyping]] - later-life measurement frame that should not be confused with fetal development.
 - [[AndrogenInterventionClinicalBoundary]] - clinical boundary for deliberately changing androgen or DHT signaling.
+- [[SexualOrientationDevelopmentalCorrelates]] - adjacent boundary for interpreting population-level biological correlates without individual prediction.

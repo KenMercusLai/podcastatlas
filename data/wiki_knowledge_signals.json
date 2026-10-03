@@ -65652,9 +65652,9 @@
       "url": "/wiki/concepts/environmentbasedagentbenchmarks/"
     },
     "EnvironmentalEndocrineDisruptionEvidenceBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM8971920142 [SCIM8971920142].md",
@@ -65676,9 +65676,16 @@
           "show": "Huberman Lab",
           "title": "The Effects of Microplastics on Your Health & How to Reduce Them",
           "url": "/wiki/sources/the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720/"
+        },
+        {
+          "episode_file": "SCIM2813244786 [SCIM2813244786].md",
+          "key": "how-hormones-shape-sexual-development-scim2813244786",
+          "show": "Huberman Lab",
+          "title": "How Hormones Shape Sexual Development",
+          "url": "/wiki/sources/how-hormones-shape-sexual-development-scim2813244786/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/environmentalendocrinedisruptionevidenceboundary/"
     },
     "EnvironmentalExposureSignalDetection": {
@@ -183619,9 +183626,9 @@
       "url": "/wiki/entities/sexpistols/"
     },
     "SexSteroidFeedbackRegulation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM1902283258 [SCIM1902283258].md",
@@ -183650,15 +183657,22 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Testosterone & Estrogen",
           "url": "/wiki/sources/how-to-optimize-testosterone-estrogen-scim7814508461/"
+        },
+        {
+          "episode_file": "SCIM2813244786 [SCIM2813244786].md",
+          "key": "how-hormones-shape-sexual-development-scim2813244786",
+          "show": "Huberman Lab",
+          "title": "How Hormones Shape Sexual Development",
+          "url": "/wiki/sources/how-hormones-shape-sexual-development-scim2813244786/"
         }
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/sexsteroidfeedbackregulation/"
     },
     "SexualDifferentiationPathway": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8971920142 [SCIM8971920142].md",
@@ -183673,9 +183687,16 @@
           "show": "Huberman Lab",
           "title": "How to Safeguard Your Hormone Health & Fertility | Dr. Shanna Swan",
           "url": "/wiki/sources/how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531/"
+        },
+        {
+          "episode_file": "SCIM2813244786 [SCIM2813244786].md",
+          "key": "how-hormones-shape-sexual-development-scim2813244786",
+          "show": "Huberman Lab",
+          "title": "How Hormones Shape Sexual Development",
+          "url": "/wiki/sources/how-hormones-shape-sexual-development-scim2813244786/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/sexualdifferentiationpathway/"
     },
     "SexualExplorationAsSelfKnowledge": {
@@ -183746,6 +183767,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/sexualharassmentnaminglag/"
+    },
+    "SexualOrientationDevelopmentalCorrelates": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2813244786 [SCIM2813244786].md",
+          "key": "how-hormones-shape-sexual-development-scim2813244786",
+          "show": "Huberman Lab",
+          "title": "How Hormones Shape Sexual Development",
+          "url": "/wiki/sources/how-hormones-shape-sexual-development-scim2813244786/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/sexualorientationdevelopmentalcorrelates/"
     },
     "SexualPersonae": {
       "episode_count": 1,

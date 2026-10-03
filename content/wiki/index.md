@@ -3452,6 +3452,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Optimize Testosterone & Estrogen](sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258.md) — Huberman Lab Essentials episode on sex-steroid feedback, aromatization, sleep, stress, light, exercise, supplements, bloodwork, and clinical risk boundaries.
 
 - [Essentials: How Hormones Shape Sexual Development](sources/essentials-how-hormones-shape-sexual-development-scim8971920142.md) — Huberman Lab Essentials episode on layered sexual differentiation, DHT and aromatase pathways, receptor-dependent effects, puberty, and evidence boundaries for environmental endocrine-disruption claims.
+- [How Hormones Shape Sexual Development](sources/how-hormones-shape-sexual-development-scim2813244786.md) — Full Huberman Lab episode on layered sexual differentiation, hormone conversion and receptor response, developmental correlates of sexual orientation, and heterogeneous endocrine-disruption evidence.
 
 - [513. America in '68: Nixon's Great Comeback (Part 6)](sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463.md) — The Rest Is History episode on Nixon's party rebuilding, controlled television campaign, law-and-order coalition, Humphrey's late recovery, and the qualified Chennault controversy.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
@@ -25155,6 +25156,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sex-Steroid Feedback Regulation](concepts/SexSteroidFeedbackRegulation.md) — Cross-sex endocrine frame joining testosterone-estrogen conversion, pituitary feedback, context, measurement, fertility, and intervention risk.
 - [Sexual Differentiation Pathway](concepts/SexualDifferentiationPathway.md) — Developmental model joining chromosomes, gonads, hormone production, enzymatic conversion, receptors, tissues, and timing.
 - [Environmental Endocrine Disruption Evidence Boundary](concepts/EnvironmentalEndocrineDisruptionEvidenceBoundary.md) — Evidence boundary separating animal hazards, population trends, mechanism claims, and human causal conclusions about endocrine-active exposures.
+- [Sexual Orientation Developmental Correlates](concepts/SexualOrientationDevelopmentalCorrelates.md) — Boundary for interpreting group-level developmental and biological correlates without deterministic or individual prediction.
 
 - [Political Comeback Groundwork](concepts/PoliticalComebackGroundwork.md) — Party service, local obligations, and primary proof that rebuild viability after electoral defeat.
 - [Controlled Television Campaign](concepts/ControlledTelevisionCampaign.md) — Staged media format that simulates voter access while reducing candidate risk and controlling visual argument.

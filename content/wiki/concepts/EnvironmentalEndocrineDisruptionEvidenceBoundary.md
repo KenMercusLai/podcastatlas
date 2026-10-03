@@ -6,7 +6,8 @@ sources:
   - essentials-how-hormones-shape-sexual-development-scim8971920142
   - how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531
   - the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720
-last_updated: 2026-09-23
+  - how-hormones-shape-sexual-development-scim2813244786
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Environmental endocrine disruption evidence boundary is the rule that mechanisti
 The three Huberman sources make the evidence ladder more specific. The sexual-development episode ranges across atrazine-associated frog abnormalities, rat radiofrequency exposure, substance mechanisms, and historical sperm measures. The Swan interview adds a stronger translational sequence from rat phthalate experiments to maternal urinary metabolites, infant anogenital distance, and reported TIDES replication. The microplastics episode adds a neighboring measurement problem: plastic particles, additives, and persistent contaminants can coexist, yet tissue detection, animal barrier-crossing, endocrine associations, and human disease causation remain different claims.
 
 Population-level claims require an additional boundary. Falling sperm counts, geographic semen-quality differences, pesticide biomarkers, menopause timing, and falling birth rates may be mutually relevant, but genetics, behavior, age, measurement, selection, co-exposures, social conditions, and healthcare can contribute differently. The current judgment supports proportionate exposure reduction and further study while rejecting both blanket dismissal and a single-cause fertility narrative.
+
+The full 2021 sexual-development episode adds detail but not independent corroboration for its later Essentials edit. Topical transfer, fungicide and herbicide animal effects, substance mechanisms, phone-exposure studies, and plant-defense hypotheses remain separate signals; their shared endocrine vocabulary does not make their exposure levels, endpoints, or human causal strength interchangeable.
 
 ## Key Claims
 - Every endocrine-disruption claim should identify exposure, dose, timing, route, species, endpoint, and study design.
@@ -36,14 +39,16 @@ Population-level claims require an additional boundary. Falling sperm counts, ge
 - Semen and trend evidence - [[how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531]] describes adult anogenital-distance associations, geographic semen-quality differences, pesticide biomarkers, and repeated sperm-count trend reviews.
 - Practical implication - [[how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531]] makes proportionate exposure caution actionable through [[EndocrineDisruptorExposureReduction]] without reporting completed fertility-outcome results for its product-swap intervention.
 - Plastic-particle boundary - [[the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720]] discusses BPA, BPS, phthalates, PFAS, hormones, semen, placenta, and development while preserving the distinction between particle detection, chemical association, and causal harm.
+- Full-episode evidence spread - [[how-hormones-shape-sexual-development-scim2813244786]] ranges from topical transfer and animal toxicology to substance mechanisms, phone-exposure studies, and sperm trends, illustrating why exposure route and evidence type must remain explicit.
 
 ## Counterevidence & Qualifications
-The condensed sources do not supply a full systematic review, all study identifiers, exposure distributions, absolute risks, detailed effect sizes, or complete competing explanations. They move among laboratory animals, wildlife, postmortem tissues, cohorts, fertility-clinic populations, partners of pregnant women, national trends, behavior measures, and demographic projections. Those populations and endpoints are not interchangeable. The current evidence does not establish that atrazine, phthalates, bisphenols, PFAS, microplastics, nanoplastics, pesticides, cannabis, alcohol outside established pregnancy harms, radiofrequency exposure, or any single household product caused an individual's anatomy, behavior, hormone status, infertility, pregnancy outcome, or other disease.
+The episode-level sources do not supply a full systematic review, all study identifiers, exposure distributions, absolute risks, detailed effect sizes, or complete competing explanations. The 2021 sexual-development episode and its later Essentials edit substantially overlap and are not independent confirmation. The sources move among laboratory animals, wildlife, postmortem tissues, cohorts, fertility-clinic populations, partners of pregnant women, national trends, behavior measures, and demographic projections. Those populations and endpoints are not interchangeable. The current evidence does not establish that atrazine, vinclozolin, phthalates, bisphenols, PFAS, microplastics, nanoplastics, pesticides, cannabis, alcohol outside established pregnancy harms, radiofrequency exposure, or any single household product caused an individual's anatomy, behavior, hormone status, infertility, pregnancy outcome, or other disease.
 
 ## What Changed
 - Added plastic-particle detection and barrier-crossing to the evidence ladder without treating them as proof of endocrine or reproductive harm.
 - Clarified that particles, additives, and persistent contaminants may overlap in exposure while remaining analytically distinct.
 - Extended the non-causal boundary to tissue, semen, placenta, hormone, and developmental findings.
+- Added the full sexual-development episode as richer provenance while explicitly discounting overlap with its Essentials edit.
 
 ## Related Concepts
 - [[MicroplasticHumanHealthEvidence]] - neighboring evidence ladder for particle detection, measurement change, mechanisms, associations, and disease causation.
