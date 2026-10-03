@@ -4536,9 +4536,9 @@
       "url": "/wiki/concepts/ashareauctionpricing/"
     },
     "ASongOfIceAndFire": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "31.冰与火之歌：虽然从不自称历史 [594509848].md",
@@ -4553,9 +4553,16 @@
           "show": "The Rest Is History",
           "title": "461. Dragons",
           "url": "/wiki/sources/461-dragons-glt6416738853/"
+        },
+        {
+          "episode_file": "GLT6687512105 [GLT6687512105].md",
+          "key": "53-game-of-thrones-glt6687512105",
+          "show": "The Rest Is History",
+          "title": "53. Game of Thrones",
+          "url": "/wiki/sources/53-game-of-thrones-glt6687512105/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/asongoficeandfire/"
     },
     "AUXGroup": {
@@ -70098,6 +70105,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/fanqiuwusun/"
     },
+    "FantasyMedievalRealism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6687512105 [GLT6687512105].md",
+          "key": "53-game-of-thrones-glt6687512105",
+          "show": "The Rest Is History",
+          "title": "53. Game of Thrones",
+          "url": "/wiki/sources/53-game-of-thrones-glt6687512105/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/fantasymedievalrealism/"
+    },
     "FarRightNormalization": {
       "episode_count": 5,
       "show_count": 2,
@@ -79726,9 +79749,9 @@
       "url": "/wiki/concepts/gamblingfrictionregulation/"
     },
     "GameOfThrones": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "31.冰与火之歌：虽然从不自称历史 [594509848].md",
@@ -79743,9 +79766,16 @@
           "show": "The Rest Is History",
           "title": "461. Dragons",
           "url": "/wiki/sources/461-dragons-glt6416738853/"
+        },
+        {
+          "episode_file": "GLT6687512105 [GLT6687512105].md",
+          "key": "53-game-of-thrones-glt6687512105",
+          "show": "The Rest Is History",
+          "title": "53. Game of Thrones",
+          "url": "/wiki/sources/53-game-of-thrones-glt6687512105/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/gameofthrones/"
     },
     "GameSpiritOrganization": {
@@ -82270,9 +82300,9 @@
       "url": "/wiki/entities/georgeorwell/"
     },
     "GeorgeRRMartin": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "36.黑暗的左手：流放与爱的未来往事 [605254522].md",
@@ -82301,9 +82331,16 @@
           "show": "The Rest Is History",
           "title": "461. Dragons",
           "url": "/wiki/sources/461-dragons-glt6416738853/"
+        },
+        {
+          "episode_file": "GLT6687512105 [GLT6687512105].md",
+          "key": "53-game-of-thrones-glt6687512105",
+          "show": "The Rest Is History",
+          "title": "53. Game of Thrones",
+          "url": "/wiki/sources/53-game-of-thrones-glt6687512105/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/georgerrmartin/"
     },
     "GeorgeSPatton": {
@@ -94291,6 +94328,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/historicalcritiquetolerance/"
+    },
+    "HistoricalFantasySourceLayering": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "31.冰与火之歌：虽然从不自称历史 [594509848].md",
+          "key": "31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848",
+          "show": "蜜獾吃书",
+          "title": "31.冰与火之歌：虽然从不自称历史",
+          "url": "/wiki/sources/31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848/"
+        },
+        {
+          "episode_file": "GLT6687512105 [GLT6687512105].md",
+          "key": "53-game-of-thrones-glt6687512105",
+          "show": "The Rest Is History",
+          "title": "53. Game of Thrones",
+          "url": "/wiki/sources/53-game-of-thrones-glt6687512105/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/historicalfantasysourcelayering/"
     },
     "HistoricalFemaleRoleModelCaution": {
       "episode_count": 2,

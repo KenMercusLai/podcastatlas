@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9471
+wiki_total_pages: 9472
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "FangshuSystematization"
     title: "Fangshu Systematization / 方术系统化"
     url: "/wiki/concepts/fangshusystematization/"
+  - key: "FantasyMedievalRealism"
+    title: "Fantasy Medieval Realism"
+    url: "/wiki/concepts/fantasymedievalrealism/"
   - key: "FarRightNormalization"
     title: "Far-Right Normalization"
     url: "/wiki/concepts/farrightnormalization/"

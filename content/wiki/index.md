@@ -3624,6 +3624,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [56. Nero](sources/56-nero-glt7241559003.md) — The Rest Is History on Nero's dynastic rise, performance politics, violence, the Great Fire, Christian punishment, collapse, and hostile afterlife.
 - [How to Learn Skills Faster](sources/scim8083153125-scim8083153125.md) — Early Huberman Lab solo episode on safe repetition density, informative errors, stage-matched practice, post-training consolidation, sleep, and mental-rehearsal limits.
 - [367-社会改革能带来性别和谐吗？](sources/367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl.md) — 独树不成林 episode using Camille Paglia and 《性面具》 to separate equal rights from total social-construction explanations and examine nature, embodiment, maternity, and the limits of reform.
+- [53. Game of Thrones](sources/53-game-of-thrones-glt6687512105.md) — The Rest Is History on Game of Thrones as influential popular medievalism whose historical layering, modern anxieties, and grim realism remain distinct from medieval social accuracy.
 
 ## Entities
 - [Paul Lay](entities/PaulLay.md) — Historian interpreting Cromwell through constitutional change, religious conviction, Irish atrocity, evidentiary caution, and later myth.
@@ -11035,8 +11036,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《讲了一百万次的故事》 / Stories Told a Million Times](entities/StoriesToldAMillionTimes.md) — Oral-literature anthology frame connecting the wiki's African and Indigenous American mythology branches through collected, translated, and retold stories.
 - [Gabriel Garcia Marquez / 加西亚·马尔克斯](entities/GabrielGarciaMarquez.md) — Writer used by episode 32 as the literary comparison point for oral myth, family storytelling, and magical-realist atmosphere.
 - [Coyote / 凯奥蒂](entities/CoyoteTrickster.md) — North American culture hero and trickster whose fire theft, salmon rules, monster defeats, and comic troublemaking extend the wiki's trickster branch.
-- [《冰与火之歌》 / A Song of Ice and Fire](entities/ASongOfIceAndFire.md) — George R. R. Martin fantasy series read by episode 31 as layered from dynastic conflict, conquest, religion, mythology, geography, disease, and unreliable in-world history.
-- [《权力的游戏》 / Game of Thrones](entities/GameOfThrones.md) — Screen-facing adaptation route into 《冰与火之歌》, used by episode 31 to distinguish visible plot from deeper fictional prehistory and adaptation limits.
+- [《冰与火之歌》 / A Song of Ice and Fire](entities/ASongOfIceAndFire.md) — Martin fantasy series joining layered premodern sources and unreliable history to modern war, climate, intervention, and catastrophic-power anxieties.
+- [《权力的游戏》 / Game of Thrones](entities/GameOfThrones.md) — Screen adaptation and major popular-medievalist filter whose persuasive bleakness is distinct from medieval social accuracy.
 - [Wars of the Roses / 玫瑰战争](entities/WarsOfTheRoses.md) — English succession conflict used by episode 31 as the strongest political analogy for Martin's noble-family struggle, with a caution against direct mapping.
 - [孟子 / Mencius](entities/Mengzi.md) — Pre-Qin Confucian thinker reread by episode 30 through Warring States politics, renyi, ruler accountability, people-based legitimacy, and resistance to unjust power.
 - [《孟子》 / Mencius](entities/MenciusText.md) — Classical text used by episode 30 as dialogue material for renyi, benevolent government, tyrant legitimacy, and Mencius's exchanges with Liang Hui Wang and Qi Xuan Wang.
@@ -12304,7 +12305,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《永久冻土》 / Permafrost](entities/PermafrostZelazny.md) — Zelazny seasonal-planet story where revenge, mycelium, and narrative fragmentation create a nonhuman voice.
 - [《富岳二十四景》 / 24 Views of Mt. Fuji, by Hokusai](entities/TwentyFourViewsOfMountFujiByHokusai.md) — Zelazny story using Hokusai's Fuji views to frame embodied resistance to coercive digital upload.
 - [Dangerous Visions](entities/DangerousVisions.md) — New Wave science-fiction anthology recommended as wider context for Zelazny's experimental field.
-- [George R. R. Martin / 乔治·R·R·马丁](entities/GeorgeRRMartin.md) — Writer read through Zelazny friendship/adaptation context and, in episode 31, through 《冰与火之歌》 as historical fantasy source layering.
+- [George R. R. Martin / 乔治·R·R·马丁](entities/GeorgeRRMartin.md) — Fantasy and science-fiction writer joining layered invented history, modern political anxiety, speculative-fiction networks, and dragons as coercive power.
 - [Isaac Asimov / 艾萨克·阿西莫夫](entities/IsaacAsimov.md) — Robot-fiction comparison point for distinguishing rule conflicts from Zelazny's trauma/personhood robot stories.
 - [Katsushika Hokusai / 葛饰北斋](entities/KatsushikaHokusai.md) — Artist whose Fuji print series supplies the formal template behind Zelazny's 《富岳二十四景》.
 - [Thirty-six Views of Mount Fuji / 富岳三十六景](entities/ThirtySixViewsOfMountFuji.md) — Hokusai print series used as the visual and structural reference for Zelazny's Fuji story.
@@ -21706,7 +21707,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Native American Oral Literature / 美洲原住民口头文学](concepts/NativeAmericanOralLiterature.md) — Transmission frame for episode 32's collected Indigenous American tales, variants, origin explanations, and colonial recording layers.
 - [Oral Myth As Magical Realism Source](concepts/OralMythMagicalRealismSource.md) — Reading frame connecting oral mythic logic, family storytelling, colonial mixture, and Marquez-style magical-realist atmosphere without overclaiming direct influence.
 - [Human-Animal Continuity In Myth](concepts/HumanAnimalContinuityInMyth.md) — Pattern where animals act as kin, spouses, creators, teachers, enemies, ancestors, and culture heroes rather than simple allegorical figures.
-- [Historical Fantasy Source Layering](concepts/HistoricalFantasySourceLayering.md) — Worldbuilding method where fantasy gains historical texture by recombining wars, conquest, religion, mythology, institutions, disease, geography, and records without becoming disguised history.
+- [Historical Fantasy Source Layering](concepts/HistoricalFantasySourceLayering.md) — Worldbuilding method recombining premodern and modern sources across periods without turning analogy, texture, or grimness into proof of historical accuracy.
 - [Fictional Historiography](concepts/FictionalHistoriography.md) — Fictional-world method where archives, legends, anachronisms, and contested memory make an invented past feel historically unstable.
 - [Early Confucian Resistance Politics / 早期儒家的反抗政治](concepts/EarlyConfucianResistancePolitics.md) — Episode 30 frame separating Mencian Confucianism from obedience-only imperial stereotypes through dignity, remonstrance, and tyrant delegitimation.
 - [Righteousness Over Profit / 义利之辨](concepts/RighteousnessOverProfit.md) — Mencian and Analects-linked ordering that puts rightness before profit, wealth, rank, and title advantage.
@@ -25379,5 +25380,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gender Conflict Construction-Embodiment Boundary / 性别冲突的建构—身体边界](concepts/GenderConflictConstructionEmbodimentBoundary.md) — Distinguishes equal-rights commitments from total construction claims while avoiding biological fatalism.
 - [Nature as Non-Moral Constraint / 自然作为非道德约束](concepts/NatureAsNonMoralConstraint.md) — View of bodily and natural forces as indifferent to justice, with civilization capable of protection and oppression.
 - [Maternal Embodiment Ambivalence / 母体具身矛盾性](concepts/MaternalEmbodimentAmbivalence.md) — Pregnancy and maternity understood as simultaneous generativity, involuntariness, power, dependence, risk, and porous bodily boundary.
+- [Fantasy Medieval Realism](concepts/FantasyMedievalRealism.md) — Framework separating grim surface authenticity from historical plausibility grounded in institutions, belief, capacity, norms, and limits.
 
 ## Syntheses
