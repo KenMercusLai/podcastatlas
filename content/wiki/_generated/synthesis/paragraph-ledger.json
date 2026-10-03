@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7c66e9f5a836d4a8f0d7db852532a4b69adce88d1241441dcf4fdb20de615b85",
       "299dbc3075a3b1904939b52650009dd5344c8d74c6fd01466c0c82b109a610b0",
       "bbc9d3299e2f5a46b71a984ffb8b7d937abe2c7a467a4d595c2626624e0664bd",
       "7dde7eaae3c6f328bcf2828bece9fa5c46f700d145542c9dad39c7e60954c10d",
@@ -782,11 +783,34 @@
       "16601a21e79111590dec9aaa39aaf37cda533c18f62b03ad841cc2b74da82008",
       "63a515e020a9c43959a46584faeb8b50d6d1df53ac7fcb6403fbaa521cb5881a"
     ],
-    "paragraph_count": 780
+    "paragraph_count": 781
   },
-  "overview_commit": "d198fcbd76c2e7b979633aea0a1c4483b28ea40f",
-  "overview_digest": "5820ae9d947aa49a822d4834fa2969973718a567ce757e10a236d2f08c5a9b10",
+  "overview_commit": "309ff225f2d5eceef09d74ee3389551fb57151dd",
+  "overview_digest": "4341131862d6b9f366facdf229a26df8106f0b2a3ce6034a3c0dbf0b89634654",
   "paragraphs": [
+    {
+      "id": "7c66e9f5a836d4a8f0d7db852532a4b69adce88d1241441dcf4fdb20de615b85",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "culture-and-media",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf|EP161-三周年特别节目：“做客”无时差，这次换我们被采访]], a third-anniversary [[WushichaYanjiusuo|无时差研究所]] retrospective on open-topic podcasting, interview craft, co-host accountability, audience criticism, commercialization, and distribution. It adds [[PodcastPlatformPortfolio]] while extending [[PodcastProductionWorkflow]], [[IndependentPodcastSustainability]], [[PodcastCommercializationFragmentation]], and [[Ximalaya|喜马拉雅]]. Its core synthesis is that a small show can sustain weekly work through preparation, complementary host roles, reciprocal obligation, listener connection, and carefully bounded commerce, but content quality alone does not preserve reach when platform priorities and audience discovery move. No settled contradiction is recorded; the episode count, platform outreach, audience transfer, product-conversion friction, and ecosystem judgments remain source-scoped February 2021 reflections.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "IndependentPodcastSustainability",
+        "PodcastCommercializationFragmentation",
+        "PodcastPlatformPortfolio",
+        "PodcastProductionWorkflow",
+        "WushichaYanjiusuo",
+        "Ximalaya",
+        "ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf"
+      ]
+    },
     {
       "id": "299dbc3075a3b1904939b52650009dd5344c8d74c6fd01466c0c82b109a610b0",
       "primary_topic": "governance-and-institutions",

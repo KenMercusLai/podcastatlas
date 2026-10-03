@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP161-三周年特别节目：“做客”无时差，这次换我们被采访](sources/ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf.md) — 无时差研究所 retrospective on open-topic podcasting, interview preparation, co-host accountability, monetization boundaries, listener criticism, and multi-platform distribution.
 - [28. The Kings of Comedy](sources/28-the-kings-of-comedy-glt5677879972.md) — The Rest Is History with Al Murray on licensed fools, wartime humor, changing taste, comic historical memory, and the rise and fragmentation of shared broadcast culture.
 - [29. Americanisation](sources/29-americanisation-glt9683168458.md) — The Rest Is History on American power through language, media, consumer culture, strategic scale, moral centrality, reciprocal exchange, and domain limits.
 - [30. A Royal Row](sources/30-a-royal-row-glt5120507213.md) — The Rest Is History on Harry and Meghan, outsider royal marriage, rival emotional norms, Commonwealth symbolism, media vulnerability, and dynastic family conflict.
@@ -6268,7 +6269,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frederick AI](entities/FrederickAI.md) — Wu Hankun's source-reported early agent project for founder task execution.
 - [《粉色悖论》 / Pink Paradox](entities/PinkParadox.md) — Wu Hankun's first AI short-film case, begun as a role-farewell project.
 - [《人口异常》 / Population Anomaly](entities/PopulationAnomaly.md) — Wu Hankun's later science-fiction AI short-film experiment.
-- [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Conversational podcast represented by culture, health, travel, creative-practice, workplace, language, macro-policy, racial-history, identity, and social-play interpretation.
+- [无时差研究所 / Wushicha Yanjiusuo](entities/WushichaYanjiusuo.md) — Conversational podcast represented by culture, health, travel, creative practice, workplace, policy, identity, social play, and self-reflective podcast production.
 - [尚玉 / Shang Yu](entities/ShangYuArtGuest.md) — EP163 guest connecting ordinary art access to museums, art markets, provenance, curation, and career entry.
 - [金老师 / Jin Laoshi](entities/JinLaoshiArtist.md) — EP163 painter and multidisciplinary-art guest connecting creative unlearning, perception, and quiet attention.
 - [亦舒 / Yi Shu](entities/YiShu.md) — Authorial baseline for EP385's comparison between the 《我的前半生》 novel's female-supported rebuilding and the TV drama's male-mentor rewrite.
@@ -12927,7 +12928,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Xu Jiayin](entities/XuJiayin.md) — Evergrande founder whose rise, financing model, reported legal endpoint, football patronage, and overextension symbolize boom-era excess.
 - [Evergrande Wealth / 恒大财富](entities/EvergrandeWealth.md) — Evergrande-linked wealth-product arm whose failed repayment spread the developer crisis to employees, owners, and retail investors.
 - [不懂球 / Budongqiu](entities/Budongqiu.md) — Football podcast context for Evergrande legacy analysis and an Adidas-versus-Nike sportswear business comparison.
-- [喜马拉雅 / Ximalaya](entities/Ximalaya.md) — Chinese audio platform used as the source URL and podcast distribution context for the Budongqiu episode.
+- [喜马拉雅 / Ximalaya](entities/Ximalaya.md) — Chinese audio platform represented through source provenance and one show's incumbent-platform dependence.
 - [潘伟力 / Pan Weili](entities/PanWeili.md) — Football reporter and commentator interpreting Evergrande Football School, Guangzhou FC memory, and post-Evergrande supporter continuity.
 - [恒大足校 / Evergrande Football School](entities/EvergrandeFootballSchool.md) — Surviving Evergrande football academy asset now tied to Guangzhou Sport University and youth-development continuity.
 - [广州体育学院 / Guangzhou Sport University](entities/GuangzhouSportUniversity.md) — Sports-education institution that acquired and stabilized the former Evergrande Football School in the source.
@@ -22094,6 +22095,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI-Native Manufacturing Transformation / AI 原生制造业转型](concepts/AINativeManufacturingTransformation.md) — Founder-led manufacturing AI shift involving data, workflow, employee capability, and organization design rather than tool rollout alone.
 - [Podcast Intimacy](concepts/PodcastIntimacy.md) — Long-form voice relationship where repeated listening, digression, and host presence make listeners feel close to a speaker or public figure.
 - [Podcast Production Workflow](concepts/PodcastProductionWorkflow.md) — Practical system for topic selection, research, transcripts, host roles, recording, editing, AI support, data, comments, source links, and release work behind a finished podcast episode.
+- [Podcast Platform Portfolio / 播客平台组合](concepts/PodcastPlatformPortfolio.md) — Multi-platform distribution practice for limiting concentration risk while respecting a small show's maintenance capacity.
 - [Podcast Authenticity Boundary](concepts/PodcastAuthenticityBoundary.md) — Trust line between acceptable preparation/performance and falsely manufactured conversation, including AI-generated audio disclosure.
 - [Brand Podcasting](concepts/BrandPodcasting.md) — Use of podcast shows or podcast-like long-form audio for brand personality, values, expertise, and trust rather than immediate conversion.
 - [Generational Technology Bridge](concepts/GenerationalTechnologyBridge.md) — Cohort frame for people old enough to remember pre-smartphone life and young enough to adopt mobile internet and AI.

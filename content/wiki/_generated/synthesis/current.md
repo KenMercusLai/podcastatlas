@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-10-04
-as_of_overview_commit: 9a4d3e92e98185545fafa3fd1c086da75fec7d86
+as_of_overview_commit: 309ff225f2d5eceef09d74ee3389551fb57151dd
 summary: "Durable progress depends on evidence, context, human judgment, capable institutions, bounded authority, implementation, shared culture, and feedback."
-episode_count: 3600
-source_count: 3600
-paragraph_count: 780
+episode_count: 3611
+source_count: 3611
+paragraph_count: 781
 topic_count: 9
 ---
 
@@ -18,7 +18,7 @@ topic_count: 9
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[AgentReliabilityVerification]], [[AgentCommandCenter]], [[TeamAgentMemory]], [[AgenticDataEngineeringHarness]], [[PolicyBoundAgenticLendingSupport]], [[ExplainableAILending]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
 - Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[ChineseStyleFDE]], [[BusinessLedAITransformation]], [[EnterpriseAIPilotPurgatory]], [[EnterpriseAIROIAudit]], [[AIDataReadiness]], [[DataFoundationFirstAIStrategy]], [[MidMarketDataTalentGap]], [[DataTeamAsBusinessPartner]], [[DataSovereignty]], [[ApplicationCompanyModelCapability]], [[LowCostModelPostTraining]], [[DataFirstPostTraining]], [[SupervisedFineTuning]], [[QLoRA]], [[AutoRLProductionLoop]], [[ScenarioLevelRewardSignal]], [[IndustrialAIROIFilter]], [[WorkerBaseModelRouting]], [[ParadoxMachines]], [[RetrievalAugmentedGeneration]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AIOfficeAgent]], [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[AgentHarness]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[MPWRAI]], [[ExplainableAILending]], [[PolicyBoundAgenticLendingSupport]], [[HumanInTheLoopCreditDecisioning]], [[NontraditionalBorrowerCreditAccess]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], [[HumanoidRobotCommercialization]], [[RealRobotDataStrategy]], [[RobotTrainingCenters]], and [[EgocentricRobotData]] all make capability depend on workflow fit, customer authority, evidence, verification, interfaces, prepared data, ownership, senior expertise, application-specific training targets, experiments, grounded data, scene fit, measurable reward, routing economics, or repeated use.
-- [[33-the-beautiful-game-glt5860295083|The football-history episode]] adds [[FootballAsMassCulture]]: codification, clubs, industrial leisure, commercial networks, family inheritance, media, and local appropriation can turn a game into civic and national culture, while [[SportsFandomNetworkEffects]] and [[WomensFootballVisibility]] show that durable belonging depends on repeated participation and whose traditions remain visible.
+- [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf|EP161]] adds that durable podcast form joins [[PodcastProductionWorkflow]] to [[IndependentPodcastSustainability]]: preparation, complementary host roles, live follow-up, reciprocal accountability, listener connection, bounded commerce, and a [[PodcastPlatformPortfolio]] together shape whether an open-topic show can continue and remain discoverable.
 - [[38-communism-glt7587678050|The Communism episode]] separates [[Communism]]'s enduring equality-and-liberation ideal from party-state implementation: [[MarxismAsPoliticalReligion]] explains doctrine, identity, ritual, and redemption, while [[VladimirLenin|Leninist]] vanguard authority, compulsory property transfer, economic remaking, and anti-pluralism create [[UtopianCommunistCoercion]]; [[MarxistLeninistStateCapacity]] is therefore bidirectional, able to organize development and survival while also enabling confiscation and repression.
 - [[90-the-western-front-glt9972346188|The Western Front episode]] joins industrial stalemate to [[WesternFrontMilitaryLearning|uneven military learning]] and [[WesternFrontPopularMemory|contested popular memory]]: defensive firepower, mass armies, and communications made breakthrough genuinely difficult; British and Allied tactical, coalition, and logistical adaptation helped defeat Germany in 1918; and the later "lions led by donkeys" frame preserved real suffering while often obscuring adaptation and military outcome.
 - Psychological and health interpretation is strongest when labels are subordinated to function across time, settings, relationships, bodily state, and impairment, as made explicit by [[PsychiatricFunctionalDiagnosis]], [[ADHDSelfDiagnosisBoundary]], and [[ClinicalBehaviorChangeRedFlags]].
@@ -47,10 +47,10 @@ Cross-domain cases separate promising tools and stories from the evidence, incen
 
 ### Culture and Media
 
-Cultural meaning is shaped by form, shared ritual, platform design, material context, place, transmission, participation, and interpretive work.
+Cultural meaning is shaped by form, preparation, relationship, shared ritual, platform design, circulation, participation, and interpretive work.
 
+- [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf|EP161]] adds that durable podcast form joins [[PodcastProductionWorkflow]] to [[IndependentPodcastSustainability]]: preparation, complementary host roles, live follow-up, reciprocal accountability, listener connection, bounded commerce, and a [[PodcastPlatformPortfolio]] together shape whether an open-topic show can continue and remain discoverable. Evidence: [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf]], [[PodcastProductionWorkflow]], [[IndependentPodcastSustainability]], [[PodcastPlatformPortfolio]], [[WushichaYanjiusuo]].
 - [[434-luther-the-revolution-begins-part-2-glt4080973410|The Luther episode]] adds a historical media case: [[ReformationPrintCulture]] made the Ninety-five Theses portable through printing and directed correspondence, so reproducibility and networked delivery mattered more than the probably legendary church-door scene in turning a university dispute into public revolt. Evidence: [[434-luther-the-revolution-begins-part-2-glt4080973410]], [[ReformationPrintCulture]], [[MartinLuther]], [[Wittenberg]], [[TheRestIsHistory]].
-- [[TheRollingStones]] show cultural form operating through both image and medium: [[CelebrityFolkDevilMoralPanic]] turned the [[RedlandsDrugCase]] into a wider conflict over drugs, class, and youth, while [[PopToAlbumRockTransition]] joined audience conduct, musicianship, and album economics to durable rock authority; [[AltamontFreeConcert]] then became a retrospective cultural endpoint without being a single cause of the decade's collapse. Evidence: [[TheRollingStones]], [[CelebrityFolkDevilMoralPanic]], [[RedlandsDrugCase]], [[PopToAlbumRockTransition]], [[AltamontFreeConcert]], [[559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077]].
 
 ### Governance and Institutions
 
@@ -82,7 +82,7 @@ Scientific and health claims require mechanisms, outcomes, uncertainty, adaptabl
 
 ### Work, Education, and Society
 
-Learning and social capacity depend on active effort, feedback, fair roles, practical routines, trusted relationships, coordinated support, and bounded technology literacy.
+Learning and social capacity depend on active effort, feedback, fair roles, practical routines, trusted relationships, coordinated support, and sustainable collaboration.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

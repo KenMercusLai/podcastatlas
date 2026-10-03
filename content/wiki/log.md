@@ -28892,3 +28892,11 @@ Added source `27-tutankhamun-glt2697164979`; created [[Tutankhamun]], [[Akhenate
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | EP161-三周年特别节目：“做客”无时差，这次换我们被采访
+
+Added source `ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf`; created [[PodcastPlatformPortfolio]]; and resynthesized [[WushichaYanjiusuo]], [[Ximalaya]], [[PodcastProductionWorkflow]], [[IndependentPodcastSustainability]], and [[PodcastCommercializationFragmentation]] from their complete preserved evidence inventories. Core synthesis: a small open-topic podcast can sustain weekly work through advance preparation, complementary host roles, reciprocal accountability, and non-financial rewards, while tipping and brand explanation may fit long-form audio better than direct-response selling and platform shifts make distribution optionality necessary. No settled contradiction was adopted. Episode counts, platform outreach, subscriber transfer, conversion friction, and ecosystem judgments remain source-scoped February 2021 reflections. Downstream synthesis refreshed the business, culture, and work topic claims, compacted the global artifact, and validated 3,611-source coverage with 781 overview paragraphs.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
