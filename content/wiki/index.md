@@ -3679,6 +3679,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [27. Tutankhamun](sources/27-tutankhamun-glt2697164979.md) — The Rest Is History on Tutankhamun's tomb, Carter's discovery, Akhenaten's Aten revolution, restoration, Amarna uncertainty, and later ideological projection.
 - [Optimize Your Learning & Creativity With Science-Based Tools](sources/optimize-your-learning-creativity-with-science-based-tools-scim9141486324.md) — Early Huberman Lab episode on goal-directed plasticity, state-matched learning and creativity, circadian routine design, deep rest, and evidence boundaries.
 - [How to Learn Faster by Using Failures, Movement & Balance](sources/how-to-learn-faster-by-using-failures-movement-balance-scim9872815940.md) — Early Huberman Lab episode on correctable errors, adult neuroplasticity, flow versus learning, arousal regulation, sleep consolidation, and safe vestibular novelty.
+- [How to Focus to Change Your Brain](sources/scim3840916606-scim3840916606.md) — Early Huberman Lab episode on attention-gated adult neuroplasticity, alertness, sensory selection, bounded focus bouts, sleep, and deep-rest consolidation.
 
 ## Entities
 - [John Major](entities/JohnMajor.md) — British Conservative prime minister whose hostile contemporary reception and improved later reputation illustrate retrospective political memory.

@@ -7,6 +7,7 @@ sources:
   - your-top-health-questions-answered-scim2882548864
   - nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635
   - optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946
+  - scim3840916606-scim3840916606
 last_updated: 2026-10-01
 knowledge_schema: synthesis-v1
 ---
@@ -21,8 +22,10 @@ Across the current evidence, acetylcholine differs from the other neuromodulator
 
 The Q&A episode narrows alpha GPC further. It is presented as an occasional late-night training focus aid that is less likely than caffeine to impair sleep, but frequent high-dose use is cautioned because of TMAO-related cardiovascular concerns and possible diminishing effect. The nicotine episode adds receptor-level and time-course context: nicotine can transiently sharpen attention through nicotinic receptor activation, but the same molecule also recruits reward, arousal, cardiovascular, tolerance, and dependence pathways. That makes this page a focus-support concept, not a general supplement or nicotine recommendation.
 
+The early plasticity episode in [[scim3840916606-scim3840916606]] adds a circuit-selection role. It distinguishes broad alertness from selective attention and proposes that acetylcholine-linked sensory filtering and nucleus-basalis signaling mark the attended circuits for later change. This sharpens acetylcholine's place inside a learning sequence, but the named sources, necessity claim, and rapid-learning mechanism remain the episode's public-neuroscience account rather than an individualized biomarker or supplement target.
+
 ## Key Claims
-- Acetylcholine is associated with focus, learning, and encoding new information.
+- Acetylcholine is associated with focus, learning, and encoding new information; in the episode model, acetylcholine-linked attention selects which active sensory or cognitive circuits are prioritized for plastic change rather than opening plasticity everywhere at once.
 - The episode treats acetylcholine as more dependent on current activity than on a simple daily phase rhythm.
 - Acetylcholine also operates at the nerve-to-muscle synapse, though the episode's main focus is brain function.
 - Baseline acetylcholine support partly depends on choline-containing foods such as eggs, beef, soybeans, chicken, fish, mushrooms, and kidney beans.
@@ -39,13 +42,14 @@ The Q&A episode narrows alpha GPC further. It is presented as an occasional late
 - TMAO and frequency caution: [[your-top-health-questions-answered-scim2882548864]] warns that frequent high-dose Alpha GPC can raise TMAO-related cardiovascular concerns and suggests limiting use because frequent exposure may diminish the effect.
 - Nicotine receptor and dependence boundary: [[nicotines-effects-on-the-brain-body-how-to-quit-smoking-or-vaping-scim2598262635]] links short-lived attention effects to nicotinic receptors while also connecting nicotine to dopamine reinforcement, norepinephrine arousal, vasoconstriction, tolerance, withdrawal, and route-dependent risk.
 - Full-length provenance: [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946]] supplies the original activity-dependent, nutrition, nicotine, alpha-GPC, and huperzine account later compressed by the Essentials edit.
+- Circuit-selection role: [[scim3840916606-scim3840916606]] separates broad alertness from attended sensory selection and uses adult tactile-versus-auditory training examples to argue that attention determines which representation changes.
 
 ## Counterevidence & Qualifications
-This page is not a recommendation to use nicotine, alpha GPC, huperzine, or any cholinergic product. The sources discourage smoking and vaping, note variable responses to cholinergic tools, and keep use tied to timing, dose, delivery kinetics, age, pregnancy, addiction vulnerability, cardiovascular risk, sleep goals, medical history, and individual tolerance rather than a universal focus protocol.
+This page is not a recommendation to use nicotine, alpha GPC, huperzine, or any cholinergic product. The sources discourage smoking and vaping, note variable responses to cholinergic tools, and keep use tied to timing, dose, delivery kinetics, age, pregnancy, addiction vulnerability, cardiovascular risk, sleep goals, medical history, and individual tolerance rather than a universal focus protocol. The early episode's brainstem-versus-forebrain source assignments, nucleus-basalis necessity, and rapid-plasticity account remain source-scoped and do not show that raising acetylcholine pharmacologically will improve learning.
 
 ## What Changed
-- Added the full-length episode as provenance for the later Essentials account.
-- Clarified that the two edits are not independent replication.
+- Added the early circuit-selection model that distinguishes broad alertness from attention to a specific learning target.
+- Kept the named cholinergic sources and necessity claim source-scoped rather than converting them into a supplement protocol.
 - Preserved nicotine dependence, delivery-speed, cardiovascular, timing, and tolerance boundaries.
 
 ## Related Concepts

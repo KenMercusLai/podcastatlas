@@ -12,6 +12,7 @@ sources:
   - sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836
   - scim3608509346-scim3608509346
   - optimize-your-learning-creativity-with-science-based-tools-scim9141486324
+  - scim3840916606-scim3840916606
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -34,6 +35,8 @@ The earlier daily-tools episode in [[scim3608509346-scim3608509346]] adds a conc
 
 [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] supplies still earlier provenance for the same afternoon placement and ties it to a two-phase learning account: alert focus initiates change, while shallow naps, NSDR-like rest, and sleep may support later consolidation. The episode's sensory-motor-learning claim is not enough to establish the effect across tasks or separate NSDR from ordinary quiet rest.
 
+The preceding [[scim3840916606-scim3840916606]] episode gives that learning use a narrower timing claim: a 20-minute NSDR-like protocol or shallow nap immediately after a spatial-memory task is described as improving learning rate. This strengthens historical provenance for post-practice rest but not the evidence tier; the supplied note does not identify full methods, effect size, replication, or whether ordinary quiet rest would perform similarly.
+
 ## Key Claims
 - NSDR or yoga nidra is presented as a possible way to downshift stress and restore subjective vigor.
 - The practice can be used during travel or after exercise without requiring specialized equipment.
@@ -41,7 +44,7 @@ The earlier daily-tools episode in [[scim3608509346-scim3608509346]] adds a conc
 - Repeated dependence on post-workout NSDR may signal excessive exercise intensity or duration.
 - Yoga nidra is proposed as a working-memory support through state change, but the cited dopamine finding is indirect evidence for that outcome.
 - NSDR may be used after nighttime waking or before divergent work as a low-risk state-setting attempt, but it is not established as an insomnia treatment, guaranteed return-to-sleep method, or creative-performance training; nor should it be collapsed into focus-and-refocus meditation.
-- A 10-30-minute session is one practical range; claims that NSDR restores focus after sleep loss or improves later sensory-motor learning remain stronger than the evidence summarized here can establish.
+- A 10-30-minute session is one practical range, and immediate post-practice use has early source provenance; claims that NSDR restores focus after sleep loss or improves later spatial or sensory-motor learning do not establish universal timing, task transfer, or superiority to quiet rest.
 
 ## Evidence
 - Travel use - [[ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965]] describes daily NSDR during travel for stress management and subjective recovery.
@@ -55,13 +58,14 @@ The earlier daily-tools episode in [[scim3608509346-scim3608509346]] adds a conc
 - Nap and nighttime-waking use - [[sleep-toolkit-tools-for-optimizing-sleep-sleep-wake-timing-scim5775234836]] presents NSDR, yoga nidra, and hypnosis as alternatives to naps and possible return-to-sleep aids.
 - Daily placement and nighttime use - [[scim3608509346-scim3608509346]] places guided downshifting after lunch and offers body-based relaxation options during nighttime wakefulness.
 - Earlier learning-consolidation account - [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] places 10-30 minutes of afternoon NSDR, yoga nidra, hypnosis, or shallow rest between demanding work periods and later learning.
+- Earliest post-practice account - [[scim3840916606-scim3840916606]] reports a 20-minute NSDR-like or shallow-nap condition immediately after a spatial-memory task as improving learning rate.
 
 ## Counterevidence & Qualifications
-The sources do not establish a universal duration, controlled working-memory, creativity, or sensory-motor effect, guaranteed return to sleep, reduced biological sleep need, full reversal of sleep deprivation, or superiority over sleep, passive rest, meditation, or clinical treatment. The reported dopamine or cortisol change should not be read as a corresponding percentage gain in cognition, creativity, or sleep restoration, and the cited pathway interpretations remain source-scoped. Severe fatigue, exercise intolerance, persistent insomnia, faintness, pain, or functional decline requires assessment rather than additional relaxation audio.
+The sources do not establish a universal duration, controlled working-memory, creativity, spatial-memory, or sensory-motor effect, guaranteed return to sleep, reduced biological sleep need, full reversal of sleep deprivation, or superiority over sleep, passive rest, meditation, or clinical treatment. The reported dopamine or cortisol change should not be read as a corresponding percentage gain in cognition, creativity, or sleep restoration, and the cited pathway interpretations remain source-scoped. The early 20-minute post-practice result lacks enough detail here to separate NSDR from a shallow nap or ordinary quiet rest. Severe fatigue, exercise intolerance, persistent insomnia, faintness, pain, or functional decline requires assessment rather than additional relaxation audio.
 
 ## What Changed
-- Added earlier provenance for afternoon deep rest between demanding work or learning periods.
-- Added the proposed sensory-motor consolidation use while keeping it unproven across tasks.
+- Added the earliest immediate post-practice 20-minute NSDR-like or shallow-nap learning claim.
+- Kept task transfer and superiority to quiet rest unresolved because the supplied note lacks full methods.
 - Preserved the boundary between a state-transition option and treatment or sleep replacement.
 
 ## Related Concepts

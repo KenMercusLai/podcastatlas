@@ -28961,6 +28961,14 @@ Ran lint. See lint-report.md for details.
 
 Added source `22-weird-wars-glt2360848948`; resynthesized [[TheRestIsHistory]], [[TomHolland]], [[DominicSandbrook]], [[HistoricalEntertainment]], and [[HistoricalEntertainmentEthics]] from their complete preserved evidence inventories. Core synthesis: wars often look “weird” because historical distance, selective memory, comic names, and vivid anecdotes displace structural causes, while responsible entertainment must restore victims, scale, and consequences. No settled contradiction was adopted. Dates, casualty estimates, poisoning stories, strategic explanations, symbolic afterlives, and the Dutch-Portuguese “first world war” label remain source-scoped; the episode's brief Abyssinian treatment does not override the fuller existing branch. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,619-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
 
+## [2026-10-04] ingest | How to Focus to Change Your Brain
+
+Added source `scim3840916606-scim3840916606`; resynthesized [[Neuroplasticity]], [[AcetylcholineFocusSupport]], [[EpinephrineAlertnessToolkit]], [[VisualFocusEffortTool]], and [[NonSleepDeepRestRecovery]] from their complete preserved evidence inventories. Core synthesis: adult learning is presented as a sequence in which a defined target, broad alertness, and selective attention mark particular circuits during practice, while sleep or deep rest may support later consolidation. No settled contradiction was adopted. The age-25 threshold, named neuromodulator requirements, reduced-blinking suggestion, exact focus-bout duration, adult-neurogenesis account, and 20-minute NSDR result remain source-scoped; later focus sources support relaxed fixation with normal blinking. Recurring host and show profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,620-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

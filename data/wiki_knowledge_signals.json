@@ -5273,9 +5273,9 @@
       "url": "/wiki/concepts/accusationquotarefusal/"
     },
     "AcetylcholineFocusSupport": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -5304,6 +5304,13 @@
           "show": "Huberman Lab",
           "title": "Optimize & Control Your Brain Chemistry to Improve Health & Performance",
           "url": "/wiki/sources/optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946/"
+        },
+        {
+          "episode_file": "SCIM3840916606 [SCIM3840916606].md",
+          "key": "scim3840916606-scim3840916606",
+          "show": "Huberman Lab",
+          "title": "How to Focus to Change Your Brain",
+          "url": "/wiki/sources/scim3840916606-scim3840916606/"
         }
       ],
       "updated": "2026-10-01",
@@ -66574,9 +66581,9 @@
       "url": "/wiki/concepts/epigeneticreprogrammingboundary/"
     },
     "EpinephrineAlertnessToolkit": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -66612,6 +66619,13 @@
           "show": "Huberman Lab",
           "title": "Boost Your Energy & Immune System with Cortisol & Adrenaline",
           "url": "/wiki/sources/scim5718648905-scim5718648905/"
+        },
+        {
+          "episode_file": "SCIM3840916606 [SCIM3840916606].md",
+          "key": "scim3840916606-scim3840916606",
+          "show": "Huberman Lab",
+          "title": "How to Focus to Change Your Brain",
+          "url": "/wiki/sources/scim3840916606-scim3840916606/"
         }
       ],
       "updated": "2026-10-03",
@@ -148365,9 +148379,9 @@
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 3,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -148445,6 +148459,13 @@
           "show": "Huberman Lab",
           "title": "Optimize Your Learning & Creativity With Science-Based Tools",
           "url": "/wiki/sources/optimize-your-learning-creativity-with-science-based-tools-scim9141486324/"
+        },
+        {
+          "episode_file": "SCIM3840916606 [SCIM3840916606].md",
+          "key": "scim3840916606-scim3840916606",
+          "show": "Huberman Lab",
+          "title": "How to Focus to Change Your Brain",
+          "url": "/wiki/sources/scim3840916606-scim3840916606/"
         }
       ],
       "updated": "2026-10-04",
@@ -150327,9 +150348,9 @@
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonSleepDeepRestRecovery": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -150393,6 +150414,13 @@
           "show": "Huberman Lab",
           "title": "Optimize Your Learning & Creativity With Science-Based Tools",
           "url": "/wiki/sources/optimize-your-learning-creativity-with-science-based-tools-scim9141486324/"
+        },
+        {
+          "episode_file": "SCIM3840916606 [SCIM3840916606].md",
+          "key": "scim3840916606-scim3840916606",
+          "show": "Huberman Lab",
+          "title": "How to Focus to Change Your Brain",
+          "url": "/wiki/sources/scim3840916606-scim3840916606/"
         }
       ],
       "updated": "2026-10-04",
@@ -213640,9 +213668,9 @@
       "url": "/wiki/concepts/visualfatiguecausebasedmanagement/"
     },
     "VisualFocusEffortTool": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM1532399364 [SCIM1532399364].md",
@@ -213692,6 +213720,13 @@
           "show": "Huberman Lab",
           "title": "How to Build Endurance in Your Brain & Body",
           "url": "/wiki/sources/scim8024795061-scim8024795061/"
+        },
+        {
+          "episode_file": "SCIM3840916606 [SCIM3840916606].md",
+          "key": "scim3840916606-scim3840916606",
+          "show": "Huberman Lab",
+          "title": "How to Focus to Change Your Brain",
+          "url": "/wiki/sources/scim3840916606-scim3840916606/"
         }
       ],
       "updated": "2026-10-03",
