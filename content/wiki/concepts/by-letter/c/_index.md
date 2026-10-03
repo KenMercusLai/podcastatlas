@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9535
+wiki_total_pages: 9537
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2624,6 +2624,9 @@ wiki_pages:
   - key: "CrossBorderWealthManagementConnect"
     title: "Cross-Border Wealth Management Connect"
     url: "/wiki/concepts/crossborderwealthmanagementconnect/"
+  - key: "CrossClassChristianConversion"
+    title: "Cross-Class Christian Conversion"
+    url: "/wiki/concepts/crossclasschristianconversion/"
   - key: "CrossClassSocialCapital"
     title: "Cross-Class Social Capital"
     url: "/wiki/concepts/crossclasssocialcapital/"

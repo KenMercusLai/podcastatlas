@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [34. St Cuthbert’s Day](sources/34-st-cuthberts-day-glt9977520388.md) — The Rest Is History on Cuthbert's ascetic life, near-memory hagiography, cross-class Christian appeal, relic cult, pilgrimage wealth, and posthumous political authority.
 - [35. The Prime Ministers’ World Cup](sources/35-the-prime-ministers-world-cup-glt6124252189.md) — The Rest Is History first-round tournament on prime-ministerial reputation, Twitter audience bias, name recognition, vivid personality, and the gap between popularity and governing substance.
 - [How to Increase Motivation & Drive](sources/how-to-increase-motivation-drive-scim9999790924.md) — Early Huberman Lab episode on dopamine-driven wanting, pleasure-pain adaptation, reward prediction error, intermittent reinforcement, and motivation safety boundaries.
 - [36. Our Greatest Prime Minister](sources/36-our-greatest-prime-minister-glt9826873277.md) — The Rest Is History listener tournament on British prime ministers, moral reputation, political archetypes, living constituencies, and Attlee's victory over Gladstone.
@@ -3660,6 +3661,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [41. Persia](sources/41-persia-glt6414068538.md) — The Rest Is History conversation with Ali Ansari on Iran/Persia continuity, pre-Islamic empires, Zoroastrian influence, paradise gardens, and Persianate administration.
 
 ## Entities
+- [St Cuthbert](entities/StCuthbert.md) — Northumbrian ascetic, healer, and saint whose remembered charity became a powerful relic cult and political symbol.
+- [Lindisfarne](entities/Lindisfarne.md) — Northumbrian monastery joining Cuthbert's relic cult, pilgrimage wealth, Viking vulnerability, and mobile institutional continuity.
 - [Benjamin Disraeli](entities/BenjaminDisraeli.md) — Conservative prime minister and novelist whose vivid persona outweighs Salisbury's administrative substance in the audience poll.
 - [Lord Salisbury](entities/LordSalisbury.md) — Three-time Conservative prime minister whose imperial-era and party significance exceed his present public recognition.
 - [Tony Blair](entities/TonyBlair.md) — Three-election Labour prime minister whose later reputation is dominated in the source by Iraq and post-office wealth.
@@ -15934,6 +15937,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Saint-Relic Political Authority](concepts/SaintRelicPoliticalAuthority.md) — Conversion of holy remains and associated objects into pilgrimage, landholding, institutional continuity, and royal legitimacy.
+- [Cross-Class Christian Conversion](concepts/CrossClassChristianConversion.md) — Religious expansion through simultaneous elite credibility and practical or moral concern for socially neglected people.
 - [Intelligence History Evidence Boundary](concepts/IntelligenceHistoryEvidenceBoundary.md) — Limits on espionage history created by secrecy, unknown agents, selective access, weeded files, and fragile digital records.
 - [Espionage Historical Impact](concepts/EspionageHistoricalImpact.md) — Framework for testing when secret collection, deception, interpretation, or covert action materially changes events.
 - [Espionage–Fiction Worldbuilding](concepts/EspionageFictionWorldbuilding.md) — Shared construction of internally credible artificial realities in narrative fiction and operational deception.

@@ -46438,6 +46438,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/crossborderecommercelocalizationpressure/"
     },
+    "CrossClassChristianConversion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9977520388 [GLT9977520388].md",
+          "key": "34-st-cuthberts-day-glt9977520388",
+          "show": "The Rest Is History",
+          "title": "34. St Cuthbert’s Day",
+          "url": "/wiki/sources/34-st-cuthberts-day-glt9977520388/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/crossclasschristianconversion/"
+    },
     "CrossCoalitionCulturalIcon": {
       "episode_count": 1,
       "show_count": 1,
@@ -123495,6 +123511,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/linxingzhi/"
     },
+    "Lindisfarne": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9977520388 [GLT9977520388].md",
+          "key": "34-st-cuthberts-day-glt9977520388",
+          "show": "The Rest Is History",
+          "title": "34. St Cuthbert’s Day",
+          "url": "/wiki/sources/34-st-cuthberts-day-glt9977520388/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/lindisfarne/"
+    },
     "LindsayCole": {
       "episode_count": 1,
       "show_count": 1,
@@ -157283,9 +157315,9 @@
       "url": "/wiki/concepts/patrioticpropheticrhetoric/"
     },
     "PatronSaintSymbolicPlasticity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5334319363 [GLT5334319363].md",
@@ -157300,9 +157332,16 @@
           "show": "The Rest Is History",
           "title": "164. Saint Patrick",
           "url": "/wiki/sources/164-saint-patrick-glt2665917893/"
+        },
+        {
+          "episode_file": "GLT9977520388 [GLT9977520388].md",
+          "key": "34-st-cuthberts-day-glt9977520388",
+          "show": "The Rest Is History",
+          "title": "34. St Cuthbert’s Day",
+          "url": "/wiki/sources/34-st-cuthberts-day-glt9977520388/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/patronsaintsymbolicplasticity/"
     },
     "PatronageLossSelfProtection": {
@@ -180477,9 +180516,9 @@
       "url": "/wiki/entities/saintcolumba/"
     },
     "SaintLegendAccretion": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5334319363 [GLT5334319363].md",
@@ -180501,9 +180540,16 @@
           "show": "The Rest Is History",
           "title": "12 Days: Good King Wenceslas and the first Gilbert & Sullivan",
           "url": "/wiki/sources/12-days-good-king-wenceslas-and-the-first-gilbert-sullivan-glt4255677286/"
+        },
+        {
+          "episode_file": "GLT9977520388 [GLT9977520388].md",
+          "key": "34-st-cuthberts-day-glt9977520388",
+          "show": "The Rest Is History",
+          "title": "34. St Cuthbert’s Day",
+          "url": "/wiki/sources/34-st-cuthberts-day-glt9977520388/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/saintlegendaccretion/"
     },
     "SaintMars": {
@@ -180569,6 +180615,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/saintpetersburg/"
+    },
+    "SaintRelicPoliticalAuthority": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9977520388 [GLT9977520388].md",
+          "key": "34-st-cuthberts-day-glt9977520388",
+          "show": "The Rest Is History",
+          "title": "34. St Cuthbert’s Day",
+          "url": "/wiki/sources/34-st-cuthberts-day-glt9977520388/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/saintrelicpoliticalauthority/"
     },
     "SaintValentine": {
       "episode_count": 1,
@@ -193371,6 +193433,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/stbricesdaymassacre/"
+    },
+    "StCuthbert": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9977520388 [GLT9977520388].md",
+          "key": "34-st-cuthberts-day-glt9977520388",
+          "show": "The Rest Is History",
+          "title": "34. St Cuthbert’s Day",
+          "url": "/wiki/sources/34-st-cuthberts-day-glt9977520388/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/stcuthbert/"
     },
     "StGeorge": {
       "episode_count": 1,

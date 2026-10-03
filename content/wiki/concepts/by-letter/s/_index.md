@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9535
+wiki_total_pages: 9537
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "SaintLegendAccretion"
     title: "Saint Legend Accretion"
     url: "/wiki/concepts/saintlegendaccretion/"
+  - key: "SaintRelicPoliticalAuthority"
+    title: "Saint-Relic Political Authority"
+    url: "/wiki/concepts/saintrelicpoliticalauthority/"
   - key: "SakokuDutchWindow"
     title: "Sakoku Dutch Window"
     url: "/wiki/concepts/sakokudutchwindow/"

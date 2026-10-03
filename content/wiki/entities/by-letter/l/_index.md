@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12227
+wiki_total_pages: 12229
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "LindaTodich"
     title: "Linda Todich"
     url: "/wiki/entities/lindatodich/"
+  - key: "Lindisfarne"
+    title: "Lindisfarne"
+    url: "/wiki/entities/lindisfarne/"
   - key: "LindsayCole"
     title: "Lindsay Cole"
     url: "/wiki/entities/lindsaycole/"
