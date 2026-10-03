@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [54. Cromwell and the Protectorate](sources/54-cromwell-and-the-protectorate-glt5457562231.md) — The Rest Is History with Paul Lay on Cromwell's elusive biography, the Protectorate's unsettled constitution, Ireland, succession failure, and contested political afterlife.
 - [How to Lose Fat With Science-Based Tools](sources/scim2441056488-scim2441056488.md) — Full Huberman Lab episode on energy balance, nervous-system control of fat use, NEAT, shivering thermogenesis, exercise sequencing, and safety-bounded secondary compounds.
 - [55. The World Cup of Gods - Preview](sources/55-the-world-cup-of-gods-preview-glt7465078719.md) — The Rest Is History preview defining a discontinued-worship eligibility rule and launching a listener-voted mythology tournament as participatory public history.
 - [57. Paris](sources/57-paris-glt6186083108.md) — The Rest Is History with Agnès Poirier on Paris as layered symbolic capital, from medieval institutional density through revolution, Haussmann, occupation, liberation, and the Left Bank.
@@ -3623,6 +3624,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [56. Nero](sources/56-nero-glt7241559003.md) — The Rest Is History on Nero's dynastic rise, performance politics, violence, the Great Fire, Christian punishment, collapse, and hostile afterlife.
 
 ## Entities
+- [Paul Lay](entities/PaulLay.md) — Historian interpreting Cromwell through constitutional change, religious conviction, Irish atrocity, evidentiary caution, and later myth.
+- [John Lambert](entities/JohnLambert.md) — Army leader and constitutional architect associated with the Instrument of Government.
 - [小元 / Xiaoyuan (returnee professional)](entities/XiaoyuanReturnee.md) — EP174 guest whose return from a stable U.S. model-risk career exposes cultural, travel, mutual-aid, and career-transfer tradeoffs.
 - [小苗 / Xiaomiao (AI researcher)](entities/XiaomiaoAIResearcher.md) — EP174 guest whose disrupted U.S. plans led to a Singapore doctorate and a discussion of corpus bias and recommendation fairness.
 - [World Cup of Gods](entities/WorldCupOfGods.md) — Listener-voted mythology tournament using discontinued worship, revival, category ambiguity, and modern reception as a comic comparative-history frame.
@@ -15845,6 +15848,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Great Fire of Rome](entities/GreatFireOfRome.md) — Nine-day urban disaster linking Neronian relief and rebuilding to arson accusation, Christian punishment, and historical memory.
 
 ## Concepts
+- [Levellers](concepts/Levellers.md) — Radical republican current joining democratic demands and freeborn rights to anti-conquest argument before suppression at Burford.
+- [Instrument of Government (1653)](concepts/InstrumentOfGovernment1653.md) — Written Protectorate framework whose formal offices did not settle military power, legitimacy, or succession.
 - [Pandemic Cross-Border Decision Compression](concepts/PandemicCrossBorderDecisionCompression.md) — Crisis process that forces deferred choices about country, family, study, work, and belonging under a suddenly narrower option set.
 - [Return-Migration Career Discontinuity](concepts/ReturnMigrationCareerDiscontinuity.md) — Break between experience accumulated abroad and the roles, signals, pay, and working conditions recognized after return.
 - [Training-Corpus Social Bias](concepts/TrainingCorpusSocialBias.md) — Learned social association and reporting-frequency distortion in human-produced language data.

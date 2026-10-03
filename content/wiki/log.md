@@ -28500,3 +28500,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 54. Cromwell and the Protectorate
+
+Added source `54-cromwell-and-the-protectorate-glt5457562231`; created `PaulLay`, `JohnLambert`, `Levellers`, and `InstrumentOfGovernment1653`; and resynthesized `OliverCromwell`, `EnglishCommonwealth`, `RichardCromwell`, `ArmyParliamentDualSovereignty`, `RepublicanFoundingWithoutSettlement`, and `ProvidentialGovernanceFailure` from their complete preserved evidence inventories. Core synthesis: Cromwell's sincere search for settlement and the Instrument of Government formalized but did not solve army power, legitimacy, or succession; documented Irish atrocities remain his responsibility even when later mythology and the longer continuum of English violence are distinguished. No settled contradiction was adopted. The “first written constitution” and non-dictatorship descriptions, casualty and control claims, popular accommodation, Leveller representativeness, and Jewish-readmission motives remain definition-dependent or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,562-source coverage; no topic claim set was dirty and global compaction was not due. All changed-page wikilinks resolve and all new canonical pages are indexed; the corpus-wide validator also reported 18 pre-existing broken links in unrelated pages.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

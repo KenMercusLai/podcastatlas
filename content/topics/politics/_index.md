@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3031
+topic_total_pages: 3032
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2269,6 +2269,9 @@ topic_concepts:
   - key: "LegitimacyIndictmentWarfare"
     title: "Legitimacy Indictment Warfare / 正当性控诉战"
     url: "/wiki/concepts/legitimacyindictmentwarfare/"
+  - key: "Levellers"
+    title: "Levellers"
+    url: "/wiki/concepts/levellers/"
   - key: "LiAsPoliticalOrder"
     title: "Li As Political Order / 礼制政治秩序"
     url: "/wiki/concepts/liaspoliticalorder/"

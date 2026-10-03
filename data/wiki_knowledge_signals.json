@@ -15800,9 +15800,9 @@
       "url": "/wiki/entities/armyofafrica/"
     },
     "ArmyParliamentDualSovereignty": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3360112790 [GLT3360112790].md",
@@ -15817,9 +15817,16 @@
           "show": "The Rest Is History",
           "title": "143. The Trial of Charles I Part 1",
           "url": "/wiki/sources/143-the-trial-of-charles-i-part-1-glt4850801452/"
+        },
+        {
+          "episode_file": "GLT5457562231 [GLT5457562231].md",
+          "key": "54-cromwell-and-the-protectorate-glt5457562231",
+          "show": "The Rest Is History",
+          "title": "54. Cromwell and the Protectorate",
+          "url": "/wiki/sources/54-cromwell-and-the-protectorate-glt5457562231/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/armyparliamentdualsovereignty/"
     },
     "ArnoldLeese": {
@@ -64380,9 +64387,9 @@
       "url": "/wiki/entities/englandnationalfootballteam/"
     },
     "EnglishCommonwealth": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3360112790 [GLT3360112790].md",
@@ -64390,9 +64397,16 @@
           "show": "The Rest Is History",
           "title": "333: The Republic of Britain: Life under Cromwell",
           "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        },
+        {
+          "episode_file": "GLT5457562231 [GLT5457562231].md",
+          "key": "54-cromwell-and-the-protectorate-glt5457562231",
+          "show": "The Rest Is History",
+          "title": "54. Cromwell and the Protectorate",
+          "url": "/wiki/sources/54-cromwell-and-the-protectorate-glt5457562231/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/englishcommonwealth/"
     },
     "EnglishDefenceLeague": {
@@ -103962,6 +103976,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/institutionaltrustaiadoption/"
     },
+    "InstrumentOfGovernment1653": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5457562231 [GLT5457562231].md",
+          "key": "54-cromwell-and-the-protectorate-glt5457562231",
+          "show": "The Rest Is History",
+          "title": "54. Cromwell and the Protectorate",
+          "url": "/wiki/sources/54-cromwell-and-the-protectorate-glt5457562231/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/instrumentofgovernment1653/"
+    },
     "InstrumentalizedReligiousPower": {
       "episode_count": 3,
       "show_count": 1,
@@ -111895,6 +111925,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/johnkruse/"
     },
+    "JohnLambert": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5457562231 [GLT5457562231].md",
+          "key": "54-cromwell-and-the-protectorate-glt5457562231",
+          "show": "The Rest Is History",
+          "title": "54. Cromwell and the Protectorate",
+          "url": "/wiki/sources/54-cromwell-and-the-protectorate-glt5457562231/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/johnlambert/"
+    },
     "JohnLennon": {
       "episode_count": 1,
       "show_count": 1,
@@ -119397,6 +119443,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/leveeenmasse/"
+    },
+    "Levellers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5457562231 [GLT5457562231].md",
+          "key": "54-cromwell-and-the-protectorate-glt5457562231",
+          "show": "The Rest Is History",
+          "title": "54. Cromwell and the Protectorate",
+          "url": "/wiki/sources/54-cromwell-and-the-protectorate-glt5457562231/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/levellers/"
     },
     "Levis": {
       "episode_count": 1,
@@ -150335,9 +150397,9 @@
       "url": "/wiki/entities/olivercarroll/"
     },
     "OliverCromwell": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT6280042699 [GLT6280042699].md",
@@ -150373,9 +150435,16 @@
           "show": "The Rest Is History",
           "title": "119. World Cup of Kings & Queens preview",
           "url": "/wiki/sources/119-world-cup-of-kings-queens-preview-glt7656399161/"
+        },
+        {
+          "episode_file": "GLT5457562231 [GLT5457562231].md",
+          "key": "54-cromwell-and-the-protectorate-glt5457562231",
+          "show": "The Rest Is History",
+          "title": "54. Cromwell and the Protectorate",
+          "url": "/wiki/sources/54-cromwell-and-the-protectorate-glt5457562231/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/olivercromwell/"
     },
     "OliverNorth": {
@@ -155460,6 +155529,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/paulkruger/"
+    },
+    "PaulLay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5457562231 [GLT5457562231].md",
+          "key": "54-cromwell-and-the-protectorate-glt5457562231",
+          "show": "The Rest Is History",
+          "title": "54. Cromwell and the Protectorate",
+          "url": "/wiki/sources/54-cromwell-and-the-protectorate-glt5457562231/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/paullay/"
     },
     "PaulRouse": {
       "episode_count": 3,
@@ -165468,9 +165553,9 @@
       "url": "/wiki/concepts/protopia/"
     },
     "ProvidentialGovernanceFailure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3360112790 [GLT3360112790].md",
@@ -165478,9 +165563,16 @@
           "show": "The Rest Is History",
           "title": "333: The Republic of Britain: Life under Cromwell",
           "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        },
+        {
+          "episode_file": "GLT5457562231 [GLT5457562231].md",
+          "key": "54-cromwell-and-the-protectorate-glt5457562231",
+          "show": "The Rest Is History",
+          "title": "54. Cromwell and the Protectorate",
+          "url": "/wiki/sources/54-cromwell-and-the-protectorate-glt5457562231/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/providentialgovernancefailure/"
     },
     "ProvisionalIRA": {
@@ -171944,9 +172036,9 @@
       "url": "/wiki/concepts/republicanemergencyviolenceprecedent/"
     },
     "RepublicanFoundingWithoutSettlement": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3779628370 [GLT3779628370].md",
@@ -171961,9 +172053,16 @@
           "show": "The Rest Is History",
           "title": "333: The Republic of Britain: Life under Cromwell",
           "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        },
+        {
+          "episode_file": "GLT5457562231 [GLT5457562231].md",
+          "key": "54-cromwell-and-the-protectorate-glt5457562231",
+          "show": "The Rest Is History",
+          "title": "54. Cromwell and the Protectorate",
+          "url": "/wiki/sources/54-cromwell-and-the-protectorate-glt5457562231/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/republicanfoundingwithoutsettlement/"
     },
     "RepublicanMemoryAgainstDictatorship": {
@@ -173799,9 +173898,9 @@
       "url": "/wiki/entities/rhondapatrick/"
     },
     "RichardCromwell": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3360112790 [GLT3360112790].md",
@@ -173809,9 +173908,16 @@
           "show": "The Rest Is History",
           "title": "333: The Republic of Britain: Life under Cromwell",
           "url": "/wiki/sources/333-the-republic-of-britain-life-under-cromwell-glt3360112790/"
+        },
+        {
+          "episode_file": "GLT5457562231 [GLT5457562231].md",
+          "key": "54-cromwell-and-the-protectorate-glt5457562231",
+          "show": "The Rest Is History",
+          "title": "54. Cromwell and the Protectorate",
+          "url": "/wiki/sources/54-cromwell-and-the-protectorate-glt5457562231/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/richardcromwell/"
     },
     "RichardFeynman": {
