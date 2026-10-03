@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [11. Brexit](sources/11-brexit-glt9171248177.md) — The Rest Is History survey of geographic, constitutional, imperial, and wartime Brexit parallels, emphasizing selective memory and the limits of historical analogy.
 - [12. Conspiracy Theories](sources/12-conspiracy-theories-glt7580472793.md) — The Rest Is History survey of conspiracy belief as meaning-making, political weaponry, grain-of-truth reasoning, scapegoating, and institutional consequence.
 - [13. Stephen Fry and Troy](sources/13-stephen-fry-and-troy-glt5875934078.md) — The Rest Is History interview on Fry's Trojan War retelling, Homeric ambiguity, grief, cunning, myth-history boundaries, double determination, and why Greek myth endures.
 - [14. Historical Fiction](sources/14-historical-fiction-glt2461510190.md) — The Rest Is History on factual constraint, imaginative truth, past mental worlds, public memory, research restraint, and ethical proximity in historical fiction.
@@ -15999,6 +16000,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Geoffrey of Monmouth](entities/GeoffreyOfMonmouth.md) — Twelfth-century writer whose synthetic British history decisively shaped Arthur and Merlin's medieval profiles.
 
 ## Concepts
+- [Historical Analogy Limits](concepts/HistoricalAnalogyLimits.md) — Method for using a past event as a bounded comparison without turning partial similarity into exact precedent, prediction, or moral equivalence.
 - [Antisemitic Conspiracy Scapegoating](concepts/AntisemiticConspiracyScapegoating.md) — Mechanism that personalizes diffuse systems and crises as coordinated Jewish control and can convert false belief into institutional violence.
 - [Mythic Double Determination](concepts/MythicDoubleDetermination.md) — Framework in which divine intervention and human action remain simultaneous explanations without erasing responsibility or evidence boundaries.
 - [Wall and Border Systems](concepts/WallBorderSystems.md) — Framework separating purpose-specific effectiveness, enforcement capacity, political legitimacy, and conflict resolution.

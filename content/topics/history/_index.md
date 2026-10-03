@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2529
+topic_total_pages: 2531
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -595,6 +595,9 @@ topic_concepts:
   - key: "HistoricalAmbiguityInMainstreamCinema"
     title: "Historical Ambiguity in Mainstream Cinema / 主流影像中的历史暧昧性"
     url: "/wiki/concepts/historicalambiguityinmainstreamcinema/"
+  - key: "HistoricalAnalogyLimits"
+    title: "Historical Analogy Limits"
+    url: "/wiki/concepts/historicalanalogylimits/"
   - key: "HistoricalBodyConcept"
     title: "Historical Body Concept"
     url: "/wiki/concepts/historicalbodyconcept/"
@@ -4947,6 +4950,9 @@ topic_sources:
   - key: "109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773"
     title: "109.闲聊左传之春秋运动会！"
     url: "/wiki/sources/109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773/"
+  - key: "11-brexit-glt9171248177"
+    title: "11. Brexit"
+    url: "/wiki/sources/11-brexit-glt9171248177/"
   - key: "110-history-of-india-in-10-buildings-glt7972990176"
     title: "110. History of India in 10 Buildings"
     url: "/wiki/sources/110-history-of-india-in-10-buildings-glt7972990176/"

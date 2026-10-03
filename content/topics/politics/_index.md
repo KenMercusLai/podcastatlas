@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3052
+topic_total_pages: 3053
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1843,6 +1843,9 @@ topic_concepts:
   - key: "HistoricalAmbiguityInMainstreamCinema"
     title: "Historical Ambiguity in Mainstream Cinema / 主流影像中的历史暧昧性"
     url: "/wiki/concepts/historicalambiguityinmainstreamcinema/"
+  - key: "HistoricalAnalogyLimits"
+    title: "Historical Analogy Limits"
+    url: "/wiki/concepts/historicalanalogylimits/"
   - key: "HistoricalMemoryContest"
     title: "Historical Memory Contest"
     url: "/wiki/concepts/historicalmemorycontest/"

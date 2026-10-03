@@ -26558,9 +26558,9 @@
       "url": "/wiki/concepts/breathinggearsco2tolerance/"
     },
     "Brexit": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
@@ -26589,9 +26589,16 @@
           "show": "The Rest Is History",
           "title": "246. The Fall of Liz Truss",
           "url": "/wiki/sources/246-the-fall-of-liz-truss-glt3484252092/"
+        },
+        {
+          "episode_file": "GLT9171248177 [GLT9171248177].md",
+          "key": "11-brexit-glt9171248177",
+          "show": "The Rest Is History",
+          "title": "11. Brexit",
+          "url": "/wiki/sources/11-brexit-glt9171248177/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/brexit/"
     },
     "BrexitEconomicFriction": {
@@ -58485,9 +58492,9 @@
       "url": "/wiki/entities/dune/"
     },
     "DunkirkEvacuation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2702093158 [GLT2702093158].md",
@@ -58495,9 +58502,16 @@
           "show": "The Rest Is History",
           "title": "43. 1940",
           "url": "/wiki/sources/43-1940-glt2702093158/"
+        },
+        {
+          "episode_file": "GLT9171248177 [GLT9171248177].md",
+          "key": "11-brexit-glt9171248177",
+          "show": "The Rest Is History",
+          "title": "11. Brexit",
+          "url": "/wiki/sources/11-brexit-glt9171248177/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/dunkirkevacuation/"
     },
     "Dunstan": {
@@ -65737,9 +65751,9 @@
       "url": "/wiki/entities/englishdefenceleague/"
     },
     "EnglishNationalIdentity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7388885434 [GLT7388885434].md",
@@ -65754,9 +65768,16 @@
           "show": "The Rest Is History",
           "title": "44. 1066",
           "url": "/wiki/sources/44-1066-glt5177665423/"
+        },
+        {
+          "episode_file": "GLT9171248177 [GLT9171248177].md",
+          "key": "11-brexit-glt9171248177",
+          "show": "The Rest Is History",
+          "title": "11. Brexit",
+          "url": "/wiki/sources/11-brexit-glt9171248177/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/englishnationalidentity/"
     },
     "EnglishNorthSouthDivide": {
@@ -96165,6 +96186,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/historicalambiguityinmainstreamcinema/"
+    },
+    "HistoricalAnalogyLimits": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9171248177 [GLT9171248177].md",
+          "key": "11-brexit-glt9171248177",
+          "show": "The Rest Is History",
+          "title": "11. Brexit",
+          "url": "/wiki/sources/11-brexit-glt9171248177/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/historicalanalogylimits/"
     },
     "HistoricalCatastropheNarrativeEthics": {
       "episode_count": 4,
@@ -165503,9 +165540,9 @@
       "url": "/wiki/concepts/postimperialculturalbranding/"
     },
     "PostImperialIdentityGap": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "92f097c7-3ae4-4a2b-87d0-e23b518b590a [92f097c7-3ae4-4a2b-87d0-e23b518b590a].md",
@@ -165520,9 +165557,16 @@
           "show": "The Rest Is History",
           "title": "68. The British Empire",
           "url": "/wiki/sources/68-the-british-empire-glt6076978409/"
+        },
+        {
+          "episode_file": "GLT9171248177 [GLT9171248177].md",
+          "key": "11-brexit-glt9171248177",
+          "show": "The Rest Is History",
+          "title": "11. Brexit",
+          "url": "/wiki/sources/11-brexit-glt9171248177/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/postimperialidentitygap/"
     },
     "PostInfectiousReturnToActivity": {

@@ -7,7 +7,8 @@ sources:
   - 396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a
   - 663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377
   - 246-the-fall-of-liz-truss-glt3484252092
-last_updated: 2026-09-30
+  - 11-brexit-glt9171248177
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ Historically, the 1975 referendum is prehistory without being a simple rehearsal
 
 The Truss source sharpens a further distinction between winning the 2016 referendum and possessing a governing plan. Leave joined incompatible post-Brexit programmes, including Johnson's spending and levelling-up emphasis and Truss's low-tax deregulatory model. The later collision between those projects helps explain why sovereignty did not settle Britain's economic strategy.
 
+The historical survey adds a memory layer rather than another outcome estimate. Britain's Brexit language draws on island separation, Reformation sovereignty, maritime and imperial reach, and the Second World War story of standing alone. Those inheritances help explain political resonance, but [[HistoricalAnalogyLimits]] matter: Britain was never simply outside Europe, and Roman withdrawal, papal conflict, Irish independence, Napoleonic exclusion, and Dunkirk differ fundamentally from EU departure.
+
 ## Key Claims
 - Brexit began politically with [[DavidCameron]]'s referendum promise and became electorally possible through Leave's emotional clarity and [[BorisJohnson]]'s support, but its deeper background includes Britain's older uneasy entry into European integration.
 - Its economic cost is framed as many smaller barriers compounding across goods, services, finance, professional recognition, investment, and regional confidence.
@@ -32,7 +35,7 @@ The Truss source sharpens a further distinction between winning the 2016 referen
 - The 2016 referendum turned older Europe-versus-Britain discomfort into a sharper identity vote than the economically framed 1975 referendum.
 - The 1975 referendum is a contrast case: continued membership won because it looked safer amid inflation and state-confidence crisis.
 - The practical post-Brexit problem is no longer only whether the vote was right, but what role the United Kingdom can credibly play now.
-- The referendum coalition did not choose one post-Brexit economic model, leaving later Conservative governments to fight over incompatible programmes.
+- The referendum coalition did not choose one post-Brexit economic model, while historical stories supplied a stronger shared language of separation than a common governing programme.
 
 ## Evidence
 - Referendum and leadership mechanics: [[keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b]] ties Brexit to Cameron's referendum gamble, Johnson's Leave support, and a 52-48 result.
@@ -43,13 +46,15 @@ The Truss source sharpens a further distinction between winning the 2016 referen
 - Sovereignty-to-capacity gap: [[keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b]] stresses limited regulatory dividend, while [[396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a]] stresses the gap between imperial-style self-image and material capacity.
 - Future-role problem: both [[keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b]] and [[396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a]] identify post-Brexit role construction as the remaining strategic question.
 - Programme conflict: [[246-the-fall-of-liz-truss-glt3484252092]] contrasts Johnson's levelling-up project with Truss's attempted "Singapore on the Thames" turn and describes the underlying problem as Brexit without a plan.
+- Historical imagination: [[11-brexit-glt9171248177]] tests Doggerland, Roman Britain, King John, the Reformation, global maritime war, Irish independence, and Dunkirk as partial mirrors whose political force exceeds their exact comparability.
 
 ## Counterevidence & Qualifications
-The sources do not claim that every British problem began with Brexit. The 声东击西 episode explicitly points to 2008-era stagnation, regional decline, inherited class signals, institutional authority loss, and global nationalist mood as additional causes. The Intelligence episode also preserves possible narrower policy openings in AI, farming, finance, and defence. The 1975 source warns against treating all British European referendums as the same event: party alignments, regional patterns, campaign tone, and economic context differed sharply. The Truss episode is immediate commentary and does not establish that Brexit alone caused the mini-budget or leadership collapse.
+The sources do not claim that every British problem began with Brexit. The 声东击西 episode explicitly points to 2008-era stagnation, regional decline, inherited class signals, institutional authority loss, and global nationalist mood as additional causes. The Intelligence episode also preserves possible narrower policy openings in AI, farming, finance, and defence. The 1975 source warns against treating all British European referendums as the same event: party alignments, regional patterns, campaign tone, and economic context differed sharply. The Truss episode is immediate commentary and does not establish that Brexit alone caused the mini-budget or leadership collapse. The historical survey is deliberately analogical and compressed; it explains narratives of difference and entanglement, not the economic or legal mechanics of withdrawal.
 
 ## What Changed
 - Added the unresolved conflict between levelling-up and deregulatory post-Brexit programmes.
 - Added the 1975 EC referendum as a contrast case that deepens Brexit prehistory without treating it as identical to 2016.
+- Added the role of island, Reformation, imperial, and wartime memory while making the limits of each analogy explicit.
 
 ## Related Concepts
 - [[UnitedKingdom]] - country whose political and identity rupture is at issue.
@@ -61,3 +66,5 @@ The sources do not claim that every British problem began with Brexit. The 声�
 - [[PostBrexitStrategicIdentity]] - national-role question after EU exit.
 - [[PostImperialIdentityGap]] - identity-narrative lens added by the 声东击西 episode.
 - [[PoliticalAuthorityCollapseCascade]] - governing failure that exposed the limits of one attempted post-Brexit programme.
+- [[HistoricalAnalogyLimits]] - guardrail for using earlier separations as partial mirrors rather than exact precedents.
+- [[EnglishNationalIdentity]] - identity tradition through which separation and European entanglement are narrated.

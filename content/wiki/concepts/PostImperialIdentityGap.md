@@ -5,7 +5,8 @@ tags: [identity, empire, politics, uk]
 sources:
   - 396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a
   - 68-the-british-empire-glt6076978409
-last_updated: 2026-10-03
+  - 11-brexit-glt9171248177
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ The bounded sources develop a British case from complementary directions. The �
 
 The gap appears when those symbolic assets cannot support the same story in everyday life or foreign policy. Regional stagnation, post-2008 productivity weakness, political turnover, public-service pressure, infrastructure complaints, and younger people's reduced opportunities make the old self-image harder to inhabit. [[Brexit]] becomes one expression because it turns dissatisfaction with economic and social change into a sovereignty narrative; the empire episode also proposes Iraq and Hong Kong diplomacy as cases where inherited assumptions can outrun historical awareness or present leverage.
 
+The earlier Brexit survey shows that the available identity repertoire predates formal empire and survives it. The Reformation, maritime war, “splendid isolation,” and Dunkirk can all be narrated as national autonomy, yet the same cases contain continental allies, pan-European movements, trade access, and dependence. The gap is therefore sustained not only by imperial nostalgia but by selective memory of British separation from Europe.
+
 ## Key Claims
 - Imperial symbols can persist after imperial capacity has faded.
 - Economic stagnation makes inherited status stories harder to sustain because daily living standards no longer validate the narrative.
@@ -26,6 +29,7 @@ The gap appears when those symbolic assets cannot support the same story in ever
 - Brexit concentrated the gap by turning Europe into both an economic necessity and an identity discomfort.
 - A post-imperial country may need to trade superiority narratives for practical capacity-building and calmer cooperation.
 - Historical amnesia can widen the gap by preserving imperial expectations while weakening knowledge of how other states remember the same past.
+- Selective memory can turn episodes of European interdependence into cleaner stories of solitary British autonomy.
 
 ## Evidence
 - Imperial residue: [[396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a]] describes Britain through empire's afterimage, monarchy, ceremony, Commonwealth, common law, and global-rule ambition.
@@ -35,13 +39,15 @@ The gap appears when those symbolic assets cannot support the same story in ever
 - Practical exit path: [[396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a]] closes by arguing Britain may need to accept a more ordinary developed-country status and solve material problems directly.
 - Exceptionalism and diplomacy: [[68-the-british-empire-glt6076978409]] connects “world-beating” political language, Brexit, Iraq, and the Hong Kong handover to an unevenly remembered imperial role.
 - Cultural lag: [[68-the-british-empire-glt6076978409]] argues that national ideals and habits do not disappear immediately when formal imperial structures end.
+- Selective autonomy memory: [[11-brexit-glt9171248177]] contrasts global-Britain, splendid-isolation, and Dunkirk narratives with the continental alliances and Allied participation those stories can obscure.
 
 ## Counterevidence & Qualifications
-Both sources are podcast interpretations grounded in broad political history rather than comprehensive economic, polling, diplomatic, or causal studies. The concept does not mean imperial memory is only false or useless; symbols can still provide continuity, legitimacy, and soft power. Nor does it establish that empire caused Brexit or Iraq by itself. The problem is the gap between symbolic inheritance, historical understanding, and present capacity.
+All three sources are podcast interpretations grounded in broad political history rather than comprehensive economic, polling, diplomatic, or causal studies. The concept does not mean imperial memory is only false or useless; symbols can still provide continuity, legitimacy, and soft power. Nor does it establish that empire caused Brexit or Iraq by itself. Several separation narratives predate the height of empire, and their presence does not prove a continuous national psychology. The problem is the gap between symbolic inheritance, historical understanding, and present capacity.
 
 ## What Changed
 - Extended the concept from domestic Brexit identity into exceptionalist language, diplomacy, war, and historical amnesia.
 - Added the distinction between usable symbolic inheritance and expectations that exceed present capacity.
+- Added selective memory of Reformation, maritime, isolation, and Dunkirk episodes as a deeper repertoire for post-imperial autonomy claims.
 
 ## Related Concepts
 - [[Brexit]] - political rupture where the gap becomes visible.
@@ -53,3 +59,4 @@ Both sources are podcast interpretations grounded in broad political history rat
 - [[PoliticalDeliveryGap]] - governing-capacity failure that can intensify identity dissatisfaction.
 - [[BritishEmpire]] - historical formation whose afterlives supply the inherited status story.
 - [[ImperialMoralAudit]] - public-memory pressure that can turn identity repair into simplified praise or blame.
+- [[HistoricalAnalogyLimits]] - method for separating the identity force of a precedent from claims of exact equivalence.
