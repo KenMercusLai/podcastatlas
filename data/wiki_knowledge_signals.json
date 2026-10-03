@@ -55967,9 +55967,9 @@
       "url": "/wiki/concepts/dopamineinvertedu/"
     },
     "DopaminePeakTroughBaseline": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -55991,9 +55991,16 @@
           "show": "Huberman Lab",
           "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
           "url": "/wiki/sources/scim6449668176-scim6449668176/"
+        },
+        {
+          "episode_file": "SCIM9999790924 [SCIM9999790924].md",
+          "key": "how-to-increase-motivation-drive-scim9999790924",
+          "show": "Huberman Lab",
+          "title": "How to Increase Motivation & Drive",
+          "url": "/wiki/sources/how-to-increase-motivation-drive-scim9999790924/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/dopaminepeaktroughbaseline/"
     },
     "DopamineToolTiming": {
@@ -56048,9 +56055,9 @@
       "url": "/wiki/concepts/dopaminetooltiming/"
     },
     "DopamineWantingLoop": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "E46 我们从未看见彼此 [lmLikSaiWXAKmjBn_p2VoaaOENXH].md",
@@ -56086,9 +56093,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight",
           "url": "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
+        },
+        {
+          "episode_file": "SCIM9999790924 [SCIM9999790924].md",
+          "key": "how-to-increase-motivation-drive-scim9999790924",
+          "show": "Huberman Lab",
+          "title": "How to Increase Motivation & Drive",
+          "url": "/wiki/sources/how-to-increase-motivation-drive-scim9999790924/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/dopaminewantingloop/"
     },
     "DostMuhammad": {
@@ -105834,9 +105848,9 @@
       "url": "/wiki/concepts/intermittentchallengehormesis/"
     },
     "IntermittentReinforcement": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "不爱直播带货的欧美消费者，为何在这家平台上大把花钱？ [1007104138].md",
@@ -105879,9 +105893,16 @@
           "show": "Huberman Lab",
           "title": "Goals Toolkit: How to Set & Achieve Your Goals",
           "url": "/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364/"
+        },
+        {
+          "episode_file": "SCIM9999790924 [SCIM9999790924].md",
+          "key": "how-to-increase-motivation-drive-scim9999790924",
+          "show": "Huberman Lab",
+          "title": "How to Increase Motivation & Drive",
+          "url": "/wiki/sources/how-to-increase-motivation-drive-scim9999790924/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/intermittentreinforcement/"
     },
     "InternalAccountabilityLoop": {
@@ -161588,9 +161609,9 @@
       "url": "/wiki/concepts/playlistasdiscoveryinterface/"
     },
     "PleasurePainBalanceAddiction": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9435481929 [SCIM9435481929].md",
@@ -161605,6 +161626,13 @@
           "show": "Huberman Lab",
           "title": "How to Control Your Sense of Pain & Pleasure",
           "url": "/wiki/sources/scim2452395341-scim2452395341/"
+        },
+        {
+          "episode_file": "SCIM9999790924 [SCIM9999790924].md",
+          "key": "how-to-increase-motivation-drive-scim9999790924",
+          "show": "Huberman Lab",
+          "title": "How to Increase Motivation & Drive",
+          "url": "/wiki/sources/how-to-increase-motivation-drive-scim9999790924/"
         }
       ],
       "updated": "2026-10-03",
@@ -175820,9 +175848,9 @@
       "url": "/wiki/concepts/rewardfitnessrisk/"
     },
     "RewardPredictionErrorLearning": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -175851,6 +175879,13 @@
           "show": "Huberman Lab",
           "title": "How to Control Your Sense of Pain & Pleasure",
           "url": "/wiki/sources/scim2452395341-scim2452395341/"
+        },
+        {
+          "episode_file": "SCIM9999790924 [SCIM9999790924].md",
+          "key": "how-to-increase-motivation-drive-scim9999790924",
+          "show": "Huberman Lab",
+          "title": "How to Increase Motivation & Drive",
+          "url": "/wiki/sources/how-to-increase-motivation-drive-scim9999790924/"
         }
       ],
       "updated": "2026-10-03",

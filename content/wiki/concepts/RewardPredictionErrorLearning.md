@@ -7,6 +7,7 @@ sources:
   - the-science-of-setting-achieving-goals-scim1292734289
   - the-science-of-making-breaking-habits-scim6848516659
   - scim2452395341-scim2452395341
+  - how-to-increase-motivation-drive-scim9999790924
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -23,7 +24,7 @@ In [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim260295028
 
 A habit-sequence application in [[the-science-of-making-breaking-habits-scim6848516659]] proposes attaching positive anticipation not only to completion but also to preparation, effort, execution, and the period afterward. This “whole envelope” framing is best treated as behavior design built on reward-prediction language, not proof that every stage receives one measurable dopamine signal.
 
-The earlier pain-and-pleasure episode contributes the simplest version of the model: dopamine can shift toward anticipation as a reward becomes predictable, while intermittent or uncertain outcomes can sustain pursuit more strongly than guaranteed delivery. That bridge to variable reward schedules is behaviorally important, but it does not make every intermittent reward beneficial or reduce reinforcement learning to dopamine alone.
+The two earlier solo episodes contribute the simplest version of the model: dopamine can shift toward anticipation as a reward becomes predictable, while novelty, surprise, omission, and intermittent outcomes alter later pursuit. That bridge to variable reward schedules is behaviorally important, but it does not make every intermittent reward beneficial or reduce reinforcement learning to dopamine alone.
 
 ## Key Claims
 - Dopamine signals can occur before reward when an organism anticipates a desired outcome.
@@ -42,13 +43,14 @@ The earlier pain-and-pleasure episode contributes the simplest version of the mo
 - Goal-design application: [[the-science-of-setting-achieving-goals-scim1292734289]] connects expectation-sensitive dopamine signals to milestone timing and progress assessment.
 - Habit-envelope application: [[the-science-of-making-breaking-habits-scim6848516659]] recommends positively anticipating the full task bracket rather than rewarding completion alone.
 - Early anticipation and uncertainty account: [[scim2452395341-scim2452395341]] distinguishes dopamine-linked pursuit from pleasure and connects predictable versus intermittent reward to later motivation.
+- Early subtraction model: [[how-to-increase-motivation-drive-scim9999790924]] presents reward prediction error as actual response relative to expected response and links omitted expected reward to a motivational crash.
 
 ## Counterevidence & Qualifications
-This page captures applied podcast explanations, not a full computational reinforcement-learning model. The supplied notes do not provide the underlying study methods or justify a universal milestone schedule, task-envelope technique, intermittent-reward protocol, or dopamine response at every stage of a behavior. Variable rewards can also support gambling-like compulsion, manipulation, or unstable motivation. The synthesis should not imply that all motivation, learning, addiction, habit formation, or procrastination is reducible to one dopamine signal or one prediction-error equation.
+This page captures applied podcast explanations, not a full computational reinforcement-learning model. The supplied notes do not provide the underlying study methods or justify a literal subtraction assay in an individual, a universal milestone schedule, a task-envelope technique, an intermittent-reward protocol, or a dopamine response at every stage of behavior. Variable rewards can also support gambling-like compulsion, manipulation, or unstable motivation. The synthesis should not imply that all motivation, learning, addiction, habit formation, or procrastination is reducible to one dopamine signal or one prediction-error equation.
 
 ## What Changed
-- Added the earlier anticipation and intermittent-reward account as provenance for expectation-sensitive pursuit.
-- Clarified that uncertain reward can strengthen motivation without becoming a universal behavior-design recommendation.
+- Added the March 2021 expectation-minus-outcome framing and omitted-reward crash as early provenance.
+- Clarified that the simplified subtraction account is explanatory, not an individual dopamine measurement or universal reward protocol.
 
 ## Related Concepts
 - [[DopaminePeakTroughBaseline]] - baseline and trough context in which reward updates affect motivation.

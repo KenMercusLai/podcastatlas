@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Increase Motivation & Drive](sources/how-to-increase-motivation-drive-scim9999790924.md) — Early Huberman Lab episode on dopamine-driven wanting, pleasure-pain adaptation, reward prediction error, intermittent reinforcement, and motivation safety boundaries.
 - [36. Our Greatest Prime Minister](sources/36-our-greatest-prime-minister-glt9826873277.md) — The Rest Is History listener tournament on British prime ministers, moral reputation, political archetypes, living constituencies, and Attlee's victory over Gladstone.
 - [37. Spies, with Ben Macintyre](sources/37-spies-with-ben-macintyre-glt4382644548.md) — The Rest Is History with Ben Macintyre on fiction and espionage, wartime deception, Gordievsky and nuclear misperception, spy motives, historical impact, and archival limits.
 - [38. Communism](sources/38-communism-glt7587678050.md) — The Rest Is History on communist ideals, Christian and utopian precedents, Marx and Engels, Leninist adaptation, Stalinist coercion, political religion, and the persistence of formal communist states.

@@ -5,6 +5,7 @@ tags: [addiction, dopamine, homeostasis, craving, withdrawal]
 sources:
   - understanding-treating-addiction-dr-anna-lembke-scim9435481929
   - scim2452395341-scim2452395341
+  - how-to-increase-motivation-drive-scim9999790924
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,7 @@ Pleasure-pain balance in addiction is Anna Lembke's opponent-process model in wh
 
 The model applies conceptually to drugs and to highly reinforcing behaviors, but it is not a device for measuring an individual's dopamine or diagnosing every strong preference. Its practical value is to explain why repeated restimulation can deepen a cycle, why ordinary activities may feel flat during early abstinence, and why recovery often needs time, competing sources of reward, environmental barriers, and appropriate clinical support.
 
-The earlier solo pain-and-pleasure episode supplies convergent provenance rather than a separate clinical model. It describes large or repeated chemically driven reward peaks as recruiting an opposing disappointment or pain response, with habituation making ordinary pleasures less effective. The later Lembke interview gives this account its fuller clinical scope and recovery boundaries.
+Two earlier solo episodes supply convergent provenance rather than separate clinical models. They describe reward as recruiting an opposing disappointment, craving, or pain response, with repetition diminishing the pleasurable side and strengthening the compensatory side. The later Lembke interview gives this account its fuller clinical scope, abstinence qualifications, and recovery boundaries.
 
 ## Key Claims
 - Pleasure can recruit a compensatory pain response that helps return the system toward homeostasis.
@@ -35,13 +36,14 @@ The earlier solo pain-and-pleasure episode supplies convergent provenance rather
 - Functional shift - [[understanding-treating-addiction-dr-anna-lembke-scim9435481929]] says addictive behavior can move from pleasure seeking to avoidance of withdrawal and pain.
 - Cue and recovery implications - [[understanding-treating-addiction-dr-anna-lembke-scim9435481929]] links anticipatory dopamine, triggers, abstinence, barriers, and renewed interest in ordinary activity.
 - Earlier opponent-process framing - [[scim2452395341-scim2452395341]] connects repeated high reward-system activation with habituation, reduced ordinary pleasure, and stronger opposing discomfort.
+- Early motivation framing - [[how-to-increase-motivation-drive-scim9999790924]] describes repeated pursuit as producing less pleasure, more craving, and a stronger post-reward crash.
 
 ## Counterevidence & Qualifications
-This is a public clinical explanatory model, not a direct assay of dopamine, receptor density, or an individual's diagnosis. The two Huberman Lab sources overlap substantially and should not be counted as independent confirmation. They do not establish one universal withdrawal curve, prove that all behavioral compulsions share identical biology, or show that 30 days is sufficient for every person. Depression, anhedonia, insomnia, anxiety, and compulsive behavior have multiple possible causes. Alcohol and some drug withdrawal can be medically dangerous.
+This is a public clinical explanatory model, not a direct assay of dopamine, receptor density, or an individual's diagnosis. The three Huberman Lab sources overlap substantially and should not be counted as independent confirmation. They do not establish one universal withdrawal curve, prove that all behavioral compulsions share identical biology, or show that 30 days is sufficient for every person. Depression, anhedonia, insomnia, anxiety, and compulsive behavior have multiple possible causes. Alcohol and some drug withdrawal can be medically dangerous.
 
 ## What Changed
-- Added the earlier solo episode as convergent provenance for opponent-process adaptation.
-- Kept the later Lembke interview as the stronger clinical and recovery frame.
+- Added the March 2021 motivation episode as the earliest current provenance for diminishing pleasure and strengthening craving.
+- Preserved the Lembke interview as the stronger clinical and recovery frame rather than treating overlapping episodes as replication.
 
 ## Related Concepts
 - [[DopaminePeakTroughBaseline]] - adjacent dynamic account of reward peaks, subsequent troughs, and altered future motivation.
