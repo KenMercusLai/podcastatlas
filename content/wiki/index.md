@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [45. Top Ten Eunuchs](sources/45-top-ten-eunuchs-glt5221212176.md) — The Rest Is History on castration through captivity, court power, punishment, family economics, religion, performance, and the unequal relationship between bodily coercion and later mobility.
 - [EP169-美国社会如何制造“模范少数”和背后的隐性歧视](sources/ep169-meiguo-shehui-ruhe-zhizao-mofan-shaoshu-he-beihou-de-yinxing-qishi-ckwriaiewlfyabaaaacimxkl.md) — 无时差研究所 on model-minority and perpetual-foreigner stereotypes, gendered representation, geopolitical spillover, microaggressions, and Asian diaspora belonging.
 - [46. Culture Wars](sources/46-culture-wars-glt4237848862.md) — The Rest Is History on recurring identity conflict, post-Christian moral genealogy, symbolic politics, institutional change, and pluralist containment.
 - [47. The Seven Years' War](sources/47-the-seven-years-war-glt8800494407.md) — The Rest Is History with Dan Snow on the conflict's global theaters, Britain's fiscal-military and naval capacity, imperial expansion, slavery and Company corruption, and revolutionary blowback.
@@ -3640,6 +3641,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Control Your Metabolism by Thyroid & Growth Hormone](sources/scim2147325995-scim2147325995.md) — Full-length Huberman Lab episode on thyroid-axis nutrient sufficiency, cellular metabolism, slow-wave-sleep-linked growth hormone, exercise, amino-acid pathways, heat, and medical safety boundaries.
 
 ## Entities
+- [Bagoas](entities/Bagoas.md) — Persian eunuch whose contested association with Darius III and Alexander exposes the politics and reception of intimate court access.
+- [Boston Corbett](entities/BostonCorbett.md) — Union soldier who killed John Wilkes Booth and whose self-castration is presented through intense religious literalism and uncertain mental-health causes.
+- [Samson Rowley / Hassan Aga](entities/SamsonRowley.md) — English captive who was castrated, converted, and later became treasurer in Ottoman-linked Algiers.
+- [Narses](entities/Narses.md) — Eastern Roman eunuch whose treasury service, Nika intervention, Italian generalship, and administration crossed civil and military authority.
+- [Farinelli](entities/Farinelli.md) — Celebrated eighteenth-century castrato whose exceptional success exposes the unequal labor system built on childhood surgery.
+- [Peter Abelard](entities/PeterAbelard.md) — Medieval theologian and teacher whose punitive castration redirected an already prominent intellectual life.
+- [Kondrati Selivanov](entities/KondratiSelivanov.md) — Russian Skoptsy leader who joined messianic authority to organized bodily removal as spiritual purification.
+- [Zheng He / 郑和](entities/ZhengHe.md) — Muslim-born Yunnan captive and Ming eunuch who commanded seven major Indian Ocean voyages.
 - [Stop Asian Hate](entities/StopAsianHate.md) — Public-action frame connecting pandemic-era anti-Asian violence to testimony, coalition-building, and longer histories of exclusion.
 - [Vincent Chin / 陈果仁](entities/VincentChin.md) — Chinese American victim whose anti-Japanese misidentification illustrates racialized category collapse.
 - [Symmachus](entities/Symmachus.md) — Late Roman senator represented through his toleration argument for restoring the Altar of Victory.
@@ -4031,7 +4040,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Judas Iscariot](entities/JudasIscariot.md) — New Testament disciple whose betrayal memory is used as a tightly bounded reality-show archetype.
 - [Lola Montez](entities/LolaMontez.md) — Irish-born performer whose Spanish stage persona, transnational celebrity, Bavarian prominence, and scandals shaped her public image.
 - [Olympias](entities/Olympias.md) — Macedonian queen represented through dynastic position, marital conflict, assassination rumor, and snake imagery.
-- [Sporus](entities/Sporus.md) — Young person in Nero's court whose coercive imperial history is distinguished from a later comic bombshell role.
+- [Sporus](entities/Sporus.md) — Freeborn youth subjected to Nero's coercive castration and Poppaea role, later imperial transfer, threatened spectacle, and comic afterlife.
 - [Stanley Baldwin](entities/StanleyBaldwin.md) — British prime minister associated with interwar parliamentary stability, rural-suburban imagery, and a later comic family portrait.
 - [Robert Colls](entities/RobertColls.md) — Historian and author interpreting Orwell through empire, class, Englishness, socialism, anti-communism, and literary politics.
 - [Animal Farm](entities/AnimalFarm.md) — Orwell fable read as both Soviet allegory and a broader warning about revolutionary elite replacement.
@@ -15875,6 +15884,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scoff: A History of Food and Class in Britain](entities/ScoffBook.md) — Pen Vogler's book framing food as evidence for class and social change.
 
 ## Concepts
+- [Castration, Coercion, and Mobility](concepts/CastrationCoercionAndMobility.md) — Framework preserving original bodily violence when survivors later gain office, income, status, or renewed agency.
+- [Eunuch Court Power](concepts/EunuchCourtPower.md) — Authority built from intimate ruler access and perceived exclusion from succession, extending into administration, diplomacy, and war.
+- [Castrati](concepts/Castrati.md) — Musical labor system joining childhood surgery, family investment, institutional demand, rare celebrity, and unequal outcomes.
+- [Religious Self-Castration](concepts/ReligiousSelfCastration.md) — Disputed, individual, and sectarian bodily practices framed through purity, temptation, sin, or salvation.
 - [Model Minority Stereotype / 模范少数族裔刻板印象](concepts/ModelMinorityStereotype.md) — Apparently positive success stereotype that can erase effort, inequality, need, leadership, and individual difference.
 - [Perpetual Foreigner Stereotype / 永远的外国人刻板印象](concepts/PerpetualForeignerStereotype.md) — Treatment of Asian-looking people as conditionally loyal or externally rooted regardless of citizenship and generation.
 - [Gendered Asian Stereotypes / 亚裔性别化刻板印象](concepts/GenderedAsianStereotypes.md) — Racial scripts constraining Asian men and women through emasculation, martial reduction, submission, and sexualization.

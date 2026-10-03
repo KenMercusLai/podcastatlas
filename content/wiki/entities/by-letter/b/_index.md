@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12189
+wiki_total_pages: 12197
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "Baghdad"
     title: "Baghdad"
     url: "/wiki/entities/baghdad/"
+  - key: "Bagoas"
+    title: "Bagoas"
+    url: "/wiki/entities/bagoas/"
   - key: "Bahrain"
     title: "Bahrain"
     url: "/wiki/entities/bahrain/"
@@ -938,6 +941,9 @@ wiki_pages:
   - key: "Boston"
     title: "Boston"
     url: "/wiki/entities/boston/"
+  - key: "BostonCorbett"
+    title: "Boston Corbett"
+    url: "/wiki/entities/bostoncorbett/"
   - key: "BostonDynamics"
     title: "Boston Dynamics"
     url: "/wiki/entities/bostondynamics/"

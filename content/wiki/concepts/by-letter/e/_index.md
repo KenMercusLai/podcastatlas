@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9493
+wiki_total_pages: 9497
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "EugenicGovernance"
     title: "Eugenic Governance / 优生学治理"
     url: "/wiki/concepts/eugenicgovernance/"
+  - key: "EunuchCourtPower"
+    title: "Eunuch Court Power"
+    url: "/wiki/concepts/eunuchcourtpower/"
   - key: "EunuchPatronageViolenceShield"
     title: "Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行"
     url: "/wiki/concepts/eunuchpatronageviolenceshield/"

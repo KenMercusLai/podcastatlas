@@ -4400,6 +4400,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "45-top-ten-eunuchs-glt5221212176": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770": [
     {
       "key": "history",
@@ -19307,6 +19319,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "Castrati": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CasualtySparingSurrender": [
     {
       "key": "history",
@@ -32558,6 +32577,13 @@
     }
   ],
   "FarewellMyConcubine": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "Farinelli": [
     {
       "key": "culture",
       "label": "Culture",

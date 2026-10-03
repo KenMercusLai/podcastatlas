@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12189
+wiki_total_pages: 12197
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "Samnites"
     title: "Samnites / 萨莫奈人"
     url: "/wiki/entities/samnites/"
+  - key: "SamsonRowley"
+    title: "Samson Rowley / Hassan Aga"
+    url: "/wiki/entities/samsonrowley/"
   - key: "Samsung"
     title: "Samsung"
     url: "/wiki/entities/samsung/"

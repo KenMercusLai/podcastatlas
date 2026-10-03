@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12189
+wiki_total_pages: 12197
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "KomodoIsland"
     title: "Komodo Island / 科莫多岛"
     url: "/wiki/entities/komodoisland/"
+  - key: "KondratiSelivanov"
+    title: "Kondrati Selivanov"
+    url: "/wiki/entities/kondratiselivanov/"
   - key: "KongTao"
     title: "Kong Tao / 孔涛"
     url: "/wiki/entities/kongtao/"

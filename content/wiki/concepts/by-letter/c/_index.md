@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9493
+wiki_total_pages: 9497
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -380,6 +380,12 @@ wiki_pages:
   - key: "CastleBasedPrivateLordship"
     title: "Castle-Based Private Lordship"
     url: "/wiki/concepts/castlebasedprivatelordship/"
+  - key: "Castrati"
+    title: "Castrati"
+    url: "/wiki/concepts/castrati/"
+  - key: "CastrationCoercionAndMobility"
+    title: "Castration, Coercion, and Mobility"
+    url: "/wiki/concepts/castrationcoercionandmobility/"
   - key: "CasualtySparingSurrender"
     title: "Casualty-Sparing Surrender / 保全生灵式投降"
     url: "/wiki/concepts/casualtysparingsurrender/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3078
+topic_total_pages: 3081
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -592,6 +592,9 @@ topic_concepts:
   - key: "CarrierBagNarrative"
     title: "Carrier-Bag Narrative / 载物袋叙事"
     url: "/wiki/concepts/carrierbagnarrative/"
+  - key: "Castrati"
+    title: "Castrati"
+    url: "/wiki/concepts/castrati/"
   - key: "CatCulturalAmbivalence"
     title: "Cat Cultural Ambivalence"
     url: "/wiki/concepts/catculturalambivalence/"
@@ -4154,6 +4157,9 @@ topic_entities:
   - key: "Fanatics"
     title: "Fanatics"
     url: "/wiki/entities/fanatics/"
+  - key: "Farinelli"
+    title: "Farinelli"
+    url: "/wiki/entities/farinelli/"
   - key: "FawltyTowers"
     title: "Fawlty Towers"
     url: "/wiki/entities/fawltytowers/"
@@ -8508,6 +8514,9 @@ topic_sources:
   - key: "443-lord-byron-death-of-a-vampire-part-4-glt3247503776"
     title: "443. Lord Byron: Death of a Vampire (Part 4)"
     url: "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
+  - key: "45-top-ten-eunuchs-glt5221212176"
+    title: "45. Top Ten Eunuchs"
+    url: "/wiki/sources/45-top-ten-eunuchs-glt5221212176/"
   - key: "45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112"
     title: "45.机器人大师：多希望莱姆能评价一下ChatGPT啊！"
     url: "/wiki/sources/45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112/"
