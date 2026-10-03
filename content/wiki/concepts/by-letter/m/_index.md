@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9472
+wiki_total_pages: 9474
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "MetisHeroicCunning"
     title: "Metis Heroic Cunning / 莫提斯英雄狡智"
     url: "/wiki/concepts/metisheroiccunning/"
+  - key: "MexicaSacrificeReligiousImperialLogic"
+    title: "Mexica Sacrifice: Religious and Imperial Logics"
+    url: "/wiki/concepts/mexicasacrificereligiousimperiallogic/"
   - key: "MexicanPostRevolutionaryCulturalNationalism"
     title: "Mexican Post-Revolutionary Cultural Nationalism"
     url: "/wiki/concepts/mexicanpostrevolutionaryculturalnationalism/"

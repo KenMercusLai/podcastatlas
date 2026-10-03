@@ -12,7 +12,8 @@ sources:
   - 386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852
   - 385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457
   - 384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029
-last_updated: 2026-09-27
+  - 51-aztecs-glt9590586130
+last_updated: 2026-10-03
 ---
 
 ## Overview
@@ -21,15 +22,17 @@ The Mexica, commonly called Aztec, Empire was the Mesoamerican political order c
 
 ## Current Profile
 
-The episodes treat the empire first as a regional and urban power rather than only as the object of conquest. Grijalva's coast expedition heard Totonac accounts of an inland tribute-taking power and received gold and jewels from an imperial envoy before any Spanish march toward the capital. Those exchanges disclosed both wealth and political grievance, but communication was fragmentary and cannot be read as transparent submission or alliance. Before the inland march, further Totonac contacts and emissaries led by Tendile exposed the Spaniards to tributary rivalry, formal diplomacy, and imperial wealth. Cannon and horsemanship frightened the visitors, but the series rejects the traditional claim that Mexica observers simply identified Spaniards as gods; deference, translation, status language, and later Spanish memory offer competing explanations.
+The episodes treat the empire first as a migrating, integrating, regional, and urban power rather than only as the object of conquest. The Mexica remembered both Chichimeca toughness and Toltec cultural inheritance; movement south, intermarriage, alliance, conquest, council participation, and tribute produced a layered political identity rather than a timeless or isolated people. Grijalva's coast expedition later heard Totonac accounts of an inland tribute-taking power and received gold and jewels from an imperial envoy before any Spanish march toward the capital. Those exchanges disclosed both wealth and political grievance, but communication was fragmentary and cannot be read as transparent submission or alliance. Before the inland march, further Totonac contacts and emissaries led by Tendile exposed the Spaniards to tributary rivalry, formal diplomacy, and imperial wealth. Cannon and horsemanship frightened the visitors, but the sources reject the traditional claim that Mexica observers simply identified Spaniards as gods; deference, translation, status language, and later Spanish memory offer competing explanations.
 
-Tribute claims, emissaries, surrounding rivals, allied cities, causeways, lake transport, intensive agriculture, and the scale of the Valley of Mexico show both reach and political limits: [[Tlaxcala]] remained outside tribute and became the coalition's indispensable anti-Mexica base. Tenochtitlan's regulated market, neighborhoods, officials, workshops, records, gardens, palace collections, cleanliness, and ceremonial center show administrative capacity and concentrated power. Human sacrifice is presented as real and grounded in a cosmology of sustaining the universe, while the precise temple descriptions remain filtered through Spanish testimony. [[Moctezuma]]'s hospitality and surveillance may have contained the Spaniards within this system before he became their hostage.
+Tribute claims, emissaries, surrounding rivals, allied cities, causeways, lake transport, intensive agriculture, and the scale of the Valley of Mexico show both reach and political limits: [[Tlaxcala]] remained outside tribute and became the coalition's indispensable anti-Mexica base. Tenochtitlan's regulated market, kin-rooted neighborhoods, officials, workshops, records, gardens, docks, aqueducts, palace collections, cleanliness, and ceremonial center show administrative capacity and concentrated power. Popular population claims remain disputed; Townsend's estimate of roughly 50,000 inhabitants on the island is one source-scoped judgment, not a settled count. [[MexicaSacrificeReligiousImperialLogic|Human sacrifice]] is presented as real and grounded in reciprocal obligation to the gods, while captive spectacle could also project imperial terror and the precise scale and temple descriptions remain uncertain. [[Moctezuma]]'s hospitality and surveillance may have contained the Spaniards within this system before he became their hostage.
 
 The sequence then follows hostage crisis, urban uprising, battlefield success at the [[NocheTriste|Noche Triste]], epidemic and leadership crisis, the capital's last resistance, destruction, survival, and memory. Captivity erodes Moctezuma's authority, but the [[ToxcatlMassacre|Toxcatl massacre]] turns a tense occupation into organized resistance under conditions the surviving sources describe differently. Mexica forces then isolate the palace, block the causeways, and exploit canals, canoes, a broken causeway, and the collapse of the Spaniards' makeshift bridge to turn the retreat into disaster. That victory does not restore the earlier balance: smallpox spreads into Tenochtitlan, kills [[Cuitlahuac]], and compounds social and food-system disruption while [[HernanCortes|Cortes]] rebuilds an Indigenous coalition and severs routes to the coast.
 
 During the [[SiegeOfTenochtitlan|siege of Tenochtitlan]], defenders contest lake and causeway access, rebuild tactical obstacles, ambush an overextended assault, and continue fighting under [[Cuauhtemoc]] despite smallpox, starvation, blockade, and systematic demolition. Afterward, the capital becomes Mexico City; temple stone is reused for cathedral and palace construction; former estates become encomiendas; and Mexica communities are pushed away from the Spanish center. Cuauhtemoc, nobles, laborers, and Moctezuma's descendants nevertheless experience the new order differently.
 
 The episode rejects the idea that one date cleanly ends the political world around the Mexica. Indigenous allies such as Tlaxcala bargain for privilege, remote regions retain older practices, elites preserve estates through law and Christianity, and demographic catastrophe unfolds through disease as well as war.
+
+[[NahuatlPostConquestHistoriography|Alphabetic Nahuatl histories, poems, prayers, and stories]] further prevent defeat from becoming disappearance. They preserve Indigenous self-description, moral reflection, and cultural memory after conquest, including pride in both Chichimeca and Toltec inheritance and poetry that can treat violence as tragic while revering life.
 
 ## Key Characteristics
 
@@ -39,7 +42,7 @@ The episode rejects the idea that one date cleanly ends the political world arou
 - Militarily adaptive defender whose canoes, trenches, broken bridges, missiles, ambushes, and ritual signals could impose losses but not break the blockade.
 - Politically divided regional system in which rival Indigenous powers could ally with Spain.
 - Urban and sacred landscape materially repurposed for the colonial capital.
-- Social world whose nobles, workers, allies, and rural communities experienced conquest unevenly.
+- Social and cultural world whose nobles, workers, allies, rural communities, and post-conquest Nahuatl writers experienced defeat unevenly and preserved history, poetry, religion, and survival.
 
 ## Evidence
 
@@ -56,17 +59,19 @@ The episode rejects the idea that one date cleanly ends the political world arou
 - Occupation rupture: [[388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073]] connects Moctezuma's captivity, the Toxcatl massacre, palace siege, Cuitlahuac's mobilization, and the collapse of negotiation.
 - Urban order and cosmology: [[387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427]] describes Tenochtitlan's administration, regulated market, court institutions, ritual center, and religious logic.
 - Contested control: [[387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427]] treats Moctezuma's hospitality, surveillance, and continued activity as evidence against immediate uncontested Spanish mastery.
+- Migration and political identity: [[51-aztecs-glt9590586130]] connects Chichimeca and Toltec self-understandings to movement, intermarriage, alliance, and regional integration.
+- City, ritual, and Indigenous memory: [[51-aztecs-glt9590586130]] joins Tenochtitlan's lake economy and civic organization to religious sacrifice, imperial intimidation, poetry, and post-conquest Nahuatl writing.
 
 ## Qualifications
 
-This profile is based on eight consecutive campaign episodes rather than a comprehensive history of Mexica government, society, religion, or the wider region. “Aztec” and “Mexica” are not perfectly interchangeable in every context; the title preserves the familiar public label while foregrounding the more specific polity. The identity and title of the first envoy, coastal dialogue, the Spaniards-as-gods tradition, Tendile's reactions, tributary claims, flower-war interpretation, metropolitan population, temple detail, Moctezuma's motives and captivity chronology, the alleged Cholulan and festival plots, Moctezuma's death, reported sacrifice and cannibalism, casualty totals, and intentions behind the uprising and Noche Triste response remain source-scoped. Explaining human sacrifice within Mexica cosmology does not remove its violence, while Spanish horror does not make every reported detail transparent evidence. Regional diversity prevents the capital's fate from representing every Mesoamerican community.
+This profile is based on one overview interview and eight consecutive campaign episodes rather than a comprehensive history of Mexica government, society, religion, or the wider region. “Aztec” and “Mexica” are not perfectly interchangeable in every context; the title preserves the familiar public label while foregrounding the more specific polity. Migration origins, Chichimeca and Toltec categories, the identity and title of the first envoy, coastal dialogue, the Spaniards-as-gods tradition, Tendile's reactions, tributary claims, flower-war interpretation, metropolitan population, temple detail, Moctezuma's motives and captivity chronology, the alleged Cholulan and festival plots, Moctezuma's death, sacrificial scale and captive selection, reported cannibalism, casualty totals, and intentions behind the uprising and Noche Triste response remain source-scoped. Explaining human sacrifice within Mexica cosmology and imperial politics does not remove its violence, while Spanish horror does not make every reported detail transparent evidence. Regional diversity prevents the capital's fate from representing every Mesoamerican community.
 
 ## What Changed
 
-- Extended the profile backward to Grijalva's coastal intelligence and first contact with an imperial envoy.
-- Extended the profile to coast diplomacy among Totonacs, Mexica emissaries, and the Spanish expedition.
-- Added Tendile's encounter as evidence of imperial wealth, military intimidation, and interpreted diplomacy.
-- Rejected automatic divinity belief as an explanation where status language, translation, and later memory remain viable.
+- Extended the profile before Spanish contact through migration, dual Chichimeca-Toltec identity, intermarriage, and political integration.
+- Added a religious-and-imperial synthesis of sacrifice without treating it as the whole society.
+- Added the lake economy, kin-rooted neighborhoods, public works, and the disputed population boundary to the urban profile.
+- Added post-conquest Nahuatl writing and poetry as evidence of cultural survival and moral complexity.
 
 ## Relationships
 
@@ -83,3 +88,6 @@ This profile is based on eight consecutive campaign episodes rather than a compr
 - [[ToxcatlMassacre]] - Spanish atrocity that triggered open resistance in the capital.
 - [[ConquestCaptivityNarrativeUncertainty]] - framework for the contested transition from Moctezuma's hospitality and surveillance to Spanish hostage control.
 - [[CholulaMassacre]] - coalition atrocity in a city whose shifting alignment reflected regional competition around the empire.
+- [[NahuatlPostConquestHistoriography]] - Indigenous-language archive preserving Mexica memory beyond defeat.
+- [[MexicaSacrificeReligiousImperialLogic]] - framework connecting reciprocal theology, captive warfare, and imperial intimidation.
+- [[CamillaTownsend]] - historian whose Nahuatl-centered account supplies the new pre-conquest and survival synthesis.

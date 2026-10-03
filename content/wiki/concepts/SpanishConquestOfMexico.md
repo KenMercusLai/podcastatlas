@@ -12,7 +12,8 @@ sources:
   - 386-the-fall-of-the-aztecs-the-city-of-gold-part-3-glt2951201852
   - 385-the-fall-of-the-aztecs-the-woman-who-changed-the-world-part-2-glt5124604457
   - 384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029
-last_updated: 2026-09-27
+  - 51-aztecs-glt9590586130
+last_updated: 2026-10-03
 ---
 
 ## Definition
@@ -21,7 +22,7 @@ The Spanish conquest of Mexico is the military, political, legal, demographic, e
 
 ## Current Synthesis
 
-The episodes' strongest corrective is causal, temporal, and narrative. The campaign did not begin at the Mexican coast: the [[SpanishCaribbeanExpansion|Spanish Caribbean expansion chain]] supplied ships, offices, coerced labor, settlement practice, enslaved people, violence, Christian justification, and a competitive venture model. The Cordoba and Grijalva voyages then converted rumor into route knowledge, observations of Maya cities, Totonac political intelligence, Mexica diplomatic contact, and expectations of gold.
+The episodes' strongest corrective is causal, temporal, evidentiary, and narrative. The campaign did not begin at the Mexican coast: the [[SpanishCaribbeanExpansion|Spanish Caribbean expansion chain]] supplied ships, offices, coerced labor, settlement practice, enslaved people, violence, Christian justification, and a competitive venture model. The Cordoba and Grijalva voyages then converted rumor into route knowledge, observations of Maya cities, Totonac political intelligence, Mexica diplomatic contact, and expectations of gold. Nor can the campaign be explained by an Indigenous belief that Spaniards were gods or that their arrival immediately announced the world's end; [[NahuatlPostConquestHistoriography|Nahuatl-language evidence]] instead supports a sequence of war, survival, adaptation, and historical writing.
 
 Nor did the next expedition begin with lawful authority to conquer. [[DiegoVelazquezDeCuellar|Diego Velazquez de Cuellar]] chose [[HernanCortes|Cortes]] as a capable subordinate he hoped to control, then commissioned exploration, evangelization, information gathering, and a search for gold before unsuccessfully trying to recall him. The [[VeraCruzLegalCoup|Vera Cruz legal coup]], direct shipment of treasure to Spain, and beaching of the ships converted that defiance into a bid for royal recognition and a practical commitment to advance.
 
@@ -39,7 +40,7 @@ That complexity does not sanitize conquest. Torture, execution, sexual coercion,
 
 ## Key Claims
 
-- Tenochtitlan's fall was a decisive event but not a complete or simultaneous conquest of Mexico.
+- Tenochtitlan's fall was decisive but not a complete or simultaneous conquest of Mexico; Nahuatl evidence rejects divine-identification and immediate-apocalypse myths while documenting Indigenous action after defeat.
 - The campaign began by exceeding delegated authority and seeking a new legal basis through Vera Cruz and direct royal appeal.
 - Translation, coalition formation, and Indigenous political choice were causal before entry into the capital, not only after Spanish military defeat.
 - Spanish arrival in the capital began as an unstable and translated accommodation, not demonstrated immediate mastery or voluntary imperial surrender.
@@ -62,18 +63,17 @@ That complexity does not sanitize conquest. Torture, execution, sexual coercion,
 - Defeat, recovery, and memory: [[389-the-fall-of-the-aztecs-the-night-of-tears-part-6-glt2744313815]] joins the Noche Triste to renewed Tlaxcalan alliance, terror, epidemic change, reinforcement, pre-siege isolation, and Cortes's later narrative advantage.
 - Occupation collapse and source conflict: [[388-the-fall-of-the-aztecs-the-festival-of-blood-part-5-glt8784071073]] connects Narvaez's defeat, the Toxcatl massacre, Moctezuma's failed mediation and disputed death, Cuitlahuac's release, and palace siege.
 - Encounter and captivity uncertainty: [[387-the-fall-of-the-aztecs-prisoners-of-montezuma-part-4-glt8017930427]] connects urban and religious encounter, translation dependence, Spanish wealth-seeking, contested control, Narvaez's arrival, and the disputed date of Moctezuma's seizure.
+- Indigenous perspective and colonial survival: [[51-aztecs-glt9590586130]] rejects gods-and-apocalypse explanations, describes a difficult urban war and continued rule through Indigenous leaders, and treats Nahuatl historical writing as cultural survival.
 
 ## Counterevidence & Qualifications
 
-This synthesis comes from eight consecutive episodes of a narrative series and cannot settle the whole military campaign, Indigenous perspectives, or demographic history. Hatuey's speeches, Yucatan's naming story, early sacrifice reports, Aguilar's captivity, Malinche's childhood and private motives, the meaning of conversion and submission, the validity of the Vera Cruz maneuver, the balance of initiative in the Tlaxcalan alliance, the alleged Cholulan plot, Moctezuma's intentions, whether the Spaniards were meaningfully captive, the date of his seizure, temple detail, sacrifice plans, metropolitan population, the alleged Toxcatl plot, Tlaxcalan informants' role, Moctezuma's death, captive-sacrifice reports, remembered speeches, symbolic scenes, Cortes's motives, Noche Triste casualty counts, and the ritual-war contrast remain source-scoped. A voluntary surrender was useful to Spanish legal memory, but that incentive does not automatically prove every contrary reconstruction. Black Legend polemic can distort comparative interpretation, but identifying that polemic does not rebut evidence of Spanish atrocities.
+This synthesis comes from an overview interview and eight consecutive episodes of a narrative series and cannot settle the whole military campaign, Indigenous perspectives, or demographic history. Hatuey's speeches, Yucatan's naming story, early sacrifice reports, Aguilar's captivity, Malinche's childhood and private motives, her alleged peacemaking, the meaning of conversion and submission, the validity of the Vera Cruz maneuver, the balance of initiative in the Tlaxcalan alliance, the alleged Cholulan plot, Moctezuma's intentions, whether the Spaniards were meaningfully captive, the date of his seizure, temple detail, sacrifice plans, metropolitan population, the alleged Toxcatl plot, Tlaxcalan informants' role, Moctezuma's death, captive-sacrifice reports, remembered speeches, symbolic scenes, Cortes's motives, Noche Triste casualty counts, technological counterfactuals, epidemic inevitability, and the ritual-war contrast remain source-scoped. A voluntary surrender was useful to Spanish legal memory, but that incentive does not automatically prove every contrary reconstruction. Black Legend polemic can distort comparative interpretation, but identifying that polemic does not rebut evidence of Spanish atrocities.
 
 ## What Changed
 
-- Extended the causal prehistory through Caribbean conquest, settlement, reconnaissance, and competition before Cortes's commission.
-- Extended the synthesis to the limited Cuban commission, attempted recall, and Vera Cruz jurisdictional maneuver.
-- Made the Aguilar-Malinche interpretation chain part of conquest infrastructure before inland alliance-building.
-- Added shipping and the beached ships as distinct replenishment and commitment mechanisms.
-- Connected the Requerimiento's coercive legalism to the later constrained use of imperial courts by Indigenous claimants.
+- Rejected divine-identification and immediate-apocalypse myths as explanations of Indigenous conduct.
+- Added alphabetic Nahuatl history-writing as evidence of post-defeat cultural action rather than disappearance.
+- Extended the aftermath through continued Spanish reliance on Indigenous leaders and differentiated colonial governance.
 
 ## Related Concepts
 
@@ -91,3 +91,5 @@ This synthesis comes from eight consecutive episodes of a narrative series and c
 - [[Requerimiento]] - shows how Christian and legal narration accompanied coercive demands for submission.
 - [[VeraCruzLegalCoup]] - explains how Cortes manufactured a jurisdictional basis for unauthorized advance.
 - [[SpanishCaribbeanExpansion]] - supplied the institutions, violence, knowledge, and venture model from which the expedition emerged.
+- [[NahuatlPostConquestHistoriography]] - widens the conquest archive beyond Spanish victory narratives.
+- [[CamillaTownsend]] - historian whose Indigenous-centered reconstruction supplies the new evidentiary correction.

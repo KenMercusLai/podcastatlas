@@ -28796,6 +28796,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/cameroon/"
     },
+    "CamillaTownsend": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9590586130 [GLT9590586130].md",
+          "key": "51-aztecs-glt9590586130",
+          "show": "The Rest Is History",
+          "title": "51. Aztecs",
+          "url": "/wiki/sources/51-aztecs-glt9590586130/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/camillatownsend/"
+    },
     "CamilleDesmoulins": {
       "episode_count": 2,
       "show_count": 1,
@@ -138081,9 +138097,9 @@
       "url": "/wiki/entities/metropolitanrailway/"
     },
     "MexicaEmpire": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -138140,10 +138156,33 @@
           "show": "The Rest Is History",
           "title": "384. The Fall of the Aztecs: The Adventure Begins (Part 1)",
           "url": "/wiki/sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029/"
+        },
+        {
+          "episode_file": "GLT9590586130 [GLT9590586130].md",
+          "key": "51-aztecs-glt9590586130",
+          "show": "The Rest Is History",
+          "title": "51. Aztecs",
+          "url": "/wiki/sources/51-aztecs-glt9590586130/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/mexicaempire/"
+    },
+    "MexicaSacrificeReligiousImperialLogic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9590586130 [GLT9590586130].md",
+          "key": "51-aztecs-glt9590586130",
+          "show": "The Rest Is History",
+          "title": "51. Aztecs",
+          "url": "/wiki/sources/51-aztecs-glt9590586130/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/mexicasacrificereligiousimperiallogic/"
     },
     "MexicanPostRevolutionaryCulturalNationalism": {
       "episode_count": 1,
@@ -144148,6 +144187,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/nagasakiatomicbombing/"
+    },
+    "NahuatlPostConquestHistoriography": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9590586130 [GLT9590586130].md",
+          "key": "51-aztecs-glt9590586130",
+          "show": "The Rest Is History",
+          "title": "51. Aztecs",
+          "url": "/wiki/sources/51-aztecs-glt9590586130/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/nahuatlpostconquesthistoriography/"
     },
     "Nakba": {
       "episode_count": 1,
@@ -189914,9 +189969,9 @@
       "url": "/wiki/concepts/spanishcivilwar/"
     },
     "SpanishConquestOfMexico": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT2984940365 [GLT2984940365].md",
@@ -189973,9 +190028,16 @@
           "show": "The Rest Is History",
           "title": "384. The Fall of the Aztecs: The Adventure Begins (Part 1)",
           "url": "/wiki/sources/384-the-fall-of-the-aztecs-the-adventure-begins-part-1-glt8046611029/"
+        },
+        {
+          "episode_file": "GLT9590586130 [GLT9590586130].md",
+          "key": "51-aztecs-glt9590586130",
+          "show": "The Rest Is History",
+          "title": "51. Aztecs",
+          "url": "/wiki/sources/51-aztecs-glt9590586130/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/spanishconquestofmexico/"
     },
     "Sparta": {
@@ -221072,9 +221134,9 @@
       "url": "/wiki/concepts/xiongnusuccessionfragmentation/"
     },
     "XipeTotec": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8884399326 [GLT8884399326].md",
@@ -221082,6 +221144,13 @@
           "show": "The Rest Is History",
           "title": "58. The World Cup of Gods - Part 1",
           "url": "/wiki/sources/58-the-world-cup-of-gods-part-1-glt8884399326/"
+        },
+        {
+          "episode_file": "GLT9590586130 [GLT9590586130].md",
+          "key": "51-aztecs-glt9590586130",
+          "show": "The Rest Is History",
+          "title": "51. Aztecs",
+          "url": "/wiki/sources/51-aztecs-glt9590586130/"
         }
       ],
       "updated": "2026-10-03",

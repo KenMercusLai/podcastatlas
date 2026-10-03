@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9472
+wiki_total_pages: 9474
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
     url: "/wiki/concepts/nadtherapyevidenceboundary/"
+  - key: "NahuatlPostConquestHistoriography"
+    title: "Nahuatl Post-Conquest Historiography"
+    url: "/wiki/concepts/nahuatlpostconquesthistoriography/"
   - key: "Nakba"
     title: "Nakba"
     url: "/wiki/concepts/nakba/"

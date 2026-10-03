@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2476
+topic_total_pages: 2477
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -916,6 +916,9 @@ topic_concepts:
   - key: "MythicAndMaterialWarCausation"
     title: "Mythic and Material War Causation"
     url: "/wiki/concepts/mythicandmaterialwarcausation/"
+  - key: "NahuatlPostConquestHistoriography"
+    title: "Nahuatl Post-Conquest Historiography"
+    url: "/wiki/concepts/nahuatlpostconquesthistoriography/"
   - key: "NationalistAtlantisMythmaking"
     title: "Nationalist Atlantis Mythmaking"
     url: "/wiki/concepts/nationalistatlantismythmaking/"

@@ -28540,3 +28540,11 @@ Added source `ep172-cong-heihua-dao-xueshu-cihui-de-lanyong-yuyan-jiujing-you-du
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 51. Aztecs
+
+Added source `51-aztecs-glt9590586130`; created `CamillaTownsend`, `NahuatlPostConquestHistoriography`, and `MexicaSacrificeReligiousImperialLogic`; and resynthesized `MexicaEmpire`, `SpanishConquestOfMexico`, and `XipeTotec` from their complete preserved evidence inventories. Core synthesis: archaeology, linguistics, pictorial records, and post-conquest Nahuatl writing recover Indigenous action beyond Spanish victory narratives; Mexica sacrifice joined reciprocal religious obligation to imperial intimidation but did not define the entire culture; and conquest was a difficult coalition war followed by adaptation rather than a collapse caused by belief in Spanish gods or immediate apocalypse. No settled contradiction was adopted. Population, migration, sacrificial scale, captive selection, child-sacrifice circumstances, priestly motives, technological counterfactuals, Malinche's intentions, and colonial-period causal claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,567-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
