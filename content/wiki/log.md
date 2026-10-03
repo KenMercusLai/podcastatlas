@@ -28988,3 +28988,11 @@ Added source `20-china-glt4329327216`; created [[MichaelWood]] and [[ChineseCivi
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | Understand and Use Dreams to Learn and Forget
+
+Added source `understand-and-use-dreams-to-learn-and-forget-scim1662184463`; resynthesized [[SleepStageFunctionalArchitecture]], [[REMEmotionalMemorySeparation]], [[EMDRMechanismBoundary]], [[DreamFunctionAndMeaning]], [[LucidDreamingEvidenceBoundary]], and [[MemoryConsolidationWindows]] from their complete preserved evidence inventories. Core synthesis: early-night slow-wave-rich sleep and later REM-rich sleep support overlapping forms of motor, factual, associative, and emotional processing, while low-adrenergic REM may help separate memory content from autonomic charge. The episode's slow-wave-nightmare claim conflicts with later REM-heavy evidence, its exact 90-minute waking advice is qualified by variable human cycle length, and its REM-EMDR comparison is retained as an early functional analogy rather than a shared established mechanism. Recurring host and show profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,623-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

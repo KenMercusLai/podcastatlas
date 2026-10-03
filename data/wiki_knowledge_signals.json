@@ -57132,9 +57132,9 @@
       "url": "/wiki/entities/dreamfacetechnologies/"
     },
     "DreamFunctionAndMeaning": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -57149,9 +57149,16 @@
           "show": "这病说来话长",
           "title": "VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医",
           "url": "/wiki/sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv/"
+        },
+        {
+          "episode_file": "SCIM1662184463 [SCIM1662184463].md",
+          "key": "understand-and-use-dreams-to-learn-and-forget-scim1662184463",
+          "show": "Huberman Lab",
+          "title": "Understand and Use Dreams to Learn and Forget",
+          "url": "/wiki/sources/understand-and-use-dreams-to-learn-and-forget-scim1662184463/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/dreamfunctionandmeaning/"
     },
     "DredScott": {
@@ -58954,9 +58961,9 @@
       "url": "/wiki/entities/ejchichilnisky/"
     },
     "EMDRMechanismBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2745308962 [SCIM2745308962].md",
@@ -58964,9 +58971,16 @@
           "show": "Huberman Lab",
           "title": "Erasing Fears & Traumas Based on the Modern Neuroscience of Fear",
           "url": "/wiki/sources/erasing-fears-traumas-based-on-the-modern-neuroscience-of-fear-scim2745308962/"
+        },
+        {
+          "episode_file": "SCIM1662184463 [SCIM1662184463].md",
+          "key": "understand-and-use-dreams-to-learn-and-forget-scim1662184463",
+          "show": "Huberman Lab",
+          "title": "Understand and Use Dreams to Learn and Forget",
+          "url": "/wiki/sources/understand-and-use-dreams-to-learn-and-forget-scim1662184463/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/emdrmechanismboundary/"
     },
     "ETFConsensusFeedback": {
@@ -131031,9 +131045,9 @@
       "url": "/wiki/entities/lucenttechnologies/"
     },
     "LucidDreamingEvidenceBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -131048,9 +131062,16 @@
           "show": "这病说来话长",
           "title": "VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医",
           "url": "/wiki/sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv/"
+        },
+        {
+          "episode_file": "SCIM1662184463 [SCIM1662184463].md",
+          "key": "understand-and-use-dreams-to-learn-and-forget-scim1662184463",
+          "show": "Huberman Lab",
+          "title": "Understand and Use Dreams to Learn and Forget",
+          "url": "/wiki/sources/understand-and-use-dreams-to-learn-and-forget-scim1662184463/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/luciddreamingevidenceboundary/"
     },
     "LucileDesmoulins": {
@@ -139016,9 +139037,9 @@
       "url": "/wiki/concepts/memorycenteredai/"
     },
     "MemoryConsolidationWindows": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 3,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -139075,9 +139096,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
           "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
+        },
+        {
+          "episode_file": "SCIM1662184463 [SCIM1662184463].md",
+          "key": "understand-and-use-dreams-to-learn-and-forget-scim1662184463",
+          "show": "Huberman Lab",
+          "title": "Understand and Use Dreams to Learn and Forget",
+          "url": "/wiki/sources/understand-and-use-dreams-to-learn-and-forget-scim1662184463/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/memoryconsolidationwindows/"
     },
     "MemoryContaminationRisk": {
@@ -171785,9 +171813,9 @@
       "url": "/wiki/entities/raffairford/"
     },
     "REMEmotionalMemorySeparation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -171816,9 +171844,16 @@
           "show": "Huberman Lab",
           "title": "Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
           "url": "/wiki/sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904/"
+        },
+        {
+          "episode_file": "SCIM1662184463 [SCIM1662184463].md",
+          "key": "understand-and-use-dreams-to-learn-and-forget-scim1662184463",
+          "show": "Huberman Lab",
+          "title": "Understand and Use Dreams to Learn and Forget",
+          "url": "/wiki/sources/understand-and-use-dreams-to-learn-and-forget-scim1662184463/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/rememotionalmemoryseparation/"
     },
     "RMSCarpathia": {
@@ -190260,9 +190295,9 @@
       "url": "/wiki/concepts/sleepspindleschemaformation/"
     },
     "SleepStageFunctionalArchitecture": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 3,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -190319,9 +190354,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs",
           "url": "/wiki/sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487/"
+        },
+        {
+          "episode_file": "SCIM1662184463 [SCIM1662184463].md",
+          "key": "understand-and-use-dreams-to-learn-and-forget-scim1662184463",
+          "show": "Huberman Lab",
+          "title": "Understand and Use Dreams to Learn and Forget",
+          "url": "/wiki/sources/understand-and-use-dreams-to-learn-and-forget-scim1662184463/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
