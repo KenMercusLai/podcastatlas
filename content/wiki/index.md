@@ -3635,6 +3635,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [49. Food Glorious Food](sources/49-food-glorious-food-glt7001895639.md) — The Rest Is History with Pen Vogler on British food reputation, class, religion, empire, industrial change, imported tastes, and invented tradition.
 - [50. Teenagers](sources/50-teenagers-glt9697541566.md) — The Rest Is History on adolescence versus the modern teenager, youth institutions, consumer culture, moral panic, generational conflict, and politically diverse rebellion.
 - [Boost Your Energy & Immune System with Cortisol & Adrenaline](sources/scim5718648905-scim5718648905.md) — Early Huberman Lab episode on cortisol and epinephrine timing, body-brain arousal, acute immune signaling, post-learning activation, chronic stress eating, and recovery boundaries.
+- [How to Control Your Metabolism by Thyroid & Growth Hormone](sources/scim2147325995-scim2147325995.md) — Full-length Huberman Lab episode on thyroid-axis nutrient sufficiency, cellular metabolism, slow-wave-sleep-linked growth hormone, exercise, amino-acid pathways, heat, and medical safety boundaries.
 
 ## Entities
 - [Dan Snow](entities/DanSnow.md) — Historian and broadcaster interpreting the Seven Years' War through global conflict, institutional capacity, imperial memory, and political blowback.

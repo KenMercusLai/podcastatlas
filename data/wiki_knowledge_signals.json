@@ -86296,9 +86296,9 @@
       "url": "/wiki/concepts/groupboundarylanguage/"
     },
     "GrowthHormoneBehavioralRegulation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6636881997 [SCIM6636881997].md",
@@ -86320,9 +86320,16 @@
           "show": "Huberman Lab",
           "title": "The Science & Health Benefits of Deliberate Heat Exposure",
           "url": "/wiki/sources/scim5583107634-scim5583107634/"
+        },
+        {
+          "episode_file": "SCIM2147325995 [SCIM2147325995].md",
+          "key": "scim2147325995-scim2147325995",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Metabolism by Thyroid & Growth Hormone",
+          "url": "/wiki/sources/scim2147325995-scim2147325995/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/growthhormonebehavioralregulation/"
     },
     "GrowthHormoneSecretagogues": {
@@ -202267,9 +202274,9 @@
       "url": "/wiki/concepts/thyroidfunctiondisorderinterpretation/"
     },
     "ThyroidHormoneMetabolism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6636881997 [SCIM6636881997].md",
@@ -202284,9 +202291,16 @@
           "show": "这病说来话长",
           "title": "VOL.86头颈外科｜甲状腺疾病越来越喜欢招惹年轻人了吗？结节真是被气出来的吗？",
           "url": "/wiki/sources/vol-86-toujing-waike-jiazhuangxian-jibing-yuelaiyue-xihuan-zhaore-nianqingren-le-ma-jiejie-zhen-shi-bei-qi-chulai-de-ma-lhlyxdyw0hcgnmfopab0976kw3fr/"
+        },
+        {
+          "episode_file": "SCIM2147325995 [SCIM2147325995].md",
+          "key": "scim2147325995-scim2147325995",
+          "show": "Huberman Lab",
+          "title": "How to Control Your Metabolism by Thyroid & Growth Hormone",
+          "url": "/wiki/sources/scim2147325995-scim2147325995/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/thyroidhormonemetabolism/"
     },
     "ThyroidNoduleRiskStratification": {
