@@ -5,7 +5,8 @@ tags: [history, memory, entertainment, commercialization]
 sources:
   - 456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277
   - 455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118
-last_updated: 2026-09-25
+  - 42-the-wild-west-glt7464073840
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,9 @@ Frontier violence spectacle is the conversion of conquest, defeated people, sacr
 
 ## Current Synthesis
 
-The sources show spectacle beginning before final violence and continuing afterward. [[JamesMcLaughlin]] sent [[SittingBull]] to St. Paul, where crowds viewed both the famous resistance leader and demonstrations of schools, telephones, postal systems, and urban services. Buffalo Bill's Wild West show then staged him before audiences inclined to see Custer's enemy, mixing income and agency-managed travel with humiliation and commercial mythology.
+The sources show spectacle beginning before final violence and continuing afterward. [[JamesMcLaughlin]] sent [[SittingBull]] to St. Paul, where crowds viewed both the famous resistance leader and demonstrations of schools, telephones, postal systems, and urban services. [[BuffaloBillCody|Buffalo Bill Cody]]'s Wild West show then staged him before audiences inclined to see Custer's enemy, mixing income and agency-managed travel with humiliation and commercial mythology.
+
+[[42-the-wild-west-glt7464073840]] widens the frame: photography, newspapers, dime novels, celebrity management, live shows, and early film made frontier myth while the frontier's final conflicts were still occurring. European popularity and royal attendance show that the spectacle exported an American conquest story as global entertainment rather than merely preserving local memory.
 
 After Sitting Bull's death, his cabin became an exhibition object and part of a Coney Island “Sioux Indian War Village.” After the [[WoundedKneeMassacre]], arrested [[GhostDance]] leaders joined Buffalo Bill's European show in exchange for commuted sentences and were marketed as prisoners from an event in which the episode says they had not participated. Later sympathetic tourism changes the moral tone but may still ask living communities to perform an outsider-approved past.
 
@@ -29,6 +32,7 @@ After Sitting Bull's death, his cabin became an exhibition object and part of a 
 - Military victory can create commodities from the people, places, objects, and rituals of defeat.
 - False provenance can make entertainment overwrite historical evidence.
 - Later respectful framing may still freeze living communities into an outsider-approved historical image.
+- Near-contemporary, internationally circulated media can create a marketable frontier before conquest is complete and detach staged identity from the places and political relations that produced it.
 
 ## Evidence
 
@@ -37,6 +41,7 @@ After Sitting Bull's death, his cabin became an exhibition object and part of a 
 - Coerced performance: [[456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277]] describes sentence commutation for Ghost Dancers who joined Buffalo Bill's show.
 - Narrative fabrication: [[456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277]] says performers were advertised as Wounded Knee prisoners despite not having been there.
 - Sympathetic afterlife: [[456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277]] compares older Wild West display with modern tourism shaped by visitor expectations.
+- Contemporary and global formation: [[42-the-wild-west-glt7464073840]] connects dime novels, journalism, photography, Wild West shows, European audiences, and early film to the frontier myth's rapid commercialization.
 
 ## Counterevidence & Qualifications
 
@@ -45,12 +50,12 @@ After Sitting Bull's death, his cabin became an exhibition object and part of a 
 - Later cultural institutions are not morally equivalent to nineteenth-century Wild West shows merely because both mediate Native representation.
 - The “woke Buffalo Bill” phrase is a host analogy rather than a neutral analytical category.
 - Kicking Bear's untranslated Glasgow speech symbolizes unheard testimony, but its content is unknown.
+- Royal attendance and European popularity show reach, not uniform interpretation or endorsement.
 
 ## What Changed
 
-- Extended spectacle backward from post-conquest memory into Sitting Bull's agency-managed urban and Wild West appearances.
-- Added technological demonstration as a display of the colonizing society's claimed superiority and inevitability.
-- Deepened the boundary between market participation and meaningful freedom under reservation conditions.
+- Extended the synthesis from Native display into a near-contemporary, internationally circulated media system.
+- Added the distinction between spectacle as later memory and spectacle as an active producer of the frontier itself.
 
 ## Related Concepts
 
@@ -60,3 +65,5 @@ After Sitting Bull's death, his cabin became an exhibition object and part of a 
 - [[GhostDance]] - sacred movement converted into staged performance after suppression.
 - [[SittingBull]] - leader displayed in life and commercialized after death.
 - [[LakotaPeople]] - living people reduced by spectacle to a fixed frontier archetype.
+- [[BuffaloBillCody]] - showman who organized frontier people and violence into international entertainment.
+- [[WildWestMyth]] - wider mythology produced and circulated through spectacle.

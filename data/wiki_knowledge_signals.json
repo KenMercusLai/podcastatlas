@@ -27167,6 +27167,36 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/budongqiu/"
     },
+    "BuffaloBillCody": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT7464073840 [GLT7464073840].md",
+          "key": "42-the-wild-west-glt7464073840",
+          "show": "The Rest Is History",
+          "title": "42. The Wild West",
+          "url": "/wiki/sources/42-the-wild-west-glt7464073840/"
+        },
+        {
+          "episode_file": "GLT2320133118 [GLT2320133118].md",
+          "key": "455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118",
+          "show": "The Rest Is History",
+          "title": "455. Fall of the Sioux: The Ghost Dance (Part 2)",
+          "url": "/wiki/sources/455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118/"
+        },
+        {
+          "episode_file": "GLT7996658277 [GLT7996658277].md",
+          "key": "456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277",
+          "show": "The Rest Is History",
+          "title": "456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)",
+          "url": "/wiki/sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/buffalobillcody/"
+    },
     "BuilderBasedSchoolDay": {
       "episode_count": 1,
       "show_count": 1,
@@ -77098,6 +77128,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/frederickdouglass/"
     },
+    "FrederickJacksonTurner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7464073840 [GLT7464073840].md",
+          "key": "42-the-wild-west-glt7464073840",
+          "show": "The Rest Is History",
+          "title": "42. The Wild West",
+          "url": "/wiki/sources/42-the-wild-west-glt7464073840/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/entities/frederickjacksonturner/"
+    },
     "FrederickTheWise": {
       "episode_count": 3,
       "show_count": 1,
@@ -78257,6 +78303,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/frontierstrategycosttypology/"
     },
+    "FrontierThesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7464073840 [GLT7464073840].md",
+          "key": "42-the-wild-west-glt7464073840",
+          "show": "The Rest Is History",
+          "title": "42. The Wild West",
+          "url": "/wiki/sources/42-the-wild-west-glt7464073840/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/frontierthesis/"
+    },
     "FrontierTrustThroughProtection": {
       "episode_count": 4,
       "show_count": 1,
@@ -78295,9 +78357,9 @@
       "url": "/wiki/concepts/frontiertrustthroughprotection/"
     },
     "FrontierViolenceSpectacle": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7996658277 [GLT7996658277].md",
@@ -78312,9 +78374,16 @@
           "show": "The Rest Is History",
           "title": "455. Fall of the Sioux: The Ghost Dance (Part 2)",
           "url": "/wiki/sources/455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118/"
+        },
+        {
+          "episode_file": "GLT7464073840 [GLT7464073840].md",
+          "key": "42-the-wild-west-glt7464073840",
+          "show": "The Rest Is History",
+          "title": "42. The Wild West",
+          "url": "/wiki/sources/42-the-wild-west-glt7464073840/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/frontierviolencespectacle/"
     },
     "FrostSullivan": {
@@ -93900,9 +93969,9 @@
       "url": "/wiki/concepts/heroicfailurememory/"
     },
     "HeroicLastStandMyth": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -93938,9 +94007,16 @@
           "show": "The Rest Is History",
           "title": "446. Custer vs. Crazy Horse: Civil War (Part 1)",
           "url": "/wiki/sources/446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244/"
+        },
+        {
+          "episode_file": "GLT7464073840 [GLT7464073840].md",
+          "key": "42-the-wild-west-glt7464073840",
+          "show": "The Rest Is History",
+          "title": "42. The Wild West",
+          "url": "/wiki/sources/42-the-wild-west-glt7464073840/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/heroiclaststandmyth/"
     },
     "HeroicResistanceViolenceAmbiguity": {
@@ -132951,9 +133027,9 @@
       "url": "/wiki/entities/manhattanproject/"
     },
     "ManifestDestiny": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4400059090 [GLT4400059090].md",
@@ -132961,9 +133037,16 @@
           "show": "The Rest Is History",
           "title": "152. American Crusades",
           "url": "/wiki/sources/152-american-crusades-glt4400059090/"
+        },
+        {
+          "episode_file": "GLT7464073840 [GLT7464073840].md",
+          "key": "42-the-wild-west-glt7464073840",
+          "show": "The Rest Is History",
+          "title": "42. The Wild West",
+          "url": "/wiki/sources/42-the-wild-west-glt7464073840/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/manifestdestiny/"
     },
     "ManiusAquillius": {
@@ -216929,6 +217012,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/wildmushroompoisoningtriage/"
+    },
+    "WildWestMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7464073840 [GLT7464073840].md",
+          "key": "42-the-wild-west-glt7464073840",
+          "show": "The Rest Is History",
+          "title": "42. The Wild West",
+          "url": "/wiki/sources/42-the-wild-west-glt7464073840/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/wildwestmyth/"
     },
     "WildernessMysteryLonging": {
       "episode_count": 1,

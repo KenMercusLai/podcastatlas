@@ -4117,6 +4117,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "42-the-wild-west-glt7464073840": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515": [
     {
       "key": "economics",
@@ -35089,6 +35096,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "FrederickJacksonTurner": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "FreeCashFlowIndexing": [
     {
       "key": "economics",
@@ -35445,6 +35459,18 @@
     }
   ],
   "FrontierResourceIntegration": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "FrontierThesis": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "politics",
       "label": "Politics",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [42. The Wild West](sources/42-the-wild-west-glt7464073840.md) — The Rest Is History on frontier expansion, Native dispossession, bison destruction, western celebrity, masculinity, Turner's frontier thesis, and the Wild West as contested national myth.
 - [43. 1940](sources/43-1940-glt2702093158.md) — The Rest Is History with James Holland on France's collapse, Dunkirk, the May War Cabinet crisis, the Battle of Britain, Sea Lion, and Britain's retained strategic capacity.
 - [44. 1066](sources/44-1066-glt5177665423.md) — The Rest Is History on the three-way succession struggle, papal reform, castles and cavalry, slavery and class change, cultural rupture, and England's national memory of defeat.
 - [How Hormones Control Hunger, Eating & Satiety](sources/scim1789507430-scim1789507430.md) — Early Huberman Lab solo episode on brain-gut appetite regulation, ghrelin timing, nutrient-linked satiety, processed-food intake, glucose context, meal order, movement, and intervention boundaries.
@@ -4748,6 +4749,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eduard Habsburg](entities/EduardHabsburg.md) — Habsburg family member, author, and Hungarian ambassador interpreting dynastic history through Catholicism, subsidiarity, service, identity, and death.
 - [Holy Roman Empire](entities/HolyRomanEmpire.md) — Elective imperial order central to the Habsburg ascent and the episode's retrospective layered-governance argument.
 - [Casey Means](entities/CaseyMeans.md) — Physician and metabolic-health educator connecting mitochondrial capacity, glucose regulation, lifestyle inputs, and contextual self-observation.
+- [Frederick Jackson Turner](entities/FrederickJacksonTurner.md) — American historian whose influential frontier thesis tied western expansion to democracy, self-reliance, violence, and national distinctiveness.
+- [Buffalo Bill Cody](entities/BuffaloBillCody.md) — Frontier showman who helped turn contemporary conquest, celebrity, and constrained Native performance into international entertainment.
 - [Black Kettle](entities/BlackKettle.md) — Cheyenne peace leader whose village was attacked at Washita despite his negotiation-oriented position.
 - [Cheyenne People](entities/CheyennePeople.md) — Native people presented through changing Plains life, expansion pressure, political diversity, resistance, and village warfare.
 - [Washita Massacre](entities/WashitaMassacre.md) — 1868 dawn attack on Black Kettle's village whose official victory framing remains contested by massacre evidence.
@@ -16138,6 +16141,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Valentine's Day Historical Formation](concepts/ValentinesDayHistoricalFormation.md) — Layered development from an uncertain saint's feast through medieval literature, social custom, print, post, and commerce.
 - [Valentine Card Commercialization](concepts/ValentineCardCommercialization.md) — Scaling of Valentine exchange through prepared verse, manufactured cards, cheaper post, anonymity, and transatlantic business.
 - [Vinegar Valentines](concepts/VinegarValentines.md) — Commercially printed insulting cards that used Valentine exchange for ridicule and anonymous social sanction.
+- [Wild West Myth](concepts/WildWestMyth.md) — Media system compressing diverse western labor, borderlands, conquest, and resistance into durable archetypes of violent freedom and doomed heroic order.
+- [Frontier Thesis](concepts/FrontierThesis.md) — Turner's influential but incomplete interpretation of frontier experience as a maker of American democracy and national character.
 - [Manifest Destiny](concepts/ManifestDestiny.md) — Nineteenth-century ideology moralizing territorial expansion as both American right and civilizing responsibility.
 - [American Imperial Self-Denial](concepts/AmericanImperialSelfDenial.md) — Gap between American anti-imperial identity and territorial conquest, coercive rule, or intervention with imperial effects.
 - [First Indochina War](concepts/FirstIndochinaWar.md) — 1946–1954 decolonization conflict whose French defeat and unsettled division preceded later U.S. intervention.

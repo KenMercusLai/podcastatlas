@@ -28676,3 +28676,11 @@ Added source `how-to-optimize-testosterone-estrogen-scim7814508461` and resynthe
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | 42. The Wild West
+
+Added source `42-the-wild-west-glt7464073840`; created `FrederickJacksonTurner`, `BuffaloBillCody`, `WildWestMyth`, and `FrontierThesis`; and resynthesized `ManifestDestiny`, `HeroicLastStandMyth`, and `FrontierViolenceSpectacle` from their complete preserved evidence inventories. Core synthesis: frontier myth was produced alongside conquest through print, photography, celebrity, live shows, and film; sacred destiny language coexisted with material drivers such as land, fur, gold, railroads, and weak state control; and a single frontier line obscures multiple Native polities, borderlands, labor systems, ecological destruction, and multiracial participation. No settled contradiction was adopted. Population and bison totals, genocide classification and intent, film priority, monument interpretations, individual motives, and Canada-Russia comparisons remain source-scoped or require specialist evidence. Recurring hosts, show, and already richer Custer, Sitting Bull, and Crazy Horse profiles were not changed because this survey adds mythic framing rather than durable biographical evidence beyond the later series. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,584-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2484
+topic_total_pages: 2487
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -511,6 +511,9 @@ topic_concepts:
   - key: "FrontierDefensivePatience"
     title: "Frontier Defensive Patience / 边境防御耐心"
     url: "/wiki/concepts/frontierdefensivepatience/"
+  - key: "FrontierThesis"
+    title: "Frontier Thesis"
+    url: "/wiki/concepts/frontierthesis/"
   - key: "FrontierViolenceSpectacle"
     title: "Frontier Violence Spectacle"
     url: "/wiki/concepts/frontierviolencespectacle/"
@@ -2045,6 +2048,9 @@ topic_entities:
   - key: "FranklinDRoosevelt"
     title: "Franklin D. Roosevelt"
     url: "/wiki/entities/franklindroosevelt/"
+  - key: "FrederickJacksonTurner"
+    title: "Frederick Jackson Turner"
+    url: "/wiki/entities/frederickjacksonturner/"
   - key: "FrenchRestoration"
     title: "French Restoration / 法国王政复辟"
     url: "/wiki/entities/frenchrestoration/"
@@ -5823,6 +5829,9 @@ topic_sources:
   - key: "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212"
     title: "419. Britain in 1974: Countdown to a Coup (Part 3)"
     url: "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
+  - key: "42-the-wild-west-glt7464073840"
+    title: "42. The Wild West"
+    url: "/wiki/sources/42-the-wild-west-glt7464073840/"
   - key: "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515"
     title: "420. Britain in 1974: Thatcher Enters the Ring (Part 4)"
     url: "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"

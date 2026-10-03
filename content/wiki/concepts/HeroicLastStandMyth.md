@@ -8,7 +8,8 @@ sources:
   - 450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770
   - 447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977
   - 446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244
-last_updated: 2026-09-25
+  - 42-the-wild-west-glt7464073840
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,6 +29,8 @@ The final episode contrasts that image with evidence of separated positions, pan
 
 The pattern also redistributes responsibility. If Custer dies as an immaculate hero, surviving officers such as [[MarcusReno]] and [[FrederickBenteen]] become convenient explanations for defeat, while Lakota and Cheyenne leadership can disappear behind a story of U.S. betrayal or misfortune. Correcting the myth therefore requires both a less orderly account of collapse and a more agentic account of Native victory.
 
+The earlier survey episode places this pattern within the wider [[WildWestMyth]]. It compares Custer, Sitting Bull, and Crazy Horse to heroic-age figures and argues that journalism, photography, live entertainment, and image refusal were already turning historical actors into legend. The last stand is therefore one especially concentrated scene inside a broader media ecology of western mythmaking.
+
 ## Key Claims
 
 - Narrative compression converts scattered action into one iconic scene.
@@ -36,7 +39,7 @@ The pattern also redistributes responsibility. If Custer dies as an immaculate h
 - A defeat-centered myth can erase the skill and agency of the victorious side.
 - Material evidence and plural testimony can unsettle the tableau without recovering every detail.
 - Classical analogy and repeated biographical language can naturalize a heroic frame before evidence is examined.
-- Preexisting spectacle, self-fashioning, patronage, and reputational recovery can make a posthumous military myth immediately legible.
+- Preexisting spectacle, self-fashioning, patronage, and reputational recovery can make a posthumous last stand immediately legible within a wider mythology of doomed heroic ages.
 
 ## Evidence
 
@@ -48,6 +51,7 @@ The pattern also redistributes responsibility. If Custer dies as an immaculate h
 - Battlefield qualification: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] contrasts the clean tableau with dispersed positions, panic, surrender accounts, and desperate cover.
 - Blame transfer: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] follows Reno's formal investigation and Benteen's contested reputation.
 - Native agency: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] reframes the outcome through Sitting Bull, Crazy Horse, Gall, numbers, confidence, and weapons.
+- Wider mythic field: [[42-the-wild-west-glt7464073840]] places Custer's celebrity beside Sitting Bull's performance history, Crazy Horse's image absence, and western stories of doomed masculine heroism.
 
 ## Counterevidence & Qualifications
 
@@ -59,11 +63,11 @@ The pattern also redistributes responsibility. If Custer dies as an immaculate h
 - Deliberate press cultivation does not mean Custer controlled the form or political uses of his posthumous legend.
 - Public fascination and patronage explain career resilience but do not negate Custer's real cavalry skill or prove that every contemporary accepted a heroic image.
 - Retrospective knowledge of Little Bighorn can overstate continuity between a Civil War command style that produced victories and a later defeat under different conditions.
+- Homeric and Arthurian comparisons identify mythic form but do not establish direct historical influence or identical audience reception.
 
 ## What Changed
 
-- Extended the myth's prehistory into Custer's Civil War dress, visibility, romantic self-conception, and genuine cavalry success.
-- Distinguished the evidence of deliberate self-fashioning from a claim that he controlled his posthumous legend.
+- Embedded Custer's last stand within the wider Wild West media system and its recurring doomed-hero structure.
 
 ## Related Concepts
 
@@ -74,3 +78,5 @@ The pattern also redistributes responsibility. If Custer dies as an immaculate h
 - [[BattlefieldReconstructionUnderUncertainty]] - evidence discipline that limits narrative closure.
 - [[HistoricalMemoryContest]] - broader contest through which defeat acquires public meaning.
 - [[ChivalricRomanceWarMemory]] - adjacent tendency to recode battlefield violence through heroic form.
+- [[WildWestMyth]] - broader frontier mythology within which the last-stand story became legible.
+- [[FrontierViolenceSpectacle]] - performance and commercial system that circulated frontier celebrity.

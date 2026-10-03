@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9502
+wiki_total_pages: 9504
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1334,6 +1334,9 @@ wiki_pages:
   - key: "FrontierStrategyCostTypology"
     title: "Frontier Strategy Cost Typology / 边疆战略成本分型"
     url: "/wiki/concepts/frontierstrategycosttypology/"
+  - key: "FrontierThesis"
+    title: "Frontier Thesis"
+    url: "/wiki/concepts/frontierthesis/"
   - key: "FrontierTradeSystems"
     title: "Frontier Trade Systems"
     url: "/wiki/concepts/frontiertradesystems/"

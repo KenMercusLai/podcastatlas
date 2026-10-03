@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9502
+wiki_total_pages: 9504
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "WildReleaseHumanAvoidance"
     title: "Wild Release Human Avoidance / 野放前人类回避训练"
     url: "/wiki/concepts/wildreleasehumanavoidance/"
+  - key: "WildWestMyth"
+    title: "Wild West Myth"
+    url: "/wiki/concepts/wildwestmyth/"
   - key: "WildAnimalRescueResponsibility"
     title: "Wild-Animal Rescue Responsibility"
     url: "/wiki/concepts/wildanimalrescueresponsibility/"

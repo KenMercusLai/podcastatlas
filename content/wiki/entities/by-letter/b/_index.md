@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12199
+wiki_total_pages: 12201
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1166,6 +1166,9 @@ wiki_pages:
   - key: "BuenaVistaDistribution"
     title: "Buena Vista Distribution"
     url: "/wiki/entities/buenavistadistribution/"
+  - key: "BuffaloBillCody"
+    title: "Buffalo Bill Cody"
+    url: "/wiki/entities/buffalobillcody/"
   - key: "BuildABear"
     title: "Build-A-Bear"
     url: "/wiki/entities/buildabear/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3035
+topic_total_pages: 3036
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1654,6 +1654,9 @@ topic_concepts:
   - key: "FrontierModelVerifiedAccess"
     title: "Frontier Model Verified Access"
     url: "/wiki/concepts/frontiermodelverifiedaccess/"
+  - key: "FrontierThesis"
+    title: "Frontier Thesis"
+    url: "/wiki/concepts/frontierthesis/"
   - key: "FugitiveSlaveActFederalism"
     title: "Fugitive Slave Act Federalism"
     url: "/wiki/concepts/fugitiveslaveactfederalism/"
