@@ -3250,6 +3250,13 @@
       "url": "/topics/history/"
     }
   ],
+  "32-what-if-glt7767131043": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "320-hundred-years-war-the-black-prince-part-3-glt6004693022": [
     {
       "key": "history",
@@ -41085,6 +41092,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "HistoricalStructureAgencyCausation": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "HistoricalWorldviewReconstruction": [

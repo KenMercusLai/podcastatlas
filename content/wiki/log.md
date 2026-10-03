@@ -28820,3 +28820,11 @@ Added source `how-foods-nutrients-control-our-moods-scim8271372367`; resynthesiz
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 32. What if?
+
+Added source `32-what-if-glt7767131043`; created [[HistoricalStructureAgencyCausation]]; and resynthesized [[HistoricalCounterfactualReasoning]], [[May1940BritishWarCabinetCrisis]], [[DominicSandbrook]], and [[TomHolland]] from their complete preserved evidence inventories. Core synthesis: counterfactuals are strongest when they change one plausible decision, retain institutional and technological conditions, test replacement mechanisms, and shorten the causal horizon; rare choke points can give individuals unusual weight without making wider structure irrelevant. No settled contradiction was adopted. The hosts' differing weights on individual agency remain explicit, while alternative wars, regimes, elections, conquests, technologies, religious paths, and peace terms remain source-scoped and unobservable. Recurring show metadata was not changed because the episode adds a historiographical method rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,602-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

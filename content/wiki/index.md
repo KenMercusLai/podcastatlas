@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [32. What if?](sources/32-what-if-glt7767131043.md) — The Rest Is History on disciplined counterfactuals, structure and agency, technological context, alternative-history fantasy, and May 1940 as a possible choke point.
 - [How Foods & Nutrients Control Our Moods](sources/how-foods-nutrients-control-our-moods-scim8271372367.md) — Early Huberman Lab episode on embodied mood, vagal and gut nutrient sensing, neuromodulators, microbiome individuality, and intervention-specific safety boundaries.
 - [33. The Beautiful Game](sources/33-the-beautiful-game-glt5860295083.md) — The Rest Is History with Jonathan Wilson on football's codification, industrial and civic culture, informal-imperial diffusion, Argentine identity, labor rights, media, and women's interrupted tradition.
 - [34. St Cuthbert’s Day](sources/34-st-cuthberts-day-glt9977520388.md) — The Rest Is History on Cuthbert's ascetic life, near-memory hagiography, cross-class Christian appeal, relic cult, pilgrimage wealth, and posthumous political authority.
@@ -3979,7 +3980,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anatoly Sobchak](entities/AnatolySobchak.md) — St. Petersburg mayor and constitutional contributor who served as Vladimir Putin's professor, patron, and political superior.
 - [Boris Yeltsin](entities/BorisYeltsin.md) — Post-Soviet Russian president linking rapid market transition, executive concentration, oligarchic power, Chechen war, and Putin's succession.
 - [Yegor Gaidar](entities/YegorGaidar.md) — Russian reformer associated with rapid price liberalization and the social and political backlash to shock therapy.
-- [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian connecting political identity and consequence to symbolic conflict, reader-tested narrative, moral signaling, and qualified myth.
+- [Dominic Sandbrook](entities/DominicSandbrook.md) — Historian connecting political identity, narrative craft, and consequence to structural persistence, replacement mechanisms, and bounded counterfactuals.
 - [Adventures in Time](entities/AdventuresInTime.md) — Dominic Sandbrook’s children’s-history series using narrative momentum, vivid detail, reader testing, and ethical restraint.
 - [Peter Pomerantsev](entities/PeterPomerantsev.md) — Author whose work supplies the episode's framework for managed media, staged opposition, and destabilized political reality.
 - [Ferdinand Maximilian](entities/FerdinandMaximilian.md) — Liberal Habsburg archduke whose foreign-backed Mexican throne ended at Queretaro in 1867.
@@ -4015,7 +4016,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Francis Young](entities/FrancisYoung.md) — Historian distinguishing occult legitimation, advice, propaganda, decision failure, and security response in British politics.
 - [Merlin](entities/Merlin.md) — Legendary British prophet and royal adviser whose political afterlife shaped rebellion, kingship, and later learned self-fashioning.
 - [Helen Duncan](entities/HelenDuncan.md) — Wartime medium whose seances became a possible information-leakage and public-order concern.
-- [Tom Holland](entities/TomHolland.md) — Historian using graduated-confidence reconstruction and Christian moral genealogy across sacred biography, culture war, propaganda, and war.
+- [Tom Holland](entities/TomHolland.md) — Historian using graduated-confidence reconstruction, moral genealogy, and counterfactual choke points across religion, culture, propaganda, and war.
 - [Henry Tricks](entities/HenryTricks.md) — Technology editor framing smart glasses through bystander suspicion, misuse, phone dependence, and their possible role as AI-agent interfaces.
 - [Simon Garfield](entities/SimonGarfield.md) — Author of The Pen, used by the episode to connect writing instruments, material constraints, mass production, and cultural status.
 - [Judean Revolt, 66-73 CE](entities/JudeanRevolt66To73.md) — Divided provincial rebellion whose defeat destroyed Jerusalem's Temple and acquired an exceptional religious and political afterlife.
@@ -15940,6 +15941,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Historical Structure-Agency Causation](concepts/HistoricalStructureAgencyCausation.md) — Framework for weighing individual choices against replacement mechanisms, institutional resilience, material conditions, and time horizon.
 - [Football as Mass Culture](concepts/FootballAsMassCulture.md) — Framework treating football as a shared institution of time, belonging, civic identity, political symbolism, and social conflict.
 - [Saint-Relic Political Authority](concepts/SaintRelicPoliticalAuthority.md) — Conversion of holy remains and associated objects into pilgrimage, landholding, institutional continuity, and royal legitimacy.
 - [Cross-Class Christian Conversion](concepts/CrossClassChristianConversion.md) — Religious expansion through simultaneous elite credibility and practical or moral concern for socially neglected people.
@@ -15966,7 +15968,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Policy-Driven Talent Retention Gap / 政策引才与留才落差](concepts/PolicyDrivenTalentRetentionGap.md) — Difference between incentive-led recruitment and durable settlement supported by careers, services, and personal fit.
 - [Fall of France (1940)](concepts/FallOfFrance1940.md) — Campaign showing how communications, combined arms, and decision speed can defeat material strength that is poorly coordinated.
 - [Dunkirk Evacuation](concepts/DunkirkEvacuation.md) — Operation Dynamo understood as an unexpectedly large manpower rescue overlapping Britain's decision to continue the war.
-- [May 1940 British War Cabinet Crisis](concepts/May1940BritishWarCabinetCrisis.md) — Dispute over negotiation, alliance credibility, strategic assets, and continued resistance as France collapsed.
+- [May 1940 British War Cabinet Crisis](concepts/May1940BritishWarCabinetCrisis.md) — Negotiation crisis and qualified choke point joining Churchill's authority to Britain's retained strategic capacity.
 - [Battle of Britain](concepts/BattleOfBritain.md) — Air campaign decisive for preserving Britain in the war even though German invasion capacity was independently weak.
 - [Operation Sea Lion](concepts/OperationSeaLion.md) — German invasion plan whose amphibious, naval, intelligence, landing, and sustainment means did not match its objective.
 - [Castration, Coercion, and Mobility](concepts/CastrationCoercionAndMobility.md) — Framework preserving original bodily violence when survivors later gain office, income, status, or renewed agency.
@@ -16281,7 +16283,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Heat Exposure Dose and Safety](concepts/HeatExposureDoseAndSafety.md) — Sauna and hot-bath framework organized by dose, modality, evidence tier, and medical risk.
 - [Campaign Culmination Through Logistics](concepts/CampaignCulminationThroughLogistics.md) — Loss of operational capacity when distance, attrition, transport, repair, fuel, and replacement burdens outrun an advancing force.
 - [Ideological Occupation Self-Sabotage](concepts/IdeologicalOccupationSelfSabotage.md) — Pattern in which an invader's coercive or exterminatory ideology destroys collaboration and productive capacity its strategy needs.
-- [Historical Counterfactual Reasoning](concepts/HistoricalCounterfactualReasoning.md) — Method for testing causal claims through specified alternatives while retaining structural constraints and uncertainty.
+- [Historical Counterfactual Reasoning](concepts/HistoricalCounterfactualReasoning.md) — Method for testing bounded alternatives through explicit mechanisms, replacement conditions, technological context, and uncertainty.
 - [Propaganda Feedback and Strategic Miscalculation](concepts/PropagandaFeedbackStrategicMiscalculation.md) — Risk that mobilizing narratives, ideological contempt, and incentive-distorted intelligence become inputs to strategic planning.
 - [Social Stereotype Misdirection](concepts/SocialStereotypeMisdirection.md) — Detective-fiction technique that turns assumptions about social identity and role into mechanisms of concealment.
 - [Detective Fiction Moral Order](concepts/DetectiveFictionMoralOrder.md) — Structure joining causal explanation to moral disclosure, accountability, and bounded restoration.

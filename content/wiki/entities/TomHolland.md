@@ -8,7 +8,8 @@ sources:
   - 95-9-11-glt8208243510
   - 60-muhammad-glt7621065751
   - 46-culture-wars-glt4237848862
-last_updated: 2026-10-03
+  - 32-what-if-glt7767131043
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,6 +29,8 @@ The culture-wars episode makes that genealogy politically explicit. Holland resi
 
 The Muhammad episode also makes his standpoint explicit: secular non-belief is not neutral access to sacred history. Holland nonetheless applies historical method to revelation claims, late sources, fragments, inscriptions, coins, geography, and late-antique context, offering provisional models rather than claiming final certainty.
 
+The counterfactual episode adds a complementary causal method. Holland accepts structural constraints but gives greater weight than Sandbrook to epochal individuals and rare choke points, using Athenian survival, Jesus, Muhammad, dynastic succession, and May 1940 to argue that some outcomes depend on people or decisions that have no straightforward substitute. He also insists that technological alternatives retain their enabling cultural and economic setting.
+
 ## Key Characteristics
 
 - Uses graduated confidence to separate historical cores from later sacred or narrative detail.
@@ -45,10 +48,11 @@ The Muhammad episode also makes his standpoint explicit: secular non-belief is n
 - **Modern power and propaganda:** [[162-putins-russia-glt4575290976]] connects managed reality, ancient analogy, war, and historical greatness.
 - **Global conflict and overreach:** [[95-9-11-glt8208243510]] reframes 9/11 through rival universalism, reputational damage, and American overreach.
 - **Culture war and moral inheritance:** [[46-culture-wars-glt4237848862]] links the Altar of Victory, progress, civil rights, sexuality, statues, and universalism to a contested post-Christian genealogy.
+- **Agency, contingency, and technological context:** [[32-what-if-glt7767131043]] uses Athens, religious founders, May 1940, Rome, and industrialization to identify possible choke points while rejecting context-free invention transfer.
 
 ## Qualifications
 
-This profile is bounded to five episodes and does not summarize Holland's full scholarship or bibliography. His Christian moral genealogy, Palestine reconstruction, northern Qur'anic geography, Abd al-Malik comparison, Augustan analogy, rival-universalist frame, and China-beneficiary claim are interpretations rather than settled consensus. His narrow culture-war definition clarifies a specific modern genealogy but may understate comparable non-Christian or premodern conflicts. Explicit reflexivity about non-belief improves transparency but does not itself validate a reconstruction.
+This profile is bounded to six episodes and does not summarize Holland's full scholarship or bibliography. His Christian moral genealogy, Palestine reconstruction, northern Qur'anic geography, Abd al-Malik comparison, Augustan analogy, rival-universalist frame, China-beneficiary claim, epochal-individual judgments, and choke-point counterfactuals are interpretations rather than settled consensus. His narrow culture-war definition clarifies a specific modern genealogy but may understate comparable non-Christian or premodern conflicts. Explicit reflexivity about non-belief improves transparency but does not itself validate a reconstruction.
 
 ## What Changed
 
@@ -56,6 +60,7 @@ This profile is bounded to five episodes and does not summarize Holland's full s
 - Made standpoint reflexivity and provisional model-building explicit features of his profile.
 - Added his contested Palestine and Abd al-Malik arguments without converting them into consensus claims.
 - Added his culture-war definition as post-Christian theological conflict structured by progress and moral inheritance.
+- Added his stronger account of irreplaceable individuals, rare choke points, and context-bound technological development.
 
 ## Relationships
 
@@ -68,3 +73,5 @@ This profile is bounded to five episodes and does not summarize Holland's full s
 - [[RivalUniversalistProjects]] - post-9/11 interpretive frame he advances.
 - [[WarOnTerrorOverreach]] - judgment linking Iraq and abusive methods to weakened American credibility.
 - [[CultureWarHistoricalGenealogy]] - framework organizing his narrower post-Christian definition and Sandbrook's broader continuity claim.
+- [[HistoricalCounterfactualReasoning]] - method through which he tests contingency and plausible divergence.
+- [[HistoricalStructureAgencyCausation]] - framework capturing his stronger emphasis on epochal individuals inside structural conditions.

@@ -55345,9 +55345,9 @@
       "url": "/wiki/entities/dominicmiarten/"
     },
     "DominicSandbrook": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4575290976 [GLT4575290976].md",
@@ -55376,9 +55376,16 @@
           "show": "The Rest Is History",
           "title": "46. Culture Wars",
           "url": "/wiki/sources/46-culture-wars-glt4237848862/"
+        },
+        {
+          "episode_file": "GLT7767131043 [GLT7767131043].md",
+          "key": "32-what-if-glt7767131043",
+          "show": "The Rest Is History",
+          "title": "32. What if?",
+          "url": "/wiki/sources/32-what-if-glt7767131043/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/dominicsandbrook/"
     },
     "DominosPizza": {
@@ -95418,9 +95425,9 @@
       "url": "/wiki/concepts/historicalcompositeallegory/"
     },
     "HistoricalCounterfactualReasoning": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3395544177 [GLT3395544177].md",
@@ -95428,9 +95435,16 @@
           "show": "The Rest Is History",
           "title": "183. History's Biggest Questions with Dan Carlin (Part 1)",
           "url": "/wiki/sources/183-historys-biggest-questions-with-dan-carlin-part-1-glt3395544177/"
+        },
+        {
+          "episode_file": "GLT7767131043 [GLT7767131043].md",
+          "key": "32-what-if-glt7767131043",
+          "show": "The Rest Is History",
+          "title": "32. What if?",
+          "url": "/wiki/sources/32-what-if-glt7767131043/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/historicalcounterfactualreasoning/"
     },
     "HistoricalCritiqueTolerance": {
@@ -95962,6 +95976,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/historicalreputationconstruction/"
+    },
+    "HistoricalStructureAgencyCausation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7767131043 [GLT7767131043].md",
+          "key": "32-what-if-glt7767131043",
+          "show": "The Rest Is History",
+          "title": "32. What if?",
+          "url": "/wiki/sources/32-what-if-glt7767131043/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/historicalstructureagencycausation/"
     },
     "HistoricalWorldviewReconstruction": {
       "episode_count": 1,
@@ -137080,9 +137110,9 @@
       "url": "/wiki/entities/maximilienrobespierre/"
     },
     "May1940BritishWarCabinetCrisis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2702093158 [GLT2702093158].md",
@@ -137090,9 +137120,16 @@
           "show": "The Rest Is History",
           "title": "43. 1940",
           "url": "/wiki/sources/43-1940-glt2702093158/"
+        },
+        {
+          "episode_file": "GLT7767131043 [GLT7767131043].md",
+          "key": "32-what-if-glt7767131043",
+          "show": "The Rest Is History",
+          "title": "32. What if?",
+          "url": "/wiki/sources/32-what-if-glt7767131043/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/may1940britishwarcabinetcrisis/"
     },
     "May1968France": {
@@ -205699,9 +205736,9 @@
       "url": "/wiki/entities/tomhanks/"
     },
     "TomHolland": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT5186420966 [GLT5186420966].md",
@@ -205737,9 +205774,16 @@
           "show": "The Rest Is History",
           "title": "46. Culture Wars",
           "url": "/wiki/sources/46-culture-wars-glt4237848862/"
+        },
+        {
+          "episode_file": "GLT7767131043 [GLT7767131043].md",
+          "key": "32-what-if-glt7767131043",
+          "show": "The Rest Is History",
+          "title": "32. What if?",
+          "url": "/wiki/sources/32-what-if-glt7767131043/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/tomholland/"
     },
     "TomNuttall": {

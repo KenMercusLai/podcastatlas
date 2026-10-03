@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2500
+topic_total_pages: 2502
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -640,6 +640,9 @@ topic_concepts:
   - key: "HistoricalRhymePoliticalReading"
     title: "Historical Rhyme Political Reading / 历史押韵式政治阅读"
     url: "/wiki/concepts/historicalrhymepoliticalreading/"
+  - key: "HistoricalStructureAgencyCausation"
+    title: "Historical Structure-Agency Causation"
+    url: "/wiki/concepts/historicalstructureagencycausation/"
   - key: "HistoricalWorldviewReconstruction"
     title: "Historical Worldview Reconstruction"
     url: "/wiki/concepts/historicalworldviewreconstruction/"
@@ -5589,6 +5592,9 @@ topic_sources:
   - key: "319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638"
     title: "319: Hundred Years' War: Triumph of the Longbow (Part 2)"
     url: "/wiki/sources/319-hundred-years-war-triumph-of-the-longbow-part-2-glt3100937638/"
+  - key: "32-what-if-glt7767131043"
+    title: "32. What if?"
+    url: "/wiki/sources/32-what-if-glt7767131043/"
   - key: "320-hundred-years-war-the-black-prince-part-3-glt6004693022"
     title: "320: Hundred Years' War: The Black Prince (Part 3)"
     url: "/wiki/sources/320-hundred-years-war-the-black-prince-part-3-glt6004693022/"
