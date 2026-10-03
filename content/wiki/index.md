@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Supercharge Exercise Performance & Recovery with Cooling](sources/scim5512858918-scim5512858918.md) — Early Huberman Lab episode on heat-limited exercise, cardiac drift, flow-preserving glabrous-skin cooling, and recovery-adaptation tradeoffs.
 - [54. Cromwell and the Protectorate](sources/54-cromwell-and-the-protectorate-glt5457562231.md) — The Rest Is History with Paul Lay on Cromwell's elusive biography, the Protectorate's unsettled constitution, Ireland, succession failure, and contested political afterlife.
 - [How to Lose Fat With Science-Based Tools](sources/scim2441056488-scim2441056488.md) — Full Huberman Lab episode on energy balance, nervous-system control of fat use, NEAT, shivering thermogenesis, exercise sequencing, and safety-bounded secondary compounds.
 - [55. The World Cup of Gods - Preview](sources/55-the-world-cup-of-gods-preview-glt7465078719.md) — The Rest Is History preview defining a discontinued-worship eligibility rule and launching a listener-voted mythology tournament as participatory public history.

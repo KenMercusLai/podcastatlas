@@ -67324,9 +67324,9 @@
       "url": "/wiki/concepts/exercisefatoxidationsequencing/"
     },
     "ExerciseHeatManagement": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM3687301411 [SCIM3687301411].md",
@@ -67348,9 +67348,16 @@
           "show": "Huberman Lab",
           "title": "Using Temperature to Optimize Performance, Brain & Body Health | Dr. Craig Heller",
           "url": "/wiki/sources/scim6467660570-scim6467660570/"
+        },
+        {
+          "episode_file": "SCIM5512858918 [SCIM5512858918].md",
+          "key": "scim5512858918-scim5512858918",
+          "show": "Huberman Lab",
+          "title": "Supercharge Exercise Performance & Recovery with Cooling",
+          "url": "/wiki/sources/scim5512858918-scim5512858918/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/exerciseheatmanagement/"
     },
     "ExerciseHydrationPerformanceBoundary": {
@@ -67525,9 +67532,9 @@
       "url": "/wiki/concepts/exercisepillarsforlongevity/"
     },
     "ExerciseRecoveryReadiness": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -67584,9 +67591,16 @@
           "show": "Huberman Lab",
           "title": "Using Deliberate Cold Exposure for Health and Performance",
           "url": "/wiki/sources/using-deliberate-cold-exposure-for-health-and-performance-scim1045909781/"
+        },
+        {
+          "episode_file": "SCIM5512858918 [SCIM5512858918].md",
+          "key": "scim5512858918-scim5512858918",
+          "show": "Huberman Lab",
+          "title": "Supercharge Exercise Performance & Recovery with Cooling",
+          "url": "/wiki/sources/scim5512858918-scim5512858918/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/exerciserecoveryreadiness/"
     },
     "ExerciseSelfMasteryForProcrastination": {
@@ -201109,9 +201123,9 @@
       "url": "/wiki/entities/theresamay/"
     },
     "ThermoregulationAndGlabrousHeatTransfer": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5583107634 [SCIM5583107634].md",
@@ -201133,9 +201147,16 @@
           "show": "Huberman Lab",
           "title": "Using Temperature to Optimize Performance, Brain & Body Health | Dr. Craig Heller",
           "url": "/wiki/sources/scim6467660570-scim6467660570/"
+        },
+        {
+          "episode_file": "SCIM5512858918 [SCIM5512858918].md",
+          "key": "scim5512858918-scim5512858918",
+          "show": "Huberman Lab",
+          "title": "Supercharge Exercise Performance & Recovery with Cooling",
+          "url": "/wiki/sources/scim5512858918-scim5512858918/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-03",
       "url": "/wiki/concepts/thermoregulationandglabrousheattransfer/"
     },
     "TheroigneDeMericourt": {

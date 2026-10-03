@@ -6,7 +6,8 @@ sources:
   - scim5583107634-scim5583107634
   - using-deliberate-cold-exposure-for-health-and-performance-scim1045909781
   - scim6467660570-scim6467660570
-last_updated: 2026-10-02
+  - scim5512858918-scim5512858918
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ Glabrous skin on the palms, soles, and upper face contains specialized vascular 
 The cold-exposure episode adds exercise and hyperthermia context. It distinguishes whole-body cold, which evokes compensatory heating and systemic stress, from moderate cooling of the palms, soles, or upper face, which is intended to remove heat while maintaining blood flow. Reported gains in continued work and faster return toward baseline temperature support the mechanism as a performance hypothesis, but the supplied note does not establish comparative effectiveness for emergency treatment or a universal cooling temperature.
 
 The Heller interview sharpens the distinction between thermal sensation and heat removal. Cooling the neck, torso, or broad skin can feel effective while cold signaling and vasoconstriction reduce flow through heat-loss pathways; local working-muscle heat can also become limiting before whole-body temperature reaches an emergency range. The same vascular portals can be used in the opposite direction for rewarming. These principles make measurement, blood flow, context, and escalation more important than maximizing cold or warmth.
+
+The original 2021 cooling episode is the full provenance underlying its later Essentials edit. It reinforces the flow-preserving account through exercise, humidity, cardiac drift, and moderate cooling examples, but the two versions are overlapping presentations rather than independent confirmation. Its enzyme thresholds and very large performance effects remain source-scoped.
 
 ## Key Claims
 - Skin and core temperatures are related signals, not interchangeable measurements.
@@ -43,6 +46,7 @@ The Heller interview sharpens the distinction between thermal sensation and heat
 - Sensation-versus-transfer distinction - [[scim6467660570-scim6467660570]] argues that neck or torso cooling can change perceived temperature and vascular responses without proving adequate core cooling.
 - Bidirectional application - [[scim6467660570-scim6467660570]] links palms, soles, and upper-face cooling with heat removal and hand or foot warming with rapid rewarming, while retaining both as context-dependent applications.
 - Local and systemic limits - [[scim6467660570-scim6467660570]] distinguishes heat trapped in contracting muscle from gradually rising whole-body temperature and gives cognitive impairment as a warning sign of dangerous systemic heat.
+- Original-episode provenance - [[scim5512858918-scim5512858918]] links glabrous-skin heat transfer with humidity, cardiac drift, and exercise performance while warning that maximal cold can close the intended vascular pathway.
 
 ## Counterevidence & Qualifications
 The supplied notes do not provide complete comparative trials, effect sizes, measurement methods, or emergency-care protocols for glabrous-skin cooling or warming. The Heller episode's roughly twofold hyperthermia-cooling comparison and rapid postoperative rewarming example remain source-scoped rather than replacements for established emergency care. Reported exercise-volume gains do not establish what most people should expect. Face, hand, or foot temperature and subjective comfort are not substitutes for core assessment, and recommendations differ by equipment, exertional heat illness, cold injury, cardiovascular state, age, medication, and consciousness. Severe confusion, collapse, seizure, loss of consciousness, or suspected heat stroke or hypothermia requires emergency care.
@@ -51,6 +55,7 @@ The supplied notes do not provide complete comparative trials, effect sizes, mea
 - Added the distinction between systemic cold stress and flow-preserving glabrous-skin heat removal.
 - Added the distinction between subjective cooling and demonstrated removal of local or core heat.
 - Added bidirectional cooling and rewarming applications while keeping emergency superiority unresolved.
+- Added the original 2021 episode as overlapping provenance rather than independent support for the later Essentials edit.
 
 ## Related Concepts
 - [[HeatExposureDoseAndSafety]] - deliberate exposure framework governed by the same protective control system.

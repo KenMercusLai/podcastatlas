@@ -28548,3 +28548,11 @@ Added source `51-aztecs-glt9590586130`; created `CamillaTownsend`, `NahuatlPostC
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | Supercharge Exercise Performance & Recovery with Cooling
+
+Added source `scim5512858918-scim5512858918` and resynthesized `ThermoregulationAndGlabrousHeatTransfer`, `ExerciseHeatManagement`, and `ExerciseRecoveryReadiness` from their complete preserved evidence inventories. Core synthesis: local muscle heat, systemic thermal load, humidity, and cardiac drift can constrain output; moderate cooling of glabrous skin may preserve acute work capacity when blood flow remains open; and targeted temperature normalization, whole-body cold, soreness relief, emergency cooling, and long-term resistance adaptation are distinct goals. No settled contradiction was adopted. The full 2021 episode is underlying provenance for its later Essentials edit rather than independent replication; very large performance effects, temperature and enzyme thresholds, exact protocols, stimulant and caffeine effects, NSAID use, and alcohol-related claims remain source-scoped. Recurring show, host, and researcher pages were not changed because the episode adds no durable identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,568-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, synthesis, health, and publish validation passed.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
