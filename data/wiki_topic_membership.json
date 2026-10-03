@@ -6131,6 +6131,13 @@
       "url": "/topics/history/"
     }
   ],
+  "7-the-lessons-of-history-glt2771707131": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "70-childrens-history-glt3229015713": [
     {
       "key": "history",
@@ -41274,6 +41281,13 @@
     }
   ],
   "HistoricalJianghuSpace": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "HistoricalLearningWithoutPrediction": [
     {
       "key": "history",
       "label": "History",
@@ -81744,6 +81758,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Thucydides": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "TiDB": [

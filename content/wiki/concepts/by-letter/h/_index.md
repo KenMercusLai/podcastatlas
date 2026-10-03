@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9582
+wiki_total_pages: 9583
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "HistoricalJianghuSpace"
     title: "Historical Jianghu Space"
     url: "/wiki/concepts/historicaljianghuspace/"
+  - key: "HistoricalLearningWithoutPrediction"
+    title: "Historical Learning Without Prediction"
+    url: "/wiki/concepts/historicallearningwithoutprediction/"
   - key: "HistoricalMemoryContest"
     title: "Historical Memory Contest"
     url: "/wiki/concepts/historicalmemorycontest/"

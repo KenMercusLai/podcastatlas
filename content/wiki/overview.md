@@ -35,8 +35,11 @@ sources: [90-the-western-front-glt9972346188, vol-73-jingshenke-shaonian-ertong-
   33-the-beautiful-game-glt5860295083
   23-the-90s-glt8035489270
   20-china-glt4329327216
+  7-the-lessons-of-history-glt2771707131
 last_updated: 2026-10-04
 ---
+
+The latest addition is [[7-the-lessons-of-history-glt2771707131|7. The Lessons of History]], a [[TheRestIsHistory]] episode asking what historical knowledge can and cannot do. It adds [[HistoricalLearningWithoutPrediction]] and [[Thucydides]] while extending [[HistoricalAnalogyLimits]], [[Herodotus]], and [[PeterTurchin]]. Its core synthesis is that history can widen perspective, expose inherited constraints, identify recurring pressures, and cultivate humility, but it cannot supply universal formulas or eliminate error. Munich, appeasement, Hitler, Thucydidean rivalry, geography, social cycles, and predictive models become useful only when mechanism, cultural context, evidence, and disanalogy remain visible. No settled contradiction is recorded; aphorism attribution, cyclic patterns, forecasts, geographic claims, and compressed examples remain source-scoped.
 
 The latest addition is [[20-china-glt4329327216|20. China]], a [[TheRestIsHistory]] episode with [[MichaelWood]] surveying Chinese history through [[ChineseCivilizationalContinuity]]. It extends [[XiJinping]], [[DengXiaoping]], [[MaoZedong]], [[TaipingRebellion]], and [[QingDynasty]] while connecting recurring unity, Confucian moral language, legalist coercion, bureaucracy, territorial expansion, foreign pressure, revolution, and modernization. Its core synthesis is continuity-with-rupture: shared institutions and a reunification ideal persist across regimes, but Qing conquest, the Opium Wars, civil war, Maoist catastrophe, and Deng-era opening changed territory, politics, and social possibility. No settled contradiction is adopted; the episode's loose Taiping chronology is not used to replace the conventional 1850-64 range, and its interview memories, Great Divergence causation, popular-memory claims, and readings of contemporary political motives remain source-scoped.
 

@@ -29131,3 +29131,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 7. The Lessons of History
+
+Added source `7-the-lessons-of-history-glt2771707131`; created [[HistoricalLearningWithoutPrediction]] and [[Thucydides]]; and resynthesized [[HistoricalAnalogyLimits]], [[Herodotus]], and [[PeterTurchin]] from their complete evidence inventories. Core synthesis: history can widen perspective, surface inherited constraints, and discipline judgment without supplying universal formulas or certain forecasts. Munich, appeasement, great-power rivalry, geography, social cycles, and predictive models remain useful only when mechanism, context, evidence, and disanalogy stay explicit. No settled contradiction was adopted; aphorism attribution, cyclic patterns, forecasts, geographic claims, and compressed political examples remain source-scoped.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

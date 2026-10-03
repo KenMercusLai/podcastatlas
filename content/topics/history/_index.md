@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2535
+topic_total_pages: 2538
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -631,6 +631,9 @@ topic_concepts:
   - key: "HistoricalJianghuSpace"
     title: "Historical Jianghu Space"
     url: "/wiki/concepts/historicaljianghuspace/"
+  - key: "HistoricalLearningWithoutPrediction"
+    title: "Historical Learning Without Prediction"
+    url: "/wiki/concepts/historicallearningwithoutprediction/"
   - key: "HistoricalMemoryContest"
     title: "Historical Memory Contest"
     url: "/wiki/concepts/historicalmemorycontest/"
@@ -2420,6 +2423,9 @@ topic_entities:
   - key: "Throughline"
     title: "Throughline"
     url: "/wiki/entities/throughline/"
+  - key: "Thucydides"
+    title: "Thucydides"
+    url: "/wiki/entities/thucydides/"
   - key: "TocquevilleRoadTrip"
     title: "Tocqueville Road Trip"
     url: "/wiki/entities/tocquevilleroadtrip/"
@@ -6537,6 +6543,9 @@ topic_sources:
   - key: "699-the-troubles-return-of-the-ira-part-3-glt9519811642"
     title: "699. The Troubles: Return of the IRA (Part 3)"
     url: "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+  - key: "7-the-lessons-of-history-glt2771707131"
+    title: "7. The Lessons of History"
+    url: "/wiki/sources/7-the-lessons-of-history-glt2771707131/"
   - key: "70-childrens-history-glt3229015713"
     title: "70. Children’s History"
     url: "/wiki/sources/70-childrens-history-glt3229015713/"

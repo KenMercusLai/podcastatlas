@@ -95386,9 +95386,9 @@
       "url": "/wiki/entities/herodthegreat/"
     },
     "Herodotus": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -95424,9 +95424,16 @@
           "show": "The Rest Is History",
           "title": "98. Thermopylae & Salamis Episode 1",
           "url": "/wiki/sources/98-thermopylae-salamis-episode-1-glt3813381992/"
+        },
+        {
+          "episode_file": "GLT2771707131 [GLT2771707131].md",
+          "key": "7-the-lessons-of-history-glt2771707131",
+          "show": "The Rest Is History",
+          "title": "7. The Lessons of History",
+          "url": "/wiki/sources/7-the-lessons-of-history-glt2771707131/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/herodotus/"
     },
     "HeroicFailureMemory": {
@@ -96285,9 +96292,9 @@
       "url": "/wiki/concepts/historicalambiguityinmainstreamcinema/"
     },
     "HistoricalAnalogyLimits": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9171248177 [GLT9171248177].md",
@@ -96295,6 +96302,13 @@
           "show": "The Rest Is History",
           "title": "11. Brexit",
           "url": "/wiki/sources/11-brexit-glt9171248177/"
+        },
+        {
+          "episode_file": "GLT2771707131 [GLT2771707131].md",
+          "key": "7-the-lessons-of-history-glt2771707131",
+          "show": "The Rest Is History",
+          "title": "7. The Lessons of History",
+          "url": "/wiki/sources/7-the-lessons-of-history-glt2771707131/"
         }
       ],
       "updated": "2026-10-04",
@@ -96739,6 +96753,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/historicaljianghuspace/"
+    },
+    "HistoricalLearningWithoutPrediction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2771707131 [GLT2771707131].md",
+          "key": "7-the-lessons-of-history-glt2771707131",
+          "show": "The Rest Is History",
+          "title": "7. The Lessons of History",
+          "url": "/wiki/sources/7-the-lessons-of-history-glt2771707131/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/historicallearningwithoutprediction/"
     },
     "HistoricalMemoryContest": {
       "episode_count": 14,
@@ -161670,9 +161700,9 @@
       "url": "/wiki/entities/peterthegreat/"
     },
     "PeterTurchin": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6507641896 [GLT6507641896].md",
@@ -161680,9 +161710,16 @@
           "show": "The Rest Is History",
           "title": "84. Exams",
           "url": "/wiki/sources/84-exams-glt6507641896/"
+        },
+        {
+          "episode_file": "GLT2771707131 [GLT2771707131].md",
+          "key": "7-the-lessons-of-history-glt2771707131",
+          "show": "The Rest Is History",
+          "title": "7. The Lessons of History",
+          "url": "/wiki/sources/7-the-lessons-of-history-glt2771707131/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/peterturchin/"
     },
     "PetitTrianon": {
@@ -206520,6 +206557,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/thrivecausemetics/"
+    },
+    "Thucydides": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2771707131 [GLT2771707131].md",
+          "key": "7-the-lessons-of-history-glt2771707131",
+          "show": "The Rest Is History",
+          "title": "7. The Lessons of History",
+          "url": "/wiki/sources/7-the-lessons-of-history-glt2771707131/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/thucydides/"
     },
     "ThuleSociety": {
       "episode_count": 2,

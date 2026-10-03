@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [7. The Lessons of History](sources/7-the-lessons-of-history-glt2771707131.md) — The Rest Is History on historical analogy, recurring pressures, geography, prediction limits, and humility without universal formulas.
 - [8. The Echo of a Coffee House](sources/8-the-echo-of-a-coffee-house-glt8695060101.md) — The Rest Is History on Reformation print, social-media amplification, culture wars, vocal minorities, archival visibility, and the conditions for durable moral change.
 - [9. Causes of the First World War](sources/9-causes-of-the-first-world-war-glt8234482474.md) — The Rest Is History on fear, preventive-war logic, alliances, mobilisation, imperial strategy, Britain's contingent entry, and counterfactual neutrality.
 - [11. Brexit](sources/11-brexit-glt9171248177.md) — The Rest Is History survey of geographic, constitutional, imperial, and wartime Brexit parallels, emphasizing selective memory and the limits of historical analogy.
@@ -12341,6 +12342,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Athens / 雅典](entities/Athens.md) — Greek city whose anti-Roman revolt, starvation siege, sack, and loss of remaining independence connect Roman imperial pressure to the Sullan crisis.
 - [Achaemenid Empire / Persian Empire](entities/AchaemenidEmpire.md) — Foundational Iranian imperial order whose conquest, ideology, Greek wars, defeat, and selective inheritance frame its long political life.
 - [Herodotus](entities/Herodotus.md) — Greek historian who combines inquiry, attributed testimony, ethnography, cross-cultural comparison, narrative art, and reflection on empire.
+- [Thucydides](entities/Thucydides.md) — Greek historian whose contingent treatment of war and power is distinguished from deterministic modern “trap” readings.
 - [Miltiades](entities/Miltiades.md) — Athenian commander whose road-blocking strategy and cavalry-window attack plan anchor the Marathon reconstruction.
 - [Darius I](entities/DariusI.md) — Persian king whose revenge motive frames the punitive expedition against Eretria and Athens before Marathon.
 - [Cyrus the Great](entities/CyrusTheGreat.md) — Persian founder figure whose conquest, accommodation, favorable memory, and Pasargadae garden shape the Achaemenid inheritance.
@@ -16008,6 +16010,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Audience-Responsive Deep-Dive Podcasting](concepts/AudienceResponsiveDeepDivePodcasting.md) — Programming model combining sustained topic arcs, multiple episode formats, and listener demand signals without ceding editorial or evidentiary authority.
 - [Science-Based Tool Taxonomy](concepts/ScienceBasedToolTaxonomy.md) — Framework separating behavioral, avoidance, nutritional, supplemental, prescription, interface, and device interventions from evidence or endorsement claims.
 - [Historical Analogy Limits](concepts/HistoricalAnalogyLimits.md) — Method for using a past event as a bounded comparison without turning partial similarity into exact precedent, prediction, or moral equivalence.
+- [Historical Learning Without Prediction](concepts/HistoricalLearningWithoutPrediction.md) — Method for using history to widen judgment and cultivate humility without claiming universal laws or certain forecasts.
 - [Antisemitic Conspiracy Scapegoating](concepts/AntisemiticConspiracyScapegoating.md) — Mechanism that personalizes diffuse systems and crises as coordinated Jewish control and can convert false belief into institutional violence.
 - [Mythic Double Determination](concepts/MythicDoubleDetermination.md) — Framework in which divine intervention and human action remain simultaneous explanations without erasing responsibility or evidence boundaries.
 - [Wall and Border Systems](concepts/WallBorderSystems.md) — Framework separating purpose-specific effectiveness, enforcement capacity, political legitimacy, and conflict resolution.

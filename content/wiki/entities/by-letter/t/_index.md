@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12255
+wiki_total_pages: 12256
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -755,6 +755,9 @@ wiki_pages:
   - key: "Throughline"
     title: "Throughline"
     url: "/wiki/entities/throughline/"
+  - key: "Thucydides"
+    title: "Thucydides"
+    url: "/wiki/entities/thucydides/"
   - key: "ThuleSociety"
     title: "Thule Society"
     url: "/wiki/entities/thulesociety/"
