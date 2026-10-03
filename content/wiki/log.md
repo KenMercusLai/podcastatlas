@@ -28724,3 +28724,11 @@ Added source `40-history-as-entertainment-glt9519276470`; created bounded profil
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | EP166-Spotify缘何成为地表最强音乐流媒体平台？
+
+Added source `ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd`; created `PlaylistAsDiscoveryInterface`, `CrossLanguageRecommendationBias`, `AudioPlatformExpansion`, and `StreamingRoyaltyGaming`; and resynthesized `Spotify`, `RecommendationSystemProductization`, and `DigitalMusicLicensing` from their complete preserved evidence inventories. Core synthesis: Spotify's platform advantage joins licensed access, playlist-led reduction of choice cost, and recommendation distributed across multiple product surfaces, while language priors, creator incentives, and count-based compensation introduce correction burdens and gaming risks. No settled contradiction was adopted. Team size, label equity, royalty thresholds, licensing costs, market-entry plans, workplace culture, and suspected manipulation remain source-scoped to a 2021 employee-and-user conversation. The recurring show profile was not changed because the episode adds no durable show-identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,590-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

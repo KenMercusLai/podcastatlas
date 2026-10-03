@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9520
+wiki_total_pages: 9524
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2666,6 +2666,9 @@ wiki_pages:
   - key: "CrossLaminatedTimber"
     title: "Cross-Laminated Timber"
     url: "/wiki/concepts/crosslaminatedtimber/"
+  - key: "CrossLanguageRecommendationBias"
+    title: "Cross-Language Recommendation Bias"
+    url: "/wiki/concepts/crosslanguagerecommendationbias/"
   - key: "CrossMarketLeveragedETFExecutionRisk"
     title: "Cross-Market Leveraged ETF Execution Risk / 跨市场杠杆 ETF 执行风险"
     url: "/wiki/concepts/crossmarketleveragedetfexecutionrisk/"

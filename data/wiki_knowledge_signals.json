@@ -17468,6 +17468,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/audiencebeforeproductmarketing/"
     },
+    "AudioPlatformExpansion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIUEEPmnAABAAAACaRjJD [CKwRIUEEPmnAABAAAACaRjJD].md",
+          "key": "ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd",
+          "show": "无时差研究所",
+          "title": "EP166-Spotify缘何成为地表最强音乐流媒体平台？",
+          "url": "/wiki/sources/ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/audioplatformexpansion/"
+    },
     "AuditoryExperienceDependentCriticalPeriods": {
       "episode_count": 1,
       "show_count": 1,
@@ -46382,6 +46398,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/crosskinshipsteppeorganization/"
     },
+    "CrossLanguageRecommendationBias": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIUEEPmnAABAAAACaRjJD [CKwRIUEEPmnAABAAAACaRjJD].md",
+          "key": "ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd",
+          "show": "无时差研究所",
+          "title": "EP166-Spotify缘何成为地表最强音乐流媒体平台？",
+          "url": "/wiki/sources/ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/crosslanguagerecommendationbias/"
+    },
     "CrossSymbolicInversion": {
       "episode_count": 1,
       "show_count": 1,
@@ -53465,6 +53497,36 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/digitalminimalism/"
+    },
+    "DigitalMusicLicensing": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260817_TECH_pod_128 [tech_20260817_TECH_pod_128].md",
+          "key": "tech-20260817-tech-pod-128-tech-20260817-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Can an AI music company make nice with human artists?",
+          "url": "/wiki/sources/tech-20260817-tech-pod-128-tech-20260817-tech-pod-128/"
+        },
+        {
+          "episode_file": "TSR-RonConway-Part4-v2 [TSR-RonConway-Part4-v2].md",
+          "key": "tsr-ronconway-part4-v2-tsr-ronconway-part4-v2",
+          "show": "The Social Radars",
+          "title": "Ron Conway on Napster, Founder Relationships, and SV Angel's Crisis Work",
+          "url": "/wiki/sources/tsr-ronconway-part4-v2-tsr-ronconway-part4-v2/"
+        },
+        {
+          "episode_file": "CKwRIUEEPmnAABAAAACaRjJD [CKwRIUEEPmnAABAAAACaRjJD].md",
+          "key": "ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd",
+          "show": "无时差研究所",
+          "title": "EP166-Spotify缘何成为地表最强音乐流媒体平台？",
+          "url": "/wiki/sources/ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/digitalmusiclicensing/"
     },
     "DigitalOlfaction": {
       "episode_count": 1,
@@ -161060,6 +161122,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/playascontingencytesting/"
     },
+    "PlaylistAsDiscoveryInterface": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIUEEPmnAABAAAACaRjJD [CKwRIUEEPmnAABAAAACaRjJD].md",
+          "key": "ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd",
+          "show": "无时差研究所",
+          "title": "EP166-Spotify缘何成为地表最强音乐流媒体平台？",
+          "url": "/wiki/sources/ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/playlistasdiscoveryinterface/"
+    },
     "PleasurePainBalanceAddiction": {
       "episode_count": 2,
       "show_count": 1,
@@ -171517,6 +171595,43 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/recognitiondrivenworkplaceconformity/"
+    },
+    "RecommendationSystemProductization": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授 [lo6IK8Cj2NjVu-cy2JDJ_Kl1JpUQ].md",
+          "key": "164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq",
+          "show": "起朱楼宴宾客",
+          "title": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授",
+          "url": "/wiki/sources/164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq/"
+        },
+        {
+          "episode_file": "159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的 [lh5ng5MBvkwOrFXLq9l-cOScePC7].md",
+          "key": "159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7",
+          "show": "起朱楼宴宾客",
+          "title": "159.算法的六副面孔：它是如何从处理数据，变成定义我们是谁的",
+          "url": "/wiki/sources/159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7/"
+        },
+        {
+          "episode_file": "Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集 [ludFlvAw7lId_tCi9GaGBbXOBVtz].md",
+          "key": "musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz",
+          "show": "乱翻书",
+          "title": "Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集",
+          "url": "/wiki/sources/musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz/"
+        },
+        {
+          "episode_file": "CKwRIUEEPmnAABAAAACaRjJD [CKwRIUEEPmnAABAAAACaRjJD].md",
+          "key": "ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd",
+          "show": "无时差研究所",
+          "title": "EP166-Spotify缘何成为地表最强音乐流媒体平台？",
+          "url": "/wiki/sources/ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/recommendationsystemproductization/"
     },
     "ReconstructionConstitutionalAfterlife": {
       "episode_count": 1,
@@ -192355,9 +192470,9 @@
       "url": "/wiki/entities/spotrobot/"
     },
     "Spotify": {
-      "episode_count": 7,
-      "show_count": 5,
-      "source_note_count": 7,
+      "episode_count": 8,
+      "show_count": 6,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约 [1006054195].md",
@@ -192407,9 +192522,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-di/"
+        },
+        {
+          "episode_file": "CKwRIUEEPmnAABAAAACaRjJD [CKwRIUEEPmnAABAAAACaRjJD].md",
+          "key": "ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd",
+          "show": "无时差研究所",
+          "title": "EP166-Spotify缘何成为地表最强音乐流媒体平台？",
+          "url": "/wiki/sources/ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-03",
       "url": "/wiki/entities/spotify/"
     },
     "SpringAutumnIntentAdjudication": {
@@ -194425,6 +194547,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/streamingawardleadership/"
+    },
+    "StreamingRoyaltyGaming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "CKwRIUEEPmnAABAAAACaRjJD [CKwRIUEEPmnAABAAAACaRjJD].md",
+          "key": "ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd",
+          "show": "无时差研究所",
+          "title": "EP166-Spotify缘何成为地表最强音乐流媒体平台？",
+          "url": "/wiki/sources/ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd/"
+        }
+      ],
+      "updated": "2026-10-03",
+      "url": "/wiki/concepts/streamingroyaltygaming/"
     },
     "StreetJianghuSociety": {
       "episode_count": 2,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9520
+wiki_total_pages: 9524
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -962,6 +962,9 @@ wiki_pages:
   - key: "PlayerHousingAsLaborBenefit"
     title: "Player Housing as Labor Benefit"
     url: "/wiki/concepts/playerhousingaslaborbenefit/"
+  - key: "PlaylistAsDiscoveryInterface"
+    title: "Playlist As Discovery Interface"
+    url: "/wiki/concepts/playlistasdiscoveryinterface/"
   - key: "PleasurePainBalanceAddiction"
     title: "Pleasure-Pain Balance in Addiction"
     url: "/wiki/concepts/pleasurepainbalanceaddiction/"

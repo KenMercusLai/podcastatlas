@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP166-Spotify缘何成为地表最强音乐流媒体平台？](sources/ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd.md) — 无时差研究所 conversation on playlist discovery, distributed recommendation, licensing, cross-language bias, audio-platform expansion, royalty gaming, and Spotify workplace culture.
 - [40. History as Entertainment](sources/40-history-as-entertainment-glt9519276470.md) — The Rest Is History on reenactment, theme parks, board games, video games, historical simulation, ideological framing, and the ethics of making violence entertaining.
 - [EP287 一起逛早市：寻找北方最鲜活的早晨](sources/ep287-yiqi-guang-zaoshi-xunzhao-beifang-zui-xianhuo-de-zaochen-lpuox4b-b02k-awt-hsjuph-froi.md) — Talk三联 field report on northern morning markets, breakfast locality, timed urban space, social life, governance, and tourism-driven change.
 - [EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？](sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y.md) — 无时差研究所 conversation on lived Hainan, tourism geography, free-trade-port opportunity, island logistics, resident costs, public services, and talent retention.
@@ -15910,6 +15911,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civilization (game series)](entities/CivilizationGameSeries.md) — Strategy-game series joining counterfactual agency to a designed model of long-run development.
 
 ## Concepts
+- [Playlist As Discovery Interface](concepts/PlaylistAsDiscoveryInterface.md) — Playlist layer translating mood, activity, and setting into low-friction music discovery.
+- [Cross-Language Recommendation Bias](concepts/CrossLanguageRecommendationBias.md) — Failure mode where language or region priors override a user's genre or style intent.
+- [Audio Platform Expansion](concepts/AudioPlatformExpansion.md) — Strategy of extending a music service across podcasts, radio, audiobooks, and related audio formats.
+- [Streaming Royalty Gaming](concepts/StreamingRoyaltyGaming.md) — Manipulation risk created by countable play thresholds and usage-based compensation rules.
 - [Morning Market Urbanism / 早市城市主义](concepts/MorningMarketUrbanism.md) — Timed system joining food access, low-cost trade, social contact, reversible public space, and practical market governance.
 - [Breakfast Locality / 早餐地方性](concepts/BreakfastLocality.md) — Persistence of regional morning foods through stable tastes, small-shop economics, service rhythms, and social occasions.
 - [Touristification of Everyday Markets / 日常市场游客化](concepts/TouristificationOfEverydayMarkets.md) — Shift from resident provisioning toward visitor food, shareable experience, replicated stalls, and possible homogenization.

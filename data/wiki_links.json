@@ -9883,6 +9883,10 @@
     "title": "Audience-Versus-Meeting Diplomacy / 朝会之别",
     "url": "/wiki/concepts/audiencevsmeetingdiplomacy/"
   },
+  "AudioPlatformExpansion": {
+    "title": "Audio Platform Expansion",
+    "url": "/wiki/concepts/audioplatformexpansion/"
+  },
   "AuditOpinionRisk": {
     "title": "Audit Opinion Risk",
     "url": "/wiki/concepts/auditopinionrisk/"
@@ -20878,6 +20882,10 @@
   "CrossLaminatedTimber": {
     "title": "Cross-Laminated Timber",
     "url": "/wiki/concepts/crosslaminatedtimber/"
+  },
+  "CrossLanguageRecommendationBias": {
+    "title": "Cross-Language Recommendation Bias",
+    "url": "/wiki/concepts/crosslanguagerecommendationbias/"
   },
   "CrossMarketLeveragedETFExecutionRisk": {
     "title": "Cross-Market Leveraged ETF Execution Risk / 跨市场杠杆 ETF 执行风险",
@@ -61711,6 +61719,10 @@
     "title": "Player Housing as Labor Benefit",
     "url": "/wiki/concepts/playerhousingaslaborbenefit/"
   },
+  "PlaylistAsDiscoveryInterface": {
+    "title": "Playlist As Discovery Interface",
+    "url": "/wiki/concepts/playlistasdiscoveryinterface/"
+  },
   "Playwright": {
     "title": "Playwright",
     "url": "/wiki/entities/playwright/"
@@ -74846,6 +74858,10 @@
   "StreamingPlatformBundling": {
     "title": "Streaming Platform Bundling",
     "url": "/wiki/concepts/streamingplatformbundling/"
+  },
+  "StreamingRoyaltyGaming": {
+    "title": "Streaming Royalty Gaming",
+    "url": "/wiki/concepts/streamingroyaltygaming/"
   },
   "StreamingVideoGeneration": {
     "title": "Streaming Video Generation",
@@ -91958,6 +91974,10 @@
   "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u": {
     "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
     "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
+  },
+  "ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd": {
+    "title": "EP166-Spotify缘何成为地表最强音乐流媒体平台？",
+    "url": "/wiki/sources/ep166-spotify-yuanhe-chengwei-dibiao-zuiqiang-yinle-liumeiti-pingtai-ckwriueepmnaaabaaacarjjd/"
   },
   "ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y": {
     "title": "EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？",
