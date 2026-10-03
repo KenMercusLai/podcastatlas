@@ -7,7 +7,8 @@ sources:
   - essentials-how-to-optimize-testosterone-estrogen-scim1902283258
   - developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354
   - tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886
-last_updated: 2026-09-30
+  - how-to-optimize-testosterone-estrogen-scim7814508461
+last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,6 +26,8 @@ The solo Essentials episode reinforces that hierarchy. It discusses Tongkat Ali 
 
 The dedicated supplementation episode broadens the frame across sexes and fertility contexts. It places energy sufficiency, sleep, morning light, exercise, menstrual-cycle phase, IVF, birth control, and hormone prescriptions ahead of supplement selection. Bloodwork before use and again after an initial trial is presented as a monitoring principle, while Fadogia toxicity and individual response to Tongkat Ali keep both products outside a copyable stack.
 
+The full 2021 solo episode behind the later Essentials edit widens the compound inventory without weakening the boundary. Vitamin D, zinc, and magnesium are framed around sufficiency; creatine, nettle, boron, Tongkat Ali, ecdysteroids, and Fadogia differ in proposed mechanism, human evidence, adverse-effect uncertainty, and hormone-sensitive tissue risk. A longer list is therefore not a stack: the episode still places foundations, bloodwork, feedback effects, and medical context first.
+
 ## Key Claims
 - Supplements should follow foundational sleep, diet, training, stress, purpose, and clinical-context work rather than replace it.
 - Creatine is framed as broadly useful and possibly mildly androgen-relevant, but the source does not turn it into a testosterone protocol.
@@ -32,7 +35,7 @@ The dedicated supplementation episode broadens the frame across sexes and fertil
 - L-carnitine has route and gut-context limits because oral bioavailability is described as low, injectable use needs supervision, and high dose raises TMAO concerns.
 - Vitamin D, boron, and Tongkat Ali are interpreted through deficiency, SHBG, diet context, dosage, and compound standardization.
 - Fadogia is treated cautiously because the episode links its luteinizing-hormone mechanism to animal-study toxicity markers and non-daily dosing discussion.
-- Supplement claims remain bounded by product quality, individual labs, medical history, menstrual-cycle phase, fertility treatment, birth control, prescription interactions, and side effects.
+- Supplement claims, including those for ecdysteroids, nettle, and other hormone-active compounds, remain bounded by mechanism, evidence strength, product quality, individual labs, medical history, menstrual-cycle phase, fertility treatment, birth control, prescription interactions, and side effects.
 
 ## Evidence
 - Foundational priority: [[essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415]] moves from diet, sleep, exercise, stress, purpose, fiber, fats, vitamin D, and calorie context into supplements rather than starting with pills.
@@ -43,13 +46,15 @@ The dedicated supplementation episode broadens the frame across sexes and fertil
 - Repeated caution: [[essentials-how-to-optimize-testosterone-estrogen-scim1902283258]] discusses Tongkat Ali and Fadogia without recommending a dose, flags insomnia and possible anti-estrogen effects, and says Fadogia's side-effect profile is poorly documented.
 - Monitoring and reproductive context: [[developing-a-rational-approach-to-supplementation-for-health-performance-scim5857890354]] places bloodwork, minimum-effective-dose trials, sex-specific response, menstrual timing, fertility care, contraception, and prescription interactions around hormone-support products.
 - Full-episode corroboration and scope: [[tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim8881525886]] repeats the creatine, betaine, L-carnitine, vitamin D, boron, Tongkat Ali, and Fadogia discussion while adding the broader puberty, diet, training, fertility, and prescription context in which those claims were made.
+- Broader solo survey: [[how-to-optimize-testosterone-estrogen-scim7814508461]] discusses nutrient sufficiency, creatine-DHT effects, nettle, boron, Tongkat Ali, ecdysteroids, and Fadogia while repeatedly prioritizing bloodwork, feedback, hormone-sensitive tissue, and medical oversight.
 
 ## Counterevidence & Qualifications
-The sources do not provide independent evidence grading for every supplement, brand, or dose, and they do not establish that any supplement reliably improves outcomes for a specific person. The two Gillett notes are versions of the same interview and should not be counted as independent corroboration. Reported Tongkat Ali ranges are not recommendations, and Fadogia's human efficacy and safety remain especially uncertain. Claims about shilajit, ashwagandha, L-carnitine, maca, libido, fertility, cortisol, FSH, LH, testosterone, or estrogen remain source-scoped. Lab abnormalities, fertility goals, menstrual-cycle context, IVF, birth control, liver or kidney disease, cardiovascular risk, medications, pregnancy or partner fertility planning, and adverse effects require qualified medical interpretation.
+The sources do not provide independent evidence grading for every supplement, brand, or dose, and they do not establish that any supplement reliably improves outcomes for a specific person. The two Gillett notes are versions of the same interview and should not be counted as independent corroboration; the full 2021 solo episode likewise substantially overlaps its later Essentials edit. Reported Tongkat Ali ranges are not recommendations, and Fadogia's human efficacy and safety remain especially uncertain. Claims about shilajit, ashwagandha, L-carnitine, maca, nettle, boron, ecdysteroids, creatine-related DHT, libido, fertility, cortisol, FSH, LH, testosterone, or estrogen remain source-scoped. Lab abnormalities, fertility goals, menstrual-cycle context, IVF, birth control, liver or kidney disease, cardiovascular risk, medications, pregnancy or partner fertility planning, and adverse effects require qualified medical interpretation.
 
 ## What Changed
 - Added the full episode as expanded context for the same named-compound discussion.
 - Clarified that the full and Essentials versions are overlapping evidence, not separate corroboration.
+- Added the 2021 solo episode's broader compound survey while keeping it subordinate to foundations, bloodwork, and compound-specific evidence and safety limits.
 
 ## Related Concepts
 - [[MaleHormoneHealthPhenotyping]] - measurement frame that determines whether supplement claims are relevant.

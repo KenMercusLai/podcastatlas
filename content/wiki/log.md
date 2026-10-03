@@ -28668,3 +28668,11 @@ Added source `43-1940-glt2702093158`; created bounded profiles for Lord Halifax 
 ## [2026-10-03] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-03] ingest | How to Optimize Testosterone & Estrogen
+
+Added source `how-to-optimize-testosterone-estrogen-scim7814508461` and resynthesized `SexSteroidFeedbackRegulation`, `MaleHormoneHealthPhenotyping`, and `AndrogenSupportSupplementBoundary` from their complete preserved evidence inventories. Core synthesis: testosterone and estrogen are interacting, feedback-regulated signals whose interpretation depends on conversion, binding, tissue context, life stage, symptoms, sleep, stress, fertility goals, and measurement; behavioral foundations and bloodwork precede supplements or direct hormone manipulation. No settled contradiction was adopted. The full 2021 episode is underlying provenance for its later Essentials edit rather than independent corroboration; competition, abstinence, parenthood, pheromone, breathing, light, cold, exercise, menopause-supplement, creatine-DHT, Tongkat Ali, nettle, boron, ecdysteroid, HCG, and Fadogia claims remain source-scoped. Recurring host and show pages were not changed because the episode adds no durable identity update. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,583-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
