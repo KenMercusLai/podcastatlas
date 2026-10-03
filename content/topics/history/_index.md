@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2519
+topic_total_pages: 2521
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -193,6 +193,9 @@ topic_concepts:
   - key: "ChineseAstrologicalPolitics"
     title: "Chinese Astrological Politics / 中国星占政治"
     url: "/wiki/concepts/chineseastrologicalpolitics/"
+  - key: "ChineseCivilizationalContinuity"
+    title: "Chinese Civilizational Continuity"
+    url: "/wiki/concepts/chinesecivilizationalcontinuity/"
   - key: "ChineseTeaTraditionReconstruction"
     title: "Chinese Tea Tradition Reconstruction / 中国茶传统重构"
     url: "/wiki/concepts/chineseteatraditionreconstruction/"
@@ -5268,6 +5271,9 @@ topic_sources:
   - key: "199-stonehenge-glt3612348466"
     title: "199. Stonehenge"
     url: "/wiki/sources/199-stonehenge-glt3612348466/"
+  - key: "20-china-glt4329327216"
+    title: "20. China"
+    url: "/wiki/sources/20-china-glt4329327216/"
   - key: "200-american-civil-war-the-causes-part-1-glt1124511401"
     title: "200: American Civil War: The Causes (Part 1)"
     url: "/wiki/sources/200-american-civil-war-the-causes-part-1-glt1124511401/"

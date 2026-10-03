@@ -36915,6 +36915,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/chinesechampionsleague/"
     },
+    "ChineseCivilizationalContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4329327216 [GLT4329327216].md",
+          "key": "20-china-glt4329327216",
+          "show": "The Rest Is History",
+          "title": "20. China",
+          "url": "/wiki/sources/20-china-glt4329327216/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/chinesecivilizationalcontinuity/"
+    },
     "ChineseCommunistParty": {
       "episode_count": 4,
       "show_count": 1,
@@ -52468,9 +52484,9 @@
       "url": "/wiki/entities/dengxilatehan/"
     },
     "DengXiaoping": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1902993082 [GLT1902993082].md",
@@ -52485,9 +52501,16 @@
           "show": "The Rest Is History",
           "title": "173. Chairman Mao & the Cultural Revolution",
           "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
+        },
+        {
+          "episode_file": "GLT4329327216 [GLT4329327216].md",
+          "key": "20-china-glt4329327216",
+          "show": "The Rest Is History",
+          "title": "20. China",
+          "url": "/wiki/sources/20-china-glt4329327216/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/dengxiaoping/"
     },
     "DengXunEasternHan": {
@@ -134865,9 +134888,9 @@
       "url": "/wiki/entities/maoyisheng/"
     },
     "MaoZedong": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1902993082 [GLT1902993082].md",
@@ -134889,9 +134912,16 @@
           "show": "The Rest Is History",
           "title": "173. Chairman Mao & the Cultural Revolution",
           "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
+        },
+        {
+          "episode_file": "GLT4329327216 [GLT4329327216].md",
+          "key": "20-china-glt4329327216",
+          "show": "The Rest Is History",
+          "title": "20. China",
+          "url": "/wiki/sources/20-china-glt4329327216/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/maozedong/"
     },
     "MaoZheTCMDoctor": {
@@ -141042,6 +141072,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/michaelservetus/"
+    },
+    "MichaelWood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4329327216 [GLT4329327216].md",
+          "key": "20-china-glt4329327216",
+          "show": "The Rest Is History",
+          "title": "20. China",
+          "url": "/wiki/sources/20-china-glt4329327216/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/michaelwood/"
     },
     "MichaelYoung": {
       "episode_count": 1,
@@ -170975,9 +171021,9 @@
       "url": "/wiki/entities/qinsi/"
     },
     "QingDynasty": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸 [lr3erfvRoy4B_Ryu2Sfsdgd-e4m1].md",
@@ -170985,9 +171031,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸",
           "url": "/wiki/sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1/"
+        },
+        {
+          "episode_file": "GLT4329327216 [GLT4329327216].md",
+          "key": "20-china-glt4329327216",
+          "show": "The Rest Is History",
+          "title": "20. China",
+          "url": "/wiki/sources/20-china-glt4329327216/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/qingdynasty/"
     },
     "QingMidDynastyAccumulatedMaladies": {
@@ -200730,9 +200783,9 @@
       "url": "/wiki/entities/tainopeople/"
     },
     "TaipingRebellion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2700696137 [GLT2700696137].md",
@@ -200747,9 +200800,16 @@
           "show": "The Rest Is History",
           "title": "84. Exams",
           "url": "/wiki/sources/84-exams-glt6507641896/"
+        },
+        {
+          "episode_file": "GLT4329327216 [GLT4329327216].md",
+          "key": "20-china-glt4329327216",
+          "show": "The Rest Is History",
+          "title": "20. China",
+          "url": "/wiki/sources/20-china-glt4329327216/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/taipingrebellion/"
     },
     "Taipingjing": {
@@ -223190,9 +223250,9 @@
       "url": "/wiki/entities/xiguangeasternhan/"
     },
     "XiJinping": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Socialist mobility： a telling Michigan vote [6a74600ec3e1347e8b5bf216].md",
@@ -223221,9 +223281,16 @@
           "show": "The Rest Is History",
           "title": "173. Chairman Mao & the Cultural Revolution",
           "url": "/wiki/sources/173-chairman-mao-the-cultural-revolution-glt2886812821/"
+        },
+        {
+          "episode_file": "GLT4329327216 [GLT4329327216].md",
+          "key": "20-china-glt4329327216",
+          "show": "The Rest Is History",
+          "title": "20. China",
+          "url": "/wiki/sources/20-china-glt4329327216/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/xijinping/"
     },
     "XiShouLateHan": {

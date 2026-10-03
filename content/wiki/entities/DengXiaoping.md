@@ -5,7 +5,8 @@ tags: [person, china, politics, economic-reform]
 sources:
   - 366-the-architect-of-modern-china-glt1902993082
   - 173-chairman-mao-the-cultural-revolution-glt2886812821
-last_updated: 2026-09-28
+  - 20-china-glt4329327216
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The sources trace Deng from Sichuan, work-study France, Marxist training in Mosc
 
 From 1977-78, Deng used party and military networks to ease Hua Guofeng aside, rehabilitated practical learning through Maoist language, welcomed foreign economic advice, and backed markets, private initiative, infrastructure, and special economic zones. His governing boundary became explicit in 1989: he supported the hardliners, removed [[ZhaoZiyang]], and authorized military force in Beijing. The 1992 southern tour then revived economic opening while political liberalization remained closed.
 
+The opening also persists as public historical memory. Wood recalls people naming the 1978-79 turn as a defining event and uses restored examinations, peasant departures from collective constraints, foreign travel, and Deng's televised American visit as signs that reform changed both opportunity and China's relationship with the world. [[20-china-glt4329327216|20. China]]
+
 ## Key Characteristics
 
 - He combined deep revolutionary and military legitimacy with repeated experience of purge and restoration.
@@ -28,7 +31,7 @@ From 1977-78, Deng used party and military networks to ease Hua Guofeng aside, r
 - He relied on advisers, local experimentation, foreign expertise, and special zones rather than claiming personal economic mastery.
 - He could repurpose Maoist language to justify policies that moved away from Mao-era economic rigidity.
 - He treated perceived threats to party rule as grounds for coercive violence.
-- His post-1989 settlement preserved economic reform while terminating organized political liberalization.
+- His opening altered education, rural initiative, foreign exchange, and popular expectations, while the post-1989 settlement preserved economic reform and terminated organized political liberalization.
 - Personal and family victimization during the Cultural Revolution reinforced rather than dissolved his commitment to controlled party rule.
 
 ## Evidence
@@ -38,15 +41,17 @@ From 1977-78, Deng used party and military networks to ease Hua Guofeng aside, r
 - Authoritarian boundary: [[366-the-architect-of-modern-china-glt1902993082]] connects Deng to the June 1989 military crackdown, Zhao's removal, and the freezing of political liberalization.
 - Reform restart: [[366-the-architect-of-modern-china-glt1902993082]] treats the 1992 southern tour as the renewal of economic reform after the post-1989 slowdown.
 - Cultural Revolution injury: [[173-chairman-mao-the-cultural-revolution-glt2886812821]] describes Deng Pufang's fall and disability and places Deng's later reform within the catastrophe's elite trauma.
+- Public meaning of opening: [[20-china-glt4329327216|20. China]] uses restored examinations, rural initiative, and Deng's American visit to show why 1978-79 persists as a major historical turning point.
 
 ## Qualifications
 
-This profile is grounded in two broad narrative-history episodes. Claims about Deng's responsibility for land-reform killing, the Shadian incident, private motives, the exact balance among advisers and institutions, and counterfactual alternatives in 1989 remain source-scoped. Personal trauma is relevant context, not proof of motive or justification for repression. Economic transformation cannot be attributed to Deng alone.
+This profile is grounded in three broad narrative-history episodes. Claims about Deng's responsibility for land-reform killing, the Shadian incident, private motives, the exact balance among advisers and institutions, and counterfactual alternatives in 1989 remain source-scoped. Personal trauma is relevant context, not proof of motive or justification for repression. Economic transformation cannot be attributed to Deng alone, and remembered interviews do not establish how widely any single interpretation of the opening is shared.
 
 ## What Changed
 
 - Deepened the Cultural Revolution background through family victimization and the memory of uncontrolled mass politics.
 - Clarified that victimization could coexist with revolutionary continuity and later authoritarian choice.
+- Added the opening's public meaning through education, rural initiative, foreign exchange, and remembered historical turning point.
 
 ## Relationships
 
@@ -56,3 +61,4 @@ This profile is grounded in two broad narrative-history episodes. Claims about D
 - [[ChineseAuthoritarianMarketReform]] - political-economic settlement most closely associated with his leadership.
 - [[CulturalRevolutionGovernanceMemory]] - remembered chaos shaping his response to mass politics.
 - [[TiananmenCrackdown1989]] - coercive decision that defines the political limit of his reform program.
+- [[ChineseCivilizationalContinuity]] - longer historical frame within which Deng's opening appears as a major rupture with retained party rule.

@@ -28980,3 +28980,11 @@ Added source `21-the-history-of-the-future-glt7103118075`; created [[DelphicOrac
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 20. China
+
+Added source `20-china-glt4329327216`; created [[MichaelWood]] and [[ChineseCivilizationalContinuity]]; and resynthesized [[XiJinping]], [[DengXiaoping]], [[MaoZedong]], [[TaipingRebellion]], and [[QingDynasty]] from their complete preserved evidence inventories. Core synthesis: Chinese history combines recurring ideals of unity and durable institutional memory with territorial expansion, foreign coercion, civil war, revolution, and modernization. No settled contradiction was adopted; the episode's loose Taiping chronology was qualified against the conventional 1850-64 range, and its interview memories, Great Divergence causation, popular-memory claims, and readings of contemporary motives remain source-scoped. The downstream manifest and paragraph ledger were refreshed to 3,622-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

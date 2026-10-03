@@ -34,8 +34,11 @@ sources: [90-the-western-front-glt9972346188, vol-73-jingshenke-shaonian-ertong-
   38-communism-glt7587678050
   33-the-beautiful-game-glt5860295083
   23-the-90s-glt8035489270
+  20-china-glt4329327216
 last_updated: 2026-10-04
 ---
+
+The latest addition is [[20-china-glt4329327216|20. China]], a [[TheRestIsHistory]] episode with [[MichaelWood]] surveying Chinese history through [[ChineseCivilizationalContinuity]]. It extends [[XiJinping]], [[DengXiaoping]], [[MaoZedong]], [[TaipingRebellion]], and [[QingDynasty]] while connecting recurring unity, Confucian moral language, legalist coercion, bureaucracy, territorial expansion, foreign pressure, revolution, and modernization. Its core synthesis is continuity-with-rupture: shared institutions and a reunification ideal persist across regimes, but Qing conquest, the Opium Wars, civil war, Maoist catastrophe, and Deng-era opening changed territory, politics, and social possibility. No settled contradiction is adopted; the episode's loose Taiping chronology is not used to replace the conventional 1850-64 range, and its interview memories, Great Divergence causation, popular-memory claims, and readings of contemporary political motives remain source-scoped.
 
 The latest addition is [[scim2147325995-scim2147325995|How to Control Your Metabolism by Thyroid & Growth Hormone]], a full-length [[HubermanLab]] solo episode with [[AndrewHuberman]] on [[ThyroidHormoneMetabolism]], [[GrowthHormoneBehavioralRegulation]], [[SlowWaveSleepRestoration]], exercise, heat, amino-acid pathways, and prescription-hormone risk. Its core synthesis is that thyroid and growth hormone are regulated systems affecting cellular energy use, growth, and repair rather than simple weight-loss switches; ordinary sleep, nutrition, and exercise support remain distinct from supplement, hyperthermia, peptide, or hormone interventions. No settled contradiction is recorded. The full episode and later Essentials edit are overlapping provenance, while brain-energy, diet, meal-timing, sex-specific exercise, age-decline, supplement-dose, sauna-multiplier, and endocrine-intervention claims remain source-scoped and clinically bounded.
 

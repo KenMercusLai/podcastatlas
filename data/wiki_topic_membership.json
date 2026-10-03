@@ -2162,6 +2162,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "20-china-glt4329327216": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734": [
     {
       "key": "culture",
@@ -21114,6 +21121,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ChineseCivilizationalContinuity": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "ChineseCommunistParty": [
