@@ -10,6 +10,7 @@ sources:
   - scim2746317304-scim2746317304
   - scim3608509346-scim3608509346
   - optimize-your-learning-creativity-with-science-based-tools-scim9141486324
+  - how-your-brain-works-changes-scim1534957507
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -32,6 +33,8 @@ The earlier [[scim2746317304-scim2746317304]] episode frames waking ultradian cy
 
 The proposed 90-minute blocks are periods for expanding mental capacity, not the only productive hours in the day. Email, meetings, reading, and routine obligations can surround them, and the block should be placed where the person's alertness and task type fit rather than automatically first thing in the morning. This scope distinction is explicit in [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]].
 
+The first [[how-your-brain-works-changes-scim1534957507]] episode supplies the earliest show-level version of this heuristic: waking focus is organized around roughly 90-minute ultradian cycles, and the first five to ten minutes of a learning bout may feel difficult before attention deepens. Later sources add the stronger environmental, recovery, and personal-fit boundaries, so the new source extends chronology rather than proving a fixed cognitive cycle.
+
 ## Key Claims
 - One protected daily block can be reserved for the hardest or most important cognitive task.
 - A 90-minute timer bounds the effort while allowing focus to rise and fall within the session.
@@ -52,13 +55,14 @@ The proposed 90-minute blocks are periods for expanding mental capacity, not the
 - Workspace and boundary design - [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] adds elevated target placement, a focus warm-up, panoramic visual breaks, and stronger phone separation.
 - Bout frequency - [[scim2746317304-scim2746317304]] proposes two to four hours between demanding bouts and says many people can sustain one or two such bouts daily.
 - Capacity-expansion scope - [[optimize-your-learning-creativity-with-science-based-tools-scim9141486324]] distinguishes one or two demanding learning blocks from ordinary work across the rest of the day.
+- Earliest focus-cycle framing - [[how-your-brain-works-changes-scim1534957507]] presents a roughly 90-minute learning cycle with an effortful five- to ten-minute entry period.
 
 ## Counterevidence & Qualifications
 The sources do not supply comparative trials for 90 versus other work-block lengths, establish white noise as universally beneficial, prove one optimal recovery interval or daily bout count, or show that screen height alone materially improves work. The full and Essentials daily-tools releases are overlapping provenance. The six-minute and five-to-ten-minute warm-up descriptions are compatible heuristics, not a precise universal onset time. Attention disorders, pain, disability, shared workplaces, caregiving, job design, chronotype, and sleep debt can change the useful duration and setup. The ultradian label, precise focus window, two-block framing, bout spacing, and decompression duration remain source-scoped.
 
 ## What Changed
-- Added early provenance distinguishing capacity-expanding blocks from the rest of a normal workday.
-- Clarified that task and observed alertness govern placement more than a fixed morning rule.
+- Added the show's first 90-minute focus-cycle and warm-up framing.
+- Preserved the later judgment that duration and placement are flexible heuristics rather than universal limits.
 
 ## Related Concepts
 - [[DailyCircadianPerformanceRoutine]] - whole-day routine in which the work block appears.

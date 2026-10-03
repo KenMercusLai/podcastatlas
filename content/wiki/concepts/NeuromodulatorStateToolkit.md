@@ -9,6 +9,7 @@ sources:
   - optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946
   - essentials-tools-to-improve-your-focus-concentration-scim2328129388
   - scim2746317304-scim2746317304
+  - how-your-brain-works-changes-scim1534957507
 last_updated: 2026-10-02
 knowledge_schema: synthesis-v1
 ---
@@ -26,6 +27,8 @@ In [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim885
 [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] applies the four-chemical map specifically to concentration: epinephrine supplies alertness, acetylcholine selects the target, and dopamine supports continued pursuit. [[essentials-tools-to-improve-your-focus-concentration-scim2328129388]] preserves that metaphor in a condensed edit rather than independently corroborating it. The metaphor is pedagogical rather than a complete circuit model, and its behavioral-first ordering reinforces that sleep, work design, refocusing, and recovery should precede increasingly potent interventions.
 
 Subjective time is another proposed state-dependent output. In [[scim2746317304-scim2746317304]], dopamine- and norepinephrine-associated arousal is said to increase temporal resolution and elapsed-time estimates, while serotonin-associated states reduce them. This frame-rate account is retained as a source-scoped teaching model because attention, discomfort, drugs, sleep, and memory encoding are not reducible to one transmitter.
+
+[[how-your-brain-works-changes-scim1534957507]] supplies the show's earliest compact map: dopamine is linked to outward pursuit, serotonin to satisfaction with present resources, epinephrine to alertness, and acetylcholine to marking active circuits during attention. Later episodes make these systems more interactive and baseline-dependent, so the first-episode labels add provenance without becoming exclusive chemical definitions.
 
 ## Key Claims
 - Dopamine is framed as a motivation, drive, pursuit, anticipation, learning, and partial focus signal.
@@ -45,12 +48,14 @@ Subjective time is another proposed state-dependent output. In [[scim2746317304-
 - Focus-specific mapping: [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] and its condensed [[essentials-tools-to-improve-your-focus-concentration-scim2328129388]] edit use epinephrine, acetylcholine, and dopamine to distinguish alertness, target selection, and persistence, then order behavior and nutrition before supplements and clinician-supervised drugs.
 - Full-length provenance: [[optimize-control-your-brain-chemistry-to-improve-health-performance-scim8855428946]] supplies the original phase model, four-chemical framework, behavioral-first ordering, and individualized-experiment boundary later compressed by the Essentials edit.
 - Time-perception application: [[scim2746317304-scim2746317304]] applies dopamine-, norepinephrine-, and serotonin-associated states to present, prospective, and retrospective timing through a qualified frame-rate metaphor.
+- Foundational four-system sketch: [[how-your-brain-works-changes-scim1534957507]] links dopamine, serotonin, epinephrine, and acetylcholine to pursuit, contentment, alertness, and selective attention while also noting receptor- and tissue-dependent effects.
 
 ## Counterevidence & Qualifications
-This page summarizes practical neuroscience episodes, not a complete clinical neuroscience model. The arrow and frame-rate metaphors simplify interacting systems and do not show that any one transmitter maps exclusively onto one mental function or time judgment. The sources do not establish universal dosing, medication decisions, supplement safety, addiction treatment, trauma treatment, cold-exposure suitability, or a guarantee that a given behavioral tool will move a person's state in the intended direction.
+This page summarizes practical neuroscience episodes, not a complete clinical neuroscience model. The arrow, frame-rate, and pursuit-versus-contentment metaphors simplify interacting systems and do not show that any one transmitter maps exclusively onto one mental function or time judgment. The sources do not establish universal dosing, medication decisions, supplement safety, addiction treatment, trauma treatment, cold-exposure suitability, or a guarantee that a given behavioral tool will move a person's state in the intended direction.
 
 ## What Changed
-- Added time perception as a qualified state-dependent output of arousal, attention, and memory encoding.
+- Added the show's earliest four-neuromodulator teaching map as provenance.
+- Clarified that its pursuit, contentment, alertness, and attention labels are dominant associations rather than exclusive functions.
 
 ## Related Concepts
 - [[DopamineToolTiming]] - dopamine-specific branch for motivation tools and timing.

@@ -16,6 +16,7 @@ sources:
   - scim4224560223-scim4224560223
   - scim1705222315-scim1705222315
   - master-your-sleep-be-more-alert-when-awake-scim6660090579
+  - how-your-brain-works-changes-scim1534957507
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -44,6 +45,8 @@ The January 2021 sleep episode adds another early use case: NSDR, hypnosis, yoga
 
 The preceding office-hours episode places a roughly 20-minute nap or NSDR-like period immediately after about 90 minutes of learning and presents hypnosis as focused attention combined with deep rest. This strengthens the early post-learning provenance, but it still does not isolate NSDR from napping, quiet rest, or hypnosis, or establish transfer beyond the described tasks.
 
+The first [[how-your-brain-works-changes-scim1534957507]] episode provides the earliest version of the effort-rest sequence. It says alertness and focused strain direct adult plasticity while sleep or non-sleep deep rest supports the lasting change, and it describes a 20-minute post-effort rest study as accelerating learning. This is provenance for the later framework, not independent replication or proof that a branded practice outperforms ordinary quiet rest.
+
 ## Key Claims
 - NSDR or yoga nidra is presented as a possible way to downshift stress and restore subjective vigor.
 - The practice can be used during travel or after exercise without requiring specialized equipment.
@@ -69,13 +72,14 @@ The preceding office-hours episode places a roughly 20-minute nap or NSDR-like p
 - Early sleep-anxiety use - [[scim4224560223-scim4224560223]] presents NSDR, hypnosis, yoga nidra, and meditation as possible downshifting tools during waking at night, daytime stress, or the morning after poor sleep.
 - Office-hours post-learning use - [[scim1705222315-scim1705222315]] places a roughly 20-minute nap or NSDR-like period after a learning bout and describes hypnosis as a focused-rest state better suited to state change than detailed factual acquisition.
 - Earliest sleep-transition account - [[master-your-sleep-be-more-alert-when-awake-scim6660090579]] groups yoga nidra, meditation, and hypnosis as parasympathetic downshifting practices that may reduce rumination and support sleep without replacing it.
+- First-episode consolidation account - [[how-your-brain-works-changes-scim1534957507]] distinguishes effortful attention during learning from later sleep or deep-rest consolidation and reports a source-scoped 20-minute post-effort result.
 
 ## Counterevidence & Qualifications
 The sources do not establish a universal duration, controlled working-memory, creativity, spatial-memory, or sensory-motor effect, guaranteed return to sleep, reduced biological sleep need, full reversal of sleep deprivation, interchangeability among NSDR, yoga nidra, hypnosis, and meditation, or superiority over sleep, passive rest, meditation, or clinical treatment. The reported dopamine or cortisol change should not be read as a corresponding percentage gain in cognition, creativity, or sleep restoration, and the cited pathway interpretations remain source-scoped. The early 20-minute post-practice result lacks enough detail here to separate NSDR from a shallow nap or ordinary quiet rest. Severe fatigue, exercise intolerance, persistent insomnia, faintness, pain, or functional decline requires assessment rather than additional relaxation audio.
 
 ## What Changed
-- Extended provenance to the earliest sleep-transition account of yoga nidra, meditation, and hypnosis.
-- Preserved uncertainty about equivalence, mechanism, sleep restoration, and clinical insomnia benefit.
+- Extended provenance to the show's first effort-rest account of adult plasticity.
+- Preserved uncertainty about the 20-minute study, practice equivalence, mechanism, and superiority to quiet rest.
 
 ## Related Concepts
 - [[ExerciseRecoveryReadiness]] - broader framework for recovery inputs and load adjustment.

@@ -3693,6 +3693,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Using Science to Optimize Sleep, Learning & Metabolism](sources/scim1705222315-scim1705222315.md) — Early Huberman Lab office-hours episode on timing-dependent light, exercise, learning, rest, supplements, temperature, cold exposure, meals, and one-variable self-tracking.
 - [Master Your Sleep & Be More Alert When Awake](sources/master-your-sleep-be-more-alert-when-awake-scim6660090579.md) — Early Huberman Lab episode on two-process sleep regulation, circadian light anchors, caffeine, naps, NSDR, and behavior-first supplement boundaries.
 - [15. Walls and Borders](sources/15-walls-and-borders-glt1636005045.md) — The Rest Is History on walls and borders as purpose-specific infrastructure, political symbols, institutional systems, and incomplete answers to deeper conflict.
+- [How Your Brain Works & Changes](sources/how-your-brain-works-changes-scim1534957507.md) — First Huberman Lab episode on the nervous-system loop, sensation and attention, neuromodulators, adult plasticity, rest-dependent consolidation, and ultradian focus.
 
 ## Entities
 - [Stephen Fry](entities/StephenFry.md) — Writer, actor, comedian, and Greek-myth reteller whose Troy method preserves ambiguity, ancient difference, emotional restraint, and layered divine-human causation.

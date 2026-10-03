@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1442
+topic_total_pages: 1443
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4023,6 +4023,9 @@ topic_sources:
   - key: "how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360"
     title: "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford"
     url: "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
+  - key: "how-your-brain-works-changes-scim1534957507"
+    title: "How Your Brain Works & Changes"
+    url: "/wiki/sources/how-your-brain-works-changes-scim1534957507/"
   - key: "how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462"
     title: "How Your Brain’s Reward Circuits Drive Your Choices | Dr. Robert Malenka"
     url: "/wiki/sources/how-your-brains-reward-circuits-drive-your-choices-dr-robert-malenka-scim2531622462/"

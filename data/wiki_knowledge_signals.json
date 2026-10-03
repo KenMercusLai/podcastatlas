@@ -11902,9 +11902,9 @@
       "url": "/wiki/entities/andrewcarnegie/"
     },
     "AndrewHuberman": {
-      "episode_count": 59,
+      "episode_count": 60,
       "show_count": 1,
-      "source_note_count": 59,
+      "source_note_count": 60,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -12318,6 +12318,13 @@
           "show": "Huberman Lab",
           "title": "Maximizing Productivity, Physical & Mental Health with Daily Tools",
           "url": "/wiki/sources/scim3608509346-scim3608509346/"
+        },
+        {
+          "episode_file": "SCIM1534957507 [SCIM1534957507].md",
+          "key": "how-your-brain-works-changes-scim1534957507",
+          "show": "Huberman Lab",
+          "title": "How Your Brain Works & Changes",
+          "url": "/wiki/sources/how-your-brain-works-changes-scim1534957507/"
         }
       ],
       "updated": "2026-10-03",
@@ -100118,9 +100125,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 59,
+      "episode_count": 60,
       "show_count": 1,
-      "source_note_count": 59,
+      "source_note_count": 60,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -100534,6 +100541,13 @@
           "show": "Huberman Lab",
           "title": "Maximizing Productivity, Physical & Mental Health with Daily Tools",
           "url": "/wiki/sources/scim3608509346-scim3608509346/"
+        },
+        {
+          "episode_file": "SCIM1534957507 [SCIM1534957507].md",
+          "key": "how-your-brain-works-changes-scim1534957507",
+          "show": "Huberman Lab",
+          "title": "How Your Brain Works & Changes",
+          "url": "/wiki/sources/how-your-brain-works-changes-scim1534957507/"
         }
       ],
       "updated": "2026-10-03",
@@ -148863,9 +148877,9 @@
       "url": "/wiki/concepts/neurodivergentaiaugmentation/"
     },
     "NeuromodulatorStateToolkit": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -148908,15 +148922,22 @@
           "show": "Huberman Lab",
           "title": "Time Perception & Entrainment by Dopamine, Serotonin & Hormones",
           "url": "/wiki/sources/scim2746317304-scim2746317304/"
+        },
+        {
+          "episode_file": "SCIM1534957507 [SCIM1534957507].md",
+          "key": "how-your-brain-works-changes-scim1534957507",
+          "show": "Huberman Lab",
+          "title": "How Your Brain Works & Changes",
+          "url": "/wiki/sources/how-your-brain-works-changes-scim1534957507/"
         }
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 3,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -149001,6 +149022,13 @@
           "show": "Huberman Lab",
           "title": "How to Focus to Change Your Brain",
           "url": "/wiki/sources/scim3840916606-scim3840916606/"
+        },
+        {
+          "episode_file": "SCIM1534957507 [SCIM1534957507].md",
+          "key": "how-your-brain-works-changes-scim1534957507",
+          "show": "Huberman Lab",
+          "title": "How Your Brain Works & Changes",
+          "url": "/wiki/sources/how-your-brain-works-changes-scim1534957507/"
         }
       ],
       "updated": "2026-10-04",
@@ -150883,9 +150911,9 @@
       "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
     },
     "NonSleepDeepRestRecovery": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "SCIM8512997965 [SCIM8512997965].md",
@@ -150977,6 +151005,13 @@
           "show": "Huberman Lab",
           "title": "Master Your Sleep & Be More Alert When Awake",
           "url": "/wiki/sources/master-your-sleep-be-more-alert-when-awake-scim6660090579/"
+        },
+        {
+          "episode_file": "SCIM1534957507 [SCIM1534957507].md",
+          "key": "how-your-brain-works-changes-scim1534957507",
+          "show": "Huberman Lab",
+          "title": "How Your Brain Works & Changes",
+          "url": "/wiki/sources/how-your-brain-works-changes-scim1534957507/"
         }
       ],
       "updated": "2026-10-04",
@@ -159908,9 +159943,9 @@
       "url": "/wiki/concepts/perceivedsimilarityinrelationships/"
     },
     "PerceptionAsBiologicalInference": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1807559844 [SCIM1807559844].md",
@@ -159932,6 +159967,13 @@
           "show": "Huberman Lab",
           "title": "The Science of Vision, Eye Health & Seeing Better",
           "url": "/wiki/sources/scim3952740577-scim3952740577/"
+        },
+        {
+          "episode_file": "SCIM1534957507 [SCIM1534957507].md",
+          "key": "how-your-brain-works-changes-scim1534957507",
+          "show": "Huberman Lab",
+          "title": "How Your Brain Works & Changes",
+          "url": "/wiki/sources/how-your-brain-works-changes-scim1534957507/"
         }
       ],
       "updated": "2026-10-03",
@@ -210969,9 +211011,9 @@
       "url": "/wiki/concepts/ultraprocessedfoodpragmaticboundary/"
     },
     "UltradianDeepWorkBlock": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM5427393382 [SCIM5427393382].md",
@@ -211021,6 +211063,13 @@
           "show": "Huberman Lab",
           "title": "Optimize Your Learning & Creativity With Science-Based Tools",
           "url": "/wiki/sources/optimize-your-learning-creativity-with-science-based-tools-scim9141486324/"
+        },
+        {
+          "episode_file": "SCIM1534957507 [SCIM1534957507].md",
+          "key": "how-your-brain-works-changes-scim1534957507",
+          "show": "Huberman Lab",
+          "title": "How Your Brain Works & Changes",
+          "url": "/wiki/sources/how-your-brain-works-changes-scim1534957507/"
         }
       ],
       "updated": "2026-10-04",

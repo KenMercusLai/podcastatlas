@@ -29075,3 +29075,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | How Your Brain Works & Changes
+
+Added source `how-your-brain-works-changes-scim1534957507`; extended [[AndrewHuberman]], [[HubermanLab]], [[PerceptionAsBiologicalInference]], [[NeuromodulatorStateToolkit]], [[Neuroplasticity]], [[NonSleepDeepRestRecovery]], and [[UltradianDeepWorkBlock]] from their complete preserved evidence inventories. Core synthesis: the nervous system is presented as a brain-spinal cord-body loop in which selective attention and alertness target adult change, while sleep or deep rest supports later consolidation. No settled contradiction was adopted; the episode's lesion examples, selective-neuron interpretation, split-attention claim, simplified neuromodulator roles, deep-rest and sleep-tone studies, and exact 90-minute cycle remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,634-source coverage; no topic claim set was dirty and global compaction was not due. New-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, ingest, and publish validation passed; the ingest validator separately reports 19 pre-existing broken links outside this change.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
