@@ -8,18 +8,21 @@ sources:
   - zizhi-tongjian-hanji-388-1-shaqi-shazi-zhihou-hanwudi-weihe-zumie-dajiuzi-liguangli-lkkwpivpwqpeg5kd7azu-wmdqmgb
   - zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk
   - zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul
+  - zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl
 last_updated: 2026-10-05
 ---
 
 ## Overview
 
-李广利 / Li Guangli is the Western Han Ershi General whose second campaign against [[DayuanWesternHan|大宛]] converts overwhelming state reinforcement, intimidation, siege engineering, and bargaining into a negotiated victory. His later 99 BCE Tianshan campaign forms the command background for [[LiLingWesternHan|李陵]]'s deployment, while his failed 90 BCE campaign against [[Xiongnu|匈奴]] becomes one of the background failures behind [[HanWudi|汉武帝]]'s [[LuntaiSelfCriticismPolicyTurn|Luntai self-criticism policy turn]]. The later surrender follows not only battlefield defeat but also succession plotting around [[LiuBoChangyiKingWesternHan|昌邑王刘髆]], the execution of [[LiuQuliWesternHan|刘屈氂]], and the arrest of Li's own wife and children.
+李广利 / Li Guangli is the Western Han Ershi General whose second campaign against [[DayuanWesternHan|大宛]] converts overwhelming state reinforcement, intimidation, siege engineering, and bargaining into a negotiated victory and a marquisate. The sequel makes that success morally unstable: it attributes much of the army's loss to abusive command rather than battle or hunger, yet records broad rewards without corresponding accountability. His later 99 BCE Tianshan campaign forms the command background for [[LiLingWesternHan|李陵]]'s deployment, while his failed 90 BCE campaign against [[Xiongnu|匈奴]] becomes one of the background failures behind [[HanWudi|汉武帝]]'s [[LuntaiSelfCriticismPolicyTurn|Luntai self-criticism policy turn]].
 
 ## Current Profile
 
 Hanji 374-2 supplies Li Guangli's missing Dayuan victory layer. After the first expedition fails, Han Wudi reinforces him with a force the episode counts above sixty thousand, large herds of transport animals, continuous grain traffic, water engineers, corridor garrisons, and specialists for selecting horses. Li's army destroys Luntai after resistance, reaches Dayuan with more than thirty thousand soldiers, defeats an attempted field defense, diverts the capital's water, and maintains a siege for more than forty days.
 
 Li does not insist on annihilation. When Dayuan nobles kill King Wugua, offer horses and grain, threaten to kill the horses if fighting continues, and invoke Kangju relief, Li uses intelligence about Dayuan's grain and well-digging capacity to reassess the siege. He accepts the settlement, selects horses, installs Meicai, and withdraws. The source therefore adds strategic stopping judgment to a profile otherwise dominated by later defeat: the commander uses overwhelming pressure but recognizes when the political objective can be secured without paying for total conquest.
+
+Hanji 375-2 adds the return and reward ledger. It says only a little over one thousand horses return and that many soldiers die because commanders are greedy, violent, and abusive, not chiefly because grain is absent or combat deaths are unusually high. Wudi nevertheless discounts those failures because of the long-distance achievement, makes Li Marquis of Haixi, promotes officers, pardons penal recruits, and grants soldiers large cash rewards. Li's Dayuan victory is therefore both strategically bounded and institutionally unaccountable in the current evidence.
 
 Hanji 388-1 places Li Guangli in the 90 BCE three-route expedition against Xiongnu after attacks on Five Plains and Jiuquan. Li initially wins: he defeats Xiongnu forces near Fuyang and advances to Fan Furen City. The same episode then shifts from battlefield capacity to succession exposure. Li is the brother of [[LadyLiWesternHan|李夫人]], whose son Liu Bo is Changyi king; because Li's daughter is Liu Quli's daughter-in-law, Li and the chancellor have a shared interest in asking Han Wudi to make Liu Bo crown prince.
 
@@ -31,7 +34,7 @@ Hanji 389-2 then treats the failed expedition as central to the Luntai edict's s
 
 ## Key Characteristics
 
-- Western Han general whose Dayuan campaign moves from overwhelming reinforcement and coercive advance to siege bargaining and a limited political settlement.
+- Western Han general whose Dayuan campaign moves from overwhelming reinforcement and coercive advance to a limited political settlement, followed by a Haixi marquisate despite losses attributed substantially to commanders' greed and abuse.
 - Later commander whose 99 BCE campaign moves from initial captures to encirclement and heavy return losses before a final 90 BCE expedition.
 - Maternal-uncle supporter of Liu Bo's succession claim through Lady Li's family line.
 - Politically exposed by his in-law alignment with Liu Quli and alleged prayers for Liu Bo's accession.
@@ -64,18 +67,21 @@ Dayuan victory and stopping judgment:
 - [[zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul|Hanji 374-2]] says Li Guangli receives state-scale reinforcement, destroys resisting Luntai, and reaches Dayuan with more than thirty thousand soldiers before diverting water and maintaining a siege for more than forty days.
 - [[zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul|Hanji 374-2]] says Li accepts Dayuan's offer after its nobles kill Wugua and after intelligence shows that continued blockade will remain costly; he takes horses and grain, installs Meicai, and withdraws.
 
+Return, losses, and reward:
+- [[zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl|Hanji 375-2]] says much of the army's loss follows commanders' greed and abuse rather than deficient grain or exceptional battle deaths.
+- [[zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl|Hanji 375-2]] says Wudi overlooks the failures, makes Li Marquis of Haixi, promotes officers, pardons penal recruits, and rewards soldiers.
+
 Death after capture:
 - [[zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1|Hanji 389-2]] says Wei Lü grows jealous of Li Guangli's honor among Xiongnu and uses a shaman's claim during the chanyu mother's illness to have Li Guangli killed in sacrifice.
 
 ## Qualifications
 
-This page is bounded to four podcast sources. Hanji 374-2 supplies the second Dayuan campaign but not the complete first expedition, the full cause of war, or independent cost accounting; its Luntai massacre, hydraulic operation, force totals, noble motives, Kangju threat, horse counts, and political settlement remain episode-attributed. Hanji 377-1 supplies the later Tianshan campaign and Li Ling deployment background; Hanji 388-1 supplies the family-politics and surrender chain; Hanji 389-2 supplies the Luntai-cost and sacrificial-death aftermath. The page does not reconstruct Li Guangli's complete title history, primary-source chronology, the full legal record of Liu Quli's case, or every military decision in the 99 or 90 BCE expeditions.
+This page is bounded to five podcast sources. Hanji 374-2 and Hanji 375-2 supply the second Dayuan campaign and aftermath but not the complete first expedition, the full cause of war, or independent cost accounting; force totals, casualty attribution, rewards, noble motives, horse counts, and political outcomes remain episode-attributed. Hanji 377-1 supplies the later Tianshan campaign and Li Ling deployment background; Hanji 388-1 supplies the family-politics and surrender chain; Hanji 389-2 supplies the Luntai-cost and sacrificial-death aftermath.
 
 ## What Changed
 
-- Added the distinct 99 BCE Tianshan campaign, Zhao Chongguo breakout, heavy-loss return, and Li Ling logistics/diversion context.
-- Added the second Dayuan expedition as a distinct earlier victory built on state-scale reinforcement, siege pressure, intelligence, bargaining, and a bounded withdrawal objective.
-- Preserved the later succession, surrender, Luntai-cost, and Xiongnu death sequence without conflating the campaigns.
+- Added the Dayuan return ledger: abusive command as a reported cause of loss, followed by Li's Haixi marquisate and broad rewards without corresponding accountability.
+- Qualified the earlier strategic-victory synthesis without conflating it with Li's later Tianshan and Xiongnu campaigns.
 
 ## Relationships
 

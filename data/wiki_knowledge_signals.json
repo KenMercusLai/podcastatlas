@@ -52525,9 +52525,9 @@
       "url": "/wiki/entities/daymondjohn/"
     },
     "DayuanWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？ [lmFZkLlEJz3M0vanMNu7GYxtWbUl].md",
@@ -52535,6 +52535,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位 [ltfHRxkyc-W0PXw92BbYxx0bLxwL].md",
+          "key": "zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl/"
         }
       ],
       "updated": "2026-10-05",
@@ -52968,9 +52975,9 @@
       "url": "/wiki/concepts/decisionspeedaccuracycontrol/"
     },
     "DecisiveResourceCommitment": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！ [libgQZvQUEGLLma9SOJU57K_jXuE].md",
@@ -52992,6 +52999,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位 [ltfHRxkyc-W0PXw92BbYxx0bLxwL].md",
+          "key": "zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl/"
         }
       ],
       "updated": "2026-10-05",
@@ -81396,9 +81410,9 @@
       "url": "/wiki/concepts/frontierresourceintegration/"
     },
     "FrontierStrategyCostTypology": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？ [lr-5_QXjm4fqLIRVwHDwElo1elG5].md",
@@ -81406,6 +81420,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位 [ltfHRxkyc-W0PXw92BbYxx0bLxwL].md",
+          "key": "zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl/"
         }
       ],
       "updated": "2026-09-09",
@@ -125486,9 +125507,9 @@
       "url": "/wiki/entities/liguanghangeneral/"
     },
     "LiGuangliWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》389-2｜历史揭秘：谁是写“检讨书”最多的王 [lvNAmm5Dza3S9AO8OfCsHHIYnsU1].md",
@@ -125517,6 +125538,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位 [ltfHRxkyc-W0PXw92BbYxx0bLxwL].md",
+          "key": "zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl/"
         }
       ],
       "updated": "2026-10-05",
@@ -133489,9 +133517,9 @@
       "url": "/wiki/entities/loulankinganguiwesternhan/"
     },
     "LoulanKingdomWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！ [lum-xOLRqlwJgmv5XSCSsenogYx-].md",
@@ -133506,6 +133534,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》403-2｜独剑斩楼兰，不该被遗忘的超级外交官：傅介子",
           "url": "/wiki/sources/zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位 [ltfHRxkyc-W0PXw92BbYxx0bLxwL].md",
+          "key": "zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl/"
         }
       ],
       "updated": "2026-09-14",

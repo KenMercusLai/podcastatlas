@@ -6,6 +6,7 @@ tags: [western-han, western-regions, polity, frontier, diplomacy]
 sources:
   - zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx
   - zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja
+  - zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl
 last_updated: 2026-09-14
 ---
 
@@ -15,7 +16,7 @@ last_updated: 2026-09-14
 
 ## Current Profile
 
-The current sources make Loulan a case of unstable frontier alignment. Hanji 403-1 shows Loulan leaning toward Xiongnu because Xiongnu pressure is nearer and more immediate, failing to report Xiongnu envoy movement, and cooperating in a field where Han envoys and goods have been attacked. Fu Jiezi's first mission rebukes Loulan, extracts intelligence about Xiongnu envoys, and produces a short-term submission signal after he kills the envoys.
+The current sources make Loulan a case of unstable frontier alignment. Hanji 375-2 supplies an earlier explicit defense: after Xiongnu seeks to use Loulan to attack Han envoys or cut the corridor, Han arrests the Loulan king, who argues that a small state between two powers cannot survive without answering both. Wudi releases him and uses him for intelligence, after which Xiongnu distrusts Loulan. Hanji 403-1 later shows the same structural pressure persisting as Loulan leans toward the nearer Xiongnu threat.
 
 Hanji 403-2 shows why that first shock did not settle the problem. Fu returns with valuables and a targeted plan against Angui. After Angui is killed, Fu threatens the nobles with Han destruction if they resist, announces that Angui has been punished for crimes against Han, installs the Chang'an hostage Wei Tuqi, and says Loulan will now be called Shanshan. The new order is then reinforced through a small Yixun屯田 presence requested by Wei Tuqi.
 
@@ -24,7 +25,7 @@ The page keeps Loulan distinct from the existing [[ShanshanKingdomLateHan|late-H
 ## Key Characteristics
 
 - Western Regions polity positioned between Han and Xiongnu power.
-- Presented as leaning toward Xiongnu because Xiongnu pressure is nearer and more immediate.
+- Defends dual alignment as necessary small-state survival, then loses Xiongnu trust after accepting a Han intelligence role.
 - Supplies intelligence to Fu Jiezi during his first mission but later becomes the target of his second mission.
 - Ruled by Angui when Fu uses valuables and private-audience language to create an assassination opening.
 - Reordered after Angui's death through Han-backed hostage succession, renaming as Shanshan, and a small Yixun屯田 detachment.
@@ -33,6 +34,8 @@ The page keeps Loulan distinct from the existing [[ShanshanKingdomLateHan|late-H
 ## Evidence
 
 Position and pressure:
+- [[zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl|Hanji 375-2]] says the Loulan king justifies answering both Han and Xiongnu as necessary for a small state caught between them.
+- [[zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl|Hanji 375-2]] says Wudi releases the king and assigns intelligence gathering, after which Xiongnu no longer trusts Loulan.
 - [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] says Loulan and other small Western Regions states are caught between Han and Xiongnu and often attach themselves to Xiongnu because of proximity and force.
 - [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] says such states had killed Han envoys and seized goods in connection with Xiongnu pressure.
 
@@ -48,13 +51,12 @@ Assassination and replacement:
 
 ## Qualifications
 
-This page is bounded to Hanji 403-1 and Hanji 403-2. It does not reconstruct Loulan's broader history, geography, internal factions, full later Shanshan identity, or every Han-Loulan interaction. The relation to [[ShanshanKingdomLateHan|ShanshanKingdomLateHan]] remains chronological and source-scoped rather than merged. Sima Guang's criticism in Hanji 403-2 also means the assassination should not be recorded only as successful deterrence; it carries a future-submission credibility problem.
+This page is bounded to three episode sources. It does not reconstruct Loulan's broader history, geography, internal factions, full later Shanshan identity, or every Han-Loulan interaction. The king arrested after the Dayuan campaign is not silently identified with the later Angui. The relation to [[ShanshanKingdomLateHan|ShanshanKingdomLateHan]] remains chronological and source-scoped rather than merged, while Sima Guang's later criticism prevents recording Fu's assassination only as successful deterrence.
 
 ## What Changed
 
-- Added Hanji 403-2 as the assassination, hostage-succession, renaming, and Yixun屯田 continuation of Hanji 403-1's Loulan instability.
-- Converted the previous cliffhanger into a fuller Western Han Loulan profile while keeping the late-Han Shanshan page separate.
-- Added Sima Guang's trust-cost criticism as a qualification on the coercive settlement.
+- Added the earlier dual-alignment episode: Loulan frames service to both powers as survival, while Han intelligence cooperation destroys Xiongnu trust.
+- Preserved the later Fu Jiezi assassination and hostage-succession sequence as an escalation of the same unresolved alignment problem.
 
 ## Relationships
 

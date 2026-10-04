@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [strategy, frontier, warfare, xiongnu, xin-dynasty]
 sources:
   - zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5
+  - zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl
 last_updated: 2026-09-09
 ---
 
@@ -20,6 +21,8 @@ The Zhou option is treated as a middle strategy: it uses a limited force for a l
 
 The concept therefore gives the wiki a reusable cost-ratio test. A frontier policy can be heroic, defensive, or infrastructural on the surface, yet still fail if the cost-to-objective ratio is wrong or if the state cannot carry the duration.
 
+Hanji 375-2 supplies a campaign-level application rather than another abstract ranking. The Dayuan expedition yields prestige, tribute, hostages, corridor infrastructure, and a more submissive Xiongnu diplomatic posture, but its return ledger attributes many deaths to abusive commanders and shows the court rewarding them without accountability. Cost analysis must therefore include internal command-generated loss and the continuing expense of maintaining routes and garrisons, not only battlefield casualties and headline objectives.
+
 ## Key Claims
 
 - Strategic ranking depends on objective, cost, duration, and state capacity, not only on battlefield victory.
@@ -28,6 +31,7 @@ The concept therefore gives the wiki a reusable cost-ratio test. A frontier poli
 - A large defensive infrastructure project can become no strategy when it consumes maximal resources for a limited effect.
 - Frontier policy should be judged by whether it reduces risk at a sustainable price.
 - The framework does not deny real Xiongnu threat; it tests whether the response matches the threat and the state's means.
+- Victory accounting must include preventable losses caused by one's own command system and the recurring burden of holding the new frontier position.
 
 ## Evidence
 
@@ -36,14 +40,15 @@ The concept therefore gives the wiki a reusable cost-ratio test. A frontier poli
 - Han deep-war critique: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] says Han Wudi wins major merit and spoils but imposes more than thirty years of war damage and public suffering.
 - Qin burden critique: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] says Qin keeps boundaries through the Great Wall but drains domestic resources and contributes to collapse.
 - Host synthesis: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] interprets the categories as minimum cost for minimum goal, high cost for maximal goal, and maximum cost for minimum goal.
+- Campaign-level cost ledger: [[zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl|Hanji 375-2]] pairs Dayuan-derived prestige and corridor control with commander-caused loss, broad rewards, and continuing beacon and tuntian commitments.
 
 ## Counterevidence & Qualifications
 
-This concept is grounded in Yan You's memorial as mediated by one podcast episode. It should not be read as the whole historical evaluation of Han Wudi, Qin frontier policy, or Zhou-Xianyun conflict. The episode itself preserves Han Wudi's military achievements while arguing that cost can still make the strategy inferior. Named Xianyun details, exact Qin cost paths, and the full benefit side of Han Wudi's Xiongnu policy remain source-scoped.
+This concept is grounded in Yan You's memorial and one campaign-aftermath episode. It should not be read as the whole historical evaluation of Han Wudi, Qin frontier policy, or Zhou-Xianyun conflict. Hanji 375-2 adds a concrete but still source-scoped cost ledger; its casualty causes, reward figures, and causal link from Dayuan victory to wider submission are not independent proof of the campaign's full net value.
 
 ## What Changed
 
-- Created the concept from Hanji 643's Zhou-Han-Qin comparison.
+- Added the Dayuan aftermath as a concrete test that counts commander-caused loss and recurring corridor commitments alongside prestige gains.
 
 ## Related Concepts
 

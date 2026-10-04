@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位](sources/zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl.md) — 大宛远征以虐兵损耗与无问责封赏收场，同时推动西域质子、通道屯田、楼兰两属困境和大宛续贡。
 - [《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？](sources/zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul.md) — 汉武帝以国家级动员支持李广利再征大宛，围城与威慑换来献马、供粮和亲汉国王，但战争的完整人命与财政代价仍未被核算。
 - [《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？](sources/zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk.md) — 李陵拒绝运粮角色、请率五千步兵分散匈奴兵力，路博德的延期奏议被汉武帝误判后使原定接应部署分离。
 - [《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！](sources/zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri.md) — 李陵以车阵、弓弩、地形与伤兵分工抵抗优势匈奴骑兵，管敢叛逃泄密与箭械耗尽使有序撤退转为绝境突围。

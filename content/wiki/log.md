@@ -29605,3 +29605,10 @@ Added source `zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-05] ingest | 《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位
+
+Added source `zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl`; resynthesized [[LiGuangliWesternHan|李广利]], [[DayuanWesternHan|大宛]], [[LoulanKingdomWesternHan|楼兰]], [[DecisiveResourceCommitment|决断型资源投入]], and [[FrontierStrategyCostTypology|边疆战略成本分型]] from their complete preserved evidence inventories. Core synthesis: the Dayuan victory produced tribute, hostages, route infrastructure, and regional intimidation, but the source attributes many Han deaths to commanders' greed and abuse and records broad rewards without matching accountability. Meicai's later killing limits claims of stable client rule, while Loulan's dual alignment shows small-state survival producing distrust from both larger powers. Casualty causes, reward figures, names, tribute terms, infrastructure details, and wider causal claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest was refreshed to 3,701-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

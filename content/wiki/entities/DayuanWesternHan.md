@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [polity, western-regions, western-han, warfare, horses, diplomacy]
 sources:
   - zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul
+  - zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl
 last_updated: 2026-10-05
 ---
 
@@ -20,6 +21,8 @@ Dayuan's internal politics become decisive after more than forty days of siege. 
 
 The source therefore makes Dayuan neither a passive prize nor a fully conquered province. Its elites use regicide, threatened asset destruction, food resilience, outside-alliance signaling, and dynastic replacement to preserve the polity under extreme coercion, while Han converts military pressure into horses, prestige, and political influence.
 
+Hanji 375-2 shows that the installed settlement is unstable but not simply reversed. More than a year later, Dayuan nobles kill Meicai for excessive accommodation to Han, install Wugua's younger brother Chanfeng, send Chanfeng's son to Han as a hostage, and promise two heavenly horses each year. Internal elite resistance removes Han's chosen king, yet the successor preserves tribute and hostage ties under the shadow of the expedition.
+
 ## Key Characteristics
 
 - Western Regions polity targeted by Han after conflict over envoys and highly valued horses.
@@ -28,6 +31,7 @@ The source therefore makes Dayuan neither a passive prize nor a fully conquered 
 - Negotiating actor that combines concessions with threats to destroy the very prize Han seeks.
 - Potential partner of Kangju, whose promised relief shapes the siege bargaining even though the force does not advance.
 - Retains formal political continuity after accepting a Han-backed king rather than becoming a directly administered Han territory.
+- Later removes that Han-backed king while maintaining hostage and annual horse-tribute relations with Han.
 
 ## Evidence
 
@@ -35,14 +39,15 @@ The source therefore makes Dayuan neither a passive prize nor a fully conquered 
 - Elite regime change: [[zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul|Hanji 374-2]] says nobles kill Wugua and present his head as the removal of the person blamed for the conflict.
 - Bargaining package: [[zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul|Hanji 374-2]] says Dayuan offers horses and grain but threatens to kill the horses and invokes Kangju relief if Han refuses.
 - Settlement outcome: [[zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul|Hanji 374-2]] says Han takes several dozen superior horses and more than three thousand other horses, then installs Meicai and withdraws.
+- Settlement revision: [[zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl|Hanji 375-2]] says nobles kill Meicai, enthrone Chanfeng, send his son as a hostage, and continue an annual two-horse tribute.
 
 ## Qualifications
 
-This profile is bounded to one short popular-history source and does not reconstruct Dayuan's full political history, geography, urban economy, horse breeding, first Han expedition, relations with other Western Regions states, or later treatment of Meicai. Wugua and Meicai name forms, troop and horse totals, water engineering, well-digger capture, noble motives, and Kangju's precise military commitment remain source-scoped. The episode is strongly Han-centered, so Dayuan civilian experience and losses are largely absent.
+This profile is bounded to two short popular-history sources and does not reconstruct Dayuan's full political history, geography, urban economy, horse breeding, first Han expedition, or internal factions. Wugua, Meicai, and Chanfeng name forms, force and horse totals, noble motives, hostage arrangements, and annual tribute remain source-scoped. Both episodes are strongly Han-centered, so Dayuan civilian experience and losses are largely absent.
 
 ## What Changed
 
-- Created a canonical Dayuan profile centered on siege resilience, elite regime change, coercive bargaining, and the negotiated outcome of the second Han expedition.
+- Added the post-settlement elite reaction: Meicai is killed, but Chanfeng preserves hostage and horse-tribute relations with Han.
 
 ## Relationships
 
