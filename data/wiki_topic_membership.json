@@ -24351,6 +24351,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CoreSatellitePortfolio": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "CoreWeave": [
     {
       "key": "technology",
@@ -45406,6 +45413,13 @@
     }
   ],
   "InvestorReferenceChecking": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "InvestorSelfKnowledge": [
     {
       "key": "economics",
       "label": "Economics",
@@ -67903,6 +67917,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "QuantitativeFOFAllocation": [
     {
       "key": "economics",
       "label": "Economics",
@@ -99626,6 +99647,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439": [

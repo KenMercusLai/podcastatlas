@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9593
+wiki_total_pages: 9596
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1001,6 +1001,9 @@ wiki_pages:
   - key: "InvestorRiskNarrative"
     title: "Investor Risk Narrative"
     url: "/wiki/concepts/investorrisknarrative/"
+  - key: "InvestorSelfKnowledge"
+    title: "Investor Self-Knowledge / 投资者自知"
+    url: "/wiki/concepts/investorselfknowledge/"
   - key: "InvestorSuitabilityFriction"
     title: "Investor Suitability Friction"
     url: "/wiki/concepts/investorsuitabilityfriction/"

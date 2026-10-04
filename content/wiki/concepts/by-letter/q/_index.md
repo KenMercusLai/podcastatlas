@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 9593
+wiki_total_pages: 9596
 wiki_pages:
   - key: "QatariSmallStateSecurityStrategy"
     title: "Qatari Small-State Security Strategy"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "QuantitativeDataMoat"
     title: "Quantitative Data Moat"
     url: "/wiki/concepts/quantitativedatamoat/"
+  - key: "QuantitativeFOFAllocation"
+    title: "Quantitative FOF Allocation / 量化 FOF 配置"
+    url: "/wiki/concepts/quantitativefofallocation/"
   - key: "QuantitativeInvesting"
     title: "Quantitative Investing"
     url: "/wiki/concepts/quantitativeinvesting/"

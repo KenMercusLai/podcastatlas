@@ -29203,3 +29203,11 @@ Added source `the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 投资者的敌人：我与我周旋久
+
+Added source `touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd`; created [[InvestorSelfKnowledge]], [[CoreSatellitePortfolio]], and [[QuantitativeFOFAllocation]]; and resynthesized [[Mianji]], [[DanielKahneman]], [[InvestmentStrategyFit]], [[InvestmentDecisionLogging]], and [[EmbodiedJudgment]] from their complete preserved evidence inventories. Core synthesis: investment behavior cannot be repaired by bias vocabulary alone; a durable method joins explicit knowledge, tacit experience, bodily signals, beliefs, capital properties, execution rules, and a risk path the investor can actually bear. No settled contradiction was adopted. The episode's four-layer knowledge model, philosophical account of freedom, somatic-risk examples, high-frequency edge mechanics, and quantitative-FOF claims remain source-scoped rather than empirical universals or investment advice. The recurring philosophical and investor figures were linked without profile changes where the episode used them as examples rather than adding durable biographical evidence. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,650-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

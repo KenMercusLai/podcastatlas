@@ -45078,6 +45078,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/corecompetencestrategy/"
     },
+    "CoreSatellitePortfolio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "投资者的敌人：我与我周旋久 [ljhveB4F95EMOkKBLTnVLmBXvBMD].md",
+          "key": "touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd",
+          "show": "面基",
+          "title": "投资者的敌人：我与我周旋久",
+          "url": "/wiki/sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/coresatelliteportfolio/"
+    },
     "CoreStandingGroundPreservation": {
       "episode_count": 1,
       "show_count": 1,
@@ -49329,6 +49345,36 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/entities/danielellsberg/"
+    },
+    "DanielKahneman": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "155.美貌能当饭吃吗？想赚钱该做点啥？拮据时应避免什么行为？经济学思维有什么用？ [920167210].md",
+          "key": "155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210",
+          "show": "蜜獾吃书",
+          "title": "155.美貌能当饭吃吗?想赚钱该做点啥?拮据时应避免什么行为?经济学思维有什么用？",
+          "url": "/wiki/sources/155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210/"
+        },
+        {
+          "episode_file": "vol.110.投资就是对世界观的投票｜《迈出资产配置第一步》完结篇 [lk5jkGNZVZerYmCixYlsdQdtn7F8].md",
+          "key": "vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8",
+          "show": "起朱楼宴宾客",
+          "title": "vol.110.投资就是对世界观的投票｜《迈出资产配置第一步》完结篇",
+          "url": "/wiki/sources/vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8/"
+        },
+        {
+          "episode_file": "投资者的敌人：我与我周旋久 [ljhveB4F95EMOkKBLTnVLmBXvBMD].md",
+          "key": "touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd",
+          "show": "面基",
+          "title": "投资者的敌人：我与我周旋久",
+          "url": "/wiki/sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/danielkahneman/"
     },
     "DanielOConnell": {
       "episode_count": 1,
@@ -62242,6 +62288,50 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/embodiedintelligencevehiclepath/"
+    },
+    "EmbodiedJudgment": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
+          "key": "ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx",
+          "show": "Talk三联",
+          "title": "EP256 AI时代，“自由意志”还存在吗？",
+          "url": "/wiki/sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx/"
+        },
+        {
+          "episode_file": "EP250 走进山野，顺流而上：寻找户外运动中的心流时刻 [lpV4EGUMBXCJRxK3jYPehYXcqFUo].md",
+          "key": "ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo",
+          "show": "Talk三联",
+          "title": "EP250 走进山野，顺流而上：寻找户外运动中的心流时刻",
+          "url": "/wiki/sources/ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo/"
+        },
+        {
+          "episode_file": "E161.脱离理性暴政，去尽情游戏吧！ [lppJQRfTyLxA6XUdZlHgBk1iYM6f].md",
+          "key": "e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f",
+          "show": "面基",
+          "title": "E161.脱离理性暴政，去尽情游戏吧！",
+          "url": "/wiki/sources/e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f/"
+        },
+        {
+          "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
+          "key": "ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由",
+          "url": "/wiki/sources/ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779/"
+        },
+        {
+          "episode_file": "投资者的敌人：我与我周旋久 [ljhveB4F95EMOkKBLTnVLmBXvBMD].md",
+          "key": "touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd",
+          "show": "面基",
+          "title": "投资者的敌人：我与我周旋久",
+          "url": "/wiki/sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/embodiedjudgment/"
     },
     "EmbodiedPerceptionRecovery": {
       "episode_count": 1,
@@ -108303,6 +108393,36 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/investmentavoidancetrauma/"
     },
+    "InvestmentDecisionLogging": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "171.为什么牛市后期更容易亏钱？｜ 半年度投资账复盘 [lkkAFVBeA1zTxdwc0eeMpDINc4Yk].md",
+          "key": "171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk",
+          "show": "起朱楼宴宾客",
+          "title": "171.为什么牛市后期更容易亏钱？｜半年度投资账复盘",
+          "url": "/wiki/sources/171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk/"
+        },
+        {
+          "episode_file": "EP69 AI时代来临，投资不再是单机模式 [lpPXMDl3wLRRtswXWpZEkZ-qzygN].md",
+          "key": "ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn",
+          "show": "一劳永逸",
+          "title": "EP69 AI时代来临，投资不再是单机模式",
+          "url": "/wiki/sources/ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn/"
+        },
+        {
+          "episode_file": "投资者的敌人：我与我周旋久 [ljhveB4F95EMOkKBLTnVLmBXvBMD].md",
+          "key": "touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd",
+          "show": "面基",
+          "title": "投资者的敌人：我与我周旋久",
+          "url": "/wiki/sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/investmentdecisionlogging/"
+    },
     "InvestmentPitchPositionSizing": {
       "episode_count": 1,
       "show_count": 1,
@@ -108741,6 +108861,29 @@
       "updated": "2026-08-17",
       "url": "/wiki/concepts/investmentriskmanagement/"
     },
+    "InvestmentStrategyFit": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "A股的春夏秋冬：种树、种粮、种菜 [ljzicMfBl9GuXoqmCDd8iKdn6JBX].md",
+          "key": "a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx",
+          "show": "面基",
+          "title": "A股的春夏秋冬：种树、种粮、种菜",
+          "url": "/wiki/sources/a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx/"
+        },
+        {
+          "episode_file": "投资者的敌人：我与我周旋久 [ljhveB4F95EMOkKBLTnVLmBXvBMD].md",
+          "key": "touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd",
+          "show": "面基",
+          "title": "投资者的敌人：我与我周旋久",
+          "url": "/wiki/sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/investmentstrategyfit/"
+    },
     "InvestorForeclosureSpillover": {
       "episode_count": 1,
       "show_count": 1,
@@ -108756,6 +108899,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/investorforeclosurespillover/"
+    },
+    "InvestorSelfKnowledge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "投资者的敌人：我与我周旋久 [ljhveB4F95EMOkKBLTnVLmBXvBMD].md",
+          "key": "touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd",
+          "show": "面基",
+          "title": "投资者的敌人：我与我周旋久",
+          "url": "/wiki/sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/investorselfknowledge/"
     },
     "InvestorToOperatorLearning": {
       "episode_count": 1,
@@ -141437,9 +141596,9 @@
       "url": "/wiki/entities/miankoulatehan/"
     },
     "Mianji": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "山上山下皆人间，无事逍遥即神仙 [lhJIgUq74flhaTdXnBrnzhjg_ACP].md",
@@ -141580,9 +141739,16 @@
           "show": "面基",
           "title": "财报的根 + 估值的茎 = 叙事的果实",
           "url": "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"
+        },
+        {
+          "episode_file": "投资者的敌人：我与我周旋久 [ljhveB4F95EMOkKBLTnVLmBXvBMD].md",
+          "key": "touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd",
+          "show": "面基",
+          "title": "投资者的敌人：我与我周旋久",
+          "url": "/wiki/sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/mianji/"
     },
     "MiaoGuangLateHan": {
@@ -172502,6 +172668,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/quantilebalancing/"
+    },
+    "QuantitativeFOFAllocation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "投资者的敌人：我与我周旋久 [ljhveB4F95EMOkKBLTnVLmBXvBMD].md",
+          "key": "touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd",
+          "show": "面基",
+          "title": "投资者的敌人：我与我周旋久",
+          "url": "/wiki/sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/quantitativefofallocation/"
     },
     "QuantumCryptographicMigration": {
       "episode_count": 1,

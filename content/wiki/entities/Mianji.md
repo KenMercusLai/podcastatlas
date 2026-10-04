@@ -1,7 +1,7 @@
 ---
 title: "面基"
 type: entity
-tags: [podcast, investing, valuation, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor, fixed-income-plus, wealth-management, labor, manufacturing, bitcoin, money, daoism, anthropology, medicine, life-design]
+tags: [podcast, investing, valuation, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management, platform-labor, fixed-income-plus, wealth-management, labor, manufacturing, bitcoin, money, daoism, anthropology, medicine, life-design, behavioral-finance]
 sources:
   - shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp
   - jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe
@@ -23,62 +23,62 @@ sources:
   - dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1
   - zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae
   - caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb
+  - touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-01
+last_updated: 2026-10-04
 ---
 
 # 面基
 
 ## Overview
 
-面基 is a Chinese podcast represented in the current Wiki through 20 source notes. Its corpus began with investing, valuation, trading, and macro conversations, then expanded into AI workflows, embodied judgment, labor, nonfiction, health, anthropology, and life design.
+面基 is a Chinese podcast represented in the current Wiki through 21 source notes. Its corpus spans investing, valuation, trading, macroeconomics, AI workflows, labor, nonfiction, health, anthropology, and life design.
 
-The useful identity of the page is therefore not a chronological list of guests. It is a profile of the show’s recurring editorial question: how people preserve judgment and agency when markets, technology, institutions, and life conditions remain uncertain.
+The durable editorial identity is not a chronological guest list. It is a recurring inquiry into how people preserve judgment and agency when markets, technologies, institutions, bodies, and life conditions remain uncertain.
 
 ## Current Profile
 
-**Investing and decision process** remain the strongest recurring branch. Episodes connect position sizing, valuation, narrative, portfolio construction, market structure, priced expectations, risk budgets, and investor psychology. The emphasis is usually practical: a framework matters only when it fits the holder, product, market regime, and decision process.
+**Investing and decision process** remain the strongest branch. The show connects valuation, market structure, position sizing, asset and strategy allocation, client experience, research process, behavioral finance, and investor self-knowledge. Its latest layer makes the implicit holder-fit principle explicit: a strategy has to match the person's temperament, competence, capital, beliefs, and bearable risk cost.
 
-**AI and human agency** form a second branch. The corpus treats AI as both an investment subject and a workflow environment. Context engineering, persistent memory, pacing, authorship, and output-quality gates are framed as ways to use agents without outsourcing intention or judgment.
+**AI and human agency** form a second branch. The represented episodes treat AI as an investment subject and a workflow environment, while insisting that context, memory, pacing, authorship, purpose, and output standards remain human responsibilities.
 
-**Embodied life and institutional experience** now form a broader third branch. Episodes on trained intuition, factory labor, large-company systems, reading, health, Daoist practice, and platform work move the show beyond finance while preserving the same concern with how people act under structures they do not fully control.
+**Embodied and institutional life** form a broader third branch. Endurance sport, factory labor, big-company systems, reading, sleep, fieldwork, medicine, and Daoist practice are treated as sources of knowledge that cannot be reduced to abstract models.
 
 ## Key Characteristics
 
-1. **Practical agency is the strongest through-line.** The show repeatedly asks what a person can actually control when forecasts, systems, or incentives remain uncertain.
-2. **Investment frameworks must fit the holder and environment.** Market season, valuation, narrative, product design, liquidity, psychology, and institutional process matter alongside expected return.
-3. **AI should extend judgment rather than replace intention.** Context, pacing, memory, authorship, and quality gates determine whether an AI workflow remains human-directed.
-4. **Embodied and institutional experience count as knowledge.** Trained intuition, labor history, health, and fieldwork add evidence that cannot be reduced to abstract models.
-5. **The show’s identity is broadening.** Investing remains central in the current corpus, but newer sources make work, life design, and social systems part of the durable profile.
+- **Practical agency is the strongest through-line.** The show repeatedly asks what a person can actually control when forecasts, systems, incentives, or physical conditions remain uncertain.
+- **Investment methods must fit the holder and the game.** Valuation, market regime, strategy rules, capital duration, psychology, skill, and risk price matter alongside expected return.
+- **Knowledge becomes useful through practice.** Explicit models, tacit experience, bodily feedback, logs, and rules must be integrated rather than treated as interchangeable.
+- **AI should extend judgment rather than replace intention.** Context, pacing, memory, authorship, and acceptance gates determine whether an AI workflow remains human-directed.
+- **The show connects finance with life design.** Returns, tools, work, health, and freedom are repeatedly judged by whether they preserve autonomy and a life the person can inhabit.
 
 ## Evidence
 
-- **Investing branch:** [[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]], [[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]], [[e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]], and [[caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb]] connect theory to position sizing, valuation narrative, terminal space, auction pricing, market seasons, repeated play, and holder suitability.
-- **AI-agency branch:** [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]], [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]], and [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]] support the distinction between cheap output and accountable, human-directed judgment.
-- **Embodied-judgment branch:** [[shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp]], [[baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy]], and [[e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f]] treat practice, field experience, bodily feedback, and play as evidence alongside explicit reasoning.
-- **Work and life branch:** [[ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]], [[da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]], [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]], and [[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]] broaden the corpus while retaining the practical-agency theme.
+- **Investment method and risk:** [[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]], [[e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]], [[e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc]], [[e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]], and [[touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd]] connect edge, valuation, process, strategy fit, self-knowledge, and execution.
+- **Portfolio and client fit:** [[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]], [[e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]], [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]], and [[e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy]] support asset, strategy, product, liquidity, and drawdown fit.
+- **AI, knowledge, and agency:** [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]], [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]], [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]], and [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] distinguish cheap output from accountable, human-directed judgment.
+- **Embodied and institutional evidence:** [[e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f]], [[ruci-dagong-30-nian-liushuixian-shang-de-miankong-yu-shijian-lodsuktwtcfxnhmzwum5iesbzbme]], [[baiwan-ge-jingguan-shehui-tingshuo-ni-ye-xiang-dang-zhubo-lgd0yapclwvsessg7xnhaarpyiwy]], [[da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]], [[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]], and [[shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp]] treat bodies, work, field observation, and ordinary constraint as evidence.
+- **Macro, money, and valuation narrative:** [[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]], [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]], and [[caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb]] connect opportunity, cycles, asset expression, DCF, terminal value, and market narrative.
 
 ## Qualifications
 
-- This profile covers the 20 episodes currently represented in the Wiki, not the complete 面基 archive.
-- A guest’s argument should not automatically be treated as the show’s permanent editorial position.
-- Investing has more repeated evidence than the newer labor, health, anthropology, and life-design branches; those newer branches may still change with future episodes.
-- Topic breadth creates a risk of making the entity page too general. Claims should remain tied to recurring patterns or be labeled as emerging.
+- This profile covers 21 represented episodes, not the complete 面基 archive.
+- A guest's argument should not automatically be treated as the show's permanent editorial position.
+- Investing has the deepest repeated evidence; labor, medicine, anthropology, and other newer branches remain less densely represented.
+- The latest episode's four-layer knowledge model and philosophical language are interpretive frameworks, not established empirical taxonomies or investment advice.
 
 ## What Changed
 
-- The earliest represented layer centered on investing, trading, portfolio construction, and market risk.
-- AI investment and workflow episodes added a second question: how tools change human value, attention, and authorship.
-- Recent sources expanded the profile into labor history, institutional life, health, reading, anthropology, and Daoist practice, revealing practical agency as the connection across otherwise different subjects.
-- The latest investing layer added DCF, terminal-space narrative, and A-share auction-pricing mechanics to the show's valuation branch.
+- The investing branch now explicitly links behavioral finance to self-knowledge rather than only to bias correction.
+- Strategy fit now includes belief, tacit experience, embodied response, competence, and capital characteristics alongside market method.
+- Index investing, core-satellite allocation, and quantitative FOF extend the show's implementation map without establishing one universally superior strategy.
 
 ## Relationships
 
-- [[InvestmentRiskManagement]] - recurring subject and decision-process framework.
-- [[EmbodiedJudgment]] - connects market decisions, trained intuition, and lived practice.
+- [[InvestmentRiskManagement]] - recurring survival and decision-process discipline.
+- [[InvestorSelfKnowledge]] - newest explicit bridge from behavior, identity, and freedom to strategy choice.
+- [[InvestmentStrategyFit]] - connects entry logic, evidence, execution rules, and bearable risk cost.
+- [[EmbodiedJudgment]] - links trained intuition, bodily feedback, and context-sensitive decision making.
 - [[HumanAgencyUnderAI]] - recurring principle in the AI-workflow branch.
 - [[PersonalKnowledgeEcology]] - connects reading, context, authorship, and AI-assisted thinking.
-- [[DaChangXiaomin]] - nonfiction and large-company institutional-life branch.
-- [[YiLaoYongYi]] - adjacent Chinese investing podcast represented in the same Wiki.
-- [[DCFValuationAsNarrative]] - valuation framework now attached to the show's investing branch.
-- [[AShareAuctionPricing]] - market-structure concept now attached to the A-share branch.
+- [[FinancialFreedomVsLifestyleFreedom]] - connects wealth, autonomy, desire, and lived constraint.

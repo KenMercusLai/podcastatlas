@@ -3710,6 +3710,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [EP28-纽约那些晚上不回家的人究竟在干嘛？（上）](sources/ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279.md) — 无时差研究所 guide to New York speakeasies, cocktail balance, rooftop tradeoffs, service friction, and spatially layered nightlife.
 - [The mob rule: criminality consumes South Africa](sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86.md) — The Intelligence on organized-crime penetration in South Africa, Oura's smart-ring model, and the Lucas Museum's interpretation and governance problems.
+- [投资者的敌人：我与我周旋久](sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd.md) — 面基 episode on behavioral finance, investor self-knowledge, embodied and tacit judgment, strategy fit, core-satellite allocation, and quantitative FOF.
 
 ## Entities
 - [Cincinnatus](entities/Cincinnatus.md) — Roman republican exemplar whose remembered voluntary withdrawal made relinquishing emergency power a model of political legitimacy.
@@ -12804,7 +12805,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adewale Maie](entities/AdewaleMaie.md) — Labor researcher whose Spain vacation observation opens Planet Money's U.S. paid-vacation comparison.
 - [Gary Cross](entities/GaryCross.md) — Historian explaining European paid-leisure politics, festivals, and American work-ethic context in the vacation episode.
 - [Daniel Hamermesh](entities/DanielHamermesh.md) — Labor economist who rejects simple culture, tax, and consumerism explanations for the U.S. vacation gap.
-- [Daniel Kahneman](entities/DanielKahneman.md) — Behavioral-economics figure used by episode 155 to introduce prospect-theory-style loss aversion in everyday economic choice.
+- [Daniel Kahneman](entities/DanielKahneman.md) — Behavioral-economics figure connecting loss aversion, felt risk, bias-literacy limits, and process-based decision review.
 - [Paul Slovic](entities/PaulSlovic.md) — Psychologist cited by vol.110 for risk perception and the gap between felt danger, probability, and investment behavior.
 - [Richard Thaler](entities/RichardThaler.md) — Behavioral economist used by episode 155 to explain mental accounting and asymmetric valuation of risk, compensation, and loss.
 - [Tom Cohen](entities/TomCohen.md) — MIT source who frames U.S. paid vacation as a missed political window and employer-bargained benefit.
@@ -15089,7 +15090,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [运雷](entities/YunLei.md) — 面基 guest and fund manager explaining efficient-frontier asset allocation, correlation research, and FOF product design.
 - [南方全球](entities/NanfangQuanqiu.md) — QDII fund/product context used to discuss overseas ETF, bond, commodity, REIT, and active-fund allocation tooling.
 - [COWZ](entities/COWZ.md) — Free-cash-flow ETF/index example used as a possible S&P 500 substitute when expected return improves without losing correlation fit.
-- [面基](entities/Mianji.md) — Podcast/show context for investing, valuation narrative, asset allocation, fixed-income-plus wealth management, embodied judgment, AI workflow, nonfiction, reading, midlife infrastructure, fieldwork, and Wudang life-design branches.
+- [面基](entities/Mianji.md) — Podcast/show connecting investing, behavioral finance, embodied judgment, AI workflow, institutional life, and practical agency.
 - [43talks](entities/FortyThreeTalks.md) — Offline "AI + X" discussion format used as a frame-collision practice in the 面基 reading episode.
 - [关雅迪](entities/GuanYadi.md) — 面基 guest whose endurance running, ocean sailing, climbing, and life-design stories ground trained intuition and embodied judgment.
 - [青岛号](entities/QingdaoClipperYacht.md) — Ocean-racing boat used by E161 to explain team risk, weather uncertainty, captain judgment, and performance under physical stress.
@@ -20911,7 +20912,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Negative Parallelism](concepts/NegativeParallelism.md) — "Not X, but Y" rhetorical construction treated as a statistical AI-writing tell when models overuse it.
 - [A-Share Market Seasons / A股四季框架](concepts/AShareMarketSeasons.md) — Wu Weizhi's spring-summer-autumn-winter market-temperature frame for A-share exposure, sector cycles, buying speed, and selling discipline.
 - [A-Share Planting Company Taxonomy / 种树种粮种菜](concepts/ASharePlantingCompanyTaxonomy.md) — A-share company-type metaphor separating high-upside growth trees, high-win-rate value grains, and tactical vegetables before strategy selection.
-- [Investment Strategy Fit / 投资策略适配](concepts/InvestmentStrategyFit.md) — Discipline of matching entry reason, evidence, time horizon, sizing, and exit rule so value, growth, and trend methods do not overwrite one another.
+- [Investment Strategy Fit / 投资策略适配](concepts/InvestmentStrategyFit.md) — Match among return source, evidence, rules, work demands, risk cost, and the investor who must execute the method.
 - [Growth Investing / 成长投资](concepts/GrowthInvesting.md) — Company-level growth method focused on sustained EPS, market space, share gain, business model, and management rather than theme heat alone.
 - [MAPER Investment Research Framework](concepts/MAPERInvestmentResearchFramework.md) — Zhongou Ruibo research checklist covering business model, competitive advantage, growth space, management, and earnings certainty.
 - [Research Index Portfolio Construction / 投研指数化](concepts/ResearchIndexPortfolioConstruction.md) — Process that turns analyst research into industry and personal indexes so research judgment feeds measurable portfolio construction.
@@ -24734,7 +24735,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gold Monetary Anchor](concepts/GoldMonetaryAnchor.md) — Gold frame focused on debt, currency trust, central-bank assets, and monetary-system change rather than CPI alone.
 - [Geopolitical Cycle Macro](concepts/GeopoliticalCycleMacro.md) — Macro frame treating geopolitical order as a higher-level constraint that can change asset-pricing boundaries.
 - [Trained Intuition](concepts/TrainedIntuition.md) — Decision-making frame where fast judgment becomes reliable only after training, feedback, reflection, and direct experience.
-- [Embodied Judgment](concepts/EmbodiedJudgment.md) — Decision-making frame where body, emotion, fatigue, senses, and environment are treated as part of judgment rather than as mere noise.
+- [Embodied Judgment](concepts/EmbodiedJudgment.md) — Decision-making frame treating trained bodily response as contextual evidence rather than noise or oracle.
 - [Flow Environment Design](concepts/FlowEnvironmentDesign.md) — Practice of arranging movement, rhythm, natural settings, boredom, and distraction limits so deep attention becomes more likely.
 - [Extreme Environment Risk Management](concepts/ExtremeEnvironmentRiskManagement.md) — Risk discipline for terrain, weather, body condition, equipment, mechanics, team trust, rescue, return, and survival-versus-mastery judgment.
 - [Summit As Transformation](concepts/SummitAsTransformation.md) — Mountaineering and life-design frame where the summit gives direction but the real outcome is the person shaped by the whole climb.
@@ -24896,7 +24897,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Insurance Policy Loan Fraud](concepts/InsurancePolicyLoanFraud.md) — Use of legitimate policies, pledges, or loans as bridges into unrelated high-risk or fraudulent investment arrangements.
 - [Earnings Expectation Gap](concepts/EarningsExpectationGap.md) — Investing problem where reported growth can disappoint if expectations, guidance, or valuation already priced in stronger results.
 - [Behavioral Investing Biases](concepts/BehavioralInvestingBiases.md) — Loss aversion, confirmation bias, herding, anchoring, and related investor psychology that distort research and trading.
-- [Investment Decision Logging](concepts/InvestmentDecisionLogging.md) — Practice of recording thesis, evidence, risks, catalysts, and invalidation conditions so investment decisions can be reviewed.
+- [Investment Decision Logging](concepts/InvestmentDecisionLogging.md) — Pre-outcome record of thesis, evidence, risks, and invalidation conditions for separating process quality from luck.
 - [Political Influence Monetization](concepts/PoliticalInfluenceMonetization.md) — Pattern where office, access, family network, regulatory leverage, or policy expectations become private economic value.
 - [Presidential Conflict Of Interest](concepts/PresidentialConflictOfInterest.md) — Governance gap where presidential office-linked private upside can accumulate around family, entities, and counterparties.
 - [Political Meme Stock](concepts/PoliticalMemeStock.md) — Listed equity whose price is driven by political identity, supporter emotion, and symbolism more than operating fundamentals.
@@ -25676,5 +25677,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Speakeasy Experience Design / 隐藏酒吧体验设计](concepts/SpeakeasyExperienceDesign.md) — Hidden-entry hospitality model separating discovery ritual from drink, service, atmosphere, and waiting-cost quality.
 - [Urban Nightlife Spatial Layering / 城市夜生活空间叠层](concepts/UrbanNightlifeSpatialLayering.md) — Overlap of daytime and nighttime uses, visible and hidden rooms, vertical land use, and neighborhood audiences.
 - [Organised Crime State Penetration](concepts/OrganisedCrimeStatePenetration.md) — Interaction of illicit markets, extortion, political patronage, and compromised police or prosecutorial institutions.
+- [Investor Self-Knowledge / 投资者自知](concepts/InvestorSelfKnowledge.md) — Match among market participation, motive, temperament, competence, capital, bodily response, tacit experience, and belief.
+- [Core-Satellite Portfolio / 核心—卫星配置](concepts/CoreSatellitePortfolio.md) — Portfolio structure separating durable core participation from bounded tactical or thematic positions.
+- [Quantitative FOF Allocation / 量化 FOF 配置](concepts/QuantitativeFOFAllocation.md) — Second-order allocation across quantitative strategies and managers by return source, capacity, and failure mode.
 
 ## Syntheses

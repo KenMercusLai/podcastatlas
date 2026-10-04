@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2176
+topic_total_pages: 2180
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -745,6 +745,9 @@ topic_concepts:
   - key: "ConwaysLawOrganizationalDesign"
     title: "Conway's Law Organizational Design"
     url: "/wiki/concepts/conwayslaworganizationaldesign/"
+  - key: "CoreSatellitePortfolio"
+    title: "Core-Satellite Portfolio / 核心—卫星配置"
+    url: "/wiki/concepts/coresatelliteportfolio/"
   - key: "CorporateSpeakingPoliticalApprenticeship"
     title: "Corporate Speaking as Political Apprenticeship"
     url: "/wiki/concepts/corporatespeakingpoliticalapprenticeship/"
@@ -1777,6 +1780,9 @@ topic_concepts:
   - key: "InvestorReferenceChecking"
     title: "Investor Reference Checking"
     url: "/wiki/concepts/investorreferencechecking/"
+  - key: "InvestorSelfKnowledge"
+    title: "Investor Self-Knowledge / 投资者自知"
+    url: "/wiki/concepts/investorselfknowledge/"
   - key: "InvestorSuitabilityFriction"
     title: "Investor Suitability Friction"
     url: "/wiki/concepts/investorsuitabilityfriction/"
@@ -2494,6 +2500,9 @@ topic_concepts:
   - key: "QuantitativeDataMoat"
     title: "Quantitative Data Moat"
     url: "/wiki/concepts/quantitativedatamoat/"
+  - key: "QuantitativeFOFAllocation"
+    title: "Quantitative FOF Allocation / 量化 FOF 配置"
+    url: "/wiki/concepts/quantitativefofallocation/"
   - key: "QuantitativeInvesting"
     title: "Quantitative Investing"
     url: "/wiki/concepts/quantitativeinvesting/"
@@ -6519,6 +6528,9 @@ topic_sources:
   - key: "suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq"
     title: "所有净值曲线背后都是人，正态分布的普通人"
     url: "/wiki/sources/suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq/"
+  - key: "touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd"
+    title: "投资者的敌人：我与我周旋久"
+    url: "/wiki/sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd/"
   - key: "tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77"
     title: "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10"
     url: "/wiki/sources/tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77/"
