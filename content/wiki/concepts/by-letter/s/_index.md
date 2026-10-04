@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9615
+wiki_total_pages: 9616
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "SeedOilEvidenceBoundary"
     title: "Seed-Oil Evidence Boundary"
     url: "/wiki/concepts/seedoilevidenceboundary/"
+  - key: "SeeGrowActionLearningLoop"
+    title: "See–Grow–Action Learning Loop / 破—立—行成长笔记"
+    url: "/wiki/concepts/seegrowactionlearningloop/"
   - key: "SegregationistPopulistTranslation"
     title: "Segregationist Populist Translation"
     url: "/wiki/concepts/segregationistpopulisttranslation/"

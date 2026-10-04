@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP88 史上最强播客/读书笔记？](sources/ep88-shishang-zuiqiang-boke-dushu-biji-gkwrimaohukbbougrata9-vx.md) — 纵横四海 episode on the See–Grow–Action growth-note loop, strict insight filtering, living knowledge networks, and behavior change as the acceptance test for learning.
 - [Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology](sources/all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573.md) — All-In interview on oscillator-based physical computing, data-movement energy, biological efficiency, and the qualification gates around a reported 500-nanojoule prototype.
 - [京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权](sources/jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449.md) — 声动早咖啡 on brand-mark confusion, robot supply chains, automotive licensing, AI security controls, memory competition, holiday fares, and mobile agents.
 - [Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡](sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow.md) — 文化有限 cross-media autumn special on restorative attention, finite relationships, relational silence, communal repair, punitive fantasy, and exploration optimism.
@@ -6154,7 +6155,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yuri / 尤栗 / 优瑞](entities/UreyVirtualIdol.md) — AI-native virtual idol and digital singer built through multi-model music, image, video, voice, and personality-system workflow.
 - [AI Talk](entities/AITalk.md) — Hanqing's early synthetic virtual-conversation project and training ground before the shift toward original AI-native IP.
 - [Omni-Human](entities/OmniHuman.md) — Model named in the Yuri source as enabling more expressive AI singing and virtual-idol performance.
-- [纵横四海 / Zong Heng Si Hai](entities/ZongHengSiHai.md) — Chinese long-form podcast represented by Mini MBA marketing and operations episodes, EP87 on scarcity psychology, and Melody's account of preparation-heavy long-form production.
+- [纵横四海 / Zong Heng Si Hai](entities/ZongHengSiHai.md) — Chinese long-form podcast represented by Mini MBA management, scarcity psychology, action-oriented learning, and preparation-heavy production.
 - [Tom Nuttall](entities/TomNuttall.md) — The Intelligence participant reporting from AfD's Saxony-Anhalt election-night party and explaining the post-election arithmetic.
 - [Bündnis Sahra Wagenknecht / BSW](entities/BundnisSahraWagenknecht.md) — Populist-left German party that becomes a possible Saxony-Anhalt kingmaker after AfD's large plurality.
 - [Sven Schulze](entities/SvenSchulze.md) — CDU Saxony-Anhalt premier whose weakened incumbent position anchors the caretaker-stalemate scenario.
@@ -16044,6 +16045,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Space Shuttle Challenger / 挑战者号](entities/SpaceShuttleChallenger.md) — NASA shuttle lost in 1986, synthesized as a coupled component, warning-escalation, and program-governance failure.
 
 ## Concepts
+- [See–Grow–Action Learning Loop / 破—立—行成长笔记](concepts/SeeGrowActionLearningLoop.md) — Lightweight loop that selects consequential insights, grows them through connection, and tests them through changed behavior and feedback.
 - [Physical Dynamical Computing](concepts/PhysicalDynamicalComputing.md) — Computation through trained evolution of coupled physical elements rather than only conventional digital instruction sequences.
 - [AI Data Movement Energy Cost](concepts/AIDataMovementEnergyCost.md) — Power spent transporting model state among memory, compute, chips, and systems rather than performing useful arithmetic.
 - [Intelligence Per Watt](concepts/IntelligencePerWatt.md) — Quality-adjusted objective for useful AI capability delivered per unit of electrical power.
@@ -24753,7 +24755,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Reading As Life Experience](concepts/ReadingAsLifeExperience.md) — Reading as a lived practice shaped by body, memory, mood, timing, family atmosphere, everyday materials, and difficult moral imagination.
 - [Classic Reading Complexity](concepts/ClassicReadingComplexity.md) — Discipline for reading classics without reducing them to reverence, cancellation, plot labels, or present-day moral shorthand.
 - [Family Reading Ecology](concepts/FamilyReadingEcology.md) — Household reading environment that shapes whether books feel ordinary, forbidden, instrumental, status-coded, or inviting.
-- [Personal Knowledge Ecology](concepts/PersonalKnowledgeEcology.md) — View of notes, shelves, whiteboards, conversations, and AI context as a living environment for thought.
+- [Personal Knowledge Ecology](concepts/PersonalKnowledgeEcology.md) — Living environment that turns notes, media, files, conversations, and AI context into connected memory, judgment, and action.
 - [AI Authorship Presence](concepts/AIAuthorshipPresence.md) — Trust problem around whether the author's attention and frame are felt to be present when AI helps produce text.
 - [Human Agency Under AI](concepts/HumanAgencyUnderAI.md) — AI-era agency frame focused on why, what, what if, personal taste, and the parts of judgment that should not be delegated.
 - [AI Use Pacing](concepts/AIUsePacing.md) — Discipline for using AI without turning FoMO, subscriptions, token quotas, and agent watching into more self-created work.

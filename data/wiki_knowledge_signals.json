@@ -162443,6 +162443,50 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/personalguardattacksurface/"
     },
+    "PersonalKnowledgeEcology": {
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "读书，就是在读一个人的 F [li4Qt9Zs2BsS4tKLNJ3Yg9y_quo1].md",
+          "key": "dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1",
+          "show": "面基",
+          "title": "读书，就是在读一个人的 F",
+          "url": "/wiki/sources/dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1/"
+        },
+        {
+          "episode_file": "E45 孟岩对话李继刚：人何以自处 [lvA2mFXeSE7V0sFV3mFpfFHBDAsk].md",
+          "key": "e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask",
+          "show": "无人知晓",
+          "title": "E45 孟岩对话李继刚：人何以自处",
+          "url": "/wiki/sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask/"
+        },
+        {
+          "episode_file": "268.AI时代，个人工作台会重新回到手机吗？ [lgPRs5jUHHrJyKBzASAqvdLZx8fs].md",
+          "key": "268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs",
+          "show": "乱翻书",
+          "title": "268. AI时代，个人工作台会重新回到手机吗？",
+          "url": "/wiki/sources/268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs/"
+        },
+        {
+          "episode_file": "为什么硅谷开始重新定义「AI 记忆」｜ S10E20 [a70c41aa-41ae-488d-a6e2-63c3de5b9ec3].md",
+          "key": "weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3",
+          "show": "What's Next｜科技早知道",
+          "title": "为什么硅谷开始重新定义「AI 记忆」｜ S10E20",
+          "url": "/wiki/sources/weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3/"
+        },
+        {
+          "episode_file": "GKwRIMAOhuKbBoUGrATa9-VX [GKwRIMAOhuKbBoUGrATa9-VX].md",
+          "key": "ep88-shishang-zuiqiang-boke-dushu-biji-gkwrimaohukbbougrata9-vx",
+          "show": "纵横四海",
+          "title": "EP88 史上最强播客/读书笔记？",
+          "url": "/wiki/sources/ep88-shishang-zuiqiang-boke-dushu-biji-gkwrimaohukbbougrata9-vx/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/personalknowledgeecology/"
+    },
     "PersonalLifeAgent": {
       "episode_count": 5,
       "show_count": 3,
@@ -186849,6 +186893,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/sedentarybehaviorinterruption/"
+    },
+    "SeeGrowActionLearningLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIMAOhuKbBoUGrATa9-VX [GKwRIMAOhuKbBoUGrATa9-VX].md",
+          "key": "ep88-shishang-zuiqiang-boke-dushu-biji-gkwrimaohukbbougrata9-vx",
+          "show": "纵横四海",
+          "title": "EP88 史上最强播客/读书笔记？",
+          "url": "/wiki/sources/ep88-shishang-zuiqiang-boke-dushu-biji-gkwrimaohukbbougrata9-vx/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/seegrowactionlearningloop/"
     },
     "SeedOilEvidenceBoundary": {
       "episode_count": 2,
@@ -239145,9 +239205,9 @@
       "url": "/wiki/entities/zongfuli/"
     },
     "ZongHengSiHai": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GKwRIMAOOMQ_BvEJTAS8O50a [GKwRIMAOOMQ_BvEJTAS8O50a].md",
@@ -239176,9 +239236,16 @@
           "show": "纵横四海",
           "title": "EP87《稀缺》：如何设计一个让自己变聪明的系统",
           "url": "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
+        },
+        {
+          "episode_file": "GKwRIMAOhuKbBoUGrATa9-VX [GKwRIMAOhuKbBoUGrATa9-VX].md",
+          "key": "ep88-shishang-zuiqiang-boke-dushu-biji-gkwrimaohukbbougrata9-vx",
+          "show": "纵横四海",
+          "title": "EP88 史上最强播客/读书笔记？",
+          "url": "/wiki/sources/ep88-shishang-zuiqiang-boke-dushu-biji-gkwrimaohukbbougrata9-vx/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/zonghengsihai/"
     },
     "ZongJunEasternHan": {
