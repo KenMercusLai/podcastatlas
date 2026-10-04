@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡](sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow.md) — 文化有限 cross-media autumn special on restorative attention, finite relationships, relational silence, communal repair, punitive fantasy, and exploration optimism.
 - [Episode 229: 钓一条大鱼](sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605.md) — 迟早更新 on evidence-calibrated criticism, short-review incentives, plural birdwatching motives, and whether nature writing makes its subjects thicker or thinner.
 - [502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年](sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd.md) — 忽左忽右 discussion of Challenger as a coupled technical and organizational failure shaped by budget pressure, public promises, warning escalation, and go fever.
 - [1. Greatness](sources/1-greatness-glt2583338621.md) — The Rest Is History on greatness as a changing imperial, national, democratic, moral, and popular-cultural judgment rather than a neutral measure of merit.
@@ -3716,6 +3717,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
 
 ## Entities
+- [《无界之环》](entities/BoundlessRingFilm.md) — Border film using split images and identical twins to question war labels and binary identity.
+- [《巴贝特之宴》 / Babette's Feast](entities/BabettesFeast.md) — Film linking culinary art, faith, mourning, generosity, and communal repair.
+- [《四季之后》](entities/FourSeasonsAfterFilm.md) — Youth-romance film asking whether finite love can retain value when life directions diverge.
+- [《恐龙的移动轨迹》](entities/DinosaurMovementTrajectoriesNovel.md) — Multi-perspective novel about friendship, grief, silence, projection, and the movement of love.
+- [《喜乐会》](entities/JoyClubNovel.md) — Multigenerational family novel about grief, reproductive choice, hidden injury, and compulsory harmony.
+- [《星之继承者》 / Inherit the Stars](entities/InheritTheStarsNovel.md) — Science-fiction mystery joining interdisciplinary reasoning to humanistic exploration optimism.
 - [Cincinnatus](entities/Cincinnatus.md) — Roman republican exemplar whose remembered voluntary withdrawal made relinquishing emergency power a model of political legitimacy.
 - [John McCain](entities/JohnMcCain.md) — U.S. war hero and senator presented as an honor-centered foil to Trump's anti-establishment political style.
 - [John Milton](entities/JohnMilton.md) — Poet, Commonwealth official, regicide defender, and advocate of freer print in a contested seventeenth-century information order.
@@ -16030,6 +16037,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Space Shuttle Challenger / 挑战者号](entities/SpaceShuttleChallenger.md) — NASA shuttle lost in 1986, synthesized as a coupled component, warning-escalation, and program-governance failure.
 
 ## Concepts
+- [Restorative Cultural Attention](concepts/RestorativeCulturalAttention.md) — Cultural engagement for felt recovery rather than mandatory information gain or productivity.
+- [Relationship Value Beyond Duration](concepts/RelationshipValueBeyondDuration.md) — Why a relationship can matter through care and change even when it ends.
+- [Relational Silence and Projection](concepts/RelationalSilenceProjection.md) — Cycle of hidden need, waiting, imagined motives, and avoidable distance.
+- [Shared Sensory Community Repair](concepts/SharedSensoryCommunityRepair.md) — How meals, art, or embodied ritual can reopen communal contact before verbal agreement.
+- [Institutional Failure and Punitive Fantasy](concepts/InstitutionalFailurePunitiveFantasy.md) — Why failed protection makes extraordinary force emotionally satisfying but ethically dangerous.
+- [Humanistic Exploration Optimism](concepts/HumanisticExplorationOptimism.md) — Confidence grounded in curiosity, interdisciplinary reasoning, courage, and revisable inquiry.
 - [Textual Judgment Evidence Matching / 文本判断的证据匹配](concepts/TextualJudgmentEvidenceMatching.md) — Rule matching reading response, textual claims, motive inference, and personality judgment to progressively stronger evidence.
 - [Nature-Writing Object Thickness / 自然写作的对象厚度](concepts/NatureWritingObjectThickness.md) — Test of whether represented subjects retain histories, pressures, interests, and resistant dimensions beyond the writer's self-image.
 - [Historical Greatness](concepts/HistoricalGreatness.md) — Culturally changing judgment that separates historical consequence, political effectiveness, public reverence, and moral approval.

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3289
+topic_total_pages: 3290
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2530,6 +2530,9 @@ topic_concepts:
   - key: "HumanValueAIDeployment"
     title: "Human-Value AI Deployment / 提高人的价值以部署 AI"
     url: "/wiki/concepts/humanvalueaideployment/"
+  - key: "HumanisticExplorationOptimism"
+    title: "Humanistic Exploration Optimism"
+    url: "/wiki/concepts/humanisticexplorationoptimism/"
   - key: "HumanoidRobotCommercialization"
     title: "Humanoid Robot Commercialization"
     url: "/wiki/concepts/humanoidrobotcommercialization/"

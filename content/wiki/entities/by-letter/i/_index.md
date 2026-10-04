@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 12266
+wiki_total_pages: 12272
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -452,6 +452,9 @@ wiki_pages:
   - key: "ImpeachmentBook"
     title: "《弹劾》 / Impeachment: A Citizen's Guide"
     url: "/wiki/entities/impeachmentbook/"
+  - key: "InheritTheStarsNovel"
+    title: "《星之继承者》 / Inherit the Stars"
+    url: "/wiki/entities/inheritthestarsnovel/"
   - key: "InAGrove"
     title: "《竹林中》 / In a Grove"
     url: "/wiki/entities/inagrove/"

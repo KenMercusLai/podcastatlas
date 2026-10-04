@@ -10707,6 +10707,10 @@
     "title": "巴比特咖啡 / Babbitt Coffee",
     "url": "/wiki/entities/babbittcoffee/"
   },
+  "BabettesFeast": {
+    "title": "《巴贝特之宴》 / Babette's Feast",
+    "url": "/wiki/entities/babettesfeast/"
+  },
   "BabingtonPlot": {
     "title": "Babington Plot",
     "url": "/wiki/entities/babingtonplot/"
@@ -13198,6 +13202,10 @@
   "BoundedSpeculativeOptionality": {
     "title": "Bounded Speculative Optionality / 有边界的彩票仓位",
     "url": "/wiki/concepts/boundedspeculativeoptionality/"
+  },
+  "BoundlessRingFilm": {
+    "title": "《无界之环》",
+    "url": "/wiki/entities/boundlessringfilm/"
   },
   "BountyMobilizedPacification": {
     "title": "赏募动员式平乱 / Bounty-Mobilized Pacification",
@@ -23995,6 +24003,10 @@
     "title": "Dinosaurs as a Cultural Mirror",
     "url": "/wiki/concepts/dinosaurculturalmirror/"
   },
+  "DinosaurMovementTrajectoriesNovel": {
+    "title": "《恐龙的移动轨迹》",
+    "url": "/wiki/entities/dinosaurmovementtrajectoriesnovel/"
+  },
   "DinosaurScienceRevision": {
     "title": "Dinosaur Science Revision",
     "url": "/wiki/concepts/dinosaursciencerevision/"
@@ -31354,6 +31366,10 @@
   "FourFTraumaResponse": {
     "title": "4F Trauma Response",
     "url": "/wiki/concepts/fourftraumaresponse/"
+  },
+  "FourSeasonsAfterFilm": {
+    "title": "《四季之后》",
+    "url": "/wiki/entities/fourseasonsafterfilm/"
   },
   "FourSeasonsHotels": {
     "title": "Four Seasons Hotels and Resorts",
@@ -39355,6 +39371,10 @@
     "title": "仁厚地方治理 / Humane Local Governance",
     "url": "/wiki/concepts/humanelocalgovernance/"
   },
+  "HumanisticExplorationOptimism": {
+    "title": "Humanistic Exploration Optimism",
+    "url": "/wiki/concepts/humanisticexplorationoptimism/"
+  },
   "HumanisticScienceCommunication": {
     "title": "Humanistic Science Communication",
     "url": "/wiki/concepts/humanisticsciencecommunication/"
@@ -40699,6 +40719,10 @@
     "title": "Inhalation Poison Public Safety",
     "url": "/wiki/concepts/inhalationpoisonpublicsafety/"
   },
+  "InheritTheStarsNovel": {
+    "title": "《星之继承者》 / Inherit the Stars",
+    "url": "/wiki/entities/inheritthestarsnovel/"
+  },
   "InitializedCapital": {
     "title": "Initialized Capital",
     "url": "/wiki/entities/initializedcapital/"
@@ -40814,6 +40838,10 @@
   "InstitutionalExitEscalation": {
     "title": "制度性退场升级 / Institutional Exit Escalation",
     "url": "/wiki/concepts/institutionalexitescalation/"
+  },
+  "InstitutionalFailurePunitiveFantasy": {
+    "title": "Institutional Failure and Punitive Fantasy",
+    "url": "/wiki/concepts/institutionalfailurepunitivefantasy/"
   },
   "InstitutionalInformationAdvantage": {
     "title": "Institutional Information Advantage / 机构信息优势",
@@ -44322,6 +44350,10 @@
   "Jove": {
     "title": "Jove",
     "url": "/wiki/entities/jove/"
+  },
+  "JoyClubNovel": {
+    "title": "《喜乐会》",
+    "url": "/wiki/entities/joyclubnovel/"
   },
   "JoyFM": {
     "title": "Joy FM",
@@ -66911,6 +66943,10 @@
     "title": "Relational Isolation Control / 关系孤立控制",
     "url": "/wiki/concepts/relationalisolationcontrol/"
   },
+  "RelationalSilenceProjection": {
+    "title": "Relational Silence and Projection",
+    "url": "/wiki/concepts/relationalsilenceprojection/"
+  },
   "RelationshipConflictRepair": {
     "title": "Relationship Conflict Repair",
     "url": "/wiki/concepts/relationshipconflictrepair/"
@@ -66958,6 +66994,10 @@
   "RelationshipTechnologyEthics": {
     "title": "Relationship Technology Ethics / 亲密关系技术伦理",
     "url": "/wiki/concepts/relationshiptechnologyethics/"
+  },
+  "RelationshipValueBeyondDuration": {
+    "title": "Relationship Value Beyond Duration",
+    "url": "/wiki/concepts/relationshipvaluebeyondduration/"
   },
   "RelentlesslyResourcefulFounder": {
     "title": "Relentlessly Resourceful Founder",
@@ -67446,6 +67486,10 @@
   "RestorativeCreativePacing": {
     "title": "Restorative Creative Pacing",
     "url": "/wiki/concepts/restorativecreativepacing/"
+  },
+  "RestorativeCulturalAttention": {
+    "title": "Restorative Cultural Attention",
+    "url": "/wiki/concepts/restorativeculturalattention/"
   },
   "RestoreBritain": {
     "title": "Restore Britain",
@@ -71718,6 +71762,10 @@
   "SharedRelationshipNarrative": {
     "title": "Shared Relationship Narrative",
     "url": "/wiki/concepts/sharedrelationshipnarrative/"
+  },
+  "SharedSensoryCommunityRepair": {
+    "title": "Shared Sensory Community Repair",
+    "url": "/wiki/concepts/sharedsensorycommunityrepair/"
   },
   "ShareholderPrimacy": {
     "title": "Shareholder Primacy",
@@ -97114,6 +97162,10 @@
   "vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj": {
     "title": "Vol.352 无人观看：自我差异性极大，外部相似性极强的我们",
     "url": "/wiki/sources/vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj/"
+  },
+  "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow": {
+    "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+    "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
   },
   "vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h": {
     "title": "Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人",

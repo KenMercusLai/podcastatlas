@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9601
+wiki_total_pages: 9607
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "SharedRelationshipNarrative"
     title: "Shared Relationship Narrative"
     url: "/wiki/concepts/sharedrelationshipnarrative/"
+  - key: "SharedSensoryCommunityRepair"
+    title: "Shared Sensory Community Repair"
+    url: "/wiki/concepts/sharedsensorycommunityrepair/"
   - key: "SharedBikeCapitalWar"
     title: "Shared-Bike Capital War"
     url: "/wiki/concepts/sharedbikecapitalwar/"

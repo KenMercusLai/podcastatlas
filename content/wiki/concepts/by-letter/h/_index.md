@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9601
+wiki_total_pages: 9607
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -983,6 +983,9 @@ wiki_pages:
   - key: "HumanValueAIDeployment"
     title: "Human-Value AI Deployment / 提高人的价值以部署 AI"
     url: "/wiki/concepts/humanvalueaideployment/"
+  - key: "HumanisticExplorationOptimism"
+    title: "Humanistic Exploration Optimism"
+    url: "/wiki/concepts/humanisticexplorationoptimism/"
   - key: "HumanisticScienceCommunication"
     title: "Humanistic Science Communication"
     url: "/wiki/concepts/humanisticsciencecommunication/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12266
+wiki_total_pages: 12272
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1253,6 +1253,9 @@ wiki_pages:
   - key: "BookOfRevelation"
     title: "《启示录》 / Book of Revelation"
     url: "/wiki/entities/bookofrevelation/"
+  - key: "BabettesFeast"
+    title: "《巴贝特之宴》 / Babette's Feast"
+    url: "/wiki/entities/babettesfeast/"
   - key: "BizarreStories"
     title: "《怪诞故事集》 / Bizarre Stories"
     url: "/wiki/entities/bizarrestories/"
@@ -1268,6 +1271,9 @@ wiki_pages:
   - key: "BaoSun"
     title: "《抱孙》"
     url: "/wiki/entities/baosun/"
+  - key: "BoundlessRingFilm"
+    title: "《无界之环》"
+    url: "/wiki/entities/boundlessringfilm/"
   - key: "BitStandardBook"
     title: "《比特本位》 / The Bit Standard"
     url: "/wiki/entities/bitstandardbook/"

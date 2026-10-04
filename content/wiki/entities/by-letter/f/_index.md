@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12266
+wiki_total_pages: 12272
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -827,6 +827,9 @@ wiki_pages:
   - key: "FrontWave2Documentary"
     title: "《前浪2》 / Front Wave 2 Documentary"
     url: "/wiki/entities/frontwave2documentary/"
+  - key: "FourSeasonsAfterFilm"
+    title: "《四季之后》"
+    url: "/wiki/entities/fourseasonsafterfilm/"
   - key: "Flatland"
     title: "《平面国》 / Flatland"
     url: "/wiki/entities/flatland/"

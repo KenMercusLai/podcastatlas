@@ -19639,6 +19639,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/babbittcoffee/"
     },
+    "BabettesFeast": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/babettesfeast/"
+    },
     "BabriMasjid": {
       "episode_count": 1,
       "show_count": 1,
@@ -25786,6 +25802,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/boundarylesskindnesstrap/"
+    },
+    "BoundlessRingFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/boundlessringfilm/"
     },
     "BountyMobilizedPacification": {
       "episode_count": 2,
@@ -33707,9 +33739,9 @@
       "url": "/wiki/concepts/channelnativeinternalcommunication/"
     },
     "ChaoGe": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "sp.06 串台｜ 和李乌鸦＆超哥high聊：做读书博主的“守墓心得” [819825708].md",
@@ -33738,9 +33770,16 @@
           "show": "文化有限",
           "title": "Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主",
           "url": "/wiki/sources/vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol/"
+        },
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/chaoge/"
     },
     "CharacterBasedRomanticCompatibility": {
@@ -48051,9 +48090,9 @@
       "url": "/wiki/concepts/cultureledlabororganizing/"
     },
     "CultureLimited": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "sp.06 串台｜ 和李乌鸦＆超哥high聊：做读书博主的“守墓心得” [819825708].md",
@@ -48096,9 +48135,16 @@
           "show": "文化有限",
           "title": "Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人",
           "url": "/wiki/sources/vol-354-wanru-taitannike-maochongzhe-zonghezheng-dabaofa-xiangei-caihua-pingping-dan-yexin-bobo-de-ren-gkwrirwokgwgauo05wtfda-h/"
+        },
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/culturelimited/"
     },
     "CultureReviewTvReportFormat": {
@@ -48777,9 +48823,9 @@
       "url": "/wiki/entities/dayangyang/"
     },
     "DaYiCultureLimited": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIUEOdAp1A3TAAATTKgOL [GKwRIUEOdAp1A3TAAATTKgOL].md",
@@ -48787,9 +48833,16 @@
           "show": "文化有限",
           "title": "Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主",
           "url": "/wiki/sources/vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol/"
+        },
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/dayiculturelimited/"
     },
     "DabaNiuTeacher": {
@@ -54898,6 +54951,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/dinosaurculturalmirror/"
+    },
+    "DinosaurMovementTrajectoriesNovel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/dinosaurmovementtrajectoriesnovel/"
     },
     "DinosaurScienceRevision": {
       "episode_count": 1,
@@ -77727,6 +77796,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/foundinglibertyslaveryselfcorrection/"
+    },
+    "FourSeasonsAfterFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/fourseasonsafterfilm/"
     },
     "FourthAmendmentDigitalPrivacy": {
       "episode_count": 2,
@@ -102098,6 +102183,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/humanelocalgovernance/"
     },
+    "HumanisticExplorationOptimism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/humanisticexplorationoptimism/"
+    },
     "HumanitarianAidFundingShortfall": {
       "episode_count": 1,
       "show_count": 1,
@@ -106587,6 +106688,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/inhalationarousallearning/"
     },
+    "InheritTheStarsNovel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/inheritthestarsnovel/"
+    },
     "InjuryRecoveryAdherence": {
       "episode_count": 1,
       "show_count": 1,
@@ -106811,6 +106928,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/institutionalexitescalation/"
+    },
+    "InstitutionalFailurePunitiveFantasy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/institutionalfailurepunitivefantasy/"
     },
     "InstitutionalLoyaltyOverPersonalLoyalty": {
       "episode_count": 2,
@@ -116179,6 +116312,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/journeytothewestconqueringdemons/"
+    },
+    "JoyClubNovel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/joyclubnovel/"
     },
     "JuShou": {
       "episode_count": 9,
@@ -176020,6 +176169,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/relationalinterpretiveauthority/"
     },
+    "RelationalSilenceProjection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/relationalsilenceprojection/"
+    },
     "RelationshipConflictRepair": {
       "episode_count": 4,
       "show_count": 1,
@@ -176233,6 +176398,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/relationshiptechnologyethics/"
+    },
+    "RelationshipValueBeyondDuration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/relationshipvaluebeyondduration/"
     },
     "ReliabilityDrivenInfrastructureOwnership": {
       "episode_count": 1,
@@ -177562,6 +177743,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/restorationcontingency/"
+    },
+    "RestorativeCulturalAttention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/restorativeculturalattention/"
     },
     "RestoredRegimePromiseCredibility": {
       "episode_count": 1,
@@ -188883,6 +189080,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/sharedrelationshipnarrative/"
+    },
+    "SharedSensoryCommunityRepair": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/sharedsensorycommunityrepair/"
     },
     "SharonTindell": {
       "episode_count": 1,
@@ -210848,9 +211061,9 @@
       "url": "/wiki/concepts/truebutevasiveremonstrance/"
     },
     "TrueEducationKDrama": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
@@ -210858,9 +211071,16 @@
           "show": "这病说来话长",
           "title": "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”",
           "url": "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"
+        },
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/trueeducationkdrama/"
     },
     "TrumpCoalitionFragmentation": {
@@ -227156,9 +227376,9 @@
       "url": "/wiki/entities/xinyuanyanghudiemeng/"
     },
     "XingguangCultureLimited": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GKwRIDoOapxPAz2h0wTPhrfr [GKwRIDoOapxPAz2h0wTPhrfr].md",
@@ -227173,9 +227393,16 @@
           "show": "文化有限",
           "title": "Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主",
           "url": "/wiki/sources/vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol/"
+        },
+        {
+          "episode_file": "GKwRIaIOhmV_A7NdcATasTOW [GKwRIaIOhmV_A7NdcATasTOW].md",
+          "key": "vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow",
+          "show": "文化有限",
+          "title": "Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡",
+          "url": "/wiki/sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/xingguangculturelimited/"
     },
     "XingshengYouxuan": {

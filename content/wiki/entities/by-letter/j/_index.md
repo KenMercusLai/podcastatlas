@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12266
+wiki_total_pages: 12272
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1382,6 +1382,9 @@ wiki_pages:
   - key: "JurassicWorldRebirth"
     title: "《侏罗纪世界：重生》 / Jurassic World: Rebirth"
     url: "/wiki/entities/jurassicworldrebirth/"
+  - key: "JoyClubNovel"
+    title: "《喜乐会》"
+    url: "/wiki/entities/joyclubnovel/"
   - key: "JoseiEiseiYouhinNoShakaishi"
     title: "《女性卫生用品的社会史》"
     url: "/wiki/entities/joseieiseiyouhinnoshakaishi/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12266
+wiki_total_pages: 12272
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "DinoSanctuary"
     title: "《恐龙庇护所》 / Dino Sanctuary"
     url: "/wiki/entities/dinosanctuary/"
+  - key: "DinosaurMovementTrajectoriesNovel"
+    title: "《恐龙的移动轨迹》"
+    url: "/wiki/entities/dinosaurmovementtrajectoriesnovel/"
   - key: "DakayiKexin"
     title: "《打开一颗心》 / Open Heart"
     url: "/wiki/entities/dakayikexin/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9601
+wiki_total_pages: 9607
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "InstantRetail"
     title: "Instant Retail"
     url: "/wiki/concepts/instantretail/"
+  - key: "InstitutionalFailurePunitiveFantasy"
+    title: "Institutional Failure and Punitive Fantasy"
+    url: "/wiki/concepts/institutionalfailurepunitivefantasy/"
   - key: "InstitutionalInformationAdvantage"
     title: "Institutional Information Advantage / 机构信息优势"
     url: "/wiki/concepts/institutionalinformationadvantage/"

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1444
+topic_total_pages: 1446
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1078,6 +1078,9 @@ topic_concepts:
   - key: "HumanNaturePlasticity"
     title: "Human Nature Plasticity / 人性可变性"
     url: "/wiki/concepts/humannatureplasticity/"
+  - key: "HumanisticExplorationOptimism"
+    title: "Humanistic Exploration Optimism"
+    url: "/wiki/concepts/humanisticexplorationoptimism/"
   - key: "HumanisticScienceCommunication"
     title: "Humanistic Science Communication"
     url: "/wiki/concepts/humanisticsciencecommunication/"
@@ -3377,6 +3380,9 @@ topic_entities:
   - key: "GoodMorningMonster"
     title: "《早安，怪物》 / Good Morning, Monster"
     url: "/wiki/entities/goodmorningmonster/"
+  - key: "InheritTheStarsNovel"
+    title: "《星之继承者》 / Inherit the Stars"
+    url: "/wiki/entities/inheritthestarsnovel/"
   - key: "ZhishangCeshiBook"
     title: "《智商测试》"
     url: "/wiki/entities/zhishangceshibook/"
