@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9684
+wiki_total_pages: 9686
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "BlackUnionMilitaryServiceCitizenship"
     title: "Black Union Military Service and Citizenship"
     url: "/wiki/concepts/blackunionmilitaryservicecitizenship/"
+  - key: "BlackVitalityResilience"
+    title: "Black Vitality Resilience / 黑色生命力"
+    url: "/wiki/concepts/blackvitalityresilience/"
   - key: "BlankChequeAllianceEscalation"
     title: "Blank-Cheque Alliance Escalation"
     url: "/wiki/concepts/blankchequeallianceescalation/"

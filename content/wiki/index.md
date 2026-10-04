@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》366-4｜淇姐心里话：女人更解女人心](sources/zizhi-tongjian-hanji-366-4-qijie-xinlihua-nvren-geng-jie-nvrenxin-lhnf_zbn364cuu01f0rbf8pd-7in.md) — 将同理心、责任、行动、学习、关系边界、健康与时间管理合成女性自我治理理想，并把“黑色生命力”限定为来源中的韧性隐喻。
 - [《资治通鉴·汉纪》367-2｜教你一招，应对职场中的“不公”](sources/zizhi-tongjian-hanji-367-2-jiao-ni-yizhao-yingdui-zhichang-zhong-de-bugong-lmphtxnfn76galepblj-x4ikc3gl.md) — 以“老板思维”区分个人委屈与组织评价逻辑，并把发展空间、健康成本和体面离开合成职场不公下的退出判断。
 - [《资治通鉴·汉纪》367-1｜碰女人就疲软的诸侯王](sources/zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1sg-lkwl9dtnflxxgkieb79hj.md) — 胶西王刘端的宗室保护、宫廷暴力与地方治理破坏，及董仲舒在公孙弘推动的高风险任命中识险退身。
 - [323-AI是否可以取代翻译？错误的翻译如何塑造现实？](sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf.md) — 独树不成林 episode distinguishing routine AI translation from conceptual judgment and tracing how entrenched terminology shapes political and philosophical interpretation.
@@ -16214,6 +16215,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
 
 ## Concepts
+- [Female Strength as Self-Governance / 女性力量作为自我治理](concepts/FemaleStrengthAsSelfGovernance.md) — Integrates empathy, responsibility, learning, action, boundaries, health, and time stewardship while preserving structural limits on choice.
+- [Black Vitality Resilience / 黑色生命力](concepts/BlackVitalityResilience.md) — Qualified recovery-and-learning metaphor for repeatedly standing up after pain without assuming adversity automatically produces growth.
 - [Conceptual Translation Judgment / 概念翻译判断](concepts/ConceptualTranslationJudgment.md) — Human judgment about a term's history, conceptual relations, normative role, and target-language associations beyond mechanical fluency.
 - [Translation Path Dependence / 翻译路径依赖](concepts/TranslationPathDependence.md) — Process by which repeated and institutionalized renderings become defaults that later usage and AI systems reinforce.
 - [制衡消失后的控制升级 / Counterweight-Loss Control Escalation](concepts/CounterweightLossControlEscalation.md) — 关键制衡者消失后，权威集中反而伴随不安全感、猜疑、惩罚与监察扩张的来源限定机制。

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9684
+wiki_total_pages: 9686
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "FemaleSelfPossession"
     title: "Female Self-Possession"
     url: "/wiki/concepts/femaleselfpossession/"
+  - key: "FemaleStrengthAsSelfGovernance"
+    title: "Female Strength as Self-Governance / 女性力量作为自我治理"
+    url: "/wiki/concepts/femalestrengthasselfgovernance/"
   - key: "FemaleSubjectivityInClassicReading"
     title: "Female Subjectivity In Classic Reading / 经典阅读中的女性主体性"
     url: "/wiki/concepts/femalesubjectivityinclassicreading/"

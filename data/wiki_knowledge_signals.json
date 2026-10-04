@@ -25108,6 +25108,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/blackunionmilitaryservicecitizenship/"
     },
+    "BlackVitalityResilience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》366-4｜淇姐心里话：女人更解女人心 [lhNF_Zbn364Cuu01F0RbF8pd-7in].md",
+          "key": "zizhi-tongjian-hanji-366-4-qijie-xinlihua-nvren-geng-jie-nvrenxin-lhnf_zbn364cuu01f0rbf8pd-7in",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》366-4｜淇姐心里话：女人更解女人心",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-366-4-qijie-xinlihua-nvren-geng-jie-nvrenxin-lhnf_zbn364cuu01f0rbf8pd-7in/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/blackvitalityresilience/"
+    },
     "Blackmores": {
       "episode_count": 1,
       "show_count": 1,
@@ -65156,6 +65172,36 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/empathicadversarialinterviewing/"
     },
+    "EmpathyBoundaries": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？ [555771723].md",
+          "key": "chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723",
+          "show": "蜜獾吃书",
+          "title": "串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？",
+          "url": "/wiki/sources/chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723/"
+        },
+        {
+          "episode_file": "vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？｜ 串台轻刀快马 [lmpluij7RcFq49cXcyB65X3F7zfn].md",
+          "key": "vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn",
+          "show": "起朱楼宴宾客",
+          "title": "vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？",
+          "url": "/wiki/sources/vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》366-4｜淇姐心里话：女人更解女人心 [lhNF_Zbn364Cuu01F0RbF8pd-7in].md",
+          "key": "zizhi-tongjian-hanji-366-4-qijie-xinlihua-nvren-geng-jie-nvrenxin-lhnf_zbn364cuu01f0rbf8pd-7in",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》366-4｜淇姐心里话：女人更解女人心",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-366-4-qijie-xinlihua-nvren-geng-jie-nvrenxin-lhnf_zbn364cuu01f0rbf8pd-7in/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/empathyboundaries/"
+    },
     "EmpathyCircleExpansion": {
       "episode_count": 9,
       "show_count": 1,
@@ -75434,6 +75480,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/femalesacredauthorityconstraint/"
+    },
+    "FemaleStrengthAsSelfGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》366-4｜淇姐心里话：女人更解女人心 [lhNF_Zbn364Cuu01F0RbF8pd-7in].md",
+          "key": "zizhi-tongjian-hanji-366-4-qijie-xinlihua-nvren-geng-jie-nvrenxin-lhnf_zbn364cuu01f0rbf8pd-7in",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》366-4｜淇姐心里话：女人更解女人心",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-366-4-qijie-xinlihua-nvren-geng-jie-nvrenxin-lhnf_zbn364cuu01f0rbf8pd-7in/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/femalestrengthasselfgovernance/"
     },
     "FemaleSupportDrivenGrowthNarrative": {
       "episode_count": 1,
