@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri
   - zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk
   - zizhi-tongjian-hanji-378-1-quru-de-huozhe-you-duo-nan-kankan-baijiang-liling-lkpxe5exfrq0erj6kcdmbmhxkpvq
+  - zizhi-tongjian-hanji-378-2-jiemi-simaqian-shou-gongxing-de-zhenzheng-yuanyin-luqzp9-vrn85wxkdn864yx5fnmfv
 last_updated: 2026-10-04
 ---
 
@@ -27,6 +28,8 @@ last_updated: 2026-10-04
 
 The immediate court and moral transition appears in [[zizhi-tongjian-hanji-378-1-quru-de-huozhe-you-duo-nan-kankan-baijiang-liling-lkpxe5exfrq0erj6kcdmbmhxkpvq|Hanji 378-1]]. News that Li Ling has surrendered overturns Wudi's expectation that he will die for reputation and leads to anger against [[ChenBuleWesternHan|陈步乐]], who had earlier praised him. The host's war-film analogy reframes survival as a possible carrier of guilt, mission, and humiliation rather than automatic evidence of cowardice. That analogy strengthens the tragic reading but does not establish Li Ling's private intention.
 
+[[zizhi-tongjian-hanji-378-2-jiemi-simaqian-shou-gongxing-de-zhenzheng-yuanyin-luqzp9-vrn85wxkdn864yx5fnmfv|Hanji 378-2]] shows the surrender becoming a court evidence conflict. [[SimaQian|司马迁]] cites Li Ling's prior conduct, force disparity, ammunition exhaustion, and possible intention to repay the state, while Wudi treats that defense as deception. The same source says Wudi later recognizes that the intended support arrangement failed, rewards returning survivors, and sends Gongsun Ao to retrieve Li Ling. This later reassessment partially shifts responsibility toward command failure without proving Li Ling's motive or restoring him politically.
+
 [[zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0|Hanji 380-2]] makes the later rupture concrete. Wudi reportedly tries to retrieve Li Ling, but [[GongsunAoWesternHan|公孙敖]] returns without him and relays captive testimony that Li Ling is training Xiongnu soldiers and making weapons. The episode says the trainer was actually [[LiXuWesternHan|李绪]]; by the time the error is clear, Li Ling's mother, wife, and family have been killed. Li Ling has Li Xu killed, survives the hostility of the chanyu's mother through the chanyu's protection, and receives marriage, rank, and military authority inside the Xiongnu order.
 
 [[zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy|Hanji 398]] shows the moral afterlife. Li Ling reluctantly tries to persuade Su Wu to surrender by invoking isolation, invisible loyalty, family disaster, and Wudi-era political danger. Su Wu's refusal moves him to acknowledge Su's righteousness and his own guilt. When return later becomes possible, Li Ling says family destruction has made renewed submission another humiliation; his non-return is therefore shaped by grievance, shame, and irreversible political incorporation as well as his original surrender.
@@ -39,7 +42,7 @@ The immediate court and moral transition appears in [[zizhi-tongjian-hanji-378-1
 - Isolated commander whose lack of support begins with a court misreading of Lu Bode's memorial and whose tactical system later collapses through cumulative depletion, insider disclosure, and failed breakout.
 - Victim of an episode-attributed misidentification that turns attempted retrieval into the execution of his family.
 - Retaliator who has Li Xu killed before becoming a Xiongnu elite insider through the chanyu's protection, marital tie, rank, and military authority.
-- Surrendered survivor whose later moral profile joins public condemnation, source-scoped guilt and humiliation, recognition of Su Wu's loyalty, and a return he judges foreclosed.
+- Surrendered survivor whose later moral profile joins public condemnation, Sima Qian's evidence-based defense, Wudi's partial reassessment, source-scoped guilt and humiliation, recognition of Su Wu's loyalty, and a return he judges foreclosed.
 
 ## Evidence
 
@@ -50,6 +53,7 @@ The immediate court and moral transition appears in [[zizhi-tongjian-hanji-378-1
 - Collapse mechanism: [[zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri|Hanji 377-2]] says Guan Gan reveals the lack of reinforcement and arrows, after which the Xiongnu cut the route and the Han force loses ammunition, carts, weapons, and escape capacity; Han Yannian dies in the breakout.
 - Immediate surrender and court reaction: [[zizhi-tongjian-hanji-378-1-quru-de-huozhe-you-duo-nan-kankan-baijiang-liling-lkpxe5exfrq0erj6kcdmbmhxkpvq|Hanji 378-1]] says confirmation of Li Ling's surrender overturns Wudi's expectation of battlefield death and leads to the angry questioning of Chen Bule.
 - Burdened-survival interpretation: [[zizhi-tongjian-hanji-378-1-quru-de-huozhe-you-duo-nan-kankan-baijiang-liling-lkpxe5exfrq0erj6kcdmbmhxkpvq|Hanji 378-1]] uses a war-film analogy to argue that survival can preserve guilt and duty, while leaving Li Ling's actual inner motive unresolved.
+- Court defense and partial reassessment: [[zizhi-tongjian-hanji-378-2-jiemi-simaqian-shou-gongxing-de-zhenzheng-yuanyin-luqzp9-vrn85wxkdn864yx5fnmfv|Hanji 378-2]] says Sima Qian defends Li Ling from character and battlefield evidence, while Wudi later blames failed support in part, rewards survivors, and orders a retrieval attempt.
 - Mistaken blame and family destruction: [[zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0|Hanji 380-2]] says Wudi sends Gongsun Ao to retrieve Li Ling, then kills Li Ling's family after hearing that he trains Xiongnu forces; the episode later identifies Li Xu as the trainer.
 - Revenge and Xiongnu incorporation: [[zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0|Hanji 380-2]] says Li Ling has Li Xu killed and is protected, married into the chanyu's family, and given rank and military power.
 - Persuasion and moral recognition: [[zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy|Hanji 398]] says Li Ling invokes Su Wu's isolation and family losses but calls him righteous after he refuses to surrender.
@@ -57,12 +61,13 @@ The immediate court and moral transition appears in [[zizhi-tongjian-hanji-378-1
 
 ## Qualifications
 
-These six podcast sources do not settle Li Ling's complete campaign, surrender intent, exact battle geography, troop and casualty totals, fifty-wan-arrow figure, the captive-intelligence chain, legal procedure for killing his family, exact Xiongnu title, inner motives, poetry attributed to him, or the broader historiographical debate. Hanji 377-1 dates the deployment to 99 BCE, while Hanji 380-1 associates its wider campaign frame with 97 BCE; the sources may be compressing different stages and are not silently harmonized here. Hanji 377-2's supplied summary writes “管感” and “俊吉山,” normalized here to [[GuanGanWesternHan|管敢]] while preserving the geographic wording as episode-attributed; Hanji 380-2's supplied summary writes “李旭,” normalized to the received-history [[LiXuWesternHan|李绪 / Li Xu]] identity. Hanji 378-1's analogy between Li Ling and a war-film survivor is interpretive evidence about the host's judgment, not direct psychological evidence. The page preserves the episodes' tragic synthesis without treating every dialogue, number, motive, or court detail as independently verified.
+These seven podcast sources do not settle Li Ling's complete campaign, surrender intent, exact battle geography, troop and casualty totals, fifty-wan-arrow figure, the captive-intelligence chain, legal procedure for killing his family, exact Xiongnu title, inner motives, poetry attributed to him, or the broader historiographical debate. Hanji 377-1 dates the deployment to 99 BCE, while Hanji 380-1 associates its wider campaign frame with 97 BCE; the sources may be compressing different stages and are not silently harmonized here. Hanji 377-2's supplied summary writes “管感” and “俊吉山,” normalized here to [[GuanGanWesternHan|管敢]] while preserving the geographic wording as episode-attributed; Hanji 380-2's supplied summary writes “李旭,” normalized to the received-history [[LiXuWesternHan|李绪 / Li Xu]] identity. Hanji 378-1's analogy between Li Ling and a war-film survivor is interpretive evidence about the host's judgment, while Hanji 378-2's account of Wudi's later regret and Sima Qian's theory of intended repayment still does not prove Li Ling's private motive. The page preserves the episodes' tragic synthesis without treating every dialogue, number, motive, or court detail as independently verified.
 
 ## What Changed
 
 - Added the immediate transition from battlefield collapse to confirmed surrender and imperial condemnation.
 - Qualified “survival as guilt and mission” as the host's interpretive lens rather than a proven account of Li Ling's intent.
+- Added the court conflict between Sima Qian's defense and Wudi's initial judgment, followed by Wudi's partial reassessment of the failed support arrangement.
 
 ## Relationships
 

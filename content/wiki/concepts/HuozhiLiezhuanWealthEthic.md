@@ -4,7 +4,8 @@ type: concept
 tags: [sima-qian, shiji, commerce, wealth, ethics]
 sources:
   - zizhi-tongjian-hanji-410-2-rilibaqianwan-gudai-shangren-zhuanqian-you-duoganxiang-lskrjfgimcqzdztlo42pnp6vgh5
-last_updated: 2026-09-13
+  - zizhi-tongjian-hanji-378-2-jiemi-simaqian-shou-gongxing-de-zhenzheng-yuanyin-luqzp9-vrn85wxkdn864yx5fnmfv
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Hanji 410-2 presents Huozhi Liezhuan as more than a list of rich people. The hos
 
 The source's Sima Qian is not anti-ethics. The ethical center shifts from rejecting profit to judging the way profit is obtained and used. That puts the concept near [[RighteousnessOverProfit|义利之辨]] but not identical to it: this source stresses “profit through the right method” and wealth creation, while Mencian profit discourse starts from the danger of rulers leading with private gain.
 
+Hanji 378-2 adds a biographical interpretation rather than a new economic doctrine. Because Sima Qian reportedly could not fund commutation and found no one willing to help under imperial anger, the host reads his Huozhi attention to money as grounded in personal vulnerability. That experience may make the text's material realism more legible, but the episode does not demonstrate that punishment caused the chapter's ideas.
+
 ## Key Claims
 
 - Human desire for wealth is treated as natural rather than shameful.
@@ -25,20 +28,23 @@ The source's Sima Qian is not anti-ethics. The ethical center shifts from reject
 - Merchant biographies matter because they record social contribution, not only private accumulation.
 - Empty moral talk without production or livelihood competence is criticized by the episode's Sima Qian reading.
 - The ethic depends on [[LegitimateProfitBoundary|legitimate-profit boundaries]] rather than unlimited greed.
+- The host reads material vulnerability in Sima Qian's punishment as biographical context for his realism about money, not as proven compositional causation.
 
 ## Evidence
 
 - Human desire and earning: [[zizhi-tongjian-hanji-410-2-rilibaqianwan-gudai-shangren-zhuanqian-you-duoganxiang-lskrjfgimcqzdztlo42pnp6vgh5|Hanji 410-2]] paraphrases Huozhi Liezhuan as recognizing wealth pursuit as a natural human desire.
 - Critique of empty moralism: [[zizhi-tongjian-hanji-410-2-rilibaqianwan-gudai-shangren-zhuanqian-you-duoganxiang-lskrjfgimcqzdztlo42pnp6vgh5|Hanji 410-2]] says the host reads Sima Qian as criticizing people who remain poor and idle while only speaking of仁义.
 - Merchant social contribution: [[zizhi-tongjian-hanji-410-2-rilibaqianwan-gudai-shangren-zhuanqian-you-duoganxiang-lskrjfgimcqzdztlo42pnp6vgh5|Hanji 410-2]] emphasizes that rich merchants could prosper the economy, create work, and support households around them.
+- Biographical material vulnerability: [[zizhi-tongjian-hanji-378-2-jiemi-simaqian-shou-gongxing-de-zhenzheng-yuanyin-luqzp9-vrn85wxkdn864yx5fnmfv|Hanji 378-2]] connects Sima Qian's inability to fund commutation with the host's reading of his sensitivity to money's practical importance.
 
 ## Counterevidence & Qualifications
 
-The page records this episode's interpretation of Huozhi Liezhuan, not a complete scholarly consensus about [[Shiji|Shiji]]. It should not be used to erase anti-merchant law, exploitation, monopoly, hoarding, or [[HeavyAgricultureLightCommercePolicy|heavy-agriculture, light-commerce]] strands elsewhere in the wiki.
+The page records two podcast interpretations of Huozhi Liezhuan, not a complete scholarly consensus about [[Shiji|Shiji]]. Hanji 378-2's ten-jin fine, gold conversion, salary estimate, absence of lenders, and punishment-to-wealth-writing link require independent verification. The synthesis should not erase anti-merchant law, exploitation, monopoly, hoarding, or [[HeavyAgricultureLightCommercePolicy|heavy-agriculture, light-commerce]] strands elsewhere in the wiki.
 
 ## What Changed
 
 - Created the concept from Hanji 410-2's reading of Sima Qian's wealth and merchant ethics.
+- Added material vulnerability as a qualified biographical context without treating it as the demonstrated origin of Huozhi Liezhuan.
 
 ## Related Concepts
 

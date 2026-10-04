@@ -104412,9 +104412,9 @@
       "url": "/wiki/entities/huoxulatehan/"
     },
     "HuozhiLiezhuanWealthEthic": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》410-2｜日利八千万！古代商人赚钱有多敢想？ [lskrJFgi_McqzdZTLO42PNp6vgH5].md",
@@ -104422,9 +104422,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》410-2｜日利八千万！古代商人赚钱有多敢想？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-410-2-rilibaqianwan-gudai-shangren-zhuanqian-you-duoganxiang-lskrjfgimcqzdztlo42pnp6vgh5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》378-2｜揭秘司马迁受宫刑的真正原因 [luQzP9-vRn85wXkdn864YX5fnMfv].md",
+          "key": "zizhi-tongjian-hanji-378-2-jiemi-simaqian-shou-gongxing-de-zhenzheng-yuanyin-luqzp9-vrn85wxkdn864yx5fnmfv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》378-2｜揭秘司马迁受宫刑的真正原因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-378-2-jiemi-simaqian-shou-gongxing-de-zhenzheng-yuanyin-luqzp9-vrn85wxkdn864yx5fnmfv/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/huozhiliezhuanwealthethic/"
     },
     "HurtHarmPainReframing": {
@@ -125646,9 +125653,9 @@
       "url": "/wiki/entities/likashing/"
     },
     "LiLingWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗 [lrvKyakUzpNv77uoq4wkRt7VcUZY].md",
@@ -125691,6 +125698,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》378-1｜屈辱地活着有多难？看看败将李陵！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-378-1-quru-de-huozhe-you-duo-nan-kankan-baijiang-liling-lkpxe5exfrq0erj6kcdmbmhxkpvq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》378-2｜揭秘司马迁受宫刑的真正原因 [luQzP9-vRn85wXkdn864YX5fnMfv].md",
+          "key": "zizhi-tongjian-hanji-378-2-jiemi-simaqian-shou-gongxing-de-zhenzheng-yuanyin-luqzp9-vrn85wxkdn864yx5fnmfv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》378-2｜揭秘司马迁受宫刑的真正原因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-378-2-jiemi-simaqian-shou-gongxing-de-zhenzheng-yuanyin-luqzp9-vrn85wxkdn864yx5fnmfv/"
         }
       ],
       "updated": "2026-10-04",
@@ -194177,9 +194191,9 @@
       "url": "/wiki/entities/simajunlatehan/"
     },
     "SimaQian": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 2,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（2） [npGifE56ltAywW2Wt4wo-FiWo_EP].md",
@@ -194327,6 +194341,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》380-3｜古代男子宫刑过程揭秘",
           "url": "/wiki/sources/zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》378-2｜揭秘司马迁受宫刑的真正原因 [luQzP9-vRn85wXkdn864YX5fnMfv].md",
+          "key": "zizhi-tongjian-hanji-378-2-jiemi-simaqian-shou-gongxing-de-zhenzheng-yuanyin-luqzp9-vrn85wxkdn864yx5fnmfv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》378-2｜揭秘司马迁受宫刑的真正原因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-378-2-jiemi-simaqian-shou-gongxing-de-zhenzheng-yuanyin-luqzp9-vrn85wxkdn864yx5fnmfv/"
         }
       ],
       "updated": "2026-10-04",
