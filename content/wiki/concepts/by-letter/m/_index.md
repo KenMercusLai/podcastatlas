@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9623
+wiki_total_pages: 9625
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1529,6 +1529,9 @@ wiki_pages:
   - key: "MultimodalIntelligence"
     title: "Multimodal Intelligence"
     url: "/wiki/concepts/multimodalintelligence/"
+  - key: "MultimodalObesityTreatment"
+    title: "Multimodal Obesity Treatment"
+    url: "/wiki/concepts/multimodalobesitytreatment/"
   - key: "MultimodalPersonalMemory"
     title: "Multimodal Personal Memory"
     url: "/wiki/concepts/multimodalpersonalmemory/"

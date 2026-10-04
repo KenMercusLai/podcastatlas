@@ -38389,6 +38389,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/chrisstringer/"
     },
+    "ChrisThompson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7025523715 [SCIM7025523715].md",
+          "key": "best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715",
+          "show": "Huberman Lab",
+          "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
+          "url": "/wiki/sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/christhompson/"
+    },
     "ChrisVoss": {
       "episode_count": 1,
       "show_count": 1,
@@ -81617,9 +81633,9 @@
       "url": "/wiki/entities/glm53flash/"
     },
     "GLP1Agonists": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 8,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
@@ -81725,9 +81741,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight",
           "url": "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
+        },
+        {
+          "episode_file": "SCIM7025523715 [SCIM7025523715].md",
+          "key": "best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715",
+          "show": "Huberman Lab",
+          "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
+          "url": "/wiki/sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/glp1agonists/"
     },
     "GLP1BodyCompositionStack": {
@@ -83001,9 +83024,9 @@
       "url": "/wiki/entities/gascony/"
     },
     "GastrointestinalEndoscopyScreening": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgvJd8plhexcBQjhck_u0kAEm_z5 [lgvJd8plhexcBQjhck_u0kAEm_z5].md",
@@ -83011,9 +83034,16 @@
           "show": "这病说来话长",
           "title": "VOL.52消化内镜科｜你胃肠功能怎么样？你经历过胃肠镜检查吗？踩过这些误区吗？",
           "url": "/wiki/sources/vol-52-xiaohuaneijingke-ni-weichang-gongneng-zenmeyang-ni-jingli-guo-weichangjing-jiancha-ma-cai-guo-zhexie-wuqu-ma-lgvjd8plhexcbqjhck_u0kaem_z5/"
+        },
+        {
+          "episode_file": "SCIM7025523715 [SCIM7025523715].md",
+          "key": "best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715",
+          "show": "Huberman Lab",
+          "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
+          "url": "/wiki/sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/gastrointestinalendoscopyscreening/"
     },
     "GastrointestinalForeignBodyEscalation": {
@@ -108843,6 +108873,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/interventionstestingprogram/"
+    },
+    "IntestinalBarrierIntegrity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7025523715 [SCIM7025523715].md",
+          "key": "best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715",
+          "show": "Huberman Lab",
+          "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
+          "url": "/wiki/sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/intestinalbarrierintegrity/"
     },
     "IntimateAccessInformalPower": {
       "episode_count": 1,
@@ -142026,9 +142072,9 @@
       "url": "/wiki/concepts/metabolicflexibility/"
     },
     "MetabolicHealthBiomarkerContext": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3664199211 [SCIM3664199211].md",
@@ -142036,9 +142082,16 @@
           "show": "Huberman Lab",
           "title": "Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means",
           "url": "/wiki/sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211/"
+        },
+        {
+          "episode_file": "SCIM7025523715 [SCIM7025523715].md",
+          "key": "best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715",
+          "show": "Huberman Lab",
+          "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
+          "url": "/wiki/sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/metabolichealthbiomarkercontext/"
     },
     "MetabolicMentalHealthBiomarkers": {
@@ -143014,9 +143067,9 @@
       "url": "/wiki/concepts/microrestlearningreplay/"
     },
     "MicrobiomeEcologicalResilience": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9214130216 [SCIM9214130216].md",
@@ -143031,9 +143084,16 @@
           "show": "Huberman Lab",
           "title": "How to Enhance Your Gut Microbiome for Brain & Overall Health",
           "url": "/wiki/sources/how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394/"
+        },
+        {
+          "episode_file": "SCIM7025523715 [SCIM7025523715].md",
+          "key": "best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715",
+          "show": "Huberman Lab",
+          "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
+          "url": "/wiki/sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/microbiomeecologicalresilience/"
     },
     "MicronTechnology": {
@@ -147466,6 +147526,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/multimodalfunctioncenteredpaincare/"
+    },
+    "MultimodalObesityTreatment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7025523715 [SCIM7025523715].md",
+          "key": "best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715",
+          "show": "Huberman Lab",
+          "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
+          "url": "/wiki/sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/multimodalobesitytreatment/"
     },
     "MultiscaleProductivityPlanning": {
       "episode_count": 1,

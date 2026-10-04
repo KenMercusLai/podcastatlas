@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9623
+wiki_total_pages: 9625
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "InterviewAsEmbodiedReporting"
     title: "Interview As Embodied Reporting / 采访作为具身报道"
     url: "/wiki/concepts/interviewasembodiedreporting/"
+  - key: "IntestinalBarrierIntegrity"
+    title: "Intestinal Barrier Integrity"
+    url: "/wiki/concepts/intestinalbarrierintegrity/"
   - key: "IntimacyBeyondGenderScript"
     title: "Intimacy Beyond Gender Script / 超越性别脚本的亲密"
     url: "/wiki/concepts/intimacybeyondgenderscript/"

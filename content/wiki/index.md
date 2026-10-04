@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson](sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715.md) — Huberman Lab interview on gastrointestinal physiology, fiber and microbial metabolites, intestinal barrier integrity, screening, GLP-1 tradeoffs, metabolic monitoring, and multimodal obesity treatment.
 - [How attitudes toward AI differ across generations](sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128.md) — Marketplace Tech with Rana el Kaliouby on family AI disagreement, writing as thought, Arabic archive access, dialogic literacy, bias, and human-connection boundaries.
 - [Centre punch: Germany’s state-election shocker](sources/centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9.md) — The Intelligence on German centrist fragmentation, the Dangote refinery listing and African retail-market access, and the evidence boundary between blue-light biology and sleep claims.
 - [EP88 史上最强播客/读书笔记？](sources/ep88-shishang-zuiqiang-boke-dushu-biji-gkwrimaohukbbougrata9-vx.md) — 纵横四海 episode on the See–Grow–Action growth-note loop, strict insight filtering, living knowledge networks, and behavior change as the acceptance test for learning.
@@ -3723,6 +3724,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
 
 ## Entities
+- [Chris Thompson](entities/ChrisThompson.md) — Gastroenterologist and interventional-endoscopy guest connecting digestive physiology, microbiome support, metabolic risk, and mechanism-matched obesity treatment.
 - [Rana el Kaliouby](entities/RanaElKaliouby.md) — AI scientist and investor advocating task-specific judgment, critical experimentation, and human-connection boundaries.
 - [Tarath](entities/Tarath.md) — AI archival project using historical context to improve access to difficult Arabic documents.
 - [Naveen Rao](entities/NaveenRao.md) — AI-hardware entrepreneur connecting neuroscience, chips, infrastructure, and physical dynamical computing.
@@ -16053,6 +16055,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dangote Petroleum Refinery](entities/DangotePetroleumRefinery.md) — Nigerian refinery whose proposed $50bn local listing is a test of scale, ownership access, and market depth.
 
 ## Concepts
+- [Intestinal Barrier Integrity](concepts/IntestinalBarrierIntegrity.md) — Layered mucus, epithelial, tight-junction, immune, microbial, and metabolite control of movement across the gut lining.
+- [Multimodal Obesity Treatment](concepts/MultimodalObesityTreatment.md) — Mechanism-matched combination of nutrition, exercise, behavior, medication, endoscopy, or surgery with maintenance and lean-mass safeguards.
 - [Dialogic AI Literacy](concepts/DialogicAILiteracy.md) — Family and school practice combining experimentation, disagreement, ethics, failure analysis, and informed agency.
 - [AI-Enabled Archive Access](concepts/AIEnabledArchiveAccess.md) — Contextual, multimodal AI for searching, transcribing, and translating difficult historical records under explicit quality and governance limits.
 - [See–Grow–Action Learning Loop / 破—立—行成长笔记](concepts/SeeGrowActionLearningLoop.md) — Lightweight loop that selects consequential insights, grows them through connection, and tests them through changed behavior and feedback.
