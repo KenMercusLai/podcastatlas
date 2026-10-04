@@ -28923,6 +28923,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-04] ingest | 《资治通鉴·汉纪》379-1｜汉武帝执法严苛，为何反而使盗贼越来越多
+
+Added source `zizhi-tongjian-hanji-379-1-hanwudi-zhifa-yanke-weihe-faner-shi-daozei-yuelaiyueduo-lpseslnnocr4ex2yudx1bvcy5r0f`; updated `CriminalLawAfterLivelihoodCollapse`, `AdministrativeInformationConformity`, `TerrorRuleBackfire`, and `XiuyiEnvoyImperialSurveillance`, plus overview and index. Core synthesis: repeated war mobilization and poverty produce banditry that mass suppression does not resolve, while fatal all-or-nothing liability weakens offenders' incentive to retreat and induces local officials to conceal incidents they cannot completely solve. No settled contradiction found; the “审命法” name and gloss, statutory scope, casualty totals, exact geography, official titles, and concealment scale remain source-scoped pending primary-source verification.
+
 ## [2026-10-04] ingest | 31. The Second Reich
 
 Added source `31-the-second-reich-glt1008050219`; created [[Prussia]] and [[GermanUnification]]; and resynthesized [[Germany]], [[GermanEmpire]], [[OttoVonBismarck]], [[KatjaHoyer]], [[KaiserWilhelmII]], and [[NationalismStatePower]] from their complete preserved evidence inventories. Core synthesis: German nationhood was culturally, socially, and economically imagined before 1871, while Prussian capacity and Bismarck's contingent use of parliament, war, and diplomacy fixed its timing and institutional form. No settled contradiction was adopted. The empire's military foundation remains consequential without establishing an inevitable road to Nazism, and Wilhelm II's formal responsibility remains compatible with the wider July Crisis machinery. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,604-source coverage; no topic claim set was dirty and global compaction was not due.
@@ -29557,6 +29561,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] ingest | 657. The Ku Klux Klan: American Fascists (Part 4)
 
 Added source `657-the-ku-klux-klan-american-fascists-part-4-glt4147819855`; created [[KuKluxKlan]], [[HiramWesleyEvans]], [[DCStephenson]], [[MadgeOberholtzer]], [[WomenOfTheKuKluxKlan]], [[ExtremistSocialNormalization]], and [[ExtremistElectoralMachine]]; and resynthesized [[FascismHistoricalSpecificity]] from its complete preserved evidence inventory. Core synthesis: the second Klan normalized exclusion through family entertainment, churches, women's organizing, newspapers, ritual, and spectacle, converted mass membership into an Indiana electoral machine, and then lost moral and political legitimacy through violence, corruption, backlash, and the Oberholtzer-Stephenson scandal. No settled contradiction was adopted. The Klan's fascist family resemblances are preserved without collapsing it into the European revolutionary party-state model; crowd, membership, officeholder, violence, and decline claims remain source-scoped; and the source's “David C. Stevenson” is normalized to D. C. Stephenson. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. Governance and institutions, history and geopolitics, and work, education and society were refreshed from their complete bounded inputs; global compaction ran; the manifest and paragraph ledger now cover 3,694 sources and 787 overview paragraphs; and changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-04] lint | Wiki health check
 

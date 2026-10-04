@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73
   - zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto
   - zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf
-last_updated: 2026-09-15
+  - zizhi-tongjian-hanji-379-1-hanwudi-zhifa-yanke-weihe-faner-shi-daozei-yuelaiyueduo-lpseslnnocr4ex2yudx1bvcy5r0f
+last_updated: 2026-10-04
 ---
 
 ## Definition
@@ -16,7 +17,7 @@ last_updated: 2026-09-15
 
 ## Current Synthesis
 
-The local-order layer makes the mechanism more than elite surveillance. [[BaoShengzhiWesternHan|鲍圣之]] holds direct envoy authority to suppress bandits, inspect commanderies and kingdoms, and execute disobedient officials below two-thousand-stone rank without prior approval. [[WangHeWesternHan|王贺]] shows the opposite outcome inside the same coercive field: peaceful settlement can save lives but still be punished when it does not satisfy Wudi's expectation of威 by killing.
+The local-order layer makes the mechanism more than elite surveillance. Hanji 379-1 supplies the crisis context: eastern bandit groups survive mass suppression, while an all-or-nothing liability rule makes local officials conceal disorder they cannot completely eliminate. [[BaoShengzhiWesternHan|鲍圣之]] then holds direct envoy authority to suppress bandits, inspect commanderies and kingdoms, and execute disobedient officials below two-thousand-stone rank without prior approval. [[WangHeWesternHan|王贺]] shows the opposite outcome inside the same coercive field: peaceful settlement can save lives but still be punished when it does not satisfy Wudi's expectation of威 by killing.
 
 [[zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto|Hanji 382-1]] presents绣衣 authority through Jiang Chong's rise. After Jiang accuses [[LiuDanZhaoPrinceWesternHan|赵太子刘丹]] and wins Wudi's favor, he is made a Zhizhi Xiuyi envoy and later assigned to inspect royal kin, close ministers, and powerful households for excessive ritual display and illegality. The source shows the mechanism's useful and dangerous faces together: direct reporting can discipline elite overreach, but it also rewards denunciation and lets a favored inspector build personal enemies.
 
@@ -28,7 +29,7 @@ The same source links the mechanism to the [[WuguIncidentWesternHan|巫蛊之祸
 
 - 绣衣使者 are presented as emperor-direct special investigators rather than ordinary local officials.
 - Their power comes from bypassing the regular chain of command and reporting directly to the ruler.
-- Hanji 379-2 shows the public-order version: special envoys can suppress banditry, inspect local governments, and punish disobedient officials with exceptional speed.
+- Hanji 379-1 and 379-2 show the public-order version: bandit crisis and reporting failure lead into special envoys who inspect local governments and punish disobedient officials with exceptional speed.
 - The same coercive mandate can punish successful leniency when the ruler expects killing as the sign of obedience.
 - Hanji 382-1 shows the office applied to elite and royal oversight, especially through Jiang Chong's strict reporting against powerful households.
 - Their reputation is strong enough that impostors can try to weaponize local fear of them.
@@ -37,6 +38,7 @@ The same source links the mechanism to the [[WuguIncidentWesternHan|巫蛊之祸
 ## Evidence
 
 - Local-order coercion: [[zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf|Hanji 379-2]] says Bao Shengzhi can execute disobedient officials below two-thousand-stone rank without prior imperial request while suppressing bandits and inspecting local government.
+- Crisis and information failure: [[zizhi-tongjian-hanji-379-1-hanwudi-zhifa-yanke-weihe-faner-shi-daozei-yuelaiyueduo-lpseslnnocr4ex2yudx1bvcy5r0f|Hanji 379-1]] says eastern bandit groups survive large-scale suppression and that fatal liability for incomplete capture induces local concealment.
 - Leniency punished: [[zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf|Hanji 379-2]] says Wang He peacefully resolves Wei Commandery disorder but is arrested and dismissed because Wudi expected killing to establish威.
 - Elite oversight: [[zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto|Hanji 382-1]] says Jiang Chong becomes a Zhizhi Xiuyi envoy and later inspects powerful royal and ministerial households for violations.
 - Denunciation incentive: [[zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto|Hanji 382-1]] says Wudi praises Jiang Chong's strict reporting, while the host frames him as making many elite enemies.
@@ -47,12 +49,13 @@ The same source links the mechanism to the [[WuguIncidentWesternHan|巫蛊之祸
 
 ## Counterevidence & Qualifications
 
-This concept is bounded to Hanji 388-2, Hanji 382-1, and Hanji 379-2. It does not reconstruct the full institutional history of绣衣使者, distinguish every title variant, or settle the exact legal boundary between inspector, censor, envoy, and later secret-police analogies. Hanji 379-2 uses direct-envoy, zhizhi, and xiuyi language in a compact popular-history frame; the wiki records its power profile without treating every title variant as settled. The comparison to later锦衣卫 is recorded as an explanatory analogy, not as institutional identity.
+This concept is bounded to Hanji 388-2, Hanji 382-1, Hanji 379-2, and Hanji 379-1. It does not reconstruct the full institutional history of绣衣使者, distinguish every title variant, or settle the exact legal boundary between inspector, censor, envoy, and later secret-police analogies. Hanji 379-1/379-2 use compact popular-history terminology for the liability law and direct-envoy system; the wiki records their power and incentive profile without treating the law's characters, every title variant, or the comparison to later锦衣卫 as settled institutional identity.
 
 ## What Changed
 
 - Added Hanji 379-2's Bao Shengzhi and Wang He layer, expanding the concept from elite/Wugu surveillance into local public-order enforcement and the danger of punitive mandate expectations.
 - Added Hanji 382-1's Jiang Chong origin layer, showing the mechanism in elite oversight before the later Wugu and imposture branches.
+- Added Hanji 379-1's crisis prequel, where mass suppression and impossible capture liability degrade local reporting before special-envoy authority is expanded.
 
 ## Related Concepts
 
@@ -63,3 +66,4 @@ This concept is bounded to Hanji 388-2, Hanji 382-1, and Hanji 379-2. It does no
 - [[JiangChongWesternHan]] - famous绣衣 figure attached to the episode's Wugu branch.
 - [[LiuDanZhaoPrinceWesternHan]] - royal scandal case through which Jiang Chong first reaches Wudi's favor.
 - [[ImperialAchievementCostAccounting]] - adjacent evaluative frame for counting the human cost of coercive imperial tools.
+- [[AdministrativeInformationConformity|行政信息圆美化]] - feedback failure produced when punishment makes local concealment safer than accurate reporting.

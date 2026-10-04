@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin
   - zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l
   - zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di
-last_updated: 2026-09-20
+  - zizhi-tongjian-hanji-379-1-hanwudi-zhifa-yanke-weihe-faner-shi-daozei-yuelaiyueduo-lpseslnnocr4ex2yudx1bvcy5r0f
+last_updated: 2026-10-04
 ---
 
 ## Definition
@@ -22,7 +23,7 @@ In [[zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi
 
 The Xiongnu half gives the same mechanism at a larger political scale. Woyanqudi Chanyu kills freely and alienates his own side; when [[HuhanyeChanyuWesternHan|呼韩邪单于]] advances, Woyanqudi's army scatters and his brother refuses aid by pointing directly to the earlier killings. Terror has produced apparent command, but when crisis arrives it leaves no reserve of trust.
 
-The adversarial siege form appears at [[HuguanLateHan|壶关]]. [[CaoCao|曹操]]'s promise to kill everyone after taking the city does not frighten it into submission; it removes the value of surrender and makes continued resistance rational. [[CaoRen|曹仁]] restores a credible survival path by persuading Cao Cao to withdraw the order, after which the city capitulates. This sequence is grounded in [[zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di|Hanji 1073]].
+The no-exit form appears in both public-order enforcement and siege. [[zizhi-tongjian-hanji-379-1-hanwudi-zhifa-yanke-weihe-faner-shi-daozei-yuelaiyueduo-lpseslnnocr4ex2yudx1bvcy5r0f|Hanji 379-1]] argues that death-level punishment for already implicated bandits can make continued resistance rational, while collective death liability makes officials conceal incidents they cannot completely solve. At [[HuguanLateHan|壶关]], [[CaoCao|曹操]]'s promise to kill everyone after taking the city likewise removes the value of surrender. [[CaoRen|曹仁]] restores a credible survival path by persuading Cao Cao to withdraw the order, after which the city capitulates. This later sequence is grounded in [[zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di|Hanji 1073]].
 
 The concept therefore sits between moral critique and institutional diagnosis. It does not claim that all severity fails instantly. It says fear-based power has a hidden balance sheet: within a hierarchy it stores accusation, abandonment, and legitimacy collapse; against an enemy it can eliminate surrender and intensify resistance.
 
@@ -34,7 +35,7 @@ The concept therefore sits between moral critique and institutional diagnosis. I
 - Self-protective accusation can become more extreme when ordinary reporting channels seem unsafe.
 - Violence can make a ruler or official look decisive while making followers unwilling to defend him.
 - Moral language such as "自作孽不可活" tracks an institutional mechanism: accumulated fear becomes political exposure.
-- Terror can backfire immediately when it makes surrender no safer than continued resistance.
+- Terror can backfire immediately when it makes surrender, restraint, or truthful reporting no safer than continued resistance or concealment.
 
 ## Evidence
 
@@ -54,14 +55,19 @@ Huguan siege case:
 - [[zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di|Hanji 1073]] says Cao Cao's “城拔皆坑之” threat produces desperate resistance and months of failed siege pressure.
 - [[zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di|Hanji 1073]] says the city surrenders after Cao Ren persuades Cao Cao to withdraw the threat.
 
+Bandit-suppression case:
+- [[zizhi-tongjian-hanji-379-1-hanwudi-zhifa-yanke-weihe-faner-shi-daozei-yuelaiyueduo-lpseslnnocr4ex2yudx1bvcy5r0f|Hanji 379-1]] says severe punishment gives already implicated offenders less reason to stop resisting.
+- [[zizhi-tongjian-hanji-379-1-hanwudi-zhifa-yanke-weihe-faner-shi-daozei-yuelaiyueduo-lpseslnnocr4ex2yudx1bvcy5r0f|Hanji 379-1]] says death liability for incomplete suppression makes local officials hide bandit activity, so fear damages the information system needed for enforcement.
+
 ## Counterevidence & Qualifications
 
-This concept currently rests on three podcast source notes and should not be generalized into a universal law that every harsh official, ruler, or army immediately fails. Hanji 447 keeps a qualification visible: Yan sometimes directs punishment at powerful people who injure the weak, so the issue is not enforcement as such. Huguan also does not prove that leniency alone wins sieges; it supports the narrower incentive claim that a credible survival route can make capitulation possible where promised extermination cannot.
+This concept currently rests on four podcast source notes and should not be generalized into a universal law that every harsh official, ruler, or army immediately fails. Hanji 447 keeps a qualification visible: Yan sometimes directs punishment at powerful people who injure the weak, so the issue is not enforcement as such. Huguan does not prove that leniency alone wins sieges, and Hanji 379-1 does not independently establish the exact legal text or the scale of concealment. Together they support the narrower incentive claim that credible exit and truthful reporting paths matter where absolute threats otherwise reward resistance or silence.
 
 ## What Changed
 
 - Added Huguan's adversarial form: terror can remove surrender incentives and harden resistance immediately.
 - Distinguished slow internal trust erosion from immediate battlefield incentive reversal.
+- Added Hanji 379-1's administrative form: fatal all-or-nothing liability can harden offenders and induce official concealment at the same time.
 
 ## Related Concepts
 
@@ -72,3 +78,5 @@ This concept currently rests on three podcast source notes and should not be gen
 - [[XiongnuSuccessionFragmentation|匈奴式继承碎裂]] - related because Woyanqudi's terror helps turn succession control into factional breakaway.
 - [[YanYannianWesternHan|严延年]] - source case for terror backfire inside Western Han officialdom.
 - [[HuguanLateHan|壶关]] - siege case where withdrawal of an extermination threat restores capitulation.
+- [[AdministrativeInformationConformity|行政信息圆美化]] - information branch where fear of punishment replaces candid reporting with concealment.
+- [[CriminalLawAfterLivelihoodCollapse|民困之后的刑法失灵]] - root-cause branch where punishment intensifies disorder produced by war and poverty.
