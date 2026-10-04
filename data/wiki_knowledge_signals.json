@@ -56592,9 +56592,9 @@
       "url": "/wiki/concepts/diplomaticpersonaasstrategicasset/"
     },
     "DiplomaticRitualDignity": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
@@ -56623,6 +56623,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈 [lv-kS6gB1YcMT3lo_lYqjYwMOiaV].md",
+          "key": "zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav/"
         }
       ],
       "updated": "2026-10-05",
@@ -91405,6 +91412,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/gunpowderplot/"
+    },
+    "GuoChangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈 [lv-kS6gB1YcMT3lo_lYqjYwMOiaV].md",
+          "key": "zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/guochangwesternhan/"
     },
     "GuoGongEasternHanJurist": {
       "episode_count": 1,
@@ -134772,6 +134795,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/lubodewesternhan/"
     },
+    "LuChongguoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈 [lv-kS6gB1YcMT3lo_lYqjYwMOiaV].md",
+          "key": "zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/luchongguowesternhan/"
+    },
     "LuCuiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -174270,9 +174309,9 @@
       "url": "/wiki/concepts/protestmediaspectacle/"
     },
     "ProtocolConcessionCoreDemandBargaining": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！ [lm1L-Z62lcCEWAg-X6KxWgyUsUKH].md",
@@ -174280,6 +174319,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈 [lv-kS6gB1YcMT3lo_lYqjYwMOiaV].md",
+          "key": "zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav/"
         }
       ],
       "updated": "2026-10-05",
@@ -223755,9 +223801,9 @@
       "url": "/wiki/entities/wangwenshuwesternhan/"
     },
     "WangWuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！ [lm1L-Z62lcCEWAg-X6KxWgyUsUKH].md",
@@ -223765,6 +223811,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈 [lv-kS6gB1YcMT3lo_lYqjYwMOiaV].md",
+          "key": "zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav/"
         }
       ],
       "updated": "2026-10-05",
@@ -234993,6 +235046,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/yangxiaodan/"
+    },
+    "YangXinWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈 [lv-kS6gB1YcMT3lo_lYqjYwMOiaV].md",
+          "key": "zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/yangxinwesternhan/"
     },
     "YangXingWesternHan": {
       "episode_count": 2,

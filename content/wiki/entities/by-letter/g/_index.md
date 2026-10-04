@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12367
+wiki_total_pages: 12370
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1556,6 +1556,9 @@ wiki_pages:
   - key: "GuoHaotian"
     title: "郭昊天 / Guo Haotian"
     url: "/wiki/entities/guohaotian/"
+  - key: "GuoChangWesternHan"
+    title: "郭昌 / Guo Chang (Western Han general)"
+    url: "/wiki/entities/guochangwesternhan/"
   - key: "GuoMingzhong"
     title: "郭明忠 / Guo Mingzhong"
     url: "/wiki/entities/guomingzhong/"

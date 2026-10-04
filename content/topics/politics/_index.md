@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3091
+topic_total_pages: 3094
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7844,6 +7844,9 @@ topic_entities:
   - key: "TiaozhiKingdom"
     title: "条支国 / Tiaozhi Kingdom"
     url: "/wiki/entities/tiaozhikingdom/"
+  - key: "YangXinWesternHan"
+    title: "杨信 / Yang Xin (Western Han envoy)"
+    url: "/wiki/entities/yangxinwesternhan/"
   - key: "Hangzhou"
     title: "杭州 / Hangzhou"
     url: "/wiki/entities/hangzhou/"
@@ -8012,6 +8015,9 @@ topic_entities:
   - key: "QizhulouYanBinke"
     title: "起朱楼宴宾客 / Qizhulou Yan Binke"
     url: "/wiki/entities/qizhulouyanbinke/"
+  - key: "LuChongguoWesternHan"
+    title: "路充国 / Lu Chongguo (Western Han envoy)"
+    url: "/wiki/entities/luchongguowesternhan/"
   - key: "LuWenshuWesternHan"
     title: "路温舒 / Lu Wenshu (Western Han)"
     url: "/wiki/entities/luwenshuwesternhan/"
@@ -9042,6 +9048,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh"
     title: "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！"
     url: "/wiki/sources/zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh/"
+  - key: "zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav"
+    title: "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈"
+    url: "/wiki/sources/zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav/"
   - key: "zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt"
     title: "《资治通鉴·汉纪》371-1｜汉朝第一位魔术师来自非洲？"
     url: "/wiki/sources/zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt/"

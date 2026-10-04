@@ -52912,6 +52912,13 @@
       "url": "/topics/history/"
     }
   ],
+  "LuChongguoWesternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LuChuan": [
     {
       "key": "technology",
@@ -90683,6 +90690,13 @@
       "url": "/topics/history/"
     }
   ],
+  "YangXinWesternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "YangXiongQinGeneral": [
     {
       "key": "history",
@@ -102346,6 +102360,18 @@
     }
   ],
   "zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "politics",
       "label": "Politics",

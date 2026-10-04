@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12367
+wiki_total_pages: 12370
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2324,6 +2324,9 @@ wiki_pages:
   - key: "LiuPengzuZhaoKingWesternHan"
     title: "赵敬肃王刘彭祖 / Liu Pengzu, Zhao King (Western Han)"
     url: "/wiki/entities/liupengzuzhaokingwesternhan/"
+  - key: "LuChongguoWesternHan"
+    title: "路充国 / Lu Chongguo (Western Han envoy)"
+    url: "/wiki/entities/luchongguowesternhan/"
   - key: "LuBodeWesternHan"
     title: "路博德 / Lu Bode (Western Han)"
     url: "/wiki/entities/lubodewesternhan/"

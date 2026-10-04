@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈](sources/zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav.md) — 杨信的礼仪拒绝揭开太子入质承诺并未落实，王乌再次获得好话却仍无履约；匈奴贵人病死、路充国被扣和边防调兵使承诺核验失败升级为外交与安全危机。
 - [《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！](sources/zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh.md) — 王乌依匈奴礼俗入见却保留汉朝称臣要求，显示礼仪让步可作为保全面子与争取谈判入口的手段，但单于遣子承诺尚不等于落实和解。
 - [《资治通鉴·汉纪》372-1｜汉宛战争的背后的历史真相](sources/zizhi-tongjian-hanji-372-1-hanwan-zhanzheng-de-beihou-de-lishi-zhenxiang-lqbklk0e0cplyuojpvsrx2u4fnyv.md) — 求马交易经拒绝、汉使失礼、大宛截杀劫财而升级；大宛准确看见远征后勤障碍，却误判这些障碍足以阻止汉朝报复。
 - [《资治通鉴·汉纪》371-1｜汉朝第一位魔术师来自非洲？](sources/zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt.md) — 安息使者、鸵鸟蛋与“黎轩善眩人”展示表演者和奇物如何进入外交交换，汉武帝则以巡游、宴饮、仓储和角抵百戏把国家能力转化为对外可见的政治表演。
@@ -3783,7 +3784,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
-- [王乌 / Wang Wu (Western Han envoy)](entities/WangWuWesternHan.md) — 熟悉匈奴礼俗、以礼仪让步换取入见机会而不放弃汉朝核心要求的西汉使者；来源中的“王巫”据传世姓名归一为王乌。
+- [杨信 / Yang Xin (Western Han envoy)](entities/YangXinWesternHan.md) — 坚持符节与汉使服制、改在帐外谈判并揭开太子入质承诺未成共识的西汉使者。
+- [路充国 / Lu Chongguo (Western Han envoy)](entities/LuChongguoWesternHan.md) — 佩二千石印绶护送匈奴贵人灵柩与厚币、却被单于扣留的西汉使者；讲稿“陆充国”据传世姓名归一为路充国。
+- [郭昌 / Guo Chang (Western Han general)](entities/GuoChangWesternHan.md) — 外交破裂与匈奴复扰边境后受任拔胡将军、与赵破奴屯守朔方以东的西汉将领。
+- [王乌 / Wang Wu (Western Han envoy)](entities/WangWuWesternHan.md) — 熟悉匈奴礼俗并以礼仪让步反复取得入见机会，但太子入质与单于赴长安承诺均未兑现，显示文化通达不等于承诺可信；“王巫”据传世姓名归一为王乌。
 - [郭吉 / Guo Ji (Western Han envoy)](entities/GuoJiWesternHan.md) — 向匈奴传达决战或称臣二选一要求、遭单于扣押，并成为王乌柔化礼仪路径之对照的西汉使者。
 - [毋寡 / Wugua (Dayuan)](entities/WuguaDayuan.md) — 大宛国王，其后勤判断部分准确，但阻止汉朝报复的威慑判断失败，并在围城议和时被贵族杀死。
 - [刘细君 / Princess Liu Xijun](entities/LiuXijunPrincessWesternHan.md) — Western Han princess whose objection to succession-linked remarriage in Wusun is overridden by Han's anti-Xiongnu strategy.
@@ -16201,7 +16205,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
 
 ## Concepts
-- [礼仪让步式核心诉求谈判 / Protocol-Concession Core-Demand Bargaining](concepts/ProtocolConcessionCoreDemandBargaining.md) — 以对对方象征礼仪的有限让步保存谈判入口与面子，同时明确保留实质使命，并把承诺与履约分开判断。
+- [礼仪让步式核心诉求谈判 / Protocol-Concession Core-Demand Bargaining](concepts/ProtocolConcessionCoreDemandBargaining.md) — 以有限礼仪让步争取谈判入口并保留实质使命，但须继续通过互惠成本与可观察步骤核验承诺，避免把好话误作和解。
 - [Han Court Performance Diplomacy / 汉廷表演外交](concepts/HanCourtPerformanceDiplomacy.md) — Foreign performers and rare gifts meet curated tours, stores, banquets, animals, and court spectacle as reciprocal diplomatic communication.
 - [Shangdi in Early Imperial Ritual / 早期帝国礼制中的上帝](concepts/ShangdiInEarlyImperialRitual.md) — bounded frame for reading “上帝” inside early imperial sacrificial and ruler-cult contexts without projecting one modern meaning across periods.
 - [Media Myth to Movement Ritual](concepts/MediaMythToMovementRitual.md) — Process by which dramatized history is adopted as real organizational tradition and repeated political ceremony.
