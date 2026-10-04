@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9653
+wiki_total_pages: 9655
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3050,6 +3050,9 @@ wiki_pages:
   - key: "CrownPrinceTutorPublicInterest"
     title: "太子师傅公器化 / Crown-Prince Tutor Public Interest"
     url: "/wiki/concepts/crownprincetutorpublicinterest/"
+  - key: "CourtIntimacyAsPoliticalResource"
+    title: "宫廷亲密关系作为政治资源 / Court Intimacy as Political Resource"
+    url: "/wiki/concepts/courtintimacyaspoliticalresource/"
   - key: "CourtBackchannelSurvival"
     title: "宫廷后门自救 / Court Backchannel Survival"
     url: "/wiki/concepts/courtbackchannelsurvival/"

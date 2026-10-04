@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2552
+topic_total_pages: 2553
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1780,6 +1780,9 @@ topic_concepts:
   - key: "WomenBlamedForDynasticCollapse"
     title: "女性亡国归咎叙事 / Women Blamed for Dynastic Collapse"
     url: "/wiki/concepts/womenblamedfordynasticcollapse/"
+  - key: "FemaleMarriageAgencyHistoricalVariation"
+    title: "女性婚姻能动性的历史变动 / Female Marriage Agency Across Periods"
+    url: "/wiki/concepts/femalemarriageagencyhistoricalvariation/"
   - key: "OfficeSequencePowerReallocation"
     title: "官职序列重组式权力再分配 / Office Sequence Power Reallocation"
     url: "/wiki/concepts/officesequencepowerreallocation/"

@@ -6,7 +6,8 @@ tags: [history, china, western-han, royal-house, palace-politics]
 sources:
   - zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd
   - zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m
-last_updated: 2026-09-12
+  - zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon
+last_updated: 2026-10-04
 ---
 
 ## Overview
@@ -22,6 +23,8 @@ Wang Mang's direct charge is not only political association but private sexual m
 The aftermath matters as much as the death. Wang Mang tells Wang Zhengjun that Jingwu Princess died from illness and prevents Wang Zhengjun from visiting in person. The episode therefore treats Jingwu Princess as evidence that Wang Mang's purge depended on both accusation expansion and information control around the dowager.
 
 Hanji 539 supplies an earlier Chengdi-era family layer. Jingwu Princess is named as Zhang Fang's mother; after she becomes ill, Chengdi uses the illness to recall Zhang Fang from external office. The same episode says her third husband is Xue Xuan, whose impeachment of Zhang Fang is interpreted as political cutting rather than simple family solidarity.
+
+[[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] retells this household history as an example of elite Han women's multiple marriages and later sexual scandal. Its names and sequence are compressed, but it reinforces the distinction between a politically usable accusation and a verified intimate biography.
 
 ## Key Characteristics
 
@@ -42,14 +45,17 @@ Hanji 539 supplies an earlier Chengdi-era family layer. Jingwu Princess is named
 - Dowager information control: [[zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd|Hanji 617]] says Wang Mang tells Wang Zhengjun that Jingwu Princess died of illness and blocks a personal funeral visit.
 - Zhang Fang tie: [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says Jingwu Princess is Zhang Fang's mother and that her illness gives Chengdi a reason to recall him.
 - Xue Xuan tie: [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says Xue Xuan is Jingwu Princess's third husband and later impeaches Zhang Fang.
+- Marriage-agency comparison: [[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] uses Jingwu Princess's repeated marriages to support its source-scoped claim that elite Han women could remarry.
+- Repeated scandal claim: [[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] repeats the alleged later relationship with Xue Kuang without independently establishing it.
 
 ## Qualifications
 
-This page is bounded to Hanji 617 and Hanji 539. It does not settle Jingwu Princess's full marital history, the truth of the misconduct charge, the precise legal procedure behind the poison order, Xue Kuang's conduct, or Wang Zhengjun's knowledge beyond the source's reported deception. Hanji 539's Zhang Fang and Xue Xuan ties are kept as source-scoped family context, not a full biography.
+This page is bounded to Hanji 617, Hanji 539, and Hanji 616 plus. It does not settle Jingwu Princess's full marital history, the truth of the misconduct charge, the precise legal procedure behind the poison order, Xue Kuang's conduct, or Wang Zhengjun's knowledge beyond the sources' reported deception. Hanji 616 plus compresses personal names and sequence, so its value lies in the remarriage-and-moralization comparison rather than independent biographical confirmation.
 
 ## What Changed
 
 - Added Hanji 539's earlier family layer: Jingwu Princess is Zhang Fang's mother and Xue Xuan's wife in the episode's account.
+- Added Hanji 616 plus's qualified multiple-marriage and repeated-scandal framing.
 
 ## Relationships
 
@@ -63,3 +69,4 @@ This page is bounded to Hanji 617 and Hanji 539. It does not settle Jingwu Princ
 - [[CaseExpansionPoliticalPurge|案件扩大化政治清洗]] - concept grounded partly by Jingwu Princess's remote implication and forced poisoning.
 - [[KinshipPoliticalCutting|亲缘政治切割]] - concept connected to Xue Xuan's handling of Zhang Fang.
 - [[CollateralPunishmentAndGuiltByAssociation|牵连与连坐]] - broader punishment field into which her case falls.
+- [[FemaleMarriageAgencyHistoricalVariation]] - concept that uses her multiple marriages as an elite, source-scoped example.

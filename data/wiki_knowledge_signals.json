@@ -46731,6 +46731,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/courtfactionalsurvival/"
     },
+    "CourtIntimacyAsPoliticalResource": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
+          "key": "zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/courtintimacyaspoliticalresource/"
+    },
     "CourtLegitimacyOverPatronLoyalty": {
       "episode_count": 2,
       "show_count": 1,
@@ -74212,6 +74228,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/femalekingshipbeyondregency/"
+    },
+    "FemaleMarriageAgencyHistoricalVariation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
+          "key": "zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/femalemarriageagencyhistoricalvariation/"
     },
     "FemalePowerCenterPoliticalCapacity": {
       "episode_count": 4,
@@ -115169,9 +115201,9 @@
       "url": "/wiki/entities/jingjuekingdom/"
     },
     "JingwuPrincessWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》617丨王莽毒杀公主历史始末 [lqVZEJFM1Sd8k0AmPorgI_mQHSrd].md",
@@ -115186,9 +115218,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛",
           "url": "/wiki/sources/zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
+          "key": "zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/jingwuprincesswesternhan/"
     },
     "Jingzhou": {
@@ -130537,6 +130576,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liuzimingsportsmedicine/"
+    },
+    "LiuZiyeFormerDeposedEmperor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
+          "key": "zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/liuziyeformerdeposedemperor/"
     },
     "LiuhePagoda": {
       "episode_count": 1,
@@ -165375,6 +165430,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/pingyangdefenselatehan/"
     },
+    "PingyangPrincessWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
+          "key": "zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/pingyangprincesswesternhan/"
+    },
     "PinkBungalow": {
       "episode_count": 1,
       "show_count": 1,
@@ -170768,9 +170839,9 @@
       "url": "/wiki/entities/princessstephanieofbelgium/"
     },
     "PrincessTaiping": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
@@ -170778,9 +170849,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
           "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
+          "key": "zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/princesstaiping/"
     },
     "PrincesseDeLamballe": {
@@ -190695,6 +190773,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/shanxiayousong/"
+    },
+    "ShanyinPrincessLiuChuyu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
+          "key": "zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/shanyinprincessliuchuyu/"
     },
     "Shanyue": {
       "episode_count": 2,
@@ -222808,9 +222902,9 @@
       "url": "/wiki/entities/weiqiansanlian/"
     },
     "WeiQingHanGeneral": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -222825,9 +222919,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
+          "key": "zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/weiqinghangeneral/"
     },
     "WeiTengLateHan": {
@@ -226656,9 +226757,9 @@
       "url": "/wiki/entities/wuyoulatehan/"
     },
     "WuZetian": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "90.酉阳杂俎：血滴子和武则天手指上的黑毛 [712539933].md",
@@ -226680,9 +226781,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
           "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
+          "key": "zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/wuzetian/"
     },
     "WuZhangWesternHan": {
@@ -230813,6 +230921,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/xueguangdewesternhan/"
+    },
+    "XueHuaiyi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
+          "key": "zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/xuehuaiyi/"
     },
     "XueHuiWesternHan": {
       "episode_count": 1,
@@ -236977,6 +237101,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhangyingguanglinglatehan/"
+    },
+    "ZhangYizhi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
+          "key": "zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/zhangyizhi/"
     },
     "ZhangYouWesternHan": {
       "episode_count": 1,

@@ -20727,6 +20727,10 @@
     "title": "Court Feedback Collapse / 君臣反馈失灵",
     "url": "/wiki/concepts/courtfeedbackcollapse/"
   },
+  "CourtIntimacyAsPoliticalResource": {
+    "title": "宫廷亲密关系作为政治资源 / Court Intimacy as Political Resource",
+    "url": "/wiki/concepts/courtintimacyaspoliticalresource/"
+  },
   "CourtLegitimacyOverPatronLoyalty": {
     "title": "朝廷名义高于主君私属 / Court Legitimacy Over Patron Loyalty",
     "url": "/wiki/concepts/courtlegitimacyoverpatronloyalty/"
@@ -29746,6 +29750,10 @@
   "FemaleKingshipBeyondRegency": {
     "title": "Female Kingship Beyond Regency",
     "url": "/wiki/concepts/femalekingshipbeyondregency/"
+  },
+  "FemaleMarriageAgencyHistoricalVariation": {
+    "title": "女性婚姻能动性的历史变动 / Female Marriage Agency Across Periods",
+    "url": "/wiki/concepts/femalemarriageagencyhistoricalvariation/"
   },
   "FemaleOralStorytelling": {
     "title": "Female Oral Storytelling / 女性口头叙事",
@@ -49367,6 +49375,10 @@
     "title": "刘子明 / Liu Ziming (sports medicine doctor)",
     "url": "/wiki/entities/liuzimingsportsmedicine/"
   },
+  "LiuZiyeFormerDeposedEmperor": {
+    "title": "宋前废帝刘子业 / Liu Ziye",
+    "url": "/wiki/entities/liuziyeformerdeposedemperor/"
+  },
   "LiuZongdi": {
     "title": "Liu Zongdi / 刘宗迪",
     "url": "/wiki/entities/liuzongdi/"
@@ -62183,6 +62195,10 @@
     "title": "平阳守战 / Pingyang Defense (Late Han)",
     "url": "/wiki/entities/pingyangdefenselatehan/"
   },
+  "PingyangPrincessWesternHan": {
+    "title": "平阳公主 / Pingyang Princess (Western Han)",
+    "url": "/wiki/entities/pingyangprincesswesternhan/"
+  },
   "PingyaoAncientCity": {
     "title": "Pingyao Ancient City / 平遥古城",
     "url": "/wiki/entities/pingyaoancientcity/"
@@ -71982,6 +71998,10 @@
   "ShanxiaYousong": {
     "title": "山下有松 / Shanxia Yousong",
     "url": "/wiki/entities/shanxiayousong/"
+  },
+  "ShanyinPrincessLiuChuyu": {
+    "title": "山阴公主刘楚玉 / Shanyin Princess Liu Chuyu",
+    "url": "/wiki/entities/shanyinprincessliuchuyu/"
   },
   "Shanyue": {
     "title": "山越 / Shanyue",
@@ -87363,6 +87383,10 @@
     "title": "薛广德 / Xue Guangde (Western Han)",
     "url": "/wiki/entities/xueguangdewesternhan/"
   },
+  "XueHuaiyi": {
+    "title": "薛怀义 / Xue Huaiyi",
+    "url": "/wiki/entities/xuehuaiyi/"
+  },
   "XueHuiWesternHan": {
     "title": "薛惠 / Xue Hui (Western Han)",
     "url": "/wiki/entities/xuehuiwesternhan/"
@@ -89966,6 +89990,10 @@
   "ZhangYizhen": {
     "title": "张一贞",
     "url": "/wiki/entities/zhangyizhen/"
+  },
+  "ZhangYizhi": {
+    "title": "张易之 / Zhang Yizhi",
+    "url": "/wiki/entities/zhangyizhi/"
   },
   "ZhangYongde": {
     "title": "张永德 / Zhang Yongde",
@@ -100082,6 +100110,10 @@
   "zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo": {
     "title": "《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo/"
+  },
+  "zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon": {
+    "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
   },
   "zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc": {
     "title": "《资治通鉴·汉纪》616丨有心机的人有多可怕",

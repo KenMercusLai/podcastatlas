@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9653
+wiki_total_pages: 9655
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1517,6 +1517,9 @@ wiki_pages:
   - key: "FateReadingPoliticalRisk"
     title: "命相判断的政治风险 / Fate-Reading Political Risk"
     url: "/wiki/concepts/fatereadingpoliticalrisk/"
+  - key: "FemaleMarriageAgencyHistoricalVariation"
+    title: "女性婚姻能动性的历史变动 / Female Marriage Agency Across Periods"
+    url: "/wiki/concepts/femalemarriageagencyhistoricalvariation/"
   - key: "FemaleReligiousLifeSpace"
     title: "女性宗教生活空间 / Female Religious Life Space"
     url: "/wiki/concepts/femalereligiouslifespace/"

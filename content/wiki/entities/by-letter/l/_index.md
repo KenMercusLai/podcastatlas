@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12310
+wiki_total_pages: 12315
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1646,6 +1646,9 @@ wiki_pages:
   - key: "LoulanKingAnguiWesternHan"
     title: "安归 / Angui, King of Loulan (Western Han)"
     url: "/wiki/entities/loulankinganguiwesternhan/"
+  - key: "LiuZiyeFormerDeposedEmperor"
+    title: "宋前废帝刘子业 / Liu Ziye"
+    url: "/wiki/entities/liuziyeformerdeposedemperor/"
   - key: "LiuLiShouguangMarquisEasternHan"
     title: "寿光侯刘李 / Liu Li, Shouguang Marquis (Eastern Han)"
     url: "/wiki/entities/liulishouguangmarquiseasternhan/"

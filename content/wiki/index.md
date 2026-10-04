@@ -3734,6 +3734,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
 - [史蒂夫说470期 - 咨询师回信：该不该与伴侣聊前任？怎么聊才会有好结果？](sources/shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa.md) — Listener-letter episode on behavior-based reduction, neglected personality capacities, workplace belonging, therapeutic alliance, and trust as a relationship process.
 - [Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge](sources/eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767.md) — Huberman Lab interview on reciprocal sleep–nutrition effects, appetite hormones, food reward, diet quality, sleep architecture, meal timing, and metabolic evidence boundaries.
+- [《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们](sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon.md) — Side episode contrasting Han remarriage latitude with later chastity pressure and treating elite intimacy as a resource shaped by rank, patronage, and disputed court memory.
 
 ## Entities
 - [Marie-Pierre St-Onge](entities/MariePierreStOnge.md) — Nutrition and sleep researcher connecting sleep restriction, appetite, diet quality, meal timing, and metabolic health.
@@ -16093,6 +16094,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Aliko Dangote](entities/AlikoDangote.md) — Nigerian industrialist preparing the proposed Dangote Petroleum Refinery listing and advocating broad African ownership.
 - [Dangote Petroleum Refinery](entities/DangotePetroleumRefinery.md) — Nigerian refinery whose proposed $50bn local listing is a test of scale, ownership access, and market depth.
+- [平阳公主 / Pingyang Princess (Western Han)](entities/PingyangPrincessWesternHan.md) — Western Han princess used as an elite widow-remarriage case through her marriage to Wei Qing.
+- [山阴公主刘楚玉 / Shanyin Princess Liu Chuyu](entities/ShanyinPrincessLiuChuyu.md) — Liu-Song princess remembered through unequal sexual privilege, thirty male attendants, moralized scandal, and dynastic violence.
+- [宋前废帝刘子业 / Liu Ziye](entities/LiuZiyeFormerDeposedEmperor.md) — Teenage Liu-Song ruler whose episode profile links imperial authority to coercive and disputed palace-intimacy narratives.
+- [薛怀义 / Xue Huaiyi](entities/XueHuaiyi.md) — Wu Zetian favorite whose source-scoped rise and fall join intimate patronage, religious power, replacement, and violent removal.
+- [张易之 / Zhang Yizhi](entities/ZhangYizhi.md) — Wu Zetian favorite presented as both beneficiary and broker of palace access in a disputed revenge sequence.
 
 ## Concepts
 - [Sleep-Nutrition Bidirectionality](concepts/SleepNutritionBidirectionality.md) — Feedback model linking sleep duration and quality to appetite and food reward, and diet quality and timing to later sleep and metabolism.
@@ -25808,5 +25814,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Behavior-Based Human Reductionism / 行为化人性压缩](concepts/BehaviorBasedHumanReductionism.md) — Error of treating one visible act as transparent evidence of a person's complete character, motives, and inner life.
 - [Compensatory Personality Integration / 补偿性人格整合](concepts/CompensatoryPersonalityIntegration.md) — Development and coordination of capacities that a restrictive upbringing gave too little room to practice.
 - [Longitudinal Relationship Trust / 关系过程性信任](concepts/LongitudinalRelationshipTrust.md) — Trust built, weakened, and repaired through repeated interaction rather than one disclosure, promise, or verdict.
+- [女性婚姻能动性的历史变动 / Female Marriage Agency Across Periods](concepts/FemaleMarriageAgencyHistoricalVariation.md) — Historically variable remarriage, divorce, and intimate choice shaped by period norms, status, resources, and unequal exit costs.
+- [宫廷亲密关系作为政治资源 / Court Intimacy as Political Resource](concepts/CourtIntimacyAsPoliticalResource.md) — Pattern in which favorites and sexual access become channels for patronage, information, rank, revenge, replacement, and removal.
 
 ## Syntheses

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12310
+wiki_total_pages: 12315
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2483,6 +2483,9 @@ wiki_pages:
   - key: "Shanyue"
     title: "山越 / Shanyue"
     url: "/wiki/entities/shanyue/"
+  - key: "ShanyinPrincessLiuChuyu"
+    title: "山阴公主刘楚玉 / Shanyin Princess Liu Chuyu"
+    url: "/wiki/entities/shanyinprincessliuchuyu/"
   - key: "ShimadaSoji"
     title: "岛田庄司 / Shimada Soji"
     url: "/wiki/entities/shimadasoji/"

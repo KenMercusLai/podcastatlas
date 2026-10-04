@@ -7,7 +7,8 @@ sources:
   - 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933
   - zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll
   - zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm
-last_updated: 2026-09-12
+  - zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon
+last_updated: 2026-10-04
 ---
 
 ## Overview
@@ -20,6 +21,8 @@ In the miscellany source, Wu Zetian functions as an example of imperial anecdote
 
 The current synthesis is that Wu Zetian is being used by the wiki less as a settled biographical subject than as a node where rumor, charisma, cruelty, administrative talent selection, and female power are debated. Hanji 536-2 gives her a double edge: she is ruthless enough to benefit from Shangguan Yi's destruction, yet politically confident enough to employ the surviving descendant of that family when her skill is useful.
 
+The favorite-politics branch places Wu Zetian at the center of a court where intimate selection could distribute religious standing, information, protection, and danger. [[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] names [[XueHuaiyi|薛怀义]] as an early male favorite, then presents [[ZhangYizhi|张易之]] and [[ZhangChangzong|张昌宗]] as later entrants whose access displaces him. This extends her profile beyond female ruler and talent patron without reducing her reign to private desire.
+
 ## Key Characteristics
 
 - Appears in Tang miscellany memory through court rumor rather than full political biography.
@@ -28,6 +31,7 @@ The current synthesis is that Wu Zetian is being used by the wiki less as a sett
 - In Hanji 536-2, shows high tolerance for risk by trusting Shangguan Wan'er despite family enmity.
 - In Hanji 536-3, appears as a patron-ruler whose court combines talent use, sexual access risk, bodily punishment, and succession politics.
 - Serves as a comparative female-power figure whose memory combines admiration, fear, legend, and moral judgment.
+- In Hanji 616 plus, becomes the patron at the center of a male-favorite network whose political meaning exceeds private desire.
 
 ## Evidence
 
@@ -37,21 +41,25 @@ The current synthesis is that Wu Zetian is being used by the wiki less as a sett
 - Talent absorption: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]] says Wu Zetian tests the young Shangguan Wan'er, removes her slave status, and entrusts her with palace edicts.
 - Discipline and court intimacy: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Wu Zetian discovered Shangguan Wan'er's relationship with Zhang Changzong, released Zhang, and punished Shangguan Wan'er with facial marking.
 - Succession environment: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Wu Zetian had considered Wu Sansi as a successor, making Shangguan Wan'er's later proximity to Wu Sansi part of a succession-security calculation.
+- Favorite network: [[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] presents Xue Huaiyi, Zhang Yizhi, and Zhang Changzong as successive favorites whose access to Wu Zetian carried patronage and replacement consequences.
 
 ## Qualifications
 
-The current page remains source-scoped. It does not adjudicate Wu Zetian's whole reign, religious policy, succession politics, or later historical evaluation. The Hanji 536 branch's praise for her breadth and courage in employing Shangguan Wan'er should be read alongside its reminder that her power is entangled with family execution, palace coercion, punishment, and succession uncertainty.
+The current page remains source-scoped. It does not adjudicate Wu Zetian's whole reign, religious policy, succession politics, intimate life, or later historical evaluation. The Hanji 536 branch's praise for her breadth and courage in employing Shangguan Wan'er should be read alongside its reminder that her power is entangled with family execution, palace coercion, punishment, and succession uncertainty. Hanji 616 plus is especially compressed: Xue Huaiyi's role in Xue Shao's death, Princess Taiping's motive, the Zhang brothers' entry, temple arson, and Xue Huaiyi's killing remain episode claims rather than settled chronology.
 
 ## What Changed
 
 - Migrated the page to the `synthesis-v1` entity structure.
 - Added Hanji 536-2 as the first substantive court-power source beyond the earlier miscellany-rumor branch.
 - Added Hanji 536-3's palace-discipline and succession-pressure branch through Shangguan Wan'er, Zhang Changzong, and Wu Sansi.
+- Added Hanji 616 plus's qualified male-favorite and intimate-patronage branch.
 
 ## Relationships
 
 - [[ShangguanWaner|上官婉儿]] - talented court woman whose family suffered under Wu Zetian and whose rise depended on Wu Zetian's patronage.
 - [[ZhangChangzong|张昌宗]] and [[WuSansi|武三思]] - later court-intimacy and succession-politics figures in the Shangguan Wan'er branch.
+- [[XueHuaiyi|薛怀义]] and [[ZhangYizhi|张易之]] - earlier and later favorites in Hanji 616 plus's replacement sequence.
+- [[CourtIntimacyAsPoliticalResource]] - frame for reading favorite access as patronage and political vulnerability rather than only private desire.
 - [[HistoricalFemaleRoleModelCaution|历史女性榜样化警惕]] - adjacent interpretive warning against converting dangerous court positions into simple inspiration labels.
 - [[TangMiscellanyArchiveValue]] - frame for the earlier `Youyang Zazu` rumor branch.
 - [[YouyangZazu|《酉阳杂俎》]] - Tang miscellany source context for the court-rumor appearance.
