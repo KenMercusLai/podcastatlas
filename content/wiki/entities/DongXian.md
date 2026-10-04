@@ -17,7 +17,8 @@ sources:
   - zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa
   - zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs
   - zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t
-last_updated: 2026-09-10
+  - zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -49,6 +50,8 @@ Hanji 597 and Hanji 598 add the court-speech risk around Dong Xian. In Hanji 597
 
 Hanji 599 sharpens that layer through Wang Jia's prison statement. Wang Jia says he failed to remove Dong Xian and Dong Xian's father from court influence, accusing them of doing evil and disordering the court. The episode then closes by saying Aidi, after handling some state business, again turns toward private plans for Dong Xian, so Wang Jia's death has not broken Dong Xian's centrality.
 
+[[zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la|Hanji 600]] supplies the missing office-and-access mechanism before the later abdication-language crisis. At twenty-two, Dong Xian becomes Da Sima and Wei General, remains frequently inside the palace, and manages officials' memorial submissions. His father, brother, and other relatives move into high-rank or palace-access posts, while Kong Guang's superior-style reception shows that Dong Xian's imperial closeness has already displaced nominal peer hierarchy in observable court behavior.
+
 Hanji 601-1 adds the abdication-language and marriage-alliance layer. Dong Xian's father seeks a marriage tie with Xiao Xian's household, but Xiao Xian refuses after reading "云止其中" in Dong-family appointment language as a Yao-Shun abdication signal rather than ordinary Three Excellencies wording. Aidi later says at Qilin Hall that he may imitate Yao by yielding to Dong Xian, and Wang Hong blocks the remark by arguing that the realm belongs to Gaozu's dynastic line.
 
 Dong Xian's succession-failure layer turns on symbolic access without organizational control. The Xiangrui source says Aidi entrusted him with the imperial seal before death, but Dong Xian blocked information without taking effective action. Hanji 603 makes that failure operational: Dong Xian cannot answer Wang Zhengjun's funeral-procedure questions, loses palace access through Wang Mang's impeachment move, has his Da Sima seal and ribbon recovered, and dies with his wife the same day.
@@ -60,7 +63,7 @@ Hanji 605 supplies the posthumous exposure layer. Wang Mang prosecutes the Dong 
 - Highly visible favorite of Han Aidi whose appearance, palace proximity, intimacy, youth, and high office draw notice across court scenes.
 - Early public-burden contrast and fabricated-merit figure whose rewards are set against commoner suffering and whose Guannei Hou/Gaoan Hou status is attached to rewritten or contested Dongping-case credit.
 - Favorite whose accusation can remove Fu-family figures by attaching disaster meaning to court conflict.
-- Reward recipient and family influence node whose benefits make private favor a public-rank, household, military-resource, land, finance, market-order, funerary, and court-speech problem.
+- Reward recipient, memorial gatekeeper, and family influence node whose benefits make private favor a public-rank, household, military-resource, land, finance, market-order, funerary, ritual-hierarchy, and court-speech problem.
 - Marriage-alliance and abdication-language risk node whose family rise makes succession-coded wording politically dangerous.
 - Possessor of palace and symbolic access at Aidi's death whose proximity did not become funeral, palace, or command control.
 - Immediate purge and posthumous cleanup target whose loss of palace access, seal, ribbon, life, family safety, appointees, and property lets Wang Mang reenter the center.
@@ -88,6 +91,8 @@ Hanji 605 supplies the posthumous exposure layer. Wang Mang prosecutes the Dong 
 - Fief-related court danger: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] says Wang Jia's handling of an edict increasing Dong Xian's fief helps trigger Aidi's anger.
 - Prison accusation: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] says Wang Jia accuses Dong Xian and his father of doing evil and disordering the court.
 - Continuing favor: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] says Aidi turns again toward private plans for Dong Xian after the Wang Jia aftermath.
+- Da Sima and memorial gatekeeping: [[zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la|Hanji 600]] says the twenty-two-year-old Dong Xian becomes Da Sima and Wei General, stays close to Aidi in the palace, and manages officials' memorial submissions.
+- Family and ritual hierarchy: [[zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la|Hanji 600]] says Dong Xian's father, brother, and other relatives advance while Kong Guang receives Dong Xian with the deference normally shown to a superior despite their nominal peer rank.
 - Marriage-risk signal: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Dong Xian's father seeks a marriage tie with Xiao Xian's household, but Xiao Xian refuses after reading appointment language as dangerous.
 - Abdication remark: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Aidi speaks of imitating Yao's abdication to Shun with Dong Xian before Wang Hong interrupts.
 - Office and family criticism: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Wang Hong criticizes Dong Xian's lack of merit, high office, military authority, family promotions, and fiscal burden.
@@ -99,15 +104,15 @@ Hanji 605 supplies the posthumous exposure layer. Wang Mang prosecutes the Dong 
 
 ## Qualifications
 
-The current page is not a full biography of Dong Xian. Hanji 585 gives the host's relationship-origin and overfavor reading but does not settle Dong Xian's inner motives, sexuality beyond the source narrative, full family genealogy, or the legal basis of each reward. Hanji 586 gives the source's account of fabricated or contested merit in the Liu Yun case but does not supply the complete case file or Dong Xian's own role in the alteration. Hanji 587 gives the source's account of armory weapons moving to Dong-linked households but not the exact weapon list, quantity, or Dong Xian's own request role. Hanji 588 gives Bao Xuan's hostile public-suffering contrast; Hanji 593 and Hanji 597 narrate Wang Jia's hostile view of the public-resource and fief-edict problem; Hanji 598 supports his role as a court-risk pressure point; Hanji 599 gives Wang Jia's hostile prison judgment of Dong Xian's father-son network; and Hanji 601-1 gives Xiao Xian's and Wang Hong's hostile readings of Dong-family danger. Hanji 602 supports public visibility and rank in one diplomatic scene. The Xiangrui source and Hanji 603 support succession failure, but Aidi's exact death circumstances, Dong Xian's inner state, and the legal details of his removal remain source-scoped. Hanji 605 supports family confiscation, appointee removal, relocation, and fragile favorite-dependent wealth, but the complete kin list and legal basis for each punishment remain source-scoped.
+The current page is not a full biography of Dong Xian. Hanji 585 gives the host's relationship-origin and overfavor reading but does not settle Dong Xian's inner motives, sexuality beyond the source narrative, full family genealogy, or the legal basis of each reward. Hanji 586 gives the source's account of fabricated or contested merit in the Liu Yun case but does not supply the complete case file or Dong Xian's own role in the alteration. Hanji 587 gives the source's account of armory weapons moving to Dong-linked households but not the exact weapon list, quantity, or Dong Xian's own request role. Hanji 588 gives Bao Xuan's hostile public-suffering contrast; Hanji 593 and Hanji 597 narrate Wang Jia's hostile view of the public-resource and fief-edict problem; Hanji 598 supports his role as a court-risk pressure point; Hanji 599 gives Wang Jia's hostile prison judgment of Dong Xian's father-son network; Hanji 600 supports age, appointment, memorial-channel control, family advancement, and Kong Guang's reception posture but not Dong Xian's complete formal authority, full memorial procedure, or the host's inference that his power equaled Aidi's; and Hanji 601-1 gives Xiao Xian's and Wang Hong's hostile readings of Dong-family danger. Hanji 602 supports public visibility and rank in one diplomatic scene. The Xiangrui source and Hanji 603 support succession failure, but Aidi's exact death circumstances, Dong Xian's inner state, and the legal details of his removal remain source-scoped. Hanji 605 supports family confiscation, appointee removal, relocation, and fragile favorite-dependent wealth, but the complete kin list and legal basis for each punishment remain source-scoped.
 
 ## What Changed
 
+- Added Hanji 600's office-and-access layer: Dong Xian becomes a twenty-two-year-old Da Sima, controls the memorial route, advances his family, and receives superior-style deference from Kong Guang.
 - Added Hanji 585's origin layer: Dong Xian's visibility begins with palace proximity and the "断袖" memory before expanding into family advancement and over-rank material treatment.
 - Added Hanji 585's early speech-risk layer: Zheng Chong's criticism and Sun Bao's defense show Dong Xian-centered favor becoming dangerous before the later Wang Jia sequence.
 - Added Hanji 586's fabricated-merit layer: Dong Xian's first title path now includes altered Dongping-case credit, Guannei Hou status, and Gaoan Hou enfeoffment over procedural objection.
 - Added Hanji 587's armory-gift layer: Dong Xian's rewards now include publicly funded military weapons and Wu Jianglong's public-instrument objection.
-- Preserved the later Bao Xuan, Wang Jia, Xiao Xian, Wang Hong, chanyu-visibility, succession-failure, and Wang Mang cleanup layers as downstream consequences or parallels.
 
 ## Relationships
 

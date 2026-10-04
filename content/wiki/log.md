@@ -29401,3 +29401,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 《资治通鉴·汉纪》600丨孔子后代里，咋出了没骨气的他？
+
+Added source `zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la`; resynthesized [[HanAidi|汉哀帝]], [[DongXian|董贤]], [[KongGuangWesternHan|孔光]], and [[PalaceProximityPower|宫廷近身权力]] from their complete preserved evidence inventories. Core synthesis: Dong Xian's appointment as a twenty-two-year-old Da Sima and Wei General combines formal office, continual palace proximity, control of the memorial route, and family advancement, while Kong Guang's superior-style reception of a nominal peer shows imperial favor reshaping ritual hierarchy and turning compliance into family reward. No settled contradiction was adopted. Wei Shang's full career, detailed memorial procedure, the identities of Kong Guang's nephews, Kong Guang's private motive, and the host's power-equality claim remain source-scoped.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
