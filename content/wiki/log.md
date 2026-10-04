@@ -29533,3 +29533,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin
+
+Added source `essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937`; resynthesized [[AndyGalpin]], [[NinePhysiologicalAdaptations]], [[StrengthHypertrophyProgramming]], [[MindMuscleConnection]], and [[ExerciseRecoveryReadiness]] from their complete preserved evidence inventories. Core synthesis: exercise adaptations follow how load, volume, repetitions, rest, frequency, range of motion, progression, and intent are combined; the episode adds practical superset, velocity-intent, tactile-cue, eccentric-practice, and post-workout breathing details without creating a competing framework. No settled contradiction was adopted. The Essentials edit overlaps the earlier full masterclass, while its numerical protocols, superset decrement, mind-muscle result, activation timeline, and downregulation effects remain source-scoped public education rather than independent confirmation or individualized programming. The automatic `wiki/overview.md` was updated during normal ingest and then left to the downstream synthesis workflow.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

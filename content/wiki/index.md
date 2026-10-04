@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin](sources/essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937.md) — Huberman Lab Essentials episode on adaptation-specific resistance training, superset tradeoffs, movement intent, target-muscle activation, and post-workout downregulation.
 - [《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？](sources/zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0.md) — 公孙敖寻李陵失败后的误报引发李陵家族覆灭，李绪误认与复仇补全悲剧链条，并以公孙敖生涯讨论欲望与能力失配。
 - [《资治通鉴·汉纪》380-3｜古代男子宫刑过程揭秘](sources/zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9.md) — 芮淇讲透资治通鉴 episode on Sima Qian's punitive castration, shame, constrained survival for Shiji, and source-scoped medical explanations.
 - [《资治通鉴·汉纪》393-2｜燕王刘旦谋反失败，对混职场有啥启示？](sources/zizhi-tongjian-hanji-393-2-yanwang-liudan-moufan-shibai-dui-hunzhichang-yousha-qishi-lqwzkgdj9ozmwb7r97l4ts2tjx_s.md) — 刘旦早期谋反通过伪诏、昭帝身世攻击、备兵与杀谏推进，却因刘成告密被隽不疑提前截断，刘旦获赦而刘泽等人被诛。

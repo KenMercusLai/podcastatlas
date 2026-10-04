@@ -12905,9 +12905,9 @@
       "url": "/wiki/entities/andyburnham/"
     },
     "AndyGalpin": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -12971,9 +12971,16 @@
           "show": "Huberman Lab",
           "title": "How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
           "url": "/wiki/sources/how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856/"
+        },
+        {
+          "episode_file": "SCIM9369885937 [SCIM9369885937].md",
+          "key": "essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
+          "url": "/wiki/sources/essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/andygalpin/"
     },
     "AndyStalman": {
@@ -70582,9 +70589,9 @@
       "url": "/wiki/concepts/exercisepillarsforlongevity/"
     },
     "ExerciseRecoveryReadiness": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -70648,9 +70655,16 @@
           "show": "Huberman Lab",
           "title": "Supercharge Exercise Performance & Recovery with Cooling",
           "url": "/wiki/sources/scim5512858918-scim5512858918/"
+        },
+        {
+          "episode_file": "SCIM9369885937 [SCIM9369885937].md",
+          "key": "essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
+          "url": "/wiki/sources/essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/exerciserecoveryreadiness/"
     },
     "ExerciseSelfMasteryForProcrastination": {
@@ -145717,9 +145731,9 @@
       "url": "/wiki/concepts/mindbodyunion/"
     },
     "MindMuscleConnection": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5122820076 [SCIM5122820076].md",
@@ -145734,9 +145748,16 @@
           "show": "Huberman Lab",
           "title": "Science of Muscle Growth, Increasing Strength & Muscular Recovery",
           "url": "/wiki/sources/scim1817217176-scim1817217176/"
+        },
+        {
+          "episode_file": "SCIM9369885937 [SCIM9369885937].md",
+          "key": "essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
+          "url": "/wiki/sources/essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/mindmuscleconnection/"
     },
     "MindfulEatingCueControl": {
@@ -153409,9 +153430,9 @@
       "url": "/wiki/concepts/ninedaysqueensuccessioncrisis/"
     },
     "NinePhysiologicalAdaptations": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -153447,9 +153468,16 @@
           "show": "Huberman Lab",
           "title": "How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
           "url": "/wiki/sources/how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9486759856/"
+        },
+        {
+          "episode_file": "SCIM9369885937 [SCIM9369885937].md",
+          "key": "essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
+          "url": "/wiki/sources/essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/ninephysiologicaladaptations/"
     },
     "NinePurpleFireLuckActionFrame": {
@@ -201670,9 +201698,9 @@
       "url": "/wiki/concepts/strengthfirstselfexamination/"
     },
     "StrengthHypertrophyProgramming": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -201729,9 +201757,16 @@
           "show": "Huberman Lab",
           "title": "Science of Muscle Growth, Increasing Strength & Muscular Recovery",
           "url": "/wiki/sources/scim1817217176-scim1817217176/"
+        },
+        {
+          "episode_file": "SCIM9369885937 [SCIM9369885937].md",
+          "key": "essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin",
+          "url": "/wiki/sources/essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/strengthhypertrophyprogramming/"
     },
     "StrengthTrainingJointProtection": {
