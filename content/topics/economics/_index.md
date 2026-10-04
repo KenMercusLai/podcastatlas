@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2186
+topic_total_pages: 2187
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -991,6 +991,9 @@ topic_concepts:
   - key: "EarlyModernJapanEuropeContact"
     title: "Early Modern Japan-Europe Contact"
     url: "/wiki/concepts/earlymodernjapaneuropecontact/"
+  - key: "EarlyRetirementWorkAutonomy"
+    title: "Early Retirement as Work Autonomy"
+    url: "/wiki/concepts/earlyretirementworkautonomy/"
   - key: "EarningsExpectationGap"
     title: "Earnings Expectation Gap"
     url: "/wiki/concepts/earningsexpectationgap/"

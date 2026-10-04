@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9637
+wiki_total_pages: 9639
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "EarlyProfessionalPolicing"
     title: "Early Professional Policing"
     url: "/wiki/concepts/earlyprofessionalpolicing/"
+  - key: "EarlyRetirementWorkAutonomy"
+    title: "Early Retirement as Work Autonomy"
+    url: "/wiki/concepts/earlyretirementworkautonomy/"
   - key: "EarlyTransplantationImaginary"
     title: "Early Transplantation Imaginary / 早期移植想象"
     url: "/wiki/concepts/earlytransplantationimaginary/"

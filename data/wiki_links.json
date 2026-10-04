@@ -17759,6 +17759,10 @@
     "title": "Chrétien de Troyes",
     "url": "/wiki/entities/chretiendetroyes/"
   },
+  "ChrisBell": {
+    "title": "Chris Bell",
+    "url": "/wiki/entities/chrisbell/"
+  },
   "ChrisBest": {
     "title": "Chris Best",
     "url": "/wiki/entities/chrisbest/"
@@ -18694,6 +18698,10 @@
   "CliptoAI": {
     "title": "Clipto AI",
     "url": "/wiki/entities/cliptoai/"
+  },
+  "ClockedOut": {
+    "title": "Clocked Out",
+    "url": "/wiki/entities/clockedout/"
   },
   "Clorox": {
     "title": "Clorox",
@@ -25874,6 +25882,10 @@
   "EarlyRestorationCoalitionIntegration": {
     "title": "早期复汉联盟整合 / Early Restoration Coalition Integration",
     "url": "/wiki/concepts/earlyrestorationcoalitionintegration/"
+  },
+  "EarlyRetirementWorkAutonomy": {
+    "title": "Early Retirement as Work Autonomy",
+    "url": "/wiki/concepts/earlyretirementworkautonomy/"
   },
   "EarlyTransplantationImaginary": {
     "title": "Early Transplantation Imaginary / 早期移植想象",
@@ -66759,6 +66771,10 @@
     "title": "Recurrence-Free Survival Endpoint",
     "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
   },
+  "RecurringLayoffManagementBurden": {
+    "title": "Recurring Layoff Management Burden",
+    "url": "/wiki/concepts/recurringlayoffmanagementburden/"
+  },
   "RecurringSupplementCommerce": {
     "title": "Recurring Supplement Commerce",
     "url": "/wiki/concepts/recurringsupplementcommerce/"
@@ -96038,6 +96054,10 @@
   "tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128": {
     "title": "NYC public schools ban AI through middle school",
     "url": "/wiki/sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128/"
+  },
+  "tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128": {
+    "title": "What it's like to log off from a career in tech",
+    "url": "/wiki/sources/tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128/"
   },
   "tech-20260908-0908-mp-tech-pod-128-tech-20260908-0908-mp-tech-pod-128": {
     "title": "The Silicon Valley hopefuls living in hacker houses",

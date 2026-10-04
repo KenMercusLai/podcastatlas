@@ -29337,3 +29337,11 @@ Added source `school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb`; cr
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | What it's like to log off from a career in tech
+
+Added source `tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128`; created [[ChrisBell]], [[ClockedOut]], [[RecurringLayoffManagementBurden]], and [[EarlyRetirementWorkAutonomy]]. Core synthesis: Chris Bell's exit shows how recurring responsibility for choosing layoffs can make management itself unsustainable, while early retirement can mean control over future work rather than permanent nonwork; family time and household labor become more valuable, but financial uncertainty does not disappear. No settled contradiction was adopted. The labor-force participation trend and the prevalence or causal weight of Bell's experience remain source-scoped. Recurring show and host profiles were not changed because the episode adds topical provenance rather than a durable identity revision. The automatic `wiki/overview.md` did not require revision for this bounded personal case. Downstream synthesis and publish validation were then refreshed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

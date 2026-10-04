@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3306
+topic_total_pages: 3307
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5234,6 +5234,9 @@ topic_entities:
   - key: "CHIPSAct"
     title: "CHIPS Act"
     url: "/wiki/entities/chipsact/"
+  - key: "ChrisBell"
+    title: "Chris Bell"
+    url: "/wiki/entities/chrisbell/"
   - key: "ChrisSchmitz"
     title: "Chris Schmitz"
     url: "/wiki/entities/chrisschmitz/"

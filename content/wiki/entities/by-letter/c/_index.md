@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12296
+wiki_total_pages: 12298
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -923,6 +923,9 @@ wiki_pages:
   - key: "ChocRevive"
     title: "Choc Revive"
     url: "/wiki/entities/chocrevive/"
+  - key: "ChrisBell"
+    title: "Chris Bell"
+    url: "/wiki/entities/chrisbell/"
   - key: "ChrisBest"
     title: "Chris Best"
     url: "/wiki/entities/chrisbest/"
@@ -1214,6 +1217,9 @@ wiki_pages:
   - key: "CliptoAI"
     title: "Clipto AI"
     url: "/wiki/entities/cliptoai/"
+  - key: "ClockedOut"
+    title: "Clocked Out"
+    url: "/wiki/entities/clockedout/"
   - key: "Clorox"
     title: "Clorox"
     url: "/wiki/entities/clorox/"

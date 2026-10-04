@@ -38463,6 +38463,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/chretiendetroyes/"
     },
+    "ChrisBell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260907_0907_MP_TECH_pod_128 [tech_20260907_0907_MP_TECH_pod_128].md",
+          "key": "tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What it's like to log off from a career in tech",
+          "url": "/wiki/sources/tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/chrisbell/"
+    },
     "ChrisHarding": {
       "episode_count": 1,
       "show_count": 1,
@@ -40683,6 +40699,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/clinicianvulnerabilityandselfcare/"
+    },
+    "ClockedOut": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260907_0907_MP_TECH_pod_128 [tech_20260907_0907_MP_TECH_pod_128].md",
+          "key": "tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What it's like to log off from a career in tech",
+          "url": "/wiki/sources/tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/entities/clockedout/"
     },
     "ClosedLoopSleepEnhancementBoundary": {
       "episode_count": 1,
@@ -60542,6 +60574,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/earlyrestorationcoalitionintegration/"
+    },
+    "EarlyRetirementWorkAutonomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260907_0907_MP_TECH_pod_128 [tech_20260907_0907_MP_TECH_pod_128].md",
+          "key": "tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What it's like to log off from a career in tech",
+          "url": "/wiki/sources/tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/earlyretirementworkautonomy/"
     },
     "EarnedRewardRefusal": {
       "episode_count": 1,
@@ -176546,6 +176594,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
+    },
+    "RecurringLayoffManagementBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260907_0907_MP_TECH_pod_128 [tech_20260907_0907_MP_TECH_pod_128].md",
+          "key": "tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What it's like to log off from a career in tech",
+          "url": "/wiki/sources/tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-07",
+      "url": "/wiki/concepts/recurringlayoffmanagementburden/"
     },
     "RedCliffsBattle": {
       "episode_count": 6,
