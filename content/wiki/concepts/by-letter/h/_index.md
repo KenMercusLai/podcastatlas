@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9678
+wiki_total_pages: 9679
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "HanCavalryFormation"
     title: "Han Cavalry Formation / 汉军骑兵建设"
     url: "/wiki/concepts/hancavalryformation/"
+  - key: "HanCourtPerformanceDiplomacy"
+    title: "Han Court Performance Diplomacy / 汉廷表演外交"
+    url: "/wiki/concepts/hancourtperformancediplomacy/"
   - key: "HanInheritsQinSystem"
     title: "Han Inherits Qin System / 汉承秦制"
     url: "/wiki/concepts/haninheritsqinsystem/"

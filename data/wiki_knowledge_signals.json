@@ -93533,6 +93533,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/hancommercialwealthaspiration/"
     },
+    "HanCourtPerformanceDiplomacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》371-1｜汉朝第一位魔术师来自非洲？ [ljdpMemDwZtVioDC120kspcBEgyt].md",
+          "key": "zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》371-1｜汉朝第一位魔术师来自非洲？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/hancourtperformancediplomacy/"
+    },
     "HanFanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -162759,9 +162775,9 @@
       "url": "/wiki/concepts/parliamentarysystem/"
     },
     "ParthianEmpire": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》771丨寻找罗马！汉使甘英的世界旅行 [lnrjUbKEOAhAvfk55rPIwNW15njF].md",
@@ -162783,6 +162799,13 @@
           "show": "The Rest Is History",
           "title": "41. Persia",
           "url": "/wiki/sources/41-persia-glt6414068538/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》371-1｜汉朝第一位魔术师来自非洲？ [ljdpMemDwZtVioDC120kspcBEgyt].md",
+          "key": "zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》371-1｜汉朝第一位魔术师来自非洲？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt/"
         }
       ],
       "updated": "2026-10-03",
@@ -180403,9 +180426,9 @@
       "url": "/wiki/concepts/remoteroadaccesstransformation/"
     },
     "RemoteTributePrestigeTheater": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争 [lplZ8F3WG1P0m5Kmlh-w32JwnlZq].md",
@@ -180420,6 +180443,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸",
           "url": "/wiki/sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》371-1｜汉朝第一位魔术师来自非洲？ [ljdpMemDwZtVioDC120kspcBEgyt].md",
+          "key": "zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》371-1｜汉朝第一位魔术师来自非洲？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt/"
         }
       ],
       "updated": "2026-09-13",

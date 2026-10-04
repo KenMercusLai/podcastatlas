@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》371-1｜汉朝第一位魔术师来自非洲？](sources/zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt.md) — 安息使者、鸵鸟蛋与“黎轩善眩人”展示表演者和奇物如何进入外交交换，汉武帝则以巡游、宴饮、仓储和角抵百戏把国家能力转化为对外可见的政治表演。
 - [《资治通鉴·汉纪》370-2｜爷爷把娇妻嫁给亲孙子，奶奶一夜变媳妇儿？](sources/zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp.md) — 刘细君在汉—乌孙—匈奴联姻竞争中被迫依乌孙继承习俗改嫁军须靡，显示联盟收益如何把语言隔阂、伦理冲突和婚姻选择成本转嫁给和亲公主。
 - [《资治通鉴·汉纪》372-2｜汉宛战争，你以为汉武帝让大舅子领兵那么单纯？](sources/zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh.md) — 汉武帝以大宛远征为李广利制造军功与封侯名义，司马光据此批评用程序外观包装私恩任将；王温舒之死与关东蝗灾补出酷吏和民生代价。
 - [《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！](sources/zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq.md) — 太初元年的明堂祭祀、求仙建宫、太初历改革与匈奴内应支线，展示礼制、历法、建筑和边疆事务如何并置；“上帝”双重词义及历法优先性保留为来源限定。
@@ -7090,7 +7091,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [班超 / Ban Chao (Eastern Han)](entities/BanChaoEasternHan.md) — Eastern Han Western Regions commander whose profile now begins with Ban-family historiography, Ban Gu rescue, copyist ambition, and late military opening before Shanshan/Khotan shock diplomacy, proxy strategy, and final handoff.
 - [甘英 / Gan Ying (Eastern Han)](entities/GanYingEasternHan.md) — Eastern Han envoy sent by Ban Chao toward Da Qin/Rome and Tiaozhi, reaching Parthia's western boundary before route warnings turned him back.
 - [大秦 / Da Qin](entities/DaQin.md) — Han-era exonym for the Roman Empire in Hanji 771, capturing Rome as a far-western polity known through mediated route reports.
-- [安息 / Parthian Empire](entities/ParthianEmpire.md) — Long-lived Iranian and Roman-rival empire whose officials also shape Gan Ying's route knowledge toward Da Qin/Rome.
+- [安息 / Parthian Empire](entities/ParthianEmpire.md) — Long-lived Iranian and Roman-rival empire that sends a Western Han embassy and later shapes Gan Ying's route knowledge toward Da Qin/Rome.
 - [条支国 / Tiaozhi Kingdom](entities/TiaozhiKingdom.md) — Far-western destination named with Da Qin in Gan Ying's mission, kept source-scoped pending fuller geography.
 - [班昭 / Ban Zhao (late Han)](entities/BanZhaoLateHan.md) — Eastern Han historiographical continuator, teacher, adviser, petitioning actor, and `Nujie` author whose profile links Ban Gu, Ban Chao, Ma Rong, Deng-regency counsel, and gender-norm controversy.
 - [班婕妤 / Ban Jieyu (Western Han)](entities/BanJieyuWesternHan.md) — Western Han consort whose profile now joins self-restrained favor management, direct court rivalry, motive-based wugu defense, and later Ban-family exemplar memory behind Ban Zhao's `Nujie`.
@@ -16195,6 +16196,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
 
 ## Concepts
+- [Han Court Performance Diplomacy / 汉廷表演外交](concepts/HanCourtPerformanceDiplomacy.md) — Foreign performers and rare gifts meet curated tours, stores, banquets, animals, and court spectacle as reciprocal diplomatic communication.
 - [Shangdi in Early Imperial Ritual / 早期帝国礼制中的上帝](concepts/ShangdiInEarlyImperialRitual.md) — bounded frame for reading “上帝” inside early imperial sacrificial and ruler-cult contexts without projecting one modern meaning across periods.
 - [Media Myth to Movement Ritual](concepts/MediaMythToMovementRitual.md) — Process by which dramatized history is adopted as real organizational tradition and repeated political ceremony.
 - [Commercialized Extremist Recruitment](concepts/CommercializedExtremistRecruitment.md) — Commission, territorial sales, required purchases, and grievance targeting used to scale exclusionary membership.
@@ -19871,7 +19873,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [伪诏地方杀官 / Forged Edict Local Execution](concepts/ForgedEdictLocalExecution.md) — Hanji 797 pattern where private enemies fabricate imperial command so local officers execute or arrest targeted officials.
 - [直谏入罪 / Direct Remonstrance Criminalization](concepts/DirectRemonstranceCriminalization.md) — Late-Han pattern where open corrective speech becomes punishable, from Zhi Shou and An-era Zhao Teng/Yang Zhen to Hongdu Gate sanctions and Huan-era prison death.
 - [直言作秀陷阱 / Scripted Candor Trap](concepts/ScriptedCandorTrap.md) — Governance pattern where authority publicly solicits blunt speech but punishes correction that does not follow the expected script.
-- [远方朝贡威德表演 / Remote Tribute Prestige Theater](concepts/RemoteTributePrestigeTheater.md) — Legitimacy pattern where rare goods from distant tribute are used as visible proof of moral reach and reputation.
+- [远方朝贡威德表演 / Remote Tribute Prestige Theater](concepts/RemoteTributePrestigeTheater.md) — Distant envoys, rare goods, subsidy, and curated spectacle used as visible prestige, limited by trade incentives and nearer coercive power.
 - [Adviser State Architecture / 谋士政权架构](concepts/AdviserStateArchitecture.md) — Hanji 957 and 974-976 frame for adviser-rich power, post-crisis organizational repair, and advisers as builders of legitimacy, logistics, talent channels, strategy, and institutional capacity.
 - [Dark Adviser Craft / 毒士灰度谋略](concepts/DarkAdviserCraft.md) — Hanji 976-977 frame for disorder-era advisers mixing visible state architecture with hidden technique, moral language, legal-administrative action, silence, and survival.
 - [Court Office Capture / 朝廷开府任官失序](concepts/CourtOfficeCapture.md) — Late-Han pattern where 171 CE office churn, Hongdu selection channels, eunuch-linked promotion, Xidi pricing, palace finance, forged appointments, and armed commanders hollow out the court's normal selection order.

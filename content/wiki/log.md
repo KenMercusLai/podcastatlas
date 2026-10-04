@@ -29725,3 +29725,11 @@ Added source `zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-y
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》371-1｜汉朝第一位魔术师来自非洲？
+
+Added source `zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt`; created [[HanCourtPerformanceDiplomacy|汉廷表演外交]]; and resynthesized [[ParthianEmpire|安息]] and [[RemoteTributePrestigeTheater|远方朝贡威德表演]] from their complete preserved evidence inventories. Core synthesis: performers and rare objects can travel as diplomatic gifts, while tours, gifts, banquets, warehouse viewing, exotic animals, and 角抵百戏 make imperial capacity visible to foreign visitors; Western Regions deference to nearby [[Xiongnu|匈奴]] limits the conversion of spectacle into exclusive allegiance. No settled contradiction was adopted. The “黎轩 = Alexandria” identification, “first African magician” conclusion, exact repertoire history, and crop-transfer scale remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,716-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, synthesis, and publish validation passed; the repository-wide lightweight validator still reports 20 pre-existing broken links outside this ingest.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

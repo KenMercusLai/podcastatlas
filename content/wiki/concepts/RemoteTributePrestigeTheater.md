@@ -6,6 +6,7 @@ tags: [governance, diplomacy, tribute, legitimacy, wang-mang]
 sources:
   - zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq
   - zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1
+  - zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt
 last_updated: 2026-09-13
 ---
 
@@ -19,7 +20,9 @@ Remote tribute prestige theater / 远方朝贡威德表演 is the legitimacy pat
 
 Hanji 422-2 widens the concept from one Wang Mang-era prestige scene into a general caution about tribute display. Its examples from Han and Ming diplomacy argue that "万国来朝" recognition may be purchased through rewards, above-market prices,回赐, and reception costs. This does not erase the symbolic claim, but it changes how the signal should be read: remote recognition can be staged, subsidized, or exploited rather than simply offered out of fear or admiration.
 
-The concept therefore tracks a managed signal. The rare object, the long distance, the envoy's journey, and the court's expense all matter because they let a domestic audience see prestige. The diplomatic act becomes part of image management alongside Confucian honors, amnesties, agricultural exhortation, and other virtue claims.
+Hanji 371-1 adds an earlier Han Wudi case and a foreign-audience dimension. Parthian and other Western Regions envoys bring rare objects and a performer, while the Han court routes them through populous places, distributes gifts, hosts banquets, shows warehouses, and stages 角抵百戏 and exotic animals. Prestige is therefore directed not only inward to a domestic audience but outward to visiting observers through visible population, abundance, storage, and performance.
+
+The concept therefore tracks a managed signal. The rare object, the long distance, the envoy's journey, the court's expense, and the designed viewing situation all matter. Yet Hanji 371-1 also supplies a limit: Western Regions states can participate in Han reception while remaining more deferential to the nearer Xiongnu, so attendance and admiration do not prove exclusive allegiance.
 
 ## Key Claims
 
@@ -28,6 +31,7 @@ The concept therefore tracks a managed signal. The rare object, the long distanc
 - Gift-backed tribute should be read as managed recognition rather than automatic consent or admiration.
 - Tribute prestige may depend on material subsidy, including rewards, hosted reception, and prices favorable to the visiting side.
 - The symbolic value of tribute can exceed its practical value when it helps a court narrate legitimacy.
+- Tours, warehouses, banquets, animals, and performance can turn material capacity into a curated diplomatic spectacle.
 - The pattern is especially useful when a powerholder needs visible virtue to support contested authority.
 
 ## Evidence
@@ -38,14 +42,17 @@ The concept therefore tracks a managed signal. The rare object, the long distanc
 - Prestige reading: [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|Hanji 610-1]] says Wang Mang uses the event to show his reputation and sacred virtue.
 - System subsidy: [[zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1|Hanji 422-2]] says Han and Ming courts could pay heavily for the "万国来朝" image through rewards,回赐, purchase prices, and hosted envoy reception.
 - Prestige inversion: [[zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1|Hanji 422-2]] cites the Ricci-style inversion that the arrangement could look like China paying the world rather than the world paying China.
+- Foreign-audience display: [[zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt|Hanji 371-1]] says Han Wudi shows visiting envoys populous places, gifts, supplies, banquets, warehouses, 角抵百戏, and unusual animals.
+- Proximity limit: [[zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt|Hanji 371-1]] says Western Regions states still fear and defer more strongly to geographically nearer Xiongnu envoys.
 
 ## Counterevidence & Qualifications
 
-The concept does not prove Huangzhi's real motive or exact location, nor does it prove that every tribute mission was primarily profit-seeking. It describes the receiving court's prestige use of tribute and now includes the possibility that the prestige signal is materially subsidized. A tribute event may also involve trade, diplomacy, coercion, gift reciprocity, cultural recognition, or local advantage beyond the receiving court's story.
+The concept does not prove Huangzhi's real motive or exact location, nor does it prove that every tribute mission was primarily profit-seeking. It describes the receiving court's prestige use of tribute and includes the possibility that the signal is materially subsidized. Hanji 371-1's “黎轩 = Alexandria” and “first African magician” claims remain an unverified identification chain. A tribute event may also involve trade, diplomacy, coercion, gift reciprocity, cultural recognition, or local advantage beyond the receiving court's story.
 
 ## What Changed
 
-- Added Hanji 422-2's economic qualification: remote tribute prestige can be bought, overpaid, or exploited rather than read as spontaneous submission.
+- Added Hanji 371-1's outward-facing spectacle mechanism: envoys are shown population, supplies, storage, animals, and performance.
+- Added the proximity qualification: participation in Han reception does not erase deference to a nearer coercive power.
 
 ## Related Concepts
 
@@ -56,3 +63,4 @@ The concept does not prove Huangzhi's real motive or exact location, nor does it
 - [[AuspiciousOmenPolitics|祥瑞政治]] - adjacent legitimacy technology that also converts unusual signs into authority claims.
 - [[ConfucianForeignPolicyMoralism|儒家化对外秩序]] - related diplomatic morality frame around distant recognition.
 - [[PublicMoralPerformance|公开道德表演]] - performance relationship because tribute becomes a public virtue display.
+- [[HanCourtPerformanceDiplomacy|汉廷表演外交]] - performance-specific mechanism connecting diplomatic gifts to curated court spectacle.
