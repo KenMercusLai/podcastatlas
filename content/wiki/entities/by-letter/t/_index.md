@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12327
+wiki_total_pages: 12330
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1544,6 +1544,9 @@ wiki_pages:
   - key: "TangZhouLateHan"
     title: "唐周 / Tang Zhou (late Han)"
     url: "/wiki/entities/tangzhoulatehan/"
+  - key: "TangYinMingPainter"
+    title: "唐寅 / Tang Yin (Ming Painter)"
+    url: "/wiki/entities/tangyinmingpainter/"
   - key: "TangWenbin"
     title: "唐文斌 / Tang Wenbin"
     url: "/wiki/entities/tangwenbin/"

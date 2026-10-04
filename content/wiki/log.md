@@ -29497,3 +29497,11 @@ Added source `zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 《资治通鉴·汉纪》464｜古代的“春宫图”到底有多野？
+
+Added source `zizhi-tongjian-hanji-464-gudai-de-chungongtu-daodi-you-duo-ye-lp-qvincrx1zfp5z2ggjygfnpbca`; created [[LiuHaiyangGuangchuanKingWesternHan|广川王刘海阳]], [[ZhouFangTangPainter|周昉]], [[TangYinMingPainter|唐寅]], and [[AncientChineseEroticImagery|中国古代春宫图的社会功能]]. Core synthesis: sexually themed images take their meaning from setting, audience, consent, and institution, spanning instruction, marriage, fertility, protection, tomb memory, coercive spectacle, commercial art, censorship, collecting, and museum evidence. No settled contradiction was adopted. Work attributions, naming genealogy, tomb-image interpretations, provenance stories, and prohibition history remain source-scoped; the likely transcription error “性歧视” was not adopted as a claim. The automatic `wiki/overview.md` was updated during normal ingest, then left to the downstream synthesis workflow. The manifest and paragraph ledger were refreshed to 3,687-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page whitespace, identity, knowledge schema, index and log coverage, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

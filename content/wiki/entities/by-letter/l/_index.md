@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12327
+wiki_total_pages: 12330
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1664,6 +1664,9 @@ wiki_pages:
   - key: "LiuQuGuangchuanKingWesternHan"
     title: "广川王刘去 / Liu Qu, Guangchuan King (Western Han)"
     url: "/wiki/entities/liuquguangchuankingwesternhan/"
+  - key: "LiuHaiyangGuangchuanKingWesternHan"
+    title: "广川王刘海阳 / Liu Haiyang, Guangchuan King (Western Han)"
+    url: "/wiki/entities/liuhaiyangguangchuankingwesternhan/"
   - key: "LiuJingGuanglingKingEasternHan"
     title: "广陵王刘荆 / Liu Jing, Guangling King (Eastern Han)"
     url: "/wiki/entities/liujingguanglingkingeasternhan/"

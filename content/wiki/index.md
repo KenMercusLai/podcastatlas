@@ -1161,6 +1161,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》465｜从囚徒到明君，汉宣帝刘病已是怎么死的？](sources/zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt.md) — 芮淇讲透资治通鉴 episode on Han Xuan's final illness and death, Huhanye-Zhizhi Xiongnu split pressure, deathbed entrusted officials, Xuan's reign evaluation, and Han Yuan's accession.
 - [《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主](sources/zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv.md) — 芮淇讲透资治通鉴 episode on Huhanye Chanyu's submission debate, Xieyou Princess's Wusun remarriage crisis, Nimi's failed banquet assassination, and the Chigu City siege setup.
 - [《资治通鉴·汉纪》463｜猜猜看，在汉宣帝眼中谁是最大功臣？](sources/zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292.md) — 芮淇讲透资治通鉴 episode on Huhanye's protected settlement, Western Regions obedience, Qilin Pavilion merit honors, Five Classics standardization, Xieyou's return, Feng Liao's Wusun mission, and Wang Zhengjun/Liu Ao's origin scene.
+- [《资治通鉴·汉纪》464｜古代的“春宫图”到底有多野？](sources/zizhi-tongjian-hanji-464-gudai-de-chungongtu-daodi-you-duo-ye-lp-qvincrx1zfp5z2ggjygfnpbca.md) — 芮淇讲透资治通鉴 episode on Liu Haiyang's removal and the instructional, marital, funerary, protective, artistic, censorial, and museum contexts attributed to ancient Chinese erotic imagery.
 - [《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事](sources/zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's Chuyuan 1 relief-and-austerity context, Wang Ji and Gong Yu's summons, the "贡禹弹冠" idiom, and Gong Yu's palace-thrift remonstrance.
 - [《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？](sources/zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs.md) — 芮淇讲透资治通鉴 episode on Gong Yu's true-but-evasive thrift advice, Sima Guang's priority critique, and Wei Zheng/Fan Zhongyan as public-duty contrasts.
 - [《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？](sources/zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw.md) — 芮淇讲透资治通鉴 episode on early Han Yuandi factional politics, Xiao Wangzhi's anti-Zhongshu-eunuch memorial, Shi Gao and eunuch alignment, and Zheng Peng's first attachment to Xiao's side.
@@ -3751,6 +3752,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [广川王刘海阳 / Liu Haiyang, Guangchuan King (Western Han)](entities/LiuHaiyangGuangchuanKingWesternHan.md) — Western Han royal prince removed after allegations of killing, sexual coercion, and compulsory spectacle.
+- [周昉 / Zhou Fang (Tang Painter)](entities/ZhouFangTangPainter.md) — Tang painter source-scopingly attributed the lost `春宵密戏图` and a role in the later erotic-art label.
+- [唐寅 / Tang Yin (Ming Painter)](entities/TangYinMingPainter.md) — Ming painter connected by one source to erotic-image commerce, attributed works, and Qing prohibition.
 - [皮山国 / Pishan Kingdom (Western Han)](entities/PishanKingdomWesternHan.md) — Western Regions polity used as the bounded endpoint for Han's escort of the Jibin mission.
 - [Jibin / 罽宾 (Western Han)](entities/JibinKingdomWesternHan.md) — Distant Western Regions polity whose envoy conflicts expose the enforcement limits of Han recognition.
 - [Yinmofu / 阴末赴 / 殷墨傅 (Jibin King)](entities/YinmofuJibinKing.md) — Han-recognized local ruler identified by the episode with Hermaeus, with the equation kept source-scoped.
@@ -16128,6 +16132,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Benioff](entities/MarkBenioff.md) — Salesforce co-founder and CEO represented through grounded enterprise AI, public-market discipline, China data residency, and corporate philanthropy.
 
 ## Concepts
+- [中国古代春宫图的社会功能 / Social Functions of Ancient Chinese Erotic Imagery](concepts/AncientChineseEroticImagery.md) — Context-first frame for instructional, marital, funerary, protective, coercive, artistic, censorial, and museum uses of erotic imagery.
 - [综合军情判断 / Integrated Military Situation Assessment](concepts/IntegratedMilitarySituationAssessment.md) — 将战斗质量、兵力比例、攻守条件、行军与动员时间、地方凝聚力和经验合并为可检验的军事判断。
 - [Informal Musical Learning Network](concepts/InformalMusicalLearningNetwork.md) — Peer circulation of recordings, chords, riffs, lyrics, and practical technique through listening, imitation, and demonstration.
 - [Songwriting as Emotional Processing](concepts/SongwritingEmotionalProcessing.md) — Creative expression that can organize feeling before its source or meaning is consciously named.

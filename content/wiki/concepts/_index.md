@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9663
+wiki_total_pages: 9664
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2903,6 +2903,9 @@ wiki_pages:
   - key: "AfterHoursPowerBoundary"
     title: "下班后权力边界 / After-Hours Power Boundary"
     url: "/wiki/concepts/afterhourspowerboundary/"
+  - key: "AncientChineseEroticImagery"
+    title: "中国古代春宫图的社会功能 / Social Functions of Ancient Chinese Erotic Imagery"
+    url: "/wiki/concepts/ancientchineseeroticimagery/"
   - key: "AppointmentQualityAsStateCapacity"
     title: "任官适任性国家能力 / Appointment Quality as State Capacity"
     url: "/wiki/concepts/appointmentqualityasstatecapacity/"
