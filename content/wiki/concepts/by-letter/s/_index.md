@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9651
+wiki_total_pages: 9652
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1031,6 +1031,9 @@ wiki_pages:
   - key: "SleepMentalHealthBidirectionality"
     title: "Sleep-Mental Health Bidirectionality"
     url: "/wiki/concepts/sleepmentalhealthbidirectionality/"
+  - key: "SleepNutritionBidirectionality"
+    title: "Sleep-Nutrition Bidirectionality"
+    url: "/wiki/concepts/sleepnutritionbidirectionality/"
   - key: "SleepWakeTimingToolkit"
     title: "Sleep-Wake Timing Toolkit"
     url: "/wiki/concepts/sleepwaketimingtoolkit/"

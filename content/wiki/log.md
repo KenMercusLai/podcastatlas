@@ -28853,6 +28853,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-04] ingest | Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge
+
+Added source `eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767`; created [[MariePierreStOnge]] and [[SleepNutritionBidirectionality]]; and resynthesized [[AppetiteHormoneRegulation]] and [[CircadianEatingWindowAlignment]] from their complete preserved evidence inventories. Core synthesis: sleep and nutrition form a reciprocal system—restricted sleep can alter food reward, intake, and appetite-related hormones, while diet quality and meal timing can affect sleep architecture and substrate use. No settled contradiction was adopted. Sex-specific hormone changes, calorie and energy-expenditure estimates, sleep-stage effects, insulin and blood-pressure findings, fat oxidation, functional foods, seed oils, and timing buffers remain source-scoped because the supplied summary omits full primary-study methods. The automatic `wiki/overview.md` did not require revision for this bounded sleep–nutrition addition. The downstream manifest and paragraph ledger were refreshed to 3,671-source coverage; no topic claim set was dirty and global compaction was not due.
+
 ## [2026-10-04] ingest | 497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后
 
 Added source `497-xintianweng-dangan-jiemi-1965nian-xinjiapo-duli-yu-xinma-fenjia-de-taiqian-muhou-lo9kcfdqpzmjsavquvejrxsgouy3`; created [[XuZhenhua]], [[GohKengSwee]], [[PeoplesActionParty]], [[AlbatrossFile]], [[MalaysiaSingaporeSeparation]], [[OperationColdstore]], [[MultiracialMalaysiaPoliticalVision]], [[PeacefulPoliticalSeparation]], and [[SingaporeServiceControlGovernance]]; and resynthesized [[Singapore]], [[Malaysia]], [[HuzuoHuyou]], and [[ChengYanliang]] from their complete preserved evidence inventories. Core synthesis: the 1965 separation was neither pure expulsion nor a solitary secret plan; colonial design, Cold War security, federal inequality, ethnic politics, competing national projects, and Goh Keng Swee's negotiating initiative jointly shaped a relatively peaceful constitutional break. No settled contradiction was adopted. Operation Coldstore's legitimacy, private motives and dialogue, negotiation chronology, constitutional claims, mental-health details, casualty figures, and the exhibition's present political purpose remain source-scoped or contested.
@@ -29365,6 +29369,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] ingest | 这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》
 
 Added source `zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp`; created [[TheBackroomsFilm]], [[ObsessionCurryBarkerFilm]], [[CurryBarker]], [[BlumhouseProductions]], [[NeonFilmDistributor]], [[ContemporaryHorrorFilmResurgence]], [[LiminalSpaceHorror]], [[InternetNativeFilmmakingPipeline]], and [[ConsentViolationHorror]]; corrected `CainParsons` to [[KaneParsons]] while preserving both evidence sources; and resynthesized [[A24]] and [[DianyingJubian]] from their complete preserved evidence inventories. Core synthesis: contemporary horror joins low-cost industry structure, festival and brand legitimation, bodily spectatorship, social criticism, and online creator discovery; the Backrooms case shows how commercial feature adaptation can reduce spatial uncertainty, while 《痴迷》 turns coerced love and romantic entitlement into consent-centered body horror. No settled contradiction was adopted. The “golden age” periodization, budgets, acquisitions, view counts, creator biographies, company roles, festival history, future projects, and film readings remain episode-attributed or interpretive. The automatic `wiki/overview.md` was updated during normal ingest, then only read by downstream synthesis refresh. The culture-and-media and work-education-and-society claim sets were refreshed, the material-candidate gate triggered global compaction, and the manifest and paragraph ledger were refreshed to 3,670-source coverage.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-04] lint | Wiki health check
 

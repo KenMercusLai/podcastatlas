@@ -15437,9 +15437,9 @@
       "url": "/wiki/concepts/appeasementlogic/"
     },
     "AppetiteHormoneRegulation": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM9260736648 [SCIM9260736648].md",
@@ -15475,9 +15475,16 @@
           "show": "Huberman Lab",
           "title": "How Hormones Control Hunger, Eating & Satiety",
           "url": "/wiki/sources/scim1789507430-scim1789507430/"
+        },
+        {
+          "episode_file": "SCIM5220943767 [SCIM5220943767].md",
+          "key": "eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767",
+          "show": "Huberman Lab",
+          "title": "Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge",
+          "url": "/wiki/sources/eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/appetitehormoneregulation/"
     },
     "AppleMetal": {
@@ -39277,9 +39284,9 @@
       "url": "/wiki/concepts/cinemaasnationalmemory/"
     },
     "CircadianEatingWindowAlignment": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM3664199211 [SCIM3664199211].md",
@@ -39315,9 +39322,16 @@
           "show": "Huberman Lab",
           "title": "Healthy Eating & Eating Disorders: Metabolism, Anorexia, Bulimia, and Binge Eating",
           "url": "/wiki/sources/scim4349715199-scim4349715199/"
+        },
+        {
+          "episode_file": "SCIM5220943767 [SCIM5220943767].md",
+          "key": "eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767",
+          "show": "Huberman Lab",
+          "title": "Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge",
+          "url": "/wiki/sources/eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/circadianeatingwindowalignment/"
     },
     "CircadianHomeostaticEnvironmentalModel": {
@@ -138317,6 +138331,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/marieantoinette/"
     },
+    "MariePierreStOnge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5220943767 [SCIM5220943767].md",
+          "key": "eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767",
+          "show": "Huberman Lab",
+          "title": "Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge",
+          "url": "/wiki/sources/eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/mariepierrestonge/"
+    },
     "MarieWalewska": {
       "episode_count": 1,
       "show_count": 1,
@@ -193990,6 +194020,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/sleepmentalhealthbidirectionality/"
+    },
+    "SleepNutritionBidirectionality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5220943767 [SCIM5220943767].md",
+          "key": "eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767",
+          "show": "Huberman Lab",
+          "title": "Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge",
+          "url": "/wiki/sources/eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/sleepnutritionbidirectionality/"
     },
     "SleepSpindleSchemaFormation": {
       "episode_count": 2,

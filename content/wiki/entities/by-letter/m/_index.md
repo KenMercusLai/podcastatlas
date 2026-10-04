@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12307
+wiki_total_pages: 12308
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "MarieLouiseVonFranz"
     title: "Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹"
     url: "/wiki/entities/marielouisevonfranz/"
+  - key: "MariePierreStOnge"
+    title: "Marie-Pierre St-Onge"
+    url: "/wiki/entities/mariepierrestonge/"
   - key: "MarijaGimbutas"
     title: "Marija Gimbutas"
     url: "/wiki/entities/marijagimbutas/"
