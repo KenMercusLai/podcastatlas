@@ -29249,3 +29249,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573`; created [[NaveenRao]], [[UnconventionalAI]], [[UNO]], [[PhysicalDynamicalComputing]], [[AIDataMovementEnergyCost]], and [[IntelligencePerWatt]]; and resynthesized [[BiologicalProcessorEnergyEfficiency]] and [[JevonsParadoxInAI]] from their complete preserved evidence inventories. Core synthesis: the episode frames AI's energy wall as an architectural data-movement problem and presents sparse coupled oscillators, local state, die stacking, and temporal dynamics as a possible alternative substrate. No settled contradiction was adopted. The reported 500-nanojoule image, 1,000-fold target, traffic and thermodynamic comparisons, two-year product plan, and distributed-robotics forecast remain company or episode claims pending matched benchmarks, independent replication, and full-system deployment evidence. The automatic `wiki/overview.md` was updated during normal ingest, then only read by downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,656-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

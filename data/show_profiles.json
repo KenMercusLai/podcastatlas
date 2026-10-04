@@ -149,14 +149,14 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-10-02",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Trump’s Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm .md",
-      "source_note_count": 77,
-      "topic_matched_source_note_count": 69,
+      "source_note_count": 78,
+      "topic_matched_source_note_count": 70,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 53
+          "source_note_count": 54
         },
         {
           "key": "politics",

@@ -2,42 +2,57 @@
 title: "Jevons Paradox In AI"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, kate-crawford-mapping-empires]
-last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
+sources:
+  - e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817
+  - all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390
+  - all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260
+  - cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1
+  - e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf
+  - kate-crawford-mapping-empires
+  - all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573
+last_updated: 2026-10-04
 ---
 
 # Jevons Paradox In AI
 
-[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds [[ZhangHongjiang|张宏江]]'s token-economics version. He argues that as technology matures, token cost can fall dramatically while total consumption grows faster, especially because agents create more loops, more subtasks, and more use cases. [[Dongxu]]'s local-model examples show the user-level version: cheaper or fixed-cost inference makes people attempt work they previously avoided.
+## Definition
+Jevons paradox in AI is the rebound pattern in which lower cost or resource use per token, task, or unit of capability makes more AI usage worthwhile, potentially increasing total compute, memory, storage, energy, water, and infrastructure demand.
 
-[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds the token-price version. The hosts say token prices can fall sharply while total demand expands through more users, longer agent loops, and broader enterprise workflows, which keeps [[DataCenterPowerBottleneck]] and [[AIInferenceCostStructure]] central even after routing savings.
-
-[[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds the knowledge-worker demand version through [[DavidSacks|David Sacks]]. Sacks argues that cheaper AI can increase demand for code, radiology, and other knowledge work rather than simply replacing workers, putting the concept in direct tension with [[EntryLevelAICareerLadderRisk]].
-
-Jevons paradox in AI is the E155 argument that falling per-token cost can increase total AI consumption rather than reduce aggregate compute demand. The episode compares token efficiency to fuel efficiency: if each use becomes cheaper, people and agents may use the system more often, for more rounds, across more tasks, and inside more products.
-
-[[kate-crawford-mapping-empires]] adds the environmental version. [[KateCrawford]] argues that efficiency gains do not solve AI's resource problem if cheaper generation leads AI to be embedded into more schools, workplaces, platforms, and media workflows, increasing total energy, water, and infrastructure demand.
-
-[[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds the memory-demand version. The source argues that algorithmic and memory-compression improvements do not automatically reduce total storage demand, because larger context windows, more agent steps, and more inference workloads can consume the saved capacity.
+## Current Synthesis
+Across the sources, efficiency changes behavior as well as unit economics. Cheaper tokens invite more users, calls, agent loops, context, model routing, and knowledge work; better memory use supports longer workflows; and a radically lower-power substrate could move AI into more facilities, devices, and robots. The rebound is plausible but not automatic: aggregate demand depends on price elasticity, useful applications, capital, power, regulation, substitution, and whether quality-adjusted costs actually fall. Environmental burdens therefore cannot be inferred from device efficiency alone.
 
 ## Key Claims
-- Better chips, inference architecture, routing, and engineering can lower the cost of one token.
-- Lower cost can unlock more calls, longer contexts, deeper reasoning loops, more users, and more always-on agents.
-- Agentic workflows create non-human token demand because software agents can call models repeatedly while planning, acting, checking, and repairing.
-- Cost decline therefore does not automatically reduce demand for GPUs, power, cooling, storage, or network capacity.
-- The paradox turns efficiency gains into an infrastructure-scaling problem: the system needs cheaper tokens and more total capacity at the same time.
-- Efficiency improvements can increase total environmental burden when deployment expands faster than per-use resource demand falls.
-- Memory efficiency can raise total demand when better utilization makes longer contexts, more agents, and more recoverable workflows practical.
-- The All-In source adds a labor-demand version: cheaper AI assistance can expand total demand for reviewed knowledge outputs even if some tasks become easier.
-- E249 adds that [[TokenEfficientAgentWorkflow]] can lower cost per task while still expanding total agent work because more tasks become worth delegating.
+- Lower per-token or per-task cost can unlock workloads that were previously uneconomic or psychologically too expensive to attempt.
+- Agents amplify rebound because planning, tool use, memory, checking, repair, and collaboration require repeated model calls.
+- Model routing and local execution can reduce marginal cost while increasing the frequency and duration of use.
+- Memory and storage efficiency can raise total demand by enabling longer contexts, more saved state, and more recoverable workflows.
+- Cheaper knowledge production may increase demand for reviewed human outputs, although effects on entry-level work and wages remain contested.
+- Per-use efficiency does not guarantee lower aggregate energy, water, materials, or infrastructure demand.
+- A 1,000-fold hardware improvement would create new deployment possibilities, but the claim that consumption will rise by more than 1,000-fold is a forecast, not a demonstrated outcome.
 
-## Connections
-- [[AIInferenceCostStructure]] — per-token and workflow-level cost pressure.
-- [[MaaSInfrastructure]] — serving layer that must convert compute into stable token supply.
-- [[AIInvestmentMetrics]] — token growth is a useful metric only when interpreted with cost and revenue.
-- [[AgenticWorkflow]], [[TokenDrivenSoftware]], and [[AISkills]] — usage patterns that can increase token demand.
-- [[HumanResourceDeflationComputeInfrastructureInflation]] — aggregate shift from human labor costs to compute infrastructure demand.
-- [[AIMetabolicInfrastructure]], [[DataCenterThermalManagement]], and [[DataCenterBacklash]] — ecological and local-infrastructure implications added by Crawford.
-- [[MemoryWall]], [[AIDataCenterMemoryHierarchy]], [[AgentEraNANDStorage]], and [[AIStorageSupercycle]] — memory-demand extension added by What's Next.
-- [[DavidSacks|David Sacks]], [[EntryLevelAICareerLadderRisk]], and [[HumanJudgmentUnderAI]] - labor-market tension added by All-In.
-- [[ZhangHongjiang]], [[Dongxu]], [[TokenEfficientAgentWorkflow]], and [[LocalAgentExecution]] — E249's price-decline and local-inference demand extension.
+## Evidence
+- Token and agent demand: [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]], [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]], and [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] describe falling token prices, routing, local execution, and repeated agent loops expanding use.
+- Memory and workflow rebound: [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] connects compression and utilization gains to longer contexts, more agent steps, and greater storage demand.
+- Labor-demand possibility: [[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] presents the source-scoped argument that cheaper code, radiology, and other knowledge work could increase demand while preserving tension with entry-level displacement.
+- Environmental boundary: [[kate-crawford-mapping-empires]] argues that wider embedding can increase total energy, water, minerals, land, and waste even as individual generations become cheaper.
+- Architectural-efficiency forecast: [[all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573]] predicts that 1,000-fold cheaper computation could drive more than 1,000-fold consumption and enable distributed AI and robotics.
+
+## Counterevidence & Qualifications
+Jevons paradox is not a law that guarantees aggregate growth. Saturation, weak demand, regulation, capital limits, model-quality ceilings, energy scarcity, hardware supply, environmental policy, or substitution away from other activities can weaken or reverse the rebound. Source examples and forecasts do not estimate elasticity consistently, and total environmental impact depends on the energy mix, water system, hardware lifecycle, utilization, and displaced alternatives. Cheaper knowledge work can increase output demand while still reducing particular roles or entry-level pathways.
+
+## What Changed
+- Migrated the page to the synthesis-v1 schema using the complete preserved evidence inventory.
+- Added radically lower-power hardware as a possible deployment-expansion channel.
+- Qualified the new 1,000-fold consumption forecast as untested rather than treating rebound as automatic.
+- Consolidated token, agent, memory, labor, and environmental forms into one current judgment.
+
+## Related Concepts
+- [[AIInferenceCostStructure]] - unit-cost frame whose decline can trigger additional usage.
+- [[TokenEfficientAgentWorkflow]] - efficiency practice that can lower task cost while expanding delegated work.
+- [[ModelRoutingCostControl]] - routing mechanism that changes marginal price and usage behavior.
+- [[MemoryWall]] - capacity and bandwidth constraint affected by longer contexts and more workflows.
+- [[IntelligencePerWatt]] - efficiency target whose aggregate effect depends on rebound.
+- [[DataCenterPowerBottleneck]] - physical limit that may persist even as work per watt improves.
+- [[AIMetabolicInfrastructure]] - environmental accounting frame for total energy, water, materials, and waste.
+- [[EntryLevelAICareerLadderRisk]] - labor-market counterpoint to claims that cheaper knowledge work expands employment.

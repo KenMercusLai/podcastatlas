@@ -7816,6 +7816,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIDataMovementEnergyCost": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIDataPrivacyLaw": [
     {
       "key": "technology",
@@ -44868,6 +44875,13 @@
       "url": "/topics/history/"
     }
   ],
+  "IntelligencePerWatt": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "IntelligenceTesting": [
     {
       "key": "culture",
@@ -58620,6 +58634,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "NaveenRao": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "NavierStokesEquations": [
     {
       "key": "science",
@@ -63591,6 +63617,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PhysicalDynamicalComputing": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "PhysicalGameEraDecline": [
@@ -84331,6 +84364,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "UnconventionalAI": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "UndergroundMoneyTransferRisk": [
     {
       "key": "economics",
@@ -93625,6 +93665,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435": [

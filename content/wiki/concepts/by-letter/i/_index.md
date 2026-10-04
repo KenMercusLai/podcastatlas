@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9612
+wiki_total_pages: 9615
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "IntelligenceLiaisonRisk"
     title: "Intelligence Liaison Risk / 情报盟友协作风险"
     url: "/wiki/concepts/intelligenceliaisonrisk/"
+  - key: "IntelligencePerWatt"
+    title: "Intelligence Per Watt"
+    url: "/wiki/concepts/intelligenceperwatt/"
   - key: "IntelligenceTesting"
     title: "Intelligence Testing / 智力测试"
     url: "/wiki/concepts/intelligencetesting/"

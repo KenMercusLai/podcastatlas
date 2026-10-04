@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 12274
+wiki_total_pages: 12277
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "NAURA"
     title: "NAURA / 北方华创"
     url: "/wiki/entities/naura/"
+  - key: "NaveenRao"
+    title: "Naveen Rao"
+    url: "/wiki/entities/naveenrao/"
   - key: "NawafSalam"
     title: "Nawaf Salam"
     url: "/wiki/entities/nawafsalam/"

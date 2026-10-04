@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9612
+wiki_total_pages: 9615
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -761,6 +761,9 @@ wiki_pages:
   - key: "PhysicalBookPlatformBridge"
     title: "Physical Book Platform Bridge"
     url: "/wiki/concepts/physicalbookplatformbridge/"
+  - key: "PhysicalDynamicalComputing"
+    title: "Physical Dynamical Computing"
+    url: "/wiki/concepts/physicaldynamicalcomputing/"
   - key: "PhysicalGameEraDecline"
     title: "Physical Game Era Decline"
     url: "/wiki/concepts/physicalgameeradecline/"

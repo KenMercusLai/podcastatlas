@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9612
+wiki_total_pages: 9615
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "AIDataMemoryInfrastructure"
     title: "AI Data Memory Infrastructure"
     url: "/wiki/concepts/aidatamemoryinfrastructure/"
+  - key: "AIDataMovementEnergyCost"
+    title: "AI Data Movement Energy Cost"
+    url: "/wiki/concepts/aidatamovementenergycost/"
   - key: "AIDataPrivacyLaw"
     title: "AI Data Privacy Law"
     url: "/wiki/concepts/aidataprivacylaw/"

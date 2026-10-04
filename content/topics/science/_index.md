@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1446
+topic_total_pages: 1447
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2990,6 +2990,9 @@ topic_entities:
   - key: "NationalScienceFoundation"
     title: "National Science Foundation"
     url: "/wiki/entities/nationalsciencefoundation/"
+  - key: "NaveenRao"
+    title: "Naveen Rao"
+    url: "/wiki/entities/naveenrao/"
   - key: "NicholasCulpeper"
     title: "Nicholas Culpeper"
     url: "/wiki/entities/nicholasculpeper/"

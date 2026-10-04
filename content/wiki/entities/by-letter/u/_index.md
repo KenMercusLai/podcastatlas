@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 12274
+wiki_total_pages: 12277
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1968"
     title: "1968 United States Presidential Election"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "Una"
     title: "Una"
     url: "/wiki/entities/una/"
+  - key: "UnconventionalAI"
+    title: "Unconventional AI"
+    url: "/wiki/entities/unconventionalai/"
   - key: "UnderstandTedChiang"
     title: "Understand"
     url: "/wiki/entities/understandtedchiang/"
@@ -305,6 +308,9 @@ wiki_pages:
   - key: "UnknownWarrior"
     title: "Unknown Warrior"
     url: "/wiki/entities/unknownwarrior/"
+  - key: "UNO"
+    title: "UNO"
+    url: "/wiki/entities/uno/"
   - key: "UNTUCKit"
     title: "UNTUCKit"
     url: "/wiki/entities/untuckit/"

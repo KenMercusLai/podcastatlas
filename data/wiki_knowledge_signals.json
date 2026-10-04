@@ -2099,6 +2099,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/aidatamemoryinfrastructure/"
     },
+    "AIDataMovementEnergyCost": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Naveen Rao： 4D Computing, AI's Energy Wall & Beating Biology [42983573].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/aidatamovementenergycost/"
+    },
     "AIDataPrivacyLaw": {
       "episode_count": 1,
       "show_count": 1,
@@ -24158,9 +24174,9 @@
       "url": "/wiki/concepts/biologicalmindbodymechanisms/"
     },
     "BiologicalProcessorEnergyEfficiency": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CFAD6777888A0514D1A288ECCC8E7055~8584408_2026-08-10-214008-8787-0-0-1.128 [CFAD6777888A0514D1A288ECCC8E7055~8584408_2026-08-10-214008-8787-0-0-1.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83a324].md",
@@ -24168,9 +24184,16 @@
           "show": "Data Science With Sam",
           "title": "EP 37: Neurons: Future of AI Processing",
           "url": "/wiki/sources/ep-37-neurons-future-of-ai-processing/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Naveen Rao： 4D Computing, AI's Energy Wall & Beating Biology [42983573].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/biologicalprocessorenergyefficiency/"
     },
     "BiologicalRationalityMismatch": {
@@ -107520,6 +107543,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/intelligencehistoryevidenceboundary/"
     },
+    "IntelligencePerWatt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Naveen Rao： 4D Computing, AI's Energy Wall & Beating Biology [42983573].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/intelligenceperwatt/"
+    },
     "IntensiveCareAsTimeBuying": {
       "episode_count": 5,
       "show_count": 1,
@@ -112719,6 +112758,64 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/jev/"
+    },
+    "JevonsParadoxInAI": {
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
+          "key": "e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817",
+          "show": "硅谷101",
+          "title": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路",
+          "url": "/wiki/sources/e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - All-In's 2026 Predictions [39681260].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "All-In's 2026 Predictions",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260/"
+        },
+        {
+          "episode_file": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13 [c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1].md",
+          "key": "cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1",
+          "show": "What's Next｜科技早知道",
+          "title": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13",
+          "url": "/wiki/sources/cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1/"
+        },
+        {
+          "episode_file": "E155.似乎没什么人再提「AI 泡沫论」了 [lkon87VgPkdkQ9Ll_fG0eaBnUubF].md",
+          "key": "e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf",
+          "show": "面基",
+          "title": "E155.似乎没什么人再提「AI 泡沫论」了",
+          "url": "/wiki/sources/e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf/"
+        },
+        {
+          "episode_file": "02025-crawford-podcast-v3 [02025-crawford-podcast-v3].md",
+          "key": "kate-crawford-mapping-empires",
+          "show": "Long Now",
+          "title": "Kate Crawford: Mapping Empires",
+          "url": "/wiki/sources/kate-crawford-mapping-empires/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Naveen Rao： 4D Computing, AI's Energy Wall & Beating Biology [42983573].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/jevonsparadoxinai/"
     },
     "JiTongEasternHan": {
       "episode_count": 3,
@@ -149364,6 +149461,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/navalbreakthroughtactics/"
     },
+    "NaveenRao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Naveen Rao： 4D Computing, AI's Energy Wall & Beating Biology [42983573].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/naveenrao/"
+    },
     "NavierStokesEquations": {
       "episode_count": 2,
       "show_count": 2,
@@ -163402,6 +163515,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/physicalaihardtakeoff/"
+    },
+    "PhysicalDynamicalComputing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Naveen Rao： 4D Computing, AI's Energy Wall & Beating Biology [42983573].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/physicaldynamicalcomputing/"
     },
     "PhysicalManufacturingApplicationMoat": {
       "episode_count": 1,
@@ -212174,6 +212303,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/unhcr/"
     },
+    "UNO": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Naveen Rao： 4D Computing, AI's Energy Wall & Beating Biology [42983573].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/uno/"
+    },
     "USBorderPatrol": {
       "episode_count": 2,
       "show_count": 2,
@@ -213176,6 +213321,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/unconsciouscomplexrepetition/"
+    },
+    "UnconventionalAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Naveen Rao： 4D Computing, AI's Energy Wall & Beating Biology [42983573].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/unconventionalai/"
     },
     "UndefinedWarObjectives": {
       "episode_count": 1,

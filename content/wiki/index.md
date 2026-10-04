@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology](sources/all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573.md) — All-In interview on oscillator-based physical computing, data-movement energy, biological efficiency, and the qualification gates around a reported 500-nanojoule prototype.
 - [京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权](sources/jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449.md) — 声动早咖啡 on brand-mark confusion, robot supply chains, automotive licensing, AI security controls, memory competition, holiday fares, and mobile agents.
 - [Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡](sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow.md) — 文化有限 cross-media autumn special on restorative attention, finite relationships, relational silence, communal repair, punitive fantasy, and exploration optimism.
 - [Episode 229: 钓一条大鱼](sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605.md) — 迟早更新 on evidence-calibrated criticism, short-review incentives, plural birdwatching motives, and whether nature writing makes its subjects thicker or thinner.
@@ -3718,6 +3719,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
 
 ## Entities
+- [Naveen Rao](entities/NaveenRao.md) — AI-hardware entrepreneur connecting neuroscience, chips, infrastructure, and physical dynamical computing.
+- [Unconventional AI](entities/UnconventionalAI.md) — Company developing coupled-oscillator hardware and a rack-scale AI product roadmap.
+- [UNO](entities/UNO.md) — Trainable oscillator image model and early physical dynamical-computing prototype.
 - [Apple Smart Home Display](entities/AppleSmartHomeDisplay.md) — Reported household screen combining Siri, device control, communication, media, and personalized family information.
 - [Decathlon / 迪卡侬](entities/Decathlon.md) — Sporting-goods retailer named in New Balance's source-reported Keep Run trademark dispute.
 - [《无界之环》](entities/BoundlessRingFilm.md) — Border film using split images and identical twins to question war labels and binary identity.
@@ -16040,6 +16044,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Space Shuttle Challenger / 挑战者号](entities/SpaceShuttleChallenger.md) — NASA shuttle lost in 1986, synthesized as a coupled component, warning-escalation, and program-governance failure.
 
 ## Concepts
+- [Physical Dynamical Computing](concepts/PhysicalDynamicalComputing.md) — Computation through trained evolution of coupled physical elements rather than only conventional digital instruction sequences.
+- [AI Data Movement Energy Cost](concepts/AIDataMovementEnergyCost.md) — Power spent transporting model state among memory, compute, chips, and systems rather than performing useful arithmetic.
+- [Intelligence Per Watt](concepts/IntelligencePerWatt.md) — Quality-adjusted objective for useful AI capability delivered per unit of electrical power.
 - [AI Agent Target Validation](concepts/AIAgentTargetValidation.md) — Controls ensuring security agents act only on exact intended systems, identities, and authorized scopes.
 - [Automotive Technology Licensing](concepts/AutomotiveTechnologyLicensing.md) — Automakers monetizing cockpit, chip, software, and assisted-driving R&D across other vehicle brands.
 - [Cross-Segment Memory Competition](concepts/CrossSegmentMemoryCompetition.md) — DRAM and NAND suppliers crossing historical product boundaries and becoming direct competitors.
