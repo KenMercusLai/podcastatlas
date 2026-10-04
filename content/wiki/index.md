@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [崔健×罗永浩！去天堂和去地狱，都要带上艺术家](sources/cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii.md) — 罗永浩与崔健谈四十周年演出、怀旧与继续创作、现场连接、专辑形态、低成本制作、音乐学习和 AI 边界。
 - [Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin](sources/essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937.md) — Huberman Lab Essentials episode on adaptation-specific resistance training, superset tradeoffs, movement intent, target-muscle activation, and post-workout downregulation.
 - [《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？](sources/zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0.md) — 公孙敖寻李陵失败后的误报引发李陵家族覆灭，李绪误认与复仇补全悲剧链条，并以公孙敖生涯讨论欲望与能力失配。
 - [《资治通鉴·汉纪》380-3｜古代男子宫刑过程揭秘](sources/zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9.md) — 芮淇讲透资治通鉴 episode on Sima Qian's punitive castration, shame, constrained survival for Shiji, and source-scoped medical explanations.
@@ -6420,7 +6421,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [东野圭吾 / Higashino Keigo](entities/HigashinoKeigo.md) — Japanese mystery writer framed through Chinese reader memory, clean prose, moral ambiguity, and crime's social causes.
 - [施南生 / Nansun Shi](entities/NansunShi.md) — Hong Kong film figure represented through memorial-site form, affectionate testimony, and public creator remembrance.
 - [手工耿 / Shougong Geng](entities/ShougongGeng.md) — Chinese maker and short-video creator whose welded inventions sit between usefulness, comedy, craft, and art interpretation.
-- [罗永浩的十字路口 / Luo Yonghao's Crossroads](entities/LuoyonghaosCrossroads.md) — long-form interview show context for Luo Yonghao's creator, engineering-founder, status-signaling, and money-and-debt conversations.
+- [罗永浩的十字路口 / Luo Yonghao's Crossroads](entities/LuoyonghaosCrossroads.md) — long-form interview and panel show spanning creator craft, founders, social ethics, film, AI, mortality, and music.
 - [无聊斋 / Wuliaozhai](entities/Wuliaozhai.md) — comedy-podcast context represented by a fear-themed live crossover with 罗永浩的十字路口.
 - [郑执 / Zheng Zhi](entities/ZhengZhiWriter.md) — writer, screenwriter, and director whose interview links Northeast literature, screenwriting survival, family memory, and a first feature film.
 - [《身中有林》 / Shen Zhong You Lin](entities/ShenzhongYoulinFilm.md) — Zheng Zhi's director debut discussed through adaptation, family-crime premise, casting, editing, and theatrical release constraints.
@@ -8528,7 +8529,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《江湖儿女》 / Ash Is Purest White](entities/JiangHuErNv.md) — Jia Zhangke film used in EP276 to show departure as imagined fate, memory, and repeated separation.
 - [《天注定》 / A Touch of Sin](entities/TianZhuDing.md) — Jia Zhangke film whose production memories ground EP276's mobile young-worker example.
 - [《风流一代》 / Caught by the Tides](entities/FengLiuYiDai.md) — Jia Zhangke film context for EP276's claim that an old era recedes because a new AI-marked civilization approaches.
-- [崔健 / Cui Jian](entities/CuiJian.md) — Musician used in EP276 as a generational-memory example inside Jia Zhangke's discussion of age, platforms, and cultural continuity.
+- [崔健 / Cui Jian](entities/CuiJian.md) — Musician whose profile now connects generational memory with present-tense performance, production autonomy, albums, learning, AI, and live human connection.
 - [平遥国际电影展 / Pingyao International Film Festival](entities/PingyaoInternationalFilmFestival.md) — Film festival context where Jia Zhangke discusses AI posters, AI shorts, and a "Modern Times" theme for AI's entrance into cinema.
 - [阎象 / Yan Xiang (late Han)](entities/YanXiangLateHan.md) — Yuan Shu's chief clerk whose Zhou Wenwang comparison warns that family prestige and Han weakness do not justify an imperial claim.
 - [张范 / Zhang Fan (late Han)](entities/ZhangFanLateHan.md) — Recluse who refuses Yuan Shu's recruitment and sends Zhang Cheng instead, withholding symbolic endorsement from the title project.
@@ -16140,6 +16141,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Benioff](entities/MarkBenioff.md) — Salesforce co-founder and CEO represented through grounded enterprise AI, public-market discipline, China data residency, and corporate philanthropy.
 
 ## Concepts
+- [Artistic Continuity Against Nostalgia](concepts/ArtisticContinuityAgainstNostalgia.md) — Principle that a living artist can honor audience memory without freezing work into its remembered form.
+- [Live Music Human Connection](concepts/LiveMusicHumanConnection.md) — Value created through performer-listener co-presence, attention, bodily sound, risk, and response.
+- [Album as Integrated Work](concepts/AlbumAsIntegratedWork.md) — View of albums as sequenced, cumulative works whose artistic form exceeds their peak single.
+- [Low-Cost Creative Autonomy](concepts/LowCostCreativeAutonomy.md) — How lower failure costs and reduced capital pressure can widen creative experimentation without removing the need for craft.
+- [Music Language Expansion](concepts/MusicLanguageExpansion.md) — Broadening musical perception and expression through additional genres, rhythms, timbres, traditions, and technologies.
 - [中国古代春宫图的社会功能 / Social Functions of Ancient Chinese Erotic Imagery](concepts/AncientChineseEroticImagery.md) — Context-first frame for instructional, marital, funerary, protective, coercive, artistic, censorial, and museum uses of erotic imagery.
 - [综合军情判断 / Integrated Military Situation Assessment](concepts/IntegratedMilitarySituationAssessment.md) — 将战斗质量、兵力比例、攻守条件、行军与动员时间、地方凝聚力和经验合并为可检验的军事判断。
 - [Informal Musical Learning Network](concepts/InformalMusicalLearningNetwork.md) — Peer circulation of recordings, chords, riffs, lyrics, and practical technique through listening, imitation, and demonstration.

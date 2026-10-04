@@ -15,99 +15,52 @@ sources:
   - zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0
   - caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1
   - wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs
-last_updated: 2026-09-14
+  - cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
 # 罗永浩的十字路口 / Luo Yonghao's Crossroads
 
 ## Overview
-罗永浩的十字路口 / Luo Yonghao's Crossroads is represented as a long-form show hosted by [[LuoYonghao|罗永浩]], currently covering creator craft through [[ShougongGeng|手工耿]], engineering-led EV entrepreneurship through [[ZhuJiangming|朱江明]] and [[Leapmotor|零跑汽车]], comedy-panel social theory through [[XiaoQiStandup|小齐]], [[ZhangJunStandup|张俊]], and [[ShiLifen|史礼芬]], live comedy money, snobbery, relationship, emotional stability, fear, and AI anxiety through recurring panel formats, and Hong Kong film industry memory through [[WongJing|王晶]].
+罗永浩的十字路口 / Luo Yonghao's Crossroads is represented as a long-form show hosted by [[LuoYonghao|罗永浩]] that converts biography, work practice, public persona, and disagreement into analyzable operating and value questions across craft, entrepreneurship, comedy, film, AI, mortality, and music.
 
 ## Current Profile
-Across the current sources, the show works by turning biography, work practice, and public persona into analyzable operating logic. In the 手工耿 episode, Luo uses product, craft, utility, comedy, and art language to clarify why a handmade object can be funny and serious at the same time. In the Zhu Jiangming episode, the same long-form style follows an engineering founder from electronics and Dahua into Leapmotor, using concrete product mistakes, capital pressure, manufacturing choices, and globalization structure to explain why a low-profile automaker can become commercially visible.
+The one-to-one interviews follow creators and operators through concrete choices: [[ShougongGeng|手工耿]] through craft and commercialization, [[ZhuJiangming|朱江明]] through engineering-led EV production, [[WongJing|王晶]] through Hong Kong film's commercial system, [[ZhengZhiWriter|郑执]] through literary-film authorship, and [[CaiKangyong|蔡康永]] through aging, grief, and death. The panel and crossover episodes use humor, thought experiments, and self-disclosure to make status, debt, relationship technology, mental-health labels, emotional stability, public expression, fear, and AI anxiety discussable while retaining source-scope boundaries.
 
-The "装逼" panel extends the format beyond one-to-one founder or creator interviews. Luo uses a group conversation to turn teasing among comedians into a theory of [[ZhuangbiAsSocialSignaling|status display]], [[CulturalGapStatusSignaling|cultural gap]], and [[StandupClassPositionEqualization|stand-up's class-position reversal]].
-
-The money-and-debt panel shows the same group format handling a more uncomfortable subject. It begins with trend-following and advertising jokes, then uses small friend loans, campus-loan chains, public fundraising, Smartisan debt, livestream repayment, and collection tactics to build [[FriendLendingBoundary|friend lending]] as a relationship boundary problem.
-
-The "势利" panel extends the live-comedy mode from money into social ethics. [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] has Luo and Sixiao participants treat snobbery as value ranking across intelligence, taste, morality, opportunity, work, family, romance, and luxury goods. The show uses extreme dilemmas and everyday stories to make [[SnobberyAsValueRanking]], [[EthicalTriageUnderScarcity]], and [[DiamondRomanceMarketingTrap]] discussable without converting them into a formal philosophy seminar.
-
-The flaw-themed panel adds a public-persona and mental-health-label mode. [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] moves from baldness and ADHD into compulsive order, family pressure, good and bad reviews, online backlash, doxxing, and "活人感." The show again uses jokes and mutual interrogation to keep uncomfortable material speakable while preserving source-scoped boundaries around diagnosis, treatment, family impact, and platform-safety claims.
-
-The relationship-technology panel adds an explicit counterfactual ethics mode. [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]] uses AI-generated questions about loyalty drugs, perfect AI partners, pain-sharing, infidelity-memory deletion, and 100% compatibility to turn intimate decisions into public value sorting around [[RelationshipTechnologyEthics]], [[AICompanionAuthenticityBoundary]], and [[MemoryDeletionEthics]].
-
-The emotional-stability panel adds an argument-and-public-expression mode. [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] uses red/green stance-taking, constant interruption, and self-mocking format commentary to turn adult composure, online trolls, blocking, creator misreading, road rage, and dissent contact into analyzable public behavior.
-
-The show also has a film-history mode. Luo's questioning lets [[WongJing|王晶]] move from childhood reading and TVB writing discipline into [[HongKongFilmIndustry]], [[CommercialFilmAudienceLogic]], Taiwan-market dependence, gang pressure, piracy, northbound production, and the [[ActorAIPerformanceBoundary|actor and AI performance boundary]].
-
-The Zheng Zhi episode adds a film-author profile mode. [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]] starts from [[ShenzhongYoulinFilm|《身中有林》]] promotion, then uses specific questions about title, casting, editing, spoilers, roadshows, dialect, debt, and AI-era production cost to build [[ZhengZhiWriter|郑执]] as a writer-director case.
-
-The Cai Kangyong episode adds a mortality-and-public-memory mode. [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]] uses a long celebrity interview to move from [[KangxiLaile|《康熙来了》]] and hosting craft into aging, AI simulation, grief advice, written art, wills, funerals, long-lived loneliness, and whether meaning appears only while living.
-
-The Wuliaozhai crossover adds a fear-and-AI mode. [[wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs]] starts with social embarrassment, medical vulnerability, refusal difficulty, face blindness, and audience stories, then turns the same fear frame toward AI hallucination, copyright, job replacement, existential risk, cross-model verification, and AI companionship.
+The Cui Jian interview adds an artist-audience negotiation mode. Luo speaks as a longtime fan seeking original arrangements and official live recordings; [[CuiJian|崔健]] answers from present artistic judgment, new work, album form, production autonomy, broad musical learning, and the human bond of live performance. The format's value lies in sustaining the disagreement long enough for promotion talk to become a wider account of creativity and musical life.
 
 ## Key Characteristics
-- Long-form interview venue centered on biography, work methods, product judgment, and public interpretation.
-- Host-led conceptual framing that turns a guest's personal story into an analyzable operating problem.
-- Product-minded questioning about materials, pricing, reliability, technical systems, commercialization, channels, and customer fit.
-- Culture-facing format that can move between craft/art interpretation, industrial-company strategy, comedic social analysis, film-industry oral history, and film-author profiles.
-- Live-panel format can use jokes, ads, audience interaction, mutual teasing, and persona contrast to make sensitive money, status, and moral topics discussable.
-- Public-persona and counterfactual ethics format that can turn flaws, diagnoses, visible anxieties, review pressure, and speculative technology into social analysis without becoming formal clinical or relationship guidance.
-- Emotional-stability, mortality, and fear-facing format that can use live disagreement, celebrity interview, or audience stories to test public expression, online hygiene, conflict retreat, aging, death planning, everyday vulnerability, AI verification, companionship, and life meaning.
+- Long-form interview venue centered on biography, work methods, public judgment, and the logic behind choices.
+- Host-led framing that turns personal stories into explicit product, cultural, ethical, or artistic problems.
+- Product and production attention spanning materials, pricing, manufacturing, film, recording, release, and audience use.
+- Live-panel mode that uses comedy and counterfactuals to make sensitive social subjects speakable.
+- Self-disclosure mode that lets the host's own failures, fears, relationships, and preferences become contestable evidence.
+- Cross-domain range that now includes creator craft, EVs, social theory, film history, mortality, AI, and music.
 
 ## Evidence
-- Long-form creator interview: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] follows 手工耿 from childhood and manual work into self-media, business choices, tool use, safety incidents, and public evaluation.
-- Founder-company interview: [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]] follows Zhu Jiangming through Yiwu, electronics, Dahua, Leapmotor startup, S01 failure, C11 turning point, Stellantis partnership, and world-class automaker goals.
-- Comedy-panel social analysis: [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]] contrasts Xiao Qi, Zhang Jun, and Shi Lifen to analyze education, accent, vocabulary, taste, social media, and self-deprecation as status signals.
-- Conceptual framing: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] turns useful/useless into the analytic thread, [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]] turns "不会讲故事的人" into a question about product, cost, and organizational capability, and [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]] turns "装逼" into relational social signaling.
-- Product-minded questioning: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] asks about materials and craft commercialization, while [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]] asks about vehicle configuration, platform coverage, lifetime warranty, marketing conversion, capital needs, and overseas channels.
-- Money-and-debt panel: [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]] uses Xianyu, Wang Jiye, Xiao Siye, Cao Wei, and Luo's stories to discuss borrowing, repayment, limited consumption, and public reputation.
-- Snobbery panel: [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]] uses Kuaige, Hulan, Wang Jiye, Xuanzong, and Luo's examples to discuss selective social investment, ethical triage, power boundaries, crisis communication, diamonds, Valentine's Day, and luxury signaling.
-- Flaw-themed panel: [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]] uses baldness, ADHD, compulsive order, public reviews, online backlash, and live-show preparation to discuss [[LiveHumanFeeling|活人感]] and the boundary between memorable imperfection and real harm.
-- Relationship-technology panel: [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]] uses speculative intimacy tools to discuss fidelity, perfect AI partners, shared pain, deleted betrayal memory, compatibility scoring, and "义气."
-- Emotional-stability panel: [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] uses stance cards, argument, creator stories, road-conflict anecdotes, and closing self-definition to examine adult composure, online expression, and the companionship function of a long live podcast.
-- Film-industry oral history: [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]] uses Wang Jing's career to discuss TVB, Shaw Brothers, Win's Entertainment, Taiwan demand, gang pressure, piracy, and AI-era film work.
-- Film-author profile: [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]] uses Zheng Zhi and 《身中有林》 to discuss adaptation, casting, runtime, creator debt, literary timing, and AI-era production cost.
-- Mortality and public memory: [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]] uses Cai Kangyong to connect hosting, variety-show memory, AI, aging, grief, written art, wills, funerals, and life meaning.
-- Fear and AI anxiety: [[wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs]] uses the Wuliaozhai crossover to link social embarrassment, body vulnerability, refusal difficulty, legal AI hallucination, AI copyright uncertainty, career-entry anxiety, and AI companionship.
-- Source scope: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]], [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]], [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]], [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]], [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]], [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]], and [[wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs]] supply twelve episodes and do not define the whole program catalog.
+- Creator and founder operating logic: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] and [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]] examine craft, commercialization, product mistakes, capital, manufacturing, and globalization.
+- Social and ethical panel mode: [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]], [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]], and [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] cover status, lending, scarcity, flaws, relationship tools, emotion, and online expression.
+- Film, aging, and AI: [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]], [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]], [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]], and [[wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs]] extend the format into industrial memory, authorship, grief, verification, labor anxiety, and companionship.
+- Artist-audience disagreement: [[cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii]] uses old arrangements, concert participation, live-release access, AI music, albums, and studio economics to test who governs a living work.
 
 ## Qualifications
-This page should not infer the show's full editorial mission, release cadence, audience, or business model from nine episodes. The current evidence may overrepresent Luo's interest in product, craft, founder operating details, comedy-panel social analysis, money talk, moral dilemmas, relationship hypotheticals, emotional stability, online expression, consumption, and Hong Kong film history.
+Thirteen sources do not establish the show's complete catalog, editorial mission, release cadence, audience, or business model. The current evidence may overrepresent Luo's interests and episodes selected for strong conceptual extraction. Personal, commercial, medical, historical, and technological claims retain the qualifications of their individual source notes.
 
 ## What Changed
-- Added the Sixiao Comedy money-and-debt panel as evidence that the show can use comedy format to discuss relationship-money pressure.
-- Added the Wang Jing interview as evidence that the show can use long-form biography to build entertainment-industry oral history.
-- Added the "势利," flaw-themed, and emotional-stability live panels as evidence that the show can use comedy to handle moral, workplace, consumption, diagnosis-label, appearance, family-pressure, creator-review, trolling, blocking, and conflict-retreat questions.
-- Added the Cai Kangyong interview and Wuliaozhai crossover as evidence that the show can connect aging, grief, death, everyday fear, AI hallucination, labor anxiety, existential risk, companionship, and life meaning.
+- Added the Cui Jian interview as evidence for an artist-audience disagreement mode centered on music and continuing creation.
+- Extended production-minded questioning from physical products and film into arrangements, recording, mixing, release, and album form.
+- Compressed episode-by-episode accumulation into format-level synthesis while preserving all thirteen sources.
 
 ## Relationships
-- [[LuoYonghao]] - host and framing interviewer in the source.
-- [[ShougongGeng|手工耿]] - guest and main subject of the creator-craft episode.
-- [[ZhuJiangming]] - guest and main subject of the Leapmotor founder episode.
-- [[Leapmotor]] - company case discussed through Zhu Jiangming's founder story.
-- [[XiaoQiStandup|小齐]], [[ZhangJunStandup|张俊]], and [[ShiLifen|史礼芬]] - panelists in the status-signaling episode.
-- [[SixiaoComedy|四孝喜剧]] - live-comedy collaborator in the money-and-debt episode.
-- [[XianyuStandup|咸鱼]], [[WangJiye|王季叶]], [[XiaoSiye|小四爷]], and [[CaoWeiLuoyonghaoColleague|草薇]] - participant voices in the money-and-debt episode.
-- [[KuaigeStandup|快哥]], [[HulanStandup|呼兰]], [[WangJiye|王继业 / 王季叶]], and [[XuanZongStandup|选总]] - participant voices in the "势利" episode.
-- [[CaoGuoStandup|曹国]], [[ShiLifen|史礼芬]], and [[LinJianxinStandup|林简欣]] - participant voices in the flaw-themed episode.
-- [[WongJing|王晶]] - guest and main subject of the Hong Kong film-industry episode.
-- [[UselessInventionValue]] - recurring analytic thread in the 手工耿 conversation.
-- [[LeapmotorFullStackSelfResearch]] - recurring analytic thread in the Leapmotor conversation.
-- [[ZhuangbiAsSocialSignaling]] - recurring analytic thread in the comedy-panel conversation.
-- [[FriendLendingBoundary]] - recurring analytic thread in the live money-and-debt conversation.
-- [[SnobberyAsValueRanking]], [[EthicalTriageUnderScarcity]], and [[DiamondRomanceMarketingTrap]] - recurring analytic threads in the live "势利" conversation.
-- [[ADHDSelfDiagnosisBoundary]], [[OCDOrderPressure]], [[CreatorReviewResponseBoundary]], and [[LiveHumanFeeling]] - recurring analytic threads in the flaw-themed live conversation.
-- [[LiuHongweiStandup|刘宏伟]], [[SunShuhengStandup|孙舒恒]], [[WangJiye|王继业 / 王季叶]], and [[XuanZongStandup|选总]] - participant voices in the relationship-technology episode.
-- [[RelationshipTechnologyEthics]], [[SharedPainTechnologyBoundary]], [[MemoryDeletionEthics]], and [[AlgorithmicRomanticCompatibility]] - recurring analytic threads in the relationship-technology conversation.
-- [[GaoHanStandup|高涵]], [[XiaoKuaiStandup|小块]], [[SunShuhengStandup|孙舒恒]], and [[WangJiye|季夜]] - participant voices in the emotional-stability conversation.
-- [[EmotionalStabilityAsSocialNorm]], [[PublicExpressionAgainstTrolls]], [[BlockAndDissentHygiene]], and [[HappinessBasedDeescalation]] - recurring analytic threads in the emotional-stability conversation.
-- [[HongKongFilmIndustry]] - recurring analytic thread in the Wang Jing conversation.
-- [[CreatorCulture]] - adjacent wiki theme around creators as value-producing subjects.
-- [[ZhengZhiWriter|郑执]] and [[ShenzhongYoulinFilm|《身中有林》]] - writer-director and film case in the new episode.
-- [[NortheastLiteraryFilmAuthorship]], [[AuthorCommercialFilmBalance]], and [[CreatorLateCycleAnxiety]] - analytic threads surfaced by the Zheng Zhi conversation.
-- [[CaiKangyong|蔡康永]] - guest whose interview expands the show into public aging, grief, AI, death, and farewell.
-- [[PublicAgingTimeEvidence]], [[DeathNormalizationPractice]], [[RitualizedGriefContinuation]], [[ConversationAsSelfRevelation]], and [[HumanMeaningUnderAI]] - analytic threads surfaced by the Cai Kangyong conversation.
-- [[Wuliaozhai|无聊斋]] - crossover partner for the fear-themed live episode.
-- [[SocialEmbarrassmentFear]], [[HandsOnAIAnxietyReduction]], [[AIJobSecurityAnxiety]], and [[AICompanionAuthenticityBoundary]] - analytic threads surfaced by the fear-themed crossover.
+- [[LuoYonghao]] - host and framing interviewer across the bounded source set.
+- [[CuiJian|崔健]] - guest whose interview adds music, artistic authority, and audience nostalgia to the show's range.
+- [[ShougongGeng|手工耿]] - creator-craft guest used to test utility, comedy, and art.
+- [[ZhuJiangming|朱江明]] and [[Leapmotor|零跑汽车]] - founder and company case for engineering-led EV production.
+- [[WongJing|王晶]] - guest anchoring Hong Kong film-industry oral history.
+- [[ZhengZhiWriter|郑执]] - guest anchoring writer-director authorship and market constraint.
+- [[CaiKangyong|蔡康永]] - guest anchoring aging, grief, death, and public memory.
+- [[SixiaoComedy|四孝喜剧]] and [[Wuliaozhai|无聊斋]] - collaborators enabling live-panel and crossover modes.
+- [[ArtisticContinuityAgainstNostalgia]] - new music-centered disagreement surfaced by the Cui interview.
+- [[RelationshipTechnologyEthics]] - example of the show's counterfactual value-testing mode.
+- [[PublicExpressionAgainstTrolls]] - example of the show's public-persona and conflict mode.

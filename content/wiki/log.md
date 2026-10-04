@@ -29541,3 +29541,11 @@ Added source `essentials-how-to-build-strength-muscle-size-endurance-dr-andy-gal
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 崔健×罗永浩！去天堂和去地狱，都要带上艺术家
+
+Added source `cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii`; migrated and resynthesized [[CuiJian|崔健]], [[LuoYonghao|罗永浩]], and [[LuoyonghaosCrossroads|罗永浩的十字路口]] from their complete preserved evidence inventories; and added [[ArtisticContinuityAgainstNostalgia]], [[LiveMusicHumanConnection]], [[AlbumAsIntegratedWork]], [[LowCostCreativeAutonomy]], and [[MusicLanguageExpansion]]. Core synthesis: audience memory is legitimate evidence but does not freeze a living artist's judgment; continuing creation depends on present-tense performance, album-scale structure, affordable experimentation, wider musical language, and human connection. No settled contradiction was adopted. Concert plans, future releases, production economics, AI-music quality, and cross-tradition rhythm comparisons remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,693-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

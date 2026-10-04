@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9664
+wiki_total_pages: 9669
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1709,6 +1709,9 @@ wiki_pages:
   - key: "AlbigensianCrusade"
     title: "Albigensian Crusade"
     url: "/wiki/concepts/albigensiancrusade/"
+  - key: "AlbumAsIntegratedWork"
+    title: "Album as Integrated Work"
+    url: "/wiki/concepts/albumasintegratedwork/"
   - key: "AlchemyChemistryContinuity"
     title: "Alchemy-Chemistry Continuity / 炼金术与化学连续性"
     url: "/wiki/concepts/alchemychemistrycontinuity/"
@@ -2438,6 +2441,9 @@ wiki_pages:
   - key: "ArtisticAchievementMoralAccountability"
     title: "Artistic Achievement Moral Accountability"
     url: "/wiki/concepts/artisticachievementmoralaccountability/"
+  - key: "ArtisticContinuityAgainstNostalgia"
+    title: "Artistic Continuity Against Nostalgia"
+    url: "/wiki/concepts/artisticcontinuityagainstnostalgia/"
   - key: "ArtisticFeedbackBoundary"
     title: "Artistic Feedback Boundary"
     url: "/wiki/concepts/artisticfeedbackboundary/"

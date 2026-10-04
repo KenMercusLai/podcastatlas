@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9664
+wiki_total_pages: 9669
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "LiveMatchAnalytics"
     title: "Live Match Analytics"
     url: "/wiki/concepts/livematchanalytics/"
+  - key: "LiveMusicHumanConnection"
+    title: "Live Music Human Connection"
+    url: "/wiki/concepts/livemusichumanconnection/"
   - key: "LiveSportsStreamingTransition"
     title: "Live Sports Streaming Transition"
     url: "/wiki/concepts/livesportsstreamingtransition/"
@@ -860,6 +863,9 @@ wiki_pages:
   - key: "LowClaimCivicAction"
     title: "Low-Claim Civic Action / 低诉求公共行动"
     url: "/wiki/concepts/lowclaimcivicaction/"
+  - key: "LowCostCreativeAutonomy"
+    title: "Low-Cost Creative Autonomy"
+    url: "/wiki/concepts/lowcostcreativeautonomy/"
   - key: "LowCostDroneWarfare"
     title: "Low-Cost Drone Warfare"
     url: "/wiki/concepts/lowcostdronewarfare/"

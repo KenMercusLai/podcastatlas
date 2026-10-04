@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3308
+topic_total_pages: 3309
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2830,6 +2830,9 @@ topic_concepts:
   - key: "AIControlNuclearAnalogyLimits"
     title: "Limits of the AI-Nuclear Control Analogy / AI与核管控类比边界"
     url: "/wiki/concepts/aicontrolnuclearanalogylimits/"
+  - key: "LiveMusicHumanConnection"
+    title: "Live Music Human Connection"
+    url: "/wiki/concepts/livemusichumanconnection/"
   - key: "LiveActionFilmUnderAI"
     title: "Live-Action Film Under AI"
     url: "/wiki/concepts/liveactionfilmunderai/"
