@@ -29880,3 +29880,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | Essentials: Using Salt to Optimize Mental & Physical Performance
+
+Added source `essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044`; and resynthesized [[SodiumWaterHomeostasis]], [[ContextualSodiumIntake]], [[ElectrolyteDrinkUseBoundary]], and [[ExerciseHydrationPerformanceBoundary]] from their complete preserved evidence inventories. Core synthesis: sodium and water are jointly regulated through concentration and volume sensing, thirst, vasopressin, kidney handling, and neural signaling, while appropriate intake depends on blood pressure, disease, diet, losses, environment, fluids, and other electrolytes rather than one universal target. No settled contradiction was adopted. The 2026 Essentials edit substantially overlaps the 2022 full episode, so it adds editorial provenance rather than independent confirmation; sodium ranges, orthostatic guidance, the Galpin equation, magnesium forms, stress effects, craving claims, and performance suggestions remain source-scoped public education. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. No topic claim set was dirty and global compaction was not due; the refreshed manifest covers 3,735 sources and the paragraph ledger retains 789 overview paragraphs. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

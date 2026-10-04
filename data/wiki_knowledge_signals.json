@@ -46105,9 +46105,9 @@
       "url": "/wiki/concepts/contextualmonarchicalsuccess/"
     },
     "ContextualSodiumIntake": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4397006205 [SCIM4397006205].md",
@@ -46115,9 +46115,16 @@
           "show": "Huberman Lab",
           "title": "Using Salt to Optimize Mental & Physical Performance",
           "url": "/wiki/sources/using-salt-to-optimize-mental-physical-performance-scim4397006205/"
+        },
+        {
+          "episode_file": "SCIM9148608044 [SCIM9148608044].md",
+          "key": "essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Salt to Optimize Mental & Physical Performance",
+          "url": "/wiki/sources/essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/contextualsodiumintake/"
     },
     "ContinentalArmy": {
@@ -63530,9 +63537,9 @@
       "url": "/wiki/concepts/electricityaffordabilityindicator/"
     },
     "ElectrolyteDrinkUseBoundary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "ljLwQq2yHTCsa4r3NvNzaA6P5I9O [ljLwQq2yHTCsa4r3NvNzaA6P5I9O].md",
@@ -63561,9 +63568,16 @@
           "show": "Huberman Lab",
           "title": "Using Salt to Optimize Mental & Physical Performance",
           "url": "/wiki/sources/using-salt-to-optimize-mental-physical-performance-scim4397006205/"
+        },
+        {
+          "episode_file": "SCIM9148608044 [SCIM9148608044].md",
+          "key": "essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Salt to Optimize Mental & Physical Performance",
+          "url": "/wiki/sources/essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/electrolytedrinkuseboundary/"
     },
     "ElectronicCigaretteRisk": {
@@ -71145,9 +71159,9 @@
       "url": "/wiki/concepts/exerciseheatmanagement/"
     },
     "ExerciseHydrationPerformanceBoundary": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM1120276865 [SCIM1120276865].md",
@@ -71183,9 +71197,16 @@
           "show": "Huberman Lab",
           "title": "How to Build Endurance in Your Brain & Body",
           "url": "/wiki/sources/scim8024795061-scim8024795061/"
+        },
+        {
+          "episode_file": "SCIM9148608044 [SCIM9148608044].md",
+          "key": "essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Salt to Optimize Mental & Physical Performance",
+          "url": "/wiki/sources/essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/exercisehydrationperformanceboundary/"
     },
     "ExerciseLinkedCognitiveResilience": {
@@ -198976,9 +198997,9 @@
       "url": "/wiki/entities/socratesfootballer/"
     },
     "SodiumWaterHomeostasis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4397006205 [SCIM4397006205].md",
@@ -198986,9 +199007,16 @@
           "show": "Huberman Lab",
           "title": "Using Salt to Optimize Mental & Physical Performance",
           "url": "/wiki/sources/using-salt-to-optimize-mental-physical-performance-scim4397006205/"
+        },
+        {
+          "episode_file": "SCIM9148608044 [SCIM9148608044].md",
+          "key": "essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044",
+          "show": "Huberman Lab",
+          "title": "Essentials: Using Salt to Optimize Mental & Physical Performance",
+          "url": "/wiki/sources/essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/sodiumwaterhomeostasis/"
     },
     "SoftBudgetFootballClubs": {

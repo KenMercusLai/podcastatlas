@@ -4,7 +4,8 @@ type: concept
 tags: [sodium, blood-pressure, hydration, nutrition, safety]
 sources:
   - using-salt-to-optimize-mental-physical-performance-scim4397006205
-last_updated: 2026-10-02
+  - essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044
+last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Sodium is necessary for extracellular-fluid regulation and neural function, whil
 Higher need is most plausible when sodium and fluid have actually been lost through prolonged sweating, heat, vomiting, diarrhea, or selected low-blood-pressure and orthostatic conditions under clinical guidance. Lower intake may be appropriate with hypertension, kidney or cardiovascular risk, medication effects, or already high dietary sodium. Low-carbohydrate eating and caffeine are presented as possible modifiers of fluid handling, but the episode's fixed replacement ratios are not established as universal rules.
 
 Population guidance, urinary-excretion associations, performance heuristics, and individual treatment are different evidence questions. The episode's cited observational nadir near 4.5-5 grams of sodium excretion per day, the U.S. intake recommendation near 2.3 grams, orthostatic-disorder advice, and *The Salt Fix* range cannot be collapsed into one number without study-level and patient-level context. Salt appetite can inform observation, especially on a minimally processed diet, but adaptation and highly palatable salty-sweet foods limit its authority.
+
+The later Essentials edit keeps the same context-first decision order while omitting some detail from the full release. It therefore confirms editorial emphasis rather than adding an independent evidence base or resolving the competing numerical ranges.
 
 ## Key Claims
 - Blood-pressure and medical status should be established before deliberately increasing or restricting sodium.
@@ -35,14 +38,14 @@ Population guidance, urinary-excretion associations, performance heuristics, and
 - Multi-variable context - [[using-salt-to-optimize-mental-physical-performance-scim4397006205]] asks listeners to interpret sodium with water, potassium, magnesium, diet, caffeine, carbohydrate intake, and exercise.
 - Conflicting numbers - [[using-salt-to-optimize-mental-physical-performance-scim4397006205]] reports a U.S. recommendation, an observational urinary-excretion range, orthostatic-treatment ranges, and a book's higher proposal without supplying evidence sufficient to harmonize them.
 - Preference limit - [[using-salt-to-optimize-mental-physical-performance-scim4397006205]] describes adaptive storage and salty-sweet processed foods as reasons salt appetite may not reveal ideal long-term intake.
+- Editorial continuity - [[essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044]] again makes blood pressure, losses, diet, orthostatic context, fluids, and other electrolytes prior conditions for interpreting sodium advice.
 
 ## Counterevidence & Qualifications
-This page rests on one structured public-education summary, not guideline review, primary-study appraisal, dietary assessment, or medical evaluation. The reported 2011 observational association cannot by itself establish an optimal causal intake, and sodium intake is not identical to urinary sodium excretion. Exact salt-to-sodium conversions, orthostatic-disorder ranges, caffeine-water ratios, anxiety findings, electrolyte targets, and upper-risk thresholds remain source-scoped. People with hypertension, kidney, heart, endocrine, or orthostatic disorders, relevant medication use, pregnancy, severe fluid loss, or possible hyponatremia need individualized clinical guidance.
+This page rests on two editorially overlapping public-education summaries, not guideline review, primary-study appraisal, dietary assessment, or medical evaluation. The reported 2011 observational association cannot by itself establish an optimal causal intake, and sodium intake is not identical to urinary sodium excretion. Exact salt-to-sodium conversions, orthostatic-disorder ranges, caffeine-water ratios, anxiety findings, electrolyte targets, and upper-risk thresholds remain source-scoped. People with hypertension, kidney, heart, endocrine, or orthostatic disorders, relevant medication use, pregnancy, severe fluid loss, or possible hyponatremia need individualized clinical guidance.
 
 ## What Changed
-- Created a context-first intake boundary instead of adopting any one numerical sodium target.
-- Separated replacement after meaningful loss from habitual population intake.
-- Recorded why blood pressure, disease, diet, environment, and other electrolytes can reverse the practical recommendation.
+- Added the Essentials edit as overlapping provenance for the context-first intake boundary.
+- Preserved the existing judgment that population guidance, replacement needs, and clinician-directed treatment are not interchangeable targets.
 
 ## Related Concepts
 - [[SodiumWaterHomeostasis]] - physiological system that makes both sodium and water balance consequential.

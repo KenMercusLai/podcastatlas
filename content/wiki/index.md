@@ -3797,6 +3797,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trump-Xi Summit, Benioff: "Not My First SaaSpocalypse," OpenAI vs Apple, Multi-Sensory AI, El Niño](sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630.md) — All-In episode with Mark Benioff on U.S.-China economic entanglement, AI-era enterprise software, ambient assistants, El Niño risk, and layered private-market SPVs.
 
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
+- [Essentials: Using Salt to Optimize Mental & Physical Performance](sources/essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044.md) — Condensed Huberman Lab episode on sodium-water homeostasis, contextual intake, exercise replacement, and why overlap with the full release is provenance rather than replication.
 
 ## Entities
 - [丽娟 / Li Juan (Han Wudi court)](entities/LiJuanHanWudiCourt.md) — 后世笔记与传奇中的汉武帝宫人，其歌舞、美貌、机敏与赏赐故事被保留为文学性宠幸记忆，而非确证传记。

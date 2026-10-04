@@ -4,7 +4,8 @@ type: concept
 tags: [sodium, hydration, thirst, kidney, neuroscience]
 sources:
   - using-salt-to-optimize-mental-physical-performance-scim4397006205
-last_updated: 2026-10-02
+  - essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044
+last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ The source separates two related correction problems. Osmotic thirst responds to
 The episode places the OVLT among circumventricular structures that can sample blood conditions more directly than most brain tissue. It describes these sensors as coordinating downstream thirst, vasopressin release, and kidney behavior. Vasopressin reduces water loss, kidneys vary retention and excretion, and habitual intake can alter storage and appetite signals over time. “Water follows sodium” is useful shorthand, but not a complete control model.
 
 Sodium also contributes to neuronal action potentials and works with potassium gradients, so severe depletion or dilution can affect cognition and nervous-system function. That necessity does not identify an ideal intake: the homeostatic mechanism explains why both deficiency and excess water can be harmful, while [[ContextualSodiumIntake]] addresses the separate clinical and dietary question of how much sodium is appropriate.
+
+The 2026 Essentials edit preserves this same explanatory chain in condensed form. It strengthens provenance for what the show chose to retain, but because it derives from the earlier full episode it does not independently validate the physiology or practical ranges.
 
 ## Key Claims
 - Osmotic thirst and hypovolemic thirst detect different disturbances even though both can increase drinking.
@@ -35,14 +38,14 @@ Sodium also contributes to neuronal action potentials and works with potassium g
 - Hormone-kidney response - [[using-salt-to-optimize-mental-physical-performance-scim4397006205]] links vasopressin with reduced renal water loss and describes context-dependent sodium retention and release.
 - Adaptation - [[using-salt-to-optimize-mental-physical-performance-scim4397006205]] reports long controlled intake periods with weekly and monthly storage-release patterns, used here only as evidence that regulation adapts over time.
 - Neural function - [[using-salt-to-optimize-mental-physical-performance-scim4397006205]] explains sodium influx and sodium-potassium restoration as part of action-potential generation.
+- Editorial continuity - [[essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044]] retains osmotic and hypovolemic thirst, OVLT sensing, vasopressin, kidney handling, action potentials, and overhydration risk from the full episode.
 
 ## Counterevidence & Qualifications
-The supplied episode note does not provide primary-paper methods, study populations, effect sizes, or enough detail to evaluate the OVLT, German controlled-intake, adrenalectomy, or action-potential claims beyond their broad physiological framing. Thirst and salt appetite can be altered by disease, medication, age, environment, diet, acclimation, and learned preference. Severe dehydration, vomiting, diarrhea, blood loss, confusion, fainting, suspected hyponatremia, or kidney, cardiac, endocrine, and blood-pressure disorders require qualified assessment rather than self-correction from this model.
+The supplied episode notes do not provide primary-paper methods, study populations, effect sizes, or enough detail to evaluate the OVLT, German controlled-intake, adrenalectomy, or action-potential claims beyond their broad physiological framing. The Essentials edit is derived from the full release and is not an independent replication. Thirst and salt appetite can be altered by disease, medication, age, environment, diet, acclimation, and learned preference. Severe dehydration, vomiting, diarrhea, blood loss, confusion, fainting, suspected hyponatremia, or kidney, cardiac, endocrine, and blood-pressure disorders require qualified assessment rather than self-correction from this model.
 
 ## What Changed
-- Created a unified model of concentration sensing, volume sensing, thirst, vasopressin, kidney handling, salt appetite, and neural sodium use.
-- Separated physiological regulation from the distinct question of an appropriate dietary sodium target.
-- Preserved appetite adaptation and overhydration as limits on simple replacement rules.
+- Added the 2026 Essentials edit as overlapping provenance for the established regulatory model.
+- Kept the physiological judgment unchanged because the condensed release does not provide independent validation.
 
 ## Related Concepts
 - [[ContextualSodiumIntake]] - translates the homeostatic mechanism into an intake-risk decision boundary.
