@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9681
+wiki_total_pages: 9683
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -827,6 +827,9 @@ wiki_pages:
   - key: "TransitionalAIHardware"
     title: "Transitional AI Hardware"
     url: "/wiki/concepts/transitionalaihardware/"
+  - key: "TranslationPathDependence"
+    title: "Translation Path Dependence / 翻译路径依赖"
+    url: "/wiki/concepts/translationpathdependence/"
   - key: "TranslationPublishingWorkflow"
     title: "Translation Publishing Workflow"
     url: "/wiki/concepts/translationpublishingworkflow/"

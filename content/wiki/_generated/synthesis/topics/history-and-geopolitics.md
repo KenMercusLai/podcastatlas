@@ -3,9 +3,9 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-10-04
-as_of_overview_commit: a5b6a9cbd86ebf59b07f8e27f8dc0993c0412ecb
-input_digest: 3999a4ee70105574845735130a1990bfb77ea466b747ae18001033dfa741ec75
+last_updated: 2026-10-05
+as_of_overview_commit: abc04ca8143339d4d74d8b51548da827dec174d2
+input_digest: 7bf661e78c0b1014be77bff2a103f8656649c3ef236541dd4a2f6dcb4350db53
 ---
 
 # History and Geopolitics
@@ -766,3 +766,15 @@ The same campaign supplies a motive-and-consequence pair for the topic: [[Imperi
 
 - The comparison is a podcast interpretation rather than a comprehensive survey of Klan or fascism scholarship.
 - Withholding the narrow European fascist label does not minimize the Klan's mass racism, sectarianism, vigilantism, political penetration, or later violent afterlife.
+
+### Translation Path Dependence Shapes Conceptual History
+
+[[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf|Episode 323]] adds [[TranslationPathDependence]] to conceptual history: terminology for liberty, rights, spirit, wealth, evolution, and revolution can stabilize through circulation and institutional use rather than unique accuracy, while [[YanFu|Yan Fu]] and [[ConceptualTranslationJudgment]] show how defeated alternatives can recover distinctions hidden by standard usage.
+
+**Evidence:** [[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf]], [[TranslationPathDependence]], [[YanFu]], [[ConceptualTranslationJudgment]]
+
+**Qualifications:**
+
+- The episode's accounts of Japanese-coined Chinese terms, Buddhist mediation, dialect pronunciation, and particular etymologies require specialist or primary-source corroboration.
+- Established usage can change meaning beyond etymology and supplies shared coordination even when an alternative exposes a useful distinction.
+- The long-run political effects attributed to particular renderings remain interpretive and source-scoped.

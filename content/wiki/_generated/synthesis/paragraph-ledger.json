@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3aa71b118c2a41090e9e53e86e342bfd093bd5fe1f55a0e3f9c13be582cc34dd",
       "ad09ba789281afb51502b7a10fd1709572d10ff6bc6decf2f3eb859cbf0a445c",
       "e2c679065a3f47a51a4acd3c0b83d2bd8f67a84416ad48cd912b5bd311632cf3",
       "af358a86bf70ef234352251fc0a6c428f5eb59080a1b463629e9843fb6a65432",
@@ -790,11 +791,33 @@
       "30dab5d9a3dbe5a1852603c018045e5063833f4e7647d6399d3386f189f53928",
       "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61"
     ],
-    "paragraph_count": 788
+    "paragraph_count": 789
   },
-  "overview_commit": "9843c76b28f13e269d9521b6116452dbd79c69f7",
-  "overview_digest": "21829fb6d96467bc11bddd6f348257ef98fc9eec3f46baaca3740915a57a8b3e",
+  "overview_commit": "abc04ca8143339d4d74d8b51548da827dec174d2",
+  "overview_digest": "e8464ef4fa2a80f16bb46d02a88b39d92eef805c61e928b0ca4ae0b216e635b0",
   "paragraphs": [
+    {
+      "id": "3aa71b118c2a41090e9e53e86e342bfd093bd5fe1f55a0e3f9c13be582cc34dd",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf|323-AI是否可以取代翻译？错误的翻译如何塑造现实？]], a [[DushuBuchenglin|独树不成林]] episode on [[AITranslation]], [[YanFu|严复]], and the conceptual history of academic terminology. It adds [[YanFu]], [[ConceptualTranslationJudgment]], and [[TranslationPathDependence]], while extending [[DushuBuchenglin]] and [[AITranslation]]. Its core synthesis is that models can automate much routine translation and checking while still reproducing path-dependent majority usage; contested choices about liberty, rights, spirit, wealth, evolution, and revolution require historical and normative judgment rather than fluency alone. No settled contradiction is adopted. Claims about Japanese-coined Chinese terms, Buddhist mediation, dialect pronunciation, specific etymologies, and the long-run political effects of particular translations remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf",
+        "AITranslation",
+        "ConceptualTranslationJudgment",
+        "DushuBuchenglin",
+        "TranslationPathDependence",
+        "YanFu"
+      ]
+    },
     {
       "id": "ad09ba789281afb51502b7a10fd1709572d10ff6bc6decf2f3eb859cbf0a445c",
       "primary_topic": "ai-and-technology",

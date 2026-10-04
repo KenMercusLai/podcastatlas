@@ -2584,15 +2584,22 @@
       "earliest_episode_date": "2026-02-04",
       "latest_episode_date": "2026-10-03",
       "latest_episode_file": "lmXou4DGsNVKdwplHqGubtkMV7PL [lmXou4DGsNVKdwplHqGubtkMV7PL].md",
-      "source_note_count": 5,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 6,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
+        "luW-Q1sjEF4UtTaO4gHe1yX7RKyf [luW-Q1sjEF4UtTaO4gHe1yX7RKyf].md",
         "lmXou4DGsNVKdwplHqGubtkMV7PL [lmXou4DGsNVKdwplHqGubtkMV7PL].md",
         "ln7i59HzHpigTIxKj-dvWMKQrrSf [ln7i59HzHpigTIxKj-dvWMKQrrSf].md",
-        "luvc8M2kuqKYv2hddFCsE_6ogxym [luvc8M2kuqKYv2hddFCsE_6ogxym].md",
-        "FqgvBt9nAq3U9DkDAbVCzVW-3-u5 [FqgvBt9nAq3U9DkDAbVCzVW-3-u5].md"
+        "luvc8M2kuqKYv2hddFCsE_6ogxym [luvc8M2kuqKYv2hddFCsE_6ogxym].md"
       ]
     },
     "电影巨辩": {

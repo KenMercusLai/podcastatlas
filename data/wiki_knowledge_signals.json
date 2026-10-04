@@ -4316,6 +4316,50 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aitrainingcopyrightdispute/"
     },
+    "AITranslation": {
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01 [lgNagVELl4JyVv7EejrCgNO2Xjsr].md",
+          "key": "ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr",
+          "show": "Talk三联",
+          "title": "EP275 Token 通胀时代，谁还能“不可替代”？丨“人在中流”特别策划01",
+          "url": "/wiki/sources/ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr/"
+        },
+        {
+          "episode_file": "Vol. 171 假如我们有无限 Token (1) [6682-1].md",
+          "key": "vol-171-jiaru-women-you-wuxian-token-1-6682-1",
+          "show": "枫言枫语",
+          "title": "Vol. 171 假如我们有无限 Token",
+          "url": "/wiki/sources/vol-171-jiaru-women-you-wuxian-token-1-6682-1/"
+        },
+        {
+          "episode_file": "tech_20251225_1225_MP_TECH_pod_128 [tech_20251225_1225_MP_TECH_pod_128].md",
+          "key": "tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The year in AI wearables",
+          "url": "/wiki/sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "编程的内燃机时代 ｜ 内核恐慌 #71 (1) [71-1].md",
+          "key": "biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1",
+          "show": "内核恐慌",
+          "title": "71. 编程的内燃机时代",
+          "url": "/wiki/sources/biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1/"
+        },
+        {
+          "episode_file": "luW-Q1sjEF4UtTaO4gHe1yX7RKyf [luW-Q1sjEF4UtTaO4gHe1yX7RKyf].md",
+          "key": "323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf",
+          "show": "独树不成林",
+          "title": "323-AI是否可以取代翻译？错误的翻译如何塑造现实？",
+          "url": "/wiki/sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/aitranslation/"
+    },
     "AITravelPlanning": {
       "episode_count": 3,
       "show_count": 3,
@@ -44275,6 +44319,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/concealedpresidentialillness/"
     },
+    "ConceptualTranslationJudgment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luW-Q1sjEF4UtTaO4gHe1yX7RKyf [luW-Q1sjEF4UtTaO4gHe1yX7RKyf].md",
+          "key": "323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf",
+          "show": "独树不成林",
+          "title": "323-AI是否可以取代翻译？错误的翻译如何塑造现实？",
+          "url": "/wiki/sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/conceptualtranslationjudgment/"
+    },
     "ConcernInfluenceSorting": {
       "episode_count": 1,
       "show_count": 1,
@@ -60611,9 +60671,9 @@
       "url": "/wiki/entities/durringtonwalls/"
     },
     "DushuBuchenglin": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -60642,9 +60702,16 @@
           "show": "独树不成林",
           "title": "367-社会改革能带来性别和谐吗？",
           "url": "/wiki/sources/367-shehui-gaige-neng-dailai-xingbie-hexie-ma-lmxou4dgsnvkdwplhgubtkmv7pl/"
+        },
+        {
+          "episode_file": "luW-Q1sjEF4UtTaO4gHe1yX7RKyf [luW-Q1sjEF4UtTaO4gHe1yX7RKyf].md",
+          "key": "323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf",
+          "show": "独树不成林",
+          "title": "323-AI是否可以取代翻译？错误的翻译如何塑造现实？",
+          "url": "/wiki/sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/dushubuchenglin/"
     },
     "DutchDomesticCleanlinessCivicOrder": {
@@ -215299,6 +215366,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/transitionalaihardware/"
     },
+    "TranslationPathDependence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luW-Q1sjEF4UtTaO4gHe1yX7RKyf [luW-Q1sjEF4UtTaO4gHe1yX7RKyf].md",
+          "key": "323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf",
+          "show": "独树不成林",
+          "title": "323-AI是否可以取代翻译？错误的翻译如何塑造现实？",
+          "url": "/wiki/sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/translationpathdependence/"
+    },
     "TransportRouteBurdenRelief": {
       "episode_count": 1,
       "show_count": 1,
@@ -234544,6 +234627,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/yandulatehan/"
+    },
+    "YanFu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luW-Q1sjEF4UtTaO4gHe1yX7RKyf [luW-Q1sjEF4UtTaO4gHe1yX7RKyf].md",
+          "key": "323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf",
+          "show": "独树不成林",
+          "title": "323-AI是否可以取代翻译？错误的翻译如何塑造现实？",
+          "url": "/wiki/sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/yanfu/"
     },
     "YanGuangEasternHan": {
       "episode_count": 1,

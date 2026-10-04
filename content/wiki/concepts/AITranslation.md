@@ -2,38 +2,54 @@
 title: "AI Translation"
 type: concept
 tags: [ai, translation, language, interfaces]
-sources: [ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr, vol-171-jiaru-women-you-wuxian-token-1-6682-1, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
-last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
+sources:
+  - ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr
+  - vol-171-jiaru-women-you-wuxian-token-1-6682-1
+  - tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128
+  - biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1
+  - 323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf
+last_updated: 2026-10-05
 ---
 
 # AI Translation
 
-[[ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr]] adds a newsroom/publishing workflow case through [[SanlianLifeWeekly|三联生活周刊]]. The episode says the editorial process began using AI for first-pass English translation in 2023, while human editors still verify, revise, and take responsibility for the published result.
+## Definition
+AI translation uses language and multimodal models to convert speech, text, documents, and images across languages while drawing on surrounding context, layout, terminology, and prior usage.
 
-AI translation is the source's frame for large-model and multimodal translation that uses context, OCR, document structure, subtitle timing, and image understanding rather than only phrase-level lookup. In [[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]], [[ImmersiveTranslate]] is the main concrete tool, and the hosts compare the result to a "Babel fish" experience where foreign-language material becomes much closer to directly understandable.
+## Current Synthesis
+Across the bounded evidence, AI translation lowers the cost of webpages, PDFs, subtitles, manga, books, publishing drafts, live speech, and wearable interfaces. Context, OCR, image understanding, document structure, and voice interaction make it substantially broader than phrase-level lookup.
 
-[[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds a wearable translation branch. The episode mentions live translation on [[AppleAirPods|Apple AirPods]] and imagined subtitle-like translation through [[Meta]] glasses, making translation one of the clearer job-specific reasons an AI wearable might be useful beyond a phone chatbot.
-
-[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds a long-form publishing and knowledge-management branch. The hosts discuss faster AI-assisted book translation, including chunking, context, and whole-book consistency, and connect translation to personal knowledge bases that summarize, translate, transcribe, and turn interviews or talks into mind maps.
+The sources converge on a human-responsibility boundary. Editorial workflows still require verification and public accountability; long-form work needs terminology and whole-document consistency; language learning retains cultural and cognitive value; and [[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf]] adds that fluent models can amplify inherited terminology rather than resolve [[ConceptualTranslationJudgment|contested conceptual judgment]]. AI can replace much routine labor without determining how a civilization should understand liberty, rights, spirit, wealth, progress, or revolution.
 
 ## Key Claims
-- AI translation lowers the cost of reading foreign webpages, PDF textbooks, subtitles, and manga.
-- Context matters: models can use surrounding sentences, visual layout, and domain terminology to avoid some older machine-translation failures.
-- Manga translation shows the multimodal version: OCR, translate, redraw or replace the image, and preload later pages to reduce waiting.
-- Real-time earbuds and spoken translation make [[VoiceInteraction]] part of the same trend.
-- Wearables can make translation feel more immediate when audio output or visual subtitles are available at the moment of conversation.
-- The source does not treat translation as a full replacement for language learning; [[WuTao]] argues that language still carries mental models, culture, and patterns of thought.
-- Better translation can change markets and politics by reducing cross-language friction, but it does not automatically solve institutional coordination problems such as those around the [[EuropeanUnion]].
-- Long-form AI translation needs document-level context, consistency checks, and human review because fast chapter-by-chapter output can still lose tone, terminology, or cross-book coherence.
-- EP275 adds that first-pass AI translation can become a real editorial workflow change, but its value depends on verification, editing, and whether quality improves rather than only labor cost falling.
+- AI translation reduces friction across web, document, publishing, image, subtitle, speech, and wearable contexts.
+- Multimodal and document-level context improves practical usefulness but does not guarantee tone, terminology, or whole-work coherence.
+- First-pass automation changes real editorial labor while leaving verification, revision, acceptance, and responsibility with people.
+- Real-time earbuds and glasses can make translation ambient, but connectivity, privacy, latency, and social comfort constrain the experience.
+- Language learning can retain value because languages carry cultural habits, mental models, and forms of thought beyond immediate semantic access.
+- Models inherit patterns from human corpora, so majority usage can preserve [[TranslationPathDependence|path-dependent]] errors or contested conventions.
+- [[ConceptualTranslationJudgment]] remains an argumentative human task even when mechanical accuracy and fluency become highly automated.
 
-## Connections
-- [[ImmersiveTranslate]] - practical tool case in the source.
-- [[AppleAirPods|Apple AirPods]], [[Meta]], and [[RayBanSmartGlasses|Ray-Ban smart glasses]] - wearable translation examples added by Marketplace Tech.
-- [[ContextEngineering]] - translation improves when the system has document, visual, and conversational context.
-- [[VoiceInteraction]] - real-time speech and translation-earbud branch.
-- [[HumanJudgmentUnderAI]] - users still judge tone, meaning, and cultural fit.
-- [[EuropeanAIIndustrialConstraints]] - language fragmentation and localization costs in Europe.
-- [[SecondRenaissance]] - source's broader claim that AI can change learning while leaving personal practice meaningful.
-- [[UnlimitedTokenWorkflow]], [[ContextEngineering]], [[AIAssistedReading]], and [[HumanJudgmentUnderAI]] - Vol. 171's book-translation and knowledge-base branch.
-- [[SanlianLifeWeekly|三联生活周刊]], [[TranslationPublishingWorkflow]], [[HumanJudgmentUnderAI]], and [[HumanScaleAIUse]] - EP275's editorial first-draft translation branch.
+## Evidence
+- Practical multimodality: [[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] covers webpages, PDFs, subtitles, OCR, manga, and the [[ImmersiveTranslate]] workflow.
+- Long-form consistency and abundance: [[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] connects book translation to chunking, context, consistency, transcription, and knowledge management.
+- Editorial responsibility: [[ep275-token-tongzhang-shidai-shui-hai-neng-bu-ke-tidai-renzai-zhongliu-tebie-cehua-01-lgnagvell4jyvv7eejrcgno2xjsr]] describes AI first drafts followed by human verification and editing at [[SanlianLifeWeekly]].
+- Wearable immediacy and constraints: [[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] uses earbuds and glasses to show live translation alongside cloud, privacy, and interface limits.
+- Conceptual and historical boundary: [[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf]] distinguishes routine accuracy from disputes over political and philosophical terminology.
+
+## Counterevidence & Qualifications
+The sources do not measure comparative error rates or establish a universal percentage of work that AI can replace. Claims about language shaping thought and historical mistranslations are interpretive and source-bounded. Better context reduces some errors but can also make inherited conventions more fluent and authoritative-looking.
+
+## What Changed
+- Added a clear boundary between routine linguistic automation and conceptual translation judgment.
+- Added inherited-corpus bias and translation path dependence as failure modes.
+- Reframed human review as historical and normative interpretation as well as quality control.
+
+## Related Concepts
+- [[ConceptualTranslationJudgment]] - interpretive layer that fluency and corpus frequency cannot settle.
+- [[TranslationPathDependence]] - explains how established terminology becomes self-reinforcing in model outputs.
+- [[HumanJudgmentUnderAI]] - broader responsibility for evaluating and accepting generated work.
+- [[ContextEngineering]] - document, visual, and conversational context that improves translation quality.
+- [[VoiceInteraction]] - spoken and wearable interface for real-time translation.
+- [[TranslationPublishingWorkflow]] - editorial process combining first-pass automation with human revision and accountability.

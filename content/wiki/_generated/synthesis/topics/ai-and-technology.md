@@ -4,15 +4,15 @@ generated: true
 topic_id: ai-and-technology
 title: "AI and Technology"
 last_updated: 2026-10-05
-as_of_overview_commit: 9843c76b28f13e269d9521b6116452dbd79c69f7
-input_digest: 325bf2642a35db0d1b57db71da9b9ce5e65f51dcababf4fea74f5c6c933dcec6
+as_of_overview_commit: abc04ca8143339d4d74d8b51548da827dec174d2
+input_digest: b2f22633ad996efddf45a11a012eda0a7bea41524fa2ad7a839242a177b1bdd7
 ---
 
 # AI and Technology
 
 ## Current State
 
-Across the bounded record, AI value depends on a coupled system rather than model capability alone: compute, power, memory, data, model routing, distribution, workflow integration, organizational change, governance, verification, and human judgment decide whether technical progress becomes reliable economic or social value. EP36 sharpens the infrastructure branch by joining CUDA's developer flywheel, Vera Rubin's rack-scale integration, recurring inference, enterprise agent controls, and physical-AI deployment, while preserving delivery, energy, safety, adoption, naming, and evidence limits around announced orders and products.
+Across the bounded record, AI value depends on a coupled system rather than model capability alone: compute, power, memory, data, model routing, distribution, workflow integration, organizational change, governance, verification, and human judgment decide whether technical progress becomes reliable economic or social value. The translation addition sharpens that judgment boundary: models can automate routine linguistic work while inherited corpora reinforce path-dependent terminology, leaving contested conceptual choices to historically and normatively grounded human argument.
 
 ## Cross-source Findings
 
@@ -794,3 +794,15 @@ The new Rick Rubin paragraph is a routing-edge rather than an AI capability clai
 - The supplied episode is a structured recap rather than primary product documentation, an audited order book, or an independent deployment assessment.
 - The source's Jensen Wong, Grok, and Alpha-Mayo forms create transcription uncertainty; established identities are normalized only where the bounded record supplies stronger evidence.
 - Order totals, acquisition price, rack specifications, coalition membership, fleet plans, and deployment dates remain source-scoped, while token volume alone does not establish useful output or profit.
+
+### Ai Translation Scales Routine Work But Not Conceptual Judgment
+
+[[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf|Episode 323]] sharpens the human-judgment boundary for [[AITranslation]]: models can automate routine conversion and checking while [[TranslationPathDependence]] makes them likely to repeat majority terminology, so [[ConceptualTranslationJudgment]] over liberty, rights, spirit, wealth, evolution, and revolution remains historical and normative rather than a fluency problem.
+
+**Evidence:** [[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf]], [[AITranslation]], [[TranslationPathDependence]], [[ConceptualTranslationJudgment]]
+
+**Qualifications:**
+
+- The episode does not establish a universal percentage of translation work that models can replace or independently verify the etymology and transmission history of each example.
+- Standard terms provide coordination value, and reopening their history does not prove that one alternative is universally correct.
+- Claims about Japanese-coined Chinese terms, Buddhist mediation, dialect pronunciation, and long-run political effects remain source-scoped.

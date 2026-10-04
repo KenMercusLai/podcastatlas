@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [323-AI是否可以取代翻译？错误的翻译如何塑造现实？](sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf.md) — 独树不成林 episode distinguishing routine AI translation from conceptual judgment and tracing how entrenched terminology shapes political and philosophical interpretation.
 - [EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped](sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped.md) — Data Science With Sam recap of CUDA's flywheel, Nvidia's $1 trillion Blackwell/Vera Rubin order narrative, the inference economy, Groq LPUs, NeMoClaw, physical AI, and open Nemotron models, with naming and deployment claims kept source-scoped.
 - [《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？](sources/zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer.md) — 汉武帝盛年巡祭、卫青去世与刺史监察并置；节目把关键制衡者消失解释为不安全感和控制升级，但保留其因果与制度沿革为来源限定。
 - [《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS](sources/zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98.md) — 卫青去世与资深文武凋零促使汉武帝广求能任将相及远使的非常人才；节目再以“印记法则”把严苛用人与人才短缺解释为镜像反馈，并把念头觉察作为实践层。
@@ -3788,6 +3789,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [Yan Fu / 严复](entities/YanFu.md) — Modern Chinese translator whose rejected alternatives expose conceptual boundaries obscured by later standard terminology.
 - [杨信 / Yang Xin (Western Han envoy)](entities/YangXinWesternHan.md) — 坚持符节与汉使服制、改在帐外谈判并揭开太子入质承诺未成共识的西汉使者。
 - [路充国 / Lu Chongguo (Western Han envoy)](entities/LuChongguoWesternHan.md) — 佩二千石印绶护送匈奴贵人灵柩与厚币、却被单于扣留的西汉使者；讲稿“陆充国”据传世姓名归一为路充国。
 - [郭昌 / Guo Chang (Western Han general)](entities/GuoChangWesternHan.md) — 外交破裂与匈奴复扰边境后受任拔胡将军、与赵破奴屯守朔方以东的西汉将领。
@@ -10966,7 +10968,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hawaii / 夏威夷](entities/Hawaii.md) — Indigenous kingdom, plantation-labor and remittance node shaped by monarchy, foreign pressure, migration, and U.S. expansion.
 - [Yokohama Specie Bank / 横滨正金银行](entities/YokohamaSpecieBank.md) — Semi-official Japanese bank that made overseas labor remittances legible through consulate-adjacent banking and foreign-exchange infrastructure.
 - [Dillingham Commission](entities/DillinghamCommission.md) — U.S. immigration investigation used by episode 168 to show how remittances became racialized as wealth drain and loyalty threat.
-- [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Political-philosophy podcast context linking the 起朱楼 algorithm crossover with a direct Machiavelli reading.
+- [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Political-philosophy podcast connecting algorithms, Machiavelli, communication, embodiment, AI translation, and conceptual history.
 - [投资ABC / Investment ABC](entities/InvestmentABC.md) — Podcast crossover partner in episode 166, used to translate institutional investing into ordinary-investor education.
 - [Amy / 投资ABC](entities/AmyInvestmentABC.md) — 投资ABC speaker keeping episode 166 anchored in ordinary-investor questions about goals, costs, emotions, and asset allocation.
 - [陈博士 / 投资ABC](entities/ChenDoctorInvestmentABC.md) — 投资ABC speaker explaining short-term market-counterparty logic, institutional data teams, and cost/behavior effects in episode 166.
@@ -16209,6 +16211,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
 
 ## Concepts
+- [Conceptual Translation Judgment / 概念翻译判断](concepts/ConceptualTranslationJudgment.md) — Human judgment about a term's history, conceptual relations, normative role, and target-language associations beyond mechanical fluency.
+- [Translation Path Dependence / 翻译路径依赖](concepts/TranslationPathDependence.md) — Process by which repeated and institutionalized renderings become defaults that later usage and AI systems reinforce.
 - [制衡消失后的控制升级 / Counterweight-Loss Control Escalation](concepts/CounterweightLossControlEscalation.md) — 关键制衡者消失后，权威集中反而伴随不安全感、猜疑、惩罚与监察扩张的来源限定机制。
 - [礼仪让步式核心诉求谈判 / Protocol-Concession Core-Demand Bargaining](concepts/ProtocolConcessionCoreDemandBargaining.md) — 以有限礼仪让步争取谈判入口并保留实质使命，但须继续通过互惠成本与可观察步骤核验承诺，避免把好话误作和解。
 - [Han Court Performance Diplomacy / 汉廷表演外交](concepts/HanCourtPerformanceDiplomacy.md) — Foreign performers and rare gifts meet curated tours, stores, banquets, animals, and court spectacle as reciprocal diplomatic communication.
@@ -25260,7 +25264,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Search Analytics](concepts/AISearchAnalytics.md) — Category for measuring brand visibility, citations, and sentiment across AI answer/search tools.
 - [AI Skills](concepts/AISkills.md) — Codified workflows, standards, context, tool use, verification loops, and recurring routines that make AI behavior reusable.
 - [AI Subscription Economics](concepts/AISubscriptionEconomics.md) — Tradeoffs of free tiers, paid tiers, usage limits, CAC, assistant revenue, and heavy-user costs in AI products.
-- [AI Translation](concepts/AITranslation.md) — Context-aware, multimodal translation across webpages, PDFs, subtitles, images, manga, and speech.
+- [AI Translation](concepts/AITranslation.md) — Context-aware, multimodal translation whose routine strengths still require human verification and conceptual judgment.
 - [AI Workforce Monitoring](concepts/AIWorkforceMonitoring.md) — Workplace risk where AI-enabled productivity measurement turns into invasive employee behavior surveillance.
 - [Airline Service Differentiation](concepts/AirlineServiceDifferentiation.md) — Airline passenger-experience differences created by cabin class, hardware, amenities, food budget, crew style, route design, and ground service.
 - [Airline Meal Industrialization](concepts/AirlineMealIndustrialization.md) — Airline catering operating system of menu design, batch production, cold-chain handling, reheating, cabin taste constraints, and aircraft service timing.

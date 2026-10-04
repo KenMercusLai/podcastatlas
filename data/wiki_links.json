@@ -2019,6 +2019,10 @@
     "title": "322: East Germany: Life Behind the Iron Curtain",
     "url": "/wiki/sources/322-east-germany-life-behind-the-iron-curtain-glt4069689977/"
   },
+  "323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf": {
+    "title": "323-AI是否可以取代翻译？错误的翻译如何塑造现实？",
+    "url": "/wiki/sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf/"
+  },
   "323-historys-greatest-dogs-glt5170761413": {
     "title": "323: History's Greatest Dogs",
     "url": "/wiki/sources/323-historys-greatest-dogs-glt5170761413/"
@@ -19766,6 +19770,10 @@
   "ConceptLedHospitality": {
     "title": "Concept Led Hospitality",
     "url": "/wiki/concepts/conceptledhospitality/"
+  },
+  "ConceptualTranslationJudgment": {
+    "title": "Conceptual Translation Judgment / 概念翻译判断",
+    "url": "/wiki/concepts/conceptualtranslationjudgment/"
   },
   "ConcernInfluenceSorting": {
     "title": "Concern-Influence Sorting",
@@ -80771,6 +80779,10 @@
     "title": "Transitional AI Hardware",
     "url": "/wiki/concepts/transitionalaihardware/"
   },
+  "TranslationPathDependence": {
+    "title": "Translation Path Dependence / 翻译路径依赖",
+    "url": "/wiki/concepts/translationpathdependence/"
+  },
   "TranslationPublishingWorkflow": {
     "title": "Translation Publishing Workflow",
     "url": "/wiki/concepts/translationpublishingworkflow/"
@@ -87930,6 +87942,10 @@
   "YanFeiSociologist": {
     "title": "颜飞 / Yan Fei (sociologist)",
     "url": "/wiki/entities/yanfeisociologist/"
+  },
+  "YanFu": {
+    "title": "Yan Fu / 严复",
+    "url": "/wiki/entities/yanfu/"
   },
   "YanGangLateHan": {
     "title": "严纲 / Yan Gang (late Han)",

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3310
+topic_total_pages: 3312
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1537,6 +1537,9 @@ topic_concepts:
   - key: "ComputingVersusThinking"
     title: "Computing Versus Thinking"
     url: "/wiki/concepts/computingversusthinking/"
+  - key: "ConceptualTranslationJudgment"
+    title: "Conceptual Translation Judgment / 概念翻译判断"
+    url: "/wiki/concepts/conceptualtranslationjudgment/"
   - key: "ConsciousnessMeasurement"
     title: "Consciousness Measurement"
     url: "/wiki/concepts/consciousnessmeasurement/"
@@ -8580,6 +8583,9 @@ topic_sources:
   - key: "277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6"
     title: "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？"
     url: "/wiki/sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6/"
+  - key: "323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf"
+    title: "323-AI是否可以取代翻译？错误的翻译如何塑造现实？"
+    url: "/wiki/sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf/"
   - key: "tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128"
     title: "34 days without internet in Iran"
     url: "/wiki/sources/tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128/"

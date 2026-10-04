@@ -29788,3 +29788,11 @@ Added source `ep-36-nvidia-gtc-2026-everything-that-matters-recapped`; resynthes
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 323-AI是否可以取代翻译？错误的翻译如何塑造现实？
+
+Added source `323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf`; created [[YanFu|严复]], [[ConceptualTranslationJudgment|概念翻译判断]], and [[TranslationPathDependence|翻译路径依赖]]; and resynthesized [[DushuBuchenglin|独树不成林]] and [[AITranslation]] from their complete preserved evidence inventories. Core synthesis: AI can automate much routine translation and checking, but models can also reproduce path-dependent terminology, while disputed renderings of liberty, rights, spirit, wealth, evolution, and revolution require historical and normative judgment. No settled contradiction was adopted. Etymological, dialectal, transmission-history, and long-run causal claims remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. AI and technology plus history and geopolitics were refreshed from their complete bounded inputs; material candidate change triggered global compaction; the manifest and paragraph ledger now cover 3,724 sources and 789 overview paragraphs. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
