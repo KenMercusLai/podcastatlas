@@ -28895,10 +28895,6 @@ Added source `34-st-cuthberts-day-glt9977520388`; created bounded profiles for S
 
 Ran lint. See lint-report.md for details.
 
-## [2026-10-04] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
-
 ## [2026-10-04] ingest | How Foods & Nutrients Control Our Moods
 
 Added source `how-foods-nutrients-control-our-moods-scim8271372367`; resynthesized [[InteroceptiveBrainBodyCommunication]], [[BrainBodyEmotionMapping]], [[MindsetPhysiologyEffects]], and [[AliCrum]] from their complete preserved evidence inventories. Core synthesis: mood and emotion are embodied, action-biased states influenced by heterogeneous organ signaling, nutrient sensing, neuromodulation, immune context, microbiome ecology, and interpretation without being reducible to one food, transmitter, supplement, or vagal pathway. No settled contradiction was adopted. EPA, antidepressant, L-tyrosine, mucuna pruriens, 5-HTP, L-carnitine, probiotic, fasting, saccharin, inflammation, and heart-rate-variability claims remain source-scoped and clinically bounded. Recurring host and show profiles were not changed because the episode added topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,601-source coverage; no topic claim set was dirty and global compaction was not due.
@@ -29517,6 +29513,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] ingest | 《资治通鉴·汉纪》393-2｜燕王刘旦谋反失败，对混职场有啥启示？
 
 Added source `zizhi-tongjian-hanji-393-2-yanwang-liudan-moufan-shibai-dui-hunzhichang-yousha-qishi-lqwzkgdj9ozmwb7r97l4ts2tjx_s`; created [[LiuZeQiRoyalWesternHan|刘泽]]; and resynthesized [[LiuDanYanKingWesternHan|燕王刘旦]], [[JunBuyiWesternHan|隽不疑]], [[DesireCapacityFit|欲望与能力匹配]], and [[LethalPlanLeakageRisk|致命计划泄露风险]] from their complete preserved evidence inventories. Core synthesis: Liu Dan turns succession grievance into fabricated authority, legitimacy propaganda, weapons preparation, training, and killed remonstrance, while widening the plan lets Liu Cheng warn Jun Buyi before Liu Ze's Linzi rising and intended attack. Han Zhao spares Liu Dan while Liu Ze and the other participants die, changing punishment without correcting Liu Dan's imperial entitlement. No settled contradiction was adopted; Liu Chang, Cheng Zhen, Liu Cheng, Han Yi, exact preparations, and the Han Zhao-versus-Huo Guang authorship of mercy remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest, then only read by downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,689-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 《资治通鉴·汉纪》380-3｜古代男子宫刑过程揭秘
+
+Added source `zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9`; migrated and resynthesized [[SimaQian|司马迁]] from its complete 20-source evidence inventory; and extended [[CastrationCoercionAndMobility]] with punitive castration as bodily injury, humiliation, lineage control, and constrained survival for authorship rather than office. Core synthesis: Sima Qian's decision to endure punishment so he could finish [[Shiji|《史记》]] preserves agency without making the violence voluntary or benign. No settled contradiction was adopted. The exact operation, age, hemostasis, analgesia, aromatics, “蚕室” origin, and the claim that trauma caused particular judgments of Wei Qing and Huo Qubing remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest, then only read by downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,690-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
 
 ## [2026-10-04] lint | Wiki health check
 

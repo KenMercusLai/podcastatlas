@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》380-3｜古代男子宫刑过程揭秘](sources/zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9.md) — 芮淇讲透资治通鉴 episode on Sima Qian's punitive castration, shame, constrained survival for Shiji, and source-scoped medical explanations.
 - [《资治通鉴·汉纪》393-2｜燕王刘旦谋反失败，对混职场有啥启示？](sources/zizhi-tongjian-hanji-393-2-yanwang-liudan-moufan-shibai-dui-hunzhichang-yousha-qishi-lqwzkgdj9ozmwb7r97l4ts2tjx_s.md) — 刘旦早期谋反通过伪诏、昭帝身世攻击、备兵与杀谏推进，却因刘成告密被隽不疑提前截断，刘旦获赦而刘泽等人被诛。
 - [OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out](sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595.md) — All-In on OpenAI-Anthropic strategy, compute dependence, data-center legitimacy, enterprise AI ROI, housing taxes, market risk, and source-scoped political claims.
 - [《资治通鉴·汉纪》508丨大汉名将陈汤，手把手教你运筹帷幄](sources/zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu.md) — 陈汤以战力、攻守比例、行军时间、西域局势和经验判断段会宗之围无需仓促发兵，并准确预报五日内解围消息。

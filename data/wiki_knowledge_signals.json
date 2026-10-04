@@ -32988,9 +32988,9 @@
       "url": "/wiki/concepts/castrati/"
     },
     "CastrationCoercionAndMobility": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5221212176 [GLT5221212176].md",
@@ -32998,9 +32998,16 @@
           "show": "The Rest Is History",
           "title": "45. Top Ten Eunuchs",
           "url": "/wiki/sources/45-top-ten-eunuchs-glt5221212176/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》380-3｜古代男子宫刑过程揭秘 [loymeFh4UyIBxZ0E765f6GEhK6U9].md",
+          "key": "zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》380-3｜古代男子宫刑过程揭秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/castrationcoercionandmobility/"
     },
     "CatastrophicFailureRootCauseInvestigation": {
@@ -193751,6 +193758,162 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/simajunlatehan/"
+    },
+    "SimaQian": {
+      "episode_count": 21,
+      "show_count": 2,
+      "source_note_count": 21,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（2） [npGifE56ltAywW2Wt4wo-FiWo_EP].md",
+          "key": "zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（1） [lj7u4nluiMuzApGqhl_Hrfx_dqcE].md",
+          "key": "zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》127-4｜秦始皇陵的惊天秘密 [lhgwR2of7zcmg2GgBCDZragwstyi].md",
+          "key": "zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》127-4｜秦始皇陵的惊天秘密",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山 [lkcyayuQrTsGy_K4BhdvY-L_LaPo].md",
+          "key": "zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！ [lns7JT-KbV3QUNm66HZlTdgugbcO].md",
+          "key": "zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判 [ljXxLOK4uh_aJJIRmoLYBOdlSpV9].md",
+          "key": "zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门 [locmA2pLU7v_vsSSM5DR5FRC3Szw].md",
+          "key": "zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》108-2｜嫪毐的后宫秘史 [lof4XUuxfKEHM9iGPdvIhV7EXqDy].md",
+          "key": "zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》108-2｜嫪毐的后宫秘史",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》103-2｜司马迁的“idol” 为何死于酒色 [lvMQg1oJmKa9pqAGfhGvO4albpJX].md",
+          "key": "zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》103-2｜司马迁的“idol” 为何死于酒色",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》103-1｜司马迁看中的信陵君算是小人吗？ [lvtY1pdnIBvQpk0m16kkXzW4T_Ck].md",
+          "key": "zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》103-1｜司马迁看中的信陵君算是小人吗？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》96丨毛遂自荐（5） [lp6YFCxoySxGcnmg8v1ULJfyPtof].md",
+          "key": "zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》96丨毛遂自荐（5）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》96丨毛遂自荐（4） [lqs3pj2_rEbp0uH6q7AyECpjU3hK].md",
+          "key": "zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》96丨毛遂自荐（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4） [lpHAveRx7GYxNTncAK_-lb5hSrqA].md",
+          "key": "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2） [lrLulW0B6V0FB2Xpr2i5iFeM1h4n].md",
+          "key": "zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》90丨揭秘先秦最完美的复仇 [liU7gBL-bfFKnKw6dX5UdqcQ4tCM].md",
+          "key": "zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》90丨揭秘先秦最完美的复仇",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？ [lrDleQOzaZh4-xdwAS4KARzGBMZA].md",
+          "key": "zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》43丨孟尝君妻子偷情被发现他咋处理？ [lr2idCKtGfXtDkIK1bIaj9tIz8iX].md",
+          "key": "zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》43丨孟尝君妻子偷情被发现他咋处理？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运 [lrf5CQVorIYeP2LkbOZJu_lYJaXv].md",
+          "key": "zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》29丨苏秦励志爽文：知识改变命运",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv/"
+        },
+        {
+          "episode_file": "164.古文的力量：请收下这份千年未变的深情、洞见和勇气 [940236576].md",
+          "key": "164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576",
+          "show": "蜜獾吃书",
+          "title": "164.古文的力量：请收下这份千年未变的深情、洞见和勇气",
+          "url": "/wiki/sources/164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3） [lmHJ4Le2mWu1yHhL-qmuoQKfMHjf].md",
+          "key": "zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》10丨 以家族单位 有蚂蚁吃大象的精神（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》380-3｜古代男子宫刑过程揭秘 [loymeFh4UyIBxZ0E765f6GEhK6U9].md",
+          "key": "zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》380-3｜古代男子宫刑过程揭秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/simaqian/"
     },
     "SimaXiangru": {
       "episode_count": 1,

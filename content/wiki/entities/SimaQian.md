@@ -1,76 +1,79 @@
 ---
 title: "司马迁 / Sima Qian"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [historian, chinese-history, writing]
-sources: [zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep, zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-22
+sources:
+  - zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep
+  - zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce
+  - zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi
+  - zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo
+  - zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco
+  - zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9
+  - zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw
+  - zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy
+  - zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx
+  - zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck
+  - zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof
+  - zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk
+  - zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa
+  - zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n
+  - zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm
+  - zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza
+  - zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix
+  - zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv
+  - 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf
+  - zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9
+last_updated: 2026-10-04
 ---
 
-# 司马迁 / Sima Qian
+## Overview
 
-Sima Qian appears in [[164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]] both as the historian behind the [[HongmenYan|《鸿门宴》]] narrative and as one of the examples [[SuZhe|苏辙]] invokes when discussing how prose "气" is cultivated by seeing the world. The episode therefore uses him as both source authority and model of expansive experience.
+司马迁 / Sima Qian is presented across the source set as the author of [[Shiji|《史记》]], a traveler who gathered place memory, an interpreter whose narrative and moral choices remain visible, and now a punished survivor who accepted mutilation rather than abandon his work. His authority comes not from neutrality without viewpoint, but from combining documentary inheritance, travel, biography, judgment, and authored synthesis.
 
-The most important source claim is historiographical. QinZong notes that Sima Qian still places [[XiangYu|项羽]] in the imperial annals despite his brutality and ultimate defeat, because Xiang Yu changed history and retained a kind of moral face that a purely success-based account would miss.
+## Current Profile
 
-[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] adds Sima Qian as a Warring States commentator through the [[Shiji|《史记》]] tradition. The episode cites his explanation that [[LiangHuiWang|魏罃]] survives and [[WeiState|魏国]] avoids division because [[HanState|韩国]] and [[ZhaoState|赵国]] cannot align their plans after victory.
+The sources use Sima Qian in four overlapping roles. As a source builder, he preserves biographies, speeches, local stories, dreams, material-economic judgments, and remembered landscapes that later chronologies sometimes omit. As a moral historian, he distinguishes accomplishment from virtue: he can honor [[Xinlingjun|信陵君]], preserve [[XiangYu|项羽]]'s historical force, sympathize with [[WeiRan|魏冉]], lament [[HanFei|韩非]] and [[Chunshenjun|春申君]], and still judge strategic blindness or service to harmful rule.
 
-[[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]] adds Sima Qian as the narrative source for [[SuQin|苏秦]]'s biography. The episode says [[Shiji|《史记》]] preserves the detailed arc from studying under [[Guiguzi|鬼谷子]], to failure and family mockery, to closed-door self-study and later fame. In this use, Sima Qian supplies the dramatic life-story material that later readers turn into [[InspirationalNarrativeCommercialization|励志叙事商业化]].
+As an authored narrator, he is neither mechanically accepted nor dismissed. The episodes test Shiji against chronology, textual variants, gendered framing, political motive, and later commentary. Travel memory gives some stories geographic depth but does not fill evidentiary gaps automatically; strong narrative form can preserve insight while also amplifying scandal, dreams, praise, or blame.
 
-[[zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]] adds Sima Qian as a traveler and memory witness. The episode says that when Sima Qian later visited [[XueWarringStates|薛地]] / Mengchang Jun's old region, local people still connected many brave and combative households with Mengchang Jun's earlier recruitment of retainers.
+The punishment-and-authorship layer adds the biographical cost behind that work. [[zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9|Hanji 380-3]] says Sima Qian defended [[LiLingWesternHan|李陵]], could not pay the commutation fine, and accepted castration so he could complete Shiji. His continuing shame makes survival a constrained choice rather than a clean heroic triumph. The host further links this trauma to his treatment of [[WeiQingHanGeneral|卫青]] and [[HuoQubing|霍去病]], but that causal claim remains source-scoped.
 
-[[zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza]] invokes Sima Qian as a historian unusually sympathetic to merchants and wealth. The episode links his merchant biographies and wealth comments to [[GuanZhong|管仲]]'s economic statecraft: material abundance makes ritual and social order more plausible, while poverty makes polite order fragile.
+## Key Characteristics
 
-[[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]] invokes Sima Qian as a sympathetic reader of [[WeiRan|魏冉]]'s Qin service. The host records that sympathy but pushes back, arguing that Wei Ran's contributions do not erase his overgrown power, private wealth, and violation of ruler-minister boundaries after [[FanJu|范雎]] helps [[QinZhaoxiangwang|秦昭襄王]] recover authority.
+- Author of Shiji whose historical synthesis joins inherited texts, biography, travel, local memory, narrative structure, and explicit judgment.
+- Traveler-observer whose visits to Huaiyin, Xue, Daliang, Qin works, and other remembered landscapes connect place evidence with written history.
+- Moral evaluator who preserves achievement and sympathy without treating loyalty, fame, or success as automatic exoneration.
+- Source-critical problem in his own right because chapter design, omissions, dreams, scandal language, name avoidance, and favorable portraits require comparison rather than passive acceptance.
+- Historian attentive to wealth, merchants, material livelihood, political responsibility, and the practical causes beneath moral order.
+- Punished survivor who, in the episode's account, endured castration and lasting shame to finish Shiji.
 
-[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]] invokes Sima Qian as the source of the compact Fan Ju formula about repaying both kindness and resentment. The episode uses that formula to place Fan Ju's revenge inside a Warring States moral world where gratitude and grievance both demand visible settlement.
+## Evidence
 
-[[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]] adds Sima Qian as the historian behind the [[Shiji|《史记》]] Zhao dream structure and the critique of [[Pingyuanjun|平原君]]. The episode says Sima Qian uses repeated dreams in the Zhao lineage as [[HistoricalDreamForeshadowing|foreshadowing]], then judges Pingyuanjun as an elegant but strategically limited noble whose acceptance of [[Shangdang|上党]] helped open the path to [[ChangpingBattle|长平之战]].
+- Biography and local memory - [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|Hanji 145 part 1]], [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|part 2]], [[zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix|Zhouji 43]], and [[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof|Zhouji 96 part 5]] use travel, local stories, and remembered places while preserving gaps and exaggeration risks.
+- Narrative and source criticism - [[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv|Zhouji 29]], [[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n|Zhouji 93 part 2]], [[zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk|Zhouji 96 part 4]], [[zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy|Qinji 108-2]], and [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]] treat biography, dreams, name forms, gendered scandal language, and authored synthesis as evidence requiring calibration.
+- Moral and political judgment - [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf|Zhouji 10 part 3]], [[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm|Zhouji 90]], [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa|Zhouji 95 part 4]], [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw|Qinji 109-2]], [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]], and [[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi|Qinji 127-4]] show causal explanation, sympathy, lament, and responsibility judgments.
+- Favor and historical stature - [[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck|Qinji 103-1]], [[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx|Qinji 103-2]], and [[164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576|古文的力量]] preserve favorable reception of Xinlingjun and Xiang Yu while keeping title-level claims and later admiration distinct from direct argument.
+- Material and ritual interpretation - [[zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza|Zhouji 75-4]] uses Sima Qian's sympathy for commerce and livelihood, while [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]] uses Shiji to explain fengshan legitimacy.
+- Punishment and authorship - [[zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9|Hanji 380-3]] says Sima Qian chose castration over death to finish Shiji and carried enduring shame afterward.
 
-[[zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk]] adds Sima Qian through a name-avoidance detail rather than a judgment. The episode explains [[LiTan|李谈 / 李同]]'s transmitted name variation by saying that Shiji sometimes changes "谈" to "同" because Sima Qian avoided his father Sima Tan's personal name. The source also notes inconsistency, making the point a useful [[TextualVariantPoliticalStakes|textual-variant]] caution rather than a simple rule.
+## Qualifications
 
-[[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof]] adds Sima Qian as a comparatively partial reader of [[Xinlingjun|信陵君]]. The episode contrasts the [[Shiji|《史记》]] chapter title "魏公子列传" with the other Four Lords' title-based biographies and argues that Sima Qian's language gives Xinlingjun a warmer judgment than [[Mengchangjun|孟尝君 / 田文]], [[Pingyuanjun|平原君]], or [[Chunshenjun|春申君]].
+This page synthesizes podcast source notes rather than replacing a full scholarly biography or textual history of Sima Qian and Shiji. Claims about what Sima Qian personally saw, collected, favored, omitted, exaggerated, or intended remain bounded to the cited episodes. Hanji 380-3's medical reconstruction and its claim that punishment-driven resentment explains the treatment of Wei Qing and Huo Qubing are especially interpretive; the episode does not independently establish the exact surgery, age, analgesia, infection control, or compositional causation.
 
-The same source also uses Sima Qian as travel-memory witness. It says he visited the old [[Daliang|大梁]] region and asked locals about Yi Gate, which lets the episode connect [[HouYing|侯嬴]]'s gatekeeping role to place memory. At the same time, the host checks Sima Qian's praise against the chronicle by treating the claim that Wei avoided attacks for more than ten years because of Xinlingjun as likely exaggerated.
+## What Changed
 
-[[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]] continues the title-level question of why Sima Qian valued [[Xinlingjun|信陵君]]. The transcript excerpt mainly grounds that question through later events: [[MaoGong|毛公]] and [[XueGong|薛公]] bring Xinlingjun back to Wei, his reputation mobilizes a five-state victory, and the [[GuanchengWarringStates|管城]] episode forces him into self-condemnation as a 小人. The page therefore keeps the Sima Qian connection as a favorable-biography frame rather than treating this excerpt as a direct new Sima Qian argument.
+- Migrated the page from source-by-source accumulation to the synthesis-v1 profile while preserving all 20 existing source slugs in their original order.
+- Added Hanji 380-3's punishment-and-authorship layer: defense of Li Ling, constrained choice of castration over death, continuing shame, and the source-scoped trauma-to-historiography interpretation.
 
-[[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]] keeps that favorable-biography frame source-scoped. Although the episode title invokes Sima Qian's "idol," the provided markdown develops [[LiuBang|刘邦]]'s admiration of Xinlingjun more directly: Liu Bang tries to enter Xinlingjun's world, misses him by death, turns to [[ZhangEr|张耳]], and later keeps honoring Xinlingjun. For this page, the source therefore adds reception evidence around Xinlingjun's long reputation more than a new explicit Sima Qian claim.
+## Relationships
 
-[[zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy]] invokes Sima Qian indirectly through [[Shiji|《史记》]]'s language around [[ZhaoJi|赵姬]] and [[LaoAi|嫪毐]]. The host uses the account for concrete scandal detail, but also critiques how male-authored historical writing can make Zhao Ji legible mostly through uncontrolled desire. This page records the critique as [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]], not as a rejection of Sima Qian's importance as a source.
-
-[[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]] adds Sima Qian as the sympathetic memory layer around [[Chunshenjun|黄歇 / 春申君]]. The episode says Shiji's Chunshenjun biography closes with Sima Qian visiting the old Chu region, seeing the grandeur associated with Chunshenjun, and remembering his earlier achievements in persuading Qin and returning [[MiWan|楚考烈王]]. That sympathy is not exoneration: the host still treats Chunshenjun's late submission to [[LiYuanWarringStates|李源 / 李元]] and fatal indecision as the contrast that makes the fall poignant.
-
-[[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds Sima Qian's Han Fei reception. The episode cites him as lamenting that the author of 《说难》 could not protect himself from the very difficulty of persuasion he described. It also uses [[Shiji|《史记》]] as the contrast source against [[SimaGuang|司马光]]: in the host's reading, Shiji makes [[HanFei|韩非]] a failed defender of [[HanState|韩国]], not simply a traitor serving [[QinState|秦国]].
-
-[[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco]] adds Sima Qian through the host's quotation of "究天人之际，通古今之变，成一家之言." The episode uses that line to respect Shiji as authored synthesis while refusing to read its scandal narratives mechanically. For the [[MiWan|楚考烈王]] and [[QinShiHuang|嬴政 / 秦始皇]] paternity branches, Sima Qian's narrative power becomes part of the evidence problem rather than a reason to ignore the text.
-
-[[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]] adds Sima Qian as the historian behind the fengshan theory used in the episode. The source turns to [[Shiji|《史记》]]'s Fengshan material to explain why [[QinShiHuang|嬴政 / 秦始皇]] could treat [[Taishan|泰山]] ritual as more than local sacrifice: for the episode, Sima Qian's account gives the language in which a conqueror claims [[MandateOfHeavenLegitimacy|天命认可]].
-
-[[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi]] adds Sima Qian's harsh closing judgment on [[MengTian|蒙恬]]. The episode says Sima Qian personally saw the Qin straight road, long-wall works, and barriers, and therefore did not accept Meng Tian's claim that "截断地脉" explained his death. In this reading, Sima Qian's point is concrete political responsibility: after unification, Meng Tian should have urged [[QinShiHuang|秦始皇]] to let the people rest instead of catering to labor-consuming projects.
-
-[[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|Hanji 145]] adds Sima Qian through the [[Shiji|《史记》]] Huaiyin Hou biography. The episode treats Sima Qian as the source for [[HanXin|韩信]]'s early stories, including the Piaomu feeding and "胯下之辱," while also noting the silence around Han Xin's family background as an evidentiary gap rather than filling it with legend.
-
-[[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]] adds a more explicit travel-memory layer. The episode says Sima Qian collected local Huaiyin stories about Han Xin while traveling, which gives the Piaomu and humiliation anecdotes a place-memory basis without settling stronger claims about old-Han royal descent, family military books, or paternal training.
-
-## Connections
-- [[HongmenYan|《鸿门宴》]] - narrative scene discussed in the episode.
-- [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[FanZeng|范增]], and [[FanKuai|樊哙]] - figures in the source reading.
-- [[ShangShumiHanTaiweiShu|《上枢密韩太尉书》]] and [[SuZhe|苏辙]] - "养气" and experience branch.
-- [[MoralFaceUnderPowerCompetition]], [[HistoricalDetectiveReasoning]], and [[ClassicalProseReading]] - interpretive frames.
-- [[Shiji|《史记》]], [[WeiState|魏国]], [[LiangHuiWang|魏罃 / 梁惠王]], and [[CoalitionSettlementFailure]] - Warring States judgment added by Zhouji 10 part 3.
-- [[SuQin|苏秦]], [[Guiguzi|鬼谷子]], [[FailureDrivenSelfStudy|失败后的自学翻身]], and [[InspirationalNarrativeCommercialization|励志叙事商业化]] - Su Qin biography and reception branch added by Zhouji 29.
-- [[GuanZhong|管仲]], [[PeopleFirstEconomicStatecraft|富民优先的经济治国]], and [[PrivateInterestAsPublicUse|私利转公功]] - Zhouji 75-4 use of Sima Qian as a commercial-wealth comparison point.
-- [[WeiRan|魏冉]], [[FanJu|范雎]], and [[QinFourNoblesCourtPower|秦国四贵权力结构]] - Zhouji 90 historiographical sympathy and host disagreement over Wei Ran's fall.
-- [[FanJu|范雎]], [[WeiQiWarringStates|魏齐]], [[PersonalRevengeThroughStatePower|以国力行私仇]], and [[RetainerReciprocityEthic|士为知己者死]] - Zhouji 95 part 4 revenge-and-repayment formula.
-- [[HistoricalDreamForeshadowing|梦兆叙事伏笔]], [[Pingyuanjun|平原君]], [[Shangdang|上党]], and [[ChangpingBattle|长平之战]] - Zhouji 93 part 2 Zhao-line dream structure and responsibility judgment.
-- [[LiTan|李谈 / 李同]], [[Shiji|《史记》]], and [[TextualVariantPoliticalStakes|史书异文政治重量]] - Zhouji 96 part 4 name-avoidance variant branch.
-- [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[Daliang|大梁]], [[WarringStatesFourLords|战国四公子]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 96 part 5 favorable Wei Gongzi biography and place-memory branch.
-- [[MaoGong|毛公]], [[XueGong|薛公]], [[MengAo|蒙敖]], [[GuanchengWarringStates|管城]], and [[StateSurvivalKinshipDutyConflict|国存亡与父子君臣义冲突]] - Qinji 103-1 continuation of the Xinlingjun evaluation frame.
-- [[LiuBang|刘邦]], [[ZhangEr|张耳]], [[WarringStatesFourLords|战国四公子]], and [[MoralReputationPoliticalCapital|道德名望政治资本]] - Qinji 103-2 reception branch under the title-level Sima Qian "idol" frame.
-- [[ZhaoJi|赵姬]], [[LaoAi|嫪毐]], [[Shiji|《史记》]], [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]], and [[zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy|Qinji 108-2]] - source-language critique around the Qin court scandal.
-- [[Chunshenjun|黄歇 / 春申君]], [[MiWan|楚考烈王]], [[LiYuanWarringStates|李源 / 李元]], [[WarringStatesFourLords|战国四公子]], and [[HistoriographicalPresentism|史评当代性]] - Qinji 109-2 sympathetic memory of merit beside late failure.
-- [[HanFei|韩非]], [[Shiji|《史记》]], [[SimaGuang|司马光]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - Han Fei lament and Shiji/Zizhi contrast over whether Han Fei tried to preserve Han.
-- [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]], [[MiWan|楚考烈王]], [[ChangpingJun|昌平君]], [[QinShiHuang|嬴政 / 秦始皇]], and [[HistoricalDetectiveReasoning|historical detective reasoning]] - Shiji authorship and scandal-source caution.
-- [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]], [[Shiji|《史记》]], [[Taishan|泰山]], and [[FengshanRitualLegitimacy|封禅礼制合法性]] - Fengshan theory and Qin Shi Huang's heavenly-legitimacy claim.
-- [[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi|Qinji 127-4]], [[MengTian|蒙恬]], [[QinZhidao|秦直道]], and [[LoyalServiceMoralLiability|忠臣事暴政的罪责]] - rejection of geomantic excuse and insistence on responsibility for labor burden.
-- [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|Hanji 145]], [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]], [[HanXin|韩信]], [[Huaiyin|淮阴]], and [[GreatCourageUnderHumiliation|忍辱大勇]] - Huaiyin Hou biography stories, travel memory, and the source-gap around Han Xin's family.
+- [[Shiji|《史记》]] - principal historical work through which Sima Qian appears as author, compiler, narrator, and judge.
+- [[LiLingWesternHan|李陵]] - defense of Li Ling is the episode-attributed trigger for Sima Qian's prosecution.
+- [[HanWudi|汉武帝]] - ruler and court context for Sima Qian's punishment.
+- [[Xinlingjun|信陵君]] - unusually favorable biographical subject used to study Sima Qian's evaluative preferences.
+- [[XiangYu|项羽]] - defeated but historically transformative figure whose placement preserves force and residual moral face.
+- [[HanXin|韩信]] - biographical subject whose local-memory stories show both the richness and evidentiary limits of travel-based history.
+- [[CastrationCoercionAndMobility]] - framework for understanding Sima Qian's bodily punishment, constrained survival, and later achievement without making the punishment benign.
+- [[HistoricalDetectiveReasoning]] - comparative method needed to test Shiji's narrative power against chronology, variants, motive, and other source layers.
