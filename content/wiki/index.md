@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密](sources/zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg.md) — 鸡骨占卜被还原为祭祀、制骨、插竹与经书释象的完整程序，并与汉武帝采用粤巫、公孙卿献策及求仙建筑并置。
+- [《资治通鉴·汉纪》364-2｜汉武帝打朝鲜的历史问题](sources/zizhi-tongjian-hanji-364-2-hanwudi-da-chaoxian-de-lishi-wenti-lrid25t03ell_bs6siq6yvrj3lp9.md) — 从卫满建国与汉朝外臣协议追溯卫右渠阻断周边小国朝见、涉何暴力出使及朝鲜报复，并记录灵芝祥瑞与公孙卿对旱灾的封禅化解释。
 - [《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目](sources/zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif.md) — 以赵破奴征楼兰、车师和河西设防为年代背景，重建角抵、鱼龙、蔓延的宫廷奇观，并把梁武帝节制养生说保留为来源限定。
 - [《资治通鉴·汉纪》365-2｜玩的花，揭秘史上最好色的皇帝](sources/zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd.md) — 汉武帝后宫被呈现为按监督、登记、俸给、生育与封号分层的亲密资源体系；丽娟与“卖笑花”等故事则保留为后世传奇材料。
 - [《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事](sources/zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb.md) — 涉何暴力出使与朝鲜报复触发战争；卫山劝降因互惧和缴械争议失败，荀彘与杨仆又因强攻、议降和失期陷入前线猜疑。
@@ -3807,6 +3808,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨仆 / Yang Pu (Western Han)](entities/YangPuWesternHan.md) — 征卫氏朝鲜的楼船将军，其议降渠道、失期、被捕与赎死为民构成分裂统帅的另一支。
 - [卫右渠 / King Ugeo of Wiman Joseon](entities/UgeoWimanJoseon.md) — 卫氏朝鲜末代君主，在汉军合军急攻和内部倒戈中被尼谿相参派人杀死。
 - [卫氏朝鲜 / Wiman Joseon](entities/WimanJoseon.md) — 在王险城围攻、统帅分裂、内部投降与卫右渠之死后被西汉征服的区域政权。
+- [卫满 / Wiman](entities/WimanJoseonFounder.md) — 从燕地流亡后聚合难民与当地势力、获汉朝外臣承认并扩张卫氏朝鲜的建国者。
 - [王险城 / Wangxian City](entities/WangxianCity.md) — 卫氏朝鲜末期都城与最终围攻中心；本页将来源摘要的“王显城”规范为传世文本用名。
 - [刘端 / Liu Duan (Western Han)](entities/LiuDuanWesternHan.md) — 受宗室亲缘保护却以宫廷暴力、税赋阻断和迫害官员制造地方治理风险的西汉胶西王。
 - [Yan Fu / 严复](entities/YanFu.md) — Modern Chinese translator whose rejected alternatives expose conceptual boundaries obscured by later standard terminology.
@@ -18165,6 +18167,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [司法滥用式官逼民反 / Judicial Abuse Rebellion Trigger](concepts/JudicialAbuseRebellionTrigger.md) — Mechanism where law becomes torture, false accusation, and official manipulation, collapsing ordinary people's lawful options into endurance or resistance.
 - [尚德缓刑式刑政修复 / Shangde Huanxing Penal Reform](concepts/ShangdeHuanxingPenalReform.md) — Penal-governance repair frame where political restoration requires cautious, humane punishment against torture and official self-protection incentives.
 - [Tribute System Economic Incentive / 朝贡体系经济激励](concepts/TributeSystemEconomicIncentive.md) — Pattern where tribute participation is encouraged by rewards,回赐, high official prices, hosted reception, and controlled trade access.
+- [Tribute Access Gatekeeping / 朝见通道垄断](concepts/TributeAccessGatekeeping.md) — 边疆中介者凭借地理与政治位置阻断周边小国直达帝国中心，并可能把朝见、奏书、信息与结盟通道转化为自身权力。
 - [Tributary Status Diplomatic Rigidity / 朝贡身份秩序外交僵化](concepts/TributaryStatusDiplomaticRigidity.md) — Failure mode where a court protects tribute-hierarchy symbols even when equal diplomacy, fiscal limits, and military risk demand adaptation.
 - [身份编码式日常管制 / Status-Coded Everyday Regulation](concepts/StatusCodedEverydayRegulation.md) — Pattern where hierarchy is made visible and enforceable through clothing, fabric, motifs, housing, vessels, footwear, headwear, hair, and other daily material signals.
 - [Biocomputing AI Hardware](concepts/BiocomputingAIHardware.md) — AI-hardware frame for using living neural systems as specialized processors rather than biological power sources.

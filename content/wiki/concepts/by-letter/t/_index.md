@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9689
+wiki_total_pages: 9690
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -941,6 +941,9 @@ wiki_pages:
   - key: "TribalTruth"
     title: "Tribal Truth / 部落真相"
     url: "/wiki/concepts/tribaltruth/"
+  - key: "TributeAccessGatekeeping"
+    title: "Tribute Access Gatekeeping / 朝见通道垄断"
+    url: "/wiki/concepts/tributeaccessgatekeeping/"
   - key: "TricksterAmbivalence"
     title: "Trickster Ambivalence"
     url: "/wiki/concepts/tricksterambivalence/"
