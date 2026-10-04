@@ -1,55 +1,66 @@
 ---
 title: "Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性"
 type: concept
-tags: [court-politics, harem-politics, late-han, informal-power]
+knowledge_schema: synthesis-v1
+tags: [court-politics, harem-politics, favorites, western-han, late-han, informal-power]
 sources:
   - zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc
   - zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v
-last_updated: 2026-08-28
-knowledge_schema: synthesis-v1
+  - zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr
+last_updated: 2026-10-05
 ---
 
 ## Definition
 
-Palace favorite protection fragility / 宫廷宠幸保护脆弱性 is the risk that a palace favorite's safety depends on a ruler's personal affection rather than on formal rank, lineage support, or institutional allies, so protection can disappear immediately when the patron dies or loses power.
+Palace favorite protection fragility / 宫廷宠幸保护脆弱性 is the risk that a favorite's safety, wealth, or status depends on a ruler's personal attachment rather than durable institutional support, so protection can collapse after succession, changed affection, patron death, or intervention by a stronger palace actor.
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|Hanji 879]] creates the concept through [[TianShengLateHan|田胜]]. The source says [[EmperorHuanOfHan|汉桓帝]] favors Tian Sheng enough to consider making her empress, but her low origin blocks formal elevation. [[EmpressDowagerDouMiao|窦妙]] receives the empress title, and after Huan dies she can execute Tian Sheng because Tian's protection was personal rather than institutional.
+The concept now spans Western and Eastern Han cases and is no longer limited to empress competition. Protection fails through several distinct gaps: affection can disappear, affection can lack title, title can lack affection, succession can reverse patron-created wealth, and a stronger palace actor can defeat the reigning ruler's protection.
 
-Hanji 868 adds the pre-death rivalry layer. [[EmpressDengHuanLateHan|邓皇后]] loses title and dies after the [[GuoGuirenHuanLateHan|郭贵人]] rivalry, but Guo's apparent victory also fails when Huan's affection cools. Tian Sheng is loved but blocked from the empress title, while Dou Miao wins the title without Huan's affection. The pattern therefore is not only post-patron execution; it also includes unstable palace victories where neither favor nor formal title fully solves protection.
+The late-Han harem cases isolate the split among affection, title, and post-patron authority. [[GuoGuirenHuanLateHan|郭贵人]] outlasts [[EmpressDengHuanLateHan|邓皇后]] but loses affection; [[TianShengLateHan|田胜]] has affection without secure title; and [[EmpressDowagerDouMiao|窦妙]] gains title without affection, then can execute Tian Sheng after [[EmperorHuanOfHan|汉桓帝]] dies. [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] and [[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|Hanji 879]] jointly support this mechanism.
 
-The pattern is narrower than ordinary palace influence. A favorite can be close to the ruler and still lack durable status. The danger appears at the succession boundary, when the old patron's affection no longer constrains the actors who hold formal authority.
+The Western Han male-favorite cases separate succession reversal from intervention during the patron's life. [[DengTong|邓通]]'s emperor-created wealth is reversible when [[HanJingdi|汉景帝]] succeeds his father, while [[HanYanWesternHan|韩嫣]]'s closeness to [[HanWudi|汉武帝]] does not protect him when the empress dowager orders his death. The protection problem therefore does not require the patron to die. [[zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr|Hanji 372-4]] supports both contrasts.
+
+Formal office and wealth reduce neither mechanism to simple low status. Han Yan and Deng Tong have resources, but those resources remain dependent because they do not outweigh succession power or senior palace-family authority. Durable protection requires more than affection and can remain incomplete even when a favorite has title, office, lineage, or money.
 
 ## Key Claims
 
-- Personal favor can create temporary access without creating durable political protection.
-- Formal rank and lineage backing matter because they can survive the patron's immediate presence better than affection can.
-- Rivalry inside a harem or palace household becomes lethal when one side holds formal post-patron authority.
-- A ruler's private desire can leave dependents exposed after death if it is not converted into legitimate status.
-- Winning a palace rivalry or formal title can still fail as protection when affection, status, and institutional backing are split.
-- The concept should be used for protection collapse, not for every case of palace intimacy or favorite influence.
+- Personal favor can create rapid access, office, wealth, or visibility without creating durable protection.
+- Succession can reverse patron-created fortunes because the new ruler is not bound by the prior ruler's attachment.
+- A stronger palace-family actor can defeat the reigning patron's protection even before succession.
+- Formal title, office, lineage, and wealth can improve position but do not guarantee safety when authority is divided.
+- Palace rivalry becomes especially dangerous when affection, title, family backing, and post-patron authority belong to different people.
+- The concept should be used for protection collapse, not for every case of intimacy or favorite influence.
 
 ## Evidence
 
-- Rivalry without durable protection: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Guo Guiren outlasts Empress Deng but then loses Huan's favor, making victory unstable.
-- Title without affection: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Dou Miao becomes empress while Huan continues to favor Tian Sheng, turning formal victory into an incomplete protection.
-- Favor without secure title: [[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|Hanji 879]] says Emperor Huan considers Tian Sheng for empress but appoints Dou Miao because Tian's origin is politically weak.
-- Post-patron collapse: [[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|Hanji 879]] says Dou Miao executes Tian Sheng after Huan dies and Dou becomes empress dowager.
-- Desire-status gap: [[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|Hanji 879]] ties Huan's continued favor toward Tian Sheng to a broader source-scoped warning about uncontrolled desire.
+Affection, title, and lineage split:
+- [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Guo Guiren loses affection after outlasting Empress Deng, Tian Sheng is loved but blocked from the empress title, and Dou Miao gains title and family-backed office effects without Huan's affection.
+
+Post-patron execution:
+- [[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|Hanji 879]] says Dou Miao executes Tian Sheng after Huan dies and Dou becomes empress dowager.
+
+Succession reversal:
+- [[zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr|Hanji 372-4]] says Jingdi confiscates Deng Tong's emperor-backed wealth and the favorite later dies in poverty.
+
+Protection defeated during the patron's life:
+- [[zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr|Hanji 372-4]] says the empress dowager has Han Yan killed despite Han Wudi's plea.
 
 ## Counterevidence & Qualifications
 
-The concept is currently grounded in two source notes from the same Huan harem sequence. It should not be generalized to all favorites: some favorites may have family power, titles, offices, or allies that make their position less fragile than Tian Sheng's. Hanji 868 also shows that formal title without affection is not identical to Tian Sheng's low-status vulnerability; Dou Miao's title later becomes politically real even though the marriage remains emotionally failed.
+The evidence comes from three popular-history source notes and should not be generalized to every favorite. Han Yan has royal descent and office, while Deng Tong has extraordinary wealth, so neither case proves that formal resources never matter; they show only that such resources can remain subordinate to succession and palace authority. Hanji 868 also shows that formal title without affection is not identical to favorite vulnerability, because Dou Miao's title later becomes politically effective. Private motives, the precise legal process, and the sexual character of favorite relationships remain source-scoped.
 
 ## What Changed
 
-- Hanji 868 adds the Deng, Guo, Tian, and Dou pre-death rivalry layer, broadening the concept from post-patron collapse to unstable palace victory.
-- Hanji 879 creates this concept as a way to distinguish palace favor from institutional protection.
+- Expanded the concept from late-Han harem competition to male favorites and cross-dynastic protection failure.
+- Added succession reversal and senior palace-family intervention as distinct collapse mechanisms.
+- Qualified the earlier status account: office, lineage, and wealth can coexist with dependence rather than eliminating it.
 
 ## Related Concepts
 
-- [[MingqiLegitimacy|名器合法性]] - formal title and status frame that palace favor lacks when it remains private.
-- [[PalaceProximityPower|宫廷近身权力]] - overlapping access mechanism, but not the same as post-patron protection.
-- [[PersonalRevengeThroughStatePower|以国力行私仇]] - adjacent pattern where public authority can settle private resentment.
-- [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - related succession pattern where personal affection reshapes formal order.
+- [[CourtIntimacyAsPoliticalResource|宫廷亲密关系作为政治资源]] - upstream process by which closeness first becomes access, office, or wealth.
+- [[MingqiLegitimacy|名器合法性]] - formal title and status can outlast affection but still do not solve every protection problem.
+- [[PalaceProximityPower|宫廷近身权力]] - access mechanism that creates influence without guaranteeing security.
+- [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]] - public-order consequences when private attachment directs reward and resources.
+- [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - neighboring pattern where personal affection reshapes succession expectations.

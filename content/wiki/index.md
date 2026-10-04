@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》372-4｜西汉皇帝多是双性恋的原因？](sources/zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr.md) — 邓通、韩嫣与李延年展示亲密宠幸如何转化为财富、官位和近身权力，又如何在继位或更强宫廷权威介入时迅速失效；现代性取向与遗传解释保留为未证实推断。
 - [《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布](sources/zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre.md) — 公孙贺以骑射之才不足承担相责而泣跪辞任，汉武帝仍强令接受；征马、蝗灾、巡祭与大宛远征共同显出高位责任和战争后勤压力。
 - [《资治通鉴·汉纪》374-1｜汉武帝为何宁愿自损八千，也不愿放过大宛国？](sources/zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh.md) — 赵破奴被俘后，朝臣主张集中对付匈奴，汉武帝却以西域侧翼布局与国家信誉为由坚持伐宛；同年边防建设和匈奴入侵使这一选择的机会成本更清晰。
 - [VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常](sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz.md) — 这病说来话长 listener roundtable on clinical training, animal ethics, hospital queues, ICU reversibility, chronic follow-up, hygiene, and clinician public education.
@@ -3772,6 +3773,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [韩嫣 / Han Yan (Western Han)](entities/HanYanWesternHan.md) — 汉武帝幼年伙伴与亲近宠臣，其官位、赏赐、车驾僭越和被王太后处死展示宠幸权力及保护边界。
+- [李延年 / Li Yannian (Western Han)](entities/LiYannianWesternHan.md) — 以音乐、舞蹈、李夫人亲缘和近身宠幸由倡人家庭跃升为协律都尉的西汉宫廷艺人。
 - [小范 / Xiao Fan (这病说来话长)](entities/XiaoFanZheBing.md) — Partial-identity clinician guest connecting procedural learning, resuscitation planning, chronic review, and careful public education.
 - [张胜 / Zhang Sheng (Su Wu mission)](entities/ZhangShengSuWuMissionWesternHan.md) — 苏武使团副使，私助虞常刺杀卫律的计划，事败后被供出并在死亡威胁下投降。
 - [虞常 / Yu Chang (Western Han-era)](entities/YuChangWesternHan.md) — 匈奴境内密谋参与者，其失败、被捕与供出张胜触发苏武使团的拘押危机。

@@ -47048,9 +47048,9 @@
       "url": "/wiki/concepts/courtfactionalsurvival/"
     },
     "CourtIntimacyAsPoliticalResource": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
@@ -47058,9 +47058,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
           "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》372-4｜西汉皇帝多是双性恋的原因？ [lqiNXOxBU6dhvMdiioWOcjAaHKwR].md",
+          "key": "zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》372-4｜西汉皇帝多是双性恋的原因？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/courtintimacyaspoliticalresource/"
     },
     "CourtLegitimacyOverPatronLoyalty": {
@@ -93888,6 +93895,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/hanyandirector/"
     },
+    "HanYanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》372-4｜西汉皇帝多是双性恋的原因？ [lqiNXOxBU6dhvMdiioWOcjAaHKwR].md",
+          "key": "zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》372-4｜西汉皇帝多是双性恋的原因？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/hanyanwesternhan/"
+    },
     "HanYannianWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -126355,6 +126378,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/lixunwesternhan/"
+    },
+    "LiYannianWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》372-4｜西汉皇帝多是双性恋的原因？ [lqiNXOxBU6dhvMdiioWOcjAaHKwR].md",
+          "key": "zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》372-4｜西汉皇帝多是双性恋的原因？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/liyannianwesternhan/"
     },
     "LiYanshouWesternHan": {
       "episode_count": 1,
@@ -161009,9 +161048,9 @@
       "url": "/wiki/concepts/palacefavorselfrestraint/"
     },
     "PalaceFavoriteProtectionFragility": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》879丨死在女人身上的昏庸男人 [lqz5_Mpi0WAA_xmUHJHwkAECjJRC].md",
@@ -161026,9 +161065,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记",
           "url": "/wiki/sources/zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》372-4｜西汉皇帝多是双性恋的原因？ [lqiNXOxBU6dhvMdiioWOcjAaHKwR].md",
+          "key": "zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》372-4｜西汉皇帝多是双性恋的原因？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/palacefavoriteprotectionfragility/"
     },
     "PalaceInformationDiscipline": {
