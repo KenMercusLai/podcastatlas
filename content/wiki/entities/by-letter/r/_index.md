@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 12279
+wiki_total_pages: 12281
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "RamonSampedro"
     title: "Ramon Sampedro / 桑佩德罗"
     url: "/wiki/entities/ramonsampedro/"
+  - key: "RanaElKaliouby"
+    title: "Rana el Kaliouby"
+    url: "/wiki/entities/ranaelkaliouby/"
   - key: "RanaMitter"
     title: "Rana Mitter"
     url: "/wiki/entities/ranamitter/"

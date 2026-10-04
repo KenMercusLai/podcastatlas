@@ -2,37 +2,58 @@
 title: "First Draft Thinking"
 type: concept
 tags: [ai, education, learning, writing]
-sources: [tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]
-last_updated: 2026-08-05
+sources:
+  - tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128
+  - tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128
+  - tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128
+  - tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128
+last_updated: 2026-10-04
+knowledge_schema: synthesis-v1
 ---
 
 # First Draft Thinking
 
-First draft thinking is [[HeatherSchwartz]]'s term in [[tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]] for the protected first attempt a student makes before using AI. It includes the blank-page work of organizing information, forming an initial argument, trying a problem, combining skills, and discovering what the student does not yet understand.
+## Definition
 
-The concept does not reject [[AIAsTutor]]. Its claim is about order. AI can explain, refine, compare, or extend after a student has done enough initial cognitive work, but when it supplies the first solution or draft, it can turn learning into passive consumption and deepen [[AIShortcutRisk]].
+First draft thinking is the protected initial attempt a learner or decision-maker makes before AI supplies an answer, draft, or recommendation. It preserves the blank-page work of recall, synthesis, argument formation, problem solving, and discovering what the person does not yet understand.
 
-First draft thinking therefore connects classroom design to [[SelfDirectedLearning]], [[LearningHowToLearn]], and [[HumanJudgmentUnderAI]]. Teachers can preserve it through AI-free time, teacher-led instruction, and supervised independent practice; students preserve it by delaying AI long enough to experience productive struggle rather than only answer retrieval.
+## Current Synthesis
 
-[[tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]] adds a complementary writing-center version through [[ChristyGerdhary]]. Once students have human material to work from, they can use AI to remediate, transform, or collaborate transparently, then judge whether the result still carries their own memory, language, and purpose. This extends first draft thinking into [[AIWritingPedagogy]] rather than replacing it.
+The source set supports a sequencing rule rather than an AI ban: think first, then use AI to explain, compare, refine, transform, or challenge. [[HeatherSchwartz]] names the practice in the homework context, while [[SteveShaw]] extends it to decisions under time pressure, where users can adopt incorrect AI answers before forming an independent view.
 
-[[tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128]] adds [[SteveShaw]]'s broader "think first" rule. Shaw allows students to use AI and uses it daily himself, but he tells students to generate their own ideas before prompting. That makes first draft thinking a defense against [[CognitiveSurrender]] as well as a classroom writing practice.
+Writing makes the mechanism especially visible. [[ChristyGerdhary]] shows how transparent AI collaboration can begin after students have human material to inspect and transform. [[RanaElKaliouby|Rana el Kaliouby]] and her daughter add that drafting is itself a mode of thought: the messy work of articulating language helps ideas become clear, so outsourcing the beginning can remove part of the learning even when the final prose improves.
 
 ## Key Claims
-- The first attempt is not a disposable step; it is where students practice synthesis, recall, transfer, and error detection.
-- AI assistance is safer after the student has produced a draft, hypothesis, partial solution, or explicit confusion.
-- Explanation quality does not guarantee learning if the student skips the reasoning that the explanation was meant to support.
-- AI-free classroom time can be a practical scaffold for first-draft thinking because AI is difficult to exclude from home internet use.
-- The goal is productive friction, not helpless frustration: AI can still enter after the learner has done enough thinking to use the help actively.
-- In writing classes, the protected first draft can become the material students compare against AI transformations, color-coded collaboration, and final artifacts that exceed generic output.
-- The same sequence applies outside homework: thinking before prompting helps keep AI from becoming the user's first settled judgment.
 
-## Connections
-- [[HeatherSchwartz]] and [[RAND]] - source speaker and study context.
-- [[SteveShaw]], [[CognitiveSurrender]], and [[ArtificialCognition]] - Wharton decision-making extension added by Marketplace Tech.
-- [[AIAsTutor]] - constructive AI role when sequencing is right.
-- [[AIShortcutRisk]] - failure mode when AI replaces the first attempt.
-- [[SelfDirectedLearning]] and [[LearningHowToLearn]] - student capacities trained by first-draft work.
-- [[LearningExperienceDesign]] - classroom and product design can create space for productive struggle.
-- [[AIUsePacing]] and [[HumanJudgmentUnderAI]] - deciding when to slow down or refuse AI output is part of the skill.
-- [[ChristyGerdhary]], [[AIWritingPedagogy]], and [[TransparentAIUse]] - writing-class extension added by the January 15 Marketplace Tech episode.
+- The first attempt is formative cognitive work, not disposable preproduction.
+- AI assistance is safer after a person has produced a draft, hypothesis, partial solution, or explicit uncertainty.
+- Fluent explanations can still weaken learning when they replace rather than respond to independent reasoning.
+- Time pressure increases the risk that AI becomes the first and final judgment.
+- Transparent AI transformation after human drafting can support learning without hiding authorship.
+- Productive friction should be protected without turning difficulty into unsupported frustration.
+
+## Evidence
+
+- Homework sequencing - [[tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]] defines first draft thinking and reports student concern that AI may weaken critical thinking.
+- Decision timing - [[tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128]] reports that participants often followed manipulated AI answers, especially under time pressure, and recommends thinking before prompting.
+- Transparent collaboration - [[tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]] describes remediation, color-coded authorship, and assignments that ask students to exceed generic AI output.
+- Writing as thought - [[tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128]] argues that the difficult writing process helps people form, clarify, and communicate independent ideas.
+
+## Counterevidence & Qualifications
+
+The sources do not establish one ideal delay before AI use, and an unsupported first attempt can be counterproductive when a learner lacks prerequisite knowledge, language access, or accommodation. Survey concern is not outcome evidence, the reported decision experiments are summarized rather than fully documented here, and family experience is not a controlled educational study. First-draft protection must therefore be adapted to the task and learner rather than treated as a universal no-AI interval.
+
+## What Changed
+
+- Added writing as idea formation, not merely text production.
+- Clarified that the rule applies across homework, writing collaboration, and pressured decisions.
+- Migrated the page to the synthesis-first schema using its complete preserved source inventory.
+
+## Related Concepts
+
+- [[AIShortcutRisk]] - failure mode when AI closes the loop before learning occurs.
+- [[AIWritingPedagogy]] - structured use of AI after human material exists.
+- [[CognitiveSurrender]] - broader pattern of adopting machine reasoning without independent judgment.
+- [[AIAsTutor]] - constructive support role when assistance follows or scaffolds active effort.
+- [[DialogicAILiteracy]] - family and school practice that helps people debate where first-draft protection belongs.
+- [[HumanJudgmentUnderAI]] - capacity strengthened by forming and testing an initial view.

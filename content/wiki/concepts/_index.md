@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9621
+wiki_total_pages: 9623
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1586,6 +1586,9 @@ wiki_pages:
   - key: "AIDrivenCreatorMarketing"
     title: "AI-Driven Creator Marketing"
     url: "/wiki/concepts/aidrivencreatormarketing/"
+  - key: "AIEnabledArchiveAccess"
+    title: "AI-Enabled Archive Access"
+    url: "/wiki/concepts/aienabledarchiveaccess/"
   - key: "AIEnabledLoanDocumentAnalysis"
     title: "AI-Enabled Loan Document Analysis"
     url: "/wiki/concepts/aienabledloandocumentanalysis/"

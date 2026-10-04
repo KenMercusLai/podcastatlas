@@ -645,14 +645,14 @@
       "earliest_episode_date": "2025-12-08",
       "latest_episode_date": "2026-10-02",
       "latest_episode_file": "tech_20261002_MP_TECH_pod_128 [tech_20261002_MP_TECH_pod_128].md",
-      "source_note_count": 158,
-      "topic_matched_source_note_count": 124,
+      "source_note_count": 159,
+      "topic_matched_source_note_count": 125,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 102
+          "source_note_count": 103
         },
         {
           "key": "politics",
@@ -664,7 +664,7 @@
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 17
+          "source_note_count": 18
         },
         {
           "key": "science",

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1447
+topic_total_pages: 1448
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -3086,6 +3086,9 @@ topic_entities:
   - key: "RalphAdolphs"
     title: "Ralph Adolphs"
     url: "/wiki/entities/ralphadolphs/"
+  - key: "RanaElKaliouby"
+    title: "Rana el Kaliouby"
+    url: "/wiki/entities/ranaelkaliouby/"
   - key: "ReneDescartes"
     title: "Rene Descartes / 笛卡尔"
     url: "/wiki/entities/renedescartes/"

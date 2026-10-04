@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12279
+wiki_total_pages: 12281
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "TarangAmin"
     title: "Tarang Amin"
     url: "/wiki/entities/tarangamin/"
+  - key: "Tarath"
+    title: "Tarath"
+    url: "/wiki/entities/tarath/"
   - key: "TarekMansour"
     title: "Tarek Mansour"
     url: "/wiki/entities/tarekmansour/"

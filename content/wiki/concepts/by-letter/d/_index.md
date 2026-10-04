@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9621
+wiki_total_pages: 9623
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "DiagnosticUltrasoundModalitySelection"
     title: "Diagnostic Ultrasound Modality Selection / 诊断超声方式选择"
     url: "/wiki/concepts/diagnosticultrasoundmodalityselection/"
+  - key: "DialogicAILiteracy"
+    title: "Dialogic AI Literacy"
+    url: "/wiki/concepts/dialogicailiteracy/"
   - key: "DiasporaCapitalManufacturingClusters"
     title: "Diaspora Capital Manufacturing Clusters"
     url: "/wiki/concepts/diasporacapitalmanufacturingclusters/"

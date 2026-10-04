@@ -29281,3 +29281,11 @@ Added source `centre-punch-germanys-state-election-shocker-6ab0f8597aa361c612802
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | How attitudes toward AI differ across generations
+
+Added source `tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128`; created [[RanaElKaliouby]], [[Tarath]], [[DialogicAILiteracy]], and [[AIEnabledArchiveAccess]]; and resynthesized [[FirstDraftThinking]] from its complete preserved evidence inventory. Core synthesis: AI value depends on what a task gains or loses—contextual tools can open neglected Arabic archives, while premature writing assistance can remove idea-forming struggle and companion use can redirect loneliness away from people. Families and schools should pair experimentation with ethical debate, bias awareness, failure analysis, and informed agency. No settled contradiction was adopted. One household is illustrative rather than proof of a universal generational divide, while the cited youth survey, Tarath performance, archival economics, and educational or relationship effects remain episode-attributed pending underlying evidence. The downstream manifest and paragraph ledger were refreshed to 3,660-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

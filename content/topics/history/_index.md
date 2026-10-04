@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2549
+topic_total_pages: 2551
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -19,6 +19,9 @@ topic_concepts:
   - key: "AffectionDrivenSuccessionRisk"
     title: "Affection-Driven Succession Risk / 宠爱驱动的立储风险"
     url: "/wiki/concepts/affectiondrivensuccessionrisk/"
+  - key: "AIEnabledArchiveAccess"
+    title: "AI-Enabled Archive Access"
+    url: "/wiki/concepts/aienabledarchiveaccess/"
   - key: "AlcoholAsPowerCatalyst"
     title: "Alcohol as Power Catalyst / 酒作为权力催化剂"
     url: "/wiki/concepts/alcoholaspowercatalyst/"
@@ -2390,6 +2393,9 @@ topic_entities:
   - key: "TangZunXinOfficial"
     title: "Tang Zun / 唐尊 (Xin official)"
     url: "/wiki/entities/tangzunxinofficial/"
+  - key: "Tarath"
+    title: "Tarath"
+    url: "/wiki/entities/tarath/"
   - key: "TeaHorseRoad"
     title: "Tea Horse Road / 茶马古道"
     url: "/wiki/entities/teahorseroad/"

@@ -2345,6 +2345,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aiempiresovereigntyrisk/"
     },
+    "AIEnabledArchiveAccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260921_0921_MP_TECH_pod_128 [tech_20260921_0921_MP_TECH_pod_128].md",
+          "key": "tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How attitudes toward AI differ across generations",
+          "url": "/wiki/sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/aienabledarchiveaccess/"
+    },
     "AIEnabledLoanDocumentAnalysis": {
       "episode_count": 2,
       "show_count": 2,
@@ -54309,6 +54325,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/diagnosticultrasoundmodalityselection/"
     },
+    "DialogicAILiteracy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260921_0921_MP_TECH_pod_128 [tech_20260921_0921_MP_TECH_pod_128].md",
+          "key": "tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How attitudes toward AI differ across generations",
+          "url": "/wiki/sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/dialogicailiteracy/"
+    },
     "DiamondNecklaceAffair": {
       "episode_count": 1,
       "show_count": 1,
@@ -75433,6 +75465,43 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/firstcontactnoninterference/"
+    },
+    "FirstDraftThinking": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "tech_20260408_0408_MP_TECH_pod_128 [tech_20260408_0408_MP_TECH_pod_128].md",
+          "key": "tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Are humans losing the ability to think for themselves?",
+          "url": "/wiki/sources/tech-20260408-0408-mp-tech-pod-128-tech-20260408-0408-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260115_0115_MP_TECH_pod_128 [tech_20260115_0115_MP_TECH_pod_128].md",
+          "key": "tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Teaching students to 'be better than a robot'",
+          "url": "/wiki/sources/tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260323_0323_MP_TECH_pod_128 [tech_20260323_0323_MP_TECH_pod_128].md",
+          "key": "tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What do students lose when they rely on AI for homework?",
+          "url": "/wiki/sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260921_0921_MP_TECH_pod_128 [tech_20260921_0921_MP_TECH_pod_128].md",
+          "key": "tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How attitudes toward AI differ across generations",
+          "url": "/wiki/sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/firstdraftthinking/"
     },
     "FirstIndochinaWar": {
       "episode_count": 1,
@@ -174592,6 +174661,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/ralphlordoftheflies/"
     },
+    "RanaElKaliouby": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260921_0921_MP_TECH_pod_128 [tech_20260921_0921_MP_TECH_pod_128].md",
+          "key": "tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How attitudes toward AI differ across generations",
+          "url": "/wiki/sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/ranaelkaliouby/"
+    },
     "RanaMitter": {
       "episode_count": 4,
       "show_count": 1,
@@ -204301,6 +204386,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/taokan/"
+    },
+    "Tarath": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260921_0921_MP_TECH_pod_128 [tech_20260921_0921_MP_TECH_pod_128].md",
+          "key": "tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How attitudes toward AI differ across generations",
+          "url": "/wiki/sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/tarath/"
     },
     "TargetedMemoryReactivation": {
       "episode_count": 2,

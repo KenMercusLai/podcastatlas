@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How attitudes toward AI differ across generations](sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128.md) — Marketplace Tech with Rana el Kaliouby on family AI disagreement, writing as thought, Arabic archive access, dialogic literacy, bias, and human-connection boundaries.
 - [Centre punch: Germany’s state-election shocker](sources/centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9.md) — The Intelligence on German centrist fragmentation, the Dangote refinery listing and African retail-market access, and the evidence boundary between blue-light biology and sleep claims.
 - [EP88 史上最强播客/读书笔记？](sources/ep88-shishang-zuiqiang-boke-dushu-biji-gkwrimaohukbbougrata9-vx.md) — 纵横四海 episode on the See–Grow–Action growth-note loop, strict insight filtering, living knowledge networks, and behavior change as the acceptance test for learning.
 - [Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology](sources/all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573.md) — All-In interview on oscillator-based physical computing, data-movement energy, biological efficiency, and the qualification gates around a reported 500-nanojoule prototype.
@@ -3722,6 +3723,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
 
 ## Entities
+- [Rana el Kaliouby](entities/RanaElKaliouby.md) — AI scientist and investor advocating task-specific judgment, critical experimentation, and human-connection boundaries.
+- [Tarath](entities/Tarath.md) — AI archival project using historical context to improve access to difficult Arabic documents.
 - [Naveen Rao](entities/NaveenRao.md) — AI-hardware entrepreneur connecting neuroscience, chips, infrastructure, and physical dynamical computing.
 - [Unconventional AI](entities/UnconventionalAI.md) — Company developing coupled-oscillator hardware and a rack-scale AI product roadmap.
 - [UNO](entities/UNO.md) — Trainable oscillator image model and early physical dynamical-computing prototype.
@@ -16050,6 +16053,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dangote Petroleum Refinery](entities/DangotePetroleumRefinery.md) — Nigerian refinery whose proposed $50bn local listing is a test of scale, ownership access, and market depth.
 
 ## Concepts
+- [Dialogic AI Literacy](concepts/DialogicAILiteracy.md) — Family and school practice combining experimentation, disagreement, ethics, failure analysis, and informed agency.
+- [AI-Enabled Archive Access](concepts/AIEnabledArchiveAccess.md) — Contextual, multimodal AI for searching, transcribing, and translating difficult historical records under explicit quality and governance limits.
 - [See–Grow–Action Learning Loop / 破—立—行成长笔记](concepts/SeeGrowActionLearningLoop.md) — Lightweight loop that selects consequential insights, grows them through connection, and tests them through changed behavior and feedback.
 - [Physical Dynamical Computing](concepts/PhysicalDynamicalComputing.md) — Computation through trained evolution of coupled physical elements rather than only conventional digital instruction sequences.
 - [AI Data Movement Energy Cost](concepts/AIDataMovementEnergyCost.md) — Power spent transporting model state among memory, compute, chips, and systems rather than performing useful arithmetic.

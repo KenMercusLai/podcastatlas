@@ -4435,6 +4435,10 @@
     "title": "AI Employment Multiplier Compression / AI就业乘数压缩",
     "url": "/wiki/concepts/aiemploymentmultipliercompression/"
   },
+  "AIEnabledArchiveAccess": {
+    "title": "AI-Enabled Archive Access",
+    "url": "/wiki/concepts/aienabledarchiveaccess/"
+  },
   "AIEnabledLoanDocumentAnalysis": {
     "title": "AI-Enabled Loan Document Analysis",
     "url": "/wiki/concepts/aienabledloandocumentanalysis/"
@@ -23650,6 +23654,10 @@
   "DiagnosticUltrasoundModalitySelection": {
     "title": "Diagnostic Ultrasound Modality Selection / 诊断超声方式选择",
     "url": "/wiki/concepts/diagnosticultrasoundmodalityselection/"
+  },
+  "DialogicAILiteracy": {
+    "title": "Dialogic AI Literacy",
+    "url": "/wiki/concepts/dialogicailiteracy/"
   },
   "DiamondNecklaceAffair": {
     "title": "Diamond Necklace Affair",
@@ -66211,6 +66219,10 @@
     "title": "Ramon Sampedro / 桑佩德罗",
     "url": "/wiki/entities/ramonsampedro/"
   },
+  "RanaElKaliouby": {
+    "title": "Rana el Kaliouby",
+    "url": "/wiki/entities/ranaelkaliouby/"
+  },
   "RanaMitter": {
     "title": "Rana Mitter",
     "url": "/wiki/entities/ranamitter/"
@@ -77470,6 +77482,10 @@
   "TarangAmin": {
     "title": "Tarang Amin",
     "url": "/wiki/entities/tarangamin/"
+  },
+  "Tarath": {
+    "title": "Tarath",
+    "url": "/wiki/entities/tarath/"
   },
   "TarekMansour": {
     "title": "Tarek Mansour",
@@ -95918,6 +95934,10 @@
   "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128": {
     "title": "Trump rejects AI's \"effective altruism\" movement",
     "url": "/wiki/sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128/"
+  },
+  "tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128": {
+    "title": "How attitudes toward AI differ across generations",
+    "url": "/wiki/sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128/"
   },
   "tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128": {
     "title": "The cost of digitally disconnecting",

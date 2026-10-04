@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2183
+topic_total_pages: 2184
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4769,6 +4769,9 @@ topic_entities:
   - key: "RamShriram"
     title: "Ram Shriram"
     url: "/wiki/entities/ramshriram/"
+  - key: "RanaElKaliouby"
+    title: "Rana el Kaliouby"
+    url: "/wiki/entities/ranaelkaliouby/"
   - key: "RayDalio"
     title: "Ray Dalio"
     url: "/wiki/entities/raydalio/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3107
+topic_total_pages: 3110
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -982,6 +982,9 @@ topic_concepts:
   - key: "DewormingAsHumanCapitalInvestment"
     title: "Deworming as Human Capital Investment"
     url: "/wiki/concepts/dewormingashumancapitalinvestment/"
+  - key: "DialogicAILiteracy"
+    title: "Dialogic AI Literacy"
+    url: "/wiki/concepts/dialogicailiteracy/"
   - key: "DigitalCommerceLiteracy"
     title: "Digital Commerce Literacy"
     url: "/wiki/concepts/digitalcommerceliteracy/"
@@ -5342,6 +5345,9 @@ topic_entities:
   - key: "RalphLordOfTheFlies"
     title: "Ralph / 拉尔夫（《蝇王》）"
     url: "/wiki/entities/ralphlordoftheflies/"
+  - key: "RanaElKaliouby"
+    title: "Rana el Kaliouby"
+    url: "/wiki/entities/ranaelkaliouby/"
   - key: "RAND"
     title: "RAND"
     url: "/wiki/entities/rand/"
@@ -8928,6 +8934,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250"
     title: "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+  - key: "tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128"
+    title: "How attitudes toward AI differ across generations"
+    url: "/wiki/sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128/"
   - key: "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002"
     title: "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang"
     url: "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
