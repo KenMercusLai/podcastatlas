@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk
   - zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul
   - zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl
+  - zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os
 last_updated: 2026-10-05
 ---
 
@@ -21,6 +22,8 @@ last_updated: 2026-10-05
 Hanji 374-2 supplies Li Guangli's missing Dayuan victory layer. After the first expedition fails, Han Wudi reinforces him with a force the episode counts above sixty thousand, large herds of transport animals, continuous grain traffic, water engineers, corridor garrisons, and specialists for selecting horses. Li's army destroys Luntai after resistance, reaches Dayuan with more than thirty thousand soldiers, defeats an attempted field defense, diverts the capital's water, and maintains a siege for more than forty days.
 
 Li does not insist on annihilation. When Dayuan nobles kill King Wugua, offer horses and grain, threaten to kill the horses if fighting continues, and invoke Kangju relief, Li uses intelligence about Dayuan's grain and well-digging capacity to reassess the siege. He accepts the settlement, selects horses, installs Meicai, and withdraws. The source therefore adds strategic stopping judgment to a profile otherwise dominated by later defeat: the commander uses overwhelming pressure but recognizes when the political objective can be secured without paying for total conquest.
+
+Hanji 375-1 adds a smaller follow-up operation during the same campaign. After a detached unit under Wang Shensheng is nearly destroyed by [[YuchengWesternHan|郁成]], Li sends [[ShangguanJieWesternHan|上官桀]] to attack the polity. The episode therefore shows Li responding to a local defeat through delegated pursuit rather than personally directing every branch; the captured king's later death at [[ZhaoDiWesternHan|赵弟]]'s hands remains an escort-level event, not evidence of Li's direct order.
 
 Hanji 375-2 adds the return and reward ledger. It says only a little over one thousand horses return and that many soldiers die because commanders are greedy, violent, and abusive, not chiefly because grain is absent or combat deaths are unusually high. Wudi nevertheless discounts those failures because of the long-distance achievement, makes Li Marquis of Haixi, promotes officers, pardons penal recruits, and grants soldiers large cash rewards. Li's Dayuan victory is therefore both strategically bounded and institutionally unaccountable in the current evidence.
 
@@ -67,6 +70,10 @@ Dayuan victory and stopping judgment:
 - [[zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul|Hanji 374-2]] says Li Guangli receives state-scale reinforcement, destroys resisting Luntai, and reaches Dayuan with more than thirty thousand soldiers before diverting water and maintaining a siege for more than forty days.
 - [[zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul|Hanji 374-2]] says Li accepts Dayuan's offer after its nobles kill Wugua and after intelligence shows that continued blockade will remain costly; he takes horses and grain, installs Meicai, and withdraws.
 
+Delegated Yucheng response:
+- [[zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os|Hanji 375-1]] says Li sends Shangguan Jie against Yucheng after survivors of Wang Shensheng's defeated detachment return.
+- [[zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os|Hanji 375-1]] places the later capture and killing of the Yucheng king in Shangguan Jie's pursuit and escort chain rather than attributing the execution directly to Li.
+
 Return, losses, and reward:
 - [[zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl|Hanji 375-2]] says much of the army's loss follows commanders' greed and abuse rather than deficient grain or exceptional battle deaths.
 - [[zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl|Hanji 375-2]] says Wudi overlooks the failures, makes Li Marquis of Haixi, promotes officers, pardons penal recruits, and rewards soldiers.
@@ -76,12 +83,13 @@ Death after capture:
 
 ## Qualifications
 
-This page is bounded to five podcast sources. Hanji 374-2 and Hanji 375-2 supply the second Dayuan campaign and aftermath but not the complete first expedition, the full cause of war, or independent cost accounting; force totals, casualty attribution, rewards, noble motives, horse counts, and political outcomes remain episode-attributed. Hanji 377-1 supplies the later Tianshan campaign and Li Ling deployment background; Hanji 388-1 supplies the family-politics and surrender chain; Hanji 389-2 supplies the Luntai-cost and sacrificial-death aftermath.
+This page is bounded to six podcast sources. Hanji 374-2, Hanji 375-1, and Hanji 375-2 supply the second Dayuan campaign, Yucheng branch, and aftermath but not the complete first expedition, the full cause of war, or independent cost accounting; force totals, casualty attribution, rewards, noble motives, horse counts, and political outcomes remain episode-attributed. Hanji 377-1 supplies the later Tianshan campaign and Li Ling deployment background; Hanji 388-1 supplies the family-politics and surrender chain; Hanji 389-2 supplies the Luntai-cost and sacrificial-death aftermath.
 
 ## What Changed
 
 - Added the Dayuan return ledger: abusive command as a reported cause of loss, followed by Li's Haixi marquisate and broad rewards without corresponding accountability.
 - Qualified the earlier strategic-victory synthesis without conflating it with Li's later Tianshan and Xiongnu campaigns.
+- Added the delegated Yucheng response without attributing Zhao Di's later killing directly to Li.
 
 ## Relationships
 
@@ -97,3 +105,5 @@ This page is bounded to five podcast sources. Hanji 374-2 and Hanji 375-2 supply
 - [[DayuanWesternHan|大宛]] - target polity whose elite bargain gives Li Guangli his Ershi-campaign victory profile.
 - [[Kangju|康居]] - potential relief power whose non-advance and threatened arrival shape Li Guangli's settlement calculation.
 - [[DecisiveResourceCommitment|决断型资源投入]] - campaign pattern explaining why the second expedition succeeds after the first failure while leaving proportionality unresolved.
+- [[ShangguanJieWesternHan|上官桀]] - subordinate sent to attack Yucheng after the detached Han unit's defeat.
+- [[YuchengWesternHan|郁成]] - smaller polity in the campaign's follow-up branch.

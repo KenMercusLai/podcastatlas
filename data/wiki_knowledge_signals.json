@@ -28530,9 +28530,9 @@
       "url": "/wiki/entities/burgundy/"
     },
     "BuridanIndecisionEffect": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》482丨认清“布利丹效应”，治好你的选择困难症！ [ljUimsM_O4mGLmsNTYp8W5ru-DT8].md",
@@ -28540,9 +28540,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》482丨认清“布利丹效应”，治好你的选择困难症！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-482-renqing-bulidan-xiaoying-zhihao-nide-xuanze-kunnan-zheng-ljuimsm-o4mglmsntyp8w5ru-dt8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴 [li-ZA4h0ixnq4JYm8alGtxzyy6oS].md",
+          "key": "zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/buridanindecisioneffect/"
     },
     "BurkeCochran": {
@@ -119288,9 +119295,9 @@
       "url": "/wiki/entities/kangbao/"
     },
     "Kangju": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？ [lp-07zVAxR21DT2MtvA2Ndp6B9BY].md",
@@ -119319,9 +119326,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》490丨大汉战狼陈汤，伪造圣旨立奇功！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴 [li-ZA4h0ixnq4JYm8alGtxzyy6oS].md",
+          "key": "zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/kangju/"
     },
     "KangxiLaile": {
@@ -125507,9 +125521,9 @@
       "url": "/wiki/entities/liguanghangeneral/"
     },
     "LiGuangliWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》389-2｜历史揭秘：谁是写“检讨书”最多的王 [lvNAmm5Dza3S9AO8OfCsHHIYnsU1].md",
@@ -125545,6 +125559,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位",
           "url": "/wiki/sources/zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴 [li-ZA4h0ixnq4JYm8alGtxzyy6oS].md",
+          "key": "zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os/"
         }
       ],
       "updated": "2026-10-05",
@@ -191398,9 +191419,9 @@
       "url": "/wiki/entities/shangguananwesternhan/"
     },
     "ShangguanJieWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！ [ln0-b64iP2KwpcPeN_65e4Du3Vqc].md",
@@ -191429,9 +191450,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》391-2｜揭秘汉武帝死前任命的“托孤大臣”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴 [li-ZA4h0ixnq4JYm8alGtxzyy6oS].md",
+          "key": "zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/shangguanjiewesternhan/"
     },
     "ShangguanTaihouWesternHan": {
@@ -236238,6 +236266,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/yuanzhuremonstrantlatehan/"
     },
+    "YuchengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴 [li-ZA4h0ixnq4JYm8alGtxzyy6oS].md",
+          "key": "zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/yuchengwesternhan/"
+    },
     "YueWanrou": {
       "episode_count": 3,
       "show_count": 1,
@@ -239120,6 +239164,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/zhaochongguowesternhan/"
+    },
+    "ZhaoDiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴 [li-ZA4h0ixnq4JYm8alGtxzyy6oS].md",
+          "key": "zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhaodiwesternhan/"
     },
     "ZhaoDianLateHan": {
       "episode_count": 1,

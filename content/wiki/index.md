@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴](sources/zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os.md) — 郁成支线补全上官桀与赵弟的行动，并以布利丹毛驴说明慎思需要停止规则，避免比较本身吞掉机会。
 - [《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位](sources/zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl.md) — 大宛远征以虐兵损耗与无问责封赏收场，同时推动西域质子、通道屯田、楼兰两属困境和大宛续贡。
 - [《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？](sources/zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul.md) — 汉武帝以国家级动员支持李广利再征大宛，围城与威慑换来献马、供粮和亲汉国王，但战争的完整人命与财政代价仍未被核算。
 - [《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？](sources/zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk.md) — 李陵拒绝运粮角色、请率五千步兵分散匈奴兵力，路博德的延期奏议被汉武帝误判后使原定接应部署分离。
@@ -3766,6 +3767,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [赵弟 / Zhao Di (Western Han)](entities/ZhaoDiWesternHan.md) — 上邽骑士，在郁成王押送途中率先采取不可逆行动，并被节目用作决断与正确性必须区分的案例。
+- [郁成 / Yucheng (Western Han-era)](entities/YuchengWesternHan.md) — 大宛远征支线中的西域小国，击败汉军偏师后遭上官桀进攻，其国王逃入康居又被交出。
 - [韩延年 / Han Yannian (Western Han)](entities/HanYannianWesternHan.md) — 李陵军前锋指挥者，军情泄露后与李陵夜间突围并在匈奴追击中战死。
 - [管敢 / Guan Gan (Western Han)](entities/GuanGanWesternHan.md) — 因受辱叛逃并向匈奴泄露李陵无援、箭尽、前锋编组与旗号的军侯。
 - [陈步乐 / Chen Bule (Western Han)](entities/ChenBuleWesternHan.md) — 奉李陵命将沿途山川地图与军情送回长安、继而获汉武帝任为郎官的骑兵信使。
@@ -5582,7 +5585,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《中国人口史》 / Zhongguo Renkoushi](entities/ZhongguoRenkoushi.md) — population-history work cited for correcting raw household-register figures.
 - [张献忠 / Zhang Xianzhong](entities/ZhangXianzhong.md) — Late-Ming figure used by Hanji 388-4 as one named actor in Sichuan war-devastation memory.
 - [敬城王 / Jingcheng Wang](entities/JingchengWangMing.md) — Ming royal-family example for imperial-clan population expansion and tax-funded stipend burden.
-- [李广利 / Li Guangli (Western Han)](entities/LiGuangliWesternHan.md) — Western Han general whose Dayuan victory adds siege bargaining and bounded withdrawal before later Xiongnu defeat, surrender, and death frame Han Wudi's Luntai self-criticism.
+- [李广利 / Li Guangli (Western Han)](entities/LiGuangliWesternHan.md) — Western Han general whose Dayuan victory joins siege bargaining and bounded withdrawal with a delegated Yucheng response before later Xiongnu defeat and surrender.
 - [刘屈氂 / Liu Quli (Western Han)](entities/LiuQuliWesternHan.md) — Late Western Han chancellor ordered to suppress Liu Ju in the Wugu crisis before later in-law succession plotting with Li Guangli around Liu Bo destroys him.
 - [昌邑王刘髆 / Liu Bo, King of Changyi (Western Han)](entities/LiuBoChangyiKingWesternHan.md) — Han Wudi and Lady Li's son, enfeoffed in 97 BCE before becoming the passive succession candidate around whom Li Guangli and Liu Quli align.
 - [李夫人 / Lady Li (Western Han)](entities/LadyLiWesternHan.md) — Han Wudi consort, Li Guangli's sister, and Liu Bo's mother in Hanji 388-1's succession-risk chain.
@@ -5667,7 +5670,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Martin Kutter](entities/MartinKutter.md) — FinalSpark co-founder named in EP37's origin story for biological AI processors.
 - [Gong Sui (Western Han)](entities/GongSuiWesternHan.md) — Western Han official whose Bohai governance reframed banditry as hunger and official-neglect repair.
 - [Huo Guang (Western Han)](entities/HuoGuangWesternHan.md) — Western Han regent whose loyal service and posthumous family purge illustrate failed power exit.
-- [上官桀 / Shangguan Jie (Western Han)](entities/ShangguanJieWesternHan.md) — Senior Shangguan conspirator targeted in Han Zhao's anti-Huo rebellion cleanup and intended beneficiary of Shangguan An's internal betrayal plan.
+- [上官桀 / Shangguan Jie (Western Han)](entities/ShangguanJieWesternHan.md) — Western Han officer whose Yucheng campaign precedes his rise as entrusted minister, family-power strategist, and anti-Huo conspirator.
 - [上官安 / Shangguan An (Western Han)](entities/ShangguanAnWesternHan.md) — Shangguan-family conspirator who plans to use and then kill Liu Dan before installing Shangguan Jie.
 - [盖长公主 / Gai Chang Gongzhu (Western Han)](entities/GaiChanggongzhuWesternHan.md) — Princess whose banquet access is imagined as the assassination setting in the failed anti-Huo conspiracy.
 - [丁外人 / Ding Wairen (Western Han)](entities/DingWairenWesternHan.md) — Princess-favorite and inner-court access broker who helps the Shangguan family bypass Huo Guang.
@@ -5883,7 +5886,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nick Epley](entities/NickEpley.md) — Behavioral scientist and Huberman Lab guest explaining social connection, mind perception, voice, social misprediction, social anxiety exposure, and family personhood beyond diagnosis.
 - [段会宗 / Duan Huizong](entities/DuanHuizongWesternHan.md) — Western Han envoy-commander who stabilizes Wusun through small-force punishment, remembered imperial threat, and face-saving withdrawal.
 - [郭舜 / Guo Shun](entities/GuoShunWesternHan.md) — Western Han protectorate official who reads Kangju protocol as evidence of unreliable submission and recommends diplomatic rupture.
-- [康居 / Kangju](entities/Kangju.md) — Western Regions/Central Asian polity whose prince-hostage mission and protocol disputes test Han engagement versus status defense.
+- [康居 / Kangju](entities/Kangju.md) — Western Regions/Central Asian polity whose Yucheng handover, shifting alliances, hostage missions, and protocol disputes show strategic adaptation between stronger powers.
 - [末振将 / Mozhenjiang](entities/MozhenjiangWusun.md) — Wusun small kunmi installed with Han backing who destabilizes the two-kunmi balance by killing the large kunmi Cilim.
 - [番丘 / Fanqiu](entities/FanqiuWusun.md) — Mozhenjiang's son and punitive target killed by Duan Huizong in Hanji 550.
 - [安犁靡 / Anlimi](entities/AnlimiWusun.md) — Wusun small kunmi whose armed encirclement of Duan Huizong ends after a threat-and-face-saving exchange.
@@ -18205,7 +18208,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Decisive Resource Commitment / 决断型资源投入](concepts/DecisiveResourceCommitment.md) — Decision pattern where sufficient initial resources can avoid repeated failure, while exit rules and full cost accounting distinguish commitment from overreach.
 - [赦令不能替代治理 / Amnesty Cannot Substitute for Governance](concepts/AmnestyCannotSubstituteGovernance.md) — Governance pattern where repeated pardon fails if instruction, court example, and social causes remain unrepaired.
 - [京师示范治理 / Capital Exemplar Governance](concepts/CapitalExemplarGovernance.md) — Governance pattern where the capital and court function as visible models whose customs radiate outward through imitation.
-- [Buridan Indecision Effect / 布利丹效应](concepts/BuridanIndecisionEffect.md) — Decision-failure pattern where unclear goals, unclear resources, and over-waiting turn choice into costly paralysis.
+- [Buridan Indecision Effect / 布利丹效应](concepts/BuridanIndecisionEffect.md) — Decision-failure pattern where unclear criteria or indistinguishable options keep comparison running after it stops producing useful evidence.
 - [Hantavirus Public Risk Triage](concepts/HantavirusPublicRiskTriage.md) — frame for judging hantavirus news by subtype, outbreak setting, reservoir, transmission route, syndrome, and information source.
 - [Rodent-Borne Infection Prevention](concepts/RodentBorneInfectionPrevention.md) — prevention frame around rodent exclusion, contaminated dust, wet disinfection, cleanup sequence, and avoiding wild-rodent exposure.
 - [Hemorrhagic Fever With Renal Syndrome Escalation](concepts/HemorrhagicFeverRenalSyndromeEscalation.md) — China-relevant hantavirus warning-sign frame for fever, exposure history, three reds and three pains, bleeding points, shock, and kidney injury.

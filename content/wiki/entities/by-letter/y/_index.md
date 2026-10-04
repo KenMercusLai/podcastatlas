@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12342
+wiki_total_pages: 12344
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -1022,6 +1022,9 @@ wiki_pages:
   - key: "YeWarringStates"
     title: "邺城 / Ye (Warring States)"
     url: "/wiki/entities/yewarringstates/"
+  - key: "YuchengWesternHan"
+    title: "郁成 / Yucheng (Western Han-era)"
+    url: "/wiki/entities/yuchengwesternhan/"
   - key: "YinhuaFund"
     title: "银华基金 / Yinhua Fund"
     url: "/wiki/entities/yinhuafund/"

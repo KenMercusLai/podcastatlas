@@ -29612,3 +29612,11 @@ Added source `zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴
+
+Added source `zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os`; created [[ZhaoDiWesternHan|赵弟]] and [[YuchengWesternHan|郁成]]; and resynthesized [[ShangguanJieWesternHan|上官桀]], [[LiGuangliWesternHan|李广利]], [[Kangju|康居]], and [[BuridanIndecisionEffect|布利丹效应]] from their complete preserved evidence inventories. Core synthesis: the Yucheng branch gives Shangguan Jie an early frontier-command layer, shows Kangju surrendering a fugitive under the changed pressure created by Han's Dayuan victory, and uses Zhao Di's prisoner killing to illustrate action ownership without proving that an irreversible choice was necessary or correct. The Buridan synthesis now distinguishes useful caution from comparison that continues after further thought no longer promises decision-relevant evidence. Zhao Di's age and motives, the execution's necessity, force and sequence details, and meditation or “第六感” claims remain source-scoped. Transcript variants are normalized to 汉宛, 太初三年, 李广利, 郁成, 王申生, 搜粟都尉上官桀, 康居, 上邽骑士赵弟, and 张耒. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,702-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
