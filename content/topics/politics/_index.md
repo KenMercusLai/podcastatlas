@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3075
+topic_total_pages: 3077
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7922,6 +7922,9 @@ topic_entities:
   - key: "BaidengEncirclement"
     title: "白登之围 / Baideng Encirclement"
     url: "/wiki/entities/baidengencirclement/"
+  - key: "PishanKingdomWesternHan"
+    title: "皮山国 / Pishan Kingdom (Western Han)"
+    url: "/wiki/entities/pishankingdomwesternhan/"
   - key: "SiliconValley101"
     title: "硅谷101"
     url: "/wiki/entities/siliconvalley101/"
@@ -9072,6 +9075,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy"
     title: "《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？"
     url: "/wiki/sources/zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy/"
+  - key: "zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng"
+    title: "《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng/"
   - key: "zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p"
     title: "《资治通鉴·汉纪》527-2丨抽筋扒皮？古代的人贩子真活该！"
     url: "/wiki/sources/zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p/"

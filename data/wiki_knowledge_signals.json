@@ -56043,9 +56043,9 @@
       "url": "/wiki/entities/dior/"
     },
     "DiplomaticCostRiskAccounting": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》589丨揭秘无脑省钱的可怕后果 [ln7ZzXy9DYdeBCE_b3bomkcR872D].md",
@@ -56067,6 +56067,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望",
           "url": "/wiki/sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？ [liEMYvMWXw5_Yd-TRusBUQqHSbNG].md",
+          "key": "zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng/"
         }
       ],
       "updated": "2026-09-11",
@@ -59184,9 +59191,9 @@
       "url": "/wiki/entities/duqiaolatehan/"
     },
     "DuQinWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？ [ljUWccXx_aeXAsAfKPBL-y2RvOS5].md",
@@ -59208,6 +59215,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会",
           "url": "/wiki/sources/zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？ [liEMYvMWXw5_Yd-TRusBUQqHSbNG].md",
+          "key": "zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng/"
         }
       ],
       "updated": "2026-09-12",
@@ -115044,9 +115058,9 @@
       "url": "/wiki/entities/jiaxudouyinecommerce/"
     },
     "JibinKingdomWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？ [llFMuSEG49SZpXVyPVFSP4NaImiy].md",
@@ -115054,6 +115068,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？ [liEMYvMWXw5_Yd-TRusBUQqHSbNG].md",
+          "key": "zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng/"
         }
       ],
       "updated": "2026-10-04",
@@ -165852,6 +165873,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/pinkparadox/"
     },
+    "PishanKingdomWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？ [liEMYvMWXw5_Yd-TRusBUQqHSbNG].md",
+          "key": "zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/pishankingdomwesternhan/"
+    },
     "PlaceBasedExhibitionCuration": {
       "episode_count": 1,
       "show_count": 1,
@@ -213564,9 +213601,9 @@
       "url": "/wiki/concepts/tributarystatusdiplomaticrigidity/"
     },
     "TributeSystemEconomicIncentive": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸 [lr3erfvRoy4B_Ryu2Sfsdgd-e4m1].md",
@@ -213574,6 +213611,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸",
           "url": "/wiki/sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？ [liEMYvMWXw5_Yd-TRusBUQqHSbNG].md",
+          "key": "zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng/"
         }
       ],
       "updated": "2026-09-13",

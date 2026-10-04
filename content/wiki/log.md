@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-04] ingest | 《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？
+
+Added source `zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng`; created [[PishanKingdomWesternHan|皮山国]]; and resynthesized [[JibinKingdomWesternHan|罽宾]], [[DuQinWesternHan|杜钦]], [[DiplomaticCostRiskAccounting|外交成本风险核算]], and [[TributeSystemEconomicIncentive|朝贡体系经济激励]] from their complete preserved evidence inventories. Core synthesis: the Pishan-only escort is a capacity-matched compromise because Jibin has low regional security value, its mission appears merchant-led, and a full escort transfers severe supply, robbery, illness, and terrain risk to Han. No settled contradiction was adopted. The transcript's `杜清` is routed to Du Qin from the Chengdi-era Wang Feng context; route names, medical explanations, archaeology, Hermes imagery, and large Silk Road claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis and publish validation were then refreshed.
+
 ## [2026-10-04] ingest | 《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们
 
 Added source `zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon`; created [[PingyangPrincessWesternHan|平阳公主]], [[ShanyinPrincessLiuChuyu|山阴公主刘楚玉]], [[LiuZiyeFormerDeposedEmperor|宋前废帝刘子业]], [[XueHuaiyi|薛怀义]], [[ZhangYizhi|张易之]], [[FemaleMarriageAgencyHistoricalVariation|女性婚姻能动性的历史变动]], and [[CourtIntimacyAsPoliticalResource|宫廷亲密关系作为政治资源]]; and resynthesized [[WuZetian|武则天]], [[PrincessTaiping|太平公主]], [[WeiQingHanGeneral|卫青]], and [[JingwuPrincessWesternHan|靖武公主]] from their complete preserved evidence inventories. Core synthesis: female remarriage, divorce, desire, and sexual access changed with period norms, status, resources, and court authority; elite examples establish possibility but not population-wide freedom, while favorites could turn intimate access into patronage and political vulnerability. No settled contradiction was adopted. Han remarriage prevalence, female-initiated divorce, noblewomen's titles, Liu Chuyu's alleged incest, Xue Huaiyi's role in Xue Shao's death, Princess Taiping's revenge motive, temple arson, and Xue Huaiyi's death remain broad, disputed, compressed, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten because this bounded side episode did not warrant a new global synthesis paragraph. Downstream synthesis and publish validation were then refreshed.
@@ -29477,6 +29481,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] ingest | 《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章
 
 Added source `zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva`; created [[RigidIdealismPoliticalRisk|刚直理想主义的政治风险]]; and resynthesized [[WangZhangWesternHan|王章]], [[WangZhangWifeWesternHan|王章之妻]], and [[LiuKangDingtaoKingWesternHan|刘康]] from their complete preserved evidence inventories. Core synthesis: Wang Zhang's poverty, earlier clash with Shi Xian, independence from Wang Feng, and sealed-memorial strategy establish integrity, while his wife's paired counsel and Wang Feng's control of appointments and memorial flow show that courage without leverage or reliable protection can transfer catastrophic risk to the household. No settled contradiction was adopted. The "last remonstrant" label, exact Liu Xin identity, Wang Feng's private motives, and eclipse-manipulation claim remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest, then only read by downstream synthesis refresh. The downstream manifest and paragraph ledger were refreshed to 3,684-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-04] lint | Wiki health check
 

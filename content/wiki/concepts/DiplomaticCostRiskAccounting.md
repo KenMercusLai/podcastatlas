@@ -7,12 +7,13 @@ sources:
   - zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d
   - zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a
   - zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn
+  - zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng
 last_updated: 2026-09-11
 ---
 
 ## Definition
 
-外交成本风险核算 / diplomatic cost-risk accounting is the statecraft pattern where a court evaluates a diplomatic expense against the larger security, trust, and war-risk costs that may follow if the expense is cut. The concept enters the wiki through [[zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d|Hanji 589]] and is sharpened by [[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|Hanji 590]], where [[YangXiong|扬雄]] argues that refusing a [[Xiongnu|匈奴]] chanyu's visit to save money and grain could damage a fragile frontier settlement.
+外交成本风险核算 / diplomatic cost-risk accounting is the statecraft pattern where a court compares the full operational cost of a diplomatic commitment with the security, trust, trade, prestige, and war risks created by accepting or refusing it. The concept enters the wiki through [[zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d|Hanji 589]] and is sharpened by [[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|Hanji 590]], where [[YangXiong|扬雄]] argues that refusing a [[Xiongnu|匈奴]] chanyu's visit to save money and grain could damage a fragile frontier settlement. [[zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng|Hanji 517]] supplies the inverse: a full escort is not justified when danger is high and the remote counterpart's alignment has little strategic effect.
 
 ## Current Synthesis
 
@@ -26,15 +27,16 @@ The concept is narrower than generic generosity. It applies when refusing an exp
 
 Hanji 554 adds the inverse case: a seemingly cheap diplomatic gain can also be expensive. Asking Xiongnu to cede useful land through a deniable envoy probe looks low-cost if the court counts only the chance of success and the ability to blame [[XiahouFanWesternHan|夏侯藩]] if it fails. The downstream costs are diplomatic embarrassment, clarified Xiongnu refusal, and the need for [[HanChengdi|汉成帝]] to disavow his envoy. The concept therefore covers both undercounted savings and undercounted opportunism.
 
+Hanji 517 completes the two-sided account by asking when visible diplomatic generosity is itself an undercounted liability. [[DuQinWesternHan|杜钦]] distinguishes remote [[JibinKingdomWesternHan|罽宾]] from a dangerous adjacent frontier power: Jibin's submission has little regional security effect, its delegates look like merchants seeking rewards and trade, and the requested escort exposes Han personnel to robbery, hunger, supply failure, illness, and fatal terrain. Escorting only to Pishan turns the analysis into a capacity-matched compromise rather than a simple rule for generosity or austerity.
+
 ## Key Claims
 
 - Diplomatic expenses should be compared with the plausible cost of damaged trust, renewed hostility, and lost credibility, not only with the treasury line item.
-- A low-cost refusal can become strategically expensive when the counterpart interprets it as rejection or demotion.
-- The value of reception, gifts, heqin, or ritual respect depends on the threat history and current leverage of the other side.
+- A low-cost refusal can become strategically expensive when the counterpart interprets it as rejection or demotion; the value of reception, gifts, heqin, or ritual respect therefore depends on the other's threat history and leverage.
 - Historical memory can make cost accounting more accurate by revealing what renewed conflict has cost before.
-- Prevention is part of the accounting: a modest ritual or reception cost may avert a rupture that becomes much harder to repair once mistrust is explicit.
-- The pattern does not prove every diplomatic expense is justified; it requires a concrete risk channel from saving to instability.
+- Prevention is part of the accounting: a modest ritual or reception cost may avert a rupture that becomes much harder to repair once mistrust is explicit, but only where a concrete risk channel exists.
 - Opportunistic demands also require cost-risk accounting: the visible cost may be small, but refusal, humiliation, and blame transfer can create diplomatic loss.
+- Diplomatic generosity is not automatically prudent: when strategic value is low and operational danger is high, a geographic endpoint can turn an all-or-nothing promise into a lower-risk commitment aligned with state reach.
 
 ## Evidence
 
@@ -45,15 +47,18 @@ Hanji 554 adds the inverse case: a seemingly cheap diplomatic gain can also be e
 - Threat ranking and prevention: [[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|Hanji 590]] says Yang Xiong treats Xiongnu as Han's special opponent and argues that preventing suspicion before it forms avoids later war and persuasion costs.
 - Western Regions cost context: [[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|Hanji 590]] frames Cheshi, institutions, and Western Regions order as part of constraining Xiongnu, making the chanyu reception decision a system-level risk rather than a ceremony alone.
 - Opportunistic-demand risk: [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn|Hanji 554]] shows that a deniable land demand can produce embarrassment and blame transfer when the counterpart rejects and reports it.
+- Low-value counterpart test: [[zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng|Hanji 517]] says Jibin's submission or refusal has little effect on the wider Western Regions.
+- Full operational cost: [[zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng|Hanji 517]] counts escort manpower, provisioning, robbery, illness, mountain travel, and fatal falls rather than treating transport as a ceremonial line item.
+- Bounded commitment: [[zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng|Hanji 517]] says the court accepts Du Qin's proposal to escort only to Pishan.
 
 ## Counterevidence & Qualifications
 
-This concept does not reject thrift or public-spending restraint. Hanji 589 argues against "mindless saving," not against all budget discipline. Hanji 554 also does not reject all bargaining or probing; it warns that an apparently cheap demand can carry hidden face, credibility, and repair costs. The evidence does not quantify the reception cost or prove exactly how the chanyu would have reacted if refused. Hanji 590 adds a stronger strategic rationale but still works through Yang Xiong's memorial as mediated by the episode. The current claim remains bounded: in a high-risk frontier relationship, some visible expenses may be cheaper than the instability created by refusing them, and some visible opportunities may be costlier than they appear.
+This concept does not prescribe either generosity or thrift. Hanji 589 argues against "mindless saving," not against budget discipline; Hanji 517 argues against prestige-driven overcommitment, not against all distant diplomacy. Hanji 554 also does not reject all bargaining or probing; it warns that an apparently cheap demand can carry hidden face, credibility, and repair costs. The sources do not quantify their alternatives or prove counterpart reactions. The bounded claim is procedural: count downstream risk, operational exposure, counterpart leverage, and strategic value before labeling a diplomatic expense wasteful or necessary.
 
 ## What Changed
 
-- Added Hanji 554's inverse case: opportunistic land demands also need downstream risk accounting because failed probes can create embarrassment and blame transfer.
-- Preserved Hanji 590's continuation: Yang Xiong's Xiongnu threat ranking, Western Regions containment logic, and prevention-before-rupture maxim sharpen the original cost-risk account.
+- Added Hanji 517's low-value/high-danger case, making the framework explicitly two-sided rather than presumptively pro-spending.
+- Preserved the Xiongnu trust-maintenance and opportunistic-demand cases as distinct applications of the same full-cost logic.
 
 ## Related Concepts
 
@@ -66,3 +71,5 @@ This concept does not reject thrift or public-spending restraint. Hanji 589 argu
 - [[Xiongnu|匈奴]] - frontier counterpart whose coercive capacity makes the cost-risk calculation serious.
 - [[HanAidi|汉哀帝]] - ruler whose attempted saving supplies the source case.
 - [[YangXiong|扬雄]] - remonstrant who reframes the budget question as a frontier-risk question.
+- [[JibinKingdomWesternHan|罽宾]] - remote counterpart whose low strategic effect does not justify a dangerous full escort.
+- [[TributeSystemEconomicIncentive|朝贡体系经济激励]] - related because tribute rewards can make a nominal political mission economically motivated.

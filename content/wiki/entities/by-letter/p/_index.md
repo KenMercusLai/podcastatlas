@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12326
+wiki_total_pages: 12327
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -1289,6 +1289,9 @@ wiki_pages:
   - key: "PanyangLocalForces"
     title: "番阳民帅 / Panyang Local Forces"
     url: "/wiki/entities/panyanglocalforces/"
+  - key: "PishanKingdomWesternHan"
+    title: "皮山国 / Pishan Kingdom (Western Han)"
+    url: "/wiki/entities/pishankingdomwesternhan/"
   - key: "Pilao"
     title: "皮牢 / Pilao"
     url: "/wiki/entities/pilao/"

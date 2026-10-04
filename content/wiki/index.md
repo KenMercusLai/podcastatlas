@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？](sources/zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng.md) — 杜钦以罽宾战略价值低、使团商贸动机强和护送路线风险高为由，促成只送至皮山的有限承诺。
 - [《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？](sources/zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy.md) — 张禹升任丞相与罽宾册封失效、使团遇害和远距执法能力不足所致的断交。
 - [《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？](sources/zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r.md) — 王凤截留丞相王商对杨荣的奏章、转以私德指控反击，并引出才德之分与证据边界。
 - [670. Tom Holland Meets Paul McCartney](sources/670-tom-holland-meets-paul-mccartney-glt5781731754.md) — Paul McCartney on Liverpool's postwar port culture, informal musical learning, Lennon-McCartney collaboration, songwriting and loss, and memory's historical limits.
@@ -3749,6 +3750,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [皮山国 / Pishan Kingdom (Western Han)](entities/PishanKingdomWesternHan.md) — Western Regions polity used as the bounded endpoint for Han's escort of the Jibin mission.
 - [Jibin / 罽宾 (Western Han)](entities/JibinKingdomWesternHan.md) — Distant Western Regions polity whose envoy conflicts expose the enforcement limits of Han recognition.
 - [Yinmofu / 阴末赴 / 殷墨傅 (Jibin King)](entities/YinmofuJibinKing.md) — Han-recognized local ruler identified by the episode with Hermaeus, with the equation kept source-scoped.
 - [Paul McCartney](entities/PaulMcCartney.md) — Beatles musician and songwriter whose recollections link craft to Liverpool, peer learning, family, loss, literature, and reconstructive memory.

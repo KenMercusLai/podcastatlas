@@ -64164,6 +64164,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "PishanKingdomWesternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PishuBook": [
     {
       "key": "culture",
@@ -102485,6 +102492,13 @@
     }
   ],
   "zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng": [
     {
       "key": "politics",
       "label": "Politics",
