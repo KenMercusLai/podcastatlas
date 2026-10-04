@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9607
+wiki_total_pages: 9612
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2705,6 +2705,9 @@ wiki_pages:
   - key: "CrossProjectCashTransfer"
     title: "Cross-Project Cash Transfer"
     url: "/wiki/concepts/crossprojectcashtransfer/"
+  - key: "CrossSegmentMemoryCompetition"
+    title: "Cross-Segment Memory Competition"
+    url: "/wiki/concepts/crosssegmentmemorycompetition/"
   - key: "CrossingVulnerabilityStrike"
     title: "Crossing Vulnerability Strike / 半渡击敌"
     url: "/wiki/concepts/crossingvulnerabilitystrike/"

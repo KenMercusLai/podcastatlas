@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9607
+wiki_total_pages: 9612
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1103,6 +1103,9 @@ wiki_pages:
   - key: "MLOps"
     title: "MLOps"
     url: "/wiki/concepts/mlops/"
+  - key: "MobileAgentCapabilityConvergence"
+    title: "Mobile Agent Capability Convergence"
+    url: "/wiki/concepts/mobileagentcapabilityconvergence/"
   - key: "MobileAIWorkstation"
     title: "Mobile AI Workstation"
     url: "/wiki/concepts/mobileaiworkstation/"

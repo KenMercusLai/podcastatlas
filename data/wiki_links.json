@@ -3987,6 +3987,10 @@
     "title": "AI Agent Risk Testing",
     "url": "/wiki/concepts/aiagentrisktesting/"
   },
+  "AIAgentTargetValidation": {
+    "title": "AI Agent Target Validation",
+    "url": "/wiki/concepts/aiagenttargetvalidation/"
+  },
   "AIAlignmentGovernance": {
     "title": "AI Alignment Governance",
     "url": "/wiki/concepts/aialignmentgovernance/"
@@ -9227,6 +9231,10 @@
     "title": "Apple Search Ads",
     "url": "/wiki/entities/applesearchads/"
   },
+  "AppleSmartHomeDisplay": {
+    "title": "Apple Smart Home Display",
+    "url": "/wiki/entities/applesmarthomedisplay/"
+  },
   "AppleSupplyChainResponsibility": {
     "title": "Apple Supply Chain Responsibility",
     "url": "/wiki/concepts/applesupplychainresponsibility/"
@@ -10402,6 +10410,10 @@
   "AutomotiveOvercapacityRestructuring": {
     "title": "Automotive Overcapacity Restructuring",
     "url": "/wiki/concepts/automotiveovercapacityrestructuring/"
+  },
+  "AutomotiveTechnologyLicensing": {
+    "title": "Automotive Technology Licensing",
+    "url": "/wiki/concepts/automotivetechnologylicensing/"
   },
   "AutonomicRomanticCoordination": {
     "title": "Autonomic Romantic Coordination",
@@ -21155,6 +21167,10 @@
     "title": "Cross-Project Cash Transfer",
     "url": "/wiki/concepts/crossprojectcashtransfer/"
   },
+  "CrossSegmentMemoryCompetition": {
+    "title": "Cross-Segment Memory Competition",
+    "url": "/wiki/concepts/crosssegmentmemorycompetition/"
+  },
   "CrossSymbolicInversion": {
     "title": "Cross Symbolic Inversion",
     "url": "/wiki/concepts/crosssymbolicinversion/"
@@ -22802,6 +22818,10 @@
   "DebtThresholdUncertainty": {
     "title": "Debt Threshold Uncertainty",
     "url": "/wiki/concepts/debtthresholduncertainty/"
+  },
+  "Decathlon": {
+    "title": "Decathlon / 迪卡侬",
+    "url": "/wiki/entities/decathlon/"
   },
   "December25ChristmasDating": {
     "title": "December 25 Christmas Dating",
@@ -54743,6 +54763,10 @@
     "title": "Mobile AI Workstation",
     "url": "/wiki/concepts/mobileaiworkstation/"
   },
+  "MobileAgentCapabilityConvergence": {
+    "title": "Mobile Agent Capability Convergence",
+    "url": "/wiki/concepts/mobileagentcapabilityconvergence/"
+  },
   "MobileCarbonCapture": {
     "title": "Mobile Carbon Capture",
     "url": "/wiki/concepts/mobilecarboncapture/"
@@ -80031,6 +80055,10 @@
     "title": "Trademark Resale Boundary",
     "url": "/wiki/concepts/trademarkresaleboundary/"
   },
+  "TrademarkSimilarityConsumerConfusion": {
+    "title": "Trademark Similarity and Consumer Confusion",
+    "url": "/wiki/concepts/trademarksimilarityconsumerconfusion/"
+  },
   "TradingCompanyInvestmentModel": {
     "title": "Trading Company Investment Model",
     "url": "/wiki/concepts/tradingcompanyinvestmentmodel/"
@@ -94050,6 +94078,10 @@
   "jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523": {
     "title": "京东开出购物中心，蔚来与吉利推进充电换电合作",
     "url": "/wiki/sources/jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523/"
+  },
+  "jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449": {
+    "title": "京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权",
+    "url": "/wiki/sources/jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449/"
   },
   "jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652": {
     "title": "旧世代电台28 | 实体游戏的时代终结之际，不如重新定义拥有",

@@ -1,31 +1,50 @@
 ---
 title: "ChangXin Memory / 长鑫存储"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [company, china, semiconductors, memory]
-sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]
-last_updated: 2026-08-16
+sources:
+  - zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805
+  - fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677
+  - tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128
+  - cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1
+  - no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189
+  - jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449
+last_updated: 2026-10-04
 ---
 
 # ChangXin Memory / 长鑫存储
 
-[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds an [[Apple]] testing update. The source says Apple was testing ChangXin chips for products such as iPhone and MacBook, but that ChangXin's 2026 capacity was already full, limiting its ability to cover Apple's near-term supply gap.
+## Overview
+ChangXin Memory is a Chinese memory-chip company built around DRAM and now reported to be exploring HBM and NAND, making it a case of state-supported hard-tech capacity, customer qualification, and cross-segment memory competition.
 
-[[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds a concrete PC supply-chain insertion. The episode cites Nikkei reporting that [[HPInc|HP]], [[Asus|ASUS]], and [[Acer]] had begun using ChangXin DRAM in small numbers of entry-level notebooks, while vendors remained cautious because [[Samsung]], [[SKHynix|SK Hynix]], and [[MicronTechnology|Micron]] still dominate global DRAM supply.
+## Current Profile
+ChangXin's established wiki role is the domestic DRAM counterpart to [[YangtzeMemoryTechnologies|Yangtze Memory Technologies]] on NAND. Its profile now spans limited PC adoption, reported Apple testing under capacity constraints, possible HBM work, and a reported Beijing NAND line. The direction suggests broader memory ambition, but public technical and capacity evidence remains limited.
 
-[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a brief market-share and geopolitical update. [[AnitaRamaswamy]] names CXMT as a Chinese memory-chip maker with small but fast-growing share, making it part of the episode's "China as wild card" frame for AI hardware, memory supply, and the durability of U.S., Korean, and Japanese advantages.
+## Key Characteristics
+- Grew from a Hefei-backed, capital-intensive DRAM project.
+- Has limited but expanding reported adoption in consumer-electronics supply chains.
+- Operates under capacity, qualification, and incumbent-supplier constraints.
+- Is associated with early domestic HBM work for AI accelerators.
+- Is reported to be crossing from DRAM into NAND.
 
-ChangXin Memory is the domestic Chinese DRAM company discussed in [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]]. The source positions it as China's better-known DRAM-side memory player and notes that public information about its technology and capacity is limited.
+## Evidence
+- Industrial foundation: [[no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]] places ChangXin inside the [[HefeiIndustrialInvestmentModel]] and traces its public-capital origins.
+- Memory-market role: [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] distinguishes ChangXin's DRAM and possible HBM work from Yangtze Memory's NAND role.
+- Customer insertion: [[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] reports limited use by HP, ASUS, and Acer; [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] reports Apple testing alongside full 2026 capacity.
+- Market uncertainty: [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] characterizes ChangXin as small but fast growing within a cyclical global market.
+- NAND expansion: [[jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449]] reports plans for a Beijing NAND research and production line plus customer discussions.
 
-The episode links ChangXin to two demand pressures. On the AI side, domestic accelerator makers are said to be working with ChangXin around HBM, though not yet at large scale in the source's account. On the consumer-electronics side, [[Xiaomi]] and other phone makers' investment in ChangXin is framed as a way to secure memory capacity when [[AIHardwareSupplyChainPressure]] makes open-market supply less dependable.
+## Qualifications
+The sources repeatedly note limited public disclosure. Testing, discussions, and small-volume adoption do not establish mass qualification; the NAND line's process, yield, capacity, customers, and start date are not supplied. Memory expansion also remains exposed to [[StorageIndustryCyclicality]].
 
-[[no-211-huishang-wangshi-cong-qianshi-buxiu-dao-zuiniu-fengtou-1002275189]] adds ChangXin as a [[Hefei]] industrial-investment case. The source says Hefei's DRAM project began in 2016 and later became ChangXin Memory, with capital from Hefei state assets, national semiconductor funds, Anhui-backed investors, GigaDevice / 兆易创新, and other institutions. The episode treats the company as an extension of the [[HefeiIndustrialInvestmentModel]] into a capital-intensive, cyclical, strategically sensitive semiconductor segment.
+## What Changed
+- Added the reported move from a DRAM-centered profile into NAND.
+- Reframed Yangtze Memory from a complementary domestic counterpart into a potential direct competitor.
 
-## Connections
-- [[YangtzeMemoryTechnologies]] - domestic NAND counterpart in the source.
-- [[HighBandwidthMemory]], [[AIStorageSupercycle]], and [[MemoryCapacityLockIn]] - AI memory demand and capacity-control context.
-- [[Huawei]] and [[Xiaomi]] - domestic system and handset contexts connected to memory capacity.
-- [[HPInc]], [[Asus]], and [[Acer]] - PC vendors named in the source's limited DRAM adoption report.
-- [[Apple]], [[IPhone]], [[MacBook]], and [[AIHardwareSupplyChainPressure]] - testing and capacity-constraint branch added by the Ralph Lauren / China Eastern episode.
-- [[StorageIndustryCyclicality]] - industry structure ChangXin is entering or navigating.
-- [[Hefei]], [[HefeiIndustrialInvestmentModel]], and [[ProductionInvestmentCity]] - local industrial-investment context added by Banlatte episode 211.
-- [[SemiconductorSupplyChain]] and [[StrategicIndustrialPolicy]] - broader hard-tech capacity-building frame.
+## Relationships
+- [[YangtzeMemoryTechnologies]] - established NAND supplier and emerging cross-segment competitor.
+- [[CrossSegmentMemoryCompetition]] - strategic boundary crossing between DRAM and NAND suppliers.
+- [[HefeiIndustrialInvestmentModel]] - public-capital and production-investment context for ChangXin's formation.
+- [[AIStorageSupercycle]] - demand environment spanning HBM, DRAM, NAND, and capacity security.
+- [[StorageIndustryCyclicality]] - boom-bust structure that qualifies expansion plans.

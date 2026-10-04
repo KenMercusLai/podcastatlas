@@ -6983,6 +6983,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIAgentTargetValidation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIAlignmentGovernance": [
     {
       "key": "technology",
@@ -15157,6 +15164,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "AutomotiveTechnologyLicensing": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AutonomicStressTraining": [
@@ -25285,6 +25299,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "CrossSegmentMemoryCompetition": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "CrosstalkLiteraryRhythm": [
@@ -56708,6 +56729,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "MobileAgentCapabilityConvergence": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MobileCarbonCapture": [
     {
       "key": "science",
@@ -82913,6 +82941,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TrademarkSimilarityConsumerConfusion": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "TradingCompanyInvestmentModel": [
     {
       "key": "economics",
@@ -96857,6 +96892,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "jiufan-zhongting-mifeng-jingjixue-956460448": [

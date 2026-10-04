@@ -28841,6 +28841,8 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-04] ingest | 京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权
+
 ## [2026-10-04] ingest | EP163-被互联网冲击的艺术
 
 Added source `ep163-bei-hulianwang-chongji-de-yishu-ckwriaieiyu2abaaaacscgxf`; created bounded profiles for [[ShangYuArtGuest|尚玉]] and [[JinLaoshiArtist|金老师]]; created [[EverydayCreativeAgency]], [[CuratorialExperienceDesign]], and [[ArtworkValueProvenanceAndAttention]]; and resynthesized [[ExperienceFirstArtAppreciation]], [[MonaLisaFameFormation]], and [[WushichaYanjiusuo]] from their complete preserved evidence inventories. Core synthesis: ordinary viewers and makers can begin from direct attention rather than compulsory expertise, while curation, provenance, institutions, narrative, and internet-amplified attention shape how art is encountered and priced. No settled contradiction was adopted. Color-perception, art-history, psychology, museum-finance, forgery, pricing, career, and internet-effect claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,603-source coverage; no topic claim set was dirty and global compaction was not due.
@@ -29239,6 +29241,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] ingest | Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡
 
 Ingested the 2026-09-21 文化有限 cross-media autumn special on music, film, television, and books. Added source `vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow`; created pages for 《无界之环》, 《巴贝特之宴》, 《四季之后》, 《恐龙的移动轨迹》, 《喜乐会》, 《星之继承者》, Restorative Cultural Attention, Relationship Value Beyond Duration, Relational Silence and Projection, Shared Sensory Community Repair, Institutional Failure and Punitive Fantasy, and Humanistic Exploration Optimism; updated 文化有限, 超哥, 星光, 大一, 《铁拳教育》, index, and overview. No settled contradiction found; plot summaries, translated titles, social judgments, and scientific explanations remain source-scoped cultural commentary, and the catharsis of punitive fantasy is not treated as endorsement of violence.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-04] lint | Wiki health check
 

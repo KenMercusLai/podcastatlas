@@ -782,12 +782,13 @@
       "70e5e81c25e66f1fe8d857b47ca94527789bb83f586564a97e0909e64e3dadf6",
       "9997fb9b346fa7223de58d73e84f180b8864b249000cade39b9408903896c2cc",
       "16601a21e79111590dec9aaa39aaf37cda533c18f62b03ad841cc2b74da82008",
-      "63a515e020a9c43959a46584faeb8b50d6d1df53ac7fcb6403fbaa521cb5881a"
+      "63a515e020a9c43959a46584faeb8b50d6d1df53ac7fcb6403fbaa521cb5881a",
+      "f1e18dd7261bb4678caaf74192b916a7c19f8240d5fca5820a6dc87fc12024f8"
     ],
-    "paragraph_count": 782
+    "paragraph_count": 783
   },
-  "overview_commit": "2a5fb4d4cd33b79f098046b1acea2fe428761c3a",
-  "overview_digest": "0638d01a3e43619d08abe4591e26db0a254fb7e48a107715f7631c22be43b34b",
+  "overview_commit": "a8bb7e7320cfe447bde47ccba5d848221e994218",
+  "overview_digest": "37ebb7e02865cac61e4e41a4a469aa434ed61be7fac05b0cb0cfee9bf12f5dd6",
   "paragraphs": [
     {
       "id": "8acbcfb4e29fba02878bca0d9d4cb29edf99fe87b7b48806f161f50c0fbfcff9",
@@ -22913,6 +22914,36 @@
         "WesternFrontMilitaryLearning",
         "WesternFrontPopularMemory",
         "WilfredOwen"
+      ]
+    },
+    {
+      "id": "f1e18dd7261bb4678caaf74192b916a7c19f8240d5fca5820a6dc87fc12024f8",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The latest addition is [[jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449|京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权]], a [[ShengdongZaokafei|声动早咖啡]] roundup connecting [[TrademarkSimilarityConsumerConfusion]], [[TeslaOptimus|Optimus]] supplier readiness, [[AutomotiveTechnologyLicensing]], [[AppleSmartHomeDisplay|Apple's reported smart-home display]], [[AIAgentTargetValidation]], [[CrossSegmentMemoryCompetition]], holiday transport pricing, and [[MobileAgentCapabilityConvergence]]. It adds [[Decathlon]], [[AppleSmartHomeDisplay]], and five reusable concepts while extending [[NewBalance]], [[TeslaOptimus]], [[XPeng]], [[ChangXinMemory]], [[YangtzeMemoryTechnologies]], [[DynamicPricingFairness]], and [[HolidayPeakTravelPlanning]]. Its core synthesis is that ecosystem assets such as marks, supplier networks, reusable vehicle software, system tools, and memory capacity create leverage only when consumer interpretation, production qualification, integration, security scope, and route-specific demand are managed. No settled contradiction is recorded; the reported Anthropic IPO and valuation item is anomalous and possible transcription error, while company plans, market figures, product timing, security-test mechanics, and fare observations remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 5
+      },
+      "wikilinks": [
+        "AIAgentTargetValidation",
+        "AppleSmartHomeDisplay",
+        "AutomotiveTechnologyLicensing",
+        "ChangXinMemory",
+        "CrossSegmentMemoryCompetition",
+        "Decathlon",
+        "DynamicPricingFairness",
+        "HolidayPeakTravelPlanning",
+        "MobileAgentCapabilityConvergence",
+        "NewBalance",
+        "ShengdongZaokafei",
+        "TeslaOptimus",
+        "TrademarkSimilarityConsumerConfusion",
+        "XPeng",
+        "YangtzeMemoryTechnologies",
+        "jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449"
       ]
     }
   ],

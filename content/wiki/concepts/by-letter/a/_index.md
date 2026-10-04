@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9607
+wiki_total_pages: 9612
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "AIAgentRiskTesting"
     title: "AI Agent Risk Testing"
     url: "/wiki/concepts/aiagentrisktesting/"
+  - key: "AIAgentTargetValidation"
+    title: "AI Agent Target Validation"
+    url: "/wiki/concepts/aiagenttargetvalidation/"
   - key: "AIAlignmentGovernance"
     title: "AI Alignment Governance"
     url: "/wiki/concepts/aialignmentgovernance/"
@@ -2798,6 +2801,9 @@ wiki_pages:
   - key: "AutomotiveOvercapacityRestructuring"
     title: "Automotive Overcapacity Restructuring"
     url: "/wiki/concepts/automotiveovercapacityrestructuring/"
+  - key: "AutomotiveTechnologyLicensing"
+    title: "Automotive Technology Licensing"
+    url: "/wiki/concepts/automotivetechnologylicensing/"
   - key: "AutonomicRomanticCoordination"
     title: "Autonomic Romantic Coordination"
     url: "/wiki/concepts/autonomicromanticcoordination/"

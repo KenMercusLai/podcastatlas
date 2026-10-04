@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9607
+wiki_total_pages: 9612
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "TrademarkResaleBoundary"
     title: "Trademark Resale Boundary"
     url: "/wiki/concepts/trademarkresaleboundary/"
+  - key: "TrademarkSimilarityConsumerConfusion"
+    title: "Trademark Similarity and Consumer Confusion"
+    url: "/wiki/concepts/trademarksimilarityconsumerconfusion/"
   - key: "TrademarkBasedEventProtection"
     title: "Trademark-Based Event Protection"
     url: "/wiki/concepts/trademarkbasedeventprotection/"

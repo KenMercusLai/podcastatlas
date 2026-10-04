@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12272
+wiki_total_pages: 12274
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "DeathWithDignity"
     title: "Death with Dignity"
     url: "/wiki/entities/deathwithdignity/"
+  - key: "Decathlon"
+    title: "Decathlon / 迪卡侬"
+    url: "/wiki/entities/decathlon/"
   - key: "DecimusJuniusBrutus"
     title: "Decimus Junius Brutus / 德奇姆斯"
     url: "/wiki/entities/decimusjuniusbrutus/"

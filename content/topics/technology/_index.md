@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3290
+topic_total_pages: 3295
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -157,6 +157,9 @@ topic_concepts:
   - key: "AIAgentRiskTesting"
     title: "AI Agent Risk Testing"
     url: "/wiki/concepts/aiagentrisktesting/"
+  - key: "AIAgentTargetValidation"
+    title: "AI Agent Target Validation"
+    url: "/wiki/concepts/aiagenttargetvalidation/"
   - key: "AIAlignmentGovernance"
     title: "AI Alignment Governance"
     url: "/wiki/concepts/aialignmentgovernance/"
@@ -1237,6 +1240,9 @@ topic_concepts:
   - key: "AutomationReinstatementEffect"
     title: "Automation Reinstatement Effect"
     url: "/wiki/concepts/automationreinstatementeffect/"
+  - key: "AutomotiveTechnologyLicensing"
+    title: "Automotive Technology Licensing"
+    url: "/wiki/concepts/automotivetechnologylicensing/"
   - key: "AutonomousDrivingDataFlywheel"
     title: "Autonomous Driving Data Flywheel"
     url: "/wiki/concepts/autonomousdrivingdataflywheel/"
@@ -1630,6 +1636,9 @@ topic_concepts:
   - key: "CrossDevicePersonalMemory"
     title: "Cross-Device Personal Memory / 跨设备个人记忆"
     url: "/wiki/concepts/crossdevicepersonalmemory/"
+  - key: "CrossSegmentMemoryCompetition"
+    title: "Cross-Segment Memory Competition"
+    url: "/wiki/concepts/crosssegmentmemorycompetition/"
   - key: "CumulativeRiverValleyDevelopmentRisk"
     title: "Cumulative River-Valley Development Risk"
     url: "/wiki/concepts/cumulativerivervalleydevelopmentrisk/"
@@ -3019,6 +3028,9 @@ topic_concepts:
   - key: "MixtureOfExperts"
     title: "Mixture of Experts"
     url: "/wiki/concepts/mixtureofexperts/"
+  - key: "MobileAgentCapabilityConvergence"
+    title: "Mobile Agent Capability Convergence"
+    url: "/wiki/concepts/mobileagentcapabilityconvergence/"
   - key: "MobileAIWorkstation"
     title: "Mobile AI Workstation"
     url: "/wiki/concepts/mobileaiworkstation/"
@@ -9654,6 +9666,9 @@ topic_sources:
   - key: "jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523"
     title: "京东开出购物中心，蔚来与吉利推进充电换电合作"
     url: "/wiki/sources/jingdong-kaichu-gouwuzhongxin-weilai-yu-jili-tuijin-chongdian-huandian-hezuo-1019779523/"
+  - key: "jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449"
+    title: "京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权"
+    url: "/wiki/sources/jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449/"
   - key: "renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o"
     title: "人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy"
     url: "/wiki/sources/renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o/"

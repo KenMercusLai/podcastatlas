@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权](sources/jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449.md) — 声动早咖啡 on brand-mark confusion, robot supply chains, automotive licensing, AI security controls, memory competition, holiday fares, and mobile agents.
 - [Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡](sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow.md) — 文化有限 cross-media autumn special on restorative attention, finite relationships, relational silence, communal repair, punitive fantasy, and exploration optimism.
 - [Episode 229: 钓一条大鱼](sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605.md) — 迟早更新 on evidence-calibrated criticism, short-review incentives, plural birdwatching motives, and whether nature writing makes its subjects thicker or thinner.
 - [502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年](sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd.md) — 忽左忽右 discussion of Challenger as a coupled technical and organizational failure shaped by budget pressure, public promises, warning escalation, and go fever.
@@ -3717,6 +3718,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
 
 ## Entities
+- [Apple Smart Home Display](entities/AppleSmartHomeDisplay.md) — Reported household screen combining Siri, device control, communication, media, and personalized family information.
+- [Decathlon / 迪卡侬](entities/Decathlon.md) — Sporting-goods retailer named in New Balance's source-reported Keep Run trademark dispute.
 - [《无界之环》](entities/BoundlessRingFilm.md) — Border film using split images and identical twins to question war labels and binary identity.
 - [《巴贝特之宴》 / Babette's Feast](entities/BabettesFeast.md) — Film linking culinary art, faith, mourning, generosity, and communal repair.
 - [《四季之后》](entities/FourSeasonsAfterFilm.md) — Youth-romance film asking whether finite love can retain value when life directions diverge.
@@ -16037,6 +16040,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Space Shuttle Challenger / 挑战者号](entities/SpaceShuttleChallenger.md) — NASA shuttle lost in 1986, synthesized as a coupled component, warning-escalation, and program-governance failure.
 
 ## Concepts
+- [AI Agent Target Validation](concepts/AIAgentTargetValidation.md) — Controls ensuring security agents act only on exact intended systems, identities, and authorized scopes.
+- [Automotive Technology Licensing](concepts/AutomotiveTechnologyLicensing.md) — Automakers monetizing cockpit, chip, software, and assisted-driving R&D across other vehicle brands.
+- [Cross-Segment Memory Competition](concepts/CrossSegmentMemoryCompetition.md) — DRAM and NAND suppliers crossing historical product boundaries and becoming direct competitors.
+- [Mobile Agent Capability Convergence](concepts/MobileAgentCapabilityConvergence.md) — Leading phone vendors converging on similar multi-step, tool-rich assistant scenarios.
+- [Trademark Similarity and Consumer Confusion](concepts/TrademarkSimilarityConsumerConfusion.md) — Risk that a newer visual mark implies affiliation with an established brand in the same market.
 - [Restorative Cultural Attention](concepts/RestorativeCulturalAttention.md) — Cultural engagement for felt recovery rather than mandatory information gain or productivity.
 - [Relationship Value Beyond Duration](concepts/RelationshipValueBeyondDuration.md) — Why a relationship can matter through care and change even when it ends.
 - [Relational Silence and Projection](concepts/RelationalSilenceProjection.md) — Cycle of hidden need, waiting, imagined motives, and avoidable distance.
