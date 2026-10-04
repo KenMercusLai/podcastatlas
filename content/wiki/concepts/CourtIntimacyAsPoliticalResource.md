@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon
   - zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr
   - zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt
+  - zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd
 last_updated: 2026-10-05
 ---
 
@@ -20,6 +21,8 @@ The current evidence joins court configurations across gender and dynasty withou
 
 Intimacy matters politically through several distinct mechanisms. It can obstruct ordinary access, broker another person's petition, redirect punishment, produce material patronage, extend benefits through relatives, or turn the ruler's aesthetic preferences into imitated court style. These effects do not require the favorite to possess formal sovereignty or comprehensive control.
 
+Hanji 365-2 adds the population-to-favorite funnel inside a large harem. Its reported administrative details distinguish palace residence from repeated access: supervision groups women at scale, while separate favor registers, increased allowances, pregnancy, childbirth, selection for travel, gifts, and titles identify narrower routes through which intimacy becomes status. [[LiJuanHanWudiCourt|丽娟]] then supplies a literary version of the same conversion, where beauty, performance, wit, and shared laughter become protection, luxury, gold, and remembered narrative. The counts and anecdotes remain source-scoped, but the distinction between inclusion and favor is durable.
+
 The resource is conditional and hazardous. Wealth can be confiscated after succession, a favorite can be killed by stronger palace-family authority, and an intermediary can be blamed for a ruler's decision. The concept therefore treats access as leverage and exposure at once, while refusing to translate favorite status, co-sleeping, or shared daily life automatically into a modern sexual identity.
 
 ## Key Claims
@@ -27,7 +30,7 @@ The resource is conditional and hazardous. Wealth can be confiscated after succe
 - Intimate or favorite access can become patronage, rank, wealth, information, and political visibility without conferring formal sovereignty.
 - Proximity can obstruct normal ministerial access or create a brokerage channel through which others reach the ruler.
 - Favorite mediation can alter punishment and appointments, but the intermediary remains exposed to blame from rival palace authorities.
-- Skill, beauty, performance, kinship, childhood companionship, or compliant attendance can become scarce capabilities that intensify proximity.
+- Skill, beauty, performance, kinship, childhood companionship, or compliant attendance can intensify proximity, but palace inclusion and favorite access remain distinct; registers, selection, allowances, gifts, pregnancy, childbirth, or rank can mark narrower levels of intimacy and consequence.
 - Favorites can extend access to relatives and allies or spread the ruler's aesthetic preferences through status imitation.
 - Favorite-derived power remains fragile when affection shifts, succession occurs, or a stronger palace actor intervenes.
 - Historical sexuality claims require source criticism because favorite terminology and shared space do not map cleanly onto modern orientation categories.
@@ -47,6 +50,10 @@ Skill, household, and aesthetic diffusion:
 - [[zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr|Hanji 372-4]] links Han Yan's martial skill and Li Yannian's performance skill plus Lady Li's favor to court ascent.
 - [[zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt|Hanji 372-3]] says Ji Ru's dress and cosmetics become models for palace imitation.
 
+Harem hierarchy and female favorite visibility:
+- [[zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd|Hanji 365-2]] distinguishes mass palace residence from separate favor registration, higher allowances, reproductive rewards, titles, travel selection, and gifts.
+- [[zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd|Hanji 365-2]] presents Li Juan's performance and verbal wit as routes to protection, luxury, gold, and literary memory.
+
 Replacement and protection limits:
 - [[zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon|Hanji 616 plus]] links Xue Huaiyi's loss of favor to retaliation and violent death.
 - [[zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr|Hanji 372-4]] says Deng Tong loses wealth after succession and Han Yan is killed despite Wudi's protection.
@@ -54,13 +61,13 @@ Replacement and protection limits:
 
 ## Counterevidence & Qualifications
 
-All three sources are compressed popular history, and their most vivid private motives and sexual claims are not independently verified here. Favorite status does not prove that every reward or political act was sexually motivated, while access is not equivalent to control. Hanji 616 plus contains hostile or sensational traditions around elite women; Hanji 372-3 and 372-4 translate favorite relationships into “boyfriend” and “lover” language, contain transcription problems, and extend terse historical phrases into modern identity claims. The synthesis therefore uses observable access, office, reward, kinship, mediation, imitation, replacement, and punishment while keeping sexual identity, private motive, and scandal narratives source-scoped.
+All four sources are compressed popular history, and their most vivid private motives and sexual claims are not independently verified here. Favorite status does not prove that every reward or political act was sexually motivated, while access is not equivalent to control. Hanji 616 plus contains hostile or sensational traditions around elite women; Hanji 372-3 and 372-4 translate favorite relationships into “boyfriend” and “lover” language, contain transcription problems, and extend terse historical phrases into modern identity claims. Hanji 365-2 mixes reported administrative details with later marvel tales, so neither its large harem counts nor Li Juan's literary rewards can be treated as a contemporaneous personnel ledger. The synthesis therefore uses observable or source-attributed access, office, reward, kinship, mediation, imitation, selection, registration, replacement, and punishment while keeping sexual identity, private motive, medical claims, and scandal or miracle narratives source-scoped.
 
 ## What Changed
 
-- Added obstruction of ministerial access and petition brokerage as mechanisms distinct from wealth and office patronage.
-- Added mediation exposure: a favorite can influence a decision precisely because rival palace authorities may blame him for it.
-- Added court-fashion imitation as a cultural consequence of ruler-favorite preference.
+- Added the distinction between mass palace inclusion and the narrower funnel of selection, registration, allowance, reward, and rank.
+- Added a female favorite case where performance and wit convert into gifts and literary visibility.
+- Kept harem counts and marvel tales source-scoped while preserving the underlying access-and-status mechanism.
 
 ## Related Concepts
 
@@ -68,4 +75,5 @@ All three sources are compressed popular history, and their most vivid private m
 - [[PalaceFavoriteProtectionFragility|宫廷宠幸保护脆弱性]] - explains why access-based protection can vanish after succession, changed affection, or palace intervention.
 - [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]] - public-resource and access consequences when private closeness shapes state action.
 - [[PalacePerformerFavorMobility|宫廷艺伎宠幸跃迁]] - narrower performance-mediated route into imperial attention.
+- [[LiJuanHanWudiCourt|丽娟]] - later literary case of beauty, performance, wit, reward, and fragile historical visibility.
 - [[GenderedConsortScapegoating|红颜祸水式替罪叙事]] - shows how later memory can sexualize and individualize institutional disorder.

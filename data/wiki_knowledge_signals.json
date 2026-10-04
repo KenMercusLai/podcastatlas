@@ -47276,9 +47276,9 @@
       "url": "/wiki/concepts/courtfactionalsurvival/"
     },
     "CourtIntimacyAsPoliticalResource": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们 [lgSf8_ASFriCTDmsPTsYFIZykPon].md",
@@ -47300,6 +47300,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》372-3｜西汉皇帝都有哪些男朋友？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》365-2｜玩的花，揭秘史上最好色的皇帝 [lu3XsUqwX0IbJDK6t2glLs389vkd].md",
+          "key": "zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》365-2｜玩的花，揭秘史上最好色的皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd/"
         }
       ],
       "updated": "2026-10-05",
@@ -94303,9 +94310,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 28,
+      "episode_count": 29,
       "show_count": 2,
-      "source_note_count": 28,
+      "source_note_count": 29,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -94502,6 +94509,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目",
           "url": "/wiki/sources/zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》365-2｜玩的花，揭秘史上最好色的皇帝 [lu3XsUqwX0IbJDK6t2glLs389vkd].md",
+          "key": "zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》365-2｜玩的花，揭秘史上最好色的皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd/"
         }
       ],
       "updated": "2026-10-05",
@@ -126784,6 +126798,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/lijingnan/"
+    },
+    "LiJuanHanWudiCourt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》365-2｜玩的花，揭秘史上最好色的皇帝 [lu3XsUqwX0IbJDK6t2glLs389vkd].md",
+          "key": "zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》365-2｜玩的花，揭秘史上最好色的皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/lijuanhanwudicourt/"
     },
     "LiJunrongFootballHistorian": {
       "episode_count": 1,

@@ -31,6 +31,7 @@ sources:
   - zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1sg-lkwl9dtnflxxgkieb79hj
   - zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg
   - zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif
+  - zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd
 last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
@@ -59,6 +60,8 @@ Hanji 364-1 supplies an earlier ritual-integration layer. The episode says Wudi 
 
 Hanji 365-1 adds a 108 BCE spectacle layer beside Western Regions expansion. The episode credits [[ZhaoPonuWesternHan|赵破奴]] with capturing the Loulan king and defeating Cheshi, then says defenses were extended from Jiuquan toward Yumen. In the same year, 角抵、鱼龙、蔓延 are presented as a growing repertoire of wrestling, acrobatics, theatrical action, animal imagery, and transformation. The juxtaposition does not prove that war and entertainment had one cause, but it shows Wudi's outward imperial appetite operating through both frontier projection and [[HanCourtSpectacleCulture|court spectacle]].
 
+Hanji 365-2 adds a harem-management and favorite-literature layer. The episode describes a very large registered palace population divided among eunuch and female supervisors, with frequently favored women separately recorded and given higher allowances, while pregnancy and childbirth could bring reward or rank. Its reported figures remain unverified, but the mechanism clarifies that palace inclusion, repeated access, and durable status were different things. The source then connects Wudi's sexuality to immortality belief through “采阴补阳” and presents [[LiJuanHanWudiCourt|丽娟]] through later marvel tales; neither the medical claim nor the anecdotes are adopted as established biography.
+
 Other layers make Han Wudi a calendar, ritual, and moral-expenditure marker. [[zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq|Hanji 371-2]] places the Taichu calendar inside a wider 104 BCE program joining astronomical cycles, the Xia first month, dynastic color and number, pitch standards, offices, and ritual. The same episode places Wudi's Mingtang and Houtu sacrifices beside continued coastal immortal searches and Penglai imagery at Jianzhang Palace, showing formal state ritual and immortality seeking operating in parallel. [[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|Hanji 150 PLUS]] treats him as the ruler who fixed the Xia calendar's first day of the first month as 元旦. [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] uses him as [[SimaGuang|司马光]]'s later negative afterexample in the [[WeiyangPalace|未央宫]] discussion, where palace expansion exhausts the people.
 
 Hanji 400-2 adds a talent-channel contrast. Against the episode's wider theme of class fixation, Han Wudi appears as a ruler who needed talent beyond outer-relative and hereditary channels. The source says he used ability-oriented selection and local recommendation to elevate people outside entrenched official lineages, making him a partial counterexample to complete status closure even though the page's broader evidence still emphasizes the costs and dangers of his rule. [[zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98|Hanji 369-2]] makes that need immediate after [[WeiQingHanGeneral|卫青]]'s death: with senior civil and military figures depleted, Wudi orders local recommendation of unconventional people fit for high command, the chancellorship, or distant missions. The edict broadens acceptable talent, while the host's contrast with Wudi's earlier lethal severity turns the shortage into a source-scoped personnel-policy feedback case.
@@ -79,7 +82,7 @@ Hanji 367-1 adds a royal-kin qualification to the severe-law profile. Court offi
 - Fiscal-extraction ruler whose war-finance needs are linked by Hanji 396-3 to monopoly, merchant assessment, and rewarded denunciation.
 - Source-scoped case of spring war timing used to attack future population and livestock capacity.
 - Ruler whose preferences create advice and appointment risk, and whose treatment of royal kin ranges from severe law enforcement to costly tolerance when a violent relative appears politically nonthreatening.
-- Imperial consumer of ritual and spectacle whose adoption of regional divination, fangshi-driven construction, and mixed court performance turns sacred or entertainment claims into personnel, material projects, and public display, while later wugu fear becomes political and succession danger before disillusionment produces fangshi dismissal.
+- Imperial consumer of ritual, spectacle, and intimate service whose adoption of regional divination, fangshi-driven construction, mixed court performance, and a reportedly stratified harem turns sacred, entertainment, and favorite access into personnel, buildings, registers, allowances, gifts, and public display, while later wugu fear becomes political and succession danger before disillusionment produces fangshi dismissal.
 - Calendar, ritual, and talent-channel anchor whose Taichu reform joins astronomical rules to dynastic symbols and state ceremony, while the Yuan Dan and official-selection sources show downstream festival order, access beyond hereditary office families, and emergency recruitment after senior-cohort depletion.
 - Ideological state-builder and negative fiscal-moral example whose Confucian turn is read by Hanji 392-4 as "outer Confucian, inner Legalist" renovation of Qin-style imperial structure, while Hanji 392-1 shows law overriding sibling and marital kinship and Hanji 381-2/384-1/385-1/386-1/388-2/391-1/391-2 show a final succession arc built around symbolic younger-son elevation, support-network destruction, fear-driven investigative authority, misinformation-driven suppression, belated Wugu remorse, mother-risk removal, and entrusted ministers.
 
@@ -113,6 +116,7 @@ Hanji 367-1 adds a royal-kin qualification to the severe-law profile. Court offi
 - Final succession design: [[zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm|Hanji 391-2]] says Han Wudi names Liu Fuling crown prince, asks Huo Guang to assist like Zhou Gong, and has Huo Guang, Jin Midi, Shangguan Jie, and Sang Hongyang receive sickbed responsibility for the young ruler.
 - Ritual integration and immortality construction: [[zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg|Hanji 364-1]] says Wudi uses Yue ritual specialists and chicken-bone divination in sacrifice, then responds to Gongsun Qing's tower advice with elevated buildings, equipment, and arrangements for awaiting divine beings.
 - Frontier success and spectacle: [[zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif|Hanji 365-1]] places Zhao Ponu's Loulan-Cheshi campaign and corridor defenses beside the rise of 角抵、鱼龙、蔓延 as mixed court spectacle.
+- Harem hierarchy and favorite legend: [[zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd|Hanji 365-2]] describes supervision, favor registers, allowances, reproductive rewards, travel selection, and the later literary anecdotes around [[LiJuanHanWudiCourt|丽娟]].
 
 ## Qualifications
 
@@ -126,12 +130,14 @@ Hanji 364-1 is a compact structured summary, not a full ritual or architectural 
 
 Hanji 365-1 is likewise a structured summary rather than a primary-source performance history. Its 108 BCE chronology, audience-radius claim, spectacle terminology, reconstructed stage effects, and appetite-centered psychology remain source-scoped. The later comparison with Xiao Yan does not prove that Wudi's entertainment or sexual habits determined his lifespan.
 
+Hanji 365-2 is a compact popular retelling that mixes harem administration, transmitted sayings, medicalized immortality belief, and later marvel literature. Its population and entourage counts, palace passages, management structure, favor records, titles, allowances, sexual practices, and claims about health require primary-text comparison. Li Juan's stories cannot be treated as verified court reporting, and neither sexual frequency nor “采阴补阳” is accepted as a cause of longevity.
+
 ## What Changed
 
-- Added a 108 BCE layer joining an earlier Loulan-Cheshi success to new corridor defenses.
-- Added 角抵、鱼龙、蔓延 as evidence that Wudi's outward imperial appetite also operated through large court spectacle.
-- Kept frontier projection and entertainment adjacent without assigning them one unsupported cause.
-- Rejected the episode's ruler-longevity contrast as proof of medical causation.
+- Added the source's distinction among harem population, selected access, registered favor, reproductive reward, and durable status.
+- Added sexuality-as-immortality belief while rejecting “采阴补阳” and sexual frequency as medical evidence.
+- Added Li Juan as a later literary-favorite tradition rather than a secure biographical layer.
+- Extended the appetite profile from spectacle consumption to administratively organized intimate service without accepting the episode's sensational superlative.
 
 ## Relationships
 
@@ -153,6 +159,8 @@ Hanji 365-1 is likewise a structured summary rather than a primary-source perfor
 - [[GongsunQingFangshi|公孙卿]] - fangshi whose elevated-building advice gives the early construction branch a named intermediary.
 - [[ChickenBoneDivination|鸡骨占卜]] - regional ritual system the source says Wudi incorporated into imperial sacrifice.
 - [[HanCourtSpectacleCulture|汉廷奇观娱乐]] - performance field through which wrestling, acrobatics, animal imagery, and transformation become court-centered display.
+- [[CourtIntimacyAsPoliticalResource|宫廷亲密关系作为政治资源]] - frame for distinguishing palace inclusion from registered favor, reward, rank, and repeated access.
+- [[LiJuanHanWudiCourt|丽娟]] - later literary favorite whose anecdotes attach beauty, wit, gifts, and marvel imagery to Wudi's court.
 - [[XiaoYanLiangWudi|梁武帝萧衍]] - later ruler used by Hanji 365-1 as a restraint-centered contrast to Wudi's appetite-centered image.
 - [[TianQianqiuWesternHan]] - official whose anti-fangshi advice Hanji 389-1 ties to Wudi's late policy turn.
 - [[GongsunHeWesternHan]] and [[WeiKangWesternHan]] - Wugu prelude casualties whose destruction weakens Liu Ju's support field in Hanji 384-1.

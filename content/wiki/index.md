@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密](sources/zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg.md) — 鸡骨占卜被还原为祭祀、制骨、插竹与经书释象的完整程序，并与汉武帝采用粤巫、公孙卿献策及求仙建筑并置。
 - [《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目](sources/zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif.md) — 以赵破奴征楼兰、车师和河西设防为年代背景，重建角抵、鱼龙、蔓延的宫廷奇观，并把梁武帝节制养生说保留为来源限定。
+- [《资治通鉴·汉纪》365-2｜玩的花，揭秘史上最好色的皇帝](sources/zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd.md) — 汉武帝后宫被呈现为按监督、登记、俸给、生育与封号分层的亲密资源体系；丽娟与“卖笑花”等故事则保留为后世传奇材料。
 - [《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂](sources/zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox.md) — 公孙遂以临机授权拘捕杨仆、合并荀彘与楼船军后被诛；朝鲜内部倒戈、卫右渠被杀、汉四郡设置与班固风俗评价共同构成战争结束及其史家解释。
 - [《资治通鉴·汉纪》366-3｜雌雄同体，是一个女人的顶级魅力](sources/zizhi-tongjian-hanji-366-3-cixiongtongti-shi-yige-nvren-de-dingji-meili-li7iu8v_bnyhpp48rhsrjkkzz5og.md) — 将女性力量解释为独立、行动、温和表达、情绪调节与底线的结合，同时限定其性别二分、沉默和形象管理风险。
 - [《资治通鉴·汉纪》366-4｜淇姐心里话：女人更解女人心](sources/zizhi-tongjian-hanji-366-4-qijie-xinlihua-nvren-geng-jie-nvrenxin-lhnf_zbn364cuu01f0rbf8pd-7in.md) — 将同理心、责任、行动、学习、关系边界、健康与时间管理合成女性自我治理理想，并把“黑色生命力”限定为来源中的韧性隐喻。
@@ -3796,6 +3797,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [丽娟 / Li Juan (Han Wudi court)](entities/LiJuanHanWudiCourt.md) — 后世笔记与传奇中的汉武帝宫人，其歌舞、美貌、机敏与赏赐故事被保留为文学性宠幸记忆，而非确证传记。
 - [梁武帝萧衍 / Xiao Yan, Emperor Wu of Liang](entities/XiaoYanLiangWudi.md) — 以学习、素食、崇佛和晚年节欲构成节目中的长寿对照，但不把相关性提升为医学因果。
 - [公孙遂 / Gongsun Sui (Western Han)](entities/GongsunSuiWesternHan.md) — 奉汉武帝临机处置朝鲜前线矛盾、拘捕杨仆并合军，奏报后反遭诛杀的帝国特使。
 - [荀彘 / Xun Zhi (Western Han)](entities/XunZhiWesternHan.md) — 征卫氏朝鲜的左将军，合并杨仆军后完成进攻，却因争功和指挥冲突在战后被诛。

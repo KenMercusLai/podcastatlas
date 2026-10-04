@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12380
+wiki_total_pages: 12381
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1136,6 +1136,9 @@ wiki_pages:
   - key: "Linzi"
     title: "临淄 / Linzi"
     url: "/wiki/entities/linzi/"
+  - key: "LiJuanHanWudiCourt"
+    title: "丽娟 / Li Juan (Han Wudi court)"
+    url: "/wiki/entities/lijuanhanwudicourt/"
   - key: "LeCheng"
     title: "乐乘 / Le Cheng"
     url: "/wiki/entities/lecheng/"

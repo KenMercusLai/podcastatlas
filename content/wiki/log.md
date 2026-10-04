@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-05] ingest | 《资治通鉴·汉纪》365-2｜玩的花，揭秘史上最好色的皇帝
+
+Added source `zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd`; created the disambiguated [[LiJuanHanWudiCourt|丽娟]] profile; and resynthesized [[HanWudi|汉武帝]] and [[CourtIntimacyAsPoliticalResource|宫廷亲密关系作为政治资源]] from their complete preserved evidence inventories. Core synthesis: the episode distinguishes mass harem inclusion from supervision, selected access, favor registration, increased allowances, reproductive reward, gifts, and rank, while Li Juan's performance and wit survive chiefly through later marvel literature. No settled contradiction was adopted. Harem totals, travel numbers, palace passages, titles, “采阴补阳,” health effects, Li Juan's historicity and age, falling flowers, sounding amber, gold amount, “卖笑花” etymology, and childlessness remain source-scoped. The modern-women conclusion is treated as commentary rather than Western Han evidence. The automatic `wiki/overview.md` was read for context and not manually rewritten because this bounded harem-and-literary-favorite branch does not warrant a new global synthesis paragraph. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,732 sources and 789 overview paragraphs. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
 ## [2026-10-05] ingest | 《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密
 
 Added source `zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg`; created [[ChickenBoneDivination|鸡骨占卜]] and the disambiguated [[GongsunQingFangshi|公孙卿]] page; and resynthesized [[HanWudi|汉武帝]] and [[ImmortalityQuestPolitics|求仙政治]] from their complete preserved evidence inventories. Core synthesis: chicken-bone divination is presented as a staged sacrificial, material, interpretive, and textual system, while Gongsun Qing's claim that immortals favor towers shows court belief becoming buildings, equipment, specialists, and organized waiting. No settled contradiction was adopted. Predictive efficacy, the live-spider reference, bone taxonomy, manual count and transmission history, architectural sequence, and causal weight of Gongsun Qing's advice remain source-scoped. 公孙卿 is kept distinct from the anti-Qin envoy [[GongsunQing|公孙庆]]. The automatic `wiki/overview.md` was read for context and not manually rewritten because this bounded ritual-and-construction episode did not warrant a new global synthesis paragraph. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,730 sources and 789 overview paragraphs.
@@ -29844,6 +29848,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] ingest | 《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目
 
 Added source `zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif`; added [[XiaoYanLiangWudi|梁武帝萧衍]] and [[HanCourtSpectacleCulture|汉廷奇观娱乐]]; and extended [[HanWudi|汉武帝]], [[ZhaoPonuWesternHan|赵破奴]], [[LoulanKingdomWesternHan|楼兰]], and [[CheshiKingdomWesternHan|车师]] with the source-scoped 108 BCE campaign and spectacle layer. The source's fasting, autophagy, sexual-restraint, Buddhist-merit, audience-size, and performance-reconstruction claims remain episode-attributed rather than established medical or specialist findings. No settled contradiction was adopted: the early Zhao Ponu victory backfills rather than reverses his later command collapse. The automatic `wiki/overview.md` was read for context and not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,731 sources and 789 overview paragraphs. Changed-page links, index coverage, identities, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-05] lint | Wiki health check
 
