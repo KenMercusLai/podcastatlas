@@ -3505,7 +3505,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 176,
+      "source_note_count": 177,
       "topic_matched_source_note_count": 9,
       "topics": [
         {
@@ -3539,7 +3539,7 @@
           "title": "阿汤 / A Tang",
           "url": "/wiki/entities/atang/",
           "kind": "person",
-          "episode_count": 20
+          "episode_count": 21
         },
         {
           "key": "MaHaoning",
@@ -3553,7 +3553,7 @@
           "title": "子涵医生 / Zihan Doctor",
           "url": "/wiki/entities/zihandoctor/",
           "kind": "person",
-          "episode_count": 9
+          "episode_count": 10
         },
         {
           "key": "MaoZheTCMDoctor",

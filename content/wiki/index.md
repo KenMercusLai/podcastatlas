@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常](sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz.md) — 这病说来话长 listener roundtable on clinical training, animal ethics, hospital queues, ICU reversibility, chronic follow-up, hygiene, and clinician public education.
 - [《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴](sources/zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd.md) — 苏武在断粮与北海流放中持节守志；赵破奴的崛起、被俘归汉与巫蛊族灭则浓缩汉武一朝的扩张与悲剧。
 - [《资治通鉴·汉纪》376-1｜历史上真实的苏武牧羊是什么样？](sources/zizhi-tongjian-hanji-376-1-lishishang-zhenshi-de-suwu-muyang-shi-shenmeyang-lidxs1d66m5q2hegjteq1lgra5fp.md) — 张胜私助虞常刺杀卫律的计划使和平使团被集体牵连，苏武两次求死并拒绝连坐投降，由此补全北海流放前的危机起点。
 - [《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴](sources/zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os.md) — 郁成支线补全上官桀与赵弟的行动，并以布利丹毛驴说明慎思需要停止规则，避免比较本身吞掉机会。
@@ -3769,6 +3770,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [小范 / Xiao Fan (这病说来话长)](entities/XiaoFanZheBing.md) — Partial-identity clinician guest connecting procedural learning, resuscitation planning, chronic review, and careful public education.
 - [张胜 / Zhang Sheng (Su Wu mission)](entities/ZhangShengSuWuMissionWesternHan.md) — 苏武使团副使，私助虞常刺杀卫律的计划，事败后被供出并在死亡威胁下投降。
 - [虞常 / Yu Chang (Western Han-era)](entities/YuChangWesternHan.md) — 匈奴境内密谋参与者，其失败、被捕与供出张胜触发苏武使团的拘押危机。
 - [卫律 / Wei Lü (Western Han-Xiongnu)](entities/WeiLuWesternHan.md) — 由汉使转入匈奴权力体系的中介，既救治苏武又以处决、连坐和剑威逼迫汉使投降。
@@ -16168,6 +16170,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity whose siege resilience, elite regicide, threatened horse destruction, and negotiated settlement preserve autonomy under overwhelming Han pressure.
 
 ## Concepts
+- [Clinical Procedure Skill Acquisition / 临床操作技能习得](concepts/ClinicalProcedureSkillAcquisition.md) — Staged observation, mental sequencing, supervised participation, repeated performance, feedback, and safety in learning clinical procedures.
+- [Clinician Public Education Practice / 临床医生科普实践](concepts/ClinicianPublicEducationPractice.md) — Clinician preparation, lay translation, audience feedback, and the boundary between public education and individualized care.
 - [Terrain and Formation Force Multiplication / 地形阵型战力放大](concepts/TerrainFormationForceMultiplication.md) — 小部队以地形、阵型、武器协同、临时工事、角色分配与信息优势放大战力，同时受补给和情报暴露硬约束的战术模式。
 - [Extremist Social Normalization](concepts/ExtremistSocialNormalization.md) — Process by which exclusionary movements become familiar and respectable through ordinary institutions, entertainment, ritual, and belonging.
 - [Extremist Electoral Machine](concepts/ExtremistElectoralMachine.md) — Conversion of extremist membership networks into endorsements, turnout, officeholding, patronage, and institutional pressure.

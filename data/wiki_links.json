@@ -18719,6 +18719,10 @@
     "title": "Clinical Outcome Uncertainty / 临床结局不确定性",
     "url": "/wiki/concepts/clinicaloutcomeuncertainty/"
   },
+  "ClinicalProcedureSkillAcquisition": {
+    "title": "Clinical Procedure Skill Acquisition / 临床操作技能习得",
+    "url": "/wiki/concepts/clinicalprocedureskillacquisition/"
+  },
   "ClinicalRoleOverload": {
     "title": "Clinical Role Overload / 临床角色过载",
     "url": "/wiki/concepts/clinicalroleoverload/"
@@ -18734,6 +18738,10 @@
   "ClinicalTrustBuilding": {
     "title": "Clinical Trust Building / 临床信任建立",
     "url": "/wiki/concepts/clinicaltrustbuilding/"
+  },
+  "ClinicianPublicEducationPractice": {
+    "title": "Clinician Public Education Practice / 临床医生科普实践",
+    "url": "/wiki/concepts/clinicianpubliceducationpractice/"
   },
   "ClinicianVulnerabilityAndSelfCare": {
     "title": "Clinician Vulnerability and Self-Care / 医护脆弱性与自我照护",
@@ -86747,6 +86755,10 @@
     "title": "Xiao'e",
     "url": "/wiki/entities/xiaoe/"
   },
+  "XiaoFanZheBing": {
+    "title": "小范 / Xiao Fan (这病说来话长)",
+    "url": "/wiki/entities/xiaofanzhebing/"
+  },
   "XiaoGuoGege": {
     "title": "小果哥哥 / XiaoGuoGege",
     "url": "/wiki/entities/xiaoguogege/"
@@ -97566,6 +97578,10 @@
   "vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5": {
     "title": "VOL.20儿科｜听林医生讲宝宝的发热、外伤、心理、疫苗的那些误区和判断常识｜台湾地区就诊现状",
     "url": "/wiki/sources/vol-20-erke-ting-lin-yisheng-jiang-baobao-de-fare-waishang-xinli-yimiao-de-naxie-wuqu-he-panduan-changshi-taiwan-diqu-jiuzhen-xianzhuang-lmpxj193ifwfm0x-uxmjsan1a-m5/"
+  },
+  "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz": {
+    "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+    "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
   },
   "vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z": {
     "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",

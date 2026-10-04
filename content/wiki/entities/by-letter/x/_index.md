@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 12348
+wiki_total_pages: 12349
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "XiaomiaoAIResearcher"
     title: "小苗 / Xiaomiao (AI researcher)"
     url: "/wiki/entities/xiaomiaoairesearcher/"
+  - key: "XiaoFanZheBing"
+    title: "小范 / Xiao Fan (这病说来话长)"
+    url: "/wiki/entities/xiaofanzhebing/"
   - key: "XiaoweiDuanwenReporter"
     title: "小薇 / Xiaowei (Duanwen reporter)"
     url: "/wiki/entities/xiaoweiduanwenreporter/"

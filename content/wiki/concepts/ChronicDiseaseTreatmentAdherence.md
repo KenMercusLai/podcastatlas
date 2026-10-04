@@ -6,7 +6,8 @@ sources:
   - vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek
   - vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu
   - vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5
-last_updated: 2026-09-26
+  - vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz
+last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The lupus episode treats adherence as an information and trust problem rather th
 The lupus source's shorthand “早吃药的人早停药” expresses a conditional logic: controlling active disease earlier may create later room for dose reduction, whereas irregular early treatment can prolong instability or raise relapse risk. The IBD episode adds the complementary remission boundary: fast symptom relief is not proof that the underlying condition has disappeared, and stopping treatment after each improvement can make repeated disease harder to control. Together, the sources treat adherence as an ongoing feedback loop in which response, adverse effects, nutrition, relapse, and changing goals are reviewed rather than ignored.
 
 VOL.110 adds the common hypertension and diabetes case: much of medicine controls risk and disease activity rather than delivering a once-and-for-all cure. Continuing medication and review are therefore not evidence of treatment failure, while advertisements promising complete eradication of these chronic conditions are a warning sign.
+
+VOL.200 separates continuity of treatment from continuity with one doctor. A patient may obtain long-term medicine from another hospital or community service and may return after a gap without being judged personally. The safety requirement is periodic review of response, adverse effects, tests, and dose rather than uninterrupted attendance with the same clinician.
 
 ## Key Claims
 - Adherence problems often arise from understandable fears about adverse effects, dependence, appearance, and uncertain efficacy.
@@ -38,13 +41,14 @@ VOL.110 adds the common hypertension and diabetes case: much of medicine control
 - Remission boundary: [[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu]] contrasts acute symptom improvement with sustained IBD remission and describes relapse after self-directed stopping or irregular treatment.
 - Follow-up and shared decisions: [[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu]] connects continuing care with medication review, nutrition, complication monitoring, surgery timing, and patient participation.
 - Control-versus-cure literacy: [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]] uses hypertension and diabetes to distinguish long-term stabilization from guaranteed eradication.
+- Cross-provider continuity: [[vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz|VOL.200]] says long-term medicines may be obtained elsewhere while periodic safety and dose review remain necessary.
 
 ## Counterevidence & Qualifications
 Adherence is not blind compliance, and adverse effects, cost, access, pregnancy, infection, misdiagnosis, poor response, surgery, or changing goals can justify reassessment or a different plan. The sources do not provide drug-specific missed-dose or discontinuation instructions. “Early treatment permits early stopping” is a motivational shorthand, not a guarantee; some chronic diseases require indefinite maintenance. The IBD episode's multi-year treatment language and individual cases are also source-scoped rather than universal duration rules.
 
 ## What Changed
-- Added the common hypertension and diabetes distinction between durable control and cure.
-- Added cure promises as an information-quality warning sign rather than a reason to abandon continuing care.
+- Separated treatment continuity from exclusive follow-up with one doctor or hospital.
+- Added periodic adverse-effect and dose review after a visit gap.
 
 ## Related Concepts
 - [[SystemicLupusErythematosusManagement]] - disease-specific case grounding the adherence framework.

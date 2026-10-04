@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9672
+wiki_total_pages: 9674
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1274,6 +1274,9 @@ wiki_pages:
   - key: "ClinicalOutcomeUncertainty"
     title: "Clinical Outcome Uncertainty / 临床结局不确定性"
     url: "/wiki/concepts/clinicaloutcomeuncertainty/"
+  - key: "ClinicalProcedureSkillAcquisition"
+    title: "Clinical Procedure Skill Acquisition / 临床操作技能习得"
+    url: "/wiki/concepts/clinicalprocedureskillacquisition/"
   - key: "ClinicalRoleOverload"
     title: "Clinical Role Overload / 临床角色过载"
     url: "/wiki/concepts/clinicalroleoverload/"
@@ -1286,6 +1289,9 @@ wiki_pages:
   - key: "ClinicalTrustBuilding"
     title: "Clinical Trust Building / 临床信任建立"
     url: "/wiki/concepts/clinicaltrustbuilding/"
+  - key: "ClinicianPublicEducationPractice"
+    title: "Clinician Public Education Practice / 临床医生科普实践"
+    url: "/wiki/concepts/clinicianpubliceducationpractice/"
   - key: "ClinicianVulnerabilityAndSelfCare"
     title: "Clinician Vulnerability and Self-Care / 医护脆弱性与自我照护"
     url: "/wiki/concepts/clinicianvulnerabilityandselfcare/"

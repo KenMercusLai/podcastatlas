@@ -39,7 +39,8 @@ sources:
   - vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq
   - vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr
   - vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk
-last_updated: 2026-09-28
+  - vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz
+last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -103,13 +104,15 @@ VOL.132 adds an oral-health and dental consumer-literacy branch through [[BingeO
 
 VOL.131 adds a cross-specialty medical-question branch through radiology, anesthesia, ICU, pediatric ICU, surgery, and oral-health voices. It develops [[MagneticResonanceSafetyAndAppropriateness]] through devices, implants, fetal and pediatric imaging, and scan indication; develops [[ClinicalHistoryDisclosure]] through mismatch detection, collateral ICU history, confidentiality, and anesthesia risk; and extends [[PreoperativeAnesthesiaAssessment]] and [[PerioperativeAnesthesiaSafety]] through urinary-catheter choice, literal fasting compliance, aspiration prevention, and bounded explanation of transient anesthesia effects.
 
+VOL.200 adds a self-reflective listener-question branch. [[Atang|阿汤]] and recurring guests connect [[ClinicalProcedureSkillAcquisition]], [[AnimalExperimentEthics]], outpatient queue limits, [[IntensiveCareAsTimeBuying]], [[ClinicalOutcomeUncertainty]], [[ChronicDiseaseTreatmentAdherence]], infection-control habits, and [[ClinicianPublicEducationPractice]]. The episode treats the show's own impact as selected feedback and professional reflection rather than as measured clinical effectiveness.
+
 ## Key Characteristics
 - Uses specialist guests to explain rheumatology, autoimmune disease, intensive care, medical imaging, nutrition, neuroscience, female and male urology, anesthesiology, preoperative assessment, otolaryngology, ophthalmology, speech-language and swallowing rehabilitation, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, and mental-health topics through mechanisms, cases, and accessible examples.
 - Separates public education from individualized diagnosis, treatment, rehabilitation, legal advice, workplace advice, or product prescription.
 - Keeps advanced medical technology, exercise equipment, headphones, eye drops, self-care routines, supplements, special-use foods, GLP-1 medicines, CGM, PSA and imaging findings, and consumer products tied to indication, validation, use context, risk, and patient or user burden.
 - Turns common anxieties into practical questions about interpretation, follow-up, food choices, product claims, training load, headphone use, music use, urinary symptoms, self-observation, evidence, and escalation.
 - Links prevention and self-care to clinical or institutional boundaries instead of treating them as substitutes for care.
-- Treats uncertainty and conflict as something to manage through communication, systems, records, professional support, and return thresholds rather than denial, blame, or retaliation.
+- Treats uncertainty, reversibility, and feedback as things to manage through communication, systems, records, professional support, and return thresholds rather than denial, blame, retaliation, or impact overclaiming.
 - Converts everyday habit, self-regulation, supplement, nutrition-label, repellent-product, insect-bite, headphone, tinnitus, dry-eye, red-eye, eye-drop, myopia-surgery, urinary leakage, pregnancy urinalysis, infection behavior, abdominal pain, urinary frequency, urine color, PSA, kidney-stone, renal-mass, foreskin, foreign-body, preoperative anesthesia, postoperative recovery, dysphagia, child-language, articulation, aphasia, dysarthria, internet medical-language, workplace-pressure, appearance, emergency-response, CPR/AED, chest pain, seizure, medication, wound, burn, exercise-safety, music-therapy, and artist-lifestyle confusion into concrete boundaries, including separation of transferable habit design from autobiographical diet, exercise, creativity, and coping routines.
 
 ## Evidence
@@ -137,15 +140,16 @@ VOL.131 adds a cross-specialty medical-question branch through radiology, anesth
 - Diagnostic and interventional ultrasound: [[vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf]] distinguishes ultrasound modes, first-line strengths, multimodal limits, image-guided procedures, coupling gel, bladder filling, endocavitary routes, infection-control steps, consent, and pregnancy reassurance.
 - Preventive checkups and report literacy: [[vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb]] connects baseline and targeted test selection, family and lifestyle risk, single-marker caution, imaging findings, overdiagnosis, and uninterrupted follow-up.
 - Lupus and chronic-illness management: [[vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek]] connects autoimmune mechanism, variable organ involvement, clinical remission, treatment adherence, adverse-effect communication, sun protection, ICU coordination, information quality, and patient-defined quality of life.
+- Reflective clinical training and public education: [[vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz|VOL.200]] connects animal ethics, procedural learning, hospital process, reversibility-based rescue, chronic review, hygiene, clinician preparation, and selected listener feedback.
 - Oral health and dental consumer literacy: [[vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh]] connects life-course prevention, plaque control, tooth-repair claims, whitening, provider credentials, airway development, orthodontic retention, and periodontal escalation to qualified care.
 
 ## Qualifications
-The page is based only on thirty-six ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education or personal experience, not individualized rheumatology, autoimmune-disease, immunosuppression, ICU, medical, screening, genetic-testing, radiology, MRI compatibility, ultrasound, image-guided procedure, sleep-medicine, respiratory, asthma, hepatology, alcohol, hypertension, medication, home-monitoring, psychiatric, legal, workplace, nutrition, dietetics, vitamin or mineral dosing, diabetes, obesity, fatty-liver, dermatology, ophthalmology, oral-health, dentistry, oral-surgery, orthodontics, periodontal care, tooth whitening, airway surgery, myopia-control, orthokeratology, infection, urology, gynecology, obstetrics, pregnancy, lactation, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, fitness, music-therapy, medical-aesthetic, cardiology, neurosurgery, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, tobacco-control, smoking-cessation, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
+The page is based only on thirty-seven ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes and selected listener feedback are public education or personal experience, not individualized training, research-ethics, prognostic, end-of-life, infection-control, rheumatology, autoimmune-disease, immunosuppression, ICU, medical, screening, genetic-testing, radiology, MRI compatibility, ultrasound, image-guided procedure, sleep-medicine, respiratory, asthma, hepatology, alcohol, hypertension, medication, home-monitoring, psychiatric, legal, workplace, nutrition, dietetics, vitamin or mineral dosing, diabetes, obesity, fatty-liver, dermatology, ophthalmology, oral-health, dentistry, oral-surgery, orthodontics, periodontal care, tooth whitening, airway surgery, myopia-control, orthokeratology, infection, urology, gynecology, obstetrics, pregnancy, lactation, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, fitness, music-therapy, medical-aesthetic, cardiology, neurosurgery, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, tobacco-control, smoking-cessation, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
 
 ## What Changed
-- VOL.47 backfills a nutrition episode centered on dietary sufficiency, immune regulation, and supplement need.
-- The profile now distinguishes stable immune function from indiscriminate “boosting.”
-- The supplement branch now includes life stage, absorption, medication effects, restricted intake, and price-versus-value boundaries.
+- Added the VOL.200 listener-question and self-reflection branch.
+- Connected clinical training, ICU benefit, chronic review, and public-education practice in one bounded synthesis.
+- Preserved selected listener outcomes as feedback rather than program-effect evidence.
 
 ## Relationships
 - [[DongRheumatologyDoctor]] - source-scoped rheumatology guest in VOL.138.
@@ -304,6 +308,8 @@ The page is based only on thirty-six ingested episode notes. It should not be tr
 - [[InterventionalUltrasoundSafety]] - image-guided sampling and treatment branch bounded by visibility, access, complexity, and risk.
 - [[UltrasoundExamPreparationAndSafety]] - coupling, bladder-filling, scheduling, consent, hygiene, and endocavitary-examination branch.
 - [[BingeOralDoctor]] - source-scoped oral-health doctor in VOL.132.
+- [[ClinicalProcedureSkillAcquisition]] - staged observation, practice, and supervision branch developed in VOL.200.
+- [[ClinicianPublicEducationPractice]] - clinician preparation, translation, and feedback branch developed in VOL.200.
 - [[LifecycleOralHealthPrevention]] - age-spanning oral prevention and timely-care framework developed by the show.
 - [[OralCareProductTreatmentBoundary]] - toothpaste, rinse, repair-liquid, and treatment-claim boundary developed by the show.
 - [[DentalAestheticTreatmentBoundary]] - tooth-color, whitening, veneer, and crown distinction developed by the show.

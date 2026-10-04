@@ -6,7 +6,8 @@ sources:
   - vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec
   - vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek
   - vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla
-last_updated: 2026-09-24
+  - vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz
+last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,6 +23,8 @@ In VOL.213, they explain why listeners should evaluate mosquito repellents by ac
 
 In VOL.138, the source identifies 尹老师 with medical imaging and has them explain that CT and similar examination risks must be compared with the risk of failing to investigate a clinically important condition. The same discussion emphasizes complete, multi-sided information before patients make choices and warns that another person's experience may not fit a different disease course.
 
+VOL.200 adds animal-experiment ethics, body donation, and end-of-life communication. 尹老师 treats compassion toward animals as an ethically intelligible response, notes that outwardly disturbing rescue scenes do not necessarily reveal a sedated patient's felt experience, and frames donated remains as one possible contribution to medical knowledge rather than an obligation.
+
 ## Key Characteristics
 - Explains mosquito-repellent choice through active ingredients, concentration, duration, and usage context.
 - Warns against weakly evidenced bracelets, patches, ultrasonic products, essential-oil mystique, and scent-only assumptions.
@@ -29,7 +32,7 @@ In VOL.138, the source identifies 尹老师 with medical imaging and has them ex
 - Keeps the advice public and practical rather than presenting product choice as individualized medical treatment.
 - Explains examination risk through comparison with the clinical question and the harm of leaving it unresolved.
 - Emphasizes complete information and individual context before medical decisions.
-- Adds a receiving-side view of ambulance charges, emergency-department handoff, and bed pressure.
+- Adds a receiving-side view of ambulance charges, emergency-department handoff, and bed pressure, then extends risk communication into animal ethics, perceived suffering, and body donation.
 
 ## Evidence
 - Ingredient and concentration literacy: [[vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec]] has 尹老师 compare DEET, picaridin or icaridin, IR3535, lemon eucalyptus extract, and citronella oil by duration, feel, availability, and context.
@@ -37,14 +40,14 @@ In VOL.138, the source identifies 尹老师 with medical imaging and has them ex
 - Household prevention: [[vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec]] ties the final prevention advice to standing-water cleanup, long sleeves, product reapplication, and caution with burning coils or smoke-producing indoor products.
 - Imaging and information risk: [[vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek]] has 尹老师 compare examination risk with missed-disease risk and argue for fuller information before patient decisions.
 - Emergency handoff and capacity: [[vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla]] has 尹老师 discuss ambulance billing, emergency-room reception, corridor crowding, temporary stretcher-bed use, and the lack of a guaranteed ward bed.
+- Animal ethics and perceived suffering: [[vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz|VOL.200]] connects laboratory-animal compassion, a signed body-donation agreement, and the gap between frightening appearance and remembered patient experience.
 
 ## Qualifications
-The sources give only the partial speaker name 尹老师. The wiki does not infer a full name or institutional identity. VOL.138 identifies an imaging role and VOL.120 refers to emergency/120 experience, but the material does not establish a complete career history. This page remains distinct from [[YinXinDoctor|银欣 / Yin Xin]] because the available sources do not establish that they are the same person. Charges and bed practices are also time- and provider-sensitive.
+The sources give only the partial speaker name 尹老师. The wiki does not infer a full name or institutional identity. VOL.138 identifies an imaging role and VOL.120 refers to emergency/120 experience, but the material does not establish a complete career history. This page remains distinct from [[YinXinDoctor|银欣 / Yin Xin]] because the available sources do not establish that they are the same person. Charges, bed practices, pain awareness, donation rules, and laboratory-animal standards are time-, jurisdiction-, institution-, and case-sensitive.
 
 ## What Changed
-- Added VOL.138's medical-imaging and informed-risk comparison role.
-- Kept the partial identity distinct from other similarly named imaging guests.
-- The profile now includes a source-scoped emergency-department and ambulance-handoff perspective.
+- Added the animal-ethics, perceived-suffering, and body-donation discussion.
+- Retained all identity and clinical-role boundaries around the partial name.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where 尹老师 appears in the current source.
@@ -57,3 +60,5 @@ The sources give only the partial speaker name 尹老师. The wiki does not infe
 - [[DoctorPatientCommunication]] - information-completeness frame supporting patient decisions.
 - [[SystemicLupusErythematosusManagement]] - chronic-disease episode context for the imaging-risk discussion.
 - [[PrehospitalEmergencyMedicalResponse]] - dispatch-to-handoff system extended by 尹老师's receiving-side observations.
+- [[AnimalExperimentEthics]] - moral-response and medical-learning boundary he discusses.
+- [[EndOfLifeAutonomyAndDignity]] - patient-experience and donation context adjacent to his remarks.

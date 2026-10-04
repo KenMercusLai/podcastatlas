@@ -13595,6 +13595,29 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/animalanecdotesourceuncertainty/"
     },
+    "AnimalExperimentEthics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "68.疯狂实验史：哎！这该死的求知欲… [664384549].md",
+          "key": "68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549",
+          "show": "蜜獾吃书",
+          "title": "68.疯狂实验史：哎！这该死的求知欲…",
+          "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
+        },
+        {
+          "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
+          "key": "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz",
+          "show": "这病说来话长",
+          "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+          "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/animalexperimentethics/"
+    },
     "AnimalFarm": {
       "episode_count": 1,
       "show_count": 1,
@@ -17284,9 +17307,9 @@
       "url": "/wiki/concepts/astrologicalinterpretationevidenceboundary/"
     },
     "Atang": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 1,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -17427,9 +17450,16 @@
           "show": "这病说来话长",
           "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
           "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
+        },
+        {
+          "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
+          "key": "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz",
+          "show": "这病说来话长",
+          "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+          "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/atang/"
     },
     "Atenism": {
@@ -39175,9 +39205,9 @@
       "url": "/wiki/entities/christyescobel/"
     },
     "ChronicDiseaseTreatmentAdherence": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
@@ -39199,9 +39229,16 @@
           "show": "这病说来话长",
           "title": "VOL.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日",
           "url": "/wiki/sources/vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5/"
+        },
+        {
+          "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
+          "key": "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz",
+          "show": "这病说来话长",
+          "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+          "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/chronicdiseasetreatmentadherence/"
     },
     "ChronicIllnessQualityOfLife": {
@@ -40916,9 +40953,9 @@
       "url": "/wiki/concepts/clinicalmusictherapy/"
     },
     "ClinicalOutcomeUncertainty": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "liTblbACaVb9homQXO81g71oujYz [liTblbACaVb9homQXO81g71oujYz].md",
@@ -40940,10 +40977,33 @@
           "show": "这病说来话长",
           "title": "VOL.14急诊危重病科｜在EICU生死一刹那 下一秒的故事永远无法剧透",
           "url": "/wiki/sources/vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c/"
+        },
+        {
+          "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
+          "key": "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz",
+          "show": "这病说来话长",
+          "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+          "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/clinicaloutcomeuncertainty/"
+    },
+    "ClinicalProcedureSkillAcquisition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
+          "key": "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz",
+          "show": "这病说来话长",
+          "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+          "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/clinicalprocedureskillacquisition/"
     },
     "ClinicalRoleOverload": {
       "episode_count": 2,
@@ -41013,6 +41073,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/clinicaltrustbuilding/"
+    },
+    "ClinicianPublicEducationPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
+          "key": "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz",
+          "show": "这病说来话长",
+          "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+          "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/clinicianpubliceducationpractice/"
     },
     "ClinicianVulnerabilityAndSelfCare": {
       "episode_count": 1,
@@ -75360,9 +75436,9 @@
       "url": "/wiki/entities/fengxiaogang/"
     },
     "FengXiaoliuVascularSurgeon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqogN2-UEeEbZhWV0g1-Ns9yqGv5 [lqogN2-UEeEbZhWV0g1-Ns9yqGv5].md",
@@ -75370,9 +75446,16 @@
           "show": "这病说来话长",
           "title": "VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南",
           "url": "/wiki/sources/vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5/"
+        },
+        {
+          "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
+          "key": "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz",
+          "show": "这病说来话长",
+          "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+          "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/fengxiaoliuvascularsurgeon/"
     },
     "FengXinWesternHan": {
@@ -109179,9 +109262,9 @@
       "url": "/wiki/concepts/intelligenceperwatt/"
     },
     "IntensiveCareAsTimeBuying": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lnrBQZtEhpu3nNpOfUw1iHAscwrM [lnrBQZtEhpu3nNpOfUw1iHAscwrM].md",
@@ -109217,9 +109300,16 @@
           "show": "这病说来话长",
           "title": "VOL.14急诊危重病科｜在EICU生死一刹那 下一秒的故事永远无法剧透",
           "url": "/wiki/sources/vol-14-jizhen-weizhongbingke-zai-eicu-shengsi-yichana-xiayimiao-de-gushi-yongyuan-wufa-jutou-lvroomdoozbajm99k07hhffefc7c/"
+        },
+        {
+          "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
+          "key": "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz",
+          "show": "这病说来话长",
+          "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+          "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/intensivecareastimebuying/"
     },
     "IntentionalLivingAgency": {
@@ -126499,9 +126589,9 @@
       "url": "/wiki/entities/liangchenqi/"
     },
     "LiangGeAnesthesiologist": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lswakiFoOzU5VkCkl5n-nZNDj43e [lswakiFoOzU5VkCkl5n-nZNDj43e].md",
@@ -126509,9 +126599,16 @@
           "show": "这病说来话长",
           "title": "VOL.67无·事｜听躺进ICU的医生和普通病人在聊些什么？知道越多越恐惧？｜献礼医师节彩蛋",
           "url": "/wiki/sources/lswakifoozu5vkckl5n-nzndj43e-lswakifoozu5vkckl5n-nzndj43e/"
+        },
+        {
+          "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
+          "key": "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz",
+          "show": "这病说来话长",
+          "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+          "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/lianggeanesthesiologist/"
     },
     "LiangGuirenHeLateHan": {
@@ -230070,6 +230167,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/xiaoa/"
     },
+    "XiaoFanZheBing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
+          "key": "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz",
+          "show": "这病说来话长",
+          "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+          "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/xiaofanzhebing/"
+    },
     "XiaoHuoziNittanWuyu": {
       "episode_count": 2,
       "show_count": 1,
@@ -234830,9 +234943,9 @@
       "url": "/wiki/entities/yinchengprincess/"
     },
     "YinLaoshiZheBing": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
@@ -234854,9 +234967,16 @@
           "show": "这病说来话长",
           "title": "VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事",
           "url": "/wiki/sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla/"
+        },
+        {
+          "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
+          "key": "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz",
+          "show": "这病说来话长",
+          "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+          "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/yinlaoshizhebing/"
     },
     "YinLihua": {
@@ -239919,9 +240039,9 @@
       "url": "/wiki/entities/zhaogecountylatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 36,
+      "episode_count": 37,
       "show_count": 1,
-      "source_note_count": 36,
+      "source_note_count": 37,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -240174,9 +240294,16 @@
           "show": "这病说来话长",
           "title": "VOL.47食品与营养｜关于免疫力和补充剂的误区你中了几条？",
           "url": "/wiki/sources/vol-47-shipin-yu-yingyang-guanyu-mianyili-he-buchongji-de-wuqu-ni-zhongle-jitiao-lruch-jc9a_r3r1qmdo2ojlxz2mk/"
+        },
+        {
+          "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
+          "key": "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz",
+          "show": "这病说来话长",
+          "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+          "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/zhebingshuolaihuachang/"
     },
     "ZhejiangUniversityChildrensHospital": {
@@ -242590,9 +242717,9 @@
       "url": "/wiki/entities/zibianliang/"
     },
     "ZihanDoctor": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
@@ -242656,9 +242783,16 @@
           "show": "这病说来话长",
           "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
           "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
+        },
+        {
+          "episode_file": "lr-4SYBVL54Knf4n3i6gWHXyEACZ [lr-4SYBVL54Knf4n3i6gWHXyEACZ].md",
+          "key": "vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz",
+          "show": "这病说来话长",
+          "title": "VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常",
+          "url": "/wiki/sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/zihandoctor/"
     },
     "Zilu": {
