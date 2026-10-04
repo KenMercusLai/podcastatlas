@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1455
+topic_total_pages: 1456
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -4251,6 +4251,9 @@ topic_sources:
   - key: "tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556"
     title: "Tools to Reduce & Manage Pain | Dr. Sean Mackey"
     url: "/wiki/sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630"
+    title: "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630/"
   - key: "understand-improve-memory-using-science-based-tools-scim9087472978"
     title: "Understand & Improve Memory Using Science-Based Tools"
     url: "/wiki/sources/understand-improve-memory-using-science-based-tools-scim9087472978/"

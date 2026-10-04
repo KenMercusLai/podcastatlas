@@ -7877,9 +7877,9 @@
       "url": "/wiki/concepts/agenticdataengineeringharness/"
     },
     "AgenticSystemOfRecordMoat": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
@@ -7887,9 +7887,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Trump-Xi Summit, Benioff： ＂Not My First SaaSpocalypse,＂ OpenAI vs Apple, Multi-Sensory AI, El Niño [41312630].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/agenticsystemofrecordmoat/"
     },
     "AgentsLastExam": {
@@ -10800,6 +10807,36 @@
       ],
       "updated": "2026-08-24",
       "url": "/wiki/entities/amazonwebservices/"
+    },
+    "AmbientAIInterface": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20251225_1225_MP_TECH_pod_128 [tech_20251225_1225_MP_TECH_pod_128].md",
+          "key": "tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The year in AI wearables",
+          "url": "/wiki/sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260202_0202_MP_TECH_pod_128 [tech_20260202_0202_MP_TECH_pod_128].md",
+          "key": "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Making the most of AI, without the hype",
+          "url": "/wiki/sources/tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Trump-Xi Summit, Benioff： ＂Not My First SaaSpocalypse,＂ OpenAI vs Apple, Multi-Sensory AI, El Niño [41312630].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/ambientaiinterface/"
     },
     "AmbientVoiceAgentInterface": {
       "episode_count": 3,
@@ -51404,9 +51441,9 @@
       "url": "/wiki/concepts/datafirstposttraining/"
     },
     "DataFoundationFirstAIStrategy": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
@@ -51414,9 +51451,16 @@
           "show": "Data Science With Sam",
           "title": "EP 46: Fix the Foundation First: Why Your Data Strategy Is Failing Before the AI Gets Involved",
           "url": "/wiki/sources/ep-46-fix-the-foundation-first-why-your-data-strategy-is-failing-before-the-ai-gets-involved/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Trump-Xi Summit, Benioff： ＂Not My First SaaSpocalypse,＂ OpenAI vs Apple, Multi-Sensory AI, El Niño [41312630].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/datafoundationfirstaistrategy/"
     },
     "DataOperationalization": {
@@ -62368,9 +62412,9 @@
       "url": "/wiki/concepts/elnino/"
     },
     "ElNinoClimateRisk": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Missing peace： will Israel imperil Iran deal？ [6a3bae9fe1238e54b0e886c3].md",
@@ -62392,9 +62436,16 @@
           "show": "硅谷101",
           "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
           "url": "/wiki/sources/e254-chaoji-eerninuo-laile-womende-richang-suoxu-zhenhui-yin-ta-zhangjia-ma-0b644f51-461c-4ddb-b707-d2a39b9a7d80/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Trump-Xi Summit, Benioff： ＂Not My First SaaSpocalypse,＂ OpenAI vs Apple, Multi-Sensory AI, El Niño [41312630].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/elninoclimaterisk/"
     },
     "ElanParadoxMachines": {
@@ -138893,6 +138944,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/markantony/"
     },
+    "MarkBenioff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Trump-Xi Summit, Benioff： ＂Not My First SaaSpocalypse,＂ OpenAI vs Apple, Multi-Sensory AI, El Niño [41312630].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/markbenioff/"
+    },
     "MarkCarney": {
       "episode_count": 2,
       "show_count": 1,
@@ -173587,6 +173654,29 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/publicillnesswriting/"
     },
+    "PublicPrivateMarketDiscipline": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside the Private Stock Market Boom： SpaceX, Anthropic, OpenAI & the Rise of Secondaries [41564170].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Trump-Xi Summit, Benioff： ＂Not My First SaaSpocalypse,＂ OpenAI vs Apple, Multi-Sensory AI, El Niño [41312630].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/publicprivatemarketdiscipline/"
+    },
     "PublicProcurementAsMarketCatalyst": {
       "episode_count": 1,
       "show_count": 1,
@@ -185808,9 +185898,9 @@
       "url": "/wiki/concepts/salesbasedproductionlocalization/"
     },
     "Salesforce": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128 [E69ADA8664814B454CA68D0D8A92C90~8584430_2026-08-10-215630-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83899e].md",
@@ -185832,9 +185922,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Trump-Xi Summit, Benioff： ＂Not My First SaaSpocalypse,＂ OpenAI vs Apple, Multi-Sensory AI, El Niño [41312630].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/salesforce/"
     },
     "SallyHemings": {

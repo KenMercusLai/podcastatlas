@@ -3741,6 +3741,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge](sources/eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767.md) — Huberman Lab interview on reciprocal sleep–nutrition effects, appetite hormones, food reward, diet quality, sleep architecture, meal timing, and metabolic evidence boundaries.
 - [《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们](sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon.md) — Side episode contrasting Han remarriage latitude with later chastity pressure and treating elite intimacy as a resource shaped by rank, patronage, and disputed court memory.
 
+- [Trump-Xi Summit, Benioff: "Not My First SaaSpocalypse," OpenAI vs Apple, Multi-Sensory AI, El Niño](sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630.md) — All-In episode with Mark Benioff on U.S.-China economic entanglement, AI-era enterprise software, ambient assistants, El Niño risk, and layered private-market SPVs.
+
 ## Entities
 - [王章之妻 / Wife of Wang Zhang (Western Han)](entities/WangZhangWifeWesternHan.md) — Unnamed spouse who warns Wang Zhang against a low-probability confrontation and is exiled with the family after his death.
 - [Marie-Pierre St-Onge](entities/MariePierreStOnge.md) — Nutrition and sleep researcher connecting sleep restriction, appetite, diet quality, meal timing, and metabolic health.
@@ -16107,6 +16109,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宋前废帝刘子业 / Liu Ziye](entities/LiuZiyeFormerDeposedEmperor.md) — Teenage Liu-Song ruler whose episode profile links imperial authority to coercive and disputed palace-intimacy narratives.
 - [薛怀义 / Xue Huaiyi](entities/XueHuaiyi.md) — Wu Zetian favorite whose source-scoped rise and fall join intimate patronage, religious power, replacement, and violent removal.
 - [张易之 / Zhang Yizhi](entities/ZhangYizhi.md) — Wu Zetian favorite presented as both beneficiary and broker of palace access in a disputed revenge sequence.
+
+- [Mark Benioff](entities/MarkBenioff.md) — Salesforce co-founder and CEO represented through grounded enterprise AI, public-market discipline, China data residency, and corporate philanthropy.
 
 ## Concepts
 - [亲情压力下的政治反转 / Kinship-Pressure Political Reversal](concepts/KinshipPressurePoliticalReversal.md) — Decision reversal in which family obligation functions as an informal veto and shifts the cost onto an exposed subordinate.

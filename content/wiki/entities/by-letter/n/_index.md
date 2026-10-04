@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 12318
+wiki_total_pages: 12319
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"

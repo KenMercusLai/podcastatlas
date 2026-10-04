@@ -29441,3 +29441,11 @@ Added source `zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | Trump-Xi Summit, Benioff: "Not My First SaaSpocalypse," OpenAI vs Apple, Multi-Sensory AI, El Niño
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630`; created [[MarkBenioff|Mark Benioff]]; and resynthesized [[Salesforce]], [[AgenticSystemOfRecordMoat]], [[DataFoundationFirstAIStrategy]], [[AmbientAIInterface]], [[PublicPrivateMarketDiscipline]], and [[ElNinoClimateRisk]] from their complete preserved evidence inventories. Core synthesis: AI can reprice software and replace interface work while strengthening the need for grounded enterprise context, semantic data, authentication, governed action, and human escalation; always-observing interfaces increase token and privacy costs, public/private valuation structures alter feedback quality, and El Niño losses remain conditional on regional exposure and adaptation. No settled contradiction was adopted. Geopolitical bargaining claims, Taiwan and chip implications, the OpenAI-Apple dispute, company figures, model spending, SPV outcomes, and severe climate forecasts remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest; downstream synthesis and publish validation were then refreshed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
