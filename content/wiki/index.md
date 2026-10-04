@@ -3711,6 +3711,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP28-纽约那些晚上不回家的人究竟在干嘛？（上）](sources/ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279.md) — 无时差研究所 guide to New York speakeasies, cocktail balance, rooftop tradeoffs, service friction, and spatially layered nightlife.
 - [The mob rule: criminality consumes South Africa](sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86.md) — The Intelligence on organized-crime penetration in South Africa, Oura's smart-ring model, and the Lucas Museum's interpretation and governance problems.
 - [投资者的敌人：我与我周旋久](sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd.md) — 面基 episode on behavioral finance, investor self-knowledge, embodied and tacit judgment, strategy fit, core-satellite allocation, and quantitative FOF.
+- [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
 
 ## Entities
 - [Cincinnatus](entities/Cincinnatus.md) — Roman republican exemplar whose remembered voluntary withdrawal made relinquishing emergency power a model of political legitimacy.
@@ -12630,11 +12631,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Redpoint](entities/Redpoint.md) — Venture firm that led Scribd's roughly $4 million Series A after the company's high-attention launch.
 - [Brian Mendoza](entities/BrianMendoza.md) — Wilson Sonsini lawyer credited in the source with helping Scribd survive early copyright exposure.
 - [Wilson Sonsini](entities/WilsonSonsini.md) — Law-firm context for Scribd's early user-generated-content copyright risk.
-- [Blake Scholl](entities/BlakeScholl.md) — Boom Supersonic founder whose Social Radars episode connects post-Barcode Hero motivation, YC hard-tech storytelling, customer proof, expert recruiting, and supersonic regulation.
-- [Boom Supersonic](entities/BoomSupersonic.md) — Commercial supersonic-aircraft company building Overture and using XB-1, customer intent, engine ownership, and boomless cruise to de-risk the market.
+- [Blake Scholl](entities/BlakeScholl.md) — Boom Supersonic founder connecting outsider learning, staged technical proof, engine manufacturing, regulatory advocacy, and an adjacent ground-power strategy.
+- [Boom Supersonic](entities/BoomSupersonic.md) — Commercial supersonic-aircraft company linking Overture, XB-1, engine ownership, boomless cruise, regulatory reform, and data-center power.
 - [Barcode Hero](entities/BarcodeHero.md) — Blake Scholl's earlier shopping startup, used as the episode's founder-learning setup before Boom.
-- [Overture Supersonic Airliner](entities/OvertureSupersonicAirliner.md) — Boom Supersonic's planned all-business-class supersonic airliner.
-- [XB-1 Supersonic Demonstrator](entities/XB1SupersonicDemonstrator.md) — Boom's demonstrator aircraft used as technical proof, team-training system, and investor credibility artifact.
+- [Overture Supersonic Airliner](entities/OvertureSupersonicAirliner.md) — Boom's planned premium airliner targeting Mach 1.7 over water, conditional boomless overland speed, and an uncertain service path around 2030.
+- [XB-1 Supersonic Demonstrator](entities/XB1SupersonicDemonstrator.md) — Boom's flown demonstrator used for organizational learning, supersonic technical proof, and regulatory advocacy.
 - [Rolls-Royce](entities/RollsRoyce.md) — Aircraft-engine company whose RB211 crisis split off the car business and whose later Boom withdrawal forms a second engine-strategy case.
 - [Richard Branson](entities/RichardBranson.md) — Virgin founder whose support helped turn Boom's early customer intent into investor-legible proof.
 - [Virgin Group](entities/VirginGroup.md) — Virgin brand and airline context behind Boom's early customer proof and credibility signal.
@@ -22972,10 +22973,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shallow Product-Market Fit](concepts/ShallowProductMarketFit.md) — Jared Friedman's distinction for products many users like a little without the deep attachment of stronger PMF cases.
 - [YC Internal Software](concepts/YCInternalSoftware.md) — Y Combinator's software-driven operating layer from Paul Graham's tools, Hacker News, Bookface, and legal docs to AI-assisted internal workflows.
 - [User-Generated Content Copyright Risk](concepts/UserGeneratedContentCopyrightRisk.md) — Legal exposure created when users upload copyrighted material faster than a platform can prevent, detect, license, or remove it.
-- [All-Business-Class Supersonic Model](concepts/AllBusinessClassSupersonicModel.md) — Boom's market thesis that a smaller premium cabin could make supersonic flight economically viable before broad mass-market service.
-- [Boomless Cruise](concepts/BoomlessCruise.md) — Supersonic operating technique described by Blake Scholl for avoiding ground-level sonic booms by keeping the boom from reaching land.
-- [Supersonic Regulatory Speed Limit](concepts/SupersonicRegulatorySpeedLimit.md) — U.S. overland speed rule that Boom treats as a candidate for reform once boomless technical proof is available.
-- [Crisis-Forced Vertical Integration](concepts/CrisisForcedVerticalIntegration.md) — Pattern where supplier withdrawal forces a hard-tech startup to own a critical subsystem it previously hoped to outsource.
+- [All-Business-Class Supersonic Model](concepts/AllBusinessClassSupersonicModel.md) — Premium first-market thesis where shorter travel partly substitutes for cabin space before later generations pursue wider access.
+- [Boomless Cruise](concepts/BoomlessCruise.md) — Conditional flight profile that uses atmospheric refraction to keep a normal-strength sonic boom from reaching the ground.
+- [Supersonic Regulatory Speed Limit](concepts/SupersonicRegulatorySpeedLimit.md) — Categorical U.S. overland speed rule challenged through technical proof, executive action, and still-incomplete legislation.
+- [Crisis-Forced Vertical Integration](concepts/CrisisForcedVerticalIntegration.md) — Pattern where supplier failure shifts subsystem design, manufacturing, validation, and execution risk onto a hard-tech startup.
+- [Ground-Power Engine Validation Flywheel](concepts/GroundPowerEngineValidationFlywheel.md) — Strategy of adapting an aviation engine core for stationary power to seek earlier revenue, manufacturing scale, and reliability data.
 - [Hard-Tech Customer Intent Proof](concepts/HardTechCustomerIntentProof.md) — Use of credible customer commitments, public support, or operational willingness as traction evidence before hard-tech revenue exists.
 - [Recursive Expert Recruiting](concepts/RecursiveExpertRecruiting.md) — Recruiting method of asking each expert for the best next experts until a founder maps a difficult technical field and builds a credible team.
 - [Women's Health Diagnostic Gap](concepts/WomensHealthDiagnosticGap.md) — Pattern where reproductive and hormone-health symptoms or clinical concern lack safe, validated, well-funded, and well-communicated diagnostic pathways.

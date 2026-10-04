@@ -29211,3 +29211,11 @@ Added source `touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvb
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238`; created [[GroundPowerEngineValidationFlywheel]]; and resynthesized [[BlakeScholl]], [[BoomSupersonic]], [[OvertureSupersonicAirliner]], [[XB1SupersonicDemonstrator]], [[AllBusinessClassSupersonicModel]], [[BoomlessCruise]], [[SupersonicRegulatorySpeedLimit]], and [[CrisisForcedVerticalIntegration]] from their complete preserved evidence inventories. Core synthesis: Boom now presents XB-1 flight proof, engine manufacturing, conditional boomless overland operation, regulatory advocacy, and data-center ground power as a connected de-risking system. Ground operation could provide earlier revenue and high-duty-cycle engine evidence, but does not replace aviation certification and could add market, emissions, manufacturing, and organizational risk. No settled contradiction was adopted; policy finality, performance, fares, water use, generator demand, production scale, passenger timing, and environmental outcomes remain founder claims or otherwise source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,651-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

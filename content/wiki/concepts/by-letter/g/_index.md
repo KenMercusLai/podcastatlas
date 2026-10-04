@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9596
+wiki_total_pages: 9597
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "GrievanceRallyPerformance"
     title: "Grievance Rally Performance"
     url: "/wiki/concepts/grievancerallyperformance/"
+  - key: "GroundPowerEngineValidationFlywheel"
+    title: "Ground-Power Engine Validation Flywheel"
+    url: "/wiki/concepts/groundpowerenginevalidationflywheel/"
   - key: "GroupPolarization"
     title: "Group Polarization / 群体极化"
     url: "/wiki/concepts/grouppolarization/"
