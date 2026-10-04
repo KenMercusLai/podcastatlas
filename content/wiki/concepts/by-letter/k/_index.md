@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 9657
+wiki_total_pages: 9658
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "KurikaraBattle"
     title: "Kurikara Battle"
     url: "/wiki/concepts/kurikarabattle/"
+  - key: "KinshipPressurePoliticalReversal"
+    title: "亲情压力下的政治反转 / Kinship-Pressure Political Reversal"
+    url: "/wiki/concepts/kinshippressurepoliticalreversal/"
   - key: "KinshipProtocolBoundary"
     title: "亲情名分边界 / Kinship Protocol Boundary"
     url: "/wiki/concepts/kinshipprotocolboundary/"

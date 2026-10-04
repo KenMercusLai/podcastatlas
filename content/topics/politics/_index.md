@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3069
+topic_total_pages: 3070
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4387,6 +4387,9 @@ topic_concepts:
   - key: "CapitalExemplarGovernance"
     title: "京师示范治理 / Capital Exemplar Governance"
     url: "/wiki/concepts/capitalexemplargovernance/"
+  - key: "KinshipPressurePoliticalReversal"
+    title: "亲情压力下的政治反转 / Kinship-Pressure Political Reversal"
+    url: "/wiki/concepts/kinshippressurepoliticalreversal/"
   - key: "KinshipProtocolBoundary"
     title: "亲情名分边界 / Kinship Protocol Boundary"
     url: "/wiki/concepts/kinshipprotocolboundary/"

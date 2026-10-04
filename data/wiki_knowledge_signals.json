@@ -120176,6 +120176,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/kinshippoliticalcutting/"
     },
+    "KinshipPressurePoliticalReversal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子 [lt5hZlh9t-GrYds1lPn0IeqW3CVn].md",
+          "key": "zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/kinshippressurepoliticalreversal/"
+    },
     "KinshipProtocolBoundary": {
       "episode_count": 3,
       "show_count": 1,
@@ -219802,9 +219818,9 @@
       "url": "/wiki/entities/wangfengmarquiswesternhan/"
     },
     "WangFengWesternHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？ [lu9NgWdMqsETZSuvCe0Ccx4I7Z3-].md",
@@ -219861,9 +219877,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》506丨汉皇帝为何衷情已婚妇女？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-506-hanhuangdi-weihe-zhongqing-yihun-funv-lqlj6msoz2nk_bodf8b5ljv1ny8q/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子 [lt5hZlh9t-GrYds1lPn0IeqW3CVn].md",
+          "key": "zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/wangfengwesternhan/"
     },
     "WangFuDongChengPlot": {
@@ -221776,9 +221799,9 @@
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
     },
     "WangZhangWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？ [lk52Zm46585z2noqXmtfn9kpwEK2].md",
@@ -221793,10 +221816,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》520丨打击对手为什么要先发起舆论战？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-520-daji-duishou-weishenme-yao-xian-faqi-yulunzhan-lh1ibhc9xsihtrh6mhzznqq9ioso/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子 [lt5hZlh9t-GrYds1lPn0IeqW3CVn].md",
+          "key": "zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/wangzhangwesternhan/"
+    },
+    "WangZhangWifeWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子 [lt5hZlh9t-GrYds1lPn0IeqW3CVn].md",
+          "key": "zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/wangzhangwifewesternhan/"
     },
     "WangZhaojun": {
       "episode_count": 4,
@@ -222653,9 +222699,9 @@
       "url": "/wiki/entities/waylonwong/"
     },
     "WeakAuthorityLeadership": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！ [lgK8qoXvS5Ax8oIKGeCrxQviSpNa].md",
@@ -222670,6 +222716,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子 [lt5hZlh9t-GrYds1lPn0IeqW3CVn].md",
+          "key": "zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn/"
         }
       ],
       "updated": "2026-10-04",

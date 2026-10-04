@@ -12,7 +12,8 @@ sources:
   - zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5
   - zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut
   - zizhi-tongjian-hanji-506-hanhuangdi-weihe-zhongqing-yihun-funv-lqlj6msoz2nk_bodf8b5ljv1ny8q
-last_updated: 2026-09-12
+  - zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn
+last_updated: 2026-10-04
 ---
 
 ## Overview
@@ -21,7 +22,9 @@ last_updated: 2026-09-12
 
 ## Current Profile
 
-The sources present Wang Feng through connected risks of concentrated outer-relative power. Hanji 503 now shows the starting configuration: Chengdi rewards Wang-family maternal uncles soon after accession, critics invoke non-meritorious enfeoffment under a yellow-fog omen, and Wang Feng's resignation request is answered with imperial reassurance rather than restraint. Hanji 506 makes the factional protection mechanism explicit before the later Heping harem-austerity branch: a policy and propriety controversy around Wang Feng's palace presentation is answered not by defending the act directly, but by making male heirs, harem access, and Heaven's warning the higher frame. Hanji 509 then shows the later pressure field before open conflict: Chengdi's maternal Wang relatives gain title and office, Wang Feng holds Da Sima and leads the secretariat channel, and disaster/no-heir explanation can be routed toward Xu-family and harem responsibility. Hanji 514 shows that this danger is already legible before the later Wang Zhang and deathbed succession branches: Liu Xiang can use disaster records and classical collation to warn Chengdi, but the warning remains indirect. Hanji 520 then shows Wang Feng able to shape the court environment after Wang Zhang's death. Officials become compliant, Wang-family influence reaches central and local posts, and Wang Feng can hint through the censorial channel that Feng Yewang should be impeached. Du Qing's failed first advice makes Wang Feng's power procedural as well as personal: he can turn a questionable technical rule into removal.
+The sources present Wang Feng through connected risks of concentrated outer-relative power. Hanji 503 shows the starting configuration: Chengdi rewards Wang-family maternal uncles soon after accession, critics invoke non-meritorious enfeoffment under a yellow-fog omen, and Wang Feng's resignation request is answered with imperial reassurance rather than restraint. Hanji 506 makes the factional protection mechanism explicit: a propriety controversy around Wang Feng's palace presentation is answered by making male heirs, harem access, and Heaven's warning the higher frame. Hanji 509 shows the later pressure field, while Hanji 514 makes the danger legible through Liu Xiang's indirect disaster-record warning.
+
+Hanji 519 now shows why direct correction fails. Wang Zhang moves Chengdi from diagnosis to a replacement plan, but Wang Feng's resignation offer activates maternal and dynastic obligation through Wang Zhengjun. The result is not Wang Feng's departure but Wang Zhang's prosecution. Hanji 520 then shows Wang Feng able to shape the court environment after Wang Zhang's death: officials become compliant, Wang-family influence reaches central and local posts, and Wang Feng can hint through the censorial channel that Feng Yewang should be impeached. Du Qing's failed first advice makes Wang Feng's power procedural as well as personal.
 
 Hanji 505 gives a less coercive but revealing crisis case. Wang Feng reacts to the flood rumor as if the worst report is already true, and his authority pulls other officials toward agreement. The episode's political point is that overreaction by a top powerholder can validate public fear; when Wang Shang's objection proves correct, Wang Feng's judgment rather than his formal power becomes the exposed weakness.
 
@@ -33,8 +36,8 @@ Hanji 544 shows the later remembered warning layer. [[WangZhangWesternHan|王章
 
 - Western Han outer-relative powerholder in Chengdi's court whose rise begins with first-year Wang-family enfeoffments, survives early omen-coded criticism, and benefits when no-heir and disaster anxiety are redirected toward harem responsibility.
 - Powerholder whose influence reaches both central and local appointment channels and can move through censorial impeachment.
-- Dying patron whose recommendation helps determine the next Da Sima.
-- Uses succession choice to prefer Wang Yin over Wang Tan and other Wang-family candidates.
+- Survives Chengdi's private replacement plan by offering resignation and benefiting from Wang Zhengjun's intervention.
+- Dying patron whose recommendation makes Wang Yin rather than Wang Tan or another Wang-family candidate the next Da Sima.
 - Target of Wang Zhang's criticism.
 - Associated in the source with Wang Zhang's death and the resulting silence.
 - Serves as the immediate Wang-family example behind Mei Fu's broader outer-relative warning.
@@ -53,6 +56,8 @@ Power field:
 - [[zizhi-tongjian-hanji-520-daji-duishou-weishenme-yao-xian-faqi-yulunzhan-lh1ibhc9xsihtrh6mhzznqq9ioso|Hanji 520]] says officials become more compliant toward Wang Feng after Wang Zhang's death.
 
 Procedural pressure:
+- [[zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn|Hanji 519]] says Wang Feng learns of Chengdi and Wang Zhang's plan, offers to resign, and remains in power after Wang Zhengjun pressures Chengdi.
+- [[zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn|Hanji 519]] says Chengdi then orders Wang Zhang's impeachment and Wang Zhang dies in prison.
 - [[zizhi-tongjian-hanji-520-daji-duishou-weishenme-yao-xian-faqi-yulunzhan-lh1ibhc9xsihtrh6mhzznqq9ioso|Hanji 520]] says Wang Feng hints to the Yushi Zhongcheng to impeach Feng Yewang for crossing commandery boundaries with a tiger tally.
 - [[zizhi-tongjian-hanji-520-daji-duishou-weishenme-yao-xian-faqi-yulunzhan-lh1ibhc9xsihtrh6mhzznqq9ioso|Hanji 520]] says Wang Feng ignores Du Qing's first warning and Feng Yewang is removed.
 
@@ -70,14 +75,13 @@ Crisis judgment:
 
 ## Qualifications
 
-This page is bounded to Hanji 503, Hanji 509, Hanji 544, Hanji 523, Hanji 520, Hanji 514, Hanji 505, and Hanji 506. It does not yet synthesize Wang Feng's full regency, family position, office history, policy role, or relationship to other Wang-family actors such as [[WangGenWesternHan|王根]] and [[WangMang|王莽]]. Hanji 503 shows the first-year criticism and resignation scene but does not settle Wang Feng's inner motive for asking to retire. Hanji 506 shows a host reading in which Gu Yong's answer helps Wang Feng; it does not independently prove Gu Yong's private intent or name the woman sent into the palace. Hanji 509 shows a host reading in which Gu Yong and Liu Xiang stand with Wang Feng's side; it does not independently prove their inner factional motives. Hanji 505 shows a crisis-judgment contrast with Wang Shang, not a full account of Wang Feng's later conflict with him; Hanji 514's omen warning shows how his power is diagnosed but not yet corrected; Hanji 520's Feng Yewang branch shows a procedural impeachment path but does not settle Wang Feng's full motive or every legal detail. Hanji 523's account of motive is an interpretive reading of the deathbed recommendation rather than direct proof of Wang Feng's internal intention.
+This page is bounded to Hanji 503, Hanji 509, Hanji 544, Hanji 523, Hanji 520, Hanji 514, Hanji 505, Hanji 506, and Hanji 519. It does not yet synthesize Wang Feng's full regency, family position, office history, or policy role. Hanji 503 and Hanji 519 both include resignation scenes, but neither independently settles Wang Feng's inner motive; Hanji 519's “advance through retreat” reading is the host's interpretation. Hanji 506 and Hanji 509 likewise preserve host readings about factional protection rather than proven private intent. Hanji 505 shows a crisis-judgment contrast, Hanji 514 diagnoses but does not correct Wang-family power, Hanji 520 leaves motive and legal details open, and Hanji 523's deathbed motive remains interpretive.
 
 ## What Changed
 
-- Added Hanji 506's Jianshi 4 protection layer: Gu Yong's harem-fertility omen answer defends Wang Feng after a married-woman palace controversy.
-- Preserved Hanji 503's Jianshi 1 origin layer: Wang-family maternal uncles are rewarded, yellow-fog criticism names non-meritorious enfeoffment, and Wang Feng's resignation request is refused.
-- Preserved Hanji 509's Heping 1 pressure layer: Wang-family rise, Wang Feng's high office, and harem-disaster blame make the Xu side politically vulnerable.
-- Preserved Hanji 514 and Hanji 505 as warning and crisis-judgment layers: Liu Xiang's omen compilation diagnoses Wang-family power, while Wang Feng's flood-rumor proposal is exposed by Wang Shang's calmer judgment.
+- Added Hanji 519's direct confrontation: Chengdi plans replacement, Wang Feng offers resignation, Wang Zhengjun intervenes, and Wang Zhang is prosecuted.
+- Connected that survival mechanism to Hanji 520's immediate coercive and reputational aftermath.
+- Preserved the earlier rise, omen-protection, crisis-judgment, and warning layers with their qualifications.
 
 ## Relationships
 
@@ -97,5 +101,6 @@ This page is bounded to Hanji 503, Hanji 509, Hanji 544, Hanji 523, Hanji 520, H
 - [[OuterRelativeCourtPower|外戚专权与清算]] - downstream court-power field Wang Feng foreshadows.
 - [[PatronSuccessionExposure|庇主退场暴露]] - related pattern because Wang Feng's illness exposes the succession and safety problem around a dominant patron.
 - [[LegitimacyNarrativeAttack|名分合法性叙事攻击]] - related pattern because Wang Feng's technical impeachment field needs public and procedural justification.
+- [[KinshipPressurePoliticalReversal|亲情压力下的政治反转]] - survival mechanism through which family pressure defeats Chengdi's replacement plan.
 - [[WangGenWesternHan|王根]] - later Wang-family powerholder in the same late-Chengdi sequence.
 - [[CrisisRumorDeamplification|危机谣言降幅治理]] - contrast concept because Wang Feng's proposal risks amplifying public panic.

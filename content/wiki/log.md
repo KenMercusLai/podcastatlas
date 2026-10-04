@@ -29433,3 +29433,11 @@ Added source `zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子
+
+Added source `zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn`; created [[WangZhangWifeWesternHan|王章之妻]] and [[KinshipPressurePoliticalReversal|亲情压力下的政治反转]]; and resynthesized [[WangZhangWesternHan|王章]], [[WangFengWesternHan|王凤]], and [[WeakAuthorityLeadership|弱势领导威信]] from their complete preserved evidence inventories. Core synthesis: Chengdi privately accepts Wang Zhang's plan to replace Wang Feng but cannot sustain it after the plot leaks and Wang Zhengjun applies family pressure, shifting the cost of reversal onto Wang Zhang and his household. No settled contradiction was adopted; Wang Feng's private motive, Wang Yin's eavesdropping details, the exact indictment, and the full legal record remain source-scoped.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
