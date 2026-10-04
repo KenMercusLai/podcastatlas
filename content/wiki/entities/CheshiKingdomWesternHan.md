@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav
   - zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k
   - zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf
+  - zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif
 last_updated: 2026-09-15
 ---
 
@@ -16,7 +17,9 @@ last_updated: 2026-09-15
 
 ## Current Profile
 
-The evidence now has an earlier military probe before the later Xuan-era control experiments. Hanji 379-2 says that after Wudi enfeoffs the surrendered Xiongnu figure Jiehe / Chengmin as Kailing marquis, he orders that figure to lead Loulan troops against Cheshi. Xiongnu sends the Right Worthy King with tens of thousands of cavalry to rescue Cheshi, and the Han-aligned side retreats. This notice does not yet explain Cheshi's internal politics, but it already places the polity inside Han-Xiongnu-Loulan proxy pressure.
+The evidence now begins with a source-scoped 108 BCE Han victory. Hanji 365-1 says [[ZhaoPonuWesternHan|赵破奴]] defeats Cheshi after capturing the Loulan king, and that Han then extends defenses from Jiuquan toward Yumen. It does not explain Cheshi's internal politics or settlement after the victory, so the notice establishes an early campaign layer without proving durable control.
+
+Hanji 379-2 supplies a later military probe before the Xuan-era control experiments. After Wudi enfeoffs the surrendered Xiongnu figure Jiehe / Chengmin as Kailing marquis, he orders that figure to lead Loulan troops against Cheshi. Xiongnu sends the Right Worthy King with tens of thousands of cavalry to rescue Cheshi, and the Han-aligned side retreats. This notice already places the polity inside Han-Xiongnu-Loulan proxy pressure.
 
 Hanji 422-1 says Cheshi later moves inside Han-Xiongnu rivalry after the Han Zhaodi period. Xiongnu draws the Cheshi crown prince into its orbit, Wugui becomes king, marries into Xiongnu, and proposes cutting the road between Han and Wusun. Zheng Ji and Sima Xi answer from the [[QuliWesternRegions|渠犁]]屯田 base with pardoned convicts, stored grain, and allied Western Regions troops. Cheshi is defeated and Wugui surrenders, but the settlement is fragile: Wugui fears Xiongnu retaliation and flees to Wusun, Han sends his wife and children to Chang'an as hostages, Xiongnu installs Dumo, and Han leaves only a few hundred officials and soldiers to屯田 and govern.
 
@@ -26,7 +29,7 @@ Cheshi's importance is geographical and logistical. It is far from Quli, and Zhe
 
 ## Key Characteristics
 
-- Western Regions polity already contested through Han-aligned Loulan pressure and Xiongnu rescue before the later Xuan-era crises.
+- Western Regions polity attacked successfully by Zhao Ponu in the episode's 108 BCE layer, then contested through Han-aligned Loulan pressure and Xiongnu rescue before the later Xuan-era crises.
 - Western Regions polity contested by Han and Xiongnu in 64 BCE.
 - Fertile frontier land whose屯田 and grain-storage potential makes it strategically sensitive.
 - Earlier route-security problem because Wugui's Xiongnu alignment threatens Han-Wusun communications.
@@ -35,6 +38,9 @@ Cheshi's importance is geographical and logistical. It is far from Quli, and Zhe
 - Settlement object in which Han preserves personnel and political arrangement while yielding the old land to Xiongnu.
 
 ## Evidence
+
+Earliest current victory notice:
+- [[zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif|Hanji 365-1]] says Zhao Ponu defeats Cheshi after capturing the Loulan king and before Han strengthens the Jiuquan-Yumen corridor.
 
 Early proxy attack:
 - [[zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf|Hanji 379-2]] says Han Wudi orders Jiehe / Chengmin to lead Loulan troops against Cheshi after enfeoffing him as Kailing marquis.
@@ -56,12 +62,12 @@ Settlement outcome:
 
 ## Qualifications
 
-This page is source-scoped to Hanji 379-2, Hanji 422-1, and Hanji 429 Cheshi layers. It does not reconstruct Cheshi's full geography, earlier and later state divisions, exact relation to later Cheshi front/rear kingdom terminology, Jiehe/Chengmin's full identity, the Loulan force's composition, Wugui's full biography, Dumo's later status, Sima Xi's career, or the complete Han-Xiongnu struggle over the Turpan basin.
+This page is source-scoped to four episode layers. It does not reconstruct Cheshi's full geography, the settlement or duration of Zhao Ponu's 108 BCE victory, earlier and later state divisions, exact relation to later Cheshi front/rear kingdom terminology, Jiehe/Chengmin's full identity, the Loulan force's composition, Wugui's full biography, Dumo's later status, Sima Xi's career, or the complete Han-Xiongnu struggle over the Turpan basin.
 
 ## What Changed
 
-- Added Hanji 379-2's earlier failed Han-aligned Loulan attack and Xiongnu rescue layer.
-- Added Hanji 422-1 as the earlier Wugui, Han-Wusun route, hostage, Xiongnu replacement, and屯田-governance layer before Hanji 429's later crisis.
+- Added Zhao Ponu's source-scoped 108 BCE victory as the earliest current Cheshi notice.
+- Distinguished a campaign success from durable occupation because the episode gives no settlement details.
 
 ## Relationships
 
@@ -69,6 +75,7 @@ This page is source-scoped to Hanji 379-2, Hanji 422-1, and Hanji 429 Cheshi lay
 - [[WeiXiangWesternHan]] - chancellor whose remonstrance limits Han's military response to the Cheshi crisis.
 - [[Xiongnu]] - rival power that treats Han屯田 in Cheshi as a future threat.
 - [[LoulanKingdomWesternHan|Loulan]] - Han-aligned Western Regions force used in Hanji 379-2's failed attack on Cheshi.
+- [[ZhaoPonuWesternHan|赵破奴]] - commander credited with the earliest current Han victory over Cheshi.
 - [[Wusun]] - refuge for Wugui and route partner whose connection with Han makes Cheshi strategically sensitive.
 - [[QuliWesternRegions]] - Han屯田 base from which Zheng Ji attempts the rescue and to which Cheshi's people are moved.
 - [[WesternRegionsProtectorate]] - later institutional field connected to Han's Western Regions control.

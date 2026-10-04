@@ -36960,9 +36960,9 @@
       "url": "/wiki/entities/cheshihoukingdomxin/"
     },
     "CheshiKingdomWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？ [lokhA4DMRiK4EZ4vtPunB9RWHZAV].md",
@@ -36984,6 +36984,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目 [lpMbD0xUtrAVgHVymSw2tSQ8ooIf].md",
+          "key": "zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif/"
         }
       ],
       "updated": "2026-09-15",
@@ -93948,6 +93955,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/concepts/hancourtperformancediplomacy/"
     },
+    "HanCourtSpectacleCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目 [lpMbD0xUtrAVgHVymSw2tSQ8ooIf].md",
+          "key": "zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/hancourtspectacleculture/"
+    },
     "HanFanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -94280,9 +94303,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 27,
+      "episode_count": 28,
       "show_count": 2,
-      "source_note_count": 27,
+      "source_note_count": 28,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -94472,6 +94495,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密",
           "url": "/wiki/sources/zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目 [lpMbD0xUtrAVgHVymSw2tSQ8ooIf].md",
+          "key": "zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif/"
         }
       ],
       "updated": "2026-10-05",
@@ -134765,9 +134795,9 @@
       "url": "/wiki/entities/loulankinganguiwesternhan/"
     },
     "LoulanKingdomWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！ [lum-xOLRqlwJgmv5XSCSsenogYx-].md",
@@ -134789,6 +134819,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位",
           "url": "/wiki/sources/zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目 [lpMbD0xUtrAVgHVymSw2tSQ8ooIf].md",
+          "key": "zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif/"
         }
       ],
       "updated": "2026-09-14",
@@ -232047,6 +232084,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/xiaoxianwesternhan/"
     },
+    "XiaoYanLiangWudi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目 [lpMbD0xUtrAVgHVymSw2tSQ8ooIf].md",
+          "key": "zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/xiaoyanliangwudi/"
+    },
     "XiaoYuPhysicsTeacher": {
       "episode_count": 1,
       "show_count": 1,
@@ -241438,9 +241491,9 @@
       "url": "/wiki/entities/zhaopingjunwesternhan/"
     },
     "ZhaoPonuWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴 [lszMNylwk8zxPjhElkd1GD6JSfsd].md",
@@ -241462,6 +241515,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目 [lpMbD0xUtrAVgHVymSw2tSQ8ooIf].md",
+          "key": "zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif/"
         }
       ],
       "updated": "2026-10-05",

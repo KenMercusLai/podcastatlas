@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd
   - zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh
   - zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi
+  - zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif
 last_updated: 2026-10-05
 ---
 
@@ -17,6 +18,8 @@ last_updated: 2026-10-05
 ## Current Profile
 
 The source gives Zhao Ponu a cross-frontier background rather than a simple court-to-army career. It says he wandered among Xiongnu when young, later returned to Han, and rose in the victorious era associated with [[HuoQubing|霍去病]]. His knowledge of both sides and his military status help explain why Xiongnu keeps him alive after capture rather than killing him in the episode's interpretation.
+
+Hanji 365-1 backfills an earlier 108 BCE success. It says Zhao first captures the [[LoulanKingdomWesternHan|Loulan]] king and then defeats [[CheshiKingdomWesternHan|Cheshi]], after which Han establishes defenses from Jiuquan toward Yumen and rewards Zhao Ponu and Wang Hui. This strengthens the achievement side of the profile before the later mission failure, but exact sequencing, titles, and reward details remain episode-attributed.
 
 His career combines achievement and command failure. Hanji 376-2 credits him with earlier merit and a seven-hundred-cavalry victory over Loulan, but says that in 103 BCE he leaves a force of twenty thousand cavalry at night to seek water, is detected and captured, and later escapes with his son Zhao Anguo. Return therefore follows battlefield error and captivity rather than erasing them.
 
@@ -30,7 +33,7 @@ The final branch remains deliberately unresolved. The terse record says Zhao Pon
 
 - Cross-frontier figure who is said to have wandered in Xiongnu territory before returning to Han service.
 - General whose rise and early merit are located in Huo Qubing's victorious military era.
-- Western Regions commander credited by the episode with defeating Loulan using seven hundred cavalry.
+- Western Regions commander credited across the episodes with capturing the Loulan king, defeating Loulan with a small cavalry force, and then defeating Cheshi.
 - Commander in a failed 103 BCE reception mission whose internal ally is killed after intelligence compromise and whose encircled army loses him when he leaves camp alone at night.
 - Captive who later escapes with his son and returns to Han.
 - Defeat whose immediate court consequence is an unsuccessful proposal to abandon the Dayuan campaign and prioritize Xiongnu.
@@ -42,6 +45,7 @@ Early background and rise:
 - [[zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd|Hanji 376-2]] says Zhao Ponu wandered in Xiongnu territory when young, returned to Han, and accumulated merit during Huo Qubing's era.
 
 Achievement and defeat:
+- [[zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif|Hanji 365-1]] says Zhao Ponu captures the Loulan king, defeats Cheshi, and is rewarded after Han strengthens the Jiuquan-Yumen corridor.
 - [[zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd|Hanji 376-2]] credits him with a seven-hundred-cavalry Loulan victory and contrasts it with the 103 BCE expedition in which he is captured after leaving his army at night.
 - [[zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi|Hanji 373-2]] says the defection plot is exposed before Zhao arrives, his force is surrounded on the return, and his solitary water search ends in capture.
 - [[zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi|Hanji 373-2]] says fear of punishment after losing the commander helps prevent organized return and contributes to the capture of the whole army.
@@ -57,14 +61,13 @@ Unresolved end:
 
 ## Qualifications
 
-This profile is bounded to three short podcast sources rather than a full primary-source biography. The 103 BCE date, troop numbers, distances, office titles, night search for water, capture mechanics, Loulan force size, sequence of return to Han, motives for Xiongnu leniency, and exact court response remain source-scoped. Hanji 376-2 compresses the campaign as directed against the Left Wise King, while Hanji 373-2 centers a failed reception of a defecting Left Grand Commandant and subsequent attack by Xiongnu left-wing forces; this page does not silently equate those offices. The proposed Liu Ju alignment is explicitly speculative and is not adopted as fact; association with Huo Qubing does not independently establish Zhao Ponu's Wugu position.
+This profile is bounded to four short podcast sources rather than a full primary-source biography. The 108 and 103 BCE dates, troop numbers, distances, office titles, night search for water, capture mechanics, Loulan and Cheshi sequences, force size, rewards, return to Han, motives for Xiongnu leniency, and exact court response remain source-scoped. Hanji 376-2 compresses the later campaign as directed against the Left Wise King, while Hanji 373-2 centers a failed reception of a defecting Left Grand Commandant and subsequent attack by Xiongnu left-wing forces; this page does not silently equate those offices. The proposed Liu Ju alignment is explicitly speculative and is not adopted as fact; association with Huo Qubing does not independently establish Zhao Ponu's Wugu position.
 
 ## What Changed
 
-- Added the failed-defection mission, intelligence compromise, encirclement, and punishment-fear sequence behind Zhao Ponu's capture.
-- Reframed the defeat as command-system collapse without removing Zhao's personal responsibility for leaving camp alone.
-- Added the capture's immediate policy consequence: ministers invoke Zhao Ponu's loss in the failed effort to redirect resources from Dayuan to Xiongnu.
-- Preserved the distinction between Zhao Ponu's career arc and the host's speculative explanation of his Wugu implication.
+- Backfilled the 108 BCE Loulan capture and Cheshi victory before Zhao Ponu's later defeat.
+- Connected that success to the first defensive extension from Jiuquan toward Yumen in the episode's account.
+- Preserved the later command failure and unresolved Wugu end, preventing a victory-only profile.
 
 ## Relationships
 
@@ -72,5 +75,7 @@ This profile is bounded to three short podcast sources rather than a full primar
 - [[HanWudi|汉武帝]] - ruler whose expansion and late political catastrophe frame Zhao Ponu's career.
 - [[Xiongnu|匈奴]] - cross-frontier society of Zhao Ponu's youth and the power that later captures him.
 - [[DayuanWesternHan|大宛]] - competing campaign priority ministers propose abandoning after Zhao Ponu's capture.
+- [[LoulanKingdomWesternHan|楼兰]] - Western Regions polity whose king Zhao is credited with capturing in the new early-success layer.
+- [[CheshiKingdomWesternHan|车师]] - polity Zhao is credited with defeating after the Loulan operation.
 - [[WuguIncidentWesternHan|巫蛊之祸]] - final crisis that destroys his household without preserving a clear explanation of his role.
 - [[SuWuWesternHan|苏武]] - parallel captive-return figure in the same episode, though one is an envoy under coercion and the other a defeated commander.

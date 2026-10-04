@@ -29841,6 +29841,14 @@ Added source `zizhi-tongjian-hanji-366-3-cixiongtongti-shi-yige-nvren-de-dingji-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-05] ingest | 《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目
+
+Added source `zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif`; added [[XiaoYanLiangWudi|梁武帝萧衍]] and [[HanCourtSpectacleCulture|汉廷奇观娱乐]]; and extended [[HanWudi|汉武帝]], [[ZhaoPonuWesternHan|赵破奴]], [[LoulanKingdomWesternHan|楼兰]], and [[CheshiKingdomWesternHan|车师]] with the source-scoped 108 BCE campaign and spectacle layer. The source's fasting, autophagy, sexual-restraint, Buddhist-merit, audience-size, and performance-reconstruction claims remain episode-attributed rather than established medical or specialist findings. No settled contradiction was adopted: the early Zhao Ponu victory backfills rather than reverses his later command collapse. The automatic `wiki/overview.md` was read for context and not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,731 sources and 789 overview paragraphs. Changed-page links, index coverage, identities, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
