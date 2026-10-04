@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》360-1｜司马迁“太史公”称号竟由此而来？](sources/zizhi-tongjian-hanji-360-1-simaqian-taishigong-chenghao-jing-you-ci-er-lai-lq6ulwhl_jscf6ipkjxev6zvwbrf.md) — 从太史的史学—天文职能解释“太史公”，并把司马迁对黄帝的历史化、儒家化叙事放入汉代帝王合法性问题，同时保留官职类比和作者意图的证据边界。
 - [《资治通鉴·汉纪》359-1｜“愿得一心人，白头不相离”竟是写给渣男的？](sources/zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq.md) — 延续司马相如与卓文君的贫困、当垆卖酒、父亲让步和婚姻危机叙事，并把《白头吟》的忠贞边界与“以退为进”解读保留为来源限定的文学接受。
 - [《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇](sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz.md) — 杨得意把司马相如的辞赋才华带入汉武帝视野，王吉再以公开造势促成卓王孙设宴；《凤求凰》、私奔与后续背叛则保留为带有操纵张力的来源限定叙事。
 - [《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事](sources/zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje.md) — 汉武帝把异声、足迹与消失老人等含混神异报告转化为祭祀奉邑、蓬莱海搜和增派人员，并以封坛秘文及霍子侯独陪登山完成泰山秘密祭天。
@@ -3810,6 +3811,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？](sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_.md) — 卜式借旱灾批评桑弘羊使官吏入市逐利，并串联异星祥瑞、齐王刘弘早逝与读史的现实意义。
 
 ## Entities
+- [郭吉 / Guo Ji (Western Han envoy)](entities/GuoJiWesternHanEnvoy.md) — 汉武帝北巡时向匈奴单于传达战或降最后通牒、随后被扣押迁往北海方向的西汉使者。
+- [桥山 / Qiaoshan](entities/Qiaoshan.md) — 节目所述黄帝冢与汉武帝祭祀地点，把帝国巡行、祖先记忆和合法性叙事连接起来。
 - [《白头吟》 / Bai Tou Yin](entities/BaiTouYin.md) — 被节目置于司马相如纳妾传说中的忠贞回应诗，其名句、作者、文本流传和婚姻效果按证据边界分层保留。
 - [卓文君 / Zhuo Wenjun](entities/ZhuoWenjun.md) — “琴挑文君”、私奔、当垆卖酒与《白头吟》传统的核心行动者，其选择、劳动、作品归属和内心动机按来源证据分层保留。
 - [杨得意 / Yang Deyi (Western Han)](entities/YangDeyiWesternHan.md) — 以狗监近侍身份把司马相如的文学才华转化为汉武帝召见机会的西汉宫廷引荐者。
@@ -9140,7 +9143,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沧海君 / Canghai Jun](entities/CanghaiJun.md) — Uncertain eastern contact through whom Zhang Liang finds the strongman used in the Bolangsha attack.
 - [湘君 / Xiangjun](entities/XiangJun.md) — Chu-linked local deity whose perceived obstruction of Qin Shi Huang at Xiangshan turns weather into sacred-political conflict.
 - [湘山祠 / Xiangshan Shrine](entities/XiangshanShrine.md) — Sacred site where Qin Shi Huang's blocked crossing leads to punitive felling of trees on Xiangshan.
-- [黄帝 / Huangdi](entities/Huangdi.md) — Mythic ruler invoked source-scopingly as a possible route model for Qin Shi Huang's repeated post-unification tours.
+- [黄帝 / Huangdi](entities/Huangdi.md) — 神话文化祖先，既被来源视为秦始皇巡游的可能路线先例，也被解释为司马迁历史化、儒家化并用于汉代帝王合法性讨论的人间明君。
 - [琅琊山 / Langya Mountain](entities/LangyaMountain.md) — Sea-facing eastern-tour site where Qin Shi Huang stays, relocates households, and erects the Langya inscription.
 - [齐地八神 / Qi Eight Spirits](entities/QiEightSpirits.md) — Former Qi local deities whose worship lets Qin Shi Huang claim the conquered eastern sacred landscape.
 - [蓬莱 / Penglai](entities/Penglai.md) — Verification-resistant immortal destination that converts Qin and Western Han court desire into ships, supplies, personnel, and repeated maritime search.
@@ -11352,7 +11355,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [樊哙 / Fan Kuai](entities/FanKuai.md) — 刘邦旧从、姻亲、将领与强谏者，其闯帐进言反复打破被宫廷近侍阻隔的君臣通道。
 - [纪信 / Ji Xin](entities/JiXin.md) — Liu Bang-side trusted attendant who later impersonates Liu Bang at Xingyang, dies under Xiang Yu, and becomes tied to Zhengzhou city-god memory.
 - [金强 / Jin Qiang](entities/JinQiang.md) — Liu Bang-side trusted attendant preserved under the source's 金强 transcript form in the Hongmen escort.
-- [司马迁 / Sima Qian](entities/SimaQian.md) — Historian used as both Hongmen narrative source and model for experience-cultivated prose force.
+- [司马迁 / Sima Qian](entities/SimaQian.md) — 《史记》作者、太史官与旅行取材者，其叙事判断、黄帝历史化、李陵辩护、宫刑创伤和继续著述均按来源边界综合。
 - [《教一只猞猁忘记动物园》](entities/JiaoYiZhiSheliWangjiDongwuyuan.md) — 袁掌 nonfiction book using 天线宝宝's rescue, rehabilitation, release, and monitoring to explain wildlife care and public conservation.
 - [袁掌 / Yuan Zhang](entities/YuanZhang.md) — Wildlife-care worker, conservation communicator, and author discussing lynx rescue, release, and story-based public science.
 - [Xining Wildlife Park / 西宁野生动物园](entities/XiningWildlifePark.md) — Zoo and wildlife-rescue institution in the 天线宝宝 case, linking care labor, release preparation, and public attention.
@@ -16264,6 +16267,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [齐王刘弘 / Liu Hong, Qi King (Western Han)](entities/LiuHongQiKingWesternHan.md) — 汉武帝受宠次子，获封富庶齐地，却少年早逝无子而使封国撤销。
 
 ## Concepts
+- [Taishi Historical-Astronomical Office / 太史的史学—天文职能](concepts/TaishiHistoricalAstronomicalOffice.md) — 太史兼具国家记录、历史整理与天文知识的来源限定职能模型，并区分文化声望、正式品级和现代官职类比。
+- [Mythic Ancestor Historical Legitimation / 神话祖先的历史化正统建构](concepts/MythicAncestorHistoricalLegitimation.md) — 通过材料选择与叙事重塑把神话祖先转化为人间明君，使祖先谱系为王朝合法性与统治规范提供历史语言。
 - [平准法 / Pingzhun Law (Western Han)](concepts/PingzhunLawWesternHan.md) — 西汉以公共库存、跨区转输和低买高卖调节物价、物资与财政收益的国家市场机制。
 - [Bronze Inscription Posterity / 金文的后世书写](concepts/BronzeInscriptionPosterity.md) — Durable ritual inscription that explicitly addresses descendants through lineage, awards, events, transactions, and perpetual-use formulas.
 - [Classical Interpretation as Civilizational Continuity / 经学解释与文明延续](concepts/ChineseClassicalInterpretationContinuity.md) — Repeated reinterpretation of shared canonical texts that sustains cultural continuity while permitting methodological change, disagreement, and gatekeeping.

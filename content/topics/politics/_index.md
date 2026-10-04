@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3098
+topic_total_pages: 3099
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8045,6 +8045,9 @@ topic_entities:
   - key: "GuoJiWesternHan"
     title: "郭吉 / Guo Ji (Western Han envoy)"
     url: "/wiki/entities/guojiwesternhan/"
+  - key: "GuoJiWesternHanEnvoy"
+    title: "郭吉 / Guo Ji (Western Han envoy)"
+    url: "/wiki/entities/guojiwesternhanenvoy/"
   - key: "GuoMoruo"
     title: "郭沫若"
     url: "/wiki/entities/guomoruo/"

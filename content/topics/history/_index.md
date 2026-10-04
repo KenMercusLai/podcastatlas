@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2559
+topic_total_pages: 2562
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -952,6 +952,9 @@ topic_concepts:
   - key: "MultiEvidenceDisasterReconstruction"
     title: "Multi-Evidence Disaster Reconstruction"
     url: "/wiki/concepts/multievidencedisasterreconstruction/"
+  - key: "MythicAncestorHistoricalLegitimation"
+    title: "Mythic Ancestor Historical Legitimation / 神话祖先的历史化正统建构"
+    url: "/wiki/concepts/mythicancestorhistoricallegitimation/"
   - key: "MythicAndMaterialWarCausation"
     title: "Mythic and Material War Causation"
     url: "/wiki/concepts/mythicandmaterialwarcausation/"
@@ -1393,6 +1396,9 @@ topic_concepts:
   - key: "TacticalSelfVindicationTrap"
     title: "Tactical Self-Vindication Trap / 战术自证陷阱"
     url: "/wiki/concepts/tacticalselfvindicationtrap/"
+  - key: "TaishiHistoricalAstronomicalOffice"
+    title: "Taishi Historical-Astronomical Office / 太史的史学—天文职能"
+    url: "/wiki/concepts/taishihistoricalastronomicaloffice/"
   - key: "TalentAsStateTreasure"
     title: "Talent as State Treasure / 以贤臣为宝"
     url: "/wiki/concepts/talentasstatetreasure/"
@@ -7341,6 +7347,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-360-1-simaqian-taishigong-chenghao-jing-you-ci-er-lai-lq6ulwhl_jscf6ipkjxev6zvwbrf"
+    title: "《资治通鉴·汉纪》360-1｜司马迁“太史公”称号竟由此而来？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-360-1-simaqian-taishigong-chenghao-jing-you-ci-er-lai-lq6ulwhl_jscf6ipkjxev6zvwbrf/"
   - key: "zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav"
     title: "《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈"
     url: "/wiki/sources/zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav/"

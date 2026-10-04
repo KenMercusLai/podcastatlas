@@ -29965,3 +29965,11 @@ Added source `zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》360-1｜司马迁“太史公”称号竟由此而来？
+
+Added source `zizhi-tongjian-hanji-360-1-simaqian-taishigong-chenghao-jing-you-ci-er-lai-lq6ulwhl_jscf6ipkjxev6zvwbrf`; created [[GuoJiWesternHanEnvoy|郭吉]], [[Qiaoshan|桥山]], [[TaishiHistoricalAstronomicalOffice|太史的史学—天文职能]], and [[MythicAncestorHistoricalLegitimation|神话祖先的历史化正统建构]]; and resynthesized [[SimaQian|司马迁]] and [[Huangdi|黄帝]] from their complete preserved evidence inventories. Core synthesis: the taishi office joins state record work with astronomical knowledge, while the episode interprets Sima Qian's humanization of Huangdi as a historical answer to Han imperial-legitimacy questions. No settled contradiction was adopted. The modern office/rank analogy, exact Shiji writing chronology, Huangdi's historicity, Sima Qian's precise textual choices and sole intention, Qiaoshan tomb identification, and Xiongnu morale remain source-scoped. The large Han Wudi and Shiji profiles and automatic `wiki/overview.md` were read for context but not manually rewritten because the durable additions are represented in narrower canonical pages. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,746 sources and retain 789 overview paragraphs. Changed-page links, index coverage, identities, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

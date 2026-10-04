@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12403
+wiki_total_pages: 12405
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1529,6 +1529,9 @@ wiki_pages:
   - key: "GuoJiWesternHan"
     title: "郭吉 / Guo Ji (Western Han envoy)"
     url: "/wiki/entities/guojiwesternhan/"
+  - key: "GuoJiWesternHanEnvoy"
+    title: "郭吉 / Guo Ji (Western Han envoy)"
+    url: "/wiki/entities/guojiwesternhanenvoy/"
   - key: "GuoJia"
     title: "郭嘉 / Guo Jia"
     url: "/wiki/entities/guojia/"

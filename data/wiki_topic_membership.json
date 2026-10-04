@@ -39540,6 +39540,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GuoJiWesternHanEnvoy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GuoJinglong": [
     {
       "key": "history",
@@ -58338,6 +58345,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MythicAncestorHistoricalLegitimation": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "MythicAndMaterialWarCausation": [
@@ -79926,6 +79940,13 @@
     }
   ],
   "TaishiDan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "TaishiHistoricalAstronomicalOffice": [
     {
       "key": "history",
       "label": "History",
@@ -102455,6 +102476,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "zizhi-tongjian-hanji-360-1-simaqian-taishigong-chenghao-jing-you-ci-er-lai-lq6ulwhl_jscf6ipkjxev6zvwbrf": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-364-2-hanwudi-da-chaoxian-de-lishi-wenti-lrid25t03ell_bs6siq6yvrj3lp9": [

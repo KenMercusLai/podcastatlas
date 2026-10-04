@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9697
+wiki_total_pages: 9699
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1649,6 +1649,9 @@ wiki_pages:
   - key: "MythAsPublicDream"
     title: "Myth As Public Dream / 神话作为公共的梦"
     url: "/wiki/concepts/mythaspublicdream/"
+  - key: "MythicAncestorHistoricalLegitimation"
+    title: "Mythic Ancestor Historical Legitimation / 神话祖先的历史化正统建构"
+    url: "/wiki/concepts/mythicancestorhistoricallegitimation/"
   - key: "MythicAndMaterialWarCausation"
     title: "Mythic and Material War Causation"
     url: "/wiki/concepts/mythicandmaterialwarcausation/"

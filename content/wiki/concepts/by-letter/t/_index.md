@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9697
+wiki_total_pages: 9699
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "TailRiskHedging"
     title: "Tail-Risk Hedging"
     url: "/wiki/concepts/tailriskhedging/"
+  - key: "TaishiHistoricalAstronomicalOffice"
+    title: "Taishi Historical-Astronomical Office / 太史的史学—天文职能"
+    url: "/wiki/concepts/taishihistoricalastronomicaloffice/"
   - key: "TaiwanMarketHongKongCinema"
     title: "Taiwan Market For Hong Kong Cinema / 港片台湾市场基本盘"
     url: "/wiki/concepts/taiwanmarkethongkongcinema/"
