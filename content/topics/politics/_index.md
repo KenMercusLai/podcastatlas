@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3063
+topic_total_pages: 3065
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1729,6 +1729,9 @@ topic_concepts:
   - key: "GermanCaretakerStalemate"
     title: "German Caretaker Stalemate"
     url: "/wiki/concepts/germancaretakerstalemate/"
+  - key: "GermanCentristFragmentation"
+    title: "German Centrist Fragmentation"
+    url: "/wiki/concepts/germancentristfragmentation/"
   - key: "GiftRefusalAsAuthority"
     title: "Gift Refusal As Authority / 拒礼立威"
     url: "/wiki/concepts/giftrefusalasauthority/"
@@ -8424,6 +8427,9 @@ topic_sources:
   - key: "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822"
     title: "Caracas under pressure: democracy in Venezuela"
     url: "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+  - key: "centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9"
+    title: "Centre punch: Germany’s state-election shocker"
+    url: "/wiki/sources/centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9/"
   - key: "cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74"
     title: "Cheques and the City: Premier League disgrace"
     url: "/wiki/sources/cheques-and-the-city-premier-league-disgrace-6abcdaab4e059d44b566ca74/"

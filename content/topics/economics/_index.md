@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2180
+topic_total_pages: 2183
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -88,6 +88,9 @@ topic_concepts:
   - key: "AffordabilityDrivenSocialism"
     title: "Affordability-Driven Socialism"
     url: "/wiki/concepts/affordabilitydrivensocialism/"
+  - key: "AfricanRetailMarketDeepening"
+    title: "African Retail Market Deepening"
+    url: "/wiki/concepts/africanretailmarketdeepening/"
   - key: "AgenticEconomy"
     title: "Agentic Economy"
     url: "/wiki/concepts/agenticeconomy/"
@@ -3344,6 +3347,9 @@ topic_entities:
   - key: "AlexisOhanian"
     title: "Alexis Ohanian"
     url: "/wiki/entities/alexisohanian/"
+  - key: "AlikoDangote"
+    title: "Aliko Dangote"
+    url: "/wiki/entities/alikodangote/"
   - key: "AllIn"
     title: "All-In"
     url: "/wiki/entities/allin/"
@@ -5916,6 +5922,9 @@ topic_sources:
   - key: "tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128"
     title: "Bytes: Week in Review - Are we in an AI bubble?"
     url: "/wiki/sources/tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128/"
+  - key: "centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9"
+    title: "Centre punch: Germany’s state-election shocker"
+    url: "/wiki/sources/centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9/"
   - key: "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b"
     title: "Chainsaw sputtering: Milei's experiment falters"
     url: "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"

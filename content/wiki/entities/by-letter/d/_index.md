@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12277
+wiki_total_pages: 12279
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "DangerousVisions"
     title: "Dangerous Visions"
     url: "/wiki/entities/dangerousvisions/"
+  - key: "DangotePetroleumRefinery"
+    title: "Dangote Petroleum Refinery"
+    url: "/wiki/entities/dangotepetroleumrefinery/"
   - key: "DanielAckerman"
     title: "Daniel Ackerman"
     url: "/wiki/entities/danielackerman/"

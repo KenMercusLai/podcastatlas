@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12277
+wiki_total_pages: 12279
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "AlienRomulus"
     title: "Alien: Romulus"
     url: "/wiki/entities/alienromulus/"
+  - key: "AlikoDangote"
+    title: "Aliko Dangote"
+    url: "/wiki/entities/alikodangote/"
   - key: "AlisonMatthewsDavid"
     title: "Alison Matthews David"
     url: "/wiki/entities/alisonmatthewsdavid/"

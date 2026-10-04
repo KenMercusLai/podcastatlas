@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9618
+wiki_total_pages: 9621
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "BloomTwoSigmaProblem"
     title: "Bloom Two Sigma Problem"
     url: "/wiki/concepts/bloomtwosigmaproblem/"
+  - key: "BlueLightSleepEvidenceBoundary"
+    title: "Blue-Light Sleep Evidence Boundary"
+    url: "/wiki/concepts/bluelightsleepevidenceboundary/"
   - key: "BodilyResolution"
     title: "Bodily Resolution"
     url: "/wiki/concepts/bodilyresolution/"

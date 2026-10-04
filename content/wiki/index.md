@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Centre punch: Germany’s state-election shocker](sources/centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9.md) — The Intelligence on German centrist fragmentation, the Dangote refinery listing and African retail-market access, and the evidence boundary between blue-light biology and sleep claims.
 - [EP88 史上最强播客/读书笔记？](sources/ep88-shishang-zuiqiang-boke-dushu-biji-gkwrimaohukbbougrata9-vx.md) — 纵横四海 episode on the See–Grow–Action growth-note loop, strict insight filtering, living knowledge networks, and behavior change as the acceptance test for learning.
 - [Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology](sources/all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573.md) — All-In interview on oscillator-based physical computing, data-movement energy, biological efficiency, and the qualification gates around a reported 500-nanojoule prototype.
 - [京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权](sources/jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449.md) — 声动早咖啡 on brand-mark confusion, robot supply chains, automotive licensing, AI security controls, memory competition, holiday fares, and mobile agents.
@@ -16045,6 +16046,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘怡 / Liu Yi (Space and Military History)](entities/LiuYiSpaceHistory.md) — 忽左忽右 guest connecting Challenger's technical failure to U.S. space-program history, budgets, politics, and organizational culture.
 - [Space Shuttle Challenger / 挑战者号](entities/SpaceShuttleChallenger.md) — NASA shuttle lost in 1986, synthesized as a coupled component, warning-escalation, and program-governance failure.
 
+- [Aliko Dangote](entities/AlikoDangote.md) — Nigerian industrialist preparing the proposed Dangote Petroleum Refinery listing and advocating broad African ownership.
+- [Dangote Petroleum Refinery](entities/DangotePetroleumRefinery.md) — Nigerian refinery whose proposed $50bn local listing is a test of scale, ownership access, and market depth.
+
 ## Concepts
 - [See–Grow–Action Learning Loop / 破—立—行成长笔记](concepts/SeeGrowActionLearningLoop.md) — Lightweight loop that selects consequential insights, grows them through connection, and tests them through changed behavior and feedback.
 - [Physical Dynamical Computing](concepts/PhysicalDynamicalComputing.md) — Computation through trained evolution of coupled physical elements rather than only conventional digital instruction sequences.
@@ -25723,5 +25727,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Quantitative FOF Allocation / 量化 FOF 配置](concepts/QuantitativeFOFAllocation.md) — Second-order allocation across quantitative strategies and managers by return source, capacity, and failure mode.
 - [Go Fever Organizational Risk / 硬干狂热](concepts/GoFeverOrganizationalRisk.md) — Escalation pattern in which investment, public commitment, schedule pressure, and momentum suppress a warranted stop decision.
 - [Megaproject Success Conditions / 超级工程成功条件](concepts/MegaprojectSuccessConditions.md) — Framework requiring sustained political commitment, adequate funding, and clear staged objectives without treating them as a safety guarantee.
+
+- [German Centrist Fragmentation](concepts/GermanCentristFragmentation.md) — Two-flank erosion of mainstream German parties that weakens mandates and complicates coalition formation.
+- [African Retail Market Deepening](concepts/AfricanRetailMarketDeepening.md) — Mobile-enabled expansion of African stock-market access whose potential depth gains coexist with shallow liquidity and retail loss risk.
+- [Blue-Light Sleep Evidence Boundary](concepts/BlueLightSleepEvidenceBoundary.md) — Distinction between melanopsin-driven melatonin biology and uncertain everyday screen or blue-blocking sleep effects.
 
 ## Syntheses

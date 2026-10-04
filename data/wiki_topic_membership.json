@@ -11059,6 +11059,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AfricanRetailMarketDeepening": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "Afrikaners": [
     {
       "key": "history",
@@ -12088,6 +12095,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "AlikoDangote": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "AliyunBailian": [
@@ -37593,6 +37607,13 @@
     }
   ],
   "GermanCaretakerStalemate": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "GermanCentristFragmentation": [
     {
       "key": "politics",
       "label": "Politics",
@@ -94272,6 +94293,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b": [

@@ -29273,3 +29273,11 @@ Added source `vol-223-pai-yinchi-chong-zhijie-huirong-xi-haixian-ran-chuangshang
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | Centre punch: Germany’s state-election shocker
+
+Added source `centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9`; created [[GermanCentristFragmentation]], [[AfricanRetailMarketDeepening]], [[BlueLightSleepEvidenceBoundary]], [[AlikoDangote]], and [[DangotePetroleumRefinery]]; and resynthesized [[FriedrichMerz]], [[ChristianDemocraticUnionGermany]], [[AlternativeForGermany]], and [[MelanopsinCircadianPhotoreception]] from their complete preserved evidence inventories. Core synthesis: state-election dissatisfaction can weaken Germany's center from both flanks without automatically transferring executive power, mobile investing and a flagship refinery IPO can broaden African market access without eliminating liquidity and volatility risk, and accepted blue-sensitive melatonin biology does not establish large everyday screen-sleep effects or reliable benefit from blue-blocking products. No settled contradiction was adopted. Vote shares, coalition paths, reforms, proposed valuation and listing timing, benchmark gains, user counts, study details, and practical recommendations remain source-scoped or prospective. The downstream manifest and paragraph ledger were refreshed to 3,659-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

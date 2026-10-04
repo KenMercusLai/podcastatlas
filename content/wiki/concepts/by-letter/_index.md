@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9618
+wiki_total_pages: 9621
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "AfricanRadioResilience"
     title: "African Radio Resilience"
     url: "/wiki/concepts/africanradioresilience/"
+  - key: "AfricanRetailMarketDeepening"
+    title: "African Retail Market Deepening"
+    url: "/wiki/concepts/africanretailmarketdeepening/"
   - key: "AfterlifeMoralAccounting"
     title: "Afterlife Moral Accounting"
     url: "/wiki/concepts/afterlifemoralaccounting/"
