@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密](sources/zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg.md) — 鸡骨占卜被还原为祭祀、制骨、插竹与经书释象的完整程序，并与汉武帝采用粤巫、公孙卿献策及求仙建筑并置。
 - [《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂](sources/zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox.md) — 公孙遂以临机授权拘捕杨仆、合并荀彘与楼船军后被诛；朝鲜内部倒戈、卫右渠被杀、汉四郡设置与班固风俗评价共同构成战争结束及其史家解释。
 - [《资治通鉴·汉纪》366-3｜雌雄同体，是一个女人的顶级魅力](sources/zizhi-tongjian-hanji-366-3-cixiongtongti-shi-yige-nvren-de-dingji-meili-li7iu8v_bnyhpp48rhsrjkkzz5og.md) — 将女性力量解释为独立、行动、温和表达、情绪调节与底线的结合，同时限定其性别二分、沉默和形象管理风险。
 - [《资治通鉴·汉纪》366-4｜淇姐心里话：女人更解女人心](sources/zizhi-tongjian-hanji-366-4-qijie-xinlihua-nvren-geng-jie-nvrenxin-lhnf_zbn364cuu01f0rbf8pd-7in.md) — 将同理心、责任、行动、学习、关系边界、健康与时间管理合成女性自我治理理想，并把“黑色生命力”限定为来源中的韧性隐喻。
@@ -9022,6 +9023,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丰邑 / 丰县 / Feng County](entities/FengCounty.md) — Liu Bang-held place entrusted to Yong Chi and then lost when Yong Chi defects to Zhou Shi's restoration line.
 - [赵歇 / Zhao Xie](entities/ZhaoXie.md) — Old Zhao royal descendant installed by Zhang Er and Chen Yu after Wu Chen's death and Li Liang's defeat.
 - [景驹 / Jing Ju](entities/JingJu.md) — Provisional Chu claimant set up by Qin Jia and Ning Jun after Chen Sheng's collapse; transcript renders him as 景居.
+- [公孙卿 / Gongsun Qing (fangshi)](entities/GongsunQingFangshi.md) — Western Han fangshi whose tower advice informed Han Wudi's immortality construction and who is later named in the Taichu calendar project.
 - [公孙庆 / Gongsun Qing](entities/GongsunQing.md) — Qin Jia envoy killed by Tian Dan after a failed attempt to coordinate Jing Ju's Chu branch with Qi.
 - [英布 / 黥布 / Ying Bu](entities/YingBu.md) — Jiujiang king and former Chu vanguard whose trust fracture with Xiang Yu becomes open defection after Sui He's public commitment trap.
 - [吴芮 / Wu Rui](entities/WuRui.md) — Panyang magistrate and Lord Pan who marries his daughter to Ying Bu and directs him against Qin.
@@ -22090,6 +22092,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhouyi Divination / 《周易》占卜](concepts/ZhouyiDivination.md) — Yarrow-stalk and hexagram procedure where arithmetic arrangement, ritual authority, and interpretation become a durable divination system.
 - [Ancient Chinese Soul Summoning / 招魂](concepts/AncientChineseSoulSummoning.md) — Chu-centered soul ritual frame for illness, fainting, death anxiety, and body-soul explanations.
 - [Yin-Yang Five-Phases Political Theory / 阴阳五行政治理论](concepts/YinYangFivePhasesPoliticalTheory.md) — Cosmological classification system that joins natural categories, historical cycles, dynastic legitimacy, and claimant self-authorization.
+- [Chicken-Bone Divination / 鸡骨占卜](concepts/ChickenBoneDivination.md) — Ritual system joining sacrifice, prepared bone-and-bamboo patterns, specialist interpretation, and textual transmission.
 - [Immortality Quest Politics / 求仙政治](concepts/ImmortalityQuestPolitics.md) — Pattern where imperial death anxiety turns immortal belief into expenditure, patronage, secrecy, and coercion.
 - [Fangshi Fraud And Authority / 方士骗术与权威](concepts/FangshiFraudAndAuthority.md) — Specialist-authority pattern where hidden-cause claims, props, staging, and failure reinterpretation can become predatory extraction.
 - [Wugu Political Panic / 巫蛊政治恐慌](concepts/WuguPoliticalPanic.md) — Qin-Han and Eastern Han curse-accusation pattern where hidden ritual suspicion, staged anomaly, illness, denunciation, torture, palace rivalry, and succession fear produce state violence.

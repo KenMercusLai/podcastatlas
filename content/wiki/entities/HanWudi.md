@@ -29,6 +29,7 @@ sources:
   - zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq
   - zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98
   - zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1sg-lkwl9dtnflxxgkieb79hj
+  - zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg
 last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
@@ -53,6 +54,8 @@ Hanji 374-2 supplies a campaign-level test of that strategic claim. After an ear
 
 The court-advice and fiscal-religious profile remains separate but related. [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] places Han Wudi in [[GongsunHong|公孙弘]]'s compromise example, where imperial desire to attend to both the Xiongnu front and southwest development creates an impossible policy-priority field. Episode 87 presents his 求仙 as an expensive political system of fangshi, displays, voyages, palaces, and alchemical promises, and also makes his late-life suspicion central to [[WuguPoliticalPanic|巫蛊之乱]]. Hanji 381-2 adds the symbolic-succession prelude: after 赤雁祥瑞 and sea巡游, Wudi treats Liu Fuling's fourteen-month birth as Yao-like and names the palace gate "尧母门," a gesture the episode and Sima Guang criticism frame as dangerous because ministers can infer a hidden heir preference. Hanji 384-1 adds the Wugu prelude: after [[WeiQingHanGeneral|卫青]]'s death, prior grief and honor for Wei Qing do not prevent Wudi's court from destroying Gongsun He and Wei Kang, which the episode interprets as weakening Wei Zifu and Liu Ju before the later crisis. Hanji 385-1 adds the panic-permission layer: in 91 BCE, Wudi responds to palace wugu accusations by killing hundreds, and his age, illness, suspicion, and dream of wooden figures make him receptive when Jiang Chong claims someone is using wugu to harm him. Hanji 386-1 adds the decision-point before open fighting: Wudi first reads Liu Ju's action as fear and anger toward Jiang Chong, but an envoy who never meaningfully verifies the situation reports settled rebellion, after which Wudi orders [[LiuQuliWesternHan|刘屈氂]] to seal Chang'an and suppress the crown-prince force. Hanji 388-2 adds the Wugu remorse endpoint: after review shows widespread false accusation, Wudi accepts Tian Qianqiu's father-son framing of Liu Ju's case, treats the memorial as Gaozu's divine instruction, punishes Jiang Chong's family and Su Wen, and marks regret through 思子宫 and 归来望思之台. Hanji 389-1 then adds the disillusionment endpoint: Wudi accepts Tian Qianqiu's proposal to dismiss fangshi, later says there are no immortals, and reduces diet and medicine to limited health preservation rather than deathless transcendence.
 
+Hanji 364-1 supplies an earlier ritual-integration layer. The episode says Wudi brings Yue specialists and [[ChickenBoneDivination|鸡骨占卜]] into imperial sacrifice, while [[GongsunQingFangshi|公孙卿]]'s claim that immortals favor towers produces elevated halls, platforms, ritual equipment, and organized waiting for divine arrival. This sharpens the existing profile from private belief to institutional patronage: local ritual expertise and court fangshi advice become personnel, procedure, and construction, although the episode does not validate divination or immortal claims.
+
 Other layers make Han Wudi a calendar, ritual, and moral-expenditure marker. [[zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq|Hanji 371-2]] places the Taichu calendar inside a wider 104 BCE program joining astronomical cycles, the Xia first month, dynastic color and number, pitch standards, offices, and ritual. The same episode places Wudi's Mingtang and Houtu sacrifices beside continued coastal immortal searches and Penglai imagery at Jianzhang Palace, showing formal state ritual and immortality seeking operating in parallel. [[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|Hanji 150 PLUS]] treats him as the ruler who fixed the Xia calendar's first day of the first month as 元旦. [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] uses him as [[SimaGuang|司马光]]'s later negative afterexample in the [[WeiyangPalace|未央宫]] discussion, where palace expansion exhausts the people.
 
 Hanji 400-2 adds a talent-channel contrast. Against the episode's wider theme of class fixation, Han Wudi appears as a ruler who needed talent beyond outer-relative and hereditary channels. The source says he used ability-oriented selection and local recommendation to elevate people outside entrenched official lineages, making him a partial counterexample to complete status closure even though the page's broader evidence still emphasizes the costs and dangers of his rule. [[zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98|Hanji 369-2]] makes that need immediate after [[WeiQingHanGeneral|卫青]]'s death: with senior civil and military figures depleted, Wudi orders local recommendation of unconventional people fit for high command, the chancellorship, or distant missions. The edict broadens acceptable talent, while the host's contrast with Wudi's earlier lethal severity turns the shortage into a source-scoped personnel-policy feedback case.
@@ -73,7 +76,7 @@ Hanji 367-1 adds a royal-kin qualification to the severe-law profile. Court offi
 - Fiscal-extraction ruler whose war-finance needs are linked by Hanji 396-3 to monopoly, merchant assessment, and rewarded denunciation.
 - Source-scoped case of spring war timing used to attack future population and livestock capacity.
 - Ruler whose preferences create advice and appointment risk, and whose treatment of royal kin ranges from severe law enforcement to costly tolerance when a violent relative appears politically nonthreatening.
-- Imperial religious consumer whose fangshu patronage and wugu fear become fiscal, political, and succession danger before late-life disillusionment turns into fangshi dismissal.
+- Imperial religious consumer whose adoption of regional divination and fangshi-driven construction turns sacred claims into court procedure and material projects, while later wugu fear becomes political and succession danger before disillusionment produces fangshi dismissal.
 - Calendar, ritual, and talent-channel anchor whose Taichu reform joins astronomical rules to dynastic symbols and state ceremony, while the Yuan Dan and official-selection sources show downstream festival order, access beyond hereditary office families, and emergency recruitment after senior-cohort depletion.
 - Ideological state-builder and negative fiscal-moral example whose Confucian turn is read by Hanji 392-4 as "outer Confucian, inner Legalist" renovation of Qin-style imperial structure, while Hanji 392-1 shows law overriding sibling and marital kinship and Hanji 381-2/384-1/385-1/386-1/388-2/391-1/391-2 show a final succession arc built around symbolic younger-son elevation, support-network destruction, fear-driven investigative authority, misinformation-driven suppression, belated Wugu remorse, mother-risk removal, and entrusted ministers.
 
@@ -105,6 +108,7 @@ Hanji 367-1 adds a royal-kin qualification to the severe-law profile. Court offi
 - Mother-risk removal: [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] says Han Wudi kills Lady Gouyi before making Liu Fuling heir, publicly explaining that child rulers and strong mothers can disorder the realm.
 - Hidden Wugu explanation: [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] source-scopedly claims Lady Gouyi helped frame Liu Ju, while Han Wudi suppresses that reason to protect Liu Fuling's legitimacy.
 - Final succession design: [[zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm|Hanji 391-2]] says Han Wudi names Liu Fuling crown prince, asks Huo Guang to assist like Zhou Gong, and has Huo Guang, Jin Midi, Shangguan Jie, and Sang Hongyang receive sickbed responsibility for the young ruler.
+- Ritual integration and immortality construction: [[zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg|Hanji 364-1]] says Wudi uses Yue ritual specialists and chicken-bone divination in sacrifice, then responds to Gongsun Qing's tower advice with elevated buildings, equipment, and arrangements for awaiting divine beings.
 
 ## Qualifications
 
@@ -114,12 +118,14 @@ This page remains a bounded wiki profile rather than a complete biography of Han
 
 Hanji 367-1 adds a contrasting kinship case but not a complete theory of Wudi's treatment of relatives. Its explanation that sibling feeling and low usurpation risk determined Liu Duan's survival remains source-scoped, and its claim that Liu Duan received a positive posthumous title is not adopted as settled fact.
 
+Hanji 364-1 is a compact structured summary, not a full ritual or architectural dossier. Its exact 109 BCE ceremony, live-spider reference, chicken-bone procedure, surviving-manual count, building names, sequence, and causal attribution to Gongsun Qing remain source-scoped; coexistence in one episode does not make chicken divination, imperial sacrifice, and immortality architecture one identical practice.
+
 ## What Changed
 
-- Added Liu Duan as a royal-kin tolerance case alongside the existing law-over-kin evidence.
-- Distinguished low perceived usurpation risk from the local administrative and human cost of imperial forbearance.
-- Reframed Wudi's kinship governance as context-dependent rather than uniformly severe.
-- Preserved the frontier, extraction, ideology, ritual-calendar, Wugu, remorse, and final-succession synthesis.
+- Added an early court-ritual layer linking Yue specialists and chicken-bone divination to imperial sacrifice.
+- Added Gongsun Qing's elevated-building advice as a concrete mechanism converting immortal claims into court construction.
+- Distinguished regional divination, formal sacrifice, and immortality architecture instead of merging them into one practice.
+- Preserved the frontier, extraction, ideology, kinship, Wugu, remorse, and final-succession synthesis.
 
 ## Relationships
 
@@ -138,6 +144,8 @@ Hanji 367-1 adds a contrasting kinship case but not a complete theory of Wudi's 
 - [[HeavyAgricultureLightCommercePolicy|重农轻商政策]] - anti-merchant policy background made coercive under Hanji 396-3's reading.
 - [[GongsunHong|公孙弘]] - minister whose compromise example depends on Han Wudi's policy-priority pressure.
 - [[ImmortalityQuestPolitics|求仙政治]] - religious-political branch built around Han Wudi's pursuit of immortality.
+- [[GongsunQingFangshi|公孙卿]] - fangshi whose elevated-building advice gives the early construction branch a named intermediary.
+- [[ChickenBoneDivination|鸡骨占卜]] - regional ritual system the source says Wudi incorporated into imperial sacrifice.
 - [[TianQianqiuWesternHan]] - official whose anti-fangshi advice Hanji 389-1 ties to Wudi's late policy turn.
 - [[GongsunHeWesternHan]] and [[WeiKangWesternHan]] - Wugu prelude casualties whose destruction weakens Liu Ju's support field in Hanji 384-1.
 - [[LiuJuCrownPrinceWesternHan]] - wrongly destroyed crown prince whose grievance Hanji 388-2 makes central to Wudi's late remorse.

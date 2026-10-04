@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9687
+wiki_total_pages: 9688
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "ChevronDoctrine"
     title: "Chevron Doctrine"
     url: "/wiki/concepts/chevrondoctrine/"
+  - key: "ChickenBoneDivination"
+    title: "Chicken-Bone Divination / 鸡骨占卜"
+    url: "/wiki/concepts/chickenbonedivination/"
   - key: "ChildAnimalCrueltyLifeEducation"
     title: "Child Animal Cruelty Life Education / 未成年人虐待动物与生命教育"
     url: "/wiki/concepts/childanimalcrueltylifeeducation/"

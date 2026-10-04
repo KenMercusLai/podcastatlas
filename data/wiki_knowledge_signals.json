@@ -37205,6 +37205,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/chicago1968democraticconvention/"
     },
+    "ChickenBoneDivination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密 [liYNAIi4kC2v1-D_nDckhNXbaSwG].md",
+          "key": "zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/chickenbonedivination/"
+    },
     "Chiikawa": {
       "episode_count": 1,
       "show_count": 1,
@@ -88937,6 +88953,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/gongsunluxinofficial/"
     },
+    "GongsunQingFangshi": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！ [ltllclAtwDDFxLAWrdpgziQLP3Xq].md",
+          "key": "zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密 [liYNAIi4kC2v1-D_nDckhNXbaSwG].md",
+          "key": "zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/gongsunqingfangshi/"
+    },
     "GongsunShuEasternHan": {
       "episode_count": 11,
       "show_count": 1,
@@ -94241,9 +94280,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 26,
+      "episode_count": 27,
       "show_count": 2,
-      "source_note_count": 26,
+      "source_note_count": 27,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -94426,6 +94465,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》367-1｜碰女人就疲软的诸侯王",
           "url": "/wiki/sources/zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1sg-lkwl9dtnflxxgkieb79hj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密 [liYNAIi4kC2v1-D_nDckhNXbaSwG].md",
+          "key": "zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg/"
         }
       ],
       "updated": "2026-10-05",
@@ -106832,9 +106878,9 @@
       "url": "/wiki/concepts/immigrationdnadatabaseexpansion/"
     },
     "ImmortalityQuestPolitics": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》126｜秦始皇死因之谜（2） [ln15p5qb7Lc20GOni1IbcPmN3wca].md",
@@ -106891,9 +106937,16 @@
           "show": "蜜獾吃书",
           "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
           "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密 [liYNAIi4kC2v1-D_nDckhNXbaSwG].md",
+          "key": "zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg/"
         }
       ],
-      "updated": "2026-08-22",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/immortalityquestpolitics/"
     },
     "ImmuneAgingMosaic": {
