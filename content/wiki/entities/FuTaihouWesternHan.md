@@ -15,7 +15,8 @@ sources:
   - zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu
   - zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq
   - zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v
-last_updated: 2026-09-11
+  - zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6
+last_updated: 2026-10-04
 ---
 
 ## Overview
@@ -27,6 +28,8 @@ last_updated: 2026-09-11
 Hanji 562 adds the earliest current active-court layer. Fu Taihou has raised Liu Xin from infancy and helped his succession, so Aidi's filial impulse makes her residence politically hard to refuse. Kong Guang warns that her strong temperament and political skill make close placement dangerous, but He Wu recommends North Palace. Once there, Fu Taihou uses the palace connection to press Aidi for title elevation and favored-relative promotion, turning the new emperor's family gratitude into a governing constraint.
 
 Hanji 565 shows the residence and title problem surfacing through banquet seating. When an official places Fu Taihou beside Wang Zhengjun at a Weiyang Palace feast, Wang Mang removes the seat because he denies that a Dingtao consort-side figure can sit with the supreme dowager. Fu Taihou refuses to attend and becomes Wang Mang's enemy. The same source also shows that she distrusts Fu Xi despite shared surname because he had resisted her interference and would not simply serve the Fu-line agenda.
+
+Hanji 569 adds a direct appointment-veto layer. When Aidi dismisses her clan relative [[FuQianWesternHan|傅迁]] and orders him home, Fu Taihou angrily pressures the emperor until Fu Qian is retained as shizhong. The episode treats the reversal as proof that her practical control reaches the emperor's closest personnel decisions and that protected subordinates can orient toward her rather than their nominal superior.
 
 Hanji 576 adds the earliest current direct-violence layer. Fu Taihou and Feng Yuan had both been Han Yuandi's consorts, but Feng Yuan's remembered courage in shielding Yuandi from a black bear becomes an old source of jealousy. When Zhang You falsely reports that Feng Yuan is cursing Aidi and Fu Taihou, Fu Taihou rejects an inquiry that finds no result and turns to Shi Li. The case then expands through torture, treason framing, Feng Yuan's suicide, and Feng-family deaths. Sun Bao's request for reexamination angers Fu Taihou enough that Aidi jails him, and his release comes only after wider official pressure.
 
@@ -50,7 +53,7 @@ Fu Taihou's wiki role is therefore a posthumous-status case. The episode does no
 
 - Western Han consort-side figure remembered through pre-accession succession gifts, residence-based access, title pressure, banquet-status rupture with Wang Mang, jealousy-backed prosecution, household privilege, death, burial, posthumous rank conflict, and later tomb prosecution.
 - Earlier rival of Feng Yuan whose old resentment can convert a weak accusation into deadly palace violence.
-- Title-status pressure source whose demand begins at Aidi's accession and later against Wang Zhengjun's superior dignity exposes Kong Guang, Shi Dan, and Fu Xi.
+- Title-status and personnel-pressure source whose demands expose Kong Guang, Shi Dan, and Fu Xi and whose intervention preserves Fu Qian against Aidi's dismissal.
 - Active pressure source against Fu Xi and Kong Guang during Jianping 2 personnel conflict, with later resentment against Fu Xi helping trigger Zhu Bo's failed impeachment campaign.
 - Achieves the Dingtao-line title settlement through Aidi's adoption of Zhu Bo's advice, bringing rapid formal elevation for Ding and Fu relatives while leaving real power more limited than the earlier Wang-family model.
 - Lifetime-adjacent public-property case whose underpriced official-slave purchase triggers fair-value remonstrance.
@@ -64,6 +67,8 @@ Fu Taihou's wiki role is therefore a posthumous-status case. The episode does no
 - Banquet seating dispute: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] says Fu Taihou is placed beside Wang Zhengjun at a Weiyang Palace banquet and Wang Mang removes the seat.
 - Wang Mang rupture: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] says Fu Taihou refuses the banquet and thereafter hates Wang Mang.
 - Fu Xi distrust: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] says Fu Taihou blocks Fu Xi because he had not joined her political line and had admonished her.
+- Fu Qian intervention: [[zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6|Hanji 569]] says Fu Taihou forces Aidi to reverse Fu Qian's dismissal and retain him as shizhong.
+- Personnel-authority consequence: [[zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6|Hanji 569]] says Kong Guang and Shi Dan warn that the reversal damages imperial credibility.
 - Feng Yuan case: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Fu Taihou's old jealousy of Feng Yuan helps make Zhang You's accusation usable.
 - Investigator replacement: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Fu Taihou turns away from Ding Xuan after no result and uses Shi Li's more coercive inquiry.
 - Sun Bao retaliation: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Fu Taihou is angered by Sun Bao's request to reexamine the case and Aidi jails him.
@@ -87,19 +92,22 @@ Fu Taihou's wiki role is therefore a posthumous-status case. The episode does no
 
 ## Qualifications
 
+Hanji 569 supports Fu Taihou's intervention for Fu Qian and the resulting reversal, but not her exact words, Fu Qian's full career, or the complete memorial text.
+
 Fu Taihou is source-bounded here. Hanji 562 supports the residence-proximity and initial title-pressure layer, but not the full North Palace layout, her exact private words, or every relative-promotion request. Hanji 565 supports the banquet-seat rupture, her refusal to attend, her hostility to Wang Mang, and her distrust of Fu Xi, but not the full protocol file or her private wording. Hanji 576 supports the jealousy-backed Feng Yuan prosecution but not Fu Taihou's exact private words, the full legal file, or every death in the Feng family. Hanji 577 supports the title-demand pressure, opposition by Kong Guang, Shi Dan, and Fu Xi, and the Fu Yan/Zhu Bo flattery channel, but not the full received text of the title debate or Fu Taihou's private wording. Hanji 578 supports her order against Fu Xi and the Fu-side attack field around Kong Guang, but not a full faction map or the exact text of every accusation. Hanji 579 supports the title settlement, post-settlement arrogance, and Ding/Fu formal elevation, but not the full legal history of each title or the exact offices held by every relative. Hanji 582 supports her continued hostility to Fu Xi and the Kongxiang Hou/Zhu Bo pressure route, but not her private words. Hanji 587 supports the underpriced official-slave purchase as reported through Wu Jianglong's remonstrance but not Fu Taihou's private intent or the full sale procedure. Hanji 595 supports her death, burial with Han Yuandi, posthumous styling, and later vulnerability, while Hanji 626 supports the later tomb prosecution. The page does not settle the full earlier court dispute over her title, the exact received-text form of her posthumous title, her lifetime agency, or Wang Mang's inner motive.
 
 ## What Changed
 
+- Added Hanji 569's appointment-veto layer: Fu Taihou preserves Fu Qian as shizhong despite Aidi's attempted dismissal.
 - Added Hanji 562 and Hanji 565 as connected early mechanisms: North Palace placement gives Fu Taihou daily access, while the banquet seating dispute makes her status pressure visible against Wang Zhengjun and Wang Mang.
 - Preserved Hanji 577 as the later explicit title-pressure layer before Hanji 578-579's order, personnel attack, and title settlement.
-- Kept Fu Taihou's status desire as an input into [[BureaucraticAdverseSelection|官场逆淘汰]], where flattery and accusation become advancement paths.
 - Preserved Hanji 582's active resentment layer: Fu Taihou's continued pressure against Fu Xi leads to Zhu Bo's failed impeachment campaign.
 - Preserved Hanji 587's official-property layer, Hanji 595's death-and-burial layer, and Hanji 626's posthumous prosecution.
 
 ## Relationships
 
 - [[WangMang|王莽]] - dominant official who reopens and punishes her posthumous status.
+- [[FuQianWesternHan|傅迁]] - clan relative whose protected retention demonstrates Fu Taihou's practical personnel power.
 - [[BanquetSeatingStatusPolitics|宴席座次名分政治]] - protocol mechanism that makes Fu Taihou's contested status visible in Hanji 565.
 - [[FengYuanWesternHan|冯媛 / 冯太后]] - old rival whose bear-rescue favor becomes the jealousy background for Hanji 576.
 - [[ShiLiWesternHan|史立]] - investigator whose coercive case serves Fu Taihou's desired outcome.

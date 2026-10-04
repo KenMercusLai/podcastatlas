@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2553
+topic_total_pages: 2554
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2915,6 +2915,9 @@ topic_entities:
   - key: "FuYanWesternHan"
     title: "傅晏 / Fu Yan (Western Han)"
     url: "/wiki/entities/fuyanwesternhan/"
+  - key: "FuQianWesternHan"
+    title: "傅迁 / Fu Qian (Western Han)"
+    url: "/wiki/entities/fuqianwesternhan/"
   - key: "GongzhongHuan"
     title: "公中缓 / Gongzhong Huan"
     url: "/wiki/entities/gongzhonghuan/"

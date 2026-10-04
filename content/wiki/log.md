@@ -29425,3 +29425,11 @@ Added source `zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！
+
+Added source `zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6`; created [[FuQianWesternHan|傅迁]]; and resynthesized [[HanAidi|汉哀帝]], [[FuTaihouWesternHan|傅太后]], [[KongGuangWesternHan|孔光]], [[ShiDanWesternHan|师丹 / 施丹]], and [[WeakAuthorityLeadership|弱势领导威信]] from their complete preserved evidence inventories. Core synthesis: Fu Taihou's intervention reverses Aidi's dismissal of Fu Qian, separating nominal appointment authority from effective veto power; Kong Guang and Shi Dan defend command credibility, while their faction-clearing language also turns the dispute into a challenge to Fu-family power. No settled contradiction was adopted. The full edicts and memorial, Fu Qian's later conduct, Aidi's private intent, and the workplace analogy remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest, then only read by downstream synthesis refresh. The downstream manifest and paragraph ledger were refreshed to 3,678-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

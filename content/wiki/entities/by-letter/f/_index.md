@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12316
+wiki_total_pages: 12317
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -947,6 +947,9 @@ wiki_pages:
   - key: "FuXie"
     title: "傅燮 / Fu Xie"
     url: "/wiki/entities/fuxie/"
+  - key: "FuQianWesternHan"
+    title: "傅迁 / Fu Qian (Western Han)"
+    url: "/wiki/entities/fuqianwesternhan/"
   - key: "FuRao"
     title: "傅饶 / Fu Rao"
     url: "/wiki/entities/furao/"

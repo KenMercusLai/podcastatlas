@@ -81288,6 +81288,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/fulongeasternhan/"
     },
+    "FuQianWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！ [lvjG3QCsgKQ4ltAi8MQT6P26smk6].md",
+          "key": "zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/fuqianwesternhan/"
+    },
     "FuRao": {
       "episode_count": 1,
       "show_count": 1,
@@ -81344,9 +81360,9 @@
       "url": "/wiki/entities/fushangwesternhan/"
     },
     "FuTaihouWesternHan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？ [loTWK6rbTl5PvBrnLFrysU5Ol6rz].md",
@@ -81424,9 +81440,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜",
           "url": "/wiki/sources/zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！ [lvjG3QCsgKQ4ltAi8MQT6P26smk6].md",
+          "key": "zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/futaihouwesternhan/"
     },
     "FuXiWesternHan": {
@@ -92205,9 +92228,9 @@
       "url": "/wiki/entities/hammurabi/"
     },
     "HanAidi": {
-      "episode_count": 24,
+      "episode_count": 25,
       "show_count": 2,
-      "source_note_count": 24,
+      "source_note_count": 25,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -92376,6 +92399,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》596丨鲍宣劝谏哀帝：有一种爱叫放手",
           "url": "/wiki/sources/zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！ [lvjG3QCsgKQ4ltAi8MQT6P26smk6].md",
+          "key": "zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6/"
         }
       ],
       "updated": "2026-10-04",
@@ -120461,9 +120491,9 @@
       "url": "/wiki/entities/kongfeneasternhan/"
     },
     "KongGuangWesternHan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
@@ -120541,6 +120571,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》600丨孔子后代里，咋出了没骨气的他？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！ [lvjG3QCsgKQ4ltAi8MQT6P26smk6].md",
+          "key": "zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6/"
         }
       ],
       "updated": "2026-10-04",
@@ -191988,9 +192025,9 @@
       "url": "/wiki/entities/shibilatehan/"
     },
     "ShiDanWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》568丨何武断剑！古代这起判决值得当代学一学 [ljD2OJjmsla46No-9M2q802SyxLP].md",
@@ -192040,9 +192077,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》491丨中国外交最强硬的时刻，竟是在西汉？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！ [lvjG3QCsgKQ4ltAi8MQT6P26smk6].md",
+          "key": "zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/shidanwesternhan/"
     },
     "ShiDeWesternHan": {
@@ -222609,9 +222653,9 @@
       "url": "/wiki/entities/waylonwong/"
     },
     "WeakAuthorityLeadership": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！ [lgK8qoXvS5Ax8oIKGeCrxQviSpNa].md",
@@ -222619,9 +222663,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！ [lvjG3QCsgKQ4ltAi8MQT6P26smk6].md",
+          "key": "zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》569丨“年会不能停”都是假的，职场站队才是真的！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/weakauthorityleadership/"
     },
     "WeakPositionPacification": {

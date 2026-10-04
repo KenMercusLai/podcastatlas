@@ -27,6 +27,7 @@ sources:
   - zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v
   - zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la
   - zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka
+  - zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -42,6 +43,8 @@ Hanji 562 and the Xiangrui source keep Aidi's early profile from being flattened
 Hanji 562 also adds the first constraint on that promise. Aidi wants better placement for his birth grandmother and mother, but Kong Guang warns against bringing Fu Taihou too close because she is forceful and politically active. He Wu recommends North Palace instead; once Fu Taihou can reach Weiyang Palace daily, she presses for title and relative advancement. Aidi first retreats when Wang Mang and Shi Dan impeach Dong Hong's proposal, but then seeks Wang Zhengjun's approval after Fu Taihou's anger, setting up the later Dingtao-line conflicts.
 
 Hanji 565 shows that the same status pressure could erupt through protocol before formal title settlement. Aidi's banquet places Fu Taihou next to Wang Zhengjun, but Wang Mang removes the seat on ritual-rank grounds. Aidi then accepts Wang Mang's retirement rather than preserving him in active office, while cushioning the removal with gold, an anju carriage, special status, palace access, and frequent imperial meals. The source also shows Aidi not immediately installing Fu Xi despite broad support, because Fu Taihou distrusts him.
+
+Hanji 569 adds a direct personnel-authority test. Aidi removes [[FuQianWesternHan|傅迁]] and orders him home, but Fu Taihou's anger forces him to retain the protected relative as shizhong. Kong Guang and Shi Dan warn that the opposed edicts confuse the realm and weaken imperial credibility, making Aidi's early constraint visible not only in title or seating protocol but in his inability to control a close-attendant appointment.
 
 Hanji 580 adds the earlier court-balance and personal-filial branch. Aidi does not fully accept Zhu Bo and Zhao Xuan's attack on Wang Mang, leaving Wang Mang's title and fief intact because Wang Zhengjun remains too important to disregard. Yang Xuan's secret memorial then makes the restraint explicit: Aidi's succession from Chengdi carries an obligation to serve Wang Zhengjun, not humiliate her and her family. The same source also shows Aidi honoring his birth parents by returning Ding Taihou to Dingtao for burial with his father, which complicates the profile by making Aidi visibly filial in one family direction while politically constrained by another.
 
@@ -83,7 +86,7 @@ Hanji 610-2 adds a ritual-body layer: Aidi dies in the sixth month but is buried
 
 ## Key Characteristics
 
-- Aidi's wiki profile is not limited to the later Dong Xian-centered reputation; Hanji 562, Hanji 565, and Wang Jia's memorial preserve an early image of thrift and personal government already constrained by birth-family residence, title, and banquet-seating pressure.
+- Aidi's wiki profile is not limited to the later Dong Xian-centered reputation; Hanji 562, Hanji 565, Hanji 569, and Wang Jia's memorial preserve an early image of thrift and personal government constrained by birth-family residence, title, banquet seating, and a reversed close-attendant dismissal.
 - Bao Xuan's public-suffering memorial makes Aidi's failure visible at the people-and-officials level before later Dong Xian succession risk becomes explicit.
 - His conflict with Wang-family power makes Wang Mang's later return politically contingent.
 - His Dong Xian favoritism makes private affection visible as a family-promotion, palace-access, memorial-gatekeeping, public-construction, public-finance, military-resource, market-order, land, funerary, fabricated-merit, reward-procedure, ritual-hierarchy, and succession-boundary problem.
@@ -103,6 +106,8 @@ Hanji 610-2 adds a ritual-body layer: Aidi dies in the sixth month but is buried
 - Title-pressure retreat: [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|Hanji 562]] says Aidi first accepts Wang Mang and Shi Dan's objection to Dong Hong's proposal, then resumes Dingtao-line elevation after Fu Taihou pressures him and Wang Zhengjun consents.
 - Banquet-office hinge: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] says Aidi lets Wang Mang retire after the Fu Taihou seating conflict while preserving high honors.
 - Fu Xi sidelining: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] says Aidi appoints Shi Dan as Da Sima and keeps Fu Xi at home despite ministerial praise.
+- Personnel reversal: [[zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6|Hanji 569]] says Aidi dismisses Fu Qian but reverses course under Fu Taihou's pressure and retains him as shizhong.
+- Command-credibility warning: [[zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6|Hanji 569]] says Kong Guang and Shi Dan warn that contradictory edicts will confuse the realm and damage Aidi's authority.
 - Wang-family recall: [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] says Aidi recalls Wang Mang and Wang Ren to Chang'an to serve Wang Zhengjun after petition pressure.
 - Dong Xian anti-Fu influence: [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] says Aidi accepts Dong Xian's eclipse explanation against Fu Yan and Xifu Gong, removing Fu Yan from office.
 - Early praise frame: [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] says Wang Jia praises Aidi's Dingtao-era learning and early-reign austerity before later warning him.
@@ -150,13 +155,15 @@ Hanji 610-2 adds a ritual-body layer: Aidi dies in the sixth month but is buried
 
 ## Qualifications
 
+Hanji 569 supports the dismissal-and-retention sequence and the ministers' credibility warning, but not the complete edicts, memorial text, Fu Qian's later conduct, or every official's response to the reversal.
+
 The wiki does not yet have a full reign narrative for Han Aidi. Hanji 562 is focused on accession, Fu Taihou's residence/title pressure, Dong Hong's proposal, and early relative rewards rather than a complete account of Aidi's first-year policy record or the full legal history of Dingtao-line elevation; Hanji 565 is focused on one banquet-seat conflict, Wang Mang's honored retirement, Fu Xi's sidelining, and early anti-Wang timing rather than the full personnel record; the Xiangrui source is interpretive and focused on Wang Mang's legitimacy problem; Hanji 592 preserves Wang Jia's strategic praise rather than a neutral reign assessment; Hanji 580 preserves a short court-balance and Dingtao-burial branch rather than a full account of the Wang purge, Yang Xuan's career, or Aidi's birth-parent ritual policy; Hanji 581 preserves the host's reading of Aidi's renewed-mandate error and does not settle the full Taipingjing textual history, water-clock procedure, or each adviser's private motive; Hanji 585 preserves the host's reading of the Dong Xian relationship and its political consequences rather than a full sexuality, legal, or institutional history; Hanji 586 preserves the source's account of fabricated Dongping-case merit and public-procedure objection rather than the complete Liu Yun case file; Hanji 587 preserves Wu Jianglong's armory and official-slave remonstrance rather than a complete military-fiscal law code; Hanji 588 preserves Bao Xuan's critical memorial and the host's unfit-ruler reading rather than a balanced reign appraisal; Hanji 590 is focused on one corrected Xiongnu reception decision rather than Aidi's broader foreign policy; Hanji 593 and Hanji 597 are focused on Wang Jia's memorials against Dong Xian-centered overfavor and reward; Hanji 594 is focused on Du Ye's omen-coded critique and the source's inference about Aidi's selective hearing; Hanji 598 is focused on Wang Jia, Liang Xiang, and Dong Xian-related court danger; Hanji 599 is focused on Wang Jia's interrogation, death, and immediate personnel aftermath; Hanji 600 preserves a short appointment, memorial-channel, family-advancement, and reception test rather than a full map of Da Sima authority or memorial procedure, and its claim that Dong Xian's power equaled Aidi's is the host's inference; Hanji 601-1 is focused on abdication-coded language, Wang Hong's intervention, and Dong Xian's office risk; Hanji 602 is a short bridge from a court notice to Tai Sui belief; Hanji 603 is focused on the immediate succession crisis; and Hanji 610-2 is focused on funerary timing. Aidi's exact cause of death, full policy record, full Dong Xian relationship, complete Dongping case record, exact armory goods, and full succession process remain source-scoped.
 
 ## What Changed
 
+- Added Hanji 569's personnel-authority test: Fu Taihou forces Aidi to reverse Fu Qian's dismissal, and ministers warn that the contradiction weakens imperial command credibility.
 - Added Hanji 596's partial-reception layer: protection-framed remonstrance wins personnel changes without durable withdrawal of Dong Xian.
 - Added Hanji 600's access-and-compliance layer: Aidi makes Dong Xian a twenty-two-year-old Da Sima and memorial gatekeeper, then rewards Kong Guang's deference through his nephews.
-- Added Hanji 562's accession layer: Aidi begins with thrift and personal government but is quickly constrained by Fu Taihou's residence, title, and kinship demands.
 - Added Hanji 565's banquet-seat hinge: protocol conflict around Fu Taihou and Wang Zhengjun triggers Wang Mang's honored retirement and Fu Xi's sidelining.
 - Added Dong Hong's failed title proposal and Wang Mang/Shi Dan's initial resistance as the first current Dingtao-line title-pressure step.
 
@@ -181,6 +188,8 @@ The wiki does not yet have a full reign narrative for Han Aidi. Hanji 562 is foc
 - [[DingMingWesternHan|丁明]] - high official removed after grieving Wang Jia.
 - [[WangHongWesternHan|王洪]] - official punished after blocking Aidi's abdication remark about Dong Xian.
 - [[FuTaihouWesternHan|傅太后]] - claimed source of the posthumous instruction behind the Hanji 597 reward request.
+- [[FuQianWesternHan|傅迁]] - protected close attendant whose retention exposes Aidi's limited control over personnel.
+- [[WeakAuthorityLeadership|弱势领导威信]] - leadership pattern illustrated by the reversal of Aidi's dismissal decision.
 - [[BanquetSeatingStatusPolitics|宴席座次名分政治]] - protocol mechanism through which Aidi's birth-family pressure becomes visible in Hanji 565.
 - [[DongHongWesternHan|董宏]] - title-proposal actor whose Qin precedent Aidi first forwards and then abandons under official pressure.
 - [[LiangXiangWesternHan|梁相]] - Tingwei whose review request Aidi treats as suspect delay.

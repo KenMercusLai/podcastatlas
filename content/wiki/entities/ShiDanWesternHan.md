@@ -11,7 +11,8 @@ sources:
   - zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6
   - zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo
   - zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk
-last_updated: 2026-09-12
+  - zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6
+last_updated: 2026-10-04
 ---
 
 ## Overview
@@ -23,6 +24,8 @@ last_updated: 2026-09-12
 Hanji 491 and Hanji 498 together show Shi Dan as a succession-stability adviser before the Aidi ritual fights that later define him. In Hanji 491, his intervention is tactical and immediate: he absorbs blame for Liu Ao's controlled mourning behavior so Yuan can reinterpret a seemingly cold crown prince as an obedient one. In Hanji 498, the stakes become formal succession. When Yuan is ill and appears to be testing the possibility of replacing Liu Ao with Liu Kang, Shi Dan gains access to the bedroom, weeps, and asks to die as a model for the ministers who would oppose a change. His strategy is not to insult Liu Kang or defend Liu Ao's personal conduct; it is to make a late heir replacement look like a court-shaking breach of established order. This creates [[DeathbedHeirReplacementResistance|临终废储阻断]] as an earlier Shi Dan pattern: principled access at the right moment can preserve succession continuity.
 
 Hanji 568 shows Shi Dan as a restraining adviser at the beginning of Aidi's reign. After He Wu is removed and Shi Dan is appointed Da Sikong, he warns that ancient rulers in mourning delegated government and did not quickly change the former ruler's way. His criticism targets Aidi's early elevation of Ding and Fu relatives, removal of prior officials, frequent policy changes, and failure to pause before rearranging the power field. The same source makes Shi Dan's advice morally earnest but politically fraught: the host says his repeated direct memorials are moving, while also warning that good intentions can produce bad consequences in factional politics.
+
+Hanji 569 adds a concrete example of that restraining role. After Fu Taihou forces Aidi to reverse Fu Qian's dismissal, Shi Dan joins Kong Guang in warning that contradictory edicts confuse the realm and weaken imperial authority. The episode also shows the political limit of the argument: asking to clear the Fu faction makes institutional correction inseparable from the struggle against Fu-family power.
 
 Hanji 575 shows the substance of the later ritual opposition that later sources only summarize. Shi Dan argues that if Aidi has become Chengdi's successor and inherited the ancestral temple, he cannot separately honor the Dingtao birth-parent line with officials, vehicles, garments, or a capital temple in ways that rival the main imperial hierarchy. The issue is not whether Aidi may feel filial affection, but whether that affection can rewrite [[AdoptiveLineageRitualPolitics|adoptive-lineage ritual obligation]].
 
@@ -38,7 +41,7 @@ Shi Dan therefore functions both as a confidential-remonstrance casualty and as 
 
 - Western Han elder official and former imperial teacher whose learning gives him access and authority but does not protect him from later court punishment.
 - Yuan-era court actor who protects Liu Ao first after a mourning misstep and later through bedroom remonstrance that converts heir replacement into institutional risk.
-- Early Aidi-era Da Sikong who repeatedly advises restraint during mourning and succession settlement.
+- Early Aidi-era Da Sikong who advises restraint during succession settlement and joins the warning against contradictory personnel edicts.
 - Ritual-order opponent of Aidi's attempt to elevate the Dingtao parental line into near-imperial status.
 - Confidential-memorial casualty whose subordinate-copy leak becomes punishable as "great irreverence."
 - Target of Zhu Bo and Zhao Xuan's post-title-settlement cleanup after he had opposed Dong Hong's proposal.
@@ -54,6 +57,7 @@ Shi Dan therefore functions both as a confidential-remonstrance casualty and as 
 - Entrusted assistance: [[zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo|Hanji 498]] says Yuan asks Shi Dan to assist Liu Ao after denying that he plans a replacement.
 - Mourning-restraint advice: [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|Hanji 568]] says Shi Dan urges Aidi not to change former-rule policy too quickly during the early reign and mourning period.
 - Kinship and personnel warning: [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|Hanji 568]] says Shi Dan criticizes Aidi's rapid favoring of Ding and Fu relatives, removal of officials, and unsettled command.
+- Fu Qian remonstrance: [[zizhi-tongjian-hanji-569-nianhui-buneng-ting-doushi-jiade-zhichang-zhandui-caishi-zhende-lvjg3qcsgkq4ltai8mqt6p26smk6|Hanji 569]] says Shi Dan and Kong Guang warn that reversing Fu Qian's dismissal will confuse the realm and damage imperial credibility.
 - Ritual argument: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] says Shi Dan opposes officials, vehicles, garments, and a capital temple for the Dingtao parental line because "supreme" status cannot be doubled.
 - Confidential leak: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] says a subordinate copies and circulates Shi Dan's sealed memorial.
 - Removal and partial mercy: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] says Aidi removes Shi Dan, while Tang Lin's later plea changes the final outcome to guannei marquis status.
@@ -66,21 +70,24 @@ Shi Dan therefore functions both as a confidential-remonstrance casualty and as 
 
 ## Qualifications
 
+Hanji 569 supplies the Fu Qian remonstrance but not the full memorial wording, exact authorship split between Shi Dan and Kong Guang, or the ministers' private factional intent.
+
 Hanji 491 supplies Shi Dan's mourning rescue but not his full crown-prince office history, exact wording, or whether the no-cry instruction was planned before the funeral. Hanji 498 supplies Shi Dan's succession intervention but not his full prior office history, exact words, or private alignment with the crown-prince side. Hanji 568 supplies Shi Dan's early Da Sikong appointment, repeated advice, and the host's good-intentions warning, but not the complete text of every memorial, Aidi's full response, or Shi Dan's later tactical calculations. Hanji 575 supplies Shi Dan's ritual argument, currency-advice inconsistency, leaked-memorial case, removal, and partial mercy, but not the complete received text of his memorials, the subordinate's identity, the full legal file, or Tang Lin's broader career. Hanji 579 gives the immediate Zhu Bo/Zhao Xuan accusation but not Dong Hong's full original memorial, Shi Dan's full impeachment text, or the complete legal formula for reducing him. Hanji 580 only names Shi Dan as the immediately preceding punishment case before the Wang Mang attack. Hanji 626 does not reconstruct the full earlier debate in which Shi Dan opposed Fu Taihou. The page therefore treats him as source-scoped evidence for crown-prince protection, succession intervention, early restraint advice, ritual opposition, secrecy failure, removal, and later retrospective reward, not as a complete biography or independent judgment on every stage of the dispute.
 
 ## What Changed
 
+- Added Hanji 569's concrete edict-consistency warning after Fu Taihou overturns Aidi's dismissal of Fu Qian.
 - Added Hanji 498's pre-Chengdi succession-rescue layer, making Shi Dan's later ritual and restraint profile begin with an earlier successful intervention.
 - Added Hanji 491's earlier mourning-rescue layer, showing Shi Dan protecting Liu Ao through blame absorption before the later bedroom remonstrance.
 - Preserved Hanji 575's ritual-opposition and confidential-memorial leak layer.
 - Reframed Shi Dan as both a secrecy-channel casualty and a later retrospective-restoration figure.
-- Preserved Hanji 579-580's later title-and-fief punishment sequence and Hanji 626's Wang Mang-era restoration.
 
 ## Relationships
 
 - [[WangMang|王莽]] - political authority whose retrospective prosecution enables Shi Dan's restoration.
 - [[ZhuBoWesternHan|朱博]] and [[ZhaoXuanWesternHan|赵璇]] - officials who secure Shi Dan's removal after the title settlement.
 - [[HanAidi|汉哀帝]] - ruler who accepts the earlier punishment.
+- [[FuQianWesternHan|傅迁]] - protected attendant whose retention prompts Shi Dan's warning about command credibility.
 - [[GoodIntentionsPoliticalLimits|Good Intentions Political Limits]] - concept illustrated by Shi Dan's sincere but politically risky remonstrance.
 - [[FuTaihouWesternHan|傅太后]] - figure whose earlier status Shi Dan opposed.
 - [[ConfidentialRemonstranceLeakage|密奏泄露风险]] - concept strengthened by Shi Dan's leaked sealed memorial.
