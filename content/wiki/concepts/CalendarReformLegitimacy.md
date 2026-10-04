@@ -1,32 +1,58 @@
 ---
 title: "Calendar Reform Legitimacy / 历法改革与政治合法性"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [astronomy, calendar, legitimacy, imperial-politics, science-history]
-sources: [zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue, ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e]
-last_updated: 2026-08-22
+sources:
+  - zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue
+  - ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e
+  - zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq
+last_updated: 2026-10-05
 ---
 
-# Calendar Reform Legitimacy / 历法改革与政治合法性
+## Definition
 
-Calendar reform legitimacy is the source's frame for why astronomy mattered politically in [[ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e]]. The episode says ancient Chinese astronomy and calendar work were closely tied to the emperor, omens, eclipse prediction, and the stability of rule, not only to agricultural scheduling.
+Calendar reform legitimacy describes the use of astronomical calculation and calendar standardization as political infrastructure: the state does not only measure time, but publicly aligns rulership, ritual, administration, agriculture, festival life, and claims about cosmic order.
 
-[[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|Hanji 150 PLUS New Year special]] adds a lighter festival-time case. The source says [[HanWudi|汉武帝]] fixed the Xia calendar's first day of the first month as 元旦, making calendar order the basis for [[YuanDanFestivalLayering|元旦节日层累]] rather than only for technical prediction or omen management.
+## Current Synthesis
 
-[[ChongzhenLishu|《崇祯历书》]] becomes the central case. [[XuGuangqi|徐光启]]'s calendar reform was urgent because prediction failure could be read as a crack in the symbolic order. Better astronomical calculation therefore became a state technology and a legitimacy repair mechanism.
+The current evidence spans Western Han and late Ming cases. [[zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq|Hanji 371-2]] presents the Taichu calendar as part of a wider 104 BCE reordering under [[HanWudi|汉武帝]]: the first lunar month becomes the year's beginning, astronomical cycles and intercalation are standardized, and the reform is joined to dynastic color, auspicious number, pitch standards, official titles, and court ritual. [[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|Hanji 150 PLUS]] shows the downstream festival layer by connecting the first day of that first month to [[YuanDanFestivalLayering|元旦]].
 
-The concept also explains why [[Jesuits|Jesuit]] calendar expertise created both access and danger. [[JohannAdamSchallVonBell|汤若望]] could become useful to the court by improving calculation, but the [[YangGuangxian|杨光先]] controversy shows that foreign calendar authority could be attacked as a threat to cultural and political sovereignty.
+[[ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e|EP259]] supplies a later calculation-and-sovereignty case. [[XuGuangqi|徐光启]]'s [[ChongzhenLishu|《崇祯历书》]] project treats eclipse prediction and calendrical accuracy as state capacity and legitimacy repair. [[Jesuits|Jesuit]] expertise can therefore create court access, while the [[YangGuangxian|杨光先]] controversy shows foreign calendar authority becoming a cultural-sovereignty threat.
+
+Across both cases, a calendar is neither neutral arithmetic nor political symbolism alone. Its authority depends on observation, calculation, trained personnel, offices, texts, and ritual adoption; its political meaning changes with the institutional conflict in which those resources are embedded.
 
 ## Key Claims
-- Calendar science can be political infrastructure when rule depends on cosmic order.
-- Eclipse prediction is a technical calculation with legitimacy consequences.
-- Scientific usefulness can give outsiders state access, but that access can trigger backlash.
-- The geocentric or heliocentric status of a model is not the only determinant of calendar accuracy; accumulated observations and calculation technique also matter.
-- The source treats calendar reform as a channel where science, religion, bureaucracy, and empire overlap.
-- Calendar authority also organizes festival time: naming the first day of the first month as 元旦 makes state calendar order visible in household and poetic practice.
 
-## Connections
-- [[ChongzhenLishu|《崇祯历书》]], [[XuGuangqi]], [[JohannAdamSchallVonBell]], and [[YangGuangxian]] - central case cluster.
-- [[HanWudi|汉武帝]] and [[YuanDanFestivalLayering|元旦节日层累]] - Hanji 150 PLUS calendar-and-festival extension.
-- [[LateMingWesternLearning]] and [[ScienceReligionCivilizationTension]] - broader exchange and conflict context.
-- [[ScientificRevolutionSocialInfrastructure]] - calendar reform depends on observations, texts, instruments, offices, and trained personnel.
-- [[ScienceValueTransmission]] - adjacent question of whether technical knowledge carries social values.
+- Calendar science becomes political infrastructure when rulership claims alignment with cosmic and seasonal order.
+- The Taichu reform joins year-start, intercalation, solar terms, planetary periods, official forms, music, color, number, and ritual in one state-ordering program.
+- Calendar authority becomes socially visible through festival time, including the first day of the first month as 元旦.
+- Prediction failure can become a legitimacy problem, giving improved astronomical calculation high political value.
+- Foreign or outsider expertise can gain state access through accuracy while also provoking cultural and sovereignty backlash.
+- Calendar performance depends on observations, calculations, texts, instruments, offices, and trained people rather than on cosmological labels alone.
+
+## Evidence
+
+- Western Han state ordering - [[zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq|Hanji 371-2]] connects the Taichu calendar to astronomical rules, dynastic symbols, offices, pitch standards, and ritual.
+- Festival-time adoption - [[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|Hanji 150 PLUS]] says Wudi-era use of the Xia first month anchors the later 元旦 tradition.
+- Prediction and legitimacy repair - [[ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e|EP259]] treats Xu Guangqi's reform as urgent because eclipse-prediction failure could signal disorder in the ruler-Heaven relationship.
+- Expertise and sovereignty conflict - [[ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e|EP259]] follows Jesuit calculation from usefulness and court access into Yang Guangxian's anti-foreign challenge.
+
+## Counterevidence & Qualifications
+
+The sources are podcast interpretations rather than a complete technical history of either the Taichu calendar or the Chongzhen calendar project. Hanji 371-2's claims that Taichu was China's first complete clearly documented calendar, the world's most advanced calendar, the first to include the twenty-four solar terms, and the first to record five-planet periods require specialist verification. Hanji 150 PLUS gives a cultural overview rather than a textual history of “元旦,” while EP259 warns indirectly against reducing Chinese astronomy to a simple linear path toward modern Western science.
+
+## What Changed
+
+- Added the Taichu calendar as an early imperial case joining astronomical rules to dynastic, musical, bureaucratic, and ritual standardization.
+- Clarified that calendar authority reaches ordinary festival time as well as court prediction and cosmic legitimacy.
+- Preserved the late-Ming expertise-and-sovereignty conflict while qualifying technical priority claims in the new source.
+
+## Related Concepts
+
+- [[YuanDanFestivalLayering]] - shows calendar authority becoming household, food, poetic, and ritual festival practice.
+- [[ShangdiInEarlyImperialRitual]] - adjacent Hanji 371-2 frame linking imperial ritual language to claims about cosmic and exemplary-ruler order.
+- [[ChongzhenLishu]] - late-Ming calendar project through which prediction accuracy becomes state and legitimacy repair.
+- [[LateMingWesternLearning]] - transmission setting that makes foreign astronomical expertise both useful and politically contested.
+- [[ScientificRevolutionSocialInfrastructure]] - explains why calculation requires observations, instruments, texts, offices, and trained personnel.
+- [[ScienceReligionCivilizationTension]] - captures conflict when technical authority also carries religious and civilizational meaning.

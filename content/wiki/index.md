@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！](sources/zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq.md) — 太初元年的明堂祭祀、求仙建宫、太初历改革与匈奴内应支线，展示礼制、历法、建筑和边疆事务如何并置；“上帝”双重词义及历法优先性保留为来源限定。
 - [656. The Ku Klux Klan: Birth of a Nation (Part 3)](sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135.md) — The Rest Is History on the second Klan's formation through Lost Cause media, fraternal ritual, commissioned recruitment, Protestant respectability, early political power, and vigilante violence.
 - [How Hormones Shape Sexual Orientation & Behavior | Dr. Marc Breedlove](sources/how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139.md) — Huberman Lab interview on developmental correlates of sexual orientation, group-versus-individual inference, birth order, and the distinction between sexual motor patterns and partner preference.
 - [《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？](sources/zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi.md) — 李广利首征大宛在沿途断供、逐城取粮和郁成战败中提前耗尽；赵破奴接应匈奴内应失败后又因情报泄露、被围与主帅离营被俘而全军覆没。
@@ -16188,6 +16189,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity whose siege resilience, elite regicide, threatened horse destruction, and negotiated settlement preserve autonomy under overwhelming Han pressure.
 
 ## Concepts
+- [Shangdi in Early Imperial Ritual / 早期帝国礼制中的上帝](concepts/ShangdiInEarlyImperialRitual.md) — bounded frame for reading “上帝” inside early imperial sacrificial and ruler-cult contexts without projecting one modern meaning across periods.
 - [Media Myth to Movement Ritual](concepts/MediaMythToMovementRitual.md) — Process by which dramatized history is adopted as real organizational tradition and repeated political ceremony.
 - [Commercialized Extremist Recruitment](concepts/CommercializedExtremistRecruitment.md) — Commission, territorial sales, required purchases, and grievance targeting used to scale exclusionary membership.
 - [Sexual Behavior–Partner Preference Distinction](concepts/SexualBehaviorPartnerPreferenceDistinction.md) — Boundary separating sexual motor patterns from libido, attraction, aversion, partner choice, and identity across human and animal evidence.
@@ -21557,7 +21559,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prepared High-Value Food Formats / 高价值食材即食化](concepts/PreparedHighValueFoodFormats.md) — EP260 concept for smoked trout, grilled eel, small foie gras packs, baby-food products, and other formats that make skill-intensive foods more consumable.
 - [Late-Ming Western Learning / 晚明西学东渐](concepts/LateMingWesternLearning.md) — EP259 frame for Western knowledge entering China through maps, geometry, calendars, Jesuit strategy, translation, and state needs.
 - [Euclidean Proof Training / 欧几里得式证明训练](concepts/EuclideanProofTraining.md) — EP259 concept for geometry as training in definitions, postulates, proof, and knowing why a result follows.
-- [Calendar Reform Legitimacy / 历法改革与政治合法性](concepts/CalendarReformLegitimacy.md) — EP259 frame for calendar astronomy as imperial legitimacy infrastructure rather than neutral technical calculation.
+- [Calendar Reform Legitimacy / 历法改革与政治合法性](concepts/CalendarReformLegitimacy.md) — Western Han and late-Ming synthesis of calendar astronomy as dynastic, ritual, bureaucratic, festival, and sovereignty infrastructure.
 - [Intellectual Life As Practice / 智识生活作为实践](concepts/IntellectualLifeAsPractice.md) — EP259 answer to how people become smarter: curiosity, reality contact, hard tools, and disciplined reasoning.
 - [Science Value Transmission / 科学价值观传入](concepts/ScienceValueTransmission.md) — EP259 claim that science carries norms around evidence, communication, anti-authoritarianism, dignity, and institutional openness.
 - [Agricultural Relief Statecraft / 农政救荒](concepts/AgriculturalReliefStatecraft.md) — EP259 concept linking Xu Guangqi's agricultural writing to famine survival, crop promotion, and food-security responsibility.

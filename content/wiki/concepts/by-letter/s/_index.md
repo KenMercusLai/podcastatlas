@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9677
+wiki_total_pages: 9678
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "ShangRemnantStateLegitimacy"
     title: "Shang-Remnant State Legitimacy / 商裔封国合法性"
     url: "/wiki/concepts/shangremnantstatelegitimacy/"
+  - key: "ShangdiInEarlyImperialRitual"
+    title: "Shangdi in Early Imperial Ritual / 早期帝国礼制中的上帝"
+    url: "/wiki/concepts/shangdiinearlyimperialritual/"
   - key: "ShanghaiArtDecoArchitecture"
     title: "Shanghai Art Deco Architecture / 上海装饰艺术派建筑"
     url: "/wiki/concepts/shanghaiartdecoarchitecture/"

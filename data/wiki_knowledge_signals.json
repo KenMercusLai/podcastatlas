@@ -29704,6 +29704,36 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/calais/"
     },
+    "CalendarReformLegitimacy": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023 [FjHgTQaC9R_1RPjh6oubMSpqYwUe].md",
+          "key": "zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue/"
+        },
+        {
+          "episode_file": "EP259 与苗师傅漫谈徐光启：四百年前如何让人变聪明？ [lkiRczXnx8SkbBFpMZ5-m-MiVs4e].md",
+          "key": "ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e",
+          "show": "Talk三联",
+          "title": "EP259 与苗师傅漫谈徐光启：四百年前如何让人变聪明？",
+          "url": "/wiki/sources/ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！ [ltllclAtwDDFxLAWrdpgziQLP3Xq].md",
+          "key": "zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/calendarreformlegitimacy/"
+    },
     "CalibratedNegotiationQuestions": {
       "episode_count": 1,
       "show_count": 1,
@@ -88435,9 +88465,9 @@
       "url": "/wiki/entities/gongfuxiong/"
     },
     "GongsunAoWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -88452,9 +88482,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！ [ltllclAtwDDFxLAWrdpgziQLP3Xq].md",
+          "key": "zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/gongsunaowesternhan/"
     },
     "GongsunHeWesternHan": {
@@ -93805,9 +93842,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 23,
+      "episode_count": 24,
       "show_count": 2,
-      "source_note_count": 23,
+      "source_note_count": 24,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -93969,6 +94006,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布",
           "url": "/wiki/sources/zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！ [ltllclAtwDDFxLAWrdpgziQLP3Xq].md",
+          "key": "zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq/"
         }
       ],
       "updated": "2026-10-05",
@@ -192074,6 +192118,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/shangdehuanxingpenalreform/"
+    },
+    "ShangdiInEarlyImperialRitual": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！ [ltllclAtwDDFxLAWrdpgziQLP3Xq].md",
+          "key": "zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/shangdiinearlyimperialritual/"
     },
     "ShangguanAnWesternHan": {
       "episode_count": 3,
