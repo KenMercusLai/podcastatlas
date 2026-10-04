@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12371
+wiki_total_pages: 12372
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1427,6 +1427,9 @@ wiki_pages:
   - key: "LiuChan"
     title: "刘禅 / Liu Chan"
     url: "/wiki/entities/liuchan/"
+  - key: "LiuDuanWesternHan"
+    title: "刘端 / Liu Duan (Western Han)"
+    url: "/wiki/entities/liuduanwesternhan/"
   - key: "LiuYanLiuXiuBrother"
     title: "刘縯 / Liu Yan (Liu Xiu's brother)"
     url: "/wiki/entities/liuyanliuxiubrother/"

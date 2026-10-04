@@ -29796,3 +29796,11 @@ Added source `323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-l
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》367-1｜碰女人就疲软的诸侯王
+
+Added source `zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1sg-lkwl9dtnflxxgkieb79hj`; created [[LiuDuanWesternHan|刘端]]; and resynthesized [[DongZhongshu|董仲舒]], [[GongsunHong|公孙弘]], and [[HanWudi|汉武帝]] from their complete preserved evidence inventories. Core synthesis: Liu Duan's case separates low threat to the throne from severe local governance harm, while Dong Zhongshu's withdrawal shows that temporary patronal respect does not remove structural office danger. The episode's causal link from impotence to cruelty, modern sexual-identity language, Gongsun Hong motive reconstruction, and “美谥” characterization remain source-scoped; no settled contradiction with existing wiki synthesis was adopted. The automatic `wiki/overview.md` was read for context and not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,725 sources and 789 overview paragraphs. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide lightweight validator still reports 20 pre-existing broken links outside this ingest.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

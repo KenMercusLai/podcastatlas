@@ -6,13 +6,14 @@ sources:
   - 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780
   - 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550
   - zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9
-last_updated: 2026-09-14
+  - zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1sg-lkwl9dtnflxxgkieb79hj
+last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Dong Zhongshu / 董仲舒 is currently the wiki's main person marker for Western Han Confucian imperial ideology. Across the bounded sources, he links Confucian political order with Heaven, omens, yin-yang/five-phases technique, and the later charge that official Confucianism could become a moral language for imperial control.
+Dong Zhongshu / 董仲舒 is currently the wiki's main person marker for Western Han Confucian imperial ideology and a bounded case of scholarly survival under dangerous office. Across the sources, he links Confucian political order with Heaven, omens, yin-yang/five-phases technique, imperial control, and the judgment that leaving a violent patron can preserve later intellectual work.
 
 ## Current Profile
 
@@ -22,6 +23,8 @@ The fangshu source makes the religious-technical layer more direct through [[Fan
 
 Hanji 392-4 adds the sharper ideological charge. It presents Dong Zhongshu as the synthesizer who joins Kong-Meng moral language to [[HanFei|韩非]]-style hierarchy and ruler-centered order, producing [[OuterConfucianInnerLegalistGovernance|外儒内法式帝国治理]]: a Confucian surface that can admonish the emperor through Heaven and disasters while also sacralizing imperial supremacy.
 
+Hanji 367-1 adds Dong Zhongshu as an actor inside that imperial order. [[GongsunHong|公孙弘]] recommends him for the Jiaoxi chancellorship in what the episode presents as a rivalry-driven attempt to expose him to [[LiuDuanWesternHan|胶西王刘端]]. Liu Duan respects Dong's scholarly standing, but Dong does not treat personal favor as durable safety: fearing eventual punishment, he leaves through illness and returns to study.
+
 ## Key Characteristics
 
 - Intellectual bridge between Confucian political language and Heaven-linked legitimacy.
@@ -29,6 +32,7 @@ Hanji 392-4 adds the sharper ideological charge. It presents Dong Zhongshu as th
 - Key background for why Wang Mang's sacred and auspicious-sign claims could sound institutionally plausible.
 - In Hanji 392-4, credited with reshaping Confucianism into an imperial ideology compatible with Legalist hierarchy.
 - Ambivalent constraint figure: his Heaven-response system can pressure rulers toward self-criticism, but also gives monarchy sacred elevation.
+- Survival-aware scholar-official who exits a dangerous vassal court despite receiving respectful treatment.
 
 ## Evidence
 
@@ -41,15 +45,18 @@ Technique and omen absorption:
 Official Confucianism as imperial ideology:
 - [[zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9]] says Dong Zhongshu's remaking of Confucianism combines ruler-admonishing Heaven language with Legalist-style hierarchy and imperial supremacy.
 
+Danger recognition and withdrawal:
+- [[zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1sg-lkwl9dtnflxxgkieb79hj]] says Dong receives respectful treatment from Liu Duan but still leaves the Jiaoxi post because the king's broader record makes long-term safety unreliable.
+
 ## Qualifications
 
-The current profile is source-scoped and does not reconstruct Dong Zhongshu's writings independently. Hanji 392-4's claim that "三纲" and later official Confucianism are fundamentally Legalist in origin is preserved as the host's interpretation. The sources agree that Confucian state ideology could absorb omen reasoning, but they do not by themselves settle the full textual history of Dong Zhongshu, Han Fei, Kong-Meng thought, or imperial Confucian orthodoxy.
+The current profile is source-scoped and does not reconstruct Dong Zhongshu's writings independently. Hanji 392-4's claim that "三纲" and later official Confucianism are fundamentally Legalist in origin is preserved as the host's interpretation. Hanji 367-1 supports the danger of the Jiaoxi appointment and Dong's withdrawal, but its modern workplace lesson and exact reconstruction of Gongsun Hong's motive remain interpretive. The sources do not settle the full textual history of Dong Zhongshu, Han Fei, Kong-Meng thought, or imperial Confucian orthodoxy.
 
 ## What Changed
 
-- Migrated the page to `synthesis-v1`.
-- Added Hanji 392-4's sharper profile of Dong Zhongshu as the key synthesizer behind official Han Confucian ideology.
-- Reframed the older omen and fangshu material as part of one ambivalent Heaven-response profile.
+- Added the Jiaoxi chancellorship and timely withdrawal to Dong Zhongshu's current profile.
+- Distinguished temporary respect from structural safety under Liu Duan.
+- Expanded the profile from ideological synthesis alone to the political conditions under which Dong preserved later scholarship.
 
 ## Relationships
 
@@ -60,3 +67,6 @@ The current profile is source-scoped and does not reconstruct Dong Zhongshu's wr
 - [[AuspiciousOmenPolitics]] - political-sign system adjacent to Dong Zhongshu's omen afterlife.
 - [[FangshuSystematization]] - technique environment that Episode 87 links to imperial Confucian ritual statecraft.
 - [[OuterConfucianInnerLegalistGovernance]] - ideological synthesis attributed to Dong Zhongshu by Hanji 392-4.
+- [[GongsunHong|公孙弘]] - rival whose recommendation places Dong in the dangerous Jiaoxi chancellorship.
+- [[LiuDuanWesternHan|胶西王刘端]] - vassal king who respects Dong yet still represents an unacceptable long-term office risk.
+- [[PoliticalSurvivalFirst|安全第一政治生存]] - framework for Dong's decision to leave before temporary protection fails.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》367-1｜碰女人就疲软的诸侯王](sources/zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1sg-lkwl9dtnflxxgkieb79hj.md) — 胶西王刘端的宗室保护、宫廷暴力与地方治理破坏，及董仲舒在公孙弘推动的高风险任命中识险退身。
 - [323-AI是否可以取代翻译？错误的翻译如何塑造现实？](sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf.md) — 独树不成林 episode distinguishing routine AI translation from conceptual judgment and tracing how entrenched terminology shapes political and philosophical interpretation.
 - [EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped](sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped.md) — Data Science With Sam recap of CUDA's flywheel, Nvidia's $1 trillion Blackwell/Vera Rubin order narrative, the inference economy, Groq LPUs, NeMoClaw, physical AI, and open Nemotron models, with naming and deployment claims kept source-scoped.
 - [《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？](sources/zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer.md) — 汉武帝盛年巡祭、卫青去世与刺史监察并置；节目把关键制衡者消失解释为不安全感和控制升级，但保留其因果与制度沿革为来源限定。
@@ -3789,6 +3790,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [刘端 / Liu Duan (Western Han)](entities/LiuDuanWesternHan.md) — 受宗室亲缘保护却以宫廷暴力、税赋阻断和迫害官员制造地方治理风险的西汉胶西王。
 - [Yan Fu / 严复](entities/YanFu.md) — Modern Chinese translator whose rejected alternatives expose conceptual boundaries obscured by later standard terminology.
 - [杨信 / Yang Xin (Western Han envoy)](entities/YangXinWesternHan.md) — 坚持符节与汉使服制、改在帐外谈判并揭开太子入质承诺未成共识的西汉使者。
 - [路充国 / Lu Chongguo (Western Han envoy)](entities/LuChongguoWesternHan.md) — 佩二千石印绶护送匈奴贵人灵柩与厚币、却被单于扣留的西汉使者；讲稿“陆充国”据传世姓名归一为路充国。
