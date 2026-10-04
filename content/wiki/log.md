@@ -29933,3 +29933,11 @@ Added source `zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-da
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事
+
+Added source `zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje`; created [[HuoShanSonOfHuoQubing|霍嬗 / 霍子侯]] with a semantic suffix to distinguish him from the later 霍山; and resynthesized [[GongsunQingFangshi|公孙卿]], [[Penglai|蓬莱]], [[ImmortalityQuestPolitics|求仙政治]], [[FengshanRitualLegitimacy|封禅礼制合法性]], [[Taishan|泰山]], and [[LiangfuMountain|梁父山]] from their complete preserved evidence inventories. Core synthesis: ambiguous sacred reports can scale into endowed worship, ships, thousands of searchers, sealed ritual text, and restricted imperial access even when the emperor doubts part of the evidence. No settled contradiction was adopted; Hanji 361-1 and Hanji 363 overlap around the Donglai footprint and expanded search and are not independent confirmation. Divine cries, giant footprints, the vanished elder, exact ritual dimensions and offices, maritime totals, grief-based motive, and the secret document remain source-scoped. The large Han Wudi profile and automatic `wiki/overview.md` were read for context but not manually rewritten because the durable additions are represented in narrower canonical pages. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,742 sources and retain 789 overview paragraphs. Changed-page links, index coverage, identities, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

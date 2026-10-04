@@ -7,58 +7,55 @@ sources:
   - zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo
   - zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh
   - zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje
+last_updated: 2026-10-05
 ---
 
 ## Overview
 
-泰山 / Taishan is the wiki's sacred-mountain node for fengshan legitimacy. [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]] presents it as the eastern mountain where [[QinShiHuang|秦始皇]] turns post-conquest rule into a claim of heavenly recognition. [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] adds Liu Xiu's 54 CE refusal, where Taishan becomes a warning against premature sacred self-display, while [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] makes Taishan a later current case when [[LiuXiu|光武帝刘秀]] performs the rite after chenwei texts identify Daizong as the destined site for the "ninth Liu."
+泰山 / Taishan is the wiki's sacred-mountain node for imperial sacrifice and [[FengshanRitualLegitimacy|fengshan legitimacy]]. Qin Shi Huang uses it to turn post-conquest sovereignty into a claim of heavenly recognition; Han Wudi makes it a site of sealed text, restricted witnessing, and overnight imperial ascent; Liu Xiu first treats ascent as improper under public resentment and later performs it after chenwei identifies Daizong as a destined site.
 
 ## Current Profile
 
-In Qinji 122-1, Taishan matters because it sits in the eastern cultural world Qin had just conquered. Qin Shi Huang's ascent, road preparation, inscription, and paired movement toward [[LiangfuMountain|梁父山]] make the mountain a visible way to claim that military unification has become [[MandateOfHeavenLegitimacy|天命合法性]]. The source also stresses uncertainty: Qi-Lu scholars disagree about the ritual, so Qin's performance leans on its own heaven-sacrifice practice rather than a stable inherited manual.
+In Qinji 122-1, Taishan matters because it lies in the eastern cultural world Qin had conquered. Qin Shi Huang's prepared route, ascent, inscription, and paired movement toward [[LiangfuMountain|梁父山]] claim that military unification has become [[MandateOfHeavenLegitimacy|天命合法性]]. The source also stresses uncertainty: Qi-Lu scholars disagree, so Qin leans on its own sacrificial practice rather than an inherited manual.
 
-Hanji 729 supplies the negative branch that comes before Liu Xiu's later ceremony. In 54 CE, Liu Xiu refuses ministers' call to ascend Taishan because public resentment would make the rite an attempt to deceive Heaven and disgrace the record of earlier sage kings. The episode explains this through the [[Analects|Analects]] line about Jisun's Taishan sacrifice and Lin Fang, making Taishan a marker of improper ritual overreach as well as sovereign achievement.
+Hanji 361-1 makes Taishan a more secretive access site. The court builds a compact altar, seals an imperial text beneath it, excludes witnesses, and permits only [[HanWudi|汉武帝]] and [[HuoShanSonOfHuoQubing|霍子侯]] to ascend and remain overnight. The mountain here joins public state ceremony to private imperial mediation, while the surrounding coastal search prevents the rite from being cleanly separated from immortality seeking.
 
-Hanji 730 shifts Taishan from post-conquest display to restoration-era completion. Liu Xiu reads `Hetu Huichang Fu`, has officials gather chenwei passages pointing the ninth Liu descendant toward Daizong, and accepts renewed calls for fengshan. The episode then narrates the southern route, firewood heaven sacrifice, imperial ascent, jade-document sealing, and later Liangyin earth sacrifice. Taishan is therefore not just scenery; it is the place where prophecy, ritual material, route, and imperial body make dynastic destiny visible.
+Hanji 729 and Hanji 730 supply the Eastern Han refusal-performance sequence. Liu Xiu rejects ascent in 54 CE because popular grievance would make it an attempt to deceive Heaven, then accepts it in 56 CE after court proposals and chenwei passages point the “ninth Liu” toward Daizong. The later performance joins route, firewood sacrifice, imperial ascent, jade-document sealing, and a paired earth sacrifice at Liangyin.
 
 ## Key Characteristics
 
-- Sacred mountain used for the "封" half of fengshan in both current Qin and Eastern Han source layers.
-- Eastern geography that lets imperial power claim more than military possession: it stages rule before Heaven and conquered or restored political society.
-- Ritual site whose meaning depends on procedure, route, material objects, and paired relationship with Liangfu/Liangyin sacrifice.
-- Site whose legitimacy can be refused when ritual overreach, public resentment, and flattery make ascent improper.
-- Evidence-bound node: current pages support Qin Shi Huang's 219 BCE ceremony plus Liu Xiu's 54 CE refusal and 56 CE ceremony, not a complete history of all Taishan rites.
+- Sacred mountain used for the heaven-facing stage of imperial fengshan in Qin and Han cases.
+- Eastern geography through which conquest or restoration can be staged before Heaven and political society.
+- Site whose meaning depends on route, material objects, sealed texts, witnesses, and a paired lower sacrifice.
+- Site of restricted imperial access in the Han Wudi case and explicit moral refusal in the early Guangwu case.
+- Evidence-bound node for three rulers' episodes, not a complete history of Taishan or Dongyue worship.
 
 ## Evidence
 
-- Qin post-conquest case: [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]] says Qin Shi Huang chooses Taishan for the "封" stage during his 219 BCE eastern tour.
-- Qin ritual uncertainty: [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]] says Qi-Lu scholarly disagreement leaves Qin's own sacrificial procedure to shape the performance.
-- Refusal gate: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] says Liu Xiu refuses a 54 CE Taishan fengshan proposal because popular resentment makes the rite morally unfit.
-- Analects overreach frame: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] explains the Jisun/Taishan line as a warning that ritual status claims can dishonor the claimant.
-- Guangwu prophetic trigger: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] says Liu Xiu reads the "ninth Liu" prophecy and orders related chenwei passages collected before approving the ceremony.
-- Guangwu ritual performance: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] narrates Liu Xiu's Taishan ascent, heaven sacrifice, jade-document sealing, and subsequent earth sacrifice at Liangyin.
+- Qin post-conquest case and ritual uncertainty: [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]] says Qin Shi Huang chooses Taishan during his eastern tour but must rely on Qin-shaped procedure after Qi-Lu disagreement.
+- Han Wudi's restricted rite: [[zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje|Hanji 361-1]] reports the sealed altar, hidden imperial text, exclusive ascent with Huo Zihou, and overnight stay.
+- Guangwu refusal gate: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] says Liu Xiu refuses a 54 CE proposal because popular resentment makes the rite morally unfit and invokes the Analects overreach frame.
+- Guangwu prophetic trigger and performance: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] reports the “ninth Liu” prophecy, collection of chenwei material, ascent, jade-document sealing, and subsequent Liangyin sacrifice.
 
 ## Qualifications
 
-The current Taishan page is bounded to three source notes. Qinji 122-1 treats the Qin ceremony as partly reconstructed under ritual uncertainty; Hanji 729 treats Liu Xiu's refusal as a moral gate against premature sacred display; Hanji 730 treats Liu Xiu's later ceremony through the episode's chenwei-and-frugality frame. The page should not be read as a full religious history of Taishan, Dongyue worship, or every later fengshan performance.
-
-The 54 CE refusal and 56 CE performance in the Liu Xiu material should be treated as a changed-condition sequence, not a contradiction.
+The current Taishan page is bounded to four source notes. Qinji 122-1 presents a partly reconstructed Qin ceremony; Hanji 361-1 does not reveal the sealed document or prove why access was restricted; Hanji 729 and Hanji 730 frame Liu Xiu's refusal and later ceremony through public grievance, prophecy, and frugality. The 54 CE refusal and 56 CE performance are a changed-condition sequence, not a contradiction. None of these notes supplies a full religious history of the mountain.
 
 ## What Changed
 
-- Added Hanji 729 as the refusal and ritual-eligibility branch before Liu Xiu's later ceremony.
-- Migrated Taishan to synthesis-v1 and added Hanji 730 as the Guangwu fengshan case beside Qin Shi Huang's Qinji 122-1 case.
-- Reframed the mountain as a recurring ritual-legitimacy site rather than only Qin Shi Huang's post-conquest eastern-tour setting.
+- Added Han Wudi's sealed altar, hidden text, and restricted overnight ascent.
+- Reframed Taishan as a site where control of witnesses can matter alongside public sacred authorization.
+- Preserved the distinct Qin reconstruction and Guangwu refusal-performance qualifications.
 
 ## Relationships
 
-- [[FengshanRitualLegitimacy|封禅礼制合法性]] - concept explaining why Taishan matters politically in both source cases.
-- [[QinShiHuang|秦始皇]] - ruler who uses Taishan to claim heavenly recognition after unification.
-- [[LiuXiu|光武帝刘秀]] - ruler who uses Taishan to complete chenwei-backed restoration legitimacy.
-- [[Analects|《论语》]] - textual source used in Hanji 729 to explain why improper Taishan sacrifice can expose ritual overreach.
-- [[Confucius|孔子]] - authority invoked through the Analects line criticizing Jisun's Taishan sacrifice.
-- [[LiangfuMountain|梁父山]] - paired lower mountain in the Qin source's "禅" stage.
-- [[MandateOfHeavenLegitimacy|天命合法性]] - sacred authorization frame attached to the mountain rite.
-- [[ImperialTourPoliticalTheater|帝国巡游政治剧场]] - travel-and-presence context for the Qin ceremony and a looser backdrop for Liu Xiu's eastward movement.
-- [[ChenweiPolitics|谶纬政治]] - prophetic-text framework that makes Daizong necessary in the Guangwu case.
+- [[FengshanRitualLegitimacy|封禅礼制合法性]] - concept explaining the mountain's political and ritual work across current cases.
+- [[QinShiHuang|秦始皇]] - ruler using Taishan after unification.
+- [[HanWudi|汉武帝]] - ruler whose ascent foregrounds secrecy and controlled access.
+- [[HuoShanSonOfHuoQubing|霍嬗 / 霍子侯]] - sole named companion in Han Wudi's summit rite.
+- [[LiuXiu|光武帝刘秀]] - ruler whose refusal and later performance form the Eastern Han case.
+- [[LiangfuMountain|梁父山]] - paired lower sacred site in the Qin and Han Wudi branches.
+- [[MandateOfHeavenLegitimacy|天命合法性]] - broader sacred-authorization frame attached to the mountain rite.
+- [[ImmortalityQuestPolitics|求仙政治]] - adjacent field entangled with Han Wudi's coastal and mountain actions.
+- [[ChenweiPolitics|谶纬政治]] - prophetic-text framework making Daizong necessary in the Guangwu case.

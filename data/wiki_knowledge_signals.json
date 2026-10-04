@@ -76489,9 +76489,9 @@
       "url": "/wiki/entities/fengzhenfootballcommentator/"
     },
     "FengshanRitualLegitimacy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山 [lkcyayuQrTsGy_K4BhdvY-L_LaPo].md",
@@ -76513,9 +76513,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事 [lpgClrt_XAUNEYHM0ri9bi-UEnjE].md",
+          "key": "zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/fengshanrituallegitimacy/"
     },
     "FengyishanBattleLateHan": {
@@ -89129,9 +89136,9 @@
       "url": "/wiki/entities/gongsunluxinofficial/"
     },
     "GongsunQingFangshi": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！ [ltllclAtwDDFxLAWrdpgziQLP3Xq].md",
@@ -89160,6 +89167,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》363｜汉武帝见到神仙之后的传说",
           "url": "/wiki/sources/zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事 [lpgClrt_XAUNEYHM0ri9bi-UEnjE].md",
+          "key": "zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje/"
         }
       ],
       "updated": "2026-10-05",
@@ -105608,6 +105622,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/huoqubing/"
     },
+    "HuoShanSonOfHuoQubing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事 [lpgClrt_XAUNEYHM0ri9bi-UEnjE].md",
+          "key": "zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/huoshansonofhuoqubing/"
+    },
     "HuoXianWesternHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -107111,9 +107141,9 @@
       "url": "/wiki/concepts/immigrationdnadatabaseexpansion/"
     },
     "ImmortalityQuestPolitics": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》126｜秦始皇死因之谜（2） [ln15p5qb7Lc20GOni1IbcPmN3wca].md",
@@ -107177,6 +107207,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密",
           "url": "/wiki/sources/zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事 [lpgClrt_XAUNEYHM0ri9bi-UEnjE].md",
+          "key": "zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje/"
         }
       ],
       "updated": "2026-10-05",
@@ -128296,6 +128333,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/liangyueasternhan/"
+    },
+    "LiangfuMountain": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山 [lkcyayuQrTsGy_K4BhdvY-L_LaPo].md",
+          "key": "zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事 [lpgClrt_XAUNEYHM0ri9bi-UEnjE].md",
+          "key": "zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/liangfumountain/"
     },
     "LiangzhouLateHan": {
       "episode_count": 3,
@@ -165397,6 +165457,29 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/pengxuanwesternhan/"
+    },
+    "Penglai": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》122-2｜日本人到底是不是徐福的后代？ [lhgBbhG3ZW8rlX1JJb7LPB5IhiHH].md",
+          "key": "zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》122-2｜日本人到底是不是徐福的后代？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事 [lpgClrt_XAUNEYHM0ri9bi-UEnjE].md",
+          "key": "zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/penglai/"
     },
     "PenicillinBand": {
       "episode_count": 1,
@@ -208520,9 +208603,9 @@
       "url": "/wiki/entities/tairanomasakado/"
     },
     "Taishan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山 [lkcyayuQrTsGy_K4BhdvY-L_LaPo].md",
@@ -208544,9 +208627,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》729丨班固他爹竟也是个大文豪？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事 [lpgClrt_XAUNEYHM0ri9bi-UEnjE].md",
+          "key": "zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/taishan/"
     },
     "TaiwanAILabs": {

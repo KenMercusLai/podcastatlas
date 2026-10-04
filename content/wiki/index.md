@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事](sources/zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje.md) — 汉武帝把异声、足迹与消失老人等含混神异报告转化为祭祀奉邑、蓬莱海搜和增派人员，并以封坛秘文及霍子侯独陪登山完成泰山秘密祭天。
 - [《资治通鉴·汉纪》362-1｜他被称为皇帝的钱袋子，到底有啥能耐？](sources/zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff.md) — 桑弘羊以盐铁、平准和物资储备扩充汉武帝财政，同时留下国库成效与市场民生代价必须分开衡量的问题。
 - [《资治通鉴·汉纪》363｜汉武帝见到神仙之后的传说](sources/zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5.md) — 公孙卿以东莱神人之说推动汉武帝东巡与扩大求仙；瓠子决口支线则把田蚡阻修、郭昌征工、群臣背薪、导河和宣房宫连成治水与政治动员。
 - [244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义](sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457.md) — 博物志从甲骨、金文、经学、宋版书与印刷技术讲到《永乐大典》和帝王实录，提出保存、复制、开放、解释并交给未来使用的知识长期主义。
@@ -3806,6 +3807,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？](sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_.md) — 卜式借旱灾批评桑弘羊使官吏入市逐利，并串联异星祥瑞、齐王刘弘早逝与读史的现实意义。
 
 ## Entities
+- [霍嬗 / 霍子侯 / Huo Shan (son of Huo Qubing)](entities/HuoShanSonOfHuoQubing.md) — 霍去病之子与爵位继承人，在来源中以侍中、奉车都尉身份成为唯一陪同汉武帝秘密登泰山过夜的随员，并与后世霍山明确消歧。
 - [宣房宫 / Xuanfang Palace](entities/XuanfangPalace.md) — 汉武帝时期建于瓠子决口修复地的宫室，在来源中兼具减缓水患的实用功能与展示治河能力的政治象征。
 - [田蚡 / Tian Fen (Western Han)](entities/TianFenWesternHan.md) — 在来源中因封地受益而劝阻及时修复瓠子决口、体现权臣私利影响公共治水优先级的西汉丞相。
 - [《永乐大典》 / Yongle Dadian](entities/YongleDadian.md) — Ming classified compilation whose immense hand-copied scale, rhyme-based indexing, narrow readership, duplication, dispersal, and textual afterlife expose both preservation ambition and fragility.
@@ -9049,7 +9051,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丰邑 / 丰县 / Feng County](entities/FengCounty.md) — Liu Bang-held place entrusted to Yong Chi and then lost when Yong Chi defects to Zhou Shi's restoration line.
 - [赵歇 / Zhao Xie](entities/ZhaoXie.md) — Old Zhao royal descendant installed by Zhang Er and Chen Yu after Wu Chen's death and Li Liang's defeat.
 - [景驹 / Jing Ju](entities/JingJu.md) — Provisional Chu claimant set up by Qin Jia and Ning Jun after Chen Sheng's collapse; transcript renders him as 景居.
-- [公孙卿 / Gongsun Qing (fangshi)](entities/GongsunQingFangshi.md) — Western Han fangshi whose tower advice, Donglai divine-encounter report, drought interpretation, and calendar participation turn specialist claims into court action.
+- [公孙卿 / Gongsun Qing (fangshi)](entities/GongsunQingFangshi.md) — Western Han fangshi whose overlapping Donglai encounter reports, tower advice, drought interpretation, and calendar participation turn unverifiable specialist claims into court action.
 - [公孙庆 / Gongsun Qing](entities/GongsunQing.md) — Qin Jia envoy killed by Tian Dan after a failed attempt to coordinate Jing Ju's Chu branch with Qi.
 - [英布 / 黥布 / Ying Bu](entities/YingBu.md) — Jiujiang king and former Chu vanguard whose trust fracture with Xiang Yu becomes open defection after Sui He's public commitment trap.
 - [吴芮 / Wu Rui](entities/WuRui.md) — Panyang magistrate and Lord Pan who marries his daughter to Ying Bu and directs him against Qin.
@@ -9132,9 +9134,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黄帝 / Huangdi](entities/Huangdi.md) — Mythic ruler invoked source-scopingly as a possible route model for Qin Shi Huang's repeated post-unification tours.
 - [琅琊山 / Langya Mountain](entities/LangyaMountain.md) — Sea-facing eastern-tour site where Qin Shi Huang stays, relocates households, and erects the Langya inscription.
 - [齐地八神 / Qi Eight Spirits](entities/QiEightSpirits.md) — Former Qi local deities whose worship lets Qin Shi Huang claim the conquered eastern sacred landscape.
-- [蓬莱 / Penglai](entities/Penglai.md) — Immortal island invoked in Xu Fu's sea-search explanation, functioning as unverifiable sacred geography in Qin immortality politics.
-- [泰山 / Taishan](entities/Taishan.md) — Sacred mountain used for Qin Shi Huang's post-conquest fengshan, Liu Xiu's 54 CE refusal gate, and his later chenwei-backed restoration fengshan.
-- [梁父山 / Liangfu Mountain](entities/LiangfuMountain.md) — Mountain paired with Taishan for the "禅" stage of Qin Shi Huang's fengshan route.
+- [蓬莱 / Penglai](entities/Penglai.md) — Verification-resistant immortal destination that converts Qin and Western Han court desire into ships, supplies, personnel, and repeated maritime search.
+- [泰山 / Taishan](entities/Taishan.md) — Sacred mountain used for Qin post-conquest legitimation, Han Wudi's restricted secret rite, and Liu Xiu's refusal-then-performance sequence.
+- [梁父山 / Liangfu Mountain](entities/LiangfuMountain.md) — Lower sacred site paired with Taishan in Qin Shi Huang's “禅” route and Han Wudi's 帝主 and cattle-shooting rite.
 - [驰道 / Qin Chidao Road System](entities/QinChidao.md) — Qin imperial road network described by Qinji 121 as wide tamped routes with restricted central imperial lanes, side lanes, trees, and controlled crossings.
 - [极庙 / Qin Ji Miao](entities/QinJimiao.md) — Qin Shi Huang's renamed ritual building south of the Wei River, read in Qinji 121 as an earthly counterpart to the heavenly pole and Taiyi worship.
 - [太一 / Taiyi](entities/Taiyi.md) — Supreme deity inferred by Qinji 121 as the likely target of Qin Ji Miao's heaven-centered sacrifice.
@@ -20311,7 +20313,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial Local-God Conflict / 皇权与地方神冲突](concepts/ImperialLocalGodConflict.md) — Pattern where imperial travel meets local sacred authority and may choose incorporation or punitive domination.
 - [琅琊刻石政治纲领 / Langya Inscription Political Program](concepts/LangyaInscriptionPoliticalProgram.md) — Qinji 122-2 frame for public inscription as Qin doctrine about agriculture, standards, law, peace, and universal imperial authority.
 - [徐福日本后裔传说 / Xu Fu Japan Descent Legend](concepts/XuFuJapanDescentLegend.md) — Source-critical boundary separating Japanese Xu Fu shrines and legends from proven descent claims.
-- [Fengshan Ritual Legitimacy / 封禅礼制合法性](concepts/FengshanRitualLegitimacy.md) — Ritual-legitimacy frame for turning conquest or restoration into heavenly authorization through Taishan-centered fengshan, with refusal when timing makes the rite improper.
+- [Fengshan Ritual Legitimacy / 封禅礼制合法性](concepts/FengshanRitualLegitimacy.md) — Taishan-centered ritual frame joining heavenly authorization, controlled sacred access, procedural reconstruction, and refusal when conditions make performance improper.
 - [Imperial Tour Political Theater / 帝国巡游政治剧场](concepts/ImperialTourPoliticalTheater.md) — Pattern where ruler travel acts as inspection, display, coercion, and legitimacy work across newly ruled territory.
 - [High-Temple Rite / 高庙礼](concepts/HighTempleRite.md) — Ancestral-temple legitimation frame linking Qin post-unification achievement reporting with Liu Xiu's Luoyang restoration ritual order.
 - [Qin Cosmic Capital Planning / 秦代宇宙化都城规划](concepts/QinCosmicCapitalPlanning.md) — Qinji 121 frame for Ji Miao, Taiyi, Lishan roads, covered passages, and the Wei River as an earthly copy of celestial order.
@@ -22130,7 +22132,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ancient Chinese Soul Summoning / 招魂](concepts/AncientChineseSoulSummoning.md) — Chu-centered soul ritual frame for illness, fainting, death anxiety, and body-soul explanations.
 - [Yin-Yang Five-Phases Political Theory / 阴阳五行政治理论](concepts/YinYangFivePhasesPoliticalTheory.md) — Cosmological classification system that joins natural categories, historical cycles, dynastic legitimacy, and claimant self-authorization.
 - [Chicken-Bone Divination / 鸡骨占卜](concepts/ChickenBoneDivination.md) — Ritual system joining sacrifice, prepared bone-and-bamboo patterns, specialist interpretation, and textual transmission.
-- [Immortality Quest Politics / 求仙政治](concepts/ImmortalityQuestPolitics.md) — Pattern where imperial death anxiety turns immortal belief into expenditure, patronage, secrecy, and coercion.
+- [Immortality Quest Politics / 求仙政治](concepts/ImmortalityQuestPolitics.md) — Pattern where imperial mortality anxiety and unverifiable sacred access turn into maritime search, architecture, patronage, secrecy, and coercion.
 - [Fangshi Fraud And Authority / 方士骗术与权威](concepts/FangshiFraudAndAuthority.md) — Specialist-authority pattern where hidden-cause claims, props, staging, and failure reinterpretation can become predatory extraction.
 - [Wugu Political Panic / 巫蛊政治恐慌](concepts/WuguPoliticalPanic.md) — Qin-Han and Eastern Han curse-accusation pattern where hidden ritual suspicion, staged anomaly, illness, denunciation, torture, palace rivalry, and succession fear produce state violence.
 - [Fangshu Systematization / 方术系统化](concepts/FangshuSystematization.md) — Process by which omens, immortality arts, healing, talismans, alchemy, divination, and fengshui become textual and religious systems.

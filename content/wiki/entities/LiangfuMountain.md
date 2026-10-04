@@ -1,26 +1,52 @@
 ---
 title: "梁父山 / Liangfu Mountain"
 type: entity
-tags: [mountain, ritual, qin, china]
-sources: [zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]
-last_updated: 2026-08-22
+knowledge_schema: synthesis-v1
+tags: [mountain, ritual, qin, han, china]
+sources:
+  - zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo
+  - zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje
+last_updated: 2026-10-05
 ---
 
-# 梁父山 / Liangfu Mountain
+## Overview
 
-[[LiangfuMountain|梁父山]] appears in [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]] as the lower mountain near [[Taishan|泰山]] where [[QinShiHuang|嬴政 / 秦始皇]] performs the "禅" half of the fengshan sequence. In the episode's reconstruction, Qin Shi Huang ascends Taishan from the south, performs the "封" component on the summit, then descends from the north toward Liangfu for the paired sacrifice.
+梁父山 / Liangfu Mountain is the lower sacred site paired with [[Taishan|泰山]] in the current Qin and Western Han ritual sources. Qinji 122-1 assigns it the “禅” stage after Qin Shi Huang's Taishan ascent; Hanji 361-1 places Han Wudi there for sacrifice to the “帝主” before his sealed and restricted Taishan ceremony.
 
-The page is intentionally narrow. Liangfu matters here because the episode uses the Taishan-Liangfu pair to make [[FengshanRitualLegitimacy|封禅礼制合法性]] concrete: legitimacy is staged through a route, two ritual stations, prepared road access, inscription, and secrecy around the communication with Heaven.
+## Current Profile
 
-## Key Claims
-- Liangfu is the mountain associated with "禅" in Qin Shi Huang's ceremony.
-- Its paired position with [[Taishan]] helps turn fengshan into a spatial sequence rather than a single mountain visit.
-- The source does not provide a broader independent history of Liangfu; the wiki keeps the page source-scoped to this ritual route.
+In Qinji 122-1, [[QinShiHuang|秦始皇]] ascends Taishan from the south, performs the “封” component, and descends north toward Liangfu for the paired “禅” sacrifice. The site turns [[FengshanRitualLegitimacy|fengshan]] into a route across distinct ritual stations rather than a single mountain visit.
 
-## Connections
-- [[Taishan]] - paired site for the "封" stage.
-- [[QinShiHuang]] - emperor performing the sequence.
-- [[FengshanRitualLegitimacy]] - ritual-legitimacy concept the site helps instantiate.
-- [[MandateOfHeavenLegitimacy]] - sacred approval frame.
-- [[ImperialTourPoliticalTheater]] - wider eastern-tour setting.
-- [[ZizhiTongjian]] - chronicle frame the source expands.
+Hanji 361-1 adds a Western Han use without proving that every procedural detail matches the Qin case. [[HanWudi|汉武帝]] stops at Liangfu, sacrifices to the “帝主,” and orders Confucian attendants in deer-skin caps to participate in a cattle-shooting rite before moving to Taishan. Liangfu therefore remains part of the paired sacred geography, but this source calls the act a specific deity sacrifice rather than explicitly defining it as the standard “禅” stage.
+
+## Key Characteristics
+
+- Lower sacred mountain paired with Taishan in the current Qin and Han Wudi sources.
+- “禅” site in the Qinji 122-1 reconstruction of Qin Shi Huang's ceremony.
+- Site of Han Wudi's 帝主 and cattle-shooting rite before his Taishan ascent.
+- Route-making node that shows imperial ritual unfolding across places, offices, clothing, offerings, and controlled access.
+
+## Evidence
+
+- Qin paired ceremony: [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]] assigns Liangfu the lower “禅” stage after Qin Shi Huang's Taishan ascent.
+- Western Han sacrifice: [[zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje|Hanji 361-1]] places Han Wudi at Liangfu for the 帝主 sacrifice, deer-skin-capped attendants, and cattle shooting before the Taishan ceremony.
+- Spatial sequence: [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]] and [[zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje|Hanji 361-1]] make the meaning of Liangfu depend on its pairing with Taishan rather than treating it as an isolated mountain visit.
+
+## Qualifications
+
+The current page is bounded to two podcast source notes. Qinji 122-1 reconstructs uncertain Qin procedure after Qi-Lu scholarly disagreement. Hanji 361-1 reports a 梁父帝主 sacrifice but does not explicitly say that this act is procedurally identical to Qin Shi Huang's “禅” stage. The deity name, clothing, cattle-shooting procedure, and exact route remain source-scoped.
+
+## What Changed
+
+- Added Han Wudi's Liangfu sacrifice as a second imperial case.
+- Migrated the page to synthesis-v1.
+- Qualified the difference between Qin's named “禅” stage and Han Wudi's reported 帝主 rite.
+
+## Relationships
+
+- [[Taishan|泰山]] - paired upper site in the current ritual routes.
+- [[QinShiHuang|秦始皇]] - ruler associated with the Qin “禅” stage.
+- [[HanWudi|汉武帝]] - ruler associated with the Western Han 帝主 sacrifice.
+- [[FengshanRitualLegitimacy|封禅礼制合法性]] - framework that makes the paired geography politically meaningful.
+- [[MandateOfHeavenLegitimacy|天命合法性]] - broader sacred-authorization frame.
+- [[ImperialTourPoliticalTheater|帝国巡游政治剧场]] - travel-and-presence context surrounding both ritual routes.
