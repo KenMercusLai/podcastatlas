@@ -43148,6 +43148,29 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/commandlawoverpersonalties/"
     },
+    "CommandSynchronizationFailure": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？ [lubinu6HOIHU59kNMLixMaRYhnq7].md",
+          "key": "zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？ [lttkI-nkMYZVt3Q1wxOmv0-HPmMK].md",
+          "key": "zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/commandsynchronizationfailure/"
+    },
     "CommanderRiskMoraleSignaling": {
       "episode_count": 1,
       "show_count": 1,
@@ -125396,9 +125419,9 @@
       "url": "/wiki/entities/ligulatehan/"
     },
     "LiGuangHanGeneral": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -125406,15 +125429,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？ [lttkI-nkMYZVt3Q1wxOmv0-HPmMK].md",
+          "key": "zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk/"
         }
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/liguanghangeneral/"
     },
     "LiGuangliWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》389-2｜历史揭秘：谁是写“检讨书”最多的王 [lvNAmm5Dza3S9AO8OfCsHHIYnsU1].md",
@@ -125429,6 +125459,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》388-1｜杀妻杀子之后，汉武帝为何族灭大舅子李广利？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-388-1-shaqi-shazi-zhihou-hanwudi-weihe-zumie-dajiuzi-liguangli-lkkwpivpwqpeg5kd7azu-wmdqmgb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？ [lttkI-nkMYZVt3Q1wxOmv0-HPmMK].md",
+          "key": "zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk/"
         }
       ],
       "updated": "2026-09-14",
@@ -125602,9 +125639,9 @@
       "url": "/wiki/entities/likashing/"
     },
     "LiLingWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗 [lrvKyakUzpNv77uoq4wkRt7VcUZY].md",
@@ -125633,6 +125670,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？ [lttkI-nkMYZVt3Q1wxOmv0-HPmMK].md",
+          "key": "zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk/"
         }
       ],
       "updated": "2026-10-04",
@@ -133787,9 +133831,9 @@
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
     },
     "LuBodeWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -133797,6 +133841,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？ [lttkI-nkMYZVt3Q1wxOmv0-HPmMK].md",
+          "key": "zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk/"
         }
       ],
       "updated": "2026-09-15",
@@ -238885,9 +238936,9 @@
       "url": "/wiki/entities/zhaochonglatehan/"
     },
     "ZhaoChongguoWesternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -238951,6 +239002,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？ [lttkI-nkMYZVt3Q1wxOmv0-HPmMK].md",
+          "key": "zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk/"
         }
       ],
       "updated": "2026-09-14",

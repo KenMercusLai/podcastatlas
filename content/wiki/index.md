@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？](sources/zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk.md) — 李陵拒绝运粮角色、请率五千步兵分散匈奴兵力，路博德的延期奏议被汉武帝误判后使原定接应部署分离。
 - [《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！](sources/zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri.md) — 李陵以车阵、弓弩、地形与伤兵分工抵抗优势匈奴骑兵，管敢叛逃泄密与箭械耗尽使有序撤退转为绝境突围。
 - [657. The Ku Klux Klan: American Fascists (Part 4)](sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855.md) — The Rest Is History on the second Klan's social normalization, violence, women's organizing, political machine, Stephenson scandal, collapse, and qualified fascism comparison.
 - [崔健×罗永浩！去天堂和去地狱，都要带上艺术家](sources/cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii.md) — 罗永浩与崔健谈四十周年演出、怀旧与继续创作、现场连接、专辑形态、低成本制作、音乐学习和 AI 边界。
@@ -5577,7 +5578,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《中国人口史》 / Zhongguo Renkoushi](entities/ZhongguoRenkoushi.md) — population-history work cited for correcting raw household-register figures.
 - [张献忠 / Zhang Xianzhong](entities/ZhangXianzhong.md) — Late-Ming figure used by Hanji 388-4 as one named actor in Sichuan war-devastation memory.
 - [敬城王 / Jingcheng Wang](entities/JingchengWangMing.md) — Ming royal-family example for imperial-clan population expansion and tax-funded stipend burden.
-- [李广利 / Li Guangli (Western Han)](entities/LiGuangliWesternHan.md) — Western Han general whose failed Xiongnu expedition and later sacrificial death frame Han Wudi's Luntai self-criticism in Hanji 389-2.
+- [李广利 / Li Guangli (Western Han)](entities/LiGuangliWesternHan.md) — Western Han general whose 99 BCE campaign frames Li Ling's deployment and whose later defeat, surrender, and death frame Han Wudi's Luntai self-criticism.
 - [刘屈氂 / Liu Quli (Western Han)](entities/LiuQuliWesternHan.md) — Late Western Han chancellor ordered to suppress Liu Ju in the Wugu crisis before later in-law succession plotting with Li Guangli around Liu Bo destroys him.
 - [昌邑王刘髆 / Liu Bo, King of Changyi (Western Han)](entities/LiuBoChangyiKingWesternHan.md) — Han Wudi and Lady Li's son, enfeoffed in 97 BCE before becoming the passive succession candidate around whom Li Guangli and Liu Quli align.
 - [李夫人 / Lady Li (Western Han)](entities/LadyLiWesternHan.md) — Han Wudi consort, Li Guangli's sister, and Liu Bo's mother in Hanji 388-1's succession-risk chain.
@@ -5646,9 +5647,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tian Yannian (Western Han)](entities/TianYannianWesternHan.md) — Huo Guang confidant and da sinong whose corruption case becomes fatal after he lies to his patron.
 - [常惠 / Chang Hui (Western Han)](entities/ChangHuiWesternHan.md) — Western Han envoy-commander linking Xieyou's Wusun appeal, Wusun's anti-Xiongnu strike, Cheshi extraction, and Liu Xiangfu's recall.
 - [苏武 / Su Wu (Western Han)](entities/SuWuWesternHan.md) — Western Han envoy whose Xiongnu exile, staff-holding refusal, mourning, and return define Hanji 398's loyalty case.
-- [李广 / Li Guang (Western Han general)](entities/LiGuangHanGeneral.md) — Famous Western Han general whose family reputation frames Li Ling's surrender tragedy in Hanji 380-1.
-- [李陵 / Li Ling (Western Han)](entities/LiLingWesternHan.md) — Surrendered former Han officer whose Li Guang lineage, mistaken blame, family destruction, Xiongnu incorporation, and later encounter with Su Wu make him a tragic contrast rather than a flat defector.
-- [路博德 / Lu Bode (Western Han)](entities/LuBodeWesternHan.md) — Qiangnu Duwei assigned to join Li Guangli's anti-Xiongnu expedition in Hanji 380-1.
+- [李广 / Li Guang (Western Han general)](entities/LiGuangHanGeneral.md) — Famous Western Han general whose reputation and martial traits become Li Ling's inherited model and identity burden.
+- [李陵 / Li Ling (Western Han)](entities/LiLingWesternHan.md) — Former Han officer whose volunteer infantry plan, failed support, resilient battle, surrender, family destruction, and Su Wu encounter form an expanding tragedy.
+- [路博德 / Lu Bode (Western Han)](entities/LuBodeWesternHan.md) — Western Han commander whose support-role resistance and seasonal-delay memorial are misattributed to Li Ling before their missions diverge.
 - [韩说 / Han Shuo (Western Han)](entities/HanShuoWesternHan.md) — Youji General whose Wuyuan infantry force returns without achievement in Hanji 380-1's anti-Xiongnu campaign.
 - [公孙敖 / Gongsun Ao (Western Han)](entities/GongsunAoWesternHan.md) — Repeatedly appointed Western Han general whose failed Li Ling search, consequential report, recurring convictions, and final destruction form Hanji 380-2's second tragedy.
 - [李绪 / Li Xu (Western Han)](entities/LiXuWesternHan.md) — Surrendered officer identified as the actual Xiongnu trainer behind the accusation placed on Li Ling and later killed in Li Ling's retaliation.
@@ -6693,7 +6694,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Niya Site / 尼雅遗址](entities/NiyaSite.md) — Minfeng-Hotan archaeological site anchoring the brocade, Jingjue tomb context, and oasis-decline reconstruction.
 - [Jingjue Kingdom / 精绝古国](entities/JingjueKingdom.md) — Western Regions oasis polity reconstructed through Niya evidence, Han protection, regional pressure, and ecological decline.
 - [Western Regions Protectorate / 西域都护府](entities/WesternRegionsProtectorate.md) — Han frontier institution that turns Xiongnu defection, oasis-polity supervision, credible protection, and capable protectors into Western Regions order.
-- [Zhao Chongguo / 赵充国 (Western Han)](entities/ZhaoChongguoWesternHan.md) — Western Han general tied to deterrent Xiongnu standoff, Qiang coalition-splitting, 河湟屯田, truthful reporting, and the brocade's "讨南羌" interpretation.
+- [Zhao Chongguo / 赵充国 (Western Han)](entities/ZhaoChongguoWesternHan.md) — Western Han general whose arc runs from a wounded 99 BCE breakout to deterrence, Qiang coalition-splitting, 河湟屯田, and truthful reporting.
 - [朱邑 / Zhu Yi (Western Han)](entities/ZhuYiWesternHan.md) — Western Han 大司农 remembered for clean public service, frugal conduct, fiscal office, and local posthumous worship.
 - [Emperor Xuan of Han / 汉宣帝](entities/EmperorXuanOfHan.md) — Western Han ruler whose page combines earthquake amnesty and talent reassessment, name-change mercy, five-star omen campaign setting, prison-to-emperor reign evaluation, Xiongnu/Western Regions achievements, deathbed entrustment, and succession turning point.
 - [田戎 / Tian Rong (Yiling, Eastern Han)](entities/TianRongYilingEasternHan.md) — Yiling regional power whose self-titled armed field later becomes a failed-surrender case through Xin Chen's theft, defection, suspicious letter, and divination.
@@ -20047,7 +20048,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [榻上策二分天下 / Ta Shang Ce Bipartite Strategy](concepts/TaShangCeBipartiteStrategy.md) — Lu Su's Hanji 1052 plan for Sun Quan to hold Jiangdong, control the Yangtze, and pursue a two-part天下 before later three-kingdom constraints.
 - [名声约束下的战争节制 / Reputation-Constrained War Restraint](concepts/ReputationConstrainedWarRestraint.md) — Pattern where mourning, reputation, public burden, disaster anxiety, fiscal strain, frontier balance, and enemy-creation risk delay, restrain, or argue against opportunistic attack.
 - [Legitimacy Indictment Warfare / 正当性控诉战](concepts/LegitimacyIndictmentWarfare.md) — Pattern where spoken or written accusations recast a rival as a public wrongdoer, from Liu Bang's anti-Xiang Yu speech to Chen Lin's anti-Cao proclamation.
-- [Command Synchronization Failure / 军令同步失灵](concepts/CommandSynchronizationFailure.md) — breakdown where diplomacy and military command keep executing incompatible mandates after conditions change, making Li Shiqi's Qi success fatal.
+- [Command Synchronization Failure / 军令同步失灵](concepts/CommandSynchronizationFailure.md) — breakdown where obsolete orders, motive misattribution, or role conflict cause diplomatic, combat, and support channels to execute incompatible intent.
 - [Substitutional Escape Sacrifice / 代身突围牺牲](concepts/SubstitutionalEscapeSacrifice.md) — Hanji 162-1 pattern where a retainer impersonates the ruler to draw enemy attention, save the leader, and accept lethal consequence.
 - [Heart-Field Ethics / 心田处世伦理](concepts/HeartFieldEthics.md) — Hanji 161 part 4 relationship frame where timely help, crisis support, accumulated good conduct, and cultivated heart-field shape fortune and human relations.
 - [求财先明道 / Wealth Through Dao Frame](concepts/WealthThroughDaoFrame.md) — Hanji 920 wealth ethic that treats money as the visible result of grasping rules, trends, value, human feeling, and moral limits.

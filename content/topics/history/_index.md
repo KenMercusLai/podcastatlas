@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2556
+topic_total_pages: 2555
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -259,9 +259,6 @@ topic_concepts:
   - key: "ComedyShapingHistoricalMemory"
     title: "Comedy Shaping Historical Memory"
     url: "/wiki/concepts/comedyshapinghistoricalmemory/"
-  - key: "CommandSynchronizationFailure"
-    title: "Command Synchronization Failure / 军令同步失灵"
-    url: "/wiki/concepts/commandsynchronizationfailure/"
   - key: "CommonEnemyAlliance"
     title: "Common-Enemy Alliance / 共同敌人联盟"
     url: "/wiki/concepts/commonenemyalliance/"

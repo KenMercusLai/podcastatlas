@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89
   - zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0
   - zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri
+  - zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk
 last_updated: 2026-10-04
 ---
 
 ## Overview
 
-李陵 / Li Ling is a Western Han officer whose surrender to [[Xiongnu|匈奴]] becomes an expanding tragedy rather than a single loyalty judgment. His inherited reputation as [[LiGuangHanGeneral|李广]]'s grandson, tactically resilient but unsupported infantry campaign, insider-exposed collapse, mistaken attribution, family destruction, Xiongnu incorporation, and later encounter with [[SuWuWesternHan|苏武]] together explain why the sources present him as compromised, aggrieved, and morally self-aware rather than as a flat defector.
+李陵 / Li Ling is a Western Han officer whose surrender to [[Xiongnu|匈奴]] becomes an expanding tragedy rather than a single loyalty judgment. His inherited reputation as [[LiGuangHanGeneral|李广]]'s grandson, rejection of a transport role, infantry-only volunteer plan, support failure, tactically resilient campaign, insider-exposed collapse, mistaken attribution, family destruction, Xiongnu incorporation, and later encounter with [[SuWuWesternHan|苏武]] together explain why the sources present him as compromised, aggrieved, and morally self-aware rather than as a flat defector.
 
 ## Current Profile
 
 [[zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89|Hanji 380-1]] supplies Li Ling's origin and battlefield layer: a fatherless posthumous son of the Li military lineage, he seeks frontier service, fights a much larger Xiongnu force with five thousand infantry, and surrenders after defeat and capture. The wider setting is [[HanWudi|汉武帝]]'s exhausted anti-Xiongnu system of costly multi-route campaigns, drought, frontier fear, and monopoly finance.
+
+[[zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk|Hanji 377-1]] now supplies the deployment mechanism. Wudi first uses Li Ling to train five thousand Danyang and Chu archers and assigns him to transport provisions for [[LiGuangliWesternHan|李广利]]. Li Ling asks instead to draw off Xiongnu forces with those five thousand men; when Wudi says no horses are available, Li Ling volunteers to fight as infantry. Wudi accepts and assigns [[LuBodeWesternHan|路博德]] as support, but Lu's request to wait until spring is attributed to Li Ling's supposed fear. Wudi then separates their missions, turning a request for independent combat into an unsupported September deployment.
 
 [[zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri|Hanji 377-2]] resolves the tactical details that Hanji 380-1 only previewed. Li Ling maps his route, builds cart defenses, layers shields and halberds before bows and crossbows, uses mountain and forest ground against cavalry, assigns wounded soldiers by remaining capability, and counters reed-bed fire by burning a local firebreak. The same source explains why repeated local success does not become escape: [[GuanGanWesternHan|管敢]] reveals the absence of reinforcement, depleted arrows, and the flagged forward elements under Li Ling and [[HanYannianWesternHan|韩延年]], after which blocked roads, ammunition exhaustion, lost carts, and valley attack reduce the force to an unsuccessful night breakout.
 
@@ -28,16 +31,18 @@ last_updated: 2026-10-04
 ## Key Characteristics
 
 - Li Guang's grandson and posthumous son, carrying inherited military reputation into frontier service.
+- Cavalry archer and soldier-centered trainer who rejects a logistics-only assignment and volunteers his five thousand-man infantry force for a diversionary combat role.
 - Infantry commander who combines mapping, field defenses, ranged weapons, terrain, fire control, and injury-based task allocation against a much larger mounted force.
-- Isolated commander whose tactical system collapses through cumulative depletion and insider disclosure before defeat, capture, and surrender begin the larger tragedy.
+- Isolated commander whose lack of support begins with a court misreading of Lu Bode's memorial and whose tactical system later collapses through cumulative depletion and insider disclosure.
 - Victim of an episode-attributed misidentification that turns attempted retrieval into the execution of his family.
-- Retaliator who has Li Xu killed after learning who supplied the conduct wrongly attributed to him.
-- Xiongnu elite insider through the chanyu's protection, marital tie, rank, and military authority.
+- Retaliator who has Li Xu killed before becoming a Xiongnu elite insider through the chanyu's protection, marital tie, rank, and military authority.
 - Morally self-aware persuader who recognizes Su Wu's loyalty while judging his own return foreclosed by guilt and humiliation.
 
 ## Evidence
 
 - Lineage and battlefield origin: [[zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89|Hanji 380-1]] says Li Ling is Li Guang's grandson, loses his father before birth, seeks anti-Xiongnu service, and fights with five thousand infantry before defeat and capture.
+- Training and volunteer plan: [[zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk|Hanji 377-1]] says Li Ling is skilled in riding and archery, cares for soldiers, trains five thousand archers, rejects a grain-transport assignment, and offers to divide Xiongnu attention without cavalry.
+- Support-plan failure: [[zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk|Hanji 377-1]] says Wudi first orders Lu Bode to support Li Ling, then reads Lu's delay request as Li Ling's cowardice and sends the two commanders on separate missions.
 - Tactical resilience: [[zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri|Hanji 377-2]] describes Li Ling's mapped reconnaissance, cart enclosure, layered infantry formation, terrain use, wound-based role allocation, counterfire, and repeated fighting withdrawal.
 - Collapse mechanism: [[zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri|Hanji 377-2]] says Guan Gan reveals the lack of reinforcement and arrows, after which the Xiongnu cut the route and the Han force loses ammunition, carts, weapons, and escape capacity; Han Yannian dies in the breakout.
 - Mistaken blame and family destruction: [[zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0|Hanji 380-2]] says Wudi sends Gongsun Ao to retrieve Li Ling, then kills Li Ling's family after hearing that he trains Xiongnu forces; the episode later identifies Li Xu as the trainer.
@@ -47,13 +52,13 @@ last_updated: 2026-10-04
 
 ## Qualifications
 
-These four podcast sources do not settle Li Ling's complete campaign, surrender intent, exact battle geography, troop and casualty totals, fifty-wan-arrow figure, the captive-intelligence chain, legal procedure for killing his family, exact Xiongnu title, inner motives, poetry attributed to him, or the broader historiographical debate. Hanji 377-2's supplied summary writes “管感” and “俊吉山,” normalized here to [[GuanGanWesternHan|管敢]] while preserving the geographic wording as episode-attributed; Hanji 380-2's supplied summary writes “李旭,” normalized to the received-history [[LiXuWesternHan|李绪 / Li Xu]] identity. The page preserves the episodes' tragic synthesis without treating every dialogue, number, motive, or court detail as independently verified.
+These five podcast sources do not settle Li Ling's complete campaign, surrender intent, exact battle geography, troop and casualty totals, fifty-wan-arrow figure, the captive-intelligence chain, legal procedure for killing his family, exact Xiongnu title, inner motives, poetry attributed to him, or the broader historiographical debate. Hanji 377-1 dates the deployment to 99 BCE, while Hanji 380-1 associates its wider campaign frame with 97 BCE; the sources may be compressing different stages and are not silently harmonized here. Hanji 377-2's supplied summary writes “管感” and “俊吉山,” normalized here to [[GuanGanWesternHan|管敢]] while preserving the geographic wording as episode-attributed; Hanji 380-2's supplied summary writes “李旭,” normalized to the received-history [[LiXuWesternHan|李绪 / Li Xu]] identity. The page preserves the episodes' tragic synthesis without treating every dialogue, number, motive, or court detail as independently verified.
 
 ## What Changed
 
-- Replaced the compressed battle preview with a detailed account of Li Ling's reconnaissance, combined formation, terrain use, manpower adaptation, and fire defense.
-- Identified insider disclosure, ammunition exhaustion, lost equipment, and route closure as the linked collapse mechanism rather than treating numerical inferiority alone as sufficient explanation.
-- Added Han Yannian's breakout death and Guan Gan's normalized identity while keeping figures, dialogue, and geography source-scoped.
+- Added the pre-battle sequence from training and grain transport through Li Ling's infantry-only volunteer request.
+- Identified Lu Bode's rejected support role and Wudi's motive misattribution as the command failure preceding battlefield isolation.
+- Flagged the 99/97 BCE chronology mismatch while preserving the later tactical and aftermath synthesis.
 
 ## Relationships
 
@@ -61,9 +66,11 @@ These four podcast sources do not settle Li Ling's complete campaign, surrender 
 - [[LiGuangHanGeneral|李广]] - grandfather whose military reputation forms Li Ling's inherited identity burden.
 - [[Xiongnu|匈奴]] - receiving polity that converts Li Ling from captive and surrenderer into an elite military insider.
 - [[HanWudi|汉武帝]] - ruler whose attempted repair reverses into irreversible family punishment after reported intelligence.
+- [[LuBodeWesternHan|路博德]] - intended support commander whose delay memorial is misattributed to Li Ling and helps separate the deployment.
 - [[GongsunAoWesternHan|公孙敖]] - search commander whose failed mission and report trigger the episode's punishment chain.
 - [[LiXuWesternHan|李绪]] - officer identified as the actual trainer and later killed in Li Ling's retaliation.
 - [[ExileLoyaltyThroughRitualToken|持节守节式流亡忠诚]] - contrast concept embodied by Su Wu and recognized but not replicated by Li Ling.
 - [[HanYannianWesternHan|韩延年]] - forward commander and breakout companion killed during the final pursuit.
 - [[GuanGanWesternHan|管敢]] - insider whose defection reveals the force's remaining weaknesses and targeting markers.
 - [[TerrainFormationForceMultiplication|地形阵型战力放大]] - tactical pattern explaining Li Ling's prolonged resistance and the resource limits that finally undo it.
+- [[CommandSynchronizationFailure|军令同步失灵]] - command pattern linking support-role resistance, motive misreading, and deployment divergence before battle.

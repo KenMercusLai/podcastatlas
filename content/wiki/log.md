@@ -29573,3 +29573,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？
+
+Added source `zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk`; resynthesized [[LiLingWesternHan|李陵]], [[LiGuangHanGeneral|李广]], [[LiGuangliWesternHan|李广利]], [[LuBodeWesternHan|路博德]], [[ZhaoChongguoWesternHan|赵充国]], and [[CommandSynchronizationFailure|军令同步失灵]] from their complete preserved evidence inventories. Core synthesis: Li Ling's infantry campaign is shaped before combat by a rejected logistics role, lack of cavalry, Lu Bode's resistance to support duty, a plausible seasonal-delay argument, and Han Wudi's misattribution of that memorial to Li Ling's fear. Zhao Chongguo gains an early breakout-and-wounds layer, while Li Guangli gains a distinct 99 BCE campaign layer. The 99/97 BCE chronology mismatch with Hanji 380-1 is preserved rather than silently reconciled; force figures, casualty counts, motives, dialogue, geography, and exact command structure remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,697-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
