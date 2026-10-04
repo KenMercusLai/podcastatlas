@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1448
+topic_total_pages: 1449
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -22,6 +22,9 @@ topic_concepts:
   - key: "AcquiredTraitInheritanceBoundary"
     title: "Acquired-Trait Inheritance Boundary"
     url: "/wiki/concepts/acquiredtraitinheritanceboundary/"
+  - key: "ActorAutonomyAndBoundary"
+    title: "Actor Autonomy and Boundary / 演员职业自主与边界"
+    url: "/wiki/concepts/actorautonomyandboundary/"
   - key: "ActorObserverBias"
     title: "Actor-Observer Bias / 行动者-观察者偏差"
     url: "/wiki/concepts/actorobserverbias/"

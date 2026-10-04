@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9628
+wiki_total_pages: 9631
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -941,6 +941,9 @@ wiki_pages:
   - key: "PlatformAgentAccessConflict"
     title: "Platform-Agent Access Conflict"
     url: "/wiki/concepts/platformagentaccessconflict/"
+  - key: "PlatformEraActorVisibilityLabor"
+    title: "Platform-Era Actor Visibility Labor / 平台时代演员可见性劳动"
+    url: "/wiki/concepts/platformeraactorvisibilitylabor/"
   - key: "PlatformLevelBiotechBD"
     title: "Platform-Level Biotech BD"
     url: "/wiki/concepts/platformlevelbiotechbd/"

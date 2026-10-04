@@ -142,6 +142,13 @@
       "url": "/topics/history/"
     }
   ],
+  "103-duihua-yanyuan-guoxiaoting-ta-zai-guochanju-li-zhangda-ye-kanzhe-guochanju-bianhua-gkwrimaoeesma84v2atvmtsf": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "103-the-norse-sagas-glt8280648151": [
     {
       "key": "history",
@@ -10529,6 +10536,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ActorAutonomyAndBoundary": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ActorLikenessAuthorization": [

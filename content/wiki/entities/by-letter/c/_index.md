@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12285
+wiki_total_pages: 12288
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1757,6 +1757,9 @@ wiki_pages:
   - key: "ChuantouXushi"
     title: "《穿透叙事》"
     url: "/wiki/entities/chuantouxushi/"
+  - key: "ChunzhenNiandaiDeAiqing"
+    title: "《纯真年代的爱情》"
+    url: "/wiki/entities/chunzhenniandaideaiqing/"
   - key: "Cangcheng"
     title: "《苍城》"
     url: "/wiki/entities/cangcheng/"

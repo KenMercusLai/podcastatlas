@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9628
+wiki_total_pages: 9631
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "ActorAIPerformanceBoundary"
     title: "Actor AI Performance Boundary / 演员与 AI 表演边界"
     url: "/wiki/concepts/actoraiperformanceboundary/"
+  - key: "ActorAutonomyAndBoundary"
+    title: "Actor Autonomy and Boundary / 演员职业自主与边界"
+    url: "/wiki/concepts/actorautonomyandboundary/"
   - key: "ActorLikenessAuthorization"
     title: "Actor Likeness Authorization / 演员脸部授权"
     url: "/wiki/concepts/actorlikenessauthorization/"

@@ -83,6 +83,10 @@
     "title": "102.江湖丛谈：骗术、黑话和民间道义",
     "url": "/wiki/sources/102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488/"
   },
+  "103-duihua-yanyuan-guoxiaoting-ta-zai-guochanju-li-zhangda-ye-kanzhe-guochanju-bianhua-gkwrimaoeesma84v2atvmtsf": {
+    "title": "103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化",
+    "url": "/wiki/sources/103-duihua-yanyuan-guoxiaoting-ta-zai-guochanju-li-zhangda-ye-kanzhe-guochanju-bianhua-gkwrimaoeesma84v2atvmtsf/"
+  },
   "103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789": {
     "title": "103.她是刺穿夜雾的光，她是汉娜·阿伦特",
     "url": "/wiki/sources/103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789/"
@@ -5902,6 +5906,10 @@
   "ActorAIPerformanceBoundary": {
     "title": "Actor AI Performance Boundary / 演员与 AI 表演边界",
     "url": "/wiki/concepts/actoraiperformanceboundary/"
+  },
+  "ActorAutonomyAndBoundary": {
+    "title": "Actor Autonomy and Boundary / 演员职业自主与边界",
+    "url": "/wiki/concepts/actorautonomyandboundary/"
   },
   "ActorLikenessAuthorization": {
     "title": "Actor Likeness Authorization / 演员脸部授权",
@@ -18083,6 +18091,10 @@
     "title": "淳于长 / Chunyu Zhang (Western Han)",
     "url": "/wiki/entities/chunyuzhangwesternhan/"
   },
+  "ChunzhenNiandaiDeAiqing": {
+    "title": "《纯真年代的爱情》",
+    "url": "/wiki/entities/chunzhenniandaideaiqing/"
+  },
   "ChurchCulturalMemory": {
     "title": "Church Cultural Memory",
     "url": "/wiki/concepts/churchculturalmemory/"
@@ -19534,6 +19546,10 @@
   "ComparativeMedicine": {
     "title": "Comparative Medicine / 比较医学",
     "url": "/wiki/concepts/comparativemedicine/"
+  },
+  "CompassionateCharacterInterpretation": {
+    "title": "Compassionate Character Interpretation / 悲悯式角色理解",
+    "url": "/wiki/concepts/compassionatecharacterinterpretation/"
   },
   "CompassionateCuriosity": {
     "title": "Compassionate Curiosity",
@@ -35115,6 +35131,10 @@
     "title": "顾准",
     "url": "/wiki/entities/guzhun/"
   },
+  "GuaiNiGuofenMeili": {
+    "title": "《怪你过分美丽》",
+    "url": "/wiki/entities/guainiguofenmeili/"
+  },
   "GuaitanLiterature": {
     "title": "怪谈文学 / Guaitan Literature",
     "url": "/wiki/concepts/guaitanliterature/"
@@ -35498,6 +35518,10 @@
   "GuoWeiWarringStates": {
     "title": "郭隗 / Guo Wei (Warring States)",
     "url": "/wiki/entities/guoweiwarringstates/"
+  },
+  "GuoXiaoting": {
+    "title": "郭晓婷 / Guo Xiaoting",
+    "url": "/wiki/entities/guoxiaoting/"
   },
   "GuoYiLateHan": {
     "title": "郭揖 / Guo Yi (late Han)",
@@ -62234,6 +62258,10 @@
   "PlatformDependencyRisk": {
     "title": "Platform Dependency Risk",
     "url": "/wiki/concepts/platformdependencyrisk/"
+  },
+  "PlatformEraActorVisibilityLabor": {
+    "title": "Platform-Era Actor Visibility Labor / 平台时代演员可见性劳动",
+    "url": "/wiki/concepts/platformeraactorvisibilitylabor/"
   },
   "PlatformExpressInterdependence": {
     "title": "电商平台与快递网络互相依赖",

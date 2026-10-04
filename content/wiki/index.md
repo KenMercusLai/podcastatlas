@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化](sources/103-duihua-yanyuan-guoxiaoting-ta-zai-guochanju-li-zhangda-ye-kanzhe-guochanju-bianhua-gkwrimaoeesma84v2atvmtsf.md) — 展开讲讲 conversation on actor autonomy, craft, role access, platform-era visibility labor, audience interpretation, and Chinese television change through 郭晓婷's career.
 - [Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush](sources/banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8.md) — How I Built This founder story on chickpea-pasta formulation, industrial transfer failure, retail and packaging growth, glyphosate-response pressure, and deliberately increasing exposure to luck.
 - [Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson](sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715.md) — Huberman Lab interview on gastrointestinal physiology, fiber and microbial metabolites, intestinal barrier integrity, screening, GLP-1 tradeoffs, metabolic monitoring, and multimodal obesity treatment.
 - [How attitudes toward AI differ across generations](sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128.md) — Marketplace Tech with Rana el Kaliouby on family AI disagreement, writing as thought, Arabic archive access, dialogic literacy, bias, and human-connection boundaries.
@@ -3725,6 +3726,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
 
 ## Entities
+- [郭晓婷 / Guo Xiaoting](entities/GuoXiaoting.md) — Chinese actor whose career account connects childhood sets, formal training, active role pursuit, precision craft, autonomy, and platform-era adaptation.
+- [《怪你过分美丽》](entities/GuaiNiGuofenMeili.md) — Television production used as the career and performance case for 郭晓婷's active pursuit of Lin Xiang.
+- [《纯真年代的爱情》](entities/ChunzhenNiandaiDeAiqing.md) — Television production used to examine Fang Mujing, precision acting, audience close reading, and role publicity.
 - [Banza](entities/Banza.md) — Chickpea-pasta company shaped by category reframing, manufacturing-transfer failure, retail growth, and later evidence-response pressure.
 - [Brian Rudolph](entities/BrianRudolph.md) — Banza co-founder combining personal product fit, opportunity seeking, manufacturing persistence, and later crisis-response revision.
 - [Scott Rudolph](entities/ScottRudolph.md) — Banza co-founder and Brian Rudolph's early adviser and operating partner.
@@ -16059,6 +16063,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dangote Petroleum Refinery](entities/DangotePetroleumRefinery.md) — Nigerian refinery whose proposed $50bn local listing is a test of scale, ownership access, and market depth.
 
 ## Concepts
+- [Actor Autonomy and Boundary / 演员职业自主与边界](concepts/ActorAutonomyAndBoundary.md) — Decision-rights framework for roles, working conditions, publicity, health, private life, and professional self-definition.
+- [Platform-Era Actor Visibility Labor / 平台时代演员可见性劳动](concepts/PlatformEraActorVisibilityLabor.md) — Work that makes actors and characters legible across production assets, metrics, short video, fandom, and audience analysis.
+- [Compassionate Character Interpretation / 悲悯式角色理解](concepts/CompassionateCharacterInterpretation.md) — Acting approach that seeks motive, constraint, and vulnerability without confusing understanding with moral approval.
 - [Novel Food Manufacturing Transfer Risk](concepts/NovelFoodManufacturingTransferRisk.md) — Risk that a kitchen or small-plant product changes under faster equipment, larger runs, or ingredient-inexperienced operators.
 - [Consumer Brand Evidence Response](concepts/ConsumerBrandEvidenceResponse.md) — Two-track crisis system combining fast uncertainty communication with slower testing, traceability, certification, and public results.
 - [Deliberate Luck Surface](concepts/DeliberateLuckSurface.md) — Portfolio of bounded attempts that increases exposure to useful people, feedback, distribution paths, and favorable surprises.

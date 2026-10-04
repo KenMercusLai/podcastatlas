@@ -29305,3 +29305,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化
+
+Added source `103-duihua-yanyuan-guoxiaoting-ta-zai-guochanju-li-zhangda-ye-kanzhe-guochanju-bianhua-gkwrimaoeesma84v2atvmtsf`; created [[GuoXiaoting]], [[GuaiNiGuofenMeili]], [[ChunzhenNiandaiDeAiqing]], [[ActorAutonomyAndBoundary]], [[PlatformEraActorVisibilityLabor]], and [[CompassionateCharacterInterpretation]]; and resynthesized [[ZhankaiJiangjiang]], [[ArtsCareerFormation]], [[ActingOpportunityReadiness]], and [[EmbodiedActingImprovisation]] from their complete preserved evidence inventories. Core synthesis: sustainable acting joins craft with control—training and active pursuit improve readiness without allocating roles; precision and embodied release can coexist; visibility work can introduce a character without making metrics the purpose of performance; and boundaries around health, choice, fandom, and private life preserve agency. No settled contradiction was adopted. Industry periodization, production memories, casting history, audience response, work details, and the supplied name variation remain source-scoped. The automatic overview was updated during normal ingest, then only read by downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,663-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

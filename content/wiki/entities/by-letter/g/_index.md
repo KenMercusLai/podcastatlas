@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12285
+wiki_total_pages: 12288
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1067,6 +1067,9 @@ wiki_pages:
   - key: "Gufen"
     title: "《孤愤》 / Gu Fen"
     url: "/wiki/entities/gufen/"
+  - key: "GuaiNiGuofenMeili"
+    title: "《怪你过分美丽》"
+    url: "/wiki/entities/guainiguofenmeili/"
   - key: "GhostInTheShellStandaloneComplex"
     title: "《攻壳机动队 STAND ALONE COMPLEX》 / Ghost in the Shell: Stand Alone Complex"
     url: "/wiki/entities/ghostintheshellstandalonecomplex/"
@@ -1538,6 +1541,9 @@ wiki_pages:
   - key: "GuoMingzhong"
     title: "郭明忠 / Guo Mingzhong"
     url: "/wiki/entities/guomingzhong/"
+  - key: "GuoXiaoting"
+    title: "郭晓婷 / Guo Xiaoting"
+    url: "/wiki/entities/guoxiaoting/"
   - key: "GuoSiLateHan"
     title: "郭汜 / Guo Si (late Han)"
     url: "/wiki/entities/guosilatehan/"
