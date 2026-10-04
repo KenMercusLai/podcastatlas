@@ -29911,3 +29911,11 @@ Added source `244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zh
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？
+
+Added source `zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_`; created [[BuShiWesternHan|卜式]] and [[LiuHongQiKingWesternHan|齐王刘弘]]; and resynthesized [[SangHongyangWesternHan|桑弘羊]], [[StateCommercialMonopolyExtraction|官营商业垄断式汲取]], and [[HistoryAsLifeResource|历史作为生命资源]] from their complete preserved evidence inventories. Core synthesis: Bu Shi distinguishes tax-supported government from officials entering markets for profit and turns that objection into drought-responsibility language; the episode also converts unusual stars into favorable fengshan legitimacy, records Liu Hong's early childless death, and frames sustained historical study as temporal depth for present judgment. No settled contradiction was adopted; rainfall causation, astronomical identification, omen sincerity, Liu Hong's detailed biography, and universal claims about historical reading remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. No topic claim set was dirty and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,739 sources and retain 789 overview paragraphs.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -28318,6 +28318,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/buheshiyi/"
     },
+    "BuShiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？ [loZ3Ly12PUdLVdRTJnGxs8f1qi6_].md",
+          "key": "zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/bushiwesternhan/"
+    },
     "BuYangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -100390,9 +100406,9 @@
       "url": "/wiki/concepts/historicalworldviewreconstruction/"
     },
     "HistoryAsLifeResource": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "llhGtepdsZPYV65xkizXvAqUiicu [llhGtepdsZPYV65xkizXvAqUiicu].md",
@@ -100400,9 +100416,16 @@
           "show": "忽左忽右",
           "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
           "url": "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？ [loZ3Ly12PUdLVdRTJnGxs8f1qi6_].md",
+          "key": "zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/historyasliferesource/"
     },
     "HitlerMemoryAndMoralAnalogy": {
@@ -130536,6 +130559,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/liuhehaihunhou/"
+    },
+    "LiuHongQiKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？ [loZ3Ly12PUdLVdRTJnGxs8f1qi6_].md",
+          "key": "zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/liuhongqikingwesternhan/"
     },
     "LiuHongweiStandup": {
       "episode_count": 1,
@@ -189301,9 +189340,9 @@
       "url": "/wiki/entities/sandalsresorts/"
     },
     "SangHongyangWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
@@ -189339,9 +189378,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》391-2｜揭秘汉武帝死前任命的“托孤大臣”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？ [loZ3Ly12PUdLVdRTJnGxs8f1qi6_].md",
+          "key": "zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/sanghongyangwesternhan/"
     },
     "SangQianWesternHan": {
@@ -202652,9 +202698,9 @@
       "url": "/wiki/concepts/statecollapsecascade/"
     },
     "StateCommercialMonopolyExtraction": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的 [lslupw7c76POANJ-zzmh59z1iOfR].md",
@@ -202676,9 +202722,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》397-1｜辩论四个月的盐铁会议，究竟说了啥？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-397-1-bianlun-si-ge-yue-de-yantie-huiyi-jiujing-shuo-le-sha-lrhr5v36pylcysgeg-u3k9f1zuxv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？ [loZ3Ly12PUdLVdRTJnGxs8f1qi6_].md",
+          "key": "zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/statecommercialmonopolyextraction/"
     },
     "StateDependentSelfControl": {

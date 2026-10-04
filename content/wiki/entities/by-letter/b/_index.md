@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12392
+wiki_total_pages: 12394
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1364,6 +1364,9 @@ wiki_pages:
   - key: "BoJing"
     title: "博靖 / Bo Jing"
     url: "/wiki/entities/bojing/"
+  - key: "BuShiWesternHan"
+    title: "卜式 / Bu Shi (Western Han)"
+    url: "/wiki/entities/bushiwesternhan/"
   - key: "BuYangLateHan"
     title: "卜阳 / Bu Yang (late Han)"
     url: "/wiki/entities/buyanglatehan/"

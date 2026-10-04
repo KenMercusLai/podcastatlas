@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr
   - zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui
   - zizhi-tongjian-hanji-397-1-bianlun-si-ge-yue-de-yantie-huiyi-jiujing-shuo-le-sha-lrhr5v36pylcysgeg-u3k9f1zuxv
-last_updated: 2026-09-14
+  - zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_
+last_updated: 2026-10-05
 ---
 
 # 官营商业垄断式汲取 / State Commercial Monopoly Extraction
@@ -24,11 +25,13 @@ The Western Han version appears through [[HanWudi|汉武帝]]'s禁榷-style poli
 
 Hanji 397-1 makes the same pattern more granular by showing how monopoly becomes a consumption and distribution burden. Official iron tools can be low quality, misfit local needs, expensive, and inconvenient to buy; unsold inventory can become forced sales. Official salt distribution can raise the price of a necessity, replace barter or credit with cash-only payment, turn official travel into local hospitality costs, and convert quotas into headcount charges, arrests, and flight.
 
+[[zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_|Hanji 362-2]] supplies an earlier and unusually compressed normative objection. During a drought, [[BuShiWesternHan|卜式]] says court needs should be met through taxes and condemns [[SangHongyangWesternHan|桑弘羊]] for making officials sit in shops, sell goods, and seek profit. His proposed remedy is violent and cosmological, but the institutional distinction is clear: public revenue collection is not the same activity as direct official commerce.
+
 The concept differs from a general resource monopoly because the episode emphasizes day-to-day market participation: official commercial agencies buy and sell, punish rival merchants, extend state-backed credit, and extract interest or commercial profit. Its strongest claim is not that the state never needs revenue, but that direct state operation can damage the very commercial base that fiscal policy depends on.
 
 ## Key Claims
 
-- Treasury gain can conceal public harm when fiscal success is measured by state revenue rather than market vitality or livelihood.
+- Treasury gain can conceal public harm when fiscal success is measured by state revenue rather than market vitality or livelihood; Bu Shi's tax-versus-trade distinction shows that critics could reject official profit-seeking without rejecting public revenue itself.
 - Official commercial bodies have coercive advantages over private merchants, so "competition" with the state can become punishment risk.
 - Credit policy can become monopoly extraction when the state controls lending and captures interest while excluding private capital.
 - State monopoly over ordinary commerce can depress trade by making merchants avoid the market rather than enter it.
@@ -44,16 +47,18 @@ The concept differs from a general resource monopoly because the episode emphasi
 - Western Han profitable-goods monopoly: [[zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui|Hanji 396-3]] says Han Wudi's court took high-profit goods into state monopoly and removed key income fields from merchants.
 - Enforcement bundle: [[zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui|Hanji 396-3]] connects monopoly with 算缗 tax assessment and 告缗 denunciation rewards, making commercial profit and concealed property targets of fiscal enforcement.
 - Everyday monopoly burden: [[zizhi-tongjian-hanji-397-1-bianlun-si-ge-yue-de-yantie-huiyi-jiujing-shuo-le-sha-lrhr5v36pylcysgeg-u3k9f1zuxv|Hanji 397-1]] says official iron and salt systems produce poor goods, high prices, cash friction, forced purchases, local hospitality costs, and coercive quota enforcement.
+- Tax-versus-trade boundary: [[zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_|Hanji 362-2]] attributes to Bu Shi the view that the court should rely on taxation rather than officials occupying market shops and pursuing profit.
 - Dynastic-cycle frame: [[zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr|Hanji 396-4]] cites Wei Sen's cycle in which revived commerce is later damaged by official monopoly, producing fiscal difficulty, heavier peasant extraction, and revolt.
 
 ## Counterevidence & Qualifications
 
-The concept currently rests on three short episodes with pronounced anti-monopoly interpretations. It should not be used as a complete evaluation of either the Wang Anshi reforms or Han Wudi's fiscal system, nor as proof that all public economic intervention is extractive. Hanji 397-1 adds vivid examples of product, price, and sales coercion, but not a full administrative or quantitative history of salt and iron offices. It also leaves open how much Northern Song collapse or Western Han commercial decline should be attributed to these policies versus military, diplomatic, factional, ecological, monetary, regional, and administrative factors.
+The concept currently rests on four short episodes with pronounced anti-monopoly interpretations. It should not be used as a complete evaluation of either the Wang Anshi reforms or Han Wudi's fiscal system, nor as proof that all public economic intervention is extractive. Hanji 397-1 adds vivid examples of product, price, and sales coercion, but not a full administrative or quantitative history of salt and iron offices. Hanji 362-2 preserves Bu Shi's polemical accusation without reconstructing the policy bundle or proving a link between official commerce and drought. The sources leave open how much Northern Song collapse or Western Han commercial decline should be attributed to these policies versus military, diplomatic, factional, ecological, monetary, regional, and administrative factors.
 
 ## What Changed
 
 - Added Hanji 396-3's Western Han monopoly, merchant-tax, and告缗 enforcement layer.
 - Added Hanji 397-1's everyday-distribution layer: state monopoly harms households through quality, price, access, cash demands, quotas, and official harassment.
+- Added Hanji 362-2's explicit boundary between tax-supported government and officials selling in markets for profit.
 
 ## Related Concepts
 

@@ -3801,6 +3801,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 - [Essentials: Using Salt to Optimize Mental & Physical Performance](sources/essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044.md) — Condensed Huberman Lab episode on sodium-water homeostasis, contextual intake, exercise replacement, and why overlap with the full release is provenance rather than replication.
+- [《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？](sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_.md) — 卜式借旱灾批评桑弘羊使官吏入市逐利，并串联异星祥瑞、齐王刘弘早逝与读史的现实意义。
 
 ## Entities
 - [《永乐大典》 / Yongle Dadian](entities/YongleDadian.md) — Ming classified compilation whose immense hand-copied scale, rhyme-based indexing, narrow readership, duplication, dispersal, and textual afterlife expose both preservation ambition and fragility.
@@ -16244,6 +16245,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Benioff](entities/MarkBenioff.md) — Salesforce co-founder and CEO represented through grounded enterprise AI, public-market discipline, China data residency, and corporate philanthropy.
 
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
+- [卜式 / Bu Shi (Western Han)](entities/BuShiWesternHan.md) — 汉武帝树为官员榜样、并在旱灾中以税收正当性反对桑弘羊官吏入市逐利的进谏者。
+- [齐王刘弘 / Liu Hong, Qi King (Western Han)](entities/LiuHongQiKingWesternHan.md) — 汉武帝受宠次子，获封富庶齐地，却少年早逝无子而使封国撤销。
 
 ## Concepts
 - [Bronze Inscription Posterity / 金文的后世书写](concepts/BronzeInscriptionPosterity.md) — Durable ritual inscription that explicitly addresses descendants through lineage, awards, events, transactions, and perpetual-use formulas.
