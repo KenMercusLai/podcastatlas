@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3078
+topic_total_pages: 3079
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1423,6 +1423,9 @@ topic_concepts:
   - key: "ExtractionPromiseEthics"
     title: "Extraction Promise Ethics / 撤离承诺伦理"
     url: "/wiki/concepts/extractionpromiseethics/"
+  - key: "ExtremistElectoralMachine"
+    title: "Extremist Electoral Machine"
+    url: "/wiki/concepts/extremistelectoralmachine/"
   - key: "FacePreservingAlliancePersuasion"
     title: "Face-Preserving Alliance Persuasion / 保全体面的结盟说服"
     url: "/wiki/concepts/facepreservingalliancepersuasion/"

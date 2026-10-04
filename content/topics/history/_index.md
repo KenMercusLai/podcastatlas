@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2555
+topic_total_pages: 2556
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6462,6 +6462,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "657-the-ku-klux-klan-american-fascists-part-4-glt4147819855"
+    title: "657. The Ku Klux Klan: American Fascists (Part 4)"
+    url: "/wiki/sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855/"
   - key: "658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498"
     title: "658. Dawn of the Samurai: The Shadow of the Sword (Part 1)"
     url: "/wiki/sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498/"

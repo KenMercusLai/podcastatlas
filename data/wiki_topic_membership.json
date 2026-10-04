@@ -5796,6 +5796,13 @@
       "url": "/topics/science/"
     }
   ],
+  "657-the-ku-klux-klan-american-fascists-part-4-glt4147819855": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498": [
     {
       "key": "history",
@@ -32781,6 +32788,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ExtremistElectoralMachine": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "EyreCrowe": [

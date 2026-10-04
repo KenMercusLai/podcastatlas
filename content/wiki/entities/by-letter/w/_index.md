@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12333
+wiki_total_pages: 12338
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "WolverhamptonWanderers"
     title: "Wolverhampton Wanderers / 狼队"
     url: "/wiki/entities/wolverhamptonwanderers/"
+  - key: "WomenOfTheKuKluxKlan"
+    title: "Women of the Ku Klux Klan"
+    url: "/wiki/entities/womenofthekukluxklan/"
   - key: "WomenOfWorldWarIIMemorial"
     title: "Women of World War II Memorial"
     url: "/wiki/entities/womenofworldwariimemorial/"

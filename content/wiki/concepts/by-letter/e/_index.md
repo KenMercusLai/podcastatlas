@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9669
+wiki_total_pages: 9671
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1295,6 +1295,12 @@ wiki_pages:
   - key: "ExtremeWildfire"
     title: "Extreme Wildfire"
     url: "/wiki/concepts/extremewildfire/"
+  - key: "ExtremistElectoralMachine"
+    title: "Extremist Electoral Machine"
+    url: "/wiki/concepts/extremistelectoralmachine/"
+  - key: "ExtremistSocialNormalization"
+    title: "Extremist Social Normalization"
+    url: "/wiki/concepts/extremistsocialnormalization/"
   - key: "EyeDropSelfMedicationRisk"
     title: "Eye Drop Self-Medication Risk / 眼药水自行用药风险"
     url: "/wiki/concepts/eyedropselfmedicationrisk/"

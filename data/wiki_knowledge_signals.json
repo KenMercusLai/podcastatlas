@@ -49660,6 +49660,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/dcfvaluationasnarrative/"
     },
+    "DCStephenson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4147819855 [GLT4147819855].md",
+          "key": "657-the-ku-klux-klan-american-fascists-part-4-glt4147819855",
+          "show": "The Rest Is History",
+          "title": "657. The Ku Klux Klan: American Fascists (Part 4)",
+          "url": "/wiki/sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/dcstephenson/"
+    },
     "DRASTIC": {
       "episode_count": 1,
       "show_count": 1,
@@ -71426,6 +71442,38 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/extremeenvironmentriskmanagement/"
     },
+    "ExtremistElectoralMachine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4147819855 [GLT4147819855].md",
+          "key": "657-the-ku-klux-klan-american-fascists-part-4-glt4147819855",
+          "show": "The Rest Is History",
+          "title": "657. The Ku Klux Klan: American Fascists (Part 4)",
+          "url": "/wiki/sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/extremistelectoralmachine/"
+    },
+    "ExtremistSocialNormalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4147819855 [GLT4147819855].md",
+          "key": "657-the-ku-klux-klan-american-fascists-part-4-glt4147819855",
+          "show": "The Rest Is History",
+          "title": "657. The Ku Klux Klan: American Fascists (Part 4)",
+          "url": "/wiki/sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/extremistsocialnormalization/"
+    },
     "EyeDropSelfMedicationRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -73481,9 +73529,9 @@
       "url": "/wiki/concepts/farmingwarstatecraft/"
     },
     "FascismHistoricalSpecificity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5738760220 [GLT5738760220].md",
@@ -73491,6 +73539,13 @@
           "show": "The Rest Is History",
           "title": "17. Fascism",
           "url": "/wiki/sources/17-fascism-glt5738760220/"
+        },
+        {
+          "episode_file": "GLT4147819855 [GLT4147819855].md",
+          "key": "657-the-ku-klux-klan-american-fascists-part-4-glt4147819855",
+          "show": "The Rest Is History",
+          "title": "657. The Ku Klux Klan: American Fascists (Part 4)",
+          "url": "/wiki/sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855/"
         }
       ],
       "updated": "2026-10-04",
@@ -98156,6 +98211,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/hippocampalassociativememory/"
     },
+    "HiramWesleyEvans": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4147819855 [GLT4147819855].md",
+          "key": "657-the-ku-klux-klan-american-fascists-part-4-glt4147819855",
+          "show": "The Rest Is History",
+          "title": "657. The Ku Klux Klan: American Fascists (Part 4)",
+          "url": "/wiki/sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/hiramwesleyevans/"
+    },
     "HiroshimaAtomicBombing": {
       "episode_count": 2,
       "show_count": 2,
@@ -121311,6 +121382,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/krugernationalpark/"
     },
+    "KuKluxKlan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4147819855 [GLT4147819855].md",
+          "key": "657-the-ku-klux-klan-american-fascists-part-4-glt4147819855",
+          "show": "The Rest Is History",
+          "title": "657. The Ku Klux Klan: American Fascists (Part 4)",
+          "url": "/wiki/sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/kukluxklan/"
+    },
     "KuaiYue": {
       "episode_count": 4,
       "show_count": 1,
@@ -137022,6 +137109,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/madameroland/"
+    },
+    "MadgeOberholtzer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4147819855 [GLT4147819855].md",
+          "key": "657-the-ku-klux-klan-american-fascists-part-4-glt4147819855",
+          "show": "The Rest Is History",
+          "title": "657. The Ku Klux Klan: American Fascists (Part 4)",
+          "url": "/wiki/sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/madgeoberholtzer/"
     },
     "MadisonHemings": {
       "episode_count": 1,
@@ -226809,6 +226912,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/womenblamedfordynasticcollapse/"
+    },
+    "WomenOfTheKuKluxKlan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4147819855 [GLT4147819855].md",
+          "key": "657-the-ku-klux-klan-american-fascists-part-4-glt4147819855",
+          "show": "The Rest Is History",
+          "title": "657. The Ku Klux Klan: American Fascists (Part 4)",
+          "url": "/wiki/sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/womenofthekukluxklan/"
     },
     "WomenOfWorldWarIIMemorial": {
       "episode_count": 1,

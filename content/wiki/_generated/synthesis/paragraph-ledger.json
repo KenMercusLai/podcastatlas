@@ -786,12 +786,13 @@
       "16601a21e79111590dec9aaa39aaf37cda533c18f62b03ad841cc2b74da82008",
       "63a515e020a9c43959a46584faeb8b50d6d1df53ac7fcb6403fbaa521cb5881a",
       "f1e18dd7261bb4678caaf74192b916a7c19f8240d5fca5820a6dc87fc12024f8",
-      "30dab5d9a3dbe5a1852603c018045e5063833f4e7647d6399d3386f189f53928"
+      "30dab5d9a3dbe5a1852603c018045e5063833f4e7647d6399d3386f189f53928",
+      "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61"
     ],
-    "paragraph_count": 786
+    "paragraph_count": 787
   },
-  "overview_commit": "ff2eba99d0fd1ef4d6ff441df2552e08f00c6c08",
-  "overview_digest": "23e2e1c5e3647943dde895892c3e9566e122ee9df29265f025b07e9ef426d806",
+  "overview_commit": "a5b6a9cbd86ebf59b07f8e27f8dc0993c0412ecb",
+  "overview_digest": "7563a680d102837b3847da02c3e812269d11f898485d4de4e2d23fc20c55b711",
   "paragraphs": [
     {
       "id": "e2c679065a3f47a51a4acd3c0b83d2bd8f67a84416ad48cd912b5bd311632cf3",
@@ -23028,6 +23029,33 @@
         "ObsessionCurryBarkerFilm",
         "TheBackroomsFilm",
         "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp"
+      ]
+    },
+    {
+      "id": "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[657-the-ku-klux-klan-american-fascists-part-4-glt4147819855|657. The Ku Klux Klan: American Fascists (Part 4)]], a [[TheRestIsHistory]] episode on the [[KuKluxKlan|second Ku Klux Klan]] at its 1920s peak and collapse. It adds [[HiramWesleyEvans]], [[DCStephenson]], [[MadgeOberholtzer]], [[WomenOfTheKuKluxKlan]], [[ExtremistSocialNormalization]], and [[ExtremistElectoralMachine]], while extending [[FascismHistoricalSpecificity]]. Its core synthesis is that mass extremism can become ordinary through picnics, churches, family entertainment, women's logistical labor, newspapers, spectacle, and belonging, then convert those networks into electoral coordination and institutional power while violence remains close at hand. Stephenson's assault of Oberholtzer, conviction, and exposure of bribery destroyed the Klan's moral claim and accelerated political collapse. No settled contradiction is adopted: the second Klan had strong fascist family resemblances but lacked important features of the European revolutionary party-state model; membership, crowd, officeholder, violence, and decline claims remain source-scoped; and the source's “David C. Stevenson” is normalized to [[DCStephenson|D. C. Stephenson]].",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "657-the-ku-klux-klan-american-fascists-part-4-glt4147819855",
+        "DCStephenson",
+        "ExtremistElectoralMachine",
+        "ExtremistSocialNormalization",
+        "FascismHistoricalSpecificity",
+        "HiramWesleyEvans",
+        "KuKluxKlan",
+        "MadgeOberholtzer",
+        "TheRestIsHistory",
+        "WomenOfTheKuKluxKlan"
       ]
     }
   ],

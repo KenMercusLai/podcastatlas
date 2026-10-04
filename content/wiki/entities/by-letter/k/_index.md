@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12333
+wiki_total_pages: 12338
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "KrugerNationalPark"
     title: "Kruger National Park"
     url: "/wiki/entities/krugernationalpark/"
+  - key: "KuKluxKlan"
+    title: "Ku Klux Klan"
+    url: "/wiki/entities/kukluxklan/"
   - key: "Ku6"
     title: "Ku6 / 酷六"
     url: "/wiki/entities/ku6/"

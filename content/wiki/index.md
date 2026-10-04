@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [657. The Ku Klux Klan: American Fascists (Part 4)](sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855.md) — The Rest Is History on the second Klan's social normalization, violence, women's organizing, political machine, Stephenson scandal, collapse, and qualified fascism comparison.
 - [崔健×罗永浩！去天堂和去地狱，都要带上艺术家](sources/cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii.md) — 罗永浩与崔健谈四十周年演出、怀旧与继续创作、现场连接、专辑形态、低成本制作、音乐学习和 AI 边界。
 - [Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin](sources/essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937.md) — Huberman Lab Essentials episode on adaptation-specific resistance training, superset tradeoffs, movement intent, target-muscle activation, and post-workout downregulation.
 - [《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？](sources/zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0.md) — 公孙敖寻李陵失败后的误报引发李陵家族覆灭，李绪误认与复仇补全悲剧链条，并以公孙敖生涯讨论欲望与能力失配。
@@ -3758,6 +3759,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [Ku Klux Klan](entities/KuKluxKlan.md) — U.S. white-supremacist and nativist movement whose second incarnation combined mass social organization, violence, and electoral power.
+- [Hiram Wesley Evans](entities/HiramWesleyEvans.md) — Second-Klan imperial wizard who used organizational discipline and populist respectability to pursue national political influence.
+- [D. C. Stephenson](entities/DCStephenson.md) — Indiana Klan leader whose recruitment machine, corruption, and crimes shaped both the movement's ascent and collapse.
+- [Madge Oberholtzer](entities/MadgeOberholtzer.md) — Indiana woman whose assault, death, and preserved account led to Stephenson's conviction and exposed Klan political corruption.
+- [Women of the Ku Klux Klan](entities/WomenOfTheKuKluxKlan.md) — Women's organization that supplied logistical, family, community, and political capacity to the second Klan.
 - [Denise Dresser](entities/DeniseDresser.md) — OpenAI chief revenue officer associated in the source with a leaked enterprise-strategy memo.
 - [Newbird AI](entities/NewbirdAI.md) — reported post-Allbirds AI-infrastructure pivot used as a market-cycle signal.
 - [广川王刘海阳 / Liu Haiyang, Guangchuan King (Western Han)](entities/LiuHaiyangGuangchuanKingWesternHan.md) — Western Han royal prince removed after allegations of killing, sexual coercion, and compulsory spectacle.
@@ -16141,6 +16147,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Benioff](entities/MarkBenioff.md) — Salesforce co-founder and CEO represented through grounded enterprise AI, public-market discipline, China data residency, and corporate philanthropy.
 
 ## Concepts
+- [Extremist Social Normalization](concepts/ExtremistSocialNormalization.md) — Process by which exclusionary movements become familiar and respectable through ordinary institutions, entertainment, ritual, and belonging.
+- [Extremist Electoral Machine](concepts/ExtremistElectoralMachine.md) — Conversion of extremist membership networks into endorsements, turnout, officeholding, patronage, and institutional pressure.
 - [Artistic Continuity Against Nostalgia](concepts/ArtisticContinuityAgainstNostalgia.md) — Principle that a living artist can honor audience memory without freezing work into its remembered form.
 - [Live Music Human Connection](concepts/LiveMusicHumanConnection.md) — Value created through performer-listener co-presence, attention, bodily sound, risk, and response.
 - [Album as Integrated Work](concepts/AlbumAsIntegratedWork.md) — View of albums as sequenced, cumulative works whose artistic form exceeds their peak single.

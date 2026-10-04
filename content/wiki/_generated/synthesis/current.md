@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-10-04
-as_of_overview_commit: 6f311fc4666dcd1384957740e5f2bf1a5b31208b
-summary: "Durable progress depends on evidence, capable institutions, human judgment, implementation, and feedback; AI also requires aligned compute, legitimacy, and audited value."
-episode_count: 3688
-source_count: 3688
-paragraph_count: 786
+as_of_overview_commit: a5b6a9cbd86ebf59b07f8e27f8dc0993c0412ecb
+summary: "Durable progress depends on evidence, capable institutions, human judgment, implementation, and feedback; social legitimacy can enable or constrain institutional power."
+episode_count: 3694
+source_count: 3694
+paragraph_count: 787
 topic_count: 9
 ---
 
@@ -36,7 +36,7 @@ AI capability becomes durable value only when compute, power, data, routing, wor
 
 ### Business and Markets
 
-Durable market value requires cash flow, unit economics, governance, capital discipline, distribution, and operating execution; real compute scarcity can coexist with overvalued financings, pivots, or assets.
+Durable market value requires cash flow, unit economics, governance, capital discipline, distribution, and operating execution; real scarcity can coexist with overvalued financings, pivots, or assets.
 
 - [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih|Episode 504]] adds a financial-media market case: [[HongKongEconomicJournal|《信报》]] created value through [[FinancialCommentaryKnowledgeTranslation]], joining markets to economics, institutions, policy, and international affairs in accessible Chinese, while [[LuoYoumei|骆友梅]]'s organizational work and [[AdvertiserPressureEditorialIndependence]] show that public knowledge requires both editorial judgment and a business able to absorb pressure. Evidence: [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih]], [[HongKongEconomicJournal]], [[FinancialCommentaryKnowledgeTranslation]], [[LinXingzhi]], [[LuoYoumei]], [[AdvertiserPressureEditorialIndependence]], [[ZhangWuchang]], [[LiKaShing]], [[LiTzarKai]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[PublicProcurementAsMarketCatalyst]], [[LastMileNetworkConsolidation]], [[PolicyLeverageForSystemChange]].
@@ -54,14 +54,14 @@ Cultural meaning and durability depend on form, preparation, provenance, audienc
 
 ### Governance and Institutions
 
-Institutions need legitimate authority, capable implementation, accountable information, bargaining, correction, and safeguards against capture; AI infrastructure adds local disputes over power, pollution, jobs, wealth, and public benefit.
+Institutions need legitimate authority, capable implementation, accountable information, bargaining, correction, and safeguards against capture; the second Klan shows social normalization becoming brittle electoral and institutional power.
 
 - [[38-communism-glt7587678050|The Communism episode]] separates [[Communism]]'s enduring equality-and-liberation ideal from party-state implementation: [[MarxismAsPoliticalReligion]] explains doctrine, identity, ritual, and redemption, while [[VladimirLenin|Leninist]] vanguard authority, compulsory property transfer, economic remaking, and anti-pluralism create [[UtopianCommunistCoercion]]; [[MarxistLeninistStateCapacity]] is therefore bidirectional, able to organize development and survival while also enabling confiscation and repression. Evidence: [[38-communism-glt7587678050]], [[Communism]], [[MarxismAsPoliticalReligion]], [[VladimirLenin]], [[UtopianCommunistCoercion]], [[MarxistLeninistStateCapacity]].
 - [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih|Episode 504]] adds a media-governance case in which [[JournalisticIndependenceAgainstFaction]] and [[AdvertiserPressureEditorialIndependence]] require [[LinXingzhi|林行止]] and the [[HongKongEconomicJournal|《信报》]] to judge across Beijing, London, colonial, local-elite, and advertiser interests while distinguishing pressure-driven retreat from evidence-driven correction; the later [[LiTzarKai|李泽楷]] ownership transition keeps structural autonomy an open rather than settled question. Evidence: [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih]], [[JournalisticIndependenceAgainstFaction]], [[AdvertiserPressureEditorialIndependence]], [[LinXingzhi]], [[HongKongEconomicJournal]], [[HongKong]], [[JinYong]], [[LiKaShing]], [[LiTzarKai]].
 
 ### History and Geopolitics
 
-Historical outcomes emerge from unequal power, routes, coalitions, logistics, learning, institutions, memory, and reaction, so motives, causal rankings, and retrospective narratives remain evidence-bounded.
+Historical outcomes emerge from unequal power, routes, coalitions, logistics, learning, institutions, and memory; the second Klan also shows why strong fascist resemblance does not settle historical classification.
 
 - [[90-the-western-front-glt9972346188|The Western Front episode]] joins industrial stalemate to [[WesternFrontMilitaryLearning|uneven military learning]] and [[WesternFrontPopularMemory|contested popular memory]]: defensive firepower, mass armies, and communications made breakthrough genuinely difficult; British and Allied tactical, coalition, and logistical adaptation helped defeat Germany in 1918; and the later "lions led by donkeys" frame preserved real suffering while often obscuring adaptation and military outcome. Evidence: [[90-the-western-front-glt9972346188]], [[WesternFrontFirstWorldWar]], [[WesternFrontMilitaryLearning]], [[WesternFrontPopularMemory]], [[FirstWorldWar]], [[TrenchLifeWesternFront]], [[GarySheffield]], [[DouglasHaig]], [[WilfredOwen]], [[PaulVonHindenburg]], [[ErichLudendorff]].
 - [[95-9-11-glt8208243510|The 9/11 episode]] links [[TerrorAsGlobalMediaSpectacle|designed global imagery]] to [[RivalUniversalistProjects|rival universalist projects]] and [[WarOnTerrorOverreach|reaction-driven overreach]]: [[AlQaeda|al-Qaeda]] attacked symbolic American targets through worldwide media, while [[GeorgeWBush|George W. Bush]] turned national injury into a war and universal-freedom mission whose Iraq expansion, torture, detention abuse, and legal exceptionalism weakened American credibility and reinforced the durable [[Post911CounterterrorismArchitecture]]. Evidence: [[95-9-11-glt8208243510]], [[TerrorAsGlobalMediaSpectacle]], [[RivalUniversalistProjects]], [[WarOnTerrorOverreach]], [[AlQaeda]], [[OsamaBinLaden]], [[GeorgeWBush]], [[SayyidQutb]], [[ReligiousMoralFramingOfUSForeignPolicy]], [[Post911CounterterrorismArchitecture]], [[China]], [[TheRestIsHistory]].
@@ -82,7 +82,7 @@ Scientific and health claims require mechanisms, outcomes, uncertainty, social c
 
 ### Work, Education, and Society
 
-Learning and social capacity depend on active effort, feedback, fair roles, trusted relationships, coordinated support, sustainable collaboration, and durable pathways into work.
+Work and social institutions depend on practical labor, role boundaries, trust, access, and judgment; the second Klan shows how ordinary community and women's organizational work can also normalize exclusion.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

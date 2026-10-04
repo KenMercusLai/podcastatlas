@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-10-04
-as_of_overview_commit: 6f311fc4666dcd1384957740e5f2bf1a5b31208b
-input_digest: 29f1de59c3237d18b9df0dd9d51445693c6fdce750e6f42fac4a36818a796e1f
+as_of_overview_commit: a5b6a9cbd86ebf59b07f8e27f8dc0993c0412ecb
+input_digest: 6da5257646e06b835f1e72e85320f2e45168f450144802aae7fa785298ce0165
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Across historical and modern cases, governance depends on more than formal rules: legitimacy, information, administrative capacity, bargaining, accountability, and implementation incentives determine whether institutions can act and whether their action remains bounded. The newest All-In addition places AI infrastructure inside that legitimacy frame: physical compute can be strategically necessary while local communities still contest electricity costs, pollution, jobs, concentrated wealth, and weakly evidenced benefits; bring-your-own-power addresses only part of the bargain. Political allegations, policy details, market interpretations, and company claims remain source-scoped.
+The second Ku Klux Klan adds a governance case in which social normalization, membership data, religious intermediaries, messaging, turnout, and local officeholding converted exclusion into institutional power, while violence, predation, bribery exposure, and weak coalition capacity made that power brittle. Across historical and modern cases, governance depends on more than formal rules: legitimacy, information, administrative capacity, bargaining, accountability, and implementation incentives determine whether institutions can act and whether their action remains bounded. The newest All-In addition places AI infrastructure inside that legitimacy frame: physical compute can be strategically necessary while local communities still contest electricity costs, pollution, jobs, concentrated wealth, and weakly evidenced benefits; bring-your-own-power addresses only part of the bargain. Political allegations, policy details, market interpretations, and company claims remain source-scoped.
 
 ## Cross-source Findings
 
@@ -2761,3 +2761,14 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 
 - The episode's broad causal links, wage figures, political motives, and later transcript chronology remain source-scoped.
 - Institutional diffusion does not imply permanent British ownership of football's local meanings.
+
+### Normalized Extremism Can Become Brittle Institutional Capture
+
+[[657-the-ku-klux-klan-american-fascists-part-4-glt4147819855|The second-Klan episode]] adds a governance sequence in which [[ExtremistSocialNormalization]] supplied membership and legitimacy, while [[ExtremistElectoralMachine]] converted candidate information, ministers, endorsements, guidance, transport, and local-office ambition into political power; [[DCStephenson|Stephenson's]] conviction and bribery disclosures then showed how predation and captured protection networks could reverse that power.
+
+**Evidence:** [[657-the-ku-klux-klan-american-fascists-part-4-glt4147819855]], [[ExtremistSocialNormalization]], [[ExtremistElectoralMachine]], [[DCStephenson]], [[KuKluxKlan]], [[MadgeOberholtzer]]
+
+**Qualifications:**
+
+- The episode provides estimates and a narrative synthesis rather than a complete membership roll, election dataset, office-by-office causal analysis, or comparative theory of extremist capture.
+- Klan-backed victories do not prove exclusive control of every officeholder, and scandal was one cause among violence, backlash, overreach, policy effects, and economic change.
