@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [place, wiman-joseon, ancient-korea, siege, western-han]
 sources:
   - zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox
+  - zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb
 last_updated: 2026-10-05
 ---
 
@@ -14,11 +15,12 @@ last_updated: 2026-10-05
 
 ## Current Profile
 
-The city remains under siege while Han commanders [[XunZhiWesternHan|荀彘]] and [[YangPuWesternHan|杨仆]] pursue incompatible attack and surrender channels. Unified Han command increases pressure, but [[UgeoWimanJoseon|卫右渠]]'s death still does not immediately end resistance. The city finally submits after Ugeo's son and the son of the defector No In persuade the remaining population and Seong Gi is killed.
+Hanji 366-1 brings the campaign to the city after a failed surrender crossing and Xun Zhi's breakthrough at the Pei River. Xun Zhi surrounds the northwest while Yang Pu occupies the south, but the city holds for months as the commanders pursue incompatible attack and surrender channels. Hanji 366-2 shows unified Han command increasing pressure, although Ugeo's death still does not immediately end resistance. The city finally submits after Ugeo's son and the son of the defector No In persuade the remaining population and Seong Gi is killed.
 
 ## Key Characteristics
 
 - Wiman Joseon capital and principal siege objective in the episode.
+- City encircled from different directions after the failed river-crossing submission.
 - Site where divided Han command prolongs an unresolved campaign.
 - Political center affected by elite defection as well as military pressure.
 - Place whose resistance continues after the king's death.
@@ -26,17 +28,18 @@ The city remains under siege while Han commanders [[XunZhiWesternHan|荀彘]] an
 
 ## Evidence
 
+- Encirclement and delay: [[zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb|Hanji 366-1]] places Xun Zhi northwest and Yang Pu south of the city, then links the months-long stalemate to divergent strategies.
 - Prolonged siege: [[zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox|Hanji 366-2]] links the city's survival to incompatible Han command behavior.
 - Intensified pressure: [[zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox|Hanji 366-2]] says the combined Han army attacks more urgently after Yang Pu's arrest.
 - Final capitulation: [[zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox|Hanji 366-2]] says internal persuasion and Seong Gi's death complete the settlement.
 
 ## Qualifications
 
-The source does not establish the city's precise modern location, archaeology, size, population, or fortification plan. This page therefore records its role in the episode's campaign narrative rather than making a geographic identification.
+The sources do not establish the city's precise modern location, archaeology, size, population, or fortification plan. Directional siege positions are episode-attributed rather than a reconstructed battle map. This page therefore records the city's campaign role rather than making a modern geographic identification.
 
 ## What Changed
 
-- Created a disambiguated place page and normalized 王显城 to 王险城.
+- Added the approach from the Pei River, opposing siege positions, and months-long pre-merger stalemate.
 
 ## Relationships
 

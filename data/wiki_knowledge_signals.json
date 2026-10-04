@@ -43419,9 +43419,9 @@
       "url": "/wiki/concepts/commandlawoverpersonalties/"
     },
     "CommandSynchronizationFailure": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？ [lubinu6HOIHU59kNMLixMaRYhnq7].md",
@@ -43443,6 +43443,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事 [lrRb-ackuNy0F1XRb5S8V6LzF1FB].md",
+          "key": "zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb/"
         }
       ],
       "updated": "2026-10-05",
@@ -193818,6 +193825,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/shawbrothersstudio/"
     },
+    "SheHeWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事 [lrRb-ackuNy0F1XRb5S8V6LzF1FB].md",
+          "key": "zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/shehewesternhan/"
+    },
     "SheikhJarrah": {
       "episode_count": 1,
       "show_count": 1,
@@ -217673,9 +217696,9 @@
       "url": "/wiki/entities/ucheagbosi/"
     },
     "UgeoWimanJoseon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂 [ls1iZJhow_J4ubgMM0LM8ruaUrOx].md",
@@ -217683,6 +217706,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事 [lrRb-ackuNy0F1XRb5S8V6LzF1FB].md",
+          "key": "zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb/"
         }
       ],
       "updated": "2026-10-05",
@@ -225159,9 +225189,9 @@
       "url": "/wiki/entities/wangwangdog/"
     },
     "WangxianCity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂 [ls1iZJhow_J4ubgMM0LM8ruaUrOx].md",
@@ -225169,6 +225199,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事 [lrRb-ackuNy0F1XRb5S8V6LzF1FB].md",
+          "key": "zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb/"
         }
       ],
       "updated": "2026-10-05",
@@ -226258,6 +226295,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/weiqinghangeneral/"
+    },
+    "WeiShanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事 [lrRb-ackuNy0F1XRb5S8V6LzF1FB].md",
+          "key": "zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/weishanwesternhan/"
     },
     "WeiTengLateHan": {
       "episode_count": 1,
@@ -228567,9 +228620,9 @@
       "url": "/wiki/entities/wimhof/"
     },
     "WimanJoseon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂 [ls1iZJhow_J4ubgMM0LM8ruaUrOx].md",
@@ -228577,6 +228630,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事 [lrRb-ackuNy0F1XRb5S8V6LzF1FB].md",
+          "key": "zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb/"
         }
       ],
       "updated": "2026-10-05",
@@ -234726,9 +234786,9 @@
       "url": "/wiki/entities/xunyue/"
     },
     "XunZhiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂 [ls1iZJhow_J4ubgMM0LM8ruaUrOx].md",
@@ -234736,6 +234796,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事 [lrRb-ackuNy0F1XRb5S8V6LzF1FB].md",
+          "key": "zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb/"
         }
       ],
       "updated": "2026-10-05",
@@ -235715,9 +235782,9 @@
       "url": "/wiki/entities/yangkuangduqiaoretainer/"
     },
     "YangPuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂 [ls1iZJhow_J4ubgMM0LM8ruaUrOx].md",
@@ -235725,6 +235792,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事 [lrRb-ackuNy0F1XRb5S8V6LzF1FB].md",
+          "key": "zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb/"
         }
       ],
       "updated": "2026-10-05",

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3094
+topic_total_pages: 3095
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9045,6 +9045,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb"
+    title: "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事"
+    url: "/wiki/sources/zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb/"
   - key: "zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh"
     title: "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！"
     url: "/wiki/sources/zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh/"
