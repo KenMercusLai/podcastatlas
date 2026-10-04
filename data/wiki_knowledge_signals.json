@@ -40424,6 +40424,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/cockpunch/"
     },
+    "CocktailSensoryBalance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgKjltvf-LheIlFA3lWs3EfVJk279 [wKgKjltvf-LheIlFA3lWs3EfVJk279].md",
+          "key": "ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279",
+          "show": "无时差研究所",
+          "title": "EP28-纽约那些晚上不回家的人究竟在干嘛？（上）",
+          "url": "/wiki/sources/ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/cocktailsensorybalance/"
+    },
     "Codex": {
       "episode_count": 17,
       "show_count": 7,
@@ -149634,9 +149650,9 @@
       "url": "/wiki/concepts/newleaderfirstmoveauthoritysignal/"
     },
     "NewYorkCity": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "176.纽约一年：一个悲观主义者的活法｜725沙龙实录 [lte_k8Lw8e1tXXW3NfxvO3WaL8aH].md",
@@ -149672,9 +149688,16 @@
           "show": "The Rest Is History",
           "title": "360. Fear City: New York in the 1970s",
           "url": "/wiki/sources/360-fear-city-new-york-in-the-1970s-glt7107047696/"
+        },
+        {
+          "episode_file": "wKgKjltvf-LheIlFA3lWs3EfVJk279 [wKgKjltvf-LheIlFA3lWs3EfVJk279].md",
+          "key": "ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279",
+          "show": "无时差研究所",
+          "title": "EP28-纽约那些晚上不回家的人究竟在干嘛？（上）",
+          "url": "/wiki/sources/ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/newyorkcity/"
     },
     "NewYorkCityBlackout1977": {
@@ -194778,6 +194801,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/spatialcomputing/"
     },
+    "SpeakeasyExperienceDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgKjltvf-LheIlFA3lWs3EfVJk279 [wKgKjltvf-LheIlFA3lWs3EfVJk279].md",
+          "key": "ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279",
+          "show": "无时差研究所",
+          "title": "EP28-纽约那些晚上不回家的人究竟在干嘛？（上）",
+          "url": "/wiki/sources/ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/speakeasyexperiencedesign/"
+    },
     "SpecialistDelegationLeadership": {
       "episode_count": 4,
       "show_count": 1,
@@ -212846,6 +212885,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/urbanguerrillaarmedpropaganda/"
+    },
+    "UrbanNightlifeSpatialLayering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "wKgKjltvf-LheIlFA3lWs3EfVJk279 [wKgKjltvf-LheIlFA3lWs3EfVJk279].md",
+          "key": "ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279",
+          "show": "无时差研究所",
+          "title": "EP28-纽约那些晚上不回家的人究竟在干嘛？（上）",
+          "url": "/wiki/sources/ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/urbannightlifespatiallayering/"
     },
     "UrbanVI": {
       "episode_count": 1,

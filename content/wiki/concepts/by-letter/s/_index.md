@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9589
+wiki_total_pages: 9592
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1448,6 +1448,9 @@ wiki_pages:
   - key: "SpatialNavigationTorus"
     title: "Spatial Navigation Torus"
     url: "/wiki/concepts/spatialnavigationtorus/"
+  - key: "SpeakeasyExperienceDesign"
+    title: "Speakeasy Experience Design / 隐藏酒吧体验设计"
+    url: "/wiki/concepts/speakeasyexperiencedesign/"
   - key: "SpecializedBuffetFormat"
     title: "Specialized Buffet Format / 细分自助餐"
     url: "/wiki/concepts/specializedbuffetformat/"

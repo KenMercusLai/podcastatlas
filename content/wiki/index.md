@@ -3708,6 +3708,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Your Brain Works & Changes](sources/how-your-brain-works-changes-scim1534957507.md) — First Huberman Lab episode on the nervous-system loop, sensation and attention, neuromodulators, adult plasticity, rest-dependent consolidation, and ultradian focus.
 - [10. Christmas](sources/10-christmas-glt9855064623.md) — The Rest Is History survey of Nativity chronology, early feast dating, public festivity, Puritan suppression, Victorian domestic reinvention, Santa Claus, commerce, and the 1914 truce.
 
+- [EP28-纽约那些晚上不回家的人究竟在干嘛？（上）](sources/ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279.md) — 无时差研究所 guide to New York speakeasies, cocktail balance, rooftop tradeoffs, service friction, and spatially layered nightlife.
+
 ## Entities
 - [Cincinnatus](entities/Cincinnatus.md) — Roman republican exemplar whose remembered voluntary withdrawal made relinquishing emergency power a model of political legitimacy.
 - [John McCain](entities/JohnMcCain.md) — U.S. war hero and senator presented as an honor-centered foil to Trump's anti-establishment political style.
@@ -10487,7 +10489,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ISIS](entities/ISIS.md) — Security actor named in the Syria segment as both war-history cause and continuing investor-confidence risk.
 - [Ahmad al-Sharah](entities/AhmadAlSharah.md) — Syrian leader presented by the episode as the default figure for holding reconstruction together.
 - [Qatar](entities/Qatar.md) — Gulf state already involved in Syria reconstruction work, including Damascus airport rebuilding.
-- [New York City](entities/NewYorkCity.md) — Urban setting for Greenmarket's five-borough farmers-market network and food-access role.
+- [New York City](entities/NewYorkCity.md) — City profile joining historical crisis, long-run recovery, public institutions, multicultural coexistence, nightlife governance, and spatially layered after-dark experience.
 - [Union Square](entities/UnionSquare.md) — Flagship Greenmarket site used as the public-space transformation case.
 - [Greenmarket](entities/Greenmarket.md) — New York farmers-market network that grew from a 12-vendor experiment into a 50-year institution.
 - [GrowNYC](entities/GrowNYC.md) — Organization managing Greenmarket through farm vetting, market expansion, and benefit-payment infrastructure.
@@ -25667,5 +25669,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Modern Christmas Reinvention](concepts/ModernChristmasReinvention.md) — Nineteenth-century recombination of older worship, festivity, and charity into domestic, literary, royal, and commercial Christmas.
 - [Christmas Truce of 1914](concepts/ChristmasTruce1914.md) — Qualified account of localized First World War fraternization, football stories, continued fighting, and later Christmas memory.
 - [Civil War Escalation Conditions](concepts/CivilWarEscalationConditions.md) — Multicausal framework joining dehumanization, political illegitimacy, social strain, armed capacity, catalytic leadership, and institutional failure.
+
+- [Cocktail Sensory Balance / 鸡尾酒感官平衡](concepts/CocktailSensoryBalance.md) — Flavor-first framework coordinating spirit, sweetness, bitterness or acidity, aroma, texture, dilution, technique, and presentation.
+- [Speakeasy Experience Design / 隐藏酒吧体验设计](concepts/SpeakeasyExperienceDesign.md) — Hidden-entry hospitality model separating discovery ritual from drink, service, atmosphere, and waiting-cost quality.
+- [Urban Nightlife Spatial Layering / 城市夜生活空间叠层](concepts/UrbanNightlifeSpatialLayering.md) — Overlap of daytime and nighttime uses, visible and hidden rooms, vertical land use, and neighborhood audiences.
 
 ## Syntheses

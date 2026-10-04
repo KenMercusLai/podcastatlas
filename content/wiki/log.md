@@ -29187,3 +29187,11 @@ Added source `1-greatness-glt2583338621` and created [[HistoricalGreatness]]. Co
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | EP28-纽约那些晚上不回家的人究竟在干嘛？（上）
+
+Added source `ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279`; created [[SpeakeasyExperienceDesign]], [[CocktailSensoryBalance]], and [[UrbanNightlifeSpatialLayering]]; and extended [[NewYorkCity]] from its complete preserved evidence inventory. Core synthesis: hidden entrances and visual presentation create discovery value, but flavor balance, service, waiting cost, atmosphere, transport, weather, and mixed-use neighborhood context determine whether nightlife novelty becomes durable hospitality. No settled contradiction was adopted; venue status, waits, neighborhood character, historical claims, technique, absinthe regulation, and dress rules remain source-scoped 2018 observations rather than a current travel guide. The recurring [[WushichaYanjiusuo|无时差研究所]] profile was linked without revision because the episode adds topic evidence rather than a durable editorial-identity change. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,648-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

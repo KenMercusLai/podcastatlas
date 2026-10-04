@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9589
+wiki_total_pages: 9592
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1337,6 +1337,9 @@ wiki_pages:
   - key: "CockroachMovement"
     title: "Cockroach Movement"
     url: "/wiki/concepts/cockroachmovement/"
+  - key: "CocktailSensoryBalance"
+    title: "Cocktail Sensory Balance / 鸡尾酒感官平衡"
+    url: "/wiki/concepts/cocktailsensorybalance/"
   - key: "CocoaSupplyShock"
     title: "Cocoa Supply Shock"
     url: "/wiki/concepts/cocoasupplyshock/"
