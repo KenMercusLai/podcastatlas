@@ -94,7 +94,7 @@ This page is source-bounded. Hanji 489 gives the campaign-decision and false-com
 - [[LiuXiang|刘向]] - memorialist who defends Chen Tang and Gan Yanshou before Yuan.
 - [[HanYuandi|汉元帝]] - ruler who pardons and rewards Chen Tang after the Zhizhi campaign.
 - [[GengYuWesternHan|耿育]] - memorialist who argues Chen Tang's service should not be erased.
-- [[WangShangWesternHan|王商]] - impeacher who brings the Changling-era accusation against Chen Tang.
+- [[WangShangWangClanWesternHan|王商]] - impeacher who brings the Changling-era accusation against Chen Tang.
 - [[HanChengdi|汉成帝]] - ruler who spares Chen Tang's life but removes his status.
 - [[XieWannianWesternHan|谢万年]] - friend and project official who encourages Chen Tang to support a mausoleum-county revival.
 - [[MausoleumCountyEliteRelocation|陵县式豪强迁徙]] - policy mechanism Chen Tang tries to revive at Changling.

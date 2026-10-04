@@ -80,7 +80,7 @@ This page is source-bounded to Hanji 500, Hanji 570, Hanji 505, Hanji 507, Hanji
 - [[GanYanshouWesternHan|甘延寿]] - commander paired in the same reward dispute.
 - [[MeritShieldedAccountability|因功免责]] - related concept because the source weighs service, fault, and proportional judgment.
 - [[HanChengdi|汉成帝]] - ruler under whom Kuang Heng's demotion is narrated.
-- [[WangShangWesternHan|王商]] - later chancellor whose appointment follows Kuang Heng's reduction in Hanji 514.
+- [[WangShangChancellorWesternHan|王商]] - later chancellor whose appointment follows Kuang Heng's reduction in Hanji 514.
 - [[WangZunWesternHan|王尊]] - official who impeaches Kuang Heng after Shi Xian's fall.
 - [[CourtTransitionBlameManagement|新君清算中的责任安排]] - concept explaining Kuang Heng's retention after a dangerous accusation.
 - [[WeakAuthorityLeadership|弱势领导威信]] - related modern leadership frame drawn from Kuang Heng's advice about ruler bearing and speech discipline.

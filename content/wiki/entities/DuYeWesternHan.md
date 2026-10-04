@@ -12,7 +12,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-杜邺 / Du Ye is synthesized as a [[WesternHanDynasty|Western Han]] adviser who appears in two different registers. [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] shows him earlier as a palace gentleman and private friend who mediates between [[WangYinWesternHan|王音]] and [[WangShangWesternHan|王商]]. [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] later previews him as another critic in the Dong Xian favor crisis; [[zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2|Hanji 594]] supplies his actual memorial, where he uses omens, ritual hierarchy, filial precedent, and historical examples to criticize dowager-linked and outer-relative power under [[HanAidi|汉哀帝]].
+杜邺 / Du Ye is synthesized as a [[WesternHanDynasty|Western Han]] adviser who appears in two different registers. [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] shows him earlier as a palace gentleman and private friend who mediates between [[WangYinWesternHan|王音]] and [[WangShangWangClanWesternHan|王商]]. [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] later previews him as another critic in the Dong Xian favor crisis; [[zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2|Hanji 594]] supplies his actual memorial, where he uses omens, ritual hierarchy, filial precedent, and historical examples to criticize dowager-linked and outer-relative power under [[HanAidi|汉哀帝]].
 
 ## Current Profile
 
@@ -57,7 +57,7 @@ Hanji 533 and Hanji 594 supply two slices of Du Ye rather than a full biography.
 ## Relationships
 
 - [[WangYinWesternHan|王音]] - friend and listener whom Du Ye persuades to consult Wang Shang.
-- [[WangShangWesternHan|王商]] - Wang-family counterpart whose relationship with Wang Yin Du Ye helps repair.
+- [[WangShangWangClanWesternHan|王商]] - Wang-family counterpart whose relationship with Wang Yin Du Ye helps repair.
 - [[SincerePowerSharingDeescalation|真诚共治式冲突降温]] - concept created from Du Ye's Hanji 533 mediation.
 - [[HanAidi|汉哀帝]] - ruler whose fault-seeking order gives Du Ye a formal remonstrance opening.
 - [[DongXian|董贤]] - favorite whose family rise frames the prior Hanji 593 preview of Du Ye.

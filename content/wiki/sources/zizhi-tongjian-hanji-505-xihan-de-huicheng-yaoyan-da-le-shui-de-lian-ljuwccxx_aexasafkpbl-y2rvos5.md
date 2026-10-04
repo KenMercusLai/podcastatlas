@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianshi 3 / 30 BCE under [[HanChengdi|汉成帝]]. It begins from a moral frame about knowing when to lower one's head after success, then centers a Chang'an flood rumor after more than forty days of autumn rain: [[WangFengWesternHan|王凤]] proposes official evacuation onto boats and city walls, while [[WangShangWesternHan|王商]] argues that the report is rumor and that state orders would magnify panic.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianshi 3 / 30 BCE under [[HanChengdi|汉成帝]]. It begins from a moral frame about knowing when to lower one's head after success, then centers a Chang'an flood rumor after more than forty days of autumn rain: [[WangFengWesternHan|王凤]] proposes official evacuation onto boats and city walls, while [[WangShangChancellorWesternHan|王商]] argues that the report is rumor and that state orders would magnify panic.
 
 The durable synthesis is that crisis judgment and blame assignment are both political. Wang Shang gains Chengdi's appreciation by refusing to turn an unverified panic into official action, Wang Feng loses face because his proposal would have validated fear, and later eclipse-earthquake interpretation lets [[DuQinWesternHan|杜钦]] and [[GuYongWesternHan|谷永]] move disaster pressure away from Wang-family outer relatives and toward [[EmpressXuWesternHan|许皇后]] and harem favoritism. The episode closes with [[KuangHengWesternHan|匡衡]] losing office for excess land and misappropriation, reinforcing the host's warning that high position without restraint can return a person to ruin.
 
@@ -37,7 +37,7 @@ The durable synthesis is that crisis judgment and blame assignment are both poli
 
 ## Connections
 
-- [[WangShangWesternHan|王商]], [[WangFengWesternHan|王凤]], and [[CrisisRumorDeamplification|危机谣言降幅治理]] - the episode's central contrast between amplifying panic with official action and calming it through restrained judgment.
+- [[WangShangChancellorWesternHan|王商]], [[WangFengWesternHan|王凤]], and [[CrisisRumorDeamplification|危机谣言降幅治理]] - the episode's central contrast between amplifying panic with official action and calming it through restrained judgment.
 - [[HanChengdi|汉成帝]] - ruler who accepts Wang Shang's warning in the flood-rumor case and later solicits interpretations of eclipse and earthquake.
 - [[GuYongWesternHan|谷永]], [[DuQinWesternHan|杜钦]], and [[ConsortOmenBlameTransfer|后宫灾异归咎转移]] - the omen interpretation redirects responsibility from Wang-family power toward harem favoritism and succession anxiety.
 - [[EmpressXuWesternHan|许皇后]] - favored empress whom the source presents as a politically useful target when childlessness and disaster signs require explanation.

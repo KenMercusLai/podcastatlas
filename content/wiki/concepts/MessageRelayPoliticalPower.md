@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra
   - zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g
   - zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7
-last_updated: 2026-09-12
+  - zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r
+last_updated: 2026-10-04
 ---
 
 ## Definition
@@ -22,6 +23,8 @@ The source does not claim every messenger becomes powerful. Its narrower point i
 
 The target-side version of the pattern matters too. [[ZhouKanWesternHan|周堪]] is recalled to a memorial-handling role, which should give him voice near the ruler, but Shi Xian supervises the route and his allies fill the surrounding offices in [[zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7|Hanji 483-1]]. The concept therefore includes not only how a relay actor gains power, but how a rival's formal speech office can be hollowed out when the real channel is already captured.
 
+Direct suppression is the strongest form in the current evidence. [[WangFengWesternHan|王凤]]'s Shangshu control lets him intercept [[WangShangChancellorWesternHan|乐昌侯王商]]'s memorial against [[YangRongWesternHan|杨荣]] before [[HanChengdi|汉成帝]] can judge it in [[zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r|Hanji 515]]. Relay power therefore ranges from framing and hollowing out to outright non-delivery when the channel holder has a personal stake.
+
 This concept sits upstream of [[PalaceAccessMonopoly|宫廷接触垄断]]. Message relay power can exist before one actor fully monopolizes access. It names the earlier mechanism by which handling words, documents, and timing becomes political leverage.
 
 ## Key Claims
@@ -32,7 +35,7 @@ This concept sits upstream of [[PalaceAccessMonopoly|宫廷接触垄断]]. Messa
 - Relay power becomes more dangerous when paired with legal knowledge, administrative capacity, and personal ruler trust.
 - Information filtering is reinforced when the relay actor also becomes the ruler's trusted emotional interpreter.
 - A formal speech or memorial role can be neutralized if hostile actors control the surrounding transmission route.
-- The mechanism is an upstream stage of access monopoly rather than identical to mature palace capture.
+- A channel holder can remove an accusation from the ruler's decision set entirely by preventing delivery; this is an upstream stage of access monopoly rather than identical to mature palace capture.
 
 ## Evidence
 
@@ -50,14 +53,18 @@ Hollowed-out opposition channel:
 - [[zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7|Hanji 483-1]] says Zhou Kan returns to manage memorial affairs, but Shi Xian supervises the memorial channel and surrounding posts are held by Shi's party.
 - [[zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7|Hanji 483-1]] says Zhou Kan and [[ZhangMengWesternHan|张萌]] therefore have titles but little effective speech power after recall.
 
+Intercepted accusation:
+- [[zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r|Hanji 515]] says Wang Feng uses Shangshu-route control to keep Wang Shang's Yang Rong impeachment from reaching Chengdi.
+
 ## Counterevidence & Qualifications
 
-The current evidence is source-scoped to Hanji 500, Hanji 501, and Hanji 483-1's interpretation of Shi Xian. It does not prove that every palace messenger held independent power, nor does it settle the exact institutional boundary between xiao huangmen, zhongshu ling, memorial affairs, and later document offices. The emotional-trust layer in Hanji 501 and the Zhou Kan negative case in Hanji 483-1 qualify the mechanism rather than replacing it. The concept should be used for relay-mediated influence, not for all secrecy or all court access.
+The current evidence is source-scoped to Hanji 500, Hanji 501, Hanji 483-1, and Hanji 515. It does not prove that every palace messenger held independent power, nor does it settle the exact institutional boundary among xiao huangmen, zhongshu ling, Shangshu leadership, memorial affairs, and later document offices. Hanji 515 reports interception through a podcast account rather than a complete archival transmission record. The concept should be used for relay-mediated influence, not for all secrecy or all court access.
 
 ## What Changed
 
 - Added Hanji 501's trust layer, clarifying that message relay can become more potent when paired with private emotional dependence.
 - Added Hanji 483-1's Zhou Kan case, clarifying how captured relay routes can empty out a rival's formal memorial role.
+- Added Hanji 515's non-delivery case, where Shangshu control removes a chancellor's accusation from the emperor's decision set.
 
 ## Related Concepts
 
@@ -67,3 +74,4 @@ The current evidence is source-scoped to Hanji 500, Hanji 501, and Hanji 483-1's
 - [[ShangshuTaiImperialAccess|尚书台近侍权力]] - adjacent document-office mechanism where paperwork and proximity become power.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - risk relationship when relay filtering prevents corrective information from reaching the ruler.
 - [[ZhouKanWesternHan|周堪]] - negative case of a recalled memorial official whose formal role is neutralized by hostile channel control.
+- [[WangFengWesternHan|王凤]] - source case where control of the memorial route protects an associate from a chancellor's accusation.

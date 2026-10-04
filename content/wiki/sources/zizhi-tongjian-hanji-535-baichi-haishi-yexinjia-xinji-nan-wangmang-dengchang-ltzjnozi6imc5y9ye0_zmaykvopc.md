@@ -16,7 +16,7 @@ last_updated: 2026-09-12
 
 This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode introduces [[WangMang|王莽]] by asking whether he should be read as a political fool, a hidden ambitious operator, or a contradictory figure who could be both a later governance failure and a serious scholar-political force. It backfills Wang Mang's pre-office origin story: Wang-family consort-kin status gave him pedigree, but his father Wang Man / 王曼 died early, leaving him without the direct protection enjoyed by richer Wang cousins.
 
-The durable synthesis is that Wang Mang's early ascent begins as disciplined self-fashioning under unequal family conditions. He studies, serves his mother and widowed sister-in-law, cares for an orphaned nephew, respectfully manages elders, wins [[WangFengWesternHan|王凤]]'s dying endorsement through extreme sickbed service, gains praise from [[WangShangWesternHan|王商]], Dai Chong, Jin She, and [[ChenTangWesternHan|陈汤]], and then converts office, humility, generosity, and fast crisis handling into a broad moral reputation.
+The durable synthesis is that Wang Mang's early ascent begins as disciplined self-fashioning under unequal family conditions. He studies, serves his mother and widowed sister-in-law, cares for an orphaned nephew, respectfully manages elders, wins [[WangFengWesternHan|王凤]]'s dying endorsement through extreme sickbed service, gains praise from [[WangShangWangClanWesternHan|王商]], Dai Chong, Jin She, and [[ChenTangWesternHan|陈汤]], and then converts office, humility, generosity, and fast crisis handling into a broad moral reputation.
 
 ## Key Claims
 
@@ -40,7 +40,7 @@ The durable synthesis is that Wang Mang's early ascent begins as disciplined sel
 
 - [[WangMang|王莽]], [[WangZhengjun|王政君]], [[WangFengWesternHan|王凤]], and [[WangGenWesternHan|王根]] - Wang-family status and elder backing structure the origin story.
 - Wang Man / 王曼 - Wang Mang's deceased father whose early death explains the gap between elite family name and weak household position.
-- [[HanChengdi|汉成帝]], [[WangShangWesternHan|王商]], and [[ChenTangWesternHan|陈汤]] - the praise-and-recommendation field that turns Wang Mang's private reputation into public office.
+- [[HanChengdi|汉成帝]], [[WangShangWangClanWesternHan|王商]], and [[ChenTangWesternHan|陈汤]] - the praise-and-recommendation field that turns Wang Mang's private reputation into public office.
 - [[MoralReputationPoliticalCapital|道德名望政治资本]] and [[PublicMoralPerformance|公开道德表演]] - Wang Mang's filiality, humility, generosity, and self-denial become usable court capital.
 - [[PersonaShieldedPoliticalPurge|人设护盾式政治清除]] - the later Chunyu Zhang attack in Hanji 557 becomes more legible after this episode's portrait of reputation discipline.
 - [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] and [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|Hanji 558]] - continuation into Wang Mang's attack on Chunyu Zhang and subsequent Da Sima reputation performance.

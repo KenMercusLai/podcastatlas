@@ -29457,3 +29457,11 @@ Added source `670-tom-holland-meets-paul-mccartney-glt5781731754`; created [[Pau
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？
+
+Added source `zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r`; created [[YangRongWesternHan|杨荣]] and [[GengDingWesternHan|耿定]]; split the previously merged Wang Shang identity into [[WangShangChancellorWesternHan|乐昌侯王商]] and [[WangShangWangClanWesternHan|成都侯王商]]; and resynthesized [[WangFengWesternHan|王凤]], [[MessageRelayPoliticalPower|传话式信息权力]], [[MoralSlanderReframing|道德诬陷焦点转移]], and [[TalentVirtueDistinction|才德之分]] from their complete preserved evidence inventories. Core synthesis: Wang Feng's control of the Shangshu route keeps the chancellor's Yang Rong impeachment from reaching Chengdi, after which the conflict shifts into unverifiable private-conduct accusations; the closing virtue-first rule therefore remains bounded by evidence quality. No settled contradiction was adopted. Yang Rong's liability, Wang Feng's jealousy or other private motive, Geng Ding's allegations, Zhang Kuang's omen argument, Chengdi's final reason for dismissal, and Wang Shang's cause of death remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left to the downstream synthesis workflow.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

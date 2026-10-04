@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12321
+wiki_total_pages: 12324
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -134,9 +134,6 @@ wiki_pages:
   - key: "WangMang"
     title: "Wang Mang / 王莽"
     url: "/wiki/entities/wangmang/"
-  - key: "WangShangWesternHan"
-    title: "Wang Shang / 王商 (Western Han)"
-    url: "/wiki/entities/wangshangwesternhan/"
   - key: "WangShengXinFourGeneral"
     title: "Wang Sheng / 王盛 (Xin Four General)"
     url: "/wiki/entities/wangshengxinfourgeneral/"
@@ -923,6 +920,9 @@ wiki_pages:
   - key: "WuzhuiHorse"
     title: "乌骓马 / Wuzhui Horse"
     url: "/wiki/entities/wuzhuihorse/"
+  - key: "WangShangChancellorWesternHan"
+    title: "乐昌侯王商 / Wang Shang (Western Han Chancellor)"
+    url: "/wiki/entities/wangshangchancellorwesternhan/"
   - key: "WuGeGeGeDouChongWo"
     title: "五个哥哥都宠我"
     url: "/wiki/entities/wugegegedouchongwo/"
@@ -1142,6 +1142,9 @@ wiki_pages:
   - key: "WeiziQi"
     title: "微子启 / Weizi Qi"
     url: "/wiki/entities/weiziqi/"
+  - key: "WangShangWangClanWesternHan"
+    title: "成都侯王商 / Wang Shang (Western Han Wang Clan)"
+    url: "/wiki/entities/wangshangwangclanwesternhan/"
   - key: "WhyWeSleep"
     title: "我们为什么要睡觉 / Why We Sleep"
     url: "/wiki/entities/whywesleep/"

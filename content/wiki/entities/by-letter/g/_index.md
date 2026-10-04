@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12321
+wiki_total_pages: 12324
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1412,6 +1412,9 @@ wiki_pages:
   - key: "GengKuiLateHan"
     title: "耿夔 / Geng Kui (late Han)"
     url: "/wiki/entities/gengkuilatehan/"
+  - key: "GengDingWesternHan"
+    title: "耿定 / Geng Ding (Western Han)"
+    url: "/wiki/entities/gengdingwesternhan/"
   - key: "GengBaoGrandGeneralLateHan"
     title: "耿宝 / Geng Bao (Grand General, late Han)"
     url: "/wiki/entities/gengbaograndgenerallatehan/"

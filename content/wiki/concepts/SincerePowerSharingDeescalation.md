@@ -14,7 +14,7 @@ Sincere power-sharing de-escalation is a conflict pattern where rivals with over
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] defines the pattern through [[DuYeWesternHan|杜邺]]'s advice to [[WangYinWesternHan|王音]]. [[HanChengdi|汉成帝]] gives [[WangShangWesternHan|王商]] staff and recommendation authority in a court already dominated by Wang-family outer relatives. Because Wang Shang and Wang Yin now have overlapping personnel leverage, competition over appointments and followers could become a usable imperial balancing tool.
+[[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] defines the pattern through [[DuYeWesternHan|杜邺]]'s advice to [[WangYinWesternHan|王音]]. [[HanChengdi|汉成帝]] gives [[WangShangWangClanWesternHan|王商]] staff and recommendation authority in a court already dominated by Wang-family outer relatives. Because Wang Shang and Wang Yin now have overlapping personnel leverage, competition over appointments and followers could become a usable imperial balancing tool.
 
 Du Ye's intervention changes the relationship logic. He does not ask Wang Yin to outmaneuver Wang Shang or merely suppress resentment. He argues from kinship, historical reputation, and shared political responsibility that Wang Yin should consult Wang Shang sincerely on affairs. Once Wang Yin does so, the rivals become close enough that Chengdi's divide-and-balance plan no longer produces the intended internal consumption.
 

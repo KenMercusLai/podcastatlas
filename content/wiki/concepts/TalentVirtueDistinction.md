@@ -13,7 +13,8 @@ sources:
   - zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik
   - zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6
   - zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm
-last_updated: 2026-09-21
+  - zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r
+last_updated: 2026-10-04
 ---
 
 ## Definition
@@ -30,6 +31,8 @@ Hanji 154 then adds a crisis-use boundary through [[WeiWuzhi|Wei Wuzhi]] defendi
 
 The late-Han selection-policy formulation adds another qualification without canceling the amplifier warning. [[HeQiaLateHan|和洽]] warns that extreme visible frugality is not reliable proof of virtue, while [[CaoCao|曹操]]'s talent order and the Meng Gongchuo and [[GuanZhong|管仲]] examples emphasize differentiated office fit and practical usefulness. Moral reputation, visible lifestyle, ability, and role fit must therefore be evaluated separately before they are recombined in an appointment decision; [[zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm|Hanji 1114]] grounds this formulation.
 
+The Western Han conflict in [[zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r|Hanji 515]] restates the Sima Guang formula directly after narrating the Wang Feng-Wang Shang conflict. Its placement adds a procedural caution: virtue remains the directing criterion, but unverifiable private allegations cannot be treated as reliable evidence of vice merely because they are politically useful.
+
 ## Key Claims
 
 - Talent is an amplifier: it can serve public order or make harmful action more effective.
@@ -38,7 +41,7 @@ The late-Han selection-policy formulation adds another qualification without can
 - Rulers fail the distinction through false positives, especially when reputation, persuasion, or useful tricks are mistaken for governing-level worth.
 - Motive and talent level matter because skill used for private gain or low-level rescue is not automatically statecraft.
 - Hanji 779 adds that military reputation can fail the talent-virtue test when the job requires local legitimacy, patience, and indirect governance.
-- Hanji 1114 adds that visible austerity is an unreliable virtue proxy and that appointment judgment must distinguish lifestyle, character, capability, and office fit.
+- Visible austerity is an unreliable virtue proxy, appointment judgment must distinguish lifestyle, character, capability, and office fit, and prioritizing virtue still requires credible evidence rather than factional moral accusation.
 
 ## Evidence
 
@@ -49,15 +52,17 @@ The late-Han selection-policy formulation adds another qualification without can
 - Eastern Han appointment warning: [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]] restates the fourfold frame and shows Ren Shang's capable but harsh Western Regions governance failing after he ignores Ban Chao's advice.
 - Positive repair contrast: [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]] pairs the Ren Shang warning with Fan Zhun's education memorial and Lu Gong's judicial-calendar reform.
 - Late-Han selection qualification: [[zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm|Hanji 1114]] combines He Qia's critique of performative austerity with Cao Cao's role-fit talent order and Guan Zhong as the disputed-conduct, high-capacity example.
+- Western Han restatement and evidence boundary: [[zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r|Hanji 515]] repeats the saint-gentleman-fool-lesser-person scheme while its Wang Shang case shows why accusations of bad character require verification.
 
 ## Counterevidence & Qualifications
 
-The concept is normative and source-framed, not a neutral modern hiring model. Several sources deliberately qualify the strictest reading: Wu Qi, Chen Ping, and the Guan Zhong example show that flawed people may be useful when the role is bounded, the need is real, and the decision-maker can manage risk. Hanji 779 does not prove that Ren Shang lacked every virtue or ability; it shows that his known strengths were mismatched to Western Regions governance. Hanji 1114's “唯才是举” framing likewise does not prove that moral risk is irrelevant, only that visible austerity and generalized reputation are inadequate substitutes for role-specific judgment.
+The concept is normative and source-framed, not a neutral modern hiring model. Several sources deliberately qualify the strictest reading: Wu Qi, Chen Ping, and the Guan Zhong example show that flawed people may be useful when the role is bounded, the need is real, and the decision-maker can manage risk. Hanji 779 does not prove that Ren Shang lacked every virtue or ability; it shows that his known strengths were mismatched to Western Regions governance. Hanji 1114's “唯才是举” framing likewise does not prove that moral risk is irrelevant, only that visible austerity and generalized reputation are inadequate substitutes for role-specific judgment. Hanji 515's closing teaching is the host's normative extension, and its private-conduct allegations remain unresolved rather than proof of Wang Shang's virtue or vice.
 
 ## What Changed
 
 - Added Hanji 1114's distinction among visible lifestyle, underlying character, practical capability, and office fit.
 - Added He Qia's warning that extreme austerity can corrupt the virtue signal used in personnel judgment.
+- Added Hanji 515's direct restatement and clarified that virtue-first judgment still requires credible evidence.
 
 ## Related Concepts
 

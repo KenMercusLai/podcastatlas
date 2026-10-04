@@ -11,7 +11,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-Wang Tan / 王谭 enters the wiki through [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] as Ping'a Hou, a Wang-family figure whose death makes [[HanChengdi|汉成帝]] regret an earlier personnel choice and renew his use of [[WangShangWesternHan|王商]] as a counterweight inside Wang-family power. [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] backfills the earlier moment when Chengdi proposes him as [[WangFengWesternHan|王凤]]'s successor, only for Wang Feng to reject him as extravagant and unsuitable.
+Wang Tan / 王谭 enters the wiki through [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] as Ping'a Hou, a Wang-family figure whose death makes [[HanChengdi|汉成帝]] regret an earlier personnel choice and renew his use of [[WangShangWangClanWesternHan|王商]] as a counterweight inside Wang-family power. [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] backfills the earlier moment when Chengdi proposes him as [[WangFengWesternHan|王凤]]'s successor, only for Wang Feng to reject him as extravagant and unsuitable.
 
 ## Current Profile
 
@@ -55,6 +55,6 @@ This page is source-scoped to Hanji 533 and Hanji 523 and does not reconstruct W
 - [[HanChengdi|汉成帝]] - ruler who first proposes Wang Tan as successor and later regrets not using him.
 - [[WangFengWesternHan|王凤]] - dying patron who rejects Wang Tan as successor.
 - [[WangYinWesternHan|王音]] - cautious alternative whom Wang Feng recommends instead.
-- [[WangShangWesternHan|王商]] - later counterweight candidate after Wang Tan's death.
+- [[WangShangWangClanWesternHan|王商]] - later counterweight candidate after Wang Tan's death.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - broader kinship-power field in which Wang Tan's possible role matters.
 - [[SincerePowerSharingDeescalation|真诚共治式冲突降温]] - later repair pattern that prevents Chengdi's counterweight design from succeeding.

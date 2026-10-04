@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Profile
 
-The group is a compact outer-relative reward bloc. The episode names [[WangTanWesternHan|王谭]], [[WangShangWesternHan|王商]], [[WangLiWesternHan|王立]], [[WangGenWesternHan|王根]], and [[WangFengMarquisWesternHan|王逢]] as the five, while noting that Wang Zhengjun's same-father brother [[WangManWesternHan|王曼]] had died earlier. The significance is less any single office than the public spectacle of maternal-family concentration.
+The group is a compact outer-relative reward bloc. The episode names [[WangTanWesternHan|王谭]], [[WangShangWangClanWesternHan|王商]], [[WangLiWesternHan|王立]], [[WangGenWesternHan|王根]], and [[WangFengMarquisWesternHan|王逢]] as the five, while noting that Wang Zhengjun's same-father brother [[WangManWesternHan|王曼]] had died earlier. The significance is less any single office than the public spectacle of maternal-family concentration.
 
 ## Key Characteristics
 
@@ -40,6 +40,6 @@ This page is source-scoped to Hanji 511. It does not reconstruct all five titles
 
 - [[WangZhengjun|王政君]] - elder sister and dowager source of the group's political significance.
 - [[HanChengdi|汉成帝]] - ruler who enfeoffs the five.
-- [[WangTanWesternHan|王谭]], [[WangShangWesternHan|王商]], [[WangLiWesternHan|王立]], [[WangGenWesternHan|王根]], and [[WangFengMarquisWesternHan|王逢]] - individual Wang-family figures grouped by the episode.
+- [[WangTanWesternHan|王谭]], [[WangShangWangClanWesternHan|王商]], [[WangLiWesternHan|王立]], [[WangGenWesternHan|王根]], and [[WangFengMarquisWesternHan|王逢]] - individual Wang-family figures grouped by the episode.
 - [[OuterRelativePreventiveRestraint|外戚预防性约束]] - contrasting concept because the group shows honor turning into concentrated kinship privilege rather than being restrained.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - downstream danger field to which concentrated natal-family rewards can contribute.

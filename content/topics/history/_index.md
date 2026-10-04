@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2556
+topic_total_pages: 2555
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2501,9 +2501,6 @@ topic_entities:
   - key: "WangMang"
     title: "Wang Mang / 王莽"
     url: "/wiki/entities/wangmang/"
-  - key: "WangShangWesternHan"
-    title: "Wang Shang / 王商 (Western Han)"
-    url: "/wiki/entities/wangshangwesternhan/"
   - key: "WangShengXinFourGeneral"
     title: "Wang Sheng / 王盛 (Xin Four General)"
     url: "/wiki/entities/wangshengxinfourgeneral/"

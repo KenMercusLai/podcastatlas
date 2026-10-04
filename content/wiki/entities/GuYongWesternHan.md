@@ -34,7 +34,7 @@ Hanji 510 adds that Gu Yong's caution can also be diplomatic. When Yi Yan Moyan 
 
 Hanji 543 shows Gu Yong in a different advisory register. After Chengdi restores major sacrifices following an eclipse and violent wind at Ganquan, fangshu petitioners increase around the emperor's childlessness. Gu Yong's memorial rejects the authority of those who promise immortals, deathlessness, and transmutation, placing him beside [[FangshiFraudAndAuthority|方士骗术与权威]] as a court skeptic rather than only a patronage-stigma example.
 
-Hanji 538 shows why later memories of his repeated Chengdi criticism could be politically fraught. As Liangzhou刺史, Gu Yong is asked to interpret repeated natural phenomena and answers with unusually direct blame. The episode treats the boldness as sponsored speech: [[WangZhengjun|王政君]] and imperial uncles want Chengdi corrected, while [[WangShangWesternHan|王商]] warns Gu Yong to flee once Chengdi orders him arrested. Gu Yong's safety therefore depends on both the content of remonstrance and the backing structure around it.
+Hanji 538 shows why later memories of his repeated Chengdi criticism could be politically fraught. As Liangzhou刺史, Gu Yong is asked to interpret repeated natural phenomena and answers with unusually direct blame. The episode treats the boldness as sponsored speech: [[WangZhengjun|王政君]] and imperial uncles want Chengdi corrected, while [[WangShangWangClanWesternHan|王商]] warns Gu Yong to flee once Chengdi orders him arrested. Gu Yong's safety therefore depends on both the content of remonstrance and the backing structure around it.
 
 Hanji 545 shows Gu Yong in a procedural rather than omen-only register. After the Liang king case expands from speech against Chengdi's outer-relative family into an incest allegation involving [[LiuYuanziWesternHan|刘原子]], Gu Yong argues that private royal-house accusations require careful review. His defense moves from ritual privacy to evidentiary plausibility: the original charge was unproved, Liu Li denies the sexual accusation, the age and incentive structure seem odd, and Liu Yuanzi would have reason not to expose such disgrace. The episode therefore adds Gu Yong as a defender of bounded procedure when scandal could become a capital case.
 
@@ -88,7 +88,7 @@ This page is source-scoped to Hanji 552, Hanji 543, Hanji 538, Hanji 545, Hanji 
 ## Relationships
 
 - [[HanChengdi|汉成帝]] - ruler who distrusts and eventually lets Gu Yong retire.
-- [[WangShangWesternHan|王商]] - Wang-family protector who warns Gu Yong to flee after Chengdi's arrest order.
+- [[WangShangWangClanWesternHan|王商]] - Wang-family protector who warns Gu Yong to flee after Chengdi's arrest order.
 - [[OmenCodedRemonstrance|天象灾异包装式进谏]] - rhetorical field for Gu Yong's use of natural phenomena as permission to criticize ruler conduct.
 - [[RoyalKinshipScandalAdjudication|宗室亲属丑闻审理]] - procedural field for Gu Yong's defense of Liu Li against a capital kinship-transgression charge.
 - [[FangshiFraudAndAuthority|方士骗术与权威]] - concept Gu Yong's memorial supports by rejecting immortal and alchemical fraud claims.

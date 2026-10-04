@@ -13,7 +13,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-Wang Yin / 王音 enters the wiki through [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] as the cautious Wang-family powerholder whom [[HanChengdi|汉成帝]] tries to check by re-empowering [[WangShangWesternHan|王商]]. [[zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo|Hanji 522]] backfills his earlier Yangshuo 2 appointment as Yushi Dafu inside a Wang-family expansion field, [[zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw|Hanji 525]] gives him an omen-remonstrance layer around a pheasant event, and [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] records the deathbed recommendation by [[WangFengWesternHan|王凤]] that lifts him toward the Da Sima succession.
+Wang Yin / 王音 enters the wiki through [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] as the cautious Wang-family powerholder whom [[HanChengdi|汉成帝]] tries to check by re-empowering [[WangShangWangClanWesternHan|王商]]. [[zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo|Hanji 522]] backfills his earlier Yangshuo 2 appointment as Yushi Dafu inside a Wang-family expansion field, [[zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw|Hanji 525]] gives him an omen-remonstrance layer around a pheasant event, and [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] records the deathbed recommendation by [[WangFengWesternHan|王凤]] that lifts him toward the Da Sima succession.
 
 ## Current Profile
 
@@ -65,7 +65,7 @@ This page is source-scoped to Hanji 533, Hanji 525, Hanji 523, and Hanji 522 and
 - [[WangFengWesternHan|王凤]] - dying patron who recommends Wang Yin as successor.
 - [[LiuXiang|刘向]] - remonstrant whose Wang-family critique includes the appointment field around Wang Yin.
 - [[HanChengdi|汉成帝]] - ruler whose balancing move tries to set Wang Shang against Wang Yin.
-- [[WangShangWesternHan|王商]] - Wang-family counterpart with whom Wang Yin develops sincere consultation.
+- [[WangShangWangClanWesternHan|王商]] - Wang-family counterpart with whom Wang Yin develops sincere consultation.
 - [[WangTanWesternHan|王谭]] - rejected deathbed alternative and later deceased figure whose absence leads Chengdi to reuse Wang Shang.
 - [[DuYeWesternHan|杜邺]] - mediator who persuades Wang Yin to cooperate rather than resent.
 - [[OmenCodedRemonstrance|天象灾异包装式进谏]] - court speech strategy Wang Yin uses when reading the pheasant anomaly.

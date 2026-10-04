@@ -84885,6 +84885,22 @@
       "updated": "2026-09-03",
       "url": "/wiki/entities/gengchuneasternhan/"
     },
+    "GengDingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？ [lsHhIvOWk9jpigkr7SsJiYSEfM6R].md",
+          "key": "zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/gengdingwesternhan/"
+    },
     "GengGongEasternHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -143185,9 +143201,9 @@
       "url": "/wiki/entities/merlin/"
     },
     "MessageRelayPoliticalPower": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
@@ -143209,9 +143225,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？ [lsHhIvOWk9jpigkr7SsJiYSEfM6R].md",
+          "key": "zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/messagerelaypoliticalpower/"
     },
     "MetaMoment": {
@@ -147676,9 +147699,9 @@
       "url": "/wiki/concepts/moralresponsibilityunderdeterminism/"
     },
     "MoralSlanderReframing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？ [li_C6eZwFpeJcvbrpzOjg_xv2gE8].md",
@@ -147693,9 +147716,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1090丨他曾冒死藏兄、为母哭血，真是不孝之人吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？ [lsHhIvOWk9jpigkr7SsJiYSEfM6R].md",
+          "key": "zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/moralslanderreframing/"
     },
     "MorganaticMarriage": {
@@ -205715,9 +205745,9 @@
       "url": "/wiki/concepts/talentsummonsrulerselfexamination/"
     },
     "TalentVirtueDistinction": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？ [li_C6eZwFpeJcvbrpzOjg_xv2gE8].md",
@@ -205781,9 +205811,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？ [lsHhIvOWk9jpigkr7SsJiYSEfM6R].md",
+          "key": "zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/talentvirtuedistinction/"
     },
     "Taliban": {
@@ -220016,9 +220053,9 @@
       "url": "/wiki/entities/wangfengmarquiswesternhan/"
     },
     "WangFengWesternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？ [lu9NgWdMqsETZSuvCe0Ccx4I7Z3-].md",
@@ -220082,6 +220119,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子",
           "url": "/wiki/sources/zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？ [lsHhIvOWk9jpigkr7SsJiYSEfM6R].md",
+          "key": "zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r/"
         }
       ],
       "updated": "2026-10-04",
@@ -221412,10 +221456,40 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/wangqingbuheshiyi/"
     },
-    "WangShangWesternHan": {
-      "episode_count": 7,
+    "WangShangChancellorWesternHan": {
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？ [ljUWccXx_aeXAsAfKPBL-y2RvOS5].md",
+          "key": "zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》514丨大小“王”对决，你猜谁能赢？ [lnlvThkkqBP_ZO2Lfpp4BQmh5NSu].md",
+          "key": "zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》514丨大小“王”对决，你猜谁能赢？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？ [lsHhIvOWk9jpigkr7SsJiYSEfM6R].md",
+          "key": "zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/wangshangchancellorwesternhan/"
+    },
+    "WangShangWangClanWesternHan": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》538丨骂汉成帝，为何没被株连 [lmDphgGOd_t9uk7Uu5z_53rjkJ7U].md",
@@ -221451,24 +221525,10 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》527-1丨汉成帝杀舅记：装可怜虽然可耻，但是有用！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn/"
-        },
-        {
-          "episode_file": "《资治通鉴·汉纪》514丨大小“王”对决，你猜谁能赢？ [lnlvThkkqBP_ZO2Lfpp4BQmh5NSu].md",
-          "key": "zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu",
-          "show": "芮淇讲透资治通鉴",
-          "title": "《资治通鉴·汉纪》514丨大小“王”对决，你猜谁能赢？",
-          "url": "/wiki/sources/zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu/"
-        },
-        {
-          "episode_file": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？ [ljUWccXx_aeXAsAfKPBL-y2RvOS5].md",
-          "key": "zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5",
-          "show": "芮淇讲透资治通鉴",
-          "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",
-          "url": "/wiki/sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5/"
         }
       ],
-      "updated": "2026-09-12",
-      "url": "/wiki/entities/wangshangwesternhan/"
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/wangshangwangclanwesternhan/"
     },
     "WangShengPalaceActorLateHan": {
       "episode_count": 5,
@@ -232686,6 +232746,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yangqiaolatehan/"
+    },
+    "YangRongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？ [lsHhIvOWk9jpigkr7SsJiYSEfM6R].md",
+          "key": "zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/yangrongwesternhan/"
     },
     "YangSongLateHan": {
       "episode_count": 1,

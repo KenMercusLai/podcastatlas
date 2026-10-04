@@ -33483,6 +33483,10 @@
     "title": "耿纯 / Geng Chun (Eastern Han)",
     "url": "/wiki/entities/gengchuneasternhan/"
   },
+  "GengDingWesternHan": {
+    "title": "耿定 / Geng Ding (Western Han)",
+    "url": "/wiki/entities/gengdingwesternhan/"
+  },
   "GengGongEasternHan": {
     "title": "耿恭 / Geng Gong (Eastern Han)",
     "url": "/wiki/entities/genggongeasternhan/"
@@ -83683,9 +83687,13 @@
     "title": "王瑞 / Wang Rui (late Han)",
     "url": "/wiki/entities/wangruilatehan/"
   },
-  "WangShangWesternHan": {
-    "title": "Wang Shang / 王商 (Western Han)",
-    "url": "/wiki/entities/wangshangwesternhan/"
+  "WangShangChancellorWesternHan": {
+    "title": "乐昌侯王商 / Wang Shang (Western Han Chancellor)",
+    "url": "/wiki/entities/wangshangchancellorwesternhan/"
+  },
+  "WangShangWangClanWesternHan": {
+    "title": "成都侯王商 / Wang Shang (Western Han Wang Clan)",
+    "url": "/wiki/entities/wangshangwangclanwesternhan/"
   },
   "WangShengPalaceActorLateHan": {
     "title": "王圣 / Wang Sheng (late Han palace actor)",
@@ -87922,6 +87930,10 @@
   "YangQiuLateHan": {
     "title": "阳球 / Yang Qiu (late Han)",
     "url": "/wiki/entities/yangqiulatehan/"
+  },
+  "YangRongWesternHan": {
+    "title": "杨荣 / Yang Rong (Western Han)",
+    "url": "/wiki/entities/yangrongwesternhan/"
   },
   "YangShen": {
     "title": "杨慎",
@@ -99770,6 +99782,10 @@
   "zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu": {
     "title": "《资治通鉴·汉纪》514丨大小“王”对决，你猜谁能赢？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu/"
+  },
+  "zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r": {
+    "title": "《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r/"
   },
   "zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn": {
     "title": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子",

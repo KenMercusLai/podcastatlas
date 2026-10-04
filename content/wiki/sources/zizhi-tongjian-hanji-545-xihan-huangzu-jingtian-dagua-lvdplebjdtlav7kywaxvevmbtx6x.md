@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 4 / 13 BCE and Yuan延 1 / 12 BCE under [[HanChengdi|汉成帝]], between [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]] and [[zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv|Hanji 546]]. It first links drought, fires, and eclipse anxiety to [[WangShangWesternHan|王商]]'s removal, then centers [[LiuLiWesternHan|梁王刘立]]'s scandal case and [[GuYongWesternHan|谷永]]'s procedural defense against a "禽兽行" capital charge.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 4 / 13 BCE and Yuan延 1 / 12 BCE under [[HanChengdi|汉成帝]], between [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]] and [[zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv|Hanji 546]]. It first links drought, fires, and eclipse anxiety to [[WangShangWangClanWesternHan|王商]]'s removal, then centers [[LiuLiWesternHan|梁王刘立]]'s scandal case and [[GuYongWesternHan|谷永]]'s procedural defense against a "禽兽行" capital charge.
 
 The durable synthesis is that palace and royal-house scandal becomes politically dangerous when disaster pressure, outer-relative speech, kinship taboo, and prosecutorial expansion align. Gu Yong does not simply deny moral danger; he argues that the initial report against Liu Li failed, that private sexual allegations are hard to verify, that coerced or confused testimony can create a false public disgrace, and that [[HanChengdi|Chengdi]] should preserve royal-house trust through careful review rather than spectacular punishment.
 
@@ -38,7 +38,7 @@ The durable synthesis is that palace and royal-house scandal becomes politically
 
 ## Connections
 
-- [[HanChengdi|汉成帝]], [[WangShangWesternHan|王商]], and [[DisasterOmenCrisisRedirection|灾异压力转移]] - disasters create personnel pressure, first removing Wang Shang and then making his restoration meaningful when new anomalies appear.
+- [[HanChengdi|汉成帝]], [[WangShangWangClanWesternHan|王商]], and [[DisasterOmenCrisisRedirection|灾异压力转移]] - disasters create personnel pressure, first removing Wang Shang and then making his restoration meaningful when new anomalies appear.
 - [[LiuLiWesternHan|梁王刘立]], [[LiuYuanziWesternHan|刘原子]], and [[RoyalKinshipScandalAdjudication|宗室亲属丑闻审理]] - the Liang case ties kinship taboo, royal dignity, testimony risk, and review procedure together.
 - [[GuYongWesternHan|谷永]] and [[PoliticalCaseEvidenceSkepticism|政治案件证据怀疑]] - Gu Yong's memorial treats politically useful accusations as dangerous when the initial charge fails and later private allegations are difficult to verify.
 - [[HeWuWesternHan|何武]] - the source adds an early Jingzhao Yin layer before He Wu's better-known Three Excellencies and legal-judgment cases.

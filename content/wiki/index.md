@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？](sources/zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r.md) — 王凤截留丞相王商对杨荣的奏章、转以私德指控反击，并引出才德之分与证据边界。
 - [670. Tom Holland Meets Paul McCartney](sources/670-tom-holland-meets-paul-mccartney-glt5781731754.md) — Paul McCartney on Liverpool's postwar port culture, informal musical learning, Lennon-McCartney collaboration, songwriting and loss, and memory's historical limits.
 - [《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子](sources/zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn.md) — 王章劝汉成帝撤换王凤，却在王政君施压与皇帝反转后死于狱中的外戚权力与弱势领导案例。
 - [这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》](sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp.md) — 电影巨辩 episode on horror's post-2010 resurgence, internet-native directors, Backrooms liminal space, and Obsession's consent critique.
@@ -5829,7 +5830,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李勋 / Li Xun (Western Han flood-control adviser)](entities/LiXunFloodControlWesternHan.md) — Pingling adviser whose Yellow River proposal favors observing the breach before forced repair.
 - [赵护 / Zhao Hu (Western Han)](entities/ZhaoHuWesternHan.md) — Official appointed to Guanghan and rewarded after the suppression of Zheng Gong's uprising.
 - [郑公 / Zheng Gong (Western Han)](entities/ZhengGongWesternHan.md) — Guanghan uprising leader who calls himself "山君" in Hanji 532.
-- [Wang Shang / 王商 (Western Han)](entities/WangShangWesternHan.md) — Wang-family figure used as Chengdi's counterweight to Wang Yin, later Gu Yong protector, Chen Tang accuser, and disaster-pressure officeholder.
+- [乐昌侯王商 / Wang Shang (Western Han Chancellor)](entities/WangShangChancellorWesternHan.md) — Chengdi-era chancellor whose flood-rumor judgment precedes a blocked Yang Rong impeachment and retaliatory private-conduct accusations.
+- [成都侯王商 / Wang Shang (Western Han Wang Clan)](entities/WangShangWangClanWesternHan.md) — Wang-family outer relative used as a counterweight to Wang Yin, later Gu Yong protector, Chen Tang accuser, and disaster-pressure officeholder.
+- [杨荣 / Yang Rong (Western Han)](entities/YangRongWesternHan.md) — Qi governor protected by Wang Feng when Chancellor Wang Shang tries to impeach him after the Langya disaster.
+- [耿定 / Geng Ding (Western Han)](entities/GengDingWesternHan.md) — Counter-accuser whose unverifiable private-conduct claims redirect the Wang Shang conflict.
 - [Wang Yin / 王音 (Western Han)](entities/WangYinWesternHan.md) — Cautious Wang-family powerholder whose potential rivalry with Wang Shang is defused through Du Ye's sincere-consultation advice.
 - [Wang Tan / 王谭 (Western Han)](entities/WangTanWesternHan.md) — Ping'a Hou whose death leads Chengdi to empower Wang Shang as a renewed internal Wang-family counterweight.
 - [张放 / Zhang Fang (Western Han)](entities/ZhangFangWesternHan.md) — Chengdi favorite whose palace access, kinship backing, and exile show the fragility of favorite protection under dowager and ministerial pressure.

@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Changling punishment sequence between [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] and [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|Hanji 542]]. It centers [[ChenTangWesternHan|陈汤]] being impeached by [[WangShangWesternHan|王商]], spared because of earlier merit, but reduced to commoner status and moved to the frontier.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Changling punishment sequence between [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] and [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|Hanji 542]]. It centers [[ChenTangWesternHan|陈汤]] being impeached by [[WangShangWangClanWesternHan|王商]], spared because of earlier merit, but reduced to commoner status and moved to the frontier.
 
 The durable synthesis is that Changling punishment cannot be read from the formal charge alone. Chen Tang's Guandong elite-relocation proposal served a strong-trunk weak-branch purpose, but it threatened powerful households and their court ties; his reputation for greed made him easier to attack, while [[HanChengdi|汉成帝]]'s later reward for [[ChunyuZhangWesternHan|淳于长]] and demotion of [[PingDangWesternHan|平当]] show public reasons and private motives diverging in the same policy field.
 
@@ -36,7 +36,7 @@ The durable synthesis is that Changling punishment cannot be read from the forma
 
 ## Connections
 
-- [[ChenTangWesternHan|陈汤]], [[WangShangWesternHan|王商]], and [[HanChengdi|汉成帝]] - the main impeachment and punishment sequence.
+- [[ChenTangWesternHan|陈汤]], [[WangShangWangClanWesternHan|王商]], and [[HanChengdi|汉成帝]] - the main impeachment and punishment sequence.
 - [[StrongTrunkWeakBranchCentralization|强干弱枝式集权]] and [[GuanzhongEliteRelocation|关中豪强迁徙]] - the episode reads Changling relocation as a later version of moving powerful households toward the imperial center.
 - [[InterestBasedCoalitionSabotage|利益瓦解合纵]] - related incentive logic: aligned interests can turn a policy implementer into the target.
 - [[ChunyuZhangWesternHan|淳于长]], [[ZhaoFeiyanWesternHan|赵飞燕]], and [[PublicReasonPrivateMotive|公开理由与私下动机错位]] - Chunyu's public Changling merit is read as cover for a private gratitude debt.

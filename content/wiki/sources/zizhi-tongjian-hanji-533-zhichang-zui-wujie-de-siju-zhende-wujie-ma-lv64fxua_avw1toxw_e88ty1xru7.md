@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Hongjia 4 / 17 BCE under [[HanChengdi|汉成帝]], between the Guanghan uprising in [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] and the Zhao Feiyan elevation in [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]]. It follows Chengdi's renewed empowerment of [[WangShangWesternHan|王商]], his attempted use of Wang Shang to check [[WangYinWesternHan|王音]], and [[DuYeWesternHan|杜邺]] persuading Wang Yin to consult Wang Shang sincerely rather than turn overlapping authority into Wang-family infighting.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Hongjia 4 / 17 BCE under [[HanChengdi|汉成帝]], between the Guanghan uprising in [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] and the Zhao Feiyan elevation in [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]]. It follows Chengdi's renewed empowerment of [[WangShangWangClanWesternHan|王商]], his attempted use of Wang Shang to check [[WangYinWesternHan|王音]], and [[DuYeWesternHan|杜邺]] persuading Wang Yin to consult Wang Shang sincerely rather than turn overlapping authority into Wang-family infighting.
 
 The durable synthesis is that a power-balancing design can fail when rivals convert a structural competition into visible cooperation. The host translates Du Ye's intervention into a workplace lesson: where personnel authority, family or faction membership, and personality difference make conflict likely, sincere consultation around shared organizational interest can sometimes lower internal friction more effectively than clever counterbalancing.
 
@@ -36,7 +36,7 @@ The durable synthesis is that a power-balancing design can fail when rivals conv
 
 ## Connections
 
-- [[HanChengdi|汉成帝]], [[WangShangWesternHan|王商]], [[WangYinWesternHan|王音]], and [[WangTanWesternHan|王谭]] - the source's central court-power sequence around Wang-family balancing.
+- [[HanChengdi|汉成帝]], [[WangShangWangClanWesternHan|王商]], [[WangYinWesternHan|王音]], and [[WangTanWesternHan|王谭]] - the source's central court-power sequence around Wang-family balancing.
 - [[DuYeWesternHan|杜邺]] - appears here in an earlier mediation role before his later Aidi-era omen remonstrance.
 - [[SincerePowerSharingDeescalation|真诚共治式冲突降温]] - concept created from Du Ye's intervention and Wang Yin's consultation practice.
 - [[RespectBasedConflictDeescalation|尊重式冲突降温]] - nearby conflict-management pattern; this episode emphasizes sincere joint process rather than public recognition of a jealous rival.
