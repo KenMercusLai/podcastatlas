@@ -47884,6 +47884,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/crosslanguagerecommendationbias/"
     },
+    "CrossNationalLearningDecline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "School of shock： teenagers get dimmer [6a9fd55a89f0f48b8810a1bb].md",
+          "key": "school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb",
+          "show": "Economist Podcasts",
+          "title": "School of shock: teenagers get dimmer",
+          "url": "/wiki/sources/school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/crossnationallearningdecline/"
+    },
     "CrossSegmentMemoryCompetition": {
       "episode_count": 1,
       "show_count": 1,
@@ -113300,6 +113316,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/jeremythorpe/"
     },
+    "JeremyVineShow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "School of shock： teenagers get dimmer [6a9fd55a89f0f48b8810a1bb].md",
+          "key": "school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb",
+          "show": "Economist Podcasts",
+          "title": "School of shock: teenagers get dimmer",
+          "url": "/wiki/sources/school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/jeremyvineshow/"
+    },
     "JerusalemHymn": {
       "episode_count": 1,
       "show_count": 1,
@@ -142941,6 +142973,29 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/miwuqiangleader/"
     },
+    "Miami": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "School of shock： teenagers get dimmer [6a9fd55a89f0f48b8810a1bb].md",
+          "key": "school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb",
+          "show": "Economist Podcasts",
+          "title": "School of shock: teenagers get dimmer",
+          "url": "/wiki/sources/school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/miami/"
+    },
     "MianKouLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -158755,6 +158810,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/pgatour/"
     },
+    "PISA": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "School of shock： teenagers get dimmer [6a9fd55a89f0f48b8810a1bb].md",
+          "key": "school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb",
+          "show": "Economist Podcasts",
+          "title": "School of shock: teenagers get dimmer",
+          "url": "/wiki/sources/school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/pisa/"
+    },
     "POINTERTrial": {
       "episode_count": 1,
       "show_count": 1,
@@ -164256,6 +164327,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/phonefreeconcertexperience/"
+    },
+    "PhoneInRadioPublicMood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "School of shock： teenagers get dimmer [6a9fd55a89f0f48b8810a1bb].md",
+          "key": "school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb",
+          "show": "Economist Podcasts",
+          "title": "School of shock: teenagers get dimmer",
+          "url": "/wiki/sources/school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/phoneinradiopublicmood/"
     },
     "PhotoCaptureProvenance": {
       "episode_count": 1,
@@ -196045,6 +196132,29 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/southchinaaa/"
+    },
+    "SouthFloridaTechMigration": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "School of shock： teenagers get dimmer [6a9fd55a89f0f48b8810a1bb].md",
+          "key": "school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb",
+          "show": "Economist Podcasts",
+          "title": "School of shock: teenagers get dimmer",
+          "url": "/wiki/sources/school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/southfloridatechmigration/"
     },
     "SouthSudan": {
       "episode_count": 2,

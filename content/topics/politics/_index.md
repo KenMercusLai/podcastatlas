@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3065
+topic_total_pages: 3066
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -997,6 +997,9 @@ topic_concepts:
   - key: "CrossDatasetPrivacyLinkage"
     title: "Cross-Dataset Privacy Linkage"
     url: "/wiki/concepts/crossdatasetprivacylinkage/"
+  - key: "CrossNationalLearningDecline"
+    title: "Cross-National Learning Decline"
+    url: "/wiki/concepts/crossnationallearningdecline/"
   - key: "CrossProjectCashTransfer"
     title: "Cross-Project Cash Transfer"
     url: "/wiki/concepts/crossprojectcashtransfer/"

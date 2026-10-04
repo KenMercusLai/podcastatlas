@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12294
+wiki_total_pages: 12296
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1379,6 +1379,9 @@ wiki_pages:
   - key: "JohnOldcastle"
     title: "Sir John Oldcastle"
     url: "/wiki/entities/johnoldcastle/"
+  - key: "JeremyVineShow"
+    title: "The Jeremy Vine Show"
+    url: "/wiki/entities/jeremyvineshow/"
   - key: "JurassicWorldRebirth"
     title: "《侏罗纪世界：重生》 / Jurassic World: Rebirth"
     url: "/wiki/entities/jurassicworldrebirth/"

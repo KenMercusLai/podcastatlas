@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 12294
+wiki_total_pages: 12296
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -959,6 +959,9 @@ wiki_pages:
   - key: "ProfessionalWomensHockeyLeague"
     title: "Professional Women's Hockey League"
     url: "/wiki/entities/professionalwomenshockeyleague/"
+  - key: "PISA"
+    title: "Programme for International Student Assessment (PISA)"
+    url: "/wiki/entities/pisa/"
   - key: "Project2025"
     title: "Project 2025"
     url: "/wiki/entities/project2025/"

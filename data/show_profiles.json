@@ -323,8 +323,8 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-10-01",
       "latest_episode_file": "Trial and terror： Russia escalates Kyiv campaign [6abe39c382177b9ab8a8904c].md",
-      "source_note_count": 87,
-      "topic_matched_source_note_count": 78,
+      "source_note_count": 88,
+      "topic_matched_source_note_count": 79,
       "topics": [
         {
           "key": "politics",
@@ -333,15 +333,15 @@
           "source_note_count": 58
         },
         {
-          "key": "technology",
-          "label": "Technology",
-          "url": "/topics/technology/",
-          "source_note_count": 26
-        },
-        {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
+          "source_note_count": 27
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
           "source_note_count": 26
         },
         {
@@ -411,8 +411,8 @@
       ],
       "start_here_episode_files": [
         "Trial and terror： Russia escalates Kyiv campaign [6abe39c382177b9ab8a8904c].md",
-        "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
         "Cheques and the City： Premier League disgrace [6abcdaab4e059d44b566ca74].md",
+        "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
         "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md"
       ]
     },

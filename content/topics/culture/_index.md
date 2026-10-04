@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3113
+topic_total_pages: 3117
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -901,6 +901,9 @@ topic_concepts:
   - key: "CrossLanguageRecommendationBias"
     title: "Cross-Language Recommendation Bias"
     url: "/wiki/concepts/crosslanguagerecommendationbias/"
+  - key: "CrossNationalLearningDecline"
+    title: "Cross-National Learning Decline"
+    url: "/wiki/concepts/crossnationallearningdecline/"
   - key: "CrosstalkLiteraryRhythm"
     title: "Crosstalk Literary Rhythm"
     url: "/wiki/concepts/crosstalkliteraryrhythm/"
@@ -2221,6 +2224,9 @@ topic_concepts:
   - key: "PersonalRedemptionStructuralLimit"
     title: "Personal Redemption and Structural Limits"
     url: "/wiki/concepts/personalredemptionstructurallimit/"
+  - key: "PhoneInRadioPublicMood"
+    title: "Phone-In Radio as a Public-Mood Signal"
+    url: "/wiki/concepts/phoneinradiopublicmood/"
   - key: "PhysicalBookDesignTradeoff"
     title: "Physical Book Design Tradeoff"
     url: "/wiki/concepts/physicalbookdesigntradeoff/"
@@ -5315,6 +5321,9 @@ topic_entities:
   - key: "ProfessionalWomensHockeyLeague"
     title: "Professional Women's Hockey League"
     url: "/wiki/entities/professionalwomenshockeyleague/"
+  - key: "PISA"
+    title: "Programme for International Student Assessment (PISA)"
+    url: "/wiki/entities/pisa/"
   - key: "ProjectionsBook"
     title: "Projections"
     url: "/wiki/entities/projectionsbook/"
@@ -9042,6 +9051,9 @@ topic_sources:
   - key: "tsr-ronconway-part4-v2-tsr-ronconway-part4-v2"
     title: "Ron Conway on Napster, Founder Relationships, and SV Angel's Crisis Work"
     url: "/wiki/sources/tsr-ronconway-part4-v2-tsr-ronconway-part4-v2/"
+  - key: "school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb"
+    title: "School of shock: teenagers get dimmer"
+    url: "/wiki/sources/school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb/"
   - key: "snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d"
     title: "Snap judgement: Japan PM’s electoral landslide"
     url: "/wiki/sources/snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d/"

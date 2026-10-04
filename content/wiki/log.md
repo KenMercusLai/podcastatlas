@@ -29329,3 +29329,11 @@ Added source `kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-puton
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | School of shock: teenagers get dimmer
+
+Added source `school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb`; created [[PISA]], [[JeremyVineShow]], [[CrossNationalLearningDecline]], and [[PhoneInRadioPublicMood]]; and resynthesized [[Miami]] and [[SouthFloridaTechMigration]] from their complete preserved evidence inventories. Core synthesis: recent PISA weakness compounds a pre-pandemic decline without establishing one universal cause; Miami's tax, political, property, and service networks can attract mobile capital while remaining exposed to shallow operating depth, leadership cycles, climate, and insurance risk; and phone-in radio can surface public concerns early without becoming a representative survey. No settled contradiction was adopted. Score comparisons, country explanations, AI-use interpretation, tax and growth figures, luxury sales, research intensity, climate-defense claims, listening totals, and policy-leading examples remain source-scoped. Recurring show, publisher, politician, and broadcaster profiles were not changed because the episode adds topic provenance rather than a durable identity revision. The automatic `wiki/overview.md` did not require revision for this bounded three-segment addition. The downstream manifest and paragraph ledger were refreshed to 3,666-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

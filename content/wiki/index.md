@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [School of shock: teenagers get dimmer](sources/school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb.md) — The Intelligence on cross-national learning decline, Miami's mobile-capital boom and climate exposure, and phone-in radio as a qualitative public-mood signal.
 - [咖啡小课堂：口粮豆怎么买最划算？一份给普通人的咖啡避坑指南](sources/kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr.md) — 大小电波 guide to coffee freshness, packaging, price signals, cafe observation, and fit-based home-equipment decisions.
 - [Vol.274 成为萨洛蒙](sources/vol-274-chengwei-saluomeng-1013268300.md) — 商业就是这样 episode on Salomon's path from ski-binding engineering to trail-running ecosystem, direct retail, fashion translation, and Gravel category building.
 - [103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化](sources/103-duihua-yanyuan-guoxiaoting-ta-zai-guochanju-li-zhangda-ye-kanzhe-guochanju-bianhua-gkwrimaoeesma84v2atvmtsf.md) — 展开讲讲 conversation on actor autonomy, craft, role access, platform-era visibility labor, audience interpretation, and Chinese television change through 郭晓婷's career.
@@ -3728,6 +3729,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
 
 ## Entities
+- [Programme for International Student Assessment (PISA)](entities/PISA.md) — International assessment used to compare 15-year-olds' applied mathematics, science, and reading performance while leaving causal interpretation open.
+- [The Jeremy Vine Show](entities/JeremyVineShow.md) — BBC Radio 2 current-affairs and phone-in programme treated as a broad-audience qualitative signal of everyday British concerns.
 - [珍妮花 / Jennifer](entities/JenniferCoffee.md) — Hey Coffee operator and guest host translating coffee-industry experience into entry-level consumer guidance.
 - [Hey Coffee](entities/HeyCoffee.md) — Coffee business providing the practitioner context for 珍妮花's 大小电波 consumer-education column.
 - [Bacha Coffee](entities/BachaCafe.md) — Luxury-positioned coffee retailer used as a source-scoped case about brand signals versus perceived freshness.
@@ -16071,6 +16074,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dangote Petroleum Refinery](entities/DangotePetroleumRefinery.md) — Nigerian refinery whose proposed $50bn local listing is a test of scale, ownership access, and market depth.
 
 ## Concepts
+- [Cross-National Learning Decline](concepts/CrossNationalLearningDecline.md) — Multicausal frame separating pre-pandemic learning decline, COVID disruption, comparative exceptions, and emerging AI risks.
+- [Phone-In Radio as a Public-Mood Signal](concepts/PhoneInRadioPublicMood.md) — Qualitative issue-detection role of responsive listener calls, distinguished from representative public-opinion measurement.
 - [Coffee Consumer Judgment / 咖啡消费判断](concepts/CoffeeConsumerJudgment.md) — Evidence-and-fit framework for judging roasted coffee, cafes, and home equipment under imperfect information.
 - [Gravel Running / 路野跑](concepts/GravelRunning.md) — Mixed-surface running format combining road accessibility, trail variability, and participant-chosen urban routes.
 - [Technical Product Lifestyle Translation / 专业产品生活方式转译](concepts/TechnicalProductLifestyleTranslation.md) — Process of moving specialist equipment into daily fashion while retaining recognizable functional structure and credibility.

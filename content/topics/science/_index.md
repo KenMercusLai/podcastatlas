@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1449
+topic_total_pages: 1451
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2098,6 +2098,9 @@ topic_concepts:
   - key: "SoundBasedStateRegulation"
     title: "Sound-Based State Regulation"
     url: "/wiki/concepts/soundbasedstateregulation/"
+  - key: "SouthFloridaTechMigration"
+    title: "South Florida Tech Migration"
+    url: "/wiki/concepts/southfloridatechmigration/"
   - key: "SpaceBasedAIInfrastructure"
     title: "Space Based AI Infrastructure"
     url: "/wiki/concepts/spacebasedaiinfrastructure/"
@@ -2957,6 +2960,9 @@ topic_entities:
   - key: "MekongDelta"
     title: "Mekong Delta / 湄公河三角洲"
     url: "/wiki/entities/mekongdelta/"
+  - key: "Miami"
+    title: "Miami"
+    url: "/wiki/entities/miami/"
   - key: "MichaelGrandner"
     title: "Michael Grandner"
     url: "/wiki/entities/michaelgrandner/"

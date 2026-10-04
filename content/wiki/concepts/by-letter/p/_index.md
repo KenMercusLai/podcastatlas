@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9635
+wiki_total_pages: 9637
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "PhoneFreeConcertExperience"
     title: "Phone-Free Concert Experience"
     url: "/wiki/concepts/phonefreeconcertexperience/"
+  - key: "PhoneInRadioPublicMood"
+    title: "Phone-In Radio as a Public-Mood Signal"
+    url: "/wiki/concepts/phoneinradiopublicmood/"
   - key: "PhotoCaptureProvenance"
     title: "Photo Capture Provenance"
     url: "/wiki/concepts/photocaptureprovenance/"
