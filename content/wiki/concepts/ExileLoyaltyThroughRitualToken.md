@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [loyalty, captivity, western-han, xiongnu, political-ethics]
 sources:
   - zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy
-last_updated: 2026-09-14
+  - zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd
+last_updated: 2026-10-05
 ---
 
 ## Definition
@@ -14,9 +15,9 @@ last_updated: 2026-09-14
 
 ## Current Synthesis
 
-Hanji 398 defines the pattern through [[SuWuWesternHan|苏武]] in Xiongnu captivity. Su Wu's Han envoy staff is not treated as a decorative prop; it becomes the portable sign that his office identity has not been surrendered. The object matters because the normal supports of loyalty have collapsed: he is far from Chang'an, hungry, politically abandoned, and told by [[LiLingWesternHan|李陵]] that even his family and rulerly world have become unreliable.
+Hanji 376-2 and Hanji 398 define the pattern through [[SuWuWesternHan|苏武]] in Xiongnu captivity. Su Wu's Han envoy staff is not treated as a decorative prop; it becomes the portable sign that his office identity has not been surrendered. The earlier episode makes institutional erasure concrete through a false report of his death, secret North Sea transfer, food deprivation, and an impossible release condition. The later episode adds [[LiLingWesternHan|李陵]]'s argument that even Su Wu's family and rulerly world have become unreliable.
 
-The source also shows why this pattern is stricter than ordinary residual loyalty. Su Wu does not accept a temporary submission arrangement or bargain for later return. He refuses Li Ling's argument, mourns Han Wudi after hearing of his death, and says he would rather die than surrender. The eventual return under [[EmperorZhaoOfHan|汉昭帝刘弗陵]] turns unseen endurance into public honor, but the concept does not depend on certainty of reward; its core is identity held through the token and ritual stance before reward is imaginable.
+The sources also show why this pattern is stricter than ordinary residual loyalty. Su Wu does not accept a temporary submission arrangement or bargain for later return. He keeps the staff and faces south when there is no visible audience, then refuses Li Ling's argument, mourns Han Wudi after hearing of his death, and says he would rather die than surrender. The eventual return under [[EmperorZhaoOfHan|汉昭帝刘弗陵]] turns unseen endurance into public honor, but the concept does not depend on certainty of reward; its core is identity held through token and ritual stance before reward is imaginable.
 
 ## Key Claims
 
@@ -24,12 +25,15 @@ The source also shows why this pattern is stricter than ordinary residual loyalt
 - Loyalty under exile is most demanding when no audience, reward, or rescue is expected.
 - Realistic arguments for surrender become morally sharper when they invoke family loss, ruler failure, and bodily survival rather than simple greed.
 - Mourning and directional ritual can maintain belonging to a political order even outside its territory.
+- Attempts to erase a captive administratively or diplomatically can make private ritual one of the last remaining forms of political continuity.
 - Later public honor does not erase the private cost of endurance, including family separation and years of hardship.
 - The pattern differs from temporary captive submission because no new service relationship is accepted.
 
 ## Evidence
 
 - Token identity: [[zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy|Hanji 398]] says Su Wu continues holding the Han envoy staff through the North Sea exile until its yak-tail ornaments fall away.
+- Erasure and impossible release: [[zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd|Hanji 376-2]] says Xiongnu reports Su Wu dead, secretly transfers him, and conditions release on rams giving birth.
+- Directional belonging: [[zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd|Hanji 376-2]] says he continues holding the staff and facing south while isolated and deprived.
 - No-audience pressure: [[zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy|Hanji 398]] says Li Ling tells Su Wu that no one will see his suffering in a desolate place.
 - Realistic surrender argument: [[zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy|Hanji 398]] has Li Ling cite Su Wu's family losses and Han Wudi's late unpredictability.
 - Refusal boundary: [[zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy|Hanji 398]] says Su Wu answers that service to ruler is like service to father and threatens death if surrender is pressed.
@@ -38,11 +42,11 @@ The source also shows why this pattern is stricter than ordinary residual loyalt
 
 ## Counterevidence & Qualifications
 
-This concept is grounded in one podcast source and should not be generalized into a complete theory of all loyalist captivity. It differs from [[CaptiveSubmissionResidualLoyalty|被俘归顺与旧主忠义]], where a captive may temporarily serve a new power while preserving a prior bond. Su Wu's source frame is harder: he does not accept a new service identity. The exact historicity of the wild-goose message and all quoted speeches remains source-scoped.
+This concept is grounded in two related podcast sources about one case and should not be generalized into a complete theory of all loyalist captivity. It differs from [[CaptiveSubmissionResidualLoyalty|被俘归顺与旧主忠义]], where a captive may temporarily serve a new power while preserving a prior bond. Su Wu's source frame is harder: he does not accept a new service identity. The exact survival details, geography, wild-goose message, and quoted speeches remain source-scoped.
 
 ## What Changed
 
-- Created the concept from Su Wu's staff, refusal, mourning, rescue, and costly return in Hanji 398.
+- Added the false-death report, impossible release condition, and south-facing ritual that connect institutional erasure to token-preserved identity.
 
 ## Related Concepts
 

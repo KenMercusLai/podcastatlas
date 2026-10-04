@@ -70935,9 +70935,9 @@
       "url": "/wiki/concepts/exercisevariationprogressionbalance/"
     },
     "ExileLoyaltyThroughRitualToken": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗 [lrvKyakUzpNv77uoq4wkRt7VcUZY].md",
@@ -70945,9 +70945,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗",
           "url": "/wiki/sources/zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴 [lszMNylwk8zxPjhElkd1GD6JSfsd].md",
+          "key": "zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/exileloyaltythroughritualtoken/"
     },
     "Existentialism": {
@@ -104408,9 +104415,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -104418,9 +104425,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴 [lszMNylwk8zxPjhElkd1GD6JSfsd].md",
+          "key": "zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/huoqubing/"
     },
     "HuoXianWesternHan": {
@@ -202869,9 +202883,9 @@
       "url": "/wiki/entities/suwenwesternhan/"
     },
     "SuWuWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗 [lrvKyakUzpNv77uoq4wkRt7VcUZY].md",
@@ -202886,6 +202900,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》376-1｜历史上真实的苏武牧羊是什么样？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-376-1-lishishang-zhenshi-de-suwu-muyang-shi-shenmeyang-lidxs1d66m5q2hegjteq1lgra5fp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴 [lszMNylwk8zxPjhElkd1GD6JSfsd].md",
+          "key": "zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd/"
         }
       ],
       "updated": "2026-10-05",
@@ -239574,6 +239595,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/zhaopingjunwesternhan/"
+    },
+    "ZhaoPonuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴 [lszMNylwk8zxPjhElkd1GD6JSfsd].md",
+          "key": "zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhaoponuwesternhan/"
     },
     "ZhaoQiLateHan": {
       "episode_count": 4,

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴](sources/zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd.md) — 苏武在断粮与北海流放中持节守志；赵破奴的崛起、被俘归汉与巫蛊族灭则浓缩汉武一朝的扩张与悲剧。
 - [《资治通鉴·汉纪》376-1｜历史上真实的苏武牧羊是什么样？](sources/zizhi-tongjian-hanji-376-1-lishishang-zhenshi-de-suwu-muyang-shi-shenmeyang-lidxs1d66m5q2hegjteq1lgra5fp.md) — 张胜私助虞常刺杀卫律的计划使和平使团被集体牵连，苏武两次求死并拒绝连坐投降，由此补全北海流放前的危机起点。
 - [《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴](sources/zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os.md) — 郁成支线补全上官桀与赵弟的行动，并以布利丹毛驴说明慎思需要停止规则，避免比较本身吞掉机会。
 - [《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位](sources/zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl.md) — 大宛远征以虐兵损耗与无问责封赏收场，同时推动西域质子、通道屯田、楼兰两属困境和大宛续贡。
@@ -5657,7 +5658,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王式 / Wang Shi (Changyi Teacher)](entities/WangShiChangyiTeacher.md) — Liu He's teacher whose Shi jing instruction becomes evidence of fulfilled admonition duty after the Changyi deposition.
 - [Tian Yannian (Western Han)](entities/TianYannianWesternHan.md) — Huo Guang confidant and da sinong whose corruption case becomes fatal after he lies to his patron.
 - [常惠 / Chang Hui (Western Han)](entities/ChangHuiWesternHan.md) — Western Han mission member who first helps save Su Wu, later creates his proof-of-life route, and then links Wusun, Xiongnu, and Cheshi field action.
-- [苏武 / Su Wu (Western Han)](entities/SuWuWesternHan.md) — Western Han chief envoy whose mission crisis, two suicide attempts, exile, staff-holding refusal, mourning, and return form one loyalty arc.
+- [苏武 / Su Wu (Western Han)](entities/SuWuWesternHan.md) — Western Han chief envoy whose mission crisis, two suicide attempts, starvation, North Sea exile, staff-holding ritual, mourning, and return form one loyalty arc.
 - [李广 / Li Guang (Western Han general)](entities/LiGuangHanGeneral.md) — Famous Western Han general whose reputation and martial traits become Li Ling's inherited model and identity burden.
 - [李陵 / Li Ling (Western Han)](entities/LiLingWesternHan.md) — Former Han officer whose volunteer infantry plan, failed support, resilient battle, surrender, family destruction, and Su Wu encounter form an expanding tragedy.
 - [路博德 / Lu Bode (Western Han)](entities/LuBodeWesternHan.md) — Western Han commander whose support-role resistance and seasonal-delay memorial are misattributed to Li Ling before their missions diverge.
@@ -5679,7 +5680,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [盖长公主 / Gai Chang Gongzhu (Western Han)](entities/GaiChanggongzhuWesternHan.md) — Princess whose banquet access is imagined as the assassination setting in the failed anti-Huo conspiracy.
 - [丁外人 / Ding Wairen (Western Han)](entities/DingWairenWesternHan.md) — Princess-favorite and inner-court access broker who helps the Shangguan family bypass Huo Guang.
 - [钩弋夫人 / Lady Gouyi (Western Han)](entities/LadyGouyiWesternHan.md) — Han Zhao's mother, whose death is framed through mother-regent risk, source-scoped Wugu guilt, and the later princess-caregiver setup.
-- [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han general whose anti-Xiongnu campaign anchors the Wuhuan relocation context in Hanji 402-2.
+- [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han general whose campaigns anchor later Wuhuan frontier administration and Zhao Ponu's military-rise context.
+- [赵破奴 / Zhao Ponu (Western Han)](entities/ZhaoPonuWesternHan.md) — Western Han general whose frontier rise, Loulan victory, Xiongnu capture and escape, and unresolved Wugu destruction trace an era of expansion and reversal.
 - [杜周 / Du Zhou (Western Han)](entities/DuZhouWesternHan.md) — Western Han cruel official whose ruler-will legal logic and late-career moderation explain his safe retirement in Hanji 402-2.
 - [范明友 / Fan Mingyou (Western Han)](entities/FanMingyouWesternHan.md) — Western Han Duliao general who attacks exhausted Wuhuan after Xiongnu withdraws in Hanji 402-2.
 - [义纵 / Yi Zong (Western Han)](entities/YiZongWesternHan.md) — Western Han cruel-official figure named as a predecessor before Du Zhou's rise.
