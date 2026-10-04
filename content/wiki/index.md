@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？](sources/zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi.md) — 李广利首征大宛在沿途断供、逐城取粮和郁成战败中提前耗尽；赵破奴接应匈奴内应失败后又因情报泄露、被围与主帅离营被俘而全军覆没。
 - [《资治通鉴·汉纪》372-3｜西汉皇帝都有哪些男朋友？](sources/zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt.md) — 籍孺与闳孺展示早期西汉宠幸如何阻隔或中介皇帝近身渠道、影响生死决定并扩散宫廷审美；现代性取向与创伤因果保留为来源推断。
 - [《资治通鉴·汉纪》372-4｜西汉皇帝多是双性恋的原因？](sources/zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr.md) — 邓通、韩嫣与李延年展示亲密宠幸如何转化为财富、官位和近身权力，又如何在继位或更强宫廷权威介入时迅速失效；现代性取向与遗传解释保留为未证实推断。
 - [《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布](sources/zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre.md) — 公孙贺以骑射之才不足承担相责而泣跪辞任，汉武帝仍强令接受；征马、蝗灾、巡祭与大宛远征共同显出高位责任和战争后勤压力。

@@ -52629,9 +52629,9 @@
       "url": "/wiki/entities/daymondjohn/"
     },
     "DayuanWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？ [lmFZkLlEJz3M0vanMNu7GYxtWbUl].md",
@@ -52660,6 +52660,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布",
           "url": "/wiki/sources/zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？ [ltocAo5tfKXNpBXhOTNQpG72T9HI].md",
+          "key": "zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi/"
         }
       ],
       "updated": "2026-10-05",
@@ -53093,9 +53100,9 @@
       "url": "/wiki/concepts/decisionspeedaccuracycontrol/"
     },
     "DecisiveResourceCommitment": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！ [libgQZvQUEGLLma9SOJU57K_jXuE].md",
@@ -53131,6 +53138,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》374-1｜汉武帝为何宁愿自损八千，也不愿放过大宛国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？ [ltocAo5tfKXNpBXhOTNQpG72T9HI].md",
+          "key": "zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi/"
         }
       ],
       "updated": "2026-10-05",
@@ -81677,9 +81691,9 @@
       "url": "/wiki/concepts/frontierresourceintegration/"
     },
     "FrontierStrategyCostTypology": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？ [lr-5_QXjm4fqLIRVwHDwElo1elG5].md",
@@ -81701,6 +81715,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》374-1｜汉武帝为何宁愿自损八千，也不愿放过大宛国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？ [ltocAo5tfKXNpBXhOTNQpG72T9HI].md",
+          "key": "zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi/"
         }
       ],
       "updated": "2026-10-05",
@@ -125878,9 +125899,9 @@
       "url": "/wiki/entities/liguanghangeneral/"
     },
     "LiGuangliWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》389-2｜历史揭秘：谁是写“检讨书”最多的王 [lvNAmm5Dza3S9AO8OfCsHHIYnsU1].md",
@@ -125923,6 +125944,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴",
           "url": "/wiki/sources/zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？ [ltocAo5tfKXNpBXhOTNQpG72T9HI].md",
+          "key": "zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi/"
         }
       ],
       "updated": "2026-10-05",
@@ -160579,9 +160607,9 @@
       "url": "/wiki/concepts/ovarianreserveamhinterpretation/"
     },
     "OverextendedFrontierExpedition": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》909丨2025如何养成一身贵气？ [lomnDMpHR_YBUnJbBbbn9EBAFcsj].md",
@@ -160603,9 +160631,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？ [ltocAo5tfKXNpBXhOTNQpG72T9HI].md",
+          "key": "zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/overextendedfrontierexpedition/"
     },
     "OverintellectualizedRelationshipAnalysis": {
@@ -240104,9 +240139,9 @@
       "url": "/wiki/entities/zhaopingjunwesternhan/"
     },
     "ZhaoPonuWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴 [lszMNylwk8zxPjhElkd1GD6JSfsd].md",
@@ -240121,6 +240156,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》374-1｜汉武帝为何宁愿自损八千，也不愿放过大宛国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？ [ltocAo5tfKXNpBXhOTNQpG72T9HI].md",
+          "key": "zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi/"
         }
       ],
       "updated": "2026-10-05",

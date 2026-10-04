@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5
   - zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl
   - zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh
+  - zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi
 last_updated: 2026-10-05
 ---
 
@@ -26,6 +27,8 @@ Hanji 375-2 supplies a campaign-level application rather than another abstract r
 
 Hanji 374-1 adds the decision that precedes that ledger. After Zhao Ponu's capture, ministers prefer abandoning Dayuan to concentrate on the immediate Xiongnu threat, while Wudi treats withdrawal as a credibility loss and the host casts Dayuan as part of an anti-Xiongnu flank strategy. The typology must therefore compare not only each campaign's cost with its own objective, but also the value of that objective against the best competing use of troops, money, time, and attention.
 
+Hanji 373-2 adds the failed first-expedition ledger behind that dispute. Li Guangli's army spends strength attacking intermediate towns for food, loses at Yucheng after hunger and attrition, and returns to Dunhuang with fewer than one or two tenths of its original force; Wudi then blocks retreat. The typology must count losses generated before the principal target, the coercive cost of forcing a culminated army to remain forward, and the design failure of attempting distant war without reliable corridor support.
+
 ## Key Claims
 
 - Strategic ranking depends on objective, cost, duration, and state capacity, not only on battlefield victory.
@@ -34,7 +37,7 @@ Hanji 374-1 adds the decision that precedes that ledger. After Zhao Ponu's captu
 - A large defensive infrastructure project can become no strategy when it consumes maximal resources for a limited effect.
 - Frontier policy should be judged by whether it reduces risk at a sustainable price.
 - The framework does not deny real Xiongnu threat; it tests whether the response matches the threat and the state's means.
-- Victory accounting must include preventable losses caused by one's own command system and the recurring burden of holding the new frontier position.
+- Campaign accounting must include pre-objective attrition, preventable losses caused by one's own command system, political refusal to terminate an unsustainable operation, and the recurring burden of holding the new frontier position.
 
 ## Evidence
 
@@ -44,14 +47,16 @@ Hanji 374-1 adds the decision that precedes that ledger. After Zhao Ponu's captu
 - Qin burden critique: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] says Qin keeps boundaries through the Great Wall but drains domestic resources and contributes to collapse.
 - Host synthesis: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] interprets the categories as minimum cost for minimum goal, high cost for maximal goal, and maximum cost for minimum goal.
 - Competing-objective test: [[zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh|Hanji 374-1]] places the distant Dayuan expedition against ministers' proposal to concentrate on current Xiongnu pressure after Zhao Ponu's capture.
+- Pre-objective attrition: [[zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi|Hanji 373-2]] says food and water denial, forced local attacks, hunger, and defeat consume the first Dayuan force before it reaches the central objective, after which Wudi prevents withdrawal through Yumen Pass.
 - Campaign-level cost ledger: [[zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl|Hanji 375-2]] pairs Dayuan-derived prestige and corridor control with commander-caused loss, broad rewards, and continuing beacon and tuntian commitments.
 
 ## Counterevidence & Qualifications
 
-This concept is grounded in Yan You's memorial and two Dayuan campaign episodes. It should not be read as the whole historical evaluation of Han Wudi, Qin frontier policy, or Zhou-Xianyun conflict. Hanji 374-1's flank strategy and credibility claims are the host's interpretation, while the ministers' alternative shows that opportunity cost remained disputed. Hanji 375-2 adds a concrete but still source-scoped cost ledger; its casualty causes, reward figures, and causal link from Dayuan victory to wider submission are not independent proof of the campaign's full net value.
+This concept is grounded in Yan You's memorial and three Dayuan campaign episodes. It should not be read as the whole historical evaluation of Han Wudi, Qin frontier policy, or Zhou-Xianyun conflict. Hanji 373-2's route behavior, casualty ratio, and Wudi retreat order remain episode-attributed; Hanji 374-1's flank strategy and credibility claims are the host's interpretation, while the ministers' alternative shows that opportunity cost remained disputed. Hanji 375-2 adds a concrete but still source-scoped cost ledger; its casualty causes, reward figures, and causal link from Dayuan victory to wider submission are not independent proof of the campaign's full net value.
 
 ## What Changed
 
+- Added pre-objective attrition and refusal-to-terminate costs from the first Dayuan expedition.
 - Added the pre-campaign opportunity-cost test between the immediate Xiongnu threat and the distant Dayuan objective.
 - Preserved the aftermath test that counts commander-caused loss and recurring corridor commitments alongside prestige gains.
 
