@@ -128880,9 +128880,9 @@
       "url": "/wiki/entities/liukaieasternhan/"
     },
     "LiuKangDingtaoKingWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜 [lkEFo-pkG_n8LL57KDsOfCrpaD_v].md",
@@ -128904,9 +128904,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章 [lg8zeUdpELxedGlsyqP_slo9PiVA].md",
+          "key": "zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/liukangdingtaokingwesternhan/"
     },
     "LiuKuaiXinRebel": {
@@ -181914,6 +181921,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/righteousnessoverprofit/"
     },
+    "RigidIdealismPoliticalRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章 [lg8zeUdpELxedGlsyqP_slo9PiVA].md",
+          "key": "zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/rigididealismpoliticalrisk/"
+    },
     "RiliBaqianwanBeltHook": {
       "episode_count": 1,
       "show_count": 1,
@@ -222080,9 +222103,9 @@
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
     },
     "WangZhangWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？ [lk52Zm46585z2noqXmtfn9kpwEK2].md",
@@ -222104,15 +222127,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子",
           "url": "/wiki/sources/zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章 [lg8zeUdpELxedGlsyqP_slo9PiVA].md",
+          "key": "zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva/"
         }
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/wangzhangwesternhan/"
     },
     "WangZhangWifeWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子 [lt5hZlh9t-GrYds1lPn0IeqW3CVn].md",
@@ -222120,6 +222150,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子",
           "url": "/wiki/sources/zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章 [lg8zeUdpELxedGlsyqP_slo9PiVA].md",
+          "key": "zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva/"
         }
       ],
       "updated": "2026-10-04",

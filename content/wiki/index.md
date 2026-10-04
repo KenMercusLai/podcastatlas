@@ -3746,6 +3746,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Trump-Xi Summit, Benioff: "Not My First SaaSpocalypse," OpenAI vs Apple, Multi-Sensory AI, El Niño](sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630.md) — All-In episode with Mark Benioff on U.S.-China economic entanglement, AI-era enterprise software, ambient assistants, El Niño risk, and layered private-market SPVs.
 
+- [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
+
 ## Entities
 - [Jibin / 罽宾 (Western Han)](entities/JibinKingdomWesternHan.md) — Distant Western Regions polity whose envoy conflicts expose the enforcement limits of Han recognition.
 - [Yinmofu / 阴末赴 / 殷墨傅 (Jibin King)](entities/YinmofuJibinKing.md) — Han-recognized local ruler identified by the episode with Hermaeus, with the equation kept source-scoped.
@@ -25844,5 +25846,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Longitudinal Relationship Trust / 关系过程性信任](concepts/LongitudinalRelationshipTrust.md) — Trust built, weakened, and repaired through repeated interaction rather than one disclosure, promise, or verdict.
 - [女性婚姻能动性的历史变动 / Female Marriage Agency Across Periods](concepts/FemaleMarriageAgencyHistoricalVariation.md) — Historically variable remarriage, divorce, and intimate choice shaped by period norms, status, resources, and unequal exit costs.
 - [宫廷亲密关系作为政治资源 / Court Intimacy as Political Resource](concepts/CourtIntimacyAsPoliticalResource.md) — Pattern in which favorites and sexual access become channels for patronage, information, rank, revenge, replacement, and removal.
+
+- [刚直理想主义的政治风险 / Rigid Idealism Political Risk](concepts/RigidIdealismPoliticalRisk.md) — Moral courage can fail politically when leverage, protected channels, reliable authority, and transferred household risk are ignored.
 
 ## Syntheses

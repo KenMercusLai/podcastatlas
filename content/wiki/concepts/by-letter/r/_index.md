@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9661
+wiki_total_pages: 9662
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1400,6 +1400,9 @@ wiki_pages:
   - key: "RelationalDisrespectPowerRisk"
     title: "关系性轻慢风险 / Relational Disrespect Power Risk"
     url: "/wiki/concepts/relationaldisrespectpowerrisk/"
+  - key: "RigidIdealismPoliticalRisk"
+    title: "刚直理想主义的政治风险 / Rigid Idealism Political Risk"
+    url: "/wiki/concepts/rigididealismpoliticalrisk/"
   - key: "ReputationConstrainedWarRestraint"
     title: "名声约束下的战争节制 / Reputation-Constrained War Restraint"
     url: "/wiki/concepts/reputationconstrainedwarrestraint/"

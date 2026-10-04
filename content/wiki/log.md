@@ -29473,3 +29473,11 @@ Added source `zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章
+
+Added source `zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva`; created [[RigidIdealismPoliticalRisk|刚直理想主义的政治风险]]; and resynthesized [[WangZhangWesternHan|王章]], [[WangZhangWifeWesternHan|王章之妻]], and [[LiuKangDingtaoKingWesternHan|刘康]] from their complete preserved evidence inventories. Core synthesis: Wang Zhang's poverty, earlier clash with Shi Xian, independence from Wang Feng, and sealed-memorial strategy establish integrity, while his wife's paired counsel and Wang Feng's control of appointments and memorial flow show that courage without leverage or reliable protection can transfer catastrophic risk to the household. No settled contradiction was adopted. The "last remonstrant" label, exact Liu Xin identity, Wang Feng's private motives, and eclipse-manipulation claim remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest, then only read by downstream synthesis refresh. The downstream manifest and paragraph ledger were refreshed to 3,684-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

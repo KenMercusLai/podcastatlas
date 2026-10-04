@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3074
+topic_total_pages: 3075
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4456,6 +4456,9 @@ topic_concepts:
   - key: "CoerciveImplicationCascade"
     title: "刑讯攀引扩大 / Coercive Implication Cascade"
     url: "/wiki/concepts/coerciveimplicationcascade/"
+  - key: "RigidIdealismPoliticalRisk"
+    title: "刚直理想主义的政治风险 / Rigid Idealism Political Risk"
+    url: "/wiki/concepts/rigididealismpoliticalrisk/"
   - key: "InstitutionalLoyaltyOverPersonalLoyalty"
     title: "制度忠诚胜于个人依附 / Institutional Loyalty Over Personal Loyalty"
     url: "/wiki/concepts/institutionalloyaltyoverpersonalloyalty/"
