@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》508丨大汉名将陈汤，手把手教你运筹帷幄](sources/zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu.md) — 陈汤以战力、攻守比例、行军时间、西域局势和经验判断段会宗之围无需仓促发兵，并准确预报五日内解围消息。
 - [《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？](sources/zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng.md) — 杜钦以罽宾战略价值低、使团商贸动机强和护送路线风险高为由，促成只送至皮山的有限承诺。
 - [《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？](sources/zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy.md) — 张禹升任丞相与罽宾册封失效、使团遇害和远距执法能力不足所致的断交。
 - [《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？](sources/zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r.md) — 王凤截留丞相王商对杨荣的奏章、转以私德指控反击，并引出才德之分与证据边界。
@@ -16127,6 +16128,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Benioff](entities/MarkBenioff.md) — Salesforce co-founder and CEO represented through grounded enterprise AI, public-market discipline, China data residency, and corporate philanthropy.
 
 ## Concepts
+- [综合军情判断 / Integrated Military Situation Assessment](concepts/IntegratedMilitarySituationAssessment.md) — 将战斗质量、兵力比例、攻守条件、行军与动员时间、地方凝聚力和经验合并为可检验的军事判断。
 - [Informal Musical Learning Network](concepts/InformalMusicalLearningNetwork.md) — Peer circulation of recordings, chords, riffs, lyrics, and practical technique through listening, imitation, and demonstration.
 - [Songwriting as Emotional Processing](concepts/SongwritingEmotionalProcessing.md) — Creative expression that can organize feeling before its source or meaning is consciously named.
 - [Autobiographical Memory as Historical Evidence](concepts/AutobiographicalMemoryHistoricalEvidence.md) — Use of recollection for lived texture while calibrating confidence in attribution, chronology, causation, and detail.

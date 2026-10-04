@@ -35862,9 +35862,9 @@
       "url": "/wiki/entities/chensportsrehabilitationguest/"
     },
     "ChenTangWesternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！ [lrrCbW5RruRytgJXASBp12buf82L].md",
@@ -35928,9 +35928,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》489丨伪造圣旨杀敌！汉将陈汤有多狂？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-489-weizao-shengzhi-shadi-hanjiang-chentang-you-duo-kuang-ligjvbvujg4nujinr1k39aiv28lz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》508丨大汉名将陈汤，手把手教你运筹帷幄 [lmd26sXabxtE3IlfZFfXdv96vcdU].md",
+          "key": "zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》508丨大汉名将陈汤，手把手教你运筹帷幄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/chentangwesternhan/"
     },
     "ChenWannianWesternHan": {
@@ -59557,9 +59564,9 @@
       "url": "/wiki/entities/duanguilatehan/"
     },
     "DuanHuizongWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？ [lvzHcJUTQnu4OR4ELDS_QG4S1GTo].md",
@@ -59574,9 +59581,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》508丨大汉名将陈汤，手把手教你运筹帷幄 [lmd26sXabxtE3IlfZFfXdv96vcdU].md",
+          "key": "zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》508丨大汉名将陈汤，手把手教你运筹帷幄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/duanhuizongwesternhan/"
     },
     "DuanJiongLateHan": {
@@ -108601,6 +108615,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/integratedcarefragmentation/"
+    },
+    "IntegratedMilitarySituationAssessment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》508丨大汉名将陈汤，手把手教你运筹帷幄 [lmd26sXabxtE3IlfZFfXdv96vcdU].md",
+          "key": "zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》508丨大汉名将陈汤，手把手教你运筹帷幄",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/integratedmilitarysituationassessment/"
     },
     "IntegratedZone2Movement": {
       "episode_count": 1,

@@ -6,12 +6,15 @@ tags: [person, western-han, western-regions, diplomacy, frontier]
 sources:
   - zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto
   - zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz
-last_updated: 2026-09-12
+  - zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu
+last_updated: 2026-10-04
 ---
 
 ## Overview
 
 段会宗 / Duan Huizong enters the wiki through [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] as the elderly Western Han official repeatedly sent to stabilize [[Wusun|乌孙]] after its large and small kunmi arrangement breaks into violence. [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] backfills the earlier reputation layer: Duan is recommended from a county office into Western Regions service because officials trust both his capacity and conduct, and his first three-year tenure is praised precisely because no major incident breaks out.
+
+[[zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu|Hanji 508]] supplies an earlier crisis snapshot in which Duan reports being surrounded, requests relief forces, and survives before those forces could plausibly arrive.
 
 ## Current Profile
 
@@ -21,13 +24,15 @@ Hanji 524's key judgment is that Duan's first Western Regions term has "no famou
 
 Hanji 550 then supplies the high-risk later mission. After [[MozhenjiangWusun|末振将]] kills the large kunmi Cilim and Han cannot immediately mount a direct campaign, Duan helps install Cilim's successor. When the court later wants Mozhenjiang's son [[FanqiuWusun|番丘]] punished, Duan avoids a large, noisy army, chooses about thirty armed specialists, summons Fanqiu, lists the offenses, and has him killed.
 
+The earlier siege episode connects preventive reputation to crisis resilience. Duan uses the courier system to ask the court for Western Regions and Dunhuang relief forces, but [[ChenTangWesternHan|陈汤]] calculates that any such mobilization would arrive too late. Chen Tang's correct forecast that Wusun cannot sustain the siege does not show Duan's exact escape method, yet it reinforces the profile of a commander whose field capacity can outlast a numerically alarming encirclement.
+
 The decisive Hanji 550 layer is crisis speech under encirclement. Surrounded by [[AnlimiWusun|安犁靡]]'s thousands of riders, Duan says killing him would barely register as a Han loss, then recalls earlier Han punishments of a Dayuan king and [[ZhizhiChanyu|郅支单于]]. He follows the threat with a face-saving explanation for Anlimi: prior notice would either cause Fanqiu's escape or force Anlimi into a kinship betrayal. The episodes therefore cast Duan as a practitioner of preventive administration, small-force coercion, deterrent memory, and exit-ramp diplomacy.
 
 ## Key Characteristics
 
 - Western Han official whose early Western Regions reputation rests on quiet crisis prevention.
 - Accepts remote, difficult frontier responsibility rather than seeking only high-status central office.
-- Elderly but still trusted envoy-commander for Western Regions crisis repair.
+- Frontier commander who survives a Wusun encirclement before relief mobilization could change the immediate outcome.
 - Uses small, quiet force when a large army would warn the target and ruin the mission.
 - Turns formal accusation into immediate punitive action against Fanqiu.
 - Survives encirclement by invoking Han's remembered capacity for distant punishment.
@@ -38,6 +43,8 @@ The decisive Hanji 550 layer is crisis speech under encirclement. Surrounded by 
 - Initial recommendation: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says Duan is recommended from Du Ling county service in 33 BCE because of capacity and character.
 - Preventive success: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says his first three-year Western Regions term has no famous incident, which the host treats as proof of effective preventive governance.
 - Later requested return: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says Western Regions states ask for Duan when later disorder exceeds the sitting protector's capacity.
+- Siege report: [[zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu|Hanji 508]] says Duan reports being surrounded by Wusun forces and requests Western Regions and Dunhuang relief troops.
+- Survival before relief: [[zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu|Hanji 508]] says the court receives news four days after Chen Tang's consultation that Duan has escaped the siege.
 - Repeat frontier assignment: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Han Chengdi sends Duan to restore Wusun order after the small kunmi Anri is killed.
 - Installation role: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Duan supports Mozhenjiang as small kunmi, then later helps install a new large kunmi after Mozhenjiang's killing of Cilim.
 - Small-force method: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Duan leaves the main force behind, selects about thirty armed men, summons Fanqiu, and has him killed.
@@ -46,11 +53,12 @@ The decisive Hanji 550 layer is crisis speech under encirclement. Surrounded by 
 
 ## Qualifications
 
-This page is bounded to Hanji 524 and Hanji 550 and does not yet reconstruct Duan Huizong's full career, offices, or other Western Regions missions. The transcript forms 段惠宗 and 段慧宗 are normalized here to 段会宗; exact name-form and office-title questions remain source-scoped.
+This page is bounded to Hanji 524, Hanji 550, and Hanji 508 and does not yet reconstruct Duan Huizong's full career, offices, or other Western Regions missions. Hanji 508 does not explain how Duan broke the siege or independently verify the force ratios and timing used in Chen Tang's judgment. The transcript forms 段惠宗 and 段慧宗 are normalized here to 段会宗; exact name-form and office-title questions remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 524's earlier quiet-governance layer, making Duan's reputation rest on preventive frontier administration before the later Wusun punitive mission.
+- Added Hanji 508's earlier Wusun encirclement and survival, linking Duan's field resilience to the court's delayed relief decision.
+- Preserved Hanji 524's quiet-governance layer, making Duan's reputation rest on preventive frontier administration before the later Wusun punitive mission.
 - Preserved Hanji 550's Wusun mission, Fanqiu killing, and encirclement-negotiation sequence as the coercive crisis layer.
 
 ## Relationships
@@ -60,6 +68,8 @@ This page is bounded to Hanji 524 and Hanji 550 and does not yet reconstruct Dua
 - [[FanqiuWusun|番丘]] - Mozhenjiang's son whom Duan kills under Han orders.
 - [[AnlimiWusun|安犁靡]] - small kunmi whose riders surround Duan and then withdraw.
 - [[HanChengdi|汉成帝]] - ruler whose court sends and rewards Duan.
+- [[ChenTangWesternHan|陈汤]] - veteran whose remote assessment correctly predicts that Duan's siege will end before relief can arrive.
+- [[IntegratedMilitarySituationAssessment|综合军情判断]] - framework through which Duan's siege becomes a timing and force-quality problem rather than a simple call to mobilize.
 - [[WesternRegionsProtectorate|西域都护府]] - institution whose difficult coordination role Duan personifies.
 - [[PreventiveFrontierGovernance|治未病式边疆治理]] - concept created from Duan's quiet first Western Regions tenure.
 - [[CoerciveFrontierDeterrence|强制边疆震慑]] - concept Duan extends through small-force punishment and remembered-victory threat.

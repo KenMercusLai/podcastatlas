@@ -29489,3 +29489,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 《资治通鉴·汉纪》508丨大汉名将陈汤，手把手教你运筹帷幄
+
+Added source `zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu`; created [[IntegratedMilitarySituationAssessment|综合军情判断]]; and resynthesized [[ChenTangWesternHan|陈汤]] and [[DuanHuizongWesternHan|段会宗]] from their complete preserved evidence inventories. Core synthesis: Chen Tang treats the Wusun siege as a combined problem of combat quality, force ratio, attack and defense, mobilization and march time, coalition endurance, and regional experience; he judges that relief cannot arrive in time and predicts news within five days, with Duan's escape reported on the fourth. No settled contradiction was adopted. Exact force ratios, march rates, troop strength, message timing, and the closing bribery summary remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left to the downstream synthesis workflow.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
