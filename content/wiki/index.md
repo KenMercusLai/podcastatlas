@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》370-1｜揭秘汉朝第一位与匈奴和亲的公主](sources/zizhi-tongjian-hanji-370-1-jiemi-hanchao-diyiwei-yu-xiongnu-heqin-de-gongzhu-lgetvmacjnoxhqfzymupxsk7fknk.md) — 乌孙在匈奴压力下以千匹马求娶汉室公主，刘细君的真皇族血统与父亲刘建案后的弱势处境遂被转化为汉—乌孙联盟资源。
 - [《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈](sources/zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav.md) — 杨信的礼仪拒绝揭开太子入质承诺并未落实，王乌再次获得好话却仍无履约；匈奴贵人病死、路充国被扣和边防调兵使承诺核验失败升级为外交与安全危机。
 - [《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！](sources/zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh.md) — 王乌依匈奴礼俗入见却保留汉朝称臣要求，显示礼仪让步可作为保全面子与争取谈判入口的手段，但单于遣子承诺尚不等于落实和解。
 - [《资治通鉴·汉纪》372-1｜汉宛战争的背后的历史真相](sources/zizhi-tongjian-hanji-372-1-hanwan-zhanzheng-de-beihou-de-lishi-zhenxiang-lqbklk0e0cplyuojpvsrx2u4fnyv.md) — 求马交易经拒绝、汉使失礼、大宛截杀劫财而升级；大宛准确看见远征后勤障碍，却误判这些障碍足以阻止汉朝报复。
@@ -3790,8 +3791,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王乌 / Wang Wu (Western Han envoy)](entities/WangWuWesternHan.md) — 熟悉匈奴礼俗并以礼仪让步反复取得入见机会，但太子入质与单于赴长安承诺均未兑现，显示文化通达不等于承诺可信；“王巫”据传世姓名归一为王乌。
 - [郭吉 / Guo Ji (Western Han envoy)](entities/GuoJiWesternHan.md) — 向匈奴传达决战或称臣二选一要求、遭单于扣押，并成为王乌柔化礼仪路径之对照的西汉使者。
 - [毋寡 / Wugua (Dayuan)](entities/WuguaDayuan.md) — 大宛国王，其后勤判断部分准确，但阻止汉朝报复的威慑判断失败，并在围城议和时被贵族杀死。
-- [刘细君 / Princess Liu Xijun](entities/LiuXijunPrincessWesternHan.md) — Western Han princess whose objection to succession-linked remarriage in Wusun is overridden by Han's anti-Xiongnu strategy.
-- [猎骄靡 / Liejiaomi](entities/LiejiaomiWusun.md) — Elderly Wusun ruler who balances Han and Xiongnu brides and carries the Han alliance into his grandson's succession.
+- [刘细君 / Princess Liu Xijun](entities/LiuXijunPrincessWesternHan.md) — Liu Jian's politically vulnerable royal daughter, sent to Wusun and later compelled to carry the alliance across a succession remarriage.
+- [猎骄靡 / Liejiaomi](entities/LiejiaomiWusun.md) — Xiongnu-supported Wusun restorer who later seeks a Han bride, balances rival princesses, and carries the alliance into his grandson's succession.
 - [军须靡 / Junxumi](entities/JunxumiWusun.md) — Wusun successor who marries Liu Xijun and later Princess Xieyou, linking two Han marriage missions.
 - [王温舒 / Wang Wenshu (Western Han)](entities/WangWenshuWesternHan.md) — 汉武帝时期以严酷立威、最终因贪诈指控自杀并牵出多户族灭的酷吏。
 - [Thomas Dixon Jr.](entities/ThomasDixonJr.md) — Lost Cause novelist whose racist Reconstruction fiction supplied the narrative and imagery behind The Birth of a Nation.
@@ -5580,7 +5581,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sacred Paws Soap Company](entities/SacredPawsSoapCompany.md) — Gemstone-soap self-care kit business used as the episode's offline-story-to-online-trust case.
 - [淖姬 / Nuo Ji (Western Han)](entities/NuoJiWesternHan.md) — Western Han consort whose movement across Liu Fei, Liu Jian, and Liu Pengzu shows princely-household dependency and succession exposure.
 - [江都王刘非 / Liu Fei, Jiangdu King (Western Han)](entities/LiuFeiJiangduKingWesternHan.md) — Western Han Jiangdu king whose heroic image, attachment to Nuo Ji, and early death frame her later vulnerability.
-- [江都王刘建 / Liu Jian, Jiangdu King (Western Han)](entities/LiuJianJiangduKingWesternHan.md) — Liu Fei's Jiangdu successor who seizes Nuo Ji and later dies after a rebellion accusation.
+- [江都王刘建 / Liu Jian, Jiangdu King (Western Han)](entities/LiuJianJiangduKingWesternHan.md) — Liu Fei's coercive Jiangdu successor and Liu Xijun's father, whose rebellion case exposes both consort and descendant vulnerability.
 - [刘淖子 / Liu Naozi (Western Han)](entities/LiuNaoziWesternHan.md) — Nuo Ji and Liu Pengzu's son whose "too many desires" reputation blocks his Zhao succession.
 - [武始侯刘昌 / Liu Chang, Wushi Marquis (Western Han)](entities/LiuChangWushiHouWesternHan.md) — low-risk Zhao successor chosen by Han Wudi after Liu Naozi is rejected.
 - [Karissa Bodnar](entities/KarissaBodnar.md) — Founder of Thrive Causemetics whose episode links personal loss, beauty product development, DTC feedback, lean operations, and founder control.
@@ -12429,7 +12430,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何武 / He Wu (Western Han)](entities/HeWuWesternHan.md) — Western Han official whose profile now spans the断剑 inheritance judgment, Aidi-era removal, Wang Jia-backed restoration, and failed anti-outer-relative recommendation.
 - [公孙禄 / Gongsun Lu (Western Han)](entities/GongsunLuWesternHan.md) — Western Han left general who first objects to deceptive Xiongnu escalation and later joins He Wu's post-Aidi office-balancing attempt.
 - [息夫躬 / Xi Fu Gong (Western Han)](entities/XiFuGongWesternHan.md) — Late-Aidi adviser rewarded in the Dongping case, later feared as an accuser, whose false-envoy and punitive-border proposal turns a chanyu illness delay into a crisis narrative.
-- [乌孙 / Wusun](entities/Wusun.md) — Western Regions polity whose Han-Xiongnu marriage balancing, succession customs, cavalry alliances, and split-kunmi order repeatedly require outside mediation.
+- [乌孙 / Wusun](entities/Wusun.md) — Western Regions polity whose Xiongnu-linked rise, Han marriage hedge, succession customs, cavalry alliances, and split-kunmi order repeatedly reshape frontier alignment.
 - [丁姬 / Ding Ji (Western Han)](entities/DingJiWesternHan.md) — Han Aidi's birth mother whose access is blocked before later Dingtao burial and Wang Mang's 5 CE tomb-demotion campaign.
 - [董宏 / Dong Hong (Western Han)](entities/DongHongWesternHan.md) — Western Han Gaochang Hou whose Qin-precedent proposal for Fu Taihou's title triggers Wang Mang and Shi Dan's early ritual-order resistance.
 - [施丹 / Shi Dan (Western Han)](entities/ShiDanWesternHan.md) — Western Han elder official whose profile spans early Aidi restraint advice, Dingtao-line ritual opposition, leak exposure, punishment, and later retrospective restoration.
