@@ -47026,6 +47026,13 @@
       "url": "/topics/history/"
     }
   ],
+  "JibinKingdomWesternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JieDechen": [
     {
       "key": "technology",
@@ -90937,6 +90944,13 @@
       "url": "/topics/history/"
     }
   ],
+  "YinmofuJibinKing": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "YinmouYangmouConversion": [
     {
       "key": "history",
@@ -102457,6 +102471,13 @@
     }
   ],
   "zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy": [
     {
       "key": "politics",
       "label": "Politics",

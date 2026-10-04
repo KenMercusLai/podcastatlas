@@ -29465,3 +29465,11 @@ Added source `zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-j
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？
+
+Added source `zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy`; created [[JibinKingdomWesternHan|罽宾]] and [[YinmofuJibinKing|阴末赴 / 殷墨傅]]; and resynthesized [[ZhangYuWesternHan|张瑜 / 张禹]] and [[CapacityBoundFrontierCommitment|能力约束下的边疆承诺]] from their complete preserved evidence inventories. Core synthesis: personnel use depends on a leader's capacity to recognize and employ people, while Han's ability to help install and recognize a distant ruler does not guarantee envoy protection or enforceable compliance; after renewed mission violence, the court chooses rupture over an unsupportable punitive expedition. The source's `季宾` transcript form is normalized to 罽宾 without creating a duplicate, the Yinmofu-Hermaeus equation and uniqueness claim remain episode-attributed, and an internal chronology conflict is preserved because the episode dates the event to Chengdi's Heping 4 but names Yuan in the final response. The automatic `wiki/overview.md` was updated during normal ingest, then only read by downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,683-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

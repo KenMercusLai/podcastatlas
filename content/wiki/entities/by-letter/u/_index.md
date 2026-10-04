@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 12324
+wiki_total_pages: 12326
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1968"
     title: "1968 United States Presidential Election"

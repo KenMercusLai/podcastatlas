@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12324
+wiki_total_pages: 12326
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "YinglingdianAI"
     title: "Yinglingdian AI / 英灵殿"
     url: "/wiki/entities/yinglingdianai/"
+  - key: "YinmofuJibinKing"
+    title: "Yinmofu / 阴末赴 / 殷墨傅 (Jibin King)"
+    url: "/wiki/entities/yinmofujibinking/"
   - key: "YishanWang"
     title: "Yishan Wang"
     url: "/wiki/entities/yishanwang/"

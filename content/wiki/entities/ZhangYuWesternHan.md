@@ -8,16 +8,17 @@ sources:
   - zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf
   - zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu
   - zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw
-last_updated: 2026-09-12
+  - zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy
+last_updated: 2026-10-04
 ---
 
 ## Overview
 
-Zhang Yu / 张瑜 enters this wiki through [[zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si|Hanji 549]] as [[HanChengdi|汉成帝]]'s teacher and the named target of [[ZhuYunWesternHan|朱云]]'s public accusation. [[zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu|Hanji 547]] and [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] add the immediately preceding positive case: Zhang Yu is first a visibly favored imperial teacher whose land grant provokes [[WangGenWesternHan|王根]]'s jealousy, and then a court adviser who survives rivalry by refusing to exploit disaster-omen accusations against the Wang-family outer relatives. [[zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw|Hanji 525]] backfills his earlier retirement privilege: he resigns because of age and illness but keeps high ritual access, receives large gifts, and turns teacher status into secure late-life wealth.
+Zhang Yu / 张瑜 enters this wiki through [[zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si|Hanji 549]] as [[HanChengdi|汉成帝]]'s teacher and the named target of [[ZhuYunWesternHan|朱云]]'s public accusation. [[zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy|Hanji 516]] now adds the earlier rise: after teaching the crown prince the `Lunyu`, Zhang Yu receives office under the new emperor, tries to withdraw from a politically exposed memorial role, and is instead appointed chancellor and Anchang Hou. [[zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu|Hanji 547]] and [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] supply the later positive case: his visible favor provokes [[WangGenWesternHan|王根]]'s jealousy, but he refuses to exploit disaster-omen accusations against the Wang-family outer relatives. [[zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw|Hanji 525]] completes the arc with privileged retirement, continuing ritual access, and large gifts.
 
 ## Current Profile
 
-The current profile remains source-bounded but now has three sides. Hanji 547 presents Zhang Yu as Chengdi's classics teacher and continuing adviser. He receives unusual personal honor when Chengdi asks about his illness, visits his sickbed, appoints his younger son to palace office, and consults him on major affairs. That honor also has a political cost: when Chengdi grants him sensitive Pingling-area land despite Wang Gen's objection, Zhang Yu becomes a visible threat to Wang-family status. Hanji 548 then presents the resolution: when earthquakes and eclipses are interpreted as evidence against outer-relative power, Zhang Yu does not take the chance to hurt Wang Gen. He warns Chengdi that disaster meanings are difficult to know, that shallow Confucian assertions should not be trusted, and that the ruler should respond through upright conduct. This protects the Wang side and converts Wang Gen's resentment into shame and friendship.
+The current profile remains source-bounded but now spans appointment, favor, rivalry, accusation, and retirement. Hanji 516 presents Zhang Yu as the future emperor's `Lunyu` teacher. After Chengdi's accession, he receives office and is placed with Wang Feng over the memorial channel; feeling exposed, he repeatedly asks to withdraw, but Chengdi instead appoints him chancellor and Anchang Hou. Hanji 547 then presents him as a continuing classics adviser who receives sickbed honor, family benefit, and a sensitive Pingling-area land grant despite Wang Gen's objection. Hanji 548 supplies the de-escalation: Zhang Yu refuses to use earthquake and eclipse accusations against the Wang outer relatives, advises upright conduct over shallow omen certainty, and converts Wang Gen's resentment into shame and friendship.
 
 Hanji 549 then presents Zhang Yu as Chengdi's teacher and as the person Zhu Yun identifies after being pressed to name the `佞臣` he wants to execute with the imperial sword. Because Zhang Yu is tied to Chengdi personally, Zhu Yun's accusation touches both court hierarchy and imperial emotion.
 
@@ -27,17 +28,18 @@ The sources do not independently establish Zhang Yu's broader policy role or gui
 
 ## Key Characteristics
 
-- Western Han court figure identified as Han Chengdi's teacher.
+- Western Han `Lunyu` teacher whose crown-prince relationship becomes an appointment channel after Chengdi's accession.
+- Chancellor and Anchang Hou who first tries to withdraw from an exposed memorial role.
 - Classics scholar and sickbed adviser whose teacher status gives him continuing access to Chengdi.
 - Retired high official whose teacher relationship remains materially and ritually rewarded.
 - Adviser favored by Chengdi in a land dispute that makes Wang Gen feel threatened.
 - Uses disaster-omen interpretive skepticism to protect the Wang outer relatives rather than attack them.
 - Protected target whose naming turns Zhu Yun's moral critique into a palace crisis.
-- Embodies both the repair potential and the danger of imperial-teacher intimacy.
 
 ## Evidence
 
 Imperial-teacher status:
+- [[zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy|Hanji 516]] says Zhang Yu teaches the crown prince the `Lunyu`, receives office after accession, tries to withdraw from joint memorial duties with Wang Feng, and is instead made chancellor and Anchang Hou.
 - [[zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw|Hanji 525]] says Zhang Yu had been Chengdi's teacher, was rewarded after Chengdi's accession, later became chancellor, received the Anchang Hou title, and retired with special court privilege.
 - [[zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu|Hanji 547]] says Zhang Yu is known for learning in the `Yijing` and `Lunyu`, and that Emperor Yuan appointed him teacher to the future Chengdi.
 - [[zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu|Hanji 547]] says Chengdi visits Zhang Yu when he is ill, asks about his diet and rest, and consults him on major court affairs.
@@ -62,10 +64,11 @@ Protected-figure crisis:
 
 ## Qualifications
 
-This page preserves the existing route's `张瑜` form while Hanji 525, Hanji 547, and Hanji 548's figure aligns with Chengdi's teacher commonly rendered 张禹; the character-form issue remains source-scoped rather than split into a duplicate page. The episodes do not provide a full Zhang Yu biography, so his offices, teachings, and broader historical evaluation remain source-scoped.
+This page preserves the existing route's `张瑜` form while Hanji 516 uses 张羽 and Hanji 525, Hanji 547, and Hanji 548 align the figure with Chengdi's teacher commonly rendered 张禹; the character-form issue remains source-scoped rather than split into duplicate pages. Hanji 516's broad opening argument about self-cultivation and personnel use is the host's interpretive frame, not direct evidence of Zhang Yu's own doctrine or complete performance. The episodes do not provide a full biography or settle his broader historical evaluation.
 
 ## What Changed
 
+- Added Hanji 516's earlier appointment layer: crown-prince teacher, memorial-channel exposure, attempted withdrawal, chancellorship, and Anchang Hou title.
 - Added Hanji 525's retirement layer: Zhang Yu's old-age resignation, continuing ritual access, gifts, and property make later teacher-favor jealousy easier to understand.
 - Added Hanji 547's imperial-teacher favor layer: Zhang Yu's learning, sickbed honor, family benefit, and contested land grant explain why Wang Gen's jealousy becomes politically charged.
 - Preserved Hanji 548's de-escalation layer: Zhang Yu protects the Wang side during disaster-omen accusations before becoming Zhu Yun's protected target in Hanji 549.
@@ -79,3 +82,4 @@ This page preserves the existing route's `张瑜` form while Hanji 525, Hanji 54
 - [[ImperialTeacherHonorRitual]] - adjacent ritual pattern because Chengdi's teacher respect gives Zhang Yu visible status.
 - [[DisasterOmenInterpretiveSkepticism]] - concept grounded by Zhang Yu's disaster-interpretation advice.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - adjacent concept because protected intimacy makes truthful accusation dangerous.
+- [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - adjacent frame because the source treats recognizing and using capable people as a ruler-capacity problem.

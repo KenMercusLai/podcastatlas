@@ -31769,9 +31769,9 @@
       "url": "/wiki/concepts/capacitybackeddiplomatichierarchy/"
     },
     "CapacityBoundFrontierCommitment": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？ [lqTI3sTVdCW7UtGm6uzwv5GIazHj].md",
@@ -31814,9 +31814,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》471｜《弃珠崖议》背后，汉朝为何会放弃征服欲？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？ [llFMuSEG49SZpXVyPVFSP4NaImiy].md",
+          "key": "zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/capacityboundfrontiercommitment/"
     },
     "CapacityGatedChannelExpansion": {
@@ -115035,6 +115042,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/jiaxudouyinecommerce/"
+    },
+    "JibinKingdomWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？ [llFMuSEG49SZpXVyPVFSP4NaImiy].md",
+          "key": "zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/jibinkingdomwesternhan/"
     },
     "JidduKrishnamurti": {
       "episode_count": 1,
@@ -234104,6 +234127,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/yingchuanironofficeuprising/"
     },
+    "YinmofuJibinKing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？ [llFMuSEG49SZpXVyPVFSP4NaImiy].md",
+          "key": "zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/yinmofujibinking/"
+    },
     "YishengNiZaiXiangShenme": {
       "episode_count": 2,
       "show_count": 2,
@@ -237682,9 +237721,9 @@
       "url": "/wiki/entities/zhangyueasternhan/"
     },
     "ZhangYuWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？ [lsKFkw_UDnItdfZzg1LW8b1ch3SI].md",
@@ -237713,9 +237752,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》525丨汉成帝微服私访，为啥遭“天谴”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？ [llFMuSEG49SZpXVyPVFSP4NaImiy].md",
+          "key": "zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/zhangyuwesternhan/"
     },
     "ZhangYueCCTV": {

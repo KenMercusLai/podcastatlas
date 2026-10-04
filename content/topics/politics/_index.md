@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3071
+topic_total_pages: 3074
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6134,6 +6134,9 @@ topic_entities:
   - key: "JiangQing"
     title: "Jiang Qing"
     url: "/wiki/entities/jiangqing/"
+  - key: "JibinKingdomWesternHan"
+    title: "Jibin / 罽宾 (Western Han)"
+    url: "/wiki/entities/jibinkingdomwesternhan/"
   - key: "JimCallaghan"
     title: "Jim Callaghan"
     url: "/wiki/entities/jimcallaghan/"
@@ -7574,6 +7577,9 @@ topic_entities:
   - key: "Yemen"
     title: "Yemen"
     url: "/wiki/entities/yemen/"
+  - key: "YinmofuJibinKing"
+    title: "Yinmofu / 阴末赴 / 殷墨傅 (Jibin King)"
+    url: "/wiki/entities/yinmofujibinking/"
   - key: "YuriAndropov"
     title: "Yuri Andropov / 尤里·安德罗波夫"
     url: "/wiki/entities/yuriandropov/"
@@ -9060,6 +9066,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4"
     title: "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？"
     url: "/wiki/sources/zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4/"
+  - key: "zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy"
+    title: "《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy/"
   - key: "zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p"
     title: "《资治通鉴·汉纪》527-2丨抽筋扒皮？古代的人贩子真活该！"
     url: "/wiki/sources/zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p/"

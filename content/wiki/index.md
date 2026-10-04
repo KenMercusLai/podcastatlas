@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？](sources/zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy.md) — 张禹升任丞相与罽宾册封失效、使团遇害和远距执法能力不足所致的断交。
 - [《资治通鉴·汉纪》515丨是谁拦下了西汉丞相的举报信？](sources/zizhi-tongjian-hanji-515-shi-shui-lan-xia-le-xihan-chengxiang-de-jubaoxin-lshhivowk9jpigkr7ssjiysefm6r.md) — 王凤截留丞相王商对杨荣的奏章、转以私德指控反击，并引出才德之分与证据边界。
 - [670. Tom Holland Meets Paul McCartney](sources/670-tom-holland-meets-paul-mccartney-glt5781731754.md) — Paul McCartney on Liverpool's postwar port culture, informal musical learning, Lennon-McCartney collaboration, songwriting and loss, and memory's historical limits.
 - [《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子](sources/zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn.md) — 王章劝汉成帝撤换王凤，却在王政君施压与皇帝反转后死于狱中的外戚权力与弱势领导案例。
@@ -3746,6 +3747,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trump-Xi Summit, Benioff: "Not My First SaaSpocalypse," OpenAI vs Apple, Multi-Sensory AI, El Niño](sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630.md) — All-In episode with Mark Benioff on U.S.-China economic entanglement, AI-era enterprise software, ambient assistants, El Niño risk, and layered private-market SPVs.
 
 ## Entities
+- [Jibin / 罽宾 (Western Han)](entities/JibinKingdomWesternHan.md) — Distant Western Regions polity whose envoy conflicts expose the enforcement limits of Han recognition.
+- [Yinmofu / 阴末赴 / 殷墨傅 (Jibin King)](entities/YinmofuJibinKing.md) — Han-recognized local ruler identified by the episode with Hermaeus, with the equation kept source-scoped.
 - [Paul McCartney](entities/PaulMcCartney.md) — Beatles musician and songwriter whose recollections link craft to Liverpool, peer learning, family, loss, literature, and reconstructive memory.
 - [Liverpool](entities/Liverpool.md) — English port city framed as a postwar musical ecology of maritime exchange, Irish inheritance, resilience, humor, and peer learning.
 - [王章之妻 / Wife of Wang Zhang (Western Han)](entities/WangZhangWifeWesternHan.md) — Unnamed spouse who warns Wang Zhang against a low-probability confrontation and is exiled with the family after his death.
