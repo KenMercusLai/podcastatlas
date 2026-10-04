@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12341
+wiki_total_pages: 12342
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1244,6 +1244,9 @@ wiki_pages:
   - key: "DavidWeng"
     title: "大卫翁 / David Weng"
     url: "/wiki/entities/davidweng/"
+  - key: "DayuanWesternHan"
+    title: "大宛 / Dayuan (Western Han)"
+    url: "/wiki/entities/dayuanwesternhan/"
   - key: "DaxiaoDianbo"
     title: "大小电波"
     url: "/wiki/entities/daxiaodianbo/"

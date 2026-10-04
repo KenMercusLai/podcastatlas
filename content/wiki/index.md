@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？](sources/zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul.md) — 汉武帝以国家级动员支持李广利再征大宛，围城与威慑换来献马、供粮和亲汉国王，但战争的完整人命与财政代价仍未被核算。
 - [《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？](sources/zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk.md) — 李陵拒绝运粮角色、请率五千步兵分散匈奴兵力，路博德的延期奏议被汉武帝误判后使原定接应部署分离。
 - [《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！](sources/zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri.md) — 李陵以车阵、弓弩、地形与伤兵分工抵抗优势匈奴骑兵，管敢叛逃泄密与箭械耗尽使有序撤退转为绝境突围。
 - [《资治通鉴·汉纪》378-1｜屈辱地活着有多难？看看败将李陵！](sources/zizhi-tongjian-hanji-378-1-quru-de-huozhe-you-duo-nan-kankan-baijiang-liling-lkpxe5exfrq0erj6kcdmbmhxkpvq.md) — 李陵军在泄密、无援与耗尽中崩溃后投降，汉武帝震怒并责问陈步乐，节目以“负重活着”而非简单怯懦重审败将处境。
@@ -5580,7 +5581,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《中国人口史》 / Zhongguo Renkoushi](entities/ZhongguoRenkoushi.md) — population-history work cited for correcting raw household-register figures.
 - [张献忠 / Zhang Xianzhong](entities/ZhangXianzhong.md) — Late-Ming figure used by Hanji 388-4 as one named actor in Sichuan war-devastation memory.
 - [敬城王 / Jingcheng Wang](entities/JingchengWangMing.md) — Ming royal-family example for imperial-clan population expansion and tax-funded stipend burden.
-- [李广利 / Li Guangli (Western Han)](entities/LiGuangliWesternHan.md) — Western Han general whose 99 BCE campaign frames Li Ling's deployment and whose later defeat, surrender, and death frame Han Wudi's Luntai self-criticism.
+- [李广利 / Li Guangli (Western Han)](entities/LiGuangliWesternHan.md) — Western Han general whose Dayuan victory adds siege bargaining and bounded withdrawal before later Xiongnu defeat, surrender, and death frame Han Wudi's Luntai self-criticism.
 - [刘屈氂 / Liu Quli (Western Han)](entities/LiuQuliWesternHan.md) — Late Western Han chancellor ordered to suppress Liu Ju in the Wugu crisis before later in-law succession plotting with Li Guangli around Liu Bo destroys him.
 - [昌邑王刘髆 / Liu Bo, King of Changyi (Western Han)](entities/LiuBoChangyiKingWesternHan.md) — Han Wudi and Lady Li's son, enfeoffed in 97 BCE before becoming the passive succession candidate around whom Li Guangli and Liu Quli align.
 - [李夫人 / Lady Li (Western Han)](entities/LadyLiWesternHan.md) — Han Wudi consort, Li Guangli's sister, and Liu Bo's mother in Hanji 388-1's succession-risk chain.
@@ -11119,7 +11120,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小林亮一 / Kobayashi Ryoichi](entities/KobayashiRyoichi.md) — Coach who recognizes 惠子's professional potential and teaches defense after her painful second fight.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
 - [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, guest-expulsion reversal, Handan revenge, conquest politics, Wang Jian's Chu command, and later imperial fangshu anxieties.
-- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile now includes Wugu support-network destruction, report-driven suppression, late remorse, anti-fangshi disillusionment, final succession design, anti-Xiongnu warfare, and fiscal extraction.
+- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile joins state-scale Dayuan expansion and anti-Xiongnu war to fiscal extraction, Wugu violence, late remorse, and final succession design.
 - [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
 - [Zou Yan / 邹衍](entities/ZouYan.md) — Warring States thinker anchoring episode 87's yin-yang and five-phases political-theory branch.
@@ -16154,6 +16155,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Mark Benioff](entities/MarkBenioff.md) — Salesforce co-founder and CEO represented through grounded enterprise AI, public-market discipline, China data residency, and corporate philanthropy.
 
+- [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity whose siege resilience, elite regicide, threatened horse destruction, and negotiated settlement preserve autonomy under overwhelming Han pressure.
+
 ## Concepts
 - [Terrain and Formation Force Multiplication / 地形阵型战力放大](concepts/TerrainFormationForceMultiplication.md) — 小部队以地形、阵型、武器协同、临时工事、角色分配与信息优势放大战力，同时受补给和情报暴露硬约束的战术模式。
 - [Extremist Social Normalization](concepts/ExtremistSocialNormalization.md) — Process by which exclusionary movements become familiar and respectable through ordinary institutions, entertainment, ritual, and belonging.
@@ -18198,7 +18201,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Marshmallow Test Context](concepts/MarshmallowTestContext.md) — Qualified reading of delayed-gratification experiments as shaped by trust, socioeconomic context, task setup, and learned strategy.
 - [Abstinence Moderation Self-Control](concepts/AbstinenceModerationSelfControl.md) — Goal-management choice between strict no-lapse rules and planned flexible engagement.
 - [Goal Disengagement And Reengagement](concepts/GoalDisengagementAndReengagement.md) — Self-control boundary where letting go of impossible goals supports well-being and new goal pursuit.
-- [Decisive Resource Commitment / 决断型资源投入](concepts/DecisiveResourceCommitment.md) — Decision pattern where enough initial resources can avoid repeated mobilization, prolonged cost, damaged credibility, and wider escalation.
+- [Decisive Resource Commitment / 决断型资源投入](concepts/DecisiveResourceCommitment.md) — Decision pattern where sufficient initial resources can avoid repeated failure, while exit rules and full cost accounting distinguish commitment from overreach.
 - [赦令不能替代治理 / Amnesty Cannot Substitute for Governance](concepts/AmnestyCannotSubstituteGovernance.md) — Governance pattern where repeated pardon fails if instruction, court example, and social causes remain unrepaired.
 - [京师示范治理 / Capital Exemplar Governance](concepts/CapitalExemplarGovernance.md) — Governance pattern where the capital and court function as visible models whose customs radiate outward through imitation.
 - [Buridan Indecision Effect / 布利丹效应](concepts/BuridanIndecisionEffect.md) — Decision-failure pattern where unclear goals, unclear resources, and over-waiting turn choice into costly paralysis.

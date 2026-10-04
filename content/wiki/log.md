@@ -29597,3 +29597,11 @@ Added source `zizhi-tongjian-hanji-378-2-jiemi-simaqian-shou-gongxing-de-zhenzhe
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？
+
+Added source `zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul`; created [[DayuanWesternHan|大宛]]; and resynthesized [[HanWudi|汉武帝]], [[LiGuangliWesternHan|李广利]], and [[DecisiveResourceCommitment|决断型资源投入]] from their complete preserved evidence inventories. Core synthesis: the second Dayuan expedition succeeds because Han turns an earlier failure into integrated state-scale mobilization, while Li Guangli converts siege pressure and intelligence into a bounded settlement rather than total conquest. The episode's claim that this was strategically “worth it” remains qualified because coerced recruitment, the Luntai massacre, civilian losses, transport and animal attrition, and fiscal opportunity cost are not fully counted. Troop, animal, siege, horse, and political-settlement details remain source-scoped pending primary-source verification. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,700-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

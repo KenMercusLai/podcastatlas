@@ -52524,6 +52524,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/daymondjohn/"
     },
+    "DayuanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？ [lmFZkLlEJz3M0vanMNu7GYxtWbUl].md",
+          "key": "zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/dayuanwesternhan/"
+    },
     "Dbt": {
       "episode_count": 1,
       "show_count": 1,
@@ -52952,9 +52968,9 @@
       "url": "/wiki/concepts/decisionspeedaccuracycontrol/"
     },
     "DecisiveResourceCommitment": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！ [libgQZvQUEGLLma9SOJU57K_jXuE].md",
@@ -52969,9 +52985,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》482丨认清“布利丹效应”，治好你的选择困难症！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-482-renqing-bulidan-xiaoying-zhihao-nide-xuanze-kunnan-zheng-ljuimsm-o4mglmsntyp8w5ru-dt8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？ [lmFZkLlEJz3M0vanMNu7GYxtWbUl].md",
+          "key": "zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/decisiveresourcecommitment/"
     },
     "DecisiveTerrainPreemption": {
@@ -93358,9 +93381,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 2,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -93501,9 +93524,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》381-2｜怀胎14个月产子，揭秘钩弋夫人的传奇人生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-381-2-huaitai-14geyue-chanzi-jiemi-gouyi-furen-de-chuanqi-rensheng-lvfj365_foqcmyintojfl7pj4f2t/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？ [lmFZkLlEJz3M0vanMNu7GYxtWbUl].md",
+          "key": "zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/hanwudi/"
     },
     "HanXianLateHan": {
@@ -125456,9 +125486,9 @@
       "url": "/wiki/entities/liguanghangeneral/"
     },
     "LiGuangliWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》389-2｜历史揭秘：谁是写“检讨书”最多的王 [lvNAmm5Dza3S9AO8OfCsHHIYnsU1].md",
@@ -125480,9 +125510,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？ [lmFZkLlEJz3M0vanMNu7GYxtWbUl].md",
+          "key": "zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/liguangliwesternhan/"
     },
     "LiHeEasternHan": {

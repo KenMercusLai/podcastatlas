@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3079
+topic_total_pages: 3080
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7751,6 +7751,9 @@ topic_entities:
   - key: "XiahouFanWesternHan"
     title: "夏侯藩 / Xiahou Fan (Western Han)"
     url: "/wiki/entities/xiahoufanwesternhan/"
+  - key: "DayuanWesternHan"
+    title: "大宛 / Dayuan (Western Han)"
+    url: "/wiki/entities/dayuanwesternhan/"
   - key: "LouChang"
     title: "娄昌 / Lou Chang"
     url: "/wiki/entities/louchang/"
