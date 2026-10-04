@@ -12,21 +12,21 @@ outputs: ["html"]
 ## Pages
 - Overview: 1
 - Concepts: 9674
-- Entities: 12351
-- Sources: 3708
-- Total wiki content pages: 25734
+- Entities: 12353
+- Sources: 3709
+- Total wiki content pages: 25737
 
 ## Links
-- Wiki link references: 613298
-- Unique wiki link targets: 25744
-- Missing targets: 16
+- Wiki link references: 613245
+- Unique wiki link targets: 25748
+- Missing targets: 17
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 3708
-- Matched episodes: 3708
+- Source pages: 3709
+- Matched episodes: 3709
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -52,6 +52,8 @@ outputs: ["html"]
   - `content/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md`
 - `[[CreatorEconomy]]`
   - `content/wiki/concepts/PlatformNativePublicHistory.md`
+- `[[Hanshu]]`
+  - `content/wiki/entities/ShenYiji.md`
 - `[[IntrinsicMotivation]]`
   - `content/wiki/concepts/InnovatorTraitConfiguration.md`
   - `content/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364.md`

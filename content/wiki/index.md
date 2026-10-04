@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》372-3｜西汉皇帝都有哪些男朋友？](sources/zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt.md) — 籍孺与闳孺展示早期西汉宠幸如何阻隔或中介皇帝近身渠道、影响生死决定并扩散宫廷审美；现代性取向与创伤因果保留为来源推断。
 - [《资治通鉴·汉纪》372-4｜西汉皇帝多是双性恋的原因？](sources/zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr.md) — 邓通、韩嫣与李延年展示亲密宠幸如何转化为财富、官位和近身权力，又如何在继位或更强宫廷权威介入时迅速失效；现代性取向与遗传解释保留为未证实推断。
 - [《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布](sources/zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre.md) — 公孙贺以骑射之才不足承担相责而泣跪辞任，汉武帝仍强令接受；征马、蝗灾、巡祭与大宛远征共同显出高位责任和战争后勤压力。
 - [《资治通鉴·汉纪》374-1｜汉武帝为何宁愿自损八千，也不愿放过大宛国？](sources/zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh.md) — 赵破奴被俘后，朝臣主张集中对付匈奴，汉武帝却以西域侧翼布局与国家信誉为由坚持伐宛；同年边防建设和匈奴入侵使这一选择的机会成本更清晰。
@@ -8736,7 +8737,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘长 / Liu Chang (Huainan king)](entities/LiuChangHuainanKing.md) — Liu-family replacement named king of Huainan after Ying Bu's title is abolished during the rebellion.
 - [奔鹤 / Ben He](entities/BenHe.md) — Huainan official whose failed attempt to gain favor through Ying Bu's concubine becomes a flight, accusation, investigation, and rebellion trigger.
 - [淮南国 / Huainan Kingdom (early Han)](entities/HuainanKingdomEarlyHan.md) — Ying Bu's early Han royal base, with its own troops and officials, where Ben He's accusation and Han investigation trigger the rebellion decision.
-- [平原君诸建 / Pingyuanjun Zhu Jian](entities/PingyuanjunZhuJian.md) — Huainan chancellor who advises against Ying Bu's rebellion, disambiguated from the Warring States Lord Pingyuan.
+- [平原君朱建 / Pingyuanjun Zhu Jian](entities/PingyuanjunZhuJian.md) — 先劝英布不要起兵，后借闳孺的近身渠道与自保动机劝阻惠帝杀审食其的风险调停者。
 - [梁富侯 / Liangfu Hou](entities/LiangfuHou.md) — Huainan-side adviser whose harder line supports Ying Bu's judgment that rebellion is the only remaining path.
 - [栾布 / Luan Bu](entities/LuanBu.md) — Peng Yue's old friend and former subordinate whose public mourning and death-facing speech make Liu Bang confront merit-holder fear after Peng Yue's execution.
 - [赵佗 / Zhao Tuo](entities/ZhaoTuo.md) — Former Qin Nanhai powerholder who uses Ren Xiao's handoff to build Nanyue and later accepts Han recognition after Lu Jia's pressure.
@@ -8854,14 +8855,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [随何 / Sui He](entities/SuiHe.md) — Liu Bang-side envoy who turns Ying Bu by combining interest reframing with public no-return pressure before Xiang Yu's envoy.
 - [Jiujiang Kingdom / 九江国](entities/JiujiangChuHan.md) — Ying Bu's Chu-Han power base and the court setting where Sui He turns a private defection promise into an open break with Xiang Yu.
 - [曾赫 / Zeng He](entities/ZengHe.md) — Liu Bang-side commander who preserves formation during the Pengcheng rout and helps block Chu cavalry.
-- [审食其 / Shen Yiji](entities/ShenYiji.md) — Companion of Liu Taigong and Lu Zhi captured by Chu after the Pengcheng rout, kept source-scoped to the hostage chain.
+- [审食其 / Shen Yiji](entities/ShenYiji.md) — 彭城败后家属人质、卢绾案调查者，并在惠帝朝因吕后关系遭遇杀身风险而经闳孺调停获免。
+- [籍孺 / Ji Ru](entities/JiRu.md) — 刘邦近幸，其内廷陪侍显示宠幸对君臣接触和宫廷审美模仿的影响。
+- [闳孺 / Hong Ru](entities/HongRu.md) — 汉惠帝近幸，以亲密接触渠道介入审食其生死争端，同时暴露于吕后的潜在追责。
 - [吕泽 / Lu Ze](entities/LuZe.md) — Lu Zhi's brother and Liu-side commander whose Xiayi troops give Liu Bang a post-Pengcheng rally point.
 - [下邑 / Xiayi](entities/Xiayi.md) — Liu Bang-linked place that becomes Lu Ze's post-Pengcheng rally point after earlier appearing in Qinji 130-1.
 - [萧县 / Xiao County](entities/XiaoCounty.md) — Pengcheng Battle hinge where Xiang Yu cuts Liu Bang's westward retreat and supply line before the surprise attack.
 - [睢水 / Sui River](entities/SuiRiver.md) — River casualty marker in the Pengcheng Battle pursuit, cited through "睢水为之不流."
 - [泗水 / Si River](entities/SiRiver.md) — Pengcheng/Xuzhou river node linking Qin Shi Huang's Jiuding search to the Pengcheng Battle pursuit geography.
 - [彭城之战 / Battle of Pengcheng](entities/PengchengBattle.md) — First major Chu-Han battle branch now covering its political setup, Qi distraction, Pengcheng capture, Xiang Yu's secret cavalry counterattack, and Liu Bang's escape.
-- [刘盈 / Liu Ying](entities/LiuYing.md) — Liu Bang's son and crown prince, first marked by Pengcheng vulnerability and later threatened by Liu Ruyi's proposed replacement.
+- [刘盈 / Liu Ying](entities/LiuYing.md) — 刘邦之子与汉惠帝，从彭城逃亡中的弱势儿童、受保护的储君，延伸为可经闳孺近身调停影响生死决定的皇帝。
 - [鲁元公主 / Princess Lu Yuan](entities/LuYuanPrincess.md) — Liu Bang's daughter in the Pengcheng escape scene, paired with Liu Ying in the cart-flight account.
 - [董公 / Dong Gong (Xincheng)](entities/DongGongXincheng.md) — Xincheng elder whose advice turns Yi Emperor Mi Xin's murder into Liu Bang's mourning-based anti-Xiang mobilization pretext.
 - [田广 / Tian Guang (Qi King)](entities/TianGuangQiKing.md) — Tian Rong's son installed by Tian Heng as Qi king, later persuaded by Li Shiqi at Linzi before Han Xin's unsynchronized attack reopens the Qi front.
@@ -11262,7 +11265,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [项庄 / Xiang Zhuang](entities/XiangZhuang.md) — Xiang-camp figure sent by Fan Zeng to use a sword dance as a covert attempt to kill Liu Bang at Hongmen.
 - [张良 / Zhang Liang](entities/ZhangLiang.md) — Liu Bang strategist read through calibrated speech, gift handling, and power etiquette at Hongmen.
 - [范增 / Fan Zeng](entities/FanZeng.md) — Xiang Yu adviser whose correct danger judgment fails because he cannot move Xiang Yu psychologically and then overreaches through Xiang Zhuang.
-- [樊哙 / Fan Kuai](entities/FanKuai.md) — Liu Bang old follower whose blunt loyal speech works at Hongmen and again in Hanji 185's sickbed ruler-access crisis.
+- [樊哙 / Fan Kuai](entities/FanKuai.md) — 刘邦旧从、姻亲、将领与强谏者，其闯帐进言反复打破被宫廷近侍阻隔的君臣通道。
 - [纪信 / Ji Xin](entities/JiXin.md) — Liu Bang-side trusted attendant who later impersonates Liu Bang at Xingyang, dies under Xiang Yu, and becomes tied to Zhengzhou city-god memory.
 - [金强 / Jin Qiang](entities/JinQiang.md) — Liu Bang-side trusted attendant preserved under the source's 金强 transcript form in the Hongmen escort.
 - [司马迁 / Sima Qian](entities/SimaQian.md) — Historian used as both Hongmen narrative source and model for experience-cultivated prose force.
@@ -25907,7 +25910,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Compensatory Personality Integration / 补偿性人格整合](concepts/CompensatoryPersonalityIntegration.md) — Development and coordination of capacities that a restrictive upbringing gave too little room to practice.
 - [Longitudinal Relationship Trust / 关系过程性信任](concepts/LongitudinalRelationshipTrust.md) — Trust built, weakened, and repaired through repeated interaction rather than one disclosure, promise, or verdict.
 - [女性婚姻能动性的历史变动 / Female Marriage Agency Across Periods](concepts/FemaleMarriageAgencyHistoricalVariation.md) — Historically variable remarriage, divorce, and intimate choice shaped by period norms, status, resources, and unequal exit costs.
-- [宫廷亲密关系作为政治资源 / Court Intimacy as Political Resource](concepts/CourtIntimacyAsPoliticalResource.md) — Pattern in which favorites and sexual access become channels for patronage, information, rank, revenge, replacement, and removal.
+- [宫廷亲密关系作为政治资源 / Court Intimacy as Political Resource](concepts/CourtIntimacyAsPoliticalResource.md) — 宠幸与亲密接触转化为赏赐、官位、信息、接近阻隔、请托调停、审美模仿及政治暴露的机制。
 
 - [刚直理想主义的政治风险 / Rigid Idealism Political Risk](concepts/RigidIdealismPoliticalRisk.md) — Moral courage can fail politically when leverage, protected channels, reliable authority, and transferred household risk are ignored.
 

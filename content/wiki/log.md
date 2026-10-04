@@ -29669,3 +29669,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》372-3｜西汉皇帝都有哪些男朋友？
+
+Added source `zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt`; created [[JiRu|籍孺]] and [[HongRu|闳孺]]; resynthesized [[PingyuanjunZhuJian|平原君朱建]], [[LiuYing|刘盈]], [[FanKuai|樊哙]], [[ShenYiji|审食其]], and [[CourtIntimacyAsPoliticalResource|宫廷亲密关系作为政治资源]] from their complete preserved evidence inventories. Core synthesis: early-Han favorite access could block ordinary ministerial contact, broker a life-and-death petition, and spread court aesthetics while exposing the favorite to blame from stronger palace authority. A source tension remains between Hanji 185's unnamed eunuch and Hanji 372-3's identification of [[JiRu|籍孺]] in Liu Bang's sickbed scene. The modern “boyfriend” labels, broad claim about nearly every Western Han emperor, trauma-based explanation for Liu Ying, precise sexual content, and corrupted transcript names remain source-scoped or normalized with explicit caution. The automatic `wiki/overview.md` was not manually rewritten.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
