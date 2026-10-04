@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2557
+topic_total_pages: 2558
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6459,6 +6459,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784"
+    title: "655. The Ku Klux Klan: Terror in the South (Part 2)"
+    url: "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
   - key: "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135"
     title: "656. The Ku Klux Klan: Birth of a Nation (Part 3)"
     url: "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"

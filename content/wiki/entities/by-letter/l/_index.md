@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12385
+wiki_total_pages: 12390
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "LewisHenryMorgan"
     title: "Lewis Henry Morgan"
     url: "/wiki/entities/lewishenrymorgan/"
+  - key: "LewisMerrill"
+    title: "Lewis Merrill"
+    url: "/wiki/entities/lewismerrill/"
   - key: "LewisStrauss"
     title: "Lewis Strauss"
     url: "/wiki/entities/lewisstrauss/"

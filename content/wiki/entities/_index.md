@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12385
+wiki_total_pages: 12390
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "AbrahamBeame"
     title: "Abraham Beame"
     url: "/wiki/entities/abrahambeame/"
+  - key: "AbrahamColby"
+    title: "Abraham Colby"
+    url: "/wiki/entities/abrahamcolby/"
   - key: "AbrahamLincoln"
     title: "Abraham Lincoln"
     url: "/wiki/entities/abrahamlincoln/"
@@ -1061,6 +1064,9 @@ wiki_pages:
   - key: "AmnestyInternational"
     title: "Amnesty International"
     url: "/wiki/entities/amnestyinternational/"
+  - key: "AmosTAkerman"
+    title: "Amos T. Akerman"
+    url: "/wiki/entities/amostakerman/"
   - key: "AmoyFood"
     title: "Amoy Food / 淘大"
     url: "/wiki/entities/amoyfood/"

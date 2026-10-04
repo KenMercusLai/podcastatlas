@@ -5075,6 +5075,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/abrahambeame/"
     },
+    "AbrahamColby": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2904395784 [GLT2904395784].md",
+          "key": "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784",
+          "show": "The Rest Is History",
+          "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
+          "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/abrahamcolby/"
+    },
     "AbrahamLincoln": {
       "episode_count": 5,
       "show_count": 1,
@@ -11483,6 +11499,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/amnestytimedpacification/"
+    },
+    "AmosTAkerman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2904395784 [GLT2904395784].md",
+          "key": "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784",
+          "show": "The Rest Is History",
+          "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
+          "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/amostakerman/"
     },
     "AmoyFood": {
       "episode_count": 1,
@@ -63715,6 +63747,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/elililly/"
+    },
+    "EliasHill": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2904395784 [GLT2904395784].md",
+          "key": "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784",
+          "show": "The Rest Is History",
+          "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
+          "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/eliashill/"
     },
     "EliezerGold": {
       "episode_count": 1,
@@ -122677,9 +122725,9 @@
       "url": "/wiki/entities/krugernationalpark/"
     },
     "KuKluxKlan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4147819855 [GLT4147819855].md",
@@ -122694,6 +122742,13 @@
           "show": "The Rest Is History",
           "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
           "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
+        },
+        {
+          "episode_file": "GLT2904395784 [GLT2904395784].md",
+          "key": "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784",
+          "show": "The Rest Is History",
+          "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
+          "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
         }
       ],
       "updated": "2026-10-05",
@@ -126152,6 +126207,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/lewisandclarkexpedition/"
+    },
+    "LewisMerrill": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2904395784 [GLT2904395784].md",
+          "key": "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784",
+          "show": "The Rest Is History",
+          "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
+          "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/lewismerrill/"
     },
     "LewisStrauss": {
       "episode_count": 1,
@@ -134492,9 +134563,9 @@
       "url": "/wiki/concepts/lossofcontroleating/"
     },
     "LostCauseMyth": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3666140136 [GLT3666140136].md",
@@ -134516,6 +134587,13 @@
           "show": "The Rest Is History",
           "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
           "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
+        },
+        {
+          "episode_file": "GLT2904395784 [GLT2904395784].md",
+          "key": "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784",
+          "show": "The Rest Is History",
+          "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
+          "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
         }
       ],
       "updated": "2026-10-05",
@@ -152512,6 +152590,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/natesoares/"
+    },
+    "NathanBedfordForrest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2904395784 [GLT2904395784].md",
+          "key": "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784",
+          "show": "The Rest Is History",
+          "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
+          "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/nathanbedfordforrest/"
     },
     "NationalAnthemPoliticalPlasticity": {
       "episode_count": 6,
@@ -179687,10 +179781,42 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/reconstructionconstitutionalafterlife/"
     },
-    "ReconstructionRollback": {
-      "episode_count": 2,
+    "ReconstructionElectoralTerror": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2904395784 [GLT2904395784].md",
+          "key": "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784",
+          "show": "The Rest Is History",
+          "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
+          "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/reconstructionelectoralterror/"
+    },
+    "ReconstructionFederalEnforcement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2904395784 [GLT2904395784].md",
+          "key": "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784",
+          "show": "The Rest Is History",
+          "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
+          "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/reconstructionfederalenforcement/"
+    },
+    "ReconstructionRollback": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3666140136 [GLT3666140136].md",
@@ -179705,9 +179831,16 @@
           "show": "The Rest Is History",
           "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
           "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        },
+        {
+          "episode_file": "GLT2904395784 [GLT2904395784].md",
+          "key": "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784",
+          "show": "The Rest Is History",
+          "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
+          "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/reconstructionrollback/"
     },
     "ReconstructiveMemory": {
@@ -218179,9 +218312,9 @@
       "url": "/wiki/concepts/ultrasoundexampreparationandsafety/"
     },
     "UlyssesSGrant": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3990109453 [GLT3990109453].md",
@@ -218196,9 +218329,16 @@
           "show": "The Rest Is History",
           "title": "202. American Civil War: Gettysburg (Part 3)",
           "url": "/wiki/sources/202-american-civil-war-gettysburg-part-3-glt5256515778/"
+        },
+        {
+          "episode_file": "GLT2904395784 [GLT2904395784].md",
+          "key": "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784",
+          "show": "The Rest Is History",
+          "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
+          "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/ulyssessgrant/"
     },
     "UmayyadCaliphate": {

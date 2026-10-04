@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9691
+wiki_total_pages: 9693
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -224,6 +224,12 @@ wiki_pages:
   - key: "ReconstructionConstitutionalAfterlife"
     title: "Reconstruction Constitutional Afterlife"
     url: "/wiki/concepts/reconstructionconstitutionalafterlife/"
+  - key: "ReconstructionElectoralTerror"
+    title: "Reconstruction Electoral Terror"
+    url: "/wiki/concepts/reconstructionelectoralterror/"
+  - key: "ReconstructionFederalEnforcement"
+    title: "Reconstruction Federal Enforcement"
+    url: "/wiki/concepts/reconstructionfederalenforcement/"
   - key: "ReconstructionRollback"
     title: "Reconstruction Rollback"
     url: "/wiki/concepts/reconstructionrollback/"

@@ -29895,3 +29895,11 @@ Added the source note, created [[YangLiStandup|杨笠]] and [[ComedyPublicRecept
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 655. The Ku Klux Klan: Terror in the South (Part 2)
+
+Added source `655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784`; created [[NathanBedfordForrest]], [[AmosTAkerman|Amos T. Akerman]], [[LewisMerrill]], [[AbrahamColby]], [[EliasHill]], [[ReconstructionElectoralTerror]], and [[ReconstructionFederalEnforcement]]; and resynthesized [[KuKluxKlan]], [[UlyssesSGrant|Ulysses S. Grant]], [[ReconstructionRollback]], and [[LostCauseMyth]] from their complete preserved evidence inventories. Core synthesis: decentralized first-Klan violence strategically attacked Black voting, officeholding, schools, churches, labor independence, and Republican organization; coordinated federal law, evidence gathering, troops, arrests, and prosecution could suppress it locally, but delayed protection, incomplete punishment, successor groups, court restriction, and declining political will allowed rollback to continue. No settled contradiction was adopted. Membership estimates, casualty totals, vote figures, quotations, individual motives, local Klan affiliations, and relative causal weights remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. No topic claim set was dirty and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,737 sources and retain 789 overview paragraphs. Changed-page links, index coverage, identities, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5803,6 +5803,13 @@
       "url": "/topics/science/"
     }
   ],
+  "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135": [
     {
       "key": "history",
@@ -69239,6 +69246,13 @@
     }
   ],
   "RecognitionBackedFrontierDiplomacy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ReconstructionElectoralTerror": [
     {
       "key": "politics",
       "label": "Politics",
