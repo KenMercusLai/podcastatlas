@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2185
+topic_total_pages: 2186
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6450,6 +6450,9 @@ topic_sources:
   - key: "vol-273-yingweida-ze-jianji-tianxia-1010956114"
     title: "Vol.273 英伟达则兼济天下？"
     url: "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
+  - key: "vol-274-chengwei-saluomeng-1013268300"
+    title: "Vol.274 成为萨洛蒙"
+    url: "/wiki/sources/vol-274-chengwei-saluomeng-1013268300/"
   - key: "vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861"
     title: "Vol.275 澳洲保健品是怎么火起来的？"
     url: "/wiki/sources/vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861/"

@@ -1849,9 +1849,15 @@
       "earliest_episode_date": "2026-02-08",
       "latest_episode_date": "2026-09-27",
       "latest_episode_file": "假期通知兼谈本台为什么要做视频播客 [1018741567].md",
-      "source_note_count": 27,
-      "topic_matched_source_note_count": 19,
+      "source_note_count": 28,
+      "topic_matched_source_note_count": 20,
       "topics": [
+        {
+          "key": "economics",
+          "label": "Economics",
+          "url": "/topics/economics/",
+          "source_note_count": 7
+        },
         {
           "key": "culture",
           "label": "Culture",
@@ -1862,12 +1868,6 @@
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 6
-        },
-        {
-          "key": "economics",
-          "label": "Economics",
-          "url": "/topics/economics/",
           "source_note_count": 6
         },
         {
@@ -1915,9 +1915,9 @@
         }
       ],
       "start_here_episode_files": [
+        "Vol.275 澳洲保健品是怎么火起来的？ [1015773861].md",
         "假期通知兼谈本台为什么要做视频播客 [1018741567].md",
         "Vol.276 做月嫂育儿嫂的姐姐，都有故事 [1017890906].md",
-        "Vol.275 澳洲保健品是怎么火起来的？ [1015773861].md",
         "商业小样50 ｜ 都在讨论家务机器人，不如关心到底有什么家务 [1017031596].md"
       ]
     },

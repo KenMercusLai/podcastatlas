@@ -29313,3 +29313,11 @@ Added source `103-duihua-yanyuan-guoxiaoting-ta-zai-guochanju-li-zhangda-ye-kanz
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | Vol.274 成为萨洛蒙
+
+Added source `vol-274-chengwei-saluomeng-1013268300`; created [[GeorgeSalomon]], [[KilianJornet]], [[GoldenTrailWorldSeries]], [[GravelRunning]], [[TechnicalProductLifestyleTranslation]], and [[NicheSportEcosystemBuilding]]; and resynthesized [[Salomon]], [[AmerSports]], [[SportswearMultiBrandPortfolio]], and [[ComfortLedFootwearDemand]] from their complete preserved evidence inventories. Core synthesis: Salomon's shift from ski engineering to outdoor fashion is best understood as technical translation supported by athlete proof, race and community infrastructure, collaborations, and direct retail rather than abandonment of performance identity. No settled contradiction was adopted. The episode received Salomon content support, so historical chronology, revenue, margins, market position, store counts, demographics, athlete effects, and strategic outcomes remain source-scoped pending independent evidence. The automatic `wiki/overview.md` was updated during normal ingest, then only read by downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,664-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.274 成为萨洛蒙](sources/vol-274-chengwei-saluomeng-1013268300.md) — 商业就是这样 episode on Salomon's path from ski-binding engineering to trail-running ecosystem, direct retail, fashion translation, and Gravel category building.
 - [103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化](sources/103-duihua-yanyuan-guoxiaoting-ta-zai-guochanju-li-zhangda-ye-kanzhe-guochanju-bianhua-gkwrimaoeesma84v2atvmtsf.md) — 展开讲讲 conversation on actor autonomy, craft, role access, platform-era visibility labor, audience interpretation, and Chinese television change through 郭晓婷's career.
 - [Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush](sources/banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8.md) — How I Built This founder story on chickpea-pasta formulation, industrial transfer failure, retail and packaging growth, glyphosate-response pressure, and deliberately increasing exposure to luck.
 - [Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson](sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715.md) — Huberman Lab interview on gastrointestinal physiology, fiber and microbial metabolites, intestinal barrier integrity, screening, GLP-1 tradeoffs, metabolic monitoring, and multimodal obesity treatment.
@@ -3726,6 +3727,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
 
 ## Entities
+- [George Salomon](entities/GeorgeSalomon.md) — Product innovator associated with Salomon's 1950s releasable ski bindings and early technical advantage.
+- [Kilian Jornet](entities/KilianJornet.md) — Trail runner used as the athlete-proof case for Salomon hydration-vest adoption.
+- [Golden Trail World Series](entities/GoldenTrailWorldSeries.md) — Salomon-founded trail-running series linking competition, athletes, community, and media.
 - [郭晓婷 / Guo Xiaoting](entities/GuoXiaoting.md) — Chinese actor whose career account connects childhood sets, formal training, active role pursuit, precision craft, autonomy, and platform-era adaptation.
 - [《怪你过分美丽》](entities/GuaiNiGuofenMeili.md) — Television production used as the career and performance case for 郭晓婷's active pursuit of Lin Xiang.
 - [《纯真年代的爱情》](entities/ChunzhenNiandaiDeAiqing.md) — Television production used to examine Fang Mujing, precision acting, audience close reading, and role publicity.
@@ -8285,7 +8289,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nikita Shah](entities/NikitaShah.md) — CSIS cybersecurity analyst explaining U.S. water-system attacks, resilience, AI cyber risk, election information operations, and offensive-cyber guardrails.
 - [Cyber Avengers](entities/CyberAvengers.md) — Cyber actor whose water-system responsibility claim is treated cautiously pending official attribution.
 - [Minnesota](entities/Minnesota.md) — State used as the episode's water-system incident origin and manual-recovery resilience example.
-- [Amer Sports / 亚玛芬体育](entities/AmerSports.md) — Outdoor-sports group behind Arc'teryx, added through the source's China premium-outdoor expansion branch.
+- [Amer Sports / 亚玛芬体育](entities/AmerSports.md) — Specialist sports-brand group represented through Arc'teryx's China growth and Salomon's technical-to-lifestyle expansion.
 - [Arc'teryx / 始祖鸟](entities/Arcteryx.md) — Premium outdoor brand expanding in Greater China through flagship and store rollout.
 - [Lucky Coffee / 幸运咖](entities/LuckyCoffee.md) — Mixue coffee brand moving from low-tier scale toward higher-tier office and industrial-park locations.
 - [Hainan Airlines / 海南航空](entities/HainanAirlines.md) — Chinese airline peer case in the in-flight meal and passenger-service upgrade branch.
@@ -9778,7 +9782,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VF Corporation / 威富集团](entities/VFCorporation.md) — Apparel and footwear group that acquired Vans and is used to show how corporate scale can slow culture-led product renewal.
 - [Chuck Taylor](entities/ChuckTaylor.md) — Converse figure whose basketball-camp feedback and signature helped make the All Star shoe family a named cultural product.
 - [Sun Choe](entities/SunChoe.md) — Former Lululemon product leader brought in to lead Vans' product, store, marketing, and Warped Tour recovery work.
-- [Salomon](entities/Salomon.md) — Outdoor and trail-linked footwear brand used as a comfort/function contrast to classic canvas shoes.
+- [Salomon](entities/Salomon.md) — French mountain-sports brand joining ski engineering, trail-running ecosystems, direct retail, and technical-fashion translation.
 - [Birkenstock](entities/Birkenstock.md) — Comfort-forward footwear brand linking relaxed support with seasonal and ballet-coded scene expansion.
 - [Crocs](entities/Crocs.md) — Comfort-first clog brand linking relaxed wearability with seasonal and ballet-coded scene expansion.
 - [DeepSeek Harness](entities/DeepSeekHarness.md) — DeepSeek developer-preview agent scheduling system described as a plugin-oriented harness layer.
@@ -16063,6 +16067,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dangote Petroleum Refinery](entities/DangotePetroleumRefinery.md) — Nigerian refinery whose proposed $50bn local listing is a test of scale, ownership access, and market depth.
 
 ## Concepts
+- [Gravel Running / 路野跑](concepts/GravelRunning.md) — Mixed-surface running format combining road accessibility, trail variability, and participant-chosen urban routes.
+- [Technical Product Lifestyle Translation / 专业产品生活方式转译](concepts/TechnicalProductLifestyleTranslation.md) — Process of moving specialist equipment into daily fashion while retaining recognizable functional structure and credibility.
+- [Niche Sport Ecosystem Building / 小众运动生态建设](concepts/NicheSportEcosystemBuilding.md) — Coordinated use of equipment, athletes, education, communities, competitions, and media to make a small sport sustainable.
 - [Actor Autonomy and Boundary / 演员职业自主与边界](concepts/ActorAutonomyAndBoundary.md) — Decision-rights framework for roles, working conditions, publicity, health, private life, and professional self-definition.
 - [Platform-Era Actor Visibility Labor / 平台时代演员可见性劳动](concepts/PlatformEraActorVisibilityLabor.md) — Work that makes actors and characters legible across production assets, metrics, short video, fandom, and audience analysis.
 - [Compassionate Character Interpretation / 悲悯式角色理解](concepts/CompassionateCharacterInterpretation.md) — Acting approach that seeks motive, constraint, and vulnerability without confusing understanding with moral approval.

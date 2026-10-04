@@ -10801,6 +10801,29 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/ambroseofmilan/"
     },
+    "AmerSports": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
+          "key": "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506",
+          "show": "声动早咖啡",
+          "title": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿",
+          "url": "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"
+        },
+        {
+          "episode_file": "Vol.274 成为萨洛蒙 [1013268300].md",
+          "key": "vol-274-chengwei-saluomeng-1013268300",
+          "show": "商业就是这样",
+          "title": "Vol.274 成为萨洛蒙",
+          "url": "/wiki/sources/vol-274-chengwei-saluomeng-1013268300/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/amersports/"
+    },
     "AmericanCivilWar": {
       "episode_count": 4,
       "show_count": 1,
@@ -42529,9 +42552,9 @@
       "url": "/wiki/concepts/comedyshapinghistoricalmemory/"
     },
     "ComfortLedFootwearDemand": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？ [1006742982].md",
@@ -42546,9 +42569,16 @@
           "show": "声动早咖啡",
           "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
           "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        },
+        {
+          "episode_file": "Vol.274 成为萨洛蒙 [1013268300].md",
+          "key": "vol-274-chengwei-saluomeng-1013268300",
+          "show": "商业就是这样",
+          "title": "Vol.274 成为萨洛蒙",
+          "url": "/wiki/sources/vol-274-chengwei-saluomeng-1013268300/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/comfortledfootweardemand/"
     },
     "CommandAuthorityBottleneck": {
@@ -85221,6 +85251,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/georgespatton/"
     },
+    "GeorgeSalomon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.274 成为萨洛蒙 [1013268300].md",
+          "key": "vol-274-chengwei-saluomeng-1013268300",
+          "show": "商业就是这样",
+          "title": "Vol.274 成为萨洛蒙",
+          "url": "/wiki/sources/vol-274-chengwei-saluomeng-1013268300/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/georgesalomon/"
+    },
     "GeorgeStephenson": {
       "episode_count": 1,
       "show_count": 1,
@@ -86859,6 +86905,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/goldenstool/"
     },
+    "GoldenTrailWorldSeries": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.274 成为萨洛蒙 [1013268300].md",
+          "key": "vol-274-chengwei-saluomeng-1013268300",
+          "show": "商业就是这样",
+          "title": "Vol.274 成为萨洛蒙",
+          "url": "/wiki/sources/vol-274-chengwei-saluomeng-1013268300/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/goldentrailworldseries/"
+    },
     "GoneWithTheWind": {
       "episode_count": 1,
       "show_count": 1,
@@ -88287,6 +88349,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/gratitudenarrativepractice/"
+    },
+    "GravelRunning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.274 成为萨洛蒙 [1013268300].md",
+          "key": "vol-274-chengwei-saluomeng-1013268300",
+          "show": "商业就是这样",
+          "title": "Vol.274 成为萨洛蒙",
+          "url": "/wiki/sources/vol-274-chengwei-saluomeng-1013268300/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/gravelrunning/"
     },
     "GrayMarketPeptides": {
       "episode_count": 3,
@@ -119101,6 +119179,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/kievanrus/"
+    },
+    "KilianJornet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.274 成为萨洛蒙 [1013268300].md",
+          "key": "vol-274-chengwei-saluomeng-1013268300",
+          "show": "商业就是这样",
+          "title": "Vol.274 成为萨洛蒙",
+          "url": "/wiki/sources/vol-274-chengwei-saluomeng-1013268300/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/kilianjornet/"
     },
     "KimKardashian": {
       "episode_count": 1,
@@ -151468,6 +151562,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/nicheoriginstoryexpansion/"
+    },
+    "NicheSportEcosystemBuilding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.274 成为萨洛蒙 [1013268300].md",
+          "key": "vol-274-chengwei-saluomeng-1013268300",
+          "show": "商业就是这样",
+          "title": "Vol.274 成为萨洛蒙",
+          "url": "/wiki/sources/vol-274-chengwei-saluomeng-1013268300/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/nichesportecosystembuilding/"
     },
     "NicholasCulpeper": {
       "episode_count": 1,
@@ -184720,6 +184830,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/sallyhemings/"
     },
+    "Salomon": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？ [1006742982].md",
+          "key": "vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982",
+          "show": "声动早咖啡",
+          "title": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？",
+          "url": "/wiki/sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982/"
+        },
+        {
+          "episode_file": "Vol.274 成为萨洛蒙 [1013268300].md",
+          "key": "vol-274-chengwei-saluomeng-1013268300",
+          "show": "商业就是这样",
+          "title": "Vol.274 成为萨洛蒙",
+          "url": "/wiki/sources/vol-274-chengwei-saluomeng-1013268300/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/salomon/"
+    },
     "SaltAndIronConference": {
       "episode_count": 3,
       "show_count": 1,
@@ -197404,9 +197537,9 @@
       "url": "/wiki/concepts/sportswearinventorycycle/"
     },
     "SportswearMultiBrandPortfolio": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lswTPlOVdBo4Pl52YOXu6rgZyAL2 [lswTPlOVdBo4Pl52YOXu6rgZyAL2].md",
@@ -197414,9 +197547,16 @@
           "show": "忽左忽右",
           "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
           "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
+        },
+        {
+          "episode_file": "Vol.274 成为萨洛蒙 [1013268300].md",
+          "key": "vol-274-chengwei-saluomeng-1013268300",
+          "show": "商业就是这样",
+          "title": "Vol.274 成为萨洛蒙",
+          "url": "/wiki/sources/vol-274-chengwei-saluomeng-1013268300/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/sportswearmultibrandportfolio/"
     },
     "Sportwashing": {
@@ -205366,6 +205506,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/technicalleadershipfortechnologycompanies/"
+    },
+    "TechnicalProductLifestyleTranslation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.274 成为萨洛蒙 [1013268300].md",
+          "key": "vol-274-chengwei-saluomeng-1013268300",
+          "show": "商业就是这样",
+          "title": "Vol.274 成为萨洛蒙",
+          "url": "/wiki/sources/vol-274-chengwei-saluomeng-1013268300/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/technicalproductlifestyletranslation/"
     },
     "TechnologicalDisasterAsInstitutionalFailure": {
       "episode_count": 3,

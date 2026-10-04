@@ -5,8 +5,9 @@ tags: [footwear, consumer-brands, fashion, sports]
 sources:
   - vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982
   - kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166
+  - vol-274-chengwei-saluomeng-1013268300
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-04
+last_updated: 2026-10-04
 ---
 
 # Comfort-Led Footwear Demand
@@ -21,6 +22,8 @@ The concept began in the wiki as a pressure point against classic flat canvas sh
 
 The ballet-footwear episode adds a refinement layer. Comfort now has to coexist with delicacy, polish, and occasion flexibility: brands can keep rubber soles and soft everyday wearability while changing uppers, straps, bows, colors, or materials so the same shoe feels more acceptable at work, school, commuting, or casual social settings.
 
+The Salomon history adds a technical-translation layer. Comfort and function can become fashionable when the product's quick lacing, fit, support, outsole, grids, colors, and reflective details already form a recognizable design language. Everyday adoption can therefore come from adapting specialist structure rather than hiding it.
+
 ## Key Claims
 
 - Consumers increasingly ask casual shoes to provide comfort, function, and styling range together.
@@ -29,6 +32,7 @@ The ballet-footwear episode adds a refinement layer. Comfort now has to coexist 
 - Comfort demand exposes the [[VulcanizedSoleTradeoff]] in classic flat canvas shoes.
 - The newer ballet-footwear layer shows that comfort is not enough by itself; consumers also want more refined silhouettes and occasion flexibility.
 - Hybrid products such as [[BalletSneakerHybrid]] preserve everyday soles while making the upper read softer or more polished.
+- Technical outdoor products can gain daily appeal when functional structure also supplies distinctive visual identity.
 
 ## Evidence
 
@@ -36,6 +40,7 @@ The ballet-footwear episode adds a refinement layer. Comfort now has to coexist 
 - **Comfort as style:** [[vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982]] groups [[Birkenstock]], [[Crocs]], [[HOKA]], and [[Salomon]] as products whose comfort or function becomes socially wearable.
 - **Occasion expansion:** [[kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166]] cites consumer interest in multi-occasion athleisure and everyday use of running shoes beyond sport.
 - **Refined comfort:** [[kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166]] argues that ballet-sneaker and hybrid footwear keep comfort while making shoes look more delicate or polished.
+- **Technical translation:** [[vol-274-chengwei-saluomeng-1013268300]] traces Salomon's urban-fashion appeal to adapted outdoor forms, quick lacing, support structures, reflective details, and collaborations.
 
 ## Counterevidence & Qualifications
 
@@ -43,11 +48,13 @@ The ballet-footwear episode adds a refinement layer. Comfort now has to coexist 
 - The sources are strongest on category interpretation and consumer behavior; they do not quantify every brand's comfort-led sales contribution.
 - Ballet-coded refinement may help comfort shoes enter more settings, but it can also become a short-lived aesthetic trend.
 - Comfort claims can be subjective; the wiki treats reported comfort perceptions as consumer-demand evidence rather than biomechanical proof.
+- Salomon's case is brand-supported and does not isolate comfort from fashion cycles, celebrity exposure, store expansion, or outdoor-sport growth.
 
 ## What Changed
 
 - Migrated Comfort-Led Footwear Demand into the synthesis-first concept schema.
 - Added refined and multi-occasion comfort as a second layer beyond the prior canvas-shoe comfort contrast.
+- Added technical product structure as a third path by which comfort and function become lifestyle design.
 
 ## Related Concepts
 
@@ -57,3 +64,4 @@ The ballet-footwear episode adds a refinement layer. Comfort now has to coexist 
 - [[PerformanceFootwearMarket]] - broader footwear market where technical, comfort, and lifestyle demands overlap.
 - [[ClassicCanvasShoeDecline]] - negative heritage-shoe case exposed by comfort-led demand.
 - [[VulcanizedSoleTradeoff]] - product-structure problem that makes flat canvas shoes less comfortable.
+- [[TechnicalProductLifestyleTranslation]] - explains how visible specialist function can become everyday aesthetic value.

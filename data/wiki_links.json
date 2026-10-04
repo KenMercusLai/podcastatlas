@@ -33627,6 +33627,10 @@
     "title": "George S. Patton",
     "url": "/wiki/entities/georgespatton/"
   },
+  "GeorgeSalomon": {
+    "title": "George Salomon",
+    "url": "/wiki/entities/georgesalomon/"
+  },
   "GeorgeShultz": {
     "title": "George Shultz",
     "url": "/wiki/entities/georgeshultz/"
@@ -34178,6 +34182,10 @@
   "GoldenStool": {
     "title": "Golden Stool",
     "url": "/wiki/entities/goldenstool/"
+  },
+  "GoldenTrailWorldSeries": {
+    "title": "Golden Trail World Series",
+    "url": "/wiki/entities/goldentrailworldseries/"
   },
   "GoldmanSachs": {
     "title": "Goldman Sachs",
@@ -34758,6 +34766,10 @@
   "GraveOfTheFireflies": {
     "title": "《萤火虫之墓》 / Grave of the Fireflies",
     "url": "/wiki/entities/graveofthefireflies/"
+  },
+  "GravelRunning": {
+    "title": "Gravel Running / 路野跑",
+    "url": "/wiki/concepts/gravelrunning/"
   },
   "Gravity1Rocket": {
     "title": "Gravity-1 Rocket / 引力一号",
@@ -45470,6 +45482,10 @@
   "Kiko": {
     "title": "Kiko",
     "url": "/wiki/entities/kiko/"
+  },
+  "KilianJornet": {
+    "title": "Kilian Jornet",
+    "url": "/wiki/entities/kilianjornet/"
   },
   "KimEris": {
     "title": "Kim Eris",
@@ -57226,6 +57242,10 @@
   "NicheOriginStoryRepositioning": {
     "title": "Niche Origin Story Repositioning",
     "url": "/wiki/concepts/nicheoriginstoryrepositioning/"
+  },
+  "NicheSportEcosystemBuilding": {
+    "title": "Niche Sport Ecosystem Building / 小众运动生态建设",
+    "url": "/wiki/concepts/nichesportecosystembuilding/"
   },
   "NicholasCulpeper": {
     "title": "Nicholas Culpeper",
@@ -77863,6 +77883,10 @@
     "title": "Technical Leadership For Technology Companies",
     "url": "/wiki/concepts/technicalleadershipfortechnologycompanies/"
   },
+  "TechnicalProductLifestyleTranslation": {
+    "title": "Technical Product Lifestyle Translation / 专业产品生活方式转译",
+    "url": "/wiki/concepts/technicalproductlifestyletranslation/"
+  },
   "TechnicalResistanceFromWithin": {
     "title": "Technical Resistance From Within / 体制内技术抵抗",
     "url": "/wiki/concepts/technicalresistancefromwithin/"
@@ -97302,6 +97326,10 @@
   "vol-273-yingweida-ze-jianji-tianxia-1010956114": {
     "title": "Vol.273 英伟达则兼济天下？",
     "url": "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
+  },
+  "vol-274-chengwei-saluomeng-1013268300": {
+    "title": "Vol.274 成为萨洛蒙",
+    "url": "/wiki/sources/vol-274-chengwei-saluomeng-1013268300/"
   },
   "vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861": {
     "title": "Vol.275 澳洲保健品是怎么火起来的？",

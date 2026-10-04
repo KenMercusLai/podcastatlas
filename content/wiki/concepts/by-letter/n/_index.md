@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9631
+wiki_total_pages: 9634
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "NicheOriginStoryRepositioning"
     title: "Niche Origin Story Repositioning"
     url: "/wiki/concepts/nicheoriginstoryrepositioning/"
+  - key: "NicheSportEcosystemBuilding"
+    title: "Niche Sport Ecosystem Building / 小众运动生态建设"
+    url: "/wiki/concepts/nichesportecosystembuilding/"
   - key: "NicotineNeurobiologyAndDependence"
     title: "Nicotine Neurobiology and Dependence"
     url: "/wiki/concepts/nicotineneurobiologyanddependence/"

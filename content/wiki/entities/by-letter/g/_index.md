@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12288
+wiki_total_pages: 12291
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -362,6 +362,9 @@ wiki_pages:
   - key: "GeorgeSPatton"
     title: "George S. Patton"
     url: "/wiki/entities/georgespatton/"
+  - key: "GeorgeSalomon"
+    title: "George Salomon"
+    url: "/wiki/entities/georgesalomon/"
   - key: "GeorgeShultz"
     title: "George Shultz"
     url: "/wiki/entities/georgeshultz/"
@@ -647,6 +650,9 @@ wiki_pages:
   - key: "GoldenStool"
     title: "Golden Stool"
     url: "/wiki/entities/goldenstool/"
+  - key: "GoldenTrailWorldSeries"
+    title: "Golden Trail World Series"
+    url: "/wiki/entities/goldentrailworldseries/"
   - key: "GoldmanSachs"
     title: "Goldman Sachs"
     url: "/wiki/entities/goldmansachs/"
