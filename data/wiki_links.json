@@ -1307,6 +1307,10 @@
     "title": "1A",
     "url": "/wiki/entities/1a/"
   },
+  "2-civil-war-glt5809911007": {
+    "title": "2. Civil War",
+    "url": "/wiki/sources/2-civil-war-glt5809911007/"
+  },
   "20-china-glt4329327216": {
     "title": "20. China",
     "url": "/wiki/sources/20-china-glt4329327216/"
@@ -18198,6 +18202,10 @@
   "CivilWarDemocraticUnionism": {
     "title": "Civil War Democratic Unionism",
     "url": "/wiki/concepts/civilwardemocraticunionism/"
+  },
+  "CivilWarEscalationConditions": {
+    "title": "Civil War Escalation Conditions",
+    "url": "/wiki/concepts/civilwarescalationconditions/"
   },
   "CivilWarIndustrialTransition": {
     "title": "Civil War Industrial Transition",
@@ -72907,6 +72915,10 @@
     "title": "Slightly Harder Choice",
     "url": "/wiki/concepts/slightlyharderchoice/"
   },
+  "SlobodanMilosevic": {
+    "title": "Slobodan Milošević",
+    "url": "/wiki/entities/slobodanmilosevic/"
+  },
   "SlockAI": {
     "title": "Slock.ai / Slock AI",
     "url": "/wiki/entities/slockai/"
@@ -88590,6 +88602,10 @@
   "YufuluoChanyu": {
     "title": "于扶罗 / Yufuluo Chanyu",
     "url": "/wiki/entities/yufuluochanyu/"
+  },
+  "Yugoslavia": {
+    "title": "Yugoslavia",
+    "url": "/wiki/entities/yugoslavia/"
   },
   "Yuhao": {
     "title": "Yuhao / 宇豪",

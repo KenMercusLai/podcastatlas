@@ -2230,6 +2230,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "2-civil-war-glt5809911007": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "20-china-glt4329327216": [
     {
       "key": "history",
@@ -22025,6 +22037,13 @@
     }
   ],
   "CivilWarDemocraticUnionism": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "CivilWarEscalationConditions": [
     {
       "key": "politics",
       "label": "Politics",
@@ -74927,6 +74946,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "SlobodanMilosevic": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SlowKundera": [

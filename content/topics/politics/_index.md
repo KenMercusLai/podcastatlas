@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3058
+topic_total_pages: 3061
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -718,6 +718,9 @@ topic_concepts:
   - key: "CivilWarDemocraticUnionism"
     title: "Civil War Democratic Unionism"
     url: "/wiki/concepts/civilwardemocraticunionism/"
+  - key: "CivilWarEscalationConditions"
+    title: "Civil War Escalation Conditions"
+    url: "/wiki/concepts/civilwarescalationconditions/"
   - key: "CivilWarThreatRhetoric"
     title: "Civil-War Threat Rhetoric"
     url: "/wiki/concepts/civilwarthreatrhetoric/"
@@ -7118,6 +7121,9 @@ topic_entities:
   - key: "SirhanSirhan"
     title: "Sirhan Sirhan"
     url: "/wiki/entities/sirhansirhan/"
+  - key: "SlobodanMilosevic"
+    title: "Slobodan Milošević"
+    url: "/wiki/entities/slobodanmilosevic/"
   - key: "SocratesFootballer"
     title: "Socrates (Footballer)"
     url: "/wiki/entities/socratesfootballer/"
@@ -8124,6 +8130,9 @@ topic_sources:
   - key: "180-england-englishness-glt7388885434"
     title: "180. England & Englishness"
     url: "/wiki/sources/180-england-englishness-glt7388885434/"
+  - key: "2-civil-war-glt5809911007"
+    title: "2. Civil War"
+    url: "/wiki/sources/2-civil-war-glt5809911007/"
   - key: "2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4"
     title: "2026秋季篇E03 尊严死？！日本医生被判杀人事件"
     url: "/wiki/sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9587
+wiki_total_pages: 9588
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1100,6 +1100,9 @@ wiki_pages:
   - key: "CivilWarDemocraticUnionism"
     title: "Civil War Democratic Unionism"
     url: "/wiki/concepts/civilwardemocraticunionism/"
+  - key: "CivilWarEscalationConditions"
+    title: "Civil War Escalation Conditions"
+    url: "/wiki/concepts/civilwarescalationconditions/"
   - key: "CivilWarIndustrialTransition"
     title: "Civil War Industrial Transition"
     url: "/wiki/concepts/civilwarindustrialtransition/"

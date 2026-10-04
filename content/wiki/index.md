@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [2. Civil War](sources/2-civil-war-glt5809911007.md) — The Rest Is History on civil-war escalation through dehumanization, political delegitimization, armed capacity, catalytic leaders, and institutional failure.
 - [3. Is Trump Caesar or Nixon?](sources/3-is-trump-caesar-or-nixon-glt4982990068.md) — The Rest Is History on Trump's refusal to concede, Nixon's exit, Washington and Cincinnatus, Roman political analogy, populist performance, and the limits of its late-2020 forecast.
 - [4. We’re all so 17th Century](sources/4-were-all-so-17th-century-glt1251829896.md) — The Rest Is History on plague, civil war, print disruption, religious conflict, political ancestry, and the limits of comparing modern crises with the seventeenth century.
 - [5. 1981](sources/5-1981-glt3026558838.md) — The Rest Is History on 1981 Britain, recent-history method, Diana, Thatcher, music, cricket, personal memory, and popular culture as historical evidence.
@@ -15942,6 +15943,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [L-Cube Lifestyle](entities/LCubeLifestyle.md) — UV-protective apparel company proposed as a mechanical-sunscreen category.
 - [Chris McKleroy](entities/ChrisMcKleroy.md) — Nocs Provisions founder expanding optics beyond traditional outdoor occasions.
 - [Nocs Provisions](entities/NocsProvisions.md) — Colorful compact-optics brand weighing connected sharing against analog presence.
+- [Yugoslavia](entities/Yugoslavia.md) — Former European state used to examine modern collapse, inherited divisions, political mobilization, and the limits of ancient-hatred explanations.
+- [Slobodan Milošević](entities/SlobodanMilosevic.md) — Serbian and Yugoslav leader framed as a catalyst who mobilized existing grievances within a brittle state.
 
 - [Jason Cowley](entities/JasonCowley.md) — New Statesman editor and author interpreting modern English identity through paradox, place, politics, and football.
 - [Gareth Southgate](entities/GarethSouthgate.md) — England manager presented as joining inherited patriotic symbols to progressive and multiracial belonging.
@@ -25661,5 +25664,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nativity Narrative Synthesis](concepts/NativityNarrativeSynthesis.md) — Source-critical separation of Matthew and Luke's infancy stories from their later combined Christmas form.
 - [Modern Christmas Reinvention](concepts/ModernChristmasReinvention.md) — Nineteenth-century recombination of older worship, festivity, and charity into domestic, literary, royal, and commercial Christmas.
 - [Christmas Truce of 1914](concepts/ChristmasTruce1914.md) — Qualified account of localized First World War fraternization, football stories, continued fighting, and later Christmas memory.
+- [Civil War Escalation Conditions](concepts/CivilWarEscalationConditions.md) — Multicausal framework joining dehumanization, political illegitimacy, social strain, armed capacity, catalytic leadership, and institutional failure.
 
 ## Syntheses

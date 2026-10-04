@@ -39021,6 +39021,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/civilwardemocraticunionism/"
     },
+    "CivilWarEscalationConditions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5809911007 [GLT5809911007].md",
+          "key": "2-civil-war-glt5809911007",
+          "show": "The Rest Is History",
+          "title": "2. Civil War",
+          "url": "/wiki/sources/2-civil-war-glt5809911007/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/civilwarescalationconditions/"
+    },
     "CivilWarIndustrialTransition": {
       "episode_count": 1,
       "show_count": 1,
@@ -191707,6 +191723,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/slightlyharderchoice/"
     },
+    "SlobodanMilosevic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5809911007 [GLT5809911007].md",
+          "key": "2-civil-war-glt5809911007",
+          "show": "The Rest Is History",
+          "title": "2. Civil War",
+          "url": "/wiki/sources/2-civil-war-glt5809911007/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/slobodanmilosevic/"
+    },
     "SlowGatheringImprovisation": {
       "episode_count": 1,
       "show_count": 1,
@@ -231414,6 +231446,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/yuezhi/"
+    },
+    "Yugoslavia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5809911007 [GLT5809911007].md",
+          "key": "2-civil-war-glt5809911007",
+          "show": "The Rest Is History",
+          "title": "2. Civil War",
+          "url": "/wiki/sources/2-civil-war-glt5809911007/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/yugoslavia/"
     },
     "YumChina": {
       "episode_count": 5,

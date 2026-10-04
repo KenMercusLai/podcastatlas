@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2545
+topic_total_pages: 2546
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -5322,6 +5322,9 @@ topic_sources:
   - key: "199-stonehenge-glt3612348466"
     title: "199. Stonehenge"
     url: "/wiki/sources/199-stonehenge-glt3612348466/"
+  - key: "2-civil-war-glt5809911007"
+    title: "2. Civil War"
+    url: "/wiki/sources/2-civil-war-glt5809911007/"
   - key: "20-china-glt4329327216"
     title: "20. China"
     url: "/wiki/sources/20-china-glt4329327216/"

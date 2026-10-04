@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12261
+wiki_total_pages: 12263
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "YuewenGroup"
     title: "Yuewen Group / 阅文集团"
     url: "/wiki/entities/yuewengroup/"
+  - key: "Yugoslavia"
+    title: "Yugoslavia"
+    url: "/wiki/entities/yugoslavia/"
   - key: "Yuhao"
     title: "Yuhao / 宇豪"
     url: "/wiki/entities/yuhao/"

@@ -29171,3 +29171,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 2. Civil War
+
+Added source `2-civil-war-glt5809911007`; created [[CivilWarEscalationConditions]], [[Yugoslavia]], and [[SlobodanMilosevic]]. Core synthesis: civil war is not an automatic expression of ancient hostility or polarization but a contingent convergence of dehumanization, loss of opponent and procedural legitimacy, social strain, catalytic leadership, and organized capacity for violence; institutional safety valves and de-weaponized conflict can keep even severe political division below the threshold of war. No settled contradiction was adopted. The American poll and risk forecast, youth-trust and unemployment claims, Roman religious-boundary analogy, British historical-inoculation thesis, and precise causal weights remain episode-attributed or source-scoped. Recurring figures and existing case pages were linked without profile changes because the episode adds comparative synthesis rather than durable new biographical evidence. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,646-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
