@@ -29919,3 +29919,10 @@ Added source `zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-l
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-05] ingest | 《资治通鉴·汉纪》363｜汉武帝见到神仙之后的传说
+
+Added source `zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5`; created [[XuanfangPalace|宣房宫]] and [[TianFenWesternHan|田蚡]]; and resynthesized [[GongsunQingFangshi|公孙卿]], [[GuoChangWesternHan|郭昌]], [[YellowRiver|黄河]], and [[PrivateInterestDisasterNeglect|私利优先的灾害搁置]] from their complete preserved evidence inventories. Core synthesis: an unverifiable Donglai divine-encounter claim produces appointment, travel, waiting, and a larger fangshi search, whereas the Huzi branch converts delayed flood repair into mass labor, direct imperial supervision, diversion channels, and a commemorative palace. No settled contradiction was adopted. Divine speech, giant footprints, Tian Fen's full motive, labor totals, channel routes, Xuanfang Palace's hydraulic effect, and the reported eighty-plus-year flood outcome remain source-scoped. The large Han Wudi profile and automatic `wiki/overview.md` were read for context but not rewritten because the episode's durable additions are represented in narrower canonical pages.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

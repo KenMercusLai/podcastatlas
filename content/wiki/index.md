@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》363｜汉武帝见到神仙之后的传说](sources/zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5.md) — 公孙卿以东莱神人之说推动汉武帝东巡与扩大求仙；瓠子决口支线则把田蚡阻修、郭昌征工、群臣背薪、导河和宣房宫连成治水与政治动员。
 - [244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义](sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457.md) — 博物志从甲骨、金文、经学、宋版书与印刷技术讲到《永乐大典》和帝王实录，提出保存、复制、开放、解释并交给未来使用的知识长期主义。
 - [655. The Ku Klux Klan: Terror in the South (Part 2)](sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784.md) — The Rest Is History on first-Klan electoral terror, Black political and institutional targets, Grant-era federal enforcement, Reconstruction rollback, and Lost Cause afterlife.
 - [杨笠×罗永浩！不想成为“靶心”，也无意成为“灯塔”](sources/yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo.md) — 罗永浩与杨笠谈巡演与冷场、喜剧创作、公众争议、家庭悲痛、隐私边界和终身创作选择。
@@ -3804,6 +3805,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？](sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_.md) — 卜式借旱灾批评桑弘羊使官吏入市逐利，并串联异星祥瑞、齐王刘弘早逝与读史的现实意义。
 
 ## Entities
+- [宣房宫 / Xuanfang Palace](entities/XuanfangPalace.md) — 汉武帝时期建于瓠子决口修复地的宫室，在来源中兼具减缓水患的实用功能与展示治河能力的政治象征。
+- [田蚡 / Tian Fen (Western Han)](entities/TianFenWesternHan.md) — 在来源中因封地受益而劝阻及时修复瓠子决口、体现权臣私利影响公共治水优先级的西汉丞相。
 - [《永乐大典》 / Yongle Dadian](entities/YongleDadian.md) — Ming classified compilation whose immense hand-copied scale, rhyme-based indexing, narrow readership, duplication, dispersal, and textual afterlife expose both preservation ambition and fragility.
 - [Imperial Veritable Records / 帝王实录宝训](entities/ImperialVeritableRecords.md) — Official dynastic memory whose monumental custody preserves valuable evidence while requiring criticism of political editing and genre.
 - [Nathan Bedford Forrest](entities/NathanBedfordForrest.md) — Former Confederate general linked to first-Klan leadership whose Tennessee disbandment order did not control decentralized groups elsewhere.
@@ -3827,7 +3830,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yan Fu / 严复](entities/YanFu.md) — Modern Chinese translator whose rejected alternatives expose conceptual boundaries obscured by later standard terminology.
 - [杨信 / Yang Xin (Western Han envoy)](entities/YangXinWesternHan.md) — 坚持符节与汉使服制、改在帐外谈判并揭开太子入质承诺未成共识的西汉使者。
 - [路充国 / Lu Chongguo (Western Han envoy)](entities/LuChongguoWesternHan.md) — 佩二千石印绶护送匈奴贵人灵柩与厚币、却被单于扣留的西汉使者；讲稿“陆充国”据传世姓名归一为路充国。
-- [郭昌 / Guo Chang (Western Han general)](entities/GuoChangWesternHan.md) — 外交破裂与匈奴复扰边境后受任拔胡将军、与赵破奴屯守朔方以东的西汉将领。
+- [郭昌 / Guo Chang (Western Han general)](entities/GuoChangWesternHan.md) — 兼具朔方边防与瓠子决口大规模治河动员记录的西汉将领。
 - [王乌 / Wang Wu (Western Han envoy)](entities/WangWuWesternHan.md) — 熟悉匈奴礼俗并以礼仪让步反复取得入见机会，但太子入质与单于赴长安承诺均未兑现，显示文化通达不等于承诺可信；“王巫”据传世姓名归一为王乌。
 - [郭吉 / Guo Ji (Western Han envoy)](entities/GuoJiWesternHan.md) — 向匈奴传达决战或称臣二选一要求、遭单于扣押，并成为王乌柔化礼仪路径之对照的西汉使者。
 - [毋寡 / Wugua (Dayuan)](entities/WuguaDayuan.md) — 大宛国王，其后勤判断部分准确，但阻止汉朝报复的威慑判断失败，并在围城议和时被贵族杀死。
@@ -6012,7 +6015,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《七略》 / Qilue](entities/Qilue.md) — Western Han imperial bibliography whose seven-part classification organizes texts and frames the nine schools.
 - [Jia Rang (Western Han)](entities/JiaRangWesternHan.md) — Western Han proposer of upper, middle, and lower Yellow River flood-control policies.
 - [Qian Mu](entities/QianMu.md) — Historian invoked through a five-hundred-year tree story about long-horizon judgment.
-- [Yellow River](entities/YellowRiver.md) — Chinese civilizational river treated here as both mother river and recurring hydraulic-governance challenge.
+- [Yellow River](entities/YellowRiver.md) — Chinese civilizational river synthesized through floodplain risk, technical judgment, labor mobilization, Huzi repair, and recurring hydraulic-governance challenges.
 - [Italy](entities/Italy.md) — European state and cultural reference point spanning Roman and Christian authority, unification, wartime nationalism, British reception, and football.
 - [Gabriele D'Annunzio](entities/GabrieleDAnnunzio.md) — Poet-nationalist whose pro-war rhetoric and Fiume precedent connect Italian interventionism to later fascist style.
 - [Luigi Cadorna](entities/LuigiCadorna.md) — Italian commander whose frontal-attack doctrine shaped the early Isonzo disasters.
@@ -9045,7 +9048,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丰邑 / 丰县 / Feng County](entities/FengCounty.md) — Liu Bang-held place entrusted to Yong Chi and then lost when Yong Chi defects to Zhou Shi's restoration line.
 - [赵歇 / Zhao Xie](entities/ZhaoXie.md) — Old Zhao royal descendant installed by Zhang Er and Chen Yu after Wu Chen's death and Li Liang's defeat.
 - [景驹 / Jing Ju](entities/JingJu.md) — Provisional Chu claimant set up by Qin Jia and Ning Jun after Chen Sheng's collapse; transcript renders him as 景居.
-- [公孙卿 / Gongsun Qing (fangshi)](entities/GongsunQingFangshi.md) — Western Han fangshi whose tower advice informed Han Wudi's immortality construction and who is later named in the Taichu calendar project.
+- [公孙卿 / Gongsun Qing (fangshi)](entities/GongsunQingFangshi.md) — Western Han fangshi whose tower advice, Donglai divine-encounter report, drought interpretation, and calendar participation turn specialist claims into court action.
 - [公孙庆 / Gongsun Qing](entities/GongsunQing.md) — Qin Jia envoy killed by Tian Dan after a failed attempt to coordinate Jing Ju's Chu branch with Qi.
 - [英布 / 黥布 / Ying Bu](entities/YingBu.md) — Jiujiang king and former Chu vanguard whose trust fracture with Xiang Yu becomes open defection after Sui He's public commitment trap.
 - [吴芮 / Wu Rui](entities/WuRui.md) — Panyang magistrate and Lord Pan who marries his daughter to Ying Bu and directs him against Qin.
@@ -18578,7 +18581,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steppe Expedition Logistics](concepts/SteppeExpeditionLogistics.md) — campaign-capacity frame for food, fodder, climate, disease, transport animals, tempo, and terrain in large anti-Xiongnu expeditions.
 - [制度记忆隐匿保存 / Institutional Memory Concealment](concepts/InstitutionalMemoryConcealment.md) — Preservation tactic where texts, procedures, and ritual timing survive privately when public service would legitimize a ruptured order.
 - [名义爵位通胀 / Nominal Title Inflation](concepts/NominalTitleInflation.md) — Rank-system failure where titles and fiefs proliferate faster than land, revenue, duty, or administrative support.
-- [私利优先的灾害搁置 / Private-Interest Disaster Neglect](concepts/PrivateInterestDisasterNeglect.md) — Disaster-governance failure where public repair is delayed because displaced harm protects the ruler's private interest.
+- [私利优先的灾害搁置 / Private-Interest Disaster Neglect](concepts/PrivateInterestDisasterNeglect.md) — Disaster-governance failure where public repair is delayed because displaced harm protects a ruler's or powerful minister's private interest.
 - [Administrative Renaming Overreach / 行政改名过度](concepts/AdministrativeRenamingOverreach.md) — Xin-era governance failure where auspicious office and place renaming makes administration less legible.
 - [Ritual Capital Centrality / 礼制中心式都城合法性](concepts/RitualCapitalCentrality.md) — Capital-legitimacy pattern where a site gains authority through classical centrality, ritual geography, and inherited institutions.
 - [Gradual Parent-Child Relationship / 渐进式亲子关系](concepts/GradualParentChildRelationship.md) — Parenting frame where attachment, recognition, trust, and the child's entry into reality develop through repeated interaction and regulated pacing.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 12394
+wiki_total_pages: 12396
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "XiaFuLateHan"
     title: "夏馥 / Xia Fu (late Han)"
     url: "/wiki/entities/xiafulatehan/"
+  - key: "XuanfangPalace"
+    title: "宣房宫 / Xuanfang Palace"
+    url: "/wiki/entities/xuanfangpalace/"
   - key: "XunweiShunde"
     title: "寻味顺德"
     url: "/wiki/entities/xunweishunde/"

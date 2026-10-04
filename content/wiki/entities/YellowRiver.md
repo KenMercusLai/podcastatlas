@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj
   - zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z
   - zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu
+  - zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5
 last_updated: 2026-09-12
 ---
 
@@ -27,6 +28,8 @@ Hanji 567 frames the Yellow River through a dual identity: it nurtures Chinese c
 
 The episode uses [[JiaRangWesternHan|Jia Rang]] to turn the river into a governance test. If states build levees for local protection, risk can be pushed onto neighbors; if people return to fertile floodplain land whenever disaster pauses, later floods become more socially devastating. The upper strategy is therefore to stop fighting for every piece of floodplain and restore room for water.
 
+Hanji 363 adds an earlier Wudi-era repair case. The episode traces a Huzi breach from 132 BCE through an alleged delay shaped by [[TianFenWesternHan|田蚡]]'s fief interest, then describes a 109 BCE state mobilization under [[GuoChangWesternHan|郭昌]] and Ji Ren. Breach closure, court attendants carrying brushwood, two diversion channels, and [[XuanfangPalace|宣房宫]] make the river a test of both emergency labor capacity and the political symbolism attached to successful repair.
+
 ## Key Characteristics
 
 - The Yellow River is treated as both fertile civilizational resource and recurrent flood danger.
@@ -35,7 +38,7 @@ The episode uses [[JiaRangWesternHan|Jia Rang]] to turn the river into a governa
 - Earlier still, Heping-period repair shows flood control as a labor-mobilization and reward-allocation problem: named managers are rewarded while ordinary workers receive obligation offsets.
 - Floods leave productive silt, which encourages settlement near water and deepens later exposure.
 - Levees can narrow the river's space and intensify danger when states or communities compete for land.
-- The river's governance problem connects engineering, agriculture, migration, fiscal burden, and long-term political judgment.
+- The river's governance problem connects engineering, agriculture, migration, fiscal burden, long-term judgment, mass emergency mobilization, and commemorative construction.
 
 ## Evidence
 
@@ -47,14 +50,15 @@ The episode uses [[JiaRangWesternHan|Jia Rang]] to turn the river into a governa
 - Floodplain fertility: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] says floods also leave fertile silt that draws cultivation and settlement back near the river.
 - Levee competition: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] says Qi, Zhao, and Wei built levees at distances from the river, creating reciprocal flood pressure.
 - Narrowing river space: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] says old and new levees increasingly crowded the river channel.
+- Huzi repair and mobilization: [[zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5|Hanji 363]] says the court mobilizes tens of thousands, requires accompanying officials to carry brushwood, closes the breach, cuts channels, and builds Xuanfang Palace.
 
 ## Qualifications
 
-This page reflects four historical-podcast sources, not a complete hydrological or environmental history of the Yellow River. Hanji 514 supports an earlier repair-and-labor-offset case under Chengdi; Hanji 532 supports an observation-first non-repair case under Chengdi; Hanji 566 supports the technical-talent and lost-channel problem; and Hanji 567 supports the land-use and long-horizon policy synthesis. Specific geography, flood-return timing, old-channel identification, humanitarian cost, labor accounting, and later policy history remain source-scoped.
+This page reflects five historical-podcast sources, not a complete hydrological or environmental history of the Yellow River. Hanji 363 supports a Wudi-era Huzi repair and political-mobilization case; Hanji 514 supports a repair-and-labor-offset case under Chengdi; Hanji 532 supports an observation-first non-repair case under Chengdi; Hanji 566 supports the technical-talent and lost-channel problem; and Hanji 567 supports the land-use and long-horizon policy synthesis. Specific geography, flood-return timing, old-channel identification, humanitarian cost, labor accounting, diversion-channel effects, and later policy history remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 514's Pingyuan breach layer, making repair labor, manager reward, and corvee-offset accounting part of the Yellow River synthesis before the later non-repair and retreat-governance branches.
+- Added Hanji 363's Huzi breach closure, mass labor, diversion channels, and Xuanfang Palace as an earlier Wudi-era repair layer.
 
 ## Relationships
 
@@ -64,3 +68,4 @@ This page reflects four historical-podcast sources, not a complete hydrological 
 - [[FloodplainRetreatGovernance|洪泛区退让治理]] - upper-policy governance approach centered on giving the river room.
 - [[FloodControlRiskTransfer]] - levee competition can shift flood danger across communities and states.
 - [[BianquHydraulicGovernance]] - related state-capacity frame for later river and canal works.
+- [[XuanfangPalace|宣房宫]] - palace complex that the source joins to the repaired Huzi breach and its political memory.
