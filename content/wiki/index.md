@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》370-2｜爷爷把娇妻嫁给亲孙子，奶奶一夜变媳妇儿？](sources/zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp.md) — 刘细君在汉—乌孙—匈奴联姻竞争中被迫依乌孙继承习俗改嫁军须靡，显示联盟收益如何把语言隔阂、伦理冲突和婚姻选择成本转嫁给和亲公主。
 - [《资治通鉴·汉纪》372-2｜汉宛战争，你以为汉武帝让大舅子领兵那么单纯？](sources/zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh.md) — 汉武帝以大宛远征为李广利制造军功与封侯名义，司马光据此批评用程序外观包装私恩任将；王温舒之死与关东蝗灾补出酷吏和民生代价。
 - [《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！](sources/zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq.md) — 太初元年的明堂祭祀、求仙建宫、太初历改革与匈奴内应支线，展示礼制、历法、建筑和边疆事务如何并置；“上帝”双重词义及历法优先性保留为来源限定。
 - [656. The Ku Klux Klan: Birth of a Nation (Part 3)](sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135.md) — The Rest Is History on the second Klan's formation through Lost Cause media, fraternal ritual, commissioned recruitment, Protestant respectability, early political power, and vigilante violence.
@@ -3779,6 +3780,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [刘细君 / Princess Liu Xijun](entities/LiuXijunPrincessWesternHan.md) — Western Han princess whose objection to succession-linked remarriage in Wusun is overridden by Han's anti-Xiongnu strategy.
+- [猎骄靡 / Liejiaomi](entities/LiejiaomiWusun.md) — Elderly Wusun ruler who balances Han and Xiongnu brides and carries the Han alliance into his grandson's succession.
+- [军须靡 / Junxumi](entities/JunxumiWusun.md) — Wusun successor who marries Liu Xijun and later Princess Xieyou, linking two Han marriage missions.
 - [王温舒 / Wang Wenshu (Western Han)](entities/WangWenshuWesternHan.md) — 汉武帝时期以严酷立威、最终因贪诈指控自杀并牵出多户族灭的酷吏。
 - [Thomas Dixon Jr.](entities/ThomasDixonJr.md) — Lost Cause novelist whose racist Reconstruction fiction supplied the narrative and imagery behind The Birth of a Nation.
 - [D. W. Griffith](entities/DWGriffith.md) — Film director whose technical innovation in The Birth of a Nation amplified racist mythology and imagery later adopted by the second Klan.
@@ -5847,7 +5851,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张谭 / Zhang Tan (Western Han)](entities/ZhangTanWesternHan.md) — Yushi Dafu paired with Kuang Heng in Wang Zun's early-Chengdi impeachment after Shi Xian's fall.
 - [萧望之 / Xiao Wangzhi (Western Han)](entities/XiaoWangzhiWesternHan.md) — Han Yuandi's teacher and early anti-eunuch opponent whose anti-Zhongshu memorial, Zheng Peng misjudgment, and suicide show reputation-first political failure.
 - [Huhanye Chanyu (Western Han)](entities/HuhanyeChanyuWesternHan.md) — Western Han Xiongnu ruler whose profile now spans Hanji 460's submission-and-hostage decision, Hanji 493's border-defense withdrawal request, and Hanji 504's succession settlement.
-- [解忧公主 / Princess Xieyou](entities/XieyouPrincessWesternHan.md) — Western Han heqin princess whose Wusun marriage becomes a succession, coerced-remarriage, assassination, and siege crisis in Hanji 460.
+- [解忧公主 / Princess Xieyou](entities/XieyouPrincessWesternHan.md) — Western Han princess whose Junxumi and Wengguimi marriages support alliance continuity before the later Nimi succession, assassination, and siege crisis.
 - [狂王泥靡 / Nimi of Wusun](entities/NimiWusun.md) — Wusun ruler installed over Xieyou's son and wounded in the failed banquet assassination that triggers Chigu City's siege.
 - [侯胤 / Hou Yin (Western Han)](entities/HouYinWesternHan.md) — Western Han official whose ten-part objection to withdrawing frontier defenses links Xiongnu submission, future leverage, border governance, and accumulated strategic infrastructure.
 - [Fuzhulei Ruodi Chanyu](entities/FuzhuleiRuodiChanyu.md) — Xiongnu successor Diaotao Mogao, chosen by Huhanye and later married to Wang Zhaojun in Hanji 504.
@@ -12415,7 +12419,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何武 / He Wu (Western Han)](entities/HeWuWesternHan.md) — Western Han official whose profile now spans the断剑 inheritance judgment, Aidi-era removal, Wang Jia-backed restoration, and failed anti-outer-relative recommendation.
 - [公孙禄 / Gongsun Lu (Western Han)](entities/GongsunLuWesternHan.md) — Western Han left general who first objects to deceptive Xiongnu escalation and later joins He Wu's post-Aidi office-balancing attempt.
 - [息夫躬 / Xi Fu Gong (Western Han)](entities/XiFuGongWesternHan.md) — Late-Aidi adviser rewarded in the Dongping case, later feared as an accuser, whose false-envoy and punitive-border proposal turns a chanyu illness delay into a crisis narrative.
-- [乌孙 / Wusun](entities/Wusun.md) — Western Regions polity used in Hanji 591-1 as the vulnerable hinge in Xi Fu Gong's Xiongnu threat model.
+- [乌孙 / Wusun](entities/Wusun.md) — Western Regions polity whose Han-Xiongnu marriage balancing, succession customs, cavalry alliances, and split-kunmi order repeatedly require outside mediation.
 - [丁姬 / Ding Ji (Western Han)](entities/DingJiWesternHan.md) — Han Aidi's birth mother whose access is blocked before later Dingtao burial and Wang Mang's 5 CE tomb-demotion campaign.
 - [董宏 / Dong Hong (Western Han)](entities/DongHongWesternHan.md) — Western Han Gaochang Hou whose Qin-precedent proposal for Fu Taihou's title triggers Wang Mang and Shi Dan's early ritual-order resistance.
 - [施丹 / Shi Dan (Western Han)](entities/ShiDanWesternHan.md) — Western Han elder official whose profile spans early Aidi restraint advice, Dingtao-line ritual opposition, leak exposure, punishment, and later retrospective restoration.
@@ -19256,7 +19260,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [边郡恢复治理 / Frontier Commandery Restoration](concepts/FrontierCommanderyRestoration.md) — Strategy of restoring abandoned frontier commanderies when recognition, protection, return migration, wall repair, grain support, geography, logistics, settlement, and defense make abandonment more dangerous than repair.
 - [边疆资源整合治理 / Frontier Resource Integration](concepts/FrontierResourceIntegration.md) — Frontier-governance strategy tying surrender, residence pressure, land, infrastructure, local resources, migration, tuntian, and administrative restoration into state control.
 - [公主婚姻权力失衡 / Princess Marriage Power Asymmetry](concepts/PrincessMarriagePowerAsymmetry.md) — Royal-marriage pattern where princess rank and court proximity turn private conflict into asymmetric household and punishment risk.
-- [Heqin Princess Succession Entrapment / 和亲公主继承困局](concepts/HeqinPrincessSuccessionEntrapment.md) — Frontier-marriage pattern where succession change can trap an embedded heqin princess, with Liu Xiangfu's recall as a prevention contrast.
+- [Heqin Princess Succession Entrapment / 和亲公主继承困局](concepts/HeqinPrincessSuccessionEntrapment.md) — Frontier-marriage pattern where local succession and sending-court strategy can trap an embedded princess, with Liu Xiangfu's recall as a prevention contrast.
 - [屯田贴近引发安全困境 / Tuntian Proximity Security Dilemma](concepts/TuntianProximitySecurityDilemma.md) — Frontier pattern where military-agricultural settlement placed too close to neighboring groups creates fear and defensive alliance behavior.
 - [王国相整肃 / Royal Fief Discipline](concepts/RoyalFiefDiscipline.md) — Governance pattern where a kingdom minister forces a royal fief back under public law, ritual hierarchy, and administrative order.
 - [Agentic System-of-Record Moat](concepts/AgenticSystemOfRecordMoat.md) — AI-era enterprise software defense where agents need trusted context, permissions, workflows, and auditable state from systems of record.

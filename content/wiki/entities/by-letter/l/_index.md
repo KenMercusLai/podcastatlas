@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12361
+wiki_total_pages: 12364
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1436,6 +1436,9 @@ wiki_pages:
   - key: "LiuNaLateHan"
     title: "刘纳 / Liu Na (late Han)"
     url: "/wiki/entities/liunalatehan/"
+  - key: "LiuXijunPrincessWesternHan"
+    title: "刘细君 / Princess Liu Xijun"
+    url: "/wiki/entities/liuxijunprincesswesternhan/"
   - key: "LiuXuAnpingPrince"
     title: "刘续 / Liu Xu (Anping Wang)"
     url: "/wiki/entities/liuxuanpingprince/"
@@ -2210,6 +2213,9 @@ wiki_pages:
   - key: "LiuDanYanKingWesternHan"
     title: "燕王刘旦 / Liu Dan, Yan King (Western Han)"
     url: "/wiki/entities/liudanyankingwesternhan/"
+  - key: "LiejiaomiWusun"
+    title: "猎骄靡 / Liejiaomi"
+    url: "/wiki/entities/liejiaomiwusun/"
   - key: "LinglingMyFirstHalfLife"
     title: "玲玲 / Lingling (《我的前半生》)"
     url: "/wiki/entities/linglingmyfirsthalflife/"

@@ -29717,3 +29717,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》370-2｜爷爷把娇妻嫁给亲孙子，奶奶一夜变媳妇儿？
+
+Added source `zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp`; created [[LiuXijunPrincessWesternHan|刘细君]], [[LiejiaomiWusun|猎骄靡]], and [[JunxumiWusun|军须靡]]; and resynthesized [[Wusun|乌孙]], [[XieyouPrincessWesternHan|解忧公主]], and [[HeqinPrincessSuccessionEntrapment|和亲公主继承困局]] from their complete preserved evidence inventories. Core synthesis: Wusun's dual Han-Xiongnu marriage ties work as geopolitical balancing, while Han Wudi's order that Xijun follow local custom transfers alliance continuity costs onto a princess who explicitly objects; Junxumi links the Xijun and Xieyou missions across the succession. The episode's 87 BCE death date and age forty-four for Xijun conflict with its own chronological placement and were not adopted. “列郊弥” and “君须弥” were normalized to 猎骄靡 and 军须靡. The automatic `wiki/overview.md` was read for context and not manually rewritten. The downstream manifest and paragraph ledger were refreshed to 3,715-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

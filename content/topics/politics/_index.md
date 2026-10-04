@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3082
+topic_total_pages: 3083
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7904,6 +7904,9 @@ topic_entities:
   - key: "NiuLiPartyStruggle"
     title: "牛李党争 / Niu-Li Party Struggle"
     url: "/wiki/entities/niulipartystruggle/"
+  - key: "LiejiaomiWusun"
+    title: "猎骄靡 / Liejiaomi"
+    url: "/wiki/entities/liejiaomiwusun/"
   - key: "WangPingWesternHan"
     title: "王平 / Wang Ping (Western Han)"
     url: "/wiki/entities/wangpingwesternhan/"

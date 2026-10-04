@@ -12,14 +12,17 @@ sources:
   - zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r
   - zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q
   - zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p
-last_updated: 2026-09-13
+  - zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp
+last_updated: 2026-10-05
 ---
 
 ## Overview
 
-乌孙 / Wusun is now synthesized as a [[WesternRegionsProtectorate|Western Regions]] polity whose alliance value against [[Xiongnu|匈奴]] is repeatedly complicated by court rivalry, marriage diplomacy, and succession rules. [[zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p|Hanji 413-1]] adds the early Xieyou-Wengguimi layer, where Wusun's Han marriage connection produces both aid-channel value and Xiongnu resentment. [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|Hanji 444]] adds the later aborted [[LiuXiangfuPrincessWesternHan|刘相夫]] mission, where Han recalls a princess from Dunhuang after Wengguimi's death changes the intended marriage target. [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]] then adds the [[XieyouPrincessWesternHan|解忧公主]] and [[NimiWusun|狂王泥靡]] crisis, where heqin marriage, succession exclusion, local remarriage custom, assassination, and siege converge. [[zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq|Hanji 461]] adds the resolution layer: [[ZhengJiWesternHan|郑吉]] relieves the siege, Wujiutu kills Nimi, and [[FengLiaoWesternHan|冯嫽]] helps turn Han military pressure into a large-kunmi/small-kunmi settlement. [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] adds the follow-up: Xieyou returns to Han in old age, while Feng Liao returns to Wusun to help the young Xingmi suppress rebellion and preserve friendly relations. [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] later makes Wusun the direct crisis field for [[DuanHuizongWesternHan|段会宗]]'s punitive mission, while [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|Hanji 591-1]] shows Wusun weakness being used inside a Han court threat model.
+乌孙 / Wusun is now synthesized as a [[WesternRegionsProtectorate|Western Regions]] polity whose alliance value against [[Xiongnu|匈奴]] is repeatedly complicated by court rivalry, marriage diplomacy, and succession rules. [[zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp|Hanji 370-2]] adds the earliest current marriage layer: [[LiejiaomiWusun|猎骄靡]] balances Han and Xiongnu brides, then carries [[LiuXijunPrincessWesternHan|刘细君]] into the succession by directing her to [[JunxumiWusun|军须靡]]. [[zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p|Hanji 413-1]] adds the later Xieyou-Wengguimi alliance layer, while Hanji 444, 460, 461, and 463 follow another planned marriage, coercive remarriage crisis, split-kunmi settlement, and Xieyou's return. [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] later makes Wusun the direct crisis field for [[DuanHuizongWesternHan|段会宗]]'s punitive mission, while [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|Hanji 591-1]] shows Wusun weakness being used inside a Han court threat model.
 
 ## Current Profile
+
+Hanji 370-2 supplies the earliest current Wusun marriage-and-succession layer. Liejiaomi receives Xijun from Han and a second princess from Xiongnu, ranking them as right and left wives while preserving ties to both powers. His age, separate residence, and language difference leave Xijun personally isolated even while her presence serves Wusun diplomacy. Liejiaomi then asks her to marry his grandson and successor Junxumi. Han Wudi's order that she follow Wusun custom makes local succession practice enforceable through Han's own anti-Xiongnu strategy. Junxumi later succeeds, has a daughter with Xijun, and receives Xieyou after Xijun's death.
 
 Hanji 413-1 and Hanji 414 together add an earlier alliance layer to the Wusun profile. In Hanji 413-1, Xieyou's favored position with Wengguimi pulls Wusun toward Han and away from Xiongnu, while a neglected Xiongnu princess's complaints help explain why Xiongnu pressure rises against Wusun. In 72/71 BCE, Wusun cavalry coordinated with [[ChangHuiWesternHan|常惠]] from the west while Han armies pressured Xiongnu from the east and center. Hanji 414 says the Wusun-Chang Hui strike against the Xiongnu right-side royal court captures important people and large herds, and the later Xiongnu revenge attack against Wusun collapses after snow, Wuhuan and Wusun attacks, and Western Regions defections. This makes Wusun visible not only as a later heqin and succession-management polity, but also as a force that can help convert Xiongnu vulnerability into regional realignment.
 
@@ -39,16 +42,19 @@ Hanji 591-1 adds a later indirect layer. [[XiFuGongWesternHan|息夫躬]] claims
 
 ## Key Characteristics
 
-- Western Regions polity whose Han marriage alliance and cavalry can strengthen anti-Xiongnu cooperation while also provoking counterpressure.
+- Western Regions polity whose Han marriage alliance, court-wife hierarchy, and cavalry can both balance rival powers and strengthen anti-Xiongnu cooperation.
 - Succession instability can cancel a planned Han marriage before completion.
-- Internal succession custom can override the Han princess line, as Xieyou's son Yuanguimi does not inherit after Wengguimi.
-- Heqin marriage can become local remarriage exposure when a ruler dies and Wusun custom assigns the princess to a new ruler.
+- Internal succession custom can redirect Han princesses across generations and override a Han-preferred heir line.
+- Heqin marriage can become local remarriage exposure when a ruler dies or prepares succession and Wusun custom assigns the princess to a new ruler.
 - Han pressure and trusted mediation can convert succession war risk into a formal split-kunmi settlement, though the division remains unstable.
 - Trusted frontier intermediaries can remain useful after heqin crisis, as Feng Liao's missions stabilize both Wujiutu's submission and Xingmi's later rule.
 - Repeatedly requires Han mediation, installation, and punishment when internal balance breaks, and later becomes part of a Xiongnu threat model in Xi Fu Gong's plan.
 
 ## Evidence
 
+- Earliest dual-marriage balance: [[zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp|Hanji 370-2]] says Liejiaomi makes Xijun right wife and a Xiongnu princess left wife.
+- Earliest succession remarriage: [[zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp|Hanji 370-2]] says Xijun objects to marrying Junxumi but Han orders her to follow Wusun custom for the anti-Xiongnu alliance.
+- Xijun-to-Xieyou continuity: [[zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp|Hanji 370-2]] says Xijun has Shaofu with Junxumi and Xieyou is sent to him after Xijun's death.
 - Early Xieyou alliance: [[zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p|Hanji 413-1]] says Xieyou's marriage to Wengguimi improves Han-Wusun relations.
 - Court rivalry and Xiongnu pressure: [[zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p|Hanji 413-1]] says a neglected Xiongnu princess complains to Xiongnu after Wengguimi favors Xieyou.
 - Aid channel and Chang Hui mission: [[zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p|Hanji 413-1]] says Wengguimi has Xieyou write to Han for aid and Xuan sends Chang Hui to Wusun.
@@ -71,19 +77,22 @@ Hanji 591-1 adds a later indirect layer. [[XiFuGongWesternHan|息夫躬]] claims
 
 ## Qualifications
 
-This page still does not cover Wusun's full history, geography, or complete Han-Wusun relationship. Hanji 413-1 and Hanji 414 ground the Xieyou-Wengguimi aid channel and Wusun-Chang Hui anti-Xiongnu strike, but do not settle Chang Hui's full biography, the exact battle geography, the Wusun command structure, or the casualty and livestock figures beyond the source's retelling. Hanji 444 grounds the Liu Xiangfu recall but does not settle her full genealogy, formal princess title, Chang Hui's complete mission, or Wengguimi and Yuanguimi's full succession background. Hanji 460 grounds the Xieyou-Nimi crisis but does not settle Xieyou's full biography, exact age, Wusun genealogy, or Han authorization for the assassination plot. Hanji 461 grounds the settlement but does not settle the full household division, all envoy punishments, or the later balance between Yuanguimi and Wujiutu. Hanji 463 grounds Xieyou's return and Feng Liao's mission but does not settle Xingmi and Cili Mi's full reigns. Hanji 550 grounds the Yuanyan 2 Wusun succession and punishment sequence; Hanji 591-1 grounds the later Aidi-era threat-modeling use. Cilim, Anri, Wuriling, Beiyuanzhi, Yuanguimi, Wujiutu, Chigu City, Xingmi, Cili Mi, the unnamed Xiongnu princess, and the full Han princess-marriage context remain source-scoped.
+This page still does not cover Wusun's full history, geography, or complete Han-Wusun relationship. Hanji 370-2 grounds the Xijun-Liejiaomi-Junxumi marriage sequence but not Xijun's reliable death chronology, the unnamed Xiongnu princess's identity, the exact court-rank system, or the actors' private motives. Hanji 413-1 and Hanji 414 ground the Xieyou-Wengguimi aid channel and Wusun-Chang Hui anti-Xiongnu strike, but do not settle Chang Hui's full biography, the exact battle geography, the Wusun command structure, or the casualty and livestock figures beyond the source's retelling. Hanji 444 grounds the Liu Xiangfu recall but does not settle her full genealogy, formal princess title, Chang Hui's complete mission, or Wengguimi and Yuanguimi's full succession background. Hanji 460 grounds the Xieyou-Nimi crisis but does not settle Xieyou's full biography, exact age, Wusun genealogy, or Han authorization for the assassination plot. Hanji 461 grounds the settlement but does not settle the full household division, all envoy punishments, or the later balance between Yuanguimi and Wujiutu. Hanji 463 grounds Xieyou's return and Feng Liao's mission but does not settle Xingmi and Cili Mi's full reigns. Hanji 550 grounds the Yuanyan 2 Wusun succession and punishment sequence; Hanji 591-1 grounds the later Aidi-era threat-modeling use.
 
 ## What Changed
 
-- Added Hanji 413-1's Xieyou-Wengguimi layer before Hanji 414's allied strike, so Wusun now appears as a Han marriage ally, anti-Xiongnu military partner, and succession-risk heqin field.
-- Preserved Hanji 460's Xieyou-Nimi layer: heqin succession exclusion, coercive remarriage, failed assassination, and Chigu City siege.
-- Preserved Hanji 461's resolution layer: Chigu relief, Nimi's death, Feng Liao's mediation, and the origin of the large-kunmi/small-kunmi split.
+- Added Hanji 370-2's earlier Xijun layer: dual Han-Xiongnu marriage balancing, compelled succession remarriage, and the Junxumi bridge to Xieyou.
+- Preserved Hanji 413-1 and Hanji 414's later Xieyou-Wengguimi alliance and allied-strike layer.
+- Preserved Hanji 460-461's Xieyou-Nimi crisis and resolution: succession exclusion, coercive remarriage, failed assassination, Chigu relief, mediation, and the split-kunmi settlement.
 - Preserved Hanji 463's stabilizing sequel: Xieyou's return and Feng Liao's late-life mission to support Xingmi.
 - Preserved Hanji 550's direct Wusun crisis layer and Hanji 591-1's later indirect Wusun-Xiongnu threat-modeling branch.
 
 ## Relationships
 
 - [[Xiongnu|匈奴]] - steppe power whose possible Wusun leverage drives the episode's threat model.
+- [[LiejiaomiWusun|猎骄靡]] - Wusun ruler who balances Han and Xiongnu marriages and directs Xijun into the succession.
+- [[LiuXijunPrincessWesternHan|刘细君]] - first current Han princess case exposed to Wusun succession remarriage.
+- [[JunxumiWusun|军须靡]] - successor who marries Xijun and later Xieyou.
 - [[ChangHuiWesternHan|常惠]] - Han envoy-commander who coordinates the Wusun anti-Xiongnu strike and reports later succession risk.
 - [[LiuXiangfuPrincessWesternHan|刘相夫]] - recalled Han princess whose aborted mission shows Wusun succession risk before completed marriage.
 - [[XieyouPrincessWesternHan|解忧公主]] - Han princess whose Wusun marriage becomes a succession and assassination crisis.
