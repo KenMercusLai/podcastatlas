@@ -29957,3 +29957,11 @@ Added source `zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8p
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》359-1｜“愿得一心人，白头不相离”竟是写给渣男的？
+
+Added source `zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq`; created [[BaiTouYin|《白头吟》]]; and resynthesized [[ZhuoWenjun|卓文君]], [[SimaXiangru|司马相如]], and [[ZhuoWangsunWesternHan|卓王孙]] from their complete preserved evidence inventories. Core synthesis: the episode extends the elopement story through poverty, shared tavern work, family refusal and later support, then places 《白头吟》 inside a threatened-fidelity crisis rather than treating its famous line as a simple love declaration. No settled contradiction was adopted. Poem authorship and wording, the Maoling woman, tavern and property quantities, private motives, reconciliation, deathbed writings, and the host's “以退为进” interpretation remain source-scoped. The large Han Wudi profile and automatic `wiki/overview.md` were read for context but not rewritten because the durable additions are represented in narrower canonical pages. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,745 sources and retain 789 overview paragraphs. Changed-page links, index coverage, identities, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

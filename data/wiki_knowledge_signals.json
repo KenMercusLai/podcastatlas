@@ -20287,6 +20287,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/bagoas/"
     },
+    "BaiTouYin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》359-1｜“愿得一心人，白头不相离”竟是写给渣男的？ [lvCPCSpEAOLPosr3UI1P9agliafQ].md",
+          "key": "zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》359-1｜“愿得一心人，白头不相离”竟是写给渣男的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/baitouyin/"
+    },
     "Baidu": {
       "episode_count": 11,
       "show_count": 7,
@@ -196661,9 +196677,9 @@
       "url": "/wiki/entities/simaqian/"
     },
     "SimaXiangru": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生 [lq3O_13h2iN89qWH0dVcHCzLvRqk].md",
@@ -196678,6 +196694,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇",
           "url": "/wiki/sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》359-1｜“愿得一心人，白头不相离”竟是写给渣男的？ [lvCPCSpEAOLPosr3UI1P9agliafQ].md",
+          "key": "zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》359-1｜“愿得一心人，白头不相离”竟是写给渣男的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq/"
         }
       ],
       "updated": "2026-10-05",
@@ -245384,9 +245407,9 @@
       "url": "/wiki/entities/zhuomaoeasternhan/"
     },
     "ZhuoWangsunWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇 [lphRIp8PRODrc46X__Y6elbrKiGZ].md",
@@ -245394,15 +245417,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇",
           "url": "/wiki/sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》359-1｜“愿得一心人，白头不相离”竟是写给渣男的？ [lvCPCSpEAOLPosr3UI1P9agliafQ].md",
+          "key": "zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》359-1｜“愿得一心人，白头不相离”竟是写给渣男的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq/"
         }
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/zhuowangsunwesternhan/"
     },
     "ZhuoWenjun": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇 [lphRIp8PRODrc46X__Y6elbrKiGZ].md",
@@ -245410,6 +245440,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇",
           "url": "/wiki/sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》359-1｜“愿得一心人，白头不相离”竟是写给渣男的？ [lvCPCSpEAOLPosr3UI1P9agliafQ].md",
+          "key": "zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》359-1｜“愿得一心人，白头不相离”竟是写给渣男的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq/"
         }
       ],
       "updated": "2026-10-05",
