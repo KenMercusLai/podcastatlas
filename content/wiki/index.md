@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Hormones Shape Sexual Orientation & Behavior | Dr. Marc Breedlove](sources/how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139.md) — Huberman Lab interview on developmental correlates of sexual orientation, group-versus-individual inference, birth order, and the distinction between sexual motor patterns and partner preference.
 - [《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？](sources/zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi.md) — 李广利首征大宛在沿途断供、逐城取粮和郁成战败中提前耗尽；赵破奴接应匈奴内应失败后又因情报泄露、被围与主帅离营被俘而全军覆没。
 - [《资治通鉴·汉纪》372-3｜西汉皇帝都有哪些男朋友？](sources/zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt.md) — 籍孺与闳孺展示早期西汉宠幸如何阻隔或中介皇帝近身渠道、影响生死决定并扩散宫廷审美；现代性取向与创伤因果保留为来源推断。
 - [《资治通鉴·汉纪》372-4｜西汉皇帝多是双性恋的原因？](sources/zizhi-tongjian-hanji-372-4-xihan-huangdi-duo-shi-shuangxinglian-de-yuanyin-lqinxoxbu6dhvmdiiowocjaahkwr.md) — 邓通、韩嫣与李延年展示亲密宠幸如何转化为财富、官位和近身权力，又如何在继位或更强宫廷权威介入时迅速失效；现代性取向与遗传解释保留为未证实推断。
@@ -3775,6 +3776,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [Marc Breedlove](entities/MarcBreedlove.md) — Neuroscientist studying hormonal influences on brain development, sexual behavior, and orientation through population-level human and comparative-animal evidence.
 - [韩嫣 / Han Yan (Western Han)](entities/HanYanWesternHan.md) — 汉武帝幼年伙伴与亲近宠臣，其官位、赏赐、车驾僭越和被王太后处死展示宠幸权力及保护边界。
 - [李延年 / Li Yannian (Western Han)](entities/LiYannianWesternHan.md) — 以音乐、舞蹈、李夫人亲缘和近身宠幸由倡人家庭跃升为协律都尉的西汉宫廷艺人。
 - [小范 / Xiao Fan (这病说来话长)](entities/XiaoFanZheBing.md) — Partial-identity clinician guest connecting procedural learning, resuscitation planning, chronic review, and careful public education.
@@ -16179,6 +16181,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity whose siege resilience, elite regicide, threatened horse destruction, and negotiated settlement preserve autonomy under overwhelming Han pressure.
 
 ## Concepts
+- [Sexual Behavior–Partner Preference Distinction](concepts/SexualBehaviorPartnerPreferenceDistinction.md) — Boundary separating sexual motor patterns from libido, attraction, aversion, partner choice, and identity across human and animal evidence.
 - [Clinical Procedure Skill Acquisition / 临床操作技能习得](concepts/ClinicalProcedureSkillAcquisition.md) — Staged observation, mental sequencing, supervised participation, repeated performance, feedback, and safety in learning clinical procedures.
 - [Clinician Public Education Practice / 临床医生科普实践](concepts/ClinicianPublicEducationPractice.md) — Clinician preparation, lay translation, audience feedback, and the boundary between public education and individualized care.
 - [Terrain and Formation Force Multiplication / 地形阵型战力放大](concepts/TerrainFormationForceMultiplication.md) — 小部队以地形、阵型、武器协同、临时工事、角色分配与信息优势放大战力，同时受补给和情报暴露硬约束的战术模式。

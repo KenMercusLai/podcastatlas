@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1456
+topic_total_pages: 1458
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -2008,6 +2008,9 @@ topic_concepts:
   - key: "SerotoninSocialWellbeingTools"
     title: "Serotonin Social Wellbeing Tools"
     url: "/wiki/concepts/serotoninsocialwellbeingtools/"
+  - key: "SexualBehaviorPartnerPreferenceDistinction"
+    title: "Sexual Behavior–Partner Preference Distinction"
+    url: "/wiki/concepts/sexualbehaviorpartnerpreferencedistinction/"
   - key: "SexualExplorationAsSelfKnowledge"
     title: "Sexual Exploration As Self-Knowledge / 性探索作为自我认识"
     url: "/wiki/concepts/sexualexplorationasselfknowledge/"
@@ -3954,6 +3957,9 @@ topic_sources:
   - key: "how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002"
     title: "How Emotions & Social Factors Impact Learning | Dr. Immordino-Yang"
     url: "/wiki/sources/how-emotions-social-factors-impact-learning-dr-immordino-yang-scim3156934002/"
+  - key: "how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139"
+    title: "How Hormones Shape Sexual Orientation & Behavior | Dr. Marc Breedlove"
+    url: "/wiki/sources/how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139/"
   - key: "how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839"
     title: "How Humans Select & Keep Romantic Partners in Short & Long Term | Dr. David Buss"
     url: "/wiki/sources/how-humans-select-keep-romantic-partners-in-short-long-term-dr-david-buss-scim4159413839/"

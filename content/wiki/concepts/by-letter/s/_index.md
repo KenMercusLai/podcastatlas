@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9674
+wiki_total_pages: 9675
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "SexSteroidFeedbackRegulation"
     title: "Sex-Steroid Feedback Regulation"
     url: "/wiki/concepts/sexsteroidfeedbackregulation/"
+  - key: "SexualBehaviorPartnerPreferenceDistinction"
+    title: "Sexual Behavior–Partner Preference Distinction"
+    url: "/wiki/concepts/sexualbehaviorpartnerpreferencedistinction/"
   - key: "SexualDifferentiationPathway"
     title: "Sexual Differentiation Pathway"
     url: "/wiki/concepts/sexualdifferentiationpathway/"

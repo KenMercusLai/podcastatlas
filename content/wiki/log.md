@@ -29685,3 +29685,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | How Hormones Shape Sexual Orientation & Behavior | Dr. Marc Breedlove
+
+Added source `how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139`; created [[MarcBreedlove]] and [[SexualBehaviorPartnerPreferenceDistinction]]; resynthesized [[SexualOrientationDevelopmentalCorrelates]] from its complete preserved evidence inventory. Core synthesis: otoacoustic emissions, digit ratios, hypothalamic anatomy, developmental conditions, and older-brother birth order can inform multifactorial developmental hypotheses only at population level, while motor patterns, libido, attraction, aversion, partner preference, and identity remain distinct. No settled contradiction was adopted. The overlap with the earlier Huberman solo episode is convergent provenance rather than independent replication, and study-strength, mechanism, animal-model, sex-difference, adult-testosterone, play, and biographical claims remain source-scoped where primary methods are absent. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,711-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

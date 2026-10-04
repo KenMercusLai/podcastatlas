@@ -139260,6 +139260,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/marcbrackett/"
     },
+    "MarcBreedlove": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4059718139 [SCIM4059718139].md",
+          "key": "how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139",
+          "show": "Huberman Lab",
+          "title": "How Hormones Shape Sexual Orientation & Behavior | Dr. Marc Breedlove",
+          "url": "/wiki/sources/how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/marcbreedlove/"
+    },
     "MarcelloLippi": {
       "episode_count": 1,
       "show_count": 1,
@@ -191259,6 +191275,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/sexworkeconomicspectrum/"
     },
+    "SexualBehaviorPartnerPreferenceDistinction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4059718139 [SCIM4059718139].md",
+          "key": "how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139",
+          "show": "Huberman Lab",
+          "title": "How Hormones Shape Sexual Orientation & Behavior | Dr. Marc Breedlove",
+          "url": "/wiki/sources/how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/sexualbehaviorpartnerpreferencedistinction/"
+    },
     "SexualDifferentiationPathway": {
       "episode_count": 3,
       "show_count": 1,
@@ -191375,9 +191407,9 @@
       "url": "/wiki/concepts/sexualhistoryevidenceinterpretation/"
     },
     "SexualOrientationDevelopmentalCorrelates": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2813244786 [SCIM2813244786].md",
@@ -191385,9 +191417,16 @@
           "show": "Huberman Lab",
           "title": "How Hormones Shape Sexual Development",
           "url": "/wiki/sources/how-hormones-shape-sexual-development-scim2813244786/"
+        },
+        {
+          "episode_file": "SCIM4059718139 [SCIM4059718139].md",
+          "key": "how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139",
+          "show": "Huberman Lab",
+          "title": "How Hormones Shape Sexual Orientation & Behavior | Dr. Marc Breedlove",
+          "url": "/wiki/sources/how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/sexualorientationdevelopmentalcorrelates/"
     },
     "SexualPersonae": {
