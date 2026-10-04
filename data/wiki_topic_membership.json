@@ -20634,6 +20634,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ChenRaoXinEnvoy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ChenTangWesternHan": [
     {
       "key": "history",
@@ -102547,6 +102554,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "zizhi-tongjian-hanji-639-zhengshou-suodeshui-di-yi-ren-shi-zhewei-zuzong-ljwyj6k7u0zpegj74rbwbdgkzrcq": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9": [

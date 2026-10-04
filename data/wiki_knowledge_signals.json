@@ -35642,6 +35642,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/chenqiulatehan/"
     },
+    "ChenRaoXinEnvoy": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？ [lhxBX6KeIbmFe8z6bcsmlPNR6ehT].md",
+          "key": "zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》639丨征收所得税第一人，是这位祖宗！ [ljWyJ6k7U0zpEgj74rbWbdgkZRcQ].md",
+          "key": "zizhi-tongjian-hanji-639-zhengshou-suodeshui-di-yi-ren-shi-zhewei-zuzong-ljwyj6k7u0zpegj74rbwbdgkzrcq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》639丨征收所得税第一人，是这位祖宗！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-639-zhengshou-suodeshui-di-yi-ren-shi-zhewei-zuzong-ljwyj6k7u0zpegj74rbwbdgkzrcq/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/chenraoxinenvoy/"
+    },
     "ChenShiLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -171604,6 +171627,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/professionalservicesbillablehour/"
     },
+    "ProfitBasedOccupationalTax": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》639丨征收所得税第一人，是这位祖宗！ [ljWyJ6k7U0zpEgj74rbWbdgkZRcQ].md",
+          "key": "zizhi-tongjian-hanji-639-zhengshou-suodeshui-di-yi-ren-shi-zhewei-zuzong-ljwyj6k7u0zpegj74rbwbdgkzrcq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》639丨征收所得税第一人，是这位祖宗！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-639-zhengshou-suodeshui-di-yi-ren-shi-zhewei-zuzong-ljwyj6k7u0zpegj74rbwbdgkzrcq/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/profitbasedoccupationaltax/"
+    },
     "ProgrammedLoveAuthenticity": {
       "episode_count": 1,
       "show_count": 1,
@@ -204016,9 +204055,9 @@
       "url": "/wiki/concepts/symbolicreconciliationstatecraft/"
     },
     "SymbolicStatusDowngradeBackfire": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？ [lhxBX6KeIbmFe8z6bcsmlPNR6ehT].md",
@@ -204033,9 +204072,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》637丨王莽真的是穿越皇帝吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-637-wangmang-zhen-de-shi-chuanyue-huangdi-ma-lgmv5dyowr6wklrbp42qmmd3biun/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》639丨征收所得税第一人，是这位祖宗！ [ljWyJ6k7U0zpEgj74rbWbdgkZRcQ].md",
+          "key": "zizhi-tongjian-hanji-639-zhengshou-suodeshui-di-yi-ren-shi-zhewei-zuzong-ljwyj6k7u0zpegj74rbwbdgkzrcq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》639丨征收所得税第一人，是这位祖宗！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-639-zhengshou-suodeshui-di-yi-ren-shi-zhewei-zuzong-ljwyj6k7u0zpegj74rbwbdgkzrcq/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/symbolicstatusdowngradebackfire/"
     },
     "Symmachus": {
@@ -220159,9 +220205,9 @@
       "url": "/wiki/entities/wangjunwesternhan/"
     },
     "WangJunXinGeneral": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》652丨王莽的外科手术 [ltdIqldskazY-cB6iGDMrv5hUxm9].md",
@@ -220176,9 +220222,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》639丨征收所得税第一人，是这位祖宗！ [ljWyJ6k7U0zpEgj74rbWbdgkZRcQ].md",
+          "key": "zizhi-tongjian-hanji-639-zhengshou-suodeshui-di-yi-ren-shi-zhewei-zuzong-ljwyj6k7u0zpegj74rbwbdgkzrcq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》639丨征收所得税第一人，是这位祖宗！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-639-zhengshou-suodeshui-di-yi-ren-shi-zhewei-zuzong-ljwyj6k7u0zpegj74rbwbdgkzrcq/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/wangjunxingeneral/"
     },
     "WangKaiTeaWriter": {

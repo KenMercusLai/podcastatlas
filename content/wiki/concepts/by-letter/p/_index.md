@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9652
+wiki_total_pages: 9653
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2630,6 +2630,9 @@ wiki_pages:
   - key: "PerMuLandTaxation"
     title: "按亩征税 / Per-Mu Land Taxation"
     url: "/wiki/concepts/permulandtaxation/"
+  - key: "ProfitBasedOccupationalTax"
+    title: "按净利计征的职业所得税 / Profit-Based Occupational Tax"
+    url: "/wiki/concepts/profitbasedoccupationaltax/"
   - key: "PuzzleSnackMystery"
     title: "推理薯片 / Puzzle-Snack Mystery"
     url: "/wiki/concepts/puzzlesnackmystery/"

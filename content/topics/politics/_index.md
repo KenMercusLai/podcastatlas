@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3067
+topic_total_pages: 3069
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8036,6 +8036,9 @@ topic_entities:
   - key: "ChenLiWesternHan"
     title: "陈立 / Chen Li (Western Han)"
     url: "/wiki/entities/chenliwesternhan/"
+  - key: "ChenRaoXinEnvoy"
+    title: "陈饶 / Chen Rao (Xin envoy)"
+    url: "/wiki/entities/chenraoxinenvoy/"
   - key: "ChenBaoLateHan"
     title: "陈鲍 / Chen Bao (late Han)"
     url: "/wiki/entities/chenbaolatehan/"
@@ -9081,6 +9084,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a"
     title: "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？"
     url: "/wiki/sources/zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a/"
+  - key: "zizhi-tongjian-hanji-639-zhengshou-suodeshui-di-yi-ren-shi-zhewei-zuzong-ljwyj6k7u0zpegj74rbwbdgkzrcq"
+    title: "《资治通鉴·汉纪》639丨征收所得税第一人，是这位祖宗！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-639-zhengshou-suodeshui-di-yi-ren-shi-zhewei-zuzong-ljwyj6k7u0zpegj74rbwbdgkzrcq/"
   - key: "zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh"
     title: "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？"
     url: "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
