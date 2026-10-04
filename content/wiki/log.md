@@ -29361,3 +29361,11 @@ Added source `shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》
+
+Added source `zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp`; created [[TheBackroomsFilm]], [[ObsessionCurryBarkerFilm]], [[CurryBarker]], [[BlumhouseProductions]], [[NeonFilmDistributor]], [[ContemporaryHorrorFilmResurgence]], [[LiminalSpaceHorror]], [[InternetNativeFilmmakingPipeline]], and [[ConsentViolationHorror]]; corrected `CainParsons` to [[KaneParsons]] while preserving both evidence sources; and resynthesized [[A24]] and [[DianyingJubian]] from their complete preserved evidence inventories. Core synthesis: contemporary horror joins low-cost industry structure, festival and brand legitimation, bodily spectatorship, social criticism, and online creator discovery; the Backrooms case shows how commercial feature adaptation can reduce spatial uncertainty, while 《痴迷》 turns coerced love and romantic entitlement into consent-centered body horror. No settled contradiction was adopted. The “golden age” periodization, budgets, acquisitions, view counts, creator biographies, company roles, festival history, future projects, and film readings remain episode-attributed or interpretive. The automatic `wiki/overview.md` was updated during normal ingest, then only read by downstream synthesis refresh. The culture-and-media and work-education-and-society claim sets were refreshed, the material-candidate gate triggered global compaction, and the manifest and paragraph ledger were refreshed to 3,670-source coverage.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

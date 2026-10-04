@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1454
+topic_total_pages: 1455
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1240,6 +1240,9 @@ topic_concepts:
   - key: "LimestoneLoopCarbonCapture"
     title: "Limestone Loop Carbon Capture"
     url: "/wiki/concepts/limestoneloopcarboncapture/"
+  - key: "LiminalSpaceHorror"
+    title: "Liminal Space Horror / 阈限空间恐怖"
+    url: "/wiki/concepts/liminalspacehorror/"
   - key: "LiquidBiopsyScreeningBoundary"
     title: "Liquid Biopsy Screening Boundary"
     url: "/wiki/concepts/liquidbiopsyscreeningboundary/"

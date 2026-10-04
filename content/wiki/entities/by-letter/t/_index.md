@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12302
+wiki_total_pages: 12307
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "TheBacchae"
     title: "The Bacchae / 酒神的伴侣"
     url: "/wiki/entities/thebacchae/"
+  - key: "TheBackroomsFilm"
+    title: "The Backrooms / 《后室》"
+    url: "/wiki/entities/thebackroomsfilm/"
   - key: "TheBearFactory"
     title: "The Bear Factory"
     url: "/wiki/entities/thebearfactory/"

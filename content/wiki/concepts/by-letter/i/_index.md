@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9647
+wiki_total_pages: 9651
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "InternetCafePointCardDistribution"
     title: "Internet-Cafe Point-Card Distribution"
     url: "/wiki/concepts/internetcafepointcarddistribution/"
+  - key: "InternetNativeFilmmakingPipeline"
+    title: "Internet-Native Filmmaking Pipeline / 互联网原生电影人才路径"
+    url: "/wiki/concepts/internetnativefilmmakingpipeline/"
   - key: "InternmentWithoutTrial"
     title: "Internment Without Trial"
     url: "/wiki/concepts/internmentwithouttrial/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 12302
+wiki_total_pages: 12307
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "NeoTango"
     title: "Neo Tango"
     url: "/wiki/entities/neotango/"
+  - key: "NeonFilmDistributor"
+    title: "Neon (film distributor)"
+    url: "/wiki/entities/neonfilmdistributor/"
   - key: "Nepal"
     title: "Nepal"
     url: "/wiki/entities/nepal/"

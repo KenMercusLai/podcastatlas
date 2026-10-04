@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 12302
+wiki_total_pages: 12307
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "Obatala"
     title: "Obatala"
     url: "/wiki/entities/obatala/"
+  - key: "ObsessionCurryBarkerFilm"
+    title: "Obsession / 《痴迷》 (Curry Barker film)"
+    url: "/wiki/entities/obsessioncurrybarkerfilm/"
   - key: "OccidentalPetroleum"
     title: "Occidental Petroleum"
     url: "/wiki/entities/occidentalpetroleum/"

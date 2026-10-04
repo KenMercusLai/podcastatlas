@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12302
+wiki_total_pages: 12307
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "KandakeQueens"
     title: "Kandake Queens"
     url: "/wiki/entities/kandakequeens/"
+  - key: "KaneParsons"
+    title: "Kane Parsons"
+    url: "/wiki/entities/kaneparsons/"
   - key: "Kangbao"
     title: "Kangbao"
     url: "/wiki/entities/kangbao/"

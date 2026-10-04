@@ -7,7 +7,8 @@ sources:
   - huanying-lailong-canguan-kongqiang-shuoming-zhongguo-dianying-hai-chuli-buliao-fuza-zhengzhi-wenti-gkwriueoafw5aywnyatpx3k1
   - zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf
   - dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b
-last_updated: 2026-09-10
+  - zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-电影巨辩 is the film-discussion podcast represented in the wiki through long-form episodes on [[ChristopherNolan]]'s [[TheOdyssey]], recent Chinese commercial films entering unfamiliar political contexts, [[FengXiaogang|冯小刚]]'s serious mainstream filmmaking, and AI cinema as a philosophical problem.
+电影巨辩 is the film-discussion podcast represented in the wiki through long-form episodes on [[ChristopherNolan]]'s [[TheOdyssey]], recent Chinese commercial films entering unfamiliar political contexts, [[FengXiaogang|冯小刚]]'s serious mainstream filmmaking, AI cinema as a philosophical problem, and the contemporary horror-film resurgence.
 
 ## Current Profile
 
@@ -27,15 +28,17 @@ The Feng Xiaogang episode adds a historical-mainstream branch. It uses [[ZhuaTew
 
 The AI-cinema episode extends the show's range from authorship and politics into science-fiction philosophy. It treats [[Frankenstein|《弗兰肯斯坦》]], [[AIArtificialIntelligenceFilm|《人工智能》]], [[HerFilm|《她》]], [[ExMachinaFilm|《机械姬》]], and [[TheMatrix|《黑客帝国》]] as cases for [[FrankensteinComplexAI]], [[ProgrammedLoveAuthenticity]], [[TuringTestJudgmentTrap]], [[SimulatedRealityEpistemology]], and [[AISubjectivityCrisis]]. The show's method remains comparative: film plots become a way to ask what love, embodiment, judgment, and human subjectivity mean under AI.
 
+The horror episode adds industry ecology and internet culture. It places [[TheBackroomsFilm|《后室》]] and [[ObsessionCurryBarkerFilm|《痴迷》]] inside [[ContemporaryHorrorFilmResurgence]], comparing low-budget production, festival legitimation, YouTube creator discovery, [[LiminalSpaceHorror]], and [[ConsentViolationHorror]]. The same comparative habit remains visible: one feature is used to test what commercialization loses from an online spatial concept, while the other turns romance and male entitlement into a bodily-autonomy problem.
+
 ## Key Characteristics
 
 - The show treats popular films as serious cultural texts rather than only entertainment products.
 - Its discussion style combines film authorship, production technology, literary source material, political interpretation, and audience reception.
-- It uses Chinese-language critical commentary to connect Hollywood blockbusters with classical literature and modern social anxiety.
+- It uses Chinese-language critical commentary to connect Hollywood blockbusters and horror with classical literature, internet culture, and modern social anxiety.
 - It can also use contemporary Chinese films to examine how mainland cinema looks at foreign wars, Hong Kong history, capitalism, and state order.
 - It uses filmmaker career arcs to ask when a director can serve as an outlet for public emotion rather than only a maker of successful films.
 - It is willing to preserve ambivalence: Nolan's modernization and Chinese commercial films are treated as coherent, limited, and politically contested at the same time.
-- It can turn science-fiction film history into a humanities inquiry about technology, love, simulation, and personhood.
+- It can turn science-fiction and horror history into humanities inquiries about technology, love, consent, uncertainty, simulation, and personhood.
 
 ## Evidence
 
@@ -47,15 +50,17 @@ The AI-cinema episode extends the show's range from authorship and politics into
 - Filmmaker-as-public-emotion outlet: [[zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf]] reads Feng Xiaogang's serious films through abandoned individuals, recognition, and national-director status.
 - Historical ambiguity standard: [[zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf]] praises 《无悔追踪》 for preserving uncertainty while criticizing 《抓特务》 for turning that uncertainty into explicit answers.
 - AI-film philosophy: [[dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b]] links AI cinema to Frankenstein, Pinocchio, Turing tests, companion AI, simulated reality, and the modern subject.
+- Horror-industry ecology: [[zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp]] links post-2010 horror to low-budget economics, festival prestige, company strategy, theatrical bodily effect, and social criticism.
+- Internet and gender close reading: [[zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp]] contrasts Backrooms spatial uncertainty with 《痴迷》's consent, possession, and anti-romance structure.
 
 ## Qualifications
 
-The wiki still has only four sources for the show, all film-analysis episodes. This profile should not be treated as a complete description of its full catalog, hosts, audience, or editorial line.
+The wiki has five sources for the show, all film-analysis episodes. This profile should not be treated as a complete description of its full catalog, hosts, audience, or editorial line. Industry histories, budgets, view counts, creator biographies, and critical interpretations remain source-scoped unless corroborated elsewhere.
 
 ## What Changed
 
+- Added contemporary horror's industrial, festival, internet-native, spatial, and consent-analysis branches.
 - Added the Feng Xiaogang branch around serious mainstream authorship, abandoned individuals, historical ambiguity, and national-director emotion.
-- Added the earlier Chinese-commercial-cinema branch around cross-context politics, ordinary humanitarianism, and Greater Bay Area-era Hong Kong film rewriting.
 - Added the AI-cinema branch around artificial love, Turing-test judgment, simulation, and subjectivity.
 
 ## Relationships
@@ -76,3 +81,7 @@ The wiki still has only four sources for the show, all film-analysis episodes. T
 - [[HerFilm]] - AI companion case discussed by the show.
 - [[ExMachinaFilm]] - AI judgment case discussed by the show.
 - [[FrankensteinComplexAI]] - AI-cinema source pattern developed by the show.
+- [[ContemporaryHorrorFilmResurgence]] - industry and cultural frame developed in the horror episode.
+- [[LiminalSpaceHorror]] - Backrooms aesthetic the show interprets through spatial uncertainty.
+- [[ConsentViolationHorror]] - 《痴迷》 frame connecting coerced love, possession, and romantic entitlement.
+- [[InternetNativeFilmmakingPipeline]] - creator-discovery route illustrated by Kane Parsons and Curry Barker.

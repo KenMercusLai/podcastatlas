@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-10-04
-as_of_overview_commit: a8bb7e7320cfe447bde47ccba5d848221e994218
+as_of_overview_commit: ba5b9757b6a29846375388ff6b1f530193529a15
 summary: "Durable progress depends on evidence, context, human judgment, capable institutions, bounded authority, implementation, shared culture, and feedback."
-episode_count: 3655
-source_count: 3655
-paragraph_count: 783
+episode_count: 3670
+source_count: 3670
+paragraph_count: 784
 topic_count: 9
 ---
 
@@ -82,7 +82,7 @@ Scientific and health claims require mechanisms, outcomes, uncertainty, adaptabl
 
 ### Work, Education, and Society
 
-Learning and social capacity depend on active effort, feedback, fair roles, practical routines, trusted relationships, coordinated support, and sustainable collaboration.
+Learning and social capacity depend on active effort, feedback, fair roles, practical routines, trusted relationships, coordinated support, sustainable collaboration, and pathways that convert emerging creative skill into durable work.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

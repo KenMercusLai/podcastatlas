@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9647
+wiki_total_pages: 9651
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "LiminalSleepTransitionPractice"
     title: "Liminal Sleep Transition Practice"
     url: "/wiki/concepts/liminalsleeptransitionpractice/"
+  - key: "LiminalSpaceHorror"
+    title: "Liminal Space Horror / 阈限空间恐怖"
+    url: "/wiki/concepts/liminalspacehorror/"
   - key: "LimitedSKUOperatingModel"
     title: "Limited SKU Operating Model"
     url: "/wiki/concepts/limitedskuoperatingmodel/"

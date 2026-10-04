@@ -39,7 +39,7 @@ The episode then shifts to U.S. health policy and French culture. Its [[Affordab
 ## Connections
 - [[TheIntelligence]] and [[EconomistPodcasts]] - show and publisher context.
 - [[GenerativeAIHollywoodProduction]], [[SyntheticPerformers]], [[AIVideoProductionWorkflow]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AIContentProvenance]], and [[AISlop]] - Hollywood AI production, labor, rights, provenance, and quality branch.
-- [[TillyNorwood]], [[EileenVanDerVelden]], [[TedSarandos]], [[JohnIrwin]], [[YoungWashington]], [[CainParsons]], and [[PunkyDuck]] - performers, creators, executives, directors, and projects used to ground the Hollywood segment.
+- [[TillyNorwood]], [[EileenVanDerVelden]], [[TedSarandos]], [[JohnIrwin]], [[YoungWashington]], [[KaneParsons]], and [[PunkyDuck]] - performers, creators, executives, directors, and projects used to ground the Hollywood segment.
 - [[Netflix]], [[Interpositive]], [[Google]], [[ByteDance]], [[GoogleDeepMind]], [[A24]], [[Amazon]], [[AmazonMGMStudios]], [[TheWaltDisneyCompany]], and [[TikTok]] - companies and platforms pushing or adapting AI entertainment workflows.
 - [[AffordableCareAct]], [[ObamacareSubsidyCliff]], [[HealthInsuranceDeathSpiral]], [[PoliticalVetoPointBargaining]], [[USHealthInsuranceDenialPolitics]], [[HealthInsurancePlanning]], and [[UnitedStates]] - ACA subsidy, exchange-market, and uninsured-care branch.
 - [[France]], [[FrenchLineDancingCulture]], [[AmericanCulturalExports]], and [[DisneylandParis]] - line dancing, American cultural influence, and French social-life branch.

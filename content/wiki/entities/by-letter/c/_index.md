@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12302
+wiki_total_pages: 12307
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -47,9 +47,6 @@ wiki_pages:
   - key: "Caffe"
     title: "Caffe"
     url: "/wiki/entities/caffe/"
-  - key: "CainParsons"
-    title: "Cain Parsons"
-    url: "/wiki/entities/cainparsons/"
   - key: "CaitlinClark"
     title: "Caitlin Clark"
     url: "/wiki/entities/caitlinclark/"
@@ -1670,6 +1667,9 @@ wiki_pages:
   - key: "CunardLine"
     title: "Cunard Line"
     url: "/wiki/entities/cunardline/"
+  - key: "CurryBarker"
+    title: "Curry Barker"
+    url: "/wiki/entities/currybarker/"
   - key: "CurryBrand"
     title: "Curry Brand"
     url: "/wiki/entities/currybrand/"

@@ -124,9 +124,9 @@
       "url": "/wiki/entities/42zhangjing/"
     },
     "A24": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Stars in their AIs： tech is changing Hollywood [6a917d0b63de6f7b41319a4b].md",
@@ -141,9 +141,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "Google投資A24，AI將成為好萊塢的未來？",
           "url": "/wiki/sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594/"
+        },
+        {
+          "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
+          "key": "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp",
+          "show": "电影巨辩",
+          "title": "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》",
+          "url": "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/a24/"
     },
     "A2ATransactionNorms": {
@@ -25168,6 +25175,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/bluegogo/"
     },
+    "BlumhouseProductions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
+          "key": "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp",
+          "show": "电影巨辩",
+          "title": "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》",
+          "url": "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/blumhouseproductions/"
+    },
     "BoRongLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -29349,22 +29372,6 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/caiyesexeducator/"
-    },
-    "CainParsons": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
-      "sources": [
-        {
-          "episode_file": "Stars in their AIs： tech is changing Hollywood [6a917d0b63de6f7b41319a4b].md",
-          "key": "stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b",
-          "show": "Economist Podcasts",
-          "title": "Stars in their AIs: tech is changing Hollywood",
-          "url": "/wiki/sources/stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b/"
-        }
-      ],
-      "updated": "2026-09-01",
-      "url": "/wiki/entities/cainparsons/"
     },
     "Cainiao": {
       "episode_count": 1,
@@ -44465,6 +44472,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/consentbasedtheatricaldeception/"
     },
+    "ConsentViolationHorror": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
+          "key": "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp",
+          "show": "电影巨辩",
+          "title": "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》",
+          "url": "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/consentviolationhorror/"
+    },
     "ConsentlessFacialSearch": {
       "episode_count": 1,
       "show_count": 1,
@@ -45230,6 +45253,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/contactlenssafety/"
+    },
+    "ContemporaryHorrorFilmResurgence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
+          "key": "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp",
+          "show": "电影巨辩",
+          "title": "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》",
+          "url": "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/contemporaryhorrorfilmresurgence/"
     },
     "ContentAestheticOverMetrics": {
       "episode_count": 1,
@@ -48902,6 +48941,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/curiosityoverreactivity/"
+    },
+    "CurryBarker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
+          "key": "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp",
+          "show": "电影巨辩",
+          "title": "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》",
+          "url": "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/currybarker/"
     },
     "Cursor": {
       "episode_count": 11,
@@ -54894,9 +54949,9 @@
       "url": "/wiki/entities/dianlingqiang/"
     },
     "DianyingJubian": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GKwRIJIOV2xKBTdKNQTHj-ue [GKwRIJIOV2xKBTdKNQTHj-ue].md",
@@ -54925,9 +54980,16 @@
           "show": "电影巨辩",
           "title": "电影里的AI：情人、巨婴和独裁者",
           "url": "/wiki/sources/dianying-li-de-ai-qingren-juying-he-ducai-zhe-gkwriuen9djgazhkswsh-d-b/"
+        },
+        {
+          "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
+          "key": "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp",
+          "show": "电影巨辩",
+          "title": "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》",
+          "url": "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/dianyingjubian/"
     },
     "DiasporaOfficialGeopoliticalExposure": {
@@ -109028,6 +109090,22 @@
       "updated": "2026-08-05",
       "url": "/wiki/concepts/internetmoraltrial/"
     },
+    "InternetNativeFilmmakingPipeline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
+          "key": "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp",
+          "show": "电影巨辩",
+          "title": "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》",
+          "url": "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/internetnativefilmmakingpipeline/"
+    },
     "InternetPoliticalAmplification": {
       "episode_count": 3,
       "show_count": 1,
@@ -118381,6 +118459,29 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/kandakequeens/"
     },
+    "KaneParsons": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Stars in their AIs： tech is changing Hollywood [6a917d0b63de6f7b41319a4b].md",
+          "key": "stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b",
+          "show": "Economist Podcasts",
+          "title": "Stars in their AIs: tech is changing Hollywood",
+          "url": "/wiki/sources/stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b/"
+        },
+        {
+          "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
+          "key": "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp",
+          "show": "电影巨辩",
+          "title": "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》",
+          "url": "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/kaneparsons/"
+    },
     "Kangbao": {
       "episode_count": 1,
       "show_count": 1,
@@ -126518,6 +126619,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/liminalsleeptransitionpractice/"
+    },
+    "LiminalSpaceHorror": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
+          "key": "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp",
+          "show": "电影巨辩",
+          "title": "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》",
+          "url": "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/liminalspacehorror/"
     },
     "LimitedWatching": {
       "episode_count": 1,
@@ -150991,6 +151108,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/neoantigenselectiontradeoff/"
     },
+    "NeonFilmDistributor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
+          "key": "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp",
+          "show": "电影巨辩",
+          "title": "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》",
+          "url": "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/neonfilmdistributor/"
+    },
     "Nepal": {
       "episode_count": 4,
       "show_count": 2,
@@ -154686,6 +154819,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/observingselfcontinuity/"
+    },
+    "ObsessionCurryBarkerFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
+          "key": "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp",
+          "show": "电影巨辩",
+          "title": "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》",
+          "url": "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/obsessioncurrybarkerfilm/"
     },
     "ObsessiveCompulsiveDisorder": {
       "episode_count": 3,
@@ -207161,6 +207310,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/theanxiousgeneration/"
+    },
+    "TheBackroomsFilm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOPjPGA1chAgS-XwP_ [GKwRIJIOPjPGA1chAgS-XwP_].md",
+          "key": "zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp",
+          "show": "电影巨辩",
+          "title": "这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》",
+          "url": "/wiki/sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/thebackroomsfilm/"
     },
     "TheBeatles": {
       "episode_count": 7,

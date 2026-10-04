@@ -2600,14 +2600,14 @@
       "earliest_episode_date": "2026-06-02",
       "latest_episode_date": "2026-08-30",
       "latest_episode_file": "GKwRIUEOafW5AYwNyATPX3K1 [GKwRIUEOafW5AYwNyATPX3K1].md",
-      "source_note_count": 4,
-      "topic_matched_source_note_count": 4,
+      "source_note_count": 5,
+      "topic_matched_source_note_count": 5,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 4
+          "source_note_count": 5
         },
         {
           "key": "politics",

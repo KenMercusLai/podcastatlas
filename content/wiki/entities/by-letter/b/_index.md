@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12302
+wiki_total_pages: 12307
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -824,6 +824,9 @@ wiki_pages:
   - key: "Bluetooth"
     title: "Bluetooth"
     url: "/wiki/entities/bluetooth/"
+  - key: "BlumhouseProductions"
+    title: "Blumhouse Productions"
+    url: "/wiki/entities/blumhouseproductions/"
   - key: "BMW"
     title: "BMW"
     url: "/wiki/entities/bmw/"

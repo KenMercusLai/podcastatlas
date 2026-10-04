@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9647
+wiki_total_pages: 9651
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1961,6 +1961,9 @@ wiki_pages:
   - key: "ConsentAndBodyBoundaryEducation"
     title: "Consent and Body-Boundary Education / 同意与身体边界教育"
     url: "/wiki/concepts/consentandbodyboundaryeducation/"
+  - key: "ConsentViolationHorror"
+    title: "Consent Violation as Horror / 同意权侵犯恐怖"
+    url: "/wiki/concepts/consentviolationhorror/"
   - key: "ConsentBasedLoanDataSharing"
     title: "Consent-Based Loan Data Sharing"
     url: "/wiki/concepts/consentbasedloandatasharing/"
@@ -2120,6 +2123,9 @@ wiki_pages:
   - key: "ContactLensSafety"
     title: "Contact-Lens Safety"
     url: "/wiki/concepts/contactlenssafety/"
+  - key: "ContemporaryHorrorFilmResurgence"
+    title: "Contemporary Horror Film Resurgence / 当代恐怖片复兴"
+    url: "/wiki/concepts/contemporaryhorrorfilmresurgence/"
   - key: "ContentAestheticOverMetrics"
     title: "Content Aesthetic Over Metrics"
     url: "/wiki/concepts/contentaestheticovermetrics/"
