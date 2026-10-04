@@ -29581,3 +29581,11 @@ Added source `zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-b
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 《资治通鉴·汉纪》378-1｜屈辱地活着有多难？看看败将李陵！
+
+Added source `zizhi-tongjian-hanji-378-1-quru-de-huozhe-you-duo-nan-kankan-baijiang-liling-lkpxe5exfrq0erj6kcdmbmhxkpvq`; resynthesized [[LiLingWesternHan|李陵]] and [[ChenBuleWesternHan|陈步乐]] from their complete preserved evidence inventories. Core synthesis: the episode bridges Li Ling's resource-exhausted battlefield collapse to confirmed surrender and court condemnation, while treating continued life after defeat as a possible burden of guilt, duty, and humiliation rather than automatic proof of cowardice; that moral reading remains an analogy, not proof of Li Ling's private intent. Chen Bule's earlier rewarded praise becomes fatal exposure when Han Wudi questions him after the surrender news, and the episode says he dies by suicide. No settled contradiction was adopted. Force and casualty totals, battle geography, Li Ling's motive and mental state, the film analogy, and the precise circumstances of Chen Bule's death remain source-scoped. The opening questions about Sima Qian's punishment and inability to pay commutation are not answered in this installment, so his canonical profile was not changed. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,698-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

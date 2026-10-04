@@ -35343,9 +35343,9 @@
       "url": "/wiki/entities/chenbinvascularsurgery/"
     },
     "ChenBuleWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！ [likOHXFnNYbzG6L-q_DadKJEuJRi].md",
@@ -35353,6 +35353,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》378-1｜屈辱地活着有多难？看看败将李陵！ [lkpXe5eXFRq0eRj6kCdMBmhXkPvq].md",
+          "key": "zizhi-tongjian-hanji-378-1-quru-de-huozhe-you-duo-nan-kankan-baijiang-liling-lkpxe5exfrq0erj6kcdmbmhxkpvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》378-1｜屈辱地活着有多难？看看败将李陵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-378-1-quru-de-huozhe-you-duo-nan-kankan-baijiang-liling-lkpxe5exfrq0erj6kcdmbmhxkpvq/"
         }
       ],
       "updated": "2026-10-04",
@@ -125639,9 +125646,9 @@
       "url": "/wiki/entities/likashing/"
     },
     "LiLingWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗 [lrvKyakUzpNv77uoq4wkRt7VcUZY].md",
@@ -125677,6 +125684,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》378-1｜屈辱地活着有多难？看看败将李陵！ [lkpXe5eXFRq0eRj6kCdMBmhXkPvq].md",
+          "key": "zizhi-tongjian-hanji-378-1-quru-de-huozhe-you-duo-nan-kankan-baijiang-liling-lkpxe5exfrq0erj6kcdmbmhxkpvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》378-1｜屈辱地活着有多难？看看败将李陵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-378-1-quru-de-huozhe-you-duo-nan-kankan-baijiang-liling-lkpxe5exfrq0erj6kcdmbmhxkpvq/"
         }
       ],
       "updated": "2026-10-04",
