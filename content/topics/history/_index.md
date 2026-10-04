@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2560
+topic_total_pages: 2559
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1114,9 +1114,6 @@ topic_concepts:
   - key: "PrimaryChronicleSourceCriticism"
     title: "Primary Chronicle Source Criticism"
     url: "/wiki/concepts/primarychroniclesourcecriticism/"
-  - key: "PrivateAccessTalentChannel"
-    title: "Private Access Talent Channel / 私人进身通道"
-    url: "/wiki/concepts/privateaccesstalentchannel/"
   - key: "PrivateFiefExpansionThroughStateWar"
     title: "Private Fief Expansion Through State War / 以国战扩私邑"
     url: "/wiki/concepts/privatefiefexpansionthroughstatewar/"

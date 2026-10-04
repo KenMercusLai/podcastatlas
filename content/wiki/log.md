@@ -29949,3 +29949,11 @@ Added source `zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-ba
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇
+
+Added source `zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz`; created [[ZhuoWenjun|卓文君]], [[YangDeyiWesternHan|杨得意]], [[WangJiLinqiongWesternHan|临邛县令王吉]], [[ZhuoWangsunWesternHan|卓王孙]], and [[FengQiuHuang|《凤求凰》]]; and resynthesized [[SimaXiangru|司马相如]] and [[PrivateAccessTalentChannel|私人进身通道]] from their complete preserved evidence inventories. Core synthesis: literary ability becomes consequential when a trusted intermediary turns it into scarce court attention, while Wang Ji's repeated public deference shows reputation staging converting official status into social access. No settled contradiction was adopted. The work sequence around 《上林赋》 and 《天子游猎赋》, Sima's birthplace, Yang Deyi's hometown claim, the planned-deception reading, the maid and paper message, Zhuo Wenjun's private reaction, 《凤求凰》 authorship, the “愿得一人心” attribution, and later betrayal remain source-scoped. The Linqiong magistrate Wang Ji is kept distinct from all existing same-name pages. The large Han Wudi and Su Shi profiles and automatic `wiki/overview.md` were read for context but not rewritten because the durable additions are represented in narrower canonical pages. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,744 sources and retain 789 overview paragraphs. Changed-page links, index coverage, identities, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

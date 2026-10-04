@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12397
+wiki_total_pages: 12402
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -824,6 +824,9 @@ wiki_pages:
   - key: "FifthDimension"
     title: "The Fifth Dimension / 第五维度"
     url: "/wiki/entities/fifthdimension/"
+  - key: "FengQiuHuang"
+    title: "《凤求凰》 / Feng Qiu Huang"
+    url: "/wiki/entities/fengqiuhuang/"
   - key: "FrontWave2Documentary"
     title: "《前浪2》 / Front Wave 2 Documentary"
     url: "/wiki/entities/frontwave2documentary/"

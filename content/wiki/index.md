@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇](sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz.md) — 杨得意把司马相如的辞赋才华带入汉武帝视野，王吉再以公开造势促成卓王孙设宴；《凤求凰》、私奔与后续背叛则保留为带有操纵张力的来源限定叙事。
 - [《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事](sources/zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje.md) — 汉武帝把异声、足迹与消失老人等含混神异报告转化为祭祀奉邑、蓬莱海搜和增派人员，并以封坛秘文及霍子侯独陪登山完成泰山秘密祭天。
 - [《资治通鉴·汉纪》361-2｜泰山祭祀后，霍去病独子离奇暴毙揭秘](sources/zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x.md) — 泰山封禅延伸为祭地、改元、减税和巡行制度；东方朔顺着求仙前提劝止出海，霍子侯随后因无明确病因的一日暴病去世。
 - [《资治通鉴·汉纪》362-1｜他被称为皇帝的钱袋子，到底有啥能耐？](sources/zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff.md) — 桑弘羊以盐铁、平准和物资储备扩充汉武帝财政，同时留下国库成效与市场民生代价必须分开衡量的问题。
@@ -3808,6 +3809,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？](sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_.md) — 卜式借旱灾批评桑弘羊使官吏入市逐利，并串联异星祥瑞、齐王刘弘早逝与读史的现实意义。
 
 ## Entities
+- [卓文君 / Zhuo Wenjun](entities/ZhuoWenjun.md) — 卓王孙之女与“琴挑文君”传统的核心行动者，其听琴、传信、私奔和作品归属均按来源证据分层保留。
+- [杨得意 / Yang Deyi (Western Han)](entities/YangDeyiWesternHan.md) — 以狗监近侍身份把司马相如的文学才华转化为汉武帝召见机会的西汉宫廷引荐者。
+- [王吉 / Wang Ji (Linqiong magistrate, Western Han)](entities/WangJiLinqiongWesternHan.md) — 通过反复公开拜访为司马相如制造名士声势、并与其他同名王吉明确消歧的临邛县令。
+- [卓王孙 / Zhuo Wangsun (Western Han)](entities/ZhuoWangsunWesternHan.md) — 卓文君之父与临邛富户，其宴会把司马相如的社会声势转化为接近卓文君的场景。
+- [《凤求凰》 / Feng Qiu Huang](entities/FengQiuHuang.md) — 在节目中由司马相如宴席演奏、向卓文君传递求偶意味的作品，其作者、曲辞与传播史保持来源限定。
 - [霍嬗 / 霍子侯 / Huo Shan (son of Huo Qubing)](entities/HuoShanSonOfHuoQubing.md) — 霍去病之子与爵位继承人，在来源中以侍中、奉车都尉身份成为唯一陪同汉武帝秘密登泰山过夜的随员，并与后世霍山明确消歧。
 - [宣房宫 / Xuanfang Palace](entities/XuanfangPalace.md) — 汉武帝时期建于瓠子决口修复地的宫室，在来源中兼具减缓水患的实用功能与展示治河能力的政治象征。
 - [田蚡 / Tian Fen (Western Han)](entities/TianFenWesternHan.md) — 在来源中因封地受益而劝阻及时修复瓠子决口、体现权臣私利影响公共治水优先级的西汉丞相。
@@ -6231,7 +6237,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [费兴 / Fei Xing (Xin official)](entities/FeiXingXinOfficial.md) — Xin official removed after diagnosing Jing-Yang banditry through mountain-and-marsh taxation, drought, and livelihood collapse.
 - [王宗 / Wang Zong (Xin prince)](entities/WangZongXinPrince.md) — Wang Mang grandson whose private imperial imagery and seals become a lethal late-Xin household scandal.
 - [王芳 / Wang Fang (Xin princess)](entities/WangFangXinPrincess.md) — Wang-family woman in Hanji 654 accused of curses and maid killing before suicide with Wang Xing.
-- [司马相如 / Sima Xiangru](entities/SimaXiangru.md) — Western Han fu writer used in Hanji 654 as Yang Xiong's admired literary model and comparison point.
+- [司马相如 / Sima Xiangru](entities/SimaXiangru.md) — Western Han fu writer whose profile now joins Yang Xiong's literary lineage, Yang Deyi's court access, Su Shi's ethical criticism, and the staged “琴挑文君” tradition.
 - [《春秋》 / Chunqiu](entities/Chunqiu.md) — Classical text route for Hanji 560's Zhai Fangjin and Hu Chang court-teaching conflict.
 - [Emperor Yuan of Han / 汉元帝](entities/HanYuandi.md) — Western Han emperor whose profile spans thrift, Zhuya retrenchment, frontier force-sizing, remonstrance reception, Shi Xian trust, and succession vulnerability.
 - [Emperor Cheng of Han / 汉成帝](entities/HanChengdi.md) — Western Han emperor whose profile spans Yang Xiong career background, Wang Jia's favorable precedent, Zhai Fangjin's coerced death, sudden-death blame management, Geng Yu's succession defense, and contested missing-son accusations.
@@ -20627,7 +20633,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eastern-Western Zhou Split / 东周西周分裂](concepts/EasternWesternZhouSplit.md) — Political-fragmentation frame distinguishing the small East/West Zhou polities from broad dynasty-period labels.
 - [Situational Character Tests / 五观识人法](concepts/SituationalCharacterTests.md) — Framework for judging character through behavior under changing conditions, including office, wealth, loss, pressure, selective speech, etiquette, delegation, and correction.
 - [Talent Referral Quality / 荐才层级质量](concepts/TalentReferralQuality.md) — Chancellor-selection lesson that the level and effect of referred talent matter more than referral count alone.
-- [Private Access Talent Channel / 私人进身通道](concepts/PrivateAccessTalentChannel.md) — Court personnel mechanism where open recruitment still depends on favored intermediaries who make outsider talent actionable.
+- [Private Access Talent Channel / 私人进身通道](concepts/PrivateAccessTalentChannel.md) — Court-access mechanism in which intermediaries make talent or candidacy actionable, while hostile and counterfeit variants show why access cannot substitute for evaluation.
 - [Qi Wei Wang Chronology Dispute / 齐威王编年争议](concepts/QiChronologyDispute.md) — Source-critical case arguing Qi Wei Wang's received annalistic placement is probably too early.
 - [Allusive Remonstrance / 隐语进谏](concepts/AllusiveRemonstrance.md) — Indirect criticism pattern in which Chunyu Kun uses a silent-bird riddle to reach Qi Wei Wang.
 - [Poetry As Elite Political Language / 诗经作为贵族政治语言](concepts/PoetryAsElitePoliticalLanguage.md) — Pre-Qin elite communication pattern where Shijing fluency lets sensitive political messages move through shared poetic code.

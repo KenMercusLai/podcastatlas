@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12397
+wiki_total_pages: 12402
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -359,6 +359,12 @@ wiki_pages:
   - key: "Zhuzhu"
     title: "助助"
     url: "/wiki/entities/zhuzhu/"
+  - key: "ZhuoWenjun"
+    title: "卓文君 / Zhuo Wenjun"
+    url: "/wiki/entities/zhuowenjun/"
+  - key: "ZhuoWangsunWesternHan"
+    title: "卓王孙 / Zhuo Wangsun (Western Han)"
+    url: "/wiki/entities/zhuowangsunwesternhan/"
   - key: "ZhuoRui"
     title: "卓瑞 / Zhuo Rui"
     url: "/wiki/entities/zhuorui/"

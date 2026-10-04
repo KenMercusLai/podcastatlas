@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12397
+wiki_total_pages: 12402
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1358,6 +1358,9 @@ wiki_pages:
   - key: "WangJiLateHan"
     title: "王吉 / Wang Ji (late Han)"
     url: "/wiki/entities/wangjilatehan/"
+  - key: "WangJiLinqiongWesternHan"
+    title: "王吉 / Wang Ji (Linqiong magistrate, Western Han)"
+    url: "/wiki/entities/wangjilinqiongwesternhan/"
   - key: "WangJiWesternHan"
     title: "王吉 / Wang Ji (Western Han)"
     url: "/wiki/entities/wangjiwesternhan/"

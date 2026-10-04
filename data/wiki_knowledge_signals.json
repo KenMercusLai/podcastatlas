@@ -76052,6 +76052,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/fengmengjie/"
     },
+    "FengQiuHuang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇 [lphRIp8PRODrc46X__Y6elbrKiGZ].md",
+          "key": "zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/fengqiuhuang/"
+    },
     "FengQuWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -174032,6 +174048,57 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/privacyact1974/"
     },
+    "PrivateAccessTalentChannel": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？ [lvRRMkSykaZLSb7W8aBbdmNqfzQQ].md",
+          "key": "zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
+          "key": "zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？ [lh-tBOhgO96qw8bJqu3x1Yp6CZV5].md",
+          "key": "zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》115-1｜荆轲刺秦似乎有点儿草率了 [lgz1Adsn1t8jjIaoBMtFeDpr_IxN].md",
+          "key": "zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》115-1｜荆轲刺秦似乎有点儿草率了",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》12丨 公孙鞅求职路上的拉关系 走后门 [lvV4_Bz8SM9sCEZcI_O_msaPKviL].md",
+          "key": "zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》12丨 公孙鞅求职路上的拉关系 走后门",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇 [lphRIp8PRODrc46X__Y6elbrKiGZ].md",
+          "key": "zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/privateaccesstalentchannel/"
+    },
     "PrivateCapitalDefensePrime": {
       "episode_count": 2,
       "show_count": 1,
@@ -196594,9 +196661,9 @@
       "url": "/wiki/entities/simaqian/"
     },
     "SimaXiangru": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生 [lq3O_13h2iN89qWH0dVcHCzLvRqk].md",
@@ -196604,9 +196671,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇 [lphRIp8PRODrc46X__Y6elbrKiGZ].md",
+          "key": "zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/simaxiangru/"
     },
     "SimaYi": {
@@ -223883,6 +223957,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/wanghuoxinprince/"
     },
+    "WangJiLinqiongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇 [lphRIp8PRODrc46X__Y6elbrKiGZ].md",
+          "key": "zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/wangjilinqiongwesternhan/"
+    },
     "WangJiWesternHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -236288,6 +236378,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/yangcilatehan/"
     },
+    "YangDeyiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇 [lphRIp8PRODrc46X__Y6elbrKiGZ].md",
+          "key": "zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/yangdeyiwesternhan/"
+    },
     "YangFengLateHan": {
       "episode_count": 13,
       "show_count": 1,
@@ -245276,6 +245382,38 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/zhuomaoeasternhan/"
+    },
+    "ZhuoWangsunWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇 [lphRIp8PRODrc46X__Y6elbrKiGZ].md",
+          "key": "zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhuowangsunwesternhan/"
+    },
+    "ZhuoWenjun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇 [lphRIp8PRODrc46X__Y6elbrKiGZ].md",
+          "key": "zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhuowenjun/"
     },
     "ZhuyaCommandery": {
       "episode_count": 2,
