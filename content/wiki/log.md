@@ -29824,3 +29824,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》366-3｜雌雄同体，是一个女人的顶级魅力
+
+Added source `zizhi-tongjian-hanji-366-3-cixiongtongti-shi-yige-nvren-de-dingji-meili-li7iu8v_bnyhpp48rhsrjkkzz5og`; resynthesized [[FemaleStrengthAsSelfGovernance|女性力量作为自我治理]] and [[EmotionalStabilityAsSocialNorm|情绪稳定作为社会规范]] from their complete preserved evidence inventories. Core synthesis: independence, recovery, decisive action, tact, presentation, emotional restraint, and enforceable limits can coexist, but these capacities do not need the episode's masculine/feminine coding; composure is useful when it protects choice and suspect when smiling, silence, or concealed distress becomes a universal female duty. No settled contradiction was adopted. The “职场没有性别” claim and the source's gender-coded traits remain in tension, while advice on anger, complaint, image, silence, marriage, and workplace conduct remains source-scoped rather than clinical or universal. The automatic `wiki/overview.md` was read for context and not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,728 sources and 789 overview paragraphs. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide lightweight validator still reports 20 pre-existing broken links outside this ingest.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

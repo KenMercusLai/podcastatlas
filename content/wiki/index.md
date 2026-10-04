@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》366-3｜雌雄同体，是一个女人的顶级魅力](sources/zizhi-tongjian-hanji-366-3-cixiongtongti-shi-yige-nvren-de-dingji-meili-li7iu8v_bnyhpp48rhsrjkkzz5og.md) — 将女性力量解释为独立、行动、温和表达、情绪调节与底线的结合，同时限定其性别二分、沉默和形象管理风险。
 - [《资治通鉴·汉纪》366-4｜淇姐心里话：女人更解女人心](sources/zizhi-tongjian-hanji-366-4-qijie-xinlihua-nvren-geng-jie-nvrenxin-lhnf_zbn364cuu01f0rbf8pd-7in.md) — 将同理心、责任、行动、学习、关系边界、健康与时间管理合成女性自我治理理想，并把“黑色生命力”限定为来源中的韧性隐喻。
 - [《资治通鉴·汉纪》367-2｜教你一招，应对职场中的“不公”](sources/zizhi-tongjian-hanji-367-2-jiao-ni-yizhao-yingdui-zhichang-zhong-de-bugong-lmphtxnfn76galepblj-x4ikc3gl.md) — 以“老板思维”区分个人委屈与组织评价逻辑，并把发展空间、健康成本和体面离开合成职场不公下的退出判断。
 - [《资治通鉴·汉纪》367-1｜碰女人就疲软的诸侯王](sources/zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1sg-lkwl9dtnflxxgkieb79hj.md) — 胶西王刘端的宗室保护、宫廷暴力与地方治理破坏，及董仲舒在公孙弘推动的高风险任命中识险退身。
@@ -16215,7 +16216,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
 
 ## Concepts
-- [Female Strength as Self-Governance / 女性力量作为自我治理](concepts/FemaleStrengthAsSelfGovernance.md) — Integrates empathy, responsibility, learning, action, boundaries, health, and time stewardship while preserving structural limits on choice.
+- [Female Strength as Self-Governance / 女性力量作为自我治理](concepts/FemaleStrengthAsSelfGovernance.md) — Integrates agency, care, learning, independence, tact, emotional recovery, and enforceable limits while rejecting fixed gender coding and preserving structural constraints.
 - [Black Vitality Resilience / 黑色生命力](concepts/BlackVitalityResilience.md) — Qualified recovery-and-learning metaphor for repeatedly standing up after pain without assuming adversity automatically produces growth.
 - [Conceptual Translation Judgment / 概念翻译判断](concepts/ConceptualTranslationJudgment.md) — Human judgment about a term's history, conceptual relations, normative role, and target-language associations beyond mechanical fluency.
 - [Translation Path Dependence / 翻译路径依赖](concepts/TranslationPathDependence.md) — Process by which repeated and institutionalized renderings become defaults that later usage and AI systems reinforce.
@@ -18461,7 +18462,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Structured Grieving Practice](concepts/StructuredGrievingPractice.md) — Bounded grieving-time practice that preserves attachment while reducing counterfactual rumination.
 - [Navier-Stokes Equations](concepts/NavierStokesEquations.md) — Fluid-motion equations tracked here as a high-stakes AI-for-math and proof-governance test case after a contested OpenAI claim.
 - [Block And Dissent Hygiene / 拉黑与异见卫生](concepts/BlockAndDissentHygiene.md) — managing online boundaries by balancing blocking and deletion against deliberate exposure to dissent.
-- [Emotional Stability As Social Norm / 情绪稳定作为社会规范](concepts/EmotionalStabilityAsSocialNorm.md) — separating adult composure, inner emotional fluctuation, scene discipline, and social pressure.
+- [Emotional Stability As Social Norm / 情绪稳定作为社会规范](concepts/EmotionalStabilityAsSocialNorm.md) — Separates inner feeling, behavioral control, recovery, scene discipline, gendered composure pressure, and safety-dependent expression.
 - [Happiness-Based De-escalation / 幸福者退让原则](concepts/HappinessBasedDeescalation.md) — conflict-retreat frame that treats yielding as preserving one's own state while remaining morally contested.
 - [Public Expression Against Trolls / 面对喷子的公共表达](concepts/PublicExpressionAgainstTrolls.md) — continuing to speak in hostile online spaces so loud antagonistic voices do not define perceived mainstream opinion.
 - [Persona-Shielded Political Purge / 人设护盾式政治清除](concepts/PersonaShieldedPoliticalPurge.md) — Pattern where a dominant actor removes an obstacle through respected intermediaries, proxy accusation, public-order language, and staged restraint to preserve moral persona.
