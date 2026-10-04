@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！](sources/zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri.md) — 李陵以车阵、弓弩、地形与伤兵分工抵抗优势匈奴骑兵，管敢叛逃泄密与箭械耗尽使有序撤退转为绝境突围。
 - [657. The Ku Klux Klan: American Fascists (Part 4)](sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855.md) — The Rest Is History on the second Klan's social normalization, violence, women's organizing, political machine, Stephenson scandal, collapse, and qualified fascism comparison.
 - [崔健×罗永浩！去天堂和去地狱，都要带上艺术家](sources/cuijian-luoyonghao-qu-tiantang-he-qu-diyu-dou-yao-daishang-yishujia-ljzslbjyhppwf11pkwo009u2hxii.md) — 罗永浩与崔健谈四十周年演出、怀旧与继续创作、现场连接、专辑形态、低成本制作、音乐学习和 AI 边界。
 - [Essentials: How to Build Strength, Muscle Size & Endurance | Dr. Andy Galpin](sources/essentials-how-to-build-strength-muscle-size-endurance-dr-andy-galpin-scim9369885937.md) — Huberman Lab Essentials episode on adaptation-specific resistance training, superset tradeoffs, movement intent, target-muscle activation, and post-workout downregulation.
@@ -3759,6 +3760,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [韩延年 / Han Yannian (Western Han)](entities/HanYannianWesternHan.md) — 李陵军前锋指挥者，军情泄露后与李陵夜间突围并在匈奴追击中战死。
+- [管敢 / Guan Gan (Western Han)](entities/GuanGanWesternHan.md) — 因受辱叛逃并向匈奴泄露李陵无援、箭尽、前锋编组与旗号的军侯。
+- [陈步乐 / Chen Bule (Western Han)](entities/ChenBuleWesternHan.md) — 奉李陵命将沿途山川地图与军情送回长安、继而获汉武帝任为郎官的骑兵信使。
 - [Ku Klux Klan](entities/KuKluxKlan.md) — U.S. white-supremacist and nativist movement whose second incarnation combined mass social organization, violence, and electoral power.
 - [Hiram Wesley Evans](entities/HiramWesleyEvans.md) — Second-Klan imperial wizard who used organizational discipline and populist respectability to pursue national political influence.
 - [D. C. Stephenson](entities/DCStephenson.md) — Indiana Klan leader whose recruitment machine, corruption, and crimes shaped both the movement's ascent and collapse.
@@ -16147,6 +16151,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Benioff](entities/MarkBenioff.md) — Salesforce co-founder and CEO represented through grounded enterprise AI, public-market discipline, China data residency, and corporate philanthropy.
 
 ## Concepts
+- [Terrain and Formation Force Multiplication / 地形阵型战力放大](concepts/TerrainFormationForceMultiplication.md) — 小部队以地形、阵型、武器协同、临时工事、角色分配与信息优势放大战力，同时受补给和情报暴露硬约束的战术模式。
 - [Extremist Social Normalization](concepts/ExtremistSocialNormalization.md) — Process by which exclusionary movements become familiar and respectable through ordinary institutions, entertainment, ritual, and belonging.
 - [Extremist Electoral Machine](concepts/ExtremistElectoralMachine.md) — Conversion of extremist membership networks into endorsements, turnout, officeholding, patronage, and institutional pressure.
 - [Artistic Continuity Against Nostalgia](concepts/ArtisticContinuityAgainstNostalgia.md) — Principle that a living artist can honor audience memory without freezing work into its remembered form.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12338
+wiki_total_pages: 12341
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1394,6 +1394,9 @@ wiki_pages:
   - key: "GuanchengWarringStates"
     title: "管城 / Guancheng (Warring States)"
     url: "/wiki/entities/guanchengwarringstates/"
+  - key: "GuanGanWesternHan"
+    title: "管敢 / Guan Gan (Western Han)"
+    url: "/wiki/entities/guanganwesternhan/"
   - key: "GuanTongLateHan"
     title: "管统 / Guan Tong (late Han)"
     url: "/wiki/entities/guantonglatehan/"

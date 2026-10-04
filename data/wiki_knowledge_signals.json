@@ -35335,6 +35335,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/chenbinvascularsurgery/"
     },
+    "ChenBuleWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！ [likOHXFnNYbzG6L-q_DadKJEuJRi].md",
+          "key": "zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/chenbulewesternhan/"
+    },
     "ChenChongLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -90240,6 +90256,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/guanbalatehan/"
     },
+    "GuanGanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！ [likOHXFnNYbzG6L-q_DadKJEuJRi].md",
+          "key": "zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/guanganwesternhan/"
+    },
     "GuanJingLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -93600,6 +93632,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/hanyandirector/"
+    },
+    "HanYannianWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！ [likOHXFnNYbzG6L-q_DadKJEuJRi].md",
+          "key": "zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/hanyannianwesternhan/"
     },
     "HanYanshouWesternHan": {
       "episode_count": 4,
@@ -125540,9 +125588,9 @@
       "url": "/wiki/entities/likashing/"
     },
     "LiLingWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗 [lrvKyakUzpNv77uoq4wkRt7VcUZY].md",
@@ -125564,6 +125612,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！ [likOHXFnNYbzG6L-q_DadKJEuJRi].md",
+          "key": "zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri/"
         }
       ],
       "updated": "2026-10-04",
@@ -208318,6 +208373,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/terrainconstrainedcombinedarms/"
+    },
+    "TerrainFormationForceMultiplication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！ [likOHXFnNYbzG6L-q_DadKJEuJRi].md",
+          "key": "zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/terrainformationforcemultiplication/"
     },
     "TerritorialSlaveryExpansion": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12338
+wiki_total_pages: 12341
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2441,6 +2441,9 @@ wiki_pages:
   - key: "ChenQiaoMutiny"
     title: "陈桥兵变 / Chenqiao Mutiny"
     url: "/wiki/entities/chenqiaomutiny/"
+  - key: "ChenBuleWesternHan"
+    title: "陈步乐 / Chen Bule (Western Han)"
+    url: "/wiki/entities/chenbulewesternhan/"
   - key: "ChenTangWesternHan"
     title: "陈汤 / Chen Tang (Western Han)"
     url: "/wiki/entities/chentangwesternhan/"
