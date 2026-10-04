@@ -29733,3 +29733,11 @@ Added source `zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》372-1｜汉宛战争的背后的历史真相
+
+Added source `zizhi-tongjian-hanji-372-1-hanwan-zhanzheng-de-beihou-de-lishi-zhenxiang-lqbklk0e0cplyuojpvsrx2u4fnyv`; created [[WuguaDayuan|毋寡]]; and resynthesized [[DayuanWesternHan|大宛]] and [[EnvoyKillingTaboo|不斩来使]] from their complete preserved evidence inventories. Core synthesis: the horse exchange escalates through Dayuan refusal, Han envoy abuse and damage to the golden horse, expulsion, interception, killing, and robbery; Dayuan correctly identifies the expedition's logistical barriers but incorrectly treats them as sufficient deterrence, while envoy killing strengthens Han's public rationale without making the later campaigns automatically proportionate. No settled contradiction was adopted. Horse rankings, gold and golden-horse details, envoy origins and conduct, route and mission mortality, Wugua's deliberation, and the Yucheng interception remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten. The downstream manifest and paragraph ledger were refreshed to 3,717-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

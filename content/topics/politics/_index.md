@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3085
+topic_total_pages: 3087
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7883,6 +7883,9 @@ topic_entities:
   - key: "DuanHuizongWesternHan"
     title: "段会宗 / Duan Huizong"
     url: "/wiki/entities/duanhuizongwesternhan/"
+  - key: "WuguaDayuan"
+    title: "毋寡 / Wugua (Dayuan)"
+    url: "/wiki/entities/wuguadayuan/"
   - key: "EmperorMingOfHan"
     title: "汉明帝 / Emperor Ming of Han"
     url: "/wiki/entities/emperormingofhan/"
@@ -9030,6 +9033,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt"
     title: "《资治通鉴·汉纪》371-1｜汉朝第一位魔术师来自非洲？"
     url: "/wiki/sources/zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt/"
+  - key: "zizhi-tongjian-hanji-372-1-hanwan-zhanzheng-de-beihou-de-lishi-zhenxiang-lqbklk0e0cplyuojpvsrx2u4fnyv"
+    title: "《资治通鉴·汉纪》372-1｜汉宛战争的背后的历史真相"
+    url: "/wiki/sources/zizhi-tongjian-hanji-372-1-hanwan-zhanzheng-de-beihou-de-lishi-zhenxiang-lqbklk0e0cplyuojpvsrx2u4fnyv/"
   - key: "zizhi-tongjian-hanji-376-1-lishishang-zhenshi-de-suwu-muyang-shi-shenmeyang-lidxs1d66m5q2hegjteq1lgra5fp"
     title: "《资治通鉴·汉纪》376-1｜历史上真实的苏武牧羊是什么样？"
     url: "/wiki/sources/zizhi-tongjian-hanji-376-1-lishishang-zhenshi-de-suwu-muyang-shi-shenmeyang-lidxs1d66m5q2hegjteq1lgra5fp/"

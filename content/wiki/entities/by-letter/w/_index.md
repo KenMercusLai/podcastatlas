@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12364
+wiki_total_pages: 12365
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1265,6 +1265,9 @@ wiki_pages:
   - key: "WulingManLateHan"
     title: "武陵蛮 / Wuling Man (late Han)"
     url: "/wiki/entities/wulingmanlatehan/"
+  - key: "WuguaDayuan"
+    title: "毋寡 / Wugua (Dayuan)"
+    url: "/wiki/entities/wuguadayuan/"
   - key: "WinsEntertainment"
     title: "永盛 / Win's Entertainment"
     url: "/wiki/entities/winsentertainment/"

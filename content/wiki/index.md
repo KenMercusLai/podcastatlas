@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》372-1｜汉宛战争的背后的历史真相](sources/zizhi-tongjian-hanji-372-1-hanwan-zhanzheng-de-beihou-de-lishi-zhenxiang-lqbklk0e0cplyuojpvsrx2u4fnyv.md) — 求马交易经拒绝、汉使失礼、大宛截杀劫财而升级；大宛准确看见远征后勤障碍，却误判这些障碍足以阻止汉朝报复。
 - [《资治通鉴·汉纪》371-1｜汉朝第一位魔术师来自非洲？](sources/zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt.md) — 安息使者、鸵鸟蛋与“黎轩善眩人”展示表演者和奇物如何进入外交交换，汉武帝则以巡游、宴饮、仓储和角抵百戏把国家能力转化为对外可见的政治表演。
 - [《资治通鉴·汉纪》370-2｜爷爷把娇妻嫁给亲孙子，奶奶一夜变媳妇儿？](sources/zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp.md) — 刘细君在汉—乌孙—匈奴联姻竞争中被迫依乌孙继承习俗改嫁军须靡，显示联盟收益如何把语言隔阂、伦理冲突和婚姻选择成本转嫁给和亲公主。
 - [《资治通鉴·汉纪》372-2｜汉宛战争，你以为汉武帝让大舅子领兵那么单纯？](sources/zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh.md) — 汉武帝以大宛远征为李广利制造军功与封侯名义，司马光据此批评用程序外观包装私恩任将；王温舒之死与关东蝗灾补出酷吏和民生代价。
@@ -3781,6 +3782,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [毋寡 / Wugua (Dayuan)](entities/WuguaDayuan.md) — 大宛国王，其后勤判断部分准确，但阻止汉朝报复的威慑判断失败，并在围城议和时被贵族杀死。
 - [刘细君 / Princess Liu Xijun](entities/LiuXijunPrincessWesternHan.md) — Western Han princess whose objection to succession-linked remarriage in Wusun is overridden by Han's anti-Xiongnu strategy.
 - [猎骄靡 / Liejiaomi](entities/LiejiaomiWusun.md) — Elderly Wusun ruler who balances Han and Xiongnu brides and carries the Han alliance into his grandson's succession.
 - [军须靡 / Junxumi](entities/JunxumiWusun.md) — Wusun successor who marries Liu Xijun and later Princess Xieyou, linking two Han marriage missions.

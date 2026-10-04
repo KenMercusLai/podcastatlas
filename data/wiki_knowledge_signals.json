@@ -52707,9 +52707,9 @@
       "url": "/wiki/entities/daymondjohn/"
     },
     "DayuanWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？ [lmFZkLlEJz3M0vanMNu7GYxtWbUl].md",
@@ -52752,6 +52752,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》372-2｜汉宛战争，你以为汉武帝让大舅子领兵那么单纯？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》372-1｜汉宛战争的背后的历史真相 [lqbkLK0e0cpLYuojpvsrX2U4FNyv].md",
+          "key": "zizhi-tongjian-hanji-372-1-hanwan-zhanzheng-de-beihou-de-lishi-zhenxiang-lqbklk0e0cplyuojpvsrx2u4fnyv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》372-1｜汉宛战争的背后的历史真相",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-372-1-hanwan-zhanzheng-de-beihou-de-lishi-zhenxiang-lqbklk0e0cplyuojpvsrx2u4fnyv/"
         }
       ],
       "updated": "2026-10-05",
@@ -68840,6 +68847,43 @@
       ],
       "updated": "2026-08-24",
       "url": "/wiki/concepts/environmentaltradeoffaccounting/"
+    },
+    "EnvoyKillingTaboo": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》158｜口才好的天花板，一人顶百万大军 [lnUp_Vmw_ff-NQmuh6-x8SI0k8zU].md",
+          "key": "zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》158｜口才好的天花板，一人顶百万大军",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-158-koucai-hao-de-tianhuaban-yiren-ding-baiwan-dajun-lnup-vmw-ff-nqmuh6-x8si0k8zu/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判 [ljXxLOK4uh_aJJIRmoLYBOdlSpV9].md",
+          "key": "zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》53丨秦惠王用张仪换地皮 [lvmO2cwbafCG2gnXLIuO18feWImK].md",
+          "key": "zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》53丨秦惠王用张仪换地皮",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》372-1｜汉宛战争的背后的历史真相 [lqbkLK0e0cpLYuojpvsrX2U4FNyv].md",
+          "key": "zizhi-tongjian-hanji-372-1-hanwan-zhanzheng-de-beihou-de-lishi-zhenxiang-lqbklk0e0cplyuojpvsrx2u4fnyv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》372-1｜汉宛战争的背后的历史真相",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-372-1-hanwan-zhanzheng-de-beihou-de-lishi-zhenxiang-lqbklk0e0cplyuojpvsrx2u4fnyv/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/envoykillingtaboo/"
     },
     "EoinMacNeill": {
       "episode_count": 1,
@@ -229597,6 +229641,29 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/concepts/wugupoliticalpanic/"
+    },
+    "WuguaDayuan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？ [lmFZkLlEJz3M0vanMNu7GYxtWbUl].md",
+          "key": "zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》372-1｜汉宛战争的背后的历史真相 [lqbkLK0e0cpLYuojpvsrX2U4FNyv].md",
+          "key": "zizhi-tongjian-hanji-372-1-hanwan-zhanzheng-de-beihou-de-lishi-zhenxiang-lqbklk0e0cplyuojpvsrx2u4fnyv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》372-1｜汉宛战争的背后的历史真相",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-372-1-hanwan-zhanzheng-de-beihou-de-lishi-zhenxiang-lqbklk0e0cplyuojpvsrx2u4fnyv/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/wuguadayuan/"
     },
     "WuhanThreeTowns": {
       "episode_count": 1,
