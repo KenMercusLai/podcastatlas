@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-04] ingest | 《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？
+
+Added source `zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0`; and resynthesized [[LiLingWesternHan|李陵]], [[GongsunAoWesternHan|公孙敖]], [[LiXuWesternHan|李绪]], [[LiuBoChangyiKingWesternHan|昌邑王刘髆]], and [[DesireCapacityFit|欲望与能力匹配]] from their complete preserved evidence inventories. Core synthesis: an attempted repair of Li Ling's surrender becomes irreversible family destruction when Gongsun Ao's failed search produces a report that the episode later attributes to Li Xu; Li Ling's revenge and Xiongnu incorporation deepen the failed-return logic, while Gongsun Ao's repeated command and punishment become a source-scoped case of ambition outrunning capacity and self-knowledge. No settled contradiction was adopted. The episode summary's “李旭” is normalized to the existing “李绪 / Li Xu” identity, while the intelligence chain, punishment procedure, Xiongnu titles, career chronology, and modern lesson remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten because Hanji 380-1 already carries the global Li Ling setup and this episode deepens that bounded branch. Downstream synthesis and publish validation were then refreshed.
+
 ## [2026-10-04] ingest | OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595`; created [[DeniseDresser|Denise Dresser]] and [[NewbirdAI|Newbird AI]]; and resynthesized [[OpenAIComputeStrategy]], [[EnterpriseAIROIAudit]], and [[DataCenterBacklash]] from their complete preserved evidence inventories. Core synthesis: OpenAI-Anthropic competition is constrained by focus, enterprise monetization, hyperscaler dependence, physical compute, local legitimacy, and the still-unproven bridge from model-layer demand to scaled enterprise profit. No settled contradiction was adopted. Company revenue, valuations, leaked-memo details, Newbird transactions, housing-tax details, market interpretations, Iran-conflict expectations, congressional-trading claims, and unproven allegations about Eric Swalwell remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and will be left unchanged by the downstream synthesis refresh.
@@ -29521,6 +29525,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] ingest | 《资治通鉴·汉纪》380-3｜古代男子宫刑过程揭秘
 
 Added source `zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9`; migrated and resynthesized [[SimaQian|司马迁]] from its complete 20-source evidence inventory; and extended [[CastrationCoercionAndMobility]] with punitive castration as bodily injury, humiliation, lineage control, and constrained survival for authorship rather than office. Core synthesis: Sima Qian's decision to endure punishment so he could finish [[Shiji|《史记》]] preserves agency without making the violence voluntary or benign. No settled contradiction was adopted. The exact operation, age, hemostasis, analgesia, aromatics, “蚕室” origin, and the claim that trauma caused particular judgments of Wei Qing and Huo Qubing remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest, then only read by downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,690-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-04] lint | Wiki health check
 

@@ -6,6 +6,7 @@ sources:
   - shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql
   - zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn
   - zizhi-tongjian-hanji-393-2-yanwang-liudan-moufan-shibai-dui-hunzhichang-yousha-qishi-lqwzkgdj9ozmwb7r97l4ts2tjx_s
+  - zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ The Western Han diplomacy case adds a statecraft analogy. [[WangGenWesternHan|�
 
 A more destructive political case appears when [[LiuDanYanKingWesternHan|燕王刘旦]] treats senior lineage and personal desire as proof of imperial fitness despite weak judgment and organization. He relies on fabricated authorization, exaggerated support claims, legitimacy propaganda, badly contained planning, and the removal of internal correction through killing remonstrators. Here mismatch is not only overreaching toward a goal; it is a leader's refusal to update when capacity, evidence, and feedback contradict self-entitlement. [[zizhi-tongjian-hanji-393-2-yanwang-liudan-moufan-shibai-dui-hunzhichang-yousha-qishi-lqwzkgdj9ozmwb7r97l4ts2tjx_s|Hanji 393-2]]
 
+A career-repetition case comes from [[GongsunAoWesternHan|公孙敖]]. [[zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0|Hanji 380-2]] compresses repeated generalships, defeats, death sentences, escape, restoration, and final clan destruction into the host's claim that he wanted rank beyond his ability. The useful synthesis is narrower than that verdict: repeated survival and renewed opportunity do not by themselves demonstrate role fit, and self-knowledge includes learning from recurring failure before the stakes become irreversible. Because the episode does not fully assess command conditions or institutional incentives, “insufficient ability” remains an attributed interpretation rather than a settled diagnosis.
+
 ## Key Claims
 - Psychological steadiness can require reducing desire rather than only increasing willpower.
 - A good goal must fit ability, personality, growth history, family environment, role, and current pressure.
@@ -41,11 +44,13 @@ A more destructive political case appears when [[LiuDanYanKingWesternHan|燕王�
 - High-pressure cases - [[shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql]] recounts students, a professor, and an older patient whose stress, fixation, or despair escalated into severe outcomes.
 - Political desire boundary - [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn|Hanji 554]] uses Wang Gen's fame temptation and Xiahou Fan's mishandled land-demand mission to show desire outrunning capacity, authorization boundary, and judgment.
 - Self-entitlement and correction failure - [[zizhi-tongjian-hanji-393-2-yanwang-liudan-moufan-shibai-dui-hunzhichang-yousha-qishi-lqwzkgdj9ozmwb7r97l4ts2tjx_s|Hanji 393-2]] says Liu Dan pursues the throne through invented authority, propaganda, military preparation, and the execution of fifteen remonstrators before the exposed plan fails.
+- Repeated opportunity without demonstrated fit - [[zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0|Hanji 380-2]] uses Gongsun Ao's recurring commands, convictions, escape, restoration, and final destruction to argue that ambition remained stronger than accurate self-assessment.
 
 ## Counterevidence & Qualifications
-Lowering desire can become harmful if it is used to excuse coercion, deprivation, learned helplessness, untreated illness, discrimination, or institutional abandonment. The sources' useful boundary is fit and self-protection, not telling people to accept every constraint as natural. Hanji 554 does not prove that all territorial or career ambition is wrong, and Hanji 393-2 is a royal-rebellion extreme rather than an ordinary workplace model. Their narrower shared claim is that ambition without capacity, proportion, feedback, and a stopping point can turn opportunity into humiliation or destruction.
+Lowering desire can become harmful if it is used to excuse coercion, deprivation, learned helplessness, untreated illness, discrimination, or institutional abandonment. The sources' useful boundary is fit and self-protection, not telling people to accept every constraint as natural. Hanji 554 does not prove that all territorial or career ambition is wrong, Hanji 393-2 is a royal-rebellion extreme rather than an ordinary workplace model, and Hanji 380-2 does not independently prove that Gongsun Ao's failures came mainly from low ability rather than campaign conditions, court incentives, or retrospective moral framing. Their narrower shared claim is that ambition without capacity, proportion, feedback, learning, and a stopping point can turn opportunity into humiliation or destruction.
 
 ## What Changed
+- Added Hanji 380-2's repetition case: renewed opportunity does not demonstrate fit when recurring outcomes keep exposing the same gap, while the host's judgment of Gongsun Ao's ability remains source-scoped.
 - Added Hanji 393-2's political extreme: Liu Dan's entitlement outruns judgment while killing remonstrators removes the feedback needed to recognize the mismatch.
 - Added Hanji 554's historical analogy: a Xiongnu land-demand probe shows desire for fame and gain outrunning capacity, role boundary, and diplomatic judgment.
 - Preserved the original clinical/life-design frame from the episode's "安定此心" discussion of desire, capacity, pressure, and self-protection.

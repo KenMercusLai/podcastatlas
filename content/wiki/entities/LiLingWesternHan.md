@@ -6,54 +6,56 @@ tags: [person, western-han, xiongnu, surrender, loyalty]
 sources:
   - zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy
   - zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89
-last_updated: 2026-09-15
+  - zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0
+last_updated: 2026-10-04
 ---
 
 ## Overview
 
-李陵 / Li Ling enters the wiki as a Western Han officer whose surrender to [[Xiongnu|匈奴]] becomes morally intelligible only when his campaign, family reputation, and later family destruction are kept together. [[zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89|Hanji 380-1]] supplies the origin layer: Li Ling is [[LiGuangHanGeneral|李广]]'s grandson and a fatherless posthumous son who actively seeks frontier service, fights a much larger Xiongnu force with five thousand infantry, is defeated and captured near Junji Mountain, and later becomes the object of sympathy after mistaken blame and family extermination. [[zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy|Hanji 398]] then shows the afterlife of that surrender when Xiongnu sends him to persuade [[SuWuWesternHan|苏武]] to submit.
+李陵 / Li Ling is a Western Han officer whose surrender to [[Xiongnu|匈奴]] becomes an expanding tragedy rather than a single loyalty judgment. His inherited reputation as [[LiGuangHanGeneral|李广]]'s grandson, isolated infantry defeat, mistaken attribution, family destruction, Xiongnu incorporation, and later encounter with [[SuWuWesternHan|苏武]] together explain why the sources present him as compromised, aggrieved, and morally self-aware rather than as a flat defector.
 
 ## Current Profile
 
-The sources present Li Ling as morally compromised but not emotionally flat. Hanji 380-1 stresses why the later stigma is unstable: his surrender follows isolated infantry combat against an overwhelming Xiongnu opponent, and the later destruction of his mother, wife, and household comes after he is blamed for a Li Xu-related event that the source presents as a black mark falling on the wrong person. The episode also places the campaign inside [[HanWudi|汉武帝]]'s strained anti-Xiongnu war system, where liquor monopoly finance, drought, frontier fear, and large but inconclusive multi-route expeditions form the background.
+[[zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89|Hanji 380-1]] supplies Li Ling's origin and battlefield layer: a fatherless posthumous son of the Li military lineage, he seeks frontier service, fights a much larger Xiongnu force with five thousand infantry, and surrenders after defeat and capture. The wider setting is [[HanWudi|汉武帝]]'s exhausted anti-Xiongnu system of costly multi-route campaigns, drought, frontier fear, and monopoly finance.
 
-Hanji 398 then turns Li Ling's surrender into a persuasion and self-judgment scene. He initially avoids seeing Su Wu because his own surrender makes the meeting shameful. When ordered by the chanyu to persuade Su Wu, he uses arguments that would have real force for a captive: Chang'an is unreachable, invisible loyalty may have no audience, Su Wu's family has been shattered, and Han Wudi's late politics could destroy innocent officials and families.
+[[zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0|Hanji 380-2]] makes the later rupture concrete. Wudi reportedly tries to retrieve Li Ling, but [[GongsunAoWesternHan|公孙敖]] returns without him and relays captive testimony that Li Ling is training Xiongnu soldiers and making weapons. The episode says the trainer was actually [[LiXuWesternHan|李绪]]; by the time the error is clear, Li Ling's mother, wife, and family have been killed. Li Ling has Li Xu killed, survives the hostility of the chanyu's mother through the chanyu's protection, and receives marriage, rank, and military authority inside the Xiongnu order.
 
-Li Ling's tragedy is that he understands both sides of the argument. Su Wu's refusal moves him enough that he calls Su Wu a righteous man and compares his own and Wei Lü's guilt unfavorably. Later, when Su Wu is about to return, Li Ling says he might have repaid Han if his family had been spared, but after clan destruction he sees return as a second humiliation. His profile is therefore failed return under shame and grievance rather than simple opportunism.
+[[zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy|Hanji 398]] shows the moral afterlife. Li Ling reluctantly tries to persuade Su Wu to surrender by invoking isolation, invisible loyalty, family disaster, and Wudi-era political danger. Su Wu's refusal moves him to acknowledge Su's righteousness and his own guilt. When return later becomes possible, Li Ling says family destruction has made renewed submission another humiliation; his non-return is therefore shaped by grievance, shame, and irreversible political incorporation as well as his original surrender.
 
 ## Key Characteristics
 
-- Li Guang's grandson and posthumous son whose inherited military reputation sharpens the pressure around surrender.
-- Active frontier volunteer whose five-thousand-infantry campaign ends in defeat, capture, and surrender to Xiongnu.
-- Former Han peer of Su Wu who later becomes Xiongnu's reluctant persuader because of their old relationship.
-- Makes a realistic surrender argument grounded in isolation, family loss, and Han Wudi-era political danger.
-- Recognizes Su Wu's righteousness when persuasion fails and openly contrasts Su Wu's integrity with his own guilt.
-- Later frames his own non-return around family destruction, shame, and refusal to suffer renewed humiliation.
-- Functions as the episode's tragic counterpoint to Su Wu's uninterrupted loyalty.
+- Li Guang's grandson and posthumous son, carrying inherited military reputation into frontier service.
+- Infantry commander whose defeat, capture, and surrender begin the tragedy rather than exhaust its meaning.
+- Victim of an episode-attributed misidentification that turns attempted retrieval into the execution of his family.
+- Retaliator who has Li Xu killed after learning who supplied the conduct wrongly attributed to him.
+- Xiongnu elite insider through the chanyu's protection, marital tie, rank, and military authority.
+- Morally self-aware persuader who recognizes Su Wu's loyalty while judging his own return foreclosed by guilt and humiliation.
+- Tragic counterpoint to Su Wu's uninterrupted loyalty rather than a simple opportunist.
 
 ## Evidence
 
-- Family and campaign origin: [[zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89|Hanji 380-1]] says Li Ling is Li Guang's grandson, loses his father before birth, actively seeks anti-Xiongnu service, and fights with five thousand infantry before defeat and capture.
-- Surrender-tragedy frame: [[zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89|Hanji 380-1]] says Li Ling surrenders to Xiongnu, is later blamed in a Li Xu-related event, and suffers family destruction including his mother and wife.
-- Persuasion role: [[zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy|Hanji 398]] says Li Ling and Su Wu had both been attendants in Han, that Li Ling is ashamed to see Su Wu after surrendering, and that the chanyu sends him because of their old relationship.
-- Moral reaction: [[zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy|Hanji 398]] says Li Ling cites Su Wu's hopeless situation and family losses, but after Su Wu refuses, Li Ling calls him a righteous man and says his own and Wei Lü's guilt is greater than the sky.
-- Failed return: [[zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy|Hanji 398]] says Li Ling congratulates Su Wu on returning and later refuses Huo Guang and Shangguan Jie's attempt to draw him back because a great man cannot be humiliated again.
+- Lineage and battlefield origin: [[zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89|Hanji 380-1]] says Li Ling is Li Guang's grandson, loses his father before birth, seeks anti-Xiongnu service, and fights with five thousand infantry before defeat and capture.
+- Mistaken blame and family destruction: [[zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0|Hanji 380-2]] says Wudi sends Gongsun Ao to retrieve Li Ling, then kills Li Ling's family after hearing that he trains Xiongnu forces; the episode later identifies Li Xu as the trainer.
+- Revenge and Xiongnu incorporation: [[zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0|Hanji 380-2]] says Li Ling has Li Xu killed and is protected, married into the chanyu's family, and given rank and military power.
+- Persuasion and moral recognition: [[zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy|Hanji 398]] says Li Ling invokes Su Wu's isolation and family losses but calls him righteous after he refuses to surrender.
+- Failed return: [[zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy|Hanji 398]] says Li Ling congratulates Su Wu on returning and later rejects an attempt to draw him back because he will not accept renewed humiliation.
 
 ## Qualifications
 
-This page is bounded to Hanji 380-1 and Hanji 398 and does not reconstruct Li Ling's full campaign, surrender circumstances, family punishment procedure, later Xiongnu life, poetry attributed to him, or broader historiographical debate. Hanji 380-1 previews the Li Xu blame event and clan disaster without giving the full case; Hanji 398 preserves Li Ling as a tragic contrast to Su Wu, not as a complete legal or military evaluation.
+These three podcast sources do not settle Li Ling's complete campaign, surrender intent, the captive-intelligence chain, legal procedure for killing his family, exact Xiongnu title, inner motives, poetry attributed to him, or the broader historiographical debate. Hanji 380-2's supplied summary writes “李旭,” while the wiki normalizes that figure to the received-history [[LiXuWesternHan|李绪 / Li Xu]] identity. The page preserves the episodes' tragic synthesis without treating every dialogue, motive, or court detail as independently verified.
 
 ## What Changed
 
-- Added Hanji 380-1's origin and campaign layer: Li Guang family background, active frontier service, isolated infantry defeat, surrender, later mistaken blame, and family destruction.
-- Preserved Hanji 398's Su Wu persuasion scene, farewell, and failed-return branch as the later moral afterlife of that surrender.
+- Resolved Hanji 380-1's previewed blame branch through Hanji 380-2's attempted retrieval, mistaken attribution to Li Ling, and family destruction.
+- Added Li Ling's revenge against Li Xu and his protected, militarily empowered position inside Xiongnu elite power.
+- Tightened the link between family destruction in Hanji 380-2 and Li Ling's shame- and grievance-based refusal to return in Hanji 398.
 
 ## Relationships
 
-- [[SuWuWesternHan|苏武]] - old Han peer whose refusal exposes Li Ling's shame and moral loss.
-- [[LiGuangHanGeneral|李广]] - grandfather whose military reputation forms Li Ling's inherited identity background.
-- [[Xiongnu|匈奴]] - receiving power after Li Ling's surrender and the power that sends him to persuade Su Wu.
-- [[HanWudi|汉武帝]] - ruler whose late punishments form part of Li Ling's persuasion logic and personal grievance field.
-- [[LiXuWesternHan|李绪]] - source-scoped blame-transfer figure tied to the family-destruction prelude in Hanji 380-1.
-- [[HuoGuangWesternHan|霍光]] - later regent who tries to draw Li Ling back to Han in the episode's account.
-- [[ExileLoyaltyThroughRitualToken|持节守节式流亡忠诚]] - contrast concept because Li Ling understands Su Wu's loyalty but cannot replicate it.
+- [[SuWuWesternHan|苏武]] - old Han peer whose refusal exposes Li Ling's guilt and makes him the tragic loyalty contrast.
+- [[LiGuangHanGeneral|李广]] - grandfather whose military reputation forms Li Ling's inherited identity burden.
+- [[Xiongnu|匈奴]] - receiving polity that converts Li Ling from captive and surrenderer into an elite military insider.
+- [[HanWudi|汉武帝]] - ruler whose attempted repair reverses into irreversible family punishment after reported intelligence.
+- [[GongsunAoWesternHan|公孙敖]] - search commander whose failed mission and report trigger the episode's punishment chain.
+- [[LiXuWesternHan|李绪]] - officer identified as the actual trainer and later killed in Li Ling's retaliation.
+- [[ExileLoyaltyThroughRitualToken|持节守节式流亡忠诚]] - contrast concept embodied by Su Wu and recognized but not replicated by Li Ling.

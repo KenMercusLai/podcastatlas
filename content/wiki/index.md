@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？](sources/zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0.md) — 公孙敖寻李陵失败后的误报引发李陵家族覆灭，李绪误认与复仇补全悲剧链条，并以公孙敖生涯讨论欲望与能力失配。
 - [《资治通鉴·汉纪》380-3｜古代男子宫刑过程揭秘](sources/zizhi-tongjian-hanji-380-3-gudai-nanzi-gongxing-guocheng-jiemi-loymefh4uyibxz0e765f6gehk6u9.md) — 芮淇讲透资治通鉴 episode on Sima Qian's punitive castration, shame, constrained survival for Shiji, and source-scoped medical explanations.
 - [《资治通鉴·汉纪》393-2｜燕王刘旦谋反失败，对混职场有啥启示？](sources/zizhi-tongjian-hanji-393-2-yanwang-liudan-moufan-shibai-dui-hunzhichang-yousha-qishi-lqwzkgdj9ozmwb7r97l4ts2tjx_s.md) — 刘旦早期谋反通过伪诏、昭帝身世攻击、备兵与杀谏推进，却因刘成告密被隽不疑提前截断，刘旦获赦而刘泽等人被诛。
 - [OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out](sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595.md) — All-In on OpenAI-Anthropic strategy, compute dependence, data-center legitimacy, enterprise AI ROI, housing taxes, market risk, and source-scoped political claims.
@@ -5565,7 +5566,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [敬城王 / Jingcheng Wang](entities/JingchengWangMing.md) — Ming royal-family example for imperial-clan population expansion and tax-funded stipend burden.
 - [李广利 / Li Guangli (Western Han)](entities/LiGuangliWesternHan.md) — Western Han general whose failed Xiongnu expedition and later sacrificial death frame Han Wudi's Luntai self-criticism in Hanji 389-2.
 - [刘屈氂 / Liu Quli (Western Han)](entities/LiuQuliWesternHan.md) — Late Western Han chancellor ordered to suppress Liu Ju in the Wugu crisis before later in-law succession plotting with Li Guangli around Liu Bo destroys him.
-- [昌邑王刘髆 / Liu Bo, King of Changyi (Western Han)](entities/LiuBoChangyiKingWesternHan.md) — Han Wudi son and Lady Li's child whose possible crown-prince elevation anchors Li Guangli and Liu Quli's succession-risk branch.
+- [昌邑王刘髆 / Liu Bo, King of Changyi (Western Han)](entities/LiuBoChangyiKingWesternHan.md) — Han Wudi and Lady Li's son, enfeoffed in 97 BCE before becoming the passive succession candidate around whom Li Guangli and Liu Quli align.
 - [李夫人 / Lady Li (Western Han)](entities/LadyLiWesternHan.md) — Han Wudi consort, Li Guangli's sister, and Liu Bo's mother in Hanji 388-1's succession-risk chain.
 - [商丘成 / Shangqiu Cheng (Western Han)](entities/ShangqiuChengWesternHan.md) — Secondary commander in Han Wudi's 90 BCE anti-Xiongnu expedition whose Xihe route fails to find the enemy.
 - [赵过 / Zhao Guo (Western Han)](entities/ZhaoGuoWesternHan.md) — Agricultural official used by Hanji 389-2 to show post-Luntai recovery policy through farming technique, tools, and practical livelihood talent.
@@ -5633,11 +5634,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [常惠 / Chang Hui (Western Han)](entities/ChangHuiWesternHan.md) — Western Han envoy-commander linking Xieyou's Wusun appeal, Wusun's anti-Xiongnu strike, Cheshi extraction, and Liu Xiangfu's recall.
 - [苏武 / Su Wu (Western Han)](entities/SuWuWesternHan.md) — Western Han envoy whose Xiongnu exile, staff-holding refusal, mourning, and return define Hanji 398's loyalty case.
 - [李广 / Li Guang (Western Han general)](entities/LiGuangHanGeneral.md) — Famous Western Han general whose family reputation frames Li Ling's surrender tragedy in Hanji 380-1.
-- [李陵 / Li Ling (Western Han)](entities/LiLingWesternHan.md) — Surrendered former Han officer whose Li Guang lineage, infantry defeat, family destruction, and later failed persuasion of Su Wu make him a tragic contrast rather than a flat defector.
+- [李陵 / Li Ling (Western Han)](entities/LiLingWesternHan.md) — Surrendered former Han officer whose Li Guang lineage, mistaken blame, family destruction, Xiongnu incorporation, and later encounter with Su Wu make him a tragic contrast rather than a flat defector.
 - [路博德 / Lu Bode (Western Han)](entities/LuBodeWesternHan.md) — Qiangnu Duwei assigned to join Li Guangli's anti-Xiongnu expedition in Hanji 380-1.
 - [韩说 / Han Shuo (Western Han)](entities/HanShuoWesternHan.md) — Youji General whose Wuyuan infantry force returns without achievement in Hanji 380-1's anti-Xiongnu campaign.
-- [公孙敖 / Gongsun Ao (Western Han)](entities/GongsunAoWesternHan.md) — Yinwu General defeated by the Xiongnu Left Worthy King during Hanji 380-1's campaign context.
-- [李绪 / Li Xu (Western Han)](entities/LiXuWesternHan.md) — Source-scoped blame-transfer figure tied to Li Ling's later family-destruction tragedy.
+- [公孙敖 / Gongsun Ao (Western Han)](entities/GongsunAoWesternHan.md) — Repeatedly appointed Western Han general whose failed Li Ling search, consequential report, recurring convictions, and final destruction form Hanji 380-2's second tragedy.
+- [李绪 / Li Xu (Western Han)](entities/LiXuWesternHan.md) — Surrendered officer identified as the actual Xiongnu trainer behind the accusation placed on Li Ling and later killed in Li Ling's retaliation.
 - [Ming Dynasty / 明朝](entities/MingDynasty.md) — Dynasty used by Hanji 422-2 as the institutionalized tribute-economy case around贡物 pricing,回赐, hosted reception, and tribute access conflict.
 - [朱元璋 / Zhu Yuanzhang](entities/ZhuYuanzhang.md) — Founding Ming ruler used by Hanji 400-2 to show household, occupation, clothing, and everyday object rules as social-order statecraft.
 - [Qing Dynasty / 清朝](entities/QingDynasty.md) — Dynasty used by Hanji 422-2 as the treaty-era case where inherited tribute hierarchy collides with resident-envoy diplomacy.
@@ -18600,7 +18601,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Serious Mental Illness Family Care Boundary / 重性精神障碍家属照护边界](concepts/SeriousMentalIllnessFamilyCareBoundary.md) — Family-care boundary separating treatment support and safety from guilt-driven unlimited sacrifice.
 - [Mental Illness Destigmatization / 精神疾病去污名化](concepts/MentalIllnessDestigmatization.md) — Anti-shame frame for treating psychiatric disorders as illnesses while preserving risk, treatment, privacy, and diagnostic boundaries.
 - [Somatization As Body Alarm / 躯体化作为身体报警](concepts/SomatizationAsBodyAlarm.md) — Body-emotion frame for distress appearing as physical symptoms while still requiring medical exclusion and clinical judgment.
-- [Desire-Capacity Fit / 欲望与能力匹配](concepts/DesireCapacityFit.md) — Principle that sustainable desire must fit ability, role, pressure, leverage, feedback, and the capacity to stop.
+- [Desire-Capacity Fit / 欲望与能力匹配](concepts/DesireCapacityFit.md) — Principle that sustainable desire must fit ability, role, pressure, leverage, feedback, learning from repeated outcomes, and the capacity to stop.
 - [Adolescent School-Refusal Mental Health / 青少年厌学休学心理困境](concepts/AdolescentSchoolRefusalMentalHealth.md) — Youth mental-health frame for school refusal as a family, education, symptom, development, and care-system problem.
 - [China Psychiatric Workforce Gap / 中国精神卫生人才缺口](concepts/ChinaPsychiatricWorkforceGap.md) — Workforce-capacity gap between large mental-health demand and limited psychiatrists, therapists, and community support.
 - [Psychiatry-Psychotherapy Collaboration / 精神科与心理治疗协作](concepts/PsychiatryPsychotherapyCollaboration.md) — Care-role boundary and referral relationship among psychiatry, psychotherapy, counseling, family treatment, and ordinary support.

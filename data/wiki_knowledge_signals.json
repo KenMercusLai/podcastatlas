@@ -54758,9 +54758,9 @@
       "url": "/wiki/concepts/desirabledifficulty/"
     },
     "DesireCapacityFit": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -54782,6 +54782,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》393-2｜燕王刘旦谋反失败，对混职场有啥启示？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-393-2-yanwang-liudan-moufan-shibai-dui-hunzhichang-yousha-qishi-lqwzkgdj9ozmwb7r97l4ts2tjx_s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？ [lmTnhwjSyzlSFWPZcw18lUbBauu0].md",
+          "key": "zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0/"
         }
       ],
       "updated": "2026-10-04",
@@ -87804,9 +87811,9 @@
       "url": "/wiki/entities/gongfuxiong/"
     },
     "GongsunAoWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -87814,9 +87821,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？ [lmTnhwjSyzlSFWPZcw18lUbBauu0].md",
+          "key": "zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/gongsunaowesternhan/"
     },
     "GongsunHeWesternHan": {
@@ -125370,9 +125384,9 @@
       "url": "/wiki/entities/likashing/"
     },
     "LiLingWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗 [lrvKyakUzpNv77uoq4wkRt7VcUZY].md",
@@ -125387,9 +125401,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？ [lmTnhwjSyzlSFWPZcw18lUbBauu0].md",
+          "key": "zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/lilingwesternhan/"
     },
     "LiLongjiTang": {
@@ -125703,9 +125724,9 @@
       "url": "/wiki/entities/lixielatehan/"
     },
     "LiXuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -125713,9 +125734,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？ [lmTnhwjSyzlSFWPZcw18lUbBauu0].md",
+          "key": "zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/lixuwesternhan/"
     },
     "LiXunFloodControlWesternHan": {
@@ -128090,9 +128118,9 @@
       "url": "/wiki/entities/liubijiangwesternhan/"
     },
     "LiuBoChangyiKingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》388-1｜杀妻杀子之后，汉武帝为何族灭大舅子李广利？ [lkkwPIvPwqPeg5kd7aZU-wMDQmGB].md",
@@ -128100,9 +128128,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》388-1｜杀妻杀子之后，汉武帝为何族灭大舅子李广利？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-388-1-shaqi-shazi-zhihou-hanwudi-weihe-zumie-dajiuzi-liguangli-lkkwpivpwqpeg5kd7azu-wmdqmgb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？ [lmTnhwjSyzlSFWPZcw18lUbBauu0].md",
+          "key": "zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》380-2｜李陵三代忠良，为何一代比一代惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-380-2-liling-sandai-zhongliang-weihe-yidai-bi-yidai-can-lmtnhwjsyzlsfwpzcw18lubbauu0/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/liubochangyikingwesternhan/"
     },
     "LiuCangDongpingKing": {
