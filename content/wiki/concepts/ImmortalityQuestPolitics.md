@@ -13,6 +13,7 @@ sources:
   - 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997
   - zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg
   - zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje
+  - zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x
 knowledge_schema: synthesis-v1
 last_updated: 2026-10-05
 ---
@@ -27,7 +28,7 @@ The current evidence shows a recurring conversion chain. Public sacred ritual op
 
 The Qin sequence begins with [[FengshanRitualLegitimacy|fengshan]] and Yan-Qi fangshi, moves through [[XuFu|徐福]]'s [[Penglai|蓬莱]] expedition, and then follows [[LuSheng|卢生]] from failed immortal brokerage into “亡秦者胡,” hidden residence, and coercive secrecy. When miracle promises remain unmet, practitioner flight and imperial anger feed the [[QinKengruIncident|坑儒 incident]]. The late omen branch adds a further shift: divination and the last tour become possible attempts to counter foretold death, although motive remains an evidence-bound reconstruction.
 
-The Han material shows the same mechanism without simply repeating the Qin outcome. Hanji 361-1 presents thousands of maritime claimants, extra ships, a giant-footprint report, a vanished-elder story, and further dispatches under [[HanWudi|汉武帝]]. Hanji 364-1 shows [[GongsunQingFangshi|公孙卿]] converting a claim about immortals preferring height into towers, platforms, equipment, and organized waiting. The wider fangshu survey adds spirit-summoning, expense, later disillusionment, and the distinct but adjacent [[WuguPoliticalPanic|巫蛊]] catastrophe.
+The Han material shows the same mechanism without simply repeating the Qin outcome. Hanji 361-1 presents thousands of maritime claimants, extra ships, a giant-footprint report, a vanished-elder story, and further dispatches under [[HanWudi|汉武帝]]. Hanji 361-2 then supplies a partial brake: fangshi confidence renews Wudi's desire to sail for [[Penglai|蓬莱]], but [[DongfangShuo|东方朔]] argues from inside the belief that destiny, not haste, governs divine encounter, and the emperor abandons the voyage. Hanji 364-1 shows [[GongsunQingFangshi|公孙卿]] converting a claim about immortals preferring height into towers, platforms, equipment, and organized waiting. The wider fangshu survey adds spirit-summoning, expense, later disillusionment, and the distinct but adjacent [[WuguPoliticalPanic|巫蛊]] catastrophe.
 
 ## Key Claims
 
@@ -37,7 +38,7 @@ The Han material shows the same mechanism without simply repeating the Qin outco
 - Secrecy prescribed for divine access can magnify coercion and collapse feedback about failure.
 - Failed promises create an accountability trap in which practitioners flee and retaliation spreads beyond them.
 - Death omens and bereavement narratives make mortality anxiety a plausible interpretive driver, but individual motive remains source-scoped.
-- Across Qin and Han, sacred access mixes psychological relief, technical or ritual knowledge, political theater, fraud risk, and escalating public cost.
+- Across Qin and Han, sacred access mixes psychological relief, technical or ritual knowledge, political theater, fraud risk, and escalating public cost, while premise-preserving counsel can interrupt a specific escalation without requiring the ruler to renounce the underlying belief.
 
 ## Evidence
 
@@ -47,18 +48,17 @@ The Han material shows the same mechanism without simply repeating the Qin outco
 - Omen to mobility: [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe|Qinji 126 part 1]] reports the meteor, Mars omen, returned jade bi, and “祖龙死”; [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca|part 2]] turns “游徙吉” into northern household movement and a final tour, while treating fate-changing motive and 北河/河北 readings as source-critical rather than certain.
 - Comparative Han frame: [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] surveys divination, yin-yang and five phases, Qin-Han fangshi, Han Wudi's platforms and spirit-summoning, [[LiuAn|刘安]]'s technical compilation, and wugu violence. Its “迷信可存，伪士当去” formula distinguishes private belief from predatory court authority.
 - Western Han mass search and evidence asymmetry: [[zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje|Hanji 361-1]] says Wudi adds ships and sends thousands toward Penglai, doubts the reported giant footprint, yet accepts a vanished-elder story as divine and dispatches thousands more.
+- Internal brake on escalation: [[zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x|Hanji 361-2]] says Dongfang Shuo preserves the possibility of immortals but denies that a personal voyage can force destiny, after which Wudi gives up sailing.
 - Architecture as awaited access: [[zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg|Hanji 364-1]] says Gongsun Qing's tower advice produces elevated halls, platforms, ritual equipment, and organized waiting. The episode's [[ChickenBoneDivination|鸡骨占卜]] branch is adjacent ritual context, not the same technique.
 
 ## Counterevidence & Qualifications
 
-The sequence is reconstructed from one podcast series and a comparative fangshu episode, not a primary-source dossier. None of the notes proves that an immortal, divine meeting, or deathless medicine existed; nor do they establish that every fangshi was fraudulent or every palace, tour, or war was caused by immortality seeking. Hanji 361-1's “thousands,” footprints, disappeared elder, and mortality frame remain episode-attributed, and its maritime mission lacks route or outcome data. The Qin omen wording, imperial psychology, punished population, and Xu Fu destination remain disputed or source-scoped. [[AlchemyChemistryContinuity|炼金术与化学连续性]] and [[DaoistAlchemy|道教炼丹术]] concern later material and intellectual traditions, not evidence for literal immortality here.
+The sequence is reconstructed from one podcast series and a comparative fangshu episode, not a primary-source dossier. None of the notes proves that an immortal, divine meeting, or deathless medicine existed; nor do they establish that every fangshi was fraudulent or every palace, tour, or war was caused by immortality seeking. Hanji 361-1's “thousands,” footprints, disappeared elder, and mortality frame remain episode-attributed, and its maritime mission lacks route or outcome data. Hanji 361-2 shows one voyage being stopped, not a durable end to Wudi's search or proof that Dongfang Shuo privately rejected immortals; Huo Zihou's sudden death afterward has no established causal connection to the ritual or search. The Qin omen wording, imperial psychology, punished population, and Xu Fu destination remain disputed or source-scoped. [[AlchemyChemistryContinuity|炼金术与化学连续性]] and [[DaoistAlchemy|道教炼丹术]] concern later material and intellectual traditions, not evidence for literal immortality here.
 
 ## What Changed
 
-- Added mass maritime search as a Western Han resource-conversion mechanism beside the Qin Xu Fu case.
-- Added selective evidentiary acceptance: imperial doubt about one sign can coexist with rapid commitment to another report.
-- Connected secret Taishan access and the episode's bereavement frame to the broader mortality-anxiety field without treating motive as proven.
-- Preserved architecture, prophecy, secrecy, punishment, and omen response as distinct mechanisms within one concept.
+- Added premise-preserving counsel as a demonstrated short-term brake on a proposed personal sea voyage.
+- Qualified the brake as episode-specific: it stops one action without establishing an end to the broader search.
 
 ## Related Concepts
 
@@ -70,3 +70,4 @@ The sequence is reconstructed from one podcast series and a comparative fangshu 
 - [[ImperialTourPoliticalTheater|帝国巡游政治剧场]] - imperial movement can display rule while also carrying sacred or fate-response meanings.
 - [[FangshuSystematization|方术体系化]] - later organization of techniques first sold or offered to imperial patrons.
 - [[ChickenBoneDivination|鸡骨占卜]] - adjacent ritual system in Hanji 364-1 that remains analytically distinct from immortality seeking.
+- [[DongfangShuo|东方朔]] - adviser who makes waiting safer than pursuit while leaving the ruler's supernatural premise intact.

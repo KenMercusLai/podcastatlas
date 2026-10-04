@@ -29941,3 +29941,11 @@ Added source `zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-l
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》361-2｜泰山祭祀后，霍去病独子离奇暴毙揭秘
+
+Added source `zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x` and resynthesized [[HuoShanSonOfHuoQubing|霍嬗 / 霍子侯]], [[DongfangShuo|东方朔]], [[FengshanRitualLegitimacy|封禅礼制合法性]], and [[ImmortalityQuestPolitics|求仙政治]] from their complete preserved evidence inventories. Core synthesis: the Taishan rite extends from restricted sacred access into earth sacrifice, era naming, route-based relief, and recurring tours, while Dongfang Shuo demonstrates that premise-preserving counsel can stop one risky sea voyage without disproving the emperor's belief. No settled contradiction was adopted. Huo Zihou's “暴病，一日死” establishes abruptness but not poisoning, murder, ritual causation, or a diagnosis; reported signs, ritual details, exemptions, tour distance, and exact speech remain source-scoped. The large Han Wudi profile and automatic `wiki/overview.md` were read for context but not rewritten because the durable additions are represented in narrower canonical pages. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,743 sources and retain 789 overview paragraphs.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

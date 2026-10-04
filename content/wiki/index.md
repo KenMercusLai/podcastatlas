@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事](sources/zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje.md) — 汉武帝把异声、足迹与消失老人等含混神异报告转化为祭祀奉邑、蓬莱海搜和增派人员，并以封坛秘文及霍子侯独陪登山完成泰山秘密祭天。
+- [《资治通鉴·汉纪》361-2｜泰山祭祀后，霍去病独子离奇暴毙揭秘](sources/zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x.md) — 泰山封禅延伸为祭地、改元、减税和巡行制度；东方朔顺着求仙前提劝止出海，霍子侯随后因无明确病因的一日暴病去世。
 - [《资治通鉴·汉纪》362-1｜他被称为皇帝的钱袋子，到底有啥能耐？](sources/zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff.md) — 桑弘羊以盐铁、平准和物资储备扩充汉武帝财政，同时留下国库成效与市场民生代价必须分开衡量的问题。
 - [《资治通鉴·汉纪》363｜汉武帝见到神仙之后的传说](sources/zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5.md) — 公孙卿以东莱神人之说推动汉武帝东巡与扩大求仙；瓠子决口支线则把田蚡阻修、郭昌征工、群臣背薪、导河和宣房宫连成治水与政治动员。
 - [244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义](sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457.md) — 博物志从甲骨、金文、经学、宋版书与印刷技术讲到《永乐大典》和帝王实录，提出保存、复制、开放、解释并交给未来使用的知识长期主义。

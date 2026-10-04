@@ -8,18 +8,19 @@ sources:
   - zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh
   - zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce
   - zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje
+  - zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x
 last_updated: 2026-10-05
 ---
 
 ## Definition
 
-Fengshan ritual legitimacy / 封禅礼制合法性 is the use of a [[Taishan|Taishan]]-centered imperial rite to stage sovereignty as recognized by Heaven. The current cases show three distinct forms: [[QinShiHuang|秦始皇]] turns conquest into sacred authorization, [[HanWudi|汉武帝]] emphasizes secret imperial access through a sealed altar and restricted ascent, and [[LiuXiu|光武帝刘秀]] first refuses the rite as morally premature and later performs it as chenwei-backed restoration completion.
+Fengshan ritual legitimacy / 封禅礼制合法性 is the use of a [[Taishan|Taishan]]-centered imperial rite and its administrative aftermath to stage sovereignty as recognized by Heaven. The current cases show three distinct forms: [[QinShiHuang|秦始皇]] turns conquest into sacred authorization, [[HanWudi|汉武帝]] joins secret imperial access to public celebration, relief, era naming, and scheduled return, and [[LiuXiu|光武帝刘秀]] first refuses the rite as morally premature and later performs it as chenwei-backed restoration completion.
 
 ## Current Synthesis
 
 Qinji 122-1 establishes the post-conquest case. Taishan and [[LiangfuMountain|梁父山]] let Qin Shi Huang claim more than military occupation of the east, yet the rite is not a clean inheritance: more than seventy Qi-Lu scholars disagree, and Qin ultimately leans on its own heaven-sacrifice procedure. Sacred authorization can therefore be politically powerful even when its protocol is reconstructed under uncertainty.
 
-Hanji 361-1 adds the Western Han middle case. Before reaching Taishan, Han Wudi sacrifices at Liangfu and stages a court rite involving deer-skin-capped Confucian attendants and cattle shooting. At Taishan the court builds and seals an altar over a secret imperial document; only Wudi and [[HuoShanSonOfHuoQubing|霍子侯]] ascend and spend the night. This case makes control over sacred access, hidden text, and witnessing central, but the episode ties the ceremony closely to [[ImmortalityQuestPolitics|求仙政治]] and is less explicit than Qinji 122-1 about a public legitimacy claim.
+Hanji 361-1 and Hanji 361-2 form the Western Han middle case. Before reaching Taishan, Han Wudi sacrifices at Liangfu and stages a court rite involving deer-skin-capped Confucian attendants and cattle shooting. At Taishan the court builds and seals an altar over a secret imperial document; only Wudi and [[HuoShanSonOfHuoQubing|霍子侯]] ascend and spend the night. After the descent, the continuation adds an earth sacrifice, court congratulations, an edict connecting omens to imperial self-cultivation, Yuanfeng era naming, route-based tax relief, a rank grant, a five-year touring rule, and lodgings for feudal states. The combined case therefore moves from controlled sacred access to distributive and calendrical public aftermath, while remaining entangled with [[ImmortalityQuestPolitics|求仙政治]].
 
 Hanji 729 and Hanji 730 supply the Eastern Han changed-condition sequence. In 54 CE Liu Xiu rejects the rite because public resentment and flattery would turn it into an attempt to deceive Heaven. In 56 CE the `Hetu Huichang Fu` line “赤刘之九，会命岱宗,” related chenwei passages, court proposals, and changed late-reign framing lead him to perform the Taishan heaven sacrifice and paired earth sacrifice at Liangyin despite continuing cost concerns.
 
@@ -27,7 +28,7 @@ Across the cases, fengshan is a high-cost political technology joining route, sa
 
 ## Key Claims
 
-- Fengshan makes sovereignty legible as heavenly recognition, not only control by force or office.
+- Fengshan makes sovereignty legible as heavenly recognition, not only control by force or office, and can carry that recognition into era naming, relief, rank grants, and recurring institutions.
 - Taishan and a paired lower site turn legitimacy into a staged route of sacrifice, ascent, sealing, descent, or complementary offering.
 - The rite can be reconstructed when learned authorities disagree, as in the Qin case.
 - Hidden texts and restricted witnessing can make exclusive imperial access itself part of the ceremony, as in Han Wudi's case.
@@ -39,20 +40,19 @@ Across the cases, fengshan is a high-cost political technology joining route, sa
 
 - Post-conquest legitimacy and procedural uncertainty: [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]] says Qin Shi Huang's Taishan-Liangfu ceremony claims heavenly recognition over conquered eastern lands even as Qi-Lu scholarly disagreement forces procedural reconstruction.
 - Secret imperial mediation: [[zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje|Hanji 361-1]] describes Liangfu sacrifice, a sealed Taishan altar, a hidden imperial document, and a summit rite restricted to Han Wudi and Huo Zihou.
+- Public and administrative aftermath: [[zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x|Hanji 361-2]] adds the lower earth sacrifice, court reception, Yuanfeng era proclamation, route-based exemptions, a rank grant, recurring-tour policy, and feudal lodging near Taishan.
 - Refusal gate: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] says Liu Xiu rejects a 54 CE proposal because public resentment makes the ceremony a possible attempt to deceive Heaven; its Analects branch connects improper Taishan sacrifice with ritual self-disgrace.
 - Prophetic trigger and performance: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] says Liu Xiu gathers chenwei corroboration, then performs the Taishan sacrifice, ascent, jade-document sealing, Liangyin earth sacrifice, amnesty, and era change.
 - Cost qualification: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] preserves Liu Xiu's reluctance toward elaborate expense even after he accepts the rite.
 
 ## Counterevidence & Qualifications
 
-The current concept rests on four podcast source notes rather than a complete history of fengshan. Qinji 122-1 presents a partly reconstructed ceremony, not a fully known ancient manual. Hanji 361-1 reports dimensions, offices, a hidden text, and exclusive access but does not state the text's contents or demonstrate that public legitimacy, rather than sacrifice or immortal access, was the sole aim. Hanji 729's 54 CE refusal and Hanji 730's 56 CE performance form a changed-condition sequence, not a contradiction; chenwei is a trigger but not proven to be the only cause. The concept remains distinct from general imperial touring, ordinary auspicious-omen politics, and broad mandate claims unless the Taishan-centered rite is doing specific work.
+The current concept rests on five podcast source notes rather than a complete history of fengshan. Qinji 122-1 presents a partly reconstructed ceremony, not a fully known ancient manual. Hanji 361-1 does not state the secret text's contents; Hanji 361-2's light, cloud, edict, exemptions, distance, and institutional details remain episode-attributed and do not prove that legitimacy was the sole aim. Hanji 729's 54 CE refusal and Hanji 730's 56 CE performance form a changed-condition sequence, not a contradiction; chenwei is a trigger but not proven to be the only cause. The concept remains distinct from general imperial touring, ordinary auspicious-omen politics, and broad mandate claims unless the Taishan-centered rite is doing specific work.
 
 ## What Changed
 
-- Added Han Wudi's sealed altar, secret document, and restricted overnight ascent as a Western Han case.
-- Expanded the concept from public authorization alone to include controlled sacred access and witnessing.
-- Kept the Han Wudi rite qualified because the episode fuses it with immortality seeking and does not state one exclusive political purpose.
-- Preserved Qin procedural uncertainty and Guangwu's refusal-performance sequence as separate constraints.
+- Extended Han Wudi's case from secret summit access into public celebration, relief, era naming, and a recurring-tour institution.
+- Clarified that ritual legitimacy can be distributed through benefits and administrative time as well as sacred exclusivity.
 
 ## Related Concepts
 
@@ -65,3 +65,4 @@ The current concept rests on four podcast source notes rather than a complete hi
 - [[ChenweiPolitics|谶纬政治]] - prophetic-text framework triggering the Guangwu performance.
 - [[ImmortalityQuestPolitics|求仙政治]] - adjacent field strongly entangled with the Han Wudi ceremony.
 - [[ImperialTourPoliticalTheater|帝国巡游政治剧场]] - travel-and-presence frame overlapping with but not exhausting fengshan.
+- [[DongfangShuo|东方朔]] - adviser whose post-rite intervention separates ritual completion from a proposed sea-search escalation.
