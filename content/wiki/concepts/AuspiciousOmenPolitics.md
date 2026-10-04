@@ -18,7 +18,8 @@ sources:
   - zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj
   - zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb
   - zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78
-last_updated: 2026-09-10
+  - zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi
+last_updated: 2026-10-04
 ---
 
 ## Definition
@@ -32,6 +33,8 @@ The current evidence shows a spectrum from opportunistic career claims to dynast
 Hanji 689-3 introduces a material-frontier variant. The [[FiveStarsOutOfTheEastBrocade]] turns a planetary omen phrase into textile, tomb object, possible campaign slogan, and possible Western Regions gift or warning. [[zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78|Hanji 607]] adds an earlier staged-tribute variant under [[WangMang|王莽]]: a Yuechang white-pheasant report borrows the [[ZhouGong|Duke of Zhou]] precedent so ministers can read distant submission as proof of a present sage-regent and propose Anhan Gong status. [[zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb|Hanji 623]] adds a submission-report variant under [[WangMang|王莽]]: a Qiang land-offering report credits Wang Mang and [[WangZhengjun|王政君]]'s virtue through abundant harvest,甘露, springs, phoenixes, and divine birds, then helps legitimate [[XihaiExileAdministrativeBurden|Xihai Commandery]] as the missing western counterpart to other directional commanderies. [[zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9|Hanji 651]] adds a court-flattery variant under Wang Mang: officials read a riverbank collapse and watercourse change through [[HetuLuoshu|河图洛书]] as "earth suppressing water," then convert that sign into confidence that Xiongnu will be defeated. [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] adds a monopoly-backfire variant: fuming reports help Wang Mang's accession, then become dangerous once many actors keep using fabricated signs for rank. These cases do not replace military, ecological, or institutional explanation; they show how auspicious formulas could travel across media, landscape, court speech, diplomatic reports, and bureaucratic reward systems into frontier policy, memory, and purge.
 
 Across the page, omen politics works best as a language of compression. A sign can condense uncertainty into confidence, transform ambition into Heaven-backed legitimacy, make an attack look prewritten, or memorialize a victory as cosmically timed. The same logic is unstable: when the claimant lacks virtue, competence, or durable capacity, omen rhetoric can backfire into skepticism, overreach, or retrospective blame.
+
+[[zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi|Hanji 632]] makes cumulative sign production and career capture explicit. Wang Mang treats prophecy, a new well, stone animals, copper signs, memorial repetition, temple reception, and ritual recoding as a single accession proof chain. [[AiZhangXinOfficial|哀章]] then exploits the same system by fabricating a copper casket and writing himself into its ministerial list, showing that omen politics can allocate office as well as authorize rule.
 
 ## Key Claims
 
@@ -55,14 +58,19 @@ Across the page, omen politics works best as a language of compression. A sign c
 - Submission-report omen politics: [[zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb|Hanji 623]] presents Qiang land-offering rhetoric as a cascade of auspicious signs used to explain frontier submission and support Xihai Commandery.
 - Landscape-to-policy omen politics: [[zizhi-tongjian-hanji-651-hetu-luoshu-zhi-mi-ni-neng-pojie-ma-lvkgovzsk0yqjb-vbvfxl0ikx2u9|Hanji 651]] shows Xin officials turning river change into a favorable Hetu-Luoshu omen that supports anti-Xiongnu deployment.
 - Rewarded-sign backfire: [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] shows fuming reports becoming dangerous after Wang Mang's accession because rewards encourage others to fabricate signs and seek office.
+- Cumulative accession proof: [[zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi|Hanji 632]] joins prophecy, new-well, stone-animal, copper-sign, casket, temple, and ritual evidence into Wang Mang's formal accession narrative.
+- Self-appointment through signs: [[zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi|Hanji 632]] says Ai Zhang fabricates a Heaven-backed personnel list and includes himself with an office and title.
 
 ## Counterevidence & Qualifications
+
+Hanji 632 reports sign interpretations and objects as political claims and does not establish supernatural truth; its strongest evidence concerns accumulation, reception, reward, and institutional use.
 
 The sources are evidence for political reasoning, not evidence that omens caused events. Hanji 607 supports the political function of the white-pheasant report but leaves Yuechang geography, local compliance, and Wang Mang's private instruction mechanics source-scoped. Several cases are explicitly source-critical: Qinji 126 separates late-Qin omen pressure from proven causation, Zhouji 68 warns that defeated-ruler memory can amplify a story, and the Wang Mang sources treat auspicious evidence as politically powerful but ultimately fragile. Hanji 623 supports the function of auspicious submission rhetoric but does not prove Qiang motives, report accuracy, or Wang Mang's inner belief. Hanji 642 supports a fuming backfire mechanism but does not prove Wang Mang's inner belief or every actor's conscious fraud. Hanji 651 keeps the river-change reading as court interpretation and policy flattery rather than proof of Xiongnu defeat; Hanji 689-3 keeps the brocade's gift/warning interpretation, right-arm use, and modern planetary comparison as plausible but not settled.
 
 ## What Changed
 
 - Added Hanji 607 as a staged distant-tribute case where a white-pheasant report turns Zhougong precedent into Wang Mang status legitimacy.
+- Added Hanji 632 as a cumulative accession and self-appointment case where Ai Zhang's fabricated sign authorizes both ruler and personnel.
 - Preserved Hanji 642 as a rewarded-sign backfire case under Wang Mang.
 - Preserved Hanji 651 as a landscape-to-policy omen case centered on Hetu-Luoshu interpretation under Wang Mang.
 - Preserved the distinction between omen rhetoric as political evidence and omen rhetoric as sole cause.

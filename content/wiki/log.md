@@ -29385,3 +29385,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 《资治通鉴·汉纪》632丨史上最能忽悠的大臣
+
+Added source `zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi`; created [[AiZhangXinOfficial|哀章]]; and resynthesized [[WangMang|王莽]], [[AuspiciousOmenPolitics|祥瑞政治]], [[ChenweiPolitics|谶纬政治]], and [[PostUsurpationLegitimacyConsolidation|篡位后合法性整合]] from their complete preserved evidence inventories. Core synthesis: Wang Mang's 8 CE accession turns prophecy, accumulated signs, temple reception, and institutional recoding into a Heaven-backed transfer narrative, while Ai Zhang's fabricated copper casket shows that the same machinery can allocate office and let a useful sign producer appoint himself. No settled contradiction was adopted. The supernatural truth of the signs, private belief, exact artifact wording, minor personnel, and several office details remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest, then only read by downstream synthesis refresh. The downstream manifest and paragraph ledger were refreshed to 3,673-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

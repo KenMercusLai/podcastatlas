@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2551
+topic_total_pages: 2552
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3218,6 +3218,9 @@ topic_entities:
   - key: "Xianyang"
     title: "咸阳 / Xianyang"
     url: "/wiki/entities/xianyang/"
+  - key: "AiZhangXinOfficial"
+    title: "哀章 / Ai Zhang (Xin official)"
+    url: "/wiki/entities/aizhangxinofficial/"
   - key: "TangJu"
     title: "唐举 / Tang Ju"
     url: "/wiki/entities/tangju/"

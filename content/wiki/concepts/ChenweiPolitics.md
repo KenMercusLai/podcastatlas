@@ -12,7 +12,8 @@ sources:
   - 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780
   - 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550
   - zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi
+last_updated: 2026-10-04
 ---
 
 ## Definition
@@ -30,6 +31,8 @@ Later cases show the same political grammar without requiring one stable doctrin
 [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] makes the Liu Xiu branch more concrete. Liu Xiu reads the `Hetu Huichang Fu` line "赤刘之九，会命岱宗," orders officials to collect related river-map and Luo-writing passages, and accepts Taishan fengshan after thirty-six references are found. The episode therefore shows chenwei moving from legitimacy atmosphere into direct ritual state action: prophecy does not merely praise the dynasty; it helps decide that the emperor should travel, sacrifice, seal jade documents, and announce a new era.
 
 Across the current evidence, chenwei politics is strongest when a sign or text links cosmic order to an actionable institutional setting: accession, relocation, campaign, provincial destination, rebellion, purge, or ritual. It is also unstable. The same sign can be reinterpreted after events, fabricated from below, resisted by advisers, or used to hide more material motives such as security, prestige, or coalition weakness.
+
+The Wang Mang accession case makes chenwei an institutional script rather than a detached prediction. "赤厄三七" is narrowed into a timetable for Han exhaustion, material signs are accumulated around that reading, and [[AiZhangXinOfficial|哀章]] fabricates a transfer document whose personnel list includes himself. In [[zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi|Hanji 632]], prophetic authorization therefore directs title, office, calendar, ritual, and dynastic action at once.
 
 ## Key Claims
 
@@ -51,14 +54,17 @@ Across the current evidence, chenwei politics is strongest when a sign or text l
 - Relocation packaging: [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]] says Dong Zhuo invokes apocryphal prophecy to make a security-driven relocation to Chang'an sound cosmically and popularly required.
 - Claimant self-authorization: [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]] says Yuan Shu reads "代汉者当涂高," five-phases ancestry, and the imperial seal as support for imperial ambition, while advisers resist the leap.
 - Ritual policy trigger: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] says Liu Xiu's reading of chenwei and the discovered thirty-six passages lead him to approve and perform Taishan fengshan.
+- Accession and personnel script: [[zizhi-tongjian-hanji-632-shishang-zui-neng-huyou-de-dachen-lrghg2l792t4u_d3jc8ne0ngzemi|Hanji 632]] says prophecy and fabricated mandate text are used to authorize Wang Mang's accession and a named ministerial order that includes the fabricator.
 
 ## Counterevidence & Qualifications
+
+Hanji 632 shows political use and fabrication, not supernatural verification; exact prophecy origins, artifact wording, and private belief remain source-scoped.
 
 The Qin examples are precursors and should not be flattened into the mature Han chenwei system described by later sources. None of the source notes requires treating prophecy as literally true; their shared claim is political efficacy, not supernatural proof. Hanji 950 and Hanji 1001 show that prophecy can package motives already present in security, ambition, prestige, or institutional weakness. Qinji 128-2 shows sign production can be deliberately fabricated, while Qinji 123-1 shows the same phrase can carry different meanings in the moment and in hindsight. Hanji 730 makes Liu Xiu's fengshan a chenwei-triggered action, but it also preserves older ritual precedent, court proposals, and the emperor's frugality as part of the decision field.
 
 ## What Changed
 
-- Migrated the page to synthesis-v1.
+- Added Hanji 632 as the direct Wang Mang case where a prophecy becomes an accession timetable and a fabricated mandate text allocates office.
 - Integrated Hanji 730 as the Liu Xiu fengshan case where chenwei drives ritual state action.
 - Reorganized earlier Wang Mang, Qin, Song, Dong Zhuo, and Yuan Shu material by mechanism rather than source order.
 - Preserved the distinction between political efficacy and supernatural truth.
