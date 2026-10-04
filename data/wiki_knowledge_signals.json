@@ -56592,9 +56592,9 @@
       "url": "/wiki/concepts/diplomaticpersonaasstrategicasset/"
     },
     "DiplomaticRitualDignity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
@@ -56616,6 +56616,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》376-1｜历史上真实的苏武牧羊是什么样？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-376-1-lishishang-zhenshi-de-suwu-muyang-shi-shenmeyang-lidxs1d66m5q2hegjteq1lgra5fp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！ [lm1L-Z62lcCEWAg-X6KxWgyUsUKH].md",
+          "key": "zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh/"
         }
       ],
       "updated": "2026-10-05",
@@ -91522,6 +91529,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/guojieasternhan/"
+    },
+    "GuoJiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！ [lm1L-Z62lcCEWAg-X6KxWgyUsUKH].md",
+          "key": "zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/guojiwesternhan/"
     },
     "GuoJia": {
       "episode_count": 10,
@@ -174246,6 +174269,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/protestmediaspectacle/"
     },
+    "ProtocolConcessionCoreDemandBargaining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！ [lm1L-Z62lcCEWAg-X6KxWgyUsUKH].md",
+          "key": "zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/protocolconcessioncoredemandbargaining/"
+    },
     "Protopia": {
       "episode_count": 1,
       "show_count": 1,
@@ -223714,6 +223753,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/wangwenshuwesternhan/"
+    },
+    "WangWuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！ [lm1L-Z62lcCEWAg-X6KxWgyUsUKH].md",
+          "key": "zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/wangwuwesternhan/"
     },
     "WangXiaobo": {
       "episode_count": 1,

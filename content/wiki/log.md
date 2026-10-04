@@ -29741,3 +29741,11 @@ Added source `zizhi-tongjian-hanji-372-1-hanwan-zhanzheng-de-beihou-de-lishi-zhe
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！
+
+Added source `zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh`; created [[WangWuWesternHan|王乌]], [[GuoJiWesternHan|郭吉]], and [[ProtocolConcessionCoreDemandBargaining|礼仪让步式核心诉求谈判]]; and resynthesized [[DiplomaticRitualDignity|使节礼节国威]] from its complete preserved evidence inventory. Core synthesis: 王乌 separates symbolic protocol from substantive mandate, following Xiongnu audience rules while retaining Han's submission demand; this qualifies ritual dignity by showing that bounded accommodation need not equal political submission. The chanyu's proposed princely mission is recorded as an apparent breakthrough rather than a completed settlement. The source form “王巫” is normalized to 王乌, while the modern Russia-Ukraine framing, exact protocol, motives, dialogue, and submission/hostage equivalence remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten. The downstream manifest and paragraph ledger were refreshed to 3,718-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

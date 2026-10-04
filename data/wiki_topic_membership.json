@@ -39486,6 +39486,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GuoJiWesternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GuoJinglong": [
     {
       "key": "history",
@@ -66973,6 +66980,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ProtocolConcessionCoreDemandBargaining": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ProvidentialGovernanceFailure": [
     {
       "key": "politics",
@@ -86783,6 +86797,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "WangWuWesternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "WangXiaobo": [
     {
       "key": "culture",
@@ -102318,6 +102339,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh": [
     {
       "key": "politics",
       "label": "Politics",

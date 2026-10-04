@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9679
+wiki_total_pages: 9680
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2687,6 +2687,9 @@ wiki_pages:
   - key: "PhysiognomicInvestmentJudgment"
     title: "看相式政治投资 / Physiognomic Investment Judgment"
     url: "/wiki/concepts/physiognomicinvestmentjudgment/"
+  - key: "ProtocolConcessionCoreDemandBargaining"
+    title: "礼仪让步式核心诉求谈判 / Protocol-Concession Core-Demand Bargaining"
+    url: "/wiki/concepts/protocolconcessioncoredemandbargaining/"
   - key: "PrivateLetterPoliticalWeaponization"
     title: "私人书信政治武器化 / Private Letter Political Weaponization"
     url: "/wiki/concepts/privateletterpoliticalweaponization/"

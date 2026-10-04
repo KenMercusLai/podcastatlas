@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3087
+topic_total_pages: 3091
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4807,6 +4807,9 @@ topic_concepts:
   - key: "KnownMisconductNonPunishment"
     title: "知奸不除式威慑失效 / Known-Misconduct Non-Punishment"
     url: "/wiki/concepts/knownmisconductnonpunishment/"
+  - key: "ProtocolConcessionCoreDemandBargaining"
+    title: "礼仪让步式核心诉求谈判 / Protocol-Concession Core-Demand Bargaining"
+    url: "/wiki/concepts/protocolconcessioncoredemandbargaining/"
   - key: "RitualAgrarianFrontierIntegration"
     title: "礼俗农事式边疆整合 / Ritual-Agrarian Frontier Integration"
     url: "/wiki/concepts/ritualagrarianfrontierintegration/"
@@ -7913,6 +7916,9 @@ topic_entities:
   - key: "LiejiaomiWusun"
     title: "猎骄靡 / Liejiaomi"
     url: "/wiki/entities/liejiaomiwusun/"
+  - key: "WangWuWesternHan"
+    title: "王乌 / Wang Wu (Western Han envoy)"
+    url: "/wiki/entities/wangwuwesternhan/"
   - key: "WangPingWesternHan"
     title: "王平 / Wang Ping (Western Han)"
     url: "/wiki/entities/wangpingwesternhan/"
@@ -8024,6 +8030,9 @@ topic_entities:
   - key: "GuoGongEasternHanJurist"
     title: "郭公 / Guo Gong (Eastern Han jurist)"
     url: "/wiki/entities/guogongeasternhanjurist/"
+  - key: "GuoJiWesternHan"
+    title: "郭吉 / Guo Ji (Western Han envoy)"
+    url: "/wiki/entities/guojiwesternhan/"
   - key: "GuoMoruo"
     title: "郭沫若"
     url: "/wiki/entities/guomoruo/"
@@ -9030,6 +9039,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh"
+    title: "《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh/"
   - key: "zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt"
     title: "《资治通鉴·汉纪》371-1｜汉朝第一位魔术师来自非洲？"
     url: "/wiki/sources/zizhi-tongjian-hanji-371-1-hanchao-diyiwei-moshushi-laizi-feizhou-ljdpmemdwztviodc120kspcbegyt/"

@@ -7,12 +7,13 @@ sources:
   - zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu
   - zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2
   - zizhi-tongjian-hanji-376-1-lishishang-zhenshi-de-suwu-muyang-shi-shenmeyang-lidxs1d66m5q2hegjteq1lgra5fp
+  - zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh
 last_updated: 2026-10-05
 ---
 
 ## Definition
 
-使节礼节国威 / diplomatic ritual dignity is the statecraft pattern where an envoy's bodily treatment, survival choice, or ritual posture before a rival power becomes a public signal of the sending state's status, resolve, and hierarchy.
+使节礼节国威 / diplomatic ritual dignity is the statecraft pattern where an envoy's bodily treatment, survival choice, or ritual posture before a rival power becomes a public signal of the sending state's status, resolve, and hierarchy. The concept now also distinguishes coerced degradation from bounded protocol accommodation that preserves the substantive mandate.
 
 ## Current Synthesis
 
@@ -26,15 +27,19 @@ The same episode makes the ritual danger part of a wider diplomatic stage. North
 
 The concept is therefore narrower than general etiquette and broader than a single kowtow. It applies when a hostile audience can use an envoy's body, posture, or surrender as evidence of interstate hierarchy. Su Wu shows the chief envoy internalizing that representational burden after a deputy's misconduct; Zheng's later rehabilitation shows the recognition problem when the sending ruler first mistakes refusal for disobedience.
 
+Hanji 368-1 adds an earlier contrast through [[WangWuWesternHan|王乌]]. Wang Wu follows Xiongnu entry protocol by leaving his tally outside, changing clothes, and marking his face, yet still presents Han's demand for submission. In the episode's framing, ritual accommodation is a tactical means of gaining audience access rather than evidence that Han has accepted subordinate status.
+
+The combined synthesis is contextual rather than absolutist. Ritual refusal becomes important when the act itself would publicly transfer hierarchy or negate the mission, as in Su Wu and Zheng Zhong. Ritual flexibility can remain compatible with state dignity when the concession is bounded, the substantive mandate remains explicit, and the counterpart cannot plausibly recode the act as political submission. Hanji 368-1 supplies that distinction but does not settle whether the chanyu's promised princely mission was implemented.
+
 ## Key Claims
 
-- An envoy's ritual posture can become a state-level signal when the audience treats the envoy as a proxy for the ruler.
+- An envoy's ritual posture can become a state-level signal when the audience treats the envoy as a proxy for the ruler, but not every procedural accommodation has the same political meaning.
 - Coerced survival can itself become politically charged when remaining alive appears to require surrender or public degradation of the mission.
 - A chief envoy may bear representational responsibility for a subordinate's unauthorized action without accepting legal or moral guilt for that action.
 - Personal survival under coercive ritual can conflict with the dignity of the office and sending state.
 - A rival power can use an envoy's presence and behavior to broadcast its own prestige to surrounding groups.
-- Refusal may look like disobedience inside the sending court until the political meaning of the ritual scene is understood.
-- The pattern is strongest when the recipient is both diplomatically engaged and militarily hostile.
+- Refusal may look like disobedience inside the sending court, while accommodation may look like surrender, until the mandate and audience meaning are separated.
+- The pattern is strongest when the recipient is both diplomatically engaged and militarily hostile, making access, survival, and hierarchy compete.
 
 ## Evidence
 
@@ -45,15 +50,19 @@ The concept is therefore narrower than general etiquette and broader than a sing
 - State-dignity reasoning: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Zheng would not hold the Han tally and bow to the chanyu because yielding would damage Han prestige.
 - Hostile-audience use: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Zheng fears the chanyu will use Han contact to show Western Regions states and other neighbors that Han is returning to him.
 - Misread refusal and later recognition: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Mingdi first imprisons Zheng for continued resistance, then reappoints him after Northern Xiongnu testimony confirms his earlier conduct.
+- Bounded protocol accommodation: [[zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh|Hanji 368-1]] says Wang Wu leaves the Han tally outside and follows Xiongnu clothing and face-marking rules while still presenting Han's submission demand.
+- Promise-versus-settlement boundary: [[zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh|Hanji 368-1]] reports that the chanyu offers to send his son to Chang'an, but the installment ends before implementation.
 
 ## Counterevidence & Qualifications
 
-The concept does not say every diplomatic compromise, survival choice, or ritual concession is dishonorable. It is bounded to two podcast case families in hostile Han-Xiongnu settings: Su Wu's source frames self-harm as defense of mission dignity, while Zheng Zhong's sources frame refusal to kneel as defense of state prestige. These are source interpretations of extreme coercion, not a general endorsement of suicide or a claim that negotiated protocol and face-saving hierarchy are inherently submissive.
+The concept does not say every diplomatic compromise, survival choice, or ritual concession is dishonorable. It is bounded to three podcast case families in hostile Han-Xiongnu settings: Su Wu's source frames self-harm as defense of mission dignity, Zheng Zhong's sources frame refusal to kneel as defense of state prestige, and Wang Wu's source frames protocol accommodation as compatible with preserving a substantive demand. These are context-dependent source interpretations, not a general endorsement of suicide, a universal rule for diplomatic protocol, or proof that ritual flexibility caused the reported breakthrough. The supplied Hanji 368-1 note uses the transcript form “王巫,” normalized here to 王乌, and does not narrate implementation of the chanyu's promise.
 
 ## What Changed
 
 - Added Hanji 376-1's Western Han mission-wide exposure and coerced-survival case.
 - Broadened the definition from ritual posture alone to bodily treatment and surrender when hostile audiences read them as state signals.
+- Added Hanji 368-1's protocol-accommodation contrast and separated bounded procedural concession from substantive submission.
+- Added a fulfillment qualification because a promised princely mission is not yet a completed settlement.
 
 ## Related Concepts
 
@@ -63,3 +72,4 @@ The concept does not say every diplomatic compromise, survival choice, or ritual
 - [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]] - adjacent frontier problem because ritual contact can damage ally credibility even before formal recognition.
 - [[DirectRemonstranceCriminalization|直谏入罪]] - failure mode when the sending court recodes ritual-risk warning as disobedience.
 - [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - historical backdrop for status, envoy, and frontier-accommodation arrangements with Xiongnu polities.
+- [[ProtocolConcessionCoreDemandBargaining|礼仪让步式核心诉求谈判]] - contrastive bargaining pattern where symbolic accommodation preserves access without surrendering the core mandate.

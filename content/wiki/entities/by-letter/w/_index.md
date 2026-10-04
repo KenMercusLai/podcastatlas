@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12365
+wiki_total_pages: 12367
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1295,6 +1295,9 @@ wiki_pages:
   - key: "WangYeXinOfficial"
     title: "王业 / Wang Ye (Xin official)"
     url: "/wiki/entities/wangyexinofficial/"
+  - key: "WangWuWesternHan"
+    title: "王乌 / Wang Wu (Western Han envoy)"
+    url: "/wiki/entities/wangwuwesternhan/"
   - key: "WangZhongwen"
     title: "王仲闻 / Wang Zhongwen"
     url: "/wiki/entities/wangzhongwen/"
