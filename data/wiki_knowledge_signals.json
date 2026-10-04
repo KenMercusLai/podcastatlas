@@ -24630,10 +24630,26 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/birdsongplaybackethics/"
     },
+    "BirdwatchingAgainstContingency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8220234869_014847 [8220234869_014847].md",
+          "key": "episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847",
+          "show": "迟早更新",
+          "title": "Episode 223: 事物变成其他事物",
+          "url": "/wiki/sources/episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/birdwatchingagainstcontingency/"
+    },
     "BirdwatchingAsAttention": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
@@ -24662,6 +24678,13 @@
           "show": "迟早更新",
           "title": "Episode 229: 钓一条大鱼",
           "url": "/wiki/sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605/"
+        },
+        {
+          "episode_file": "8220234869_014847 [8220234869_014847].md",
+          "key": "episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847",
+          "show": "迟早更新",
+          "title": "Episode 223: 事物变成其他事物",
+          "url": "/wiki/sources/episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847/"
         }
       ],
       "updated": "2026-10-04",
@@ -38384,9 +38407,9 @@
       "url": "/wiki/concepts/chivalricsacralization/"
     },
     "ChizaoGengxin": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "8212959555_438866 [8212959555_438866].md",
@@ -38429,6 +38452,13 @@
           "show": "迟早更新",
           "title": "Episode 229: 钓一条大鱼",
           "url": "/wiki/sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605/"
+        },
+        {
+          "episode_file": "8220234869_014847 [8220234869_014847].md",
+          "key": "episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847",
+          "show": "迟早更新",
+          "title": "Episode 223: 事物变成其他事物",
+          "url": "/wiki/sources/episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847/"
         }
       ],
       "updated": "2026-10-04",
@@ -47151,6 +47181,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/creativehobbycommercializationboundary/"
+    },
+    "CreativeNonfictionRestructuring": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8220234869_014847 [8220234869_014847].md",
+          "key": "episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847",
+          "show": "迟早更新",
+          "title": "Episode 223: 事物变成其他事物",
+          "url": "/wiki/sources/episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/creativenonfictionrestructuring/"
     },
     "CreativePhaseSeparation": {
       "episode_count": 3,
@@ -99939,9 +99985,9 @@
       "url": "/wiki/concepts/honorswithoutofficesettlement/"
     },
     "HopeIsTheThingWithFeathersBook": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
@@ -99977,6 +100023,13 @@
           "show": "迟早更新",
           "title": "Episode 229: 钓一条大鱼",
           "url": "/wiki/sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605/"
+        },
+        {
+          "episode_file": "8220234869_014847 [8220234869_014847].md",
+          "key": "episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847",
+          "show": "迟早更新",
+          "title": "Episode 223: 事物变成其他事物",
+          "url": "/wiki/sources/episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847/"
         }
       ],
       "updated": "2026-10-04",
@@ -150620,9 +150673,9 @@
       "url": "/wiki/concepts/naturelawlegaljustice/"
     },
     "NatureWriting": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "85.车墩墩野事记：走啊！搬到乡下钻小树林儿去！ [700935571].md",
@@ -150658,6 +150711,13 @@
           "show": "迟早更新",
           "title": "Episode 229: 钓一条大鱼",
           "url": "/wiki/sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605/"
+        },
+        {
+          "episode_file": "8220234869_014847 [8220234869_014847].md",
+          "key": "episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847",
+          "show": "迟早更新",
+          "title": "Episode 223: 事物变成其他事物",
+          "url": "/wiki/sources/episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847/"
         }
       ],
       "updated": "2026-10-04",
@@ -174352,6 +174412,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/qiangofficialabuserebelliontrigger/"
     },
+    "QiangQiang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8220234869_014847 [8220234869_014847].md",
+          "key": "episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847",
+          "show": "迟早更新",
+          "title": "Episode 223: 事物变成其他事物",
+          "url": "/wiki/sources/episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/qiangqiang/"
+    },
     "QianlingMountainMacaques": {
       "episode_count": 1,
       "show_count": 1,
@@ -178617,9 +178693,9 @@
       "url": "/wiki/entities/renlifeng/"
     },
     "RenNing": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
@@ -178662,6 +178738,13 @@
           "show": "迟早更新",
           "title": "Episode 229: 钓一条大鱼",
           "url": "/wiki/sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605/"
+        },
+        {
+          "episode_file": "8220234869_014847 [8220234869_014847].md",
+          "key": "episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847",
+          "show": "迟早更新",
+          "title": "Episode 223: 事物变成其他事物",
+          "url": "/wiki/sources/episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847/"
         }
       ],
       "updated": "2026-10-04",

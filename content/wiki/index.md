@@ -22,6 +22,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权](sources/jinghu-gaotie-zhongqiujie-qian-chuxian-jiangjia-xinbailun-qisu-dikanong-qinquan-1017386449.md) — 声动早咖啡 on brand-mark confusion, robot supply chains, automotive licensing, AI security controls, memory competition, holiday fares, and mobile agents.
 - [Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡](sources/vol-353-qiuri-teji-pingguo-de-xiangwei-zhong-wo-jianjian-hunhun-yushui-gkwriaiohmv_a7ndcatastow.md) — 文化有限 cross-media autumn special on restorative attention, finite relationships, relational silence, communal repair, punitive fantasy, and exploration optimism.
 - [Episode 229: 钓一条大鱼](sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605.md) — 迟早更新 on evidence-calibrated criticism, short-review incentives, plural birdwatching motives, and whether nature writing makes its subjects thicker or thinner.
+- [Episode 223: 事物变成其他事物](sources/episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847.md) — 迟早更新 book conversation on birdwatching, newborn-care pressure, hope, memory, and the creative-nonfiction structure of 《希望是那长着羽毛的小东西》.
 - [502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年](sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd.md) — 忽左忽右 discussion of Challenger as a coupled technical and organizational failure shaped by budget pressure, public promises, warning escalation, and go fever.
 - [1. Greatness](sources/1-greatness-glt2583338621.md) — The Rest Is History on greatness as a changing imperial, national, democratic, moral, and popular-cultural judgment rather than a neutral measure of merit.
 - [2. Civil War](sources/2-civil-war-glt5809911007.md) — The Rest Is History on civil-war escalation through dehumanization, political delegitimization, armed capacity, catalytic leaders, and institutional failure.
@@ -6272,7 +6273,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sophie Zhang](entities/SophieZhang.md) — Former Facebook data scientist and whistleblower named as part of the internal-evidence layer around platform accountability.
 - [Mark Lanier](entities/MarkLanier.md) — Product-liability lawyer named in the social-media litigation discussion around design-defect strategy.
 - [UNICEF](entities/UnitedNationsChildrenFund.md) — Child-focused UN institution cited for the argument that parents alone cannot police opaque social-media platforms and algorithms.
-- [迟早更新 / Chizao Gengxin](entities/ChizaoGengxin.md) — Essayistic podcast represented by episodes on carrier-bag narrative, embodied reading, AI-era association, ritual speech, youth risk, music, classics, and technology responsibility.
+- [迟早更新 / Chizao Gengxin](entities/ChizaoGengxin.md) — Essayistic podcast represented through intimate book conversation and episodes on narrative form, embodied reading, nature, ritual, technology, risk, and criticism.
+- [枪枪 / Qiang Qiang](entities/QiangQiang.md) — 迟早更新 co-host and close reader who interprets birdwatching, newborn care, memory, and writing through contingency and provisional order.
 - [恰恰小豹 / Qia Qia Xiao Bao](entities/QiaQiaXiaoBao.md) — Birdwatching podcast represented through a 迟早更新 crossover on birdsong playback, field ethics, ritual speech, and observer responsibility.
 - [J. L. Austin / 奥斯丁](entities/JLAustin.md) — Language philosopher used by Episode 226 to explain performative utterances, speech-act ritual, and apology or promise as action.
 - [Lionel Trilling / 莱昂内尔·特里林](entities/LionelTrilling.md) — Literary critic used by Episode 226 to historicize sincerity and qualify the dismissal of ritual speech as fake.
@@ -14522,8 +14524,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [叮当快药](entities/DingdangKuaiyao.md) — Drug-delivery O2O company that survived by standardizing pharmacy logistics and fast delivery.
 - [Poke Robotics](entities/PokeRobotics.md) — Xu Huazhe's new robotics startup pursuing household robots as a route toward Physical AGI.
 - [N 同学 / N Student](entities/NStudent.md) — Anonymized vector-model engineer explaining NLP history, RAG infrastructure, relevance definitions, hard negatives, AI coding judgment, and why fluent models still need retrieval systems.
-- [任宁 / Ren Ning](entities/RenNing.md) — Birdwatcher, nature writer, and 迟早更新 host using field attention, embodied writing, ritual speech, and youth-risk essays to connect experience with responsibility.
-- [《希望是那长着羽毛的小东西》 / Hope Is the Thing with Feathers](entities/HopeIsTheThingWithFeathersBook.md) — Ren Ning's nature-writing essay collection about bird memory, field notes, sensory pressure, print reading, and writing without replacing prose with bird images.
+- [任宁 / Ren Ning](entities/RenNing.md) — Birdwatcher, nature writer, and 迟早更新 host connecting field attention, nonlinear nonfiction, embodied writing, ethics, and social diagnosis.
+- [《希望是那长着羽毛的小东西》 / Hope Is the Thing with Feathers](entities/HopeIsTheThingWithFeathersBook.md) — Ren Ning's nature-writing collection joining local birds, newborn-care pressure, memory, hope, field experience, and literary restructuring.
 - [eBird](entities/EBird.md) — Bird-observation platform used as a citizen-science case for turning personal bird lists and sightings into structured research data.
 - [懂鸟 / Dongniao](entities/Dongniao.md) — Chinese AI bird-recognition tool used to illustrate rare-species identification limits and spurious visual correlations.
 - [中华凤头燕鸥 / Chinese Crested Tern](entities/ChineseCrestedTern.md) — Endangered tern species used as the source's concrete case for active conservation intervention.
@@ -24405,9 +24407,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hard Negative Mining](concepts/HardNegativeMining.md) — Training-data practice of using close-but-wrong examples so retrieval models learn domain-specific distinctions.
 - [Context Decay](concepts/ContextDecay.md) — Failure mode where long conversations or agent workflows lose, blur, or misapply earlier information.
 - [AI Search Evaluation](concepts/AISearchEvaluation.md) — Evaluation problem for whether AI systems retrieved, ranked, and synthesized evidence that actually supports an answer.
-- [Birdwatching As Attention](concepts/BirdwatchingAsAttention.md) — Practice of using birdwatching to make ordinary places higher-resolution through taxonomy, ecology, behavior, sound, and habitat awareness.
+- [Birdwatching As Attention](concepts/BirdwatchingAsAttention.md) — Practice of making ordinary places and future seasons more legible through sensory observation, taxonomy, ecology, behavior, records, and repeated return.
+- [Birdwatching Against Contingency / 观鸟对抗无常](concepts/BirdwatchingAgainstContingency.md) — Using searches, seasons, learned distinctions, and future sightings to build direction without pretending uncertainty disappears.
+- [Creative Nonfiction Restructuring / 创意非虚构的叙事重组](concepts/CreativeNonfictionRestructuring.md) — Reordering factual events through chronology, parallel timelines, delayed revelation, context, and deep time without licensing invention.
 - [Citizen Science](concepts/CitizenScience.md) — Public observation and structured data contribution to research, illustrated through bird lists, ring sightings, photos, and reviewer checks.
-- [Nature Writing](concepts/NatureWriting.md) — Nonfiction mode that keeps natural observation, field notes, body, memory, people, and psychological truth together.
+- [Nature Writing](concepts/NatureWriting.md) — Nonfiction joining field observation, local experience, body, memory, research, people, and literary form while preserving nonhuman thickness.
 - [Urban Ecology](concepts/UrbanEcology.md) — City-nature frame where parks, wetlands, wasteland, infrastructure, birds, and human management form dynamic habitats.
 - [AI Recognition Bias](concepts/AIRecognitionBias.md) — Classifier failure mode where models learn spurious visual signals such as background, camera, or photographer patterns instead of intended object traits.
 - [Conservation Intervention](concepts/ConservationIntervention.md) — Active species-protection work using habitat design, sound, decoys, disturbance control, monitoring, and feedback under ecological uncertainty.

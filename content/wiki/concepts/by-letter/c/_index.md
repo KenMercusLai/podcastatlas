@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9655
+wiki_total_pages: 9657
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2474,6 +2474,9 @@ wiki_pages:
   - key: "CreativeMaterialIndustrialization"
     title: "Creative Material Industrialization"
     url: "/wiki/concepts/creativematerialindustrialization/"
+  - key: "CreativeNonfictionRestructuring"
+    title: "Creative Nonfiction Restructuring / 创意非虚构的叙事重组"
+    url: "/wiki/concepts/creativenonfictionrestructuring/"
   - key: "CreativePhaseSeparation"
     title: "Creative Phase Separation"
     url: "/wiki/concepts/creativephaseseparation/"

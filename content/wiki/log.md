@@ -29409,3 +29409,11 @@ Added source `zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-l
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | Episode 223: 事物变成其他事物
+
+Added source `episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847`; created [[QiangQiang]], [[BirdwatchingAgainstContingency]], and [[CreativeNonfictionRestructuring]]; and resynthesized [[RenNing]], [[HopeIsTheThingWithFeathersBook]], [[ChizaoGengxin]], [[BirdwatchingAsAttention]], and [[NatureWriting]] from their complete preserved evidence inventories. Core synthesis: birdwatching can give uncertainty a concrete future through seasons, searches, and repeated attention, while factual but nonlinear nature writing can turn failed sightings, newborn-care pressure, and scattered memory into provisional order without reducing birds to therapy or inventing experience. No settled contradiction was adopted. The claim about scarcity in locally intimate Chinese nature writing, the composition account, and Ren Ning's self-assessed postpartum-depression tendency remain source-scoped rather than comprehensive, archival, or clinical findings. The automatic `wiki/overview.md` was updated during normal ingest; downstream synthesis and publish validation were then refreshed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

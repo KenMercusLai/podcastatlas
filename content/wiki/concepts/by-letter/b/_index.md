@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9655
+wiki_total_pages: 9657
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "BirdsongPlaybackEthics"
     title: "Birdsong Playback Ethics / 鸣声回放伦理"
     url: "/wiki/concepts/birdsongplaybackethics/"
+  - key: "BirdwatchingAgainstContingency"
+    title: "Birdwatching Against Contingency / 观鸟对抗无常"
+    url: "/wiki/concepts/birdwatchingagainstcontingency/"
   - key: "BirdwatchingAsAttention"
     title: "Birdwatching As Attention"
     url: "/wiki/concepts/birdwatchingasattention/"

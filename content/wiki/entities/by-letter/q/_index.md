@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 12315
+wiki_total_pages: 12316
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "QinJimiao"
     title: "极庙 / Qin Ji Miao"
     url: "/wiki/entities/qinjimiao/"
+  - key: "QiangQiang"
+    title: "枪枪 / Qiang Qiang"
+    url: "/wiki/entities/qiangqiang/"
   - key: "QiaoXuanLateHan"
     title: "桥玄 / Qiao Xuan (late Han)"
     url: "/wiki/entities/qiaoxuanlatehan/"
