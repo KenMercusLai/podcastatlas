@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped](sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped.md) — Data Science With Sam recap of CUDA's flywheel, Nvidia's $1 trillion Blackwell/Vera Rubin order narrative, the inference economy, Groq LPUs, NeMoClaw, physical AI, and open Nemotron models, with naming and deployment claims kept source-scoped.
 - [《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？](sources/zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer.md) — 汉武帝盛年巡祭、卫青去世与刺史监察并置；节目把关键制衡者消失解释为不安全感和控制升级，但保留其因果与制度沿革为来源限定。
 - [《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS](sources/zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98.md) — 卫青去世与资深文武凋零促使汉武帝广求能任将相及远使的非常人才；节目再以“印记法则”把严苛用人与人才短缺解释为镜像反馈，并把念头觉察作为实践层。
 - [《资治通鉴·汉纪》370-1｜揭秘汉朝第一位与匈奴和亲的公主](sources/zizhi-tongjian-hanji-370-1-jiemi-hanchao-diyiwei-yu-xiongnu-heqin-de-gongzhu-lgetvmacjnoxhqfzymupxsk7fknk.md) — 乌孙在匈奴压力下以千匹马求娶汉室公主，刘细君的真皇族血统与父亲刘建案后的弱势处境遂被转化为汉—乌孙联盟资源。

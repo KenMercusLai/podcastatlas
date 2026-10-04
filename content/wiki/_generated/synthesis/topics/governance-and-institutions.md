@@ -3,16 +3,16 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-10-04
-as_of_overview_commit: a5b6a9cbd86ebf59b07f8e27f8dc0993c0412ecb
-input_digest: 6da5257646e06b835f1e72e85320f2e45168f450144802aae7fa785298ce0165
+last_updated: 2026-10-05
+as_of_overview_commit: 9843c76b28f13e269d9521b6116452dbd79c69f7
+input_digest: 0a06fb1603bc0474caad82050c5f6398262b583c202f589c71c9e81374dd21ef
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-The second Ku Klux Klan adds a governance case in which social normalization, membership data, religious intermediaries, messaging, turnout, and local officeholding converted exclusion into institutional power, while violence, predation, bribery exposure, and weak coalition capacity made that power brittle. Across historical and modern cases, governance depends on more than formal rules: legitimacy, information, administrative capacity, bargaining, accountability, and implementation incentives determine whether institutions can act and whether their action remains bounded. The newest All-In addition places AI infrastructure inside that legitimacy frame: physical compute can be strategically necessary while local communities still contest electricity costs, pollution, jobs, concentrated wealth, and weakly evidenced benefits; bring-your-own-power addresses only part of the bargain. Political allegations, policy details, market interpretations, and company claims remain source-scoped.
+Across the bounded historical and modern cases, governance depends on more than formal rules: legitimacy, information, administrative capacity, bargaining, accountability, and implementation incentives determine whether institutions can act and whether action remains bounded. EP36 adds that enterprise agents require explicit security and governance controls, while rack-scale and physical-AI announcements require deliverable power, cooling, utilization, safety, and adoption before projected capacity becomes legitimate operating infrastructure; product and deployment details remain source-scoped.
 
 ## Cross-source Findings
 
@@ -2772,3 +2772,15 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 
 - The episode provides estimates and a narrative synthesis rather than a complete membership roll, election dataset, office-by-office causal analysis, or comparative theory of extremist capture.
 - Klan-backed victories do not prove exclusive control of every officeholder, and scandal was one cause among violence, backlash, overreach, policy effects, and economic change.
+
+### Enterprise Agent And Infrastructure Governance Needs Controls And Delivery Proof
+
+[[ep-36-nvidia-gtc-2026-everything-that-matters-recapped|EP36]] adds an AI-governance boundary: [[NeMoClaw]] links an open agent runtime to enterprise security and governance controls, while [[NvidiaVeraRubinPlatform|Vera Rubin]], [[TokenPerWatt]], and [[PhysicalAI]] show that infrastructure legitimacy also depends on deliverable power, cooling, utilization, safety, and adoption rather than announcements or token volume alone.
+
+**Evidence:** [[ep-36-nvidia-gtc-2026-everything-that-matters-recapped]], [[NeMoClaw]], [[NvidiaVeraRubinPlatform]], [[TokenPerWatt]], [[PhysicalAI]]
+
+**Qualifications:**
+
+- Enterprise-secure is the episode's characterization of NeMoClaw rather than an independent security assessment or proof of safe default deployment.
+- Projected orders and announced vehicle or robot deployments do not establish manufacturing, energization, customer adoption, safety approval, or utilization.
+- Names, transaction terms, rack details, coalition membership, and deployment dates remain source-scoped because the supplied document is a structured recap with transcription uncertainty.

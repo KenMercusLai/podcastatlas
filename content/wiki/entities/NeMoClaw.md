@@ -5,21 +5,23 @@ knowledge_schema: synthesis-v1
 tags: [ai, agents, nvidia, security]
 sources:
   - ep-38-the-local-ai-stack-nobody-talks-about-but-should
-last_updated: 2026-09-13
+  - ep-36-nvidia-gtc-2026-everything-that-matters-recapped
+last_updated: 2026-10-05
 ---
 
 # NeMoClaw
 
 ## Overview
-NeMoClaw is mentioned in [[ep-38-the-local-ai-stack-nobody-talks-about-but-should]] as an Nvidia-associated, more security-first variation in the local-agent discussion.
+NeMoClaw is an [[Nvidia]]-associated enterprise reference stack described across the sources as a security and governance layer around [[OpenClaw]].
 
 ## Current Profile
-The episode contrasts NeMoClaw with [[OpenClaw]] through default permissions. NeMoClaw is described as starting with nothing allowed and requiring explicit configuration before the agent can act, making it a useful anchor for enterprise-safe agent setup.
+The current profile combines two compatible views. EP38 emphasizes a deny-by-default permission posture for local agents; EP36 describes NeMoClaw as an enterprise-secure stack that pairs the OpenClaw runtime with Nemotron agent models, governance tooling, security controls, and Nvidia hardware integration. Together they position NeMoClaw as an enterprise packaging and control layer rather than a separate general-purpose agent category.
 
 ## Key Characteristics
-- Security-first local-agent variation in the source account.
-- Starts from a deny-by-default permission posture as described in the episode.
-- Illustrates the enterprise tradeoff between safety, setup burden, and agent usefulness.
+- Builds on the [[OpenClaw]] runtime in the EP36 account rather than replacing its agent model.
+- Starts from a deny-by-default permission posture as described in EP38.
+- Adds enterprise security, governance, optimized agent models, and Nvidia integration in EP36.
+- Illustrates the tradeoff between agent reach, administrative control, setup burden, and usefulness.
 
 ## Evidence
 ### Permission model
@@ -28,12 +30,17 @@ The episode contrasts NeMoClaw with [[OpenClaw]] through default permissions. Ne
 ### Enterprise safety framing
 - [[ep-38-the-local-ai-stack-nobody-talks-about-but-should]] presents NeMoClaw as potentially safer for enterprise settings, while warning that it adds setup and friction.
 
+### Enterprise stack framing
+- [[ep-36-nvidia-gtc-2026-everything-that-matters-recapped]] describes OpenClaw as the runtime and NeMoClaw as the enterprise-secure reference stack around it, including Nemotron models, governance, and hardware integration.
+
 ## Qualifications
-- The source does not provide product documentation, release status, or independent security assessment.
-- The page should keep NeMoClaw source-scoped until later sources corroborate details.
+- Neither source provides product documentation, configuration detail, release status, or an independent security assessment.
+- "Enterprise-secure" is the episode's characterization, not evidence that deployments are secure by default.
+- The Android-style runtime-versus-enterprise analogy is explanatory marketing language and does not establish architectural equivalence.
 
 ## What Changed
-- Created NeMoClaw as the security-first local-agent comparison point.
+- Expanded NeMoClaw from a deny-by-default local-agent comparison into an enterprise stack around OpenClaw.
+- Added Nemotron, governance, security, and Nvidia integration as source-scoped components.
 
 ## Relationships
 - [[OpenClaw]] - local-agent comparison in the source.

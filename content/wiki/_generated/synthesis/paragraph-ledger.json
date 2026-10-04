@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ad09ba789281afb51502b7a10fd1709572d10ff6bc6decf2f3eb859cbf0a445c",
       "e2c679065a3f47a51a4acd3c0b83d2bd8f67a84416ad48cd912b5bd311632cf3",
       "af358a86bf70ef234352251fc0a6c428f5eb59080a1b463629e9843fb6a65432",
       "8acbcfb4e29fba02878bca0d9d4cb29edf99fe87b7b48806f161f50c0fbfcff9",
@@ -789,11 +790,37 @@
       "30dab5d9a3dbe5a1852603c018045e5063833f4e7647d6399d3386f189f53928",
       "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61"
     ],
-    "paragraph_count": 787
+    "paragraph_count": 788
   },
-  "overview_commit": "02855c748085c62c02a08d8696f1dee9d820051a",
-  "overview_digest": "782fc6ec51396dc10fff247f78347755939bed5db6706ed363f6821f393d4dcd",
+  "overview_commit": "9843c76b28f13e269d9521b6116452dbd79c69f7",
+  "overview_digest": "21829fb6d96467bc11bddd6f348257ef98fc9eec3f46baaca3740915a57a8b3e",
   "paragraphs": [
+    {
+      "id": "ad09ba789281afb51502b7a10fd1709572d10ff6bc6decf2f3eb859cbf0a445c",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[ep-36-nvidia-gtc-2026-everything-that-matters-recapped|EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped]], a [[DataScienceWithSam]] episode framing GTC as an infrastructure declaration built around [[CUDA]], [[NvidiaVeraRubinPlatform|Vera Rubin]], [[Groq]], [[NeMoClaw]], and [[PhysicalAI]]. It resynthesizes [[CUDA]], [[NvidiaVeraRubinPlatform]], [[Groq]], [[NeMoClaw]], [[InferenceAsCashFlow]], and [[TokenPerWatt]]. Its core synthesis is that Nvidia's strategic unit is no longer an isolated GPU: developer lock-in, rack-scale systems, recurring production inference, enterprise agent controls, vehicles, robots, and open models can all expand compute demand, while delivery still depends on power, cooling, supply, utilization, safety, governance, and customer adoption. No settled contradiction is adopted. The supplied \"Jensen Wong,\" \"Grok,\" and \"Alpha-Mayo\" forms are treated as transcription uncertainty and normalized where existing identity evidence is strong; order totals, acquisition price, rack specifications, coalition membership, fleet plans, and deployment dates remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 1,
+        "governance-and-institutions": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "CUDA",
+        "DataScienceWithSam",
+        "Groq",
+        "InferenceAsCashFlow",
+        "NeMoClaw",
+        "NvidiaVeraRubinPlatform",
+        "PhysicalAI",
+        "TokenPerWatt",
+        "ep-36-nvidia-gtc-2026-everything-that-matters-recapped"
+      ]
+    },
     {
       "id": "e2c679065a3f47a51a4acd3c0b83d2bd8f67a84416ad48cd912b5bd311632cf3",
       "primary_topic": "governance-and-institutions",

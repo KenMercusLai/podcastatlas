@@ -1,28 +1,54 @@
 ---
 title: "Token per Watt"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [ai, infrastructure, energy, semiconductors]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
-last_updated: 2026-08-07
+sources:
+  - e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b
+  - guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f
+  - ep-36-nvidia-gtc-2026-everything-that-matters-recapped
+last_updated: 2026-10-05
 ---
 
 # Token per Watt
 
-Token per watt is the efficiency metric foregrounded in [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] through [[Nvidia]]'s GTC messaging. The episode treats it as a sign that AI infrastructure is being measured by usable token output per energy input, not only by FLOPS, chip count, or benchmark speed.
+## Definition
+Token per watt is an AI-infrastructure efficiency metric that relates delivered model-token output to energy input, shifting attention from peak chip specifications toward useful serving work under power constraints.
 
-The metric matters because [[AIInferenceCostStructure]] increasingly depends on power, cooling, memory movement, and data-center deployment. In the source, [[NvidiaBlackwellPlatform|Blackwell]] and [[NvidiaVeraRubinPlatform|Vera Rubin]] efficiency claims only become useful if they translate into lower cost and higher throughput inside real [[MaaSInfrastructure]] environments.
-
-[[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds the domestic [[AIAcceleratorSupernode|supernode]] tradeoff. A system such as [[HuaweiCM384]] can post higher aggregate compute than [[NvidiaGB200NVL72|NVL72]] while using far more total power, so token-per-watt helps distinguish usable efficiency from raw system size.
+## Current Synthesis
+Across the sources, token per watt is a system metric rather than a chip-only benchmark. Memory movement, interconnect, cooling, utilization, software, workload mix, and rack deployment all affect how much usable inference a given power envelope can deliver. It is especially useful for comparing large systems whose aggregate compute rises by adding accelerators, but it remains incomplete unless token quality, latency, task success, cost, and total facility energy are specified.
 
 ## Key Claims
-- Token-per-watt shifts attention from raw accelerator specs to delivered AI work under energy constraints.
-- The metric links model-serving economics to [[DataCenterPowerBottleneck|data-center power bottlenecks]] and [[DataCenterThermalManagement]].
-- Communication and memory movement can reduce effective token-per-watt even when arithmetic units are fast.
-- Token efficiency can increase total demand if it enables more agents and applications to run continuously.
-- Supernode catch-up needs token-per-watt discipline because adding accelerators can raise compute and power at the same time.
+- Token per watt shifts evaluation from raw FLOPS or chip counts toward delivered AI work under energy constraints.
+- Memory movement, communication, cooling, utilization, and software can dominate effective system efficiency.
+- Larger supernodes can increase aggregate compute while worsening power efficiency.
+- Inference- and agent-oriented platforms make continuous output efficiency more economically important.
+- Better efficiency can expand total demand, so lower energy per token does not guarantee lower aggregate energy use.
 
-## Connections
-- [[Nvidia]], [[GPU]], [[NvidiaBlackwellPlatform]], and [[NvidiaVeraRubinPlatform]] - platform and product context.
-- [[AIInferenceCostStructure]], [[InferenceAsCashFlow]], and [[JevonsParadoxInAI]] - demand and cost interpretation.
-- [[DataCenterPowerBottleneck]], [[DataCenterThermalManagement]], and [[MaaSInfrastructure]] - physical serving constraints.
-- [[HuaweiCM384]], [[NvidiaGB200NVL72]], and [[DomesticAIChipOrderValidation]] - WAIC source's supernode efficiency comparison.
+## Evidence
+### Nvidia infrastructure framing
+- [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] uses token per watt to interpret Nvidia's shift from isolated GPU performance toward full-stack token production.
+- [[ep-36-nvidia-gtc-2026-everything-that-matters-recapped]] presents useful intelligence output per watt as a planning metric for Vera Rubin and the broader inference economy.
+
+### Supernode comparison
+- [[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] uses higher-power domestic supernodes to show why aggregate compute alone cannot establish system efficiency or competitive catch-up.
+
+## Counterevidence & Qualifications
+- Tokens are not uniform units of value across models, modalities, context lengths, quality levels, or tasks.
+- Vendor claims may omit facility overhead, utilization, networking, cooling, or workload assumptions.
+- A system can improve tokens per watt while increasing total electricity consumption through greater usage.
+- Energy efficiency does not resolve supply, latency, reliability, capital cost, or data-center power availability.
+
+## What Changed
+- Migrated the concept to the synthesis-v1 schema.
+- Added the GTC recap's inference-economy and enterprise-planning interpretation.
+- Clarified that output quality and total facility boundaries are necessary for meaningful comparison.
+
+## Related Concepts
+- [[AIInferenceCostStructure]] - economic structure that energy efficiency helps determine.
+- [[InferenceAsCashFlow]] - recurring-demand thesis that makes serving efficiency important.
+- [[DataCenterPowerBottleneck]] - physical limit motivating output-per-energy metrics.
+- [[DataCenterThermalManagement]] - facility overhead affecting realized efficiency.
+- [[AIInfrastructureFullStackMoat]] - system integration layer behind delivered rather than theoretical output.
+- [[JevonsParadoxInAI]] - demand response that can offset per-token efficiency gains.
+- [[AIAcceleratorSupernode]] - system scale where raw compute and energy efficiency can diverge.

@@ -29221,6 +29221,43 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/cssedit/"
     },
+    "CUDA": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "acc532947b65 [acc532947b65].md",
+          "key": "acc532947b65-acc532947b65",
+          "show": "科技乱炖",
+          "title": "没有方向盘的出行，走到哪一步了？ NVIDIA × 小马智行一次聊透智能驾驶",
+          "url": "/wiki/sources/acc532947b65-acc532947b65/"
+        },
+        {
+          "episode_file": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘 [fd17090c-0d72-4c0d-aa3e-9b00bc062149].md",
+          "key": "e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149",
+          "show": "硅谷101",
+          "title": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘",
+          "url": "/wiki/sources/e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149/"
+        },
+        {
+          "episode_file": "国产 AI 算力能凭「超节点」弯道超车吗？ ｜ WAIC 深度观察 S10E23 [a6c6ab3e-72b2-470b-aefd-04b19679d37f].md",
+          "key": "guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f",
+          "show": "What's Next｜科技早知道",
+          "title": "国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23",
+          "url": "/wiki/sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f/"
+        },
+        {
+          "episode_file": "4ACC4A7C47824C52FA0781E901AE2E93~8584409_2026-08-10-214009-8787-0-0-1.128 [4ACC4A7C47824C52FA0781E901AE2E93~8584409_2026-08-10-214009-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a190].md",
+          "key": "ep-36-nvidia-gtc-2026-everything-that-matters-recapped",
+          "show": "Data Science With Sam",
+          "title": "EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped",
+          "url": "/wiki/sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/cuda/"
+    },
     "CabinetExhaustionManagement": {
       "episode_count": 1,
       "show_count": 1,
@@ -90495,9 +90532,9 @@
       "url": "/wiki/entities/grokbot/"
     },
     "Groq": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋 [d97446f1-d6e3-4894-89d1-dca0a362b10b].md",
@@ -90519,9 +90556,16 @@
           "show": "硅谷101",
           "title": "E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
           "url": "/wiki/sources/e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0/"
+        },
+        {
+          "episode_file": "4ACC4A7C47824C52FA0781E901AE2E93~8584409_2026-08-10-214009-8787-0-0-1.128 [4ACC4A7C47824C52FA0781E901AE2E93~8584409_2026-08-10-214009-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a190].md",
+          "key": "ep-36-nvidia-gtc-2026-everything-that-matters-recapped",
+          "show": "Data Science With Sam",
+          "title": "EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped",
+          "url": "/wiki/sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/groq/"
     },
     "GroundPowerEngineValidationFlywheel": {
@@ -108654,6 +108698,29 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/infectiousdiseasestigmaprivacy/"
+    },
+    "InferenceAsCashFlow": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋 [d97446f1-d6e3-4894-89d1-dca0a362b10b].md",
+          "key": "e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b",
+          "show": "硅谷101",
+          "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+          "url": "/wiki/sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b/"
+        },
+        {
+          "episode_file": "4ACC4A7C47824C52FA0781E901AE2E93~8584409_2026-08-10-214009-8787-0-0-1.128 [4ACC4A7C47824C52FA0781E901AE2E93~8584409_2026-08-10-214009-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a190].md",
+          "key": "ep-36-nvidia-gtc-2026-everything-that-matters-recapped",
+          "show": "Data Science With Sam",
+          "title": "EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped",
+          "url": "/wiki/sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/inferenceascashflow/"
     },
     "InferenceChipAsEmbodiedMoat": {
       "episode_count": 1,
@@ -152883,9 +152950,9 @@
       "url": "/wiki/entities/ndongo/"
     },
     "NeMoClaw": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
@@ -152893,9 +152960,16 @@
           "show": "Data Science With Sam",
           "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
           "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        },
+        {
+          "episode_file": "4ACC4A7C47824C52FA0781E901AE2E93~8584409_2026-08-10-214009-8787-0-0-1.128 [4ACC4A7C47824C52FA0781E901AE2E93~8584409_2026-08-10-214009-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a190].md",
+          "key": "ep-36-nvidia-gtc-2026-everything-that-matters-recapped",
+          "show": "Data Science With Sam",
+          "title": "EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped",
+          "url": "/wiki/sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/nemoclaw/"
     },
     "NeanderthalBehavioralComplexity": {
@@ -156686,6 +156760,36 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/nvidiadgxspark/"
+    },
+    "NvidiaVeraRubinPlatform": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+        },
+        {
+          "episode_file": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋 [d97446f1-d6e3-4894-89d1-dca0a362b10b].md",
+          "key": "e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b",
+          "show": "硅谷101",
+          "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+          "url": "/wiki/sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b/"
+        },
+        {
+          "episode_file": "4ACC4A7C47824C52FA0781E901AE2E93~8584409_2026-08-10-214009-8787-0-0-1.128 [4ACC4A7C47824C52FA0781E901AE2E93~8584409_2026-08-10-214009-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a190].md",
+          "key": "ep-36-nvidia-gtc-2026-everything-that-matters-recapped",
+          "show": "Data Science With Sam",
+          "title": "EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped",
+          "url": "/wiki/sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/nvidiaverarubinplatform/"
     },
     "NvwaZhiSi": {
       "episode_count": 1,
@@ -213621,6 +213725,36 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/todaypersonalai/"
+    },
+    "TokenPerWatt": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋 [d97446f1-d6e3-4894-89d1-dca0a362b10b].md",
+          "key": "e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b",
+          "show": "硅谷101",
+          "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+          "url": "/wiki/sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b/"
+        },
+        {
+          "episode_file": "国产 AI 算力能凭「超节点」弯道超车吗？ ｜ WAIC 深度观察 S10E23 [a6c6ab3e-72b2-470b-aefd-04b19679d37f].md",
+          "key": "guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f",
+          "show": "What's Next｜科技早知道",
+          "title": "国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23",
+          "url": "/wiki/sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f/"
+        },
+        {
+          "episode_file": "4ACC4A7C47824C52FA0781E901AE2E93~8584409_2026-08-10-214009-8787-0-0-1.128 [4ACC4A7C47824C52FA0781E901AE2E93~8584409_2026-08-10-214009-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a190].md",
+          "key": "ep-36-nvidia-gtc-2026-everything-that-matters-recapped",
+          "show": "Data Science With Sam",
+          "title": "EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped",
+          "url": "/wiki/sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/tokenperwatt/"
     },
     "TokenRevenueBuybackModel": {
       "episode_count": 1,

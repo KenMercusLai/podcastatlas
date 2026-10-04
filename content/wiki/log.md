@@ -29780,3 +29780,11 @@ Added source `zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fe
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped
+
+Added source `ep-36-nvidia-gtc-2026-everything-that-matters-recapped`; resynthesized [[CUDA]], [[NvidiaVeraRubinPlatform|Nvidia Vera Rubin Platform]], [[Groq]], [[NeMoClaw]], [[InferenceAsCashFlow]], and [[TokenPerWatt]] from their complete preserved evidence inventories. Core synthesis: the episode treats Nvidia's strategic unit as a developer-and-infrastructure system spanning CUDA, rack-scale training and inference, recurring agent demand, enterprise controls, vehicles, robotics, and open models rather than an isolated GPU. No settled contradiction was adopted. The supplied “Jensen Wong,” “Grok,” and “Alpha-Mayo” forms were treated as transcription uncertainty; established identities were normalized where evidence was sufficient, while product names, acquisition price, rack specifications, order projections, fleet plans, coalition membership, and deployment dates remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. AI and technology plus governance and institutions were refreshed from their complete bounded inputs; global compaction ran; the manifest and paragraph ledger now cover 3,723 sources and 788 overview paragraphs. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide lightweight validator still reports 20 pre-existing broken links outside this ingest.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

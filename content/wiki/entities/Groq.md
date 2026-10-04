@@ -7,7 +7,8 @@ sources:
   - e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b
   - e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149
   - e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0
-last_updated: 2026-09-20
+  - ep-36-nvidia-gtc-2026-everything-that-matters-recapped
+last_updated: 2026-10-05
 ---
 
 # Groq
@@ -16,7 +17,7 @@ last_updated: 2026-09-20
 Groq is an inference-chip company used across the sources as the leading example of SRAM-heavy, compiler-centered, deterministic low-latency specialization. Its architecture moves much scheduling work before runtime and keeps data close to compute, trading generality and capacity for predictable execution and fast token delivery.
 
 ## Current Profile
-The current profile is technically differentiated but workload-bounded. Earlier sources position Groq as a low-latency complement rather than a universal [[Nvidia]] or [[TPU]] replacement. [[e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0|E251]] explains the mechanism more precisely: compiler-time schedules and on-chip SRAM reduce runtime uncertainty and memory movement, while dynamic [[MixtureOfExperts|MoE]] routing can force over-communication or idle hardware. The episode also reports a late-2025 Nvidia acquisition and interprets it as a route for adding a bandwidth-oriented architecture outside the mature GPU product path.
+The current profile is technically differentiated but workload-bounded. Earlier sources position Groq as a low-latency complement rather than a universal [[Nvidia]] or [[TPU]] replacement. [[e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0|E251]] explains the mechanism more precisely: compiler-time schedules and on-chip SRAM reduce runtime uncertainty and memory movement, while dynamic [[MixtureOfExperts|MoE]] routing can force over-communication or idle hardware. EP36 repeats the acquisition and rack-scale LPU narrative, but its "Grok" spelling and "Grok 3" product label are treated as transcription uncertainty rather than new canonical identity evidence.
 
 ## Key Characteristics
 - Uses an SRAM-heavy design to bring model data close to compute and reduce memory-access variability.
@@ -29,14 +30,16 @@ The current profile is technically differentiated but workload-bounded. Earlier 
 - Low-latency niche: [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b|E230]] uses Groq to show where communication-efficient inference can matter despite Nvidia's full-stack moat.
 - Market segmentation: [[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149|E228]] contrasts Groq's single-user latency orientation with TPU-favorable, high-throughput batching.
 - Architecture and qualification: [[e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0|E251]] connects deterministic SRAM execution to decode bandwidth and explains the mismatch between static schedules and dynamic expert routing.
+- GTC recap: [[ep-36-nvidia-gtc-2026-everything-that-matters-recapped]] describes Nvidia presenting a rack-scale LPU system after a reported acquisition; the source's "Grok" spelling is normalized to Groq.
 
 ## Qualifications
-The sources do not provide independently comparable cost, latency, utilization, or energy benchmarks. Groq's advantage depends on model shape, batching, interconnect, compiler quality, and acceptable idle capacity. The reported Nvidia acquisition, its price, and its strategic rationale remain source-scoped rather than independently verified here.
+The sources do not provide independently comparable cost, latency, utilization, or energy benchmarks. Groq's advantage depends on model shape, batching, interconnect, compiler quality, and acceptable idle capacity. The reported Nvidia acquisition, its price, strategic rationale, "Groq 3" generation name, and 256-LPU rack configuration remain source-scoped rather than independently verified here.
 
 ## What Changed
 - Migrated the page to the synthesis-v1 entity schema.
 - Added the deterministic compiler and SRAM mechanism behind the low-latency profile.
 - Added MoE runtime routing as a concrete qualification and the reported acquisition as source-scoped context.
+- Normalized EP36's "Grok" wording to Groq and retained its product and rack claims as uncertain source detail.
 
 ## Relationships
 - [[LowLatencyInferenceChip]] - chip category for Groq's latency-oriented specialization.

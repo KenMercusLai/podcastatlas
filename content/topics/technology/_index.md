@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3309
+topic_total_pages: 3310
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8991,6 +8991,9 @@ topic_sources:
   - key: "ep-28-the-ai-revolution-redefining-healthcare-financing"
     title: "EP 28: The AI Revolution: Redefining Healthcare Financing"
     url: "/wiki/sources/ep-28-the-ai-revolution-redefining-healthcare-financing/"
+  - key: "ep-36-nvidia-gtc-2026-everything-that-matters-recapped"
+    title: "EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped"
+    url: "/wiki/sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped/"
   - key: "ep-37-neurons-future-of-ai-processing"
     title: "EP 37: Neurons: Future of AI Processing"
     url: "/wiki/sources/ep-37-neurons-future-of-ai-processing/"
