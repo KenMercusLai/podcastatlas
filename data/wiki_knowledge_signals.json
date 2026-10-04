@@ -40083,9 +40083,9 @@
       "url": "/wiki/concepts/climatealteredsummer/"
     },
     "ClimateDiseaseEcology": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8815959934 [GLT8815959934].md",
@@ -40093,9 +40093,16 @@
           "show": "The Rest Is History",
           "title": "313: Climate Apocalypse",
           "url": "/wiki/sources/313-climate-apocalypse-glt8815959934/"
+        },
+        {
+          "episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
+          "key": "vol-223-pai-yinchi-chong-zhijie-huirong-xi-haixian-ran-chuangshang-hujun-zhi-jiezhi-nanbeifang-shengcun-xin-zhinan-lnkg92mqovwqw-ixwqrgjs-evrri",
+          "show": "这病说来话长",
+          "title": "VOL.223拍隐翅虫直接毁容！洗海鲜染“创伤弧菌”致截肢｜南北方生存新指南",
+          "url": "/wiki/sources/vol-223-pai-yinchi-chong-zhijie-huirong-xi-haixian-ran-chuangshang-hujun-zhi-jiezhi-nanbeifang-shengcun-xin-zhinan-lnkg92mqovwqw-ixwqrgjs-evrri/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/climatediseaseecology/"
     },
     "ClimateExternalityCostAllocation": {
@@ -107015,9 +107022,9 @@
       "url": "/wiki/concepts/insectbiteaftercare/"
     },
     "InsectBiteDermatitis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
@@ -107025,9 +107032,16 @@
           "show": "这病说来话长",
           "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
           "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
+        },
+        {
+          "episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
+          "key": "vol-223-pai-yinchi-chong-zhijie-huirong-xi-haixian-ran-chuangshang-hujun-zhi-jiezhi-nanbeifang-shengcun-xin-zhinan-lnkg92mqovwqw-ixwqrgjs-evrri",
+          "show": "这病说来话长",
+          "title": "VOL.223拍隐翅虫直接毁容！洗海鲜染“创伤弧菌”致截肢｜南北方生存新指南",
+          "url": "/wiki/sources/vol-223-pai-yinchi-chong-zhijie-huirong-xi-haixian-ran-chuangshang-hujun-zhi-jiezhi-nanbeifang-shengcun-xin-zhinan-lnkg92mqovwqw-ixwqrgjs-evrri/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/insectbitedermatitis/"
     },
     "InstantRetail": {
@@ -215839,6 +215853,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/vibetrading/"
     },
+    "VibrioVulnificusWoundEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
+          "key": "vol-223-pai-yinchi-chong-zhijie-huirong-xi-haixian-ran-chuangshang-hujun-zhi-jiezhi-nanbeifang-shengcun-xin-zhinan-lnkg92mqovwqw-ixwqrgjs-evrri",
+          "show": "这病说来话长",
+          "title": "VOL.223拍隐翅虫直接毁容！洗海鲜染“创伤弧菌”致截肢｜南北方生存新指南",
+          "url": "/wiki/sources/vol-223-pai-yinchi-chong-zhijie-huirong-xi-haixian-ran-chuangshang-hujun-zhi-jiezhi-nanbeifang-shengcun-xin-zhinan-lnkg92mqovwqw-ixwqrgjs-evrri/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/vibriovulnificuswoundescalation/"
+    },
     "VictimForgivenessAgency": {
       "episode_count": 2,
       "show_count": 2,
@@ -220311,6 +220341,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/waronterroroverreach/"
+    },
+    "WarmFreshwaterNasalExposureRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
+          "key": "vol-223-pai-yinchi-chong-zhijie-huirong-xi-haixian-ran-chuangshang-hujun-zhi-jiezhi-nanbeifang-shengcun-xin-zhinan-lnkg92mqovwqw-ixwqrgjs-evrri",
+          "show": "这病说来话长",
+          "title": "VOL.223拍隐翅虫直接毁容！洗海鲜染“创伤弧菌”致截肢｜南北方生存新指南",
+          "url": "/wiki/sources/vol-223-pai-yinchi-chong-zhijie-huirong-xi-haixian-ran-chuangshang-hujun-zhi-jiezhi-nanbeifang-shengcun-xin-zhinan-lnkg92mqovwqw-ixwqrgjs-evrri/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/warmfreshwaternasalexposurerisk/"
     },
     "WarrenCommission": {
       "episode_count": 3,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9616
+wiki_total_pages: 9618
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "WarehouseClubModel"
     title: "Warehouse Club Model"
     url: "/wiki/concepts/warehouseclubmodel/"
+  - key: "WarmFreshwaterNasalExposureRisk"
+    title: "Warm Freshwater Nasal Exposure Risk / 温暖淡水经鼻暴露风险"
+    url: "/wiki/concepts/warmfreshwaternasalexposurerisk/"
   - key: "WarmthCompetenceStereotype"
     title: "Warmth-Competence Stereotype / 热情-能力刻板印象"
     url: "/wiki/concepts/warmthcompetencestereotype/"

@@ -29265,3 +29265,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | VOL.223拍隐翅虫直接毁容！洗海鲜染“创伤弧菌”致截肢｜南北方生存新指南
+
+Added source `vol-223-pai-yinchi-chong-zhijie-huirong-xi-haixian-ran-chuangshang-hujun-zhi-jiezhi-nanbeifang-shengcun-xin-zhinan-lnkg92mqovwqw-ixwqrgjs-evrri`; created [[VibrioVulnificusWoundEscalation]] and [[WarmFreshwaterNasalExposureRisk]]; and resynthesized [[InsectBiteDermatitis]] and [[ClimateDiseaseEcology]] from their complete preserved evidence inventories. Core synthesis: changing ecological conditions can alter relevant seasons and exposure geography, but route, host vulnerability, speed of progression, local surveillance, and healthcare response determine practical risk; rove beetles should be removed without crushing and contacted skin washed, rapidly worsening seafood wounds need emergency escalation, and rare warm-freshwater infection warnings should preserve the nasal-exposure route without treating one case as proof of broad northward spread. No settled contradiction was adopted. The sources' simplified rove-beetle toxin descriptions differ, and climate attribution, geographic expansion, case details, treatment specifics, and outcomes remain source-scoped public education rather than independent epidemiology or individualized medical guidance. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,658-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

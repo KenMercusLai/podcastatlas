@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 9616
+wiki_total_pages: 9618
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "VibeTraining"
     title: "Vibe Training"
     url: "/wiki/concepts/vibetraining/"
+  - key: "VibrioVulnificusWoundEscalation"
+    title: "Vibrio vulnificus Wound Escalation / 创伤弧菌伤口升级处置"
+    url: "/wiki/concepts/vibriovulnificuswoundescalation/"
   - key: "VictimBlamingAsInstitutionalDefense"
     title: "Victim Blaming As Institutional Defense"
     url: "/wiki/concepts/victimblamingasinstitutionaldefense/"
