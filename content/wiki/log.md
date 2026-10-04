@@ -29903,3 +29903,11 @@ Added source `655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784`; cr
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义
+
+Added source `244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457`; created [[YongleDadian|《永乐大典》]], [[ImperialVeritableRecords|帝王实录宝训]], [[BronzeInscriptionPosterity|金文的后世书写]], [[ChineseClassicalInterpretationContinuity|经学解释与文明延续]], and [[LongHorizonKnowledgeStewardship|长时段知识托管]]; and resynthesized [[BowuzhiPodcast|博物志]], [[WangGuowei|王国维]], [[SikuQuanshu|《四库全书》]], [[OracleBoneDivination|甲骨占卜]], [[AncientChineseBookMateriality|中国古籍物质性]], [[ChineseWoodblockPrintingEconomics|中国雕版印刷经济性]], and [[TextualSurvivalThroughRecopying]] from their complete preserved evidence inventories. Core synthesis: cultural memory survives through an active chain of inscription, classification, copying, explanation, access, criticism, and reuse, not through monumentality or storage alone. No settled contradiction was adopted; Xia-era extension of Shang evidence, exact *Yongle Dadian* totals and loss theories, printing-cost comparisons, and official-record neutrality remain bounded or qualified. The automatic `wiki/overview.md` was read for context and not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,738 sources and retain 789 overview paragraphs. Changed-page links, index coverage, identities, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

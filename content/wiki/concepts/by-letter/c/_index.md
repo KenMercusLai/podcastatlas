@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9693
+wiki_total_pages: 9696
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1181,6 +1181,9 @@ wiki_pages:
   - key: "ClassicRevoicingFromNewPosition"
     title: "Classic Revoicing From New Position / 新位置重述经典"
     url: "/wiki/concepts/classicrevoicingfromnewposition/"
+  - key: "ChineseClassicalInterpretationContinuity"
+    title: "Classical Interpretation as Civilizational Continuity / 经学解释与文明延续"
+    url: "/wiki/concepts/chineseclassicalinterpretationcontinuity/"
   - key: "ClassicalPoeticIntertextuality"
     title: "Classical Poetic Intertextuality"
     url: "/wiki/concepts/classicalpoeticintertextuality/"

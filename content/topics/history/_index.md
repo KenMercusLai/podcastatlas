@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2558
+topic_total_pages: 2560
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2183,6 +2183,9 @@ topic_entities:
   - key: "IBM"
     title: "IBM"
     url: "/wiki/entities/ibm/"
+  - key: "ImperialVeritableRecords"
+    title: "Imperial Veritable Records / 帝王实录宝训"
+    url: "/wiki/entities/imperialveritablerecords/"
   - key: "Ireland"
     title: "Ireland"
     url: "/wiki/entities/ireland/"
@@ -5487,6 +5490,9 @@ topic_sources:
   - key: "244-trafalgar-countdown-to-annihilation-part-2-glt5489746159"
     title: "244. Trafalgar: Countdown to Annihilation (Part 2)"
     url: "/wiki/sources/244-trafalgar-countdown-to-annihilation-part-2-glt5489746159/"
+  - key: "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457"
+    title: "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义"
+    url: "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
   - key: "245-trafalgar-victory-part-3-glt4217731619"
     title: "245. Trafalgar: Victory (Part 3)"
     url: "/wiki/sources/245-trafalgar-victory-part-3-glt4217731619/"

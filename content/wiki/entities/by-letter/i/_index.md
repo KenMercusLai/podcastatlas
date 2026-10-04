@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 12390
+wiki_total_pages: 12392
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "ImperialFascistLeague"
     title: "Imperial Fascist League"
     url: "/wiki/entities/imperialfascistleague/"
+  - key: "ImperialVeritableRecords"
+    title: "Imperial Veritable Records / 帝王实录宝训"
+    url: "/wiki/entities/imperialveritablerecords/"
   - key: "ImperialWarGravesCommission"
     title: "Imperial War Graves Commission"
     url: "/wiki/entities/imperialwargravescommission/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9693
+wiki_total_pages: 9696
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "LongHorizonAI"
     title: "Long-Horizon AI"
     url: "/wiki/concepts/longhorizonai/"
+  - key: "LongHorizonKnowledgeStewardship"
+    title: "Long-Horizon Knowledge Stewardship / 长时段知识托管"
+    url: "/wiki/concepts/longhorizonknowledgestewardship/"
   - key: "LongHorizonWorkEvaluation"
     title: "Long-Horizon Work Evaluation / 长时间尺度工作评估"
     url: "/wiki/concepts/longhorizonworkevaluation/"

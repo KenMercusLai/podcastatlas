@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 9693
+wiki_total_pages: 9696
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "BrokerageResearchReports"
     title: "Brokerage Research Reports"
     url: "/wiki/concepts/brokerageresearchreports/"
+  - key: "BronzeInscriptionPosterity"
+    title: "Bronze Inscription Posterity / 金文的后世书写"
+    url: "/wiki/concepts/bronzeinscriptionposterity/"
   - key: "BrooksLaw"
     title: "Brooks's Law"
     url: "/wiki/concepts/brookslaw/"

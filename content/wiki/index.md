@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义](sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457.md) — 博物志从甲骨、金文、经学、宋版书与印刷技术讲到《永乐大典》和帝王实录，提出保存、复制、开放、解释并交给未来使用的知识长期主义。
 - [655. The Ku Klux Klan: Terror in the South (Part 2)](sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784.md) — The Rest Is History on first-Klan electoral terror, Black political and institutional targets, Grant-era federal enforcement, Reconstruction rollback, and Lost Cause afterlife.
 - [杨笠×罗永浩！不想成为“靶心”，也无意成为“灯塔”](sources/yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo.md) — 罗永浩与杨笠谈巡演与冷场、喜剧创作、公众争议、家庭悲痛、隐私边界和终身创作选择。
 - [《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密](sources/zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg.md) — 鸡骨占卜被还原为祭祀、制骨、插竹与经书释象的完整程序，并与汉武帝采用粤巫、公孙卿献策及求仙建筑并置。
@@ -3802,6 +3803,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Using Salt to Optimize Mental & Physical Performance](sources/essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044.md) — Condensed Huberman Lab episode on sodium-water homeostasis, contextual intake, exercise replacement, and why overlap with the full release is provenance rather than replication.
 
 ## Entities
+- [《永乐大典》 / Yongle Dadian](entities/YongleDadian.md) — Ming classified compilation whose immense hand-copied scale, rhyme-based indexing, narrow readership, duplication, dispersal, and textual afterlife expose both preservation ambition and fragility.
+- [Imperial Veritable Records / 帝王实录宝训](entities/ImperialVeritableRecords.md) — Official dynastic memory whose monumental custody preserves valuable evidence while requiring criticism of political editing and genre.
 - [Nathan Bedford Forrest](entities/NathanBedfordForrest.md) — Former Confederate general linked to first-Klan leadership whose Tennessee disbandment order did not control decentralized groups elsewhere.
 - [Amos T. Akerman](entities/AmosTAkerman.md) — Grant administration attorney general who backed evidence-led federal prosecution of Klan conspiracies.
 - [Lewis Merrill](entities/LewisMerrill.md) — U.S. Army investigator whose York County evidence exposed local institutional capture and supported federal enforcement.
@@ -16243,6 +16246,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
 
 ## Concepts
+- [Bronze Inscription Posterity / 金文的后世书写](concepts/BronzeInscriptionPosterity.md) — Durable ritual inscription that explicitly addresses descendants through lineage, awards, events, transactions, and perpetual-use formulas.
+- [Classical Interpretation as Civilizational Continuity / 经学解释与文明延续](concepts/ChineseClassicalInterpretationContinuity.md) — Repeated reinterpretation of shared canonical texts that sustains cultural continuity while permitting methodological change, disagreement, and gatekeeping.
+- [Long-Horizon Knowledge Stewardship / 长时段知识托管](concepts/LongHorizonKnowledgeStewardship.md) — Active chain of recording, organizing, copying, explaining, storing, opening, and transferring knowledge for future use and reassessment.
 - [Reconstruction Electoral Terror](concepts/ReconstructionElectoralTerror.md) — Strategic violence and institutional capture used to suppress Black voters, organizers, officeholders, and community capacity.
 - [Reconstruction Federal Enforcement](concepts/ReconstructionFederalEnforcement.md) — Alignment of national law, executive authority, troops, investigation, arrest, and prosecution to protect political rights.
 - [Comedy Public Reception Boundary / 喜剧公共接受边界](concepts/ComedyPublicReceptionBoundary.md) — Separates comic intent, live audience effects, public amplification, projection, ethical revision, and creator boundaries.

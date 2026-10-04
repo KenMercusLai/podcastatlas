@@ -11880,9 +11880,9 @@
       "url": "/wiki/entities/anaya/"
     },
     "AncientChineseBookMateriality": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "8217911423_973793 [8217911423_973793].md",
@@ -11890,9 +11890,16 @@
           "show": "博物志",
           "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
           "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
+        },
+        {
+          "episode_file": "8225426843_437457 [8225426843_437457].md",
+          "key": "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457",
+          "show": "博物志",
+          "title": "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义",
+          "url": "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/ancientchinesebookmateriality/"
     },
     "AncientChineseEroticImagery": {
@@ -26544,9 +26551,9 @@
       "url": "/wiki/concepts/bowelsymptomtriage/"
     },
     "BowuzhiPodcast": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "8212963740_775078 [8212963740_775078].md",
@@ -26561,9 +26568,16 @@
           "show": "博物志",
           "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
           "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
+        },
+        {
+          "episode_file": "8225426843_437457 [8225426843_437457].md",
+          "key": "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457",
+          "show": "博物志",
+          "title": "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义",
+          "url": "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/bowuzhipodcast/"
     },
     "BoxingAsEmbodiedAgency": {
@@ -28144,6 +28158,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/broadcom/"
+    },
+    "BronzeInscriptionPosterity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8225426843_437457 [8225426843_437457].md",
+          "key": "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457",
+          "show": "博物志",
+          "title": "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义",
+          "url": "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/bronzeinscriptionposterity/"
     },
     "BrowserAsInternetUnlock": {
       "episode_count": 2,
@@ -38157,6 +38187,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/chinesecivilizationalcontinuity/"
     },
+    "ChineseClassicalInterpretationContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8225426843_437457 [8225426843_437457].md",
+          "key": "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457",
+          "show": "博物志",
+          "title": "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义",
+          "url": "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/chineseclassicalinterpretationcontinuity/"
+    },
     "ChineseCommunistParty": {
       "episode_count": 4,
       "show_count": 1,
@@ -38721,9 +38767,9 @@
       "url": "/wiki/concepts/chinesewesternmedicinecollaborationboundary/"
     },
     "ChineseWoodblockPrintingEconomics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "8217911423_973793 [8217911423_973793].md",
@@ -38731,9 +38777,16 @@
           "show": "博物志",
           "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
           "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
+        },
+        {
+          "episode_file": "8225426843_437457 [8225426843_437457].md",
+          "key": "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457",
+          "show": "博物志",
+          "title": "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义",
+          "url": "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/chinesewoodblockprintingeconomics/"
     },
     "ChinuaAchebe": {
@@ -108297,6 +108350,22 @@
       "updated": "2026-08-23",
       "url": "/wiki/concepts/imperialtourpoliticaltheater/"
     },
+    "ImperialVeritableRecords": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8225426843_437457 [8225426843_437457].md",
+          "key": "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457",
+          "show": "博物志",
+          "title": "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义",
+          "url": "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/imperialveritablerecords/"
+    },
     "ImperialVictoryReframing": {
       "episode_count": 1,
       "show_count": 1,
@@ -133820,6 +133889,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/longdurationendurancestandard/"
+    },
+    "LongHorizonKnowledgeStewardship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8225426843_437457 [8225426843_437457].md",
+          "key": "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457",
+          "show": "博物志",
+          "title": "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义",
+          "url": "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/longhorizonknowledgestewardship/"
     },
     "LongNow": {
       "episode_count": 8,
@@ -160378,6 +160463,29 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/optogenetics/"
+    },
+    "OracleBoneDivination": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+        },
+        {
+          "episode_file": "8225426843_437457 [8225426843_437457].md",
+          "key": "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457",
+          "show": "博物志",
+          "title": "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义",
+          "url": "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/oraclebonedivination/"
     },
     "OralAirwayDevelopment": {
       "episode_count": 2,
@@ -195975,9 +196083,9 @@
       "url": "/wiki/concepts/sijopoetry/"
     },
     "SikuQuanshu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "8217911423_973793 [8217911423_973793].md",
@@ -195985,9 +196093,16 @@
           "show": "博物志",
           "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
           "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
+        },
+        {
+          "episode_file": "8225426843_437457 [8225426843_437457].md",
+          "key": "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457",
+          "show": "博物志",
+          "title": "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义",
+          "url": "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/sikuquanshu/"
     },
     "SilentLiverDamageDetection": {
@@ -210691,9 +210806,9 @@
       "url": "/wiki/concepts/textualjudgmentevidencematching/"
     },
     "TextualSurvivalThroughRecopying": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1578679297 [GLT1578679297].md",
@@ -210701,9 +210816,16 @@
           "show": "The Rest Is History",
           "title": "361. The Lost Library of Alexandria",
           "url": "/wiki/sources/361-the-lost-library-of-alexandria-glt1578679297/"
+        },
+        {
+          "episode_file": "8225426843_437457 [8225426843_437457].md",
+          "key": "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457",
+          "show": "博物志",
+          "title": "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义",
+          "url": "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/textualsurvivalthroughrecopying/"
     },
     "TeyanaTaylor": {
@@ -223357,6 +223479,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/wangguoeunuchlatehan/"
+    },
+    "WangGuowei": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举” [565412437].md",
+          "key": "19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437",
+          "show": "蜜獾吃书",
+          "title": "19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举”",
+          "url": "/wiki/sources/19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437/"
+        },
+        {
+          "episode_file": "8225426843_437457 [8225426843_437457].md",
+          "key": "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457",
+          "show": "博物志",
+          "title": "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义",
+          "url": "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/wangguowei/"
     },
     "WangHaoShuScholar": {
       "episode_count": 1,
@@ -237666,6 +237811,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/yongkang/"
+    },
+    "YongleDadian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8225426843_437457 [8225426843_437457].md",
+          "key": "244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457",
+          "show": "博物志",
+          "title": "244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义",
+          "url": "/wiki/sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/yongledadian/"
     },
     "Yorktown": {
       "episode_count": 1,
