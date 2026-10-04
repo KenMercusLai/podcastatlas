@@ -29353,3 +29353,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 史蒂夫说470期 - 咨询师回信：该不该与伴侣聊前任？怎么聊才会有好结果？
+
+Added source `shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa`; created [[BehaviorBasedHumanReductionism]], [[CompensatoryPersonalityIntegration]], and [[LongitudinalRelationshipTrust]]; and resynthesized [[ShiDiFuShuo]], [[SteveShiDiFuShuoHost]], and [[TherapyRelationshipAndBoundaries]] from their complete preserved evidence inventories. Core synthesis: people and relationships should not be collapsed into isolated behavior, one approved personality role, a forced therapeutic category, or a single proof event; context, wider response repertoires, collaborative alliance, and repeated relational evidence produce more grounded judgment. No settled contradiction was adopted. Interpretations of third parties and counselor competence remain source-scoped hypotheses from listener letters, and contextual explanation does not excuse mistreatment. The automatic `wiki/overview.md` was not manually edited; downstream synthesis and publish validation were refreshed after the canonical ingest.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

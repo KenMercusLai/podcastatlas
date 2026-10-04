@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9644
+wiki_total_pages: 9647
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1757,6 +1757,9 @@ wiki_pages:
   - key: "CompensatingDifferentials"
     title: "Compensating Differentials"
     url: "/wiki/concepts/compensatingdifferentials/"
+  - key: "CompensatoryPersonalityIntegration"
+    title: "Compensatory Personality Integration / 补偿性人格整合"
+    url: "/wiki/concepts/compensatorypersonalityintegration/"
   - key: "CompetenceStatusMentalHealthBlindSpot"
     title: "Competence-Status Mental Health Blind Spot"
     url: "/wiki/concepts/competencestatusmentalhealthblindspot/"

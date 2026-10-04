@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9644
+wiki_total_pages: 9647
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "LongitudinalMultimodalScreening"
     title: "Longitudinal Multimodal Screening"
     url: "/wiki/concepts/longitudinalmultimodalscreening/"
+  - key: "LongitudinalRelationshipTrust"
+    title: "Longitudinal Relationship Trust / 关系过程性信任"
+    url: "/wiki/concepts/longitudinalrelationshiptrust/"
   - key: "LongshanEastWestCorridor"
     title: "Longshan East-West Corridor Logic / 陇山东西互动轴线"
     url: "/wiki/concepts/longshaneastwestcorridor/"

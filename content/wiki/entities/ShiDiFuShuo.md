@@ -13,17 +13,18 @@ sources:
   - shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j
   - shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11
   - shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4
-last_updated: 2026-10-01
+  - shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
 # 史蒂夫说
 
 ## Overview
-史蒂夫说 is a long-form psychology and relationships podcast hosted by [[SteveShiDiFuShuoHost|Steve]]. The current sources span anxiety, trauma, sex, parenting, feminist philosophy, embodiment, illness, death, and relationship power. [[shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4|Episode 475]] adds a reunion format in which life review, marriage, fatherhood, family vulnerability, divorce, aging, and care are treated as one connected relationship question.
+史蒂夫说 is a long-form psychology and relationships podcast hosted by [[SteveShiDiFuShuoHost|Steve]]. The current sources span anxiety, trauma, sex, parenting, feminist philosophy, embodiment, illness, death, relationship power, counseling quality, and trust. [[shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa|Episode 470]] uses five listener letters to connect human complexity, uneven personality development, workplace belonging, therapeutic alliance, and former-partner disclosure.
 
 ## Current Profile
-The current wiki evidence shows the show as a conversational program that moves psychological language into body, family, intimacy, public life, and philosophy. Its interviews and letters generally translate distress into bounded concepts and practices while warning against self-surveillance or moral judgment. Episodes 473 and 474 preserve limits on explanation and interpretive power; episode 475 turns the same boundary toward care, arguing that infants, partners, clients, and aging relatives should be encountered as whole people rather than problems or role performances. The show therefore joins self-understanding to an expanding ethic of relational attention.
+The current wiki evidence shows the show as a conversational program that moves psychological language into body, family, intimacy, public life, and philosophy. Its interviews and letters generally translate distress into bounded concepts and practices while warning against self-surveillance or moral judgment. Episodes 473 and 474 preserve limits on explanation and interpretive power; episode 475 turns the same boundary toward care; episode 470 makes the method explicit by resisting behavior-to-character compression, treating confidence as a repertoire, requiring collaborative and nonjudgmental therapy, and locating trust in repeated relationship experience. The show therefore joins self-understanding to an expanding ethic of relational attention without promising certainty.
 
 ## Key Characteristics
 - Long-form interview format centered on psychological self-understanding and relationship repair.
@@ -32,7 +33,7 @@ The current wiki evidence shows the show as a conversational program that moves 
 - Uses listener letters to turn everyday relational distress into bounded public psychoeducation.
 - Treats psychology as care-oriented language that can become harmful when used for self-surveillance.
 - Treats sex and intimacy as psychologically serious subjects shaped by body, relationship, social norms, and responsibility.
-- Repeatedly separates situational difficulty from defective selfhood while protecting first-person context, uncertainty, and the right to reject a totalizing explanation.
+- Repeatedly separates situational difficulty from defective selfhood while protecting first-person context, uncertainty, collaborative inquiry, and the right to reject a totalizing explanation.
 
 ## Evidence
 - Format and participants - [[shi-di-fu-shuo-472-zhao-jinzhao-huajie-jiaolv-zuijia-fangfa-chaijie-wenti-wenrou-xiangdai-lqw9h-jqfzrsrveagfslnakhcgjh]] presents Steve as host and [[ZhaoJinzhao|Dr. Claire]] as guest in a nearly two-hour discussion, while [[shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi]] uses listener letters as the episode structure.
@@ -48,14 +49,15 @@ The current wiki evidence shows the show as a conversational program that moves 
 - Illness, projection, and mortality - [[shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j]] uses Ajiao's experience to connect [[PatientSymbolizationProjection]], [[DeathNarrativeDeromanticization]], [[NonInstrumentalRelationalSafety]], and the limits of psychology's explanatory comfort.
 - Relationship power and judgment - [[shi-di-fu-shuo-474-zixunshi-huixin-quanli-shijiao-shi-weiren-chushi-de-bibei-jiaodu-lnanj_uwjhcnv2vt7ezagdfn9c11]] uses four listener letters to connect [[PowerLiteracy]], [[RelationalInterpretiveAuthority]], [[LoveControlIllusion]], and [[MultidimensionalMarriageMeaning]].
 - Relationship harbor and fatherhood - [[shi-di-fu-shuo-475-tongchenjie-fanyiru-geren-chenggong-he-guanxi-gangwan-yuan-ni-erzhe-jiande-llOihxUTWgcZk-xLyVEK5wwRuaP4]] connects marriage, unequal care, male vulnerability, infant signals, family safety, divorce, aging, and death through [[PreverbalRelationalAttunement]] and [[NonInstrumentalRelationalSafety]].
+- Complexity, alliance, and trust - [[shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa]] connects [[BehaviorBasedHumanReductionism]], [[CompensatoryPersonalityIntegration]], therapeutic collaboration, relationship optionality, and [[LongitudinalRelationshipTrust]] across five listener letters.
 
 ## Qualifications
-The show profile is based on ten ingested episodes. Broader production history, audience size, full archive range, and Innerworld operating details remain outside the current evidence. The episodes are public conversation and psychoeducation, not substitutes for diagnosis, therapy, legal guidance, medical guidance, domestic-violence support, or crisis care. Episode 475's gendered attention patterns and generational observations remain experiential rather than universal.
+The show profile is based on eleven ingested episodes. Broader production history, audience size, full archive range, and Innerworld operating details remain outside the current evidence. The episodes are public conversation and psychoeducation, not substitutes for diagnosis, therapy, legal guidance, medical guidance, domestic-violence support, or crisis care. Episode 470's readings of third parties and episode 475's gendered attention patterns remain experiential and source-scoped rather than verified or universal.
 
 ## What Changed
-- Added episode 475's family-as-harbor, male-vulnerability, and relationship-continuity synthesis.
-- Extended the parenting thread from gradual attachment into preverbal communication and person-not-problem recognition.
-- Clarified the show's movement from self-understanding toward a broader ethic of receiving and caring for others.
+- Added episode 470's anti-reductionist account of behavior, moral judgment, and whole-person interpretation.
+- Added neglected-capacity development and response variety to the show's account of confidence.
+- Made collaborative therapeutic alliance and longitudinal trust explicit within its relational ethic.
 
 ## Relationships
 - [[SteveShiDiFuShuoHost|Steve]] - host in the current source.
@@ -89,3 +91,6 @@ The show profile is based on ten ingested episodes. Broader production history, 
 - [[TongChenjie|佟晨洁 / Tong Chenjie]] - guest in episode 475's relationship reunion.
 - [[FanYiru|梵一如 / Fan Yiru]] - co-guest in episode 475.
 - [[PreverbalRelationalAttunement]] - episode 475's infant-communication and person-not-problem frame.
+- [[BehaviorBasedHumanReductionism]] - episode 470's boundary against inferring a whole person from one act.
+- [[CompensatoryPersonalityIntegration]] - episode 470's account of developing neglected parts and wider response options.
+- [[LongitudinalRelationshipTrust]] - episode 470's process account of disclosure, forgiveness, and trust.

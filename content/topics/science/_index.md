@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1451
+topic_total_pages: 1454
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -205,6 +205,9 @@ topic_concepts:
   - key: "BehaviorChangeBabySteps"
     title: "Behavior Change Baby Steps"
     url: "/wiki/concepts/behaviorchangebabysteps/"
+  - key: "BehaviorBasedHumanReductionism"
+    title: "Behavior-Based Human Reductionism / 行为化人性压缩"
+    url: "/wiki/concepts/behaviorbasedhumanreductionism/"
   - key: "BehavioralInvestingBiases"
     title: "Behavioral Investing Biases"
     url: "/wiki/concepts/behavioralinvestingbiases/"
@@ -454,6 +457,9 @@ topic_concepts:
   - key: "CompassionateWitnessPractice"
     title: "Compassionate Witness Practice"
     url: "/wiki/concepts/compassionatewitnesspractice/"
+  - key: "CompensatoryPersonalityIntegration"
+    title: "Compensatory Personality Integration / 补偿性人格整合"
+    url: "/wiki/concepts/compensatorypersonalityintegration/"
   - key: "ComplexTraumaRecognition"
     title: "Complex Trauma Recognition"
     url: "/wiki/concepts/complextraumarecognition/"
@@ -4338,6 +4344,9 @@ topic_sources:
   - key: "shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb"
     title: "史蒂夫说469期 - 童立 - 最好的关系是在爱人怀里尽情阳w早x"
     url: "/wiki/sources/shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb/"
+  - key: "shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa"
+    title: "史蒂夫说470期 - 咨询师回信：该不该与伴侣聊前任？怎么聊才会有好结果？"
+    url: "/wiki/sources/shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqpe_vydmwj62bjdgnrx73-haaa/"
   - key: "shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi"
     title: "史蒂夫说471期 - 咨询师回信：万事只讲逻辑的人，都成长于理性为名的压迫"
     url: "/wiki/sources/shi-di-fu-shuo-471-zixunshi-huixin-wanshi-zhi-jiang-luoji-de-ren-dou-chengzhang-yu-lixing-wei-ming-de-yapo-lrsk-0knooxxa-twm1ci5dfhldxi/"

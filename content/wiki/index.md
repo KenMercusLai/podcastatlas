@@ -3729,6 +3729,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The mob rule: criminality consumes South Africa](sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86.md) — The Intelligence on organized-crime penetration in South Africa, Oura's smart-ring model, and the Lucas Museum's interpretation and governance problems.
 - [投资者的敌人：我与我周旋久](sources/touzizhe-de-diren-wo-yu-wo-zhouxuan-jiu-ljhveb4f95emokkbltnvlmbxvbmd.md) — 面基 episode on behavioral finance, investor self-knowledge, embodied and tacit judgment, strategy fit, core-satellite allocation, and quantitative FOF.
 - [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
+- [史蒂夫说470期 - 咨询师回信：该不该与伴侣聊前任？怎么聊才会有好结果？](sources/shi-di-fu-shuo-470-zixunshi-huixin-gaibugai-yu-banlv-liao-qianren-zenme-liao-caihui-you-hao-jieguo-ltqPE_vydMWJ62BjdGnRx73-HAAa.md) — Listener-letter episode on behavior-based reduction, neglected personality capacities, workplace belonging, therapeutic alliance, and trust as a relationship process.
 
 ## Entities
 - [许振华 / Xu Zhenhua](entities/XuZhenhua.md) — 忽左忽右嘉宾，以信天翁档案、政治史和城市观察解释新加坡建国叙事。
@@ -6354,8 +6355,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [al-Idrisi / 伊德里希](entities/AlIdrisi.md) — Ceuta-born medieval geographer used to show the city's role in Mediterranean knowledge circulation.
 - [John I of Portugal / 若昂一世](entities/JohnIOfPortugal.md) — Aviz monarch under whom Portugal captured Ceuta in 1415.
 - [Henry the Navigator / 恩里克王子](entities/HenryTheNavigator.md) — Portuguese prince associated with the 1415 Ceuta campaign and later expansion memory.
-- [史蒂夫说](entities/ShiDiFuShuo.md) — Psychology and relationships show spanning anxiety, trauma, embodiment, intimacy, philosophy, illness, mortality, and conversations that preserve uncertainty.
-- [Steve (史蒂夫说 host)](entities/SteveShiDiFuShuoHost.md) — Host who connects psychology to body, family, relationship, philosophy, and the limits of explanation and empathy.
+- [史蒂夫说](entities/ShiDiFuShuo.md) — Psychology and relationships show spanning anxiety, trauma, embodiment, intimacy, philosophy, illness, trust, and conversations that preserve uncertainty.
+- [Steve (史蒂夫说 host)](entities/SteveShiDiFuShuoHost.md) — Host who connects psychology to body, family, relationship process, philosophy, and the limits of totalizing explanation.
 - [赵金昭 / Dr. Claire](entities/ZhaoJinzhao.md) — counseling psychologist and Texas clinical psychologist interviewed about anxiety decomposition and gentle support.
 - [《蝲蛄吟唱的地方》 / Where the Crawdads Sing](entities/WhereTheCrawdadsSing.md) — Delia Owens novel read by Culture Limited as a female-growth, marsh-marginality, nature-writing, mystery, and justice-ambiguity case.
 - [《沼泽深处的女孩》 / Where the Crawdads Sing Film](entities/WhereTheCrawdadsSingFilm.md) — Film adaptation critiqued for prettifying Kya's poverty, compressing childhood, simplifying poetry, and weakening point-of-view coherence.
@@ -25786,5 +25787,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [German Centrist Fragmentation](concepts/GermanCentristFragmentation.md) — Two-flank erosion of mainstream German parties that weakens mandates and complicates coalition formation.
 - [African Retail Market Deepening](concepts/AfricanRetailMarketDeepening.md) — Mobile-enabled expansion of African stock-market access whose potential depth gains coexist with shallow liquidity and retail loss risk.
 - [Blue-Light Sleep Evidence Boundary](concepts/BlueLightSleepEvidenceBoundary.md) — Distinction between melanopsin-driven melatonin biology and uncertain everyday screen or blue-blocking sleep effects.
+- [Behavior-Based Human Reductionism / 行为化人性压缩](concepts/BehaviorBasedHumanReductionism.md) — Error of treating one visible act as transparent evidence of a person's complete character, motives, and inner life.
+- [Compensatory Personality Integration / 补偿性人格整合](concepts/CompensatoryPersonalityIntegration.md) — Development and coordination of capacities that a restrictive upbringing gave too little room to practice.
+- [Longitudinal Relationship Trust / 关系过程性信任](concepts/LongitudinalRelationshipTrust.md) — Trust built, weakened, and repaired through repeated interaction rather than one disclosure, promise, or verdict.
 
 ## Syntheses
