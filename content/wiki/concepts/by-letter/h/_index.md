@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9588
+wiki_total_pages: 9589
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "HistoricalGameSimulation"
     title: "Historical Game Simulation"
     url: "/wiki/concepts/historicalgamesimulation/"
+  - key: "HistoricalGreatness"
+    title: "Historical Greatness"
+    url: "/wiki/concepts/historicalgreatness/"
   - key: "HistoricalInquirySourceCriticism"
     title: "Historical Inquiry and Source Criticism"
     url: "/wiki/concepts/historicalinquirysourcecriticism/"

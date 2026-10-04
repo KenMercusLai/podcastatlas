@@ -96694,6 +96694,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/historicalgamesimulation/"
     },
+    "HistoricalGreatness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2583338621 [GLT2583338621].md",
+          "key": "1-greatness-glt2583338621",
+          "show": "The Rest Is History",
+          "title": "1. Greatness",
+          "url": "/wiki/sources/1-greatness-glt2583338621/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/historicalgreatness/"
+    },
     "HistoricalInquirySourceCriticism": {
       "episode_count": 4,
       "show_count": 1,

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [1. Greatness](sources/1-greatness-glt2583338621.md) — The Rest Is History on greatness as a changing imperial, national, democratic, moral, and popular-cultural judgment rather than a neutral measure of merit.
 - [2. Civil War](sources/2-civil-war-glt5809911007.md) — The Rest Is History on civil-war escalation through dehumanization, political delegitimization, armed capacity, catalytic leaders, and institutional failure.
 - [3. Is Trump Caesar or Nixon?](sources/3-is-trump-caesar-or-nixon-glt4982990068.md) — The Rest Is History on Trump's refusal to concede, Nixon's exit, Washington and Cincinnatus, Roman political analogy, populist performance, and the limits of its late-2020 forecast.
 - [4. We’re all so 17th Century](sources/4-were-all-so-17th-century-glt1251829896.md) — The Rest Is History on plague, civil war, print disruption, religious conflict, political ancestry, and the limits of comparing modern crises with the seventeenth century.
@@ -16019,6 +16020,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Santa Claus](entities/SantaClaus.md) — Hybrid Christmas gift-giver shaped by Saint Nicholas, Dutch-American literature, English Father Christmas, and domestic festival culture.
 
 ## Concepts
+- [Historical Greatness](concepts/HistoricalGreatness.md) — Culturally changing judgment that separates historical consequence, political effectiveness, public reverence, and moral approval.
 - [Roman Analogy in American Politics](concepts/RomanAnalogyInAmericanPolitics.md) — Use of Roman virtue, Caesarism, imperial excess, and spectacle to interpret American leadership without claiming exact equivalence.
 - [Populist Political Performance](concepts/PopulistPoliticalPerformance.md) — Anti-elite political identification built through humor, insult, spectacle, transgression, and entertainment.
 - [Trojan War Cultural Afterlife](concepts/TrojanWarCulturalAfterlife.md) — Framework joining Troy's ancestral, geopolitical, tragic, war-memory, and cinematic reuse without treating reception as event proof.

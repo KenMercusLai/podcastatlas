@@ -60,6 +60,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "1-greatness-glt2583338621": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6": [
     {
       "key": "technology",
@@ -41321,6 +41328,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HistoricalGreatness": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "HistoricalInquirySourceCriticism": [

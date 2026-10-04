@@ -29179,3 +29179,11 @@ Added source `2-civil-war-glt5809911007`; created [[CivilWarEscalationConditions
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 1. Greatness
+
+Added source `1-greatness-glt2583338621` and created [[HistoricalGreatness]]. Core synthesis: greatness is a culturally produced judgment whose criteria shift across imperial title, conquest, state-building, democratic restraint, crisis leadership, moral witness, and popular heroism; historical consequence, political effectiveness, public reverence, and moral approval should therefore be judged separately. No settled contradiction was adopted. The Persian-origin genealogy, Roman naming chronology, Christian explanation of anti-martial feeling, universal appetite for heroes, and comparative rankings of modern leaders remain source-scoped or attributed. Recurring hosts and famous figures were linked without profile changes because the episode adds a thematic framework rather than durable new biographical evidence. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,647-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2546
+topic_total_pages: 2548
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -622,6 +622,9 @@ topic_concepts:
   - key: "HistoricalFantasySourceLayering"
     title: "Historical Fantasy Source Layering"
     url: "/wiki/concepts/historicalfantasysourcelayering/"
+  - key: "HistoricalGreatness"
+    title: "Historical Greatness"
+    url: "/wiki/concepts/historicalgreatness/"
   - key: "HistoricalInquirySourceCriticism"
     title: "Historical Inquiry and Source Criticism"
     url: "/wiki/concepts/historicalinquirysourcecriticism/"
@@ -4938,6 +4941,9 @@ topic_sources:
   - key: "05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925"
     title: "05.她来自马里乌波尔：“如果你看见过我曾见到的。”"
     url: "/wiki/sources/05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925/"
+  - key: "1-greatness-glt2583338621"
+    title: "1. Greatness"
+    url: "/wiki/sources/1-greatness-glt2583338621/"
   - key: "10-christmas-glt9855064623"
     title: "10. Christmas"
     url: "/wiki/sources/10-christmas-glt9855064623/"
