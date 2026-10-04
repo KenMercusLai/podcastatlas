@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂](sources/zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox.md) — 公孙遂以临机授权拘捕杨仆、合并荀彘与楼船军后被诛；朝鲜内部倒戈、卫右渠被杀、汉四郡设置与班固风俗评价共同构成战争结束及其史家解释。
 - [《资治通鉴·汉纪》366-3｜雌雄同体，是一个女人的顶级魅力](sources/zizhi-tongjian-hanji-366-3-cixiongtongti-shi-yige-nvren-de-dingji-meili-li7iu8v_bnyhpp48rhsrjkkzz5og.md) — 将女性力量解释为独立、行动、温和表达、情绪调节与底线的结合，同时限定其性别二分、沉默和形象管理风险。
 - [《资治通鉴·汉纪》366-4｜淇姐心里话：女人更解女人心](sources/zizhi-tongjian-hanji-366-4-qijie-xinlihua-nvren-geng-jie-nvrenxin-lhnf_zbn364cuu01f0rbf8pd-7in.md) — 将同理心、责任、行动、学习、关系边界、健康与时间管理合成女性自我治理理想，并把“黑色生命力”限定为来源中的韧性隐喻。
 - [《资治通鉴·汉纪》367-2｜教你一招，应对职场中的“不公”](sources/zizhi-tongjian-hanji-367-2-jiao-ni-yizhao-yingdui-zhichang-zhong-de-bugong-lmphtxnfn76galepblj-x4ikc3gl.md) — 以“老板思维”区分个人委屈与组织评价逻辑，并把发展空间、健康成本和体面离开合成职场不公下的退出判断。
@@ -3793,6 +3794,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [公孙遂 / Gongsun Sui (Western Han)](entities/GongsunSuiWesternHan.md) — 奉汉武帝临机处置朝鲜前线矛盾、拘捕杨仆并合军，奏报后反遭诛杀的帝国特使。
+- [荀彘 / Xun Zhi (Western Han)](entities/XunZhiWesternHan.md) — 征卫氏朝鲜的左将军，合并杨仆军后完成进攻，却因争功和指挥冲突在战后被诛。
+- [杨仆 / Yang Pu (Western Han)](entities/YangPuWesternHan.md) — 征卫氏朝鲜的楼船将军，其议降渠道、失期、被捕与赎死为民构成分裂统帅的另一支。
+- [卫右渠 / King Ugeo of Wiman Joseon](entities/UgeoWimanJoseon.md) — 卫氏朝鲜末代君主，在汉军合军急攻和内部倒戈中被尼谿相参派人杀死。
+- [卫氏朝鲜 / Wiman Joseon](entities/WimanJoseon.md) — 在王险城围攻、统帅分裂、内部投降与卫右渠之死后被西汉征服的区域政权。
+- [王险城 / Wangxian City](entities/WangxianCity.md) — 卫氏朝鲜末期都城与最终围攻中心；本页将来源摘要的“王显城”规范为传世文本用名。
 - [刘端 / Liu Duan (Western Han)](entities/LiuDuanWesternHan.md) — 受宗室亲缘保护却以宫廷暴力、税赋阻断和迫害官员制造地方治理风险的西汉胶西王。
 - [Yan Fu / 严复](entities/YanFu.md) — Modern Chinese translator whose rejected alternatives expose conceptual boundaries obscured by later standard terminology.
 - [杨信 / Yang Xin (Western Han envoy)](entities/YangXinWesternHan.md) — 坚持符节与汉使服制、改在帐外谈判并揭开太子入质承诺未成共识的西汉使者。
@@ -16216,6 +16223,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
 
 ## Concepts
+- [汉四郡 / Four Commanderies of Han](concepts/HanFourCommanderies.md) — 卫氏朝鲜征服后设置乐浪、临屯、玄菟、真番四郡的军事—行政转型，并保留边界、效力与后续沿革的不确定性。
 - [Female Strength as Self-Governance / 女性力量作为自我治理](concepts/FemaleStrengthAsSelfGovernance.md) — Integrates agency, care, learning, independence, tact, emotional recovery, and enforceable limits while rejecting fixed gender coding and preserving structural constraints.
 - [Black Vitality Resilience / 黑色生命力](concepts/BlackVitalityResilience.md) — Qualified recovery-and-learning metaphor for repeatedly standing up after pain without assuming adversity automatically produces growth.
 - [Conceptual Translation Judgment / 概念翻译判断](concepts/ConceptualTranslationJudgment.md) — Human judgment about a term's history, conceptual relations, normative role, and target-language associations beyond mechanical fluency.

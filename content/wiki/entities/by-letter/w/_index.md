@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12372
+wiki_total_pages: 12378
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -983,6 +983,9 @@ wiki_pages:
   - key: "WeyChenggong"
     title: "卫成公 / 卫成侯 / Duke-Marquis Cheng of Wey"
     url: "/wiki/entities/weychenggong/"
+  - key: "WimanJoseon"
+    title: "卫氏朝鲜 / Wiman Joseon"
+    url: "/wiki/entities/wimanjoseon/"
   - key: "WeiQingHanGeneral"
     title: "卫青 / Wei Qing (Han general)"
     url: "/wiki/entities/weiqinghangeneral/"
@@ -1649,6 +1652,9 @@ wiki_pages:
   - key: "WangYangming"
     title: "王阳明 / Wang Yangming"
     url: "/wiki/entities/wangyangming/"
+  - key: "WangxianCity"
+    title: "王险城 / Wangxian City"
+    url: "/wiki/entities/wangxiancity/"
   - key: "WangLing"
     title: "王陵 / Wang Ling"
     url: "/wiki/entities/wangling/"

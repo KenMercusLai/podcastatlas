@@ -7,66 +7,60 @@ sources:
   - zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq
   - zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj
   - zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb
-last_updated: 2026-09-01
+  - zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox
+last_updated: 2026-10-05
 ---
 
 ## Overview
 
-班固 / Ban Gu is now synthesized as an Eastern Han historian whose `Han Shu` project first appears as a vulnerable private-history enterprise and later as both frontier-policy commentary and unfinished dynastic history. [[zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb|Hanji 705-2]] adds the early Ban-family branch: after [[BanBiaoEasternHan|Ban Biao]] dies, Ban Gu revises the family historical project for years, is accused of privately writing history, is arrested, and is released only after [[BanChaoEasternHan|Ban Chao]] reaches Luoyang and [[EmperorMingOfHan|Emperor Ming]] reviews the manuscript. Hanji 723 adds Ban Gu's cost-and-strategy comparison between [[HanWudi|Han Wudi]]'s Western Regions opening and [[LiuXiu|Liu Xiu]]'s restraint; Hanji 767 adds the later prison-death and continuation branch.
+班固 / Ban Gu is synthesized as an Eastern Han historian whose `Han Shu` project moves from vulnerable private authorship to imperial recognition, whose transmitted judgments compare frontier strategy with social cost, and whose unfinished work survives his prison death through [[BanZhaoLateHan|班昭]]. Hanji 366-2 adds a second historiographical register: an attributed account of Jizi's education and later custom change in the former Joseon region.
 
 ## Current Profile
 
-Hanji 705-2 gives the earliest current Ban Gu layer. Ban Biao's historical continuation supplies the family foundation, but after Ban Biao's death Ban Gu has to support himself and continues revising the `Han Shu` project privately. That work becomes politically dangerous when someone reports that he is privately writing national history; Ban Gu is arrested and the manuscripts are seized. Ban Chao's ride to Luoyang makes the case reach Emperor Ming, who reviews the manuscript, releases Ban Gu, and appoints him to a palace-library role.
+Hanji 705-2 supplies the family and authorship origin. After [[BanBiaoEasternHan|班彪]] dies, Ban Gu inherits and revises the historical project. An accusation of privately writing national history leads to arrest and manuscript seizure; [[BanChaoEasternHan|班超]] reaches Luoyang, [[EmperorMingOfHan|汉明帝]] reviews the work, releases Ban Gu, and gives him a palace-library role.
 
-Hanji 723 uses Ban Gu as a historiographical voice on Western Regions statecraft. His comment treats Han Wudi's opening of the Western Regions, the Hexi commanderies, and the Yumen route as strategically intelligible because it weakened [[Xiongnu|Xiongnu]]'s outside support and reduced danger south of the desert. The same comparison emphasizes the heavy costs: distant diplomacy to Dawan and Anxi, prized animals and goods, palace and garden display, monopoly finance, unusual currency measures, and new taxes that exhausted people and wealth before the Luntai self-criticism turn.
+Hanji 723 presents Ban Gu as a policy commentator. His comparison makes [[HanWudi|汉武帝]]'s Western Regions opening strategically intelligible because the Hexi and Yumen system weakens [[Xiongnu|匈奴]] support, while also emphasizing distant diplomacy, display, monopoly finance, currency measures, transport burdens, and taxation. That double accounting clarifies [[LiuXiu|光武帝刘秀]]'s refusal to promise a protectorate before the state can support it.
 
-That commentary supplies a frame for Liu Xiu rather than a simple anti-expansion judgment. Western Regions polities admire Guangwu prestige and ask for hostages and a protectorate, but the court judges the timing unripe. Ban Gu's comparison therefore supports [[CapacityBoundFrontierCommitment|capacity-bound frontier commitment]]: strategic value does not erase the need to ask whether the state can actually sustain envoys, troops, gifts, and administration.
+Hanji 366-2 adds Ban Gu's moral ethnographic voice. The episode attributes to him a contrast between Jizi's ritual, agricultural, textile, and legal teaching and later theft introduced by Han officials and merchants, followed by legal proliferation. The durable insight is narrow: administrators and commercial entrants can alter local incentives and trust. The broader claims about pristine customs, gender, theft, and “East Yi” character remain products of elite historiography rather than neutral population description.
 
-Hanji 767 presents Ban Gu through the end of his life. His servant had once drunkenly insulted a Luoyang magistrate; when the court later arrests Dou-family guests, that old grievance becomes an opportunity to take Ban Gu down. Ban Gu dies in prison while `Han Shu` is still unfinished, and [[EmperorHeOfHan|Emperor He]] orders Ban Gu's younger sister [[BanZhaoLateHan|Ban Zhao]] to continue the work.
+Hanji 767 closes the career. A servant's earlier insult gives a Luoyang magistrate a private grievance, and the wider Dou-family cleanup supplies the opportunity to imprison Ban Gu. He dies before the `Han Shu` is finished, after which Emperor He orders Ban Zhao to continue it.
 
 ## Key Characteristics
 
-- Eastern Han historian whose current wiki role includes vulnerable private authorship, policy commentary, and unfinished dynastic history.
-- Ban-family continuator who inherits Ban Biao's historical project before imperial recognition stabilizes his work.
-- Commentator who preserves both the strategic rationale and extraction cost of Han Wudi's Western Regions program.
-- Source for reading Liu Xiu's Western Regions restraint as timing and capacity judgment rather than simple withdrawal.
-- Court casualty whose death occurs in prison during the Dou-family cleanup.
-- Example of how an old private grievance can become lethal once a broader purge opens.
+- Eastern Han historian whose current profile spans vulnerable authorship, policy commentary, moral historiography, and unfinished dynastic history.
+- Ban-family continuator who inherits Ban Biao's project before imperial recognition stabilizes the work.
+- Commentator who preserves both the strategic rationale and extraction cost of Han Wudi's frontier program.
+- Attributed voice for a Jizi-and-customs narrative that links official conduct, commerce, law, and social trust.
+- Court casualty whose prison death occurs during the Dou-family cleanup.
 - Brother whose unfinished work creates Ban Zhao's continuation role.
 
 ## Evidence
 
-- Early `Han Shu` inheritance: [[zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb|Hanji 705-2]] says Ban Gu inherits and revises Ban Biao's historical project after Ban Biao dies.
-- Arrest and manuscript review: [[zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb|Hanji 705-2]] says Ban Gu is accused of privately writing national history, arrested, and released after Emperor Ming reviews the manuscripts brought to attention through Ban Chao's Luoyang appeal.
-- Palace-library appointment: [[zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb|Hanji 705-2]] says Emperor Ming recognizes the project's value and appoints Ban Gu to a palace-library post.
-- Strategic rationale: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] attributes to Ban Gu the logic that Western Regions and Hexi policy could cut off Xiongnu support and remove their royal court south of the desert.
-- Cost comparison: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says the same policy field generated distant diplomatic costs, monopoly finance, currency measures, and transport or livestock taxes.
-- Luntai and restraint: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] links the cost evaluation to Han Wudi's later Luntai remorse and Liu Xiu's decision not to restore the protectorate immediately.
-- Private grievance: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Ban Gu's servant had drunkenly insulted a Luoyang magistrate before the later purge.
-- Purge setting and prison death: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says the magistrate uses the arrest of Dou-family guests to deal with Ban Gu, who dies in prison before `Han Shu` is completed.
-- Continuation order: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Emperor He ordered Ban Zhao to continue completing the work.
+- Historical-project inheritance and arrest: [[zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb|Hanji 705-2]] says Ban Gu inherits Ban Biao's project, is accused of private history writing, and has his manuscripts seized.
+- Imperial recognition: [[zizhi-tongjian-hanji-705-2-banchao-lishishang-toubicongrong-diyiren-luo6hyqkruwnblmse4ju7cxpb7tb|Hanji 705-2]] says Ban Chao's appeal brings the manuscript before Emperor Ming, who releases and appoints Ban Gu.
+- Frontier strategy and cost: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] attributes to Ban Gu both the anti-Xiongnu logic of Western Regions expansion and its fiscal and social burden.
+- Jizi and custom narrative: [[zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox|Hanji 366-2]] attributes to Ban Gu a passage connecting education and simple law to local order, then blaming later officials and merchants for theft and legal growth.
+- Private grievance and prison death: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says an old servant-magistrate grievance is activated during the Dou-family purge and Ban Gu dies in prison.
+- Continuation order: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Emperor He orders Ban Zhao to continue the unfinished work.
 
 ## Qualifications
 
-This page is not yet a full Ban Gu biography. Hanji 705-2 adds the early accusation and imperial review layer, but the exact legal charge, manuscript scope, and appointment title remain source-scoped at this level of detail. Hanji 723 gives Ban Gu as a transmitted historiographical commentator on Western Regions policy, not as a complete account of his method or authorship. Hanji 767 covers the prison-death and `Han Shu` continuation episode only; his broader scholarship and later offices remain outside this bounded source set.
+This remains a source-bounded profile, not a complete Ban Gu biography or textual study of the `Han Shu`. Hanji 366-2 paraphrases an attributed evaluative passage rather than supplying a critical edition, and its Jizi, custom, sexuality, ethnic-character, merchant, and legal-count claims require source criticism. They are preserved as evidence about historiographical explanation, not adopted as timeless facts about Korean or “Eastern Yi” populations. The exact legal charges in Ban Gu's arrests, full authorship history, and wider offices remain outside this evidence set.
 
 ## What Changed
 
-- Added Hanji 705-2 to connect Ban Gu's `Han Shu` project to Ban Biao's historical work, private-history accusation, Ban Chao's Luoyang appeal, and Emperor Ming's review.
-- Added Hanji 723's Ban Gu commentary on Han Wudi's Western Regions strategy, extraction cost, Luntai remorse, and Liu Xiu's capacity-bound restraint.
-- Reframed Ban Gu as a historian-commentator as well as a later court-casualty and unfinished-`Han Shu` author.
-- Preserved Hanji 767's prison-death and Ban Zhao continuation branch.
+- Added the Jizi-and-customs passage as evidence of Ban Gu's moral historiographical register.
+- Narrowed its reusable claim to institutional example, commercial conduct, social trust, and legal response.
+- Marked broad ethnic and gender generalizations as transmitted historiography rather than current judgment.
 
 ## Relationships
 
-- [[BanBiaoEasternHan]] - father whose historical continuation becomes Ban Gu's inherited `Han Shu` project.
-- [[BanChaoEasternHan]] - younger brother whose Luoyang appeal helps bring Ban Gu's manuscript before Emperor Ming.
-- [[EmperorMingOfHan]] - ruler who reviews the seized manuscript, releases Ban Gu, and gives him institutional recognition.
-- [[HanWudi|汉武帝]] - earlier ruler whose Western Regions expansion Ban Gu evaluates through strategy and cost.
-- [[LiuXiu|光武帝刘秀]] - later ruler whose Western Regions restraint is clarified by Ban Gu's comparison.
-- [[CapacityBoundFrontierCommitment|能力约束下的边疆承诺]] - concept supported by Ban Gu's contrast between strategic desire and supportable state capacity.
-- [[ImperialSelfCriticismEdict|帝王自责诏]] - related through the Luntai remorse layer attached to Han Wudi's late policy turn.
-- [[BanZhaoLateHan|班昭]] - younger sister ordered to continue Ban Gu's unfinished work.
-- [[EmperorHeOfHan|汉和帝]] - ruler who issues the continuation order after Ban Gu's death.
-- [[DouXianEasternHan|窦宪]] - fallen outer-relative whose family cleanup supplies the purge setting.
-- [[OuterRelativeCourtPower|外戚专权与清算]] - broader political field in which private grievance becomes dangerous.
+- [[BanBiaoEasternHan]] - father whose historical continuation becomes Ban Gu's inherited project.
+- [[BanChaoEasternHan]] - younger brother whose Luoyang appeal helps bring the manuscript before Emperor Ming.
+- [[EmperorMingOfHan]] - ruler who reviews the seized manuscript and gives Ban Gu institutional recognition.
+- [[HanWudi|汉武帝]] - earlier ruler whose expansion Ban Gu evaluates through strategy and cost.
+- [[WimanJoseon|卫氏朝鲜]] - conquered polity whose former region frames the episode's attributed Jizi-and-customs passage.
+- [[HanFourCommanderies|汉四郡]] - administrative aftermath preceding the customs discussion.
+- [[CapacityBoundFrontierCommitment|能力约束下的边疆承诺]] - state-capacity principle clarified by Ban Gu's frontier comparison.
+- [[BanZhaoLateHan|班昭]] - younger sister ordered to continue the unfinished work.
+- [[OuterRelativeCourtPower|外戚专权与清算]] - political field in which Ban Gu's prison death becomes possible.

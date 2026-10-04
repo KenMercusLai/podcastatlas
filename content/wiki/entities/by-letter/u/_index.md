@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 12372
+wiki_total_pages: 12378
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1968"
     title: "1968 United States Presidential Election"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "UglyFrogGame"
     title: "丑蛙 / Ugly Frog game"
     url: "/wiki/entities/uglyfroggame/"
+  - key: "UgeoWimanJoseon"
+    title: "卫右渠 / King Ugeo of Wiman Joseon"
+    url: "/wiki/entities/ugeowimanjoseon/"
   - key: "Unicharm"
     title: "尤妮佳 / Unicharm"
     url: "/wiki/entities/unicharm/"
