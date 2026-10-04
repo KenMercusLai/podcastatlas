@@ -26,6 +26,7 @@ sources:
   - zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq
   - zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v
   - zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la
+  - zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -60,6 +61,8 @@ Hanji 593 adds the strongest current evidence for why the Dong Xian-centered ima
 
 Hanji 594 adds a parallel Du Ye remonstrance branch. Aidi invites criticism after disasters, and Du Ye answers through the court's own omen and ritual vocabulary: eclipses and earthquakes signal imbalance, filial respect does not require blind obedience to parental or dowager wishes, and relatives without merit should not accumulate palace, guard, and military authority. The absence of a recorded correction, followed by Aidi's later eclipse consultation with Kong Guang and Kong's promotion, makes Aidi's fault-seeking look selective rather than fully receptive.
 
+Hanji 596 qualifies that selectivity with a partial acceptance case. Bao Xuan first credits Aidi's reflection and removals, then argues from continued disasters and public unease that Dong Xian-centered favor remains the unresolved cause. By presenting dismissal and return to the fief as a way to protect Dong Xian, he gives Aidi a face-saving acceptance route. The episode concretely records the recall of He Wu and Peng Xuan and Bao Xuan's Sili appointment, but later Dong Xian sources show that the favorite-removal proposal did not become durable policy.
+
 Hanji 597 and Hanji 598 add the suspicious-ruler layer. In Hanji 597, Aidi uses a claimed Fu Taihou instruction to seek extra households for Dong Xian and fiefs for several marquises; Wang Jia's sealed return of the edict turns that favor package into a direct challenge to Aidi's private reward will. In Hanji 598, when [[LiangXiangWesternHan|梁相]] asks to review the Dongping king Liu Yun case, Aidi reads the request as an attempt to delay execution. When Wang Jia later recommends Liang's group, Aidi treats talent preservation as a challenge to imperial judgment and sends Wang Jia toward Tingwei custody.
 
 Hanji 599 shows Aidi's limited capacity to correct after damage is done. He is angry that Wang Jia obeys the summons alive rather than dying privately, but after Wang Jia dies in prison and his final words are reported, Aidi restores [[KongGuangWesternHan|孔光]] and [[HeWuWesternHan|何武]] and dismisses [[FuJiaWesternHan|傅嘉]] for slandering worthy officials. The correction does not become durable reform: Aidi also dismisses [[DingMingWesternHan|丁明]] for grieving Wang Jia and soon returns attention to private favor toward Dong Xian.
@@ -84,7 +87,7 @@ Hanji 610-2 adds a ritual-body layer: Aidi dies in the sixth month but is buried
 - Bao Xuan's public-suffering memorial makes Aidi's failure visible at the people-and-officials level before later Dong Xian succession risk becomes explicit.
 - His conflict with Wang-family power makes Wang Mang's later return politically contingent.
 - His Dong Xian favoritism makes private affection visible as a family-promotion, palace-access, memorial-gatekeeping, public-construction, public-finance, military-resource, market-order, land, funerary, fabricated-merit, reward-procedure, ritual-hierarchy, and succession-boundary problem.
-- His advice reception is uneven: Yang Xuan's Wang-family memorial and Yang Xiong's Xiongnu memorial convert into correction, Xia Heliang's renewed-mandate proposal gains temporary acceptance and then reversal, while Du Ye's outer-relative warning does not visibly do so.
+- His advice reception is uneven: Yang Xuan and Yang Xiong win correction, Bao Xuan wins a partial personnel response without durable removal of Dong Xian, Xia Heliang's renewed-mandate proposal gains temporary acceptance and reversal, and Du Ye's outer-relative warning does not visibly convert into repair.
 - His Dong Xian-centered suspicion can convert legal caution, personnel advice, direct correction, and even dissenting sympathy into disloyalty, while later partial corrections remain unstable.
 - His sudden death without a son creates the succession field in which Wang Zhengjun and Wang Mang become decisive, while diplomatic and burial notices show the ritual layer around his late reign and death.
 
@@ -125,6 +128,8 @@ Hanji 610-2 adds a ritual-body layer: Aidi dies in the sixth month but is buried
 - Invited criticism: [[zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2|Hanji 594]] says Aidi orders ministers and worthies to state his faults after disasters.
 - Du Ye warning: [[zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2|Hanji 594]] says Du Ye criticizes dowager-linked deference, outer-relative offices, and the two-Da-Sima arrangement through eclipse and earthquake language.
 - Selective follow-up: [[zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2|Hanji 594]] says Aidi later summons Kong Guang about another eclipse and rewards him, while the source infers that Kong Guang supplied a more acceptable answer.
+- Protection-framed correction: [[zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka|Hanji 596]] says Bao Xuan makes withdrawal of Dong Xian an argument for protecting the favorite rather than punishing him.
+- Partial personnel response: [[zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka|Hanji 596]] says Aidi recalls He Wu and Peng Xuan and appoints Bao Xuan as Sili.
 - Dong Xian reward pressure: [[zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy|Hanji 597]] says Aidi seeks additional households for Dong Xian and fiefs for several marquises through a dowager edict based on a claimed Fu Taihou instruction.
 - Sealed-edict confrontation: [[zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy|Hanji 597]] says Wang Jia returns the edict sealed and warns that excessive favorite reward damages rank, finance, public feeling, and succession safety.
 - Legal suspicion: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] says Aidi reads Liang Xiang's review request as delay rather than due process.
@@ -149,11 +154,11 @@ The wiki does not yet have a full reign narrative for Han Aidi. Hanji 562 is foc
 
 ## What Changed
 
+- Added Hanji 596's partial-reception layer: protection-framed remonstrance wins personnel changes without durable withdrawal of Dong Xian.
 - Added Hanji 600's access-and-compliance layer: Aidi makes Dong Xian a twenty-two-year-old Da Sima and memorial gatekeeper, then rewards Kong Guang's deference through his nephews.
 - Added Hanji 562's accession layer: Aidi begins with thrift and personal government but is quickly constrained by Fu Taihou's residence, title, and kinship demands.
 - Added Hanji 565's banquet-seat hinge: protocol conflict around Fu Taihou and Wang Zhengjun triggers Wang Mang's honored retirement and Fu Xi's sidelining.
 - Added Dong Hong's failed title proposal and Wang Mang/Shi Dan's initial resistance as the first current Dingtao-line title-pressure step.
-- Preserved the renewed-mandate, Dong Xian, Bao Xuan, Du Ye, Wang Jia, Wang-family recall, and succession-language layers without flattening Aidi's broader profile.
 
 ## Relationships
 
@@ -193,4 +198,5 @@ The wiki does not yet have a full reign narrative for Han Aidi. Hanji 562 is foc
 - [[RenewedMandateRitualReversal|再受命改制合法性反噬]] and [[FangshiPowerRedistribution|方士话语推动权力再分配]] - legitimacy and personnel-risk concepts grounded by Aidi's Hanji 581 ritual episode.
 - [[PublicArmoryPrivateFavorBoundary|武库公器私赏边界]] - military-resource boundary crossed when Aidi treats armory weapons as Dong Xian gifts.
 - [[PopularSufferingGovernanceDiagnostic|民困治理诊断]] and [[CriminalLawAfterLivelihoodCollapse|民困之后的刑法失灵]] - livelihood and punishment concepts grounded through Bao Xuan's Hanji 588 memorial.
+- [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - Hanji 596 shows that a protection frame can improve reception without guaranteeing durable implementation.
 - [[ImperialFuneraryPreservation|帝王停灵防腐]] - funerary-procedure concept grounded through Aidi's delayed burial example.

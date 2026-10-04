@@ -29417,3 +29417,11 @@ Added source `episode-223-shiwu-biancheng-qita-shiwu-8220234869-014847`; created
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 《资治通鉴·汉纪》596丨鲍宣劝谏哀帝：有一种爱叫放手
+
+Added source `zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka`; resynthesized [[BaoXuanWesternHan|鲍宣]], [[HanAidi|汉哀帝]], [[DongXian|董贤]], [[AdviceFramingUnderHierarchy|等级场景中的进言包装]], and [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]] from their complete preserved evidence inventories. Core synthesis: Bao Xuan acknowledges Aidi's initial correction, diagnoses Dong Xian-centered public-resource privilege as the unresolved cause, and turns withdrawal of the favorite into protection of the favorite. No settled contradiction was adopted. The episode's broad acceptance claim is qualified because its concrete follow-up names other personnel changes, while later sources show Dong Xian remaining favored.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

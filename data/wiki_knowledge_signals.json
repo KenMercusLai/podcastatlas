@@ -6934,9 +6934,9 @@
       "url": "/wiki/concepts/advertiserpressureeditorialindependence/"
     },
     "AdviceFramingUnderHierarchy": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
@@ -6986,9 +6986,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》593丨真正厉害的人这样说话",
           "url": "/wiki/sources/zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》596丨鲍宣劝谏哀帝：有一种爱叫放手 [lpfmGWZjVQGOYbs0Q572ufO4HhKA].md",
+          "key": "zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》596丨鲍宣劝谏哀帝：有一种爱叫放手",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/adviceframingunderhierarchy/"
     },
     "AdviceSeekingForImprovement": {
@@ -20957,9 +20964,9 @@
       "url": "/wiki/entities/baosi/"
     },
     "BaoXuanWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
@@ -20974,9 +20981,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》596丨鲍宣劝谏哀帝：有一种爱叫放手 [lpfmGWZjVQGOYbs0Q572ufO4HhKA].md",
+          "key": "zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》596丨鲍宣劝谏哀帝：有一种爱叫放手",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/baoxuanwesternhan/"
     },
     "BaoYongEasternHan": {
@@ -57426,9 +57440,9 @@
       "url": "/wiki/entities/dongxilatehan/"
     },
     "DongXian": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 2,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -57534,6 +57548,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》600丨孔子后代里，咋出了没骨气的他？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》596丨鲍宣劝谏哀帝：有一种爱叫放手 [lpfmGWZjVQGOYbs0Q572ufO4HhKA].md",
+          "key": "zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》596丨鲍宣劝谏哀帝：有一种爱叫放手",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka/"
         }
       ],
       "updated": "2026-10-04",
@@ -92184,9 +92205,9 @@
       "url": "/wiki/entities/hammurabi/"
     },
     "HanAidi": {
-      "episode_count": 23,
+      "episode_count": 24,
       "show_count": 2,
-      "source_note_count": 23,
+      "source_note_count": 24,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -92348,6 +92369,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》600丨孔子后代里，咋出了没骨气的他？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》596丨鲍宣劝谏哀帝：有一种爱叫放手 [lpfmGWZjVQGOYbs0Q572ufO4HhKA].md",
+          "key": "zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》596丨鲍宣劝谏哀帝：有一种爱叫放手",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka/"
         }
       ],
       "updated": "2026-10-04",
@@ -106252,9 +106280,9 @@
       "url": "/wiki/concepts/imperialprestigevindication/"
     },
     "ImperialPrivateDesireGovernanceRisk": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？ [luml30yTbc-aWPVK-7_23eHZBQPx].md",
@@ -106297,9 +106325,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》596丨鲍宣劝谏哀帝：有一种爱叫放手 [lpfmGWZjVQGOYbs0Q572ufO4HhKA].md",
+          "key": "zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》596丨鲍宣劝谏哀帝：有一种爱叫放手",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-596-baoxuan-quanjian-aidi-you-yizhong-ai-jiao-fangshou-lpfmgwzjvqgoybs0q572ufo4hhka/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/imperialprivatedesiregovernancerisk/"
     },
     "ImperialRestorationParadox": {
