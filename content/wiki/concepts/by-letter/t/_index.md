@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9599
+wiki_total_pages: 9601
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "TextualChronologyOriginTesting"
     title: "Textual Chronology Origin Testing"
     url: "/wiki/concepts/textualchronologyorigintesting/"
+  - key: "TextualJudgmentEvidenceMatching"
+    title: "Textual Judgment Evidence Matching / 文本判断的证据匹配"
+    url: "/wiki/concepts/textualjudgmentevidencematching/"
   - key: "TextualOmissionAttributionShift"
     title: "Textual Omission Attribution Shift / 史书删节与责任归属转移"
     url: "/wiki/concepts/textualomissionattributionshift/"

@@ -24334,6 +24334,43 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/birdsongplaybackethics/"
     },
+    "BirdwatchingAsAttention": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
+          "key": "ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由",
+          "url": "/wiki/sources/ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779/"
+        },
+        {
+          "episode_file": "47.鸟有什么好看的：原来…丹顶鹤是秃的！ [625613924].md",
+          "key": "47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924",
+          "show": "蜜獾吃书",
+          "title": "47.鸟有什么好看的：原来…丹顶鹤是秃的！",
+          "url": "/wiki/sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924/"
+        },
+        {
+          "episode_file": "62.克拉克森的农场：想不到你是这样的小羊肖恩 [652404260].md",
+          "key": "62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260",
+          "show": "蜜獾吃书",
+          "title": "62.克拉克森的农场：想不到你是这样的小羊肖恩",
+          "url": "/wiki/sources/62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260/"
+        },
+        {
+          "episode_file": "8209942018_431605 [8209942018_431605].md",
+          "key": "episode-229-diao-yi-tiao-da-yu-8209942018-431605",
+          "show": "迟早更新",
+          "title": "Episode 229: 钓一条大鱼",
+          "url": "/wiki/sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/birdwatchingasattention/"
+    },
     "Birkenstock": {
       "episode_count": 2,
       "show_count": 1,
@@ -37857,9 +37894,9 @@
       "url": "/wiki/concepts/chivalricsacralization/"
     },
     "ChizaoGengxin": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "8212959555_438866 [8212959555_438866].md",
@@ -37895,9 +37932,16 @@
           "show": "迟早更新",
           "title": "Episode 227: 二十一世纪青春物语",
           "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        },
+        {
+          "episode_file": "8209942018_431605 [8209942018_431605].md",
+          "key": "episode-229-diao-yi-tiao-da-yu-8209942018-431605",
+          "show": "迟早更新",
+          "title": "Episode 229: 钓一条大鱼",
+          "url": "/wiki/sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/chizaogengxin/"
     },
     "ChocRevive": {
@@ -98688,9 +98732,9 @@
       "url": "/wiki/concepts/honorswithoutofficesettlement/"
     },
     "HopeIsTheThingWithFeathersBook": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
@@ -98719,9 +98763,16 @@
           "show": "迟早更新",
           "title": "Episode 227: 二十一世纪青春物语",
           "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        },
+        {
+          "episode_file": "8209942018_431605 [8209942018_431605].md",
+          "key": "episode-229-diao-yi-tiao-da-yu-8209942018-431605",
+          "show": "迟早更新",
+          "title": "Episode 229: 钓一条大鱼",
+          "url": "/wiki/sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/hopeisthethingwithfeathersbook/"
     },
     "HoratioGates": {
@@ -148897,6 +148948,66 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/naturelawlegaljustice/"
     },
+    "NatureWriting": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "85.车墩墩野事记：走啊！搬到乡下钻小树林儿去！ [700935571].md",
+          "key": "85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571",
+          "show": "蜜獾吃书",
+          "title": "85.车墩墩野事记：走啊！搬到乡下钻小树林儿去！",
+          "url": "/wiki/sources/85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571/"
+        },
+        {
+          "episode_file": "150.吃菌！和阿措聊云南的鸡枞,松茸,见手青...（擦口水） [897563165].md",
+          "key": "150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165",
+          "show": "蜜獾吃书",
+          "title": "150.吃菌！和阿错聊云南的鸡枞、松茸、见手青",
+          "url": "/wiki/sources/150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165/"
+        },
+        {
+          "episode_file": "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》 [998655210].md",
+          "key": "186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210",
+          "show": "蜜獾吃书",
+          "title": "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》",
+          "url": "/wiki/sources/186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210/"
+        },
+        {
+          "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
+          "key": "ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779",
+          "show": "蜉蝣天地 Meanders",
+          "title": "Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由",
+          "url": "/wiki/sources/ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779/"
+        },
+        {
+          "episode_file": "8209942018_431605 [8209942018_431605].md",
+          "key": "episode-229-diao-yi-tiao-da-yu-8209942018-431605",
+          "show": "迟早更新",
+          "title": "Episode 229: 钓一条大鱼",
+          "url": "/wiki/sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/naturewriting/"
+    },
+    "NatureWritingObjectThickness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8209942018_431605 [8209942018_431605].md",
+          "key": "episode-229-diao-yi-tiao-da-yu-8209942018-431605",
+          "show": "迟早更新",
+          "title": "Episode 229: 钓一条大鱼",
+          "url": "/wiki/sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/naturewritingobjectthickness/"
+    },
     "NavalBreakthroughTactics": {
       "episode_count": 3,
       "show_count": 1,
@@ -176452,9 +176563,9 @@
       "url": "/wiki/entities/renlifeng/"
     },
     "RenNing": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "感官放大世界：和任宁聊观鸟、自然与自由 [e583dac2-bad8-4208-8d35-0c3de8594779].md",
@@ -176490,9 +176601,16 @@
           "show": "迟早更新",
           "title": "Episode 227: 二十一世纪青春物语",
           "url": "/wiki/sources/episode-227-ershiyishiji-qingchun-wuyu-8211230332-278487/"
+        },
+        {
+          "episode_file": "8209942018_431605 [8209942018_431605].md",
+          "key": "episode-229-diao-yi-tiao-da-yu-8209942018-431605",
+          "show": "迟早更新",
+          "title": "Episode 229: 钓一条大鱼",
+          "url": "/wiki/sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/renning/"
     },
     "RenShangLateHan": {
@@ -204955,6 +205073,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/textualchronologyorigintesting/"
+    },
+    "TextualJudgmentEvidenceMatching": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8209942018_431605 [8209942018_431605].md",
+          "key": "episode-229-diao-yi-tiao-da-yu-8209942018-431605",
+          "show": "迟早更新",
+          "title": "Episode 229: 钓一条大鱼",
+          "url": "/wiki/sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/textualjudgmentevidencematching/"
     },
     "TextualSurvivalThroughRecopying": {
       "episode_count": 1,

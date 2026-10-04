@@ -29227,3 +29227,11 @@ Added source `502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozha
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | Episode 229: 钓一条大鱼
+
+Added source `episode-229-diao-yi-tiao-da-yu-8209942018-431605`; created [[TextualJudgmentEvidenceMatching]] and [[NatureWritingObjectThickness]]; and resynthesized [[RenNing]], [[HopeIsTheThingWithFeathersBook]], [[ChizaoGengxin]], [[NatureWriting]], and [[BirdwatchingAsAttention]] from their complete preserved evidence inventories. Core synthesis: criticism should distinguish reading response, textual description, motive inference, and personality judgment, with stronger conclusions requiring stronger evidence; nature writing should be judged less by how often “I” appears than by whether nonhuman subjects gain histories, interests, pressures, and resistant detail of their own. No settled contradiction was adopted. Species totals remain one bounded pleasure and memory index rather than a complete measure of virtue or experience; moral-emotional sharing research is treated as analogy rather than direct evidence about Douban; and the author's response is not independent reception history. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,653-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

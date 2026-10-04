@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Episode 229: 钓一条大鱼](sources/episode-229-diao-yi-tiao-da-yu-8209942018-431605.md) — 迟早更新 on evidence-calibrated criticism, short-review incentives, plural birdwatching motives, and whether nature writing makes its subjects thicker or thinner.
 - [502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年](sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd.md) — 忽左忽右 discussion of Challenger as a coupled technical and organizational failure shaped by budget pressure, public promises, warning escalation, and go fever.
 - [1. Greatness](sources/1-greatness-glt2583338621.md) — The Rest Is History on greatness as a changing imperial, national, democratic, moral, and popular-cultural judgment rather than a neutral measure of merit.
 - [2. Civil War](sources/2-civil-war-glt5809911007.md) — The Rest Is History on civil-war escalation through dehumanization, political delegitimization, armed capacity, catalytic leaders, and institutional failure.
@@ -16029,6 +16030,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Space Shuttle Challenger / 挑战者号](entities/SpaceShuttleChallenger.md) — NASA shuttle lost in 1986, synthesized as a coupled component, warning-escalation, and program-governance failure.
 
 ## Concepts
+- [Textual Judgment Evidence Matching / 文本判断的证据匹配](concepts/TextualJudgmentEvidenceMatching.md) — Rule matching reading response, textual claims, motive inference, and personality judgment to progressively stronger evidence.
+- [Nature-Writing Object Thickness / 自然写作的对象厚度](concepts/NatureWritingObjectThickness.md) — Test of whether represented subjects retain histories, pressures, interests, and resistant dimensions beyond the writer's self-image.
 - [Historical Greatness](concepts/HistoricalGreatness.md) — Culturally changing judgment that separates historical consequence, political effectiveness, public reverence, and moral approval.
 - [Roman Analogy in American Politics](concepts/RomanAnalogyInAmericanPolitics.md) — Use of Roman virtue, Caesarism, imperial excess, and spectacle to interpret American leadership without claiming exact equivalence.
 - [Populist Political Performance](concepts/PopulistPoliticalPerformance.md) — Anti-elite political identification built through humor, insult, spectacle, transgression, and entertainment.
