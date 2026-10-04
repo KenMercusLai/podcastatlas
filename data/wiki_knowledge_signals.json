@@ -7302,9 +7302,9 @@
       "url": "/wiki/concepts/africanfemaleauthorityinstitutions/"
     },
     "AfricanNationalCongress": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6535658080 [GLT6535658080].md",
@@ -7312,9 +7312,16 @@
           "show": "The Rest Is History",
           "title": "682. South Africa: Mandela and the Death of Apartheid (Part 6)",
           "url": "/wiki/sources/682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080/"
+        },
+        {
+          "episode_file": "The mob rule： criminality consumes South Africa [6ab24a5a1f5b87e5353dbc86].md",
+          "key": "the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86",
+          "show": "Economist Podcasts",
+          "title": "The mob rule: criminality consumes South Africa",
+          "url": "/wiki/sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/africannationalcongress/"
     },
     "Afrikaners": {
@@ -84135,9 +84142,9 @@
       "url": "/wiki/entities/georgeiv/"
     },
     "GeorgeLucas": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Disney： The Renaissance and the Empire ｜ Acquired (1) [disney-the-renaissance-and-the-empire-1].md",
@@ -84159,9 +84166,16 @@
           "show": "The Rest Is History",
           "title": "412. Romans in Space: Star Wars, Dune and Beyond...",
           "url": "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
+        },
+        {
+          "episode_file": "The mob rule： criminality consumes South Africa [6ab24a5a1f5b87e5353dbc86].md",
+          "key": "the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86",
+          "show": "Economist Podcasts",
+          "title": "The mob rule: criminality consumes South Africa",
+          "url": "/wiki/sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/georgelucas/"
     },
     "GeorgeMcClellan": {
@@ -131727,6 +131741,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/lucascranachtheelder/"
     },
+    "LucasMuseumOfNarrativeArt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The mob rule： criminality consumes South Africa [6ab24a5a1f5b87e5353dbc86].md",
+          "key": "the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86",
+          "show": "Economist Podcasts",
+          "title": "The mob rule: criminality consumes South Africa",
+          "url": "/wiki/sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/lucasmuseumofnarrativeart/"
+    },
     "LucasStartupEmbassyResident": {
       "episode_count": 1,
       "show_count": 1,
@@ -146679,9 +146709,9 @@
       "url": "/wiki/entities/musepersonalagent/"
     },
     "MuseumInterpretationLegibility": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "8217911423_973793 [8217911423_973793].md",
@@ -146689,9 +146719,16 @@
           "show": "博物志",
           "title": "246. 杭州博物馆「一苇杭之」，好久没看过这么推荐的展览了",
           "url": "/wiki/sources/246-hangzhou-bowuguan-yiwei-hangzhi-haojiu-mei-kan-guo-zheme-tuijian-de-zhanlan-le-8217911423-973793/"
+        },
+        {
+          "episode_file": "The mob rule： criminality consumes South Africa [6ab24a5a1f5b87e5353dbc86].md",
+          "key": "the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86",
+          "show": "Economist Podcasts",
+          "title": "The mob rule: criminality consumes South Africa",
+          "url": "/wiki/sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/museuminterpretationlegibility/"
     },
     "MuseumOfAlexandria": {
@@ -155788,6 +155825,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/ordinarypeoplehistoricalvisibility/"
     },
+    "OrganisedCrimeStatePenetration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The mob rule： criminality consumes South Africa [6ab24a5a1f5b87e5353dbc86].md",
+          "key": "the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86",
+          "show": "Economist Podcasts",
+          "title": "The mob rule: criminality consumes South Africa",
+          "url": "/wiki/sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/organisedcrimestatepenetration/"
+    },
     "OrganizedHolidayIntermediation": {
       "episode_count": 2,
       "show_count": 1,
@@ -156214,9 +156267,9 @@
       "url": "/wiki/entities/ourhongkongfoundation/"
     },
     "OuraRing": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "tech_20260811_0811_MP_TECH_pod_128 [tech_20260811_0811_MP_TECH_pod_128].md",
@@ -156245,9 +156298,16 @@
           "show": "声动早咖啡",
           "title": "怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房",
           "url": "/wiki/sources/yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578/"
+        },
+        {
+          "episode_file": "The mob rule： criminality consumes South Africa [6ab24a5a1f5b87e5353dbc86].md",
+          "key": "the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86",
+          "show": "Economist Podcasts",
+          "title": "The mob rule: criminality consumes South Africa",
+          "url": "/wiki/sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/ouraring/"
     },
     "OutboundProfitTransmissionMechanism": {
@@ -192027,9 +192087,9 @@
       "url": "/wiki/concepts/smartoralcare/"
     },
     "SmartRingHardwareSubscription": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房 [1012409578].md",
@@ -192037,9 +192097,16 @@
           "show": "声动早咖啡",
           "title": "怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房",
           "url": "/wiki/sources/yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578/"
+        },
+        {
+          "episode_file": "The mob rule： criminality consumes South Africa [6ab24a5a1f5b87e5353dbc86].md",
+          "key": "the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86",
+          "show": "Economist Podcasts",
+          "title": "The mob rule: criminality consumes South Africa",
+          "url": "/wiki/sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/smartringhardwaresubscription/"
     },
     "SmartVehicleLivingSpace": {
@@ -193921,9 +193988,9 @@
       "url": "/wiki/entities/soundsliketitanicbook/"
     },
     "SouthAfrica": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT6535658080 [GLT6535658080].md",
@@ -193959,9 +194026,16 @@
           "show": "The Rest Is History",
           "title": "241. Young Churchill: Prisoner and Fugitive (Part 3)",
           "url": "/wiki/sources/241-young-churchill-prisoner-and-fugitive-part-3-glt9087091726/"
+        },
+        {
+          "episode_file": "The mob rule： criminality consumes South Africa [6ab24a5a1f5b87e5353dbc86].md",
+          "key": "the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86",
+          "show": "Economist Podcasts",
+          "title": "The mob rule: criminality consumes South Africa",
+          "url": "/wiki/sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/southafrica/"
     },
     "SouthAfricanWhiteMigrantLabor": {
@@ -219435,9 +219509,9 @@
       "url": "/wiki/concepts/weapontechnologyduellethality/"
     },
     "WearableHealthDataAnxiety": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lnXbxBAUsJXttxyBA-idbidq6kPd [lnXbxBAUsJXttxyBA-idbidq6kPd].md",
@@ -219466,9 +219540,16 @@
           "show": "Huberman Lab",
           "title": "AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More",
           "url": "/wiki/sources/ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344/"
+        },
+        {
+          "episode_file": "The mob rule： criminality consumes South Africa [6ab24a5a1f5b87e5353dbc86].md",
+          "key": "the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86",
+          "show": "Economist Podcasts",
+          "title": "The mob rule: criminality consumes South Africa",
+          "url": "/wiki/sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86/"
         }
       ],
-      "updated": "2026-09-27",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/wearablehealthdataanxiety/"
     },
     "WearableHealthInsight": {

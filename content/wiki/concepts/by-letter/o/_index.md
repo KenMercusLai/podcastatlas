@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9592
+wiki_total_pages: 9593
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -584,6 +584,9 @@ wiki_pages:
   - key: "OrganSpecificAgingClock"
     title: "Organ-Specific Aging Clock"
     url: "/wiki/concepts/organspecificagingclock/"
+  - key: "OrganisedCrimeStatePenetration"
+    title: "Organised Crime State Penetration"
+    url: "/wiki/concepts/organisedcrimestatepenetration/"
   - key: "OrganizationalContext"
     title: "Organizational Context"
     url: "/wiki/concepts/organizationalcontext/"

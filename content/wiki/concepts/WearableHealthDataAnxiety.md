@@ -7,7 +7,8 @@ sources:
   - no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil
   - ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup
   - ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344
-last_updated: 2026-09-27
+  - the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86
+last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The Talk三联 social-jetlag episode adds a family-scale example of score pressu
 
 AMA #14 adds a suggestion-effect layer. The episode reports that being told sleep was poor can reduce later performance even after objectively good sleep, while a positive score can improve performance after less sleep. Whether or not a consumer score is accurate, its interpretation can therefore become part of the outcome. The practical response is to use averages and trends, subjective function, and behavior context rather than allowing one night to define expected capacity.
 
+The Oura segment adds a company-side formulation of the unresolved effect. Accessible feedback may reassure users that indicators are normal or improving, but a continuous stream can also make ordinary variation feel like a problem. The same design that creates subscription value therefore carries an interpretation duty: distinguish patterns from alarms and avoid turning general wellness data into implied diagnosis.
+
 ## Key Claims
 - Dense wearable data is most useful when tied to a clinical risk, a specific behavior question, or a follow-up decision.
 - Healthy users can overread normal variation when they monitor continuously without a clear intervention threshold.
@@ -45,16 +48,17 @@ AMA #14 adds a suggestion-effect layer. The episode reports that being told slee
 - Functional check - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] says daytime energy, yawning, attention, nap need, and coffee dependence are important sleep-quality signals.
 - Sleep-score anxiety - [[ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup]] describes a sleep-watch user becoming more anxious about visible sleep grades and a broader tendency to KPI-ize sleep, diet, exercise, and bowel function.
 - Suggestion and trend reading - [[ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344]] says perceived good or poor sleep scores can influence performance and recommends averages and trends over single-night judgments.
+- Reassurance-anxiety ambiguity - [[the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86]] says Oura presents data as reassuring while the episode leaves open whether constant feedback reduces or increases anxiety.
 
 ## Counterevidence & Qualifications
-The sources do not reject wearable devices, bed sensors, or personal health data. They preserve CGM value for diabetes patients, allow short-term self-observation for some healthy users, and treat sleep scores as useful pattern signals. AMA #14 does not provide the reported sleep-score studies' full methods, samples, or effect estimates, so the suggestion claim remains source-scoped. The caution applies when continuous data is treated as a comprehensive health grade, an object of family comparison, or a substitute for clinical interpretation and body feedback.
+The sources do not reject wearable devices, bed sensors, or personal health data. They preserve CGM value for diabetes patients, allow short-term self-observation for some healthy users, and treat sleep scores as useful pattern signals. AMA #14 does not provide the reported sleep-score studies' full methods, samples, or effect estimates, and the Oura episode does not provide comparative anxiety outcomes, so both claims remain source-scoped. The caution applies when continuous data is treated as a comprehensive health grade, an object of family comparison, or a substitute for clinical interpretation and body feedback.
 
 ## What Changed
-- Established a source-scoped concept separating useful health tracking from anxious metric chasing.
-- Connected CGM and sleep-tracker examples to the wiki's broader medical-literacy and personal-data boundaries.
+- Established the boundary between useful health tracking and anxious metric chasing across CGM and sleep devices.
 - Added the 三五环 sleep-score case and the daytime-function counterweight.
 - Added Talk三联's sleep-watch anxiety and broader body-KPI caution.
 - Added AMA #14's suggestion-effect claim and averages-over-single-score response.
+- Added Oura's explicit reassurance claim and preserved the unresolved possibility that constant monitoring increases anxiety.
 
 ## Related Concepts
 - [[ContinuousGlucoseMonitoring]] - main device example for the concept.

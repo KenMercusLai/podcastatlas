@@ -29195,3 +29195,11 @@ Added source `ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | The mob rule: criminality consumes South Africa
+
+Added source `the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86`; created [[OrganisedCrimeStatePenetration]] and [[LucasMuseumOfNarrativeArt]]; and resynthesized [[SouthAfrica]], [[AfricanNationalCongress]], [[OuraRing]], [[SmartRingHardwareSubscription]], [[WearableHealthDataAnxiety]], [[GeorgeLucas]], and [[MuseumInterpretationLegibility]] from their complete preserved evidence inventories. Core synthesis: organized crime becomes a state-capacity threat when illicit markets, project extortion, political patronage, and compromised justice institutions reinforce one another; exposure creates a reform opening but does not itself clean institutions. Oura's discreet hardware and readable subscription layer support broad health-market growth while leaving clinical value, competition, and anxiety effects unsettled. The Lucas Museum's challenge to fine-art hierarchy is culturally serious, but its public value depends on interpretation, professional governance, programming, and post-founder adaptation. No settled contradiction was adopted; crime rankings and costs, allegations, reform intent, Oura metrics and forecasts, health effects, museum tensions, and early visitor judgments remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,649-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12263
+wiki_total_pages: 12264
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "LucasDrone"
     title: "Lucas Drone"
     url: "/wiki/entities/lucasdrone/"
+  - key: "LucasMuseumOfNarrativeArt"
+    title: "Lucas Museum of Narrative Art"
+    url: "/wiki/entities/lucasmuseumofnarrativeart/"
   - key: "LucasSimon"
     title: "Lucas Simon"
     url: "/wiki/entities/lucassimon/"

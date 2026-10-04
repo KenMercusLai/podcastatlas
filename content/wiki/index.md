@@ -3709,6 +3709,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [10. Christmas](sources/10-christmas-glt9855064623.md) — The Rest Is History survey of Nativity chronology, early feast dating, public festivity, Puritan suppression, Victorian domestic reinvention, Santa Claus, commerce, and the 1914 truce.
 
 - [EP28-纽约那些晚上不回家的人究竟在干嘛？（上）](sources/ep28-niuyue-naxie-wanshang-buhuijia-de-ren-jiujing-zai-ganma-shang-wkgkjltvf-lheilfa3lws3efvjk279.md) — 无时差研究所 guide to New York speakeasies, cocktail balance, rooftop tradeoffs, service friction, and spatially layered nightlife.
+- [The mob rule: criminality consumes South Africa](sources/the-mob-rule-criminality-consumes-south-africa-6ab24a5a1f5b87e5353dbc86.md) — The Intelligence on organized-crime penetration in South Africa, Oura's smart-ring model, and the Lucas Museum's interpretation and governance problems.
 
 ## Entities
 - [Cincinnatus](entities/Cincinnatus.md) — Roman republican exemplar whose remembered voluntary withdrawal made relinquishing emergency power a model of political legitimacy.
@@ -16020,6 +16021,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [King Arthur](entities/KingArthur.md) — Historically uncertain British hero transformed into a medieval universal king, political symbol, and durable figure of romance and return.
 - [Geoffrey of Monmouth](entities/GeoffreyOfMonmouth.md) — Twelfth-century writer whose synthetic British history decisively shaped Arthur and Merlin's medieval profiles.
 - [Santa Claus](entities/SantaClaus.md) — Hybrid Christmas gift-giver shaped by Saint Nicholas, Dutch-American literature, English Father Christmas, and domestic festival culture.
+- [Lucas Museum of Narrative Art](entities/LucasMuseumOfNarrativeArt.md) — George Lucas and Mellody Hobson's Los Angeles museum testing popular-art legitimacy, visitor interpretation, and founder-led governance.
 
 ## Concepts
 - [Historical Greatness](concepts/HistoricalGreatness.md) — Culturally changing judgment that separates historical consequence, political effectiveness, public reverence, and moral approval.
@@ -25673,5 +25675,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cocktail Sensory Balance / 鸡尾酒感官平衡](concepts/CocktailSensoryBalance.md) — Flavor-first framework coordinating spirit, sweetness, bitterness or acidity, aroma, texture, dilution, technique, and presentation.
 - [Speakeasy Experience Design / 隐藏酒吧体验设计](concepts/SpeakeasyExperienceDesign.md) — Hidden-entry hospitality model separating discovery ritual from drink, service, atmosphere, and waiting-cost quality.
 - [Urban Nightlife Spatial Layering / 城市夜生活空间叠层](concepts/UrbanNightlifeSpatialLayering.md) — Overlap of daytime and nighttime uses, visible and hidden rooms, vertical land use, and neighborhood audiences.
+- [Organised Crime State Penetration](concepts/OrganisedCrimeStatePenetration.md) — Interaction of illicit markets, extortion, political patronage, and compromised police or prosecutorial institutions.
 
 ## Syntheses
