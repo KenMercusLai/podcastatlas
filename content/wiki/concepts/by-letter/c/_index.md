@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9680
+wiki_total_pages: 9681
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3032,6 +3032,9 @@ wiki_pages:
   - key: "CoerciveImplicationCascade"
     title: "刑讯攀引扩大 / Coercive Implication Cascade"
     url: "/wiki/concepts/coerciveimplicationcascade/"
+  - key: "CounterweightLossControlEscalation"
+    title: "制衡消失后的控制升级 / Counterweight-Loss Control Escalation"
+    url: "/wiki/concepts/counterweightlosscontrolescalation/"
   - key: "CrisisMigrationJudgment"
     title: "危局迁徙判断 / Crisis Migration Judgment"
     url: "/wiki/concepts/crisismigrationjudgment/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？](sources/zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer.md) — 汉武帝盛年巡祭、卫青去世与刺史监察并置；节目把关键制衡者消失解释为不安全感和控制升级，但保留其因果与制度沿革为来源限定。
 - [《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS](sources/zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98.md) — 卫青去世与资深文武凋零促使汉武帝广求能任将相及远使的非常人才；节目再以“印记法则”把严苛用人与人才短缺解释为镜像反馈，并把念头觉察作为实践层。
 - [《资治通鉴·汉纪》370-1｜揭秘汉朝第一位与匈奴和亲的公主](sources/zizhi-tongjian-hanji-370-1-jiemi-hanchao-diyiwei-yu-xiongnu-heqin-de-gongzhu-lgetvmacjnoxhqfzymupxsk7fknk.md) — 乌孙在匈奴压力下以千匹马求娶汉室公主，刘细君的真皇族血统与父亲刘建案后的弱势处境遂被转化为汉—乌孙联盟资源。
 - [《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈](sources/zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav.md) — 杨信的礼仪拒绝揭开太子入质承诺并未落实，王乌再次获得好话却仍无履约；匈奴贵人病死、路充国被扣和边防调兵使承诺核验失败升级为外交与安全危机。
@@ -16207,6 +16208,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
 
 ## Concepts
+- [制衡消失后的控制升级 / Counterweight-Loss Control Escalation](concepts/CounterweightLossControlEscalation.md) — 关键制衡者消失后，权威集中反而伴随不安全感、猜疑、惩罚与监察扩张的来源限定机制。
 - [礼仪让步式核心诉求谈判 / Protocol-Concession Core-Demand Bargaining](concepts/ProtocolConcessionCoreDemandBargaining.md) — 以有限礼仪让步争取谈判入口并保留实质使命，但须继续通过互惠成本与可观察步骤核验承诺，避免把好话误作和解。
 - [Han Court Performance Diplomacy / 汉廷表演外交](concepts/HanCourtPerformanceDiplomacy.md) — Foreign performers and rare gifts meet curated tours, stores, banquets, animals, and court spectacle as reciprocal diplomatic communication.
 - [Shangdi in Early Imperial Ritual / 早期帝国礼制中的上帝](concepts/ShangdiInEarlyImperialRitual.md) — bounded frame for reading “上帝” inside early imperial sacrificial and ruler-cult contexts without projecting one modern meaning across periods.

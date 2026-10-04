@@ -46928,6 +46928,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/counterterrorismpowersrepurposing/"
     },
+    "CounterweightLossControlEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？ [lljxwJP9qXvpOg9q2DH2KIYYccer].md",
+          "key": "zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/counterweightlosscontrolescalation/"
+    },
     "CountessLarish": {
       "episode_count": 2,
       "show_count": 1,
@@ -171318,9 +171334,9 @@
       "url": "/wiki/concepts/powercenterproximityadvantage/"
     },
     "PowerCompletionRetreat": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -171342,9 +171358,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？ [lljxwJP9qXvpOg9q2DH2KIYYccer].md",
+          "key": "zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/powercompletionretreat/"
     },
     "PowerDesireSelfRestraint": {
@@ -174397,6 +174420,43 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/providentialgovernancefailure/"
+    },
+    "ProvincialShepherdAutonomy": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲 [lthMvw8iHk96Fuez9vaMlRyzCnGy].md",
+          "key": "zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》940丨得民心者得天下，你信不信？ [loipF7b0P5A-yh0Rj2nJNSml8a1J].md",
+          "key": "zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》940丨得民心者得天下，你信不信？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
+          "key": "zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？ [lljxwJP9qXvpOg9q2DH2KIYYccer].md",
+          "key": "zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/provincialshepherdautonomy/"
     },
     "ProvisionalIRA": {
       "episode_count": 3,
@@ -225589,9 +225649,9 @@
       "url": "/wiki/entities/weiqiansanlian/"
     },
     "WeiQingHanGeneral": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -225620,6 +225680,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS",
           "url": "/wiki/sources/zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？ [lljxwJP9qXvpOg9q2DH2KIYYccer].md",
+          "key": "zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer/"
         }
       ],
       "updated": "2026-10-05",

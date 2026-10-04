@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh
   - zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu
   - zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn
-last_updated: 2026-09-01
+  - zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer
+last_updated: 2026-10-05
 ---
 
 ## Definition
@@ -22,12 +23,14 @@ Power completion retreat is the choice by a high-merit actor to reduce visible c
 
 The pattern is narrower than generic retirement. It depends on task completion: the actor has already converted opportunity into merit, and the remaining challenge is preserving status in a more centralized order. In Geng Yan's case, retreat complements earlier loyalty signaling rather than replacing it. Hanji 715 shows the same act becoming one component of [[HonorsWithoutOfficeSettlement|honors without office settlement]], where the ruler's reward structure makes withdrawal non-disgracing.
 
+A ruler-side negative contrast appears in [[zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer|Hanji 369-1]]. Its *Daodejing* opening uses “功成身退” to argue that [[HanWudi|汉武帝]] at the height of achievement did not sufficiently restrain expansion, display, or control. That application remains the host's moral frame, but it clarifies that this concept can diagnose not only whether a minister releases command, but whether a successful ruler recognizes limits after power has peaked.
+
 ## Key Claims
 - High achievement can become safer when followed by reduced visibility.
 - Returning command after merit is complete can protect both the ruler's authority and the commander's honor.
 - Retreat is politically different from failure when it follows recognized service and reward.
 - The Geng Yan case links battlefield success, founding consolidation, and late-career restraint into one arc.
-- Power completion retreat is related to suspicion management, but it occurs after the primary military task is largely finished.
+- Power completion retreat is related to suspicion management, but it occurs after the primary task is largely finished and can apply as a restraint test for rulers as well as ministers.
 - A ruler-side honor settlement can make retreat more stable by preserving title and access while removing direct command.
 - Full-office withdrawal can still preserve political honor when the ruler keeps ceremonial access and family recognition.
 
@@ -38,14 +41,14 @@ The pattern is narrower than generic retirement. It depends on task completion: 
 - Collective post-unification withdrawal: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] places Geng Yan among multiple commanders who surrender seals after unification while receiving honored marquis status.
 - Honor structure: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] says rank, fief income, special-entry status, and limited court participation keep retreat from looking like disgrace.
 - Honored office return: [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]] says Li Tong returns the Da Sikong seal, retains special-entry court access, and later receives family recognition through Li Xiong's marquis title.
+- Ruler-side negative contrast: [[zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer|Hanji 369-1]] invokes the *Daodejing*'s timely-retreat warning to interpret Han Wudi's peak-era expansion and control as failure to recognize a stopping point.
 
 ## Counterevidence & Qualifications
-The current sources treat Geng Yan, Li Tong, and other commanders' retreat approvingly, but they do not by themselves prove all motives or establish a universal rule that high officials should withdraw. Hanji 715 also depends on Liu Xiu's specific coalition, resources, and trust relationships, while Hanji 712 gives Li Tong as a source-scoped honored-withdrawal case rather than a full biography. The page should stay source-scoped when distinguishing voluntary restraint from demotion, illness, political exclusion, or normal office rotation.
+The current sources treat Geng Yan, Li Tong, and other commanders' retreat approvingly, but they do not by themselves prove all motives or establish a universal rule that high officials should withdraw. Hanji 715 also depends on Liu Xiu's specific coalition, resources, and trust relationships, while Hanji 712 gives Li Tong as a source-scoped honored-withdrawal case rather than a full biography. Hanji 369-1 does not document a discrete missed abdication or retirement decision by Wudi; it uses classical language as a moral interpretation of excess. The page should stay source-scoped when distinguishing voluntary restraint from demotion, illness, political exclusion, normal office rotation, or a retrospective demand that a ruler simply stop governing.
 
 ## What Changed
-- Added Hanji 712's Li Tong case, showing full-office return paired with retained honor, court access, and family recognition.
-- Added Hanji 715, broadening the concept from Geng Yan's individual returned-command case into a cohort-level post-unification withdrawal pattern.
-- Reframed the concept to distinguish individual retreat from the ruler-side honor settlement that can make retreat stable.
+- Added Hanji 369-1's ruler-side negative contrast: power completion can require restraint in expansion and control even when no office is formally returned.
+- Preserved the distinction between a concrete honored-withdrawal settlement and a source-scoped classical moral application.
 
 ## Related Concepts
 - [[PowerExitTrap|权力退出陷阱]] - broader danger that exiting power can itself create vulnerability or suspicion.
@@ -55,3 +58,4 @@ The current sources treat Geng Yan, Li Tong, and other commanders' retreat appro
 - [[RoyalKinPowerWithdrawal|宗室退权自保]] - related withdrawal pattern for royal kin under imperial suspicion.
 - [[GengYanEasternHan|耿弇]] - central case for successful post-merit retreat.
 - [[LiTongEasternHan|李通]] - Eastern Han case of returning high office while retaining honored access.
+- [[CounterweightLossControlEscalation]] - adjacent failure mode in which a ruler responds to reduced constraint with more control rather than restraint.

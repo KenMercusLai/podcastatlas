@@ -29772,3 +29772,11 @@ Added source `zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmh
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？
+
+Added source `zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer`; created [[CounterweightLossControlEscalation|制衡消失后的控制升级]]; resynthesized [[WeiQingHanGeneral|卫青]], [[PowerCompletionRetreat|功成退让]], and [[ProvincialShepherdAutonomy|州牧集权与地方割据]] from their complete preserved evidence inventories. Core synthesis: the episode places Wudi's peak-era tour and ritual display beside Wei Qing's death, interprets the loss of a trusted military-political stabilizer as a possible trigger for insecurity and control escalation, and supplies an early central-inspection prehistory for the later provincial-power problem. No settled contradiction was adopted. The claimed causal chain from Wei Qing's death to Wudi's later violence, five chancellors' deaths, exact burial and age details, and the compressed transition from刺史 inspection to a three-tier administration and later州牧 power remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten. The downstream manifest and paragraph ledger were refreshed to 3,722-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide lightweight validator still reports 20 pre-existing broken links outside this ingest.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
