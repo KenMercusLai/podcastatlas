@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》374-1｜汉武帝为何宁愿自损八千，也不愿放过大宛国？](sources/zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh.md) — 赵破奴被俘后，朝臣主张集中对付匈奴，汉武帝却以西域侧翼布局与国家信誉为由坚持伐宛；同年边防建设和匈奴入侵使这一选择的机会成本更清晰。
 - [VOL.200 坦诚相见｜听友问题盲抽：上一秒聊生死抉择，下一秒还原脱下白大褂的日常](sources/vol-200-tancheng-xiangjian-tingyou-wenti-mangchou-shang-yi-miao-liao-shengsi-jueze-xia-yi-miao-huanyuan-tuoxia-baidagua-de-richang-lr-4sybvl54knf4n3i6gwhxyeacz.md) — 这病说来话长 listener roundtable on clinical training, animal ethics, hospital queues, ICU reversibility, chronic follow-up, hygiene, and clinician public education.
 - [《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴](sources/zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd.md) — 苏武在断粮与北海流放中持节守志；赵破奴的崛起、被俘归汉与巫蛊族灭则浓缩汉武一朝的扩张与悲剧。
 - [《资治通鉴·汉纪》376-1｜历史上真实的苏武牧羊是什么样？](sources/zizhi-tongjian-hanji-376-1-lishishang-zhenshi-de-suwu-muyang-shi-shenmeyang-lidxs1d66m5q2hegjteq1lgra5fp.md) — 张胜私助虞常刺杀卫律的计划使和平使团被集体牵连，苏武两次求死并拒绝连坐投降，由此补全北海流放前的危机起点。
