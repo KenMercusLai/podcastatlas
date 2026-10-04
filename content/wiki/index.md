@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》376-1｜历史上真实的苏武牧羊是什么样？](sources/zizhi-tongjian-hanji-376-1-lishishang-zhenshi-de-suwu-muyang-shi-shenmeyang-lidxs1d66m5q2hegjteq1lgra5fp.md) — 张胜私助虞常刺杀卫律的计划使和平使团被集体牵连，苏武两次求死并拒绝连坐投降，由此补全北海流放前的危机起点。
 - [《资治通鉴·汉纪》375-1｜职场启示：别让自己变成一头蠢驴](sources/zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os.md) — 郁成支线补全上官桀与赵弟的行动，并以布利丹毛驴说明慎思需要停止规则，避免比较本身吞掉机会。
 - [《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位](sources/zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl.md) — 大宛远征以虐兵损耗与无问责封赏收场，同时推动西域质子、通道屯田、楼兰两属困境和大宛续贡。
 - [《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？](sources/zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul.md) — 汉武帝以国家级动员支持李广利再征大宛，围城与威慑换来献马、供粮和亲汉国王，但战争的完整人命与财政代价仍未被核算。
@@ -3767,6 +3768,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [张胜 / Zhang Sheng (Su Wu mission)](entities/ZhangShengSuWuMissionWesternHan.md) — 苏武使团副使，私助虞常刺杀卫律的计划，事败后被供出并在死亡威胁下投降。
+- [虞常 / Yu Chang (Western Han-era)](entities/YuChangWesternHan.md) — 匈奴境内密谋参与者，其失败、被捕与供出张胜触发苏武使团的拘押危机。
+- [卫律 / Wei Lü (Western Han-Xiongnu)](entities/WeiLuWesternHan.md) — 由汉使转入匈奴权力体系的中介，既救治苏武又以处决、连坐和剑威逼迫汉使投降。
 - [赵弟 / Zhao Di (Western Han)](entities/ZhaoDiWesternHan.md) — 上邽骑士，在郁成王押送途中率先采取不可逆行动，并被节目用作决断与正确性必须区分的案例。
 - [郁成 / Yucheng (Western Han-era)](entities/YuchengWesternHan.md) — 大宛远征支线中的西域小国，击败汉军偏师后遭上官桀进攻，其国王逃入康居又被交出。
 - [韩延年 / Han Yannian (Western Han)](entities/HanYannianWesternHan.md) — 李陵军前锋指挥者，军情泄露后与李陵夜间突围并在匈奴追击中战死。
@@ -5652,8 +5656,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [“日利八千万”鲤鱼形铜带钩 / Rili Baqianwan Belt Hook](entities/RiliBaqianwanBeltHook.md) — Guizhou-excavated fish-shaped bronze belt hook used by Hanji 410-2 to read visible Han wealth aspiration and merchant-culture imagination.
 - [王式 / Wang Shi (Changyi Teacher)](entities/WangShiChangyiTeacher.md) — Liu He's teacher whose Shi jing instruction becomes evidence of fulfilled admonition duty after the Changyi deposition.
 - [Tian Yannian (Western Han)](entities/TianYannianWesternHan.md) — Huo Guang confidant and da sinong whose corruption case becomes fatal after he lies to his patron.
-- [常惠 / Chang Hui (Western Han)](entities/ChangHuiWesternHan.md) — Western Han envoy-commander linking Xieyou's Wusun appeal, Wusun's anti-Xiongnu strike, Cheshi extraction, and Liu Xiangfu's recall.
-- [苏武 / Su Wu (Western Han)](entities/SuWuWesternHan.md) — Western Han envoy whose Xiongnu exile, staff-holding refusal, mourning, and return define Hanji 398's loyalty case.
+- [常惠 / Chang Hui (Western Han)](entities/ChangHuiWesternHan.md) — Western Han mission member who first helps save Su Wu, later creates his proof-of-life route, and then links Wusun, Xiongnu, and Cheshi field action.
+- [苏武 / Su Wu (Western Han)](entities/SuWuWesternHan.md) — Western Han chief envoy whose mission crisis, two suicide attempts, exile, staff-holding refusal, mourning, and return form one loyalty arc.
 - [李广 / Li Guang (Western Han general)](entities/LiGuangHanGeneral.md) — Famous Western Han general whose reputation and martial traits become Li Ling's inherited model and identity burden.
 - [李陵 / Li Ling (Western Han)](entities/LiLingWesternHan.md) — Former Han officer whose volunteer infantry plan, failed support, resilient battle, surrender, family destruction, and Su Wu encounter form an expanding tragedy.
 - [路博德 / Lu Bode (Western Han)](entities/LuBodeWesternHan.md) — Western Han commander whose support-role resistance and seasonal-delay memorial are misattributed to Li Ling before their missions diverge.
@@ -19078,7 +19082,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [称帝时机与拥戴信号 / Accession Timing Coalition Signal](concepts/AccessionTimingCoalitionSignal.md) — Founding-stage pattern where victory, follower expectation, title clarity, strategic diagnosis, and symbolic warrant converge to make accession acceptable.
 - [帝王自责诏 / Imperial Self-Criticism Edict](concepts/ImperialSelfCriticismEdict.md) — Ruler-feedback pattern where omen response becomes construction-burden correction, humility, anti-flattery discipline, or circulated self-blame.
 - [诏令执行阻抗 / Imperial Edict Implementation Resistance](concepts/ImperialEdictImplementationResistance.md) — Governance pattern where formal imperial commands are answered procedurally while workload and incentive structures preserve the status quo.
-- [使节礼节国威 / Diplomatic Ritual Dignity](concepts/DiplomaticRitualDignity.md) — Frontier-diplomacy pattern where an envoy's coerced or refused ritual posture becomes a state-level dignity and recognition signal.
+- [使节礼节国威 / Diplomatic Ritual Dignity](concepts/DiplomaticRitualDignity.md) — Frontier-diplomacy pattern where an envoy's bodily treatment, survival choice, or ritual posture becomes a state-level dignity and hierarchy signal.
 - [宗室谋逆法度边界 / Royal Kin Treason Law Boundary](concepts/RoyalKinTreasonLawBoundary.md) — Court-governance boundary where imperial kinship affects procedure, mercy, containment, and succession without privatizing mandate threat or treason suspicion.
 - [宗室亲属丑闻审理 / Royal Kinship Scandal Adjudication](concepts/RoyalKinshipScandalAdjudication.md) — Court pattern for balancing royal-house dignity, kinship taboo, evidence reliability, and public law in politically explosive scandal cases.
 - [封爵继承公共责任 / Title Succession Public Duty](concepts/TitleSuccessionPublicDuty.md) — Governance ethic treating inherited state-conferred title as public responsibility rather than private preference.

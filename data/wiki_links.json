@@ -84599,6 +84599,10 @@
     "title": "卫伉 / Wei Kang (Western Han)",
     "url": "/wiki/entities/weikangwesternhan/"
   },
+  "WeiLuWesternHan": {
+    "title": "卫律 / Wei Lü (Western Han-Xiongnu)",
+    "url": "/wiki/entities/weiluwesternhan/"
+  },
   "WeiLvXiongnu": {
     "title": "魏律 / Wei Lü (Xiongnu-aligned)",
     "url": "/wiki/entities/weilvxiongnu/"
@@ -88943,6 +88947,10 @@
     "title": "幽州 / Youzhou (Late Han)",
     "url": "/wiki/entities/youzhoulatehan/"
   },
+  "YuChangWesternHan": {
+    "title": "虞常 / Yu Chang (Western Han-era)",
+    "url": "/wiki/entities/yuchangwesternhan/"
+  },
   "YuChengLateHan": {
     "title": "庾乘 / Yu Cheng (late Han)",
     "url": "/wiki/entities/yuchenglatehan/"
@@ -90006,6 +90014,10 @@
   "ZhangShengLateHan": {
     "title": "张盛 / Zhang Sheng (late Han)",
     "url": "/wiki/entities/zhangshenglatehan/"
+  },
+  "ZhangShengSuWuMissionWesternHan": {
+    "title": "张胜 / Zhang Sheng (Su Wu mission)",
+    "url": "/wiki/entities/zhangshengsuwumissionwesternhan/"
   },
   "ZhangShengWesternHan": {
     "title": "张胜 / Zhang Sheng (Western Han envoy)",
@@ -99222,6 +99234,10 @@
   "zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl": {
     "title": "《资治通鉴·汉纪》375-2｜数万汉将枯骨，成就李广利封侯之位",
     "url": "/wiki/sources/zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl/"
+  },
+  "zizhi-tongjian-hanji-376-1-lishishang-zhenshi-de-suwu-muyang-shi-shenmeyang-lidxs1d66m5q2hegjteq1lgra5fp": {
+    "title": "《资治通鉴·汉纪》376-1｜历史上真实的苏武牧羊是什么样？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-376-1-lishishang-zhenshi-de-suwu-muyang-shi-shenmeyang-lidxs1d66m5q2hegjteq1lgra5fp/"
   },
   "zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk": {
     "title": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？",
