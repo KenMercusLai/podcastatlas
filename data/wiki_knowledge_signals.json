@@ -52615,9 +52615,9 @@
       "url": "/wiki/entities/daymondjohn/"
     },
     "DayuanWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》374-2｜汉武帝倾尽全力打大宛，值不值？ [lmFZkLlEJz3M0vanMNu7GYxtWbUl].md",
@@ -52639,6 +52639,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》374-1｜汉武帝为何宁愿自损八千，也不愿放过大宛国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布 [liwj6eCHVapnygjm-1OfyyCt2JRe].md",
+          "key": "zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre/"
         }
       ],
       "updated": "2026-10-05",
@@ -88194,9 +88201,9 @@
       "url": "/wiki/entities/gongsunaowesternhan/"
     },
     "GongsunHeWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！ [lp_RWQPmccvlAOChibSpViKhb96z].md",
@@ -88218,9 +88225,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》383-1｜汉代最大悲剧，“巫蛊之祸”是如何发生的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布 [liwj6eCHVapnygjm-1OfyyCt2JRe].md",
+          "key": "zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/gongsunhewesternhan/"
     },
     "GongsunHongLangyaWesternHan": {
@@ -93534,9 +93548,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 2,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -93691,6 +93705,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》374-1｜汉武帝为何宁愿自损八千，也不愿放过大宛国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布 [liwj6eCHVapnygjm-1OfyyCt2JRe].md",
+          "key": "zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre/"
         }
       ],
       "updated": "2026-10-05",
@@ -98151,9 +98172,9 @@
       "url": "/wiki/concepts/highmeritthreatmanagement/"
     },
     "HighOfficeRefusalAsRiskAvoidance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘 [ltjlhPHlRQNAZeqH2cC2HGsvrvwc].md",
@@ -98161,9 +98182,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘",
           "url": "/wiki/sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布 [liwj6eCHVapnygjm-1OfyyCt2JRe].md",
+          "key": "zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/highofficerefusalasriskavoidance/"
     },
     "HighQualityGenomeInfrastructure": {

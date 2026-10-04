@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul
   - zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl
   - zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh
+  - zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre
 last_updated: 2026-10-05
 ---
 
 ## Overview
 
-大宛 / Dayuan is a Western Regions polity targeted by [[HanWudi|汉武帝]] in a campaign whose stated rationale develops across Hanji 374-1 and 374-2. The first episode frames Dayuan's noncooperation as an obstacle to Han's effort to align Western Regions states against [[Xiongnu|匈奴]] and as a test of imperial credibility; the second centers its famous horses, fortified capital, relations with [[Kangju|康居]], and elite decision to kill King Wugua and negotiate rather than risk continued siege.
+大宛 / Dayuan is a Western Regions polity targeted by [[HanWudi|汉武帝]] in a campaign whose setting and stated rationale develop from Hanji 373-1 through Hanji 374-2. Hanji 373-1 begins with distance as defense; Hanji 374-1 frames Dayuan's noncooperation as an obstacle to Han's effort to align Western Regions states against [[Xiongnu|匈奴]] and as a test of imperial credibility; Hanji 374-2 centers its famous horses, fortified capital, relations with [[Kangju|康居]], and elite decision to kill King Wugua and negotiate rather than risk continued siege.
 
 ## Current Profile
 
-Hanji 374-1 supplies only a Han-centered strategic prelude. After Zhao Ponu's capture, Han ministers argue that the immediate Xiongnu threat should take priority, but Wudi refuses to abandon a declared campaign against a smaller state. The host adds that Han sought cooperation from Dayuan and other Western Regions polities to create flank pressure against Xiongnu. This explains Han's claimed objective but does not independently establish Dayuan's diplomatic choices, motives, or view of the conflict.
+Hanji 373-1 supplies the logistical premise before the strategic dispute. The host locates Dayuan in the Ferghana Valley, gives the simple Chang'an distance as more than 3,300 kilometers, and describes deserts, mountains, and sparsely inhabited terrain between the two states. Distance therefore functions as a defensive asset by raising Han's transport and sustainment cost, but the measurement and route description remain episode-attributed rather than a reconstructed ancient itinerary.
+
+Hanji 374-1 then supplies a Han-centered strategic prelude. After Zhao Ponu's capture, Han ministers argue that the immediate Xiongnu threat should take priority, but Wudi refuses to abandon a declared campaign against a smaller state. The host adds that Han sought cooperation from Dayuan and other Western Regions polities to create flank pressure against Xiongnu. This explains Han's claimed objective but does not independently establish Dayuan's diplomatic choices, motives, or view of the conflict.
 
 Hanji 374-2 presents Dayuan as difficult to reach but not militarily isolated. Its capital initially relies on an external watercourse, its army attempts field battle before retreating behind the walls, and its nobles invoke approaching Kangju support as leverage. Han hydraulic preparation does not force immediate surrender because Dayuan has grain and has captured Han people able to dig wells.
 
@@ -28,7 +31,7 @@ Hanji 375-2 shows that the installed settlement is unstable but not simply rever
 
 ## Key Characteristics
 
-- Western Regions polity targeted after conflict over envoys and highly valued horses, with its noncooperation framed by the host as obstructing Han's anti-Xiongnu alliance and flank strategy.
+- Distant Western Regions polity targeted after conflict over envoys and highly valued horses, with the Ferghana route making logistics part of its defense and its noncooperation framed by the host as obstructing Han's anti-Xiongnu flank strategy.
 - Fortified capital whose external water supply can be diverted but whose grain and well-digging capacity limit the effect of blockade.
 - Political elite willing to remove its own king to preserve the state under siege.
 - Negotiating actor that combines concessions with threats to destroy the very prize Han seeks.
@@ -38,6 +41,7 @@ Hanji 375-2 shows that the installed settlement is unstable but not simply rever
 
 ## Evidence
 
+- Distance as defense: [[zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre|Hanji 373-1]] locates Dayuan in the Ferghana Valley and says more than 3,300 kilometers plus deserts, mountains, and sparse settlement separate it from Chang'an.
 - Strategic prelude: [[zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh|Hanji 374-1]] says Wudi continues the campaign despite advice to prioritize Xiongnu, while the host interprets Dayuan as part of a wider Western Regions alignment problem.
 - Field defense and siege resilience: [[zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul|Hanji 374-2]] says Dayuan's troops lose outside the city, while the capital endures diverted water because it retains grain and captured Han well-diggers.
 - Elite regime change: [[zizhi-tongjian-hanji-374-2-hanwudi-qingjin-quanli-da-dayuan-zhi-bu-zhi-lmfzkllejz3m0vanmnu7gyxtwbul|Hanji 374-2]] says nobles kill Wugua and present his head as the removal of the person blamed for the conflict.
@@ -47,12 +51,11 @@ Hanji 375-2 shows that the installed settlement is unstable but not simply rever
 
 ## Qualifications
 
-This profile is bounded to three short popular-history sources and does not reconstruct Dayuan's full political history, geography, urban economy, horse breeding, first Han expedition, or internal factions. Hanji 374-1's alliance and flank-pressure rationale is the host's Han-centered interpretation rather than direct evidence of Dayuan's motives. Wugua, Meicai, and Chanfeng name forms, force and horse totals, noble motives, hostage arrangements, and annual tribute remain source-scoped. All three episodes are strongly Han-centered, so Dayuan civilian experience and losses are largely absent.
+This profile is bounded to four short popular-history sources and does not reconstruct Dayuan's full political history, geography, urban economy, horse breeding, first Han expedition, or internal factions. Hanji 373-1's Ferghana placement, distance estimate, and terrain description are introductory episode claims; Hanji 374-1's alliance and flank-pressure rationale is a Han-centered interpretation rather than direct evidence of Dayuan's motives. Wugua, Meicai, and Chanfeng name forms, force and horse totals, noble motives, hostage arrangements, and annual tribute remain source-scoped. All four episodes are strongly Han-centered, so Dayuan civilian experience and losses are largely absent.
 
 ## What Changed
 
-- Added the pre-campaign dispute: Dayuan is framed as an anti-Xiongnu alignment and imperial-credibility problem, while ministers prioritize the immediate Xiongnu threat.
-- Preserved the post-settlement elite reaction: Meicai is killed, but Chanfeng maintains hostage and horse-tribute relations with Han.
+- Added Hanji 373-1's distance-and-terrain layer as the logistical premise before the campaign-priority dispute.
 
 ## Relationships
 

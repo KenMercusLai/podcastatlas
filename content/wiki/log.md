@@ -29653,3 +29653,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布
+
+Added source `zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre`; resynthesized [[GongsunHeWesternHan|公孙贺]], [[HanWudi|汉武帝]], [[DayuanWesternHan|大宛]], and [[HighOfficeRefusalAsRiskAvoidance|高位拒受式避险]] from their complete preserved evidence inventories. Core synthesis: cavalry merit makes Gongsun He eligible for the premiership without resolving his claimed capacity mismatch, while imperial insistence makes refusal itself risky; his later eleven-year caution and wugu destruction show sustained high-office exposure without making the final outcome inevitable. Horse requisition, locust damage, ritual travel, and Dayuan's distance add the administrative and logistical pressure surrounding the appointment. No settled contradiction was adopted. The “most dangerous office” judgment, immediate-execution inference, emotional detail, distance estimate, terrain description, and claim of “great wisdom” remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,707-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

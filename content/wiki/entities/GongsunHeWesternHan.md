@@ -7,45 +7,49 @@ sources:
   - zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z
   - zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz
   - zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi
-last_updated: 2026-09-15
+  - zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre
+last_updated: 2026-10-05
 ---
 
 ## Overview
 
-公孙贺 / Gongsun He enters the wiki through [[zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z|Hanji 384-1]] as the Western Han chancellor destroyed with his son during the upstream phase of the [[WuguIncidentWesternHan|巫蛊之祸]]. [[zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi|Hanji 383-1]] adds his pre-disaster positioning: he is [[WeiQingHanGeneral|卫青]] and [[EmpressWeiZifuWesternHan|卫子夫]]'s brother-in-law, a former campaign follower of Wei Qing, a cautious chancellor, and [[LiuJuCrownPrinceWesternHan|卫太子刘据]]'s important late support. [[zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz|Hanji 383-2]] adds the immediate causal chain: his son [[GongsunJingshengWesternHan|公孙敬声]] embezzles North Army funds, Gongsun He tries to trade [[ZhuAnshiWesternHan|朱安世]]'s capture for a pardon, and Zhu retaliates with adultery and wugu accusations.
+公孙贺 / Gongsun He is a Western Han cavalry commander, marquis, and chancellor whose career runs from military qualification and reluctant promotion to long cautious service and destruction in the prelude to the [[WuguIncidentWesternHan|巫蛊之祸]]. [[zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre|Hanji 373-1]] supplies the missing appointment scene: after Shi Qing dies in 103 BCE, [[HanWudi|汉武帝]] appoints Gongsun He, who weeps and argues that riding and archery do not equip him for chancellor-level responsibility. Later sources show that his fear precedes eleven years of cautious survival, then a son-centered corruption case that becomes a lethal wugu prosecution and removes an important support from [[LiuJuCrownPrinceWesternHan|卫太子刘据]]'s political field.
 
 ## Current Profile
 
-The current bounded evidence gives Gongsun He three linked profiles. Hanji 383-1 presents him before the fatal case as an anxious but surviving chancellor whose Wei-family marriage connection makes him one of Liu Ju's remaining supports after Wei Qing's death. Hanji 383-2 presents him as a father and chancellor trying to rescue his son from a military-finance crime. His bargaining tactic succeeds in producing Zhu Anshi's surrender, but it also creates the revenge motive that turns the case into accusations of adultery with Yangshi Princess and curse magic against [[HanWudi|汉武帝]]. Hanji 384-1 then reads the same family destruction politically, presenting Gongsun He as connected to Empress Wei Zifu by marriage and therefore tied into Liu Ju's court support network.
+The current bounded evidence gives Gongsun He four linked profiles. Hanji 373-1 presents the appointment problem: anti-Xiongnu service, marquis rank, and association with [[WeiQingHanGeneral|卫青]] make a cavalry officer eligible for high civil office, but Gongsun He treats the same promotion as a mismatch between his abilities and the premiership's responsibility. The episode places that judgment amid horse requisition, locust damage, imperial ritual travel, and the distant [[DayuanWesternHan|大宛]] war, while its claim that the chancellorship was Han Wudi's most dangerous office remains a host interpretation.
 
-The synthesis is that Gongsun He's fall is both a family disaster and a succession-field event. Hanji 383-2 explains how a son-centered corruption case becomes a wugu case; Hanji 384-1 explains why the resulting destruction weakens Liu Ju before the later open Wugu crisis. Alongside [[WeiKangWesternHan|卫伉]]'s death, the case removes a high-office outer support from the empress-crown-prince side and helps explain why the later conflict becomes so lopsided.
+Hanji 383-1 shows what follows: Gongsun He survives for eleven years by cautious “no merit, no fault” conduct, while his Wei-family marriage connection makes him one of Liu Ju's remaining supports after Wei Qing's death. Hanji 383-2 presents him as a father and chancellor trying to rescue his son from a military-finance crime. His bargaining tactic succeeds in producing Zhu Anshi's surrender, but it also creates the revenge motive that turns the case into accusations of adultery with Yangshi Princess and curse magic against Han Wudi. Hanji 384-1 then reads the same family destruction politically, presenting Gongsun He as connected to [[EmpressWeiZifuWesternHan|卫子夫]] by marriage and therefore tied into Liu Ju's court support network.
+
+The synthesis is that Gongsun He's appointment fear and later fall belong to one risk profile without making the outcome inevitable. Hanji 373-1 explains why he sees office as concentrated exposure; Hanji 383-1 shows caution postponing rather than eliminating that exposure; Hanji 383-2 explains how a son-centered corruption case becomes a wugu case; and Hanji 384-1 explains why the resulting destruction weakens Liu Ju before the later open crisis. Alongside [[WeiKangWesternHan|卫伉]]'s death, the case removes a high-office outer support from the empress-crown-prince side.
 
 ## Key Characteristics
 
-- Western Han chancellor whose family disaster begins with his son's misuse of high office.
+- Cavalry commander and marquis who treats promotion to chancellor as a capacity-and-accountability danger rather than uncomplicated honor.
+- Reluctant appointee whose failed refusal becomes eleven years of deliberately cautious service.
 - Wei-family in-law and former Wei Qing campaign follower whose office makes him an important late support for Liu Ju.
-- Father trying to save Gongsun Jingsheng through a capture-for-pardon bargain.
-- Wei-family in-law whose office and kinship make him politically relevant to Liu Ju.
-- Early Wugu defendant whose case moves from military-finance crime to curse accusation.
+- Father whose capture-for-pardon attempt to save Gongsun Jingsheng turns a military-finance crime into retaliatory wugu accusation.
 - Support-network casualty whose death helps isolate Liu Ju before later open conflict.
 
 ## Evidence
 
-- Family-case trigger: [[zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz|Hanji 383-2]] says Gongsun Jingsheng embezzles North Army funds after receiving the taipu post, forcing Gongsun He to seek a rescue path.
+- Appointment and capacity warning: [[zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre|Hanji 373-1]] says Gongsun He weeps, kneels, and asks Han Wudi to withdraw the appointment because riding and archery do not qualify him for chancellor-level responsibility.
+- Coercive acceptance: [[zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre|Hanji 373-1]] says Wudi insists despite the refusal; the episode interprets his anger as making acceptance the safer immediate choice.
 - Pre-disaster position: [[zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi|Hanji 383-1]] says Gongsun He is Wei Qing and Wei Zifu's brother-in-law, followed Wei Qing on campaign, and becomes Liu Ju's important late support after the Wei-family outer network declines.
 - Cautious chancellorship: [[zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi|Hanji 383-1]] says he spends eleven years as chancellor carefully seeking no merit and no fault.
+- Family-case trigger: [[zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz|Hanji 383-2]] says Gongsun Jingsheng embezzles North Army funds after receiving the taipu post, forcing Gongsun He to seek a rescue path.
 - Rescue bargain and blowback: [[zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz|Hanji 383-2]] says Gongsun He captures Zhu Anshi by pressuring his kin, after which Zhu retaliates with adultery and wugu accusations.
 - Office and kinship role: [[zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z|Hanji 384-1]] identifies Gongsun He as chancellor, Wei Zifu's brother-in-law, and Liu Ju's maternal-side elder.
 - Political effect: [[zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z|Hanji 384-1]] treats the destruction of the Gongsun side as part of removing Liu Ju's external support.
 
 ## Qualifications
 
-This page is not a full biography of Gongsun He or Gongsun Jingsheng. It preserves Hanji 383-1, Hanji 383-2, and Hanji 384-1's compact podcast accounts and does not independently reconstruct the full legal dossier, textual variants, North Army finance record, chronology of the investigation, evidentiary reliability of the wooden figure, or the full family network. Hanji 383-1 stops before the family disaster and therefore supports only the pre-disaster positioning and caution profile.
+This page is not a full biography of Gongsun He or Gongsun Jingsheng. It preserves four compact podcast accounts and does not independently reconstruct the appointment dialogue, Shi Qing succession process, chancellor mortality, full legal dossier, North Army finance record, chronology of the investigation, evidentiary reliability of the wooden figure, or the full family network. Hanji 373-1's immediate-execution fear, emotional detail, “great wisdom” judgment, and broad claim that Wudi-era chancellor was the most dangerous office remain interpretive; the later disaster does not prove that every fear expressed in 103 BCE predicted its exact cause.
 
 ## What Changed
 
-- Added Hanji 383-1's pre-disaster positioning: Wei-family marriage connection, Wei Qing campaign background, cautious chancellorship, and importance as Liu Ju's late support.
-- Preserved Hanji 383-2's immediate causal chain: Gongsun Jingsheng's embezzlement, Gongsun He's capture bargain, Zhu Anshi's retaliation, and the move from corruption case to wugu accusation.
+- Added Hanji 373-1's 103 BCE appointment refusal, capacity warning, coercive acceptance, and high-responsibility context.
+- Reframed the later caution and destruction as confirmation of sustained exposure without treating the final wugu case as predetermined at appointment.
 
 ## Relationships
 
@@ -56,3 +60,5 @@ This page is not a full biography of Gongsun He or Gongsun Jingsheng. It preserv
 - [[HanWudi]] - ruler allegedly cursed in the case against Gongsun Jingsheng.
 - [[WeiKangWesternHan]] - parallel Wei-side casualty in the same Wugu wave.
 - [[WuguIncidentWesternHan]] - broader crisis that makes the case politically consequential.
+- [[HighOfficeRefusalAsRiskAvoidance]] - concept illuminated by his failed attempt to avoid a prestigious but dangerous appointment.
+- [[DayuanWesternHan]] - distant war whose logistical burden forms part of the 103 BCE chancellorship context.
