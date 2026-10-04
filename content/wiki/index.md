@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [杨笠×罗永浩！不想成为“靶心”，也无意成为“灯塔”](sources/yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo.md) — 罗永浩与杨笠谈巡演与冷场、喜剧创作、公众争议、家庭悲痛、隐私边界和终身创作选择。
 - [《资治通鉴·汉纪》364-1｜用鸡骨头测吉凶的秘密](sources/zizhi-tongjian-hanji-364-1-yong-jigutou-ce-jixiong-de-mimi-liynaii4kc2v1-d_ndckhnxbaswg.md) — 鸡骨占卜被还原为祭祀、制骨、插竹与经书释象的完整程序，并与汉武帝采用粤巫、公孙卿献策及求仙建筑并置。
 - [《资治通鉴·汉纪》364-2｜汉武帝打朝鲜的历史问题](sources/zizhi-tongjian-hanji-364-2-hanwudi-da-chaoxian-de-lishi-wenti-lrid25t03ell_bs6siq6yvrj3lp9.md) — 从卫满建国与汉朝外臣协议追溯卫右渠阻断周边小国朝见、涉何暴力出使及朝鲜报复，并记录灵芝祥瑞与公孙卿对旱灾的封禅化解释。
 - [《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目](sources/zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif.md) — 以赵破奴征楼兰、车师和河西设防为年代背景，重建角抵、鱼龙、蔓延的宫廷奇观，并把梁武帝节制养生说保留为来源限定。
@@ -3800,6 +3801,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Using Salt to Optimize Mental & Physical Performance](sources/essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044.md) — Condensed Huberman Lab episode on sodium-water homeostasis, contextual intake, exercise replacement, and why overlap with the full release is provenance rather than replication.
 
 ## Entities
+- [Yang Li / 杨笠](entities/YangLiStandup.md) — Chinese stand-up comedian and writer discussing live craft, public reception, grief, privacy, and lifelong creative work.
 - [丽娟 / Li Juan (Han Wudi court)](entities/LiJuanHanWudiCourt.md) — 后世笔记与传奇中的汉武帝宫人，其歌舞、美貌、机敏与赏赐故事被保留为文学性宠幸记忆，而非确证传记。
 - [梁武帝萧衍 / Xiao Yan, Emperor Wu of Liang](entities/XiaoYanLiangWudi.md) — 以学习、素食、崇佛和晚年节欲构成节目中的长寿对照，但不把相关性提升为医学因果。
 - [涉何 / She He (Western Han)](entities/SheHeWesternHan.md) — 出使朝鲜失败后杀其送行官员、获任辽东东部都尉，又在朝鲜报复中被杀并成为汉军出兵直接导火索的使者。
@@ -16235,6 +16237,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
 
 ## Concepts
+- [Comedy Public Reception Boundary / 喜剧公共接受边界](concepts/ComedyPublicReceptionBoundary.md) — Separates comic intent, live audience effects, public amplification, projection, ethical revision, and creator boundaries.
 - [汉廷奇观娱乐 / Han Court Spectacle Culture](concepts/HanCourtSpectacleCulture.md) — 角抵、杂技、乐舞、动物扮演和幻化场面组成宫廷大型娱乐，并为后来的表演外交提供既有节目资源。
 - [汉四郡 / Four Commanderies of Han](concepts/HanFourCommanderies.md) — 卫氏朝鲜征服后设置乐浪、临屯、玄菟、真番四郡的军事—行政转型，并保留边界、效力与后续沿革的不确定性。
 - [Female Strength as Self-Governance / 女性力量作为自我治理](concepts/FemaleStrengthAsSelfGovernance.md) — Integrates agency, care, learning, independence, tact, emotional recovery, and enforceable limits while rejecting fixed gender coding and preserving structural constraints.

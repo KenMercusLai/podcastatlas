@@ -29888,3 +29888,10 @@ Added source `essentials-using-salt-to-optimize-mental-physical-performance-scim
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-05] ingest | 杨笠×罗永浩！不想成为“靶心”，也无意成为“灯塔”
+
+Added the source note, created [[YangLiStandup|杨笠]] and [[ComedyPublicReceptionBoundary]], and extended [[LuoYonghao]], [[LuoyonghaosCrossroads]], [[StandupComedyIteration]], and [[PerformerAudienceStateCoupling]]. No settled contradiction identified; public-reception, biographical, family, and career claims remain source-scoped.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

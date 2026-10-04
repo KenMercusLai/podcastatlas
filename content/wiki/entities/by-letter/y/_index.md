@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12384
+wiki_total_pages: 12385
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "YanJunjie"
     title: "Yan Junjie"
     url: "/wiki/entities/yanjunjie/"
+  - key: "YangLiStandup"
+    title: "Yang Li / 杨笠"
+    url: "/wiki/entities/yanglistandup/"
   - key: "YangLingfeng"
     title: "Yang Lingfeng / 杨凌峰"
     url: "/wiki/entities/yanglingfeng/"

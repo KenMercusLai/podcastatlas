@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9690
+wiki_total_pages: 9691
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1598,6 +1598,9 @@ wiki_pages:
   - key: "ComedyAsInvoluntaryJudgment"
     title: "Comedy as Involuntary Judgment"
     url: "/wiki/concepts/comedyasinvoluntaryjudgment/"
+  - key: "ComedyPublicReceptionBoundary"
+    title: "Comedy Public Reception Boundary / 喜剧公共接受边界"
+    url: "/wiki/concepts/comedypublicreceptionboundary/"
   - key: "ComedyShapingHistoricalMemory"
     title: "Comedy Shaping Historical Memory"
     url: "/wiki/concepts/comedyshapinghistoricalmemory/"
