@@ -93955,9 +93955,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 24,
+      "episode_count": 25,
       "show_count": 2,
-      "source_note_count": 24,
+      "source_note_count": 25,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -94126,6 +94126,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS [FoITbkRMhmC1XgEU0Tk4bTyvmi98].md",
+          "key": "zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98/"
         }
       ],
       "updated": "2026-10-05",
@@ -207733,9 +207740,9 @@
       "url": "/wiki/concepts/tajmahalparadisesymbolism/"
     },
     "TalentSummonsRulerSelfExamination": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？ [lhmsW7zUSDkqdDk_ZU27Oj6Hfs2m].md",
@@ -207743,9 +207750,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS [FoITbkRMhmC1XgEU0Tk4bTyvmi98].md",
+          "key": "zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/talentsummonsrulerselfexamination/"
     },
     "TalentVirtueDistinction": {
@@ -212927,6 +212941,29 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/tianjingeneralhospital/"
+    },
+    "TianrenGanyingProjectionFrame": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（3） [ll74kQ2hg2vP-zX_cqXKaDxAhamD].md",
+          "key": "zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（3）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS [FoITbkRMhmC1XgEU0Tk4bTyvmi98].md",
+          "key": "zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/tianrenganyingprojectionframe/"
     },
     "TianxiaChina": {
       "episode_count": 2,
@@ -225552,9 +225589,9 @@
       "url": "/wiki/entities/weiqiansanlian/"
     },
     "WeiQingHanGeneral": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -225576,9 +225613,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》616 plus丨盘点史上的好色女人们",
           "url": "/wiki/sources/zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS [FoITbkRMhmC1XgEU0Tk4bTyvmi98].md",
+          "key": "zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/weiqinghangeneral/"
     },
     "WeiTengLateHan": {

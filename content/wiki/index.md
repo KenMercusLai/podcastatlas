@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS](sources/zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98.md) — 卫青去世与资深文武凋零促使汉武帝广求能任将相及远使的非常人才；节目再以“印记法则”把严苛用人与人才短缺解释为镜像反馈，并把念头觉察作为实践层。
 - [《资治通鉴·汉纪》370-1｜揭秘汉朝第一位与匈奴和亲的公主](sources/zizhi-tongjian-hanji-370-1-jiemi-hanchao-diyiwei-yu-xiongnu-heqin-de-gongzhu-lgetvmacjnoxhqfzymupxsk7fknk.md) — 乌孙在匈奴压力下以千匹马求娶汉室公主，刘细君的真皇族血统与父亲刘建案后的弱势处境遂被转化为汉—乌孙联盟资源。
 - [《资治通鉴·汉纪》368-2｜汉朝与匈奴的荒诞博弈](sources/zizhi-tongjian-hanji-368-2-hanchao-yu-xiongnu-de-huangdan-boyi-lv-ks6gb1ycmt3lo_lyqjywmoiav.md) — 杨信的礼仪拒绝揭开太子入质承诺并未落实，王乌再次获得好话却仍无履约；匈奴贵人病死、路充国被扣和边防调兵使承诺核验失败升级为外交与安全危机。
 - [《资治通鉴·汉纪》368-1｜俄乌之战背后的谈判博弈！](sources/zizhi-tongjian-hanji-368-1-ewu-zhizhan-beihou-de-tanpan-boyi-lm1l-z62lcewag-x6kxwgyusukh.md) — 王乌依匈奴礼俗入见却保留汉朝称臣要求，显示礼仪让步可作为保全面子与争取谈判入口的手段，但单于遣子承诺尚不等于落实和解。
@@ -6566,7 +6567,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小伙子 / Xiao Huozi](entities/XiaoHuoziNittanWuyu.md) — 日谈物语 co-host who reinforces the source's rapid-social-change and listener-facing setup.
 - [Japan AIDS Blood Products Incident / 日本艾滋血液药剂事件](entities/JapanAIDSBloodProductsIncident.md) — Announced public-health topic in the 日谈物语 autumn opener, currently source-limited to the title and hemophilia entry setup.
 - [郭子仪 / Guo Ziyi](entities/GuoZiyi.md) — Tang commander used in Hanji 1065 as a source-scoped model of reducing ruler suspicion through command surrender and low-threat conduct after great merit.
-- [卫青 / Wei Qing (Han general)](entities/WeiQingHanGeneral.md) — Western Han commander used in Hanji 1065 as a source-scoped model of humility and credit-sharing after high military achievement.
+- [卫青 / Wei Qing (Han general)](entities/WeiQingHanGeneral.md) — Western Han commander whose profile joins humility and credit-sharing after high achievement to elite remarriage, posthumous family risk, and the senior-command vacancy marked by his death.
 - [Dwarkesh Patel](entities/DwarkeshPatel.md) — Source-scoped media reference cited for the "agent civilizations" framing in the All-In AI-agent narrative discussion.
 - [Qianling Mountain Macaques / 黔灵山猕猴](entities/QianlingMountainMacaques.md) — Urban-park macaque population used by EP282 to connect tourism feeding, habituation, carrying capacity, bites, and relocation uncertainty.
 - [Nanjing Wild Boars / 南京野猪](entities/NanjingWildBoars.md) — Urban and peri-urban boar case where visibility gaps, crop damage, feeding risk, ecological role, and culling controversy intersect.
@@ -11168,7 +11169,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小林亮一 / Kobayashi Ryoichi](entities/KobayashiRyoichi.md) — Coach who recognizes 惠子's professional potential and teaches defense after her painful second fight.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
 - [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, guest-expulsion reversal, Handan revenge, conquest politics, Wang Jian's Chu command, and later imperial fangshu anxieties.
-- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile joins state-scale Dayuan expansion and anti-Xiongnu war to fiscal extraction, Wugu violence, late remorse, and final succession design.
+- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile joins state-scale expansion, fiscal extraction, talent-channel opening and shortage, Wugu violence, late remorse, and final succession design.
 - [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
 - [Zou Yan / 邹衍](entities/ZouYan.md) — Warring States thinker anchoring episode 87's yin-yang and five-phases political-theory branch.
@@ -19268,7 +19269,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [边疆代理承诺绑定 / Frontier Proxy Commitment Binding](concepts/FrontierProxyCommitmentBinding.md) — Frontier strategy where a submitting outside actor or dependent polity proves alignment through costly action against a rival power.
 - [不依附式朝廷生存 / Nonaligned Court Survival](concepts/NonalignedCourtSurvival.md) — Political-survival pattern where avoiding dependence on dominant factions preserves later trust after those factions fall.
 - [真隐士与伪隐士辨别 / Reclusion Authenticity Assessment](concepts/ReclusionAuthenticityAssessment.md) — Judgment frame distinguishing principled withdrawal, honorable but limited virtue, and false reclusion that arbitrages reputation.
-- [求贤中的君主自省 / Talent Summons Ruler Self-Examination](concepts/TalentSummonsRulerSelfExamination.md) — Recruitment principle that a ruler should inspect virtue, order, advisers, and sincerity before coercing reluctant worthy people.
+- [求贤中的君主自省 / Talent Summons Ruler Self-Examination](concepts/TalentSummonsRulerSelfExamination.md) — Recruitment principle that failed attraction and emergency vacancy can diagnose the ruler's virtue, court order, coercion, and accumulated personnel policy.
 - [礼让辞封式政治资本 / Ritual Renunciation as Political Capital](concepts/RitualRenunciationPoliticalCapital.md) — Pattern where refusing hereditary title or inheritance can become reputation and office capital while straining succession law.
 - [边郡恢复治理 / Frontier Commandery Restoration](concepts/FrontierCommanderyRestoration.md) — Strategy of restoring abandoned frontier commanderies when recognition, protection, return migration, wall repair, grain support, geography, logistics, settlement, and defense make abandonment more dangerous than repair.
 - [边疆资源整合治理 / Frontier Resource Integration](concepts/FrontierResourceIntegration.md) — Frontier-governance strategy tying surrender, residence pressure, land, infrastructure, local resources, migration, tuntian, and administrative restoration into state control.
@@ -20118,7 +20119,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fate Change Through Virtue Practice / 积善修心式改命](concepts/FateChangeThroughVirtuePractice.md) — Hanji 161 part 4 frame where inherited命数 can be altered through intention,修心,发愿, accumulated good deeds, and embodied practice.
 - [High-Dimensional Consciousness Entanglement / 高维意识纠缠](concepts/HighDimensionalConsciousnessEntanglement.md) — Hanji 161 part 3 synthesis where Daoist/Buddhist transcendence, parallel worlds, all-things-have-spirit, and Tesla-style frequency language become the source's strongest quantum-consciousness claim.
 - [Buddhist Consciousness Projection Frame / 佛教心识投射框架](concepts/BuddhistConsciousnessProjectionFrame.md) — Hanji 161 part 3 frame using 《金刚经》, 心, 识, 相, 空, and practice levels to explain appearance as consciousness-shaped rather than final reality.
-- [Tianren Ganying Projection Frame / 天人感应投射框架](concepts/TianrenGanyingProjectionFrame.md) — Hanji 161 part 3 frame where inner state, speech, family love, karma, cognition, and the outside world are treated as mutually responsive.
+- [Tianren Ganying Projection Frame / 天人感应投射框架](concepts/TianrenGanyingProjectionFrame.md) — Source-scoped projection frame joining天人感应 and “印记法则” through mirror, seed, karma, cognition, conduct, and thought observation.
 - [Meditative Stability Practice / 定力修行框架](concepts/MeditativeStabilityPractice.md) — Hanji 161 part 3 practice frame for using静坐, 冥想, 禅修, retreat, and self-observation to reduce relational interference and stabilize response.
 - [Reaction Choice Frame / 反应选择框架](concepts/ReactionChoiceFrame.md) — Hanji 161 part 2 frame for pausing after injury or anger so the chosen response does not compound the original event.
 - [Gratitude Resentment Return Frame / 感恩怨恨回向框架](concepts/GratitudeResentmentReturnFrame.md) — Hanji 161 part 2 frame where gratitude, resentment, kind speech, and harsh speech feed back through relationships.

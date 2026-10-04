@@ -29765,3 +29765,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-05] ingest | 《资治通鉴·汉纪》369-2｜改命必看：印记法则YYDS
+
+Added source `zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98`; normalized “魏清” to [[WeiQingHanGeneral|卫青]]; resynthesized [[HanWudi|汉武帝]], [[WeiQingHanGeneral|卫青]], [[TalentSummonsRulerSelfExamination|求贤中的君主自省]], and [[TianrenGanyingProjectionFrame|天人感应投射框架]] from their complete preserved evidence inventories. Core synthesis: the death of Wei Qing and depletion of senior officials prompt a broad search for unconventional military, civil, and diplomatic talent, while the episode's “印记法则” interprets earlier severity as reflected scarcity and moves from mirror/seed metaphors to thought observation. The causal and manifestation claims remain source-scoped and are not generalized into victim-blaming or settled history. The automatic `wiki/overview.md` was read for context and not manually rewritten. The downstream manifest and paragraph ledger were refreshed to 3,721-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
