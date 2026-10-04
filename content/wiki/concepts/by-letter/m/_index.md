@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9675
+wiki_total_pages: 9677
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "MediaInternetConvergence"
     title: "Media Internet Convergence"
     url: "/wiki/concepts/mediainternetconvergence/"
+  - key: "MediaMythToMovementRitual"
+    title: "Media Myth to Movement Ritual"
+    url: "/wiki/concepts/mediamythtomovementritual/"
   - key: "MediaOwnershipIndependenceRisk"
     title: "Media Ownership Independence Risk"
     url: "/wiki/concepts/mediaownershipindependencerisk/"

@@ -3311,6 +3311,10 @@
     "title": "65.龙王之怒：1931年的长江洪水",
     "url": "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
   },
+  "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135": {
+    "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+    "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
+  },
   "657-the-ku-klux-klan-american-fascists-part-4-glt4147819855": {
     "title": "657. The Ku Klux Klan: American Fascists (Part 4)",
     "url": "/wiki/sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855/"
@@ -12631,6 +12635,10 @@
     "title": "Birkenstock",
     "url": "/wiki/entities/birkenstock/"
   },
+  "BirthOfANation": {
+    "title": "The Birth of a Nation",
+    "url": "/wiki/entities/birthofanation/"
+  },
   "BirthRitualMedicalConflict": {
     "title": "Birth Ritual Medical Conflict",
     "url": "/wiki/concepts/birthritualmedicalconflict/"
@@ -19455,6 +19463,10 @@
     "title": "Commercialization Protects Creative Ideals",
     "url": "/wiki/concepts/commercializationprotectscreativeideals/"
   },
+  "CommercializedExtremistRecruitment": {
+    "title": "Commercialized Extremist Recruitment",
+    "url": "/wiki/concepts/commercializedextremistrecruitment/"
+  },
   "CommercializedReligiousAdaptation": {
     "title": "Commercialized Religious Adaptation",
     "url": "/wiki/concepts/commercializedreligiousadaptation/"
@@ -21882,6 +21894,10 @@
   "DVD": {
     "title": "DVD",
     "url": "/wiki/entities/dvd/"
+  },
+  "DWGriffith": {
+    "title": "D. W. Griffith",
+    "url": "/wiki/entities/dwgriffith/"
   },
   "DXY": {
     "title": "丁香园 / DXY",
@@ -26455,6 +26471,10 @@
     "title": "Edward VIII",
     "url": "/wiki/entities/edwardviii/"
   },
+  "EdwardYoungClarke": {
+    "title": "Edward Young Clarke",
+    "url": "/wiki/entities/edwardyoungclarke/"
+  },
   "EdwinAbbott": {
     "title": "Edwin A. Abbott / 爱德温·爱伯特",
     "url": "/wiki/entities/edwinabbott/"
@@ -26830,6 +26850,10 @@
   "ElizabethLaird": {
     "title": "Elizabeth Laird",
     "url": "/wiki/entities/elizabethlaird/"
+  },
+  "ElizabethTyler": {
+    "title": "Elizabeth Tyler",
+    "url": "/wiki/entities/elizabethtyler/"
   },
   "ElizabethWoodville": {
     "title": "Elizabeth Woodville",
@@ -53247,6 +53271,10 @@
     "title": "Media Internet Convergence",
     "url": "/wiki/concepts/mediainternetconvergence/"
   },
+  "MediaMythToMovementRitual": {
+    "title": "Media Myth to Movement Ritual",
+    "url": "/wiki/concepts/mediamythtomovementritual/"
+  },
   "MediaOwnershipIndependenceRisk": {
     "title": "Media Ownership Independence Risk",
     "url": "/wiki/concepts/mediaownershipindependencerisk/"
@@ -79395,6 +79423,10 @@
     "title": "Thomas Cromwell",
     "url": "/wiki/entities/thomascromwell/"
   },
+  "ThomasDixonJr": {
+    "title": "Thomas Dixon Jr.",
+    "url": "/wiki/entities/thomasdixonjr/"
+  },
   "ThomasDoughty": {
     "title": "Thomas Doughty",
     "url": "/wiki/entities/thomasdoughty/"
@@ -85462,6 +85494,10 @@
   "WilliamIII": {
     "title": "William III",
     "url": "/wiki/entities/williamiii/"
+  },
+  "WilliamJosephSimmons": {
+    "title": "William Joseph Simmons",
+    "url": "/wiki/entities/williamjosephsimmons/"
   },
   "WilliamJoyce": {
     "title": "William Joyce",

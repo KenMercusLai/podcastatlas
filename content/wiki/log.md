@@ -29693,3 +29693,11 @@ Added source `how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-s
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 656. The Ku Klux Klan: Birth of a Nation (Part 3)
+
+Added source `656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135`; created [[ThomasDixonJr]], [[DWGriffith]], [[BirthOfANation]], [[WilliamJosephSimmons]], [[EdwardYoungClarke]], [[ElizabethTyler]], [[MediaMythToMovementRitual]], and [[CommercializedExtremistRecruitment]]; resynthesized [[KuKluxKlan]], [[LostCauseMyth]], [[FraternalNetworkOrganizationalTemplate]], [[ExtremistSocialNormalization]], and [[ExtremistElectoralMachine]] from their complete preserved evidence inventories. Core synthesis: Dixon and Griffith converted Lost Cause mythology into mass visual culture, Simmons adopted its invented imagery and fraternal form as ritual, and Clarke and Tyler used commissions, regalia, Protestant networks, and locally targeted resentment to build a mass movement whose civic respectability coexisted with coercion and terror. No settled contradiction was adopted. Membership, political-influence, revenue, causation, and Tulsa claims remain source-scoped, and “Edward Young Clark” is normalized to [[EdwardYoungClarke|Edward Young Clarke]]. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,712-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12354
+wiki_total_pages: 12360
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "DCStephenson"
     title: "D. C. Stephenson"
     url: "/wiki/entities/dcstephenson/"
+  - key: "DWGriffith"
+    title: "D. W. Griffith"
+    url: "/wiki/entities/dwgriffith/"
   - key: "DADavidson"
     title: "D.A. Davidson"
     url: "/wiki/entities/dadavidson/"

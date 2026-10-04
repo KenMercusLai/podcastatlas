@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 12354
+wiki_total_pages: 12360
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "EdwardVIII"
     title: "Edward VIII"
     url: "/wiki/entities/edwardviii/"
+  - key: "EdwardYoungClarke"
+    title: "Edward Young Clarke"
+    url: "/wiki/entities/edwardyoungclarke/"
   - key: "EdwinAbbott"
     title: "Edwin A. Abbott / 爱德温·爱伯特"
     url: "/wiki/entities/edwinabbott/"
@@ -338,6 +341,9 @@ wiki_pages:
   - key: "ElizabethLaird"
     title: "Elizabeth Laird"
     url: "/wiki/entities/elizabethlaird/"
+  - key: "ElizabethTyler"
+    title: "Elizabeth Tyler"
+    url: "/wiki/entities/elizabethtyler/"
   - key: "ElizabethWoodville"
     title: "Elizabeth Woodville"
     url: "/wiki/entities/elizabethwoodville/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9675
+wiki_total_pages: 9677
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1649,6 +1649,9 @@ wiki_pages:
   - key: "CommercializationProtectsCreativeIdeals"
     title: "Commercialization Protects Creative Ideals"
     url: "/wiki/concepts/commercializationprotectscreativeideals/"
+  - key: "CommercializedExtremistRecruitment"
+    title: "Commercialized Extremist Recruitment"
+    url: "/wiki/concepts/commercializedextremistrecruitment/"
   - key: "CommercializedReligiousAdaptation"
     title: "Commercialized Religious Adaptation"
     url: "/wiki/concepts/commercializedreligiousadaptation/"

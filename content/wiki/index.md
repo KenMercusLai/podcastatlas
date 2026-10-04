@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [656. The Ku Klux Klan: Birth of a Nation (Part 3)](sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135.md) — The Rest Is History on the second Klan's formation through Lost Cause media, fraternal ritual, commissioned recruitment, Protestant respectability, early political power, and vigilante violence.
 - [How Hormones Shape Sexual Orientation & Behavior | Dr. Marc Breedlove](sources/how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139.md) — Huberman Lab interview on developmental correlates of sexual orientation, group-versus-individual inference, birth order, and the distinction between sexual motor patterns and partner preference.
 - [《资治通鉴·汉纪》373-2｜李广利首战大宛国，打得有多惨？](sources/zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi.md) — 李广利首征大宛在沿途断供、逐城取粮和郁成战败中提前耗尽；赵破奴接应匈奴内应失败后又因情报泄露、被围与主帅离营被俘而全军覆没。
 - [《资治通鉴·汉纪》372-3｜西汉皇帝都有哪些男朋友？](sources/zizhi-tongjian-hanji-372-3-xihan-huangdi-dou-you-naxie-nanpengyou-lkfxzzsl2dc-vnaxupjlfn14j6kt.md) — 籍孺与闳孺展示早期西汉宠幸如何阻隔或中介皇帝近身渠道、影响生死决定并扩散宫廷审美；现代性取向与创伤因果保留为来源推断。
@@ -3776,6 +3777,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [Thomas Dixon Jr.](entities/ThomasDixonJr.md) — Lost Cause novelist whose racist Reconstruction fiction supplied the narrative and imagery behind The Birth of a Nation.
+- [D. W. Griffith](entities/DWGriffith.md) — Film director whose technical innovation in The Birth of a Nation amplified racist mythology and imagery later adopted by the second Klan.
+- [The Birth of a Nation](entities/BirthOfANation.md) — 1915 film that joined cinematic innovation to white-supremacist Reconstruction propaganda and second-Klan symbolic formation.
+- [William Joseph Simmons](entities/WilliamJosephSimmons.md) — Fraternal organizer who relaunched the second Ku Klux Klan at Stone Mountain in 1915.
+- [Edward Young Clarke](entities/EdwardYoungClarke.md) — Publicity entrepreneur who co-built the second Klan's territorial, commission-driven recruitment system.
+- [Elizabeth Tyler](entities/ElizabethTyler.md) — Publicity entrepreneur who co-designed the marketing and sales operation behind the second Klan's rapid growth.
 - [Marc Breedlove](entities/MarcBreedlove.md) — Neuroscientist studying hormonal influences on brain development, sexual behavior, and orientation through population-level human and comparative-animal evidence.
 - [韩嫣 / Han Yan (Western Han)](entities/HanYanWesternHan.md) — 汉武帝幼年伙伴与亲近宠臣，其官位、赏赐、车驾僭越和被王太后处死展示宠幸权力及保护边界。
 - [李延年 / Li Yannian (Western Han)](entities/LiYannianWesternHan.md) — 以音乐、舞蹈、李夫人亲缘和近身宠幸由倡人家庭跃升为协律都尉的西汉宫廷艺人。
@@ -16181,6 +16188,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity whose siege resilience, elite regicide, threatened horse destruction, and negotiated settlement preserve autonomy under overwhelming Han pressure.
 
 ## Concepts
+- [Media Myth to Movement Ritual](concepts/MediaMythToMovementRitual.md) — Process by which dramatized history is adopted as real organizational tradition and repeated political ceremony.
+- [Commercialized Extremist Recruitment](concepts/CommercializedExtremistRecruitment.md) — Commission, territorial sales, required purchases, and grievance targeting used to scale exclusionary membership.
 - [Sexual Behavior–Partner Preference Distinction](concepts/SexualBehaviorPartnerPreferenceDistinction.md) — Boundary separating sexual motor patterns from libido, attraction, aversion, partner choice, and identity across human and animal evidence.
 - [Clinical Procedure Skill Acquisition / 临床操作技能习得](concepts/ClinicalProcedureSkillAcquisition.md) — Staged observation, mental sequencing, supervised participation, repeated performance, feedback, and safety in learning clinical procedures.
 - [Clinician Public Education Practice / 临床医生科普实践](concepts/ClinicianPublicEducationPractice.md) — Clinician preparation, lay translation, audience feedback, and the boundary between public education and individualized care.

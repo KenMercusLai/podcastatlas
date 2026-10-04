@@ -5796,6 +5796,18 @@
       "url": "/topics/science/"
     }
   ],
+  "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "657-the-ku-klux-klan-american-fascists-part-4-glt4147819855": [
     {
       "key": "history",
@@ -17167,6 +17179,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "BirthOfANation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "BirthTabooSuccessionExclusion": [
@@ -55265,6 +55284,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "MediaMythToMovementRitual": [
     {
       "key": "culture",
       "label": "Culture",

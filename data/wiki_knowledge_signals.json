@@ -24872,6 +24872,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/birkenstock/"
     },
+    "BirthOfANation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9883414135 [GLT9883414135].md",
+          "key": "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135",
+          "show": "The Rest Is History",
+          "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+          "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/birthofanation/"
+    },
     "BirthrightCitizenshipDebate": {
       "episode_count": 1,
       "show_count": 1,
@@ -43339,6 +43355,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/commercializationprotectscreativeideals/"
     },
+    "CommercializedExtremistRecruitment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9883414135 [GLT9883414135].md",
+          "key": "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135",
+          "show": "The Rest Is History",
+          "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+          "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/commercializedextremistrecruitment/"
+    },
     "CommercializedReligiousAdaptation": {
       "episode_count": 1,
       "show_count": 1,
@@ -49871,6 +49903,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/dscrloans/"
+    },
+    "DWGriffith": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9883414135 [GLT9883414135].md",
+          "key": "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135",
+          "show": "The Rest Is History",
+          "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+          "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/dwgriffith/"
     },
     "DaLaoshiCultureLimited": {
       "episode_count": 1,
@@ -62549,6 +62597,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/entities/edwardviii/"
     },
+    "EdwardYoungClarke": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9883414135 [GLT9883414135].md",
+          "key": "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135",
+          "show": "The Rest Is History",
+          "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+          "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/edwardyoungclarke/"
+    },
     "EffectMeasuredPersonnelSelection": {
       "episode_count": 1,
       "show_count": 1,
@@ -63660,6 +63724,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/elizabethii/"
+    },
+    "ElizabethTyler": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9883414135 [GLT9883414135].md",
+          "key": "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135",
+          "show": "The Rest Is History",
+          "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+          "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/elizabethtyler/"
     },
     "ElizabethWoodville": {
       "episode_count": 2,
@@ -71693,9 +71773,9 @@
       "url": "/wiki/concepts/extremeenvironmentriskmanagement/"
     },
     "ExtremistElectoralMachine": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4147819855 [GLT4147819855].md",
@@ -71703,15 +71783,22 @@
           "show": "The Rest Is History",
           "title": "657. The Ku Klux Klan: American Fascists (Part 4)",
           "url": "/wiki/sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855/"
+        },
+        {
+          "episode_file": "GLT9883414135 [GLT9883414135].md",
+          "key": "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135",
+          "show": "The Rest Is History",
+          "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+          "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/extremistelectoralmachine/"
     },
     "ExtremistSocialNormalization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4147819855 [GLT4147819855].md",
@@ -71719,9 +71806,16 @@
           "show": "The Rest Is History",
           "title": "657. The Ku Klux Klan: American Fascists (Part 4)",
           "url": "/wiki/sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855/"
+        },
+        {
+          "episode_file": "GLT9883414135 [GLT9883414135].md",
+          "key": "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135",
+          "show": "The Rest Is History",
+          "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+          "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/extremistsocialnormalization/"
     },
     "EyeDropSelfMedicationRisk": {
@@ -80401,9 +80495,9 @@
       "url": "/wiki/entities/frasermcilwraith/"
     },
     "FraternalNetworkOrganizationalTemplate": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4122245847 [GLT4122245847].md",
@@ -80411,9 +80505,16 @@
           "show": "The Rest Is History",
           "title": "335: The Freemasons: History's Greatest Conspiracy Theory",
           "url": "/wiki/sources/335-the-freemasons-historys-greatest-conspiracy-theory-glt4122245847/"
+        },
+        {
+          "episode_file": "GLT9883414135 [GLT9883414135].md",
+          "key": "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135",
+          "show": "The Rest Is History",
+          "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+          "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/fraternalnetworkorganizationaltemplate/"
     },
     "FredJordan": {
@@ -121925,9 +122026,9 @@
       "url": "/wiki/entities/krugernationalpark/"
     },
     "KuKluxKlan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4147819855 [GLT4147819855].md",
@@ -121935,9 +122036,16 @@
           "show": "The Rest Is History",
           "title": "657. The Ku Klux Klan: American Fascists (Part 4)",
           "url": "/wiki/sources/657-the-ku-klux-klan-american-fascists-part-4-glt4147819855/"
+        },
+        {
+          "episode_file": "GLT9883414135 [GLT9883414135].md",
+          "key": "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135",
+          "show": "The Rest Is History",
+          "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+          "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/kukluxklan/"
     },
     "KuaiYue": {
@@ -133634,9 +133742,9 @@
       "url": "/wiki/concepts/lossofcontroleating/"
     },
     "LostCauseMyth": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3666140136 [GLT3666140136].md",
@@ -133651,9 +133759,16 @@
           "show": "The Rest Is History",
           "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
           "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        },
+        {
+          "episode_file": "GLT9883414135 [GLT9883414135].md",
+          "key": "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135",
+          "show": "The Rest Is History",
+          "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+          "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/lostcausemyth/"
     },
     "LostCivilizationPseudohistory": {
@@ -142485,6 +142600,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/mediaevidencefeedbackloop/"
+    },
+    "MediaMythToMovementRitual": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9883414135 [GLT9883414135].md",
+          "key": "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135",
+          "show": "The Rest Is History",
+          "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+          "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/mediamythtomovementritual/"
     },
     "MediaSaturationAndEverydayConformity": {
       "episode_count": 1,
@@ -211472,6 +211603,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/thomascromwell/"
     },
+    "ThomasDixonJr": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9883414135 [GLT9883414135].md",
+          "key": "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135",
+          "show": "The Rest Is History",
+          "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+          "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/thomasdixonjr/"
+    },
     "ThomasEdison": {
       "episode_count": 1,
       "show_count": 1,
@@ -226923,6 +227070,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/williamiii/"
+    },
+    "WilliamJosephSimmons": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9883414135 [GLT9883414135].md",
+          "key": "656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135",
+          "show": "The Rest Is History",
+          "title": "656. The Ku Klux Klan: Birth of a Nation (Part 3)",
+          "url": "/wiki/sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/williamjosephsimmons/"
     },
     "WilliamJoyce": {
       "episode_count": 3,

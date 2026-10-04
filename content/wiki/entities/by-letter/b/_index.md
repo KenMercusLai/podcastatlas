@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12354
+wiki_total_pages: 12360
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1253,6 +1253,9 @@ wiki_pages:
   - key: "BilibiliAICreationContest"
     title: "B站 AI 创作大赛 / Bilibili AI Creation Contest"
     url: "/wiki/entities/bilibiliaicreationcontest/"
+  - key: "BirthOfANation"
+    title: "The Birth of a Nation"
+    url: "/wiki/entities/birthofanation/"
   - key: "BuChengWenTiDeWenTi"
     title: "《不成问题的问题》"
     url: "/wiki/entities/buchengwentidewenti/"
