@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [咖啡小课堂：口粮豆怎么买最划算？一份给普通人的咖啡避坑指南](sources/kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr.md) — 大小电波 guide to coffee freshness, packaging, price signals, cafe observation, and fit-based home-equipment decisions.
 - [Vol.274 成为萨洛蒙](sources/vol-274-chengwei-saluomeng-1013268300.md) — 商业就是这样 episode on Salomon's path from ski-binding engineering to trail-running ecosystem, direct retail, fashion translation, and Gravel category building.
 - [103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化](sources/103-duihua-yanyuan-guoxiaoting-ta-zai-guochanju-li-zhangda-ye-kanzhe-guochanju-bianhua-gkwrimaoeesma84v2atvmtsf.md) — 展开讲讲 conversation on actor autonomy, craft, role access, platform-era visibility labor, audience interpretation, and Chinese television change through 郭晓婷's career.
 - [Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush](sources/banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8.md) — How I Built This founder story on chickpea-pasta formulation, industrial transfer failure, retail and packaging growth, glyphosate-response pressure, and deliberately increasing exposure to luck.
@@ -3727,6 +3728,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
 
 ## Entities
+- [珍妮花 / Jennifer](entities/JenniferCoffee.md) — Hey Coffee operator and guest host translating coffee-industry experience into entry-level consumer guidance.
+- [Hey Coffee](entities/HeyCoffee.md) — Coffee business providing the practitioner context for 珍妮花's 大小电波 consumer-education column.
+- [Bacha Coffee](entities/BachaCafe.md) — Luxury-positioned coffee retailer used as a source-scoped case about brand signals versus perceived freshness.
 - [George Salomon](entities/GeorgeSalomon.md) — Product innovator associated with Salomon's 1950s releasable ski bindings and early technical advantage.
 - [Kilian Jornet](entities/KilianJornet.md) — Trail runner used as the athlete-proof case for Salomon hydration-vest adoption.
 - [Golden Trail World Series](entities/GoldenTrailWorldSeries.md) — Salomon-founded trail-running series linking competition, athletes, community, and media.
@@ -6209,7 +6213,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Syncopy](entities/Syncopy.md) — Nolan-associated production company framed as a lean control vehicle for project-by-project studio negotiation.
 - [Oppenheimer](entities/OppenheimerFilm.md) — Nolan film used as the comparison for reading the Trojan Horse as an ancient destructive-tool responsibility problem.
 - [读报teleread / 独报](entities/DuBaoTeleread.md) — Chinese podcast show represented by fifth-anniversary specials on writing, creator workflow, voice-first scripting, AI boundaries, podcast form, and long-term independent sustainability.
-- [大小电波](entities/DaxiaoDianbo.md) — Chinese podcast show represented by Yunnan coffee sourcing and Wahaha beverage-business history episodes.
+- [大小电波](entities/DaxiaoDianbo.md) — Chinese podcast spanning coffee origins, beverage design, consumer guidance, and beverage-business history.
 - [娃哈哈AD钙奶 / Wahaha AD Calcium Milk](entities/WahahaADCalciumMilk.md) — Wahaha children's beverage product tied to calcium/vitamin positioning, school-side channels, and durable childhood product memory.
 - [娃哈哈纯净水 / Wahaha Pure Water](entities/WahahaPureWater.md) — Wahaha bottled-water product marking the company's 1996 transition into high-frequency beverages.
 - [非常可乐 / Future Cola](entities/FutureCola.md) — Wahaha domestic cola product showing lower-tier channel advantage and the limits of channel-led brand longevity.
@@ -13451,7 +13455,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ada Lovelace / 艾达·洛夫莱斯](entities/AdaLovelace.md) — Byron's daughter, discussed in episode 82 as an early programming figure and a bridge from literary biography to gendered computing history.
 - [Mary Shelley / 玛丽·雪莱](entities/MaryShelley.md) — Writer whose Frankenstein origin anecdote appears through the Swiss ghost-story gathering around Byron.
 - [John Polidori / 约翰·波利多里](entities/JohnPolidori.md) — Byron's doctor and early vampire-fiction figure used by episode 82 to connect Byronic persona with gothic genre afterlife.
-- [Coffee / 咖啡](entities/Coffee.md) — Commodity and drink connecting coffee material history, coffeehouse publicness, modern work habits, China chain-coffee competition, and coffee-related CPG cases.
+- [Coffee / 咖啡](entities/Coffee.md) — Agricultural product, commodity, drink, retail category, sensory practice, and household purchase shaped by freshness, trade, culture, and routine.
 - [《全球上瘾》](entities/QuanqiuShangyin.md) — Coffee-centered material-history book discussed by episode 74 as a mythic commodity narrative with a noted 1934-era limitation around colonial labor.
 - [Ottoman Empire / 奥斯曼帝国](entities/OttomanEmpire.md) — Empire context linking Arab/Ottoman coffee culture, European coffee transmission, coffeehouse publicness, and existing Ottoman art-history branches.
 - [Clark Ashton Smith / C.A.史密斯](entities/ClarkAshtonSmith.md) — Weird-fiction writer presented by episode 73 as the poetic, ornate, comic, and anti-anthropocentric "literary ceiling" of the early Cthulhu field.
@@ -16067,6 +16071,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dangote Petroleum Refinery](entities/DangotePetroleumRefinery.md) — Nigerian refinery whose proposed $50bn local listing is a test of scale, ownership access, and market depth.
 
 ## Concepts
+- [Coffee Consumer Judgment / 咖啡消费判断](concepts/CoffeeConsumerJudgment.md) — Evidence-and-fit framework for judging roasted coffee, cafes, and home equipment under imperfect information.
 - [Gravel Running / 路野跑](concepts/GravelRunning.md) — Mixed-surface running format combining road accessibility, trail variability, and participant-chosen urban routes.
 - [Technical Product Lifestyle Translation / 专业产品生活方式转译](concepts/TechnicalProductLifestyleTranslation.md) — Process of moving specialist equipment into daily fashion while retaining recognizable functional structure and credibility.
 - [Niche Sport Ecosystem Building / 小众运动生态建设](concepts/NicheSportEcosystemBuilding.md) — Coordinated use of equipment, athletes, education, communities, competitions, and media to make a small sport sustainable.

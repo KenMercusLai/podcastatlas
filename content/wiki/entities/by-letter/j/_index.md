@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12291
+wiki_total_pages: 12294
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1649,6 +1649,9 @@ wiki_pages:
   - key: "Jiaoyi"
     title: "焦邑 / Jiaoyi"
     url: "/wiki/entities/jiaoyi/"
+  - key: "JenniferCoffee"
+    title: "珍妮花 / Jennifer"
+    url: "/wiki/entities/jennifercoffee/"
   - key: "JieqiaoBattleLateHan"
     title: "界桥之战 / Jieqiao Battle (late Han)"
     url: "/wiki/entities/jieqiaobattlelatehan/"

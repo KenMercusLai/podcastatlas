@@ -10779,6 +10779,10 @@
     "title": "Baby's Only",
     "url": "/wiki/entities/babysonly/"
   },
+  "BachaCafe": {
+    "title": "Bacha Coffee",
+    "url": "/wiki/entities/bachacafe/"
+  },
   "BackwaterBattle": {
     "title": "背水一战 / Backwater Battle",
     "url": "/wiki/concepts/backwaterbattle/"
@@ -18934,6 +18938,10 @@
   "CoffeeCommodityPolitics": {
     "title": "Coffee Commodity Politics",
     "url": "/wiki/concepts/coffeecommoditypolitics/"
+  },
+  "CoffeeConsumerJudgment": {
+    "title": "Coffee Consumer Judgment / 咖啡消费判断",
+    "url": "/wiki/concepts/coffeeconsumerjudgment/"
   },
   "CoffeeDateAffordance": {
     "title": "Coffee Date Affordance / 咖啡馆约会可退可进性",
@@ -37531,6 +37539,10 @@
     "title": "Hexiehao / 和谐号",
     "url": "/wiki/entities/hexiehao/"
   },
+  "HeyCoffee": {
+    "title": "Hey Coffee",
+    "url": "/wiki/entities/heycoffee/"
+  },
   "HeyTea": {
     "title": "HeyTea / 喜茶",
     "url": "/wiki/entities/heytea/"
@@ -42810,6 +42822,10 @@
   "JennieJerome": {
     "title": "Jennie Jerome",
     "url": "/wiki/entities/jenniejerome/"
+  },
+  "JenniferCoffee": {
+    "title": "珍妮花 / Jennifer",
+    "url": "/wiki/entities/jennifercoffee/"
   },
   "JenniferJenkins": {
     "title": "Jennifer Jenkins",
@@ -94302,6 +94318,10 @@
   "kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn": {
     "title": "咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调",
     "url": "/wiki/sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn/"
+  },
+  "kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr": {
+    "title": "咖啡小课堂：口粮豆怎么买最划算？一份给普通人的咖啡避坑指南",
+    "url": "/wiki/sources/kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr/"
   },
   "kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222": {
     "title": "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？",

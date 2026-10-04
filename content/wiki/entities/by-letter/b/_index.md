@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12291
+wiki_total_pages: 12294
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "Babylon"
     title: "Babylon"
     url: "/wiki/entities/babylon/"
+  - key: "BachaCafe"
+    title: "Bacha Coffee"
+    url: "/wiki/entities/bachacafe/"
   - key: "BadThoughts"
     title: "Bad Thoughts"
     url: "/wiki/entities/badthoughts/"

@@ -19898,6 +19898,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/babylonianexileidentityformation/"
     },
+    "BachaCafe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOdf2uARzatATUFfJR [GKwRIJIOdf2uARzatATUFfJR].md",
+          "key": "kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr",
+          "show": "大小电波",
+          "title": "咖啡小课堂：口粮豆怎么买最划算？一份给普通人的咖啡避坑指南",
+          "url": "/wiki/sources/kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/bachacafe/"
+    },
     "BadThoughts": {
       "episode_count": 1,
       "show_count": 1,
@@ -41478,6 +41494,94 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/coercivewesternization/"
     },
+    "Coffee": {
+      "episode_count": 9,
+      "show_count": 6,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "Trailer ｜叮！下周一早晨，来杯「声动早咖啡」吧！ [431629439].md",
+          "key": "trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439",
+          "show": "声动早咖啡",
+          "title": "Trailer ｜叮！下周一早晨，来杯「声动早咖啡」吧！",
+          "url": "/wiki/sources/trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439/"
+        },
+        {
+          "episode_file": "74.全球上瘾：啊，咖啡！我黑色的阿波罗！ [678615763].md",
+          "key": "74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763",
+          "show": "蜜獾吃书",
+          "title": "74.全球上瘾：啊，咖啡！我黑色的阿波罗！",
+          "url": "/wiki/sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763/"
+        },
+        {
+          "episode_file": "141. ☕️咖啡战争2026：机构化与本土化 ｜ 疯投圈 (1) [141-1].md",
+          "key": "141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1",
+          "show": "疯投圈",
+          "title": "141. 咖啡战争2026：机构化与本土化",
+          "url": "/wiki/sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1/"
+        },
+        {
+          "episode_file": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费 ｜ 疯投圈 (1) [137-1].md",
+          "key": "137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1",
+          "show": "疯投圈",
+          "title": "137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费",
+          "url": "/wiki/sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1/"
+        },
+        {
+          "episode_file": "EP35 降薪不降质？中产阶级最后的倔强 [lkYiK124V1nNB-4dGLyoRF7_Oc43].md",
+          "key": "ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43",
+          "show": "一劳永逸",
+          "title": "EP35 降薪不降质？中产阶级最后的倔强",
+          "url": "/wiki/sources/ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43/"
+        },
+        {
+          "episode_file": "Advice Line with Christina Tosi of Milk Bar  [fd7f2406-fda8-4c1d-936c-d20210215f96].md",
+          "key": "advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Christina Tosi of Milk Bar",
+          "url": "/wiki/sources/advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96/"
+        },
+        {
+          "episode_file": "Advice Line with Susan Griffin-Black of EO Products [58096820-613c-40ad-9743-f1d642447c91].md",
+          "key": "advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Susan Griffin-Black of EO Products",
+          "url": "/wiki/sources/advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91/"
+        },
+        {
+          "episode_file": "三联串台｜神赐给人葡萄，世界微醺了 [585125156].md",
+          "key": "sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156",
+          "show": "蜜獾吃书",
+          "title": "三联串台｜神赐给人葡萄，世界微醺了",
+          "url": "/wiki/sources/sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156/"
+        },
+        {
+          "episode_file": "GKwRIJIOdf2uARzatATUFfJR [GKwRIJIOdf2uARzatATUFfJR].md",
+          "key": "kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr",
+          "show": "大小电波",
+          "title": "咖啡小课堂：口粮豆怎么买最划算？一份给普通人的咖啡避坑指南",
+          "url": "/wiki/sources/kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/coffee/"
+    },
+    "CoffeeConsumerJudgment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOdf2uARzatATUFfJR [GKwRIJIOdf2uARzatATUFfJR].md",
+          "key": "kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr",
+          "show": "大小电波",
+          "title": "咖啡小课堂：口粮豆怎么买最划算？一份给普通人的咖啡避坑指南",
+          "url": "/wiki/sources/kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/coffeeconsumerjudgment/"
+    },
     "CoffeeFarmerIncomeMechanics": {
       "episode_count": 1,
       "show_count": 1,
@@ -51747,9 +51851,9 @@
       "url": "/wiki/entities/davidyeager/"
     },
     "DaxiaoDianbo": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
@@ -51771,9 +51875,16 @@
           "show": "大小电波",
           "title": "咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调",
           "url": "/wiki/sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn/"
+        },
+        {
+          "episode_file": "GKwRIJIOdf2uARzatATUFfJR [GKwRIJIOdf2uARzatATUFfJR].md",
+          "key": "kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr",
+          "show": "大小电波",
+          "title": "咖啡小课堂：口粮豆怎么买最划算？一份给普通人的咖啡避坑指南",
+          "url": "/wiki/sources/kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/daxiaodianbo/"
     },
     "DayNightLightImmuneSupport": {
@@ -96770,6 +96881,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/hexifourcommanderieslatehan/"
     },
+    "HeyCoffee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOdf2uARzatATUFfJR [GKwRIJIOdf2uARzatATUFfJR].md",
+          "key": "kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr",
+          "show": "大小电波",
+          "title": "咖啡小课堂：口粮豆怎么买最划算？一份给普通人的咖啡避坑指南",
+          "url": "/wiki/sources/kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/heycoffee/"
+    },
     "Hi3D": {
       "episode_count": 1,
       "show_count": 1,
@@ -113101,6 +113228,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/jenniejerome/"
+    },
+    "JenniferCoffee": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOdf2uARzatATUFfJR [GKwRIJIOdf2uARzatATUFfJR].md",
+          "key": "kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr",
+          "show": "大小电波",
+          "title": "咖啡小课堂：口粮豆怎么买最划算？一份给普通人的咖啡避坑指南",
+          "url": "/wiki/sources/kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/jennifercoffee/"
     },
     "JenniferKing": {
       "episode_count": 1,

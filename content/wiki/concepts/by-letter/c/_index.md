@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9634
+wiki_total_pages: 9635
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1388,6 +1388,9 @@ wiki_pages:
   - key: "CoffeeCommodityPolitics"
     title: "Coffee Commodity Politics"
     url: "/wiki/concepts/coffeecommoditypolitics/"
+  - key: "CoffeeConsumerJudgment"
+    title: "Coffee Consumer Judgment / 咖啡消费判断"
+    url: "/wiki/concepts/coffeeconsumerjudgment/"
   - key: "CoffeeDateAffordance"
     title: "Coffee Date Affordance / 咖啡馆约会可退可进性"
     url: "/wiki/concepts/coffeedateaffordance/"

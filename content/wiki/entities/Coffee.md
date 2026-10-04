@@ -2,28 +2,59 @@
 title: "Coffee / 咖啡"
 type: entity
 tags: [commodity, drink, coffee, global-history, retail]
-sources: [trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91, sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]
-last_updated: 2026-08-16
+sources:
+  - trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439
+  - 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763
+  - 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1
+  - 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1
+  - ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43
+  - advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96
+  - advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91
+  - sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156
+  - kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr
+knowledge_schema: synthesis-v1
+last_updated: 2026-10-04
 ---
 
 # Coffee / 咖啡
 
-[[74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]] adds coffee as a world-historical commodity and public drink. The episode follows [[Coffee|coffee]] from origin legends and Arab/Ottoman controversy through European adoption, Paris coffeehouses, French monopoly attempts, industrial labor, military supply, speculation, and [[Brazil]]ian overproduction. Its main contribution is to connect the drink to [[CaffeinatedModernity]], [[CoffeehousePublicSphere]], [[CoffeeCommodityPolitics]], and [[MaterialHistoryNarrative]].
+## Overview
+Coffee is a roasted agricultural product, drink, commodity, retail category, sensory practice, and cultural signal whose meaning changes across trade, public life, work routines, consumer brands, and home preparation.
 
-The existing wiki already tracked coffee as a modern consumer category. [[141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]] frames China's chain-coffee market through [[LuckinCoffee]], [[BlueBottleCoffee]], [[Starbucks]], [[CoffeeChainInstitutionalization]], [[CoffeeChainLocalization]], [[PremiumEverydayBrandTension]], and [[BeverageCategoryConvergence]]. [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] adds coffee shops to Korean and offline experience consumption through [[SouthKorea]], [[MannerCoffee]], [[Sandunban]], and [[AIResistantExperientialConsumption]].
+## Current Profile
+The wiki's evidence moves across several scales. Historically, coffee links wakefulness and public conversation to state control, trade, industrial work, speculation, and producer pressure. In contemporary China and Korea, it appears as a chain category shaped by institutional ownership, localization, price ladders, experiential retail, and beverage competition. In small consumer businesses it can be a product, ritual, gift, or origin story. The newest source adds a household decision layer: roasted coffee is perishable, so freshness, packaging, traceability, purchase volume, cafe operations, maintenance, and user habits can matter more than luxury signals alone.
 
-Other sources treat coffee as habit, channel, or product use case. [[ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43]] uses coffee spending to discuss [[LifestyleCostRationalization]] and [[MiddleClassConsumptionPressure]]. [[advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96]] uses [[VashonIslandCoffeeDust]] to show gift-to-repeat-buyer behavior. [[advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91]] uses [[CaneDogCoffee]] to discuss local proof and relationship-led channel growth.
+## Key Characteristics
+- Functions as an agricultural commodity whose production, trade, processing, and price expose growers and firms to unequal risks.
+- Supports social and work routines through wakefulness, public gathering, morning media, and repeated everyday consumption.
+- Operates as both a scalable chain category and an experience product shaped by localization, store design, convenience, and status.
+- Rewards sensory learning while remaining vulnerable to origin prestige, labels, storytelling, and other judgment biases.
+- Behaves as a perishable roasted ingredient whose freshness, grind timing, packaging, and consumption rate affect practical value.
+- Extends into consumer products and rituals where gifting, origin identity, channel trust, and ease of repeat use matter.
 
-[[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] adds coffee as a sensory comparison point beside [[Wine|wine / 葡萄酒]] and tea. The episode is not mainly about the coffee market; it uses specialty coffee, Japanese hand-brew influence, acidity, roast preference, and personally odd flavor descriptions to support [[TasteTraining]] and [[FlavorAsSelfKnowledge]].
+## Evidence
+- Commodity, history, and public life: [[74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]] traces coffee through Arab and Ottoman controversy, European coffeehouses, French monopoly politics, industrial and military use, speculation, and Brazilian overproduction.
+- Modern chains and experience: [[141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]] describes institutional ownership, localization, premium-versus-everyday tension, and tea-chain competition in China; [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] adds Korean cafe competition and offline experience.
+- Price and household adjustment: [[ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43]] uses coffee's wide price ladder to show lifestyle-cost rationalization without treating lower spend as automatic loss of dignity.
+- Consumer products and channels: [[advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96]] uses [[VashonIslandCoffeeDust]] to connect gifting to repeat ritual; [[advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91]] uses [[CaneDogCoffee]] to connect Barbados identity, hospitality channels, and focused international testing.
+- Sensory comparison: [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] places coffee beside wine, tea, perfume, and food as a trainable but personal sensory system.
+- Media metaphor: [[trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439]] turns coffee's freshness, concentration, and wakefulness into the positioning for a short workday-morning audio show.
+- Freshness and consumer judgment: [[kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr]] treats roasted coffee as a perishable ingredient and organizes buying around roast date, exposure, traceability, realistic volume, store clues, and equipment fit.
 
-[[trailer-ding-xiazhouyi-zaochen-lai-bei-shengdong-zaokafei-ba-431629439]] adds coffee as a media-positioning metaphor. [[ShengdongZaokafei|声动早咖啡]] uses the espresso image to make a short business-and-technology news show feel fresh, concentrated, energizing, and suited to a [[MorningAudioRitual]].
+## Qualifications
+These sources span history, oral commentary, founder advice, travel observation, consumer guidance, and sensory reflection; they do not form one controlled market or product study. Price thresholds, freshness windows, cafe-quality clues, country comparisons, historical causal claims, and brand judgments remain source-scoped. Coffee quality cannot be inferred from price, label detail, equipment class, origin, or freshness alone, even when those signals improve decision-making.
 
-## Connections
-- [[QuanqiuShangyin|《全球上瘾》]] - historical book that makes coffee the protagonist of a material history.
-- [[CaffeinatedModernity]] - wakefulness, anti-alcohol contrast, work discipline, and rational-public symbolism.
-- [[CoffeehousePublicSphere]] - coffeehouses as public conversation and surveillance spaces.
-- [[CoffeeCommodityPolitics]] and [[CommodityPriceExposure]] - trade, monopoly, speculation, and producer-price problems.
-- [[CoffeeChainInstitutionalization]], [[CoffeeChainLocalization]], [[PremiumEverydayBrandTension]], and [[BeverageCategoryConvergence]] - modern chain-coffee market concepts.
-- [[VashonIslandCoffeeDust]], [[CaneDogCoffee]], [[Starbucks]], [[LuckinCoffee]], [[BlueBottleCoffee]], [[MannerCoffee]], and [[Sandunban]] - coffee-related entities already tracked by the wiki.
-- [[Wine|Wine / 葡萄酒]], [[TasteTraining]], and [[FlavorAsSelfKnowledge]] - sensory-comparison branch added by the wine crossover episode.
-- [[ShengdongZaokafei|声动早咖啡]] and [[MorningAudioRitual]] - coffee as a wakefulness and audio-habit metaphor.
+## What Changed
+- Added roasted-coffee perishability and grind timing to the entity's consumer profile.
+- Added a practical evidence hierarchy for bean, cafe, and equipment purchases.
+- Qualified luxury branding, price, packaging, and historical narrative as signals rather than proof of quality.
+- Migrated the page from source-led chronology to the synthesis-first entity schema.
+
+## Relationships
+- [[CoffeeCommodityPolitics]] - captures coffee's trade, monopoly, speculation, and producer-protection layer.
+- [[CoffeehousePublicSphere]] - describes coffeehouses as spaces of conversation, criticism, and surveillance.
+- [[CaffeinatedModernity]] - connects coffee to wakefulness, work discipline, and anti-alcohol symbolism.
+- [[CoffeeChainInstitutionalization]] - explains contemporary ownership and operating consolidation in chains.
+- [[CoffeeChainLocalization]] - explains local supplier, product, price, and operating adaptation.
+- [[TasteTraining]] - describes the repeated comparison through which sensory judgment develops.
+- [[CoffeeConsumerJudgment]] - applies freshness, evidence, and behavioral fit to everyday purchases.

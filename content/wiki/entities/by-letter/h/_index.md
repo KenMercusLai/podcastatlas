@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12291
+wiki_total_pages: 12294
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "Hexiehao"
     title: "Hexiehao / 和谐号"
     url: "/wiki/entities/hexiehao/"
+  - key: "HeyCoffee"
+    title: "Hey Coffee"
+    url: "/wiki/entities/heycoffee/"
   - key: "HeyTea"
     title: "HeyTea / 喜茶"
     url: "/wiki/entities/heytea/"

@@ -29321,3 +29321,11 @@ Added source `vol-274-chengwei-saluomeng-1013268300`; created [[GeorgeSalomon]],
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 咖啡小课堂：口粮豆怎么买最划算？一份给普通人的咖啡避坑指南
+
+Added source `kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr`; created [[JenniferCoffee]], [[HeyCoffee]], [[BachaCafe]], and [[CoffeeConsumerJudgment]]; and resynthesized [[Coffee]] and [[DaxiaoDianbo]] from their complete preserved evidence inventories. Core synthesis: coffee purchasing is an evidence-and-fit problem—freshness, grind timing, traceability, realistic consumption, store operations, maintenance, serviceability, and actual user behavior are more decision-useful than luxury signals alone. No settled contradiction was adopted. Brand history and store observations, freshness windows, price bands, cafe clues, and equipment thresholds remain speaker-reported heuristics rather than universal standards. The automatic `wiki/overview.md` did not require revision for this bounded consumer-guidance addition. Downstream synthesis and publish validation were then refreshed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
