@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9597
+wiki_total_pages: 9599
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "MegaCapConcentrationRisk"
     title: "Mega-Cap Concentration Risk"
     url: "/wiki/concepts/megacapconcentrationrisk/"
+  - key: "MegaprojectSuccessConditions"
+    title: "Megaproject Success Conditions / 超级工程成功条件"
+    url: "/wiki/concepts/megaprojectsuccessconditions/"
   - key: "MeijiCapitalismImperialEntanglement"
     title: "Meiji Capitalism–Imperial Entanglement"
     url: "/wiki/concepts/meijicapitalismimperialentanglement/"

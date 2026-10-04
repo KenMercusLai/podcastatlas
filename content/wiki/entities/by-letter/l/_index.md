@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12264
+wiki_total_pages: 12266
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1322,6 +1322,9 @@ wiki_pages:
   - key: "LiuKuaiXinRebel"
     title: "刘快 / Liu Kuai (Xin rebel)"
     url: "/wiki/entities/liukuaixinrebel/"
+  - key: "LiuYiSpaceHistory"
+    title: "刘怡 / Liu Yi (Space and Military History)"
+    url: "/wiki/entities/liuyispacehistory/"
   - key: "LiuHeng"
     title: "刘恒 / Emperor Wen of Han"
     url: "/wiki/entities/liuheng/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年](sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd.md) — 忽左忽右 discussion of Challenger as a coupled technical and organizational failure shaped by budget pressure, public promises, warning escalation, and go fever.
 - [1. Greatness](sources/1-greatness-glt2583338621.md) — The Rest Is History on greatness as a changing imperial, national, democratic, moral, and popular-cultural judgment rather than a neutral measure of merit.
 - [2. Civil War](sources/2-civil-war-glt5809911007.md) — The Rest Is History on civil-war escalation through dehumanization, political delegitimization, armed capacity, catalytic leaders, and institutional failure.
 - [3. Is Trump Caesar or Nixon?](sources/3-is-trump-caesar-or-nixon-glt4982990068.md) — The Rest Is History on Trump's refusal to concede, Nixon's exit, Washington and Cincinnatus, Roman political analogy, populist performance, and the limits of its late-2020 forecast.
@@ -4830,7 +4831,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wittenberg](entities/Wittenberg.md) — Saxon university and print center where faculty, students, artists, and reformers made Luther's cause collective and later exceeded his limits.
 - [Anthropic Biological Research Laboratory](entities/AnthropicBiologicalResearchLab.md) — Source-described BSL-1/BSL-2 facility testing model-generated protein and enzyme hypotheses through wet-lab validation.
 - [Tom Hanks](entities/TomHanks.md) — Actor, producer, and public-history enthusiast interpreting Apollo through childhood memory, research, and astronaut conversations.
-- [Apollo Program](entities/ApolloProgram.md) — NASA lunar program synthesized as staged learning, interdependent mission systems, scientific work, and cultural memory.
+- [Apollo Program](entities/ApolloProgram.md) — NASA lunar program synthesized through staged learning, interdependent mission systems, risk discipline, and unusually aligned political, financial, and objective conditions.
 - [Apollo 11](entities/Apollo11.md) — First crewed lunar landing, framed through contingency planning, difficult descent, crew-role asymmetry, and return-chain risk.
 - [Neil Armstrong](entities/NeilArmstrong.md) — Apollo 11 commander represented through landing judgment, first-step symbolism, and mission interdependence.
 - [Buzz Aldrin](entities/BuzzAldrin.md) — Apollo 11 lunar module pilot connecting technical work, personal ritual, and astronaut competition.
@@ -5385,7 +5386,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘禅 / Liu Chan](entities/LiuChan.md) — 长坂坡溃败中由赵云救回的刘备幼子。
 - [凌统 / Ling Tong](entities/LingTong.md) — 东吴将领，先参与突破沔口水障，后在甘宁血仇未解时仍承担掩护救援的留守任务。
 - [卢龙道 / Lulong Road (Late Han)](entities/LulongRoadLateHan.md) — Long-disused northern approach reopened for Cao Cao's concealed movement behind the Wuhuan front.
-- [Richard Feynman](entities/RichardFeynman.md) — Challenger investigator used by Bill Gurley as the model of independent, evidence-driven root-cause inquiry.
+- [Richard Feynman](entities/RichardFeynman.md) — Challenger investigator representing independent inquiry, publicly legible evidence, and the priority of technical reality over public relations.
 - [Kiyoshi Kurokawa](entities/KiyoshiKurokawa.md) — Fukushima commission leader used as a model for conflict-free membership, public-safety focus, authority, and transparent findings.
 - [DRASTIC](entities/DRASTIC.md) — Decentralized COVID-origin research collective praised in the source for scientific sharing and surfacing the DEFUSE proposal.
 - [Nick Shirley](entities/NickShirley.md) — Independent creator presented by All-In as an audience-funded investigator using tips, field reporting, confrontation, and platform distribution to expose alleged fraud and public waste.
@@ -6379,7 +6380,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kai Tak Airport / 启德机场](entities/KaiTakAirport.md) — Former Hong Kong airport used to explain capacity, approach constraints, and airport migration.
 - [International Air Transport Association / IATA](entities/InternationalAirTransportAssociation.md) — Aviation-industry organization cited for the air-cargo weight-versus-value contrast.
 - [Swire Group / 太古集团](entities/SwireGroup.md) — Hong Kong-linked corporate context for Zhang Jin's airline backstage and catering observations.
-- [成言梁 / Cheng Yanliang](entities/ChengYanliang.md) — 忽左忽右 host framing long-form cultural-history episodes through Shanghai architecture, Ceuta historical geography, and Shakespeare theatre history.
+- [成言梁 / Cheng Yanliang](entities/ChengYanliang.md) — 忽左忽右 host framing long-form history through architecture, borderlands, theatre, warfare, media, and engineering disaster.
 - [吴飞鹏 / Wu Feipeng](entities/WuFeipeng.md) — Architectural culture researcher reconstructing Lai An's Shanghai corpus through archives, newspapers, family lists, and field investigation.
 - [赉安 / 赖安 / Lai An (architect)](entities/LaiAnArchitect.md) — French architect presented as a major shaper of the former Shanghai French Concession and Hengfu architectural landscape.
 - [乌达克 / Hudec (Shanghai architect)](entities/HudecShanghaiArchitect.md) — Better-known Shanghai architect used as the comparison point for Lai An's underrecognized role.
@@ -10846,7 +10847,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhejiang / 浙江](entities/Zhejiang.md) — Coastal province used by episode 150 to contrast early private-economy formation with later inland catch-up.
 - [杨一 / Yang Yi](entities/YangYi.md) — Early Chinese podcast practitioner and 忽左忽右 speaker explaining market education, brand-podcast services, and the Chinese-vs-U.S. podcast path.
 - [欧阳斌 / Ouyang Bin](entities/OuyangBin.md) — 去现场 and 725沙龙-side speaker framing the episode from listener, media-observer, and cultural-dialogue perspectives.
-- [忽左忽右 / Huzuo Huyou](entities/HuzuoHuyou.md) — Chinese podcast show tracked through podcast ecosystem-building, Shanghai architecture, Ceuta historical geography, and Shakespeare theatre-history interviews.
+- [忽左忽右 / Huzuo Huyou](entities/HuzuoHuyou.md) — Chinese long-form podcast tracked through ecosystem-building and interviews on cultural, institutional, media, and engineering history.
 - [去现场 / Qu Xianchang](entities/QuXianchang.md) — Crossover context for 欧阳斌 in episode 149's podcast and media-ecosystem discussion.
 - [725沙龙 / 725 Salon](entities/725Salon.md) — New York Chinese cultural-dialogue project testing a purely online podcast format in episode 149.
 - [Ueno Chizuko / 上野千鹤子](entities/UenoChizuko.md) — Care-sociology author whose work anchors 琼琼's translation path and episode 147's care-socialization frame.
@@ -14989,7 +14990,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dragon Spacecraft](entities/DragonSpacecraft.md) — SpaceX spacecraft whose interior work illustrates human-facing hard-tech design and manufacturing constraints.
 - [xAI](entities/XAI.md) — Musk AI company discussed as a possible participant in physical AI and space-based AI infrastructure.
 - [Grok](entities/Grok.md) — xAI model/product discussed as a possible physical-world and Musk-ecosystem AI participant.
-- [NASA](entities/NASA.md) — U.S. space agency framed through public mission, commercial procurement, Artemis, satellite measurement, career pathways, and practical space AI.
+- [NASA](entities/NASA.md) — U.S. space agency framed through public mission, commercial procurement, science, workforce, exploration, and accountable high-consequence engineering.
 - [Mars](entities/Mars.md) — Planet that E239 frames as SpaceX's civilization-scale destination in contrast with the Moon's nearer-term industrial logic.
 - [谢晨](entities/XieChen.md) — Guanglun Intelligence founder and CEO framing AI data as education and robotics simulation as core embodied-AI infrastructure.
 - [光轮智能](entities/GuanglunIntelligence.md) — Robotics simulation and data-engine company building environments, evaluation, and recipe loops for embodied AI.
@@ -16024,6 +16025,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Geoffrey of Monmouth](entities/GeoffreyOfMonmouth.md) — Twelfth-century writer whose synthetic British history decisively shaped Arthur and Merlin's medieval profiles.
 - [Santa Claus](entities/SantaClaus.md) — Hybrid Christmas gift-giver shaped by Saint Nicholas, Dutch-American literature, English Father Christmas, and domestic festival culture.
 - [Lucas Museum of Narrative Art](entities/LucasMuseumOfNarrativeArt.md) — George Lucas and Mellody Hobson's Los Angeles museum testing popular-art legitimacy, visitor interpretation, and founder-led governance.
+- [刘怡 / Liu Yi (Space and Military History)](entities/LiuYiSpaceHistory.md) — 忽左忽右 guest connecting Challenger's technical failure to U.S. space-program history, budgets, politics, and organizational culture.
+- [Space Shuttle Challenger / 挑战者号](entities/SpaceShuttleChallenger.md) — NASA shuttle lost in 1986, synthesized as a coupled component, warning-escalation, and program-governance failure.
 
 ## Concepts
 - [Historical Greatness](concepts/HistoricalGreatness.md) — Culturally changing judgment that separates historical consequence, political effectiveness, public reverence, and moral approval.
@@ -25682,5 +25685,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Investor Self-Knowledge / 投资者自知](concepts/InvestorSelfKnowledge.md) — Match among market participation, motive, temperament, competence, capital, bodily response, tacit experience, and belief.
 - [Core-Satellite Portfolio / 核心—卫星配置](concepts/CoreSatellitePortfolio.md) — Portfolio structure separating durable core participation from bounded tactical or thematic positions.
 - [Quantitative FOF Allocation / 量化 FOF 配置](concepts/QuantitativeFOFAllocation.md) — Second-order allocation across quantitative strategies and managers by return source, capacity, and failure mode.
+- [Go Fever Organizational Risk / 硬干狂热](concepts/GoFeverOrganizationalRisk.md) — Escalation pattern in which investment, public commitment, schedule pressure, and momentum suppress a warranted stop decision.
+- [Megaproject Success Conditions / 超级工程成功条件](concepts/MegaprojectSuccessConditions.md) — Framework requiring sustained political commitment, adequate funding, and clear staged objectives without treating them as a safety guarantee.
 
 ## Syntheses

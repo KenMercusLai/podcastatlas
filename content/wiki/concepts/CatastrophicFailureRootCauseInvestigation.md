@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [investigation, public-safety, institutions, failure-analysis]
 sources:
   - all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628
-last_updated: 2026-09-19
+  - 502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd
+last_updated: 2026-10-04
 ---
 
 ## Definition
@@ -14,7 +15,7 @@ Catastrophic failure root-cause investigation is the practice of using independe
 
 ## Current Synthesis
 
-[[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's presentation]] draws one pattern across Surfside, the Boeing 737 Max, Katrina, Fukushima, and Challenger: physical mechanisms and institutional failures are often discovered together, while operators, regulators, or other implicated bodies may resist scrutiny. The episode applies that pattern to COVID origins but does not establish which origin hypothesis is correct.
+[[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's presentation]] draws one pattern across Surfside, the Boeing 737 Max, Katrina, Fukushima, and Challenger: physical mechanisms and institutional failures are often discovered together, while operators, regulators, or other implicated bodies may resist scrutiny. [[502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd|The Challenger episode]] supplies a deeper worked case in which cold-sensitive sealing, budget pressure, mixed goals, cadence claims, contractor communication, and launch authority form one causal chain. Gurley's COVID application still does not establish which origin hypothesis is correct.
 
 ## Key Claims
 
@@ -30,15 +31,17 @@ Catastrophic failure root-cause investigation is the practice of using independe
 - Technical plus institutional cause: [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's presentation]] pairs concrete mechanisms such as O-rings, levees, seawalls, generators, and MCAS with ignored warnings, regulatory capture, or organizational decisions.
 - Independent investigator models: [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's presentation]] uses [[RichardFeynman]] and [[KiyoshiKurokawa]] to show how credibility and independence can make technical findings actionable.
 - COVID application: [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's presentation]] argues that the pandemic's scale should have produced a major independent inquiry, while still declining to select an origin hypothesis.
+- Challenger decision chain: [[502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd]] connects O-ring behavior and ice concerns to program design, maintenance burden, prior anomalies, public commitments, and [[GoFeverOrganizationalRisk]].
 
 ## Counterevidence & Qualifications
 
-The comparison cases differ in evidence access, jurisdiction, technical complexity, international politics, and elapsed time. Gurley's presentation is advocacy and does not provide a balanced review of all origin evidence or responses from criticized institutions. A missing consensus is not itself evidence for one hypothesis.
+The comparison cases differ in evidence access, jurisdiction, technical complexity, international politics, and elapsed time. Gurley's presentation is advocacy and does not provide a balanced review of all origin evidence or responses from criticized institutions. The Challenger episode is also a secondary structured summary rather than a primary record. A missing consensus is not itself evidence for one hypothesis, and an organizational label does not replace reconstruction of the actual decision chain.
 
 ## What Changed
 
 - Created the cross-disaster investigation framework.
 - Preserved the distinction between demanding inquiry and proving a laboratory origin.
+- Added Challenger as a worked example of physical mechanism, warning escalation, and program incentives operating together.
 
 ## Related Concepts
 
@@ -48,3 +51,5 @@ The comparison cases differ in evidence access, jurisdiction, technical complexi
 - [[ScientificSelfCorrection]] - broader norm of revising claims when evidence changes.
 - [[PublicServiceJournalism]] - journalism as one independent accountability channel.
 - [[MandatoryAIIncidentInvestigation]] - adjacent domain-specific requirement for investigating high-consequence AI incidents.
+- [[SpaceShuttleChallenger]] - worked accident case joining component and institutional causes.
+- [[GoFeverOrganizationalRisk]] - escalation pattern that root-cause inquiry must test rather than assume.

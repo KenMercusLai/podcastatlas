@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12264
+wiki_total_pages: 12266
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "Soylent"
     title: "Soylent"
     url: "/wiki/entities/soylent/"
+  - key: "SpaceShuttleChallenger"
+    title: "Space Shuttle Challenger / 挑战者号"
+    url: "/wiki/entities/spaceshuttlechallenger/"
   - key: "SpaceX"
     title: "SpaceX"
     url: "/wiki/entities/spacex/"

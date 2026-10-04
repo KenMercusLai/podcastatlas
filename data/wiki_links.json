@@ -2995,6 +2995,10 @@
     "title": "502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)",
     "url": "/wiki/sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222/"
   },
+  "502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd": {
+    "title": "502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年",
+    "url": "/wiki/sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd/"
+  },
   "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194": {
     "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
     "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
@@ -33959,6 +33963,10 @@
     "title": "GoCyber Academy",
     "url": "/wiki/entities/gocyberacademy/"
   },
+  "GoFeverOrganizationalRisk": {
+    "title": "Go Fever Organizational Risk / 硬干狂热",
+    "url": "/wiki/concepts/gofeverorganizationalrisk/"
+  },
   "GoFundMe": {
     "title": "GoFundMe",
     "url": "/wiki/entities/gofundme/"
@@ -49035,6 +49043,10 @@
     "title": "刘仪 / Liu Yi",
     "url": "/wiki/entities/liuyisanlian/"
   },
+  "LiuYiSpaceHistory": {
+    "title": "刘怡 / Liu Yi (Space and Military History)",
+    "url": "/wiki/entities/liuyispacehistory/"
+  },
   "LiuYinFuchongDuke": {
     "title": "刘音 / Liu Yin (Fuchong Duke)",
     "url": "/wiki/entities/liuyinfuchongduke/"
@@ -53018,6 +53030,10 @@
   "MeganMcCartyCorino": {
     "title": "Megan McCarty-Corino",
     "url": "/wiki/entities/meganmccartycorino/"
+  },
+  "MegaprojectSuccessConditions": {
+    "title": "Megaproject Success Conditions / 超级工程成功条件",
+    "url": "/wiki/concepts/megaprojectsuccessconditions/"
   },
   "MeghanMarkle": {
     "title": "Meghan Markle",
@@ -73958,6 +73974,10 @@
   "SpaceResourceExtraction": {
     "title": "Space Resource Extraction",
     "url": "/wiki/concepts/spaceresourceextraction/"
+  },
+  "SpaceShuttleChallenger": {
+    "title": "Space Shuttle Challenger / 挑战者号",
+    "url": "/wiki/entities/spaceshuttlechallenger/"
   },
   "SpaceX": {
     "title": "SpaceX",

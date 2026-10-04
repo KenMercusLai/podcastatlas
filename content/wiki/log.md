@@ -29219,3 +29219,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-s
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年
+
+Added source `502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd`; created [[LiuYiSpaceHistory]], [[SpaceShuttleChallenger]], [[GoFeverOrganizationalRisk]], and [[MegaprojectSuccessConditions]]; and resynthesized [[NASA]], [[RichardFeynman]], [[ApolloProgram]], [[CatastrophicFailureRootCauseInvestigation]], [[ChengYanliang]], and [[HuzuoHuyou]] from their complete preserved evidence inventories. Core synthesis: Challenger's low-temperature sealing failure was inseparable from mixed mission goals, constrained funding, complex reuse, unrealistic cadence and cost promises, ineffective warning escalation, and public-relations pressure; accumulated investment and commitment made stopping feel like failure without changing the physical risk. No settled contradiction was adopted. Apollo offers a useful contrast in political commitment, resources, objective clarity, staged learning, and contingency, but not a universal success formula. Costs, temperatures, maintenance intervals, contractor exchanges, publicity causation, crew-survival details, and technical chronology remain episode-attributed pending primary-record corroboration. The automatic `wiki/overview.md` was updated during normal ingest, then only read by downstream synthesis refresh. The manifest and paragraph ledger were refreshed to 3,652-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2548
+topic_total_pages: 2549
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3023,6 +3023,9 @@ topic_entities:
   - key: "LiuKuaiXinRebel"
     title: "刘快 / Liu Kuai (Xin rebel)"
     url: "/wiki/entities/liukuaixinrebel/"
+  - key: "LiuYiSpaceHistory"
+    title: "刘怡 / Liu Yi (Space and Military History)"
+    url: "/wiki/entities/liuyispacehistory/"
   - key: "LiuXinWesternHan"
     title: "刘歆 / Liu Xin (Western Han)"
     url: "/wiki/entities/liuxinwesternhan/"

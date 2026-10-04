@@ -15173,9 +15173,9 @@
       "url": "/wiki/concepts/apollomissionriskdiscipline/"
     },
     "ApolloProgram": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1422432857 [GLT1422432857].md",
@@ -15183,9 +15183,16 @@
           "show": "The Rest Is History",
           "title": "438. The Moonwalkers, with Tom Hanks",
           "url": "/wiki/sources/438-the-moonwalkers-with-tom-hanks-glt1422432857/"
+        },
+        {
+          "episode_file": "loYLfMnXYc-CUaJGCN12-V7--ybD [loYLfMnXYc-CUaJGCN12-V7--ybD].md",
+          "key": "502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd",
+          "show": "忽左忽右",
+          "title": "502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年",
+          "url": "/wiki/sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/apolloprogram/"
     },
     "AppLovin": {
@@ -32452,9 +32459,9 @@
       "url": "/wiki/concepts/castrationcoercionandmobility/"
     },
     "CatastrophicFailureRootCauseInvestigation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
@@ -32462,9 +32469,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Bill Gurley: Searching for Feynman",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
+        },
+        {
+          "episode_file": "loYLfMnXYc-CUaJGCN12-V7--ybD [loYLfMnXYc-CUaJGCN12-V7--ybD].md",
+          "key": "502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd",
+          "show": "忽左忽右",
+          "title": "502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年",
+          "url": "/wiki/sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/catastrophicfailurerootcauseinvestigation/"
     },
     "Cathars": {
@@ -35643,9 +35657,9 @@
       "url": "/wiki/entities/chengpulatehan/"
     },
     "ChengYanliang": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "lskF8BdKhS71LbWJOmt3gU1kO8BE [lskF8BdKhS71LbWJOmt3gU1kO8BE].md",
@@ -35681,9 +35695,16 @@
           "show": "忽左忽右",
           "title": "504 林行止、《信报》与香港经济黄金年代",
           "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+        },
+        {
+          "episode_file": "loYLfMnXYc-CUaJGCN12-V7--ybD [loYLfMnXYc-CUaJGCN12-V7--ybD].md",
+          "key": "502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd",
+          "show": "忽左忽右",
+          "title": "502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年",
+          "url": "/wiki/sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/chengyanliang/"
     },
     "ChengYishiLateHan": {
@@ -85838,6 +85859,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/gnaeuspompeiusstrabo/"
     },
+    "GoFeverOrganizationalRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loYLfMnXYc-CUaJGCN12-V7--ybD [loYLfMnXYc-CUaJGCN12-V7--ybD].md",
+          "key": "502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd",
+          "show": "忽左忽右",
+          "title": "502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年",
+          "url": "/wiki/sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/gofeverorganizationalrisk/"
+    },
     "GoPro": {
       "episode_count": 2,
       "show_count": 2,
@@ -102637,9 +102674,9 @@
       "url": "/wiki/entities/huyangprincesseasternhan/"
     },
     "HuzuoHuyou": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来 [liHbq8vuJSQXvB7h2_pZ2xM-eQGA].md",
@@ -102696,9 +102733,16 @@
           "show": "忽左忽右",
           "title": "504 林行止、《信报》与香港经济黄金年代",
           "url": "/wiki/sources/504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih/"
+        },
+        {
+          "episode_file": "loYLfMnXYc-CUaJGCN12-V7--ybD [loYLfMnXYc-CUaJGCN12-V7--ybD].md",
+          "key": "502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd",
+          "show": "忽左忽右",
+          "title": "502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年",
+          "url": "/wiki/sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/huzuohuyou/"
     },
     "HwangJini": {
@@ -128629,6 +128673,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/liuyipingyuanwanglatehan/"
     },
+    "LiuYiSpaceHistory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loYLfMnXYc-CUaJGCN12-V7--ybD [loYLfMnXYc-CUaJGCN12-V7--ybD].md",
+          "key": "502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd",
+          "show": "忽左忽右",
+          "title": "502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年",
+          "url": "/wiki/sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/liuyispacehistory/"
+    },
     "LiuYinFuchongDuke": {
       "episode_count": 1,
       "show_count": 1,
@@ -139815,6 +139875,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/meghirschberg/"
     },
+    "MegaprojectSuccessConditions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loYLfMnXYc-CUaJGCN12-V7--ybD [loYLfMnXYc-CUaJGCN12-V7--ybD].md",
+          "key": "502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd",
+          "show": "忽左忽右",
+          "title": "502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年",
+          "url": "/wiki/sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/megaprojectsuccessconditions/"
+    },
     "MeghanMarkle": {
       "episode_count": 1,
       "show_count": 1,
@@ -147493,9 +147569,9 @@
       "url": "/wiki/concepts/nadtherapyevidenceboundary/"
     },
     "NASA": {
-      "episode_count": 11,
-      "show_count": 9,
-      "source_note_count": 11,
+      "episode_count": 12,
+      "show_count": 10,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "761BEEA78D77239641201EADE216A504~8584442_2026-08-10-210742-8787-0-0-1.128 [761BEEA78D77239641201EADE216A504~8584442_2026-08-10-210742-8787-0-0-1.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83834b].md",
@@ -147573,9 +147649,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838/"
+        },
+        {
+          "episode_file": "loYLfMnXYc-CUaJGCN12-V7--ybD [loYLfMnXYc-CUaJGCN12-V7--ybD].md",
+          "key": "502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd",
+          "show": "忽左忽右",
+          "title": "502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年",
+          "url": "/wiki/sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/nasa/"
     },
     "NASAMissionConcentration": {
@@ -178698,9 +178781,9 @@
       "url": "/wiki/entities/richardcromwell/"
     },
     "RichardFeynman": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
@@ -178715,9 +178798,16 @@
           "show": "Huberman Lab",
           "title": "The Science & Process of Healing from Grief",
           "url": "/wiki/sources/the-science-process-of-healing-from-grief-scim7724129089/"
+        },
+        {
+          "episode_file": "loYLfMnXYc-CUaJGCN12-V7--ybD [loYLfMnXYc-CUaJGCN12-V7--ybD].md",
+          "key": "502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd",
+          "show": "忽左忽右",
+          "title": "502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年",
+          "url": "/wiki/sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/richardfeynman/"
     },
     "RichardIII": {
@@ -194884,6 +194974,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
+    },
+    "SpaceShuttleChallenger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loYLfMnXYc-CUaJGCN12-V7--ybD [loYLfMnXYc-CUaJGCN12-V7--ybD].md",
+          "key": "502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd",
+          "show": "忽左忽右",
+          "title": "502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年",
+          "url": "/wiki/sources/502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/spaceshuttlechallenger/"
     },
     "Spain": {
       "episode_count": 12,
