@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》393-2｜燕王刘旦谋反失败，对混职场有啥启示？](sources/zizhi-tongjian-hanji-393-2-yanwang-liudan-moufan-shibai-dui-hunzhichang-yousha-qishi-lqwzkgdj9ozmwb7r97l4ts2tjx_s.md) — 刘旦早期谋反通过伪诏、昭帝身世攻击、备兵与杀谏推进，却因刘成告密被隽不疑提前截断，刘旦获赦而刘泽等人被诛。
 - [OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out](sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595.md) — All-In on OpenAI-Anthropic strategy, compute dependence, data-center legitimacy, enterprise AI ROI, housing taxes, market risk, and source-scoped political claims.
 - [《资治通鉴·汉纪》508丨大汉名将陈汤，手把手教你运筹帷幄](sources/zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu.md) — 陈汤以战力、攻守比例、行军时间、西域局势和经验判断段会宗之围无需仓促发兵，并准确预报五日内解围消息。
 - [《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？](sources/zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng.md) — 杜钦以罽宾战略价值低、使团商贸动机强和护送路线风险高为由，促成只送至皮山的有限承诺。
@@ -5619,7 +5620,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐仁 / Xu Ren (Western Han)](entities/XuRenWesternHan.md) — Shaofu and Tian Qianqiu's son-in-law whose Hou Shiwu judgment leads to imprisonment and suicide.
 - [刘碧江 / Liu Bijiang (Western Han)](entities/LiuBijiangWesternHan.md) — Western Han royal-kin appointee used by Huo Guang to signal inclusive regency benefit sharing.
 - [刘长乐 / Liu Changle (Western Han)](entities/LiuChangleWesternHan.md) — Western Han royal-kin appointee whose Guanglu Dafu office helps show Huo Guang's early royal-clan inclusion.
-- [燕王刘旦 / Liu Dan, Yan King (Western Han)](entities/LiuDanYanKingWesternHan.md) — royal claimant whose late-Wudi succession ambition, Han Zhao legitimacy attack, anti-Huo coalition role, and suicide frame his rebellion arc.
+- [燕王刘旦 / Liu Dan, Yan King (Western Han)](entities/LiuDanYanKingWesternHan.md) — royal claimant whose succession grievance, first exposed rebellion, later anti-Huo coalition role, and suicide form a repeated-rebellion arc.
+- [刘泽 / Liu Ze, Qi Royal Descendant (Western Han)](entities/LiuZeQiRoyalWesternHan.md) — Qi royal descendant whose intended Linzi rising and attack on Jun Buyi are exposed and stopped before action.
 - [马王爷 / Ma Wangye](entities/MaWangye.md) — three-eyed horse deity figure used by Hanji 390-2 to explain folklore around Jin Midi's palace vigilance.
 - [汉昭帝刘弗陵 / Emperor Zhao of Han](entities/EmperorZhaoOfHan.md) — Young Western Han emperor whose accession follows Lady Gouyi's death and whose childless death creates the succession vacuum managed by Huo Guang.
 - [崔嘉宾 / Cui Jiabin](entities/CuiJiabin.md) — Psychiatrist guest in VOL.202 explaining attachment, shame, indirect communication, dissociation-like split expression, and self-translation in intimacy.
@@ -18597,7 +18599,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Serious Mental Illness Family Care Boundary / 重性精神障碍家属照护边界](concepts/SeriousMentalIllnessFamilyCareBoundary.md) — Family-care boundary separating treatment support and safety from guilt-driven unlimited sacrifice.
 - [Mental Illness Destigmatization / 精神疾病去污名化](concepts/MentalIllnessDestigmatization.md) — Anti-shame frame for treating psychiatric disorders as illnesses while preserving risk, treatment, privacy, and diagnostic boundaries.
 - [Somatization As Body Alarm / 躯体化作为身体报警](concepts/SomatizationAsBodyAlarm.md) — Body-emotion frame for distress appearing as physical symptoms while still requiring medical exclusion and clinical judgment.
-- [Desire-Capacity Fit / 欲望与能力匹配](concepts/DesireCapacityFit.md) — Life-regulation principle that steadiness can require recalibrating desires to actual ability, temperament, family conditions, role, and pressure.
+- [Desire-Capacity Fit / 欲望与能力匹配](concepts/DesireCapacityFit.md) — Principle that sustainable desire must fit ability, role, pressure, leverage, feedback, and the capacity to stop.
 - [Adolescent School-Refusal Mental Health / 青少年厌学休学心理困境](concepts/AdolescentSchoolRefusalMentalHealth.md) — Youth mental-health frame for school refusal as a family, education, symptom, development, and care-system problem.
 - [China Psychiatric Workforce Gap / 中国精神卫生人才缺口](concepts/ChinaPsychiatricWorkforceGap.md) — Workforce-capacity gap between large mental-health demand and limited psychiatrists, therapists, and community support.
 - [Psychiatry-Psychotherapy Collaboration / 精神科与心理治疗协作](concepts/PsychiatryPsychotherapyCollaboration.md) — Care-role boundary and referral relationship among psychiatry, psychotherapy, counseling, family treatment, and ordinary support.
@@ -19731,7 +19733,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Expert Data Export Controls](concepts/ExpertDataExportControls.md) — Narrow export-control question around U.S. expert/RL training data sold to foreign AI labs, distinct from broad commodity labeling.
 - [Product-Led Growth](concepts/ProductLedGrowth.md) — Software growth motion where product adoption, usage, and collaboration loops carry more of the go-to-market load than heavy sales.
 - [Imperial Deposition Coup Risk / 废立政变风险](concepts/ImperialDepositionCoupRisk.md) — Hanji 941 pattern where an anti-eunuch plot becomes far riskier once it also aims to seize and replace the emperor.
-- [Lethal Plan Leakage Risk / 致命计划泄露风险](concepts/LethalPlanLeakageRisk.md) — Political risk where a high-stakes purge or crisis plan becomes dangerous once memorial, household, palace, talk, delay, or mobilization channels let targets prepare first.
+- [Lethal Plan Leakage Risk / 致命计划泄露风险](concepts/LethalPlanLeakageRisk.md) — Political risk where advance exposure lets officials prevent action or lets a target faction prepare and strike first.
 - [External Troop Invitation Risk / 外兵入京升级风险](concepts/ExternalTroopInvitationRisk.md) — Palace-crisis pattern where borrowing outside military pressure gives armed outsiders a route into central power.
 - [Zero-Sum Conflict Hesitation Risk / 死斗局优柔寡断风险](concepts/ZeroSumConflictHesitationRisk.md) — Late-Han timing-risk frame where delayed, softened, or indirect action becomes dangerous once the other side still has access, symbols, information, and incentive to strike first.
 - [Palace Coup Violence Cascade / 宫廷政变暴力级联](concepts/PalaceCoupViolenceCascade.md) — Hanji 946 pattern where one palace killing triggers forged orders, gate assault, retaliatory slaughter, imperial flight, and third-party capture opportunity.
