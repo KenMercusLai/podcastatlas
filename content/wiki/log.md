@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-04] ingest | OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595`; created [[DeniseDresser|Denise Dresser]] and [[NewbirdAI|Newbird AI]]; and resynthesized [[OpenAIComputeStrategy]], [[EnterpriseAIROIAudit]], and [[DataCenterBacklash]] from their complete preserved evidence inventories. Core synthesis: OpenAI-Anthropic competition is constrained by focus, enterprise monetization, hyperscaler dependence, physical compute, local legitimacy, and the still-unproven bridge from model-layer demand to scaled enterprise profit. No settled contradiction was adopted. Company revenue, valuations, leaked-memo details, Newbird transactions, housing-tax details, market interpretations, Iran-conflict expectations, congressional-trading claims, and unproven allegations about Eric Swalwell remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and will be left unchanged by the downstream synthesis refresh.
+
 ## [2026-10-04] ingest | 《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？
 
 Added source `zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng`; created [[PishanKingdomWesternHan|皮山国]]; and resynthesized [[JibinKingdomWesternHan|罽宾]], [[DuQinWesternHan|杜钦]], [[DiplomaticCostRiskAccounting|外交成本风险核算]], and [[TributeSystemEconomicIncentive|朝贡体系经济激励]] from their complete preserved evidence inventories. Core synthesis: the Pishan-only escort is a capacity-matched compromise because Jibin has low regional security value, its mission appears merchant-led, and a full escort transfers severe supply, robbery, illness, and terrain risk to Han. No settled contradiction was adopted. The transcript's `杜清` is routed to Du Qin from the Chengdi-era Wang Feng context; route names, medical explanations, archaeology, Hermes imagery, and large Silk Road claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis and publish validation were then refreshed.
@@ -29501,6 +29505,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] ingest | 《资治通鉴·汉纪》464｜古代的“春宫图”到底有多野？
 
 Added source `zizhi-tongjian-hanji-464-gudai-de-chungongtu-daodi-you-duo-ye-lp-qvincrx1zfp5z2ggjygfnpbca`; created [[LiuHaiyangGuangchuanKingWesternHan|广川王刘海阳]], [[ZhouFangTangPainter|周昉]], [[TangYinMingPainter|唐寅]], and [[AncientChineseEroticImagery|中国古代春宫图的社会功能]]. Core synthesis: sexually themed images take their meaning from setting, audience, consent, and institution, spanning instruction, marriage, fertility, protection, tomb memory, coercive spectacle, commercial art, censorship, collecting, and museum evidence. No settled contradiction was adopted. Work attributions, naming genealogy, tomb-image interpretations, provenance stories, and prohibition history remain source-scoped; the likely transcription error “性歧视” was not adopted as a claim. The automatic `wiki/overview.md` was updated during normal ingest, then left to the downstream synthesis workflow. The manifest and paragraph ledger were refreshed to 3,687-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page whitespace, identity, knowledge schema, index and log coverage, health, synthesis, and publish validation passed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-04] lint | Wiki health check
 

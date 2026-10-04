@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3307
+topic_total_pages: 3308
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9378,6 +9378,9 @@ topic_sources:
   - key: "openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958"
     title: "OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权"
     url: "/wiki/sources/openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595"
+    title: "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595/"
   - key: "openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z"
     title: "OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋"
     url: "/wiki/sources/openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z/"

@@ -1207,9 +1207,10 @@
       "id": "ai-legitimacy-and-left-primary-pressure-interact",
       "qualifications": [
         "The DSA platform, candidate names, district results, voter-base descriptions, and social-media radicalization claims are source-scoped host interpretations.",
-        "The claim does not treat one New York primary discussion as a national governing mandate or as neutral analysis of socialist policy."
+        "The claim does not treat one New York primary discussion as a national governing mandate or as neutral analysis of socialist policy.",
+        "The OpenAI identity-crisis episode adds a pied-a-terre-tax and data-center-legitimacy argument, but its policy details, canceled-project count, political motives, congressional-trading discussion, Iran-market interpretation, and unproven Swalwell allegations remain source-scoped."
       ],
-      "statement": "The GLM/Micron All-In source links AI-era legitimacy to electoral pressure: [[DemocraticSocialistsOfAmerica]] and [[ZohranMamdani]] show left-populist organizing and communication gaining force in New York primaries, while [[TravisKalanick]], [[GavinBaker]], and [[AllIn]] frame truth norms, social-media age gates, and Silicon Valley AI messaging failures as institutional trust problems rather than only campaign tactics.",
+      "statement": "The All-In sources link AI-era legitimacy to electoral and infrastructure pressure: [[DemocraticSocialistsOfAmerica]] and [[ZohranMamdani]] show left-populist organizing gaining force in New York, while [[DataCenterBacklash]] shows communities judging AI through electricity costs, pollution, jobs, concentrated wealth, and whether operators credibly fund power and public benefits rather than through model capability alone.",
       "status": "source-scoped",
       "supporting_wikilinks": [
         "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335",
@@ -1217,7 +1218,10 @@
         "ZohranMamdani",
         "TravisKalanick",
         "GavinBaker",
-        "AllIn"
+        "AllIn",
+        "all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595",
+        "DataCenterBacklash",
+        "OpenAIComputeStrategy"
       ]
     },
     {
@@ -5633,7 +5637,7 @@
       ]
     }
   ],
-  "input_digest": "09035f3705c71683fc4fcff5c5cb8c70d85e7fed8d4bfda6fd3f42ca2aa0d374",
-  "summary": "Across historical and modern cases, governance depends on more than formal rules: legitimacy, succession, appointments, information channels, administrative capacity, coercion, market design, public symbols, accountability, and implementation incentives determine whether institutions can act and whether their action remains bounded. The corpus repeatedly shows capacity as bidirectional—able to coordinate welfare, infrastructure, reform, safety, and peaceful transfer, but also surveillance, exclusion, plunder, repression, blame shifting, and violence—so current judgments distinguish procedure from power interest, visible evidence from inferred motive, and effective coordination from legitimate authority. The Hong Kong financial-media addition extends this to newsroom governance: cross-faction judgment, advertiser resistance, evidence-based correction, operational resilience, and ownership structure jointly determine whether public explanation remains autonomous. Claims of independence, like broader claims of legitimate authority, remain open to evidence and source limitations.",
+  "input_digest": "29f1de59c3237d18b9df0dd9d51445693c6fdce750e6f42fac4a36818a796e1f",
+  "summary": "Across historical and modern cases, governance depends on more than formal rules: legitimacy, information, administrative capacity, bargaining, accountability, and implementation incentives determine whether institutions can act and whether their action remains bounded. The newest All-In addition places AI infrastructure inside that legitimacy frame: physical compute can be strategically necessary while local communities still contest electricity costs, pollution, jobs, concentrated wealth, and weakly evidenced benefits; bring-your-own-power addresses only part of the bargain. Political allegations, policy details, market interpretations, and company claims remain source-scoped.",
   "topic_id": "governance-and-institutions"
 }

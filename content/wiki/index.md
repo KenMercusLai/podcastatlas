@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out](sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595.md) — All-In on OpenAI-Anthropic strategy, compute dependence, data-center legitimacy, enterprise AI ROI, housing taxes, market risk, and source-scoped political claims.
 - [《资治通鉴·汉纪》508丨大汉名将陈汤，手把手教你运筹帷幄](sources/zizhi-tongjian-hanji-508-dahan-mingjiang-chentang-shoubashou-jiao-ni-yunchou-weiwo-lmd26sxabxte3ilfzfxdv96vcdu.md) — 陈汤以战力、攻守比例、行军时间、西域局势和经验判断段会宗之围无需仓促发兵，并准确预报五日内解围消息。
 - [《资治通鉴·汉纪》517丨古代外交，中国为啥爱打肿脸充胖子？](sources/zizhi-tongjian-hanji-517-gudai-waijiao-zhongguo-weisha-ai-da-zhonglian-chong-pangzi-liemyvmwxw5_yd-trusbuqqhsbng.md) — 杜钦以罽宾战略价值低、使团商贸动机强和护送路线风险高为由，促成只送至皮山的有限承诺。
 - [《资治通鉴·汉纪》516丨古代中国为何会与这个国家断交？](sources/zizhi-tongjian-hanji-516-gudai-zhongguo-weihe-hui-yu-zhege-guojia-duanjiao-llfmuseg49szpxvypvfsp4naimiy.md) — 张禹升任丞相与罽宾册封失效、使团遇害和远距执法能力不足所致的断交。
@@ -3752,6 +3753,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [Denise Dresser](entities/DeniseDresser.md) — OpenAI chief revenue officer associated in the source with a leaked enterprise-strategy memo.
+- [Newbird AI](entities/NewbirdAI.md) — reported post-Allbirds AI-infrastructure pivot used as a market-cycle signal.
 - [广川王刘海阳 / Liu Haiyang, Guangchuan King (Western Han)](entities/LiuHaiyangGuangchuanKingWesternHan.md) — Western Han royal prince removed after allegations of killing, sexual coercion, and compulsory spectacle.
 - [周昉 / Zhou Fang (Tang Painter)](entities/ZhouFangTangPainter.md) — Tang painter source-scopingly attributed the lost `春宵密戏图` and a role in the later erotic-art label.
 - [唐寅 / Tang Yin (Ming Painter)](entities/TangYinMingPainter.md) — Ming painter connected by one source to erotic-image commerce, attributed works, and Qing prohibition.

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2187
+topic_total_pages: 2188
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6264,6 +6264,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105"
     title: "OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595"
+    title: "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595/"
   - key: "our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour"
     title: "Our mission: Find the world's best economic ideas (Summer School World Tour)"
     url: "/wiki/sources/our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour/"

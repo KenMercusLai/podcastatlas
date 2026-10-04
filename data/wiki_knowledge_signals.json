@@ -51016,9 +51016,9 @@
       "url": "/wiki/concepts/datacenterairpermitparticipation/"
     },
     "DataCenterBacklash": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 5,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
@@ -51110,9 +51110,16 @@
           "show": "Marketplace Tech",
           "title": "Can data centers ever be good neighbors?",
           "url": "/wiki/sources/tech-20260930-mp-tech-pod-128-tech-20260930-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out [40916595].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/datacenterbacklash/"
     },
     "DataCenterCommunityConsent": {
@@ -54312,6 +54319,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/denishealey/"
+    },
+    "DeniseDresser": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out [40916595].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/denisedresser/"
     },
     "Denkyira": {
       "episode_count": 1,
@@ -67542,9 +67565,9 @@
       "url": "/wiki/concepts/enterpriseaipilotpurgatory/"
     },
     "EnterpriseAIROIAudit": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
@@ -67580,9 +67603,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out [40916595].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/enterpriseairoiaudit/"
     },
     "EnterpriseAgentControlLayer": {
@@ -152482,6 +152512,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/newzealand/"
     },
+    "NewbirdAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out [40916595].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/newbirdai/"
+    },
     "NewgatePrison": {
       "episode_count": 1,
       "show_count": 1,
@@ -157553,9 +157599,9 @@
       "url": "/wiki/concepts/onnamusha/"
     },
     "OpenAIComputeStrategy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI CFO Sarah Friar： IPO, AI Rivalries, New Device, and Spending $100B+ on Compute [41508105].md",
@@ -157570,9 +157616,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out [40916595].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/openaicomputestrategy/"
     },
     "OpenAINonprofitConversionDispute": {

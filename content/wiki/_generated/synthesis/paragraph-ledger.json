@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e2c679065a3f47a51a4acd3c0b83d2bd8f67a84416ad48cd912b5bd311632cf3",
       "af358a86bf70ef234352251fc0a6c428f5eb59080a1b463629e9843fb6a65432",
       "8acbcfb4e29fba02878bca0d9d4cb29edf99fe87b7b48806f161f50c0fbfcff9",
       "7c66e9f5a836d4a8f0d7db852532a4b69adce88d1241441dcf4fdb20de615b85",
@@ -787,11 +788,38 @@
       "f1e18dd7261bb4678caaf74192b916a7c19f8240d5fca5820a6dc87fc12024f8",
       "30dab5d9a3dbe5a1852603c018045e5063833f4e7647d6399d3386f189f53928"
     ],
-    "paragraph_count": 785
+    "paragraph_count": 786
   },
-  "overview_commit": "63a74536c939f298c5747cddf69a3933a99a9a99",
-  "overview_digest": "c680f7233a10d716597ff7aeb7e6a3b6df8feb01ff59c3226ec1115f73bc09e0",
+  "overview_commit": "6f311fc4666dcd1384957740e5f2bf1a5b31208b",
+  "overview_digest": "45fbf23bf87d23a6006686d0c8e337f994eee5444b8f203f51ec55568212a03d",
   "paragraphs": [
+    {
+      "id": "e2c679065a3f47a51a4acd3c0b83d2bd8f67a84416ad48cd912b5bd311632cf3",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "ai-and-technology",
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595|OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out]], an [[AllIn|All-In]] episode connecting [[OpenAI]]-[[Anthropic]] competition to enterprise coding, hyperscaler dependence, compute scarcity, data-center politics, and public-market expectations. It adds [[DeniseDresser|Denise Dresser]] and [[NewbirdAI|Newbird AI]], while resynthesizing [[OpenAIComputeStrategy]], [[EnterpriseAIROIAudit]], and [[DataCenterBacklash]]. Its core synthesis is that AI growth has several noninterchangeable gates: model demand and coding-token revenue can rise while infrastructure allocation, power, permitting, community trust, organizational change, and audited enterprise profit remain unresolved. No settled contradiction is adopted. Compute scarcity can coexist with financing or valuation excess, construction employment can coexist with limited permanent jobs and local costs, and startup productivity anecdotes do not establish large-enterprise ROI; financial figures, memo claims, transaction details, housing-tax policy, market signals, geopolitical expectations, congressional trading, and unproven political allegations remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 3,
+        "governance-and-institutions": 4,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AllIn",
+        "Anthropic",
+        "DataCenterBacklash",
+        "DeniseDresser",
+        "EnterpriseAIROIAudit",
+        "NewbirdAI",
+        "OpenAI",
+        "OpenAIComputeStrategy",
+        "all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595"
+      ]
+    },
     {
       "id": "af358a86bf70ef234352251fc0a6c428f5eb59080a1b463629e9843fb6a65432",
       "primary_topic": "business-and-markets",
