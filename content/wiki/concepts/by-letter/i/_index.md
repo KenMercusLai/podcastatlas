@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9658
+wiki_total_pages: 9661
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "InformalJianghuOrder"
     title: "Informal Jianghu Order"
     url: "/wiki/concepts/informaljianghuorder/"
+  - key: "InformalMusicalLearningNetwork"
+    title: "Informal Musical Learning Network"
+    url: "/wiki/concepts/informalmusicallearningnetwork/"
   - key: "InformalPropertyRightsProtection"
     title: "Informal Property-Rights Protection / 非正式产权保护"
     url: "/wiki/concepts/informalpropertyrightsprotection/"

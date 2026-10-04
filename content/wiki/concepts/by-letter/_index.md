@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9658
+wiki_total_pages: 9661
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2771,6 +2771,9 @@ wiki_pages:
   - key: "AutoFormalization"
     title: "Auto-Formalization"
     url: "/wiki/concepts/autoformalization/"
+  - key: "AutobiographicalMemoryHistoricalEvidence"
+    title: "Autobiographical Memory as Historical Evidence"
+    url: "/wiki/concepts/autobiographicalmemoryhistoricalevidence/"
   - key: "AutocraticSuccession"
     title: "Autocratic Succession"
     url: "/wiki/concepts/autocraticsuccession/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9658
+wiki_total_pages: 9661
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1370,6 +1370,9 @@ wiki_pages:
   - key: "SongYuanMaritimeTradeCenter"
     title: "Song-Yuan Maritime Trade Center"
     url: "/wiki/concepts/songyuanmaritimetradecenter/"
+  - key: "SongwritingEmotionalProcessing"
+    title: "Songwriting as Emotional Processing"
+    url: "/wiki/concepts/songwritingemotionalprocessing/"
   - key: "SorenessRecoveryBoundary"
     title: "Soreness-Recovery Boundary"
     url: "/wiki/concepts/sorenessrecoveryboundary/"

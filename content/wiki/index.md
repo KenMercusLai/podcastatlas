@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [670. Tom Holland Meets Paul McCartney](sources/670-tom-holland-meets-paul-mccartney-glt5781731754.md) — Paul McCartney on Liverpool's postwar port culture, informal musical learning, Lennon-McCartney collaboration, songwriting and loss, and memory's historical limits.
 - [《资治通鉴·汉纪》519丨爱国者王章的死，缘于跟错了主子](sources/zizhi-tongjian-hanji-519-aiguozhe-wangzhang-de-si-yuanyugen-cuo-le-zhuzi-lt5hzlh9t-gryds1lpn0ieqw3cvn.md) — 王章劝汉成帝撤换王凤，却在王政君施压与皇帝反转后死于狱中的外戚权力与弱势领导案例。
 - [这是一个恐怖片的黄金时代！不要低估《后室》《痴迷》](sources/zhe-shi-yige-kongbupian-de-huangjin-shidai-buyao-digu-houshi-chimi-gkwrijiopjpga1chags-xwp.md) — 电影巨辩 episode on horror's post-2010 resurgence, internet-native directors, Backrooms liminal space, and Obsession's consent critique.
 - [497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后](sources/497-xintianweng-dangan-jiemi-1965nian-xinjiapo-duli-yu-xinma-fenjia-de-taiqian-muhou-lo9kcfdqpzmjsavquvejrxsgouy3.md) — 忽左忽右从信天翁档案重访新马合并与分家，强调结构冲突、吴庆瑞的谈判能动性、和平分离条件与新加坡服务—管控型治理。
@@ -3744,6 +3745,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trump-Xi Summit, Benioff: "Not My First SaaSpocalypse," OpenAI vs Apple, Multi-Sensory AI, El Niño](sources/all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630.md) — All-In episode with Mark Benioff on U.S.-China economic entanglement, AI-era enterprise software, ambient assistants, El Niño risk, and layered private-market SPVs.
 
 ## Entities
+- [Paul McCartney](entities/PaulMcCartney.md) — Beatles musician and songwriter whose recollections link craft to Liverpool, peer learning, family, loss, literature, and reconstructive memory.
+- [Liverpool](entities/Liverpool.md) — English port city framed as a postwar musical ecology of maritime exchange, Irish inheritance, resilience, humor, and peer learning.
 - [王章之妻 / Wife of Wang Zhang (Western Han)](entities/WangZhangWifeWesternHan.md) — Unnamed spouse who warns Wang Zhang against a low-probability confrontation and is exiled with the family after his death.
 - [Marie-Pierre St-Onge](entities/MariePierreStOnge.md) — Nutrition and sleep researcher connecting sleep restriction, appetite, diet quality, meal timing, and metabolic health.
 - [Kane Parsons](entities/KaneParsons.md) — Internet-native visual-effects creator and Backrooms director whose profile joins online authorship to creator-side AI resistance.
@@ -16113,6 +16116,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Benioff](entities/MarkBenioff.md) — Salesforce co-founder and CEO represented through grounded enterprise AI, public-market discipline, China data residency, and corporate philanthropy.
 
 ## Concepts
+- [Informal Musical Learning Network](concepts/InformalMusicalLearningNetwork.md) — Peer circulation of recordings, chords, riffs, lyrics, and practical technique through listening, imitation, and demonstration.
+- [Songwriting as Emotional Processing](concepts/SongwritingEmotionalProcessing.md) — Creative expression that can organize feeling before its source or meaning is consciously named.
+- [Autobiographical Memory as Historical Evidence](concepts/AutobiographicalMemoryHistoricalEvidence.md) — Use of recollection for lived texture while calibrating confidence in attribution, chronology, causation, and detail.
 - [亲情压力下的政治反转 / Kinship-Pressure Political Reversal](concepts/KinshipPressurePoliticalReversal.md) — Decision reversal in which family obligation functions as an informal veto and shifts the cost onto an exposed subordinate.
 - [Sleep-Nutrition Bidirectionality](concepts/SleepNutritionBidirectionality.md) — Feedback model linking sleep duration and quality to appetite and food reward, and diet quality and timing to later sleep and metabolism.
 - [Contemporary Horror Film Resurgence / 当代恐怖片复兴](concepts/ContemporaryHorrorFilmResurgence.md) — Post-2010 horror revival through low-cost production, young auteurs, social criticism, festivals, and bodily spectatorship.

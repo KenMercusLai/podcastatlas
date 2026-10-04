@@ -29449,3 +29449,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-
 ## [2026-10-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-04] ingest | 670. Tom Holland Meets Paul McCartney
+
+Added source `670-tom-holland-meets-paul-mccartney-glt5781731754`; created [[PaulMcCartney]], [[Liverpool]], [[InformalMusicalLearningNetwork]], [[SongwritingEmotionalProcessing]], and [[AutobiographicalMemoryHistoricalEvidence]]; and resynthesized [[TheBeatles]], [[JohnLennon]], and [[PopularMusicAsCulturalTransmission]] from their complete preserved evidence inventories. Core synthesis: McCartney's formation was ecological rather than solitary—port traffic supplied scarce American records, peer exchange turned them into practical skill, family and literary experience broadened songwriting, and humor and ambition helped transform postwar difficulty—while the episode's own anecdotal discrepancy makes reconstructive memory an explicit evidentiary limit. No settled contradiction was adopted. Album framing, remembered dialogue, family motives, song origins, collaboration shares, literary influence, Liverpool exceptionalism, and anecdotal details remain autobiographical, interpretive, or source-scoped.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

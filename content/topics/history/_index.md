@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2554
+topic_total_pages: 2556
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -115,6 +115,9 @@ topic_concepts:
   - key: "AuthorAdmirationPowerRisk"
     title: "Author Admiration Power Risk"
     url: "/wiki/concepts/authoradmirationpowerrisk/"
+  - key: "AutobiographicalMemoryHistoricalEvidence"
+    title: "Autobiographical Memory as Historical Evidence"
+    url: "/wiki/concepts/autobiographicalmemoryhistoricalevidence/"
   - key: "BanditAssassinationAttribution"
     title: "Bandit Assassination Attribution / 盗贼行刺归因"
     url: "/wiki/concepts/banditassassinationattribution/"
@@ -6501,6 +6504,9 @@ topic_sources:
   - key: "67-anglo-german-relations-glt1735608678"
     title: "67. Anglo-German Relations"
     url: "/wiki/sources/67-anglo-german-relations-glt1735608678/"
+  - key: "670-tom-holland-meets-paul-mccartney-glt5781731754"
+    title: "670. Tom Holland Meets Paul McCartney"
+    url: "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
   - key: "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565"
     title: "671. The First World War: Blood in the Trenches (Part 1)"
     url: "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"

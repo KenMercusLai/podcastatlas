@@ -5956,6 +5956,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "670-tom-holland-meets-paul-mccartney-glt5781731754": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565": [
     {
       "key": "history",
@@ -15138,6 +15150,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "AutobiographicalMemoryHistoricalEvidence": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "AutocraticSuccession": [
@@ -44613,6 +44632,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "InformalMusicalLearningNetwork": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "InformationApocalypse": [
     {
       "key": "technology",
@@ -51922,6 +51948,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "Liverpool": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "LiverpoolFC": [
@@ -76036,6 +76069,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "SongwritingEmotionalProcessing": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "SonnyLoughran": [

@@ -19133,6 +19133,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/autorlproductionloop/"
     },
+    "AutobiographicalMemoryHistoricalEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5781731754 [GLT5781731754].md",
+          "key": "670-tom-holland-meets-paul-mccartney-glt5781731754",
+          "show": "The Rest Is History",
+          "title": "670. Tom Holland Meets Paul McCartney",
+          "url": "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/autobiographicalmemoryhistoricalevidence/"
+    },
     "AutoimmuneDiseaseSubtyping": {
       "episode_count": 2,
       "show_count": 2,
@@ -107778,6 +107794,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/informaljianghuorder/"
     },
+    "InformalMusicalLearningNetwork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5781731754 [GLT5781731754].md",
+          "key": "670-tom-holland-meets-paul-mccartney-glt5781731754",
+          "show": "The Rest Is History",
+          "title": "670. Tom Holland Meets Paul McCartney",
+          "url": "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/informalmusicallearningnetwork/"
+    },
     "InformationAsymmetricPacification": {
       "episode_count": 1,
       "show_count": 1,
@@ -116667,9 +116699,9 @@
       "url": "/wiki/entities/johnlambert/"
     },
     "JohnLennon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5767145023 [GLT5767145023].md",
@@ -116677,9 +116709,16 @@
           "show": "The Rest Is History",
           "title": "91. The Beatles",
           "url": "/wiki/sources/91-the-beatles-glt5767145023/"
+        },
+        {
+          "episode_file": "GLT5781731754 [GLT5781731754].md",
+          "key": "670-tom-holland-meets-paul-mccartney-glt5781731754",
+          "show": "The Rest Is History",
+          "title": "670. Tom Holland Meets Paul McCartney",
+          "url": "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/johnlennon/"
     },
     "JohnLilburne": {
@@ -130920,6 +130959,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/livercancerscreeningandtreatment/"
+    },
+    "Liverpool": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5781731754 [GLT5781731754].md",
+          "key": "670-tom-holland-meets-paul-mccartney-glt5781731754",
+          "show": "The Rest Is History",
+          "title": "670. Tom Holland Meets Paul McCartney",
+          "url": "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/liverpool/"
     },
     "LiverpoolManchesterRailway": {
       "episode_count": 1,
@@ -161995,6 +162050,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/paullay/"
     },
+    "PaulMcCartney": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5781731754 [GLT5781731754].md",
+          "key": "670-tom-holland-meets-paul-mccartney-glt5781731754",
+          "show": "The Rest Is History",
+          "title": "670. Tom Holland Meets Paul McCartney",
+          "url": "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/paulmccartney/"
+    },
     "PaulRouse": {
       "episode_count": 3,
       "show_count": 1,
@@ -167770,9 +167841,9 @@
       "url": "/wiki/concepts/popularculturehistoricalmemory/"
     },
     "PopularMusicAsCulturalTransmission": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5767145023 [GLT5767145023].md",
@@ -167780,9 +167851,16 @@
           "show": "The Rest Is History",
           "title": "91. The Beatles",
           "url": "/wiki/sources/91-the-beatles-glt5767145023/"
+        },
+        {
+          "episode_file": "GLT5781731754 [GLT5781731754].md",
+          "key": "670-tom-holland-meets-paul-mccartney-glt5781731754",
+          "show": "The Rest Is History",
+          "title": "670. Tom Holland Meets Paul McCartney",
+          "url": "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/concepts/popularmusicasculturaltransmission/"
     },
     "PopularNPDDiscourse": {
@@ -196789,6 +196867,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/songtsam/"
     },
+    "SongwritingEmotionalProcessing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5781731754 [GLT5781731754].md",
+          "key": "670-tom-holland-meets-paul-mccartney-glt5781731754",
+          "show": "The Rest Is History",
+          "title": "670. Tom Holland Meets Paul McCartney",
+          "url": "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/songwritingemotionalprocessing/"
+    },
     "SonnyLoughran": {
       "episode_count": 1,
       "show_count": 1,
@@ -207854,9 +207948,9 @@
       "url": "/wiki/entities/thebackroomsfilm/"
     },
     "TheBeatles": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "8211241331_711602 [8211241331_711602].md",
@@ -207906,9 +208000,16 @@
           "show": "The Rest Is History",
           "title": "91. The Beatles",
           "url": "/wiki/sources/91-the-beatles-glt5767145023/"
+        },
+        {
+          "episode_file": "GLT5781731754 [GLT5781731754].md",
+          "key": "670-tom-holland-meets-paul-mccartney-glt5781731754",
+          "show": "The Rest Is History",
+          "title": "670. Tom Holland Meets Paul McCartney",
+          "url": "/wiki/sources/670-tom-holland-meets-paul-mccartney-glt5781731754/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-04",
       "url": "/wiki/entities/thebeatles/"
     },
     "TheCanterburyTales": {
