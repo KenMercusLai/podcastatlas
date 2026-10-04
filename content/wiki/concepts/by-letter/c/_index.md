@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9625
+wiki_total_pages: 9628
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2063,6 +2063,9 @@ wiki_pages:
   - key: "ConsumerArbitrationBarrier"
     title: "Consumer Arbitration Barrier"
     url: "/wiki/concepts/consumerarbitrationbarrier/"
+  - key: "ConsumerBrandEvidenceResponse"
+    title: "Consumer Brand Evidence Response"
+    url: "/wiki/concepts/consumerbrandevidenceresponse/"
   - key: "ConsumerBrandMoat"
     title: "Consumer Brand Moat"
     url: "/wiki/concepts/consumerbrandmoat/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush](sources/banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8.md) — How I Built This founder story on chickpea-pasta formulation, industrial transfer failure, retail and packaging growth, glyphosate-response pressure, and deliberately increasing exposure to luck.
 - [Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson](sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715.md) — Huberman Lab interview on gastrointestinal physiology, fiber and microbial metabolites, intestinal barrier integrity, screening, GLP-1 tradeoffs, metabolic monitoring, and multimodal obesity treatment.
 - [How attitudes toward AI differ across generations](sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128.md) — Marketplace Tech with Rana el Kaliouby on family AI disagreement, writing as thought, Arabic archive access, dialogic literacy, bias, and human-connection boundaries.
 - [Centre punch: Germany’s state-election shocker](sources/centre-punch-germanys-state-election-shocker-6ab0f8597aa361c6128028b9.md) — The Intelligence on German centrist fragmentation, the Dangote refinery listing and African retail-market access, and the evidence boundary between blue-light biology and sleep claims.
@@ -3724,6 +3725,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
 
 ## Entities
+- [Banza](entities/Banza.md) — Chickpea-pasta company shaped by category reframing, manufacturing-transfer failure, retail growth, and later evidence-response pressure.
+- [Brian Rudolph](entities/BrianRudolph.md) — Banza co-founder combining personal product fit, opportunity seeking, manufacturing persistence, and later crisis-response revision.
+- [Scott Rudolph](entities/ScottRudolph.md) — Banza co-founder and Brian Rudolph's early adviser and operating partner.
 - [Chris Thompson](entities/ChrisThompson.md) — Gastroenterologist and interventional-endoscopy guest connecting digestive physiology, microbiome support, metabolic risk, and mechanism-matched obesity treatment.
 - [Rana el Kaliouby](entities/RanaElKaliouby.md) — AI scientist and investor advocating task-specific judgment, critical experimentation, and human-connection boundaries.
 - [Tarath](entities/Tarath.md) — AI archival project using historical context to improve access to difficult Arabic documents.
@@ -16055,6 +16059,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dangote Petroleum Refinery](entities/DangotePetroleumRefinery.md) — Nigerian refinery whose proposed $50bn local listing is a test of scale, ownership access, and market depth.
 
 ## Concepts
+- [Novel Food Manufacturing Transfer Risk](concepts/NovelFoodManufacturingTransferRisk.md) — Risk that a kitchen or small-plant product changes under faster equipment, larger runs, or ingredient-inexperienced operators.
+- [Consumer Brand Evidence Response](concepts/ConsumerBrandEvidenceResponse.md) — Two-track crisis system combining fast uncertainty communication with slower testing, traceability, certification, and public results.
+- [Deliberate Luck Surface](concepts/DeliberateLuckSurface.md) — Portfolio of bounded attempts that increases exposure to useful people, feedback, distribution paths, and favorable surprises.
 - [Intestinal Barrier Integrity](concepts/IntestinalBarrierIntegrity.md) — Layered mucus, epithelial, tight-junction, immune, microbial, and metabolite control of movement across the gut lining.
 - [Multimodal Obesity Treatment](concepts/MultimodalObesityTreatment.md) — Mechanism-matched combination of nutrition, exercise, behavior, medication, endoscopy, or surgery with maintenance and lean-mass safeguards.
 - [Dialogic AI Literacy](concepts/DialogicAILiteracy.md) — Family and school practice combining experimentation, disagreement, ethics, failure analysis, and informed agency.

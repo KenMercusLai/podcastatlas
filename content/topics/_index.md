@@ -14,7 +14,7 @@ topic_pages:
     label: "Economics"
     description: "Markets, finance, investing, trade, companies, entrepreneurship, and the policies and incentives that shape economic activity."
     url: "/topics/economics/"
-    count: 2184
+    count: 2185
   - key: "history"
     label: "History"
     description: "Historical people, events, institutions, evidence, and interpretation across Chinese and world history."

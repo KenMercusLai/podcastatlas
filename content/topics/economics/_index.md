@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2184
+topic_total_pages: 2185
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -883,6 +883,9 @@ topic_concepts:
   - key: "DeglobalizationTradeIntermediation"
     title: "Deglobalization Trade Intermediation"
     url: "/wiki/concepts/deglobalizationtradeintermediation/"
+  - key: "DeliberateLuckSurface"
+    title: "Deliberate Luck Surface"
+    url: "/wiki/concepts/deliberatelucksurface/"
   - key: "DemandShockProductMarketFit"
     title: "Demand Shock Product-Market Fit"
     url: "/wiki/concepts/demandshockproductmarketfit/"

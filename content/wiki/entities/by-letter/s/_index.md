@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12282
+wiki_total_pages: 12285
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "ScottPage"
     title: "Scott Page"
     url: "/wiki/entities/scottpage/"
+  - key: "ScottRudolph"
+    title: "Scott Rudolph"
+    url: "/wiki/entities/scottrudolph/"
   - key: "ScottTannen"
     title: "Scott Tannen"
     url: "/wiki/entities/scotttannen/"

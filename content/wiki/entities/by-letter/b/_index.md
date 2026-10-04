@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12282
+wiki_total_pages: 12285
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -134,6 +134,9 @@ wiki_pages:
   - key: "BankOfMontreal"
     title: "Bank of Montreal / 蒙特利尔银行"
     url: "/wiki/entities/bankofmontreal/"
+  - key: "Banza"
+    title: "Banza"
+    url: "/wiki/entities/banza/"
   - key: "Baopuzi"
     title: "Baopuzi / 《抱朴子》"
     url: "/wiki/entities/baopuzi/"
@@ -1073,6 +1076,9 @@ wiki_pages:
   - key: "BrianMendoza"
     title: "Brian Mendoza"
     url: "/wiki/entities/brianmendoza/"
+  - key: "BrianRudolph"
+    title: "Brian Rudolph"
+    url: "/wiki/entities/brianrudolph/"
   - key: "BrianSmith"
     title: "Brian Smith"
     url: "/wiki/entities/briansmith/"

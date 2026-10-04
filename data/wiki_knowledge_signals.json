@@ -20740,6 +20740,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/banquetseatingstatuspolitics/"
     },
+    "Banza": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Banza： Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush [a3b69561-45f1-429c-81e1-ff56d1a5f3b8].md",
+          "key": "banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8",
+          "show": "How I Built This with Guy Raz",
+          "title": "Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush",
+          "url": "/wiki/sources/banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/banza/"
+    },
     "BaoJunEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -27017,6 +27033,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/brianjones/"
     },
+    "BrianRudolph": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Banza： Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush [a3b69561-45f1-429c-81e1-ff56d1a5f3b8].md",
+          "key": "banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8",
+          "show": "How I Built This with Guy Raz",
+          "title": "Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush",
+          "url": "/wiki/sources/banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/brianrudolph/"
+    },
     "BriggsVMullen": {
       "episode_count": 1,
       "show_count": 1,
@@ -28688,6 +28720,57 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/covidoriginsinvestigationuncertainty/"
+    },
+    "CPGManufacturingScaleUp": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "Bobbie： Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants [4488842b-74d3-40ed-8776-5831c5934e69].md",
+          "key": "bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69",
+          "show": "How I Built This with Guy Raz",
+          "title": "Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants",
+          "url": "/wiki/sources/bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69/"
+        },
+        {
+          "episode_file": "MadeGood： Salma and Nima Fotovat Lost Their First Business.They Grew Their Next One Into a Snack Giant. [cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d].md",
+          "key": "madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d",
+          "show": "How I Built This with Guy Raz",
+          "title": "MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.",
+          "url": "/wiki/sources/madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d/"
+        },
+        {
+          "episode_file": "Catalina Crunch： Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough [5aa86015-e7c2-448e-a84e-d1b34d2fcac2].md",
+          "key": "catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2",
+          "show": "How I Built This with Guy Raz",
+          "title": "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough",
+          "url": "/wiki/sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2/"
+        },
+        {
+          "episode_file": "Justin’s Nut Butter： Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter. [b456c4b4-0243-4e46-9460-d0de7cf5d98b].md",
+          "key": "justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b",
+          "show": "How I Built This with Guy Raz",
+          "title": "Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.",
+          "url": "/wiki/sources/justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b/"
+        },
+        {
+          "episode_file": "YETI： Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand [d7f8e0e8-51a5-4444-8c1d-f5c43c353285].md",
+          "key": "yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285",
+          "show": "How I Built This with Guy Raz",
+          "title": "YETI: Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand",
+          "url": "/wiki/sources/yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285/"
+        },
+        {
+          "episode_file": "Banza： Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush [a3b69561-45f1-429c-81e1-ff56d1a5f3b8].md",
+          "key": "banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8",
+          "show": "How I Built This with Guy Raz",
+          "title": "Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush",
+          "url": "/wiki/sources/banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/cpgmanufacturingscaleup/"
     },
     "CPRAEDResponseBoundary": {
       "episode_count": 5,
@@ -44669,6 +44752,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/consumeraishoppingagentbenchmark/"
     },
+    "ConsumerBrandEvidenceResponse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Banza： Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush [a3b69561-45f1-429c-81e1-ff56d1a5f3b8].md",
+          "key": "banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8",
+          "show": "How I Built This with Guy Raz",
+          "title": "Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush",
+          "url": "/wiki/sources/banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/consumerbrandevidenceresponse/"
+    },
     "ConsumerCameraSurveillance": {
       "episode_count": 7,
       "show_count": 2,
@@ -52621,6 +52720,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/deliaowens/"
+    },
+    "DeliberateLuckSurface": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Banza： Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush [a3b69561-45f1-429c-81e1-ff56d1a5f3b8].md",
+          "key": "banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8",
+          "show": "How I Built This with Guy Raz",
+          "title": "Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush",
+          "url": "/wiki/sources/banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/deliberatelucksurface/"
     },
     "DeliberateVisualSnapshotEncoding": {
       "episode_count": 1,
@@ -153397,6 +153512,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/notredamedeparis/"
     },
+    "NovelFoodManufacturingTransferRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Banza： Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush [a3b69561-45f1-429c-81e1-ff56d1a5f3b8].md",
+          "key": "banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8",
+          "show": "How I Built This with Guy Raz",
+          "title": "Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush",
+          "url": "/wiki/sources/banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/concepts/novelfoodmanufacturingtransferrisk/"
+    },
     "NovusHomoOutsiderPolitics": {
       "episode_count": 1,
       "show_count": 1,
@@ -186444,6 +186575,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/scottmorrison/"
+    },
+    "ScottRudolph": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Banza： Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush [a3b69561-45f1-429c-81e1-ff56d1a5f3b8].md",
+          "key": "banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8",
+          "show": "How I Built This with Guy Raz",
+          "title": "Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush",
+          "url": "/wiki/sources/banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8/"
+        }
+      ],
+      "updated": "2026-10-04",
+      "url": "/wiki/entities/scottrudolph/"
     },
     "ScottTannen": {
       "episode_count": 1,

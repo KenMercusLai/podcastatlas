@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9625
+wiki_total_pages: 9628
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "NotWorkingAmbivalence"
     title: "Not Working Ambivalence / 不上班的复杂性"
     url: "/wiki/concepts/notworkingambivalence/"
+  - key: "NovelFoodManufacturingTransferRisk"
+    title: "Novel Food Manufacturing Transfer Risk"
+    url: "/wiki/concepts/novelfoodmanufacturingtransferrisk/"
   - key: "NoveltySearch"
     title: "Novelty Search"
     url: "/wiki/concepts/noveltysearch/"
