@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》367-2｜教你一招，应对职场中的“不公”](sources/zizhi-tongjian-hanji-367-2-jiao-ni-yizhao-yingdui-zhichang-zhong-de-bugong-lmphtxnfn76galepblj-x4ikc3gl.md) — 以“老板思维”区分个人委屈与组织评价逻辑，并把发展空间、健康成本和体面离开合成职场不公下的退出判断。
 - [《资治通鉴·汉纪》367-1｜碰女人就疲软的诸侯王](sources/zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1sg-lkwl9dtnflxxgkieb79hj.md) — 胶西王刘端的宗室保护、宫廷暴力与地方治理破坏，及董仲舒在公孙弘推动的高风险任命中识险退身。
 - [323-AI是否可以取代翻译？错误的翻译如何塑造现实？](sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf.md) — 独树不成林 episode distinguishing routine AI translation from conceptual judgment and tracing how entrenched terminology shapes political and philosophical interpretation.
 - [EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped](sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped.md) — Data Science With Sam recap of CUDA's flywheel, Nvidia's $1 trillion Blackwell/Vera Rubin order narrative, the inference economy, Groq LPUs, NeMoClaw, physical AI, and open Nemotron models, with naming and deployment claims kept source-scoped.
@@ -25957,5 +25958,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [宫廷亲密关系作为政治资源 / Court Intimacy as Political Resource](concepts/CourtIntimacyAsPoliticalResource.md) — 宠幸与亲密接触转化为赏赐、官位、信息、接近阻隔、请托调停、审美模仿及政治暴露的机制。
 
 - [刚直理想主义的政治风险 / Rigid Idealism Political Risk](concepts/RigidIdealismPoliticalRisk.md) — Moral courage can fail politically when leverage, protected channels, reliable authority, and transferred household risk are ignored.
+
+- [组织公平感与退出判断 / Organizational Fairness and Exit Judgment](concepts/OrganizationalFairnessExitJudgment.md) — 区分职场委屈、组织评价逻辑、剩余发展空间与体面退出方式的判断框架。
 
 ## Syntheses

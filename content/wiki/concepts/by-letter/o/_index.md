@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9683
+wiki_total_pages: 9684
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -800,6 +800,9 @@ wiki_pages:
   - key: "OmenSkepticismRemonstrance"
     title: "祥瑞怀疑式进谏 / Omen Skepticism Remonstrance"
     url: "/wiki/concepts/omenskepticismremonstrance/"
+  - key: "OrganizationalFairnessExitJudgment"
+    title: "组织公平感与退出判断 / Organizational Fairness and Exit Judgment"
+    url: "/wiki/concepts/organizationalfairnessexitjudgment/"
   - key: "OfficialSelectionChannelCompetition"
     title: "选官通道竞争 / Official Selection Channel Competition"
     url: "/wiki/concepts/officialselectionchannelcompetition/"

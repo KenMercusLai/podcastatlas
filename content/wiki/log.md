@@ -29804,3 +29804,15 @@ Added source `zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》367-2｜教你一招，应对职场中的“不公”
+
+Added source `zizhi-tongjian-hanji-367-2-jiao-ni-yizhao-yingdui-zhichang-zhong-de-bugong-lmphtxnfn76galepblj-x4ikc3gl` and created [[OrganizationalFairnessExitJudgment|组织公平感与退出判断]]. Core synthesis: “老板思维” can help distinguish personal grievance from organizational evaluation logic, but it does not make organizational interest morally fair; remaining development value and tolerable cost support staying, while structural darkness, lost growth, and health damage support a controlled exit that preserves future options. The Song Ci opening remains a television analogy, and transcript-sensitive Western Han names, itinerary details, and relocation subgroups remain source-scoped; only contextually clear forms such as 武都氐人 and 酒泉 were normalized. No settled contradiction was adopted. The automatic `wiki/overview.md` was read for context and not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,726 sources and 789 overview paragraphs. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the repository-wide lightweight validator still reports 20 pre-existing broken links outside this ingest.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
