@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后](sources/497-xintianweng-dangan-jiemi-1965nian-xinjiapo-duli-yu-xinma-fenjia-de-taiqian-muhou-lo9kcfdqpzmjsavquvejrxsgouy3.md) — 忽左忽右从信天翁档案重访新马合并与分家，强调结构冲突、吴庆瑞的谈判能动性、和平分离条件与新加坡服务—管控型治理。
 - [What it's like to log off from a career in tech](sources/tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128.md) — Marketplace Tech launch of the Clocked Out series with Chris Bell on recurring layoff responsibility, family priorities, financial uncertainty, and early retirement as control over future work.
 - [School of shock: teenagers get dimmer](sources/school-of-shock-teenagers-get-dimmer-6a9fd55a89f0f48b8810a1bb.md) — The Intelligence on cross-national learning decline, Miami's mobile-capital boom and climate exposure, and phone-in radio as a qualitative public-mood signal.
 - [咖啡小课堂：口粮豆怎么买最划算？一份给普通人的咖啡避坑指南](sources/kafei-xiaoketang-kouliangdou-zenme-mai-zui-huasuan-yifen-gei-putongren-de-kafei-bikeng-zhinan-gkwrijiodf2uarzatatuffjr.md) — 大小电波 guide to coffee freshness, packaging, price signals, cafe observation, and fit-based home-equipment decisions.
@@ -3730,6 +3731,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine](sources/all-in-with-chamath-jason-sacks-friedberg-blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine-42987238.md) — All-In interview on XB-1's supersonic milestone, boomless overland flight, engine vertical integration, data-center ground power, and Overture's premium economics and schedule uncertainty.
 
 ## Entities
+- [许振华 / Xu Zhenhua](entities/XuZhenhua.md) — 忽左忽右嘉宾，以信天翁档案、政治史和城市观察解释新加坡建国叙事。
+- [吴庆瑞 / Goh Keng Swee](entities/GohKengSwee.md) — 新加坡领导人与分家谈判关键人物，其口述历史强化了新加坡主动性的叙事。
+- [People's Action Party / 人民行动党](entities/PeoplesActionParty.md) — 从反殖民联盟、合并策略和联邦竞争走向独立新加坡执政秩序的政党。
+- [Albatross File / 信天翁档案](entities/AlbatrossFile.md) — 通过建国领袖口述史重访1965年分家的新加坡档案与展览框架。
 - [Chris Bell](entities/ChrisBell.md) — Former technology design leader whose early retirement joins recurring layoff responsibility, family priorities, and self-directed future work.
 - [Clocked Out](entities/ClockedOut.md) — Marketplace reporting series using personal cases to examine voluntary and involuntary exits from the U.S. workforce.
 - [Programme for International Student Assessment (PISA)](entities/PISA.md) — International assessment used to compare 15-year-olds' applied mathematics, science, and reading performance while leaving causal interpretation open.
@@ -16077,6 +16082,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dangote Petroleum Refinery](entities/DangotePetroleumRefinery.md) — Nigerian refinery whose proposed $50bn local listing is a test of scale, ownership access, and market depth.
 
 ## Concepts
+- [Malaysia-Singapore Separation / 新马分家](concepts/MalaysiaSingaporeSeparation.md) — 将殖民遗产、冷战、联邦制度、族群政治、政党竞争与精英谈判结合的1965年分离框架。
+- [Operation Coldstore / 冷藏行动](concepts/OperationColdstore.md) — 合并前由英国、马来亚和新加坡当局联合实施、其安全必要性与政治作用仍有争议的拘捕行动。
+- [Multiracial Malaysia Political Vision / 马来西亚人的马来西亚](concepts/MultiracialMalaysiaPoliticalVision.md) — 以公民国族挑战族群分配、同时承载人民行动党联邦竞争战略的政治主张。
+- [Peaceful Political Separation / 和平政治分离](concepts/PeacefulPoliticalSeparation.md) — 通过谈判、强制力量控制、物质保障和外部环境管理避免大规模战争的分离机制。
+- [Singapore Service-Control Governance / 新加坡服务—管控型治理](concepts/SingaporeServiceControlGovernance.md) — 将广泛公共供给与细密行为、政治、安全和刑罚控制结合的治理模式。
 - [Recurring Layoff Management Burden](concepts/RecurringLayoffManagementBurden.md) — Cumulative strain on managers repeatedly required to decide which employees lose their jobs.
 - [Early Retirement as Work Autonomy](concepts/EarlyRetirementWorkAutonomy.md) — Voluntary exit from formal employment that preserves future work under self-chosen purpose, timing, and conditions.
 - [Cross-National Learning Decline](concepts/CrossNationalLearningDecline.md) — Multicausal frame separating pre-pandemic learning decline, COVID disruption, comparative exceptions, and emerging AI risks.

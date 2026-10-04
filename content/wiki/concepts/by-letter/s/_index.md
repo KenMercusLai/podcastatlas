@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9639
+wiki_total_pages: 9644
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -926,6 +926,9 @@ wiki_pages:
   - key: "SincerityAsRelationshipTrust"
     title: "Sincerity As Relationship Trust / 真诚作为亲密关系信任"
     url: "/wiki/concepts/sincerityasrelationshiptrust/"
+  - key: "SingaporeServiceControlGovernance"
+    title: "Singapore Service-Control Governance / 新加坡服务—管控型治理"
+    url: "/wiki/concepts/singaporeservicecontrolgovernance/"
   - key: "SingleCellAutoencoderRepresentation"
     title: "Single-Cell Autoencoder Representation"
     url: "/wiki/concepts/singlecellautoencoderrepresentation/"

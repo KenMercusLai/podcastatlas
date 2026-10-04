@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12298
+wiki_total_pages: 12302
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1250,6 +1250,9 @@ wiki_pages:
   - key: "Gele"
     title: "各乐 / Gele"
     url: "/wiki/entities/gele/"
+  - key: "GohKengSwee"
+    title: "吴庆瑞 / Goh Keng Swee"
+    url: "/wiki/entities/gohkengswee/"
   - key: "Guyang"
     title: "固阳 / Guyang"
     url: "/wiki/entities/guyang/"

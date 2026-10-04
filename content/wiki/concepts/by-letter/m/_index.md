@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9639
+wiki_total_pages: 9644
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "MakerOperatingSystem"
     title: "Maker Operating System"
     url: "/wiki/concepts/makeroperatingsystem/"
+  - key: "MalaysiaSingaporeSeparation"
+    title: "Malaysia-Singapore Separation / 新马分家"
+    url: "/wiki/concepts/malaysiasingaporeseparation/"
   - key: "MaleEmotionalIntimacyNeed"
     title: "Male Emotional Intimacy Need / 男性情感亲密需要"
     url: "/wiki/concepts/maleemotionalintimacyneed/"
@@ -1544,6 +1547,9 @@ wiki_pages:
   - key: "MultipleExchangeRateRegime"
     title: "Multiple Exchange Rate Regime"
     url: "/wiki/concepts/multipleexchangerateregime/"
+  - key: "MultiracialMalaysiaPoliticalVision"
+    title: "Multiracial Malaysia Political Vision / 马来西亚人的马来西亚"
+    url: "/wiki/concepts/multiracialmalaysiapoliticalvision/"
   - key: "MultiscaleProductivityPlanning"
     title: "Multiscale Productivity Planning"
     url: "/wiki/concepts/multiscaleproductivityplanning/"

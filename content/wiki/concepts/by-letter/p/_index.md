@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9639
+wiki_total_pages: 9644
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "PeaceParleyEntrapment"
     title: "Peace-Parley Entrapment / 和谈诱捕"
     url: "/wiki/concepts/peaceparleyentrapment/"
+  - key: "PeacefulPoliticalSeparation"
+    title: "Peaceful Political Separation / 和平政治分离"
+    url: "/wiki/concepts/peacefulpoliticalseparation/"
   - key: "PeacefulTransferOfPower"
     title: "Peaceful Transfer of Power"
     url: "/wiki/concepts/peacefultransferofpower/"

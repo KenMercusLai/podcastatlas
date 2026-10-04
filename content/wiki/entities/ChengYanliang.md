@@ -9,6 +9,7 @@ sources:
   - 494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj
   - 504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih
   - 502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd
+  - 497-xintianweng-dangan-jiemi-1965nian-xinjiapo-duli-yu-xinma-fenjia-de-taiqian-muhou-lo9kcfdqpzmjsavquvejrxsgouy3
 last_updated: 2026-10-04
 knowledge_schema: synthesis-v1
 ---
@@ -16,10 +17,10 @@ knowledge_schema: synthesis-v1
 # 成言梁 / Cheng Yanliang
 
 ## Overview
-成言梁 / 程衍樑 / 陈彦良 appears as a [[HuzuoHuyou|忽左忽右]] host who guides long-form cultural and historical interviews, including episodes on [[LaiAnArchitect|赉安 / 赖安]], [[Ceuta]], [[WilliamShakespeare|Shakespeare]], Qin-Han military history, Hong Kong media history, and the Challenger disaster.
+成言梁 / 程衍樑 / 陈彦良 appears as a [[HuzuoHuyou|忽左忽右]] host who guides long-form cultural and historical interviews, including episodes on [[LaiAnArchitect|赉安 / 赖安]], [[Ceuta]], [[WilliamShakespeare|Shakespeare]], Qin-Han military history, Hong Kong media history, the Challenger disaster, and Singapore's separation from Malaysia.
 
 ## Current Profile
-Across the bounded sources, Cheng Yanliang works as an interviewer and framing voice who moves from a person, book, place, or anniversary into a larger institutional history. The architecture, Ceuta, Shakespeare, Qin-Han, and Hong Kong media episodes connect concrete subjects to urban memory, imperial geography, political theatre, military systems, and public knowledge. The Challenger episode extends that method into engineering history by using [[LiuYiSpaceHistory|刘怡]] and one disaster to connect technology, budgets, political promises, contractors, organizational culture, and public accountability.
+Across the bounded sources, Cheng Yanliang works as an interviewer and framing voice who moves from a person, book, place, anniversary, archive, or journey into a larger institutional history. The architecture, Ceuta, Shakespeare, Qin-Han, and Hong Kong media episodes connect concrete subjects to urban memory, imperial geography, political theatre, military systems, and public knowledge. The Challenger episode extends that method into engineering history, while the Albatross File episode connects an exhibition and Singapore travel to decolonization, Cold War politics, negotiation, national memory, and urban governance.
 
 ## Key Characteristics
 - Cheng frames Lai An as an underrecognized architect beside better-known Hudec.
@@ -28,7 +29,7 @@ Across the bounded sources, Cheng Yanliang works as an interviewer and framing v
 - He can use a cultural event as the entry point into literary history, English monarchy, and performance traditions.
 - He can use a new book as the entry point into source-critical military history and comparative ancient warfare.
 - His source-bounded hosting role uses individual careers to connect biography, institutions, and public knowledge without making him the independent factual authority.
-- He also uses disaster anniversaries to turn familiar component-failure stories into institutional and organizational questions.
+- He uses disaster anniversaries, archival exhibitions, and travel observation to connect technical or political events with institutions, public memory, and lived order.
 
 ## Evidence
 - Framing evidence: [[498-xunzhao-laian-wei-jindai-shanghai-wutongqu-chuangzao-fengmao-de-faguo-jianzhushi-lskf8bdkhs71lbwjomt3gu1ko8be]] introduces the episode through Cheng's contrast between familiar Hudec and less familiar Lai An.
@@ -40,16 +41,17 @@ Across the bounded sources, Cheng Yanliang works as an interviewer and framing v
 - Military-history framing: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]] introduces Zhang Shiping's book and repeatedly steers the conversation across Qin collapse, Xiang Yu, Liu Bang, Han Xin, Julu, Pengcheng, and Eurasian cavalry comparison.
 - Media-history framing: [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih]] uses Lin Xingzhi's career and Zheng Shiliang's editorial memory to connect financial commentary, newspaper organization, advertiser pressure, ownership change, and Hong Kong public expression.
 - Engineering-history framing: [[502-yuzhou-chaoji-gongcheng-shi-ruhe-kua-diao-de-liuyi-tan-tiaozhanzhehao-shigu-sishi-zhounian-loylfmnxyc-cuajgcn12-v7-ybd]] uses Challenger's fortieth anniversary to connect an O-ring failure with the shuttle program's budget, mission, cadence, contractor, and publicity pressures.
+- State-formation framing: [[497-xintianweng-dangan-jiemi-1965nian-xinjiapo-duli-yu-xinma-fenjia-de-taiqian-muhou-lo9kcfdqpzmjsavquvejrxsgouy3]] begins from the Albatross File exhibition and Cheng's Singapore travel, then connects archival revision to merger, separation, ethnic politics, and service-control governance.
 
 ## Qualifications
-This page is bounded to six episodes. It does not profile Cheng Yanliang's broader hosting work or biography. The earlier source notes and route use 成言梁 / Cheng Yanliang, the Qin-Han transcript uses 陈彦良, and episodes 504 and 502 use 程衍樑; the variants remain on one canonical page rather than being split into duplicates.
+This page is bounded to seven episodes. It does not profile Cheng Yanliang's broader hosting work or biography. The earlier source notes and route use 成言梁 / Cheng Yanliang, the Qin-Han transcript uses 陈彦良, and episodes 504, 502, and 497 use 程衍樑; the variants remain on one canonical page rather than being split into duplicates.
 
 ## What Changed
-- Added the Ceuta episode as evidence of Cheng's news-to-world-history framing role.
-- Added the Shakespeare episode as evidence of Cheng's cultural-event-to-theatre-history framing role.
+- Added Ceuta and Shakespeare as evidence that Cheng can move from current or cultural events into long historical explanation.
 - Added the Qin-Han episode as evidence of Cheng's book-to-military-history framing role and recorded the 陈彦良 source variant.
 - Added the Lin Xingzhi episode as evidence of biography-to-media-history framing and recorded the 程衍樑 variant.
 - Added the Challenger episode as evidence of anniversary-to-engineering-and-institutional-history framing.
+- Added the Albatross File episode as evidence of archive-and-travel-to-state-formation framing.
 
 ## Relationships
 - [[HuzuoHuyou]] - podcast context where Cheng hosts this episode.
@@ -66,3 +68,6 @@ This page is bounded to six episodes. It does not profile Cheng Yanliang's broad
 - [[LinXingzhi]] - media-history subject in episode 504.
 - [[LiuYiSpaceHistory]] - guest whose Challenger interpretation Cheng frames.
 - [[SpaceShuttleChallenger]] - engineering-disaster subject in episode 502.
+- [[XuZhenhua]] - guest whose Singapore historical interpretation Cheng frames.
+- [[AlbatrossFile]] - exhibition used as the entry point into episode 497.
+- [[MalaysiaSingaporeSeparation]] - state-formation process examined in episode 497.

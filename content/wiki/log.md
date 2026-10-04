@@ -28853,6 +28853,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-04] ingest | 497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后
+
+Added source `497-xintianweng-dangan-jiemi-1965nian-xinjiapo-duli-yu-xinma-fenjia-de-taiqian-muhou-lo9kcfdqpzmjsavquvejrxsgouy3`; created [[XuZhenhua]], [[GohKengSwee]], [[PeoplesActionParty]], [[AlbatrossFile]], [[MalaysiaSingaporeSeparation]], [[OperationColdstore]], [[MultiracialMalaysiaPoliticalVision]], [[PeacefulPoliticalSeparation]], and [[SingaporeServiceControlGovernance]]; and resynthesized [[Singapore]], [[Malaysia]], [[HuzuoHuyou]], and [[ChengYanliang]] from their complete preserved evidence inventories. Core synthesis: the 1965 separation was neither pure expulsion nor a solitary secret plan; colonial design, Cold War security, federal inequality, ethnic politics, competing national projects, and Goh Keng Swee's negotiating initiative jointly shaped a relatively peaceful constitutional break. No settled contradiction was adopted. Operation Coldstore's legitimacy, private motives and dialogue, negotiation chronology, constitutional claims, mental-health details, casualty figures, and the exhibition's present political purpose remain source-scoped or contested.
+
 ## [2026-10-04] ingest | 京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权
 
 ## [2026-10-04] ingest | EP163-被互联网冲击的艺术
@@ -29341,6 +29345,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-04] ingest | What it's like to log off from a career in tech
 
 Added source `tech-20260907-0907-mp-tech-pod-128-tech-20260907-0907-mp-tech-pod-128`; created [[ChrisBell]], [[ClockedOut]], [[RecurringLayoffManagementBurden]], and [[EarlyRetirementWorkAutonomy]]. Core synthesis: Chris Bell's exit shows how recurring responsibility for choosing layoffs can make management itself unsustainable, while early retirement can mean control over future work rather than permanent nonwork; family time and household labor become more valuable, but financial uncertainty does not disappear. No settled contradiction was adopted. The labor-force participation trend and the prevalence or causal weight of Bell's experience remain source-scoped. Recurring show and host profiles were not changed because the episode adds topical provenance rather than a durable identity revision. The automatic `wiki/overview.md` did not require revision for this bounded personal case. Downstream synthesis and publish validation were then refreshed.
+
+## [2026-10-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-04] lint | Wiki health check
 

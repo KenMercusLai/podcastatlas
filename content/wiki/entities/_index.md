@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12298
+wiki_total_pages: 12302
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "Alaska"
     title: "Alaska / 阿拉斯加"
     url: "/wiki/entities/alaska/"
+  - key: "AlbatrossFile"
+    title: "Albatross File / 信天翁档案"
+    url: "/wiki/entities/albatrossfile/"
   - key: "Albert"
     title: "Albert"
     url: "/wiki/entities/albert/"

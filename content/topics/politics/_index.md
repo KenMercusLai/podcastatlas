@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3066
+topic_total_pages: 3067
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3679,6 +3679,9 @@ topic_concepts:
   - key: "SiegeEconomyStrategy"
     title: "Siege Economy Strategy"
     url: "/wiki/concepts/siegeeconomystrategy/"
+  - key: "SingaporeServiceControlGovernance"
+    title: "Singapore Service-Control Governance / 新加坡服务—管控型治理"
+    url: "/wiki/concepts/singaporeservicecontrolgovernance/"
   - key: "SituationalCharacterTests"
     title: "Situational Character Tests / 五观识人法"
     url: "/wiki/concepts/situationalcharactertests/"

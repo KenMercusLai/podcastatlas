@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9639
+wiki_total_pages: 9644
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "OperatingRoomPhysiologyManagement"
     title: "Operating Room Physiology Management / 手术室生理管理"
     url: "/wiki/concepts/operatingroomphysiologymanagement/"
+  - key: "OperationColdstore"
+    title: "Operation Coldstore / 冷藏行动"
+    url: "/wiki/concepts/operationcoldstore/"
   - key: "OperationSeaLion"
     title: "Operation Sea Lion"
     url: "/wiki/concepts/operationsealion/"
