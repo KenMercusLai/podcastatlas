@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9696
+wiki_total_pages: 9697
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2612,6 +2612,9 @@ wiki_pages:
   - key: "PetitionRewardLoyaltySignal"
     title: "巧奏取封式忠诚信号 / Petition-Reward Loyalty Signal"
     url: "/wiki/concepts/petitionrewardloyaltysignal/"
+  - key: "PingzhunLawWesternHan"
+    title: "平准法 / Pingzhun Law (Western Han)"
+    url: "/wiki/concepts/pingzhunlawwesternhan/"
   - key: "ProcurementSignalPriceCornering"
     title: "征发信号价格垄断 / Procurement Signal Price Cornering"
     url: "/wiki/concepts/procurementsignalpricecornering/"

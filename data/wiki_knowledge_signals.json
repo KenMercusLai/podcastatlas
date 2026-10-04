@@ -168311,6 +168311,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/pingyuanjunzhujian/"
     },
+    "PingzhunLawWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》362-1｜他被称为皇帝的钱袋子，到底有啥能耐？ [lgT88DvEZpClw47kMB-SlnE6KYff].md",
+          "key": "zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》362-1｜他被称为皇帝的钱袋子，到底有啥能耐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/pingzhunlawwesternhan/"
+    },
     "PinkBungalow": {
       "episode_count": 1,
       "show_count": 1,
@@ -189361,9 +189377,9 @@
       "url": "/wiki/entities/sandalsresorts/"
     },
     "SangHongyangWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
@@ -189406,6 +189422,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》362-1｜他被称为皇帝的钱袋子，到底有啥能耐？ [lgT88DvEZpClw47kMB-SlnE6KYff].md",
+          "key": "zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》362-1｜他被称为皇帝的钱袋子，到底有啥能耐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff/"
         }
       ],
       "updated": "2026-10-05",
@@ -202719,9 +202742,9 @@
       "url": "/wiki/concepts/statecollapsecascade/"
     },
     "StateCommercialMonopolyExtraction": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的 [lslupw7c76POANJ-zzmh59z1iOfR].md",
@@ -202750,6 +202773,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》362-1｜他被称为皇帝的钱袋子，到底有啥能耐？ [lgT88DvEZpClw47kMB-SlnE6KYff].md",
+          "key": "zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》362-1｜他被称为皇帝的钱袋子，到底有啥能耐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff/"
         }
       ],
       "updated": "2026-10-05",

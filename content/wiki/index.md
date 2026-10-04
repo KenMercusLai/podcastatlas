@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》362-1｜他被称为皇帝的钱袋子，到底有啥能耐？](sources/zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff.md) — 桑弘羊以盐铁、平准和物资储备扩充汉武帝财政，同时留下国库成效与市场民生代价必须分开衡量的问题。
 - [《资治通鉴·汉纪》363｜汉武帝见到神仙之后的传说](sources/zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuanshuo-ll1skj3ygm2fop-pz1etkn3qexw5.md) — 公孙卿以东莱神人之说推动汉武帝东巡与扩大求仙；瓠子决口支线则把田蚡阻修、郭昌征工、群臣背薪、导河和宣房宫连成治水与政治动员。
 - [244. 书写给过去、未来的人与神明——中国文明中的书写传统与长期主义](sources/244-shuxie-gei-guoqu-weilai-de-ren-yu-shenming-zhongguo-wenming-zhong-de-shuxie-chuantong-yu-changqi-zhuyi-8225426843-437457.md) — 博物志从甲骨、金文、经学、宋版书与印刷技术讲到《永乐大典》和帝王实录，提出保存、复制、开放、解释并交给未来使用的知识长期主义。
 - [655. The Ku Klux Klan: Terror in the South (Part 2)](sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784.md) — The Rest Is History on first-Klan electoral terror, Black political and institutional targets, Grant-era federal enforcement, Reconstruction rollback, and Lost Cause afterlife.
@@ -16252,6 +16253,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [齐王刘弘 / Liu Hong, Qi King (Western Han)](entities/LiuHongQiKingWesternHan.md) — 汉武帝受宠次子，获封富庶齐地，却少年早逝无子而使封国撤销。
 
 ## Concepts
+- [平准法 / Pingzhun Law (Western Han)](concepts/PingzhunLawWesternHan.md) — 西汉以公共库存、跨区转输和低买高卖调节物价、物资与财政收益的国家市场机制。
 - [Bronze Inscription Posterity / 金文的后世书写](concepts/BronzeInscriptionPosterity.md) — Durable ritual inscription that explicitly addresses descendants through lineage, awards, events, transactions, and perpetual-use formulas.
 - [Classical Interpretation as Civilizational Continuity / 经学解释与文明延续](concepts/ChineseClassicalInterpretationContinuity.md) — Repeated reinterpretation of shared canonical texts that sustains cultural continuity while permitting methodological change, disagreement, and gatekeeping.
 - [Long-Horizon Knowledge Stewardship / 长时段知识托管](concepts/LongHorizonKnowledgeStewardship.md) — Active chain of recording, organizing, copying, explaining, storing, opening, and transferring knowledge for future use and reassessment.

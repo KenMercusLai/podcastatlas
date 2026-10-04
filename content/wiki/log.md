@@ -29926,3 +29926,10 @@ Added source `zizhi-tongjian-hanji-363-hanwudi-jiandao-shenxian-zhihou-de-chuans
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-05] ingest | 《资治通鉴·汉纪》362-1｜他被称为皇帝的钱袋子，到底有啥能耐？
+
+Added source `zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff`; created [[PingzhunLawWesternHan|平准法]]; and resynthesized [[SangHongyangWesternHan|桑弘羊]] and [[StateCommercialMonopolyExtraction|官营商业垄断式汲取]] from their complete preserved evidence inventories. Core synthesis: Sang's salt-iron, transfer, stock, and countercyclical trading measures can represent genuine fiscal and logistical capacity, while later evidence of monopoly prices, forced sales, merchant displacement, and coercive enforcement shows that treasury success and household welfare are separate measures. No settled contradiction was adopted; the reported absence of a formal tax increase does not negate indirect market and livelihood burdens. The automatic `wiki/overview.md` was read for context and not manually rewritten because the durable additions are represented in narrower canonical pages. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,741 sources and retain 789 overview paragraphs.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
