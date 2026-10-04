@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》372-2｜汉宛战争，你以为汉武帝让大舅子领兵那么单纯？](sources/zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh.md) — 汉武帝以大宛远征为李广利制造军功与封侯名义，司马光据此批评用程序外观包装私恩任将；王温舒之死与关东蝗灾补出酷吏和民生代价。
 - [《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！](sources/zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq.md) — 太初元年的明堂祭祀、求仙建宫、太初历改革与匈奴内应支线，展示礼制、历法、建筑和边疆事务如何并置；“上帝”双重词义及历法优先性保留为来源限定。
 - [656. The Ku Klux Klan: Birth of a Nation (Part 3)](sources/656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135.md) — The Rest Is History on the second Klan's formation through Lost Cause media, fraternal ritual, commissioned recruitment, Protestant respectability, early political power, and vigilante violence.
 - [How Hormones Shape Sexual Orientation & Behavior | Dr. Marc Breedlove](sources/how-hormones-shape-sexual-orientation-behavior-dr-marc-breedlove-scim4059718139.md) — Huberman Lab interview on developmental correlates of sexual orientation, group-versus-individual inference, birth order, and the distinction between sexual motor patterns and partner preference.
@@ -3778,6 +3779,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 
 ## Entities
+- [王温舒 / Wang Wenshu (Western Han)](entities/WangWenshuWesternHan.md) — 汉武帝时期以严酷立威、最终因贪诈指控自杀并牵出多户族灭的酷吏。
 - [Thomas Dixon Jr.](entities/ThomasDixonJr.md) — Lost Cause novelist whose racist Reconstruction fiction supplied the narrative and imagery behind The Birth of a Nation.
 - [D. W. Griffith](entities/DWGriffith.md) — Film director whose technical innovation in The Birth of a Nation amplified racist mythology and imagery later adopted by the second Klan.
 - [The Birth of a Nation](entities/BirthOfANation.md) — 1915 film that joined cinematic innovation to white-supremacist Reconstruction propaganda and second-Klan symbolic formation.
@@ -3786,7 +3788,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Elizabeth Tyler](entities/ElizabethTyler.md) — Publicity entrepreneur who co-designed the marketing and sales operation behind the second Klan's rapid growth.
 - [Marc Breedlove](entities/MarcBreedlove.md) — Neuroscientist studying hormonal influences on brain development, sexual behavior, and orientation through population-level human and comparative-animal evidence.
 - [韩嫣 / Han Yan (Western Han)](entities/HanYanWesternHan.md) — 汉武帝幼年伙伴与亲近宠臣，其官位、赏赐、车驾僭越和被王太后处死展示宠幸权力及保护边界。
-- [李延年 / Li Yannian (Western Han)](entities/LiYannianWesternHan.md) — 以音乐、舞蹈、李夫人亲缘和近身宠幸由倡人家庭跃升为协律都尉的西汉宫廷艺人。
+- [李延年 / Li Yannian (Western Han)](entities/LiYannianWesternHan.md) — 以音乐、舞蹈、李夫人亲缘和近身宠幸跃升为协律都尉，并与李广利的军事晋身共同显示李氏家族受宠的不同转化路径。
 - [小范 / Xiao Fan (这病说来话长)](entities/XiaoFanZheBing.md) — Partial-identity clinician guest connecting procedural learning, resuscitation planning, chronic review, and careful public education.
 - [张胜 / Zhang Sheng (Su Wu mission)](entities/ZhangShengSuWuMissionWesternHan.md) — 苏武使团副使，私助虞常刺杀卫律的计划，事败后被供出并在死亡威胁下投降。
 - [虞常 / Yu Chang (Western Han-era)](entities/YuChangWesternHan.md) — 匈奴境内密谋参与者，其失败、被捕与供出张胜触发苏武使团的拘押危机。
@@ -5609,7 +5611,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《中国人口史》 / Zhongguo Renkoushi](entities/ZhongguoRenkoushi.md) — population-history work cited for correcting raw household-register figures.
 - [张献忠 / Zhang Xianzhong](entities/ZhangXianzhong.md) — Late-Ming figure used by Hanji 388-4 as one named actor in Sichuan war-devastation memory.
 - [敬城王 / Jingcheng Wang](entities/JingchengWangMing.md) — Ming royal-family example for imperial-clan population expansion and tax-funded stipend burden.
-- [李广利 / Li Guangli (Western Han)](entities/LiGuangliWesternHan.md) — Western Han general whose Dayuan victory joins siege bargaining and bounded withdrawal with a delegated Yucheng response before later Xiongnu defeat and surrender.
+- [李广利 / Li Guangli (Western Han)](entities/LiGuangliWesternHan.md) — Western Han favorite-family appointee whose Dayuan command converts hoped-for merit into a marquisate before later Xiongnu defeat and surrender.
 - [刘屈氂 / Liu Quli (Western Han)](entities/LiuQuliWesternHan.md) — Late Western Han chancellor ordered to suppress Liu Ju in the Wugu crisis before later in-law succession plotting with Li Guangli around Liu Bo destroys him.
 - [昌邑王刘髆 / Liu Bo, King of Changyi (Western Han)](entities/LiuBoChangyiKingWesternHan.md) — Han Wudi and Lady Li's son, enfeoffed in 97 BCE before becoming the passive succession candidate around whom Li Guangli and Liu Quli align.
 - [李夫人 / Lady Li (Western Han)](entities/LadyLiWesternHan.md) — Han Wudi consort, Li Guangli's sister, and Liu Bo's mother in Hanji 388-1's succession-risk chain.
@@ -16186,7 +16188,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Mark Benioff](entities/MarkBenioff.md) — Salesforce co-founder and CEO represented through grounded enterprise AI, public-market discipline, China data residency, and corporate philanthropy.
 
-- [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity whose siege resilience, elite regicide, threatened horse destruction, and negotiated settlement preserve autonomy under overwhelming Han pressure.
+- [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
 
 ## Concepts
 - [Shangdi in Early Imperial Ritual / 早期帝国礼制中的上帝](concepts/ShangdiInEarlyImperialRitual.md) — bounded frame for reading “上帝” inside early imperial sacrificial and ruler-cult contexts without projecting one modern meaning across periods.
@@ -19148,7 +19150,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [上行下效式政风治理 / Top-Down Exemplar Governance](concepts/TopDownExemplarGovernance.md) — Governance and management pattern where leader behavior, kin restraint, and capital/court norms shape lower-level conduct more durably than isolated rewards or slogans.
 - [外戚预防性约束 / Outer-Relative Preventive Restraint](concepts/OuterRelativePreventiveRestraint.md) — Preventive court-governance pattern where favored kin refuse or are blocked from privilege before outer-relative power hardens, with Wang Mang's Wei-family isolation as a warning case.
 - [摄政委权式权力俘获 / Delegated Regency Capture](concepts/DelegatedRegencyCapture.md) — Regency-control mechanism where relieving a senior dowager of routine affairs moves personnel evaluation and administrative discipline to another actor.
-- [外戚任重职风险 / Outer-Relative Command Appointment Risk](concepts/OuterRelativeCommandAppointmentRisk.md) — Risk that giving imperial in-laws major offices creates a law-versus-kinship conflict and can distort subordinate accountability.
+- [外戚任重职风险 / Outer-Relative Command Appointment Risk](concepts/OuterRelativeCommandAppointmentRisk.md) — Risk that consort-family command distorts selection, turns war into merit manufacture, and creates law-versus-kinship accountability conflicts.
 - [羌地官吏侵扰叛乱触发 / Qiang Official Abuse Rebellion Trigger](concepts/QiangOfficialAbuseRebellionTrigger.md) — Frontier-rebellion pattern where local official abuse and punitive pursuit escalate grievance into coalition revolt.
 - [不可成工程止损 / Infeasible Public-Works Cancellation](concepts/InfeasiblePublicWorksCancellation.md) — Burden-relief pattern where honest field assessment stops a technically infeasible project and replaces it with a cheaper, less lethal logistics method.
 - [Strategic Endurance Military Command](concepts/StrategicEnduranceMilitaryCommand.md) — Weaker-side command pattern combining escape, morale recovery, logistics, army survival, and geopolitical delay.

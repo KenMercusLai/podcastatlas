@@ -11,14 +11,19 @@ sources:
   - zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl
   - zizhi-tongjian-hanji-375-1-zhichang-qishi-bie-rang-ziji-biancheng-yi-tou-chunlu-li-za4h0ixnq4jym8algtxzyy6os
   - zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi
+  - zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh
 last_updated: 2026-10-05
 ---
 
 ## Overview
 
-李广利 / Li Guangli is the Western Han Ershi General whose first campaign against [[DayuanWesternHan|大宛]] is consumed by supply denial, repeated attacks for provisions, hunger, and defeat before the principal target, while his second converts overwhelming state reinforcement, corridor support, intimidation, siege engineering, and bargaining into a negotiated victory and a marquisate. The sequel makes that success morally unstable: it attributes much of the army's loss to abusive command rather than battle or hunger, yet records broad rewards without corresponding accountability. His later 99 BCE Tianshan campaign forms the command background for [[LiLingWesternHan|李陵]]'s deployment, while his failed 90 BCE campaign against [[Xiongnu|匈奴]] becomes one of the background failures behind [[HanWudi|汉武帝]]'s [[LuntaiSelfCriticismPolicyTurn|Luntai self-criticism policy turn]].
+李广利 / Li Guangli is the Western Han favorite-family figure made Ershi General when [[HanWudi|汉武帝]] sought a publicly defensible military-merit path to ennoble the brother of [[LadyLiWesternHan|李夫人]]. His first campaign against [[DayuanWesternHan|大宛]] is consumed by supply denial, repeated attacks for provisions, hunger, and defeat before the principal target, while his second converts overwhelming state reinforcement, corridor support, intimidation, siege engineering, and bargaining into a negotiated victory and a marquisate. The sequel makes that success morally unstable: it attributes much of the army's loss to abusive command rather than battle or hunger, yet records broad rewards without corresponding accountability. His later 99 BCE Tianshan campaign forms the command background for [[LiLingWesternHan|李陵]]'s deployment, while his failed 90 BCE campaign against [[Xiongnu|匈奴]] becomes one of the background failures behind Wudi's [[LuntaiSelfCriticismPolicyTurn|Luntai self-criticism policy turn]].
 
 ## Current Profile
+
+Hanji 372-2 supplies the appointment origin. Wudi favors Lady Li and wants to make her brother Li Guangli a marquis, but the episode treats military merit as the public legitimacy route needed to keep the grant defensible. Li is appointed Ershi General, given six thousand cavalry and tens of thousands of recruited young men, and sent toward the city associated with the prized horses. The direct war trigger remains the failed horse exchange and killing of Han envoys; private favor is therefore a central appointment motive in this source, not a sufficient single-cause explanation of the entire war.
+
+The same source preserves [[SimaGuang|司马光]]'s sharper criticism: outward compliance with a merit rule becomes destructive when the ruler gives national command to a man whose fitness has not been established merely to create the victory needed for private reward. The issue is not only favoritism or formal rule-breaking but the transfer of that political risk to soldiers and the state.
 
 Hanji 373-2 supplies the missing first Dayuan campaign. Western Regions states close their gates and deny food and water, so Li attacks towns for provisions and leaves those he cannot take quickly. He reaches [[YuchengWesternHan|郁成]] with a small, hungry, exhausted force, loses heavily, and returns to Dunhuang with fewer than one or two tenths of the original army. Li's request to pause and return with more troops is an operationally grounded admission that the army cannot continue; Wudi's order to execute soldiers who cross Yumen Pass prevents a normal withdrawal and leaves the survivors at Dunhuang.
 
@@ -40,15 +45,20 @@ Hanji 389-2 then treats the failed expedition as central to the Luntai edict's s
 
 ## Key Characteristics
 
+- Favorite-family beneficiary whose first major command is presented as a route for converting imperial private favor into publicly legible military merit and a future marquisate.
 - Western Han general whose first Dayuan campaign culminates through corridor denial and hunger before the target, while the reinforced second campaign reaches a limited political settlement and a Haixi marquisate despite losses attributed substantially to commanders' greed and abuse.
 - Later commander whose 99 BCE campaign moves from initial captures to encirclement and heavy return losses before a final 90 BCE expedition.
 - Maternal-uncle supporter of Liu Bo's succession claim through Lady Li's family line.
 - Politically exposed by his in-law alignment with Liu Quli and alleged prayers for Liu Bo's accession.
 - Battlefield choices are shaped by family arrest, fear of return, and the hope that new merit can reverse punishment.
-- Campaign failure produces deaths, captures, flight, and surrender, making him a cost marker in Han Wudi's later self-criticism.
-- Captured and initially honored by Xiongnu, then killed after Wei Lü manipulates ritual illness language to have him sacrificed.
+- Campaign failure produces deaths, captures, flight, and surrender, making him a cost marker in Han Wudi's later self-criticism; after initial honor among Xiongnu, he is killed when Wei Lü manipulates ritual illness language to have him sacrificed.
 
 ## Evidence
+
+Appointment, favor, and merit legitimacy:
+- [[zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh|Hanji 372-2]] says Wudi wants to ennoble Lady Li's brother but uses command against Dayuan as the route for Li Guangli to acquire publicly defensible military merit.
+- [[zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh|Hanji 372-2]] identifies Li as Ershi General and gives the initial force as six thousand cavalry plus tens of thousands of recruited young men.
+- [[zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh|Hanji 372-2]] attributes to Sima Guang the judgment that using an untested favorite in national command to manufacture merit is worse than openly granting an unearned title.
 
 First Dayuan failure:
 - [[zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi|Hanji 373-2]] says Li attacks intermediate states for provisions after they deny food and water, reaches Yucheng with a depleted force, loses, and returns to Dunhuang with fewer than one or two tenths of the original army.
@@ -90,14 +100,13 @@ Death after capture:
 
 ## Qualifications
 
-This page is bounded to seven podcast sources. Hanji 373-2 supplies the first Dayuan expedition; Hanji 374-2, Hanji 375-1, and Hanji 375-2 supply the reinforced second campaign, Yucheng follow-up branch, and aftermath, but the set still lacks the full cause of war and independent cost accounting. The closed-gate sequence, force and casualty totals, Wudi's exact order, casualty attribution, rewards, noble motives, horse counts, and political outcomes remain episode-attributed. Hanji 377-1 supplies the later Tianshan campaign and Li Ling deployment background; Hanji 388-1 supplies the family-politics and surrender chain; Hanji 389-2 supplies the Luntai-cost and sacrificial-death aftermath.
+This page is bounded to eight podcast sources. Hanji 372-2 supplies the appointment and claimed favorite-family ennoblement motive; it does not prove that private favor was the only cause of war or independently establish Li's prior military fitness, the exact merit rule, force composition, or Sima Guang wording. Hanji 373-2 supplies the first Dayuan expedition; Hanji 374-2, Hanji 375-1, and Hanji 375-2 supply the reinforced second campaign, Yucheng follow-up branch, and aftermath, but the set still lacks independent cost accounting. The closed-gate sequence, force and casualty totals, Wudi's exact order, casualty attribution, rewards, noble motives, horse counts, and political outcomes remain episode-attributed. Hanji 377-1 supplies the later Tianshan campaign and Li Ling deployment background; Hanji 388-1 supplies the family-politics and surrender chain; Hanji 389-2 supplies the Luntai-cost and sacrificial-death aftermath.
 
 ## What Changed
 
-- Added the first Dayuan expedition's operational sequence: corridor denial, attacks for provisions, culmination at Yucheng, attempted pause, and forced stay at Dunhuang.
-- Reframed the second expedition's scale as a response to a failed support system, not simply a larger troop allocation.
-- Added the Dayuan return ledger: abusive command as a reported cause of loss, followed by Li's Haixi marquisate and broad rewards without corresponding accountability.
-- Qualified the earlier strategic-victory synthesis without conflating it with Li's later Tianshan and Xiongnu campaigns.
+- Added the appointment origin: Wudi's favor toward Lady Li's family, the hoped-for marquisate, and military command as a merit-legitimation route.
+- Added Sima Guang's distinction between formal compliance and responsible selection: manufacturing merit through an untested commander transfers private favoritism's risk to the army.
+- Kept the appointment motive distinct from the war's other stated causes, including the horse-and-envoy conflict and later Western Regions strategy.
 
 ## Relationships
 
@@ -115,3 +124,4 @@ This page is bounded to seven podcast sources. Hanji 373-2 supplies the first Da
 - [[DecisiveResourceCommitment|决断型资源投入]] - campaign pattern explaining why the second expedition succeeds after the first failure while leaving proportionality unresolved.
 - [[ShangguanJieWesternHan|上官桀]] - subordinate sent to attack Yucheng after the detached Han unit's defeat.
 - [[YuchengWesternHan|郁成]] - smaller polity in the campaign's follow-up branch.
+- [[OuterRelativeCommandAppointmentRisk|外戚任重职风险]] - structural framework for why consort-family command creates competence and accountability risk even before the campaign result is known.

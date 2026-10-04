@@ -9,14 +9,17 @@ sources:
   - zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh
   - zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre
   - zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi
+  - zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh
 last_updated: 2026-10-05
 ---
 
 ## Overview
 
-大宛 / Dayuan is a Western Regions polity targeted by [[HanWudi|汉武帝]] in a campaign whose setting and stated rationale develop from Hanji 373-1 through Hanji 374-2. Hanji 373-1 begins with distance as defense; Hanji 373-2 shows that defense operating through intermediate states that deny supplies and force [[LiGuangliWesternHan|李广利]] to spend his first army before reaching Dayuan's capital; Hanji 374-1 frames Dayuan's noncooperation as an obstacle to Han's effort to align Western Regions states against [[Xiongnu|匈奴]] and as a test of imperial credibility; Hanji 374-2 centers its famous horses, fortified capital, relations with [[Kangju|康居]], and elite decision to kill King Wugua and negotiate rather than risk continued siege.
+大宛 / Dayuan is a Western Regions polity targeted by [[HanWudi|汉武帝]] after a failed horse exchange, violence against Han envoys, optimistic intelligence, Western Regions ambition, and a court appointment that also promised military merit for [[LiGuangliWesternHan|李广利]]. Hanji 373-1 begins with distance as defense; Hanji 373-2 shows that defense operating through intermediate states that deny supplies and force Li to spend his first army before reaching Dayuan's capital; Hanji 374-1 frames Dayuan's noncooperation as an obstacle to Han's effort to align Western Regions states against [[Xiongnu|匈奴]] and as a test of imperial credibility; Hanji 374-2 centers its famous horses, fortified capital, relations with [[Kangju|康居]], and elite decision to kill King Wugua and negotiate rather than risk continued siege.
 
 ## Current Profile
+
+Hanji 372-2 supplies the immediate Han-side trigger and appointment layer. The episode says a horse exchange fails and Han envoys are killed, after which Wudi reacts in anger. A former envoy's confidence that Dayuan is weak and Zhao Ponu's earlier small-force success in Loulan encourage underestimation. The host also argues that sending Li Guangli lets Wudi seek a Dayuan victory while manufacturing the military merit needed to ennoble Lady Li's brother. These are Han-centered explanations of why Dayuan becomes a target, not direct evidence of Dayuan's own account or proof that any one motive is sufficient.
 
 Hanji 373-1 supplies the logistical premise before the strategic dispute. The host locates Dayuan in the Ferghana Valley, gives the simple Chang'an distance as more than 3,300 kilometers, and describes deserts, mountains, and sparsely inhabited terrain between the two states. Distance therefore functions as a defensive asset by raising Han's transport and sustainment cost, but the measurement and route description remain episode-attributed rather than a reconstructed ancient itinerary.
 
@@ -34,7 +37,7 @@ Hanji 375-2 shows that the installed settlement is unstable but not simply rever
 
 ## Key Characteristics
 
-- Distant Western Regions polity targeted after conflict over envoys and highly valued horses, with the Ferghana route and supply-denying intermediate states making logistics part of its effective defense.
+- Distant Western Regions polity targeted after conflict over envoys and highly valued horses, with optimistic intelligence and Li Guangli's hoped-for merit shaping Han's initial decision while the Ferghana route and supply-denying intermediate states make logistics part of Dayuan's effective defense.
 - Fortified capital whose external water supply can be diverted but whose grain and well-digging capacity limit the effect of blockade.
 - Political elite willing to remove its own king to preserve the state under siege.
 - Negotiating actor that combines concessions with threats to destroy the very prize Han seeks.
@@ -44,6 +47,7 @@ Hanji 375-2 shows that the installed settlement is unstable but not simply rever
 
 ## Evidence
 
+- Immediate trigger and layered Han motives: [[zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh|Hanji 372-2]] says the horse exchange fails, Han envoys are killed, optimistic intelligence encourages a small expedition, and Wudi's wish to create ennobling merit for Li Guangli influences the command choice.
 - Distance as defense: [[zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre|Hanji 373-1]] locates Dayuan in the Ferghana Valley and says more than 3,300 kilometers plus deserts, mountains, and sparse settlement separate it from Chang'an.
 - Resistant corridor: [[zizhi-tongjian-hanji-373-2-liguangli-shouzhan-dayuanguo-da-de-you-duo-can-ltocao5tfkxnpbxhotnqpg72t9hi|Hanji 373-2]] says intermediate states deny food and water, forcing repeated attacks for provisions before the depleted Han army loses at Yucheng and retreats.
 - Strategic prelude: [[zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh|Hanji 374-1]] says Wudi continues the campaign despite advice to prioritize Xiongnu, while the host interprets Dayuan as part of a wider Western Regions alignment problem.
@@ -55,12 +59,12 @@ Hanji 375-2 shows that the installed settlement is unstable but not simply rever
 
 ## Qualifications
 
-This profile is bounded to five short popular-history sources and does not reconstruct Dayuan's full political history, geography, urban economy, horse breeding, or internal factions. Hanji 373-1's Ferghana placement, distance estimate, and terrain description are introductory episode claims; Hanji 373-2's closed-gate sequence and casualty ratio describe the Han experience but do not prove that Dayuan coordinated every intermediate state's conduct; Hanji 374-1's alliance and flank-pressure rationale is a Han-centered interpretation rather than direct evidence of Dayuan's motives. Wugua, Meicai, and Chanfeng name forms, force and horse totals, noble motives, hostage arrangements, and annual tribute remain source-scoped. All five episodes are strongly Han-centered, so Dayuan civilian experience and losses are largely absent.
+This profile is bounded to six short popular-history sources and does not reconstruct Dayuan's full political history, geography, urban economy, horse breeding, or internal factions. Hanji 372-2's horse-and-envoy trigger, intelligence, and favorite-family appointment motive are Han-centered episode claims and do not establish Dayuan's own account; Hanji 373-1's Ferghana placement, distance estimate, and terrain description are introductory episode claims; Hanji 373-2's closed-gate sequence and casualty ratio describe the Han experience but do not prove that Dayuan coordinated every intermediate state's conduct; Hanji 374-1's alliance and flank-pressure rationale is another Han-centered interpretation rather than direct evidence of Dayuan's motives. Wugua, Meicai, and Chanfeng name forms, force and horse totals, noble motives, hostage arrangements, and annual tribute remain source-scoped. All six episodes are strongly Han-centered, so Dayuan civilian experience and losses are largely absent.
 
 ## What Changed
 
-- Added the first expedition as evidence that intermediate-state supply denial gave Dayuan defensive depth before its capital was reached.
-- Qualified any implication that the campaign began only with the later siege or that the intermediate resistance was proven to be centrally coordinated by Dayuan.
+- Added the failed horse exchange, envoy killing, optimistic intelligence, and Li Guangli merit-making appointment as distinct Han-side causes before the first expedition.
+- Qualified the new motive layer as Han-centered and multi-causal rather than treating favorite-family ennoblement as the whole explanation for war.
 
 ## Relationships
 
