@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》358-1｜深度拆解司马相如](sources/zizhi-tongjian-hanji-358-1-shendu-chaijie-simaxiangru-lg5xoqse-j7_hoap-kquae7-uf-h.md) — 以“情圣／渣男”、文学楷模与求官争议并置司马相如，并把其早期侍从经历、读书偏好和梁孝王文士圈还原为辞赋成长背景。
 - [《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？](sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k.md) — 杨仆提议东迁函谷关，被节目解释为个人名位与扩大关内控制的结合；余善则在汉军压力、内部倒戈与刺杀后败亡，随后当地人口被迁往江淮。
 - [368-为什么每一个时代的文化精英都认为文化要完了？](sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe.md) — 独树不成林以柏拉图、罗马道德批评及近现代思想家比较文化衰亡焦虑，区分具体损失、制度机制、进步权衡与整体崩坏判断。
 - [《资治通鉴·汉纪》357-2｜唉，一片真心不如钱重要](sources/zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu.md) — 西域对匈奴与汉使的不同待遇暴露距离、投送力与使团治理的共同约束；卜式则因批评盐铁、均输平准扰民而被移出御史大夫之位。

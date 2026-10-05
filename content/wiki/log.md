@@ -30037,3 +30037,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》358-1｜深度拆解司马相如
+
+Added source `zizhi-tongjian-hanji-358-1-shendu-chaijie-simaxiangru-lg5xoqse-j7_hoap-kquae7-uf-h` and resynthesized [[SimaXiangru|司马相如]] from its complete preserved evidence inventory. Core synthesis: Sima's literary achievement is presented not as isolated genius but as a path through reading, an early Han Jingdi attendant post, and Liang Xiao Wang's Suiyang circle before later court visibility; polarized “情圣／渣男” labels remain reception frames rather than sufficient biography. No settled contradiction was adopted. The purchased-office mechanism, precise duties, work chronology, circle influence, deathbed scene, and judgments attributed to later writers remain source-scoped. Hanji 358-1's placement of both 《子虚赋》 and 《上林赋》 in the Liang setting is recorded alongside Hanji 358-2's ambiguous sequence rather than silently harmonized. The automatic `wiki/overview.md` was read for context and not manually rewritten because the durable addition is represented in the narrower canonical page. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,755 sources and retain 789 overview paragraphs. Changed-page links, index coverage, identities, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

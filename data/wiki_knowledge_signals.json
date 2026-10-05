@@ -197297,9 +197297,9 @@
       "url": "/wiki/entities/simaqian/"
     },
     "SimaXiangru": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生 [lq3O_13h2iN89qWH0dVcHCzLvRqk].md",
@@ -197328,6 +197328,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》",
           "url": "/wiki/sources/zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》358-1｜深度拆解司马相如 [lg5XoQsE-J7_HoAp-kQuAE7-uF-h].md",
+          "key": "zizhi-tongjian-hanji-358-1-shendu-chaijie-simaxiangru-lg5xoqse-j7_hoap-kquae7-uf-h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》358-1｜深度拆解司马相如",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-358-1-shendu-chaijie-simaxiangru-lg5xoqse-j7_hoap-kquae7-uf-h/"
         }
       ],
       "updated": "2026-10-05",
