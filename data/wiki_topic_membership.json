@@ -5822,6 +5822,13 @@
       "url": "/topics/science/"
     }
   ],
+  "654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784": [
     {
       "key": "history",
@@ -88480,6 +88487,13 @@
     }
   ],
   "WilliamEwartGladstone": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "WilliamGannawayBrownlow": [
     {
       "key": "politics",
       "label": "Politics",

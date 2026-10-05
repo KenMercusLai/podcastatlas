@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [654. The Ku Klux Klan: The Rise of Evil (Part 1)](sources/654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794.md) — The Rest Is History on the first Klan's Pulaski origins, fraternal hierarchy, theatrical intimidation, political turn, racial terror, and local enforcement failure during Reconstruction.
 - [How Matt Mahan Thinks He Can Save California](sources/all-in-with-chamath-jason-sacks-friedberg-how-matt-mahan-thinks-he-can-save-california-40578730.md) — All-In interview on Mahan's outcome-based California campaign across budgets, housing, homelessness, energy, insurance, pensions, healthcare, taxation, and immigration.
 - [EP 34: DeepSeek R1 vs GPT-4: The $6M Model That Changed AI Economics](sources/ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics.md) — Data Science With Sam explainer on DeepSeek R1's efficiency shock, open-weight deployment, compute-moat pressure, export controls, and enterprise data sovereignty.
 - [The Best Vitality & Health Protocols | Dr. Rhonda Patrick](sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395.md) — Huberman Lab interview on exercise, adaptive stress, meal timing, visceral fat, inflammation, and evidence-bounded supplement priorities.
@@ -3825,6 +3826,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [William Gannaway Brownlow](entities/WilliamGannawayBrownlow.md) — Tennessee governor who defended Republican Reconstruction and Black voting through contested state and federal enforcement.
+- [George W. Gordon](entities/GeorgeWGordon.md) — Former Confederate officer credited with codifying the first Klan's ranks and anti-Reconstruction membership commitments.
 - [Matt Mahan](entities/MattMahan.md) — San Jose mayor and California gubernatorial candidate advocating outcome-based budgeting, housing supply, basic services, and pragmatic Democratic reform.
 - [San Jose, California](entities/SanJoseCalifornia.md) — Municipal proof point in Mahan's campaign for dashboards, lower-cost shelter, faster housing approvals, and performance accountability.
 - [IREN](entities/IREN.md) — Energy and data-center operator shifting part of its Bitcoin-mining infrastructure toward AI compute while emphasizing power, construction, labor, and latency.

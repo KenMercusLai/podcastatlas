@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3113
+topic_total_pages: 3114
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7574,6 +7574,9 @@ topic_entities:
   - key: "WilliamEwartGladstone"
     title: "William Ewart Gladstone"
     url: "/wiki/entities/williamewartgladstone/"
+  - key: "WilliamGannawayBrownlow"
+    title: "William Gannaway Brownlow"
+    url: "/wiki/entities/williamgannawaybrownlow/"
   - key: "WilliamLanday"
     title: "William Landay"
     url: "/wiki/entities/williamlanday/"

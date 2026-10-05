@@ -12845,9 +12845,9 @@
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrewJohnson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "173.弹劾：如何罢免一位总统 [963141809].md",
@@ -12862,6 +12862,13 @@
           "show": "The Rest Is History",
           "title": "203. American Civil War: Aftermath & Legacy (Part 4)",
           "url": "/wiki/sources/203-american-civil-war-aftermath-legacy-part-4-glt3990109453/"
+        },
+        {
+          "episode_file": "GLT2601231794 [GLT2601231794].md",
+          "key": "654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794",
+          "show": "The Rest Is History",
+          "title": "654. The Ku Klux Klan: The Rise of Evil (Part 1)",
+          "url": "/wiki/sources/654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794/"
         }
       ],
       "updated": "2026-10-01",
@@ -87866,6 +87873,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/georgewbush/"
     },
+    "GeorgeWGordon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2601231794 [GLT2601231794].md",
+          "key": "654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794",
+          "show": "The Rest Is History",
+          "title": "654. The Ku Klux Klan: The Rise of Evil (Part 1)",
+          "url": "/wiki/sources/654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/georgewgordon/"
+    },
     "GeorgeWallace": {
       "episode_count": 2,
       "show_count": 1,
@@ -123877,9 +123900,9 @@
       "url": "/wiki/entities/krugernationalpark/"
     },
     "KuKluxKlan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4147819855 [GLT4147819855].md",
@@ -123901,6 +123924,13 @@
           "show": "The Rest Is History",
           "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
           "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
+        },
+        {
+          "episode_file": "GLT2601231794 [GLT2601231794].md",
+          "key": "654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794",
+          "show": "The Rest Is History",
+          "title": "654. The Ku Klux Klan: The Rise of Evil (Part 1)",
+          "url": "/wiki/sources/654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794/"
         }
       ],
       "updated": "2026-10-05",
@@ -153944,9 +153974,9 @@
       "url": "/wiki/entities/natesoares/"
     },
     "NathanBedfordForrest": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2904395784 [GLT2904395784].md",
@@ -153954,6 +153984,13 @@
           "show": "The Rest Is History",
           "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
           "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
+        },
+        {
+          "episode_file": "GLT2601231794 [GLT2601231794].md",
+          "key": "654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794",
+          "show": "The Rest Is History",
+          "title": "654. The Ku Klux Klan: The Rise of Evil (Part 1)",
+          "url": "/wiki/sources/654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794/"
         }
       ],
       "updated": "2026-10-05",
@@ -181404,9 +181441,9 @@
       "url": "/wiki/concepts/reconstructionconstitutionalafterlife/"
     },
     "ReconstructionElectoralTerror": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2904395784 [GLT2904395784].md",
@@ -181414,6 +181451,13 @@
           "show": "The Rest Is History",
           "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
           "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
+        },
+        {
+          "episode_file": "GLT2601231794 [GLT2601231794].md",
+          "key": "654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794",
+          "show": "The Rest Is History",
+          "title": "654. The Ku Klux Klan: The Rise of Evil (Part 1)",
+          "url": "/wiki/sources/654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794/"
         }
       ],
       "updated": "2026-10-05",
@@ -181436,9 +181480,9 @@
       "url": "/wiki/concepts/reconstructionfederalenforcement/"
     },
     "ReconstructionRollback": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3666140136 [GLT3666140136].md",
@@ -181460,6 +181504,13 @@
           "show": "The Rest Is History",
           "title": "655. The Ku Klux Klan: Terror in the South (Part 2)",
           "url": "/wiki/sources/655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784/"
+        },
+        {
+          "episode_file": "GLT2601231794 [GLT2601231794].md",
+          "key": "654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794",
+          "show": "The Rest Is History",
+          "title": "654. The Ku Klux Klan: The Rise of Evil (Part 1)",
+          "url": "/wiki/sources/654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794/"
         }
       ],
       "updated": "2026-10-05",
@@ -230245,6 +230296,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/williamfranklin/"
+    },
+    "WilliamGannawayBrownlow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2601231794 [GLT2601231794].md",
+          "key": "654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794",
+          "show": "The Rest Is History",
+          "title": "654. The Ku Klux Klan: The Rise of Evil (Part 1)",
+          "url": "/wiki/sources/654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/williamgannawaybrownlow/"
     },
     "WilliamGolding": {
       "episode_count": 1,

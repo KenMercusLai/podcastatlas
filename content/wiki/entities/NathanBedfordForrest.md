@@ -4,6 +4,7 @@ type: entity
 tags: [person, confederacy, ku-klux-klan, reconstruction]
 sources:
   - 655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784
+  - 654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794
 last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
@@ -12,15 +13,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Nathan Bedford Forrest is the former Confederate general presented by the source as an early national leader of the first Ku Klux Klan who ordered members to abandon masks and violence as Tennessee repression made continued organization dangerous.
+Nathan Bedford Forrest is the former Confederate general presented by the sources as the first Ku Klux Klan's reported Grand Wizard, whose later order to abandon masks and violence helped end the Tennessee organization without controlling decentralized groups elsewhere.
 
 ## Current Profile
 
-The bounded source places Forrest between organization and decentralization. It associates him with leadership of the first [[KuKluxKlan|Klan]], but also shows the limit of that authority: his 1869 disbandment order contributed to retreat in Tennessee while independent groups continued terror elsewhere.
+The bounded sources place Forrest between hierarchy and decentralization. [[654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794]] identifies him as the first [[KuKluxKlan|Klan]]'s Grand Wizard after [[GeorgeWGordon|George W. Gordon]] codified an elaborate rank structure. [[655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784]] then shows the limit of that authority: his 1869 disbandment order contributed to retreat in Tennessee while independent groups continued terror elsewhere.
 
 ## Key Characteristics
 
-- Former Confederate general linked to early first-Klan leadership.
+- Former Confederate general identified as the first Klan's reported Grand Wizard.
 - Figure whose authority was meaningful in Tennessee but not equivalent to centralized national command.
 - Issued an order to destroy disguises and end whippings, beatings, and lynchings under militia pressure.
 - Illustrates how repression can force an armed network to retreat without eliminating its wider political project.
@@ -29,7 +30,8 @@ The bounded source places Forrest between organization and decentralization. It 
 
 ### Leadership and retreat
 
-- [[655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784]] links Forrest to first-Klan leadership and its 1869 Tennessee disbandment.
+- [[654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794]] places Forrest at the top of the Prescript's reported hierarchy during the movement's expansion.
+- [[655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784]] links that leadership to the 1869 Tennessee disbandment.
 
 ### Limits of command
 
@@ -37,14 +39,16 @@ The bounded source places Forrest between organization and decentralization. It 
 
 ## Qualifications
 
-This is a source-bounded Reconstruction profile, not a full account of Forrest's slave-trading, Confederate career, Fort Pillow, postwar politics, or the historiographical debate over his exact Klan office and motives. An order to stop violence under state pressure does not erase responsibility for association with the movement or establish a moral repudiation of white supremacy.
+This is a source-bounded Reconstruction profile, not a full account of Forrest's slave-trading, Confederate career, Fort Pillow, postwar politics, or the historiographical debate over his exact Klan office and motives. The Grand Wizard designation is reported by the episode rather than independently resolved here. An order to stop violence under state pressure does not erase responsibility for association with the movement or establish a moral repudiation of white supremacy.
 
 ## What Changed
 
-- Created the page with the episode's qualified account of first-Klan leadership and disbandment.
+- Added the reported Grand Wizard role and its relationship to the Prescript's hierarchy.
+- Preserved the distinction between symbolic leadership and operational control of local dens.
 
 ## Relationships
 
 - [[KuKluxKlan]] - organization with which the source associates his postwar leadership.
+- [[GeorgeWGordon]] - Prescript author whose formal hierarchy named Forrest's reported office.
 - [[ReconstructionElectoralTerror]] - coercive political program carried by the movement he was linked to.
 - [[ReconstructionFederalEnforcement]] - wider state-capacity response that later suppressed the first Klan in South Carolina.

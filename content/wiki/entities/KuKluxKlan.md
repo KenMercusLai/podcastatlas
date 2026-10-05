@@ -6,6 +6,7 @@ sources:
   - 657-the-ku-klux-klan-american-fascists-part-4-glt4147819855
   - 656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135
   - 655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784
+  - 654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794
 last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,9 @@ The Ku Klux Klan names successive U.S. white-supremacist movements: a Reconstruc
 
 ## Current Profile
 
-The first Klan began in Pulaski, Tennessee, in 1866 as a Confederate veterans' club and became a decentralized armed movement serving white-supremacist and Democratic restoration. It used [[ReconstructionElectoralTerror]] against Black voters, organizers, officeholders, schools, churches, landowners, and Republican institutions. [[NathanBedfordForrest]]'s disbandment order helped end the Tennessee organization, but did not control local groups elsewhere. In York County, captured local justice made protection ineffective until [[UlyssesSGrant|Grant]]'s administration coordinated federal law, troops, investigation, and arrests.
+The first Klan began in Pulaski, Tennessee, in 1866 as a Confederate veterans' club built around costumes, secrecy, mock ritual, and invented titles. [[GeorgeWGordon|George W. Gordon]]'s Prescript formalized ranks and opposition to Black equality and Republican Reconstruction, while [[NathanBedfordForrest]] became its reported Grand Wizard. The hierarchy supported a shared identity without creating reliable central command.
+
+As Black communities built schools, churches, Union Leagues, voting strength, and Republican institutions, the Klan became a decentralized armed movement serving white-supremacist and Democratic restoration. Its parades, ghost performances, notices, and disguises were not separate from violence: they made the threat of raids, whipping, rape, hanging, shooting, and murder visible. [[WilliamGannawayBrownlow|William Gannaway Brownlow]]'s Tennessee government tried to defend voting rights through federal or militia force. Forrest's later disbandment order helped end the Tennessee organization, but did not control local groups elsewhere. In York County, captured local justice made protection ineffective until [[UlyssesSGrant|Grant]]'s administration coordinated federal law, troops, investigation, and arrests.
 
 The second Klan was a new 1915 organization rather than a continuous survival. [[WilliamJosephSimmons]] combined remembered first-Klan lineage with American fraternal culture and symbols transmitted through [[ThomasDixonJr|Thomas Dixon Jr.]] and [[BirthOfANation|*The Birth of a Nation*]]. [[EdwardYoungClarke]] and [[ElizabethTyler]] then converted the small project into a territorial, commission-driven recruitment business.
 
@@ -28,7 +31,7 @@ Under [[HiramWesleyEvans]], the national organization sought respectability and 
 
 ## Key Characteristics
 
-- The first Klan used decentralized terror to suppress Black citizenship, Republican organization, labor independence, and community institutions.
+- The first Klan converted a Confederate veterans' fraternal club, ritual, costume, and written hierarchy into decentralized terror against Black citizenship and Republican institutions.
 - The second Klan defined authentic Americanness through exclusion of African Americans, Jews, Catholics, immigrants, and other constructed outsiders.
 - Lost Cause fiction, film imagery, and fraternal ritual created an invented but emotionally forceful claim of continuity between the first and second organizations.
 - Both combined ordinary social or political forms with secrecy, hierarchy, intimidation, and vigilante force, but their organization and scale differed.
@@ -38,6 +41,7 @@ Under [[HiramWesleyEvans]], the national organization sought respectability and 
 
 ## Evidence
 
+- First-Klan origin and militarization: [[654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794]] traces the Pulaski club, Gordon's Prescript, Forrest's reported leadership, Brownlow's response, and the turn from theatrical intimidation to systematic violence by 1868.
 - First-Klan terror and suppression: [[655-the-ku-klux-klan-terror-in-the-south-part-2-glt2904395784]] traces decentralized election violence, attacks on [[AbrahamColby]] and [[EliasHill]], institutional capture in York County, and federal suppression in 1871-1872.
 - Second-Klan founding and invented tradition: [[656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135]] traces Simmons's 1915 relaunch, Stone Mountain cross-burning, and adoption of Dixon-Griffith imagery.
 - Commercial recruitment and social form: [[656-the-ku-klux-klan-birth-of-a-nation-part-3-glt9883414135]] describes Klegels, fees, regalia, clergy, Masonic contacts, and local grievance marketing; [[657-the-ku-klux-klan-american-fascists-part-4-glt4147819855]] adds mass events, newspapers, family entertainment, and women's organizing.
@@ -47,18 +51,19 @@ Under [[HiramWesleyEvans]], the national organization sought respectability and 
 
 ## Qualifications
 
-The page is grounded in three synthetic podcast episodes rather than a complete institutional history. The first Klan was decentralized, and labels such as “armed wing” describe political function without proving one command hierarchy. Membership, crowd, officeholder, revenue, casualty, and violence estimates are source-attributed. The relative weight of ideology, terror, entertainment, film, religion, class, gender, sales incentives, policy success, repression, scandal, and economic change remains debated, and local Klans differed. Calling the second Klan fascist depends on the definition used and should not erase its specifically U.S. histories of race, Protestant nativism, Reconstruction, and vigilantism.
+The page is grounded in four synthetic podcast episodes rather than a complete institutional history. The first Klan was decentralized, and its Prescript and titles do not prove one command hierarchy. Membership, county-coverage, crowd, officeholder, revenue, casualty, and violence estimates are source-attributed. The relative weight of ideology, terror, theater, film, religion, class, gender, sales incentives, policy success, repression, scandal, and economic change remains debated, and local Klans differed. Calling the second Klan fascist depends on the definition used and should not erase its specifically U.S. histories of race, Protestant nativism, Reconstruction, and vigilantism.
 
 ## What Changed
 
-- Added the first Klan's 1866 origin, decentralized organization, electoral strategy, and attacks on Black institutions.
-- Added Tennessee disbandment and York County federal suppression while preserving the limit of local operational victory.
-- Reframed 1915 continuity as a Lost Cause and media-mediated claim rather than institutional survival.
-- Distinguished first-Klan electoral terror from the second Klan's commercial mass-membership machine.
+- Added the first Klan's fraternal origin, Prescript, theatrical intimidation, and 1866-1868 turn to systematic violence.
+- Clarified that formal hierarchy and a reported Grand Wizard coexisted with decentralized local command.
+- Added Brownlow's protection strategy and the local-law-enforcement gap that made terror durable.
 
 ## Relationships
 
 - [[HiramWesleyEvans]] - national leader who pursued organizational reform and mainstream political influence.
+- [[GeorgeWGordon]] - author credited with formalizing first-Klan ranks and membership commitments.
+- [[WilliamGannawayBrownlow]] - Tennessee governor who sought coercive protection for Reconstruction government and Black voting.
 - [[NathanBedfordForrest]] - early first-Klan figure whose disbandment order had limited geographic reach.
 - [[AbrahamColby]] - Georgia legislator tortured for Republican voting and Black political organization.
 - [[EliasHill]] - York County preacher and educator attacked as a community leader.
