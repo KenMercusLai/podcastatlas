@@ -51312,6 +51312,36 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/danelawsettlement/"
     },
+    "DanerCommandery": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》471｜《弃珠崖议》背后，汉朝为何会放弃征服欲？ [lqf0rzjMdzvCJvBtrnrrjMENoY6l].md",
+          "key": "zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》471｜《弃珠崖议》背后，汉朝为何会放弃征服欲？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史 [lhVp37w_0Z8rEbKka6SquGFgLEDp].md",
+          "key": "zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？ [ltRRZ2RwuR7-GYwNON_8khWpMCHf].md",
+          "key": "zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/danercommandery/"
+    },
     "DangerousAllyInvitationRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -94062,9 +94092,9 @@
       "url": "/wiki/entities/haikou/"
     },
     "Hainan": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "CKwRIW4ESA88ABAAAACdEa4Y [CKwRIW4ESA88ABAAAACdEa4Y].md",
@@ -94072,6 +94102,13 @@
           "show": "无时差研究所",
           "title": "EP167-对话海南人：海南的“大时代”真的来了？这一次可以腾飞吗？",
           "url": "/wiki/sources/ep167-duihua-hainanren-hainan-de-dashidai-zhende-laile-zhe-yici-keyi-tengfei-ma-ckwriw4esa88abaaaacdea4y/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？ [ltRRZ2RwuR7-GYwNON_8khWpMCHf].md",
+          "key": "zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf/"
         }
       ],
       "updated": "2026-10-03",
@@ -136674,9 +136711,9 @@
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
     },
     "LuBodeWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -136712,6 +136749,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》353-1｜杨仆如何当上中国首位海军司令？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？ [ltRRZ2RwuR7-GYwNON_8khWpMCHf].md",
+          "key": "zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf/"
         }
       ],
       "updated": "2026-10-05",
@@ -138838,9 +138882,9 @@
       "url": "/wiki/entities/lyudai/"
     },
     "LyuJiaNanyue": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？ [li16pfjb6P0OWYS5HtEcscFoMHCh].md",
@@ -138855,6 +138899,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》353-1｜杨仆如何当上中国首位海军司令？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？ [ltRRZ2RwuR7-GYwNON_8khWpMCHf].md",
+          "key": "zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf/"
         }
       ],
       "updated": "2026-10-05",
@@ -153708,9 +153759,9 @@
       "url": "/wiki/entities/nansunshi/"
     },
     "Nanyue": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -153753,6 +153804,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》353-1｜杨仆如何当上中国首位海军司令？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？ [ltRRZ2RwuR7-GYwNON_8khWpMCHf].md",
+          "key": "zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf/"
         }
       ],
       "updated": "2026-10-05",
@@ -217415,9 +217473,9 @@
       "url": "/wiki/entities/toweroflondon/"
     },
     "TowerShipWaterborneWarfare": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》353-1｜杨仆如何当上中国首位海军司令？ [lmmirRGukTHVSH4zRhRVBgtxhVZ7].md",
@@ -217425,6 +217483,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》353-1｜杨仆如何当上中国首位海军司令？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？ [ltRRZ2RwuR7-GYwNON_8khWpMCHf].md",
+          "key": "zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf/"
         }
       ],
       "updated": "2026-10-05",
@@ -238225,9 +238290,9 @@
       "url": "/wiki/entities/yanglistandup/"
     },
     "YangPuWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂 [ls1iZJhow_J4ubgMM0LM8ruaUrOx].md",
@@ -238270,6 +238335,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》353-1｜杨仆如何当上中国首位海军司令？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？ [ltRRZ2RwuR7-GYwNON_8khWpMCHf].md",
+          "key": "zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf/"
         }
       ],
       "updated": "2026-10-05",
@@ -247147,9 +247219,9 @@
       "url": "/wiki/entities/zhuowenjun/"
     },
     "ZhuyaCommandery": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史 [lhVp37w_0Z8rEbKka6SquGFgLEDp].md",
@@ -247164,9 +247236,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》471｜《弃珠崖议》背后，汉朝为何会放弃征服欲？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？ [ltRRZ2RwuR7-GYwNON_8khWpMCHf].md",
+          "key": "zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/zhuyacommandery/"
     },
     "ZiMiEasternHan": {

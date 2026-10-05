@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》354｜海南是如何纳入中国的？](sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf.md) — 杨仆强攻与路博德招降共同瓦解番禺防守，南越灭亡后汉朝设置九郡，并以珠崖、儋耳两郡把海南纳入郡县体系；连续有效控制仍受后续动乱与废郡史限定。
 - [《资治通鉴·汉纪》353-1｜杨仆如何当上中国首位海军司令？](sources/zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7.md) — 五路汉军会攻南越，杨仆从豫章率楼船水师、路博德从桂阳方向进军；“中国首位海军司令”被保留为基于楼船将军职能的来源限定类比。
 - [《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？](sources/zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch.md) — 韩千秋军在番禺附近覆灭后，汉武帝以抚恤与封赏遗孤肯定先锋之勇，并征调十万军、选路博德和杨仆准备征服南越。
 - [654. The Ku Klux Klan: The Rise of Evil (Part 1)](sources/654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794.md) — The Rest Is History on the first Klan's Pulaski origins, fraternal hierarchy, theatrical intimidation, political turn, racial terror, and local enforcement failure during Reconstruction.
@@ -3828,6 +3829,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [儋耳郡 / Dan'er Commandery](entities/DanerCommandery.md) — 西汉灭南越后在海南设置、后与珠崖一同进入高成本动乱和废置问题的古代郡级行政实体。
 - [韩千秋 / Han Qianqiu (Western Han)](entities/HanQianqiuWesternHan.md) — 初入南越获胜、后在番禺附近全军覆没，却仍被汉武帝评价为勇敢先锋的西汉将领。
 - [吕嘉 / Lü Jia (Nanyue)](entities/LyuJiaNanyue.md) — 歼灭韩千秋军、退还汉使符节并加强边关防御，从而触发汉武帝大举南征的南越丞相。
 - [William Gannaway Brownlow](entities/WilliamGannawayBrownlow.md) — Tennessee governor who defended Republican Reconstruction and Black voting through contested state and federal enforcement.

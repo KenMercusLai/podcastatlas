@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy
   - zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch
   - zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7
+  - zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf
 last_updated: 2026-10-05
 ---
 
@@ -25,7 +26,9 @@ That settlement is incorporation without direct occupation. Zhao Tuo accepts Han
 
 Hanji 353-1 adds an internal structure absent from the earlier profile. It says Zhao Tuo secured support by aligning his royal house with the locally influential Lü family: Zhao held the kingship, Lü Jia held the chancellorship, and marriage joined the families. On this account, whether Nanyue accepted closer Han incorporation depended not only on the king but also on locally rooted power.
 
-Hanji 352-2 and 353-1 then show the rupture. [[HanQianqiuWesternHan|韩千秋]]'s force is annihilated near Panyu, after which Wudi mobilizes a reported ten-wan-person army. [[LuBodeWesternHan|路博德]] and [[YangPuWesternHan|杨仆]] lead principal routes, three surrendered Nanyue figures lead others, and Yang Pu's [[TowerShipWaterborneWarfare|tower-ship force]] adds a waterborne branch to the convergence plan. The sources still stop short of narrating the final conquest.
+Hanji 352-2 and 353-1 then show the rupture. [[HanQianqiuWesternHan|韩千秋]]'s force is annihilated near Panyu, after which Wudi mobilizes a reported ten-wan-person army. [[LuBodeWesternHan|路博德]] and [[YangPuWesternHan|杨仆]] lead principal routes, three surrendered Nanyue figures lead others, and Yang Pu's [[TowerShipWaterborneWarfare|tower-ship force]] adds a waterborne branch to the convergence plan.
+
+Hanji 354 supplies the outcome. Yang Pu attacks Panyu from the southeast while Lu Bode receives prisoners and amplifies surrender through credentials and recruited intermediaries. Zhao Jiande and Lü Jia flee by sea and are captured; local rulers and officials then submit before the supporting routes arrive. Nanyue's destruction is followed by nine-commandery reorganization and the reported establishment of [[ZhuyaCommandery|珠崖郡]] and [[DanerCommandery|儋耳郡]] on Hainan.
 
 ## Key Characteristics
 
@@ -35,6 +38,7 @@ Hanji 352-2 and 353-1 then show the rupture. [[HanQianqiuWesternHan|韩千秋]]'
 - Political field whose nominal borders remain uncertain in the later South Sea kingship notice.
 - Resistance theater where an initial Han force is destroyed and a much larger multi-route campaign follows.
 - Strategic environment requiring land routes, surrendered local participants, and specialized waterborne forces.
+- Conquered polity whose collapse is followed by differentiated surrender rewards and commandery administration.
 
 ## Evidence
 
@@ -44,16 +48,17 @@ Hanji 352-2 and 353-1 then show the rupture. [[HanQianqiuWesternHan|韩千秋]]'
 - Nominal-boundary qualification: [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] presents the South Sea kingship as a possibly paper-only carve-out.
 - Resistance and mobilization: [[zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch|Hanji 352-2]] gives the destroyed vanguard, fortified border, mass mobilization, and command selection.
 - Internal power and routes: [[zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7|Hanji 353-1]] describes Zhao-Lü power sharing and a five-route convergence on Panyu.
+- Conquest and reorganization: [[zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf|Hanji 354]] narrates complementary assault and surrender pressure, the capture of Zhao Jiande and Lü Jia, wider submission, and nine-commandery administration.
 
 ## Qualifications
 
-The sources describe different moments and should not be collapsed into one static relationship. Liu Bang-era recognition does not prove permanent Han control, while the later rebellion frame does not erase the early settlement's temporary reality. The South Sea kingship remains source-scoped and possibly nominal. Hanji 353-1's Zhao-Lü settlement, marriage network, route assignments, force total, tower-ship description, and local-opinion account are a compact Han-centered retelling rather than a full Nanyue political history. Neither Hanji 352-2 nor 353-1 narrates the final conquest or supplies Nanyue perspectives.
+The sources describe different moments and should not be collapsed into one static relationship. Liu Bang-era recognition does not prove permanent Han control, while the later rebellion frame does not erase the early settlement's temporary reality. The South Sea kingship remains source-scoped and possibly nominal. Hanji 353-1's Zhao-Lü settlement and Hanji 354's conquest sequence are compact Han-centered retellings rather than a full Nanyue political history. Force totals, routes, battle details, surrender motives, nine-commandery chronology, and local perspectives remain incomplete or source-scoped.
 
 ## What Changed
 
-- Added the Zhao-Lü office, marriage, and local-influence structure behind Nanyue decision-making.
-- Extended the conquest opening from commander selection to a five-route land-and-water convergence plan.
-- Preserved the distinction between planned deployment and a final campaign result not narrated in this source.
+- Closed the campaign arc with Panyu's collapse, Zhao Jiande and Lü Jia's capture, and regional submission.
+- Connected military conquest to nine-commandery reorganization and the first direct-administration claim for Hainan.
+- Preserved the distinction between reported incorporation and durable, uncontested control.
 
 ## Relationships
 

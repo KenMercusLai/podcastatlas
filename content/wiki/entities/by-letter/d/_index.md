@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12424
+wiki_total_pages: 12425
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1211,6 +1211,9 @@ wiki_pages:
   - key: "Danzhou"
     title: "儋州 / Danzhou"
     url: "/wiki/entities/danzhou/"
+  - key: "DanerCommandery"
+    title: "儋耳郡 / Dan'er Commandery"
+    url: "/wiki/entities/danercommandery/"
   - key: "DianzhongTechnology"
     title: "典众科技 / Dianzhong Technology"
     url: "/wiki/entities/dianzhongtechnology/"

@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [western-han, naval-warfare, tower-ships, nanyue, military-logistics]
 sources:
   - zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7
+  - zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf
 last_updated: 2026-10-05
 ---
 
@@ -14,7 +15,7 @@ last_updated: 2026-10-05
 
 ## Current Synthesis
 
-Hanji 353-1 assigns [[YangPuWesternHan|杨仆]] the title of tower-ship general and says he led a purpose-built tower-ship force from [[YuzhangCommandery|豫章郡]] as one branch of a five-route convergence on Panyu. The episode describes tower ships as elevated large vessels capable of ranged and close combat, making water transport, fighting platforms, and route coordination part of the southern expedition rather than incidental support.
+Hanji 353-1 assigns [[YangPuWesternHan|杨仆]] the title of tower-ship general and says he led a purpose-built tower-ship force from [[YuzhangCommandery|豫章郡]] as one branch of a five-route convergence on Panyu. Hanji 354 adds the operational outcome: Yang Pu attacks from the southeast and uses fire while [[LuBodeWesternHan|路博德]] combines a northwestern position with lenient surrender policy; after Nanyue falls, Yang Pu is credited with crossing from Xuwen to [[Hainan|海南]]. Waterborne specialization therefore supports both the capital campaign and a reported cross-strait extension of direct administration.
 
 This establishes a specialized waterborne role but not a modern navy. The episode's label of Yang Pu as China's first “naval commander” is a retrospective analogy, and its claims about invention by ancient Yue peoples, coastal performance, fleet development, and command hierarchy require evidence beyond the supplied summary.
 
@@ -24,21 +25,23 @@ This establishes a specialized waterborne role but not a modern navy. The episod
 - Yang Pu's title and Yuzhang route provide the episode's main evidence for specialized waterborne command.
 - Large elevated vessels are presented as supporting both ranged and close combat.
 - Ancient waterborne specialization should not be treated as institutionally identical to a modern navy.
+- Direct assault works in combination with surrender policy and is followed by a reported Hainan crossing.
 
 ## Evidence
 
 - Specialized command: [[zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7|Hanji 353-1]] names Yang Pu tower-ship general and assigns him a waterborne force.
 - Campaign integration: [[zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7|Hanji 353-1]] places that force inside a five-route plan converging on Panyu.
 - Vessel capabilities: [[zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7|Hanji 353-1]] describes tower ships as large elevated platforms usable at range and in close fighting.
+- Campaign result: [[zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf|Hanji 354]] connects Yang Pu's southeast assault to Panyu's collapse and credits him with a later Xuwen-to-Hainan crossing.
 
 ## Counterevidence & Qualifications
 
-The source does not provide vessel counts, dimensions, crews, supply arrangements, route details beyond the departure region, or the actual battle sequence. “Naval commander” is a modern analogy rather than a transmitted office title, and “first in China” is not established by comparison with earlier waterborne warfare. The ancient Yue invention claim and the description of tower ships as coastal-war “weapons” remain source-scoped.
+The sources do not provide vessel counts, dimensions, crews, supply arrangements, or a technical reconstruction of the Panyu and Hainan operations. “Naval commander” is a modern analogy rather than a transmitted office title, and “first in China” or “first large-scale naval war” is not established by comparison with earlier waterborne warfare. The ancient Yue invention claim, vessel capabilities, use of fire, exact crossing date, and command hierarchy remain source-scoped.
 
 ## What Changed
 
-- Created a bounded distinction between specialized Han waterborne command and a modern naval institution.
-- Preserved the episode's vessel and operational claims without adopting its historical superlative as settled fact.
+- Added the Panyu assault outcome and reported Hainan crossing to the previously deployment-only concept.
+- Preserved the distinction between specialized Han waterborne command and a modern naval institution.
 
 ## Related Concepts
 
