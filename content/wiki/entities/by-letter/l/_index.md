@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12446
+wiki_total_pages: 12449
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1451,6 +1451,9 @@ wiki_pages:
   - key: "LiuXijunPrincessWesternHan"
     title: "刘细君 / Princess Liu Xijun"
     url: "/wiki/entities/liuxijunprincesswesternhan/"
+  - key: "LiuSuiSishuiSeal"
+    title: "刘绥 / Liu Sui (Sishui seal)"
+    url: "/wiki/entities/liusuisishuiseal/"
   - key: "LiuXuAnpingPrince"
     title: "刘续 / Liu Xu (Anping Wang)"
     url: "/wiki/entities/liuxuanpingprince/"

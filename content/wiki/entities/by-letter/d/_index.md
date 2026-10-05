@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12446
+wiki_total_pages: 12449
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1292,6 +1292,9 @@ wiki_pages:
   - key: "Daxiong"
     title: "大雄"
     url: "/wiki/entities/daxiong/"
+  - key: "DaqingdunHanTomb"
+    title: "大青墩汉墓 / Daqingdun Han Tomb"
+    url: "/wiki/entities/daqingdunhantomb/"
   - key: "DaShiHua"
     title: "大食话 / Da Shi Hua"
     url: "/wiki/entities/dashihua/"

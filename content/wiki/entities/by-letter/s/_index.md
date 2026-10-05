@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12446
+wiki_total_pages: 12449
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2594,6 +2594,9 @@ wiki_pages:
   - key: "SiRiver"
     title: "泗水 / Si River"
     url: "/wiki/entities/siriver/"
+  - key: "SishuiKingdomWesternHan"
+    title: "泗水国 / Sishui Kingdom (Western Han)"
+    url: "/wiki/entities/sishuikingdomwesternhan/"
   - key: "SheHeWesternHan"
     title: "涉何 / She He (Western Han)"
     url: "/wiki/entities/shehewesternhan/"

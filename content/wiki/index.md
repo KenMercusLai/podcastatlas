@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密](sources/zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx.md) — 大青墩“泗水王冢”椁板把墓葬锚定为泗水国王陵，但被盗语境中的“刘绥”银印并不能据此确定具体墓主。
 - [Bringing Extinct Species Back to Life | Dr. Beth Shapiro](sources/bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808.md) — Huberman Lab interview on functional de-extinction, genetic rescue, comparative genomics, animal welfare, and governance under ecological uncertainty.
 - [Coffer stop: AI may shrink tax base](sources/coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384.md) — Economist Podcasts episode on AI-driven labor-tax erosion, reflective passive-cooling paint, and Stanislas Hutin's testimony about French torture in Algeria.
 - [《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床](sources/zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc.md) — 栾大经丁义引见，以汉武帝的求仙欲望和少翁之死为谈判筹码，再用“斗棋”表演建立可信度；标题中的公主情节未出现在所给文本中。
@@ -3841,6 +3842,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [泗水国 / Sishui Kingdom (Western Han)](entities/SishuiKingdomWesternHan.md) — 由大青墩“泗水王冢”椁板获得王陵物证、但具体墓主仍未确定的西汉诸侯国。
+- [大青墩汉墓 / Daqingdun Han Tomb](entities/DaqingdunHanTomb.md) — 形制与随葬品达到王陵等级、受盗扰且以“泗水王冢”文字确认制度身份的西汉大墓。
+- [刘绥 / Liu Sui (Sishui seal)](entities/LiuSuiSishuiSeal.md) — 大青墩被盗语境中银制龟钮印的署名者，不能仅凭该印认定为泗水王或主墓墓主。
 - [Beth Shapiro](entities/BethShapiro.md) — Evolutionary biologist connecting ancient DNA and functional de-extinction to conservation genetic rescue and staged ecological governance.
 - [Colossal Biosciences](entities/ColossalBiosciences.md) — Biotechnology company developing cross-taxon de-extinction platforms and applying related tools to threatened living species.
 - [Stanislas Hutin](entities/StanislasHutin.md) — French reservist who protested, photographed, and later taught about torture he encountered during the Algerian War.

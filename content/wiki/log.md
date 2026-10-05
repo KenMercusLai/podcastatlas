@@ -30211,3 +30211,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密
+
+Added source `zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx`; created [[SishuiKingdomWesternHan|西汉泗水国]], [[DaqingdunHanTomb|大青墩汉墓]], and [[LiuSuiSishuiSeal|刘绥]]; and resynthesized [[ArchaeologicalInterpretationUnderSparseEvidence]] from its complete preserved evidence inventory. Core synthesis: tomb scale, layout, furnishings, and especially the “泗水王冢” chamber-board label identify the royal-cemetery context more securely than a particular king, because robbery disrupts provenance and the unmatched 刘绥 silver seal does not automatically identify the principal occupant. No settled contradiction was adopted. “似水／四水／刘隋” were normalized to 泗水／刘绥; king-list details, candidate elimination, paired-coffin relationship, robber behavior, artifact superlatives, and the nearby Xiongnu-woman connection remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left read-only for downstream synthesis refresh. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,777 sources and retain 791 overview paragraphs. Identity, schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

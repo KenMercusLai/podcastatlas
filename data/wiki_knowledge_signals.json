@@ -16147,9 +16147,9 @@
       "url": "/wiki/entities/arandorastar/"
     },
     "ArchaeologicalInterpretationUnderSparseEvidence": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4941340070 [GLT4941340070].md",
@@ -16171,9 +16171,16 @@
           "show": "The Rest Is History",
           "title": "114. Stonehenge, ancient ritual and the origins of paganism",
           "url": "/wiki/sources/114-stonehenge-ancient-ritual-and-the-origins-of-paganism-glt2588049137/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密 [lopHZ5CcJ4JALGMOHvOZcOl5NelX].md",
+          "key": "zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/archaeologicalinterpretationundersparseevidence/"
     },
     "ArchaicHumanInterbreeding": {
@@ -51889,6 +51896,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/daoistwatervirtue/"
+    },
+    "DaqingdunHanTomb": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密 [lopHZ5CcJ4JALGMOHvOZcOl5NelX].md",
+          "key": "zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/daqingdunhantomb/"
     },
     "DarcyRaisedNutrition": {
       "episode_count": 1,
@@ -133072,6 +133095,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/liusuanlatehan/"
     },
+    "LiuSuiSishuiSeal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密 [lopHZ5CcJ4JALGMOHvOZcOl5NelX].md",
+          "key": "zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/liusuisishuiseal/"
+    },
     "LiuTaoLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -199334,6 +199373,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/siri/"
+    },
+    "SishuiKingdomWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密 [lopHZ5CcJ4JALGMOHvOZcOl5NelX].md",
+          "key": "zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/sishuikingdomwesternhan/"
     },
     "SiteSpecificElectroacupunctureImmunePathway": {
       "episode_count": 2,
