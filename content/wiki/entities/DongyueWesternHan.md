@@ -5,22 +5,25 @@ knowledge_schema: synthesis-v1
 tags: [polity, yue, southern-china, western-han, rebellion]
 sources:
   - zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k
+  - zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc
 last_updated: 2026-10-05
 ---
 
 ## Overview
 
-东越 / Dongyue is the southeastern polity ruled by [[YuShanDongyueKing|余善]] whose resistance to Western Han ends through combined military pressure, internal defection, elite killing, surrender, reward, and population removal.
+东越 / Dongyue is the southeastern polity ruled by [[YuShanDongyueKing|余善]] whose attempted alignment with both Western Han and Nanyue becomes open resistance, then ends through pressure, internal defection, elite killing, surrender, reward, and population removal.
 
 ## Current Profile
 
-Hanji 356-2 presents Dongyue as difficult terrain prepared for resistance, but not as a unified actor. [[WuYangYueMarquis|吴阳]] moves seven hundred followers to the Han side, while [[JianchengHouAo|建成侯敖]] and [[JuguDongyueKing|繇王居股]] kill Yu Shan and surrender their people. The polity's collapse therefore comes from a fracture between ruler and insiders under outside pressure.
+Hanji 355 supplies the transition from nominal support to rebellion. Yu Shan offers troops for the Nanyue campaign but stops at Jieyang, secretly communicates with Nanyue, and later blocks Han routes after his nonarrival is reported. Dongyue therefore enters open war through a failed attempt to wait between two powers.
+
+Hanji 356-2 presents Dongyue as terrain-favored but internally divided. [[WuYangYueMarquis|吴阳]] moves seven hundred followers to the Han side, while [[JianchengHouAo|建成侯敖]] and [[JuguDongyueKing|繇王居股]] kill Yu Shan and surrender their people.
 
 The aftermath is more than a change of ruler. The source says [[HanWudi|汉武帝]] rewards participants and orders the regional population moved to the Yangtze-Huai area, leaving the old territory empty. The episode also shifts between Dongyue and [[Minyue|闽越]] language, so this page treats the two as historically connected labels without assuming they are interchangeable in every context.
 
 ## Key Characteristics
 
-- Southeastern Yue polity ruled by Yu Shan in the episode's campaign sequence.
+- Southeastern Yue polity whose ruler first promises Han support while retaining a covert Nanyue channel.
 - Terrain-favored resistance target of Western Han forces.
 - Politically divided community whose insiders defect and kill the ruler.
 - Conquered order converted through surrender rewards rather than battle alone.
@@ -29,16 +32,17 @@ The aftermath is more than a change of ruler. The source says [[HanWudi|汉武�
 ## Evidence
 
 - Resistance and terrain: [[zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k|Hanji 356-2]] says Yu Shan has occupied difficult ground before the Han advance.
+- Failed alignment and escalation: [[zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc|Hanji 355]] connects promised aid, secret Nanyue contact, nonarrival, Han suspicion, route-blocking, and attack.
 - Internal fracture: [[zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k|Hanji 356-2]] reports Wu Yang's defection and the killing of Yu Shan by Ao and Jugu.
 - Coercive aftermath: [[zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k|Hanji 356-2]] joins rewards for submission to an order moving the population away.
 
 ## Qualifications
 
-This profile rests on one short podcast source with substantial transcription corruption. Exact force movements, offices, personal names, rewards, the constitutional relation between Dongyue and Minyue, and the scale and completeness of population removal require primary-text or specialist verification. The source's description of the population as repeatedly unreliable is imperial justification, not a neutral group characteristic.
+This profile rests on two short podcast sources with substantial transcription corruption. Exact movements, offices, names, rewards, the Dongyue-Minyue relation, and the scale of population removal require specialist verification. Hanji 355's gambling diagnosis is interpretation; Hanji 356-2's population description is imperial justification, not a neutral group characteristic.
 
 ## What Changed
 
-- Created a bounded polity profile for the campaign's internal-fracture and post-conquest sequence.
+- Added the prewar stage in which promised support and covert contact turn ambiguous alignment into conflict.
 
 ## Relationships
 
@@ -49,3 +53,4 @@ This profile rests on one short podcast source with substantial transcription co
 - [[JuguDongyueKing|繇王居股]] - royal insider who joins the killing and surrender.
 - [[HanWudi|汉武帝]] - opposing emperor who rewards defectors and orders removal.
 - [[PostConquestPopulationRemoval|征服后人口迁出]] - policy mechanism applied after the polity's collapse.
+- [[FenceSittingStrategicExposure|骑墙式战略暴露]] - pattern through which Yu Shan's two-sided posture becomes a liability.

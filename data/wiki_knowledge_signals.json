@@ -59269,9 +59269,9 @@
       "url": "/wiki/entities/dongqianglatehan/"
     },
     "DongyueWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？ [lhWRrQTAEJQCrADJO-2IpVSlMl5K].md",
@@ -59279,6 +59279,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！ [lthXBtmCL8mfPGK2BNb-6pmoLGwc].md",
+          "key": "zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc/"
         }
       ],
       "updated": "2026-10-05",
@@ -76458,9 +76465,9 @@
       "url": "/wiki/concepts/feministmediainstitutionbuilding/"
     },
     "FenceSittingStrategicExposure": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？ [ll-ebgUQLlSF_5YCvPDogihzN3lJ].md",
@@ -76496,6 +76503,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！ [lthXBtmCL8mfPGK2BNb-6pmoLGwc].md",
+          "key": "zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc/"
         }
       ],
       "updated": "2026-09-02",
@@ -117870,6 +117884,29 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/jiedianpowerbank/"
+    },
+    "Jieyang": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹 [989721046].md",
+          "key": "no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹",
+          "url": "/wiki/sources/no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！ [lthXBtmCL8mfPGK2BNb-6pmoLGwc].md",
+          "key": "zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/jieyang/"
     },
     "JiluoshanBattleLateHan": {
       "episode_count": 2,
@@ -238290,9 +238327,9 @@
       "url": "/wiki/entities/yanglistandup/"
     },
     "YangPuWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂 [ls1iZJhow_J4ubgMM0LM8ruaUrOx].md",
@@ -238342,6 +238379,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！ [lthXBtmCL8mfPGK2BNb-6pmoLGwc].md",
+          "key": "zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc/"
         }
       ],
       "updated": "2026-10-05",
@@ -239082,9 +239126,9 @@
       "url": "/wiki/entities/yelangkingxingwesternhan/"
     },
     "YelangStateWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！ [lufpmcdwb20dHX2QXFjwS7-QDPKb].md",
@@ -239099,6 +239143,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》513丨勇闯夺命岛！汉臣陈立诛杀夜郎国王！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！ [lthXBtmCL8mfPGK2BNb-6pmoLGwc].md",
+          "key": "zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc/"
         }
       ],
       "updated": "2026-09-12",
@@ -240375,9 +240426,9 @@
       "url": "/wiki/entities/yuqiantombandtemple/"
     },
     "YuShanDongyueKing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？ [lsaa6J1JSKiVFHyvVPBPmNoRq-jm].md",
@@ -240392,6 +240443,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！ [lthXBtmCL8mfPGK2BNb-6pmoLGwc].md",
+          "key": "zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc/"
         }
       ],
       "updated": "2026-10-05",
@@ -243686,9 +243744,9 @@
       "url": "/wiki/entities/zhangjiashanhanmuzhujian/"
     },
     "ZhangkeCommanderyWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！ [lufpmcdwb20dHX2QXFjwS7-QDPKb].md",
@@ -243703,6 +243761,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》513丨勇闯夺命岛！汉臣陈立诛杀夜郎国王！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！ [lthXBtmCL8mfPGK2BNb-6pmoLGwc].md",
+          "key": "zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc/"
         }
       ],
       "updated": "2026-09-12",

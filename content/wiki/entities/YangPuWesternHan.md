@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch
   - zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7
   - zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf
+  - zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc
 last_updated: 2026-10-05
 ---
 
@@ -22,7 +23,7 @@ last_updated: 2026-10-05
 
 Hanji 353-1 fills the operational gap left by Hanji 352-2. It says Yang Pu began with a purchased “thousand-man” martial rank but demonstrated ability, acted severely against powerful local families, and was later grouped among harsh officials. Wudi appoints him tower-ship general and sends his specially developed waterborne force from [[YuzhangCommandery|豫章郡]] as one of five routes converging on Panyu. The episode calls him China's first “naval commander,” but the wiki retains that as a retrospective analogy grounded in his title and [[TowerShipWaterborneWarfare|tower-ship command]], not a settled historical superlative.
 
-Hanji 354 supplies the missing victory sequence. Yang Pu assaults Panyu from the southeast and uses fire while [[LuBodeWesternHan|路博德]] combines a northwestern position with lenient surrender policy. The episode then credits Yang Pu with crossing from Xuwen to occupy [[Hainan|海南]] before the creation of [[ZhuyaCommandery|珠崖郡]] and [[DanerCommandery|儋耳郡]]. Hanji 356-1 supplies the aftermath: Yang Pu is accused of inflating battlefield credit, failing to pursue fully, boasting, delaying after recall, and not reporting promptly. Wudi rebukes him but accepts his offer to fight for redemption and sends him against [[YuShanDongyueKing|余善]]. Hanji 356-2 then attributes to Yang Pu the proposal to move [[HanguPass|函谷关]] east to Xin'an, aligning personal status with enlargement of the supervised imperial core.
+Hanji 354 supplies the victory sequence. Yang Pu assaults Panyu from the southeast and uses fire while [[LuBodeWesternHan|路博德]] combines a northwestern position with lenient surrender policy. Hanji 355 adds an intelligence-and-escalation layer: Yang Pu notices that [[YuShanDongyueKing|余善]] has stopped at [[Jieyang|揭阳]] instead of delivering promised support and requests permission to attack him. Wudi initially refuses because the soldiers are exhausted. Hanji 356-1 then supplies the broader aftermath: Yang Pu is accused of inflating battlefield credit, failing to pursue fully, boasting, delaying after recall, and not reporting promptly. Wudi rebukes him but accepts his offer to fight for redemption and sends him against Yu Shan. Hanji 356-2 attributes to Yang Pu the proposal to move [[HanguPass|函谷关]] east to Xin'an.
 
 Hanji 366-1 and 366-2 show a harsher endpoint in Wiman Joseon. Yang Pu advances with seven thousand Qi troops, is defeated, hides and regroups, then favors surrender while [[XunZhiWesternHan|荀彘]] favors assault. Missed dates and separate channels deepen suspicion until [[GongsunSuiWesternHan|公孙遂]] arrests Yang Pu and transfers his force. After conquest, Yang Pu redeems a death penalty but becomes a commoner for unauthorized advance and heavy losses.
 
@@ -31,7 +32,7 @@ Hanji 366-1 and 366-2 show a harsher endpoint in Wiman Joseon. Yang Pu advances 
 - Specialized tower-ship commander in the multi-route conquest of Nanyue.
 - Southeast assault commander credited with helping take Panyu and later occupying Hainan from Xuwen.
 - Forceful official whose purchased entry rank does not exhaust the sources' account of his capability.
-- High-merit commander whose achievement does not prevent scrutiny of credit, reporting, pursuit, and obedience.
+- High-merit commander whose correct warning about Yu Shan does not prevent scrutiny of his own credit, reporting, pursuit, and obedience.
 - Officer repeatedly allowed to seek redemption through service or legal commutation.
 - Commander whose defeat and separate surrender channel contribute to fragmented command in Wiman Joseon.
 - Proposer, in Hanji 356-2, of moving Hangu Pass eastward to Xin'an.
@@ -41,6 +42,7 @@ Hanji 366-1 and 366-2 show a harsher endpoint in Wiman Joseon. Yang Pu advances 
 - Early profile and waterborne command: [[zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7|Hanji 353-1]] describes the purchased rank, harsh enforcement, Yuzhang route, and tower-ship force.
 - Selection and campaign scale: [[zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch|Hanji 352-2]] names Yang Pu and [[LuBodeWesternHan|路博德]] after the large southern mobilization.
 - Conquest and island extension: [[zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf|Hanji 354]] assigns Yang Pu the southeast assault, Panyu fire attack, and subsequent crossing from Xuwen to Hainan.
+- Detection and rejected request: [[zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc|Hanji 355]] says Yang Pu notices Yu Shan's nonarrival and asks to attack him, while Han Wudi delays action because the troops are tired.
 - Merit under discipline: [[zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm|Hanji 356-1]] gives five alleged faults and renewed service against Dongyue.
 - Boundary proposal: [[zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k|Hanji 356-2]] links the Xin'an relocation proposal to status and central control.
 - Defeat and command conflict: [[zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb|Hanji 366-1]] connects initial defeat, regrouping, caution, missed attacks, and separate negotiation to distrust.
@@ -48,13 +50,12 @@ Hanji 366-1 and 366-2 show a harsher endpoint in Wiman Joseon. Yang Pu advances 
 
 ## Qualifications
 
-“China's first naval commander” modernizes an ancient title and is not demonstrated through comparison with earlier waterborne warfare. Hanji 354 adds a battle and Hainan-crossing sequence but does not settle exact chronology, route, force composition, responsibility for the victory, or the durability of island control. Hanji 356-1's five accusations and Hanji 356-2's private-motive reading are likewise attributed. The Joseon episodes do not make caution equivalent to treason: premature advance, prior losses, separate diplomacy, and missed coordination create risk, but Hanji 366-1 says Xun Zhi lacks evidence for a larger plot. Transcript forms 杨溥 and 杨浦 are normalized to 杨仆.
+“China's first naval commander” modernizes an ancient title and is not demonstrated through comparison with earlier waterborne warfare. Hanji 354 does not settle exact chronology, force composition, credit, or durability of island control. Hanji 355 establishes Yang Pu's report and rejected request, not the emperor's complete reasons for later criticism. Hanji 356-1's accusations and Hanji 356-2's private-motive reading are likewise attributed. The Joseon episodes do not make caution equivalent to treason. Transcript forms 杨溥 and 杨浦 are normalized to 杨仆.
 
 ## What Changed
 
-- Added the southeast assault, fire attack, and reported Xuwen-to-Hainan extension of Yang Pu's southern command.
-- Connected his specialized waterborne role to an actual conquest outcome while retaining uncertainty over chronology and credit.
-- Preserved the “first naval commander” label as a source-scoped analogy rather than a settled office classification.
+- Added Yang Pu's detection of Yu Shan's nonarrival, request to attack, and Han Wudi's troop-fatigue refusal.
+- Clarified that a correct warning did not insulate Yang Pu from separate scrutiny of his own conduct.
 
 ## Relationships
 
@@ -68,3 +69,4 @@ Hanji 366-1 and 366-2 show a harsher endpoint in Wiman Joseon. Yang Pu advances 
 - [[CommandSynchronizationFailure|军令同步失灵]] - later failure mode created by divergent timing, trust, and negotiation channels.
 - [[HighMeritThreatManagement|功高不震主]] - pattern connecting achievement, hierarchy risk, discipline, and continued use.
 - [[AdministrativeBoundaryRelocation|行政边界迁移式扩张]] - governance mechanism attributed to his Xin'an proposal.
+- [[Jieyang|揭阳]] - location where Yu Shan's promised force stops, prompting Yang Pu's report.

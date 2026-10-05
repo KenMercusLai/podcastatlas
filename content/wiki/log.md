@@ -30112,3 +30112,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！
+
+Added source `zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc`; resynthesized [[YuShanDongyueKing|余善]], [[YangPuWesternHan|杨仆]], [[DongyueWesternHan|东越]], [[FenceSittingStrategicExposure|骑墙式战略暴露]], [[YelangStateWesternHan|夜郎]], and [[ZhangkeCommanderyWesternHan|牂柯郡]] from their complete preserved evidence inventories; and migrated [[Jieyang|揭阳]] to the synthesis-first schema. Core synthesis: Yu Shan's promised aid, stop at Jieyang, and covert Nanyue contact turn option preservation into observable nonperformance after Panyu falls; Yang Pu's warning is initially deferred for troop fatigue, and Yu Shan then escalates from ambiguity to route-blocking, attack, and an imperial title claim. No settled contradiction was adopted. Names 于善 and 杨溥 are normalized to 余善 and 杨仆; southwestern names, force totals, routes, titles, speeches, chronology, and psychological motives remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,765 sources and retain 791 overview paragraphs.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

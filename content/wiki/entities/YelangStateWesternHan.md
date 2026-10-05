@@ -6,16 +6,19 @@ tags: [polity, western-han, frontier, southwest]
 sources:
   - zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb
   - zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo
+  - zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-夜郎 / Ye Lang enters the wiki through [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|Hanji 512]] as a southwestern dependent polity around present-day Guizhou whose ruler [[YelangKingXingWesternHan|兴]] helps turn local fighting into a Han frontier crisis. [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|Hanji 513]] continues the crisis through [[ChenLiWesternHan|陈立]]'s killing of Xing and suppression of the remaining Ye Lang resistance.
+夜郎 / Ye Lang is a southwestern polity whose profile spans its reported post-Nanyue submission to Western Han under Han Wudi and a later 27 BCE crisis in which [[YelangKingXingWesternHan|兴]] challenges Han authority before [[ChenLiWesternHan|陈立]] kills him and suppresses the remaining resistance.
 
 ## Current Profile
 
-The sources present Ye Lang as the largest local power around [[ZhangkeCommanderyWesternHan|牂柯郡]] and as part of a mixed frontier world where Han commandery authority, local polities, and neighboring rulers coexist uneasily. Ye Lang first appears in conflict with Gouding and Louwo, but Hanji 512 stresses that such small polities could also unite against outside pressure.
+Hanji 355 supplies an earlier incorporation layer. After Nanyue falls, the episode says the Ye Lang ruler travels to Chang'an, receives recognition as king, and enters a broader sequence of southwestern submissions and commandery creation. The source does not establish that recognition erased local autonomy or produced continuous, uniform control.
+
+The later sources present Ye Lang as the largest local power around [[ZhangkeCommanderyWesternHan|牂柯郡]] and as part of a mixed frontier world where Han commandery authority, local polities, and neighboring rulers coexist uneasily.
 
 Ye Lang's political importance in this source comes from escalation. Its ruler does not merely fight neighbors; he rejects Han mediation, stages wooden images of Han officials as archery targets, and gives [[DuQingWesternHan|杜清]] reason to warn that the polity could consolidate nearby forces before attacking Zhangke.
 
@@ -23,7 +26,8 @@ Hanji 513 turns that risk forecast into an outcome. Chen Li kills Xing in a care
 
 ## Key Characteristics
 
-- Southwestern polity tied in the episode to present-day Guizhou.
+- Southwestern polity tied in the episodes to present-day Guizhou.
+- Dependent ruler reportedly recognized by Han Wudi after Nanyue's fall.
 - Largest local power around the Zhangke frontier setting described by the source.
 - Fights Gouding and Louwo before the conflict threatens Han commandery territory.
 - Becomes dangerous because local war can become coordinated resistance once Han authority intervenes.
@@ -33,6 +37,7 @@ Hanji 513 turns that risk forecast into an outcome. Chen Li kills Xing in a care
 ## Evidence
 
 - Regional setting: [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|Hanji 512]] places Ye Lang around present-day Guizhou and says it is the largest local polity near Zhangke Commandery.
+- Earlier submission layer: [[zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc|Hanji 355]] says Ye Lang had been subordinate to Nanyue and that its ruler travels to Chang'an and receives a royal title after Nanyue falls.
 - Local war: [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|Hanji 512]] says Ye Lang fights Gouding and Louwo before the danger spreads toward Zhangke.
 - Coalition risk: [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|Hanji 512]] says these dependent polities often fought each other but might unite when an outside force arrived.
 - Escalation: [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|Hanji 512]] says Ye Lang King Xing rejects mediation and uses wooden Han-official images as archery targets.
@@ -41,12 +46,12 @@ Hanji 513 turns that risk forecast into an outcome. Chen Li kills Xing in a care
 
 ## Qualifications
 
-This page is bounded to Hanji 512 and Hanji 513 and does not reconstruct Ye Lang's full political history, geography, archaeology, or later incorporation. The sources give broad modern-location identifications and a crisis narrative, but not a full map or institutional account.
+This page is bounded to Hanji 355, Hanji 512, and Hanji 513 and does not reconstruct Ye Lang's full political history, geography, archaeology, or degree of autonomy. The sources give two widely separated moments, not a continuous chronology, full map, or institutional account.
 
 ## What Changed
 
-- Added Hanji 513's continuation: Xing's killing produces immediate surrender, while Wengzhi and Yewu show that residual resistance still requires logistical pacification.
-- Preserved Hanji 512's setup of Ye Lang as the largest local polity and chief escalation point around Zhangke.
+- Added Hanji 355's earlier claim that the Ye Lang ruler submits and receives royal recognition after Nanyue's fall.
+- Reframed the later Xing crisis as evidence that recognition and commandery proximity did not erase local political capacity.
 
 ## Relationships
 
@@ -55,3 +60,4 @@ This page is bounded to Hanji 512 and Hanji 513 and does not reconstruct Ye Lang
 - [[ZhangkeCommanderyWesternHan|牂柯郡]] - nearby Han commandery endangered by Ye Lang-centered conflict.
 - [[DuQingWesternHan|杜清]] - adviser who treats Ye Lang's consolidation risk as a reason for preventive preparation.
 - [[PreventiveFrontierGovernance|治未病式边疆治理]] - related governance pattern because the source asks when to act before a frontier threat consolidates.
+- [[Nanyue|南越]] - earlier regional power to which the episode says Ye Lang had been subordinate.

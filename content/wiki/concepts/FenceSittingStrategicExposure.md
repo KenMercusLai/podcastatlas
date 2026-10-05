@@ -2,21 +2,24 @@
 title: "骑墙式战略暴露 / Fence-Sitting Strategic Exposure"
 type: concept
 knowledge_schema: synthesis-v1
-tags: [strategy, alliance, late-han, eastern-han, statecraft]
+tags: [strategy, alliance, western-han, late-han, eastern-han, statecraft]
 sources:
   - zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj
   - zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz
   - zizhi-tongjian-hanji-698-wangchao-xingshuai-qishilu-weiao-de-yihan-yu-jinchao-zhi-jing-lqim2hbjtdzb0wwmsaxcyzj7u8ff
   - zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8
   - zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme
+  - zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc
 last_updated: 2026-09-02
 ---
 
 ## Definition
 
-骑墙式战略暴露 / Fence-sitting strategic exposure is the pattern where a ruler tries to preserve room between stronger powers, but the middle position becomes exploitable because it lacks internal integration, initiative, credible submission, or a clear decision rule for leaving neutrality.
+骑墙式战略暴露 / Fence-sitting strategic exposure is the pattern where a ruler tries to preserve room between stronger powers, but promised conduct, covert contact, internal fissures, or delay make the middle position non-credible and there is no clear decision rule for leaving it.
 
 ## Current Synthesis
+
+The Western Han case of [[YuShanDongyueKing|余善]] shows the pattern through diverging promise and conduct. He promises troops for Han's Nanyue campaign, stops at [[Jieyang|揭阳]], and secretly contacts Nanyue. Once Panyu falls without his arrival, inaction becomes legible evidence to [[YangPuWesternHan|杨仆]], while nearby Han troops become a threat signal to Yu Shan. His later attacks show how option preservation can collapse into the war it sought to avoid.
 
 [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] supplies the pre-test version: Wei Xiao can cooperate with Liu Xiu against Gongsun Shu and even kill Gongsun Shu's title-bearing envoy, but he still walks while watching and lacks a settled position. This turns fence-sitting from an immediately hostile act into a prior relationship defect: useful cooperation remains unstable when it does not become durable public alignment.
 
@@ -30,7 +33,7 @@ Hanji 1036 brings the exposure into the immediate Yuan-Cao field. Yuan Shao asks
 
 ## Key Claims
 
-- Neutrality can be a short-term safety strategy without being a durable state-building strategy.
+- Neutrality can be a short-term safety strategy, but promised action followed by visible nonperformance can convert ambiguity into evidence of disloyalty after one side wins.
 - Fence-sitting can coexist with courteous contact and useful cooperation; the danger begins when contact does not become a clear and durable position.
 - Partial credibility signals, such as hostage dispatch or envoy probes, cannot substitute for an actual alignment decision.
 - Local fissures make neutrality exploitable because outside powers can attach discontented subregions without conquering the whole territory.
@@ -39,6 +42,9 @@ Hanji 1036 brings the exposure into the immediate Yuan-Cao field. Yuan Shao asks
 - Defensive governance must be paired with internal integration and strategic initiative if the region is not to become another actor's battlefield.
 
 ## Evidence
+
+- Promise, covert hedge, and nonperformance: [[zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc|Hanji 355]] says Yu Shan offers troops to Han, stops before battle, secretly contacts Nanyue, and reaches neither credible alignment nor protected neutrality.
+- Ambiguity becoming exposure: [[zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc|Hanji 355]] says Panyu falls before Yu Shan arrives, Yang Pu requests an attack, and Yu Shan responds to nearby Han forces with open war.
 
 - Courted but exposed middle position: [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|Hanji 689-1]] says Liu Xiu courts Wei Xiao through Lai Xi because Wei Xiao's alignment would isolate Gongsun Shu.
 - Courtesy without closure: [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|Hanji 689-1]] says Liu Xiu treats Wei Xiao with unusually high ceremony while the source still marks Wei Xiao as suspicious.
@@ -55,15 +61,14 @@ Hanji 1036 brings the exposure into the immediate Yuan-Cao field. Yuan Shao asks
 
 ## Counterevidence & Qualifications
 
-The sources do not deny that Wei Xiao's and Liu Biao's caution preserved real options for a time. Hanji 689-1 shows why Liu Xiu still had reason to court Wei Xiao, and Hanji 691 shows Wei Xiao still providing real anti-Shu value before later refusal. Wei Xiao faced Gongsun Shu, Lu Fang, local obligations, and hostage risk; Liu Biao preserved local order in Jingzhou. The concept is therefore not a blanket rejection of caution. It names the point where caution becomes exposure: when other actors can convert the neutral space into leverage faster than the neutral actor can decide, integrate, submit, or exit.
+The sources do not deny that Yu Shan, Wei Xiao, and Liu Biao faced real risk whichever side they chose. Hanji 355 does not prove that immediate commitment would have saved Yu Shan; Wei Xiao faced rival powers and hostage risk; Liu Biao preserved local order. The concept is not a blanket rejection of caution. It names the point where promises and behavior diverge, or other actors convert neutral space into leverage faster than the neutral actor can decide, integrate, submit, or exit.
 
 ## What Changed
 
-- Added Hanji 689-1 as the pre-cooperation courtship layer, showing that personal channels and high courtesy can open contact without resolving strategic exposure.
-- Added Hanji 698 as an early Eastern Han case where Wei Xiao's hostage-backed but noncommittal posture illustrates fence-sitting before open rebellion.
-- Preserved the existing Hanji 1027 Liu Biao source as the regional-fissure case.
-- Preserved Hanji 1036's Han Song-Liu Xian warning as the clearest advisory statement that Liu Biao's neutrality could alienate both Yuan Shao and Cao Cao.
-- Expanded the concept from regional fissure exposure and envoy missions to include hostage-only credibility signals and ignored submission counsel.
+- Added Yu Shan as a Western Han case where promised aid, covert hedging, and nonarrival turn neutrality into observable disloyalty.
+- Distinguished prudent delay from the more dangerous case where public promises and conduct diverge.
+- Retained Wei Xiao as the courtesy, cooperation, hostage, and delayed-submission branch.
+- Retained Liu Biao as the regional-fissure and forced-envoy branch.
 
 ## Related Concepts
 

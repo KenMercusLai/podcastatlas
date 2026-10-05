@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！](sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc.md) — 余善请兵助汉却停在揭阳、暗通南越，番禺失守后其骑墙姿态暴露，并由阻断汉道升级为公开反叛与自立。
 - [《资治通鉴·汉纪》354｜海南是如何纳入中国的？](sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf.md) — 杨仆强攻与路博德招降共同瓦解番禺防守，南越灭亡后汉朝设置九郡，并以珠崖、儋耳两郡把海南纳入郡县体系；连续有效控制仍受后续动乱与废郡史限定。
 - [《资治通鉴·汉纪》353-1｜杨仆如何当上中国首位海军司令？](sources/zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7.md) — 五路汉军会攻南越，杨仆从豫章率楼船水师、路博德从桂阳方向进军；“中国首位海军司令”被保留为基于楼船将军职能的来源限定类比。
 - [《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？](sources/zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch.md) — 韩千秋军在番禺附近覆灭后，汉武帝以抚恤与封赏遗孤肯定先锋之勇，并征调十万军、选路博德和杨仆准备征服南越。
