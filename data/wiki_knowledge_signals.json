@@ -12276,6 +12276,29 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/ancientchineseeroticimagery/"
     },
+    "AncientChineseSoulSummoning": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？ [lvn0xka_dxL88qO5IroSEKs852hA].md",
+          "key": "zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/ancientchinesesoulsummoning/"
+    },
     "AncientDivineIdentitySyncretism": {
       "episode_count": 3,
       "show_count": 1,
@@ -75711,9 +75734,9 @@
       "url": "/wiki/entities/fangzhilatehan/"
     },
     "FangshiAccountabilityTrap": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇1 正史记载 看女相师如何改命？ [ls8LFj4pq_Ncsk7X3ER7nlB0lTKK].md",
@@ -75749,15 +75772,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床",
           "url": "/wiki/sources/zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？ [lvn0xka_dxL88qO5IroSEKs852hA].md",
+          "key": "zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/fangshiaccountabilitytrap/"
     },
     "FangshiFraudAndAuthority": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒 [luLAivzp1xqs71NbAltR-yGpJihw].md",
@@ -75807,9 +75837,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床",
           "url": "/wiki/sources/zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？ [lvn0xka_dxL88qO5IroSEKs852hA].md",
+          "key": "zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/fangshifraudandauthority/"
     },
     "FangshiPowerRedistribution": {
@@ -86494,9 +86531,9 @@
       "url": "/wiki/entities/ganesha/"
     },
     "GanquanPalace": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生 [ls1u8Dmuvs5bbRzaDf2Dtd00js_P].md",
@@ -86518,6 +86555,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？ [lvn0xka_dxL88qO5IroSEKs852hA].md",
+          "key": "zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha/"
         }
       ],
       "updated": "2026-10-06",
@@ -199524,6 +199568,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/shaodangqiang/"
+    },
+    "ShaowengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？ [lvn0xka_dxL88qO5IroSEKs852hA].md",
+          "key": "zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/shaowengwesternhan/"
     },
     "ShaqiuGuanduLateHan": {
       "episode_count": 1,

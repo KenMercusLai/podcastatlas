@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？](sources/zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha.md) — 少翁以隔幕招魂、文成将军封号和求仙工程取得汉武帝信任，后以牛腹帛书续骗局，却因字迹暴露而被处死。
 - [《资治通鉴·汉纪》331-4｜吃花椒能自杀？别傻了！](sources/zizhi-tongjian-hanji-331-4-chi-huajiao-neng-zisha-bie-sha-le-lhto8ydkeetl8sjwoxyxkkehi66e.md) — 以史书“椒杀”、闭口椒记载与日常食用经验相互校验，强调毒性判断必须区分品种、形态、制法、暴露途径、剂量和证据质量。
 - [《资治通鉴·汉纪》332-1｜古代最高危职业之一，居然有TA](sources/zizhi-tongjian-hanji-332-1-gudai-zuigaowei-zhiye-zhiyi-juran-you-ta-lk6luhbh37m9xnachwjp9zbdmcnu.md) — 李蔡由文帝侍从、军功封侯走到武帝朝丞相；节目据此提出强势君主下丞相既须顺从又须处理战争、财政与朝廷协调的双重约束。
 - [Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈](sources/8226494223-026583.md) — 捕蛇者说访谈 Bub 开发者，讨论群聊 Agent 的选择性参与、tape/anchor/handoff 上下文架构、skills、自我扩展、成本、权限与验证边界。
@@ -3883,6 +3884,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South](sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south.md) — Data Science With Sam episode on Google's India commitments, AI-for-science funding, Global South participation, connectivity, and India's possible AI-governance role.
 
 ## Entities
+- [少翁 / Shaoweng (Western Han)](entities/ShaowengWesternHan.md) — 汉武帝朝方士，以隔幕招魂获宠，又因牛腹帛书造假暴露并成为栾大后来议价时援引的前例。
 - [《带着花椒去上朝：古杀十九式》](entities/DaizheHuajiaoQuShangchao.md) — 汉纪331-4引用的古代杀人方式通俗史著作，其“椒杀”考证在当前证据中仍需回到原书与底层史料核验。
 - [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 历经文、景、武三朝并由军功封侯走到丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
 - [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 经历罢免与宾客离散后被重新起用，以清名治理淮阳并直言预警张汤、最终卒于任上的西汉直臣。

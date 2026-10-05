@@ -30547,3 +30547,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？
+
+Added source `zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha`; created [[ShaowengWesternHan|少翁]]; and resynthesized [[AncientChineseSoulSummoning|招魂]], [[FangshiFraudAndAuthority|方士骗术与权威]], [[FangshiAccountabilityTrap|方士问责陷阱]], and [[GanquanPalace|甘泉宫]] from their complete preserved evidence inventories. Core synthesis: Shaoweng turns imperial grief and immortality desire into authority through an extreme-age persona, controlled-view apparition, title, and sacred construction, but his ox-belly silk sign leaves recognizable handwriting; the resulting execution becomes the institutional memory that [[LuanDaWesternHan|栾大]] later uses to negotiate patience and protection. No settled contradiction was adopted. The shadow-play explanation, inventor attribution, exact apparition and handwriting mechanics, interrogation, execution, cover story, and the claim that Shaoweng first “built” Ganquan remain source-scoped; the latter is qualified as construction or reconfiguration within a pre-existing palace area. Broad [[HanWudi|汉武帝]], [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]], and [[ZizhiTongjian|《资治通鉴》]] pages were read for context but not reopened because the bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic, global compaction was not due, and the refreshed manifest and paragraph ledger validate 3,819 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

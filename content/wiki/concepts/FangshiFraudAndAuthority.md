@@ -10,7 +10,8 @@ sources:
   - 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997
   - zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa
   - zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha
+last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,7 +21,7 @@ knowledge_schema: synthesis-v1
 Fangshi fraud and authority describes the risk that a specialist claiming privileged access to omens, immortals, or other unverifiable forces gains material and political influence by controlling how uncertainty is explained. The concern is exploitative claims and practices, not a claim that every form of divination or every believer is fraudulent.
 
 ## Current Synthesis
-At court, a ruler's desire to escape death can fund distant search, give value to ambiguous omens, and make secrecy appear necessary for success. A claimant can enter by mapping that desire, presenting low status as the obstacle to delivery, using a predecessor's punishment to negotiate patience, and pairing unverifiable access with a small visible demonstration. Authority can then be manufactured socially: rank, ritual, marriage, and elite gift-giving make one claimant's access public and encourage imitation. Once promised results fail, direct monitoring may convert sacred ambiguity into an ordinary factual contradiction. The Qin episodes trace parts of one Qin Shi Huang narrative, while the three Han-facing sources overlap on Luan Da and should not be counted as independent confirmation.
+At court, a ruler's desire to escape death or recover contact with the dead can fund distant search, give value to ambiguous signs, and make restricted access appear necessary for success. [[ShaowengWesternHan|少翁]] adds an early Western Han authority cycle: an extreme-age claim and historical knowledge create a persona, a screened apparition turns grief into apparent proof, rank and construction follow, and a planted ox-belly text finally leaves recognizable handwriting. A later claimant can enter by mapping the same desire, presenting low status as the obstacle to delivery, using a predecessor's punishment to negotiate patience, and pairing unverifiable access with a small visible demonstration. Authority can then be manufactured socially through rank, ritual, marriage, and elite gifts. Once results fail, handwriting or surveillance may convert sacred ambiguity into an ordinary factual contradiction. The Qin episodes trace parts of one Qin Shi Huang narrative, while the Han-facing sources are overlapping podcast accounts and should not be counted as independent confirmation.
 
 ## Key Claims
 - Belief can answer real uncertainty; the fraud warning concerns practitioners who exploit fear, staged signs, inaccessible proof, or promises to extract resources and deference.
@@ -28,6 +29,7 @@ At court, a ruler's desire to escape death can fund distant search, give value t
 - Lu Sheng's returned warning, “亡秦者胡,” grants the specialist interpretive authority, but does not alone explain Qin's northern campaign.
 - Lu Sheng's advice to hide the emperor's whereabouts shows how a claim about reaching immortals could reorganize court conduct, surveillance, and punishment.
 - Undelivered promises, flight, criticism, and punitive investigation show a feedback trap: fearing the ruler makes bad news harder to deliver, while the ruler's retaliation magnifies the damage.
+- Shaoweng's arc shows how grief, controlled visibility, and a physical prop can produce authority, but a planted sign becomes vulnerable once it carries identifiable human workmanship.
 - Luan Da's rise and fall show a full authority cycle: desire mapping, status bargaining, predecessor-based risk inoculation, staged visible proof, social certification through patronage, and finally monitored contradiction.
 
 ## Evidence
@@ -38,14 +40,15 @@ At court, a ruler's desire to escape death can fund distant search, give value t
 - **Breakdown of feedback:** [[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw]] narrates [[HouShengFangshi|侯生]] and [[LuSheng|卢生]]'s flight and criticism of the emperor's political style, subsequent interrogations, and the reported mass punishment. Their exit becomes part of a court-information failure rather than a successful delivery of the promise. The episode distinguishes this from the earlier book-burning policy and leaves the precise identity of those punished uncertain.
 - **Social certification and verification:** [[zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa|Hanji 344-2]] says [[LuanDaWesternHan|栾大]] receives titles, seals, wealth, an imperial marriage, and gifts from court figures, after which other fangshi seek similar access. Repeated nondelivery erodes trust, and surveillance contradicts his claim to have met his teacher, making punishment rest on a checkable report as well as failed sacred performance.
 - **Desire-aligned entry and visible proof:** [[zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc|Hanji 344-1]] says Luan Da reads Wudi's wish for immortality, makes higher status a condition of sacred access, invokes 少翁's death to seek patience, and then wins confidence with “斗棋.” The host suggests hidden magnetism, but the source supplies no direct mechanism evidence.
+- **Grief, restricted viewing, and a traceable prop:** [[zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha|Hanji 331-1]] says Shaoweng claims extraordinary age and spirit access, shows Wudi a screened Wang夫人 apparition, receives title and sacred-construction patronage, then plants a silk text in a cow. The episode makes recognizable handwriting the exposure point, while its shadow-play explanation remains unverified.
 
 ## Counterevidence & Qualifications
-The Qin installments are connected episodes of one show and one imperial narrative, not four independent historical confirmations. Xu Fu's renewed resource request differs from Lu Sheng's omen and secrecy advice; treating both as the same transaction would erase their mechanisms. The broader fangshu tradition also preserved observation, calendars, and technical lore alongside unsupported immortality claims; it cannot be reduced to court fraud. The historian-facing uncertainty over whether those killed were fangshi, scholars, or both remains unresolved here. Court secrecy and violence do not prove that every specialist deliberately deceived the ruler. The Luan Da material appears in three overlapping podcast sources, none a primary-text dossier; “斗棋” mechanics, dialogue, rewards, imitation, surveillance, intent, and legal sequence remain source-attributed. The narrator's claim that frontier war made sense independently of prophecy is an interpretation, and Hu Hai's name is a hindsight reading, not contemporary foresight.
+The Qin installments are connected episodes of one show and one imperial narrative, not four independent historical confirmations. Xu Fu's renewed resource request differs from Lu Sheng's omen and secrecy advice; treating both as the same transaction would erase their mechanisms. The broader fangshu tradition also preserved observation, calendars, and technical lore alongside unsupported immortality claims; it cannot be reduced to court fraud. The historian-facing uncertainty over whether those killed were fangshi, scholars, or both remains unresolved here. Court secrecy and violence do not prove that every specialist deliberately deceived the ruler. The Shaoweng and Luan Da material comes through overlapping podcast retellings, not primary-text dossiers; apparition mechanics, handwriting identification, dialogue, rewards, surveillance, intent, and legal sequence remain source-attributed. The narrator's claim that frontier war made sense independently of prophecy is an interpretation, and Hu Hai's name is a hindsight reading, not contemporary foresight.
 
 ## What Changed
-- The Luan Da case now begins with desire mapping, status bargaining, and a staged visible demonstration rather than only with later patronage.
-- The full cycle now separates entry credibility, social certification, nondelivery, and verification.
-- The “斗棋” trick explanation remains explicitly unverified rather than being treated as established mechanics.
+- Added Shaoweng as the earlier Han cycle linking bereavement, restricted-view proof, rank, construction, forged physical evidence, and execution.
+- Distinguished trace-based exposure through handwriting from Luan Da's later itinerary-based exposure through surveillance.
+- Kept both the shadow-play and hidden-magnet explanations explicitly unverified.
 
 ## Related Concepts
 - [[ImmortalityQuestPolitics]] - describes the ruler's demand that makes specialist promises valuable.
@@ -60,3 +63,4 @@ The Qin installments are connected episodes of one show and one imperial narrati
 - [[ScientificSkepticism]] - frames the protective, rather than contemptuous, response to unsupported supernatural claims.
 - [[OccamsRazor]] - is a modern heuristic for testing simpler explanations of staged effects, not an independent verdict on ancient practices.
 - [[LuanDaWesternHan|栾大]] - Han case joining extraordinary patronage, imitation incentives, nondelivery, verification, and punishment.
+- [[ShaowengWesternHan|少翁]] - earlier Han case whose death becomes Luan Da's precedent for negotiating protection.
