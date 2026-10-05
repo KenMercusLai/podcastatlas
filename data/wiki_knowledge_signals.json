@@ -108139,9 +108139,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -108156,9 +108156,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴",
           "url": "/wiki/sources/zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子 [luPXHu64Fi0d0XL223zq9PWEnmY1].md",
+          "key": "zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/huoqubing/"
     },
     "HuoShanSonOfHuoQubing": {
@@ -125268,9 +125275,9 @@
       "url": "/wiki/concepts/knowledgeexternalizationtradeoff/"
     },
     "KnownMisconductNonPunishment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？ [lt0QB7aLYh0IPf6mK8hVz92cS297].md",
@@ -125278,9 +125285,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》752丨失去靠山的人该如何处世？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子 [luPXHu64Fi0d0XL223zq9PWEnmY1].md",
+          "key": "zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/knownmisconductnonpunishment/"
     },
     "KojaGentar": {
@@ -129781,6 +129795,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/lifulatehan/"
     },
+    "LiGanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子 [luPXHu64Fi0d0XL223zq9PWEnmY1].md",
+          "key": "zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/liganwesternhan/"
+    },
     "LiGaoRunanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -129919,9 +129949,9 @@
       "url": "/wiki/entities/ligulatehan/"
     },
     "LiGuangHanGeneral": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -129936,9 +129966,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》377-1｜李陵请战匈奴，汉武帝为何不愿他当前锋？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子 [luPXHu64Fi0d0XL223zq9PWEnmY1].md",
+          "key": "zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/liguanghangeneral/"
     },
     "LiGuangliWesternHan": {
@@ -188644,9 +188681,9 @@
       "url": "/wiki/concepts/rewardpredictionerrorlearning/"
     },
     "RewardedDenunciationFiscalEnforcement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？ [ljRcAWwbJ5LvbJ1QTPLTdgNXklUI].md",
@@ -188654,9 +188691,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子 [luPXHu64Fi0d0XL223zq9PWEnmY1].md",
+          "key": "zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/rewardeddenunciationfiscalenforcement/"
     },
     "RexHunt": {
@@ -232192,9 +232236,9 @@
       "url": "/wiki/entities/weiqiansanlian/"
     },
     "WeiQingHanGeneral": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -232230,9 +232274,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》369-1｜卫青之死 竟让汉武帝如此疯狂？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子 [luPXHu64Fi0d0XL223zq9PWEnmY1].md",
+          "key": "zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/weiqinghangeneral/"
     },
     "WeiShanWesternHan": {
@@ -241837,6 +241888,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/yangguangweixiaoretainer/"
     },
+    "YangKeWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子 [luPXHu64Fi0d0XL223zq9PWEnmY1].md",
+          "key": "zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/yangkewesternhan/"
+    },
     "YangKuangDuQiaoRetainer": {
       "episode_count": 1,
       "show_count": 1,
@@ -242839,9 +242906,9 @@
       "url": "/wiki/entities/yiyanmoyan/"
     },
     "YiZongWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -242849,9 +242916,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子 [luPXHu64Fi0d0XL223zq9PWEnmY1].md",
+          "key": "zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/yizongwesternhan/"
     },
     "YianPrincessWesternHan": {

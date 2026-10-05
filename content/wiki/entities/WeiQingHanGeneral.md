@@ -9,11 +9,12 @@ sources:
   - zizhi-tongjian-hanji-616-plus-pan-dian-shi-shang-de-hao-se-nv-ren-men-lgsf8_asfrictdmsptsyfizykpon
   - zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98
   - zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1
+last_updated: 2026-10-06
 ---
 
 ## Overview
-卫青 / Wei Qing is synthesized as a high-merit Western Han commander whose humility, credit-sharing, continued court deference, and enduring prestige made him both a safer powerful subordinate and, in the source-scoped Hanji 369-1 interpretation, a stabilizing military-political counterweight. His death marks a senior-command and personnel transition, while later Wugu evidence shows that his prior favor could not protect his family after his personal influence disappeared.
+卫青 / Wei Qing is synthesized as a high-merit Western Han commander whose humility, credit-sharing, continued court deference, and enduring prestige made him both a safer powerful subordinate and, in the source-scoped Hanji 369-1 interpretation, a stabilizing military-political counterweight. His handling of [[LiGanWesternHan|李敢]]'s assault adds private forbearance to that profile, although the unresolved grievance later becomes lethal through [[HuoQubing|霍去病]]. His death marks a senior-command and personnel transition, while later Wugu evidence shows that his prior favor could not protect his family after his personal influence disappeared.
 
 ## Current Profile
 Hanji 1065 uses Wei Qing as one of the safer high-merit models in [[HighMeritThreatManagement|high merit threat management]]. His battlefield success is not the main claim there; the source emphasizes the posture after success. Wei Qing remains deferential toward [[HanWudi|汉武帝]] and shares credit with subordinates, making him a contrast to figures who turn merit into public superiority or independent threat.
@@ -26,14 +27,15 @@ The transition evidence adds only a narrow role outside those established branch
 
 [[zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer|Hanji 369-1]] gives that transition a stronger but explicitly interpretive political meaning. It says Wei Qing remained important to imperial military standards and court stability after active campaigning, received an honored tomb and the posthumous title Lie, and functioned like a stabilizing weight on the polity. The host then argues that his death removed a person able to balance Wudi's authority, increasing imperial insecurity and control-seeking. This extends Wei Qing from a vacancy marker into a proposed counterweight, but the causal chain is not independently demonstrated.
 
+A conflict-containment case extends that profile. After [[LiGuangHanGeneral|李广]] dies following a missed movement and inquiry, Li Gan blames and assaults Wei Qing. Wei conceals the assault instead of pursuing punishment in [[zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1|Hanji 335]]. That restraint is consistent with the page's low-threat, non-escalatory profile, but the source does not establish whether it came from guilt, political judgment, compassion, or another motive. The later killing of Li Gan by Wei's nephew Huo Qubing also shows that one actor's forbearance does not settle a grievance across a kin network.
+
 ## Key Characteristics
-- High-merit Western Han commander used as a model of humility after achievement.
-- Figure whose source-scoped safety pattern depends on deference toward the emperor rather than public status rivalry.
-- Credit-sharing example used to show that distributing recognition can lower the threat profile of a successful commander.
+- High-merit Western Han commander whose humility, imperial deference, and credit-sharing lower his source-scoped threat profile.
 - Posthumous family-risk case showing that a commander's prior favor does not necessarily protect descendants when succession politics turn.
 - Husband in the episode's elite-remarriage example around Pingyang Princess.
 - Senior-command vacancy marker whose death helps trigger a broad Han Wudi recruitment response.
 - Source-scoped stabilizing counterweight whose death is used to explain a later turn toward greater imperial suspicion and control.
+- Conflict-container who conceals Li Gan's assault rather than escalating it through formal punishment.
 
 ## Evidence
 - Humility after merit: [[zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17|Hanji 1065]] says Wei Qing remains respectful toward Emperor Wu despite great military contribution.
@@ -45,13 +47,14 @@ The transition evidence adds only a narrow role outside those established branch
 - Recruitment transition: [[zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98|Hanji 369-2]] places Wei Qing's death immediately before Han Wudi's talent-shortage edict.
 - Continuing stabilizer and honor: [[zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer|Hanji 369-1]] says Wei Qing remained important after his last campaigns and received a specially shaped tomb and the posthumous title Lie.
 - Counterweight interpretation: [[zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer|Hanji 369-1]] presents his death as removing a check on Wudi's authority and thereby worsening insecurity and control-seeking.
+- Private forbearance: [[zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1|Hanji 335]] says Wei Qing conceals Li Gan's assault and does not pursue punishment.
 
 ## Qualifications
-This page remains source-scoped to Hanji 1065's comparison, Hanji 384-1's Wugu prelude, Hanji 616 plus's brief marriage example, Hanji 369-2's vacancy transition, and Hanji 369-1's stabilizer interpretation. It does not provide a full military biography, reconstruct Wei Qing's campaigns, assess every interpretation of his relationship with Emperor Wu, or supply complete genealogical and legal records for Wei Kang, Wei Buyi, and Wei Deng. Hanji 369-2 does not name the other depleted officials or prove that Wei Qing's death alone created the shortage. Hanji 369-1 does not prove that his death caused Wudi's later violence, establish his exact age, or substantiate the claim that nearly every imperial commander learned from him. The remarriage example establishes an elite case rather than population-wide Han practice.
+This page remains source-scoped to six compact podcast notes. It does not provide a full military biography, reconstruct Wei Qing's campaigns, assess every interpretation of his relationship with Emperor Wu, or supply complete genealogical and legal records for Wei Kang, Wei Buyi, and Wei Deng. Hanji 369-2 does not name the other depleted officials or prove that Wei Qing's death alone created the shortage. Hanji 369-1 does not prove that his death caused Wudi's later violence, establish his exact age, or substantiate the claim that nearly every imperial commander learned from him. Hanji 335 does not establish why Wei concealed Li Gan's assault or prove the host's suggestion that he felt guilty. The remarriage example establishes an elite case rather than population-wide Han practice.
 
 ## What Changed
-- Added Hanji 369-1's qualified picture of Wei Qing as a continuing military-political stabilizer and proposed counterweight after active campaigning.
-- Distinguished evidence of honor and personnel importance from the host's unproven claim that his death caused Wudi's control escalation.
+- Added Wei Qing's concealment of Li Gan's assault as a conflict-containment case.
+- Kept guilt, political calculation, and other motive explanations unresolved.
 
 ## Relationships
 - [[HighMeritThreatManagement]] - concept Wei Qing exemplifies through humility and credit-sharing.
@@ -64,3 +67,5 @@ This page remains source-scoped to Hanji 1065's comparison, Hanji 384-1's Wugu p
 - [[FemaleMarriageAgencyHistoricalVariation]] - concept for which the marriage supplies a source-scoped example.
 - [[TalentSummonsRulerSelfExamination]] - recruitment concept activated by the vacancy crisis following Wei Qing's death.
 - [[CounterweightLossControlEscalation]] - interpretive mechanism in which Wei Qing's disappearance increases ruler insecurity despite reducing open constraint.
+- [[LiGanWesternHan|李敢]] - grieving officer whose assault Wei Qing conceals.
+- [[HuoQubing|霍去病]] - nephew whose later killing of Li Gan defeats Wei Qing's apparent de-escalation.

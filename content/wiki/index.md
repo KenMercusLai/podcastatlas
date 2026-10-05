@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子](sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1.md) — 告缗执行冲突与李敢之死并置：义纵因抓捕杨可属吏被杀，霍去病则在甘泉宫射杀李敢并因受宠而获包庇。
 - [652. London’s Golden Age: The Ghosts of Culloden (Part 3)](sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848.md) — The Rest Is History on Johnson and Boswell’s 1773 Hebridean tour, Jacobite memory, literary friendship, and post-Culloden Highland transformation.
 - [EP 32: AI Discovers Drugs: The 2026 Clinical Trial Moment for AI in Biotech](sources/ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech.md) — Data Science With Sam explainer on AI-prioritized drug candidates, phase 2/3 clinical stress tests, toxicity, biological generalization, and missing candidate-level evidence.
 - [Science-Based Meditation Tools to Improve Your Brain & Health | Dr. Richard Davidson](sources/science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306.md) — Huberman Lab interview on brief sustainable meditation, state-to-trait change, meta-awareness, flourishing, and evidence boundaries around clinical and neural claims.
@@ -3869,6 +3870,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 
 ## Entities
+- [李敢 / Li Gan (Western Han)](entities/LiGanWesternHan.md) — 李广之子与霍去病旧部，因父死袭击卫青，后在甘泉宫狩猎中被霍去病射杀。
+- [杨可 / Yang Ke (Western Han)](entities/YangKeWesternHan.md) — 汉武帝朝告缗执行者，其属吏被义纵抓捕后引发抗诏问责与义纵之死。
 - [Charles Edward Stuart](entities/CharlesEdwardStuart.md) — Stuart claimant whose 1745 campaign, defeat, escape, and memory shaped the Hebridean tour.
 - [Flora MacDonald](entities/FloraMacDonald.md) — Participant in Charles Edward Stuart’s escape and living carrier of Jacobite memory in 1773.
 - [A Journey to the Western Islands of Scotland](entities/AJourneyToTheWesternIslands.md) — Samuel Johnson’s travel account joining landscape, manners, and Highland historical change.
