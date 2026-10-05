@@ -95239,9 +95239,9 @@
       "url": "/wiki/entities/hanpingdi/"
     },
     "HanQianqiuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？ [li16pfjb6P0OWYS5HtEcscFoMHCh].md",
@@ -95249,6 +95249,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国 [lgpUqijq5KyD5iVH8ajlClo8oJeX].md",
+          "key": "zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex/"
         }
       ],
       "updated": "2026-10-05",
@@ -118437,6 +118444,29 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/jinniuroad/"
     },
+    "JiuLeNanyue": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？ [li16pfjb6P0OWYS5HtEcscFoMHCh].md",
+          "key": "zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国 [lgpUqijq5KyD5iVH8ajlClo8oJeX].md",
+          "key": "zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/jiulenanyue/"
+    },
     "JiuXiRitualPromotion": {
       "episode_count": 2,
       "show_count": 1,
@@ -138949,9 +138979,9 @@
       "url": "/wiki/entities/lyudai/"
     },
     "LyuJiaNanyue": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？ [li16pfjb6P0OWYS5HtEcscFoMHCh].md",
@@ -138973,6 +139003,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国 [lgpUqijq5KyD5iVH8ajlClo8oJeX].md",
+          "key": "zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex/"
         }
       ],
       "updated": "2026-10-05",
@@ -153826,9 +153863,9 @@
       "url": "/wiki/entities/nansunshi/"
     },
     "Nanyue": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -153878,6 +153915,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国 [lgpUqijq5KyD5iVH8ajlClo8oJeX].md",
+          "key": "zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex/"
         }
       ],
       "updated": "2026-10-05",
@@ -179786,6 +179830,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/queenanttraffickingecology/"
+    },
+    "QueenDowagerJiuNanyue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国 [lgpUqijq5KyD5iVH8ajlClo8oJeX].md",
+          "key": "zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/queendowagerjiunanyue/"
     },
     "QueenEmmaOfHawaii": {
       "episode_count": 1,
@@ -244246,6 +244306,29 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhaohuwesternhan/"
     },
+    "ZhaoJiandeNanyue": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？ [ltRRZ2RwuR7-GYwNON_8khWpMCHf].md",
+          "key": "zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》354｜海南是如何纳入中国的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国 [lgpUqijq5KyD5iVH8ajlClo8oJeX].md",
+          "key": "zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhaojiandenanyue/"
+    },
     "ZhaoJinLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -244528,6 +244611,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhaoxinchenwesternhan/"
+    },
+    "ZhaoXingNanyue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国 [lgpUqijq5KyD5iVH8ajlClo8oJeX].md",
+          "key": "zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhaoxingnanyue/"
     },
     "ZhaoXuLateHan": {
       "episode_count": 1,
@@ -247155,6 +247254,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/zhuatewu/"
+    },
+    "ZhuangCanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国 [lgpUqijq5KyD5iVH8ajlClo8oJeX].md",
+          "key": "zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhuangcanwesternhan/"
     },
     "ZhuangbiAsSocialSignaling": {
       "episode_count": 1,

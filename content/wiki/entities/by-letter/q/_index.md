@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 12427
+wiki_total_pages: 12432
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "QiaoRui"
     title: "桥蕤 / Qiao Rui"
     url: "/wiki/entities/qiaorui/"
+  - key: "QueenDowagerJiuNanyue"
+    title: "樛太后 / Queen Dowager Jiu (Nanyue)"
+    url: "/wiki/entities/queendowagerjiunanyue/"
   - key: "Qiuzhen"
     title: "求珍 / Qiuzhen"
     url: "/wiki/entities/qiuzhen/"

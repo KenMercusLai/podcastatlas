@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12427
+wiki_total_pages: 12432
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "ZuoXiongLateHan"
     title: "左雄 / Zuo Xiong (late Han)"
     url: "/wiki/entities/zuoxionglatehan/"
+  - key: "ZhuangCanWesternHan"
+    title: "庄参 / Zhuang Can (Western Han)"
+    url: "/wiki/entities/zhuangcanwesternhan/"
   - key: "Zhuangzi"
     title: "庄子"
     url: "/wiki/entities/zhuangzi/"
@@ -1436,6 +1439,9 @@ wiki_pages:
   - key: "ZhaoGuangyi"
     title: "赵光义 / Song Taizong"
     url: "/wiki/entities/zhaoguangyi/"
+  - key: "ZhaoXingNanyue"
+    title: "赵兴 / Zhao Xing (Nanyue)"
+    url: "/wiki/entities/zhaoxingnanyue/"
   - key: "ZhaoDianLateHan"
     title: "赵典 / Zhao Dian (late Han)"
     url: "/wiki/entities/zhaodianlatehan/"
@@ -1502,6 +1508,9 @@ wiki_pages:
   - key: "ZhaoTingmei"
     title: "赵廷美 / Zhao Tingmei"
     url: "/wiki/entities/zhaotingmei/"
+  - key: "ZhaoJiandeNanyue"
+    title: "赵建德 / Zhao Jiande (Nanyue)"
+    url: "/wiki/entities/zhaojiandenanyue/"
   - key: "ZhaoHongLateHan"
     title: "赵弘 / Zhao Hong (late Han)"
     url: "/wiki/entities/zhaohonglatehan/"

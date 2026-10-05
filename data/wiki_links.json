@@ -44035,6 +44035,10 @@
     "title": "Jitong Spirit Medium / 鸡童（乩童）",
     "url": "/wiki/concepts/jitongspiritmedium/"
   },
+  "JiuLeNanyue": {
+    "title": "樛乐 / Jiu Le (Nanyue-Han mission)",
+    "url": "/wiki/entities/jiulenanyue/"
+  },
   "JiuXiRitualPromotion": {
     "title": "九锡礼遇 / Nine Bestowments Ritual Promotion",
     "url": "/wiki/concepts/jiuxiritualpromotion/"
@@ -66578,6 +66582,10 @@
   "QueenChristinaOfSweden": {
     "title": "Queen Christina of Sweden / 瑞典女王克里斯蒂娜",
     "url": "/wiki/entities/queenchristinaofsweden/"
+  },
+  "QueenDowagerJiuNanyue": {
+    "title": "樛太后 / Queen Dowager Jiu (Nanyue)",
+    "url": "/wiki/entities/queendowagerjiunanyue/"
   },
   "QueenEmmaOfHawaii": {
     "title": "Queen Emma of Hawaii",
@@ -90967,6 +90975,10 @@
     "title": "赵戬 / Zhao Jian (late Han)",
     "url": "/wiki/entities/zhaojianlatehan/"
   },
+  "ZhaoJiandeNanyue": {
+    "title": "赵建德 / Zhao Jiande (Nanyue)",
+    "url": "/wiki/entities/zhaojiandenanyue/"
+  },
   "ZhaoJianzi": {
     "title": "赵简子 / Zhao Jianzi",
     "url": "/wiki/entities/zhaojianzi/"
@@ -91130,6 +91142,10 @@
   "ZhaoXinchenWesternHan": {
     "title": "召信臣 / Zhao Xinchen (Western Han)",
     "url": "/wiki/entities/zhaoxinchenwesternhan/"
+  },
+  "ZhaoXingNanyue": {
+    "title": "赵兴 / Zhao Xing (Nanyue)",
+    "url": "/wiki/entities/zhaoxingnanyue/"
   },
   "ZhaoXixu": {
     "title": "昭奚恤 / Zhao Xixu",
@@ -92042,6 +92058,10 @@
   "ZhuaTewu": {
     "title": "Zhua Tewu / 抓特务",
     "url": "/wiki/entities/zhuatewu/"
+  },
+  "ZhuangCanWesternHan": {
+    "title": "庄参 / Zhuang Can (Western Han)",
+    "url": "/wiki/entities/zhuangcanwesternhan/"
   },
   "ZhuangChenchao": {
     "title": "Zhuang Chenchao",
@@ -99778,6 +99798,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex": {
+    "title": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex/"
   },
   "zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch": {
     "title": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？",

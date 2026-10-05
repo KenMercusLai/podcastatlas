@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12427
+wiki_total_pages: 12432
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1619,6 +1619,9 @@ wiki_pages:
   - key: "JAndTExpress"
     title: "极兔速递"
     url: "/wiki/entities/jandtexpress/"
+  - key: "JiuLeNanyue"
+    title: "樛乐 / Jiu Le (Nanyue-Han mission)"
+    url: "/wiki/entities/jiulenanyue/"
   - key: "JiangdongWarringStates"
     title: "江东 / Jiangdong (Warring States)"
     url: "/wiki/entities/jiangdongwarringstates/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国](sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex.md) — 赵兴与樛太后归汉倾向受吕嘉阻挠，宴席除嘉未成后庄参拒绝两千人任务、韩千秋请战；吕嘉继而杀害王太后与汉使并改立赵建德。
 - [《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋](sources/zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p.md) — 卜式请战南越却无人响应，随后106名列侯因酎金不合格失爵、赵周下狱自杀；节目把礼制问责解释为对贵族拒绝共担战事的政治清算。
 - [《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！](sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc.md) — 余善请兵助汉却停在揭阳、暗通南越，番禺失守后其骑墙姿态暴露，并由阻断汉道升级为公开反叛与自立。
 - [《资治通鉴·汉纪》354｜海南是如何纳入中国的？](sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf.md) — 杨仆强攻与路博德招降共同瓦解番禺防守，南越灭亡后汉朝设置九郡，并以珠崖、儋耳两郡把海南纳入郡县体系；连续有效控制仍受后续动乱与废郡史限定。
@@ -3831,6 +3832,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [赵兴 / Zhao Xing (Nanyue)](entities/ZhaoXingNanyue.md) — 倾向随母亲樛太后归附汉朝，却未能压制吕嘉并在政变中被杀、由赵建德取代的南越第四代国王。
+- [樛太后 / Queen Dowager Jiu (Nanyue)](entities/QueenDowagerJiuNanyue.md) — 支持南越归汉、试图推动宴席除去吕嘉，后被吕嘉以汉人出身和使者关系攻击并杀害的王太后。
+- [赵建德 / Zhao Jiande (Nanyue)](entities/ZhaoJiandeNanyue.md) — 吕嘉杀赵兴母子后拥立、番禺防守崩溃时与吕嘉逃海并被捕的南越末期国王。
+- [庄参 / Zhuang Can (Western Han)](entities/ZhuangCanWesternHan.md) — 以和平出使无需多人、武力行动两千不足为由拒绝南越任务，并成为韩千秋乐观请战之谨慎对照的西汉官员。
+- [樛乐 / Jiu Le (Nanyue-Han mission)](entities/JiuLeNanyue.md) — 樛太后之弟、与韩千秋率两千人进入南越的任务成员，其与下一期“樛罗”及遗孤封赏支线的同一性保持限定。
 - [赵周 / Zhao Zhou (Western Han)](entities/ZhaoZhouWesternHan.md) — 酎金夺爵后因知列侯贡金轻而下狱自杀、并被节目置于南越动员与贵族清算背景中的西汉丞相。
 - [石庆 / Shi Qing (Western Han)](entities/ShiQingWesternHan.md) — 赵周死后由御史大夫升任丞相、在财政、刑法与文学官员分别用事时保持醇谨的西汉大臣。
 - [儋耳郡 / Dan'er Commandery](entities/DanerCommandery.md) — 西汉灭南越后在海南设置、后与珠崖一同进入高成本动乱和废置问题的古代郡级行政实体。

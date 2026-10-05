@@ -30124,3 +30124,11 @@ Added source `zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国
+
+Added source `zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex`; created [[ZhaoXingNanyue|赵兴]], [[QueenDowagerJiuNanyue|樛太后]], [[ZhaoJiandeNanyue|赵建德]], [[ZhuangCanWesternHan|庄参]], and [[JiuLeNanyue|樛乐]]; and resynthesized [[Nanyue|南越]], [[LyuJiaNanyue|吕嘉]], and [[HanQianqiuWesternHan|韩千秋]] from their complete preserved evidence inventories. Core synthesis: Nanyue's final war begins as a divided-authority crisis in which the pro-Han royal party fails to remove Lü Jia, Zhuang Can rejects an undersized coercive mission, Han Qianqiu volunteers on the assumption of internal support, and Lü Jia converts the incursion into anti-royal mobilization, palace killings, and replacement succession. No settled contradiction was adopted. Name forms were normalized to 樛太后、樛乐 and 郏, while the banquet counterfactual, hostile sexual and enslavement allegations, Jiu Le's continuity with Hanji 352-2's “樛罗,” force totals, speeches, motives, and popular support remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,767 sources and retain 791 overview paragraphs.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
