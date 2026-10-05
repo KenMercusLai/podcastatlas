@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9731
+wiki_total_pages: 9734
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -791,6 +791,9 @@ wiki_pages:
   - key: "PhysicalWorldDataFlywheel"
     title: "Physical World Data Flywheel"
     url: "/wiki/concepts/physicalworlddataflywheel/"
+  - key: "PhysicalWorldComputeStack"
+    title: "Physical-World Compute Stack"
+    url: "/wiki/concepts/physicalworldcomputestack/"
   - key: "PhysicianAdministrativeBurden"
     title: "Physician Administrative Burden"
     url: "/wiki/concepts/physicianadministrativeburden/"

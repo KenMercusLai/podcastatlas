@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12465
+wiki_total_pages: 12466
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1103,6 +1103,9 @@ wiki_pages:
   - key: "CityCleta"
     title: "City Cleta"
     url: "/wiki/entities/citycleta/"
+  - key: "CityStorageSystems"
+    title: "City Storage Systems / CloudKitchens"
+    url: "/wiki/entities/citystoragesystems/"
   - key: "CivilAviationAdministrationOfChina"
     title: "Civil Aviation Administration of China / 中国民航总局"
     url: "/wiki/entities/civilaviationadministrationofchina/"

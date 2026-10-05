@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Travis Kalanick & Michael Dell Live from Austin, Texas](sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605.md) — All-In live interviews on Kalanick's physical-world compute stack, specialized robotics and mining, Dell's distributed AI infrastructure and top-down process redesign, and the Dell family's child-account pledge.
 - [VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”](sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2.md) — 这病说来话长 episode with 郑超 on crash-diet risk, metabolic-health outcomes, the “8+X” multidisciplinary model, individualized exercise, procedures, and digital follow-up.
 - [《资治通鉴·汉纪》341-5｜你不知道的冷知识：科举里的女学子](sources/zizhi-tongjian-hanji-341-5-ni-bu-zhidao-de-lengzhishi-keju-li-de-nvxuezi-fm2nbjlzqbw6dszhxv5hm5b4koce.md) — 以科举的选官功能和长期发展为背景，用林幼玉通过南宋童子科考核却仅获特别封号的案例，区分规则沉默、个案认可与女性的稳定制度准入。
 - [《资治通鉴·汉纪》341-4｜被低估的他，堪称中国最硬核的诗人](sources/zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep.md) — 韩愈奉命进入王廷凑控制的承德军，以叛乱者及后代的结局劝说军众；节目把这次宣抚与晚年诗作、后世评价并置为士大夫责任画像。
@@ -3860,6 +3861,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 
 ## Entities
+- [City Storage Systems / CloudKitchens](entities/CityStorageSystems.md) — Travis Kalanick's food-infrastructure company framework joining manufacturing, real estate, logistics, and automation.
 - [Zheng Chao / 郑超](entities/ZhengChaoEndocrinologist.md) — Zhejiang University Second Affiliated Hospital endocrinologist who frames weight management through metabolic health, sustainable pacing, and coordinated care.
 - [林幼玉 / Lin Youyu](entities/LinYouyu.md) — 南宋通过童子科特别考核并获封孺人的女童，其个案体现才学认可与常规入仕资格之间的差别。
 - [王廷凑 / Wang Tingcou (Tang)](entities/WangTingcouTang.md) — 镇州兵变后控制承德、以军众威慑韩愈，并成为其宣抚演说对象的唐代藩镇人物。
@@ -16376,6 +16378,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [Physical-World Compute Stack](concepts/PhysicalWorldComputeStack.md) — Atoms-system analogy joining manufacturing, real estate, logistics, hardware, land, materials, and capital.
+- [Top-Down AI Process Redesign](concepts/TopDownAIProcessRedesign.md) — Leadership-driven sequence for turning AI access into simplified workflows, shared data and tools, speed, and measurable outcomes.
+- [Data-Local Inference](concepts/DataLocalInference.md) — Workload-specific placement of inference near enterprise, edge, device, or embedded data.
 - [Multidisciplinary Weight Management / 多学科体重管理](concepts/MultidisciplinaryWeightManagement.md) — Coordinated pathway matching cause, metabolic risk, function, nutrition, exercise, mental health, medical treatment, procedures, and follow-up.
 - [Gendered Access to Imperial Examinations / 科举的性别化准入](concepts/GenderedAccessToImperialExaminations.md) — 规则沉默、行政裁量、社会性别规范与官职资格共同塑造的科举准入边界。
 - [居丧行为法律化 / Mourning Conduct Legalization](concepts/MourningConductLegalization.md) — 将侍疾、守丧、娱乐、性与财产行为从私人礼俗转化为刑罚、身份、继承或任职后果的制度过程。

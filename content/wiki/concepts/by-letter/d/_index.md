@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9731
+wiki_total_pages: 9734
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "DataFirstPostTraining"
     title: "Data-First Post-Training / 数据优先后训"
     url: "/wiki/concepts/datafirstposttraining/"
+  - key: "DataLocalInference"
+    title: "Data-Local Inference"
+    url: "/wiki/concepts/datalocalinference/"
   - key: "DataToMemoryTransformation"
     title: "Data-to-Memory Transformation"
     url: "/wiki/concepts/datatomemorytransformation/"

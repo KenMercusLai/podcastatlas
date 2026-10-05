@@ -18391,6 +18391,10 @@
     "title": "City Place Premium",
     "url": "/wiki/concepts/cityplacepremium/"
   },
+  "CityStorageSystems": {
+    "title": "City Storage Systems / CloudKitchens",
+    "url": "/wiki/entities/citystoragesystems/"
+  },
   "CivicAudienceEtiquette": {
     "title": "Civic Audience Etiquette",
     "url": "/wiki/concepts/civicaudienceetiquette/"
@@ -22722,6 +22726,10 @@
   "DataFoundationFirstAIStrategy": {
     "title": "Data Foundation-First AI Strategy",
     "url": "/wiki/concepts/datafoundationfirstaistrategy/"
+  },
+  "DataLocalInference": {
+    "title": "Data-Local Inference",
+    "url": "/wiki/concepts/datalocalinference/"
   },
   "DataOperationalization": {
     "title": "Data Operationalization",
@@ -62647,6 +62655,10 @@
     "title": "Physical Video Media Revival",
     "url": "/wiki/concepts/physicalvideomediarevival/"
   },
+  "PhysicalWorldComputeStack": {
+    "title": "Physical-World Compute Stack",
+    "url": "/wiki/concepts/physicalworldcomputestack/"
+  },
   "PhysicalWorldDataFlywheel": {
     "title": "Physical World Data Flywheel",
     "url": "/wiki/concepts/physicalworlddataflywheel/"
@@ -80883,6 +80895,10 @@
     "title": "Tooth Demineralization and Remineralization",
     "url": "/wiki/concepts/toothdemineralizationremineralization/"
   },
+  "TopDownAIProcessRedesign": {
+    "title": "Top-Down AI Process Redesign",
+    "url": "/wiki/concepts/topdownaiprocessredesign/"
+  },
   "TopDownExemplarGovernance": {
     "title": "上行下效式政风治理 / Top-Down Exemplar Governance",
     "url": "/wiki/concepts/topdownexemplargovernance/"
@@ -93114,6 +93130,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox-41538295": {
     "title": "Thomas Laffont: The $4T AI IPO Wave, 2026's Unicorn Economy, and the 10X Paradox",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-thomas-laffont-the-4t-ai-ipo-wave-2026s-unicorn-economy-and-the-10x-paradox-41538295/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605": {
+    "title": "Travis Kalanick & Michael Dell Live from Austin, Texas",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630": {
     "title": "Trump-Xi Summit, Benioff: \"Not My First SaaSpocalypse,\" OpenAI vs Apple, Multi-Sensory AI, El Niño",

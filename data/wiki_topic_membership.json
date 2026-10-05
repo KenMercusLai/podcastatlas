@@ -22250,6 +22250,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CityStorageSystems": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "CivicAudienceEtiquette": [
     {
       "key": "culture",
@@ -94802,6 +94809,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-trump-xi-summit-benioff-not-my-first-saaspocalypse-openai-vs-apple-multi-sensory-ai-el-nino-41312630": [

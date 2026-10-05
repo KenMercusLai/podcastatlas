@@ -30363,3 +30363,11 @@ Added source `vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | Travis Kalanick & Michael Dell Live from Austin, Texas
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605`; created [[CityStorageSystems|City Storage Systems / CloudKitchens]], [[PhysicalWorldComputeStack]], [[TopDownAIProcessRedesign]], and [[DataLocalInference]]; and resynthesized [[TravisKalanick|Travis Kalanick]], [[MichaelDell|Michael Dell]], [[DellTechnologies|Dell Technologies]], [[TrumpAccounts]], and [[UniversalEquityOwnership]] from their complete preserved evidence inventories. Core synthesis: physical AI value depends on an integrated stack of production, sites, movement, hardware, materials, and capital; enterprise AI value depends on workload-specific inference placement plus leadership-driven process redesign; and child ownership accounts are public-private financial products whose effect depends on enrollment, contribution persistence, defaults, fees, governance, and investor protection as well as their seed contributions. No settled contradiction was adopted. Company identity, deployment, revenue, customer, productivity, autonomy, transaction, enrollment, and projected asset claims remain source-scoped; the transcript's “Adams” rendering was not promoted to a canonical entity. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,796 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

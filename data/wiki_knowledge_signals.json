@@ -40663,6 +40663,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/cityplacepremium/"
     },
+    "CityStorageSystems": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Travis Kalanick & Michael Dell Live from Austin, Texas [40508605].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Travis Kalanick & Michael Dell Live from Austin, Texas",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/citystoragesystems/"
+    },
     "CivilConstitutionOfTheClergy": {
       "episode_count": 1,
       "show_count": 1,
@@ -52865,6 +52881,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/datafoundationfirstaistrategy/"
     },
+    "DataLocalInference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Travis Kalanick & Michael Dell Live from Austin, Texas [40508605].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Travis Kalanick & Michael Dell Live from Austin, Texas",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/datalocalinference/"
+    },
     "DataOperationalization": {
       "episode_count": 1,
       "show_count": 1,
@@ -55081,6 +55113,29 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/deliverybufferdiscipline/"
+    },
+    "DellTechnologies": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260113_0113_MP_TECH_pod_128 [tech_20260113_0113_MP_TECH_pod_128].md",
+          "key": "tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI is eating up the world's computing memory",
+          "url": "/wiki/sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Travis Kalanick & Michael Dell Live from Austin, Texas [40508605].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Travis Kalanick & Michael Dell Live from Austin, Texas",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/delltechnologies/"
     },
     "Deloitte": {
       "episode_count": 1,
@@ -149463,6 +149518,29 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/michaeldjones/"
     },
+    "MichaelDell": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Travis Kalanick & Michael Dell Live from Austin, Texas [40508605].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Travis Kalanick & Michael Dell Live from Austin, Texas",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/michaeldell/"
+    },
     "MichaelEisenberg": {
       "episode_count": 1,
       "show_count": 1,
@@ -171849,6 +171927,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/physicalmusicmediarevival/"
+    },
+    "PhysicalWorldComputeStack": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Travis Kalanick & Michael Dell Live from Austin, Texas [40508605].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Travis Kalanick & Michael Dell Live from Austin, Texas",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/physicalworldcomputestack/"
     },
     "PhysicsStagnationClaim": {
       "episode_count": 1,
@@ -220059,6 +220153,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/concepts/toothdemineralizationremineralization/"
     },
+    "TopDownAIProcessRedesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Travis Kalanick & Michael Dell Live from Austin, Texas [40508605].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Travis Kalanick & Michael Dell Live from Austin, Texas",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/topdownaiprocessredesign/"
+    },
     "TopDownExemplarGovernance": {
       "episode_count": 2,
       "show_count": 1,
@@ -221065,9 +221175,9 @@
       "url": "/wiki/concepts/travelthrombosisprevention/"
     },
     "TravisKalanick": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter [41835335].md",
@@ -221075,9 +221185,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Travis Kalanick & Michael Dell Live from Austin, Texas [40508605].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Travis Kalanick & Michael Dell Live from Austin, Texas",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/traviskalanick/"
     },
     "TreasonAct1351": {
@@ -221547,6 +221664,29 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/trueeducationkdrama/"
+    },
+    "TrumpAccounts": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Travis Kalanick & Michael Dell Live from Austin, Texas [40508605].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Travis Kalanick & Michael Dell Live from Austin, Texas",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/trumpaccounts/"
     },
     "TrumpCoalitionFragmentation": {
       "episode_count": 1,
@@ -223864,6 +224004,29 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/universalbasicincomefeasibility/"
+    },
+    "UniversalEquityOwnership": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Travis Kalanick & Michael Dell Live from Austin, Texas [40508605].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Travis Kalanick & Michael Dell Live from Austin, Texas",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/universalequityownership/"
     },
     "UniversalPeaceSanctuary": {
       "episode_count": 1,
