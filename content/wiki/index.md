@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？](sources/zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm.md) — 汉武帝以五项过失压住灭南越后自矜的杨仆，却在其表态效死赎罪后继续派征东越，显示功劳不自动免责、问责也不必废弃能力。
 - [《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌](sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b.md) — 张骞的声望为早期西域交往提供信用，但使团扩张快于选人、监督、补给与安保，最终把外交开放推向信誉崩塌、通道袭扰和军事—郡县化回应。
 - [《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》](sources/zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn.md) — 司马相如遗稿以传说先例、祥瑞和颂德推动封禅议程；经书无成法、方士求仙说、兒宽归权天子与儒生受黜共同显示礼制重建也是权威竞争。
 - [《资治通鉴·汉纪》360-1｜司马迁“太史公”称号竟由此而来？](sources/zizhi-tongjian-hanji-360-1-simaqian-taishigong-chenghao-jing-you-ci-er-lai-lq6ulwhl_jscf6ipkjxev6zvwbrf.md) — 从太史的史学—天文职能解释“太史公”，并把司马迁对黄帝的历史化、儒家化叙事放入汉代帝王合法性问题，同时保留官职类比和作者意图的证据边界。
@@ -3814,6 +3815,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？](sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_.md) — 卜式借旱灾批评桑弘羊使官吏入市逐利，并串联异星祥瑞、齐王刘弘早逝与读史的现实意义。
 
 ## Entities
+- [余善 / Yu Shan (Dongyue king)](entities/YuShanDongyueKing.md) — 杀汉官、自立武帝并触发汉武帝多路征讨的东越王；本期资料只到出兵，未覆盖战事结局。
 - [张骞 / Zhang Qian (Western Han)](entities/ZhangQianWesternHan.md) — Western Han envoy whose Bowang Hou reputation became a diplomatic trust asset that later mission systems could borrow but not automatically reproduce.
 - [《封禅文》 / Fengshan Wen](entities/FengshanWen.md) — 司马相如身后由卓文君交付使者、以传说先例和祥瑞劝汉武帝封禅的政治文学文本，其全文、流传与实际影响保持来源限定。
 - [兒宽 / Ni Kuan (Western Han)](entities/NiKuanWesternHan.md) — 在封禅无经书成法时把裁制定礼归于汉武帝、并见于太初历项目参与名单的西汉官员。

@@ -99301,9 +99301,9 @@
       "url": "/wiki/concepts/highcontextintimacymiscommunication/"
     },
     "HighMeritThreatManagement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -99311,9 +99311,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？ [lsaa6J1JSKiVFHyvVPBPmNoRq-jm].md",
+          "key": "zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/highmeritthreatmanagement/"
     },
     "HighOfficeRefusalAsRiskAvoidance": {
@@ -236824,9 +236831,9 @@
       "url": "/wiki/entities/yanglistandup/"
     },
     "YangPuWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂 [ls1iZJhow_J4ubgMM0LM8ruaUrOx].md",
@@ -236841,6 +236848,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》366-1｜汉打朝鲜，敌前内斗的离间故事",
           "url": "/wiki/sources/zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？ [lsaa6J1JSKiVFHyvVPBPmNoRq-jm].md",
+          "key": "zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm/"
         }
       ],
       "updated": "2026-10-05",
@@ -238872,6 +238886,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/yuqiantombandtemple/"
+    },
+    "YuShanDongyueKing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？ [lsaa6J1JSKiVFHyvVPBPmNoRq-jm].md",
+          "key": "zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/yushandongyueking/"
     },
     "YuWanrouFunctionalFoodGuest": {
       "episode_count": 1,
