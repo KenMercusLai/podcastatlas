@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12504
+wiki_total_pages: 12505
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1679,6 +1679,9 @@ wiki_pages:
   - key: "GaozhuangHanTomb"
     title: "高庄汉墓 / Gaozhuang Han Tomb"
     url: "/wiki/entities/gaozhuanghantomb/"
+  - key: "GaoYanzongNorthernQi"
+    title: "高延宗 / Gao Yanzong (Northern Qi)"
+    url: "/wiki/entities/gaoyanzongnorthernqi/"
   - key: "GaoDerong"
     title: "高德荣 / Gao Derong"
     url: "/wiki/entities/gaoderong/"

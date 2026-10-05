@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？](sources/zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha.md) — 少翁以隔幕招魂、文成将军封号和求仙工程取得汉武帝信任，后以牛腹帛书续骗局，却因字迹暴露而被处死。
+- [《资治通鉴·汉纪》331-3｜古人竟然用花椒自杀？](sources/zizhi-tongjian-hanji-331-3-guren-jingran-yong-huajiao-zisha-lohtg2tifzlc63cxkcjkekoyk9w3.md) — 以高延宗“以椒塞口”和李贤备椒死谏为例，连接花椒的礼仪、吉祥、医药与政治死亡叙事，同时保留剂量、机制和史料核验边界。
 - [《资治通鉴·汉纪》331-4｜吃花椒能自杀？别傻了！](sources/zizhi-tongjian-hanji-331-4-chi-huajiao-neng-zisha-bie-sha-le-lhto8ydkeetl8sjwoxyxkkehi66e.md) — 以史书“椒杀”、闭口椒记载与日常食用经验相互校验，强调毒性判断必须区分品种、形态、制法、暴露途径、剂量和证据质量。
 - [《资治通鉴·汉纪》332-1｜古代最高危职业之一，居然有TA](sources/zizhi-tongjian-hanji-332-1-gudai-zuigaowei-zhiye-zhiyi-juran-you-ta-lk6luhbh37m9xnachwjp9zbdmcnu.md) — 李蔡由文帝侍从、军功封侯走到武帝朝丞相；节目据此提出强势君主下丞相既须顺从又须处理战争、财政与朝廷协调的双重约束。
 - [Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈](sources/8226494223-026583.md) — 捕蛇者说访谈 Bub 开发者，讨论群聊 Agent 的选择性参与、tape/anchor/handoff 上下文架构、skills、自我扩展、成本、权限与验证边界。
@@ -3884,6 +3885,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South](sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south.md) — Data Science With Sam episode on Google's India commitments, AI-for-science funding, Global South participation, connectivity, and India's possible AI-governance role.
 
 ## Entities
+- [高延宗 / Gao Yanzong (Northern Qi)](entities/GaoYanzongNorthernQi.md) — 北齐宗室与短暂称帝者，节目称其受俘受辱后“以椒塞口而死”，死因机制仍属待核史料叙事。
 - [少翁 / Shaoweng (Western Han)](entities/ShaowengWesternHan.md) — 汉武帝朝方士，以隔幕招魂获宠，又因牛腹帛书造假暴露并成为栾大后来议价时援引的前例。
 - [《带着花椒去上朝：古杀十九式》](entities/DaizheHuajiaoQuShangchao.md) — 汉纪331-4引用的古代杀人方式通俗史著作，其“椒杀”考证在当前证据中仍需回到原书与底层史料核验。
 - [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 历经文、景、武三朝并由军功封侯走到丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
@@ -7874,7 +7876,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch whose profile now starts with a 148 CE appointment-pressure branch before post-Liang rewards, protected-servant reversal, Zhang Jian retaliation, and office-removal suicide.
 - [滕延 / Teng Yan (late Han)](entities/TengYanLateHan.md) — Jibei official dismissed after executing violent servants and guests tied to Hou Lan and Duan Gui.
 - [侯参 / Hou Can (late Han)](entities/HouCanLateHan.md) — Yizhou inspector whose corruption notice and suicide become Yang Bing's pressure case against Hou Lan.
-- [李贤 / Li Xian (taiwei, late Han)](entities/LiXianTaiweiLateHan.md) — Ill taiwei who risks death in Hanji 901 to argue that Empress Dowager Dou should be buried with Emperor Huan; distinct from 李暹 / Li Xian.
+- [李贤 / Li Xian (taiwei, late Han)](entities/LiXianTaiweiLateHan.md) — Ill taiwei who risks death to defend Empress Dowager Dou's joint burial, with crushed pepper identified as the threatened poison in Hanji 331-3; distinct from 李暹 / Li Xian.
 - [邓皇后 / Empress Deng (Huan-era)](entities/EmpressDengHuanLateHan.md) — Emperor Huan empress whose profile now starts with Sun Shou-mediated palace entry, Liang adoption pressure, the Xuan trigger, post-coup elevation, and later deposition.
 - [萱 / Xuan (Deng Meng's mother)](entities/XuanDengMotherLateHan.md) — Deng Meng's mother whose threatened murder turns Liang Ji's household-adoption scheme into Emperor Huan's anti-Liang crisis trigger.
 - [秉尊 / Bing Zun (late Han)](entities/BingZunLateHan.md) — Deng Meng's brother-in-law whose warning against Liang Ji's adoption plan leads to his killing and the Xuan assassination attempt.
