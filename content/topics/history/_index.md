@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2580
+topic_total_pages: 2581
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2669,6 +2669,9 @@ topic_entities:
   - key: "ZuoZhuan"
     title: "《左传》 / Zuo Zhuan"
     url: "/wiki/entities/zuozhuan/"
+  - key: "DaizheHuajiaoQuShangchao"
+    title: "《带着花椒去上朝：古杀十九式》"
+    url: "/wiki/entities/daizhehuajiaoqushangchao/"
   - key: "Zhanguoce"
     title: "《战国策》 / Zhanguo Ce"
     url: "/wiki/entities/zhanguoce/"

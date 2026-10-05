@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12502
+wiki_total_pages: 12503
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1070,6 +1070,9 @@ wiki_pages:
   - key: "DingFengBoSuShi"
     title: "《定风波》 / Ding Feng Bo"
     url: "/wiki/entities/dingfengbosushi/"
+  - key: "DaizheHuajiaoQuShangchao"
+    title: "《带着花椒去上朝：古杀十九式》"
+    url: "/wiki/entities/daizhehuajiaoqushangchao/"
   - key: "DemianNovel"
     title: "《德米安》 / Demian"
     url: "/wiki/entities/demiannovel/"

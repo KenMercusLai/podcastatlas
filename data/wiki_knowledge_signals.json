@@ -51599,6 +51599,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/daisychristodoulou/"
     },
+    "DaizheHuajiaoQuShangchao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》331-4｜吃花椒能自杀？别傻了！ [lhTo8YdKeETl8SjWOXyxkKEhi66E].md",
+          "key": "zizhi-tongjian-hanji-331-4-chi-huajiao-neng-zisha-bie-sha-le-lhto8ydkeetl8sjwoxyxkkehi66e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》331-4｜吃花椒能自杀？别傻了！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-331-4-chi-huajiao-neng-zisha-bie-sha-le-lhto8ydkeetl8sjwoxyxkkehi66e/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/daizhehuajiaoqushangchao/"
+    },
     "DalianYingbo": {
       "episode_count": 1,
       "show_count": 1,
@@ -80798,6 +80814,29 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/forensicidentificationexplanationgap/"
+    },
+    "ForensicToxicology": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "121.极简法医鉴识手册：一切犯罪，皆有痕迹 [775064343].md",
+          "key": "121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343",
+          "show": "蜜獾吃书",
+          "title": "121.极简法医鉴识手册：一切犯罪，皆有痕迹",
+          "url": "/wiki/sources/121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》331-4｜吃花椒能自杀？别傻了！ [lhTo8YdKeETl8SjWOXyxkKEhi66E].md",
+          "key": "zizhi-tongjian-hanji-331-4-chi-huajiao-neng-zisha-bie-sha-le-lhto8ydkeetl8sjwoxyxkkehi66e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》331-4｜吃花椒能自杀？别傻了！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-331-4-chi-huajiao-neng-zisha-bie-sha-le-lhto8ydkeetl8sjwoxyxkkehi66e/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/forensictoxicology/"
     },
     "ForeskinHygieneSurgeryBoundary": {
       "episode_count": 2,
@@ -202056,6 +202095,29 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/simazhicaoofficiallatehan/"
+    },
+    "SiminYueling": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023 [FjHgTQaC9R_1RPjh6oubMSpqYwUe].md",
+          "key": "zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》331-4｜吃花椒能自杀？别傻了！ [lhTo8YdKeETl8SjWOXyxkKEhi66E].md",
+          "key": "zizhi-tongjian-hanji-331-4-chi-huajiao-neng-zisha-bie-sha-le-lhto8ydkeetl8sjwoxyxkkehi66e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》331-4｜吃花椒能自杀？别傻了！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-331-4-chi-huajiao-neng-zisha-bie-sha-le-lhto8ydkeetl8sjwoxyxkkehi66e/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/siminyueling/"
     },
     "SimonDeMontfort": {
       "episode_count": 1,

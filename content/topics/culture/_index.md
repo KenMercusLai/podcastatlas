@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3164
+topic_total_pages: 3165
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -6644,6 +6644,9 @@ topic_entities:
   - key: "HopeIsTheThingWithFeathersBook"
     title: "《希望是那长着羽毛的小东西》 / Hope Is the Thing with Feathers"
     url: "/wiki/entities/hopeisthethingwithfeathersbook/"
+  - key: "DaizheHuajiaoQuShangchao"
+    title: "《带着花椒去上朝：古杀十九式》"
+    url: "/wiki/entities/daizhehuajiaoqushangchao/"
   - key: "Flatland"
     title: "《平面国》 / Flatland"
     url: "/wiki/entities/flatland/"

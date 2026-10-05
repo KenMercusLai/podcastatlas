@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》331-4｜吃花椒能自杀？别傻了！](sources/zizhi-tongjian-hanji-331-4-chi-huajiao-neng-zisha-bie-sha-le-lhto8ydkeetl8sjwoxyxkkehi66e.md) — 以史书“椒杀”、闭口椒记载与日常食用经验相互校验，强调毒性判断必须区分品种、形态、制法、暴露途径、剂量和证据质量。
 - [《资治通鉴·汉纪》332-1｜古代最高危职业之一，居然有TA](sources/zizhi-tongjian-hanji-332-1-gudai-zuigaowei-zhiye-zhiyi-juran-you-ta-lk6luhbh37m9xnachwjp9zbdmcnu.md) — 李蔡由文帝侍从、军功封侯走到武帝朝丞相；节目据此提出强势君主下丞相既须顺从又须处理战争、财政与朝廷协调的双重约束。
 - [Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈](sources/8226494223-026583.md) — 捕蛇者说访谈 Bub 开发者，讨论群聊 Agent 的选择性参与、tape/anchor/handoff 上下文架构、skills、自我扩展、成本、权限与验证边界。
 - [《资治通鉴·汉纪》334-2｜为什么老板更喜欢做表面文章的人？](sources/zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf.md) — 从甘泉宫道路失修与义纵后续获罪讨论可见工作如何被领导解释为态度和尊重信号；历史因果、手机类比及“表扬可能是提醒”均保留来源边界。
@@ -3882,6 +3883,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South](sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south.md) — Data Science With Sam episode on Google's India commitments, AI-for-science funding, Global South participation, connectivity, and India's possible AI-governance role.
 
 ## Entities
+- [《带着花椒去上朝：古杀十九式》](entities/DaizheHuajiaoQuShangchao.md) — 汉纪331-4引用的古代杀人方式通俗史著作，其“椒杀”考证在当前证据中仍需回到原书与底层史料核验。
 - [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 历经文、景、武三朝并由军功封侯走到丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
 - [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 经历罢免与宾客离散后被重新起用，以清名治理淮阳并直言预警张汤、最终卒于任上的西汉直臣。
 - [李息 / Li Xi (Western Han)](entities/LiXiWesternHan.md) — 听取汲黯对张汤的预警，却因畏惧张汤而未向汉武帝转达的西汉官员。
@@ -9120,7 +9122,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陈平嫂 / Sister-in-law of Chen Ping](entities/ChenPingSisterInLaw.md) — Unnamed sister-in-law whose hostility toward Chen Ping is used by Hanji 154 to question the credibility of the "盗嫂" allegation.
 - [陈平妻 / Wife of Chen Ping](entities/ChenPingWife.md) — Zhang Fu's unnamed granddaughter whose marriage to Chen Ping converts stigma, family backing, and wedding support into early social-capital mobility.
 - [《荆楚岁时记》 / Jingchu Suishi Ji](entities/JingChuSuiShiJi.md) — Festival-custom record cited for Jingchu New Year greetings, pepper-cypress wine, peach decoction, and egg eating.
-- [《四民月令》 / Simin Yueling](entities/SiminYueling.md) — Eastern Han seasonal text cited for pepper-cypress wine as a New Year drink.
+- [《四民月令》 / Simin Yueling](entities/SiminYueling.md) — Eastern Han seasonal text cited for pepper-cypress New Year wine and, through a separate attributed note, a qualified claim about closed-pepper toxicity.
 - [《晋书》 / Jinshu](entities/JinShu.md) — Historical text cited as the source's earliest textual anchor for the term "元旦."
 - [陆游 / Lu You](entities/LuYou.md) — Southern Song poet cited for New Year imagery around peach charms and pepper wine.
 - [尧舜禹传说 / Yao-Shun-Yu Legend](entities/YaoShunYuLegend.md) — Mythic-ruler origin frame used to connect sacrifice, succession, and the year's beginning.
