@@ -30421,3 +30421,11 @@ Added source `science-based-meditation-tools-to-improve-your-brain-health-dr-ric
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | EP 32: AI Discovers Drugs: The 2026 Clinical Trial Moment for AI in Biotech
+
+Added source `ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech`; created [[InsilicoMedicine]] and an ambiguity-preserving [[Accenture]] page; and resynthesized [[RecursionPharma]], [[AIClinicalValidationInDrugDiscovery]], [[DataScienceWithSam]], and [[SamDataScienceWithSam]] from their complete preserved evidence inventories. Core synthesis: AI can narrow molecular search and optimize candidates, but phase 2 and phase 3 trials test whether those predictions generalize to human efficacy and toxicity. No settled contradiction was adopted. The episode's unnamed candidate pipeline, mixed early signals, traditional-development cost and duration figures, and unexplained Accenture attribution remain source-scoped because the supplied note includes no trial registrations, endpoints, candidate names, or datasets. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,803 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki lint
+
+Ran deterministic and graph-aware lint without saving a report. Semantic checks were unavailable because `LLM_MODEL` was not provider-qualified for LiteLLM.

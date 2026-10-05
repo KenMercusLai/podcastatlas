@@ -1338,9 +1338,9 @@
       "url": "/wiki/concepts/aicircularinfrastructurefinancing/"
     },
     "AIClinicalValidationInDrugDiscovery": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "vol.117.生物医药的2025：抄底中国、研发焦虑和新王继位 [lmhral0RMq6tohiQdwsGmFapnyN7].md",
@@ -1362,9 +1362,16 @@
           "show": "硅谷101",
           "title": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
           "url": "/wiki/sources/e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9/"
+        },
+        {
+          "episode_file": "70A0F719D8F5E3CF3E41DB886CA0726~8584412_2026-08-10-214412-8787-0-0-10.128 [70A0F719D8F5E3CF3E41DB886CA0726~8584412_2026-08-10-214412-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a839adb].md",
+          "key": "ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech",
+          "show": "Data Science With Sam",
+          "title": "EP 32: AI Discovers Drugs: The 2026 Clinical Trial Moment for AI in Biotech",
+          "url": "/wiki/sources/ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/aiclinicalvalidationindrugdiscovery/"
     },
     "AICodingMarketConcentration": {
@@ -5436,6 +5443,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/abyssinianexpedition1868/"
+    },
+    "Accenture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "70A0F719D8F5E3CF3E41DB886CA0726~8584412_2026-08-10-214412-8787-0-0-10.128 [70A0F719D8F5E3CF3E41DB886CA0726~8584412_2026-08-10-214412-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a839adb].md",
+          "key": "ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech",
+          "show": "Data Science With Sam",
+          "title": "EP 32: AI Discovers Drugs: The 2026 Clinical Trial Moment for AI in Biotech",
+          "url": "/wiki/sources/ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/accenture/"
     },
     "AccessionKinshipContainment": {
       "episode_count": 1,
@@ -53006,9 +53029,9 @@
       "url": "/wiki/entities/dataready/"
     },
     "DataScienceWithSam": {
-      "episode_count": 23,
+      "episode_count": 24,
       "show_count": 1,
-      "source_note_count": 23,
+      "source_note_count": 24,
       "sources": [
         {
           "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
@@ -53170,6 +53193,13 @@
           "show": "Data Science With Sam",
           "title": "EP 33: Agents Everywhere: What Agentic AI Actually Means for Your Job",
           "url": "/wiki/sources/ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job/"
+        },
+        {
+          "episode_file": "70A0F719D8F5E3CF3E41DB886CA0726~8584412_2026-08-10-214412-8787-0-0-10.128 [70A0F719D8F5E3CF3E41DB886CA0726~8584412_2026-08-10-214412-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a839adb].md",
+          "key": "ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech",
+          "show": "Data Science With Sam",
+          "title": "EP 32: AI Discovers Drugs: The 2026 Clinical Trial Moment for AI in Biotech",
+          "url": "/wiki/sources/ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech/"
         }
       ],
       "updated": "2026-10-06",
@@ -112405,6 +112435,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/insectbitedermatitis/"
+    },
+    "InsilicoMedicine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "70A0F719D8F5E3CF3E41DB886CA0726~8584412_2026-08-10-214412-8787-0-0-10.128 [70A0F719D8F5E3CF3E41DB886CA0726~8584412_2026-08-10-214412-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a839adb].md",
+          "key": "ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech",
+          "show": "Data Science With Sam",
+          "title": "EP 32: AI Discovers Drugs: The 2026 Clinical Trial Moment for AI in Biotech",
+          "url": "/wiki/sources/ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/insilicomedicine/"
     },
     "InstantRetail": {
       "episode_count": 5,
@@ -184758,6 +184804,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/recurringlayoffmanagementburden/"
     },
+    "RecursionPharma": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "BF5BEAEE06B79AF632A834CCA08CB345~8584436_2026-08-10-210036-8787-0-0-10.128 [BF5BEAEE06B79AF632A834CCA08CB345~8584436_2026-08-10-210036-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83820f].md",
+          "key": "data-ai-and-scientific-research-a-coffee-chat",
+          "show": "Data Science With Sam",
+          "title": "Data, AI, and Scientific Research: A Coffee Chat",
+          "url": "/wiki/sources/data-ai-and-scientific-research-a-coffee-chat/"
+        },
+        {
+          "episode_file": "70A0F719D8F5E3CF3E41DB886CA0726~8584412_2026-08-10-214412-8787-0-0-10.128 [70A0F719D8F5E3CF3E41DB886CA0726~8584412_2026-08-10-214412-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a839adb].md",
+          "key": "ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech",
+          "show": "Data Science With Sam",
+          "title": "EP 32: AI Discovers Drugs: The 2026 Clinical Trial Moment for AI in Biotech",
+          "url": "/wiki/sources/ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/recursionpharma/"
+    },
     "RedCliffsBattle": {
       "episode_count": 6,
       "show_count": 1,
@@ -193514,9 +193583,9 @@
       "url": "/wiki/entities/sambeale/"
     },
     "SamDataScienceWithSam": {
-      "episode_count": 23,
+      "episode_count": 24,
       "show_count": 1,
-      "source_note_count": 23,
+      "source_note_count": 24,
       "sources": [
         {
           "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
@@ -193678,6 +193747,13 @@
           "show": "Data Science With Sam",
           "title": "EP 33: Agents Everywhere: What Agentic AI Actually Means for Your Job",
           "url": "/wiki/sources/ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job/"
+        },
+        {
+          "episode_file": "70A0F719D8F5E3CF3E41DB886CA0726~8584412_2026-08-10-214412-8787-0-0-10.128 [70A0F719D8F5E3CF3E41DB886CA0726~8584412_2026-08-10-214412-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a839adb].md",
+          "key": "ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech",
+          "show": "Data Science With Sam",
+          "title": "EP 32: AI Discovers Drugs: The 2026 Clinical Trial Moment for AI in Biotech",
+          "url": "/wiki/sources/ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech/"
         }
       ],
       "updated": "2026-10-06",

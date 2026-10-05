@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3322
+topic_total_pages: 3324
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4667,6 +4667,9 @@ topic_entities:
   - key: "AaronWhatsNext"
     title: "Aaron (What's Next guest)"
     url: "/wiki/entities/aaronwhatsnext/"
+  - key: "Accenture"
+    title: "Accenture"
+    url: "/wiki/entities/accenture/"
   - key: "Acer"
     title: "Acer"
     url: "/wiki/entities/acer/"
@@ -6008,6 +6011,9 @@ topic_entities:
   - key: "InovanceTechnology"
     title: "Inovance Technology / 汇川技术"
     url: "/wiki/entities/inovancetechnology/"
+  - key: "InsilicoMedicine"
+    title: "Insilico Medicine"
+    url: "/wiki/entities/insilicomedicine/"
   - key: "Instafoods"
     title: "Instafoods"
     url: "/wiki/entities/instafoods/"

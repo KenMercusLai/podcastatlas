@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 32: AI Discovers Drugs: The 2026 Clinical Trial Moment for AI in Biotech](sources/ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech.md) — Data Science With Sam explainer on AI-prioritized drug candidates, phase 2/3 clinical stress tests, toxicity, biological generalization, and missing candidate-level evidence.
 - [Science-Based Meditation Tools to Improve Your Brain & Health | Dr. Richard Davidson](sources/science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306.md) — Huberman Lab interview on brief sustainable meditation, state-to-trait change, meta-awareness, flourishing, and evidence boundaries around clinical and neural claims.
 - [《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？](sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv.md) — 庄青翟与三长史因共同威胁和旧怨结盟，以商人田信为桥梁指控张汤泄露政策、官商勾结；转录在指控未完时中断。
 - [《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？](sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca.md) — 减宣奏报和赵禹审讯把张汤逼向自杀，其遗书、清贫家产与母亲薄葬又改变汉武帝判断，最终使三长史被诛、庄青翟自杀。
@@ -3867,6 +3868,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 
 ## Entities
+- [Accenture](entities/Accenture.md) — Company name ambiguously attributed to an advanced AI drug-discovery role in EP32 without candidate or trial details.
+- [Insilico Medicine](entities/InsilicoMedicine.md) — AI-assisted drug-discovery company named in EP32's high-level clinical-pipeline discussion.
 - [Richard Davidson](entities/RichardDavidson.md) — neuroscientist studying meditation, plasticity, emotion regulation, and trainable wellbeing.
 - [严助 / Yan Zhu (Western Han)](entities/YanZhuWesternHan.md) — 朱买臣的早期举荐者；其在淮南案后的处死成为朱买臣仇视张汤的重要来源。
 - [田信 / Tian Xin (Western Han)](entities/TianXinWesternHan.md) — 被朱买臣选作指控张汤泄露政策与官商勾结之桥梁的西汉商人。
@@ -10052,7 +10055,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rocky Mountain AI Interest Group](entities/RockyMountainAIInterestGroup.md) — Regional AI community described through Boulder meetings, startup and engineering subgroups, and mentoring.
 - [Effie (Data Science With Sam)](entities/EffieDataScienceWithSam.md) — Biology-focused guest emphasizing experimental records, bioinformatics collaboration, quality control, and AI lab documentation.
 - [Mossam (Data Science With Sam)](entities/MossamDataScienceWithSam.md) — Stanford research scientist guest explaining retrosynthesis AI, radiochemistry tracers, blood-brain-barrier prediction, negative chemistry data, and radioactive-safety oversight.
-- [Recursion Pharma](entities/RecursionPharma.md) — AI drug-discovery company cited as a source-scoped example of commercial small-molecule prediction.
+- [Recursion Pharma](entities/RecursionPharma.md) — Data-centric AI drug-discovery company framed across molecular prediction, end-to-end workflows, and clinical validation limits.
 - [Stanford University](entities/StanfordUniversity.md) — University context for Google research/sourcing, DoorDash, Garry Tan, Noora Health, Modern Treasury, teen chatbot safety, Mossam's radiochemistry/imaging research, and Paulina Nemkova's EEG replication branch.
 - [Zack Polanski](entities/ZackPolanski.md) — Green Party leader profiled as an eco-populist figure using biography, performance, Gaza politics, and economic grievance to reach younger voters.
 - [Green Party of England and Wales](entities/GreenPartyOfEnglandAndWales.md) — British Green Party branch framed through Zack Polanski as shifting from environmental identity toward eco-populist economic grievance.
@@ -22286,7 +22289,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [First-In-Class Drug Discovery Role Split](concepts/FirstInClassDrugDiscoveryRoleSplit.md) — Role split where small companies or academia often originate molecules while large pharma frequently owns or launches them.
 - [Biotech Capital Cycle](concepts/BiotechCapitalCycle.md) — Financing cycle linking VC, public markets, MNC cash flow, BD, licensing, and exits in innovation-drug development.
 - [Unmet Medical Need Demand Pull](concepts/UnmetMedicalNeedDemandPull.md) — Patient, physician, hospital, and disease-burden demand layer behind innovation-drug development.
-- [AI Clinical Validation In Drug Discovery](concepts/AIClinicalValidationInDrugDiscovery.md) — Boundary that AI can accelerate molecular or patient-specific design, but clinical outcomes still validate drug-discovery claims.
+- [AI Clinical Validation In Drug Discovery](concepts/AIClinicalValidationInDrugDiscovery.md) — Boundary where human efficacy, toxicity, and mid- or late-stage trials test AI-prioritized drug candidates.
 - [In Vivo mRNA CAR-T](concepts/InVivoMRNACART.md) — Vol.117 route using mRNA-LNP delivery to generate CAR-T-like cells inside the body, with short persistence as a key tradeoff.
 - [Finite-Game Biotech Competition](concepts/FiniteGameBiotechCompetition.md) — Vol.117 shift from pure breakthrough expectation toward clinical, manufacturing, pricing, BD, and engineering differentiation.
 - [China Policy Easing Pivot](concepts/ChinaPolicyEasingPivot.md) — 2024-2025 China policy-turn frame moving from July disappointment to September/December easing confirmation, with RMB still constraining monetary room.

@@ -26,6 +26,7 @@ sources:
   - ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai
   - ep-35-who-actually-controls-ai-the-governance-gap-explained
   - ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job
+  - ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech
 last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
@@ -36,20 +37,21 @@ knowledge_schema: synthesis-v1
 Data Science With Sam is a source-scoped podcast series in which [[SamDataScienceWithSam|Sam]] interviews practitioners about data science, AI, professional development, and the organizational conditions that turn models into useful decisions.
 
 ## Current Profile
-Across the available episodes, the show treats data science as applied, interdisciplinary work rather than model building in isolation. Its cases range from scientific research, space, insurance, cybersecurity, production ML, education, sports, observability, creativity, healthcare finance, enterprise adoption, private AI, and [[EmployeeHealthBenefitsAI]] to agentic work and international AI governance. The recurring judgment is that data meaning, domain expertise, infrastructure, communication, privacy, validation, legitimate institutions, and accountable human action decide whether technical capability becomes real value. EP33 makes that operating philosophy explicit for agents: delegate bounded tasks with checkable outcomes, retain human escalation, and distinguish task redistribution from evidence of whole-job replacement.
+Across the available episodes, the show treats data science as applied, interdisciplinary work rather than model building in isolation. Its cases range from scientific research, space, insurance, cybersecurity, production ML, education, sports, observability, creativity, healthcare finance, enterprise adoption, private AI, and [[EmployeeHealthBenefitsAI]] to agentic work, AI drug discovery, and international AI governance. The recurring judgment is that data meaning, domain expertise, infrastructure, communication, privacy, validation, legitimate institutions, and accountable human action decide whether technical capability becomes real value. EP32 applies that philosophy to biotechnology by treating clinical efficacy and toxicity as the test of model-prioritized candidates; EP33 does so for agents through bounded tasks, checkable outcomes, and human escalation.
 
 ## Key Characteristics
 - Uses practitioner interviews to connect technical methods with concrete institutional workflows and constraints.
 - Repeatedly frames AI as augmentation that remains bounded by [[HumanJudgmentUnderAI]], verification, privacy, and domain accountability.
 - Covers the full applied-data chain: collection and quality, modeling, deployment, feedback, stakeholder communication, governance, and action.
 - Treats professional learning and cross-functional collaboration as durable requirements across changing tools.
-- Expands responsible AI through domain-specific boundaries rather than one universal checklist.
+- Expands responsible AI through domain-specific boundaries rather than one universal checklist, including human trials for AI-assisted drug discovery.
 - Connects operational responsible-AI practice to public authority, external scrutiny, and democratic legitimacy.
 - Frames agent adoption around bounded delegation, critical verification, failure literacy, and retained human judgment.
 
 ## Evidence
 ### Science, research, and technical careers
 - [[data-ai-and-scientific-research-a-coffee-chat]], [[ep-4-a-i-talk-with-a-rocket-scientist-from-nasa]], [[ep-6-data-science-ai-talk]], and [[ep-8-implementation-of-ai-in-scientific-research]] connect AI to experimental records, dataset scarcity, research literature, replication, molecular-data pipelines, and expert interpretation.
+- [[ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech]] extends that frame into AI-assisted drug discovery, where molecular prediction and optimization remain bounded by toxicity, clinical outcomes, and missing candidate-level evidence.
 
 ### Regulated risk, insurance, and employee health
 - [[data-risk-and-actuarial-science-in-insurance]], [[ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker]], and [[ep-11-growing-technology-footprints-in-insurance-sector]] ground analytics in data quality, professional standards, actuarial sign-off, APIs, regulation, and bias controls.
@@ -77,8 +79,8 @@ Across the available episodes, the show treats data science as applied, interdis
 - The series is broad; its unifying claims concern applied practice and responsibility, not a single technical methodology.
 
 ## What Changed
-- Integrated EP33's bounded-agent and task-redistribution framing into the show's applied AI profile.
-- Preserved the broader link between operational responsibility and public institutional legitimacy.
+- Added EP32's clinical-trial stress test for AI-assisted drug discovery.
+- Preserved the show's broader pattern of domain-specific verification and accountable human judgment.
 
 ## Relationships
 - [[SamDataScienceWithSam]] - host who frames the show's cross-domain practitioner conversations.
@@ -92,3 +94,4 @@ Across the available episodes, the show treats data science as applied, interdis
 - [[GlobalAIGovernanceFramework]] - public-institution branch added by EP35.
 - [[AgentReliabilityVerification]] - EP33 branch connecting autonomy to bounded tasks, checks, and escalation.
 - [[AgentWorkforceRedesign]] - workforce branch distinguishing task redistribution from whole-job replacement.
+- [[AIClinicalValidationInDrugDiscovery]] - biotechnology branch where human trials test model-prioritized candidates.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 12478
+wiki_total_pages: 12480
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "AccelerateHackerHouse"
     title: "Accelerate (Hacker House)"
     url: "/wiki/entities/acceleratehackerhouse/"
+  - key: "Accenture"
+    title: "Accenture"
+    url: "/wiki/entities/accenture/"
   - key: "Acer"
     title: "Acer"
     url: "/wiki/entities/acer/"

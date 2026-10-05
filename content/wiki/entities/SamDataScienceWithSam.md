@@ -26,6 +26,7 @@ sources:
   - ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai
   - ep-35-who-actually-controls-ai-the-governance-gap-explained
   - ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job
+  - ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech
 last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
@@ -36,7 +37,7 @@ knowledge_schema: synthesis-v1
 Sam is the first-name-only host of [[DataScienceWithSam]] in the available sources. His interviews connect data science and AI to the people, workflows, institutions, and judgment required for applied use.
 
 ## Current Profile
-Sam's recurring method moves from a guest's career or a technical issue into specific data and AI workflows, then tests the boundary conditions: data quality, explainability, bias, privacy, deployment, stakeholder communication, access, institutional authority, and human responsibility. Across the corpus he favors a human-driven or assistant model of AI. EP33 applies that stance to agentic systems through bounded tasks, explicit checks, human escalation, and task-level workforce analysis, while EP35 broadens it into public accountability for frontier deployment.
+Sam's recurring method moves from a guest's career or a technical issue into specific data and AI workflows, then tests the boundary conditions: data quality, explainability, bias, privacy, deployment, stakeholder communication, access, institutional authority, and human responsibility. Across the corpus he favors a human-driven or assistant model of AI. EP32 applies that stance to drug discovery by putting chemists, biologists, toxicity, and clinical outcomes around model predictions; EP33 applies it to agents through bounded tasks and explicit checks; EP35 broadens it into public accountability for frontier deployment.
 
 ## Key Characteristics
 - Translates technical topics into workflow, stakeholder, and career questions for a broad audience.
@@ -45,11 +46,12 @@ Sam's recurring method moves from a guest's career or a technical issue into spe
 - Raises privacy, bias, trust, access, and fairness as operational issues across domains.
 - Keeps the host identity source-scoped because the sources provide only the first name Sam.
 - Treats responsible AI as both a workflow discipline and a question of who has legitimate authority to decide.
-- Converts agent hype into concrete questions about success criteria, failure modes, oversight, and professional skill.
+- Converts agent and AI drug-discovery hype into concrete questions about success criteria, candidate evidence, failure modes, toxicity, oversight, and professional skill.
 
 ## Evidence
 ### Scientific and technical framing
 - [[data-ai-and-scientific-research-a-coffee-chat]], [[ep-4-a-i-talk-with-a-rocket-scientist-from-nasa]], [[ep-6-data-science-ai-talk]], and [[ep-8-implementation-of-ai-in-scientific-research]] show Sam eliciting constraints around experiments, space datasets, academic work, and biomedical representation.
+- [[ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech]] has Sam frame phase 2 and phase 3 trials as the test of whether AI-prioritized drug candidates survive real human biology.
 
 ### Professional accountability and applied operations
 - [[data-risk-and-actuarial-science-in-insurance]], [[ep-10-a-thought-provoking-chat-with-an-actuary-and-tedx-speaker]], and [[ep-11-growing-technology-footprints-in-insurance-sector]] connect actuarial judgment with data science, automation, regulation, and governed infrastructure.
@@ -74,8 +76,8 @@ Sam's recurring method moves from a guest's career or a technical issue into spe
 - Some questions introduce examples or concerns rather than settled factual claims, so product and outcome details remain source-scoped.
 
 ## What Changed
-- Added Sam's explicit agent-literacy framing around bounded delegation, verification, failure modes, and task-level workforce change.
-- Preserved his public-governance framing around concentrated authority, external evidence access, international coordination, and democratic deliberation.
+- Added Sam's clinical-evidence framing for AI-assisted drug discovery.
+- Preserved his cross-domain emphasis on verification, bounded claims, and responsible human judgment.
 
 ## Relationships
 - [[DataScienceWithSam]] - podcast series hosted by Sam in the available sources.
@@ -87,3 +89,4 @@ Sam's recurring method moves from a guest's career or a technical issue into spe
 - [[DemocraticAIGovernanceDeliberation]] - EP35 extension of human responsibility into public legitimacy.
 - [[AgentReliabilityVerification]] - EP33 expression of Sam's recurring verification and accountability boundary.
 - [[AgentWorkforceRedesign]] - EP33 labor framing around changing task bundles and retained judgment.
+- [[AIClinicalValidationInDrugDiscovery]] - EP32 boundary between model prediction and clinical evidence.

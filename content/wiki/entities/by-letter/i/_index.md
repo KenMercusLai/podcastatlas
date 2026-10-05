@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 12478
+wiki_total_pages: 12480
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "InovanceTechnology"
     title: "Inovance Technology / 汇川技术"
     url: "/wiki/entities/inovancetechnology/"
+  - key: "InsilicoMedicine"
+    title: "Insilico Medicine"
+    url: "/wiki/entities/insilicomedicine/"
   - key: "Insta360"
     title: "Insta360 / 影石"
     url: "/wiki/entities/insta360/"

@@ -10469,6 +10469,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "Accenture": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AccessibleProgrammingPlatform": [
     {
       "key": "culture",
@@ -45101,6 +45108,13 @@
     }
   ],
   "InovanceTechnology": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "InsilicoMedicine": [
     {
       "key": "technology",
       "label": "Technology",
