@@ -57274,9 +57274,9 @@
       "url": "/wiki/entities/dingwairenwesternhan/"
     },
     "DingYiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？ [llmAvVGEaAxWcSZ_PxirFUlbfpAa].md",
@@ -57284,6 +57284,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床 [lho5gIYQFPIGbVfHGUckpnbsY6OC].md",
+          "key": "zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc/"
         }
       ],
       "updated": "2026-10-05",
@@ -74923,9 +74930,9 @@
       "url": "/wiki/entities/fangzhilatehan/"
     },
     "FangshiAccountabilityTrap": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇1 正史记载 看女相师如何改命？ [ls8LFj4pq_Ncsk7X3ER7nlB0lTKK].md",
@@ -74954,15 +74961,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床 [lho5gIYQFPIGbVfHGUckpnbsY6OC].md",
+          "key": "zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc/"
         }
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/fangshiaccountabilitytrap/"
     },
     "FangshiFraudAndAuthority": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒 [luLAivzp1xqs71NbAltR-yGpJihw].md",
@@ -75005,6 +75019,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床 [lho5gIYQFPIGbVfHGUckpnbsY6OC].md",
+          "key": "zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc/"
         }
       ],
       "updated": "2026-10-05",
@@ -137492,9 +137513,9 @@
       "url": "/wiki/entities/luzhilatehan/"
     },
     "LuanDaWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
@@ -137509,6 +137530,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床 [lho5gIYQFPIGbVfHGUckpnbsY6OC].md",
+          "key": "zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc/"
         }
       ],
       "updated": "2026-10-05",

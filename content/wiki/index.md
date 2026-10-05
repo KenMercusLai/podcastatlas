@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床](sources/zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc.md) — 栾大经丁义引见，以汉武帝的求仙欲望和少翁之死为谈判筹码，再用“斗棋”表演建立可信度；标题中的公主情节未出现在所给文本中。
 - [《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？](sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa.md) — 栾大以求仙承诺换得封侯、六印与卫长公主婚姻，却在方术无验后被跟踪揭穿见师谎言并腰斩，推荐者丁义亦被处死。
 - [《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的](sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq.md) — 以赵禹的清廉、严法和拒绝请托区分原则与裁量，再以烈女的自伤、守寡和贞节牌坊引出性别化荣誉如何遮蔽生命代价。
 - [《资治通鉴·汉纪》350-1｜职场生存，这个道理必须懂！](sources/zizhi-tongjian-hanji-350-1-zhichang-shengcun-zhege-daoli-bixu-dong-lsobl23mkjhpn6eoif6oramxiopu.md) — 公孙卿以宝鼎时点和黄帝升仙叙事获得任用，陇西郡守则因天子从官缺食而自杀；节目把后者解释为近臣声誉权力下的避祸选择，但动机保持来源限定。
