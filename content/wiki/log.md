@@ -30579,3 +30579,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-r
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》328-2｜古代足球也疯狂，霍去病竟也痴迷？
+
+Added source `zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn`; created [[HanDynastyCuju|汉代蹴鞠]]; and resynthesized [[HuoQubing|霍去病]] and [[WeiQingHanGeneral|卫青]] from their complete preserved evidence inventories. Core synthesis: the episode places structured cuju, military conditioning, and social diffusion beside a command-welfare failure—organized play during supply shortage does not substitute for distributing food, allowing recovery, or sharing soldiers' hardship. No settled contradiction was adopted. The food-disposal account, temporary-field wording, ball and field rules, military mandate, popular reach, captive-player story, women's relief interpretation, and poverty-to-empathy contrast remain source-scoped pending primary-text and archaeological comparison; the football and golf language remains rhetorical. Broad [[HanWudi|汉武帝]], show, and Xiongnu pages were read for context but not reopened because the bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,823 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -96732,6 +96732,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/concepts/hancourtspectacleculture/"
     },
+    "HanDynastyCuju": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》328-2｜古代足球也疯狂，霍去病竟也痴迷？ [lh5o5CGY9kg7kD_Vl-WVVetsMVSn].md",
+          "key": "zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》328-2｜古代足球也疯狂，霍去病竟也痴迷？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/handynastycuju/"
+    },
     "HanFanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -108601,9 +108617,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -108639,6 +108655,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》336-1｜战神霍去病为何24岁突然暴毙？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》328-2｜古代足球也疯狂，霍去病竟也痴迷？ [lh5o5CGY9kg7kD_Vl-WVVetsMVSn].md",
+          "key": "zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》328-2｜古代足球也疯狂，霍去病竟也痴迷？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn/"
         }
       ],
       "updated": "2026-10-06",
@@ -233188,9 +233211,9 @@
       "url": "/wiki/entities/weiqiansanlian/"
     },
     "WeiQingHanGeneral": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -233240,6 +233263,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手",
           "url": "/wiki/sources/zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》328-2｜古代足球也疯狂，霍去病竟也痴迷？ [lh5o5CGY9kg7kD_Vl-WVVetsMVSn].md",
+          "key": "zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》328-2｜古代足球也疯狂，霍去病竟也痴迷？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn/"
         }
       ],
       "updated": "2026-10-06",
