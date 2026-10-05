@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》341-2｜到底多优秀，让张骞成为古代带货第一人](sources/zizhi-tongjian-hanji-341-2-daodi-duo-youxiu-rang-zhangqian-chengwei-gudai-daihuo-diyiren-llgdqirhiceemircz0_pnxpykqe.md) — 张骞出使后的接触被呈现为高频双向使团、南北路线知识、河西郡县支撑和物产技术流动；“带货第一人”与“彻底打通”保留为多主体通道形成过程中的节目修辞。
 - [《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？](sources/zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo.md) — 张骞以礼物、礼仪、迁徙与联姻方案争取乌孙，并用持节副使把单线访问扩展为通往大宛、康居、月氏和大夏的外交网络；乌孙则先派人核验汉朝实力。
 - [EP 33: Agents Everywhere: What Agentic AI Actually Means for Your Job](sources/ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job.md) — Data Science With Sam explainer on agent action loops, bounded reliability, human oversight, task displacement, and the verification skills needed for agent-enabled work.
 - [《资治通鉴·汉纪》343-1｜他一生荒淫骄奢，后人却顶礼膜拜？](sources/zizhi-tongjian-hanji-343-1-ta-yisheng-huangyin-jiaoshe-houren-que-dingli-mobai-lnspg6ektohor19yhtcqulhl4cvt.md) — 以汉武帝巡幸、河东郡守自杀和刘胜之死并置皇权压力，并将刘胜的酒色名声解释为可能的诸侯王示弱自保；其主观意图保持来源限定。

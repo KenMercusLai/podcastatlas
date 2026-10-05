@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2189
+topic_total_pages: 2190
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6504,6 +6504,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza"
     title: "《资治通鉴·周纪》75-4丨为什么说管仲才是经济战的鼻祖？"
     url: "/wiki/sources/zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza/"
+  - key: "zizhi-tongjian-hanji-341-2-daodi-duo-youxiu-rang-zhangqian-chengwei-gudai-daihuo-diyiren-llgdqirhiceemircz0_pnxpykqe"
+    title: "《资治通鉴·汉纪》341-2｜到底多优秀，让张骞成为古代带货第一人"
+    url: "/wiki/sources/zizhi-tongjian-hanji-341-2-daodi-duo-youxiu-rang-zhangqian-chengwei-gudai-daihuo-diyiren-llgdqirhiceemircz0_pnxpykqe/"
   - key: "zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r"
     title: "《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？"
     url: "/wiki/sources/zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r/"

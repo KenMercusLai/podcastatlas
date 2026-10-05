@@ -1,8 +1,8 @@
 {
   "content_date": "2026-10-06",
   "corpus": {
-    "episode_count": 3791,
-    "source_count": 3791
+    "episode_count": 3792,
+    "source_count": 3792
   },
   "generated": true,
   "global": {
@@ -16,13 +16,13 @@
     "output_digest": "accf7ad926fec485c6b5fd74fd7f063335d47738772532273c53a8078d189e5a",
     "overview_commit": "fbcceb719193a22693eaa9bce5cc8b4350e0fbc9",
     "overview_digest": "7ee254aae41f0b577520a3a3269c42f18a6dd42990ece97ee32c8c154ffa8a38",
-    "pending_ingests": 3,
+    "pending_ingests": 4,
     "pending_topics": [
       "work-education-and-society"
     ]
   },
-  "overview_commit": "617cab0afd0f909f5605c0dc75462391dad4b8b0",
-  "overview_digest": "66dbd24b196099009a05817b5378273e9eed9a0880228451c3e85d3a798c9036",
+  "overview_commit": "08b64e0a887175076ac5b0aad4f22256a6fdac65",
+  "overview_digest": "076cfeb3af2f7ca592bd63ba2e428602b8cca5e8ca2c8c75032a5116899c38a8",
   "paragraph_count": 796,
   "schema_version": 1,
   "topics": {

@@ -12366,9 +12366,9 @@
       "url": "/wiki/concepts/ancientromantourism/"
     },
     "AncientSilkRoad": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lrm9QbtnCvUh2uTckq7hogPOXhAY [lrm9QbtnCvUh2uTckq7hogPOXhAY].md",
@@ -12383,6 +12383,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-2｜到底多优秀，让张骞成为古代带货第一人 [llGdqirhIcEEmIrCzz0_pnxpYkQe].md",
+          "key": "zizhi-tongjian-hanji-341-2-daodi-duo-youxiu-rang-zhangqian-chengwei-gudai-daihuo-diyiren-llgdqirhiceemircz0_pnxpykqe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-2｜到底多优秀，让张骞成为古代带货第一人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-2-daodi-duo-youxiu-rang-zhangqian-chengwei-gudai-daihuo-diyiren-llgdqirhiceemircz0_pnxpykqe/"
         }
       ],
       "updated": "2026-10-06",
@@ -245675,9 +245682,9 @@
       "url": "/wiki/entities/zhangpueasternhan/"
     },
     "ZhangQianWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌 [lrJdMvYVoSWgFDuAjcH9oM9R-b6b].md",
@@ -245699,6 +245706,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-2｜到底多优秀，让张骞成为古代带货第一人 [llGdqirhIcEEmIrCzz0_pnxpYkQe].md",
+          "key": "zizhi-tongjian-hanji-341-2-daodi-duo-youxiu-rang-zhangqian-chengwei-gudai-daihuo-diyiren-llgdqirhiceemircz0_pnxpykqe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-2｜到底多优秀，让张骞成为古代带货第一人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-2-daodi-duo-youxiu-rang-zhangqian-chengwei-gudai-daihuo-diyiren-llgdqirhiceemircz0_pnxpykqe/"
         }
       ],
       "updated": "2026-10-06",
