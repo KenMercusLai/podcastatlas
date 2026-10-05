@@ -30140,3 +30140,10 @@ Added source `zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-h
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-05] ingest | 《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！
+
+Added source `zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl`; created [[AnGuoShaoJiWesternHan|安国少季]]; and resynthesized [[QueenDowagerJiuNanyue|樛太后]], [[ZhaoXingNanyue|赵兴]], [[LyuJiaNanyue|吕嘉]], [[Nanyue|南越]], and [[NominalSubmissionLocalAutonomy|名义臣服与地方实权并存]] from their complete preserved evidence inventories. Core synthesis: the royal party's request separates court attendance, border access, official seals, appointment, law, and resident supervision into distinct levers for moving from nominal submission toward institutional integration, while Lü Jia's locally rooted family power keeps imperial approval from becoming uncontested control. No settled contradiction was adopted. “娇氏／少纪” were normalized to 樛太后／安国少季; formal-spy status, private motives, popularity, kin totals, and durable implementation remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left read-only for downstream synthesis refresh. No topic claim set was dirty and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,769 sources and retain 791 overview paragraphs.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

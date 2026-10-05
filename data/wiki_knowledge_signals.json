@@ -11788,6 +11788,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/anguokhotanlatehan/"
     },
+    "AnGuoShaoJiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！ [lpd86xT-e-2bsyvW2OREeoI_eokL].md",
+          "key": "zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/anguoshaojiwesternhan/"
+    },
     "AnGuoSouthernXiongnu": {
       "episode_count": 1,
       "show_count": 1,
@@ -138979,9 +138995,9 @@
       "url": "/wiki/entities/lyudai/"
     },
     "LyuJiaNanyue": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？ [li16pfjb6P0OWYS5HtEcscFoMHCh].md",
@@ -139010,6 +139026,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国",
           "url": "/wiki/sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！ [lpd86xT-e-2bsyvW2OREeoI_eokL].md",
+          "key": "zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl/"
         }
       ],
       "updated": "2026-10-05",
@@ -153863,9 +153886,9 @@
       "url": "/wiki/entities/nansunshi/"
     },
     "Nanyue": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -153929,6 +153952,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！ [lpd86xT-e-2bsyvW2OREeoI_eokL].md",
+          "key": "zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl/"
         }
       ],
       "updated": "2026-10-05",
@@ -157748,9 +157778,9 @@
       "url": "/wiki/concepts/nomadicimperialformation/"
     },
     "NominalSubmissionLocalAutonomy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
@@ -157758,6 +157788,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！ [lpd86xT-e-2bsyvW2OREeoI_eokL].md",
+          "key": "zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl/"
         }
       ],
       "updated": "2026-10-05",
@@ -179855,9 +179892,9 @@
       "url": "/wiki/concepts/queenanttraffickingecology/"
     },
     "QueenDowagerJiuNanyue": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国 [lgpUqijq5KyD5iVH8ajlClo8oJeX].md",
@@ -179872,6 +179909,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！ [lpd86xT-e-2bsyvW2OREeoI_eokL].md",
+          "key": "zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl/"
         }
       ],
       "updated": "2026-10-05",
@@ -244696,9 +244740,9 @@
       "url": "/wiki/entities/zhaoxinchenwesternhan/"
     },
     "ZhaoXingNanyue": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国 [lgpUqijq5KyD5iVH8ajlClo8oJeX].md",
@@ -244713,6 +244757,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！ [lpd86xT-e-2bsyvW2OREeoI_eokL].md",
+          "key": "zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl/"
         }
       ],
       "updated": "2026-10-05",

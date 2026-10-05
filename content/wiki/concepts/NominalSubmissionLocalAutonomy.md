@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [governance, vassalage, frontier, autonomy, political-symbolism]
 sources:
   - zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr
+  - zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl
 last_updated: 2026-10-05
 ---
 
@@ -18,12 +19,14 @@ Hanji 349-2 illustrates the pattern through [[Nanyue|南越]]. [[ZhaoTuo|赵佗]
 
 The distinction is therefore not a binary between independence and submission. Titles, seals, succession recognition, court attendance, law, and local command can move separately. Symbolic retreat can lower conflict without transferring effective control, while accepting recognition for a queen and heir can deepen imperial leverage without guaranteeing incorporation.
 
+Hanji 351 shows an attempted move beyond that dual order. Zhao Xing and Queen Dowager Jiu request triennial court attendance, removal of border barriers, Han-issued seals for senior officers, Han law, and continued envoy presence, while Zhao Xing retains power to appoint remaining officials. The package targets ritual, movement, office, law, and supervision at once, but Lü Jia's embedded family power means central approval still does not equal settled local control.
+
 ## Key Claims
 
 - External rank and internal governing practice can diverge.
 - Symbolic concessions may reduce confrontation without ending local autonomy.
 - Court attendance is an institutional control point, not merely ceremonial etiquette.
-- Central recognition of succession can create leverage while leaving enforcement uncertain.
+- Central recognition of succession can open a later institutional-integration channel while leaving enforcement uncertain.
 - Hidden or retained regalia can preserve a displaced claim without openly asserting it.
 
 ## Evidence
@@ -31,17 +34,20 @@ The distinction is therefore not a binary between independence and submission. T
 - Dual external and internal order: [[zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr|Hanji 349-2]] contrasts Zhao Tuo and Zhao Hu's outward royal status with reported internal imperial privileges.
 - Selective compliance: [[zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr|Hanji 349-2]] says Zhao Yingqi hides the seals and requests succession recognition but refuses Chang'an attendance.
 - Enforcement boundary: [[zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr|Hanji 349-2]] attributes the refusal to fear of interior-vassal legal constraints.
+- Attempted convergence: [[zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl|Hanji 351]] shows the next royal party requesting the very attendance, border, seal, and legal controls that Zhao Yingqi had avoided.
 
 ## Counterevidence & Qualifications
 
-This is a source-bounded analytical pattern, not proof that Nanyue and Han were equal sovereign states or that every symbolic act was insincere. The episode's reading of seals and motives needs primary textual and material comparison. Formal hierarchy can still shape succession, diplomacy, and later intervention even when day-to-day control remains local.
+This is a source-bounded analytical pattern, not proof that Nanyue and Han were equal sovereign states or that every symbolic act was insincere. The sources' reading of seals, motives, and inside agents needs primary textual and material comparison. Hanji 351 records approval of an integration package, not proof that every measure was fully or durably implemented before the coup. Formal hierarchy can shape succession and diplomacy even when day-to-day control remains local, while locally embedded power can block the conversion of approval into enforcement.
 
 ## What Changed
 
-- Created a framework separating titles, regalia, succession recognition, attendance, legal reach, and effective local command.
+- Extended the framework from selective compliance to an attempted transition across attendance, borders, seals, appointments, law, and supervision.
+- Added the distinction between central approval and locally enforceable institutional control.
 
 ## Related Concepts
 
 - [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]] - provides the recognition-and-deterrence mechanism that can establish formal submission.
 - [[Nanyue|南越]] - supplies the source's multi-generational case of selective compliance and retained autonomy.
+- [[QueenDowagerJiuNanyue|樛太后]] - royal actor who attempts to convert succession leverage into institutional integration.
 - [[TributeAccessGatekeeping|朝见通道垄断]] - differs by focusing on control over others' access to the imperial center rather than a ruler's own bounded submission.

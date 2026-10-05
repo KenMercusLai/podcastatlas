@@ -13,6 +13,7 @@ sources:
   - zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf
   - zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex
   - zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr
+  - zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl
 last_updated: 2026-10-05
 ---
 
@@ -28,6 +29,8 @@ That settlement is incorporation without direct occupation. Zhao Tuo accepts Han
 
 Hanji 349-2 makes the autonomy problem multi-generational. It says conflict under Empress Lü pushes Zhao Tuo to call himself “Nanyue Wudi,” while Emperor Wen later repairs relations and obtains an outward return to royal status. Zhao Tuo and [[ZhaoHuNanyue|赵胡]] nevertheless preserve imperial-style seals internally. [[ZhaoYingqiNanyue|赵婴齐]] hides those seals and commissions none for himself, but he refuses Chang'an attendance for fear of interior-vassal constraints. His petition to recognize [[QueenDowagerJiuNanyue|樛氏]] and [[ZhaoXingNanyue|赵兴]] makes succession another channel of Han influence without yet transferring effective rule.
 
+Hanji 351 supplies the attempted institutional transition after Zhao Xing succeeds. The king and queen dowager receive a mission including [[AnGuoShaoJiWesternHan|安国少季]] and ask for triennial court attendance, removal of border barriers, Han-issued seals for senior officers, adoption of Han law, and continued envoy presence. Wudi approves while leaving Zhao Xing authority over remaining appointments. The package would narrow autonomy across ritual, movement, office, law, and supervision, but [[LyuJiaNanyue|吕嘉]]'s family network and opposition mean approval is not the same as uncontested implementation.
+
 Hanji 353-1 adds the locally rooted power structure. It says Zhao Tuo secured support by aligning his royal house with the Lü family through office and marriage: Zhao held the kingship, Lü Jia held the chancellorship, and marriage joined the families. Whether Nanyue accepted closer Han incorporation therefore depended not only on the king but also on another durable power center.
 
 Hanji 352-1 identifies the political rupture. Zhao Xing and Queen Dowager Jiu favor closer Han incorporation, but their banquet confrontation does not remove Lü Jia. When a two-thousand-person Han mission enters, Lü Jia mobilizes against the royal party, kills the king, queen dowager, and Han envoys, and installs [[ZhaoJiandeNanyue|赵建德]]. The final war begins as an internal legitimacy and power struggle, not only an external invasion.
@@ -41,7 +44,7 @@ Hanji 354 supplies the outcome. Yang Pu attacks Panyu while Lu Bode receives pri
 - Southern polity formed from former Qin commandery territory and difficult Lingnan routes.
 - Frontier regime initially incorporated through recognition and deterrent diplomacy rather than direct occupation.
 - Multi-generational example of formal Han submission coexisting with local autonomy and internal imperial symbolism.
-- Power-sharing field divided among Zhao royal authority, Lü-family local influence, and later Han-facing succession ties.
+- Power-sharing field divided among Zhao royal authority, Lü-family local influence, and a Han-backed but contested institutional-integration program.
 - Polity whose final war begins with an internal coup over closer Han incorporation.
 - Resistance theater where a destroyed vanguard is followed by a much larger multi-route campaign.
 - Conquered polity reorganized into commanderies after complementary assault and surrender pressure.
@@ -51,6 +54,7 @@ Hanji 354 supplies the outcome. Yang Pu attacks Panyu while Lu Bode receives pri
 - Formation and early recognition: [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] and [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]] trace consolidation and recognition-backed coercive diplomacy; [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] supplies its earlier outside-option role.
 - Nominal-boundary qualification: [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] presents the South Sea kingship as a possibly paper-only carve-out.
 - Dual order and succession leverage: [[zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr|Hanji 349-2]] traces internal imperial seals, Zhao Yingqi's selective compliance, and recognition of Lady Jiu and Zhao Xing.
+- Attempted institutional transition: [[zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl|Hanji 351]] joins court attendance, border access, seals, appointment, Han law, and resident envoys in the royal party's approved integration request.
 - Internal power and campaign routes: [[zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7|Hanji 353-1]] describes Zhao-Lü power sharing and a five-route convergence on Panyu.
 - Court rupture and replacement succession: [[zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex|Hanji 352-1]] traces the failed banquet move, Lü Jia's mobilization, the royal killings, and Zhao Jiande's enthronement.
 - Resistance and mobilization: [[zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch|Hanji 352-2]] gives the destroyed vanguard, fortified border, mass mobilization, and command selection.
@@ -58,14 +62,13 @@ Hanji 354 supplies the outcome. Yang Pu attacks Panyu while Lu Bode receives pri
 
 ## Qualifications
 
-The sources describe different moments and should not be collapsed into one static relationship. Liu Bang-era recognition does not prove permanent Han control, while later resistance does not erase the early settlement's temporary reality. Hanji 349-2's seal interpretation, title chronology, Zhao Yingqi motives, twelve-year cultivation, and “inside agent” framing for Lady Jiu remain source-scoped. Hanji 352-1's banquet counterfactual and allegations against the queen dowager are interpretive or partisan. Hanji 353-1's Zhao-Lü settlement and Hanji 354's conquest sequence are compact Han-centered retellings rather than a full Nanyue political history. Force totals, routes, battle details, surrender motives, commandery chronology, and local perspectives remain incomplete.
+The sources describe different moments and should not be collapsed into one static relationship. Liu Bang-era recognition does not prove permanent Han control, while later resistance does not erase the early settlement's temporary reality. Hanji 349-2's seal interpretation, title chronology, Zhao Yingqi motives, twelve-year cultivation, and “inside agent” framing for Lady Jiu remain source-scoped. Hanji 351 adds an approved institutional package but does not establish its duration or full enforcement; its formal-spy framing, kin totals, and popularity comparison also remain source-scoped. Hanji 352-1's banquet counterfactual and allegations against the queen dowager are interpretive or partisan. Hanji 353-1's Zhao-Lü settlement and Hanji 354's conquest sequence are compact Han-centered retellings rather than a full Nanyue political history. Force totals, routes, battle details, surrender motives, commandery chronology, and local perspectives remain incomplete.
 
 ## What Changed
 
-- Added the multi-generational interval between early recognition and the final coup.
-- Distinguished concealment of imperial symbols from surrender of practical local authority.
-- Added Zhao Yingqi's queen-and-heir petition as a succession-based opening for Han influence.
-- Connected that opening to, but did not treat it as sufficient cause of, the later pro-incorporation royal party.
+- Added the approved court-attendance, border, seal, appointment, law, and resident-envoy integration package.
+- Distinguished imperial approval from durable enforcement in a polity with divided internal authority.
+- Connected the succession opening to the later coup through an intermediate diplomatic and institutional stage.
 
 ## Relationships
 
@@ -73,6 +76,7 @@ The sources describe different moments and should not be collapsed into one stat
 - [[ZhaoHuNanyue|赵胡]] - second ruler who reportedly continues the internal seal tradition.
 - [[ZhaoYingqiNanyue|赵婴齐]] - third ruler who hides the seals but resists direct court constraint.
 - [[QueenDowagerJiuNanyue|樛太后]] - Han-born queen and later advocate of closer incorporation.
+- [[AnGuoShaoJiWesternHan|安国少季]] - Han envoy whose prior intimate access accompanies the integration mission.
 - [[ZhaoXingNanyue|赵兴]] - designated heir and king killed during the internal rupture.
 - [[LyuJiaNanyue|吕嘉]] - locally rooted chancellor whose resistance precipitates conquest.
 - [[ZhaoJiandeNanyue|赵建德]] - replacement king installed during resistance and captured after Panyu falls.

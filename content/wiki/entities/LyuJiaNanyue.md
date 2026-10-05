@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7
   - zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf
   - zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex
+  - zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl
 last_updated: 2026-10-05
 ---
 
@@ -19,6 +20,8 @@ last_updated: 2026-10-05
 
 Hanji 353-1 says Zhao Tuo consolidated Nanyue by aligning with the Lü family, which held substantial influence among local Yue communities. Zhao held the kingship, Lü Jia served as chancellor, and marriage connected the two families. The episode therefore treats submission as a negotiated internal question rather than a decision the royal house could make alone.
 
+Hanji 351 makes that constraint visible before the coup. It describes Lü Jia as a three-generation chancellor whose family fills many offices, marries into the royal house, and commands more local support than the young king and queen dowager. When the royal party requests triennial court attendance, open borders, Han seals, Han law, and resident envoys, Lü Jia represents the locally embedded opposition to converting formal submission into institutional integration. The exact kin count and comparative-popularity claim remain source-scoped.
+
 Hanji 352-1 supplies the internal seizure preceding battlefield resistance. After Zhao Xing and the queen dowager support closer Han incorporation, a banquet move against Lü Jia fails. When the Han Qianqiu-Jiu Le mission enters Nanyue, Lü Jia depicts the young king, Han-born queen dowager, envoy relationship, treasure transfer, and supposed enslavement as threats to the polity. His faction kills the royal party and Han envoys, informs local rulers and commanderies, and installs Zhao Jiande.
 
 Hanji 352-2 then presents Lü Jia combining force, symbolic messaging, and defensive preparation. His side destroys Han Qianqiu's advancing group, returns the killed Han envoys' tallies with a professed apology, and fortifies the frontier. Those actions do not restore peace; [[HanWudi|汉武帝]] treats them as open rebellion and begins the larger conquest mobilization. Hanji 354 closes the branch: after Yang Pu's assault and Lu Bode's surrender policy dissolve the defense, Lü Jia flees to sea with Zhao Jiande and is captured.
@@ -26,7 +29,7 @@ Hanji 352-2 then presents Lü Jia combining force, symbolic messaging, and defen
 ## Key Characteristics
 
 - Nanyue chancellor embedded in a family alliance with the Zhao royal house.
-- Locally influential actor whose support matters to Nanyue's incorporation decision.
+- Three-generation chancellor whose officeholding and marriage network makes his support central to Nanyue's incorporation decision.
 - Coup leader who converts anti-royal mobilization into killings and replacement succession.
 - Resistance leader behind the destruction of Han Qianqiu's force.
 - User of apologetic symbolism alongside frontier defense after killing Han personnel.
@@ -35,6 +38,7 @@ Hanji 352-2 then presents Lü Jia combining force, symbolic messaging, and defen
 ## Evidence
 
 - Internal position: [[zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7|Hanji 353-1]] describes Lü Jia's chancellorship, local influence, and marriage-linked alliance with Zhao Tuo's house.
+- Pre-coup institutional opposition: [[zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl|Hanji 351]] places his family network against the royal request for court attendance, border opening, Han seals and law, and continued envoy presence.
 - Failed confrontation and coup: [[zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex|Hanji 352-1]] says Lü Jia survives the banquet, mobilizes against the royal party, kills the king and queen dowager, and installs Zhao Jiande.
 - Mobilization rhetoric: [[zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex|Hanji 352-1]] reports the allegations used to portray Han incorporation as betrayal and enslavement.
 - Battlefield reversal: [[zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch|Hanji 352-2]] says Lü Jia's side destroys Han Qianqiu's group near Panyu.
@@ -43,10 +47,12 @@ Hanji 352-2 then presents Lü Jia combining force, symbolic messaging, and defen
 
 ## Qualifications
 
-This profile remains bounded to four Han-centered podcast summaries. Hanji 353-1 does not identify the exact marriage links, measure the Lü family's support, distinguish inherited arrangements from Lü Jia's own career, or supply local voices. Hanji 352-1's sexual, treasure, and enslavement claims are hostile mobilization rhetoric, not neutral fact; it also does not establish how broadly the claims were believed. Hanji 352-2 does not reconstruct his full command structure, while Hanji 354 compresses the flight and capture. Calling the apology false follows the host's interpretation; exact pursuit details, captor identity, and an independent Nanyue perspective are absent.
+This profile remains bounded to five Han-centered podcast summaries. Hanji 351 and 353-1 do not identify the exact marriage links, independently verify the reported seventy-plus officeholders, measure the Lü family's support, distinguish inherited arrangements from Lü Jia's own career, or supply local voices. Hanji 351 establishes an approved proposal, not proof of full implementation. Hanji 352-1's sexual, treasure, and enslavement claims are hostile mobilization rhetoric, not neutral fact; it also does not establish how broadly the claims were believed. Hanji 352-2 does not reconstruct his full command structure, while Hanji 354 compresses the flight and capture. Calling the apology false follows the host's interpretation; exact pursuit details, captor identity, and an independent Nanyue perspective are absent.
 
 ## What Changed
 
+- Added Lü Jia's opposition to a concrete court, border, seal, legal, and resident-envoy integration package.
+- Added the reported scale of his officeholding and marriage network while keeping exact numbers and relative popularity source-scoped.
 - Added the failed banquet confrontation, anti-royal mobilization, palace killings, and replacement succession.
 - Recast the military resistance as the continuation of a locally grounded internal seizure rather than its starting point.
 
@@ -55,6 +61,7 @@ This profile remains bounded to four Han-centered podcast summaries. Hanji 353-1
 - [[ZhaoTuo|赵佗]] - royal partner in the source's office-and-marriage power arrangement.
 - [[ZhaoXingNanyue|赵兴]] - king whose incorporation policy Lü Jia resists and whose life he ends.
 - [[QueenDowagerJiuNanyue|樛太后]] - royal advocate targeted through hostile rhetoric and killed in the coup.
+- [[AnGuoShaoJiWesternHan|安国少季]] - Han envoy whose personal access accompanies the integration mission Lü Jia opposes.
 - [[ZhaoJiandeNanyue|赵建德]] - replacement king installed by Lü Jia and later captured with him.
 - [[Nanyue|南越]] - polity whose internal decision and later resistance Lü Jia shapes.
 - [[HanQianqiuWesternHan|韩千秋]] - Han commander whose force Lü Jia's side destroys.

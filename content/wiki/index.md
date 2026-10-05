@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！](sources/zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl.md) — 樛太后与赵兴借安国少季使团请求按内诸侯方式朝见、开放边关、受印用汉法，但吕嘉的家族与地方权力使制度整合仍停留在有争议的提案阶段。
 - [《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？](sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr.md) — 赵婴齐藏起赵佗、赵胡的帝号印玺却拒绝入朝，并请立樛氏与赵兴，呈现南越以象征臣服换取地方实权延续的策略。
 - [《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国](sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex.md) — 赵兴与樛太后归汉倾向受吕嘉阻挠，宴席除嘉未成后庄参拒绝两千人任务、韩千秋请战；吕嘉继而杀害王太后与汉使并改立赵建德。
 - [《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋](sources/zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p.md) — 卜式请战南越却无人响应，随后106名列侯因酎金不合格失爵、赵周下狱自杀；节目把礼制问责解释为对贵族拒绝共担战事的政治清算。
@@ -3833,6 +3834,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [安国少季 / An Guo Shaoji (Western Han)](entities/AnGuoShaoJiWesternHan.md) — 汉使与樛太后旧日亲密关系人，其个人接近成为南越归汉交涉的一条政治渠道。
 - [赵婴齐 / Zhao Yingqi (Nanyue)](entities/ZhaoYingqiNanyue.md) — 藏起两代帝号印玺、接受王后与世子册认却拒绝入朝，以有限象征让步维护南越地方实权的第三代国王。
 - [赵胡 / Zhao Hu (Nanyue)](entities/ZhaoHuNanyue.md) — 承接赵佗并据节目所述保留“南越武帝”印玺、另制“南越文帝”印玺的南越第二代国王。
 - [赵兴 / Zhao Xing (Nanyue)](entities/ZhaoXingNanyue.md) — 倾向随母亲樛太后归附汉朝，却未能压制吕嘉并在政变中被杀、由赵建德取代的南越第四代国王。
