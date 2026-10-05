@@ -481,6 +481,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.06麻醉科｜可以选择手术麻醉医生么｜和手臂一样长的针头是真的么？](sources/vol-06-mazuike-keyi-xuanze-shoushu-mazui-yisheng-me-he-shoubi-yiyang-chang-de-zhentou-shi-zhen-de-me-ll7tqta4renix5vmcvrspd069z8o.md) — 这病说来话长 episode on anesthesiologists' clinical role, layered operating-room coverage, preoperative screening, patient allocation, training, and anatomy-matched needle choice.
 - [VOL.07麻醉科｜麻醉药物会使脑子变笨么｜乳腺手术是否需全麻？](sources/vol-07-mazuike-mazui-yaowu-hui-shi-naozi-bian-ben-me-ruxian-shoushu-shifou-xu-quanma-lkf-9yhb2yphhalturxi5h89ya45.md) — 这病说来话长 episode on preoperative assessment, anesthesia-mode selection, cognition and dosing myths, informed consent, and aspiration-prevention fasting.
 - [Brazil rut: Lula v Bolsonaro, again](sources/brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5.md) — The Intelligence episode on Brazil's polarized election and fiscal constraints, honor culture and women's work, and the rise of phone-free concerts.
+- [Here comes the son? Brazil’s election tips rightward](sources/here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b.md) — The Intelligence episode on Flavio Bolsonaro's first-round lead, U.S. plate-reader backlash, and elite nanny rota care.
 - [289: Drink — Britain’s Empire of Booze](sources/289-drink-glt6408276244.md) — The Rest Is History episode with Henry Jeffreys on how British technology, trade, policy, taste, and branding shaped champagne, claret, port, sherry, Marsala, and blended Scotch.
 - [How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink](sources/how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173.md) — Full Huberman Lab conversation on discipline, energy, intent-led command, detachment, morale, role fit, grief, identity, and bounded resilience practice.
 - [Why one X user is microblogging history in real time](sources/tech-20260929-0929-mp-tech-pod-128-tech-20260929-0929-mp-tech-pod-128.md) — Marketplace Tech profile of Manny Morota's manual, real-time historical feeds, intergenerational memory, misinformation framing, community norms, and trauma-monetization boundary.
@@ -4652,9 +4653,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jesus](entities/Jesus.md) — First-century Jewish teacher reconstructed through baptism, Kingdom preaching, Jerusalem conflict, crucifixion, and early resurrection belief.
 - [John the Baptist](entities/JohnTheBaptist.md) — Preacher of repentance, baptism, and judgment whose connection to Jesus is a strong historical anchor.
 - [Pontius Pilate](entities/PontiusPilate.md) — Roman authority connecting the Jerusalem arrest of Jesus to political interrogation and crucifixion.
-- [Luiz Inacio Lula da Silva](entities/LuizInacioLulaDaSilva.md) — Incumbent Brazilian president presented as one pole of the 2026 election and fiscal debate.
-- [Flavio Bolsonaro](entities/FlavioBolsonaro.md) — Bolsonaro-family presidential candidate whose platform centers a pardon for his father.
-- [Jair Bolsonaro](entities/JairBolsonaro.md) — Former Brazilian president whose conviction, voter base, and family succession remain central to the 2026 contest.
+- [Luiz Inacio Lula da Silva](entities/LuizInacioLulaDaSilva.md) — Incumbent Brazilian president who reached the 2026 runoff after finishing behind Flavio Bolsonaro in the first round.
+- [Flavio Bolsonaro](entities/FlavioBolsonaro.md) — First-round leader whose platform joins family pardons, court confrontation, and crime, corruption, and deficit proposals.
+- [Jair Bolsonaro](entities/JairBolsonaro.md) — Imprisoned former president whose family movement retained electoral strength through Flavio and other relatives.
 - [Phoebe Bridgers](entities/PhoebeBridgers.md) — Musician used as the episode's lead example of a repeated phone-free concert policy.
 - [Yondr](entities/Yondr.md) — Locking phone-pouch system used to enforce device restrictions at live events.
 - [Henry Jeffreys](entities/HenryJeffreys.md) — Drinks writer explaining Britain’s role in the cross-border formation of wines and spirits.
@@ -14195,7 +14196,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ring](entities/Ring.md) — Amazon-owned video doorbell and camera company discussed through Search Party, law-enforcement relationships, surveillance backlash, and default TAKE encryption.
 - [Ring Search Party](entities/RingSearchParty.md) — Ring AI feature for finding lost dogs that raised broader connected-camera surveillance concerns and privacy-control responses.
 - [Jamie Siminoff](entities/JamieSiminoff.md) — Ring founder tied to Search Party backlash and the company-side TAKE encryption and police-request explanation.
-- [Flock Safety](entities/FlockSafety.md) — Public-safety camera company whose announced or explored Ring community-request integration was canceled before implementation.
+- [Flock Safety](entities/FlockSafety.md) — Public-safety camera company facing disputes over nationwide plate-search scale, misuse, security, fragmented rules, and public backlash.
 - [Ben Jordan](entities/BenJordan.md) — Independent technologist who found exposed Flock Safety cameras through Shodan and explained the privacy and evidence risks on Marketplace Tech.
 - [Shodan](entities/Shodan.md) — Internet-connected device search engine used in Marketplace Tech's exposed Flock Safety camera episode.
 - [404 Media](entities/404Media.md) — Technology publication that received Flock Safety's limited-misconfiguration response in the exposed-camera story.
@@ -20088,7 +20089,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yellow Lemon Price Cycle / 黄柠檬价格周期](concepts/YellowLemonPriceCycle.md) — Supply-demand pattern where better Anyue output, export disruption, inventory, and weaker tea-drink procurement push domestic yellow-lemon prices down.
 - [Soft-Discount Retail / 软折扣零售](concepts/SoftDiscountRetail.md) — Discount format based on close-dated, overstock, and tail-goods supply, contrasted with hard discount's structural operating efficiency.
 - [Public Safety Privacy Tradeoff](concepts/PublicSafetyPrivacyTradeoff.md) — Governance problem balancing crime-solving, emergency response, and ride-hailing harm prevention against retention, tracking, recording, user control, access, and trust risks.
-- [Automatic License Plate Reader](concepts/AutomaticLicensePlateReader.md) — Camera-and-software pattern that turns vehicle plates and attributes into searchable public-safety records.
+- [Automatic License Plate Reader](concepts/AutomaticLicensePlateReader.md) — Searchable vehicle-record system whose benefits are constrained by purpose, audit, security, retention, and sharing controls.
 - [Police Data Access Audit](concepts/PoliceDataAccessAudit.md) — Accountability layer for detecting and disciplining misuse of police-accessible surveillance databases.
 - [Local Surveillance Governance](concepts/LocalSurveillanceGovernance.md) — City, state, transparency, and retention-control model for public-safety surveillance deployments.
 - [Drone As First Responder](concepts/DroneAsFirstResponder.md) — Public-safety drone model that reaches incidents before human responders while raising new oversight and privacy questions.
@@ -26128,5 +26129,6 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [组织公平感与退出判断 / Organizational Fairness and Exit Judgment](concepts/OrganizationalFairnessExitJudgment.md) — 区分职场委屈、组织评价逻辑、剩余发展空间与体面退出方式的判断框架。
 - [Revolutionary Political Religion](concepts/RevolutionaryPoliticalReligion.md) — Sacred grounding of revolutionary rights and virtue through belief, ritual, calendar, civic spectacle, and internalized moral observation.
+- [Elite Nanny Rota Care](concepts/EliteNannyRotaCare.md) — Ultra-wealthy continuous-coverage childcare model joining premium credentials and pay to intensive shifts, travel, handoffs, and labor-boundary risks.
 
 ## Syntheses

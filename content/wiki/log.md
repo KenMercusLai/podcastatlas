@@ -30235,3 +30235,11 @@ Added source `10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinv
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | Here comes the son? Brazil’s election tips rightward
+
+Added source `here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b`; created [[EliteNannyRotaCare]]; and resynthesized [[FlavioBolsonaro]], [[JairBolsonaro]], [[LuizInacioLulaDaSilva]], [[FlockSafety]], [[AutomaticLicensePlateReader]], [[DomesticServiceProfessionalization]], and [[LatinAmericaRightwardShift]] from their complete preserved evidence inventories. Core synthesis: Flavio's first-round lead turns the anticipated Brazil contest into a confirmed runoff and strengthens the episode's regional rightward-shift frame; the plate-reader branch shows claimed public-safety benefits and tighter search controls coexisting with network scale, fragmented rules, wrong stops, misuse, weak justifications, and political backlash; and elite rota nannying joins premium credentials and pay to intensive availability and boundary risk. No settled contradiction was adopted. The runoff result, regional trend count, surveillance scale and effectiveness, polling, cancellations, wages, staffing costs, and agency anecdotes remain source-scoped. Downstream synthesis rebuilt `governance-and-institutions` and `work-education-and-society`, compacted the global artifact after a material candidate change, and validated 3,780 sources across 793 overview paragraphs and nine topics. The full-corpus scan found 30 pre-existing broken wikilinks outside the changed canonical pages; identity, schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9722
+wiki_total_pages: 9723
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -359,6 +359,9 @@ wiki_pages:
   - key: "EliteFiscalLawCompliance"
     title: "Elite Fiscal-Law Compliance / 贵族税法同遵"
     url: "/wiki/concepts/elitefiscallawcompliance/"
+  - key: "EliteNannyRotaCare"
+    title: "Elite Nanny Rota Care"
+    url: "/wiki/concepts/elitenannyrotacare/"
   - key: "EliteOverproduction"
     title: "Elite Overproduction"
     url: "/wiki/concepts/eliteoverproduction/"

@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-10-05
-as_of_overview_commit: 9843c76b28f13e269d9521b6116452dbd79c69f7
-input_digest: 0a06fb1603bc0474caad82050c5f6398262b583c202f589c71c9e81374dd21ef
+as_of_overview_commit: 8204c5d6fc2b65e96e2882f7f59208f1b6ccb526
+input_digest: 2652b591ef73e81699edd83ca76fe7b19121443c174abd6eb952e89c69121d41
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Across the bounded historical and modern cases, governance depends on more than formal rules: legitimacy, information, administrative capacity, bargaining, accountability, and implementation incentives determine whether institutions can act and whether action remains bounded. EP36 adds that enterprise agents require explicit security and governance controls, while rack-scale and physical-AI announcements require deliverable power, cooling, utilization, safety, and adoption before projected capacity becomes legitimate operating infrastructure; product and deployment details remain source-scoped.
+Across the bounded historical and modern cases, governance depends on more than formal rules: legitimacy, information, administrative capacity, bargaining, accountability, and implementation incentives determine whether institutions can act and whether action remains bounded. The newest election and surveillance evidence adds that electoral alignment remains contingent on turnout and institutional checks, while public-safety technology requires enforceable purpose, audit, security, retention, and sharing controls rather than company assurances alone. EP36 adds parallel delivery and governance gates for enterprise agents and physical-AI infrastructure; all current election, surveillance, and deployment details remain source-scoped.
 
 ## Cross-source Findings
 
@@ -2784,3 +2784,14 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 - Enterprise-secure is the episode's characterization of NeMoClaw rather than an independent security assessment or proof of safe default deployment.
 - Projected orders and announced vehicle or robot deployments do not establish manufacturing, energization, customer adoption, safety approval, or utilization.
 - Names, transaction terms, rack details, coalition membership, and deployment dates remain source-scoped because the supplied document is a structured recap with transcription uncertainty.
+
+### Electoral Alignment And Surveillance Legitimacy Depend On Institutional Controls
+
+[[here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b|The Economist episode]] adds two governance tests: [[FlavioBolsonaro]]'s first-round lead extends [[LatinAmericaRightwardShift]] through voter dissatisfaction, party-family strength, and Trump alignment, while [[AutomaticLicensePlateReader]] and [[FlockSafety]] show that useful public-safety infrastructure loses legitimacy when network scale, interstate sharing, weak justifications, misuse, and fragmented oversight outrun enforceable controls.
+
+**Evidence:** [[here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b]], [[FlavioBolsonaro]], [[LatinAmericaRightwardShift]], [[AutomaticLicensePlateReader]], [[FlockSafety]]
+
+**Qualifications:**
+
+- Brazil's runoff remains unresolved, and the regional election count, voter motives, polling, camera scale, effectiveness, and contract-cancellation figures remain source-scoped.
+- Tighter search-reason controls do not by themselves prove that stated purposes are truthful, independently reviewed, or consistently enforced across jurisdictions.

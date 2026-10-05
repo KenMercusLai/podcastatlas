@@ -323,14 +323,14 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-10-05",
       "latest_episode_file": "4ae9c94fbc2460c76c6e93fcf359497b [4ae9c94fbc2460c76c6e93fcf359497b.mp3？aid=6ac36ea80d8a484144c61eb9&chid=d556eb54-6160-4.280].md",
-      "source_note_count": 89,
-      "topic_matched_source_note_count": 80,
+      "source_note_count": 90,
+      "topic_matched_source_note_count": 81,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 58
+          "source_note_count": 59
         },
         {
           "key": "technology",
@@ -410,7 +410,7 @@
         }
       ],
       "start_here_episode_files": [
-        "Trial and terror： Russia escalates Kyiv campaign [6abe39c382177b9ab8a8904c].md",
+        "4ae9c94fbc2460c76c6e93fcf359497b [4ae9c94fbc2460c76c6e93fcf359497b.mp3？aid=6ac36ea80d8a484144c61eb9&chid=d556eb54-6160-4.280].md",
         "Coffer stop： AI may shrink tax base [6abf81fdb06169dc7218d384].md",
         "Cheques and the City： Premier League disgrace [6abcdaab4e059d44b566ca74].md",
         "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md"

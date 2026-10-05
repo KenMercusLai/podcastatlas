@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d34511688e8f3e30871b62b49c7909d6d0b606fbe09d29ae0f9005a86c5cf022",
       "a40cea44167ef9e91c3b21ed43ff66622d2ed9ad0cb3c091596e825d24fdda87",
       "42977e643c7f46681a2bfdbd78b01cc04902b2e747e70745f01a765d4fcfa4c0",
       "3376025cac4c5300d021b3316518ad84e963fd700c97cdd33842d6267bce9b62",
@@ -794,11 +795,33 @@
       "30dab5d9a3dbe5a1852603c018045e5063833f4e7647d6399d3386f189f53928",
       "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61"
     ],
-    "paragraph_count": 792
+    "paragraph_count": 793
   },
-  "overview_commit": "269d495e580d40a01ed9ff3dbb831a89f2ec68b1",
-  "overview_digest": "c8e6ed1d117085f71499cb2f2f9c70b947f1d0fe900907d49b57982e5ad8f02e",
+  "overview_commit": "8204c5d6fc2b65e96e2882f7f59208f1b6ccb526",
+  "overview_digest": "7788b2413dd95df24479bf664ed35b686d229c22c5b203f31f709daef4af4dd6",
   "paragraphs": [
+    {
+      "id": "d34511688e8f3e30871b62b49c7909d6d0b606fbe09d29ae0f9005a86c5cf022",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b|Here comes the son? Brazil's election tips rightward]], a [[TheIntelligence]] episode connecting [[FlavioBolsonaro]]'s first-round lead over [[LuizInacioLulaDaSilva|Lula]], American backlash to [[FlockSafety|Flock Safety]] plate readers, and [[EliteNannyRotaCare]]. It updates the Brazil branch from a likely contest to a confirmed runoff, extends [[LatinAmericaRightwardShift]] through affordability, party distrust, abstention, family-party strength, and Trump alignment, and sharpens [[AutomaticLicensePlateReader]] governance through network scale, weak search justifications, wrong stops, partner tracking, fragmented rules, and contract cancellations. The care branch shows professionalization and high compensation coexisting with intensive rota shifts, travel, and unreasonable-demand risk. No settled contradiction is adopted: Flock's tighter controls coexist with reported misuse and backlash, the Brazilian runoff remains unresolved, and camera counts, polling, contract data, electoral forecasts, salaries, staffing costs, and agency anecdotes remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AutomaticLicensePlateReader",
+        "EliteNannyRotaCare",
+        "FlavioBolsonaro",
+        "FlockSafety",
+        "LatinAmericaRightwardShift",
+        "LuizInacioLulaDaSilva",
+        "TheIntelligence",
+        "here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b"
+      ]
+    },
     {
       "id": "a40cea44167ef9e91c3b21ed43ff66622d2ed9ad0cb3c091596e825d24fdda87",
       "primary_topic": "business-and-markets",

@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-10-05
-as_of_overview_commit: 269d495e580d40a01ed9ff3dbb831a89f2ec68b1
-input_digest: 04a494456b295f427acb3354c641fba30ff8a61f8b70a3449f7b1a6254550272
+as_of_overview_commit: 8204c5d6fc2b65e96e2882f7f59208f1b6ccb526
+input_digest: b590009133638cb0555e561dce9beb23485471cd6cb7d2d897ce7d5f16694412
 ---
 
 # Work, Education, and Society
@@ -1345,3 +1345,14 @@ The Conti series enters work and society through [[MentalHealthStructureFunction
 
 - The archive is selected around notable founders and cannot establish that endurance, long hours, or repeated asking generally cause success.
 - The transferable lesson is bounded problem solving and recovery, not a mandate to accept unsafe work, family sacrifice, or identity capture.
+
+### Elite Nanny Professionalization Needs Availability Bounds
+
+[[here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b|The elite-nanny segment]] adds a care-work boundary through [[EliteNannyRotaCare]] and [[DomesticServiceProfessionalization]]: degrees, languages, specialist training, private travel, high pay, and formal handovers can professionalize continuous childcare, but long rota shifts and unreasonable demands keep rest, safety, role scope, and refusal rights central.
+
+**Evidence:** [[here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b]], [[EliteNannyRotaCare]], [[DomesticServiceProfessionalization]]
+
+**Qualifications:**
+
+- The source relies on agency testimony and anecdotes and does not establish typical pay, prevalence, retention, worker satisfaction, legal compliance, or child outcomes.
+- Six-figure compensation and alternating time off do not by themselves make intensive schedules, travel, or exceptional household demands safe or sustainable.

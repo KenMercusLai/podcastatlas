@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-10-05
-as_of_overview_commit: 269d495e580d40a01ed9ff3dbb831a89f2ec68b1
-summary: "Podcast Atlas connects technology, institutions, history, markets, culture, health, work, and psychology through evidence-bounded synthesis and explicit qualifications."
-episode_count: 3779
-source_count: 3779
-paragraph_count: 792
+as_of_overview_commit: 8204c5d6fc2b65e96e2882f7f59208f1b6ccb526
+summary: "Podcast Atlas links technology, institutions, history, markets, culture, health, work, and psychology through evidence-bounded synthesis and explicit qualifications."
+episode_count: 3780
+source_count: 3780
+paragraph_count: 793
 topic_count: 9
 ---
 
@@ -29,39 +29,39 @@ topic_count: 9
 
 ### AI and Technology
 
-AI value depends on efficient models, physical infrastructure, workflow integration, governance, verification, data control, and human judgment rather than capability or spending alone.
+AI value depends on efficient models, physical infrastructure, workflow integration, governance, verification, data control, and human judgment.
 
 - [[2b2e96d8aea7-2b2e96d8aea7|The Keji Luandun episode]] adds an enforcement-feasibility boundary: [[ExportControlAllianceDurability]] shows multilateral controls depending on compensation and credible burden sharing, [[AIPlatformBehavioralEnforcement]] distinguishes suspicious access signals from proof of successful distillation, and [[AIControlNuclearAnalogyLimits]] explains why copyable model weights and falling local-inference barriers make physical nonproliferation analogies incomplete. Evidence: [[2b2e96d8aea7-2b2e96d8aea7]], [[ExportControlAllianceDurability]], [[AIPlatformBehavioralEnforcement]], [[AIControlNuclearAnalogyLimits]].
 - [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|The Musk/Shotwell All-In source]] adds a Musk-ecosystem stack claim: [[SpaceX]] is framed as execution culture plus infrastructure stack, with [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], and [[Terafab]] connecting AI safety review, orbital compute, direct-to-cell satellites, reusable launch, and chip-supply security into one source-scoped operating thesis. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]], [[SpaceX]], [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], [[Terafab]], [[GwenShotwell]], [[ElonMusk]].
 
 ### Business and Markets
 
-Durable value depends on cash flow, unit economics, governance, distribution, execution, and price; founder persistence helps only when learning continues and financing, growth, and human capacity remain aligned.
+Durable value depends on cash flow, unit economics, governance, distribution, execution, price, learning, and sustainable human capacity.
 
 - [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih|Episode 504]] adds a financial-media market case: [[HongKongEconomicJournal|《信报》]] created value through [[FinancialCommentaryKnowledgeTranslation]], joining markets to economics, institutions, policy, and international affairs in accessible Chinese, while [[LuoYoumei|骆友梅]]'s organizational work and [[AdvertiserPressureEditorialIndependence]] show that public knowledge requires both editorial judgment and a business able to absorb pressure. Evidence: [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih]], [[HongKongEconomicJournal]], [[FinancialCommentaryKnowledgeTranslation]], [[LinXingzhi]], [[LuoYoumei]], [[AdvertiserPressureEditorialIndependence]], [[ZhangWuchang]], [[LiKaShing]], [[LiTzarKai]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[PublicProcurementAsMarketCatalyst]], [[LastMileNetworkConsolidation]], [[PolicyLeverageForSystemChange]].
 
 ### Cross-domain
 
-Tools must be matched to their actual function while preserving system-level constraints, evidence boundaries, and accountability.
+Tools must match their actual function while preserving system constraints, evidence boundaries, and accountability.
 
 ### Culture and Media
 
-Media forms and public artifacts shape legibility, intimacy, authority, memory, and imagination through material form, audience practice, provenance, and interpretation.
+Media forms and public artifacts shape legibility, intimacy, authority, memory, and imagination through form, audience practice, and interpretation.
 
 - [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf|EP161]] adds that durable podcast form joins [[PodcastProductionWorkflow]] to [[IndependentPodcastSustainability]]: preparation, complementary host roles, live follow-up, reciprocal accountability, listener connection, bounded commerce, and a [[PodcastPlatformPortfolio]] together shape whether an open-topic show can continue and remain discoverable. Evidence: [[ep161-sanzhounian-tebie-jiemu-zuoke-wushicha-zheci-huan-women-bei-caifang-ckwriueeegahabaaaacmmujf]], [[PodcastProductionWorkflow]], [[IndependentPodcastSustainability]], [[PodcastPlatformPortfolio]], [[WushichaYanjiusuo]].
 - [[434-luther-the-revolution-begins-part-2-glt4080973410|The Luther episode]] adds a historical media case: [[ReformationPrintCulture]] made the Ninety-five Theses portable through printing and directed correspondence, so reproducibility and networked delivery mattered more than the probably legendary church-door scene in turning a university dispute into public revolt. Evidence: [[434-luther-the-revolution-begins-part-2-glt4080973410]], [[ReformationPrintCulture]], [[MartinLuther]], [[Wittenberg]], [[TheRestIsHistory]].
 
 ### Governance and Institutions
 
-Legitimacy, information, administrative capacity, bargaining, accountability, and implementation determine whether institutions can act and remain bounded.
+Legitimacy, information, capacity, bargaining, accountability, implementation, and enforceable controls determine whether institutions can act and remain bounded.
 
 - [[38-communism-glt7587678050|The Communism episode]] separates [[Communism]]'s enduring equality-and-liberation ideal from party-state implementation: [[MarxismAsPoliticalReligion]] explains doctrine, identity, ritual, and redemption, while [[VladimirLenin|Leninist]] vanguard authority, compulsory property transfer, economic remaking, and anti-pluralism create [[UtopianCommunistCoercion]]; [[MarxistLeninistStateCapacity]] is therefore bidirectional, able to organize development and survival while also enabling confiscation and repression. Evidence: [[38-communism-glt7587678050]], [[Communism]], [[MarxismAsPoliticalReligion]], [[VladimirLenin]], [[UtopianCommunistCoercion]], [[MarxistLeninistStateCapacity]].
 - [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih|Episode 504]] adds a media-governance case in which [[JournalisticIndependenceAgainstFaction]] and [[AdvertiserPressureEditorialIndependence]] require [[LinXingzhi|林行止]] and the [[HongKongEconomicJournal|《信报》]] to judge across Beijing, London, colonial, local-elite, and advertiser interests while distinguishing pressure-driven retreat from evidence-driven correction; the later [[LiTzarKai|李泽楷]] ownership transition keeps structural autonomy an open rather than settled question. Evidence: [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih]], [[JournalisticIndependenceAgainstFaction]], [[AdvertiserPressureEditorialIndependence]], [[LinXingzhi]], [[HongKongEconomicJournal]], [[HongKong]], [[JinYong]], [[LiKaShing]], [[LiTzarKai]].
 
 ### History and Geopolitics
 
-State capacity and historical change emerge through legitimacy, logistics, coalition, command, information, institutions, public rewards, and contested memory.
+State capacity and historical change emerge through legitimacy, logistics, coalition, command, information, institutions, and contested memory.
 
 - [[90-the-western-front-glt9972346188|The Western Front episode]] joins industrial stalemate to [[WesternFrontMilitaryLearning|uneven military learning]] and [[WesternFrontPopularMemory|contested popular memory]]: defensive firepower, mass armies, and communications made breakthrough genuinely difficult; British and Allied tactical, coalition, and logistical adaptation helped defeat Germany in 1918; and the later "lions led by donkeys" frame preserved real suffering while often obscuring adaptation and military outcome. Evidence: [[90-the-western-front-glt9972346188]], [[WesternFrontFirstWorldWar]], [[WesternFrontMilitaryLearning]], [[WesternFrontPopularMemory]], [[FirstWorldWar]], [[TrenchLifeWesternFront]], [[GarySheffield]], [[DouglasHaig]], [[WilfredOwen]], [[PaulVonHindenburg]], [[ErichLudendorff]].
 - [[95-9-11-glt8208243510|The 9/11 episode]] links [[TerrorAsGlobalMediaSpectacle|designed global imagery]] to [[RivalUniversalistProjects|rival universalist projects]] and [[WarOnTerrorOverreach|reaction-driven overreach]]: [[AlQaeda|al-Qaeda]] attacked symbolic American targets through worldwide media, while [[GeorgeWBush|George W. Bush]] turned national injury into a war and universal-freedom mission whose Iraq expansion, torture, detention abuse, and legal exceptionalism weakened American credibility and reinforced the durable [[Post911CounterterrorismArchitecture]]. Evidence: [[95-9-11-glt8208243510]], [[TerrorAsGlobalMediaSpectacle]], [[RivalUniversalistProjects]], [[WarOnTerrorOverreach]], [[AlQaeda]], [[OsamaBinLaden]], [[GeorgeWBush]], [[SayyidQutb]], [[ReligiousMoralFramingOfUSForeignPolicy]], [[Post911CounterterrorismArchitecture]], [[China]], [[TheRestIsHistory]].
@@ -82,7 +82,7 @@ Public literacy requires mechanisms, measurement, qualified care, escalation bou
 
 ### Work, Education, and Society
 
-Institutions and public life depend on routines, role boundaries, trust, incentives, protected access, judgment, intergenerational capacity, and work designs that preserve human health and agency.
+Public life depends on routines, role boundaries, trust, protected access, judgment, intergenerational capacity, and work designs that preserve health and agency.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

@@ -4,37 +4,42 @@ type: entity
 tags: [person, brazil, politics]
 sources:
   - brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5
-last_updated: 2026-09-29
+  - here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b
+last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
 
 # Flavio Bolsonaro
 
 ## Overview
-Flavio Bolsonaro is a Brazilian politician and the eldest son of former president [[JairBolsonaro]], presented as the Bolsonaro camp's leading 2026 presidential candidate in [[brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5]].
+Flavio Bolsonaro is a Brazilian politician and the eldest son of former president [[JairBolsonaro]]. The bounded sources move his 2026 candidacy from likely challenger to first-round leader in a runoff against [[LuizInacioLulaDaSilva|Lula]].
 
 ## Current Profile
-The episode portrays Flavio as inheriting his father's electoral base without offering a clear fiscal or productivity break. His central policy is described as pardoning Jair Bolsonaro; the source also attributes climate-change denial to him and reports disputed criminal-association and banker-contact allegations.
+Flavio inherits his father's electoral base and now leads the first-round result described by the newer episode. His family-restoration agenda remains central: he proposes pardons for Jair and Eduardo Bolsonaro and impeachment of Supreme Court justices he says harmed the family. Crime, corruption, and deficit proposals broaden the platform, but the sources do not establish a clear productivity or fiscal break, and disputed criminal-association, underworld, and banker-contact allegations remain denied and source-scoped.
 
 ## Key Characteristics
-- Leading Bolsonaro-family candidate in the source's election analysis.
-- Political identity strongly organized around loyalty to and a pardon for his father.
-- Benefits from a high electoral floor created by polarized family-party allegiance.
-- Carries source-scoped controversy around climate claims and alleged relationships.
+- First-round leader and runoff candidate in the newer election account.
+- Political identity strongly organized around loyalty to and pardons for family members.
+- Benefits from a durable family-party base and a broader right-leaning electoral environment.
+- Pairs institutional confrontation with proposals on crime, corruption, and the deficit.
+- Carries denied, source-scoped controversy around climate claims and alleged relationships.
 
 ## Evidence
-- Electoral role: [[brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5]] presents the 45-year-old senator as the likely rival to Lula.
-- Family-pardon platform: [[brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5]] identifies pardoning Jair Bolsonaro as his central policy.
-- Controversy: [[brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5]] reports allegations involving violent criminals and banker Daniel Vorcaro, while recording Flavio's denials and keeping the claims source-scoped.
+- Electoral position: [[brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5]] presents Flavio as the likely Bolsonaro-family challenger; [[here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b]] reports that he led the first round and advanced to a runoff.
+- Family and institutional agenda: both sources identify a pardon for Jair Bolsonaro as central, while [[here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b]] adds Eduardo Bolsonaro and proposed impeachment of Supreme Court justices.
+- Broader platform and alignment: [[here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b]] adds crime, corruption, deficit proposals, legislative strength, right-leaning minor candidates, and Donald Trump's preference.
+- Controversy: [[brazil-rut-lula-v-bolsonaro-again-6abb8653ed4e198024b38eb5]] and [[here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c76c6e93fcf359497b]] report disputed alleged criminal or underworld relationships and preserve Flavio's denials; the earlier note also records a disputed banker-contact allegation.
 
 ## Qualifications
-This page records one episode's election framing, not a comprehensive biography or independent finding about disputed allegations. The outcome of the election, legal facts, recordings, funding transfers, and policy positions require primary-source verification.
+This page records two current-affairs episodes, not a comprehensive biography or independent finding about disputed allegations. The runoff outcome, vote totals, legal facts, recordings, funding transfers, policy details, and historical forecasting rule require primary-source verification.
 
 ## What Changed
-- Created a source-bounded profile of Flavio Bolsonaro's candidacy, inherited base, and reported controversies.
+- Updated the profile from likely challenger to first-round leader and runoff candidate.
+- Added the wider pardon, court-confrontation, policy, legislative, and Trump-alignment context.
 
 ## Relationships
 - [[JairBolsonaro]] - father, political patron, and intended beneficiary of the proposed pardon.
 - [[LuizInacioLulaDaSilva]] - likely runoff opponent in the episode.
 - [[Brazil]] - national electoral and institutional setting.
 - [[BrazilFiscalPoliticalStalemate]] - fiscal constraint the source expects him to inherit if elected.
+- [[LatinAmericaRightwardShift]] - regional political movement the newer source says his result could strengthen.
