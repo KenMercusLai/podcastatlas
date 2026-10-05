@@ -4,8 +4,8 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-10-05
-as_of_overview_commit: ca50024ec11df75fb5a1a65f71c31dc1c524c066
-input_digest: fa42769ee2c982f1028ba4d6a9d939992cb3f5fb8a06264d2e9edbfea04efe95
+as_of_overview_commit: 71a83c10f8885631f528e3c44302793ca34fc1e8
+input_digest: b6b102b99e7bf14b769817e186ff54e2e756594c732ab301e36d767b1bd50bff
 ---
 
 # History and Geopolitics
@@ -790,3 +790,14 @@ The same campaign supplies a motive-and-consequence pair for the topic: [[Imperi
 - The episode is a short Han-centered popular-history account and does not reconstruct Nanyue internal politics or local perspectives.
 - Han Yannian career continuity, the 樛罗／樛广德 forms, force and distance figures, imperial motives, earlier southern-campaign comparisons, and later routes and outcome remain source-scoped.
 - Honoring sacrifice after defeat does not make the failed expedition a victory or establish that morale was the court’s only purpose.
+
+### Conversation Rich Biography Requires Competing Witnesses
+
+[[653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230|The Johnson episode]] adds a historical-biography evidence case: [[PsychologicalBiographyThroughConversation]] joins [[JamesBoswell]]'s recorded speech, interviews, checking, and scene construction to [[HesterPiozzi]]'s competing domestic access, so [[TheLifeOfJohnson]] can preserve [[SamuelJohnson]]'s contradictions without being mistaken for a complete or neutral transcript.
+
+**Evidence:** [[653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230]], [[PsychologicalBiographyThroughConversation]], [[JamesBoswell]], [[HesterPiozzi]], [[TheLifeOfJohnson]], [[SamuelJohnson]], [[FrancisBarber]]
+
+**Qualifications:**
+
+- Vivid scenes and remembered conversation are literary constructions rather than unmediated documentary footage.
+- Boswell's jealousy, Hester's motives, Johnson's diagnosis, guilt, sexuality, and the claim that the book invented modern biography remain episode-attributed or speculative.

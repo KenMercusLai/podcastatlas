@@ -4,8 +4,8 @@ generated: true
 topic_id: business-and-markets
 title: "Business and Markets"
 last_updated: 2026-10-05
-as_of_overview_commit: 269d495e580d40a01ed9ff3dbb831a89f2ec68b1
-input_digest: 5e96bd9a4878128f4aea83b76841d930213ff364685636d4712c375b65b2462d
+as_of_overview_commit: 71a83c10f8885631f528e3c44302793ca34fc1e8
+input_digest: 8eb337f69b9429b1aae4cbd7eab1b8485401f2dbd650db4e3cd48baa12a5bffc
 ---
 
 # Business and Markets
@@ -1317,3 +1317,14 @@ The supplement case shows category awareness being created outside official chan
 
 - The episode compresses more than 600 successful founder interviews and therefore carries strong retrospective and survivor-selection bias.
 - Persistence can become sunk-cost escalation, and the source does not provide a universal stopping rule or independently verify recalled metrics, dialogue, and causal claims.
+
+### Cultural Reputation Production Needs Access And Mediation Boundaries
+
+[[653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230|The Johnson episode]] adds a bounded cultural-production case: [[TheLifeOfJohnson]] converted [[JamesBoswell]]'s access, recorded conversation, checking, and literary selection into durable public reputation, while [[HesterPiozzi]] shows that competing private access and unpaid domestic care can remain underrepresented in the work that captures the cultural market.
+
+**Evidence:** [[653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230]], [[TheLifeOfJohnson]], [[JamesBoswell]], [[HesterPiozzi]], [[SamuelJohnson]], [[PsychologicalBiographyThroughConversation]]
+
+**Qualifications:**
+
+- The episode is literary history rather than a market study and does not quantify the commercial value of Boswell's book or competing Johnson publications.
+- Boswell's jealousy and minimization of Hester are episode interpretations, while dialogue, motive, private guilt, sexuality, and the claim that the book invented modern biography remain source-scoped.

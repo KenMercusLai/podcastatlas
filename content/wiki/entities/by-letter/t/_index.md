@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12449
+wiki_total_pages: 12452
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -497,6 +497,9 @@ wiki_pages:
   - key: "TheLiberationOfAuntJemima"
     title: "The Liberation of Aunt Jemima"
     url: "/wiki/entities/theliberationofauntjemima/"
+  - key: "TheLifeOfJohnson"
+    title: "The Life of Samuel Johnson"
+    url: "/wiki/entities/thelifeofjohnson/"
   - key: "TheLordOfTheRings"
     title: "The Lord of the Rings"
     url: "/wiki/entities/thelordoftherings/"

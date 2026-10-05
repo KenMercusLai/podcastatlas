@@ -4,8 +4,8 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-10-05
-as_of_overview_commit: 8204c5d6fc2b65e96e2882f7f59208f1b6ccb526
-input_digest: 2652b591ef73e81699edd83ca76fe7b19121443c174abd6eb952e89c69121d41
+as_of_overview_commit: 71a83c10f8885631f528e3c44302793ca34fc1e8
+input_digest: 911b67e256ce5743dadd249c8f04a4cdf589ff8eb597042f31b9f09e574d26ca
 ---
 
 # Governance and Institutions
@@ -2795,3 +2795,14 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 
 - Brazil's runoff remains unresolved, and the regional election count, voter motives, polling, camera scale, effectiveness, and contract-cancellation figures remain source-scoped.
 - Tighter search-reason controls do not by themselves prove that stated purposes are truthful, independently reviewed, or consistently enforced across jurisdictions.
+
+### Private Care And Competing Witnesses Bound Public Authority
+
+[[653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230|The Johnson episode]] adds a source-scoped informal-institution case: [[HesterPiozzi]]'s household supplied care, routine, status, and intellectual company that sustained [[SamuelJohnson]], while [[JamesBoswell]] and [[TheLifeOfJohnson]] show how unequal access and authorial selection govern which private support becomes public authority and memory.
+
+**Evidence:** [[653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230]], [[HesterPiozzi]], [[SamuelJohnson]], [[JamesBoswell]], [[TheLifeOfJohnson]], [[FrancisBarber]]
+
+**Qualifications:**
+
+- A household is not equivalent to a formal governing institution, and the episode does not establish a general institutional-care model.
+- Hester's motives, Boswell's degree of minimization, remembered dialogue, Johnson's diagnosis, guilt, and sexuality remain partial, retrospective, or speculative.

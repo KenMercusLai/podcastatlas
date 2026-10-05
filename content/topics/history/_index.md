@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2569
+topic_total_pages: 2571
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1135,6 +1135,9 @@ topic_concepts:
   - key: "ProtectiveRemonstranceSequencing"
     title: "Protective Remonstrance Sequencing / 护身符式进言"
     url: "/wiki/concepts/protectiveremonstrancesequencing/"
+  - key: "PsychologicalBiographyThroughConversation"
+    title: "Psychological Biography Through Conversation"
+    url: "/wiki/concepts/psychologicalbiographythroughconversation/"
   - key: "PublicHumilityReputationTest"
     title: "Public Humility Reputation Test / 公开受辱式礼贤测试"
     url: "/wiki/concepts/publichumilityreputationtest/"
@@ -6480,6 +6483,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230"
+    title: "653. London’s Golden Age: The Shadow of the Madhouse (Part 4)"
+    url: "/wiki/sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230/"
   - key: "654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794"
     title: "654. The Ku Klux Klan: The Rise of Evil (Part 1)"
     url: "/wiki/sources/654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794/"

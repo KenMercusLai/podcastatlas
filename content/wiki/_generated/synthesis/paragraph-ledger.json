@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "57f931d0e028859d66a8c86843f5ad3a2dfd7f64320c3b5b6b63a27ff62fb951",
       "d34511688e8f3e30871b62b49c7909d6d0b606fbe09d29ae0f9005a86c5cf022",
       "a40cea44167ef9e91c3b21ed43ff66622d2ed9ad0cb3c091596e825d24fdda87",
       "42977e643c7f46681a2bfdbd78b01cc04902b2e747e70745f01a765d4fcfa4c0",
@@ -795,11 +796,35 @@
       "30dab5d9a3dbe5a1852603c018045e5063833f4e7647d6399d3386f189f53928",
       "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61"
     ],
-    "paragraph_count": 793
+    "paragraph_count": 794
   },
-  "overview_commit": "1dcb55df2afa79c81016a64c828bbcbe56f389c3",
-  "overview_digest": "7788b2413dd95df24479bf664ed35b686d229c22c5b203f31f709daef4af4dd6",
+  "overview_commit": "71a83c10f8885631f528e3c44302793ca34fc1e8",
+  "overview_digest": "0fc430603b8204af6fd932802bdb5a6a11b71e931e42b89d7333c540c34c6469",
   "paragraphs": [
+    {
+      "id": "57f931d0e028859d66a8c86843f5ad3a2dfd7f64320c3b5b6b63a27ff62fb951",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230|653. London’s Golden Age: The Shadow of the Madhouse (Part 4)]], a [[TheRestIsHistory]] episode on [[SamuelJohnson]]’s private dependency, [[HesterPiozzi|Hester Thrale Piozzi]]’s competing witness, [[FrancisBarber]], and [[JamesBoswell]]’s [[TheLifeOfJohnson|Life of Samuel Johnson]]. It adds Hester, Barber, the biography, and [[PsychologicalBiographyThroughConversation]], while expanding Johnson beyond political criticism and Boswell beyond Grand Tour self-fashioning. Its core synthesis is that domestic care and intellectual company sustained Johnson through melancholy, while Boswell’s combination of conversation, checked detail, contradiction, and literary scene made him unusually present to later readers; vividness nevertheless remains mediated by rivalry, selection, and unequal access. No settled contradiction is adopted. Hester qualifies Boswell’s portrait without wholly displacing it, while Johnson’s private guilt, possible sexual desires, diagnoses, remembered dialogue, motives, and the claim that Boswell invented modern biography remain speculative or source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230",
+        "FrancisBarber",
+        "HesterPiozzi",
+        "JamesBoswell",
+        "PsychologicalBiographyThroughConversation",
+        "SamuelJohnson",
+        "TheLifeOfJohnson",
+        "TheRestIsHistory"
+      ]
+    },
     {
       "id": "d34511688e8f3e30871b62b49c7909d6d0b606fbe09d29ae0f9005a86c5cf022",
       "primary_topic": "governance-and-institutions",

@@ -30251,3 +30251,11 @@ Added source `essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-sci
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 653. London’s Golden Age: The Shadow of the Madhouse (Part 4)
+
+Added source `653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230`; created [[HesterPiozzi|Hester Thrale Piozzi]], [[FrancisBarber]], [[TheLifeOfJohnson|The Life of Samuel Johnson]], and [[PsychologicalBiographyThroughConversation]]; and resynthesized [[SamuelJohnson]] and [[JamesBoswell]] from their complete preserved evidence inventories. Core synthesis: the Thrale household’s domestic care and intellectual company sustained Johnson through severe melancholy, while Boswell’s conversational record, factual checking, contradiction, and literary scene construction made Johnson unusually present without becoming an unmediated transcript. No settled contradiction was adopted. Hester’s domestic access qualifies Boswell’s portrait; Johnson’s private guilt, possible sexual desires, diagnosis, remembered dialogue, motives, and the claim that Boswell invented modern biography remain speculative or source-scoped. Downstream synthesis rebuilt `business-and-markets`, `governance-and-institutions`, and `history-and-geopolitics`; global compaction was not due; and the validated generated artifacts now cover 3,782 sources across 794 overview paragraphs and nine topics.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

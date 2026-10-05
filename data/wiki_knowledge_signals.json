@@ -81637,6 +81637,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/francescodelgiocondo/"
     },
+    "FrancisBarber": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2240052230 [GLT2240052230].md",
+          "key": "653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230",
+          "show": "The Rest Is History",
+          "title": "653. London’s Golden Age: The Shadow of the Madhouse (Part 4)",
+          "url": "/wiki/sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/francisbarber/"
+    },
     "FrancisFukuyama": {
       "episode_count": 5,
       "show_count": 3,
@@ -100530,6 +100546,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/herschelgrunspan/"
     },
+    "HesterPiozzi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2240052230 [GLT2240052230].md",
+          "key": "653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230",
+          "show": "The Rest Is History",
+          "title": "653. London’s Golden Age: The Shadow of the Madhouse (Part 4)",
+          "url": "/wiki/sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/hesterpiozzi/"
+    },
     "HetWilhelmus": {
       "episode_count": 1,
       "show_count": 1,
@@ -116194,9 +116226,9 @@
       "url": "/wiki/entities/jamesbond/"
     },
     "JamesBoswell": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3921798295 [GLT3921798295].md",
@@ -116204,9 +116236,16 @@
           "show": "The Rest Is History",
           "title": "221. Holidays: Byron's Grand Tour",
           "url": "/wiki/sources/221-holidays-byrons-grand-tour-glt3921798295/"
+        },
+        {
+          "episode_file": "GLT2240052230 [GLT2240052230].md",
+          "key": "653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230",
+          "show": "The Rest Is History",
+          "title": "653. London’s Golden Age: The Shadow of the Madhouse (Part 4)",
+          "url": "/wiki/sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/jamesboswell/"
     },
     "JamesCallender": {
@@ -179409,6 +179448,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/psychologicalastrologyasreflectivemap/"
     },
+    "PsychologicalBiographyThroughConversation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2240052230 [GLT2240052230].md",
+          "key": "653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230",
+          "show": "The Rest Is History",
+          "title": "653. London’s Golden Age: The Shadow of the Madhouse (Part 4)",
+          "url": "/wiki/sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/psychologicalbiographythroughconversation/"
+    },
     "PsychologicalBoundaryProtection": {
       "episode_count": 2,
       "show_count": 1,
@@ -192842,9 +192897,9 @@
       "url": "/wiki/entities/samsonrowley/"
     },
     "SamuelJohnson": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -192852,9 +192907,16 @@
           "show": "The Rest Is History",
           "title": "684. Franklin: Revenge of the American Genius (Part 2)",
           "url": "/wiki/sources/684-franklin-revenge-of-the-american-genius-part-2-glt6013835340/"
+        },
+        {
+          "episode_file": "GLT2240052230 [GLT2240052230].md",
+          "key": "653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230",
+          "show": "The Rest Is History",
+          "title": "653. London’s Golden Age: The Shadow of the Madhouse (Part 4)",
+          "url": "/wiki/sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/samueljohnson/"
     },
     "SamuraiLegendAndPoliticalMemory": {
@@ -215418,6 +215480,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/thekeralastory/"
+    },
+    "TheLifeOfJohnson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2240052230 [GLT2240052230].md",
+          "key": "653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230",
+          "show": "The Rest Is History",
+          "title": "653. London’s Golden Age: The Shadow of the Madhouse (Part 4)",
+          "url": "/wiki/sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/thelifeofjohnson/"
     },
     "TheLordOfTheRings": {
       "episode_count": 2,

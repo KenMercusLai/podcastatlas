@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12449
+wiki_total_pages: 12452
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "FrancescoDelGiocondo"
     title: "Francesco del Giocondo"
     url: "/wiki/entities/francescodelgiocondo/"
+  - key: "FrancisBarber"
+    title: "Francis Barber"
+    url: "/wiki/entities/francisbarber/"
   - key: "FrancisDrake"
     title: "Francis Drake"
     url: "/wiki/entities/francisdrake/"

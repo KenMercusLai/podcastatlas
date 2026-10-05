@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [653. London’s Golden Age: The Shadow of the Madhouse (Part 4)](sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230.md) — The Rest Is History on Samuel Johnson’s dependence on the Thrale household, Hester’s competing witness, Francis Barber, Johnson’s final fears, and Boswell’s transformation of biography.
 - [《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密](sources/zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx.md) — 大青墩“泗水王冢”椁板把墓葬锚定为泗水国王陵，但被盗语境中的“刘绥”银印并不能据此确定具体墓主。
 - [Bringing Extinct Species Back to Life | Dr. Beth Shapiro](sources/bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808.md) — Huberman Lab interview on functional de-extinction, genetic rescue, comparative genomics, animal welfare, and governance under ecological uncertainty.
 - [Coffer stop: AI may shrink tax base](sources/coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384.md) — Economist Podcasts episode on AI-driven labor-tax erosion, reflective passive-cooling paint, and Stanislas Hutin's testimony about French torture in Algeria.
@@ -3846,6 +3847,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Tools for Setting & Achieving Goals | Dr. Emily Balcetis](sources/essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945.md) — Condensed Huberman Lab interview on precise visual targets, perceived effort, obstacle planning, positive-fantasy limits, and evidence-based progress tracking.
 
 ## Entities
+- [Hester Thrale Piozzi](entities/HesterPiozzi.md) — Georgian intellectual host, caregiver, independent marital actor, and competing witness to Samuel Johnson.
+- [Francis Barber](entities/FrancisBarber.md) — Formerly enslaved companion, educated dependent, and residual heir of Samuel Johnson.
+- [The Life of Samuel Johnson](entities/TheLifeOfJohnson.md) — Boswell’s conversation-rich, psychologically layered, and literarily constructed 1791 biography.
 - [泗水国 / Sishui Kingdom (Western Han)](entities/SishuiKingdomWesternHan.md) — 由大青墩“泗水王冢”椁板获得王陵物证、但具体墓主仍未确定的西汉诸侯国。
 - [大青墩汉墓 / Daqingdun Han Tomb](entities/DaqingdunHanTomb.md) — 形制与随葬品达到王陵等级、受盗扰且以“泗水王冢”文字确认制度身份的西汉大墓。
 - [刘绥 / Liu Sui (Sishui seal)](entities/LiuSuiSishuiSeal.md) — 大青墩被盗语境中银制龟钮印的署名者，不能仅凭该印认定为泗水王或主墓墓主。
@@ -16346,6 +16350,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [Psychological Biography Through Conversation](concepts/PsychologicalBiographyThroughConversation.md) — Life-writing method joining recorded speech, witnessed scenes, multiple partial observers, checked detail, and explicit uncertainty about inner life.
 - [Functional De-Extinction](concepts/FunctionalDeExtinction.md) — Trait- and ecological-function reconstruction in a living relative rather than exact recreation of an extinct individual.
 - [Genetic Rescue in Conservation](concepts/GeneticRescueConservation.md) — Use of gene flow, preserved cells, cloning, assisted reproduction, or targeted editing to restore threatened populations.
 - [Ecological Intervention Governance](concepts/EcologicalInterventionGovernance.md) — Staged comparison of action and inaction under welfare, containment, reversibility, monitoring, and community-accountability constraints.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9723
+wiki_total_pages: 9724
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2288,6 +2288,9 @@ wiki_pages:
   - key: "PsychologicalAstrologyAsReflectiveMap"
     title: "Psychological Astrology as Reflective Map / 心理占星作为反思地图"
     url: "/wiki/concepts/psychologicalastrologyasreflectivemap/"
+  - key: "PsychologicalBiographyThroughConversation"
+    title: "Psychological Biography Through Conversation"
+    url: "/wiki/concepts/psychologicalbiographythroughconversation/"
   - key: "PsychologicalBoundaryProtection"
     title: "Psychological Boundary Protection / 心理边界保护"
     url: "/wiki/concepts/psychologicalboundaryprotection/"

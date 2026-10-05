@@ -5829,6 +5829,18 @@
       "url": "/topics/science/"
     }
   ],
+  "653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794": [
     {
       "key": "history",
@@ -41385,6 +41397,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HesterPiozzi": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "HetuLuoshu": [
     {
       "key": "history",
@@ -67315,6 +67334,23 @@
       "url": "/topics/science/"
     }
   ],
+  "PsychologicalBiographyThroughConversation": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PsychologicalBoundaryProtection": [
     {
       "key": "science",
@@ -82002,6 +82038,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "TheLifeOfJohnson": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "TheLittleMermaid": [

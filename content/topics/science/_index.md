@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1460
+topic_total_pages: 1461
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1735,6 +1735,9 @@ topic_concepts:
   - key: "PsychologicalAbuseRecognition"
     title: "Psychological Abuse Recognition / 精神虐待识别"
     url: "/wiki/concepts/psychologicalabuserecognition/"
+  - key: "PsychologicalBiographyThroughConversation"
+    title: "Psychological Biography Through Conversation"
+    url: "/wiki/concepts/psychologicalbiographythroughconversation/"
   - key: "PsychologicalBoundaryProtection"
     title: "Psychological Boundary Protection / 心理边界保护"
     url: "/wiki/concepts/psychologicalboundaryprotection/"
