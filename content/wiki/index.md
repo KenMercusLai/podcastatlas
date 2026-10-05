@@ -3846,6 +3846,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 - [Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis](sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520.md) — All-In interview on Nvidia's AI-factory strategy, heterogeneous agent workloads, physical AI, open-model coexistence, token economics, autonomy, policy, and work.
 - [Essentials: Tools for Setting & Achieving Goals | Dr. Emily Balcetis](sources/essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945.md) — Condensed Huberman Lab interview on precise visual targets, perceived effort, obstacle planning, positive-fantasy limits, and evidence-based progress tracking.
+- [《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话](sources/zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp.md) — 芮淇讲透资治通鉴短篇，以明代科举层级、1057年科举群体与高考类比说明考试重要但不是整个人生的判决。
 
 ## Entities
 - [Spencer Kaplan](entities/SpencerKaplan.md) — Anthropologist studying how AI safety workers connect catastrophic-risk beliefs to agency, expected impact, and life choices.
@@ -12794,7 +12795,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏洵 / Su Xun](entities/SuXun.md) — Su family elder whose cautious naming and literary household frame Su Shi and Su Zhe's later public risks.
 - [苏辙 / Su Zhe](entities/SuZhe.md) — Su Shi's brother and fellow official, used by the episode to ground family loyalty and shared political exposure.
 - [程夫人 / Madam Cheng](entities/ChengFuren.md) — Su Shi's mother and moral educator, linked to compassion, restraint, and early conscience formation.
-- [欧阳修 / Ouyang Xiu](entities/OuyangXiu.md) — Senior literary official who recognizes Su Shi and helps place him inside Northern Song official-literary life.
+- [欧阳修 / Ouyang Xiu](entities/OuyangXiu.md) — Northern Song writer, examiner, mentor, and historian linking literary selection to official opportunity and historical memory.
 - [王安石 / Wang Anshi](entities/WangAnshi.md) — Northern Song reformer and prose writer now read through reform motive, state commercial extraction, Mencius reception, and ancient-history reception.
 - [宋神宗 / Emperor Shenzong of Song](entities/SongShenzong.md) — Northern Song emperor associated with the Wang Anshi reforms and the political risk around Su Shi's criticism.
 - [司马光 / Sima Guang](entities/SimaGuang.md) — Old-party figure used to show why Su Shi's conscience did not simply belong to one faction.
@@ -16352,6 +16353,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [High-Stakes Exam Life-Course Boundary / 高风险考试的人生边界](concepts/HighStakesExamLifeCourseBoundary.md) — Distinction between an exam's real power over immediate opportunities and the unsupported claim that one result determines an entire life.
 - [AI Safety Worker Culture](concepts/AISafetyWorkerCulture.md) — Social world linking AI-risk belief with agency, expected impact, intellectual debate, and divergent stay-or-resign tactics.
 - [Existential Risk Probability Estimation](concepts/ExistentialRiskProbabilityEstimation.md) — Numerical treatment of catastrophic uncertainty for decisions, distinct from empirical validation of a forecast.
 - [Psychological Biography Through Conversation](concepts/PsychologicalBiographyThroughConversation.md) — Life-writing method joining recorded speech, witnessed scenes, multiple partial observers, checked detail, and explicit uncertainty about inner life.

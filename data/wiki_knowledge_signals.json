@@ -72077,9 +72077,9 @@
       "url": "/wiki/concepts/examstandardizationvaliditytradeoff/"
     },
     "ExaminationSystems": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6507641896 [GLT6507641896].md",
@@ -72087,9 +72087,16 @@
           "show": "The Rest Is History",
           "title": "84. Exams",
           "url": "/wiki/sources/84-exams-glt6507641896/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话 [lg2_qIm2_yHkdGrL-qIdZ11BVlVP].md",
+          "key": "zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/examinationsystems/"
     },
     "ExchangeTradedFund": {
@@ -101043,6 +101050,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/highsalaryexitscamtrap/"
+    },
+    "HighStakesExamLifeCourseBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话 [lg2_qIm2_yHkdGrL-qIdZ11BVlVP].md",
+          "key": "zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/highstakesexamlifecourseboundary/"
     },
     "HighStatusCautionSelfProtection": {
       "episode_count": 3,
@@ -165128,6 +165151,36 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/ouyangxieasternhan/"
+    },
+    "OuyangXiu": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP252 《太平年》之外的五代十国，什么样？ [lnxM7tfS3zmVE3erm9qlBehLeFKh].md",
+          "key": "ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh",
+          "show": "Talk三联",
+          "title": "EP252 《太平年》之外的五代十国，什么样？",
+          "url": "/wiki/sources/ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh/"
+        },
+        {
+          "episode_file": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜 [741072645].md",
+          "key": "105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645",
+          "show": "蜜獾吃书",
+          "title": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜",
+          "url": "/wiki/sources/105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话 [lg2_qIm2_yHkdGrL-qIdZ11BVlVP].md",
+          "key": "zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/ouyangxiu/"
     },
     "OvarianReserveAMHInterpretation": {
       "episode_count": 3,

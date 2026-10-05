@@ -30267,3 +30267,15 @@ Added source `tech-20261005-1005-mp-tech-pod-128-tech-20261005-1005-mp-tech-pod-
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话
+
+Added source `zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp`; created [[HighStakesExamLifeCourseBoundary|高风险考试的人生边界]]; migrated and resynthesized [[OuyangXiu|欧阳修]] from its complete preserved evidence inventory; and extended [[ExaminationSystems]]. Core synthesis: examinations allocate real immediate opportunities, but rough selectivity comparisons do not make imperial and modern credentials equivalent, rank does not measure every capacity, and one result cannot forecast an entire life course. No settled contradiction was adopted. The supplied transcript's “张衡” was normalized to the 1057 Song examinee 章衡; examination hierarchy, admission figures, cohort composition, the “千年科甲第一榜” label, and long-run outcome claims remain source-scoped. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,784 sources across 794 overview paragraphs and nine topics.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
