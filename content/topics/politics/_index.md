@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3122
+topic_total_pages: 3123
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8661,6 +8661,9 @@ topic_sources:
   - key: "jerome-powell-and-the-test-of-fed-independence"
     title: "Jerome Powell and the Test of Fed Independence"
     url: "/wiki/sources/jerome-powell-and-the-test-of-fed-independence/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130"
+    title: "John Fetterman: The Rogue Democrat Who Broke Party Ranks"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740"
     title: "Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740/"

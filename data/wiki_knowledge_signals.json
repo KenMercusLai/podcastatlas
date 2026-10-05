@@ -24992,9 +24992,9 @@
       "url": "/wiki/concepts/bioregulatorpeptides/"
     },
     "BipartisanSwingStateRepresentation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Senators John Fetterman and Dave McCormick： Bipartisanship, Money in DC, Datacenters, Graham Platner [41603230].md",
@@ -25002,9 +25002,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - John Fetterman： The Rogue Democrat Who Broke Party Ranks [40523130].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "John Fetterman: The Rogue Democrat Who Broke Party Ranks",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/bipartisanswingstaterepresentation/"
     },
     "BipolarCreativityCorrelation": {
@@ -64440,9 +64447,9 @@
       "url": "/wiki/entities/eleanorrosamundbarraclough/"
     },
     "ElectionAdministrationTrust": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nate Silver Predicts： Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028 [41866025].md",
@@ -64457,9 +64464,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - John Fetterman： The Rogue Democrat Who Broke Party Ranks [40523130].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "John Fetterman: The Rogue Democrat Who Broke Party Ranks",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/electionadministrationtrust/"
     },
     "ElectionFacingStabilization": {
@@ -120517,9 +120531,9 @@
       "url": "/wiki/entities/johnfarleygallagher/"
     },
     "JohnFetterman": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Senators John Fetterman and Dave McCormick： Bipartisanship, Money in DC, Datacenters, Graham Platner [41603230].md",
@@ -120527,9 +120541,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - John Fetterman： The Rogue Democrat Who Broke Party Ranks [40523130].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "John Fetterman: The Rogue Democrat Who Broke Party Ranks",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/johnfetterman/"
     },
     "JohnGibbon": {
@@ -176238,6 +176259,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/pradmeshpatil/"
+    },
+    "PragmaticImmigrationCompromise": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rahm Emanuel： Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats [42416310].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - John Fetterman： The Rogue Democrat Who Broke Party Ranks [40523130].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "John Fetterman: The Rogue Democrat Who Broke Party Ranks",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/pragmaticimmigrationcompromise/"
     },
     "PragmaticReligiousToleration": {
       "episode_count": 3,

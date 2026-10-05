@@ -30303,3 +30303,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | John Fetterman: The Rogue Democrat Who Broke Party Ranks
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130`; resynthesized [[JohnFetterman|John Fetterman]], [[BipartisanSwingStateRepresentation]], [[ElectionAdministrationTrust]], and [[PragmaticImmigrationCompromise]] from their complete preserved evidence inventories. Core synthesis: Fetterman's country-over-party posture unbundles voter ID from attacks on mail voting, border and criminal enforcement from indiscriminate migrant removal, and institutional support from silence about leadership or tactical failures. No settled contradiction was adopted. Polling, fraud counts, non-citizen voting, SAVE Act provisions, Iran's condition and war costs, Social Security adjustments, and other empirical claims remain source-attributed rather than independently verified. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest validates 3,788 sources across 795 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
