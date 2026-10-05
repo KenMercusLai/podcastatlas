@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3114
+topic_total_pages: 3115
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4531,6 +4531,9 @@ topic_concepts:
   - key: "NominalTitleInflation"
     title: "名义爵位通胀 / Nominal Title Inflation"
     url: "/wiki/concepts/nominaltitleinflation/"
+  - key: "NominalSubmissionLocalAutonomy"
+    title: "名义臣服与地方实权并存 / Nominal Submission with Local Autonomy"
+    url: "/wiki/concepts/nominalsubmissionlocalautonomy/"
   - key: "EliteEndorsementReputationMaking"
     title: "名士背书式造势 / Elite-Endorsement Reputation Making"
     url: "/wiki/concepts/eliteendorsementreputationmaking/"

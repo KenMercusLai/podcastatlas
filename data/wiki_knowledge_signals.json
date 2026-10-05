@@ -153863,9 +153863,9 @@
       "url": "/wiki/entities/nansunshi/"
     },
     "Nanyue": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
@@ -153922,6 +153922,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国",
           "url": "/wiki/sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
+          "key": "zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
         }
       ],
       "updated": "2026-10-05",
@@ -157739,6 +157746,22 @@
       ],
       "updated": "2026-10-02",
       "url": "/wiki/concepts/nomadicimperialformation/"
+    },
+    "NominalSubmissionLocalAutonomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
+          "key": "zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/nominalsubmissionlocalautonomy/"
     },
     "NominalTitleInflation": {
       "episode_count": 2,
@@ -179832,9 +179855,9 @@
       "url": "/wiki/concepts/queenanttraffickingecology/"
     },
     "QueenDowagerJiuNanyue": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国 [lgpUqijq5KyD5iVH8ajlClo8oJeX].md",
@@ -179842,6 +179865,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国",
           "url": "/wiki/sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
+          "key": "zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
         }
       ],
       "updated": "2026-10-05",
@@ -244290,6 +244320,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhaohedewesternhan/"
     },
+    "ZhaoHuNanyue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
+          "key": "zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhaohunanyue/"
+    },
     "ZhaoHuWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -244513,6 +244559,43 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhaotenglatehan/"
     },
+    "ZhaoTuo": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
+          "key": "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土 [lps0moshDfVOSNYHtdhrKdVsWIBH].md",
+          "key": "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2） [liEbzrDrvo1OkoNpdjvrJATUwx9i].md",
+          "key": "zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
+          "key": "zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhaotuo/"
+    },
     "ZhaoWeiLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -244613,9 +244696,9 @@
       "url": "/wiki/entities/zhaoxinchenwesternhan/"
     },
     "ZhaoXingNanyue": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国 [lgpUqijq5KyD5iVH8ajlClo8oJeX].md",
@@ -244623,6 +244706,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国",
           "url": "/wiki/sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
+          "key": "zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
         }
       ],
       "updated": "2026-10-05",
@@ -244703,6 +244793,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/zhaoyanlatehan/"
+    },
+    "ZhaoYingqiNanyue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？ [lgMw_eDZNBJ_oYPXpnlN93BZu7yr].md",
+          "key": "zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhaoyingqinanyue/"
     },
     "ZhaoYun": {
       "episode_count": 2,

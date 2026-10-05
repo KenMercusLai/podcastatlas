@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？](sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr.md) — 赵婴齐藏起赵佗、赵胡的帝号印玺却拒绝入朝，并请立樛氏与赵兴，呈现南越以象征臣服换取地方实权延续的策略。
 - [《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国](sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex.md) — 赵兴与樛太后归汉倾向受吕嘉阻挠，宴席除嘉未成后庄参拒绝两千人任务、韩千秋请战；吕嘉继而杀害王太后与汉使并改立赵建德。
 - [《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋](sources/zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p.md) — 卜式请战南越却无人响应，随后106名列侯因酎金不合格失爵、赵周下狱自杀；节目把礼制问责解释为对贵族拒绝共担战事的政治清算。
 - [《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！](sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc.md) — 余善请兵助汉却停在揭阳、暗通南越，番禺失守后其骑墙姿态暴露，并由阻断汉道升级为公开反叛与自立。
@@ -3832,6 +3833,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [赵婴齐 / Zhao Yingqi (Nanyue)](entities/ZhaoYingqiNanyue.md) — 藏起两代帝号印玺、接受王后与世子册认却拒绝入朝，以有限象征让步维护南越地方实权的第三代国王。
+- [赵胡 / Zhao Hu (Nanyue)](entities/ZhaoHuNanyue.md) — 承接赵佗并据节目所述保留“南越武帝”印玺、另制“南越文帝”印玺的南越第二代国王。
 - [赵兴 / Zhao Xing (Nanyue)](entities/ZhaoXingNanyue.md) — 倾向随母亲樛太后归附汉朝，却未能压制吕嘉并在政变中被杀、由赵建德取代的南越第四代国王。
 - [樛太后 / Queen Dowager Jiu (Nanyue)](entities/QueenDowagerJiuNanyue.md) — 支持南越归汉、试图推动宴席除去吕嘉，后被吕嘉以汉人出身和使者关系攻击并杀害的王太后。
 - [赵建德 / Zhao Jiande (Nanyue)](entities/ZhaoJiandeNanyue.md) — 吕嘉杀赵兴母子后拥立、番禺防守崩溃时与吕嘉逃海并被捕的南越末期国王。
@@ -16315,6 +16318,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [名义臣服与地方实权并存 / Nominal Submission with Local Autonomy](concepts/NominalSubmissionLocalAutonomy.md) — 地方统治者接受名号、册认等象征性等级安排，却通过回避朝见与中央法令继续维持实际自主的政治结构。
 - [酎金夺爵 / Zhoujin Title Forfeiture](concepts/ZhoujinForfeiture.md) — 以宗庙贡金重量和成色不合格为“不敬”依据削夺106名列侯爵位，并被节目解释为南越动员失败后的礼制化政治惩罚。
 - [楼船水师作战 / Tower-Ship Waterborne Warfare](concepts/TowerShipWaterborneWarfare.md) — 西汉南越战役中以大型楼船、专门水上兵力和多路会师构成的水陆协同作战分支，不等同于现代海军制度。
 - [阵亡先锋遗属封赏 / Fallen Vanguard Heir Reward](concepts/FallenVanguardHeirReward.md) — 在战役失败后仍按先锋勇气抚恤阵亡者家庭、封赏其后人，以区分战果与牺牲并影响后续动员预期。

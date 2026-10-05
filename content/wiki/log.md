@@ -30132,3 +30132,11 @@ Added source `zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqi
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？
+
+Added source `zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr`; created [[ZhaoHuNanyue|赵胡]], [[ZhaoYingqiNanyue|赵婴齐]], and [[NominalSubmissionLocalAutonomy|名义臣服与地方实权并存]]; resynthesized [[Nanyue|南越]], [[ZhaoTuo|赵佗]], [[QueenDowagerJiuNanyue|樛太后]], and [[ZhaoXingNanyue|赵兴]] from their complete preserved evidence inventories; and migrated Zhao Tuo to the synthesis-first schema. Core synthesis: Zhao Yingqi's concealment of inherited imperial seals reduces open symbolic defiance without transferring effective local control; his queen-and-heir petition gives Han a succession channel, while his refusal to attend Chang'an preserves distance from interior-vassal constraints. No settled contradiction was adopted. “赵英齐／纠氏” were normalized to 赵婴齐／樛氏; seal meanings, motives, the twelve-year cultivation claim, relative power, and Lady Jiu's alleged formal-agent status remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then left read-only during downstream synthesis refresh. No topic claim set was dirty and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,768 sources and retain 791 overview paragraphs.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

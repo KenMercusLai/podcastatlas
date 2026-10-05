@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12432
+wiki_total_pages: 12434
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1490,6 +1490,9 @@ wiki_pages:
   - key: "ZhaoWeihou"
     title: "赵威后 / Zhao Weihou"
     url: "/wiki/entities/zhaoweihou/"
+  - key: "ZhaoYingqiNanyue"
+    title: "赵婴齐 / Zhao Yingqi (Nanyue)"
+    url: "/wiki/entities/zhaoyingqinanyue/"
   - key: "ZhaoYao"
     title: "赵尧 / Zhao Yao"
     url: "/wiki/entities/zhaoyao/"
@@ -1619,6 +1622,9 @@ wiki_pages:
   - key: "ZhaoSuhou"
     title: "赵肃侯 / Marquis Su of Zhao"
     url: "/wiki/entities/zhaosuhou/"
+  - key: "ZhaoHuNanyue"
+    title: "赵胡 / Zhao Hu (Nanyue)"
+    url: "/wiki/entities/zhaohunanyue/"
   - key: "ZhaoTengLateHan"
     title: "赵腾 / Zhao Teng (late Han remonstrant)"
     url: "/wiki/entities/zhaotenglatehan/"

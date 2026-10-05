@@ -60254,6 +60254,13 @@
       "url": "/topics/history/"
     }
   ],
+  "NominalSubmissionLocalAutonomy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "NominalTitleInflation": [
     {
       "key": "politics",

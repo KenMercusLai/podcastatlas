@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9714
+wiki_total_pages: 9715
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "NominalTitleInflation"
     title: "名义爵位通胀 / Nominal Title Inflation"
     url: "/wiki/concepts/nominaltitleinflation/"
+  - key: "NominalSubmissionLocalAutonomy"
+    title: "名义臣服与地方实权并存 / Nominal Submission with Local Autonomy"
+    url: "/wiki/concepts/nominalsubmissionlocalautonomy/"
   - key: "NewlyAttachedRegionLeniency"
     title: "新附地区宽缓治理 / Newly Attached Region Leniency"
     url: "/wiki/concepts/newlyattachedregionleniency/"
