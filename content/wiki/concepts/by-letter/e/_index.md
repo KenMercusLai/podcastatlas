@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9699
+wiki_total_pages: 9700
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1313,6 +1313,9 @@ wiki_pages:
   - key: "EmergencyFrontierDiscretion"
     title: "临机边疆裁量 / Emergency Frontier Discretion"
     url: "/wiki/concepts/emergencyfrontierdiscretion/"
+  - key: "EnvoyGovernanceCredibilityCollapse"
+    title: "使团治理失控与外交信用崩塌 / Envoy Governance Credibility Collapse"
+    url: "/wiki/concepts/envoygovernancecredibilitycollapse/"
   - key: "ExcavatedTextLexicalCorrection"
     title: "出土文献词义校正 / Excavated Text Lexical Correction"
     url: "/wiki/concepts/excavatedtextlexicalcorrection/"

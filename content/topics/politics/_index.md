@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3099
+topic_total_pages: 3102
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4426,6 +4426,9 @@ topic_concepts:
   - key: "MissionDrivenFrontierResponsibility"
     title: "使命驱动的边疆责任 / Mission-Driven Frontier Responsibility"
     url: "/wiki/concepts/missiondrivenfrontierresponsibility/"
+  - key: "EnvoyGovernanceCredibilityCollapse"
+    title: "使团治理失控与外交信用崩塌 / Envoy Governance Credibility Collapse"
+    url: "/wiki/concepts/envoygovernancecredibilitycollapse/"
   - key: "DiplomaticRitualDignity"
     title: "使节礼节国威 / Diplomatic Ritual Dignity"
     url: "/wiki/concepts/diplomaticritualdignity/"
@@ -7814,6 +7817,9 @@ topic_entities:
   - key: "ZhangJiCaoOfficialLateHan"
     title: "张既 / Zhang Ji (Cao official, late Han)"
     url: "/wiki/entities/zhangjicaoofficiallatehan/"
+  - key: "ZhangQianWesternHan"
+    title: "张骞 / Zhang Qian (Western Han)"
+    url: "/wiki/entities/zhangqianwesternhan/"
   - key: "XuRenWesternHan"
     title: "徐仁 / Xu Ren (Western Han)"
     url: "/wiki/entities/xurenwesternhan/"
@@ -9054,6 +9060,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b"
+    title: "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌"
+    url: "/wiki/sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b/"
   - key: "zizhi-tongjian-hanji-364-2-hanwudi-da-chaoxian-de-lishi-wenti-lrid25t03ell_bs6siq6yvrj3lp9"
     title: "《资治通鉴·汉纪》364-2｜汉武帝打朝鲜的历史问题"
     url: "/wiki/sources/zizhi-tongjian-hanji-364-2-hanwudi-da-chaoxian-de-lishi-wenti-lrid25t03ell_bs6siq6yvrj3lp9/"

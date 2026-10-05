@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k
   - zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf
   - zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif
-last_updated: 2026-09-15
+  - zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b
+last_updated: 2026-10-05
 ---
 
 ## Overview
 
-车师国 / Cheshi Kingdom is synthesized as a Western Regions polity whose route position, hostage politics, fertile land, and屯田 potential make it a repeated pressure point between [[WesternHanDynasty|西汉]] and [[Xiongnu|匈奴]]. [[zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf|Hanji 379-2]] adds the earliest current notice: a Han-aligned Loulan force led by the surrendered Xiongnu figure Jiehe / Chengmin attacks Cheshi, but Xiongnu cavalry rescue Cheshi and the attack fails. [[zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k|Hanji 422-1]] adds the later Dijie 3-4 layer: King Wugui aligns with Xiongnu, threatens Han-Wusun communications, is defeated by [[ZhengJiWesternHan|郑吉]] and Sima Xi, flees to [[Wusun|乌孙]], and leaves Han governing through hostages, small garrisoning, and屯田. [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] later shows the same place becoming the crisis that produces Wei Xiang's "骄兵必败" remonstrance.
+车师国 / Cheshi Kingdom is synthesized as a Western Regions polity whose northern-route position, hostage politics, fertile land, and屯田 potential make it a repeated pressure point between [[WesternHanDynasty|西汉]] and [[Xiongnu|匈奴]]. The earliest current layer is relational: Hanji 357-1 says the polity it calls Gushi and identifies with Cheshi resists burdensome Han mission traffic before later conquest and proxy struggles make the pressure military and territorial.
 
 ## Current Profile
 
-The evidence now begins with a source-scoped 108 BCE Han victory. Hanji 365-1 says [[ZhaoPonuWesternHan|赵破奴]] defeats Cheshi after capturing the Loulan king, and that Han then extends defenses from Jiuquan toward Yumen. It does not explain Cheshi's internal politics or settlement after the victory, so the notice establishes an early campaign layer without proving durable control.
+The evidence now begins before the source-scoped 108 BCE Han victory. [[zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b|Hanji 357-1]] says the polity it calls 姑师 and equates with 车师 is a northern-route gateway where repeated large Han missions, supply demands, misconduct, and declining trade quality contribute to obstruction and raids, sometimes with Xiongnu cavalry. The naming equivalence and direct causal chain remain episode-scoped.
+
+Hanji 365-1 then says [[ZhaoPonuWesternHan|赵破奴]] defeats Cheshi after capturing the Loulan king, and that Han extends defenses from Jiuquan toward Yumen. It does not explain Cheshi's internal politics or settlement after the victory, so the notice establishes an early campaign layer without proving durable control.
 
 Hanji 379-2 supplies a later military probe before the Xuan-era control experiments. After Wudi enfeoffs the surrendered Xiongnu figure Jiehe / Chengmin as Kailing marquis, he orders that figure to lead Loulan troops against Cheshi. Xiongnu sends the Right Worthy King with tens of thousands of cavalry to rescue Cheshi, and the Han-aligned side retreats. This notice already places the polity inside Han-Xiongnu-Loulan proxy pressure.
 
@@ -29,7 +32,7 @@ Cheshi's importance is geographical and logistical. It is far from Quli, and Zhe
 
 ## Key Characteristics
 
-- Western Regions polity attacked successfully by Zhao Ponu in the episode's 108 BCE layer, then contested through Han-aligned Loulan pressure and Xiongnu rescue before the later Xuan-era crises.
+- Northern-route gateway whose earliest current layer joins mission burden and lost trust to obstruction, raids, and Xiongnu-amplified insecurity before Zhao Ponu's 108 BCE victory.
 - Western Regions polity contested by Han and Xiongnu in 64 BCE.
 - Fertile frontier land whose屯田 and grain-storage potential makes it strategically sensitive.
 - Earlier route-security problem because Wugui's Xiongnu alignment threatens Han-Wusun communications.
@@ -38,6 +41,10 @@ Cheshi's importance is geographical and logistical. It is far from Quli, and Zhe
 - Settlement object in which Han preserves personnel and political arrangement while yielding the old land to Xiongnu.
 
 ## Evidence
+
+Mission-governance breakdown:
+- [[zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b|Hanji 357-1]] identifies Gushi/Cheshi as the northern-route gateway and says it obstructs or raids Han envoys after mission volume, misconduct, poor goods, and provisioning burdens damage trust.
+- [[zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b|Hanji 357-1]] says Xiongnu cavalry sometimes participates in the corridor pressure.
 
 Earliest current victory notice:
 - [[zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif|Hanji 365-1]] says Zhao Ponu defeats Cheshi after capturing the Loulan king and before Han strengthens the Jiuquan-Yumen corridor.
@@ -62,12 +69,13 @@ Settlement outcome:
 
 ## Qualifications
 
-This page is source-scoped to four episode layers. It does not reconstruct Cheshi's full geography, the settlement or duration of Zhao Ponu's 108 BCE victory, earlier and later state divisions, exact relation to later Cheshi front/rear kingdom terminology, Jiehe/Chengmin's full identity, the Loulan force's composition, Wugui's full biography, Dumo's later status, Sima Xi's career, or the complete Han-Xiongnu struggle over the Turpan basin.
+This page is source-scoped to five episode layers. It does not reconstruct Cheshi's full geography, whether every Gushi reference should be normalized to Cheshi, the settlement or duration of Zhao Ponu's 108 BCE victory, earlier and later state divisions, exact relation to later Cheshi front/rear kingdom terminology, Jiehe/Chengmin's full identity, the Loulan force's composition, Wugui's full biography, Dumo's later status, Sima Xi's career, or the complete Han-Xiongnu struggle over the Turpan basin. Hanji 357-1's credibility-collapse explanation is retained as a bounded mechanism rather than the sole cause of resistance.
 
 ## What Changed
 
-- Added Zhao Ponu's source-scoped 108 BCE victory as the earliest current Cheshi notice.
-- Distinguished a campaign success from durable occupation because the episode gives no settlement details.
+- Added the Gushi/Cheshi mission-resistance layer before Zhao Ponu's 108 BCE victory.
+- Made the episode's Gushi-to-Cheshi normalization and causal chain explicit rather than silently universal.
+- Preserved the distinction between campaign success and durable occupation.
 
 ## Relationships
 
@@ -80,3 +88,4 @@ This page is source-scoped to four episode layers. It does not reconstruct Chesh
 - [[QuliWesternRegions]] - Han屯田 base from which Zheng Ji attempts the rescue and to which Cheshi's people are moved.
 - [[WesternRegionsProtectorate]] - later institutional field connected to Han's Western Regions control.
 - [[FrontierResourceIntegration]] - related because Cheshi's strategic value comes through fertile land,屯田, and grain accumulation.
+- [[EnvoyGovernanceCredibilityCollapse]] - earlier trust-and-host-burden mechanism preceding the campaign and garrison sequence.

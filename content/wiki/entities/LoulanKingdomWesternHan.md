@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja
   - zizhi-tongjian-hanji-375-2-shuwan-hanjiang-kugu-chengjiu-liguangli-fenghou-zhi-wei-ltfhrxkyc-w0pxw92bbyxx0blxwl
   - zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif
-last_updated: 2026-09-14
+  - zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b
+last_updated: 2026-10-05
 ---
 
 ## Overview
 
-楼兰 / Loulan Kingdom enters the wiki through [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] and [[zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja|Hanji 403-2]] as a Western Han Western Regions polity caught between [[WesternHanDynasty|Western Han]] and [[Xiongnu|Xiongnu]] pressure, then forcibly reordered by [[FuJieziWesternHan|傅介子]]'s assassination of [[LoulanKingAnguiWesternHan|Angui]] and installation of [[WeiTuqiWesternHan|Wei Tuqi]].
+楼兰 / Loulan Kingdom is a Western Han Western Regions corridor polity whose current evidence begins with resistance to poorly governed Han mission traffic, continues through capture and dual-alignment pressure between [[WesternHanDynasty|Western Han]] and [[Xiongnu|Xiongnu]], and ends in the current sequence with forcible reordering by [[FuJieziWesternHan|傅介子]]'s assassination of [[LoulanKingAnguiWesternHan|Angui]] and installation of [[WeiTuqiWesternHan|Wei Tuqi]].
 
 ## Current Profile
 
-The current sources make Loulan a case of unstable frontier alignment beginning with coercion. Hanji 365-1 says [[ZhaoPonuWesternHan|赵破奴]] captures the Loulan king in 108 BCE before defeating Cheshi and before Han strengthens the Jiuquan-Yumen corridor. The summary does not name the king or explain the settlement, so this page does not silently identify him with [[LoulanKingAnguiWesternHan|Angui]] or the king in later episodes.
+The earliest current layer is a credibility and host-burden problem before it becomes a conquest story. [[zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b|Hanji 357-1]] says repeated large Han missions, weak provisioning, misconduct, and inferior exchange goods erode Western Regions trust until Loulan and Gushi/Cheshi obstruct or raid envoys, sometimes with Xiongnu cavalry. The episode treats Loulan as the southern-route gateway, but its direct causal chain from envoy abuse to each attack remains source-scoped.
+
+The current sources then make Loulan a case of unstable frontier alignment beginning with coercive response. Hanji 365-1 says [[ZhaoPonuWesternHan|赵破奴]] captures the Loulan king in 108 BCE before defeating Cheshi and before Han strengthens the Jiuquan-Yumen corridor. The summary does not name the king or explain the settlement, so this page does not silently identify him with [[LoulanKingAnguiWesternHan|Angui]] or the king in later episodes.
 
 Hanji 375-2 supplies an explicit small-state defense: after Xiongnu seeks to use Loulan to attack Han envoys or cut the corridor, Han arrests the Loulan king, who argues that a polity between two powers cannot survive without answering both. Wudi releases him and uses him for intelligence, after which Xiongnu distrusts Loulan. Hanji 403-1 later shows the same structural pressure persisting as Loulan leans toward the nearer Xiongnu threat.
 
@@ -27,7 +30,7 @@ The page keeps Loulan distinct from the existing [[ShanshanKingdomLateHan|late-H
 
 ## Key Characteristics
 
-- Western Regions polity whose current record begins with a source-scoped 108 BCE royal capture and then repeatedly shows pressure between Han and Xiongnu.
+- Southern-route gateway whose earliest current layer joins unsustainable Han mission traffic, lost trust, local obstruction, and Xiongnu-amplified corridor danger.
 - Defends dual alignment as necessary small-state survival, then loses Xiongnu trust after accepting a Han intelligence role.
 - Supplies intelligence to Fu Jiezi during his first mission but later becomes the target of his second mission.
 - Ruled by Angui when Fu uses valuables and private-audience language to create an assassination opening.
@@ -35,6 +38,10 @@ The page keeps Loulan distinct from the existing [[ShanshanKingdomLateHan|late-H
 - Case where coercive frontier deterrence succeeds immediately while leaving a serious trust-cost question.
 
 ## Evidence
+
+Mission-governance breakdown:
+- [[zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b|Hanji 357-1]] says Loulan begins obstructing or raiding Han missions after repeated large delegations, supply burdens, envoy misconduct, and declining goods damage trust.
+- [[zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b|Hanji 357-1]] identifies Loulan as a southern-route gateway and says Xiongnu cavalry compounds the attack risk.
 
 Early royal capture:
 - [[zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif|Hanji 365-1]] says Zhao Ponu captures the Loulan king before defeating Cheshi and before Han extends defenses toward Yumen.
@@ -57,13 +64,13 @@ Assassination and replacement:
 
 ## Qualifications
 
-This page is bounded to four episode sources. It does not reconstruct Loulan's broader history, geography, internal factions, full later Shanshan identity, or every Han-Loulan interaction. The king captured in Hanji 365-1 and the king arrested after the Dayuan campaign are not silently identified with one another or with the later Angui. The relation to [[ShanshanKingdomLateHan|ShanshanKingdomLateHan]] remains chronological and source-scoped rather than merged, while Sima Guang's later criticism prevents recording Fu's assassination only as successful deterrence.
+This page is bounded to five episode sources. It does not reconstruct Loulan's broader history, geography, internal factions, full later Shanshan identity, or every Han-Loulan interaction. Hanji 357-1's direct link from envoy misconduct to attacks is a source interpretation within a wider field of local resource limits, Han expansion, and Xiongnu pressure. The king captured in Hanji 365-1 and the king arrested after the Dayuan campaign are not silently identified with one another or with the later Angui. The relation to [[ShanshanKingdomLateHan|ShanshanKingdomLateHan]] remains chronological and source-scoped rather than merged, while Sima Guang's later criticism prevents recording Fu's assassination only as successful deterrence.
 
 ## What Changed
 
-- Added Zhao Ponu's source-scoped 108 BCE capture of an unnamed Loulan king.
-- Kept that king distinct from the later arrested ruler and from Angui.
-- Reframed the current sequence as beginning with coercion before the later dual-alignment defense.
+- Added pre-conquest resistance to unsustainable mission traffic as the earliest current Loulan layer.
+- Connected route geography, host burden, lost trust, and Xiongnu pressure without treating envoy misconduct as the sole cause.
+- Preserved the distinction among the unnamed captured king, the later arrested ruler, and Angui.
 
 ## Relationships
 
@@ -76,3 +83,4 @@ This page is bounded to four episode sources. It does not reconstruct Loulan's b
 - [[EmperorZhaoOfHan]] - ruler whose court sends and rewards the mission.
 - [[CoerciveFrontierDeterrence]] - concept connected to Loulan's short-term submission and post-assassination shock.
 - [[FrontierProxyConquestStrategy]] - concept connected to Han's use of a hostage successor and small support detachment.
+- [[EnvoyGovernanceCredibilityCollapse]] - earlier relational breakdown that precedes the current coercive campaign sequence.

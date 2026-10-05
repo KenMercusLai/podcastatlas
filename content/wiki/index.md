@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌](sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b.md) — 张骞的声望为早期西域交往提供信用，但使团扩张快于选人、监督、补给与安保，最终把外交开放推向信誉崩塌、通道袭扰和军事—郡县化回应。
 - [《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》](sources/zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn.md) — 司马相如遗稿以传说先例、祥瑞和颂德推动封禅议程；经书无成法、方士求仙说、兒宽归权天子与儒生受黜共同显示礼制重建也是权威竞争。
 - [《资治通鉴·汉纪》360-1｜司马迁“太史公”称号竟由此而来？](sources/zizhi-tongjian-hanji-360-1-simaqian-taishigong-chenghao-jing-you-ci-er-lai-lq6ulwhl_jscf6ipkjxev6zvwbrf.md) — 从太史的史学—天文职能解释“太史公”，并把司马迁对黄帝的历史化、儒家化叙事放入汉代帝王合法性问题，同时保留官职类比和作者意图的证据边界。
 - [《资治通鉴·汉纪》360-2｜汉武帝的疯狂求仙（受骗）路！](sources/zizhi-tongjian-hanji-360-2-hanwudi-de-fengkuang-qiuxian-shoupian-lu-fu4ht-tl4fyr8dsx9sakdcmm-orc.md) — 司马迁的德与人心被节目同汉武帝的天命和神化对置；公孙卿再以衣冠冢解释黄帝升仙后仍有陵墓，使汉武帝把同一结局投射到自己身上。
@@ -3813,6 +3814,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？](sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_.md) — 卜式借旱灾批评桑弘羊使官吏入市逐利，并串联异星祥瑞、齐王刘弘早逝与读史的现实意义。
 
 ## Entities
+- [张骞 / Zhang Qian (Western Han)](entities/ZhangQianWesternHan.md) — Western Han envoy whose Bowang Hou reputation became a diplomatic trust asset that later mission systems could borrow but not automatically reproduce.
 - [《封禅文》 / Fengshan Wen](entities/FengshanWen.md) — 司马相如身后由卓文君交付使者、以传说先例和祥瑞劝汉武帝封禅的政治文学文本，其全文、流传与实际影响保持来源限定。
 - [兒宽 / Ni Kuan (Western Han)](entities/NiKuanWesternHan.md) — 在封禅无经书成法时把裁制定礼归于汉武帝、并见于太初历项目参与名单的西汉官员。
 - [郭吉 / Guo Ji (Western Han envoy)](entities/GuoJiWesternHanEnvoy.md) — 汉武帝北巡时向匈奴单于传达战或降最后通牒、随后被扣押迁往北海方向的西汉使者。
@@ -5667,7 +5669,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘天昭 / Liu Tianzhao](entities/LiuTianzhao.md) — Author of Unwatched, discussed by Culture Limited as a writer of contemporary urban interiority.
 - [《无人观看》 / Unwatched](entities/UnwatchedNovel.md) — Liu Tianzhao novel read by Culture Limited through AI-era selfhood, middle-aged fatigue, and social visibility.
 - [公孙敬声 / Gongsun Jingsheng (Western Han)](entities/GongsunJingshengWesternHan.md) — Gongsun He's son whose North Army fund embezzlement and later wugu accusation trigger the Gongsun family disaster.
-- [公孙贺 / Gongsun He (Western Han)](entities/GongsunHeWesternHan.md) — Western Han chancellor whose Wugu-case destruction removes a Wei-family support pillar around Crown Prince Liu Ju.
+- [公孙贺 / Gongsun He (Western Han)](entities/GongsunHeWesternHan.md) — Western Han cavalry commander and chancellor whose route-security service precedes reluctant promotion, cautious tenure, and Wugu-case destruction.
 - [朱安世 / Zhu Anshi (Western Han)](entities/ZhuAnshiWesternHan.md) — Wanted outlaw whose retaliatory accusation turns Gongsun He's rescue bargain into a lethal wugu case.
 - [卫伉 / Wei Kang (Western Han)](entities/WeiKangWesternHan.md) — Wei Qing's son and Changping marquis, treated by Hanji 384-1 as a military-capable support casualty in the Wugu prelude.
 - [Ghost of Tsushima](entities/GhostOfTsushima.md) — Video game used by The Rest Is History as a modern gateway into samurai image, honor, and myth-history tension.
@@ -5779,7 +5781,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丁外人 / Ding Wairen (Western Han)](entities/DingWairenWesternHan.md) — Princess-favorite and inner-court access broker who helps the Shangguan family bypass Huo Guang.
 - [钩弋夫人 / Lady Gouyi (Western Han)](entities/LadyGouyiWesternHan.md) — Han Zhao's mother, whose death is framed through mother-regent risk, source-scoped Wugu guilt, and the later princess-caregiver setup.
 - [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han general whose campaigns anchor later Wuhuan frontier administration and Zhao Ponu's military-rise context.
-- [赵破奴 / Zhao Ponu (Western Han)](entities/ZhaoPonuWesternHan.md) — Western Han general whose frontier rise, Loulan victory, Xiongnu capture and escape, and unresolved Wugu destruction trace an era of expansion and reversal.
+- [赵破奴 / Zhao Ponu (Western Han)](entities/ZhaoPonuWesternHan.md) — Western Han general whose failed route-security search, Western Regions victories, Xiongnu capture and escape, and unresolved Wugu destruction trace expansion and reversal.
 - [杜周 / Du Zhou (Western Han)](entities/DuZhouWesternHan.md) — Western Han cruel official whose ruler-will legal logic and late-career moderation explain his safe retirement in Hanji 402-2.
 - [范明友 / Fan Mingyou (Western Han)](entities/FanMingyouWesternHan.md) — Western Han Duliao general who attacks exhausted Wuhuan after Xiongnu withdraws in Hanji 402-2.
 - [义纵 / Yi Zong (Western Han)](entities/YiZongWesternHan.md) — Western Han cruel-official figure named as a predecessor before Du Zhou's rise.
@@ -5798,7 +5800,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王褒 / Wang Bao (Western Han)](entities/WangBaoWesternHan.md) — Western Han writer whose 《圣主得贤臣颂》 becomes a ruler-minister recognition theory and whose 《僮约》 preserves Han Sichuan and early tea evidence.
 - [《圣主得贤臣颂》 / Ode on the Sage Ruler Obtaining Worthy Ministers](entities/ShengzhuDeXianchenSong.md) — Wang Bao ode read as a political-literary theory of worthy ministers, ruler search, trust, and mutual achievement.
 - [《僮约》 / Tong Yue (Wang Bao)](entities/TongyueWangBao.md) — Wang Bao work valued by Hanji 433 as social-history evidence for Han-era Sichuan and early tea culture.
-- [车师国 / Cheshi Kingdom (Western Han)](entities/CheshiKingdomWesternHan.md) — Western Regions polity whose route position, hostage politics, fertile land, and屯田 potential make it a repeated Han-Xiongnu pressure point.
+- [车师国 / Cheshi Kingdom (Western Han)](entities/CheshiKingdomWesternHan.md) — Northern-route polity moving from mission-burden resistance into repeated Han-Xiongnu contest over hostages, garrisons, fertile land, and屯田.
 - [刘贺 / Liu He / Marquis of Haihun](entities/LiuHeHaihunHou.md) — Former Western Han emperor whose accession failure, ignored remonstrance, deposition, later surveillance, and Haihun settlement make him a continuing legitimacy residue.
 - [海昏侯国 / Haihun Marquisate](entities/HaihunMarquisate.md) — Reduced marquisate used to contain Liu He's residual legitimacy in Hanji 430.
 - [张厂 / Zhang Chang (Shanyang governor)](entities/ZhangChangShanyangWesternHan.md) — Shanyang governor tasked with confidential surveillance of Liu He in Hanji 430.
@@ -6152,7 +6154,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丁明 / Ding Ming (Western Han)](entities/DingMingWesternHan.md) — Western Han Da Sima removed by Han Aidi after grieving Wang Jia's death.
 - [傅嘉 / Fu Jia (Western Han)](entities/FuJiaWesternHan.md) — Western Han attendant who proposes altering the Dongping case record for Dong Xian's merit and is later dismissed after Wang Jia's death for slandering worthies.
 - [傅介子 / Fu Jiezi (Western Han)](entities/FuJieziWesternHan.md) — Western Han envoy-official whose two Western Regions missions use rebuke, intelligence, valuables, targeted killing, and hostage succession to shock Loulan/Shanshan.
-- [楼兰 / Loulan Kingdom (Western Han)](entities/LoulanKingdomWesternHan.md) — Western Regions polity caught between Han and Xiongnu, then reordered through Angui's killing, Wei Tuqi's installation, and Shanshan renaming.
+- [楼兰 / Loulan Kingdom (Western Han)](entities/LoulanKingdomWesternHan.md) — Southern-route polity moving from mission-burden resistance and dual alignment into Angui's killing, Wei Tuqi's installation, and Shanshan renaming.
 - [安归 / Angui, King of Loulan (Western Han)](entities/LoulanKingAnguiWesternHan.md) — Loulan king killed by Fu Jiezi in the 77 BCE Western Han punitive mission.
 - [魏屠耆 / Wei Tuqi (Western Han Loulan-Shanshan)](entities/WeiTuqiWesternHan.md) — Loulan hostage in Chang'an installed as Han-backed ruler after Angui's assassination.
 - [贾延 / Jia Yan (Western Han)](entities/JiaYanWesternHan.md) — Western Han Yushi Dafu who joins Wang Jia's procedural objection to Dong Xian's enfeoffment and is later removed before Kong Guang's restoration.
@@ -16271,6 +16273,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [齐王刘弘 / Liu Hong, Qi King (Western Han)](entities/LiuHongQiKingWesternHan.md) — 汉武帝受宠次子，获封富庶齐地，却少年早逝无子而使封国撤销。
 
 ## Concepts
+- [使团治理失控与外交信用崩塌 / Envoy Governance Credibility Collapse](concepts/EnvoyGovernanceCredibilityCollapse.md) — Pattern in which mission growth outruns screening, accountability, provisioning, and security, turning inherited diplomatic trust into host burden and resistance.
 - [Taishi Historical-Astronomical Office / 太史的史学—天文职能](concepts/TaishiHistoricalAstronomicalOffice.md) — 太史兼具国家记录、历史整理与天文知识的来源限定职能模型，并区分文化声望、正式品级和现代官职类比。
 - [Mythic Ancestor Historical Legitimation / 神话祖先的历史化正统建构](concepts/MythicAncestorHistoricalLegitimation.md) — 通过材料选择与叙事重塑把神话祖先转化为人间明君，使祖先谱系为王朝合法性与统治规范提供历史语言。
 - [平准法 / Pingzhun Law (Western Han)](concepts/PingzhunLawWesternHan.md) — 西汉以公共库存、跨区转输和低买高卖调节物价、物资与财政收益的国家市场机制。

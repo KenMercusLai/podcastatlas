@@ -37054,9 +37054,9 @@
       "url": "/wiki/entities/cheshihoukingdomxin/"
     },
     "CheshiKingdomWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？ [lokhA4DMRiK4EZ4vtPunB9RWHZAV].md",
@@ -37085,9 +37085,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目",
           "url": "/wiki/sources/zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌 [lrJdMvYVoSWgFDuAjcH9oM9R-b6b].md",
+          "key": "zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/cheshikingdomwesternhan/"
     },
     "ChestPainEmergencyEscalation": {
@@ -69270,6 +69277,22 @@
       "updated": "2026-08-24",
       "url": "/wiki/concepts/environmentaltradeoffaccounting/"
     },
+    "EnvoyGovernanceCredibilityCollapse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌 [lrJdMvYVoSWgFDuAjcH9oM9R-b6b].md",
+          "key": "zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/envoygovernancecredibilitycollapse/"
+    },
     "EnvoyKillingTaboo": {
       "episode_count": 4,
       "show_count": 1,
@@ -89051,9 +89074,9 @@
       "url": "/wiki/entities/gongsunaowesternhan/"
     },
     "GongsunHeWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！ [lp_RWQPmccvlAOChibSpViKhb96z].md",
@@ -89082,6 +89105,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》373-1｜公孙贺泣跪辞丞相，揭开西汉的遮羞布",
           "url": "/wiki/sources/zizhi-tongjian-hanji-373-1-gongsunhe-qigui-ci-chengxiang-jiekai-xihan-de-zhexiubu-liwj6echvapnygjm-1ofyyct2jre/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌 [lrJdMvYVoSWgFDuAjcH9oM9R-b6b].md",
+          "key": "zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b/"
         }
       ],
       "updated": "2026-10-05",
@@ -135295,9 +135325,9 @@
       "url": "/wiki/entities/loulankinganguiwesternhan/"
     },
     "LoulanKingdomWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！ [lum-xOLRqlwJgmv5XSCSsenogYx-].md",
@@ -135326,9 +135356,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目",
           "url": "/wiki/sources/zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌 [lrJdMvYVoSWgFDuAjcH9oM9R-b6b].md",
+          "key": "zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/loulankingdomwesternhan/"
     },
     "Louvre": {
@@ -241343,6 +241380,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhangpueasternhan/"
     },
+    "ZhangQianWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌 [lrJdMvYVoSWgFDuAjcH9oM9R-b6b].md",
+          "key": "zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhangqianwesternhan/"
+    },
     "ZhangQiaoLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -242623,9 +242676,9 @@
       "url": "/wiki/entities/zhaopingjunwesternhan/"
     },
     "ZhaoPonuWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》376-2｜从流浪儿逆袭成将军，揭秘汉将赵破奴 [lszMNylwk8zxPjhElkd1GD6JSfsd].md",
@@ -242654,6 +242707,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》365-1｜揭秘古代帝王的娱乐节目",
           "url": "/wiki/sources/zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌 [lrJdMvYVoSWgFDuAjcH9oM9R-b6b].md",
+          "key": "zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b/"
         }
       ],
       "updated": "2026-10-05",
