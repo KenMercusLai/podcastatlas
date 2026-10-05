@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 12488
+wiki_total_pages: 12489
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "YanHui"
     title: "颜回 / Yan Hui"
     url: "/wiki/entities/yanhui/"
+  - key: "YanYiWesternHan"
+    title: "颜异 / Yan Yi (Western Han)"
+    url: "/wiki/entities/yanyiwesternhan/"
   - key: "YanJuZhao"
     title: "颜聚 / Yan Ju (Zhao)"
     url: "/wiki/entities/yanjuzhao/"

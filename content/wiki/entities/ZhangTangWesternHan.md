@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag
   - zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca
   - zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv
+  - zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1
 last_updated: 2026-10-06
 ---
 
@@ -19,6 +20,8 @@ last_updated: 2026-10-06
 ## Current Profile
 
 The current profile is a bounded combination of institutional role, patronage, and political backlash rather than a full career. Hanji 347-1 places Zhang beside Zhao Yu in revising and supplementing law under Han Wudi but does not distinguish their respective legal theories or responsibility for particular provisions.
+
+Hanji 337 adds an earlier prosecution branch through [[YanYiWesternHan|颜异]]. After Yan opposes a white-deer-skin currency proposal, an unrelated accusation gives Zhang authority to investigate a political opponent. Yan later hears a guest criticize an edict, does not answer, and only “微反唇”; Zhang nevertheless argues that a Nine Minister who recognizes an inconvenient edict but does not remonstrate has defamed it inwardly and should die. This sharpens Zhang's profile from severe legal technician to an official willing, in the episode's account, to convert ambiguous nonverbal conduct and inferred thought into a capital case.
 
 Hanji 338-2 supplies the missing mechanism behind Hanji 431's compressed memory of harshness, resentment, and suicide. When Li Wen searches records for evidence against him, Lu Yezhu arranges a counter-accusation; Zhang receives the case, executes Li, and conceals Lu's role from [[HanWudi|汉武帝]]. Zhang later visits the ill Lu and massages his feet, allowing [[LiuPengzuZhaoKingWesternHan|刘彭祖]] to argue that such unusual deference signals concealed collusion.
 
@@ -33,7 +36,7 @@ Hanji 339-2 completes the missing terminal sequence. [[JianXuanWesternHan|减宣
 ## Key Characteristics
 
 - Western Han official remembered within the cruel-official field.
-- Paired with Zhao Yu in revising and supplementing law under Han Wudi.
+- Paired with Zhao Yu in revising law and, in Yan Yi's case, presented as turning silence, expression, and inferred dissent into capital liability.
 - Uses Lu Yezhu's covert accusation to eliminate Li Wen, then exposes the hidden patronage through personal care and failed staged distance.
 - Avoids shared apology over the funerary-park theft, investigates Zhuang Qingdi, and turns dispersed grievances into an explicit counter-coalition.
 - Is accused through an inferential chain linking his friendship with merchant Tian Xin to policy leakage and official-commercial collusion.
@@ -41,6 +44,9 @@ Hanji 339-2 completes the missing terminal sequence. [[JianXuanWesternHan|减宣
 - Serves as a negative family precedent for Zhang Anshi's low-visibility court survival.
 
 ## Evidence
+
+Yan Yi and inward-defamation prosecution:
+- [[zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1|Hanji 337]] says Zhang and Yan already have a hostile relationship when Zhang receives Yan's case, then treats Yan's silence and “微反唇” response to criticism of an edict as inward defamation deserving death.
 
 Legal-revision role:
 - [[zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq|Hanji 347-1]] says Zhang Tang and Zhao Yu jointly revise law under Han Wudi to regulate officeholders more strictly.
@@ -65,10 +71,11 @@ Cruel-official and family-precedent role:
 
 ## Qualifications
 
-The five sources do not supply a full biography or legal dossier. Hanji 347-1 does not allocate responsibility for specific laws or prove that Zhang and Zhao Yu held identical legal views. Hanji 338-2's “massage” detail makes closeness visible but does not independently prove conspiracy. Hanji 339-1's transcript stops mid-accusation: humiliation, motives, the Yan Zhu decision, Tian Xin's profit, friendship, leakage, bribery, and collusion remain episode-attributed rather than adjudicated fact. Hanji 339-2's eight charges, expected interrogation, final-letter wording, estate valuation, funeral sequence, and punishments likewise remain episode-attributed; Zhang's suicide may redirect the case without proving innocence on every allegation.
+The six sources do not supply a full biography or legal dossier. Hanji 337 does not establish the exact statutory status of 腹诽, independently prove Zhang's motive, or show that an inferred inner judgment was routinely prosecuted beyond Yan Yi's case. Hanji 347-1 does not allocate responsibility for specific laws or prove that Zhang and Zhao Yu held identical legal views. Hanji 338-2's “massage” detail makes closeness visible but does not independently prove conspiracy. Hanji 339-1's transcript stops mid-accusation: humiliation, motives, the Yan Zhu decision, Tian Xin's profit, friendship, leakage, bribery, and collusion remain episode-attributed rather than adjudicated fact. Hanji 339-2's eight charges, expected interrogation, final-letter wording, estate valuation, funeral sequence, and punishments likewise remain episode-attributed; Zhang's suicide may redirect the case without proving innocence on every allegation.
 
 ## What Changed
 
+- Added Yan Yi's prosecution as an earlier case in which Zhang converts silence and ambiguous expression into a capital accusation of inward defamation.
 - Filled the missing coalition stage between the funerary-park responsibility conflict and the formal terminal case.
 - Reframed the three clerks from later names in Zhang's final accusation into actors coordinating under shared threat and stored grievance.
 - Added Tian Xin as the accusation's inferential commercial bridge while keeping leakage, bribery, and collusion unproved.
@@ -85,6 +92,7 @@ The five sources do not supply a full biography or legal dossier. Hanji 347-1 do
 - [[ZhuangQingdiWesternHan]] - chancellor turned opponent through the funerary-park responsibility dispute.
 - [[ZhuMaichenWesternHan]], [[WangChaoWesternHan]], and [[BianTongWesternHan]] - three chief clerks named in Zhang's final accusation and punished after his death.
 - [[YanZhuWesternHan]] - Zhu Maichen's benefactor whose execution is presented as a deep source of hostility toward Zhang.
+- [[YanYiWesternHan]] - fiscal-policy opponent whose silence and slight expression Zhang treats as inward defamation.
 - [[TianXinWesternHan]] - merchant relationship used to accuse Zhang of leaking information and enabling private profit.
 - [[ZhangTangMotherWesternHan]] - mother whose sparse funeral decision helps alter the emperor's judgment.
 - [[AccumulatedEnmityDefaultSuspicion]] - political-risk pattern sharpened by Zhang's repeated creation of hostile witnesses and investigators.

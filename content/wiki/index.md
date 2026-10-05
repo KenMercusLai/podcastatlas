@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？](sources/zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1.md) — 颜异反对白鹿皮币后，又因听闻议论诏令时沉默而“微反唇”，被张汤解释为腹诽并处死，显示政治惩罚如何从直言扩张到表情与推定思想。
 - [《资治通鉴·汉纪》336-1｜战神霍去病为何24岁突然暴毙？](sources/zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq.md) — 霍去病之死有病亡这一宽泛传述却无具体病名；瘟疫、意外、他杀及汉武帝介入均因时间线或直接证据不足而不能坐实。
 - [《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死](sources/zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod.md) — 济东王刘彭离的百余起杀人案经查实后，汉武帝仍因宗室亲缘与其父功劳拒绝处死，仅废王、流放并撤国。
 - [《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子](sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1.md) — 告缗执行冲突与李敢之死并置：义纵因抓捕杨可属吏被杀，霍去病则在甘泉宫射杀李敢并因受宠而获包庇。
@@ -3873,6 +3874,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 
 ## Entities
+- [颜异 / Yan Yi (Western Han)](entities/YanYiWesternHan.md) — 反对白鹿皮币后因沉默与“微反唇”被推定腹诽、由张汤奏论死的西汉九卿。
 - [济东王刘彭离 / Liu Pengli, King of Jidong (Western Han)](entities/LiuPengliJidongKingWesternHan.md) — 因长期夜间劫杀百余人被废为庶人、流放上庸，却因宗室身份未按廷臣请求处死的西汉诸侯王。
 - [梁孝王刘武 / Liu Wu, King Xiao of Liang (Western Han)](entities/LiuWuLiangKingWesternHan.md) — 七国之乱中守梁有功，其功绩后来被节目解释为儿子刘彭离获免死的重要政治信用。
 - [李敢 / Li Gan (Western Han)](entities/LiGanWesternHan.md) — 李广之子与霍去病旧部，因父死袭击卫青，后在甘泉宫狩猎中被霍去病射杀。
@@ -5941,7 +5943,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张厂 / Zhang Chang (Shanyang governor)](entities/ZhangChangShanyangWesternHan.md) — Shanyang governor tasked with confidential surveillance of Liu He in Hanji 430.
 - [张贺 / Zhang He (Western Han)](entities/ZhangHeWesternHan.md) — Deceased benefactor whom Han Xuan rewards posthumously in Hanji 430.
 - [张安世 / Zhang Anshi (Western Han)](entities/ZhangAnshiWesternHan.md) — Western Han official whose refusal of excessive reward illustrates reward-fitness caution in Hanji 430.
-- [张汤 / Zhang Tang (Western Han)](entities/ZhangTangWesternHan.md) — 以严酷执法、偏私疑云和持续树敌触发三长史结盟，死后又以遗书、家产与薄葬反向清算对手的西汉酷吏。
+- [张汤 / Zhang Tang (Western Han)](entities/ZhangTangWesternHan.md) — 从以颜异沉默和表情推定腹诽，到偏私疑云、持续树敌与死后反向清算，呈现严酷执法和政治司法相互缠绕的西汉酷吏。
 - [赵广汉 / Zhao Guanghan (Western Han)](entities/ZhaoGuanghanWesternHan.md) — Western Han clean official whose early anti-haoqiang success and later retaliatory abuse make him a power-boundary case.
 - [尹翁归 / 尹翁规 / Yin Wenggui (Western Han)](entities/YinWengguiWesternHan.md) — Western Han clean and strict official used as Zhao Guanghan's more orderly local-governance contrast.
 - [张延寿 / Zhang Yanshou (Western Han)](entities/ZhangYanshouWesternHan.md) — Zhang Anshi's son, sent outward to Beidi as part of Zhang-family visibility management in Hanji 431.
@@ -9359,7 +9361,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Silk Road](entities/SilkRoad.md) — Illegal online marketplace used in the Loeb source to frame Ross Ulbricht's clemency and sentencing-proportionality case.
 - [Success Academies](entities/SuccessAcademies.md) — New York charter-school network Loeb names as the education-reform route into his broader opportunity and criminal-justice work.
 - [楚幽王 / King You of Chu](entities/ChuYouwang.md) — Young Chu ruler who succeeds after Chu Kaolie Wang's death while Li Yuan and his sister control the court in Qinji 109-2.
-- [贾谊 / Jia Yi](entities/JiaYi.md) — Early Western Han writer whose Guo Qin Lun praise of the Warring States Four Lords is contrasted with Yang Xiong and Sima Guang's criticism.
+- [贾谊 / Jia Yi](entities/JiaYi.md) — 以《过秦论》评价战国四公子，并把拒谏、群臣噤声与政治信息断流连成秦亡诊断的西汉政论家。
 - [《过秦论》 / Guo Qin Lun](entities/GuoQinLun.md) — Jia Yi essay cited for praising the Four Lords as wise, loyal, generous, and respectful of worthy people in an anti-Qin explanatory frame.
 - [李斯 / Li Si](entities/LiSi.md) — Qin minister whose arc runs from mouse philosophy and Qin entry through imperial policy design, Hu Hai's accession, coerced confession, and waist-chopping execution.
 - [《谏逐客书》 / Jian Zhu Ke Shu](entities/JianZhuKeShu.md) — Li Si memorial arguing that Qin's historical success depended on foreign guest talent and that expulsion would strengthen enemy states.
@@ -20142,7 +20144,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [等级场景中的进言包装 / Hierarchy-Aware Advice Framing](concepts/AdviceFramingUnderHierarchy.md) — Pattern where accurate counsel or status signaling must fit content, timing, danger management, and the superior's public frame, from Wen Long's rejected pearl to Zhou Ju, Chen Fan, Yang Bing, Ju Shou, and Tian Feng.
 - [伪诏营私 / Forged Edict Private Extraction](concepts/ForgedEdictPrivateExtraction.md) — Emperor An-era pattern where favorites simulate imperial authorization to requisition public resources and labor for private construction.
 - [伪诏地方杀官 / Forged Edict Local Execution](concepts/ForgedEdictLocalExecution.md) — Hanji 797 pattern where private enemies fabricate imperial command so local officers execute or arrest targeted officials.
-- [直谏入罪 / Direct Remonstrance Criminalization](concepts/DirectRemonstranceCriminalization.md) — Late-Han pattern where open corrective speech becomes punishable, from Zhi Shou and An-era Zhao Teng/Yang Zhen to Hongdu Gate sanctions and Huan-era prison death.
+- [直谏入罪 / Direct Remonstrance Criminalization](concepts/DirectRemonstranceCriminalization.md) — 从颜异案中对沉默、表情和推定思想的惩罚，到后汉对公开进谏、救援者和亲属的连带压力，概括纠错信息被重编码为罪责的模式。
 - [直言作秀陷阱 / Scripted Candor Trap](concepts/ScriptedCandorTrap.md) — Governance pattern where authority publicly solicits blunt speech but punishes correction that does not follow the expected script.
 - [远方朝贡威德表演 / Remote Tribute Prestige Theater](concepts/RemoteTributePrestigeTheater.md) — Distant envoys, rare goods, subsidy, and curated spectacle used as visible prestige, limited by trade incentives and nearer coercive power.
 - [Adviser State Architecture / 谋士政权架构](concepts/AdviserStateArchitecture.md) — Hanji 957 and 974-976 frame for adviser-rich power, post-crisis organizational repair, and advisers as builders of legitimacy, logistics, talent channels, strategy, and institutional capacity.

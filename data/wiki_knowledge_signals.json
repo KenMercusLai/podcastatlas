@@ -58190,9 +58190,9 @@
       "url": "/wiki/concepts/directcustomerfeedbackloop/"
     },
     "DirectRemonstranceCriminalization": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
@@ -58249,6 +58249,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》597丨太皇太后王政君的诏令，为何被拒收？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？ [lqOQDtG35uA6M9y4SHcz9U8ZYgp1].md",
+          "key": "zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1/"
         }
       ],
       "updated": "2026-09-01",
@@ -119021,6 +119028,29 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/jiayanwesternhan/"
+    },
+    "JiaYi": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门 [locmA2pLU7v_vsSSM5DR5FRC3Szw].md",
+          "key": "zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？ [lqOQDtG35uA6M9y4SHcz9U8ZYgp1].md",
+          "key": "zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/jiayi/"
     },
     "JiaYueting": {
       "episode_count": 2,
@@ -241534,6 +241564,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/yanyannianwesternhan/"
     },
+    "YanYiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？ [lqOQDtG35uA6M9y4SHcz9U8ZYgp1].md",
+          "key": "zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/yanyiwesternhan/"
+    },
     "YanYouXinGeneral": {
       "episode_count": 4,
       "show_count": 1,
@@ -246957,9 +247003,9 @@
       "url": "/wiki/entities/zhangtangmotherwesternhan/"
     },
     "ZhangTangWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》431｜职场必读！酷吏之子张安世的职场智慧 [lmxEy8uOliWYNiMxcnH1KhJefEnl].md",
@@ -246995,6 +247041,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？ [lqOQDtG35uA6M9y4SHcz9U8ZYgp1].md",
+          "key": "zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1/"
         }
       ],
       "updated": "2026-10-06",
