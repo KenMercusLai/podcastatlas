@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-397-1-bianlun-si-ge-yue-de-yantie-huiyi-jiujing-shuo-le-sha-lrhr5v36pylcysgeg-u3k9f1zuxv
   - zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_
   - zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff
+  - zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu
 last_updated: 2026-10-05
 ---
 
@@ -20,7 +21,7 @@ last_updated: 2026-10-05
 
 The Western Han evidence now presents both sides of the mechanism. [[zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff|Hanji 362-1]] credits [[SangHongyangWesternHan|桑弘羊]] with salt and iron administration, [[PingzhunLawWesternHan|pingzhun]] buying and selling, fuller public stores, and stronger imperial supply without a reported increase in ordinary taxes. This is the current strongest evidence that direct state commerce can create real fiscal and logistical capacity rather than functioning only as waste or predation.
 
-The later Western Han sources show why that success does not settle the welfare judgment. Hanji 396-3 links state monopoly to merchant assessment, confiscation, and [[RewardedDenunciationFiscalEnforcement|告缗式奖励告发财政执法]]. Hanji 397-1 describes poor or ill-fitting iron goods, expensive salt, inconvenient access, cash-only demands, forced purchase, quotas, and local administrative harassment. Hanji 362-2 supplies Bu Shi's sharp normative boundary: public needs may justify taxation without justifying officials' pursuit of shop profit.
+The other Western Han sources show why that success does not settle the welfare judgment. Hanji 357-2 adds an early criticism from [[BuShiWesternHan|卜式]]: poor iron tools can still be compulsory, while junshu-pingzhun and transport burdens can raise prices and hurt households. Hanji 396-3 links state monopoly to merchant assessment, confiscation, and [[RewardedDenunciationFiscalEnforcement|告缗式奖励告发财政执法]]. Hanji 397-1 describes poor or ill-fitting iron goods, expensive salt, inconvenient access, cash-only demands, forced purchase, quotas, and local administrative harassment. Hanji 362-2 then supplies Bu Shi's sharp normative boundary: public needs may justify taxation without justifying officials' pursuit of shop profit.
 
 [[zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr|Hanji 396-4]] extends the pattern to a critical reading of the [[WangAnshiReforms|王安石变法]], where state commerce and credit use fiscal power to crowd out merchants and capture interest. Across both dynastic cases, the durable claim is narrower than “state intervention always fails”: administrative power can mobilize stocks and revenue effectively, but its own accounting can hide costs displaced onto trade and livelihood.
 
@@ -29,7 +30,7 @@ The later Western Han sources show why that success does not settle the welfare 
 - Treasury gain and public benefit are distinct measures; higher state stocks or revenue can coexist with merchant displacement and household burden.
 - Direct state commerce has coercive advantages over private trade, so nominal competition can become punishment, confiscation, or exclusion risk.
 - State buying, selling, and stockholding can create logistical capacity and moderate prices, making monopoly policy more than simple extraction.
-- The welfare result depends on product quality, access, price, payment method, quotas, enforcement, and who absorbs administrative cost.
+- The welfare result depends on product quality, access, price, payment method, quotas, enforcement, and whether monopoly production, transfer duties, price operations, and compulsory purchase shift combined costs onto households.
 - Credit policy becomes monopoly extraction when the state excludes private lenders while capturing interest and using coercive collection power.
 - Anti-monopoly critics can accept public revenue in principle while rejecting officials acting as profit-seeking merchants.
 - The concept applies to direct commercial or credit operation and should not be used for every tax, regulation, reserve, or public enterprise.
@@ -41,6 +42,7 @@ Fiscal and logistical capacity:
 - [[zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff|Hanji 362-1]] says buying low and selling high is intended to restrain excessive prices and large-merchant windfalls.
 
 Western Han extraction and enforcement:
+- [[zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu|Hanji 357-2]] attributes to Bu Shi an early objection to poor compulsory iron goods, junshu-pingzhun burdens, added transport costs, price increases, and household harm.
 - [[zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui|Hanji 396-3]] says Han Wudi's court takes profitable goods into state monopoly and pairs control with merchant assessment, property reporting, confiscation, and informant rewards.
 - [[zizhi-tongjian-hanji-397-1-bianlun-si-ge-yue-de-yantie-huiyi-jiujing-shuo-le-sha-lrhr5v36pylcysgeg-u3k9f1zuxv|Hanji 397-1]] describes poor goods, high prices, cash friction, forced purchases, hospitality costs, quotas, arrests, and flight within official salt and iron distribution.
 - [[zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_|Hanji 362-2]] attributes to Bu Shi the view that the court should rely on taxation rather than officials occupying shops and seeking profit.
@@ -51,14 +53,13 @@ Northern Song extension:
 
 ## Counterevidence & Qualifications
 
-The concept rests on five short podcast summaries, four of which are strongly critical. Hanji 362-1 supplies an important counterweight by reporting real fiscal, storage, and price-management benefits, but it is not an independent quantitative audit and does not measure household welfare. “No increase in ordinary taxes” does not exclude monopoly prices, forced sales, confiscation, labor, or other indirect burdens. Conversely, vivid burden examples do not prove that every office, region, commodity, or period worked identically. The evidence does not support a blanket conclusion that all public economic intervention is extractive, nor does it establish that these policies alone caused Western Han commercial decline or Northern Song collapse.
+The concept rests on six short podcast summaries, five of which are strongly critical. Hanji 362-1 supplies an important counterweight by reporting real fiscal, storage, and price-management benefits, but it is not an independent quantitative audit and does not measure household welfare. “No increase in ordinary taxes” does not exclude monopoly prices, forced sales, transport levies, confiscation, labor, or other indirect burdens. Hanji 357-2 compresses salt-iron, junshu, pingzhun, and transport burdens and does not quantify their separate incidence. Conversely, vivid burden examples do not prove that every office, region, commodity, or period worked identically. The evidence does not support a blanket conclusion that all public economic intervention is extractive, nor does it establish that these policies alone caused Western Han commercial decline or Northern Song collapse.
 
 ## What Changed
 
-- Added the strongest positive case: Sang Hongyang's system reportedly expanded public stocks and supply while using countercyclical trade to manage prices.
-- Reframed the concept around separate fiscal, logistical, and welfare measures rather than assuming treasury effectiveness and public harm are mutually exclusive.
-- Retained the Western Han enforcement and everyday-burden layers from Hanji 396-3, 397-1, and 362-2.
-- Retained the Northern Song state-commerce and credit-monopoly extension from Hanji 396-4.
+- Added Hanji 357-2's early Bu Shi criticism linking poor compulsory goods, transfer burdens, prices, and household harm.
+- Clarified that monopoly production and price-transfer mechanisms can impose combined costs even when their formal instruments differ.
+- Preserved the positive state-capacity case and the later Western Han and Northern Song burden evidence.
 
 ## Related Concepts
 

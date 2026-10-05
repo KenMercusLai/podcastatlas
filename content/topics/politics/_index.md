@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3102
+topic_total_pages: 3103
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -9063,6 +9063,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b"
     title: "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌"
     url: "/wiki/sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b/"
+  - key: "zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu"
+    title: "《资治通鉴·汉纪》357-2｜唉，一片真心不如钱重要"
+    url: "/wiki/sources/zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu/"
   - key: "zizhi-tongjian-hanji-364-2-hanwudi-da-chaoxian-de-lishi-wenti-lrid25t03ell_bs6siq6yvrj3lp9"
     title: "《资治通鉴·汉纪》364-2｜汉武帝打朝鲜的历史问题"
     url: "/wiki/sources/zizhi-tongjian-hanji-364-2-hanwudi-da-chaoxian-de-lishi-wenti-lrid25t03ell_bs6siq6yvrj3lp9/"

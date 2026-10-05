@@ -6,6 +6,7 @@ tags: [diplomacy, frontier, hierarchy, state-capacity, eastern-han, xiongnu]
 sources:
   - zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh
   - zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn
+  - zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu
 last_updated: 2026-09-11
 ---
 
@@ -21,6 +22,8 @@ The diplomatic object is therefore not missing. The problem is enforcement credi
 
 Hanji 554 supplies an earlier, narrower Western Han variant. Han Chengdi's court is not as weak as Liu Xuan's Gengshi court, but the specific land demand still lacks enough capacity and authorization clarity. [[XiahouFanWesternHan|夏侯藩]] tries to use imperial will to pressure [[WuzhuliuChanyu|乌珠留单于]], yet the chanyu refuses after testing whether the demand is personal or official. Here the failed hierarchy is not a full restoration of status order; it is a demand that assumes Han prestige can obtain land without sufficient coercive leverage or public commitment.
 
+Hanji 357-2 adds a Han Wudi-era distance variant. Even after Han battlefield victories and conspicuous displays of wealth, Western Regions states reportedly treat nearby [[Xiongnu|匈奴]] envoys more generously because retaliation can arrive quickly. The case separates aggregate imperial strength from local enforceability: prestige, victory, and stored wealth do not guarantee deference where transport, route security, and response time make coercive support remote.
+
 ## Key Claims
 
 - Diplomatic hierarchy depends on actual regime capacity as well as inherited ritual precedent.
@@ -29,6 +32,7 @@ Hanji 554 supplies an earlier, narrower Western Han variant. Han Chengdi's court
 - The same episode links frontier humiliation to internal fragmentation, making foreign hierarchy a symptom of domestic capacity.
 - The pattern is related to recognition politics but focuses on failed hierarchy restoration rather than successful incorporation.
 - Even a strong court can suffer a local capacity mismatch when it makes a claim without enough leverage, commitment, or boundary clarity.
+- Aggregate power and battlefield victory do not automatically become local diplomatic leverage when distance and response time make enforcement uncertain.
 
 ## Evidence
 
@@ -36,15 +40,17 @@ Hanji 554 supplies an earlier, narrower Western Han variant. Han Chengdi's court
 - Status reversal: [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] says the chanyu refuses and argues that Han should honor Xiongnu because Xiongnu helped overthrow Wang Mang.
 - Internal capacity backdrop: [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] simultaneously shows Gongsun Shu defeating Liu Xuan's expedition, Chimei turning west, Liu Xiu building independent capacity, and eastern rivals rising.
 - Land-demand mismatch: [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn|Hanji 554]] says Xiahou Fan invokes imperial will in asking for Xiongnu land, but Wuzhuliu Chanyu refuses and grounds the refusal in ancestral possession and material need.
+- Distance-limited leverage: [[zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu|Hanji 357-2]] says Western Regions states provision nearby Xiongnu envoys while making distant Han missions pay because Xiongnu punishment appears more immediately deliverable.
+- Prestige-versus-control gap: [[zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu|Hanji 357-2]] juxtaposes Han victories and wealth displays with continuing limits on Western Regions deference.
 
 ## Counterevidence & Qualifications
 
-This concept should not be generalized into a universal rule that diplomacy is only force or that ritual never matters. Hanji 674 shows old forms failing under weak central capacity; Hanji 554 shows a narrower failure where Han prestige and implied imperial will cannot substitute for leverage and clear public commitment in a specific demand. Other pages such as [[RecognitionBackedFrontierDiplomacy|Recognition-Backed Frontier Diplomacy]] and [[HanXiongnuHeqinPolicy|Han-Xiongnu Heqin Policy]] cover cases where recognition, gifts, kinship, or negotiated hierarchy can still matter when backed by credible incentives or constraints.
+This concept should not be generalized into a universal rule that diplomacy is only force or that ritual never matters. Hanji 674 shows old forms failing under weak central capacity; Hanji 554 shows a narrower failure where Han prestige and implied imperial will cannot substitute for leverage and clear public commitment in a specific demand; Hanji 357-2 adds a distance-and-response-time mechanism but does not measure actual Western Regions decisions or prove that fear alone determines reception. Other pages such as [[RecognitionBackedFrontierDiplomacy|Recognition-Backed Frontier Diplomacy]] and [[HanXiongnuHeqinPolicy|Han-Xiongnu Heqin Policy]] cover cases where recognition, gifts, kinship, or negotiated hierarchy can still matter when backed by credible incentives or constraints.
 
 ## What Changed
 
-- Added Hanji 554 as a narrower Western Han variant: an implied imperial land demand fails because prestige lacks enough leverage and role clarity.
-- Preserved Hanji 674 as the full weak-regime hierarchy-restoration case.
+- Added Hanji 357-2's distance variant: aggregate strength, victory, and wealth displays fail to become prompt local enforcement.
+- Preserved the weak-regime restoration case and the underpowered land-demand case as distinct capacity failures.
 
 ## Related Concepts
 
@@ -52,6 +58,8 @@ This concept should not be generalized into a universal rule that diplomacy is o
 - [[HanXiongnuHeqinPolicy|Han-Xiongnu Heqin Policy]] - related frontier precedent because marriage, seals, and kinship arrangements work only within a credible power bargain.
 - [[ConfucianForeignPolicyMoralism|Confucian Foreign Policy Moralism]] - contrast because moral hierarchy arguments weaken when counterparties reject the center's capacity to rank them.
 - [[WeakStateStatusDemotion|Weak-State Status Demotion]] - adjacent because weak regimes can see inherited rank claims downgraded by stronger counterparties.
+- [[EnvoyGovernanceCredibilityCollapse]] - adjacent because poor mission governance compounds the distance-based leverage problem.
+- [[HanCourtPerformanceDiplomacy]] - contrast because visible abundance can build prestige without securing compliance.
 - [[Xiongnu|匈奴]] - historical counterpart whose chanyu reverses the Gengshi mission's intended hierarchy.
 - [[WuzhuliuChanyu]] - earlier chanyu who refuses an underpowered Han land demand.
 - [[LiuXuanGengshiEmperor|更始帝刘玄]] - ruler whose failed mission grounds the current concept.

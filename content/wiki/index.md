@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》357-2｜唉，一片真心不如钱重要](sources/zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu.md) — 西域对匈奴与汉使的不同待遇暴露距离、投送力与使团治理的共同约束；卜式则因批评盐铁、均输平准扰民而被移出御史大夫之位。
 - [《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？](sources/zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm.md) — 汉武帝以五项过失压住灭南越后自矜的杨仆，却在其表态效死赎罪后继续派征东越，显示功劳不自动免责、问责也不必废弃能力。
 - [《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌](sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b.md) — 张骞的声望为早期西域交往提供信用，但使团扩张快于选人、监督、补给与安保，最终把外交开放推向信誉崩塌、通道袭扰和军事—郡县化回应。
 - [《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》](sources/zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn.md) — 司马相如遗稿以传说先例、祥瑞和颂德推动封禅议程；经书无成法、方士求仙说、兒宽归权天子与儒生受黜共同显示礼制重建也是权威竞争。
@@ -16271,11 +16272,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Benioff](entities/MarkBenioff.md) — Salesforce co-founder and CEO represented through grounded enterprise AI, public-market discipline, China data residency, and corporate philanthropy.
 
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
-- [卜式 / Bu Shi (Western Han)](entities/BuShiWesternHan.md) — 汉武帝树为官员榜样、并在旱灾中以税收正当性反对桑弘羊官吏入市逐利的进谏者。
+- [卜式 / Bu Shi (Western Han)](entities/BuShiWesternHan.md) — 商人出身的御史大夫，以劣质强购物资、转输物价和官吏入市逐利批评汉武帝财政体系，后被调离高位仍继续进谏。
 - [齐王刘弘 / Liu Hong, Qi King (Western Han)](entities/LiuHongQiKingWesternHan.md) — 汉武帝受宠次子，获封富庶齐地，却少年早逝无子而使封国撤销。
 
 ## Concepts
-- [使团治理失控与外交信用崩塌 / Envoy Governance Credibility Collapse](concepts/EnvoyGovernanceCredibilityCollapse.md) — Pattern in which mission growth outruns screening, accountability, provisioning, and security, turning inherited diplomatic trust into host burden and resistance.
+- [使团治理失控与外交信用崩塌 / Envoy Governance Credibility Collapse](concepts/EnvoyGovernanceCredibilityCollapse.md) — 使团扩张快于筛选、激励、问责、补给与安保时，继承的外交信用会转化为东道负担、逐利行为与抵抗。
 - [Taishi Historical-Astronomical Office / 太史的史学—天文职能](concepts/TaishiHistoricalAstronomicalOffice.md) — 太史兼具国家记录、历史整理与天文知识的来源限定职能模型，并区分文化声望、正式品级和现代官职类比。
 - [Mythic Ancestor Historical Legitimation / 神话祖先的历史化正统建构](concepts/MythicAncestorHistoricalLegitimation.md) — 通过材料选择与叙事重塑把神话祖先转化为人间明君，使祖先谱系为王朝合法性与统治规范提供历史语言。
 - [平准法 / Pingzhun Law (Western Han)](concepts/PingzhunLawWesternHan.md) — 西汉以公共库存、跨区转输和低买高卖调节物价、物资与财政收益的国家市场机制。
@@ -16293,7 +16294,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Translation Path Dependence / 翻译路径依赖](concepts/TranslationPathDependence.md) — Process by which repeated and institutionalized renderings become defaults that later usage and AI systems reinforce.
 - [制衡消失后的控制升级 / Counterweight-Loss Control Escalation](concepts/CounterweightLossControlEscalation.md) — 关键制衡者消失后，权威集中反而伴随不安全感、猜疑、惩罚与监察扩张的来源限定机制。
 - [礼仪让步式核心诉求谈判 / Protocol-Concession Core-Demand Bargaining](concepts/ProtocolConcessionCoreDemandBargaining.md) — 以有限礼仪让步争取谈判入口并保留实质使命，但须继续通过互惠成本与可观察步骤核验承诺，避免把好话误作和解。
-- [Han Court Performance Diplomacy / 汉廷表演外交](concepts/HanCourtPerformanceDiplomacy.md) — Foreign performers and rare gifts meet curated tours, stores, banquets, animals, and court spectacle as reciprocal diplomatic communication.
+- [Han Court Performance Diplomacy / 汉廷表演外交](concepts/HanCourtPerformanceDiplomacy.md) — 外国表演者与珍物、汉廷巡览仓储宴饮及百戏共同传达国力，但也可能暴露可索取的财富而无法替代近距离威慑。
 - [Shangdi in Early Imperial Ritual / 早期帝国礼制中的上帝](concepts/ShangdiInEarlyImperialRitual.md) — bounded frame for reading “上帝” inside early imperial sacrificial and ruler-cult contexts without projecting one modern meaning across periods.
 - [Media Myth to Movement Ritual](concepts/MediaMythToMovementRitual.md) — Process by which dramatized history is adopted as real organizational tradition and repeated political ceremony.
 - [Commercialized Extremist Recruitment](concepts/CommercializedExtremistRecruitment.md) — Commission, territorial sales, required purchases, and grievance targeting used to scale exclusionary membership.
@@ -18619,7 +18620,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [危机优先级错置 / Crisis Priority Misalignment](concepts/CrisisPriorityMisalignment.md) — Governance failure where a ruler funds and pursues the wrong crisis sequence while the nearer regime-breaking danger worsens.
 - [Delayed Canonical Recognition / 延迟经典化](concepts/DelayedCanonicalRecognition.md) — Reception pattern in which low visible status hides durable work until later readers recognize its cultural value.
 - [财政压榨叛乱螺旋 / Fiscal Extraction Rebellion Spiral](concepts/FiscalExtractionRebellionSpiral.md) — Governance pattern where crisis taxation converts fiscal need into flight, death, banditry, and deeper insecurity.
-- [官营商业垄断式汲取 / State Commercial Monopoly Extraction](concepts/StateCommercialMonopolyExtraction.md) — Fiscal-market pattern where state commerce or credit monopoly captures profit while suppressing merchants and harming livelihood.
+- [官营商业垄断式汲取 / State Commercial Monopoly Extraction](concepts/StateCommercialMonopolyExtraction.md) — 国家直接经营、转输或垄断信用可扩充财政与库存，也可能通过劣质强购、价格、差役和执法把成本转嫁给商人与家庭。
 - [Rewarded Denunciation Fiscal Enforcement / 告缗式奖励告发财政执法](concepts/RewardedDenunciationFiscalEnforcement.md) — Fiscal-control mechanism where informant rewards turn hidden merchant property into a confiscation and tax-enforcement target.
 - [民困治理诊断 / Popular Suffering Governance Diagnostic](concepts/PopularSufferingGovernanceDiagnostic.md) — Remonstrance pattern where famine, disease, tax labor, official predation, and household ruin become evidence about the quality of rule.
 - [民困之后的刑法失灵 / Criminal Law After Livelihood Collapse](concepts/CriminalLawAfterLivelihoodCollapse.md) — Governance failure where punishment is asked to restore order after public conditions have already produced hunger, disease, robbery, official violence, and household insecurity.
@@ -19092,7 +19093,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public-Sector Vendor Dependence](concepts/PublicSectorVendorDependence.md) — Risk that public agencies become reliant on hard-to-replace technology suppliers.
 - [Chinese Premium Chocolate Localization](concepts/ChinesePremiumChocolateLocalization.md) — Strategy of building Chinese chocolate demand through local flavors, supply chains, premium retail, and category education.
 - [Personal Risk Trust Signal / 亲身涉险式信任信号](concepts/PersonalRiskTrustSignal.md) — Surrender-and-leadership pattern where a ruler makes promised safety credible by visibly accepting personal danger.
-- [Capacity-Backed Diplomatic Hierarchy / 实力支撑的外交名分](concepts/CapacityBackedDiplomaticHierarchy.md) — Frontier-diplomacy pattern where old status formulas, seals, and kinship arrangements fail when regime capacity cannot make counterparties accept the hierarchy.
+- [Capacity-Backed Diplomatic Hierarchy / 实力支撑的外交名分](concepts/CapacityBackedDiplomaticHierarchy.md) — 外交名分、胜利与财富展示只有转化为当地可兑现的投送、响应和承诺能力，才足以让对手接受等级诉求。
 - [Investment Pitch Position Sizing](concepts/InvestmentPitchPositionSizing.md) — Pitch-evaluation discipline that separates idea attractiveness from capital capacity, downside, liquidity, and market impact.
 - [Hidden Asset Optionality](concepts/HiddenAssetOptionality.md) — Investment pattern where underappreciated assets, approvals, real estate, databases, or jurisdictional shifts create upside beyond headline earnings.
 - [Power Scarcity Infrastructure Investing](concepts/PowerScarcityInfrastructureInvesting.md) — Hard-asset investment frame where constrained baseload power, replacement cost, and long-term buyers support valuation under AI demand.
