@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？](sources/zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h.md) — 汉武帝朝廷以收回地方铸币权、集中铜材、分设上林三官和统一五铢重量构成中央铸币机制，其财政与长期稳定效果保留来源限定。
 - [《资治通鉴·汉纪》340-1｜太奇葩！古代皇帝的长寿秘方](sources/zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m.md) — 方士把露水与玉屑组合成长生药承诺，汉武帝则以柏梁台和仙人承露盘把不可验证的配方转化为帝国建筑与采集仪式。
 - [Travis Kalanick & Michael Dell Live from Austin, Texas](sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605.md) — All-In live interviews on Kalanick's physical-world compute stack, specialized robotics and mining, Dell's distributed AI infrastructure and top-down process redesign, and the Dell family's child-account pledge.
 - [VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”](sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2.md) — 这病说来话长 episode with 郑超 on crash-diet risk, metabolic-health outcomes, the “8+X” multidisciplinary model, individualized exercise, procedures, and digital follow-up.
@@ -3862,6 +3863,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 
 ## Entities
+- [孔仅 / Kong Jin (Western Han)](entities/KongJinWesternHan.md) — 由铁商背景进入汉武帝财政体系、参与盐铁事务并升任大农令的西汉官员。
 - [City Storage Systems / CloudKitchens](entities/CityStorageSystems.md) — Travis Kalanick's food-infrastructure company framework joining manufacturing, real estate, logistics, and automation.
 - [Zheng Chao / 郑超](entities/ZhengChaoEndocrinologist.md) — Zhejiang University Second Affiliated Hospital endocrinologist who frames weight management through metabolic health, sustainable pacing, and coordinated care.
 - [林幼玉 / Lin Youyu](entities/LinYouyu.md) — 南宋通过童子科特别考核并获封孺人的女童，其个案体现才学认可与常规入仕资格之间的差别。
@@ -3901,8 +3903,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵建德 / Zhao Jiande (Nanyue)](entities/ZhaoJiandeNanyue.md) — 吕嘉杀赵兴母子后拥立、番禺防守崩溃时与吕嘉逃海并被捕的南越末期国王。
 - [庄参 / Zhuang Can (Western Han)](entities/ZhuangCanWesternHan.md) — 以和平出使无需多人、武力行动两千不足为由拒绝南越任务，并成为韩千秋乐观请战之谨慎对照的西汉官员。
 - [樛乐 / Jiu Le (Nanyue-Han mission)](entities/JiuLeNanyue.md) — 樛太后之弟、与韩千秋率两千人进入南越的任务成员，其与下一期“樛罗”及遗孤封赏支线的同一性保持限定。
-- [赵周 / Zhao Zhou (Western Han)](entities/ZhaoZhouWesternHan.md) — 酎金夺爵后因知列侯贡金轻而下狱自杀、并被节目置于南越动员与贵族清算背景中的西汉丞相。
-- [石庆 / Shi Qing (Western Han)](entities/ShiQingWesternHan.md) — 赵周死后由御史大夫升任丞相、在财政、刑法与文学官员分别用事时保持醇谨的西汉大臣。
+- [赵周 / Zhao Zhou (Western Han)](entities/ZhaoZhouWesternHan.md) — 借父辈忠诚获得封侯与任相资格，后在酎金夺爵案中因知列侯贡金轻而下狱自杀的西汉丞相。
+- [石庆 / Shi Qing (Western Han)](entities/ShiQingWesternHan.md) — 赵周任相时出任御史大夫、赵周死后继任丞相并在专业官员分别用事时保持醇谨的西汉大臣。
 - [儋耳郡 / Dan'er Commandery](entities/DanerCommandery.md) — 西汉灭南越后在海南设置、后与珠崖一同进入高成本动乱和废置问题的古代郡级行政实体。
 - [韩千秋 / Han Qianqiu (Western Han)](entities/HanQianqiuWesternHan.md) — 初入南越获胜、后在番禺附近全军覆没，却仍被汉武帝评价为勇敢先锋的西汉将领。
 - [吕嘉 / Lü Jia (Nanyue)](entities/LyuJiaNanyue.md) — 歼灭韩千秋军、退还汉使符节并加强边关防御，从而触发汉武帝大举南征的南越丞相。
@@ -5843,7 +5845,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Natalie Crawford](entities/NatalieCrawford.md) — Fertility and reproductive-health physician featured on Huberman Lab, emphasizing fertility as a whole-body health marker and earlier reproductive data access.
 - [眭弘 / Sui Hong (Western Han)](entities/SuiHongWesternHan.md) — scholar-official whose omen reading becomes an abdication memorial under Han Zhao.
 - [田千秋 / Tian Qianqiu (Western Han)](entities/TianQianqiuWesternHan.md) — Western Han official whose anti-fangshi advice helps explain his rapid rise under Han Wudi before his cautious chancellorship under Huo Guang's regency dominance.
-- [桑弘羊 / Sang Hongyang (Western Han)](entities/SangHongyangWesternHan.md) — Han Wudi-era fiscal minister whose anti-Huo rebellion involvement leads to execution and household destruction under Huo Guang.
+- [桑弘羊 / Sang Hongyang (Western Han)](entities/SangHongyangWesternHan.md) — 从盐铁、中央铸币与平准积累财政能力，后在盐铁争论和反霍联盟中败亡的汉武帝朝财政官员。
 - [桑迁 / Sang Qian (Western Han)](entities/SangQianWesternHan.md) — Sang Hongyang's fugitive son whose sheltering by Hou Shiwu drives the amnesty and harboring case.
 - [侯史吴 / Hou Shiwu (Western Han)](entities/HouShiWuWesternHan.md) — shelterer of Sang Qian whose self-surrender becomes the test case for Huo Guang's stricter rebellion-adjacent legal classification.
 - [王平 / Wang Ping (Western Han)](entities/WangPingWesternHan.md) — Tingwei punished after his narrow amnesty reading of the Hou Shiwu case is recast as indulgence of rebellion.
@@ -16379,6 +16381,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [五铢钱中央统一铸造 / Centralized Wuzhu Coinage](concepts/CentralizedWuzhuCoinage.md) — 以收回铸币权、集中铜材、专业化铸造与统一重量共同支撑的西汉中央货币机制。
 - [Physical-World Compute Stack](concepts/PhysicalWorldComputeStack.md) — Atoms-system analogy joining manufacturing, real estate, logistics, hardware, land, materials, and capital.
 - [Top-Down AI Process Redesign](concepts/TopDownAIProcessRedesign.md) — Leadership-driven sequence for turning AI access into simplified workflows, shared data and tools, speed, and measurable outcomes.
 - [Data-Local Inference](concepts/DataLocalInference.md) — Workload-specific placement of inference near enterprise, edge, device, or embedded data.

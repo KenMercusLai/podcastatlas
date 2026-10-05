@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9734
+wiki_total_pages: 9735
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3020,6 +3020,9 @@ wiki_pages:
   - key: "CommanderRiskMoraleSignaling"
     title: "主将冒险式士气信号 / Commander Risk Morale Signaling"
     url: "/wiki/concepts/commanderriskmoralesignaling/"
+  - key: "CentralizedWuzhuCoinage"
+    title: "五铢钱中央统一铸造 / Centralized Wuzhu Coinage"
+    url: "/wiki/concepts/centralizedwuzhucoinage/"
   - key: "CapitalPoetrySociality"
     title: "京城诗社交性 / Capital Poetry Sociality"
     url: "/wiki/concepts/capitalpoetrysociality/"

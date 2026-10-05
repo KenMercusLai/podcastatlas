@@ -5,30 +5,34 @@ knowledge_schema: synthesis-v1
 tags: [person, western-han, chancellor, court-politics]
 sources:
   - zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h
+last_updated: 2026-10-06
 ---
 
 ## Overview
 
-石庆 / Shi Qing enters the wiki as the Western Han yushi dafu appointed chancellor and enfeoffed as Muqiu Hou after [[ZhaoZhouWesternHan|赵周]]'s death. Hanji 353-2 uses his cautious tenure to show a chancellorship losing practical control over major fiscal, legal, and literary-policy decisions.
+石庆 / Shi Qing is a Western Han official whose current source arc runs from appointment as yushi dafu during [[ZhaoZhouWesternHan|赵周]]'s chancellorship to succession as chancellor and enfeoffment as Muqiu Hou after Zhao Zhou's death.
 
 ## Current Profile
 
-The episode presents Shi Qing less through individual policy than through institutional position. [[SangHongyangWesternHan|桑弘羊]] and other officials secure revenue, [[WangWenshuWesternHan|王温舒]] and his peers enforce harsh law, and [[NiKuanWesternHan|兒宽]] and related officials advance literary learning. These actors rise into consequential work while affairs do not pass through or receive decision from the chancellor.
+Hanji 340-2 supplies the earlier rung: Wudi appoints Shi Qing yushi dafu while Zhao Zhou is chancellor and while snow, flooding, famine, and fiscal reform crowd the governing agenda. The episode does not attribute a personal policy response to him, so the appointment should not be read as proof that he directed those measures.
 
-Shi Qing therefore survives by being “醇谨,” cautious and compliant, rather than by reasserting comprehensive ministerial direction. That is a source-bounded portrait of this tenure, not proof that the chancellor office was permanently empty of authority across the Western Han.
+Hanji 353-2 then presents Shi Qing less through individual policy than through institutional position. [[SangHongyangWesternHan|桑弘羊]] and other officials secure revenue, [[WangWenshuWesternHan|王温舒]] and his peers enforce harsh law, and [[NiKuanWesternHan|兒宽]] and related officials advance literary learning while major affairs do not pass through the chancellor. Shi Qing therefore survives by being “醇谨,” cautious and compliant, rather than by reasserting comprehensive ministerial direction. That remains a source-bounded portrait, not proof that the chancellorship was permanently empty of authority.
 
 ## Key Characteristics
 
-- Yushi dafu promoted to chancellor after Zhao Zhou's death.
+- Appointed yushi dafu during Zhao Zhou's chancellorship.
+- Promoted from yushi dafu to chancellor after Zhao Zhou's death.
 - Enfeoffed as Muqiu Hou on appointment.
 - Serves while fiscal, legal, and literary-policy officials exercise growing issue-specific influence.
 - Presented as cautious and compliant rather than as the decision center for major affairs.
-- Illustrates a gap between holding the highest ministerial title and controlling policy flow.
 
 ## Evidence
 
-Appointment and rank:
+Earlier appointment:
+- [[zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h|Hanji 340-2]] says Wudi appoints Shi Qing yushi dafu after Zhao Zhou becomes chancellor.
+
+Chancellorship and rank:
 - [[zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p|Hanji 353-2]] says Shi Qing is promoted from yushi dafu to chancellor and enfeoffed as Muqiu Hou.
 
 Institutional position:
@@ -39,11 +43,12 @@ Personal posture:
 
 ## Qualifications
 
-This page is bounded to one short episode and does not reconstruct Shi Qing's family background, earlier offices, complete chancellorship, policy record, or later fate. The institutional interpretation should not be generalized into a claim that every Western Han chancellor lacked authority. The episode's grouping of Sang Hongyang, Wang Wenshu, Ni Kuan, and their peers describes a distribution of influence, not a complete formal organization chart.
+This page is bounded to two short episodes and does not reconstruct Shi Qing's family background, offices before yushi dafu, complete chancellorship, policy record, or later fate. Hanji 340-2's calendrical detail and disaster figures remain source-scoped, and appointment beside a crisis does not prove responsibility for its response. Hanji 353-2's institutional interpretation should not be generalized into a claim that every Western Han chancellor lacked authority; its grouping of Sang Hongyang, Wang Wenshu, Ni Kuan, and peers is not a complete organization chart.
 
 ## What Changed
 
-- Created a source-bounded profile centered on Shi Qing's appointment and the episode's claim of practical chancellor marginalization.
+- Extended the profile backward to Shi Qing's appointment as yushi dafu during Zhao Zhou's chancellorship.
+- Clarified the career sequence from yushi dafu to a cautious chancellorship with limited policy-flow control.
 
 ## Relationships
 

@@ -20179,6 +20179,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CentralizedWuzhuCoinage": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "CentristFragmentationRunoffRisk": [
     {
       "key": "politics",
@@ -49585,6 +49592,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "KongJinWesternHan": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "KongTao": [

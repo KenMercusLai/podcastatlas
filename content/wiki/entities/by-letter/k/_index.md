@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12466
+wiki_total_pages: 12467
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -752,6 +752,9 @@ wiki_pages:
   - key: "Karhide"
     title: "卡海德 / Karhide"
     url: "/wiki/entities/karhide/"
+  - key: "KongJinWesternHan"
+    title: "孔仅 / Kong Jin (Western Han)"
+    url: "/wiki/entities/kongjinwesternhan/"
   - key: "KongZhouLateHan"
     title: "孔伷 / Kong Zhou (late Han)"
     url: "/wiki/entities/kongzhoulatehan/"

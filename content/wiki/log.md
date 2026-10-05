@@ -30381,3 +30381,11 @@ Downstream synthesis found no dirty topic and global compaction was not due; the
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？
+
+Added source `zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h`; created [[KongJinWesternHan|孔仅]] and [[CentralizedWuzhuCoinage|五铢钱中央统一铸造]]; and resynthesized [[ZhaoZhouWesternHan|赵周]], [[ShiQingWesternHan|石庆]], and [[SangHongyangWesternHan|桑弘羊]] from their complete preserved evidence inventories. Core synthesis: centralized coinage is presented as a combined system of exclusive mint authority, copper concentration, specialized production roles, and a weight-matched five-zhu standard rather than a decree alone; Zhao Zhou and Shi Qing gain earlier career stages, while Sang Hongyang's fiscal arc now begins with salt-and-iron planning, promotion, and episode-attributed mint reform advice. No settled contradiction was adopted. The fire-and-rebuilding continuation remains linked to [[ImmortalityQuestPolitics|求仙政治]] without reopening its large synthesis page; exact chronology, Three Offices functions, complete suppression of private coinage, fiscal and stability causality, “first complete centralization,” and seven-hundred-year circulation claims remain source-scoped. Transcript forms were normalized to 柏梁台, 仙人承露盘, 赵周, 赵夷吾, 孔仅, 桑弘羊, 大农丞, and 五铢钱, while the corrupt楚王刘武 form was not promoted. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,798 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

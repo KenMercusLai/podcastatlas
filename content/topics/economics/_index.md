@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2190
+topic_total_pages: 2192
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3256,6 +3256,9 @@ topic_concepts:
   - key: "ChineseFootballFinancialDiscipline"
     title: "中国足球财务纪律 / Chinese Football Financial Discipline"
     url: "/wiki/concepts/chinesefootballfinancialdiscipline/"
+  - key: "CentralizedWuzhuCoinage"
+    title: "五铢钱中央统一铸造 / Centralized Wuzhu Coinage"
+    url: "/wiki/concepts/centralizedwuzhucoinage/"
   - key: "WuzhuCoinRestoration"
     title: "五铢钱恢复 / Wuzhu Coin Restoration"
     url: "/wiki/concepts/wuzhucoinrestoration/"
@@ -5477,6 +5480,9 @@ topic_entities:
   - key: "Daxiong"
     title: "大雄"
     url: "/wiki/entities/daxiong/"
+  - key: "KongJinWesternHan"
+    title: "孔仅 / Kong Jin (Western Han)"
+    url: "/wiki/entities/kongjinwesternhan/"
   - key: "KongXiangxi"
     title: "孔祥熙"
     url: "/wiki/entities/kongxiangxi/"

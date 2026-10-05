@@ -34443,6 +34443,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/centralizedgoldenagefragility/"
     },
+    "CentralizedWuzhuCoinage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？ [ljfKh_X6jED2lWVddGyUln6hlb1H].md",
+          "key": "zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/centralizedwuzhucoinage/"
+    },
     "CentristFragmentationRunoffRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -125272,6 +125288,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/kongjiwesternhan/"
     },
+    "KongJinWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？ [ljfKh_X6jED2lWVddGyUln6hlb1H].md",
+          "key": "zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/kongjinwesternhan/"
+    },
     "KongRong": {
       "episode_count": 9,
       "show_count": 1,
@@ -193849,9 +193881,9 @@
       "url": "/wiki/entities/sandalsresorts/"
     },
     "SangHongyangWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
@@ -193901,9 +193933,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》362-1｜他被称为皇帝的钱袋子，到底有啥能耐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-362-1-ta-bei-chengwei-huangdi-de-qiandaizi-daodi-yousha-nengnai-lgt88dvezpclw47kmb-slne6kyff/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？ [ljfKh_X6jED2lWVddGyUln6hlb1H].md",
+          "key": "zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/sanghongyangwesternhan/"
     },
     "SangQianWesternHan": {
@@ -199846,9 +199885,9 @@
       "url": "/wiki/entities/shilifen/"
     },
     "ShiQingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋 [llzKSgz2RJCPyjTp1FxJDtmH8Q3P].md",
@@ -199856,9 +199895,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋",
           "url": "/wiki/sources/zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？ [ljfKh_X6jED2lWVddGyUln6hlb1H].md",
+          "key": "zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/shiqingwesternhan/"
     },
     "ShiXianWesternHan": {
@@ -247788,9 +247834,9 @@
       "url": "/wiki/entities/zhaoyun/"
     },
     "ZhaoZhouWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋 [llzKSgz2RJCPyjTp1FxJDtmH8Q3P].md",
@@ -247798,9 +247844,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋",
           "url": "/wiki/sources/zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？ [ljfKh_X6jED2lWVddGyUln6hlb1H].md",
+          "key": "zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/zhaozhouwesternhan/"
     },
     "ZhaoZiyang": {
