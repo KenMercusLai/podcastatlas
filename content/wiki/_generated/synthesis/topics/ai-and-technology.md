@@ -4,15 +4,15 @@ generated: true
 topic_id: ai-and-technology
 title: "AI and Technology"
 last_updated: 2026-10-05
-as_of_overview_commit: abc04ca8143339d4d74d8b51548da827dec174d2
-input_digest: b2f22633ad996efddf45a11a012eda0a7bea41524fa2ad7a839242a177b1bdd7
+as_of_overview_commit: 6cb83997bc6834c63fd02e53c993a935cf658857
+input_digest: 87e3ebeff498f09d3963f31c67053560e995d0e838026c9b10fa9541fcb097a5
 ---
 
 # AI and Technology
 
 ## Current State
 
-Across the bounded record, AI value depends on a coupled system rather than model capability alone: compute, power, memory, data, model routing, distribution, workflow integration, organizational change, governance, verification, and human judgment decide whether technical progress becomes reliable economic or social value. The translation addition sharpens that judgment boundary: models can automate routine linguistic work while inherited corpora reinforce path-dependent terminology, leaving contested conceptual choices to historically and normatively grounded human argument.
+Across the bounded record, AI value depends on a coupled system rather than model capability alone: compute, power, memory, data, model routing, distribution, workflow integration, organizational change, governance, verification, and human judgment decide whether technical progress becomes reliable economic or social value. DeepSeek R1 sharpens the competitive boundary: efficiency and open-weight deployment can weaken a spending-only moat and reduce some provider dependence, but they do not erase full model-factory cost, infrastructure needs, data governance, or operational risk. Translation similarly preserves a judgment boundary where routine automation does not settle contested conceptual choices.
 
 ## Cross-source Findings
 
@@ -101,15 +101,16 @@ The ICE/CODIS paragraph is an AI-and-technology edge only as data infrastructure
 
 ### Ai Scale Couples Open Models Memory And Power
 
-The GLM/Micron All-In source shows AI scale becoming a coupled capacity problem: [[GLM52]] and [[ChineseOpenWeightAIStrategy]] pressure closed frontier APIs, while [[HighBandwidthMemory]], [[MicronTechnology]], [[ModularAIDataCenters]], [[SpaceBasedAIInfrastructure]], and [[OrbitalDataCenterEconomics]] make memory bandwidth, power, cooling, site deployment, and workload latency part of model progress rather than background infrastructure.
+Open-model competition and physical capacity jointly shape AI scale: [[GLM52]] and [[DeepSeek]] strengthen [[ChineseOpenWeightAIStrategy]] through [[ScalingEfficiency]] and controlled-deployment options such as [[DataSovereignty|self-hosted data control]], while [[HighBandwidthMemory]], [[MicronTechnology]], [[ModularAIDataCenters]], [[SpaceBasedAIInfrastructure]], and [[OrbitalDataCenterEconomics]] keep memory, power, cooling, site deployment, and latency inside the capability frontier rather than outside it.
 
-**Evidence:** [[all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335]], [[GLM52]], [[ChineseOpenWeightAIStrategy]], [[HighBandwidthMemory]], [[MicronTechnology]], [[ModularAIDataCenters]], [[SpaceBasedAIInfrastructure]], [[OrbitalDataCenterEconomics]], [[GavinBaker]], [[TravisKalanick]]
+**Evidence:** [[all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335]], [[ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics]], [[GLM52]], [[DeepSeek]], [[ChineseOpenWeightAIStrategy]], [[ScalingEfficiency]], [[DataSovereignty]], [[HighBandwidthMemory]], [[MicronTechnology]], [[ModularAIDataCenters]], [[SpaceBasedAIInfrastructure]], [[OrbitalDataCenterEconomics]], [[GavinBaker]], [[TravisKalanick]]
 
 **Qualifications:**
 
 - The GLM benchmark, parameter, context-window, and licensing details remain source-scoped to the episode until checked against primary model materials.
 - Micron revenue, guidance, and sold-out supply figures are market commentary and should not be treated as audited investment data here.
 - Modular and orbital data-center claims are scenarios constrained by power contracts, cooling, permits, launch economics, latency, maintenance, and reliability.
+- The DeepSeek episode's sub-$6-million cost, benchmark parity, Nvidia market reaction, export-control effect, API-jurisdiction concern, and OpenClaw timeline remain source-scoped; efficiency qualifies rather than eliminates the value of chips and infrastructure.
 
 ### Workflow Integration Beats Capability Alone
 

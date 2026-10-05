@@ -38724,9 +38724,9 @@
       "url": "/wiki/concepts/chinesemodernistarchitectsinshanghai/"
     },
     "ChineseOpenWeightAIStrategy": {
-      "episode_count": 6,
-      "show_count": 4,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
@@ -38769,9 +38769,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+        },
+        {
+          "episode_file": "11EC80721F03A9B3BCB939F04604556D~8584411_2026-08-10-214411-8787-0-0-10.128 [11EC80721F03A9B3BCB939F04604556D~8584411_2026-08-10-214411-8787-0-0-10.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a839ebd].md",
+          "key": "ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics",
+          "show": "Data Science With Sam",
+          "title": "EP 34: DeepSeek R1 vs GPT-4: The $6M Model That Changed AI Economics",
+          "url": "/wiki/sources/ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/chineseopenweightaistrategy/"
     },
     "ChinesePremiumChocolateLocalization": {
@@ -52595,9 +52602,9 @@
       "url": "/wiki/entities/datasciencewithsam/"
     },
     "DataSovereignty": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128 [27EF88C45FEB84B417313FFFF4F07AA4~8584396_2026-08-10-213036-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83af9f].md",
@@ -52619,9 +52626,16 @@
           "show": "为 AI 发电",
           "title": "VOL.001｜从模型到记忆，AI竞争的新战场已经出现｜对话 MemVerge CEO Charles",
           "url": "/wiki/sources/lsh8sdro6i9mkt5nug4zkibv95tn/"
+        },
+        {
+          "episode_file": "11EC80721F03A9B3BCB939F04604556D~8584411_2026-08-10-214411-8787-0-0-10.128 [11EC80721F03A9B3BCB939F04604556D~8584411_2026-08-10-214411-8787-0-0-10.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a839ebd].md",
+          "key": "ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics",
+          "show": "Data Science With Sam",
+          "title": "EP 34: DeepSeek R1 vs GPT-4: The $6M Model That Changed AI Economics",
+          "url": "/wiki/sources/ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/datasovereignty/"
     },
     "DataTeamAsBusinessPartner": {
@@ -53935,6 +53949,239 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/deepnonremsleepanxietyregulation/"
+    },
+    "DeepSeek": {
+      "episode_count": 32,
+      "show_count": 12,
+      "source_note_count": 32,
+      "sources": [
+        {
+          "episode_file": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等 (1) [6685-1].md",
+          "key": "vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1",
+          "show": "枫言枫语",
+          "title": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等",
+          "url": "/wiki/sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1/"
+        },
+        {
+          "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
+          "key": "e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817",
+          "show": "硅谷101",
+          "title": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路",
+          "url": "/wiki/sources/e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817/"
+        },
+        {
+          "episode_file": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？ [1006742982].md",
+          "key": "vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982",
+          "show": "声动早咖啡",
+          "title": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？",
+          "url": "/wiki/sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982/"
+        },
+        {
+          "episode_file": "蒸馏风暴：一场无人公开谈论的技术竞赛 (1) [179-1].md",
+          "key": "zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1",
+          "show": "晚点聊 LateTalk",
+          "title": "179: 蒸馏风暴：一场无人公开谈论的技术竞赛",
+          "url": "/wiki/sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1/"
+        },
+        {
+          "episode_file": "Vol. 171 假如我们有无限 Token (1) [6682-1].md",
+          "key": "vol-171-jiaru-women-you-wuxian-token-1-6682-1",
+          "show": "枫言枫语",
+          "title": "Vol. 171 假如我们有无限 Token",
+          "url": "/wiki/sources/vol-171-jiaru-women-you-wuxian-token-1-6682-1/"
+        },
+        {
+          "episode_file": "巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？ [1005452453].md",
+          "key": "bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453",
+          "show": "声动早咖啡",
+          "title": "巴黎水和圣培露还能赚钱，雀巢为何要剥离水业务？",
+          "url": "/wiki/sources/bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453/"
+        },
+        {
+          "episode_file": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青 [lq1xnhp4MuC3iViDqhVd0Ul77QmI].md",
+          "key": "cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi",
+          "show": "42章经",
+          "title": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青",
+          "url": "/wiki/sources/cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi/"
+        },
+        {
+          "episode_file": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24 [a3884ade-4669-4d5c-ab2e-f98aa580f429].md",
+          "key": "jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429",
+          "show": "What's Next｜科技早知道",
+          "title": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24",
+          "url": "/wiki/sources/jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429/"
+        },
+        {
+          "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
+          "key": "xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1",
+          "show": "晚点聊 LateTalk",
+          "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+          "url": "/wiki/sources/xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1/"
+        },
+        {
+          "episode_file": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿 [5fd236d7-9a72-4b15-9e84-e83ceadd1b41].md",
+          "key": "e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41",
+          "show": "硅谷101",
+          "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
+          "url": "/wiki/sources/e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41/"
+        },
+        {
+          "episode_file": "姚顺雨，来到腾讯300天 (1) [176-1].md",
+          "key": "yao-shunyu-laidao-tengxun-300tian-1-176-1",
+          "show": "晚点聊 LateTalk",
+          "title": "176: 姚顺宇，来到腾讯300天",
+          "url": "/wiki/sources/yao-shunyu-laidao-tengxun-300tian-1-176-1/"
+        },
+        {
+          "episode_file": "148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子” [lg-fhgPMq4r-8L_-5_YRimxgkIms].md",
+          "key": "148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”",
+          "url": "/wiki/sources/148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims/"
+        },
+        {
+          "episode_file": "174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟 [lrS0qgmr9Gy1NbDTrSvN2Lx5dxza].md",
+          "key": "174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza",
+          "show": "起朱楼宴宾客",
+          "title": "174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟",
+          "url": "/wiki/sources/174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza/"
+        },
+        {
+          "episode_file": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步 [lvj6L_TwEuld-GvkpqURqpm4GpT2].md",
+          "key": "172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2",
+          "show": "起朱楼宴宾客",
+          "title": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步",
+          "url": "/wiki/sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2/"
+        },
+        {
+          "episode_file": "160.如何应对中国资产牛市的“调整期”｜新书分享会成都场实录 [lm8dEgDbgMGi6NnWSpjY_gDzwQfZ].md",
+          "key": "160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz",
+          "show": "起朱楼宴宾客",
+          "title": "160.如何应对中国资产牛市的“调整期”｜新书分享会成都场实录",
+          "url": "/wiki/sources/160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz/"
+        },
+        {
+          "episode_file": "152.关于2026年的四个猜想 [nhx-c5XJwaOVpaqjpuA24dIOhsAz].md",
+          "key": "152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz",
+          "show": "起朱楼宴宾客",
+          "title": "152.关于2026年的四个猜想",
+          "url": "/wiki/sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz/"
+        },
+        {
+          "episode_file": "vol.124.信息过载后如何保持冷静？ ｜ 投资账复盘 [ltPmLl0JmcW-Dl0_32QESDdwEm4L].md",
+          "key": "vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l",
+          "show": "起朱楼宴宾客",
+          "title": "vol.124.信息过载后如何保持冷静？ | 投资账复盘",
+          "url": "/wiki/sources/vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l/"
+        },
+        {
+          "episode_file": "vol.114.AI的2025和DeepSeek们的未来 ｜ 对谈复旦张奇教授 [lhVhnvQTVuV4Ln_cCKcpedgldolo].md",
+          "key": "vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo",
+          "show": "起朱楼宴宾客",
+          "title": "Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授",
+          "url": "/wiki/sources/vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo/"
+        },
+        {
+          "episode_file": "阿里千问离职余震，在几万人的铁球里如何体面生存 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [阿里千问离职余震，在几万人的铁球里如何体面生-1].md",
+          "key": "ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun",
+          "show": "科技乱炖",
+          "title": "阿里千问离职余震，在几万人的铁球里如何体面生存",
+          "url": "/wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun/"
+        },
+        {
+          "episode_file": "从QQ会员到豆包包月，中国人为什么总觉得软件该免费 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [从qq会员到豆包包月，中国人为什么总觉得软件该免-1].md",
+          "key": "cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun",
+          "show": "科技乱炖",
+          "title": "从QQ会员到豆包包月，中国人为什么总觉得软件该免费",
+          "url": "/wiki/sources/cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun/"
+        },
+        {
+          "episode_file": "编程的内燃机时代 ｜ 内核恐慌 #71 (1) [71-1].md",
+          "key": "biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1",
+          "show": "内核恐慌",
+          "title": "71. 编程的内燃机时代",
+          "url": "/wiki/sources/biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1/"
+        },
+        {
+          "episode_file": "EP57 美股动荡，东升西降？这回是走是留 [lmEiHCoQeZY-5JxQDDEOtTydSwZ5].md",
+          "key": "ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5",
+          "show": "一劳永逸",
+          "title": "EP57 美股动荡，东升西降？这回是走是留",
+          "url": "/wiki/sources/ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5/"
+        },
+        {
+          "episode_file": "EP58 业绩平平，也要认真＂摸鱼＂ [llmcb9cQw2GWq3zrIGovtkVlH55c].md",
+          "key": "ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c",
+          "show": "一劳永逸",
+          "title": "EP58 业绩平平，也要认真\"摸鱼\"",
+          "url": "/wiki/sources/ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c/"
+        },
+        {
+          "episode_file": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把-ai-吹成核武器的人，亲手拉下了新冷战铁幕-1].md",
+          "key": "ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1",
+          "show": "科技乱炖",
+          "title": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕",
+          "url": "/wiki/sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1/"
+        },
+        {
+          "episode_file": "Vol. 167 Token 如流水，Agent 似朝阳 (1) [6653-1].md",
+          "key": "vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1",
+          "show": "枫言枫语",
+          "title": "Vol. 167 Token 如流水，Agent 似朝阳",
+          "url": "/wiki/sources/vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1/"
+        },
+        {
+          "episode_file": "当华为抛出韬定律，我们该信它到哪一步？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [当华为抛出韬定律，我们该信它到哪一步？-1].md",
+          "key": "dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun",
+          "show": "科技乱炖",
+          "title": "当华为抛出韬定律，我们该信它到哪一步？",
+          "url": "/wiki/sources/dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun/"
+        },
+        {
+          "episode_file": "别在国内卷了，去美国看看只要产品好就有人付费的市场 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [别在国内卷了，去美国看看只要产品好就有人付费-1].md",
+          "key": "bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun",
+          "show": "科技乱炖",
+          "title": "别在国内卷了，去美国看看只要产品好就有人付费的市场",
+          "url": "/wiki/sources/bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun/"
+        },
+        {
+          "episode_file": "138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权 [lvjthrP5i6nloL64YOJ_JDDRa4WF].md",
+          "key": "138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权",
+          "url": "/wiki/sources/138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf/"
+        },
+        {
+          "episode_file": "vol.111.关于2025年的四个猜想 [lgaiRa5Qw1FhIc4QWIhRIMEd6q9G].md",
+          "key": "vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g",
+          "show": "起朱楼宴宾客",
+          "title": "Vol.111 关于2025年的四个猜想",
+          "url": "/wiki/sources/vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g/"
+        },
+        {
+          "episode_file": "133.全球宏观和资本市场2025年中盘点：中国的三个温差和美国的三个预期差 [lhJ_qcSwiuQSKvZn-f693VtI6Xsc].md",
+          "key": "133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc",
+          "show": "起朱楼宴宾客",
+          "title": "133.全球宏观和资本市场2025年中盘点：中国的三个温差和美国的三个预期差",
+          "url": "/wiki/sources/133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc/"
+        },
+        {
+          "episode_file": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘 [lgTuy-EszlCI5YaGUocYNdIgwmLX].md",
+          "key": "ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx",
+          "show": "42章经",
+          "title": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘",
+          "url": "/wiki/sources/ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx/"
+        },
+        {
+          "episode_file": "11EC80721F03A9B3BCB939F04604556D~8584411_2026-08-10-214411-8787-0-0-10.128 [11EC80721F03A9B3BCB939F04604556D~8584411_2026-08-10-214411-8787-0-0-10.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a839ebd].md",
+          "key": "ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics",
+          "show": "Data Science With Sam",
+          "title": "EP 34: DeepSeek R1 vs GPT-4: The $6M Model That Changed AI Economics",
+          "url": "/wiki/sources/ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/deepseek/"
     },
     "DeepTimeMentalProsthesis": {
       "episode_count": 1,
@@ -191274,6 +191521,29 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/scaleai/"
+    },
+    "ScalingEfficiency": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿 [5fd236d7-9a72-4b15-9e84-e83ceadd1b41].md",
+          "key": "e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41",
+          "show": "硅谷101",
+          "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
+          "url": "/wiki/sources/e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41/"
+        },
+        {
+          "episode_file": "11EC80721F03A9B3BCB939F04604556D~8584411_2026-08-10-214411-8787-0-0-10.128 [11EC80721F03A9B3BCB939F04604556D~8584411_2026-08-10-214411-8787-0-0-10.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a839ebd].md",
+          "key": "ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics",
+          "show": "Data Science With Sam",
+          "title": "EP 34: DeepSeek R1 vs GPT-4: The $6M Model That Changed AI Economics",
+          "url": "/wiki/sources/ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/scalingefficiency/"
     },
     "ScandalPlausibilityLegitimacyDamage": {
       "episode_count": 3,

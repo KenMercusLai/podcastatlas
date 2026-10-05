@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3318
+topic_total_pages: 3319
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9009,6 +9009,9 @@ topic_sources:
   - key: "ep-28-the-ai-revolution-redefining-healthcare-financing"
     title: "EP 28: The AI Revolution: Redefining Healthcare Financing"
     url: "/wiki/sources/ep-28-the-ai-revolution-redefining-healthcare-financing/"
+  - key: "ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics"
+    title: "EP 34: DeepSeek R1 vs GPT-4: The $6M Model That Changed AI Economics"
+    url: "/wiki/sources/ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics/"
   - key: "ep-35-who-actually-controls-ai-the-governance-gap-explained"
     title: "EP 35: Who Actually Controls AI? The Governance Gap Explained"
     url: "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"

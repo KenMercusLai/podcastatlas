@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-10-05
-as_of_overview_commit: abc04ca8143339d4d74d8b51548da827dec174d2
+as_of_overview_commit: 6cb83997bc6834c63fd02e53c993a935cf658857
 summary: "Podcast Atlas connects technology, institutions, history, markets, culture, health, work, and psychology through evidence-bounded synthesis and explicit qualifications."
-episode_count: 3724
-source_count: 3724
-paragraph_count: 789
+episode_count: 3759
+source_count: 3759
+paragraph_count: 790
 topic_count: 9
 ---
 
@@ -16,7 +16,7 @@ topic_count: 9
 
 ## Executive Summary
 
-- [[323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf|Episode 323]] sharpens the human-judgment boundary for [[AITranslation]]: models can automate routine conversion and checking while [[TranslationPathDependence]] makes them likely to repeat majority terminology, so [[ConceptualTranslationJudgment]] over liberty, rights, spirit, wealth, evolution, and revolution remains historical and normative rather than a fluency problem.
+- Open-model competition and physical capacity jointly shape AI scale: [[GLM52]] and [[DeepSeek]] strengthen [[ChineseOpenWeightAIStrategy]] through [[ScalingEfficiency]] and controlled-deployment options such as [[DataSovereignty|self-hosted data control]], while [[HighBandwidthMemory]], [[MicronTechnology]], [[ModularAIDataCenters]], [[SpaceBasedAIInfrastructure]], and [[OrbitalDataCenterEconomics]] keep memory, power, cooling, site deployment, and latency inside the capability frontier rather than outside it.
 - [[middlegarchs-are-the-new-oligarchs-32587514|The middlegarchs episode]] adds that wealthy private-business owners can combine genuine entrepreneurship and owner-specific value with [[PassThroughBusinessTaxAdvantage]] and [[DispersedBusinessElitePower]], so market analysis should separate value creation, retained after-tax income, and incumbent protection.
 - [[33-the-beautiful-game-glt5860295083|The football-history episode]] adds [[FootballAsMassCulture]]: codification, clubs, industrial leisure, commercial networks, family inheritance, media, and local appropriation can turn a game into civic and national culture, while [[SportsFandomNetworkEffects]] and [[WomensFootballVisibility]] show that durable belonging depends on repeated participation and whose traditions remain visible.
 - [[366-the-architect-of-modern-china-glt1902993082|The Deng episode]] adds a governance settlement in which [[ChineseAuthoritarianMarketReform]] joined central permission, [[LocalGovernmentPolicyExperimentation]], unequal special-zone capacity, foreign learning, and bottom-up enterprise to a non-negotiable [[ChineseCommunistParty]] monopoly; [[TiananmenCrackdown1989]] closed political liberalization under [[CulturalRevolutionGovernanceMemory]], while the 1992 southern tour restarted economic opening without political pluralism.
@@ -29,7 +29,7 @@ topic_count: 9
 
 ### AI and Technology
 
-AI value depends on infrastructure, workflow integration, governance, verification, and human judgment; translation adds a boundary between routine automation and conceptual interpretation.
+AI value depends on a coupled system of efficient models, physical infrastructure, workflow integration, governance, verification, data control, and human judgment rather than model capability or spending alone.
 
 - [[2b2e96d8aea7-2b2e96d8aea7|The Keji Luandun episode]] adds an enforcement-feasibility boundary: [[ExportControlAllianceDurability]] shows multilateral controls depending on compensation and credible burden sharing, [[AIPlatformBehavioralEnforcement]] distinguishes suspicious access signals from proof of successful distillation, and [[AIControlNuclearAnalogyLimits]] explains why copyable model weights and falling local-inference barriers make physical nonproliferation analogies incomplete. Evidence: [[2b2e96d8aea7-2b2e96d8aea7]], [[ExportControlAllianceDurability]], [[AIPlatformBehavioralEnforcement]], [[AIControlNuclearAnalogyLimits]].
 - [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|The Musk/Shotwell All-In source]] adds a Musk-ecosystem stack claim: [[SpaceX]] is framed as execution culture plus infrastructure stack, with [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], and [[Terafab]] connecting AI safety review, orbital compute, direct-to-cell satellites, reusable launch, and chip-supply security into one source-scoped operating thesis. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]], [[SpaceX]], [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], [[Terafab]], [[GwenShotwell]], [[ElonMusk]].

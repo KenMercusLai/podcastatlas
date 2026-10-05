@@ -2,104 +2,104 @@
 title: "DeepSeek"
 type: entity
 tags: [company, model, open-source-ai]
-sources: [vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1, e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982, zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, vol-171-jiaru-women-you-wuxian-token-1-6682-1, bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453, cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi, jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41, yao-shunyu-laidao-tengxun-300tian-1-176-1, 148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims, 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l, vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc, ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]
-last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
+sources:
+  - vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1
+  - e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817
+  - vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982
+  - zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1
+  - vol-171-jiaru-women-you-wuxian-token-1-6682-1
+  - bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453
+  - cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi
+  - jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429
+  - xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1
+  - e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41
+  - yao-shunyu-laidao-tengxun-300tian-1-176-1
+  - 148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims
+  - 174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza
+  - 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2
+  - 160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz
+  - 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz
+  - vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l
+  - vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo
+  - ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun
+  - cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun
+  - biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1
+  - ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5
+  - ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c
+  - ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1
+  - vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1
+  - dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun
+  - bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun
+  - 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf
+  - vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g
+  - 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc
+  - ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx
+  - ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics
+last_updated: 2026-10-05
 ---
 
 # DeepSeek
 
-[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds a local-agent execution case. [[Dongxu]] says he runs a source-named DeepSeek V4 Flash locally on a Mac Studio at roughly 30 tokens per second and uses it for repeated summaries, article-memory work, and batch paper processing. The episode treats this as a shift in [[AIInferenceCostStructure]]: local or open models reduce both marginal cost and the psychological hesitation around long agent tasks.
+## Overview
+DeepSeek is a Chinese AI lab and open-weight model family that became a major reference point for reasoning models, constrained-compute engineering, model-infrastructure co-design, low-cost inference, and Chinese AI competition.
 
-[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds DeepSeek as a geopolitical update trigger. [[DavidSacks|David Sacks]] says the DeepSeek release made Western observers take Chinese AI capabilities more seriously, placing the company inside [[AmericanAIStackStrategy]], [[ChineseOpenWeightAIStrategy]], and [[USChinaAIMacroAsymmetry]] rather than only cost, model-distillation, or open-model debates.
+## Current Profile
+Across the bounded sources, DeepSeek is significant less as a single cheap-model headline than as a combined technical, ecosystem, and market event. R1 and V3-era releases made architecture, sparse models, reinforcement learning, distillation, open releases, inference optimization, and constrained-resource engineering visible to a broad audience. They also forced investors, model labs, infrastructure projects, Chinese technology companies, and enterprise buyers to reconsider whether access to the largest compute budget creates a durable moat by itself.
 
-[[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds DeepSeek as both a distillation teacher and accusation target. The source treats the January 2025 R1 release and its six small distilled models, based on Qwen 2.5 and Meta Llama 3 foundations, as a key reason industry attention shifted from compression distillation toward capability distillation; it also says [[OpenAI]] and [[Anthropic]] raised suspicions about DeepSeek while not presenting complete public proof.
+The current judgment remains qualified. Reported training costs do not capture the full model factory, open weights do not expose every dataset or process, and public distillation accusations remain unproven in the source set. DeepSeek's later pricing, local-use, routing, and harness examples show a normalizing provider: it must fund inference, compete on quality and reliability, support infrastructure, and coexist with other models rather than remain a one-time geopolitical symbol.
 
-[[bali-shui-he-shengpeilu-hai-neng-zhuanqian-quechao-weihe-yao-boli-shui-yewu-1005452453]] adds a price-increase signal. The source says DeepSeek announced on August 6 that it planned to raise API service prices substantially, while already using peak/off-peak pricing. In the wiki, this extends [[AICommercializationPressure]] and [[AIInferenceCostStructure]]: a model provider can win adoption through low cost, but production serving still has to fund compute, demand peaks, and future model releases.
+## Key Characteristics
+- Efficiency-oriented model engineering can change capability per unit of compute and weaken a simple spending-only moat.
+- Open releases spread technical learning, downstream deployment, inference-engine work, and ecosystem adoption beyond the original lab.
+- DeepSeek is both a technical actor and a market/geopolitical signal affecting China-tech narratives, U.S. AI valuation, and export-control debates.
+- Real-world use increasingly depends on routing among hosted, local, cheap, and frontier models rather than choosing one permanent provider.
+- The model family's influence includes architecture, post-training, distillation practice, and model-infrastructure co-design, not only price.
+- Enterprise deployment retains trust, provenance, jurisdiction, safety, and data-control constraints even when weights can be self-hosted.
 
-[[vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982]] adds [[DeepSeekHarness]] as an agent-infrastructure release. The source says DeepSeek Harness developer preview launched on 2026-08-13 as a plugin-oriented scheduling system connecting models and agent task execution.
+## Evidence
+### Efficiency, architecture, and model-infrastructure co-design
+- [[vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo]] treats DeepSeek as an engineering-efficiency and MoE cost-structure shock while preserving post-training and statistical-model limits.
+- [[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] uses Multi Latent Attention to argue that architecture and constrained-resource innovation matter alongside distillation.
+- [[148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims]] presents DeepSeek as a major vLLM catalyst and a strong [[ModelInfraCoDesign]] case.
+- [[ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics]] records the broad-industry efficiency shock while keeping the reported cost and benchmark comparison source-scoped.
 
-[[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] adds [[MengFanqing|孟繁青]]'s domestic-model competition view. The source uses DeepSeek's Multi Latent Attention as an example of constrained-resource architecture innovation, and argues that [[ModelDistillation]] may accelerate Chinese model catch-up but is not the decisive cause of DeepSeek-style progress.
+### Open ecosystem and technical diffusion
+- [[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] uses R1-style openness to distinguish legitimate reuse from unsupported copying claims and to connect model progress with [[ScalingEfficiency]].
+- [[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]] says open releases spread architectural learning while weakening the originating lab's exclusive data flywheel.
+- [[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] documents R1's distilled-model influence and separates public suspicion from complete evidence.
+- [[vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982]] adds the later [[DeepSeekHarness]] developer-preview branch.
 
-[[jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429]] adds an outside infrastructure-builder's respect for DeepSeek. [[JiaYangqing|Jia Yangqing]] treats DeepSeek as impressive partly because High-Flyer / 幻方量化 invested in serious [[GPU]] infrastructure before the large-model wave looked commercially obvious.
+### Cost, routing, and local execution
+- [[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] shows peak/off-peak API pricing turning DeepSeek into a normal routing decision rather than an always-cheapest default.
+- [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] gives a source-scoped local-model workflow for batch summaries, memory work, and repeated processing.
+- [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] and [[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] place DeepSeek inside cost-aware routing among frontier, local, and cheaper models.
 
-[[xiangjie-kimi-k3-qiangdao-chongji-anthropic-guzhi-de-moxing-shenmeyang-1-177-1]] adds DeepSeek as a technical comparison point for [[KimiK3|Kimi K3]], especially around [[MixtureOfExperts|MoE]] routing and post-training. The source contrasts K3's [[QuantileBalancing]] with DeepSeek V3-style bias updates, and it mentions DeepSeek-style post-training recipes in the broader [[MOPDPostTraining|MOPD]] and [[ModelDistillation]] discussion.
+### Organizational, geopolitical, and market effects
+- [[yao-shunyu-laidao-tengxun-300tian-1-176-1]] describes DeepSeek's breakout as an organizational shock that helped [[Tencent]] reconsider its frontier-model team.
+- [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] and [[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] connect DeepSeek to AI-capex doubt, U.S. technology valuation, and China-tech repricing.
+- [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] places it in the open-model substitution response to access restrictions and export controls.
+- [[bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]] provides a source-scoped cross-border adoption signal based on cost and utility.
 
-[[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] adds DeepSeek as the comparison point for the [[ModelDistillation]] debate around [[KimiK3|Kimi K3]]. The source says DeepSeek R1-style openness makes distillation more legitimate when outputs, data artifacts, or logits are explicitly reusable, and it uses DeepSeek to show why open-model progress should be evaluated through technique, data, RL, infrastructure, and [[ScalingEfficiency]] rather than one copying accusation.
+## Qualifications
+- The sub-$6-million R1 figure is not a verified full-cost accounting and may exclude prior research, data, labor, capital expense, failed runs, post-training, and deployment.
+- Benchmark parity in one source does not establish equal reliability, safety, latency, task coverage, or enterprise readiness.
+- Distillation is a standard technique, but the bounded sources do not prove public accusations about unauthorized DeepSeek use of closed-model outputs.
+- Several later model and product names, prices, timelines, and performance reports come from podcast hosts and may contain transcription or rumor-level uncertainty.
+- Self-hosting open weights can reduce API data exposure but does not remove provenance, security, censorship, compliance, or operational risk.
 
-[[yao-shunyu-laidao-tengxun-300tian-1-176-1]] adds DeepSeek as an organizational shock to [[Tencent]]. The source says DeepSeek's 2025 breakout made Tencent executives more willing to question whether older search, advertising, and recommendation teams could carry frontier-model competition, creating the opening for [[YaoShunyu]] to rebuild [[TencentHunyuan]] with younger research talent and stronger executive sponsorship.
+## What Changed
+- R1's place in the profile is now explicitly an efficiency and expectation shock, not validation of one headline cost figure.
+- Enterprise self-hosting is now distinguished from sending sensitive queries to a provider-controlled API.
+- The current profile more clearly separates DeepSeek's open artifact and ecosystem effects from the full, still partly opaque model-development process.
 
-[[174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza]] adds [[ChaSheng]]'s model-team view of DeepSeek. He treats DeepSeek's open releases as surprising and strategically important because they share architectural and algorithmic advances while also giving competitors and downstream builders a faster path to learn from the work. The source uses DeepSeek to sharpen the tradeoff between [[OpenSourceAIModels]] and the closed-product [[AIDataFlywheel]].
-
-[[148-dui-you-kaichao-3-xiaoshi-fangtan-kaiyuan-infra-he-moxing-co-design-ruguo-vllm-shibai-women-hui-houhui-yibeizi-lg-fhgpmq4r-8l-5-yrimxgkims]] adds [[YuKaichao|游凯超]]'s inference-infrastructure view. He treats DeepSeek as a major 2025 open-model catalyst for the [[VLLM|vLLM]] community and says its infra team shows unusually strong [[ModelInfraCoDesign]] capacity around [[MixtureOfExperts|MoE]], inference optimization, and model-serving efficiency.
-
-[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds DeepSeek as the model side of Ricky's China domestic-substitution map. In the source, DeepSeek is not primarily a technical case; it is a future market signal that could connect Chinese AI application demand, autonomous data-security logic, and domestic AI infrastructure to [[ChinaEquityStructuralSelection]].
-
-[[160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz]] adds DeepSeek as the second China-asset catalyst after the 2024-09-24 policy turn. [[DavidWeng|大卫翁]] treats the 2025 DeepSeek moment less as a narrow model-company topic than as evidence that China remained in the same technology-competition lane, helping explain why Chinese technology and broader China assets could be repriced despite low global trust.
-
-[[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] adds DeepSeek as the analogy for a possible foreign-investor China trigger. The source argues that Western investors may need a "DeepSeek moment" for China assets: a concrete event that forces them to update stale narratives captured by [[WesternChinaMisreading]] and [[ChinaNarrativeSplit]].
-
-DeepSeek appears in [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]] as a peer reference point for [[Qwen]]. The hosts describe Qwen and DeepSeek as especially important Chinese [[OpenSourceAIModels]], using DeepSeek to situate Qwen's reputation and ecosystem contribution.
-
-In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun]], DeepSeek appears as a domestic alternative that may shape [[Doubao]]'s pricing room. The hosts treat it as part of the substitute set users and products can turn to if Doubao's paid tier does not feel worth the price.
-
-[[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds DeepSeek as a timing and international-impact marker. The hosts place the recording just after DeepSeek's open-source week and mention [[AlephAlpha]]'s view that DeepSeek may not be a purely groundbreaking innovation but still has substantial ecosystem impact.
-
-[[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] adds DeepSeek as a market-repricing catalyst. [[LaoMai]] argues that the important effect is not a simple one-company negative for [[Nvidia]], but a broader investor question: whether other AI companies' heavy spending will produce enough returns and whether Chinese technology assets deserve higher valuation after the model shock.
-
-[[ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c]] adds a practical workplace-use case. [[MagicJack]] uses DeepSeek to review and improve a student's composition, while the hosts use AI transcription, editing, title drafting, meeting notes, and visual-summary tools to argue that AI can create more room for [[WorkplacePacing]] only when people still apply [[HumanJudgmentUnderAI]].
-
-[[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds DeepSeek to the model-substitution side of [[AIExportControls]]. The hosts argue that if closed frontier models become unreliable because of [[FrontierModelAccessRestrictions]], many users and companies may choose cheaper, good-enough, local, or open alternatives, with DeepSeek and [[GLM52]] as examples in that ecosystem.
-
-[[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds DeepSeek as a cost-control alternative in heavy AI use. The hosts mention DeepSeek, Kimi, and local models as cheaper or more controllable options when unconstrained [[Codex]], [[ClaudeCode]], or API use becomes too expensive.
-
-[[dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun]] uses DeepSeek as an analogy for engineering optimization under cost and resource pressure. The hosts compare DeepSeek's pricing and cost-structure story with [[Huawei]]'s [[TauLaw]] narrative to argue that competition is not always won only by the most raw compute or the most advanced process node; method, caching, utilization, architecture, and system integration can change the economic field.
-
-[[bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]] adds DeepSeek as a cross-border adoption signal. [[Win]] says U.S. founders were using Chinese models such as DeepSeek and Kimi when the cost and performance fit, suggesting that practical utility can weaken nationality-first assumptions inside technical communities.
-
-[[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] adds DeepSeek as part of [[LuoFuli]]'s background and as a marker in the post-training shift through the source's discussion of R1-era reasoning. The episode uses that history to frame [[AgentPostTraining]] and agent-framework competition rather than to analyze DeepSeek as a company.
-
-[[vol-111-guanyu-2025-nian-de-si-ge-caixiang-lgaira5qw1fhic4qwihrimed6q9g]] adds DeepSeek as an AI example inside [[ChinaDivergentTechnologyRoute]]. The source mentions it as a possible signal that Chinese AI model development may also move along a different route, while keeping that claim speculative rather than a completed industry verdict.
-
-[[vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo]] turns that speculative signal into the episode's immediate 2025 catalyst. [[ZhangQi|张奇]] treats DeepSeek as important for engineering efficiency, MoE-style cost structure, and public AI enthusiasm, but argues that it still sits inside the [[LLMStatisticalBoundary]] and does not remove the [[ModelPostTrainingBottleneck]] that makes frontier behavior expensive to reproduce.
-
-[[vol-124-xinxi-guozai-hou-ruhe-baochi-lengjing-touzi-zhang-fupan-ltpmll0jmcw-dl0-32qesddwem4l]] adds DeepSeek as a market-narrative catalyst rather than a technical subject. [[DavidWeng|大卫翁]] says first-quarter 2025 gains in [[Tencent]], [[Alibaba]], and other China internet assets were helped by DeepSeek and AI repricing, even where the prior investment thesis had emphasized shareholder returns and buybacks.
-
-[[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] adds DeepSeek to the U.S.-market side of the story. The source treats DeepSeek as one reason investors questioned U.S. AI commercialization, compute demand, and mega-cap technology valuation, making it part of [[US2025ExpectationGaps]] as well as [[HongKongTechRepricing]].
-
-[[ai-fazhanle-4-nian-ba-yingyong-fazhan-meile-ai-nianzhong-fupan-lgtuy-eszlci5yaguocyndigwmlx]] adds DeepSeek as both a 2025 heat-renewal event and a chat-stage marker. [[QuKai]] says DeepSeek and [[Manus]] helped renew model and application enthusiasm after worries about scaling limits, while [[TangJie]]'s cited letter treats DeepSeek R1 as a transition point from chat exploration toward coding and reasoning.
-
-[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds DeepSeek as another cost-aware model option in the hosts' heavy AI workflow. The episode's abundant-token frame does not erase cost or routing constraints; DeepSeek remains part of the practical alternative set when tasks can trade frontier subscription polish for cheaper, local, or more controllable model capacity.
-
-[[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] adds the practitioner reaction to [[PeakValleyAIInferencePricing]]. The hosts still value DeepSeek for cheap Chinese text processing, translation, and summaries, but the episode says peak/off-peak pricing and a less exciting V4 Pro release make users recalculate cost, quality, timing, and substitution through [[ModelRoutingCostControl]] rather than assuming DeepSeek is always the default cheap choice.
-
-## Connections
-- [[DeepSeekHarness]] and [[AgentHarness]] - developer-preview harness branch added by 声动早咖啡.
-- [[AmericanAIStackStrategy]], [[ChineseOpenWeightAIStrategy]], and [[AIPlatformEcosystemDiffusion]] - January 23 All-In branch on Chinese capability as a U.S. policy wake-up signal.
-- [[UnlimitedTokenWorkflow]], [[AIInferenceCostStructure]], [[ModelRoutingCostControl]], [[Kimi]], and [[OpenRouter]] — Vol. 171's DeepSeek branch inside abundant-token but still route-sensitive AI work.
-- [[PeakValleyAIInferencePricing]], [[OpenRouter]], [[Kimi]], and [[AISubscriptionEconomics]] — Vol. 172's peak/off-peak price-window and substitution branch.
-- [[MengFanqing]], [[EvolventAI]], [[ModelDistillation]], [[Kimi]], and [[ChineseOpenWeightAIStrategy]] — Evolvent AI source branch on domestic model progress as architecture, data, and organization rather than only distillation.
-- [[Qwen]] — compared as another prominent Chinese open-source model effort.
-- [[OpenSourceAIModels]] — broader category for model ecosystem influence.
-- [[AICommercializationPressure]] — pressure that open-source model efforts may face as costs and expectations rise.
-- [[Doubao]] and [[Yuanbao]] — domestic AI assistant competition and model-routing context.
-- [[ProductLedWillingnessToPay]] — substitute quality affects whether users pay.
-- [[AlephAlpha]] and [[EuropeanAIIndustrialConstraints]] — European AI comparison added by the Neihe Konghuang episode.
-- [[AIEquityValuationRisk]], [[Nvidia]], and [[HongKongTechRepricing]] — EP57's market-pricing and China-tech allocation context.
-- [[WorkplacePacing]] and [[HumanJudgmentUnderAI]] — EP58's everyday productivity and final-judgment context.
-- [[AIExportControls]], [[FrontierModelAccessRestrictions]], [[GLM52]], and [[SaaSReliabilityUnderPolicyRisk]] — policy-driven substitution context added by the Keji Luandun export-control episode.
-- [[AIInferenceCostStructure]] and [[ModelRoutingCostControl]] — cost-driven substitution context added by Vol. 167.
-- [[Huawei]], [[TauLaw]], and [[ConstraintDrivenEngineeringStrategy]] — engineering-optimization analogy added by the Huawei source.
-- [[PaymentLedMarketSelection]] and [[Win]] — overseas-market episode where DeepSeek is treated as a practical Chinese AI export rather than only a domestic substitute.
-- [[LuoFuli]], [[AgentPostTraining]], and [[Xiaomi]] — episode 138's link from DeepSeek background to agent-era model training.
-- [[ChinaDivergentTechnologyRoute]] — vol.111's broader technology-route frame.
-- [[ZhangQi|张奇]], [[LLMStatisticalBoundary]], [[ModelPostTrainingBottleneck]], and [[ScenarioSpecificAI]] — vol.114's academic interpretation of the DeepSeek breakout.
-- [[Tencent]], [[Alibaba]], [[HongKongTechRepricing]], and [[DefensiveDividendAssets]] — vol.124's market-narrative and shareholder-return context.
-- [[US2025ExpectationGaps]], [[USMegaCapTechRightSideTrade]], and [[AIEquityValuationRisk]] — episode 133's U.S. technology-valuation stress-test context.
-- [[TangJie]], [[ZhipuAI]], [[AIApplicationMarketTrough]], and [[ModelProviderToolCompetition]] — 42章经's chat-to-coding and model/application market-rotation frame.
-- [[ChaSheng]], [[AmazonAGI]], [[OpenSourceAIModels]], and [[AIDataFlywheel]] - Qizhulou Yan Binke's open-model strategy and data-loop interpretation.
-- [[VLLM|vLLM]], [[YuKaichao|游凯超]], [[ModelInfraCoDesign]], [[OpenSourceAIInfrastructure]], and [[MixtureOfExperts|MoE]] - inference-engine and co-design branch added by episode 148.
-- [[Tencent]], [[TencentHunyuan]], [[YaoShunyu]], and [[FederatedAIOrganization]] - Tencent organizational-rethink branch added by LateTalk episode 176.
-- [[KimiK3]], [[QuantileBalancing]], [[MOPDPostTraining]], and [[ModelDistillation]] - K3 technical comparison branch added by LateTalk episode 177.
-- [[Qwen]], [[AICommercializationPressure]], [[AIInferenceCostStructure]], and [[ModelRoutingCostControl]] - API pricing and model-choice branch added by the later 声动早咖啡 source.
-- [[Dongxu]], [[LocalAgentExecution]], and [[TokenEfficientAgentWorkflow]] — E249's local DeepSeek workflow and routing example.
-- [[O1]], [[ModelDistillationEvidence]], [[AIModelDistillationGovernance]], [[Anthropic]], and [[OpenAI]] - LateTalk episode 179's R1/distilled-model and accusation branch.
+## Relationships
+- [[ChineseOpenWeightAIStrategy]] - strategic context for downloadable weights, adoption, and geopolitical accessibility.
+- [[ScalingEfficiency]] - engineering frame for capability per unit of compute and cost.
+- [[ModelInfraCoDesign]] - relationship between DeepSeek architectures and serving infrastructure.
+- [[OpenSourceAIModels]] - broader ecosystem category that DeepSeek helps shape.
+- [[ModelDistillation]] - technical method and contested provenance issue associated with R1-era progress.
+- [[AIInferenceCostStructure]] - economics behind local use, API pricing, and routing.
+- [[AIExportControls]] - policy pressure that can constrain hardware while inducing alternative engineering routes.
+- [[DataSovereignty]] - enterprise deployment concern separating hosted API use from controlled inference.
+- [[Nvidia]] - compute supplier and market symbol affected by the R1 efficiency narrative.

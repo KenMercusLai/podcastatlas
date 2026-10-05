@@ -274,14 +274,14 @@
       "earliest_episode_date": "2021-09-28",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "4d1e8e91-dc72-5aa2-a3db-908d1ddbf395 [4d1e8e91-dc72-5aa2-a3db-908d1ddbf395.mp3？session_id=87f4fccf-c92f-53ac-9f91-021c9c.com⧸data-science-with-sam-podcast⧸2026_09_21_02_36_59_3a2d1f18-5e20-4913-8020-e0e857ab626e].md",
-      "source_note_count": 36,
-      "topic_matched_source_note_count": 27,
+      "source_note_count": 37,
+      "topic_matched_source_note_count": 28,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 24
+          "source_note_count": 25
         },
         {
           "key": "science",

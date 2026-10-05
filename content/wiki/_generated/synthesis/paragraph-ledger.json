@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3376025cac4c5300d021b3316518ad84e963fd700c97cdd33842d6267bce9b62",
       "3aa71b118c2a41090e9e53e86e342bfd093bd5fe1f55a0e3f9c13be582cc34dd",
       "ad09ba789281afb51502b7a10fd1709572d10ff6bc6decf2f3eb859cbf0a445c",
       "e2c679065a3f47a51a4acd3c0b83d2bd8f67a84416ad48cd912b5bd311632cf3",
@@ -791,11 +792,31 @@
       "30dab5d9a3dbe5a1852603c018045e5063833f4e7647d6399d3386f189f53928",
       "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61"
     ],
-    "paragraph_count": 789
+    "paragraph_count": 790
   },
-  "overview_commit": "b7293290803926ad4d2a28d7218e8e516eea4482",
-  "overview_digest": "12bdd894aa7d752b8efc8e4c7e1578a4e24ccc57049dadad32374f64144d6af8",
+  "overview_commit": "6cb83997bc6834c63fd02e53c993a935cf658857",
+  "overview_digest": "c359daef3d7cefa4783915fa66940efbd919b4e745ad5943c7d4d5f40f26d947",
   "paragraphs": [
+    {
+      "id": "3376025cac4c5300d021b3316518ad84e963fd700c97cdd33842d6267bce9b62",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics|EP 34: DeepSeek R1 vs GPT-4: The $6M Model That Changed AI Economics]], a [[DataScienceWithSam]] explainer on [[DeepSeek]] R1 as an efficiency shock. It resynthesizes [[ScalingEfficiency]], [[ChineseOpenWeightAIStrategy]], and [[DataSovereignty]] while migrating DeepSeek to the synthesis-first entity schema. Its core synthesis is that architecture, training technique, utilization, and open-weight deployment can weaken a spending-only compute moat without making chips or full model-factory cost irrelevant; self-hosting can reduce provider-side data exposure without eliminating provenance, security, compliance, or operational risk. No settled contradiction is adopted. The reported sub-$6-million training cost, benchmark parity, Nvidia market-cap loss, export-control effect, API jurisdiction, OpenClaw integration timeline, and future model claims remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1,
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "ChineseOpenWeightAIStrategy",
+        "DataScienceWithSam",
+        "DataSovereignty",
+        "DeepSeek",
+        "ScalingEfficiency",
+        "ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics"
+      ]
+    },
     {
       "id": "3aa71b118c2a41090e9e53e86e342bfd093bd5fe1f55a0e3f9c13be582cc34dd",
       "primary_topic": "ai-and-technology",

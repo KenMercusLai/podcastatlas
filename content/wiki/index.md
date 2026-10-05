@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 34: DeepSeek R1 vs GPT-4: The $6M Model That Changed AI Economics](sources/ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics.md) — Data Science With Sam explainer on DeepSeek R1's efficiency shock, open-weight deployment, compute-moat pressure, export controls, and enterprise data sovereignty.
 - [The Best Vitality & Health Protocols | Dr. Rhonda Patrick](sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395.md) — Huberman Lab interview on exercise, adaptive stress, meal timing, visceral fat, inflammation, and evidence-bounded supplement priorities.
 - [Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN](sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175.md) — All-In GTC interviews connecting specialized GPU finance, multi-model computer use, portable enterprise AI, and energy-to-compute data-center buildout.
 - [《资治通鉴·汉纪》358-1｜深度拆解司马相如](sources/zizhi-tongjian-hanji-358-1-shendu-chaijie-simaxiangru-lg5xoqse-j7_hoap-kquae7-uf-h.md) — 以“情圣／渣男”、文学楷模与求官争议并置司马相如，并把其早期侍从经历、读书偏好和梁孝王文士圈还原为辞赋成长背景。
@@ -15602,7 +15603,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cursor](entities/Cursor.md) — AI coding environment grouped with Codex and Claude Code as a practical agent tool.
 - [Danny Jenkins](entities/DannyJenkins.md) — ThreatLocker founder discussing zero trust cybersecurity, default-deny controls, MSP distribution, and startup survival.
 - [大雄](entities/Daxiong.md) — YiLaoYongYi guest framing market turmoil through cycle risk, mean reversion, yield-curve inversion, and Fed policy ambiguity.
-- [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited through Qwen comparison, pricing substitution, market repricing, cost-control, export-control context, and Luo Fuli's earlier background.
+- [DeepSeek](entities/DeepSeek.md) — Chinese open-weight model lab profiled through R1's efficiency shock, architecture and infrastructure co-design, ecosystem diffusion, routing economics, and geopolitical market effects.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
 - [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as a market-policy variable, Venezuela oil-reopening actor, political-influence monetization case, alliance shock, executive-power precedent test, and Fed-independence pressure actor.
@@ -19717,7 +19718,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Data Foundation-First AI Strategy](concepts/DataFoundationFirstAIStrategy.md) — Enterprise AI strategy frame where ownership, governance, data modeling, and business alignment must precede dashboards, connectors, and agents.
 - [Mid-Market Data Talent Gap](concepts/MidMarketDataTalentGap.md) — Mismatch between smaller companies' need for data/AI capability and their ability to afford or retain senior data teams and tooling.
 - [Data Team as Business Partner](concepts/DataTeamAsBusinessPartner.md) — Operating model where data teams combine guardrails with business-user exploration so analytics can shape decisions.
-- [Data Sovereignty](concepts/DataSovereignty.md) — Company-specific control over governed, secure, fit-for-purpose data as a durable AI-era strategic asset.
+- [Data Sovereignty](concepts/DataSovereignty.md) — Practical control over governed data, provider and jurisdiction exposure, lifecycle rights, and hosted-versus-controlled AI inference.
 - [AI Inevitability Responsibility Evasion](concepts/AIInevitabilityResponsibilityEvasion.md) — Governance failure mode where AI actors call risky trajectories inevitable and thereby obscure current human responsibility.
 - [Algorithmic Trust Migration](concepts/AlgorithmicTrustMigration.md) — Shift of practical trust from human institutions into algorithmic systems that rank, filter, transact, advise, or decide.
 - [Mass-Produced AI Intimacy](concepts/MassProducedAIIntimacy.md) — Scalable AI-generated emotional attachment used as a political, commercial, or social persuasion surface.
@@ -21303,7 +21304,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Model Distillation / 模型蒸馏](concepts/ModelDistillation.md) — Technique and controversy split that distinguishes classic distillation from generated-output training, terms violations, and unsupported copying accusations.
 - [Model Distillation Evidence](concepts/ModelDistillationEvidence.md) — Evidence standard for judging distillation claims through behavior, provenance, and traffic signals rather than model self-identification.
 - [Model Identity Data Pollution / 模型身份数据污染](concepts/ModelIdentityDataPollution.md) — Evidence-quality warning that model self-identification errors can come from mixed public AI-output data rather than proving systematic distillation.
-- [Scaling Efficiency](concepts/ScalingEfficiency.md) — Model-development pressure to improve capability per unit of compute, latency, and cost under constrained resources.
+- [Scaling Efficiency](concepts/ScalingEfficiency.md) — Model-development pressure to improve capability per unit of compute, total cost, energy, latency, and deployment effort.
 - [Open-Weight Commercial Licensing](concepts/OpenWeightCommercialLicensing.md) — Business model where open weights remain broadly usable while high-revenue hosted model services owe commercial terms or certification.
 - [Closed Model API Moat Pressure](concepts/ClosedModelAPIMoatPressure.md) — Business-model stress on closed frontier labs when strong open-weight models compress token prices and weaken intelligence scarcity.
 - [Model Sovereignty / 模型主权](concepts/ModelSovereignty.md) — Enterprise and institutional need for model control, local deployability, continuity, and reduced dependence on a closed provider API.
@@ -21382,7 +21383,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Prefix Caching](concepts/PrefixCaching.md) — Reuse of stable prompt prefixes in inference, especially important for coding-agent harnesses with repeated context.
 - [Test-Time Scaling](concepts/TestTimeScaling.md) — Spending more inference compute through repeated sampling, long thinking tokens, or agent-environment loops.
 - [Hardware Lottery](concepts/HardwareLottery.md) — Model-design risk that algorithms survive only when they fit available accelerators, memory, and communication systems.
-- [Chinese Open-Weight AI Strategy](concepts/ChineseOpenWeightAIStrategy.md) — Chinese model-release strategy using deployable weights, cost, local control, technical credibility, and policy-delay pressure against closed frontier APIs.
+- [Chinese Open-Weight AI Strategy](concepts/ChineseOpenWeightAIStrategy.md) — Chinese model-release strategy combining deployable weights, efficiency, local control, technical credibility, and geopolitical access pressure against closed frontier APIs.
 - [Enterprise Resource Planning](concepts/EnterpriseResourcePlanning.md) — ERP as the backend business-process system coordinating finance, people, materials, procurement, orders, suppliers, payments, and audit-critical data.
 - [ERP Trust Moat](concepts/ERPTrustMoat.md) — Defensibility of ERP systems rooted in governed processes, trusted data, compliance, localization, auditability, and industry know-how rather than code alone.
 - [Autonomous Enterprise](concepts/AutonomousEnterprise.md) — SAP's bounded agent-era vision of moving enterprise software from recording activity toward executable workflows with human review.

@@ -30069,3 +30069,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | EP 34: DeepSeek R1 vs GPT-4: The $6M Model That Changed AI Economics
+
+Added source `ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics`; resynthesized [[DeepSeek]], [[ScalingEfficiency]], [[ChineseOpenWeightAIStrategy]], and [[DataSovereignty]] from their complete preserved evidence inventories; and migrated DeepSeek and Scaling Efficiency to the synthesis-first schema. Core synthesis: DeepSeek R1 is an efficiency and expectations shock that weakens a spending-only compute moat without proving one headline training-cost figure or making chips, infrastructure, post-training, and the full model factory irrelevant. Self-hosted open weights can reduce provider-side data and jurisdiction exposure without eliminating provenance, security, compliance, or operational risk. No settled contradiction was adopted. The sub-$6-million cost, benchmark parity, Nvidia market-cap loss, export-control effect, API-law implications, OpenClaw integration timeline, and future releases remain source-scoped. Downstream synthesis updated the stable open-model-and-capacity claim, compacted the global map because its material-candidate gate was due, and rendered 790 overview paragraphs across nine topics.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
