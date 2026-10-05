@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-06] ingest | 《资治通鉴·汉纪》332-2｜大汉丞相李蔡之死，究竟有没有黑幕
+
+Added source `zizhi-tongjian-hanji-332-2-dahan-chengxiang-licai-zhisi-jiujing-youmeiyou-heimu-loyre4ghvm3zcp-jxez9k26du8oj`; created [[LiCaiWesternHan|李蔡]]; and resynthesized [[DisasterOmenCrisisRedirection|灾异压力转移]] from its complete preserved four-source inventory. Core synthesis: the episode distinguishes a disaster-politics convention, in which a chancellor may absorb Heaven-human responsibility through illness and resignation, from Li Cai's stated terminal case, in which he appropriates and sells land adjoining an honorable burial grant, is removed and imprisoned, and dies by suicide. No settled contradiction was adopted. The Yuanshuo date conversion, resettlement total and destinations, Wei Hong attribution, land units and valuation, buyer identity, statutory offense, likely sentence, suicide mechanics, Li Cai's motives and competence, Han Wudi's emotions, any causal link between nonresignation and prosecution, and any deeper “黑幕” remain source-scoped. The broad Han Wudi, Gongsun Hong, and Li Guang pages were read for context but not changed because this bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,811 sources across 796 overview paragraphs and nine topics.
+
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？
 
 Added source `zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1`; created [[YanYiWesternHan|颜异]]; resynthesized [[ZhangTangWesternHan|张汤]] and [[DirectRemonstranceCriminalization|直谏入罪]] from their complete preserved evidence inventories; and migrated [[JiaYi|贾谊]] to synthesis-v1 from its complete two-source inventory. Core synthesis: Yan's earlier fiscal objection is distinct from the terminal case, where silence and “微反唇” are used to infer inward defamation; the result is a no-safe-channel feedback trap in which both direct criticism and restraint can be punished. The supplied “严义” is normalized to 颜异 from the distinctive “异不应，微反唇” and 腹诽 account. No settled contradiction was adopted. The exact legal status and later use of 腹诽, currency mechanics, chronology, offices, trial procedure, motives, Sima Qian's intended target, and the scale of the chilling effect remain source-scoped. Broad [[HanWudi|汉武帝]] and [[SimaQian|司马迁]] pages were read for context but not reopened because this bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,809 sources across 796 overview paragraphs and nine topics.
@@ -30465,6 +30469,10 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] lint | Wiki health check
 

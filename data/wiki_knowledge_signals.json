@@ -58301,9 +58301,9 @@
       "url": "/wiki/concepts/dirtyworkdelegationstatecraft/"
     },
     "DisasterOmenCrisisRedirection": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
@@ -58325,9 +58325,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》332-2｜大汉丞相李蔡之死，究竟有没有黑幕 [loYRE4ghvM3zCP-jXeZ9k26DU8OJ].md",
+          "key": "zizhi-tongjian-hanji-332-2-dahan-chengxiang-licai-zhisi-jiujing-youmeiyou-heimu-loyre4ghvm3zcp-jxez9k26du8oj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》332-2｜大汉丞相李蔡之死，究竟有没有黑幕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-332-2-dahan-chengxiang-licai-zhisi-jiujing-youmeiyou-heimu-loyre4ghvm3zcp-jxez9k26du8oj/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/disasteromencrisisredirection/"
     },
     "DisasterOmenInterpretiveSkepticism": {
@@ -129717,6 +129724,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/libinnio/"
+    },
+    "LiCaiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》332-2｜大汉丞相李蔡之死，究竟有没有黑幕 [loYRE4ghvM3zCP-jXeZ9k26DU8OJ].md",
+          "key": "zizhi-tongjian-hanji-332-2-dahan-chengxiang-licai-zhisi-jiujing-youmeiyou-heimu-loyre4ghvm3zcp-jxez9k26du8oj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》332-2｜大汉丞相李蔡之死，究竟有没有黑幕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-332-2-dahan-chengxiang-licai-zhisi-jiujing-youmeiyou-heimu-loyre4ghvm3zcp-jxez9k26du8oj/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/licaiwesternhan/"
     },
     "LiChenFenmo": {
       "episode_count": 1,

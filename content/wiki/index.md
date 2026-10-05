@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》332-2｜大汉丞相李蔡之死，究竟有没有黑幕](sources/zizhi-tongjian-hanji-332-2-dahan-chengxiang-licai-zhisi-jiujing-youmeiyou-heimu-loyre4ghvm3zcp-jxez9k26du8oj.md) — 关东大水引出灾异政治中的丞相担责惯例；李蔡则因侵占并出售御赐墓地旁土地被免职下狱、自杀，所谓更深“黑幕”仍无来源证据。
 - [《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？](sources/zizhi-tongjian-hanji-333-1-men-ke-luoque-de-youlai-ni-zhidao-ma-lkoajhp2b_k32aurnk8rs-ukxaib.md) — 汲黯、郑当时与翟公在任、失势和复职时的宾客变化，说明“门可罗雀”如何成为检验权势依附型交往的成语故事。
 - [《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？](sources/zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1.md) — 颜异反对白鹿皮币后，又因听闻议论诏令时沉默而“微反唇”，被张汤解释为腹诽并处死，显示政治惩罚如何从直言扩张到表情与推定思想。
 - [《资治通鉴·汉纪》336-1｜战神霍去病为何24岁突然暴毙？](sources/zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq.md) — 霍去病之死有病亡这一宽泛传述却无具体病名；瘟疫、意外、他杀及汉武帝介入均因时间线或直接证据不足而不能坐实。
@@ -3875,6 +3876,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 
 ## Entities
+- [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 由御史大夫升任丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
 - [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 西汉直臣 whose former visitors disappear after dismissal and impoverishment.
 - [郑当时 / Zheng Dangshi (Western Han)](entities/ZhengDangshiWesternHan.md) — 西汉好客官员 whose crowded network thins after he loses office and wealth.
 - [翟公 / Zhai Gong (Western Han)](entities/ZhaiGongWesternHan.md) — 廷尉 whose crowded, deserted, and crowded-again gate anchors the “门可罗雀” story.
