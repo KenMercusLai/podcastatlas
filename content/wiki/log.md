@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-06] ingest | 《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”
+
+Added source `zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w`; created [[ExecutionDetailAttitudeAttribution|执行细节的态度归因]]; resynthesized [[YiZongWesternHan|义纵]] from its complete preserved three-source inventory; and migrated [[GanquanPalace|甘泉宫]] to synthesis-v1 from its complete preserved two-source inventory before appending the new source once. Core synthesis: an unrepaired Ganquan route is an observable administrative defect, while Han Wudi's reading of it as disregard is a higher-level attitude attribution made dangerous by ruler-subordinate power asymmetry. The incident adds an earlier deterioration layer before Yi's fatal告缗 conflict but does not prove that road neglect caused his execution. No settled contradiction was adopted. The spirit-medium's supernatural claims, Shaoweng-ghost explanation, repair chain of command, Yi's knowledge and intent, enemy-route conspiracy, Starship welding explanation and cost, broad workplace rule, and iceberg quantification remain source-scoped or illustrative. Broad [[HanWudi|汉武帝]] and show pages were read for context but not reopened because the bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,812 sources across 796 overview paragraphs and nine topics.
+
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》332-2｜大汉丞相李蔡之死，究竟有没有黑幕
 
 Added source `zizhi-tongjian-hanji-332-2-dahan-chengxiang-licai-zhisi-jiujing-youmeiyou-heimu-loyre4ghvm3zcp-jxez9k26du8oj`; created [[LiCaiWesternHan|李蔡]]; and resynthesized [[DisasterOmenCrisisRedirection|灾异压力转移]] from its complete preserved four-source inventory. Core synthesis: the episode distinguishes a disaster-politics convention, in which a chancellor may absorb Heaven-human responsibility through illness and resignation, from Li Cai's stated terminal case, in which he appropriates and sells land adjoining an honorable burial grant, is removed and imprisoned, and dies by suicide. No settled contradiction was adopted. The Yuanshuo date conversion, resettlement total and destinations, Wei Hong attribution, land units and valuation, buyer identity, statutory offense, likely sentence, suicide mechanics, Li Cai's motives and competence, Han Wudi's emotions, any causal link between nonresignation and prosecution, and any deeper “黑幕” remain source-scoped. The broad Han Wudi, Gongsun Hong, and Li Guang pages were read for context but not changed because this bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,811 sources across 796 overview paragraphs and nine topics.
@@ -30469,6 +30473,10 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9742
+wiki_total_pages: 9743
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1343,6 +1343,9 @@ wiki_pages:
   - key: "ExpressNetworkInfrastructureCentralization"
     title: "快递网络基础设施收权"
     url: "/wiki/concepts/expressnetworkinfrastructurecentralization/"
+  - key: "ExecutionDetailAttitudeAttribution"
+    title: "执行细节的态度归因 / Attitude Attribution from Execution Details"
+    url: "/wiki/concepts/executiondetailattitudeattribution/"
   - key: "ExileLoyaltyThroughRitualToken"
     title: "持节守节式流亡忠诚 / Exile Loyalty Through Ritual Token"
     url: "/wiki/concepts/exileloyaltythroughritualtoken/"

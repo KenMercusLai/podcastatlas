@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”](sources/zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w.md) — 汉武帝把甘泉宫道路失修解释为义纵不重视自己；节目由此讨论执行疏忽如何在权力关系中被赋予态度意义，同时保留敌人设局等说法为推测。
 - [《资治通鉴·汉纪》332-2｜大汉丞相李蔡之死，究竟有没有黑幕](sources/zizhi-tongjian-hanji-332-2-dahan-chengxiang-licai-zhisi-jiujing-youmeiyou-heimu-loyre4ghvm3zcp-jxez9k26du8oj.md) — 关东大水引出灾异政治中的丞相担责惯例；李蔡则因侵占并出售御赐墓地旁土地被免职下狱、自杀，所谓更深“黑幕”仍无来源证据。
 - [《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？](sources/zizhi-tongjian-hanji-333-1-men-ke-luoque-de-youlai-ni-zhidao-ma-lkoajhp2b_k32aurnk8rs-ukxaib.md) — 汲黯、郑当时与翟公在任、失势和复职时的宾客变化，说明“门可罗雀”如何成为检验权势依附型交往的成语故事。
 - [《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？](sources/zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1.md) — 颜异反对白鹿皮币后，又因听闻议论诏令时沉默而“微反唇”，被张汤解释为腹诽并处死，显示政治惩罚如何从直言扩张到表情与推定思想。
@@ -16420,6 +16421,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [执行细节的态度归因 / Attitude Attribution from Execution Details](concepts/ExecutionDetailAttitudeAttribution.md) — 将具体行动、遗漏或准备不足解释为尊重、忠诚、关心或能力信号，并区分可观察缺陷与隐藏态度推断。
 - [权势依附型交往 / Power-Contingent Social Ties](concepts/PowerContingentSocialTies.md) — Relationships whose visible intensity rises and falls with office, wealth, rank, or usefulness.
 - [史料稀缺下的死因推断 / Death-Cause Inference Under Sparse Records](concepts/SparseRecordDeathCauseInference.md) — Method for separating a reported death and broad cause category from unsupported diagnosis, accident, murder, or conspiracy claims.
 - [宗室亲缘减刑 / Royal Kinship Penalty Mitigation](concepts/RoyalKinshipPenaltyMitigation.md) — 宗室罪行虽经查实并受严惩，亲缘或家族旧功仍降低最高刑罚的君主裁量模式。

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3324
+topic_total_pages: 3326
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8249,6 +8249,9 @@ topic_entities:
   - key: "Lingyang"
     title: "瓴羊 / Lingyang"
     url: "/wiki/entities/lingyang/"
+  - key: "GanquanPalace"
+    title: "甘泉宫 / Ganquan Palace"
+    url: "/wiki/entities/ganquanpalace/"
   - key: "ShengshuTechnology"
     title: "生数科技 / Shengshu Technology"
     url: "/wiki/entities/shengshutechnology/"
@@ -9711,6 +9714,9 @@ topic_sources:
   - key: "anyway-195-anyway-195"
     title: "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」"
     url: "/wiki/sources/anyway-195-anyway-195/"
+  - key: "zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w"
+    title: "《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”"
+    url: "/wiki/sources/zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w/"
   - key: "zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p"
     title: "《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生"
     url: "/wiki/sources/zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2581
+topic_total_pages: 2580
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4088,9 +4088,6 @@ topic_entities:
   - key: "GanZhongkeWesternHan"
     title: "甘忠可 / Gan Zhongke (Western Han)"
     url: "/wiki/entities/ganzhongkewesternhan/"
-  - key: "GanquanPalace"
-    title: "甘泉宫 / Ganquan Palace"
-    url: "/wiki/entities/ganquanpalace/"
   - key: "GanMao"
     title: "甘茂 / Gan Mao"
     url: "/wiki/entities/ganmao/"

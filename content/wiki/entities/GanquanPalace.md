@@ -1,21 +1,58 @@
 ---
 title: "甘泉宫 / Ganquan Palace"
 type: entity
-tags: [place, palace, qin-state, warring-states]
-sources: [zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5]
-last_updated: 2026-08-22
+knowledge_schema: synthesis-v1
+tags: [place, palace, qin-state, western-han, court-politics, infrastructure]
+sources:
+  - zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p
+  - zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5
+  - zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w
+last_updated: 2026-10-06
 ---
 
-# 甘泉宫 / Ganquan Palace
+## Overview
 
-甘泉宫 / Ganquan Palace appears in [[zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5]] as the palace where [[XuanTaihou|芈八子 / 宣太后]] lures and kills the [[YiquState|义渠]] king. The source treats the location as the hinge between a decades-long intimate relationship and Qin's immediate military absorption of Yiqu.
+甘泉宫 / Ganquan Palace is a recurrent palace-place whose meaning changes across the supplied episodes. It appears as a Qin frontier-decapitation site, part of a post-unification capital-and-road landscape, and a Western Han ritual and recovery destination whose neglected access route becomes politically dangerous for [[YiZongWesternHan|义纵]].
 
-The palace matters because the episode reads the killing as a low-cost way for [[QinState|秦国]] to decapitate a frontier polity before invasion. Ganquan Palace therefore belongs to [[IntimateFrontierPacification|亲密关系式边患安抚]] and [[QinFrontierBufferManagement|秦国后方边患管理]] rather than to a standalone architectural story.
+## Current Profile
 
-[[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p]] adds a separate post-unification architectural role. The episode links Ganquan-area front-hall geography with [[QinJimiao|极庙]], roads toward [[Lishan|骊山]], covered passages to [[Xianyang|咸阳]], and [[QinCosmicCapitalPlanning|秦代宇宙化都城规划]], so Ganquan now also belongs to the symbolic capital landscape created after conquest.
+[[zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5|Zhouji 85]] makes Ganquan Palace the place where [[XuanTaihou|芈八子 / 宣太后]] lures and kills the [[YiquState|义渠]] king before [[QinState|秦国]] destroys Yiqu and creates [[BeidiCommandery|北地郡]]. In that branch the palace is an access point linking a long intimate relationship to low-cost political decapitation and direct frontier administration.
 
-## Connections
-- [[XuanTaihou|芈八子 / 宣太后]] and [[YiquState|义渠]] - actor and victim polity in the episode.
-- [[QinState|秦国]] and [[BeidiCommandery|北地郡]] - state that converts the killing into conquest and commandery creation.
-- [[IntimateFrontierPacification|亲密关系式边患安抚]] and [[QinFrontierBufferManagement|秦国后方边患管理]] - concepts attached to the event.
-- [[QinJimiao|极庙]], [[Lishan|骊山]], [[Xianyang|咸阳]], [[QinCosmicCapitalPlanning|秦代宇宙化都城规划]], and [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]] - post-unification capital-cosmology branch.
+[[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]] places the Ganquan area within post-unification capital geography involving [[QinJimiao|极庙]], routes toward [[Lishan|骊山]], covered passages to [[Xianyang|咸阳]], and [[QinCosmicCapitalPlanning|秦代宇宙化都城规划]]. [[zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w|Hanji 334-1]] adds a distinct Western Han role: Wudi travels there after recovering from illness and keeps a spirit-medium at the palace, while damage on the access road becomes an occasion to infer administrative and personal disregard from Yi Zong.
+
+## Key Characteristics
+
+- Palace setting used in the source account of Xuan Taihou's killing of the Yiqu king.
+- Spatial component in an episode's reconstruction of Qin capital cosmology and road integration.
+- Western Han destination connected to Han Wudi's recovery, amnesty, and spirit-medium patronage.
+- Infrastructure-dependent court site whose access-road condition acquires symbolic political meaning.
+
+## Evidence
+
+Frontier decapitation and absorption:
+- [[zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5|Zhouji 85]] says Xuan Taihou draws the Yiqu king to Ganquan Palace and kills him before Qin destroys Yiqu.
+
+Capital and road geography:
+- [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]] links the Ganquan area to Ji Miao, Lishan, Xianyang, covered passages, and Qin's cosmic ordering of capital space.
+
+Western Han ritual destination and political signal:
+- [[zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w|Hanji 334-1]] says Wudi goes to Ganquan after recovering, houses a spirit-medium there, and interprets the unrepaired route as evidence against Yi Zong.
+
+## Qualifications
+
+The three episodes do not establish that every reference denotes the same building rather than a wider Ganquan palace complex or area across periods. Qinji 121's detailed cosmological interpretation and Zhouji 85's motive analysis remain source-scoped. Hanji 334-1 does not prove the spirit-medium's supernatural claims, the exact road jurisdiction, Yi Zong's intent, or an enemy conspiracy.
+
+## What Changed
+
+- Migrated the page to synthesis-v1 while preserving its two-source evidence inventory and adding the Western Han source once.
+- Expanded Ganquan from a Qin killing site and capital-geography node into a Western Han ritual destination with infrastructure-dependent political risk.
+- Added an explicit period-and-place identity qualification rather than assuming architectural continuity.
+
+## Relationships
+
+- [[XuanTaihou|芈八子 / 宣太后]] - actor who uses the palace as the access point for killing the Yiqu king.
+- [[YiquState|义渠]] - frontier polity decapitated through the palace meeting before Qin conquest.
+- [[QinCosmicCapitalPlanning|秦代宇宙化都城规划]] - framework connecting the Ganquan area to Qin ritual and road geography.
+- [[HanWudi|汉武帝]] - Western Han ruler who travels to Ganquan after illness and treats its road condition as politically meaningful.
+- [[YiZongWesternHan|义纵]] - official blamed for neglect of the Ganquan access route.
+- [[ExecutionDetailAttitudeAttribution|执行细节的态度归因]] - mechanism by which infrastructure condition becomes evidence about an official's attitude.

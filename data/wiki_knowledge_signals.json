@@ -72521,6 +72521,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/exchangetradedfund/"
     },
+    "ExecutionDetailAttitudeAttribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶” [ljE_L2EOefZ2pW2-YJ9qve4On94W].md",
+          "key": "zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/executiondetailattitudeattribution/"
+    },
     "ExecutiveFunction": {
       "episode_count": 1,
       "show_count": 1,
@@ -86361,6 +86377,36 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/ganesha/"
+    },
+    "GanquanPalace": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生 [ls1u8Dmuvs5bbRzaDf2Dtd00js_P].md",
+          "key": "zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》85｜宣太后为何私通30年后暗杀了老情人？ [lg7ZY6VqtdJCufO4_MOX5qkG2CT5].md",
+          "key": "zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》85｜宣太后为何私通30年后暗杀了老情人？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶” [ljE_L2EOefZ2pW2-YJ9qve4On94W].md",
+          "key": "zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/ganquanpalace/"
     },
     "Gansu": {
       "episode_count": 2,
@@ -243127,9 +243173,9 @@
       "url": "/wiki/entities/yiyanmoyan/"
     },
     "YiZongWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -243144,6 +243190,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",
           "url": "/wiki/sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶” [ljE_L2EOefZ2pW2-YJ9qve4On94W].md",
+          "key": "zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w/"
         }
       ],
       "updated": "2026-10-06",

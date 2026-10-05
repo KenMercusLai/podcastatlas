@@ -37171,9 +37171,9 @@
   ],
   "GanquanPalace": [
     {
-      "key": "history",
-      "label": "History",
-      "url": "/topics/history/"
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "GaoErji": [
@@ -102913,6 +102913,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo": [
