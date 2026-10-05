@@ -8,13 +8,14 @@ sources:
   - zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0
   - zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx
   - zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la
-last_updated: 2026-10-04
+  - zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu
+last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
 
 ## Definition
 
-Palace Proximity Power is the political leverage created when people physically close to the ruler or regent turn daily access, household service, emotional dependence, and control of contact into influence before formal authority is visible.
+Palace Proximity Power is the political leverage created when people physically close to the ruler or regent turn daily access, household service, emotional dependence, delegated authority, and trusted information flow into influence before formal authority is visible.
 
 ## Current Synthesis
 
@@ -24,13 +25,15 @@ Hanji 884 shows how that proximity operates once a young or dependent ruler is i
 
 [[zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la|Hanji 600]] extends the concept backward from eunuch and regency politics to a favored high official under [[HanAidi|汉哀帝]]. [[DongXian|董贤]] combines continual palace presence with Da Sima and Wei General office and control of the memorial route. The result is not only influence over what reaches the ruler: [[KongGuangWesternHan|孔光]] treats Dong Xian as a superior despite nominal peer rank, and Aidi rewards that adjustment through appointments for Kong's nephews. Proximity therefore can harden into access infrastructure and make other officials perform the hierarchy created by private favor.
 
+[[zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu|Hanji 350-2]] extends the mechanism from palace gatekeeping to traveling attendants and field reputation. The emperor cannot inspect everything personally, so trusted companions become delegated agents and recurring information sources. A distant governor who neglects or offends them may then face convergent negative reports. The source's “董事长秘书” analogy clarifies why an apparently subordinate role can carry major leverage, but the Beidi defense failure also prevents a simple corruption story: personalized scrutiny can expose genuine neglect even when retaliation incentives are present.
+
 ## Key Claims
 
-- Near-body service becomes political power when it controls who can speak to the ruler and when.
+- Near-body service becomes political power when it controls who can speak to the ruler, what information recurs, and how distant actors are interpreted.
 - Palace proximity can supply confidential information about which insiders are willing to risk action.
 - Palace proximity can serve a ruler's emergency action when trusted insiders can act before outer court powerholders respond.
 - Eunuch power can express ruler-side demand for private service, loyalty, and controllability, not just court decay.
-- Palace proximity is strongest when the ruler is young, isolated, dependent, indulgent, or shielded from regular official feedback.
+- Proximity power grows when the ruler is young, isolated, dependent, indulgent, shielded from regular official feedback, or unable to inspect distant administration directly.
 - Formal office may lag behind actual leverage, or amplify it, because household access and control of submissions can create influence that nominal peer rank does not explain.
 - Moral remonstrance against palace insiders fails when it attacks a channel the ruler personally finds useful.
 
@@ -46,18 +49,20 @@ Hanji 884 shows how that proximity operates once a young or dependent ruler is i
 - Formal-informal gap: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] makes palace proximity visible before a stable public office structure explains the actual distribution of power.
 - Memorial gatekeeping: [[zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la|Hanji 600]] says Dong Xian stays frequently inside the palace and manages the route through which officials submit memorials to Aidi.
 - Performed hierarchy: [[zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la|Hanji 600]] says Kong Guang receives the nominally peer Dong Xian with superior-style rites and Aidi rewards the response through appointments for two nephews.
+- Trusted field reporting: [[zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu|Hanji 350-2]] says the emperor's attendants combine delegated authority, personal trust, daily presence, and information gathering, giving their reports more weight than a distant governor's self-presentation.
+- Convergent scrutiny: [[zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu|Hanji 350-2]] warns that multiple attendants can reinforce a negative judgment after poor treatment, while the subsequent missing-frontier-defense case shows that scrutiny may still identify a substantive failure.
 
 ## Counterevidence & Qualifications
 
-This concept does not imply that every close attendant automatically dominates policy or that formal institutions are irrelevant. Hanji 847 shows proximity as private intelligence and oath-bearing trust; Hanji 848 shows proximity helping a ruler destroy an overmighty outer-relative; Hanji 859 also shows frontier appointments moving through practical state need; and later Huan-era pages show bounded correction sometimes succeeding. Hanji 600 supports Dong Xian's palace presence, memorial role, and the observable reception test, but it does not reconstruct the complete submission procedure or prove the host's claim that Dong Xian's power literally equaled Aidi's. The narrower claim is that repeated physical access, household dependence, or control of submissions creates a power channel that nominal office charts can underestimate, whether that channel is used for emergency action, gatekeeping, or patronage.
+This concept does not imply that every close attendant automatically dominates policy, that formal institutions are irrelevant, or that every negative report is fabricated. Hanji 847 shows proximity as private intelligence and oath-bearing trust; Hanji 848 shows proximity helping a ruler destroy an overmighty outer-relative; Hanji 859 also shows frontier appointments moving through practical state need; and Hanji 350-2 itself pairs retaliation risk with an apparently real defense failure. Hanji 600 supports Dong Xian's palace presence, memorial role, and the observable reception test, but it does not reconstruct the complete submission procedure or prove the host's claim that Dong Xian's power literally equaled Aidi's. The narrower claim is that repeated physical access, household dependence, delegated service, or control of reporting creates a power channel that nominal office charts can underestimate, whether used for emergency action, gatekeeping, patronage, oversight, or retaliation.
 
 ## What Changed
 
-- Added Hanji 600's favored-official branch: palace proximity combines with memorial gatekeeping and makes nominal peers perform an unequal hierarchy.
-- Hanji 847 adds the secret-recruitment side of palace proximity: near-body attendants supply trusted information and oath-bearing partners.
-- Hanji 848 remains the emergency-coup side of palace proximity: near-body eunuchs help Huan act before Liang Ji can respond.
-- Added the Hanji 859 ruler-demand side: eunuchs serve private desire, loyalty, and controllability needs, not only accidental court decay.
-- Recast Hanji 884 as the access-execution side of a broader concept that begins with near-body service and becomes political leverage.
+- Added Hanji 350-2's traveling-attendant branch: delegated service and repeated trusted reports can shape a ruler's judgment of distant officials.
+- Qualified proximity power by separating biased scrutiny from the independent truth of the failure being reported.
+- Preserved the Hanji 600 branch where continual presence and memorial gatekeeping make nominal peers perform unequal hierarchy.
+- Preserved the Hanji 847-848 branch where near-body trust becomes secret recruitment and emergency coup execution.
+- Preserved the Hanji 859 and 884 branches linking ruler-side demand and daily palace access to durable political leverage.
 
 ## Related Concepts
 
@@ -70,3 +75,4 @@ This concept does not imply that every close attendant automatically dominates p
 - [[ScholarOfficialPublicDuty|士大夫公共责任]] - opposing public-duty ethic that can misread ruler-side demand for private access.
 - [[QueenMotherRegency|太后临朝]] - regency context that can increase reliance on intermediaries inside the palace.
 - [[PowerStructureTargeting|权力结构定向求援]] - tactical response when formal channels fail and actors must reach actual access holders.
+- [[MessageRelayPoliticalPower|传话式信息权力]] - adjacent mechanism where selecting and framing what reaches the ruler turns proximity into decision leverage.

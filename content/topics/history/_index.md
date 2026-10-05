@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2564
+topic_total_pages: 2565
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3155,6 +3155,9 @@ topic_entities:
   - key: "SimaGeng"
     title: "司马梗 / Sima Geng"
     url: "/wiki/entities/simageng/"
+  - key: "SimaTanWesternHan"
+    title: "司马谈 / Sima Tan (Western Han)"
+    url: "/wiki/entities/simatanwesternhan/"
   - key: "SimaZhen"
     title: "司马贞 / Sima Zhen"
     url: "/wiki/entities/simazhen/"

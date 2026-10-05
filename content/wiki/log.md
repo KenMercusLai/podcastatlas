@@ -30147,3 +30147,11 @@ Added source `zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sangu
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书”
+
+Added source `zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu`; created [[SimaTanWesternHan|司马谈]]; migrated and resynthesized [[Taiyi|太一／太乙]]; and resynthesized [[BeidiCommandery|北地郡]] and [[PalaceProximityPower|宫廷近身权力]] from their complete preserved evidence inventories. Core synthesis: trusted attendants combine delegated service, repeated access, and information feedback, so their convergent reports can shape a ruler's judgment of distant officials beyond nominal rank; that channel can enable retaliation but may also expose genuine failures, as the episode's missing-frontier-defense sequence illustrates. The ritual branch distinguishes Qin-era inference from the explicit Han Ganquan altar, winter-solstice rite, reported luminous signs, and triennial-worship proposal attributed to Sima Tan and Kuanshu. No settled contradiction was adopted. The scale of missing亭障, collective executions, luminous phenomena, initiative behind the rite, and formal-agent status for 樛太后 remain source-scoped. The large Han Wudi, Nanyue, Queen Dowager Jiu, Zhao Yingqi, Qin Er Shi, and Zhao Gao profiles were read for context but not changed because the durable additions are represented in narrower canonical pages or are only analogies and previews. The automatic `wiki/overview.md` was read for context and not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,770 sources and retain 791 overview paragraphs. Identity, schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -23274,9 +23274,9 @@
       "url": "/wiki/concepts/behavioralevidenceloyaltyjudgment/"
     },
     "BeidiCommandery": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧 [lrWz_prnXD8HZchagYRBYwKuX7lH].md",
@@ -23305,9 +23305,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·周纪》85｜宣太后为何私通30年后暗杀了老情人？",
           "url": "/wiki/sources/zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书” [lmXRw9cg4LSQZZBx_628vwQTwfgu].md",
+          "key": "zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu/"
         }
       ],
-      "updated": "2026-08-23",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/beidicommandery/"
     },
     "Beijing": {
@@ -164288,9 +164295,9 @@
       "url": "/wiki/concepts/palaceperformerfavormobility/"
     },
     "PalaceProximityPower": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？ [lvtC3uQLsO242olKyin3fvz5A7YS].md",
@@ -164326,9 +164333,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》600丨孔子后代里，咋出了没骨气的他？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书” [lmXRw9cg4LSQZZBx_628vwQTwfgu].md",
+          "key": "zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/palaceproximitypower/"
     },
     "PalaceProximityVigilance": {
@@ -198470,6 +198484,29 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/simaqian/"
     },
+    "SimaTanWesternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》96丨毛遂自荐（4） [lqs3pj2_rEbp0uH6q7AyECpjU3hK].md",
+          "key": "zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》96丨毛遂自荐（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书” [lmXRw9cg4LSQZZBx_628vwQTwfgu].md",
+          "key": "zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/simatanwesternhan/"
+    },
     "SimaXiangru": {
       "episode_count": 5,
       "show_count": 1,
@@ -210746,6 +210783,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/taixuecollectivepetition/"
+    },
+    "Taiyi": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生 [ls1u8Dmuvs5bbRzaDf2Dtd00js_P].md",
+          "key": "zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书” [lmXRw9cg4LSQZZBx_628vwQTwfgu].md",
+          "key": "zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/taiyi/"
     },
     "TaiyuanModern": {
       "episode_count": 1,

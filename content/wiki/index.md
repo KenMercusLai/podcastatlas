@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书”](sources/zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu.md) — 以信任、近身接触和信息反馈解释天子从官的非正式权力，并串联北地亭障失修问责、甘泉太一祭祀及南越交涉预告。
 - [《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！](sources/zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl.md) — 樛太后与赵兴借安国少季使团请求按内诸侯方式朝见、开放边关、受印用汉法，但吕嘉的家族与地方权力使制度整合仍停留在有争议的提案阶段。
 - [《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？](sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr.md) — 赵婴齐藏起赵佗、赵胡的帝号印玺却拒绝入朝，并请立樛氏与赵兴，呈现南越以象征臣服换取地方实权延续的策略。
 - [《资治通鉴·汉纪》352-1｜一炮轰灭了百年帝国](sources/zizhi-tongjian-hanji-352-1-yi-pao-hong-mie-le-bainian-diguo-lgpuqijq5kyd5ivh8ajlclo8ojex.md) — 赵兴与樛太后归汉倾向受吕嘉阻挠，宴席除嘉未成后庄参拒绝两千人任务、韩千秋请战；吕嘉继而杀害王太后与汉使并改立赵建德。
@@ -3834,6 +3835,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [司马谈 / Sima Tan (Western Han)](entities/SimaTanWesternHan.md) — 司马迁之父与太史令，其名字影响《史记》避讳异文，并在本期被列为甘泉太一三年一祭建议者。
 - [安国少季 / An Guo Shaoji (Western Han)](entities/AnGuoShaoJiWesternHan.md) — 汉使与樛太后旧日亲密关系人，其个人接近成为南越归汉交涉的一条政治渠道。
 - [赵婴齐 / Zhao Yingqi (Nanyue)](entities/ZhaoYingqiNanyue.md) — 藏起两代帝号印玺、接受王后与世子册认却拒绝入朝，以有限象征让步维护南越地方实权的第三代国王。
 - [赵胡 / Zhao Hu (Nanyue)](entities/ZhaoHuNanyue.md) — 承接赵佗并据节目所述保留“南越武帝”印玺、另制“南越文帝”印玺的南越第二代国王。
@@ -9200,7 +9202,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梁父山 / Liangfu Mountain](entities/LiangfuMountain.md) — Lower sacred site paired with Taishan in Qin Shi Huang's “禅” route and Han Wudi's 帝主 and cattle-shooting rite.
 - [驰道 / Qin Chidao Road System](entities/QinChidao.md) — Qin imperial road network described by Qinji 121 as wide tamped routes with restricted central imperial lanes, side lanes, trees, and controlled crossings.
 - [极庙 / Qin Ji Miao](entities/QinJimiao.md) — Qin Shi Huang's renamed ritual building south of the Wei River, read in Qinji 121 as an earthly counterpart to the heavenly pole and Taiyi worship.
-- [太一 / Taiyi](entities/Taiyi.md) — Supreme deity inferred by Qinji 121 as the likely target of Qin Ji Miao's heaven-centered sacrifice.
+- [太一 / Taiyi](entities/Taiyi.md) — 从秦极庙的推定祭祀对象延伸到汉武帝甘泉祭坛、冬至礼仪与三年一祭的最高天神。
 - [骊山 / Lishan](entities/Lishan.md) — Mountain reached by Qinji 121's Xianyang-area road-and-palace construction, linked to Qin Shi Huang's cosmic capital layout.
 - [百越 / Baiyue](entities/Baiyue.md) — Broad label for Yue peoples and polities subdued in Qinji 119-3 as Wang Jian pushes Qin control into Jiangnan before the Kuaiji Commandery setup.
 - [无诸 / Wuzhu (Minyue king)](entities/WuzhuMinyueKing.md) — Former Yue ruler named in the transcript as 吴珠, granted Minyue kingship by Liu Bang after supporting Han against Xiang Yu.
@@ -9589,7 +9591,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卫平侯 / Marquis Ping of Wey](entities/WeyPinghou.md) — Wey ruler whose death and succession by Wey Sijun mark another stage in weak-state status decline.
 - [武夏 / Wu Xia](entities/WuxiaWarringStates.md) — Zhanguo Ce figure who reframes a neglected Wey envoy's request through Wei's higher-priority Qin diplomacy.
 - [义渠 / Yiqu](entities/YiquState.md) — Western/rear frontier polity whose partial submission to Qin is not yet final destruction.
-- [北地郡 / Beidi Commandery](entities/BeidiCommandery.md) — Qin commandery created after the destruction of Yiqu, completing a northern frontier line with Longxi and Shangjun.
+- [北地郡 / Beidi Commandery](entities/BeidiCommandery.md) — 从秦灭义渠后的北疆郡制延续到汉代接收，并在汉武帝巡查中暴露亭障失修与严厉问责。
 - [陇西郡 / Longxi Commandery](entities/LongxiCommandery.md) — Qin northern frontier commandery named with Beidi and Shangjun in the post-Yiqu defensive line.
 - [赵武灵王 / King Wuling of Zhao](entities/ZhaoWulingwang.md) — Zhao ruler whose branch now joins reform signaling, title restraint, Zhang Yi's threat speech, and the Wu Wa-Zhao He-Zhao Zhang succession setup.
 - [肥义 / Fei Yi](entities/FeiYi.md) — Senior Zhao minister honored by Zhao Wuling Wang as part of the new-ruler signaling sequence.
@@ -19734,7 +19736,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Crisis Duty Continuity / 危局职守连续性](concepts/CrisisDutyContinuity.md) — Hanji 880 pattern where public duty continues through succession uncertainty rather than yielding to illness-based risk avoidance.
 - [Budgeted Frontier Suppression / 预算化边疆清剿](concepts/BudgetedFrontierSuppression.md) — Duan Jiong's Eastern Qiang strategy frame turning hard suppression into a court-legible plan with troops, terrain, duration, cost, and qualifications.
 - [军费通道利益驱动 / Campaign Finance Access Incentive](concepts/CampaignFinanceAccessIncentive.md) — Pattern where costly military campaigns create funding, reward, and approval channels that palace-access actors have reason to influence.
-- [Palace Proximity Power / 宫廷近身权力](concepts/PalaceProximityPower.md) — Concept where daily palace access, household service, and memorial gatekeeping supply confidential recruitment, emergency command, agenda control, and political leverage beyond nominal rank.
+- [Palace Proximity Power / 宫廷近身权力](concepts/PalaceProximityPower.md) — 日常近身、家庭服务、受托权力与可信信息反馈可形成超出名义职位的招募、指挥、议程和声誉影响力。
 - [Palace Coup Symbol Control / 宫廷政变中的符印与门户控制](concepts/PalaceCoupSymbolControl.md) — Hanji 804 and 847-848 pattern where insider recruitment, palace entry, hall installation, shangshu, guard, seal, tally, certificate, and office-insignia control make a coup operational.
 - [Coup Credit Allocation Risk / 宫变功劳分配风险](concepts/CoupCreditAllocationRisk.md) — Hanji 804 pattern where post-coup reward lists, certificates, titles, and household grants expose hidden hesitation and create leverage inside a winning merit group.
 - [Outer-Relative Court Power and Purge / 外戚专权与清算](concepts/OuterRelativeCourtPower.md) — Late-Han kinship-power pattern where Dou child-regency access, procedure, campaign authority, Yan death-news control, risky Liang succession, terror, and palace liquidation reshape court authority.
