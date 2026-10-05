@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9724
+wiki_total_pages: 9726
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1166,6 +1166,9 @@ wiki_pages:
   - key: "ExerciseSpecificBrainAdaptation"
     title: "Exercise-Specific Brain Adaptation"
     url: "/wiki/concepts/exercisespecificbrainadaptation/"
+  - key: "ExistentialRiskProbabilityEstimation"
+    title: "Existential Risk Probability Estimation"
+    url: "/wiki/concepts/existentialriskprobabilityestimation/"
   - key: "Existentialism"
     title: "Existentialism / 存在主义"
     url: "/wiki/concepts/existentialism/"

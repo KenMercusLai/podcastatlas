@@ -30259,3 +30259,11 @@ Added source `653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt224005
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | Inside the mindset of AI safety workers
+
+Added source `tech-20261005-1005-mp-tech-pod-128-tech-20261005-1005-mp-tech-pod-128`; created [[SpencerKaplan]], [[AISafetyWorkerCulture]], and [[ExistentialRiskProbabilityEstimation]]; and resynthesized [[JacobCoxon]], [[EffectiveAltruism]], and [[AIDoomerism]] from their complete preserved evidence inventories. Core synthesis: public resignation and continued lab work can be rival tactics under one expected-impact ethic; agency and numerical risk estimation are socially reinforced practices, while sincerity, firsthand model experience, and costly life choices do not validate a particular extinction forecast. The source qualifies accounts that reduce AI-risk warnings to publicity or regulatory strategy but does not settle P(doom), prevalence across the industry, causal influence, or technical risk. No settled contradiction was adopted. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,783 sources across 794 overview paragraphs and nine topics.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Inside the mindset of AI safety workers](sources/tech-20261005-1005-mp-tech-pod-128-tech-20261005-1005-mp-tech-pod-128.md) — Marketplace Tech on Spencer Kaplan's fieldwork, AI safety worker culture, effective altruism, agency, stay-or-resign choices, and P(doom) estimation.
 - [653. London’s Golden Age: The Shadow of the Madhouse (Part 4)](sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230.md) — The Rest Is History on Samuel Johnson’s dependence on the Thrale household, Hester’s competing witness, Francis Barber, Johnson’s final fears, and Boswell’s transformation of biography.
 - [《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密](sources/zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx.md) — 大青墩“泗水王冢”椁板把墓葬锚定为泗水国王陵，但被盗语境中的“刘绥”银印并不能据此确定具体墓主。
 - [Bringing Extinct Species Back to Life | Dr. Beth Shapiro](sources/bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808.md) — Huberman Lab interview on functional de-extinction, genetic rescue, comparative genomics, animal welfare, and governance under ecological uncertainty.
@@ -3847,6 +3848,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Tools for Setting & Achieving Goals | Dr. Emily Balcetis](sources/essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945.md) — Condensed Huberman Lab interview on precise visual targets, perceived effort, obstacle planning, positive-fantasy limits, and evidence-based progress tracking.
 
 ## Entities
+- [Spencer Kaplan](entities/SpencerKaplan.md) — Anthropologist studying how AI safety workers connect catastrophic-risk beliefs to agency, expected impact, and life choices.
 - [Hester Thrale Piozzi](entities/HesterPiozzi.md) — Georgian intellectual host, caregiver, independent marital actor, and competing witness to Samuel Johnson.
 - [Francis Barber](entities/FrancisBarber.md) — Formerly enslaved companion, educated dependent, and residual heir of Samuel Johnson.
 - [The Life of Samuel Johnson](entities/TheLifeOfJohnson.md) — Boswell’s conversation-rich, psychologically layered, and literarily constructed 1791 biography.
@@ -6013,7 +6015,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苟宾 / Gou Bin (Western Han)](entities/GouBinWesternHan.md) — Henei man whose marriage to Wang Zhengjun's mother creates Gou Can's half-sibling link.
 - [王曼 / Wang Man (Western Han)](entities/WangManWesternHan.md) — Wang Zhengjun's same-father brother whose earlier death marks the exception to the Five Marquises group.
 - [Evan Hubinger](entities/EvanHubinger.md) — Anthropic alignment-safety figure whose Coxon-related comments raise source-scoped AI disclosure-risk questions.
-- [Jacob Coxon](entities/JacobCoxon.md) — former OpenAI and Anthropic researcher whose resignation thread triggered the episode's AI doomerism debate.
+- [Jacob Coxon](entities/JacobCoxon.md) — Former OpenAI and Anthropic researcher whose public resignation became both an AI-risk flashpoint and a case in impact-oriented exit.
 - [王尊 / Wang Zun (Western Han)](entities/WangZunWesternHan.md) — Chengdi-era local-security official who quickly suppresses the Peng Zong-led Nanshan bandits after earlier force fails.
 - [冯屈 / Feng Qu (Western Han)](entities/FengQuWesternHan.md) — Qinghe commandery commandant whose Tunshi River dredging warning becomes Hanji 507's ignored flood-prevention signal.
 - [徐商 / Xu Shang (Western Han)](entities/XuShangWesternHan.md) — Western Han boshi whose cost-based review supports leaving the Tunshi River undredged before the later Yellow River breach.
@@ -16350,6 +16352,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [AI Safety Worker Culture](concepts/AISafetyWorkerCulture.md) — Social world linking AI-risk belief with agency, expected impact, intellectual debate, and divergent stay-or-resign tactics.
+- [Existential Risk Probability Estimation](concepts/ExistentialRiskProbabilityEstimation.md) — Numerical treatment of catastrophic uncertainty for decisions, distinct from empirical validation of a forecast.
 - [Psychological Biography Through Conversation](concepts/PsychologicalBiographyThroughConversation.md) — Life-writing method joining recorded speech, witnessed scenes, multiple partial observers, checked detail, and explicit uncertainty about inner life.
 - [Functional De-Extinction](concepts/FunctionalDeExtinction.md) — Trait- and ecological-function reconstruction in a living relative rather than exact recreation of an extinct individual.
 - [Genetic Rescue in Conservation](concepts/GeneticRescueConservation.md) — Use of gene flow, preserved cells, cloning, assisted reproduction, or targeted editing to restore threatened populations.
@@ -18470,7 +18474,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Compute Brute-Force Science](concepts/AIComputeBruteForceScience.md) — use of large agent swarms, token budgets, and parallel search to compress scientific or mathematical work.
 - [AI Data Leakage](concepts/AIDataLeakage.md) — risk that prompts, logs, de-identified data, or usage patterns expose proprietary insight through hosted model systems.
 - [AI Data Privacy Law](concepts/AIDataPrivacyLaw.md) — legal-policy question of protecting AI chats, files, logs, and memories from weak access standards or disclosure.
-- [AI Doomerism](concepts/AIDoomerism.md) — contested extinction-risk narrative around frontier AI and its political, safety, and open-source consequences.
+- [AI Doomerism](concepts/AIDoomerism.md) — Contested extinction-risk narrative examined through skeptical, precautionary, political, and anthropological frames.
 - [Athletic Mastery Branding](concepts/AthleticMasteryBranding.md) — sportswear brand strategy anchored in elite athletic excellence, product credibility, and aspiration.
 - [Frontier AI IPO Disclosure Risk](concepts/FrontierAIIPODisclosureRisk.md) — risk that frontier-lab safety claims, employee speech, and liability concerns complicate public-market filings and valuation.
 - [Nike Brand Drift](concepts/NikeBrandDrift.md) — source-scoped diagnosis that Nike weakened by drifting from performance, mastery, retail reach, and product credibility.
@@ -21430,7 +21434,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Passion Trap Career Advice](concepts/PassionTrapCareerAdvice.md) — Weakness of telling graduates to follow passion when interests are uncertain and jobs may not match.
 - [Useful Work Career Compounding](concepts/UsefulWorkCareerCompounding.md) — Career strategy of becoming very good at helpful work and letting motivation grow from competence and contribution.
 - [Impact Career Choice](concepts/ImpactCareerChoice.md) — Attempt to compare careers by their potential contribution to global good, with caution against demoralizing optimization.
-- [Effective Altruism](concepts/EffectiveAltruism.md) — Impact-oriented altruism frame used in the 80,000 Hours career-advice segment.
+- [Effective Altruism](concepts/EffectiveAltruism.md) — Expected-impact framework spanning direct aid, career choice, catastrophic-risk prevention, and disputed AI-governance implications.
 - [Active Fund Crowding / 主动基金抱团](concepts/ActiveFundCrowding.md) — Public-fund market-structure pattern where active managers cluster around the same sectors, holdings, and narratives under ranking, benchmark, research, channel, and holder pressure.
 - [Fund Manager Ranking Incentives / 基金经理排名激励](concepts/FundManagerRankingIncentives.md) — Incentive mechanism where relative returns, peer rankings, benchmarks, sales lists, and recent winner attention push active managers toward similar positioning.
 - [AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应](concepts/AIInfrastructureSupplyChainBullwhip.md) — AI investing risk where final-demand expectations are amplified through cloud, model, chip, component, and capacity layers into upstream scarcity and valuation pressure.
