@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前](sources/zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_.md) — 从刘太公因失去球友而郁郁、刘邦仿沛县营建新丰的故事呈现蹴鞠的社区功能，并以孙膑、蒙恬、卫青和霍去病对照兵法的时代适配。
 - [《资治通鉴·汉纪》328-2｜古代足球也疯狂，霍去病竟也痴迷？](sources/zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn.md) — 以霍去病缺粮时仍组织蹴鞠、弃置余食与卫青体恤士卒的对比，连接汉代蹴鞠的军训、规则、宫廷观看和社会扩散，并保留史料核验边界。
 - [Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare](sources/all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495.md) — All-In on Iran-war escalation and oil risk, frontier-lab revenue versus enterprise ROI, AI messaging backlash, open-model complementarity, and wealth-tax mobility.
 - [《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？](sources/zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha.md) — 少翁以隔幕招魂、文成将军封号和求仙工程取得汉武帝信任，后以牛腹帛书续骗局，却因字迹暴露而被处死。
@@ -3888,6 +3889,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South](sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south.md) — Data Science With Sam episode on Google's India commitments, AI-for-science funding, Global South participation, connectivity, and India's possible AI-governance role.
 
 ## Entities
+- [新丰 / Xinfeng (Western Han)](entities/XinfengHan.md) — 节目所述刘邦仿沛县营建、迁入故乡人群以恢复刘太公社区与蹴鞠生活的长安附近聚落。
 - [高延宗 / Gao Yanzong (Northern Qi)](entities/GaoYanzongNorthernQi.md) — 北齐宗室与短暂称帝者，节目称其受俘受辱后“以椒塞口而死”，死因机制仍属待核史料叙事。
 - [少翁 / Shaoweng (Western Han)](entities/ShaowengWesternHan.md) — 汉武帝朝方士，以隔幕招魂获宠、因牛腹帛书造假暴露，又因所谓关东现身与空棺被汉武帝重新解释为已成仙。
 - [《带着花椒去上朝：古杀十九式》](entities/DaizheHuajiaoQuShangchao.md) — 汉纪331-4引用的古代杀人方式通俗史著作，其“椒杀”考证在当前证据中仍需回到原书与底层史料核验。
@@ -5939,7 +5941,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [盖长公主 / Gai Chang Gongzhu (Western Han)](entities/GaiChanggongzhuWesternHan.md) — Princess whose banquet access is imagined as the assassination setting in the failed anti-Huo conspiracy.
 - [丁外人 / Ding Wairen (Western Han)](entities/DingWairenWesternHan.md) — Princess-favorite and inner-court access broker who helps the Shangguan family bypass Huo Guang.
 - [钩弋夫人 / Lady Gouyi (Western Han)](entities/LadyGouyiWesternHan.md) — Han Zhao's mother, whose death is framed through mother-regent risk, source-scoped Wugu guilt, and the later princess-caregiver setup.
-- [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han commander whose victories, soldier-welfare limits, protected killing of Li Gan, family afterlife, and unresolved early death require distinct evidentiary judgments.
+- [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han commander whose victories, cavalry-doctrine adaptation, soldier-welfare limits, protected killing of Li Gan, family afterlife, and unresolved early death require distinct evidentiary judgments.
 - [赵破奴 / Zhao Ponu (Western Han)](entities/ZhaoPonuWesternHan.md) — Western Han general whose failed route-security search, Western Regions victories, Xiongnu capture and escape, and unresolved Wugu destruction trace expansion and reversal.
 - [杜周 / Du Zhou (Western Han)](entities/DuZhouWesternHan.md) — Western Han cruel official whose ruler-will legal logic and late-career moderation explain his safe retirement in Hanji 402-2.
 - [范明友 / Fan Mingyou (Western Han)](entities/FanMingyouWesternHan.md) — Western Han Duliao general who attacks exhausted Wuhuan after Xiongnu withdraws in Hanji 402-2.
@@ -9263,7 +9265,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沛县 / Pei County](entities/PeiCounty.md) — Liu Bang's local base and Pei Gong uprising setting, later expanded by Hanji 1009 as Liu Bei's Xiaopei regrouping point.
 - [项梁 / Xiang Liang](entities/XiangLiang.md) — Chu noble leader who uses Xiang Yu to kill Yin Tong and convert Kuaiji commandery into an anti-Qin force.
 - [田儋 / Tian Dan (Qin Rebel)](entities/TianDanQinRebel.md) — Qi-region anti-Qin rebel leader, disambiguated from Warring States general Tian Dan / 田单.
-- [刘太公 / Liu Taigong](entities/LiuTaigong.md) — Liu Bang's father, used by Qinji 128-6 to sketch Liu Bang's family background and later 太上皇 honor.
+- [刘太公 / Liu Taigong](entities/LiuTaigong.md) — 刘邦之父，从楚汉战争人质、太上皇到新丰蹴鞠故事中的社区生活与老年福祉案例。
 - [章邯 / Zhang Han (Qin)](entities/ZhangHanQin.md) — Qin official and later Yong king whose military record, surrender, and Xinan survival become a liability in Han Xin's Three Qin plan.
 - [武臣 / Wu Chen](entities/WuChen.md) — Anti-Qin commander who becomes Zhao king after surrender-driven expansion and then prioritizes Zhao self-strengthening over a westward attack on Qin.
 - [周文 / Zhou Wen (Rebel)](entities/ZhouWenRebel.md) — Zhang Chu commander whose large but weakly trained army reaches near Xianyang before Zhang Han defeats it.
@@ -16444,7 +16446,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nandan Nilekani](entities/NandanNilekani.md) — Indian technology figure named among speakers at the AI Impact Summit in India.
 
 ## Concepts
-- [汉代蹴鞠 / Han Dynasty Cuju](concepts/HanDynastyCuju.md) — 汉代球类活动的来源限定综合，连接规则化比赛、军事训练、宫廷观看与社会扩散，并区分组织运动和士卒物质照护。
+- [兵法的时代适配 / Military Doctrine Era Fit](concepts/MilitaryDoctrineEraFit.md) — 兵法必须依兵种、组织、地形、对手、补给与作战距离重新检验，不能把旧时代战术直接复制到新战场。
+- [汉代蹴鞠 / Han Dynasty Cuju](concepts/HanDynastyCuju.md) — 汉代球类活动的来源限定综合，连接社区生活、规则化比赛、军事训练、宫廷观看与社会扩散，并区分组织运动和士卒物质照护。
 - [强势君主下的丞相双重约束 / Strong-Ruler Chancellorship Double Bind](concepts/StrongRulerChancellorshipDoubleBind.md) — 丞相既须避免以独立个性触犯强势君主，又须实际承担战争、财政、战略与朝廷协调的角色冲突。
 - [名位—实权错位 / Nominal Office–Practical Power Mismatch](concepts/NominalOfficePracticalPowerMismatch.md) — 正式职位层级与由君主接近、信任和决策参与形成的实际权力彼此分离。
 - [执行细节的态度归因 / Attitude Attribution from Execution Details](concepts/ExecutionDetailAttitudeAttribution.md) — 将具体行动、遗漏或准备不足解释为尊重、忠诚、关心或能力信号，并区分可观察缺陷与隐藏态度推断。

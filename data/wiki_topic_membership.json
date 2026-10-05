@@ -57110,6 +57110,13 @@
       "url": "/topics/history/"
     }
   ],
+  "MilitaryDoctrineEraFit": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MilitaryMeritRankSystem": [
     {
       "key": "history",

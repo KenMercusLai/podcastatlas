@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3334
+topic_total_pages: 3335
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4603,6 +4603,9 @@ topic_concepts:
   - key: "TerrainBoundTransportEvolution"
     title: "交通技术与地形关系 / Terrain-Bound Transport Evolution"
     url: "/wiki/concepts/terrainboundtransportevolution/"
+  - key: "MilitaryDoctrineEraFit"
+    title: "兵法的时代适配 / Military Doctrine Era Fit"
+    url: "/wiki/concepts/militarydoctrineerafit/"
   - key: "HistoricalReportingAIHallucination"
     title: "历史报道中的AI幻觉 / Historical Reporting AI Hallucination"
     url: "/wiki/concepts/historicalreportingaihallucination/"

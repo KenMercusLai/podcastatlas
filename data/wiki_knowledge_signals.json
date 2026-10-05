@@ -96733,9 +96733,9 @@
       "url": "/wiki/concepts/hancourtspectacleculture/"
     },
     "HanDynastyCuju": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》328-2｜古代足球也疯狂，霍去病竟也痴迷？ [lh5o5CGY9kg7kD_Vl-WVVetsMVSn].md",
@@ -96743,6 +96743,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》328-2｜古代足球也疯狂，霍去病竟也痴迷？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前 [lvm7t6LVC2nEidSwAddUFxGDw8w_].md",
+          "key": "zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_/"
         }
       ],
       "updated": "2026-10-06",
@@ -108617,9 +108624,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -108662,6 +108669,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》328-2｜古代足球也疯狂，霍去病竟也痴迷？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前 [lvm7t6LVC2nEidSwAddUFxGDw8w_].md",
+          "key": "zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_/"
         }
       ],
       "updated": "2026-10-06",
@@ -135452,6 +135466,71 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/liusuisishuiseal/"
     },
+    "LiuTaigong": {
+      "episode_count": 8,
+      "show_count": 1,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（1） [lhE3H27wdbJu3cGSVUkDvgkri1a9].md",
+          "key": "zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2） [luet7GqKakO8Idt9o3Ccqq7CGpBt].md",
+          "key": "zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》166｜既然项羽不讲武德，看刘邦如何复仇？ [ltwwBn9rzEqZziMmXXfihB9_DrJ1].md",
+          "key": "zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》166｜既然项羽不讲武德，看刘邦如何复仇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？ [lubinu6HOIHU59kNMLixMaRYhnq7].md",
+          "key": "zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（2） [lq9ecPjB4r-IJ0_e-Iu-EZFAVoWJ].md",
+          "key": "zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心 [ljyV8Bow4Rj1L5ThS3zNx2eVgVtm].md",
+          "key": "zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公 [lhQQja27ZxdiYPGf6wUv1aBGkW3J].md",
+          "key": "zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》128-6｜顶级天使轮投资人 吕公",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前 [lvm7t6LVC2nEidSwAddUFxGDw8w_].md",
+          "key": "zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/liutaigong/"
+    },
     "LiuTaoLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -151668,6 +151747,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/militarydisastermemory/"
+    },
+    "MilitaryDoctrineEraFit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前 [lvm7t6LVC2nEidSwAddUFxGDw8w_].md",
+          "key": "zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/militarydoctrineerafit/"
     },
     "MilitaryFinanceCorruption": {
       "episode_count": 1,
@@ -240216,6 +240311,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/xinyuanyanghudiemeng/"
+    },
+    "XinfengHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前 [lvm7t6LVC2nEidSwAddUFxGDw8w_].md",
+          "key": "zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/xinfenghan/"
     },
     "XingguangCultureLimited": {
       "episode_count": 3,

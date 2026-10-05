@@ -1,36 +1,79 @@
 ---
 title: "刘太公 / Liu Taigong"
 type: entity
-tags: [person, qin-han, family, western-han]
-sources: [zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9, zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt, zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1, zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7, zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j]
-last_updated: 2026-08-23
+knowledge_schema: synthesis-v1
+tags: [person, qin-han, family, western-han, hostage, cuju]
+sources:
+  - zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9
+  - zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt
+  - zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1
+  - zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7
+  - zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj
+  - zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm
+  - zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j
+  - zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_
+last_updated: 2026-10-06
 ---
 
-# 刘太公 / Liu Taigong
+## Overview
 
-刘太公 / Liu Taigong enters the wiki through [[zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j|Qinji 128-6]] as [[LiuBang|刘邦]]'s father. The source uses him to sketch Liu Bang's lower-commoner but not destitute family background in [[PeiCounty|沛县]].
+刘太公 / Liu Taigong is [[LiuBang|刘邦]]'s father, whose source record in the wiki moves through four roles: Pei County family elder, vulnerable hostage in the Chu-Han war, founding-dynasty 太上皇, and an older migrant whose happiness depends on familiar people and routines rather than court luxury alone. The newest source uses his enthusiasm for [[HanDynastyCuju|蹴鞠]] and the construction of [[XinfengHan|新丰]] to make that final social-life dimension visible.
 
-The episode says Liu Taigong has four sons, with Liu Bang's early name Liu Ji reflecting birth-order language. It also says Liu Taigong lives until Gaozu's tenth year and receives the title 太上皇 because his son becomes emperor, making him part of the later [[WesternHanDynasty|Western Han]] legitimacy afterlife of Liu Bang's rise.
+## Current Profile
 
-[[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] brings Liu Taigong back into the active Chu-Han conflict. After [[LiuBang|刘邦]] recovers Guanzhong access, he sends people toward Chu-held territory to retrieve his father, wife, and son, making Liu Taigong part of the family-hostage vulnerability around Liu Bang's renewed campaign.
+[[zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j|Qinji 128-6]] introduces Liu Taigong as Liu Bang's father in [[PeiCounty|沛县]], part of a lower-commoner but not wholly destitute family background. It says he had four sons, lived into Gaozu's reign, and later became 太上皇 because his son founded the Han empire.
 
-[[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] supplies the immediate Pengcheng capture scene. Liu Taigong is with [[LuZhi|吕雉]] and [[ShenYiji|审食其]] as they try to reach Liu Bang after the rout, but they are overtaken by Chu troops and taken back to [[XiangYu|项羽]] as hostages.
+The Chu-Han sources turn family status into military exposure. [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] says Liu Bang tried to retrieve his father and household after recovering Guanzhong access. [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] then places Liu Taigong with [[LuZhi|吕雉]] and [[ShenYiji|审食其]] when Chu troops captured them after Pengcheng. At Guangwu, [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] says [[XiangYu|项羽]] threatened to cook him, while Liu Bang rejected the hostage frame and [[XiangBo|项伯]] argued that killing him would not alter the strategic balance.
 
-In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]], Xiang Yu places Liu Taigong on a chopping board at [[GuangwuChuHan|广武]] and threatens to cook him unless Liu Bang yields. Liu Bang refuses the emotional frame by claiming shared sworn-brother status with Xiang Yu, while [[XiangBo|项伯]] argues that killing the hostage will not change the strategic balance. The episode makes Liu Taigong a concrete case of [[LoyaltyCollateralDilemma|忠义牵连困境]] under late Chu-Han pressure.
+[[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] resolves the captivity through the [[HonggouSettlement|鸿沟议和]], which returns Liu Taigong and Lu Zhi after more than two years. [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] then records his elevation as 太上皇 at [[LiyangQinHan|栎阳]], shifting him from wartime collateral to formal dynastic elder. [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]] records his death at Liyang Palace, burial at Wannian, and temple orders; his funeral summons also becomes the danger signal that [[ChenXi|陈豨]] refuses.
 
-[[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] resolves the hostage branch. After Lu Jia fails and Hou Gong succeeds, Xiang Yu returns Liu Taigong and Lu Zhi under the Honggou agreement, ending their two-year-and-five-month captivity in Chu. The host's interpretation makes Liu Taigong's release the immediate objective behind Liu Bang's peace request before the later pursuit.
+A domestic and social profile after Liu Bang brings his father toward Chang'an comes from [[zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_|Hanji 328-1]]. Material provision does not make Liu Taigong happy because he has lost his Pei County companions and cuju routine. The episode says Liu Bang responds by creating Xinfeng in the image of Pei County and relocating familiar people, allowing his father to resume play and community life.
 
-[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] moves Liu Taigong from recovered hostage and family elder into formal imperial status. After the merit-reward disputes are settled, [[LiuBang|刘邦]] returns to [[LiyangQinHan|栎阳]] and, on the episode's date marker of summer fifth month, twenty-second day, honors his father as 太上皇. The source treats this as part of the founding order's shift from military rewards to dynastic family hierarchy.
+## Key Characteristics
 
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]] records Liu Taigong's death and posthumous ritual treatment. He dies at Liyang Palace, is buried at Wannian, and Liu Bang orders temples for him in Chang'an and the various kingdoms. In the episode's plot, the funeral also becomes the occasion for summoning [[ChenXi|陈豨]], who reads the order as dangerous and refuses to come.
+- Pei County family elder whose son's rise makes him the Western Han 太上皇.
+- Wartime family hostage whose threatened death fails to force Liu Bang's surrender.
+- Dynastic elder whose recovery and elevation mark the transition from civil war to founding order.
+- Older migrant whose well-being is presented as dependent on companionship, place, and routine as well as material support.
+- Cuju enthusiast whose Xinfeng story connects recreation to belonging and elder care.
 
-## Connections
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]], [[LiuBang|刘邦]], [[ChenXi|陈豨]], and [[ChenXiRebellion|陈豨之乱]] - death, temple order, and funeral summons that Chen Xi treats as a threat.
-- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]], [[LiyangQinHan|栎阳]], [[LiuBang|刘邦]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - return to the rear capital and elevation as 太上皇.
-- [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]], [[LuZhi|吕雉]], [[HonggouSettlement|鸿沟议和]], and [[InstrumentalTruceBreach|工具化议和毁约]] - hostage release under the settlement and the host's hostage-first interpretation.
-- [[LiuBang|刘邦]] - son whose rise gives Liu Taigong historical significance in this source.
-- [[LuZhi|吕雉]], [[WangLingHanMinister|王陵]], and [[XiangYu|项羽]] - Hanji 148-2 family-retrieval and coercion context.
-- [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[ShenYiji|审食其]], and [[PengchengBattle|彭城之战]] - capture after Liu Bang's rout.
-- [[PeiCounty|沛县]] - family and local origin setting.
-- [[WesternHanDynasty|Western Han]] - later dynastic frame for the 太上皇 honor.
-- [[CharismaticPoliticalPerformance|造势型政治表演]] and [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - adjacent early-Liu-Bang concepts from the same episode.
+## Evidence
+
+Family origin and imperial status:
+- [[zizhi-tongjian-qinji-128-6-dingji-tianshilun-touziren-lvgong-lhqqja27zxdiypgf6wuv1abgkw3j|Qinji 128-6]] identifies Liu Taigong as Liu Bang's father and says he later receives the 太上皇 title.
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt|Hanji 174 part 2]] places the formal elevation at Liyang after the merit-settlement stage.
+
+Hostage exposure and recovery:
+- [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] records Liu Bang's failed attempt to retrieve his family.
+- [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] says Liu Taigong, Lu Zhi, and Shen Yiji are captured after Pengcheng.
+- [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] supplies Xiang Yu's Guangwu cooking threat and its strategic failure.
+- [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] says the Honggou agreement returns Liu Taigong and Lu Zhi.
+
+Social life and Xinfeng:
+- [[zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_|Hanji 328-1]] attributes Liu Taigong's unhappiness near Chang'an to separation from Pei County companions and cuju.
+- [[zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_|Hanji 328-1]] says Xinfeng restores familiar neighbors and allows him to play again.
+
+Death and political afterlife:
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]] records death, burial, temple orders, and the funeral summons that Chen Xi interprets as danger.
+
+## Qualifications
+
+These sources are compact podcast notes rather than a complete biography or primary-text edition. The Xinfeng story is a retelling attributed to the *Xijing Zaji* tradition; the exact city layout, distance, population transfer, modern location, Liu Taigong's personal motives, and organized "league" language remain source-scoped. The hostage sources also preserve interpretive claims about Liu Bang's motives for Honggou and the exact duration or mechanics of captivity. Liu Taigong is often important because others act around him, so the record should not be mistaken for direct evidence of his inner life beyond the episode's explicit account.
+
+## What Changed
+
+- Added Liu Taigong's cuju practice and loss of familiar companions as a social-life profile beyond hostage and dynastic roles.
+- Added Xinfeng as Liu Bang's source-attributed attempt to restore community, routine, and elder well-being.
+- Migrated the page to the synthesis-first schema while preserving all prior source provenance in its original order.
+
+## Relationships
+
+- [[LiuBang|刘邦]] - son whose war, kingship, family policy, and settlement project define Liu Taigong's recorded roles.
+- [[PeiCounty|沛县]] - home community whose people and layout the Xinfeng story seeks to reproduce.
+- [[XinfengHan|新丰]] - reconstructed settlement associated with restoration of Liu Taigong's social life.
+- [[HanDynastyCuju|汉代蹴鞠]] - repeated recreation that makes companionship and routine visible in the latest source.
+- [[LuZhi|吕雉]] - fellow family hostage returned under the Honggou settlement.
+- [[XiangYu|项羽]] - captor whose threatened killing fails as coercion.
+- [[HonggouSettlement|鸿沟议和]] - agreement that returns Liu Taigong before the final Chu-Han pursuit.
+- [[LoyaltyCollateralDilemma|忠义牵连困境]] - framework for family members used as leverage against political or military actors.
+- [[WesternHanDynasty|西汉]] - dynasty in which Liu Taigong becomes 太上皇 and receives posthumous ritual treatment.

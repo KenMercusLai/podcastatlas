@@ -30587,3 +30587,11 @@ Added source `zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前
+
+Added source `zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_`; created [[XinfengHan|新丰]] and [[MilitaryDoctrineEraFit|兵法的时代适配]]; extended [[HanDynastyCuju|汉代蹴鞠]] and [[HuoQubing|霍去病]]; and migrated/resynthesized [[LiuTaigong|刘太公]] from its complete preserved evidence inventory. Core synthesis: cuju appears as a community routine whose loss and recovery matter to Liu Taigong's well-being, while the Huo Qubing comparison treats doctrine as historically conditioned by cavalry role, opponent, and operational range. No settled contradiction was adopted. The Yellow Emperor origin, *Shiji* attribution, FIFA-recognition formulation, Xinfeng construction and location details, Sun Bin cavalry summary, Meng Tian force mix, Wei Qing formation, and Huo's "时代变了" stance remain source-scoped pending primary-text and documentary comparison. Broad Liu Bang, Wei Qing, Meng Tian, Sun Bin's text, show, Xiongnu, and military-transformation pages were read for context but not reopened because the bounded additions are represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,824 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

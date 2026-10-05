@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9748
+wiki_total_pages: 9749
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1712,6 +1712,9 @@ wiki_pages:
   - key: "MissionDrivenFrontierResponsibility"
     title: "使命驱动的边疆责任 / Mission-Driven Frontier Responsibility"
     url: "/wiki/concepts/missiondrivenfrontierresponsibility/"
+  - key: "MilitaryDoctrineEraFit"
+    title: "兵法的时代适配 / Military Doctrine Era Fit"
+    url: "/wiki/concepts/militarydoctrineerafit/"
   - key: "MilitaryFinanceCorruption"
     title: "军费贪腐与战力空转 / Military Finance Corruption"
     url: "/wiki/concepts/militaryfinancecorruption/"
