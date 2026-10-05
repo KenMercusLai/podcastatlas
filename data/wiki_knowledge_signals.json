@@ -40011,9 +40011,9 @@
       "url": "/wiki/concepts/cinemaasnationalmemory/"
     },
     "CircadianEatingWindowAlignment": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM3664199211 [SCIM3664199211].md",
@@ -40056,9 +40056,16 @@
           "show": "Huberman Lab",
           "title": "Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge",
           "url": "/wiki/sources/eating-for-better-sleep-foods-that-improve-metabolic-health-dr-marie-pierre-st-onge-scim5220943767/"
+        },
+        {
+          "episode_file": "SCIM9935898395 [SCIM9935898395].md",
+          "key": "the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395",
+          "show": "Huberman Lab",
+          "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/circadianeatingwindowalignment/"
     },
     "CircadianHomeostaticEnvironmentalModel": {
@@ -47880,9 +47887,9 @@
       "url": "/wiki/entities/crazyhorse/"
     },
     "CreatineMonohydrateEvidence": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -47932,9 +47939,16 @@
           "show": "Huberman Lab",
           "title": "Science of Muscle Growth, Increasing Strength & Muscular Recovery",
           "url": "/wiki/sources/scim1817217176-scim1817217176/"
+        },
+        {
+          "episode_file": "SCIM9935898395 [SCIM9935898395].md",
+          "key": "the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395",
+          "show": "Huberman Lab",
+          "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/creatinemonohydrateevidence/"
     },
     "CreativeApertureShift": {
@@ -71838,9 +71852,9 @@
       "url": "/wiki/concepts/exerciseselfmasteryforprocrastination/"
     },
     "ExerciseSnacks": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7037527631 [SCIM7037527631].md",
@@ -71855,9 +71869,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat",
           "url": "/wiki/sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492/"
+        },
+        {
+          "episode_file": "SCIM9935898395 [SCIM9935898395].md",
+          "key": "the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395",
+          "show": "Huberman Lab",
+          "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/exercisesnacks/"
     },
     "ExerciseSpecificBrainAdaptation": {
@@ -111228,9 +111249,9 @@
       "url": "/wiki/concepts/intermediaryroutegatekeeping/"
     },
     "IntermittentChallengeHormesis": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7949990176 [SCIM7949990176].md",
@@ -111245,9 +111266,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
           "url": "/wiki/sources/the-biology-of-slowing-reversing-aging-dr-david-sinclair-scim1831113627/"
+        },
+        {
+          "episode_file": "SCIM9935898395 [SCIM9935898395].md",
+          "key": "the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395",
+          "show": "Huberman Lab",
+          "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/intermittentchallengehormesis/"
     },
     "IntermittentReinforcement": {
@@ -160213,9 +160241,9 @@
       "url": "/wiki/entities/omarbradley/"
     },
     "Omega3StatusAndFormBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7949990176 [SCIM7949990176].md",
@@ -160223,9 +160251,16 @@
           "show": "Huberman Lab",
           "title": "Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
           "url": "/wiki/sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176/"
+        },
+        {
+          "episode_file": "SCIM9935898395 [SCIM9935898395].md",
+          "key": "the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395",
+          "show": "Huberman Lab",
+          "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/omega3statusandformboundary/"
     },
     "OmenCodedRemonstrance": {
@@ -184997,9 +185032,9 @@
       "url": "/wiki/entities/rhodebeauty/"
     },
     "RhondaPatrick": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7949990176 [SCIM7949990176].md",
@@ -185007,9 +185042,16 @@
           "show": "Huberman Lab",
           "title": "Micronutrients for Health & Longevity | Dr. Rhonda Patrick",
           "url": "/wiki/sources/micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176/"
+        },
+        {
+          "episode_file": "SCIM9935898395 [SCIM9935898395].md",
+          "key": "the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395",
+          "show": "Huberman Lab",
+          "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/rhondapatrick/"
     },
     "RichardCromwell": {
@@ -223036,6 +223078,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/virtualreality/"
+    },
+    "VisceralAdiposityMetabolicRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9935898395 [SCIM9935898395].md",
+          "key": "the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395",
+          "show": "Huberman Lab",
+          "title": "The Best Vitality & Health Protocols | Dr. Rhonda Patrick",
+          "url": "/wiki/sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/visceraladipositymetabolicrisk/"
     },
     "VishnuPadmanabhan": {
       "episode_count": 1,

@@ -30053,3 +30053,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | The Best Vitality & Health Protocols | Dr. Rhonda Patrick
+
+Added source `the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395`; created [[VisceralAdiposityMetabolicRisk|Visceral Adiposity and Metabolic Risk]]; and resynthesized [[RhondaPatrick|Rhonda Patrick]], [[ExerciseSnacks]], [[IntermittentChallengeHormesis]], [[CircadianEatingWindowAlignment]], [[CreatineMonohydrateEvidence]], and [[Omega3StatusAndFormBoundary]] from their complete preserved evidence inventories. Core synthesis: regular cardiovascular and resistance exercise, sleep-compatible meal timing, metabolic health, and nutrient adequacy remain higher priorities than experimental compounds; brief recoverable stress may support adaptation, but chronic stress and indiscriminate signal suppression can reverse the tradeoff. No settled contradiction was adopted. Mortality associations, visceral-fat prevalence and thresholds, LPS mechanisms, fasting-switch timing, autophagy, supplement doses, cognitive and cancer outcomes, and pediatric use remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten because the durable additions are represented in narrower canonical pages. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,757 sources and retain 789 overview paragraphs. Changed-page links, index coverage, identities, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

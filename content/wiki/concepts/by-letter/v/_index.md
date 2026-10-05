@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 9706
+wiki_total_pages: 9707
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "VirtuFortunaPoliticalAgency"
     title: "Virtù And Fortuna Political Agency"
     url: "/wiki/concepts/virtufortunapoliticalagency/"
+  - key: "VisceralAdiposityMetabolicRisk"
+    title: "Visceral Adiposity and Metabolic Risk"
+    url: "/wiki/concepts/visceraladipositymetabolicrisk/"
   - key: "VisionLanguageActionModels"
     title: "Vision Language Action Models"
     url: "/wiki/concepts/visionlanguageactionmodels/"

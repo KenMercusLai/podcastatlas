@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Best Vitality & Health Protocols | Dr. Rhonda Patrick](sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395.md) — Huberman Lab interview on exercise, adaptive stress, meal timing, visceral fat, inflammation, and evidence-bounded supplement priorities.
 - [Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN](sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175.md) — All-In GTC interviews connecting specialized GPU finance, multi-model computer use, portable enterprise AI, and energy-to-compute data-center buildout.
 - [《资治通鉴·汉纪》358-1｜深度拆解司马相如](sources/zizhi-tongjian-hanji-358-1-shendu-chaijie-simaxiangru-lg5xoqse-j7_hoap-kquae7-uf-h.md) — 以“情圣／渣男”、文学楷模与求官争议并置司马相如，并把其早期侍从经历、读书偏好和梁孝王文士圈还原为辞赋成长背景。
 - [《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？](sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k.md) — 杨仆提议东迁函谷关，被节目解释为个人名位与扩大关内控制的结合；余善则在汉军压力、内部倒戈与刺杀后败亡，随后当地人口被迁往江淮。
@@ -16290,6 +16291,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [Visceral Adiposity and Metabolic Risk](concepts/VisceralAdiposityMetabolicRisk.md) — Weight-independent framework for visceral fat, portal liver exposure, insulin resistance, menopause-related redistribution, and contextual measurement.
 - [Administrative Boundary Relocation / 行政边界迁移式扩张](concepts/AdministrativeBoundaryRelocation.md) — 通过移动关口等边界，把更多土地和人口重新定义为受直接监督的核心区。
 - [Post-Conquest Population Removal / 征服后人口迁出](concepts/PostConquestPopulationRemoval.md) — 在奖励归降精英的同时，将更广泛的被征服人口移离原地以破坏其地形与组织基础的强制安置方式。
 - [Cultural Decline Anxiety / 文化衰亡焦虑](concepts/CulturalDeclineAnxiety.md) — Recurring move from a specific threatened practice or capacity to a total civilizational-collapse judgment, qualified by criticism's memory-preserving role.

@@ -10,7 +10,8 @@ sources:
   - how-to-stop-headaches-using-science-based-approaches-scim3934172473
   - guest-series-dr-andy-galpin-optimal-protocols-to-build-strength-grow-muscles-scim5680136934
   - scim1817217176-scim1817217176
-last_updated: 2026-10-03
+  - the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395
+last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -36,6 +37,8 @@ The full strength episode independently returns to five grams daily as a standar
 
 The 2021 muscle episode is the underlying full-length source for the later Essentials edit. It describes creatine as supporting high-intensity activity, power, fatigue resistance, and possible cognition, but does not add independent replication or resolve the existing dosing and clinical-use disagreements.
 
+Patrick adds a brain-stress rationale while also widening the dose disagreement. She describes muscle as competing strongly for supplemental creatine, cites small studies using about ten grams or much higher weight-scaled doses under sleep deprivation or cognitive impairment, and reports taking ten grams daily with temporary increases during travel or sleep loss. These observations keep creatine's performance evidence separate from preliminary cognitive, injury, and disease contexts; they do not establish a routine brain-targeting dose or treatment protocol.
+
 ## Key Claims
 - Creatine monohydrate is treated as the most tested, safe, effective, and cost-justified form compared with more expensive alternatives.
 - The source links creatine to phosphocreatine stores, exercise performance, recovery, lean mass, strength, and possible cognition.
@@ -43,7 +46,7 @@ The 2021 muscle episode is the underlying full-length source for the later Essen
 - Loading saturates stores faster, but about five grams per day without loading can reach the same endpoint over time, and precise daily timing is not treated as important.
 - Gastrointestinal tolerance and adherence can justify skipping loading or splitting doses.
 - A third source agrees on formulation and optional loading but gives a substantially higher dose for heavier people, creating an unresolved dosing qualification.
-- A later source rejects brain-injury treatment claims, while an earlier episode reports a favorable high-dose post-traumatic-headache pilot; the conflict remains unresolved and does not support self-treatment.
+- A later source rejects brain-injury treatment claims, while high-dose pilots or practices for post-traumatic headache, brain stress, and cognitive impairment remain population-specific, unresolved, and unable to displace conservative sports examples or support self-treatment.
 
 ## Evidence
 - Evidence strength: [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484]] calls creatine monohydrate the most tested, safe, and effective sports supplement available.
@@ -58,16 +61,14 @@ The 2021 muscle episode is the underlying full-length source for the later Essen
 - Contested post-traumatic pilot: [[how-to-stop-headaches-using-science-based-approaches-scim3934172473]] reports six months of 0.4 grams per kilogram per day and a large headache-frequency difference after TBI, but the episode summary does not provide enough study detail or replication context to establish treatment efficacy.
 - Standard-dose corroboration: [[guest-series-dr-andy-galpin-optimal-protocols-to-build-strength-grow-muscles-scim5680136934]] identifies creatine monohydrate as the leading non-macronutrient supplement, gives five grams daily as its standard example, and treats timing as irrelevant.
 - Full-episode provenance: [[scim1817217176-scim1817217176]] links creatine to high-intensity performance, power, reduced fatigue, and possible cognitive effects; the later Essentials edit condenses the same material.
+- Brain-stress hypothesis: [[the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395]] describes small sleep-deprivation and cognitive-impairment studies and Patrick's higher-dose personal practice while acknowledging that brain uptake differs from muscle saturation.
 
 ## Counterevidence & Qualifications
-This concept is not individualized supplement advice. Kidney disease, liver disease, pregnancy, adolescence, medication interactions, competitive-sport rules, product contamination, gastrointestinal intolerance, diet pattern, and clinical conditions can change the risk calculation. "Healthy people" is part of the source's safety boundary, not a universal claim. The 66-study count and 12% to 20% power figure cannot be independently evaluated from the episode summary, the 10-15 gram range should not be generalized without evidence or clinical context, and possible cognitive or bone effects do not establish prevention or treatment of neurological disease or injury. The post-traumatic pilot used a much higher weight-scaled dose and cannot override the later explicit non-treatment boundary without fuller evidence and clinical guidance. The 2021 full episode and its Essentials edit are editorially related, not independent confirmation.
+This concept is not individualized supplement advice. Kidney disease, liver disease, pregnancy, adolescence, medication interactions, competitive-sport rules, product contamination, gastrointestinal intolerance, diet pattern, and clinical conditions can change the risk calculation. "Healthy people" is part of the source's safety boundary, not a universal claim. The 66-study count and 12% to 20% power figure cannot be independently evaluated from the episode summary; the 10-15 gram range, Patrick's ten-gram routine, and temporary 20-25-gram practice should not be generalized without evidence or clinical context. Possible cognitive or bone effects do not establish prevention or treatment of neurological disease or injury. The post-traumatic pilot used a much higher weight-scaled dose and cannot override the later explicit non-treatment boundary without fuller evidence and clinical guidance. The 2021 full episode and its Essentials edit are editorially related, not independent confirmation.
 
 ## What Changed
-- Added the favorable post-traumatic-headache pilot as a contested research signal.
-- Made the conflict with the later no-TBI-treatment claim explicit.
-- Preserved sports-supplement dosing separately from the pilot's high weight-scaled clinical dose.
-- Added independent support for a five-gram consistency-based default while retaining the unresolved higher-dose claim.
-- Added the underlying full-episode provenance without double-counting the later Essentials edit as replication.
+- Added preliminary brain-stress and cognitive-impairment contexts without converting them into treatment claims.
+- Expanded the unresolved dosing range while preserving conservative sports examples separately from higher-dose research and personal practice.
 
 ## Related Concepts
 - [[ProteinBodyCompositionLever]] - adjacent body-composition lever where protein and creatine both support training adaptation differently.
