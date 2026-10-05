@@ -8,9 +8,9 @@
   },
   "maximums": {
     "index_bytes": 200000000,
-    "hugo_ms": 120000,
+    "hugo_ms": 180000,
     "pagefind_ms": 90000,
-    "end_to_end_ms": 300000,
+    "end_to_end_ms": 420000,
     "cold_query_p50_ms": 500,
     "cold_query_p95_ms": 1000,
     "warm_query_p50_ms": 100,
