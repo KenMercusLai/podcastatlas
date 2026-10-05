@@ -14,14 +14,19 @@ sources:
   - zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p
   - zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp
   - zizhi-tongjian-hanji-370-1-jiemi-hanchao-diyiwei-yu-xiongnu-heqin-de-gongzhu-lgetvmacjnoxhqfzymupxsk7fknk
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo
+last_updated: 2026-10-06
 ---
 
 ## Overview
 
+The earliest current direct-contact layer now comes from [[zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo|Hanji 341-1]]: [[ZhangQianWesternHan|张骞]] offers gifts, relocation, brother-state alliance, and marriage, while the Wusun ruler accepts contact but sends observers to test Han strength before choosing alignment. This adds independent capacity testing to a profile already shaped by Xiongnu dependence, marriage diplomacy, succession rules, and later Han intervention.
+
 乌孙 / Wusun is synthesized as a [[WesternRegionsProtectorate|Western Regions]] polity whose alliance value against [[Xiongnu|匈奴]] is repeatedly complicated by prior dependence, court rivalry, marriage diplomacy, and succession rules. [[zizhi-tongjian-hanji-370-1-jiemi-hanchao-diyiwei-yu-xiongnu-heqin-de-gongzhu-lgetvmacjnoxhqfzymupxsk7fknk|Hanji 370-1]] adds the earliest current formation and alliance-entry layer: [[LiejiaomiWusun|猎骄靡]] rises with Xiongnu support, later fears Xiongnu pressure as Wusun approaches Han, and requests [[LiuXijunPrincessWesternHan|刘细君]] through a one-thousand-horse marriage offer. [[zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp|Hanji 370-2]] continues with Liejiaomi balancing Han and Xiongnu brides, then carrying Xijun into the succession through [[JunxumiWusun|军须靡]]. [[zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p|Hanji 413-1]] adds the later Xieyou-Wengguimi alliance layer, while Hanji 444, 460, 461, and 463 follow another planned marriage, coercive remarriage crisis, split-kunmi settlement, and Xieyou's return. [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] later makes Wusun the direct crisis field for [[DuanHuizongWesternHan|段会宗]]'s punitive mission, while [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|Hanji 591-1]] shows Wusun weakness being used inside a Han court threat model.
 
 ## Current Profile
+
+Hanji 341-1 supplies the earliest current direct Han-Wusun negotiation. Zhang Qian treats Wusun as a potential anti-Xiongnu partner and offers rich gifts, eastward relocation into former Hunye territory, brother-state language, and a possible Han princess. The ruler complies with Zhang's demanded gift-reception protocol but does not immediately relocate or break with Xiongnu. Sending a party back to inspect Han makes alignment conditional on independently observed capacity, not on gifts or ritual alone. Zhang's deputy envoys also make Wusun a branching point for wider western diplomacy.
 
 Hanji 370-1 supplies the earliest current Wusun formation and Han-alliance-entry layer. Its origin legend makes Liejiaomi a child of Wusun defeat who is protected and later empowered by a Xiongnu chanyu. With Xiongnu support he attacks the Yuezhi in the Ili region and builds a major north-Tianshan polity. When Wusun later values Han contact and Xiongnu threatens retaliation, it requests a Han bride and supplies one thousand horses. The sequence makes the marriage a security hedge by a polity with both strategic weight and a history of Xiongnu dependence.
 
@@ -45,8 +50,8 @@ Hanji 591-1 adds a later indirect layer. [[XiFuGongWesternHan|息夫躬]] claims
 
 ## Key Characteristics
 
+- Receives Zhang Qian's gifts and alliance offer but tests Han capacity before deeper alignment.
 - Western Regions polity whose ruler's Xiongnu-supported rise precedes a bridewealth-backed Han marriage hedge and later anti-Xiongnu cooperation.
-- Succession instability can cancel a planned Han marriage before completion.
 - Internal succession custom can redirect Han princesses across generations and override a Han-preferred heir line.
 - Heqin marriage can become local remarriage exposure when a ruler dies or prepares succession and Wusun custom assigns the princess to a new ruler.
 - Han pressure and trusted mediation can convert succession war risk into a formal split-kunmi settlement, though the division remains unstable.
@@ -55,6 +60,9 @@ Hanji 591-1 adds a later indirect layer. [[XiFuGongWesternHan|息夫躬]] claims
 
 ## Evidence
 
+- Initial Han approach: [[zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo|Hanji 341-1]] says Zhang Qian offers gifts, relocation, alliance, and marriage to draw Wusun away from Xiongnu.
+- Capacity inspection: [[zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo|Hanji 341-1]] says the ruler delays commitment and sends observers back to Han to assess its strength.
+- Western branching point: [[zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo|Hanji 341-1]] says Zhang sends deputies from Wusun toward Dayuan, Kangju, Yuezhi, and Daxia.
 - Formation and prior dependence: [[zizhi-tongjian-hanji-370-1-jiemi-hanchao-diyiwei-yu-xiongnu-heqin-de-gongzhu-lgetvmacjnoxhqfzymupxsk7fknk|Hanji 370-1]] says a Xiongnu chanyu protects Liejiaomi and later restores Wusun followers to him before his attack on the Yuezhi.
 - Han marriage entry: [[zizhi-tongjian-hanji-370-1-jiemi-hanchao-diyiwei-yu-xiongnu-heqin-de-gongzhu-lgetvmacjnoxhqfzymupxsk7fknk|Hanji 370-1]] says Wusun seeks a Han princess under Xiongnu pressure and sends one thousand horses.
 - Earliest dual-marriage balance: [[zizhi-tongjian-hanji-370-2-yeye-ba-jiaoqi-jiagei-qinsunzi-nainai-yiye-bian-xifuer-lopw_h3yzk6qtcpksqdm9l2egrvp|Hanji 370-2]] says Liejiaomi makes Xijun right wife and a Xiongnu princess left wife.
@@ -82,20 +90,22 @@ Hanji 591-1 adds a later indirect layer. [[XiFuGongWesternHan|息夫躬]] claims
 
 ## Qualifications
 
+Hanji 341-1's gift totals, exact ritual exchange, proposed migration geography, ruler identity, decision sequence, and observer mission remain episode-attributed. “昆莫” is treated as a ruler title, and this page does not use the episode alone to equate it conclusively with Liejiaomi.
+
 Hanji 370-1's wolf-and-crow narrative is an origin legend rather than independently verified biography. Its exact chronology, Xiongnu patron identity, Yuezhi campaign mechanics, relative-size claim, bridewealth practice, and motive reconstruction remain source-scoped.
 
 This page still does not cover Wusun's full history, geography, or complete Han-Wusun relationship. Hanji 370-2 grounds the Xijun-Liejiaomi-Junxumi marriage sequence but not Xijun's reliable death chronology, the unnamed Xiongnu princess's identity, the exact court-rank system, or the actors' private motives. Hanji 413-1 and Hanji 414 ground the Xieyou-Wengguimi aid channel and Wusun-Chang Hui anti-Xiongnu strike, but do not settle Chang Hui's full biography, the exact battle geography, the Wusun command structure, or the casualty and livestock figures beyond the source's retelling. Hanji 444 grounds the Liu Xiangfu recall but does not settle her full genealogy, formal princess title, Chang Hui's complete mission, or Wengguimi and Yuanguimi's full succession background. Hanji 460 grounds the Xieyou-Nimi crisis but does not settle Xieyou's full biography, exact age, Wusun genealogy, or Han authorization for the assassination plot. Hanji 461 grounds the settlement but does not settle the full household division, all envoy punishments, or the later balance between Yuanguimi and Wujiutu. Hanji 463 grounds Xieyou's return and Feng Liao's mission but does not settle Xingmi and Cili Mi's full reigns. Hanji 550 grounds the Yuanyan 2 Wusun succession and punishment sequence; Hanji 591-1 grounds the later Aidi-era threat-modeling use.
 
 ## What Changed
 
-- Added Hanji 370-1's formation and alliance-entry layer, then preserved Hanji 370-2's dual-marriage and compelled-succession sequel.
-- Preserved Hanji 413-1 and Hanji 414's later Xieyou-Wengguimi alliance and allied-strike layer.
-- Preserved Hanji 460-461's Xieyou-Nimi crisis and resolution: succession exclusion, coercive remarriage, failed assassination, Chigu relief, mediation, and the split-kunmi settlement.
-- Preserved Hanji 463's stabilizing sequel: Xieyou's return and Feng Liao's late-life mission to support Xingmi.
-- Preserved Hanji 550's direct Wusun crisis layer and Hanji 591-1's later indirect Wusun-Xiongnu threat-modeling branch.
+- Added Zhang Qian's initial alliance offer, contested gift protocol, and Wusun's capacity-inspection response.
+- Reframed the later marriage alliance as the sequel to cautious direct contact rather than immediate conversion by gifts.
+- Added Wusun's role as the branching point for delegated contact with several western polities.
 
 ## Relationships
 
+- [[ZhangQianWesternHan|张骞]] - envoy whose initial alliance mission makes Wusun a cautious partner and western diplomatic hub.
+- [[CapacityBackedDiplomaticHierarchy|实力支撑的外交名分]] - related because Wusun distinguishes ceremonial gift reception from verified Han power and lasting alignment.
 - [[Xiongnu|匈奴]] - steppe power whose possible Wusun leverage drives the episode's threat model.
 - [[LiejiaomiWusun|猎骄靡]] - Wusun ruler who balances Han and Xiongnu marriages and directs Xijun into the succession.
 - [[LiuXijunPrincessWesternHan|刘细君]] - first current Han princess case exposed to Wusun succession remarriage.

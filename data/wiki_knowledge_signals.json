@@ -12366,9 +12366,9 @@
       "url": "/wiki/concepts/ancientromantourism/"
     },
     "AncientSilkRoad": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lrm9QbtnCvUh2uTckq7hogPOXhAY [lrm9QbtnCvUh2uTckq7hogPOXhAY].md",
@@ -12376,9 +12376,16 @@
           "show": "忽左忽右",
           "title": "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山",
           "url": "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？ [lrjTsFu1AuxhbgbawT-E5Dm_FBGo].md",
+          "key": "zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/ancientsilkroad/"
     },
     "AnderMedicalAesthetics": {
@@ -32505,9 +32512,9 @@
       "url": "/wiki/concepts/capabilityoverhang/"
     },
     "CapacityBackedDiplomaticHierarchy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
@@ -32529,9 +32536,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》357-2｜唉，一片真心不如钱重要",
           "url": "/wiki/sources/zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？ [lrjTsFu1AuxhbgbawT-E5Dm_FBGo].md",
+          "key": "zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/capacitybackeddiplomatichierarchy/"
     },
     "CapacityBoundFrontierCommitment": {
@@ -53596,6 +53610,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/entities/davidyeager/"
+    },
+    "DaxiaWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？ [lrjTsFu1AuxhbgbawT-E5Dm_FBGo].md",
+          "key": "zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/daxiawesternhan/"
     },
     "DaxiaoDianbo": {
       "episode_count": 4,
@@ -236177,9 +236207,9 @@
       "url": "/wiki/entities/wusisouthernxiongnu/"
     },
     "Wusun": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？ [lrq-xDHVrNUARzwgrYKP7J_x8J_A].md",
@@ -236250,9 +236280,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》370-1｜揭秘汉朝第一位与匈奴和亲的公主",
           "url": "/wiki/sources/zizhi-tongjian-hanji-370-1-jiemi-hanchao-diyiwei-yu-xiongnu-heqin-de-gongzhu-lgetvmacjnoxhqfzymupxsk7fknk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？ [lrjTsFu1AuxhbgbawT-E5Dm_FBGo].md",
+          "key": "zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/wusun/"
     },
     "WuyanCounty": {
@@ -245638,9 +245675,9 @@
       "url": "/wiki/entities/zhangpueasternhan/"
     },
     "ZhangQianWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌 [lrJdMvYVoSWgFDuAjcH9oM9R-b6b].md",
@@ -245655,6 +245692,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？ [lrjTsFu1AuxhbgbawT-E5Dm_FBGo].md",
+          "key": "zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo/"
         }
       ],
       "updated": "2026-10-06",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？](sources/zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo.md) — 张骞以礼物、礼仪、迁徙与联姻方案争取乌孙，并用持节副使把单线访问扩展为通往大宛、康居、月氏和大夏的外交网络；乌孙则先派人核验汉朝实力。
 - [EP 33: Agents Everywhere: What Agentic AI Actually Means for Your Job](sources/ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job.md) — Data Science With Sam explainer on agent action loops, bounded reliability, human oversight, task displacement, and the verification skills needed for agent-enabled work.
 - [《资治通鉴·汉纪》343-1｜他一生荒淫骄奢，后人却顶礼膜拜？](sources/zizhi-tongjian-hanji-343-1-ta-yisheng-huangyin-jiaoshe-houren-que-dingli-mobai-lnspg6ektohor19yhtcqulhl4cvt.md) — 以汉武帝巡幸、河东郡守自杀和刘胜之死并置皇权压力，并将刘胜的酒色名声解释为可能的诸侯王示弱自保；其主观意图保持来源限定。
 - [《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？](sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv.md) — 刘勃在父病与居丧期间的失礼、刘棁因排斥而告发、张骞调查及妨碍办案共同导致废王迁徙，并显示守丧礼如何进入继承资格和法律责任。
@@ -3855,6 +3856,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 
 ## Entities
+- [大夏 / Daxia (Western Han-era)](entities/DaxiaWesternHan.md) — 张骞副使网络中的西域政体；与希腊—巴克特里亚王国的等同关系保持来源限定。
 - [韩愈 / Han Yu](entities/HanYu.md) — 唐代文学家与官员，以古文、直谏、屡遭贬谪及在潮州继续任事构成文学声望与公共责任相连的人物画像。
 - [中山王刘胜 / Liu Sheng, King of Zhongshan (Western Han)](entities/LiuShengZhongshanKingWesternHan.md) — 以沉湎酒色闻名、长期在位且被节目来源限定地解释为借无野心形象降低皇帝猜忌的西汉诸侯王。
 - [常山王刘勃 / Liu Bo, King of Changshan (Western Han)](entities/LiuBoChangshanKingWesternHan.md) — 因侍疾、居丧失礼及妨碍中央调查而在即位数月后被废、迁往房陵的常山末王。
