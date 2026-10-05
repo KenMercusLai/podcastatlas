@@ -43495,6 +43495,10 @@
     "title": "Jewish Councils / 犹太委员会",
     "url": "/wiki/entities/jewishcouncils/"
   },
+  "JiAnWesternHan": {
+    "title": "汲黯 / Ji An (Western Han)",
+    "url": "/wiki/entities/jianwesternhan/"
+  },
   "JiBu": {
     "title": "季布 / Ji Bu",
     "url": "/wiki/entities/jibu/"
@@ -64226,6 +64230,10 @@
   "PowerCompletionRetreat": {
     "title": "Power Completion Retreat / 功成退让",
     "url": "/wiki/concepts/powercompletionretreat/"
+  },
+  "PowerContingentSocialTies": {
+    "title": "权势依附型交往 / Power-Contingent Social Ties",
+    "url": "/wiki/concepts/powercontingentsocialties/"
   },
   "PowerDesireSelfRestraint": {
     "title": "权力欲自律 / Power Desire Self-Restraint",
@@ -90379,6 +90387,10 @@
     "title": "翟方进 / Zhai Fangjin (Western Han)",
     "url": "/wiki/entities/zhaifangjinwesternhan/"
   },
+  "ZhaiGongWesternHan": {
+    "title": "翟公 / Zhai Gong (Western Han)",
+    "url": "/wiki/entities/zhaigongwesternhan/"
+  },
   "ZhaiGuiLateHan": {
     "title": "翟瑰 / Zhai Gui (late Han)",
     "url": "/wiki/entities/zhaiguilatehan/"
@@ -91630,6 +91642,10 @@
   "ZhengChunEasternHan": {
     "title": "郑纯 / Zheng Chun (Eastern Han)",
     "url": "/wiki/entities/zhengchuneasternhan/"
+  },
+  "ZhengDangshiWesternHan": {
+    "title": "郑当时 / Zheng Dangshi (Western Han)",
+    "url": "/wiki/entities/zhengdangshiwesternhan/"
   },
   "ZhengErJiaozhi": {
     "title": "征贰 / Zheng Er (Jiaozhi)",
@@ -100194,6 +100210,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-333-1-men-ke-luoque-de-youlai-ni-zhidao-ma-lkoajhp2b_k32aurnk8rs-ukxaib": {
+    "title": "《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-333-1-men-ke-luoque-de-youlai-ni-zhidao-ma-lkoajhp2b_k32aurnk8rs-ukxaib/"
   },
   "zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1": {
     "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",

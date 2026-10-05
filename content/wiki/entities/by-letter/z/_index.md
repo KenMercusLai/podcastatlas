@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12489
+wiki_total_pages: 12492
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1367,6 +1367,9 @@ wiki_pages:
   - key: "ZhaiYiRebellion"
     title: "翟义起义 / Zhai Yi Rebellion"
     url: "/wiki/entities/zhaiyirebellion/"
+  - key: "ZhaiGongWesternHan"
+    title: "翟公 / Zhai Gong (Western Han)"
+    url: "/wiki/entities/zhaigongwesternhan/"
   - key: "ZhaiRongEasternHan"
     title: "翟戎 / Zhai Rong (Eastern Han)"
     url: "/wiki/entities/zhairongeasternhan/"
@@ -1766,6 +1769,9 @@ wiki_pages:
   - key: "ZhengHongWesternHan"
     title: "郑弘 / Zheng Hong (Western Han)"
     url: "/wiki/entities/zhenghongwesternhan/"
+  - key: "ZhengDangshiWesternHan"
+    title: "郑当时 / Zheng Dangshi (Western Han)"
+    url: "/wiki/entities/zhengdangshiwesternhan/"
   - key: "ZhengZhiWriter"
     title: "郑执 / Zheng Zhi"
     url: "/wiki/entities/zhengzhiwriter/"

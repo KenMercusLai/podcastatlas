@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9741
+wiki_total_pages: 9742
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2672,6 +2672,9 @@ wiki_pages:
   - key: "PowerDesireSelfRestraint"
     title: "权力欲自律 / Power Desire Self-Restraint"
     url: "/wiki/concepts/powerdesireselfrestraint/"
+  - key: "PowerContingentSocialTies"
+    title: "权势依附型交往 / Power-Contingent Social Ties"
+    url: "/wiki/concepts/powercontingentsocialties/"
   - key: "PublicArmoryPrivateFavorBoundary"
     title: "武库公器私赏边界 / Public Armory Private Favor Boundary"
     url: "/wiki/concepts/publicarmoryprivatefavorboundary/"
