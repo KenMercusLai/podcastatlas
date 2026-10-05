@@ -7,8 +7,9 @@ sources:
   - how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673
   - tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571
   - the-science-of-setting-achieving-goals-scim1292734289
+  - essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-02
+last_updated: 2026-10-05
 ---
 
 # Goal Pursuit Behavior Design
@@ -21,7 +22,7 @@ Goal pursuit behavior design is the conversion of a desired end state into one p
 
 [[how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673]] widens that system. Approach-oriented framing can make progress more legible than avoidance alone; meaningful choices preserve agency inside externally structured goals; plans should be made in a state resembling the state of execution; slack can prevent one miss from destroying the plan; fresh starts and shorter horizons create new beginnings and endpoints; temptation bundling pairs an unpleasant activity with a reserved immediate reward; and [[PeakEndTaskMemory|a better ending]] may improve willingness to return.
 
-A perception-and-preparation layer comes from [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]]. A distant outcome is divided into near targets; foreseeable obstacles receive rehearsed contingency responses; and progress is recorded because memory may undercount practice or improvement. Vision boards can help identify a desired direction, but positive fantasy is not execution and can reduce readiness when it makes success feel prematurely obtained.
+A perception-and-preparation layer comes from [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] and its condensed [[essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945]] edit. A distant outcome is divided into near targets; foreseeable obstacles receive rehearsed contingency responses; and progress is recorded because memory may undercount practice or improvement. Vision boards can help identify a desired direction, but positive fantasy is not execution and can reduce readiness when it makes success feel prematurely obtained.
 
 [[the-science-of-setting-achieving-goals-scim1292734289]] supplies an earlier systems view. Goal difficulty should be high enough to recruit effort without making success feel implausible; the number of major priorities should remain limited; and an overarching goal should be translated into concrete plans, intermediate milestones, and a recurring review interval. Its exact 85% learning ratio and weekly cadence are heuristics, not universal thresholds.
 
@@ -44,8 +45,8 @@ The durable principle is behavioral specificity with flexibility. The episodes' 
 - Framing and agency - [[how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673]] contrasts approach with avoidance goals and emphasizes meaningful choice inside structured objectives.
 - Resilient planning - [[how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673]] recommends realistic planning states, slack, fresh starts, and shorter horizons.
 - Repetition design - [[how-to-shape-your-identity-goals-dr-maya-shankar-scim1420437673]] describes temptation bundling and a less unpleasant ending as tools for returning to difficult activities.
-- Obstacle and proximity design - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] combines near visual targets, manageable planning increments, and rehearsed contingency responses.
-- Progress visibility - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] uses practice records to correct discouraging memory bias.
+- Obstacle and proximity design - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] and its [[essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945]] edit combine near visual targets, manageable planning increments, and rehearsed contingency responses.
+- Progress visibility - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] and [[essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945]] use practice records to correct discouraging memory bias.
 - Difficulty and priority calibration - [[the-science-of-setting-achieving-goals-scim1292734289]] recommends moderately difficult goals and limiting simultaneous major priorities.
 - Plan-review loop - [[the-science-of-setting-achieving-goals-scim1292734289]] connects concrete action steps, intermediate milestones, and regular self-assessment.
 
@@ -56,6 +57,7 @@ The sources supply toolkits, not comparative evidence that every component adds 
 - Added moderate-difficulty and limited-priority calibration.
 - Integrated intermediate milestones and recurring review into the execution loop.
 - Kept the 85% ratio and weekly cadence as source-scoped heuristics rather than universal prescriptions.
+- Classified the Essentials edit as overlapping provenance rather than an independent test of the toolkit.
 
 ## Related Concepts
 - [[MotivationRewardEffortCalculation]] - explains why task value and perceived effort affect initiation and persistence.

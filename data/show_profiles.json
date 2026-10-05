@@ -505,7 +505,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-10-05",
       "latest_episode_file": "SCIM2211492808 [SCIM2211492808].md",
-      "source_note_count": 319,
+      "source_note_count": 320,
       "topic_matched_source_note_count": 163,
       "topics": [
         {
@@ -577,16 +577,16 @@
           "episode_count": 5
         },
         {
+          "key": "EmilyBalcetis",
+          "title": "Emily Balcetis",
+          "url": "/wiki/entities/emilybalcetis/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
           "key": "AliCrum",
           "title": "Alia Crum",
           "url": "/wiki/entities/alicrum/",
-          "kind": "person",
-          "episode_count": 3
-        },
-        {
-          "key": "CaseyHalpern",
-          "title": "Casey Halpern",
-          "url": "/wiki/entities/caseyhalpern/",
           "kind": "person",
           "episode_count": 3
         }

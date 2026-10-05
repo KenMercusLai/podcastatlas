@@ -6,8 +6,9 @@ sources:
   - goals-toolkit-how-to-set-achieve-your-goals-scim1532399364
   - tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571
   - the-science-of-setting-achieving-goals-scim1292734289
+  - essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-02
+last_updated: 2026-10-05
 ---
 
 # Motivational Visualization by State
@@ -18,7 +19,7 @@ Motivational visualization by state is the episode's proposal to choose brief im
 ## Current Synthesis
 In [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]], visualization is not one universally positive exercise. Positive-outcome imagery is used to amplify an already available approach state, while failure imagery is intended to recruit urgency when a person does not want to begin the required action. Both are short pre-action tools subordinate to doing the work.
 
-A necessary boundary comes from research attributed to Gabrielle Oettingen in [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]]: extended positive fantasy can simulate satisfaction and reduce readiness to act. Vision boards and desired-future imagery may clarify direction, but they need concrete plans, obstacle preparation, and an immediate behavioral bridge.
+A necessary boundary comes from research attributed to Gabrielle Oettingen in [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]], repeated in the condensed [[essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945]] edit: extended positive fantasy can simulate satisfaction and reduce readiness to act. Vision boards and desired-future imagery may clarify direction, but they need concrete plans, obstacle preparation, and an immediate behavioral bridge.
 
 A phase distinction further separates initiation from maintenance: successful-endpoint imagery may help initiation, whereas repeated attention to the consequences of failure is proposed for continued action in [[the-science-of-setting-achieving-goals-scim1292734289]]. Its claimed near-doubling in goal attainment is not promoted as an established effect because the supplied note omits methods and because repeated threat imagery can backfire.
 
@@ -37,7 +38,7 @@ The useful synthesis is diagnosis before intervention: first distinguish wanting
 - State check - [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] asks whether the person wants the outcome and whether they want to perform today's actions.
 - Positive branch - [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] proposes one to five minutes of positive-outcome imagery when motivation is present.
 - Failure branch - [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] proposes brief consequence imagery when motivation is low.
-- Positive-fantasy boundary - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] distinguishes identifying a desired future from generating the readiness and plan needed to pursue it.
+- Positive-fantasy boundary - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] and its [[essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945]] edit distinguish identifying a desired future from generating the readiness and plan needed to pursue it.
 - Pursuit-phase distinction - [[the-science-of-setting-achieving-goals-scim1292734289]] separates endpoint imagery for starting from failure-consequence imagery for maintaining action.
 
 ## Counterevidence & Qualifications
@@ -46,6 +47,7 @@ The sources do not establish comparative effect sizes, optimal duration, durabil
 ## What Changed
 - Added the proposed initiation-versus-maintenance distinction.
 - Kept the near-doubling claim source-scoped and strengthened the boundary against distress-amplifying failure rehearsal.
+- Classified the Essentials retelling as editorial continuity rather than independent evidence.
 
 ## Related Concepts
 - [[GoalPursuitBehaviorDesign]] - larger action-design framework in which the tool appears.

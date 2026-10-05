@@ -3843,6 +3843,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？](sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_.md) — 卜式借旱灾批评桑弘羊使官吏入市逐利，并串联异星祥瑞、齐王刘弘早逝与读史的现实意义。
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 - [Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis](sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520.md) — All-In interview on Nvidia's AI-factory strategy, heterogeneous agent workloads, physical AI, open-model coexistence, token economics, autonomy, policy, and work.
+- [Essentials: Tools for Setting & Achieving Goals | Dr. Emily Balcetis](sources/essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945.md) — Condensed Huberman Lab interview on precise visual targets, perceived effort, obstacle planning, positive-fantasy limits, and evidence-based progress tracking.
 
 ## Entities
 - [泗水国 / Sishui Kingdom (Western Han)](entities/SishuiKingdomWesternHan.md) — 由大青墩“泗水王冢”椁板获得王陵物证、但具体墓主仍未确定的西汉诸侯国。

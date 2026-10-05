@@ -30243,3 +30243,11 @@ Added source `here-comes-the-son-brazils-election-tips-rightward-4ae9c94fbc2460c
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | Essentials: Tools for Setting & Achieving Goals | Dr. Emily Balcetis
+
+Added source `essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945`; resynthesized [[EmilyBalcetis]], [[VisualFocusEffortTool]], [[MentalContrastingImplementationIntentions]], [[MotivationalVisualizationByState]], [[ProgressTrackingSelfAssessment]], and [[GoalPursuitBehaviorDesign]] from their complete preserved evidence inventories. The Essentials edit repeats the full interview's target-focus sequence, 27%-faster and 17%-less-pain account, positive-fantasy boundary, obstacle rehearsal, and drumming tracker example, so it is classified as overlapping provenance rather than independent confirmation. The older solo episode's 23%-versus-27% speed discrepancy remains unresolved; cross-domain transfer and study details remain source-scoped. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,781 sources and retain 793 overview paragraphs.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

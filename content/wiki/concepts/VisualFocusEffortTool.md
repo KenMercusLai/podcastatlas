@@ -11,8 +11,9 @@ sources:
   - the-science-of-setting-achieving-goals-scim1292734289
   - scim8024795061-scim8024795061
   - scim3840916606-scim3840916606
+  - essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-03
+last_updated: 2026-10-05
 ---
 
 # Visual Focus Effort Tool
@@ -24,6 +25,8 @@ The visual focus effort tool is the proposal that narrowing gaze onto a specific
 [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] links visual aperture to task state: a narrow target is used for activation, while panoramic viewing is used periodically for relaxation and eye comfort. Its practical protocol proposes focusing at the relevant working distance for roughly 30-90 seconds while allowing blinking. [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] broadens the example to 30 seconds through three minutes and distinguishes overt focus on the target from covert attention directed away from where the eyes remain fixed. The condensed [[essentials-tools-to-improve-your-focus-concentration-scim2328129388]] edit repeats that range and the permission to blink, so it adds editorial continuity rather than a new comparison.
 
 [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] supplies the direct research narrative and a moving-task protocol: choose a precise landmark, imagine a spotlight on it, reduce peripheral distraction, reach it, and recalibrate to the next target. It also introduces a dose boundary. Sprinters may narrow attention early, while endurance athletes reportedly deploy it more selectively as energy or motivation fades. The reliable conceptual contribution is that visual selection can be designed around a task; the exact mechanisms, effect sizes, and cross-domain reach remain source-scoped.
+
+The condensed [[essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945]] edit repeats the same target cycle and the full interview's 27%-faster, 17%-less-pain account. It strengthens provenance continuity but is not an independent replication.
 
 [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] extends the tool into desk design. It proposes placing the primary target directly ahead, limiting excessive horizontal spread, and pairing sustained near focus with periodic panoramic distance viewing. The episode's 45-to-5 ratio is a practical heuristic rather than a validated universal dose.
 
@@ -48,20 +51,21 @@ The still earlier [[scim3840916606-scim3840916606]] episode presents visual focu
 - Recovery branch - [[goals-toolkit-how-to-set-achieve-your-goals-scim1532399364]] recommends occasional panoramic viewing rather than continuous narrowing.
 - Attention-mode distinction - [[focus-toolkit-tools-to-improve-your-focus-concentration-scim5273827033]] distinguishes direct overt focus from covert attention and presents brief fixation as an entry or re-entry tool.
 - Editorial continuity - [[essentials-tools-to-improve-your-focus-concentration-scim2328129388]] repeats relaxed fixation, normal breathing, blinking, gradual duration increases, and return after gaze drift.
-- Sequential-target protocol - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] describes selecting, reaching, and replacing specific visual landmarks during exercise.
-- Physical-task findings - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] reports an ankle-weight walking experiment with faster movement and lower discomfort under narrowed attention.
+- Sequential-target protocol - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] and its [[essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945]] edit describe selecting, reaching, and replacing specific visual landmarks during exercise.
+- Physical-task findings - [[tools-for-setting-achieving-goals-dr-emily-balcetis-scim4890374571]] and its Essentials edit report an ankle-weight walking experiment with faster movement and lower discomfort or pain under narrowed attention.
 - Earlier physical-task account - [[the-science-of-setting-achieving-goals-scim1292734289]] reports the same directional result with a different speed figure and links brief pre-task fixation to readiness.
 - Desk-work extension - [[optimizing-workspace-for-productivity-focus-creativity-scim5202577757]] recommends a centered target and panoramic distance viewing after sustained near work.
 - Early endurance application - [[scim8024795061-scim8024795061]] proposes switching between a concrete landmark and wider vision as effort and mental fatigue change.
 - Earliest focus exercise - [[scim3840916606-scim3840916606]] proposes 60-120 seconds of target fixation at the task's working distance while treating visual narrowing as one route into cognitive focus.
 
 ## Counterevidence & Qualifications
-The source notes provide reported effect sizes for one walking task but not the full sample, methods, citation, or replication context, and they disagree on whether movement was 23% or 27% faster while agreeing on a 17% perceived-effort or discomfort difference. The early endurance application is anecdotal and does not independently validate those later study accounts. Their 30-60-second, 30-90-second, 60-120-second, up-to-three-minute, and 45-to-5 ranges do not establish optimal durations. The earliest episode's reduced-blinking suggestion is not required by the later protocols, which allow normal blinking; continuous narrowing or forced staring may itself become tiring. A physical target protocol does not automatically transfer to study, creative work, depression, or anxiety. Screen width and elevation must remain compatible with visual comfort, accessibility, pain, and task demands. A brief gaze exercise is not treatment for attention disorders, visual problems, anxiety, fatigue, or cardiovascular disease. Discomfort, headache, dizziness, or eyestrain are reasons to stop rather than intensify the protocol.
+The source notes provide reported effect sizes for one walking task but not the full sample, methods, citation, or replication context. The early solo account reports 23% faster movement, while the full interview and its condensed edit report 27%; all agree on a 17% perceived-effort, discomfort, or pain difference. The Essentials edit is not independent validation, and the early endurance application is anecdotal. Their 30-60-second, 30-90-second, 60-120-second, up-to-three-minute, and 45-to-5 ranges do not establish optimal durations. The earliest episode's reduced-blinking suggestion is not required by the later protocols, which allow normal blinking; continuous narrowing or forced staring may itself become tiring. A physical target protocol does not automatically transfer to study, creative work, depression, or anxiety. Screen width and elevation must remain compatible with visual comfort, accessibility, pain, and task demands. A brief gaze exercise is not treatment for attention disorders, visual problems, anxiety, fatigue, or cardiovascular disease. Discomfort, headache, dizziness, or eyestrain are reasons to stop rather than intensify the protocol.
 
 ## What Changed
 - Added the earliest 60-120-second work-distance fixation exercise as provenance for later focus protocols.
 - Resolved the blinking tension in favor of relaxed fixation with normal blinking rather than forced staring.
 - Kept exact duration and neuromodulator claims source-scoped.
+- Classified the new Essentials edit as overlapping evidence and preserved the unresolved 23%-versus-27% speed discrepancy.
 
 ## Related Concepts
 - [[GoalPursuitBehaviorDesign]] - broader toolkit that places gaze control inside a scheduled work session.
