@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 12417
+wiki_total_pages: 12418
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "Ireland"
     title: "Ireland"
     url: "/wiki/entities/ireland/"
+  - key: "IREN"
+    title: "IREN"
+    url: "/wiki/entities/iren/"
   - key: "IreneOfAthens"
     title: "Irene of Athens"
     url: "/wiki/entities/ireneofathens/"

@@ -2993,10 +2993,89 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aiinevitabilityresponsibilityevasion/"
     },
+    "AIInfrastructureDebtFinancing": {
+      "episode_count": 10,
+      "show_count": 3,
+      "source_note_count": 10,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+        },
+        {
+          "episode_file": "tech_20260721_0721_MP_TECH_pod_128 [tech_20260721_0721_MP_TECH_pod_128].md",
+          "key": "tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI debt is flooding the bond market",
+          "url": "/wiki/sources/tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？ [nlAHYbjWcrIMit8DfF7YhZPbUpm1].md",
+          "key": "151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1",
+          "show": "起朱楼宴宾客",
+          "title": "151.私募信贷Private Credit：加速AI建设的“天使”，还是诱发金融危机的“恶魔”？",
+          "url": "/wiki/sources/151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1/"
+        },
+        {
+          "episode_file": "143.如何判断一段行情是回调还是结束？｜ 三季度投资账复盘 [lnmkuiW9mFdI5tqOJZi07vNAORQZ].md",
+          "key": "143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz",
+          "show": "起朱楼宴宾客",
+          "title": "143.如何判断一段行情是回调还是结束？| 三季度投资账复盘",
+          "url": "/wiki/sources/143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz/"
+        },
+        {
+          "episode_file": "tech_20260130_0130_MP_TECH_pod_128 [tech_20260130_0130_MP_TECH_pod_128].md",
+          "key": "tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Are we in an AI bubble?",
+          "url": "/wiki/sources/tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260213_TECH_pod_128 [tech_20260213_TECH_pod_128].md",
+          "key": "tech-20260213-tech-pod-128-tech-20260213-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Alphabet takes on debt to pay for AI projects, the social network where humans aren't allowed, and Spotify reports record user growth",
+          "url": "/wiki/sources/tech-20260213-tech-pod-128-tech-20260213-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI [42362555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
+        },
+        {
+          "episode_file": "182.全球宏观和资本市场2026三季度复盘与展望：多重囚徒困境 [llLSFO2SF5JdQIrx5o9Dn55UQHD8].md",
+          "key": "182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8",
+          "show": "起朱楼宴宾客",
+          "title": "182.全球宏观和资本市场2026三季度复盘与展望：多重囚徒困境",
+          "url": "/wiki/sources/182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Four CEOs on the Future of AI： CoreWeave, Perplexity, Mistral, and IREN [40565175].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/aiinfrastructuredebtfinancing/"
+    },
     "AIInfrastructureLaborDemand": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
@@ -3004,9 +3083,16 @@
           "show": "Economist Podcasts",
           "title": "Working through it: the AI jobs boom dawns",
           "url": "/wiki/sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Four CEOs on the Future of AI： CoreWeave, Perplexity, Mistral, and IREN [40565175].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/aiinfrastructurelabordemand/"
     },
     "AIInsuranceDataScarcity": {
@@ -3379,9 +3465,9 @@
       "url": "/wiki/concepts/aimodelbiasgovernance/"
     },
     "AIModelOrchestration": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
@@ -3396,9 +3482,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Four CEOs on the Future of AI： CoreWeave, Perplexity, Mistral, and IREN [40565175].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/aimodelorchestration/"
     },
     "AIModelSandboxEscape": {
@@ -46737,9 +46830,9 @@
       "url": "/wiki/concepts/corestandinggroundpreservation/"
     },
     "CoreWeave": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -46768,9 +46861,16 @@
           "show": "商业就是这样",
           "title": "Vol.273 英伟达则兼济天下？",
           "url": "/wiki/sources/vol-273-yingweida-ze-jianji-tianxia-1010956114/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Four CEOs on the Future of AI： CoreWeave, Perplexity, Mistral, and IREN [40565175].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/coreweave/"
     },
     "CorgiAIInsurance": {
@@ -52048,9 +52148,9 @@
       "url": "/wiki/concepts/datacenteronsitepower/"
     },
     "DataCenterPowerBottleneck": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 6,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -52149,9 +52249,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Four CEOs on the Future of AI： CoreWeave, Perplexity, Mistral, and IREN [40565175].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/datacenterpowerbottleneck/"
     },
     "DataEngineLearningLoop": {
@@ -68626,9 +68733,9 @@
       "url": "/wiki/concepts/enterpriseagentcontrollayer/"
     },
     "EnterpriseAgentGovernance": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 7,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nikesh Arora： Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company [41577435].md",
@@ -68692,9 +68799,16 @@
           "show": "晚点聊 LateTalk",
           "title": "174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界",
           "url": "/wiki/sources/ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Four CEOs on the Future of AI： CoreWeave, Perplexity, Mistral, and IREN [40565175].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
         }
       ],
-      "updated": "2026-08-18",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/enterpriseagentgovernance/"
     },
     "EnterpriseAgentMemory": {
@@ -106788,6 +106902,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/iphoneduo/"
     },
+    "IREN": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Four CEOs on the Future of AI： CoreWeave, Perplexity, Mistral, and IREN [40565175].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/iren/"
+    },
     "IanBotham": {
       "episode_count": 1,
       "show_count": 1,
@@ -116108,9 +116238,9 @@
       "url": "/wiki/entities/jev/"
     },
     "JevonsParadoxInAI": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 5,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
@@ -116160,9 +116290,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Four CEOs on the Future of AI： CoreWeave, Perplexity, Mistral, and IREN [40565175].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/jevonsparadoxinai/"
     },
     "JiRu": {
@@ -148907,6 +149044,29 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/mississippi/"
     },
+    "MistralAI": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "AHARO1828359836 [AHARO1828359836].md",
+          "key": "featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Featherless AI: When Your Weekend Experiment Makes More Than Your Startup",
+          "url": "/wiki/sources/featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Four CEOs on the Future of AI： CoreWeave, Perplexity, Mistral, and IREN [40565175].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/mistralai/"
+    },
     "Mithras": {
       "episode_count": 3,
       "show_count": 1,
@@ -166996,10 +167156,54 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/perpetualforeignerstereotype/"
     },
+    "Perplexity": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits [40647420].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420/"
+        },
+        {
+          "episode_file": "vol.114.AI的2025和DeepSeek们的未来 ｜ 对谈复旦张奇教授 [lhVhnvQTVuV4Ln_cCKcpedgldolo].md",
+          "key": "vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo",
+          "show": "起朱楼宴宾客",
+          "title": "Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授",
+          "url": "/wiki/sources/vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo/"
+        },
+        {
+          "episode_file": "AHARO2429033165 [AHARO2429033165].md",
+          "key": "ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "AI Startup Hits $8.6M ARR With V0 MVP and EUR85 Pricing",
+          "url": "/wiki/sources/ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing/"
+        },
+        {
+          "episode_file": "tech_20251218_1218_MP_TECH_pod_128 [tech_20251218_1218_MP_TECH_pod_128].md",
+          "key": "tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The challenges of integrating ads in AI search engines",
+          "url": "/wiki/sources/tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Four CEOs on the Future of AI： CoreWeave, Perplexity, Mistral, and IREN [40565175].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/perplexity/"
+    },
     "PerplexityComputer": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品 [1008870590].md",
@@ -167007,9 +167211,16 @@
           "show": "声动早咖啡",
           "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
           "url": "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Four CEOs on the Future of AI： CoreWeave, Perplexity, Mistral, and IREN [40565175].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/perplexitycomputer/"
     },
     "Persepolis": {
@@ -169315,9 +169526,9 @@
       "url": "/wiki/concepts/platformageestimation/"
     },
     "PlatformAgentAccessConflict": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
@@ -169339,9 +169550,16 @@
           "show": "枫言枫语",
           "title": "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战",
           "url": "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Four CEOs on the Future of AI： CoreWeave, Perplexity, Mistral, and IREN [40565175].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/platformagentaccessconflict/"
     },
     "PlatformAntitrust": {

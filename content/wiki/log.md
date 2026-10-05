@@ -30045,3 +30045,11 @@ Added source `zizhi-tongjian-hanji-358-1-shendu-chaijie-simaxiangru-lg5xoqse-j7_
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175`; created [[IREN]]; and resynthesized [[CoreWeave]], [[Perplexity]], [[MistralAI|Mistral AI]], [[PerplexityComputer|Perplexity Computer]], [[AIModelOrchestration]], [[EnterpriseAgentGovernance]], [[AIInfrastructureDebtFinancing]], [[DataCenterPowerBottleneck]], [[JevonsParadoxInAI]], [[PlatformAgentAccessConflict]], and [[AIInfrastructureLaborDemand]] from their complete preserved evidence inventories. Core synthesis: AI competition is shifting from model quality alone toward the combined ability to orchestrate models and tools, govern private enterprise context, finance and operate GPU capacity, and convert power, labor, cooling, networking, and construction into usable compute. No settled contradiction was adopted. CEO claims about contracts, finance, depreciation, revenue, margins, demand, renewable energy, wages, capacity, latency, and product performance remain source-scoped; older-GPU demand qualifies but does not eliminate residual-value risk, and agent autonomy remains bounded by permissions, verification, recovery, and platform access. The automatic `wiki/overview.md` was read for context and not manually rewritten because these durable additions are represented through the source and narrower canonical pages. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,756 sources and retain 789 overview paragraphs. Changed-page links, index coverage, identities, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

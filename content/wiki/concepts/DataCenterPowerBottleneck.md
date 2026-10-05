@@ -18,7 +18,8 @@ sources:
   - guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f
   - all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400
   - all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215
-last_updated: 2026-09-12
+  - all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175
+last_updated: 2026-10-05
 ---
 
 # Data Center Power Bottleneck
@@ -27,10 +28,12 @@ last_updated: 2026-09-12
 The data center power bottleneck is the constraint that AI and cloud infrastructure cannot scale on GPUs, capital, or demand alone; it also needs energizable sites, grid interconnection, generation, transmission, cooling, equipment, labor, financing, local consent, and continuity planning.
 
 ## Current Synthesis
-Across the bounded sources, power is one of the most durable limits on AI deployment. The constraint appears at several levels at once: companies need sites with enough electricity, utilities need generation and grid capacity, communities contest cost and environmental burdens, financiers need credible utilization and customer demand, and states worry about strategic resilience. The newer All-In sources add two related forms: energy availability can cap AI overbuild, and the gap between announced data centers and actually energizable projects can shift bargaining power toward hyperscalers with operating infrastructure.
+Across the bounded sources, power is one of the most durable limits on AI deployment, but the newest source sharpens the distinction between power access and usable compute. Companies need sites with electricity and grid connections; they also need permits, foundations, cooling, memory, storage, networking, optics, fiber and skilled labor before capacity can run. IREN calls that conversion path "time to compute," while CoreWeave describes the component stack that can throttle delivery even after GPUs are ordered.
+
+The constraint therefore appears at several levels at once: utilities need generation and grid capacity, developers need construction throughput, communities contest cost and environmental burdens, financiers need credible utilization and customer demand, and states worry about strategic resilience. Power scarcity can cap overbuild, but it can also move advantage toward operators that control land, grid access, fiber, labor and commissioning rather than simply owning chips.
 
 ## Key Claims
-- AI infrastructure is constrained by energizable capacity, not only by chips or model demand; power, land, interconnection, turbines, cooling, fiber, skilled labor, and permitting all shape build speed.
+- AI infrastructure is constrained by commissioned compute, not only by chips or nominal megawatts; power, land, interconnection, foundations, turbines, cooling, fiber, memory, networking, skilled labor, and permitting all shape build speed.
 - Onsite generation, behind-the-meter power, second-life batteries, and data-center siting near energy can reduce some grid delays but create separate fuel, storage, safety, emissions, and cost-allocation questions.
 - Power scarcity feeds AI market structure because token cost, energy per token, infrastructure debt, dark-GPU risk, and valuation durability depend on whether compute can be used profitably.
 - Electricity affordability and community consent are social-license constraints; households, utilities, local governments, and politicians may resist data centers if costs, water, jobs, noise, or tax incentives look unfair.
@@ -45,17 +48,18 @@ Across the bounded sources, power is one of the most durable limits on AI deploy
 - Cost shifting and local consent: [[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]], [[indicators-of-2025-and-what-to-watch-in-2026]], [[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]], and [[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] show electricity affordability, Microsoft cost pledges, canceled projects, data-center hiring, household bills, tax incentives, and local backlash.
 - Materials, grid, and semiconductor-system constraints: [[all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225]], [[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]], and [[all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400]] tie AI power needs to copper, grid equipment, domestic supernodes, rack power, cooling, U.S. energy growth, and Taiwan semiconductor continuity.
 - Construction and equipment delays: [[all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215]] adds turbines, transformers, grid infrastructure, supply-chain delays, permitting, and the difference between announced and actually under-construction data centers.
+- Time to compute and siting: [[all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175]] says [[IREN]]'s constraint is turning power into commissioned capacity through trades, foundations, cooling, equipment, fiber and construction; it also says grid-connected West Texas sites can use excess renewable generation while network latency still limits viable locations.
+- Component stack: [[all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175]] says [[CoreWeave]] sees shells, memory, storage, networking, optics and power as simultaneous bottlenecks, with memory-fab investment lagging AI demand.
 - Orbital alternative: [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] and [[all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400]] discuss space-based compute, orbital solar access, thermal radiation, launch economics, radiation, bit flips, chip hardening, and whether orbital inference or training can compete with terrestrial sites.
 
 ## Counterevidence & Qualifications
-Power is not the only AI bottleneck. Model demand, customer willingness to pay, GPU depreciation, memory supply, networking, software, data, regulatory approval, local politics, and financing discipline can bind first. Some onsite or alternative-power claims move the constraint rather than eliminating it, and second-life batteries or gas turbines may not scale cleanly to the largest campuses. Orbital compute remains speculative. The new source also cuts both ways on bubble risk: power scarcity can limit wasteful overbuild, but it can also slow useful AI diffusion and raise energy-price politics.
+Power is not the only AI bottleneck, and IREN's distinction makes this explicit: contracted or reserved megawatts are not completed compute. Model demand, customer willingness to pay, GPU depreciation, memory, networking, software, fiber, labor, construction, data, regulatory approval, local politics and financing discipline can bind first. IREN's renewable-energy, grid-reliability, capacity, demand and local-benefit claims are company-reported; locating near surplus generation does not by itself resolve lifecycle emissions, transmission, water, ratepayer or community effects. Some onsite or alternative-power claims move the constraint rather than eliminating it, and orbital compute remains speculative.
 
 ## What Changed
-- Migrated the page to the synthesis-v1 concept schema.
-- Added Gelsinger's argument that energy capacity is a natural ceiling on AI overbuild and token-economics improvement.
-- Added White House grid reliability and Taiwan energy-reserve risk as national and geopolitical forms of the power bottleneck.
-- Added the new source's orbital data-center discussion as a speculative extension of the existing space-compute branch.
-- Added the missed-targets episode's argument that power scarcity can advantage hyperscalers and obscure whether model-company shortfalls are demand or supply problems.
+- Added "time to compute" as the conversion from available power to commissioned capacity.
+- Added foundations, labor, cooling, fiber, memory, storage, networking and optics to the integrated bottleneck map.
+- Added power-rich remote siting as viable only when grid reliability and network latency also work.
+- Preserved IREN's renewable-energy and demand claims as company-reported rather than independent validation.
 
 ## Related Concepts
 - [[AIEnergyBottleneck]] - broader energy constraint that includes model training, inference, and power-generation capacity.

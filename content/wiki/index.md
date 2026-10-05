@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN](sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175.md) — All-In GTC interviews connecting specialized GPU finance, multi-model computer use, portable enterprise AI, and energy-to-compute data-center buildout.
 - [《资治通鉴·汉纪》358-1｜深度拆解司马相如](sources/zizhi-tongjian-hanji-358-1-shendu-chaijie-simaxiangru-lg5xoqse-j7_hoap-kquae7-uf-h.md) — 以“情圣／渣男”、文学楷模与求官争议并置司马相如，并把其早期侍从经历、读书偏好和梁孝王文士圈还原为辞赋成长背景。
 - [《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？](sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k.md) — 杨仆提议东迁函谷关，被节目解释为个人名位与扩大关内控制的结合；余善则在汉军压力、内部倒戈与刺杀后败亡，随后当地人口被迁往江淮。
 - [368-为什么每一个时代的文化精英都认为文化要完了？](sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe.md) — 独树不成林以柏拉图、罗马道德批评及近现代思想家比较文化衰亡焦虑，区分具体损失、制度机制、进步权衡与整体崩坏判断。
@@ -3820,6 +3821,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [IREN](entities/IREN.md) — Energy and data-center operator shifting part of its Bitcoin-mining infrastructure toward AI compute while emphasizing power, construction, labor, and latency.
 - [东越 / Dongyue (Western Han)](entities/DongyueWesternHan.md) — 余善统治下遭汉军进攻、内部倒戈、杀王投降与人口迁出的东南越系政权。
 - [吴阳 / Wu Yang (Yue marquis)](entities/WuYangYueMarquis.md) — 汉军压境时率七百人倒向汉方、预示东越内部瓦解的越系侯者。
 - [建成侯敖 / Ao, Marquis of Jiancheng](entities/JianchengHouAo.md) — 与繇王居股合谋杀余善、率众投降并获汉廷奖赏的东越内部行动者。

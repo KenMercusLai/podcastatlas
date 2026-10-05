@@ -11,7 +11,8 @@ sources:
   - e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf
   - kate-crawford-mapping-empires
   - all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573
-last_updated: 2026-10-04
+  - all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175
+last_updated: 2026-10-05
 ---
 
 # Jevons Paradox In AI
@@ -20,7 +21,7 @@ last_updated: 2026-10-04
 Jevons paradox in AI is the rebound pattern in which lower cost or resource use per token, task, or unit of capability makes more AI usage worthwhile, potentially increasing total compute, memory, storage, energy, water, and infrastructure demand.
 
 ## Current Synthesis
-Across the sources, efficiency changes behavior as well as unit economics. Cheaper tokens invite more users, calls, agent loops, context, model routing, and knowledge work; better memory use supports longer workflows; and a radically lower-power substrate could move AI into more facilities, devices, and robots. The rebound is plausible but not automatic: aggregate demand depends on price elasticity, useful applications, capital, power, regulation, substitution, and whether quality-adjusted costs actually fall. Environmental burdens therefore cannot be inferred from device efficiency alone.
+Across the sources, efficiency changes behavior as well as unit economics. Cheaper tokens invite more users, calls, agent loops, context, model routing, media generation and knowledge work; better memory use supports longer workflows; and lower-power substrates could move AI into more facilities, devices and robots. IREN adds a latency example: if image generation falls from minutes to seconds, users may generate more images rather than hold total usage constant. The rebound is plausible but not automatic: aggregate demand depends on price elasticity, useful applications, capital, power, regulation, substitution and whether quality-adjusted costs actually fall. Environmental burdens therefore cannot be inferred from device efficiency alone.
 
 ## Key Claims
 - Lower per-token or per-task cost can unlock workloads that were previously uneconomic or psychologically too expensive to attempt.
@@ -37,15 +38,15 @@ Across the sources, efficiency changes behavior as well as unit economics. Cheap
 - Labor-demand possibility: [[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] presents the source-scoped argument that cheaper code, radiology, and other knowledge work could increase demand while preserving tension with entry-level displacement.
 - Environmental boundary: [[kate-crawford-mapping-empires]] argues that wider embedding can increase total energy, water, minerals, land, and waste even as individual generations become cheaper.
 - Architectural-efficiency forecast: [[all-in-with-chamath-jason-sacks-friedberg-naveen-rao-4d-computing-ais-energy-wall-beating-biology-42983573]] predicts that 1,000-fold cheaper computation could drive more than 1,000-fold consumption and enable distributed AI and robotics.
+- Latency and media generation: [[all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175]] gives IREN's source-scoped example that faster image generation can induce users to make more images, while CoreWeave links sharply falling token prices with lower barriers to creating software, research and media products.
 
 ## Counterevidence & Qualifications
-Jevons paradox is not a law that guarantees aggregate growth. Saturation, weak demand, regulation, capital limits, model-quality ceilings, energy scarcity, hardware supply, environmental policy, or substitution away from other activities can weaken or reverse the rebound. Source examples and forecasts do not estimate elasticity consistently, and total environmental impact depends on the energy mix, water system, hardware lifecycle, utilization, and displaced alternatives. Cheaper knowledge work can increase output demand while still reducing particular roles or entry-level pathways.
+Jevons paradox is not a law that guarantees aggregate growth. Saturation, weak demand, regulation, capital limits, model-quality ceilings, energy scarcity, hardware supply, environmental policy, or substitution away from other activities can weaken or reverse the rebound. IREN's image example and demand outlook are operator forecasts, not elasticity estimates. Total environmental impact depends on the energy mix, water system, hardware lifecycle, utilization and displaced alternatives. Cheaper knowledge work can increase output demand while still reducing particular roles or entry-level pathways.
 
 ## What Changed
-- Migrated the page to the synthesis-v1 schema using the complete preserved evidence inventory.
-- Added radically lower-power hardware as a possible deployment-expansion channel.
-- Qualified the new 1,000-fold consumption forecast as untested rather than treating rebound as automatic.
-- Consolidated token, agent, memory, labor, and environmental forms into one current judgment.
+- Added latency reduction and image generation as a concrete rebound mechanism.
+- Added falling token costs as a lower-barrier channel for new software, research and creative workloads.
+- Preserved the new demand claims as operator forecasts rather than measured elasticity.
 
 ## Related Concepts
 - [[AIInferenceCostStructure]] - unit-cost frame whose decline can trigger additional usage.

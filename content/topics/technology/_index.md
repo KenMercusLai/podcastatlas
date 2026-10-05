@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3313
+topic_total_pages: 3314
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6023,6 +6023,9 @@ topic_entities:
   - key: "IPhoneDuo"
     title: "iPhone Duo"
     url: "/wiki/entities/iphoneduo/"
+  - key: "IREN"
+    title: "IREN"
+    url: "/wiki/entities/iren/"
   - key: "IronwoodTPU"
     title: "Ironwood TPU"
     url: "/wiki/entities/ironwoodtpu/"
@@ -6614,9 +6617,6 @@ topic_entities:
   - key: "Minnesota"
     title: "Minnesota"
     url: "/wiki/entities/minnesota/"
-  - key: "MistralAI"
-    title: "Mistral AI"
-    url: "/wiki/entities/mistralai/"
   - key: "MIUI"
     title: "MIUI"
     url: "/wiki/entities/miui/"
@@ -9177,6 +9177,9 @@ topic_sources:
   - key: "founder-led-sales-to-1m-arr-with-just-10-customers-aharo8420023047"
     title: "Founder-Led Sales to $1M ARR With Just 10 Customers"
     url: "/wiki/sources/founder-led-sales-to-1m-arr-with-just-10-customers-aharo8420023047/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175"
+    title: "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175/"
   - key: "tech-20260714-tech-pod-128-tech-20260714-tech-pod-128"
     title: "Froggle, Goofstump and the fake AI companies winning hearts online"
     url: "/wiki/sources/tech-20260714-tech-pod-128-tech-20260714-tech-pod-128/"
