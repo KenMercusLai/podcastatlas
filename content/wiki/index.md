@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？](sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa.md) — 栾大以求仙承诺换得封侯、六印与卫长公主婚姻，却在方术无验后被跟踪揭穿见师谎言并腰斩，推荐者丁义亦被处死。
 - [《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的](sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq.md) — 以赵禹的清廉、严法和拒绝请托区分原则与裁量，再以烈女的自伤、守寡和贞节牌坊引出性别化荣誉如何遮蔽生命代价。
 - [《资治通鉴·汉纪》350-1｜职场生存，这个道理必须懂！](sources/zizhi-tongjian-hanji-350-1-zhichang-shengcun-zhege-daoli-bixu-dong-lsobl23mkjhpn6eoif6oramxiopu.md) — 公孙卿以宝鼎时点和黄帝升仙叙事获得任用，陇西郡守则因天子从官缺食而自杀；节目把后者解释为近臣声誉权力下的避祸选择，但动机保持来源限定。
 - [《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书”](sources/zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu.md) — 以信任、近身接触和信息反馈解释天子从官的非正式权力，并串联北地亭障失修问责、甘泉太一祭祀及南越交涉预告。
@@ -3837,6 +3838,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [栾大 / Luan Da (Western Han)](entities/LuanDaWesternHan.md) — 以求仙承诺获得封侯、六印和帝女婚姻，后因长期无验及被监控行程否定的见师报告而遭腰斩的西汉方士。
+- [卫长公主 / Princess Wei the Elder (Western Han)](entities/WeiZhangPrincessWesternHan.md) — 汉武帝与卫子夫之女，先嫁曹襄、后被用于封结栾大异常受宠地位的帝室公主。
+- [丁义 / Ding Yi (Western Han)](entities/DingYiWesternHan.md) — 向汉武帝推荐栾大并在骗局败露后被连带斩首的乐成侯。
+- [曹襄 / Cao Xiang (Western Han)](entities/CaoXiangWesternHan.md) — 卫长公主第一任丈夫，节目所述曹参后裔、平阳公主之子及卫青麾下出征者，具体世系与军职仍来源限定。
 - [赵禹 / Zhao Yu (Western Han)](entities/ZhaoYuWesternHan.md) — 以拒绝请托维护独立、却因严法与苛刻被周亚夫质疑能否承担重任的西汉酷吏。
 - [司马谈 / Sima Tan (Western Han)](entities/SimaTanWesternHan.md) — 司马迁之父与太史令，其名字影响《史记》避讳异文，并在本期被列为甘泉太一三年一祭建议者。
 - [安国少季 / An Guo Shaoji (Western Han)](entities/AnGuoShaoJiWesternHan.md) — 汉使与樛太后旧日亲密关系人，其个人接近成为南越归汉交涉的一条政治渠道。

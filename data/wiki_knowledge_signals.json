@@ -32223,6 +32223,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/caoweiluoyonghaocolleague/"
     },
+    "CaoXiangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？ [llmAvVGEaAxWcSZ_PxirFUlbfpAa].md",
+          "key": "zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/caoxiangwesternhan/"
+    },
     "CaoZhengLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -57257,6 +57273,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/dingwairenwesternhan/"
     },
+    "DingYiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？ [llmAvVGEaAxWcSZ_PxirFUlbfpAa].md",
+          "key": "zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/dingyiwesternhan/"
+    },
     "DingdongMaicai": {
       "episode_count": 3,
       "show_count": 2,
@@ -74890,10 +74922,47 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/fangzhilatehan/"
     },
+    "FangshiAccountabilityTrap": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》135｜番外篇1 正史记载 看女相师如何改命？ [ls8LFj4pq_Ncsk7X3ER7nlB0lTKK].md",
+          "key": "zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》135｜番外篇1 正史记载 看女相师如何改命？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒 [luLAivzp1xqs71NbAltR-yGpJihw].md",
+          "key": "zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》125-1｜秦始皇修建史上最大烂尾楼阿房宫 [lhqc6jw4jZOyrG7JzC2mBXdEbNJ4].md",
+          "key": "zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》125-1｜秦始皇修建史上最大烂尾楼阿房宫",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？ [llmAvVGEaAxWcSZ_PxirFUlbfpAa].md",
+          "key": "zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/fangshiaccountabilitytrap/"
+    },
     "FangshiFraudAndAuthority": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒 [luLAivzp1xqs71NbAltR-yGpJihw].md",
@@ -74929,9 +74998,16 @@
           "show": "蜜獾吃书",
           "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
           "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？ [llmAvVGEaAxWcSZ_PxirFUlbfpAa].md",
+          "key": "zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa/"
         }
       ],
-      "updated": "2026-08-22",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/fangshifraudandauthority/"
     },
     "FangshiPowerRedistribution": {
@@ -137414,6 +137490,29 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/luzhilatehan/"
+    },
+    "LuanDaWesternHan": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？ [llmAvVGEaAxWcSZ_PxirFUlbfpAa].md",
+          "key": "zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/luandawesternhan/"
     },
     "Luanfanshu": {
       "episode_count": 12,
@@ -229328,6 +229427,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/weiyuanqingthinker/"
+    },
+    "WeiZhangPrincessWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？ [llmAvVGEaAxWcSZ_PxirFUlbfpAa].md",
+          "key": "zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/weizhangprincesswesternhan/"
     },
     "WeiZhaoLateHan": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12437
+wiki_total_pages: 12441
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2096,6 +2096,9 @@ wiki_pages:
   - key: "LiFuWarringStates"
     title: "栗腹 / Li Fu (Warring States)"
     url: "/wiki/entities/lifuwarringstates/"
+  - key: "LuanDaWesternHan"
+    title: "栾大 / Luan Da (Western Han)"
+    url: "/wiki/entities/luandawesternhan/"
   - key: "LuanBu"
     title: "栾布 / Luan Bu"
     url: "/wiki/entities/luanbu/"

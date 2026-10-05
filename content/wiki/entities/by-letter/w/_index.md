@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12437
+wiki_total_pages: 12441
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -995,6 +995,9 @@ wiki_pages:
   - key: "WimanJoseonFounder"
     title: "卫满 / Wiman"
     url: "/wiki/entities/wimanjoseonfounder/"
+  - key: "WeiZhangPrincessWesternHan"
+    title: "卫长公主 / Princess Wei the Elder (Western Han)"
+    url: "/wiki/entities/weizhangprincesswesternhan/"
   - key: "WeiQingHanGeneral"
     title: "卫青 / Wei Qing (Han general)"
     url: "/wiki/entities/weiqinghangeneral/"

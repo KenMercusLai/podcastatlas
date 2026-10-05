@@ -1,36 +1,57 @@
 ---
 title: "Fangshi Accountability Trap / 方士问责陷阱"
 type: concept
-tags: [qin, fangshi, religion, court-politics, risk]
-sources: [zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk, zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]
-last_updated: 2026-08-22
+tags: [qin, han, fangshi, religion, court-politics, risk]
+sources:
+  - zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk
+  - zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw
+  - zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4
+  - zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa
+last_updated: 2026-10-05
+knowledge_schema: synthesis-v1
 ---
 
-# Fangshi Accountability Trap / 方士问责陷阱
+## Definition
 
-Fangshi accountability trap / 方士问责陷阱 is the late-stage risk [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]] identifies in [[QinShiHuang|秦始皇]]'s relationship with court specialists. [[LuSheng|卢生]] and other fangshi can gain access by promising routes to immortals, ghosts, and deathless medicine, but those promises become dangerous when the emperor follows their advice and no visible result arrives.
+Fangshi accountability trap / 方士问责陷阱 is the risk created when a specialist wins access by promising supernatural or otherwise unverifiable results to a coercive patron. Patronage raises expectations; nondelivery then makes explanation, exit, and even truthful reporting dangerous for the specialist, intermediary, and sometimes a wider accused population.
 
-The source treats the trap as a bridge from [[ImmortalityQuestPolitics|求仙政治]] toward the坑儒 prelude. Qin Shi Huang accepts hidden movement, calls himself "真人," and builds a secretive palace-movement system. If immortals and medicine still do not appear, the specialist's authority has helped create expectations that can turn into imperial anger.
+## Current Synthesis
 
-[[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw|Qinji 125-2]] shows the trap closing. [[HouShengFangshi|侯生]] and [[LuSheng|卢生]] flee after criticizing Qin Shi Huang because the miracle economy has become too dangerous to remain inside. Their flight does not defuse the risk; it redirects imperial anger toward interrogation, mutual accusation, and the [[QinKengruIncident|秦代坑儒事件]].
+The Qin sources show two avoidance and spillover paths. [[LuSheng|卢生]] and [[HouShengFangshi|侯生]] flee after immortal promises remain unmet, but departure and criticism redirect [[QinShiHuang|秦始皇]]'s anger into interrogation, mutual accusation, and the [[QinKengruIncident|坑儒 incident]]. [[XuFuPhysiognomist|许负]] supplies a pre-entry variant: the episode has her feign illness because giving a dangerous fate judgment to a ruler could make court access lethal before patronage even begins.
 
-This concept is narrower than [[FangshiFraudAndAuthority|方士骗术与权威]]. Fraud-and-authority describes how unverifiable claims create extraction or influence; the accountability trap describes what happens afterward, when a powerful patron demands delivery from people whose claims cannot be delivered in ordinary terms.
-
-[[zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk|Qinji 135 番外篇1]] adds an avoidance-side variant through [[XuFuPhysiognomist|许负]]. She is not a sea-search fangshi in the [[XuFu|徐福]] sense, but the political risk is adjacent: once [[QinShiHuang|秦始皇]] summons a renowned fate-reader to court, the specialist may be forced to speak about regime fate inside a coercive imperial setting. The episode's account has her feign illness because reading a ruler she believes doomed would expose her to lethal blame, so the trap can shape conduct even before a specialist accepts court service.
+Hanji 344-2 adds a direct in-court closure. [[LuanDaWesternHan|栾大]] receives rank, wealth, seals, and marriage to [[WeiZhangPrincessWesternHan|卫长公主]], so repeated failure creates unusually high delivery pressure. The decisive shift comes when imperial surveillance makes his itinerary checkable: a claimed meeting with his teacher is no longer merely an unverifiable miracle delay but a contradicted report. Punishment then spreads to [[DingYiWesternHan|丁义]], the recommending intermediary.
 
 ## Key Claims
-- Unverifiable promises can win court access, but they also create a future accountability problem.
-- The more a ruler acts on fangshi advice, the harder failure becomes to explain away.
-- In a coercive court, failed sacred promises can redirect blame toward specialists, scholars, or alleged slanderers.
-- Qinji 125-1 records the prelude; Qinji 125-2 records how the same delivery failure becomes flight, anger, and mass punishment.
-- Qinji 135 adds that a specialist may avoid court entry when the expected answer concerns a ruler's death or dynastic collapse.
 
-## Connections
-- [[QinShiHuang|嬴政 / 秦始皇]], [[LuSheng|卢生]], and [[HouShengFangshi|侯生]] - ruler and named fangshi in the source.
-- [[ImmortalityQuestPolitics|求仙政治]] - demand environment for immortal access.
-- [[FangshiFraudAndAuthority|方士骗术与权威]] - broader specialist-authority pattern.
-- [[ImperialItinerarySecrecy|帝王行踪保密]] - concrete advice that Qin Shi Huang follows before disappointment intensifies.
-- [[QinBookBurningPolicy|秦代焚书令]] - prior "焚书" branch kept separate from the coming坑儒 branch.
-- [[QinKengruIncident|秦代坑儒事件]] - completed punishment branch after fangshi flight and criticism.
-- [[ChenweiPolitics|谶纬政治]] and [[ProphecyTriggeredPolicy|预言触发政策]] - adjacent omen and interpretation patterns around fangshi authority.
-- [[zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk|Qinji 135 番外篇1]], [[XuFuPhysiognomist|许负]], and [[FateReadingPoliticalRisk|命相判断的政治风险]] - refusal to enter the emperor's risk field.
+- Unverifiable promises can win court access while creating a future delivery and truthfulness problem.
+- Greater patron investment raises the political cost of visible nondelivery without proving that every claimant deliberately deceived the ruler.
+- Specialists may respond by delaying, reinterpreting failure, fleeing, refusing entry, or making a report that can become independently checkable.
+- In coercive courts, failure can redirect blame beyond the claimant to recommenders, scholars, or other alleged participants.
+- Verification changes the trap: Luan Da's monitored itinerary turns sacred ambiguity into a factual contradiction that closes the room for postponement.
+
+## Evidence
+
+- **Expectation before breakdown:** [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]] says Qin Shi Huang follows Lu Sheng's secrecy advice while immortals and medicine remain absent, making the advisers' position increasingly dangerous.
+- **Flight and punishment spillover:** [[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw|Qinji 125-2]] follows Lu Sheng and Hou Sheng's flight into court anger, interrogation, accusation, and mass punishment whose victims remain disputed.
+- **Avoidance before service:** [[zizhi-tongjian-qinji-135-fanwaipian-1-zhengshi-jizai-kan-nvxiangshi-ruhe-gaiming-ls8lfj4pq-ncsk7x3er7nlb0ltkk|Qinji 135 番外篇1]] says Xu Fu feigns illness to avoid judging a ruler she believes doomed, illustrating anticipated blame rather than failed delivery.
+- **Direct verification and recommender liability:** [[zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa|Hanji 344-2]] joins extraordinary patronage, repeated nondelivery, monitored travel, a contradicted teacher-meeting claim, Luan Da's execution, and Ding Yi's beheading.
+
+## Counterevidence & Qualifications
+
+The evidence consists of compact podcast retellings rather than a comparative legal or primary-source dossier. It does not prove that every fangshi knowingly committed fraud, that patronage mechanically causes execution, or that Qin and Han punishment systems were identical. Qinji 125-2 leaves the identity of the punished population uncertain; Qinji 135 is legend-colored and incomplete; Hanji 344-2 does not supply the full surveillance record, trial, legal standard, or Ding Yi's knowledge. A contradicted itinerary supports the episode's false-report conclusion more directly than it settles every prior supernatural claim.
+
+## What Changed
+
+- Added the Han Luan Da case, where surveillance converts an unverifiable promise into a checkable contradiction.
+- Extended the trap from specialist flight or avoidance to punishment of a recommending intermediary.
+- Migrated the page to the synthesis-first schema while preserving all prior source evidence.
+
+## Related Concepts
+
+- [[ImmortalityQuestPolitics|求仙政治]] - ruler demand and resource commitment make sacred delivery politically valuable and dangerous.
+- [[FangshiFraudAndAuthority|方士骗术与权威]] - broader entry-stage pattern of authority gained through hidden or inaccessible proof.
+- [[CourtFeedbackCollapse|君臣反馈失灵]] - fear suppresses bad news and makes failed promises harder to correct early.
+- [[ImperialItinerarySecrecy|帝王行踪保密]] - Qin example in which specialist advice reshapes court conduct before failure closes the trap.
+- [[FateReadingPoliticalRisk|命相判断的政治风险]] - adjacent risk that can induce refusal before a specialist enters service.
+- [[QinKengruIncident|秦代坑儒事件]] - punishment spillover following fangshi flight and criticism.
+- [[LuanDaWesternHan|栾大]] - Han example where monitoring turns claimed sacred access into a falsifiable report.
