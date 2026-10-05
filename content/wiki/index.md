@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》332-1｜古代最高危职业之一，居然有TA](sources/zizhi-tongjian-hanji-332-1-gudai-zuigaowei-zhiye-zhiyi-juran-you-ta-lk6luhbh37m9xnachwjp9zbdmcnu.md) — 李蔡由文帝侍从、军功封侯走到武帝朝丞相；节目据此提出强势君主下丞相既须顺从又须处理战争、财政与朝廷协调的双重约束。
 - [Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈](sources/8226494223-026583.md) — 捕蛇者说访谈 Bub 开发者，讨论群聊 Agent 的选择性参与、tape/anchor/handoff 上下文架构、skills、自我扩展、成本、权限与验证边界。
 - [《资治通鉴·汉纪》334-2｜为什么老板更喜欢做表面文章的人？](sources/zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf.md) — 从甘泉宫道路失修与义纵后续获罪讨论可见工作如何被领导解释为态度和尊重信号；历史因果、手机类比及“表扬可能是提醒”均保留来源边界。
 - [《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”](sources/zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w.md) — 汉武帝把甘泉宫道路失修解释为义纵不重视自己；节目由此讨论执行疏忽如何在权力关系中被赋予态度意义，同时保留敌人设局等说法为推测。
@@ -3881,7 +3882,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South](sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south.md) — Data Science With Sam episode on Google's India commitments, AI-for-science funding, Global South participation, connectivity, and India's possible AI-governance role.
 
 ## Entities
-- [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 由御史大夫升任丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
+- [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 历经文、景、武三朝并由军功封侯走到丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
 - [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 经历罢免与宾客离散后被重新起用，以清名治理淮阳并直言预警张汤、最终卒于任上的西汉直臣。
 - [李息 / Li Xi (Western Han)](entities/LiXiWesternHan.md) — 听取汲黯对张汤的预警，却因畏惧张汤而未向汉武帝转达的西汉官员。
 - [郑当时 / Zheng Dangshi (Western Han)](entities/ZhengDangshiWesternHan.md) — 西汉好客官员 whose crowded network thins after he loses office and wealth.
@@ -16434,6 +16435,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nandan Nilekani](entities/NandanNilekani.md) — Indian technology figure named among speakers at the AI Impact Summit in India.
 
 ## Concepts
+- [强势君主下的丞相双重约束 / Strong-Ruler Chancellorship Double Bind](concepts/StrongRulerChancellorshipDoubleBind.md) — 丞相既须避免以独立个性触犯强势君主，又须实际承担战争、财政、战略与朝廷协调的角色冲突。
 - [名位—实权错位 / Nominal Office–Practical Power Mismatch](concepts/NominalOfficePracticalPowerMismatch.md) — 正式职位层级与由君主接近、信任和决策参与形成的实际权力彼此分离。
 - [执行细节的态度归因 / Attitude Attribution from Execution Details](concepts/ExecutionDetailAttitudeAttribution.md) — 将具体行动、遗漏或准备不足解释为尊重、忠诚、关心或能力信号，并区分可观察缺陷与隐藏态度推断。
 - [权势依附型交往 / Power-Contingent Social Ties](concepts/PowerContingentSocialTies.md) — Relationships whose visible intensity rises and falls with office, wealth, rank, or usefulness.

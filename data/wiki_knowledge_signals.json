@@ -129947,9 +129947,9 @@
       "url": "/wiki/entities/libinnio/"
     },
     "LiCaiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》332-2｜大汉丞相李蔡之死，究竟有没有黑幕 [loYRE4ghvM3zCP-jXeZ9k26DU8OJ].md",
@@ -129957,6 +129957,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》332-2｜大汉丞相李蔡之死，究竟有没有黑幕",
           "url": "/wiki/sources/zizhi-tongjian-hanji-332-2-dahan-chengxiang-licai-zhisi-jiujing-youmeiyou-heimu-loyre4ghvm3zcp-jxez9k26du8oj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》332-1｜古代最高危职业之一，居然有TA [lk6luhBH37m9xnAchWJP9ZbDmcNu].md",
+          "key": "zizhi-tongjian-hanji-332-1-gudai-zuigaowei-zhiye-zhiyi-juran-you-ta-lk6luhbh37m9xnachwjp9zbdmcnu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》332-1｜古代最高危职业之一，居然有TA",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-332-1-gudai-zuigaowei-zhiye-zhiyi-juran-you-ta-lk6luhbh37m9xnachwjp9zbdmcnu/"
         }
       ],
       "updated": "2026-10-06",
@@ -210117,6 +210124,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/stripe/"
+    },
+    "StrongRulerChancellorshipDoubleBind": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》332-1｜古代最高危职业之一，居然有TA [lk6luhBH37m9xnAchWJP9ZbDmcNu].md",
+          "key": "zizhi-tongjian-hanji-332-1-gudai-zuigaowei-zhiye-zhiyi-juran-you-ta-lk6luhbh37m9xnachwjp9zbdmcnu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》332-1｜古代最高危职业之一，居然有TA",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-332-1-gudai-zuigaowei-zhiye-zhiyi-juran-you-ta-lk6luhbh37m9xnachwjp9zbdmcnu/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/strongrulerchancellorshipdoublebind/"
     },
     "StrongTrunkWeakBranchCentralization": {
       "episode_count": 2,

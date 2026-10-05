@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9746
+wiki_total_pages: 9747
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2600,6 +2600,9 @@ wiki_pages:
   - key: "SichuanPostConquestResistance"
     title: "川蜀征服后反抗 / Sichuan Post-Conquest Resistance"
     url: "/wiki/concepts/sichuanpostconquestresistance/"
+  - key: "StrongRulerChancellorshipDoubleBind"
+    title: "强势君主下的丞相双重约束 / Strong-Ruler Chancellorship Double Bind"
+    url: "/wiki/concepts/strongrulerchancellorshipdoublebind/"
   - key: "SurrenderTrustBreakdown"
     title: "归降信任崩塌 / Surrender Trust Breakdown"
     url: "/wiki/concepts/surrendertrustbreakdown/"

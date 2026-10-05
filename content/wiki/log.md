@@ -30532,3 +30532,10 @@ Added source `ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-so
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-06] ingest | 《资治通鉴·汉纪》332-1｜古代最高危职业之一，居然有TA
+
+Added source `zizhi-tongjian-hanji-332-1-gudai-zuigaowei-zhiye-zhiyi-juran-you-ta-lk6luhbh37m9xnachwjp9zbdmcnu`; created [[StrongRulerChancellorshipDoubleBind|强势君主下的丞相双重约束]]; and resynthesized [[LiCaiWesternHan|李蔡]] from its complete preserved two-source inventory. Core synthesis: Li Cai's three-reign career, military merit, marquisate, and rise to chancellor introduce an office-level double bind in which deference to a forceful ruler must coexist with competence across war, finance, strategy, and court coordination. Two source conflicts remain explicit: Hanji 332-1 calls Li Cai Li Guang's cousin and says he cut his own throat, while Hanji 332-2 calls him a younger brother and says he died by striking the prison gate. The thirteen-chancellor count, outcome classifications, precise office and campaign sequence, 124/118 BCE date conversions, “为人在下中” interpretation, and any direct causal line from the office structure to Li Cai's death remain source-scoped. Broad [[HanWudi|汉武帝]], [[LiGuangHanGeneral|李广]], [[GongsunHong|公孙弘]], [[ZhuangQingdiWesternHan|庄青翟]], [[ZhaoZhouWesternHan|赵周]], and show pages were read for context but not reopened because the bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,817 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

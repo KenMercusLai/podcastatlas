@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3131
+topic_total_pages: 3132
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4666,6 +4666,9 @@ topic_concepts:
   - key: "CoerciveFrontierDeterrence"
     title: "强制边疆震慑 / Coercive Frontier Deterrence"
     url: "/wiki/concepts/coercivefrontierdeterrence/"
+  - key: "StrongRulerChancellorshipDoubleBind"
+    title: "强势君主下的丞相双重约束 / Strong-Ruler Chancellorship Double Bind"
+    url: "/wiki/concepts/strongrulerchancellorshipdoublebind/"
   - key: "AwaitingPunishmentPerformance"
     title: "待刑谢罪式政治表演 / Awaiting-Punishment Performance"
     url: "/wiki/concepts/awaitingpunishmentperformance/"
