@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-06] ingest | 《资治通鉴·汉纪》341-4｜被低估的他，堪称中国最硬核的诗人
+
+Added source `zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep`; created [[WangTingcouTang|王廷凑]]; and resynthesized [[HanYu|韩愈]], [[ScholarOfficialPublicDuty|士大夫公共责任]], and [[HistoricalPrecedentWeaponization|历史先例武器化]] from their complete preserved evidence inventories. Core synthesis: Han Yu's public-duty profile now extends from dangerous remonstrance and post-demotion service to a commissioned mission among armed Chengde followers, where the remembered ruin of earlier rebels translates court order into the soldiers' interests in survival and family continuity. No settled contradiction was adopted. “郑州兵变” is treated as a transcription error for 镇州兵变 and “袁稹” is normalized to 元稹; exact dialogue, troop response, released captives, causal success, later praise, and “最硬核诗人” remain source-scoped. The brief mentions of Tian Hongzheng, Yuan Zhen, Tang Muzong, Zhang Ji, Su Shi, and Zhang Zai did not warrant new or reopened profiles. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,793 sources across 796 overview paragraphs and nine topics. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》341-2｜到底多优秀，让张骞成为古代带货第一人
 
 Added source `zizhi-tongjian-hanji-341-2-daodi-duo-youxiu-rang-zhangqian-chengwei-gudai-daihuo-diyiren-llgdqirhiceemircz0_pnxpykqe`; and resynthesized [[ZhangQianWesternHan|张骞]] and [[AncientSilkRoad|丝绸之路]] from their complete preserved evidence inventories. Core synthesis: the episode extends route opening into repeated two-way missions, accumulated southern and northern route knowledge, multi-year travel, changing gift loads, Hexi commandery support, horse demand, and cross-regional movement of goods and techniques. No settled contradiction was adopted. “彻底打通” and “古代带货第一人” remain program rhetoric rather than proof of sole creation or personal carriage; route dimensions, mission frequency and sizes, travel durations, commandery chronology and purposes, and commodity or technology directions remain source-scoped. The compressed tea, porcelain, and hairpin-to-Europe claim was not promoted as Han-era chronology. Broader Han Wudi, Xiongnu, Wusun, Dayuan, Kangju, Yuezhi, Cheshi, and Parthia pages were read for context but not changed because the bounded additions are represented in narrower canonical pages. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,792 sources across 796 overview paragraphs and nine topics. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
@@ -30312,10 +30316,6 @@ Added source `zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-fa
 
 Ran lint. See lint-report.md for details.
 
-## [2026-10-06] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
-
 ## [2026-10-06] ingest | John Fetterman: The Rogue Democrat Who Broke Party Ranks
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130`; resynthesized [[JohnFetterman|John Fetterman]], [[BipartisanSwingStateRepresentation]], [[ElectionAdministrationTrust]], and [[PragmaticImmigrationCompromise]] from their complete preserved evidence inventories. Core synthesis: Fetterman's country-over-party posture unbundles voter ID from attacks on mail voting, border and criminal enforcement from indiscriminate migrant removal, and institutional support from silence about leadership or tactical failures. No settled contradiction was adopted. Polling, fraud counts, non-citizen voting, SAVE Act provisions, Iran's condition and war costs, Social Security adjustments, and other empirical claims remain source-attributed rather than independently verified. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest validates 3,788 sources across 795 overview paragraphs and nine topics.
@@ -30331,6 +30331,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？
 
 Added source `zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk`; created [[HanYu|韩愈]]; migrated and resynthesized [[Chaozhou|潮州]] from its complete preserved evidence inventory; and extended [[ConscienceThroughDuty|尽责问心无愧]] from its complete preserved evidence inventory. Core synthesis: repeated examination failure, political punishment, and status loss do not by themselves make a life unsuccessful or release an official from public responsibility; the episode joins Han Yu's literary work, blunt remonstrance, and continued local service while keeping personal and institutional costs visible. No settled contradiction was adopted. The 331-idiom total and individual attributions, examination sequence, demotion mechanics, journey and family-loss details, “朝奏夕贬” timing, crocodile episode, and ten-year outcome remain source-scoped; the Tang administrative unit and modern city of Chaozhou are not treated as territorially identical. Downstream synthesis rebuilt `work-education-and-society`, global compaction was not due, and the refreshed artifacts validate 3,790 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] lint | Wiki health check
 

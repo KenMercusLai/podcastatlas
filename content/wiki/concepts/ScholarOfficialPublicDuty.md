@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad
   - zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku
   - zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m
+  - zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep
 last_updated: 2026-08-29
 knowledge_schema: synthesis-v1
 ---
@@ -29,6 +30,8 @@ The late-Han material sharpens the political cost. In Hanji 859, [[HuangfuGuiLat
 
 Hanji 875 adds the punishment layer: honorable士人 can treat persecution as moral evidence when the regime criminalizes upright association. The resulting synthesis is not naive. Public duty can recommend better talent, remonstrate against harmful institutions, govern humanely, and endure punishment, but it does not guarantee effectiveness when the power structure benefits from the very disorder being criticized.
 
+Hanji 341-4 adds commissioned bodily risk through [[HanYu|韩愈]]. Here duty is not only advice, appointment, or endurance after punishment: receiving a pacification mandate places the official before [[WangTingcouTang|王廷凑]]'s armed followers after a failed court campaign. Han's reported response joins role obligation to practical persuasion, using the fate of earlier rebels to make public order and the soldiers' own survival converge. The episode admires the courage, but its compressed narrative leaves the mission's exact causal effect source-scoped.
+
 ## Key Claims
 
 - Public duty converts learning and judgment into service rather than treating cultivation as private distinction.
@@ -36,7 +39,7 @@ Hanji 875 adds the punishment layer: honorable士人 can treat persecution as mo
 - A scholar-official may fulfill duty by recommending a more capable person even when that lowers personal status.
 - Remonstrance is a duty practice when institutional drift harms public order.
 - The ethic carries risk because upright advice may threaten the ruler's private access, favorites, or control mechanisms.
-- Persecution can become moral credential when punishment marks refusal to abandon public responsibility.
+- Punishment or commissioned danger can make public duty personally costly; courage becomes public service only when joined to a plausible means of fulfilling the obligation.
 - Public duty is strongest when paired with political diagnosis; moral clarity must ask both whether service is possible and whether refusal is mere reputation.
 
 ## Evidence
@@ -50,18 +53,19 @@ Hanji 875 adds the punishment layer: honorable士人 can treat persecution as mo
 - Talent above title: [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|Hanji 859]] shows Huangfu Gui recommending Zhang Huan as the better frontier commander and accepting a subordinate role.
 - Institutional remonstrance: [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|Hanji 859]] shows Zhu Mu arguing that close-attendant offices should return to virtuous and institutionally knowledgeable staffing.
 - Punishment as credential: [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|Hanji 875]] shows Huangfu Gui treating exemption from Party Prohibition as shame because it separates him from punished upright officials.
+- Commissioned risk and persuasion: [[zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep|Hanji 341-4]] presents Han Yu accepting a dangerous Chengde mission and addressing mutinous troops through the consequences of earlier rebellion.
 
 ## Counterevidence & Qualifications
 
-Public duty is an ethic, not a reliable mechanism of institutional success. Hanji 808 makes the limit explicit: true reclusion can be duty-compatible when office is unusable, but reputation-only withdrawal and false oddness remain suspect when they do not match substance or public benefit. Hanji 809 applies the pressure from the other side; Li Gu's warning is aimed at usable talent that still has a viable service path. Hanji 859 is especially important because it contains both a successful public-duty act and a failed one: Huangfu Gui's recommendation works under frontier pressure, while Zhu Mu's anti-eunuch correction fails when it threatens ruler-side palace access. The concept should not collapse all literati action into virtue; it tracks cases where the source frames learning, office, recommendation, or remonstrance as obligation to public order.
+Public duty is an ethic, not a reliable mechanism of institutional success. Hanji 808 makes the limit explicit: true reclusion can be duty-compatible when office is unusable, but reputation-only withdrawal and false oddness remain suspect when they do not match substance or public benefit. Hanji 809 applies the pressure from the other side; Li Gu's warning is aimed at usable talent that still has a viable service path. Hanji 859 is especially important because it contains both a successful public-duty act and a failed one: Huangfu Gui's recommendation works under frontier pressure, while Zhu Mu's anti-eunuch correction fails when it threatens ruler-side palace access. Hanji 341-4 adds an admired high-risk mission, but a five-minute account cannot establish that accepting every dangerous command is wise or that courage alone caused pacification. The concept should not collapse all literati action into virtue; it tracks cases where the source frames learning, office, recommendation, remonstrance, or commissioned action as obligation to public order.
 
 ## What Changed
 
 - Hanji 808 adds the principled-withdrawal qualification and ruler self-examination condition for judging reclusion.
 - Hanji 809 adds Li Gu's warning against reputation-only withdrawal and Huang Qiong's Shangshu competence as an early late-Han duty layer.
 - Added the Hanji 859 distinction between public-duty recommendation that succeeds and public-duty remonstrance that fails.
-- Connected scholar-official duty to palace proximity power, showing why correct institutional advice can miss the ruler's private incentive.
-- Integrated Huangfu Gui's recommendation of Zhang Huan with his later Party Prohibition shame as a continuous duty profile.
+- Connected scholar-official duty to palace proximity power and integrated Huangfu Gui's recommendation of Zhang Huan with his later Party Prohibition shame.
+- Added Han Yu's Chengde mission as a commissioned-risk case in which duty is paired with historically framed persuasion rather than force.
 
 ## Related Concepts
 
@@ -77,3 +81,5 @@ Public duty is an ethic, not a reliable mechanism of institutional success. Hanj
 - [[CareerExitFriction|Career Exit Friction]] - office-duty limit where public obligation can trap an official in unwanted service.
 - [[IntellectualResponsibilityUnderAuthoritarianism|威权环境下的知识分子责任]] - modern-facing parallel for scholarship as obligation under crisis.
 - [[HumaneLocalGovernance|仁厚地方治理]] - administrative expression of public duty through humane local rule.
+- [[HanYu|韩愈]] - Tang case extending public duty from remonstrance and local service to a dangerous pacification mission.
+- [[HistoricalPrecedentWeaponization|历史先例武器化]] - persuasion mechanism used to translate rebellion's public cost into a warning intelligible to armed followers.

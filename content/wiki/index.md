@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》341-4｜被低估的他，堪称中国最硬核的诗人](sources/zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep.md) — 韩愈奉命进入王廷凑控制的承德军，以叛乱者及后代的结局劝说军众；节目把这次宣抚与晚年诗作、后世评价并置为士大夫责任画像。
 - [《资治通鉴·汉纪》341-2｜到底多优秀，让张骞成为古代带货第一人](sources/zizhi-tongjian-hanji-341-2-daodi-duo-youxiu-rang-zhangqian-chengwei-gudai-daihuo-diyiren-llgdqirhiceemircz0_pnxpykqe.md) — 张骞出使后的接触被呈现为高频双向使团、南北路线知识、河西郡县支撑和物产技术流动；“带货第一人”与“彻底打通”保留为多主体通道形成过程中的节目修辞。
 - [《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？](sources/zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo.md) — 张骞以礼物、礼仪、迁徙与联姻方案争取乌孙，并用持节副使把单线访问扩展为通往大宛、康居、月氏和大夏的外交网络；乌孙则先派人核验汉朝实力。
 - [EP 33: Agents Everywhere: What Agentic AI Actually Means for Your Job](sources/ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job.md) — Data Science With Sam explainer on agent action loops, bounded reliability, human oversight, task displacement, and the verification skills needed for agent-enabled work.
@@ -3857,8 +3858,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 
 ## Entities
+- [王廷凑 / Wang Tingcou (Tang)](entities/WangTingcouTang.md) — 镇州兵变后控制承德、以军众威慑韩愈，并成为其宣抚演说对象的唐代藩镇人物。
 - [大夏 / Daxia (Western Han-era)](entities/DaxiaWesternHan.md) — 张骞副使网络中的西域政体；与希腊—巴克特里亚王国的等同关系保持来源限定。
-- [韩愈 / Han Yu](entities/HanYu.md) — 唐代文学家与官员，以古文、直谏、屡遭贬谪及在潮州继续任事构成文学声望与公共责任相连的人物画像。
+- [韩愈 / Han Yu](entities/HanYu.md) — 唐代文学家与官员，以古文、直谏、贬谪后任事及进入承德叛镇宣抚构成文学声望与公共责任相连的人物画像。
 - [中山王刘胜 / Liu Sheng, King of Zhongshan (Western Han)](entities/LiuShengZhongshanKingWesternHan.md) — 以沉湎酒色闻名、长期在位且被节目来源限定地解释为借无野心形象降低皇帝猜忌的西汉诸侯王。
 - [常山王刘勃 / Liu Bo, King of Changshan (Western Han)](entities/LiuBoChangshanKingWesternHan.md) — 因侍疾、居丧失礼及妨碍中央调查而在即位数月后被废、迁往房陵的常山末王。
 - [刘棁 / Liu Zhuo (Western Han Changshan)](entities/LiuZhuoChangshanWesternHan.md) — 因母子失宠、财产排斥与继位后失于收恤而告发刘勃和王后脩的常山庶长子。
@@ -20572,7 +20574,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Confucian Low-Office Reclusion / 儒家低职隐居](concepts/ConfucianLowOfficeReclusion.md) — Reading of a worthy person who accepts humble subsistence work while refusing ordinary rank-seeking and compromised office.
 - [Elite Crisis Burden Sharing / 贵族危机共担动员](concepts/EliteCrisisBurdenSharing.md) — Crisis mobilization pattern where a protected elite household must convert private wealth, comfort, and family labor into collective defense to make siege resistance credible.
 - [Civilization-Barbarism Frame / 文明-野蛮框架](concepts/CivilizationBarbarismFrame.md) — Rhetorical frame that turns accommodation with a stronger power into acceptance of degraded or uncivilized order, used by Lu Zhonglian against Qin submission.
-- [Historical Precedent Weaponization / 历史先例武器化](concepts/HistoricalPrecedentWeaponization.md) — Persuasion pattern where inherited historical examples are used to force present fear or shame, while remaining subject to source-critical testing.
+- [Historical Precedent Weaponization / 历史先例武器化](concepts/HistoricalPrecedentWeaponization.md) — Persuasion pattern using inherited outcomes to create present fear, interest, or status pressure while testing factual reliability and situational fit.
 - [Submission Through Status Elevation / 尊号式投降方案](concepts/SubmissionThroughStatusElevation.md) — Crisis appeasement pattern where a besieged state considers recognizing Qin's emperor title as a surrender-like route to withdrawal.
 - [Coalition Transit Dependency / 联盟救援借道依赖](concepts/CoalitionTransitDependency.md) — Alliance rescue failure mode where a willing distant ally still depends on a route state's permission, courage, and exposure to retaliation.
 - [Mao Sui Self-Recommendation / 毛遂自荐](concepts/MaoSuiSelfRecommendation.md) — Idiom and talent-visibility pattern where an overlooked retainer self-nominates and then proves useful under a high-risk diplomatic crisis.
@@ -23331,7 +23333,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Interest-Based Negotiation / 利益导向谈判](concepts/InterestBasedNegotiation.md) — Asking why to uncover the needs behind stated demands and create tradable issues.
 - [Earned Optimism / 走出来的乐天](concepts/EarnedOptimism.md) — Reading of Su Dongpo's optimism as resilience formed through fear, exile, grief, and continued action.
 - [Conscience Over Faction / 良知高于党派](concepts/ConscienceOverFaction.md) — Frame for Su Shi's refusal to align fully with either reformers or old-party retaliation when conscience disagreed.
-- [Scholar-Official Public Duty / 士大夫公共责任](concepts/ScholarOfficialPublicDuty.md) — Concept linking learning and office to public service through Li Gu's anti-reclusion advice, Huang Qiong's Shangshu competence, talent recommendation, remonstrance, humane governance, crisis scholarship, and punishment-as-moral-credential.
+- [Scholar-Official Public Duty / 士大夫公共责任](concepts/ScholarOfficialPublicDuty.md) — Concept linking learning and office to public service through anti-reclusion advice, institutional competence, recommendation, remonstrance, humane governance, punishment, and commissioned risk.
 - [宋代党争 / Song Factional Politics](concepts/SongFactionalPolitics.md) — New-party/old-party conflict frame around reforms, retaliation, and political speech risk.
 - [王安石变法 / Wang Anshi Reforms](concepts/WangAnshiReforms.md) — Northern Song policy-reform field read through fiscal-security motive, implementation harm, state commercial extraction, factional politics, and later reception.
 - [Poetry As Political Evidence / 诗文作为政治证据](concepts/PoetryAsPoliticalEvidence.md) — Mechanism by which Su Shi's poems and memorials could be turned into accusations.

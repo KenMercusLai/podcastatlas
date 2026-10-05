@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2577
+topic_total_pages: 2578
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7383,6 +7383,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk"
     title: "《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？"
     url: "/wiki/sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk/"
+  - key: "zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep"
+    title: "《资治通鉴·汉纪》341-4｜被低估的他，堪称中国最硬核的诗人"
+    url: "/wiki/sources/zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep/"
   - key: "zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp"
     title: "《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话"
     url: "/wiki/sources/zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp/"

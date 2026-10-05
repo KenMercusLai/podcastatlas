@@ -96866,9 +96866,9 @@
       "url": "/wiki/entities/hanyanshouwesternhan/"
     },
     "HanYu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？ [lpxXoVWptoMP2Mmt64o5arMP8xRK].md",
@@ -96876,6 +96876,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-4｜被低估的他，堪称中国最硬核的诗人 [lv78zkmugSCL4FWhtS-Rak6mhYep].md",
+          "key": "zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-4｜被低估的他，堪称中国最硬核的诗人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep/"
         }
       ],
       "updated": "2026-10-06",
@@ -102322,6 +102329,36 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/historicalprecedentcrisisplanning/"
+    },
+    "HistoricalPrecedentWeaponization": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？ [lvS9ELvRJP_yPZ63W4CZpuHbSfB-].md",
+          "key": "zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》96丨毛遂自荐（3） [lj-cR4Vg4e1qdfJs6yez85_3ZUiV].md",
+          "key": "zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》96丨毛遂自荐（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-4｜被低估的他，堪称中国最硬核的诗人 [lv78zkmugSCL4FWhtS-Rak6mhYep].md",
+          "key": "zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-4｜被低估的他，堪称中国最硬核的诗人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/historicalprecedentweaponization/"
     },
     "HistoricalQuestionConsciousness": {
       "episode_count": 2,
@@ -194510,9 +194547,9 @@
       "url": "/wiki/concepts/scenariolevelrewardsignal/"
     },
     "ScholarOfficialPublicDuty": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜 [741072645].md",
@@ -194555,6 +194592,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》808丨他究竟是名家还是骗子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-4｜被低估的他，堪称中国最硬核的诗人 [lv78zkmugSCL4FWhtS-Rak6mhYep].md",
+          "key": "zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-4｜被低估的他，堪称中国最硬核的诗人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep/"
         }
       ],
       "updated": "2026-08-29",
@@ -229597,6 +229641,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/wangtiaoligustudent/"
+    },
+    "WangTingcouTang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》341-4｜被低估的他，堪称中国最硬核的诗人 [lv78zkmugSCL4FWhtS-Rak6mhYep].md",
+          "key": "zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-4｜被低估的他，堪称中国最硬核的诗人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-4-bei-digu-de-ta-kancheng-zhongguo-zui-yinghe-de-shiren-lv78zkmugscl4fwhts-rak6mhyep/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/wangtingcoutang/"
     },
     "WangWeiSF": {
       "episode_count": 1,
