@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-06] ingest | 《资治通鉴·汉纪》336-1｜战神霍去病为何24岁突然暴毙？
+
+Added source `zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq`; created [[SparseRecordDeathCauseInference|史料稀缺下的死因推断]]; and resynthesized [[HuoQubing|霍去病]] from its complete preserved evidence inventory. Core synthesis: the episode reports illness as the broad surviving account of Huo's death but names no disease; it weakens the contaminated-water epidemic story through a roughly two-year interval and missing outbreak corroboration, while accident, murder, and Han Wudi involvement remain unsupported rather than disproved. No settled contradiction was adopted. The title/body age twenty-four/twenty-three difference, exact textual transmission through Chu Shaosun and Huo Guang, epidemic mechanism, political-economic background, currency terminology, execution totals, and inspector details remain source-scoped. The broad Han Wudi, Wei Qing, Xiongnu, and recurring-show pages were read for context but not changed because this compact source does not justify reopening their larger evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,808 sources and retain 796 overview paragraphs across nine topics. Changed-file whitespace, index coverage, log coverage, identities, knowledge schema, synthesis, health, and publish validation passed.
+
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死
 
 Added source `zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod`; created [[LiuPengliJidongKingWesternHan|济东王刘彭离]], [[LiuWuLiangKingWesternHan|梁孝王刘武]], and [[RoyalKinshipPenaltyMitigation|宗室亲缘减刑]]; and resynthesized [[RuleOverKinshipPower|法度压过亲缘特权]] from its complete preserved evidence inventory. Core synthesis: central investigation can break local silence and remove a murderous vassal king's rank, territory, and freedom while royal kinship and inherited merit still preserve his life; the result is severe punishment but not kin-neutral punishment. This directly qualifies, without factually contradicting, Hanji 392-1's later account of Han Wudi approving the execution of another close relative for one killing, and narrows law-over-kinship into a selective ruler signal rather than a consistent standard. “刘鹏黎” was normalized to 刘彭离 from the Jidong, Liang parentage, reign-length, Shangyong exile, and Dahe Commandery context. The victim count beyond “more than one hundred,” complaint route, investigation, statutory basis, Wudi's precise motive, exile conditions, and the causal weight assigned to Liu Wu's service remain source-scoped. The broad Han Wudi page was read for context but not changed because the bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,807 sources across 796 overview paragraphs and nine topics.
@@ -30453,6 +30457,10 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] lint | Wiki health check
 

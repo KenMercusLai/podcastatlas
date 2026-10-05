@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2580
+topic_total_pages: 2581
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1753,6 +1753,9 @@ topic_concepts:
   - key: "ChronicleBiographicalHistoryForms"
     title: "史书体例意识 / Chronicle and Biographical History Forms"
     url: "/wiki/concepts/chroniclebiographicalhistoryforms/"
+  - key: "SparseRecordDeathCauseInference"
+    title: "史料稀缺下的死因推断 / Death-Cause Inference Under Sparse Records"
+    url: "/wiki/concepts/sparserecorddeathcauseinference/"
   - key: "HezongAlliance"
     title: "合纵 / Hezong Alliance"
     url: "/wiki/concepts/hezongalliance/"

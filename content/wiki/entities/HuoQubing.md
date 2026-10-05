@@ -8,12 +8,13 @@ sources:
   - zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd
   - zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1
   - zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5
+  - zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq
 last_updated: 2026-10-06
 ---
 
 ## Overview
 
-霍去病 / Huo Qubing is synthesized as a victorious Western Han commander whose campaigns have institutional, personnel, and family afterlives, but whose imperial favor also appears in a lethal accountability failure. His attack on Xiongnu's left territory precedes Wuhuan relocation, [[ZhaoPonuWesternHan|赵破奴]] rises in his military era, and [[LiGanWesternHan|李敢]] first earns merit under him before Huo later kills Li Gan during an imperial hunt. A newer source connects Huo to [[HuoGuangWesternHan|霍光]]'s entry into court while explicitly refusing to treat imperial responsibility for Huo's early death as established fact.
+霍去病 / Huo Qubing is synthesized as a victorious Western Han commander whose campaigns have institutional, personnel, and family afterlives, but whose imperial favor also appears in a lethal accountability failure. His attack on Xiongnu's left territory precedes Wuhuan relocation, [[ZhaoPonuWesternHan|赵破奴]] rises in his military era, and [[LiGanWesternHan|李敢]] first earns merit under him before Huo later kills Li Gan during an imperial hunt. The current evidence reports illness as the broadest surviving cause-of-death category but does not identify a disease or support epidemic, accident, murder, or imperial responsibility as settled explanations.
 
 ## Current Profile
 
@@ -23,6 +24,8 @@ The court-violence layer is sharply different. Li Gan serves under Huo and wins 
 
 [[zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5|Hanji 336-2]] proposes that the killing also damaged Huo's support and heightened Wudi's suspicion of the wider Wei-Huo power field, but the source supplies no direct evidence for either reaction and explicitly labels the theory that Wudi caused Huo's death as speculation. Its firmer family-history branch says Huo acknowledged and supported Huo Zhongru, brought his half-brother Huo Guang to Chang'an for palace service, and left a son whom Wudi kept close after Huo's death.
 
+[[zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq|Hanji 336-1]] supplies the more conservative death-evidence baseline. It dates Huo's death to 117 BCE, reports imperial grief and a Qilian-shaped tomb, and attributes a broad illness account to Chu Shaosun's supplementary table through Huo Guang without naming the disease. Its objections to a contaminated-water epidemic story are the approximately two-year interval and lack of a recorded mass outbreak; accident and murder likewise lack direct support. The title's age twenty-four and body text's age twenty-three remain unresolved rather than silently harmonized.
+
 ## Key Characteristics
 
 - Western Han general associated with successful campaigning against Xiongnu's left territory.
@@ -31,6 +34,7 @@ The court-violence layer is sharply different. Li Gan serves under Huo and wins 
 - Wei Qing's nephew whose kin loyalty becomes the episode's proposed motive for killing Li Gan.
 - Favored commander protected from accountability after a source-scoped procedureless killing.
 - Older half-brother who introduces Huo Guang into Chang'an service and father whose court-connected legacy continues through Huo Zihou.
+- Young commander whose death is securely reported but whose specific illness or alternative violent cause remains unknown.
 
 ## Evidence
 
@@ -47,15 +51,19 @@ Court violence and impunity:
 Family succession and disputed death interpretation:
 - [[zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5|Hanji 336-2]] says Huo brings Huo Guang to Chang'an and secures a lang appointment, while Wudi later keeps Huo's son close.
 - [[zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5|Hanji 336-2]] expressly calls imperial involvement in Huo's death a conjecture based on sparse evidence and later political change.
+- [[zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq|Hanji 336-1]] reports illness without a named disease, challenges the epidemic mechanism on chronology and corroboration grounds, and finds no direct record for accident or murder.
+- [[zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq|Hanji 336-1]] says Wudi mourned Huo and commissioned a tomb modeled on the Qilian Mountains.
 
 ## Qualifications
 
-This page remains bounded to four compact podcast sources rather than a full military biography. Hanji 376-2 does not document a complete formal patron-client relationship with Zhao Ponu. Hanji 335's kin-revenge motive, rear-shot detail, deliberate-hunt-opportunity reading, and imperial-cover mechanics remain source-scoped; the durable judgment is narrower, that the episode describes a killing without adjudication followed by protection from ordinary accountability. Hanji 336-2 adds no direct evidence for Huo's cause of death, Wudi's intent, or a murder mechanism, so its幕后黑手 theory is not adopted as biography.
+This page remains bounded to five compact podcast sources rather than a full military biography. Hanji 376-2 does not document a complete formal patron-client relationship with Zhao Ponu. Hanji 335's kin-revenge motive, rear-shot detail, deliberate-hunt-opportunity reading, and imperial-cover mechanics remain source-scoped; the durable judgment is narrower, that the episode describes a killing without adjudication followed by protection from ordinary accountability. Hanji 336-2 adds no direct evidence for Wudi's intent or a murder mechanism, while Hanji 336-1 supplies only a broad illness report without a named disease. The epidemic, accident, murder, and幕后黑手 explanations therefore remain unproved, and the age twenty-three/twenty-four discrepancy is preserved.
 
 ## What Changed
 
-- Added Huo Guang's entry into Chang'an service and Huo Zihou's posthumous court connection to Huo's family legacy.
-- Preserved the claim that Wudi caused Huo's death strictly as an explicitly unsupported source hypothesis.
+- Added illness as the broad surviving death category while keeping the specific disease unknown.
+- Weakened the contaminated-water epidemic story through chronology and missing corroboration without treating archival silence as proof of natural death.
+- Preserved accident, murder, and Wudi involvement as unsupported possibilities rather than biography.
+- Recorded the source's unresolved age twenty-three/twenty-four discrepancy.
 
 ## Relationships
 
@@ -68,3 +76,4 @@ This page remains bounded to four compact podcast sources rather than a full mil
 - [[HuoGuangWesternHan|霍光]] - younger half-brother whom Hanji 336-2 says Huo brought into Chang'an palace service.
 - [[HuoShanSonOfHuoQubing|霍嬗 / 霍子侯]] - son whose later court proximity extends Huo's family legacy.
 - [[KnownMisconductNonPunishment|知奸不除式威慑失效]] - accountability failure activated by Wudi's protection of the known killing.
+- [[SparseRecordDeathCauseInference|史料稀缺下的死因推断]] - evidence discipline for separating Huo's reported death from unsupported specific causes.

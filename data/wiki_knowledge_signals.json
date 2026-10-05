@@ -108153,9 +108153,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -108184,6 +108184,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手",
           "url": "/wiki/sources/zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》336-1｜战神霍去病为何24岁突然暴毙？ [lhsmxfi72DzS8ucjD4n9VHFUHvMq].md",
+          "key": "zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》336-1｜战神霍去病为何24岁突然暴毙？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq/"
         }
       ],
       "updated": "2026-10-06",
@@ -206172,6 +206179,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/spanishconquestofmexico/"
+    },
+    "SparseRecordDeathCauseInference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》336-1｜战神霍去病为何24岁突然暴毙？ [lhsmxfi72DzS8ucjD4n9VHFUHvMq].md",
+          "key": "zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》336-1｜战神霍去病为何24岁突然暴毙？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/sparserecorddeathcauseinference/"
     },
     "Sparta": {
       "episode_count": 1,
