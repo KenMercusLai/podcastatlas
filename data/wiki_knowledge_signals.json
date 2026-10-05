@@ -5500,9 +5500,9 @@
       "url": "/wiki/concepts/accessiontimingcoalitionsignal/"
     },
     "AccumulatedEnmityDefaultSuspicion": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》453｜官场启示录：同事捅你前，必然忍你很久了 [lnrmyJyeP_XheN3Lmzu2_yhtSuxb].md",
@@ -5517,6 +5517,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
           "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
+          "key": "zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
         }
       ],
       "updated": "2026-10-06",
@@ -24422,6 +24429,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/bianhonglatehan/"
+    },
+    "BianTongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
+          "key": "zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/biantongwesternhan/"
     },
     "BianquHydraulicGovernance": {
       "episode_count": 2,
@@ -118859,9 +118882,9 @@
       "url": "/wiki/entities/jianlangeasternhan/"
     },
     "JianXuanWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案 [lp8Mwe-Z21LHQHG4lwNJ-jMeotaG].md",
@@ -118869,6 +118892,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
           "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
+          "key": "zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
         }
       ],
       "updated": "2026-10-06",
@@ -130303,9 +130333,9 @@
       "url": "/wiki/entities/liweicong/"
     },
     "LiWenWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案 [lp8Mwe-Z21LHQHG4lwNJ-jMeotaG].md",
@@ -130313,6 +130343,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
           "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
+          "key": "zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
         }
       ],
       "updated": "2026-10-06",
@@ -138945,9 +138982,9 @@
       "url": "/wiki/entities/luyanwangyuwife/"
     },
     "LuYezhuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案 [lp8Mwe-Z21LHQHG4lwNJ-jMeotaG].md",
@@ -138955,6 +138992,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
           "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
+          "key": "zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
         }
       ],
       "updated": "2026-10-06",
@@ -176085,9 +176129,9 @@
       "url": "/wiki/concepts/postherpeticneuralgiariskandprevention/"
     },
     "PosthumousMeritVindication": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密 [lpxrkRX2UfFdzpYcTiwWCAANfzbU].md",
@@ -176095,6 +176139,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密",
           "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
+          "key": "zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
         }
       ],
       "updated": "2026-08-31",
@@ -228236,6 +228287,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/wangchangxiajianggengshi/"
     },
+    "WangChaoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
+          "key": "zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/wangchaowesternhan/"
+    },
     "WangChengLiGuStudent": {
       "episode_count": 1,
       "show_count": 1,
@@ -246350,10 +246417,26 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhangtanwesternhan/"
     },
-    "ZhangTangWesternHan": {
-      "episode_count": 3,
+    "ZhangTangMotherWesternHan": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
+          "key": "zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/zhangtangmotherwesternhan/"
+    },
+    "ZhangTangWesternHan": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》431｜职场必读！酷吏之子张安世的职场智慧 [lmxEy8uOliWYNiMxcnH1KhJefEnl].md",
@@ -246375,6 +246458,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
           "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
+          "key": "zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
         }
       ],
       "updated": "2026-10-06",
@@ -247864,9 +247954,9 @@
       "url": "/wiki/entities/zhaoyingqinanyue/"
     },
     "ZhaoYuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的 [lt39foGFiVNipeLlq6y2xl6CtRZQ].md",
@@ -247874,6 +247964,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的",
           "url": "/wiki/sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
+          "key": "zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
         }
       ],
       "updated": "2026-10-05",
@@ -250203,6 +250300,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhulinglatehan/"
     },
+    "ZhuMaichenWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
+          "key": "zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/zhumaichenwesternhan/"
+    },
     "ZhuMuLateHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -250500,9 +250613,9 @@
       "url": "/wiki/entities/zhuangcanwesternhan/"
     },
     "ZhuangQingdiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案 [lp8Mwe-Z21LHQHG4lwNJ-jMeotaG].md",
@@ -250510,6 +250623,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
           "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
+          "key": "zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
         }
       ],
       "updated": "2026-10-06",

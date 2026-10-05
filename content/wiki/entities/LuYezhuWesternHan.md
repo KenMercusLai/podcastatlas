@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [western-han, clerk, court-politics, denunciation]
 sources:
   - zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag
+  - zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca
 last_updated: 2026-10-06
 ---
 
@@ -15,6 +16,8 @@ last_updated: 2026-10-06
 ## Current Profile
 
 [[zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag|Hanji 338-2]] presents Lu as an informal extension of Zhang's rivalry network. He secretly arranges an accusation against Li Wen, after which Zhang receives the case and executes Li. Zhang later conceals Lu's role from Han Wudi and visits Lu during illness, personally massaging his feet. [[LiuPengzuZhaoKingWesternHan|刘彭祖]] uses that status-crossing care to allege a hidden scheme. Lu dies before the inquiry is complete, but his imprisoned brother later reveals the Li Wen arrangement after misreading Zhang's staged non-recognition as abandonment.
+
+[[zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca|Hanji 339-2]] carries that disclosure into the terminal case. It says [[JianXuanWesternHan|减宣]] reports Li Wen's death as a joint act by Zhang and Lu, prompting Han Wudi's formal accusations. This is a stronger legal characterization than the mechanism narrated in 338-2, so the profile preserves both without treating the later shorthand as independently verified.
 
 ## Key Characteristics
 
@@ -32,13 +35,17 @@ Covert assistance:
 Visible intimacy and later disclosure:
 - [[zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag|Hanji 338-2]] says Zhang massages Lu's feet during illness, Liu Pengzu treats the act as evidence of collusion, and Lu's brother later discloses the Li Wen plot.
 
+Formal escalation:
+- [[zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca|Hanji 339-2]] says Jian Xuan reports Zhang and Lu as jointly responsible for Li Wen's death, moving the affair into formal charges against Zhang.
+
 ## Qualifications
 
-The raw transcript calls him “鲁业居”; this page normalizes the name to 鲁谒居 from the transmitted Zhang Tang account. The massage demonstrates unusual closeness in the accusation's logic but does not independently prove every alleged conspiracy, and the current evidence does not reconstruct Lu's complete office or biography.
+Both raw transcripts call him “鲁业居”; this page normalizes the name to 鲁谒居 from the transmitted Zhang Tang account. The massage demonstrates unusual closeness in the accusation's logic but does not independently prove every alleged conspiracy. Hanji 339-2's “joint killing” language compresses the more specific accusation–adjudication–execution chain in 338-2; neither note reconstructs Lu's complete office, biography, or adjudicated liability.
 
 ## What Changed
 
-- Created the entity and normalized the transcript name from “鲁业居” to 鲁谒居.
+- Added the later report that converts Lu's covert role into a formal accusation against Zhang.
+- Preserved the difference between the detailed mechanism and the sequel's stronger “joint killing” shorthand.
 
 ## Relationships
 

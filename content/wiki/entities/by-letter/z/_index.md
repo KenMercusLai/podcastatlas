@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12471
+wiki_total_pages: 12475
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "ZhangTangWesternHan"
     title: "张汤 / Zhang Tang (Western Han)"
     url: "/wiki/entities/zhangtangwesternhan/"
+  - key: "ZhangTangMotherWesternHan"
+    title: "张汤母亲 / Mother of Zhang Tang (Western Han)"
+    url: "/wiki/entities/zhangtangmotherwesternhan/"
   - key: "ZhangQuan"
     title: "张泉"
     url: "/wiki/entities/zhangquan/"
@@ -1154,6 +1157,9 @@ wiki_pages:
   - key: "ZhuGaiLateHan"
     title: "朱丐 / Zhu Gai (late Han)"
     url: "/wiki/entities/zhugailatehan/"
+  - key: "ZhuMaichenWesternHan"
+    title: "朱买臣 / Zhu Maichen (Western Han)"
+    url: "/wiki/entities/zhumaichenwesternhan/"
   - key: "ZhuHaiWeiRetainer"
     title: "朱亥 / Zhu Hai"
     url: "/wiki/entities/zhuhaiweiretainer/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？](sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca.md) — 减宣奏报和赵禹审讯把张汤逼向自杀，其遗书、清贫家产与母亲薄葬又改变汉武帝判断，最终使三长史被诛、庄青翟自杀。
 - [《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案](sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag.md) — 张汤借鲁谒居构陷李文、因亲自摩足暴露异常亲密，又在孝文园瘗钱被盗后把责任推向庄青翟，多路积怨由此汇入同一调查。
 - [《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？](sources/zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h.md) — 汉武帝朝廷以收回地方铸币权、集中铜材、分设上林三官和统一五铢重量构成中央铸币机制，其财政与长期稳定效果保留来源限定。
 - [《资治通鉴·汉纪》340-1｜太奇葩！古代皇帝的长寿秘方](sources/zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m.md) — 方士把露水与玉屑组合成长生药承诺，汉武帝则以柏梁台和仙人承露盘把不可验证的配方转化为帝国建筑与采集仪式。
@@ -3864,6 +3865,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 
 ## Entities
+- [朱买臣 / Zhu Maichen (Western Han)](entities/ZhuMaichenWesternHan.md) — 张汤遗书所指三长史之一，在汉武帝翻案式追查后与王朝、边通同被处死。
+- [王朝 / Wang Chao (Western Han)](entities/WangChaoWesternHan.md) — 张汤遗书所指三长史之一，以西汉语境后缀与同名人物消歧。
+- [边通 / Bian Tong (Western Han)](entities/BianTongWesternHan.md) — 张汤遗书所指三长史之一，与朱买臣、王朝一同进入死后反向清算。
+- [张汤母亲 / Mother of Zhang Tang (Western Han)](entities/ZhangTangMotherWesternHan.md) — 以拒绝厚葬和牛车薄葬表达儿子受谗而死，并影响汉武帝重审判断的张汤之母。
 - [庄青翟 / Zhuang Qingdi (Western Han)](entities/ZhuangQingdiWesternHan.md) — 西汉丞相；孝文园瘗钱被盗后的共同谢罪安排因张汤沉默和反向调查而变成公开责任冲突。
 - [减宣 / Jian Xuan (Western Han)](entities/JianXuanWesternHan.md) — 调查鲁谒居—李文案并因担心汉武帝庇护张汤而暂缓上奏的西汉官员。
 - [鲁谒居 / Lu Yezhu (Western Han)](entities/LuYezhuWesternHan.md) — 张汤宠信属吏，其构陷李文与病中受摩足成为张汤案的关键证据链。
