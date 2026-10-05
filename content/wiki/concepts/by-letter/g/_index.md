@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9729
+wiki_total_pages: 9730
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "GenderSwapSelfThoughtExperiment"
     title: "Gender-Swap Self Thought Experiment / 性转自我思想实验"
     url: "/wiki/concepts/genderswapselfthoughtexperiment/"
+  - key: "GenderedAccessToImperialExaminations"
+    title: "Gendered Access to Imperial Examinations / 科举的性别化准入"
+    url: "/wiki/concepts/genderedaccesstoimperialexaminations/"
   - key: "GenderedAgeAnxiety"
     title: "Gendered Age Anxiety"
     url: "/wiki/concepts/genderedageanxiety/"

@@ -72271,9 +72271,9 @@
       "url": "/wiki/concepts/examstandardizationvaliditytradeoff/"
     },
     "ExaminationSystems": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6507641896 [GLT6507641896].md",
@@ -72288,9 +72288,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话",
           "url": "/wiki/sources/zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-5｜你不知道的冷知识：科举里的女学子 [Fm2nBJLZQBW6dSZhxV5HM5b4kOcE].md",
+          "key": "zizhi-tongjian-hanji-341-5-ni-bu-zhidao-de-lengzhishi-keju-li-de-nvxuezi-fm2nbjlzqbw6dszhxv5hm5b4koce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-5｜你不知道的冷知识：科举里的女学子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-5-ni-bu-zhidao-de-lengzhishi-keju-li-de-nvxuezi-fm2nbjlzqbw6dszhxv5hm5b4koce/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/examinationsystems/"
     },
     "ExchangeTradedFund": {
@@ -86918,6 +86925,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/genderedaimarketing/"
+    },
+    "GenderedAccessToImperialExaminations": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》341-5｜你不知道的冷知识：科举里的女学子 [Fm2nBJLZQBW6dSZhxV5HM5b4kOcE].md",
+          "key": "zizhi-tongjian-hanji-341-5-ni-bu-zhidao-de-lengzhishi-keju-li-de-nvxuezi-fm2nbjlzqbw6dszhxv5hm5b4koce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-5｜你不知道的冷知识：科举里的女学子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-5-ni-bu-zhidao-de-lengzhishi-keju-li-de-nvxuezi-fm2nbjlzqbw6dszhxv5hm5b4koce/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/genderedaccesstoimperialexaminations/"
     },
     "GenderedAsianStereotypes": {
       "episode_count": 1,
@@ -110051,9 +110074,9 @@
       "url": "/wiki/concepts/imperialedictimplementationresistance/"
     },
     "ImperialExaminationOpportunityEquality": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4） [lpHAveRx7GYxNTncAK_-lb5hSrqA].md",
@@ -110075,9 +110098,16 @@
           "show": "The Rest Is History",
           "title": "84. Exams",
           "url": "/wiki/sources/84-exams-glt6507641896/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-5｜你不知道的冷知识：科举里的女学子 [Fm2nBJLZQBW6dSZhxV5HM5b4kOcE].md",
+          "key": "zizhi-tongjian-hanji-341-5-ni-bu-zhidao-de-lengzhishi-keju-li-de-nvxuezi-fm2nbjlzqbw6dszhxv5hm5b4koce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-5｜你不知道的冷知识：科举里的女学子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-5-ni-bu-zhidao-de-lengzhishi-keju-li-de-nvxuezi-fm2nbjlzqbw6dszhxv5hm5b4koce/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/imperialexaminationopportunityequality/"
     },
     "ImperialFascistLeague": {
@@ -131851,6 +131881,22 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/entities/linxingzhi/"
+    },
+    "LinYouyu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》341-5｜你不知道的冷知识：科举里的女学子 [Fm2nBJLZQBW6dSZhxV5HM5b4kOcE].md",
+          "key": "zizhi-tongjian-hanji-341-5-ni-bu-zhidao-de-lengzhishi-keju-li-de-nvxuezi-fm2nbjlzqbw6dszhxv5hm5b4koce",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-5｜你不知道的冷知识：科举里的女学子",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-5-ni-bu-zhidao-de-lengzhishi-keju-li-de-nvxuezi-fm2nbjlzqbw6dszhxv5hm5b4koce/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/linyouyu/"
     },
     "Lindisfarne": {
       "episode_count": 1,
