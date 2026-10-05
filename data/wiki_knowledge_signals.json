@@ -8082,6 +8082,36 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/agenticdataengineeringharness/"
     },
+    "AgenticSoftware": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？ (1) [6639-1].md",
+          "key": "vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1",
+          "show": "枫言枫语",
+          "title": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？",
+          "url": "/wiki/sources/vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1/"
+        },
+        {
+          "episode_file": "E155.似乎没什么人再提「AI 泡沫论」了 [lkon87VgPkdkQ9Ll_fG0eaBnUubF].md",
+          "key": "e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf",
+          "show": "面基",
+          "title": "E155.似乎没什么人再提「AI 泡沫论」了",
+          "url": "/wiki/sources/e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jensen Huang LIVE： Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis [40545520].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/agenticsoftware/"
+    },
     "AgenticSystemOfRecordMoat": {
       "episode_count": 2,
       "show_count": 1,
@@ -116932,6 +116962,106 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/jennyorangutan/"
     },
+    "JensenHuang": {
+      "episode_count": 13,
+      "show_count": 8,
+      "source_note_count": 13,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+        },
+        {
+          "episode_file": "150. 对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手 [lghqbPI7EHExAvJv1gjRFV_24k8Y].md",
+          "key": "150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "150. 对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手",
+          "url": "/wiki/sources/150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y/"
+        },
+        {
+          "episode_file": "算力狂想曲，我在AI工厂的奇遇 [loRiJULLTfhTTSPka22jNN4qJf_I].md",
+          "key": "suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i",
+          "show": "一劳永逸",
+          "title": "算力狂想曲，我在AI工厂的奇遇",
+          "url": "/wiki/sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i/"
+        },
+        {
+          "episode_file": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋 [d97446f1-d6e3-4894-89d1-dca0a362b10b].md",
+          "key": "e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b",
+          "show": "硅谷101",
+          "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+          "url": "/wiki/sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b/"
+        },
+        {
+          "episode_file": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13 [c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1].md",
+          "key": "cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1",
+          "show": "What's Next｜科技早知道",
+          "title": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13",
+          "url": "/wiki/sources/cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1/"
+        },
+        {
+          "episode_file": "tech_20260206_0206_MP_TECH_pod_128 [tech_20260206_0206_MP_TECH_pod_128].md",
+          "key": "tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start",
+          "url": "/wiki/sources/tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率 [lgZ718uN4sJVgXqbydFIKyXZ0hcJ].md",
+          "key": "ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj",
+          "show": "一劳永逸",
+          "title": "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率",
+          "url": "/wiki/sources/ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj/"
+        },
+        {
+          "episode_file": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把-ai-吹成核武器的人，亲手拉下了新冷战铁幕-1].md",
+          "key": "ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1",
+          "show": "科技乱炖",
+          "title": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕",
+          "url": "/wiki/sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1/"
+        },
+        {
+          "episode_file": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？ (1) [6639-1].md",
+          "key": "vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1",
+          "show": "枫言枫语",
+          "title": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？",
+          "url": "/wiki/sources/vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1/"
+        },
+        {
+          "episode_file": "tech_20260116_0116_MP_TECH_pod_128 [tech_20260116_0116_MP_TECH_pod_128].md",
+          "key": "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI",
+          "url": "/wiki/sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "真正改变世界的技术，为什么一开始都不被看好？｜ S10E16 [8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1].md",
+          "key": "zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1",
+          "show": "What's Next｜科技早知道",
+          "title": "真正改变世界的技术，为什么一开始都不被看好？| S10E16",
+          "url": "/wiki/sources/zhenzheng-gaibian-shijie-de-jishu-weishenme-yikaishi-dou-bu-bei-kanhao-s10e16-8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Howard Lutnick： How America Can Hit 6% GDP Growth in 2026 [39668255].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jensen Huang LIVE： Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis [40545520].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/jensenhuang/"
+    },
     "JeremyThorpe": {
       "episode_count": 2,
       "show_count": 1,
@@ -159407,6 +159537,253 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/nutritiontriagethreshold/"
     },
+    "Nvidia": {
+      "episode_count": 34,
+      "show_count": 14,
+      "source_note_count": 34,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dan Loeb： The Lost Art of Short Selling, and Why Stock Picking is Back [41552605].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+        },
+        {
+          "episode_file": "150. 对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手 [lghqbPI7EHExAvJv1gjRFV_24k8Y].md",
+          "key": "150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "150. 对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手",
+          "url": "/wiki/sources/150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y/"
+        },
+        {
+          "episode_file": "acc532947b65 [acc532947b65].md",
+          "key": "acc532947b65-acc532947b65",
+          "show": "科技乱炖",
+          "title": "没有方向盘的出行，走到哪一步了？ NVIDIA × 小马智行一次聊透智能驾驶",
+          "url": "/wiki/sources/acc532947b65-acc532947b65/"
+        },
+        {
+          "episode_file": "算力狂想曲，我在AI工厂的奇遇 [loRiJULLTfhTTSPka22jNN4qJf_I].md",
+          "key": "suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i",
+          "show": "一劳永逸",
+          "title": "算力狂想曲，我在AI工厂的奇遇",
+          "url": "/wiki/sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i/"
+        },
+        {
+          "episode_file": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24 [a3884ade-4669-4d5c-ab2e-f98aa580f429].md",
+          "key": "jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429",
+          "show": "What's Next｜科技早知道",
+          "title": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24",
+          "url": "/wiki/sources/jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429/"
+        },
+        {
+          "episode_file": "tech_20260721_0721_MP_TECH_pod_128 [tech_20260721_0721_MP_TECH_pod_128].md",
+          "key": "tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI debt is flooding the bond market",
+          "url": "/wiki/sources/tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "vol.115.全球宏观和资本市场2025展望：短期问题不解决，就没有中期和长期了 [lrfL2E5nuf7_uBq-SHyBqytjHuHx].md",
+          "key": "vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx",
+          "show": "起朱楼宴宾客",
+          "title": "Vol.115 全球宏观和资本市场2025展望：短期问题不解决，就没有中期和长期了",
+          "url": "/wiki/sources/vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx/"
+        },
+        {
+          "episode_file": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？ [f14f8686-a6e2-47ea-92c1-ca7e71199f67].md",
+          "key": "e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67",
+          "show": "硅谷101",
+          "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
+          "url": "/wiki/sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67/"
+        },
+        {
+          "episode_file": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？｜ S10E12 [7af0955b-e3b5-4b40-9ccf-90ec061bbf52].md",
+          "key": "7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52",
+          "show": "What's Next｜科技早知道",
+          "title": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12",
+          "url": "/wiki/sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52/"
+        },
+        {
+          "episode_file": "tech_20260106_0106_MP_TECH_pod_128 [tech_20260106_0106_MP_TECH_pod_128].md",
+          "key": "tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How convergence will define the tech sector in 2026",
+          "url": "/wiki/sources/tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260113_0113_MP_TECH_pod_128 [tech_20260113_0113_MP_TECH_pod_128].md",
+          "key": "tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI is eating up the world's computing memory",
+          "url": "/wiki/sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋 [d97446f1-d6e3-4894-89d1-dca0a362b10b].md",
+          "key": "e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b",
+          "show": "硅谷101",
+          "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+          "url": "/wiki/sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b/"
+        },
+        {
+          "episode_file": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13 [c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1].md",
+          "key": "cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1",
+          "show": "What's Next｜科技早知道",
+          "title": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13",
+          "url": "/wiki/sources/cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1/"
+        },
+        {
+          "episode_file": "tech_20260210_0210_MP_TECH_pod_128 [tech_20260210_0210_MP_TECH_pod_128].md",
+          "key": "tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "TPU? GPU? What's the difference between these two chips used for AI?",
+          "url": "/wiki/sources/tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260206_0206_MP_TECH_pod_128 [tech_20260206_0206_MP_TECH_pod_128].md",
+          "key": "tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start",
+          "url": "/wiki/sources/tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251219_1219_MP_TECH_pod_128 [tech_20251219_1219_MP_TECH_pod_128].md",
+          "key": "tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Micron''s big earnings, Oracle''s data center woes and \"slop\" is Merriam-Webster''s word of the year",
+          "url": "/wiki/sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人 (1) [170-1].md",
+          "key": "jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1",
+          "show": "晚点聊 LateTalk",
+          "title": "170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人",
+          "url": "/wiki/sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1/"
+        },
+        {
+          "episode_file": "EP90 从美加墨世界杯看懂期权—华尔街的终极武器 [lmB62L64uOjzsq1uVRr0Tj81Tg1p].md",
+          "key": "ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p",
+          "show": "一劳永逸",
+          "title": "EP90 从美加墨世界杯看懂期权—华尔街的终极武器",
+          "url": "/wiki/sources/ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p/"
+        },
+        {
+          "episode_file": "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率 [lgZ718uN4sJVgXqbydFIKyXZ0hcJ].md",
+          "key": "ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj",
+          "show": "一劳永逸",
+          "title": "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率",
+          "url": "/wiki/sources/ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj/"
+        },
+        {
+          "episode_file": "EP76 穿越1940：我与股票大作手利弗莫尔的最后对话 [lr0fb5YFiWoXaamdwjJgH4RjEPrG].md",
+          "key": "ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg",
+          "show": "一劳永逸",
+          "title": "EP76 穿越1940：我与股票大作手利弗莫尔的最后对话",
+          "url": "/wiki/sources/ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg/"
+        },
+        {
+          "episode_file": "EP57 美股动荡，东升西降？这回是走是留 [lmEiHCoQeZY-5JxQDDEOtTydSwZ5].md",
+          "key": "ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5",
+          "show": "一劳永逸",
+          "title": "EP57 美股动荡，东升西降？这回是走是留",
+          "url": "/wiki/sources/ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5/"
+        },
+        {
+          "episode_file": "EP86 面子、底子、日子：财报只讲这三件事 [lukmNLKkuXvRvv12frOSd9tEG7bJ].md",
+          "key": "ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj",
+          "show": "一劳永逸",
+          "title": "EP86 面子、底子、日子：财报只讲这三件事",
+          "url": "/wiki/sources/ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj/"
+        },
+        {
+          "episode_file": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [把-ai-吹成核武器的人，亲手拉下了新冷战铁幕-1].md",
+          "key": "ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1",
+          "show": "科技乱炖",
+          "title": "把 AI 吹成核武器的人，亲手拉下了新冷战铁幕",
+          "url": "/wiki/sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1/"
+        },
+        {
+          "episode_file": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？ (1) [6639-1].md",
+          "key": "vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1",
+          "show": "枫言枫语",
+          "title": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？",
+          "url": "/wiki/sources/vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1/"
+        },
+        {
+          "episode_file": "E155.似乎没什么人再提「AI 泡沫论」了 [lkon87VgPkdkQ9Ll_fG0eaBnUubF].md",
+          "key": "e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf",
+          "show": "面基",
+          "title": "E155.似乎没什么人再提「AI 泡沫论」了",
+          "url": "/wiki/sources/e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf/"
+        },
+        {
+          "episode_file": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe [lkInPy65_ZR4cQmK23rmHJ_hhLVQ].md",
+          "key": "134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe",
+          "url": "/wiki/sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe/"
+        },
+        {
+          "episode_file": "商业小样43 ｜ AI时代，谁在给服务器“降温” [992085076].md",
+          "key": "shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076",
+          "show": "商业就是这样",
+          "title": "商业小样43 | AI时代，谁在给服务器“降温”",
+          "url": "/wiki/sources/shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076/"
+        },
+        {
+          "episode_file": "EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？ [lm7lXLMCnjWNAWTQ_9TYpc_fNRci].md",
+          "key": "ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci",
+          "show": "Talk三联",
+          "title": "EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？",
+          "url": "/wiki/sources/ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci/"
+        },
+        {
+          "episode_file": "tech_20260116_0116_MP_TECH_pod_128 [tech_20260116_0116_MP_TECH_pod_128].md",
+          "key": "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI",
+          "url": "/wiki/sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_a6e5cf8af43937983c58792d16f27ab7_26161104 [default.mp3_ywr3ahjkcgo_a6e5cf8af43937983c58792d16f27ab7_26161104].md",
+          "key": "so-are-we-in-an-ai-bubble-here-are-clues-to-look-for",
+          "show": "Planet Money",
+          "title": "So are we in an AI bubble? Here are clues to look for.",
+          "url": "/wiki/sources/so-are-we-in-an-ai-bubble-here-are-clues-to-look-for/"
+        },
+        {
+          "episode_file": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘 [fd17090c-0d72-4c0d-aa3e-9b00bc062149].md",
+          "key": "e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149",
+          "show": "硅谷101",
+          "title": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘",
+          "url": "/wiki/sources/e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Howard Lutnick： How America Can Hit 6% GDP Growth in 2026 [39668255].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jensen Huang LIVE： Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis [40545520].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/nvidia/"
+    },
     "NvidiaDGXSpark": {
       "episode_count": 1,
       "show_count": 1,
@@ -159424,9 +159801,9 @@
       "url": "/wiki/entities/nvidiadgxspark/"
     },
     "NvidiaVeraRubinPlatform": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
@@ -159448,6 +159825,13 @@
           "show": "Data Science With Sam",
           "title": "EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped",
           "url": "/wiki/sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jensen Huang LIVE： Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis [40545520].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520/"
         }
       ],
       "updated": "2026-10-05",
@@ -161904,6 +162288,141 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/openainonprofitconversiondispute/"
+    },
+    "OpenClaw": {
+      "episode_count": 18,
+      "show_count": 9,
+      "source_note_count": 18,
+      "sources": [
+        {
+          "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
+          "key": "e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817",
+          "show": "硅谷101",
+          "title": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路",
+          "url": "/wiki/sources/e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817/"
+        },
+        {
+          "episode_file": "OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋 [lu_D4y7QIfAG6-rc79TP-rOxJp4Z].md",
+          "key": "openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z",
+          "show": "42章经",
+          "title": "OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋",
+          "url": "/wiki/sources/openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z/"
+        },
+        {
+          "episode_file": "tech_20260313_0313_MP_TECH_pod_128 [tech_20260313_0313_MP_TECH_pod_128].md",
+          "key": "tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Amazon and AI, YouTube tops the media market and Meta buys an AI-only social network",
+          "url": "/wiki/sources/tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "E163.要完了？不！是要玩了！论养AI的心态与习惯 [lqeZCpNw8p6CwHjr2wcw68X4UpHB].md",
+          "key": "e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb",
+          "show": "面基",
+          "title": "E163.要完了？不！是要玩了！论养AI的心态与习惯",
+          "url": "/wiki/sources/e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb/"
+        },
+        {
+          "episode_file": "当我们在讨论 Harness 的时候，我们在讨论什么 ｜ 深度对谈： Minimax × Hermes Agent [lvHm1cFno7MQMFV3g0aajmW4zdPd].md",
+          "key": "dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd",
+          "show": "十字路口Crossing",
+          "title": "当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: MiniMax × Hermes Agent",
+          "url": "/wiki/sources/dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd/"
+        },
+        {
+          "episode_file": "为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰 [lgaRNGnaqRaN2C9P4jsSURvT6cEs].md",
+          "key": "weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces",
+          "show": "十字路口Crossing",
+          "title": "为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰",
+          "url": "/wiki/sources/weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces/"
+        },
+        {
+          "episode_file": "Vol. 161 从开发自己的🦞OpenClaw聊起 (1) [6626-1].md",
+          "key": "vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1",
+          "show": "枫言枫语",
+          "title": "Vol. 161 从开发自己的 OpenClaw 聊起",
+          "url": "/wiki/sources/vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1/"
+        },
+        {
+          "episode_file": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？ (1) [6639-1].md",
+          "key": "vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1",
+          "show": "枫言枫语",
+          "title": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？",
+          "url": "/wiki/sources/vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1/"
+        },
+        {
+          "episode_file": "Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维-来自小白、创业者和工程师不同视角的讨论 (1) [6642-1].md",
+          "key": "vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1",
+          "show": "枫言枫语",
+          "title": "Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维",
+          "url": "/wiki/sources/vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1/"
+        },
+        {
+          "episode_file": "OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特 [lpLswO8r829aKxwgyUrFkOjElKU6].md",
+          "key": "openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6",
+          "show": "十字路口Crossing",
+          "title": "OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特",
+          "url": "/wiki/sources/openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6/"
+        },
+        {
+          "episode_file": "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会 [lk6BZKdxTI47vEHjVS9sGxOtRvTo].md",
+          "key": "20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto",
+          "show": "十字路口Crossing",
+          "title": "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会",
+          "url": "/wiki/sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto/"
+        },
+        {
+          "episode_file": "Vol. 167 Token 如流水，Agent 似朝阳 (1) [6653-1].md",
+          "key": "vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1",
+          "show": "枫言枫语",
+          "title": "Vol. 167 Token 如流水，Agent 似朝阳",
+          "url": "/wiki/sources/vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1/"
+        },
+        {
+          "episode_file": "这半年，我们又买了哪些科技好物？ ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [这半年，我们又买了哪些科技好物？-1].md",
+          "key": "zhe-bannian-women-you-maile-naxie-keji-haowu-1",
+          "show": "科技乱炖",
+          "title": "这半年，我们又买了哪些科技好物？",
+          "url": "/wiki/sources/zhe-bannian-women-you-maile-naxie-keji-haowu-1/"
+        },
+        {
+          "episode_file": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [当可靠的代码变成了偶尔发疯的openclaw，我们未来的工-1].md",
+          "key": "dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian",
+          "show": "科技乱炖",
+          "title": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁",
+          "url": "/wiki/sources/dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian/"
+        },
+        {
+          "episode_file": "138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权 [lvjthrP5i6nloL64YOJ_JDDRa4WF].md",
+          "key": "138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权",
+          "url": "/wiki/sources/138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf/"
+        },
+        {
+          "episode_file": "139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射 [luffrgudEiiGHQxam49tfQci63NO].md",
+          "key": "139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射",
+          "url": "/wiki/sources/139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no/"
+        },
+        {
+          "episode_file": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪 [lkp1A0TodFlxOyYCYo3zhRaP3eBv].md",
+          "key": "women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv",
+          "show": "42章经",
+          "title": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪",
+          "url": "/wiki/sources/women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jensen Huang LIVE： Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis [40545520].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/openclaw/"
     },
     "OpenClosedAIMarketStructure": {
       "episode_count": 1,
@@ -169879,6 +170398,134 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/photographicwitness/"
+    },
+    "PhysicalAI": {
+      "episode_count": 17,
+      "show_count": 8,
+      "source_note_count": 17,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras & Black Forest Labs [42029880].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880/"
+        },
+        {
+          "episode_file": "150. 对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手 [lghqbPI7EHExAvJv1gjRFV_24k8Y].md",
+          "key": "150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "150. 对英伟达研究副总裁刘洺堉的4小时访谈：Cosmos 3、世界模型、武术、黄仁勋影响我的，和你不需要击败所有对手",
+          "url": "/wiki/sources/150-dui-yingweida-yanjiu-fuzongcai-liu-mingyu-de-4-xiaoshi-fangtan-cosmos-3-shijie-moxing-wushu-huangrenxun-yingxiang-wode-he-ni-bu-xuyao-jibai-suoyou-duishou-lghqbpi7ehexavjv1gjrfv-24k8y/"
+        },
+        {
+          "episode_file": "acc532947b65 [acc532947b65].md",
+          "key": "acc532947b65-acc532947b65",
+          "show": "科技乱炖",
+          "title": "没有方向盘的出行，走到哪一步了？ NVIDIA × 小马智行一次聊透智能驾驶",
+          "url": "/wiki/sources/acc532947b65-acc532947b65/"
+        },
+        {
+          "episode_file": "算力狂想曲，我在AI工厂的奇遇 [loRiJULLTfhTTSPka22jNN4qJf_I].md",
+          "key": "suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i",
+          "show": "一劳永逸",
+          "title": "算力狂想曲，我在AI工厂的奇遇",
+          "url": "/wiki/sources/suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i/"
+        },
+        {
+          "episode_file": "tech_20260807_0807_MP_TECH_pod_128 [tech_20260807_0807_MP_TECH_pod_128].md",
+          "key": "tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Gig workers train humanoids on household chores",
+          "url": "/wiki/sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "An interview with Elon Musk [6a6212214fac21e67f9b8c8c].md",
+          "key": "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Elon Musk",
+          "url": "/wiki/sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c/"
+        },
+        {
+          "episode_file": "对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后 (1) [173-1].md",
+          "key": "173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1",
+          "show": "晚点聊 LateTalk",
+          "title": "173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后",
+          "url": "/wiki/sources/173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1/"
+        },
+        {
+          "episode_file": "tech_20260106_0106_MP_TECH_pod_128 [tech_20260106_0106_MP_TECH_pod_128].md",
+          "key": "tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How convergence will define the tech sector in 2026",
+          "url": "/wiki/sources/tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Momenta IPO后再访曹旭东：就是想做没有尽头的AI (1) [172-1].md",
+          "key": "momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1",
+          "show": "晚点聊 LateTalk",
+          "title": "Momenta IPO后再访曹旭东：就是想做没有尽头的AI",
+          "url": "/wiki/sources/momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1/"
+        },
+        {
+          "episode_file": "【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人 (1) [170-1].md",
+          "key": "jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1",
+          "show": "晚点聊 LateTalk",
+          "title": "170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人",
+          "url": "/wiki/sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1/"
+        },
+        {
+          "episode_file": "144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式 [lnjlEQjGjo1TxuPOuvYgmDV7oo8B].md",
+          "key": "144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "144. 对杨萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式",
+          "url": "/wiki/sources/144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b/"
+        },
+        {
+          "episode_file": "143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪 [ljeKstsAfrj-oVTm2bpL92S4nwoc].md",
+          "key": "143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪",
+          "url": "/wiki/sources/143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc/"
+        },
+        {
+          "episode_file": "许华哲再次具身创业：不想错过最大的西瓜 (1) [166-1].md",
+          "key": "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1",
+          "show": "晚点聊 LateTalk",
+          "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
+          "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
+        },
+        {
+          "episode_file": "TSR-S2-TrevorBlackwell-v2 [TSR-S2-TrevorBlackwell-v2].md",
+          "key": "tsr-s2-trevorblackwell-v2",
+          "show": "The Social Radars",
+          "title": "Trevor Blackwell on Viaweb, Robots, and Early Y Combinator",
+          "url": "/wiki/sources/tsr-s2-trevorblackwell-v2/"
+        },
+        {
+          "episode_file": "146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角 [ljmazvdvAd7O5mD-Nuiompd6_1NV].md",
+          "key": "146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角",
+          "url": "/wiki/sources/146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv/"
+        },
+        {
+          "episode_file": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥 [luXTyuAfi_2ONiM15fW6Lpypo2GA].md",
+          "key": "147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥",
+          "url": "/wiki/sources/147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jensen Huang LIVE： Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis [40545520].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/physicalai/"
     },
     "PhysicalAIHardTakeoff": {
       "episode_count": 1,

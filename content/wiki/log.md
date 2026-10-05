@@ -30219,3 +30219,11 @@ Added source `zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingt
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Explosion, AI PR Crisis
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidias-future-physical-ai-rise-of-the-agent-inference-explosion-ai-pr-crisis-40545520`; migrated and resynthesized [[JensenHuang|Jensen Huang]], [[Nvidia]], [[OpenClaw]], [[PhysicalAI]], and [[AgenticSoftware]] from their complete preserved evidence inventories; and extended [[NvidiaVeraRubinPlatform|Nvidia Vera Rubin Platform]]. Core synthesis: Nvidia's current strategy is an integrated AI-factory stack, agentic workloads increase both compute demand and hardware diversity, and physical AI joins training, simulation, and edge deployment. Existing specialist software and open models may remain valuable as agents become major tool users, but agent permissions, model economics, physical reliability, supply chains, power, cooling, policy, and utilization remain binding constraints. No settled contradiction was adopted. The 100-fold compute transitions, market-size and run-rate estimates, token-spending expectations, robotics timelines, revenue forecasts, and employment claims remain source-scoped executive assertions. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,778 sources and retain 791 overview paragraphs. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
