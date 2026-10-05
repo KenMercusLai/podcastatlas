@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的](sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq.md) — 以赵禹的清廉、严法和拒绝请托区分原则与裁量，再以烈女的自伤、守寡和贞节牌坊引出性别化荣誉如何遮蔽生命代价。
 - [《资治通鉴·汉纪》350-1｜职场生存，这个道理必须懂！](sources/zizhi-tongjian-hanji-350-1-zhichang-shengcun-zhege-daoli-bixu-dong-lsobl23mkjhpn6eoif6oramxiopu.md) — 公孙卿以宝鼎时点和黄帝升仙叙事获得任用，陇西郡守则因天子从官缺食而自杀；节目把后者解释为近臣声誉权力下的避祸选择，但动机保持来源限定。
 - [《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书”](sources/zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu.md) — 以信任、近身接触和信息反馈解释天子从官的非正式权力，并串联北地亭障失修问责、甘泉太一祭祀及南越交涉预告。
 - [《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！](sources/zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl.md) — 樛太后与赵兴借安国少季使团请求按内诸侯方式朝见、开放边关、受印用汉法，但吕嘉的家族与地方权力使制度整合仍停留在有争议的提案阶段。
@@ -3836,6 +3837,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [赵禹 / Zhao Yu (Western Han)](entities/ZhaoYuWesternHan.md) — 以拒绝请托维护独立、却因严法与苛刻被周亚夫质疑能否承担重任的西汉酷吏。
 - [司马谈 / Sima Tan (Western Han)](entities/SimaTanWesternHan.md) — 司马迁之父与太史令，其名字影响《史记》避讳异文，并在本期被列为甘泉太一三年一祭建议者。
 - [安国少季 / An Guo Shaoji (Western Han)](entities/AnGuoShaoJiWesternHan.md) — 汉使与樛太后旧日亲密关系人，其个人接近成为南越归汉交涉的一条政治渠道。
 - [赵婴齐 / Zhao Yingqi (Nanyue)](entities/ZhaoYingqiNanyue.md) — 藏起两代帝号印玺、接受王后与世子册认却拒绝入朝，以有限象征让步维护南越地方实权的第三代国王。
@@ -16323,6 +16325,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [贞节荣誉的性别化强制 / Gendered Chastity Honor Coercion](concepts/GenderedChastityHonorCoercion.md) — 将女性的守寡、自伤、毁容或死亡转化为贞节荣誉，因而可能遮蔽并正当化极端个人代价。
 - [名义臣服与地方实权并存 / Nominal Submission with Local Autonomy](concepts/NominalSubmissionLocalAutonomy.md) — 地方统治者接受名号、册认等象征性等级安排，却通过回避朝见与中央法令继续维持实际自主的政治结构。
 - [酎金夺爵 / Zhoujin Title Forfeiture](concepts/ZhoujinForfeiture.md) — 以宗庙贡金重量和成色不合格为“不敬”依据削夺106名列侯爵位，并被节目解释为南越动员失败后的礼制化政治惩罚。
 - [楼船水师作战 / Tower-Ship Waterborne Warfare](concepts/TowerShipWaterborneWarfare.md) — 西汉南越战役中以大型楼船、专门水上兵力和多路会师构成的水陆协同作战分支，不等同于现代海军制度。

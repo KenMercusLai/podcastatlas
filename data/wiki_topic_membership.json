@@ -92334,6 +92334,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ZhangTangWesternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ZhangWenhong": [
     {
       "key": "science",
@@ -92819,6 +92826,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "ZhaoYuWesternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ZhaoZhang": [

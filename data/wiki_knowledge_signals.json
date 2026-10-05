@@ -86181,6 +86181,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/genderedasianstereotypes/"
     },
+    "GenderedChastityHonorCoercion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的 [lt39foGFiVNipeLlq6y2xl6CtRZQ].md",
+          "key": "zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/genderedchastityhonorcoercion/"
+    },
     "GenderedConsortScapegoating": {
       "episode_count": 6,
       "show_count": 1,
@@ -186519,9 +186535,9 @@
       "url": "/wiki/concepts/righteousnessoverprofit/"
     },
     "RigidIdealismPoliticalRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章 [lg8zeUdpELxedGlsyqP_slo9PiVA].md",
@@ -186529,9 +186545,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章",
           "url": "/wiki/sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的 [lt39foGFiVNipeLlq6y2xl6CtRZQ].md",
+          "key": "zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/rigididealismpoliticalrisk/"
     },
     "RiliBaqianwanBeltHook": {
@@ -243444,9 +243467,9 @@
       "url": "/wiki/entities/zhangtanwesternhan/"
     },
     "ZhangTangWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》431｜职场必读！酷吏之子张安世的职场智慧 [lmxEy8uOliWYNiMxcnH1KhJefEnl].md",
@@ -243454,9 +243477,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》431｜职场必读！酷吏之子张安世的职场智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的 [lt39foGFiVNipeLlq6y2xl6CtRZQ].md",
+          "key": "zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/zhangtangwesternhan/"
     },
     "ZhangWuchang": {
@@ -244941,6 +244971,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/zhaoyingqinanyue/"
+    },
+    "ZhaoYuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的 [lt39foGFiVNipeLlq6y2xl6CtRZQ].md",
+          "key": "zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhaoyuwesternhan/"
     },
     "ZhaoYun": {
       "episode_count": 2,
@@ -246678,6 +246724,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhouxielatehan/"
+    },
+    "ZhouYafu": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
+          "key": "zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的 [lt39foGFiVNipeLlq6y2xl6CtRZQ].md",
+          "key": "zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhouyafu/"
     },
     "ZhouYouwang": {
       "episode_count": 2,

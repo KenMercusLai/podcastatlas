@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3116
+topic_total_pages: 3118
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7847,6 +7847,9 @@ topic_entities:
   - key: "ZhangJiCaoOfficialLateHan"
     title: "张既 / Zhang Ji (Cao official, late Han)"
     url: "/wiki/entities/zhangjicaoofficiallatehan/"
+  - key: "ZhangTangWesternHan"
+    title: "张汤 / Zhang Tang (Western Han)"
+    url: "/wiki/entities/zhangtangwesternhan/"
   - key: "ZhangQianWesternHan"
     title: "张骞 / Zhang Qian (Western Han)"
     url: "/wiki/entities/zhangqianwesternhan/"
@@ -8054,6 +8057,9 @@ topic_entities:
   - key: "ZhaoPingjunWesternHan"
     title: "赵平君 / Zhao Pingjun"
     url: "/wiki/entities/zhaopingjunwesternhan/"
+  - key: "ZhaoYuWesternHan"
+    title: "赵禹 / Zhao Yu (Western Han)"
+    url: "/wiki/entities/zhaoyuwesternhan/"
   - key: "QizhulouYanBinke"
     title: "起朱楼宴宾客 / Qizhulou Yan Binke"
     url: "/wiki/entities/qizhulouyanbinke/"
