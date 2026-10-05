@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12453
+wiki_total_pages: 12456
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -1673,6 +1673,9 @@ wiki_pages:
   - key: "GaoGanLateHan"
     title: "高干 / Gao Gan (late Han)"
     url: "/wiki/entities/gaoganlatehan/"
+  - key: "GaozhuangHanTomb"
+    title: "高庄汉墓 / Gaozhuang Han Tomb"
+    url: "/wiki/entities/gaozhuanghantomb/"
   - key: "GaoDerong"
     title: "高德荣 / Gao Derong"
     url: "/wiki/entities/gaoderong/"

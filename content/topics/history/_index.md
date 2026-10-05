@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2572
+topic_total_pages: 2576
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1798,6 +1798,9 @@ topic_concepts:
   - key: "CourtWomenHistoriography"
     title: "宫廷女性史学 / Court Women Historiography"
     url: "/wiki/concepts/courtwomenhistoriography/"
+  - key: "CursedTitleNarrative"
+    title: "封号诅咒叙事 / Cursed Title Narrative"
+    url: "/wiki/concepts/cursedtitlenarrative/"
   - key: "SichuanPostConquestResistance"
     title: "川蜀征服后反抗 / Sichuan Post-Conquest Resistance"
     url: "/wiki/concepts/sichuanpostconquestresistance/"
@@ -3461,6 +3464,9 @@ topic_entities:
   - key: "ShiBei"
     title: "市被 / Shi Bei"
     url: "/wiki/entities/shibei/"
+  - key: "LiuShunChangshanKingWesternHan"
+    title: "常山王刘顺 / Liu Shun, King of Changshan (Western Han)"
+    url: "/wiki/entities/liushunchangshankingwesternhan/"
   - key: "Pingyuanjun"
     title: "平原君 / Lord Pingyuan"
     url: "/wiki/entities/pingyuanjun/"
@@ -4838,6 +4844,9 @@ topic_entities:
   - key: "GaoXinWarringStates"
     title: "高信 / Gao Xin (Warring States)"
     url: "/wiki/entities/gaoxinwarringstates/"
+  - key: "GaozhuangHanTomb"
+    title: "高庄汉墓 / Gaozhuang Han Tomb"
+    url: "/wiki/entities/gaozhuanghantomb/"
   - key: "GaoJianli"
     title: "高渐离 / Gao Jianli"
     url: "/wiki/entities/gaojianli/"
@@ -7374,6 +7383,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp"
     title: "《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话"
     url: "/wiki/sources/zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp/"
+  - key: "zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1"
+    title: "《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生"
+    url: "/wiki/sources/zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1/"
   - key: "zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx"
     title: "《资治通鉴·汉纪》346｜千年王陵背后隐藏的惊天大秘密"
     url: "/wiki/sources/zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx/"

@@ -25871,6 +25871,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CursedTitleNarrative": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "CurtisLeMay": [
     {
       "key": "politics",
@@ -37206,6 +37213,13 @@
     }
   ],
   "GaolingJunQin": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "GaozhuangHanTomb": [
     {
       "key": "history",
       "label": "History",
@@ -52110,6 +52124,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "LiuShunChangshanKingWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "LiuSuiSishuiSeal": [
@@ -102787,6 +102808,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-346-qiannian-wangling-beihou-yincang-de-jingtian-da-mimi-lophz5ccj4jalgmohvozcol5nelx": [

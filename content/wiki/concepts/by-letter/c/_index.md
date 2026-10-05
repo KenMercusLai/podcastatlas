@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9727
+wiki_total_pages: 9728
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3101,6 +3101,9 @@ wiki_pages:
   - key: "CourtDemandDrivenPapermaking"
     title: "宫廷需求驱动造纸 / Court-Demand-Driven Papermaking"
     url: "/wiki/concepts/courtdemanddrivenpapermaking/"
+  - key: "CursedTitleNarrative"
+    title: "封号诅咒叙事 / Cursed Title Narrative"
+    url: "/wiki/concepts/cursedtitlenarrative/"
   - key: "CommandSealTrustRupture"
     title: "将印信任破裂 / Command-Seal Trust Rupture"
     url: "/wiki/concepts/commandsealtrustrupture/"

@@ -30279,3 +30279,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生
+
+Added source `zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1`; created [[ChangshanKingdomWesternHan|西汉常山国]], [[LiuShunChangshanKingWesternHan|常山王刘顺]], [[GaozhuangHanTomb|高庄汉墓]], and [[CursedTitleNarrative|封号诅咒叙事]]. Core synthesis: early death, political killing, deposition, and posthumous tomb destruction form a memorable title-centered pattern but do not establish supernatural or common causation; Liu Shun's thirty-two-year reign is a partial counterexample that the episode absorbs by extending the time horizon beyond death. No settled contradiction was adopted. The 114 BCE disaster context, thirty-two-holder count, royal genealogy, individual fates, title discontinuity, fire sequence, and Gaozhuang occupant attribution remain source-scoped pending direct historical and archaeological comparison. The automatic `wiki/overview.md` was updated during normal ingest and then left read-only for downstream synthesis refresh. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,785 sources across 794 overview paragraphs and nine topics.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

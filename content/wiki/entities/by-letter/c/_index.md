@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12453
+wiki_total_pages: 12456
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2255,6 +2255,9 @@ wiki_pages:
   - key: "Crab"
     title: "螃蟹 / Crab"
     url: "/wiki/entities/crab/"
+  - key: "ChangshanKingdomWesternHan"
+    title: "西汉常山国 / Changshan Kingdom (Western Han)"
+    url: "/wiki/entities/changshankingdomwesternhan/"
   - key: "ChudongZahuopu"
     title: "触动杂货铺 / Chudong Zahuopu"
     url: "/wiki/entities/chudongzahuopu/"
