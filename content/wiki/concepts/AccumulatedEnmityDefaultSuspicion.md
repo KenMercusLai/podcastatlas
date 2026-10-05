@@ -5,49 +5,56 @@ knowledge_schema: synthesis-v1
 tags: [court-politics, workplace, reputation, accusation]
 sources:
   - zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb
-last_updated: 2026-09-13
+  - zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag
+last_updated: 2026-10-06
 ---
 
 ## Definition
 
-积怨式默认怀疑 / accumulated enmity default suspicion is the pattern where repeated sharp speech, exposure of others' private faults, boasting, or small conflicts make a person the default suspected attacker when a hidden accusation or setback occurs.
+积怨式默认怀疑 / accumulated enmity default suspicion is the pattern where repeated sharp speech, humiliation, harsh treatment, exposure of private faults, or blame shifting make a person the default suspected attacker or default target when a hidden accusation or setback occurs.
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|Hanji 453]] grounds the concept through [[YangYunWesternHan|杨恽]] and [[DaiChangleWesternHan|戴长乐]]. The episode does not claim Dai knows for certain that Yang reported him. The point is reputational probability: Yang's past conduct makes Dai immediately imagine him as the likely source because Yang is known for self-display, cutting judgment, and revealing others' hidden faults.
+[[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|Hanji 453]] grounds the default-suspect side through [[YangYunWesternHan|杨恽]] and [[DaiChangleWesternHan|戴长乐]]. The episode does not claim Dai knows that Yang reported him. Yang's past self-display, cutting judgment, and exposure of hidden faults simply make him the obvious imagined attacker, allowing an unknown accuser to push visible rivals into conflict.
 
-The concept therefore joins interpersonal conduct to political risk. A person can be partly right on substance, clean in office, or courageous in speech and still become unsafe if everyday conduct leaves many people waiting for a chance to retaliate. When trouble comes, potential helpers may hesitate because helping the target means offending everyone who already resents that target.
+The default-target side appears in [[zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag|Hanji 338-2]]. [[ZhangTangWesternHan|张汤]]'s harshness, protection of [[LuYezhuWesternHan|鲁谒居]], execution of [[LiWenWesternHan|李文]], policy conflict with [[LiuPengzuZhaoKingWesternHan|刘彭祖]], prior grievance with [[JianXuanWesternHan|减宣]], and responsibility fight with [[ZhuangQingdiWesternHan|庄青翟]] create several routes through which one inquiry can widen. The question is not merely who seems likely to have attacked first, but why so many actors are ready to interpret ambiguity against the same powerful target.
+
+The combined concept joins interpersonal conduct to institutional risk. Talent, integrity, formal authority, or being partly right on substance do not cancel the danger of stored hostility. Visible favoritism can look like collusion, staged distance can look like betrayal, and a jurisdictional dispute can look like opportunistic blame shifting; once these interpretations converge, potential helpers face a higher cost for defending the target.
 
 ## Key Claims
 
-- Repeated small hostilities can become stored political or workplace risk even before a formal conflict appears.
-- The default suspect is not always the real attacker; the danger is that reputation narrows others' imagination of who would do harm.
-- Hidden accusers can exploit this pattern because misdirected suspicion makes the visible targets fight each other.
-- Exposing private faults is especially costly because it creates fear as well as dislike.
-- Talent, integrity, and courage do not cancel the risk created by unnecessary enemy-making.
-- The practical lesson is bounded: conflict may be necessary, but habitual back-channel attack and needless humiliation make later protection harder.
+- Repeated small hostilities can become stored political or workplace risk before a formal conflict appears.
+- The default suspect is not always the real attacker; reputation can narrow others' imagination of who would do harm.
+- Hidden accusers can exploit misdirected suspicion and make visible rivals fight each other.
+- A powerful target with many enemies can face converging accusations even without explicit coordination among them.
+- Visible favoritism and strategic concealment can both become adverse evidence under hostile scrutiny.
+- Talent, integrity, and formal authority do not cancel the risk created by unnecessary enemy-making.
+- Accumulated hostility becomes most dangerous when private patronage, formal investigation, and jurisdictional blame corroborate one another.
 
 ## Evidence
 
-Yang Yun's reputation field:
-- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|Hanji 453]] says Yang Yun is clean and direct in office, but also boastful, sharp, and fond of exposing hidden faults.
-- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|Hanji 453]] says many court people have resentments against Yang because of this conduct.
+Yang Yun's reputation and default suspicion:
+- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|Hanji 453]] says Yang is clean and direct but also boastful, sharp, and fond of exposing hidden faults, leaving many court resentments.
+- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|Hanji 453]] says Dai Changle quickly suspects and reports Yang after an unknown person reports Dai.
 
-Default suspicion and retaliation:
-- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|Hanji 453]] says Dai Changle is reported by an unknown person and quickly suspects Yang Yun.
-- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|Hanji 453]] says Dai then reports Yang, converting Yang's remarks into a political case.
+Zhang Tang and converging adversaries:
+- [[zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag|Hanji 338-2]] shows Liu Pengzu, Lu Yezhu's brother, Jian Xuan, and Zhuang Qingdi entering Zhang's danger through different grievances, interpretations, and institutional routes.
+- [[zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag|Hanji 338-2]] makes visible intimacy and staged non-recognition both backfire: the first looks like collusion, while the second is read as betrayal and prompts disclosure.
 
 ## Counterevidence & Qualifications
 
-This concept does not prove Yang Yun actually reported Dai Changle. The source explicitly leaves the original accuser uncertain. It also should not be generalized into conflict avoidance: the host says struggle can be necessary, but warns against frequent hidden attacks, exposing private faults for small gains, and making enemies when goodwill would have been possible.
+The concept does not prove Yang Yun actually reported Dai Changle; the original accuser remains uncertain. Hanji 338-2 likewise does not prove that every accusation against Zhang is true, that every opponent coordinates with the others, or that the foot massage independently establishes conspiracy. Necessary enforcement and disagreement remain distinct from habitual humiliation, covert retaliation, selective protection, and opportunistic blame shifting.
 
 ## What Changed
 
-- Created the concept from Hanji 453's Dai Changle-Yang Yun accusation spiral.
+- Extended the concept from mistaken default suspicion to converging retaliation against a powerful official with many stored grievances.
+- Added the failure of both visible favoritism and staged distance as relationship signals under hostile scrutiny.
 
 ## Related Concepts
 
-- [[NarrativeReframingAsPoliticalAttack|叙事改写式政治攻击]] - downstream mechanism when ordinary remarks are recategorized as political danger.
-- [[PoliticalExecutionOverreach|政治诛杀过度]] - later punishment-severity field connected to Yang Yun and Han Yanshou.
-- [[RelationalDisrespectPowerRisk|关系性轻慢风险]] - adjacent workplace/court pattern where conduct toward one person activates hidden relationship risk.
-- [[HistoricalReadingAsSurvivalWisdom|读史处世智慧]] - practical reading frame that turns the case into self-observation about speech and motive.
+- [[NarrativeReframingAsPoliticalAttack|叙事改写式政治攻击]] - downstream mechanism when ordinary remarks or conduct are recategorized as political danger.
+- [[PoliticalExecutionOverreach|政治诛杀过度]] - punishment-severity field connected to the Yang Yun branch.
+- [[RelationalDisrespectPowerRisk|关系性轻慢风险]] - adjacent pattern where conduct toward one person activates hidden relationship risk.
+- [[HistoricalReadingAsSurvivalWisdom|读史处世智慧]] - practical frame for self-observation about speech, motive, and stored hostility.
+- [[ZhangTangWesternHan]] - target-side case where accumulated enmity activates through several people and institutions.
+- [[LuYezhuWesternHan]] - patronage relationship whose visibility and concealment both become damaging evidence.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案](sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag.md) — 张汤借鲁谒居构陷李文、因亲自摩足暴露异常亲密，又在孝文园瘗钱被盗后把责任推向庄青翟，多路积怨由此汇入同一调查。
 - [《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？](sources/zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h.md) — 汉武帝朝廷以收回地方铸币权、集中铜材、分设上林三官和统一五铢重量构成中央铸币机制，其财政与长期稳定效果保留来源限定。
 - [《资治通鉴·汉纪》340-1｜太奇葩！古代皇帝的长寿秘方](sources/zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m.md) — 方士把露水与玉屑组合成长生药承诺，汉武帝则以柏梁台和仙人承露盘把不可验证的配方转化为帝国建筑与采集仪式。
 - [Travis Kalanick & Michael Dell Live from Austin, Texas](sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605.md) — All-In live interviews on Kalanick's physical-world compute stack, specialized robotics and mining, Dell's distributed AI infrastructure and top-down process redesign, and the Dell family's child-account pledge.
@@ -3863,6 +3864,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 
 ## Entities
+- [庄青翟 / Zhuang Qingdi (Western Han)](entities/ZhuangQingdiWesternHan.md) — 西汉丞相；孝文园瘗钱被盗后的共同谢罪安排因张汤沉默和反向调查而变成公开责任冲突。
+- [减宣 / Jian Xuan (Western Han)](entities/JianXuanWesternHan.md) — 调查鲁谒居—李文案并因担心汉武帝庇护张汤而暂缓上奏的西汉官员。
+- [鲁谒居 / Lu Yezhu (Western Han)](entities/LuYezhuWesternHan.md) — 张汤宠信属吏，其构陷李文与病中受摩足成为张汤案的关键证据链。
+- [李文 / Li Wen (Western Han)](entities/LiWenWesternHan.md) — 与张汤有隙、寻找文书证据未成，反被鲁谒居秘密构陷并由张汤处死的西汉官员。
 - [孔仅 / Kong Jin (Western Han)](entities/KongJinWesternHan.md) — 由铁商背景进入汉武帝财政体系、参与盐铁事务并升任大农令的西汉官员。
 - [City Storage Systems / CloudKitchens](entities/CityStorageSystems.md) — Travis Kalanick's food-infrastructure company framework joining manufacturing, real estate, logistics, and automation.
 - [Zheng Chao / 郑超](entities/ZhengChaoEndocrinologist.md) — Zhejiang University Second Affiliated Hospital endocrinologist who frames weight management through metabolic health, sustainable pacing, and coordinated care.
@@ -18403,7 +18408,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Environmental Exposure Signal Detection](concepts/EnvironmentalExposureSignalDetection.md) — Use of public datasets, geographic exposure estimates, molecular signatures, and disease patterns to flag chemicals for safety review.
 - [叙事改写式政治攻击 / Narrative Reframing as Political Attack](concepts/NarrativeReframingAsPoliticalAttack.md) — Court-politics tactic where a dispute is recategorized as obstruction, disloyalty, or threat before the ruler judges the evidence.
 - [关系性轻慢风险 / Relational Disrespect Power Risk](concepts/RelationalDisrespectPowerRisk.md) — Workplace and court-politics pattern where contempt toward one actor offends hidden relationship debts, status order, and a superior's dignity.
-- [积怨式默认怀疑 / Accumulated Enmity Default Suspicion](concepts/AccumulatedEnmityDefaultSuspicion.md) — Reputation-risk pattern where repeated sharpness and fault-exposure make someone the default suspected attacker when hidden accusation appears.
+- [积怨式默认怀疑 / Accumulated Enmity Default Suspicion](concepts/AccumulatedEnmityDefaultSuspicion.md) — Reputation-risk pattern where repeated sharpness, humiliation, favoritism, or blame shifting makes someone the default suspected attacker or convergent target when crisis appears.
 - [Sensitive Personnel Recommendation Boundary](concepts/SensitivePersonnelRecommendationBoundary.md) — authority boundary around unsolicited advice on high-level personnel appointments, especially military-linked or inner-circle posts.
 - [宗室巫术夺位幻想 / Royal Witchcraft Succession Delusion](concepts/RoyalWitchcraftSuccessionDelusion.md) — Royal-kin pattern where occult harm substitutes for open succession action and coincidence is misread as political efficacy.
 - [长平仓制度 / Changping Granary System](concepts/ChangpingGranarySystem.md) — Public grain-reserve policy that buys when grain is cheap and sells when grain is dear to buffer farmers, consumers, and scarcity risk.

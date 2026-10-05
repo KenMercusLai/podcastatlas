@@ -5500,9 +5500,9 @@
       "url": "/wiki/concepts/accessiontimingcoalitionsignal/"
     },
     "AccumulatedEnmityDefaultSuspicion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》453｜官场启示录：同事捅你前，必然忍你很久了 [lnrmyJyeP_XheN3Lmzu2_yhtSuxb].md",
@@ -5510,9 +5510,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》453｜官场启示录：同事捅你前，必然忍你很久了",
           "url": "/wiki/sources/zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案 [lp8Mwe-Z21LHQHG4lwNJ-jMeotaG].md",
+          "key": "zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/accumulatedenmitydefaultsuspicion/"
     },
     "AccumulatedSkillMissionRecognition": {
@@ -118851,6 +118858,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/jianlangeasternhan/"
     },
+    "JianXuanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案 [lp8Mwe-Z21LHQHG4lwNJ-jMeotaG].md",
+          "key": "zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/jianxuanwesternhan/"
+    },
     "JianchengHouAo": {
       "episode_count": 1,
       "show_count": 1,
@@ -130279,6 +130302,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/liweicong/"
     },
+    "LiWenWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案 [lp8Mwe-Z21LHQHG4lwNJ-jMeotaG].md",
+          "key": "zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/liwenwesternhan/"
+    },
     "LiWenjiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -134058,9 +134097,9 @@
       "url": "/wiki/entities/liunaoziwesternhan/"
     },
     "LiuPengzuZhaoKingWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？ [loi-6-s1Z2okMSkqvbFwryZ-QJTO].md",
@@ -134075,9 +134114,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》382-2｜一生做过三位诸侯妃子，古代超美淖姬的悲情人生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-382-2-yisheng-zuoguo-sanwei-zhuhou-feizi-gudai-chaomei-nuoji-de-beiqing-rensheng-lt06-as48q9qlpt_-dfdx_jsidjy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案 [lp8Mwe-Z21LHQHG4lwNJ-jMeotaG].md",
+          "key": "zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/liupengzuzhaokingwesternhan/"
     },
     "LiuPenziEasternHan": {
@@ -138897,6 +138943,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/luyanwangyuwife/"
+    },
+    "LuYezhuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案 [lp8Mwe-Z21LHQHG4lwNJ-jMeotaG].md",
+          "key": "zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/luyezhuwesternhan/"
     },
     "LuYuxin": {
       "episode_count": 1,
@@ -246289,9 +246351,9 @@
       "url": "/wiki/entities/zhangtanwesternhan/"
     },
     "ZhangTangWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》431｜职场必读！酷吏之子张安世的职场智慧 [lmxEy8uOliWYNiMxcnH1KhJefEnl].md",
@@ -246306,9 +246368,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的",
           "url": "/wiki/sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案 [lp8Mwe-Z21LHQHG4lwNJ-jMeotaG].md",
+          "key": "zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/zhangtangwesternhan/"
     },
     "ZhangWuchang": {
@@ -250429,6 +250498,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/zhuangcanwesternhan/"
+    },
+    "ZhuangQingdiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案 [lp8Mwe-Z21LHQHG4lwNJ-jMeotaG].md",
+          "key": "zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/zhuangqingdiwesternhan/"
     },
     "ZhuangbiAsSocialSignaling": {
       "episode_count": 1,

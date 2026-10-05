@@ -30389,3 +30389,11 @@ Added source `zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案
+
+Added source `zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag`; created [[LiWenWesternHan|李文]], [[LuYezhuWesternHan|鲁谒居]], [[JianXuanWesternHan|减宣]], and [[ZhuangQingdiWesternHan|庄青翟]]; and resynthesized [[ZhangTangWesternHan|张汤]], [[LiuPengzuZhaoKingWesternHan|刘彭祖]], and [[AccumulatedEnmityDefaultSuspicion|积怨式默认怀疑]] from their complete preserved evidence inventories. Core synthesis: the foot massage is not independent proof of conspiracy but a visible patronage signal inside a larger chain of covert accusation, concealed protection, failed staged distance, fiscal grievance, prior enmity, and jurisdictional blame shifting. No settled contradiction was adopted. The raw transcript forms 鲁业居, 贤轩, and 庄青宅 were normalized to 鲁谒居, 减宣, and 庄青翟; private motives, exact charges, procedure, theft details, and the episode's causal interpretation remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,799 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
