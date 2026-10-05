@@ -5454,9 +5454,9 @@
       "url": "/wiki/concepts/accessionkinshipcontainment/"
     },
     "AccessionMourningLegibility": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》406｜天上砸下个皇位！荒唐的刘贺咋就成了皇帝？ [lgs9uY4ohCD50v9qeirVSdo2x3Ad].md",
@@ -5471,9 +5471,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？ [lsNHZ4q-oXjpeFGKdFXKcAl-37Iv].md",
+          "key": "zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/accessionmourninglegibility/"
     },
     "AccessionTimingCoalitionSignal": {
@@ -34922,9 +34929,9 @@
       "url": "/wiki/concepts/changpinggranarysystem/"
     },
     "ChangshanKingdomWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生 [lpEhgfgtkBeD4vg3z7yEGSqALll1].md",
@@ -34932,9 +34939,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？ [lsNHZ4q-oXjpeFGKdFXKcAl-37Iv].md",
+          "key": "zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/changshankingdomwesternhan/"
     },
     "ChangyangPalace": {
@@ -50301,9 +50315,9 @@
       "url": "/wiki/entities/currybarker/"
     },
     "CursedTitleNarrative": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生 [lpEhgfgtkBeD4vg3z7yEGSqALll1].md",
@@ -50311,9 +50325,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？ [lsNHZ4q-oXjpeFGKdFXKcAl-37Iv].md",
+          "key": "zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/cursedtitlenarrative/"
     },
     "Cursor": {
@@ -132467,6 +132488,29 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/liubijiangwesternhan/"
     },
+    "LiuBoChangshanKingWesternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生 [lpEhgfgtkBeD4vg3z7yEGSqALll1].md",
+          "key": "zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？ [lsNHZ4q-oXjpeFGKdFXKcAl-37Iv].md",
+          "key": "zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/liubochangshankingwesternhan/"
+    },
     "LiuBoChangyiKingWesternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -133998,9 +134042,9 @@
       "url": "/wiki/entities/liushangeasternhan/"
     },
     "LiuShunChangshanKingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生 [lpEhgfgtkBeD4vg3z7yEGSqALll1].md",
@@ -134008,9 +134052,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？ [lsNHZ4q-oXjpeFGKdFXKcAl-37Iv].md",
+          "key": "zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/liushunchangshankingwesternhan/"
     },
     "LiuSuanLateHan": {
@@ -135566,6 +135617,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liuzhitaiyuanlatehan/"
+    },
+    "LiuZhuoChangshanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？ [lsNHZ4q-oXjpeFGKdFXKcAl-37Iv].md",
+          "key": "zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/liuzhuochangshanwesternhan/"
     },
     "LiuZimingSportsMedicine": {
       "episode_count": 1,
@@ -153457,6 +153524,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/concepts/mountainscenicareagrowthconstraint/"
+    },
+    "MourningConductLegalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？ [lsNHZ4q-oXjpeFGKdFXKcAl-37Iv].md",
+          "key": "zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/mourningconductlegalization/"
     },
     "MourningDiplomaticRestraint": {
       "episode_count": 1,
@@ -181945,6 +182028,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/queenvictoria/"
+    },
+    "QueenXiuChangshanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？ [lsNHZ4q-oXjpeFGKdFXKcAl-37Iv].md",
+          "key": "zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/queenxiuchangshanwesternhan/"
     },
     "QueerSafetyRetreat": {
       "episode_count": 1,
@@ -245359,9 +245458,9 @@
       "url": "/wiki/entities/zhangpueasternhan/"
     },
     "ZhangQianWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌 [lrJdMvYVoSWgFDuAjcH9oM9R-b6b].md",
@@ -245369,9 +245468,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌",
           "url": "/wiki/sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？ [lsNHZ4q-oXjpeFGKdFXKcAl-37Iv].md",
+          "key": "zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/zhangqianwesternhan/"
     },
     "ZhangQiaoLateHan": {

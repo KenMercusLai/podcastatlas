@@ -794,12 +794,13 @@
       "63a515e020a9c43959a46584faeb8b50d6d1df53ac7fcb6403fbaa521cb5881a",
       "f1e18dd7261bb4678caaf74192b916a7c19f8240d5fca5820a6dc87fc12024f8",
       "30dab5d9a3dbe5a1852603c018045e5063833f4e7647d6399d3386f189f53928",
-      "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61"
+      "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61",
+      "8f1543297306aafda5c37bc38923bd57ce8cf5d6998b09f5d3438f3707dd9537"
     ],
-    "paragraph_count": 794
+    "paragraph_count": 795
   },
-  "overview_commit": "ef5fab2b5d7879fdbfa4451d18034c6f52f5321d",
-  "overview_digest": "cdd260860e272c69b670b145fb0d3625aa85ff9686288746b7df97c4461213ac",
+  "overview_commit": "fbcceb719193a22693eaa9bce5cc8b4350e0fbc9",
+  "overview_digest": "7ee254aae41f0b577520a3a3269c42f18a6dd42990ece97ee32c8c154ffa8a38",
   "paragraphs": [
     {
       "id": "57f931d0e028859d66a8c86843f5ad3a2dfd7f64320c3b5b6b63a27ff62fb951",
@@ -23228,6 +23229,28 @@
         "MadgeOberholtzer",
         "TheRestIsHistory",
         "WomenOfTheKuKluxKlan"
+      ]
+    },
+    {
+      "id": "8f1543297306aafda5c37bc38923bd57ce8cf5d6998b09f5d3438f3707dd9537",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv|《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？]], a short [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completing Hanji 342-1's Changshan succession outcome. It adds [[LiuBoChangshanKingWesternHan|常山王刘勃]], [[LiuZhuoChangshanWesternHan|刘棁]], [[QueenXiuChangshanWesternHan|王后脩]], and [[MourningConductLegalization|居丧行为法律化]], while extending [[LiuShunChangshanKingWesternHan|常山宪王刘舜]], [[ChangshanKingdomWesternHan|西汉常山国]], [[ZhangQianWesternHan|张骞]], [[AccessionMourningLegibility|继位守丧可读性]], and [[CursedTitleNarrative|封号诅咒叙事]]. Its core synthesis is that a divided household, inheritance exclusion, sickbed and mourning allegations, central investigation, and Liu Bo's obstruction turn private royal conduct into a succession and territorial consequence; the mechanism explains one “cursed title” outcome without validating title causation. No settled contradiction is adopted. Transcript forms 刘顺、刘伯、刘卓、王后须 are normalized to 刘舜、刘勃、刘棁、王后脩; exact mourning terms and punishments, the pregnancy-and-childbirth rule, Qing abortion or adoption practice, testimony, motives, and complete legal procedure remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AccessionMourningLegibility",
+        "ChangshanKingdomWesternHan",
+        "CursedTitleNarrative",
+        "LiuBoChangshanKingWesternHan",
+        "LiuShunChangshanKingWesternHan",
+        "LiuZhuoChangshanWesternHan",
+        "MourningConductLegalization",
+        "QueenXiuChangshanWesternHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "ZhangQianWesternHan",
+        "zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv"
       ]
     }
   ],

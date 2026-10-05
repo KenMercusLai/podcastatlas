@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3120
+topic_total_pages: 3122
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4630,6 +4630,9 @@ topic_concepts:
   - key: "ConscienceThroughDuty"
     title: "尽责问心无愧 / Conscience Through Duty"
     url: "/wiki/concepts/consciencethroughduty/"
+  - key: "MourningConductLegalization"
+    title: "居丧行为法律化 / Mourning Conduct Legalization"
+    url: "/wiki/concepts/mourningconductlegalization/"
   - key: "ImperialRetinueDiscipline"
     title: "巡幸随从纪律 / Imperial Retinue Discipline"
     url: "/wiki/concepts/imperialretinuediscipline/"
@@ -9108,6 +9111,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv"
+    title: "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv/"
   - key: "zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl"
     title: "《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！"
     url: "/wiki/sources/zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl/"

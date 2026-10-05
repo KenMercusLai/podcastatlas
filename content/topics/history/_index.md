@@ -3465,7 +3465,7 @@ topic_entities:
     title: "市被 / Shi Bei"
     url: "/wiki/entities/shibei/"
   - key: "LiuShunChangshanKingWesternHan"
-    title: "常山王刘顺 / Liu Shun, King of Changshan (Western Han)"
+    title: "常山宪王刘舜 / Liu Shun, King of Changshan (Western Han)"
     url: "/wiki/entities/liushunchangshankingwesternhan/"
   - key: "Pingyuanjun"
     title: "平原君 / Lord Pingyuan"

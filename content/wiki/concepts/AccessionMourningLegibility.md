@@ -6,7 +6,8 @@ tags: [succession, ritual, mourning, court-politics, western-han]
 sources:
   - zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad
   - zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs
-last_updated: 2026-09-14
+  - zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv
+last_updated: 2026-10-06
 ---
 
 ## Definition
@@ -21,6 +22,8 @@ Wang Ji and the langzhongling understand the same risk from different angles. [[
 
 The concept is narrower than general [[LiAsPoliticalOrder|礼制政治秩序]]. It focuses on moments when a ruler's emotional display must become legible to others because succession, mourning, and political trust are fused.
 
+The vassal succession of [[LiuBoChangshanKingWesternHan|刘勃]] supplies a post-accession contrast. Liu Bo does inherit the Changshan throne, but alleged failure to serve his dying father, early departure from mourning quarters, pleasure-seeking, and later obstruction make the role unreadable after accession. Unlike Liu He's tactical crying before enthronement, Liu Bo's case shows that mourning legibility continues after title transfer and can be tested through investigation and deposition.
+
 ## Key Claims
 
 - Accession through a deceased ruler's funeral makes grief a public qualification, not only a private feeling.
@@ -28,7 +31,7 @@ The concept is narrower than general [[LiAsPoliticalOrder|礼制政治秩序]]. 
 - Earlier conduct discipline can make later mourning legibility more or less credible once succession arrives.
 - Visible joy, pleasure-seeking, and hidden impropriety during the mourning journey can damage legitimacy before formal enthronement.
 - Advisers may treat emotional performance as politically necessary even when they doubt the candidate's sincerity.
-- The pattern connects ritual form to power transfer: the new ruler must show continuity with the dead ruler before acting as sovereign.
+- The pattern connects ritual form to power transfer: the new ruler must show continuity with the dead ruler before and after assuming authority.
 
 ## Evidence
 
@@ -44,14 +47,18 @@ Illegible conduct during the transfer:
 Tactical performance:
 - [[zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad|Hanji 406]] says Liu He finally cries loudly only after being warned that failure to do so could affect his inheritance of the throne.
 
+Post-accession failure:
+- [[zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv|Hanji 342-2]] says Liu Bo's sickbed neglect and mourning misconduct help produce deposition after only several months as king.
+- [[zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv|Hanji 342-2]] separately reports interference with Zhang Qian's investigation, preventing the outcome from being reduced to emotional display alone.
+
 ## Counterevidence & Qualifications
 
-The current evidence is two Western Han episodes and should not be generalized into a complete typology of imperial mourning. The sources do not prove Liu He's inner feelings directly; they preserve outward conduct, adviser concern, and the host's reading that his grief was instrumental. Later Hanji 407-409 sources show how this unreadable accession posture becomes part of a larger deposition case, but this concept stays focused on the initial mourning-performance threshold.
+The current evidence is three Western Han episodes and should not be generalized into a complete typology of imperial or vassal mourning. The sources do not prove Liu He's or Liu Bo's inner feelings directly; they preserve outward conduct, adviser or accuser concern, and political consequences. Liu Bo's case also includes witness concealment and official coercion, so mourning legibility is one causal layer rather than a complete explanation of deposition.
 
 ## What Changed
 
-- Added Hanji 405-1's pre-summons discipline layer, making Hanji 406's accession mourning failure less abrupt.
-- Preserved Hanji 406's account of Liu He's accession journey, Wang Ji's advice, and the langzhongling's gate-and-palace mourning reminders.
+- Added Liu Bo as a vassal-king case where mourning remains politically testable after succession.
+- Distinguished ritual unreadability from the separate aggravating effect of obstructing central investigation.
 
 ## Related Concepts
 
@@ -61,3 +68,4 @@ The current evidence is two Western Han episodes and should not be generalized i
 - [[LiAsPoliticalOrder|礼制政治秩序]] - broader ritual-order system that makes mourning behavior politically legible.
 - [[RitualAffectiveOrder|仪式感秩序生成]] - adjacent affective-form concept because public grief must be produced through ritual conduct.
 - [[RegentShadowAccessionSurvival|权臣阴影下的即位生存]] - later accession-survival contrast where the ruler stays inside ritual boundaries under Huo Guang.
+- [[MourningConductLegalization]] - adjacent framework for turning mourning norms into status and punishment consequences.

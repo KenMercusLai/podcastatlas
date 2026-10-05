@@ -3,12 +3,12 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-10-05
-as_of_overview_commit: 8204c5d6fc2b65e96e2882f7f59208f1b6ccb526
+last_updated: 2026-10-06
+as_of_overview_commit: fbcceb719193a22693eaa9bce5cc8b4350e0fbc9
 summary: "Podcast Atlas links technology, institutions, history, markets, culture, health, work, and psychology through evidence-bounded synthesis and explicit qualifications."
-episode_count: 3780
-source_count: 3780
-paragraph_count: 793
+episode_count: 3786
+source_count: 3786
+paragraph_count: 795
 topic_count: 9
 ---
 
@@ -61,7 +61,7 @@ Legitimacy, information, capacity, bargaining, accountability, implementation, a
 
 ### History and Geopolitics
 
-State capacity and historical change emerge through legitimacy, logistics, coalition, command, information, institutions, and contested memory.
+State capacity and historical change emerge through legitimacy, logistics, coalition, command, information, institutions, and contested memory; the Changshan case adds a bounded household-to-state example.
 
 - [[90-the-western-front-glt9972346188|The Western Front episode]] joins industrial stalemate to [[WesternFrontMilitaryLearning|uneven military learning]] and [[WesternFrontPopularMemory|contested popular memory]]: defensive firepower, mass armies, and communications made breakthrough genuinely difficult; British and Allied tactical, coalition, and logistical adaptation helped defeat Germany in 1918; and the later "lions led by donkeys" frame preserved real suffering while often obscuring adaptation and military outcome. Evidence: [[90-the-western-front-glt9972346188]], [[WesternFrontFirstWorldWar]], [[WesternFrontMilitaryLearning]], [[WesternFrontPopularMemory]], [[FirstWorldWar]], [[TrenchLifeWesternFront]], [[GarySheffield]], [[DouglasHaig]], [[WilfredOwen]], [[PaulVonHindenburg]], [[ErichLudendorff]].
 - [[95-9-11-glt8208243510|The 9/11 episode]] links [[TerrorAsGlobalMediaSpectacle|designed global imagery]] to [[RivalUniversalistProjects|rival universalist projects]] and [[WarOnTerrorOverreach|reaction-driven overreach]]: [[AlQaeda|al-Qaeda]] attacked symbolic American targets through worldwide media, while [[GeorgeWBush|George W. Bush]] turned national injury into a war and universal-freedom mission whose Iraq expansion, torture, detention abuse, and legal exceptionalism weakened American credibility and reinforced the durable [[Post911CounterterrorismArchitecture]]. Evidence: [[95-9-11-glt8208243510]], [[TerrorAsGlobalMediaSpectacle]], [[RivalUniversalistProjects]], [[WarOnTerrorOverreach]], [[AlQaeda]], [[OsamaBinLaden]], [[GeorgeWBush]], [[SayyidQutb]], [[ReligiousMoralFramingOfUSForeignPolicy]], [[Post911CounterterrorismArchitecture]], [[China]], [[TheRestIsHistory]].

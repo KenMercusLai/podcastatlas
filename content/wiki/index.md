@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？](sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv.md) — 刘勃在父病与居丧期间的失礼、刘棁因排斥而告发、张骞调查及妨碍办案共同导致废王迁徙，并显示守丧礼如何进入继承资格和法律责任。
 - [《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生](sources/zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1.md) — 以刘不宜、刘弘、刘顺、刘勃的不同结局和高庄汉墓被盗焚毁构成“常山王诅咒”，同时把封号叙事与真实因果、墓主认定分开。
 - [Inside the mindset of AI safety workers](sources/tech-20261005-1005-mp-tech-pod-128-tech-20261005-1005-mp-tech-pod-128.md) — Marketplace Tech on Spencer Kaplan's fieldwork, AI safety worker culture, effective altruism, agency, stay-or-resign choices, and P(doom) estimation.
 - [653. London’s Golden Age: The Shadow of the Madhouse (Part 4)](sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230.md) — The Rest Is History on Samuel Johnson’s dependence on the Thrale household, Hester’s competing witness, Francis Barber, Johnson’s final fears, and Boswell’s transformation of biography.
@@ -3850,9 +3851,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话](sources/zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp.md) — 芮淇讲透资治通鉴短篇，以明代科举层级、1057年科举群体与高考类比说明考试重要但不是整个人生的判决。
 
 ## Entities
+- [常山王刘勃 / Liu Bo, King of Changshan (Western Han)](entities/LiuBoChangshanKingWesternHan.md) — 因侍疾、居丧失礼及妨碍中央调查而在即位数月后被废、迁往房陵的常山末王。
+- [刘棁 / Liu Zhuo (Western Han Changshan)](entities/LiuZhuoChangshanWesternHan.md) — 因母子失宠、财产排斥与继位后失于收恤而告发刘勃和王后脩的常山庶长子。
+- [王后脩 / Queen Xiu of Changshan (Western Han)](entities/QueenXiuChangshanWesternHan.md) — 刘舜王后与刘勃之母，因侍疾、家庭排斥和居丧争议被告发并遭废黜。
 - [西汉常山国 / Changshan Kingdom (Western Han)](entities/ChangshanKingdomWesternHan.md) — 由多位同姓诸侯王继承、被节目组织为“封号诅咒”的西汉王国与王号序列。
 - [高庄汉墓 / Gaozhuang Han Tomb](entities/GaozhuangHanTomb.md) — 被盗后遭严重焚烧、节目归属常山国并进一步认定为刘顺墓的西汉王陵。
-- [常山王刘顺 / Liu Shun, King of Changshan (Western Han)](entities/LiuShunChangshanKingWesternHan.md) — 汉景帝受宠幼子，在位三十二年，却以墓葬被盗焚毁进入“常山王诅咒”叙事。
+- [常山宪王刘舜 / Liu Shun, King of Changshan (Western Han)](entities/LiuShunChangshanKingWesternHan.md) — 汉景帝受宠幼子，在位三十二年；其不均衡的内宠、财产与继承安排又为身后家庭告发和废国埋下条件。
 - [Spencer Kaplan](entities/SpencerKaplan.md) — Anthropologist studying how AI safety workers connect catastrophic-risk beliefs to agency, expected impact, and life choices.
 - [Hester Thrale Piozzi](entities/HesterPiozzi.md) — Georgian intellectual host, caregiver, independent marital actor, and competing witness to Samuel Johnson.
 - [Francis Barber](entities/FrancisBarber.md) — Formerly enslaved companion, educated dependent, and residual heir of Samuel Johnson.
@@ -16357,6 +16361,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [居丧行为法律化 / Mourning Conduct Legalization](concepts/MourningConductLegalization.md) — 将侍疾、守丧、娱乐、性与财产行为从私人礼俗转化为刑罚、身份、继承或任职后果的制度过程。
 - [封号诅咒叙事 / Cursed Title Narrative](concepts/CursedTitleNarrative.md) — 把同一封号持有者的异质不幸压缩为共同宿命，同时需要与真实制度和因果机制区分的叙事模式。
 - [High-Stakes Exam Life-Course Boundary / 高风险考试的人生边界](concepts/HighStakesExamLifeCourseBoundary.md) — Distinction between an exam's real power over immediate opportunities and the unsupported claim that one result determines an entire life.
 - [AI Safety Worker Culture](concepts/AISafetyWorkerCulture.md) — Social world linking AI-risk belief with agency, expected impact, intellectual debate, and divergent stay-or-resign tactics.

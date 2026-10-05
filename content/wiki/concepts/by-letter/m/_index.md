@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9728
+wiki_total_pages: 9729
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1718,6 +1718,9 @@ wiki_pages:
   - key: "MamaHui"
     title: "妈妈会 / Mama Hui"
     url: "/wiki/concepts/mamahui/"
+  - key: "MourningConductLegalization"
+    title: "居丧行为法律化 / Mourning Conduct Legalization"
+    url: "/wiki/concepts/mourningconductlegalization/"
   - key: "MountainBaseStrategicOptionality"
     title: "山地根据地战略余地 / Mountain Base Strategic Optionality"
     url: "/wiki/concepts/mountainbasestrategicoptionality/"

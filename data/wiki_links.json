@@ -49279,6 +49279,10 @@
     "title": "刘彬晏 / Liu Binyan",
     "url": "/wiki/entities/liubinyan/"
   },
+  "LiuBoChangshanKingWesternHan": {
+    "title": "常山王刘勃 / Liu Bo, King of Changshan (Western Han)",
+    "url": "/wiki/entities/liubochangshankingwesternhan/"
+  },
   "LiuBoChangyiKingWesternHan": {
     "title": "昌邑王刘髆 / Liu Bo, King of Changyi (Western Han)",
     "url": "/wiki/entities/liubochangyikingwesternhan/"
@@ -49604,7 +49608,7 @@
     "url": "/wiki/entities/liushangeasternhan/"
   },
   "LiuShunChangshanKingWesternHan": {
-    "title": "常山王刘顺 / Liu Shun, King of Changshan (Western Han)",
+    "title": "常山宪王刘舜 / Liu Shun, King of Changshan (Western Han)",
     "url": "/wiki/entities/liushunchangshankingwesternhan/"
   },
   "LiuSuanLateHan": {
@@ -49854,6 +49858,10 @@
   "LiuZhijun": {
     "title": "Liu Zhijun / 刘志军",
     "url": "/wiki/entities/liuzhijun/"
+  },
+  "LiuZhuoChangshanWesternHan": {
+    "title": "刘棁 / Liu Zhuo (Western Han Changshan)",
+    "url": "/wiki/entities/liuzhuochangshanwesternhan/"
   },
   "LiuZiming": {
     "title": "Liu Ziming / 刘子鸣",
@@ -56274,6 +56282,10 @@
   "MountainScenicAreaGrowthConstraint": {
     "title": "Mountain Scenic-Area Growth Constraint / 山岳景区增长约束",
     "url": "/wiki/concepts/mountainscenicareagrowthconstraint/"
+  },
+  "MourningConductLegalization": {
+    "title": "居丧行为法律化 / Mourning Conduct Legalization",
+    "url": "/wiki/concepts/mourningconductlegalization/"
   },
   "MourningDiplomaticRestraint": {
     "title": "趁丧不伐 / Mourning Diplomatic Restraint",
@@ -66722,6 +66734,10 @@
   "QueenVictoria": {
     "title": "Queen Victoria",
     "url": "/wiki/entities/queenvictoria/"
+  },
+  "QueenXiuChangshanWesternHan": {
+    "title": "王后脩 / Queen Xiu of Changshan (Western Han)",
+    "url": "/wiki/entities/queenxiuchangshanwesternhan/"
   },
   "QueerSafetyRetreat": {
     "title": "Queer Safety Retreat / 少数群体安全退让",
@@ -99990,6 +100006,10 @@
   "zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1": {
     "title": "《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生",
     "url": "/wiki/sources/zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1/"
+  },
+  "zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv": {
+    "title": "《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv/"
   },
   "zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc": {
     "title": "《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床",

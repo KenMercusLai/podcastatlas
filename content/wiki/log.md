@@ -30287,3 +30287,11 @@ Added source `zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？
+
+Added source `zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv`; created [[LiuBoChangshanKingWesternHan|常山王刘勃]], [[LiuZhuoChangshanWesternHan|刘棁]], [[QueenXiuChangshanWesternHan|王后脩]], and [[MourningConductLegalization|居丧行为法律化]]; corrected the canonical display name [[LiuShunChangshanKingWesternHan|常山宪王刘舜]]; and resynthesized [[ChangshanKingdomWesternHan|西汉常山国]], [[ZhangQianWesternHan|张骞]], [[AccessionMourningLegibility|继位守丧可读性]], and [[CursedTitleNarrative|封号诅咒叙事]] from their complete preserved evidence inventories. Core synthesis: household exclusion, sickbed and mourning allegations, Zhang Qian's investigation, and Liu Bo's obstruction turn private royal conduct into deposition and territorial reorganization; the mechanism explains the last Western Han Changshan outcome without validating supernatural or title-wide causation. No settled contradiction was adopted. Transcript forms 刘顺、刘伯、刘卓、王后须 were normalized to 刘舜、刘勃、刘棁、王后脩; testimony, motive, general mourning terms and penalties, the pregnancy-and-childbirth sanction, Qing abortion or adoption practice, and complete legal procedure remain source-scoped. Downstream synthesis rebuilt `history-and-geopolitics`, compacted the global artifact after a material candidate change, and validated 3,786 sources across 795 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

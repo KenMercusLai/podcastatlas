@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [historiography, narrative, pattern-making, causality, royal-titles]
 sources:
   - zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv
+last_updated: 2026-10-06
 ---
 
 ## Definition
@@ -18,6 +19,8 @@ last_updated: 2026-10-05
 
 The pattern works by normalizing heterogeneous outcomes into “no good ending.” It can absorb an apparent counterexample by changing the time horizon: Liu Shun's thirty-two peaceful years weaken the immediate curse claim, so destruction of [[GaozhuangHanTomb|his attributed tomb]] becomes a posthumous confirmation. This makes the narrative effective as suspense and memory aid while requiring explicit separation from institutional, political, biological, and archaeological explanation.
 
+[[zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv|Hanji 342-2]] supplies precisely the kind of mechanism that curse framing compresses. [[LiuBoChangshanKingWesternHan|刘勃]]'s removal follows a divided household, [[LiuZhuoChangshanWesternHan|刘棁]]'s inheritance grievance, mourning allegations, witness concealment, violence against officials, and central investigation. A causally specified political case can therefore remain memorable as another bad outcome under the title without being caused by the title.
+
 ## Key Claims
 
 - A shared title can organize historical memory without causing the events grouped beneath it.
@@ -25,6 +28,7 @@ The pattern works by normalizing heterogeneous outcomes into “no good ending.�
 - Selection of striking cases and omission of uneventful holders can make a title pattern appear stronger than the underlying record.
 - Extending the time horizon beyond death allows a long and comparatively safe reign to be reframed as eventual misfortune.
 - Curse language is useful as a narrative signal only when it is not mistaken for a causal historical conclusion.
+- Later evidence can replace a vague bad-outcome entry with a specific household, legal, and institutional mechanism.
 
 ## Evidence
 
@@ -36,15 +40,16 @@ Counterexample absorption:
 
 Causal boundary:
 - [[zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1|Hanji 342-1]] itself presents “curse” through suspense and inference rather than a mechanism connecting the individual events.
+- [[zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv|Hanji 342-2]] replaces Liu Bo's previously unexplained deposition with household conflict, mourning conduct, investigation, and obstruction.
 
 ## Counterevidence & Qualifications
 
-Pattern recognition is not inherently invalid: a repeated title may point toward common institutional pressures, succession rules, central-vassal conflict, or vulnerable burial landscapes. The supplied episode, however, does not test those mechanisms, establish its thirty-two-holder denominator, compare Changshan with other royal titles, or define what counts as an unusually bad outcome. This concept therefore describes the episode's narrative operation; it does not show that every use of ominous-title language is false or that the underlying cases lack structural connections.
+Pattern recognition is not inherently invalid: a repeated title may point toward common institutional pressures, succession rules, central-vassal conflict, or vulnerable burial landscapes. The supplied episodes do not establish the claimed thirty-two-holder denominator, compare Changshan with other royal titles, or define what counts as an unusually bad outcome. Hanji 342-2 strengthens causal understanding of one case but does not create a shared mechanism for all holders.
 
 ## What Changed
 
-- Established the concept from the Changshan sequence while separating mnemonic pattern from causal explanation.
-- Added Liu Shun's long reign as a counterexample absorbed through posthumous reframing.
+- Replaced Liu Bo's vague deposition endpoint with a specific household, mourning, and investigation mechanism.
+- Preserved the distinction between explaining one case and proving a title-wide pattern.
 
 ## Related Concepts
 
@@ -53,3 +58,4 @@ Pattern recognition is not inherently invalid: a repeated title may point toward
 - [[GaozhuangHanTomb]] - archaeological site used as posthumous confirmation in the story.
 - [[ArchaeologicalInterpretationUnderSparseEvidence]] - evidentiary discipline that keeps tomb condition separate from supernatural or personal causation.
 - [[NarrativeMisdirection]] - adjacent technique in which story organization shapes what the audience expects to be causally central.
+- [[MourningConductLegalization]] - institutional mechanism contributing to Liu Bo's removal without validating title causation.

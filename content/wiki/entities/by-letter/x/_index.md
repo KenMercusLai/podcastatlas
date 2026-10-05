@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 12456
+wiki_total_pages: 12459
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"

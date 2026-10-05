@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 12456
+wiki_total_pages: 12459
 wiki_pages:
   - key: "QForQuinn"
     title: "Q for Quinn"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "QianweiCommanderyLateHan"
     title: "犍为郡 / Qianwei Commandery (late Han)"
     url: "/wiki/entities/qianweicommanderylatehan/"
+  - key: "QueenXiuChangshanWesternHan"
+    title: "王后脩 / Queen Xiu of Changshan (Western Han)"
+    url: "/wiki/entities/queenxiuchangshanwesternhan/"
   - key: "QinWangWan"
     title: "王绾 / Wang Wan (Qin)"
     url: "/wiki/entities/qinwangwan/"
