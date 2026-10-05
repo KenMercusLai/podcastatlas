@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》](sources/zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn.md) — 司马相如遗稿以传说先例、祥瑞和颂德推动封禅议程；经书无成法、方士求仙说、兒宽归权天子与儒生受黜共同显示礼制重建也是权威竞争。
 - [《资治通鉴·汉纪》360-1｜司马迁“太史公”称号竟由此而来？](sources/zizhi-tongjian-hanji-360-1-simaqian-taishigong-chenghao-jing-you-ci-er-lai-lq6ulwhl_jscf6ipkjxev6zvwbrf.md) — 从太史的史学—天文职能解释“太史公”，并把司马迁对黄帝的历史化、儒家化叙事放入汉代帝王合法性问题，同时保留官职类比和作者意图的证据边界。
+- [《资治通鉴·汉纪》360-2｜汉武帝的疯狂求仙（受骗）路！](sources/zizhi-tongjian-hanji-360-2-hanwudi-de-fengkuang-qiuxian-shoupian-lu-fu4ht-tl4fyr8dsx9sakdcmm-orc.md) — 司马迁的德与人心被节目同汉武帝的天命和神化对置；公孙卿再以衣冠冢解释黄帝升仙后仍有陵墓，使汉武帝把同一结局投射到自己身上。
 - [《资治通鉴·汉纪》359-1｜“愿得一心人，白头不相离”竟是写给渣男的？](sources/zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq.md) — 延续司马相如与卓文君的贫困、当垆卖酒、父亲让步和婚姻危机叙事，并把《白头吟》的忠贞边界与“以退为进”解读保留为来源限定的文学接受。
 - [《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇](sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz.md) — 杨得意把司马相如的辞赋才华带入汉武帝视野，王吉再以公开造势促成卓王孙设宴；《凤求凰》、私奔与后续背叛则保留为带有操纵张力的来源限定叙事。
 - [《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事](sources/zizhi-tongjian-hanji-361-1-hanwudi-liuche-mixin-guishen-de-gushi-lpgclrt_xauneyhm0ri9bi-uenje.md) — 汉武帝把异声、足迹与消失老人等含混神异报告转化为祭祀奉邑、蓬莱海搜和增派人员，并以封坛秘文及霍子侯独陪登山完成泰山秘密祭天。
