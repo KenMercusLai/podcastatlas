@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 9701
+wiki_total_pages: 9704
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "KnowledgeCommunityCreatorIncentives"
     title: "Knowledge Community Creator Incentives / 知识社区创作者激励"
     url: "/wiki/concepts/knowledgecommunitycreatorincentives/"
+  - key: "KnowledgeExternalizationTradeoff"
+    title: "Knowledge Externalization Tradeoff / 知识外化权衡"
+    url: "/wiki/concepts/knowledgeexternalizationtradeoff/"
   - key: "KnowledgeMonopoly"
     title: "Knowledge Monopoly"
     url: "/wiki/concepts/knowledgemonopoly/"

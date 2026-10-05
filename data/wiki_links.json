@@ -2255,6 +2255,10 @@
     "title": "368. The History Behind Hogwarts: Ancient Schools and Revolting Students",
     "url": "/wiki/sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013/"
   },
+  "368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe": {
+    "title": "368-为什么每一个时代的文化精英都认为文化要完了？",
+    "url": "/wiki/sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe/"
+  },
   "369-the-colosseum-romes-arena-of-death-glt7808118779": {
     "title": "369. The Colosseum: Rome's Arena of Death",
     "url": "/wiki/sources/369-the-colosseum-romes-arena-of-death-glt7808118779/"
@@ -21602,6 +21606,10 @@
   "CulturalBiasInTesting": {
     "title": "Cultural Bias In Testing / 测试中的文化偏差",
     "url": "/wiki/concepts/culturalbiasintesting/"
+  },
+  "CulturalDeclineAnxiety": {
+    "title": "Cultural Decline Anxiety / 文化衰亡焦虑",
+    "url": "/wiki/concepts/culturaldeclineanxiety/"
   },
   "CulturalGapStatusSignaling": {
     "title": "Cultural Gap Status Signaling / 文化隔阂式地位信号",
@@ -41263,6 +41271,10 @@
     "title": "历史语言研究所 / 史语所",
     "url": "/wiki/entities/instituteofhistoryandphilology/"
   },
+  "InstitutionShapedCharacter": {
+    "title": "Institution-Shaped Character / 制度塑造人格",
+    "url": "/wiki/concepts/institutionshapedcharacter/"
+  },
   "InstitutionalExitEscalation": {
     "title": "制度性退场升级 / Institutional Exit Escalation",
     "url": "/wiki/concepts/institutionalexitescalation/"
@@ -46070,6 +46082,10 @@
   "KnowledgeCommunityCreatorIncentives": {
     "title": "Knowledge Community Creator Incentives / 知识社区创作者激励",
     "url": "/wiki/concepts/knowledgecommunitycreatorincentives/"
+  },
+  "KnowledgeExternalizationTradeoff": {
+    "title": "Knowledge Externalization Tradeoff / 知识外化权衡",
+    "url": "/wiki/concepts/knowledgeexternalizationtradeoff/"
   },
   "KnowledgeMonopoly": {
     "title": "Knowledge Monopoly",

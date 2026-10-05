@@ -49501,6 +49501,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/cultivatedimperialcapacity/"
     },
+    "CulturalDeclineAnxiety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llloRcsr7zOZfRUHhDF766iqMNpe [llloRcsr7zOZfRUHhDF766iqMNpe].md",
+          "key": "368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe",
+          "show": "独树不成林",
+          "title": "368-为什么每一个时代的文化精英都认为文化要完了？",
+          "url": "/wiki/sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/culturaldeclineanxiety/"
+    },
     "CulturalGapStatusSignaling": {
       "episode_count": 1,
       "show_count": 1,
@@ -60936,9 +60952,9 @@
       "url": "/wiki/entities/durringtonwalls/"
     },
     "DushuBuchenglin": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -60974,6 +60990,13 @@
           "show": "独树不成林",
           "title": "323-AI是否可以取代翻译？错误的翻译如何塑造现实？",
           "url": "/wiki/sources/323-ai-shifou-keyi-qudai-fanyi-cuowu-de-fanyi-ruhe-suzao-xianshi-luw-q1sjef4uttao4ghe1yx7rkyf/"
+        },
+        {
+          "episode_file": "llloRcsr7zOZfRUHhDF766iqMNpe [llloRcsr7zOZfRUHhDF766iqMNpe].md",
+          "key": "368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe",
+          "show": "独树不成林",
+          "title": "368-为什么每一个时代的文化精英都认为文化要完了？",
+          "url": "/wiki/sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe/"
         }
       ],
       "updated": "2026-10-05",
@@ -110199,6 +110222,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/instinctpersonalai/"
     },
+    "InstitutionShapedCharacter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llloRcsr7zOZfRUHhDF766iqMNpe [llloRcsr7zOZfRUHhDF766iqMNpe].md",
+          "key": "368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe",
+          "show": "独树不成林",
+          "title": "368-为什么每一个时代的文化精英都认为文化要完了？",
+          "url": "/wiki/sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/institutionshapedcharacter/"
+    },
     "InstitutionalExitEscalation": {
       "episode_count": 1,
       "show_count": 1,
@@ -115310,9 +115349,9 @@
       "url": "/wiki/entities/jeanfrancoischampollion/"
     },
     "JeanJacquesRousseau": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -115348,6 +115387,13 @@
           "show": "The Rest Is History",
           "title": "86. The Enlightenment",
           "url": "/wiki/sources/86-the-enlightenment-glt8077157127/"
+        },
+        {
+          "episode_file": "llloRcsr7zOZfRUHhDF766iqMNpe [llloRcsr7zOZfRUHhDF766iqMNpe].md",
+          "key": "368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe",
+          "show": "独树不成林",
+          "title": "368-为什么每一个时代的文化精英都认为文化要完了？",
+          "url": "/wiki/sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe/"
         }
       ],
       "updated": "2026-10-03",
@@ -119260,6 +119306,29 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/jonathankeats/"
     },
+    "JonathanSwift": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "51.厌世？反人类？童话故事？…格列佛游记可深了去了 [632315320].md",
+          "key": "51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320",
+          "show": "蜜獾吃书",
+          "title": "51.厌世？反人类？童话故事？…格列佛游记可深了去了",
+          "url": "/wiki/sources/51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320/"
+        },
+        {
+          "episode_file": "llloRcsr7zOZfRUHhDF766iqMNpe [llloRcsr7zOZfRUHhDF766iqMNpe].md",
+          "key": "368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe",
+          "show": "独树不成林",
+          "title": "368-为什么每一个时代的文化精英都认为文化要完了？",
+          "url": "/wiki/sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/jonathanswift/"
+    },
     "JonathanWilsonFootballWriter": {
       "episode_count": 1,
       "show_count": 1,
@@ -122556,6 +122625,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/knowingenough/"
+    },
+    "KnowledgeExternalizationTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llloRcsr7zOZfRUHhDF766iqMNpe [llloRcsr7zOZfRUHhDF766iqMNpe].md",
+          "key": "368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe",
+          "show": "独树不成林",
+          "title": "368-为什么每一个时代的文化精英都认为文化要完了？",
+          "url": "/wiki/sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/knowledgeexternalizationtradeoff/"
     },
     "KnownMisconductNonPunishment": {
       "episode_count": 1,
@@ -169403,9 +169488,9 @@
       "url": "/wiki/concepts/platformselfoperatedqualityupgrade/"
     },
     "Plato": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
@@ -169434,6 +169519,13 @@
           "show": "The Rest Is History",
           "title": "314: Atlantis: The Legend (Part 1)",
           "url": "/wiki/sources/314-atlantis-the-legend-part-1-glt4735672898/"
+        },
+        {
+          "episode_file": "llloRcsr7zOZfRUHhDF766iqMNpe [llloRcsr7zOZfRUHhDF766iqMNpe].md",
+          "key": "368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe",
+          "show": "独树不成林",
+          "title": "368-为什么每一个时代的文化精英都认为文化要完了？",
+          "url": "/wiki/sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe/"
         }
       ],
       "updated": "2026-09-05",

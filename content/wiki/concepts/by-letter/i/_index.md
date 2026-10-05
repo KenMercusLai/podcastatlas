@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9701
+wiki_total_pages: 9704
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "InstantRetail"
     title: "Instant Retail"
     url: "/wiki/concepts/instantretail/"
+  - key: "InstitutionShapedCharacter"
+    title: "Institution-Shaped Character / 制度塑造人格"
+    url: "/wiki/concepts/institutionshapedcharacter/"
   - key: "InstitutionalFailurePunitiveFantasy"
     title: "Institutional Failure and Punitive Fantasy"
     url: "/wiki/concepts/institutionalfailurepunitivefantasy/"

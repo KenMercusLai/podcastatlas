@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9701
+wiki_total_pages: 9704
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2831,6 +2831,9 @@ wiki_pages:
   - key: "CulturalBiasInTesting"
     title: "Cultural Bias In Testing / 测试中的文化偏差"
     url: "/wiki/concepts/culturalbiasintesting/"
+  - key: "CulturalDeclineAnxiety"
+    title: "Cultural Decline Anxiety / 文化衰亡焦虑"
+    url: "/wiki/concepts/culturaldeclineanxiety/"
   - key: "CulturalGapStatusSignaling"
     title: "Cultural Gap Status Signaling / 文化隔阂式地位信号"
     url: "/wiki/concepts/culturalgapstatussignaling/"

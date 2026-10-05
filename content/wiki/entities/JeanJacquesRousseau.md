@@ -8,6 +8,7 @@ sources:
   - 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516
   - 545-the-french-revolution-the-first-feminist-part-2-glt4335903757
   - 86-the-enlightenment-glt8077157127
+  - 368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe
 last_updated: 2026-10-03
 knowledge_schema: synthesis-v1
 ---
@@ -16,13 +17,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Jean-Jacques Rousseau was an Enlightenment thinker and critic of civilization whose ideas appear through human nature, education, workplace satire, algorithmic-media criticism, revolutionary virtue, and gendered republican citizenship.
+Jean-Jacques Rousseau was an Enlightenment thinker and critic of civilization whose ideas appear through human nature, education, workplace satire, algorithmic-media criticism, cultural pessimism, revolutionary virtue, and gendered republican citizenship.
 
 ## Current Profile
 
 Across the sources Rousseau is both an Enlightenment insider and an internal dissenter. The new survey connects his account of natural goodness and civilizational corruption to older Augustine-Pelagius disputes, while his movement between Calvinism and Catholicism illustrates fluid eighteenth-century religious identity. It also preserves the gap between humane theory and conduct through hostile judgments by Diderot, Hume, Burke, and the hosts.
 
 Other sources make his vocabulary portable. Workplace satire turns his conflict with Voltaire into competition over credit; an algorithm episode uses active reason to question recommendation dependence; French Revolution sources connect sincerity and hidden-interest suspicion to [[RevolutionaryVirtuePolitics]] and his domestic division of the sexes to women's exclusion from public citizenship.
+
+The cultural-decline episode sharpens Rousseau's role as a critic of progress. Escaping natural scarcity does not end dependence when opinion, comparison, competition, and recognition become new masters. Knowledge, institutions, and material conditions can improve while persons become less free or whole; this is preserved as a characteristic Rousseauian problem, not a demonstrated verdict on modernity.
 
 ## Key Characteristics
 
@@ -31,6 +34,7 @@ Other sources make his vocabulary portable. Workplace satire turns his conflict 
 - Religiously mobile figure used to complicate a secular-versus-religious period story.
 - Source of sincerity, virtue, and domestic gender arguments with later revolutionary uses.
 - Personally contentious figure whose conduct qualifies easy identification of humane doctrine with humane character.
+- Source for a progress-tradeoff critique in which material and institutional gains can coexist with new social dependence.
 
 ## Evidence
 
@@ -42,6 +46,7 @@ Other sources make his vocabulary portable. Workplace satire turns his conflict 
 
 - [[92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]] stages Rousseau and Voltaire as sales rivals.
 - [[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] places him in an Enlightenment frame for recommendation dependence and externally computed relevance.
+- [[368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe]] uses opinion, comparison, competition, and recognition to frame modern progress as compatible with reduced independence.
 
 ### Revolutionary and gendered afterlives
 
@@ -54,12 +59,13 @@ Other sources make his vocabulary portable. Workplace satire turns his conflict 
 - The algorithm and workplace sources are analogical or satirical rather than doctrinal reconstructions.
 - Revolutionary influence does not prove that Rousseau alone caused virtue politics or women's exclusion.
 - Personal judgments and causal links to the French Revolution or child-separation schemes remain compressed and source-scoped.
+- The new episode's progress-tradeoff account is a comparative interpretation, not empirical proof that modern people are less free or complete.
 
 ## What Changed
 
-- Added Rousseau as an internal Enlightenment critic of civilization and theorist of natural goodness.
-- Added religious mobility and the qualification separating humane theory from personal conduct.
-- Integrated those claims with existing algorithmic, revolutionary, and gender afterlives.
+- Added social opinion, comparison, competition, and recognition as mechanisms of modern dependence.
+- Integrated Rousseau's civilization critique with the broader [[CulturalDeclineAnxiety]] framework.
+- Preserved the existing religious, algorithmic, revolutionary, gender, and personal-conduct qualifications.
 
 ## Relationships
 
@@ -69,3 +75,5 @@ Other sources make his vocabulary portable. Workplace satire turns his conflict 
 - [[AlgorithmicReasonOutsourcing]] - modern judgment problem framed through active reason.
 - [[RevolutionaryVirtuePolitics]] - political moralism connected to sincerity and concealed interests.
 - [[GenderedRepublicanCitizenship]] - public-domestic division associated with Rousseauian roles.
+- [[CulturalDeclineAnxiety]] - comparative framework in which Rousseau's progress critique is one influential modern form.
+- [[KnowledgeExternalizationTradeoff]] - adjacent distinction between technical gain and retained human capacity.

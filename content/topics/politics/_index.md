@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3105
+topic_total_pages: 3106
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2050,6 +2050,9 @@ topic_concepts:
   - key: "InnovativeDrugCommercialInsuranceCatalog"
     title: "Innovative Drug Commercial Insurance Catalog"
     url: "/wiki/concepts/innovativedrugcommercialinsurancecatalog/"
+  - key: "InstitutionShapedCharacter"
+    title: "Institution-Shaped Character / 制度塑造人格"
+    url: "/wiki/concepts/institutionshapedcharacter/"
   - key: "ElectoralViolenceInstitutionalDecline"
     title: "Institutional Decline of Electoral Violence"
     url: "/wiki/concepts/electoralviolenceinstitutionaldecline/"

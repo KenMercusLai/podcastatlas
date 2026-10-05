@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [368-为什么每一个时代的文化精英都认为文化要完了？](sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe.md) — 独树不成林以柏拉图、罗马道德批评及近现代思想家比较文化衰亡焦虑，区分具体损失、制度机制、进步权衡与整体崩坏判断。
 - [《资治通鉴·汉纪》357-2｜唉，一片真心不如钱重要](sources/zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu.md) — 西域对匈奴与汉使的不同待遇暴露距离、投送力与使团治理的共同约束；卜式则因批评盐铁、均输平准扰民而被移出御史大夫之位。
 - [《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？](sources/zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm.md) — 汉武帝以五项过失压住灭南越后自矜的杨仆，却在其表态效死赎罪后继续派征东越，显示功劳不自动免责、问责也不必废弃能力。
 - [《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌](sources/zizhi-tongjian-hanji-357-1-zhangqian-sihou-xihan-waijiao-luanxiang-lingren-zhazhe-lrjdmvyvoswgfduajch9om9r-b6b.md) — 张骞的声望为早期西域交往提供信用，但使团扩张快于选人、监督、补给与安保，最终把外交开放推向信誉崩塌、通道袭扰和军事—郡县化回应。
@@ -11032,7 +11033,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hawaii / 夏威夷](entities/Hawaii.md) — Indigenous kingdom, plantation-labor and remittance node shaped by monarchy, foreign pressure, migration, and U.S. expansion.
 - [Yokohama Specie Bank / 横滨正金银行](entities/YokohamaSpecieBank.md) — Semi-official Japanese bank that made overseas labor remittances legible through consulate-adjacent banking and foreign-exchange infrastructure.
 - [Dillingham Commission](entities/DillinghamCommission.md) — U.S. immigration investigation used by episode 168 to show how remittances became racialized as wealth drain and loyalty threat.
-- [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Political-philosophy podcast connecting algorithms, Machiavelli, communication, embodiment, AI translation, and conceptual history.
+- [独树不成林 / Dushu Buchenglin](entities/DushuBuchenglin.md) — Political-philosophy podcast connecting algorithms, Machiavelli, communication, embodiment, AI translation, intellectual history, and cultural criticism.
 - [投资ABC / Investment ABC](entities/InvestmentABC.md) — Podcast crossover partner in episode 166, used to translate institutional investing into ordinary-investor education.
 - [Amy / 投资ABC](entities/AmyInvestmentABC.md) — 投资ABC speaker keeping episode 166 anchored in ordinary-investor questions about goals, costs, emotions, and asset allocation.
 - [陈博士 / 投资ABC](entities/ChenDoctorInvestmentABC.md) — 投资ABC speaker explaining short-term market-counterparty logic, institutional data teams, and cost/behavior effects in episode 166.
@@ -16281,6 +16282,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [Cultural Decline Anxiety / 文化衰亡焦虑](concepts/CulturalDeclineAnxiety.md) — Recurring move from a specific threatened practice or capacity to a total civilizational-collapse judgment, qualified by criticism's memory-preserving role.
+- [Knowledge Externalization Tradeoff / 知识外化权衡](concepts/KnowledgeExternalizationTradeoff.md) — Tension between expanded storage, access, and retrieval and retained human practice of memory, explanation, and judgment.
+- [Institution-Shaped Character / 制度塑造人格](concepts/InstitutionShapedCharacter.md) — Mechanism by which incentives, sanctions, and survival pressure reward and select public habits rather than merely revealing private virtue.
 - [使团治理失控与外交信用崩塌 / Envoy Governance Credibility Collapse](concepts/EnvoyGovernanceCredibilityCollapse.md) — 使团扩张快于筛选、激励、问责、补给与安保时，继承的外交信用会转化为东道负担、逐利行为与抵抗。
 - [Taishi Historical-Astronomical Office / 太史的史学—天文职能](concepts/TaishiHistoricalAstronomicalOffice.md) — 太史兼具国家记录、历史整理与天文知识的来源限定职能模型，并区分文化声望、正式品级和现代官职类比。
 - [Mythic Ancestor Historical Legitimation / 神话祖先的历史化正统建构](concepts/MythicAncestorHistoricalLegitimation.md) — 通过材料选择与叙事重塑把神话祖先转化为人间明君，使祖先谱系为王朝合法性与统治规范提供历史语言。

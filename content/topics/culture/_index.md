@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3147
+topic_total_pages: 3150
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -937,6 +937,9 @@ topic_concepts:
   - key: "CulturalBiasInTesting"
     title: "Cultural Bias In Testing / 测试中的文化偏差"
     url: "/wiki/concepts/culturalbiasintesting/"
+  - key: "CulturalDeclineAnxiety"
+    title: "Cultural Decline Anxiety / 文化衰亡焦虑"
+    url: "/wiki/concepts/culturaldeclineanxiety/"
   - key: "CulturalGapStatusSignaling"
     title: "Cultural Gap Status Signaling / 文化隔阂式地位信号"
     url: "/wiki/concepts/culturalgapstatussignaling/"
@@ -1729,6 +1732,9 @@ topic_concepts:
   - key: "KitschAsWasteDenial"
     title: "Kitsch As Waste Denial / 媚俗作为排泄否认"
     url: "/wiki/concepts/kitschaswastedenial/"
+  - key: "KnowledgeExternalizationTradeoff"
+    title: "Knowledge Externalization Tradeoff / 知识外化权衡"
+    url: "/wiki/concepts/knowledgeexternalizationtradeoff/"
   - key: "KnowledgeMonopoly"
     title: "Knowledge Monopoly"
     url: "/wiki/concepts/knowledgemonopoly/"
@@ -8634,6 +8640,9 @@ topic_sources:
   - key: "367-the-real-harry-potter-magic-empire-and-beastly-bullies-glt3711207657"
     title: "367. The Real Harry Potter: Magic, Empire and Beastly Bullies"
     url: "/wiki/sources/367-the-real-harry-potter-magic-empire-and-beastly-bullies-glt3711207657/"
+  - key: "368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe"
+    title: "368-为什么每一个时代的文化精英都认为文化要完了？"
+    url: "/wiki/sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe/"
   - key: "368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013"
     title: "368. The History Behind Hogwarts: Ancient Schools and Revolting Students"
     url: "/wiki/sources/368-the-history-behind-hogwarts-ancient-schools-and-revolting-students-glt6783238013/"

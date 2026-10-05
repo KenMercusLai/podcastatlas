@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3312
+topic_total_pages: 3313
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2758,6 +2758,9 @@ topic_concepts:
   - key: "KimiDeltaAttention"
     title: "Kimi Delta Attention / KDA"
     url: "/wiki/concepts/kimideltaattention/"
+  - key: "KnowledgeExternalizationTradeoff"
+    title: "Knowledge Externalization Tradeoff / 知识外化权衡"
+    url: "/wiki/concepts/knowledgeexternalizationtradeoff/"
   - key: "KnowledgeWorkFragmentation"
     title: "Knowledge Work Fragmentation"
     url: "/wiki/concepts/knowledgeworkfragmentation/"

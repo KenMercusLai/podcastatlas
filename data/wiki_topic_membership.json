@@ -3939,6 +3939,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "369-the-colosseum-romes-arena-of-death-glt7808118779": [
     {
       "key": "history",
@@ -25669,6 +25676,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CulturalDeclineAnxiety": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "CulturalGapStatusSignaling": [
     {
       "key": "culture",
@@ -44975,6 +44989,13 @@
       "url": "/topics/history/"
     }
   ],
+  "InstitutionShapedCharacter": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "InstitutionalFailurePunitiveFantasy": [
     {
       "key": "culture",
@@ -49296,6 +49317,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "KnowledgeExternalizationTradeoff": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "KnowledgeMonopoly": [
