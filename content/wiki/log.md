@@ -30517,3 +30517,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-06] ingest | Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈
+
+Added source `8226494223-026583`; created [[BubAgent|Bub]], [[FrostMing|Frost 明 / 明熙]], [[ZhuoranBub|卓然]], and [[GroupChatAgentParticipation|群聊 Agent 参与机制]]; and resynthesized [[AgentTapeSystem]] and [[BushezheShuo|捕蛇者说]] from their complete preserved evidence inventories. Core synthesis: a long-running group-chat agent needs selective social attention and persistent but bounded context together—mention-triggered activity windows, participant identity, and designed silence limit cost and interruption, while tape, anchors, handoffs, and selective retrieval retain original event history without loading all of it at once. No settled contradiction was adopted. Bub's implementation and benefits, model-size and chip-throughput claims, training forecasts, and the “Bubify” direction remain source-scoped; Frost 明 / 明熙 and Cloud Code naming ambiguities are preserved. The automatic `wiki/overview.md` was updated during canonical ingest and only read by the downstream refresh. The planner found no dirty topic, global compaction was not due, and the refreshed manifest and paragraph ledger validate 3,815 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

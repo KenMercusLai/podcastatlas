@@ -3719,6 +3719,10 @@
     "title": "82.闲聊伟大作家的八卦（第二弹）",
     "url": "/wiki/sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589/"
   },
+  "8226494223-026583": {
+    "title": "Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈",
+    "url": "/wiki/sources/8226494223-026583/"
+  },
   "83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861": {
     "title": "83.梳毛、八卦及语言的进化：人际关系“邓巴数”，咱不服不行",
     "url": "/wiki/sources/83-shumao-bagua-ji-yuyan-de-jinhua-renji-guanxi-dengbashu-zan-bu-fu-bu-xing-698132861/"
@@ -13942,6 +13946,10 @@
   "BuYangLateHan": {
     "title": "卜阳 / Bu Yang (late Han)",
     "url": "/wiki/entities/buyanglatehan/"
+  },
+  "BubAgent": {
+    "title": "Bub",
+    "url": "/wiki/entities/bubagent/"
   },
   "BubbleFinancingStructure": {
     "title": "Bubble Financing Structure",
@@ -32487,6 +32495,10 @@
     "title": "Frontline AI Enablement",
     "url": "/wiki/concepts/frontlineaienablement/"
   },
+  "FrostMing": {
+    "title": "Frost 明 / 明熙",
+    "url": "/wiki/entities/frostming/"
+  },
   "FrostSullivan": {
     "title": "Frost & Sullivan / 弗若斯特沙利文",
     "url": "/wiki/entities/frostsullivan/"
@@ -35486,6 +35498,10 @@
   "GroupBoundaryLanguage": {
     "title": "Group-Boundary Language / 群体边界语言",
     "url": "/wiki/concepts/groupboundarylanguage/"
+  },
+  "GroupChatAgentParticipation": {
+    "title": "Group-Chat Agent Participation / 群聊 Agent 参与机制",
+    "url": "/wiki/concepts/groupchatagentparticipation/"
   },
   "GroupPolarization": {
     "title": "Group Polarization / 群体极化",
@@ -92514,6 +92530,10 @@
   "ZhuoWenjun": {
     "title": "卓文君 / Zhuo Wenjun",
     "url": "/wiki/entities/zhuowenjun/"
+  },
+  "ZhuoranBub": {
+    "title": "卓然（Bub 开发者）",
+    "url": "/wiki/entities/zhuoranbub/"
   },
   "ZhuozeBattle": {
     "title": "浊泽之战 / Battle of Zhuoze",

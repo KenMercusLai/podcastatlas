@@ -8067,9 +8067,9 @@
       "url": "/wiki/concepts/agentspendcontrols/"
     },
     "AgentTapeSystem": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lo0PFirL4KhC0JzJ57KgBX7Wsq49 [lo0PFirL4KhC0JzJ57KgBX7Wsq49].md",
@@ -8077,9 +8077,16 @@
           "show": "为 AI 发电",
           "title": "VOL.002｜DeepChat：为什么要做一块开源 AI 试验田？",
           "url": "/wiki/sources/lo0pfirl4khc0jzj57kgbx7wsq49/"
+        },
+        {
+          "episode_file": "8226494223_026583 [8226494223_026583].md",
+          "key": "8226494223-026583",
+          "show": "捕蛇者说",
+          "title": "Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈",
+          "url": "/wiki/sources/8226494223-026583/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/agenttapesystem/"
     },
     "AgentTrustCalibration": {
@@ -28803,6 +28810,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/buyanglatehan/"
     },
+    "BubAgent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8226494223_026583 [8226494223_026583].md",
+          "key": "8226494223-026583",
+          "show": "捕蛇者说",
+          "title": "Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈",
+          "url": "/wiki/sources/8226494223-026583/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/bubagent/"
+    },
     "BubblesChimpanzee": {
       "episode_count": 1,
       "show_count": 1,
@@ -29229,9 +29252,9 @@
       "url": "/wiki/entities/burningglassinstitute/"
     },
     "BushezheShuo": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "8218230840_466252 [8218230840_466252].md",
@@ -29239,9 +29262,16 @@
           "show": "捕蛇者说",
           "title": "Ep 59. 2026 Agent 编程新趋势",
           "url": "/wiki/sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252/"
+        },
+        {
+          "episode_file": "8226494223_026583 [8226494223_026583].md",
+          "key": "8226494223-026583",
+          "show": "捕蛇者说",
+          "title": "Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈",
+          "url": "/wiki/sources/8226494223-026583/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/bushezheshuo/"
     },
     "BushidoInventedTradition": {
@@ -84202,6 +84232,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/frontierviolencespectacle/"
     },
+    "FrostMing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8226494223_026583 [8226494223_026583].md",
+          "key": "8226494223-026583",
+          "show": "捕蛇者说",
+          "title": "Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈",
+          "url": "/wiki/sources/8226494223-026583/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/frostming/"
+    },
     "FrostSullivan": {
       "episode_count": 1,
       "show_count": 1,
@@ -93039,6 +93085,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/groupboundarylanguage/"
+    },
+    "GroupChatAgentParticipation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8226494223_026583 [8226494223_026583].md",
+          "key": "8226494223-026583",
+          "show": "捕蛇者说",
+          "title": "Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈",
+          "url": "/wiki/sources/8226494223-026583/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/groupchatagentparticipation/"
     },
     "GrowthHormoneBehavioralRegulation": {
       "episode_count": 4,
@@ -251701,6 +251763,22 @@
       ],
       "updated": "2026-10-05",
       "url": "/wiki/entities/zhuowenjun/"
+    },
+    "ZhuoranBub": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8226494223_026583 [8226494223_026583].md",
+          "key": "8226494223-026583",
+          "show": "捕蛇者说",
+          "title": "Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈",
+          "url": "/wiki/sources/8226494223-026583/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/zhuoranbub/"
     },
     "ZhuyaCommandery": {
       "episode_count": 3,

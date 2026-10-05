@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈](sources/8226494223-026583.md) — 捕蛇者说访谈 Bub 开发者，讨论群聊 Agent 的选择性参与、tape/anchor/handoff 上下文架构、skills、自我扩展、成本、权限与验证边界。
 - [《资治通鉴·汉纪》334-2｜为什么老板更喜欢做表面文章的人？](sources/zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf.md) — 从甘泉宫道路失修与义纵后续获罪讨论可见工作如何被领导解释为态度和尊重信号；历史因果、手机类比及“表扬可能是提醒”均保留来源边界。
 - [《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”](sources/zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w.md) — 汉武帝把甘泉宫道路失修解释为义纵不重视自己；节目由此讨论执行疏忽如何在权力关系中被赋予态度意义，同时保留敌人设局等说法为推测。
 - [《资治通鉴·汉纪》332-2｜大汉丞相李蔡之死，究竟有没有黑幕](sources/zizhi-tongjian-hanji-332-2-dahan-chengxiang-licai-zhisi-jiujing-youmeiyou-heimu-loyre4ghvm3zcp-jxez9k26du8oj.md) — 关东大水引出灾异政治中的丞相担责惯例；李蔡则因侵占并出售御赐墓地旁土地被免职下狱、自杀，所谓更深“黑幕”仍无来源证据。
@@ -15986,6 +15987,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 - [Anti-Gravity](entities/AntiGravity.md) — Source-scoped AI coding tool grouped with Codex and Cursor as an agent-first editor pattern.
 - [捕蛇者说 / Bushezhe Shuo](entities/BushezheShuo.md) — Podcast/show context for the 2026 agent coding workflow discussion.
+- [Bub](entities/BubAgent.md) — Coding-agent project adapted into a persistent, selectively participating group-chat agent with tape-based context.
+- [Frost 明 / 明熙](entities/FrostMing.md) — PDM author and Bub developer discussing self-built I/O, reusable skills, and token-cost tradeoffs.
+- [卓然（Bub 开发者）](entities/ZhuoranBub.md) — Bub developer explaining tape, anchors, handoffs, retrieval, and channel abstraction.
 - [Graft](entities/Graft.md) — Source-scoped team-context entity cited for the view that IM surfaces naturally accumulate agent context.
 - [Juice Coding Agent](entities/JuiceCodingAgent.md) — Proactive coding agent that scans repositories, emails suggestions, and can create PRs after confirmation.
 - [Light9M](entities/Light9M.md) — 捕蛇者说 host discussing AI coding tool trends and Google coding-agent practice.
@@ -17165,6 +17169,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Memory Lifecycle](concepts/AIMemoryLifecycle.md) — Continuing ingestion, retrieval, compression, association, updating, and forgetting needed to keep long-lived context useful.
 - [Personal-Enterprise Memory Ownership](concepts/PersonalEnterpriseMemoryOwnership.md) — Governance boundary for AI-extracted skills combining prior personal experience with workplace learning and company context.
 - [Agent Tape System](concepts/AgentTapeSystem.md) — Append-only agent event record paired with a movable working view, selective context, and inspectable traces.
+- [Group-Chat Agent Participation / 群聊 Agent 参与机制](concepts/GroupChatAgentParticipation.md) — Activation, attention-window, identity, silence, cost, and privacy design for agents in multi-person messaging streams.
 - [Agent Client Protocol](concepts/AgentClientProtocol.md) — Emerging interoperability boundary for connecting external agents and harnesses to a shared client.
 - [Open-Source AI Testbed](concepts/OpenSourceAITestbed.md) — Runnable open project that turns fast-moving AI methods into inspectable, adaptable engineering implementations.
 - [AI-Generated Pull Request Burden](concepts/AIGeneratedPullRequestBurden.md) — Review and lifecycle cost imposed when agent-generated contributions outpace contributor understanding and maintainer capacity.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9744
+wiki_total_pages: 9745
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "GroupBoundaryLanguage"
     title: "Group-Boundary Language / 群体边界语言"
     url: "/wiki/concepts/groupboundarylanguage/"
+  - key: "GroupChatAgentParticipation"
+    title: "Group-Chat Agent Participation / 群聊 Agent 参与机制"
+    url: "/wiki/concepts/groupchatagentparticipation/"
   - key: "GrowthAsProtectorRole"
     title: "Growth As Protector Role"
     url: "/wiki/concepts/growthasprotectorrole/"

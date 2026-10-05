@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12494
+wiki_total_pages: 12497
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -773,6 +773,9 @@ wiki_pages:
   - key: "FrostSullivan"
     title: "Frost & Sullivan / 弗若斯特沙利文"
     url: "/wiki/entities/frostsullivan/"
+  - key: "FrostMing"
+    title: "Frost 明 / 明熙"
+    url: "/wiki/entities/frostming/"
   - key: "FTX"
     title: "FTX"
     url: "/wiki/entities/ftx/"

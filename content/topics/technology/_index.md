@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3326
+topic_total_pages: 3327
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9072,6 +9072,9 @@ topic_sources:
   - key: "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era"
     title: "EP 50: Evolution of Enterprise Data Engineering in Gen AI Era"
     url: "/wiki/sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era/"
+  - key: "8226494223-026583"
+    title: "Ep 58. 从零实现龙虾需要什么？Bub 开发者访谈"
+    url: "/wiki/sources/8226494223-026583/"
   - key: "ep-5-implementation-of-data-science-in-cybersecurity"
     title: "EP 5: Implementation of Data Science in Cybersecurity"
     url: "/wiki/sources/ep-5-implementation-of-data-science-in-cybersecurity/"
