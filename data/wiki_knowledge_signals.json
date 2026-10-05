@@ -96485,9 +96485,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 29,
+      "episode_count": 30,
       "show_count": 2,
-      "source_note_count": 29,
+      "source_note_count": 30,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -96691,9 +96691,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》365-2｜玩的花，揭秘史上最好色的皇帝",
           "url": "/wiki/sources/zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》340-1｜太奇葩！古代皇帝的长寿秘方 [ljEW1gFZArlkvxT7vAqoqN8qDh-m].md",
+          "key": "zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》340-1｜太奇葩！古代皇帝的长寿秘方",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/hanwudi/"
     },
     "HanXianLateHan": {
@@ -109542,9 +109549,9 @@
       "url": "/wiki/concepts/immigrationdnadatabaseexpansion/"
     },
     "ImmortalityQuestPolitics": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 2,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》126｜秦始皇死因之谜（2） [ln15p5qb7Lc20GOni1IbcPmN3wca].md",
@@ -109636,9 +109643,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》350-1｜职场生存，这个道理必须懂！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-350-1-zhichang-shengcun-zhege-daoli-bixu-dong-lsobl23mkjhpn6eoif6oramxiopu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》340-1｜太奇葩！古代皇帝的长寿秘方 [ljEW1gFZArlkvxT7vAqoqN8qDh-m].md",
+          "key": "zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》340-1｜太奇葩！古代皇帝的长寿秘方",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/immortalityquestpolitics/"
     },
     "ImmuneAgingMosaic": {

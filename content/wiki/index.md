@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》340-1｜太奇葩！古代皇帝的长寿秘方](sources/zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m.md) — 方士把露水与玉屑组合成长生药承诺，汉武帝则以柏梁台和仙人承露盘把不可验证的配方转化为帝国建筑与采集仪式。
 - [Travis Kalanick & Michael Dell Live from Austin, Texas](sources/all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-dell-live-from-austin-texas-40508605.md) — All-In live interviews on Kalanick's physical-world compute stack, specialized robotics and mining, Dell's distributed AI infrastructure and top-down process redesign, and the Dell family's child-account pledge.
 - [VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”](sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2.md) — 这病说来话长 episode with 郑超 on crash-diet risk, metabolic-health outcomes, the “8+X” multidisciplinary model, individualized exercise, procedures, and digital follow-up.
 - [《资治通鉴·汉纪》341-5｜你不知道的冷知识：科举里的女学子](sources/zizhi-tongjian-hanji-341-5-ni-bu-zhidao-de-lengzhishi-keju-li-de-nvxuezi-fm2nbjlzqbw6dszhxv5hm5b4koce.md) — 以科举的选官功能和长期发展为背景，用林幼玉通过南宋童子科考核却仅获特别封号的案例，区分规则沉默、个案认可与女性的稳定制度准入。

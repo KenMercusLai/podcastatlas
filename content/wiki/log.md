@@ -30371,3 +30371,13 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-travis-kalanick-michael-
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》340-1｜太奇葩！古代皇帝的长寿秘方
+
+Added source `zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m`; resynthesized [[HanWudi|汉武帝]] and [[ImmortalityQuestPolitics|求仙政治]] from their complete preserved evidence inventories. Core synthesis: an unnamed fangshi's claim that heaven-derived dew and powdered jade yield immortality becomes a purpose-built仙人承露盘 at 柏梁台, showing how a symbolically privileged material and an unverifiable medical promise can be converted into imperial architecture and collection ritual. No settled contradiction was adopted. The fangshi's identity and intent, recipe efficacy, 柏梁台 chronology and purpose, apparatus material and dimensions, literary-water comparisons, and hydration, breathing, immunity, and longevity claims remain source-scoped or medically unsupported. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary.
+
+Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,797 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
