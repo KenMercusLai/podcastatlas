@@ -6313,6 +6313,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/adidassamba/"
     },
+    "AdministrativeBoundaryRelocation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？ [lhWRrQTAEJQCrADJO-2IpVSlMl5K].md",
+          "key": "zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/administrativeboundaryrelocation/"
+    },
     "AdministrativeInformationConformity": {
       "episode_count": 2,
       "show_count": 2,
@@ -58764,6 +58780,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/dongqianglatehan/"
     },
+    "DongyueWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？ [lhWRrQTAEJQCrADJO-2IpVSlMl5K].md",
+          "key": "zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/dongyuewesternhan/"
+    },
     "DonnaHaraway": {
       "episode_count": 1,
       "show_count": 1,
@@ -95417,6 +95449,64 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/handsonaianxietyreduction/"
     },
+    "HanguPass": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（1） [lmmHoq2WO3Bs6B1JOhpc0iXuf662].md",
+          "key": "zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝” [lp1zuJuQ0o3oHxC79XqI1PhpB5zO].md",
+          "key": "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》61丨谁是历史上胆儿最肥的帝王？ [lvpoAsZaNaScnLRmU2ATINlXZmk1].md",
+          "key": "zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》61丨谁是历史上胆儿最肥的帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》45｜以史为鉴，君王到底该不该杀人成性？ [lo3cOk7cfwZrXEsp-I8miZ1fc1db].md",
+          "key": "zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》45｜以史为鉴，君王到底该不该杀人成性？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》34丨秦国总理如何玩转六国 [lseNZWP0KR5WscB0btvuZMKIbRIQ].md",
+          "key": "zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》34丨秦国总理如何玩转六国",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》33丨历史第一爽文男主角苏秦 [lvEbJYhVZCTjGAEvWWoDdPVg9nR0].md",
+          "key": "zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》33丨历史第一爽文男主角苏秦",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？ [lhWRrQTAEJQCrADJO-2IpVSlMl5K].md",
+          "key": "zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/hangupass/"
+    },
     "Hangzhou": {
       "episode_count": 2,
       "show_count": 2,
@@ -116518,6 +116608,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/jianlangeasternhan/"
     },
+    "JianchengHouAo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？ [lhWRrQTAEJQCrADJO-2IpVSlMl5K].md",
+          "key": "zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/jianchenghouao/"
+    },
     "JiangChongWesternHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -120203,6 +120309,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/juglarcycle/"
+    },
+    "JuguDongyueKing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？ [lhWRrQTAEJQCrADJO-2IpVSlMl5K].md",
+          "key": "zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/jugudongyueking/"
     },
     "Jugurtha": {
       "episode_count": 1,
@@ -148549,6 +148671,29 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/minoxidil/"
     },
+    "Minyue": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2） [lqq8qhRamfziI5O5IcEsd_UaGWKC].md",
+          "key": "zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？ [lhWRrQTAEJQCrADJO-2IpVSlMl5K].md",
+          "key": "zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/minyue/"
+    },
     "MiracleOfAmsterdam": {
       "episode_count": 1,
       "show_count": 1,
@@ -171779,6 +171924,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/postcoldwarorderrupture/"
+    },
+    "PostConquestPopulationRemoval": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？ [lhWRrQTAEJQCrADJO-2IpVSlMl5K].md",
+          "key": "zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/postconquestpopulationremoval/"
     },
     "PostDefeatForceReconstitution": {
       "episode_count": 1,
@@ -231433,6 +231594,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/wushuwanmagistratelatehan/"
     },
+    "WuYangYueMarquis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？ [lhWRrQTAEJQCrADJO-2IpVSlMl5K].md",
+          "key": "zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/wuyangyuemarquis/"
+    },
     "WuYouLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -237094,9 +237271,9 @@
       "url": "/wiki/entities/yanglistandup/"
     },
     "YangPuWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂 [ls1iZJhow_J4ubgMM0LM8ruaUrOx].md",
@@ -237118,6 +237295,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？ [lhWRrQTAEJQCrADJO-2IpVSlMl5K].md",
+          "key": "zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
         }
       ],
       "updated": "2026-10-05",
@@ -239151,9 +239335,9 @@
       "url": "/wiki/entities/yuqiantombandtemple/"
     },
     "YuShanDongyueKing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？ [lsaa6J1JSKiVFHyvVPBPmNoRq-jm].md",
@@ -239161,6 +239345,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？ [lhWRrQTAEJQCrADJO-2IpVSlMl5K].md",
+          "key": "zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
         }
       ],
       "updated": "2026-10-05",

@@ -1,33 +1,62 @@
 ---
 title: "函谷关 / Hangu Pass"
 type: entity
-tags: [place, pass, qin-state, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]
-last_updated: 2026-08-22
+knowledge_schema: synthesis-v1
+tags: [place, pass, qin-state, pre-qin-history, warring-states, western-han]
+sources:
+  - zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662
+  - zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo
+  - zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1
+  - zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db
+  - zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq
+  - zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0
+  - zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k
+last_updated: 2026-10-05
 ---
 
-# 函谷关 / Hangu Pass
+## Overview
 
-函谷关 / Hangu Pass appears in [[zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]] as the boundary marker in [[Shiji|《史记》]]'s claim about [[SuQin|苏秦]]'s [[HezongAlliance|合纵]] success: after the six-state alliance forms, Qin troops supposedly do not dare leave the pass for fifteen years.
+函谷关 / Hangu Pass is a strategic boundary whose meaning changes across the bounded sources: it is Qin's defensible eastern gate, a test point for competing alliance chronologies, a route that enemies try to reach or bypass, a barrier contested by Liu Bang and Xiang Yu, and later a movable Han administrative line.
 
-The episode immediately makes that claim a source-critical problem. [[ZizhiTongjian|《资治通鉴》]] soon records [[QinState|秦国]] taking military action again and the six-state alliance falling apart, so Hangu Pass functions here less as a geography lesson than as the test point for legendary alliance efficacy.
+## Current Profile
 
-[[zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq]] supplies the promised test. Qin is again active from 332 to 328 BCE, disrupting the eastern alliance through [[GongsunYan|犀首公孙衍]], taking and extracting territory from [[WeiState|魏国]], and elevating [[ZhangYiStrategist|张仪]]. The pass therefore remains a marker of [[Shiji|《史记》]]'s stronger claim, not a description that fits this Zizhi Tongjian sequel literally.
+The Warring States sources use Hangu Pass to measure Qin's defensive advantage and eastward freedom of action. Zhouji 33 repeats the Shiji-style claim that Su Qin's alliance kept Qin behind the pass for fifteen years, while Zhouji 34 immediately complicates that account by showing renewed Qin pressure and territorial acquisition. Zhouji 45 shows a five-state force reaching the pass but collapsing through self-preservation and supply pressure; Zhouji 61 makes the same strength a problem Zhao Wuling Wang intends to bypass by a northern route toward Xianyang.
 
-[[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] gives the pass another anti-Qin test in 318 BCE. Five eastern states reach Hangu Pass under [[ChuHuaiwang|楚怀王]]'s alliance leadership, but the army stalls because each state preserves its own strength. Qin cuts Chu's supply route, Chu withdraws, and the coalition collapses, making the pass a marker for [[CoalitionSelfPreservationFailure|联盟自保失灵]] as well as source-critical hezong legend.
+The Qin-Han transition sources turn the pass into a control point over Guanzhong. Hanji 139 places Xiang Yu's coalition and surrendered Qin troops on the route toward it, while Hanji 140 shows Liu Bang sealing the entrances and Xiang Yu forcing a breakthrough. Hanji 356-2 adds a different form of power: [[YangPuWesternHan|杨仆]] proposes moving [[HanguPass|函谷关]] east to Xin'an, and the episode reads the relocated line as an enlargement of the territory counted as the protected imperial core.
 
-[[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] makes the pass a constraint to route around. After personally scouting [[QinState|秦国]] in disguise, [[ZhaoWulingwang|赵武灵王]] judges that repeated eastern attacks on Qin struggle because Hangu Pass is too defensible. His alternative is to move from Yunzhong and Jiuyuan south toward [[Xianyang|咸阳]], turning the pass from a coalition-frontier marker into a problem for operational imagination.
+## Key Characteristics
 
-[[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] adds a late-Qin prisoner-security version. As [[XiangYu|项羽]] leads the anti-Qin coalition west with surrendered Qin troops, the pass becomes the imagined point where those troops might face Qin defenders, rebel, or rejoin Qin. That fear is part of the episode's rationale for [[XinanMassacre|新安坑降]] before the coalition reaches the Qin heartland.
+- Defensible eastern gateway associated with Qin's geographic advantage.
+- Source-critical benchmark for whether hezong actually constrained Qin and for how long.
+- Coalition objective whose strength magnifies supply and coordination failures.
+- Operational obstacle that can be bypassed rather than attacked directly.
+- Guanzhong entry-control point during the Liu Bang-Xiang Yu rivalry.
+- Movable Western Han administrative boundary in the Xin'an relocation episode.
 
-[[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]] changes the pass problem from surrendered-Qin security to Liu Bang/Xiang Yu rivalry. [[LiuBang|刘邦]] seals the Guanzhong entry route after reaching the region first, and Xiang Yu sends [[YingBu|英布]] and others to break through. The pass therefore becomes the material boundary where the [[HuaiwangAgreement|怀王之约]] reward race turns into open coercion among former anti-Qin allies.
+## Evidence
 
-## Connections
-- [[QinState|秦国]] - state whose eastward military movement is being described.
-- [[SuQin|苏秦]] and [[HezongAlliance|合纵]] - strategist and alliance whose claimed success is measured by Qin not crossing the pass.
-- [[Shiji|《史记》]], [[ZizhiTongjian|《资治通鉴》]], and [[ChronicleChronologyDrift|编年错位]] - source tension around the fifteen-year claim.
-- [[ZonghengjiaDiplomacy|纵横家外交]] - broader Warring States diplomatic field in which the pass becomes political evidence.
-- [[ChuHuaiwang|楚怀王]], [[HezongAlliance|合纵]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 45 five-state attack and withdrawal branch.
-- [[ZhaoWulingwang|赵武灵王]], [[QinZhaoxiangwang|秦昭襄王]], [[Xianyang|咸阳]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - Zhouji 61 bypass strategy after disguised reconnaissance.
-- [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]], [[XiangYu|项羽]], [[XinanMassacre|新安坑降]], [[ZhangHanQin|章邯]], and [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]] - feared mutiny or reattachment point for surrendered Qin troops.
-- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[LiuBang|刘邦]], [[YingBu|英布]], [[GuanzhongRegion|关中]], and [[HongmenYan|鸿门宴]] - closed entry route and forced breakthrough before the banquet crisis.
+- Alliance efficacy and chronology: [[zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0|Zhouji 33]] records the fifteen-year claim, while [[zizhi-tongjian-zhouji-34-qinguo-zongli-ruhe-wanzhuan-liuguo-lsenzwp0kr5wscb0btvuzmkibriq|Zhouji 34]] shows Qin active again within the sequel's chronology.
+- Coalition and bypass constraint: [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db|Zhouji 45]] places the stalled five-state army at the pass, and [[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1|Zhouji 61]] attributes a northern bypass plan to Zhao Wuling Wang.
+- Guanzhong entry control: [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] places the westward coalition near the pass, and [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]] makes Liu Bang's closure and Xiang Yu's forced opening part of their open rivalry.
+- Administrative relocation: [[zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k|Hanji 356-2]] attributes an eastward move to Xin'an to Yang Pu's proposal and interprets it as expanding the inner zone.
+
+## Qualifications
+
+The sources do not support one timeless location or function for every reference to Hangu Pass. Hanji 356-2 explicitly depends on relocation, while its “汉武官,” “灵保,” and related wording contain transcription errors. The Shiji-style fifteen-year statement and the Tongjian sequel remain a source-tradition tension rather than a resolved literal chronology. Coalition failure also cannot be attributed to terrain alone: supply interruption, weak commitment, and mutual self-preservation matter.
+
+## What Changed
+
+- Migrated the page to synthesis-v1 while preserving the complete prior source inventory.
+- Added the Western Han Xin'an relocation and distinguished administrative boundary-making from the older fixed-gateway role.
+- Consolidated repeated episode-by-episode prose into six stable functions of the pass.
+
+## Relationships
+
+- [[QinState|秦国]] - state whose eastern defense and outward action are measured at the pass.
+- [[GuanzhongRegion|关中]] - protected heartland whose entry routes the pass helps define.
+- [[HezongAlliance|合纵]] - alliance whose claimed success is tested by Qin movement beyond the pass.
+- [[ZhaoWulingwang|赵武灵王]] - ruler who plans to bypass the conventional approach.
+- [[LiuBang|刘邦]] - first entrant who seals the Guanzhong route.
+- [[XiangYu|项羽]] - coalition leader who forces the route open.
+- [[YangPuWesternHan|杨仆]] - commander credited with proposing the eastward relocation.
+- [[AdministrativeBoundaryRelocation|行政边界迁移式扩张]] - concept explaining how moving a checkpoint can redefine the governed core.

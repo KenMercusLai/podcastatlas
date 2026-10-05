@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12413
+wiki_total_pages: 12417
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1181,6 +1181,9 @@ wiki_pages:
   - key: "DongqiangXidiao"
     title: "东腔西调 / Dongqiang Xidiao"
     url: "/wiki/entities/dongqiangxidiao/"
+  - key: "DongyueWesternHan"
+    title: "东越 / Dongyue (Western Han)"
+    url: "/wiki/entities/dongyuewesternhan/"
   - key: "DongCommandery"
     title: "东郡 / Dong Commandery"
     url: "/wiki/entities/dongcommandery/"

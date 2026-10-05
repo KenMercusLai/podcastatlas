@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？](sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k.md) — 杨仆提议东迁函谷关，被节目解释为个人名位与扩大关内控制的结合；余善则在汉军压力、内部倒戈与刺杀后败亡，随后当地人口被迁往江淮。
 - [368-为什么每一个时代的文化精英都认为文化要完了？](sources/368-weishenme-meiyige-shidai-de-wenhua-jingying-dou-renwei-wenhua-yao-wan-le-lllorcsr7zozfruhhdf766iqmnpe.md) — 独树不成林以柏拉图、罗马道德批评及近现代思想家比较文化衰亡焦虑，区分具体损失、制度机制、进步权衡与整体崩坏判断。
 - [《资治通鉴·汉纪》357-2｜唉，一片真心不如钱重要](sources/zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu.md) — 西域对匈奴与汉使的不同待遇暴露距离、投送力与使团治理的共同约束；卜式则因批评盐铁、均输平准扰民而被移出御史大夫之位。
 - [《资治通鉴·汉纪》356-1｜不懂驭人，你凭啥当领导？](sources/zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm.md) — 汉武帝以五项过失压住灭南越后自矜的杨仆，却在其表态效死赎罪后继续派征东越，显示功劳不自动免责、问责也不必废弃能力。
@@ -3818,7 +3819,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
-- [余善 / Yu Shan (Dongyue king)](entities/YuShanDongyueKing.md) — 杀汉官、自立武帝并触发汉武帝多路征讨的东越王；本期资料只到出兵，未覆盖战事结局。
+- [东越 / Dongyue (Western Han)](entities/DongyueWesternHan.md) — 余善统治下遭汉军进攻、内部倒戈、杀王投降与人口迁出的东南越系政权。
+- [吴阳 / Wu Yang (Yue marquis)](entities/WuYangYueMarquis.md) — 汉军压境时率七百人倒向汉方、预示东越内部瓦解的越系侯者。
+- [建成侯敖 / Ao, Marquis of Jiancheng](entities/JianchengHouAo.md) — 与繇王居股合谋杀余善、率众投降并获汉廷奖赏的东越内部行动者。
+- [繇王居股 / Jugu (Dongyue royal insider)](entities/JuguDongyueKing.md) — 与建成侯敖共同杀余善并投降、被纳入汉廷封赏的东越王族人物。
+- [余善 / Yu Shan (Dongyue king)](entities/YuShanDongyueKing.md) — 杀汉官、自立武帝并触发汉武帝多路征讨，最终在外部压力与内部倒戈中被敖、居股杀死的东越王。
 - [张骞 / Zhang Qian (Western Han)](entities/ZhangQianWesternHan.md) — Western Han envoy whose Bowang Hou reputation became a diplomatic trust asset that later mission systems could borrow but not automatically reproduce.
 - [《封禅文》 / Fengshan Wen](entities/FengshanWen.md) — 司马相如身后由卓文君交付使者、以传说先例和祥瑞劝汉武帝封禅的政治文学文本，其全文、流传与实际影响保持来源限定。
 - [兒宽 / Ni Kuan (Western Han)](entities/NiKuanWesternHan.md) — 在封禅无经书成法时把裁制定礼归于汉武帝、并见于太初历项目参与名单的西汉官员。
@@ -3847,7 +3852,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卫山 / Wei Shan (Western Han)](entities/WeiShanWesternHan.md) — 在汉军受挫后促成卫右渠请降，却因太子部众缴械争议使渡河失败、返朝后被诛的西汉使者。
 - [公孙遂 / Gongsun Sui (Western Han)](entities/GongsunSuiWesternHan.md) — 奉汉武帝临机处置朝鲜前线矛盾、拘捕杨仆并合军，奏报后反遭诛杀的帝国特使。
 - [荀彘 / Xun Zhi (Western Han)](entities/XunZhiWesternHan.md) — 征卫氏朝鲜的左将军，合并杨仆军后完成进攻，却因争功和指挥冲突在战后被诛。
-- [杨仆 / Yang Pu (Western Han)](entities/YangPuWesternHan.md) — 征卫氏朝鲜的楼船将军，其议降渠道、失期、被捕与赎死为民构成分裂统帅的另一支。
+- [杨仆 / Yang Pu (Western Han)](entities/YangPuWesternHan.md) — 从南越功高受责、东越再用与函谷关东迁建议，到朝鲜战场败退、议降、被捕和赎死为民的楼船将军。
 - [卫右渠 / King Ugeo of Wiman Joseon](entities/UgeoWimanJoseon.md) — 卫氏朝鲜末代君主，在汉军合军急攻和内部倒戈中被尼谿相参派人杀死。
 - [卫氏朝鲜 / Wiman Joseon](entities/WimanJoseon.md) — 在王险城围攻、统帅分裂、内部投降与卫右渠之死后被西汉征服的区域政权。
 - [卫满 / Wiman](entities/WimanJoseonFounder.md) — 从燕地流亡后聚合难民与当地势力、获汉朝外臣承认并扩张卫氏朝鲜的建国者。
@@ -9166,7 +9171,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [骊山 / Lishan](entities/Lishan.md) — Mountain reached by Qinji 121's Xianyang-area road-and-palace construction, linked to Qin Shi Huang's cosmic capital layout.
 - [百越 / Baiyue](entities/Baiyue.md) — Broad label for Yue peoples and polities subdued in Qinji 119-3 as Wang Jian pushes Qin control into Jiangnan before the Kuaiji Commandery setup.
 - [无诸 / Wuzhu (Minyue king)](entities/WuzhuMinyueKing.md) — Former Yue ruler named in the transcript as 吴珠, granted Minyue kingship by Liu Bang after supporting Han against Xiang Yu.
-- [闽越 / Minyue](entities/Minyue.md) — Yue-descended southeastern polity Liu Bang recognizes through Wuzhu's Minyue kingship in Hanji 169 part 2.
+- [闽越 / Minyue](entities/Minyue.md) — 从刘邦册封无诸的建国承认，延伸到东越败亡后人口迁往江淮的东南越系政区。
 - [会稽郡 / Kuaiji Commandery](entities/KuaijiCommandery.md) — Commandery from Qin's southeastern expansion through Xiang takeover, Xu Sheng's Hanji 903 uprising, and Sun Ce's late-Han local base/title frame.
 - [雍门司马 / Yongmen Sima](entities/YongmenSima.md) — Qi remonstrance figure who challenges Qi Wang Jian's proposed trip to Qin by asking whether the king exists for the state.
 - [白公胜之乱 / Bai Gong Sheng Rebellion](entities/BaiGongShengRebellion.md) — 479 BCE Chu crisis where Bai Gong Sheng kills Zi Xi and seizes Chu Hui Wang before Ye Gong suppresses the rebellion.
@@ -9565,7 +9570,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [曲沃 / Quwo (Warring States)](entities/QuwoWarringStates.md) — Wei stronghold paired with Jiaoyi in Qin's offensive and later return.
 - [少梁 / Shaoliang](entities/Shaoliang.md) — Wei-Qin battlefield where Qin captures a Wei figure rendered as 公孙措/公孙痤 before later Qin control notices.
 - [河西 / Hexi (Warring States)](entities/HexiWarringStates.md) — Contested western Wei region whose cession to Qin appears as a continuing frontier-loss branch.
-- [函谷关 / Hangu Pass](entities/HanguPass.md) — Qin pass used by Zhouji 33 as the test point for Shiji's fifteen-year hezong efficacy claim against the coming Zizhi Tongjian sequel.
+- [函谷关 / Hangu Pass](entities/HanguPass.md) — 兼具秦国东门、合纵成效试金石、关中入口和汉代可移动行政边界功能的战略关隘。
 - [临淄 / Linzi](entities/Linzi.md) — Qi regional capital and campaign node spanning Warring States prosperity/Jixia, Chu-Han persuasion and kingship, and Geng Yan's Eastern Han tactical capture.
 - [《阴符》 / Yinfu Jing](entities/YinfuJing.md) — Text Su Qin studies after failure, with Zhouji 30 distinguishing Shiji's 《周书阴符》 from Zhanguo Ce's 《太公阴符之谋》.
 - [《六韬》 / Six Secret Teachings](entities/Liutao.md) — Military text used as one possible but less persuasive identification for the 《阴符》 material in Su Qin's breakthrough story.
@@ -16282,6 +16287,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [Administrative Boundary Relocation / 行政边界迁移式扩张](concepts/AdministrativeBoundaryRelocation.md) — 通过移动关口等边界，把更多土地和人口重新定义为受直接监督的核心区。
+- [Post-Conquest Population Removal / 征服后人口迁出](concepts/PostConquestPopulationRemoval.md) — 在奖励归降精英的同时，将更广泛的被征服人口移离原地以破坏其地形与组织基础的强制安置方式。
 - [Cultural Decline Anxiety / 文化衰亡焦虑](concepts/CulturalDeclineAnxiety.md) — Recurring move from a specific threatened practice or capacity to a total civilizational-collapse judgment, qualified by criticism's memory-preserving role.
 - [Knowledge Externalization Tradeoff / 知识外化权衡](concepts/KnowledgeExternalizationTradeoff.md) — Tension between expanded storage, access, and retrieval and retained human practice of memory, explanation, and judgment.
 - [Institution-Shaped Character / 制度塑造人格](concepts/InstitutionShapedCharacter.md) — Mechanism by which incentives, sanctions, and survival pressure reward and select public habits rather than merely revealing private virtue.

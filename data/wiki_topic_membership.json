@@ -10822,6 +10822,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AdministrativeBoundaryRelocation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AdministrativeInformationConformity": [
     {
       "key": "politics",

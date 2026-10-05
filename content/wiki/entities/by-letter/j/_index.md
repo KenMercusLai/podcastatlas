@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12413
+wiki_total_pages: 12417
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1556,6 +1556,9 @@ wiki_pages:
   - key: "JuluCommanderyLateHan"
     title: "巨鹿郡 / Julu Commandery (late Han)"
     url: "/wiki/entities/julucommanderylatehan/"
+  - key: "JianchengHouAo"
+    title: "建成侯敖 / Ao, Marquis of Jiancheng"
+    url: "/wiki/entities/jianchenghouao/"
   - key: "JieliChangjiang"
     title: "接力长江 / Jieli Changjiang"
     url: "/wiki/entities/jielichangjiang/"
@@ -1688,6 +1691,9 @@ wiki_pages:
   - key: "JiRu"
     title: "籍孺 / Ji Ru"
     url: "/wiki/entities/jiru/"
+  - key: "JuguDongyueKing"
+    title: "繇王居股 / Jugu (Dongyue royal insider)"
+    url: "/wiki/entities/jugudongyueking/"
   - key: "JiXin"
     title: "纪信 / Ji Xin"
     url: "/wiki/entities/jixin/"

@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox
   - zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb
   - zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm
+  - zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k
 last_updated: 2026-10-05
 ---
 
@@ -18,6 +19,8 @@ last_updated: 2026-10-05
 
 Hanji 356-1 supplies the earlier southern campaign layer. After service against Nanyue, Yang Pu is accused of treating surrenderers and exhumed bodies as battlefield results, failing to pursue completely, boasting at home, lingering after recall, and failing to report or explain himself promptly. Han Wudi rebukes him, Yang Pu offers to fight to redeem the faults, and the emperor continues using him in the multi-route campaign against [[YuShanDongyueKing|东越王余善]]. The sequence couples discipline with redeployment rather than either unconditional reward or immediate removal.
 
+Hanji 356-2 adds a territorial-administration proposal. It attributes to Yang Pu the idea of moving [[HanguPass|函谷关]] east to Xin'an and reads the move as serving both his desire for protected inner-zone status and Han Wudi's desire to enlarge the directly supervised core. The episode's confident account of private bargaining remains an interpretation, but the addition broadens Yang Pu from battlefield commander to a source-attributed proposer of boundary change.
+
 Hanji 366-1 and 366-2 show that command problems recur during the later campaign against [[WimanJoseon|卫氏朝鲜]]. Yang Pu advances with seven thousand Qi troops, is defeated, hides in the mountains, and gradually regathers survivors. At Wangxian City he favors a surrender channel after the loss, while [[XunZhiWesternHan|荀彘]] favors assault; missed joint dates and mutual suspicion culminate in [[GongsunSuiWesternHan|公孙遂]] arresting Yang Pu and transferring his force. After conquest, Yang Pu avoids execution by redemption but becomes a commoner because of unauthorized advance and heavy losses.
 
 ## Key Characteristics
@@ -27,10 +30,12 @@ Hanji 366-1 and 366-2 show that command problems recur during the later campaign
 - Officer repeatedly allowed to seek redemption through further service or legal commutation.
 - Commander whose early Wiman Joseon defeat helps explain a later preference for negotiated surrender.
 - Participant in fragmented field command whose separate channel and missed timing deepen distrust.
+- Proposer, in Hanji 356-2, of moving Hangu Pass eastward to Xin'an.
 
 ## Evidence
 
 - Merit under discipline: [[zizhi-tongjian-hanji-356-1-budong-yuren-ni-ping-sha-dang-lingdao-lsaa6j1jskivfhyvvpbpmnorq-jm|Hanji 356-1]] says Han Wudi answers Yang Pu's Nanyue merit with five alleged faults, then accepts renewed service against Dongyue.
+- Boundary proposal: [[zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k|Hanji 356-2]] attributes the Xin'an relocation of Hangu Pass to Yang Pu and links it to status and central control.
 - Initial defeat and regrouping: [[zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb|Hanji 366-1]] says Yang Pu advances with seven thousand troops, is routed, hides, and reassembles survivors.
 - Negotiation and coordination conflict: [[zizhi-tongjian-hanji-366-1-han-da-chaoxian-di-qian-neidou-de-lijian-gushi-lrrb-ackuny0f1xrb5s8v6lzf1fb|Hanji 366-1]] and [[zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox|Hanji 366-2]] connect his caution, missed joint attacks, and separate surrender channel to the divided siege command.
 - Arrest and dispossession: [[zizhi-tongjian-hanji-366-2-hanwudi-henxin-zhansha-gongsunsui-ls1izjhow_j4ubgmm0lm8ruaurox|Hanji 366-2]] says he is summoned into Xun Zhi's camp, arrested, and deprived of his army.
@@ -38,12 +43,13 @@ Hanji 366-1 and 366-2 show that command problems recur during the later campaign
 
 ## Qualifications
 
-Hanji 356-1's five accusations and its reading of Yang Pu as arrogant remain episode-attributed; the transcript writes his name as “杨溥,” normalized here to 杨仆. The Joseon episodes do not make caution equivalent to treason: Yang Pu's premature advance, separate diplomacy, missed coordination, and prior losses create operational risk, but Hanji 366-1 says Xun Zhi lacks evidence for a larger plot. The bounded sources also do not establish that assault was inherently superior to negotiation.
+Hanji 356-1's five accusations and its reading of Yang Pu as arrogant remain episode-attributed; Hanji 356-2's claim that Han Wudi was waiting for his pass-relocation suggestion is likewise an inference. The transcripts write his name as “杨溥” or “杨浦,” normalized here to 杨仆. The Joseon episodes do not make caution equivalent to treason: Yang Pu's premature advance, separate diplomacy, missed coordination, and prior losses create operational risk, but Hanji 366-1 says Xun Zhi lacks evidence for a larger plot. The bounded sources also do not establish that assault was inherently superior to negotiation.
 
 ## What Changed
 
 - Added the earlier Nanyue-to-Dongyue layer, showing imperial rebuke and renewed campaign service before the Wiman Joseon command crisis.
 - Reframed redemption as a recurring career pattern that preserves usefulness without erasing accountability.
+- Added the source-attributed Hangu Pass relocation proposal and separated the reported administrative act from inferred private motives.
 
 ## Relationships
 
@@ -54,3 +60,5 @@ Hanji 356-1's five accusations and its reading of Yang Pu as arrogant remain epi
 - [[WimanJoseon|卫氏朝鲜]] - opposing polity with which Yang Pu maintains a surrender channel.
 - [[CommandSynchronizationFailure|军令同步失灵]] - failure mode created by divergent timing, trust, and negotiation channels.
 - [[HighMeritThreatManagement|功高不震主]] - power pattern connecting achievement, visible hierarchy risk, discipline, and continued use.
+- [[HanguPass|函谷关]] - pass whose eastward relocation is attributed to Yang Pu.
+- [[AdministrativeBoundaryRelocation|行政边界迁移式扩张]] - governance mechanism the episode reads into the Xin'an proposal.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3106
+topic_total_pages: 3107
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -37,6 +37,9 @@ topic_concepts:
   - key: "AdministrativeArchiveCapture"
     title: "Administrative Archive Capture / 行政档案接管"
     url: "/wiki/concepts/administrativearchivecapture/"
+  - key: "AdministrativeBoundaryRelocation"
+    title: "Administrative Boundary Relocation / 行政边界迁移式扩张"
+    url: "/wiki/concepts/administrativeboundaryrelocation/"
   - key: "AdministrativeInformationConformity"
     title: "Administrative Information Conformity / 行政信息圆美化"
     url: "/wiki/concepts/administrativeinformationconformity/"
