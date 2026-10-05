@@ -3327,6 +3327,10 @@
     "title": "65.龙王之怒：1931年的长江洪水",
     "url": "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
   },
+  "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848": {
+    "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
+    "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
+  },
   "653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230": {
     "title": "653. London’s Golden Age: The Shadow of the Madhouse (Part 4)",
     "url": "/wiki/sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230/"
@@ -5414,6 +5418,10 @@
   "AJianInsuranceWriter": {
     "title": "阿健",
     "url": "/wiki/entities/ajianinsurancewriter/"
+  },
+  "AJourneyToTheWesternIslands": {
+    "title": "A Journey to the Western Islands of Scotland",
+    "url": "/wiki/entities/ajourneytothewesternislands/"
   },
   "AMCTheatres": {
     "title": "AMC Theatres",
@@ -16306,6 +16314,10 @@
   "CharlesEMitchell": {
     "title": "Charles E. Mitchell / 查理·米切尔",
     "url": "/wiki/entities/charlesemitchell/"
+  },
+  "CharlesEdwardStuart": {
+    "title": "Charles Edward Stuart",
+    "url": "/wiki/entities/charlesedwardstuart/"
   },
   "CharlesFan": {
     "title": "Charles Fan",
@@ -31043,6 +31055,10 @@
     "title": "Flora",
     "url": "/wiki/entities/flora/"
   },
+  "FloraMacDonald": {
+    "title": "Flora MacDonald",
+    "url": "/wiki/entities/floramacdonald/"
+  },
   "FlorentineRepublic": {
     "title": "Florentine Republic / 佛罗伦萨共和国",
     "url": "/wiki/entities/florentinerepublic/"
@@ -44994,6 +45010,10 @@
   "JosieDallap": {
     "title": "Josie Dallap",
     "url": "/wiki/entities/josiedallap/"
+  },
+  "JournalOfATourToTheHebrides": {
+    "title": "The Journal of a Tour to the Hebrides",
+    "url": "/wiki/entities/journalofatourtothehebrides/"
   },
   "JournalisticAuthorityErosion": {
     "title": "Journalistic Authority Erosion / 记者权威感消失",
@@ -63942,6 +63962,10 @@
   "PostConquestPopulationRemoval": {
     "title": "Post-Conquest Population Removal / 征服后人口迁出",
     "url": "/wiki/concepts/postconquestpopulationremoval/"
+  },
+  "PostCullodenHighlandTransformation": {
+    "title": "Post-Culloden Highland Transformation",
+    "url": "/wiki/concepts/postcullodenhighlandtransformation/"
   },
   "PostDefeatForceReconstitution": {
     "title": "Post-Defeat Force Reconstitution / 败后兵力重组",

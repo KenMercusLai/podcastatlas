@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12480
+wiki_total_pages: 12484
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "Flora"
     title: "Flora"
     url: "/wiki/entities/flora/"
+  - key: "FloraMacDonald"
+    title: "Flora MacDonald"
+    url: "/wiki/entities/floramacdonald/"
   - key: "FlorentineRepublic"
     title: "Florentine Republic / 佛罗伦萨共和国"
     url: "/wiki/entities/florentinerepublic/"

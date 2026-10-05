@@ -30429,3 +30429,13 @@ Added source `ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-
 ## [2026-10-06] lint | Wiki lint
 
 Ran deterministic and graph-aware lint without saving a report. Semantic checks were unavailable because `LLM_MODEL` was not provider-qualified for LiteLLM.
+
+## [2026-10-06] ingest | 652. London’s Golden Age: The Ghosts of Culloden (Part 3)
+
+Added source `652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848`; created [[CharlesEdwardStuart]], [[FloraMacDonald]], [[AJourneyToTheWesternIslands]], [[JournalOfATourToTheHebrides]], and [[PostCullodenHighlandTransformation]]; and resynthesized [[SamuelJohnson]], [[JamesBoswell]], [[Jacobitism]], [[Scotland]], [[LochNess]], [[TheLifeOfJohnson]], and [[WildernessMysteryLonging]] from their complete preserved evidence inventories. Core synthesis: Johnson and Boswell’s comic, quarrelsome literary journey also records a Highland society already altered by post-Culloden repression, commercialization, elite migration, and emigration; Johnson’s pleasure and sympathy complicate his anti-Scottish reputation, while Boswell’s self-exposure and scene construction anticipate his later biography. No settled contradiction was adopted. The travelers’ elite outsider perspective, remembered dialogue, motives, route symbolism, causal judgments, Great Plains analogy, and incomplete Gaelic voices remain source-scoped or qualified.
+
+The automatic `wiki/overview.md` was updated during canonical ingest, then only read by the downstream refresh. The planner found no dirty topic, global compaction was not due, and the refreshed manifest and paragraph ledger validate 3,804 sources across 796 synthesized overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -4739,6 +4739,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/aiweirdnessblog/"
     },
+    "AJourneyToTheWesternIslands": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2422514848 [GLT2422514848].md",
+          "key": "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848",
+          "show": "The Rest Is History",
+          "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
+          "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/ajourneytothewesternislands/"
+    },
     "AMD": {
       "episode_count": 2,
       "show_count": 2,
@@ -35554,6 +35570,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/charlesduncancameron/"
+    },
+    "CharlesEdwardStuart": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2422514848 [GLT2422514848].md",
+          "key": "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848",
+          "show": "The Rest Is History",
+          "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
+          "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/charlesedwardstuart/"
     },
     "CharlesFan": {
       "episode_count": 1,
@@ -79937,6 +79969,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/floodplainretreatgovernance/"
     },
+    "FloraMacDonald": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2422514848 [GLT2422514848].md",
+          "key": "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848",
+          "show": "The Rest Is History",
+          "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
+          "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/floramacdonald/"
+    },
     "FlowClutchLearningDistinction": {
       "episode_count": 2,
       "show_count": 1,
@@ -116531,9 +116579,9 @@
       "url": "/wiki/entities/jacobinclub/"
     },
     "Jacobitism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2603959218 [GLT2603959218].md",
@@ -116541,9 +116589,16 @@
           "show": "The Rest Is History",
           "title": "678. Britain: God Save the King (Part 2)",
           "url": "/wiki/sources/678-britain-god-save-the-king-part-2-glt2603959218/"
+        },
+        {
+          "episode_file": "GLT2422514848 [GLT2422514848].md",
+          "key": "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848",
+          "show": "The Rest Is History",
+          "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
+          "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/jacobitism/"
     },
     "JacquelineKennedyOnassis": {
@@ -116809,9 +116864,9 @@
       "url": "/wiki/entities/jamesbond/"
     },
     "JamesBoswell": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3921798295 [GLT3921798295].md",
@@ -116826,9 +116881,16 @@
           "show": "The Rest Is History",
           "title": "653. London’s Golden Age: The Shadow of the Madhouse (Part 4)",
           "url": "/wiki/sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230/"
+        },
+        {
+          "episode_file": "GLT2422514848 [GLT2422514848].md",
+          "key": "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848",
+          "show": "The Rest Is History",
+          "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
+          "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/jamesboswell/"
     },
     "JamesCallender": {
@@ -122361,6 +122423,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/joshspencer/"
+    },
+    "JournalOfATourToTheHebrides": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2422514848 [GLT2422514848].md",
+          "key": "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848",
+          "show": "The Rest Is History",
+          "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
+          "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/journalofatourtothehebrides/"
     },
     "JournalisticIndependenceAgainstFaction": {
       "episode_count": 2,
@@ -136785,9 +136863,9 @@
       "url": "/wiki/concepts/localizedproductdefinition/"
     },
     "LochNess": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3620889030 [GLT3620889030].md",
@@ -136795,9 +136873,16 @@
           "show": "The Rest Is History",
           "title": "233. The Loch Ness Monster",
           "url": "/wiki/sources/233-the-loch-ness-monster-glt3620889030/"
+        },
+        {
+          "episode_file": "GLT2422514848 [GLT2422514848].md",
+          "key": "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848",
+          "show": "The Rest Is History",
+          "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
+          "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/lochness/"
     },
     "LochNessMonster": {
@@ -175658,6 +175743,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/concepts/postconquestpopulationremoval/"
     },
+    "PostCullodenHighlandTransformation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2422514848 [GLT2422514848].md",
+          "key": "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848",
+          "show": "The Rest Is History",
+          "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
+          "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/postcullodenhighlandtransformation/"
+    },
     "PostDefeatForceReconstitution": {
       "episode_count": 1,
       "show_count": 1,
@@ -193926,9 +194027,9 @@
       "url": "/wiki/entities/samsonrowley/"
     },
     "SamuelJohnson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -193943,9 +194044,16 @@
           "show": "The Rest Is History",
           "title": "653. London’s Golden Age: The Shadow of the Madhouse (Part 4)",
           "url": "/wiki/sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230/"
+        },
+        {
+          "episode_file": "GLT2422514848 [GLT2422514848].md",
+          "key": "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848",
+          "show": "The Rest Is History",
+          "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
+          "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/samueljohnson/"
     },
     "SamuraiLegendAndPoliticalMemory": {
@@ -195444,9 +195552,9 @@
       "url": "/wiki/concepts/scorchedearthsupplydenial/"
     },
     "Scotland": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2603959218 [GLT2603959218].md",
@@ -195468,9 +195576,16 @@
           "show": "The Rest Is History",
           "title": "104. Macbeth",
           "url": "/wiki/sources/104-macbeth-glt3313769671/"
+        },
+        {
+          "episode_file": "GLT2422514848 [GLT2422514848].md",
+          "key": "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848",
+          "show": "The Rest Is History",
+          "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
+          "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/scotland/"
     },
     "ScottBessent": {
@@ -216562,9 +216677,9 @@
       "url": "/wiki/entities/thekeralastory/"
     },
     "TheLifeOfJohnson": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2240052230 [GLT2240052230].md",
@@ -216572,9 +216687,16 @@
           "show": "The Rest Is History",
           "title": "653. London’s Golden Age: The Shadow of the Madhouse (Part 4)",
           "url": "/wiki/sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230/"
+        },
+        {
+          "episode_file": "GLT2422514848 [GLT2422514848].md",
+          "key": "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848",
+          "show": "The Rest Is History",
+          "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
+          "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/thelifeofjohnson/"
     },
     "TheLordOfTheRings": {
@@ -233677,9 +233799,9 @@
       "url": "/wiki/concepts/wildwestmyth/"
     },
     "WildernessMysteryLonging": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3620889030 [GLT3620889030].md",
@@ -233687,9 +233809,16 @@
           "show": "The Rest Is History",
           "title": "233. The Loch Ness Monster",
           "url": "/wiki/sources/233-the-loch-ness-monster-glt3620889030/"
+        },
+        {
+          "episode_file": "GLT2422514848 [GLT2422514848].md",
+          "key": "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848",
+          "show": "The Rest Is History",
+          "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
+          "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/wildernessmysterylonging/"
     },
     "WildlifeFeedingFeedbackLoop": {

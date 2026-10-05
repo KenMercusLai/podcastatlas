@@ -5829,6 +5829,18 @@
       "url": "/topics/science/"
     }
   ],
+  "652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230": [
     {
       "key": "history",
@@ -10137,6 +10149,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "AJourneyToTheWesternIslands": [
     {
       "key": "culture",
       "label": "Culture",
@@ -48339,6 +48358,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "JournalOfATourToTheHebrides": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "JournalisticAuthorityErosion": [

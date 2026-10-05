@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9738
+wiki_total_pages: 9739
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1385,6 +1385,9 @@ wiki_pages:
   - key: "PostConquestPopulationRemoval"
     title: "Post-Conquest Population Removal / 征服后人口迁出"
     url: "/wiki/concepts/postconquestpopulationremoval/"
+  - key: "PostCullodenHighlandTransformation"
+    title: "Post-Culloden Highland Transformation"
+    url: "/wiki/concepts/postcullodenhighlandtransformation/"
   - key: "PostDefeatForceReconstitution"
     title: "Post-Defeat Force Reconstitution / 败后兵力重组"
     url: "/wiki/concepts/postdefeatforcereconstitution/"

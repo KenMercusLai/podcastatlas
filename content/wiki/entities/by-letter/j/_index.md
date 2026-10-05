@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12480
+wiki_total_pages: 12484
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1391,6 +1391,9 @@ wiki_pages:
   - key: "JeremyVineShow"
     title: "The Jeremy Vine Show"
     url: "/wiki/entities/jeremyvineshow/"
+  - key: "JournalOfATourToTheHebrides"
+    title: "The Journal of a Tour to the Hebrides"
+    url: "/wiki/entities/journalofatourtothehebrides/"
   - key: "JurassicWorldRebirth"
     title: "《侏罗纪世界：重生》 / Jurassic World: Rebirth"
     url: "/wiki/entities/jurassicworldrebirth/"
