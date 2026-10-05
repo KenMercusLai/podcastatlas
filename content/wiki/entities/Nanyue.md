@@ -1,33 +1,64 @@
 ---
 title: "南越 / Nanyue"
 type: entity
-tags: [place, polity, han, frontier]
-sources: [zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr, zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy]
-last_updated: 2026-08-23
+knowledge_schema: synthesis-v1
+tags: [place, polity, han, frontier, western-han]
+sources:
+  - zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr
+  - zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh
+  - zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i
+  - zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy
+  - zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch
+last_updated: 2026-10-05
 ---
 
-# 南越 / Nanyue
+## Overview
 
-南越 / Nanyue enters the wiki through [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] as one of the outside destinations [[ZhuJiaLu|朱家]] says [[JiBu|季布]] might flee to if [[LiuBang|刘邦]] presses him too hard. The argument pairs Nanyue with [[Xiongnu|匈奴]] to show that talented defeated officers could strengthen external or frontier rivals if the new [[WesternHanDynasty|西汉]] regime handled them vindictively.
+南越 / Nanyue is the southern polity built by [[ZhaoTuo|赵佗]] from former Qin Lingnan commanderies. Its current profile runs from an outside refuge and recognition-backed submission under [[LiuBang|刘邦]] to open resistance under [[LyuJiaNanyue|吕嘉]] and the large conquest mobilization of [[HanWudi|汉武帝]].
 
-For this source, Nanyue is a strategic outside option rather than the subject of an independent narrative. Its role is to make [[FormerEnemyLoyaltyReframing|旧敌忠义重释]] pragmatic: pardon and absorption are safer than driving capable fugitives toward powers beyond immediate Han control.
+## Current Profile
 
-[[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] turns Nanyue from possible refuge into direct policy subject. After internal early-Han consolidation, [[LiuBang|刘邦]] recognizes [[ZhaoTuo|赵佗]] as Nanyue king and sends [[LuJia|陆贾]] with seal and tally, seeking submission without immediate war.
+Hanji 170 first uses Nanyue as an outside destination that a pressured former enemy might strengthen. Hanji 184 and Hanji 185 then turn it into a direct policy subject: Zhao Tuo uses [[RenXiao|任嚣]]'s handoff, Lingnan terrain, and the collapse of Qin to consolidate [[NanhaiCommandery|南海郡]], [[GuilinCommandery|桂林郡]], and [[XiangCommandery|象郡]]. Liu Bang recognizes him as Nanyue king and sends [[LuJia|陆贾]] with seal and tally. Lu Jia combines identity pressure, Han victory, family risk, and formal title recognition to make submission preferable to war.
 
-The source presents Nanyue as a large southern polity built from the former Qin southern commandery field around [[NanhaiCommandery|南海郡]], [[GuilinCommandery|桂林郡]], and [[XiangCommandery|象郡]]. Its scale makes the polity something the Han center must incorporate, not merely a place where fugitives might run.
+That early settlement is incorporation without direct occupation. Zhao Tuo accepts Han hierarchy, tribute or gift obligations, and external constraints while retaining his local base and self-regard. Hanji 191 further qualifies the arrangement with a South Sea king notice that may represent a nominal carve-out rather than effective removal of Nanhai from Zhao Tuo's control.
 
-[[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]] completes the incorporation case. The episode traces Nanyue from [[RenXiao|任嚣]]'s Qin-side survival advice to [[ZhaoTuo|赵佗]]'s seizure of Lingnan commanderies, then shows [[LuJia|陆贾]] using Han victory, Zhao Tuo's Central Plains origin, family risk, and formal kingship recognition to make submission preferable to war.
+Hanji 352-2 adds the later breakdown. [[HanQianqiuWesternHan|韩千秋]]'s force initially advances but is annihilated near Panyu by Lü Jia's side. The returned tallies, professed apology, and fortified frontier fail to prevent escalation: Wudi supports the casualties' families, honors heirs, mobilizes a reported ten-wan-person force, and selects [[LuBodeWesternHan|路博德]] and [[YangPuWesternHan|杨仆]]. Nanyue therefore moves in the wiki from recognized frontier autonomy to contested sovereignty and planned conquest, without this episode itself supplying the final campaign outcome.
 
-The source therefore treats Nanyue as a frontier polity that can be placed inside Han order without direct occupation. Its submission is real enough to include title acceptance, tribute/gifts, and obedience to Han constraints, but it does not erase Zhao Tuo's local base or self-confidence. That makes Nanyue a central case for [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]] rather than a simple conquered commandery.
+## Key Characteristics
 
-[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] qualifies the recognition settlement by adding a later South Sea king notice. Because [[NanhaiCommandery|南海郡]] had just been treated as part of Zhao Tuo's three-commandery Nanyue base, the host reads Liu Bang's South Sea title as possibly a nominal carve-out rather than immediate effective Han control over Nanhai.
+- Southern polity formed from former Qin commandery territory and difficult Lingnan routes.
+- Early Han frontier order incorporated through kingship recognition and deterrent diplomacy rather than immediate occupation.
+- Local regime retaining meaningful autonomy and self-confidence after formal submission.
+- Political field whose nominal borders remain uncertain in the later South Sea kingship notice.
+- Later resistance theater where a small Han advance is destroyed and a much larger conquest force is mobilized.
+- Strategic environment shaped by terrain, disease, distance, naval logistics, and divided command requirements.
 
-## Connections
-- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[LiuBang|刘邦]], [[ZhaoTuo|赵佗]], and [[NanhaiCommandery|南海郡]] - South Sea king note that complicates the prior Nanyue recognition map.
-- [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]], [[ZhaoTuo|赵佗]], [[LuJia|陆贾]], [[LiuBang|刘邦]], and [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]] - completed recognition-backed submission.
-- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] - recognition mission setup.
-- [[NanhaiCommandery|南海郡]], [[GuilinCommandery|桂林郡]], [[XiangCommandery|象郡]], and [[Baiyue|百越]] - southern commandery and frontier field behind Nanyue's scale.
-- [[RenXiao|任嚣]] - Qin Nanhai handoff figure whose advice helps Zhao Tuo form the polity.
-- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] - source case.
-- [[JiBu|季布]], [[ZhuJiaLu|朱家]], and [[LiuBang|刘邦]] - persuasion argument that names Nanyue as a possible refuge.
-- [[Xiongnu|匈奴]] and [[FormerEnemyLoyaltyReframing|旧敌忠义重释]] - outside threat comparison behind absorbing a former enemy.
+## Evidence
+
+- Outside-option role: [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] names Nanyue beside Xiongnu as a possible destination for capable former enemies driven out by Liu Bang.
+- Recognition setup: [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] says Liu Bang recognizes Zhao Tuo and sends Lu Jia to seek submission before war.
+- Polity formation and submission: [[zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh|Hanji 185]] traces Ren Xiao's handoff, Zhao Tuo's consolidation, and Lu Jia's recognition-backed coercive diplomacy.
+- Nominal-boundary qualification: [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] presents the South Sea kingship as a possible paper carve-out whose practical control is unclear.
+- Resistance and escalation: [[zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch|Hanji 352-2]] says Lü Jia destroys Han Qianqiu's force, fortifies the border, and triggers Wudi's large mobilization.
+- Command selection: [[zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch|Hanji 352-2]] names Lu Bode and Yang Pu as the commanders chosen after earlier southern failures are reviewed.
+
+## Qualifications
+
+The sources describe different moments and should not be collapsed into one static relationship. Liu Bang-era recognition does not prove permanent Han control, while Hanji 352-2's later rebellion frame does not erase the earlier settlement's temporary reality. The South Sea kingship remains source-scoped and possibly nominal. Hanji 352-2 is a short Han-centered episode: it does not reconstruct Nanyue's internal politics, Lü Jia's reasons, the final conquest, or local perspectives, and its army sizes, distances, and earlier Qin/Lü-period comparisons remain episode-attributed.
+
+## What Changed
+
+- Migrated Nanyue to the synthesis-first schema from its complete preserved five-source inventory.
+- Extended the profile from early recognition-backed autonomy to later resistance and planned conquest under Han Wudi.
+- Preserved the temporal distinction between formal submission, uncertain practical control, and later military rupture.
+
+## Relationships
+
+- [[ZhaoTuo|赵佗]] - founder and recognized early ruler of the polity.
+- [[LuJia|陆贾]] - Han envoy whose recognition-backed mission produces early submission.
+- [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]] - mechanism of the early Han settlement.
+- [[LyuJiaNanyue|吕嘉]] - later resistance leader whose actions precipitate the conquest mobilization.
+- [[HanQianqiuWesternHan|韩千秋]] - commander of the destroyed initial Han force.
+- [[LuBodeWesternHan|路博德]] - Fubo general selected for the later campaign.
+- [[YangPuWesternHan|杨仆]] - tower-ship general selected alongside Lu Bode.
+- [[Baiyue|百越]] - broader southern historical and geographic field used to explain the campaign's difficulty.

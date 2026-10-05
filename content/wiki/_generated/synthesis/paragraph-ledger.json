@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "42977e643c7f46681a2bfdbd78b01cc04902b2e747e70745f01a765d4fcfa4c0",
       "3376025cac4c5300d021b3316518ad84e963fd700c97cdd33842d6267bce9b62",
       "3aa71b118c2a41090e9e53e86e342bfd093bd5fe1f55a0e3f9c13be582cc34dd",
       "ad09ba789281afb51502b7a10fd1709572d10ff6bc6decf2f3eb859cbf0a445c",
@@ -792,11 +793,33 @@
       "30dab5d9a3dbe5a1852603c018045e5063833f4e7647d6399d3386f189f53928",
       "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61"
     ],
-    "paragraph_count": 790
+    "paragraph_count": 791
   },
-  "overview_commit": "c0a64442155246e1fde77e71059a9f72a7e84b9a",
-  "overview_digest": "ef662f81b9fdc3f82bca02b2a69432976036754988ac22f696c48aa1add6fa3a",
+  "overview_commit": "ca50024ec11df75fb5a1a65f71c31dc1c524c066",
+  "overview_digest": "a672c748fe599b988b54e0543bd648a5f1031ec587bedb286a7987eb0a5c0502",
   "paragraphs": [
+    {
+      "id": "42977e643c7f46681a2bfdbd78b01cc04902b2e747e70745f01a765d4fcfa4c0",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch|《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] short episode opening the final Han-[[Nanyue|南越]] military escalation. It adds [[HanQianqiuWesternHan|韩千秋]], [[LyuJiaNanyue|吕嘉]], and [[FallenVanguardHeirReward|阵亡先锋遗属封赏]], while extending [[HanYannianWesternHan|韩延年]], [[LuBodeWesternHan|路博德]], [[YangPuWesternHan|杨仆]], and Nanyue. Its core synthesis is that Han Qianqiu's annihilation does not become fictitious victory: [[HanWudi|汉武帝]] separates failed outcome from vanguard courage, supports casualty families, rewards heirs, and then scales the response into a reported ten-wan-person expedition under Lu Bode and Yang Pu. No settled contradiction is recorded. Han Yannian's continuous identity is plausible but incompletely narrated; the 樛罗／樛广德 forms, troop and distance figures, earlier southern-campaign comparisons, imperial motive, and later route and outcome remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "FallenVanguardHeirReward",
+        "HanQianqiuWesternHan",
+        "HanWudi",
+        "HanYannianWesternHan",
+        "LuBodeWesternHan",
+        "LyuJiaNanyue",
+        "Nanyue",
+        "RuiqiJiangtouZizhiTongjian",
+        "YangPuWesternHan",
+        "zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch"
+      ]
+    },
     {
       "id": "3376025cac4c5300d021b3316518ad84e963fd700c97cdd33842d6267bce9b62",
       "primary_topic": "ai-and-technology",

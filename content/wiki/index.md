@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？](sources/zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch.md) — 韩千秋军在番禺附近覆灭后，汉武帝以抚恤与封赏遗孤肯定先锋之勇，并征调十万军、选路博德和杨仆准备征服南越。
 - [654. The Ku Klux Klan: The Rise of Evil (Part 1)](sources/654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794.md) — The Rest Is History on the first Klan's Pulaski origins, fraternal hierarchy, theatrical intimidation, political turn, racial terror, and local enforcement failure during Reconstruction.
 - [How Matt Mahan Thinks He Can Save California](sources/all-in-with-chamath-jason-sacks-friedberg-how-matt-mahan-thinks-he-can-save-california-40578730.md) — All-In interview on Mahan's outcome-based California campaign across budgets, housing, homelessness, energy, insurance, pensions, healthcare, taxation, and immigration.
 - [EP 34: DeepSeek R1 vs GPT-4: The $6M Model That Changed AI Economics](sources/ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics.md) — Data Science With Sam explainer on DeepSeek R1's efficiency shock, open-weight deployment, compute-moat pressure, export controls, and enterprise data sovereignty.
@@ -3826,6 +3827,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [韩千秋 / Han Qianqiu (Western Han)](entities/HanQianqiuWesternHan.md) — 初入南越获胜、后在番禺附近全军覆没，却仍被汉武帝评价为勇敢先锋的西汉将领。
+- [吕嘉 / Lü Jia (Nanyue)](entities/LyuJiaNanyue.md) — 歼灭韩千秋军、退还汉使符节并加强边关防御，从而触发汉武帝大举南征的南越丞相。
 - [William Gannaway Brownlow](entities/WilliamGannawayBrownlow.md) — Tennessee governor who defended Republican Reconstruction and Black voting through contested state and federal enforcement.
 - [George W. Gordon](entities/GeorgeWGordon.md) — Former Confederate officer credited with codifying the first Klan's ranks and anti-Reconstruction membership commitments.
 - [Matt Mahan](entities/MattMahan.md) — San Jose mayor and California gubernatorial candidate advocating outcome-based budgeting, housing supply, basic services, and pragmatic Democratic reform.
@@ -3864,7 +3867,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卫山 / Wei Shan (Western Han)](entities/WeiShanWesternHan.md) — 在汉军受挫后促成卫右渠请降，却因太子部众缴械争议使渡河失败、返朝后被诛的西汉使者。
 - [公孙遂 / Gongsun Sui (Western Han)](entities/GongsunSuiWesternHan.md) — 奉汉武帝临机处置朝鲜前线矛盾、拘捕杨仆并合军，奏报后反遭诛杀的帝国特使。
 - [荀彘 / Xun Zhi (Western Han)](entities/XunZhiWesternHan.md) — 征卫氏朝鲜的左将军，合并杨仆军后完成进攻，却因争功和指挥冲突在战后被诛。
-- [杨仆 / Yang Pu (Western Han)](entities/YangPuWesternHan.md) — 从南越功高受责、东越再用与函谷关东迁建议，到朝鲜战场败退、议降、被捕和赎死为民的楼船将军。
+- [杨仆 / Yang Pu (Western Han)](entities/YangPuWesternHan.md) — 从受命征南越、功高受责、东越再用与函谷关东迁建议，到朝鲜战场败退、议降、被捕和赎死为民的楼船将军。
 - [卫右渠 / King Ugeo of Wiman Joseon](entities/UgeoWimanJoseon.md) — 卫氏朝鲜末代君主，在汉军合军急攻和内部倒戈中被尼谿相参派人杀死。
 - [卫氏朝鲜 / Wiman Joseon](entities/WimanJoseon.md) — 在王险城围攻、统帅分裂、内部投降与卫右渠之死后被西汉征服的区域政权。
 - [卫满 / Wiman](entities/WimanJoseonFounder.md) — 从燕地流亡后聚合难民与当地势力、获汉朝外臣承认并扩张卫氏朝鲜的建国者。
@@ -3896,7 +3899,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卫律 / Wei Lü (Western Han-Xiongnu)](entities/WeiLuWesternHan.md) — 由汉使转入匈奴权力体系的中介，既救治苏武又以处决、连坐和剑威逼迫汉使投降。
 - [赵弟 / Zhao Di (Western Han)](entities/ZhaoDiWesternHan.md) — 上邽骑士，在郁成王押送途中率先采取不可逆行动，并被节目用作决断与正确性必须区分的案例。
 - [郁成 / Yucheng (Western Han-era)](entities/YuchengWesternHan.md) — 大宛远征支线中的西域小国，击败汉军偏师后遭上官桀进攻，其国王逃入康居又被交出。
-- [韩延年 / Han Yannian (Western Han)](entities/HanYannianWesternHan.md) — 李陵军前锋指挥者，军情泄露后与李陵夜间突围并在匈奴追击中战死。
+- [韩延年 / Han Yannian (Western Han)](entities/HanYannianWesternHan.md) — 韩千秋之子、成安侯，后来作为李陵军前锋指挥者在匈奴追击中战死；两期节目未补足其完整生涯衔接。
 - [管敢 / Guan Gan (Western Han)](entities/GuanGanWesternHan.md) — 因受辱叛逃并向匈奴泄露李陵无援、箭尽、前锋编组与旗号的军侯。
 - [陈步乐 / Chen Bule (Western Han)](entities/ChenBuleWesternHan.md) — 奉李陵命将沿途山川地图与军情送回长安、继而获汉武帝任为郎官的骑兵信使。
 - [Ku Klux Klan](entities/KuKluxKlan.md) — U.S. white-supremacist and nativist movement whose second incarnation combined mass social organization, violence, and electoral power.
@@ -5783,7 +5786,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏武 / Su Wu (Western Han)](entities/SuWuWesternHan.md) — Western Han chief envoy whose mission crisis, two suicide attempts, starvation, North Sea exile, staff-holding ritual, mourning, and return form one loyalty arc.
 - [李广 / Li Guang (Western Han general)](entities/LiGuangHanGeneral.md) — Famous Western Han general whose reputation and martial traits become Li Ling's inherited model and identity burden.
 - [李陵 / Li Ling (Western Han)](entities/LiLingWesternHan.md) — Former Han officer whose volunteer infantry plan, failed support, resilient battle, surrender, family destruction, and Su Wu encounter form an expanding tragedy.
-- [路博德 / Lu Bode (Western Han)](entities/LuBodeWesternHan.md) — Western Han commander whose support-role resistance and seasonal-delay memorial are misattributed to Li Ling before their missions diverge.
+- [路博德 / Lu Bode (Western Han)](entities/LuBodeWesternHan.md) — 从受命与杨仆共征南越，到居延设防、会师李广利及与李陵接应部署分离的西汉将领。
 - [韩说 / Han Shuo (Western Han)](entities/HanShuoWesternHan.md) — Youji General whose Wuyuan infantry force returns without achievement in Hanji 380-1's anti-Xiongnu campaign.
 - [公孙敖 / Gongsun Ao (Western Han)](entities/GongsunAoWesternHan.md) — Repeatedly appointed Western Han general whose failed Li Ling search, consequential report, recurring convictions, and final destruction form Hanji 380-2's second tragedy.
 - [李绪 / Li Xu (Western Han)](entities/LiXuWesternHan.md) — Surrendered officer identified as the actual Xiongnu trainer behind the accusation placed on Li Ling and later killed in Li Ling's retaliation.
@@ -8902,7 +8905,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [季布 / Ji Bu](entities/JiBu.md) — Former Xiang Yu general whom Liu Bang first hunts and then pardons as a public example of former enemy loyalty.
 - [朱家 / Zhu Jia (Lu)](entities/ZhuJiaLu.md) — Lu-region rescuer and persuader who hides Ji Bu and argues for reframing former enemy service as loyalty.
 - [徐悲鸿 / Xu Beihong](entities/XuBeihong.md) — Painter used by Hanji 170 part 1 to show Tian Heng's afterlife as patriotic moral memory.
-- [南越 / Nanyue](entities/Nanyue.md) — Southern polity built by Zhao Tuo from former Qin Lingnan commanderies and drawn into Han order through Lu Jia's recognition-backed mission.
+- [南越 / Nanyue](entities/Nanyue.md) — 赵佗依托原秦岭南郡县建立、先经陆贾册封威慑纳入汉朝秩序，后在吕嘉抵抗下走向汉武帝大举征服的南方政权。
 - [Zhang Ao](entities/ZhangAo.md) — Zhao king named in the accession petition urging Liu Bang to accept the imperial title.
 - [Shusun Tong](entities/ShusunTong.md) — Scholar-official who prepares Liu Bang's accession ritual and later trains officials in practical court hierarchy.
 - [Lu County (Chu-Han)](entities/LuCountyChuHan.md) — Chu-loyal county whose surrender and Xiang Yu burial frame Liu Bang's postwar pacification.
@@ -16299,6 +16302,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [阵亡先锋遗属封赏 / Fallen Vanguard Heir Reward](concepts/FallenVanguardHeirReward.md) — 在战役失败后仍按先锋勇气抚恤阵亡者家庭、封赏其后人，以区分战果与牺牲并影响后续动员预期。
 - [Outcome-Based Government Accountability](concepts/OutcomeBasedGovernmentAccountability.md) — Framework connecting public goals, dashboards, audits, zero-based budgeting, and funding consequences to measurable delivery.
 - [Visceral Adiposity and Metabolic Risk](concepts/VisceralAdiposityMetabolicRisk.md) — Weight-independent framework for visceral fat, portal liver exposure, insulin resistance, menopause-related redistribution, and contextual measurement.
 - [Administrative Boundary Relocation / 行政边界迁移式扩张](concepts/AdministrativeBoundaryRelocation.md) — 通过移动关口等边界，把更多土地和人口重新定义为受直接监督的核心区。

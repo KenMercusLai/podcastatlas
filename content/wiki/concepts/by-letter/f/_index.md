@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9711
+wiki_total_pages: 9712
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1610,6 +1610,9 @@ wiki_pages:
   - key: "FrontierCommanderyRestoration"
     title: "边郡恢复治理 / Frontier Commandery Restoration"
     url: "/wiki/concepts/frontiercommanderyrestoration/"
+  - key: "FallenVanguardHeirReward"
+    title: "阵亡先锋遗属封赏 / Fallen Vanguard Heir Reward"
+    url: "/wiki/concepts/fallenvanguardheirreward/"
   - key: "FoodClassificationRegulatoryConflict"
     title: "食品分类监管冲突 / Food Classification Regulatory Conflict"
     url: "/wiki/concepts/foodclassificationregulatoryconflict/"

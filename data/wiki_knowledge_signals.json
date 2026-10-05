@@ -73810,6 +73810,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/fallofsaigon/"
     },
+    "FallenVanguardHeirReward": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？ [li16pfjb6P0OWYS5HtEcscFoMHCh].md",
+          "key": "zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/fallenvanguardheirreward/"
+    },
     "FalseReinforcementDeception": {
       "episode_count": 1,
       "show_count": 1,
@@ -95141,6 +95157,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/hanpingdi/"
     },
+    "HanQianqiuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？ [li16pfjb6P0OWYS5HtEcscFoMHCh].md",
+          "key": "zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/hanqianqiuwesternhan/"
+    },
     "HanRestorationPublicSentiment": {
       "episode_count": 1,
       "show_count": 1,
@@ -95658,9 +95690,9 @@
       "url": "/wiki/entities/hanyanwesternhan/"
     },
     "HanYannianWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！ [likOHXFnNYbzG6L-q_DadKJEuJRi].md",
@@ -95668,9 +95700,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》377-2｜以一敌十！战力爆表的杀神李陵！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-377-2-yi-yi-di-shi-zhanli-baobiao-de-shashen-liling-likohxfnnybzg6l-q_dadkjeujri/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？ [li16pfjb6P0OWYS5HtEcscFoMHCh].md",
+          "key": "zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/hanyannianwesternhan/"
     },
     "HanYanshouWesternHan": {
@@ -136635,9 +136674,9 @@
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
     },
     "LuBodeWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -136659,6 +136698,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》374-1｜汉武帝为何宁愿自损八千，也不愿放过大宛国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-374-1-hanwudi-weihe-ningyuan-zisun-baqian-ye-buyuan-fangguo-dayuanguo-lqlfjifmkxgmlit1mmgxjg4oornh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？ [li16pfjb6P0OWYS5HtEcscFoMHCh].md",
+          "key": "zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch/"
         }
       ],
       "updated": "2026-10-05",
@@ -138783,6 +138829,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/lyudai/"
+    },
+    "LyuJiaNanyue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？ [li16pfjb6P0OWYS5HtEcscFoMHCh].md",
+          "key": "zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/lyujiananyue/"
     },
     "LyuKuangLateHan": {
       "episode_count": 1,
@@ -153630,6 +153692,50 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/nansunshi/"
+    },
+    "Nanyue": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴 [ljaqjcu5W9JMfB-4hCO5pS1irVWR].md",
+          "key": "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土 [lps0moshDfVOSNYHtdhrKdVsWIBH].md",
+          "key": "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2） [liEbzrDrvo1OkoNpdjvrJATUwx9i].md",
+          "key": "zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1） [lpiOQ8iZiTbA7uHBdYbP7i03DjDy].md",
+          "key": "zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？ [li16pfjb6P0OWYS5HtEcscFoMHCh].md",
+          "key": "zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/nanyue/"
     },
     "NapoleonBonaparte": {
       "episode_count": 7,
@@ -238082,9 +238188,9 @@
       "url": "/wiki/entities/yanglistandup/"
     },
     "YangPuWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》366-2｜汉武帝狠心斩杀公孙遂 [ls1iZJhow_J4ubgMM0LM8ruaUrOx].md",
@@ -238113,6 +238219,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》356-2｜历史上东越王这样死去多憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-356-2-lishishang-dongyuewang-zheyang-si-qu-duo-biequ-lhwrrqtaejqcradjo-2ipvslml5k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？ [li16pfjb6P0OWYS5HtEcscFoMHCh].md",
+          "key": "zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch/"
         }
       ],
       "updated": "2026-10-05",
