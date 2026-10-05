@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋](sources/zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p.md) — 卜式请战南越却无人响应，随后106名列侯因酎金不合格失爵、赵周下狱自杀；节目把礼制问责解释为对贵族拒绝共担战事的政治清算。
 - [《资治通鉴·汉纪》355｜古人教你别耍心机，不信你看！](sources/zizhi-tongjian-hanji-355-guren-jiao-ni-bie-shua-xinji-buxin-ni-kan-lthxbtmcl8mfpgk2bnb-6pmolgwc.md) — 余善请兵助汉却停在揭阳、暗通南越，番禺失守后其骑墙姿态暴露，并由阻断汉道升级为公开反叛与自立。
 - [《资治通鉴·汉纪》354｜海南是如何纳入中国的？](sources/zizhi-tongjian-hanji-354-hainan-shi-ruhe-naru-zhongguo-de-ltrrz2rwur7-gywnon_8khwpmchf.md) — 杨仆强攻与路博德招降共同瓦解番禺防守，南越灭亡后汉朝设置九郡，并以珠崖、儋耳两郡把海南纳入郡县体系；连续有效控制仍受后续动乱与废郡史限定。
 - [《资治通鉴·汉纪》353-1｜杨仆如何当上中国首位海军司令？](sources/zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7.md) — 五路汉军会攻南越，杨仆从豫章率楼船水师、路博德从桂阳方向进军；“中国首位海军司令”被保留为基于楼船将军职能的来源限定类比。
@@ -3830,6 +3831,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [赵周 / Zhao Zhou (Western Han)](entities/ZhaoZhouWesternHan.md) — 酎金夺爵后因知列侯贡金轻而下狱自杀、并被节目置于南越动员与贵族清算背景中的西汉丞相。
+- [石庆 / Shi Qing (Western Han)](entities/ShiQingWesternHan.md) — 赵周死后由御史大夫升任丞相、在财政、刑法与文学官员分别用事时保持醇谨的西汉大臣。
 - [儋耳郡 / Dan'er Commandery](entities/DanerCommandery.md) — 西汉灭南越后在海南设置、后与珠崖一同进入高成本动乱和废置问题的古代郡级行政实体。
 - [韩千秋 / Han Qianqiu (Western Han)](entities/HanQianqiuWesternHan.md) — 初入南越获胜、后在番禺附近全军覆没，却仍被汉武帝评价为勇敢先锋的西汉将领。
 - [吕嘉 / Lü Jia (Nanyue)](entities/LyuJiaNanyue.md) — 歼灭韩千秋军、退还汉使符节并加强边关防御，从而触发汉武帝大举南征的南越丞相。
@@ -16306,6 +16309,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [酎金夺爵 / Zhoujin Title Forfeiture](concepts/ZhoujinForfeiture.md) — 以宗庙贡金重量和成色不合格为“不敬”依据削夺106名列侯爵位，并被节目解释为南越动员失败后的礼制化政治惩罚。
 - [楼船水师作战 / Tower-Ship Waterborne Warfare](concepts/TowerShipWaterborneWarfare.md) — 西汉南越战役中以大型楼船、专门水上兵力和多路会师构成的水陆协同作战分支，不等同于现代海军制度。
 - [阵亡先锋遗属封赏 / Fallen Vanguard Heir Reward](concepts/FallenVanguardHeirReward.md) — 在战役失败后仍按先锋勇气抚恤阵亡者家庭、封赏其后人，以区分战果与牺牲并影响后续动员预期。
 - [Outcome-Based Government Accountability](concepts/OutcomeBasedGovernmentAccountability.md) — Framework connecting public goals, dashboards, audits, zero-based budgeting, and funding consequences to measurable delivery.

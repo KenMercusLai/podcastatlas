@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12425
+wiki_total_pages: 12427
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2651,6 +2651,9 @@ wiki_pages:
   - key: "ShiShouxin"
     title: "石守信 / Shi Shouxin"
     url: "/wiki/entities/shishouxin/"
+  - key: "ShiQingWesternHan"
+    title: "石庆 / Shi Qing (Western Han)"
+    url: "/wiki/entities/shiqingwesternhan/"
   - key: "ShiDeWesternHan"
     title: "石德 / Shi De (Western Han)"
     url: "/wiki/entities/shidewesternhan/"

@@ -28474,9 +28474,9 @@
       "url": "/wiki/entities/buheshiyi/"
     },
     "BuShiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？ [loZ3Ly12PUdLVdRTJnGxs8f1qi6_].md",
@@ -28491,6 +28491,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》357-2｜唉，一片真心不如钱重要",
           "url": "/wiki/sources/zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋 [llzKSgz2RJCPyjTp1FxJDtmH8Q3P].md",
+          "key": "zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p/"
         }
       ],
       "updated": "2026-10-05",
@@ -64497,6 +64504,29 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/elissaepel/"
+    },
+    "EliteCrisisBurdenSharing": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》96丨毛遂自荐（4） [lqs3pj2_rEbp0uH6q7AyECpjU3hK].md",
+          "key": "zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》96丨毛遂自荐（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋 [llzKSgz2RJCPyjTp1FxJDtmH8Q3P].md",
+          "key": "zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/elitecrisisburdensharing/"
     },
     "EliteEndorsementReputationMaking": {
       "episode_count": 6,
@@ -197137,6 +197167,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/shilifen/"
     },
+    "ShiQingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋 [llzKSgz2RJCPyjTp1FxJDtmH8Q3P].md",
+          "key": "zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/shiqingwesternhan/"
+    },
     "ShiXianWesternHan": {
       "episode_count": 9,
       "show_count": 1,
@@ -244582,6 +244628,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/entities/zhaoyun/"
     },
+    "ZhaoZhouWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋 [llzKSgz2RJCPyjTp1FxJDtmH8Q3P].md",
+          "key": "zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/zhaozhouwesternhan/"
+    },
     "ZhaoZiyang": {
       "episode_count": 1,
       "show_count": 1,
@@ -246441,6 +246503,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhouzhanglatehan/"
+    },
+    "ZhoujinForfeiture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋 [llzKSgz2RJCPyjTp1FxJDtmH8Q3P].md",
+          "key": "zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》353-2｜汉武帝酎金夺爵背后的阴谋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/zhoujinforfeiture/"
     },
     "ZhuAnshiWesternHan": {
       "episode_count": 1,
