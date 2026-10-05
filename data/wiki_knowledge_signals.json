@@ -75792,9 +75792,9 @@
       "url": "/wiki/entities/fangzhilatehan/"
     },
     "FangshiAccountabilityTrap": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》135｜番外篇1 正史记载 看女相师如何改命？ [ls8LFj4pq_Ncsk7X3ER7nlB0lTKK].md",
@@ -75837,15 +75837,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》331-2｜昏君还是明君？汉武帝的愚昧一面 [Fl-a4uchKdjzCfmFS-Itb2SwgI_T].md",
+          "key": "zizhi-tongjian-hanji-331-2-hunjun-haishi-mingjun-hanwudi-de-yumei-yimian-fl-a4uchkdjzcfmfs-itb2swgi_t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》331-2｜昏君还是明君？汉武帝的愚昧一面",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-331-2-hunjun-haishi-mingjun-hanwudi-de-yumei-yimian-fl-a4uchkdjzcfmfs-itb2swgi_t/"
         }
       ],
       "updated": "2026-10-06",
       "url": "/wiki/concepts/fangshiaccountabilitytrap/"
     },
     "FangshiFraudAndAuthority": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒 [luLAivzp1xqs71NbAltR-yGpJihw].md",
@@ -75902,6 +75909,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》331-2｜昏君还是明君？汉武帝的愚昧一面 [Fl-a4uchKdjzCfmFS-Itb2SwgI_T].md",
+          "key": "zizhi-tongjian-hanji-331-2-hunjun-haishi-mingjun-hanwudi-de-yumei-yimian-fl-a4uchkdjzcfmfs-itb2swgi_t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》331-2｜昏君还是明君？汉武帝的愚昧一面",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-331-2-hunjun-haishi-mingjun-hanwudi-de-yumei-yimian-fl-a4uchkdjzcfmfs-itb2swgi_t/"
         }
       ],
       "updated": "2026-10-06",
@@ -199674,9 +199688,9 @@
       "url": "/wiki/entities/shaodangqiang/"
     },
     "ShaowengWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？ [lvn0xka_dxL88qO5IroSEKs852hA].md",
@@ -199684,6 +199698,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》331-2｜昏君还是明君？汉武帝的愚昧一面 [Fl-a4uchKdjzCfmFS-Itb2SwgI_T].md",
+          "key": "zizhi-tongjian-hanji-331-2-hunjun-haishi-mingjun-hanwudi-de-yumei-yimian-fl-a4uchkdjzcfmfs-itb2swgi_t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》331-2｜昏君还是明君？汉武帝的愚昧一面",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-331-2-hunjun-haishi-mingjun-hanwudi-de-yumei-yimian-fl-a4uchkdjzcfmfs-itb2swgi_t/"
         }
       ],
       "updated": "2026-10-06",

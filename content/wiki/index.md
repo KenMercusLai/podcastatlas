@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？](sources/zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha.md) — 少翁以隔幕招魂、文成将军封号和求仙工程取得汉武帝信任，后以牛腹帛书续骗局，却因字迹暴露而被处死。
+- [《资治通鉴·汉纪》331-2｜昏君还是明君？汉武帝的愚昧一面](sources/zizhi-tongjian-hanji-331-2-hunjun-haishi-mingjun-hanwudi-de-yumei-yimian-fl-a4uchkdjzcfmfs-itb2swgi_t.md) — 少翁死后被传在关东现身、开棺又不见尸体，汉武帝遂把疾病归因于神仙怪罪，并将随后病愈理解为上郡巫师作法有效。
 - [《资治通鉴·汉纪》331-3｜古人竟然用花椒自杀？](sources/zizhi-tongjian-hanji-331-3-guren-jingran-yong-huajiao-zisha-lohtg2tifzlc63cxkcjkekoyk9w3.md) — 以高延宗“以椒塞口”和李贤备椒死谏为例，连接花椒的礼仪、吉祥、医药与政治死亡叙事，同时保留剂量、机制和史料核验边界。
 - [《资治通鉴·汉纪》331-4｜吃花椒能自杀？别傻了！](sources/zizhi-tongjian-hanji-331-4-chi-huajiao-neng-zisha-bie-sha-le-lhto8ydkeetl8sjwoxyxkkehi66e.md) — 以史书“椒杀”、闭口椒记载与日常食用经验相互校验，强调毒性判断必须区分品种、形态、制法、暴露途径、剂量和证据质量。
 - [《资治通鉴·汉纪》332-1｜古代最高危职业之一，居然有TA](sources/zizhi-tongjian-hanji-332-1-gudai-zuigaowei-zhiye-zhiyi-juran-you-ta-lk6luhbh37m9xnachwjp9zbdmcnu.md) — 李蔡由文帝侍从、军功封侯走到武帝朝丞相；节目据此提出强势君主下丞相既须顺从又须处理战争、财政与朝廷协调的双重约束。
@@ -3886,7 +3887,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [高延宗 / Gao Yanzong (Northern Qi)](entities/GaoYanzongNorthernQi.md) — 北齐宗室与短暂称帝者，节目称其受俘受辱后“以椒塞口而死”，死因机制仍属待核史料叙事。
-- [少翁 / Shaoweng (Western Han)](entities/ShaowengWesternHan.md) — 汉武帝朝方士，以隔幕招魂获宠，又因牛腹帛书造假暴露并成为栾大后来议价时援引的前例。
+- [少翁 / Shaoweng (Western Han)](entities/ShaowengWesternHan.md) — 汉武帝朝方士，以隔幕招魂获宠、因牛腹帛书造假暴露，又因所谓关东现身与空棺被汉武帝重新解释为已成仙。
 - [《带着花椒去上朝：古杀十九式》](entities/DaizheHuajiaoQuShangchao.md) — 汉纪331-4引用的古代杀人方式通俗史著作，其“椒杀”考证在当前证据中仍需回到原书与底层史料核验。
 - [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 历经文、景、武三朝并由军功封侯走到丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
 - [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 经历罢免与宾客离散后被重新起用，以清名治理淮阳并直言预警张汤、最终卒于任上的西汉直臣。
@@ -20531,7 +20532,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [秦代坑儒事件 / Qin Kengru Incident](concepts/QinKengruIncident.md) — Qinji 125-2 frame for the 212 BCE punishment case following fangshi flight and criticism, kept separate from Qin's book-burning policy.
 - [Imperial Construction Overload / 帝国工程过载](concepts/ImperialConstructionOverload.md) — Qinji 125-1 pattern where overlapping imperial mega-projects show state capacity while straining labor, succession timing, and social stability.
 - [Imperial Itinerary Secrecy / 帝王行踪保密](concepts/ImperialItinerarySecrecy.md) — Pattern where immortal-seeking advice turns the emperor's residence and movement into a lethal information-control system.
-- [Fangshi Accountability Trap / 方士问责陷阱](concepts/FangshiAccountabilityTrap.md) — Late-stage risk where fangshi promises gain influence but become dangerous when immortal results never arrive.
+- [Fangshi Accountability Trap / 方士问责陷阱](concepts/FangshiAccountabilityTrap.md) — Court-fangshi delivery risk in which nondelivery can trigger punishment, while later ambiguous evidence may turn that punishment into patron regret and bargaining precedent.
 - [Renewed Mandate Ritual Reversal / 再受命改制合法性反噬](concepts/RenewedMandateRitualReversal.md) — Pattern where a ruler tries to repair sacred legitimacy through a public renewed-mandate reset, then weakens authority when the ritual promise fails and is revoked.
 - [Fangshi Power Redistribution / 方士话语推动权力再分配](concepts/FangshiPowerRedistribution.md) — Pattern where fangshi claims about Heaven or omens shift from ritual advice into arguments for replacing officials or reallocating governing authority.
 - [秦代焚书令 / Qin Book-Burning Policy](concepts/QinBookBurningPolicy.md) — Qinji 124 frame for the 213 BCE policy targeting private histories and classics while leaving official and practical exceptions.
@@ -22363,7 +22364,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yin-Yang Five-Phases Political Theory / 阴阳五行政治理论](concepts/YinYangFivePhasesPoliticalTheory.md) — Cosmological classification system that joins natural categories, historical cycles, dynastic legitimacy, and claimant self-authorization.
 - [Chicken-Bone Divination / 鸡骨占卜](concepts/ChickenBoneDivination.md) — Ritual system joining sacrifice, prepared bone-and-bamboo patterns, specialist interpretation, and textual transmission.
 - [Immortality Quest Politics / 求仙政治](concepts/ImmortalityQuestPolitics.md) — Pattern where imperial mortality anxiety and unverifiable sacred access turn into maritime search, architecture, patronage, secrecy, and coercion.
-- [Fangshi Fraud And Authority / 方士骗术与权威](concepts/FangshiFraudAndAuthority.md) — Specialist-authority pattern where hidden-cause claims, props, staging, and failure reinterpretation can become predatory extraction.
+- [Fangshi Fraud And Authority / 方士骗术与权威](concepts/FangshiFraudAndAuthority.md) — Specialist-authority pattern where hidden-cause claims, props, staging, illness attribution, and failure reinterpretation can sustain or reopen influence.
 - [Wugu Political Panic / 巫蛊政治恐慌](concepts/WuguPoliticalPanic.md) — Qin-Han and Eastern Han curse-accusation pattern where hidden ritual suspicion, staged anomaly, illness, denunciation, torture, palace rivalry, and succession fear produce state violence.
 - [Fangshu Systematization / 方术系统化](concepts/FangshuSystematization.md) — Process by which omens, immortality arts, healing, talismans, alchemy, divination, and fengshui become textual and religious systems.
 - [Chinese Astrological Politics / 中国星占政治](concepts/ChineseAstrologicalPolitics.md) — Use of celestial phenomena, planetary movement, and sky-earth correspondences as political evidence about rulers, ministers, war, legitimacy, and state conduct.

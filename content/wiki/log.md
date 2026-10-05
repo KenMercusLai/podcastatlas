@@ -30563,3 +30563,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》331-2｜昏君还是明君？汉武帝的愚昧一面
+
+Added source `zizhi-tongjian-hanji-331-2-hunjun-haishi-mingjun-hanwudi-de-yumei-yimian-fl-a4uchkdjzcfmfs-itb2swgi_t`; and resynthesized [[ShaowengWesternHan|少翁]], [[FangshiFraudAndAuthority|方士骗术与权威]], and [[FangshiAccountabilityTrap|方士问责陷阱]] from their complete preserved evidence inventories. Core synthesis: the alleged Guandong sighting and empty grave let an ill [[HanWudi|汉武帝]] reinterpret Shaoweng's execution as mistaken killing, while recovery after another shaman's rite reinforces the wider supernatural premise and creates the regret later used by [[LuanDaWesternHan|栾大]] in bargaining. No settled contradiction was adopted. Shaoweng's survival, the grave's custody and contents, divine illness causation, the unnamed shaman's powers, medical efficacy, and the 顶湖宫、甘泉宫、寿宫 details remain source-scoped; temporal sequence is not treated as medical causation. Broad Han Wudi and show pages were read for context but not reopened because the bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,821 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

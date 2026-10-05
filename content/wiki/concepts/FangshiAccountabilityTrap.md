@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa
   - zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc
   - zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha
+  - zizhi-tongjian-hanji-331-2-hunjun-haishi-mingjun-hanwudi-de-yumei-yimian-fl-a4uchkdjzcfmfs-itb2swgi_t
 last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
@@ -21,7 +22,7 @@ Fangshi accountability trap / 方士问责陷阱 is the risk created when a spec
 
 The Qin sources show two avoidance and spillover paths. [[LuSheng|卢生]] and [[HouShengFangshi|侯生]] flee after immortal promises remain unmet, but departure and criticism redirect [[QinShiHuang|秦始皇]]'s anger into interrogation, mutual accusation, and the [[QinKengruIncident|坑儒 incident]]. [[XuFuPhysiognomist|许负]] supplies a pre-entry variant: the episode has her feign illness because giving a dangerous fate judgment to a ruler could make court access lethal before patronage even begins.
 
-Western Han court memory links one specialist's punishment to the next specialist's risk strategy. [[ShaowengWesternHan|少翁]] first converts a screened Wang夫人 apparition into rank and sacred construction; when divine nonarrival threatens confidence, he allegedly plants a written text in a cow. Recognizable handwriting turns the compensating miracle into a human trace, and the episode ends in confession, execution, and a face-saving public cover story.
+Western Han court memory links one specialist's punishment to the next specialist's risk strategy. [[ShaowengWesternHan|少翁]] first converts a screened Wang夫人 apparition into rank and sacred construction; when divine nonarrival threatens confidence, he allegedly plants a written text in a cow. Recognizable handwriting turns the compensating miracle into a human trace, and Hanji 331-1 ends in confession, execution, and a face-saving public cover story. Hanji 331-2 then reopens the cycle: an alleged sighting and empty grave make the ill Wudi regret the execution and accept another ritual healer. Punishment therefore creates deterrence for claimants but need not settle the patron's underlying premise; uncontrolled later evidence can transform the punished predecessor into proof of the supernatural.
 
 The Luan Da sources then add pre-entry negotiation and a second direct closure. In Hanji 344-1, [[LuanDaWesternHan|栾大]] uses [[HanWudi|汉武帝]]'s regret over killing Shaoweng to argue that miraculous delivery requires time and that premature punishment will silence future specialists. He therefore seeks elevated status and protective intimacy before accepting the obligation, while “斗棋” supplies enough visible proof to win trust. Hanji 344-2 shows the limit of that protection: rank, wealth, seals, and marriage to [[WeiZhangPrincessWesternHan|卫长公主]] raise delivery pressure, and surveillance turns a claimed meeting with his teacher from unverifiable delay into a contradicted report. Punishment then spreads to [[DingYiWesternHan|丁义]], the recommending intermediary.
 
@@ -30,7 +31,7 @@ The Luan Da sources then add pre-entry negotiation and a second direct closure. 
 - Unverifiable promises can win court access while creating a future delivery and truthfulness problem.
 - Greater patron investment raises the political cost of visible nondelivery without proving that every claimant deliberately deceived the ruler.
 - Specialists may try to manage the risk before entry by invoking a punished predecessor, demanding patience and privileged status, or demonstrating a smaller visible effect.
-- When confidence weakens, a claimant may escalate from inaccessible promises to a planted physical sign, increasing falsifiability as well as apparent proof.
+- When confidence weakens, a claimant may escalate from inaccessible promises to a planted physical sign, increasing falsifiability as well as apparent proof; later ambiguous evidence can nevertheless reverse the patron's interpretation without undoing the original trace.
 - Once engaged, specialists may delay, reinterpret failure, flee, refuse further service, or make a report that becomes independently checkable.
 - In coercive courts, failure can redirect blame beyond the claimant to recommenders, scholars, or other alleged participants.
 - Verification changes the trap: Luan Da's monitored itinerary turns sacred ambiguity into a factual contradiction that closes the room for postponement.
@@ -43,16 +44,17 @@ The Luan Da sources then add pre-entry negotiation and a second direct closure. 
 - **Protection negotiated before service:** [[zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc|Hanji 344-1]] says Luan Da invokes 少翁's death, portrays delay as necessary, and seeks honored status before accepting Wudi's demand; “斗棋” then provides the visible credibility needed to enter the patronage relationship.
 - **Direct verification and recommender liability:** [[zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa|Hanji 344-2]] joins extraordinary patronage, repeated nondelivery, monitored travel, a contradicted teacher-meeting claim, Luan Da's execution, and Ding Yi's beheading.
 - **Predecessor failure and trace-based exposure:** [[zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha|Hanji 331-1]] joins screened apparition, title and construction patronage, divine nonarrival, an ox-belly silk text, recognizable handwriting, confession, execution, and a reported cover story.
+- **Punishment reinterpreted as mistaken disbelief:** [[zizhi-tongjian-hanji-331-2-hunjun-haishi-mingjun-hanwudi-de-yumei-yimian-fl-a4uchkdjzcfmfs-itb2swgi_t|Hanji 331-2]] says Wudi hears that Shaoweng is alive, finds an allegedly empty grave, attributes illness to divine anger, and accepts another shaman before recovering. This supplies the regret later used in Luan Da's negotiation but does not verify survival, spirit causation, or ritual efficacy.
 
 ## Counterevidence & Qualifications
 
-The evidence consists of compact podcast retellings rather than a comparative legal or primary-source dossier. It does not prove that every fangshi knowingly committed fraud, that patronage mechanically causes execution, or that Qin and Han punishment systems were identical. Qinji 125-2 leaves the identity of the punished population uncertain; Qinji 135 is legend-colored and incomplete; Hanji 331-1 does not establish the apparition mechanism, handwriting chain, interrogation, or cover story; Hanji 344-1 does not establish the mechanics of “斗棋,” exact dialogue, or whether Luan Da consciously designed a liability strategy; Hanji 344-2 does not supply the full surveillance record, trial, legal standard, or Ding Yi's knowledge. A recognizable hand or contradicted itinerary supports a false-report conclusion more directly than it settles every prior supernatural claim.
+The evidence consists of compact podcast retellings rather than a comparative legal or primary-source dossier. It does not prove that every fangshi knowingly committed fraud, that patronage mechanically causes execution, or that Qin and Han punishment systems were identical. Qinji 125-2 leaves the identity of the punished population uncertain; Qinji 135 is legend-colored and incomplete; Hanji 331-1 does not establish the apparition mechanism, handwriting chain, interrogation, or cover story; Hanji 331-2 does not establish the sighting, grave custody, reason for the body's absence, illness cause, or treatment effect; Hanji 344-1 does not establish the mechanics of “斗棋,” exact dialogue, or whether Luan Da consciously designed a liability strategy; Hanji 344-2 does not supply the full surveillance record, trial, legal standard, or Ding Yi's knowledge. A recognizable hand or contradicted itinerary supports a false-report conclusion more directly than it settles every prior supernatural claim, while a later ambiguous event does not erase that narrower evidence.
 
 ## What Changed
 
-- Added the Shaoweng event that turns a previously referenced death into a complete patronage, nondelivery, fabrication, and punishment sequence.
-- Distinguished physical-trace exposure through handwriting from monitored-itinerary exposure in the later Luan Da case.
-- Clarified that execution can produce institutional memory that later claimants use in pre-entry bargaining.
+- Added the post-execution reversal that turns Shaoweng's punishment into Wudi's regret.
+- Distinguished reopening the supernatural premise from disproving the earlier handwriting evidence.
+- Clarified how regret supplies the institutional memory Luan Da later uses in pre-entry bargaining.
 
 ## Related Concepts
 
