@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9716
+wiki_total_pages: 9719
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "PassiveInvestingGovernance"
     title: "Passive Investing Governance"
     url: "/wiki/concepts/passiveinvestinggovernance/"
+  - key: "PassiveRadiativeCoolingCoatings"
+    title: "Passive Radiative Cooling Coatings"
+    url: "/wiki/concepts/passiveradiativecoolingcoatings/"
   - key: "PassportMobilityInequality"
     title: "Passport Mobility Inequality"
     url: "/wiki/concepts/passportmobilityinequality/"

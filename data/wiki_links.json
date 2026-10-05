@@ -19323,6 +19323,10 @@
     "title": "Colonel Madan (Everest pilot)",
     "url": "/wiki/entities/colonelmadaneverestpilot/"
   },
+  "ColonialAtrocityWitnessing": {
+    "title": "Colonial Atrocity Witnessing",
+    "url": "/wiki/concepts/colonialatrocitywitnessing/"
+  },
   "ColonialCategoryAfterlife": {
     "title": "Colonial Category Afterlife / 殖民分类遗产",
     "url": "/wiki/concepts/colonialcategoryafterlife/"
@@ -20302,6 +20306,10 @@
   "ConsumptionMoralization": {
     "title": "Consumption Moralization / 消费道德化",
     "url": "/wiki/concepts/consumptionmoralization/"
+  },
+  "ConsumptionTaxWithCashTransfers": {
+    "title": "Consumption Tax With Cash Transfers",
+    "url": "/wiki/concepts/consumptiontaxwithcashtransfers/"
   },
   "ContactCenterAI": {
     "title": "Contact Center AI",
@@ -61155,6 +61163,10 @@
     "title": "Passive Investing Governance",
     "url": "/wiki/concepts/passiveinvestinggovernance/"
   },
+  "PassiveRadiativeCoolingCoatings": {
+    "title": "Passive Radiative Cooling Coatings",
+    "url": "/wiki/concepts/passiveradiativecoolingcoatings/"
+  },
   "PassportMobilityInequality": {
     "title": "Passport Mobility Inequality",
     "url": "/wiki/concepts/passportmobilityinequality/"
@@ -70539,6 +70551,10 @@
     "title": "Sahm Rule",
     "url": "/wiki/concepts/sahmrule/"
   },
+  "SaidBoutou": {
+    "title": "Saïd Boutou",
+    "url": "/wiki/entities/saidboutou/"
+  },
   "SaintColumba": {
     "title": "Saint Columba",
     "url": "/wiki/entities/saintcolumba/"
@@ -75542,6 +75558,10 @@
   "StanislasMaillard": {
     "title": "Stanislas Maillard",
     "url": "/wiki/entities/stanislasmaillard/"
+  },
+  "StanislasUta": {
+    "title": "Stanislas Uta",
+    "url": "/wiki/entities/stanislasuta/"
   },
   "StanislawLem": {
     "title": "斯坦尼斯拉夫·莱姆 / Stanislaw Lem",
@@ -81106,6 +81126,10 @@
   "TransportCorridorSeverance": {
     "title": "Transport Corridor Severance / 交通线切割",
     "url": "/wiki/concepts/transportcorridorseverance/"
+  },
+  "TransportForLondon": {
+    "title": "Transport for London",
+    "url": "/wiki/entities/transportforlondon/"
   },
   "TransportRouteBurdenRelief": {
     "title": "Transport Route Burden Relief / 贡道改线减负",
@@ -93274,6 +93298,10 @@
   "cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8": {
     "title": "Cockroaches 1, Modi 0: India’s remarkable protests",
     "url": "/wiki/sources/cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8/"
+  },
+  "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6": {
+    "title": "Coffer stop: AI may shrink tax base",
+    "url": "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6/"
   },
   "coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b": {
     "title": "Coming in Andy: Britain's prime minister-in-waiting",

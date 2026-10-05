@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12441
+wiki_total_pages: 12444
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "SayyidQutb"
     title: "Sayyid Qutb / Sayed Qutb"
     url: "/wiki/entities/sayyidqutb/"
+  - key: "SaidBoutou"
+    title: "Saïd Boutou"
+    url: "/wiki/entities/saidboutou/"
   - key: "SBMIntelligence"
     title: "SBM Intelligence"
     url: "/wiki/entities/sbmintelligence/"
@@ -1394,6 +1397,9 @@ wiki_pages:
   - key: "StanislasMaillard"
     title: "Stanislas Maillard"
     url: "/wiki/entities/stanislasmaillard/"
+  - key: "StanislasUta"
+    title: "Stanislas Uta"
+    url: "/wiki/entities/stanislasuta/"
   - key: "StanleyBaldwin"
     title: "Stanley Baldwin"
     url: "/wiki/entities/stanleybaldwin/"

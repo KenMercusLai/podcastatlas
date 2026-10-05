@@ -63018,6 +63018,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PassiveRadiativeCoolingCoatings": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PatGelsinger": [
     {
       "key": "technology",
@@ -95136,6 +95143,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b": [

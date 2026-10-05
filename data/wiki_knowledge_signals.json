@@ -3913,9 +3913,9 @@
       "url": "/wiki/concepts/aiprofessionaldatasecurity/"
     },
     "AIProfitTaxSubstitution": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
@@ -3930,9 +3930,16 @@
           "show": "Marketplace Tech",
           "title": "What might our tax system look like in the age of AI?",
           "url": "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
+        },
+        {
+          "episode_file": "9d736d6116fe084db141fce2778cebf6 [9d736d6116fe084db141fce2778cebf6.mp3？aid=6abf81fdb06169dc7218d384&chid=d556eb54-6160-4.280].md",
+          "key": "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6",
+          "show": "Economist Podcasts",
+          "title": "Coffer stop: AI may shrink tax base",
+          "url": "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/aiprofittaxsubstitution/"
     },
     "AIProfitabilityUncertainty": {
@@ -9905,9 +9912,9 @@
       "url": "/wiki/entities/alfredwetzler/"
     },
     "Algeria": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
@@ -9929,9 +9936,16 @@
           "show": "The Rest Is History",
           "title": "100. Decolonising Africa",
           "url": "/wiki/sources/100-decolonising-africa-glt2427735251/"
+        },
+        {
+          "episode_file": "9d736d6116fe084db141fce2778cebf6 [9d736d6116fe084db141fce2778cebf6.mp3？aid=6abf81fdb06169dc7218d384&chid=d556eb54-6160-4.280].md",
+          "key": "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6",
+          "show": "Economist Podcasts",
+          "title": "Coffer stop: AI may shrink tax base",
+          "url": "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/algeria/"
     },
     "AlgorithmicCreatorSelfDiscipline": {
@@ -30486,6 +30500,29 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/callingcommitmenttradeoff/"
     },
+    "CallumWilliams": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "For bucks’ sake： the rise of self-made billionaires [6a61e076562e3ad886d54c95].md",
+          "key": "for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95",
+          "show": "Economist Podcasts",
+          "title": "For bucks' sake: the rise of self-made billionaires",
+          "url": "/wiki/sources/for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95/"
+        },
+        {
+          "episode_file": "9d736d6116fe084db141fce2778cebf6 [9d736d6116fe084db141fce2778cebf6.mp3？aid=6abf81fdb06169dc7218d384&chid=d556eb54-6160-4.280].md",
+          "key": "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6",
+          "show": "Economist Podcasts",
+          "title": "Coffer stop: AI may shrink tax base",
+          "url": "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/callumwilliams/"
+    },
     "CalmAssertiveEnergy": {
       "episode_count": 1,
       "show_count": 1,
@@ -43151,6 +43188,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/colonelmadaneverestpilot/"
     },
+    "ColonialAtrocityWitnessing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9d736d6116fe084db141fce2778cebf6 [9d736d6116fe084db141fce2778cebf6.mp3？aid=6abf81fdb06169dc7218d384&chid=d556eb54-6160-4.280].md",
+          "key": "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6",
+          "show": "Economist Podcasts",
+          "title": "Coffer stop: AI may shrink tax base",
+          "url": "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/colonialatrocitywitnessing/"
+    },
     "ColonialCategoryAfterlife": {
       "episode_count": 2,
       "show_count": 2,
@@ -46229,6 +46282,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/consumptionmoralization/"
+    },
+    "ConsumptionTaxWithCashTransfers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9d736d6116fe084db141fce2778cebf6 [9d736d6116fe084db141fce2778cebf6.mp3？aid=6abf81fdb06169dc7218d384&chid=d556eb54-6160-4.280].md",
+          "key": "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6",
+          "show": "Economist Podcasts",
+          "title": "Coffer stop: AI may shrink tax base",
+          "url": "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/consumptiontaxwithcashtransfers/"
     },
     "ContactLensSafety": {
       "episode_count": 2,
@@ -125129,9 +125198,9 @@
       "url": "/wiki/concepts/laborillusion/"
     },
     "LaborTaxBaseAIErosion": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
@@ -125146,9 +125215,16 @@
           "show": "Marketplace Tech",
           "title": "What might our tax system look like in the age of AI?",
           "url": "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
+        },
+        {
+          "episode_file": "9d736d6116fe084db141fce2778cebf6 [9d736d6116fe084db141fce2778cebf6.mp3？aid=6abf81fdb06169dc7218d384&chid=d556eb54-6160-4.280].md",
+          "key": "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6",
+          "show": "Economist Podcasts",
+          "title": "Coffer stop: AI may shrink tax base",
+          "url": "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6/"
         }
       ],
-      "updated": "2026-09-15",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/labortaxbaseaierosion/"
     },
     "Lacoste": {
@@ -165966,6 +166042,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/passiveinvestinggovernance/"
     },
+    "PassiveRadiativeCoolingCoatings": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9d736d6116fe084db141fce2778cebf6 [9d736d6116fe084db141fce2778cebf6.mp3？aid=6abf81fdb06169dc7218d384&chid=d556eb54-6160-4.280].md",
+          "key": "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6",
+          "show": "Economist Podcasts",
+          "title": "Coffer stop: AI may shrink tax base",
+          "url": "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/passiveradiativecoolingcoatings/"
+    },
     "PatFarah": {
       "episode_count": 1,
       "show_count": 1,
@@ -190564,6 +190656,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/sahanajayaraman/"
     },
+    "SaidBoutou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9d736d6116fe084db141fce2778cebf6 [9d736d6116fe084db141fce2778cebf6.mp3？aid=6abf81fdb06169dc7218d384&chid=d556eb54-6160-4.280].md",
+          "key": "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6",
+          "show": "Economist Podcasts",
+          "title": "Coffer stop: AI may shrink tax base",
+          "url": "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/saidboutou/"
+    },
     "SaintColumba": {
       "episode_count": 1,
       "show_count": 1,
@@ -204684,6 +204792,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/stanislasmaillard/"
     },
+    "StanislasUta": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9d736d6116fe084db141fce2778cebf6 [9d736d6116fe084db141fce2778cebf6.mp3？aid=6abf81fdb06169dc7218d384&chid=d556eb54-6160-4.280].md",
+          "key": "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6",
+          "show": "Economist Podcasts",
+          "title": "Coffer stop: AI may shrink tax base",
+          "url": "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/stanislasuta/"
+    },
     "StanleyBaldwin": {
       "episode_count": 4,
       "show_count": 1,
@@ -218484,6 +218608,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/concepts/translationpathdependence/"
     },
+    "TransportForLondon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "9d736d6116fe084db141fce2778cebf6 [9d736d6116fe084db141fce2778cebf6.mp3？aid=6abf81fdb06169dc7218d384&chid=d556eb54-6160-4.280].md",
+          "key": "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6",
+          "show": "Economist Podcasts",
+          "title": "Coffer stop: AI may shrink tax base",
+          "url": "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/transportforlondon/"
+    },
     "TransportRouteBurdenRelief": {
       "episode_count": 1,
       "show_count": 1,
@@ -221514,6 +221654,29 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/universalrightsnationalsovereigntytension/"
+    },
+    "UniversityCollegeLondon": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Spring, then fall： a weakened Muslim Brotherhood [6a7aef1b616564bf00d9b354].md",
+          "key": "spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354",
+          "show": "Economist Podcasts",
+          "title": "Spring, then fall: a weakened Muslim Brotherhood",
+          "url": "/wiki/sources/spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354/"
+        },
+        {
+          "episode_file": "9d736d6116fe084db141fce2778cebf6 [9d736d6116fe084db141fce2778cebf6.mp3？aid=6abf81fdb06169dc7218d384&chid=d556eb54-6160-4.280].md",
+          "key": "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6",
+          "show": "Economist Podcasts",
+          "title": "Coffer stop: AI may shrink tax base",
+          "url": "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/universitycollegelondon/"
     },
     "UniversityOfCaliforniaSanFrancisco": {
       "episode_count": 2,

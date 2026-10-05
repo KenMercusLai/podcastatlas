@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Coffer stop: AI may shrink tax base](sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6.md) — Economist Podcasts episode on AI-driven labor-tax erosion, reflective passive-cooling paint, and Stanislas Uta's testimony about French torture in Algeria.
 - [《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床](sources/zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc.md) — 栾大经丁义引见，以汉武帝的求仙欲望和少翁之死为谈判筹码，再用“斗棋”表演建立可信度；标题中的公主情节未出现在所给文本中。
 - [《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？](sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa.md) — 栾大以求仙承诺换得封侯、六印与卫长公主婚姻，却在方术无验后被跟踪揭穿见师谎言并腰斩，推荐者丁义亦被处死。
 - [《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的](sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq.md) — 以赵禹的清廉、严法和拒绝请托区分原则与裁量，再以烈女的自伤、守寡和贞节牌坊引出性别化荣誉如何遮蔽生命代价。
@@ -3839,6 +3840,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [Stanislas Uta](entities/StanislasUta.md) — French reservist who protested, photographed, and later taught about torture he encountered during the Algerian War.
+- [Saïd Boutou](entities/SaidBoutou.md) — Fourteen-year-old Algerian shepherd whose torture and later portrait became part of the conflict's public memory.
+- [Transport for London](entities/TransportForLondon.md) — London transport authority connecting white bus roofs and heat complaints to real-world testing of stronger reflective coatings.
 - [栾大 / Luan Da (Western Han)](entities/LuanDaWesternHan.md) — 以求仙承诺获得封侯、六印和帝女婚姻，后因长期无验及被监控行程否定的见师报告而遭腰斩的西汉方士。
 - [卫长公主 / Princess Wei the Elder (Western Han)](entities/WeiZhangPrincessWesternHan.md) — 汉武帝与卫子夫之女，先嫁曹襄、后被用于封结栾大异常受宠地位的帝室公主。
 - [丁义 / Ding Yi (Western Han)](entities/DingYiWesternHan.md) — 向汉武帝推荐栾大并在骗局败露后被连带斩首的乐成侯。
@@ -10206,7 +10210,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mohamed Morsi](entities/MohamedMorsi.md) — Brotherhood-linked Egyptian president whose election and overthrow mark the source's clearest rise-and-reversal case.
 - [Abdel Fattah al-Sisi](entities/AbdelFattahAlSisi.md) — Egyptian coup leader presented as the strongest example of authoritarian backlash against the Brotherhood.
 - [Matt Ashby](entities/MattAshby.md) — UCL researcher whose city-crime dataset grounds the episode's Europe-America crime comparison.
-- [University College London](entities/UniversityCollegeLondon.md) — Research institution linked to Matt Ashby's comparative city-crime dataset.
+- [University College London](entities/UniversityCollegeLondon.md) — Research institution linked to comparative city-crime data and a highly reflective passive-cooling coating.
 - [Hamish Clayton](entities/HamishClayton.md) — The Intelligence correspondent reporting from Premier Padel's London tournament.
 - [Premier Padel](entities/PremierPadel.md) — Professional padel circuit used by the source to show the sport's early global-event ambitions.
 - [International Padel Federation](entities/InternationalPadelFederation.md) — Padel governing body pushing expansion in Asia, North America, and possible Olympic inclusion.
@@ -10387,7 +10391,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kimi Linear](entities/KimiLinear.md) — Smaller Kimi model/predecessor whose linear-attention and NoPE experiments informed Kimi K3's hybrid attention scale-up.
 - [Ceuta](entities/Ceuta.md) — Spanish North African enclave where imperial borderland history, Portuguese expansion memory, Moroccan claims, and EU migration politics converge.
 - [Morocco](entities/Morocco.md) — North African state tied to Gaza stabilization capacity, Ceuta border leverage, Western Sahara diplomacy, and post-independence enclave claims.
-- [Algeria](entities/Algeria.md) — Morocco rival angered by Spain's Western Sahara shift, making Ceuta part of triangular diplomacy.
+- [Algeria](entities/Algeria.md) — North African state represented through settler-colonial war, French torture testimony, Camus, Fanon, and contemporary Morocco-Spain rivalry.
 - [Western Sahara](entities/WesternSahara.md) — Disputed territory behind Spain's shift toward Morocco's autonomy plan and Algerian anger.
 - [Polisario Front](entities/PolisarioFront.md) — Western Sahara movement whose leader's 2021 Spanish medical treatment anchors the Ceuta precedent.
 - [Brahim Ghali](entities/BrahimGhali.md) — Polisario Front leader whose 2021 treatment in Spain triggered Morocco's earlier Ceuta pressure.
@@ -10644,7 +10648,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Clearbit](entities/Clearbit.md) — B2B data and lead-identification company used in the Happierleads source as the expensive reference point that motivated a cheaper workflow-specific product.
 - [Dylan Thompson](entities/DylanThompson.md) — Wired writer whose missing e-bike case grounds Marketplace Tech's discussion of AI-enabled customer-service sludge.
 - [FedEx](entities/FedEx.md) — Delivery company named in the missing e-bike case, where automated claims handling illustrates customer-service sludge.
-- [Callum Williams](entities/CallumWilliams.md) — The Intelligence participant explaining the episode's competitive versus rent-linked billionaire-wealth taxonomy.
+- [Callum Williams](entities/CallumWilliams.md) — Economist journalist analyzing billionaire-wealth legitimacy and AI-era tax-base erosion and reform.
 - [Su-Lin Wong](entities/SuLinWong.md) — The Intelligence participant analyzing Cambodia's scam compounds, sanctions, extradition pressure, and political protection.
 - [Chen Zhi](entities/ChenZhi.md) — Alleged Cambodia-linked scam boss whose sanctions, extradition, and crypto seizure anchor the episode's enforcement story.
 - [Hun Sen](entities/HunSen.md) — Cambodian political figure used by the source as the protection reference point around Chen Zhi.
@@ -16331,6 +16335,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [Consumption Tax With Cash Transfers](concepts/ConsumptionTaxWithCashTransfers.md) — Broad spending tax paired with essential-goods protection and cash support to preserve revenue without overburdening poorer households.
+- [Passive Radiative Cooling Coatings](concepts/PassiveRadiativeCoolingCoatings.md) — Highly reflective materials that reject solar energy and reduce surface heat without powered refrigeration.
+- [Colonial Atrocity Witnessing](concepts/ColonialAtrocityWitnessing.md) — Preservation and public transmission of evidence by witnesses rejecting abuses committed by their own side.
 - [贞节荣誉的性别化强制 / Gendered Chastity Honor Coercion](concepts/GenderedChastityHonorCoercion.md) — 将女性的守寡、自伤、毁容或死亡转化为贞节荣誉，因而可能遮蔽并正当化极端个人代价。
 - [名义臣服与地方实权并存 / Nominal Submission with Local Autonomy](concepts/NominalSubmissionLocalAutonomy.md) — 地方统治者接受名号、册认等象征性等级安排，却通过回避朝见与中央法令继续维持实际自主的政治结构。
 - [酎金夺爵 / Zhoujin Title Forfeiture](concepts/ZhoujinForfeiture.md) — 以宗庙贡金重量和成色不合格为“不敬”依据削夺106名列侯爵位，并被节目解释为南越动员失败后的礼制化政治惩罚。
@@ -19095,10 +19102,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Slow-Wave Sleep Restoration](concepts/SlowWaveSleepRestoration.md) — Early-night deep-sleep frame tying slow waves to growth hormone pulses, energy rebuilding, brain cleanup, circadian regularity, and qualified meal-timing context.
 - [Sleep Spindle Schema Formation](concepts/SleepSpindleSchemaFormation.md) — Stage-two/REM rhythm frame linking spindles and P-waves to hippocampal-cortical transfer, schema integration, insight, and creative association.
 - [REM Emotional Memory Separation](concepts/REMEmotionalMemorySeparation.md) — REM-sleep frame where low norepinephrine may help memories retain facts while losing overwhelming autonomic charge, with PTSD and clinical-care limits.
-- [Labor Tax Base AI Erosion](concepts/LaborTaxBaseAIErosion.md) — Public-finance risk that AI substitution reduces taxable labor income before replacement tax bases are ready.
+- [Labor Tax Base AI Erosion](concepts/LaborTaxBaseAIErosion.md) — Public-finance risk that AI shifts income away from heavily taxed workers faster than replacement tax bases develop.
 - [AI Payroll Tax Neutrality](concepts/AIPayrollTaxNeutrality.md) — Tax-design idea that payroll rules should not favor AI systems over human workers doing comparable work.
 - [Technological Innovation Local Fiscal Shock](concepts/TechnologicalInnovationLocalFiscalShock.md) — Pattern where a consumer-benefiting technology removes a local industrial job base and municipal tax revenue.
-- [AI Profit Tax Substitution](concepts/AIProfitTaxSubstitution.md) — Policy response that replaces lost labor-tax revenue by taxing corporate profits created or enlarged by AI automation.
+- [AI Profit Tax Substitution](concepts/AIProfitTaxSubstitution.md) — Policy response using ordinary, excess-profit, and realized-gain taxes to recapture AI income shifted from labor to capital.
 - [AI Profitability Uncertainty](concepts/AIProfitabilityUncertainty.md) — Risk that AI capability and investment may not translate into durable profits for companies, taxes, or public equity funds.
 - [Art After Violence Memory](concepts/ArtAfterViolenceMemory.md) — Art-memory frame for how violent rupture is preserved, processed, and reinterpreted through making and exhibition.
 - [Human Community Data Licensing](concepts/HumanCommunityDataLicensing.md) — AI data-licensing pattern where human discussion and volunteer moderation become a monetizable platform corpus.

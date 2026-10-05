@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1458
+topic_total_pages: 1459
 topic_concepts:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -1621,6 +1621,9 @@ topic_concepts:
   - key: "PassionAgainstSelfControl"
     title: "Passion Against Self-Control / 激情与自我控制"
     url: "/wiki/concepts/passionagainstselfcontrol/"
+  - key: "PassiveRadiativeCoolingCoatings"
+    title: "Passive Radiative Cooling Coatings"
+    url: "/wiki/concepts/passiveradiativecoolingcoatings/"
   - key: "PeaceParleyEntrapment"
     title: "Peace-Parley Entrapment / 和谈诱捕"
     url: "/wiki/concepts/peaceparleyentrapment/"

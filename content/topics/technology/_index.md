@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3319
+topic_total_pages: 3320
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8868,6 +8868,9 @@ topic_sources:
   - key: "claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk"
     title: "Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness"
     url: "/wiki/sources/claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk/"
+  - key: "coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6"
+    title: "Coffer stop: AI may shrink tax base"
+    url: "/wiki/sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6/"
   - key: "community-led-saas-growth-how-ninety-hit-44m-arr"
     title: "Community-Led SaaS Growth: How Ninety Hit $44M ARR"
     url: "/wiki/sources/community-led-saas-growth-how-ninety-hit-44m-arr/"

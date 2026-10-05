@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9716
+wiki_total_pages: 9719
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1532,6 +1532,9 @@ wiki_pages:
   - key: "ColonPolypRiskStratification"
     title: "Colon Polyp Risk Stratification"
     url: "/wiki/concepts/colonpolypriskstratification/"
+  - key: "ColonialAtrocityWitnessing"
+    title: "Colonial Atrocity Witnessing"
+    url: "/wiki/concepts/colonialatrocitywitnessing/"
   - key: "ColonialCategoryAfterlife"
     title: "Colonial Category Afterlife / 殖民分类遗产"
     url: "/wiki/concepts/colonialcategoryafterlife/"
@@ -2138,6 +2141,9 @@ wiki_pages:
   - key: "ConsumptionMoralization"
     title: "Consumption Moralization / 消费道德化"
     url: "/wiki/concepts/consumptionmoralization/"
+  - key: "ConsumptionTaxWithCashTransfers"
+    title: "Consumption Tax With Cash Transfers"
+    url: "/wiki/concepts/consumptiontaxwithcashtransfers/"
   - key: "ContactCenterAI"
     title: "Contact Center AI"
     url: "/wiki/concepts/contactcenterai/"
