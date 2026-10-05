@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx
   - zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la
   - zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu
+  - zizhi-tongjian-hanji-350-1-zhichang-shengcun-zhege-daoli-bixu-dong-lsobl23mkjhpn6eoif6oramxiopu
 last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
@@ -27,9 +28,11 @@ Hanji 884 shows how that proximity operates once a young or dependent ruler is i
 
 [[zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu|Hanji 350-2]] extends the mechanism from palace gatekeeping to traveling attendants and field reputation. The emperor cannot inspect everything personally, so trusted companions become delegated agents and recurring information sources. A distant governor who neglects or offends them may then face convergent negative reports. The source's “董事长秘书” analogy clarifies why an apparently subordinate role can carry major leverage, but the Beidi defense failure also prevents a simple corruption story: personalized scrutiny can expose genuine neglect even when retaliation incentives are present.
 
+[[zizhi-tongjian-hanji-350-1-zhichang-shengcun-zhege-daoli-bixu-dong-lsobl23mkjhpn6eoif6oramxiopu|Hanji 350-1]] supplies the concrete incident immediately before that generalization. When Wudi's unexpectedly large party arrives and the accompanying officials lack food, the Longxi governor kills himself. The host interprets the response as fear that trusted attendants could later shape Wudi's judgment and presents self-destruction as possible household protection. The fact of suicide makes perceived exposure politically important, but the source does not establish the governor's inner motive, an actual threat, or what happened to his family.
+
 ## Key Claims
 
-- Near-body service becomes political power when it controls who can speak to the ruler, what information recurs, and how distant actors are interpreted.
+- Near-body service becomes political power when it controls who can speak to the ruler, what information recurs, and how distant actors are interpreted; anticipated use of that channel can shape local behavior before any complaint reaches the ruler.
 - Palace proximity can supply confidential information about which insiders are willing to risk action.
 - Palace proximity can serve a ruler's emergency action when trusted insiders can act before outer court powerholders respond.
 - Eunuch power can express ruler-side demand for private service, loyalty, and controllability, not just court decay.
@@ -50,19 +53,18 @@ Hanji 884 shows how that proximity operates once a young or dependent ruler is i
 - Memorial gatekeeping: [[zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la|Hanji 600]] says Dong Xian stays frequently inside the palace and manages the route through which officials submit memorials to Aidi.
 - Performed hierarchy: [[zizhi-tongjian-hanji-600-kongzi-houdai-li-za-chule-meiguqi-de-ta-lvjlzxyhuj2gcsqny6nhx3uri8la|Hanji 600]] says Kong Guang receives the nominally peer Dong Xian with superior-style rites and Aidi rewards the response through appointments for two nephews.
 - Trusted field reporting: [[zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu|Hanji 350-2]] says the emperor's attendants combine delegated authority, personal trust, daily presence, and information gathering, giving their reports more weight than a distant governor's self-presentation.
+- Anticipatory field fear: [[zizhi-tongjian-hanji-350-1-zhichang-shengcun-zhege-daoli-bixu-dong-lsobl23mkjhpn6eoif6oramxiopu|Hanji 350-1]] records the Longxi governor's suicide after attendants go unfed; the link to feared later accusation and household protection remains the host's interpretation.
 - Convergent scrutiny: [[zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu|Hanji 350-2]] warns that multiple attendants can reinforce a negative judgment after poor treatment, while the subsequent missing-frontier-defense case shows that scrutiny may still identify a substantive failure.
 
 ## Counterevidence & Qualifications
 
-This concept does not imply that every close attendant automatically dominates policy, that formal institutions are irrelevant, or that every negative report is fabricated. Hanji 847 shows proximity as private intelligence and oath-bearing trust; Hanji 848 shows proximity helping a ruler destroy an overmighty outer-relative; Hanji 859 also shows frontier appointments moving through practical state need; and Hanji 350-2 itself pairs retaliation risk with an apparently real defense failure. Hanji 600 supports Dong Xian's palace presence, memorial role, and the observable reception test, but it does not reconstruct the complete submission procedure or prove the host's claim that Dong Xian's power literally equaled Aidi's. The narrower claim is that repeated physical access, household dependence, delegated service, or control of reporting creates a power channel that nominal office charts can underestimate, whether used for emergency action, gatekeeping, patronage, oversight, or retaliation.
+This concept does not imply that every close attendant automatically dominates policy, that formal institutions are irrelevant, or that every negative report is fabricated. Hanji 847 shows proximity as private intelligence and oath-bearing trust; Hanji 848 shows proximity helping a ruler destroy an overmighty outer-relative; Hanji 859 also shows frontier appointments moving through practical state need; and Hanji 350-2 itself pairs retaliation risk with an apparently real defense failure. Hanji 350-1 records suicide after a provisioning failure but does not prove the host's account of motive, attendant retaliation, collective punishment, or family protection. Hanji 600 supports Dong Xian's palace presence, memorial role, and the observable reception test, but it does not reconstruct the complete submission procedure or prove the host's claim that Dong Xian's power literally equaled Aidi's. The narrower claim is that repeated physical access, household dependence, delegated service, or control of reporting creates a power channel that nominal office charts can underestimate, whether used for emergency action, gatekeeping, patronage, oversight, or retaliation.
 
 ## What Changed
 
-- Added Hanji 350-2's traveling-attendant branch: delegated service and repeated trusted reports can shape a ruler's judgment of distant officials.
-- Qualified proximity power by separating biased scrutiny from the independent truth of the failure being reported.
-- Preserved the Hanji 600 branch where continual presence and memorial gatekeeping make nominal peers perform unequal hierarchy.
-- Preserved the Hanji 847-848 branch where near-body trust becomes secret recruitment and emergency coup execution.
-- Preserved the Hanji 859 and 884 branches linking ruler-side demand and daily palace access to durable political leverage.
+- Added Hanji 350-1's Longxi incident as a case of anticipatory fear before any reported complaint.
+- Qualified the new case by separating the recorded suicide from inferred motive, threat, retaliation, and household outcome.
+- Preserved Hanji 350-2's broader traveling-attendant mechanism of delegated authority and repeated trusted reports.
 
 ## Related Concepts
 

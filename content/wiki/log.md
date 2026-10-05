@@ -30155,3 +30155,11 @@ Added source `zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》350-1｜职场生存，这个道理必须懂！
+
+Added source `zizhi-tongjian-hanji-350-1-zhichang-shengcun-zhege-daoli-bixu-dong-lsobl23mkjhpn6eoif6oramxiopu`; resynthesized [[GongsunQingFangshi|公孙卿]], [[ImmortalityQuestPolitics|求仙政治]], and [[PalaceProximityPower|宫廷近身权力]] from their complete preserved evidence inventories. Core synthesis: Gongsun Qing converts a ruler-specific cauldron omen and Huangdi ascent narrative into appointment and a divine-search mission, while the Longxi governor's suicide after attendants go unfed supplies the concrete incident behind Hanji 350-2's trusted-attendant power analysis. No settled contradiction was adopted. The bamboo text, omen, ascent, appointment details, governor's motive, attendant retaliation, household-protection inference, and workplace analogy remain source-scoped. The large Han Wudi and Huangdi profiles were read for context but not changed because the durable additions are represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,771 sources and retain 791 overview paragraphs. The full-corpus link scan found only 20 pre-existing broken wikilinks outside the changed pages; all pages are indexed. Identity, schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

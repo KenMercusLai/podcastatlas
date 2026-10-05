@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》350-1｜职场生存，这个道理必须懂！](sources/zizhi-tongjian-hanji-350-1-zhichang-shengcun-zhege-daoli-bixu-dong-lsobl23mkjhpn6eoif6oramxiopu.md) — 公孙卿以宝鼎时点和黄帝升仙叙事获得任用，陇西郡守则因天子从官缺食而自杀；节目把后者解释为近臣声誉权力下的避祸选择，但动机保持来源限定。
 - [《资治通鉴·汉纪》350-2｜为什么不能惹“董事长秘书”](sources/zizhi-tongjian-hanji-350-2-weishenme-buneng-re-dongshizhang-mishu-lmxrw9cg4lsqzzbx_628vwqtwfgu.md) — 以信任、近身接触和信息反馈解释天子从官的非正式权力，并串联北地亭障失修问责、甘泉太一祭祀及南越交涉预告。
 - [《资治通鉴·汉纪》351｜卧底陪卧底睡？古代谍战破三观！](sources/zizhi-tongjian-hanji-351-wodi-pei-wodi-shui-gudai-diezhan-po-sanguan-lpd86xt-e-2bsyvw2oreeoi_eokl.md) — 樛太后与赵兴借安国少季使团请求按内诸侯方式朝见、开放边关、受印用汉法，但吕嘉的家族与地方权力使制度整合仍停留在有争议的提案阶段。
 - [《资治通鉴·汉纪》349-2｜提上裤子不认人！他如何让汉武帝的谋划泡汤？](sources/zizhi-tongjian-hanji-349-2-ti-shang-kuzi-bu-ren-ren-ta-ruhe-rang-hanwudi-de-mouhua-paotang-lgmw_edznbj_oypxpnln93bzu7yr.md) — 赵婴齐藏起赵佗、赵胡的帝号印玺却拒绝入朝，并请立樛氏与赵兴，呈现南越以象征臣服换取地方实权延续的策略。
