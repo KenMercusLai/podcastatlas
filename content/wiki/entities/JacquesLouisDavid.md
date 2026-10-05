@@ -6,8 +6,9 @@ sources:
   - 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516
   - 707-the-terror-an-assassination-in-paris-part-1-glt6580043397
   - 507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124
+  - 711-the-terror-killing-god-part-5-glt6491220072
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-23
+last_updated: 2026-10-05
 ---
 
 # Jacques-Louis David / 雅克-路易·大卫
@@ -18,7 +19,7 @@ Jacques-Louis David was the revolutionary painter, political organizer, and fest
 
 ## Current Profile
 
-David's revolutionary role extended from pre-1789 paintings of austere civic virtue into public ceremony and martyr-making. His early republican scenes appeared after 1789 to anticipate the new politics; he then helped stage festivals on the Champ de Mars and Voltaire's transfer to the Panthéon. In Marat's case, he selected visual signs of purity, charity, sacrifice, and absence while organizing a Roman-style funeral that transformed body, heart, hair, and memory into objects of devotion.
+David's revolutionary role extended from pre-1789 paintings of austere civic virtue into public ceremony, martyr-making, and political religion. His early republican scenes appeared after 1789 to anticipate the new politics; he then helped stage festivals on the Champ de Mars and Voltaire's transfer to the Panthéon. In Marat's case, he selected visual signs of purity, charity, sacrifice, and absence while organizing a Roman-style funeral. For the 1794 Festival of the Supreme Being, he scaled the same ceremonial intelligence into mass choirs, allegorical fire, procession, floral design, and an artificial mountain intended to make deist virtue collectively visible.
 
 ## Key Characteristics
 
@@ -26,6 +27,7 @@ David's revolutionary role extended from pre-1789 paintings of austere civic vir
 - He helped design public ceremonies as well as paintings, joining art to mass political ritual.
 - He made Marat clean, calm, charitable, and saint-like while excluding Corday from the painting.
 - He organized Marat's public funeral as Roman political spectacle that also borrowed Christian devotional forms.
+- He designed the Festival of the Supreme Being as an immersive civic environment joining music, allegory, landscape, costume, and procession.
 - His art determined which body received pity and which political motive disappeared from view.
 - His portrait connection to Antoine Lavoisier places him between revolutionary sainthood and threatened scientific elite culture.
 
@@ -47,16 +49,21 @@ David's revolutionary role extended from pre-1789 paintings of austere civic vir
 
 - [[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] connects David to Lavoisier as well as Marat, showing how one artist linked revolutionary memory and scientific culture.
 
+### Supreme Being festival
+
+- [[711-the-terror-killing-god-part-5-glt6491220072]] credits David with the festival's sets, costumes, effects, flowers, mass choir, burning figure of atheism, and Champ de Mars mountain.
+
 ## Qualifications
 
 - The sources emphasize revolutionary classicism, ceremony, and Marat rather than providing a comprehensive account of David's career.
 - Calling the painting propaganda does not exhaust its artistic power or settle how later viewers interpret it.
 - The claim that his earlier paintings anticipated the Revolution is a retrospective reception judgment, not proof of one fixed original political program.
+- The festival's scale and reported enthusiasm do not establish theological assent, durable political unity, or David's sole control over its meaning.
 
 ## What Changed
 
-- David's profile now begins before Marat and includes Roman republican painting, festival design, and civic ceremony.
-- His later martyr-making is now situated within a broader revolutionary visual language rather than treated as an isolated propaganda work.
+- Extended David's ceremonial profile from republican and martyr ritual into the full civic environment of the Supreme Being festival.
+- Added the continuity between his visual selection in Marat's cult and his orchestration of mass political theology.
 
 ## Relationships
 
@@ -68,3 +75,5 @@ David's revolutionary role extended from pre-1789 paintings of austere civic vir
 - [[AntoineLavoisier]] - scientific-elite subject connecting another side of David's revolutionary-era work.
 - [[RevolutionaryRomanism]] - visual and ceremonial language he helped construct.
 - [[FrenchRevolution]] - political transformation that reinterpreted and employed his art.
+- [[CultOfSupremeBeing]] - civic religion whose central festival he designed.
+- [[RevolutionaryPoliticalReligion]] - use of spectacle and ritual to make moral authority publicly sensible.

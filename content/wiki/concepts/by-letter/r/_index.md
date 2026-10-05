@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9700
+wiki_total_pages: 9701
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "RevolutionaryOutflanking"
     title: "Revolutionary Outflanking"
     url: "/wiki/concepts/revolutionaryoutflanking/"
+  - key: "RevolutionaryPoliticalReligion"
+    title: "Revolutionary Political Religion"
+    url: "/wiki/concepts/revolutionarypoliticalreligion/"
   - key: "RevolutionaryPopularJustice"
     title: "Revolutionary Popular Justice"
     url: "/wiki/concepts/revolutionarypopularjustice/"

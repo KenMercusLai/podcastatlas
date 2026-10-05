@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3103
+topic_total_pages: 3105
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3502,6 +3502,9 @@ topic_concepts:
   - key: "RestoredRegimePromiseCredibility"
     title: "Restored Regime Promise Credibility / 复国政权承诺信用"
     url: "/wiki/concepts/restoredregimepromisecredibility/"
+  - key: "RevolutionaryPoliticalReligion"
+    title: "Revolutionary Political Religion"
+    url: "/wiki/concepts/revolutionarypoliticalreligion/"
   - key: "RevolutionaryTerrorPolitics"
     title: "Revolutionary Terror Politics / 革命恐怖政治"
     url: "/wiki/concepts/revolutionaryterrorpolitics/"
@@ -6383,6 +6386,9 @@ topic_entities:
   - key: "LauraIves"
     title: "Laura Ives"
     url: "/wiki/entities/lauraives/"
+  - key: "LawOf22Prairial"
+    title: "Law of 22 Prairial"
+    url: "/wiki/entities/lawof22prairial/"
   - key: "LawOfSuspects"
     title: "Law of Suspects"
     url: "/wiki/entities/lawofsuspects/"

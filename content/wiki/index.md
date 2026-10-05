@@ -3814,6 +3814,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》518丨揭秘西汉最后的诤臣：王章](sources/zizhi-tongjian-hanji-518-jiemi-xihan-zuihou-de-zhengchen-wangzhang-lg8zeudpelxedglsyqp_slo9piva.md) — 王章早年困顿、拒绝依附王凤并筹划封事进谏，呈现刚直品格与不对称权力下行动风险的张力。
 - [Essentials: Using Salt to Optimize Mental & Physical Performance](sources/essentials-using-salt-to-optimize-mental-physical-performance-scim9148608044.md) — Condensed Huberman Lab episode on sodium-water homeostasis, contextual intake, exercise replacement, and why overlap with the full release is provenance rather than replication.
 - [《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？](sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_.md) — 卜式借旱灾批评桑弘羊使官吏入市逐利，并串联异星祥瑞、齐王刘弘早逝与读史的现实意义。
+- [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
 - [余善 / Yu Shan (Dongyue king)](entities/YuShanDongyueKing.md) — 杀汉官、自立武帝并触发汉武帝多路征讨的东越王；本期资料只到出兵，未覆盖战事结局。
@@ -16274,6 +16275,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [大宛 / Dayuan (Western Han)](entities/DayuanWesternHan.md) — Western Regions polity targeted through horse-and-envoy conflict, optimistic intelligence, favorite-family command politics, and later strategic pressure before a negotiated settlement preserves autonomy.
 - [卜式 / Bu Shi (Western Han)](entities/BuShiWesternHan.md) — 商人出身的御史大夫，以劣质强购物资、转输物价和官吏入市逐利批评汉武帝财政体系，后被调离高位仍继续进谏。
 - [齐王刘弘 / Liu Hong, Qi King (Western Han)](entities/LiuHongQiKingWesternHan.md) — 汉武帝受宠次子，获封富庶齐地，却少年早逝无子而使封国撤销。
+- [Joseph Fouché](entities/JosephFouche.md) — Convention deputy whose de-Christianization, Lyon terror, public self-defence, and coalition work made him a dangerous survivor of Robespierre's attack.
+- [Jean-Baptiste Carrier](entities/JeanBaptisteCarrier.md) — Representative on mission whose alleged Nantes drownings became a boundary case between revolutionary terror and provincial atrocity.
+- [Cult of the Supreme Being](entities/CultOfSupremeBeing.md) — Robespierre's deist civic religion and attempted moral route from external terror to internalized virtue.
+- [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
 - [使团治理失控与外交信用崩塌 / Envoy Governance Credibility Collapse](concepts/EnvoyGovernanceCredibilityCollapse.md) — 使团扩张快于筛选、激励、问责、补给与安保时，继承的外交信用会转化为东道负担、逐利行为与抵抗。
@@ -26038,5 +26043,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刚直理想主义的政治风险 / Rigid Idealism Political Risk](concepts/RigidIdealismPoliticalRisk.md) — Moral courage can fail politically when leverage, protected channels, reliable authority, and transferred household risk are ignored.
 
 - [组织公平感与退出判断 / Organizational Fairness and Exit Judgment](concepts/OrganizationalFairnessExitJudgment.md) — 区分职场委屈、组织评价逻辑、剩余发展空间与体面退出方式的判断框架。
+- [Revolutionary Political Religion](concepts/RevolutionaryPoliticalReligion.md) — Sacred grounding of revolutionary rights and virtue through belief, ritual, calendar, civic spectacle, and internalized moral observation.
 
 ## Syntheses

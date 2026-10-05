@@ -6,8 +6,9 @@ sources:
   - 707-the-terror-an-assassination-in-paris-part-1-glt6580043397
   - 708-the-terror-the-reign-of-robespierre-part-2-glt2099451333
   - 710-the-terror-death-at-the-guillotine-part-4-glt5038102951
+  - 711-the-terror-killing-god-part-5-glt6491220072
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-01
+last_updated: 2026-10-05
 ---
 
 # Emergency Institutions to Terror
@@ -18,17 +19,17 @@ Emergency institutions to terror is the process by which separately justified cr
 
 ## Current Synthesis
 
-The 1793–94 French case shows movement from accumulation to consolidation and then persistence. War, rebellion, scarcity, military betrayal, and factional collapse first produced the [[RevolutionaryTribunal]], surveillance committees, deputies on mission, and [[CommitteeOfPublicSafety]] for distinct purposes. Tribunal expansion, committee influence, the [[LawOfSuspects|Law of Suspects]], and suspension of the [[ConstitutionOf1793|Constitution of 1793]] then turned those parts into explicit state terror. When military recovery and centralization improved the emergency, the machinery remained available for factional purges because peace had acquired a moral as well as military definition and the committees could alter trial procedure when ordinary process threatened the desired result.
+The 1793–94 French case shows movement from accumulation to consolidation, persistence, and extreme procedural compression. War, rebellion, scarcity, military betrayal, and factional collapse first produced the [[RevolutionaryTribunal]], surveillance committees, deputies on mission, and [[CommitteeOfPublicSafety]] for distinct purposes. Tribunal expansion, committee influence, the [[LawOfSuspects|Law of Suspects]], and suspension of the [[ConstitutionOf1793|Constitution of 1793]] then turned those parts into explicit state terror. Military recovery did not end the machinery because peace acquired a moral definition. After constructed factional trials, the [[LawOf22Prairial|Law of 22 Prairial]] removed counsel and ordinary testimony, broadened capital offences, and reduced a guilty verdict to mandatory death, making legal form an accelerator of both execution and elite fear.
 
 ## Key Claims
 
 - Emergency powers can become systemic through accumulation even when each measure has a distinct immediate rationale.
 - Reduced appeal rights and accelerated punishment convert urgency into procedural vulnerability.
 - Surveillance and denunciation expand the number of people and behaviors legible as political threats.
-- Central executive coordination links local coercion, military necessity, and factional judgment.
 - Institutions created under genuine danger can outlast battlefield recovery when rulers redefine the emergency in moral or political terms.
 - Suspending constitutional rule until victory creates an emergency end point that rulers themselves interpret.
 - Legal form can persist while staffing, suspect categories, defendant grouping, and defence rights are altered toward conviction.
+- When offences become vague and death mandatory after conviction, emergency law can make insiders unable to infer a safe boundary of conduct.
 
 ## Evidence
 
@@ -57,6 +58,11 @@ The 1793–94 French case shows movement from accumulation to consolidation and 
 - [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] shows military recovery coexisting with continued emergency government and terror justified by a morally defined peace.
 - [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] distinguishes the public-safety and general-security committees, then follows their joint arrest decision and the decree used to remove Danton's defendants from court.
 
+### Extreme compression under the Law of 22 Prairial
+
+- [[711-the-terror-killing-god-part-5-glt6491220072]] records abolition of defence counsel, removal of ordinary testimony, conviction by inner judgment, broad enemy categories, and death as the only guilty sentence.
+- [[711-the-terror-killing-god-part-5-glt6491220072]] links accelerating executions and vague denunciation to shared fear among deputies who could no longer identify the intended targets.
+
 ## Counterevidence & Qualifications
 
 - Institutional origin does not establish a single intention shared by every founder or participant.
@@ -66,12 +72,13 @@ The 1793–94 French case shows movement from accumulation to consolidation and 
 - Continued legal and constitutional language did not make the system ordinary rule of law, but neither does suspension alone prove every participant intended permanent dictatorship.
 - Military, economic, and administrative recovery had multiple causes; the source does not isolate terror as the decisive input.
 - Committee overlap did not erase disagreement, specialization, or refusals to endorse particular arrests.
+- The episode's account does not establish identical enforcement of every Prairial offence or isolate the law from other causes of the Great Terror and Thermidorian coalition.
 
 ## What Changed
 
-- Extended the mechanism from consolidation into persistence after military recovery.
-- Added moralized emergency endpoints, overlapping committee authority, defendant grouping, and removal of defence rights.
-- Preserved institutional specialization and internal dissent inside the coercive system.
+- Extended the sequence from persistence after recovery into the Law of 22 Prairial's extreme procedural compression.
+- Added vague capital liability and mandatory death as mechanisms converting legal escalation into insider fear.
+- Preserved disagreement over provincial atrocities and the distinction between formal sponsorship and sole authorship.
 
 ## Related Concepts
 
@@ -83,3 +90,5 @@ The 1793–94 French case shows movement from accumulation to consolidation and 
 - [[ConstitutionOf1793]] - democratic settlement displaced by the emergency regime.
 - [[CommitteeOfGeneralSecurity]] - police body whose overlap with executive and judicial power deepened the system.
 - [[RevolutionaryPurgeSecurityDilemma]] - insider fear created when the machinery turns against successive revolutionary factions.
+- [[LawOf22Prairial]] - culminating measure that removed defence safeguards and broadened capital judgment.
+- [[CultOfSupremeBeing]] - attempted moral alternative to indefinite institutional enforcement.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12409
+wiki_total_pages: 12413
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "Lavod"
     title: "Lavod"
     url: "/wiki/entities/lavod/"
+  - key: "LawOf22Prairial"
+    title: "Law of 22 Prairial"
+    url: "/wiki/entities/lawof22prairial/"
   - key: "LawOfSuspects"
     title: "Law of Suspects"
     url: "/wiki/entities/lawofsuspects/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 12409
+wiki_total_pages: 12413
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "JeanTodt"
     title: "Jean Todt"
     url: "/wiki/entities/jeantodt/"
+  - key: "JeanBaptisteCarrier"
+    title: "Jean-Baptiste Carrier"
+    url: "/wiki/entities/jeanbaptistecarrier/"
   - key: "JeanBaptisteDrouet"
     title: "Jean-Baptiste Drouet"
     url: "/wiki/entities/jeanbaptistedrouet/"
@@ -1160,6 +1163,9 @@ wiki_pages:
   - key: "JosephConrad"
     title: "Joseph Conrad"
     url: "/wiki/entities/josephconrad/"
+  - key: "JosephFouche"
+    title: "Joseph Fouché"
+    url: "/wiki/entities/josephfouche/"
   - key: "JosephGoebbels"
     title: "Joseph Goebbels"
     url: "/wiki/entities/josephgoebbels/"

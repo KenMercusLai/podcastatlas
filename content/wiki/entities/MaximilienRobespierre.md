@@ -14,29 +14,30 @@ sources:
   - 478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126
   - 708-the-terror-the-reign-of-robespierre-part-2-glt2099451333
   - 710-the-terror-death-at-the-guillotine-part-4-glt5038102951
+  - 711-the-terror-killing-god-part-5-glt6491220072
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-01
+last_updated: 2026-10-05
 ---
 
 # Maximilien Robespierre / 罗伯斯庇尔
 
 ## Overview
 
-Maximilien Robespierre was a leading Montagnard revolutionary whose trajectory ran from democratic and abolitionist commitments through regicide, emergency government, virtue-based terror, and the successive destruction of radical and moderate rivals.
+Maximilien Robespierre was a leading Montagnard revolutionary whose trajectory ran from democratic and abolitionist commitments through regicide, emergency government, virtue-based terror, civic religion, and the procedural escalation that helped unite threatened rivals against him.
 
 ## Current Profile
 
-The sources connect Robespierre's rise from a bereaved Arras childhood and principled legal career to sharp changes in virtue, war, punishment, and emergency. He preferred abolition in 1785; later supported popular sovereignty, male suffrage, education, progressive taxation, rights, and abolition of slavery; opposed armed missionary war; and predicted military dictatorship. He nevertheless moved through regicide and insurrection into the [[CommitteeOfPublicSafety|Committee of Public Safety]], where his incorruptible reputation and Rousseauian faith in a virtuous people gave moral authority to constitutional suspension, broad suspicion, and terror as moral defence. By early 1794 he opposed Hébertist de-Christianization, tolerated Desmoulins's initial attack on Hébert, then helped eliminate both the radical Hébertists and moderate Dantonists when criticism of terror persisted. This strengthened him immediately but widened fear inside the Convention and committees.
+The sources connect Robespierre's rise from a bereaved Arras childhood and principled legal career to sharp changes in virtue, war, punishment, religion, and emergency. He preferred abolition in 1785; later supported popular sovereignty, male suffrage, education, progressive taxation, rights, and abolition of slavery; opposed armed missionary war; and predicted military dictatorship. He nevertheless moved through regicide and insurrection into the [[CommitteeOfPublicSafety|Committee of Public Safety]], where his incorruptible reputation and Rousseauian faith in a virtuous people gave moral authority to constitutional suspension, broad suspicion, and terror as moral defence. After destroying Hébertist and Dantonist rivals, he promoted the [[CultOfSupremeBeing|Cult of the Supreme Being]] as a way to internalize moral surveillance and make virtue replace indefinite coercion. Yet the festival intensified fears of personal supremacy, while the [[LawOf22Prairial|Law of 22 Prairial]] widened capital liability and made his unnamed warnings a shared threat to surviving deputies.
 
 ## Key Characteristics
 
 - Personal integrity, democratic commitments, and legal advocacy established exceptional moral authority.
-- He opposed expansionary war and some indiscriminate repression while later supporting regicide, terror, and manipulated political trials.
 - He treated distinct crises as one conspiracy and claimed emergency government had to precede constitutional rule.
 - He defined terror as justice armed by virtue, removing a clear endpoint once moral transformation exceeded military survival.
-- He opposed Hébertist de-Christianization while using central authority to suppress the radical faction.
-- He subordinated friendship with Danton and Desmoulins to a revolutionary necessity he believed morally binding.
-- Destroying both factional wings increased his immediate supremacy but weakened reliable assurances of safety for other revolutionaries.
+- He opposed compulsory atheism and some provincial atrocities while using central authority to suppress rivals and sustain terror.
+- He treated the Supreme Being as a moral guarantor whose all-seeing presence might prepare citizens for constitutional government.
+- His sponsorship of the Law of 22 Prairial converted moral suspicion into broad capital exposure with sharply reduced defence rights.
+- Destroying both factional wings and issuing vague warnings increased his immediate supremacy while aligning endangered survivors.
 
 ## Evidence
 
@@ -86,6 +87,16 @@ The sources connect Robespierre's rise from a bereaved Arras childhood and princ
 - [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] follows his opposition to de-Christianization, destruction of the Hébertists, failed reconciliation with Danton, and decision to prosecute former friends.
 - [[710-the-terror-death-at-the-guillotine-part-4-glt5038102951]] distinguishes his political centrality from sole dictatorship and links the double purge to fear among surviving deputies.
 
+### Political religion and the hoped-for exit from terror
+
+- [[711-the-terror-killing-god-part-5-glt6491220072]] connects the Supreme Being to sacred universal rights, eternal justice, internalized observation, and Robespierre's hope that voluntary virtue could replace committee enforcement.
+- [[711-the-terror-killing-god-part-5-glt6491220072]] shows the festival's popularity coexisting with opponents' fear that its central figure was claiming priestly or personal supremacy.
+
+### Provincial violence, Prairial, and coalition fear
+
+- [[711-the-terror-killing-god-part-5-glt6491220072]] contrasts his recall of [[JeanBaptisteCarrier|Carrier]] and condemnation of [[JosephFouche|Fouché]] with his continued defence of regulated state terror.
+- [[711-the-terror-killing-god-part-5-glt6491220072]] attributes a major drafting role in the Law of 22 Prairial to him and links its broad offences, compressed process, death-only conviction, and vague denunciations to a coalition of threatened deputies.
+
 ## Qualifications
 
 - The sources do not prove that Robespierre directed the September prison killings.
@@ -93,19 +104,23 @@ The sources connect Robespierre's rise from a bereaved Arras childhood and princ
 - Tactical accuracy about the Champ de Mars repression does not validate the source's broader characterization of his conspiratorial worldview.
 - One 1785 position does not establish an unchanged lifelong program or erase his later support for regicide and extraordinary violence.
 - Refusing evacuation during invasion is not by itself evidence of support for every act that followed in Paris.
-- The sequence now reaches the Dantonist executions but does not yet provide a full account of his later record or downfall.
+- The sequence now reaches the formation of the anti-Robespierre coalition but not the full Thermidorian confrontation or his death.
 - Marat's assassination was one driver among war, revolt, scarcity, and factional collapse; female admiration does not establish what most women believed.
 - The new source identifies his presence but does not yet establish his distinctive role in the June 1789 confrontations.
 - Childhood psychology, personal sincerity, the causal weight of Rousseau, committee authorship, execution totals, and reported dialogue remain source-scoped.
 - Rejecting mass deportation or some provincial atrocities qualifies the scope of his coercion without erasing his support for terror, execution, and weakened due process.
 - His initial reluctance to kill Danton and attempt to spare Desmoulins qualify a simple personal-power account without changing his final responsibility for their prosecution.
 - Fabre's and Chabot's real corruption did not establish the unified foreign plot into which Robespierre incorporated their allegations.
+- Opposition to forced de-Christianization, Carrier, and Fouché qualifies undifferentiated accounts of his violence without resolving his responsibility for terror, executions, and weakened due process.
+- His hope that divine observation could replace state enforcement explains the Cult of the Supreme Being's intended logic but does not establish that it could end emergency government.
+- Festival attendance, reported insults, private motives, emotional states, drafting responsibility, and the causal weight of the Prairial law remain source-scoped.
 
 ## What Changed
 
-- Extended the profile through the Hébertist and Dantonist purges.
-- Added terror's shift from temporary wartime instrument to a means of constructing virtue.
-- Added the immediate-power versus survivor-fear tradeoff produced by eliminating both factional wings.
+- Extended the profile from the double purge through the Supreme Being festival and Law of 22 Prairial.
+- Added political religion as an attempted transition from external terror to internalized moral surveillance.
+- Sharpened the distinction between his opposition to some atrocities and his support for regulated state terror.
+- Added the mechanism by which broad capital liability and unnamed threats accelerated survivor coalition-building.
 
 ## Relationships
 
@@ -131,3 +146,8 @@ The sources connect Robespierre's rise from a bereaved Arras childhood and princ
 - [[CamilleDesmoulins]] - former schoolmate and ally whom he tried and failed to separate from anti-terror journalism.
 - [[PhilippeFabreDEglantine]] - corrupt Danton associate whose fabricated plot entered Robespierre's conspiracy framework.
 - [[RevolutionaryPurgeSecurityDilemma]] - mechanism through which repeated victories increased the governing center's vulnerability.
+- [[CultOfSupremeBeing]] - deist civic religion he promoted as the moral basis for universal rights and virtue.
+- [[JosephFouche]] - provincial terrorist and agile rival whom he denounced but failed to isolate.
+- [[JeanBaptisteCarrier]] - representative recalled when provincial violence exceeded his claimed limits.
+- [[LawOf22Prairial]] - procedural escalation associated with his authorship and later political isolation.
+- [[RevolutionaryPoliticalReligion]] - framework connecting his deism, civic ritual, and internalized surveillance.

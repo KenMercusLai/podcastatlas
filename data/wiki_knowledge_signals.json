@@ -45581,9 +45581,9 @@
       "url": "/wiki/entities/constitutionhilljohannesburg/"
     },
     "ConstitutionOf1793": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2099451333 [GLT2099451333].md",
@@ -45591,9 +45591,16 @@
           "show": "The Rest Is History",
           "title": "708. The Terror: The Reign of Robespierre (Part 2)",
           "url": "/wiki/sources/708-the-terror-the-reign-of-robespierre-part-2-glt2099451333/"
+        },
+        {
+          "episode_file": "GLT6491220072 [GLT6491220072].md",
+          "key": "711-the-terror-killing-god-part-5-glt6491220072",
+          "show": "The Rest Is History",
+          "title": "711. The Terror: Killing God (Part 5)",
+          "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/constitutionof1793/"
     },
     "ConstitutionalAccountabilityTrustParadox": {
@@ -49461,6 +49468,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/culinarytraditionmythmaking/"
+    },
+    "CultOfSupremeBeing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6491220072 [GLT6491220072].md",
+          "key": "711-the-terror-killing-god-part-5-glt6491220072",
+          "show": "The Rest Is History",
+          "title": "711. The Terror: Killing God (Part 5)",
+          "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/cultofsupremebeing/"
     },
     "CultivatedImperialCapacity": {
       "episode_count": 1,
@@ -64727,9 +64750,9 @@
       "url": "/wiki/concepts/emergencyfrontierdiscretion/"
     },
     "EmergencyInstitutionsToTerror": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6580043397 [GLT6580043397].md",
@@ -64751,9 +64774,16 @@
           "show": "The Rest Is History",
           "title": "710. The Terror: Death at the Guillotine (Part 4)",
           "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        },
+        {
+          "episode_file": "GLT6491220072 [GLT6491220072].md",
+          "key": "711-the-terror-killing-god-part-5-glt6491220072",
+          "show": "The Rest Is History",
+          "title": "711. The Terror: Killing God (Part 5)",
+          "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/emergencyinstitutionstoterror/"
     },
     "EmergencyRescueLegalProtection": {
@@ -87384,9 +87414,9 @@
       "url": "/wiki/entities/georgewhitman/"
     },
     "GeorgesCouthon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2099451333 [GLT2099451333].md",
@@ -87394,9 +87424,16 @@
           "show": "The Rest Is History",
           "title": "708. The Terror: The Reign of Robespierre (Part 2)",
           "url": "/wiki/sources/708-the-terror-the-reign-of-robespierre-part-2-glt2099451333/"
+        },
+        {
+          "episode_file": "GLT6491220072 [GLT6491220072].md",
+          "key": "711-the-terror-killing-god-part-5-glt6491220072",
+          "show": "The Rest Is History",
+          "title": "711. The Terror: Killing God (Part 5)",
+          "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/georgescouthon/"
     },
     "GeorgesDanton": {
@@ -114245,9 +114282,9 @@
       "url": "/wiki/entities/jacqueshebert/"
     },
     "JacquesLouisDavid": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -114269,9 +114306,16 @@
           "show": "The Rest Is History",
           "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
           "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
+        },
+        {
+          "episode_file": "GLT6491220072 [GLT6491220072].md",
+          "key": "711-the-terror-killing-god-part-5-glt6491220072",
+          "show": "The Rest Is History",
+          "title": "711. The Terror: Killing God (Part 5)",
+          "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/jacqueslouisdavid/"
     },
     "JacquesNecker": {
@@ -115177,6 +115221,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/jealousydeescalationbyrivalprotection/"
+    },
+    "JeanBaptisteCarrier": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6491220072 [GLT6491220072].md",
+          "key": "711-the-terror-killing-god-part-5-glt6491220072",
+          "show": "The Rest Is History",
+          "title": "711. The Terror: Killing God (Part 5)",
+          "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/jeanbaptistecarrier/"
     },
     "JeanBaptisteDrouet": {
       "episode_count": 1,
@@ -119446,6 +119506,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/josephconrad/"
+    },
+    "JosephFouche": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6491220072 [GLT6491220072].md",
+          "key": "711-the-terror-killing-god-part-5-glt6491220072",
+          "show": "The Rest Is History",
+          "title": "711. The Terror: Killing God (Part 5)",
+          "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/josephfouche/"
     },
     "JosephGoebbels": {
       "episode_count": 6,
@@ -125112,6 +125188,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/lawenforcementagainsteliteprivilege/"
+    },
+    "LawOf22Prairial": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6491220072 [GLT6491220072].md",
+          "key": "711-the-terror-killing-god-part-5-glt6491220072",
+          "show": "The Rest Is History",
+          "title": "711. The Terror: Killing God (Part 5)",
+          "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/lawof22prairial/"
     },
     "LawOfSuspects": {
       "episode_count": 2,
@@ -143320,9 +143412,9 @@
       "url": "/wiki/entities/maximian/"
     },
     "MaximilienRobespierre": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -143400,9 +143492,16 @@
           "show": "The Rest Is History",
           "title": "710. The Terror: Death at the Guillotine (Part 4)",
           "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        },
+        {
+          "episode_file": "GLT6491220072 [GLT6491220072].md",
+          "key": "711-the-terror-killing-god-part-5-glt6491220072",
+          "show": "The Rest Is History",
+          "title": "711. The Terror: Killing God (Part 5)",
+          "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/maximilienrobespierre/"
     },
     "May1940BritishWarCabinetCrisis": {
@@ -183975,6 +184074,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/revolutionaryoutflanking/"
     },
+    "RevolutionaryPoliticalReligion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6491220072 [GLT6491220072].md",
+          "key": "711-the-terror-killing-god-part-5-glt6491220072",
+          "show": "The Rest Is History",
+          "title": "711. The Terror: Killing God (Part 5)",
+          "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/revolutionarypoliticalreligion/"
+    },
     "RevolutionaryPopularJustice": {
       "episode_count": 1,
       "show_count": 1,
@@ -183992,9 +184107,9 @@
       "url": "/wiki/concepts/revolutionarypopularjustice/"
     },
     "RevolutionaryPurgeSecurityDilemma": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5038102951 [GLT5038102951].md",
@@ -184002,9 +184117,16 @@
           "show": "The Rest Is History",
           "title": "710. The Terror: Death at the Guillotine (Part 4)",
           "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        },
+        {
+          "episode_file": "GLT6491220072 [GLT6491220072].md",
+          "key": "711-the-terror-killing-god-part-5-glt6491220072",
+          "show": "The Rest Is History",
+          "title": "711. The Terror: Killing God (Part 5)",
+          "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/revolutionarypurgesecuritydilemma/"
     },
     "RevolutionaryRomanism": {
@@ -184047,9 +184169,9 @@
       "url": "/wiki/concepts/revolutionaryruralpoliticization/"
     },
     "RevolutionaryTerrorPolitics": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -184099,9 +184221,16 @@
           "show": "The Rest Is History",
           "title": "48. The French Revolution",
           "url": "/wiki/sources/48-the-french-revolution-glt2092335857/"
+        },
+        {
+          "episode_file": "GLT6491220072 [GLT6491220072].md",
+          "key": "711-the-terror-killing-god-part-5-glt6491220072",
+          "show": "The Rest Is History",
+          "title": "711. The Terror: Killing God (Part 5)",
+          "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/revolutionaryterrorpolitics/"
     },
     "RevolutionaryTribunal": {
@@ -184158,9 +184287,9 @@
       "url": "/wiki/concepts/revolutionaryuniversalismidentity/"
     },
     "RevolutionaryVirtuePolitics": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -184189,9 +184318,16 @@
           "show": "The Rest Is History",
           "title": "710. The Terror: Death at the Guillotine (Part 4)",
           "url": "/wiki/sources/710-the-terror-death-at-the-guillotine-part-4-glt5038102951/"
+        },
+        {
+          "episode_file": "GLT6491220072 [GLT6491220072].md",
+          "key": "711-the-terror-killing-god-part-5-glt6491220072",
+          "show": "The Rest Is History",
+          "title": "711. The Terror: Killing God (Part 5)",
+          "url": "/wiki/sources/711-the-terror-killing-god-part-5-glt6491220072/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/revolutionaryvirtuepolitics/"
     },
     "RevolutionsOf1848": {

@@ -30013,3 +30013,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 711. The Terror: Killing God (Part 5)
+
+Added source `711-the-terror-killing-god-part-5-glt6491220072`; created [[JosephFouche|Joseph Fouché]], [[JeanBaptisteCarrier|Jean-Baptiste Carrier]], [[CultOfSupremeBeing|Cult of the Supreme Being]], [[LawOf22Prairial|Law of 22 Prairial]], and [[RevolutionaryPoliticalReligion]]; and resynthesized [[MaximilienRobespierre|Maximilien Robespierre]], [[JacquesLouisDavid|Jacques-Louis David]], [[ConstitutionOf1793|Constitution of 1793]], [[GeorgesCouthon|Georges Couthon]], [[RevolutionaryVirtuePolitics]], [[RevolutionaryTerrorPolitics]], [[EmergencyInstitutionsToTerror]], and [[RevolutionaryPurgeSecurityDilemma]] from their complete preserved evidence inventories. Core synthesis: Robespierre's Supreme Being project attempted to replace permanent external terror with internalized moral observation, but leader-centered spectacle and the Law of 22 Prairial instead widened suspicion, accelerated execution, and aligned threatened deputies; his condemnation of Carrier and Fouché qualifies undifferentiated accounts of terror without restoring a reliable legal boundary. No settled contradiction was adopted. Provincial atrocity details, attendance and casualty totals, reported dialogue, psychological claims, drafting responsibility, and causal weights remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten because the durable additions are represented in narrower canonical pages.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

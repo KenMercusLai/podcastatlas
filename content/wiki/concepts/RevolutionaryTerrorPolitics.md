@@ -10,8 +10,9 @@ sources:
   - 708-the-terror-the-reign-of-robespierre-part-2-glt2099451333
   - 710-the-terror-death-at-the-guillotine-part-4-glt5038102951
   - 48-the-french-revolution-glt2092335857
+  - 711-the-terror-killing-god-part-5-glt6491220072
 knowledge_schema: synthesis-v1
-last_updated: 2026-10-03
+last_updated: 2026-10-05
 ---
 
 # Revolutionary Terror Politics / 革命恐怖政治
@@ -22,7 +23,7 @@ Revolutionary terror politics is the interaction of emergency threat, material d
 
 ## Current Synthesis
 
-The combined sources trace terror from fragmented coercion into a system that survived improvement in the emergency used to justify it. After the monarchy's August 1792 collapse, surveillance, censorship, denunciation, exceptional justice, and mass arrest widened coercion; invasion rumor then enabled local killing teams and improvised tribunals. In 1793, war, scarcity, revolt, betrayal, factional purge, the [[RevolutionaryTribunal]], and [[CommitteeOfPublicSafety]] accumulated and centralized coercive capacity. By early 1794, military recovery and stronger central authority did not end terror because leaders treated it as an instrument of republican virtue. The successive destruction of [[Hebertists]] and [[Indulgents]] then made political position an unreliable defence against punishment and turned apparent supremacy into shared fear among survivors. The panoramic episode adds that sincere commitment to virtue could intensify rather than restrain coercion, especially once revolutionaries began treating one another as enemies whose deaths were required by the nation.
+The combined sources trace terror from fragmented coercion into a system that survived improvement in the emergency used to justify it. After the monarchy's August 1792 collapse, surveillance, censorship, denunciation, exceptional justice, and mass arrest widened coercion; invasion rumor then enabled local killing teams and improvised tribunals. In 1793, war, scarcity, revolt, betrayal, factional purge, the [[RevolutionaryTribunal]], and [[CommitteeOfPublicSafety]] accumulated and centralized coercive capacity. By 1794, military recovery did not end terror because leaders treated it as an instrument of republican virtue. The [[CultOfSupremeBeing|Cult of the Supreme Being]] attempted to replace permanent enforcement with internalized moral surveillance, but the [[LawOf22Prairial|Law of 22 Prairial]] simultaneously stripped defence, widened capital liability, and made death mandatory after conviction. The result was a system whose proclaimed moral exit intensified its legal violence and whose apparent supremacy aligned endangered survivors.
 
 ## Key Claims
 
@@ -70,6 +71,11 @@ The combined sources trace terror from fragmented coercion into a system that su
 
 - [[48-the-french-revolution-glt2092335857]] connects regicide, nation-as-sovereign, sincere virtue politics, factional execution, Vendée repression, and Robespierre's fall to a terror that increasingly consumed revolutionaries themselves.
 
+### Political religion, provincial excess, and the Great Terror
+
+- [[711-the-terror-killing-god-part-5-glt6491220072]] contrasts Robespierre's hoped-for divine internalization of virtue with the atrocities attributed to Carrier and Fouché and his demand that terror remain morally regulated.
+- [[711-the-terror-killing-god-part-5-glt6491220072]] links the Law of 22 Prairial's compressed defence and broad offences to accelerating execution and the coalition forming against Robespierre.
+
 ## Counterevidence & Qualifications
 
 - French security threats were not wholly manufactured: invasion, rebellion, military betrayal, scarcity, and political violence were real.
@@ -83,11 +89,14 @@ The combined sources trace terror from fragmented coercion into a system that su
 - Dantonist moderation was real but did not erase Danton's earlier emergency violence or corruption vulnerability.
 - The episode's formal and total death figures, prison estimate, economic effects, and causal attribution of military success remain source-scoped.
 - The panoramic source's Vendée classification, Schama-derived violence-first framing, claims about individual sincerity, and compressed account of Robespierre's fall remain interpretive or source-scoped.
+- Condemnation of Carrier and Fouché qualifies a model of undifferentiated terror but does not establish a reliable legal boundary between legitimate coercion and atrocity.
+- Prairial authorship, provincial death totals, private motives, and the relative causal weight of civic religion and legal escalation remain source-scoped.
 
 ## What Changed
 
-- Added sincere virtue and sovereign-national survival as mechanisms that could intensify coercion rather than limit it.
-- Extended the synthesis from factional purges to the survivor fear and tactical overreach surrounding Robespierre's fall.
+- Added the Supreme Being as an attempted moral exit from terror through internalized surveillance.
+- Added the unstable distinction between regulated state terror and provincial atrocity.
+- Extended the institutional sequence through the Law of 22 Prairial and the active coalition formed by endangered survivors.
 
 ## Related Concepts
 
@@ -103,3 +112,6 @@ The combined sources trace terror from fragmented coercion into a system that su
 - [[ConstitutionOf1793]] - democratic promise suspended during emergency rule.
 - [[LeveeEnMasse]] - whole-society mobilization that joined military survival to revolutionary government.
 - [[RevolutionaryPurgeSecurityDilemma]] - mechanism by which successful terror against rivals can align fearful survivors against the center.
+- [[RevolutionaryPoliticalReligion]] - sacred strategy for grounding virtue and reducing reliance on external enforcement.
+- [[CultOfSupremeBeing]] - deist civic program whose festival exposed the politics of that strategy.
+- [[LawOf22Prairial]] - procedural escalation associated with the Great Terror and coalition backlash.
