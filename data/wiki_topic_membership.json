@@ -8573,6 +8573,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIIndustrialCapture": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AIIndustrializationThreeStages": [
     {
       "key": "technology",
@@ -27612,6 +27624,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "DemocraticAIGovernanceDeliberation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DemocraticFactionMap": [
     {
       "key": "politics",
@@ -36164,6 +36188,18 @@
     }
   ],
   "FrontierModelCyberMisuse": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "FrontierModelDisclosure": [
     {
       "key": "technology",
       "label": "Technology",
@@ -95836,6 +95872,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ep-35-who-actually-controls-ai-the-governance-gap-explained": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ep-36-nvidia-gtc-2026-everything-that-matters-recapped": [

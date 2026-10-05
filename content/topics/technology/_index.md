@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3314
+topic_total_pages: 3318
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -574,6 +574,9 @@ topic_concepts:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
     url: "/wiki/concepts/employeehealthbenefitsai/"
+  - key: "AIIndustrialCapture"
+    title: "AI Industrial Capture"
+    url: "/wiki/concepts/aiindustrialcapture/"
   - key: "AIIndustrializationThreeStages"
     title: "AI Industrialization Three Stages"
     url: "/wiki/concepts/aiindustrializationthreestages/"
@@ -1837,6 +1840,9 @@ topic_concepts:
   - key: "DelegatedWebResearch"
     title: "Delegated Web Research"
     url: "/wiki/concepts/delegatedwebresearch/"
+  - key: "DemocraticAIGovernanceDeliberation"
+    title: "Democratic AI Governance Deliberation"
+    url: "/wiki/concepts/democraticaigovernancedeliberation/"
   - key: "DesignerAICodingWorkflow"
     title: "Designer AI Coding Workflow"
     url: "/wiki/concepts/designeraicodingworkflow/"
@@ -2260,6 +2266,9 @@ topic_concepts:
   - key: "FrontierModelCyberMisuse"
     title: "Frontier Model Cyber Misuse"
     url: "/wiki/concepts/frontiermodelcybermisuse/"
+  - key: "FrontierModelDisclosure"
+    title: "Frontier Model Disclosure"
+    url: "/wiki/concepts/frontiermodeldisclosure/"
   - key: "FrontierModelDuopoly"
     title: "Frontier Model Duopoly"
     url: "/wiki/concepts/frontiermodelduopoly/"
@@ -9000,6 +9009,9 @@ topic_sources:
   - key: "ep-28-the-ai-revolution-redefining-healthcare-financing"
     title: "EP 28: The AI Revolution: Redefining Healthcare Financing"
     url: "/wiki/sources/ep-28-the-ai-revolution-redefining-healthcare-financing/"
+  - key: "ep-35-who-actually-controls-ai-the-governance-gap-explained"
+    title: "EP 35: Who Actually Controls AI? The Governance Gap Explained"
+    url: "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
   - key: "ep-36-nvidia-gtc-2026-everything-that-matters-recapped"
     title: "EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped"
     url: "/wiki/sources/ep-36-nvidia-gtc-2026-everything-that-matters-recapped/"

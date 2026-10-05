@@ -30058,6 +30058,14 @@ Ran lint. See lint-report.md for details.
 
 Added source `the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395`; created [[VisceralAdiposityMetabolicRisk|Visceral Adiposity and Metabolic Risk]]; and resynthesized [[RhondaPatrick|Rhonda Patrick]], [[ExerciseSnacks]], [[IntermittentChallengeHormesis]], [[CircadianEatingWindowAlignment]], [[CreatineMonohydrateEvidence]], and [[Omega3StatusAndFormBoundary]] from their complete preserved evidence inventories. Core synthesis: regular cardiovascular and resistance exercise, sleep-compatible meal timing, metabolic health, and nutrient adequacy remain higher priorities than experimental compounds; brief recoverable stress may support adaptation, but chronic stress and indiscriminate signal suppression can reverse the tradeoff. No settled contradiction was adopted. Mortality associations, visceral-fat prevalence and thresholds, LPS mechanisms, fasting-switch timing, autophagy, supplement doses, cognitive and cancer outcomes, and pediatric use remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten because the durable additions are represented in narrower canonical pages. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,757 sources and retain 789 overview paragraphs. Changed-page links, index coverage, identities, knowledge schema, whitespace, health, synthesis, and publish validation passed.
 
+## [2026-10-05] ingest | EP 35: Who Actually Controls AI? The Governance Gap Explained
+
+Added source `ep-35-who-actually-controls-ai-the-governance-gap-explained`; created [[AIIndustrialCapture]], [[FrontierModelDisclosure]], and [[DemocraticAIGovernanceDeliberation]]; and resynthesized [[DataScienceWithSam]], [[SamDataScienceWithSam]], [[GlobalAIGovernanceFramework]], [[AISafetyCoordination]], and [[MilitaryAIOversightCompression]] from their complete preserved evidence inventories. Core synthesis: frontier-AI governance is constrained less by a shortage of principles than by fragmented authority, limited evidence access, weak enforcement, concentrated public-private decision channels, and inadequate democratic authorization. No settled contradiction was adopted. National regulatory comparisons, the Anthropic-Pentagon account, safety-positioning market effects, summit effectiveness, and open-model tradeoffs remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten because the durable additions are represented in narrower canonical pages. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,758 sources and retain 789 overview paragraphs.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

@@ -2910,6 +2910,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/aiipovaluation/"
     },
+    "AIIndustrialCapture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128 [E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a02e].md",
+          "key": "ep-35-who-actually-controls-ai-the-governance-gap-explained",
+          "show": "Data Science With Sam",
+          "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
+          "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/aiindustrialcapture/"
+    },
     "AIIndustrializationThreeStages": {
       "episode_count": 1,
       "show_count": 1,
@@ -4171,9 +4187,9 @@
       "url": "/wiki/concepts/airesistantexperientialconsumption/"
     },
     "AISafetyCoordination": {
-      "episode_count": 6,
-      "show_count": 2,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 3,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "An interview with Elon Musk [6a6212214fac21e67f9b8c8c].md",
@@ -4216,9 +4232,16 @@
           "show": "Marketplace Tech",
           "title": "Finding common ground in the U.S.-China AI rivalry",
           "url": "/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128 [E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a02e].md",
+          "key": "ep-35-who-actually-controls-ai-the-governance-gap-explained",
+          "show": "Data Science With Sam",
+          "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
+          "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/aisafetycoordination/"
     },
     "AIScienceActiveLearning": {
@@ -52409,9 +52432,9 @@
       "url": "/wiki/entities/dataready/"
     },
     "DataScienceWithSam": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
@@ -52559,9 +52582,16 @@
           "show": "Data Science With Sam",
           "title": "EP 19: Navigating the Future of Workplace Health and Benefits with AI",
           "url": "/wiki/sources/ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai/"
+        },
+        {
+          "episode_file": "E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128 [E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a02e].md",
+          "key": "ep-35-who-actually-controls-ai-the-governance-gap-explained",
+          "show": "Data Science With Sam",
+          "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
+          "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/datasciencewithsam/"
     },
     "DataSovereignty": {
@@ -54520,6 +54550,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/demishassabis/"
+    },
+    "DemocraticAIGovernanceDeliberation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128 [E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a02e].md",
+          "key": "ep-35-who-actually-controls-ai-the-governance-gap-explained",
+          "show": "Data Science With Sam",
+          "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
+          "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/democraticaigovernancedeliberation/"
     },
     "DemocraticFactionMap": {
       "episode_count": 1,
@@ -82380,6 +82426,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/frontierdefensivepatience/"
     },
+    "FrontierModelDisclosure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128 [E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a02e].md",
+          "key": "ep-35-who-actually-controls-ai-the-governance-gap-explained",
+          "show": "Data Science With Sam",
+          "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
+          "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/frontiermodeldisclosure/"
+    },
     "FrontierModelDuopoly": {
       "episode_count": 3,
       "show_count": 1,
@@ -88434,9 +88496,9 @@
       "url": "/wiki/concepts/glaucomascreeningandadherence/"
     },
     "GlobalAIGovernanceFramework": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
@@ -88444,9 +88506,16 @@
           "show": "Tomorrow, Today",
           "title": "Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029/"
+        },
+        {
+          "episode_file": "E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128 [E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a02e].md",
+          "key": "ep-35-who-actually-controls-ai-the-governance-gap-explained",
+          "show": "Data Science With Sam",
+          "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
+          "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/globalaigovernanceframework/"
     },
     "GlobalConflictAttentionInequality": {
@@ -148110,9 +148179,9 @@
       "url": "/wiki/concepts/militarizedaitechnologyblocrisk/"
     },
     "MilitaryAIOversightCompression": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "An interview with Yuval Noah Harari [6a872b94c71d02aaba56ca7c].md",
@@ -148120,9 +148189,16 @@
           "show": "Economist Podcasts",
           "title": "An interview with Yuval Noah Harari",
           "url": "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+        },
+        {
+          "episode_file": "E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128 [E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a02e].md",
+          "key": "ep-35-who-actually-controls-ai-the-governance-gap-explained",
+          "show": "Data Science With Sam",
+          "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
+          "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/militaryaioversightcompression/"
     },
     "MilitaryDisasterMemory": {
@@ -189923,9 +189999,9 @@
       "url": "/wiki/entities/sambeale/"
     },
     "SamDataScienceWithSam": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 1,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
@@ -190073,9 +190149,16 @@
           "show": "Data Science With Sam",
           "title": "EP 19: Navigating the Future of Workplace Health and Benefits with AI",
           "url": "/wiki/sources/ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai/"
+        },
+        {
+          "episode_file": "E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128 [E75553E920D2807B32CC952DF3A5D441~8584410_2026-08-10-214210-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83a02e].md",
+          "key": "ep-35-who-actually-controls-ai-the-governance-gap-explained",
+          "show": "Data Science With Sam",
+          "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
+          "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/samdatasciencewithsam/"
     },
     "SamHarris": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9707
+wiki_total_pages: 9710
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1085,6 +1085,9 @@ wiki_pages:
   - key: "AIImpersonationFraudRisk"
     title: "AI Impersonation Fraud Risk"
     url: "/wiki/concepts/aiimpersonationfraudrisk/"
+  - key: "AIIndustrialCapture"
+    title: "AI Industrial Capture"
+    url: "/wiki/concepts/aiindustrialcapture/"
   - key: "AIIndustrializationThreeStages"
     title: "AI Industrialization Three Stages"
     url: "/wiki/concepts/aiindustrializationthreestages/"

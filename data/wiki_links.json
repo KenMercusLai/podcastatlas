@@ -4707,6 +4707,10 @@
     "title": "AI Impersonation Fraud Risk",
     "url": "/wiki/concepts/aiimpersonationfraudrisk/"
   },
+  "AIIndustrialCapture": {
+    "title": "AI Industrial Capture",
+    "url": "/wiki/concepts/aiindustrialcapture/"
+  },
   "AIIndustrializationThreeStages": {
     "title": "AI Industrialization Three Stages",
     "url": "/wiki/concepts/aiindustrializationthreestages/"
@@ -23479,6 +23483,10 @@
     "title": "Democracy in America",
     "url": "/wiki/concepts/democracyinamerica/"
   },
+  "DemocraticAIGovernanceDeliberation": {
+    "title": "Democratic AI Governance Deliberation",
+    "url": "/wiki/concepts/democraticaigovernancedeliberation/"
+  },
   "DemocraticFactionMap": {
     "title": "Democratic Faction Map",
     "url": "/wiki/concepts/democraticfactionmap/"
@@ -32266,6 +32274,10 @@
   "FrontierModelCyberMisuse": {
     "title": "Frontier Model Cyber Misuse",
     "url": "/wiki/concepts/frontiermodelcybermisuse/"
+  },
+  "FrontierModelDisclosure": {
+    "title": "Frontier Model Disclosure",
+    "url": "/wiki/concepts/frontiermodeldisclosure/"
   },
   "FrontierModelDuopoly": {
     "title": "Frontier Model Duopoly",
@@ -93646,6 +93658,10 @@
   "ep-3-demystifying-the-imposter-syndrome": {
     "title": "EP 3: Demystifying the Imposter Syndrome",
     "url": "/wiki/sources/ep-3-demystifying-the-imposter-syndrome/"
+  },
+  "ep-35-who-actually-controls-ai-the-governance-gap-explained": {
+    "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
+    "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
   },
   "ep-36-nvidia-gtc-2026-everything-that-matters-recapped": {
     "title": "EP 36: NVIDIA GTC 2026: Everything That Matters - Recapped",

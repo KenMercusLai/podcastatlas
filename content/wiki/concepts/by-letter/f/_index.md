@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9707
+wiki_total_pages: 9710
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1322,6 +1322,9 @@ wiki_pages:
   - key: "FrontierModelCyberMisuse"
     title: "Frontier Model Cyber Misuse"
     url: "/wiki/concepts/frontiermodelcybermisuse/"
+  - key: "FrontierModelDisclosure"
+    title: "Frontier Model Disclosure"
+    url: "/wiki/concepts/frontiermodeldisclosure/"
   - key: "FrontierModelDuopoly"
     title: "Frontier Model Duopoly"
     url: "/wiki/concepts/frontiermodelduopoly/"

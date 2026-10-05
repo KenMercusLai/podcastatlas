@@ -24,7 +24,8 @@ sources:
   - data-risk-and-actuarial-science-in-insurance
   - data-ai-and-scientific-research-a-coffee-chat
   - ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai
-last_updated: 2026-09-22
+  - ep-35-who-actually-controls-ai-the-governance-gap-explained
+last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -34,7 +35,7 @@ knowledge_schema: synthesis-v1
 Data Science With Sam is a source-scoped podcast series in which [[SamDataScienceWithSam|Sam]] interviews practitioners about data science, AI, professional development, and the organizational conditions that turn models into useful decisions.
 
 ## Current Profile
-Across the available episodes, the show treats data science as applied, interdisciplinary work rather than model building in isolation. Its cases range from scientific research, space, insurance, cybersecurity, production ML, education, sports, observability, creativity, healthcare finance, enterprise adoption, and private AI to [[EmployeeHealthBenefitsAI]]. The recurring judgment is that data meaning, domain expertise, infrastructure, communication, privacy, validation, and accountable human action decide whether technical capability becomes real value.
+Across the available episodes, the show treats data science as applied, interdisciplinary work rather than model building in isolation. Its cases range from scientific research, space, insurance, cybersecurity, production ML, education, sports, observability, creativity, healthcare finance, enterprise adoption, and private AI to [[EmployeeHealthBenefitsAI]] and international AI governance. The recurring judgment is that data meaning, domain expertise, infrastructure, communication, privacy, validation, legitimate institutions, and accountable human action decide whether technical capability becomes real value.
 
 ## Key Characteristics
 - Uses practitioner interviews to connect technical methods with concrete institutional workflows and constraints.
@@ -42,6 +43,7 @@ Across the available episodes, the show treats data science as applied, interdis
 - Covers the full applied-data chain: collection and quality, modeling, deployment, feedback, stakeholder communication, governance, and action.
 - Treats professional learning and cross-functional collaboration as durable requirements across changing tools.
 - Expands responsible AI through domain-specific boundaries rather than one universal checklist.
+- Connects operational responsible-AI practice to public authority, external scrutiny, and democratic legitimacy.
 
 ## Evidence
 ### Science, research, and technical careers
@@ -63,14 +65,16 @@ Across the available episodes, the show treats data science as applied, interdis
 - [[ep-17-ais-impact-on-creativity-a-consumers-perspective]] grounds generative AI in edited, verified, data-safe creative and light-coding workflows.
 - [[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]] distinguishes deterministic verification from probabilistic LLM output and adds local private AI and digital sovereignty.
 
+### Public governance and institutional legitimacy
+- [[ep-35-who-actually-controls-ai-the-governance-gap-explained]] extends the show's responsibility frame from workplace practice into [[GlobalAIGovernanceFramework|international coordination]], [[FrontierModelDisclosure|external disclosure]], military oversight, and public deliberation.
+
 ## Qualifications
 - The corpus consists of interview summaries and usually provides one episode's perspective per guest rather than independent evaluation of every claim.
 - Episode dates span 2021 through 2026, so tool, product, and policy claims should be read in their source-time context.
 - The series is broad; its unifying claims concern applied practice and responsibility, not a single technical methodology.
 
 ## What Changed
-- Added employee health benefits as a domain where de-identification, prediction, optimization, affordability, consent, and human review must operate together.
-- Migrated the show page from source-by-source accumulation to the synthesis-first schema.
+- Extended the show's human-accountability frame from applied workflows into international institutions, external scrutiny, and democratic legitimacy.
 
 ## Relationships
 - [[SamDataScienceWithSam]] - host who frames the show's cross-domain practitioner conversations.
@@ -81,3 +85,4 @@ Across the available episodes, the show treats data science as applied, interdis
 - [[SportsAnalytics]] - domain-translation branch joining data with coaching, scouting, and player context.
 - [[EmployeeHealthBenefitsAI]] - employer-health branch added by EP19.
 - [[AugmentedIntelligence]] - recurring operating model in which AI supports rather than replaces responsible people.
+- [[GlobalAIGovernanceFramework]] - public-institution branch added by EP35.

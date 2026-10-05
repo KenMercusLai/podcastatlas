@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3107
+topic_total_pages: 3111
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -154,6 +154,9 @@ topic_concepts:
   - key: "AIGovernanceAndCompliance"
     title: "AI Governance And Compliance"
     url: "/wiki/concepts/aigovernanceandcompliance/"
+  - key: "AIIndustrialCapture"
+    title: "AI Industrial Capture"
+    url: "/wiki/concepts/aiindustrialcapture/"
   - key: "AIIndustrySelfRegulation"
     title: "AI Industry Self-Regulation"
     url: "/wiki/concepts/aiindustryselfregulation/"
@@ -1105,6 +1108,9 @@ topic_concepts:
   - key: "DemocracyInAmerica"
     title: "Democracy in America"
     url: "/wiki/concepts/democracyinamerica/"
+  - key: "DemocraticAIGovernanceDeliberation"
+    title: "Democratic AI Governance Deliberation"
+    url: "/wiki/concepts/democraticaigovernancedeliberation/"
   - key: "DemocraticFactionMap"
     title: "Democratic Faction Map"
     url: "/wiki/concepts/democraticfactionmap/"
@@ -1666,6 +1672,9 @@ topic_concepts:
   - key: "FrontierModelCyberMisuse"
     title: "Frontier Model Cyber Misuse"
     url: "/wiki/concepts/frontiermodelcybermisuse/"
+  - key: "FrontierModelDisclosure"
+    title: "Frontier Model Disclosure"
+    url: "/wiki/concepts/frontiermodeldisclosure/"
   - key: "FrontierModelPeerReview"
     title: "Frontier Model Peer Review"
     url: "/wiki/concepts/frontiermodelpeerreview/"
@@ -8547,6 +8556,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285"
     title: "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285/"
+  - key: "ep-35-who-actually-controls-ai-the-governance-gap-explained"
+    title: "EP 35: Who Actually Controls AI? The Governance Gap Explained"
+    url: "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
   - key: "ep-40-governance-first-the-architecture-framework-that-makes-ai-auditable-defensible-and-99-cheaper"
     title: "EP 40: Governance First: The Architecture Framework That Makes AI Auditable, Defensible, and 99% Cheaper"
     url: "/wiki/sources/ep-40-governance-first-the-architecture-framework-that-makes-ai-auditable-defensible-and-99-cheaper/"

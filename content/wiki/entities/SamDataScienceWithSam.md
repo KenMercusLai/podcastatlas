@@ -24,7 +24,8 @@ sources:
   - data-risk-and-actuarial-science-in-insurance
   - data-ai-and-scientific-research-a-coffee-chat
   - ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai
-last_updated: 2026-09-22
+  - ep-35-who-actually-controls-ai-the-governance-gap-explained
+last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -34,7 +35,7 @@ knowledge_schema: synthesis-v1
 Sam is the first-name-only host of [[DataScienceWithSam]] in the available sources. His interviews connect data science and AI to the people, workflows, institutions, and judgment required for applied use.
 
 ## Current Profile
-Sam's recurring interview method moves from a guest's career and domain into specific data or AI workflows, then tests the boundary conditions: data quality, explainability, bias, privacy, deployment, stakeholder communication, access, and human responsibility. Across the corpus he favors a human-driven or assistant model of AI, while still pressing guests on practical productivity, prediction, automation, and career change.
+Sam's recurring method moves from a guest's career or a technical issue into specific data and AI workflows, then tests the boundary conditions: data quality, explainability, bias, privacy, deployment, stakeholder communication, access, institutional authority, and human responsibility. Across the corpus he favors a human-driven or assistant model of AI, while EP35 broadens that stance into public accountability for frontier deployment.
 
 ## Key Characteristics
 - Translates technical topics into workflow, stakeholder, and career questions for a broad audience.
@@ -42,6 +43,7 @@ Sam's recurring interview method moves from a guest's career and domain into spe
 - Connects model usefulness to data readiness, domain expertise, communication, deployment, and feedback.
 - Raises privacy, bias, trust, access, and fairness as operational issues across domains.
 - Keeps the host identity source-scoped because the sources provide only the first name Sam.
+- Treats responsible AI as both a workflow discipline and a question of who has legitimate authority to decide.
 
 ## Evidence
 ### Scientific and technical framing
@@ -60,14 +62,16 @@ Sam's recurring interview method moves from a guest's career and domain into spe
 - [[ep-47-the-ai-pioneer-who-decided-privacy-matters-more-than-hype]] and [[ep-28-the-ai-revolution-redefining-healthcare-financing]] frame AI around privacy, reliability, consent, borrower readiness, and human trust.
 - [[ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai]] asks how employers can use prediction, benefit optimization, and wearables without surveillance, stigma, discriminatory design, or loss of human control.
 
+### Public authority and frontier governance
+- [[ep-35-who-actually-controls-ai-the-governance-gap-explained]] has Sam connect fragmented regulation, safety institutes, disclosure, international evaluation, military procurement, and public deliberation into a structural accountability problem.
+
 ## Qualifications
 - The sources identify the host only as Sam; this page does not infer a full legal identity.
 - The profile describes his role and recurring interview framing, not private biography or views beyond the available episodes.
 - Some questions introduce examples or concerns rather than settled factual claims, so product and outcome details remain source-scoped.
 
 ## What Changed
-- Added Sam's employer-health framing around personalization versus privacy, predictive stigma, benefit fairness, wearable surveillance, trust, and human gatekeeping.
-- Migrated the host page from episode-by-episode accumulation to the synthesis-first schema.
+- Added Sam's public-governance framing around concentrated authority, external evidence access, international coordination, and democratic deliberation.
 
 ## Relationships
 - [[DataScienceWithSam]] - podcast series hosted by Sam in the available sources.
@@ -76,3 +80,4 @@ Sam's recurring interview method moves from a guest's career and domain into spe
 - [[DomainExpertAlignment]] - recurring requirement connecting technical work to field knowledge.
 - [[AIWorkerLiteracy]] - recurring career and education theme in the show.
 - [[EmployeeHealthBenefitsAI]] - EP19 domain through which Sam tests privacy, fairness, trust, and oversight.
+- [[DemocraticAIGovernanceDeliberation]] - EP35 extension of human responsibility into public legitimacy.
