@@ -5,7 +5,8 @@ tags: [healthcare, weight-management, exercise-safety, medication-safety, eating
 sources:
   - vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18
   - vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry
-last_updated: 2026-09-28
+  - vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2
+last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,12 +22,14 @@ Methods also cannot be collapsed into one ladder of stronger shortcuts. A modest
 
 VOL.56 adds a lower-acuity but earlier warning boundary. Graduation or holiday time can create a deadline for visible transformation, yet rapid loss, celebrity menus, disguised meal skipping, intake below basic needs, and excessive exercise can invite rebound and low-energy-availability effects, including menstrual disruption. A sustainable deficit can instead come from modest portions, attentive eating, routine movement, and dietary variety; a fasting window or calorie total is not evidence of nutritional adequacy.
 
+VOL.199 strengthens the body-composition and care-routing layer. Complete carbohydrate avoidance, liquid-only or fruit-only diets, and one meal per day may lower scale weight through water and lean-tissue loss as well as fat, then intensify rebound when normal eating returns. The episode adds a source-level gradual-loss range, but its durable judgment is more general: preserve muscle, match exercise to joints and cardiopulmonary capacity, screen for secondary causes, and escalate to coordinated clinical care when metabolic disease, severe obesity, psychological distress, or procedural treatment is in view.
+
 ## Key Claims
 - Weight-loss need and method should follow assessment of cause, health risk, function, body composition, mental wellbeing, and informed goals rather than appearance pressure or celebrity comparison.
 - Rate and scale change are incomplete outcomes because water, fat, muscle, nutrition, strength, endocrine function, and ordinary capability can move differently.
 - Severe restriction and eating-disorder behavior require nutrition and mental-health boundaries, not praise for discipline or faster loss.
 - Exercise load should rise from current capacity; dark urine, collapse, severe weakness, or other acute warning signs move the problem from fitness into urgent medical assessment.
-- Prescription drugs, liposuction, and bariatric surgery have distinct indications, contraindications, adverse effects, and follow-up needs and are not interchangeable consumer shortcuts.
+- Prescription drugs, liposuction, endoscopic procedures, and bariatric surgery have distinct indications, contraindications, adverse effects, and follow-up needs and are not interchangeable consumer shortcuts; exercise and fasting likewise require capacity and comorbidity context.
 - Maintenance belongs in the initial decision because rebound risk, muscle preservation, food structure, movement, sleep, and support continue after the active intervention.
 - Low energy availability and menstrual change are safety signals, not proof that more restriction or exercise is working better.
 
@@ -38,15 +41,15 @@ VOL.56 adds a lower-acuity but earlier warning boundary. Graduation or holiday t
 - Sustainable endpoint: [[vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18]] closes with enjoyable movement, aerobic and strength work, ordinary food, body composition, lightness, strength, and confidence rather than a celebrity timeline.
 - Early restriction and rebound boundary: [[vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry|VOL.56]] uses a rapid-loss-and-rebound account to reject crash diets, disguised restriction, and overexercise and connects inadequate energy to recovery and menstrual-function concerns.
 - Sustainable deficit and food quality: [[vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry|VOL.56]] favors small portion, pace, and movement changes while warning that a calorie deficit based on nutritionally poor food or meal-skipping fasting is not automatically healthy.
+- Rebound, muscle, and coordinated-care boundary: [[vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2|VOL.199]] rejects complete carbohydrate avoidance and other severe restriction, links lean-tissue loss to metabolic and functional harm, and places fasting, exercise, medication, endoscopy, and surgery inside individualized assessment.
 
 ## Counterevidence & Qualifications
-The sources are public podcast discussions and do not establish universal BMI cutoffs, calorie targets, basal-metabolism multipliers, monthly loss rates, fasting schedules, an exercise prescription, menstrual or eating-disorder criteria, drug eligibility, or surgical thresholds. The March 2024 semaglutide approval, product, dose, and off-label statements are time-bound. The concept does not imply that rapid change, intensive exercise, medication, liposuction, or bariatric surgery is always inappropriate; it requires that urgency and intensity be justified by current clinical context and supported by qualified monitoring. Suspected eating disorder, menstrual loss or major change, unexplained weight change, dark urine after exertion, collapse, severe weakness, dehydration, persistent vomiting, or other acute symptoms require appropriate professional assessment.
+The sources are public podcast discussions and do not establish universal BMI cutoffs, calorie targets, basal-metabolism multipliers, weekly or monthly loss rates, fasting schedules, an exercise prescription, menstrual or eating-disorder criteria, drug eligibility, endoscopic outcomes, or surgical thresholds. The March 2024 semaglutide approval, product, dose, and off-label statements are time-bound. The concept does not imply that rapid change, intensive exercise, medication, liposuction, endoscopy, or bariatric surgery is always inappropriate; it requires that urgency and intensity be justified by current clinical context and supported by qualified monitoring. Suspected eating disorder, menstrual loss or major change, unexplained weight change, dark urine after exertion, collapse, severe weakness, dehydration, persistent vomiting, or other acute symptoms require appropriate professional assessment.
 
 ## What Changed
-- Added deadline-driven transformation pressure, disguised restriction, low-energy-availability and menstrual-function warnings, and food-quality limits.
-- Created a cross-method safety boundary linking need assessment, pacing, body composition, severe restriction, exercise overload, prescription drugs, procedures, and maintenance.
-- Separated the episode's durable risk logic from its time-bound 2024 semaglutide regulatory details.
-- Made eating-disorder and ICU escalation part of weight-management safety rather than treating them as failures of motivation.
+- Added lean-tissue loss, rebound, joint-capacity, fasting, endoscopy, and multidisciplinary-routing safeguards.
+- Preserved the gradual-loss message while treating its exact numerical range as source-scoped rather than universal.
+- Kept eating-disorder, low-energy-availability, acute-exercise, medication, and procedure escalation inside one cross-method safety boundary.
 
 ## Related Concepts
 - [[LifestyleWeightManagement]] - supplies the sustainable eating, movement, sleep, body-composition, and maintenance layer.
@@ -56,3 +59,4 @@ The sources are public podcast discussions and do not establish universal BMI cu
 - [[IntensiveCareAsTimeBuying]] - rescue context when preventable weight-loss harms produce acute organ failure.
 - [[MuscleAsLongevityInfrastructure]] - explains why preserving lean mass and capability matters beyond scale change.
 - [[TCMWeightManagementBoundary]] - adjacent anti-extremism frame that also rejects appearance-led and one-size-fits-all intervention.
+- [[MultidisciplinaryWeightManagement]] - coordinated assessment and referral model for higher-risk or more complex cases.

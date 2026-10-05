@@ -12,7 +12,8 @@ sources:
   - vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5
   - vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3
   - the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763
-last_updated: 2026-09-30
+  - vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2
+last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
 
@@ -36,6 +37,8 @@ The GLP-1 and CGM sources sharpen the medical-technology edge of this page. GLP-
 
 VOL.117 contributes a low-friction lived example. [[XinXiaoqi|辛晓琪]] combines home-based [[SuperSlowJogging|超慢跑]], aerobic and core work, retained ordinary meals, and avoidance of both overfullness and starvation. Its importance to this synthesis is behavioral rather than mechanistic: reducing gym travel, beginning with manageable exercise, and keeping food categories in the diet can make weight-related habits more repeatable. The episode's exact cadence, fat-burning, soreness, glucose, and longevity-gene explanations do not displace the page's existing evidence boundaries.
 
+VOL.199 adds a clinical-routing layer without displacing lifestyle foundations. It treats complete carbohydrate avoidance, liquid-only or fruit-only plans, one-meal-a-day restriction, and copied celebrity timelines as rebound and lean-mass risks, then places eating structure, progressive exercise, psychological support, metabolic markers, and body composition inside [[MultidisciplinaryWeightManagement|coordinated care]] when complexity warrants it. Its “metabolic remodeling” language is most useful as an outcome hierarchy—fat and visceral-fat reduction, muscle preservation, glucose, pressure, lipids, uric acid, fatty liver, sleep, energy, and function—not as a single measurable mechanism.
+
 ## Key Claims
 - Weight management should be judged through body composition, waist and hip measurements, muscle, sleep, mood, and physical state, not only a scale number.
 - Energy balance matters, but useful tracking has to account for label error, metabolizable energy, fluid shifts, expenditure variation, and weekly trends.
@@ -43,7 +46,7 @@ VOL.117 contributes a low-friction lived example. [[XinXiaoqi|辛晓琪]] combin
 - Sustainable eating keeps staple foods, protein, vegetables, and dietary fat in the plan while using breakfast routines, food form, palm-based portion estimates, meal order, mixed carbohydrates, minimally processed foods, and portion awareness to reduce extremes.
 - Exercise and sleep are not optional add-ons because resistance training, hard training, recovery, and NEAT shape muscle preservation, body recomposition, and daily energy.
 - Maintenance matters across methods: diets, surgery, and GLP-1 treatment can all rebound when post-loss behavior, protein, resistance training, and muscle support do not change.
-- Weight anxiety becomes a clinical boundary issue when metabolic risk, endocrine problems, insomnia, obsessive food or device monitoring, or appearance distress dominate ordinary life.
+- Weight anxiety and more complex obesity become clinical-routing issues when metabolic risk, endocrine problems, insomnia, obsessive monitoring, appearance distress, joint limits, or procedural questions call for indication-led endocrine, nutrition, exercise, mental-health, or surgical assessment.
 
 ## Evidence
 - Broader measurement - [[vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5]] defines management through body composition, visceral and subcutaneous fat, muscle, arm and thigh circumference, waist, hip, waist-hip ratio, mood, sleep, and energy.
@@ -63,16 +66,16 @@ VOL.117 contributes a low-friction lived example. [[XinXiaoqi|辛晓琪]] combin
 - Anxiety boundary - [[vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5]] separates ordinary body-shape dissatisfaction from disease-associated weight problems and from anxiety severe enough to justify psychological or psychiatric support; [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd]] extends this to CGM score-watching, social-media body ideals, and information-cocoon pressure.
 - Sugar-control extension - [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]] prioritizes reducing liquid sugar and unconscious sugar while preserving staple foods, whole fruit, slower chewing, mixed meals, and occasional dessert.
 - Debate triage - [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]] adds low-GI honey, zero-sucrose products, hidden sugar, sweeteners, and anti-sugar pills as consumer-product shortcuts that need skepticism; [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484]] adds substitution-specific sweetener benefits, seed-oil evidence boundaries, and creatine monohydrate as a stronger supplement case.
+- Metabolic and care-routing layer - [[vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2]] rejects crash dieting and scale-only evaluation, emphasizes lean-mass and metabolic-marker outcomes, and routes more complex cases through coordinated assessment rather than a universal meal or exercise template.
 
 ## Counterevidence & Qualifications
-The sources are educational podcast summaries, not clinical guidelines or individualized plans. They do not provide detailed trial evidence for every dietary, exercise, fasting, or medication claim, and they explicitly leave obesity with underlying disease, endocrine abnormalities, medication choices, diabetes, fatty liver, severe anxiety, obsessive food or device monitoring, kidney or liver disease, pregnancy or fertility planning, psychiatric symptoms, eating-disorder risk, injury, and specialized athletic goals inside professional care. The concept should therefore be read as a practical self-management frame, not a replacement for diagnosis, treatment, or individualized coaching.
+The sources are educational podcast summaries, not clinical guidelines or individualized plans. They do not provide detailed trial evidence for every dietary, exercise, fasting, medication, endoscopic, surgical, TCM, or digital-monitoring claim, and they explicitly leave obesity with underlying disease, endocrine abnormalities, medication choices, diabetes, fatty liver, severe anxiety, obsessive food or device monitoring, kidney or liver disease, pregnancy or fertility planning, psychiatric symptoms, eating-disorder risk, injury, large-body-weight joint risk, and specialized athletic goals inside professional care. The concept should therefore be read as a practical self-management frame, not a replacement for diagnosis, treatment, or individualized coaching.
 
 ## What Changed
-- Added VOL.160's palm-based balanced-meal guide and its distinction between energy deficit and chronic hunger.
-- Added whole-food form, retained dietary fat, and short-term water shifts to the practical weight-management judgment.
-- Kept quantities, metabolic claims, disease contexts, and aggressive restriction inside source-scoped or qualified-care boundaries.
-- Added a home-based, gradual aerobic routine and moderate-fullness example while keeping its mechanisms source-scoped.
-- Added the least-restrictive-diet rule and made identity, appetite, environment, and post-diet planning explicit maintenance variables.
+- Added VOL.199's metabolism-first outcome hierarchy beyond scale weight.
+- Added lean-mass, joint-capacity, psychological, and secondary-cause considerations to method selection.
+- Added multidisciplinary care routing for complex cases while keeping lifestyle foundations central.
+- Kept fasting schedules, pacing numbers, procedures, TCM techniques, and digital estimates source-scoped.
 
 ## Related Concepts
 - [[ChinaWeightManagementPolicy]] - policy-level counterpart focused on chronic-disease and obesity-management infrastructure.
@@ -93,3 +96,5 @@ The sources are educational podcast summaries, not clinical guidelines or indivi
 - [[NutritionMentalHealth]] - adjacent diet-and-state concept that also keeps dietary intervention graded and bounded.
 - [[SleepAsDailyHealthAccount]] - sleep-health frame reinforced by the source's recovery and muscle-growth claims.
 - [[SuperSlowJogging]] - low-intensity aerobic option whose main contribution here is repeatability and gradual entry.
+- [[MultidisciplinaryWeightManagement]] - coordinated clinical pathway for cause assessment, intervention matching, and follow-up.
+- [[RapidWeightLossSafetyBoundary]] - cross-method safety frame for severe restriction, unsuitable exercise, drugs, and procedures.

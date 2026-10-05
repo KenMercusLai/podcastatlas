@@ -30355,3 +30355,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”
+
+Added source `vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2`; created [[ZhengChaoEndocrinologist|郑超]] and [[MultidisciplinaryWeightManagement|多学科体重管理]]; and resynthesized [[ZhejiangUniversitySecondAffiliatedHospital|浙江大学医学院附属第二医院]], [[LifestyleWeightManagement]], [[RapidWeightLossSafetyBoundary]], and [[MetabolicHealthBiomarkerContext]] from their complete preserved evidence inventories. Core synthesis: weight management should optimize metabolic health, muscle, function, and maintainability rather than short-term scale loss, with higher-complexity cases routed through coordinated cause assessment, nutrition, capacity-matched exercise, mental-health support, and indication-led medical care. No settled contradiction was adopted. Exact pacing, BMI and exercise cutoffs, fasting schedules, insulin-resistance mechanisms, AI accuracy, monitoring cadence, procedure outcomes, and TCM techniques remain source-scoped. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,795 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

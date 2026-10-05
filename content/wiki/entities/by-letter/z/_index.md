@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 12464
+wiki_total_pages: 12465
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "ZhengkeFund"
     title: "ZhenFund"
     url: "/wiki/entities/zhengkefund/"
+  - key: "ZhengChaoEndocrinologist"
+    title: "Zheng Chao / 郑超"
+    url: "/wiki/entities/zhengchaoendocrinologist/"
   - key: "ZhengChenggong"
     title: "Zheng Chenggong / 郑成功"
     url: "/wiki/entities/zhengchenggong/"

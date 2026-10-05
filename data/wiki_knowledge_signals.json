@@ -131515,9 +131515,9 @@
       "url": "/wiki/concepts/lifelongskillprogression/"
     },
     "LifestyleWeightManagement": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 3,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
@@ -131581,9 +131581,16 @@
           "show": "Huberman Lab",
           "title": "The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
           "url": "/wiki/sources/the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim1870631763/"
+        },
+        {
+          "episode_file": "llGoRS2nE3AOmv16od-_fny7but2 [llGoRS2nE3AOmv16od-_fny7but2].md",
+          "key": "vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2",
+          "show": "这病说来话长",
+          "title": "VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”",
+          "url": "/wiki/sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/lifestyleweightmanagement/"
     },
     "Light9M": {
@@ -148712,9 +148719,9 @@
       "url": "/wiki/concepts/metabolicflexibility/"
     },
     "MetabolicHealthBiomarkerContext": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3664199211 [SCIM3664199211].md",
@@ -148729,9 +148736,16 @@
           "show": "Huberman Lab",
           "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
           "url": "/wiki/sources/best-tools-for-gut-health-weight-loss-dr-chris-thompson-scim7025523715/"
+        },
+        {
+          "episode_file": "llGoRS2nE3AOmv16od-_fny7but2 [llGoRS2nE3AOmv16od-_fny7but2].md",
+          "key": "vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2",
+          "show": "这病说来话长",
+          "title": "VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”",
+          "url": "/wiki/sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/metabolichealthbiomarkercontext/"
     },
     "MetabolicMentalHealthBiomarkers": {
@@ -154224,6 +154238,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/multidisciplinarysleepcare/"
+    },
+    "MultidisciplinaryWeightManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llGoRS2nE3AOmv16od-_fny7but2 [llGoRS2nE3AOmv16od-_fny7but2].md",
+          "key": "vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2",
+          "show": "这病说来话长",
+          "title": "VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”",
+          "url": "/wiki/sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/multidisciplinaryweightmanagement/"
     },
     "MultilingualNationalAnthemFormation": {
       "episode_count": 1,
@@ -183254,9 +183284,9 @@
       "url": "/wiki/entities/rapid/"
     },
     "RapidWeightLossSafetyBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lpvfoCaGWyW5ahN49Nt-yQkxOm18 [lpvfoCaGWyW5ahN49Nt-yQkxOm18].md",
@@ -183271,9 +183301,16 @@
           "show": "这病说来话长",
           "title": "VOL.56大学毕业季｜摘眼镜、戴牙套、除皱、战痘、减肥 5学科联袂为你出招",
           "url": "/wiki/sources/vol-56-daxue-biyeji-zhai-yanjing-dai-yatao-chuzhou-zhandou-jianfei-5-xueke-lianmei-wei-ni-chuzhao-lkmkuyymlfqxiyoes-n5nflvljry/"
+        },
+        {
+          "episode_file": "llGoRS2nE3AOmv16od-_fny7but2 [llGoRS2nE3AOmv16od-_fny7but2].md",
+          "key": "vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2",
+          "show": "这病说来话长",
+          "title": "VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”",
+          "url": "/wiki/sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/rapidweightlosssafetyboundary/"
     },
     "RareEarthExportLeverage": {
@@ -247906,9 +247943,9 @@
       "url": "/wiki/entities/zhejianguniversitychildrenshospital/"
     },
     "ZhejiangUniversitySecondAffiliatedHospital": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "liyNBGzpSRBbZH9gUP9Svln4adzx [liyNBGzpSRBbZH9gUP9Svln4adzx].md",
@@ -247916,9 +247953,16 @@
           "show": "这病说来话长",
           "title": "VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南",
           "url": "/wiki/sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan/"
+        },
+        {
+          "episode_file": "llGoRS2nE3AOmv16od-_fny7but2 [llGoRS2nE3AOmv16od-_fny7but2].md",
+          "key": "vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2",
+          "show": "这病说来话长",
+          "title": "VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”",
+          "url": "/wiki/sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/zhejianguniversitysecondaffiliatedhospital/"
     },
     "ZhenFengXinOfficial": {
@@ -248037,6 +248081,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/zhengchangremonstratorwesternhan/"
+    },
+    "ZhengChaoEndocrinologist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llGoRS2nE3AOmv16od-_fny7but2 [llGoRS2nE3AOmv16od-_fny7but2].md",
+          "key": "vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2",
+          "show": "这病说来话长",
+          "title": "VOL.199放过那个体重秤吧：减肥不是挨饿，是一场“代谢重塑”",
+          "url": "/wiki/sources/vol-199-fangguo-nage-tizhongcheng-ba-jianfei-bushi-aie-shi-yichang-daixie-zhongsu-llgors2ne3aomv16od-_fny7but2/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/zhengchaoendocrinologist/"
     },
     "ZhengChongWesternHan": {
       "episode_count": 2,
