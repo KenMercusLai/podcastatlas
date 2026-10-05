@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3118
+topic_total_pages: 3119
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1249,6 +1249,9 @@ topic_concepts:
   - key: "EcoPopulism"
     title: "Eco-Populism"
     url: "/wiki/concepts/ecopopulism/"
+  - key: "EcologicalInterventionGovernance"
+    title: "Ecological Intervention Governance"
+    url: "/wiki/concepts/ecologicalinterventiongovernance/"
   - key: "EconomicHardshipProtestTrigger"
     title: "Economic Hardship Protest Trigger"
     url: "/wiki/concepts/economichardshipprotesttrigger/"

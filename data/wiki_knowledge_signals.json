@@ -24126,6 +24126,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/bespokeheritageeconomy/"
     },
+    "BethShapiro": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2211492808 [SCIM2211492808].md",
+          "key": "bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808",
+          "show": "Huberman Lab",
+          "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
+          "url": "/wiki/sources/bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/bethshapiro/"
+    },
     "BetterBrain": {
       "episode_count": 1,
       "show_count": 1,
@@ -43516,6 +43532,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/colorectalcancerscreening/"
     },
+    "ColossalBiosciences": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2211492808 [SCIM2211492808].md",
+          "key": "bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808",
+          "show": "Huberman Lab",
+          "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
+          "url": "/wiki/sources/bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/colossalbiosciences/"
+    },
     "Colosseum": {
       "episode_count": 2,
       "show_count": 1,
@@ -62730,6 +62762,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/echomind/"
+    },
+    "EcologicalInterventionGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2211492808 [SCIM2211492808].md",
+          "key": "bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808",
+          "show": "Huberman Lab",
+          "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
+          "url": "/wiki/sources/bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/ecologicalinterventiongovernance/"
     },
     "EcologicalTimekeeping": {
       "episode_count": 1,
@@ -84131,6 +84179,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/functionalbeverageoccasioncreation/"
     },
+    "FunctionalDeExtinction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2211492808 [SCIM2211492808].md",
+          "key": "bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808",
+          "show": "Huberman Lab",
+          "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
+          "url": "/wiki/sources/bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/functionaldeextinction/"
+    },
     "FunctionalFitnessReadiness": {
       "episode_count": 2,
       "show_count": 1,
@@ -86928,6 +86992,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/geneticlineupprivacyrisk/"
+    },
+    "GeneticRescueConservation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2211492808 [SCIM2211492808].md",
+          "key": "bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808",
+          "show": "Huberman Lab",
+          "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
+          "url": "/wiki/sources/bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/geneticrescueconservation/"
     },
     "Geneva": {
       "episode_count": 1,
@@ -100375,9 +100455,9 @@
       "url": "/wiki/concepts/highofficerefusalasriskavoidance/"
     },
     "HighQualityGenomeInfrastructure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2182961996 [SCIM2182961996].md",
@@ -100385,6 +100465,13 @@
           "show": "Huberman Lab",
           "title": "The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis",
           "url": "/wiki/sources/the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim2182961996/"
+        },
+        {
+          "episode_file": "SCIM2211492808 [SCIM2211492808].md",
+          "key": "bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808",
+          "show": "Huberman Lab",
+          "title": "Bringing Extinct Species Back to Life | Dr. Beth Shapiro",
+          "url": "/wiki/sources/bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808/"
         }
       ],
       "updated": "2026-10-01",

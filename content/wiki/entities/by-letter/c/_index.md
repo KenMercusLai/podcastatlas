@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 12444
+wiki_total_pages: 12446
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1337,6 +1337,9 @@ wiki_pages:
   - key: "ColonelMadanEverestPilot"
     title: "Colonel Madan (Everest pilot)"
     url: "/wiki/entities/colonelmadaneverestpilot/"
+  - key: "ColossalBiosciences"
+    title: "Colossal Biosciences"
+    url: "/wiki/entities/colossalbiosciences/"
   - key: "Colosseum"
     title: "Colosseum"
     url: "/wiki/entities/colosseum/"

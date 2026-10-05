@@ -30195,3 +30195,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | Bringing Extinct Species Back to Life | Dr. Beth Shapiro
+
+Added source `bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808`; created [[BethShapiro|Beth Shapiro]], [[ColossalBiosciences|Colossal Biosciences]], [[FunctionalDeExtinction]], [[GeneticRescueConservation]], and [[EcologicalInterventionGovernance]]; and resynthesized [[HighQualityGenomeInfrastructure]] from its complete preserved evidence inventory. Core synthesis: de-extinction here means selected trait and ecological-function reconstruction in a living-relative genome, while the same biotechnology stack may restore diversity or adaptive capacity in threatened living populations. Neither technical feasibility nor the risk of inaction bypasses animal welfare, staged testing, ecological monitoring, regulation, reversibility, or community authority. No settled contradiction was adopted. Dire-wolf identity, project milestones, conservation outcomes, numerical claims, gene-drive safeguards, ecosystem digital twins, artificial wombs, and medical spillovers remain source-scoped or prospective. The automatic `wiki/overview.md` was updated during normal ingest and then left to downstream synthesis refresh. No topic claim set was dirty and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,776 sources and 791 overview paragraphs across nine topics.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

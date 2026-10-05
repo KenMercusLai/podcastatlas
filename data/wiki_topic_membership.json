@@ -23306,6 +23306,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ColossalBiosciences": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ColumbiaJournalismSchool": [
     {
       "key": "culture",
@@ -30080,6 +30087,13 @@
     }
   ],
   "EcoPopulism": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "EcologicalInterventionGovernance": [
     {
       "key": "politics",
       "label": "Politics",

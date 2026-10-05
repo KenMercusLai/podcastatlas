@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9719
+wiki_total_pages: 9722
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "EcoPopulism"
     title: "Eco-Populism"
     url: "/wiki/concepts/ecopopulism/"
+  - key: "EcologicalInterventionGovernance"
+    title: "Ecological Intervention Governance"
+    url: "/wiki/concepts/ecologicalinterventiongovernance/"
   - key: "EcologicalMemory"
     title: "Ecological Memory"
     url: "/wiki/concepts/ecologicalmemory/"

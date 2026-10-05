@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bringing Extinct Species Back to Life | Dr. Beth Shapiro](sources/bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808.md) — Huberman Lab interview on functional de-extinction, genetic rescue, comparative genomics, animal welfare, and governance under ecological uncertainty.
 - [Coffer stop: AI may shrink tax base](sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6.md) — Economist Podcasts episode on AI-driven labor-tax erosion, reflective passive-cooling paint, and Stanislas Uta's testimony about French torture in Algeria.
 - [《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床](sources/zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc.md) — 栾大经丁义引见，以汉武帝的求仙欲望和少翁之死为谈判筹码，再用“斗棋”表演建立可信度；标题中的公主情节未出现在所给文本中。
 - [《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？](sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa.md) — 栾大以求仙承诺换得封侯、六印与卫长公主婚姻，却在方术无验后被跟踪揭穿见师谎言并腰斩，推荐者丁义亦被处死。
@@ -3840,6 +3841,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [Beth Shapiro](entities/BethShapiro.md) — Evolutionary biologist connecting ancient DNA and functional de-extinction to conservation genetic rescue and staged ecological governance.
+- [Colossal Biosciences](entities/ColossalBiosciences.md) — Biotechnology company developing cross-taxon de-extinction platforms and applying related tools to threatened living species.
 - [Stanislas Uta](entities/StanislasUta.md) — French reservist who protested, photographed, and later taught about torture he encountered during the Algerian War.
 - [Saïd Boutou](entities/SaidBoutou.md) — Fourteen-year-old Algerian shepherd whose torture and later portrait became part of the conflict's public memory.
 - [Transport for London](entities/TransportForLondon.md) — London transport authority connecting white bus roofs and heat complaints to real-world testing of stronger reflective coatings.
@@ -16335,6 +16338,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [Functional De-Extinction](concepts/FunctionalDeExtinction.md) — Trait- and ecological-function reconstruction in a living relative rather than exact recreation of an extinct individual.
+- [Genetic Rescue in Conservation](concepts/GeneticRescueConservation.md) — Use of gene flow, preserved cells, cloning, assisted reproduction, or targeted editing to restore threatened populations.
+- [Ecological Intervention Governance](concepts/EcologicalInterventionGovernance.md) — Staged comparison of action and inaction under welfare, containment, reversibility, monitoring, and community-accountability constraints.
 - [Consumption Tax With Cash Transfers](concepts/ConsumptionTaxWithCashTransfers.md) — Broad spending tax paired with essential-goods protection and cash support to preserve revenue without overburdening poorer households.
 - [Passive Radiative Cooling Coatings](concepts/PassiveRadiativeCoolingCoatings.md) — Highly reflective materials that reject solar energy and reduce surface heat without powered refrigeration.
 - [Colonial Atrocity Witnessing](concepts/ColonialAtrocityWitnessing.md) — Preservation and public transmission of evidence by witnesses rejecting abuses committed by their own side.
