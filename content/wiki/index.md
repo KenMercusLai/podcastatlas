@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？](sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv.md) — 庄青翟与三长史因共同威胁和旧怨结盟，以商人田信为桥梁指控张汤泄露政策、官商勾结；转录在指控未完时中断。
 - [《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？](sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca.md) — 减宣奏报和赵禹审讯把张汤逼向自杀，其遗书、清贫家产与母亲薄葬又改变汉武帝判断，最终使三长史被诛、庄青翟自杀。
 - [《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案](sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag.md) — 张汤借鲁谒居构陷李文、因亲自摩足暴露异常亲密，又在孝文园瘗钱被盗后把责任推向庄青翟，多路积怨由此汇入同一调查。
 - [《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？](sources/zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h.md) — 汉武帝朝廷以收回地方铸币权、集中铜材、分设上林三官和统一五铢重量构成中央铸币机制，其财政与长期稳定效果保留来源限定。
@@ -3865,11 +3866,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 
 ## Entities
-- [朱买臣 / Zhu Maichen (Western Han)](entities/ZhuMaichenWesternHan.md) — 张汤遗书所指三长史之一，在汉武帝翻案式追查后与王朝、边通同被处死。
-- [王朝 / Wang Chao (Western Han)](entities/WangChaoWesternHan.md) — 张汤遗书所指三长史之一，以西汉语境后缀与同名人物消歧。
-- [边通 / Bian Tong (Western Han)](entities/BianTongWesternHan.md) — 张汤遗书所指三长史之一，与朱买臣、王朝一同进入死后反向清算。
+- [严助 / Yan Zhu (Western Han)](entities/YanZhuWesternHan.md) — 朱买臣的早期举荐者；其在淮南案后的处死成为朱买臣仇视张汤的重要来源。
+- [田信 / Tian Xin (Western Han)](entities/TianXinWesternHan.md) — 被朱买臣选作指控张汤泄露政策与官商勾结之桥梁的西汉商人。
+- [朱买臣 / Zhu Maichen (Western Han)](entities/ZhuMaichenWesternHan.md) — 因严助之死、张汤羞辱与共同威胁组织三长史反击，并以田信关系设计指控，后被反向清算。
+- [王朝 / Wang Chao (Western Han)](entities/WangChaoWesternHan.md) — 因积怨和共同威胁参与反张汤联盟、后被张汤遗书指控并处死的三长史之一。
+- [边通 / Bian Tong (Western Han)](entities/BianTongWesternHan.md) — 因积怨和共同威胁参与反张汤联盟、后与朱买臣、王朝一同进入死后反向清算。
 - [张汤母亲 / Mother of Zhang Tang (Western Han)](entities/ZhangTangMotherWesternHan.md) — 以拒绝厚葬和牛车薄葬表达儿子受谗而死，并影响汉武帝重审判断的张汤之母。
-- [庄青翟 / Zhuang Qingdi (Western Han)](entities/ZhuangQingdiWesternHan.md) — 西汉丞相；孝文园瘗钱被盗后的共同谢罪安排因张汤沉默和反向调查而变成公开责任冲突。
+- [庄青翟 / Zhuang Qingdi (Western Han)](entities/ZhuangQingdiWesternHan.md) — 孝文园责任冲突中被张汤追查的西汉丞相，随后与三长史组成自保式反击联盟。
 - [减宣 / Jian Xuan (Western Han)](entities/JianXuanWesternHan.md) — 调查鲁谒居—李文案并因担心汉武帝庇护张汤而暂缓上奏的西汉官员。
 - [鲁谒居 / Lu Yezhu (Western Han)](entities/LuYezhuWesternHan.md) — 张汤宠信属吏，其构陷李文与病中受摩足成为张汤案的关键证据链。
 - [李文 / Li Wen (Western Han)](entities/LiWenWesternHan.md) — 与张汤有隙、寻找文书证据未成，反被鲁谒居秘密构陷并由张汤处死的西汉官员。
@@ -5920,7 +5923,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张厂 / Zhang Chang (Shanyang governor)](entities/ZhangChangShanyangWesternHan.md) — Shanyang governor tasked with confidential surveillance of Liu He in Hanji 430.
 - [张贺 / Zhang He (Western Han)](entities/ZhangHeWesternHan.md) — Deceased benefactor whom Han Xuan rewards posthumously in Hanji 430.
 - [张安世 / Zhang Anshi (Western Han)](entities/ZhangAnshiWesternHan.md) — Western Han official whose refusal of excessive reward illustrates reward-fitness caution in Hanji 430.
-- [张汤 / Zhang Tang (Western Han)](entities/ZhangTangWesternHan.md) — Western Han cruel official whose fate becomes a family precedent for Zhang Anshi's low-profile court survival.
+- [张汤 / Zhang Tang (Western Han)](entities/ZhangTangWesternHan.md) — 以严酷执法、偏私疑云和持续树敌触发三长史结盟，死后又以遗书、家产与薄葬反向清算对手的西汉酷吏。
 - [赵广汉 / Zhao Guanghan (Western Han)](entities/ZhaoGuanghanWesternHan.md) — Western Han clean official whose early anti-haoqiang success and later retaliatory abuse make him a power-boundary case.
 - [尹翁归 / 尹翁规 / Yin Wenggui (Western Han)](entities/YinWengguiWesternHan.md) — Western Han clean and strict official used as Zhao Guanghan's more orderly local-governance contrast.
 - [张延寿 / Zhang Yanshou (Western Han)](entities/ZhangYanshouWesternHan.md) — Zhang Anshi's son, sent outward to Beidi as part of Zhang-family visibility management in Hanji 431.

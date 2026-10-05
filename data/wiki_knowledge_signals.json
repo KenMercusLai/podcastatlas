@@ -5500,9 +5500,9 @@
       "url": "/wiki/concepts/accessiontimingcoalitionsignal/"
     },
     "AccumulatedEnmityDefaultSuspicion": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》453｜官场启示录：同事捅你前，必然忍你很久了 [lnrmyJyeP_XheN3Lmzu2_yhtSuxb].md",
@@ -5524,6 +5524,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？ [loWPHPlBVguGDYfAg-ScZPgggYrv].md",
+          "key": "zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv/"
         }
       ],
       "updated": "2026-10-06",
@@ -24431,9 +24438,9 @@
       "url": "/wiki/entities/bianhonglatehan/"
     },
     "BianTongWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
@@ -24441,6 +24448,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？ [loWPHPlBVguGDYfAg-ScZPgggYrv].md",
+          "key": "zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv/"
         }
       ],
       "updated": "2026-10-06",
@@ -218761,6 +218775,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/tianshenglatehan/"
     },
+    "TianXinWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？ [loWPHPlBVguGDYfAg-ScZPgggYrv].md",
+          "key": "zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/tianxinwesternhan/"
+    },
     "TianYanLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -228288,9 +228318,9 @@
       "url": "/wiki/entities/wangchangxiajianggengshi/"
     },
     "WangChaoWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
@@ -228298,6 +228328,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？ [loWPHPlBVguGDYfAg-ScZPgggYrv].md",
+          "key": "zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv/"
         }
       ],
       "updated": "2026-10-06",
@@ -241087,6 +241124,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/yanyouxingeneral/"
     },
+    "YanZhuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？ [loWPHPlBVguGDYfAg-ScZPgggYrv].md",
+          "key": "zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/yanzhuwesternhan/"
+    },
     "YangAPrincessWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -246434,9 +246487,9 @@
       "url": "/wiki/entities/zhangtangmotherwesternhan/"
     },
     "ZhangTangWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》431｜职场必读！酷吏之子张安世的职场智慧 [lmxEy8uOliWYNiMxcnH1KhJefEnl].md",
@@ -246465,6 +246518,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？ [loWPHPlBVguGDYfAg-ScZPgggYrv].md",
+          "key": "zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv/"
         }
       ],
       "updated": "2026-10-06",
@@ -250301,9 +250361,9 @@
       "url": "/wiki/entities/zhulinglatehan/"
     },
     "ZhuMaichenWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？ [luq3jAA9IrUhIQIqldUEWBJ-luCa].md",
@@ -250311,6 +250371,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？ [loWPHPlBVguGDYfAg-ScZPgggYrv].md",
+          "key": "zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv/"
         }
       ],
       "updated": "2026-10-06",
@@ -250613,9 +250680,9 @@
       "url": "/wiki/entities/zhuangcanwesternhan/"
     },
     "ZhuangQingdiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案 [lp8Mwe-Z21LHQHG4lwNJ-jMeotaG].md",
@@ -250630,6 +250697,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？ [loWPHPlBVguGDYfAg-ScZPgggYrv].md",
+          "key": "zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv/"
         }
       ],
       "updated": "2026-10-06",

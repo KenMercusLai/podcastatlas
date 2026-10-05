@@ -30405,3 +30405,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？
+
+Added source `zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv`; created [[YanZhuWesternHan|严助]] and [[TianXinWesternHan|田信]]; and resynthesized [[ZhangTangWesternHan|张汤]], [[ZhuangQingdiWesternHan|庄青翟]], [[ZhuMaichenWesternHan|朱买臣]], [[WangChaoWesternHan|王朝]], [[BianTongWesternHan|边通]], and [[AccumulatedEnmityDefaultSuspicion|积怨式默认怀疑]] from their complete preserved evidence inventories. Core synthesis: Zhang's continued case against Zhuang turns three clerks' stored humiliation, Zhu's grievance over Yan Zhu, and shared self-protection into an explicit coalition; Tian Xin's commercial relationship becomes the inferential bridge for an allegation of policy leakage and official-commercial collusion. No settled contradiction was adopted. The title's “三人成虎” and “逼死” remain framing rather than independently proved causation, and the incomplete transcript cannot establish the full accusation, bribery, guilt, or outcome. Raw forms 庄青宅 and 严柱 were normalized to 庄青翟 and 严助. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,801 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

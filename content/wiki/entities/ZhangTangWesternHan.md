@@ -8,12 +8,13 @@ sources:
   - zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq
   - zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag
   - zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca
+  - zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv
 last_updated: 2026-10-06
 ---
 
 ## Overview
 
-张汤 / Zhang Tang is a Western Han cruel-official figure whose current evidence joins institutional authority to the complete interpersonal, investigative, and posthumous chain behind his fall. He revises law with [[ZhaoYuWesternHan|赵禹]], uses a covert report by favored clerk [[LuYezhuWesternHan|鲁谒居]] to eliminate rival [[LiWenWesternHan|李文]], accumulates enemies, and turns a shared accountability crisis with [[ZhuangQingdiWesternHan|庄青翟]] into open conflict. His suicide, final accusation, modest estate, and mother's sparse funeral then redirect imperial punishment toward his opponents; his fate later becomes the family precedent behind [[ZhangAnshiWesternHan|张安世]]'s low-profile survival.
+张汤 / Zhang Tang is a Western Han cruel-official figure whose current evidence joins institutional authority to the complete interpersonal, coalition-building, investigative, and posthumous chain behind his fall. He revises law with [[ZhaoYuWesternHan|赵禹]], uses a covert report by favored clerk [[LuYezhuWesternHan|鲁谒居]] to eliminate rival [[LiWenWesternHan|李文]], accumulates enemies, and turns a shared accountability crisis with [[ZhuangQingdiWesternHan|庄青翟]] into open conflict. His continued pressure helps convert stored grievances among three clerks into a counter-coalition before his suicide and final accusation redirect imperial punishment toward those opponents; his fate later becomes the family precedent behind [[ZhangAnshiWesternHan|张安世]]'s low-profile survival.
 
 ## Current Profile
 
@@ -22,6 +23,8 @@ The current profile is a bounded combination of institutional role, patronage, a
 Hanji 338-2 supplies the missing mechanism behind Hanji 431's compressed memory of harshness, resentment, and suicide. When Li Wen searches records for evidence against him, Lu Yezhu arranges a counter-accusation; Zhang receives the case, executes Li, and conceals Lu's role from [[HanWudi|汉武帝]]. Zhang later visits the ill Lu and massages his feet, allowing [[LiuPengzuZhaoKingWesternHan|刘彭祖]] to argue that such unusual deference signals concealed collusion.
 
 After Lu dies, Zhang tries to help Lu's imprisoned brother while pretending not to know him. The performance fails: the brother reads it as abandonment and discloses the Li Wen plot to the investigation pursued by [[JianXuanWesternHan|减宣]]. A second pressure line opens when Zhang agrees to appear with Zhuang Qingdi over stolen funerary-park money but does not join the chancellor's apology. Zhang then receives authority to investigate Zhuang and tries to frame the matter as knowing non-reporting, protecting himself from immediate shared responsibility while making another high-ranking enemy.
+
+Hanji 339-1 supplies the coalition-building stage. Zhang continues seeking evidence against Zhuang even though the episode says he knows the chancellor bears limited responsibility. [[ZhuMaichenWesternHan|朱买臣]], [[WangChaoWesternHan|王朝]], and [[BianTongWesternHan|边通]] respond by joining Zhuang: the episode attributes their hostility to repeated humiliation under Zhang and their fear that they will become his next targets. Zhu has an additional grievance because Zhang allegedly insisted on executing Zhu's benefactor [[YanZhuWesternHan|严助]]. Zhu then uses merchant [[TianXinWesternHan|田信]] and Zhang's alleged friendship with him to construct a charge of policy leakage and official-commercial collusion. Because the transcript breaks off mid-accusation, this stage establishes the attack's narrative mechanism rather than the allegation's truth.
 
 Hanji 431 makes that fate a family precedent. Zhang Anshi hides credit, refuses excessive favor, and avoids private obligation in part because his capable but harsh father became overexposed through imperial closeness and ministerial hostility.
 
@@ -32,7 +35,8 @@ Hanji 339-2 completes the missing terminal sequence. [[JianXuanWesternHan|减宣
 - Western Han official remembered within the cruel-official field.
 - Paired with Zhao Yu in revising and supplementing law under Han Wudi.
 - Uses Lu Yezhu's covert accusation to eliminate Li Wen, then exposes the hidden patronage through personal care and failed staged distance.
-- Avoids shared apology over the funerary-park theft, investigates Zhuang Qingdi, and draws grievances that converge during his own case.
+- Avoids shared apology over the funerary-park theft, investigates Zhuang Qingdi, and turns dispersed grievances into an explicit counter-coalition.
+- Is accused through an inferential chain linking his friendship with merchant Tian Xin to policy leakage and official-commercial collusion.
 - Uses suicide and a final accusation to redirect scrutiny toward three hostile chief clerks.
 - Serves as a negative family precedent for Zhang Anshi's low-visibility court survival.
 
@@ -48,6 +52,10 @@ Li Wen and Lu Yezhu chain:
 Responsibility conflict:
 - [[zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag|Hanji 338-2]] says Zhang does not join Zhuang Qingdi's apology and then seeks to establish the chancellor's knowing non-reporting after Wudi assigns him the investigation.
 
+Coalition and Tian Xin accusation:
+- [[zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv|Hanji 339-1]] says Zhang continues pressing the case against Zhuang, prompting Zhu Maichen, Wang Chao, and Bian Tong to coordinate with the chancellor under shared threat and accumulated grievance.
+- [[zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv|Hanji 339-1]] says Zhu uses Tian Xin's profit and friendship with Zhang to allege information leakage and collusion, while leaving that inference unproved in the supplied text.
+
 Accusation, suicide, and posthumous reversal:
 - [[zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca|Hanji 339-2]] says Jian Xuan's report triggers formal charges, Zhang claims innocence, and Zhao Yu's appointment convinces him to kill himself rather than undergo the expected interrogation.
 - [[zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca|Hanji 339-2]] says Zhang's final letter, modest documented estate, and mother's sparse funeral change Wudi's reading and redirect punishment toward the three clerks and Zhuang Qingdi.
@@ -57,13 +65,13 @@ Cruel-official and family-precedent role:
 
 ## Qualifications
 
-The four sources do not supply a full biography or legal dossier. Hanji 347-1 does not allocate responsibility for specific laws or prove that Zhang and Zhao Yu held identical legal views. Hanji 338-2's “massage” detail makes closeness visible but does not independently prove conspiracy. Hanji 339-2's eight charges, expected interrogation, final-letter wording, estate valuation, funeral sequence, and punishments remain episode-attributed; Zhang's suicide may redirect the case without proving innocence on every allegation. Motives assigned to the ruler, accused, investigators, family, and opponents remain narrated or inferred.
+The five sources do not supply a full biography or legal dossier. Hanji 347-1 does not allocate responsibility for specific laws or prove that Zhang and Zhao Yu held identical legal views. Hanji 338-2's “massage” detail makes closeness visible but does not independently prove conspiracy. Hanji 339-1's transcript stops mid-accusation: humiliation, motives, the Yan Zhu decision, Tian Xin's profit, friendship, leakage, bribery, and collusion remain episode-attributed rather than adjudicated fact. Hanji 339-2's eight charges, expected interrogation, final-letter wording, estate valuation, funeral sequence, and punishments likewise remain episode-attributed; Zhang's suicide may redirect the case without proving innocence on every allegation.
 
 ## What Changed
 
-- Completed the downfall from Jian Xuan's report and Zhao Yu's interrogation assignment through Zhang's suicide.
-- Added the final accusation, estate inventory, and sparse funeral as a combined posthumous evidentiary counterattack.
-- Added the executions of three chief clerks, Zhuang Qingdi's forced suicide, and the rehabilitation signals toward Zhang's circle.
+- Filled the missing coalition stage between the funerary-park responsibility conflict and the formal terminal case.
+- Reframed the three clerks from later names in Zhang's final accusation into actors coordinating under shared threat and stored grievance.
+- Added Tian Xin as the accusation's inferential commercial bridge while keeping leakage, bribery, and collusion unproved.
 
 ## Relationships
 
@@ -76,6 +84,8 @@ The four sources do not supply a full biography or legal dossier. Hanji 347-1 do
 - [[JianXuanWesternHan]] - investigator who pursues the disclosed accusation chain.
 - [[ZhuangQingdiWesternHan]] - chancellor turned opponent through the funerary-park responsibility dispute.
 - [[ZhuMaichenWesternHan]], [[WangChaoWesternHan]], and [[BianTongWesternHan]] - three chief clerks named in Zhang's final accusation and punished after his death.
+- [[YanZhuWesternHan]] - Zhu Maichen's benefactor whose execution is presented as a deep source of hostility toward Zhang.
+- [[TianXinWesternHan]] - merchant relationship used to accuse Zhang of leaking information and enabling private profit.
 - [[ZhangTangMotherWesternHan]] - mother whose sparse funeral decision helps alter the emperor's judgment.
 - [[AccumulatedEnmityDefaultSuspicion]] - political-risk pattern sharpened by Zhang's repeated creation of hostile witnesses and investigators.
 - [[PosthumousMeritVindication]] - Zhang's case extends vindication to a will, estate record, and funeral signal rather than a defender's memorial alone.
