@@ -17,9 +17,9 @@ outputs: ["html"]
 - Total wiki content pages: 25945
 
 ## Links
-- Wiki link references: 616824
-- Unique wiki link targets: 25956
-- Missing targets: 17
+- Wiki link references: 616835
+- Unique wiki link targets: 25958
+- Missing targets: 19
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
@@ -67,6 +67,10 @@ outputs: ["html"]
   - `content/wiki/sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270.md`
 - `[[RailwayNetworkEffects]]`
   - `content/wiki/concepts/TayBridgeDisaster.md`
+- `[[SaidBoutou]]`
+  - `content/wiki/log.md`
+- `[[StanislasUta]]`
+  - `content/wiki/log.md`
 - `[[SupplementContaminationAndMislabelling]]`
   - `content/wiki/concepts/ShilajitEvidenceBoundary.md`
 - `[[TemporaryUseUrbanism]]`

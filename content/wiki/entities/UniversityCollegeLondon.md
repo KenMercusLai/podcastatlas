@@ -4,7 +4,7 @@ type: entity
 tags: [university, research, cities, criminology, materials]
 sources:
   - spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354
-  - coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6
+  - coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384
 last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
@@ -32,9 +32,9 @@ A separate materials branch attributes to UCL a coating made from silica-aerogel
 ## Evidence
 
 - Crime-data evidence: [[spring-then-fall-a-weakened-muslim-brotherhood-6a7aef1b616564bf00d9b354]] connects UCL researchers with adjusted city boundaries, harmonized definitions, and qualified Europe-America crime comparisons.
-- Materials evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] attributes a roughly 94%-reflective silica-aerogel and polymer coating to UCL.
-- Optical-design evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] says the aerogel scatters light in many directions, preserving a white rather than mirror-like appearance.
-- Deployment evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] connects the research with bus-cooling work involving Transport for London.
+- Materials evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] attributes a roughly 94%-reflective silica-aerogel and polymer coating to UCL.
+- Optical-design evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] says the aerogel scatters light in many directions, preserving a white rather than mirror-like appearance.
+- Deployment evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] connects the research with bus-cooling work involving Transport for London.
 
 ## Qualifications
 

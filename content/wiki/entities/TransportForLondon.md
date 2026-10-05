@@ -3,7 +3,7 @@ title: "Transport for London"
 type: entity
 tags: [transport, london, buses, climate-adaptation]
 sources:
-  - coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6
+  - coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384
 last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
@@ -29,9 +29,9 @@ The source positions TfL as a deployment partner rather than the coating's inven
 
 ## Evidence
 
-- Existing-practice evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] says London buses have had white roofs since 2004.
-- Operational-pressure evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] says bus heat complaints reached a record in 2025.
-- Research-connection evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] connects TfL with scientists and engineers assessing improved reflective paint.
+- Existing-practice evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] says London buses have had white roofs since 2004.
+- Operational-pressure evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] says bus heat complaints reached a record in 2025.
+- Research-connection evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] connects TfL with scientists and engineers assessing improved reflective paint.
 
 ## Qualifications
 

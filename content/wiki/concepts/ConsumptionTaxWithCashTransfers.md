@@ -3,7 +3,7 @@ title: "Consumption Tax With Cash Transfers"
 type: concept
 tags: [taxation, consumption, redistribution, public-finance]
 sources:
-  - coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6
+  - coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384
 last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
@@ -30,9 +30,9 @@ This is a policy frame, not a completed proposal. The episode does not specify a
 
 ## Evidence
 
-- Revenue-base evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] presents consumption taxes as capable of raising substantial sums when labor-tax revenue weakens.
-- Avoidance evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] says economists often favor consumption taxes because they are difficult to avoid.
-- Distributional-design evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] pairs exemptions for food, energy, and children's clothing with higher cash benefits for low-income households.
+- Revenue-base evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] presents consumption taxes as capable of raising substantial sums when labor-tax revenue weakens.
+- Avoidance evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] says economists often favor consumption taxes because they are difficult to avoid.
+- Distributional-design evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] pairs exemptions for food, energy, and children's clothing with higher cash benefits for low-income households.
 
 ## Counterevidence & Qualifications
 

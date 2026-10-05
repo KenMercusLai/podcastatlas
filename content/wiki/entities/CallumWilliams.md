@@ -4,7 +4,7 @@ type: entity
 tags: [person, journalist, economics]
 sources:
   - for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95
-  - coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6
+  - coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384
 last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
@@ -33,9 +33,9 @@ In the AI-tax source, he argues that tax systems built around workers may fail t
 
 - Wealth-origin evidence: [[for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95]] attributes to Williams a taxonomy separating competitive company-building from inheritance and rent-linked wealth.
 - Legitimacy evidence: [[for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95]] separates political-influence, justice, and economic-cost arguments for wealth taxation.
-- Fiscal-risk evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] uses labor-tax dependence and the smaller AI-spending base to explain why direct AI taxes may not replace lost worker revenue.
-- Policy-comparison evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] surveys wealth, excess-profit, capital-gains, and consumption taxes alongside direct AI levies.
-- Political-timing evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] attributes to Williams the view that serious reform may require a fiscal crisis.
+- Fiscal-risk evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] uses labor-tax dependence and the smaller AI-spending base to explain why direct AI taxes may not replace lost worker revenue.
+- Policy-comparison evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] surveys wealth, excess-profit, capital-gains, and consumption taxes alongside direct AI levies.
+- Political-timing evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] attributes to Williams the view that serious reform may require a fiscal crisis.
 
 ## Qualifications
 

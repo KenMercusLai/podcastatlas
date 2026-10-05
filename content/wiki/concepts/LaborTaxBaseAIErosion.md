@@ -5,7 +5,7 @@ tags: [ai, taxation, labor, public-finance, automation]
 sources:
   - tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128
   - tech-20260914-tech-pod-128-tech-20260914-tech-pod-128
-  - coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6
+  - coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384
 last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
@@ -36,13 +36,13 @@ None of the sources establishes that mass unemployment has occurred or will occu
 
 ## Evidence
 
-- Labor-tax dependence: [[tech-20260914-tech-pod-128-tech-20260914-tech-pod-128]] gives the U.S. federal exposure as 66%, or by another calculation about three quarters; [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] also uses roughly three quarters.
+- Labor-tax dependence: [[tech-20260914-tech-pod-128-tech-20260914-tech-pod-128]] gives the U.S. federal exposure as 66%, or by another calculation about three quarters; [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] also uses roughly three quarters.
 - Local fiscal-shock evidence: [[tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128]] connects Barberton's 1980 factory closure to an income-tax loss and hiring freeze.
 - Payroll-asymmetry evidence: [[tech-20260914-tech-pod-128-tech-20260914-tech-pod-128]] says employers pay about 7.65% in Social Security and Medicare taxes for many workers while AI work triggers no equivalent payroll tax.
-- Corporate-receipt evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] reports rising U.S. corporate earnings alongside falling corporate-tax receipts and points to AI-investment deductions.
-- Tax-base-scale evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] compares about $700bn of AI spending with $15tn-16tn of labor income.
+- Corporate-receipt evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] reports rising U.S. corporate earnings alongside falling corporate-tax receipts and points to AI-investment deductions.
+- Tax-base-scale evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] compares about $700bn of AI spending with $15tn-16tn of labor income.
 - Demand-effect evidence: [[tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128]] warns that fewer paychecks can reduce consumer spending as well as income-tax revenue.
-- Policy-menu evidence: the Marketplace Tech sources present token, public-equity, payroll-neutrality, sales, VAT, and profit-tax options; [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] adds excess-profit, capital-gains, wealth, and transfer-protected consumption taxation.
+- Policy-menu evidence: the Marketplace Tech sources present token, public-equity, payroll-neutrality, sales, VAT, and profit-tax options; [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] adds excess-profit, capital-gains, wealth, and transfer-protected consumption taxation.
 
 ## Counterevidence & Qualifications
 

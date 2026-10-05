@@ -3,7 +3,7 @@ title: "Passive Radiative Cooling Coatings"
 type: concept
 tags: [climate, cooling, materials, cities, energy]
 sources:
-  - coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6
+  - coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384
 last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
@@ -31,11 +31,11 @@ The urban value is not only lower indoor temperature. Air conditioning consumes 
 
 ## Evidence
 
-- Energy-context evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] says fans and air conditioning accounted for more than 10% of global electricity use in the previous year.
-- Surface-absorption evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] says dark roofs can absorb about 90% of incoming sunlight and roofs cover roughly one fifth of some U.S. cities.
-- Material evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] attributes about 94% reflectivity to a [[UniversityCollegeLondon]] silica-aerogel and polymer coating.
-- Deployment evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] uses [[TransportForLondon]]'s white bus roofs and 2025 heat complaints as a practical vehicle-cooling case.
-- Heat-flow evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] contrasts rejecting incoming energy toward space with air conditioning's electricity use and outdoor heat discharge.
+- Energy-context evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] says fans and air conditioning accounted for more than 10% of global electricity use in the previous year.
+- Surface-absorption evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] says dark roofs can absorb about 90% of incoming sunlight and roofs cover roughly one fifth of some U.S. cities.
+- Material evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] attributes about 94% reflectivity to a [[UniversityCollegeLondon]] silica-aerogel and polymer coating.
+- Deployment evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] uses [[TransportForLondon]]'s white bus roofs and 2025 heat complaints as a practical vehicle-cooling case.
+- Heat-flow evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] contrasts rejecting incoming energy toward space with air conditioning's electricity use and outdoor heat discharge.
 
 ## Counterevidence & Qualifications
 

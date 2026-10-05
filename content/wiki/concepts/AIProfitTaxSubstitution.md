@@ -5,7 +5,7 @@ tags: [ai, taxation, corporate-profits, public-finance, redistribution]
 sources:
   - tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128
   - tech-20260914-tech-pod-128-tech-20260914-tech-pod-128
-  - coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6
+  - coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384
 last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
@@ -37,9 +37,9 @@ Profit taxation is attractive only when the gain appears as enforceable taxable 
 
 - General-profit-tax evidence: [[tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128]] records [[JosephStiglitz]]'s call to close loopholes and tax corporate profits rather than overdesign an AI-specific base.
 - Replacement-menu evidence: [[tech-20260914-tech-pod-128-tech-20260914-tech-pod-128]] places corporate-profit taxation beside sales, value-added, AI-usage, and payroll-tax reforms.
-- Receipt-gap evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] reports that corporate earnings rose while corporate-tax receipts fell and links part of the gap to AI-investment deductions.
-- Excess-return evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] proposes taxing profits earned at unusually high rates of return if AI produces extraordinary corporate gains.
-- Capital-gains evidence: [[coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6]] notes that early AI investments may create taxable gains when holdings are sold.
+- Receipt-gap evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] reports that corporate earnings rose while corporate-tax receipts fell and links part of the gap to AI-investment deductions.
+- Excess-return evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] proposes taxing profits earned at unusually high rates of return if AI produces extraordinary corporate gains.
+- Capital-gains evidence: [[coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384]] notes that early AI investments may create taxable gains when holdings are sold.
 - Technical-unit evidence: [[tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128]] says local AI models can weaken token-based taxation, increasing the relative appeal of profit taxes.
 
 ## Counterevidence & Qualifications

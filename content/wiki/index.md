@@ -7,7 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [Bringing Extinct Species Back to Life | Dr. Beth Shapiro](sources/bringing-extinct-species-back-to-life-dr-beth-shapiro-scim2211492808.md) — Huberman Lab interview on functional de-extinction, genetic rescue, comparative genomics, animal welfare, and governance under ecological uncertainty.
-- [Coffer stop: AI may shrink tax base](sources/coffer-stop-ai-may-shrink-tax-base-9d736d6116fe084db141fce2778cebf6.md) — Economist Podcasts episode on AI-driven labor-tax erosion, reflective passive-cooling paint, and Stanislas Uta's testimony about French torture in Algeria.
+- [Coffer stop: AI may shrink tax base](sources/coffer-stop-ai-may-shrink-tax-base-6abf81fdb06169dc7218d384.md) — Economist Podcasts episode on AI-driven labor-tax erosion, reflective passive-cooling paint, and Stanislas Hutin's testimony about French torture in Algeria.
 - [《资治通鉴·汉纪》344-1｜他不是周杰伦，却凭一场魔术将公主骗上床](sources/zizhi-tongjian-hanji-344-1-ta-bushi-zhoujielun-que-ping-yichang-moshu-jiang-gongzhu-pian-shangchuang-lho5giyqfpigbvfhguckpnbsy6oc.md) — 栾大经丁义引见，以汉武帝的求仙欲望和少翁之死为谈判筹码，再用“斗棋”表演建立可信度；标题中的公主情节未出现在所给文本中。
 - [《资治通鉴·汉纪》344-2｜汉武帝当年为何腰斩亲女婿？](sources/zizhi-tongjian-hanji-344-2-hanwudi-dangnian-weihe-yaozhan-qinnvxu-llmavvgeaaxwcsz_pxirfulbfpaa.md) — 栾大以求仙承诺换得封侯、六印与卫长公主婚姻，却在方术无验后被跟踪揭穿见师谎言并腰斩，推荐者丁义亦被处死。
 - [《资治通鉴·汉纪》347-1｜古代是如何用礼教PUA贞洁烈女的](sources/zizhi-tongjian-hanji-347-1-gudai-shi-ruhe-yong-lijiao-pua-zhenjie-lienv-de-lt39fogfivnipellq6y2xl6ctrzq.md) — 以赵禹的清廉、严法和拒绝请托区分原则与裁量，再以烈女的自伤、守寡和贞节牌坊引出性别化荣誉如何遮蔽生命代价。
@@ -3843,8 +3843,8 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [Beth Shapiro](entities/BethShapiro.md) — Evolutionary biologist connecting ancient DNA and functional de-extinction to conservation genetic rescue and staged ecological governance.
 - [Colossal Biosciences](entities/ColossalBiosciences.md) — Biotechnology company developing cross-taxon de-extinction platforms and applying related tools to threatened living species.
-- [Stanislas Uta](entities/StanislasUta.md) — French reservist who protested, photographed, and later taught about torture he encountered during the Algerian War.
-- [Saïd Boutou](entities/SaidBoutou.md) — Fourteen-year-old Algerian shepherd whose torture and later portrait became part of the conflict's public memory.
+- [Stanislas Hutin](entities/StanislasHutin.md) — French reservist who protested, photographed, and later taught about torture he encountered during the Algerian War.
+- [Saïd Boutout](entities/SaidBoutout.md) — Fourteen-year-old Algerian shepherd whose torture and later portrait became part of the conflict's public memory.
 - [Transport for London](entities/TransportForLondon.md) — London transport authority connecting white bus roofs and heat complaints to real-world testing of stronger reflective coatings.
 - [栾大 / Luan Da (Western Han)](entities/LuanDaWesternHan.md) — 以求仙承诺获得封侯、六印和帝女婚姻，后因长期无验及被监控行程否定的见师报告而遭腰斩的西汉方士。
 - [卫长公主 / Princess Wei the Elder (Western Han)](entities/WeiZhangPrincessWesternHan.md) — 汉武帝与卫子夫之女，先嫁曹襄、后被用于封结栾大异常受宠地位的帝室公主。
