@@ -76528,9 +76528,9 @@
       "url": "/wiki/entities/fengzhenfootballcommentator/"
     },
     "FengshanRitualLegitimacy": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山 [lkcyayuQrTsGy_K4BhdvY-L_LaPo].md",
@@ -76566,10 +76566,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》361-2｜泰山祭祀后，霍去病独子离奇暴毙揭秘",
           "url": "/wiki/sources/zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》 [ltey6z-srkBxUYB6PT2mQt6K7HJn].md",
+          "key": "zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn/"
         }
       ],
       "updated": "2026-10-05",
       "url": "/wiki/concepts/fengshanrituallegitimacy/"
+    },
+    "FengshanWen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》 [ltey6z-srkBxUYB6PT2mQt6K7HJn].md",
+          "key": "zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/fengshanwen/"
     },
     "FengyishanBattleLateHan": {
       "episode_count": 1,
@@ -155020,6 +155043,29 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/nguyenvanthieu/"
     },
+    "NiKuanWesternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！ [ltllclAtwDDFxLAWrdpgziQLP3Xq].md",
+          "key": "zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》371-2｜“上帝”属于中国？这下实锤了！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》 [ltey6z-srkBxUYB6PT2mQt6K7HJn].md",
+          "key": "zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/nikuanwesternhan/"
+    },
     "Nibbo": {
       "episode_count": 1,
       "show_count": 1,
@@ -196755,9 +196801,9 @@
       "url": "/wiki/entities/simaqian/"
     },
     "SimaXiangru": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生 [lq3O_13h2iN89qWH0dVcHCzLvRqk].md",
@@ -196779,6 +196825,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》359-1｜“愿得一心人，白头不相离”竟是写给渣男的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》 [ltey6z-srkBxUYB6PT2mQt6K7HJn].md",
+          "key": "zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn/"
         }
       ],
       "updated": "2026-10-05",

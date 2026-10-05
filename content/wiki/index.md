@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》](sources/zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn.md) — 司马相如遗稿以传说先例、祥瑞和颂德推动封禅议程；经书无成法、方士求仙说、兒宽归权天子与儒生受黜共同显示礼制重建也是权威竞争。
 - [《资治通鉴·汉纪》360-1｜司马迁“太史公”称号竟由此而来？](sources/zizhi-tongjian-hanji-360-1-simaqian-taishigong-chenghao-jing-you-ci-er-lai-lq6ulwhl_jscf6ipkjxev6zvwbrf.md) — 从太史的史学—天文职能解释“太史公”，并把司马迁对黄帝的历史化、儒家化叙事放入汉代帝王合法性问题，同时保留官职类比和作者意图的证据边界。
 - [《资治通鉴·汉纪》359-1｜“愿得一心人，白头不相离”竟是写给渣男的？](sources/zizhi-tongjian-hanji-359-1-yuan-de-yixinren-baitou-buxiangli-jing-shi-xiegei-zhanan-de-lvcpcspeaolposr3ui1p9agliafq.md) — 延续司马相如与卓文君的贫困、当垆卖酒、父亲让步和婚姻危机叙事，并把《白头吟》的忠贞边界与“以退为进”解读保留为来源限定的文学接受。
 - [《资治通鉴·汉纪》358-2｜司马相如钓风流寡妇](sources/zizhi-tongjian-hanji-358-2-simaxiangru-diao-fengliu-guafu-lphrip8prodrc46x__y6elbrkigz.md) — 杨得意把司马相如的辞赋才华带入汉武帝视野，王吉再以公开造势促成卓王孙设宴；《凤求凰》、私奔与后续背叛则保留为带有操纵张力的来源限定叙事。
@@ -3811,6 +3812,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？](sources/zizhi-tongjian-hanji-362-2-bushi-weisha-yao-pengsha-sanghongyang-loz3ly12pudlvdrtjngxs8f1qi6_.md) — 卜式借旱灾批评桑弘羊使官吏入市逐利，并串联异星祥瑞、齐王刘弘早逝与读史的现实意义。
 
 ## Entities
+- [《封禅文》 / Fengshan Wen](entities/FengshanWen.md) — 司马相如身后由卓文君交付使者、以传说先例和祥瑞劝汉武帝封禅的政治文学文本，其全文、流传与实际影响保持来源限定。
+- [兒宽 / Ni Kuan (Western Han)](entities/NiKuanWesternHan.md) — 在封禅无经书成法时把裁制定礼归于汉武帝、并见于太初历项目参与名单的西汉官员。
 - [郭吉 / Guo Ji (Western Han envoy)](entities/GuoJiWesternHanEnvoy.md) — 汉武帝北巡时向匈奴单于传达战或降最后通牒、随后被扣押迁往北海方向的西汉使者。
 - [桥山 / Qiaoshan](entities/Qiaoshan.md) — 节目所述黄帝冢与汉武帝祭祀地点，把帝国巡行、祖先记忆和合法性叙事连接起来。
 - [《白头吟》 / Bai Tou Yin](entities/BaiTouYin.md) — 被节目置于司马相如纳妾传说中的忠贞回应诗，其名句、作者、文本流传和婚姻效果按证据边界分层保留。
@@ -6242,7 +6245,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [费兴 / Fei Xing (Xin official)](entities/FeiXingXinOfficial.md) — Xin official removed after diagnosing Jing-Yang banditry through mountain-and-marsh taxation, drought, and livelihood collapse.
 - [王宗 / Wang Zong (Xin prince)](entities/WangZongXinPrince.md) — Wang Mang grandson whose private imperial imagery and seals become a lethal late-Xin household scandal.
 - [王芳 / Wang Fang (Xin princess)](entities/WangFangXinPrincess.md) — Wang-family woman in Hanji 654 accused of curses and maid killing before suicide with Wang Xing.
-- [司马相如 / Sima Xiangru](entities/SimaXiangru.md) — Western Han fu writer whose profile joins literary lineage, mediated court access, staged courtship, shared tavern hardship, and a source-scoped later fidelity crisis.
+- [司马相如 / Sima Xiangru](entities/SimaXiangru.md) — Western Han fu writer whose profile joins literary lineage, mediated court access, staged courtship, shared tavern hardship, a source-scoped fidelity crisis, and the posthumous political argument of 《封禅文》.
 - [《春秋》 / Chunqiu](entities/Chunqiu.md) — Classical text route for Hanji 560's Zhai Fangjin and Hu Chang court-teaching conflict.
 - [Emperor Yuan of Han / 汉元帝](entities/HanYuandi.md) — Western Han emperor whose profile spans thrift, Zhuya retrenchment, frontier force-sizing, remonstrance reception, Shi Xian trust, and succession vulnerability.
 - [Emperor Cheng of Han / 汉成帝](entities/HanChengdi.md) — Western Han emperor whose profile spans Yang Xiong career background, Wang Jia's favorable precedent, Zhai Fangjin's coerced death, sudden-death blame management, Geng Yu's succession defense, and contested missing-son accusations.
@@ -20327,7 +20330,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial Local-God Conflict / 皇权与地方神冲突](concepts/ImperialLocalGodConflict.md) — Pattern where imperial travel meets local sacred authority and may choose incorporation or punitive domination.
 - [琅琊刻石政治纲领 / Langya Inscription Political Program](concepts/LangyaInscriptionPoliticalProgram.md) — Qinji 122-2 frame for public inscription as Qin doctrine about agriculture, standards, law, peace, and universal imperial authority.
 - [徐福日本后裔传说 / Xu Fu Japan Descent Legend](concepts/XuFuJapanDescentLegend.md) — Source-critical boundary separating Japanese Xu Fu shrines and legends from proven descent claims.
-- [Fengshan Ritual Legitimacy / 封禅礼制合法性](concepts/FengshanRitualLegitimacy.md) — Taishan-centered ritual frame joining heavenly authorization, controlled sacred access, procedural reconstruction, and refusal when conditions make performance improper.
+- [Fengshan Ritual Legitimacy / 封禅礼制合法性](concepts/FengshanRitualLegitimacy.md) — Taishan-centered ritual frame joining heavenly authorization, literary prompting, contested sovereign reconstruction, controlled sacred access, and refusal when conditions make performance improper.
 - [Imperial Tour Political Theater / 帝国巡游政治剧场](concepts/ImperialTourPoliticalTheater.md) — Pattern where ruler travel acts as inspection, display, coercion, and legitimacy work across newly ruled territory.
 - [High-Temple Rite / 高庙礼](concepts/HighTempleRite.md) — Ancestral-temple legitimation frame linking Qin post-unification achievement reporting with Liu Xiu's Luoyang restoration ritual order.
 - [Qin Cosmic Capital Planning / 秦代宇宙化都城规划](concepts/QinCosmicCapitalPlanning.md) — Qinji 121 frame for Ji Miao, Taiyi, Lishan roads, covered passages, and the Wei River as an earthly copy of celestial order.

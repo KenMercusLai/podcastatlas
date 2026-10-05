@@ -29973,3 +29973,11 @@ Added source `zizhi-tongjian-hanji-360-1-simaqian-taishigong-chenghao-jing-you-c
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 《资治通鉴·汉纪》359-2｜司马相如人生绝唱：《封禅文》
+
+Added source `zizhi-tongjian-hanji-359-2-simaxiangru-rensheng-juechang-fengshanwen-ltey6z-srkbxuyb6pt2mqt6k7hjn`; created [[FengshanWen|《封禅文》]] and [[NiKuanWesternHan|兒宽]]; and resynthesized [[SimaXiangru|司马相如]] and [[FengshanRitualLegitimacy|封禅礼制合法性]] from their complete preserved evidence inventories. Core synthesis: Sima's posthumous political literature supplies praise, legendary precedent, and auspicious-sign advocacy for Wudi's fengshan agenda, while missing classical procedure lets fangshi claims, scholarly failure, Ni Kuan's deferential transfer of authority, imperial ritual design, and punishment of criticism determine how the rite is reconstructed. No settled contradiction was adopted. The full 《封禅文》, delivery arrangement, causal effect, classical references, years of delay, fangshi claims, Ni Kuan's wording and motive, ritual vessels, dismissals, and exact sequence remain source-scoped. The large Han Wudi, Zhuo Wenjun, Taishan, and recurring-show pages were read for context but not rewritten because the durable additions are represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,747 sources and retain 789 overview paragraphs. Changed-page links, index coverage, identities, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

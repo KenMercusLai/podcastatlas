@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12405
+wiki_total_pages: 12407
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "FourSeasonsAfterFilm"
     title: "《四季之后》"
     url: "/wiki/entities/fourseasonsafterfilm/"
+  - key: "FengshanWen"
+    title: "《封禅文》 / Fengshan Wen"
+    url: "/wiki/entities/fengshanwen/"
   - key: "Flatland"
     title: "《平面国》 / Flatland"
     url: "/wiki/entities/flatland/"
