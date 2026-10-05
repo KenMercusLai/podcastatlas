@@ -2,10 +2,11 @@
 title: "自污式政治自保 / Self-Deprecating Political Survival"
 type: concept
 knowledge_schema: synthesis-v1
-tags: [political-survival, reputation, royal-kin, eastern-han]
+tags: [political-survival, reputation, royal-kin, western-han, eastern-han]
 sources:
   - zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-343-1-ta-yisheng-huangyin-jiaoshe-houren-que-dingli-mobai-lnspg6ektohor19yhtcqulhl4cvt
+last_updated: 2026-10-06
 ---
 
 ## Definition
@@ -14,7 +15,7 @@ Self-deprecating political survival is a strategy in which a vulnerable high-sta
 
 ## Current Synthesis
 
-The wiki's clearest case is [[LiuMuBeihaiKing|刘睦]], the Beihai king in [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]]. Liu Mu does not merely refuse praise out of modesty; he instructs his envoy to replace dangerous praise with a politically safer image of decline, pleasure, hunting, and laziness. The concept therefore describes reputation management under structural suspicion, especially for royal kin whose excellence could be construed as latent threat.
+The wiki's clearest intentional case is [[LiuMuBeihaiKing|刘睦]], the Beihai king in [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]]. Liu Mu does not merely refuse praise out of modesty; he instructs his envoy to replace dangerous praise with a politically safer image of decline, pleasure, hunting, and laziness. [[zizhi-tongjian-hanji-343-1-ta-yisheng-huangyin-jiaoshe-houren-que-dingli-mobai-lnspg6ektohor19yhtcqulhl4cvt|Hanji 343-1]] supplies an earlier but weaker possible case: the host reads [[LiuShengZhongshanKingWesternHan|中山王刘胜]]'s reputation for wine and sex as a harmless signal to Han Wudi. Because no direct evidence of Liu Sheng's intent is supplied, the concept now distinguishes demonstrated reputation management from retrospective survival interpretation.
 
 ## Key Claims
 
@@ -22,23 +23,26 @@ The wiki's clearest case is [[LiuMuBeihaiKing|刘睦]], the Beihai king in [[ziz
 - Self-deprecation works by making a potentially threatening actor seem harmless, dissipated, or administratively insignificant.
 - The tactic depends on third-party reporting: Liu Mu manages what his envoy will say at court, not just his own conduct.
 - The survival value is defensive and ambiguous, because protection is purchased by distorting the actor's public reputation.
+- Similar public images can arise without proven strategy, so long survival plus a dissipated reputation does not establish deliberate self-deprecation.
 
 ## Evidence
 
 - Royal-kin risk and praise avoidance: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] has Liu Mu warn that reports of loyalty, filiality, benevolence, learning, and ability would harm rather than help him.
 - Harmless self-presentation: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] shows Liu Mu substituting a deliberately diminished profile of leisure, hunting, and lack of diligence.
 - Indirect reputation channel: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] locates the tactic in envoy speech, making the court's information flow the object of strategy.
+- Possible behavioral signaling: [[zizhi-tongjian-hanji-343-1-ta-yisheng-huangyin-jiaoshe-houren-que-dingli-mobai-lnspg6ektohor19yhtcqulhl4cvt|Hanji 343-1]] interprets Liu Sheng's wine-and-sex reputation as reassuring nonambition under Han Wudi, but supplies outcome and characterization rather than direct proof of design.
 
 ## Counterevidence & Qualifications
 
-The current evidence base is narrow. Liu Mu's case shows that self-deprecating survival can be intelligible for a royal kinsman, but it does not prove that all self-slander is prudent, that it always succeeds, or that the strategy transfers cleanly to officials without royal blood.
+The evidence base remains narrow. Liu Mu's instructions show intentional reputation management, but do not prove that all self-slander is prudent, that it always succeeds, or that the strategy transfers cleanly to officials without royal blood. Liu Sheng is only a source-attributed possible case: indulgence, later moral characterization, and political signaling may overlap, and his long tenure does not prove that he consciously engineered the reputation.
 
 ## What Changed
 
-- Created the concept to capture Liu Mu's distinctive reputation-management tactic.
+- Distinguished Liu Mu's explicit reputation management from the qualified Liu Sheng hypothesis, broadening the concept without converting inferred intent into fact.
 
 ## Related Concepts
 
 - [[LiuMuBeihaiKing]] - source case for the concept.
+- [[LiuShengZhongshanKingWesternHan|中山王刘胜]] - qualified possible case where a dissipated reputation may have signaled harmlessness.
 - [[PoliticalSurvivalFirst]] - broader priority that can motivate self-deprecating reputation management.
 - [[MoralReputationPoliticalCapital]] - adjacent concept because the strategy deliberately suppresses reputation that would otherwise be valuable.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》343-1｜他一生荒淫骄奢，后人却顶礼膜拜？](sources/zizhi-tongjian-hanji-343-1-ta-yisheng-huangyin-jiaoshe-houren-que-dingli-mobai-lnspg6ektohor19yhtcqulhl4cvt.md) — 以汉武帝巡幸、河东郡守自杀和刘胜之死并置皇权压力，并将刘胜的酒色名声解释为可能的诸侯王示弱自保；其主观意图保持来源限定。
 - [《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？](sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv.md) — 刘勃在父病与居丧期间的失礼、刘棁因排斥而告发、张骞调查及妨碍办案共同导致废王迁徙，并显示守丧礼如何进入继承资格和法律责任。
 - [《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生](sources/zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1.md) — 以刘不宜、刘弘、刘顺、刘勃的不同结局和高庄汉墓被盗焚毁构成“常山王诅咒”，同时把封号叙事与真实因果、墓主认定分开。
 - [Inside the mindset of AI safety workers](sources/tech-20261005-1005-mp-tech-pod-128-tech-20261005-1005-mp-tech-pod-128.md) — Marketplace Tech on Spencer Kaplan's fieldwork, AI safety worker culture, effective altruism, agency, stay-or-resign choices, and P(doom) estimation.
@@ -3851,6 +3852,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话](sources/zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp.md) — 芮淇讲透资治通鉴短篇，以明代科举层级、1057年科举群体与高考类比说明考试重要但不是整个人生的判决。
 
 ## Entities
+- [中山王刘胜 / Liu Sheng, King of Zhongshan (Western Han)](entities/LiuShengZhongshanKingWesternHan.md) — 以沉湎酒色闻名、长期在位且被节目来源限定地解释为借无野心形象降低皇帝猜忌的西汉诸侯王。
 - [常山王刘勃 / Liu Bo, King of Changshan (Western Han)](entities/LiuBoChangshanKingWesternHan.md) — 因侍疾、居丧失礼及妨碍中央调查而在即位数月后被废、迁往房陵的常山末王。
 - [刘棁 / Liu Zhuo (Western Han Changshan)](entities/LiuZhuoChangshanWesternHan.md) — 因母子失宠、财产排斥与继位后失于收恤而告发刘勃和王后脩的常山庶长子。
 - [王后脩 / Queen Xiu of Changshan (Western Han)](entities/QueenXiuChangshanWesternHan.md) — 刘舜王后与刘勃之母，因侍疾、家庭排斥和居丧争议被告发并遭废黜。

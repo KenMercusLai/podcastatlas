@@ -134041,6 +134041,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/liushangeasternhan/"
     },
+    "LiuShengZhongshanKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》343-1｜他一生荒淫骄奢，后人却顶礼膜拜？ [lnSPG6EKToHoR19yHTCqUlhl4cvT].md",
+          "key": "zizhi-tongjian-hanji-343-1-ta-yisheng-huangyin-jiaoshe-houren-que-dingli-mobai-lnspg6ektohor19yhtcqulhl4cvt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》343-1｜他一生荒淫骄奢，后人却顶礼膜拜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-343-1-ta-yisheng-huangyin-jiaoshe-houren-que-dingli-mobai-lnspg6ektohor19yhtcqulhl4cvt/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/liushengzhongshankingwesternhan/"
+    },
     "LiuShunChangshanKingWesternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -195939,9 +195955,9 @@
       "url": "/wiki/concepts/selfcontrolstrategytoolkit/"
     },
     "SelfDeprecatingPoliticalSurvival": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦 [lgWTUqTUg5Bh90qoHwiskccX77hY].md",
@@ -195949,9 +195965,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》743丨戳人心窝的历史瞬间：明帝刘庄的温情梦",
           "url": "/wiki/sources/zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》343-1｜他一生荒淫骄奢，后人却顶礼膜拜？ [lnSPG6EKToHoR19yHTCqUlhl4cvT].md",
+          "key": "zizhi-tongjian-hanji-343-1-ta-yisheng-huangyin-jiaoshe-houren-que-dingli-mobai-lnspg6ektohor19yhtcqulhl4cvt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》343-1｜他一生荒淫骄奢，后人却顶礼膜拜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-343-1-ta-yisheng-huangyin-jiaoshe-houren-que-dingli-mobai-lnspg6ektohor19yhtcqulhl4cvt/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/selfdeprecatingpoliticalsurvival/"
     },
     "SelfDirectedStateShifting": {

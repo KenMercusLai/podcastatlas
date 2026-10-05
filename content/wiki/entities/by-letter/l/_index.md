@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12459
+wiki_total_pages: 12460
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1133,6 +1133,9 @@ wiki_pages:
   - key: "LadyYanLyuBu"
     title: "严氏 / Lady Yan (Lü Bu)"
     url: "/wiki/entities/ladyyanlyubu/"
+  - key: "LiuShengZhongshanKingWesternHan"
+    title: "中山王刘胜 / Liu Sheng, King of Zhongshan (Western Han)"
+    url: "/wiki/entities/liushengzhongshankingwesternhan/"
   - key: "LinjinWarringStates"
     title: "临晋 / Linjin (Warring States)"
     url: "/wiki/entities/linjinwarringstates/"
