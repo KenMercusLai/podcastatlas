@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9743
+wiki_total_pages: 9744
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "NominalSubmissionLocalAutonomy"
     title: "名义臣服与地方实权并存 / Nominal Submission with Local Autonomy"
     url: "/wiki/concepts/nominalsubmissionlocalautonomy/"
+  - key: "NominalOfficePracticalPowerMismatch"
+    title: "名位—实权错位 / Nominal Office–Practical Power Mismatch"
+    url: "/wiki/concepts/nominalofficepracticalpowermismatch/"
   - key: "NewlyAttachedRegionLeniency"
     title: "新附地区宽缓治理 / Newly Attached Region Leniency"
     url: "/wiki/concepts/newlyattachedregionleniency/"

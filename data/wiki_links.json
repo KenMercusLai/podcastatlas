@@ -48467,6 +48467,10 @@
     "title": "李乌鸦",
     "url": "/wiki/entities/liwuya/"
   },
+  "LiXiWesternHan": {
+    "title": "李息 / Li Xi (Western Han)",
+    "url": "/wiki/entities/lixiwesternhan/"
+  },
   "LiXianLateHan": {
     "title": "李暹 / Li Xian (late Han)",
     "url": "/wiki/entities/lixianlatehan/"
@@ -58530,6 +58534,10 @@
   "NominalAuthorityMobilizationTrap": {
     "title": "Nominal Authority Mobilization Trap / 虚名权威动员陷阱",
     "url": "/wiki/concepts/nominalauthoritymobilizationtrap/"
+  },
+  "NominalOfficePracticalPowerMismatch": {
+    "title": "名位—实权错位 / Nominal Office–Practical Power Mismatch",
+    "url": "/wiki/concepts/nominalofficepracticalpowermismatch/"
   },
   "NominalSubmissionLocalAutonomy": {
     "title": "名义臣服与地方实权并存 / Nominal Submission with Local Autonomy",
@@ -100226,6 +100234,10 @@
   "zizhi-tongjian-hanji-333-1-men-ke-luoque-de-youlai-ni-zhidao-ma-lkoajhp2b_k32aurnk8rs-ukxaib": {
     "title": "《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-333-1-men-ke-luoque-de-youlai-ni-zhidao-ma-lkoajhp2b_k32aurnk8rs-ukxaib/"
+  },
+  "zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl": {
+    "title": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl/"
   },
   "zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w": {
     "title": "《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”",

@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i
   - zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet
   - zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7
-last_updated: 2026-09-12
+  - zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl
+last_updated: 2026-10-06
 ---
 
 ## Definition
@@ -22,6 +23,8 @@ Hanji 487 adds a darker Western Han version through [[JingFang|京房]]. Shi Xia
 
 Hanji 483-1 adds an access-within-the-center qualification through [[ZhouKanWesternHan|周堪]] and [[ZhangMengWesternHan|张萌]]. They are recalled to the capital, so they are no longer geographically distant like Jing Fang. Yet the source says they still lack effective speech power because [[ShiXianWesternHan|石显]] and his allies control the channels around Yuan. Proximity therefore requires actual communication and visibility, not merely a capital title.
 
+A valued-but-reassigned variation appears through [[JiAnWesternHan|汲黯]] in [[zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl|Hanji 333-2]]. Ji is recalled but asks to remain as a zhonglang near [[HanWudi|汉武帝]], where he can correct omissions and participate in court deliberation. Wudi values him yet sends him to Huaiyang because his reputation is useful there. Unlike Jing Fang's hostile removal, the transfer is not presented as an enemy's plot; it still separates local governing value from central advisory access.
+
 The current synthesis is not that local office lacks power. The sources acknowledge that a commandery role can be formally senior or substantively weighty, and Hanji 483-1 shows that mere return to the capital is not enough. The sharper claim is comparative: when a person's future, reform safety, or survival depends on central recognition, information, and direct access to protection, distance from the power center or blockage inside the center can reduce opportunity or safety even when the office looks relevant on paper.
 
 ## Key Claims
@@ -32,7 +35,7 @@ The current synthesis is not that local office lacks power. The sources acknowle
 - Direct access can also be protective: a hostile transfer away from the center can weaken a person's ability to correct, warn, or defend themselves.
 - Being physically or formally near the center is insufficient if hostile intermediaries block actual communication with the decision maker.
 - High-end networks around the court can outweigh local elite networks when the relevant game is central advancement.
-- The advantage is conditional: role fit, historical period, and the real distribution of power determine whether proximity helps.
+- The advantage is conditional: role fit, historical period, ruler intent, and the real distribution of power determine whether proximity helps.
 
 ## Evidence
 
@@ -44,15 +47,15 @@ The current synthesis is not that local office lacks power. The sources acknowle
 - Conditional scope: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] also notes that local taishou power is real and that later Qing office valuation changes after Yongzheng, limiting the claim's universality.
 - Blocked central access: [[zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7|Hanji 483-1]] says Zhou Kan and Zhang Meng return to court but remain surrounded by Shi Xian's party.
 - Workplace translation: [[zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7|Hanji 483-1]] says people in power struggles need decision makers to see their capacity, because being unable to reach higher authority is dangerous.
+- Valued but reassigned: [[zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl|Hanji 333-2]] says Ji An asks for a court-adjacent zhonglang role but Wudi uses his reputation for Huaiyang governance instead.
 
 ## Counterevidence & Qualifications
 
-This concept should not be used as a universal rule that headquarters or court posts are always better. Local officials can hold substantial authority, build local coalitions, and matter more in periods when local power rises. Hanji 483-1 further warns that a central title can still fail if the actual channel is captured. Hanji 769's modern corporation analogy and Qing-period comparison, Hanji 487's workplace-promotion analogy, and Hanji 483-1's modern workplace translation are source-scoped explanatory frames rather than a complete theory of every bureaucracy.
+This concept should not be used as a universal rule that headquarters or court posts are always better. Local officials can hold substantial authority, build local coalitions, and matter more in periods when local power rises. Hanji 483-1 further warns that a central title can still fail if the actual channel is captured, while Ji An's case shows that outward assignment can reflect genuine confidence in local usefulness rather than simple political attack. Hanji 769's modern corporation analogy and Qing-period comparison, Hanji 487's workplace-promotion analogy, and Hanji 483-1's modern workplace translation are source-scoped explanatory frames rather than a complete theory of every bureaucracy.
 
 ## What Changed
 
-- Added Hanji 487's Jing Fang case, which shifts the concept from promotion opportunity alone to protection and survival through retained access.
-- Added Hanji 483-1's Zhou Kan and Zhang Meng case, which distinguishes formal central position from actual decision-maker visibility.
+- Added Ji An's valued-but-reassigned case, separating loss of advisory proximity from hostile removal or formal demotion.
 
 ## Related Concepts
 
@@ -64,3 +67,5 @@ This concept should not be used as a universal rule that headquarters or court p
 - [[OfficialSelectionChannelCompetition]] - broader personnel-channel setting in which offices and routes compete for recognition value.
 - [[PrivateAccessTalentChannel]] - adjacent access route where personal proximity can bypass formal qualification or ordinary rank.
 - [[MessageRelayPoliticalPower|传话式信息权力]] - mechanism that can make nominal central proximity ineffective when the speech channel is captured.
+- [[JiAnWesternHan|汲黯]] - asks to preserve corrective court access but is deployed outward for reputation-based local governance.
+- [[NominalOfficePracticalPowerMismatch|名位—实权错位]] - companion pattern in which access creates influence that formal rank alone does not explain.

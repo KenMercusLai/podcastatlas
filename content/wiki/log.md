@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-06] ingest | 《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终
+
+Added source `zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl`; created [[LiXiWesternHan|李息]] and [[NominalOfficePracticalPowerMismatch|名位—实权错位]]; and resynthesized [[JiAnWesternHan|汲黯]], [[ZhangTangWesternHan|张汤]], [[ZhuangQingdiWesternHan|庄青翟]], [[PowerCenterProximityAdvantage|权力中心接近优势]], and [[GoodDeathPoliticalSurvival|乱局善终]] from their complete preserved evidence inventories. Core synthesis: Ji An loses central advisory access but remains valuable through clean reputation and local governing capacity; his warning about Zhang anticipates the later fall without proving every motive allegation, while Wudi's direct reliance on Zhang leaves Chancellor Zhuang's formal superiority misaligned with practical influence. No settled contradiction was adopted. Ji's criticism of Zhang's legal-political conduct is distinguished from later evidence of personal frugality; five-zhu private minting is kept earlier than the later centralized mint system; and the exact coinage chronology, local disorder, office sequence, dialogue, family promotions, title-power causality, Sima An branch, exile edict, and next-episode preview remain source-scoped. Broad [[HanWudi|汉武帝]], coinage, and feedback pages were read for context but not reopened because the bounded additions are represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,813 sources across 796 overview paragraphs and nine topics.
+
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”
 
 Added source `zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w`; created [[ExecutionDetailAttitudeAttribution|执行细节的态度归因]]; resynthesized [[YiZongWesternHan|义纵]] from its complete preserved three-source inventory; and migrated [[GanquanPalace|甘泉宫]] to synthesis-v1 from its complete preserved two-source inventory before appending the new source once. Core synthesis: an unrepaired Ganquan route is an observable administrative defect, while Han Wudi's reading of it as disregard is a higher-level attitude attribution made dangerous by ruler-subordinate power asymmetry. The incident adds an earlier deterioration layer before Yi's fatal告缗 conflict but does not prove that road neglect caused his execution. No settled contradiction was adopted. The spirit-medium's supernatural claims, Shaoweng-ghost explanation, repair chain of command, Yi's knowledge and intent, enemy-route conspiracy, Starship welding explanation and cost, broad workplace rule, and iceberg quantification remain source-scoped or illustrative. Broad [[HanWudi|汉武帝]] and show pages were read for context but not reopened because the bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,812 sources across 796 overview paragraphs and nine topics.
@@ -30473,6 +30477,10 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] lint | Wiki health check
 

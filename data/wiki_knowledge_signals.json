@@ -91370,9 +91370,9 @@
       "url": "/wiki/entities/gongsunzan/"
     },
     "GoodDeathPoliticalSurvival": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》604丨西汉王莽夺权后，如何清洗权力格局？ [ltwscYyiOBC1ocVGTI3Fd-deAJrU].md",
@@ -91394,9 +91394,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1074丨权倾朝野的司马懿，为何每次见他都跪拜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终 [lhsygwStd8wYsFxfGDbfKkyokSCl].md",
+          "key": "zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/gooddeathpoliticalsurvival/"
     },
     "GoodFriendsFilm": {
@@ -118679,9 +118686,9 @@
       "url": "/wiki/concepts/jevonsparadoxinai/"
     },
     "JiAnWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？ [lkoajHP2B_k32auRnk8Rs-ukXAIb].md",
@@ -118689,6 +118696,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-333-1-men-ke-luoque-de-youlai-ni-zhidao-ma-lkoajhp2b_k32aurnk8rs-ukxaib/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终 [lhsygwStd8wYsFxfGDbfKkyokSCl].md",
+          "key": "zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl/"
         }
       ],
       "updated": "2026-10-06",
@@ -130718,6 +130732,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liwenjilatehan/"
+    },
+    "LiXiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终 [lhsygwStd8wYsFxfGDbfKkyokSCl].md",
+          "key": "zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/lixiwesternhan/"
     },
     "LiXianLujiangEasternHan": {
       "episode_count": 1,
@@ -160151,6 +160181,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/nomadicimperialformation/"
     },
+    "NominalOfficePracticalPowerMismatch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终 [lhsygwStd8wYsFxfGDbfKkyokSCl].md",
+          "key": "zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/nominalofficepracticalpowermismatch/"
+    },
     "NominalSubmissionLocalAutonomy": {
       "episode_count": 2,
       "show_count": 1,
@@ -176883,9 +176929,9 @@
       "url": "/wiki/concepts/powerandspeedassessment/"
     },
     "PowerCenterProximityAdvantage": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
@@ -176907,9 +176953,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终 [lhsygwStd8wYsFxfGDbfKkyokSCl].md",
+          "key": "zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/powercenterproximityadvantage/"
     },
     "PowerCompletionRetreat": {
@@ -247127,9 +247180,9 @@
       "url": "/wiki/entities/zhangtangmotherwesternhan/"
     },
     "ZhangTangWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》431｜职场必读！酷吏之子张安世的职场智慧 [lmxEy8uOliWYNiMxcnH1KhJefEnl].md",
@@ -247172,6 +247225,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终 [lhsygwStd8wYsFxfGDbfKkyokSCl].md",
+          "key": "zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl/"
         }
       ],
       "updated": "2026-10-06",
@@ -251343,9 +251403,9 @@
       "url": "/wiki/entities/zhuangcanwesternhan/"
     },
     "ZhuangQingdiWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案 [lp8Mwe-Z21LHQHG4lwNJ-jMeotaG].md",
@@ -251367,6 +251427,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终 [lhsygwStd8wYsFxfGDbfKkyokSCl].md",
+          "key": "zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl/"
         }
       ],
       "updated": "2026-10-06",

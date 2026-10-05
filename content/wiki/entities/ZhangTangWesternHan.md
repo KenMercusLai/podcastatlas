@@ -10,16 +10,19 @@ sources:
   - zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca
   - zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv
   - zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1
+  - zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl
 last_updated: 2026-10-06
 ---
 
 ## Overview
 
-张汤 / Zhang Tang is a Western Han cruel-official figure whose current evidence joins institutional authority to the complete interpersonal, coalition-building, investigative, and posthumous chain behind his fall. He revises law with [[ZhaoYuWesternHan|赵禹]], uses a covert report by favored clerk [[LuYezhuWesternHan|鲁谒居]] to eliminate rival [[LiWenWesternHan|李文]], accumulates enemies, and turns a shared accountability crisis with [[ZhuangQingdiWesternHan|庄青翟]] into open conflict. His continued pressure helps convert stored grievances among three clerks into a counter-coalition before his suicide and final accusation redirect imperial punishment toward those opponents; his fate later becomes the family precedent behind [[ZhangAnshiWesternHan|张安世]]'s low-profile survival.
+张汤 / Zhang Tang is a Western Han cruel-official figure whose current evidence joins direct imperial access, legal authority, interpersonal hostility, coalition-building, investigation, and posthumous reversal. An early warning by [[JiAnWesternHan|汲黯]] presents him as aligning law and rhetoric with imperial desire while his practical influence exceeds Chancellor [[ZhuangQingdiWesternHan|庄青翟]]'s formal authority. Later sources show law revision, the covert [[LiWenWesternHan|李文]] case, accumulated enemies, a counter-coalition, suicide, and a final accusation that redirects punishment; his fate becomes the family precedent behind [[ZhangAnshiWesternHan|张安世]]'s low-profile survival.
 
 ## Current Profile
 
-The current profile is a bounded combination of institutional role, patronage, and political backlash rather than a full career. Hanji 347-1 places Zhang beside Zhao Yu in revising and supplementing law under Han Wudi but does not distinguish their respective legal theories or responsibility for particular provisions.
+The current profile is a bounded combination of institutional role, access, patronage, and political backlash rather than a full career. [[zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl|Hanji 333-2]] supplies the earliest current judgment: before leaving court, Ji An tells [[LiXiWesternHan|李息]] that Zhang uses intelligence and rhetoric to reject correction, follows the ruler's preferences, manipulates legal text, and enlarges punitive government. Li's fear blocks transmission. The same episode says [[HanWudi|汉武帝]] often bypasses Zhuang Qingdi to consult Zhang, so a formally subordinate official holds greater practical influence.
+
+Hanji 347-1 places Zhang beside Zhao Yu in revising and supplementing law under Han Wudi but does not distinguish their respective legal theories or responsibility for particular provisions.
 
 Hanji 337 adds an earlier prosecution branch through [[YanYiWesternHan|颜异]]. After Yan opposes a white-deer-skin currency proposal, an unrelated accusation gives Zhang authority to investigate a political opponent. Yan later hears a guest criticize an edict, does not answer, and only “微反唇”; Zhang nevertheless argues that a Nine Minister who recognizes an inconvenient edict but does not remonstrate has defamed it inwardly and should die. This sharpens Zhang's profile from severe legal technician to an official willing, in the episode's account, to convert ambiguous nonverbal conduct and inferred thought into a capital case.
 
@@ -35,13 +38,12 @@ Hanji 339-2 completes the missing terminal sequence. [[JianXuanWesternHan|减宣
 
 ## Key Characteristics
 
-- Western Han official remembered within the cruel-official field.
+- Western Han cruel-official trusted through direct imperial access but condemned by Ji An for rejecting correction, decorating error, following imperial preference, and using legal severity to build authority.
 - Paired with Zhao Yu in revising law and, in Yan Yi's case, presented as turning silence, expression, and inferred dissent into capital liability.
 - Uses Lu Yezhu's covert accusation to eliminate Li Wen, then exposes the hidden patronage through personal care and failed staged distance.
 - Avoids shared apology over the funerary-park theft, investigates Zhuang Qingdi, and turns dispersed grievances into an explicit counter-coalition.
 - Is accused through an inferential chain linking his friendship with merchant Tian Xin to policy leakage and official-commercial collusion.
-- Uses suicide and a final accusation to redirect scrutiny toward three hostile chief clerks.
-- Serves as a negative family precedent for Zhang Anshi's low-visibility court survival.
+- Uses suicide and a final accusation to redirect scrutiny toward three hostile chief clerks, later serving as a negative family precedent for Zhang Anshi's low-visibility survival.
 
 ## Evidence
 
@@ -69,16 +71,18 @@ Accusation, suicide, and posthumous reversal:
 Cruel-official and family-precedent role:
 - [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Zhang's closeness to the ruler, ministerial resentment, and suicide shape Zhang Anshi's caution.
 
+Early warning and practical authority:
+- [[zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl|Hanji 333-2]] attributes to Ji An a detailed warning that Zhang turns ability and legal craft toward rejecting advice and following imperial preference.
+- [[zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl|Hanji 333-2]] says Wudi's direct consultation gives Zhang practical influence beyond his formal place beneath Chancellor Zhuang Qingdi.
+
 ## Qualifications
 
-The six sources do not supply a full biography or legal dossier. Hanji 337 does not establish the exact statutory status of 腹诽, independently prove Zhang's motive, or show that an inferred inner judgment was routinely prosecuted beyond Yan Yi's case. Hanji 347-1 does not allocate responsibility for specific laws or prove that Zhang and Zhao Yu held identical legal views. Hanji 338-2's “massage” detail makes closeness visible but does not independently prove conspiracy. Hanji 339-1's transcript stops mid-accusation: humiliation, motives, the Yan Zhu decision, Tian Xin's profit, friendship, leakage, bribery, and collusion remain episode-attributed rather than adjudicated fact. Hanji 339-2's eight charges, expected interrogation, final-letter wording, estate valuation, funeral sequence, and punishments likewise remain episode-attributed; Zhang's suicide may redirect the case without proving innocence on every allegation.
+The seven sources do not supply a full biography or legal dossier. Hanji 333-2 attributes a strong character and motive judgment to Ji An; Zhang's later fall gives the warning narrative force but does not independently prove every allegation. Its title-power account does not reconstruct the offices' complete jurisdictions. Hanji 337 does not establish the exact statutory status of 腹诽, independently prove Zhang's motive, or show that an inferred inner judgment was routinely prosecuted beyond Yan Yi's case. Hanji 347-1 does not allocate responsibility for specific laws or prove that Zhang and Zhao Yu held identical legal views. Hanji 338-2's “massage” detail makes closeness visible but does not independently prove conspiracy. Hanji 339-1's transcript stops mid-accusation: humiliation, motives, the Yan Zhu decision, Tian Xin's profit, friendship, leakage, bribery, and collusion remain episode-attributed rather than adjudicated fact. Hanji 339-2's eight charges, expected interrogation, final-letter wording, estate valuation, funeral sequence, and punishments likewise remain episode-attributed; Zhang's suicide may redirect the case without proving innocence on every allegation. Ji's charge of political-legal manipulation is not disproved by Zhang's reported personal frugality or modest estate.
 
 ## What Changed
 
-- Added Yan Yi's prosecution as an earlier case in which Zhang converts silence and ambiguous expression into a capital accusation of inward defamation.
-- Filled the missing coalition stage between the funerary-park responsibility conflict and the formal terminal case.
-- Reframed the three clerks from later names in Zhang's final accusation into actors coordinating under shared threat and stored grievance.
-- Added Tian Xin as the accusation's inferential commercial bridge while keeping leakage, bribery, and collusion unproved.
+- Added Ji An's earlier warning as a forward-looking diagnosis of Zhang's advice rejection, imperial alignment, and legal severity.
+- Added the split between Zhang's formal subordinate rank and greater practical decision influence under direct imperial access.
 
 ## Relationships
 
@@ -98,3 +102,6 @@ The six sources do not supply a full biography or legal dossier. Hanji 337 does 
 - [[AccumulatedEnmityDefaultSuspicion]] - political-risk pattern sharpened by Zhang's repeated creation of hostile witnesses and investigators.
 - [[PosthumousMeritVindication]] - Zhang's case extends vindication to a will, estate record, and funeral signal rather than a defender's memorial alone.
 - [[QuietCreditSelfProtection]] - later self-protection pattern built partly from Zhang's negative precedent.
+- [[JiAnWesternHan]] - earlier critic whose warning anticipates Zhang's later political isolation and fall.
+- [[LiXiWesternHan]] - recipient whose fear prevents the warning from reaching Wudi at the time.
+- [[NominalOfficePracticalPowerMismatch]] - structural pattern in which Zhang's practical influence exceeds his formal place beneath the chancellor.

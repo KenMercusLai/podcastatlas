@@ -9,6 +9,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”](sources/zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w.md) — 汉武帝把甘泉宫道路失修解释为义纵不重视自己；节目由此讨论执行疏忽如何在权力关系中被赋予态度意义，同时保留敌人设局等说法为推测。
 - [《资治通鉴·汉纪》332-2｜大汉丞相李蔡之死，究竟有没有黑幕](sources/zizhi-tongjian-hanji-332-2-dahan-chengxiang-licai-zhisi-jiujing-youmeiyou-heimu-loyre4ghvm3zcp-jxez9k26du8oj.md) — 关东大水引出灾异政治中的丞相担责惯例；李蔡则因侵占并出售御赐墓地旁土地被免职下狱、自杀，所谓更深“黑幕”仍无来源证据。
 - [《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？](sources/zizhi-tongjian-hanji-333-1-men-ke-luoque-de-youlai-ni-zhidao-ma-lkoajhp2b_k32aurnk8rs-ukxaib.md) — 汲黯、郑当时与翟公在任、失势和复职时的宾客变化，说明“门可罗雀”如何成为检验权势依附型交往的成语故事。
+- [《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终](sources/zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl.md) — 汲黯被外放淮阳后以清名安定地方，并在临行前预警张汤；庄青翟的丞相名位与张汤的实际决策影响则构成名位—实权错位。
 - [《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？](sources/zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1.md) — 颜异反对白鹿皮币后，又因听闻议论诏令时沉默而“微反唇”，被张汤解释为腹诽并处死，显示政治惩罚如何从直言扩张到表情与推定思想。
 - [《资治通鉴·汉纪》336-1｜战神霍去病为何24岁突然暴毙？](sources/zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq.md) — 霍去病之死有病亡这一宽泛传述却无具体病名；瘟疫、意外、他杀及汉武帝介入均因时间线或直接证据不足而不能坐实。
 - [《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死](sources/zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod.md) — 济东王刘彭离的百余起杀人案经查实后，汉武帝仍因宗室亲缘与其父功劳拒绝处死，仅废王、流放并撤国。
@@ -3878,7 +3879,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 由御史大夫升任丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
-- [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 西汉直臣 whose former visitors disappear after dismissal and impoverishment.
+- [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 经历罢免与宾客离散后被重新起用，以清名治理淮阳并直言预警张汤、最终卒于任上的西汉直臣。
+- [李息 / Li Xi (Western Han)](entities/LiXiWesternHan.md) — 听取汲黯对张汤的预警，却因畏惧张汤而未向汉武帝转达的西汉官员。
 - [郑当时 / Zheng Dangshi (Western Han)](entities/ZhengDangshiWesternHan.md) — 西汉好客官员 whose crowded network thins after he loses office and wealth.
 - [翟公 / Zhai Gong (Western Han)](entities/ZhaiGongWesternHan.md) — 廷尉 whose crowded, deserted, and crowded-again gate anchors the “门可罗雀” story.
 - [颜异 / Yan Yi (Western Han)](entities/YanYiWesternHan.md) — 反对白鹿皮币后因沉默与“微反唇”被推定腹诽、由张汤奏论死的西汉九卿。
@@ -3899,7 +3901,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王朝 / Wang Chao (Western Han)](entities/WangChaoWesternHan.md) — 因积怨和共同威胁参与反张汤联盟、后被张汤遗书指控并处死的三长史之一。
 - [边通 / Bian Tong (Western Han)](entities/BianTongWesternHan.md) — 因积怨和共同威胁参与反张汤联盟、后与朱买臣、王朝一同进入死后反向清算。
 - [张汤母亲 / Mother of Zhang Tang (Western Han)](entities/ZhangTangMotherWesternHan.md) — 以拒绝厚葬和牛车薄葬表达儿子受谗而死，并影响汉武帝重审判断的张汤之母。
-- [庄青翟 / Zhuang Qingdi (Western Han)](entities/ZhuangQingdiWesternHan.md) — 孝文园责任冲突中被张汤追查的西汉丞相，随后与三长史组成自保式反击联盟。
+- [庄青翟 / Zhuang Qingdi (Western Han)](entities/ZhuangQingdiWesternHan.md) — 名义上高于张汤却被其实际影响架空，后在孝文园责任冲突中与三长史结盟反击并遭反向清算的西汉丞相。
 - [减宣 / Jian Xuan (Western Han)](entities/JianXuanWesternHan.md) — 调查鲁谒居—李文案并因担心汉武帝庇护张汤而暂缓上奏的西汉官员。
 - [鲁谒居 / Lu Yezhu (Western Han)](entities/LuYezhuWesternHan.md) — 张汤宠信属吏，其构陷李文与病中受摩足成为张汤案的关键证据链。
 - [李文 / Li Wen (Western Han)](entities/LiWenWesternHan.md) — 与张汤有隙、寻找文书证据未成，反被鲁谒居秘密构陷并由张汤处死的西汉官员。
@@ -5950,7 +5952,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张厂 / Zhang Chang (Shanyang governor)](entities/ZhangChangShanyangWesternHan.md) — Shanyang governor tasked with confidential surveillance of Liu He in Hanji 430.
 - [张贺 / Zhang He (Western Han)](entities/ZhangHeWesternHan.md) — Deceased benefactor whom Han Xuan rewards posthumously in Hanji 430.
 - [张安世 / Zhang Anshi (Western Han)](entities/ZhangAnshiWesternHan.md) — Western Han official whose refusal of excessive reward illustrates reward-fitness caution in Hanji 430.
-- [张汤 / Zhang Tang (Western Han)](entities/ZhangTangWesternHan.md) — 从以颜异沉默和表情推定腹诽，到偏私疑云、持续树敌与死后反向清算，呈现严酷执法和政治司法相互缠绕的西汉酷吏。
+- [张汤 / Zhang Tang (Western Han)](entities/ZhangTangWesternHan.md) — 从汲黯对其迎合君意、舞文弄法的预警，到颜异案、偏私疑云、持续树敌与死后反向清算，呈现实际权力、严酷执法和政治司法的缠绕。
 - [赵广汉 / Zhao Guanghan (Western Han)](entities/ZhaoGuanghanWesternHan.md) — Western Han clean official whose early anti-haoqiang success and later retaliatory abuse make him a power-boundary case.
 - [尹翁归 / 尹翁规 / Yin Wenggui (Western Han)](entities/YinWengguiWesternHan.md) — Western Han clean and strict official used as Zhao Guanghan's more orderly local-governance contrast.
 - [张延寿 / Zhang Yanshou (Western Han)](entities/ZhangYanshouWesternHan.md) — Zhang Anshi's son, sent outward to Beidi as part of Zhang-family visibility management in Hanji 431.
@@ -16421,6 +16423,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [名位—实权错位 / Nominal Office–Practical Power Mismatch](concepts/NominalOfficePracticalPowerMismatch.md) — 正式职位层级与由君主接近、信任和决策参与形成的实际权力彼此分离。
 - [执行细节的态度归因 / Attitude Attribution from Execution Details](concepts/ExecutionDetailAttitudeAttribution.md) — 将具体行动、遗漏或准备不足解释为尊重、忠诚、关心或能力信号，并区分可观察缺陷与隐藏态度推断。
 - [权势依附型交往 / Power-Contingent Social Ties](concepts/PowerContingentSocialTies.md) — Relationships whose visible intensity rises and falls with office, wealth, rank, or usefulness.
 - [史料稀缺下的死因推断 / Death-Cause Inference Under Sparse Records](concepts/SparseRecordDeathCauseInference.md) — Method for separating a reported death and broad cause category from unsupported diagnosis, accident, murder, or conspiracy claims.
@@ -19407,7 +19410,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [封爵继承公共责任 / Title Succession Public Duty](concepts/TitleSuccessionPublicDuty.md) — Governance ethic treating inherited state-conferred title as public responsibility rather than private preference.
 - [外戚重职任命制衡 / Outer-Relative Office Contest](concepts/OuterRelativeOfficeContest.md) — Succession-crisis appointment pattern where ministers try to block outer-relative monopoly through balancing candidates, but senior dowager authority can defeat the attempt.
 - [宴席座次名分政治 / Banquet Seating Status Politics](concepts/BanquetSeatingStatusPolitics.md) — Court-ritual mechanism where banquet seating makes contested rank visible and can trigger factional or personnel consequences.
-- [乱局善终 / Good Death Political Survival](concepts/GoodDeathPoliticalSurvival.md) — 以不依附、择时入仕、清廉履职和及时退避共同保存生命、名誉与后代的政治生存模式。
+- [乱局善终 / Good Death Political Survival](concepts/GoodDeathPoliticalSurvival.md) — 以不依附、择时入仕、清廉有用、节制名位或及时退避共同保存生命、名誉与后代的政治生存模式。
 - [Modular AI Data Centers](concepts/ModularAIDataCenters.md) — Prefabricated AI compute infrastructure deployed near available power, cooling, gas, or industrial sites for faster distributed inference capacity.
 - [先胜后战式兵法 / Advantage-First Combat Doctrine](concepts/AdvantageFirstCombatDoctrine.md) — Strategy pattern where commanders create information, timing, morale, or political advantage before fighting instead of treating battle as a gamble.
 - [自污式政治自保 / Self-Deprecating Political Survival](concepts/SelfDeprecatingPoliticalSurvival.md) — Survival tactic where a vulnerable high-status actor lowers perceived virtue, ability, or ambition to reduce court suspicion.
