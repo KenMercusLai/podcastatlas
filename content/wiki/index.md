@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》353-1｜杨仆如何当上中国首位海军司令？](sources/zizhi-tongjian-hanji-353-1-yangpu-ruhe-dangshang-zhongguo-shouwei-haijun-siling-lmmirgukthvsh4zrhvbgtxhvz7.md) — 五路汉军会攻南越，杨仆从豫章率楼船水师、路博德从桂阳方向进军；“中国首位海军司令”被保留为基于楼船将军职能的来源限定类比。
 - [《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？](sources/zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch.md) — 韩千秋军在番禺附近覆灭后，汉武帝以抚恤与封赏遗孤肯定先锋之勇，并征调十万军、选路博德和杨仆准备征服南越。
 - [654. The Ku Klux Klan: The Rise of Evil (Part 1)](sources/654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794.md) — The Rest Is History on the first Klan's Pulaski origins, fraternal hierarchy, theatrical intimidation, political turn, racial terror, and local enforcement failure during Reconstruction.
 - [How Matt Mahan Thinks He Can Save California](sources/all-in-with-chamath-jason-sacks-friedberg-how-matt-mahan-thinks-he-can-save-california-40578730.md) — All-In interview on Mahan's outcome-based California campaign across budgets, housing, homelessness, energy, insurance, pensions, healthcare, taxation, and immigration.
@@ -16302,6 +16303,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [楼船水师作战 / Tower-Ship Waterborne Warfare](concepts/TowerShipWaterborneWarfare.md) — 西汉南越战役中以大型楼船、专门水上兵力和多路会师构成的水陆协同作战分支，不等同于现代海军制度。
 - [阵亡先锋遗属封赏 / Fallen Vanguard Heir Reward](concepts/FallenVanguardHeirReward.md) — 在战役失败后仍按先锋勇气抚恤阵亡者家庭、封赏其后人，以区分战果与牺牲并影响后续动员预期。
 - [Outcome-Based Government Accountability](concepts/OutcomeBasedGovernmentAccountability.md) — Framework connecting public goals, dashboards, audits, zero-based budgeting, and funding consequences to measurable delivery.
 - [Visceral Adiposity and Metabolic Risk](concepts/VisceralAdiposityMetabolicRisk.md) — Weight-independent framework for visceral fat, portal liver exposure, insulin resistance, menopause-related redistribution, and contextual measurement.
