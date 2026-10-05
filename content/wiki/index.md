@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！](sources/zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g.md) — 漠北战后屯田与匈奴求和引出和亲、臣服两路争论；任常出使被扣，狄山直攻张汤后被派守边并迅速遇袭身亡，政策判断与惩罚性能力测试须分开。
 - [《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前](sources/zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_.md) — 从刘太公因失去球友而郁郁、刘邦仿沛县营建新丰的故事呈现蹴鞠的社区功能，并以孙膑、蒙恬、卫青和霍去病对照兵法的时代适配。
 - [《资治通鉴·汉纪》328-2｜古代足球也疯狂，霍去病竟也痴迷？](sources/zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn.md) — 以霍去病缺粮时仍组织蹴鞠、弃置余食与卫青体恤士卒的对比，连接汉代蹴鞠的军训、规则、宫廷观看和社会扩散，并保留史料核验边界。
 - [Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare](sources/all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495.md) — All-In on Iran-war escalation and oil risk, frontier-lab revenue versus enterprise ROI, AI messaging backlash, open-model complementarity, and wealth-tax mobility.
@@ -3889,6 +3890,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South](sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south.md) — Data Science With Sam episode on Google's India commitments, AI-for-science funding, Global South participation, connectivity, and India's possible AI-governance role.
 
 ## Entities
+- [狄山 / Di Shan (Western Han)](entities/DiShanWesternHan.md) — 主张汉匈和亲、当廷攻击张汤，后在惩罚性能力测试中被派守边并迅速死于匈奴袭击的西汉博士。
+- [任常 / Ren Chang (Western Han)](entities/RenChangWesternHan.md) — 漠北战后主张要求匈奴臣服并奉命出使，却因朝觐要求触怒单于而被扣留的西汉官员。
 - [新丰 / Xinfeng (Western Han)](entities/XinfengHan.md) — 节目所述刘邦仿沛县营建、迁入故乡人群以恢复刘太公社区与蹴鞠生活的长安附近聚落。
 - [高延宗 / Gao Yanzong (Northern Qi)](entities/GaoYanzongNorthernQi.md) — 北齐宗室与短暂称帝者，节目称其受俘受辱后“以椒塞口而死”，死因机制仍属待核史料叙事。
 - [少翁 / Shaoweng (Western Han)](entities/ShaowengWesternHan.md) — 汉武帝朝方士，以隔幕招魂获宠、因牛腹帛书造假暴露，又因所谓关东现身与空棺被汉武帝重新解释为已成仙。

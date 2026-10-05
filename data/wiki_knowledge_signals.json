@@ -57122,6 +57122,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/deviceoriginphotoauthentication/"
     },
+    "DiShanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！ [lkM-PTmchVg08w58jdrvFfFE1P-G].md",
+          "key": "zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/dishanwesternhan/"
+    },
     "DiabeticRetinopathyScreening": {
       "episode_count": 2,
       "show_count": 2,
@@ -58398,9 +58414,9 @@
       "url": "/wiki/concepts/directcustomerfeedbackloop/"
     },
     "DirectRemonstranceCriminalization": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》850丨桓帝为何执意杀忠臣？ [loKxtCeQ7Vv_giEC6IUFWWK9FWk7].md",
@@ -58464,9 +58480,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》337｜古代罪名可以有多荒唐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！ [lkM-PTmchVg08w58jdrvFfFE1P-G].md",
+          "key": "zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/directremonstrancecriminalization/"
     },
     "DiretasJa": {
@@ -97433,9 +97456,9 @@
       "url": "/wiki/entities/hanxinyi/"
     },
     "HanXiongnuHeqinPolicy": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1） [li5U-DMsMB1Lp4NY3rk02Kaiyu4K].md",
@@ -97485,9 +97508,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》492丨富豪喜欢什么女人？瞧瞧王昭君！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-492-fuhao-xihuan-shenme-nvren-qiaoqiao-wangzhaojun-ltxliplj2l-kvmey3imgklzgm1jt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！ [lkM-PTmchVg08w58jdrvFfFE1P-G].md",
+          "key": "zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/hanxiongnuheqinpolicy/"
     },
     "HanYanDirector": {
@@ -166801,9 +166831,9 @@
       "url": "/wiki/concepts/outerrelativerecurrence/"
     },
     "OuterRoundInnerSquareConduct": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
@@ -166811,9 +166841,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！ [lkM-PTmchVg08w58jdrvFfFE1P-G].md",
+          "key": "zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/outerroundinnersquareconduct/"
     },
     "Outlive": {
@@ -187173,6 +187210,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/remotetributeprestigetheater/"
+    },
+    "RenChangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！ [lkM-PTmchVg08w58jdrvFfFE1P-G].md",
+          "key": "zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/renchangwesternhan/"
     },
     "RenFangLateHan": {
       "episode_count": 1,
@@ -223621,9 +223674,9 @@
       "url": "/wiki/concepts/tuntianproximitysecuritydilemma/"
     },
     "TuntianSystem": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋 [lg4QfKDGw_stIxRebHJDoshil6YJ].md",
@@ -223666,9 +223719,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1104丨曹操颁布求贤令，吸引了多少顶级人才？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！ [lkM-PTmchVg08w58jdrvFfFE1P-G].md",
+          "key": "zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/tuntiansystem/"
     },
     "Tupamaros": {
@@ -247983,9 +248043,9 @@
       "url": "/wiki/entities/zhangtangmotherwesternhan/"
     },
     "ZhangTangWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》431｜职场必读！酷吏之子张安世的职场智慧 [lmxEy8uOliWYNiMxcnH1KhJefEnl].md",
@@ -248035,6 +248095,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终",
           "url": "/wiki/sources/zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！ [lkM-PTmchVg08w58jdrvFfFE1P-G].md",
+          "key": "zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g/"
         }
       ],
       "updated": "2026-10-06",

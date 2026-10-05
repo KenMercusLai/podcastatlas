@@ -13,7 +13,8 @@ sources:
   - zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i
   - zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy
   - zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1
-last_updated: 2026-09-01
+  - zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g
+last_updated: 2026-10-06
 ---
 
 ## Definition
@@ -22,7 +23,9 @@ Direct remonstrance criminalization / 直谏入罪 is the court-politics pattern
 
 ## Current Synthesis
 
-Hanji 337 adds the earliest current Western Han branch and expands the concept beyond direct speech. [[YanYiWesternHan|颜异]] first gives an explicit fiscal objection, but the terminal charge arises later when he hears criticism of an edict, remains silent, and only “微反唇.” [[ZhangTangWesternHan|张汤]] treats that ambiguous expression as proof that a Nine Minister recognized a bad edict yet chose inward defamation over remonstrance. The case shows the most expansive feedback trap in the current evidence: if direct correction is risky but silence can also be interpreted as concealed hostility, the official has no safe channel for negative information.
+Hanji 329 adds the earliest current Western Han branch through [[DiShanWesternHan|狄山]] and expands the concept from formal accusation or dismissal into coercive duty assignment. Di argues for renewed [[HanXiongnuHeqinPolicy|Han-Xiongnu heqin]], is provoked into attacking [[ZhangTangWesternHan|张汤]], and then faces [[HanWudi|汉武帝]]'s escalating test of whether he can govern a commandery, a county, or one frontier barrier. His acceptance of barrier duty under perceived threat and rapid death in a Xiongnu raid show how a ruler can turn disputed advice into a personal competence ordeal. The reported silence afterward makes chilling effect the institutional result even though the policy merits remain unresolved.
+
+Hanji 337 adds the next Western Han branch and expands the concept beyond direct speech. [[YanYiWesternHan|颜异]] first gives an explicit fiscal objection, but the terminal charge arises later when he hears criticism of an edict, remains silent, and only “微反唇.” [[ZhangTangWesternHan|张汤]] treats that ambiguous expression as proof that a Nine Minister recognized a bad edict yet chose inward defamation over remonstrance. The case shows the most expansive feedback trap in the current evidence: if direct correction is risky but silence can also be interpreted as concealed hostility, the official has no safe channel for negative information.
 
 Hanji 597 now adds a late-Western-Han sealed-return branch through [[WangJiaWesternHan|王嘉]]. Wang Jia does not merely advise against a policy in abstract; he physically reseals and returns a dowager edict increasing [[DongXian|董贤]]'s reward, then explains the refusal through Heaven, public rank, finance, popular resentment, disasters, illness, and succession risk. The case is still upstream of Hanji 598's Tingwei summons, but it shows why direct correction becomes dangerous before formal prosecution: the remonstrance blocks the ruler's private favor while claiming to protect the ruler from public backlash.
 
@@ -39,15 +42,17 @@ Hanji 761 adds a favored-insider branch before those ruler-facing cases. [[ZhiSh
 ## Key Claims
 
 - Remonstrance becomes most dangerous when it publicly challenges a ruler or favored insider, blocks a private-favor order, or lets ambiguous silence be used to infer and punish an inner political judgment.
+- A ruler can criminalize or suppress correction without a speech conviction by turning advice into a coercive competence test or hazardous assignment.
 - Public form, documentary evidence, or open distribution can amplify risk by making private pressure or policy failure hard to hide.
 - A captured court can recode corrective speech as resentment, deception, slander, faction, or disloyalty when the target is powerful.
 - Criminalization can widen from the original speaker to solidarity actors, defenders, clemency advocates, relatives, and funeral memory.
 - Mitigation can reduce formal sentence while failing to restore safety when the political threat remains.
-- The pattern ranges from execution and prison death to forced suicide, dismissal, rebuking envoy pressure, fief reduction, and family pressure.
-- The outcome strengthens feedback collapse by teaching officials that truthful correction can become punishable.
+- The pattern ranges from execution and prison death to hazardous assignment, forced suicide, dismissal, rebuking-envoy pressure, fief reduction, and family pressure, teaching officials that truthful correction can become punishable.
 
 ## Evidence
 
+- Coercive competence test: [[zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g|Hanji 329]] says Wudi answers Di Shan's heqin advocacy and attack on Zhang Tang by testing whether he can govern a commandery, county, or frontier barrier, then sends him to the barrier he says he can guard.
+- Assignment death and chilling effect: [[zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g|Hanji 329]] says a Xiongnu raid kills Di within a month and court officials thereafter stop openly advocating heqin or attacking Zhang Tang.
 - Inferred dissent from silence: [[zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1|Hanji 337]] says Yan Yi does not answer a guest's criticism of an edict but slightly moves his lips, which Zhang Tang characterizes as inward defamation.
 - No-safe-channel effect: [[zizhi-tongjian-hanji-337-gudai-zuiming-keyi-you-duo-huangtang-lqoqdtg35ua6m9y4shcz9u8zygp1|Hanji 337]] interprets Yan's death as teaching later ministers to flatter or remain silent, even though Yan's own silence had not protected him.
 
@@ -66,15 +71,15 @@ Hanji 761 adds a favored-insider branch before those ruler-facing cases. [[ZhiSh
 
 ## Counterevidence & Qualifications
 
-Directness is a risk amplifier under certain authority, face, evidence, and faction conditions, not a sufficient cause by itself. Hanji 337 stretches the label because Yan's terminal evidence is nonverbal and inferred; it also does not establish whether 腹诽 was a codified statute, a case precedent, or later characterization. Hanji 597 is a pre-prosecution confrontation and should be read with Hanji 598 for escalation. Hanji 716 is an informal lethal-pressure case rather than a full legal prosecution. Hanji 852 and Hanji 873 show that some blunt or religiously coded criticism can be partly accepted or punished short of death. Hanji 761 also shows partial institutional resilience: He Chang's argument changes the formal sentence. The concept should therefore track how correction or dissent is recoded and punished, not assume that all direct advice inevitably dies.
+Directness is a risk amplifier under certain authority, face, evidence, and faction conditions, not a sufficient cause by itself. Hanji 329 stretches the label because Di Shan is not formally convicted for speech; the punishment works through coerced assignment, and the host's “借刀杀人” reading does not independently prove Wudi's lethal intent. Di's abrasive attack also does not settle whether his heqin advice was wrong. Hanji 337 stretches the label because Yan's terminal evidence is nonverbal and inferred; it also does not establish whether 腹诽 was a codified statute, a case precedent, or later characterization. Hanji 597 is a pre-prosecution confrontation and should be read with Hanji 598 for escalation. Hanji 716 is an informal lethal-pressure case rather than a full legal prosecution. Hanji 852 and Hanji 873 show that some blunt or religiously coded criticism can be partly accepted or punished short of death. Hanji 761 also shows partial institutional resilience: He Chang's argument changes the formal sentence. The concept should therefore track how correction or dissent is recoded and punished, not assume that all direct advice inevitably dies.
 
 ## What Changed
 
-- Added Yan Yi as the earliest current branch and expanded the pattern from spoken remonstrance to punishment of silence, expression, and inferred inner dissent.
-- Added Hanji 597 as the sealed-edict-return branch where Wang Jia blocks a favorite reward while framing the refusal as ruler protection.
-- Preserved Hanji 716 as the early Guangwu branch where Han Xin's harsh warning becomes lethal through dismissal, envoy rebuke, suicide, public resentment, and posthumous appeasement.
-- Preserved Hanji 761 as the favored-insider branch where Zhi Shou's public refusal of Dou Xian's private request becomes a slander case.
-- Preserved mitigation failure as a subtype: formal death reduction still leaves Zhi Shou politically unsafe.
+- Added Di Shan as the earliest current branch and expanded the pattern from speech penalties into coercive competence tests and hazardous assignment.
+- Preserved Yan Yi's no-safe-channel branch, where silence and expression become inferred inner dissent.
+- Preserved Wang Jia's sealed-return branch and Han Xin's dismissal-and-rebuke branch as nontrial pathways into danger.
+- Preserved Zhi Shou as the favored-insider case where public refusal becomes slander and mitigation still fails to restore safety.
+- Clarified that punitive outcome and chilling effect do not adjudicate the underlying advice on its merits.
 
 ## Related Concepts
 
@@ -90,3 +95,5 @@ Directness is a risk amplifier under certain authority, face, evidence, and fact
 - [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - contrasting frame for why some accurate advice survives only when packaged with an acceptable path.
 - [[ZhiShouEasternHan|郅寿]] - Eastern Han source case for publicizing private pressure and dying after sentence mitigation.
 - [[HeChangEasternHan|何敞]] - rescue advocate who reframes direct correction as official duty.
+- [[DiShanWesternHan|狄山]] - Western Han case where heqin advocacy and personal attack are converted into a fatal frontier-capacity test.
+- [[OuterRoundInnerSquareConduct|外圆内方式处世]] - adjacent communication frame that may reduce exposure but cannot legitimize coercive retaliation.
