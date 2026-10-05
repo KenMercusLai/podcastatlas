@@ -40920,6 +40920,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HarshOfficialInstrumentalRule": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HarunAlRashid": [
     {
       "key": "culture",

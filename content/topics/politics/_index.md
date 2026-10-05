@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3133
+topic_total_pages: 3134
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4996,6 +4996,9 @@ topic_concepts:
   - key: "PostalMonopolyPrivateExpressLegalization"
     title: "邮政专营与民营快递合法化"
     url: "/wiki/concepts/postalmonopolyprivateexpresslegalization/"
+  - key: "HarshOfficialInstrumentalRule"
+    title: "酷吏工具化统治 / Harsh Official Instrumental Rule"
+    url: "/wiki/concepts/harshofficialinstrumentalrule/"
   - key: "YinchuanInternetHospitalPilot"
     title: "银川互联网医院试点"
     url: "/wiki/concepts/yinchuaninternethospitalpilot/"

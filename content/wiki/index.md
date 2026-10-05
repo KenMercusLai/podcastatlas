@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长](sources/zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c.md) — 义纵与王温舒以灭族、批量处决、胁迫网络和恐怖沉默制造可见“政绩”；节目据此把酷吏之恶从个人残暴推进到朝廷授权、配合与奖赏的制度链条。
 - [《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！](sources/zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g.md) — 漠北战后屯田与匈奴求和引出和亲、臣服两路争论；任常出使被扣，狄山直攻张汤后被派守边并迅速遇袭身亡，政策判断与惩罚性能力测试须分开。
 - [《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前](sources/zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_.md) — 从刘太公因失去球友而郁郁、刘邦仿沛县营建新丰的故事呈现蹴鞠的社区功能，并以孙膑、蒙恬、卫青和霍去病对照兵法的时代适配。
 - [《资治通鉴·汉纪》328-2｜古代足球也疯狂，霍去病竟也痴迷？](sources/zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn.md) — 以霍去病缺粮时仍组织蹴鞠、弃置余食与卫青体恤士卒的对比，连接汉代蹴鞠的军训、规则、宫廷观看和社会扩散，并保留史料核验边界。
@@ -3890,6 +3891,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South](sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south.md) — Data Science With Sam episode on Google's India commitments, AI-for-science funding, Global South participation, connectivity, and India's possible AI-governance role.
 
 ## Entities
+- [宁成 / Ning Cheng (Western Han)](entities/NingChengWesternHan.md) — 以关隘暴虐闻名、后被义纵调查并灭族的西汉酷吏。
 - [狄山 / Di Shan (Western Han)](entities/DiShanWesternHan.md) — 主张汉匈和亲、当廷攻击张汤，后在惩罚性能力测试中被派守边并迅速死于匈奴袭击的西汉博士。
 - [任常 / Ren Chang (Western Han)](entities/RenChangWesternHan.md) — 漠北战后主张要求匈奴臣服并奉命出使，却因朝觐要求触怒单于而被扣留的西汉官员。
 - [新丰 / Xinfeng (Western Han)](entities/XinfengHan.md) — 节目所述刘邦仿沛县营建、迁入故乡人群以恢复刘太公社区与蹴鞠生活的长安附近聚落。
@@ -16449,6 +16451,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nandan Nilekani](entities/NandanNilekani.md) — Indian technology figure named among speakers at the AI Impact Summit in India.
 
 ## Concepts
+- [酷吏工具化统治 / Harsh Official Instrumental Rule](concepts/HarshOfficialInstrumentalRule.md) — 上层权力借授权、人员、信息与保护使酷吏暴力成为可汇报、可奖赏治理绩效的机制。
 - [兵法的时代适配 / Military Doctrine Era Fit](concepts/MilitaryDoctrineEraFit.md) — 兵法必须依兵种、组织、地形、对手、补给与作战距离重新检验，不能把旧时代战术直接复制到新战场。
 - [汉代蹴鞠 / Han Dynasty Cuju](concepts/HanDynastyCuju.md) — 汉代球类活动的来源限定综合，连接社区生活、规则化比赛、军事训练、宫廷观看与社会扩散，并区分组织运动和士卒物质照护。
 - [强势君主下的丞相双重约束 / Strong-Ruler Chancellorship Double Bind](concepts/StrongRulerChancellorshipDoubleBind.md) — 丞相既须避免以独立个性触犯强势君主，又须实际承担战争、财政、战略与朝廷协调的角色冲突。

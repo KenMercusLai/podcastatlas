@@ -98824,6 +98824,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/harryingofthenorth/"
     },
+    "HarshOfficialInstrumentalRule": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长 [llUUwMkV4RjQgnVODkuzUlb9EE3C].md",
+          "key": "zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/harshofficialinstrumentalrule/"
+    },
     "HarunAlRashid": {
       "episode_count": 2,
       "show_count": 1,
@@ -160312,6 +160328,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/nineteeneightyfour/"
+    },
+    "NingChengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长 [llUUwMkV4RjQgnVODkuzUlb9EE3C].md",
+          "key": "zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/ningchengwesternhan/"
     },
     "Ningbo": {
       "episode_count": 1,
@@ -231553,9 +231585,9 @@
       "url": "/wiki/entities/wangweisf/"
     },
     "WangWenshuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》372-2｜汉宛战争，你以为汉武帝让大舅子领兵那么单纯？ [lg0MdVsYLLJhZildXX-sHad76RRH].md",
@@ -231563,9 +231595,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》372-2｜汉宛战争，你以为汉武帝让大舅子领兵那么单纯？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长 [llUUwMkV4RjQgnVODkuzUlb9EE3C].md",
+          "key": "zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/wangwenshuwesternhan/"
     },
     "WangWuWesternHan": {
@@ -244082,9 +244121,9 @@
       "url": "/wiki/entities/yiyanmoyan/"
     },
     "YiZongWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -244113,6 +244152,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》334-2｜为什么老板更喜欢做表面文章的人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长 [llUUwMkV4RjQgnVODkuzUlb9EE3C].md",
+          "key": "zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c/"
         }
       ],
       "updated": "2026-10-06",

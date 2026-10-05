@@ -5,48 +5,57 @@ knowledge_schema: synthesis-v1
 tags: [person, western-han, harsh-official, corruption, punishment]
 sources:
   - zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c
+last_updated: 2026-10-06
 ---
 
 ## Overview
 
-王温舒 / Wang Wenshu enters the wiki through [[zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh|Hanji 372-2]] as a late-[[HanWudi|汉武帝]] harsh official whose authority through killing and fear ends in corruption charges, suicide, and punishment spreading across connected households.
+王温舒 / Wang Wenshu is synthesized as a Han Wudi-era harsh official who converts a criminal and coercive local network into fear-backed administrative performance, rises through patronage and reported order, and later dies amid corruption charges and punishment spreading across connected households.
 
 ## Current Profile
 
-The episode identifies Wang Wenshu as zhongwei and says he is accused of deceit and profit-seeking severe enough to warrant clan extermination. He kills himself, while two brothers and two in-law households are also destroyed for other offenses. Xu Ziwei's reported remark that ancient law had three-clan punishment but Wang's case reached “five clans” turns the outcome into an image of accumulated household catastrophe rather than proof of one single five-clan statute.
+[[zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c|Hanji 330]] supplies Wang's rise. It describes youthful robbery, killing, and tomb raiding before his appointment in Guangping, where he recruits powerful and violent local men, overlooks cooperating offenders, and revives old cases against refusal. The resulting road-safety reputation is therefore inseparable from selective protection and threat. In Henei he is said to arrest people across more than one thousand households, obtain court approval for extreme penalties within days, and create silence through fear. His wish for a longer winter so he could continue killing makes personal appetite part of the portrait, while the episode's larger explanation is [[HarshOfficialInstrumentalRule|institutional use]]: [[ZhangTangWesternHan|张汤]] values his severity and [[HanWudi|汉武帝]] promotes what the court receives as effective performance.
 
-The host reads his fall as a limit on terror-based authority. Killing can produce short-term compliance, but cruelty does not erase corruption; once official protection or fear collapses, the same punitive environment can consume the enforcer and his family network. That moral reading is source-scoped and does not replace a full reconstruction of the accusations or legal proceedings.
+[[zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh|Hanji 372-2]] supplies the fall. It identifies Wang as zhongwei and reports deceit and profit-seeking charges severe enough to warrant clan extermination. He kills himself, while two brothers and two in-law households are also destroyed for other offenses. Xu Ziwei's “five clans” remark depicts cumulative household catastrophe rather than proving one unified five-clan statute.
+
+Across both notes, terror has a political lifecycle. Fear and visible quiet help create authority, but neither lawful legitimacy nor permanent protection follows. Once the official's cover collapses, the punitive system can consume the agent and connected families as readily as earlier targets.
 
 ## Key Characteristics
 
-- Western Han zhongwei presented as a harsh official who builds authority through killing and fear.
-- Accused of deceit, profit-seeking, and offenses said to justify clan extermination.
-- Dies by suicide before the reported punishment is carried out against him.
-- Connected to four additional household destructions involving two brothers and two in-law families.
-- Used by the episode as a warning that coercive reputation cannot permanently shield corrupt conduct.
+- Former local criminal presented as turning coercive contacts into an enforcement network.
+- Selective protector and blackmailer who rewards cooperation and revives old offenses against refusal.
+- Harsh official whose mass arrests, executions, and social intimidation are reported upward as order.
+- Court-backed enforcer whose rise is linked to Zhang Tang's patronage and Wudi's centralizing priorities.
+- Official later accused of deceit and profit-seeking who dies by suicide.
+- Figure whose rise and fall expose both the usefulness and expendability of terror-based agents.
 
 ## Evidence
 
-Office, accusation, and death:
-- [[zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh|Hanji 372-2]] identifies Wang Wenshu as zhongwei, reports accusations of deceit and profit-seeking, and says he commits suicide when facing clan-extermination liability.
+Criminal background and coercive network:
+- [[zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c|Hanji 330]] reports youthful violent crime and says Wang later recruits local powerful or criminal men through protection and old-case leverage.
 
-Connected-household destruction:
-- [[zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh|Hanji 372-2]] says Wang's two brothers and two in-law households are separately exterminated for other offenses and preserves Xu Ziwei's “five clans” remark.
+Fear-backed administration and court support:
+- [[zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c|Hanji 330]] credits Guangping with visible road safety, then says Wang's Henei campaign reaches more than one thousand households and makes residents afraid to speak or go out at night.
+- [[zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c|Hanji 330]] reports rapid court approval, the longer-winter remark, Zhang Tang's support, and subsequent promotion.
 
-Interpretive lesson:
-- [[zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh|Hanji 372-2]] argues that violence can create only temporary authority and cannot permanently conceal corruption.
+Accusation, death, and connected-household destruction:
+- [[zizhi-tongjian-hanji-372-2-hanwan-zhanzheng-ni-yiwei-hanwudi-rang-dajiuzi-lingbing-name-danchun-lg0mdvsylljhzildxx-shad76rrh|Hanji 372-2]] reports deceit and profit-seeking accusations, suicide, destruction of two brothers' and two in-law households for separate offenses, and Xu Ziwei's “five clans” comment.
 
 ## Qualifications
 
-This profile is bounded to one short popular-history episode. It does not reconstruct Wang Wenshu's earlier career, individual prosecutions, the evidentiary basis of the charges, the legal sequence, or the separate offenses attributed to his brothers and in-laws. “Five clans” is preserved as Xu Ziwei's reported comment on cumulative household destruction, not generalized into a settled statutory category.
+Both notes are short popular-history treatments rather than a complete legal biography. Hanji 330 does not independently establish Wang's youth offenses, network mechanics, arrest and victim totals, approval route, exact office sequence, or seasonal-execution rule. Its blank-authorization suggestion and claim that killing became personal enjoyment are source interpretations. Hanji 372-2 does not reconstruct the evidence for corruption charges or the separate household offenses. “Five clans” remains a reported comment on cumulative destruction, not a settled statutory category.
 
 ## What Changed
 
-- Created a source-bounded profile separating the reported legal outcome from the host's broader critique of terror-based official authority.
+- Added Wang's rise through a selectively protected coercive network, mass prosecution, and fear-backed public order.
+- Connected Zhang Tang's sponsorship and court approval to Wang's promotion without treating speculative blank authorization as fact.
+- Turned the prior fall-only vignette into a lifecycle account of an instrumentally useful but ultimately expendable harsh official.
 
 ## Relationships
 
-- [[HanWudi|汉武帝]] - ruler-era context for Wang Wenshu's harsh-official career and fall.
-- [[TerrorRuleBackfire|恐怖治理反噬]] - related mechanism in which coercion degrades durable authority and can rebound against its practitioners.
-- [[KnownMisconductNonPunishment|已知失德不惩]] - contrasting accountability boundary because Wang's source vignette ends in extreme punishment rather than continued protection.
+- [[HanWudi|汉武帝]] - ruler whose centralizing priorities make Wang's reported severity useful.
+- [[ZhangTangWesternHan|张汤]] - patron said to value Wang's violent enforcement style.
+- [[HarshOfficialInstrumentalRule|酷吏工具化统治]] - governance pattern explaining the support structure behind Wang's rise.
+- [[TerrorRuleBackfire|恐怖治理反噬]] - later-stage mechanism in which coercion fails to provide durable authority or protection.
+- [[KnownMisconductNonPunishment|知奸不除式威慑失效]] - contrasting accountability boundary because Wang's later vignette ends in extreme punishment rather than continued protection.
