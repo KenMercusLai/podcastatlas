@@ -30413,3 +30413,11 @@ Added source `zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | Science-Based Meditation Tools to Improve Your Brain & Health | Dr. Richard Davidson
+
+Added source `science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306`; created [[RichardDavidson]], [[MeditationStateTraitTraining]], [[MetaAwarenessResponseSpace]], and [[FourPillarsFlourishing]]; and resynthesized [[ShortDailyMeditationAttentionTraining]] from its complete preserved evidence inventory. Core synthesis: meditation is a family of trainable attention practices whose repeated states may influence longer-term tendencies, with meta-awareness creating room before reaction and sustainable daily repetition taking priority over intensity; flourishing is organized around awareness, connection, insight, and purpose. No settled contradiction was adopted. Five-minute symptom and biomarker effects, microbiome and imaging changes, educator and student outcomes, gamma rhythms, pain findings, childhood self-control predictions, psychedelics, neuromodulation, sleep, and creativity claims remain source-scoped or preliminary. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,802 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 9735
+wiki_total_pages: 9738
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "FoundingLibertySlaverySelfCorrection"
     title: "Founding Liberty-Slavery Self-Correction"
     url: "/wiki/concepts/foundinglibertyslaveryselfcorrection/"
+  - key: "FourPillarsFlourishing"
+    title: "Four Pillars of Flourishing"
+    url: "/wiki/concepts/fourpillarsflourishing/"
   - key: "FourExchangeHongKongMarketFragmentation"
     title: "Four-Exchange Hong Kong Market Fragmentation / 香港四会并列市场碎片化"
     url: "/wiki/concepts/fourexchangehongkongmarketfragmentation/"

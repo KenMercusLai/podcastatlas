@@ -81716,6 +81716,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/foundinglibertyslaveryselfcorrection/"
     },
+    "FourPillarsFlourishing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1465874306 [SCIM1465874306].md",
+          "key": "science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306",
+          "show": "Huberman Lab",
+          "title": "Science-Based Meditation Tools to Improve Your Brain & Health | Dr. Richard Davidson",
+          "url": "/wiki/sources/science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/fourpillarsflourishing/"
+    },
     "FourSeasonsAfterFilm": {
       "episode_count": 1,
       "show_count": 1,
@@ -147385,6 +147401,22 @@
       "updated": "2026-10-01",
       "url": "/wiki/concepts/meditationrefocusingpractice/"
     },
+    "MeditationStateTraitTraining": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1465874306 [SCIM1465874306].md",
+          "key": "science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306",
+          "show": "Huberman Lab",
+          "title": "Science-Based Meditation Tools to Improve Your Brain & Health | Dr. Richard Davidson",
+          "url": "/wiki/sources/science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/meditationstatetraittraining/"
+    },
     "MediterraneanDietModernConstruction": {
       "episode_count": 1,
       "show_count": 1,
@@ -148876,6 +148908,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/concepts/messagerelaypoliticalpower/"
+    },
+    "MetaAwarenessResponseSpace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1465874306 [SCIM1465874306].md",
+          "key": "science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306",
+          "show": "Huberman Lab",
+          "title": "Science-Based Meditation Tools to Improve Your Brain & Health | Dr. Richard Davidson",
+          "url": "/wiki/sources/science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/metaawarenessresponsespace/"
     },
     "MetaMoment": {
       "episode_count": 1,
@@ -188574,6 +188622,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/richardcromwell/"
     },
+    "RichardDavidson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1465874306 [SCIM1465874306].md",
+          "key": "science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306",
+          "show": "Huberman Lab",
+          "title": "Science-Based Meditation Tools to Improve Your Brain & Health | Dr. Richard Davidson",
+          "url": "/wiki/sources/science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/richarddavidson/"
+    },
     "RichardFeynman": {
       "episode_count": 3,
       "show_count": 3,
@@ -200364,9 +200428,9 @@
       "url": "/wiki/concepts/shoppingcenterrestaurantization/"
     },
     "ShortDailyMeditationAttentionTraining": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2980742096 [SCIM2980742096].md",
@@ -200381,9 +200445,16 @@
           "show": "Huberman Lab",
           "title": "Understand & Improve Memory Using Science-Based Tools",
           "url": "/wiki/sources/understand-improve-memory-using-science-based-tools-scim9087472978/"
+        },
+        {
+          "episode_file": "SCIM1465874306 [SCIM1465874306].md",
+          "key": "science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306",
+          "show": "Huberman Lab",
+          "title": "Science-Based Meditation Tools to Improve Your Brain & Health | Dr. Richard Davidson",
+          "url": "/wiki/sources/science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/shortdailymeditationattentiontraining/"
     },
     "ShortVideoCraftCreatorPath": {

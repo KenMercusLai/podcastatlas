@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Science-Based Meditation Tools to Improve Your Brain & Health | Dr. Richard Davidson](sources/science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306.md) — Huberman Lab interview on brief sustainable meditation, state-to-trait change, meta-awareness, flourishing, and evidence boundaries around clinical and neural claims.
 - [《资治通鉴·汉纪》339-1｜三人成虎，如何逼死西汉第一酷吏？](sources/zizhi-tongjian-hanji-339-1-sanrenchenghu-ruhe-bisi-xihan-diyi-kuli-lowphplbvgugdyfag-sczpgggyrv.md) — 庄青翟与三长史因共同威胁和旧怨结盟，以商人田信为桥梁指控张汤泄露政策、官商勾结；转录在指控未完时中断。
 - [《资治通鉴·汉纪》339-2｜以死杀人，酷吏张汤是如何做到的？](sources/zizhi-tongjian-hanji-339-2-yi-si-sharen-kuli-zhangtang-shi-ruhe-zuodao-de-luq3jaa9iruhiqiqlduewbj-luca.md) — 减宣奏报和赵禹审讯把张汤逼向自杀，其遗书、清贫家产与母亲薄葬又改变汉武帝判断，最终使三长史被诛、庄青翟自杀。
 - [《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案](sources/zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag.md) — 张汤借鲁谒居构陷李文、因亲自摩足暴露异常亲密，又在孝文园瘗钱被盗后把责任推向庄青翟，多路积怨由此汇入同一调查。
@@ -3866,6 +3867,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 
 ## Entities
+- [Richard Davidson](entities/RichardDavidson.md) — neuroscientist studying meditation, plasticity, emotion regulation, and trainable wellbeing.
 - [严助 / Yan Zhu (Western Han)](entities/YanZhuWesternHan.md) — 朱买臣的早期举荐者；其在淮南案后的处死成为朱买臣仇视张汤的重要来源。
 - [田信 / Tian Xin (Western Han)](entities/TianXinWesternHan.md) — 被朱买臣选作指控张汤泄露政策与官商勾结之桥梁的西汉商人。
 - [朱买臣 / Zhu Maichen (Western Han)](entities/ZhuMaichenWesternHan.md) — 因严助之死、张汤羞辱与共同威胁组织三长史反击，并以田信关系设计指控，后被反向清算。
@@ -16394,6 +16396,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [Four Pillars of Flourishing](concepts/FourPillarsFlourishing.md) — Davidson's trainable framework of awareness, connection, insight, and purpose.
+- [Meta-Awareness Response Space](concepts/MetaAwarenessResponseSpace.md) — noticing present mental activity early enough to create a choice before automatic response.
+- [Meditation State-to-Trait Training](concepts/MeditationStateTraitTraining.md) — model in which repeated temporary meditation states may alter durable tendencies.
 - [五铢钱中央统一铸造 / Centralized Wuzhu Coinage](concepts/CentralizedWuzhuCoinage.md) — 以收回铸币权、集中铜材、专业化铸造与统一重量共同支撑的西汉中央货币机制。
 - [Physical-World Compute Stack](concepts/PhysicalWorldComputeStack.md) — Atoms-system analogy joining manufacturing, real estate, logistics, hardware, land, materials, and capital.
 - [Top-Down AI Process Redesign](concepts/TopDownAIProcessRedesign.md) — Leadership-driven sequence for turning AI access into simplified workflows, shared data and tools, speed, and measurable outcomes.

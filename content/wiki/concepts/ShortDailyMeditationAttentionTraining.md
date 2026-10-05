@@ -5,19 +5,22 @@ tags: [meditation, attention, stress, mood]
 sources:
   - boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096
   - understand-improve-memory-using-science-based-tools-scim9087472978
-last_updated: 2026-10-01
+  - science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306
+last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
 
 # Short Daily Meditation Attention Training
 
 ## Definition
-Short daily meditation attention training is a repeatable guided practice, exemplified here by a roughly 12-to-13-minute body scan or attention exercise, that trains noticing attentional drift and returning to present-moment experience.
+Short daily meditation attention training is a repeatable practice that uses a small sustainable daily dose to train noticing attentional drift and returning to, or openly monitoring, present-moment experience.
 
 ## Current Synthesis
 Suzuki's interview reports an eight-week study comparing daily guided body-scan meditation with podcast listening. Participants reportedly adhered better to the meditation condition, and meditators showed reduced stress response, improved mood, and better cognitive performance. The earlier full memory episode describes what appears to be the same research program as a 13-minute daily practice in adults aged 18 to 45, with improvements after eight but not four weeks. These source notes add detail rather than independent replication.
 
-The result supports a feasible brief-practice example, not a universal duration or treatment. The full episode also reports worse sleep when meditation occurred late in the day, plausibly because the practice trains attention as well as calm. A body scan emphasizes interoceptive attention and may not be equivalent to breath focus, open monitoring, non-dual practice, sleep-oriented relaxation, or clinical mindfulness programs. The concept therefore complements [[MeditationRefocusingPractice]] while keeping protocol, timing, and mechanism claims narrow.
+A distinct protocol supports an adherence-first principle: start with the minimum practice a person can sustain every day for about 30 days. [[RichardDavidson]] reports benefits from five minutes daily, whether in formal practice or low-demand activities. The account attributes reductions in depression, anxiety, stress, and IL-6 plus microbiome and brain changes to brief practice, but does not provide enough methods to compare this directly with Suzuki's body-scan study.
+
+Together the sources support feasible brief practice rather than one universal dose or treatment. The full memory episode also reports worse sleep when meditation occurred late in the day, plausibly because some practices train alert attention as well as calm. Body scan, focused attention, open monitoring, non-dual practice, sleep-oriented relaxation, and clinical mindfulness programs should not be assumed interchangeable. The concept therefore complements [[MeditationRefocusingPractice]] and [[MeditationStateTraitTraining]] while keeping protocol, timing, outcome, and mechanism claims narrow.
 
 ## Key Claims
 - A brief daily body scan can provide a feasible structure for repeated present-moment attention practice.
@@ -26,6 +29,7 @@ The result supports a feasible brief-practice example, not a universal duration 
 - Adherence is part of practical effectiveness, and the meditation condition reportedly retained participants better than the control.
 - The reported duration and method are one study example rather than a universal prescription or clinical treatment.
 - Time of day may matter because late practice was reported to impair sleep quality for some participants.
+- A minimum sustainable daily dose may support adherence, but five-minute and 12-to-13-minute protocols are not established as equivalent.
 
 ## Evidence
 - Protocol and duration - [[boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096]] describes a guided body scan of about 10 to 12 minutes daily for eight weeks.
@@ -34,14 +38,17 @@ The result supports a feasible brief-practice example, not a universal duration 
 - Feasibility - [[boost-attention-memory-with-science-based-tools-dr-wendy-suzuki-scim2980742096]] reports higher adherence for meditation than for the listening condition.
 - Duration and threshold - [[understand-improve-memory-using-science-based-tools-scim9087472978]] describes a 13-minute daily practice in adults aged 18 to 45 and reports benefits after eight weeks but not four.
 - Sleep-timing tradeoff - [[understand-improve-memory-using-science-based-tools-scim9087472978]] reports poorer sleep quality when meditation was performed late in the day.
+- Minimum-dose principle - [[science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306]] recommends the smallest daily commitment a beginner can sustain for about 30 days.
+- Five-minute findings - [[science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306]] reports symptom and biological changes after five minutes daily, while leaving design and effect-size details unspecified.
+- Practice context - [[science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306]] reports similar early benefit from formal and everyday low-demand practice without establishing interchangeability.
 
 ## Counterevidence & Qualifications
-The source notes do not provide sample size, allocation, blinding, effect sizes, attrition detail, follow-up duration, or independent replication, and their roughly 10-to-12-minute versus 13-minute descriptions should not be treated as an optimized-dose comparison. A podcast-listening control may not match expectancy, instructor contact, or active attentional training. Body-focused practice can be uncomfortable or destabilizing for some people, and the episodes do not establish efficacy for an attention disorder, anxiety disorder, depression, trauma, or sleep disorder. Exact neural mechanisms and the generality of the late-day sleep effect remain unresolved.
+The source notes do not provide enough sample, allocation, blinding, effect-size, attrition, intervention, follow-up, or replication detail for cross-study dose comparison. The roughly 10-to-12-minute and 13-minute accounts likely describe the same study, whereas Davidson's five-minute account appears distinct; none establishes an optimized dose. A podcast-listening control may not match expectancy, instructor contact, or active attention training. Body-focused or open-monitoring practice can be uncomfortable or destabilizing, and reported symptom improvements are not individualized treatment evidence. Exact neural, inflammatory, microbiome, and sleep mechanisms remain unresolved.
 
 ## What Changed
-- Added the eight-versus-four-week threshold reported in the full episode.
-- Added late-day sleep disruption as a timing qualification.
-- Clarified that the two episode accounts likely describe the same study rather than independent replication.
+- Added Davidson's minimum-sustainable-dose principle and five-minute, 30-day account.
+- Distinguished the Davidson protocol from Suzuki's likely shared 12-to-13-minute study provenance.
+- Added formal-versus-everyday practice and biomarker claims as source-scoped rather than equivalent or independently verified.
 
 ## Related Concepts
 - [[MeditationRefocusingPractice]] - broader account of noticing distraction and deliberately returning attention.
@@ -51,3 +58,5 @@ The source notes do not provide sample size, allocation, blinding, effect sizes,
 - [[NonSleepDeepRestRecovery]] - neighboring restorative practice that should not be treated as identical to attention training.
 - [[ExerciseLinkedCognitiveResilience]] - companion behavioral foundation for mood and cognitive performance in the source.
 - [[SleepAsDailyHealthAccount]] - sleep boundary that can outweigh placing an alerting practice late in the day.
+- [[MeditationStateTraitTraining]] - explains why frequent brief repetitions might matter beyond the immediate state.
+- [[MetaAwarenessResponseSpace]] - identifies noticing drift and impulse as a trainable operation.

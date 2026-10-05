@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9735
+wiki_total_pages: 9738
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "MeditationAttentionModeSelection"
     title: "Meditation Attention-Mode Selection"
     url: "/wiki/concepts/meditationattentionmodeselection/"
+  - key: "MeditationStateTraitTraining"
+    title: "Meditation State-to-Trait Training"
+    url: "/wiki/concepts/meditationstatetraittraining/"
   - key: "MeditativeStabilityPractice"
     title: "Meditative Stability Practice / 定力修行框架"
     url: "/wiki/concepts/meditativestabilitypractice/"
@@ -800,6 +803,9 @@ wiki_pages:
   - key: "MermaidFreediving"
     title: "Mermaid Freediving / 美人鱼潜水"
     url: "/wiki/concepts/mermaidfreediving/"
+  - key: "MetaAwarenessResponseSpace"
+    title: "Meta-Awareness Response Space"
+    url: "/wiki/concepts/metaawarenessresponsespace/"
   - key: "MetaModelTrainingCurvePrediction"
     title: "Meta-Model Training Curve Prediction"
     url: "/wiki/concepts/metamodeltrainingcurveprediction/"
