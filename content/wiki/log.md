@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-06] ingest | 《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死
+
+Added source `zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod`; created [[LiuPengliJidongKingWesternHan|济东王刘彭离]], [[LiuWuLiangKingWesternHan|梁孝王刘武]], and [[RoyalKinshipPenaltyMitigation|宗室亲缘减刑]]; and resynthesized [[RuleOverKinshipPower|法度压过亲缘特权]] from its complete preserved evidence inventory. Core synthesis: central investigation can break local silence and remove a murderous vassal king's rank, territory, and freedom while royal kinship and inherited merit still preserve his life; the result is severe punishment but not kin-neutral punishment. This directly qualifies, without factually contradicting, Hanji 392-1's later account of Han Wudi approving the execution of another close relative for one killing, and narrows law-over-kinship into a selective ruler signal rather than a consistent standard. “刘鹏黎” was normalized to 刘彭离 from the Jidong, Liang parentage, reign-length, Shangyong exile, and Dahe Commandery context. The victim count beyond “more than one hundred,” complaint route, investigation, statutory basis, Wudi's precise motive, exile conditions, and the causal weight assigned to Liu Wu's service remain source-scoped. The broad Han Wudi page was read for context but not changed because the bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,807 sources across 796 overview paragraphs and nine topics.
+
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子
 
 Added source `zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1`; created [[LiGanWesternHan|李敢]] and [[YangKeWesternHan|杨可]]; and resynthesized [[HuoQubing|霍去病]], [[LiGuangHanGeneral|李广]], [[WeiQingHanGeneral|卫青]], [[YiZongWesternHan|义纵]], [[RewardedDenunciationFiscalEnforcement|告缗式奖励告发财政执法]], and [[KnownMisconductNonPunishment|知奸不除式威慑失效]] from their complete preserved evidence inventories. Core synthesis: the episode places告缗 implementation conflict beside a military-court accountability chain—Yi Zong's attempt to restrain Yang Ke's subordinates is punished as resistance to the edict, while Li Gan's assault on Wei Qing is privately contained but later answered by Huo Qubing's procedureless killing and Wudi's protection of the favored commander. No settled contradiction was adopted. Wei Qing's alleged guilt, Huo Qubing's precise motive, a deliberately arranged hunt, confiscation and enslavement totals, battlefield details, the deer-cover mechanics, and the opening modern crime and marriage claims remain source-scoped. The broad Han Wudi page was read for context but not changed because the bounded additions are represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,805 sources across 796 overview paragraphs and nine topics. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
@@ -30449,6 +30453,10 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] lint | Wiki health check
 

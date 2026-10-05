@@ -49631,6 +49631,10 @@
     "title": "刘淖子 / Liu Naozi (Western Han)",
     "url": "/wiki/entities/liunaoziwesternhan/"
   },
+  "LiuPengliJidongKingWesternHan": {
+    "title": "济东王刘彭离 / Liu Pengli, King of Jidong (Western Han)",
+    "url": "/wiki/entities/liupenglijidongkingwesternhan/"
+  },
   "LiuPengzuZhaoKingWesternHan": {
     "title": "赵敬肃王刘彭祖 / Liu Pengzu, Zhao King (Western Han)",
     "url": "/wiki/entities/liupengzuzhaokingwesternhan/"
@@ -49734,6 +49738,10 @@
   "LiuWenhuan": {
     "title": "Liu Wenhuan",
     "url": "/wiki/entities/liuwenhuan/"
+  },
+  "LiuWuLiangKingWesternHan": {
+    "title": "梁孝王刘武 / Liu Wu, King Xiao of Liang (Western Han)",
+    "url": "/wiki/entities/liuwuliangkingwesternhan/"
   },
   "LiuXiDaiKing": {
     "title": "刘喜 / Liu Xi (Dai king)",
@@ -70178,6 +70186,10 @@
   "RoyalKinTreasonLawBoundary": {
     "title": "宗室谋逆法度边界 / Royal Kin Treason Law Boundary",
     "url": "/wiki/concepts/royalkintreasonlawboundary/"
+  },
+  "RoyalKinshipPenaltyMitigation": {
+    "title": "宗室亲缘减刑 / Royal Kinship Penalty Mitigation",
+    "url": "/wiki/concepts/royalkinshippenaltymitigation/"
   },
   "RoyalKinshipScandalAdjudication": {
     "title": "宗室亲属丑闻审理 / Royal Kinship Scandal Adjudication",
@@ -100182,6 +100194,10 @@
   "zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5": {
     "title": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手",
     "url": "/wiki/sources/zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5/"
+  },
+  "zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod": {
+    "title": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod/"
   },
   "zizhi-tongjian-hanji-338-2-yinwei-yi-chang-anmo-yinfa-de-xuean-lp8mwe-z21lhqhg4lwnj-jmeotag": {
     "title": "《资治通鉴·汉纪》338-2｜因为一场“按摩”引发的血案",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9739
+wiki_total_pages: 9740
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1424,6 +1424,9 @@ wiki_pages:
   - key: "RoyalKinshipScandalAdjudication"
     title: "宗室亲属丑闻审理 / Royal Kinship Scandal Adjudication"
     url: "/wiki/concepts/royalkinshipscandaladjudication/"
+  - key: "RoyalKinshipPenaltyMitigation"
+    title: "宗室亲缘减刑 / Royal Kinship Penalty Mitigation"
+    url: "/wiki/concepts/royalkinshippenaltymitigation/"
   - key: "RoyalWitchcraftSuccessionDelusion"
     title: "宗室巫术夺位幻想 / Royal Witchcraft Succession Delusion"
     url: "/wiki/concepts/royalwitchcraftsuccessiondelusion/"

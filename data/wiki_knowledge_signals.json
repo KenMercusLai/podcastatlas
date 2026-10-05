@@ -134359,6 +134359,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/liunaoziwesternhan/"
     },
+    "LiuPengliJidongKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死 [lggP0q9kA9jHB9PEj9z7w1UE5LoD].md",
+          "key": "zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/liupenglijidongkingwesternhan/"
+    },
     "LiuPengzuZhaoKingWesternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -134918,6 +134934,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liuwenqingherebellatehan/"
+    },
+    "LiuWuLiangKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死 [lggP0q9kA9jHB9PEj9z7w1UE5LoD].md",
+          "key": "zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/liuwuliangkingwesternhan/"
     },
     "LiuXianEasternHan": {
       "episode_count": 1,
@@ -192261,6 +192293,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/royalkintreasonlawboundary/"
     },
+    "RoyalKinshipPenaltyMitigation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死 [lggP0q9kA9jHB9PEj9z7w1UE5LoD].md",
+          "key": "zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/royalkinshippenaltymitigation/"
+    },
     "RoyalKinshipScandalAdjudication": {
       "episode_count": 1,
       "show_count": 1,
@@ -192535,9 +192583,9 @@
       "url": "/wiki/concepts/rulebounddetectiveplotinnovation/"
     },
     "RuleOverKinshipPower": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？ [lup_p-Inz1sdlhpnAGgqjP0EAvAr].md",
@@ -192566,9 +192614,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死 [lggP0q9kA9jHB9PEj9z7w1UE5LoD].md",
+          "key": "zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》338-1｜没天理！杀死上百人，他竟不被判死",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/ruleoverkinshippower/"
     },
     "RulerScalePathDependence": {

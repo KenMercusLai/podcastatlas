@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12486
+wiki_total_pages: 12488
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2144,6 +2144,9 @@ wiki_pages:
   - key: "LiangState"
     title: "梁国 / Liang State"
     url: "/wiki/entities/liangstate/"
+  - key: "LiuWuLiangKingWesternHan"
+    title: "梁孝王刘武 / Liu Wu, King Xiao of Liang (Western Han)"
+    url: "/wiki/entities/liuwuliangkingwesternhan/"
   - key: "LiangfuHou"
     title: "梁富侯 / Liangfu Hou"
     url: "/wiki/entities/liangfuhou/"
@@ -2243,6 +2246,9 @@ wiki_pages:
   - key: "LuoyangLateHan"
     title: "洛阳 / Luoyang (late Han)"
     url: "/wiki/entities/luoyanglatehan/"
+  - key: "LiuPengliJidongKingWesternHan"
+    title: "济东王刘彭离 / Liu Pengli, King of Jidong (Western Han)"
+    url: "/wiki/entities/liupenglijidongkingwesternhan/"
   - key: "LiuQingHuaiyangKingWesternHan"
     title: "淮阳王刘清 / Liu Qing (Huaiyang King, Western Han)"
     url: "/wiki/entities/liuqinghuaiyangkingwesternhan/"

@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf
   - zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli
   - zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod
+last_updated: 2026-10-06
 ---
 
 ## Definition
@@ -27,6 +28,8 @@ Hanji 1006 supplies the Cao-clan client case through [[ManChong|满宠]] and [[C
 
 The durable synthesis is that legal credibility depends on the powerful side accepting limits. Enforcement against ordinary people proves little; enforcement against protected households works as a signal only when the higher patron declines to reverse, punish, or privately avenge the official. Hanji 392-1 is the strongest current emotional-pressure case because the same ruler who feels family grief is also the actor who refuses legal exemption.
 
+Hanji 338-1 now supplies the direct counterexample. Officials ask Han Wudi to execute [[LiuPengliJidongKingWesternHan|济东王刘彭离]] after investigation identifies more than one hundred killings, but Wudi instead deposes and exiles him. Enforcement reaches the royal offender and destroys his territorial power, yet [[RoyalKinshipPenaltyMitigation|宗室亲缘减刑]] preserves his life. The contrast with Zhao Pingjun means this concept describes a contingent ruler signal, not a consistent kin-neutral order.
+
 ## Key Claims
 
 - Legal authority becomes credible only when the ruler's kin, close clients, or marital dependents are visibly subject to it.
@@ -35,6 +38,7 @@ The durable synthesis is that legal credibility depends on the powerful side acc
 - The pattern works through power as much as law: the rule holds because a higher patron chooses not to override the official.
 - The concept complements talent recruitment because non-kin officials have reason to serve when rules are not always reversed by family access.
 - Prior payment, deathbed trust, or family grief can intensify the exemption claim, but they do not make the law signal credible unless the ruler still lets punishment stand.
+- Countercases matter: punishment can be severe while royal kinship still changes its ceiling, so deposition or exile alone does not prove that law fully displaced privilege.
 
 ## Evidence
 
@@ -46,17 +50,19 @@ The durable synthesis is that legal credibility depends on the powerful side acc
 - Ruler signal: [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] treats Cao Cao's praise as a signal that clan access will not always outrank local law.
 - Wife-side kinship pressure: [[zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf|Hanji 1022]] has Li Tong's wife plead for her uncle and Li Tong refuse to subordinate public duty to private affection.
 - Enforcement credibility: [[zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf|Hanji 1022]] makes Zhao Yan's execution credible because Li Tong accepts the result rather than retaliating through rank.
+- Kinship-limited enforcement: [[zizhi-tongjian-hanji-338-1-mei-tianli-shasi-shangbairen-ta-jing-bu-bei-pan-si-lggp0q9ka9jhb9pej9z7w1ue5lod|Hanji 338-1]] says officials request Liu Pengli's execution after more than one hundred identified killings, but Wudi preserves his life while removing rank, territory, and freedom.
 
 ## Counterevidence & Qualifications
 
-The concept should not be expanded into liberal equality before law. In these sources, enforcement remains selective and ruler-centered; its political force comes from visible discipline inside a court or camp, not from an independent legal order outside personal power. Hanji 392-1 is told admiringly and does not prove consistent royal-kin enforcement across Han Wudi's reign. Hanji 721 also shows the contingency clearly: Liu Xiu first threatens Dong Xuan and only later chooses to back him. In Hanji 1006 and Hanji 1022, the punished people are dependents or wife-side relatives, not the central powerful figures themselves.
+The concept should not be expanded into liberal equality before law. In these sources, enforcement remains selective and ruler-centered; its political force comes from visible discipline inside a court or camp, not from an independent legal order outside personal power. Hanji 338-1 and Hanji 392-1 make that selectivity especially clear within the same reign: Wudi spares Liu Pengli after mass killing but later approves Zhao Pingjun's execution after one killing. The sources do not establish a complete doctrinal explanation for the difference, and the earlier case's appeal to inherited merit remains episode interpretation. Hanji 721 also shows contingency because Liu Xiu first threatens Dong Xuan and only later backs him. In Hanji 1006 and Hanji 1022, the punished people are dependents or wife-side relatives, not the central powerful figures themselves.
 
 ## What Changed
 
+- Added Liu Pengli as a direct counterexample in which law removes royal status and territory but kinship still mitigates the ultimate penalty.
+- Narrowed the concept from an apparently general standard to a contingent, ruler-centered signal whose application varies even within Han Wudi's reign.
 - Added Hanji 392-1 as the Western Han royal-core variant through Han Wudi, Longlü Princess, and Zhao Pingjun.
 - Preserved Hanji 721 as the early Eastern Han imperial-household variant through Dong Xuan, Princess Huyang, and Liu Xiu.
-- Broadened the definition into a cross-case pattern covering royal-core, royal-household, clan-client, and marriage-side privilege.
-- Preserved Hanji 1006 and Hanji 1022 as the Cao-camp evidence branches.
+- Preserved the Cao-camp clan-client and marriage-side evidence branches.
 
 ## Related Concepts
 
@@ -68,3 +74,4 @@ The concept should not be expanded into liberal equality before law. In these so
 - [[NoSmallMattersInGovernance|治无小乱无大]] - explains why small exemptions can damage wider order.
 - [[TalentAsStateTreasure|以贤臣为宝]] - talent-governance frame supported when law protects capable officials from private pressure.
 - [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - neighboring recruitment pattern strengthened by predictable treatment beyond kinship rank.
+- [[RoyalKinshipPenaltyMitigation|宗室亲缘减刑]] - counterpattern where punishment reaches royal kin but family status or inherited merit lowers its ceiling.
