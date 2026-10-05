@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2188
+topic_total_pages: 2189
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5691,6 +5691,9 @@ topic_sources:
   - key: "1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6"
     title: "1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18"
     url: "/wiki/sources/1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6/"
+  - key: "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31"
+    title: "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention"
+    url: "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
   - key: "12-days-port-wine-and-darwin-sets-sail-glt6423200478"
     title: "12 Days: Port wine and Darwin sets sail"
     url: "/wiki/sources/12-days-port-wine-and-darwin-sets-sail-glt6423200478/"

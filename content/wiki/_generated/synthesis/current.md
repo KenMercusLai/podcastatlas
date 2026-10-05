@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-10-05
-as_of_overview_commit: ca50024ec11df75fb5a1a65f71c31dc1c524c066
+as_of_overview_commit: 269d495e580d40a01ed9ff3dbb831a89f2ec68b1
 summary: "Podcast Atlas connects technology, institutions, history, markets, culture, health, work, and psychology through evidence-bounded synthesis and explicit qualifications."
-episode_count: 3762
-source_count: 3762
-paragraph_count: 791
+episode_count: 3779
+source_count: 3779
+paragraph_count: 792
 topic_count: 9
 ---
 
@@ -17,7 +17,7 @@ topic_count: 9
 ## Executive Summary
 
 - Open-model competition and physical capacity jointly shape AI scale: [[GLM52]] and [[DeepSeek]] strengthen [[ChineseOpenWeightAIStrategy]] through [[ScalingEfficiency]] and controlled-deployment options such as [[DataSovereignty|self-hosted data control]], while [[HighBandwidthMemory]], [[MicronTechnology]], [[ModularAIDataCenters]], [[SpaceBasedAIInfrastructure]], and [[OrbitalDataCenterEconomics]] keep memory, power, cooling, site deployment, and latency inside the capability frontier rather than outside it.
-- [[middlegarchs-are-the-new-oligarchs-32587514|The middlegarchs episode]] adds that wealthy private-business owners can combine genuine entrepreneurship and owner-specific value with [[PassThroughBusinessTaxAdvantage]] and [[DispersedBusinessElitePower]], so market analysis should separate value creation, retained after-tax income, and incumbent protection.
+- [[10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31|The How I Built This anniversary]] adds that [[FounderResilience]] and [[RejectionTolerancePractice]] create business value only when repeated attempts keep producing learning; [[CapitalAfterRepeatableGrowth]] and [[SustainableGrowthPace]] require financing to fit the company founders actually want, while [[DeliberateLuckSurface]], [[FounderHealthDebt]], and [[FounderIdentityDiversification]] keep timing, human cost, and survivor bias inside the market judgment.
 - [[33-the-beautiful-game-glt5860295083|The football-history episode]] adds [[FootballAsMassCulture]]: codification, clubs, industrial leisure, commercial networks, family inheritance, media, and local appropriation can turn a game into civic and national culture, while [[SportsFandomNetworkEffects]] and [[WomensFootballVisibility]] show that durable belonging depends on repeated participation and whose traditions remain visible.
 - [[366-the-architect-of-modern-china-glt1902993082|The Deng episode]] adds a governance settlement in which [[ChineseAuthoritarianMarketReform]] joined central permission, [[LocalGovernmentPolicyExperimentation]], unequal special-zone capacity, foreign learning, and bottom-up enterprise to a non-negotiable [[ChineseCommunistParty]] monopoly; [[TiananmenCrackdown1989]] closed political liberalization under [[CulturalRevolutionGovernanceMemory]], while the 1992 southern tour restarted economic opening without political pluralism.
 - [[23-the-90s-glt8035489270|The 1990s episode]] uses [[RecentHistoryPerspective]] to separate lived texture from representative history and [[GoldenAgeNarrative]] from global conditions: Western prosperity and political relief coexisted with genocide, post-Soviet collapse, China’s rise, religious persistence, culture conflict, and [[MassInternetAdoption|digital transformation]], making the decade an unsettled hinge within the [[PostColdWarOrderRupture|post-Cold War order]] rather than a sealed golden age.
@@ -29,21 +29,21 @@ topic_count: 9
 
 ### AI and Technology
 
-AI value depends on a coupled system of efficient models, physical infrastructure, workflow integration, governance, verification, data control, and human judgment rather than model capability or spending alone.
+AI value depends on efficient models, physical infrastructure, workflow integration, governance, verification, data control, and human judgment rather than capability or spending alone.
 
 - [[2b2e96d8aea7-2b2e96d8aea7|The Keji Luandun episode]] adds an enforcement-feasibility boundary: [[ExportControlAllianceDurability]] shows multilateral controls depending on compensation and credible burden sharing, [[AIPlatformBehavioralEnforcement]] distinguishes suspicious access signals from proof of successful distillation, and [[AIControlNuclearAnalogyLimits]] explains why copyable model weights and falling local-inference barriers make physical nonproliferation analogies incomplete. Evidence: [[2b2e96d8aea7-2b2e96d8aea7]], [[ExportControlAllianceDurability]], [[AIPlatformBehavioralEnforcement]], [[AIControlNuclearAnalogyLimits]].
 - [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|The Musk/Shotwell All-In source]] adds a Musk-ecosystem stack claim: [[SpaceX]] is framed as execution culture plus infrastructure stack, with [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], and [[Terafab]] connecting AI safety review, orbital compute, direct-to-cell satellites, reusable launch, and chip-supply security into one source-scoped operating thesis. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]], [[SpaceX]], [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], [[Terafab]], [[GwenShotwell]], [[ElonMusk]].
 
 ### Business and Markets
 
-Durable value depends on cash flow, unit economics, governance, distribution, execution, and price rather than narrative momentum alone.
+Durable value depends on cash flow, unit economics, governance, distribution, execution, and price; founder persistence helps only when learning continues and financing, growth, and human capacity remain aligned.
 
 - [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih|Episode 504]] adds a financial-media market case: [[HongKongEconomicJournal|《信报》]] created value through [[FinancialCommentaryKnowledgeTranslation]], joining markets to economics, institutions, policy, and international affairs in accessible Chinese, while [[LuoYoumei|骆友梅]]'s organizational work and [[AdvertiserPressureEditorialIndependence]] show that public knowledge requires both editorial judgment and a business able to absorb pressure. Evidence: [[504-lin-xingzhi-xinbao-yu-xianggang-jingji-huangjin-niandai-lsqh0b2fi11uc5udp330ibwuyih]], [[HongKongEconomicJournal]], [[FinancialCommentaryKnowledgeTranslation]], [[LinXingzhi]], [[LuoYoumei]], [[AdvertiserPressureEditorialIndependence]], [[ZhangWuchang]], [[LiKaShing]], [[LiTzarKai]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[PublicProcurementAsMarketCatalyst]], [[LastMileNetworkConsolidation]], [[PolicyLeverageForSystemChange]].
 
 ### Cross-domain
 
-Tools must be matched to their actual function while preserving system-level constraints and evidence boundaries.
+Tools must be matched to their actual function while preserving system-level constraints, evidence boundaries, and accountability.
 
 ### Culture and Media
 
@@ -82,7 +82,7 @@ Public literacy requires mechanisms, measurement, qualified care, escalation bou
 
 ### Work, Education, and Society
 
-Institutions and public life depend on routines, role boundaries, trust, incentives, protected access, judgment, and intergenerational capacity.
+Institutions and public life depend on routines, role boundaries, trust, incentives, protected access, judgment, intergenerational capacity, and work designs that preserve human health and agency.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

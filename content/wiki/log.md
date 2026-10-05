@@ -30227,3 +30227,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-jensen-huang-live-nvidia
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | 10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention
+
+Added source `10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31`; migrated and resynthesized [[GuyRaz|Guy Raz]], [[HowIBuiltThis|How I Built This]], [[FounderRiskCalibration]], [[FounderHealthDebt]], [[FounderIdentityDiversification]], and [[SustainableGrowthPace]] from their complete preserved evidence inventories; and extended [[JamieSiminoff]], [[Ring]], [[FounderResilience]], [[RejectionTolerancePractice]], [[CapitalAfterRepeatableGrowth]], and [[DeliberateLuckSurface]]. Core synthesis: entrepreneurship is repeated problem solving under fear, rejection, cash pressure, and incomplete information; financing and growth must fit the company and life the founder wants; and work increases readiness for opportunity without eliminating luck or personal cost. No settled contradiction was adopted. Persistence versus sunk-cost escalation, growth versus profitability, attachment versus objectivity, and luck versus skill remain explicit tensions; recalled dialogue, company metrics, and causal claims remain source-scoped. Downstream synthesis rebuilt `business-and-markets` and `work-education-and-society`, compacted the global artifact after a material candidate change, and validated 3,779 sources across 792 overview paragraphs.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

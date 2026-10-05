@@ -13,20 +13,20 @@ outputs: ["html"]
 - Overview: 1
 - Concepts: 9722
 - Entities: 12449
-- Sources: 3778
-- Total wiki content pages: 25950
+- Sources: 3779
+- Total wiki content pages: 25951
 
 ## Links
-- Wiki link references: 616302
-- Unique wiki link targets: 25963
-- Missing targets: 19
+- Wiki link references: 615615
+- Unique wiki link targets: 25971
+- Missing targets: 26
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 3778
-- Matched episodes: 3778
+- Source pages: 3779
+- Matched episodes: 3779
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -43,6 +43,8 @@ outputs: ["html"]
   - `content/wiki/sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594.md`
 - `[[AngloArgentineRelations]]`
   - `content/wiki/concepts/FootballImperialNetworkDiffusion.md`
+- `[[CathyHughes]]`
+  - `content/wiki/concepts/RejectionTolerancePractice.md`
 - `[[ClinicalValidationThresholds]]`
   - `content/wiki/concepts/DentalProviderQualificationAssessment.md`
   - `content/wiki/log.md`
@@ -58,22 +60,34 @@ outputs: ["html"]
   - `content/wiki/concepts/InnovatorTraitConfiguration.md`
   - `content/wiki/sources/goals-toolkit-how-to-set-achieve-your-goals-scim1532399364.md`
   - `content/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870.md`
+- `[[JimKoch]]`
+  - `content/wiki/concepts/FounderRiskCalibration.md`
 - `[[MargaretBeaufort]]`
   - `content/wiki/entities/HenryVII.md`
+- `[[MelZiegler]]`
+  - `content/wiki/concepts/FounderHealthDebt.md`
+- `[[MissyPark]]`
+  - `content/wiki/concepts/SustainableGrowthPace.md`
 - `[[Mosaic]]`
   - `content/wiki/sources/how-risk-taking-innovation-artificial-intelligence-transform-human-experience-marc-andreessen-scim7464698870.md`
 - `[[Moses]]`
   - `content/wiki/concepts/MassacreOfTheInnocents.md`
   - `content/wiki/sources/12-days-massacre-of-the-innocents-and-the-tay-bridge-disaster-glt2451242270.md`
+- `[[PaulOrfalea]]`
+  - `content/wiki/concepts/FounderIdentityDiversification.md`
 - `[[RailwayNetworkEffects]]`
   - `content/wiki/concepts/TayBridgeDisaster.md`
 - `[[SaidBoutou]]`
   - `content/wiki/log.md`
+- `[[Spanx]]`
+  - `content/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31.md`
 - `[[StanislasUta]]`
   - `content/wiki/log.md`
 - `[[SupplementContaminationAndMislabelling]]`
   - `content/wiki/concepts/ShilajitEvidenceBoundary.md`
 - `[[TemporaryUseUrbanism]]`
   - `content/wiki/concepts/MorningMarketUrbanism.md`
+- `[[TitleNine]]`
+  - `content/wiki/concepts/SustainableGrowthPace.md`
 
 All wiki source pages resolve to episode pages.

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "a40cea44167ef9e91c3b21ed43ff66622d2ed9ad0cb3c091596e825d24fdda87",
       "42977e643c7f46681a2bfdbd78b01cc04902b2e747e70745f01a765d4fcfa4c0",
       "3376025cac4c5300d021b3316518ad84e963fd700c97cdd33842d6267bce9b62",
       "3aa71b118c2a41090e9e53e86e342bfd093bd5fe1f55a0e3f9c13be582cc34dd",
@@ -793,11 +794,40 @@
       "30dab5d9a3dbe5a1852603c018045e5063833f4e7647d6399d3386f189f53928",
       "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61"
     ],
-    "paragraph_count": 791
+    "paragraph_count": 792
   },
-  "overview_commit": "b73ee8d4487589989b56f09150204c04951a0800",
-  "overview_digest": "67705301fd5c05809e2d8d29a2c4819b55dc7d47fe09012114a5e4351c14e437",
+  "overview_commit": "269d495e580d40a01ed9ff3dbb831a89f2ec68b1",
+  "overview_digest": "c8e6ed1d117085f71499cb2f2f9c70b947f1d0fe900907d49b57982e5ad8f02e",
   "paragraphs": [
+    {
+      "id": "a40cea44167ef9e91c3b21ed43ff66622d2ed9ad0cb3c091596e825d24fdda87",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31|10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention]], a [[HowIBuiltThis]] retrospective where [[GuyRaz]] and [[JamieSiminoff]] draw lessons from more than 600 founder interviews. It migrates and resynthesizes the show and Raz while extending [[Ring]], [[FounderRiskCalibration]], [[FounderResilience]], [[RejectionTolerancePractice]], [[SustainableGrowthPace]], [[FounderHealthDebt]], [[FounderIdentityDiversification]], [[CapitalAfterRepeatableGrowth]], and [[DeliberateLuckSurface]]. Its core synthesis is that entrepreneurship is repeated problem solving under fear, rejection, cash pressure, and uncertainty: work and skill increase readiness and exposure to opportunity, but timing remains uncontrollable, financing must match the company and life a founder wants, and eventual success does not erase health, family, identity, or survivor-bias costs. No settled contradiction is adopted; persistence versus sunk-cost escalation, growth versus profitability, attachment versus objectivity, and luck versus skill remain explicit tensions, while recalled dialogue, company metrics, and causal claims remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31",
+        "CapitalAfterRepeatableGrowth",
+        "DeliberateLuckSurface",
+        "FounderHealthDebt",
+        "FounderIdentityDiversification",
+        "FounderResilience",
+        "FounderRiskCalibration",
+        "GuyRaz",
+        "HowIBuiltThis",
+        "JamieSiminoff",
+        "RejectionTolerancePractice",
+        "Ring",
+        "SustainableGrowthPace"
+      ]
+    },
     {
       "id": "42977e643c7f46681a2bfdbd78b01cc04902b2e747e70745f01a765d4fcfa4c0",
       "primary_topic": "history-and-geopolitics",

@@ -32615,9 +32615,9 @@
       "url": "/wiki/concepts/capetiansuccessioncrisis/"
     },
     "CapitalAfterRepeatableGrowth": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025) [e64c6623-10d1-4222-85d6-22eeab736221].md",
@@ -32625,9 +32625,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)",
           "url": "/wiki/sources/advice-line-with-scott-tannen-of-boll-branch-and-jamie-siminoff-of-ring-2025-e64c6623-10d1-4222-85d6-22eeab736221/"
+        },
+        {
+          "episode_file": "10 Years of How I Built This：  A Decade of Innovation, Risk and Reinvention [fdd4f8d2-9920-427e-ae2a-ae2d44768a31].md",
+          "key": "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31",
+          "show": "How I Built This with Guy Raz",
+          "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
+          "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/capitalafterrepeatablegrowth/"
     },
     "CapitalExemplarGovernance": {
@@ -54804,9 +54811,9 @@
       "url": "/wiki/entities/deliaowens/"
     },
     "DeliberateLuckSurface": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Banza： Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush [a3b69561-45f1-429c-81e1-ff56d1a5f3b8].md",
@@ -54814,9 +54821,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Banza: Brian Rudolph. The Chickpea Pasta That Nearly Turned to Mush",
           "url": "/wiki/sources/banza-brian-rudolph-the-chickpea-pasta-that-nearly-turned-to-mush-a3b69561-45f1-429c-81e1-ff56d1a5f3b8/"
+        },
+        {
+          "episode_file": "10 Years of How I Built This：  A Decade of Innovation, Risk and Reinvention [fdd4f8d2-9920-427e-ae2a-ae2d44768a31].md",
+          "key": "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31",
+          "show": "How I Built This with Guy Raz",
+          "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
+          "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/deliberatelucksurface/"
     },
     "DeliberateVisualSnapshotEncoding": {
@@ -80772,6 +80786,36 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/founderego/"
     },
+    "FounderHealthDebt": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "TSR-S2-AdoraCheung-v5 [TSR-S2-AdoraCheung-v5].md",
+          "key": "tsr-s2-adoracheung-v5",
+          "show": "The Social Radars",
+          "title": "Adora Cheung on Homejoy, YC, Vote-by-Mail, and Instalab",
+          "url": "/wiki/sources/tsr-s2-adoracheung-v5/"
+        },
+        {
+          "episode_file": "TSR-S5-TomBlomfield-v2-Audio [TSR-S5-TomBlomfield-v2-Audio].md",
+          "key": "tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio",
+          "show": "The Social Radars",
+          "title": "Tom Blomfield on Monzo, YC, and Founder Lessons",
+          "url": "/wiki/sources/tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio/"
+        },
+        {
+          "episode_file": "10 Years of How I Built This：  A Decade of Innovation, Risk and Reinvention [fdd4f8d2-9920-427e-ae2a-ae2d44768a31].md",
+          "key": "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31",
+          "show": "How I Built This with Guy Raz",
+          "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
+          "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/founderhealthdebt/"
+    },
     "FounderIdeaMaze": {
       "episode_count": 1,
       "show_count": 1,
@@ -80787,6 +80831,36 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/founderideamaze/"
+    },
+    "FounderIdentityDiversification": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Tim Ferriss (August 2025) [84f10963-70ff-444d-87df-cfedab442943].md",
+          "key": "advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tim Ferriss (August 2025)",
+          "url": "/wiki/sources/advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943/"
+        },
+        {
+          "episode_file": "Advice Line with Ronnen Harary of Spin Master⧸PAW Patrol [3894a69a-a4de-4bd8-b5f5-d3bc195994d5].md",
+          "key": "advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Ronnen Harary of Spin Master/PAW Patrol",
+          "url": "/wiki/sources/advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5/"
+        },
+        {
+          "episode_file": "10 Years of How I Built This：  A Decade of Innovation, Risk and Reinvention [fdd4f8d2-9920-427e-ae2a-ae2d44768a31].md",
+          "key": "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31",
+          "show": "How I Built This with Guy Raz",
+          "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
+          "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/founderidentitydiversification/"
     },
     "FounderLedSales": {
       "episode_count": 11,
@@ -81009,9 +81083,9 @@
       "url": "/wiki/concepts/founderpressurecompartmentalization/"
     },
     "FounderResilience": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "MadeGood： Salma and Nima Fotovat Lost Their First Business.They Grew Their Next One Into a Snack Giant. [cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d].md",
@@ -81047,9 +81121,16 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 21: 抗压、应变与终生动力：CZ 的人事和天命",
           "url": "/wiki/sources/kangya-yingbian-yu-zhongsheng-dongli-cz-de-renshi-he-tianming-1736950d-420c-4021-9a56-a180810612d7/"
+        },
+        {
+          "episode_file": "10 Years of How I Built This：  A Decade of Innovation, Risk and Reinvention [fdd4f8d2-9920-427e-ae2a-ae2d44768a31].md",
+          "key": "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31",
+          "show": "How I Built This with Guy Raz",
+          "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
+          "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/founderresilience/"
     },
     "FounderRestartAfterFailure": {
@@ -81067,6 +81148,43 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/founderrestartafterfailure/"
+    },
+    "FounderRiskCalibration": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后 (1) [173-1].md",
+          "key": "173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1",
+          "show": "晚点聊 LateTalk",
+          "title": "173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后",
+          "url": "/wiki/sources/173-duihua-yao-song-shenjian-dongfang-kongjian-zaichufa-tiancai-shaonian-shinian-hou-1-173-1/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-KasishGupta-v1-AudioOnly [TSR-YCOffsite-KasishGupta-v1-AudioOnly].md",
+          "key": "tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch",
+          "url": "/wiki/sources/tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly/"
+        },
+        {
+          "episode_file": "TSR-S4-SamAltman-v4 [TSR-S4-SamAltman-v4].md",
+          "key": "tsr-s4-samaltman-v4-tsr-s4-samaltman-v4",
+          "show": "The Social Radars",
+          "title": "Sam Altman on YC, OpenAI, and the Meaning of Formidable",
+          "url": "/wiki/sources/tsr-s4-samaltman-v4-tsr-s4-samaltman-v4/"
+        },
+        {
+          "episode_file": "10 Years of How I Built This：  A Decade of Innovation, Risk and Reinvention [fdd4f8d2-9920-427e-ae2a-ae2d44768a31].md",
+          "key": "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31",
+          "show": "How I Built This with Guy Raz",
+          "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
+          "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/founderriskcalibration/"
     },
     "FounderSchool": {
       "episode_count": 1,
@@ -93813,6 +93931,211 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/guyfawkes/"
     },
+    "GuyRaz": {
+      "episode_count": 28,
+      "show_count": 1,
+      "source_note_count": 28,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Carlton Calvin of Razor [c0de1a84-3d35-45f3-921c-6144693ad86e].md",
+          "key": "advice-line-with-carlton-calvin-of-razor-c0de1a84-3d35-45f3-921c-6144693ad86e",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Carlton Calvin of Razor",
+          "url": "/wiki/sources/advice-line-with-carlton-calvin-of-razor-c0de1a84-3d35-45f3-921c-6144693ad86e/"
+        },
+        {
+          "episode_file": "Bobbie： Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants [4488842b-74d3-40ed-8776-5831c5934e69].md",
+          "key": "bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69",
+          "show": "How I Built This with Guy Raz",
+          "title": "Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants",
+          "url": "/wiki/sources/bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69/"
+        },
+        {
+          "episode_file": "Advice Line with Bobbi Brown of Jones Road Beauty (September 2025) [427590c2-11bc-43fa-9c92-d1eccf05842a].md",
+          "key": "advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)",
+          "url": "/wiki/sources/advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a/"
+        },
+        {
+          "episode_file": "MadeGood： Salma and Nima Fotovat Lost Their First Business.They Grew Their Next One Into a Snack Giant. [cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d].md",
+          "key": "madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d",
+          "show": "How I Built This with Guy Raz",
+          "title": "MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.",
+          "url": "/wiki/sources/madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d/"
+        },
+        {
+          "episode_file": "Advice Line： ＂Strategy Sessions＂ [4962a0d6-36bc-4797-8002-3bd8b748a89a].md",
+          "key": "advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line: \"Strategy Sessions\"",
+          "url": "/wiki/sources/advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a/"
+        },
+        {
+          "episode_file": "Serena & Lily： Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It [31a4ddcd-1cc1-48d0-9369-fd85e8714e66].md",
+          "key": "serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66",
+          "show": "How I Built This with Guy Raz",
+          "title": "Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It",
+          "url": "/wiki/sources/serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66/"
+        },
+        {
+          "episode_file": "Advice Line with Chris Riccobono of UNTUCKit [c087247f-1f85-4c15-b4aa-4ffea0368c4c].md",
+          "key": "advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Chris Riccobono of UNTUCKit",
+          "url": "/wiki/sources/advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c/"
+        },
+        {
+          "episode_file": "Sweetwater： Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.  [50c2b5e3-3bc3-4039-a92d-26228b8ac908].md",
+          "key": "sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.",
+          "url": "/wiki/sources/sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908/"
+        },
+        {
+          "episode_file": "Advice Line with Curt Richardson of OtterBox [e94bf774-de11-4434-843b-a551309a6773].md",
+          "key": "advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Curt Richardson of OtterBox",
+          "url": "/wiki/sources/advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773/"
+        },
+        {
+          "episode_file": "Toast： Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business. [6eca81bc-b0e1-47e2-a87d-f3b243e76a97].md",
+          "key": "toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97",
+          "show": "How I Built This with Guy Raz",
+          "title": "Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.",
+          "url": "/wiki/sources/toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97/"
+        },
+        {
+          "episode_file": "Justin’s Nut Butter： Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter. [b456c4b4-0243-4e46-9460-d0de7cf5d98b].md",
+          "key": "justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b",
+          "show": "How I Built This with Guy Raz",
+          "title": "Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.",
+          "url": "/wiki/sources/justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b/"
+        },
+        {
+          "episode_file": "Advice Line with Jeffrey Hollender of Seventh Generation [f8ce2410-1176-47d9-be44-03f9fa945714].md",
+          "key": "advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Jeffrey Hollender of Seventh Generation",
+          "url": "/wiki/sources/advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714/"
+        },
+        {
+          "episode_file": "e.l.f. Cosmetics： Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant [bbc71e65-9e47-41cb-8dd4-c61fcfc2572e].md",
+          "key": "e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e",
+          "show": "How I Built This with Guy Raz",
+          "title": "e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant",
+          "url": "/wiki/sources/e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e/"
+        },
+        {
+          "episode_file": "Advice Line with Susan Griffin-Black of EO Products [58096820-613c-40ad-9743-f1d642447c91].md",
+          "key": "advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Susan Griffin-Black of EO Products",
+          "url": "/wiki/sources/advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91/"
+        },
+        {
+          "episode_file": "Advice Line with Shazi Visram of Happy Family Organics [c354a554-e764-44c6-89f9-e2192e3e5a86].md",
+          "key": "advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Shazi Visram of Happy Family Organics",
+          "url": "/wiki/sources/advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86/"
+        },
+        {
+          "episode_file": "Build-A-Bear： Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire  [8e5da7d7-4e2b-4978-b625-f72cb5d57d88].md",
+          "key": "build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88",
+          "show": "How I Built This with Guy Raz",
+          "title": "Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire",
+          "url": "/wiki/sources/build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88/"
+        },
+        {
+          "episode_file": "Advice Line with Christina Tosi of Milk Bar  [fd7f2406-fda8-4c1d-936c-d20210215f96].md",
+          "key": "advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Christina Tosi of Milk Bar",
+          "url": "/wiki/sources/advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96/"
+        },
+        {
+          "episode_file": "Shopify： Tobias Lütke. How a snowboarder built a $150 billion business (2019) [d0b07b6a-125e-4896-babd-678d19957306].md",
+          "key": "shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306",
+          "show": "How I Built This with Guy Raz",
+          "title": "Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)",
+          "url": "/wiki/sources/shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306/"
+        },
+        {
+          "episode_file": "Advice Line with Tim Ferriss (August 2025) [84f10963-70ff-444d-87df-cfedab442943].md",
+          "key": "advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tim Ferriss (August 2025)",
+          "url": "/wiki/sources/advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943/"
+        },
+        {
+          "episode_file": "UGG： Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company. [56230048-59d6-43c2-b386-7d06ea89f939].md",
+          "key": "ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939",
+          "show": "How I Built This with Guy Raz",
+          "title": "UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.",
+          "url": "/wiki/sources/ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939/"
+        },
+        {
+          "episode_file": "STARR Restaurants： Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct [6c0eb387-4722-4284-aded-23bbd0a9e6f4].md",
+          "key": "starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4",
+          "show": "How I Built This with Guy Raz",
+          "title": "STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct",
+          "url": "/wiki/sources/starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4/"
+        },
+        {
+          "episode_file": "Advice Line with Ronnen Harary of Spin Master⧸PAW Patrol [3894a69a-a4de-4bd8-b5f5-d3bc195994d5].md",
+          "key": "advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Ronnen Harary of Spin Master/PAW Patrol",
+          "url": "/wiki/sources/advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5/"
+        },
+        {
+          "episode_file": "Catalina Crunch： Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough [5aa86015-e7c2-448e-a84e-d1b34d2fcac2].md",
+          "key": "catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2",
+          "show": "How I Built This with Guy Raz",
+          "title": "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough",
+          "url": "/wiki/sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2/"
+        },
+        {
+          "episode_file": "Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025) [6dadc048-8cec-44ec-a3cf-ec314a00e41e].md",
+          "key": "advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)",
+          "url": "/wiki/sources/advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e/"
+        },
+        {
+          "episode_file": "Advice Line with Kenneth Cole [83717cb6-e000-4cde-898d-792249545f88].md",
+          "key": "advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Kenneth Cole",
+          "url": "/wiki/sources/advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88/"
+        },
+        {
+          "episode_file": "Sun Bum： Tom Rinks. The Secrets of a Master Brand Builder (2023) [77ab41eb-99a8-4dd2-ae39-d066818afc21].md",
+          "key": "sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)",
+          "url": "/wiki/sources/sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21/"
+        },
+        {
+          "episode_file": "YETI： Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand [d7f8e0e8-51a5-4444-8c1d-f5c43c353285].md",
+          "key": "yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285",
+          "show": "How I Built This with Guy Raz",
+          "title": "YETI: Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand",
+          "url": "/wiki/sources/yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285/"
+        },
+        {
+          "episode_file": "10 Years of How I Built This：  A Decade of Innovation, Risk and Reinvention [fdd4f8d2-9920-427e-ae2a-ae2d44768a31].md",
+          "key": "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31",
+          "show": "How I Built This with Guy Raz",
+          "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
+          "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/guyraz/"
+    },
     "GwenShotwell": {
       "episode_count": 2,
       "show_count": 1,
@@ -103970,6 +104293,211 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/houthis/"
+    },
+    "HowIBuiltThis": {
+      "episode_count": 28,
+      "show_count": 1,
+      "source_note_count": 28,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Carlton Calvin of Razor [c0de1a84-3d35-45f3-921c-6144693ad86e].md",
+          "key": "advice-line-with-carlton-calvin-of-razor-c0de1a84-3d35-45f3-921c-6144693ad86e",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Carlton Calvin of Razor",
+          "url": "/wiki/sources/advice-line-with-carlton-calvin-of-razor-c0de1a84-3d35-45f3-921c-6144693ad86e/"
+        },
+        {
+          "episode_file": "Bobbie： Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants [4488842b-74d3-40ed-8776-5831c5934e69].md",
+          "key": "bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69",
+          "show": "How I Built This with Guy Raz",
+          "title": "Bobbie: Laura Modi. How a Baby Formula Startup Took Market Share From Two Industry Giants",
+          "url": "/wiki/sources/bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69/"
+        },
+        {
+          "episode_file": "Advice Line with Bobbi Brown of Jones Road Beauty (September 2025) [427590c2-11bc-43fa-9c92-d1eccf05842a].md",
+          "key": "advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Bobbi Brown of Jones Road Beauty (September 2025)",
+          "url": "/wiki/sources/advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a/"
+        },
+        {
+          "episode_file": "MadeGood： Salma and Nima Fotovat Lost Their First Business.They Grew Their Next One Into a Snack Giant. [cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d].md",
+          "key": "madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d",
+          "show": "How I Built This with Guy Raz",
+          "title": "MadeGood: Salma and Nima Fotovat Lost Their First Business. They Grew Their Next One Into a Snack Giant.",
+          "url": "/wiki/sources/madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d/"
+        },
+        {
+          "episode_file": "Advice Line： ＂Strategy Sessions＂ [4962a0d6-36bc-4797-8002-3bd8b748a89a].md",
+          "key": "advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line: \"Strategy Sessions\"",
+          "url": "/wiki/sources/advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a/"
+        },
+        {
+          "episode_file": "Serena & Lily： Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It [31a4ddcd-1cc1-48d0-9369-fd85e8714e66].md",
+          "key": "serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66",
+          "show": "How I Built This with Guy Raz",
+          "title": "Serena & Lily: Serena Dugan and Lily Kanter. They Built a $20M Brand—Then One Investor Almost Destroyed It",
+          "url": "/wiki/sources/serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66/"
+        },
+        {
+          "episode_file": "Advice Line with Chris Riccobono of UNTUCKit [c087247f-1f85-4c15-b4aa-4ffea0368c4c].md",
+          "key": "advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Chris Riccobono of UNTUCKit",
+          "url": "/wiki/sources/advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c/"
+        },
+        {
+          "episode_file": "Sweetwater： Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.  [50c2b5e3-3bc3-4039-a92d-26228b8ac908].md",
+          "key": "sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sweetwater: Chuck Surack. How a Customer Service Strategy Built a Billion Dollar Online Pro Audio and Music Company.",
+          "url": "/wiki/sources/sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908/"
+        },
+        {
+          "episode_file": "Advice Line with Curt Richardson of OtterBox [e94bf774-de11-4434-843b-a551309a6773].md",
+          "key": "advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Curt Richardson of OtterBox",
+          "url": "/wiki/sources/advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773/"
+        },
+        {
+          "episode_file": "Toast： Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business. [6eca81bc-b0e1-47e2-a87d-f3b243e76a97].md",
+          "key": "toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97",
+          "show": "How I Built This with Guy Raz",
+          "title": "Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.",
+          "url": "/wiki/sources/toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97/"
+        },
+        {
+          "episode_file": "Justin’s Nut Butter： Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter. [b456c4b4-0243-4e46-9460-d0de7cf5d98b].md",
+          "key": "justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b",
+          "show": "How I Built This with Guy Raz",
+          "title": "Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.",
+          "url": "/wiki/sources/justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b/"
+        },
+        {
+          "episode_file": "Advice Line with Jeffrey Hollender of Seventh Generation [f8ce2410-1176-47d9-be44-03f9fa945714].md",
+          "key": "advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Jeffrey Hollender of Seventh Generation",
+          "url": "/wiki/sources/advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714/"
+        },
+        {
+          "episode_file": "e.l.f. Cosmetics： Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant [bbc71e65-9e47-41cb-8dd4-c61fcfc2572e].md",
+          "key": "e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e",
+          "show": "How I Built This with Guy Raz",
+          "title": "e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant",
+          "url": "/wiki/sources/e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e/"
+        },
+        {
+          "episode_file": "Advice Line with Susan Griffin-Black of EO Products [58096820-613c-40ad-9743-f1d642447c91].md",
+          "key": "advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Susan Griffin-Black of EO Products",
+          "url": "/wiki/sources/advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91/"
+        },
+        {
+          "episode_file": "Advice Line with Shazi Visram of Happy Family Organics [c354a554-e764-44c6-89f9-e2192e3e5a86].md",
+          "key": "advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Shazi Visram of Happy Family Organics",
+          "url": "/wiki/sources/advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86/"
+        },
+        {
+          "episode_file": "Build-A-Bear： Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire  [8e5da7d7-4e2b-4978-b625-f72cb5d57d88].md",
+          "key": "build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88",
+          "show": "How I Built This with Guy Raz",
+          "title": "Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire",
+          "url": "/wiki/sources/build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88/"
+        },
+        {
+          "episode_file": "Advice Line with Christina Tosi of Milk Bar  [fd7f2406-fda8-4c1d-936c-d20210215f96].md",
+          "key": "advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Christina Tosi of Milk Bar",
+          "url": "/wiki/sources/advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96/"
+        },
+        {
+          "episode_file": "Shopify： Tobias Lütke. How a snowboarder built a $150 billion business (2019) [d0b07b6a-125e-4896-babd-678d19957306].md",
+          "key": "shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306",
+          "show": "How I Built This with Guy Raz",
+          "title": "Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)",
+          "url": "/wiki/sources/shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306/"
+        },
+        {
+          "episode_file": "Advice Line with Tim Ferriss (August 2025) [84f10963-70ff-444d-87df-cfedab442943].md",
+          "key": "advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tim Ferriss (August 2025)",
+          "url": "/wiki/sources/advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943/"
+        },
+        {
+          "episode_file": "UGG： Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company. [56230048-59d6-43c2-b386-7d06ea89f939].md",
+          "key": "ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939",
+          "show": "How I Built This with Guy Raz",
+          "title": "UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.",
+          "url": "/wiki/sources/ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939/"
+        },
+        {
+          "episode_file": "STARR Restaurants： Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct [6c0eb387-4722-4284-aded-23bbd0a9e6f4].md",
+          "key": "starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4",
+          "show": "How I Built This with Guy Raz",
+          "title": "STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct",
+          "url": "/wiki/sources/starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4/"
+        },
+        {
+          "episode_file": "Advice Line with Ronnen Harary of Spin Master⧸PAW Patrol [3894a69a-a4de-4bd8-b5f5-d3bc195994d5].md",
+          "key": "advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Ronnen Harary of Spin Master/PAW Patrol",
+          "url": "/wiki/sources/advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5/"
+        },
+        {
+          "episode_file": "Catalina Crunch： Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough [5aa86015-e7c2-448e-a84e-d1b34d2fcac2].md",
+          "key": "catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2",
+          "show": "How I Built This with Guy Raz",
+          "title": "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough",
+          "url": "/wiki/sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2/"
+        },
+        {
+          "episode_file": "Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025) [6dadc048-8cec-44ec-a3cf-ec314a00e41e].md",
+          "key": "advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)",
+          "url": "/wiki/sources/advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e/"
+        },
+        {
+          "episode_file": "Advice Line with Kenneth Cole [83717cb6-e000-4cde-898d-792249545f88].md",
+          "key": "advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Kenneth Cole",
+          "url": "/wiki/sources/advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88/"
+        },
+        {
+          "episode_file": "Sun Bum： Tom Rinks. The Secrets of a Master Brand Builder (2023) [77ab41eb-99a8-4dd2-ae39-d066818afc21].md",
+          "key": "sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21",
+          "show": "How I Built This with Guy Raz",
+          "title": "Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)",
+          "url": "/wiki/sources/sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21/"
+        },
+        {
+          "episode_file": "YETI： Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand [d7f8e0e8-51a5-4444-8c1d-f5c43c353285].md",
+          "key": "yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285",
+          "show": "How I Built This with Guy Raz",
+          "title": "YETI: Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand",
+          "url": "/wiki/sources/yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285/"
+        },
+        {
+          "episode_file": "10 Years of How I Built This：  A Decade of Innovation, Risk and Reinvention [fdd4f8d2-9920-427e-ae2a-ae2d44768a31].md",
+          "key": "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31",
+          "show": "How I Built This with Guy Raz",
+          "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
+          "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/entities/howibuiltthis/"
     },
     "HowardCarter": {
       "episode_count": 1,
@@ -115906,9 +116434,9 @@
       "url": "/wiki/entities/jamesviandi/"
     },
     "JamieSiminoff": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
@@ -115930,9 +116458,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)",
           "url": "/wiki/sources/advice-line-with-scott-tannen-of-boll-branch-and-jamie-siminoff-of-ring-2025-e64c6623-10d1-4222-85d6-22eeab736221/"
+        },
+        {
+          "episode_file": "10 Years of How I Built This：  A Decade of Innovation, Risk and Reinvention [fdd4f8d2-9920-427e-ae2a-ae2d44768a31].md",
+          "key": "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31",
+          "show": "How I Built This with Guy Raz",
+          "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
+          "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/jamiesiminoff/"
     },
     "JamilZaki": {
@@ -183918,9 +184453,9 @@
       "url": "/wiki/concepts/rejectedcounseldefectioncascade/"
     },
     "RejectionTolerancePractice": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7501986841 [SCIM7501986841].md",
@@ -183935,9 +184470,16 @@
           "show": "Tomorrow, Today",
           "title": "Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490/"
+        },
+        {
+          "episode_file": "10 Years of How I Built This：  A Decade of Innovation, Risk and Reinvention [fdd4f8d2-9920-427e-ae2a-ae2d44768a31].md",
+          "key": "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31",
+          "show": "How I Built This with Guy Raz",
+          "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
+          "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-05",
       "url": "/wiki/concepts/rejectiontolerancepractice/"
     },
     "RelationalBorder": {
@@ -187582,9 +188124,9 @@
       "url": "/wiki/entities/rintintin/"
     },
     "Ring": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
@@ -187606,9 +188148,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Advice Line with Scott Tannen of Boll & Branch and Jamie Siminoff of Ring (2025)",
           "url": "/wiki/sources/advice-line-with-scott-tannen-of-boll-branch-and-jamie-siminoff-of-ring-2025-e64c6623-10d1-4222-85d6-22eeab736221/"
+        },
+        {
+          "episode_file": "10 Years of How I Built This：  A Decade of Innovation, Risk and Reinvention [fdd4f8d2-9920-427e-ae2a-ae2d44768a31].md",
+          "key": "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31",
+          "show": "How I Built This with Guy Raz",
+          "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
+          "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "url": "/wiki/entities/ring/"
     },
     "RingSearchParty": {
@@ -210493,6 +211042,57 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/sustainablebusinessoverscale/"
+    },
+    "SustainableGrowthPace": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "Advice Line with Jeffrey Hollender of Seventh Generation [f8ce2410-1176-47d9-be44-03f9fa945714].md",
+          "key": "advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Jeffrey Hollender of Seventh Generation",
+          "url": "/wiki/sources/advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714/"
+        },
+        {
+          "episode_file": "Advice Line with Susan Griffin-Black of EO Products [58096820-613c-40ad-9743-f1d642447c91].md",
+          "key": "advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Susan Griffin-Black of EO Products",
+          "url": "/wiki/sources/advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91/"
+        },
+        {
+          "episode_file": "Advice Line with Tim Ferriss (August 2025) [84f10963-70ff-444d-87df-cfedab442943].md",
+          "key": "advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Tim Ferriss (August 2025)",
+          "url": "/wiki/sources/advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943/"
+        },
+        {
+          "episode_file": "Advice Line with Ronnen Harary of Spin Master⧸PAW Patrol [3894a69a-a4de-4bd8-b5f5-d3bc195994d5].md",
+          "key": "advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Ronnen Harary of Spin Master/PAW Patrol",
+          "url": "/wiki/sources/advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5/"
+        },
+        {
+          "episode_file": "Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025) [6dadc048-8cec-44ec-a3cf-ec314a00e41e].md",
+          "key": "advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)",
+          "url": "/wiki/sources/advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e/"
+        },
+        {
+          "episode_file": "10 Years of How I Built This：  A Decade of Innovation, Risk and Reinvention [fdd4f8d2-9920-427e-ae2a-ae2d44768a31].md",
+          "key": "10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31",
+          "show": "How I Built This with Guy Raz",
+          "title": "10 Years of How I Built This: A Decade of Innovation, Risk and Reinvention",
+          "url": "/wiki/sources/10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31/"
+        }
+      ],
+      "updated": "2026-10-05",
+      "url": "/wiki/concepts/sustainablegrowthpace/"
     },
     "SustainableHealthOptimization": {
       "episode_count": 7,

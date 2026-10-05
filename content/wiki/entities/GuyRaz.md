@@ -2,95 +2,76 @@
 title: "Guy Raz"
 type: entity
 tags: [host, podcast, startups]
-sources: [advice-line-with-carlton-calvin-of-razor-c0de1a84-3d35-45f3-921c-6144693ad86e, bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69, advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a, madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d, advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a, serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66, advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c, sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908, advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773, toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943, ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]
-last_updated: 2026-08-25
+sources:
+  - advice-line-with-carlton-calvin-of-razor-c0de1a84-3d35-45f3-921c-6144693ad86e
+  - bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69
+  - advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a
+  - madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d
+  - advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a
+  - serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66
+  - advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c
+  - sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908
+  - advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773
+  - toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97
+  - justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b
+  - advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714
+  - e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e
+  - advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91
+  - advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86
+  - build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88
+  - advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96
+  - shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306
+  - advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943
+  - ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939
+  - starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4
+  - advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5
+  - catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2
+  - advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e
+  - advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88
+  - sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21
+  - yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285
+  - 10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31
+last_updated: 2026-10-05
+knowledge_schema: synthesis-v1
 ---
 
 # Guy Raz
 
-In [[yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]], Guy interviews [[RoySeiders]] and [[RyanSeiders]] about [[YETI]], using the founder-story format to surface how outdoor-user insight, [[RotomoldedCoolerCategory|rotomolded cooler]] proof, specialty retail, supplier recovery, and [[YETIRambler]] drinkware turned a premium physical product into a broad consumer brand.
+## Overview
+Guy Raz is the host of [[HowIBuiltThis]], where he uses founder interviews and Advice Line conversations to make company building legible through decisions, mistakes, customer evidence, financing, and personal cost.
 
-In [[bobbie-laura-modi-how-a-baby-formula-startup-took-market-share-from-two-industry-giants-4488842b-74d3-40ed-8776-5831c5934e69]], Guy interviews [[LauraModi]] about [[Bobbie]], using the founder-story format to surface how [[InfantFormula|infant formula]] differs from ordinary DTC CPG: the business has to handle [[FoodAndDrugAdministration|FDA]] approval, regulated messaging, manufacturing lead times, subscriber trust, and [[WIC]] access.
+## Current Profile
+Across the bounded sources, Raz's role is less that of a universal business expert than a structured interviewer and practical translator. Long-form founder stories surface the path from a lived problem through prototypes, distribution, operating systems, outside capital, leadership transition, and exit; Advice Line episodes turn those patterns into bounded hypotheses for current founders.
 
-In [[advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a]], Guy hosts [[BobbiBrown]] and helps diagnose [[CabbageLabs]]' sampling and trusted-distribution problem, [[AbbyRose]]'s founder-dependent live-selling bottleneck, and [[TannenOralCare]]'s coffee-origin repositioning challenge.
+The tenth-anniversary retrospective makes his editorial stance explicit. Entrepreneurship is a creative problem-solving practice rather than a clean hero story: fear is normal, rejection is common, growth and financing must fit the desired company, and success does not erase health or family costs. Raz also treats luck and skill as jointly necessary, with preparation and work increasing exposure to opportunities that founders do not control.
 
-In [[serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66]], Guy interviews [[LilyKanter]] and [[SerenaDugan]] about building [[SerenaAndLily|Serena & Lily]] from [[MillValleyBaby]] category insight into a premium home brand while navigating wholesale demand, direct-to-consumer catalog growth, investor conflict, and a [[LiquidationPreferenceStack]].
+## Key Characteristics
+- Raz elicits detailed founder narratives while repeatedly separating polished outcomes from the fear, error, and constraint that preceded them.
+- His Advice Line method favors testable next steps, sharper positioning, customer evidence, focused channels, and reversible experiments.
+- He treats distribution, manufacturing, regulation, cash flow, and organizational capacity as part of the product story rather than back-office detail.
+- He consistently qualifies maximum-growth narratives with founder control, health, identity, profitability, and quality-of-life considerations.
+- His interviews use cross-industry comparison to identify recurring patterns without claiming that one founder's tactic transfers mechanically to another business.
+- He frames effort as a way to become ready for opportunity, not as proof that success is fully controllable or deserved.
 
-Guy Raz is the [[HowIBuiltThis]] host who interviews [[JustinGold]] in [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]], hosts the Advice Line episode [[advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714]] with [[JeffreyHollender]], interviews [[JoeyShamah]] in [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]], hosts [[advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91]] with [[SusanGriffinBlack]], hosts [[advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86]] with [[ShaziVisram]], interviews [[MaxineClark]] in [[build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88]], hosts [[advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96]] with [[ChristinaTosi]], interviews [[TobiasLutke]] in [[shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306]], hosts [[advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943]] with [[TimFerriss]], interviews [[BrianSmith]] in [[ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939]], and interviews [[StephenStarr]] in [[starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4]]. The Justin's episode uses his interview format to draw out the founder story behind [[JustinsNutButter]], while the Advice Line episodes show him diagnosing consumer-product positioning, sampling, social content, local market focus, proof reuse, private-label risk, community expansion, gifting loops, channel growth questions, wholesale tests, and made-to-order risk with active founders. The e.l.f., Build-A-Bear, Shopify, UGG, and STARR Restaurants episodes use the same format to surface how retail, hospitality, and platform businesses turned price, participation, customer experience, technical leverage, subculture credibility, location, and channel execution into scale.
+## Evidence
+- Founder-story method - [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]], [[shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306]], [[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]], and [[yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285]] show Raz drawing operating lessons from product, channel, platform, reliability, and scale transitions.
+- Practical advising - [[advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a]], [[advice-line-with-bobbi-brown-of-jones-road-beauty-september-2025-427590c2-11bc-43fa-9c92-d1eccf05842a]], and [[advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773]] ground his preference for small tests, clearer customer language, and proof before irreversible commitments.
+- Growth and capital qualification - [[serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66]], [[advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714]], and [[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]] show him distinguishing demand from finance quality, operating capacity, and founder-control fit.
+- Brand and distribution interpretation - [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]], [[sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21]], and [[advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88]] connect narrative and design to shelf behavior, owned relationships, and repeat demand.
+- Anniversary editorial thesis - [[10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31]] records Raz's synthesis of fear, rejection, iteration, health, financing fit, founder attachment, luck, and skill across the archive.
 
-In [[advice-line-with-chris-riccobono-of-untuckit-c087247f-1f85-4c15-b4aa-4ffea0368c4c]], Guy hosts [[ChrisRiccobono]] and helps diagnose [[AeroShorts]]' core-tribe focus, [[SnugSafety]]'s trust-based awareness problem, and [[HockeyNinja]]'s need for credible professional validation.
+## Qualifications
+The bounded evidence is almost entirely produced by Raz's own show, so this profile describes his published interviewing and advising method rather than an independent evaluation of his private decisions or every episode in the archive. Advice Line recommendations are short-form hypotheses without follow-up evidence in many cases, and founder retrospectives can contain survivor bias, memory compression, or unverified company claims.
 
-In [[advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5]], Guy hosts [[RonnenHarary]] and helps diagnose [[YearlyCo]]'s material-pricing problem, [[IslandBeeCompany]]'s channel and family-scale decision, and [[WanderingSoulBeer]]'s founder-boundary problem.
+## What Changed
+- Migrated Guy Raz to `synthesis-v1` using the complete existing evidence inventory.
+- Reframed the page from an episode-by-episode list into a current profile of his interviewing and advising method.
+- Added the anniversary episode's explicit synthesis of risk, persistence, capital fit, founder cost, and luck.
 
-In [[advice-line-with-carlton-calvin-of-razor-c0de1a84-3d35-45f3-921c-6144693ad86e]], Guy hosts [[CarltonCalvin]] and helps diagnose [[EulogyGame|Eulogy]]'s licensing-proof problem, [[HoneyBespokeStationery]]'s marketplace-to-retail bridge, and [[LittleWaterDistillery]]'s need to focus around [[48BlocksEspressoMartini]].
-
-In [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2]], Guy interviews [[KrishnaKaliannan]] about building [[CatalinaCrunch]] from dietary constraint, home cereal formulation, DTC demand, co-manufacturing gaps, and [[WholeFoodsMarket]] retail breakout.
-
-In [[madegood-salma-and-nima-fotovat-lost-their-first-business-they-grew-their-next-one-into-a-snack-giant-cf5715bf-e9e0-45e0-a8a9-1256a7a4ed0d]], Guy interviews [[NimaFotovat]] and [[SalmaFotovat]] about building [[MadeGood]] from a post-[[TasteOfNature]] family reset into a school-safe snack brand with owned manufacturing, [[Loblaw]], [[WholeFoodsMarket]], [[Costco]], and [[RetailerResponsiveManufacturing]].
-
-In [[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]], Guy hosts [[JeniBritton]] and helps diagnose [[JesseAndBens]]' frozen-fry positioning, [[JajuPierogi]]'s capital-control tradeoff, and [[UbeCo]]'s science-backed pet-treat messaging.
-
-In [[advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88]], Guy hosts [[KennethCole]] and helps diagnose [[PedestrianProject]]'s conversion-versus-education choice, [[IsraelAcabla]]'s wholesale-to-DTC customer gap, and [[SwingSculpt]]'s need to sell emotional keepsakes rather than only custom fabrication.
-
-In [[advice-line-strategy-sessions-4962a0d6-36bc-4797-8002-3bd8b748a89a]], Guy hosts [[JeffreyHollender]], [[SarahLaFleur]], and [[ShaziVisram]] in a mashup advising [[TonyDeRosa]], [[MonicaStoney]], and [[SandyDininger]]. His questions push the callers toward testable next steps: mini-CEO roles before equity, pop-ups and email capture before broader marketing, and teacher access that creates district-sales evidence.
-
-In [[sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21]], Guy interviews [[TomRinks]] about turning art, sales, character properties, [[RinksCanetti]], [[DeLeonTequila]], and [[SunBum]] into a practical theory of brand feeling, visual identity, and scale handoff.
-
-In [[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]], Guy interviews [[AmanNarang]] about building [[Toast]] from a phone-based restaurant payment app into a [[RestaurantOperatingSystem]], with the story turning on [[FounderIdeaPivot]], failed installs, customer support, COVID-era [[OffPremiseRestaurantCommerce]], and the 2024 CEO transition.
-
-In [[advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773]], Guy hosts [[CurtRichardson]] and helps diagnose [[MrGameShowFlorida]]'s founder-dependent live-event scaling, [[GildedCoachTeas]]' retention-led restart, and [[Everloop]]'s buyback positioning and channel measurement problem.
-
-In [[sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908]], Guy interviews [[ChuckSurack]] about building [[Sweetwater]] through mobile recording, [[KurzweilK250]] sound sales, [[SalesEngineerModel|sales engineers]], [[SweetwaterUniversity]], [[IndividualItemEcommerce]], and a service-first challenge to price-only ecommerce.
-
-## Connections
-- [[HowIBuiltThis]] - show context.
-- [[JustinGold]] and [[JustinsNutButter]] - interview subject and company in the founder-story episode.
-- [[JeffreyHollender]], [[SeventhGeneration]], [[25AndPine]], [[RedTruckOrchards]], and [[Petaluma]] - Advice Line guest and caller cases.
-- [[JoeyShamah]], [[ScottVincentBorba]], and [[ELFCosmetics]] - interview subject and company in the e.l.f. episode.
-- [[SusanGriffinBlack]], [[EOProducts]], [[Yobi]], [[CultureWineCompany]], and [[CaneDogCoffee]] - Advice Line guest, company context, and caller cases.
-- [[ShaziVisram]], [[HappyFamilyOrganics]], [[HealthyBaby]], [[FreitBarefoot]], [[SprinkleBites]], and [[Plantamica]] - Advice Line guest, company context, and caller cases.
-- [[MaxineClark]], [[BuildABear]], [[AdrienneWeiss]], [[BarneyEbsworth]], and [[SharonPriceJohn]] - experiential retail founder-story episode.
-- [[ChristinaTosi]], [[MilkBar]], [[TheBeauCollective]], [[CottonClara]], [[VashonIslandCoffeeDust]], and [[ChristyClement]] - Advice Line guest, company context, and caller cases.
-- [[TobiasLutke]], [[Shopify]], [[ScottLake]], and [[Snowdevil]] - e-commerce platform founder-story episode.
-- [[TimFerriss]], [[CoyoteGame]], [[Gob]], [[EBCo]], and [[KBecker]] - Advice Line guest, side project, and caller cases.
-- [[BrianSmith]], [[UGG]], and [[Deckers]] - footwear founder-story episode.
-- [[StephenStarr]], [[STARRRestaurants]], [[TheContinental]], and [[Budokan]] - restaurant and hospitality founder-story episode.
-- [[ChrisRiccobono]], [[UNTUCKit]], [[GreatnessWins]], [[AeroShorts]], [[SnugSafety]], and [[HockeyNinja]] - Advice Line guest, company context, and caller cases.
-- [[RonnenHarary]], [[SpinMaster]], [[PAWPatrol]], [[YearlyCo]], [[IslandBeeCompany]], and [[WanderingSoulBeer]] - Advice Line guest, company context, franchise context, and caller cases.
-- [[CarltonCalvin]], [[RazorUSA]], [[EulogyGame|Eulogy]], [[HoneyBespokeStationery]], and [[LittleWaterDistillery]] - Advice Line guest, company context, and caller cases.
-- [[KrishnaKaliannan]], [[CatalinaCrunch]], [[EscapeMyBubble]], and [[DougBehrens]] - low-sugar cereal founder-story episode.
-- [[NimaFotovat]], [[SalmaFotovat]], [[SabaFotovat]], [[MadeGood]], [[RiversideNaturalFoods]], and [[TasteOfNature]] - school-safe snack founder-story episode.
-- [[JeniBritton]], [[JenisSplendidIceCreams]], [[JesseAndBens]], [[JajuPierogi]], and [[UbeCo]] - Advice Line guest, company context, and caller cases.
-- [[KennethCole]], [[PedestrianProject]], [[IsraelAcabla]], and [[SwingSculpt]] - Advice Line guest and caller cases.
-- [[JeffreyHollender]], [[SarahLaFleur]], [[ShaziVisram]], [[HearsayBrewingAndTheater]], [[TressLondon]], and [[BrainBuffs]] - strategy-session mashup advisors and caller cases.
-- [[TomRinks]], [[SunBum]], [[ReneKennedy]], [[PsychoChihuahua]], [[TacoBell]], [[DeLeonTequila]], and [[SCJohnson]] - Sun Bum founder-story case.
-- [[AmanNarang]], [[Toast]], [[SteveFredette]], [[JohnGraham]], [[ChrisComparato]], and [[ToastIQGrow]] - Toast founder-story case.
-- [[CurtRichardson]], [[OtterBox]], [[BlueOcean]], [[MrGameShowFlorida]], [[GildedCoachTeas]], and [[Everloop]] - Advice Line guest, company context, and caller cases.
-- [[ChuckSurack]], [[Sweetwater]], [[SweetwaterUniversity]], and [[KurzweilK250]] - Sweetwater founder-story case.
-- [[LilyKanter]], [[SerenaDugan]], [[SerenaAndLily|Serena & Lily]], [[MillValleyBaby]], [[WendyBellissimo]], and [[Maveron]] - Serena & Lily founder-story case.
-- [[BobbiBrown]], [[JonesRoadBeauty]], [[CabbageLabs]], [[AbbyRose]], and [[TannenOralCare]] - beauty and consumer-products Advice Line case.
-- [[LauraModi]], [[Bobbie]], [[InfantFormula]], [[FormulaFeedingStigma]], and [[FormulaSupplyChainResilience]] - infant formula founder-story case.
-- [[RoySeiders]], [[RyanSeiders]], [[YETI]], [[YETITundra]], and [[YETIRambler]] - premium outdoor cooler and drinkware founder-story case.
-- [[CPGDistribution]], [[PostAcquisitionFounderIdentity]], [[MissionDrivenCustomerEducation]], and [[ProductLedWillingnessToPay]] - themes discussed through the episodes.
-- [[LowPriceBrandPerception]], [[RetailIncrementality]], and [[DirectToConsumerCashFlow]] - value beauty themes added by the e.l.f. episode.
-- [[RelationshipLedGrowth]] and [[LocalMarketProof]] - channel-focus themes added by the Susan Griffin-Black Advice Line episode.
-- [[ProofPointReuse]], [[PrivateLabelBrandRisk]], [[AIDiscoverySEO]], and [[FastProductValidation]] - themes added by the Shazi Visram Advice Line episode.
-- [[ExperientialRetail]], [[CustomerCoCreation]], [[MallBasedRetailExpansion]], [[RetailConceptProtection]], and [[FounderSuccession]] - themes added by the Build-A-Bear episode.
-- [[GiftToLoyalBuyerLoop]], [[PreProductSelling]], and [[FounderRoleTransition]] - themes added by the Christina Tosi Advice Line episode.
-- [[InternalToolProductization]], [[EntrepreneurshipInfrastructure]], and [[ProductLedWillingnessToPay]] - themes added by the Shopify episode.
-- [[ChannelFocusExperiments]], [[MadeToOrderCommerce]], and [[FounderIdentityDiversification]] - themes added by the Tim Ferriss Advice Line episode.
-- [[SubcultureLedMarketing]], [[SeasonalInventoryFinancing]], and [[ConsumerBrandMoat]] - themes added by the UGG episode.
-- [[RestaurantExperienceDesign]], [[ConceptLedHospitality]], and [[RestaurantOperationalFragility]] - hospitality themes added by the STARR Restaurants episode.
-- [[CoreTribePositioning]], [[WholesaleAsMarketing]], [[TrustBasedDistribution]], [[SafetyProductCredibility]], and [[AthleteSponsorshipStrategy]] - themes added by the Chris Riccobono Advice Line episode.
-- [[CommodityPriceExposure]], [[StoryLedConsumerBranding]], [[FamilyBusinessScaling]], and [[FounderWorkBoundaries]] - themes added by the Ronnen Harary Advice Line episode.
-- [[ConsumerTrendSpotting]], [[ToyInventorLicensingPath]], [[FounderVisibilityMarketing]], [[SKUFocusUnderCashConstraint]], and [[FounderDelegationDiscipline]] - themes added by the Carlton Calvin Advice Line episode.
-- [[DietaryConstraintProductInsight]], [[CPGManufacturingScaleUp]], and [[PackagingAsProductExperience]] - themes added by the Catalina Crunch episode.
-- [[SchoolSafeCPGPositioning]], [[RetailerResponsiveManufacturing]], [[VerticalIntegrationForQualityControl]], and [[LocalMarketProof]] - themes added by the MadeGood episode.
-- [[RepeatableCustomerLanguage]], [[RetailIncrementality]], [[InStoreDemos]], [[StartupGovernance]], and [[SustainableGrowthPace]] - themes added by the Jeni Britton Advice Line episode.
-- [[EmotionalBrandRelationship]], [[WholesaleToDirectCustomerBridge]], and [[DirectToConsumerBrandControl]] - themes added by the Kenneth Cole Advice Line episode.
-- [[ControlPreservingIncentives]], [[NeighborhoodFirstWordOfMouth]], [[DirectTeacherEdtechPilot]], and [[EdtechDataValue]] - strategy-session mashup themes.
-- [[VisualBrandSystem]], [[MascotLedBrandRecognition]], [[RetailDisplayAsBrandSurface]], and [[FounderRoleTransition]] - themes added by the Sun Bum episode.
-- [[RestaurantOperatingSystem]], [[MissionCriticalRestaurantSoftware]], [[CustomerDiscoveryByDoingWork]], and [[StageAppropriateHiring]] - themes added by the Toast episode.
-- [[FounderLedServiceReplication]], [[CustomerReactivation]], [[CircularProductTakeback]], and [[MeasuredChannelTesting]] - themes added by the Curt Richardson Advice Line episode.
-- [[ServiceLedRetailMoat]], [[SalesEngineerModel]], [[IndividualItemEcommerce]], [[RetailCounterPositioning]], and [[FounderSuccession]] - themes added by the Sweetwater episode.
-- [[InventoryHeavyConsumerBrandFinancing]], [[BadMoney]], [[LiquidationPreferenceStack]], [[DirectToConsumerBrandControl]], and [[FounderCashFlowConstraint]] - themes added by the Serena & Lily episode.
+## Relationships
+- [[HowIBuiltThis]] - show he hosts and principal evidence base for this profile.
+- [[JamieSiminoff]] - anniversary guest who helps interpret the archive's founder lessons.
+- [[FounderRiskCalibration]] - judgment frame Raz applies to frightening opportunities and long-term regret.
+- [[FounderResilience]] - persistence frame he qualifies through learning, health, and changing evidence.
+- [[SustainableGrowthPace]] - growth frame that links company ambition to operations and founder life.
+- [[DeliberateLuckSurface]] - effort-and-opportunity relationship reflected in his closing luck-versus-skill question.

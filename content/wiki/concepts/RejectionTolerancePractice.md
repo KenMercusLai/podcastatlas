@@ -5,7 +5,8 @@ tags: [relationships, dating, entrepreneurship, resilience]
 sources:
   - male-roles-obligations-options-for-building-a-fulfilling-life-scott-galloway-scim7501986841
   - defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490
-last_updated: 2026-09-23
+  - 10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31
+last_updated: 2026-10-05
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Rejection tolerance practice is the source-scoped idea that relational, professi
 The Galloway episode treats rejection as a training signal rather than a verdict on identity. Dating, money, public work, and entrepreneurship all require exposure to refusal; the practice is therefore not pressure tactics, but respectful initiative, tolerance of embarrassment, and updating without resentment.
 
 The creative-career evidence extends the frame beyond deliberate social exposure. For [[AdahSharma]], auditions, typecasting, weak access, project refusal, and public criticism do not stop affecting her, but experience has shortened the time she remains low. The combined judgment is that rejection tolerance is visible in recovery speed and continued selective action, not emotional numbness or indiscriminate persistence.
+
+The [[HowIBuiltThis]] archive adds fundraising and sales as high-volume rejection environments. Airbnb's zero investments from 20 introductions and [[CathyHughes]]'s 32 bank refusals show why a refusal is not automatically a market verdict; Hughes also improved her pitch through repetition. The stopping rule remains evidence-sensitive: continued asking is useful when preparation improves and the underlying opportunity remains credible, not because a successful survivor happened to receive a later yes.
 
 ## Key Claims
 - "No" is part of the goal because successful social and professional life requires repeated attempts.
@@ -35,13 +38,15 @@ The creative-career evidence extends the frame beyond deliberate social exposure
 - Mortality and risk: [[male-roles-obligations-options-for-building-a-fulfilling-life-scott-galloway-scim7501986841]] has Galloway say mortality acceptance helped him take risks, express affection, start businesses, and endure criticism.
 - Career recovery: [[defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490]] has Sharma say rejection and negative events still lower her mood, but age and experience have reduced the recovery time.
 - Selective persistence: [[defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490]] pairs continued auditioning and cross-language preparation with intuition-led refusal of projects that feel psychologically wrong.
+- Fundraising and pitch iteration: [[10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-reinvention-fdd4f8d2-9920-427e-ae2a-ae2d44768a31]] uses Airbnb's investor funnel and Hughes's repeated bank pitches to separate rejection frequency from automatic idea invalidation.
 
 ## Counterevidence & Qualifications
-The sources do not erase real risks around harassment, workplace boundaries, safety, power imbalance, unwanted attention, gatekeeping, or targeted public abuse. The practice depends on respect, situational judgment, accepting another person's refusal immediately, and retaining one's own right to refuse. Faster recovery does not prove that stress is absent; Sharma reports physical symptoms even while describing herself as quick to recover.
+The sources do not erase real risks around harassment, workplace boundaries, safety, power imbalance, unwanted attention, gatekeeping, or targeted public abuse. The practice depends on respect, situational judgment, accepting another person's refusal immediately, and retaining one's own right to refuse. In business, it also requires updating the pitch and stopping when evidence or personal cost changes. Faster recovery does not prove that stress is absent; Sharma reports physical symptoms even while describing herself as quick to recover.
 
 ## What Changed
 - Extended rejection practice from deliberate social exposure into auditions, typecasting, public criticism, project refusal, and recovery time.
 - Clarified that resilience is compatible with emotional and bodily impact.
+- Added fundraising and sales rejection while distinguishing iterative persistence from refusal to update.
 
 ## Related Concepts
 - [[YoungMenOfflinePractice]] - practice environment that creates safe exposure to social attempts.
@@ -52,3 +57,4 @@ The sources do not erase real risks around harassment, workplace boundaries, saf
 - [[ActionAfterAdversity]] - broader action-after-setback concept.
 - [[ActingOpportunityReadiness]] - career context where preparation and selection remain separate.
 - [[StressResponseRecovery]] - bodily and psychological recovery boundary.
+- [[FounderResilience]] - broader operating capacity to keep learning through setbacks.
