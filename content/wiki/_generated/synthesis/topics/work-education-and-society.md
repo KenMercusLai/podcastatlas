@@ -3,9 +3,9 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-10-05
-as_of_overview_commit: 8204c5d6fc2b65e96e2882f7f59208f1b6ccb526
-input_digest: b590009133638cb0555e561dce9beb23485471cd6cb7d2d897ce7d5f16694412
+last_updated: 2026-10-06
+as_of_overview_commit: 830b6c8878ca0626c4e03adb6a734e47f35e8f62
+input_digest: e38dd51a52b8201e8ba56a3be4ab94623de7ebe2ccc61d807527d018709dbe70
 ---
 
 # Work, Education, and Society
@@ -1356,3 +1356,15 @@ The Conti series enters work and society through [[MentalHealthStructureFunction
 
 - The source relies on agency testimony and anecdotes and does not establish typical pay, prevalence, retention, worker satisfaction, legal compliance, or child outcomes.
 - Six-figure compensation and alternating time off do not by themselves make intensive schedules, travel, or exceptional household demands safe or sustainable.
+
+### Status Loss Does Not End Public Duty
+
+[[zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk|Hanji 341-3]] adds a life-course work ethic through [[HanYu|Han Yu]]: repeated examination failure, political punishment, and lower status neither make suffering inherently virtuous nor terminate [[ConscienceThroughDuty|public responsibility]], while continued service in [[Chaozhou|Chaozhou]] makes conduct under constrained office part of the judgment of a career.
+
+**Evidence:** [[zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk]], [[HanYu]], [[ConscienceThroughDuty]], [[Chaozhou]]
+
+**Qualifications:**
+
+- The episode is an admiring compressed biography, so persistence and punishment do not establish that every belief, remonstrance, or demotion was justified.
+- The 331-idiom total and attributions, examination sequence, demotion mechanics, journey and family-loss details, crocodile narrative, and ten-year outcome remain source-scoped.
+- Tang Chaozhou and the modern city should not be treated as territorially or institutionally identical.

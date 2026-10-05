@@ -35103,6 +35103,29 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/chaoge/"
     },
+    "Chaozhou": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹 [989721046].md",
+          "key": "no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹",
+          "url": "/wiki/sources/no-205-chaoshan-wangshi-qiaopi-jingji-tequ-he-meiyou-denglaide-shenzhen-qiji-989721046/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？ [lpxXoVWptoMP2Mmt64o5arMP8xRK].md",
+          "key": "zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/chaozhou/"
+    },
     "CharacterBasedRomanticCompatibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -45666,9 +45689,9 @@
       "url": "/wiki/concepts/conscienceformationunderdictatorship/"
     },
     "ConscienceThroughDuty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？ [lqVLsWUbf4aK5qfGZJF_OWignEua].md",
@@ -45676,9 +45699,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》839丨你能做到问心无愧吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？ [lpxXoVWptoMP2Mmt64o5arMP8xRK].md",
+          "key": "zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/consciencethroughduty/"
     },
     "ConsentAndBodyBoundaryEducation": {
@@ -96797,6 +96827,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/hanyanshouwesternhan/"
+    },
+    "HanYu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？ [lpxXoVWptoMP2Mmt64o5arMP8xRK].md",
+          "key": "zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/hanyu/"
     },
     "HanYuandi": {
       "episode_count": 19,

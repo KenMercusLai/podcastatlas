@@ -3852,8 +3852,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Tools for Setting & Achieving Goals | Dr. Emily Balcetis](sources/essentials-tools-for-setting-achieving-goals-dr-emily-balcetis-scim9175684945.md) — Condensed Huberman Lab interview on precise visual targets, perceived effort, obstacle planning, positive-fantasy limits, and evidence-based progress tracking.
 - [《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话](sources/zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp.md) — 芮淇讲透资治通鉴短篇，以明代科举层级、1057年科举群体与高考类比说明考试重要但不是整个人生的判决。
 - [John Fetterman: The Rogue Democrat Who Broke Party Ranks](sources/all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130.md) — All-In interview on Fetterman's Democratic dissent, voter ID and mail voting, border enforcement and Dreamers, Israel and Iran, shutdowns, debt, agriculture, and AI data centers.
+- [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 
 ## Entities
+- [韩愈 / Han Yu](entities/HanYu.md) — 唐代文学家与官员，以古文、直谏、屡遭贬谪及在潮州继续任事构成文学声望与公共责任相连的人物画像。
 - [中山王刘胜 / Liu Sheng, King of Zhongshan (Western Han)](entities/LiuShengZhongshanKingWesternHan.md) — 以沉湎酒色闻名、长期在位且被节目来源限定地解释为借无野心形象降低皇帝猜忌的西汉诸侯王。
 - [常山王刘勃 / Liu Bo, King of Changshan (Western Han)](entities/LiuBoChangshanKingWesternHan.md) — 因侍疾、居丧失礼及妨碍中央调查而在即位数月后被废、迁往房陵的常山末王。
 - [刘棁 / Liu Zhuo (Western Han Changshan)](entities/LiuZhuoChangshanWesternHan.md) — 因母子失宠、财产排斥与继位后失于收恤而告发刘勃和王后脩的常山庶长子。

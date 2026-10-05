@@ -795,12 +795,13 @@
       "f1e18dd7261bb4678caaf74192b916a7c19f8240d5fca5820a6dc87fc12024f8",
       "30dab5d9a3dbe5a1852603c018045e5063833f4e7647d6399d3386f189f53928",
       "33bee5912b80c6531201f8b08ccd070b03e585e5d618d96a95612d4f0a35bb61",
-      "8f1543297306aafda5c37bc38923bd57ce8cf5d6998b09f5d3438f3707dd9537"
+      "8f1543297306aafda5c37bc38923bd57ce8cf5d6998b09f5d3438f3707dd9537",
+      "9b41405243f2492bb74e78e0267ed6fe96471522604584f636469b1901fa87b2"
     ],
-    "paragraph_count": 795
+    "paragraph_count": 796
   },
-  "overview_commit": "b6a569a8c743744ae4427985e6318306e54c4ab2",
-  "overview_digest": "c0e509b690c4801890ca8797db8d1fd0e38fbd9ee0af313843a05b06f741dc5c",
+  "overview_commit": "830b6c8878ca0626c4e03adb6a734e47f35e8f62",
+  "overview_digest": "642e9898cf16b96f2d449ec8baa47736753fad30c6ce30de4c7608bbc4861c8c",
   "paragraphs": [
     {
       "id": "57f931d0e028859d66a8c86843f5ad3a2dfd7f64320c3b5b6b63a27ff62fb951",
@@ -23251,6 +23252,25 @@
         "RuiqiJiangtouZizhiTongjian",
         "ZhangQianWesternHan",
         "zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv"
+      ]
+    },
+    {
+      "id": "9b41405243f2492bb74e78e0267ed6fe96471522604584f636469b1901fa87b2",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk|《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？]], a short [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode adding [[HanYu|韩愈]] and extending [[Chaozhou|潮州]] and [[ConscienceThroughDuty|尽责问心无愧]]. Its core synthesis is that repeated examination failure, political punishment, and status loss neither make suffering inherently virtuous nor terminate public responsibility: the episode joins Han's literary work, blunt remonstrance, rapid demotions, personal loss, and continued local service into a life-course judgment based on conduct rather than uninterrupted rank. No settled contradiction is adopted. The 331-idiom total and individual attributions, examination sequence, demotion mechanics, journey and family-loss details, “朝奏夕贬” timing, crocodile narrative, and ten-year outcome remain source-scoped; the Tang administrative unit and modern city of Chaozhou are not treated as territorially identical.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "Chaozhou",
+        "ConscienceThroughDuty",
+        "HanYu",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk"
       ]
     }
   ],
