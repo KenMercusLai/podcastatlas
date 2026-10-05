@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 12497
+wiki_total_pages: 12502
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "India"
     title: "India"
     url: "/wiki/entities/india/"
+  - key: "IndiaAIMission"
+    title: "India AI Mission"
+    url: "/wiki/entities/indiaaimission/"
   - key: "IndianMuslims"
     title: "Indian Muslims"
     url: "/wiki/entities/indianmuslims/"

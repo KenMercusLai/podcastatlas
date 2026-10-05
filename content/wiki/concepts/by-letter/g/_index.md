@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9745
+wiki_total_pages: 9746
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "GlobalResourceAllocationCompany"
     title: "Global Resource Allocation Company"
     url: "/wiki/concepts/globalresourceallocationcompany/"
+  - key: "GlobalSouthAIParticipation"
+    title: "Global South AI Participation"
+    url: "/wiki/concepts/globalsouthaiparticipation/"
   - key: "GlobalSportsGovernance"
     title: "Global Sports Governance"
     url: "/wiki/concepts/globalsportsgovernance/"

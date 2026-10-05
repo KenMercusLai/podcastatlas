@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3128
+topic_total_pages: 3131
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1762,6 +1762,9 @@ topic_concepts:
   - key: "GlobalAIGovernanceFramework"
     title: "Global AI Governance Framework"
     url: "/wiki/concepts/globalaigovernanceframework/"
+  - key: "GlobalSouthAIParticipation"
+    title: "Global South AI Participation"
+    url: "/wiki/concepts/globalsouthaiparticipation/"
   - key: "GlobalSportsGovernance"
     title: "Global Sports Governance"
     url: "/wiki/concepts/globalsportsgovernance/"
@@ -5087,6 +5090,9 @@ topic_entities:
   - key: "AIAndDemocracyFoundation"
     title: "AI and Democracy Foundation"
     url: "/wiki/entities/aianddemocracyfoundation/"
+  - key: "AIImpactSummitIndia"
+    title: "AI Impact Summit India"
+    url: "/wiki/entities/aiimpactsummitindia/"
   - key: "AireyNeave"
     title: "Airey Neave"
     url: "/wiki/entities/aireyneave/"
@@ -6083,6 +6089,9 @@ topic_entities:
   - key: "India"
     title: "India"
     url: "/wiki/entities/india/"
+  - key: "IndiaAIMission"
+    title: "India AI Mission"
+    url: "/wiki/entities/indiaaimission/"
   - key: "IndianMuslims"
     title: "Indian Muslims"
     url: "/wiki/entities/indianmuslims/"

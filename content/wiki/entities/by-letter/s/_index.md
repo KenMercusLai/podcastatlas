@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12497
+wiki_total_pages: 12502
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1775,6 +1775,9 @@ wiki_pages:
   - key: "SunYutao"
     title: "Sun Yutao / 孙宇涛"
     url: "/wiki/entities/sunyutao/"
+  - key: "SundarPichai"
+    title: "Sundar Pichai"
+    url: "/wiki/entities/sundarpichai/"
   - key: "SunnySunBumMascot"
     title: "Sunny / Sun Bum Mascot"
     url: "/wiki/entities/sunnysunbummascot/"

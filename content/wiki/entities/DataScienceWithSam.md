@@ -27,6 +27,7 @@ sources:
   - ep-35-who-actually-controls-ai-the-governance-gap-explained
   - ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job
   - ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech
+  - ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south
 last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
@@ -37,16 +38,16 @@ knowledge_schema: synthesis-v1
 Data Science With Sam is a source-scoped podcast series in which [[SamDataScienceWithSam|Sam]] interviews practitioners about data science, AI, professional development, and the organizational conditions that turn models into useful decisions.
 
 ## Current Profile
-Across the available episodes, the show treats data science as applied, interdisciplinary work rather than model building in isolation. Its cases range from scientific research, space, insurance, cybersecurity, production ML, education, sports, observability, creativity, healthcare finance, enterprise adoption, private AI, and [[EmployeeHealthBenefitsAI]] to agentic work, AI drug discovery, and international AI governance. The recurring judgment is that data meaning, domain expertise, infrastructure, communication, privacy, validation, legitimate institutions, and accountable human action decide whether technical capability becomes real value. EP32 applies that philosophy to biotechnology by treating clinical efficacy and toxicity as the test of model-prioritized candidates; EP33 does so for agents through bounded tasks, checkable outcomes, and human escalation.
+Across the available episodes, the show treats data science as applied, interdisciplinary work rather than model building in isolation. Its cases range from scientific research, space, insurance, cybersecurity, production ML, education, sports, observability, creativity, healthcare finance, enterprise adoption, private AI, and [[EmployeeHealthBenefitsAI]] to agentic work, AI drug discovery, and international AI governance. The recurring judgment is that data meaning, domain expertise, infrastructure, communication, privacy, validation, legitimate institutions, and accountable human action decide whether technical capability becomes real value. EP31 adds geographic participation, public-private research partnerships, and connectivity; EP32 applies the same grounded philosophy to biotechnology through clinical efficacy and toxicity; EP33 does so for agents through bounded tasks, checkable outcomes, and human escalation.
 
 ## Key Characteristics
 - Uses practitioner interviews to connect technical methods with concrete institutional workflows and constraints.
 - Repeatedly frames AI as augmentation that remains bounded by [[HumanJudgmentUnderAI]], verification, privacy, and domain accountability.
 - Covers the full applied-data chain: collection and quality, modeling, deployment, feedback, stakeholder communication, governance, and action.
 - Treats professional learning and cross-functional collaboration as durable requirements across changing tools.
-- Expands responsible AI through domain-specific boundaries rather than one universal checklist, including human trials for AI-assisted drug discovery.
-- Connects operational responsible-AI practice to public authority, external scrutiny, and democratic legitimacy.
+- Expands responsible AI through domain-specific boundaries, including human trials for drug discovery, while connecting operational practice to public authority, external scrutiny, and democratic legitimacy.
 - Frames agent adoption around bounded delegation, critical verification, failure literacy, and retained human judgment.
+- Treats AI geography, infrastructure, and benefit distribution as part of responsible deployment rather than as background to model progress.
 
 ## Evidence
 ### Science, research, and technical careers
@@ -72,15 +73,17 @@ Across the available episodes, the show treats data science as applied, interdis
 
 ### Public governance and institutional legitimacy
 - [[ep-35-who-actually-controls-ai-the-governance-gap-explained]] extends the show's responsibility frame from workplace practice into [[GlobalAIGovernanceFramework|international coordination]], [[FrontierModelDisclosure|external disclosure]], military oversight, and public deliberation.
+- [[ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south]] adds [[India]], [[GlobalSouthAIParticipation]], AI-for-science funding, institutional partnerships, and [[UnderseaDataCables|connectivity]] to the governance branch.
 
 ## Qualifications
 - The corpus consists of interview summaries and usually provides one episode's perspective per guest rather than independent evaluation of every claim.
 - Episode dates span 2021 through 2026, so tool, product, and policy claims should be read in their source-time context.
 - The series is broad; its unifying claims concern applied practice and responsibility, not a single technical methodology.
+- EP31's announced commitments and India's proposed bridge role lack primary documents or outcome evidence in the supplied source.
 
 ## What Changed
-- Added EP32's clinical-trial stress test for AI-assisted drug discovery.
-- Preserved the show's broader pattern of domain-specific verification and accountable human judgment.
+- Added EP31's India and Global South geography to the show's international-governance profile.
+- Preserved a distinction between announced investment and demonstrated equitable participation.
 
 ## Relationships
 - [[SamDataScienceWithSam]] - host who frames the show's cross-domain practitioner conversations.
@@ -95,3 +98,4 @@ Across the available episodes, the show treats data science as applied, interdis
 - [[AgentReliabilityVerification]] - EP33 branch connecting autonomy to bounded tasks, checks, and escalation.
 - [[AgentWorkforceRedesign]] - workforce branch distinguishing task redistribution from whole-job replacement.
 - [[AIClinicalValidationInDrugDiscovery]] - biotechnology branch where human trials test model-prioritized candidates.
+- [[GlobalSouthAIParticipation]] - EP31 branch connecting geography, infrastructure, research priorities, and distribution of AI benefits.

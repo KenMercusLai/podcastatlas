@@ -30524,3 +30524,11 @@ Added source `8226494223-026583`; created [[BubAgent|Bub]], [[FrostMing|Frost æ˜
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South
+
+Added source `ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south`; created [[SundarPichai]], [[GoogleOrg]], [[AIImpactSummitIndia]], [[IndiaAIMission]], [[NandanNilekani]], and [[GlobalSouthAIParticipation]]; and resynthesized [[India]], [[GoogleDeepMind]], [[DataScienceWithSam]], [[GlobalAIGovernanceFramework]], and [[UnderseaDataCables]]. Core synthesis: funding, institutional partnerships, and connectivity can widen AI participation and research priorities, but announcements and summit prominence do not establish equitable agenda control, measured outcomes, or India's proposed governance-bridge role. No settled contradiction was adopted. The reported $30 million commitment, partnership and cable details, summit lineup, workforce claims, and policy interpretations remain source-scoped pending primary documentation and outcome evidence. The planner found no dirty topic, global compaction was not due, and the refreshed manifest and paragraph ledger validate 3,816 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

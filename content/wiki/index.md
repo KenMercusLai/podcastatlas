@@ -3878,6 +3878,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》341-6｜一个历史博主给今年考生必须说的话](sources/zizhi-tongjian-hanji-341-6-yige-lishi-bozhu-gei-jinnian-kaosheng-bixu-shuode-hua-lg2_qim2_yhkdgrl-qidz11bvlvp.md) — 芮淇讲透资治通鉴短篇，以明代科举层级、1057年科举群体与高考类比说明考试重要但不是整个人生的判决。
 - [John Fetterman: The Rogue Democrat Who Broke Party Ranks](sources/all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130.md) — All-In interview on Fetterman's Democratic dissent, voter ID and mail voting, border enforcement and Dreamers, Israel and Iran, shutdowns, debt, agriculture, and AI data centers.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
+- [EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South](sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south.md) — Data Science With Sam episode on Google's India commitments, AI-for-science funding, Global South participation, connectivity, and India's possible AI-governance role.
 
 ## Entities
 - [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 由御史大夫升任丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
@@ -16426,6 +16427,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jean-Baptiste Carrier](entities/JeanBaptisteCarrier.md) — Representative on mission whose alleged Nantes drownings became a boundary case between revolutionary terror and provincial atrocity.
 - [Cult of the Supreme Being](entities/CultOfSupremeBeing.md) — Robespierre's deist civic religion and attempted moral route from external terror to internalized virtue.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
+- [Sundar Pichai](entities/SundarPichai.md) — Google chief executive whose India summit appearance anchors the episode's interpretation of a wider Global South AI strategy.
+- [Google.org](entities/GoogleOrg.md) — Google philanthropic arm represented through a reported $30 million AI for Science Impact Challenge.
+- [AI Impact Summit India](entities/AIImpactSummitIndia.md) — India-hosted AI event framed around people, planet, progress, and wider participation in global AI agenda-setting.
+- [India AI Mission](entities/IndiaAIMission.md) — National AI-capability initiative cited as evidence of India's infrastructure ambition.
+- [Nandan Nilekani](entities/NandanNilekani.md) — Indian technology figure named among speakers at the AI Impact Summit in India.
 
 ## Concepts
 - [名位—实权错位 / Nominal Office–Practical Power Mismatch](concepts/NominalOfficePracticalPowerMismatch.md) — 正式职位层级与由君主接近、信任和决策参与形成的实际权力彼此分离。
@@ -26235,5 +26241,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [组织公平感与退出判断 / Organizational Fairness and Exit Judgment](concepts/OrganizationalFairnessExitJudgment.md) — 区分职场委屈、组织评价逻辑、剩余发展空间与体面退出方式的判断框架。
 - [Revolutionary Political Religion](concepts/RevolutionaryPoliticalReligion.md) — Sacred grounding of revolutionary rights and virtue through belief, ritual, calendar, civic spectacle, and internalized moral observation.
 - [Elite Nanny Rota Care](concepts/EliteNannyRotaCare.md) — Ultra-wealthy continuous-coverage childcare model joining premium credentials and pay to intensive shifts, travel, handoffs, and labor-boundary risks.
+- [Global South AI Participation](concepts/GlobalSouthAIParticipation.md) — Inclusion of developing-region actors in AI research priorities, infrastructure, governance, and benefit distribution, distinguished from visibility alone.
 
 ## Syntheses

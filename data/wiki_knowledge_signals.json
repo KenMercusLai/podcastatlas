@@ -2924,6 +2924,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/aiipovaluation/"
     },
+    "AIImpactSummitIndia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128 [33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a839a74].md",
+          "key": "ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south",
+          "show": "Data Science With Sam",
+          "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",
+          "url": "/wiki/sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/aiimpactsummitindia/"
+    },
     "AIIndustrialCapture": {
       "episode_count": 1,
       "show_count": 1,
@@ -53091,9 +53107,9 @@
       "url": "/wiki/entities/dataready/"
     },
     "DataScienceWithSam": {
-      "episode_count": 24,
+      "episode_count": 25,
       "show_count": 1,
-      "source_note_count": 24,
+      "source_note_count": 25,
       "sources": [
         {
           "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
@@ -53262,6 +53278,13 @@
           "show": "Data Science With Sam",
           "title": "EP 32: AI Discovers Drugs: The 2026 Clinical Trial Moment for AI in Biotech",
           "url": "/wiki/sources/ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech/"
+        },
+        {
+          "episode_file": "33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128 [33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a839a74].md",
+          "key": "ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south",
+          "show": "Data Science With Sam",
+          "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",
+          "url": "/wiki/sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south/"
         }
       ],
       "updated": "2026-10-06",
@@ -90047,9 +90070,9 @@
       "url": "/wiki/concepts/glaucomascreeningandadherence/"
     },
     "GlobalAIGovernanceFramework": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
@@ -90064,6 +90087,13 @@
           "show": "Data Science With Sam",
           "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
           "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
+        },
+        {
+          "episode_file": "33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128 [33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a839a74].md",
+          "key": "ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south",
+          "show": "Data Science With Sam",
+          "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",
+          "url": "/wiki/sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south/"
         }
       ],
       "updated": "2026-10-05",
@@ -90198,6 +90228,22 @@
       ],
       "updated": "2026-08-24",
       "url": "/wiki/concepts/globalproductlocalization/"
+    },
+    "GlobalSouthAIParticipation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128 [33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a839a74].md",
+          "key": "ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south",
+          "show": "Data Science With Sam",
+          "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",
+          "url": "/wiki/sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/globalsouthaiparticipation/"
     },
     "GlobeTheatre": {
       "episode_count": 1,
@@ -91579,9 +91625,9 @@
       "url": "/wiki/entities/googlebook/"
     },
     "GoogleDeepMind": {
-      "episode_count": 15,
-      "show_count": 10,
-      "source_note_count": 15,
+      "episode_count": 16,
+      "show_count": 11,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "蒸馏风暴：一场无人公开谈论的技术竞赛 (1) [179-1].md",
@@ -91687,6 +91733,13 @@
           "show": "What's Next｜科技早知道",
           "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？｜ S10E28",
           "url": "/wiki/sources/hassabis-xieren-jeff-dean-likai-google-deepmind-weishenme-turan-da-xipai-s10e28-cec8bc7e-3408-4297-a4b8-3cb8d7632cb6/"
+        },
+        {
+          "episode_file": "33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128 [33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a839a74].md",
+          "key": "ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south",
+          "show": "Data Science With Sam",
+          "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",
+          "url": "/wiki/sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south/"
         }
       ],
       "updated": "2026-09-02",
@@ -91707,6 +91760,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/googledeepmindorganizationalfriction/"
+    },
+    "GoogleOrg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128 [33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a839a74].md",
+          "key": "ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south",
+          "show": "Data Science With Sam",
+          "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",
+          "url": "/wiki/sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/googleorg/"
     },
     "GooseAgentTool": {
       "episode_count": 1,
@@ -111537,9 +111606,9 @@
       "url": "/wiki/concepts/independentretaildiscovery/"
     },
     "India": {
-      "episode_count": 8,
-      "show_count": 2,
-      "source_note_count": 8,
+      "episode_count": 9,
+      "show_count": 3,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "Settler bet： a West Bank flashpoint [6a842bb539e73ea8f3c13a2d].md",
@@ -111596,10 +111665,33 @@
           "show": "Economist Podcasts",
           "title": "National front-runner: who can beat Le Pen?",
           "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        },
+        {
+          "episode_file": "33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128 [33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a839a74].md",
+          "key": "ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south",
+          "show": "Data Science With Sam",
+          "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",
+          "url": "/wiki/sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south/"
         }
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/india/"
+    },
+    "IndiaAIMission": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128 [33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a839a74].md",
+          "key": "ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south",
+          "show": "Data Science With Sam",
+          "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",
+          "url": "/wiki/sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/indiaaimission/"
     },
     "IndianCheeseMarketAdaptation": {
       "episode_count": 1,
@@ -156254,6 +156346,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/nanjihe/"
+    },
+    "NandanNilekani": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128 [33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a839a74].md",
+          "key": "ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south",
+          "show": "Data Science With Sam",
+          "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",
+          "url": "/wiki/sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/nandannilekani/"
     },
     "Nandos": {
       "episode_count": 1,
@@ -212044,6 +212152,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/concepts/sunburnassessmentandfirstaid/"
     },
+    "SundarPichai": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128 [33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a839a74].md",
+          "key": "ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south",
+          "show": "Data Science With Sam",
+          "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",
+          "url": "/wiki/sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/sundarpichai/"
+    },
     "SunkCostEntrapment": {
       "episode_count": 1,
       "show_count": 1,
@@ -224511,6 +224635,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/undergraduateartfieldwork/"
+    },
+    "UnderseaDataCables": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260820_TECH_pod_128 [tech_20260820_TECH_pod_128].md",
+          "key": "tech-20260820-tech-pod-128-tech-20260820-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why the Trump administration plans to boost funding for subsea cables",
+          "url": "/wiki/sources/tech-20260820-tech-pod-128-tech-20260820-tech-pod-128/"
+        },
+        {
+          "episode_file": "33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128 [33A0F2C3A82410B5E45C9D34158A4AEE~8584415_2026-08-10-214515-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a839a74].md",
+          "key": "ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south",
+          "show": "Data Science With Sam",
+          "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",
+          "url": "/wiki/sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/underseadatacables/"
     },
     "UnearnedRewardRefusal": {
       "episode_count": 1,

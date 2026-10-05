@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 12497
+wiki_total_pages: 12502
 wiki_pages:
   - key: "GordonLiddy"
     title: "G. Gordon Liddy"
@@ -740,6 +740,9 @@ wiki_pages:
   - key: "GoogleX"
     title: "Google X"
     url: "/wiki/entities/googlex/"
+  - key: "GoogleOrg"
+    title: "Google.org"
+    url: "/wiki/entities/googleorg/"
   - key: "GooseAgentTool"
     title: "Goose"
     url: "/wiki/entities/gooseagenttool/"

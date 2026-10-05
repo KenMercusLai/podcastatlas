@@ -8611,6 +8611,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "AIImpactSummitIndia": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AIImpersonationFraudRisk": [
     {
       "key": "technology",
@@ -38345,6 +38357,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "GlobalSouthAIParticipation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GlobalSportsGovernance": [
     {
       "key": "politics",
@@ -44667,6 +44691,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "IndiaAIMission": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "IndianCheeseMarketAdaptation": [
@@ -58873,6 +58909,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "NandanNilekani": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "NanfangQuanqiu": [
@@ -79438,6 +79481,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SundarPichai": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SunkCostEntrapment": [
     {
       "key": "science",
@@ -96186,6 +96236,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics": [
