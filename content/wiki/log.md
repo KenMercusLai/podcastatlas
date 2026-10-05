@@ -30447,3 +30447,9 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

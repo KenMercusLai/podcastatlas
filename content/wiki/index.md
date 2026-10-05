@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子](sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1.md) — 告缗执行冲突与李敢之死并置：义纵因抓捕杨可属吏被杀，霍去病则在甘泉宫射杀李敢并因受宠而获包庇。
+- [《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手](sources/zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5.md) — 从李敢之死、卫霍势力变化与霍氏身后安排讨论霍去病早逝；“汉武帝幕后加害”明确保留为史料不足的推测。
 - [652. London’s Golden Age: The Ghosts of Culloden (Part 3)](sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848.md) — The Rest Is History on Johnson and Boswell’s 1773 Hebridean tour, Jacobite memory, literary friendship, and post-Culloden Highland transformation.
 - [EP 32: AI Discovers Drugs: The 2026 Clinical Trial Moment for AI in Biotech](sources/ep-32-ai-discovers-drugs-the-2026-clinical-trial-moment-for-ai-in-biotech.md) — Data Science With Sam explainer on AI-prioritized drug candidates, phase 2/3 clinical stress tests, toxicity, biological generalization, and missing candidate-level evidence.
 - [Science-Based Meditation Tools to Improve Your Brain & Health | Dr. Richard Davidson](sources/science-based-meditation-tools-to-improve-your-brain-health-dr-richard-davidson-scim1465874306.md) — Huberman Lab interview on brief sustainable meditation, state-to-trait change, meta-awareness, flourishing, and evidence boundaries around clinical and neural claims.

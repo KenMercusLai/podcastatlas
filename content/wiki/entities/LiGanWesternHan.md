@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [person, western-han, military, li-family, court-violence]
 sources:
   - zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1
+  - zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5
 last_updated: 2026-10-06
 ---
 
@@ -15,6 +16,8 @@ last_updated: 2026-10-06
 ## Current Profile
 
 [[zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1|Hanji 335]] presents Li Gan as both a promising commander and an actor who bypasses procedure. He reportedly penetrates a Xiongnu formation with a small mounted party, later campaigns under Huo Qubing, captures a Left Wise King's drum and banner, and gains a marquisate. After blaming Wei Qing for the inquiry that precedes Li Guang's suicide, he attacks Wei; Wei conceals the incident. Huo later shoots Li Gan during an imperial hunt, and [[HanWudi|汉武帝]] protects Huo through a deer-accident account.
+
+[[zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5|Hanji 336-2]] repeats that sequence but shifts attention to its possible political aftermath. The host argues that killing a prominent military-family member may have cost Huo Qubing support and increased imperial suspicion. Those effects are not independently documented and do not revise the narrower established profile of Li Gan as both assailant and victim of procedureless retaliation.
 
 ## Key Characteristics
 
@@ -34,14 +37,15 @@ Grievance and assault:
 
 Killing and protection:
 - [[zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1|Hanji 335]] says Huo Qubing shoots Li Gan during a Ganquan Palace hunt and Wudi attributes the death to a deer collision.
+- [[zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5|Hanji 336-2]] treats the killing as a possible reputational and political turning point for Huo Qubing while acknowledging that the inference rests on sparse evidence.
 
 ## Qualifications
 
-This profile rests on one compact podcast retelling rather than a full military or legal biography. The exact battlefield totals, sequence of Li Guang's final campaign, nature of Li Gan's assault, Huo Qubing's motive, shooting mechanics, and degree of imperial foreknowledge remain source-scoped. Calling the death retaliation is a strong episode interpretation, not a separately demonstrated finding.
+This profile rests on two compact, overlapping podcast retellings rather than a full military or legal biography. The exact battlefield totals, sequence of Li Guang's final campaign, nature of Li Gan's assault, Huo Qubing's motive, shooting mechanics, degree of imperial foreknowledge, and effect on Huo's reputation remain source-scoped. Calling the death retaliation or a turning point is interpretation, not a separately demonstrated finding.
 
 ## What Changed
 
-- Created the page to separate Li Gan's military record, assault on Wei Qing, and protected killing from the broader Li-family and Huo-Qubing biographies.
+- Added the source-scoped claim that Li Gan's killing may have damaged Huo Qubing politically, without treating that consequence as established.
 
 ## Relationships
 

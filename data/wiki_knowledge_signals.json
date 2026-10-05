@@ -96639,9 +96639,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 30,
+      "episode_count": 31,
       "show_count": 2,
-      "source_note_count": 30,
+      "source_note_count": 31,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -96852,6 +96852,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》340-1｜太奇葩！古代皇帝的长寿秘方",
           "url": "/wiki/sources/zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手 [ltFkWaLC48Bj1HaV65BG-8QoTrf5].md",
+          "key": "zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5/"
         }
       ],
       "updated": "2026-10-06",
@@ -107981,9 +107988,9 @@
       "url": "/wiki/concepts/huofamilypurgeafterhuoguang/"
     },
     "HuoGuangWesternHan": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！ [ll6PYzPjl0MlcfN0G1zjOt2wF8S8].md",
@@ -108117,9 +108124,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》391-2｜揭秘汉武帝死前任命的“托孤大臣”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手 [ltFkWaLC48Bj1HaV65BG-8QoTrf5].md",
+          "key": "zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/huoguangwesternhan/"
     },
     "HuoNuLateHan": {
@@ -108139,9 +108153,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -108163,15 +108177,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",
           "url": "/wiki/sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手 [ltFkWaLC48Bj1HaV65BG-8QoTrf5].md",
+          "key": "zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5/"
         }
       ],
       "updated": "2026-10-06",
       "url": "/wiki/entities/huoqubing/"
     },
     "HuoShanSonOfHuoQubing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》361-1｜汉武帝刘彻迷信鬼神的故事 [lpgClrt_XAUNEYHM0ri9bi-UEnjE].md",
@@ -108186,9 +108207,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》361-2｜泰山祭祀后，霍去病独子离奇暴毙揭秘",
           "url": "/wiki/sources/zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手 [ltFkWaLC48Bj1HaV65BG-8QoTrf5].md",
+          "key": "zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/huoshansonofhuoqubing/"
     },
     "HuoXianWesternHan": {
@@ -129796,9 +129824,9 @@
       "url": "/wiki/entities/lifulatehan/"
     },
     "LiGanWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子 [luPXHu64Fi0d0XL223zq9PWEnmY1].md",
@@ -129806,6 +129834,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",
           "url": "/wiki/sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手 [ltFkWaLC48Bj1HaV65BG-8QoTrf5].md",
+          "key": "zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5/"
         }
       ],
       "updated": "2026-10-06",
@@ -232236,9 +232271,9 @@
       "url": "/wiki/entities/weiqiansanlian/"
     },
     "WeiQingHanGeneral": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -232281,6 +232316,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",
           "url": "/wiki/sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手 [ltFkWaLC48Bj1HaV65BG-8QoTrf5].md",
+          "key": "zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5/"
         }
       ],
       "updated": "2026-10-06",

@@ -33,6 +33,7 @@ sources:
   - zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif
   - zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd
   - zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m
+  - zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5
 last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
@@ -77,6 +78,8 @@ Hanji 391-1 and Hanji 391-2 add the final-transfer branch. Hanji 391-1 explains 
 
 Hanji 367-1 adds a royal-kin qualification to the severe-law profile. Court officials repeatedly seek punishment for [[LiuDuanWesternHan|胶西王刘端]] after violence, obstruction of taxation, and attacks on officials, yet Wudi does not execute his elder brother. The episode interprets the restraint as a combination of sibling feeling and confidence that Liu Duan poses no usurpation threat. This does not simply reverse Hanji 392-1's law-over-kin case; it shows that Wudi's treatment of relatives changes with perceived political danger, while local officials and subjects can bear the cost of tolerance.
 
+Hanji 336-2 adds a much more uncertain early military-household branch. It says Wudi protected Huo Qubing after Li Gan's killing, later kept Huo Qubing's son close, and may have sought to reduce the wider Wei-Huo power field. The host explicitly says the further claim that Wudi caused Huo Qubing's death is speculation built from sparse records and later political consequences. The page therefore adopts the patronage and posthumous-care claims as episode evidence but not the alleged murder.
+
 ## Key Characteristics
 
 - Wealth-backed offensive ruler whose anti-Xiongnu and Western Regions-Hexi program includes choosing the distant Dayuan credibility-and-flank objective over ministers' proposed concentration on Xiongnu, followed by a state-scale second expedition costly enough to require later reassessment.
@@ -119,6 +122,7 @@ Hanji 367-1 adds a royal-kin qualification to the severe-law profile. Court offi
 - Dew collection as immortality construction: [[zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m|Hanji 340-1]] says an unnamed fangshi's dew-and-jade prescription leads Wudi to build an仙人承露盘 at 柏梁台, while leaving efficacy, intent, dimensions, and precise chronology source-scoped.
 - Frontier success and spectacle: [[zizhi-tongjian-hanji-365-1-jiemi-gudai-diwang-de-yule-jiemu-lpmbd0xutravghvymsw2tsq8ooif|Hanji 365-1]] places Zhao Ponu's Loulan-Cheshi campaign and corridor defenses beside the rise of 角抵、鱼龙、蔓延 as mixed court spectacle.
 - Harem hierarchy and favorite legend: [[zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd|Hanji 365-2]] describes supervision, favor registers, allowances, reproductive rewards, travel selection, and the later literary anecdotes around [[LiJuanHanWudiCourt|丽娟]].
+- Wei-Huo patronage and uncertainty: [[zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5|Hanji 336-2]] says Wudi kept Huo Qubing's son close but explicitly marks the claim that Wudi caused Huo's death as speculation without direct evidence.
 
 ## Qualifications
 
@@ -136,11 +140,12 @@ Hanji 365-2 is a compact popular retelling that mixes harem administration, tran
 
 Hanji 340-1 is a short structured summary that combines a Western Han building story with later literary water culture and modern wellness advice. It does not validate dew or jade powder as medicine, establish the unnamed fangshi's intent, show that rain or snow water is safe, or substantiate its claims about active hydration, metabolism, endocrine function, immunity, breathing practice, and longevity. The 柏梁台 dating, construction purpose, bronze material, height, circumference, and causal sequence remain source-attributed.
 
+Hanji 336-2 does not establish Wudi's private fear of the Wei-Huo group, the political effect of Li Gan's death on Huo Qubing, a murder method, an order, or any causal role for Wudi in Huo's death. Later title losses and inactivity can motivate a hypothesis but cannot substitute for direct evidence, so the幕后黑手 claim is not part of the current profile.
+
 ## What Changed
 
-- Added an early material-conversion case in which a dew-and-jade longevity promise produces the仙人承露盘 at 柏梁台.
-- Distinguished observable patronage and construction from unverified medical efficacy, supernatural access, specialist intent, and architectural measurements.
-- Connected this early collection apparatus to the later high-building, maritime-search, and eventual fangshi-disillusionment arc without treating the episodes as independent verification of miracles.
+- Added Wudi's posthumous care for Huo Qubing's son and the wider Wei-Huo power-field interpretation.
+- Rejected the episode title's implied murder conclusion because the source itself identifies it as speculation without direct evidence.
 
 ## Relationships
 
@@ -185,6 +190,8 @@ Hanji 340-1 is a short structured summary that combines a Western Han building s
 - [[RuleOverKinshipPower|法度压过亲缘特权]] - governance frame for Wudi refusing to let royal kinship override ancestral law.
 - [[LiuDuanWesternHan|胶西王刘端]] - elder brother whose protected rule adds a contrasting case where kinship and low throne-threat perception outweigh repeated punishment requests.
 - [[HuoGuangWesternHan]] - trusted minister to whom Wudi assigns a Zhou Gong-like regency role for Liu Fuling.
+- [[HuoQubing|霍去病]] - favored commander whose protected killing and disputed early death create a sharp evidence boundary around imperial responsibility.
+- [[HuoShanSonOfHuoQubing|霍嬗 / 霍子侯]] - son whom Hanji 336-2 says Wudi kept close after Huo Qubing's death.
 - [[EmperorZhaoOfHan]] - youngest son chosen as heir in Wudi's final succession arrangement.
 - [[LadyGouyiWesternHan]] - Liu Fuling's mother, killed before accession under Hanji 391-1's public mother-risk rationale and source-scoped hidden-Wugu explanation.
 - [[MaternalStatusSuccessionLeverage]] - inverted by the "son rises, mother dies" logic in Hanji 391-1.
