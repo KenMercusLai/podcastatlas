@@ -4223,6 +4223,57 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/airesistantexperientialconsumption/"
     },
+    "AIRevenueLegibility": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "tech_20260731_0731_MP_TECH_pod_128 [tech_20260731_0731_MP_TECH_pod_128].md",
+          "key": "tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta and Microsoft report different AI earnings",
+          "url": "/wiki/sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步 [lvj6L_TwEuld-GvkpqURqpm4GpT2].md",
+          "key": "172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2",
+          "show": "起朱楼宴宾客",
+          "title": "172.全球宏观和资本市场2026半年度复盘与展望：AI叙事的下一步",
+          "url": "/wiki/sources/172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2/"
+        },
+        {
+          "episode_file": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？｜ S10E12 [7af0955b-e3b5-4b40-9ccf-90ec061bbf52].md",
+          "key": "7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52",
+          "show": "What's Next｜科技早知道",
+          "title": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12",
+          "url": "/wiki/sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare [40445495].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/airevenuelegibility/"
+    },
     "AISafetyCoordination": {
       "episode_count": 7,
       "show_count": 3,
@@ -27096,9 +27147,9 @@
       "url": "/wiki/concepts/boxingasembodiedagency/"
     },
     "BradGerstner": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
@@ -27127,9 +27178,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare [40445495].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/bradgerstner/"
     },
     "BrainBodyEmotionMapping": {
@@ -69955,9 +70013,9 @@
       "url": "/wiki/concepts/enterpriseaipilotpurgatory/"
     },
     "EnterpriseAIROIAudit": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
@@ -70000,9 +70058,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's First Tax, Swalwell Out",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openais-identity-crisis-datacenter-wars-market-up-on-iran-news-mamdanis-first-tax-swalwell-out-40916595/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare [40445495].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/enterpriseairoiaudit/"
     },
     "EnterpriseAgentControlLayer": {
@@ -115550,6 +115615,29 @@
       ],
       "updated": "2026-09-29",
       "url": "/wiki/concepts/irancontraaffair/"
+    },
+    "IranHorizontalEscalation": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP251 伊朗困局：四十年战略选择的代价与现实 [lp8VyONYUgtd2oZyMgOf_MiM9ZkD].md",
+          "key": "ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd",
+          "show": "Talk三联",
+          "title": "EP251 伊朗困局：四十年战略选择的代价与现实",
+          "url": "/wiki/sources/ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare [40445495].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/iranhorizontalescalation/"
     },
     "IranSanctions": {
       "episode_count": 4,
@@ -232647,6 +232735,43 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/weaknessaspoliticalliability/"
+    },
+    "WealthTaxLegitimacy": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal [41706545].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - All-In's 2026 Predictions [39681260].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "All-In's 2026 Predictions",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260/"
+        },
+        {
+          "episode_file": "For bucks’ sake： the rise of self-made billionaires [6a61e076562e3ad886d54c95].md",
+          "key": "for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95",
+          "show": "Economist Podcasts",
+          "title": "For bucks' sake: the rise of self-made billionaires",
+          "url": "/wiki/sources/for-bucks-sake-the-rise-of-self-made-billionaires-6a61e076562e3ad886d54c95/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare [40445495].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/wealthtaxlegitimacy/"
     },
     "WealthTransmissionRestraint": {
       "episode_count": 1,

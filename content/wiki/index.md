@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare](sources/all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495.md) — All-In on Iran-war escalation and oil risk, frontier-lab revenue versus enterprise ROI, AI messaging backlash, open-model complementarity, and wealth-tax mobility.
 - [《资治通鉴·汉纪》331-1｜200岁的他，如何把皇帝骗得团团转？](sources/zizhi-tongjian-hanji-331-1-200sui-de-ta-ruhe-ba-huangdi-pian-de-tuantuanzhuan-lvn0xka_dxl88qo5iroseks852ha.md) — 少翁以隔幕招魂、文成将军封号和求仙工程取得汉武帝信任，后以牛腹帛书续骗局，却因字迹暴露而被处死。
 - [《资治通鉴·汉纪》331-2｜昏君还是明君？汉武帝的愚昧一面](sources/zizhi-tongjian-hanji-331-2-hunjun-haishi-mingjun-hanwudi-de-yumei-yimian-fl-a4uchkdjzcfmfs-itb2swgi_t.md) — 少翁死后被传在关东现身、开棺又不见尸体，汉武帝遂把疾病归因于神仙怪罪，并将随后病愈理解为上郡巫师作法有效。
 - [《资治通鉴·汉纪》331-3｜古人竟然用花椒自杀？](sources/zizhi-tongjian-hanji-331-3-guren-jingran-yong-huajiao-zisha-lohtg2tifzlc63cxkcjkekoyk9w3.md) — 以高延宗“以椒塞口”和李贤备椒死谏为例，连接花椒的礼仪、吉祥、医药与政治死亡叙事，同时保留剂量、机制和史料核验边界。

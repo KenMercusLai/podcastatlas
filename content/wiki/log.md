@@ -30571,3 +30571,11 @@ Added source `zizhi-tongjian-hanji-331-2-hunjun-haishi-mingjun-hanwudi-de-yumei-
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495`; resynthesized [[BradGerstner|Brad Gerstner]], [[IranHorizontalEscalation]], [[AIRevenueLegibility]], [[EnterpriseAIROIAudit]], and [[WealthTaxLegitimacy]] from their complete preserved evidence inventories. Core synthesis: oil prices and lab run rates are useful signals but do not settle escalation tails, revenue durability, enterprise margin gains, infrastructure payback, or tax incidence. No settled contradiction was adopted. The short-war thesis remains qualified by Gulf infrastructure, desalination, Israel, and nuclear risks; rapid coding and model revenue remains compatible with weak large-enterprise ROI; and the tax segment supplies a strong mobility and property-rights objection without balanced distributional evidence. Oil moves, China leverage, company run rates, data-center costs and cancellations, polling, tax provisions, fiscal simulations, and migration motives remain source-scoped. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,822 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

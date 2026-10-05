@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3333
+topic_total_pages: 3334
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9300,6 +9300,9 @@ topic_sources:
   - key: "tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128"
     title: "Insurers race to cover AI errors"
     url: "/wiki/sources/tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495"
+    title: "Iran War, Oil Shock, Off Ramps, AI's Revenue Explosion and PR Nightmare"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-iran-war-oil-shock-off-ramps-ais-revenue-explosion-and-pr-nightmare-40445495/"
   - key: "tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128"
     title: "Iran's cyberwar on American banks"
     url: "/wiki/sources/tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128/"
