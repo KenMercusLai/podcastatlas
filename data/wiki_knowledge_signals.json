@@ -7960,6 +7960,29 @@
       "updated": "2026-09-03",
       "url": "/wiki/concepts/agentreadableweb/"
     },
+    "AgentReliabilityVerification": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24 [a3884ade-4669-4d5c-ab2e-f98aa580f429].md",
+          "key": "jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429",
+          "show": "What's Next｜科技早知道",
+          "title": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24",
+          "url": "/wiki/sources/jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429/"
+        },
+        {
+          "episode_file": "B37C34214E9348DEB0099EB89DCE02FF~8584413_2026-08-10-214413-8787-0-0-10.128 [B37C34214E9348DEB0099EB89DCE02FF~8584413_2026-08-10-214413-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a839c94].md",
+          "key": "ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job",
+          "show": "Data Science With Sam",
+          "title": "EP 33: Agents Everywhere: What Agentic AI Actually Means for Your Job",
+          "url": "/wiki/sources/ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/agentreliabilityverification/"
+    },
     "AgentSpendControls": {
       "episode_count": 2,
       "show_count": 2,
@@ -8014,6 +8037,36 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/agenttrustcalibration/"
+    },
+    "AgentWorkforceRedesign": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Why AI will dwarf every tech revolution before it： robots, manufacturing, AR glasses from CES 2026 [39655790].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Why AI will dwarf every tech revolution before it: robots, manufacturing, AR glasses from CES 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790/"
+        },
+        {
+          "episode_file": "B37C34214E9348DEB0099EB89DCE02FF~8584413_2026-08-10-214413-8787-0-0-10.128 [B37C34214E9348DEB0099EB89DCE02FF~8584413_2026-08-10-214413-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a839c94].md",
+          "key": "ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job",
+          "show": "Data Science With Sam",
+          "title": "EP 33: Agents Everywhere: What Agentic AI Actually Means for Your Job",
+          "url": "/wiki/sources/ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/agentworkforceredesign/"
     },
     "AgenticCharacterSubjectivity": {
       "episode_count": 1,
@@ -52810,9 +52863,9 @@
       "url": "/wiki/entities/dataready/"
     },
     "DataScienceWithSam": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 1,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
@@ -52967,9 +53020,16 @@
           "show": "Data Science With Sam",
           "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
           "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
+        },
+        {
+          "episode_file": "B37C34214E9348DEB0099EB89DCE02FF~8584413_2026-08-10-214413-8787-0-0-10.128 [B37C34214E9348DEB0099EB89DCE02FF~8584413_2026-08-10-214413-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a839c94].md",
+          "key": "ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job",
+          "show": "Data Science With Sam",
+          "title": "EP 33: Agents Everywhere: What Agentic AI Actually Means for Your Job",
+          "url": "/wiki/sources/ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/datasciencewithsam/"
     },
     "DataSovereignty": {
@@ -192920,9 +192980,9 @@
       "url": "/wiki/entities/sambeale/"
     },
     "SamDataScienceWithSam": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 1,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md",
@@ -193077,9 +193137,16 @@
           "show": "Data Science With Sam",
           "title": "EP 35: Who Actually Controls AI? The Governance Gap Explained",
           "url": "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"
+        },
+        {
+          "episode_file": "B37C34214E9348DEB0099EB89DCE02FF~8584413_2026-08-10-214413-8787-0-0-10.128 [B37C34214E9348DEB0099EB89DCE02FF~8584413_2026-08-10-214413-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a839c94].md",
+          "key": "ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job",
+          "show": "Data Science With Sam",
+          "title": "EP 33: Agents Everywhere: What Agentic AI Actually Means for Your Job",
+          "url": "/wiki/sources/ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/samdatasciencewithsam/"
     },
     "SamHarris": {

@@ -25,7 +25,8 @@ sources:
   - data-ai-and-scientific-research-a-coffee-chat
   - ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai
   - ep-35-who-actually-controls-ai-the-governance-gap-explained
-last_updated: 2026-10-05
+  - ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job
+last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
 
@@ -35,7 +36,7 @@ knowledge_schema: synthesis-v1
 Data Science With Sam is a source-scoped podcast series in which [[SamDataScienceWithSam|Sam]] interviews practitioners about data science, AI, professional development, and the organizational conditions that turn models into useful decisions.
 
 ## Current Profile
-Across the available episodes, the show treats data science as applied, interdisciplinary work rather than model building in isolation. Its cases range from scientific research, space, insurance, cybersecurity, production ML, education, sports, observability, creativity, healthcare finance, enterprise adoption, and private AI to [[EmployeeHealthBenefitsAI]] and international AI governance. The recurring judgment is that data meaning, domain expertise, infrastructure, communication, privacy, validation, legitimate institutions, and accountable human action decide whether technical capability becomes real value.
+Across the available episodes, the show treats data science as applied, interdisciplinary work rather than model building in isolation. Its cases range from scientific research, space, insurance, cybersecurity, production ML, education, sports, observability, creativity, healthcare finance, enterprise adoption, private AI, and [[EmployeeHealthBenefitsAI]] to agentic work and international AI governance. The recurring judgment is that data meaning, domain expertise, infrastructure, communication, privacy, validation, legitimate institutions, and accountable human action decide whether technical capability becomes real value. EP33 makes that operating philosophy explicit for agents: delegate bounded tasks with checkable outcomes, retain human escalation, and distinguish task redistribution from evidence of whole-job replacement.
 
 ## Key Characteristics
 - Uses practitioner interviews to connect technical methods with concrete institutional workflows and constraints.
@@ -44,6 +45,7 @@ Across the available episodes, the show treats data science as applied, interdis
 - Treats professional learning and cross-functional collaboration as durable requirements across changing tools.
 - Expands responsible AI through domain-specific boundaries rather than one universal checklist.
 - Connects operational responsible-AI practice to public authority, external scrutiny, and democratic legitimacy.
+- Frames agent adoption around bounded delegation, critical verification, failure literacy, and retained human judgment.
 
 ## Evidence
 ### Science, research, and technical careers
@@ -56,6 +58,7 @@ Across the available episodes, the show treats data science as applied, interdis
 ### Production, operations, and business adoption
 - [[ep-5-implementation-of-data-science-in-cybersecurity]], [[ep-7-data-science-mlops]], and [[ep-14-what-is-observability]] show that security, deployment, feedback loops, telemetry, and organizational trust shape production value.
 - [[ep-16-data-decoded-navigating-the-ai-revolution]] and [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]] connect ready data, explainability, baselines, workflow ownership, governance, and measurement to adoption.
+- [[ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job]] adds agentic workflows, bounded reliability, human escalation, task displacement, and fail-safe design to the show's applied-work frame.
 
 ### Human capability, education, and communication
 - [[ep-3-demystifying-the-imposter-syndrome]], [[ep-9-chatgpt-and-education-systems]], and [[ep-15-unveiling-data-scientists-role-in-the-generative-ai-era]] connect self-calibration, teacher and worker literacy, prompt skill, domain translation, and review.
@@ -74,7 +77,8 @@ Across the available episodes, the show treats data science as applied, interdis
 - The series is broad; its unifying claims concern applied practice and responsibility, not a single technical methodology.
 
 ## What Changed
-- Extended the show's human-accountability frame from applied workflows into international institutions, external scrutiny, and democratic legitimacy.
+- Integrated EP33's bounded-agent and task-redistribution framing into the show's applied AI profile.
+- Preserved the broader link between operational responsibility and public institutional legitimacy.
 
 ## Relationships
 - [[SamDataScienceWithSam]] - host who frames the show's cross-domain practitioner conversations.
@@ -86,3 +90,5 @@ Across the available episodes, the show treats data science as applied, interdis
 - [[EmployeeHealthBenefitsAI]] - employer-health branch added by EP19.
 - [[AugmentedIntelligence]] - recurring operating model in which AI supports rather than replaces responsible people.
 - [[GlobalAIGovernanceFramework]] - public-institution branch added by EP35.
+- [[AgentReliabilityVerification]] - EP33 branch connecting autonomy to bounded tasks, checks, and escalation.
+- [[AgentWorkforceRedesign]] - workforce branch distinguishing task redistribution from whole-job replacement.

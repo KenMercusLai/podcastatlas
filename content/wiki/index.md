@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 33: Agents Everywhere: What Agentic AI Actually Means for Your Job](sources/ep-33-agents-everywhere-what-agentic-ai-actually-means-for-your-job.md) — Data Science With Sam explainer on agent action loops, bounded reliability, human oversight, task displacement, and the verification skills needed for agent-enabled work.
 - [《资治通鉴·汉纪》343-1｜他一生荒淫骄奢，后人却顶礼膜拜？](sources/zizhi-tongjian-hanji-343-1-ta-yisheng-huangyin-jiaoshe-houren-que-dingli-mobai-lnspg6ektohor19yhtcqulhl4cvt.md) — 以汉武帝巡幸、河东郡守自杀和刘胜之死并置皇权压力，并将刘胜的酒色名声解释为可能的诸侯王示弱自保；其主观意图保持来源限定。
 - [《资治通鉴·汉纪》342-2｜古代夫妻同房，竟有这种法律限制？](sources/zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-falv-xianzhi-lsnhz4q-oxjpefgkdfxkcal-37iv.md) — 刘勃在父病与居丧期间的失礼、刘棁因排斥而告发、张骞调查及妨碍办案共同导致废王迁徙，并显示守丧礼如何进入继承资格和法律责任。
 - [《资治通鉴·汉纪》342-1｜外号别乱叫，有的名字会被毒咒一生](sources/zizhi-tongjian-hanji-342-1-waihao-bie-luan-jiao-you-de-mingzi-hui-bei-duzhou-yisheng-lpehgfgtkbed4vg3z7yegsqalll1.md) — 以刘不宜、刘弘、刘顺、刘勃的不同结局和高庄汉墓被盗焚毁构成“常山王诅咒”，同时把封号叙事与真实因果、墓主认定分开。
