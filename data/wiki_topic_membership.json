@@ -55236,6 +55236,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "MattMahan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MattSchlicht": [
     {
       "key": "technology",
@@ -94235,6 +94242,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-how-matt-mahan-thinks-he-can-save-california-40578730": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255": [

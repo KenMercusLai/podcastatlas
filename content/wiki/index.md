@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Matt Mahan Thinks He Can Save California](sources/all-in-with-chamath-jason-sacks-friedberg-how-matt-mahan-thinks-he-can-save-california-40578730.md) — All-In interview on Mahan's outcome-based California campaign across budgets, housing, homelessness, energy, insurance, pensions, healthcare, taxation, and immigration.
 - [EP 34: DeepSeek R1 vs GPT-4: The $6M Model That Changed AI Economics](sources/ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics.md) — Data Science With Sam explainer on DeepSeek R1's efficiency shock, open-weight deployment, compute-moat pressure, export controls, and enterprise data sovereignty.
 - [The Best Vitality & Health Protocols | Dr. Rhonda Patrick](sources/the-best-vitality-health-protocols-dr-rhonda-patrick-scim9935898395.md) — Huberman Lab interview on exercise, adaptive stress, meal timing, visceral fat, inflammation, and evidence-bounded supplement priorities.
 - [Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN](sources/all-in-with-chamath-jason-sacks-friedberg-four-ceos-on-the-future-of-ai-coreweave-perplexity-mistral-and-iren-40565175.md) — All-In GTC interviews connecting specialized GPU finance, multi-model computer use, portable enterprise AI, and energy-to-compute data-center buildout.
@@ -3824,6 +3825,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [711. The Terror: Killing God (Part 5)](sources/711-the-terror-killing-god-part-5-glt6491220072.md) — The Rest Is History on the Supreme Being festival, political religion, provincial atrocity, the Law of 22 Prairial, and the coalition forming against Robespierre.
 
 ## Entities
+- [Matt Mahan](entities/MattMahan.md) — San Jose mayor and California gubernatorial candidate advocating outcome-based budgeting, housing supply, basic services, and pragmatic Democratic reform.
+- [San Jose, California](entities/SanJoseCalifornia.md) — Municipal proof point in Mahan's campaign for dashboards, lower-cost shelter, faster housing approvals, and performance accountability.
 - [IREN](entities/IREN.md) — Energy and data-center operator shifting part of its Bitcoin-mining infrastructure toward AI compute while emphasizing power, construction, labor, and latency.
 - [东越 / Dongyue (Western Han)](entities/DongyueWesternHan.md) — 余善统治下遭汉军进攻、内部倒戈、杀王投降与人口迁出的东南越系政权。
 - [吴阳 / Wu Yang (Yue marquis)](entities/WuYangYueMarquis.md) — 汉军压境时率七百人倒向汉方、预示东越内部瓦解的越系侯者。
@@ -16293,6 +16296,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Law of 22 Prairial](entities/LawOf22Prairial.md) — June 1794 law removing defence safeguards, widening enemy offences, and making death the only guilty sentence.
 
 ## Concepts
+- [Outcome-Based Government Accountability](concepts/OutcomeBasedGovernmentAccountability.md) — Framework connecting public goals, dashboards, audits, zero-based budgeting, and funding consequences to measurable delivery.
 - [Visceral Adiposity and Metabolic Risk](concepts/VisceralAdiposityMetabolicRisk.md) — Weight-independent framework for visceral fat, portal liver exposure, insulin resistance, menopause-related redistribution, and contextual measurement.
 - [Administrative Boundary Relocation / 行政边界迁移式扩张](concepts/AdministrativeBoundaryRelocation.md) — 通过移动关口等边界，把更多土地和人口重新定义为受直接监督的核心区。
 - [Post-Conquest Population Removal / 征服后人口迁出](concepts/PostConquestPopulationRemoval.md) — 在奖励归降精英的同时，将更广泛的被征服人口移离原地以破坏其地形与组织基础的强制安置方式。

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 9710
+wiki_total_pages: 9711
 wiki_pages:
   - key: "OilCrisis1973"
     title: "1973 Oil Crisis"
@@ -653,6 +653,9 @@ wiki_pages:
   - key: "OutcomeBasedAIPricing"
     title: "Outcome-Based AI Pricing"
     url: "/wiki/concepts/outcomebasedaipricing/"
+  - key: "OutcomeBasedGovernmentAccountability"
+    title: "Outcome-Based Government Accountability"
+    url: "/wiki/concepts/outcomebasedgovernmentaccountability/"
   - key: "OutcomeDrivenAIWorkflow"
     title: "Outcome-Driven AI Workflow"
     url: "/wiki/concepts/outcomedrivenaiworkflow/"

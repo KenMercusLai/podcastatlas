@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3111
+topic_total_pages: 3113
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6581,6 +6581,9 @@ topic_entities:
   - key: "MartyGruenberg"
     title: "Marty Gruenberg"
     url: "/wiki/entities/martygruenberg/"
+  - key: "MattMahan"
+    title: "Matt Mahan"
+    url: "/wiki/entities/mattmahan/"
   - key: "MaureenThorson"
     title: "Maureen Thorson"
     url: "/wiki/entities/maureenthorson/"
@@ -8604,6 +8607,9 @@ topic_sources:
   - key: "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737"
     title: "How investing is getting riskier (Two Indicators)"
     url: "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-how-matt-mahan-thinks-he-can-save-california-40578730"
+    title: "How Matt Mahan Thinks He Can Save California"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-how-matt-mahan-thinks-he-can-save-california-40578730/"
   - key: "how-much-money-president-trump-and-his-family-have-made"
     title: "How much money President Trump and his family have made"
     url: "/wiki/sources/how-much-money-president-trump-and-his-family-have-made/"

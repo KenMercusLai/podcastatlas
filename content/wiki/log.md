@@ -30077,3 +30077,11 @@ Added source `ep-34-deepseek-r1-vs-gpt-4-the-6m-model-that-changed-ai-economics`
 ## [2026-10-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-05] ingest | How Matt Mahan Thinks He Can Save California
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-how-matt-mahan-thinks-he-can-save-california-40578730`; created [[MattMahan|Matt Mahan]], [[SanJoseCalifornia|San Jose, California]], and [[OutcomeBasedGovernmentAccountability|Outcome-Based Government Accountability]]; and resynthesized [[CaliforniaFiscalFragility]], [[MandatoryTreatmentHomelessnessPolicy]], and [[CaliforniaWealthTaxCapitalFlight]] from their complete preserved evidence inventories. Core synthesis: Mahan's campaign treats California's cross-domain failures as an incentive and delivery problem, using San Jose's claimed dashboards, lower-cost shelter, housing approvals, and program reallocation as the case for scaling outcome-based management. No settled contradiction was adopted. Spending, fraud, homelessness, mortality, crime, housing, energy, insurance, pension, healthcare, disaster-aid, and municipal-performance figures remain source-scoped campaign claims. The automatic `wiki/overview.md` was read for context and not manually rewritten because the durable additions are represented in narrower canonical pages. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger cover 3,760 sources and retain 790 overview paragraphs.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

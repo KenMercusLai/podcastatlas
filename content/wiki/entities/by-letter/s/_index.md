@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12418
+wiki_total_pages: 12420
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "SanFranciscoBayArea"
     title: "San Francisco Bay Area"
     url: "/wiki/entities/sanfranciscobayarea/"
+  - key: "SanJoseCalifornia"
+    title: "San Jose, California"
+    url: "/wiki/entities/sanjosecalifornia/"
   - key: "SanJuanDeUlua"
     title: "San Juan de Ulua"
     url: "/wiki/entities/sanjuandeulua/"
