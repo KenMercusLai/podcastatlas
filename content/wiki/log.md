@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-06] ingest | 《资治通鉴·汉纪》334-2｜为什么老板更喜欢做表面文章的人？
+
+Added source `zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf`; resynthesized [[YiZongWesternHan|义纵]] and [[ExecutionDetailAttitudeAttribution|执行细节的态度归因]] from their complete preserved evidence inventories; and migrated [[UpwardManagement|Upward Management]] to synthesis-v1 after reading its complete four-source bounded input, then appended the new source once. Core synthesis: work directly seen or felt by a higher-power stakeholder can carry signal value beyond its intrinsic task value, and one salient snapshot can be generalized into a judgment about attention, respect, or reliability; making substantive work legible is therefore distinct from replacing substance with performance theater. No settled contradiction was adopted. The episode substantially overlaps Hanji 334-1 and previews Hanji 335 rather than independently confirming them; Yi's intent or imagined change of allegiance, Wudi's complete psychology, the road incident as the cause of execution, universal leader behavior, the phone analogy, and praise-as-hidden-criticism remain source-scoped. Broad [[HanWudi|汉武帝]], [[GanquanPalace|甘泉宫]], and show pages were read for context but not reopened because this bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,814 sources across 796 overview paragraphs and nine topics.
+
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》333-2｜他爱打皇帝的脸，为何能善终
 
 Added source `zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl`; created [[LiXiWesternHan|李息]] and [[NominalOfficePracticalPowerMismatch|名位—实权错位]]; and resynthesized [[JiAnWesternHan|汲黯]], [[ZhangTangWesternHan|张汤]], [[ZhuangQingdiWesternHan|庄青翟]], [[PowerCenterProximityAdvantage|权力中心接近优势]], and [[GoodDeathPoliticalSurvival|乱局善终]] from their complete preserved evidence inventories. Core synthesis: Ji An loses central advisory access but remains valuable through clean reputation and local governing capacity; his warning about Zhang anticipates the later fall without proving every motive allegation, while Wudi's direct reliance on Zhang leaves Chancellor Zhuang's formal superiority misaligned with practical influence. No settled contradiction was adopted. Ji's criticism of Zhang's legal-political conduct is distinguished from later evidence of personal frugality; five-zhu private minting is kept earlier than the later centralized mint system; and the exact coinage chronology, local disorder, office sequence, dialogue, family promotions, title-power causality, Sima An branch, exile edict, and next-episode preview remain source-scoped. Broad [[HanWudi|汉武帝]], coinage, and feedback pages were read for context but not reopened because the bounded additions are represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,813 sources across 796 overview paragraphs and nine topics.
@@ -30477,6 +30481,10 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》336-2｜霍去病陨落，武帝真是幕后黑手
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》334-2｜为什么老板更喜欢做表面文章的人？](sources/zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf.md) — 从甘泉宫道路失修与义纵后续获罪讨论可见工作如何被领导解释为态度和尊重信号；历史因果、手机类比及“表扬可能是提醒”均保留来源边界。
 - [《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”](sources/zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w.md) — 汉武帝把甘泉宫道路失修解释为义纵不重视自己；节目由此讨论执行疏忽如何在权力关系中被赋予态度意义，同时保留敌人设局等说法为推测。
 - [《资治通鉴·汉纪》332-2｜大汉丞相李蔡之死，究竟有没有黑幕](sources/zizhi-tongjian-hanji-332-2-dahan-chengxiang-licai-zhisi-jiujing-youmeiyou-heimu-loyre4ghvm3zcp-jxez9k26du8oj.md) — 关东大水引出灾异政治中的丞相担责惯例；李蔡则因侵占并出售御赐墓地旁土地被免职下狱、自杀，所谓更深“黑幕”仍无来源证据。
 - [《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？](sources/zizhi-tongjian-hanji-333-1-men-ke-luoque-de-youlai-ni-zhidao-ma-lkoajhp2b_k32aurnk8rs-ukxaib.md) — 汲黯、郑当时与翟公在任、失势和复职时的宾客变化，说明“门可罗雀”如何成为检验权势依附型交往的成语故事。

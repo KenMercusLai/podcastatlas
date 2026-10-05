@@ -72522,9 +72522,9 @@
       "url": "/wiki/concepts/exchangetradedfund/"
     },
     "ExecutionDetailAttitudeAttribution": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶” [ljE_L2EOefZ2pW2-YJ9qve4On94W].md",
@@ -72532,6 +72532,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》334-2｜为什么老板更喜欢做表面文章的人？ [lp6R9ORQzBzY8fFkq1fKNEDS3Xzf].md",
+          "key": "zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》334-2｜为什么老板更喜欢做表面文章的人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf/"
         }
       ],
       "updated": "2026-10-06",
@@ -225211,6 +225218,50 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/uplane/"
     },
+    "UpwardManagement": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "Settler bet： a West Bank flashpoint [6a842bb539e73ea8f3c13a2d].md",
+          "key": "settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d",
+          "show": "Economist Podcasts",
+          "title": "Settler bet: a West Bank flashpoint",
+          "url": "/wiki/sources/settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d/"
+        },
+        {
+          "episode_file": "EP41 成就职场大圣：远离天命，掌握向上管理 [lrKEFaGXfcAn_FAiYoAlOfheViDp].md",
+          "key": "ep41-chengjiu-zhichang-dasheng-yuanli-tianming-zhangwo-xiangshang-guanli-lrkefagxfcan-faiyoalofhevidp",
+          "show": "一劳永逸",
+          "title": "EP41 成就职场大圣：远离天命，掌握向上管理",
+          "url": "/wiki/sources/ep41-chengjiu-zhichang-dasheng-yuanli-tianming-zhangwo-xiangshang-guanli-lrkefagxfcan-faiyoalofhevidp/"
+        },
+        {
+          "episode_file": "EP58 业绩平平，也要认真＂摸鱼＂ [llmcb9cQw2GWq3zrIGovtkVlH55c].md",
+          "key": "ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c",
+          "show": "一劳永逸",
+          "title": "EP58 业绩平平，也要认真\"摸鱼\"",
+          "url": "/wiki/sources/ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c/"
+        },
+        {
+          "episode_file": "EP26 想做人上之人，却困在《城中之城》 [lgbVd08kGkO5OnekGVnu4aOVFz6t].md",
+          "key": "ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t",
+          "show": "一劳永逸",
+          "title": "EP26 想做人上之人，却困在《城中之城》",
+          "url": "/wiki/sources/ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》334-2｜为什么老板更喜欢做表面文章的人？ [lp6R9ORQzBzY8fFkq1fKNEDS3Xzf].md",
+          "key": "zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》334-2｜为什么老板更喜欢做表面文章的人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/upwardmanagement/"
+    },
     "UrbanArchitecturalMemory": {
       "episode_count": 4,
       "show_count": 2,
@@ -243226,9 +243277,9 @@
       "url": "/wiki/entities/yiyanmoyan/"
     },
     "YiZongWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -243250,6 +243301,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》334-1｜身为酷吏的他，如何一步步沦为“夜壶”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》334-2｜为什么老板更喜欢做表面文章的人？ [lp6R9ORQzBzY8fFkq1fKNEDS3Xzf].md",
+          "key": "zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》334-2｜为什么老板更喜欢做表面文章的人？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf/"
         }
       ],
       "updated": "2026-10-06",

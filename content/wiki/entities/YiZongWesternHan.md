@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4
   - zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1
   - zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w
+  - zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf
 last_updated: 2026-10-06
 ---
 
@@ -16,7 +17,7 @@ last_updated: 2026-10-06
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4|Hanji 402-2]] gives Yi Zong only as a chronological and type marker beside [[ZhangTangWesternHan|张汤]] before Du Zhou's rise. [[zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w|Hanji 334-1]] adds an earlier deterioration layer: a damaged road under Yi's responsibility makes Wudi's trip to Ganquan Palace uncomfortable, and the ruler reads the omission as evidence that Yi did not expect his recovery or did not respect him. The episode considers administrative neglect plausible but does not establish enemy manipulation or make the road incident the direct cause of death.
+[[zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4|Hanji 402-2]] gives Yi Zong only as a chronological and type marker beside [[ZhangTangWesternHan|张汤]] before Du Zhou's rise. [[zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w|Hanji 334-1]] and overlapping [[zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf|Hanji 334-2]] add an earlier deterioration layer: a damaged road under Yi's responsibility makes Wudi's trip to Ganquan Palace uncomfortable, and the ruler reads the omission as evidence that Yi did not expect his recovery or did not respect him. The episodes make administrative neglect plausible and show how the incident can feed a larger judgment, but they do not establish Yi's inner loyalty, enemy manipulation, or a direct causal path from the road to his death.
 
 [[zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1|Hanji 335]] supplies the final conflict. Yi judges告缗 enforcement harmful to livelihood and public confidence and detains several of [[YangKeWesternHan|杨可]]'s subordinates. Wudi treats this as resistance to the edict and has him killed. The combined profile remains mixed: Yi's harsh service hurt innocents, operational neglect made him vulnerable to imperial attitude attribution, and his later attempt to restrain fiscal enforcement complicates a flat cruel-official label.
 
@@ -36,6 +37,7 @@ Cruel-official background:
 
 Road maintenance and imperial interpretation:
 - [[zizhi-tongjian-hanji-334-1-shenwei-kuli-de-ta-ruhe-yibubu-lunwei-yehu-lje_l2eoefz2pw2-yj9qve4on94w|Hanji 334-1]] says the damaged Ganquan route falls within Yi's responsibility and Wudi interprets its neglect as a sign that Yi did not expect him to return.
+- [[zizhi-tongjian-hanji-334-2-wei-shenme-laoban-geng-xihuan-zuo-biaomian-wenzhang-de-ren-lp6r9orqzbzy8ffkq1fkneds3xzf|Hanji 334-2]] repeats the incident and makes the broader attitude-and-loyalty inference explicit while acknowledging that Yi's actual thought is unknown.
 
 Resistance to fiscal enforcement:
 - [[zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1|Hanji 335]] says Yi Zong sees告缗 enforcement as disturbing livelihood and arrests several of Yang Ke's subordinates.
@@ -45,13 +47,14 @@ Execution and evaluation:
 
 ## Qualifications
 
-The sources do not reconstruct Yi Zong's complete offices, cases, or legal record. Hanji 334-1 does not establish the road-repair chain of command, Yi's knowledge or intent, the proposed enemy plot, or a direct causal path from road neglect to execution. Hanji 335 does not identify the detained subordinates or prove that Yi's action followed regular procedure. Its livelihood-defense reading and attribution of the quoted judgment to Sima Qian remain source-scoped pending textual comparison.
+The sources do not reconstruct Yi Zong's complete offices, cases, or legal record. Hanji 334-1 and 334-2 do not establish the road-repair chain of command, Yi's knowledge or intent, a proposed enemy plot, an intention to change allegiance, or a direct causal path from road neglect to execution. Hanji 335 does not identify the detained subordinates or prove that Yi's action followed regular procedure. Its livelihood-defense reading and attribution of the quoted judgment to Sima Qian remain source-scoped pending textual comparison.
 
 ## What Changed
 
 - Added the Ganquan road incident as an earlier deterioration layer without treating it as the proven cause of Yi's execution.
 - Separated observable administrative neglect from Wudi's inference about Yi's attitude and the source's speculative enemy-plot alternative.
 - Preserved the morally mixed distinction between Yi's earlier harsh conduct and his later resistance to disruptive告缗 implementation.
+- Added overlapping provenance that strengthens the interpretation boundary rather than independently confirming the event.
 
 ## Relationships
 
