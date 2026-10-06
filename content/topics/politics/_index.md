@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3149
+topic_total_pages: 3152
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4588,6 +4588,9 @@ topic_concepts:
   - key: "FateReadingPoliticalRisk"
     title: "命相判断的政治风险 / Fate-Reading Political Risk"
     url: "/wiki/concepts/fatereadingpoliticalrisk/"
+  - key: "CommodityTraceRouteInference"
+    title: "商品踪迹式路线推断 / Commodity-Trace Route Inference"
+    url: "/wiki/concepts/commoditytracerouteinference/"
   - key: "BeneficialGovernanceDelivery"
     title: "善政实惠落地 / Beneficial Governance Delivery"
     url: "/wiki/concepts/beneficialgovernancedelivery/"
@@ -8021,6 +8024,9 @@ topic_entities:
   - key: "Mianchi"
     title: "渑池 / Mianchi"
     url: "/wiki/entities/mianchi/"
+  - key: "DianKingdomWesternHan"
+    title: "滇国 / Dian Kingdom (Western Han-era)"
+    url: "/wiki/entities/diankingdomwesternhan/"
   - key: "ManChong"
     title: "满宠 / Man Chong"
     url: "/wiki/entities/manchong/"
@@ -8138,6 +8144,9 @@ topic_entities:
   - key: "LuWenshuWesternHan"
     title: "路温舒 / Lu Wenshu (Western Han)"
     url: "/wiki/entities/luwenshuwesternhan/"
+  - key: "ShenduWesternHan"
+    title: "身毒 / Shendu (Western Han-era)"
+    url: "/wiki/entities/shenduwesternhan/"
   - key: "Fengze"
     title: "逢泽 / Fengze"
     url: "/wiki/entities/fengze/"

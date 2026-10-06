@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12540
+wiki_total_pages: 12542
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -1484,6 +1484,9 @@ wiki_pages:
   - key: "DianWuQiang"
     title: "滇吾 / Dian Wu (Qiang leader)"
     url: "/wiki/entities/dianwuqiang/"
+  - key: "DianKingdomWesternHan"
+    title: "滇国 / Dian Kingdom (Western Han-era)"
+    url: "/wiki/entities/diankingdomwesternhan/"
   - key: "DianlingQiang"
     title: "滇零 / Dianling (Qiang)"
     url: "/wiki/entities/dianlingqiang/"

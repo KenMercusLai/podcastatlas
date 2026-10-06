@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9783
+wiki_total_pages: 9784
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3092,6 +3092,9 @@ wiki_pages:
   - key: "ConsortOmenBlameTransfer"
     title: "后宫灾异归咎转移 / Consort Omen Blame Transfer"
     url: "/wiki/concepts/consortomenblametransfer/"
+  - key: "CommodityTraceRouteInference"
+    title: "商品踪迹式路线推断 / Commodity-Trace Route Inference"
+    url: "/wiki/concepts/commoditytracerouteinference/"
   - key: "ChineseMysteryPublishingEcology"
     title: "国产推理出版生态 / Chinese Mystery Publishing Ecology"
     url: "/wiki/concepts/chinesemysterypublishingecology/"

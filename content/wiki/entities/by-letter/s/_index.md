@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12540
+wiki_total_pages: 12542
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2813,6 +2813,9 @@ wiki_pages:
   - key: "ShuoDeHaoTing"
     title: "说得好听 / Shuo De Hao Ting"
     url: "/wiki/entities/shuodehaoting/"
+  - key: "ShenduWesternHan"
+    title: "身毒 / Shendu (Western Han-era)"
+    url: "/wiki/entities/shenduwesternhan/"
   - key: "ShuboKhotanLateHan"
     title: "输僰 / Shubo (Khotan, late Han)"
     url: "/wiki/entities/shubokhotanlatehan/"

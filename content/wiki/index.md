@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！](sources/zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z.md) — 张骞从大夏所见蜀地货物推断西南通身毒的可能路线；四路探查虽受阻，却抵达滇国并把失败的寻路转化为新的区域情报。
 - [《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？](sources/zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb.md) — 霍去病以沙漠迂回谋求切断退路；李广在与张骞脱节后以圆阵、近射和主将稳军撑到援军，却因损失惨重仅获功过相当。
 - [Inside the Iran War and the Pentagon's Feud with Anthropic with Under Secretary of War Emil Michael](sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-iran-war-and-the-pentagons-feud-with-anthropic-with-under-secretary-of-war-emil-michael-40339045.md) — All-In interview on Iran, drone warfare, defense AI control, the Anthropic dispute, and industrial modernization.
 - [《资治通鉴·汉纪》312｜降汉的匈奴王，为何突然内斗？](sources/zizhi-tongjian-hanji-312-xianghan-de-xiongnu-wang-weihe-turan-neidou-lkbyh1fglhog0d9voaxitwu59eic.md) — 浑邪王与休屠王因惧怕单于清算而共谋降汉，却因承诺与河西利益分化在受降前内斗；浮桥计划、私下动机、战斗细节及休屠王死法均保留来源边界。
@@ -3941,6 +3942,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today](sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195.md) — Tomorrow Today interview on a cliff-fall survival ordeal, acceptance without passivity, fear as information, one-metre action, self-trust, and the limits of “no Plan B.”
 
 ## Entities
+- [滇国 / Dian Kingdom (Western Han-era)](entities/DianKingdomWesternHan.md) — 汉使寻找身毒道路时抵达的西南政体；接待与助探使其进入汉廷战略视野，但不等于已经归附。
+- [身毒 / Shendu (Western Han-era)](entities/ShenduWesternHan.md) — 由大夏所见蜀地货物流通推断出的西南寻路目标；汉使未能抵达，且来源正文存在渊都／运都转写歧异。
 - [Emil Michael](entities/EmilMichael.md) — Defense technology official presenting the Pentagon-side case on AI procurement, autonomy, and industrial modernization.
 - [明定陵 / Ming Dingling](entities/MingDingling.md) — 明代帝陵主动发掘案例，在大量文物出土与脆弱材料损毁、遗失叙述之间呈现考古发现和保存失败并存的风险。
 - [济北王刘宽 / Liu Kuan, King of Jibei (Western Han)](entities/LiuKuanJibeiKingWesternHan.md) — 被节目描述为因政治罪过取消金缕玉衣并从简安葬的西汉诸侯王，为刘寄墓可能寒酸提供类比而非证明。
@@ -16533,6 +16536,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [商品踪迹式路线推断 / Commodity-Trace Route Inference](concepts/CommodityTraceRouteInference.md) — 从异地商品及其报告来源推测未知交通网络；商品可提示连通性，却不能单独证明直接、安全或国家可控的道路。
 - [Defense AI Control Plane Risk](concepts/DefenseAIControlPlaneRisk.md) — Operational dependency created when an outside model provider retains authority over updates or behavior in a sensitive deployment.
 - [主动陵墓发掘的保存风险 / Preventive Tomb Excavation Conservation Risk](concepts/PreventiveTombExcavationConservationRisk.md) — 封闭墓室一经开启，环境变化、记录、稳定、保管与长期保存能力可能落后于暴露速度；出土数量不能单独衡量成功。
 - [汉代王侯厚葬与玉衣不朽信仰 / Han Royal Thick Burial and Jade-Suit Immortality Belief](concepts/HanRoyalThickBurialAndJadeSuitBelief.md) — 王侯墓葬财富、玉衣等级标识与精气不散、尸骨不朽想象的结合；出土实物不等于超自然功效得到验证。

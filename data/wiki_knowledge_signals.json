@@ -45060,6 +45060,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/entities/commodityfuturestradingcommission/"
     },
+    "CommodityTraceRouteInference": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！ [lhm5bE2XDxbj0V5ZmkbQdOQgUf1Z].md",
+          "key": "zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/commoditytracerouteinference/"
+    },
     "CommodityTrapEscape": {
       "episode_count": 1,
       "show_count": 1,
@@ -54482,9 +54498,9 @@
       "url": "/wiki/entities/davidyeager/"
     },
     "DaxiaWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？ [lrjTsFu1AuxhbgbawT-E5Dm_FBGo].md",
@@ -54492,9 +54508,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》341-1｜永垂青史，张骞如何“凿空”西域？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-341-1-yongchui-qingshi-zhangqian-ruhe-zaokong-xiyu-lrjtsfu1auxhbgbawt-e5dm_fbgo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！ [lhm5bE2XDxbj0V5ZmkbQdOQgUf1Z].md",
+          "key": "zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/daxiawesternhan/"
     },
     "DaxiaoDianbo": {
@@ -57972,6 +57995,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/diamondromancemarketingtrap/"
+    },
+    "DianKingdomWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！ [lhm5bE2XDxbj0V5ZmkbQdOQgUf1Z].md",
+          "key": "zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/diankingdomwesternhan/"
     },
     "DianaMitford": {
       "episode_count": 1,
@@ -202871,6 +202910,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/shendiqiang/"
     },
+    "ShenduWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！ [lhm5bE2XDxbj0V5ZmkbQdOQgUf1Z].md",
+          "key": "zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/shenduwesternhan/"
+    },
     "ShengdongJixi": {
       "episode_count": 8,
       "show_count": 4,
@@ -250718,9 +250773,9 @@
       "url": "/wiki/entities/zhangpueasternhan/"
     },
     "ZhangQianWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》357-1｜张骞死后，西汉外交乱象令人乍舌 [lrJdMvYVoSWgFDuAjcH9oM9R-b6b].md",
@@ -250756,6 +250811,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》308｜被唐诗吹成神的他，竟是个路痴？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-308-bei-tangshi-chui-cheng-shen-de-ta-jing-shi-ge-luchi-lsjtzqsil36lxejij8gazn58qeeb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！ [lhm5bE2XDxbj0V5ZmkbQdOQgUf1Z].md",
+          "key": "zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》306-2｜汉朝第一位走向世界的中国人！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-306-2-hanchao-diyiwei-zouxiang-shijie-de-zhongguoren-lhm5be2xdxbj0v5zmkbqdoguf1z/"
         }
       ],
       "updated": "2026-10-07",

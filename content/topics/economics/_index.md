@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2195
+topic_total_pages: 2197
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3277,6 +3277,9 @@ topic_concepts:
   - key: "MerchantComposureDiscipline"
     title: "商人定气功夫 / Merchant Composure Discipline"
     url: "/wiki/concepts/merchantcomposurediscipline/"
+  - key: "CommodityTraceRouteInference"
+    title: "商品踪迹式路线推断 / Commodity-Trace Route Inference"
+    url: "/wiki/concepts/commoditytracerouteinference/"
   - key: "LuxuryStatusSignalEfficiency"
     title: "奢侈品身份信号效率 / Luxury Status Signal Efficiency"
     url: "/wiki/concepts/luxurystatussignalefficiency/"
@@ -5486,6 +5489,9 @@ topic_entities:
   - key: "DavidWeng"
     title: "大卫翁 / David Weng"
     url: "/wiki/entities/davidweng/"
+  - key: "DaxiaWesternHan"
+    title: "大夏 / Daxia (Western Han-era)"
+    url: "/wiki/entities/daxiawesternhan/"
   - key: "Daxiong"
     title: "大雄"
     url: "/wiki/entities/daxiong/"
