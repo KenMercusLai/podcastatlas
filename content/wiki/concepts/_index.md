@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9798
+wiki_total_pages: 9799
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2963,6 +2963,9 @@ wiki_pages:
   - key: "ArmedFollowerIntegrationCost"
     title: "武装部众整合成本 / Armed Follower Integration Cost"
     url: "/wiki/concepts/armedfollowerintegrationcost/"
+  - key: "AdversaryKnowledgePreparation"
+    title: "知敌式备战 / Adversary-Knowledge Preparation"
+    url: "/wiki/concepts/adversaryknowledgepreparation/"
   - key: "AccumulatedEnmityDefaultSuspicion"
     title: "积怨式默认怀疑 / Accumulated Enmity Default Suspicion"
     url: "/wiki/concepts/accumulatedenmitydefaultsuspicion/"

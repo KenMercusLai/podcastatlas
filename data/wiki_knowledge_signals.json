@@ -7259,6 +7259,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/adventuresintime/"
     },
+    "AdversaryKnowledgePreparation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》298｜少年战神霍去病登场 [lhWMFJ24Jl0YwwPcKNyTor9uJkSh].md",
+          "key": "zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》298｜少年战神霍去病登场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/adversaryknowledgepreparation/"
+    },
     "AdversitySilenceDiscipline": {
       "episode_count": 5,
       "show_count": 1,
@@ -110472,9 +110488,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -110594,6 +110610,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》307-2｜霍去病孤军一战，战神能有多变态？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-you-duo-biantai-ll-egjuu-gn-s-_mazrbbarfmb02/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》298｜少年战神霍去病登场 [lhWMFJ24Jl0YwwPcKNyTor9uJkSh].md",
+          "key": "zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》298｜少年战神霍去病登场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh/"
         }
       ],
       "updated": "2026-10-07",
@@ -237492,9 +237515,9 @@
       "url": "/wiki/entities/weiqiansanlian/"
     },
     "WeiQingHanGeneral": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -237579,9 +237602,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》324-2｜李广与卫青，两位名将的爱恨情仇",
           "url": "/wiki/sources/zizhi-tongjian-hanji-324-2-liguang-yu-weiqing-liangwei-mingjiang-de-aihen-qingchou-lqejjd0rqvm7lj59w8v1s0pvpwpd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》298｜少年战神霍去病登场 [lhWMFJ24Jl0YwwPcKNyTor9uJkSh].md",
+          "key": "zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》298｜少年战神霍去病登场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/weiqinghangeneral/"
     },
     "WeiShanWesternHan": {

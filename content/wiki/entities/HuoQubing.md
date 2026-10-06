@@ -21,6 +21,7 @@ sources:
   - zizhi-tongjian-hanji-309-1-huoqubing-duohui-hexi-zoulang-zhongguo-bixu-tongyi-llcwkkdgjpx2zjeoyvhdjln3nqik
   - zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9
   - zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-you-duo-biantai-ll-egjuu-gn-s-_mazrbbarfmb02
+  - zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh
 last_updated: 2026-10-07
 ---
 
@@ -31,6 +32,8 @@ last_updated: 2026-10-07
 ## Current Profile
 
 The earliest current origin and patronage layer identifies Wei Shaoer as Huo's mother and Huo Zhongru as the absent father he did not know while young, then says Wei Zifu's rise moved Huo into an imperial-affinal network. It attributes Wudi's attention to Huo's riding, archery, and physical ability and presents long palace proximity as the basis for unusual trust and informal military formation. “Direct disciple,” repeated strategy discussions, and specific transmission of battlefield skill remain the host's explanatory reconstruction rather than a documented curriculum. [[zizhi-tongjian-hanji-326-2-shenjiang-huoqubing-shi-shui-jiao-chulai-de-lut_0gh7nistf1td8pb_1nmzv6mv|Hanji 326-2]]
+
+The earliest preparation-to-command layer now places the seventeen-year-old Huo before his reported battle result: he trains in combat, archery, and riding; questions surrendered Xiongnu about movement, camps, pasture, water, training, living conditions, and behavior; and rehearses concentration and withdrawal routes from maps. This [[AdversaryKnowledgePreparation|opponent-knowledge preparation]] is used to explain why Wei Qing lets him choose eight hundred cavalry and act independently, but the training detail, full pre-battle doctrine, exact selection freedom, and “better than Xiongnu” judgment remain source-scoped. [[zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh|Hanji 298]]
 
 The same source interprets Huo's high promotion as a second command center beside Wei Qing. That reading gives Huo's rise an institutional function: Wudi could preserve military capacity while avoiding dependence on one general. Kinship does not make their staffs and beneficiaries identical, but the episode does not prove hostile Wei and Huo factions, inevitable conflict, Pingyang Princess's alleged dislike, or Wudi's private appointment motive. Talent, campaign results, kin position, and favor remain complementary explanations.
 
@@ -66,7 +69,7 @@ The court-violence layer is sharply different. Li Gan serves under Huo and wins 
 
 ## Key Characteristics
 
-- Wei-family-connected youth described as a talented palace-raised imperial favorite and alternative senior command center whose post-Mobei prominence attracts office-seeking associates from Wei Qing's household.
+- Wei-family-connected youth described as combining riding, archery, and combat ability with source-scoped questioning of surrendered Xiongnu, map rehearsal, palace proximity, imperial favor, and eventual status as an alternative senior command center.
 - Western Han general associated with the Mobei eastern-route victory, defeat of the Xiongnu Left Wise King, and “封狼居胥” ritual memory.
 - Long-range cavalry commander whose Hexi record joins first-campaign speed, political separation, conditional surrender, sustained pursuit, and a claimed Gaolan decision to later desert envelopment, continuation after a failed water-dependent rendezvous, major western disruption, and crisis surrender stabilization; severe claimed losses, routes, supplies, battle mechanics, supporting columns, and horse attrition keep speed and reach materially bounded.
 - Commander whose reported cuju activity under supply shortage coexists with a source-scoped failure to distribute surplus food to hungry soldiers.
@@ -77,6 +80,7 @@ The court-violence layer is sharply different. Li Gan serves under Huo and wins 
 ## Evidence
 
 Origin, cultivation, and command position:
+- [[zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh|Hanji 298]] links Huo's first independent-command request to sustained skills practice, questioning surrendered Xiongnu, map study, and route rehearsal before Wei Qing lets him choose eight hundred cavalry.
 - [[zizhi-tongjian-hanji-326-2-shenjiang-huoqubing-shi-shui-jiao-chulai-de-lut_0gh7nistf1td8pb_1nmzv6mv|Hanji 326-2]] links Huo's early opportunity to Wei-family ascent, riding and archery ability, palace entry, and long proximity to Wudi.
 - [[zizhi-tongjian-hanji-326-2-shenjiang-huoqubing-shi-shui-jiao-chulai-de-lut_0gh7nistf1td8pb_1nmzv6mv|Hanji 326-2]] calls Huo Wudi's direct disciple but presents the content and frequency of military instruction as supposition.
 - [[zizhi-tongjian-hanji-326-2-shenjiang-huoqubing-shi-shui-jiao-chulai-de-lut_0gh7nistf1td8pb_1nmzv6mv|Hanji 326-2]] interprets Huo's rank beside Wei Qing as protection against concentrated military command, without documenting Wudi's private intent.
@@ -118,17 +122,17 @@ Family succession and disputed death interpretation:
 
 ## Qualifications
 
-Hanji 307-1 and 307-2 add the first-Hexi sequence but not an unqualified campaign reconstruction. Their ten-thousand force, seven-thousand Han loss, renewed ten-thousand-force description, routes, distances, Suopu, Yanzhi and Gaolan identifications, defeated-group count, replenishment mechanics, surrender promises, leaders' inner states, battle and weapons claims, 8,900-of-13,000 result, names and ranks, golden-figure meaning, reward, Jincheng fort, and Zhang Qian consultation remain episode-attributed. The force accounting is not reconciled, and the operation must not be merged with the second campaign.
+This page remains bounded to eighteen compact podcast sources rather than a full military biography. Hanji 298 does not independently verify Huo's complete private training routine, surrendered informants, map work, mature pre-battle doctrine, exact first-command date and location, Wei Qing's motive, or unrestricted selection of eight hundred cavalry; “special forces,” “blitzkrieg,” and superior-to-Xiongnu knowledge are host rhetoric. Hanji 326-2 likewise does not prove a documented palace curriculum, deliberate rival Wei-Huo factions, Pingyang Princess's hostility, or command balancing as Wudi's private motive. Talent, kinship, access, favor, preparation, and demonstrated results may overlap.
 
-This page remains bounded to seventeen compact podcast sources rather than a full military biography. Hanji 308 supplies the second-Hexi plan, while Hanji 309-1 supplies the missed reunion and outcome; their route, distance, climate, water, force totals, opposing identities, surprise mechanics, captive ranks, rewards, and permanent-clearance language remain episode-scoped. Hanji 312's private plans, bridge timetable, cultural psychology, court dialogue, Changshui composition, location, force totals, and internal battle movements remain episode-attributed. Hanji 313-1 conflicts internally on whether Hunye King killed Xiutu King or Xiutu King killed himself; its dialogue, youth-based Xiongnu psychology, location, force and casualty totals, minimal Han losses, and reward figures remain episode-attributed. Hanji 326-2 does not independently prove childhood palace upbringing, sustained personal instruction by Wudi, a specific teaching curriculum, deliberate construction of rival Wei-Huo factions, inevitable conflict, Pingyang Princess's hostility, or command balancing as Wudi's private motive; talent, kinship, access, favor, and demonstrated results may overlap. Hanji 326-1 does not independently verify its Mobei route, place identifications, force and casualty totals, captive ranks, ritual geography, Lake Baikal endpoint, horse losses, or reward figures; its “opening the Silk Road” language compresses a longer process. Hanji 327-1 supports a patronage shift but does not prove that Huo recruited Wei's associates, that every transfer was mercenary, or that changing household affiliation establishes personal hostility between the commanders. Hanji 328-2 does not reproduce the cited *Hanshu* text, establish Huo's private motive for playing cuju, or independently verify the provisioning mechanics; its football-language jokes are not campaign causation. Hanji 328-1 does not reproduce the relevant Sun Bin passages or fully reconstruct Meng Tian's force mix or Wei Qing's formation. Hanji 327-2 supplies a reported answer but does not prove that Huo rejected all military study, that Sunzi as a whole was obsolete, or that its route, speed, force, and casualty figures are exact; “孙武兵法已经落后” is host rhetoric. Hanji 376-2 does not document a complete formal patron-client relationship with Zhao Ponu. Hanji 335's kin-revenge motive, rear-shot detail, deliberate-hunt-opportunity reading, and imperial-cover mechanics remain source-scoped; the durable judgment is narrower, that the episode describes a killing without adjudication followed by protection from ordinary accountability. Hanji 336-2 adds no direct evidence for Wudi's intent or a murder mechanism, while Hanji 336-1 supplies only a broad illness report without a named disease. The epidemic, accident, murder, and幕后黑手 explanations therefore remain unproved, and the age twenty-three/twenty-four discrepancy is preserved.
+The campaign sources preserve operational patterns without supplying a settled reconstruction. First-Hexi and second-Hexi routes, force and loss totals, identities, distances, water and supply mechanics, surrender terms, battle details, captive ranks, rewards, and permanent-clearance language remain episode-attributed; continuing Dai and Yanmen raids prevent the western victories from becoming the end of the wider war. The surrender sources preserve deception risk and stabilization while leaving private plans, dialogue, cultural psychology, death mechanics, and totals unsettled. Mobei's route, ritual geography, results, horse losses, and wider corridor consequences also remain source-scoped.
 
-Hanji 309-1 now completes the second-Hexi result omitted by Hanji 308, but its route, opposing identities, two-thousand-li distance, casualty and captive totals, rewards, and permanent-clearance language remain episode-attributed. The closing Dai and Yanmen raids also prevent the western victory from being treated as the end of the wider war.
+The later character and court branches are similarly bounded. The sources do not prove that Huo rejected all military learning, that inherited doctrine was wholly obsolete, that organized cuju repaired provisioning failure, that every associate moved from Wei Qing for material gain, or that a formal patron-client relationship explains Zhao Ponu's whole career. Hanji 335 describes procedureless killing and imperial protection but does not establish every motive or cover-story detail. Hanji 336-1 and 336-2 support an early death with a broad illness report and an unknown specific cause; epidemic, accident, murder, and imperial involvement remain unproved, and the age twenty-three/twenty-four discrepancy is preserved.
 
 ## What Changed
 
-- Extended the first-Hexi profile from penetration and conditional surrender through sustained pursuit and the claimed Gaolan decision.
-- Added elite captures, symbolic booty, imperial reward, and Jincheng fort while keeping their details episode-attributed.
-- Made the first-Hexi force-accounting tension explicit rather than treating the victory as costless or numerically settled.
+- Added the pre-first-command preparation layer: physical practice, surrendered-Xiongnu questioning, terrain and logistics study, map rehearsal, and the request for independent action.
+- Connected Wei Qing's approval of the eight-hundred-cavalry detachment to demonstrated preparation while preserving kinship, patronage, chronology, and motive as source-scoped.
+- Distinguished the durable opponent-knowledge pattern from the episode's modern “special forces” and “blitzkrieg” labels.
 
 ## Relationships
 
@@ -149,6 +153,7 @@ Hanji 309-1 now completes the second-Hexi result omitted by Hanji 308, but its r
 - [[HanDynastyCuju|汉代蹴鞠]] - organized sport Huo is reported to have maintained during a food-short frontier campaign.
 - [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - contrastive command standard because recreation cannot substitute for provisions and shared hardship.
 - [[MilitaryDoctrineEraFit|兵法的时代适配]] - framework for Huo's source-scoped departure from literal use of earlier cavalry doctrine.
+- [[AdversaryKnowledgePreparation|知敌式备战]] - preparation pattern joining combat skill, informant knowledge, terrain, logistics, and map rehearsal before first command.
 - [[ImperialMilitaryCommandCounterbalancing|皇权下的军事统帅制衡]] - source-scoped interpretation of Huo's elevation as a second trusted command center beside Wei Qing.
 - [[RenAnWesternHan|任安]] - contrast case who remains connected to Wei Qing while other associates move toward Huo's rising household.
 - [[PowerContingentSocialTies|权势依附型交往]] - relationship pattern illustrated by the shift toward Huo after his patronage value rises.

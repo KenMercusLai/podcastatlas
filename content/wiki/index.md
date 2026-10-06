@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》298｜少年战神霍去病登场](sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh.md) — 霍去病的首次独立领军被解释为武艺训练、降人访谈、地形与补给研究、地图推演的共同结果；“特种战队”“闪电战”及知敌程度保留来源边界。
 - [《资治通鉴·汉纪》300｜汉武帝又一伟大发明，影响中国上千年](sources/zizhi-tongjian-hanji-300-hanwudi-you-yi-weida-faming-yingxiang-zhongguo-shangqiannian-luwfqqrb1mi5zf0ufmtvnpbmkx7p.md) — 以祥瑞命名的追认叙事解释汉武帝年号制度，并把统一纪年、中央权威与济北王献泰山连接起来；“元朔”表述保留为转录或编年疑点。
 - [Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome](sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280.md) — All-In interview on five interacting historical forces, U.S. debt stabilization, gold and Bitcoin, tariffs, political-order risk, and the gap between AI technology and company returns.
 - [No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机](sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6.md) — 三五环 conversation with 梦阳 and 刘飞 on nonlinear careers, 腾讯微视, stand-up feedback, corporate ROI habits, repeated creative action, and freelance uncertainty.
@@ -6069,7 +6070,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [盖长公主 / Gai Chang Gongzhu (Western Han)](entities/GaiChanggongzhuWesternHan.md) — Princess whose banquet access is imagined as the assassination setting in the failed anti-Huo conspiracy.
 - [丁外人 / Ding Wairen (Western Han)](entities/DingWairenWesternHan.md) — Princess-favorite and inner-court access broker who helps the Shangguan family bypass Huo Guang.
 - [钩弋夫人 / Lady Gouyi (Western Han)](entities/LadyGouyiWesternHan.md) — Han Zhao's mother, whose death is framed through mother-regent risk, source-scoped Wugu guilt, and the later princess-caregiver setup.
-- [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han commander whose crisis surrender management, source-scoped palace cultivation, doctrine adaptation, Mobei victory, welfare limits, protected killing, family afterlife, and unresolved early death require distinct evidentiary judgments.
+- [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han commander whose source-scoped pre-command preparation, crisis surrender management, doctrine adaptation, Mobei victory, welfare limits, protected killing, family afterlife, and unresolved early death require distinct evidentiary judgments.
 - [赵破奴 / Zhao Ponu (Western Han)](entities/ZhaoPonuWesternHan.md) — Western Han general whose failed route-security search, Western Regions victories, Xiongnu capture and escape, and unresolved Wugu destruction trace expansion and reversal.
 - [杜周 / Du Zhou (Western Han)](entities/DuZhouWesternHan.md) — Western Han cruel official whose ruler-will legal logic and late-career moderation explain his safe retirement in Hanji 402-2.
 - [范明友 / Fan Mingyou (Western Han)](entities/FanMingyouWesternHan.md) — Western Han Duliao general who attacks exhausted Wuhuan after Xiongnu withdraws in Hanji 402-2.
@@ -6919,7 +6920,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小伙子 / Xiao Huozi](entities/XiaoHuoziNittanWuyu.md) — 日谈物语 co-host who reinforces the source's rapid-social-change and listener-facing setup.
 - [Japan AIDS Blood Products Incident / 日本艾滋血液药剂事件](entities/JapanAIDSBloodProductsIncident.md) — Announced public-health topic in the 日谈物语 autumn opener, currently source-limited to the title and hemophilia entry setup.
 - [郭子仪 / Guo Ziyi](entities/GuoZiyi.md) — Tang commander used in Hanji 1065 as a source-scoped model of reducing ruler suspicion through command surrender and low-threat conduct after great merit.
-- [卫青 / Wei Qing (Han general)](entities/WeiQingHanGeneral.md) — Western Han commander whose profile joins humility, credit-sharing, and source-attributed soldier empathy to elite remarriage, posthumous family risk, and the senior-command vacancy marked by his death.
+- [卫青 / Wei Qing (Han general)](entities/WeiQingHanGeneral.md) — Western Han commander whose profile joins early delegation to Huo Qubing, humility, credit-sharing, and source-attributed soldier empathy to elite remarriage, posthumous family risk, and the senior-command vacancy marked by his death.
 - [Dwarkesh Patel](entities/DwarkeshPatel.md) — Source-scoped media reference cited for the "agent civilizations" framing in the All-In AI-agent narrative discussion.
 - [Qianling Mountain Macaques / 黔灵山猕猴](entities/QianlingMountainMacaques.md) — Urban-park macaque population used by EP282 to connect tourism feeding, habituation, carrying capacity, bites, and relocation uncertainty.
 - [Nanjing Wild Boars / 南京野猪](entities/NanjingWildBoars.md) — Urban and peri-urban boar case where visibility gaps, crop damage, feeding risk, ecological role, and culling controversy intersect.
@@ -16582,6 +16583,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [知敌式备战 / Adversary-Knowledge Preparation](concepts/AdversaryKnowledgePreparation.md) — 把体能与武艺训练同敌方行动习惯、地形补给、内部人信息和地图推演结合，并把来源可信度与现代类比留作明确边界。
 - [Five-Forces Systemic Cycle](concepts/FiveForcesSystemicCycle.md) — Dalio framework for interacting debt, domestic conflict, great-power rivalry, technology, and natural shocks during changes in political and monetary order.
 - [Technology-Company Performance Gap](concepts/TechnologyCompanyPerformanceGap.md) — Distinction between economy-wide technological usefulness and the survival, profitability, or investor returns of companies building it.
 - [大厂 ROI 思维的创作外溢 / ROI-Mindset Creative Spillover](concepts/ROIMindsetCreativeSpillover.md) — Transfer of growth, return, and bad-case habits into creative decisions where premature calculation can suppress the experiments needed to discover fit.
