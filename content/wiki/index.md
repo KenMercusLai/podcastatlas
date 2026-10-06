@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷](sources/zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug.md) — 刘安奖赏符合帝王梦的情报并以家属胁迫反对者；劝谏一度阻止谋反，而对庶长子一支的排斥又把不满传到叔侄冲突。
+- [《资治通鉴·汉纪》302-2｜狂给老板泼冷水，伍被有多敢说？](sources/zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds.md) — 告发使淮南案进入正式调查后，伍被以刘濞败亡、人才被捕及秦汉政治环境不同，逐层否定刘安对起兵条件和陈胜吴广先例的判断。
 - [《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？](sources/zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc.md) — 伍被先判断诸侯、百姓均无反意，却提出伪造诏令制造恐慌的低胜算方案；刘安不断更换伪印、刺杀、纵火与假边警计划，最终在抓捕逼近时既无法动员也未能退出。
 - [《资治通鉴·汉纪》303-2｜《塞翁失马》的作者，是怎么死的？](sources/zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt.md) — 伍被供述使淮南谋反案进入逮捕与清算阶段；刘安自尽、王族受诛、封国被废，而“王犹豫，计未决”被限定为时机诊断而非早反必胜的反事实。
 - [《资治通鉴·汉纪》304-1｜古代如何做双面间谍？](sources/zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x.md) — 伍被在参与刘安谋划后才供出案件，雷被则因更早告发而脱身；节目以时机与张汤的威慑逻辑解释两种结局，同时保留“双面间谍”动机的推测边界。

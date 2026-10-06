@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt
   - zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc
   - zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug
+  - zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds
 last_updated: 2026-10-07
 ---
 
@@ -23,6 +24,8 @@ Liu An / 刘安 is a Western Han prince whose current wiki profile joins an inte
 [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997|Mihuan Chishu 87]] presents Liu An's circle as a knowledge-compilation world spanning philosophy, astronomy, calendars, technical lore, fangshu, and alchemy. Later storytelling converts the politically defeated prince into an immortal figure, so textual patronage, political catastrophe, and religious memory remain related but distinct layers.
 
 The political layer begins before those late plans. [[zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug|Hanji 302-1]] says Liu An rewards reports that the emperor lacks an heir or governs badly and becomes angry at contrary intelligence. When an adviser rendered as “吴皮” warns that rebellion will destroy the kingdom, Liu An allegedly imprisons the adviser's parents until he will discuss it. Comparison with Liu Bang's Qin-collapse opportunity and Liu Bi's later defeat temporarily stops Liu An, but not durably.
+
+[[zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds|Hanji 302-2]] supplies the renewed trigger and argument. Once a denunciation enters formal investigation, Liu An treats concealment as lost and shifts toward armed resistance. He answers Wu Bei's warning with a geography-heavy plan for passes, regional forces, recruitment, and allies, then treats Chen Sheng and Wu Guang's small beginning as proof that his claimed manpower is sufficient. Wu Bei's response exposes the missing variables: Huainan's leaders have already been removed, popular grievance is not comparable, and the central state and its commanders are stronger than the Qin-collapse precedent.
 
 The later planning proceeds from a poor strategic base. [[zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc|Hanji 303-1]] says [[WuBeiWesternHan|伍被]] saw neither princely support nor popular grievance and rated even a manufactured-crisis scheme at only one chance in ten. Liu An allegedly multiplied alternatives—false orders and seals, assassination, palace fire, a fabricated border emergency, and an official roundup—without forming a viable coalition or a settled operation. When only the kingdom chancellor answered the final summons, Liu An let him leave rather than begin an unsupported rising.
 
@@ -37,6 +40,7 @@ Hanji 302-1 also adds an internal household precondition. Liu An, his queen, and
 - Western Han prince and patron associated with a knowledge-compilation circle spanning philosophy, astronomy, calendars, technical lore, fangshu, and alchemy.
 - Ruler depicted as rewarding favorable political intelligence and coercing disconfirming counsel by imprisoning an adviser's parents.
 - Conspirator whose current source set depicts little princely or popular support before action.
+- Planner who overweights nominal manpower, passes, and analogies while underweighting leadership depletion, public incentives, and regime strength.
 - Planner who accumulates forged-authority, assassination, diversion, and mobilization schemes without a stable execution rule.
 - Royal leader unable to secure attendance from his own senior officials at the final mobilization attempt.
 - Prince whose inner circle produces early denunciation and late confession while unequal treatment of sons contributes to an internal rival-branch conflict.
@@ -48,6 +52,7 @@ Knowledge compilation and later reception:
 
 Strategic base and operational failure:
 - [[zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug|Hanji 302-1]] supplies selective acceptance of intelligence, coercion of an adviser, comparative warning from Qin collapse and the Seven States, and Liu An's temporary retreat.
+- [[zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds|Hanji 302-2]] supplies the formal-investigation trigger, Liu An's pass-and-force plan, his Chen Sheng–Wu Guang analogy, and Wu Bei's leadership, popular-support, and regime-capacity rebuttal.
 - [[zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc|Hanji 303-1]] supplies Wu Bei's negative support assessment, the one-in-ten estimate, Liu An's changing schemes, and the failed summons of senior kingdom officials.
 - [[zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt|Hanji 303-2]] interprets the resulting loss of initiative through “王犹豫，计未决” while preserving uncertainty about whether earlier action could have succeeded.
 
@@ -62,13 +67,12 @@ Household fracture:
 
 ## Qualifications
 
-The current sources do not reconstruct Liu An's full biography, the Huainanzi's composition layers, or a primary-text legal dossier for the rebellion. Hanji 302-1's reactions, coercion, troop comparison, temporary retreat, and household motives remain episode-attributed; its “吴皮” spelling is treated as a likely but unproved reference to Wu Bei, and the nephew's name is unresolved. Hanji 303-1's dialogue, schemes, corruptibility judgments, motives, and odds also remain episode-attributed. Its evidence of weak support qualifies the later claim that faster action might have saved Liu An: a lost window and a viable path to victory are not the same. Hanji 304-1's double-agent theory, Hanji 303-2's singular “author of 塞翁失马” title, and later immortality traditions likewise remain bounded interpretations rather than settled biography.
+The current sources do not reconstruct Liu An's full biography, the Huainanzi's composition layers, or a primary-text legal dossier for the rebellion. Hanji 302-1's reactions, coercion, troop comparison, temporary retreat, and household motives remain episode-attributed; its “吴皮” spelling is treated as a likely but unproved reference to Wu Bei, and the nephew's name is unresolved. Hanji 302-2's denunciation path, speeches, route plan, forces, arrest history, public-support judgment, and commander comparison also remain episode-attributed. Its “刘建” is not merged with the existing Jiangdu king of that name. Hanji 303-1's dialogue, schemes, corruptibility judgments, motives, and odds remain source-scoped. The joined evidence of weak support qualifies the later claim that faster action might have saved Liu An: a lost window and a viable path to victory are not the same. Hanji 304-1's double-agent theory, Hanji 303-2's singular “author of 塞翁失马” title, and later immortality traditions likewise remain bounded interpretations rather than settled biography.
 
 ## What Changed
 
-- The rebellion profile now begins with selective intelligence and coerced counsel before later plan proliferation.
-- The adviser comparison shows Liu An temporarily responding to disconfirming evidence without sustaining the correction.
-- Household favoritism now links Liu An's strategic crisis to conflict between the crown-prince and marginalized elder-son branches.
+- The profile now connects formal investigative exposure to Liu An's return from temporary retreat into armed-resistance planning.
+- His strategic error is sharpened from general plan proliferation to a specific overreliance on terrain, nominal manpower, and decontextualized rebellion precedents.
 
 ## Relationships
 

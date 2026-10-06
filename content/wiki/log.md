@@ -31130,3 +31130,11 @@ Added source `zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-k
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》302-2｜狂给老板泼冷水，伍被有多敢说？
+
+Added source `zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds`; resynthesized [[LiuAn|淮南王刘安]], [[WuBeiWesternHan|伍被]], [[LiuQianHuainanCrownPrinceWesternHan|淮南太子刘迁]], and [[HistoricalAnalogyLimits]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: formal investigation turns Liu An back toward armed resistance, but Wu Bei rejects his geography, manpower, and precedent case by comparing Liu Bi's destruction, Huainan's depleted leadership, the absence of Qin-style popular grievance, and the stronger Han regime and command environment. No settled contradiction was adopted. The letter, Shen Qing's role and motive, dialogue, routes, forces, arrests, popular support, and commander comparisons remain source-scoped; the source's “刘建” is not merged with [[LiuJianJiangduKingWesternHan|江都王刘建]]. Broad [[HanWudi]], [[GongsunHong]], [[LiuBiWuKing]], [[ChenSheng]], [[WuGuang]], and series pages were kept closed because the focused source, Huainan profiles, and analogy concept capture the bounded addition without rewriting their larger or legacy evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,892 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

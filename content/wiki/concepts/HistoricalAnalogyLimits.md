@@ -6,7 +6,8 @@ sources:
   - 11-brexit-glt9171248177
   - 7-the-lessons-of-history-glt2771707131
   - 4-were-all-so-17th-century-glt1251829896
-last_updated: 2026-10-04
+  - zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,9 +27,11 @@ Severity calibration adds a further test. Epidemic fear, political polarization,
 
 Analogy is therefore a structured comparison rather than a hunt for a matching story. The analyst identifies a shared dimension, preserves differences in scale, culture, evidence, institutions, and context, and separates an event's later public memory from its operational history. Several partial mirrors can explain why a political narrative resonates even when none predicts policy outcomes.
 
+The actor-level strategic case in [[zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds|Hanji 302-2]] sharpens the same method. Liu An treats troop numbers and famous uprisings as portable proof; Wu Bei instead compares popular grievance, available leaders, regime legitimacy, and opposing commanders. The same rebel label therefore cannot make Qin collapse, the Seven States, and Huainan interchangeable decision environments.
+
 ## Key Claims
 
-- A useful analogy names the specific mechanism being compared.
+- A useful analogy names the specific mechanism and matches actor capacity, public incentives, regime strength, and opposing leadership rather than relying on a shared label or nominal troop count.
 - Similarity on one dimension does not establish equivalence across causes, institutions, scale, or consequences.
 - Reverse analogies can still clarify a problem when the direction of exclusion or desired relationship differs.
 - Public memory may explain an analogy's political force even when the remembered story simplifies the event.
@@ -62,14 +65,18 @@ Analogy is therefore a structured comparison rather than a hunt for a matching s
 
 - [[4-were-all-so-17th-century-glt1251829896]] compares epidemic fear, pamphlet conflict, religious polarization, political ancestry, and scapegoating while using seventeenth-century plague and civil-war mortality to reject crisis equivalence.
 
+### Rebellion precedent and decision conditions
+
+- [[zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds|Hanji 302-2]] has Wu Bei reject Liu An's use of Liu Bi and Chen Sheng–Wu Guang by comparing leadership depletion, popular grievance, regime capacity, and commander quality.
+
 ## Counterevidence & Qualifications
 
-The sources are conversational historical surveys rather than formal comparative-method studies. Their chosen cases are selective, compressed, and centered on British, European, and military-political memory. Civil War–Brexit maps, Little Ice Age comparison, Scottish religious inheritance, witch-hunt analogy, and casualty figures remain episode-level prompts rather than demonstrated equivalences. Saying that no analogy is exact does not make all comparisons equally useful: evidentiary quality, causal relevance, proportionality, and explicit treatment of differences still determine whether an analogy informs or misleads.
+The sources are conversational historical surveys rather than formal comparative-method studies. Their chosen cases are selective and compressed. Civil War–Brexit maps, Little Ice Age comparison, Scottish religious inheritance, witch-hunt analogy, and casualty figures remain episode-level prompts rather than demonstrated equivalences. Hanji 302-2's reconstructed speeches, political conditions, force estimates, and commander comparison are likewise source-scoped; the page adopts the comparison method, not every factual premise in Wu Bei's argument. Saying that no analogy is exact does not make all comparisons equally useful: evidentiary quality, causal relevance, proportionality, and explicit treatment of differences still determine whether an analogy informs or misleads.
 
 ## What Changed
 
-- Added severity calibration: recurring mechanisms must be separated from mortality, violence, and institutional consequence.
-- Added contrast as a positive use of analogy rather than treating disanalogy only as a limitation.
+- Added strategic condition matching across actor capacity, popular incentives, regime strength, and opposing leadership.
+- Added a premodern decision case in which disanalogy is itself the core of corrective advice.
 
 ## Related Concepts
 

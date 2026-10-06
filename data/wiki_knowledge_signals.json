@@ -104003,9 +104003,9 @@
       "url": "/wiki/concepts/historicalambiguityinmainstreamcinema/"
     },
     "HistoricalAnalogyLimits": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9171248177 [GLT9171248177].md",
@@ -104027,9 +104027,16 @@
           "show": "The Rest Is History",
           "title": "4. We’re all so 17th Century",
           "url": "/wiki/sources/4-were-all-so-17th-century-glt1251829896/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》302-2｜狂给老板泼冷水，伍被有多敢说？ [llp7lwBpkj16W0Rme6P-Qs9jRjds].md",
+          "key": "zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》302-2｜狂给老板泼冷水，伍被有多敢说？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds/"
         }
       ],
-      "updated": "2026-10-04",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/historicalanalogylimits/"
     },
     "HistoricalCatastropheNarrativeEthics": {
@@ -135622,9 +135629,9 @@
       "url": "/wiki/concepts/lithiumbipolartreatment/"
     },
     "LiuAn": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
@@ -135674,6 +135681,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷",
           "url": "/wiki/sources/zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》302-2｜狂给老板泼冷水，伍被有多敢说？ [llp7lwBpkj16W0Rme6P-Qs9jRjds].md",
+          "key": "zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》302-2｜狂给老板泼冷水，伍被有多敢说？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds/"
         }
       ],
       "updated": "2026-10-07",
@@ -137496,9 +137510,9 @@
       "url": "/wiki/entities/liuqilatehan/"
     },
     "LiuQianHuainanCrownPrinceWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》304-1｜古代如何做双面间谍？ [lu05uaXP5B_BuVl5go2bn7iy9q_x].md",
@@ -137527,6 +137541,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷",
           "url": "/wiki/sources/zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》302-2｜狂给老板泼冷水，伍被有多敢说？ [llp7lwBpkj16W0Rme6P-Qs9jRjds].md",
+          "key": "zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》302-2｜狂给老板泼冷水，伍被有多敢说？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds/"
         }
       ],
       "updated": "2026-10-07",
@@ -240877,9 +240898,9 @@
       "url": "/wiki/concepts/writinginstrumentevolution/"
     },
     "WuBeiWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》304-1｜古代如何做双面间谍？ [lu05uaXP5B_BuVl5go2bn7iy9q_x].md",
@@ -240908,6 +240929,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷",
           "url": "/wiki/sources/zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》302-2｜狂给老板泼冷水，伍被有多敢说？ [llp7lwBpkj16W0Rme6P-Qs9jRjds].md",
+          "key": "zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》302-2｜狂给老板泼冷水，伍被有多敢说？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds/"
         }
       ],
       "updated": "2026-10-07",
