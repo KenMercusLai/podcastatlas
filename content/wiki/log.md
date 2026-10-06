@@ -31146,3 +31146,11 @@ Added source `vol-197-kafei-shi-gaolidai-shuimian-shi-chuxuka-zhejie-dagongrende
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机
+
+Added source `no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6`; created [[MengYangStandup|梦阳 / 孟阳]] and [[ROIMindsetCreativeSpillover|大厂 ROI 思维的创作外溢]]; migrated and resynthesized [[TencentWeishi|腾讯微视]]; and extended [[LiuFei|刘飞]], [[SanWuHuan|三五环]], [[StandupComedyIteration]], and [[ExperimentalLifeDesign]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: ROI, growth, and bad-case reasoning remain useful organizational tools but can become premature creative filters; bounded action, live feedback, repeated publishing, and willingness to redesign one's life generate information that planning alone cannot supply. No settled contradiction was adopted. The 孟阳/梦阳 spelling, 微视 DAU, internal company judgments, platform timing, and career-causality claims remain source-scoped; sympathy for resignation is preserved as personal experience rather than universal advice. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,894 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

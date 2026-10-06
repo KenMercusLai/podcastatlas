@@ -16,7 +16,8 @@ sources:
   - no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3
   - no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper
   - no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax
-last_updated: 2026-10-06
+  - no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -48,6 +49,8 @@ The [[SecondDayMoneyEvolution|《第二天金钱进化论》]] episode adds Liu'
 
 The No.219 solo episode adds Liu's own technology-analysis voice rather than an interviewer role. He decomposes [[OpenClaw]] into product mechanics, workflow fit, cost, security, labor effects, and long-term human agency, then uses [[DelegatedAgentInteraction]] to separate useful execution delegation from surrendering goals, judgment, or responsibility.
 
+The Mengyang episode adds Liu's creator and career-experiment voice. With [[MengYangStandup|梦阳 / 孟阳]], he uses his own attempts at tea, training, consulting, and podcasting to distinguish plans that remain intellectually plausible from work that produces durable excitement and feedback. His account of [[Banlatte|半拿铁]] and earlier podcasting also makes platform timing and content scarcity part of career opportunity, qualifying retrospective stories that make success look fully designed.
+
 ## Key Characteristics
 - He connects internet product experience with long-form podcast interviewing.
 - He is associated with both [[Banlatte|半拿铁]] and [[SanWuHuan|三五环]] in the wiki's source set.
@@ -73,12 +76,14 @@ The No.219 solo episode adds Liu's own technology-analysis voice rather than an 
 - Technology-community interviewing - [[no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni]] has Liu interview [[LaoMaiSspai|老麦 / Michael]] about [[Palm]], [[WebOS|webOS]], [[ZhiJiWang|主机网]], [[Sspai|少数派]], [[NicheCommunityValue|小众社区价值]], product co-creation, and AI-era human experience.
 - Wealth-after-success interviewing - [[no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper]] has Liu interview [[FangYanWealth|方言]] about [[SecondDayMoneyEvolution|《第二天金钱进化论》]], [[SuddenWealthRepovertyRisk]], lifestyle inflation, family stability, and wealth as time freedom.
 - Agent-product solo analysis - [[no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax]] has Liu assess [[OpenClaw]] through adoption fit, delegated work, token economics, permissions, security, labor change, and human decision authority.
+- Creator and career experimentation - [[no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6]] has Liu compare planned business and training attempts with the unpredicted feedback, platform timing, and sustained interest behind podcasting and 半拿铁.
 
 ## Qualifications
 The wiki profile is source-limited to podcast appearances and does not attempt a full biography. Liu Fei is distinct from [[LiuFeiQiKing|刘肥]], the historical Qi king page with a semantic suffix.
 
 ## What Changed
 - Added No.219 as evidence of Liu's solo product-analysis voice on agents, workflow value, risk, and human agency.
+- Added his creator-side account of action-generated career knowledge, unpredictable podcast returns, and platform timing.
 
 ## Relationships
 - [[Banlatte|半拿铁]] - cohost and business-storytelling context.
@@ -122,3 +127,6 @@ The wiki profile is source-limited to podcast appearances and does not attempt a
 - [[SuddenWealthRepovertyRisk]] - wealth-risk concept Liu helps unpack in the Fang Yan episode.
 - [[OpenClaw]] - personal-agent case Liu evaluates in the No.219 solo episode.
 - [[DelegatedAgentInteraction]] - question-to-delegation shift Liu frames while retaining human accountability.
+- [[MengYangStandup|梦阳 / 孟阳]] - guest with whom Liu compares large-company habits, freelancing, stand-up, and creator careers.
+- [[ROIMindsetCreativeSpillover|大厂 ROI 思维的创作外溢]] - career and creative-choice problem Liu helps frame through his own experiments.
+- [[ExperimentalLifeDesign]] - iterative path-discovery frame supported by Liu's tea, training, consulting, and podcast examples.

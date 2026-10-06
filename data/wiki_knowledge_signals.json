@@ -74923,9 +74923,9 @@
       "url": "/wiki/concepts/experientialstatistics/"
     },
     "ExperimentalLifeDesign": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Advice Line with Tim Ferriss (August 2025) [84f10963-70ff-444d-87df-cfedab442943].md",
@@ -74940,9 +74940,16 @@
           "show": "Huberman Lab",
           "title": "How to Learn Better & Create Your Best Future | Tim Ferriss",
           "url": "/wiki/sources/how-to-learn-better-create-your-best-future-tim-ferriss-scim6518415604/"
+        },
+        {
+          "episode_file": "GKwRIJENeMmyAtrZ5gRxxLQ6 [GKwRIJENeMmyAtrZ5gRxxLQ6].md",
+          "key": "no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6",
+          "show": "三五环",
+          "title": "No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机",
+          "url": "/wiki/sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/experimentallifedesign/"
     },
     "ExpertRubricVerification": {
@@ -136486,9 +136493,9 @@
       "url": "/wiki/entities/liufanglatehan/"
     },
     "LiuFei": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 2,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -136580,9 +136587,16 @@
           "show": "三五环",
           "title": "No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？",
           "url": "/wiki/sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax/"
+        },
+        {
+          "episode_file": "GKwRIJENeMmyAtrZ5gRxxLQ6 [GKwRIJENeMmyAtrZ5gRxxLQ6].md",
+          "key": "no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6",
+          "show": "三五环",
+          "title": "No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机",
+          "url": "/wiki/sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/liufei/"
     },
     "LiuFeiJiangduKingWesternHan": {
@@ -151705,6 +151719,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/mengyan/"
+    },
+    "MengYangStandup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJENeMmyAtrZ5gRxxLQ6 [GKwRIJENeMmyAtrZ5gRxxLQ6].md",
+          "key": "no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6",
+          "show": "三五环",
+          "title": "No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机",
+          "url": "/wiki/sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/mengyangstandup/"
     },
     "MengYunEasternHan": {
       "episode_count": 2,
@@ -187288,6 +187318,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/rocm/"
     },
+    "ROIMindsetCreativeSpillover": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJENeMmyAtrZ5gRxxLQ6 [GKwRIJENeMmyAtrZ5gRxxLQ6].md",
+          "key": "no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6",
+          "show": "三五环",
+          "title": "No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机",
+          "url": "/wiki/sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/roimindsetcreativespillover/"
+    },
     "RP1Robot": {
       "episode_count": 1,
       "show_count": 1,
@@ -198393,9 +198439,9 @@
       "url": "/wiki/entities/sanjosecalifornia/"
     },
     "SanWuHuan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 2,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -198487,9 +198533,16 @@
           "show": "三五环",
           "title": "No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？",
           "url": "/wiki/sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax/"
+        },
+        {
+          "episode_file": "GKwRIJENeMmyAtrZ5gRxxLQ6 [GKwRIJENeMmyAtrZ5gRxxLQ6].md",
+          "key": "no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6",
+          "show": "三五环",
+          "title": "No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机",
+          "url": "/wiki/sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/sanwuhuan/"
     },
     "SandalsResorts": {
@@ -211888,9 +211941,9 @@
       "url": "/wiki/concepts/standupclasspositionequalization/"
     },
     "StandupComedyIteration": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7538555033 [SCIM7538555033].md",
@@ -211905,9 +211958,16 @@
           "show": "罗永浩的十字路口",
           "title": "杨笠×罗永浩！不想成为“靶心”，也无意成为“灯塔”",
           "url": "/wiki/sources/yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo/"
+        },
+        {
+          "episode_file": "GKwRIJENeMmyAtrZ5gRxxLQ6 [GKwRIJENeMmyAtrZ5gRxxLQ6].md",
+          "key": "no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6",
+          "show": "三五环",
+          "title": "No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机",
+          "url": "/wiki/sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/standupcomedyiteration/"
     },
     "StanfordInstituteForHumanCenteredAI": {
@@ -220338,6 +220398,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/tenantscreeningevictionbackfire/"
+    },
+    "TencentWeishi": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集 [lvgLR_jWS7o7utJaUXnOQqaSJ91D].md",
+          "key": "touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d",
+          "show": "乱翻书",
+          "title": "头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集",
+          "url": "/wiki/sources/touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d/"
+        },
+        {
+          "episode_file": "GKwRIJENeMmyAtrZ5gRxxLQ6 [GKwRIJENeMmyAtrZ5gRxxLQ6].md",
+          "key": "no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6",
+          "show": "三五环",
+          "title": "No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机",
+          "url": "/wiki/sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/tencentweishi/"
     },
     "TencentWorkBuddy": {
       "episode_count": 4,

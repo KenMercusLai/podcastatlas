@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机](sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6.md) — 三五环 conversation with 梦阳 and 刘飞 on nonlinear careers, 腾讯微视, stand-up feedback, corporate ROI habits, repeated creative action, and freelance uncertainty.
 - [VOL.197咖啡是高利贷，睡眠是储蓄卡：这届打工人的“春困”自救指南](sources/vol-197-kafei-shi-gaolidai-shuimian-shi-chuxuka-zhejie-dagongrende-chunkun-zijiu-zhinan-lkcj1kymw09hwvfcbwcr-noydrad.md) — 这病说来话长 episode with 阿汤 and 董飞 on daytime-sleepiness triage, sleep, caffeine, short rest, gentle movement, spring TCM boundaries, and metabolic-health escalation.
 - [《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷](sources/zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug.md) — 刘安奖赏符合帝王梦的情报并以家属胁迫反对者；劝谏一度阻止谋反，而对庶长子一支的排斥又把不满传到叔侄冲突。
 - [《资治通鉴·汉纪》302-2｜狂给老板泼冷水，伍被有多敢说？](sources/zizhi-tongjian-hanji-302-2-kuang-gei-laoban-po-lengshui-wubei-you-duo-gan-shuo-llp7lwbpkj16w0rme6p-qs9jrjds.md) — 告发使淮南案进入正式调查后，伍被以刘濞败亡、人才被捕及秦汉政治环境不同，逐层否定刘安对起兵条件和陈胜吴广先例的判断。
@@ -3959,6 +3960,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [梦阳 / 孟阳](entities/MengYangStandup.md) — Stand-up comedian and short-video creator whose nonlinear path through audit and internet operations grounds the episode's creative-fit and uncertainty discussion.
 - [刘不亥 / Liu Buhai (Western Han)](entities/LiuBuhaiWesternHan.md) — 刘安家中受冷落的庶长子，其子因父亲待遇而与太子刘迁一支冲突。
 - [王衍 / Wang Yan (Former Shu)](entities/WangYanFormerShu.md) — 前蜀末代统治者；其乾德年号在来源中成为北宋同名年号乌龙的历史前件。
 - [孟昶 / Meng Chang (Later Shu)](entities/MengChangLaterShu.md) — 后蜀末代统治者，在来源中连接宋朝征服、花蕊夫人入宋宫与乾德铜镜叙事。
@@ -16577,6 +16579,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [大厂 ROI 思维的创作外溢 / ROI-Mindset Creative Spillover](concepts/ROIMindsetCreativeSpillover.md) — Transfer of growth, return, and bad-case habits into creative decisions where premature calculation can suppress the experiments needed to discover fit.
 - [Daytime Sleepiness Triage and Recovery / 日间困倦分流与恢复](concepts/DaytimeSleepinessTriageAndRecovery.md) — Separates mild transient tiredness from persistent or warning-sign sleepiness and distinguishes short-term stimulation from recovery or cause-based assessment.
 - [年号制度 / Era-Name System](concepts/EraNameSystem.md) — 以君主或朝廷所定名号纪年，并把时间标准化、政治权威、合法性记忆与跨政权比较成本结合起来的制度。
 - [谋而不断式时机丧失 / Planning-Without-Decision Timing Loss](concepts/PlanningWithoutDecisionTimingLoss.md) — 已承担暴露风险却持续追求确定性，使资源、保密、主动权或行动窗口在决断前流失的失败模式。

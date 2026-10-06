@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12566
+wiki_total_pages: 12567
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -291,7 +291,7 @@ wiki_pages:
     title: "Tencent TEG"
     url: "/wiki/entities/tencentteg/"
   - key: "TencentWeishi"
-    title: "Tencent Weishi"
+    title: "Tencent Weishi / 腾讯微视"
     url: "/wiki/entities/tencentweishi/"
   - key: "TencentWorkBody"
     title: "Tencent WorkBody"

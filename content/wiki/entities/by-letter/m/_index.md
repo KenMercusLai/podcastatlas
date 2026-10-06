@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12566
+wiki_total_pages: 12567
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1952,6 +1952,9 @@ wiki_pages:
   - key: "Mengqi"
     title: "梦琪 / Mengqi"
     url: "/wiki/entities/mengqi/"
+  - key: "MengYangStandup"
+    title: "梦阳 / 孟阳"
+    url: "/wiki/entities/mengyangstandup/"
   - key: "MoriBuichi"
     title: "森布一"
     url: "/wiki/entities/moribuichi/"

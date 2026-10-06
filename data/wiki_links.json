@@ -54587,6 +54587,10 @@
     "title": "Meng Yan / 孟岩",
     "url": "/wiki/entities/mengyan/"
   },
+  "MengYangStandup": {
+    "title": "梦阳 / 孟阳",
+    "url": "/wiki/entities/mengyangstandup/"
+  },
   "MengYi": {
     "title": "孟依",
     "url": "/wiki/entities/mengyi/"
@@ -67403,6 +67407,10 @@
     "title": "ROCm",
     "url": "/wiki/entities/rocm/"
   },
+  "ROIMindsetCreativeSpillover": {
+    "title": "大厂 ROI 思维的创作外溢 / ROI-Mindset Creative Spillover",
+    "url": "/wiki/concepts/roimindsetcreativespillover/"
+  },
   "RP1Robot": {
     "title": "RP1 Robot",
     "url": "/wiki/entities/rp1robot/"
@@ -79556,7 +79564,7 @@
     "url": "/wiki/entities/tencentvideo/"
   },
   "TencentWeishi": {
-    "title": "Tencent Weishi",
+    "title": "Tencent Weishi / 腾讯微视",
     "url": "/wiki/entities/tencentweishi/"
   },
   "TencentWorkBody": {
@@ -96638,6 +96646,10 @@
   "no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666": {
     "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
     "url": "/wiki/sources/no-217-ningbo-wangshi-cong-fangtai-dao-shenzhou-cong-youyanji-dao-zhongguo-zui-da-fuzhuang-daigong-jutou-1010906666/"
+  },
+  "no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6": {
+    "title": "No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机",
+    "url": "/wiki/sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6/"
   },
   "no-218-o2o-yu-gongxiangjingji-shuyu-danche-chongdianbao-shangmenmeijia-he-anmo-de-mohuan-saqian-niandai-1013073318": {
     "title": "No.218 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代",

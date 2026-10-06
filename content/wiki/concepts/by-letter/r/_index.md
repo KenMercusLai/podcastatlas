@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 9795
+wiki_total_pages: 9796
 wiki_pages:
   - key: "RabiesExposurePostExposureCare"
     title: "Rabies Exposure and Post-Exposure Care / 狂犬病暴露与暴露后处置"
@@ -1421,6 +1421,9 @@ wiki_pages:
   - key: "RespiratorySymptomTriage"
     title: "呼吸道症状分诊 / Respiratory Symptom Triage"
     url: "/wiki/concepts/respiratorysymptomtriage/"
+  - key: "ROIMindsetCreativeSpillover"
+    title: "大厂 ROI 思维的创作外溢 / ROI-Mindset Creative Spillover"
+    url: "/wiki/concepts/roimindsetcreativespillover/"
   - key: "RoyalKinshipScandalAdjudication"
     title: "宗室亲属丑闻审理 / Royal Kinship Scandal Adjudication"
     url: "/wiki/concepts/royalkinshipscandaladjudication/"
