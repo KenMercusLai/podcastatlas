@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3147
+topic_total_pages: 3148
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -3964,6 +3964,9 @@ topic_concepts:
   - key: "SupplyChainSovereignty"
     title: "Supply Chain Sovereignty"
     url: "/wiki/concepts/supplychainsovereignty/"
+  - key: "SurrenderedForceDispersal"
+    title: "Surrendered Force Dispersal / 降部拆分安置"
+    url: "/wiki/concepts/surrenderedforcedispersal/"
   - key: "SurrogacyPolicyHypocrisy"
     title: "Surrogacy Policy Hypocrisy"
     url: "/wiki/concepts/surrogacypolicyhypocrisy/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12533
+wiki_total_pages: 12534
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1448,6 +1448,9 @@ wiki_pages:
   - key: "HexiFourCommanderiesLateHan"
     title: "河西四郡 / Hexi Four Commanderies (Late Han)"
     url: "/wiki/entities/hexifourcommanderieslatehan/"
+  - key: "HexiCorridorWesternHan"
+    title: "河西走廊 / Hexi Corridor (Western Han)"
+    url: "/wiki/entities/hexicorridorwesternhan/"
   - key: "HongLiangji"
     title: "洪亮吉 / Hong Liangji"
     url: "/wiki/entities/hongliangji/"

@@ -102757,6 +102757,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/hetuluoshu/"
     },
+    "HexiCorridorWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王 [llyk4I76IzMXE_El_eWpbBAyQQ5I].md",
+          "key": "zizhi-tongjian-hanji-315-1-hanwudi-gao-qiangchai-yiju-shoufu-xiongnu-wang-llyk4i76izmxe_el_ewpbbayqq5i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-315-1-hanwudi-gao-qiangchai-yiju-shoufu-xiongnu-wang-llyk4i76izmxe_el_ewpbbayqq5i/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/hexicorridorwesternhan/"
+    },
     "HexiFourCommanderiesLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -109522,9 +109538,9 @@
       "url": "/wiki/entities/hundredyearswar/"
     },
     "HunyeKingWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人 [ljB-oCShiaUHvyra88ayKkQlXKAk].md",
@@ -109539,6 +109555,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》313-1｜独闯虎穴！霍去病受降浑邪王",
           "url": "/wiki/sources/zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王 [llyk4I76IzMXE_El_eWpbBAyQQ5I].md",
+          "key": "zizhi-tongjian-hanji-315-1-hanwudi-gao-qiangchai-yiju-shoufu-xiongnu-wang-llyk4i76izmxe_el_ewpbbayqq5i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-315-1-hanwudi-gao-qiangchai-yiju-shoufu-xiongnu-wang-llyk4i76izmxe_el_ewpbbayqq5i/"
         }
       ],
       "updated": "2026-10-07",
@@ -215543,6 +215566,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/surrendertrustbreakdown/"
+    },
+    "SurrenderedForceDispersal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王 [llyk4I76IzMXE_El_eWpbBAyQQ5I].md",
+          "key": "zizhi-tongjian-hanji-315-1-hanwudi-gao-qiangchai-yiju-shoufu-xiongnu-wang-llyk4i76izmxe_el_ewpbbayqq5i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-315-1-hanwudi-gao-qiangchai-yiju-shoufu-xiongnu-wang-llyk4i76izmxe_el_ewpbbayqq5i/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/surrenderedforcedispersal/"
     },
     "SurrenderedLocalMessengerPacification": {
       "episode_count": 1,

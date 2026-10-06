@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王](sources/zizhi-tongjian-hanji-315-1-hanwudi-gao-qiangchai-yiju-shoufu-xiongnu-wang-llyk4i76izmxe_el_ewpbbayqq5i.md) — 浑邪王旧部被拆分到五个边郡属国，在保留习俗的同时接受汉官监督并承担前线功能；河西由此成为西进基地，但四郡设置年代保持争议。
 - [《资治通鉴·汉纪》313-1｜独闯虎穴！霍去病受降浑邪王](sources/zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395.md) — 霍去病在联合归降破裂后，以威慑、封赏、借力执行、分离首领与迅速南迁稳住尚可反复的浑邪王部众。
 - [《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人](sources/zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak.md) — 浑邪王归降后，迎接所需车马、赏赐与劳役把对外信誉转成民间负担；汲黯又以情境化法律批评五百余名商人的死刑判决。
 - [EP 29: The Pentagon Showdown: OpenAI vs Anthropic and the Soul of AI](sources/ep-29-the-pentagon-showdown-openai-vs-anthropic-and-the-soul-of-ai.md) — Data Science With Sam on Anthropic's reported Pentagon exclusion, OpenAI's replacement deal, surveillance and autonomous-weapons red lines, litigation, public backlash, and the legitimacy gap in closed military-AI bargaining.
@@ -3930,6 +3931,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today](sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195.md) — Tomorrow Today interview on a cliff-fall survival ordeal, acceptance without passivity, fear as information, one-metre action, self-trust, and the limits of “no Plan B.”
 
 ## Entities
+- [河西走廊 / Hexi Corridor (Western Han)](entities/HexiCorridorWesternHan.md) — 浑邪王归降后成为汉朝向西域推进的战略基地，四郡建置年代仍有史料与学术争议。
 - [昆明池 / Kunming Pool (Western Han)](entities/KunmingPoolWesternHan.md) — 汉武帝时期长安西南的复合型水利与军事工程，也以牵牛织女石像和天河布局成为帝国景观与传说物质化的交汇点。
 - [胶东王刘寄 / Liu Ji, Jiaodong King (Western Han)](entities/LiuJiJiaodongKingWesternHan.md) — 淮南王谋反案后受牵连、未定继承人即病亡，其两子因汉武帝的亲缘与怜悯获得王位安排的西汉宗室王。
 - [Peter Steinberger](entities/PeterSteinberger.md) — Developer and founder whom Data Science With Sam identifies as OpenClaw's creator and a later OpenAI hire.
@@ -16515,6 +16517,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Surrendered Force Dispersal / 降部拆分安置](concepts/SurrenderedForceDispersal.md) — 将归降武装拆分至多个受监督的前线社区，在保留部分内部习俗的同时限制重新集结并转化为边防能力。
 - [Crisis Surrender Stabilization / 危机受降稳控](concepts/CrisisSurrenderStabilization.md) — 通过威慑、选择性奖赏、借力执行、分离首领与迅速迁移，把尚可反复的武装归降转为可控移动。
 - [Georgian Literary Labor and Patronage](concepts/GeorgianLiteraryLaborAndPatronage.md) — Mixed authorship system joining commercial print, commissioned work, collaboration, sponsorship, debt, theatre, and public pension.
 - [Military Success, Political Failure](concepts/MilitarySuccessPoliticalFailure.md) — Strategic mismatch in which target destruction or regime defeat fails to produce a legitimate, governable, or sustainable political order.

@@ -30912,3 +30912,11 @@ Added source `default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王
+
+Added source `zizhi-tongjian-hanji-315-1-hanwudi-gao-qiangchai-yiju-shoufu-xiongnu-wang-llyk4i76izmxe_el_ewpbbayqq5i`; created [[SurrenderedForceDispersal|降部拆分安置]] and [[HexiCorridorWesternHan|西汉河西走廊]]; and resynthesized [[HunyeKingWesternHan|浑邪王]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the episode extends the surrender chain from battlefield stabilization and costly reception into long-term force fragmentation, Han supervision, retained customs, front-line placement, and claimed reduction in border pressure, while separating Hexi's strategic consolidation from the unresolved dates of the four commanderies. No settled contradiction was adopted. The five communities' legal form, autonomy, voluntariness, population and command chain; “以夷制夷”; the 900-kilometre and 150,000-square-kilometre figures; security causation; and all commandery dates remain episode-attributed or contested. Broad [[HanWudi|汉武帝]], [[Xiongnu|匈奴]], and [[HuoQubing|霍去病]] pages were kept closed because the bounded additions are represented in focused canonical pages and the source note. The unnamed entrusted-minister teaser was not used as direct evidence for [[JinMidiWesternHan|金日磾]]. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts cover 3,865 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
