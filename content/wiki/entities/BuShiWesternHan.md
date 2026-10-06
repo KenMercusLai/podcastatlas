@@ -9,6 +9,7 @@ sources:
   - zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p
   - zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk
   - zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd
+  - zizhi-tongjian-hanji-322-2-xihan-daji-toushui-weihe-shi-shangren-qingjia-dangchan-lta-z0gqth1wlzn4feev1h4s8vh
 last_updated: 2026-10-06
 ---
 
@@ -28,6 +29,8 @@ Hanji 323-2 and 353-2 then overlap on public military commitment. Both say Bu Sh
 
 Hanji 357-2 says Bu Shi rose from sheep herding and commerce into high office and was made Yushi Dafu, then objected that state iron tools could be poor yet compulsory, while junshu-pingzhun and transport-related burdens raised prices and hurt ordinary people. Wudi moved him to the Taizi Taifu post under the stated reason that he was “不善文辞,” replacing him with [[NiKuanWesternHan|兒宽]].
 
+Hanji 322-2 independently places the same transfer inside renewed [[RewardedDenunciationFiscalEnforcement|告缗式奖励告发财政执法]] but gives a different causal account: it says Bu Shi concealed assets and was demoted despite his earlier contribution. The supplied summaries agree on the office movement but do not reconcile hidden property, policy criticism, the formal “不善文辞” explanation, or their possible combination. The new source therefore adds an explicit conflict rather than replacing the existing account.
+
 Hanji 362-2 later sharpens the same position. Bu Shi argues that court support should come from taxation rather than officials occupying market shops and seeking profit, then says Heaven will send rain only after Sang Hongyang is cooked. The two sources make his criticism more than a single outburst: he distinguishes fiscal capacity from household welfare and treats official commerce as both an incentive and legitimacy problem. They do not establish every office date, policy effect, or private motive.
 
 ## Key Characteristics
@@ -36,8 +39,8 @@ Hanji 362-2 later sharpens the same position. Bu Shi argues that court support s
 - Voluntary donor whose war offer first meets institutional suspicion, while later relief and returned reward make his public motive more credible.
 - Practical administrator whose Shanglin work and reported county results convert familiar craft knowledge into an office path.
 - Patriotic elite-service exemplar whose later Nanyue offer is publicly rewarded but fails to produce wider volunteering.
-- Yushi Dafu who criticizes the household effects of salt-iron and junshu-pingzhun implementation.
-- Critic of poor compulsory goods, transport burdens, price increases, and officials pursuing ordinary market profit.
+- Yushi Dafu who criticizes poor compulsory goods, transport burdens, price increases, official market profit, and the household effects of salt-iron and junshu-pingzhun implementation.
+- Official whose transfer to Taizi Taifu has conflicting source explanations: fiscal remonstrance and stated literary weakness versus concealed property during告缗.
 - Remonstrant whose criticism survives removal from high office and later escalates into drought-responsibility language against Sang Hongyang.
 
 ## Evidence
@@ -51,6 +54,7 @@ Office, policy criticism, and removal:
 - [[zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu|Hanji 357-2]] says Han Wudi makes Bu Shi a guannei hou and Yushi Dafu after his rise from sheep herding and commerce.
 - [[zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu|Hanji 357-2]] attributes to Bu Shi criticism of poor compulsory iron tools, junshu-pingzhun burdens, transport levies, price increases, and harm to ordinary people.
 - [[zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu|Hanji 357-2]] says Wudi removes him as Yushi Dafu under the stated reason that he is not skilled in literary expression and appoints Ni Kuan in his place.
+- [[zizhi-tongjian-hanji-322-2-xihan-daji-toushui-weihe-shi-shangren-qingjia-dangchan-lta-z0gqth1wlzn4feev1h4s8vh|Hanji 322-2]] also reports transfer to Taizi Taifu but attributes it to concealed assets during renewed告缗 enforcement.
 
 Public example and later remonstrance:
 - [[zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk|Hanji 323-2]] independently presents Bu Shi's offer to serve with his son, Wudi's public reward, wider official nonresponse, and subsequent appointment as Yushi Dafu.
@@ -70,13 +74,12 @@ Recognition and status filtering:
 
 ## Qualifications
 
-This profile rests on five short podcast summaries and does not reconstruct Bu Shi's complete biography, wealth transfers, office chronology, memorial texts, or the full institutional operation of salt, iron, junshu, and pingzhun. Hanji 323-1 gives the fullest early sequence but does not independently verify the amounts, reported county outcomes, or exact promotion path; its herd analogy mixes practical routine with an exclusionary view of disruptive members. Hanji 323-2 and 353-2 substantially overlap; the first gives a broader social-origin interpretation, while the second supplies more campaign and ritual detail. None establishes Bu Shi's private motives or whether his proposed Nanyue party deployed. Hanji 323-2 misattributes the *Hanshu* chapter appraisal “鸿渐之翼……非遇其时” to 班超 rather than 班固, and its broad praise of Wudi's status-blind selection remains source-scoped. Hanji 357-2's defense of Bu Shi against Sima Qian is the host's character judgment, while “不善文辞” as a pretext and Wudi's displeasure as the cause of removal require primary-text comparison. Hanji 362-2's execution-and-rain language may be literal belief, rhetorical escalation, or both.
+This profile rests on six short podcast summaries and does not reconstruct Bu Shi's complete biography, wealth transfers, office chronology, memorial texts, property declarations, or the full institutional operation of salt, iron, junshu, pingzhun, and告缗. Hanji 323-1 gives the fullest early sequence but does not independently verify the amounts, reported county outcomes, or exact promotion path; its herd analogy mixes practical routine with an exclusionary view of disruptive members. Hanji 323-2 and 353-2 substantially overlap; the first gives a broader social-origin interpretation, while the second supplies more campaign and ritual detail. None establishes Bu Shi's private motives or whether his proposed Nanyue party deployed. Hanji 323-2 misattributes the *Hanshu* chapter appraisal “鸿渐之翼……非遇其时” to 班超 rather than 班固, and its broad praise of Wudi's status-blind selection remains source-scoped. Hanji 357-2's defense of Bu Shi against Sima Qian is the host's character judgment, while “不善文辞” as a pretext and Wudi's displeasure as the cause of removal require primary-text comparison. Hanji 322-2 instead attributes the transfer to concealed property; without a complete legal and chronological record, neither causal explanation displaces the other. Hanji 362-2's execution-and-rain language may be literal belief, rhetorical escalation, or both.
 
 ## What Changed
 
-- Added the family provision and sheep-herding record that makes Bu Shi's generosity inseparable from productive competence.
-- Recast court recognition as a correction through repeated relief, returned reward, familiar-work testing, and local administration rather than a sudden reversal.
-- Qualified the sheep-to-governance analogy by preserving both its practical routine and exclusionary edge.
+- Added the conflicting告缗-era explanation for Bu Shi's transfer to Taizi Taifu.
+- Preserved the office movement as common ground while leaving concealment, policy criticism, and the stated literary rationale unresolved.
 
 ## Relationships
 

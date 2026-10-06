@@ -28894,9 +28894,9 @@
       "url": "/wiki/entities/buheshiyi/"
     },
     "BuShiWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》362-2｜卜式为啥要烹杀桑弘羊？ [loZ3Ly12PUdLVdRTJnGxs8f1qi6_].md",
@@ -28932,6 +28932,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》323-1｜为什么善良的他，会被皇帝误解？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》322-2｜西汉打击偷税，为何使商人倾家荡产 [ltA-Z0gqTh1Wlzn4fEEeV1h4S8VH].md",
+          "key": "zizhi-tongjian-hanji-322-2-xihan-daji-toushui-weihe-shi-shangren-qingjia-dangchan-lta-z0gqth1wlzn4feev1h4s8vh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》322-2｜西汉打击偷税，为何使商人倾家荡产",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-322-2-xihan-daji-toushui-weihe-shi-shangren-qingjia-dangchan-lta-z0gqth1wlzn4feev1h4s8vh/"
         }
       ],
       "updated": "2026-10-06",
@@ -190235,9 +190242,9 @@
       "url": "/wiki/concepts/rewardpredictionerrorlearning/"
     },
     "RewardedDenunciationFiscalEnforcement": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？ [ljRcAWwbJ5LvbJ1QTPLTdgNXklUI].md",
@@ -190252,6 +190259,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》335｜当着武帝的面，霍去病为何敢杀李广之子",
           "url": "/wiki/sources/zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》322-2｜西汉打击偷税，为何使商人倾家荡产 [ltA-Z0gqTh1Wlzn4fEEeV1h4S8VH].md",
+          "key": "zizhi-tongjian-hanji-322-2-xihan-daji-toushui-weihe-shi-shangren-qingjia-dangchan-lta-z0gqth1wlzn4feev1h4s8vh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》322-2｜西汉打击偷税，为何使商人倾家荡产",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-322-2-xihan-daji-toushui-weihe-shi-shangren-qingjia-dangchan-lta-z0gqth1wlzn4feev1h4s8vh/"
         }
       ],
       "updated": "2026-10-06",

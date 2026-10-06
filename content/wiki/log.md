@@ -30727,3 +30727,11 @@ Added source `zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huang
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》322-2｜西汉打击偷税，为何使商人倾家荡产
+
+Added source `zizhi-tongjian-hanji-322-2-xihan-daji-toushui-weihe-shi-shangren-qingjia-dangchan-lta-z0gqth1wlzn4feev1h4s8vh`; resynthesized [[RewardedDenunciationFiscalEnforcement|告缗式奖励告发财政执法]] and [[BuShiWesternHan|卜式]] from their complete preserved evidence inventories; and appended the new source once to each page. Core synthesis: the Yuan鼎三年 renewal joins informant rewards to central case supervision and dispatched local verification, converting concealed-property accusations into confiscated treasury stocks and public land while imposing severe costs on merchants, private accumulation, and the social middle. One explicit contradiction is retained: Hanji 322-2 attributes Bu Shi's transfer to concealed assets, while Hanji 357-2 places it after fiscal-policy criticism and reports “不善文辞” as the stated rationale. Confiscation scale, six-percent profit comparison, redistribution and inequality effects, asset allocation, prices, long-run commercial collapse, war causation, official jurisdictions, chronology, and termination mechanics remain source-scoped. Broad Han Wudi, Du Zhou, Zhang Tang, Sang Hongyang, and show pages were kept closed because the bounded addition is represented in the enforcement concept, Bu Shi profile, and source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed artifacts validate 3,842 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

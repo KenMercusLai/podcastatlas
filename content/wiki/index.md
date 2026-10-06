@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》322-2｜西汉打击偷税，为何使商人倾家荡产](sources/zizhi-tongjian-hanji-322-2-xihan-daji-toushui-weihe-shi-shangren-qingjia-dangchan-lta-z0gqth1wlzn4feev1h4s8vh.md) — 元鼎三年重申告缗并派员核查，把商贾隐产清查扩展为全国性告发与没收；国库和公田扩张的同时，商人、中间阶层与工商业承受严重代价。
 - [《资治通鉴·汉纪》323-1｜为什么善良的他，会被皇帝误解？](sources/zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd.md) — 卜式从分产助弟、牧羊致富到捐军费与地方赈灾，以跨情境的持续行动纠正朝廷最初猜疑，并经上林牧羊和地方官试用进入仕途。
 - [《资治通鉴·汉纪》323-2｜放羊人出身的他，如何草根逆袭](sources/zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk.md) — 卜式以捐产与父子请战获汉武帝树为典型并升任御史大夫；节目由公孙弘的早期猜疑讨论门第筛选，但班超归属应校正为班固。
 - [《资治通鉴·汉纪》324-1｜李广舍去脸面，求了武帝什么事？](sources/zizhi-tongjian-hanji-324-1-liguang-shequ-lianmian-qiu-le-wudi-shenme-shi-lvjcnxgg4fubkss4osi2gwnmahke.md) — 李广反复请战获任漠北前将军，汉武帝却私下警告卫青其“命不好”；节目并补足两年备战、分兵与情报改道背景。
