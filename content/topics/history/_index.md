@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2582
+topic_total_pages: 2583
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6495,6 +6495,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958"
+    title: "650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)"
+    url: "/wiki/sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958/"
   - key: "651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808"
     title: "651. London’s Golden Age: Sex and Scandal in Georgian Britain (Part 2)"
     url: "/wiki/sources/651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808/"

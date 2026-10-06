@@ -30832,3 +30832,11 @@ Added source `avoiding-treating-curing-cancer-with-the-immune-system-dr-alex-mar
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)
+
+Added source `650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958`; created [[ElizabethPorter|Elizabeth “Tetty” Porter]], [[DavidGarrick]], [[DictionaryOfTheEnglishLanguage|A Dictionary of the English Language]], and [[GeorgianLiteraryLaborAndPatronage]]; and resynthesized [[SamuelJohnson]], [[JamesBoswell]], [[TheLifeOfJohnson|The Life of Samuel Johnson]], and [[PsychologicalBiographyThroughConversation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Johnson’s public authority grew from severe bodily difficulty, interrupted education, poverty, marriage-supported experimentation, commercial print labor, collaborative lexicography, disputed patronage, debt, and eventual pension, while Boswell’s journal habit converted Johnson’s live conversational presence into a durable but selected biographical archive. No settled contradiction was adopted. Modern depression language, the wet-nurse illness causal chain, remembered dialogue, private motives, Tory concern for the poor, dictionary comparisons, and Chesterfield’s intent remain episode-attributed or source-scoped. The broad [[TheRestIsHistory]] page was kept closed because the durable additions are represented in focused canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,855 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

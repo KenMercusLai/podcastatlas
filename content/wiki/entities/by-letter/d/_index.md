@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12526
+wiki_total_pages: 12529
 wiki_pages:
+  - key: "DictionaryOfTheEnglishLanguage"
+    title: "A Dictionary of the English Language"
+    url: "/wiki/entities/dictionaryoftheenglishlanguage/"
   - key: "DDay"
     title: "D-Day"
     url: "/wiki/entities/dday/"
@@ -350,6 +353,9 @@ wiki_pages:
   - key: "DavidFriedberg"
     title: "David Friedberg"
     url: "/wiki/entities/davidfriedberg/"
+  - key: "DavidGarrick"
+    title: "David Garrick"
+    url: "/wiki/entities/davidgarrick/"
   - key: "DavidGiffels"
     title: "David Giffels"
     url: "/wiki/entities/davidgiffels/"

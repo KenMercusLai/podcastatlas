@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3169
+topic_total_pages: 3174
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1426,6 +1426,9 @@ topic_concepts:
   - key: "GeometricSocialHierarchy"
     title: "Geometric Social Hierarchy"
     url: "/wiki/concepts/geometricsocialhierarchy/"
+  - key: "GeorgianLiteraryLaborAndPatronage"
+    title: "Georgian Literary Labor and Patronage"
+    url: "/wiki/concepts/georgianliterarylaborandpatronage/"
   - key: "Gesamtkunstwerk"
     title: "Gesamtkunstwerk"
     url: "/wiki/concepts/gesamtkunstwerk/"
@@ -3512,6 +3515,9 @@ topic_entities:
   - key: "AChristmasCarol"
     title: "A Christmas Carol"
     url: "/wiki/entities/achristmascarol/"
+  - key: "DictionaryOfTheEnglishLanguage"
+    title: "A Dictionary of the English Language"
+    url: "/wiki/entities/dictionaryoftheenglishlanguage/"
   - key: "AJourneyToTheWesternIslands"
     title: "A Journey to the Western Islands of Scotland"
     url: "/wiki/entities/ajourneytothewesternislands/"
@@ -4088,6 +4094,9 @@ topic_entities:
   - key: "DavidEllison"
     title: "David Ellison"
     url: "/wiki/entities/davidellison/"
+  - key: "DavidGarrick"
+    title: "David Garrick"
+    url: "/wiki/entities/davidgarrick/"
   - key: "DavidHorowitz"
     title: "David Horowitz"
     url: "/wiki/entities/davidhorowitz/"
@@ -4199,6 +4208,9 @@ topic_entities:
   - key: "ElieWiesel"
     title: "Elie Wiesel"
     url: "/wiki/entities/eliewiesel/"
+  - key: "ElizabethPorter"
+    title: "Elizabeth ‘Tetty’ Porter"
+    url: "/wiki/entities/elizabethporter/"
   - key: "EllisPark"
     title: "Ellis Park"
     url: "/wiki/entities/ellispark/"
@@ -8793,6 +8805,9 @@ topic_sources:
   - key: "64-bawangbieji-fengmo-yu-chenghuo-656094350"
     title: "64.霸王别姬：疯魔与成活"
     url: "/wiki/sources/64-bawangbieji-fengmo-yu-chenghuo-656094350/"
+  - key: "650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958"
+    title: "650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)"
+    url: "/wiki/sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958/"
   - key: "651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808"
     title: "651. London’s Golden Age: Sex and Scandal in Georgian Britain (Part 2)"
     url: "/wiki/sources/651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808/"

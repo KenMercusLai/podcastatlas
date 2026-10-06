@@ -54128,6 +54128,22 @@
       "updated": "2026-10-02",
       "url": "/wiki/entities/davidbuss/"
     },
+    "DavidGarrick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2687128958 [GLT2687128958].md",
+          "key": "650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958",
+          "show": "The Rest Is History",
+          "title": "650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)",
+          "url": "/wiki/sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/davidgarrick/"
+    },
     "DavidGiffels": {
       "episode_count": 1,
       "show_count": 1,
@@ -57912,6 +57928,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/diasporaofficialgeopoliticalexposure/"
+    },
+    "DictionaryOfTheEnglishLanguage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2687128958 [GLT2687128958].md",
+          "key": "650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958",
+          "show": "The Rest Is History",
+          "title": "650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)",
+          "url": "/wiki/sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/dictionaryoftheenglishlanguage/"
     },
     "Didi": {
       "episode_count": 3,
@@ -66442,6 +66474,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/elizabethii/"
+    },
+    "ElizabethPorter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2687128958 [GLT2687128958].md",
+          "key": "650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958",
+          "show": "The Rest Is History",
+          "title": "650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)",
+          "url": "/wiki/sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/elizabethporter/"
     },
     "ElizabethTyler": {
       "episode_count": 1,
@@ -90422,6 +90470,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/georgianhealthresortformation/"
+    },
+    "GeorgianLiteraryLaborAndPatronage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2687128958 [GLT2687128958].md",
+          "key": "650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958",
+          "show": "The Rest Is History",
+          "title": "650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)",
+          "url": "/wiki/sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/georgianliterarylaborandpatronage/"
     },
     "GeraldFord": {
       "episode_count": 2,
@@ -118441,9 +118505,9 @@
       "url": "/wiki/entities/jamesbond/"
     },
     "JamesBoswell": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3921798295 [GLT3921798295].md",
@@ -118472,9 +118536,16 @@
           "show": "The Rest Is History",
           "title": "651. London’s Golden Age: Sex and Scandal in Georgian Britain (Part 2)",
           "url": "/wiki/sources/651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808/"
+        },
+        {
+          "episode_file": "GLT2687128958 [GLT2687128958].md",
+          "key": "650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958",
+          "show": "The Rest Is History",
+          "title": "650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)",
+          "url": "/wiki/sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/jamesboswell/"
     },
     "JamesCallender": {
@@ -182897,9 +182968,9 @@
       "url": "/wiki/concepts/psychologicalastrologyasreflectivemap/"
     },
     "PsychologicalBiographyThroughConversation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2240052230 [GLT2240052230].md",
@@ -182907,9 +182978,16 @@
           "show": "The Rest Is History",
           "title": "653. London’s Golden Age: The Shadow of the Madhouse (Part 4)",
           "url": "/wiki/sources/653-londons-golden-age-the-shadow-of-the-madhouse-part-4-glt2240052230/"
+        },
+        {
+          "episode_file": "GLT2687128958 [GLT2687128958].md",
+          "key": "650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958",
+          "show": "The Rest Is History",
+          "title": "650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)",
+          "url": "/wiki/sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/psychologicalbiographythroughconversation/"
     },
     "PsychologicalBoundaryProtection": {
@@ -196582,9 +196660,9 @@
       "url": "/wiki/entities/samsonrowley/"
     },
     "SamuelJohnson": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT6013835340 [GLT6013835340].md",
@@ -196613,9 +196691,16 @@
           "show": "The Rest Is History",
           "title": "651. London’s Golden Age: Sex and Scandal in Georgian Britain (Part 2)",
           "url": "/wiki/sources/651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808/"
+        },
+        {
+          "episode_file": "GLT2687128958 [GLT2687128958].md",
+          "key": "650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958",
+          "show": "The Rest Is History",
+          "title": "650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)",
+          "url": "/wiki/sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/samueljohnson/"
     },
     "SamuraiLegendAndPoliticalMemory": {
@@ -219615,9 +219700,9 @@
       "url": "/wiki/entities/thekeralastory/"
     },
     "TheLifeOfJohnson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2240052230 [GLT2240052230].md",
@@ -219632,9 +219717,16 @@
           "show": "The Rest Is History",
           "title": "652. London’s Golden Age: The Ghosts of Culloden (Part 3)",
           "url": "/wiki/sources/652-londons-golden-age-the-ghosts-of-culloden-part-3-glt2422514848/"
+        },
+        {
+          "episode_file": "GLT2687128958 [GLT2687128958].md",
+          "key": "650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958",
+          "show": "The Rest Is History",
+          "title": "650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)",
+          "url": "/wiki/sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/thelifeofjohnson/"
     },
     "TheLordOfTheRings": {

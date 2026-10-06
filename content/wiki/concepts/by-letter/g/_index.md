@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 9774
+wiki_total_pages: 9775
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "GeorgianHealthResortFormation"
     title: "Georgian Health Resort Formation"
     url: "/wiki/concepts/georgianhealthresortformation/"
+  - key: "GeorgianLiteraryLaborAndPatronage"
+    title: "Georgian Literary Labor and Patronage"
+    url: "/wiki/concepts/georgianliterarylaborandpatronage/"
   - key: "GermanCaretakerStalemate"
     title: "German Caretaker Stalemate"
     url: "/wiki/concepts/germancaretakerstalemate/"

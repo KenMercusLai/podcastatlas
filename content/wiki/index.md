@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)](sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958.md) — The Rest Is History on Samuel Johnson’s illness, poverty, marriage, London print labor, Dictionary, patronage conflict, and rise to conversational fame.
 - [Graham Allison on the Global Realignment: Iran, China, Israel, Greenland](sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425.md) — All-In interview on Iran war objectives and aftermath, China-Taiwan risk, permission-based Greenland access, nuclear order, and inequality-driven instability.
 - [EP 30: OpenClaw: The Open-Source AI Agent That Got Its Creator Hired by OpenAI](sources/ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai.md) — Accessible account of OpenClaw's agent capabilities, viral growth story, and the security boundary around persistent access and community skills.
 - [【公告】「不端著」正式上線！「端聞」播出安排調整](sources/gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662.md) — Duan Media launches 《不端者》 with author 冯哲云 and changes 《端闻》 to Wednesday releases plus alternating Friday publication.
@@ -16496,8 +16497,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Paul Atkins](entities/PaulAtkins.md) — SEC chair presenting a market-modernization agenda spanning public-company burden, investor access, tokenization, and CFTC coordination.
 - [Michael Seelig](entities/MichaelSeelig.md) — CFTC chair advocating purpose-fit crypto and technology rules, exchange surveillance, simpler reporting, and coordinated primary regulation.
 - [Alex Marson](entities/AlexMarson.md) — Immunologist and physician-scientist connecting T-cell biology, CRISPR perturbation maps, immune-cell engineering, cancer therapy, and germline ethics.
+- [Elizabeth “Tetty” Porter](entities/ElizabethPorter.md) — Samuel Johnson’s wife, whose affection and resources supported his failed school and whose death deepened his loneliness.
+- [David Garrick](entities/DavidGarrick.md) — Johnson’s pupil and London traveling companion who became a celebrated actor and theatrical intermediary.
+- [A Dictionary of the English Language](entities/DictionaryOfTheEnglishLanguage.md) — Johnson’s collaborative lexicographical project and a test case in labor, fame, and disputed patronage.
 
 ## Concepts
+- [Georgian Literary Labor and Patronage](concepts/GeorgianLiteraryLaborAndPatronage.md) — Mixed authorship system joining commercial print, commissioned work, collaboration, sponsorship, debt, theatre, and public pension.
 - [Military Success, Political Failure](concepts/MilitarySuccessPoliticalFailure.md) — Strategic mismatch in which target destruction or regime defeat fails to produce a legitimate, governable, or sustainable political order.
 - [Great-Power Rivalry Escalation Dynamics](concepts/GreatPowerRivalryEscalationDynamics.md) — Non-deterministic account of how power shifts, incidents, geography, perceptions, and reactions can pull rising and established powers toward conflict.
 - [Nuclear Nonproliferation Order](concepts/NuclearNonproliferationOrder.md) — Norms, institutions, guarantees, controls, diplomacy, and coercive practices that keep nuclear possession below latent technical capacity.

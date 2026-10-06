@@ -5829,6 +5829,18 @@
       "url": "/topics/science/"
     }
   ],
+  "650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808": [
     {
       "key": "history",
@@ -27099,6 +27111,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "DavidGarrick": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "DavidHorowitz": [
     {
       "key": "politics",
@@ -28201,6 +28220,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "DictionaryOfTheEnglishLanguage": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "DiegoRivera": [
@@ -31043,6 +31069,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ElizabethPorter": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ElizabethanRecusancySecurityState": [
@@ -38108,6 +38141,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "GeorgianLiteraryLaborAndPatronage": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Geppetto": [
