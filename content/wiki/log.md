@@ -30689,3 +30689,10 @@ Added source `zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xi
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-06] ingest | Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225`; created [[PaulAtkins]], [[MichaelSeelig]], [[SECCFTCCoordination]], [[PublicCompanyRegulatoryBurden]], [[SophisticationBasedPrivateMarketAccess]], [[TokenizedMarketStructure]], and [[CryptoAssetFunctionalClassification]]; and resynthesized [[SEC]], [[CommodityFuturesTradingCommission|CFTC]], and [[PredictionMarketIntegrityOversight]] from their complete preserved evidence inventories. Core synthesis: the chairs frame market modernization as a joint access-and-integrity problem—reduce obsolete burden and jurisdictional ambiguity while retaining material disclosure, fraud enforcement, exchange surveillance, leverage controls, and systemic-risk visibility. No settled contradiction was adopted. Reporting cadence, accreditation reform, crypto spot authority, retirement-plan access, the interagency memorandum, substituted compliance, token categories, and specific enforcement examples remain proposed or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,837 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

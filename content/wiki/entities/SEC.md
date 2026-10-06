@@ -2,23 +2,46 @@
 title: "SEC"
 type: entity
 tags: [regulator, finance, securities, crypto]
-sources: [145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, socialradarspod-brianarmstrong-final]
-last_updated: 2026-08-06
+sources:
+  - 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi
+  - tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3
+  - socialradarspod-brianarmstrong-final
+  - all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225
+last_updated: 2026-10-06
+knowledge_schema: synthesis-v1
 ---
 
 # SEC
 
-The SEC appears in [[socialradarspod-brianarmstrong-final]] as the U.S. securities regulator in conflict with [[Coinbase]]. [[BrianArmstrong]] says Coinbase acquired an SEC-issued brokerage license but could not activate it, met with the agency many times, and did not receive clear feedback before enforcement.
+## Overview
+The SEC is the U.S. securities regulator represented across the bounded sources as an investment-adviser overseer, whistleblower channel, crypto enforcement counterparty, and institution reconsidering public-market and digital-asset rules.
 
-The source frames the dispute as a regulatory-clarity problem rather than a refusal to be regulated. Because the episode gives Armstrong's side of the issue, this page records the source's perspective and connects it to [[RegulatedCryptoTrustStrategy]], not a settled legal judgment about crypto assets.
+## Current Profile
+The sources show several legitimate SEC functions but disagree implicitly about how legible its crypto pathway has been. The advisory and whistleblower sources emphasize fiduciary infrastructure and protected reporting; [[BrianArmstrong]] describes repeated unsuccessful attempts to activate a brokerage license and obtain crypto guidance before enforcement. The newest source adds chair [[PaulAtkins]]'s reform agenda around materiality, IPO burdens, reporting cadence, investor qualification, tokenization, and CFTC coordination. That agenda is directional and does not retroactively settle the Coinbase dispute or establish enacted rules.
 
-[[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] adds the SEC as one of the government channels [[TylerShultz|Tyler Shultz]] recommends potential whistleblowers consider after speaking with independent counsel. Tyler says SEC whistleblower awards can make contingency-fee legal representation more available, which connects the agency to [[ProtectedWhistleblowerChannels]] rather than only crypto-market regulation.
+## Key Characteristics
+- Oversees securities markets and parts of the investment-advisory system under disclosure and fiduciary-law frameworks.
+- Provides a government reporting channel whose whistleblower awards may help claimants obtain legal representation.
+- Faces a regulatory-clarity challenge when market participants cannot determine how crypto products fit existing securities categories.
+- Under Atkins, is presented as reviewing public-company burdens and private-market access while retaining material disclosure and fraud controls.
+- Shares a difficult product boundary with the CFTC across crypto, derivatives, tokenized assets, and other cross-category markets.
 
-[[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] adds the SEC to the U.S. investment-advisory comparison. The episode connects SEC and state-level oversight with the 1940 Investment Advisers Act, [[InvestmentAdviserFiduciaryDuty]], and the larger U.S. advisory ecosystem.
+## Evidence
+- **Advisory and reporting infrastructure:** [[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] connects the SEC and state oversight to U.S. investment-adviser fiduciary infrastructure; [[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] presents the agency as a protected whistleblower route whose awards may improve access to counsel.
+- **Crypto clarity dispute:** [[socialradarspod-brianarmstrong-final]] records Armstrong's claim that [[Coinbase]] sought licenses and guidance before enforcement, framing the conflict as failed regulatory clarity from a participant's perspective.
+- **Modernization agenda:** [[all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225]] records Atkins's proposed review of materiality, reporting cadence, filer categories, accreditation, tokenized settlement, and SEC-CFTC coordination.
 
-## Connections
-- [[GaryGensler]] - SEC chair discussed in the source.
-- [[Coinbase]] and [[BrianArmstrong]] - company and founder context.
-- [[CryptocurrencyMarketStructure]], [[AntiMoneyLaundering]], and [[RegulatedCryptoTrustStrategy]] - finance and compliance context.
-- [[TylerShultz|Tyler Shultz]], [[Theranos]], and [[ProtectedWhistleblowerChannels]] - whistleblower-channel context added by The Social Radars.
-- [[InvestmentAdviserFiduciaryDuty]], [[BuySideInvestmentAdvisory]], and [[FundInvestmentAdvisory]] - episode 145 advisory-law comparison.
+## Qualifications
+The Coinbase account is one party's retrospective, not a settled legal finding. The fund-advisory source is comparative and does not evaluate all SEC conduct. Atkins's proposed rules, qualification paths, and coordination mechanisms are not final outcomes, and this evidence set does not establish whether lower compliance burden would preserve adequate investor information.
+
+## What Changed
+- Added Atkins's public-market, private-access, tokenization, and interagency-coordination agenda.
+- Migrated the profile to the synthesis-first schema without removing earlier evidence.
+
+## Relationships
+- [[PaulAtkins]] - chair articulating the newest reform agenda.
+- [[CommodityFuturesTradingCommission|CFTC]] - counterpart for cross-jurisdictional products.
+- [[SECCFTCCoordination]] - proposed mechanism for closing regulatory gaps.
+- [[Coinbase]] - regulated company whose founder describes a crypto-clarity conflict.
+- [[InvestmentAdviserFiduciaryDuty]] - advisory-law function represented in the bounded evidence.
+- [[ProtectedWhistleblowerChannels]] - reporting function represented in the Theranos source.

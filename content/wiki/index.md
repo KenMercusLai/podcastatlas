@@ -3900,6 +3900,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South](sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south.md) — Data Science With Sam episode on Google's India commitments, AI-for-science funding, Global South participation, connectivity, and India's possible AI-governance role.
 - [Essentials: Benefits of Sauna & Deliberate Heat Exposure](sources/essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357.md) — Condensed Huberman Lab episode on heat dose, thermoregulation, cardiovascular associations, acute hormone responses, mood, sleep, hydration, and hyperthermia safety.
 
+- [Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets](sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225.md) — All-In interview with SEC chair Paul Atkins and CFTC chair Michael Seelig on IPO burden, private-market access, tokenized markets, crypto classification, prediction-market integrity, and interagency coordination.
+
 ## Entities
 - [任安 / Ren An (Western Han)](entities/RenAnWesternHan.md) — 卫青失势后仍持续往来的西汉官员，节目以其不随权势转移作为门客改投霍去病的对照。
 - [漠北之战 / Mobei Battle (Western Han)](entities/MobeiBattleWesternHan.md) — 霍去病东路远征、击溃左贤王、封狼居胥与战马巨损并存的西汉—匈奴关键战役。
@@ -16468,6 +16470,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [India AI Mission](entities/IndiaAIMission.md) — National AI-capability initiative cited as evidence of India's infrastructure ambition.
 - [Nandan Nilekani](entities/NandanNilekani.md) — Indian technology figure named among speakers at the AI Impact Summit in India.
 
+- [Paul Atkins](entities/PaulAtkins.md) — SEC chair presenting a market-modernization agenda spanning public-company burden, investor access, tokenization, and CFTC coordination.
+- [Michael Seelig](entities/MichaelSeelig.md) — CFTC chair advocating purpose-fit crypto and technology rules, exchange surveillance, simpler reporting, and coordinated primary regulation.
+
 ## Concepts
 - [Success Myth Identity Lock-In / 成功神话身份锁定](concepts/SuccessMythIdentityLockIn.md) — A success belief becomes so central to sacrifice, authority, and self-respect that revising it feels like erasing an entire life.
 - [Self-Commodification Through Work / 劳动中的自我商品化](concepts/SelfCommodificationThroughWork.md) — Market exchange expands from skill and time into personality, popularity, visibility, and the felt value of the person.
@@ -26286,5 +26291,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Revolutionary Political Religion](concepts/RevolutionaryPoliticalReligion.md) — Sacred grounding of revolutionary rights and virtue through belief, ritual, calendar, civic spectacle, and internalized moral observation.
 - [Elite Nanny Rota Care](concepts/EliteNannyRotaCare.md) — Ultra-wealthy continuous-coverage childcare model joining premium credentials and pay to intensive shifts, travel, handoffs, and labor-boundary risks.
 - [Global South AI Participation](concepts/GlobalSouthAIParticipation.md) — Inclusion of developing-region actors in AI research priorities, infrastructure, governance, and benefit distribution, distinguished from visibility alone.
+
+- [SEC-CFTC Coordination](concepts/SECCFTCCoordination.md) — Primary-regulator, information-sharing, and substituted-compliance model for products crossing securities and derivatives categories.
+- [Public-Company Regulatory Burden](concepts/PublicCompanyRegulatoryBurden.md) — Compliance, litigation, reporting, and governance costs that can affect when companies enter public markets.
+- [Sophistication-Based Private-Market Access](concepts/SophisticationBasedPrivateMarketAccess.md) — Investor-eligibility proposal using demonstrated knowledge or credentials alongside wealth while preserving risk controls.
+- [Tokenized Market Structure](concepts/TokenizedMarketStructure.md) — Settlement, liquidity, trading-hours, leverage, and oversight architecture for ledger-based financial markets.
+- [Crypto-Asset Functional Classification](concepts/CryptoAssetFunctionalClassification.md) — Distinction between a token's function and the fundraising transaction or promises through which it is sold.
 
 ## Syntheses

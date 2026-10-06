@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9755
+wiki_total_pages: 9760
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "TokenDrivenSoftware"
     title: "Token-Driven Software"
     url: "/wiki/concepts/tokendrivensoftware/"
+  - key: "TokenizedMarketStructure"
+    title: "Tokenized Market Structure"
+    url: "/wiki/concepts/tokenizedmarketstructure/"
   - key: "TokugawaForeignTradeAmbivalence"
     title: "Tokugawa Foreign-Trade Ambivalence"
     url: "/wiki/concepts/tokugawaforeigntradeambivalence/"

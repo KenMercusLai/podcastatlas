@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 9755
+wiki_total_pages: 9760
 wiki_pages:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -2804,6 +2804,9 @@ wiki_pages:
   - key: "CryptoTimeSeriesAnalysis"
     title: "Crypto Time Series Analysis"
     url: "/wiki/concepts/cryptotimeseriesanalysis/"
+  - key: "CryptoAssetFunctionalClassification"
+    title: "Crypto-Asset Functional Classification"
+    url: "/wiki/concepts/cryptoassetfunctionalclassification/"
   - key: "CryptocurrencyMarketStructure"
     title: "Cryptocurrency Market Structure"
     url: "/wiki/concepts/cryptocurrencymarketstructure/"

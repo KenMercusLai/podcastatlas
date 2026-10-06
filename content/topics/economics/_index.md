@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2193
+topic_total_pages: 2194
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2668,6 +2668,9 @@ topic_concepts:
   - key: "SeasonalInventoryFinancing"
     title: "Seasonal Inventory Financing"
     url: "/wiki/concepts/seasonalinventoryfinancing/"
+  - key: "SECCFTCCoordination"
+    title: "SEC-CFTC Coordination"
+    url: "/wiki/concepts/seccftccoordination/"
   - key: "SecondStageReuseConstraint"
     title: "Second-Stage Reuse Constraint"
     url: "/wiki/concepts/secondstagereuseconstraint/"

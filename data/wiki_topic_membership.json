@@ -25708,6 +25708,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CryptoAssetFunctionalClassification": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CryptoConsumerConfidence": [
     {
       "key": "economics",
@@ -67712,6 +67719,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PublicCompanyRegulatoryBurden": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PublicCompanyTransition": [
     {
       "key": "economics",
@@ -72434,6 +72448,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "SECCFTCCoordination": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SGLang": [
     {
       "key": "technology",
@@ -76815,6 +76841,13 @@
     }
   ],
   "SophiePedder": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "SophisticationBasedPrivateMarketAccess": [
     {
       "key": "politics",
       "label": "Politics",
@@ -83583,6 +83616,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TokenizedMarketStructure": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TokugawaForeignTradeAmbivalence": [
@@ -94876,6 +94916,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617": [

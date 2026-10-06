@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 9755
-- Entities: 12517
-- Sources: 3836
-- Total wiki content pages: 26109
+- Concepts: 9760
+- Entities: 12519
+- Sources: 3837
+- Total wiki content pages: 26117
 
 ## Links
-- Wiki link references: 618544
-- Unique wiki link targets: 26130
-- Missing targets: 27
+- Wiki link references: 618563
+- Unique wiki link targets: 26139
+- Missing targets: 28
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 3836
-- Matched episodes: 3836
+- Source pages: 3837
+- Matched episodes: 3837
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -39,6 +39,8 @@ outputs: ["html"]
   - `content/wiki/sources/tech-20260921-0921-mp-tech-pod-128-tech-20260921-0921-mp-tech-pod-128.md`
 - `[[ASUS]]`
   - `content/wiki/entities/GoogleBook.md`
+- `[[AllInPodcast]]`
+  - `content/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225.md`
 - `[[AlphaStar]]`
   - `content/wiki/sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594.md`
 - `[[AngloArgentineRelations]]`

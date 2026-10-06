@@ -2,42 +2,52 @@
 title: "Prediction Market Integrity Oversight"
 type: concept
 tags: [prediction-markets, regulation, integrity, gambling]
-sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]
-last_updated: 2026-08-14
+sources:
+  - tech-20260814-tech-pod-128-tech-20260814-tech-pod-128
+  - before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets
+  - do-prediction-market-bettors-make-anything-better
+  - tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128
+  - tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128
+  - all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225
+last_updated: 2026-10-06
+knowledge_schema: synthesis-v1
 ---
 
 # Prediction Market Integrity Oversight
 
-[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds a jurisdictional pressure point. If the [[CommodityFuturesTradingCommission|CFTC]] can order [[Kalshi]] to keep operating in [[NewYorkState|New York State]], then integrity oversight remains tied to federal futures-market authority; if states succeed in treating the same activity as gambling, oversight may shift toward licensing, taxes, and gambling-specific public-interest duties under [[PredictionMarketFederalism]].
+## Definition
+Prediction market integrity oversight is the control system for preventing manipulation, insider-informed trading, corruptible contracts, fraud, and customer harm when event markets function simultaneously as forecasting tools, derivatives, and gambling-like products.
 
-Prediction market integrity oversight is the control problem that emerges when event markets look like useful probability tools, gambling products, derivatives contracts, and insider-information markets at the same time. [[tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]] adds the concept by comparing prediction markets with licensed sports betting after the [[JontayPorter]] scandal.
-
-The source argues that prediction markets cannot rely only on being regulated as commodities futures contracts when contracts involve sports, war, military action, government decisions, or non-public information. They may need tools from [[SportsbookIntegrityMonitoring]] - geolocation, wager tracking, integrity monitors, insider screening, and reporting - while still facing the legal risk that stronger sportsbook resemblance makes gambling-law claims easier.
-
-[[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds the platform self-regulation version through [[Kalshi]]. Candidate-trading bans and sports-insider guardrails are an attempt to identify prohibited bets earlier, but [[MariaCurie|Maria Curi]] notes that identity checks, thousands of markets, state bans, federal treatment, and insider-information concerns make voluntary controls hard to evaluate.
-
-[[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds a historical regulatory precursor. The [[IowaElectronicMarkets]] operated under a [[CommodityFuturesTradingCommission|CFTC]] no-action letter with small-stakes, noncommercial, presidential-election limits, showing an early attempt to separate research prediction markets from commercial gambling-like scale.
-
-[[do-prediction-market-bettors-make-anything-better]] adds the commercial-scale stress case. The episode says sports are about 80% of [[Kalshi]] activity, state gambling challenges are ongoing, and [[AmandaFisher]] worries that a smaller CFTC relying on self-regulation is poorly matched to suspiciously timed bets, policy announcements, war events, and markets where traders may try to influence outcomes.
+## Current Synthesis
+The bounded evidence supports layered oversight rather than reliance on one legal label. Exchanges can screen contracts, identify traders, surveil activity, and refer violations; the CFTC can set category rules and enforce them; sportsbook-style monitors can add geolocation, wager tracking, and league information; and states may claim gambling-law duties. The newest regulator source reinforces exchange certification as the first line of defense, but it does not answer earlier capacity critiques or show that platform self-regulation is sufficient at commercial scale.
 
 ## Key Claims
-- Integrity oversight is separate from the moral question of which events should be tradable, although it overlaps with [[PredictionMarketEthics]].
-- A prediction market can be informative and still be vulnerable to manipulation by one participant, insider knowledge, or government information asymmetry.
-- The [[CommodityFuturesTradingCommission|CFTC]] is being pushed to define banned activity, allowed traders, and non-public information rules for event markets.
-- Sportsbook-like oversight can detect suspicious behavior, but adopting too much of the sportsbook model may undermine prediction markets' legal distinction from gambling.
-- Platform self-regulation can improve trust, but it still depends on trader identification, market classification, and enforcement capacity.
-- Academic sandboxes can make prediction-market research possible while leaving larger commercial-platform oversight unresolved.
-- Oversight capacity matters as much as legal category when event markets scale into sports, politics, culture, and war.
-- A platform's claim that it avoids perverse-incentive markets is hard to evaluate when the platform largely decides the limits itself.
-- The authority question matters because federal exchange oversight and state gambling oversight imply different tools, taxes, and public-benefit obligations.
+- Informative prices do not eliminate manipulation, insider knowledge, government-information asymmetry, or incentives to influence the underlying event.
+- Contract design should avoid events readily susceptible to one person's control, prohibited harmful acts, fraud, or non-public information.
+- Exchange certification and surveillance are necessary first-line controls but require credible regulatory enforcement and auditability.
+- Sportsbook-style monitoring can improve detection while strengthening the argument that some event markets function like gambling.
+- Small academic sandboxes and mass commercial platforms require different limits and oversight capacity.
+- The federal-state authority dispute affects available licensing, taxation, addiction, consumer-protection, and enforcement tools.
 
-## Connections
-- [[PredictionMarketLegalBoundary]], [[PredictionMarketPublicGoodClaim]], and [[PredictionMarketTraderAlpha]] - April 2026 Planet Money concepts that add legal, public-value, and trader-culture pressure.
-- [[PredictionMarketSelfRegulation]] - platform-led guardrail branch added by the March 27 episode.
-- [[PredictionMarketEthics]] - related boundary problem around harmful or socially corrosive event contracts.
-- [[SportsbookIntegrityMonitoring]] - oversight model used as the episode's comparison.
-- [[EventContractManipulationRisk]] - specific risk this oversight tries to reduce.
-- [[CommodityFuturesTradingCommission|CFTC]], [[BenSchifrin]], [[JohnHolden]], [[BetterMarkets]], and [[IndianaUniversity]] - regulator and expert context.
-- [[Polymarket]], [[JontayPorter]], [[NationalBasketballAssociation|NBA]], and [[DraftKings]] - platform and sports-integrity examples.
-- [[IowaElectronicMarkets]] and [[AcademicPredictionMarketSandbox]] - earlier CFTC-limited research-market model.
-- [[PredictionMarketFederalism]], [[NewYorkState|New York State]], [[LetitiaJames]], and [[Michigan]] - August 14 Marketplace Tech branch on who gets to supervise prediction markets.
+## Evidence
+- **Bounded experimentation versus scale:** [[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] documents the Iowa market's small-stakes, noncommercial limits; [[do-prediction-market-bettors-make-anything-better]] shows Kalshi's commercial expansion, self-policing claims, suspicious-bet examples, and CFTC-capacity criticism.
+- **Operational monitoring:** [[tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]] compares prediction markets with sportsbook geolocation, wager tracking, insider screening, and integrity monitors after the [[JontayPorter]] scandal.
+- **Platform guardrails:** [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] records [[Kalshi]] rules for candidate and sports-insider trading while emphasizing identity and scale limits.
+- **Authority layer:** [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] ties oversight tools to the unresolved CFTC-state dispute over whether prediction markets are federal derivatives venues or state-regulated gambling.
+- **Regulator model:** [[all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225]] records Seelig's view that exchanges certify against insider trading, manipulation, and fraud and serve as first-line surveillants backed by CFTC enforcement.
+
+## Counterevidence & Qualifications
+The sources do not establish the comparative effectiveness of CFTC, state gambling, exchange, or sportsbook controls. The CFTC is described as smaller than the SEC and dependent on self-regulatory infrastructure, while platform rules can be hard to verify across thousands of markets. Stronger gambling-style oversight may improve integrity but weaken a platform's derivatives-law distinction. Claims about specific enforcement matters and agency powers remain source-scoped.
+
+## What Changed
+- Added the regulator case for exchange certification and surveillance as first-line controls.
+- Preserved the capacity qualification: first-line gatekeeping is not equivalent to sufficient system-wide oversight.
+- Migrated the page to the synthesis-first schema.
+
+## Related Concepts
+- [[PredictionMarketSelfRegulation]] - platform guardrails that form one layer of the control system.
+- [[SportsbookIntegrityMonitoring]] - operational detection model borrowed from regulated betting.
+- [[EventContractManipulationRisk]] - underlying risk that contract design and surveillance address.
+- [[PredictionMarketLegalBoundary]] - classification dispute that determines applicable oversight tools.
+- [[PredictionMarketFederalism]] - federal-state allocation of authority.
+- [[SECCFTCCoordination]] - cross-agency mechanism relevant when event products cross inherited categories.

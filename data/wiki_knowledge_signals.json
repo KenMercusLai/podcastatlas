@@ -44648,6 +44648,64 @@
       "updated": "2026-09-30",
       "url": "/wiki/concepts/commodityconsumerpricepassthrough/"
     },
+    "CommodityFuturesTradingCommission": {
+      "episode_count": 7,
+      "show_count": 3,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "tech_20260814_TECH_pod_128 [tech_20260814_TECH_pod_128].md",
+          "key": "tech-20260814-tech-pod-128-tech-20260814-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "States rush to police AI deepfakes ahead of midterm elections",
+          "url": "/wiki/sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6891c8a7c8b53d0f05962eea3857081d_25452949 [default.mp3_ywr3ahjkcgo_6891c8a7c8b53d0f05962eea3857081d_25452949].md",
+          "key": "before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets",
+          "show": "Planet Money",
+          "title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
+          "url": "/wiki/sources/before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0d9c6366fbf4091cd16997a64667ef8c_33634502 [default.mp3_ywr3ahjkcgo_0d9c6366fbf4091cd16997a64667ef8c_33634502].md",
+          "key": "do-prediction-market-bettors-make-anything-better",
+          "show": "Planet Money",
+          "title": "Do prediction market bettors make anything better?",
+          "url": "/wiki/sources/do-prediction-market-bettors-make-anything-better/"
+        },
+        {
+          "episode_file": "tech_20260327_0327_MP_TECH_pod_128 [tech_20260327_0327_MP_TECH_pod_128].md",
+          "key": "tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation",
+          "url": "/wiki/sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260324_0324_MP_TECH_pod_128 [tech_20260324_0324_MP_TECH_pod_128].md",
+          "key": "tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "U.S. regulators eye rules for prediction markets",
+          "url": "/wiki/sources/tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260306_0306_MP_TECH_pod_128 [tech_20260306_0306_MP_TECH_pod_128].md",
+          "key": "tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Prediction markets reel amid Iran conflict, defense contractors to drop Anthropic, and Meta's AI deal with News Corp",
+          "url": "/wiki/sources/tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rewriting the Rules： The SEC & CFTC on Crypto, IPOs & the Future of American Markets [40403225].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/commodityfuturestradingcommission/"
+    },
     "CommodityTrapEscape": {
       "episode_count": 1,
       "show_count": 1,
@@ -49961,6 +50019,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/concepts/cryptidlegendformation/"
+    },
+    "CryptoAssetFunctionalClassification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rewriting the Rules： The SEC & CFTC on Crypto, IPOs & the Future of American Markets [40403225].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/cryptoassetfunctionalclassification/"
     },
     "CryptoPaymentPracticalityGap": {
       "episode_count": 2,
@@ -151081,6 +151155,22 @@
       "updated": "2026-09-28",
       "url": "/wiki/entities/michaelpollan/"
     },
+    "MichaelSeelig": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rewriting the Rules： The SEC & CFTC on Crypto, IPOs & the Future of American Markets [40403225].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/michaelseelig/"
+    },
     "MichaelServetus": {
       "episode_count": 1,
       "show_count": 1,
@@ -169937,6 +170027,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/patronagelossselfprotection/"
     },
+    "PaulAtkins": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rewriting the Rules： The SEC & CFTC on Crypto, IPOs & the Future of American Markets [40403225].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/paulatkins/"
+    },
     "PaulBarras": {
       "episode_count": 1,
       "show_count": 1,
@@ -178501,6 +178607,57 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/predictionmarketgenderedattention/"
     },
+    "PredictionMarketIntegrityOversight": {
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "tech_20260814_TECH_pod_128 [tech_20260814_TECH_pod_128].md",
+          "key": "tech-20260814-tech-pod-128-tech-20260814-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "States rush to police AI deepfakes ahead of midterm elections",
+          "url": "/wiki/sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_6891c8a7c8b53d0f05962eea3857081d_25452949 [default.mp3_ywr3ahjkcgo_6891c8a7c8b53d0f05962eea3857081d_25452949].md",
+          "key": "before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets",
+          "show": "Planet Money",
+          "title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
+          "url": "/wiki/sources/before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_0d9c6366fbf4091cd16997a64667ef8c_33634502 [default.mp3_ywr3ahjkcgo_0d9c6366fbf4091cd16997a64667ef8c_33634502].md",
+          "key": "do-prediction-market-bettors-make-anything-better",
+          "show": "Planet Money",
+          "title": "Do prediction market bettors make anything better?",
+          "url": "/wiki/sources/do-prediction-market-bettors-make-anything-better/"
+        },
+        {
+          "episode_file": "tech_20260327_0327_MP_TECH_pod_128 [tech_20260327_0327_MP_TECH_pod_128].md",
+          "key": "tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation",
+          "url": "/wiki/sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260324_0324_MP_TECH_pod_128 [tech_20260324_0324_MP_TECH_pod_128].md",
+          "key": "tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "U.S. regulators eye rules for prediction markets",
+          "url": "/wiki/sources/tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rewriting the Rules： The SEC & CFTC on Crypto, IPOs & the Future of American Markets [40403225].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/predictionmarketintegrityoversight/"
+    },
     "PredictionMarketPublicGoodClaim": {
       "episode_count": 4,
       "show_count": 3,
@@ -182108,6 +182265,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/publicattentionagainsttrafficking/"
+    },
+    "PublicCompanyRegulatoryBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rewriting the Rules： The SEC & CFTC on Crypto, IPOs & the Future of American Markets [40403225].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/publiccompanyregulatoryburden/"
     },
     "PublicCorpseHumiliation": {
       "episode_count": 5,
@@ -194241,6 +194414,59 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/ryansocialrobot/"
+    },
+    "SEC": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "145.基金投顾值得信任吗？ [lrcKug0zJQoLcCzni8AjIkB0K5mi].md",
+          "key": "145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi",
+          "show": "起朱楼宴宾客",
+          "title": "145.基金投顾值得信任吗？",
+          "url": "/wiki/sources/145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi/"
+        },
+        {
+          "episode_file": "TSR-S4-TylerShultzPart2-v3 [TSR-S4-TylerShultzPart2-v3].md",
+          "key": "tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3",
+          "show": "The Social Radars",
+          "title": "Tyler Shultz, Theranos Whistleblower (Part 2)",
+          "url": "/wiki/sources/tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3/"
+        },
+        {
+          "episode_file": "SocialRadarsPod-BrianArmstrong-Final [SocialRadarsPod-BrianArmstrong-Final].md",
+          "key": "socialradarspod-brianarmstrong-final",
+          "show": "The Social Radars",
+          "title": "Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience",
+          "url": "/wiki/sources/socialradarspod-brianarmstrong-final/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rewriting the Rules： The SEC & CFTC on Crypto, IPOs & the Future of American Markets [40403225].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/sec/"
+    },
+    "SECCFTCCoordination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rewriting the Rules： The SEC & CFTC on Crypto, IPOs & the Future of American Markets [40403225].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/seccftccoordination/"
     },
     "SHEIN": {
       "episode_count": 2,
@@ -206530,6 +206756,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/sophiezhang/"
+    },
+    "SophisticationBasedPrivateMarketAccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rewriting the Rules： The SEC & CFTC on Crypto, IPOs & the Future of American Markets [40403225].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/sophisticationbasedprivatemarketaccess/"
     },
     "SoreThroatEscalation": {
       "episode_count": 1,
@@ -221497,6 +221739,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/concepts/tokentaxonai/"
+    },
+    "TokenizedMarketStructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Rewriting the Rules： The SEC & CFTC on Crypto, IPOs & the Future of American Markets [40403225].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/tokenizedmarketstructure/"
     },
     "TokugawaForeignTradeAmbivalence": {
       "episode_count": 2,

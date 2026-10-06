@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9755
+wiki_total_pages: 9760
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "SeasonalWellnessMarketingBoundary"
     title: "Seasonal Wellness Marketing Boundary / 节气养生营销边界"
     url: "/wiki/concepts/seasonalwellnessmarketingboundary/"
+  - key: "SECCFTCCoordination"
+    title: "SEC-CFTC Coordination"
+    url: "/wiki/concepts/seccftccoordination/"
   - key: "SecondFirstImpression"
     title: "Second First Impression"
     url: "/wiki/concepts/secondfirstimpression/"
@@ -1382,6 +1385,9 @@ wiki_pages:
   - key: "SongwritingEmotionalProcessing"
     title: "Songwriting as Emotional Processing"
     url: "/wiki/concepts/songwritingemotionalprocessing/"
+  - key: "SophisticationBasedPrivateMarketAccess"
+    title: "Sophistication-Based Private-Market Access"
+    url: "/wiki/concepts/sophisticationbasedprivatemarketaccess/"
   - key: "SorenessRecoveryBoundary"
     title: "Soreness-Recovery Boundary"
     url: "/wiki/concepts/sorenessrecoveryboundary/"
