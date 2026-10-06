@@ -31034,3 +31034,11 @@ Added source `zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-yo
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | Essentials: The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker
+
+Added source `essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150`; resynthesized [[CharlesZuker]], [[TasteIdentityValenceCircuit]], [[TasteNutrientHazardDetection]], [[GutSensoryNeuralSignaling]], and [[SugarCravingNeuralControl]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: taste separates detection, perception, valence, and action; learning, desensitization, and physiological need can modify hardwired biases; and oral sweet liking can dissociate from post-ingestive sugar wanting through selective intestinal and vagal signaling. No settled contradiction was adopted. The Essentials episode is a condensed version of the existing full Zuker interview and therefore raises confidence without supplying independent experiments. “Zucker” in the body is normalized to the canonical [[CharlesZuker]] spelling used by the title; cortical mapping, anticipatory insulin, vagal specificity, artificial-sweetener, processed-food, obesity, and clinical claims remain source-scoped. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were kept closed because the focused source, entity, and concepts capture the bounded addition without rewriting their much larger evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,880 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

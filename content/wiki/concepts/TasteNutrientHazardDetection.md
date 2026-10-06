@@ -6,7 +6,8 @@ sources:
   - essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826
   - the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386
   - how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027
-last_updated: 2026-10-03
+  - essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -38,13 +39,14 @@ This pathway complements smell and somatosensation but does not reduce flavor, f
 - Distributed receptors and valence - [[the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386]] rejects the tongue map, describes broadly distributed taste buds, and separates quality from positive or negative value.
 - Plasticity and nutrient confirmation - [[the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386]] uses conditioned aversion, acquired liking, salt need, and sweet-receptor-knockout mice to distinguish learned value from post-ingestive reinforcement.
 - Distributed-receptor boundary - [[how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027]] describes taste receptors in gut, respiratory, ovarian, and testicular tissue while explicitly noting the absence of direct evidence for food-driven gonadal stimulation.
+- Essentials corroboration - [[essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150]] reiterates the adaptive roles of the five basic tastes, broadly distributed taste buds, bitter-receptor enrichment near the back of the tongue, and the distinction between taste and multisensory flavor.
 
 ## Counterevidence & Qualifications
-Adaptive signal labels are simplifications: bitter foods are not necessarily poisonous, sour foods are not necessarily spoiled, and sweet or fatty foods are not necessarily appropriate in every dietary context. The sources do not supply the primary evidence, thresholds, population variation, or current consensus needed to settle fat as a sixth basic taste. Mouse receptor, silencing, activation, and preference experiments do not establish identical human percepts or dietary outcomes. Receptor expression in non-oral tissue does not establish conscious taste there or a direct dietary intervention.
+Adaptive signal labels are simplifications: bitter foods are not necessarily poisonous, sour foods are not necessarily spoiled, and sweet or fatty foods are not necessarily appropriate in every dietary context. The sources do not supply the primary evidence, thresholds, population variation, or current consensus needed to settle fat as a sixth basic taste. The full and Essentials Zuker notes are versions of the same conversation rather than independent evidence. Mouse receptor, silencing, activation, and preference experiments do not establish identical human percepts or dietary outcomes. Receptor expression in non-oral tissue does not establish conscious taste there or a direct dietary intervention.
 
 ## What Changed
-- Added extra-oral taste-receptor expression while separating tissue presence from proven dietary control.
-- Preserved fat taste, diet-driven sensitivity, and rapid receptor-renewal claims as qualified rather than settled.
+- Increased confidence in the five-category adaptive framework and distributed-bud account through a condensed restatement.
+- Kept the Essentials cut separate from independent replication and retained all dietary and clinical qualifications.
 
 ## Related Concepts
 - [[Chemosensation]] - umbrella that joins taste with smell and other chemical sensing.

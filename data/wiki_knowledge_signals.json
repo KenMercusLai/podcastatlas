@@ -36471,9 +36471,9 @@
       "url": "/wiki/entities/charlesxii/"
     },
     "CharlesZuker": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7979038386 [SCIM7979038386].md",
@@ -36481,9 +36481,16 @@
           "show": "Huberman Lab",
           "title": "The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
           "url": "/wiki/sources/the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386/"
+        },
+        {
+          "episode_file": "SCIM4352602150 [SCIM4352602150].md",
+          "key": "essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
+          "url": "/wiki/sources/essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/charleszuker/"
     },
     "CharlotteCorday": {
@@ -96169,9 +96176,9 @@
       "url": "/wiki/entities/gustavstresemann/"
     },
     "GutSensoryNeuralSignaling": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM8970398714 [SCIM8970398714].md",
@@ -96200,9 +96207,16 @@
           "show": "Huberman Lab",
           "title": "How to Optimize Your Brain-Body Function & Health",
           "url": "/wiki/sources/scim4317576130-scim4317576130/"
+        },
+        {
+          "episode_file": "SCIM4352602150 [SCIM4352602150].md",
+          "key": "essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
+          "url": "/wiki/sources/essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/gutsensoryneuralsignaling/"
     },
     "Guthrum": {
@@ -214353,9 +214367,9 @@
       "url": "/wiki/concepts/sufferingbasedmoralsubjecthood/"
     },
     "SugarCravingNeuralControl": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM2821501065 [SCIM2821501065].md",
@@ -214398,9 +214412,16 @@
           "show": "Huberman Lab",
           "title": "Nutrients for Brain Health & Performance",
           "url": "/wiki/sources/scim8313693954-scim8313693954/"
+        },
+        {
+          "episode_file": "SCIM4352602150 [SCIM4352602150].md",
+          "key": "essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
+          "url": "/wiki/sources/essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/sugarcravingneuralcontrol/"
     },
     "SuiHongWesternHan": {
@@ -218620,9 +218641,9 @@
       "url": "/wiki/concepts/tastefirstcpgpositioning/"
     },
     "TasteIdentityValenceCircuit": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7979038386 [SCIM7979038386].md",
@@ -218637,15 +218658,22 @@
           "show": "Huberman Lab",
           "title": "Nutrients for Brain Health & Performance",
           "url": "/wiki/sources/scim8313693954-scim8313693954/"
+        },
+        {
+          "episode_file": "SCIM4352602150 [SCIM4352602150].md",
+          "key": "essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
+          "url": "/wiki/sources/essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150/"
         }
       ],
-      "updated": "2026-10-02",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/tasteidentityvalencecircuit/"
     },
     "TasteNutrientHazardDetection": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM3853502826 [SCIM3853502826].md",
@@ -218667,9 +218695,16 @@
           "show": "Huberman Lab",
           "title": "How Smell, Taste & Pheromone-Like Chemicals Control You",
           "url": "/wiki/sources/how-smell-taste-pheromone-like-chemicals-control-you-scim5509060027/"
+        },
+        {
+          "episode_file": "SCIM4352602150 [SCIM4352602150].md",
+          "key": "essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Taste Perception & Sugar Craving | Dr. Charles Zuker",
+          "url": "/wiki/sources/essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/tastenutrienthazarddetection/"
     },
     "TateWalker": {

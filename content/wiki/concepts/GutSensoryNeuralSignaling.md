@@ -7,7 +7,8 @@ sources:
   - the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386
   - how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394
   - scim4317576130-scim4317576130
-last_updated: 2026-10-03
+  - essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -44,13 +45,14 @@ This mechanism does not validate every popular claim about a “gut feeling.” 
 - Earlier synthesis - [[how-to-enhance-your-gut-microbiome-for-brain-overall-health-scim1762541394]] connects gut sugar sensing, the vagus nerve, and dopamine-related food seeking while retaining neural, endocrine, mechanical, and microbial pathways as distinct layers.
 - Vagal heterogeneity - [[the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386]] cautions that thousands of vagal fibers carry different information from multiple organs, limiting inference from broad stimulation.
 - Earlier mechanical and nutrient layer - [[scim4317576130-scim4317576130]] describes stomach fullness, intestinal stretch, and nutrient-sensitive gut pathways as distinct inputs that can alter satiety and food seeking.
+- Condensed Zuker account - [[essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150]] reiterates that intestinal sugar-responsive cells signal through vagal ganglia and that the vagus contains task-specific fibers carrying different organ and nutritional information.
 
 ## Counterevidence & Qualifications
-The page relies on condensed public interviews and solo syntheses rather than the primary papers. They do not supply sample sizes, effect magnitudes, full experimental controls, or the limits of viral tracing, receptor knockout, and optogenetic specificity. The early episode's GLP-1R and GPR65 labels are retained as its simplified account, not as a complete current taxonomy of gut sensory neurons. Cell culture and mouse behavior establish neither the subjective content of human gut feelings nor clinical benefit from trying to manipulate the pathway. Protein sensing, gastric-bypass causality, visceral hypersensitivity, artificial-sweetener appetite effects, processed-food timing, vagus stimulation, plant effects, gut-brain rhythm synchronization, sound regulation, and intuition remain source-scoped extensions.
+The page relies on condensed public interviews and solo syntheses rather than the primary papers, and the full and Essentials Zuker notes are versions of the same conversation rather than independent evidence. They do not supply sample sizes, effect magnitudes, full experimental controls, or the limits of viral tracing, receptor knockout, and optogenetic specificity. The early episode's GLP-1R and GPR65 labels are retained as its simplified account, not as a complete current taxonomy of gut sensory neurons. Cell culture and mouse behavior establish neither the subjective content of human gut feelings nor clinical benefit from trying to manipulate the pathway. Protein sensing, gastric-bypass causality, visceral hypersensitivity, artificial-sweetener appetite effects, processed-food timing, vagus stimulation, plant effects, gut-brain rhythm synchronization, sound regulation, and intuition remain source-scoped extensions.
 
 ## What Changed
-- Added the earlier mechanical distinction between gut stretch or fullness and nutrient-sensitive signaling.
-- Kept the episode's named receptor assignments source-scoped rather than treating them as a complete cellular taxonomy.
+- Increased confidence in the distinction between heterogeneous vagal signaling and a selective post-ingestive sugar pathway.
+- Kept the condensed Zuker account as corroboration rather than independent replication.
 
 ## Related Concepts
 - [[SugarCravingNeuralControl]] - narrower application to sweet taste and post-ingestive sugar reinforcement.

@@ -5,7 +5,8 @@ tags: [taste, perception, valence, neural-circuits, learning]
 sources:
   - the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386
   - scim8313693954-scim8313693954
-last_updated: 2026-10-02
+  - essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ This circuit account also has a boundary: flavor combines taste with smell, text
 
 The earlier solo episode independently presents the same separation through insular taste processing and mouse manipulation of sweet- and bitter-responsive neurons. It also makes preference conditioning more explicit: oral value can be revised when a taste repeatedly predicts metabolically useful consequences and when expectations change the food's interpreted meaning.
 
+The later Essentials cut reiterates the fast progression from receptor cells through ganglia, brainstem, thalamus, and cortex and emphasizes that hardwired valence is a starting point rather than a fixed outcome. Its desensitization, caffeine-learning, and salt-deprivation examples support modulation at receptor, circuit, learning, and internal-state levels, but they derive from the same Zuker conversation as the full interview.
+
 ## Key Claims
 - Chemical detection, perceptual identity, valence, and behavioral response are distinguishable stages rather than synonyms.
 - Sweet- and bitter-related signals are described as maintaining partly distinct pathways from oral receptors into cortex and amygdala-linked circuits.
@@ -38,13 +41,14 @@ The earlier solo episode independently presents the same separation through insu
 - Plasticity - [[the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386]] uses conditioned taste aversion, acquired liking for bitter drinks, desensitization, and salt deprivation to show context-dependent value.
 - Dual reinforcement - [[the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim7979038386]] distinguishes fast taste-based liking from slower gut-based sugar wanting.
 - Independent circuit and conditioning account - [[scim8313693954-scim8313693954]] describes sweet-neuron silencing and activation, insular taste representation, and learned pairing between taste and metabolic reward.
+- Condensed corroboration - [[essentials-the-biology-of-taste-perception-sugar-craving-dr-charles-zuker-scim4352602150]] reiterates subsecond signaling, cortical taste-quality mapping, receptor desensitization, caffeine-associated learning, and salt-need modulation.
 
 ## Counterevidence & Qualifications
-The page relies on two structured podcast summaries rather than primary experimental reports. They supply no sample sizes, effect magnitudes, anatomical-resolution limits, or complete controls, and causal mouse manipulations do not reveal an animal's subjective experience or establish identical human cortical organization. The five-category model is useful but does not settle fat, metallic sensations, mixtures, intensity coding, or the full multisensory construction of flavor. Preference plasticity does not guarantee that every aversion can or should be trained away.
+The page relies on three structured podcast summaries rather than primary experimental reports, and two summarize full and condensed versions of the same Zuker interview. They supply no sample sizes, effect magnitudes, anatomical-resolution limits, or complete controls, and causal mouse manipulations do not reveal an animal's subjective experience or establish identical human cortical organization. The five-category model is useful but does not settle fat, metallic sensations, mixtures, intensity coding, or the full multisensory construction of flavor. Preference plasticity does not guarantee that every aversion can or should be trained away.
 
 ## What Changed
-- Added an independent account connecting taste-circuit manipulation to learned metabolic and belief context.
-- Preserved the distinction between circuit-level mouse behavior and human subjective preference.
+- Increased confidence that taste value is modulated at receptor, circuit, learning, and internal-state levels.
+- Kept the Essentials cut as corroboration of the full interview rather than independent experimental evidence.
 
 ## Related Concepts
 - [[TasteNutrientHazardDetection]] - adaptive function served by the identity and valence system.
