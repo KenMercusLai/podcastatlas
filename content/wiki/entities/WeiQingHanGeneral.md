@@ -12,6 +12,7 @@ sources:
   - zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1
   - zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5
   - zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn
+  - zizhi-tongjian-hanji-325-2-liguang-weihe-hui-zisha-ta-fanle-shenme-cuo-lsrkaep1np1bugqae8ujie2ttqpe
 last_updated: 2026-10-06
 ---
 
@@ -31,6 +32,8 @@ The transition evidence adds only a narrow role outside those established branch
 
 A conflict-containment case extends that profile. After [[LiGuangHanGeneral|李广]] dies following a missed movement and inquiry, Li Gan blames and assaults Wei Qing. Wei conceals the assault instead of pursuing punishment in [[zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1|Hanji 335]]. That restraint is consistent with the page's low-threat, non-escalatory profile, but the source does not establish whether it came from guilt, political judgment, compassion, or another motive. The later killing of Li Gan by Wei's nephew Huo Qubing also shows that one actor's forbearance does not settle a grievance across a kin network.
 
+[[zizhi-tongjian-hanji-325-2-liguang-weihe-hui-zisha-ta-fanle-shenme-cuo-lsrkaep1np1bugqae8ujie2ttqpe|Hanji 325-2]] expands the disputed campaign prehistory without settling culpability. It says Wei Qing cites a secret instruction associated with [[HanWudi|汉武帝]] when moving Li Guang from the vanguard to an eastern route with [[ZhaoShiqiWesternHan|赵食其]]; the force then lacks a guide, becomes lost, and misses the battle. The host suspects political maneuvering or deliberate guide removal, but the episode supplies no direct evidence that Wei planned the failure, knew why the guide was absent, or intended Li Guang's death.
+
 A comparative welfare layer rather than a new campaign comes from [[zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn|Hanji 328-2]]. The host attributes Wei's understanding of hardship, kindness toward soldiers and civilians, humility, and conciliatory manner to his poor upbringing, then uses that profile to contrast Huo's discarded provisions and cuju under food shortage. This is consistent with the existing humility and conflict-containment synthesis, but upbringing as cause and the full character contrast remain the episode's interpretation.
 
 The post-Huo transition remains disputed. [[zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5|Hanji 336-2]] distinguishes Wei and Huo Qubing personally from the groups around them, then reads title losses after Huo's death and Wei's long absence from active command as deliberate imperial weakening. This can coexist with Hanji 369-1's claim that Wei retained stabilizing prestige, but the intent, faction boundary, and causal chain remain the host's reconstruction.
@@ -41,7 +44,7 @@ The post-Huo transition remains disputed. [[zizhi-tongjian-hanji-336-2-huoqubing
 - Husband in the episode's elite-remarriage example around Pingyang Princess.
 - Senior-command vacancy marker whose death helps trigger a broad Han Wudi recruitment response.
 - Source-scoped stabilizing counterweight whose death is used to explain a later turn toward greater imperial suspicion and control.
-- Conflict-container who conceals Li Gan's assault rather than escalating it through formal punishment.
+- Final-campaign commander whose reassignment of Li Guang precedes a guide and navigation failure, while intent and responsibility remain unresolved.
 - Huo Qubing's uncle and comparison figure whose poorer upbringing is used to explain a more hardship-aware command style, while later inactivity can coexist with continuing prestige.
 
 ## Evidence
@@ -55,15 +58,16 @@ The post-Huo transition remains disputed. [[zizhi-tongjian-hanji-336-2-huoqubing
 - Continuing stabilizer and honor: [[zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer|Hanji 369-1]] says Wei Qing remained important after his last campaigns and received a specially shaped tomb and the posthumous title Lie.
 - Counterweight interpretation: [[zizhi-tongjian-hanji-369-1-weiqing-zhisi-jing-rang-hanwudi-ruci-fengkuang-lljxwjp9qxvpog9q2dh2kiyyccer|Hanji 369-1]] presents his death as removing a check on Wudi's authority and thereby worsening insecurity and control-seeking.
 - Private forbearance: [[zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1|Hanji 335]] says Wei Qing conceals Li Gan's assault and does not pursue punishment.
+- Li Guang deployment dispute: [[zizhi-tongjian-hanji-325-2-liguang-weihe-hui-zisha-ta-fanle-shenme-cuo-lsrkaep1np1bugqae8ujie2ttqpe|Hanji 325-2]] says Wei moves Li Guang from the vanguard to an eastern route under a claimed secret instruction before Li's force becomes lost without a guide.
 - Soldier-welfare comparison: [[zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn|Hanji 328-2]] attributes Wei's empathy, kindness, humility, and conciliatory conduct to lived poverty and contrasts these traits with Huo Qubing's handling of hungry troops.
 - Post-Huo power-field interpretation: [[zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5|Hanji 336-2]] treats Wei-family title losses and Wei's lack of active command as evidence that Wudi was reducing the wider kin-linked military bloc.
 
 ## Qualifications
-This page remains source-scoped to eight compact podcast notes. It does not provide a full military biography, reconstruct Wei Qing's campaigns, assess every interpretation of his relationship with Emperor Wu, or supply complete genealogical and legal records for Wei Kang, Wei Buyi, and Wei Deng. Hanji 328-2's poverty-to-empathy explanation and total contrast with Huo Qubing are character interpretations rather than a comparative command study. Hanji 369-2 does not name the other depleted officials or prove that Wei Qing's death alone created the shortage. Hanji 369-1 does not prove that his death caused Wudi's later violence, establish his exact age, or substantiate the claim that nearly every imperial commander learned from him. Hanji 335 does not establish why Wei concealed Li Gan's assault or prove the host's suggestion that he felt guilty. Hanji 336-2 does not prove a coherent Wei-Huo faction, deliberate imperial dismantling, or any imperial role in Huo's death. The remarriage example establishes an elite case rather than population-wide Han practice.
+This page remains source-scoped to nine compact podcast notes. It does not provide a full military biography, reconstruct Wei Qing's campaigns, assess every interpretation of his relationship with Emperor Wu, or supply complete genealogical and legal records for Wei Kang, Wei Buyi, and Wei Deng. Hanji 325-2 does not prove the content or motive of the secret instruction, who caused the guide's absence, whether Wei intended Li Guang to fail, or whether the later inquiry was designed to humiliate him. Hanji 328-2's poverty-to-empathy explanation and total contrast with Huo Qubing are character interpretations rather than a comparative command study. Hanji 369-2 does not name the other depleted officials or prove that Wei Qing's death alone created the shortage. Hanji 369-1 does not prove that his death caused Wudi's later violence, establish his exact age, or substantiate the claim that nearly every imperial commander learned from him. Hanji 335 does not establish why Wei concealed Li Gan's assault or prove the host's suggestion that he felt guilty. Hanji 336-2 does not prove a coherent Wei-Huo faction, deliberate imperial dismantling, or any imperial role in Huo's death. The remarriage example establishes an elite case rather than population-wide Han practice.
 
 ## What Changed
-- Added source-attributed soldier empathy and hardship awareness to Wei Qing's existing humility and restraint profile.
-- Preserved poor upbringing as an episode-level explanation rather than a settled cause of character.
+- Added the Li Guang reassignment, absent-guide failure, and command inquiry as a disputed final-campaign branch.
+- Preserved deliberate maneuvering, guide removal, and Wei Qing's culpability as episode-level suspicions rather than settled findings.
 
 ## Relationships
 - [[HighMeritThreatManagement]] - concept Wei Qing exemplifies through humility and credit-sharing.
@@ -77,5 +81,7 @@ This page remains source-scoped to eight compact podcast notes. It does not prov
 - [[TalentSummonsRulerSelfExamination]] - recruitment concept activated by the vacancy crisis following Wei Qing's death.
 - [[CounterweightLossControlEscalation]] - interpretive mechanism in which Wei Qing's disappearance increases ruler insecurity despite reducing open constraint.
 - [[LiGanWesternHan|李敢]] - grieving officer whose assault Wei Qing conceals.
+- [[LiGuangHanGeneral|李广]] - reassigned general whose route failure and suicide become a later grievance against Wei Qing.
+- [[ZhaoShiqiWesternHan|赵食其]] - right general paired with Li Guang on the eastern route.
 - [[HuoQubing|霍去病]] - nephew whose killing of Li Gan defeats Wei Qing's apparent de-escalation and whose command style is contrasted with Wei's hardship awareness.
 - [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - adjacent command principle supported by the episode's comparison of material care and commander insulation.

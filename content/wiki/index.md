@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》325-2｜李广为何会自杀？他犯了什么错？](sources/zizhi-tongjian-hanji-325-2-liguang-weihe-hui-zisha-ta-fanle-shenme-cuo-lsrkaep1np1bugqae8ujie2ttqpe.md) — 李广与赵食其因无向导而迷路、错过漠北主战并面临审讯；李广承担责任后自杀，其爱兵声望有具体物质基础，而向导被人为移除和政治谋划仍属节目推测。
 - [651. London’s Golden Age: Sex and Scandal in Georgian Britain (Part 2)](sources/651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808.md) — The Rest Is History on Boswell’s candid diary, formative friendship with Samuel Johnson, continental celebrity seeking, Corsican advocacy, and public self-fashioning.
 - [Vol.355 推销员之死：那些杀不死我的，为什么一直在打我](sources/vol-355-tuixiaoyuan-zhisi-naxie-shabusi-wode-weishenme-yizhi-zai-dawo-gkwriw4ols9xawr6vqtifmya.md) — 文化有限从成功神话、自我商品化、家庭继承与心理时间舞台化解读《推销员之死》，并保留作者生平、人物动机和跨文化接受的证据边界。
 - [No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？](sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax.md) — 三五环 solo episode on OpenClaw's spread, architecture, workflow fit, token cost, permission and skill risk, delegated interaction, labor change, and retained human judgment.
@@ -3896,6 +3897,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Benefits of Sauna & Deliberate Heat Exposure](sources/essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357.md) — Condensed Huberman Lab episode on heat dose, thermoregulation, cardiovascular associations, acute hormone responses, mood, sleep, hydration, and hyperthermia safety.
 
 ## Entities
+- [赵食其 / Zhao Shiqi (Western Han)](entities/ZhaoShiqiWesternHan.md) — Western Han right general who shares Li Guang's final eastern-route navigation failure but survives trial by redeeming the reported death sentence and losing office.
 - [Arthur Miller / 阿瑟·米勒](entities/ArthurMiller.md) — American playwright represented through social drama, theatrical necessity, political refusal, and the 1983 Beijing production of *Death of a Salesman*.
 - [Death of a Salesman / 《推销员之死》](entities/DeathOfASalesman.md) — Two-act family tragedy joining success ideology, work-based self-worth, inherited aspiration, and permeable psychological time.
 - [Willy Loman / 威利·洛曼](entities/WillyLoman.md) — Salesman whose belief in popularity and usefulness makes career failure an identity collapse.
@@ -5935,7 +5937,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tian Yannian (Western Han)](entities/TianYannianWesternHan.md) — Huo Guang confidant and da sinong whose corruption case becomes fatal after he lies to his patron.
 - [常惠 / Chang Hui (Western Han)](entities/ChangHuiWesternHan.md) — Western Han mission member who first helps save Su Wu, later creates his proof-of-life route, and then links Wusun, Xiongnu, and Cheshi field action.
 - [苏武 / Su Wu (Western Han)](entities/SuWuWesternHan.md) — Western Han chief envoy whose mission crisis, two suicide attempts, starvation, North Sea exile, staff-holding ritual, mourning, and return form one loyalty arc.
-- [李广 / Li Guang (Western Han general)](entities/LiGuangHanGeneral.md) — Famous Western Han general whose reputation and martial traits become Li Ling's inherited model and identity burden.
+- [李广 / Li Guang (Western Han general)](entities/LiGuangHanGeneral.md) — Western Han “Flying General” whose shared-hardship leadership, accepted responsibility, route failure, suicide, and family afterlife remain distinct from unproved conspiracy claims.
 - [李陵 / Li Ling (Western Han)](entities/LiLingWesternHan.md) — Former Han officer whose volunteer infantry plan, failed support, resilient battle, surrender, family destruction, and Su Wu encounter form an expanding tragedy.
 - [路博德 / Lu Bode (Western Han)](entities/LuBodeWesternHan.md) — 从受命与杨仆共征南越，到居延设防、会师李广利及与李陵接应部署分离的西汉将领。
 - [韩说 / Han Shuo (Western Han)](entities/HanShuoWesternHan.md) — Youji General whose Wuyuan infantry force returns without achievement in Hanji 380-1's anti-Xiongnu campaign.
@@ -20928,7 +20930,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Legalist governance frame extending from ruler control of ministers to Shang Yang's enforceable social redesign.
 - [Virtue Over Natural Barriers / 德胜地险](concepts/VirtueOverNaturalBarriers.md) — Wu Qi's warning that terrain helps only when political virtue, legitimacy, and internal alignment hold.
 - [Transition Fit Over Merit / 过渡期适任优先于功劳](concepts/TransitionFitOverMerit.md) — Leadership-selection frame where a fragile succession needs stabilizing fit more than the strongest resume.
-- [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Leadership mechanism linking commander credibility, shared burden, visible insulation from hardship, discipline, and soldiers' willingness to accept delayed battle.
+- [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Command mechanism linking shared bodily burden to credibility and loyalty while preserving limits around coercive death-ground tactics, logistics, and ruler suspicion.
 - [Posthumous Name Politics / 谥号政治](concepts/PosthumousNamePolitics.md) — Chronicle-reading concept for how posthumous ruler labels encode retrospective judgment rather than ordinary names.
 - [Bandit Assassination Attribution / 盗贼行刺归因](concepts/BanditAssassinationAttribution.md) — Historiographical caution that physical killers, convoy robbers, or "bandits" may be real while political authorship remains unresolved.
 - [Small-State Buffer Diplomacy / 小国夹缝外交](concepts/SmallStateBufferDiplomacy.md) — Pattern where a small state between great powers appears fickle because any alliance choice creates another threat.
