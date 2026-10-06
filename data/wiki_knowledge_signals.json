@@ -80409,9 +80409,9 @@
       "url": "/wiki/concepts/firstdraftthinking/"
     },
     "FirstHexiCampaignWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？ [luS99k4VPhQAJ8xOFKm0RQI1nGa9].md",
@@ -80419,6 +80419,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》307-2｜霍去病孤军一战，战神能有多变态？ [ll-eGJUU-Gn-s-_MaZrBbARFMB02].md",
+          "key": "zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-you-duo-biantai-ll-egjuu-gn-s-_mazrbbarfmb02",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》307-2｜霍去病孤军一战，战神能有多变态？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-you-duo-biantai-ll-egjuu-gn-s-_mazrbbarfmb02/"
         }
       ],
       "updated": "2026-10-07",
@@ -109771,9 +109778,9 @@
       "url": "/wiki/entities/hundredyearswar/"
     },
     "HunyeKingWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人 [ljB-oCShiaUHvyra88ayKkQlXKAk].md",
@@ -109809,6 +109816,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》312｜降汉的匈奴王，为何突然内斗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-312-xianghan-de-xiongnu-wang-weihe-turan-neidou-lkbyh1fglhog0d9voaxitwu59eic/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》307-2｜霍去病孤军一战，战神能有多变态？ [ll-eGJUU-Gn-s-_MaZrBbARFMB02].md",
+          "key": "zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-you-duo-biantai-ll-egjuu-gn-s-_mazrbbarfmb02",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》307-2｜霍去病孤军一战，战神能有多变态？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-you-duo-biantai-ll-egjuu-gn-s-_mazrbbarfmb02/"
         }
       ],
       "updated": "2026-10-07",
@@ -110061,9 +110075,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -110176,6 +110190,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》307-2｜霍去病孤军一战，战神能有多变态？ [ll-eGJUU-Gn-s-_MaZrBbARFMB02].md",
+          "key": "zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-you-duo-biantai-ll-egjuu-gn-s-_mazrbbarfmb02",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》307-2｜霍去病孤军一战，战神能有多变态？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-you-duo-biantai-ll-egjuu-gn-s-_mazrbbarfmb02/"
         }
       ],
       "updated": "2026-10-07",
@@ -243749,9 +243770,9 @@
       "url": "/wiki/entities/xiulichanyu/"
     },
     "XiutuKingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》312｜降汉的匈奴王，为何突然内斗？ [lkBYh1fGlHOg0d9voAxiTwu59EiC].md",
@@ -243759,6 +243780,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》312｜降汉的匈奴王，为何突然内斗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-312-xianghan-de-xiongnu-wang-weihe-turan-neidou-lkbyh1fglhog0d9voaxitwu59eic/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》307-2｜霍去病孤军一战，战神能有多变态？ [ll-eGJUU-Gn-s-_MaZrBbARFMB02].md",
+          "key": "zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-you-duo-biantai-ll-egjuu-gn-s-_mazrbbarfmb02",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》307-2｜霍去病孤军一战，战神能有多变态？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-you-duo-biantai-ll-egjuu-gn-s-_mazrbbarfmb02/"
         }
       ],
       "updated": "2026-10-07",

@@ -31026,3 +31026,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》307-2｜霍去病孤军一战，战神能有多变态？
+
+Added source `zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-you-duo-biantai-ll-egjuu-gn-s-_mazrbbarfmb02`; resynthesized [[FirstHexiCampaignWesternHan|第一次河西之战]], [[HuoQubing|霍去病]], [[HunyeKingWesternHan|浑邪王]], and [[XiutuKingWesternHan|休屠王]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the episode closes the first Hexi campaign by connecting sustained pursuit to a claimed decisive fight near Gaolan Mountain, elite casualties and captures, symbolic booty, imperial reward, and a Yellow River fort, while keeping all detailed names, places, figures, motives, battle mechanics, trophy meaning, and Jincheng identification source-scoped. The renewed ten-thousand-person force description remains unreconciled with Hanji 307-1's claimed seven-thousand Han losses. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,879 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
