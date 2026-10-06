@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [651. London’s Golden Age: Sex and Scandal in Georgian Britain (Part 2)](sources/651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808.md) — The Rest Is History on Boswell’s candid diary, formative friendship with Samuel Johnson, continental celebrity seeking, Corsican advocacy, and public self-fashioning.
 - [Vol.355 推销员之死：那些杀不死我的，为什么一直在打我](sources/vol-355-tuixiaoyuan-zhisi-naxie-shabusi-wode-weishenme-yizhi-zai-dawo-gkwriw4ols9xawr6vqtifmya.md) — 文化有限从成功神话、自我商品化、家庭继承与心理时间舞台化解读《推销员之死》，并保留作者生平、人物动机和跨文化接受的证据边界。
 - [No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？](sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax.md) — 三五环 solo episode on OpenClaw's spread, architecture, workflow fit, token cost, permission and skill risk, delegated interaction, labor change, and retained human judgment.
 - [《资治通鉴·汉纪》327-2｜霍去病不读《孙子兵法》，为何能用兵如神？](sources/zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7.md) — 以霍去病拒绝受古兵法拘束及河西骑兵高速远程作战为例，说明旧规则须按兵种、后勤与作战环境检验，而非断言整部《孙子兵法》失效。

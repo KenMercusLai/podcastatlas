@@ -4,25 +4,29 @@ type: concept
 tags: [nationalism, corsica, identity, revolution]
 sources:
   - 382-young-napoleon-teenage-revolutionary-part-1-glt6500252244
+  - 651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-27
+last_updated: 2026-10-06
 ---
 
 # Corsican Nationalism
 
 ## Definition
 
-Corsican nationalism is the source's political tradition of island liberty, institutional self-government, and resistance to external rule, especially as organized around [[PasqualePaoli|Pasquale Paoli]] and inherited by the young [[NapoleonBonaparte|Napoleon]].
+Corsican nationalism is the sources’ political tradition of island liberty, institutional self-government, and resistance to external rule, especially as organized around [[PasqualePaoli|Pasquale Paoli]], promoted abroad by admirers such as [[JamesBoswell]], and inherited by the young [[NapoleonBonaparte|Napoleon]].
 
 ## Current Synthesis
 
-The episode places the tradition between Genoese weakness and French conquest. Paoli sought not only independence but a modern constitutional state with public institutions, education, and a British-influenced political model. Napoleon inherited that cause as both political program and emotional identity: he called [[Corsica]] his mother country, wrote its history, attacked French oppression, and imagined Paoli as a father. The [[FrenchRevolution]] initially made autonomy and integration appear compatible, but factional conflict and later exile would close that synthesis.
+The tradition developed between Genoese weakness and French conquest. Paoli sought not only independence but a modern constitutional state with public institutions, education, and a British-influenced political model. Boswell’s visit shows how the cause traveled through personal access, classical ideas of virtue, newspaper advocacy, travel writing, and celebrity performance. That circulation could build real sympathy while also serving the advocate’s own persona.
+
+Napoleon later inherited the cause as both political program and emotional identity: he called [[Corsica]] his mother country, wrote its history, attacked French oppression, and imagined Paoli as a father. The [[FrenchRevolution]] initially made autonomy and integration appear compatible, but factional conflict and later exile would close that synthesis.
 
 ## Key Claims
 
 - Nationalism joined opposition to foreign rule with a positive program of constitutional and institutional construction.
 - Language, geography, poverty, violence, and remembered conquest reinforced a distinct island identity.
 - Paoli embodied both national leadership and Enlightenment reform rather than simple traditional resistance.
+- Foreign advocates could translate Corsican independence into British print, political sympathy, classical romance, and personal celebrity.
 - Napoleon's early nationalism was literary, emotional, familial, and activist as well as constitutional.
 - Revolutionary France temporarily made Corsican autonomy and French political membership appear compatible.
 
@@ -36,13 +40,18 @@ The episode places the tradition between Genoese weakness and French conquest. P
 
 - [[382-young-napoleon-teenage-revolutionary-part-1-glt6500252244]] connects anti-French writing, Corsican history, paternal idealization of Paoli, autonomy hopes, patriotic clubs, and simultaneous French service.
 
+### British advocacy and mediation
+
+- [[651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808]] connects Boswell’s stay with Paoli to anonymous newspaper advocacy, a successful Corsica book, costume, and the “Corsica Boswell” persona.
+
 ## Counterevidence & Qualifications
 
-The concept is reconstructed through a Napoleon-centered podcast episode rather than a full history of Corsican political groups. Paoli, the Bonapartes, local clans, integrationists, and anti-French actors did not necessarily share one program. Napoleon's later French career also warns against treating youthful national rhetoric as a fixed lifelong allegiance.
+The concept is reconstructed through Napoleon-centered narrative and an admiring British visitor rather than a full history of Corsican political groups or Corsican voices. Paoli, the Bonapartes, local clans, integrationists, and anti-French actors did not necessarily share one program. Boswell’s classical-romantic framing and self-promotion may simplify local politics, while Napoleon's later French career warns against treating youthful national rhetoric as a fixed lifelong allegiance.
 
 ## What Changed
 
-- Created the concept to distinguish the Corsican political tradition from Napoleon's later identity transition into revolutionary France.
+- Added the cause’s British mediation through Boswell’s travel, journalism, book, costume, and celebrity.
+- Qualified foreign advocacy as both political commitment and self-fashioning.
 
 ## Related Concepts
 
@@ -50,4 +59,6 @@ The concept is reconstructed through a Napoleon-centered podcast episode rather 
 - [[PasqualePaoli]] - constitutional leader and principal personal embodiment of the cause.
 - [[Corsica]] - island society and contested homeland in which the nationalism developed.
 - [[NapoleonBonaparte]] - young adherent whose later career exposes the movement's identity limits.
+- [[JamesBoswell]] - foreign advocate whose publicity widened the cause while filtering it through personal ambition and classical romance.
+- [[GrandTourCulture]] - travel system through which Boswell encountered and publicized Paoli’s cause.
 - [[FrenchRevolution]] - crisis that briefly reopened autonomy and integration before intensifying factional conflict.

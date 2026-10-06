@@ -30641,3 +30641,11 @@ Downstream synthesis rebuilt `governance-and-institutions`, `science-health-and-
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 651. London’s Golden Age: Sex and Scandal in Georgian Britain (Part 2)
+
+Added source `651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808` and resynthesized [[JamesBoswell]], [[SamuelJohnson]], [[PasqualePaoli]], [[GrandTourCulture]], and [[CorsicanNationalism]] from their complete preserved evidence inventories. The episode fills the series gap before the Hebridean tour: Boswell’s candid diary joins moral aspiration, melancholy, sexual compulsion, guilt, and rationalization; Johnson’s friendship supplies argument, consolation, rebuke, and loyalty; and the continental journey turns famous encounters and Corsican advocacy into “Corsica Boswell.” No settled contradiction was adopted. Paternal framing, remembered dialogue, sexual anecdotes, infection attribution, emotional states, motives, and the balance between political conviction and self-promotion remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed outputs validate 3,831 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
