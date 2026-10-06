@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 30: OpenClaw: The Open-Source AI Agent That Got Its Creator Hired by OpenAI](sources/ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai.md) — Accessible account of OpenClaw's agent capabilities, viral growth story, and the security boundary around persistent access and community skills.
 - [【公告】「不端著」正式上線！「端聞」播出安排調整](sources/gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662.md) — Duan Media launches 《不端者》 with author 冯哲云 and changes 《端闻》 to Wednesday releases plus alternating Friday publication.
 - [What could slowing the AI frontier mean for the economy?](sources/tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128.md) — Marketplace Tech with Jordan Nanos on why safety evaluation, model adoption, reasoning, multi-agent systems, and research may sustain compute demand even when frontier releases slow.
 - [House call: Spain’s snap election](sources/house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c.md) — The Intelligence on Spain’s housing-centered snap election, the cattle cycle squeezing U.S. beef processors, and animal-stage biodegradable batteries for ingestible devices.
@@ -3917,6 +3918,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets](sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225.md) — All-In interview with SEC chair Paul Atkins and CFTC chair Michael Seelig on IPO burden, private-market access, tokenized markets, crypto classification, prediction-market integrity, and interagency coordination.
 
 ## Entities
+- [Peter Steinberger](entities/PeterSteinberger.md) — Developer and founder whom Data Science With Sam identifies as OpenClaw's creator and a later OpenAI hire.
 - [东郭咸阳 / Dongguo Xianyang (Western Han)](entities/DongguoXianyangWesternHan.md) — 由齐地盐商背景进入汉武帝财政体系、参与盐业官营设计的西汉人物。
 - [不端者（端传媒播客）](entities/BuduanzhePodcast.md) — Duan Media interview-and-book podcast alternating with 《端闻》 on Fridays.
 - [冯哲云](entities/FengZheyun.md) — Author announced as the first guest of 《不端者》.
@@ -16493,6 +16495,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Seelig](entities/MichaelSeelig.md) — CFTC chair advocating purpose-fit crypto and technology rules, exchange surveillance, simpler reporting, and coordinated primary regulation.
 
 ## Concepts
+- [Agent Skill Supply-Chain Risk](concepts/AgentSkillSupplyChainRisk.md) — Risk that imported agent skills conceal unsafe behavior while inheriting access to tools, data, accounts, and local systems.
 - [White-Metal Coinage / 白金币（西汉）](concepts/WhiteMetalCoinageWesternHan.md) — 汉武帝时期的银锡高面额铸币试验；高名义价值、盗铸激励、严刑与短命政策共同构成其证据边界。
 - [White-Deer-Skin Ritual Currency / 白鹿皮币](concepts/WhiteDeerSkinCurrency.md) — Han Wudi-era ritualized fiscal device that assigned a forty-wan price to required gift-bearing deer skin without making it ordinary circulating money.
 - [AI Safety Compute Demand](concepts/AISafetyComputeDemand.md) — Additional evaluation, auditing, monitoring, controlled-release, reasoning, agent, and research workloads that can accompany stronger AI safety practice.

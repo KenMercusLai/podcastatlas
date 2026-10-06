@@ -30808,3 +30808,11 @@ Added source `zizhi-tongjian-hanji-321-huangdi-gen-shangren-qiang-fanwan-ni-jian
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | EP 30: OpenClaw: The Open-Source AI Agent That Got Its Creator Hired by OpenAI
+
+Added source `ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai`; created [[PeterSteinberger]] and [[AgentSkillSupplyChainRisk]]; and resynthesized [[OpenClaw]] and [[AgentPermissionBoundaries]] from their complete preserved evidence inventories. Core synthesis: OpenClaw packages models, persistent local execution, messaging channels, schedules, and community skills into an accessible personal agent, but those same surfaces turn skill provenance, permission scope, sandboxing, observation, and revocation into product requirements. No origin history was treated as settled: the episode's Peter Steinberger attribution and Claude Bot → Mold Bot → OpenClaw sequence remain source-scoped beside conflicting creator, rename, and MoteBook-related accounts already in the wiki. GitHub growth, bot and post counts, company bans, the security finding, autonomous dating-profile anecdote, trademark complaints, OpenAI hiring, and foundation transfer remain host-reported rather than independently documented. Broad show, OpenAI, Cisco, Korean-company, and generic skill pages were kept closed because the bounded additions are represented in the OpenClaw profile, focused security concept, creator profile, permission synthesis, and source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,852 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

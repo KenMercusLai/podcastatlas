@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9769
+wiki_total_pages: 9770
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -512,6 +512,9 @@ wiki_pages:
   - key: "AgentSelfEvolution"
     title: "Agent Self-Evolution"
     url: "/wiki/concepts/agentselfevolution/"
+  - key: "AgentSkillSupplyChainRisk"
+    title: "Agent Skill Supply-Chain Risk"
+    url: "/wiki/concepts/agentskillsupplychainrisk/"
   - key: "AgentSpendControls"
     title: "Agent Spend Controls / 智能体消费控制"
     url: "/wiki/concepts/agentspendcontrols/"

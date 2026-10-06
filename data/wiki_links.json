@@ -6775,6 +6775,10 @@
     "title": "Agent Self-Evolution",
     "url": "/wiki/concepts/agentselfevolution/"
   },
+  "AgentSkillSupplyChainRisk": {
+    "title": "Agent Skill Supply-Chain Risk",
+    "url": "/wiki/concepts/agentskillsupplychainrisk/"
+  },
   "AgentSpendControls": {
     "title": "Agent Spend Controls / 智能体消费控制",
     "url": "/wiki/concepts/agentspendcontrols/"
@@ -62619,6 +62623,10 @@
     "title": "Peter Scott",
     "url": "/wiki/entities/peterscott/"
   },
+  "PeterSteinberger": {
+    "title": "Peter Steinberger",
+    "url": "/wiki/entities/petersteinberger/"
+  },
   "PeterTheGreat": {
     "title": "Peter the Great / 彼得大帝",
     "url": "/wiki/entities/peterthegreat/"
@@ -94374,6 +94382,10 @@
   "ep-3-demystifying-the-imposter-syndrome": {
     "title": "EP 3: Demystifying the Imposter Syndrome",
     "url": "/wiki/sources/ep-3-demystifying-the-imposter-syndrome/"
+  },
+  "ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai": {
+    "title": "EP 30: OpenClaw: The Open-Source AI Agent That Got Its Creator Hired by OpenAI",
+    "url": "/wiki/sources/ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai/"
   },
   "ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south": {
     "title": "EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South",

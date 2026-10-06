@@ -1,98 +1,109 @@
 ---
 title: "Agent Permission Boundaries"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [agents, security, governance]
-sources: [vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1, e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, vol-171-jiaru-women-you-wuxian-token-1-6682-1, moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk, keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
-last_updated: 2026-08-24
+sources:
+  - vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1
+  - e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817
+  - vol-171-jiaru-women-you-wuxian-token-1-6682-1
+  - moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk
+  - keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311
+  - tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128
+  - tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3
+  - e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923
+  - tech-20260213-tech-pod-128-tech-20260213-tech-pod-128
+  - 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6
+  - vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1
+  - 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto
+  - vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1
+  - vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1
+  - ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz
+  - vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1
+  - dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian
+  - wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d
+  - women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv
+  - ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai
+last_updated: 2026-10-07
 ---
 
 # Agent Permission Boundaries
 
-[[e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923]] adds [[Creo]]'s organization-wide access case. [[ClarkCreo|Clark]] describes a direction where agents can answer business-data questions quickly because they have broad access, while also acknowledging that useful access needs restrictions on personal and agent authority, wrong-data reads, write actions, and decision errors.
+## Definition
 
-[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds [[Dongxu]]'s autonomy-risk examples. The source treats agent creativity as useful when [[ClaudeCode]] turns a PPT request into a lightweight slides product, but also warns that agents can delete production data or change credentials in unrecoverable ways. That makes permissions, backup, sandboxing, and rollback requirements rather than optional safety features.
+Agent permission boundaries are the enforceable limits that determine which data, tools, accounts, devices, funds, communications, and physical or social actions an agent may observe or perform automatically, which require approval, and which remain prohibited.
 
-Agent permission boundaries are the practical limits that decide which tools, accounts, data, and actions an agent can use automatically, which require explicit human instruction, and which should remain out of scope. In [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]], the issue appears through [[OpenClaw]] and [[JustinYan]]'s personal agent: he uses a virtual machine, separate accounts, and trusted versus agent-written skill categories because the agent may otherwise expose personal information or misuse powerful services.
+## Current Synthesis
 
-[[vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]] adds the YOLO-mode coding case. The hosts describe how coding agents can run commands without asking for every confirmation, which raises productivity but also normalizes risk when nothing bad happens for a long time. Their practical mitigation is to separate concurrent agent work with branches or worktrees and remember that agent authority can extend beyond source files into email, cloud services, servers, and financial accounts.
-
-[[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds the local-versus-cloud tradeoff. The episode argues that [[LocalAgentExecution]] is valuable because the agent can access the user's real context, desktop files, devices, and tools, but the same permissions create privacy and safety risk. Cloud-hosted OpenClaw-like products can feel safer, yet may lose much of the value if they cannot reach the local work environment.
-
-[[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]] adds the routine-automation version. Email replies, [[Podwise]] transcript processing, [[WeChatReading]] note sync, server-cost monitoring, production release checks, and investment tracking all become more useful when automated, but they also require clearer boundaries around which data can be read, which actions can run unattended, and which outputs need human approval.
-
-[[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds the cross-device and IM-agent version. Browser extensions, phone-to-computer remote control, lock-screen background operation, group-chat agents, and account/IP risk make it more important to separate safe observation, low-impact execution, and actions that require explicit approval.
-
-[[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds the commerce and device-risk version. [[AgenticCommerce]] requires explicit spend, product, address, and substitution controls, while voice wearables, always-on recorders, robots, and brain-computer interfaces raise the cost of mistaken or overbroad agent action.
-
-[[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] adds a payment-mandate version. [[PatrickWu]] describes [[Clink]] recording user intent, limits, and eligible goods before converting an agent's purchase request into a one-time payment capability through [[Visa]]. This makes [[AgentSpendControls]] a concrete boundary type: spending permissions should be scoped by task, amount, category, merchant context, duration, and reauthorization triggers.
-
-[[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds the local-agent blast-radius version. The hosts warn that [[OpenClaw]] can see hard-drive contents, logged-in browser sessions, local accounts, and even password-manager-controlled resources if the user grants them; they also describe prompt injection through web content and third-party skills as risks that Docker cannot fully solve when sensitive directories or accounts are mounted into the runtime.
-
-[[1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6]] adds a solo-operator red-line pattern through [[YuYi]] and [[CangShifu]]. Yu Yi's practical red lines include deletion, protocol changes, spending, and socially damaging actions. Cang Shifu adds a softer but important boundary: even if an agent does not break security, it can drift away from product principles, content principles, and aesthetic standards when left alone for too long.
-
-[[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]] adds the agent-social platform version through [[MoteBook]]. [[JewelBurkeSolomon]] recommends not sending a bot there while the platform is early and insecure, after [[Wiz]] reportedly found access to sensitive information. The case shows that agent permissions should account for third-party social spaces, not only local files, coding tools, commerce, or workplace systems.
-
-[[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] adds the personal-assistant permission version through [[DongHongguang]] and [[GuangfanTechnology]]. The source argues that old software infrastructure often gives assistants either too little access to be useful or too much access to be safe; AI-native assistants need graduated authority, confirmation rules, and user-specific norms for messages, purchases, payments, and service calls.
-
-[[women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]] adds the [[Junior]] enterprise-employee version. [[Yuhao]] says an AI employee may need Gmail, a phone number, external web access, payment-like flows, and company authority, but those same tools expose phishing, prompt injection, malicious skills, account misuse, customer-data leakage, and reputational damage.
-
-[[moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk]] adds [[Runta]]'s temporary-permission pattern. [[DaiGuanlan|戴冠兰]] describes assigning an agent the authority required for a specific task, then withdrawing it immediately after completion. The source also adds [[AgentApprovalFatigue]]: repeated confirmations can push users toward broader trust than the workflow actually needs.
-
-[[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] adds two boundaries. First, household robots and home agents may see photos, objects, routines, and private spaces, so useful automation needs privacy norms before it becomes ordinary. Second, the hosts treat high-risk weapon manufacturing as a case where model refusal is appropriate rather than an annoying guardrail.
-
-[[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] adds password-manager and customer-service boundaries. The hosts discuss 1Password-style MCP access where an agent can use credentials without seeing the plaintext password, but still gains the practical authority to log in and act. They also describe an agent contacting customer support and requesting human escalation, showing that permissions include social and service interactions, not only local files.
-
-[[tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3]] adds the bystander-recording version through [[Limitless]]. [[DanSiroker]] says the wearable pendant should use [[ConsentBasedRecording]] so a new voice is not recorded until that person has opted in. This extends permission boundaries beyond the user's own accounts and tools: a personal AI can affect other people who did not choose the product.
-
-[[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds the smart-glasses version. [[WillGottsagen]] describes AI glasses that can see, hear, translate, and identify context around the wearer. Even before the assistant takes an action, the device's sensing permissions affect bystanders, because other people may be seen, heard, recognized, or translated without operating the product themselves.
+Permission design is part of the [[AgentHarness]] because an agent's practical capability is defined by the authority attached to its tools, not only by model intelligence. Useful systems need more than a binary allow/deny switch: read and write authority, reversible and irreversible actions, task scope, time window, budget, identity, destination, bystander effects, and approval rules should be separable. Least privilege works best with isolated environments, temporary grants, logs, stop and revoke controls, backups, and recovery paths. Repeated confirmations can create [[AgentApprovalFatigue]], but broad standing access converts a mistaken goal, injected instruction, malicious skill, or compromised service into durable harm.
 
 ## Key Claims
-- Permission design is part of the [[AgentHarness]], not an afterthought, because tool access defines what the agent can actually do.
-- Personal agents need tiered skill policies: some skills can run automatically, while others should require explicit human invocation.
-- Separate browser profiles, cheap or disposable accounts, and virtual machines can reduce damage when experimenting with agentic systems.
-- High-impact resources such as main accounts, private repositories, payment systems, banking, passwords, and tokens require stronger controls than calendar or reminder data.
-- Permission boundaries connect local safety with [[AgentIdentityAndAuthentication]] because external services need to know which actor is taking an action and under whose authority.
-- Local execution and enterprise deployment make the boundary sharper: too little access weakens the agent, while too much access exposes files, accounts, and business systems.
-- [[RoutineAgentAutomation]] needs trigger-level and action-level boundaries because scheduled work can repeat a bad permission decision many times.
-- Cross-agent review can reduce mistakes, but it does not remove human accountability for actions taken under the user's account.
-- Agent channels need their own boundaries: an IM thread, browser extension, background Mac session, and ChatGPT remote command may expose different accounts, files, and social contexts.
-- Shopping and payment agents need budget, confirmation, refund, delivery, and identity boundaries because the action directly spends money and changes real-world logistics.
-- YOLO execution should be treated as a scoped permission mode, not as proof that the agent can safely own the whole machine or all connected accounts.
-- Parallel coding-agent sessions need isolation practices such as separate branches, worktrees, sandboxes, or accounts because successful runs can still conflict or compound mistakes.
-- Local-agent experiments should start with isolated devices, limited folders, disposable accounts, and observation-only or low-impact actions before access to payment, deletion, password, or main-account authority is considered.
-- Permission design is not only about accounts and files. It can also include brand, reputation, social exposure, product principles, content standards, and the point where an agent must stop and ask the human to decide.
-- Sending an agent into a third-party social platform can expose email addresses, memory, account metadata, or other sensitive context even if the agent is only "talking."
-- Personal assistants need human-like delegation boundaries: some actions can be done directly, some need confirmation, and some should remain unavailable regardless of model confidence.
-- AI-first organizations need team-level permission design because making agents useful may require broad read access, while write access, sensitive data, customer-facing actions, and irreversible decisions still need narrower authority and audit.
-- Wearable personal AI requires bystander permissions because a device owned by one user may capture other people's speech, meetings, or private surroundings.
-- Enterprise AI employees require role-based and organization-aware boundaries because the same company data may be visible in systems but inappropriate to disclose to a given coworker or external party.
-- Agent spending needs its own boundary layer because payment mistakes create immediate financial loss, disputed liability, merchant fulfillment problems, and credential-exposure risk.
-- Small autonomous purchases can be safe only when the budget, source of spend, task reason, and responsible actor remain traceable.
-- Task-scoped permission grants can reduce approval fatigue without turning an agent's temporary need into standing access over email, credentials, customer data, or production systems.
-- Vol. 171 adds that physical-world agents expand permission boundaries beyond files and accounts into homes, bystanders, household inventory, and dangerous fabrication knowledge.
-- Vol. 172 adds that credential abstraction is not the same as permission removal: an agent that can authenticate through a password manager still needs scoped intent, audit, and revocation.
-- E249 adds that broader agent trust should be accompanied by recoverability: permissions need stop, revoke, audit, and restore paths when the agent mutates durable state.
 
-## Connections
-- [[OpenClaw]], [[JustinYan]], and [[Zili]] — source context for personal-agent safety.
-- [[AgentHarness]] and [[AgentFacingInterfaces]] — places where permissions are configured and enforced.
-- [[AgentIdentityAndAuthentication]] — adjacent infrastructure problem for attribution and account access.
-- [[AIGovernanceAndCompliance]] — broader governance context when agents touch regulated or sensitive workflows.
-- [[DataPortabilityAndSustainableTools]] — trust pattern for personal tools that should preserve user control over data.
-- [[LocalAgentExecution]] and [[IMAgentInterfaces]] — OpenClaw product pattern that creates both usefulness and permission risk.
-- [[RoutineAgentAutomation]], [[Podwise]], and [[WeChatReading]] — recurring personal workflow cases added by EP127.
-- [[Codex]], [[IMAgentInterfaces]], [[PersistentAgentMemory]], and [[AIContentProvenance]] — cross-channel permission and disclosure themes added by Vol. 167.
-- [[AgenticCommerce]], [[VoiceInteraction]], [[AIPlusTerminals]], and [[AgentFacingInterfaces]] — commerce, device, and platform-access themes added by Vol. 162.
-- [[VibeCoding]], [[ClaudeCode]], and [[AICodingVerification]] — Vol. 160's YOLO-mode and multi-agent coding boundary.
-- [[ProbabilisticSoftware]] and [[LocalAgentExecution]] — Keji Luandun safety frame for local agents whose model behavior cannot be made fully deterministic.
-- [[YuYi]], [[CangShifu]], [[OnePersonCompany]], and [[AIUsePacing]] — S10E18's red-line and review-cadence pattern for solo founders managing many agents.
-- [[MoteBook]], [[Wiz]], [[AISocialNetworks]], and [[AIGovernanceAndCompliance]] - third-party agent-social platform and security-warning case added by Marketplace Tech Bytes.
-- [[GuangfanTechnology]], [[WearableAIAssistant]], [[AIAssistantServiceEntry]], and [[ModelContextProtocol]] — S10E15's wearable and service-call permission case.
-- [[Limitless]], [[DanSiroker]], [[ConsentBasedRecording]], and [[PersonalAIMemory]] — wearable recording and bystander-consent branch added by The Social Radars.
-- [[ComputerUseAgent]], [[AgentIdentityAndAuthentication]], [[AIModelSandboxEscape]], and [[Cloudflare]] — Vol. 172's login, browser, customer-support, and verification boundary.
-- [[Creo]], [[ClarkCreo]], [[AIFirstOrganization]], and [[EnterpriseAgentGovernance]] — organization-wide agent access and guardrail case added by E238.
-- [[Kuse]], [[Junior]], [[AgentEvaluationBenchmarks]], and [[EnterpriseAgentMemory]] — enterprise AI employee permissions and safety-test case added by the Yuhao source.
-- [[AgentPaymentInfrastructure]], [[AgentSpendControls]], [[Clink]], and [[Visa]] — payment-mandate and bounded-spend branch added by What's Next S10E22.
-- [[Runta]], [[DaiGuanlan]], [[AgentRuntimeExecutionLayer]], and [[AgentApprovalFatigue]] — temporary permission and approval-fatigue pattern added by the Runta source.
-- [[UnlimitedTokenWorkflow]], [[AIHardwarePrivacyExchange]], [[AIGovernanceAndCompliance]], and [[HumanJudgmentUnderAI]] — household privacy and high-risk safety boundaries added by Vol. 171.
-- [[Dongxu]], [[ClaudeCode]], [[AgentRuntimeExecutionLayer]], and [[AIManagingAI]] — E249's autonomy and recovery examples.
+- Permission scope should follow task, resource, duration, impact, and reversibility rather than model confidence alone.
+- Observation, low-impact execution, external communication, spending, deletion, credential use, and production writes require progressively stronger controls.
+- Temporary grants, separate identities, isolated environments, logs, backups, revocation, and rollback make delegated authority recoverable.
+- Skills, webpages, social platforms, and other third-party inputs are part of the permission boundary because they can redirect an otherwise authorized agent.
+- Team agents require role- and organization-aware authority, attribution, disclosure controls, and audit beyond a personal owner's preferences.
+- Permission design must include people affected by sensing, messages, purchases, reputation, or physical-world action even when they do not operate the agent.
+
+## Evidence
+
+### Graduated authority and task-scoped access
+- [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]] separates trusted from agent-written skills, uses a virtual machine and separate accounts, and withholds main-account access.
+- [[moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk]] describes temporary task authority that is withdrawn after completion while recognizing that excessive prompts create approval fatigue.
+- [[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] argues that assistants need graduated authority and user-specific confirmation rules rather than no access or full access.
+- [[vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]] treats YOLO execution as a scoped coding mode and recommends separation for concurrent agents rather than machine-wide trust.
+
+### Irreversible actions, credentials, and money
+- [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] pairs broader autonomy with backup, sandboxing, logging, stop controls, and recovery after examples involving data deletion and credential mutation.
+- [[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] scopes purchases by task, amount, category, merchant context, duration, and reauthorization through payment mandates.
+- [[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] shows that hiding plaintext credentials does not remove an agent's practical power to authenticate, contact services, and act.
+- [[1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6]] records red lines around deletion, protocol changes, spending, and socially damaging behavior.
+
+### Persistent, repeated, and cross-channel action
+- [[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]] applies permissions to scheduled email, notes, monitoring, release, and research routines whose mistakes can repeat.
+- [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] extends the boundary across browser extensions, remote control, locked-screen background work, messaging threads, and separate topic contexts.
+- [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] shows the core local-versus-cloud tradeoff: local context makes agents useful while exposing files, devices, and accounts.
+- [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] reports that a container is only a partial boundary when sensitive directories, browser sessions, tokens, network access, or password-manager capabilities are mounted inside it.
+
+### Enterprise roles, data, and reputation
+- [[e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923]] makes broad organizational read access useful but keeps writes, sensitive data, security decisions, and final review narrower and auditable.
+- [[women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]] adds role-based company memory, phishing, prompt injection, malicious skills, account misuse, data leakage, and reputational harm to the enterprise boundary.
+
+### Third-party inputs and skill supply chains
+- [[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]] reports sensitive-data exposure on an agent social platform, showing that “only talking” to a third-party environment can leak account or memory context.
+- [[ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai]] reports a third-party OpenClaw skill performing data exfiltration and prompt injection, and recommends sandboxing away from the primary machine.
+
+### Devices, bystanders, commerce, and physical context
+- [[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] shows that smart glasses can capture or interpret nearby people before any explicit downstream action occurs.
+- [[tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3]] presents consent mode as a boundary that withholds recording until a new voice opts in.
+- [[vol-171-jiaru-women-you-wuxian-token-1-6682-1]] extends permissions to household images, objects, routines, private spaces, and dangerous fabrication knowledge.
+- [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] connects shopping and payment agents to product, address, substitution, and human-confirmation controls.
+
+## Counterevidence & Qualifications
+
+- Narrow permissions can make an agent too weak to complete useful cross-system work, so the goal is proportional authority rather than universal denial.
+- Frequent approval prompts can train users to click through warnings or grant standing access; good boundaries need task-level grouping and risk-sensitive escalation.
+- Sandboxes, containers, and separate devices do not protect resources intentionally mounted, credentials deliberately exposed, or external actions explicitly allowed.
+- Cross-agent review and model refusals can reduce some failures but do not replace enforceable controls, attribution, recovery, or human accountability.
+- Many examples are practitioner reports, product proposals, or host-reported incidents rather than controlled comparisons of permission systems.
+- The EP30 malicious-skill, corporate-ban, and autonomous-behavior claims are not independently documented in the supplied source and should not be generalized into prevalence estimates.
+
+## What Changed
+
+- Reorganized the concept around graduated authority, recoverability, third-party inputs, organizational roles, and affected non-users.
+- Added imported skills as a distinct supply-chain path through which authorized tools can be redirected.
+- Strengthened sandbox guidance by making clear that mounted data, accounts, and network capabilities remain exposed.
+- Preserved approval fatigue as a reason to design task-scoped grants rather than defaulting to standing access.
+
+## Related Concepts
+
+- [[AgentHarness]] - system layer where authority, tools, observation, and approval are enforced.
+- [[AgentEnvironmentIsolation]] - separates agent execution from primary systems and sensitive state.
+- [[AgentSkillSupplyChainRisk]] - narrows the third-party package and hidden-instruction threat.
+- [[AgentIdentityAndAuthentication]] - attributes actions to an agent, user, role, and delegated authority.
+- [[AgentSpendControls]] - applies task, amount, merchant, duration, and liability limits to payments.
+- [[AgentApprovalFatigue]] - explains why repeated prompts can undermine otherwise strict controls.
+- [[LocalAgentExecution]] - increases contextual usefulness and local blast radius together.
+- [[EnterpriseAgentGovernance]] - extends personal permission rules into organizational policy and audit.
+- [[ConsentBasedRecording]] - protects bystanders affected by wearable or ambient sensing.

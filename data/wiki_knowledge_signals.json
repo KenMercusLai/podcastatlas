@@ -8087,6 +8087,155 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/agentpaymentinfrastructure/"
     },
+    "AgentPermissionBoundaries": {
+      "episode_count": 20,
+      "show_count": 10,
+      "source_note_count": 20,
+      "sources": [
+        {
+          "episode_file": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等 (1) [6685-1].md",
+          "key": "vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1",
+          "show": "枫言枫语",
+          "title": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等",
+          "url": "/wiki/sources/vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1/"
+        },
+        {
+          "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
+          "key": "e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817",
+          "show": "硅谷101",
+          "title": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路",
+          "url": "/wiki/sources/e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817/"
+        },
+        {
+          "episode_file": "Vol. 171 假如我们有无限 Token (1) [6682-1].md",
+          "key": "vol-171-jiaru-women-you-wuxian-token-1-6682-1",
+          "show": "枫言枫语",
+          "title": "Vol. 171 假如我们有无限 Token",
+          "url": "/wiki/sources/vol-171-jiaru-women-you-wuxian-token-1-6682-1/"
+        },
+        {
+          "episode_file": "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人 [lmJsNPP7D75YHqH7boVJ1bV6YHBk].md",
+          "key": "moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk",
+          "show": "十字路口Crossing",
+          "title": "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人",
+          "url": "/wiki/sources/moxing-nengli-yijing-goule-yao-juan-jiu-juan-infra-duitan-daiguanlan-runta-chuangshiren-lmjsnpp7d75yhqh7bovj1bv6yhbk/"
+        },
+        {
+          "episode_file": "可以给你的 Agent 发一点零花钱了 ｜ S10E22 [9a652c19-ceb3-46c2-87b4-bca36e684311].md",
+          "key": "keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311",
+          "show": "What's Next｜科技早知道",
+          "title": "可以给你的 Agent 发一点零花钱了｜ S10E22",
+          "url": "/wiki/sources/keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311/"
+        },
+        {
+          "episode_file": "tech_20251225_1225_MP_TECH_pod_128 [tech_20251225_1225_MP_TECH_pod_128].md",
+          "key": "tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The year in AI wearables",
+          "url": "/wiki/sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "TSR-S3-DanSiroker-v3 [TSR-S3-DanSiroker-v3].md",
+          "key": "tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3",
+          "show": "The Social Radars",
+          "title": "Dan Siroker on Optimizely, Rewind, and Limitless AI",
+          "url": "/wiki/sources/tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3/"
+        },
+        {
+          "episode_file": "E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI [51260de8-60ef-4b76-b3e5-2e559c4a0923].md",
+          "key": "e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923",
+          "show": "硅谷101",
+          "title": "E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI",
+          "url": "/wiki/sources/e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923/"
+        },
+        {
+          "episode_file": "tech_20260213_TECH_pod_128 [tech_20260213_TECH_pod_128].md",
+          "key": "tech-20260213-tech-pod-128-tech-20260213-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Alphabet takes on debt to pay for AI projects, the social network where humans aren't allowed, and Spotify reports record user growth",
+          "url": "/wiki/sources/tech-20260213-tech-pod-128-tech-20260213-tech-pod-128/"
+        },
+        {
+          "episode_file": " 1 人公司，扛 5 个人的活，还要管 50 个 Agents ？｜ S10E18 [e3a21dde-0bba-4ec2-bf12-5043500ae5c6].md",
+          "key": "1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6",
+          "show": "What's Next｜科技早知道",
+          "title": "1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18",
+          "url": "/wiki/sources/1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6/"
+        },
+        {
+          "episode_file": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding (1) [6623-1].md",
+          "key": "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1",
+          "show": "枫言枫语",
+          "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",
+          "url": "/wiki/sources/vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1/"
+        },
+        {
+          "episode_file": "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会 [lk6BZKdxTI47vEHjVS9sGxOtRvTo].md",
+          "key": "20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto",
+          "show": "十字路口Crossing",
+          "title": "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会",
+          "url": "/wiki/sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto/"
+        },
+        {
+          "episode_file": "Vol. 161 从开发自己的🦞OpenClaw聊起 (1) [6626-1].md",
+          "key": "vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1",
+          "show": "枫言枫语",
+          "title": "Vol. 161 从开发自己的 OpenClaw 聊起",
+          "url": "/wiki/sources/vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1/"
+        },
+        {
+          "episode_file": "Vol. 162 科技快乐星球44： 新模型“SOTA们”齐贺新春 (1) [6628-1].md",
+          "key": "vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1",
+          "show": "枫言枫语",
+          "title": "Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春",
+          "url": "/wiki/sources/vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1/"
+        },
+        {
+          "episode_file": "EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️ [lnTWHOXpI433ptKe-nHOHb_5lbPZ].md",
+          "key": "ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz",
+          "show": "硬地骇客",
+          "title": "EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️",
+          "url": "/wiki/sources/ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz/"
+        },
+        {
+          "episode_file": "Vol. 167 Token 如流水，Agent 似朝阳 (1) [6653-1].md",
+          "key": "vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1",
+          "show": "枫言枫语",
+          "title": "Vol. 167 Token 如流水，Agent 似朝阳",
+          "url": "/wiki/sources/vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1/"
+        },
+        {
+          "episode_file": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [当可靠的代码变成了偶尔发疯的openclaw，我们未来的工-1].md",
+          "key": "dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian",
+          "show": "科技乱炖",
+          "title": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁",
+          "url": "/wiki/sources/dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian/"
+        },
+        {
+          "episode_file": "WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？｜ S10E15 [9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d].md",
+          "key": "wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d",
+          "show": "What's Next｜科技早知道",
+          "title": "WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？｜ S10E15",
+          "url": "/wiki/sources/wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d/"
+        },
+        {
+          "episode_file": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪 [lkp1A0TodFlxOyYCYo3zhRaP3eBv].md",
+          "key": "women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv",
+          "show": "42章经",
+          "title": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪",
+          "url": "/wiki/sources/women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv/"
+        },
+        {
+          "episode_file": "86843799305EA07A69D75517539BCB5~8584414_2026-08-10-214514-8787-0-0-10.128 [86843799305EA07A69D75517539BCB5~8584414_2026-08-10-214514-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8397db].md",
+          "key": "ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai",
+          "show": "Data Science With Sam",
+          "title": "EP 30: OpenClaw: The Open-Source AI Agent That Got Its Creator Hired by OpenAI",
+          "url": "/wiki/sources/ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/agentpermissionboundaries/"
+    },
     "AgentReadableWeb": {
       "episode_count": 1,
       "show_count": 1,
@@ -8125,6 +8274,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/concepts/agentreliabilityverification/"
+    },
+    "AgentSkillSupplyChainRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "86843799305EA07A69D75517539BCB5~8584414_2026-08-10-214514-8787-0-0-10.128 [86843799305EA07A69D75517539BCB5~8584414_2026-08-10-214514-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8397db].md",
+          "key": "ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai",
+          "show": "Data Science With Sam",
+          "title": "EP 30: OpenClaw: The Open-Source AI Agent That Got Its Creator Hired by OpenAI",
+          "url": "/wiki/sources/ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/agentskillsupplychainrisk/"
     },
     "AgentSpendControls": {
       "episode_count": 2,
@@ -165786,9 +165951,9 @@
       "url": "/wiki/concepts/openainonprofitconversiondispute/"
     },
     "OpenClaw": {
-      "episode_count": 19,
-      "show_count": 10,
-      "source_note_count": 19,
+      "episode_count": 20,
+      "show_count": 11,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
@@ -165922,9 +166087,16 @@
           "show": "三五环",
           "title": "No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？",
           "url": "/wiki/sources/no-219-guanyu-openclaw-daodi-shi-shui-yang-le-xia-xia-you-hui-yang-shui-gkwrijenlitra0cadgr9daax/"
+        },
+        {
+          "episode_file": "86843799305EA07A69D75517539BCB5~8584414_2026-08-10-214514-8787-0-0-10.128 [86843799305EA07A69D75517539BCB5~8584414_2026-08-10-214514-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8397db].md",
+          "key": "ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai",
+          "show": "Data Science With Sam",
+          "title": "EP 30: OpenClaw: The Open-Source AI Agent That Got Its Creator Hired by OpenAI",
+          "url": "/wiki/sources/ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/openclaw/"
     },
     "OpenClosedAIMarketStructure": {
@@ -173327,6 +173499,22 @@
       ],
       "updated": "2026-10-01",
       "url": "/wiki/entities/peterscott/"
+    },
+    "PeterSteinberger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "86843799305EA07A69D75517539BCB5~8584414_2026-08-10-214514-8787-0-0-10.128 [86843799305EA07A69D75517539BCB5~8584414_2026-08-10-214514-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a8397db].md",
+          "key": "ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai",
+          "show": "Data Science With Sam",
+          "title": "EP 30: OpenClaw: The Open-Source AI Agent That Got Its Creator Hired by OpenAI",
+          "url": "/wiki/sources/ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/petersteinberger/"
     },
     "PeterTheGreat": {
       "episode_count": 10,
