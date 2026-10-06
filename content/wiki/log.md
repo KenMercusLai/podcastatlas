@@ -30928,3 +30928,11 @@ Added source `zizhi-tongjian-hanji-314-2-shisha-de-hanwudi-juran-baorong-tade-cu
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》313-2｜他投降西汉，受封万户侯
+
+Added source `zizhi-tongjian-hanji-313-2-ta-touxiang-xihan-shoufeng-wanhuhou-lu7zpyyfemjcntnubgsfr7bu9_tg`; resynthesized [[HunyeKingWesternHan|浑邪王]] and [[SurrenderReceptionDomesticBurden|归降接纳的内外成本冲突]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Northern Army display, Chang'an and Weiyang Palace scale, and graded rewards convert a stabilized armed submission into visible Han-recognized status, while unequal outcomes inside the surrendering group and the sequel's domestic transport, fiscal, and legal burdens prevent an unqualified success narrative. No settled contradiction was adopted. “魂爷王/魂烟王” is normalized to 浑邪王 from the direct Hanji 313-1 continuation; the prostration tableau, military and architectural figures, “洛阴侯” and other name/title forms, fief sizes, institutional placement of the Xiutu King's sons, and unclear court-dispute teaser remain dramatic, episode-attributed, or unresolved. Broad [[HanWudi|汉武帝]], [[Xiongnu|匈奴]], [[ChangAnHanCapital|长安]], and [[WeiyangPalace|未央宫]] pages were kept closed because the bounded addition is represented in the focused profile, concept, and source note; the unnamed Xiutu princes were not inferred into [[JinMidiWesternHan|金日磾]]. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,867 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

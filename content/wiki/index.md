@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》313-2｜他投降西汉，受封万户侯](sources/zizhi-tongjian-hanji-313-2-ta-touxiang-xihan-shoufeng-wanhuhou-lu7zpyyfemjcntnubgsfr7bu9_tg.md) — 浑邪王从武装归降进入长安受封阶段；北军、未央宫与分层封赏把投降转成可见的帝国秩序，同时保留仪式想象和名号数字的史料边界。
 - [《资治通鉴·汉纪》314-2｜弑杀的汉武帝，居然包容他的错？](sources/zizhi-tongjian-hanji-314-2-shisha-de-hanwudi-juran-baorong-tade-cuo-lof7jgitcm-qyuw_afgjv5erjpr5.md) — 以铁器军用风险解释汉武帝严惩商人的安全逻辑，并把汲黯反复被外调、召回概括为君主对不适却有用的纠错声音的依赖。
 - [《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王](sources/zizhi-tongjian-hanji-315-1-hanwudi-gao-qiangchai-yiju-shoufu-xiongnu-wang-llyk4i76izmxe_el_ewpbbayqq5i.md) — 浑邪王旧部被拆分到五个边郡属国，在保留习俗的同时接受汉官监督并承担前线功能；河西由此成为西进基地，但四郡设置年代保持争议。
 - [《资治通鉴·汉纪》313-1｜独闯虎穴！霍去病受降浑邪王](sources/zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395.md) — 霍去病在联合归降破裂后，以威慑、封赏、借力执行、分离首领与迅速南迁稳住尚可反复的浑邪王部众。
@@ -3958,7 +3959,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《带着花椒去上朝：古杀十九式》](entities/DaizheHuajiaoQuShangchao.md) — 汉纪331-4引用的古代杀人方式通俗史著作，其“椒杀”考证在当前证据中仍需回到原书与底层史料核验。
 - [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 历经文、景、武三朝并由军功封侯走到丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
 - [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 从归降接纳、商人死刑到宗庙礼乐与人才惩罚均以公共目的直谏，并以清名治理淮阳、预警张汤的西汉直臣。
-- [浑邪王 / Hunye King (Western Han)](entities/HunyeKingWesternHan.md) — 其归降先经霍去病以威慑、奖赏、借力执行与迅速迁移稳控，随后又因迎接、赏赐和交易引发国内负担与法律争议的匈奴王。
+- [浑邪王 / Hunye King (Western Han)](entities/HunyeKingWesternHan.md) — 其归降从霍去病的武装稳控进入长安仪式与分层受封，随后又因接纳成本和交易执法引发国内争议的匈奴王。
 - [李息 / Li Xi (Western Han)](entities/LiXiWesternHan.md) — 听取汲黯对张汤的预警，却因畏惧张汤而未向汉武帝转达的西汉官员。
 - [郑当时 / Zheng Dangshi (Western Han)](entities/ZhengDangshiWesternHan.md) — 西汉好客官员 whose crowded network thins after he loses office and wealth.
 - [翟公 / Zhai Gong (Western Han)](entities/ZhaiGongWesternHan.md) — 廷尉 whose crowded, deserted, and crowded-again gate anchors the “门可罗雀” story.
@@ -19758,7 +19759,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial Petition Offense Risk / 申冤上书冒犯风险](concepts/ImperialPetitionOffenseRisk.md) — Petition failure pattern where a self-defense memorial becomes punishable because its proof sounds like accusation against the ruler.
 - [Legal Judgment Before Imperial Grace / 先法度后恩宥](concepts/LegalJudgmentBeforeImperialGrace.md) — Procedural pattern where officials establish law first, then leave room for sovereign clemency after judgment.
 - [法律繁密与裁量权力 / Legal Complexity Discretion Power](concepts/LegalComplexityDiscretionPower.md) — Governance pattern where dense statutes and interpretive layers increase official discretion and make simplification politically costly.
-- [归降接纳的内外成本冲突 / Surrender Reception Domestic Burden](concepts/SurrenderReceptionDomesticBurden.md) — 接纳归降者时，对外信誉所需的礼遇、运输与法律安排可能把财政、劳役和惩罚成本转嫁给本国民众的治理冲突。
+- [归降接纳的内外成本冲突 / Surrender Reception Domestic Burden](concepts/SurrenderReceptionDomesticBurden.md) — 军容、宫廷仪式与分层封赏使归降可信且等级可见，却可能把运输、财政、劳役和惩罚成本转嫁给本国民众的治理冲突。
 - [三不沾式清廉自守 / Three-Refusals Integrity](concepts/ThreeRefusalsIntegrity.md) — Public-office integrity discipline built around refusing wine, sexual entanglement, money, and opportunistic gifts under scarcity as capture channels.
 - [任官责任退出受限 / Office Duty Exit Constraint](concepts/OfficeDutyExitConstraint.md) — Governance pattern where capable officials cannot easily leave or avoid office because crisis demand treats their ability as a public asset.
 - [任官适任性国家能力 / Appointment Quality as State Capacity](concepts/AppointmentQualityAsStateCapacity.md) — Governance pattern where office works only when education repair, judicial procedure, frontier temperament, tenure, inspection, eligibility thresholds, exception handling, placement, retention, and removal standards survive pressure, patronage, and accountability risk.
