@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-07] ingest | 《资治通鉴·汉纪》299-1｜出道即巅峰，霍去病17岁一战封侯
+
+Added source `zizhi-tongjian-hanji-299-1-chudao-ji-dianfeng-huoqubing-17sui-yizhan-fenghou-lqi9lubm9ogxcrcpm837g8m6fq35`; created [[FirstHuoQubingRaidWesternHan|霍去病首次八百骑兵突袭]]; and resynthesized [[HuoQubing|霍去病]] and [[AdversaryKnowledgePreparation|知敌式备战]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Hanji 299-1 completes Hanji 298's preparation sequence by presenting the eight-hundred-cavalry detachment as an intelligence-to-targeting loop—prior adversary study supports penetration, live captive information identifies a high-value Xiongnu gathering, and speed preserves surprise before the reported Champion Marquis reward. No settled contradiction was adopted. The speeches, troop resentment, “iron cavalry special-operations team” label, age and chronology, selection freedom, route, distance, supply, camps, captive report, target identity, casualties, Han losses, and reward mechanics remain source-scoped; the closing 郝贤 identity and marquis title remain transcript-uncertain. Broad [[WeiQingHanGeneral|卫青]], [[HanWudi|汉武帝]], [[Xiongnu|匈奴]], and show pages were read for context but kept closed because the bounded addition is represented in the focused source, event, commander, and preparation pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,899 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
 ## [2026-10-07] ingest | 《资治通鉴·汉纪》298｜少年战神霍去病登场
 
 Added source `zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh`; created [[AdversaryKnowledgePreparation|知敌式备战]]; and resynthesized [[HuoQubing|霍去病]] and [[WeiQingHanGeneral|卫青]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the episode explains Huo's first independent-command opportunity through combined combat, archery, riding, surrendered-Xiongnu questioning, terrain and logistics study, and map rehearsal, while Wei Qing's approval of an eight-hundred-cavalry detachment is treated as evidence of trust without excluding kinship, favor, or campaign need. No settled contradiction was adopted. The April 123 BCE timing, Dingxiang arrival, private training routine, informants, map work, mature pre-battle doctrine, Wei Qing's exact motive, unrestricted troop selection, and “special forces,” “blitzkrieg,” or superior-to-Xiongnu labels remain source-scoped. Broad Han Wudi, Wei Zifu, Xiongnu, and show pages were read for context but kept closed because the bounded addition is represented in the focused source, concept, and commander pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,897 sources across 797 overview paragraphs and nine topics.
@@ -31179,6 +31183,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-10-07] ingest | 《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-07] lint | Wiki health check
 

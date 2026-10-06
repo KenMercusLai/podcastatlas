@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12570
+wiki_total_pages: 12571
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -1283,6 +1283,9 @@ wiki_pages:
   - key: "FengJiLateHan"
     title: "逢纪 / Feng Ji (late Han)"
     url: "/wiki/entities/fengjilatehan/"
+  - key: "FirstHuoQubingRaidWesternHan"
+    title: "霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid"
+    url: "/wiki/entities/firsthuoqubingraidwesternhan/"
   - key: "FutureCola"
     title: "非常可乐 / Future Cola"
     url: "/wiki/entities/futurecola/"

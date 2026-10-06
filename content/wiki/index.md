@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》299-1｜出道即巅峰，霍去病17岁一战封侯](sources/zizhi-tongjian-hanji-299-1-chudao-ji-dianfeng-huoqubing-17sui-yizhan-fenghou-lqi9lubm9ogxcrcpm837g8m6fq35.md) — 霍去病八百骑兵的首次独立行动把前期知敌准备转化为深入、俘虏情报、高价值目标突袭与冠军侯封赏；演义化训话、现代特战类比及数字细节保留来源边界。
 - [《资治通鉴·汉纪》298｜少年战神霍去病登场](sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh.md) — 霍去病的首次独立领军被解释为武艺训练、降人访谈、地形与补给研究、地图推演的共同结果；“特种战队”“闪电战”及知敌程度保留来源边界。
 - [《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？](sources/zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc.md) — 赵信以两边军制知识建议匈奴北迁诱汉军深入，苏建由赎死为民到复任代郡太守；战争耗竭又促成卖爵、赎罪与武功爵入仕优先的财政应对。
 - [《资治通鉴·汉纪》300｜汉武帝又一伟大发明，影响中国上千年](sources/zizhi-tongjian-hanji-300-hanwudi-you-yi-weida-faming-yingxiang-zhongguo-shangqiannian-luwfqqrb1mi5zf0ufmtvnpbmkx7p.md) — 以祥瑞命名的追认叙事解释汉武帝年号制度，并把统一纪年、中央权威与济北王献泰山连接起来；“元朔”表述保留为转录或编年疑点。
@@ -3964,6 +3965,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
 - [赵信 / Zhao Xin (Western Han-Xiongnu)](entities/ZhaoXinWesternHan.md) — 匈奴出身、曾仕汉后复归并以熟悉双方军制建议北迁诱敌深入的战略中介。
 - [苏建 / Su Jian (Western Han)](entities/SuJianWesternHan.md) — 战败后赎死为民、后来复任代郡太守并为苏武之父的西汉将领。
 - [济北王刘胡 / Liu Hu, King of Jibei (Western Han)](entities/LiuHuJibeiKingWesternHan.md) — 从祥瑞报告推测汉武帝将封禅、进献泰山及旁邑并获其他县补偿的西汉济北王。

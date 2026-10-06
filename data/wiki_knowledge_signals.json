@@ -7260,9 +7260,9 @@
       "url": "/wiki/entities/adventuresintime/"
     },
     "AdversaryKnowledgePreparation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》298｜少年战神霍去病登场 [lhWMFJ24Jl0YwwPcKNyTor9uJkSh].md",
@@ -7270,6 +7270,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》298｜少年战神霍去病登场",
           "url": "/wiki/sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》299-1｜出道即巅峰，霍去病17岁一战封侯 [lqI9Lubm9OgXCrcPm837g8M6Fq35].md",
+          "key": "zizhi-tongjian-hanji-299-1-chudao-ji-dianfeng-huoqubing-17sui-yizhan-fenghou-lqi9lubm9ogxcrcpm837g8m6fq35",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》299-1｜出道即巅峰，霍去病17岁一战封侯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-299-1-chudao-ji-dianfeng-huoqubing-17sui-yizhan-fenghou-lqi9lubm9ogxcrcpm837g8m6fq35/"
         }
       ],
       "updated": "2026-10-07",
@@ -80731,6 +80738,29 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/firsthexicampaignwesternhan/"
     },
+    "FirstHuoQubingRaidWesternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》298｜少年战神霍去病登场 [lhWMFJ24Jl0YwwPcKNyTor9uJkSh].md",
+          "key": "zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》298｜少年战神霍去病登场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》299-1｜出道即巅峰，霍去病17岁一战封侯 [lqI9Lubm9OgXCrcPm837g8M6Fq35].md",
+          "key": "zizhi-tongjian-hanji-299-1-chudao-ji-dianfeng-huoqubing-17sui-yizhan-fenghou-lqi9lubm9ogxcrcpm837g8m6fq35",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》299-1｜出道即巅峰，霍去病17岁一战封侯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-299-1-chudao-ji-dianfeng-huoqubing-17sui-yizhan-fenghou-lqi9lubm9ogxcrcpm837g8m6fq35/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/firsthuoqubingraidwesternhan/"
+    },
     "FirstIndochinaWar": {
       "episode_count": 1,
       "show_count": 1,
@@ -110488,9 +110518,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -110617,6 +110647,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》298｜少年战神霍去病登场",
           "url": "/wiki/sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》299-1｜出道即巅峰，霍去病17岁一战封侯 [lqI9Lubm9OgXCrcPm837g8M6Fq35].md",
+          "key": "zizhi-tongjian-hanji-299-1-chudao-ji-dianfeng-huoqubing-17sui-yizhan-fenghou-lqi9lubm9ogxcrcpm837g8m6fq35",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》299-1｜出道即巅峰，霍去病17岁一战封侯",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-299-1-chudao-ji-dianfeng-huoqubing-17sui-yizhan-fenghou-lqi9lubm9ogxcrcpm837g8m6fq35/"
         }
       ],
       "updated": "2026-10-07",
