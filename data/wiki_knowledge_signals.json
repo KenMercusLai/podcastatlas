@@ -190295,9 +190295,9 @@
       "url": "/wiki/concepts/rewardpredictionerrorlearning/"
     },
     "RewardedDenunciationFiscalEnforcement": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？ [ljRcAWwbJ5LvbJ1QTPLTdgNXklUI].md",
@@ -190319,6 +190319,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》322-2｜西汉打击偷税，为何使商人倾家荡产",
           "url": "/wiki/sources/zizhi-tongjian-hanji-322-2-xihan-daji-toushui-weihe-shi-shangren-qingjia-dangchan-lta-z0gqth1wlzn4feev1h4s8vh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》322-1｜汉武帝如何割商人韭菜？ [lgAJ0-pl6tlJ4u6qlaPYO51qf5fZ].md",
+          "key": "zizhi-tongjian-hanji-322-1-hanwudi-ruhe-ge-shangren-jiucai-lgaj0-pl6tlj4u6qlapyo51qf5fz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》322-1｜汉武帝如何割商人韭菜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-322-1-hanwudi-ruhe-ge-shangren-jiucai-lgaj0-pl6tlj4u6qlapyo51qf5fz/"
         }
       ],
       "updated": "2026-10-06",

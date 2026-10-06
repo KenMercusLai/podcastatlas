@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui
   - zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1
   - zizhi-tongjian-hanji-322-2-xihan-daji-toushui-weihe-shi-shangren-qingjia-dangchan-lta-z0gqth1wlzn4feev1h4s8vh
+  - zizhi-tongjian-hanji-322-1-hanwudi-ruhe-ge-shangren-jiucai-lgaj0-pl6tlj4u6qlapyo51qf5fz
 last_updated: 2026-10-06
 ---
 
@@ -16,7 +17,7 @@ Rewarded denunciation fiscal enforcement / 告缗式奖励告发财政执法 is 
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui|Hanji 396-3]] defines the mechanism. Merchants and related operators must report their commercial or property scale under the算缗 frame; concealment can trigger confiscation, frontier punishment, or household destruction; and successful accusers can receive part of the confiscated property.告缗 thus converts personal relationships and local knowledge into enforcement capacity while making commercial wealth a bounty target.
+[[zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui|Hanji 396-3]] defines the mechanism. Merchants and related operators must report their commercial or property scale under the算缗 frame; concealment can trigger confiscation, frontier punishment, or household destruction; and successful accusers can receive part of the confiscated property. [[zizhi-tongjian-hanji-322-1-hanwudi-ruhe-ge-shangren-jiucai-lgaj0-pl6tlj4u6qlapyo51qf5fz|Hanji 322-1]] sharpens the sequence before告缗: self-assessment creates incentives to hide property, convert cash into goods, or dispose of taxable vehicles, after which the court escalates from reporting duties to bounty-backed accusations.告缗 thus converts personal relationships and local knowledge into enforcement capacity while making commercial wealth a bounty target.
 
 The implementation-conflict layer extends the mechanism beyond informant incentives. After voluntary contributions disappoint [[HanWudi|汉武帝]], [[YangKeWesternHan|杨可]] leads enforcement that [[zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1|Hanji 335]] associates with huge confiscations and commercial ruin. [[YiZongWesternHan|义纵]] then arrests several subordinates because he sees their conduct as disrupting livelihood, but Wudi has Yi executed for resisting the edict. Resistance inside the official hierarchy can itself become punishable.
 
@@ -25,6 +26,7 @@ The renewed Yuan鼎三年 campaign adds an administrative and asset-management l
 ## Key Claims
 
 - Rewarded denunciation depends on a prior reporting duty and makes informants financially interested in concealed property, turning local knowledge into state extraction capacity.
+- Self-reported property assessment can change asset-holding behavior before denunciation begins, but the claim that concealment and conversion caused broad price rises remains source-scoped.
 - Denunciation becomes a national campaign when central case supervision and dispatched verification officials convert accusations into adjudicated confiscation.
 - Confiscation can strengthen treasury and public-land capacity while damaging commercial confidence, private accumulation, and the social middle.
 - Yang Ke's implementation and Yi Zong's resistance show that the mechanism also disciplines officials who obstruct the campaign.
@@ -35,6 +37,8 @@ The renewed Yuan鼎三年 campaign adds an administrative and asset-management l
 
 Reporting, punishment, and reward design:
 - [[zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui|Hanji 396-3]] links property reporting, punishment for concealment, confiscation, and rewards for successful informants.
+- [[zizhi-tongjian-hanji-322-1-hanwudi-ruhe-ge-shangren-jiucai-lgaj0-pl6tlj4u6qlapyo51qf5fz|Hanji 322-1]] places self-assessment before rewarded denunciation and describes concealment, cash-to-goods conversion, and vehicle sales as avoidance responses.
+- [[zizhi-tongjian-hanji-322-1-hanwudi-ruhe-ge-shangren-jiucai-lgaj0-pl6tlj4u6qlapyo51qf5fz|Hanji 322-1]] reports a half-share reward for successful informants, confiscation and frontier punishment for concealment, and land seizure under a renewed restriction on merchant landholding.
 
 Commercial and social effect:
 - [[zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui|Hanji 396-3]] describes denunciation waves, family punishment, exile, and declining commercial security.
@@ -50,13 +54,12 @@ Campaign exit:
 
 ## Counterevidence & Qualifications
 
-The concept rests on three short podcast sources, not a complete institutional history. They do not establish the full legal scope, chronology, regional variation, exact informant entitlement, review procedure, office jurisdictions, or the quantitative share of commercial decline caused by告缗 rather than war, monopoly, ordinary taxation, monetary change, or later adjustment. Hanji 335's confiscation and enslaved-person totals remain source-attributed. Hanji 322-2's land redistribution, inequality relief, six-percent profit comparison, deflation-and-price account, long-run commercial collapse, asset-management allocation, and termination mechanics likewise require primary-source and economic comparison. Its causal explanation for Bu Shi's transfer conflicts with Hanji 357-2 and is not adopted here as settled.
+The concept rests on four short podcast sources, not a complete institutional history. They do not establish the full legal scope, chronology, regional variation, exact assessment base, rates and exemptions, vehicle categories, informant entitlement, review procedure, office jurisdictions, or the quantitative share of commercial decline caused by告缗 rather than war, monopoly, ordinary taxation, monetary change, or later adjustment. Hanji 322-1 explicitly warns that its transcript may distort terminology and figures; its claim that asset conversion caused market disorder and price rises is not independently measured. Hanji 335's confiscation and enslaved-person totals remain source-attributed. Hanji 322-2's land redistribution, inequality relief, six-percent profit comparison, deflation-and-price account, long-run commercial collapse, asset-management allocation, and termination mechanics likewise require primary-source and economic comparison. Its causal explanation for Bu Shi's transfer conflicts with Hanji 357-2 and is not adopted here as settled.
 
 ## What Changed
 
-- Added central case supervision and dispatched local verification to the enforcement mechanism.
-- Distinguished treasury and public-land gains from commercial and middle-stratum costs.
-- Added the campaign's source-scoped stop recommendation and immunity-for-payment exit phase.
+- Added the pre-denunciation sequence from self-assessment through asset concealment, cash-to-goods conversion, and vehicle disposal.
+- Qualified the reported rates, exemptions, terminology, and price effects because the short transcript itself flags possible transcription error and supplies no market data.
 
 ## Related Concepts
 

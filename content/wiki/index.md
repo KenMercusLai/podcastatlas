@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》322-1｜汉武帝如何割商人韭菜？](sources/zizhi-tongjian-hanji-322-1-hanwudi-ruhe-ge-shangren-jiucai-lgaj0-pl6tlj4u6qlapyo51qf5fz.md) — 从战争与工程造成的财政压力出发，串联算缗自报、隐产与资产转换、告缗奖励告发及没收惩罚，并保留税率、术语和物价因果的转录与史料边界。
 - [VOL.198韩国精神科医生南基赫：首尔年轻人为什么这么焦虑｜海外医疗浅谈](sources/vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r.md) — 首尔精神科医生南基贺从职场、住房、婚恋、家庭、语言与医疗可及性解释韩国青年及在韩中国学生的心理压力，并限定跨文化观察的样本边界。
 - [《资治通鉴·汉纪》322-2｜西汉打击偷税，为何使商人倾家荡产](sources/zizhi-tongjian-hanji-322-2-xihan-daji-toushui-weihe-shi-shangren-qingjia-dangchan-lta-z0gqth1wlzn4feev1h4s8vh.md) — 元鼎三年重申告缗并派员核查，把商贾隐产清查扩展为全国性告发与没收；国库和公田扩张的同时，商人、中间阶层与工商业承受严重代价。
 - [《资治通鉴·汉纪》323-1｜为什么善良的他，会被皇帝误解？](sources/zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd.md) — 卜式从分产助弟、牧羊致富到捐军费与地方赈灾，以跨情境的持续行动纠正朝廷最初猜疑，并经上林牧羊和地方官试用进入仕途。
