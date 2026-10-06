@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 12546
+wiki_total_pages: 12551
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "NeoTango"
     title: "Neo Tango"
     url: "/wiki/entities/neotango/"
+  - key: "NeoIncaState"
+    title: "Neo-Inca State of Vilcabamba"
+    url: "/wiki/entities/neoincastate/"
   - key: "NeonFilmDistributor"
     title: "Neon (film distributor)"
     url: "/wiki/entities/neonfilmdistributor/"

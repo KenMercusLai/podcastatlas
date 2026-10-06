@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 12546
+wiki_total_pages: 12551
 wiki_pages:
   - key: "DictionaryOfTheEnglishLanguage"
     title: "A Dictionary of the English Language"
@@ -671,6 +671,9 @@ wiki_pages:
   - key: "DiegoBohorquez"
     title: "Diego Bohórquez"
     url: "/wiki/entities/diegobohorquez/"
+  - key: "DiegoDeAlmagro"
+    title: "Diego de Almagro"
+    url: "/wiki/entities/diegodealmagro/"
   - key: "DiegoMaradona"
     title: "Diego Maradona"
     url: "/wiki/entities/diegomaradona/"

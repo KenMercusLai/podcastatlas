@@ -12772,6 +12772,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/entities/ancientsilkroad/"
     },
+    "AndeanColonialForcedLabor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4505534064 [GLT4505534064].md",
+          "key": "649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064",
+          "show": "The Rest Is History",
+          "title": "649. The Fall of the Incas: The Last Emperor (Part 6)",
+          "url": "/wiki/sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/andeancolonialforcedlabor/"
+    },
     "AnderMedicalAesthetics": {
       "episode_count": 1,
       "show_count": 1,
@@ -22240,9 +22256,9 @@
       "url": "/wiki/entities/bartvanloo/"
     },
     "BartolomeDeLasCasas": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6751575003 [GLT6751575003].md",
@@ -22257,9 +22273,16 @@
           "show": "The Rest Is History",
           "title": "308: Columbus: Death in the Caribbean (Part 3)",
           "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        },
+        {
+          "episode_file": "GLT4505534064 [GLT4505534064].md",
+          "key": "649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064",
+          "show": "The Rest Is History",
+          "title": "649. The Fall of the Incas: The Last Emperor (Part 6)",
+          "url": "/wiki/sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/bartolomedelascasas/"
     },
     "BartolomeuDias": {
@@ -44201,6 +44224,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/concepts/colonialconversionenslavementcontradiction/"
     },
+    "ColonialDemographicCollapseAndes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4505534064 [GLT4505534064].md",
+          "key": "649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064",
+          "show": "The Rest Is History",
+          "title": "649. The Fall of the Incas: The Last Emperor (Part 6)",
+          "url": "/wiki/sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/colonialdemographiccollapseandes/"
+    },
     "ColonialFrontierGovernanceFragility": {
       "episode_count": 1,
       "show_count": 1,
@@ -46475,6 +46514,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/concepts/conquestrupturecontinuity/"
+    },
+    "ConquistadorCivilWarPeru": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4505534064 [GLT4505534064].md",
+          "key": "649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064",
+          "show": "The Rest Is History",
+          "title": "649. The Fall of the Incas: The Last Emperor (Part 6)",
+          "url": "/wiki/sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/conquistadorcivilwarperu/"
     },
     "ConscienceFormationUnderDictatorship": {
       "episode_count": 1,
@@ -58313,6 +58368,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/diegobohorquez/"
+    },
+    "DiegoDeAlmagro": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4505534064 [GLT4505534064].md",
+          "key": "649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064",
+          "show": "The Rest Is History",
+          "title": "649. The Fall of the Incas: The Last Emperor (Part 6)",
+          "url": "/wiki/sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/diegodealmagro/"
     },
     "DiegoMaradona": {
       "episode_count": 1,
@@ -70393,9 +70464,9 @@
       "url": "/wiki/concepts/encirclingweitorescuezhao/"
     },
     "EncomiendaColonialLaborSystem": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6751575003 [GLT6751575003].md",
@@ -70410,9 +70481,16 @@
           "show": "The Rest Is History",
           "title": "308: Columbus: Death in the Caribbean (Part 3)",
           "url": "/wiki/sources/308-columbus-death-in-the-caribbean-part-3-glt3250512968/"
+        },
+        {
+          "episode_file": "GLT4505534064 [GLT4505534064].md",
+          "key": "649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064",
+          "show": "The Rest Is History",
+          "title": "649. The Fall of the Incas: The Last Emperor (Part 6)",
+          "url": "/wiki/sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/encomiendacoloniallaborsystem/"
     },
     "Endeavour": {
@@ -83797,6 +83875,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/franciscomanueldasilva/"
+    },
+    "FranciscoPizarro": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4505534064 [GLT4505534064].md",
+          "key": "649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064",
+          "show": "The Rest Is History",
+          "title": "649. The Fall of the Incas: The Last Emperor (Part 6)",
+          "url": "/wiki/sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/franciscopizarro/"
     },
     "FrancoAmericanAlliance1778": {
       "episode_count": 4,
@@ -113657,6 +113751,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/indianmuslims/"
+    },
+    "IndigenousAllianceInSpanishConquest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4505534064 [GLT4505534064].md",
+          "key": "649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064",
+          "show": "The Rest Is History",
+          "title": "649. The Fall of the Incas: The Last Emperor (Part 6)",
+          "url": "/wiki/sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/indigenousallianceinspanishconquest/"
     },
     "IndirectSexualInfectionExposureRisk": {
       "episode_count": 1,
@@ -145935,6 +146045,22 @@
       "updated": "2026-09-30",
       "url": "/wiki/entities/manchestercity/"
     },
+    "MancoInca": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4505534064 [GLT4505534064].md",
+          "key": "649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064",
+          "show": "The Rest Is History",
+          "title": "649. The Fall of the Incas: The Last Emperor (Part 6)",
+          "url": "/wiki/sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/mancoinca/"
+    },
     "MandatoryAIIncidentInvestigation": {
       "episode_count": 2,
       "show_count": 1,
@@ -160657,6 +160783,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/entities/nemesisdroneunit/"
+    },
+    "NeoIncaState": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4505534064 [GLT4505534064].md",
+          "key": "649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064",
+          "show": "The Rest Is History",
+          "title": "649. The Fall of the Incas: The Last Emperor (Part 6)",
+          "url": "/wiki/sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/neoincastate/"
     },
     "NeoRobot": {
       "episode_count": 1,
@@ -209794,6 +209936,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/concepts/spanishconquestofmexico/"
     },
+    "SpanishConquestOfPeru": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4505534064 [GLT4505534064].md",
+          "key": "649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064",
+          "show": "The Rest Is History",
+          "title": "649. The Fall of the Incas: The Last Emperor (Part 6)",
+          "url": "/wiki/sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/spanishconquestofperu/"
+    },
     "SparseRecordDeathCauseInference": {
       "episode_count": 1,
       "show_count": 1,
@@ -226840,6 +226998,22 @@
       ],
       "updated": "2026-10-06",
       "url": "/wiki/concepts/tuntiansystem/"
+    },
+    "TupacAmaruI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4505534064 [GLT4505534064].md",
+          "key": "649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064",
+          "show": "The Rest Is History",
+          "title": "649. The Fall of the Incas: The Last Emperor (Part 6)",
+          "url": "/wiki/sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/tupacamarui/"
     },
     "Tupamaros": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 12546
+wiki_total_pages: 12551
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1307,6 +1307,9 @@ wiki_pages:
   - key: "Tyre"
     title: "Tyre / 推罗"
     url: "/wiki/entities/tyre/"
+  - key: "TupacAmaruI"
+    title: "Túpac Amaru I"
+    url: "/wiki/entities/tupacamarui/"
   - key: "TartariaTablets"
     title: "Tărtăria Tablets"
     url: "/wiki/entities/tartariatablets/"

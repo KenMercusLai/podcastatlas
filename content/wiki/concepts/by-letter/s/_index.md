@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9786
+wiki_total_pages: 9791
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1460,6 +1460,9 @@ wiki_pages:
   - key: "SpanishConquestOfMexico"
     title: "Spanish Conquest of Mexico"
     url: "/wiki/concepts/spanishconquestofmexico/"
+  - key: "SpanishConquestOfPeru"
+    title: "Spanish Conquest of Peru"
+    url: "/wiki/concepts/spanishconquestofperu/"
   - key: "SpanishImperialMonopolyVulnerability"
     title: "Spanish Imperial Monopoly Vulnerability"
     url: "/wiki/concepts/spanishimperialmonopolyvulnerability/"

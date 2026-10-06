@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12546
+wiki_total_pages: 12551
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "ManchesterUnited"
     title: "Manchester United"
     url: "/wiki/entities/manchesterunited/"
+  - key: "MancoInca"
+    title: "Manco Inca"
+    url: "/wiki/entities/mancoinca/"
   - key: "MandarinOriental"
     title: "Mandarin Oriental"
     url: "/wiki/entities/mandarinoriental/"

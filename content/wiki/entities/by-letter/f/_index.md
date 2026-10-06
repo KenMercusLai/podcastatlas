@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 12546
+wiki_total_pages: 12551
 wiki_pages:
   - key: "FIFAWorldCup1930"
     title: "1930 FIFA World Cup"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "FranciscoManuelDaSilva"
     title: "Francisco Manuel da Silva"
     url: "/wiki/entities/franciscomanueldasilva/"
+  - key: "FranciscoPizarro"
+    title: "Francisco Pizarro"
+    url: "/wiki/entities/franciscopizarro/"
   - key: "FrancoAmericanAlliance1778"
     title: "Franco-American Alliance of 1778"
     url: "/wiki/entities/francoamericanalliance1778/"

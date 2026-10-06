@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2589
+topic_total_pages: 2590
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -6501,6 +6501,9 @@ topic_sources:
   - key: "64-hitler-with-ian-kershaw-part-2-glt5766781968"
     title: "64. Hitler, with Ian Kershaw - part 2"
     url: "/wiki/sources/64-hitler-with-ian-kershaw-part-2-glt5766781968/"
+  - key: "649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064"
+    title: "649. The Fall of the Incas: The Last Emperor (Part 6)"
+    url: "/wiki/sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064/"
   - key: "65-a-very-british-scandal-glt1741780940"
     title: "65. A Very British Scandal"
     url: "/wiki/sources/65-a-very-british-scandal-glt1741780940/"

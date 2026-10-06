@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [649. The Fall of the Incas: The Last Emperor (Part 6)](sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064.md) — The Pizarro-Almagro civil war, Manco Inca's Vilcabamba resistance, colonial forced labor and demographic catastrophe, and the 1572 execution of Túpac Amaru I.
 - [戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者](sources/xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep.md) — 孟京辉回顾现代主义启蒙、排练场、长青剧目与戏剧节实践，并以现场共同在场、经济支点和注意力边界解释戏剧的持续生命力。
 - [《资治通鉴·汉纪》307-2｜霍去病孤军一战，战神能有多变态？](sources/zizhi-tongjian-hanji-307-2-huoqubing-gujun-yizhan-zhanshen-neng-you-duo-biantai-ll-egjuu-gn-s-_mazrbbarfmb02.md) — 霍去病追击浑邪王、休屠王至高兰山附近并取得节目所称大捷；路线、战损、人物名号、祭天金人、封赏与金城堡垒均保留来源边界。
 - [《资治通鉴·汉纪》307-1｜不学无术的霍去病，凭什么横扫匈奴？](sources/zizhi-tongjian-hanji-307-1-buxuewushu-de-huoqubing-ping-shenme-hengsao-xiongnu-lus99k4vphqaj8xofkm0rqi1nga9.md) — 霍去病第一次河西进军被解释为高速机动、穿插分割、以战养战与有条件招降的结合；战损、路线、数字及战前咨询张骞均保留来源边界。
@@ -3947,6 +3948,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today](sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195.md) — Tomorrow Today interview on a cliff-fall survival ordeal, acceptance without passivity, fear as information, one-metre action, self-trust, and the limits of “no Plan B.”
 
 ## Entities
+- [Manco Inca](entities/MancoInca.md) — Inca ruler who led resistance from Vilcabamba until his murder in 1544.
+- [Francisco Pizarro](entities/FranciscoPizarro.md) — Conquistador governor whose Lima-based faction defeated Almagro before Almagrist assassins killed him.
+- [Diego de Almagro](entities/DiegoDeAlmagro.md) — Conquistador rival defeated at Las Salinas and executed in 1538.
+- [Neo-Inca State of Vilcabamba](entities/NeoIncaState.md) — Independent Inca refuge that survived until the Spanish conquest of 1572.
+- [Túpac Amaru I](entities/TupacAmaruI.md) — Final independent Vilcabamba ruler, captured and executed in Cusco in 1572.
 - [孟京辉 / Meng Jinghui](entities/MengJinghui.md) — 以现代主义实验、排练场协作、长青剧目和戏剧节生态连接创作自由与现场艺术的中国戏剧导演。
 - [乌镇戏剧节 / Wuzhen Theatre Festival](entities/WuzhenTheatreFestival.md) — 通过特邀剧目、青年竞演、公共活动、多剧场与小镇社交形成高密度戏剧生态的平台。
 - [滇国 / Dian Kingdom (Western Han-era)](entities/DianKingdomWesternHan.md) — 汉使寻找身毒道路时抵达的西南政体；接待与助探使其进入汉廷战略视野，但不等于已经归附。
@@ -16545,6 +16551,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Spanish Conquest of Peru](concepts/SpanishConquestOfPeru.md) — Prolonged conquest process joining Spanish civil war, Indigenous alliances, colonial formation, and Vilcabamba's fall.
+- [Conquistador Civil War in Peru](concepts/ConquistadorCivilWarPeru.md) — Linked Pizarro-Almagro and royal-settler wars within the conquest of Peru.
+- [Indigenous Alliances in Spanish Conquest](concepts/IndigenousAllianceInSpanishConquest.md) — Strategic Indigenous coalition power essential to Spanish-led conquest armies.
+- [Colonial Demographic Collapse in the Andes](concepts/ColonialDemographicCollapseAndes.md) — Multi-causal catastrophe involving disease, war, subsistence damage, coercion, and social despair.
+- [Andean Colonial Forced Labor](concepts/AndeanColonialForcedLabor.md) — Estate, compulsory-service, and mining labor linking Andean extraction to global silver flows.
 - [Live-Theatre Co-Presence / 戏剧现场共同在场](concepts/LiveTheatreCoPresence.md) — 演员、观众、空间与时间共同生成可反馈、可修正且无法被固定影像完全等同的现场事件。
 - [Theatre-Festival Cultural Ecology / 戏剧节文化生态](concepts/TheatreFestivalCulturalEcology.md) — 剧目、创作者、观众、场馆、策展、技术与非正式交往在集中时空中相互强化而又彼此牵制的系统。
 - [商品踪迹式路线推断 / Commodity-Trace Route Inference](concepts/CommodityTraceRouteInference.md) — 从异地商品及其报告来源推测未知交通网络；商品可提示连通性，却不能单独证明直接、安全或国家可控的道路。
