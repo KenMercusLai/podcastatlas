@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc
   - zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1
   - zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk
+  - zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd
 last_updated: 2026-10-06
 ---
 
@@ -16,7 +17,7 @@ Status-filtered talent misrecognition / 门第筛选式人才误判 is the perso
 
 ## Current Synthesis
 
-The bounded evidence now spans recognition before office, reputation certification, and blocked command. Hanji 323-2 supplies the Western Han entry case: [[BuShiWesternHan|卜式]] offers half his wealth to the state while still an unofficial shepherd and merchant, and [[GongsunHong|公孙弘]] reportedly treats the proposal as abnormal. The host interprets this through low origin and lack of background, while [[HanWudi|汉武帝]] later turns Bu Shi's repeated contributions into an office path. The durable point is that unfamiliar social position can reduce credibility before ability is tested; the claim that Wudi was generally status-blind is broader than the evidence.
+The bounded evidence now spans recognition before office, reputation certification, and blocked command. Hanji 323-1 and 323-2 supply the Western Han entry case: [[BuShiWesternHan|卜式]] offers half his wealth to the state while still an unofficial shepherd and merchant, and [[GongsunHong|公孙弘]] reportedly treats the proposal as abnormal and potentially disruptive if made a public model. Hanji 323-2's host interprets this through low origin and lack of background. Hanji 323-1 then makes the correction mechanism concrete: famine relief, return of an imperial reward, successful familiar work in Shanglin, and bounded local-office trials turn repeated conduct into an office path under [[HanWudi|汉武帝]]. The durable point is that unfamiliar social position can reduce credibility before ability is tested, while staged evidence can correct the judgment; the claim that Wudi was generally status-blind is broader than the evidence.
 
 Hanji 926 shows that elite evaluation can also certify. [[QiaoXuanLateHan|桥玄]] routes [[CaoCao|曹操]] toward [[XuShao|许劭]], whose reputation system helps recode a eunuch-family outsider into a publicly legible political actor. Hanji 993 supplies the blocking side of the same mechanism: [[LiuYaoLateHan|刘繇]] has [[TaishiCi|太史慈]] in camp and receives a recommendation, yet fear of Xu Shao's imagined judgment prevents a major appointment before [[ShentinglingBattle|神亭岭之战]] makes Taishi Ci's martial capacity visible.
 
@@ -35,6 +36,7 @@ The current synthesis is therefore not that all pedigree or reputation evidence 
 
 Pre-office credibility filtering:
 - [[zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk|Hanji 323-2]] says Gongsun Hong distrusts Bu Shi's half-wealth offer while Bu Shi lacks office and an elite background, and the host treats Wudi's later recognition as the corrective path.
+- [[zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd|Hanji 323-1]] adds concern about abnormal motive and disruptive precedent, then supplies later relief, returned reward, Shanglin work, and local office as successive evidence that revises the initial judgment.
 
 Elite certification:
 - [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] presents Qiao Xuan and Xu Shao as evaluators whose standing makes Cao Cao's otherwise contested background and future capacity publicly legible.
@@ -45,14 +47,12 @@ Appointment blocked by reputation anxiety:
 
 ## Counterevidence & Qualifications
 
-The three episodes do not establish a general social history of Western or Eastern Han selection. Hanji 323-2 preserves Gongsun Hong's rejection more securely than the host's claim that pedigree caused it; an unusual donation can also raise questions about fraud, precedent, motive, or political signaling. Wudi's recognition of Bu Shi does not prove consistent status-blind selection. Hanji 926 shows why recognized evaluators can be useful when direct evidence is sparse, while Hanji 993 keeps Taishi Ci's lower-status characterization source-scoped. Later achievement can correct an earlier judgment but can also create hindsight bias, so the concept requires a specific blocked opportunity rather than mere retrospective fame.
+The four episodes do not establish a general social history of Western or Eastern Han selection. Hanji 323-1 and 323-2 preserve Gongsun Hong's rejection more securely than the claim that pedigree caused it; an unusual donation can also raise questions about fraud, precedent, motive, political signaling, or pressure on others to imitate sacrifice. Wudi's recognition of Bu Shi does not prove consistent status-blind selection. Hanji 926 shows why recognized evaluators can be useful when direct evidence is sparse, while Hanji 993 keeps Taishi Ci's lower-status characterization source-scoped. Repeated conduct and bounded trials can correct an earlier judgment, but later achievement can also create hindsight bias, so the concept requires a specific blocked opportunity rather than mere retrospective fame.
 
 ## What Changed
 
-- Added a Western Han pre-office case in which status affects whether an unconventional act is believed at all.
-- Distinguished credibility filtering from the later blocking of a formal command appointment.
-- Reframed elite appraisal as a two-sided mechanism that can certify or obstruct talent.
-- Migrated the page to the synthesis-v1 structure after reading its complete preserved source inventory.
+- Added repeated relief, returned reward, familiar-work testing, and local office as the conduct-based correction path in the Bu Shi case.
+- Distinguished status filtering from legitimate questions about motive, precedent, and coercive exemplary pressure.
 
 ## Related Concepts
 

@@ -30719,3 +30719,11 @@ Added source `zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-n
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》323-1｜为什么善良的他，会被皇帝误解？
+
+Added source `zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd`; resynthesized [[BuShiWesternHan|卜式]], [[GongsunHong|公孙弘]], and [[StatusFilteredTalentMisrecognition|门第筛选式人才误判]] from their complete preserved evidence inventories; and appended the new source once to each page. Core synthesis: Bu Shi's family generosity and sheep-herding competence precede an initially rejected war donation, while later famine relief, return of an imperial reward, successful familiar work, and bounded local-office trials turn repeated conduct into the evidence that corrects institutional suspicion. No settled contradiction was adopted. Amounts, chronology, county outcomes, broad social claims, and the sheep-to-governance analogy remain source-scoped; Gongsun Hong's objection can reflect status filtering, motive and fraud risk, disruptive precedent, or several concerns at once. Broad [[HanWudi|汉武帝]], [[Xiongnu|匈奴]], and show pages were kept closed because the durable additions are represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,841 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

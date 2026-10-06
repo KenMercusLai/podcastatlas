@@ -8,16 +8,21 @@ sources:
   - zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu
   - zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p
   - zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk
+  - zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd
 last_updated: 2026-10-06
 ---
 
 ## Overview
 
-卜式 / Bu Shi is a Western Han shepherd-and-merchant-turned-official whom the current sources present as both a publicly rewarded patriotic example and a persistent critic of the fiscal-market system associated with [[HanWudi|汉武帝]] and [[SangHongyangWesternHan|桑弘羊]]. Hanji 323-2 and 353-2 overlap on his offer to join the Nanyue expedition with his son and Wudi's public reward; the earlier-numbered episode also frames his rise as a correction of status-based disbelief. Hanji 357-2 adds his promotion to Yushi Dafu, policy criticism, and removal; Hanji 362-2 supplies his later drought memorial and attack on official profit-seeking.
+卜式 / Bu Shi is a Western Han shepherd-and-merchant-turned-official whom the current sources present as a family provider, voluntary donor, publicly rewarded patriotic example, practical local administrator, and persistent critic of the fiscal-market system associated with [[HanWudi|汉武帝]] and [[SangHongyangWesternHan|桑弘羊]]. Hanji 323-1 supplies his early family, wealth-building, donation, relief, Shanglin, and magistrate sequence; Hanji 323-2 and 353-2 overlap on his later offer to join the Nanyue expedition with his son and Wudi's public reward. Hanji 357-2 adds his promotion to Yushi Dafu, policy criticism, and removal; Hanji 362-2 supplies his drought memorial and attack on official profit-seeking.
 
 ## Current Profile
 
-The bounded evidence now begins with the credibility problem around an unconventional donation. Hanji 323-2 says [[GongsunHong|公孙弘]] distrusts Bu Shi when the unofficial shepherd and merchant offers half his wealth to the state, and the host interprets that reaction through origin, background, and lack of office. The episode treats Wudi's willingness to recognize Bu Shi as decisive, but it does not establish that Wudi consistently ignored status or that pedigree was Gongsun Hong's only concern.
+The bounded evidence now begins before office. Hanji 323-1 says Bu Shi raises his younger brother after their parents die, leaves the brother most family property, then rebuilds wealth by growing a small flock to more than two thousand sheep and later helps the brother again. These details make generosity, productive competence, and persistence observable across family and work, though the precise biography and amounts remain bounded to the episode.
+
+Hanji 323-1 and 323-2 overlap on the credibility problem around his offer to give half his wealth for war. [[GongsunHong|公孙弘]] treats the apparently disinterested proposal as contrary to ordinary motives and unsuitable as a public example; Hanji 323-2 and its host further interpret that suspicion through origin, background, and lack of office. Wudi initially lets the offer lapse. A later gift of 200,000 cash for Henan famine relief, followed by Bu Shi returning an imperial labor-service reward to the public treasury, supplies repeated conduct rather than verbal self-defense. The evidence supports correction through accumulated action, not a claim that pedigree was Gongsun Hong's sole concern or that Wudi consistently ignored status.
+
+Hanji 323-1 then supplies a bounded competence test. Bu Shi accepts the familiar work of tending sheep in Shanglin, improves the herd, and tells Wudi that regular routines and separating disruptive animals also apply to governing people. The episode reports successful trials as Goushi and Chenggao magistrate before appointment as tutor to the king of Qi. The sequence broadens his profile beyond saintly giving, but the herd analogy's exclusionary edge should not be mistaken for a complete governance theory.
 
 Hanji 323-2 and 353-2 then overlap on public military commitment. Both say Bu Shi, as Qi chancellor, offers himself and his son for the [[Nanyue|南越]] campaign; Hanji 353-2 adds Qi sailors experienced with ships. Wudi rewards him with guannei-hou rank, gold, and land and announces the example throughout the realm. No broader elite response follows, making Bu Shi the positive exemplar immediately before the [[ZhoujinForfeiture|酎金夺爵]] punishment.
 
@@ -27,15 +32,20 @@ Hanji 362-2 later sharpens the same position. Bu Shi argues that court support s
 
 ## Key Characteristics
 
-- Merchant-background Western Han figure presented as patriotic and publicly rewarded by Han Wudi after volunteering for the Nanyue campaign.
-- Former shepherd whose initial donation proposal meets status-filtered suspicion before imperial recognition opens an office path.
-- Positive elite-service exemplar whose public reward fails to produce wider volunteering among officials and marquises.
+- Family provider and successful shepherd whose wealth-building establishes practical competence before office.
+- Voluntary donor whose war offer first meets institutional suspicion, while later relief and returned reward make his public motive more credible.
+- Practical administrator whose Shanglin work and reported county results convert familiar craft knowledge into an office path.
+- Patriotic elite-service exemplar whose later Nanyue offer is publicly rewarded but fails to produce wider volunteering.
 - Yushi Dafu who criticizes the household effects of salt-iron and junshu-pingzhun implementation.
 - Critic of poor compulsory goods, transport burdens, price increases, and officials pursuing ordinary market profit.
-- Defender, in the sources' compressed formulation, of taxation as the court's proper support.
 - Remonstrant whose criticism survives removal from high office and later escalates into drought-responsibility language against Sang Hongyang.
 
 ## Evidence
+
+Family provision, productive competence, and conduct-based recognition:
+- [[zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd|Hanji 323-1]] presents Bu Shi raising his younger brother, yielding most family property, rebuilding wealth through sheep herding, and later helping the brother again.
+- [[zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd|Hanji 323-1]] says his half-property war offer is initially rejected, then records a 200,000-cash famine-relief gift and his return of an imperial reward to the public treasury.
+- [[zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd|Hanji 323-1]] reports successful Shanglin herd management, a sheep-to-governance analogy, and trials at Goushi and Chenggao before appointment as tutor to the king of Qi.
 
 Office, policy criticism, and removal:
 - [[zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu|Hanji 357-2]] says Han Wudi makes Bu Shi a guannei hou and Yushi Dafu after his rise from sheep herding and commerce.
@@ -56,16 +66,17 @@ Disaster language:
 
 Recognition and status filtering:
 - [[zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk|Hanji 323-2]] says Gongsun Hong distrusts Bu Shi's half-wealth offer and interprets that suspicion through Bu Shi's lack of office, pedigree, and established background.
+- [[zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd|Hanji 323-1]] adds the stated concern that an apparently motive-free act was contrary to ordinary expectations and could be disruptive if elevated into a public model.
 
 ## Qualifications
 
-This profile rests on four short podcast summaries and does not reconstruct Bu Shi's complete biography, wealth transfers, office chronology, memorial texts, or the full institutional operation of salt, iron, junshu, and pingzhun. Hanji 323-2 and 353-2 substantially overlap; the first gives a broader social-origin interpretation, while the second supplies more campaign and ritual detail. Neither establishes Bu Shi's private motives or whether his proposed party deployed. Hanji 323-2 misattributes the *Hanshu* chapter appraisal “鸿渐之翼……非遇其时” to 班超 rather than 班固, and its broad praise of Wudi's status-blind selection remains source-scoped. Hanji 357-2's defense of Bu Shi against Sima Qian is the host's character judgment, while “不善文辞” as a pretext and Wudi's displeasure as the cause of removal require primary-text comparison. Hanji 362-2's execution-and-rain language may be literal belief, rhetorical escalation, or both.
+This profile rests on five short podcast summaries and does not reconstruct Bu Shi's complete biography, wealth transfers, office chronology, memorial texts, or the full institutional operation of salt, iron, junshu, and pingzhun. Hanji 323-1 gives the fullest early sequence but does not independently verify the amounts, reported county outcomes, or exact promotion path; its herd analogy mixes practical routine with an exclusionary view of disruptive members. Hanji 323-2 and 353-2 substantially overlap; the first gives a broader social-origin interpretation, while the second supplies more campaign and ritual detail. None establishes Bu Shi's private motives or whether his proposed Nanyue party deployed. Hanji 323-2 misattributes the *Hanshu* chapter appraisal “鸿渐之翼……非遇其时” to 班超 rather than 班固, and its broad praise of Wudi's status-blind selection remains source-scoped. Hanji 357-2's defense of Bu Shi against Sima Qian is the host's character judgment, while “不善文辞” as a pretext and Wudi's displeasure as the cause of removal require primary-text comparison. Hanji 362-2's execution-and-rain language may be literal belief, rhetorical escalation, or both.
 
 ## What Changed
 
-- Added independent corroboration of Bu Shi's Nanyue offer, public reward, failed exemplary diffusion, and promotion.
-- Added the earlier status-filtered suspicion around his wealth donation without turning it into a universal account of Han Wudi's selection practice.
-- Corrected the episode's 班超 attribution to the 班固-associated *Hanshu* chapter appraisal.
+- Added the family provision and sheep-herding record that makes Bu Shi's generosity inseparable from productive competence.
+- Recast court recognition as a correction through repeated relief, returned reward, familiar-work testing, and local administration rather than a sudden reversal.
+- Qualified the sheep-to-governance analogy by preserving both its practical routine and exclusionary edge.
 
 ## Relationships
 
