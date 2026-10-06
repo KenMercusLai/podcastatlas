@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3148
+topic_total_pages: 3149
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1078,6 +1078,9 @@ topic_concepts:
   - key: "DeepCanvassing"
     title: "Deep Canvassing / 深度说服"
     url: "/wiki/concepts/deepcanvassing/"
+  - key: "DefenseAIControlPlaneRisk"
+    title: "Defense AI Control Plane Risk"
+    url: "/wiki/concepts/defenseaicontrolplanerisk/"
   - key: "DefenseAIProcurement"
     title: "Defense AI Procurement"
     url: "/wiki/concepts/defenseaiprocurement/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 12539
+wiki_total_pages: 12540
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "EmbeddedPodcast"
     title: "Embedded podcast"
     url: "/wiki/entities/embeddedpodcast/"
+  - key: "EmilMichael"
+    title: "Emil Michael"
+    url: "/wiki/entities/emilmichael/"
   - key: "EmilSinclair"
     title: "Emil Sinclair / 辛克莱尔"
     url: "/wiki/entities/emilsinclair/"

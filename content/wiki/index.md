@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Inside the Iran War and the Pentagon's Feud with Anthropic with Under Secretary of War Emil Michael](sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-iran-war-and-the-pentagons-feud-with-anthropic-with-under-secretary-of-war-emil-michael-40339045.md) — All-In interview on Iran, drone warfare, defense AI control, the Anthropic dispute, and industrial modernization.
 - [《资治通鉴·汉纪》312｜降汉的匈奴王，为何突然内斗？](sources/zizhi-tongjian-hanji-312-xianghan-de-xiongnu-wang-weihe-turan-neidou-lkbyh1fglhog0d9voaxitwu59eic.md) — 浑邪王与休屠王因惧怕单于清算而共谋降汉，却因承诺与河西利益分化在受降前内斗；浮桥计划、私下动机、战斗细节及休屠王死法均保留来源边界。
 - [《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？](sources/zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l.md) — 以明定陵同时出现大量出土与保存损失说明主动发掘的准备风险，并以刘宽从简葬反证刘寄墓未必富丽；责任链、损失清单与轶闻均保留来源边界。
 - [《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生](sources/zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq.md) — 以刘胜、狮子山楚王与海昏侯墓说明西汉王侯厚葬的物质规模，并把金缕玉衣解释为财富、等级与尸骨不朽想象的结合；这些类比仍不能证明刘寄墓的位置或藏品。
@@ -3939,6 +3940,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today](sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195.md) — Tomorrow Today interview on a cliff-fall survival ordeal, acceptance without passivity, fear as information, one-metre action, self-trust, and the limits of “no Plan B.”
 
 ## Entities
+- [Emil Michael](entities/EmilMichael.md) — Defense technology official presenting the Pentagon-side case on AI procurement, autonomy, and industrial modernization.
 - [明定陵 / Ming Dingling](entities/MingDingling.md) — 明代帝陵主动发掘案例，在大量文物出土与脆弱材料损毁、遗失叙述之间呈现考古发现和保存失败并存的风险。
 - [济北王刘宽 / Liu Kuan, King of Jibei (Western Han)](entities/LiuKuanJibeiKingWesternHan.md) — 被节目描述为因政治罪过取消金缕玉衣并从简安葬的西汉诸侯王，为刘寄墓可能寒酸提供类比而非证明。
 - [Shervin Pishevar](entities/ShervinPishevar.md) — Iranian-American investor whose family history, Pahlavi support, and Iran Prosperity Project advocacy frame the episode's diaspora case for transition.
@@ -16530,6 +16532,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Defense AI Control Plane Risk](concepts/DefenseAIControlPlaneRisk.md) — Operational dependency created when an outside model provider retains authority over updates or behavior in a sensitive deployment.
 - [主动陵墓发掘的保存风险 / Preventive Tomb Excavation Conservation Risk](concepts/PreventiveTombExcavationConservationRisk.md) — 封闭墓室一经开启，环境变化、记录、稳定、保管与长期保存能力可能落后于暴露速度；出土数量不能单独衡量成功。
 - [汉代王侯厚葬与玉衣不朽信仰 / Han Royal Thick Burial and Jade-Suit Immortality Belief](concepts/HanRoyalThickBurialAndJadeSuitBelief.md) — 王侯墓葬财富、玉衣等级标识与精气不散、尸骨不朽想象的结合；出土实物不等于超自然功效得到验证。
 - [陵墓财富传说的盗掘激励 / Tomb-Wealth Legend Robbery Incentive](concepts/TombWealthLegendRobberyIncentive.md) — 夸张墓藏故事可引导盗掘目标，即使富墓与惩罚性薄葬证据相互竞争、目标身份和实际藏品仍未确认。

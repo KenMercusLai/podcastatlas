@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3343
+topic_total_pages: 3346
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1825,6 +1825,9 @@ topic_concepts:
   - key: "DefaultDenySecurity"
     title: "Default Deny Security"
     url: "/wiki/concepts/defaultdenysecurity/"
+  - key: "DefenseAIControlPlaneRisk"
+    title: "Defense AI Control Plane Risk"
+    url: "/wiki/concepts/defenseaicontrolplanerisk/"
   - key: "DefenseAIProcurement"
     title: "Defense AI Procurement"
     url: "/wiki/concepts/defenseaiprocurement/"
@@ -5612,6 +5615,9 @@ topic_entities:
   - key: "Elys"
     title: "Elys"
     url: "/wiki/entities/elys/"
+  - key: "EmilMichael"
+    title: "Emil Michael"
+    url: "/wiki/entities/emilmichael/"
   - key: "Equinix"
     title: "Equinix"
     url: "/wiki/entities/equinix/"
@@ -9315,6 +9321,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955"
     title: "Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-inside-the-iran-war-and-the-pentagons-feud-with-anthropic-with-under-secretary-of-war-emil-michael-40339045"
+    title: "Inside the Iran War and the Pentagon's Feud with Anthropic with Under Secretary of War Emil Michael"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-iran-war-and-the-pentagons-feud-with-anthropic-with-under-secretary-of-war-emil-michael-40339045/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170"
     title: "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170/"

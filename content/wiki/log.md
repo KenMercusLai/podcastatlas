@@ -30984,3 +30984,11 @@ Added source `zizhi-tongjian-hanji-312-xianghan-de-xiongnu-wang-weihe-turan-neid
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | Inside the Iran War and the Pentagon's Feud with Anthropic with Under Secretary of War Emil Michael
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-inside-the-iran-war-and-the-pentagons-feud-with-anthropic-with-under-secretary-of-war-emil-michael-40339045`; created [[EmilMichael|Emil Michael]] and [[DefenseAIControlPlaneRisk]]; and resynthesized [[DefenseAIProcurement]], [[DefenseAISupplyChainRisk]], and [[HumanAuthorizedAutonomousWeapons]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the episode gives the Pentagon-side argument that acceptable-use restrictions and vendor-retained model control can become operational dependencies, while defensive urgency, civilian exposure, and decision time produce different autonomy thresholds. No settled contradiction was adopted. Anthropic's response, the underlying contract and designation notice, classified deployment architecture, casualty and production figures, and the timing and legal scope of cancellation, designation, or wider federal exclusion remain unavailable or source-scoped. Broad [[Anthropic]], [[Iran]], [[USDepartmentOfDefense]], host, and industrial-base pages were kept closed because the focused source, entity, and concepts capture the bounded additions without rewriting much larger evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,874 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

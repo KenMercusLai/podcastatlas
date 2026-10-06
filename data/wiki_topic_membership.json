@@ -27512,6 +27512,18 @@
       "url": "/topics/science/"
     }
   ],
+  "DefenseAIControlPlaneRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DefenseAIProcurement": [
     {
       "key": "technology",
@@ -31299,6 +31311,13 @@
     }
   ],
   "EmergentInnovationStrategy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "EmilMichael": [
     {
       "key": "technology",
       "label": "Technology",
@@ -94879,6 +94898,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-inside-the-iran-war-and-the-pentagons-feud-with-anthropic-with-under-secretary-of-war-emil-michael-40339045": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170": [

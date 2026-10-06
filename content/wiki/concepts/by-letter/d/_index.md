@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 9782
+wiki_total_pages: 9783
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "DefectiveInventoryDemandSignal"
     title: "Defective Inventory Demand Signal"
     url: "/wiki/concepts/defectiveinventorydemandsignal/"
+  - key: "DefenseAIControlPlaneRisk"
+    title: "Defense AI Control Plane Risk"
+    url: "/wiki/concepts/defenseaicontrolplanerisk/"
   - key: "DefenseAIProcurement"
     title: "Defense AI Procurement"
     url: "/wiki/concepts/defenseaiprocurement/"
