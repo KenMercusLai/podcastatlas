@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9784
+wiki_total_pages: 9786
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "TheUntimely"
     title: "The Untimely"
     url: "/wiki/concepts/theuntimely/"
+  - key: "TheatreFestivalCulturalEcology"
+    title: "Theatre-Festival Cultural Ecology / 戏剧节文化生态"
+    url: "/wiki/concepts/theatrefestivalculturalecology/"
   - key: "TheatricalWindowBargaining"
     title: "Theatrical Window Bargaining"
     url: "/wiki/concepts/theatricalwindowbargaining/"

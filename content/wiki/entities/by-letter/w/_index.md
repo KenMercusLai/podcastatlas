@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 12544
+wiki_total_pages: 12546
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -929,6 +929,9 @@ wiki_pages:
   - key: "WuzhuliuChanyu"
     title: "乌珠留单于 / Wuzhuliu Chanyu"
     url: "/wiki/entities/wuzhuliuchanyu/"
+  - key: "WuzhenTheatreFestival"
+    title: "乌镇戏剧节 / Wuzhen Theatre Festival"
+    url: "/wiki/entities/wuzhentheatrefestival/"
   - key: "WuzhuiHorse"
     title: "乌骓马 / Wuzhui Horse"
     url: "/wiki/entities/wuzhuihorse/"

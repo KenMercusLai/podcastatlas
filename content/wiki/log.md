@@ -31042,3 +31042,11 @@ Added source `essentials-the-biology-of-taste-perception-sugar-craving-dr-charle
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者
+
+Added source `xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep`; created [[MengJinghui|孟京辉]], [[WuzhenTheatreFestival|乌镇戏剧节]], [[LiveTheatreCoPresence|戏剧现场共同在场]], and [[TheatreFestivalCulturalEcology|戏剧节文化生态]]; and resynthesized [[AttentionFragmentation]], [[PerformerAudienceStateCoupling]], and [[CommercializationProtectsCreativeIdeals]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: theatre's continued distinctiveness lies in a cast-, room-, audience-, and time-specific encounter that can be revised across performances; festival density can support creators and audience discovery without making attendance, check-in traffic, or temporary intensity equivalent to durable artistic renewal; and a long-running repertoire hit can become economic infrastructure for experimentation. No settled contradiction was adopted. Market size versus recent attendance weakness, production finances, institutional memories, audience composition, festival metrics, and archival equivalence remain source-scoped. Broad [[LuoYonghao]] and [[LuoyonghaosCrossroads]] profiles were kept closed because the focused source, entity, and concepts capture the durable addition without rewriting their much larger evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,881 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

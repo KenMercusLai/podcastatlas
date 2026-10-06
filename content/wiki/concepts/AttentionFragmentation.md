@@ -1,39 +1,57 @@
 ---
 title: "Attention Fragmentation / 注意力碎片化"
 type: concept
-tags: [attention, media, reading, life-practice, magazines]
-sources: [ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu, ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb, ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
-last_updated: 2026-08-08
+tags: [attention, media, reading, life-practice, performance]
+sources:
+  - ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu
+  - ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb
+  - ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix
+  - reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk
+  - xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep
+last_updated: 2026-10-07
+knowledge_schema: synthesis-v1
 ---
 
 # Attention Fragmentation / 注意力碎片化
 
-[[ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu]] adds the magazine-versus-feed branch. The episode does not claim that paper was morally pure, but it shows that weekly or monthly magazines created slower anticipation, issue-level memory, and social circulation that were weakened when smartphones, WeChat public accounts, and short video took over everyday attention.
+## Definition
+Attention fragmentation is the weakening of sustained, chosen involvement when feeds, messages, recording impulses, work reachability, and repeated switching continually redirect awareness, even when clock time itself remains available.
 
-Attention fragmentation is [[ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix]]'s correction to the common claim that modern life has only fragmented time. [[LengJianguo|冷建国]] argues that time has always been broken into small pieces; the sharper loss is the capacity to settle mind and heart into whatever one is doing.
+## Current Synthesis
+The sources distinguish fragmented attention from simply having small pieces of time. [[ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix]] argues that time has always been interrupted; the sharper modern problem is losing the ability to settle into reading or another chosen activity. [[ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu]] contrasts feed switching with magazines' periodic arrival, issue memory, and physical circulation, without treating paper as morally pure.
 
-This concept extends [[AttentionIndustrialization]] at the everyday-practice level. Feeds, short videos, and always-new technology waves can scatter attention, but the episode's answer is not only screen avoidance. Reading, handwork, painting, cooking, tennis, walking, and breathing can all become attention-training practices when they let a person complete one activity with presence.
-
-[[ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb]] adds the vacation version. Phones can make holiday time feel porous because work and feeds remain available everywhere. The source's travel answer is environmental as well as behavioral: distance, time zones, forests, ferries, food, walking, and local-life routines can give attention a more stable object than the feed.
-
-[[reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]] adds the AI-hardware and attention-economy version. [[WangTianfan]] argues that mobile internet trained people to keep opening phones and recording experiences without necessarily becoming happier; he therefore evaluates AI hardware partly by whether it can free users from phone/computer loops and help them live more in the present.
+The repair strategies are environmental and embodied as well as individual. [[ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb]] uses long holidays, distance, nature, walking, and local routines to create a boundary from work and feeds. The Wang Tianfan interview evaluates AI hardware partly by whether it releases users from phone-centered capture into present social experience. The Meng Jinghui interview adds live performance: phone use can affect actors, while slow film, idleness, poetry, and theatre ask people to give a bounded interval to one shared event.
 
 ## Key Claims
-- EP272 adds that periodic media can stabilize attention through waiting, issue memory, and physical circulation, while feeds increase switching and make content harder to keep as a durable object.
-- Fragmented time is not new; fragmented attention is the more important modern problem.
-- Reading helps when it restores chosen sequence, duration, and presence rather than merely increasing book count.
-- Focus can be trained outside reading through craft, sport, cooking, and body practices.
-- The danger of short content is not brevity alone, but the habit of repeated switching without settled involvement.
-- A good life rhythm may require multiple attention modes: work, physical movement, sleep, reading, and quiet wandering.
-- EP265 adds that holidays repair attention only when travel creates enough boundary from work messages, check-in pressure, and feed switching.
-- Wang's AI-context-machine branch adds that a device can be valuable if it reduces phone-centered capture behavior and returns attention to the current social or lived scene.
+- Fragmented time is not new; loss of settled involvement is the more precise problem.
+- Feed media intensify switching, weaken durable memory objects, and make work or novelty continuously reachable.
+- Periodic media can stabilize attention through anticipation, sequence, issue identity, and physical circulation.
+- Reading, craft, movement, cooking, travel, nature, and deliberate idleness can train presence when they become chosen activities rather than optimization tasks.
+- Devices should be judged partly by whether they reduce or deepen capture loops, not only by information or productivity capability.
+- Live performance makes distraction relational because visible inattention can affect performers and the shared event.
+- Boundaries work best when environments, institutions, and social expectations support them rather than leaving regulation entirely to willpower.
 
-## Connections
-- [[MagazineReadingEcology]], [[ElectronicMagazineTransition]], and [[PaperMagazineSubscriptionRitual]] - magazine-era rhythm and post-print attention ritual added by EP272.
-- [[AttentionIndustrialization]] - broader platform and AI environment that shapes attention.
-- [[ReadingAsCognitiveRestoration]] - reading as one repair practice.
-- [[ArtisanalAttention]], [[BirdwatchingAsAttention]], and [[ChoiceTriggeredAttentionBoundary]] - adjacent attention-training concepts.
-- [[ScreenTimeFriction]] and [[AIUsePacing]] - deliberate boundaries around feed and AI-driven attention.
-- [[BedtimeReadingRitual]] - nightly practice that can help attention settle.
-- [[VacationShame]], [[WorkRestBoundary]], [[TravelSensoryRecovery]], and [[LocalLifeDensityTravel]] - vacation and travel attention branch added by EP265.
-- [[WangTianfan]], [[AIContextMachine]], [[WearableAIAssistant]], and [[WisdomOverIntelligence]] - AI hardware and present-tense attention branch.
+## Evidence
+- Magazine rhythm and feed transition: [[ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu]] links periodic arrival and issue memory to a slower reading ecology weakened by smartphones, public accounts, short video, and kiosk decline.
+- Attention rather than clock time: [[ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix]] frames the modern reading difficulty as inability to settle and treats multiple reading media and body conditions as relevant.
+- Vacation boundary: [[ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb]] shows how messaging, check-in pressure, distance, time zones, sensory contact, and workplace norms shape whether leave restores attention.
+- Device-design branch: [[reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]] evaluates wearable context tools partly by whether they reduce phone-opening and compulsive recording while returning attention to lived scenes.
+- Live-performance branch: [[xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep]] links audience phone use, short-video reward loops, lost idle time, deliberate phone-free periods, and slow art to theatre's demand for shared duration.
+
+## Counterevidence & Qualifications
+The sources do not establish that paper, travel, wearables, reading, or theatre automatically repair attention. Each can become another consumption, recording, status, or optimization loop. Short content is not inherently shallow, and the Meng interview explicitly allows short video and short drama to mature artistically. Most causal accounts are participant observations rather than controlled comparisons.
+
+## What Changed
+- Migrated the page to the synthesis-v1 structure while preserving the complete prior evidence inventory.
+- Added live performance as a relational attention setting in which distraction can affect other participants.
+- Qualified repair practices by separating bounded presence from automatic nostalgia for slow media.
+
+## Related Concepts
+- [[AttentionIndustrialization]] - broader platform and commercial system that scales capture and switching.
+- [[ReadingAsCognitiveRestoration]] - reading practice that can restore chosen sequence and duration.
+- [[ScreenTimeFriction]] - deliberate barriers around habitual device use.
+- [[WorkRestBoundary]] - institutional and social limit needed for holidays to become real attention breaks.
+- [[TravelSensoryRecovery]] - environmental route from abstract feed pressure toward direct perception.
+- [[AIContextMachine]] - device category whose attention effects depend on whether context capture reduces or deepens phone loops.
+- [[LiveTheatreCoPresence]] - shared-performance condition that makes sustained attention relational.
+- [[PerformerAudienceStateCoupling]] - mechanism through which audience attention and performer state can affect one another.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 9784
+wiki_total_pages: 9786
 wiki_pages:
   - key: "LisbonEarthquake1755"
     title: "1755 Lisbon Earthquake"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "LiveInRelationshipRegistration"
     title: "Live-In Relationship Registration"
     url: "/wiki/concepts/liveinrelationshipregistration/"
+  - key: "LiveTheatreCoPresence"
+    title: "Live-Theatre Co-Presence / 戏剧现场共同在场"
+    url: "/wiki/concepts/livetheatrecopresence/"
   - key: "LiverCancerScreeningAndTreatment"
     title: "Liver-Cancer Screening and Treatment Selection"
     url: "/wiki/concepts/livercancerscreeningandtreatment/"

@@ -18851,6 +18851,50 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/attentionforagingmodel/"
     },
+    "AttentionFragmentation": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "EP272 谁的青春里，没有一本被传阅到卷边的杂志？ [lmWyJ84WfDGnlgsoVKihULfAIpLU].md",
+          "key": "ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu",
+          "show": "Talk三联",
+          "title": "EP272 谁的青春里，没有一本被传阅到卷边的杂志？",
+          "url": "/wiki/sources/ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu/"
+        },
+        {
+          "episode_file": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？ [lsLocZLnKMcrRfpN9Coh8RrQO_WB].md",
+          "key": "ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb",
+          "show": "Talk三联",
+          "title": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？",
+          "url": "/wiki/sources/ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb/"
+        },
+        {
+          "episode_file": "EP258 我们如何重拾睡前读书？ [lobyZXqK2oaoV0v51cm355U8NoiX].md",
+          "key": "ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix",
+          "show": "Talk三联",
+          "title": "EP258 我们如何重拾睡前读书？",
+          "url": "/wiki/sources/ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix/"
+        },
+        {
+          "episode_file": "「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】 [lu98AA1ByafbBlJyJrn8oqUIeZk_].md",
+          "key": "reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk",
+          "show": "十字路口Crossing",
+          "title": "「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】",
+          "url": "/wiki/sources/reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk/"
+        },
+        {
+          "episode_file": "liB-NdRL_9td9h0KQl7pAZ834qEP [liB-NdRL_9td9h0KQl7pAZ834qEP].md",
+          "key": "xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep",
+          "show": "罗永浩的十字路口",
+          "title": "戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者",
+          "url": "/wiki/sources/xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/attentionfragmentation/"
+    },
     "AttentionPresenceAndHappiness": {
       "episode_count": 2,
       "show_count": 1,
@@ -44852,9 +44896,9 @@
       "url": "/wiki/concepts/commercialwealthdomesticmoralization/"
     },
     "CommercializationProtectsCreativeIdeals": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮 [loMvN15fklK80bHKREiEd1iOtUOf].md",
@@ -44862,9 +44906,16 @@
           "show": "十字路口Crossing",
           "title": "她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮",
           "url": "/wiki/sources/ta-beipian-guo-beijiu-guo-beipeng-shang-shentan-guo-beitengtong-jidao-guo-jueding-zai-ai-shidai-jixu-maoxian-duitan-chen-anni-lomvn15fklk80bhkreied1iotuof/"
+        },
+        {
+          "episode_file": "liB-NdRL_9td9h0KQl7pAZ834qEP [liB-NdRL_9td9h0KQl7pAZ834qEP].md",
+          "key": "xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep",
+          "show": "罗永浩的十字路口",
+          "title": "戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者",
+          "url": "/wiki/sources/xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/commercializationprotectscreativeideals/"
     },
     "CommercializedExtremistRecruitment": {
@@ -139079,6 +139130,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/concepts/livemusichumanconnection/"
     },
+    "LiveTheatreCoPresence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liB-NdRL_9td9h0KQl7pAZ834qEP [liB-NdRL_9td9h0KQl7pAZ834qEP].md",
+          "key": "xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep",
+          "show": "罗永浩的十字路口",
+          "title": "戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者",
+          "url": "/wiki/sources/xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/livetheatrecopresence/"
+    },
     "LivelihoodFirstPacification": {
       "episode_count": 1,
       "show_count": 1,
@@ -150961,6 +151028,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/mengdoctorzhebing/"
+    },
+    "MengJinghui": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liB-NdRL_9td9h0KQl7pAZ834qEP [liB-NdRL_9td9h0KQl7pAZ834qEP].md",
+          "key": "xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep",
+          "show": "罗永浩的十字路口",
+          "title": "戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者",
+          "url": "/wiki/sources/xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/mengjinghui/"
     },
     "MengJunIBDAdvocate": {
       "episode_count": 1,
@@ -173253,9 +173336,9 @@
       "url": "/wiki/concepts/performancesupplementhierarchy/"
     },
     "PerformerAudienceStateCoupling": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7538555033 [SCIM7538555033].md",
@@ -173277,9 +173360,16 @@
           "show": "罗永浩的十字路口",
           "title": "杨笠×罗永浩！不想成为“靶心”，也无意成为“灯塔”",
           "url": "/wiki/sources/yangli-luoyonghao-buxiang-chengwei-baxin-ye-wuyi-chengwei-dengta-lprytonoy3jq2z8dnxgygcqk_zuo/"
+        },
+        {
+          "episode_file": "liB-NdRL_9td9h0KQl7pAZ834qEP [liB-NdRL_9td9h0KQl7pAZ834qEP].md",
+          "key": "xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep",
+          "show": "罗永浩的十字路口",
+          "title": "戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者",
+          "url": "/wiki/sources/xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/performeraudiencestatecoupling/"
     },
     "PeriaqueductalGray": {
@@ -221470,6 +221560,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/thewomanking/"
     },
+    "TheatreFestivalCulturalEcology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liB-NdRL_9td9h0KQl7pAZ834qEP [liB-NdRL_9td9h0KQl7pAZ834qEP].md",
+          "key": "xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep",
+          "show": "罗永浩的十字路口",
+          "title": "戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者",
+          "url": "/wiki/sources/xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/theatrefestivalculturalecology/"
+    },
     "ThemeLedBeverageDesign": {
       "episode_count": 1,
       "show_count": 1,
@@ -241441,6 +241547,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/wuyinlatehan/"
+    },
+    "WuzhenTheatreFestival": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liB-NdRL_9td9h0KQl7pAZ834qEP [liB-NdRL_9td9h0KQl7pAZ834qEP].md",
+          "key": "xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep",
+          "show": "罗永浩的十字路口",
+          "title": "戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者",
+          "url": "/wiki/sources/xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/wuzhentheatrefestival/"
     },
     "WuzhongCity": {
       "episode_count": 1,
