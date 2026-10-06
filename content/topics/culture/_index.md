@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 3167
+topic_total_pages: 3168
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1675,6 +1675,9 @@ topic_concepts:
   - key: "IntelligenceTesting"
     title: "Intelligence Testing / 智力测试"
     url: "/wiki/concepts/intelligencetesting/"
+  - key: "InternationalStudentMentalHealthContext"
+    title: "International Student Mental-Health Context / 留学生心理健康情境"
+    url: "/wiki/concepts/internationalstudentmentalhealthcontext/"
   - key: "InternetNativeFilmmakingPipeline"
     title: "Internet-Native Filmmaking Pipeline / 互联网原生电影人才路径"
     url: "/wiki/concepts/internetnativefilmmakingpipeline/"

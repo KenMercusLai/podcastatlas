@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9760
+wiki_total_pages: 9762
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -827,6 +827,9 @@ wiki_pages:
   - key: "InternalizedOverwork"
     title: "Internalized Overwork / 内化型过劳"
     url: "/wiki/concepts/internalizedoverwork/"
+  - key: "InternationalStudentMentalHealthContext"
+    title: "International Student Mental-Health Context / 留学生心理健康情境"
+    url: "/wiki/concepts/internationalstudentmentalhealthcontext/"
   - key: "InternetBlackoutPublicSafetyRisk"
     title: "Internet Blackout Public-Safety Risk"
     url: "/wiki/concepts/internetblackoutpublicsafetyrisk/"

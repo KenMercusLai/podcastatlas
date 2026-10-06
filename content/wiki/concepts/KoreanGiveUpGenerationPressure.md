@@ -4,41 +4,46 @@ type: concept
 tags: [korea, youth, mental-health, relationships, work-pressure]
 sources:
   - vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c
-last_updated: 2026-09-13
+  - vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r
+last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
 
 # Korean Give-Up Generation Pressure / 韩国三抛五抛压力
 
 ## Definition
-Korean give-up generation pressure is VOL.202's source-scoped use of South Korean "three-give-up" and "five-give-up" language to describe young people abandoning dating, marriage, childbirth, housing, leisure, or other life domains under social and work pressure.
+Korean give-up generation pressure is the sources' use of South Korean “three-give-up” and “five-give-up” language to describe retreat from dating, marriage, childbirth, housing, leisure, or other life domains under social, work, and material pressure.
 
 ## Current Synthesis
-The episode uses the vocabulary to connect relationship avoidance with exhaustion rather than pure preference. [[NanJiHe|南基贺]] links high-pressure social expectations to a reduced capacity for love, while [[CuiJiabin|崔嘉宾]] warns that repeatedly giving up sleep, play, social life, or connection can carry mental-health costs.
+VOL.202 connects relationship avoidance with constrained capacity rather than pure preference. [[NanJiHe|南基贺]] links social expectations to reduced time and emotional room for love, while [[CuiJiabin|崔嘉宾]] warns that repeatedly surrendering sleep, play, social life, or connection can carry mental-health costs.
 
-The concept remains source-scoped because the episode gives clinical observation and social vocabulary rather than a full sociological account. Its value inside the wiki is to mark a relationship between social pressure, youth mental health, and retreat from intimacy.
+VOL.198 adds material constraints. Employment itself may be available, yet workplace recognition, bullying, ordinary wages, concentrated opportunity in Seoul, high housing prices, marriage costs, and uncertainty can make partnership or family formation feel unaffordable. The synthesis is not that all retreat is pathology, but that declared preference can coexist with institutional and economic constraint.
+
+The concept remains source-scoped because the episodes offer clinical observation and social vocabulary rather than a population study or full sociological account.
 
 ## Key Claims
-- Dating and love can be abandoned when achievement pressure consumes time and emotional energy.
-- The "give-up" vocabulary frames relationship avoidance as part of broader life-domain sacrifice.
-- Mental-health costs appear when sleep, leisure, and social connection are repeatedly surrendered.
-- Adolescent self-harm and extreme thoughts are discussed as serious warning contexts, not as simple effects of romance failure.
-- The Korean examples are useful but should not be generalized without additional sources.
+- Dating and love can be abandoned when achievement and work pressure consume time and emotional energy.
+- The “give-up” vocabulary frames relationship avoidance as broader life-domain sacrifice.
+- Work quality, workplace treatment, housing, marriage costs, and uncertainty can matter even when a young person is employed.
+- Mental-health costs may rise when sleep, leisure, and social connection are repeatedly surrendered.
+- Adolescent self-harm is a serious warning context, not a simple effect of romance or economic pressure.
+- Korean examples should not be generalized without additional evidence.
 
 ## Evidence
-- Social vocabulary: [[vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c]] has 南基贺 discuss three-give-up and five-give-up language in South Korea.
-- Mental-health concern: [[vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c]] has 崔嘉宾 connect surrendered sleep, entertainment, and social time among youth to self-harm and extreme-thought risk.
-- Work-pressure bridge: [[vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c]] also discusses work pressure and emotional distancing among young adults and clinicians.
+- Social vocabulary - [[vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c]] has 南基贺 discuss three-give-up and five-give-up language in South Korea.
+- Mental-health concern - [[vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c]] connects surrendered sleep, entertainment, and social time to mental-health risk.
+- Material constraint - [[vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r]] connects youth pressure to workplace experience, Seoul housing, marriage costs, and the gap between individual subsistence and household formation.
 
 ## Counterevidence & Qualifications
-The episode does not provide population data or policy analysis for South Korea. Its claims should remain source-scoped clinical and cultural commentary until corroborated by additional sources. Self-harm or extreme thoughts require qualified crisis and clinical support, not podcast-based self-management.
+The episodes do not provide population, housing, labor, marriage, or policy data for South Korea. They cannot show that every young person's relationship choice is pressure-driven or that retreat is necessarily pathological. Self-harm or extreme thoughts require qualified crisis assessment rather than causal inference from romance, work, or housing pressure.
 
 ## What Changed
-- Created the concept from VOL.202's Korean social-pressure discussion.
+- Added work quality, workplace treatment, housing, marriage cost, and future uncertainty as interacting constraints.
+- Clarified that employment and individual subsistence do not necessarily make household formation affordable.
 
 ## Related Concepts
 - [[SouthKorea]] - country context for the source-scoped vocabulary.
-- [[AchievementPressureMentalHealth]] - broader pressure-and-mental-health frame.
-- [[AdolescentSchoolRefusalMentalHealth]] - adjacent youth mental-health page.
+- [[AchievementPressureMentalHealth]] - broader pressure system that can consume sleep, leisure, and connection.
 - [[MentalHealthCrisisInterventionBoundary]] - escalation boundary for self-harm or life-threatening distress.
 - [[WorkRestBoundary]] - adjacent rest and pressure boundary.
+- [[CrossCulturalMentalHealthHelpSeeking]] - Korean and Chinese help-seeking comparison from the same clinical practice.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.198韩国精神科医生南基赫：首尔年轻人为什么这么焦虑｜海外医疗浅谈](sources/vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r.md) — 首尔精神科医生南基贺从职场、住房、婚恋、家庭、语言与医疗可及性解释韩国青年及在韩中国学生的心理压力，并限定跨文化观察的样本边界。
 - [《资治通鉴·汉纪》322-2｜西汉打击偷税，为何使商人倾家荡产](sources/zizhi-tongjian-hanji-322-2-xihan-daji-toushui-weihe-shi-shangren-qingjia-dangchan-lta-z0gqth1wlzn4feev1h4s8vh.md) — 元鼎三年重申告缗并派员核查，把商贾隐产清查扩展为全国性告发与没收；国库和公田扩张的同时，商人、中间阶层与工商业承受严重代价。
 - [《资治通鉴·汉纪》323-1｜为什么善良的他，会被皇帝误解？](sources/zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd.md) — 卜式从分产助弟、牧羊致富到捐军费与地方赈灾，以跨情境的持续行动纠正朝廷最初猜疑，并经上林牧羊和地方官试用进入仕途。
 - [《资治通鉴·汉纪》323-2｜放羊人出身的他，如何草根逆袭](sources/zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk.md) — 卜式以捐产与父子请战获汉武帝树为典型并升任御史大夫；节目由公孙弘的早期猜疑讨论门第筛选，但班超归属应校正为班固。
@@ -16479,6 +16480,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Seelig](entities/MichaelSeelig.md) — CFTC chair advocating purpose-fit crypto and technology rules, exchange surveillance, simpler reporting, and coordinated primary regulation.
 
 ## Concepts
+- [Cross-Cultural Mental-Health Help-Seeking / 跨文化心理求助路径](concepts/CrossCulturalMentalHealthHelpSeeking.md) — symptom language, mother-tongue disclosure, healthcare routing, cost, and selection effects in cross-cultural psychiatric access.
+- [International Student Mental-Health Context / 留学生心理健康情境](concepts/InternationalStudentMentalHealthContext.md) — migration age, language, school belonging, family expectations, independence, and access as interacting student mental-health context.
 - [Success Myth Identity Lock-In / 成功神话身份锁定](concepts/SuccessMythIdentityLockIn.md) — A success belief becomes so central to sacrifice, authority, and self-respect that revising it feels like erasing an entire life.
 - [Self-Commodification Through Work / 劳动中的自我商品化](concepts/SelfCommodificationThroughWork.md) — Market exchange expands from skill and time into personality, popularity, visibility, and the felt value of the person.
 - [Psychological Time Stagecraft / 心理时间舞台化](concepts/PsychologicalTimeStagecraft.md) — Scenery, movement, light, and sound make memory, fantasy, and present action coexist visibly on stage.

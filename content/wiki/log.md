@@ -30735,3 +30735,11 @@ Added source `zizhi-tongjian-hanji-322-2-xihan-daji-toushui-weihe-shi-shangren-q
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | VOL.198韩国精神科医生南基赫：首尔年轻人为什么这么焦虑｜海外医疗浅谈
+
+Added source `vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r`; created [[CrossCulturalMentalHealthHelpSeeking|跨文化心理求助路径]] and [[InternationalStudentMentalHealthContext|留学生心理健康情境]]; and resynthesized [[NanJiHe|南基贺]], [[KoreanGiveUpGenerationPressure|韩国三抛五抛压力]], [[SomatizationAsBodyAlarm|躯体化作为身体报警]], and [[ChildMentalHealthFamilySystemsSupport|儿童心理健康与家庭系统支持]] from their complete preserved evidence inventories. Core synthesis: Korean youth pressure joins workplace treatment, housing, marriage costs, and uncertainty, while Chinese students' distress and help-seeking are shaped by migration age, language, school belonging, family expectations, mother-tongue access, somatic presentation, insurance, and cost. No settled contradiction was adopted. The title's 南基赫 and body/earlier sources' 南基贺 are retained as a spelling variation under one stable identity; suicide burden, emergency volume, group differences, fees, coverage, referral behavior, and healthcare-system claims remain source-scoped. Broad host, show, country, achievement-pressure, and ADHD pages were kept closed because the bounded addition is represented in narrower canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due; rendered artifacts validate 3,843 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

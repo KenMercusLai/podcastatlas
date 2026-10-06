@@ -38170,9 +38170,9 @@
       "url": "/wiki/concepts/childcommunicationdevelopmentsignals/"
     },
     "ChildMentalHealthFamilySystemsSupport": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "ljLYg0KUQvUJ2R89K6O5HHUeFJt9 [ljLYg0KUQvUJ2R89K6O5HHUeFJt9].md",
@@ -38201,9 +38201,16 @@
           "show": "这病说来话长",
           "title": "VOL.57精神科｜心理疾病导致的轻生可预防 给予陪伴是最好的安慰｜认识抑郁和抑郁情绪",
           "url": "/wiki/sources/vol-57-jingshenke-xinli-jibing-daozhi-de-qingsheng-ke-yufang-jiyu-peiban-shi-zuihao-de-anwei-renshi-yiyu-he-yiyu-qingxu-lhgqmsvos2ybk74qjnrt3bxs0l7d/"
+        },
+        {
+          "episode_file": "llBbspyMxk-uaywEVOeBnhoeO98R [llBbspyMxk-uaywEVOeBnhoeO98R].md",
+          "key": "vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r",
+          "show": "这病说来话长",
+          "title": "VOL.198韩国精神科医生南基赫：首尔年轻人为什么这么焦虑｜海外医疗浅谈",
+          "url": "/wiki/sources/vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/childmentalhealthfamilysystemssupport/"
     },
     "ChildbearingIrreversibility": {
@@ -49740,6 +49747,22 @@
       ],
       "updated": "2026-09-28",
       "url": "/wiki/concepts/crossculturalhistoricalperspective/"
+    },
+    "CrossCulturalMentalHealthHelpSeeking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llBbspyMxk-uaywEVOeBnhoeO98R [llBbspyMxk-uaywEVOeBnhoeO98R].md",
+          "key": "vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r",
+          "show": "这病说来话长",
+          "title": "VOL.198韩国精神科医生南基赫：首尔年轻人为什么这么焦虑｜海外医疗浅谈",
+          "url": "/wiki/sources/vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/crossculturalmentalhealthhelpseeking/"
     },
     "CrossCulturalPublicInterestStorytelling": {
       "episode_count": 1,
@@ -114527,6 +114550,22 @@
       "updated": "2026-10-03",
       "url": "/wiki/entities/internationalolympiccommittee/"
     },
+    "InternationalStudentMentalHealthContext": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llBbspyMxk-uaywEVOeBnhoeO98R [llBbspyMxk-uaywEVOeBnhoeO98R].md",
+          "key": "vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r",
+          "show": "这病说来话长",
+          "title": "VOL.198韩国精神科医生南基赫：首尔年轻人为什么这么焦虑｜海外医疗浅谈",
+          "url": "/wiki/sources/vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/internationalstudentmentalhealthcontext/"
+    },
     "InternetLiabilitySpillover": {
       "episode_count": 4,
       "show_count": 1,
@@ -126653,9 +126692,9 @@
       "url": "/wiki/entities/konradlorenz/"
     },
     "KoreanGiveUpGenerationPressure": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvfiPUWpqWuwinGQPHFCorngy21c [lvfiPUWpqWuwinGQPHFCorngy21c].md",
@@ -126663,9 +126702,16 @@
           "show": "这病说来话长",
           "title": "VOL.202 用“推开你”来呼救：中韩医生教你“翻译”言不由衷背后的潜台词",
           "url": "/wiki/sources/vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c/"
+        },
+        {
+          "episode_file": "llBbspyMxk-uaywEVOeBnhoeO98R [llBbspyMxk-uaywEVOeBnhoeO98R].md",
+          "key": "vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r",
+          "show": "这病说来话长",
+          "title": "VOL.198韩国精神科医生南基赫：首尔年轻人为什么这么焦虑｜海外医疗浅谈",
+          "url": "/wiki/sources/vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/koreangiveupgenerationpressure/"
     },
     "KouRongLateHan": {
@@ -157276,9 +157322,9 @@
       "url": "/wiki/concepts/nakba/"
     },
     "NanJiHe": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
@@ -157293,9 +157339,16 @@
           "show": "这病说来话长",
           "title": "VOL.202 用“推开你”来呼救：中韩医生教你“翻译”言不由衷背后的潜台词",
           "url": "/wiki/sources/vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c/"
+        },
+        {
+          "episode_file": "llBbspyMxk-uaywEVOeBnhoeO98R [llBbspyMxk-uaywEVOeBnhoeO98R].md",
+          "key": "vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r",
+          "show": "这病说来话长",
+          "title": "VOL.198韩国精神科医生南基赫：首尔年轻人为什么这么焦虑｜海外医疗浅谈",
+          "url": "/wiki/sources/vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/nanjihe/"
     },
     "NandanNilekani": {
@@ -206402,9 +206455,9 @@
       "url": "/wiki/entities/solon/"
     },
     "SomatizationAsBodyAlarm": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -206412,9 +206465,16 @@
           "show": "面基",
           "title": "时代症候，与安定此心",
           "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        },
+        {
+          "episode_file": "llBbspyMxk-uaywEVOeBnhoeO98R [llBbspyMxk-uaywEVOeBnhoeO98R].md",
+          "key": "vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r",
+          "show": "这病说来话长",
+          "title": "VOL.198韩国精神科医生南基赫：首尔年轻人为什么这么焦虑｜海外医疗浅谈",
+          "url": "/wiki/sources/vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/somatizationasbodyalarm/"
     },
     "SomertonManCase": {
