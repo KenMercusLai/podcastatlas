@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！](sources/zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3.md) — 霍去病在漠北东路击溃左贤王、封狼居胥并远追北方；战果改变匈奴南部格局，但战马巨损也限制汉军继续大举进攻。
 - [《资治通鉴·汉纪》325-2｜李广为何会自杀？他犯了什么错？](sources/zizhi-tongjian-hanji-325-2-liguang-weihe-hui-zisha-ta-fanle-shenme-cuo-lsrkaep1np1bugqae8ujie2ttqpe.md) — 李广与赵食其因无向导而迷路、错过漠北主战并面临审讯；李广承担责任后自杀，其爱兵声望有具体物质基础，而向导被人为移除和政治谋划仍属节目推测。
 - [651. London’s Golden Age: Sex and Scandal in Georgian Britain (Part 2)](sources/651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808.md) — The Rest Is History on Boswell’s candid diary, formative friendship with Samuel Johnson, continental celebrity seeking, Corsican advocacy, and public self-fashioning.
 - [Vol.355 推销员之死：那些杀不死我的，为什么一直在打我](sources/vol-355-tuixiaoyuan-zhisi-naxie-shabusi-wode-weishenme-yizhi-zai-dawo-gkwriw4ols9xawr6vqtifmya.md) — 文化有限从成功神话、自我商品化、家庭继承与心理时间舞台化解读《推销员之死》，并保留作者生平、人物动机和跨文化接受的证据边界。
@@ -3897,6 +3898,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Benefits of Sauna & Deliberate Heat Exposure](sources/essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357.md) — Condensed Huberman Lab episode on heat dose, thermoregulation, cardiovascular associations, acute hormone responses, mood, sleep, hydration, and hyperthermia safety.
 
 ## Entities
+- [漠北之战 / Mobei Battle (Western Han)](entities/MobeiBattleWesternHan.md) — 霍去病东路远征、击溃左贤王、封狼居胥与战马巨损并存的西汉—匈奴关键战役。
 - [赵食其 / Zhao Shiqi (Western Han)](entities/ZhaoShiqiWesternHan.md) — Western Han right general who shares Li Guang's final eastern-route navigation failure but survives trial by redeeming the reported death sentence and losing office.
 - [Arthur Miller / 阿瑟·米勒](entities/ArthurMiller.md) — American playwright represented through social drama, theatrical necessity, political refusal, and the 1983 Beijing production of *Death of a Salesman*.
 - [Death of a Salesman / 《推销员之死》](entities/DeathOfASalesman.md) — Two-act family tragedy joining success ideology, work-based self-worth, inherited aspiration, and permeable psychological time.
@@ -5958,7 +5960,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [盖长公主 / Gai Chang Gongzhu (Western Han)](entities/GaiChanggongzhuWesternHan.md) — Princess whose banquet access is imagined as the assassination setting in the failed anti-Huo conspiracy.
 - [丁外人 / Ding Wairen (Western Han)](entities/DingWairenWesternHan.md) — Princess-favorite and inner-court access broker who helps the Shangguan family bypass Huo Guang.
 - [钩弋夫人 / Lady Gouyi (Western Han)](entities/LadyGouyiWesternHan.md) — Han Zhao's mother, whose death is framed through mother-regent risk, source-scoped Wugu guilt, and the later princess-caregiver setup.
-- [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han commander whose victories, cavalry-doctrine adaptation, soldier-welfare limits, protected killing of Li Gan, family afterlife, and unresolved early death require distinct evidentiary judgments.
+- [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han commander whose Mobei victory and remount losses, cavalry-doctrine adaptation, soldier-welfare limits, protected killing of Li Gan, family afterlife, and unresolved early death require distinct evidentiary judgments.
 - [赵破奴 / Zhao Ponu (Western Han)](entities/ZhaoPonuWesternHan.md) — Western Han general whose failed route-security search, Western Regions victories, Xiongnu capture and escape, and unresolved Wugu destruction trace expansion and reversal.
 - [杜周 / Du Zhou (Western Han)](entities/DuZhouWesternHan.md) — Western Han cruel official whose ruler-will legal logic and late-career moderation explain his safe retirement in Hanji 402-2.
 - [范明友 / Fan Mingyou (Western Han)](entities/FanMingyouWesternHan.md) — Western Han Duliao general who attacks exhausted Wuhuan after Xiongnu withdraws in Hanji 402-2.
@@ -16468,7 +16470,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychological Time Stagecraft / 心理时间舞台化](concepts/PsychologicalTimeStagecraft.md) — Scenery, movement, light, and sound make memory, fantasy, and present action coexist visibly on stage.
 - [Delegated Agent Interaction](concepts/DelegatedAgentInteraction.md) — Shift from question answering to outcome delegation, with model-directed execution bounded by workflow value, permissions, review, and human accountability.
 - [酷吏工具化统治 / Harsh Official Instrumental Rule](concepts/HarshOfficialInstrumentalRule.md) — 上层权力借授权、人员、信息与保护使酷吏暴力成为可汇报、可奖赏治理绩效的机制。
-- [兵法的时代适配 / Military Doctrine Era Fit](concepts/MilitaryDoctrineEraFit.md) — 兵法必须依兵种、组织、地形、对手、补给与作战距离重新检验，不能把旧时代战术直接复制到新战场。
+- [兵法的时代适配 / Military Doctrine Era Fit](concepts/MilitaryDoctrineEraFit.md) — 兵法必须依兵种、组织、地形、对手、补给、作战距离与替补能力重新检验；战术奏效也不等于战略能力可以无限重复。
 - [汉代蹴鞠 / Han Dynasty Cuju](concepts/HanDynastyCuju.md) — 汉代球类活动的来源限定综合，连接社区生活、规则化比赛、军事训练、宫廷观看与社会扩散，并区分组织运动和士卒物质照护。
 - [强势君主下的丞相双重约束 / Strong-Ruler Chancellorship Double Bind](concepts/StrongRulerChancellorshipDoubleBind.md) — 丞相既须避免以独立个性触犯强势君主，又须实际承担战争、财政、战略与朝廷协调的角色冲突。
 - [名位—实权错位 / Nominal Office–Practical Power Mismatch](concepts/NominalOfficePracticalPowerMismatch.md) — 正式职位层级与由君主接近、信任和决策参与形成的实际权力彼此分离。

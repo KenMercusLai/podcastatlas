@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12515
+wiki_total_pages: 12516
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1991,6 +1991,9 @@ wiki_pages:
   - key: "ManChong"
     title: "满宠 / Man Chong"
     url: "/wiki/entities/manchong/"
+  - key: "MobeiBattleWesternHan"
+    title: "漠北之战 / Mobei Battle (Western Han)"
+    url: "/wiki/entities/mobeibattlewesternhan/"
   - key: "MouYiling"
     title: "牟一凌 / Mou Yiling"
     url: "/wiki/entities/mouyiling/"

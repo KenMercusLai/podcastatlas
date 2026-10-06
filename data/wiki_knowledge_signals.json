@@ -108769,9 +108769,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -108828,6 +108828,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》327-2｜霍去病不读《孙子兵法》，为何能用兵如神？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！ [lujPi26BAmJUOJMxo0U2LBJyiiH3].md",
+          "key": "zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3/"
         }
       ],
       "updated": "2026-10-06",
@@ -151938,9 +151945,9 @@
       "url": "/wiki/concepts/militarydisastermemory/"
     },
     "MilitaryDoctrineEraFit": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前 [lvm7t6LVC2nEidSwAddUFxGDw8w_].md",
@@ -151955,6 +151962,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》327-2｜霍去病不读《孙子兵法》，为何能用兵如神？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！ [lujPi26BAmJUOJMxo0U2LBJyiiH3].md",
+          "key": "zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3/"
         }
       ],
       "updated": "2026-10-06",
@@ -153224,6 +153238,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/moacirbarbosa/"
+    },
+    "MobeiBattleWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！ [lujPi26BAmJUOJMxo0U2LBJyiiH3].md",
+          "key": "zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/mobeibattlewesternhan/"
     },
     "Mobike": {
       "episode_count": 2,

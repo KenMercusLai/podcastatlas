@@ -30657,3 +30657,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！
+
+Added source `zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3`; created [[MobeiBattleWesternHan|漠北之战]]; and resynthesized [[HuoQubing|霍去病]] and [[MilitaryDoctrineEraFit|兵法的时代适配]] from their complete preserved evidence inventories. Core synthesis: Huo Qubing's eastern Mobei operation joins long-range mounted attack, defeat of the Left Wise King, far-northern pursuit, and “封狼居胥” ritual commemoration, while the same source's severe horse losses show that decisive operational success can reduce immediate follow-on capacity. No settled contradiction was adopted. Distances, routes, place identifications, capture and casualty totals, ritual geography, Lake Baikal endpoint, horse-loss and reward figures, intimate-court claims, and direct “opening the Silk Road” causation remain source-scoped; the Huo-versus-Wei command-style contrast is treated as a stylized episode interpretation. Broad Han Wudi, Wei Qing, Xiongnu, Silk Road, show, and officer pages were read for context but not reopened because the bounded addition is represented in the battle, commander, and doctrine pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,833 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
