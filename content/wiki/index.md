@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 29: The Pentagon Showdown: OpenAI vs Anthropic and the Soul of AI](sources/ep-29-the-pentagon-showdown-openai-vs-anthropic-and-the-soul-of-ai.md) — Data Science With Sam on Anthropic's reported Pentagon exclusion, OpenAI's replacement deal, surveillance and autonomous-weapons red lines, litigation, public backlash, and the legitimacy gap in closed military-AI bargaining.
 - [《资治通鉴·汉纪》317｜“牛郎织女”发源地，我在长安找到了](sources/zizhi-tongjian-hanji-317-niulang-zhinv-fayuandi-wo-zai-changan-zhaodao-le-lidupukyt45k8buwneivkmgs3u89.md) — 以昆明池的练兵、水利、漕运、养鱼、祭祀和游乐功能说明汉武帝大型工程的复合用途，并把牵牛织女石像限定为早期景观实证而非完整传说的唯一发源证明。
 - [《资治通鉴·汉纪》316-1｜他功越百王，为何治下百姓越来越穷](sources/zizhi-tongjian-hanji-316-1-ta-gong-yue-bai-wang-weihe-zhi-xia-baixing-yuelaiyue-qiong-lu_tr4m36rmz9sx38j4nvlmof5am.md) — 以战争全链条与杜甫《百忧集行》追问汉武帝功业背后的财政和家庭贫困，并记录刘寄受淮南案牵连、死后两子获封所体现的宗室亲缘裁量。
 - [《资治通鉴·汉纪》315-2｜杀死亲儿子的他，竟成了皇帝心腹？](sources/zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg.md) — 金日磾从匈奴王子与宫中马奴升为汉武帝近侍；节目把养马能力、长期自持与严苛家规视为信任基础，同时保留杀子事件和处世因果的证据边界。

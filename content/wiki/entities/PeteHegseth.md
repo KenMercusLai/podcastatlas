@@ -2,17 +2,45 @@
 title: "Pete Hegseth"
 type: entity
 tags: [person, government, defense]
-sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources:
+  - tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128
+  - tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128
+  - ep-29-the-pentagon-showdown-openai-vs-anthropic-and-the-soul-of-ai
+last_updated: 2026-10-07
+knowledge_schema: synthesis-v1
 ---
 
 # Pete Hegseth
 
-Pete Hegseth appears in [[tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]] as the defense secretary reportedly pressing [[Anthropic]] CEO [[DarioAmodei]] for broader [[USDepartmentOfDefense]] access to [[Claude]]. The episode uses his reported demand to frame the Pentagon side of [[DefenseAIProcurement]]: if a model is useful enough for classified work, the government may resist vendor-imposed limits on lawful use.
+## Overview
+Pete Hegseth appears in the bounded sources as the U.S. defense secretary associated with the Pentagon's effort to obtain broader military-use rights for [[Claude]] and its reported escalation against [[Anthropic]] when negotiations failed.
 
-[[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] adds Hegseth as the official said to have announced that companies working with the [[USDepartmentOfDefense]] could not do business with [[Anthropic]] for critical military or warfighting systems. The source therefore makes him central to [[DefenseAISupplyChainRisk]], not only access negotiation.
+## Current Profile
+The sources consistently place Hegseth on the government side of a [[FrontierModelUsePolicyConflict]]: Anthropic sought to preserve restrictions on mass surveillance and fully autonomous weapons, while the Pentagon reportedly wanted access for all lawful purposes. The account progresses from contract pressure and a possible supply-chain designation to an announced contractor restriction and, in the latest source, a reported designation and wider federal exclusion. Because none of the supplied notes includes the contract, designation, or government notice, this profile records the attributed role rather than independently establishing official action or legal effect.
 
-## Connections
-- [[USDepartmentOfDefense]] - institutional context.
-- [[Anthropic]], [[Claude]], and [[DarioAmodei]] - reported negotiation counterparties.
-- [[DefenseAIProcurement]], [[DefenseAISupplyChainRisk]], and [[FrontierModelUsePolicyConflict]] - concepts grounded by the episode.
+## Key Characteristics
+- Represents defense-customer leverage over a frontier-model provider already described as embedded in classified work.
+- Is associated by the sources with demands for broader lawful-use access to Claude.
+- Is reported to have escalated a contract dispute into contractor restrictions and supply-chain-risk treatment.
+- Illustrates how acceptable-use disagreements can become procurement, integration, and public-legitimacy conflicts.
+
+## Evidence
+- Access demand - [[tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]] says Hegseth pressed [[DarioAmodei]] for broader Pentagon access and linked refusal to possible contract cancellation or supply-chain treatment.
+- Contractor restriction - [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] attributes to Hegseth an announcement restricting defense contractors' use of Anthropic in critical military systems.
+- Reported exclusion - [[ep-29-the-pentagon-showdown-openai-vs-anthropic-and-the-soul-of-ai]] says Hegseth labeled Anthropic a supply-chain risk after it retained surveillance and autonomous-weapons red lines.
+
+## Qualifications
+All three sources are podcast accounts without the underlying procurement documents. Their chronology also distinguishes a threatened designation, an announced restriction that Anthropic reportedly had not yet received in writing, and a later claim that the designation and federal ban had occurred. Those stages should not be collapsed into one independently verified event.
+
+## What Changed
+- Migrated the profile to the synthesis-first schema.
+- Extended the chronology from pressure and announced restriction to the latest source's reported designation and broader exclusion.
+- Made the missing primary documentation an explicit limit on the profile.
+
+## Relationships
+- [[USDepartmentOfDefense]] - institution Hegseth represents in the reported access dispute.
+- [[Anthropic]] - frontier-model provider subjected to the reported procurement escalation.
+- [[DarioAmodei]] - Anthropic executive identified as Hegseth's negotiation counterparty.
+- [[Claude]] - model whose classified and military use is at issue.
+- [[DefenseAISupplyChainRisk]] - exclusion mechanism attributed to Hegseth in the sources.
+- [[FrontierModelUsePolicyConflict]] - policy disagreement underlying the procurement confrontation.

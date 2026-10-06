@@ -30880,3 +30880,11 @@ Added source `zizhi-tongjian-hanji-317-niulang-zhinv-fayuandi-wo-zai-changan-zha
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | EP 29: The Pentagon Showdown: OpenAI vs Anthropic and the Soul of AI
+
+Added source `ep-29-the-pentagon-showdown-openai-vs-anthropic-and-the-soul-of-ai`; resynthesized [[PeteHegseth]], [[DefenseAISupplyChainRisk]], and [[DemocraticAIGovernanceDeliberation]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the episode advances the reported Anthropic-Pentagon dispute from contract pressure and an announced contractor restriction to designation, broader federal exclusion, a substitute OpenAI agreement, litigation, and renewed negotiation, while showing that procurement competition and consumer backlash do not resolve who legitimately sets surveillance and autonomous-weapons limits. No settled contradiction was adopted. The legal and operational status of the designation, ban, lawsuit, and contracts; announcement timing; internal-message wording; app-store rankings; deletion campaign; revenue run rates; and company policy changes remain source-scoped because the supplied summary contains no primary documents or datasets. Broad show, lab, model, and government pages were kept closed because the durable additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,861 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

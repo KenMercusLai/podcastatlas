@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3145
+topic_total_pages: 3146
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -8631,6 +8631,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285"
     title: "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285/"
+  - key: "ep-29-the-pentagon-showdown-openai-vs-anthropic-and-the-soul-of-ai"
+    title: "EP 29: The Pentagon Showdown: OpenAI vs Anthropic and the Soul of AI"
+    url: "/wiki/sources/ep-29-the-pentagon-showdown-openai-vs-anthropic-and-the-soul-of-ai/"
   - key: "ep-35-who-actually-controls-ai-the-governance-gap-explained"
     title: "EP 35: Who Actually Controls AI? The Governance Gap Explained"
     url: "/wiki/sources/ep-35-who-actually-controls-ai-the-governance-gap-explained/"

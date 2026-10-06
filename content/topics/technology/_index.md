@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3342
+topic_total_pages: 3343
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -9054,6 +9054,9 @@ topic_sources:
   - key: "ep-28-the-ai-revolution-redefining-healthcare-financing"
     title: "EP 28: The AI Revolution: Redefining Healthcare Financing"
     url: "/wiki/sources/ep-28-the-ai-revolution-redefining-healthcare-financing/"
+  - key: "ep-29-the-pentagon-showdown-openai-vs-anthropic-and-the-soul-of-ai"
+    title: "EP 29: The Pentagon Showdown: OpenAI vs Anthropic and the Soul of AI"
+    url: "/wiki/sources/ep-29-the-pentagon-showdown-openai-vs-anthropic-and-the-soul-of-ai/"
   - key: "ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai"
     title: "EP 30: OpenClaw: The Open-Source AI Agent That Got Its Creator Hired by OpenAI"
     url: "/wiki/sources/ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired-by-openai/"
