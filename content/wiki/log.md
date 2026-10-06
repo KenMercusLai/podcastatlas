@@ -30681,3 +30681,11 @@ Added source `zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-j
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜
+
+Added source `zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv`; created [[RenAnWesternHan|任安]]; and resynthesized [[WeiQingHanGeneral|卫青]], [[HuoQubing|霍去病]], [[MobeiBattleWesternHan|漠北之战]], and [[PowerContingentSocialTies|权势依附型交往]] from their complete preserved evidence inventories. Core synthesis: Mobei joins strategic displacement of Xiongnu with severe Han human, horse, and material losses, while its reward aftermath redistributes patronage from Wei Qing toward Huo Qubing; Ren An's continued contact with Wei becomes the contrast case to advantage-driven association. No settled contradiction was adopted. The aggregate casualty and campaign totals, complete cessation wording, reward list, retainer motives, sole-exception claim, Ren An's titles and textual transmission, Zhang Qian commodity list, and Han Wudi's reported coriander preference remain source-scoped or hearsay. Broad Han Wudi, Zhang Qian, Xiongnu, Sima Qian, and show pages were read for context but not reopened because the bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,836 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

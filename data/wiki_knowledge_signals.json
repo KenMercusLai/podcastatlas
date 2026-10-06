@@ -108776,9 +108776,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -108849,6 +108849,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》326-2｜神将霍去病是谁教出来的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-326-2-shenjiang-huoqubing-shi-shui-jiao-chulai-de-lut_0gh7nistf1td8pb_1nmzv6mv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜 [lv_eD7hfUmn80Ypmwq8NfDpdFwcV].md",
+          "key": "zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv/"
         }
       ],
       "updated": "2026-10-06",
@@ -153277,9 +153284,9 @@
       "url": "/wiki/entities/moacirbarbosa/"
     },
     "MobeiBattleWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！ [lujPi26BAmJUOJMxo0U2LBJyiiH3].md",
@@ -153294,6 +153301,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜 [lv_eD7hfUmn80Ypmwq8NfDpdFwcV].md",
+          "key": "zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv/"
         }
       ],
       "updated": "2026-10-06",
@@ -177987,9 +178001,9 @@
       "url": "/wiki/concepts/powercompletionretreat/"
     },
     "PowerContingentSocialTies": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？ [lkoajHP2B_k32auRnk8Rs-ukXAIb].md",
@@ -177997,6 +178011,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-333-1-men-ke-luoque-de-youlai-ni-zhidao-ma-lkoajhp2b_k32aurnk8rs-ukxaib/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜 [lv_eD7hfUmn80Ypmwq8NfDpdFwcV].md",
+          "key": "zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv/"
         }
       ],
       "updated": "2026-10-06",
@@ -187582,6 +187603,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/remotetributeprestigetheater/"
+    },
+    "RenAnWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜 [lv_eD7hfUmn80Ypmwq8NfDpdFwcV].md",
+          "key": "zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/renanwesternhan/"
     },
     "RenChangWesternHan": {
       "episode_count": 1,
@@ -233891,9 +233928,9 @@
       "url": "/wiki/entities/weiqiansanlian/"
     },
     "WeiQingHanGeneral": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -233964,6 +234001,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜 [lv_eD7hfUmn80Ypmwq8NfDpdFwcV].md",
+          "key": "zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv/"
         }
       ],
       "updated": "2026-10-06",
