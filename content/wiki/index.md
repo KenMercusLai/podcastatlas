@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [What could slowing the AI frontier mean for the economy?](sources/tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128.md) — Marketplace Tech with Jordan Nanos on why safety evaluation, model adoption, reasoning, multi-agent systems, and research may sustain compute demand even when frontier releases slow.
 - [House call: Spain’s snap election](sources/house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c.md) — The Intelligence on Spain’s housing-centered snap election, the cattle cycle squeezing U.S. beef processors, and animal-stage biodegradable batteries for ingestible devices.
 - [《资治通鉴·汉纪》319-1｜跟着古代皇帝学习抢人才](sources/zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g.md) — 汉武帝把人才定义为可供君主使用的“器”，节目由此批评工具化用人，并以董卓强迫征士与刘备争取诸葛亮对照不同人才吸附方式。
 - [《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代](sources/zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k.md) — 司马懿受抓捕威胁后出仕、陈琳檄文以宦官家世攻击曹操，并由东方朔与公孙弘对照讨论权力中心如何定义“可用人才”。
@@ -3913,6 +3914,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets](sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225.md) — All-In interview with SEC chair Paul Atkins and CFTC chair Michael Seelig on IPO burden, private-market access, tokenized markets, crypto classification, prediction-market integrity, and interagency coordination.
 
 ## Entities
+- [Jordan Nanos](entities/JordanNanos.md) — SemiAnalysis analyst connecting AI safety practice, reasoning, adoption, research, and political risk to semiconductor and data-center demand.
+- [SemiAnalysis](entities/SemiAnalysis.md) — Semiconductor and AI-infrastructure research organization represented through Jordan Nanos’s market-oriented compute-demand analysis.
 - [任安 / Ren An (Western Han)](entities/RenAnWesternHan.md) — 卫青失势后仍持续往来的西汉官员，节目以其不随权势转移作为门客改投霍去病的对照。
 - [漠北之战 / Mobei Battle (Western Han)](entities/MobeiBattleWesternHan.md) — 霍去病东路远征、击溃左贤王、封狼居胥与战马巨损并存的西汉—匈奴关键战役。
 - [赵食其 / Zhao Shiqi (Western Han)](entities/ZhaoShiqiWesternHan.md) — Western Han right general who shares Li Guang's final eastern-route navigation failure but survives trial by redeeming the reported death sentence and losing office.
@@ -16484,6 +16487,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michael Seelig](entities/MichaelSeelig.md) — CFTC chair advocating purpose-fit crypto and technology rules, exchange surveillance, simpler reporting, and coordinated primary regulation.
 
 ## Concepts
+- [AI Safety Compute Demand](concepts/AISafetyComputeDemand.md) — Additional evaluation, auditing, monitoring, controlled-release, reasoning, agent, and research workloads that can accompany stronger AI safety practice.
 - [Biodegradable Ingestible Batteries](concepts/BiodegradableIngestibleBatteries.md) — Temporary internal power sources whose animal-stage feasibility shifts risk from intact-device retention toward degradation chemistry and tissue safety.
 - [Cattle-Cycle Processor Margin Squeeze](concepts/CattleCycleProcessorMarginSqueeze.md) — Mechanism by which slow herd rebuilding raises cattle costs, beef prices, and processor overcapacity at the same time.
 - [Housing Scarcity as Electoral Agenda Setting](concepts/HousingScarcityElectoralAgendaSetting.md) — Use of an affordability and eviction crisis to reset an election around housing while policy and coalition tradeoffs remain visible.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 9766
+wiki_total_pages: 9767
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1406,6 +1406,9 @@ wiki_pages:
   - key: "AIROIFork"
     title: "AI ROI Fork"
     url: "/wiki/concepts/airoifork/"
+  - key: "AISafetyComputeDemand"
+    title: "AI Safety Compute Demand"
+    url: "/wiki/concepts/aisafetycomputedemand/"
   - key: "AISafetyCoordination"
     title: "AI Safety Coordination"
     url: "/wiki/concepts/aisafetycoordination/"

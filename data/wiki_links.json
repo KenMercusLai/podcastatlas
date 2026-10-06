@@ -5191,6 +5191,10 @@
     "title": "AI Rewrite Desk",
     "url": "/wiki/concepts/airewritedesk/"
   },
+  "AISafetyComputeDemand": {
+    "title": "AI Safety Compute Demand",
+    "url": "/wiki/concepts/aisafetycomputedemand/"
+  },
   "AISafetyCoordination": {
     "title": "AI Safety Coordination",
     "url": "/wiki/concepts/aisafetycoordination/"
@@ -44943,6 +44947,10 @@
     "title": "Jordan Belfort",
     "url": "/wiki/entities/jordanbelfort/"
   },
+  "JordanNanos": {
+    "title": "Jordan Nanos",
+    "url": "/wiki/entities/jordannanos/"
+  },
   "JordiHayes": {
     "title": "Jordi Hayes",
     "url": "/wiki/entities/jordihayes/"
@@ -72307,6 +72315,10 @@
     "title": "Semen Sample Collection Quality / 精液标本采集质量",
     "url": "/wiki/concepts/semensamplecollectionquality/"
   },
+  "SemiAnalysis": {
+    "title": "SemiAnalysis",
+    "url": "/wiki/entities/semianalysis/"
+  },
   "Semiconductor3DStacking": {
     "title": "Semiconductor 3D Stacking",
     "url": "/wiki/concepts/semiconductor3dstacking/"
@@ -97706,6 +97718,10 @@
   "tech-20261005-1005-mp-tech-pod-128-tech-20261005-1005-mp-tech-pod-128": {
     "title": "Inside the mindset of AI safety workers",
     "url": "/wiki/sources/tech-20261005-1005-mp-tech-pod-128-tech-20261005-1005-mp-tech-pod-128/"
+  },
+  "tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128": {
+    "title": "What could slowing the AI frontier mean for the economy?",
+    "url": "/wiki/sources/tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128/"
   },
   "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4": {
     "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",

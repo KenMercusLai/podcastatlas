@@ -4274,6 +4274,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/airevenuelegibility/"
     },
+    "AISafetyComputeDemand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261006_1006_MP_TECH_pod_128 [tech_20261006_1006_MP_TECH_pod_128].md",
+          "key": "tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What could slowing the AI frontier mean for the economy?",
+          "url": "/wiki/sources/tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/aisafetycomputedemand/"
+    },
     "AISafetyCoordination": {
       "episode_count": 7,
       "show_count": 3,
@@ -123189,6 +123205,22 @@
       "updated": "2026-10-04",
       "url": "/wiki/entities/jonathanwilsonfootballwriter/"
     },
+    "JordanNanos": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261006_1006_MP_TECH_pod_128 [tech_20261006_1006_MP_TECH_pod_128].md",
+          "key": "tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What could slowing the AI frontier mean for the economy?",
+          "url": "/wiki/sources/tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/jordannanos/"
+    },
     "JorgeAnaya": {
       "episode_count": 1,
       "show_count": 1,
@@ -168150,9 +168182,9 @@
       "url": "/wiki/concepts/ptsdhomecomingnarrative/"
     },
     "PacingTheFrontier": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs： SLOW DOWN AI, Mamdani's Grocery Stores [42282790].md",
@@ -168167,9 +168199,16 @@
           "show": "Marketplace Tech",
           "title": "AI safety requires action, not promises",
           "url": "/wiki/sources/tech-20260916-mp-tech-pod-128-tech-20260916-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20261006_1006_MP_TECH_pod_128 [tech_20261006_1006_MP_TECH_pod_128].md",
+          "key": "tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What could slowing the AI frontier mean for the economy?",
+          "url": "/wiki/sources/tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/pacingthefrontier/"
     },
     "PackagedHospitality": {
@@ -199168,6 +199207,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/semensamplecollectionquality/"
+    },
+    "SemiAnalysis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20261006_1006_MP_TECH_pod_128 [tech_20261006_1006_MP_TECH_pod_128].md",
+          "key": "tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What could slowing the AI frontier mean for the economy?",
+          "url": "/wiki/sources/tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/semianalysis/"
     },
     "SemiconductorIndexConcentration": {
       "episode_count": 1,

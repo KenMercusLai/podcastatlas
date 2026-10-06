@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2194
+topic_total_pages: 2195
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -202,6 +202,9 @@ topic_concepts:
   - key: "AIROIFork"
     title: "AI ROI Fork"
     url: "/wiki/concepts/airoifork/"
+  - key: "AISafetyComputeDemand"
+    title: "AI Safety Compute Demand"
+    url: "/wiki/concepts/aisafetycomputedemand/"
   - key: "AIShortDramaSupplyGlut"
     title: "AI Short Drama Supply Glut / AI短剧供给过剩"
     url: "/wiki/concepts/aishortdramasupplyglut/"

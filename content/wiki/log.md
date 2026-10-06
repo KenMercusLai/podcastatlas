@@ -30777,3 +30777,11 @@ Added source `house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c`;
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | What could slowing the AI frontier mean for the economy?
+
+Added source `tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128`; created [[JordanNanos]], [[SemiAnalysis]], and [[AISafetyComputeDemand]]; and resynthesized [[PacingTheFrontier]] from its complete preserved three-source evidence inventory. Core synthesis: slower frontier releases do not mechanically imply lower infrastructure demand because evaluations, audits, monitoring, staged rollout, adoption of existing models, inference-time reasoning, multi-agent execution, reinforcement learning, and continued research can all consume compute. No settled contradiction was adopted. The OpenAI-Hugging Face incident, inference share, research-spending stability, efficiency rebound, chip outlook, project timing, community benefits, and lab-messaging motives remain episode-attributed or source-scoped; the source does not quantify whether safety workloads offset reduced frontier training. Broad show, lab, inference-economics, multi-agent, backlash, and data-center pages were kept closed because the bounded additions are represented in the focused concept, entity profiles, pacing resynthesis, and source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; rendered artifacts validate 3,848 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

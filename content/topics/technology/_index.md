@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3337
+topic_total_pages: 3341
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -883,6 +883,9 @@ topic_concepts:
   - key: "AIROIFork"
     title: "AI ROI Fork"
     url: "/wiki/concepts/airoifork/"
+  - key: "AISafetyComputeDemand"
+    title: "AI Safety Compute Demand"
+    url: "/wiki/concepts/aisafetycomputedemand/"
   - key: "AISafetyCoordination"
     title: "AI Safety Coordination"
     url: "/wiki/concepts/aisafetycoordination/"
@@ -6164,6 +6167,9 @@ topic_entities:
   - key: "JonathanSchaeffer"
     title: "Jonathan Schaeffer"
     url: "/wiki/entities/jonathanschaeffer/"
+  - key: "JordanNanos"
+    title: "Jordan Nanos"
+    url: "/wiki/entities/jordannanos/"
   - key: "JosephStiglitz"
     title: "Joseph Stiglitz"
     url: "/wiki/entities/josephstiglitz/"
@@ -7250,6 +7256,9 @@ topic_entities:
   - key: "Seedance"
     title: "Seedance"
     url: "/wiki/entities/seedance/"
+  - key: "SemiAnalysis"
+    title: "SemiAnalysis"
+    url: "/wiki/entities/semianalysis/"
   - key: "SenseTime"
     title: "SenseTime"
     url: "/wiki/entities/sensetime/"
@@ -9702,6 +9711,9 @@ topic_sources:
   - key: "tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128"
     title: "What AI fitness apps can and can't do - for now"
     url: "/wiki/sources/tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128/"
+  - key: "tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128"
+    title: "What could slowing the AI frontier mean for the economy?"
+    url: "/wiki/sources/tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128/"
   - key: "tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128"
     title: "What do students lose when they rely on AI for homework?"
     url: "/wiki/sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128/"

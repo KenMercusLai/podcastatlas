@@ -9713,6 +9713,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AISafetyComputeDemand": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AISafetyCoordination": [
     {
       "key": "technology",
@@ -48300,6 +48312,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "JordanNanos": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "JordiHayes": [
     {
       "key": "economics",
@@ -74183,6 +74202,13 @@
     }
   ],
   "SemanticSearchRelevance": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "SemiAnalysis": [
     {
       "key": "technology",
       "label": "Technology",
@@ -100796,6 +100822,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": [
