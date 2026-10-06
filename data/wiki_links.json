@@ -28231,6 +28231,10 @@
     "title": "《二年律令》 / Er Nian Lu Ling",
     "url": "/wiki/entities/ernianluling/"
   },
+  "EraNameSystem": {
+    "title": "年号制度 / Era-Name System",
+    "url": "/wiki/concepts/eranamesystem/"
+  },
   "EraTailwindInInvesting": {
     "title": "Era Tailwind In Investing / 投资时代红利",
     "url": "/wiki/concepts/eratailwindininvesting/"
@@ -47163,6 +47167,10 @@
     "title": "钩弋夫人 / Lady Gouyi (Western Han)",
     "url": "/wiki/entities/ladygouyiwesternhan/"
   },
+  "LadyHuaruiLaterShu": {
+    "title": "花蕊夫人 / Lady Huarui (Later Shu)",
+    "url": "/wiki/entities/ladyhuaruilatershu/"
+  },
   "LadyJaneGrey": {
     "title": "Lady Jane Grey",
     "url": "/wiki/entities/ladyjanegrey/"
@@ -54506,6 +54514,10 @@
   "MengAo": {
     "title": "蒙敖 / Meng Ao",
     "url": "/wiki/entities/mengao/"
+  },
+  "MengChangLaterShu": {
+    "title": "孟昶 / Meng Chang (Later Shu)",
+    "url": "/wiki/entities/mengchanglatershu/"
   },
   "MengDoctorFeverClinic": {
     "title": "蒙医生 / Meng Doctor (这病说来话长)",
@@ -85135,6 +85147,10 @@
     "title": "王雪迪 / Wang Xuedi",
     "url": "/wiki/entities/wangxuedi/"
   },
+  "WangYanFormerShu": {
+    "title": "王衍 / Wang Yan (Former Shu)",
+    "url": "/wiki/entities/wangyanformershu/"
+  },
   "WangYangming": {
     "title": "王阳明 / Wang Yangming",
     "url": "/wiki/entities/wangyangming/"
@@ -100786,6 +100802,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg": {
+    "title": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg/"
   },
   "zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc": {
     "title": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？",

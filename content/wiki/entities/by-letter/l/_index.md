@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12562
+wiki_total_pages: 12565
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2357,6 +2357,9 @@ wiki_pages:
   - key: "LuWeiScreenwriter"
     title: "芦苇 / Lu Wei"
     url: "/wiki/entities/luweiscreenwriter/"
+  - key: "LadyHuaruiLaterShu"
+    title: "花蕊夫人 / Lady Huarui (Later Shu)"
+    url: "/wiki/entities/ladyhuaruilatershu/"
   - key: "LitchiRoad"
     title: "荔枝道 / Litchi Road"
     url: "/wiki/entities/litchiroad/"

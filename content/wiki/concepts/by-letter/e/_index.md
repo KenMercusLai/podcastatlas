@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 9793
+wiki_total_pages: 9794
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1337,6 +1337,9 @@ wiki_pages:
   - key: "EffectMeasuredPersonnelSelection"
     title: "实效考察式用人 / Effect-Measured Personnel Selection"
     url: "/wiki/concepts/effectmeasuredpersonnelselection/"
+  - key: "EraNameSystem"
+    title: "年号制度 / Era-Name System"
+    url: "/wiki/concepts/eranamesystem/"
   - key: "ExpressAntiInvolutionPriceFloor"
     title: "快递反内卷与区域成本底线"
     url: "/wiki/concepts/expressantiinvolutionpricefloor/"

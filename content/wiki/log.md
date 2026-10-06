@@ -31114,3 +31114,11 @@ Added source `zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件
+
+Added source `zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg`; created [[EraNameSystem|年号制度]], [[WangYanFormerShu|前蜀王衍]], [[MengChangLaterShu|孟昶]], and the disambiguated [[LadyHuaruiLaterShu|花蕊夫人]]; and resynthesized [[ZhaoKuangyin|赵匡胤]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: era names are presented as both chronological standards and claims of political authority, while the reported 乾德 mirror collision shows how forgotten predecessor chronology can disrupt a new dynasty's symbolic language. No settled contradiction was adopted. The Later Shu conquest year and death interval, mirror inscription and ownership, Lady Huarui identification and palace anecdotes, causation of the 开宝 change, East Asian adoption dates, era-name counts, and 建元—元朔—元鼎 sequence remain source-scoped. Broad [[HanWudi|汉武帝]], [[LiuAn|刘安]], [[FormerShu|前蜀]], [[LaterShu|后蜀]], and series pages were kept closed because the focused source, concept, and entity pages capture the bounded addition without rewriting their much larger or tangential evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,890 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

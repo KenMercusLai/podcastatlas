@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 12562
+wiki_total_pages: 12565
 wiki_pages:
   - key: "MarchOnWashington1963"
     title: "1963 March on Washington"
@@ -1898,6 +1898,9 @@ wiki_pages:
   - key: "MengMinLateHan"
     title: "孟敏 / Meng Min (late Han)"
     url: "/wiki/entities/mengminlatehan/"
+  - key: "MengChangLaterShu"
+    title: "孟昶 / Meng Chang (Later Shu)"
+    url: "/wiki/entities/mengchanglatershu/"
   - key: "MengHaoran"
     title: "孟浩然 / Meng Haoran"
     url: "/wiki/entities/menghaoran/"

@@ -3953,8 +3953,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets](sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225.md) — All-In interview with SEC chair Paul Atkins and CFTC chair Michael Seelig on IPO burden, private-market access, tokenized markets, crypto classification, prediction-market integrity, and interagency coordination.
 - [Avoiding, Treating & Curing Cancer With the Immune System | Dr. Alex Marson](sources/avoiding-treating-curing-cancer-with-the-immune-system-dr-alex-marson-scim5861479163.md) — Huberman Lab interview on immune self-tolerance, cancer evolution, checkpoint inhibition, CAR-T, CRISPR cell programming, delivery, and germline ethics.
 - [Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today](sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195.md) — Tomorrow Today interview on a cliff-fall survival ordeal, acceptance without passivity, fear as information, one-metre action, self-trust, and the limits of “no Plan B.”
+- [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [王衍 / Wang Yan (Former Shu)](entities/WangYanFormerShu.md) — 前蜀末代统治者；其乾德年号在来源中成为北宋同名年号乌龙的历史前件。
+- [孟昶 / Meng Chang (Later Shu)](entities/MengChangLaterShu.md) — 后蜀末代统治者，在来源中连接宋朝征服、花蕊夫人入宋宫与乾德铜镜叙事。
+- [花蕊夫人 / Lady Huarui (Later Shu)](entities/LadyHuaruiLaterShu.md) — 与其他同号女性消歧的后蜀宫廷人物，作为乾德铜镜、宫廷转移与诗歌花卉记忆的来源限定载体。
 - [伍被 / Wu Bei (Western Han)](entities/WuBeiWesternHan.md) — 明知淮南缺乏反叛基础仍提出制造危机的低胜算方案，后向朝廷供述却因威慑逻辑未获宽免的刘安谋士。
 - [雷被 / Lei Bei (Western Han)](entities/LeiBeiWesternHan.md) — 较早告发刘安与刘迁并脱身，成为伍被后来试图效仿之时机对照的淮南门客。
 - [淮南太子刘迁 / Liu Qian (Western Han)](entities/LiuQianHuainanCrownPrinceWesternHan.md) — 朝廷抓捕目标；在淮南动员失败后提出代父担责并自刎未遂，其可能供述也促使伍被转而自陈。
@@ -11588,7 +11592,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhejiang University / 浙江大学](entities/ZhejiangUniversity.md) — EP266 university example for medical AI education, engineering resources, AI-chemistry transfer, and AI-era opportunity density.
 - [Tianjin University / 天津大学](entities/TianjinUniversity.md) — EP266 university example for chemistry-AI teaching, AI for Science talent, and AI-era resource concentration.
 - [NAURA / 北方华创](entities/NAURA.md) — Chinese semiconductor-equipment company used as a concrete example of equipment localization and divergent technology routes.
-- [赵匡胤 / Song Taizu](entities/ZhaoKuangyin.md) — Northern Song founder read through Later Zhou military networks, Chenqiao coup packaging, disarmament, and institutional redesign.
+- [赵匡胤 / Song Taizu](entities/ZhaoKuangyin.md) — 北宋开国皇帝；其形象连接后周军政网络、陈桥合法性包装、军事集权、南方统一、年号象征与未决继承危机。
 - [赵光义 / Song Taizong](entities/ZhaoGuangyi.md) — Zhao Kuangyin's brother and later emperor whose Chenqiao role becomes a source-criticism and succession-legitimacy issue.
 - [赵普 / Zhao Pu](entities/ZhaoPu.md) — Zhao Kuangyin's strategist, linked to Chenqiao planning debates and the logic behind disarming generals.
 - [后周 / Later Zhou](entities/LaterZhou.md) — Predecessor regime whose military command structure and child succession make the Song founding possible.
@@ -16569,6 +16573,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [年号制度 / Era-Name System](concepts/EraNameSystem.md) — 以君主或朝廷所定名号纪年，并把时间标准化、政治权威、合法性记忆与跨政权比较成本结合起来的制度。
 - [谋而不断式时机丧失 / Planning-Without-Decision Timing Loss](concepts/PlanningWithoutDecisionTimingLoss.md) — 已承担暴露风险却持续追求确定性，使资源、保密、主动权或行动窗口在决断前流失的失败模式。
 - [倒戈宽免的时机依赖 / Timing-Dependent Defection Leniency](concepts/TimingDependentDefectionLeniency.md) — 内部人供述能否换取宽免，取决于信息到达时机、稀缺性、既有参与和当局在情报、降级与威慑之间的优先次序。
 - [Spanish Conquest of Peru](concepts/SpanishConquestOfPeru.md) — Prolonged conquest process joining Spanish civil war, Indigenous alliances, colonial formation, and Vilcabamba's fall.

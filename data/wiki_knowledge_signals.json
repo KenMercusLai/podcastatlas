@@ -72442,6 +72442,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/ernianluling/"
     },
+    "EraNameSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件 [lrSbd_9ZFKCoFnOsOlvRJVFCdFYg].md",
+          "key": "zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/eranamesystem/"
+    },
     "Eratosthenes": {
       "episode_count": 1,
       "show_count": 1,
@@ -129571,6 +129587,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/ladygouyiwesternhan/"
     },
+    "LadyHuaruiLaterShu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件 [lrSbd_9ZFKCoFnOsOlvRJVFCdFYg].md",
+          "key": "zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/ladyhuaruilatershu/"
+    },
     "LadyJaneGrey": {
       "episode_count": 2,
       "show_count": 1,
@@ -151417,6 +151449,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/menelikii/"
+    },
+    "MengChangLaterShu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件 [lrSbd_9ZFKCoFnOsOlvRJVFCdFYg].md",
+          "key": "zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/mengchanglatershu/"
     },
     "MengDoctorFeverClinic": {
       "episode_count": 6,
@@ -235412,6 +235460,22 @@
       "updated": "2026-09-27",
       "url": "/wiki/entities/wangxuedi/"
     },
+    "WangYanFormerShu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件 [lrSbd_9ZFKCoFnOsOlvRJVFCdFYg].md",
+          "key": "zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/wangyanformershu/"
+    },
     "WangYeXinOfficial": {
       "episode_count": 1,
       "show_count": 1,
@@ -253063,6 +253127,36 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/zhaojinzhao/"
+    },
+    "ZhaoKuangyin": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下） [958158115].md",
+          "key": "170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115",
+          "show": "蜜獾吃书",
+          "title": "170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下）",
+          "url": "/wiki/sources/170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115/"
+        },
+        {
+          "episode_file": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上） [957052909].md",
+          "key": "169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909",
+          "show": "蜜獾吃书",
+          "title": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）",
+          "url": "/wiki/sources/169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件 [lrSbd_9ZFKCoFnOsOlvRJVFCdFYg].md",
+          "key": "zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/zhaokuangyin/"
     },
     "ZhaoLina": {
       "episode_count": 1,
