@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9778
+wiki_total_pages: 9779
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "IranianConstitutionalRevolution"
     title: "Iranian Constitutional Revolution"
     url: "/wiki/concepts/iranianconstitutionalrevolution/"
+  - key: "IranianDemocraticTransitionFramework"
+    title: "Iranian Democratic Transition Framework"
+    url: "/wiki/concepts/iraniandemocratictransitionframework/"
   - key: "IrishConstitutionalNationalism"
     title: "Irish Constitutional Nationalism"
     url: "/wiki/concepts/irishconstitutionalnationalism/"

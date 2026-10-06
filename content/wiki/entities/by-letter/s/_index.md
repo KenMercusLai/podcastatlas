@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 12534
+wiki_total_pages: 12536
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "SherrodBrown"
     title: "Sherrod Brown"
     url: "/wiki/entities/sherrodbrown/"
+  - key: "ShervinPishevar"
+    title: "Shervin Pishevar"
+    url: "/wiki/entities/shervinpishevar/"
   - key: "SherylSandberg"
     title: "Sheryl Sandberg"
     url: "/wiki/entities/sherylsandberg/"

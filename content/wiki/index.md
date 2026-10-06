@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Exiled Iranian Prince Reza Pahlavi: Transition Plan and the Fight for Iran's Freedom](sources/all-in-with-chamath-jason-sacks-friedberg-exiled-iranian-prince-reza-pahlavi-transition-plan-and-the-fight-for-irans-freedom-40347340.md) — All-In interview on Pahlavi's four-part transition framework, temporary leadership claim, constitutional choice, selective state continuity, and reconstruction advocacy.
 - [《资治通鉴·汉纪》313-2｜他投降西汉，受封万户侯](sources/zizhi-tongjian-hanji-313-2-ta-touxiang-xihan-shoufeng-wanhuhou-lu7zpyyfemjcntnubgsfr7bu9_tg.md) — 浑邪王从武装归降进入长安受封阶段；北军、未央宫与分层封赏把投降转成可见的帝国秩序，同时保留仪式想象和名号数字的史料边界。
 - [《资治通鉴·汉纪》314-2｜弑杀的汉武帝，居然包容他的错？](sources/zizhi-tongjian-hanji-314-2-shisha-de-hanwudi-juran-baorong-tade-cuo-lof7jgitcm-qyuw_afgjv5erjpr5.md) — 以铁器军用风险解释汉武帝严惩商人的安全逻辑，并把汲黯反复被外调、召回概括为君主对不适却有用的纠错声音的依赖。
 - [《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王](sources/zizhi-tongjian-hanji-315-1-hanwudi-gao-qiangchai-yiju-shoufu-xiongnu-wang-llyk4i76izmxe_el_ewpbbayqq5i.md) — 浑邪王旧部被拆分到五个边郡属国，在保留习俗的同时接受汉官监督并承担前线功能；河西由此成为西进基地，但四郡设置年代保持争议。
@@ -3933,6 +3934,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today](sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195.md) — Tomorrow Today interview on a cliff-fall survival ordeal, acceptance without passivity, fear as information, one-metre action, self-trust, and the limits of “no Plan B.”
 
 ## Entities
+- [Shervin Pishevar](entities/ShervinPishevar.md) — Iranian-American investor whose family history, Pahlavi support, and Iran Prosperity Project advocacy frame the episode's diaspora case for transition.
+- [Iran Prosperity Project](entities/IranProsperityProject.md) — Pahlavi-aligned transition project described through first-hundred-days stabilization, constitutional sequencing, and economic reconstruction.
 - [河西走廊 / Hexi Corridor (Western Han)](entities/HexiCorridorWesternHan.md) — 浑邪王归降后成为汉朝向西域推进的战略基地，四郡建置年代仍有史料与学术争议。
 - [昆明池 / Kunming Pool (Western Han)](entities/KunmingPoolWesternHan.md) — 汉武帝时期长安西南的复合型水利与军事工程，也以牵牛织女石像和天河布局成为帝国景观与传说物质化的交汇点。
 - [胶东王刘寄 / Liu Ji, Jiaodong King (Western Han)](entities/LiuJiJiaodongKingWesternHan.md) — 淮南王谋反案后受牵连、未定继承人即病亡，其两子因汉武帝的亲缘与怜悯获得王位安排的西汉宗室王。
@@ -16519,6 +16522,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Iranian Democratic Transition Framework](concepts/IranianDemocraticTransitionFramework.md) — Pahlavi's four-principle model joining territorial integrity, secular government, legal equality, constitutional choice, and temporary stewardship.
 - [Surrendered Force Dispersal / 降部拆分安置](concepts/SurrenderedForceDispersal.md) — 将归降武装拆分至多个受监督的前线社区，在保留部分内部习俗的同时限制重新集结并转化为边防能力。
 - [Crisis Surrender Stabilization / 危机受降稳控](concepts/CrisisSurrenderStabilization.md) — 通过威慑、选择性奖赏、借力执行、分离首领与迅速迁移，把尚可反复的武装归降转为可控移动。
 - [Georgian Literary Labor and Patronage](concepts/GeorgianLiteraryLaborAndPatronage.md) — Mixed authorship system joining commercial print, commissioned work, collaboration, sponsorship, debt, theatre, and public pension.

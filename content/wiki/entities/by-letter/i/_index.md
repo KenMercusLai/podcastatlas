@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 12534
+wiki_total_pages: 12536
 wiki_pages:
   - key: "IHaveADreamSpeech"
     title: "I Have a Dream Speech"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "Iran"
     title: "Iran"
     url: "/wiki/entities/iran/"
+  - key: "IranProsperityProject"
+    title: "Iran Prosperity Project"
+    url: "/wiki/entities/iranprosperityproject/"
   - key: "IraqWar"
     title: "Iraq War / 伊拉克战争"
     url: "/wiki/entities/iraqwar/"
