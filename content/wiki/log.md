@@ -30793,3 +30793,11 @@ Added source `gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》320｜一块皮卖40万，汉武帝赚钱有多损？
+
+Added source `zizhi-tongjian-hanji-320-yi-kuai-pi-mai-40-wan-hanwudi-zhuanqian-you-duo-sun-lhpgz2peskxn466cyxeqjwc-ym0z`; created [[WhiteDeerSkinCurrency|白鹿皮币]]; and resynthesized [[HanWudi|汉武帝]] and [[ZhangTangWesternHan|张汤]] from their complete preserved evidence inventories. Core synthesis: the episode treats a one-square-foot white-deer skin priced at forty wan as a compulsory ritual substrate for royal and noble gift presentation, so court control of ceremonial acceptance becomes a fiscal collection mechanism even though the object does not circulate as ordinary money. No settled contradiction was adopted. The proposal's exact date, legal form, buyer population, revenue, enforcement, relationship to white-metal coinage, abolition, and textual lineage remain source-scoped; the paper-money-precursor claim is narrowed to state-assigned nominal value because transferability, general acceptance, and monetary continuity are absent. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts cover 3,850 sources across nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

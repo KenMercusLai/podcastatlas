@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9767
+wiki_total_pages: 9768
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "WhiteVictimhoodNarrative"
     title: "White Victimhood Narrative"
     url: "/wiki/concepts/whitevictimhoodnarrative/"
+  - key: "WhiteDeerSkinCurrency"
+    title: "White-Deer-Skin Ritual Currency / 白鹿皮币"
+    url: "/wiki/concepts/whitedeerskincurrency/"
   - key: "WhitlamReformProgram"
     title: "Whitlam Reform Program"
     url: "/wiki/concepts/whitlamreformprogram/"
