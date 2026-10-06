@@ -30400,7 +30400,6 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -30797,6 +30796,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》320｜一块皮卖40万，汉武帝赚钱有多损？
 
 Added source `zizhi-tongjian-hanji-320-yi-kuai-pi-mai-40-wan-hanwudi-zhuanqian-you-duo-sun-lhpgz2peskxn466cyxeqjwc-ym0z`; created [[WhiteDeerSkinCurrency|白鹿皮币]]; and resynthesized [[HanWudi|汉武帝]] and [[ZhangTangWesternHan|张汤]] from their complete preserved evidence inventories. Core synthesis: the episode treats a one-square-foot white-deer skin priced at forty wan as a compulsory ritual substrate for royal and noble gift presentation, so court control of ceremonial acceptance becomes a fiscal collection mechanism even though the object does not circulate as ordinary money. No settled contradiction was adopted. The proposal's exact date, legal form, buyer population, revenue, enforcement, relationship to white-metal coinage, abolition, and textual lineage remain source-scoped; the paper-money-precursor claim is narrowed to state-assigned nominal value because transferability, general acceptance, and monetary continuity are absent. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts cover 3,850 sources across nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》321｜皇帝跟商人抢饭碗，你见过吗？
+
+Added source `zizhi-tongjian-hanji-321-huangdi-gen-shangren-qiang-fanwan-ni-jianguo-ma-luab_ikpgy_tmykmw-6e6voi-ghv`; created [[DongguoXianyangWesternHan|东郭咸阳]] and [[WhiteMetalCoinageWesternHan|白金币]]; and resynthesized [[KongJinWesternHan|孔仅]] and [[StateCommercialMonopolyExtraction|官营商业垄断式汲取]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the episode bridges white-deer-skin extraction and later算缗告缗 through a short-lived high-denomination silver-tin issue and the formation of salt-and-iron state operation; salt uses household production with official equipment and exclusive purchase, iron is presented as direct official production and sale, and merchant expertise is absorbed into the fiscal administration even as private control is displaced. No settled contradiction was adopted. “孔杰” is normalized to 孔仅 from the shared iron-merchant and salt-and-iron context; coin circulation, devaluation, executions, policy authorship, offices, operating boundaries, profits, revenue, punishment detail, and the explicit vassal-finance purpose remain source-scoped. Broad Han Wudi, Zhang Tang, Sang Hongyang, white-deer-skin, rewarded-denunciation, and show pages were read for context but not reopened because the bounded additions are represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,851 sources across 797 overview paragraphs and nine topics.
 
 ## [2026-10-06] lint | Wiki health check
 

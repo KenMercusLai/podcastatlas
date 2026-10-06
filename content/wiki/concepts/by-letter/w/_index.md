@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 9768
+wiki_total_pages: 9769
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "WhiteDeerSkinCurrency"
     title: "White-Deer-Skin Ritual Currency / 白鹿皮币"
     url: "/wiki/concepts/whitedeerskincurrency/"
+  - key: "WhiteMetalCoinageWesternHan"
+    title: "White-Metal Coinage / 白金币（西汉）"
+    url: "/wiki/concepts/whitemetalcoinagewesternhan/"
   - key: "WhitlamReformProgram"
     title: "Whitlam Reform Program"
     url: "/wiki/concepts/whitlamreformprogram/"

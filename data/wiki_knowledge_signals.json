@@ -60556,6 +60556,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/dongguanhanji/"
     },
+    "DongguoXianyangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》321｜皇帝跟商人抢饭碗，你见过吗？ [luaB_IkpGY_TMykmW-6E6vOi-ghV].md",
+          "key": "zizhi-tongjian-hanji-321-huangdi-gen-shangren-qiang-fanwan-ni-jianguo-ma-luab_ikpgy_tmykmw-6e6voi-ghv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》321｜皇帝跟商人抢饭碗，你见过吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-321-huangdi-gen-shangren-qiang-fanwan-ni-jianguo-ma-luab_ikpgy_tmykmw-6e6voi-ghv/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/dongguoxianyangwesternhan/"
+    },
     "DongnianYinxian": {
       "episode_count": 1,
       "show_count": 1,
@@ -126832,9 +126848,9 @@
       "url": "/wiki/entities/kongjiwesternhan/"
     },
     "KongJinWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？ [ljfKh_X6jED2lWVddGyUln6hlb1H].md",
@@ -126842,6 +126858,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》340-2｜古代的钱是如何铸造的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-340-2-gudai-de-qian-shi-ruhe-zhuzao-de-ljfkh_x6jed2lwvddgyuln6hlb1h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》321｜皇帝跟商人抢饭碗，你见过吗？ [luaB_IkpGY_TMykmW-6E6vOi-ghV].md",
+          "key": "zizhi-tongjian-hanji-321-huangdi-gen-shangren-qiang-fanwan-ni-jianguo-ma-luab_ikpgy_tmykmw-6e6voi-ghv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》321｜皇帝跟商人抢饭碗，你见过吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-321-huangdi-gen-shangren-qiang-fanwan-ni-jianguo-ma-luab_ikpgy_tmykmw-6e6voi-ghv/"
         }
       ],
       "updated": "2026-10-06",
@@ -210099,9 +210122,9 @@
       "url": "/wiki/concepts/statecollapsecascade/"
     },
     "StateCommercialMonopolyExtraction": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的 [lslupw7c76POANJ-zzmh59z1iOfR].md",
@@ -210144,9 +210167,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》357-2｜唉，一片真心不如钱重要",
           "url": "/wiki/sources/zizhi-tongjian-hanji-357-2-ai-yipian-zhenxin-buru-qian-zhongyao-ls192t04t2duiyxmxkf9gizctlqu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》321｜皇帝跟商人抢饭碗，你见过吗？ [luaB_IkpGY_TMykmW-6E6vOi-ghV].md",
+          "key": "zizhi-tongjian-hanji-321-huangdi-gen-shangren-qiang-fanwan-ni-jianguo-ma-luab_ikpgy_tmykmw-6e6voi-ghv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》321｜皇帝跟商人抢饭碗，你见过吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-321-huangdi-gen-shangren-qiang-fanwan-ni-jianguo-ma-luab_ikpgy_tmykmw-6e6voi-ghv/"
         }
       ],
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/statecommercialmonopolyextraction/"
     },
     "StateDependentSelfControl": {
@@ -236117,6 +236147,22 @@
       ],
       "updated": "2026-10-03",
       "url": "/wiki/entities/whitehousesuperintelligenceaccord/"
+    },
+    "WhiteMetalCoinageWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》321｜皇帝跟商人抢饭碗，你见过吗？ [luaB_IkpGY_TMykmW-6E6vOi-ghV].md",
+          "key": "zizhi-tongjian-hanji-321-huangdi-gen-shangren-qiang-fanwan-ni-jianguo-ma-luab_ikpgy_tmykmw-6e6voi-ghv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》321｜皇帝跟商人抢饭碗，你见过吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-321-huangdi-gen-shangren-qiang-fanwan-ni-jianguo-ma-luab_ikpgy_tmykmw-6e6voi-ghv/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/whitemetalcoinagewesternhan/"
     },
     "WhiteRose": {
       "episode_count": 1,
