@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2583
+topic_total_pages: 2584
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1954,6 +1954,9 @@ topic_concepts:
   - key: "YinmouYangmouConversion"
     title: "阴谋阳谋转换 / Yinmou-Yangmou Conversion"
     url: "/wiki/concepts/yinmouyangmouconversion/"
+  - key: "TombWealthLegendRobberyIncentive"
+    title: "陵墓财富传说的盗掘激励 / Tomb-Wealth Legend Robbery Incentive"
+    url: "/wiki/concepts/tombwealthlegendrobberyincentive/"
   - key: "JimingGoudaoTalentCritique"
     title: "鸡鸣狗盗式人才批评 / Jiming-Goudao Talent Critique"
     url: "/wiki/concepts/jiminggoudaotalentcritique/"

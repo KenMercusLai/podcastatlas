@@ -2340,7 +2340,7 @@ wiki_pages:
     title: "联想 / Lenovo"
     url: "/wiki/entities/lenovo/"
   - key: "LiuJiJiaodongKingWesternHan"
-    title: "胶东王刘寄 / Liu Ji, Jiaodong King (Western Han)"
+    title: "胶东康王刘寄 / Liu Ji, Jiaodong King (Western Han)"
     url: "/wiki/entities/liujijiaodongkingwesternhan/"
   - key: "LusunTeleprompter"
     title: "芦笋提词器"

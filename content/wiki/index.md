@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》310-1｜为什么说康王坟能养活一个省？](sources/zizhi-tongjian-hanji-310-1-weishenme-shuo-kangwangfen-neng-yanghuo-yige-sheng-lnau07_cmw4u08tyonm8tqjtfbwl.md) — “打开康王坟，山东不受贫”把胶东康王刘寄与巨额墓藏相连，并被节目用来解释六曲山盗墓未遂者的目标选择；墓主、藏品、数量和案件细节均保留来源边界。
 - [《资治通鉴·汉纪》309-2｜荒淫之极的他，竟害闺女远嫁80岁老头](sources/zizhi-tongjian-hanji-309-2-huangyin-zhi-ji-de-ta-jing-hai-guinv-yuanjia-80sui-laotou-lpya7pfxrss9_qwcbcx_3hnliuyl.md) — 刘建的残暴、伪造印信符节与谋反败亡牵连江都国和女儿刘细君；节目以《悲愁歌》和远嫁乌孙作代际伤害解释，但年龄、数量、优先性及完整因果均保留来源边界。
 - [Exiled Iranian Prince Reza Pahlavi: Transition Plan and the Fight for Iran's Freedom](sources/all-in-with-chamath-jason-sacks-friedberg-exiled-iranian-prince-reza-pahlavi-transition-plan-and-the-fight-for-irans-freedom-40347340.md) — All-In interview on Pahlavi's four-part transition framework, temporary leadership claim, constitutional choice, selective state continuity, and reconstruction advocacy.
 - [《资治通鉴·汉纪》313-2｜他投降西汉，受封万户侯](sources/zizhi-tongjian-hanji-313-2-ta-touxiang-xihan-shoufeng-wanhuhou-lu7zpyyfemjcntnubgsfr7bu9_tg.md) — 浑邪王从武装归降进入长安受封阶段；北军、未央宫与分层封赏把投降转成可见的帝国秩序，同时保留仪式想象和名号数字的史料边界。
@@ -3939,7 +3940,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Iran Prosperity Project](entities/IranProsperityProject.md) — Pahlavi-aligned transition project described through first-hundred-days stabilization, constitutional sequencing, and economic reconstruction.
 - [河西走廊 / Hexi Corridor (Western Han)](entities/HexiCorridorWesternHan.md) — 浑邪王归降后成为汉朝向西域推进的战略基地，四郡建置年代仍有史料与学术争议。
 - [昆明池 / Kunming Pool (Western Han)](entities/KunmingPoolWesternHan.md) — 汉武帝时期长安西南的复合型水利与军事工程，也以牵牛织女石像和天河布局成为帝国景观与传说物质化的交汇点。
-- [胶东王刘寄 / Liu Ji, Jiaodong King (Western Han)](entities/LiuJiJiaodongKingWesternHan.md) — 淮南王谋反案后受牵连、未定继承人即病亡，其两子因汉武帝的亲缘与怜悯获得王位安排的西汉宗室王。
+- [胶东康王刘寄 / Liu Ji, Jiaodong King (Western Han)](entities/LiuJiJiaodongKingWesternHan.md) — 淮南王谋反案后受牵连、未定继承人即病亡，其宗室线获汉武帝保全；后世康王坟财富传说被节目暂系于他，但墓址与藏品未获本期证实。
 - [Peter Steinberger](entities/PeterSteinberger.md) — Developer and founder whom Data Science With Sam identifies as OpenClaw's creator and a later OpenAI hire.
 - [东郭咸阳 / Dongguo Xianyang (Western Han)](entities/DongguoXianyangWesternHan.md) — 由齐地盐商背景进入汉武帝财政体系、参与盐业官营设计的西汉人物。
 - [不端者（端传媒播客）](entities/BuduanzhePodcast.md) — Duan Media interview-and-book podcast alternating with 《端闻》 on Fridays.
@@ -16523,6 +16524,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [陵墓财富传说的盗掘激励 / Tomb-Wealth Legend Robbery Incentive](concepts/TombWealthLegendRobberyIncentive.md) — 夸张或未经证实的墓藏故事仍可把盗掘者引向特定王号、地域与墓群，但行为影响并不反证传说为真。
 - [Iranian Democratic Transition Framework](concepts/IranianDemocraticTransitionFramework.md) — Pahlavi's four-principle model joining territorial integrity, secular government, legal equality, constitutional choice, and temporary stewardship.
 - [Surrendered Force Dispersal / 降部拆分安置](concepts/SurrenderedForceDispersal.md) — 将归降武装拆分至多个受监督的前线社区，在保留部分内部习俗的同时限制重新集结并转化为边防能力。
 - [Crisis Surrender Stabilization / 危机受降稳控](concepts/CrisisSurrenderStabilization.md) — 通过威慑、选择性奖赏、借力执行、分离首领与迅速迁移，把尚可反复的武装归降转为可控移动。
