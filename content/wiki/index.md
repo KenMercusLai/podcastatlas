@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》300｜汉武帝又一伟大发明，影响中国上千年](sources/zizhi-tongjian-hanji-300-hanwudi-you-yi-weida-faming-yingxiang-zhongguo-shangqiannian-luwfqqrb1mi5zf0ufmtvnpbmkx7p.md) — 以祥瑞命名的追认叙事解释汉武帝年号制度，并把统一纪年、中央权威与济北王献泰山连接起来；“元朔”表述保留为转录或编年疑点。
 - [Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome](sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280.md) — All-In interview on five interacting historical forces, U.S. debt stabilization, gold and Bitcoin, tariffs, political-order risk, and the gap between AI technology and company returns.
 - [No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机](sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6.md) — 三五环 conversation with 梦阳 and 刘飞 on nonlinear careers, 腾讯微视, stand-up feedback, corporate ROI habits, repeated creative action, and freelance uncertainty.
 - [VOL.197咖啡是高利贷，睡眠是储蓄卡：这届打工人的“春困”自救指南](sources/vol-197-kafei-shi-gaolidai-shuimian-shi-chuxuka-zhejie-dagongrende-chunkun-zijiu-zhinan-lkcj1kymw09hwvfcbwcr-noydrad.md) — 这病说来话长 episode with 阿汤 and 董飞 on daytime-sleepiness triage, sleep, caffeine, short rest, gentle movement, spring TCM boundaries, and metabolic-health escalation.
@@ -3961,6 +3962,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [济北王刘胡 / Liu Hu, King of Jibei (Western Han)](entities/LiuHuJibeiKingWesternHan.md) — 从祥瑞报告推测汉武帝将封禅、进献泰山及旁邑并获其他县补偿的西汉济北王。
 - [梦阳 / 孟阳](entities/MengYangStandup.md) — Stand-up comedian and short-video creator whose nonlinear path through audit and internet operations grounds the episode's creative-fit and uncertainty discussion.
 - [刘不亥 / Liu Buhai (Western Han)](entities/LiuBuhaiWesternHan.md) — 刘安家中受冷落的庶长子，其子因父亲待遇而与太子刘迁一支冲突。
 - [王衍 / Wang Yan (Former Shu)](entities/WangYanFormerShu.md) — 前蜀末代统治者；其乾德年号在来源中成为北宋同名年号乌龙的历史前件。

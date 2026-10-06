@@ -72517,9 +72517,9 @@
       "url": "/wiki/entities/ernianluling/"
     },
     "EraNameSystem": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件 [lrSbd_9ZFKCoFnOsOlvRJVFCdFYg].md",
@@ -72527,6 +72527,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件",
           "url": "/wiki/sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》300｜汉武帝又一伟大发明，影响中国上千年 [luwFqqRb1MI5Zf0UfMtVnpBMKx7p].md",
+          "key": "zizhi-tongjian-hanji-300-hanwudi-you-yi-weida-faming-yingxiang-zhongguo-shangqiannian-luwfqqrb1mi5zf0ufmtvnpbmkx7p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》300｜汉武帝又一伟大发明，影响中国上千年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-300-hanwudi-you-yi-weida-faming-yingxiang-zhongguo-shangqiannian-luwfqqrb1mi5zf0ufmtvnpbmkx7p/"
         }
       ],
       "updated": "2026-10-07",
@@ -136904,6 +136911,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/liuhongweistandup/"
+    },
+    "LiuHuJibeiKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》300｜汉武帝又一伟大发明，影响中国上千年 [luwFqqRb1MI5Zf0UfMtVnpBMKx7p].md",
+          "key": "zizhi-tongjian-hanji-300-hanwudi-you-yi-weida-faming-yingxiang-zhongguo-shangqiannian-luwfqqrb1mi5zf0ufmtvnpbmkx7p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》300｜汉武帝又一伟大发明，影响中国上千年",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-300-hanwudi-you-yi-weida-faming-yingxiang-zhongguo-shangqiannian-luwfqqrb1mi5zf0ufmtvnpbmkx7p/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/liuhujibeikingwesternhan/"
     },
     "LiuJiJiaodongKingWesternHan": {
       "episode_count": 4,
