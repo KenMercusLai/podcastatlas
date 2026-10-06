@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》323-2｜放羊人出身的他，如何草根逆袭](sources/zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk.md) — 卜式以捐产与父子请战获汉武帝树为典型并升任御史大夫；节目由公孙弘的早期猜疑讨论门第筛选，但班超归属应校正为班固。
 - [《资治通鉴·汉纪》324-1｜李广舍去脸面，求了武帝什么事？](sources/zizhi-tongjian-hanji-324-1-liguang-shequ-lianmian-qiu-le-wudi-shenme-shi-lvjcnxgg4fubkss4osi2gwnmahke.md) — 李广反复请战获任漠北前将军，汉武帝却私下警告卫青其“命不好”；节目并补足两年备战、分兵与情报改道背景。
 - [《资治通鉴·汉纪》324-2｜李广与卫青，两位名将的爱恨情仇](sources/zizhi-tongjian-hanji-324-2-liguang-yu-weiqing-liangwei-mingjiang-de-aihen-qingchou-lqejjd0rqvm7lj59w8v1s0pvpwpd.md) — 情报变化后卫青拒绝李广前锋请求并安排东路侧击；汉军后勤又打破匈奴对其渡漠疲惫的预判，战斗在沙暴中展开。
 - [《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜](sources/zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv.md) — 漠北胜利使匈奴北迁却也耗尽汉军兵马与物资；战后霍去病声势上升、卫青门客转投，任安留守则构成权势依附的反例。

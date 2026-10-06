@@ -30711,3 +30711,11 @@ Added source `zizhi-tongjian-hanji-324-2-liguang-yu-weiqing-liangwei-mingjiang-d
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》323-2｜放羊人出身的他，如何草根逆袭
+
+Added source `zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk`; resynthesized [[BuShiWesternHan|卜式]], [[GongsunHong|公孙弘]], [[EliteCrisisBurdenSharing|贵族危机共担动员]], and [[ZhoujinForfeiture|酎金夺爵]] from their complete preserved evidence inventories; and migrated and resynthesized [[StatusFilteredTalentMisrecognition|门第筛选式人才误判]] from its complete bounded input. Core synthesis: Bu Shi's unconventional donation first meets institutional suspicion, while repeated material contribution, the Nanyue offer with his son, public reward, and promotion show conduct overcoming a low-status credibility filter; the same public example fails to mobilize other officials before mass ritual-gold forfeitures. No settled event-level contradiction was adopted. The episode substantially overlaps Hanji 353-2, loosely calls 酎金 “税金,” and attributes the *Hanshu* “鸿渐之翼……非遇其时” appraisal to 班超 rather than the 班固-associated chapter appraisal; pedigree causation, Wudi's general selection practice, exact reward and office chronology, merchant nonresponse, and the causal link from nonvolunteering to forfeiture remain source-scoped. Broad [[HanWudi|汉武帝]], [[Nanyue|南越]], [[LiGuangHanGeneral|李广]], and show pages were read for context but not reopened because the durable additions are represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,840 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

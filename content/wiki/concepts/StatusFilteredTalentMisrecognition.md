@@ -1,33 +1,65 @@
 ---
 title: "Status-Filtered Talent Misrecognition / 门第筛选式人才误判"
 type: concept
-tags: [talent, leadership, late-han, status, personnel]
-sources: [zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc, zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1]
-last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
+tags: [talent, leadership, late-han, western-han, status, personnel]
+sources:
+  - zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc
+  - zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1
+  - zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk
+last_updated: 2026-10-06
 ---
 
-# Status-Filtered Talent Misrecognition / 门第筛选式人才误判
+## Definition
 
-[[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] adds the reputation-infrastructure side of the concept through [[XuShao|许劭]]. In that earlier Cao Cao episode, Xu Shao's月旦品 has enough authority that a judgment can recode [[CaoCao|曹操]] from eunuch-family outsider into a publicly legible disorder-era actor, even though Xu Shao initially looks down on him.
+Status-filtered talent misrecognition / 门第筛选式人才误判 is the personnel failure in which origin, office, class, inherited reputation, or anticipated elite judgment prevents visible conduct and relevant ability from being evaluated on their own terms. It includes both blocked appointment and the earlier refusal to treat an outsider's action as credible.
 
-That means the same elite-judgment system can certify or block talent. Hanji 926 shows [[QiaoXuanLateHan|桥玄]] using Xu Shao's reputation to help Cao Cao; Hanji 993 later shows [[LiuYaoLateHan|刘繇]] fearing Xu Shao's imagined laughter enough to underuse [[TaishiCi|太史慈]].
+## Current Synthesis
 
-Status-filtered talent misrecognition / 门第筛选式人才误判 names the personnel failure in [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]] where a powerholder's reading of status, reputation, or elite approval prevents visible ability from becoming usable command capacity. The episode's main case is [[LiuYaoLateHan|刘繇]] refusing to make [[TaishiCi|太史慈]] a general because he fears [[XuShao|许劭]] would laugh at the appointment.
+The bounded evidence now spans recognition before office, reputation certification, and blocked command. Hanji 323-2 supplies the Western Han entry case: [[BuShiWesternHan|卜式]] offers half his wealth to the state while still an unofficial shepherd and merchant, and [[GongsunHong|公孙弘]] reportedly treats the proposal as abnormal. The host interprets this through low origin and lack of background, while [[HanWudi|汉武帝]] later turns Bu Shi's repeated contributions into an office path. The durable point is that unfamiliar social position can reduce credibility before ability is tested; the claim that Wudi was generally status-blind is broader than the evidence.
 
-The concept is not simply "not knowing a talented person." Liu Yao has Taishi Ci in camp and receives a recommendation. The failure is that social evaluation filters the appointment before battlefield evidence can matter. When Taishi Ci later fights [[SunCe|孙策]] at [[ShentinglingBattle|神亭岭之战]] with only one rider behind him, the source treats his courage and ability as belated proof of capacity Liu Yao failed to convert.
+Hanji 926 shows that elite evaluation can also certify. [[QiaoXuanLateHan|桥玄]] routes [[CaoCao|曹操]] toward [[XuShao|许劭]], whose reputation system helps recode a eunuch-family outsider into a publicly legible political actor. Hanji 993 supplies the blocking side of the same mechanism: [[LiuYaoLateHan|刘繇]] has [[TaishiCi|太史慈]] in camp and receives a recommendation, yet fear of Xu Shao's imagined judgment prevents a major appointment before [[ShentinglingBattle|神亭岭之战]] makes Taishi Ci's martial capacity visible.
 
-The concept differs from [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] and extends [[TalentAsStateTreasure|以贤臣为宝]]. Respect-based attraction asks whether a leader can draw people in; talent-as-treasure asks whether the leader values people as strategic assets. Status-filtered misrecognition isolates the narrower failure where talent is physically present but blocked by class, reputation, or fear of elite judgment.
+The current synthesis is therefore not that all pedigree or reputation evidence is invalid. Social signals can reduce uncertainty, but they become a misrecognition mechanism when they preempt conduct evidence, role fit, or a bounded trial. Talent can be physically present, morally serious, or repeatedly demonstrated and still fail to become usable capacity if gatekeepers treat status as the decision rather than one input.
 
 ## Key Claims
-- Hanji 926 adds that elite evaluation can certify a politically ambiguous figure when a recognized evaluator's words circulate.
-- A leader can have access to talent and still fail if status cues override competence signals.
-- Reputation anxiety can turn personnel decisions into performances for elite observers rather than decisions about operational need.
-- Battlefield evidence may reveal ability, but too late to repair the lost command opportunity.
-- The episode keeps the Taishi Ci background reading source-scoped: it is an interpretive frame about lower-status military talent in late-Han transition, not a complete social-history proof.
 
-## Connections
-- [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]], [[CaoCao|曹操]], [[QiaoXuanLateHan|桥玄]], and [[EliteEndorsementReputationMaking|名士背书式造势]] - certification side of elite evaluation.
-- [[LiuYaoLateHan|刘繇]], [[TaishiCi|太史慈]], and [[XuShao|许劭]] - source case of appointment blocked by elite-judgment anxiety.
-- [[ShentinglingBattle|神亭岭之战]], [[SunCe|孙策]], [[HanDang|韩当]], and [[HuangGai|黄盖]] - field scene where the blocked ability becomes visible.
-- [[JuShou|沮授]], [[YuanShao|袁绍]], [[GanNing|甘宁]], and [[LiuBiao|刘表]] - comparative cases named by the source for unused or distrusted talent.
-- [[TalentAsStateTreasure|以贤臣为宝]] and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - adjacent talent-governance concepts.
+- Status filtering can operate before appointment by making an outsider's unusual public contribution appear inherently incredible.
+- A leader can have direct access to a capable person and still fail when social origin or anticipated elite judgment overrides role-relevant evidence.
+- Elite evaluation is two-sided: recognized appraisal can certify a stigmatized candidate or block a lower-status candidate.
+- Repeated conduct and bounded trials provide stronger correction than replacing one prestige label with another.
+- Field evidence may reveal ability only after the organization has lost the chance to deploy it at the right time.
+- The current sources support specific Western Han and late-Han cases, not a claim that origin alone explains all appointment outcomes.
+
+## Evidence
+
+Pre-office credibility filtering:
+- [[zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk|Hanji 323-2]] says Gongsun Hong distrusts Bu Shi's half-wealth offer while Bu Shi lacks office and an elite background, and the host treats Wudi's later recognition as the corrective path.
+
+Elite certification:
+- [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] presents Qiao Xuan and Xu Shao as evaluators whose standing makes Cao Cao's otherwise contested background and future capacity publicly legible.
+
+Appointment blocked by reputation anxiety:
+- [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]] says Liu Yao refuses to make Taishi Ci a major commander because he fears Xu Shao's judgment.
+- [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]] uses Taishi Ci's outnumbered Shentingling encounter with Sun Ce as belated evidence of the martial capacity Liu Yao failed to convert.
+
+## Counterevidence & Qualifications
+
+The three episodes do not establish a general social history of Western or Eastern Han selection. Hanji 323-2 preserves Gongsun Hong's rejection more securely than the host's claim that pedigree caused it; an unusual donation can also raise questions about fraud, precedent, motive, or political signaling. Wudi's recognition of Bu Shi does not prove consistent status-blind selection. Hanji 926 shows why recognized evaluators can be useful when direct evidence is sparse, while Hanji 993 keeps Taishi Ci's lower-status characterization source-scoped. Later achievement can correct an earlier judgment but can also create hindsight bias, so the concept requires a specific blocked opportunity rather than mere retrospective fame.
+
+## What Changed
+
+- Added a Western Han pre-office case in which status affects whether an unconventional act is believed at all.
+- Distinguished credibility filtering from the later blocking of a formal command appointment.
+- Reframed elite appraisal as a two-sided mechanism that can certify or obstruct talent.
+- Migrated the page to the synthesis-v1 structure after reading its complete preserved source inventory.
+
+## Related Concepts
+
+- [[EliteEndorsementReputationMaking|名士背书式造势]] - describes the certification side of elite evaluation when a recognized appraiser makes capacity legible.
+- [[TalentAsStateTreasure|以贤臣为宝]] - broadens the question from recognition failure to whether leaders convert people into state capacity.
+- [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - concerns drawing capable people in, while status filtering can waste talent already present.
+- [[EmptyReputationRealityGap|空誉违实]] - supplies the opposite warning that prestige can also outrun conduct evidence.
+- [[BuShiWesternHan|卜式]] - Western Han case where low-status credibility filtering precedes later recognition and office.
+- [[TaishiCi|太史慈]] - late-Han case where reputation anxiety blocks command before battlefield evidence appears.
+- [[XuShao|许劭]] - evaluator whose standing illustrates both certification power and appointment-distorting anticipation.

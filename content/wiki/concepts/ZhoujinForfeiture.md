@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [western-han, ritual, marquises, political-purge, military-mobilization]
 sources:
   - zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p
-last_updated: 2026-10-05
+  - zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk
+last_updated: 2026-10-06
 ---
 
 ## Definition
@@ -14,7 +15,7 @@ last_updated: 2026-10-05
 
 ## Current Synthesis
 
-The bounded evidence supports two layers. The event layer is direct: [[BuShiWesternHan|卜式]] volunteers, [[HanWudi|汉武帝]] rewards and publicizes him, no wider official or marquis response follows, the Shaofu inspects ritual gold, 106 titles are removed for disrespect, and [[ZhaoZhouWesternHan|赵周]] is imprisoned for knowing that contributions were light.
+The bounded evidence supports two layers. The event layer is direct in Hanji 353-2: [[BuShiWesternHan|卜式]] volunteers, [[HanWudi|汉武帝]] rewards and publicizes him, no wider official or marquis response follows, the Shaofu inspects ritual gold, 106 titles are removed for disrespect, and [[ZhaoZhouWesternHan|赵周]] is imprisoned for knowing that contributions were light. Hanji 323-2 independently repeats the public-example sequence and says more than one hundred marquises lose title, but calls the deficient contribution “税金” and supplies less institutional detail.
 
 The motive layer is interpretive. The episode argues that gold quality supplied the charge while military nonparticipation supplied the political reason. The sequence makes that reading plausible as an account of timing and selective pressure, but it does not by itself prove that every failed contribution was manufactured, that every affected marquis had refused a concrete order, or that Wudi's private motive was singular.
 
@@ -34,17 +35,19 @@ Public example and nonresponse:
 
 Inspection and forfeiture:
 - [[zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p|Hanji 353-2]] says the Shaofu finds light or impure ritual gold and 106 marquises lose their titles for disrespect.
+- [[zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk|Hanji 323-2]] gives a compatible but less precise account of more than one hundred marquises losing title after deficient contributions.
 
 Expanded accountability:
 - [[zizhi-tongjian-hanji-353-2-hanwudi-zhoujin-duojue-beihou-de-yinmou-llzksgz2rjcpyjtp1fxjdtmh8q3p|Hanji 353-2]] says Zhao Zhou is imprisoned for knowing the gold was light and dies by suicide.
 
 ## Counterevidence & Qualifications
 
-The source establishes temporal sequence more strongly than hidden intention. Gold contribution standards existed independently of this campaign, and the episode does not provide assay records, a list of affected marquises, evidence that defects were fabricated, or direct testimony that Wudi ordered punishment because volunteering failed. “阴谋” should therefore be read as the host's political interpretation. The exact distribution of coerced, negligent, and genuinely noncompliant cases remains unknown in this bounded input.
+The sources establish temporal sequence more strongly than hidden intention. Gold contribution standards existed independently of this campaign, and neither episode provides assay records, a list of affected marquises, evidence that defects were fabricated, or direct testimony that Wudi ordered punishment because volunteering failed. Hanji 323-2's “税金” is treated as loose wording for the more specifically identified ritual 酎金 rather than a separate fiscal levy. “阴谋” should therefore be read as the host's political interpretation. The exact distribution of coerced, negligent, and genuinely noncompliant cases remains unknown in this bounded input.
 
 ## What Changed
 
-- Created a bounded concept separating the documented ritual-compliance sequence from the episode's military-mobilization motive claim.
+- Added an overlapping account that corroborates the scale and sequence without replacing Hanji 353-2's more precise count and ritual terminology.
+- Explicitly normalized the new source's loose “税金” wording to the established 酎金 context.
 
 ## Related Concepts
 
