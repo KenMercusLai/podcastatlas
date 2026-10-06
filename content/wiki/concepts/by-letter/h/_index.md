@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 9780
+wiki_total_pages: 9781
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -1136,6 +1136,9 @@ wiki_pages:
   - key: "HanTraffickingLawDeterrence"
     title: "汉代拐卖惩治 / Han Trafficking Law Deterrence"
     url: "/wiki/concepts/hantraffickinglawdeterrence/"
+  - key: "HanRoyalThickBurialAndJadeSuitBelief"
+    title: "汉代王侯厚葬与玉衣不朽信仰 / Han Royal Thick Burial and Jade-Suit Immortality Belief"
+    url: "/wiki/concepts/hanroyalthickburialandjadesuitbelief/"
   - key: "HanDynastyCuju"
     title: "汉代蹴鞠 / Han Dynasty Cuju"
     url: "/wiki/concepts/handynastycuju/"

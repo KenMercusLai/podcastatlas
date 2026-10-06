@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2584
+topic_total_pages: 2585
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -7395,6 +7395,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq"
+    title: "《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生"
+    url: "/wiki/sources/zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq/"
   - key: "zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk"
     title: "《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？"
     url: "/wiki/sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk/"

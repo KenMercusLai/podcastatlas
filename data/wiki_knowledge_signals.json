@@ -98078,6 +98078,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/hanrestorationpublicsentiment/"
     },
+    "HanRoyalThickBurialAndJadeSuitBelief": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生 [lj_f2c88aFcbJRaSlZODAiSgKqBQ].md",
+          "key": "zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/hanroyalthickburialandjadesuitbelief/"
+    },
     "HanShaoLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -136017,9 +136033,9 @@
       "url": "/wiki/entities/liuhongweistandup/"
     },
     "LiuJiJiaodongKingWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》316-1｜他功越百王，为何治下百姓越来越穷 [lu_tr4M36rMZ9sX38J4NvLMof5am].md",
@@ -136034,6 +136050,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》310-1｜为什么说康王坟能养活一个省？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-310-1-weishenme-shuo-kangwangfen-neng-yanghuo-yige-sheng-lnau07_cmw4u08tyonm8tqjtfbwl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生 [lj_f2c88aFcbJRaSlZODAiSgKqBQ].md",
+          "key": "zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq/"
         }
       ],
       "updated": "2026-10-07",
@@ -136891,9 +136914,9 @@
       "url": "/wiki/entities/liushangeasternhan/"
     },
     "LiuShengZhongshanKingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》343-1｜他一生荒淫骄奢，后人却顶礼膜拜？ [lnSPG6EKToHoR19yHTCqUlhl4cvT].md",
@@ -136901,9 +136924,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》343-1｜他一生荒淫骄奢，后人却顶礼膜拜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-343-1-ta-yisheng-huangyin-jiaoshe-houren-que-dingli-mobai-lnspg6ektohor19yhtcqulhl4cvt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生 [lj_f2c88aFcbJRaSlZODAiSgKqBQ].md",
+          "key": "zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/liushengzhongshankingwesternhan/"
     },
     "LiuShunChangshanKingWesternHan": {
@@ -223750,9 +223780,9 @@
       "url": "/wiki/concepts/tombdesecrationpoliticalviolence/"
     },
     "TombWealthLegendRobberyIncentive": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》310-1｜为什么说康王坟能养活一个省？ [lnAU07_cMW4u08tYOnm8tQJtfBWL].md",
@@ -223760,6 +223790,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》310-1｜为什么说康王坟能养活一个省？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-310-1-weishenme-shuo-kangwangfen-neng-yanghuo-yige-sheng-lnau07_cmw4u08tyonm8tqjtfbwl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生 [lj_f2c88aFcbJRaSlZODAiSgKqBQ].md",
+          "key": "zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq/"
         }
       ],
       "updated": "2026-10-07",

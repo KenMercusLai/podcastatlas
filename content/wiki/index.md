@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生](sources/zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq.md) — 以刘胜、狮子山楚王与海昏侯墓说明西汉王侯厚葬的物质规模，并把金缕玉衣解释为财富、等级与尸骨不朽想象的结合；这些类比仍不能证明刘寄墓的位置或藏品。
 - [《资治通鉴·汉纪》310-1｜为什么说康王坟能养活一个省？](sources/zizhi-tongjian-hanji-310-1-weishenme-shuo-kangwangfen-neng-yanghuo-yige-sheng-lnau07_cmw4u08tyonm8tqjtfbwl.md) — “打开康王坟，山东不受贫”把胶东康王刘寄与巨额墓藏相连，并被节目用来解释六曲山盗墓未遂者的目标选择；墓主、藏品、数量和案件细节均保留来源边界。
 - [《资治通鉴·汉纪》309-2｜荒淫之极的他，竟害闺女远嫁80岁老头](sources/zizhi-tongjian-hanji-309-2-huangyin-zhi-ji-de-ta-jing-hai-guinv-yuanjia-80sui-laotou-lpya7pfxrss9_qwcbcx_3hnliuyl.md) — 刘建的残暴、伪造印信符节与谋反败亡牵连江都国和女儿刘细君；节目以《悲愁歌》和远嫁乌孙作代际伤害解释，但年龄、数量、优先性及完整因果均保留来源边界。
 - [Exiled Iranian Prince Reza Pahlavi: Transition Plan and the Fight for Iran's Freedom](sources/all-in-with-chamath-jason-sacks-friedberg-exiled-iranian-prince-reza-pahlavi-transition-plan-and-the-fight-for-irans-freedom-40347340.md) — All-In interview on Pahlavi's four-part transition framework, temporary leadership claim, constitutional choice, selective state continuity, and reconstruction advocacy.
@@ -3997,7 +3998,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王廷凑 / Wang Tingcou (Tang)](entities/WangTingcouTang.md) — 镇州兵变后控制承德、以军众威慑韩愈，并成为其宣抚演说对象的唐代藩镇人物。
 - [大夏 / Daxia (Western Han-era)](entities/DaxiaWesternHan.md) — 张骞副使网络中的西域政体；与希腊—巴克特里亚王国的等同关系保持来源限定。
 - [韩愈 / Han Yu](entities/HanYu.md) — 唐代文学家与官员，以古文、直谏、贬谪后任事及进入承德叛镇宣抚构成文学声望与公共责任相连的人物画像。
-- [中山王刘胜 / Liu Sheng, King of Zhongshan (Western Han)](entities/LiuShengZhongshanKingWesternHan.md) — 以沉湎酒色闻名、长期在位且被节目来源限定地解释为借无野心形象降低皇帝猜忌的西汉诸侯王。
+- [中山王刘胜 / Liu Sheng, King of Zhongshan (Western Han)](entities/LiuShengZhongshanKingWesternHan.md) — 长期在位且被节目来源限定地解释为以酒色形象降低猜忌的西汉诸侯王，其墓葬又成为王侯厚葬与金缕玉衣信仰的考古案例。
 - [常山王刘勃 / Liu Bo, King of Changshan (Western Han)](entities/LiuBoChangshanKingWesternHan.md) — 因侍疾、居丧失礼及妨碍中央调查而在即位数月后被废、迁往房陵的常山末王。
 - [刘棁 / Liu Zhuo (Western Han Changshan)](entities/LiuZhuoChangshanWesternHan.md) — 因母子失宠、财产排斥与继位后失于收恤而告发刘勃和王后脩的常山庶长子。
 - [王后脩 / Queen Xiu of Changshan (Western Han)](entities/QueenXiuChangshanWesternHan.md) — 刘舜王后与刘勃之母，因侍疾、家庭排斥和居丧争议被告发并遭废黜。
@@ -16524,6 +16525,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [汉代王侯厚葬与玉衣不朽信仰 / Han Royal Thick Burial and Jade-Suit Immortality Belief](concepts/HanRoyalThickBurialAndJadeSuitBelief.md) — 王侯墓葬财富、玉衣等级标识与精气不散、尸骨不朽想象的结合；出土实物不等于超自然功效得到验证。
 - [陵墓财富传说的盗掘激励 / Tomb-Wealth Legend Robbery Incentive](concepts/TombWealthLegendRobberyIncentive.md) — 夸张或未经证实的墓藏故事仍可把盗掘者引向特定王号、地域与墓群，但行为影响并不反证传说为真。
 - [Iranian Democratic Transition Framework](concepts/IranianDemocraticTransitionFramework.md) — Pahlavi's four-principle model joining territorial integrity, secular government, legal equality, constitutional choice, and temporary stewardship.
 - [Surrendered Force Dispersal / 降部拆分安置](concepts/SurrenderedForceDispersal.md) — 将归降武装拆分至多个受监督的前线社区，在保留部分内部习俗的同时限制重新集结并转化为边防能力。
