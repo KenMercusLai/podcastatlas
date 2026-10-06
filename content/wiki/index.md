@@ -3927,6 +3927,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets](sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225.md) — All-In interview with SEC chair Paul Atkins and CFTC chair Michael Seelig on IPO burden, private-market access, tokenized markets, crypto classification, prediction-market integrity, and interagency coordination.
 - [Avoiding, Treating & Curing Cancer With the Immune System | Dr. Alex Marson](sources/avoiding-treating-curing-cancer-with-the-immune-system-dr-alex-marson-scim5861479163.md) — Huberman Lab interview on immune self-tolerance, cancer evolution, checkpoint inhibition, CAR-T, CRISPR cell programming, delivery, and germline ethics.
+- [Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today](sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195.md) — Tomorrow Today interview on a cliff-fall survival ordeal, acceptance without passivity, fear as information, one-metre action, self-trust, and the limits of “no Plan B.”
 
 ## Entities
 - [昆明池 / Kunming Pool (Western Han)](entities/KunmingPoolWesternHan.md) — 汉武帝时期长安西南的复合型水利与军事工程，也以牵牛织女石像和天河布局成为帝国景观与传说物质化的交汇点。
@@ -7866,8 +7867,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vishnu Padmanabhan](entities/VishnuPadmanabhan.md) — Economist explainer distinguishing worker effects from city place effects in wage gaps.
 - [Gaurav Karna](entities/GauravKarna.md) — UC San Diego researcher whose LinkedIn-based job-history work anchors the city place-premium segment.
 - [Andy Stalman](entities/AndyStalman.md) — Branding strategist and entrepreneur whose Tomorrow Today interview frames brand as identity, behavior, culture, AI readiness, and human meaning.
-- [Shekhar Natarajan](entities/ShekharNatarajan.md) — Tomorrow Today host connecting guest biography to institutions, inequality, leadership, authorship, cognition, and accountable AI.
-- [Tomorrow Today](entities/TomorrowToday.md) — Long-form podcast joining biography to business, resilience, spirituality, institutions, creative labor, inequality, AI, and human meaning.
+- [Shekhar Natarajan](entities/ShekharNatarajan.md) — Tomorrow Today host connecting guest biography to survival, institutions, inequality, leadership, authorship, cognition, and accountable AI.
+- [Tomorrow Today](entities/TomorrowToday.md) — Long-form podcast joining biography to business, resilience, survival, spirituality, institutions, creative labor, inequality, AI, and human meaning.
 - [Araceli Segarra](entities/AraceliSegarra.md) — Mountaineer and Tomorrow Today guest whose Everest account connects fear, uncertainty, team trust, rescue, resilience, and AI-era judgment.
 - [Shyalpa Rinpoche](entities/ShyalpaRinpoche.md) — Tibetan Buddhist teacher and Tomorrow Today guest whose interview links exile, lineage, Dzogchen, karma, peace-building, and compassionate AI.
 - [Chhatral Rinpoche](entities/ChhatralRinpoche.md) — Dzogchen master named as Shyalpa Rinpoche's principal teacher and lineage anchor.
@@ -16511,6 +16512,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Elizabeth “Tetty” Porter](entities/ElizabethPorter.md) — Samuel Johnson’s wife, whose affection and resources supported his failed school and whose death deepened his loneliness.
 - [David Garrick](entities/DavidGarrick.md) — Johnson’s pupil and London traveling companion who became a celebrated actor and theatrical intermediary.
 - [A Dictionary of the English Language](entities/DictionaryOfTheEnglishLanguage.md) — Johnson’s collaborative lexicographical project and a test case in labor, fame, and disputed patronage.
+- [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
 - [Crisis Surrender Stabilization / 危机受降稳控](concepts/CrisisSurrenderStabilization.md) — 通过威慑、选择性奖赏、借力执行、分离首领与迅速迁移，把尚可反复的武装归降转为可控移动。

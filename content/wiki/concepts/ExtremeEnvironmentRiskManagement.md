@@ -8,7 +8,8 @@ sources:
   - e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f
   - default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757
   - the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099
-last_updated: 2026-09-02
+  - default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195
+last_updated: 2026-10-07
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,7 +21,9 @@ Extreme environment risk management is the discipline of making decisions when t
 ## Current Synthesis
 Across the bounded sources, extreme environments are not romantic backdrops. They are live systems that keep updating the decision problem. Outdoor enthusiasts need light, batteries, GPS, water, layered clothing, tested shoes, helmet details, route awareness, and the humility to stop. Ice-road trucking adds visibility, steep passes, radio warnings, rescue memory, supplies, and mutual aid. Ultrarail, desert, sailing, and high-altitude examples add body-signal interpretation, captain authority, team trust, water shortage, and cognition failure.
 
-The Everest and wingsuit/base-jump sources sharpen the same rule at higher consequence. The Everest case makes return, rescue, oxygen, tents, food, and team obligation part of success. [[AndyStumpf]]'s wingsuiting account adds a mechanical risk boundary: a zero-airspeed exit, ram-air inflation, one parachute in base jumping, and the first seconds after leaving a fixed object can leave very little room for correction. The current synthesis is that survival is not itself proof of skill; risk judgment must ask whether a person truly executed or merely got away with it.
+The Everest and wingsuit/base-jump sources sharpen the same rule at higher consequence. The Everest case makes return, rescue, oxygen, tents, food, and team obligation part of success. [[AndyStumpf]]'s wingsuiting account adds a mechanical risk boundary: a zero-airspeed exit, ram-air inflation, one parachute in base jumping, and the first seconds after leaving a fixed object can leave very little room for correction. [[AlvaroVizcaino|Álvaro Vizcaíno]] adds a survival-after-failure case: an impulsive route choice and cliff fall remove normal planning, leaving injury, currents, tides, dehydration, temperature, hallucination, found water, and uncertain rescue to redefine the available options.
+
+The current synthesis is that survival is not itself proof of skill, and improvisation after catastrophe does not retroactively validate the decision that produced exposure. Honest risk judgment separates prevention, emergency adaptation, luck, and rescue rather than compressing them into one heroic outcome.
 
 ## Key Claims
 - Preparation is part of performance because equipment, route knowledge, warmth, food, light, oxygen, parachute configuration, and rescue options shape what actions remain available.
@@ -29,7 +32,7 @@ The Everest and wingsuit/base-jump sources sharpen the same rule at higher conse
 - Team trust, role clarity, and authority matter because ambiguity becomes costly under fear, injury, exhaustion, storm pressure, or rescue demands.
 - A good risk frame distinguishes danger from risk and treats uncertainty as manageable but not erasable.
 - Success includes survival, recovery, return, and honest postmortem; reaching a summit, route, jump line, race finish, or delivery point is not enough by itself.
-- Early success can conceal incompetence when survival is mistaken for mastery.
+- Early success or dramatic survival can conceal poor judgment when emergency adaptation, luck, or rescue is mistaken for mastery.
 
 ## Evidence
 - Preparation and equipment: [[ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo]] grounds outdoor safety in headlamps, batteries, GPS, water, layered clothing, tested shoes and socks, helmet details, and stopping decisions; [[default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757]] adds oxygen, tents, food, camera loads, acclimatization, and summit-window readiness.
@@ -39,13 +42,14 @@ The Everest and wingsuit/base-jump sources sharpen the same rule at higher conse
 - Rescue and mutual aid: [[84-binglu-kuanghua-hao-guniang-ni-zhishi-wangle-yonggan-699443676]] shows ice-road labor mutual aid through supplies and rescue practice, while [[default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757]] shows an expedition spending summit resources on distressed climbers and a helicopter evacuation.
 - Wingsuit mechanics: [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]] explains ram-air inflation, arm and leg wings, the difference between skydiving reserve systems and base-jump one-parachute practice, and the danger of the first seconds after a zero-airspeed fixed-object exit.
 - Survival versus mastery: [[the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099]] links high-risk fatalities to the Dunning-Kruger phase where a person may confuse getting away with something for actually mastering the risk.
+- Survival after plan failure: [[default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195]] records an impulsive descent, cliff fall, severe injury, exposure, hallucination, improvised water access, return to the ocean, and eventual rescue.
 
 ## Counterevidence & Qualifications
-The sources are episodic accounts, not technical safety manuals. Their strongest shared claim is qualitative: risk discipline must stay responsive to environment, body, equipment, mechanics, timing, and team signals. Exact protocols depend on the activity, altitude, vehicle, aircraft or parachute system, route, weather, and available rescue infrastructure.
+The sources are episodic accounts, not technical safety manuals. Their strongest shared claim is qualitative: risk discipline must stay responsive to environment, body, equipment, mechanics, timing, and team signals. Exact protocols depend on the activity, altitude, vehicle, aircraft or parachute system, route, weather, and available rescue infrastructure. Vizcaíno's distances, duration, injury details, found-water story, current reading, and altered state remain first-person claims; neither survival nor a matching visualization establishes a transferable emergency method.
 
 ## What Changed
-- Added Stumpf's wingsuit and base-jump mechanics as a low-margin aerial-risk branch.
-- Clarified that surviving a high-risk event is not enough evidence of competence without honest postmortem and preparation.
+- Added a survival-after-plan-failure case in which injury, exposure, hydration, cognition, current, and rescue options repeatedly change.
+- Separated emergency adaptation, luck, and rescue from retrospective validation of the initiating risk choice.
 
 ## Related Concepts
 - [[OutdoorSafetyPreparation]] - ordinary enthusiast safety layer for equipment, routes, weather, and stopping.
@@ -55,3 +59,4 @@ The sources are episodic accounts, not technical safety manuals. Their strongest
 - [[TrainedIntuition]] - fast judgment becomes useful only after training, exposure, and feedback.
 - [[EmbodiedJudgment]] - body, fatigue, oxygen, emotion, and adrenaline become part of the decision system.
 - [[ExpeditionTeamTrust]] - team-trust branch where safety depends on communication, belonging, and rescue behavior.
+- [[RadicalAcceptanceChronicStress]] - response-reallocation counterpart when part of the physical situation cannot be changed.

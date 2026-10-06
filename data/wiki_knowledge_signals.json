@@ -5970,9 +5970,9 @@
       "url": "/wiki/concepts/actingopportunityreadiness/"
     },
     "ActionAfterAdversity": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2090153799 [SCIM2090153799].md",
@@ -5994,9 +5994,16 @@
           "show": "Huberman Lab",
           "title": "How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink",
           "url": "/wiki/sources/how-to-become-resilient-forge-your-identity-lead-others-jocko-willink-scim5755591173/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195 [default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195].md",
+          "key": "default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195",
+          "show": "Tomorrow, Today",
+          "title": "Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195/"
         }
       ],
-      "updated": "2026-09-29",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/actionafteradversity/"
     },
     "ActionBackedAntiCorruptionPersuasion": {
@@ -11317,6 +11324,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/alvarocunhal/"
+    },
+    "AlvaroVizcaino": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195 [default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195].md",
+          "key": "default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195",
+          "show": "Tomorrow, Today",
+          "title": "Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/alvarovizcaino/"
     },
     "AlzheimerEarlyDetectionDiagnosis": {
       "episode_count": 1,
@@ -67411,9 +67434,9 @@
       "url": "/wiki/entities/emmyawards/"
     },
     "EmotionAcceptanceSignalAction": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力 [lkCMj80qYw-uDuHIJFxudUFQBoaf].md",
@@ -67421,9 +67444,16 @@
           "show": "十字路口Crossing",
           "title": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力",
           "url": "/wiki/sources/ai-shidai-women-daodi-gai-xue-shenme-duitan-yuhong-sanzhong-buhui-guoshi-de-nengli-lkcmj80qyw-uduhijfxudufqboaf/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195 [default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195].md",
+          "key": "default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195",
+          "show": "Tomorrow, Today",
+          "title": "Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195/"
         }
       ],
-      "updated": "2026-09-28",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/emotionacceptancesignalaction/"
     },
     "EmotionAttentionalCapture": {
@@ -74793,9 +74823,9 @@
       "url": "/wiki/concepts/extracellularagingenzymetherapy/"
     },
     "ExtremeEnvironmentRiskManagement": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 5,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "EP250 走进山野，顺流而上：寻找户外运动中的心流时刻 [lpV4EGUMBXCJRxK3jYPehYXcqFUo].md",
@@ -74831,9 +74861,16 @@
           "show": "Huberman Lab",
           "title": "The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf",
           "url": "/wiki/sources/the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195 [default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195].md",
+          "key": "default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195",
+          "show": "Tomorrow, Today",
+          "title": "Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/extremeenvironmentriskmanagement/"
     },
     "ExtremistElectoralMachine": {
@@ -186169,9 +186206,9 @@
       "url": "/wiki/concepts/racializedancestralclaimmaking/"
     },
     "RadicalAcceptanceChronicStress": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -186179,9 +186216,16 @@
           "show": "Huberman Lab",
           "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
           "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195 [default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195].md",
+          "key": "default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195",
+          "show": "Tomorrow, Today",
+          "title": "Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/radicalacceptancechronicstress/"
     },
     "RadiographerClinicalResponsibility": {
@@ -202184,9 +202228,9 @@
       "url": "/wiki/entities/sheikhjarrah/"
     },
     "ShekharNatarajan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -202229,9 +202273,16 @@
           "show": "Tomorrow, Today",
           "title": "India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195 [default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195].md",
+          "key": "default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195",
+          "show": "Tomorrow, Today",
+          "title": "Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/shekharnatarajan/"
     },
     "ShellShock": {
@@ -223609,9 +223660,9 @@
       "url": "/wiki/entities/tomoegozen/"
     },
     "TomorrowToday": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -223654,9 +223705,16 @@
           "show": "Tomorrow, Today",
           "title": "India's Gig Economy, Education & The Future of Work | Chetan Bhagat | Tomorrow Today",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559-default-mp3-ywr3ahjkcgo-fe4d0dc018bd4482039d4a6798e610cf-124292559/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195 [default.mp3_ywr3ahjkcgo_792e9a27d82b8b37f064c20b7e739707_100007195].md",
+          "key": "default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195",
+          "show": "Tomorrow, Today",
+          "title": "Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/tomorrowtoday/"
     },
     "TongChenjie": {

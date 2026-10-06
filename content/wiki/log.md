@@ -30904,3 +30904,11 @@ Added source `zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-huny
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today
+
+Added source `default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195`; created [[AlvaroVizcaino|Álvaro Vizcaíno]]; and resynthesized [[TomorrowToday]], [[ShekharNatarajan]], [[RadicalAcceptanceChronicStress]], [[EmotionAcceptanceSignalAction]], [[ActionAfterAdversity]], and [[ExtremeEnvironmentRiskManagement]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: accepting an immovable condition can release attention for remaining action, fear can inform without holding final authority, and an overwhelming task can contract to the next metre without guaranteeing the outcome. No settled contradiction was adopted. The source's surrender-versus-acceptance terminology remains internally tense, while the duration, distances, injuries, water bottle, altered state, visualization, rescue mechanics, spiritual meaning, and “no Plan B” generalization remain first-person or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,864 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
