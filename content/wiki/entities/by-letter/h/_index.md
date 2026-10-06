@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12557
+wiki_total_pages: 12559
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1607,6 +1607,9 @@ wiki_pages:
   - key: "HengfuHistoricDistrict"
     title: "衡复风貌区 / Hengfu Historic District"
     url: "/wiki/entities/hengfuhistoricdistrict/"
+  - key: "HengshanKingdomWesternHan"
+    title: "衡山国 / Hengshan Kingdom (Western Han)"
+    url: "/wiki/entities/hengshankingdomwesternhan/"
   - key: "Haoda"
     title: "豪大"
     url: "/wiki/entities/haoda/"

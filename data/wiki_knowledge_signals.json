@@ -21073,6 +21073,22 @@
       "updated": "2026-10-05",
       "url": "/wiki/entities/baitouyin/"
     },
+    "BaiYingHengshan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国 [lkkfwVjhKfXCR1rHrOIGrpBdMH2Q].md",
+          "key": "zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/baiyinghengshan/"
+    },
     "Baidu": {
       "episode_count": 11,
       "show_count": 7,
@@ -77867,9 +77883,9 @@
       "url": "/wiki/entities/fauda/"
     },
     "FavoriteDrivenHeirDisplacement": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -77905,6 +77921,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国 [lkkfwVjhKfXCR1rHrOIGrpBdMH2Q].md",
+          "key": "zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q/"
         }
       ],
       "updated": "2026-10-07",
@@ -101961,6 +101984,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/hengfuhistoricdistrict/"
+    },
+    "HengshanKingdomWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国 [lkkfwVjhKfXCR1rHrOIGrpBdMH2Q].md",
+          "key": "zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/hengshankingdomwesternhan/"
     },
     "Henoko": {
       "episode_count": 1,
@@ -136039,9 +136078,9 @@
       "url": "/wiki/entities/liuchonglatehanminister/"
     },
     "LiuCiHengshanKingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？ [ljbwEGjf-HVe9we3gq0MrbiPjVNP].md",
@@ -136049,6 +136088,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国 [lkkfwVjhKfXCR1rHrOIGrpBdMH2Q].md",
+          "key": "zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q/"
         }
       ],
       "updated": "2026-10-07",
@@ -137489,9 +137535,9 @@
       "url": "/wiki/entities/liushengzhongshankingwesternhan/"
     },
     "LiuShuangHengshanCrownPrince": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？ [ljbwEGjf-HVe9we3gq0MrbiPjVNP].md",
@@ -137499,6 +137545,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国 [lkkfwVjhKfXCR1rHrOIGrpBdMH2Q].md",
+          "key": "zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q/"
         }
       ],
       "updated": "2026-10-07",
@@ -137920,9 +137973,9 @@
       "url": "/wiki/entities/liuxiangfuprincesswesternhan/"
     },
     "LiuXiaoHengshanPrince": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？ [ljbwEGjf-HVe9we3gq0MrbiPjVNP].md",
@@ -137930,6 +137983,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国 [lkkfwVjhKfXCR1rHrOIGrpBdMH2Q].md",
+          "key": "zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q/"
         }
       ],
       "updated": "2026-10-07",
@@ -244582,9 +244642,9 @@
       "url": "/wiki/entities/xujinglatehan/"
     },
     "XuLaiHengshanQueen": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？ [ljbwEGjf-HVe9we3gq0MrbiPjVNP].md",
@@ -244592,6 +244652,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国 [lkkfwVjhKfXCR1rHrOIGrpBdMH2Q].md",
+          "key": "zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q/"
         }
       ],
       "updated": "2026-10-07",

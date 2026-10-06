@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国](sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q.md) — 衡山王室的夺嫡、性勒索与父子互告暴露谋反准备，最终导致主要成员被赐死、封国被废。
 - [《资治通鉴·汉纪》306-1｜绿茶婊鼻祖拜见汉武帝！](sources/zizhi-tongjian-hanji-306-1-lvchabiao-bizu-baijian-hanwudi-lnruo3m6ahmj5z8k7uu0vlxlapje.md) — 淮南、衡山大狱后的大赦被质疑为杀戮后的仁慈表演；七岁刘据获立太子稳定继承，滇国则仅获地理引介，标题所称会面尚未展开。
 - [《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？](sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp.md) — 衡山王刘赐家中由继后、宠妾、太子与兄妹矛盾形成反太子联盟；人物转录错误与标题所示后续行动均保留来源边界。
 - [649. The Fall of the Incas: The Last Emperor (Part 6)](sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064.md) — The Pizarro-Almagro civil war, Manco Inca's Vilcabamba resistance, colonial forced labor and demographic catastrophe, and the 1572 execution of Túpac Amaru I.
@@ -3950,10 +3951,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today](sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195.md) — Tomorrow Today interview on a cliff-fall survival ordeal, acceptance without passivity, fear as information, one-metre action, self-trust, and the limits of “no Plan B.”
 
 ## Entities
-- [衡山王刘赐 / Liu Ci, King of Hengshan (Western Han)](entities/LiuCiHengshanKingWesternHan.md) — 外有朝廷权力冲突、内有继后与子女夺嫡失控的西汉衡山王；转录“恒山王刘次”已按事件身份归一。
-- [衡山太子刘爽 / Liu Shuang, Crown Prince of Hengshan](entities/LiuShuangHengshanCrownPrince.md) — 因巫蛊指控、刺伤继后兄长及兄妹决裂而陷入孤立的衡山国既定太子。
-- [衡山王后徐来 / Xu Lai, Queen of Hengshan](entities/XuLaiHengshanQueen.md) — 为亲子刘广谋求继承并联合刘孝、刘无采反对太子刘爽的继后。
-- [衡山王子刘孝 / Liu Xiao, Prince of Hengshan](entities/LiuXiaoHengshanPrince.md) — 借反太子联盟谋求储位、却与徐来继承目标冲突的衡山王子。
+- [白盈 / Bai Ying (Hengshan Crown Prince's Associate)](entities/BaiYingHengshan.md) — 为刘爽提出勾引继母之策、又替被囚太子向朝廷传递谋反指控的衡山门客。
+- [衡山国 / Hengshan Kingdom (Western Han)](entities/HengshanKingdomWesternHan.md) — 因王室互告暴露谋反准备而被朝廷查办、废除的西汉封国，与先秦恒山国明确区分。
+- [衡山王刘赐 / Liu Ci, King of Hengshan (Western Han)](entities/LiuCiHengshanKingWesternHan.md) — 将夺嫡、囚子与武器准备混为一体，最终因父子互告而失国的西汉衡山王。
+- [衡山太子刘爽 / Liu Shuang, Crown Prince of Hengshan](entities/LiuShuangHengshanCrownPrince.md) — 以失败的性反制和朝廷告发回应夺嫡压力，却与父弟及封国一同覆灭的既定太子。
+- [衡山王后徐来 / Xu Lai, Queen of Hengshan](entities/XuLaiHengshanQueen.md) — 一面借刘孝排挤刘爽、一面以性把柄控制刘孝，却未能让亲子刘广继位的继后。
+- [衡山王子刘孝 / Liu Xiao, Prince of Hengshan](entities/LiuXiaoHengshanPrince.md) — 从反太子盟友升为拟立储君和武器经手人，调查中又告发父王而未能自保的衡山王子。
 - [刘无采 / Liu Wucai (Hengshan Royal Daughter)](entities/LiuWucaiHengshanPrincess.md) — 因兄长干预私生活而决裂并被徐来吸纳进反太子阵营的衡山王女。
 - [厥姬 / Jue Ji (Hengshan Consort)](entities/JueJiHengshan.md) — 以未核实巫蛊指控激化太子刘爽与王后徐来冲突的衡山王宠妾。
 - [Manco Inca](entities/MancoInca.md) — Inca ruler who led resistance from Vilcabamba until his murder in 1544.
@@ -20736,7 +20739,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Author Admiration Power Risk](concepts/AuthorAdmirationPowerRisk.md) — Pattern where a powerful reader's admiration for a text draws the author into unsafe court politics.
 - [郑人买履 / Zheng Ren Mai Lv](concepts/ZhengRenMaiLv.md) — Han Fei parable warning that measurements and rules become absurd when they replace contact with concrete reality.
 - [Weak-State Mutual Predation / 弱国相争强国得利](concepts/WeakStateMutualPredation.md) — Pattern where endangered states fight each other and create openings for a stronger power, developed through Zhao-Yan-Qin and reinforced by drought-year Wei-Chu fragmentation.
-- [Favorite-Driven Heir Displacement / 宠幸驱动的废嫡立庶](concepts/FavoriteDrivenHeirDisplacement.md) — 既定太子因受宠伴侣的子嗣而被挑战的继承风险，现区分赵国完成改立、刘邦受阻尝试与衡山反太子联盟形成。
+- [Favorite-Driven Heir Displacement / 宠幸驱动的废嫡立庶](concepts/FavoriteDrivenHeirDisplacement.md) — 既定太子因受宠分支而被挑战的风险，区分赵国完成改立、刘邦受阻尝试与衡山各支互告后共同覆灭。
 - [Short Selling](concepts/ShortSelling.md) — Downside investing discipline that Loeb frames as fraud hunting and structural research rather than valuation-only negativity.
 - [Stock Picking](concepts/StockPicking.md) — Active individual-company selection that the Loeb source says now requires technology literacy, macro context, management judgment, and thematic understanding.
 - [Event-Driven Investing](concepts/EventDrivenInvesting.md) — Investment style around takeovers, spin-offs, bankruptcies, privatizations, demutualizations, and risk arbitrage, presented as early Third Point's original edge.

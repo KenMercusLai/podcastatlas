@@ -2,49 +2,57 @@
 title: "衡山王刘赐 / Liu Ci, King of Hengshan (Western Han)"
 type: entity
 knowledge_schema: synthesis-v1
-tags: [person, western-han, prince, hengshan, succession]
+tags: [person, western-han, prince, hengshan, succession, rebellion]
 sources:
   - zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp
+  - zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q
 last_updated: 2026-10-07
 ---
 
 ## Overview
 
-衡山王刘赐 / Liu Ci is the Western Han vassal king at the center of the household conflict introduced in Hanji 305-1. The episode links his resentment of reduced appointment power to a second vulnerability: he cannot contain the competing queen, consort, crown prince, and younger children inside his own family.
+衡山王刘赐 / Liu Ci is the Western Han vassal king whose external resentment and internal succession disorder converge in the destruction of his house. Hanji 305-1 introduces his inability to contain rival maternal branches; Hanji 305-2 says reciprocal denunciation by his sons exposes his weapons preparations, brings an imperial investigation, and ends the [[HengshanKingdomWesternHan|Hengshan kingdom]].
 
 ## Current Profile
 
-The source presents Liu Ci as impulsive and politically miscalibrated. He considers resistance to the central court without adequately weighing relative power, then allows household rumor and repeated denunciation to shape his view of crown prince [[LiuShuangHengshanCrownPrince|刘爽]]. His marriage to first queen 乘舒 produces 刘爽、[[LiuXiaoHengshanPrince|刘孝]]、[[LiuWucaiHengshanPrincess|刘无采]]; after her death, he raises [[XuLaiHengshanQueen|徐来]] to queen, intensifying competition among maternal branches.
+The two episodes present Liu Ci as impulsive, politically miscalibrated, and unable to separate household grievance from state security. He lets repeated allegations turn him against crown prince [[LiuShuangHengshanCrownPrince|刘爽]], confines the heir after a violent confrontation, then favors [[LiuXiaoHengshanPrince|刘孝]] and entrusts him with bows, arrows, and chariots. When Liu Shuang tries to report the alleged conspiracy, Liu Ci answers with an accusation of unfilial conduct rather than containing the underlying risk; Liu Xiao then accuses him as well.
 
 ## Key Characteristics
 
-- Western Han vassal king whose political resentment forms the episode's outer frame.
-- Household head unable to keep succession rivalry from escalating into reciprocal accusation and violence.
-- Father whose children and partners organize around incompatible claims to status, autonomy, and heirship.
-- Ruler increasingly turned against his established crown prince through repeated denunciation.
+- Western Han vassal king whose resentment of central control coexists with poor judgment of imperial power.
+- Household head who allows rumor, sexual accusation, and succession rivalry to determine political trust.
+- Father who confines one son, arms another, and becomes exposed through both sons' denunciations.
+- Alleged conspirator whose military preparations become discoverable because family authority collapses.
+- Final ruler in this source sequence before his kingdom is abolished.
 
 ## Evidence
 
 Political and household misjudgment:
-- [[zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp|Hanji 305-1]] says Liu Ci resents losing appointment authority, contemplates rebellion, and fails to assess both court strength and family risk.
+- [[zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp|Hanji 305-1]] says Liu Ci resents reduced appointment authority, contemplates resistance, and fails to assess both court strength and family disorder.
+- [[zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q|Hanji 305-2]] says accusations surrounding Xu Lai, Liu Shuang, Liu Xiao, and Liu Wucai repeatedly redirect his favor and punishment.
 
-Succession environment:
-- [[zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp|Hanji 305-1]] identifies Liu Shuang as crown prince, says Xu Lai wants her own son advanced, and describes Xu Lai, Liu Xiao, and Liu Wucai jointly denouncing Liu Shuang to the king.
+Succession and weapons exposure:
+- [[zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q|Hanji 305-2]] says he confines Liu Shuang, gives weapons production to Liu Xiao, petitions to change the heir, and is then accused of rebellion by both succession branches.
+
+Final disposition:
+- [[zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q|Hanji 305-2]] reports that the investigation ends in Liu Ci's ordered death and the kingdom's abolition.
 
 ## Qualifications
 
-This profile is bounded to one short episode that stops before the household case reaches its outcome. The transcript calls him “恒山王刘次”; the canonical page uses 衡山王刘赐 because the family names and event sequence align with that identity. The episode does not supply a complete reign, rebellion, investigation, chronology, or final disposition.
+These are two consecutive short episodes from one interpretive podcast series, not independent corroboration or a complete reign. Hanji 305-1's transcript calls him “恒山王刘次”; the canonical identity is normalized to 衡山王刘赐. The precise dates, rebellion plan, recruitment, weapons program, legal procedure, confessions, and punishment are source-attributed pending primary-text comparison. The host's claim that arrogance and carelessness fundamentally explain the failure is interpretation, not a settled psychological diagnosis.
 
 ## What Changed
 
-- Created a canonical, disambiguated Liu Ci page from the opening Hengshan household episode.
-- Separated external grievance from the internal succession disorder that weakens his position.
+- The profile now reaches the outcome: family denunciation exposes the alleged conspiracy and destroys Liu Ci's house.
+- Liu Ci's succession error is no longer only passive susceptibility; he confines Liu Shuang and gives Liu Xiao operational access to weapons production.
+- The earlier external grievance and household disorder now form one failure mechanism rather than parallel vulnerabilities.
 
 ## Relationships
 
-- [[LiuShuangHengshanCrownPrince|刘爽]] - established crown prince whom Liu Ci increasingly distrusts.
-- [[XuLaiHengshanQueen|徐来]] - later queen who presses against Liu Shuang.
-- [[LiuXiaoHengshanPrince|刘孝]] - younger son who wants the heirship.
-- [[LiuWucaiHengshanPrincess|刘无采]] - daughter drawn into the anti-heir alignment.
-- [[JueJiHengshan|厥姬]] - favored consort whose accusation helps ignite the conflict.
-- [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]] - mechanism by which a later favored branch pressures an established heir.
+- [[LiuShuangHengshanCrownPrince|刘爽]] - established crown prince whom Liu Ci confines and accuses after the son threatens disclosure.
+- [[LiuXiaoHengshanPrince|刘孝]] - favored replacement candidate and weapons manager who ultimately accuses his father.
+- [[XuLaiHengshanQueen|徐来]] - later queen whose succession maneuvering intensifies conflict between Liu Ci's sons.
+- [[LiuWucaiHengshanPrincess|刘无采]] - daughter whose private conduct becomes material in the household accusations.
+- [[JueJiHengshan|厥姬]] - favored consort whose earlier allegation helps ignite the conflict.
+- [[HengshanKingdomWesternHan|西汉衡山国]] - vassal kingdom whose abolition closes Liu Ci's rule.
+- [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]] - mechanism that destabilizes the established heir without producing a durable successor.

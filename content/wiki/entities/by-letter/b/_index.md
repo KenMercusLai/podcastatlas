@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12557
+wiki_total_pages: 12559
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1508,6 +1508,9 @@ wiki_pages:
   - key: "BaidengEncirclement"
     title: "白登之围 / Baideng Encirclement"
     url: "/wiki/entities/baidengencirclement/"
+  - key: "BaiYingHengshan"
+    title: "白盈 / Bai Ying (Hengshan Crown Prince's Associate)"
+    url: "/wiki/entities/baiyinghengshan/"
   - key: "BaiRaoLateHan"
     title: "白绕 / Bai Rao (late Han)"
     url: "/wiki/entities/bairaolatehan/"

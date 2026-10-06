@@ -31074,3 +31074,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国
+
+Added source `zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q`; created [[BaiYingHengshan|白盈]] and the disambiguated [[HengshanKingdomWesternHan|西汉衡山国]]; and resynthesized [[LiuCiHengshanKingWesternHan|衡山王刘赐]], [[LiuShuangHengshanCrownPrince|刘爽]], [[XuLaiHengshanQueen|徐来]], [[LiuXiaoHengshanPrince|刘孝]], and [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: the unstable anti-Liu Shuang coalition becomes a destructive non-settlement in which Xu Lai compromises Liu Xiao while preferring Liu Guang, Liu Ci tries to promote and arm Liu Xiao, and reciprocal denunciations expose the alleged conspiracy; no successor becomes secure, the principal household members are ordered to die, and the kingdom is abolished. No settled contradiction was adopted. Dates, sexual allegations, dialogue, weapons activity, confession procedure, imperial opportunism, punishments, moral causation, and the precise administrative conversion to 衡山郡 remain source-scoped; “徐姬” and “吴采” are normalized in context to [[XuLaiHengshanQueen|徐来]] and [[LiuWucaiHengshanPrincess|刘无采]]. Broad [[HanWudi]] and series pages were kept closed because focused pages capture the bounded addition without rewriting their much larger evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,885 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
