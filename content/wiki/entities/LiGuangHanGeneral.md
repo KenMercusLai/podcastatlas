@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk
   - zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1
   - zizhi-tongjian-hanji-325-2-liguang-weihe-hui-zisha-ta-fanle-shenme-cuo-lsrkaep1np1bugqae8ujie2ttqpe
+  - zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq
 last_updated: 2026-10-06
 ---
 
@@ -21,7 +22,7 @@ Hanji 380-1 and 377-1 present Li Guang mainly through Li Ling. His fame and mart
 
 [[zizhi-tongjian-hanji-325-2-liguang-weihe-hui-zisha-ta-fanle-shenme-cuo-lsrkaep1np1bugqae8ujie2ttqpe|Hanji 325-2]] expands that ending. It says Li Guang is moved from the vanguard to an eastern route with [[ZhaoShiqiWesternHan|赵食其]], the contingent lacks a guide, becomes lost in the desert, and misses both the main battle and its rendezvous with Wei Qing. When headquarters requests an explanation, Li Guang clears his subordinate officers, accepts that he lost the route, and dies rather than face questioning in his sixties. The host suspects that the guide was deliberately removed and that the reassignment concealed a political maneuver, but explicitly lacks enough evidence to establish either claim.
 
-The same episode adds the command relationship behind Li Guang's reputation. He distributes rewards, shares ordinary food and living conditions, waits for soldiers to drink and eat before doing so himself, and reportedly leaves little wealth. The army's and public's grief is therefore read as an outcome of visible burden-sharing as well as martial fame.
+The same episode adds the command relationship behind Li Guang's reputation. He distributes rewards, shares ordinary food and living conditions, waits for soldiers to drink and eat before doing so himself, and reportedly leaves little wealth. The army's and public's grief is therefore read as an outcome of visible burden-sharing as well as martial fame. [[zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq|Hanji 325-1]] reinforces that reputation through Sima Qian's “桃李不言，下自成蹊” appraisal, but functions mainly as a cliffhanger; Hanji 325-2 supplies the actual final-campaign account.
 
 ## Key Characteristics
 
@@ -34,6 +35,7 @@ The same episode adds the command relationship behind Li Guang's reputation. He 
 ## Evidence
 
 Family reputation:
+- [[zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq|Hanji 325-1]] invokes “桃李不言，下自成蹊” to frame Li Guang's durable moral and popular reputation before turning to Wei Qing's battle.
 - [[zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89|Hanji 380-1]] identifies Li Ling as Li Guang's grandson and frames Li Guang as a famed general.
 - [[zizhi-tongjian-hanji-377-1-liling-qingzhan-xiongnu-hanwudi-weihe-buyuan-ta-dang-qianfeng-lttki-nkmyzvt3q1wxomv0-hpmmk|Hanji 377-1]] compares Li Ling's riding, archery, treatment of soldiers, desire for battle, courage, and ill fortune with Li Guang.
 
@@ -50,13 +52,12 @@ Intergenerational consequence:
 
 ## Qualifications
 
-These four compact podcast sources do not reconstruct Li Guang's complete campaigns, the full Shiji and Hanshu traditions, the reasons he never received a marquisate, or his later literary reception. Hanji 325-2 strengthens the route-failure and shared-hardship portrait but does not prove that [[HanWudi|汉武帝]] or Wei Qing intended Li Guang's failure, that a guide was killed or removed, or that [[SimaQian|司马迁]] encoded a suppressed accusation through the “no guide” detail. The exact route, office language, ages, battle totals, archery description, legal exposure, dialogue, and scale of mourning remain source-scoped. Hanji 377-1's genetics-and-fate opening is a narrative device rather than evidence of inherited destiny.
+These five compact podcast sources do not reconstruct Li Guang's complete campaigns, the full Shiji and Hanshu traditions, the reasons he never received a marquisate, or his later literary reception. Hanji 325-1 repeats the reputation and suicide frame but does not add evidence for why Li Guang died. Hanji 325-2 strengthens the route-failure and shared-hardship portrait but does not prove that [[HanWudi|汉武帝]] or Wei Qing intended failure, that a guide was killed or removed, or that [[SimaQian|司马迁]] encoded a suppressed accusation through the “no guide” detail. The exact route, office language, ages, battle totals, archery description, legal exposure, dialogue, and scale of mourning remain source-scoped. Hanji 377-1's genetics-and-fate opening is a narrative device rather than evidence of inherited destiny.
 
 ## What Changed
 
-- Expanded the compressed final-campaign account into reassignment, absent guide, route loss, missed rendezvous, command inquiry, and accepted responsibility.
-- Added shared rewards and bodily hardship as the clearest source-backed explanation for Li Guang's soldier loyalty.
-- Kept deliberate guide removal, political maneuvering, and Wei Qing or Wudi culpability as unresolved speculation rather than current judgment.
+- Added Hanji 325-1's Sima Qian appraisal as reinforcement for Li Guang's moral and popular reputation.
+- Preserved Hanji 325-2, rather than the new cliffhanger, as the substantive evidence for his final campaign and death.
 
 ## Relationships
 

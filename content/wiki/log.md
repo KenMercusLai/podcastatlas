@@ -30673,3 +30673,11 @@ Added source `zizhi-tongjian-hanji-326-2-shenjiang-huoqubing-shi-shui-jiao-chula
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？
+
+Added source `zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq` and resynthesized [[WeiQingHanGeneral|卫青]], [[LiGuangHanGeneral|李广]], [[MobeiBattleWesternHan|漠北之战]], and [[CommandContinuityDamageControl|统帅连续性危机处置]] from their complete preserved evidence inventories. Core synthesis: Wei Qing's western Mobei arm joins two-wing pressure, night pursuit, and exploitation of the chanyu's flight, while the latter's disappearance converts battlefield command loss into troop dispersal and a brief succession disturbance. The chanyu escapes and returns, so the source supports a major military-political shock rather than literal destruction of Xiongnu power. No settled contradiction was adopted. Casualty totals, pursuit distance, place rendering, supplies burned, the chanyu's psychology, disappearance duration, temporary claimant identity, and exact dialogue remain episode-attributed; Hanji 325-1's Li Guang material is treated as reputation framing, with Hanji 325-2 retaining the substantive account of his death. The broad [[Xiongnu|匈奴]] page was read for context but not reopened because the bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,835 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

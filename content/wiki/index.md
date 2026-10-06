@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？](sources/zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq.md) — 卫青以两翼包抄和连夜追击击溃单于本部；单于逃脱引发军心与短暂继承震荡，但兵力、战果及心理因果仍保留来源边界。
 - [《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！](sources/zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3.md) — 霍去病在漠北东路击溃左贤王、封狼居胥并远追北方；战果改变匈奴南部格局，但战马巨损也限制汉军继续大举进攻。
 - [《资治通鉴·汉纪》326-2｜神将霍去病是谁教出来的？](sources/zizhi-tongjian-hanji-326-2-shenjiang-huoqubing-shi-shui-jiao-chulai-de-lut_0gh7nistf1td8pb_1nmzv6mv.md) — 从卫氏兴起、宫中亲近与骑射天赋解释霍去病的机会，并把其晋升理解为对卫青军权的制衡；亲传教学、派系敌对与平阳公主态度均保留为来源推测。
 - [《资治通鉴·汉纪》325-2｜李广为何会自杀？他犯了什么错？](sources/zizhi-tongjian-hanji-325-2-liguang-weihe-hui-zisha-ta-fanle-shenme-cuo-lsrkaep1np1bugqae8ujie2ttqpe.md) — 李广与赵食其因无向导而迷路、错过漠北主战并面临审讯；李广承担责任后自杀，其爱兵声望有具体物质基础，而向导被人为移除和政治谋划仍属节目推测。

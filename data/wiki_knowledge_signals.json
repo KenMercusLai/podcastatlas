@@ -44293,9 +44293,9 @@
       "url": "/wiki/concepts/commandauthoritybottleneck/"
     },
     "CommandContinuityDamageControl": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭 [lhs6miq2aA3AvnnY_pRxTVKfxGvY].md",
@@ -44324,9 +44324,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？ [lkt-_JEfjsDyijoZqXqnH2OD9LIQ].md",
+          "key": "zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/commandcontinuitydamagecontrol/"
     },
     "CommandCreditMisattribution": {
@@ -130780,9 +130787,9 @@
       "url": "/wiki/entities/ligulatehan/"
     },
     "LiGuangHanGeneral": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
@@ -130811,6 +130818,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》325-2｜李广为何会自杀？他犯了什么错？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-325-2-liguang-weihe-hui-zisha-ta-fanle-shenme-cuo-lsrkaep1np1bugqae8ujie2ttqpe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？ [lkt-_JEfjsDyijoZqXqnH2OD9LIQ].md",
+          "key": "zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq/"
         }
       ],
       "updated": "2026-10-06",
@@ -153263,9 +153277,9 @@
       "url": "/wiki/entities/moacirbarbosa/"
     },
     "MobeiBattleWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！ [lujPi26BAmJUOJMxo0U2LBJyiiH3].md",
@@ -153273,6 +153287,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？ [lkt-_JEfjsDyijoZqXqnH2OD9LIQ].md",
+          "key": "zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq/"
         }
       ],
       "updated": "2026-10-06",
@@ -233870,9 +233891,9 @@
       "url": "/wiki/entities/weiqiansanlian/"
     },
     "WeiQingHanGeneral": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -233936,6 +233957,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》325-2｜李广为何会自杀？他犯了什么错？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-325-2-liguang-weihe-hui-zisha-ta-fanle-shenme-cuo-lsrkaep1np1bugqae8ujie2ttqpe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？ [lkt-_JEfjsDyijoZqXqnH2OD9LIQ].md",
+          "key": "zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》325-1｜卫青如何一战打断匈奴的脊梁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq/"
         }
       ],
       "updated": "2026-10-06",

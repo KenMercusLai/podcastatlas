@@ -7,7 +7,8 @@ sources:
   - zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d
   - zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz
   - zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq
+last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,7 +22,7 @@ The concept now has nonfatal injury, rumored leader-death, fatal succession, and
 
 The battlefield-assassination case in [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] shows continuity work under lethal pressure. [[LaiXiEasternHan|Lai Xi]] is fatally wounded by an assassin sent after [[HuanAnEasternHan|Huan An]]'s command-targeting proposal. Instead of letting Gai Yan's panic set the army's tone, Lai Xi summons him, stops the weeping, assigns military affairs, writes a final memorial, recommends a blunt official, and only then removes the blade and dies.
 
-The added Eastern Han cases clarify that continuity work can occur before formal successor appointment. Wu Han's case uses a possible replacement figure to stop rumor-driven dispersal before Liu Xiu reappears, while [[LiuXiu|Liu Xiu]] later appoints [[MaChengEasternHan|Ma Cheng]] to succeed Lai Xi only after Lai Xi's immediate tent-level handoff has preserved current operations.
+The added Eastern Han cases clarify that continuity work can occur before formal successor appointment. Wu Han's case uses a possible replacement figure to stop rumor-driven dispersal before Liu Xiu reappears, while [[LiuXiu|Liu Xiu]] later appoints [[MaChengEasternHan|Ma Cheng]] to succeed Lai Xi only after Lai Xi's immediate tent-level handoff has preserved current operations. [[zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq|Hanji 325-1]] supplies the negative control: the Xiongnu chanyu flees the Mobei battlefield without a visible handoff, and the troops left behind scatter after learning that command presence has disappeared. A later temporary claimant addresses political vacancy only after the battlefield collapse and relinquishes the title when the chanyu returns.
 
 ## Key Claims
 
@@ -31,7 +32,7 @@ The added Eastern Han cases clarify that continuity work can occur before formal
 - When the leader is dying, the key move shifts from concealment to rapid succession performance.
 - A fatally wounded commander can still perform field-level continuity by stopping panic, delegating authority, and writing final instructions before death.
 - Formal successor appointment can come after immediate continuity work has already stabilized the command.
-- The pattern follows [[LeaderPersonalExposure|领导者轻身涉险]] when exposed movement or combat creates damage to the command center.
+- The absence of concealment, proxy presence, or handoff can turn a leader's flight into rapid morale collapse even before succession is politically resolved.
 
 ## Evidence
 
@@ -43,18 +44,17 @@ The added Eastern Han cases clarify that continuity work can occur before formal
 - Court-level replacement: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] says Liu Xiu grieves over Lai Xi's final memorial and appoints Ma Cheng to continue the command.
 - Rumored leader-death control: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] shows Wu Han stopping Liu Xiu's army from scattering after Shunshui by projecting a remaining Liu-family continuity option.
 - Recovery bridge: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] then has Liu Xiu regroup and resume operations, so the continuity signal functions as a bridge between temporary disappearance and restored command.
+- Failed battlefield continuity: [[zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq|Hanji 325-1]] says the chanyu's flight becomes known through a captive and causes the remaining Xiongnu force to lose resistance and disperse.
+- Delayed political substitution: [[zizhi-tongjian-hanji-325-1-weiqing-ruhe-yizhan-daduan-xiongnu-de-jiliang-lkt-_jefjsdyijozqxqnh2od9liq|Hanji 325-1]] reports a brief rival claim during the chanyu's longer disappearance, which does not retroactively stabilize the lost battle.
 
 ## Counterevidence & Qualifications
 
-Concealment, rumor control, visible succession, and field-command handoff are different tools and should not be merged mechanically. Liu Bang's case preserves the existing leader's authority; Wu Han's case projects a fallback without actually transferring command; Sun Ce's case transfers authority to a successor and staff team; Lai Xi's case stabilizes the army before formal court replacement. Hanji 675 proves that the rumor did not dissolve Liu Xiu's army, but it does not identify Liu Yan's son beyond the episode's continuity signal. Hanji 710 proves that the assassination did not immediately dissolve command, but it does not reconstruct every later western-front decision made by Ma Cheng or Gai Yan.
+Concealment, rumor control, visible succession, field-command handoff, and outright flight are different conditions and should not be merged mechanically. Liu Bang preserves his own authority; Wu Han projects a fallback without transferring command; Sun Ce transfers authority to a successor and staff team; Lai Xi stabilizes the army before formal court replacement. Hanji 325-1 offers an inverse case, but it does not prove the chanyu's inner state, exact flight timing, troop-response uniformity, or the temporary claimant's identity and constitutional significance. Hanji 675 does not identify Liu Yan's son beyond the episode's continuity signal, and Hanji 710 does not reconstruct every later western-front decision made by Ma Cheng or Gai Yan.
 
 ## What Changed
 
-- Added Hanji 1045 as a fatal-successor case alongside Liu Bang's nonfatal wound concealment.
-- Migrated the page to synthesis-v1 and broadened the concept from injury masking to command continuity after incapacity.
-- Added Hanji 710 as a fatal field-command handoff case after Lai Xi's assassination wound.
-- Distinguished immediate camp-level stabilization from later formal successor appointment.
-- Added Hanji 675 as a rumor-driven leader-disappearance case grounded by Wu Han after Liu Xiu's Shunshui defeat.
+- Added the Mobei chanyu flight as a negative case: command disappearance becomes known and the force disperses.
+- Distinguished delayed political substitution from immediate battlefield continuity; the former cannot repair an already collapsed command situation.
 
 ## Related Concepts
 
@@ -68,3 +68,4 @@ Concealment, rumor control, visible succession, and field-command handoff are di
 - [[LaiXiEasternHan|来歙]] - grounding actor because his deathbed instructions show field-level continuity before court replacement.
 - [[WuHanEasternHan|吴汉]] - grounding actor because he prevents army dispersal during rumors of Liu Xiu's death.
 - [[LiuXiu|刘秀]] - leader whose temporary disappearance after Shunshui activates the continuity crisis in Hanji 675.
+- [[MobeiBattleWesternHan|漠北之战]] - failure case in which the chanyu's flight is not masked or bridged by a visible deputy.
