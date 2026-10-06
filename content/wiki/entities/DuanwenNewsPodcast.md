@@ -11,13 +11,14 @@ sources:
   - niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19
   - google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594
   - ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b
-last_updated: 2026-09-30
+  - gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662
+last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
 # 端闻 / 端传媒新闻播客
 
 ## Overview
-[[DuanwenNewsPodcast]] is the news podcast credited in source metadata for episodes on the 旺旺 cross-border animal-protection response, a reporter's [[Polymarket]] simulation, Taiwan's introduced-myna controversy, the Chongqing [[ShidaiFengjun|时代峰峻]] confrontation, the human, infrastructural, and geopolitical dimensions of Nepal's August 2026 flood, the Google DeepMind–A24 AI-film partnership, and Taiwanese-language AI in elder healthcare.
+[[DuanwenNewsPodcast]] is the news podcast credited in source metadata for reported explainers spanning animal protection, prediction markets, ecology, gendered fandom, disaster risk, film-industry AI, and Taiwanese-language healthcare. An October 2026 announcement keeps its Wednesday slot and adds alternating Friday publication with the new [[BuduanzhePodcast|《不端者》]].
 
 ## Current Profile
 Across the current evidence, the show works as reported explanatory journalism rather than commentary-only audio. The 旺旺 episode combines mainland volunteer testimony, animal-law expertise, Hong Kong street interviews, and institutional controversy to connect one cruelty case to [[ChinaAnimalProtectionLawGap]], [[AnimalProtectionCodedExpression]], [[HongKongAnimalSolidarity]], and [[LowClaimCivicAction]].
@@ -36,34 +37,30 @@ The A24 episode adds a culture-and-technology industry explainer. With [[ChenZiF
 
 The Taiwanese AI episode adds a healthcare, aging, and language-access branch. It moves from eastern Taiwan's generational clinical language gap through [[HualienTzuChiHospital|花蓮慈濟醫院]]'s reusable education-video experiment to listener testing, training-data alignment, writing-system choice, and [[ClinicalLanguageComprehensionValidation]]. Its governing distinction is that generating recognizable Taiwanese speech does not establish that older patients understand or can safely act on it.
 
+The October programming notice adds a network-level fact rather than a new reporting method. 《端闻》 remains fixed on Wednesdays and alternates on Fridays with [[BuduanzhePodcast|《不端者》]], whose first announced guest is [[FengZheyun|冯哲云]]. Because the notice contains no interview, it does not extend the evidence for 《端闻》's own editorial practice.
+
 ## Key Characteristics
-- The episode is structured as reported journalism with named correspondents and interviewees.
-- Its core method is cross-border comparison between mainland expression constraints and Hong Kong's still-possible but cautious public action.
-- It treats animal protection as a social, legal, and civic-space question rather than only as a criminal or emotional story.
-- It can use a first-person reporter experiment to examine how platforms change news attention and ethical judgment.
-- It can turn a viral animal or environmental controversy into a slower explainer about evidence, classification, and ethical responsibility.
-- It can reconstruct a contested street event while distinguishing visible acts from unproven chronology, organization, and motive.
-- It can connect intimate cases to larger systems, including disaster infrastructure, climate justice, film craft, technology capital, clinical language access, and low-resource AI development.
+- Its episodes use reported journalism with named correspondents, interviewees, and explicit evidence boundaries.
+- It connects intimate or viral cases to legal, civic, ecological, technological, and institutional systems.
+- It can use first-person experimentation and contested-event reconstruction while separating visible evidence from unproven chronology, organization, or motive.
+- Its cross-border work compares institutions and lived consequences without treating incomplete access as complete proof.
+- Its technology reporting tests practical adoption against creator, user, language, and safety constraints.
+- Its current announced cadence is weekly on Wednesday plus alternating Friday publication with [[BuduanzhePodcast|《不端者》]].
 
 ## Evidence
-- Reported-source profile: [[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan]] names the show in front matter and follows mainland and Hong Kong reporting threads.
-- Cross-border method: [[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan]] moves from platform filtering and police contact in mainland China to Hong Kong memorials, advertising, and organizational debates.
-- Reporter experiment method: [[dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79]] follows Xiaowei's month-long simulated Polymarket trading trial.
-- Platform critique: [[dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79]] moves from trading outcome to binary settlement, user culture, gendered attention, and journalism's relationship to human stories.
-- Environmental explainer method: [[wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42]] moves from one nightjar livestream incident to alien-species definitions, evidence gaps, public hatred, and differentiated management.
-- Contested-event reconstruction: [[yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian]] compares disappearing originals, partial police footage, platform edits, official framing, and gendered interpretation without claiming a complete chronology.
-- Disaster-reporting method: [[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504]] uses named family cases, forensic procedure, infrastructure loss, warning delay, and climate finance to connect individual grief with institutional failure.
-- Historical-system method: [[niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19]] moves from a millennial trade route through modern port policy and bilateral interests to cumulative environmental risk and warning limits.
-- Culture-and-technology method: [[google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594]] moves from a reported investment and research partnership to feature-film constraints, creator-process value, brand conflict, process-data governance, and competitive anxiety while marking strategic motive as inference.
-- Healthcare-and-language method: [[ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b]] combines hospital workflow, older-listener testing, linguistic explanation, and model-development constraints to separate speech generation from clinical comprehension.
+- Reported explanation and systems linkage: [[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan]] connects one cruelty case to law, education, censorship, and cross-border civic action; [[wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42]] moves from a viral bird incident to classification, evidence, habitat change, and humane management.
+- Experiment and reconstruction: [[dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79]] uses a simulated market trial to test journalistic advantage and attention change; [[yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian]] compares disappearing originals, partial footage, and competing edits without claiming a complete chronology.
+- Cross-border disaster reporting: [[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504]] joins grief and identification to infrastructure, warning, and climate finance; [[niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19]] adds corridor history, cumulative exposure, geopolitics, and predictability limits.
+- Technology under practical constraint: [[google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594]] separates disclosed partnership facts from AI-film strategy inference; [[ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b]] separates plausible speech from older patients' actual clinical comprehension.
+- Network cadence: [[gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662]] retains Wednesday publication and establishes alternating Friday releases with [[BuduanzhePodcast|《不端者》]].
 
 ## Qualifications
-The wiki has only eight sources on the podcast. Broader claims about the show's ownership, editorial line, audience, or long-term reporting pattern remain outside this page's evidence. The Shidai Fengjun episode lacks enough primary footage and testimony to establish a complete event chronology or coordinated male organization; the Nepal episodes contain unstable figures, incomplete Chinese-side evidence, local perceptions that are not full institutional records, and no technical basis for claiming that bilateral data sharing would have predicted the collapse. The A24 episode does not independently verify confidential deal terms, product plans, or Google's strategic motive. The Taiwanese AI episode uses only two older-listener tests and provides no controlled clinical outcome or post-improvement model evaluation.
+The wiki has nine sources on the podcast, one of which is only a programming announcement. Broader claims about ownership, audience, or a definitive long-term editorial line remain outside this page's evidence. The Shidai Fengjun episode lacks enough primary footage and testimony to establish a complete chronology or coordinated organization; the Nepal episodes contain unstable figures, incomplete Chinese-side evidence, and no technical basis for claiming bilateral sharing would have predicted the collapse. The A24 episode does not independently verify confidential plans or Google's motive, and the Taiwanese AI episode uses only two older-listener tests. The launch notice does not contain the advertised 《不端者》 interview and therefore supports no substantive conclusion about its book or topic.
 
 ## What Changed
-- Added healthcare and language-access reporting centered on older patients' actual comprehension.
-- Extended the show's technology coverage from creative-industry adoption into low-resource speech data, orthography, and clinical workflow.
-- Added explicit qualification around tiny listener samples and absent clinical outcome evidence.
+- Added the October 2026 Wednesday-plus-alternating-Friday release schedule.
+- Added the sibling-program relationship with [[BuduanzhePodcast|《不端者》]].
+- Distinguished a network announcement from evidence about 《端闻》's own reporting method.
 
 ## Relationships
 - [[MavisDuanReporter]] - reporting relationship through the Hong Kong segment.
@@ -96,3 +93,5 @@ The wiki has only eight sources on the podcast. Broader claims about the show's 
 - [[TaiwanAILabs]] - technical collaborator examined in the Taiwanese speech-AI episode.
 - [[MotherTongueClinicalCommunication]] - healthcare language-access topic relationship.
 - [[ClinicalLanguageComprehensionValidation]] - user-testing and patient-safety topic relationship.
+- [[BuduanzhePodcast]] - sibling program alternating in the Friday release slot.
+- [[FengZheyun]] - first guest announced through the network programming notice.

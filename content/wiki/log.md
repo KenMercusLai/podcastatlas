@@ -30785,3 +30785,11 @@ Added source `tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 【公告】「不端著」正式上線！「端聞」播出安排調整
+
+Added source `gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662`; created [[BuduanzhePodcast|不端者（端传媒播客）]] and [[FengZheyun|冯哲云]]; and resynthesized [[DuanwenNewsPodcast|端闻 / 端传媒新闻播客]] from its complete preserved nine-source evidence inventory. Core synthesis: the notice establishes 《不端者》 as a sibling program whose first announced guest is 冯哲云, keeps 《端闻》 on Wednesdays, and alternates the two programs on Fridays. No settled content-level contradiction was adopted. The source title's “不端著” and body’s repeated “不端者” remain an unresolved spelling or branding variation; the audio contains no first-episode interview, so the book's argument, the new show's editorial method, and claims about Uyghurs in Syria remain outside the evidence boundary. The automatic `wiki/overview.md` was read for context and not manually rewritten because this short programming notice does not warrant a new global synthesis paragraph. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed artifacts cover 3,849 sources across nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

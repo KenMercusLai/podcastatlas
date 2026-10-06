@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 12521
+wiki_total_pages: 12523
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1328,6 +1328,9 @@ wiki_pages:
   - key: "Buxideng"
     title: "不熄灯 / Buxideng"
     url: "/wiki/entities/buxideng/"
+  - key: "BuduanzhePodcast"
+    title: "不端者（端传媒播客）"
+    url: "/wiki/entities/buduanzhepodcast/"
   - key: "BingJiWesternHan"
     title: "丙吉 / Bing Ji (Western Han)"
     url: "/wiki/entities/bingjiwesternhan/"

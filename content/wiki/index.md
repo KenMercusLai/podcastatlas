@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [【公告】「不端著」正式上線！「端聞」播出安排調整](sources/gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662.md) — Duan Media launches 《不端者》 with author 冯哲云 and changes 《端闻》 to Wednesday releases plus alternating Friday publication.
 - [What could slowing the AI frontier mean for the economy?](sources/tech-20261006-1006-mp-tech-pod-128-tech-20261006-1006-mp-tech-pod-128.md) — Marketplace Tech with Jordan Nanos on why safety evaluation, model adoption, reasoning, multi-agent systems, and research may sustain compute demand even when frontier releases slow.
 - [House call: Spain’s snap election](sources/house-call-spains-snap-election-24e23fedc70442e36d4ea43c405cbb9c.md) — The Intelligence on Spain’s housing-centered snap election, the cattle cycle squeezing U.S. beef processors, and animal-stage biodegradable batteries for ingestible devices.
 - [《资治通鉴·汉纪》319-1｜跟着古代皇帝学习抢人才](sources/zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g.md) — 汉武帝把人才定义为可供君主使用的“器”，节目由此批评工具化用人，并以董卓强迫征士与刘备争取诸葛亮对照不同人才吸附方式。
@@ -3914,6 +3915,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rewriting the Rules: The SEC & CFTC on Crypto, IPOs & the Future of American Markets](sources/all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225.md) — All-In interview with SEC chair Paul Atkins and CFTC chair Michael Seelig on IPO burden, private-market access, tokenized markets, crypto classification, prediction-market integrity, and interagency coordination.
 
 ## Entities
+- [不端者（端传媒播客）](entities/BuduanzhePodcast.md) — Duan Media interview-and-book podcast alternating with 《端闻》 on Fridays.
+- [冯哲云](entities/FengZheyun.md) — Author announced as the first guest of 《不端者》.
 - [Jordan Nanos](entities/JordanNanos.md) — SemiAnalysis analyst connecting AI safety practice, reasoning, adoption, research, and political risk to semiconductor and data-center demand.
 - [SemiAnalysis](entities/SemiAnalysis.md) — Semiconductor and AI-infrastructure research organization represented through Jordan Nanos’s market-oriented compute-demand analysis.
 - [任安 / Ren An (Western Han)](entities/RenAnWesternHan.md) — 卫青失势后仍持续往来的西汉官员，节目以其不随权势转移作为门客改投霍去病的对照。

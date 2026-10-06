@@ -29151,6 +29151,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/budongqiu/"
     },
+    "BuduanzhePodcast": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "780b68adbe7044d353eb187379ca2662 [780b68adbe7044d353eb187379ca2662.mp3？aid=6ac465d222e4cb85bd779c37&chid=66b07190af99592.280].md",
+          "key": "gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "【公告】「不端著」正式上線！「端聞」播出安排調整",
+          "url": "/wiki/sources/gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/buduanzhepodcast/"
+    },
     "BuffaloBillCody": {
       "episode_count": 3,
       "show_count": 1,
@@ -62524,9 +62540,9 @@
       "url": "/wiki/entities/duanzhiqiang/"
     },
     "DuanwenNewsPodcast": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "2b3d8e4d22c53a7d8791ed4cb06916ae [2b3d8e4d22c53a7d8791ed4cb06916ae.mp3？aid=6a9a8f8ec5b9ba845d1dbcb2&chid=66b07190af99592b5329f43a&ci=9VFtphxY8S1UggNOBMZ7EHMUU6j6619IrTRcG-Pk4Fin8CKWU-WvsQ==&pf=rss&sv=sphinx@1.280].md",
@@ -62583,9 +62599,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "AI講台語，長輩為何有聽沒有懂？",
           "url": "/wiki/sources/ai-jiang-taiyu-zhangbei-weihe-you-ting-meiyou-dong-8f2ef858c5c159ba4b0becd4f1676e8b/"
+        },
+        {
+          "episode_file": "780b68adbe7044d353eb187379ca2662 [780b68adbe7044d353eb187379ca2662.mp3？aid=6ac465d222e4cb85bd779c37&chid=66b07190af99592.280].md",
+          "key": "gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "【公告】「不端著」正式上線！「端聞」播出安排調整",
+          "url": "/wiki/sources/gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662/"
         }
       ],
-      "updated": "2026-09-30",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/duanwennewspodcast/"
     },
     "Dubai": {
@@ -78778,6 +78801,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/fengzhenfootballcommentator/"
+    },
+    "FengZheyun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "780b68adbe7044d353eb187379ca2662 [780b68adbe7044d353eb187379ca2662.mp3？aid=6ac465d222e4cb85bd779c37&chid=66b07190af99592.280].md",
+          "key": "gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "【公告】「不端著」正式上線！「端聞」播出安排調整",
+          "url": "/wiki/sources/gonggao-buduanzhe-zhengshi-shangxian-duanwen-bochu-anpai-tiaozheng-780b68adbe7044d353eb187379ca2662/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/fengzheyun/"
     },
     "FengshanRitualLegitimacy": {
       "episode_count": 6,
