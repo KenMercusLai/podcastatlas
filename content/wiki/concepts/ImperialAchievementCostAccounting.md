@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi
   - zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g
   - zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29
+  - zizhi-tongjian-hanji-316-1-ta-gong-yue-bai-wang-weihe-zhi-xia-baixing-yuelaiyue-qiong-lu_tr4m36rmz9sx38j4nvlmof5am
 last_updated: 2026-10-07
 ---
 
@@ -24,6 +25,8 @@ In these sources, cost accounting is also politically and methodologically disci
 
 The current synthesis also includes a contemporary policy ledger rather than only later memorial and cross-dynastic demographic views. The anti-Xiongnu and Hexi program receives credit for territorial, route, and frontier-security gains, but those gains sit beside treasury depletion, disaster relief, reported mass resettlement, palace and fangshi spending, person-based taxes, and military service. The concept therefore asks not only whether an achievement occurred, but which fiscal channels and households made it possible. [[zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29|Hanji 316-2]]
 
+[[zizhi-tongjian-hanji-316-1-ta-gong-yue-bai-wang-weihe-zhi-xia-baixing-yuelaiyue-qiong-lu_tr4m36rmz9sx38j4nvlmof5am|Hanji 316-1]] supplies the immediate conceptual prelude. It widens “war cost” beyond battlefield fighting to intelligence, movement, provisioning, equipment, transport, loss, and captive settlement, then uses [[DuFu|杜甫]]'s 《百忧集行》 to translate treasury pressure into hunger and family helplessness. The poem is an emotional analogy rather than Han-period evidence, but it makes a methodological point: a fiscal ledger remains incomplete until its household experience is made visible.
+
 ## Key Claims
 
 - Political achievement should be evaluated with its costs, especially war deaths, fiscal exhaustion, civilian displacement, famine, and social disorder.
@@ -32,6 +35,7 @@ The current synthesis also includes a contemporary policy ledger rather than onl
 - Cost accounting becomes remonstrance when it interrupts a ruler's attempt to convert dynastic memory into present legitimacy.
 - Demographic cost accounting needs methodological caution: population-register collapse may combine death, displacement, concealment, category exclusion, and state-capacity loss.
 - A complete ledger includes opportunity cost and burden distribution: war, relief, construction, belief-driven spending, taxes, service, and displacement can draw on the same finite state and household capacity.
+- Military cost includes the whole support chain, not only combat: information, mobilization, provisioning, equipment, transport, losses, and aftermath all consume resources.
 
 ## Evidence
 
@@ -49,17 +53,18 @@ Demographic cost layer:
 - [[zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g|Hanji 388-3]] also cautions that official population troughs require correction before being translated into death totals.
 
 Policy and household burden distribution:
+- [[zizhi-tongjian-hanji-316-1-ta-gong-yue-bai-wang-weihe-zhi-xia-baixing-yuelaiyue-qiong-lu_tr4m36rmz9sx38j4nvlmof5am|Hanji 316-1]] frames prolonged war as a resource chain and uses Du Fu's poverty scene to make the household endpoint emotionally visible.
 - [[zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29|Hanji 316-2]] credits Hexi and frontier gains while tracing the same reign's war, relief, resettlement, palace, fangshi, tax, and service costs through the treasury and ordinary households.
 
 ## Counterevidence & Qualifications
 
-This concept still should not be generalized into a complete evaluation of Han Wudi's reign or of every Chinese dynastic transition. Hanji 412-2 preserves Xiahou Sheng's critique and the host's reading of its political force; Hanji 388-3 supplies a compact population-history overview rather than a full demographic model; Hanji 316-2 is a short structured summary whose totals, tax terminology, chronology, and causal claims require direct historical verification. The concept also does not imply that conquest or unification has no value, only that achievement claims are incomplete without the costs and burden distribution that made them possible.
+This concept still should not be generalized into a complete evaluation of Han Wudi's reign or of every Chinese dynastic transition. Hanji 412-2 preserves Xiahou Sheng's critique and the host's reading of its political force; Hanji 388-3 supplies a compact population-history overview rather than a full demographic model; Hanji 316-1 and 316-2 are short structured summaries whose war counts, chronology, tax terminology, totals, and causal claims require direct historical verification. Du Fu's Tang poverty poem supplies analogy and moral imagination, not contemporaneous evidence for Western Han household conditions. The concept also does not imply that conquest or unification has no value, only that achievement claims are incomplete without the costs and burden distribution that made them possible.
 
 ## What Changed
 
-- Added a policy-and-household ledger joining war, relief, resettlement, construction, belief-driven spending, taxation, and service.
-- Made burden distribution part of the judgment: strategic gain and treasury strain are incomplete without asking which households paid.
-- Preserved the episode's figures and causal explanations as source-scoped rather than converting its moral frame into settled institutional history.
+- Expanded war cost from battlefield action to its intelligence, movement, supply, equipment, transport, loss, and aftermath chain.
+- Added literary poverty as a bounded way to make household experience visible while separating analogy from Han-period evidence.
+- Preserved the episode's war count and fiscal causation as source-scoped.
 
 ## Related Concepts
 

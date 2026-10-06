@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12529
+wiki_total_pages: 12530
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2339,6 +2339,9 @@ wiki_pages:
   - key: "Lenovo"
     title: "联想 / Lenovo"
     url: "/wiki/entities/lenovo/"
+  - key: "LiuJiJiaodongKingWesternHan"
+    title: "胶东王刘寄 / Liu Ji, Jiaodong King (Western Han)"
+    url: "/wiki/entities/liujijiaodongkingwesternhan/"
   - key: "LusunTeleprompter"
     title: "芦笋提词器"
     url: "/wiki/entities/lusunteleprompter/"

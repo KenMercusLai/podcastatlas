@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》316-1｜他功越百王，为何治下百姓越来越穷](sources/zizhi-tongjian-hanji-316-1-ta-gong-yue-bai-wang-weihe-zhi-xia-baixing-yuelaiyue-qiong-lu_tr4m36rmz9sx38j4nvlmof5am.md) — 以战争全链条与杜甫《百忧集行》追问汉武帝功业背后的财政和家庭贫困，并记录刘寄受淮南案牵连、死后两子获封所体现的宗室亲缘裁量。
 - [《资治通鉴·汉纪》315-2｜杀死亲儿子的他，竟成了皇帝心腹？](sources/zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg.md) — 金日磾从匈奴王子与宫中马奴升为汉武帝近侍；节目把养马能力、长期自持与严苛家规视为信任基础，同时保留杀子事件和处世因果的证据边界。
 - [《资治通鉴·汉纪》316-2｜汉武帝三大罪，穷了一国百姓](sources/zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29.md) — 将汉武帝的战争、灾荒救济、迁徙、宫殿与求仙支出放入同一财政账本，并在承认河西与边防收益的同时追问普通家庭承担的税役和民生成本。
 - [《资治通鉴·汉纪》318｜汲黯：汉武帝，我是你的破壁人](sources/zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga.md) — 汲黯反对把汉武帝得“神马”的个人喜悦包装成宗庙礼乐，又以人才有限警告求贤与严酷诛杀不能长期并存。
@@ -3924,6 +3925,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Avoiding, Treating & Curing Cancer With the Immune System | Dr. Alex Marson](sources/avoiding-treating-curing-cancer-with-the-immune-system-dr-alex-marson-scim5861479163.md) — Huberman Lab interview on immune self-tolerance, cancer evolution, checkpoint inhibition, CAR-T, CRISPR cell programming, delivery, and germline ethics.
 
 ## Entities
+- [胶东王刘寄 / Liu Ji, Jiaodong King (Western Han)](entities/LiuJiJiaodongKingWesternHan.md) — 淮南王谋反案后受牵连、未定继承人即病亡，其两子因汉武帝的亲缘与怜悯获得王位安排的西汉宗室王。
 - [Peter Steinberger](entities/PeterSteinberger.md) — Developer and founder whom Data Science With Sam identifies as OpenClaw's creator and a later OpenAI hire.
 - [东郭咸阳 / Dongguo Xianyang (Western Han)](entities/DongguoXianyangWesternHan.md) — 由齐地盐商背景进入汉武帝财政体系、参与盐业官营设计的西汉人物。
 - [不端者（端传媒播客）](entities/BuduanzhePodcast.md) — Duan Media interview-and-book podcast alternating with 《端闻》 on Fridays.

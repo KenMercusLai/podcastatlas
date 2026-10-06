@@ -30864,3 +30864,11 @@ Added source `zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》316-1｜他功越百王，为何治下百姓越来越穷
+
+Added source `zizhi-tongjian-hanji-316-1-ta-gong-yue-bai-wang-weihe-zhi-xia-baixing-yuelaiyue-qiong-lu_tr4m36rmz9sx38j4nvlmof5am`; created [[LiuJiJiaodongKingWesternHan|胶东王刘寄]]; and resynthesized [[DuFu|杜甫]], [[LiuAn|刘安]], [[ImperialAchievementCostAccounting|帝王功业代价核算]], and [[RoyalKinshipPenaltyMitigation|宗室亲缘减刑]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: prolonged war consumes an intelligence, mobilization, supply, equipment, transport, loss, and aftermath chain whose treasury pressure reaches households; Du Fu's 《百忧集行》 makes that poverty emotionally legible without serving as Han-period evidence. The Huainan case also implicates Liu Ji, whose death interrupts adjudication before Han Wudi preserves princely status for Liu Xian and Liu Qing, adding succession preservation rather than formal commutation to the royal-kin mitigation pattern. No settled contradiction was adopted. The supplied summary's 刘继 is normalized to 刘寄 from the matching Jiaodong, Huainan, Liu Xian, Liu Qing, and Liu'an identity chain; war-year counts, fiscal causation, astronomical wording, Liu Ji's knowledge and intent, illness causation, genealogy, enfeoffment procedure, and imperial motives remain episode-attributed or source-scoped. The broad [[HanWudi|汉武帝]] page was kept closed because the durable additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,859 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
