@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12551
+wiki_total_pages: 12557
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1361,6 +1361,9 @@ wiki_pages:
   - key: "LiuWenQingheRebelLateHan"
     title: "刘文 / Liu Wen (Qinghe rebel, late Han)"
     url: "/wiki/entities/liuwenqingherebellatehan/"
+  - key: "LiuWucaiHengshanPrincess"
+    title: "刘无采 / Liu Wucai (Hengshan Royal Daughter)"
+    url: "/wiki/entities/liuwucaihengshanprincess/"
   - key: "LiuXiaoweiMarketing"
     title: "刘晓微 / Liu Xiaowei"
     url: "/wiki/entities/liuxiaoweimarketing/"
@@ -2372,6 +2375,15 @@ wiki_pages:
   - key: "LinXiangru"
     title: "蔺相如 / Lin Xiangru"
     url: "/wiki/entities/linxiangru/"
+  - key: "LiuShuangHengshanCrownPrince"
+    title: "衡山太子刘爽 / Liu Shuang, Crown Prince of Hengshan"
+    url: "/wiki/entities/liushuanghengshancrownprince/"
+  - key: "LiuCiHengshanKingWesternHan"
+    title: "衡山王刘赐 / Liu Ci, King of Hengshan (Western Han)"
+    url: "/wiki/entities/liucihengshankingwesternhan/"
+  - key: "LiuXiaoHengshanPrince"
+    title: "衡山王子刘孝 / Liu Xiao, Prince of Hengshan"
+    url: "/wiki/entities/liuxiaohengshanprince/"
   - key: "LaiAnArchitect"
     title: "赉安 / 赖安 / Lai An (architect)"
     url: "/wiki/entities/laianarchitect/"

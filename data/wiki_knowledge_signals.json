@@ -77853,9 +77853,9 @@
       "url": "/wiki/entities/fauda/"
     },
     "FavoriteDrivenHeirDisplacement": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -77884,9 +77884,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·秦纪》111-1｜偌大的赵国竟亡于一个妓女之手",
           "url": "/wiki/sources/zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？ [ljbwEGjf-HVe9we3gq0MrbiPjVNP].md",
+          "key": "zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp/"
         }
       ],
-      "updated": "2026-08-23",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/favoritedrivenheirdisplacement/"
     },
     "FawltyTowers": {
@@ -125269,6 +125276,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/judicialabuserebelliontrigger/"
     },
+    "JueJiHengshan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？ [ljbwEGjf-HVe9we3gq0MrbiPjVNP].md",
+          "key": "zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/juejihengshan/"
+    },
     "JuglarCycle": {
       "episode_count": 1,
       "show_count": 1,
@@ -136001,6 +136024,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/liuchonglatehanminister/"
     },
+    "LiuCiHengshanKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？ [ljbwEGjf-HVe9we3gq0MrbiPjVNP].md",
+          "key": "zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/liucihengshankingwesternhan/"
+    },
     "LiuCongLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -137428,6 +137467,22 @@
       "updated": "2026-10-07",
       "url": "/wiki/entities/liushengzhongshankingwesternhan/"
     },
+    "LiuShuangHengshanCrownPrince": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？ [ljbwEGjf-HVe9we3gq0MrbiPjVNP].md",
+          "key": "zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/liushuanghengshancrownprince/"
+    },
     "LiuShunChangshanKingWesternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -137707,6 +137762,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/entities/liuwuliangkingwesternhan/"
     },
+    "LiuWucaiHengshanPrincess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？ [ljbwEGjf-HVe9we3gq0MrbiPjVNP].md",
+          "key": "zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/liuwucaihengshanprincess/"
+    },
     "LiuXianEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -137826,6 +137897,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/liuxiangfuprincesswesternhan/"
+    },
+    "LiuXiaoHengshanPrince": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？ [ljbwEGjf-HVe9we3gq0MrbiPjVNP].md",
+          "key": "zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/liuxiaohengshanprince/"
     },
     "LiuXiaoLateHan": {
       "episode_count": 1,
@@ -244472,6 +244559,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/xujinglatehan/"
+    },
+    "XuLaiHengshanQueen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？ [ljbwEGjf-HVe9we3gq0MrbiPjVNP].md",
+          "key": "zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/xulaihengshanqueen/"
     },
     "XuMeirenWesternHan": {
       "episode_count": 3,

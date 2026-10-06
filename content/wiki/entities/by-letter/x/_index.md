@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 12551
+wiki_total_pages: 12557
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "XuguDuhouSouthernXiongnu"
     title: "虚骨都侯 / Xugu Duhou (Southern Xiongnu)"
     url: "/wiki/entities/xuguduhousouthernxiongnu/"
+  - key: "XuLaiHengshanQueen"
+    title: "衡山王后徐来 / Xu Lai, Queen of Hengshan"
+    url: "/wiki/entities/xulaihengshanqueen/"
   - key: "Xiren"
     title: "袭人 / Xiren"
     url: "/wiki/entities/xiren/"

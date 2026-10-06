@@ -31058,3 +31058,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？
+
+Added source `zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp`; created [[LiuCiHengshanKingWesternHan|衡山王刘赐]], [[LiuShuangHengshanCrownPrince|刘爽]], [[XuLaiHengshanQueen|徐来]], [[LiuXiaoHengshanPrince|刘孝]], [[LiuWucaiHengshanPrincess|刘无采]], and [[JueJiHengshan|厥姬]]; and resynthesized [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: the Hengshan case adds a coalition-formation stage in which a later queen, an ambitious younger brother, and an alienated sister agree to oppose an established crown prince without agreeing on the eventual successor. No settled contradiction was adopted. The transcript forms “恒山王刘次”“成叔”“爵姬”“刘五彩” are normalized to 衡山王刘赐、乘舒、厥姬、刘无采 while remaining recorded as source mismatches; the title's promised fratricide attempt lies beyond the supplied excerpt, and sorcery, sexual-conduct, motive, dialogue, and causal claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,883 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
