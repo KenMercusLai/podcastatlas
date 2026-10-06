@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧](sources/zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn.md) — 卫青在苏建失军后保留拘押与追责，却拒绝以阵斩偏将展示个人威严，并把终局裁决交回汉武帝。
 - [《资治通鉴·汉纪》299-1｜出道即巅峰，霍去病17岁一战封侯](sources/zizhi-tongjian-hanji-299-1-chudao-ji-dianfeng-huoqubing-17sui-yizhan-fenghou-lqi9lubm9ogxcrcpm837g8m6fq35.md) — 霍去病八百骑兵的首次独立行动把前期知敌准备转化为深入、俘虏情报、高价值目标突袭与冠军侯封赏；演义化训话、现代特战类比及数字细节保留来源边界。
 - [《资治通鉴·汉纪》298｜少年战神霍去病登场](sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh.md) — 霍去病的首次独立领军被解释为武艺训练、降人访谈、地形与补给研究、地图推演的共同结果；“特种战队”“闪电战”及知敌程度保留来源边界。
 - [《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？](sources/zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc.md) — 赵信以两边军制知识建议匈奴北迁诱汉军深入，苏建由赎死为民到复任代郡太守；战争耗竭又促成卖爵、赎罪与武功爵入仕优先的财政应对。
@@ -3967,7 +3968,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [霍去病首次八百骑兵突袭 / Huo Qubing's First 800-Cavalry Raid](entities/FirstHuoQubingRaidWesternHan.md) — 连接战前知敌准备、八百骑兵深入、即时俘虏情报、高价值目标突袭与冠军侯封赏，并与后来的河西、漠北战役区分。
 - [赵信 / Zhao Xin (Western Han-Xiongnu)](entities/ZhaoXinWesternHan.md) — 匈奴出身、曾仕汉后复归并以熟悉双方军制建议北迁诱敌深入的战略中介。
-- [苏建 / Su Jian (Western Han)](entities/SuJianWesternHan.md) — 战败后赎死为民、后来复任代郡太守并为苏武之父的西汉将领。
+- [苏建 / Su Jian (Western Han)](entities/SuJianWesternHan.md) — 失军后归、经卫青拘押并交帝裁决，继而赎死为民、复任代郡太守的西汉将领，也是苏武之父。
 - [济北王刘胡 / Liu Hu, King of Jibei (Western Han)](entities/LiuHuJibeiKingWesternHan.md) — 从祥瑞报告推测汉武帝将封禅、进献泰山及旁邑并获其他县补偿的西汉济北王。
 - [梦阳 / 孟阳](entities/MengYangStandup.md) — Stand-up comedian and short-video creator whose nonlinear path through audit and internet operations grounds the episode's creative-fit and uncertainty discussion.
 - [刘不亥 / Liu Buhai (Western Han)](entities/LiuBuhaiWesternHan.md) — 刘安家中受冷落的庶长子，其子因父亲待遇而与太子刘迁一支冲突。
@@ -4010,7 +4011,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [冯哲云](entities/FengZheyun.md) — Author announced as the first guest of 《不端者》.
 - [Jordan Nanos](entities/JordanNanos.md) — SemiAnalysis analyst connecting AI safety practice, reasoning, adoption, research, and political risk to semiconductor and data-center demand.
 - [SemiAnalysis](entities/SemiAnalysis.md) — Semiconductor and AI-infrastructure research organization represented through Jordan Nanos’s market-oriented compute-demand analysis.
-- [任安 / Ren An (Western Han)](entities/RenAnWesternHan.md) — 卫青失势后仍持续往来的西汉官员，节目以其不随权势转移作为门客改投霍去病的对照。
+- [任安 / Ren An (Western Han)](entities/RenAnWesternHan.md) — 为力战归来的苏建反对阵斩、并在卫青失势后仍持续往来的西汉官员。
 - [漠北之战 / Mobei Battle (Western Han)](entities/MobeiBattleWesternHan.md) — 霍去病东路远征、击溃左贤王、封狼居胥与战马巨损并存的西汉—匈奴关键战役。
 - [赵食其 / Zhao Shiqi (Western Han)](entities/ZhaoShiqiWesternHan.md) — Western Han right general who shares Li Guang's final eastern-route navigation failure but survives trial by redeeming the reported death sentence and losing office.
 - [Arthur Miller / 阿瑟·米勒](entities/ArthurMiller.md) — American playwright represented through social drama, theatrical necessity, political refusal, and the 1983 Beijing production of *Death of a Salesman*.
@@ -6925,7 +6926,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小伙子 / Xiao Huozi](entities/XiaoHuoziNittanWuyu.md) — 日谈物语 co-host who reinforces the source's rapid-social-change and listener-facing setup.
 - [Japan AIDS Blood Products Incident / 日本艾滋血液药剂事件](entities/JapanAIDSBloodProductsIncident.md) — Announced public-health topic in the 日谈物语 autumn opener, currently source-limited to the title and hemophilia entry setup.
 - [郭子仪 / Guo Ziyi](entities/GuoZiyi.md) — Tang commander used in Hanji 1065 as a source-scoped model of reducing ruler suspicion through command surrender and low-threat conduct after great merit.
-- [卫青 / Wei Qing (Han general)](entities/WeiQingHanGeneral.md) — Western Han commander whose profile joins early delegation to Huo Qubing, humility, credit-sharing, and source-attributed soldier empathy to elite remarriage, posthumous family risk, and the senior-command vacancy marked by his death.
+- [卫青 / Wei Qing (Han general)](entities/WeiQingHanGeneral.md) — Western Han commander whose profile joins battlefield success, restrained punishment and higher review, humility, credit-sharing, soldier empathy, posthumous family risk, and the senior-command vacancy marked by his death.
 - [Dwarkesh Patel](entities/DwarkeshPatel.md) — Source-scoped media reference cited for the "agent civilizations" framing in the All-In AI-agent narrative discussion.
 - [Qianling Mountain Macaques / 黔灵山猕猴](entities/QianlingMountainMacaques.md) — Urban-park macaque population used by EP282 to connect tourism feeding, habituation, carrying capacity, bites, and relocation uncertainty.
 - [Nanjing Wild Boars / 南京野猪](entities/NanjingWildBoars.md) — Urban and peri-urban boar case where visibility gaps, crop damage, feeding risk, ecological role, and culling controversy intersect.
@@ -20541,7 +20542,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Desire-Driven Command Exposure / 私欲驱动的统帅暴露](concepts/DesireDrivenCommandExposure.md) — Pattern where private desire distorts command security or access judgment, from Cao Cao's Wancheng exposure to Gui Lan entering Lady Xu's trap.
 - [Wei-Jin Style Cultural Afterlife / 魏晋风度文化后效](concepts/WeiJinStyleCulturalAfterlife.md) — Hanji 1013 bridge from He Yan's Cao-household position to later Wei-Jin elite style, xuanxue, drug use, fragrance, appearance, and qingtan.
 - [Ten Victories and Ten Defeats / 十胜十败论](concepts/TenVictoriesTenDefeats.md) — Hanji 1014 frame comparing Cao Cao and Yuan Shao by leadership system, legitimacy, discipline, talent use, reward/punishment, and military judgment.
-- [Command Discipline Authority / 军法威严](concepts/CommandDisciplineAuthority.md) — Command-law pattern where high-status disobedience, public contempt, or benevolent non-control can erode enforceable military authority.
+- [Command Discipline Authority / 军法威严](concepts/CommandDisciplineAuthority.md) — Command-law pattern balancing visible accountability against legal review, return incentives, and the danger of maximum severity used as authority theater.
 - [Crisis-First Military Discipline / 临危先务军纪](concepts/CrisisFirstMilitaryDiscipline.md) — Hanji 1014 Yu Jin pattern: public order and camp security before personal vindication in retreat.
 - [分香卖履 / Fenxiang Mailu](concepts/FenxiangMailu.md) — Hanji 1014 Cao Cao deathbed household-settlement frame around incense, livelihood, and non-sacrificial family duty.
 - [Anti-Usurpation Coalition Pressure / 讨逆同盟压力](concepts/AntiUsurpationCoalitionPressure.md) — Hanji 1001/1002/1015 pattern where Yuan Shu's imperial claim first fails internal support, then costs ally support, then forces rivals to oppose him because non-response would look like recognition.

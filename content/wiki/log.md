@@ -31191,3 +31191,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-07] ingest | 《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧
+
+Added source `zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn`; and resynthesized [[WeiQingHanGeneral|卫青]], [[SuJianWesternHan|苏建]], [[RenAnWesternHan|任安]], and [[CommandDisciplineAuthority|军法威严]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Wei Qing rejects execution as authority theater, preserves accountability through detention, and refers final judgment to Han Wudi; Ren An's return-incentive argument shows why maximum punishment can make later defeated officers flee rather than report back. No settled contradiction was adopted. Force sizes, battlefield geometry, Zhao Xin's exact effect, adviser offices and wording, field-execution authority, Su Jian's palace role, and the modern formal-versus-natural-authority framing remain source-scoped. Broad Han Wudi, Zhao Xin, Xiongnu, and show pages were kept closed because the focused source, commander, officer, and command-law pages capture the bounded addition. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,900 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed; the optional full-corpus link scan still reports 30 unrelated pre-existing broken links.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

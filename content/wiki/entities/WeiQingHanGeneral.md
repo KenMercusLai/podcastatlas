@@ -17,13 +17,16 @@ sources:
   - zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv
   - zizhi-tongjian-hanji-324-2-liguang-yu-weiqing-liangwei-mingjiang-de-aihen-qingchou-lqejjd0rqvm7lj59w8v1s0pvpwpd
   - zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh
+  - zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn
 last_updated: 2026-10-07
 ---
 
 ## Overview
-卫青 / Wei Qing is synthesized as a high-merit Western Han commander whose Mobei victory joins encirclement, pursuit, and exploitation of an enemy command break. His humility, credit-sharing, continued court deference, and source-attributed concern for soldiers made him both a safer powerful subordinate and, in the source-scoped Hanji 369-1 interpretation, a stabilizing military-political counterweight. Mobei's aftermath nevertheless shows performance judgment and patronage turning quickly: failure to capture and annihilate the chanyu's force brings no comparable new reward, associates move toward the increasingly favored [[HuoQubing|霍去病]], and [[RenAnWesternHan|任安]] becomes the reported exception who continues visiting Wei. His handling of [[LiGanWesternHan|李敢]]'s assault adds private forbearance, while his death marks a senior-command transition and later Wugu evidence shows that prior favor could not protect his family after his influence disappeared.
+卫青 / Wei Qing is synthesized as a high-merit Western Han commander whose profile combines battlefield command with restraint in punishment. In the [[SuJianWesternHan|苏建]] case he rejects killing a defeated subordinate merely to display authority, preserves accountability through imprisonment, and returns final judgment to [[HanWudi|汉武帝]]. His Mobei victory joins encirclement, pursuit, and exploitation of an enemy command break, while his humility, credit-sharing, continued court deference, and source-attributed concern for soldiers make him both a safer powerful subordinate and, in the source-scoped Hanji 369-1 interpretation, a stabilizing military-political counterweight. Later evidence still shows performance judgment and patronage turning quickly, and prior favor failing to protect his family after his influence disappears.
 
 ## Current Profile
+The earliest direct command-law layer comes from [[zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn|Hanji 297]]. After winning his own engagement, Wei Qing checks the other formations and learns that Su Jian's force has been destroyed after Zhao Xin's surrender. One adviser recommends execution to establish Wei's authority, while Ren An and others stress hard fighting, return without defection, and the danger of teaching future defeated commanders not to come back. Wei neither acquits nor kills Su Jian: he imprisons him and refers final judgment to Wudi. The source interprets this as power-boundary awareness and earned authority, though the legal details and Wei's complete motives remain source-scoped.
+
 The earliest mentorship and delegation layer presents Wei Qing as Huo Qubing's model and says he authorizes the seventeen-year-old's first independent detachment because he knows the preparation behind the request, then lets Huo choose eight hundred cavalry. This supports Wei as a commander willing to delegate to demonstrated readiness, but it does not prove that preparation alone displaced kinship, favor, or campaign need, and it stops before the detachment's battle result. [[zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh|Hanji 298]]
 
 Hanji 1065 uses Wei Qing as one of the safer high-merit models in [[HighMeritThreatManagement|high merit threat management]]. His battlefield success is not the main claim there; the source emphasizes the posture after success. Wei Qing remains deferential toward [[HanWudi|汉武帝]] and shares credit with subordinates, making him a contrast to figures who turn merit into public superiority or independent threat.
@@ -52,7 +55,7 @@ The post-Huo transition remains disputed. [[zizhi-tongjian-hanji-336-2-huoqubing
 
 ## Key Characteristics
 - High-merit Western Han commander whose Mobei main-arm victory joins logistics-preserved desert movement, wagon defense, cavalry contact, two-wing pressure, pursuit, and exploitation of enemy command collapse.
-- Humble, deferential, credit-sharing, and source-attributed soldier-empathic subordinate whose conduct lowers his threat profile.
+- Restrained, humble, deferential, credit-sharing, and source-attributed soldier-empathic commander who preserves accountability through detention and higher review rather than execution for personal display, lowering his threat profile.
 - Posthumous family-risk case showing that a commander's prior favor does not necessarily protect descendants when succession politics turn.
 - Husband in the episode's elite-remarriage example around Pingyang Princess.
 - Senior-command vacancy marker whose death helps trigger a broad Han Wudi recruitment response.
@@ -60,6 +63,8 @@ The post-Huo transition remains disputed. [[zizhi-tongjian-hanji-336-2-huoqubing
 - Final-campaign commander whose victory does not bring comparable new reward after the chanyu escapes, and whose declining household attraction exposes power-contingent ties while Ren An remains.
 
 ## Evidence
+- Su Jian review: [[zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn|Hanji 297]] says Wei Qing rejects execution for prestige, imprisons Su Jian, and sends the case to Han Wudi for final judgment.
+- Return-path reasoning: [[zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn|Hanji 297]] records advisers' warning that killing a hard-fighting officer who returns after defeat could deter later commanders from coming back.
 - Early delegation: [[zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh|Hanji 298]] says Wei Qing knows Huo Qubing's sustained preparation, approves his request for independent action, and permits selection of eight hundred cavalry.
 - Humility after merit: [[zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17|Hanji 1065]] says Wei Qing remains respectful toward Emperor Wu despite great military contribution.
 - Credit-sharing: [[zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17|Hanji 1065]] presents Wei Qing as someone who actively distributes credit to subordinates.
@@ -79,15 +84,16 @@ The post-Huo transition remains disputed. [[zizhi-tongjian-hanji-336-2-huoqubing
 - Post-Huo power-field interpretation: [[zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5|Hanji 336-2]] treats Wei-family title losses and Wei's lack of active command as evidence that Wudi was reducing the wider kin-linked military bloc.
 
 ## Qualifications
-This page remains source-scoped to thirteen compact podcast notes. It does not provide a full military biography, reconstruct every campaign, assess every interpretation of Wei Qing's relationship with Emperor Wu, or supply complete genealogical and legal records for his descendants. Hanji 298 does not establish Wei Qing's complete reasoning, the precise first-command date and location, how Huo's preparation was observed or tested, whether cavalry selection was unrestricted, or the eight hundred riders' exact status; preparation, kinship, favor, and campaign need may all have mattered.
+This page remains source-scoped to fourteen compact podcast notes. It does not provide a full military biography, reconstruct every campaign, assess every interpretation of Wei Qing's relationship with Emperor Wu, or supply complete genealogical and legal records for his descendants. Hanji 297 does not independently establish the force sizes, battlefield geometry, adviser titles and wording, scope of field execution power, Su Jian's palace office, Wei's exact motives, or the modern formal-versus-natural-authority framework; referral preserved the possibility of survival, but Han Wudi's later judgment and redemption mechanism also determined the result. Hanji 298 does not establish Wei Qing's complete reasoning, the precise first-command date and location, how Huo's preparation was observed or tested, whether cavalry selection was unrestricted, or the eight hundred riders' exact status; preparation, kinship, favor, and campaign need may all have mattered.
 
 The Mobei sources do not independently establish troop and casualty totals, the chanyu's psychology, pursuit distance, place identification, or the exact political effect of his disappearance. Their no-reward explanation is read as failure to meet an annihilation objective rather than denial of Wei's battlefield victory. They do not prove every departing associate's motive, Ren An as the literal sole exception, the secret instruction's motive, Wei's intention toward Li Guang, or the cause of the missing guide. The wagon, cavalry, logistics, and sandstorm details remain episode-attributed.
 
 The later character and court readings also remain bounded. Poverty-to-empathy causation, a total Wei-Huo character contrast, talent scarcity caused by Wudi's severity, Wei's death causing later imperial violence, the motive for concealing Li Gan's assault, a coherent Wei-Huo faction, deliberate imperial dismantling, and any imperial role in Huo's death are not established. The Pingyang Princess marriage is an elite case rather than a population-wide account of Han practice.
 
 ## What Changed
-- Added the source-scoped early delegation case in which Wei Qing accepts Huo Qubing's independent-command request after observing his preparation.
-- Added the eight-hundred-cavalry selection as evidence of trust while preserving kinship, patronage, campaign need, and exact motive as open explanations.
+- Added the direct Su Jian review case: detention and imperial referral rather than acquittal or immediate execution.
+- Added Wei Qing's rejection of killing a subordinate merely to display authority.
+- Connected punishment restraint to the organizational incentive for defeated officers to return rather than flee or defect.
 
 ## Relationships
 - [[HighMeritThreatManagement]] - concept Wei Qing exemplifies through humility and credit-sharing.
@@ -110,3 +116,5 @@ The later character and court readings also remain bounded. Poverty-to-empathy c
 - [[RenAnWesternHan|任安]] - reported associate who continues entering Wei's household after other retainers move toward Huo Qubing.
 - [[PowerContingentSocialTies|权势依附型交往]] - relationship pattern exposed when Wei's declining patronage value changes who remains around him.
 - [[CommandContinuityDamageControl|统帅连续性危机处置]] - inverse relationship because Wei exploits the enemy's failure to preserve command confidence after the chanyu flees.
+- [[SuJianWesternHan|苏建]] - defeated subordinate whom Wei imprisons and returns for imperial judgment.
+- [[CommandDisciplineAuthority|军法威严]] - concept Wei qualifies by separating visible accountability from execution as personal authority theater.

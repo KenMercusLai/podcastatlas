@@ -44894,9 +44894,9 @@
       "url": "/wiki/concepts/commandcreditmisattribution/"
     },
     "CommandDisciplineAuthority": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？ [ljJT1t2mK77si6re_-WEW_hPl8qZ].md",
@@ -44918,9 +44918,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧 [lg2zMXDwvx_ydqFQsMe_hDcSWtWN].md",
+          "key": "zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/commanddisciplineauthority/"
     },
     "CommandLawOverPersonalTies": {
@@ -190595,9 +190602,9 @@
       "url": "/wiki/concepts/remotetributeprestigetheater/"
     },
     "RenAnWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜 [lv_eD7hfUmn80Ypmwq8NfDpdFwcV].md",
@@ -190605,9 +190612,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》327-1｜万万没想到，汉武帝也爱吃香菜",
           "url": "/wiki/sources/zizhi-tongjian-hanji-327-1-wanwan-meixiangdao-hanwudi-ye-ai-chi-xiangcai-lv_ed7hfumn80ypmwq8nfdpdfwcv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧 [lg2zMXDwvx_ydqFQsMe_hDcSWtWN].md",
+          "key": "zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn/"
         }
       ],
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/renanwesternhan/"
     },
     "RenChangWesternHan": {
@@ -214678,9 +214692,9 @@
       "url": "/wiki/entities/sufeilatehan/"
     },
     "SuJianWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？ [FqF4vV3uHeMQEy3Qqk6cdIHt_2Cc].md",
@@ -214688,6 +214702,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-299-2-xihan-caizheng-da-weiji-hanwudi-ruhe-gao-qian-fqf4vv3uhemqey3qqk6cdiht_2cc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧 [lg2zMXDwvx_ydqFQsMe_hDcSWtWN].md",
+          "key": "zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn/"
         }
       ],
       "updated": "2026-10-07",
@@ -237575,9 +237596,9 @@
       "url": "/wiki/entities/weiqiansanlian/"
     },
     "WeiQingHanGeneral": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -237669,6 +237690,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》298｜少年战神霍去病登场",
           "url": "/wiki/sources/zizhi-tongjian-hanji-298-shaonian-zhanshen-huoqubing-dengchang-lhwmfj24jl0ywwpcknytor9ujksh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧 [lg2zMXDwvx_ydqFQsMe_hDcSWtWN].md",
+          "key": "zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》297｜功高主不疑，名将卫青的为官智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-297-gonggao-zhubuyi-mingjiang-weiqing-de-weiguan-zhihui-lg2zmxdwvx_ydqfqsme_hdcswtwn/"
         }
       ],
       "updated": "2026-10-07",
