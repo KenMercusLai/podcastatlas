@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷](sources/zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug.md) — 刘安奖赏符合帝王梦的情报并以家属胁迫反对者；劝谏一度阻止谋反，而对庶长子一支的排斥又把不满传到叔侄冲突。
 - [《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？](sources/zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc.md) — 伍被先判断诸侯、百姓均无反意，却提出伪造诏令制造恐慌的低胜算方案；刘安不断更换伪印、刺杀、纵火与假边警计划，最终在抓捕逼近时既无法动员也未能退出。
 - [《资治通鉴·汉纪》303-2｜《塞翁失马》的作者，是怎么死的？](sources/zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt.md) — 伍被供述使淮南谋反案进入逮捕与清算阶段；刘安自尽、王族受诛、封国被废，而“王犹豫，计未决”被限定为时机诊断而非早反必胜的反事实。
 - [《资治通鉴·汉纪》304-1｜古代如何做双面间谍？](sources/zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x.md) — 伍被在参与刘安谋划后才供出案件，雷被则因更早告发而脱身；节目以时机与张汤的威慑逻辑解释两种结局，同时保留“双面间谍”动机的推测边界。
@@ -3956,6 +3957,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》301｜太离奇！揭秘年号最大乌龙事件](sources/zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shijian-lrsbd_9zfkcofnosolvrjvfcdfyg.md) — 芮淇讲透资治通鉴短篇，以汉武帝时期的纪年集权解释年号制度，并以赵匡胤乾德撞用前蜀旧年号说明政治命名、合法性与历史记忆的冲突。
 
 ## Entities
+- [刘不亥 / Liu Buhai (Western Han)](entities/LiuBuhaiWesternHan.md) — 刘安家中受冷落的庶长子，其子因父亲待遇而与太子刘迁一支冲突。
 - [王衍 / Wang Yan (Former Shu)](entities/WangYanFormerShu.md) — 前蜀末代统治者；其乾德年号在来源中成为北宋同名年号乌龙的历史前件。
 - [孟昶 / Meng Chang (Later Shu)](entities/MengChangLaterShu.md) — 后蜀末代统治者，在来源中连接宋朝征服、花蕊夫人入宋宫与乾德铜镜叙事。
 - [花蕊夫人 / Lady Huarui (Later Shu)](entities/LadyHuaruiLaterShu.md) — 与其他同号女性消歧的后蜀宫廷人物，作为乾德铜镜、宫廷转移与诗歌花卉记忆的来源限定载体。

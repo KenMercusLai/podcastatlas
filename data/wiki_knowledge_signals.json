@@ -135622,9 +135622,9 @@
       "url": "/wiki/concepts/lithiumbipolartreatment/"
     },
     "LiuAn": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
@@ -135667,6 +135667,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷 [ln6RfK8nZOYEQxDuiK_edlQQIYuG].md",
+          "key": "zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug/"
         }
       ],
       "updated": "2026-10-07",
@@ -136010,6 +136017,22 @@
       ],
       "updated": "2026-10-04",
       "url": "/wiki/entities/liubochangyikingwesternhan/"
+    },
+    "LiuBuhaiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷 [ln6RfK8nZOYEQxDuiK_edlQQIYuG].md",
+          "key": "zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/liubuhaiwesternhan/"
     },
     "LiuCangDongpingKing": {
       "episode_count": 6,
@@ -137473,9 +137496,9 @@
       "url": "/wiki/entities/liuqilatehan/"
     },
     "LiuQianHuainanCrownPrinceWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》304-1｜古代如何做双面间谍？ [lu05uaXP5B_BuVl5go2bn7iy9q_x].md",
@@ -137497,6 +137520,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷 [ln6RfK8nZOYEQxDuiK_edlQQIYuG].md",
+          "key": "zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug/"
         }
       ],
       "updated": "2026-10-07",
@@ -157483,6 +157513,50 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/motherhoodbeyondchildbirth/"
+    },
+    "MotivatedBias": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》22丨公孙鞅诈魏公子卬 [lss1L7lojfwgwDTCJe7m5ijodPxi].md",
+          "key": "zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》22丨公孙鞅诈魏公子卬",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi/"
+        },
+        {
+          "episode_file": "132.争论与说服：我们为什么吵架，怎么才算赢？ [807583318].md",
+          "key": "132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318",
+          "show": "蜜獾吃书",
+          "title": "132.争论与说服：我们为什么吵架，怎么才算赢？",
+          "url": "/wiki/sources/132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318/"
+        },
+        {
+          "episode_file": "123.人性实验：当心你自己！ [779479569].md",
+          "key": "123-renxing-shiyan-dangxin-ni-ziji-779479569",
+          "show": "蜜獾吃书",
+          "title": "123.人性实验：当心你自己！",
+          "url": "/wiki/sources/123-renxing-shiyan-dangxin-ni-ziji-779479569/"
+        },
+        {
+          "episode_file": "106.别再害怕冲突，快来学习谈判术！ [742539645].md",
+          "key": "106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645",
+          "show": "蜜獾吃书",
+          "title": "106.别再害怕冲突，快来学习谈判术！",
+          "url": "/wiki/sources/106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷 [ln6RfK8nZOYEQxDuiK_edlQQIYuG].md",
+          "key": "zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/motivatedbias/"
     },
     "MotivationCrowdingOut": {
       "episode_count": 6,
@@ -240803,9 +240877,9 @@
       "url": "/wiki/concepts/writinginstrumentevolution/"
     },
     "WuBeiWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》304-1｜古代如何做双面间谍？ [lu05uaXP5B_BuVl5go2bn7iy9q_x].md",
@@ -240827,6 +240901,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》303-1｜淮南王如何被“纠结心”逼死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-303-1-huainanwang-ruhe-bei-jiujiexin-bisi-de-ljtqn-nrxyf8yqx-yowsainkzmjc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷 [ln6RfK8nZOYEQxDuiK_edlQQIYuG].md",
+          "key": "zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug/"
         }
       ],
       "updated": "2026-10-07",

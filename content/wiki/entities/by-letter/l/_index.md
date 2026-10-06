@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12565
+wiki_total_pages: 12566
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -1217,6 +1217,9 @@ wiki_pages:
   - key: "LingTong"
     title: "凌统 / Ling Tong"
     url: "/wiki/entities/lingtong/"
+  - key: "LiuBuhaiWesternHan"
+    title: "刘不亥 / Liu Buhai (Western Han)"
+    url: "/wiki/entities/liubuhaiwesternhan/"
   - key: "LiuDong"
     title: "刘东"
     url: "/wiki/entities/liudong/"

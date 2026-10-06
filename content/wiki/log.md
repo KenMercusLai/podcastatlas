@@ -31122,3 +31122,11 @@ Added source `zizhi-tongjian-hanji-301-tai-liqi-jiemi-nianhao-zui-da-wulong-shij
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷
+
+Added source `zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug`; created [[LiuBuhaiWesternHan|刘不亥]]; and resynthesized [[LiuAn|刘安]], [[WuBeiWesternHan|伍被]], [[LiuQianHuainanCrownPrinceWesternHan|刘迁]], and [[MotivatedBias|动机偏差]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: 刘安对利好消息的选择性接受、以家属胁迫劝谏者，以及对庶长子一支的排斥，共同削弱了政治判断与王府内部的冲突控制。No settled contradiction was adopted. “吴皮/伍被”、刘不亥/刘不怀及侄子被重复转写为刘谦等身份问题均保留来源边界；侄子未被强行建页。The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,891 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
