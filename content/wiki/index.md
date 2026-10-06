@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》306-1｜绿茶婊鼻祖拜见汉武帝！](sources/zizhi-tongjian-hanji-306-1-lvchabiao-bizu-baijian-hanwudi-lnruo3m6ahmj5z8k7uu0vlxlapje.md) — 淮南、衡山大狱后的大赦被质疑为杀戮后的仁慈表演；七岁刘据获立太子稳定继承，滇国则仅获地理引介，标题所称会面尚未展开。
 - [《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？](sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp.md) — 衡山王刘赐家中由继后、宠妾、太子与兄妹矛盾形成反太子联盟；人物转录错误与标题所示后续行动均保留来源边界。
 - [649. The Fall of the Incas: The Last Emperor (Part 6)](sources/649-the-fall-of-the-incas-the-last-emperor-part-6-glt4505534064.md) — The Pizarro-Almagro civil war, Manco Inca's Vilcabamba resistance, colonial forced labor and demographic catastrophe, and the 1572 execution of Túpac Amaru I.
 - [戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者](sources/xiju-daoyan-mengjinghui-luoyonghao-cong-ai-reshi-de-fanpanzhe-dao-xiju-wutuobang-de-jiangouzhe-lib-ndrl-9td9h0kql7paz834qep.md) — 孟京辉回顾现代主义启蒙、排练场、长青剧目与戏剧节实践，并以现场共同在场、经济支点和注意力边界解释戏剧的持续生命力。
@@ -3962,7 +3963,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Túpac Amaru I](entities/TupacAmaruI.md) — Final independent Vilcabamba ruler, captured and executed in Cusco in 1572.
 - [孟京辉 / Meng Jinghui](entities/MengJinghui.md) — 以现代主义实验、排练场协作、长青剧目和戏剧节生态连接创作自由与现场艺术的中国戏剧导演。
 - [乌镇戏剧节 / Wuzhen Theatre Festival](entities/WuzhenTheatreFestival.md) — 通过特邀剧目、青年竞演、公共活动、多剧场与小镇社交形成高密度戏剧生态的平台。
-- [滇国 / Dian Kingdom (Western Han-era)](entities/DianKingdomWesternHan.md) — 汉使寻找身毒道路时抵达的西南政体；接待与助探使其进入汉廷战略视野，但不等于已经归附。
+- [滇国 / Dian Kingdom (Western Han-era)](entities/DianKingdomWesternHan.md) — 以滇池区域为中心的西南政体；汉使接待与助探使其进入汉廷战略视野，但不等于已经归附。
 - [身毒 / Shendu (Western Han-era)](entities/ShenduWesternHan.md) — 由大夏所见蜀地货物流通推断出的西南寻路目标；汉使未能抵达，且来源正文存在渊都／运都转写歧异。
 - [Emil Michael](entities/EmilMichael.md) — Defense technology official presenting the Pentagon-side case on AI procurement, autonomy, and industrial modernization.
 - [明定陵 / Ming Dingling](entities/MingDingling.md) — 明代帝陵主动发掘案例，在大量文物出土与脆弱材料损毁、遗失叙述之间呈现考古发现和保存失败并存的风险。
@@ -5995,7 +5996,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [程方遂 / Cheng Fangsui (Western Han)](entities/ChengFangsuiWesternHan.md) — diviner who impersonates Liu Ju at Weiyang Palace and is executed after confession.
 - [隽不疑 / Jun Buyi (Western Han)](entities/JunBuyiWesternHan.md) — Jingzhao Yin who resolves the false-Liu-Ju crisis by arresting the claimant before identity uncertainty becomes disorder.
 - [鲍圣之 / Bao Shengzhi (Western Han)](entities/BaoShengzhiWesternHan.md) — Han Wudi-era direct envoy whose severe public-order authority is qualified by accepting Jun Buyi's moderation counsel and later Wugu punishment hesitation.
-- [卫太子刘据 / Liu Ju, Crown Prince of Western Han](entities/LiuJuCrownPrinceWesternHan.md) — former Han Wudi crown prince whose Wugu frame-up and presumed death make later impersonation politically explosive.
+- [卫太子刘据 / Liu Ju, Crown Prince of Western Han](entities/LiuJuCrownPrinceWesternHan.md) — 七岁获立、被视为稳定继承的汉武帝太子，后在巫蛊构陷与指挥权崩溃中败亡，其身份又成为昭帝朝冒认危机的政治资源。
 - [江充 / Jiang Chong (Western Han)](entities/JiangChongWesternHan.md) — visible Wugu accusation actor whose palace-control and staged-evidence role ends with Liu Ju's forged-command arrest and execution of him.
 - [赵太子刘丹 / Liu Dan, Zhao Crown Prince (Western Han)](entities/LiuDanZhaoPrinceWesternHan.md) — Zhao heir whose scandal and attempted killing of Jiang Chong launch Jiang Chong's central-court accusation path.
 - [赵敬肃王刘彭祖 / Liu Pengzu, Zhao King (Western Han)](entities/LiuPengzuZhaoKingWesternHan.md) — Zhao king, Han Wudi's elder half-brother, and Liu Dan's father whose plea saves Liu Dan from execution.
@@ -18706,7 +18707,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Abstinence Moderation Self-Control](concepts/AbstinenceModerationSelfControl.md) — Goal-management choice between strict no-lapse rules and planned flexible engagement.
 - [Goal Disengagement And Reengagement](concepts/GoalDisengagementAndReengagement.md) — Self-control boundary where letting go of impossible goals supports well-being and new goal pursuit.
 - [Decisive Resource Commitment / 决断型资源投入](concepts/DecisiveResourceCommitment.md) — Decision pattern where sufficient initial resources can avoid repeated failure, while exit rules and full cost accounting distinguish commitment from overreach.
-- [赦令不能替代治理 / Amnesty Cannot Substitute for Governance](concepts/AmnestyCannotSubstituteGovernance.md) — Governance pattern where repeated pardon fails if instruction, court example, and social causes remain unrepaired.
+- [赦令不能替代治理 / Amnesty Cannot Substitute for Governance](concepts/AmnestyCannotSubstituteGovernance.md) — 赦免既不能修复犯罪的制度根源，也不能倒转此前未经审慎裁量的大规模惩罚。
 - [京师示范治理 / Capital Exemplar Governance](concepts/CapitalExemplarGovernance.md) — Governance pattern where the capital and court function as visible models whose customs radiate outward through imitation.
 - [Buridan Indecision Effect / 布利丹效应](concepts/BuridanIndecisionEffect.md) — Decision-failure pattern where unclear criteria or indistinguishable options keep comparison running after it stops producing useful evidence.
 - [Hantavirus Public Risk Triage](concepts/HantavirusPublicRiskTriage.md) — frame for judging hantavirus news by subtype, outbreak setting, reservoir, transmission route, syndrome, and information source.

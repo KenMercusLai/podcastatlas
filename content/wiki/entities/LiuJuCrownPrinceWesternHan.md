@@ -17,14 +17,19 @@ sources:
   - zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs
   - zizhi-tongjian-hanji-381-2-huaitai-14geyue-chanzi-jiemi-gouyi-furen-de-chuanqi-rensheng-lvfj365_foqcmyintojfl7pj4f2t
   - zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto
-last_updated: 2026-09-15
+  - zizhi-tongjian-hanji-306-1-lvchabiao-bizu-baijian-hanwudi-lnruo3m6ahmj5z8k7uu0vlxlapje
+last_updated: 2026-10-07
 ---
 
 ## Overview
 
+[[zizhi-tongjian-hanji-306-1-lvchabiao-bizu-baijian-hanwudi-lnruo3m6ahmj5z8k7uu0vlxlapje|Hanji 306-1]] supplies the chronological baseline: Liu Ju is appointed crown prince at a reported age seven, and the episode interprets recognition of an heir as stabilizing Han Wudi's previously uncertain succession.
+
 卫太子刘据 / Liu Ju enters the wiki through [[zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1|Hanji 396-2]] as the dead former crown prince whose name is used by [[ChengFangsuiWesternHan|程方遂]] in a palace-gate imposture under [[EmperorZhaoOfHan|汉昭帝刘弗陵]]. [[zizhi-tongjian-hanji-381-2-huaitai-14geyue-chanzi-jiemi-gouyi-furen-de-chuanqi-rensheng-lvfj365_foqcmyintojfl7pj4f2t|Hanji 381-2]] adds an earlier exposure layer: while Liu Ju is still crown prince, [[HanWudi|汉武帝]]'s "尧母门" gesture around Liu Fuling and [[LadyGouyiWesternHan|钩弋夫人]] gives ministers a possible younger-heir signal to interpret. [[zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto|Hanji 382-1]] adds the first concrete Jiang Chong grievance in the current wiki: Jiang Chong detains Liu Ju's envoy for using the emperor-only Chi Road, refuses Liu Ju's face-saving plea, and reports the matter to Wudi. [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] adds the missing recognized-heir layer: Liu Ju is humane, cautious, lenient in case handling, trusted with delegated government, and understood by Han Wudi as a stabilizing successor even while harsh-law officials and palace slanderers resent him. [[zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z|Hanji 384-1]] adds the upstream isolation layer: [[GongsunHeWesternHan|公孙贺]] and [[WeiKangWesternHan|卫伉]] are removed as Wei-family and military-capable outside support before Liu Ju reaches the later command crisis. [[zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs|Hanji 385-1]] adds the immediate motive context before the accusation operation: Jiang Chong already has conflict with Liu Ju and [[EmpressWeiZifuWesternHan|卫子夫]] and fears retaliation if Liu Ju succeeds. [[zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte|Hanji 385-2]] supplies the next stage: [[JiangChongWesternHan|江充]] manufactures Wugu evidence, searches the palace, claims to find incriminating objects in Liu Ju's quarters, and forces Liu Ju to weigh [[ShiDeWesternHan|石德]]'s preemptive-arrest advice against filial and legal restraint. [[zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon|Hanji 386-1]] fills the bridge from hesitation to armed crisis: Liu Ju first wants to explain himself to Wudi, but blocked palace access, Jiang Chong's control, Su Wen's report, an adverse messenger report, and Wei Zifu's resource support push the case into mobilization. [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] adds the later interpretive frame-up branch involving Jiang Chong, [[SuWenWesternHan|苏文]], and source-scopedly Lady Gouyi as the hidden mover. [[zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl|Hanji 386-2]] supplies the military-collapse layer: Liu Ju responds to an uncertain edict by mobilizing forces, loses the command-symbol and troop-response contest in Chang'an, is defeated near Changle Palace, and escapes after Tian Ren lets him through the city gate. [[zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku|Hanji 387-1]] supplies the flight interval after [[EmpressWeiZifuWesternHan|卫子夫]]'s suicide: Liu Ju remains unpardoned despite [[LinghuMaoWesternHan|令胡茂]]'s defense, hides in Hu County, and is exposed when a plea for outside help brings troops. [[zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h|Hanji 387-2]] then supplies the death scene and household-destruction layer, while [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] adds the later remorse branch.
 
 ## Current Profile
+
+Hanji 306-1 supplies the appointment baseline missing from the later crisis-focused sources: Liu Ju is made crown prince at seven, and the host treats the established succession as resolving a major uncertainty around Han Wudi's throne. The later recognized-heir, alternative-successor, and Wugu branches therefore begin from a formally stabilized succession rather than from an heir who was always marginal.
 
 The sources do not give Liu Ju a full biography. Hanji 381-2 gives the earliest current succession-pressure signal: Wudi's comparison of Liu Fuling's birth with Yao and the "尧母门" naming do not formally depose Liu Ju, but they make an alternative younger son politically legible. Hanji 384-2 then gives the pre-crisis profile: Liu Ju's mercy is not portrayed as incapacity but as a governing style that Wudi himself thinks may fit a post-expansion, order-stabilizing reign. Wudi delegates affairs to Liu Ju during travels and often accepts his decisions, but Liu Ju's lenient case handling also alienates severe-law officials, worries Wei Zifu, and makes him vulnerable to a slander channel in which Su Wen and Chang Rong report morally or emotionally damaging claims to Wudi. His refusal to preempt Su Wen shows a morally coherent but politically dangerous trust that his father can distinguish malice from truth.
 
@@ -38,7 +43,7 @@ Hanji 388-2 makes the remorse concrete: after extended review of the Wugu cases,
 
 ## Key Characteristics
 
-- Former Western Han crown prince and son of Han Wudi whose Wugu-linked destruction is now grounded in recognized heir suitability, symbolic vulnerability after Liu Fuling is associated with "尧母门," Jiang Chong's Chi Road grievance, pre-crisis slander exposure, support-network loss, blocked appeal, command collapse, fugitive exposure, surrounded-flight suicide, and collateral household killing.
+- Western Han crown prince and son of Han Wudi, appointed at a reported age seven as a succession-stabilizing heir, whose later Wugu-linked destruction is grounded in recognized heir suitability, symbolic vulnerability after Liu Fuling is associated with "尧母门," Jiang Chong's Chi Road grievance, pre-crisis slander exposure, support-network loss, blocked appeal, command collapse, fugitive exposure, surrounded-flight suicide, and collateral household killing.
 - Humane and lenient governing figure whom Wudi reportedly saw as a suitable stabilizing successor, even though harsh-law officials resented his case handling.
 - Source-scoped victim and named future-revenge threat in a frame-up attributed to Jiang Chong, Su Wen, and the host's hidden Lady Gouyi explanation, with Hanji 385-1 adding Jiang Chong's motive and Hanji 385-2 adding the palace-search evidence trap and Shi De's Fusu warning.
 - Isolated heir whose weakened support field and blocked direct appeal precede false-command arrest, Jiang Chong's execution, palace-resource mobilization, and failed claim to imperial command.
@@ -47,6 +52,9 @@ Hanji 388-2 makes the remorse concrete: after extended review of the Wugu cases,
 - Dynastic-line figure whose destroyed household still leaves Liu Bingyi alive as a future Emperor Xuan branch.
 
 ## Evidence
+
+Appointment and recognized-heir baseline:
+- [[zizhi-tongjian-hanji-306-1-lvchabiao-bizu-baijian-hanwudi-lnruo3m6ahmj5z8k7uu0vlxlapje|Hanji 306-1]] says Liu Ju is appointed crown prince at age seven and interprets the established succession as stabilizing Han Wudi's throne; the transcript's “刘巨” is normalized to Liu Ju.
 
 Frame-up branch:
 - [[zizhi-tongjian-hanji-381-2-huaitai-14geyue-chanzi-jiemi-gouyi-furen-de-chuanqi-rensheng-lvfj365_foqcmyintojfl7pj4f2t|Hanji 381-2]] says Han Wudi's "尧母门" naming around Liu Fuling is politically delicate because Liu Ju remains the sitting crown prince.
@@ -97,11 +105,11 @@ This page is bounded to Hanji 396-2, Hanji 391-1, Hanji 388-2, Hanji 387-2, Hanj
 
 ## What Changed
 
+- Added Hanji 306-1's appointment baseline: Liu Ju becomes crown prince at a reported age seven and is presented as resolving an earlier succession uncertainty.
 - Added Hanji 381-2's symbolic-succession warning and Hanji 382-1's Chi Road grievance before the pre-crisis branch: Hanji 384-2's humane temperament, delegated government, lenient case handling, severe-official hostility, Wei Zifu anxiety, and early slander, alongside Hanji 384-1's support-network loss.
 - Preserved Hanji 385-2's palace-search trap branch while adding Hanji 385-1's Jiang Chong motive/mandate setup and Hanji 386-1's escalation bridge: Jiang Chong's staged accusation reaches Liu Ju's quarters, Shi De invokes Fusu, Liu Ju hesitates, then blocked access, Han Shuo's killing, Wei Zifu's support, Su Wen's report, and the messenger report harden the rebellion frame.
 - Added Hanji 391-1's frame-up branch and Hanji 388-2's explicit remorse branch, including Lady Gouyi's source-scoped hidden-mover explanation, Tian Qianqiu's memorial, punishment of Wugu actors, and mourning structures for Liu Ju.
 - Added Hanji 386-2's command-legitimacy and military-defeat branch: uncertain edict, competing tallies, North Army non-response, Chang'an fighting, Tian Ren's leniency, and Wei Zifu's suicide aftermath.
-- Added Hanji 387-1 and Hanji 387-2's flight-to-death branch: Linghu Mao's memorial, partial awakening without public pardon, Hu County exposure, death scene, household casualties, Bowang-education critique, and Liu Bingyi survival hook.
 
 ## Relationships
 
