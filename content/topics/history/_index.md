@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2590
+topic_total_pages: 2591
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -493,6 +493,9 @@ topic_concepts:
   - key: "FirstWorldWarRemembrance"
     title: "First World War Remembrance"
     url: "/wiki/concepts/firstworldwarremembrance/"
+  - key: "FiveForcesSystemicCycle"
+    title: "Five-Forces Systemic Cycle"
+    url: "/wiki/concepts/fiveforcessystemiccycle/"
   - key: "FolkReligiousPanicTransmission"
     title: "Folk Religious Panic Transmission / 民间宗教恐慌传播"
     url: "/wiki/concepts/folkreligiouspanictransmission/"

@@ -34946,6 +34946,23 @@
       "url": "/topics/history/"
     }
   ],
+  "FiveForcesSystemicCycle": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FiveG": [
     {
       "key": "technology",
@@ -81660,6 +81677,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "TechnologyCompanyPerformanceGap": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "TechnologyInnovationAsScaleEconomy": [
     {
       "key": "technology",
@@ -95177,6 +95206,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-rewriting-the-rules-the-sec-cftc-on-crypto-ipos-the-future-of-american-markets-40403225": [

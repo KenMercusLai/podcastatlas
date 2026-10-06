@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3346
+topic_total_pages: 3349
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2230,6 +2230,9 @@ topic_concepts:
   - key: "FirstPersonAIMemory"
     title: "First-Person AI Memory / 第一视角AI记忆"
     url: "/wiki/concepts/firstpersonaimemory/"
+  - key: "FiveForcesSystemicCycle"
+    title: "Five-Forces Systemic Cycle"
+    url: "/wiki/concepts/fiveforcessystemiccycle/"
   - key: "FlatRateAIInferencePricing"
     title: "Flat-Rate AI Inference Pricing"
     url: "/wiki/concepts/flatrateaiinferencepricing/"
@@ -4327,6 +4330,9 @@ topic_concepts:
   - key: "TechnologyAssistedInteriorEnforcement"
     title: "Technology-Assisted Interior Enforcement"
     url: "/wiki/concepts/technologyassistedinteriorenforcement/"
+  - key: "TechnologyCompanyPerformanceGap"
+    title: "Technology-Company Performance Gap"
+    url: "/wiki/concepts/technologycompanyperformancegap/"
   - key: "TeenChatbotMentalHealthRisk"
     title: "Teen Chatbot Mental Health Risk"
     url: "/wiki/concepts/teenchatbotmentalhealthrisk/"
@@ -9504,6 +9510,9 @@ topic_sources:
   - key: "tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio"
     title: "Paul Graham on Y Combinator's Growth, Myths, and the AI Era"
     url: "/wiki/sources/tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280"
+    title: "Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280/"
   - key: "right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f"
     title: "Right in front: AfD could win German state"
     url: "/wiki/sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f/"

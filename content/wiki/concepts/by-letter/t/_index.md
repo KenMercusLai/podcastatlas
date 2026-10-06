@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9796
+wiki_total_pages: 9798
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "TechnologyAssistedInteriorEnforcement"
     title: "Technology-Assisted Interior Enforcement"
     url: "/wiki/concepts/technologyassistedinteriorenforcement/"
+  - key: "TechnologyCompanyPerformanceGap"
+    title: "Technology-Company Performance Gap"
+    url: "/wiki/concepts/technologycompanyperformancegap/"
   - key: "TeenChatbotMentalHealthRisk"
     title: "Teen Chatbot Mental Health Risk"
     url: "/wiki/concepts/teenchatbotmentalhealthrisk/"

@@ -25888,6 +25888,57 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/birthrightcitizenshipdebate/"
     },
+    "BitcoinSafeHavenBehavior": {
+      "episode_count": 6,
+      "show_count": 3,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "155.如何理解黄金的史诗级波动 [lp3lcda5ZskIV_dcEZcUGF2q93VI].md",
+          "key": "155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi",
+          "show": "起朱楼宴宾客",
+          "title": "155.如何理解黄金的史诗级波动",
+          "url": "/wiki/sources/155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi/"
+        },
+        {
+          "episode_file": "129.货币的本质，以及黄金的真正价值 ｜ 串台十分吸引 [lsJBfTtqXf58uK-A4G8-srrETKwb].md",
+          "key": "129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb",
+          "show": "起朱楼宴宾客",
+          "title": "129.货币的本质，以及黄金的真正价值 | 串台十分吸引",
+          "url": "/wiki/sources/129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb/"
+        },
+        {
+          "episode_file": "tech_20260414_0414_MP_TECH_pod_128 [tech_20260414_0414_MP_TECH_pod_128].md",
+          "key": "tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "States are getting crypto-curious",
+          "url": "/wiki/sources/tech-20260414-0414-mp-tech-pod-128-tech-20260414-0414-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260316_0316_MP_TECH_pod_128 [tech_20260316_0316_MP_TECH_pod_128].md",
+          "key": "tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How confident are crypto consumers?",
+          "url": "/wiki/sources/tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260312_0312_MP_TECH_pod_128 [tech_20260312_0312_MP_TECH_pod_128].md",
+          "key": "tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why Bitcoin falls short as a safe haven in geopolitical turmoil",
+          "url": "/wiki/sources/tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Ray Dalio： Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome [40289280].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/bitcoinsafehavenbehavior/"
+    },
     "BlackAmericanGIsWartimeBritain": {
       "episode_count": 1,
       "show_count": 1,
@@ -81141,6 +81192,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/fivedayjingzhao/"
+    },
+    "FiveForcesSystemicCycle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Ray Dalio： Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome [40289280].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/fiveforcessystemiccycle/"
     },
     "FiveG": {
       "episode_count": 2,
@@ -188053,6 +188120,43 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/raybansmartglasses/"
     },
+    "RayDalio": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP239 和大咖聊聊：金价又双叒叕飙了，普通人还能上车吗？ [lgcy2tRgzT7ExpVr5bcYbyBrUMMQ].md",
+          "key": "ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq",
+          "show": "Talk三联",
+          "title": "EP239 和大咖聊聊：金价又双叒叕飙了，普通人还能上车吗？",
+          "url": "/wiki/sources/ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq/"
+        },
+        {
+          "episode_file": "134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法” [lqKjPfQc0YmgVNBoEk5JmJycWTYg].md",
+          "key": "134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg",
+          "show": "起朱楼宴宾客",
+          "title": "134. 投资大师系列先导篇：“他们不只赚了很多钱，更创造了理解世界的方法”",
+          "url": "/wiki/sources/134-touzi-dashi-xilie-xiandao-pian-tamen-bu-zhi-zhuan-le-henduo-qian-geng-chuangzao-le-lijie-shijie-de-fangfa-lqkjpfqc0ymgvnboek5jmjycwtyg/"
+        },
+        {
+          "episode_file": "vol.110.投资就是对世界观的投票｜《迈出资产配置第一步》完结篇 [lk5jkGNZVZerYmCixYlsdQdtn7F8].md",
+          "key": "vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8",
+          "show": "起朱楼宴宾客",
+          "title": "vol.110.投资就是对世界观的投票｜《迈出资产配置第一步》完结篇",
+          "url": "/wiki/sources/vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Ray Dalio： Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome [40289280].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/raydalio/"
+    },
     "RayNeo": {
       "episode_count": 1,
       "show_count": 1,
@@ -213712,6 +213816,36 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/strategicgeneration/"
     },
+    "StrategicGoldAllocation": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "所有净值曲线背后都是人，正态分布的普通人 [lsNRKqHtKTjLmrscOw2_mt2Df0yQ].md",
+          "key": "suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq",
+          "show": "面基",
+          "title": "所有净值曲线背后都是人，正态分布的普通人",
+          "url": "/wiki/sources/suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq/"
+        },
+        {
+          "episode_file": "EP239 和大咖聊聊：金价又双叒叕飙了，普通人还能上车吗？ [lgcy2tRgzT7ExpVr5bcYbyBrUMMQ].md",
+          "key": "ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq",
+          "show": "Talk三联",
+          "title": "EP239 和大咖聊聊：金价又双叒叕飙了，普通人还能上车吗？",
+          "url": "/wiki/sources/ep239-he-daka-liaoliao-jinjia-you-shuang-ruo-zhuo-biao-le-putongren-hai-neng-shangche-ma-lgcy2trgzt7expvr5bcybybrummq/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Ray Dalio： Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome [40289280].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/strategicgoldallocation/"
+    },
     "StrategicIntelligenceInterpretation": {
       "episode_count": 2,
       "show_count": 2,
@@ -220065,6 +220199,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/technologyassistedinteriorenforcement/"
+    },
+    "TechnologyCompanyPerformanceGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Ray Dalio： Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome [40289280].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/technologycompanyperformancegap/"
     },
     "TechnologyMoralPanicCycle": {
       "episode_count": 3,
@@ -228213,9 +228363,9 @@
       "url": "/wiki/concepts/usfastfoodchinaexpansion/"
     },
     "USFiscalDebtSpiralRisk": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
@@ -228237,9 +228387,16 @@
           "show": "Planet Money",
           "title": "Is our national debt finally too much? (update)",
           "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Ray Dalio： Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome [40289280].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/usfiscaldebtspiralrisk/"
     },
     "USImmigrationAndCustomsEnforcement": {

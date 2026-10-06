@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Ray Dalio: Our System Is in Jeopardy - Debt, AI & the Cycle That Destroyed Rome](sources/all-in-with-chamath-jason-sacks-friedberg-ray-dalio-our-system-is-in-jeopardy-debt-ai-the-cycle-that-destroyed-rome-40289280.md) — All-In interview on five interacting historical forces, U.S. debt stabilization, gold and Bitcoin, tariffs, political-order risk, and the gap between AI technology and company returns.
 - [No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机](sources/no-218-mengyang-dachang-xunlian-ni-xian-suan-shouyi-er-ziyou-zhiye-jiao-ni-yongbao-suiji-gkwrijenemmyatrz5grxxlq6.md) — 三五环 conversation with 梦阳 and 刘飞 on nonlinear careers, 腾讯微视, stand-up feedback, corporate ROI habits, repeated creative action, and freelance uncertainty.
 - [VOL.197咖啡是高利贷，睡眠是储蓄卡：这届打工人的“春困”自救指南](sources/vol-197-kafei-shi-gaolidai-shuimian-shi-chuxuka-zhejie-dagongrende-chunkun-zijiu-zhinan-lkcj1kymw09hwvfcbwcr-noydrad.md) — 这病说来话长 episode with 阿汤 and 董飞 on daytime-sleepiness triage, sleep, caffeine, short rest, gentle movement, spring TCM boundaries, and metabolic-health escalation.
 - [《资治通鉴·汉纪》302-1｜西汉叔侄内斗，结果坑爹也坑爷](sources/zizhi-tongjian-hanji-302-1-xihan-shuzhi-neidou-jieguo-kengdie-ye-kengye-ln6rfk8nzoyeqxduik_edlqqiyug.md) — 刘安奖赏符合帝王梦的情报并以家属胁迫反对者；劝谏一度阻止谋反，而对庶长子一支的排斥又把不满传到叔侄冲突。
@@ -14391,7 +14392,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [U.S. News and World Report](entities/USNewsAndWorldReport.md) — Ranking reference used in the college-search episode to show how AI can reinforce familiar school lists.
 - [Instagram](entities/Instagram.md) — Meta social platform tied to youth-safety litigation, college-search vibe signals, and Muse Image public-likeness generation.
 - [Ray Smith](entities/RaySmith.md) — Wall Street Journal workplace reporter interviewed by Marketplace Tech about AI job interviews, candidate experience, automated assessments, and human-in-the-loop hiring.
-- [Ray Dalio](entities/RayDalio.md) — All-weather investing reference in vol.110, linking Bridgewater, risk parity, and investment worldview fit.
+- [Ray Dalio](entities/RayDalio.md) — Investor linking all-weather allocation and gold diversification to a five-force framework for debt, political division, geopolitics, technology, and natural shocks.
 - [Wall Street Journal](entities/WallStreetJournal.md) — Media organization entering the wiki through Ray Smith's Marketplace Tech commentary on AI interviewing and hiring automation.
 - [Davines](entities/Davines.md) — Hair-care brand used as the Marketplace Tech case for a fake sponsored shopping result and AI-assisted retail website impersonation.
 - [Netcraft](entities/Netcraft.md) — Cybersecurity company cited for identifying AI-generated websites impersonating brands.
@@ -16579,6 +16580,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [Five-Forces Systemic Cycle](concepts/FiveForcesSystemicCycle.md) — Dalio framework for interacting debt, domestic conflict, great-power rivalry, technology, and natural shocks during changes in political and monetary order.
+- [Technology-Company Performance Gap](concepts/TechnologyCompanyPerformanceGap.md) — Distinction between economy-wide technological usefulness and the survival, profitability, or investor returns of companies building it.
 - [大厂 ROI 思维的创作外溢 / ROI-Mindset Creative Spillover](concepts/ROIMindsetCreativeSpillover.md) — Transfer of growth, return, and bad-case habits into creative decisions where premature calculation can suppress the experiments needed to discover fit.
 - [Daytime Sleepiness Triage and Recovery / 日间困倦分流与恢复](concepts/DaytimeSleepinessTriageAndRecovery.md) — Separates mild transient tiredness from persistent or warning-sign sleepiness and distinguishes short-term stimulation from recovery or cause-based assessment.
 - [年号制度 / Era-Name System](concepts/EraNameSystem.md) — 以君主或朝廷所定名号纪年，并把时间标准化、政治权威、合法性记忆与跨政权比较成本结合起来的制度。
@@ -19751,7 +19754,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [屯田贴近引发安全困境 / Tuntian Proximity Security Dilemma](concepts/TuntianProximitySecurityDilemma.md) — Frontier pattern where military-agricultural settlement placed too close to neighboring groups creates fear and defensive alliance behavior.
 - [王国相整肃 / Royal Fief Discipline](concepts/RoyalFiefDiscipline.md) — Governance pattern where a kingdom minister forces a royal fief back under public law, ritual hierarchy, and administrative order.
 - [Agentic System-of-Record Moat](concepts/AgenticSystemOfRecordMoat.md) — AI-era enterprise software defense where agents need trusted context, permissions, workflows, and auditable state from systems of record.
-- [U.S. Fiscal Debt Spiral Risk](concepts/USFiscalDebtSpiralRisk.md) — Macro risk that deficits, refinancing pressure, high long-term yields, and spending incentives reinforce one another.
+- [U.S. Fiscal Debt Spiral Risk](concepts/USFiscalDebtSpiralRisk.md) — Conditional risk that deficits, refinancing, funding costs, foreign-creditor demand, shorter maturities, and political constraints reinforce one another.
 - [AI-Assisted Writing Disclosure](concepts/AIAssistedWritingDisclosure.md) — Norm question for when public writers should disclose AI drafting, editing, or structuring help under a signed byline.
 - [Persistent Cloud Agents](concepts/PersistentCloudAgents.md) — Agent pattern where delegated work continues in cloud infrastructure after the user's local session ends.
 - [Cancer Immunotherapy Access](concepts/CancerImmunotherapyAccess.md) — Cost, patent, regulatory, right-to-try, and patient-access boundary around personalized cancer immunotherapy.
@@ -22188,7 +22191,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Web-Fiction-To-Short-Drama Pipeline / 网文到短剧转化链](concepts/WebFictionToShortDramaPipeline.md) — EP240 pipeline where Chinese web-fiction IP, ad material, and audience-acquisition techniques become short-drama production logic.
 - [Women-Oriented Melodrama Demand / 女性向通俗情节需求](concepts/WomenOrientedMelodramaDemand.md) — EP240 demand frame connecting 霸总, werewolves, vampires, Lifetime-like melodrama, and emotional compensation.
 - [Data-Driven Entertainment Product / 数据驱动娱乐产品](concepts/DataDrivenEntertainmentProduct.md) — EP240 concept treating short drama as iterative internet entertainment shaped by clips, ROI, platform metrics, and user feedback.
-- [Strategic Gold Allocation / 黄金战略底仓](concepts/StrategicGoldAllocation.md) — EP239 frame for treating gold as a persistent defensive portfolio sleeve with target sizing, staged entry, and rebalancing discipline.
+- [Strategic Gold Allocation / 黄金战略底仓](concepts/StrategicGoldAllocation.md) — Role-defined gold sleeve for monetary and issuer-credit diversification, bounded by investor-specific sizing, staged entry, and rebalancing.
 - [Gold Investment Products / 黄金投资产品](concepts/GoldInvestmentProducts.md) — EP239 product map separating jewelry, bars, coins, ETF-like exposure, and professional derivatives by liquidity, fees, and suitability.
 - [Gold Portfolio Products / 黄金家组合产品](concepts/GoldPortfolioProducts.md) — EP239 category for professionally managed multi-asset products that embed a strategic gold sleeve to address recognition, entry, and holding frictions.
 - [Urban Niche Sports / 城市小众运动](concepts/UrbanNicheSports.md) — EP238 frame for sports becoming visible through urban venues, indoorization, simplified formats, equipment, community, and lifestyle participation.
@@ -24591,7 +24594,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Coding Guardrails](concepts/AICodingGuardrails.md) — Review, control, and deployment practices for keeping AI-assisted engineering work from becoming production risk.
 - [YouTube Media Dominance](concepts/YouTubeMediaDominance.md) — YouTube's platform position across creator content, TV, Shorts, ads, subscriptions, Alphabet data, and AI creator tools.
 - [Digital Gold](concepts/DigitalGold.md) — Claim that Bitcoin can play a gold-like monetary role through capped supply, government independence, divisibility, and global transferability.
-- [Bitcoin Safe-Haven Behavior](concepts/BitcoinSafeHavenBehavior.md) — Question of whether Bitcoin actually attracts protective demand during shocks rather than only carrying a digital-gold narrative.
+- [Bitcoin Safe-Haven Behavior](concepts/BitcoinSafeHavenBehavior.md) — Evidence-based separation of acute refuge behavior, prolonged-crisis portability, public-reserve hypotheses, and the digital-gold narrative.
 - [Cross-Border Crypto Capital Flight](concepts/CrossBorderCryptoCapitalFlight.md) — Use of crypto assets such as Bitcoin to move wealth across borders during instability, currency pressure, sanctions, or capital controls.
 - [Newsroom AI Adoption](concepts/NewsroomAIAdoption.md) — Use of AI across newsroom transcription, lead generation, summarization, document review, and article drafting workflows.
 - [AI Rewrite Desk](concepts/AIRewriteDesk.md) — Workflow where reporters' notes are turned into articles by an editor prompting AI.

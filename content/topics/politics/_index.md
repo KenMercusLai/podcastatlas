@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3153
+topic_total_pages: 3154
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1558,6 +1558,9 @@ topic_concepts:
   - key: "FisheriesResourceManagement"
     title: "Fisheries Resource Management"
     url: "/wiki/concepts/fisheriesresourcemanagement/"
+  - key: "FiveForcesSystemicCycle"
+    title: "Five-Forces Systemic Cycle"
+    url: "/wiki/concepts/fiveforcessystemiccycle/"
   - key: "FloodControlRiskTransfer"
     title: "Flood Control Risk Transfer"
     url: "/wiki/concepts/floodcontrolrisktransfer/"
