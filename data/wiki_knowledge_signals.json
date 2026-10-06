@@ -121512,9 +121512,9 @@
       "url": "/wiki/entities/jinlaoshiartist/"
     },
     "JinMidiWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事 [lrLOtzt34Bbp3JaHJwMzygXuZB_z].md",
@@ -121543,9 +121543,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》390-1｜西汉第一大案，金日磾如何救了汉武帝性命？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》315-2｜杀死亲儿子的他，竟成了皇帝心腹？ [lgxSXh75VhnLE6_ZpLaTmINcWGrG].md",
+          "key": "zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》315-2｜杀死亲儿子的他，竟成了皇帝心腹？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-07",
       "url": "/wiki/entities/jinmidiwesternhan/"
     },
     "JinShang": {
@@ -169210,9 +169217,9 @@
       "url": "/wiki/concepts/palaceproximitypower/"
     },
     "PalaceProximityVigilance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》390-1｜西汉第一大案，金日磾如何救了汉武帝性命？ [ls4snV189GvaSY6yKe7Aw0Kwhz8m].md",
@@ -169220,9 +169227,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》390-1｜西汉第一大案，金日磾如何救了汉武帝性命？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》315-2｜杀死亲儿子的他，竟成了皇帝心腹？ [lgxSXh75VhnLE6_ZpLaTmINcWGrG].md",
+          "key": "zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》315-2｜杀死亲儿子的他，竟成了皇帝心腹？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/palaceproximityvigilance/"
     },
     "Palantir": {

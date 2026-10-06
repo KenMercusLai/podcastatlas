@@ -8,76 +8,71 @@ sources:
   - zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm
   - zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt
   - zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m
-last_updated: 2026-09-14
+  - zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg
+last_updated: 2026-10-07
 ---
 
 ## Overview
 
-金日磾 / Jin Midi enters the wiki through [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] as a Xiongnu-born Western Han minister whose death, marquisate, funeral honors, and descendants are used to extend the episode's family-education theme from [[JunBuyiWesternHan|隽不疑]] to household discipline and political caution. [[zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm|Hanji 391-2]] adds the entrusted-minister layer: Jin is present at [[HanWudi|汉武帝]]'s sickbed succession arrangement and deflects the leading role to [[HuoGuangWesternHan|霍光]]. [[zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt|Hanji 390-2]] backfills why Wudi trusted him and why later folklore could associate him with the three-eyed [[MaWangye|马王爷]], while [[zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m|Hanji 390-1]] supplies the concrete palace-rescue episode behind that vigilance profile.
+金日磾 / Jin Midi is presented across the bounded sources as a Xiongnu-born captive who rises from palace horse care to trusted Western Han attendant, saves [[HanWudi|汉武帝]] from [[MaHeluoWesternHan|马何罗]], participates in the deathbed succession arrangement, and receives exceptional posthumous honor. His profile joins practical competence, visible self-command, political isolation from established Han interests, crisis vigilance, careful handling of rank, and severe family discipline.
 
 ## Current Profile
 
-The sources present Jin Midi as a rare case of foreign-origin service being fully trusted and honored inside the Western Han court. Hanji 390-2 says Han Wudi trusts him partly because a Xiongnu-origin official without deep Central Plains roots has fewer local interest ties and less reason to rebel. Hanji 390-1 gives that trust a crisis scene: after [[MaHeluoWesternHan|马何罗]] and his brothers become afraid of implication in the post-[[WuguIncidentWesternHan|Wugu]] purge, Jin notices their abnormal behavior, says nothing publicly, shadows them, and stands at the critical palace threshold when Ma Heluo approaches Wudi's sleeping quarters with a hidden blade. This turns the "third eye" story into a political-perception metaphor: later people could imagine Jin as Ma Wangye-like because his caution and close service let him detect hidden palace danger.
+Jin's trust is cumulative rather than reducible to one lucky encounter. [[zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg|Hanji 315-2]] begins with a fourteen-year-old Xiongnu prince assigned to palace horses. Wudi notices his composure around palace women and the quality of the horses, then promotes him from horse supervisor into close attendance. The episode treats strict maternal instruction, capable work, and consistently error-free conduct as the foundation of favor. [[zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt|Hanji 390-2]] adds a political explanation: because Jin lacks deep Central Plains factional roots, the court can read his dependence and outsider status as a reliability asset.
 
-Hanji 391-2 then makes his delicacy visible at the succession origin point: he says that if an outside-origin minister led the regency, Xiongnu would look down on Han, so he yields the central assisting role to Huo Guang. Han Wudi had also ordered that he be enfeoffed as Du Hou, but Jin initially refused because [[EmperorZhaoOfHan|汉昭帝刘弗陵]] was still young and because standing out too much was dangerous for a Xiongnu-born official. When he became seriously ill, Huo Guang requested the title again and Jin accepted, which Hanji 394-1 reads as a choice for his sons' inheritance rather than a sudden appetite for rank.
+That cultivated proximity later becomes security capacity. [[zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m|Hanji 390-1]] says Jin notices abnormal behavior among the Ma brothers, avoids a premature public accusation, stays near Wudi, and captures Ma Heluo at the sleeping-quarter threshold. The later “third eye” association with [[MaWangye|马王爷]] is therefore retained only as folklore translating careful observation into supernatural vision.
 
-His profile is therefore defined by restraint, family continuity, and institutionally bounded favor. Hanji 390-1 adds the severe household-boundary version: Jin honors his mother as the teacher of his discipline, and he kills a favored elder son after the son behaves improperly with palace women, a deed the source reads as extreme awareness that family access to imperial intimacy can endanger the whole house. Han Zhao personally wants both Jin sons to receive special marquis-level treatment, but Huo Guang answers that only one son can inherit and that marquisate should follow prior rules and state merit. Jin's posthumous honors remain extraordinary: the episode says he receives military-style funeral treatment and burial honor near the imperial mausoleum, placing him with a very small group of highly honored Han Wudi-era ministers.
+His restraint also governs rank and family. [[zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm|Hanji 391-2]] places him among Wudi's entrusted ministers but says he yields leading authority to [[HuoGuangWesternHan|霍光]] because a Xiongnu-born chief regent could damage Han prestige. [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] interprets his initial refusal of the Du Hou title as caution under a young emperor and his sickbed acceptance as family continuity. The sources also repeatedly report that he killed a favored elder son for improper conduct with palace women. That act is evidence of extreme boundary enforcement in these episodes, not a normatively justified model of parenting or a fully reconstructed legal event.
 
 ## Key Characteristics
 
-- Xiongnu-born Western Han minister whose Han-court service is presented as unusually successful and honored.
-- Trusted outsider whose lack of deep Central Plains court entanglement is treated as a political reliability asset.
-- Vigilant palace servant whose capture of Ma Heluo grounds the later "third eye" image as mythic language for detecting hidden danger.
-- Entrusted sickbed minister who deflects regency leadership to Huo Guang on external-prestige grounds.
-- Cautious official who refuses an early marquisate because accepting high rank under a young emperor could make him too conspicuous.
-- Father whose household discipline is presented as political boundary control, including both harsh punishment of a favored son and later acceptance of sickbed enfeoffment so a title can pass to his sons.
-- Posthumously honored figure whose funeral treatment marks exceptional court recognition.
+- Xiongnu-born captive whose palace career begins with horse-management competence and controlled public conduct.
+- Trusted outsider whose weak ties to established Han factions are treated as a reliability advantage but also make his position delicate.
+- Vigilant close servant whose quiet detection and capture of Ma Heluo ground a later “third eye” legend.
+- Entrusted minister who deflects regency leadership to Huo Guang and handles enfeoffment cautiously.
+- Strictly self-controlled courtier whose maternal education is used to explain sustained ritual and verbal discipline.
+- Father whose killing of a favored son represents extreme household and palace-boundary enforcement in the source narratives.
+- Highly honored official whose title, funeral treatment, and descendants connect personal restraint to family continuity.
 
 ## Evidence
 
-Trust and vigilance:
-- [[zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m|Hanji 390-1]] says Jin Midi notices the Ma brothers' abnormal behavior, quietly watches them, stays by Han Wudi, and captures Ma Heluo before the assassination reaches the emperor.
-- [[zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m|Hanji 390-1]] says Han Wudi tells guards not to injure Jin during the arrest, showing how much Wudi values him in the crisis.
-- [[zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt|Hanji 390-2]] says Han Wudi trusts Jin because his Xiongnu origin and lack of entrenched Central Plains court ties make him less likely to rebel.
-- [[zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt|Hanji 390-2]] reads the "three eyes" tradition as a later mythic expression of Jin's cautious ability to detect the Ma Heluo palace plot.
+Trust formation through competence and conduct:
+- [[zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg|Hanji 315-2]] says Wudi notices Jin's composure during a horse display, the condition of his horses, and his Xiongnu-prince identity before promoting him.
+- [[zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg|Hanji 315-2]] says Jin's later advancement rests on careful speech, correct ritual conduct, effective work, and sustained lack of visible error despite court suspicion.
+- [[zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt|Hanji 390-2]] explains Wudi's trust partly through Jin's lack of a separate Central Plains interest base.
 
-Cautious title handling:
-- [[zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm|Hanji 391-2]] says Jin Midi is among the entrusted ministers at Han Wudi's deathbed and is appointed Chariots-and-Cavalry General.
-- [[zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm|Hanji 391-2]] says Jin deflects the central assisting role to Huo Guang because Xiongnu would look down on Han if Jin, an outside-origin minister, led the regency.
-- [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] says Han Wudi's testamentary arrangement had included enfeoffing Jin Midi as Du Hou, but Jin did not accept at first.
-- [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] reads the refusal as low-profile caution tied to the young emperor and Jin's Xiongnu identity.
-- [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] says Jin later accepts the title when gravely ill after Huo Guang petitions Han Zhao.
+Vigilance and crisis loyalty:
+- [[zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m|Hanji 390-1]] says Jin watches the Ma brothers quietly, remains near Wudi, and captures Ma Heluo before the hidden blade reaches the emperor.
+- [[zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt|Hanji 390-2]] interprets the Ma Wangye “third eye” tradition as folklore about practical caution rather than literal anatomy.
 
-Family continuity and institutional boundary:
-- [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] interprets the sickbed acceptance as a way to let his son inherit the marquisate.
-- [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] says Han Zhao wants another Jin son to receive comparable treatment, while Huo Guang answers that only one son can inherit and that marquisate follows state merit and inherited-title rules.
+Succession and rank restraint:
+- [[zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm|Hanji 391-2]] places Jin among the four entrusted ministers and says he yields the leading assisting role to Huo Guang on external-prestige grounds.
+- [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] says Jin initially refuses Du Hou, later accepts it when gravely ill, and receives military-style funeral honor; the episode reads acceptance as preserving inheritance for his sons.
+- [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] says Huo Guang limits additional favor to Jin's sons by applying merit and inheritance rules.
 
-Posthumous honor and household discipline:
-- [[zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m|Hanji 390-1]] says Jin's mother trained him and his brother in careful conduct, and that Wudi honors her with a Ganquan Palace portrait after her death.
-- [[zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m|Hanji 390-1]] says Jin kills his elder son after the son behaves improperly with palace women, and that Han Wudi values Jin even more after hearing his explanation.
-- [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] says Jin dies the day after receiving the title and receives military-style funeral honors.
-- [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] says his descendants preserve cautious conduct and that Ban Gu praises the family.
-- [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] closes by noting Jin Midi's mother strictly disciplined his sons, linking the Jin family to the episode's wider family-education theme.
+Maternal formation and family severity:
+- [[zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg|Hanji 315-2]] and [[zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m|Hanji 390-1]] attribute Jin's careful conduct to strict maternal education.
+- [[zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg|Hanji 315-2]] and [[zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m|Hanji 390-1]] both say Jin kills an elder son for improper conduct with palace women; the earlier-numbered episode emphasizes Wudi's grief and continuing respect, while the later episode emphasizes intensified trust after Jin's explanation.
+- [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] says his descendants preserve cautious conduct and links family continuity to strict discipline.
 
 ## Qualifications
 
-This page is bounded to Hanji 390-1, Hanji 390-2, Hanji 391-2, and Hanji 394-1. It does not reconstruct Jin Midi's full early life, the complete story of his Xiongnu origin, the full legal form of the entrusted-minister arrangement, the full legal form of Du Hou inheritance, the exact funeral protocol, the complete record of his sons, or the later Jin lineage under Wang Mang. Hanji 390-1 supplies a narrative account of the Ma Heluo palace incident but does not settle every primary-source variant, palace geography detail, or prosecution record. The sources' claims about motive are interpretive: trust, refusal, and later acceptance are read through political isolation, caution, foreign-origin delicacy, and family continuity rather than proven from private statements. The Ma Wangye link is treated as folklore, not as literal evidence that Jin had a third eye.
+This profile is bounded to five podcast source notes and does not independently reconstruct Jin Midi's full biography, primary-source variants, the legal context of killing his son, the exact Lingguang Palace sequence, the complete entrusted-minister arrangement, or later lineage history. Hanji 315-2's “金秘笛” is normalized to 金日磾 from the matching biographical chain; its “魂爷王” is likely an ASR form of 浑邪王 but remains unresolved here. Claims about why Wudi trusted Jin, why Jin refused or accepted rank, and how suffering produced restraint are episode interpretations rather than access to private motive. The sources' severe family-discipline framing does not establish that violence was justified or necessary.
 
 ## What Changed
 
-- Added Hanji 390-1's concrete Lingguang Palace rescue sequence, Ma Heluo capture, maternal-discipline layer, and severe son-punishment boundary case.
-- Reframed Hanji 390-2's trust logic and three-eyed Ma Wangye folklore through Hanji 390-1's specific close-protection episode.
+- Backfilled Jin's early transition from Xiongnu captive and palace horse keeper to horse supervisor and close attendant.
+- Recast Wudi's trust as a cumulative judgment combining first impression, work quality, repeated self-command, and political outsider status.
+- Added the new episode's more qualified account of the son-killing aftermath: Wudi grieves but continues respectful treatment.
 
 ## Relationships
 
-- [[Xiongnu]] - origin background that makes Jin's high Han-court status politically delicate.
-- [[HanWudi]] - deceased emperor whose testamentary command frames the marquisate.
-- [[MaHeluoWesternHan]] - would-be assassin whom Jin detects and captures.
-- [[MaTongWesternHan]] - Ma brother whose Wugu-era reward helps explain the family's later exposure.
-- [[EmperorZhaoOfHan]] - young ruler who grants the title and favors Jin's sons.
-- [[HuoGuangWesternHan]] - regent who requests sickbed enfeoffment and maintains the inheritance boundary.
-- [[MaWangye]] - folklore image later associated with Jin's vigilance and palace-protection legend.
-- [[PalaceProximityVigilance]] - concept named from Jin's quiet observation, threshold placement, and boundary discipline.
-- [[JunBuyiWesternHan]] - paired episode figure in the family-education frame.
-- [[ParentalEmbodiedModeling]] - concept related to the source's closing note on strict maternal discipline.
-- [[MeritBasedRewardPunishment]] - adjacent rule standard invoked when Huo limits additional Jin-family favor.
+- [[Xiongnu]] - origin background that makes Jin's Han-court rise both exceptional and politically delicate.
+- [[HanWudi]] - patron whom Jin serves, protects, and advises through controlled proximity.
+- [[MaHeluoWesternHan]] - would-be assassin whose capture converts Jin's long court discipline into visible crisis value.
+- [[HuoGuangWesternHan]] - fellow entrusted minister to whom Jin yields leading regency authority.
+- [[EmperorZhaoOfHan]] - young successor under whom Jin handles title and family favor cautiously.
+- [[MaWangye]] - folklore image associated with Jin's supposed “third eye” vigilance.
+- [[PalaceProximityVigilance]] - pattern linking earned access, quiet observation, and boundary enforcement.
+- [[ParentalEmbodiedModeling]] - adjacent explanation for the sources' emphasis on Jin's maternal formation.
+- [[MeritBasedRewardPunishment]] - institutional boundary invoked when Huo limits additional Jin-family favor.

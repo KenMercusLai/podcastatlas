@@ -30848,3 +30848,11 @@ Added source `zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixin
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》315-2｜杀死亲儿子的他，竟成了皇帝心腹？
+
+Added source `zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg`; resynthesized [[JinMidiWesternHan|金日磾]] and [[PalaceProximityVigilance|近侍警觉]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Jin's trusted palace access develops cumulatively from horse-management competence, visible composure, and sustained error-free conduct, then becomes crisis-security capacity in the later Ma Heluo rescue; his killing of a favored son remains an extreme boundary-enforcement episode, not a justified parenting model. No settled contradiction was adopted. “金秘笛” is normalized to 金日磾 from the matching biographical chain; “魂爷王” likely reflects 浑邪王 but remains unresolved, while exact chronology, offices, motives, the legal context of the killing, and the host's suffering-to-patron causation remain source-scoped. The broad [[HanWudi|汉武帝]] page was kept closed because the bounded addition is represented in the focused profile, concept, and source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,857 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

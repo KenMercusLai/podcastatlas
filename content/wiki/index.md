@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》315-2｜杀死亲儿子的他，竟成了皇帝心腹？](sources/zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg.md) — 金日磾从匈奴王子与宫中马奴升为汉武帝近侍；节目把养马能力、长期自持与严苛家规视为信任基础，同时保留杀子事件和处世因果的证据边界。
 - [《资治通鉴·汉纪》316-2｜汉武帝三大罪，穷了一国百姓](sources/zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29.md) — 将汉武帝的战争、灾荒救济、迁徙、宫殿与求仙支出放入同一财政账本，并在承认河西与边防收益的同时追问普通家庭承担的税役和民生成本。
 - [650. London’s Golden Age: The Mad Life of Dr Johnson (Part 1)](sources/650-londons-golden-age-the-mad-life-of-dr-johnson-part-1-glt2687128958.md) — The Rest Is History on Samuel Johnson’s illness, poverty, marriage, London print labor, Dictionary, patronage conflict, and rise to conversational fame.
 - [Graham Allison on the Global Realignment: Iran, China, Israel, Greenland](sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425.md) — All-In interview on Iran war objectives and aftermath, China-Taiwan risk, permission-based Greenland access, nuclear order, and inequality-driven instability.
