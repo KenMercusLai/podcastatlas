@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》319-1｜跟着古代皇帝学习抢人才](sources/zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g.md) — 汉武帝把人才定义为可供君主使用的“器”，节目由此批评工具化用人，并以董卓强迫征士与刘备争取诸葛亮对照不同人才吸附方式。
 - [《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代](sources/zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k.md) — 司马懿受抓捕威胁后出仕、陈琳檄文以宦官家世攻击曹操，并由东方朔与公孙弘对照讨论权力中心如何定义“可用人才”。
 - [《资治通鉴·汉纪》322-1｜汉武帝如何割商人韭菜？](sources/zizhi-tongjian-hanji-322-1-hanwudi-ruhe-ge-shangren-jiucai-lgaj0-pl6tlj4u6qlapyo51qf5fz.md) — 从战争与工程造成的财政压力出发，串联算缗自报、隐产与资产转换、告缗奖励告发及没收惩罚，并保留税率、术语和物价因果的转录与史料边界。
 - [VOL.198韩国精神科医生南基赫：首尔年轻人为什么这么焦虑｜海外医疗浅谈](sources/vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weishenme-zheme-jiaolv-haiwai-yiliao-qiantan-llbbspymxk-uaywevoebnhoeo98r.md) — 首尔精神科医生南基贺从职场、住房、婚恋、家庭、语言与医疗可及性解释韩国青年及在韩中国学生的心理压力，并限定跨文化观察的样本边界。

@@ -34,6 +34,7 @@ sources:
   - zizhi-tongjian-hanji-365-2-wan-de-hua-jiemi-shishang-zuihaose-de-huangdi-lu3xsuqwx0ibjdk6t2glls389vkd
   - zizhi-tongjian-hanji-340-1-tai-qipa-gudai-huangdi-de-changshou-mifang-ljew1gfzarlkvxt7vaqoqn8qdh-m
   - zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5
+  - zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g
 last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
@@ -68,6 +69,8 @@ Other layers make Han Wudi a calendar, ritual, and moral-expenditure marker. [[z
 
 Hanji 400-2 adds a talent-channel contrast. Against the episode's wider theme of class fixation, Han Wudi appears as a ruler who needed talent beyond outer-relative and hereditary channels. The source says he used ability-oriented selection and local recommendation to elevate people outside entrenched official lineages, making him a partial counterexample to complete status closure even though the page's broader evidence still emphasizes the costs and dangers of his rule. [[zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98|Hanji 369-2]] makes that need immediate after [[WeiQingHanGeneral|卫青]]'s death: with senior civil and military figures depleted, Wudi orders local recommendation of unconventional people fit for high command, the chancellorship, or distant missions. The edict broadens acceptable talent, while the host's contrast with Wudi's earlier lethal severity turns the shortage into a source-scoped personnel-policy feedback case.
 
+Hanji 319-1 makes the tension inside that openness explicit. Its quoted exchange presents Wudi as saying that worthy people can arise beyond fixed regions and lineages and that scarcity is chiefly a failure of recognition, yet it also defines talent as a useful instrument and equates unwillingness to serve fully with having no talent. The current synthesis therefore distinguishes wide recruitment from humane personnel governance: opening origins can coexist with a ruler-centered standard of obedience and use.
+
 Hanji 396-3 adds the commercial damage branch. The episode treats Han Wudi as an "economic killer" of Western Han commerce: after Wen-Jing prosperity, state monopoly over profitable goods, 算缗-style merchant and property assessment, and 告缗-style rewarded denunciation make commercial wealth insecure. This extends the cost profile from war and frontier expansion into everyday markets and property relations.
 
 Hanji 392-4 adds the ideological architecture branch. The episode argues that Han Wudi's "独尊儒术" is not a simple embrace of original Confucian teaching but the elevation of [[DongZhongshu|董仲舒]]'s remade official Confucianism. In that reading, Confucian moral language, Heaven-response politics, disasters, and "罪己诏" give imperial rule a civilized and admonitory surface, while [[HanFei|韩非]]-style hierarchy and Legalist operation remain inside the structure.
@@ -87,7 +90,7 @@ Hanji 336-2 adds a much more uncertain early military-household branch. It says 
 - Source-scoped case of spring war timing used to attack future population and livestock capacity.
 - Ruler whose preferences create advice and appointment risk, and whose treatment of royal kin ranges from severe law enforcement to costly tolerance when a violent relative appears politically nonthreatening.
 - Imperial consumer of ritual, spectacle, and intimate service whose adoption of dew-and-jade longevity claims, regional divination, fangshi-driven construction, mixed court performance, and a reportedly stratified harem turns sacred, entertainment, and favorite access into collection devices, personnel, buildings, registers, allowances, gifts, and public display, while later wugu fear becomes political and succession danger before disillusionment produces fangshi dismissal.
-- Calendar, ritual, and talent-channel anchor whose Taichu reform joins astronomical rules to dynastic symbols and state ceremony, while the Yuan Dan and official-selection sources show downstream festival order, access beyond hereditary office families, and emergency recruitment after senior-cohort depletion.
+- Calendar, ritual, and talent-channel anchor whose Taichu reform joins astronomical rules to dynastic symbols and state ceremony, while the Yuan Dan and official-selection sources show downstream festival order, access beyond hereditary office families, emergency recruitment after senior-cohort depletion, and a source-presented doctrine that ultimately measures talent by full usefulness to the ruler.
 - Ideological state-builder and negative fiscal-moral example whose Confucian turn is read by Hanji 392-4 as "outer Confucian, inner Legalist" renovation of Qin-style imperial structure, while Hanji 392-1 shows law overriding sibling and marital kinship and Hanji 381-2/384-1/385-1/386-1/388-2/391-1/391-2 show a final succession arc built around symbolic younger-son elevation, support-network destruction, fear-driven investigative authority, misinformation-driven suppression, belated Wugu remorse, mother-risk removal, and entrusted ministers.
 
 ## Evidence
@@ -112,6 +115,7 @@ Hanji 336-2 adds a much more uncertain early military-household branch. It says 
 - Taichu ritual and calendar program: [[zizhi-tongjian-hanji-371-2-shangdi-shuyu-zhongguo-zhexia-shichui-le-ltllclatwddfxlawrdpgziqlp3xq|Hanji 371-2]] joins Mingtang and Houtu sacrifice, immortal searches, Jianzhang Palace symbolism, calendar reform, dynastic color and number, pitch standards, offices, and ritual in the same annalistic year.
 - Talent-channel opening: [[zizhi-tongjian-hanji-400-2-yidai-qiong-shidai-qiong-nandao-qiongren-jiu-gai-daidai-qiong-lluvrlqzbzx4bb_aatfmtyqibdym|Hanji 400-2]] says Han Wudi used ability-oriented selection and local recommendation to recruit figures outside hereditary official families.
 - Talent-shortage response: [[zizhi-tongjian-hanji-369-2-gaiming-bikan-yinji-faze-yyds-foitbkrmhmc1xgeu0tk4btyvmi98|Hanji 369-2]] says Wudi responds to Wei Qing's death and senior-cohort depletion with a broad search for unconventional military, civil, and diplomatic talent; the episode's claim that earlier severity produced the shortage remains interpretive.
+- Talent breadth and ruler-defined usefulness: [[zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g|Hanji 319-1]] presents Wudi as combining openness to talent from any origin with the claim that ability has no value when its holder will not be fully used by the ruler.
 - Ideological renovation: [[zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9|Hanji 392-4]] reads Han Wudi's "独尊儒术" as a Confucian moral surface over a Legalist imperial structure, mediated by Dong Zhongshu's Heaven-response theory.
 - Kinship-law severity: [[zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa|Hanji 392-1]] says Han Wudi approves Zhao Pingjun's execution despite Longlü Princess's paid plea, because ancestral law and public legitimacy must not yield to private family affection.
 - Royal-kin tolerance: [[zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1sg-lkwl9dtnflxxgkieb79hj|Hanji 367-1]] says Han Wudi repeatedly refuses to execute Liu Duan despite official requests, while the episode attributes his restraint to sibling feeling and Liu Duan's lack of usurpation threat.
@@ -142,10 +146,13 @@ Hanji 340-1 is a short structured summary that combines a Western Han building s
 
 Hanji 336-2 does not establish Wudi's private fear of the Wei-Huo group, the political effect of Li Gan's death on Huo Qubing, a murder method, an order, or any causal role for Wudi in Huo's death. Later title losses and inactivity can motivate a hypothesis but cannot substitute for direct evidence, so the幕后黑手 claim is not part of the current profile.
 
+Hanji 319-1 is a short popular-history treatment whose central minister is unnamed in the supplied text. Its wording supports a source-scoped account of Wudi's usefulness doctrine, but not a court-wide rule that every reluctant talented person was killed or a named case of such punishment. The host's language of dignity, freedom, and rights is a modern normative critique rather than terminology attributed to the historical court.
+
 ## What Changed
 
-- Added Wudi's posthumous care for Huo Qubing's son and the wider Wei-Huo power-field interpretation.
-- Rejected the episode title's implied murder conclusion because the source itself identifies it as speculation without direct evidence.
+- Added the source-presented combination of broad talent origins and ruler-centered usefulness as a distinct personnel doctrine.
+- Separated open recruitment channels from humane treatment: willingness to look beyond lineage does not by itself protect dissent or refusal.
+- Kept the episode's killing implication source-scoped because it supplies neither a named victim nor an event-level case.
 
 ## Relationships
 
@@ -182,6 +189,7 @@ Hanji 336-2 does not establish Wudi's private fear of the Wei-Huo group, the pol
 - [[ShangdiInEarlyImperialRitual]] - bounded frame for the Mingtang sacrifice and the episode's contested celestial-sovereign/Shun reading.
 - [[WesternHanDynasty|西汉]] - dynastic setting for the resource, calendar, palace, and frontier-war branches.
 - [[OfficialSelectionChannelCompetition|选官通道竞争]] - later appointment-channel frame related to Hanji 400-2's contrast between hereditary closure and recommended talent.
+- [[PowerDefinedTalentUtility|权力中心定义式人才评价]] - personnel frame for Wudi's source-presented equation of talent with full usefulness to imperial priorities.
 - [[DongZhongshu|董仲舒]] - ideological mediator whose remade Confucianism Hanji 392-4 links to Han Wudi's statecraft.
 - [[OuterConfucianInnerLegalistGovernance]] - ideological frame for Han Wudi's Confucian surface and Legalist imperial core.
 - [[HanInheritsQinSystem|汉承秦制]] - structural continuity frame behind Hanji 392-4's Qin-builds, Han-decorates metaphor.

@@ -30761,3 +30761,11 @@ Added source `zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》319-1｜跟着古代皇帝学习抢人才
+
+Added source `zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g`; updated [[HanWudi|汉武帝]], [[DongZhuo|董卓]], [[LiuBei|刘备]], [[ZhugeLiang|诸葛亮]], [[PowerDefinedTalentUtility|权力中心定义式人才评价]], and [[CoercedTalentLegitimacy|胁迫征士合法性]] from their complete preserved evidence inventories. Core synthesis: the episode joins broad talent origins to a ruler-centered full-use test, then contrasts Dong Zhuo's family-threat recruitment with Liu Bei's promise-and-persistence approach to Zhuge Liang. No settled contradiction was adopted. The unnamed minister, the killing implication, Dong Zhuo's unnamed target, Liu Bei's imperial-uncle identity claim, and the unfinished Zhuge Liang segment remain source-scoped. Dong Zhuo's legacy page was migrated to `synthesis-v1`; the automatic `wiki/overview.md` was not manually rewritten. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed artifacts validate 3,846 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

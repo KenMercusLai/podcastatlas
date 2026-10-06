@@ -14,6 +14,7 @@ sources:
   - zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd
   - zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3
   - zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh
+  - zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g
 last_updated: 2026-09-20
 ---
 
@@ -30,6 +31,8 @@ Hanji 976 gives the strongest positive synthesis: Zhuge Liang helps convert [[Li
 Hanji 1083 adds a more specific account of that strategic conversion. Its useful contribution is not the absolute claim that Liu Bei previously possessed no strategy, but the distinction between strong execution and an integrated program with explicit exclusions. The episode reads the [[LongzhongPlan|隆中对]] as ruling out premature direct competition with [[CaoCao|曹操]] and absorption of [[SunQuan|孙权]], then concentrating resources on a Jingzhou-Yizhou base, coalition, and conditional longer horizon. Its speculation about concealed distrust, court factions, and Zhuge Liang's silence before the Wu campaign is not promoted into the current profile.
 
 Hanji 1082 supplies the recruitment and disclosure scene before that interpretation. [[SimaHuiLateHan|司马徽]] and [[XuShuLateHan|徐庶]] independently recommend Zhuge Liang, Liu Bei visits personally, and the resulting plan joins opponent assessment, Sun Quan cooperation, Jingzhou-Yizhou acquisition, frontier accommodation, domestic government, and talent use. The host's further claim that “兴汉” was consciously chosen as a legitimacy symbol rather than a literal expectation is retained as a useful but source-scoped reading.
+
+Hanji 319-1 later retells only the opening of that recruitment as a contrast between coercion and personal pursuit. It names recommendation, Liu Bei's repeated approach, political promise, and an imperial-uncle identity claim, but the transcript cuts off before Zhuge Liang's response is completed. This makes the episode evidence for later framing of the recruitment story, not a new account of Zhuge Liang's decision.
 
 The cross-period sources use Zhuge Liang comparatively rather than biographically. Hanji 148-1 contrasts Han Xin's successful return from Hanzhong with Zhuge Liang's later northern expeditions to show that route imitation cannot ignore timing, opponents, force condition, and institutional setting. Zhouji 80 invokes Zhuge Liang as a later admirer of Le Yi, making him a reception marker for the loyal-minister exit tradition.
 
@@ -57,16 +60,15 @@ Hanji 1099 adds a direct 208 CE alliance role. Liu Bei looks to Zhuge Liang afte
 - Reputation and preparation: [[zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd|Hanji 1084]] attributes early recognition to Pang Degong and Sima Hui while arguing that study, not endorsement alone, made later strategic work possible.
 - Strategic exclusion: [[zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3|Hanji 1083]] interprets Zhuge Liang's contribution as converting capable but scattered activity into explicit non-targets, territorial focus, alliance, and a long-horizon objective.
 - Recruitment and full Longzhong program: [[zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh|Hanji 1082]] places repeated referral and personal visits before a plan spanning diplomacy, territory, frontier relations, internal administration, and legitimating language.
+- Incomplete recruitment reception: [[zizhi-tongjian-hanji-319-1-gen-zhe-gu-dai-huang-di-xue-xi-qiang-ren-cai-lmf6r8vlx2vukliuepeaygu-qm-g|Hanji 319-1]] invokes Zhuge Liang as the object of Liu Bei's persistent, promise-backed recruitment but ends before narrating his response.
 
 ## Qualifications
-The source set is thematically uneven and does not constitute a complete Zhuge Liang biography. Hanji 1084 compresses early reputation, preparation, and later achievement into a modern personal-brand lesson; its wording, self-comparisons, and causal account require verification. Hanji 1082's dialogue, visit count, claim that Zhuge Liang privately considered restoration impossible, and “strategic double helix” comparison are likewise source-presented. Hanji 1083 uses modern founder-adviser language: alleged mutual suspicion, Fa Zheng's effect, Guan Yu/益州 faction conflict, and the meaning of silence before the Wu campaign remain speculation rather than established profile. Hanji 976 and 977 use broad interpretive labels, Hanji 148-1 and Zhouji 80 use him mainly as a comparison or reception marker, and Hanji 1099 infers meaning from a brief glance and relationship statement. Hanji 1091's claim of a concealed Liu Bei design goes beyond the directly narrated survival advice. Hanji 1100 is a popular-history reconstruction whose exact dialogue, emotional effects, force totals, and neat rhetorical sequence require verification against underlying texts.
+The source set is thematically uneven and does not constitute a complete Zhuge Liang biography. Hanji 1084 compresses early reputation, preparation, and later achievement into a modern personal-brand lesson; its wording, self-comparisons, and causal account require verification. Hanji 1082's dialogue, visit count, claim that Zhuge Liang privately considered restoration impossible, and “strategic double helix” comparison are likewise source-presented. Hanji 319-1 is still thinner: its transcript ends mid-sentence and cannot establish Zhuge Liang's motive, response, or the full recruitment sequence. Hanji 1083 uses modern founder-adviser language: alleged mutual suspicion, Fa Zheng's effect, Guan Yu/益州 faction conflict, and the meaning of silence before the Wu campaign remain speculation rather than established profile. Hanji 976 and 977 use broad interpretive labels, Hanji 148-1 and Zhouji 80 use him mainly as a comparison or reception marker, and Hanji 1099 infers meaning from a brief glance and relationship statement. Hanji 1091's claim of a concealed Liu Bei design goes beyond the directly narrated survival advice. Hanji 1100 is a popular-history reconstruction whose exact dialogue, emotional effects, force totals, and neat rhetorical sequence require verification against underlying texts.
 
 ## What Changed
-- Added the Pang Degong-Sima Hui appraisal chain, Xu Shu's independent referral, and Liu Bei's personal recruitment while distinguishing endorsement from underlying preparation.
-- Extended Zhuge Liang's post-Changban role from accepting an alliance channel to presenting the direct anti-Cao coalition case.
-- Distinguished the negotiation's dignity lever from its operational claims about force, fatigue, water warfare, and cohesion.
-- Added the Liu Qi-Jiangxia counsel while separating immediate survival advice from the host's hidden-strategy inference.
-- Added the fuller Longzhong program and its qualified legitimacy reading alongside explicit strategic exclusions, while rejecting unsupported founder-adviser and factional causal claims.
+- Added Hanji 319-1 as later reception of Zhuge Liang's recruitment, contrasting repeated personal pursuit with threat-backed summons.
+- Kept the addition subordinate to Hanji 1082 because the new transcript ends before Zhuge Liang's response.
+- Rejected any new biographical inference about Zhuge Liang's motive from the unfinished anecdote.
 
 ## Relationships
 - [[LiuBei|刘备]] - ruler whose survival coalition and later state architecture Zhuge Liang helps shape.
