@@ -30888,3 +30888,11 @@ Added source `ep-29-the-pentagon-showdown-openai-vs-anthropic-and-the-soul-of-ai
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人
+
+Added source `zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak`; created [[HunyeKingWesternHan|浑邪王]] and [[SurrenderReceptionDomesticBurden|归降接纳的内外成本冲突]]; and resynthesized [[JiAnWesternHan|汲黯]] from his complete preserved evidence inventory before appending the new source once. Core synthesis: Wudi's need to make surrender credible turns reception vehicles, borrowed horses, rewards, and civilian service into a domestic burden, while Ji An argues that applying frontier restrictions to Chang'an trade without attention to changed place and status sacrifices the state's own people. No settled contradiction was adopted. The two-ten-thousand-vehicle request, exact population and merchant totals, war expenditure, statute scope, dialogue, motives, chronology, and retaliation link remain episode-attributed or source-scoped; the supplied note most clearly establishes death sentences, not that every sentence was executed. Broad [[HanWudi|汉武帝]] and [[Xiongnu|匈奴]] pages were kept closed because the bounded additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,862 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

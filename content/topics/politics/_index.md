@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3146
+topic_total_pages: 3147
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4696,6 +4696,9 @@ topic_concepts:
   - key: "StrongRulerChancellorshipDoubleBind"
     title: "强势君主下的丞相双重约束 / Strong-Ruler Chancellorship Double Bind"
     url: "/wiki/concepts/strongrulerchancellorshipdoublebind/"
+  - key: "SurrenderReceptionDomesticBurden"
+    title: "归降接纳的内外成本冲突 / Surrender Reception Domestic Burden"
+    url: "/wiki/concepts/surrenderreceptiondomesticburden/"
   - key: "AwaitingPunishmentPerformance"
     title: "待刑谢罪式政治表演 / Awaiting-Punishment Performance"
     url: "/wiki/concepts/awaitingpunishmentperformance/"

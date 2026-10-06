@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 12531
+wiki_total_pages: 12532
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1457,6 +1457,9 @@ wiki_pages:
   - key: "HongWeilin"
     title: "洪蔚琳"
     url: "/wiki/entities/hongweilin/"
+  - key: "HunyeKingWesternHan"
+    title: "浑邪王 / Hunye King (Western Han)"
+    url: "/wiki/entities/hunyekingwesternhan/"
   - key: "Haoge"
     title: "浩哥 / Haoge"
     url: "/wiki/entities/haoge/"

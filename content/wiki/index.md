@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人](sources/zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak.md) — 浑邪王归降后，迎接所需车马、赏赐与劳役把对外信誉转成民间负担；汲黯又以情境化法律批评五百余名商人的死刑判决。
 - [EP 29: The Pentagon Showdown: OpenAI vs Anthropic and the Soul of AI](sources/ep-29-the-pentagon-showdown-openai-vs-anthropic-and-the-soul-of-ai.md) — Data Science With Sam on Anthropic's reported Pentagon exclusion, OpenAI's replacement deal, surveillance and autonomous-weapons red lines, litigation, public backlash, and the legitimacy gap in closed military-AI bargaining.
 - [《资治通鉴·汉纪》317｜“牛郎织女”发源地，我在长安找到了](sources/zizhi-tongjian-hanji-317-niulang-zhinv-fayuandi-wo-zai-changan-zhaodao-le-lidupukyt45k8buwneivkmgs3u89.md) — 以昆明池的练兵、水利、漕运、养鱼、祭祀和游乐功能说明汉武帝大型工程的复合用途，并把牵牛织女石像限定为早期景观实证而非完整传说的唯一发源证明。
 - [《资治通鉴·汉纪》316-1｜他功越百王，为何治下百姓越来越穷](sources/zizhi-tongjian-hanji-316-1-ta-gong-yue-bai-wang-weihe-zhi-xia-baixing-yuelaiyue-qiong-lu_tr4m36rmz9sx38j4nvlmof5am.md) — 以战争全链条与杜甫《百忧集行》追问汉武帝功业背后的财政和家庭贫困，并记录刘寄受淮南案牵连、死后两子获封所体现的宗室亲缘裁量。
@@ -3951,7 +3952,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [少翁 / Shaoweng (Western Han)](entities/ShaowengWesternHan.md) — 汉武帝朝方士，以隔幕招魂获宠、因牛腹帛书造假暴露，又因所谓关东现身与空棺被汉武帝重新解释为已成仙。
 - [《带着花椒去上朝：古杀十九式》](entities/DaizheHuajiaoQuShangchao.md) — 汉纪331-4引用的古代杀人方式通俗史著作，其“椒杀”考证在当前证据中仍需回到原书与底层史料核验。
 - [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 历经文、景、武三朝并由军功封侯走到丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
-- [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 经历罢免与宾客离散后被重新起用，以清名治理淮阳并直言预警张汤、最终卒于任上的西汉直臣。
+- [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 从归降接纳、商人死刑到宗庙礼乐与人才惩罚均以公共目的直谏，并以清名治理淮阳、预警张汤的西汉直臣。
+- [浑邪王 / Hunye King (Western Han)](entities/HunyeKingWesternHan.md) — 率众归汉后，其迎接、赏赐与随众交易引发对外交信誉、国内负担和法律适用争议的匈奴王。
 - [李息 / Li Xi (Western Han)](entities/LiXiWesternHan.md) — 听取汲黯对张汤的预警，却因畏惧张汤而未向汉武帝转达的西汉官员。
 - [郑当时 / Zheng Dangshi (Western Han)](entities/ZhengDangshiWesternHan.md) — 西汉好客官员 whose crowded network thins after he loses office and wealth.
 - [翟公 / Zhai Gong (Western Han)](entities/ZhaiGongWesternHan.md) — 廷尉 whose crowded, deserted, and crowded-again gate anchors the “门可罗雀” story.
@@ -19748,6 +19750,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial Petition Offense Risk / 申冤上书冒犯风险](concepts/ImperialPetitionOffenseRisk.md) — Petition failure pattern where a self-defense memorial becomes punishable because its proof sounds like accusation against the ruler.
 - [Legal Judgment Before Imperial Grace / 先法度后恩宥](concepts/LegalJudgmentBeforeImperialGrace.md) — Procedural pattern where officials establish law first, then leave room for sovereign clemency after judgment.
 - [法律繁密与裁量权力 / Legal Complexity Discretion Power](concepts/LegalComplexityDiscretionPower.md) — Governance pattern where dense statutes and interpretive layers increase official discretion and make simplification politically costly.
+- [归降接纳的内外成本冲突 / Surrender Reception Domestic Burden](concepts/SurrenderReceptionDomesticBurden.md) — 接纳归降者时，对外信誉所需的礼遇、运输与法律安排可能把财政、劳役和惩罚成本转嫁给本国民众的治理冲突。
 - [三不沾式清廉自守 / Three-Refusals Integrity](concepts/ThreeRefusalsIntegrity.md) — Public-office integrity discipline built around refusing wine, sexual entanglement, money, and opportunistic gifts under scarcity as capture channels.
 - [任官责任退出受限 / Office Duty Exit Constraint](concepts/OfficeDutyExitConstraint.md) — Governance pattern where capable officials cannot easily leave or avoid office because crisis demand treats their ability as a public asset.
 - [任官适任性国家能力 / Appointment Quality as State Capacity](concepts/AppointmentQualityAsStateCapacity.md) — Governance pattern where office works only when education repair, judicial procedure, frontier temperament, tenure, inspection, eligibility thresholds, exception handling, placement, retention, and removal standards survive pressure, patronage, and accountability risk.

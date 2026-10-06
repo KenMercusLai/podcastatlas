@@ -109468,6 +109468,22 @@
       "updated": "2026-09-29",
       "url": "/wiki/entities/hundredyearswar/"
     },
+    "HunyeKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人 [ljB-oCShiaUHvyra88ayKkQlXKAk].md",
+          "key": "zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/hunyekingwesternhan/"
+    },
     "HuoChengjunWesternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -120343,9 +120359,9 @@
       "url": "/wiki/concepts/jevonsparadoxinai/"
     },
     "JiAnWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》333-1｜“门可罗雀”的由来，你知道吗？ [lkoajHP2B_k32auRnk8Rs-ukXAIb].md",
@@ -120367,6 +120383,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》318｜汲黯：汉武帝，我是你的破壁人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-318-jian-hanwudi-woshi-nide-pobiren-ljw371ou_jca8esjwuqngsdccaga/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人 [ljB-oCShiaUHvyra88ayKkQlXKAk].md",
+          "key": "zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak/"
         }
       ],
       "updated": "2026-10-07",
@@ -215391,6 +215414,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/surrenderascivilianprotectiontradeoff/"
+    },
+    "SurrenderReceptionDomesticBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人 [ljB-oCShiaUHvyra88ayKkQlXKAk].md",
+          "key": "zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/surrenderreceptiondomesticburden/"
     },
     "SurrenderTokenCredibility": {
       "episode_count": 1,

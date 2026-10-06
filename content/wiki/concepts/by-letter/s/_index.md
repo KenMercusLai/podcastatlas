@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 9775
+wiki_total_pages: 9776
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2618,6 +2618,9 @@ wiki_pages:
   - key: "SurrenderTrustBreakdown"
     title: "归降信任崩塌 / Surrender Trust Breakdown"
     url: "/wiki/concepts/surrendertrustbreakdown/"
+  - key: "SurrenderReceptionDomesticBurden"
+    title: "归降接纳的内外成本冲突 / Surrender Reception Domestic Burden"
+    url: "/wiki/concepts/surrenderreceptiondomesticburden/"
   - key: "SpoilsLossMobilization"
     title: "战利品损失动员 / Spoils-Loss Mobilization"
     url: "/wiki/concepts/spoilslossmobilization/"
