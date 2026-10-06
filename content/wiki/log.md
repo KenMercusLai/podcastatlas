@@ -30976,3 +30976,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》312｜降汉的匈奴王，为何突然内斗？
+
+Added source `zizhi-tongjian-hanji-312-xianghan-de-xiongnu-wang-weihe-turan-neidou-lkbyh1fglhog0d9voaxitwu59eic`; created [[XiutuKingWesternHan|休屠王]]; and resynthesized [[HunyeKingWesternHan|浑邪王]], [[HuoQubing|霍去病]], [[JinMidiWesternHan|金日磾]], and [[CrisisSurrenderStabilization|危机受降稳控]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: threatened punishment can create a joint surrender without aligning each ruler's exit commitment; the coalition's internal fracture turns Huo's reception into a deception-sensitive, numerically asymmetric stabilization problem, while Jin Midi's survival begins in the defeated Xiutu branch. No settled contradiction was adopted. Xiutu King's private Hexi plan, bridge timetable, camp movements, dialogue, cultural psychology, force totals, and his death mechanism remain dramatized or source-scoped; Hanji 312 and Hanji 313-1 do not yield one settled death account. Broad [[HanWudi|汉武帝]], [[Xiongnu|匈奴]], and [[HexiCorridorWesternHan|西汉河西走廊]] pages were kept closed because the bounded additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,873 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》312｜降汉的匈奴王，为何突然内斗？](sources/zizhi-tongjian-hanji-312-xianghan-de-xiongnu-wang-weihe-turan-neidou-lkbyh1fglhog0d9voaxitwu59eic.md) — 浑邪王与休屠王因惧怕单于清算而共谋降汉，却因承诺与河西利益分化在受降前内斗；浮桥计划、私下动机、战斗细节及休屠王死法均保留来源边界。
 - [《资治通鉴·汉纪》311｜文学家郭沫若，如何酿就考古大悲剧？](sources/zizhi-tongjian-hanji-311-wenxuejia-guomoruo-ruhe-niangjiu-kaogu-dabeiju-lpq9bozhrdxqn7tiotyx3j-epm9l.md) — 以明定陵同时出现大量出土与保存损失说明主动发掘的准备风险，并以刘宽从简葬反证刘寄墓未必富丽；责任链、损失清单与轶闻均保留来源边界。
 - [《资治通鉴·汉纪》310-2｜古墓中的金缕玉衣，真能起死回生](sources/zizhi-tongjian-hanji-310-2-gumu-zhong-de-jinlvyuyi-zhen-neng-qisihuisheng-lj_f2c88afcbjraslzodaisgkqbq.md) — 以刘胜、狮子山楚王与海昏侯墓说明西汉王侯厚葬的物质规模，并把金缕玉衣解释为财富、等级与尸骨不朽想象的结合；这些类比仍不能证明刘寄墓的位置或藏品。
 - [《资治通鉴·汉纪》310-1｜为什么说康王坟能养活一个省？](sources/zizhi-tongjian-hanji-310-1-weishenme-shuo-kangwangfen-neng-yanghuo-yige-sheng-lnau07_cmw4u08tyonm8tqjtfbwl.md) — “打开康王坟，山东不受贫”把胶东康王刘寄与巨额墓藏相连，并被节目用来解释六曲山盗墓未遂者的目标选择；墓主、藏品、数量和案件细节均保留来源边界。
@@ -3969,6 +3970,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李蔡 / Li Cai (Western Han)](entities/LiCaiWesternHan.md) — 历经文、景、武三朝并由军功封侯走到丞相，后因侵占并出售阳陵赐地旁土地而被免职下狱、自杀的西汉官员。
 - [汲黯 / Ji An (Western Han)](entities/JiAnWesternHan.md) — 从归降接纳、商人死刑到宗庙礼乐与人才惩罚均以公共目的直谏，并以清名治理淮阳、预警张汤的西汉直臣。
 - [浑邪王 / Hunye King (Western Han)](entities/HunyeKingWesternHan.md) — 其归降从霍去病的武装稳控进入长安仪式与分层受封，随后又因接纳成本和交易执法引发国内争议的匈奴王。
+- [休屠王 / Xiutu King (Western Han)](entities/XiutuKingWesternHan.md) — 与浑邪王共谋降汉后因承诺和河西利益分化而败亡、其子金日磾后来进入汉廷叙事的匈奴王。
 - [李息 / Li Xi (Western Han)](entities/LiXiWesternHan.md) — 听取汲黯对张汤的预警，却因畏惧张汤而未向汉武帝转达的西汉官员。
 - [郑当时 / Zheng Dangshi (Western Han)](entities/ZhengDangshiWesternHan.md) — 西汉好客官员 whose crowded network thins after he loses office and wealth.
 - [翟公 / Zhai Gong (Western Han)](entities/ZhaiGongWesternHan.md) — 廷尉 whose crowded, deserted, and crowded-again gate anchors the “门可罗雀” story.
