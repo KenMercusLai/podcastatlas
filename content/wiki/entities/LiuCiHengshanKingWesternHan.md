@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp
   - zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q
   - zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2
+  - zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt
 last_updated: 2026-10-07
 ---
 
 ## Overview
 
-衡山王刘赐 / Liu Ci is the Western Han vassal king whose conflict with central authority and internal succession disorder converge in the destruction of his house. Hanji 304-2 traces his movement from Lujiang to Hengshan and says unlawful punishment, official review, and loss of appointment authority radicalize his resentment; Hanji 305-1 and 305-2 then show household rivalry exposing his alleged preparations and ending the [[HengshanKingdomWesternHan|Hengshan kingdom]].
+衡山王刘赐 / Liu Ci is the Western Han vassal king whose conflict with central authority and internal succession disorder converge in the destruction of his house. Hanji 304-2 traces how unlawful punishment, official review, and loss of appointment authority radicalize his resentment; Hanji 305-1 and 305-2 show household rivalry exposing his alleged preparations, while Hanji 303-2 gives a compressed, partly divergent account of his death during the Huainan crackdown.
 
 ## Current Profile
 
 The three episodes present Liu Ci as impulsive, politically miscalibrated, and unable to distinguish personal status from lawful authority. He answers a subordinate's attempted move to central service with an unlawful death case, then accuses the 内史 who blocks it; the official's counter-report instead helps cost Liu Ci part of his senior appointment power. He also responds to [[LiuAn|刘安]]'s alleged plot by recruiting for himself rather than alerting the court. Inside the royal house, repeated allegations turn him against crown prince [[LiuShuangHengshanCrownPrince|刘爽]]; he confines the heir, favors [[LiuXiaoHengshanPrince|刘孝]], and entrusts Liu Xiao with bows, arrows, and chariots. Both sons ultimately expose him.
+
+The outcome is stable at the institutional level but not in its exact death wording. Hanji 305-2 says an imperial investigation orders Liu Ci and key family members to die before Hengshan is abolished. [[zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt|Hanji 303-2]] compresses the sequence into discovery of his shared plotting with Liu An, fright, and suicide. Both support the destruction of the kingdom; the present notes do not decide whether “自尽” describes compliance with a death order or a different chronology.
 
 ## Key Characteristics
 
@@ -25,6 +28,7 @@ The three episodes present Liu Ci as impulsive, politically miscalibrated, and u
 - Household head who allows rumor, sexual accusation, and succession rivalry to determine political trust.
 - Father who confines one son, arms another, and becomes exposed through both sons' denunciations.
 - Alleged conspirator whose military preparations become discoverable because family authority collapses.
+- King whose death is variously summarized as ordered death or frightened suicide before Hengshan's abolition.
 
 ## Evidence
 
@@ -41,16 +45,15 @@ Succession and weapons exposure:
 
 Final disposition:
 - [[zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q|Hanji 305-2]] reports that the investigation ends in Liu Ci's ordered death and the kingdom's abolition.
+- [[zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt|Hanji 303-2]] instead says discovery of his connection to Liu An frightens him into suicide and likewise ends with Hengshan abolished.
 
 ## Qualifications
 
-These are three consecutive short episodes from one interpretive podcast series, not independent corroboration or a complete reign. Hanji 304-2 and 305-1 call him “恒山王刘次”; the canonical identity is normalized to 衡山王刘赐. The Lujiang transfer, Yue contacts, official jurisdiction, land and grave allegations, appointment threshold, precise dates, rebellion plan, recruitment, weapons program, legal procedure, confessions, and punishment are source-attributed pending primary-text comparison. The host's claims about inherited arrogance, wounded dignity, and carelessness are interpretations, not settled psychological diagnoses.
+These are consecutive short episodes from one interpretive podcast series, not independent corroboration or a complete reign. Hanji 304-2 and 305-1 call him “恒山王刘次”; the canonical identity is normalized to 衡山王刘赐. The Lujiang transfer, Yue contacts, official jurisdiction, land and grave allegations, appointment threshold, precise dates, rebellion plan, recruitment, weapons program, legal procedure, confessions, and punishment are source-attributed pending primary-text comparison. Hanji 303-2's suicide and Hanji 305-2's ordered-death formulations remain unresolved rather than being flattened into one fact.
 
 ## What Changed
 
-- Added the pre-household escalation: an unlawful punishment case, official counter-report, and loss of appointment authority deepen Liu Ci's hostility to the center.
-- Clarified that his parallel recruitment responds to Liu An's alleged conspiracy but is presented as ambition, not merely territorial self-defense.
-- Connected external status injury to the later household mechanism that exposes the weapons case.
+- The final judgment now records agreement on Hengshan's abolition while preserving the unresolved ordered-death versus suicide wording.
 
 ## Relationships
 

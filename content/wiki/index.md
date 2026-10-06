@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》303-2｜《塞翁失马》的作者，是怎么死的？](sources/zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt.md) — 伍被供述使淮南谋反案进入逮捕与清算阶段；刘安自尽、王族受诛、封国被废，而“王犹豫，计未决”被限定为时机诊断而非早反必胜的反事实。
 - [《资治通鉴·汉纪》304-1｜古代如何做双面间谍？](sources/zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x.md) — 伍被在参与刘安谋划后才供出案件，雷被则因更早告发而脱身；节目以时机与张汤的威慑逻辑解释两种结局，同时保留“双面间谍”动机的推测边界。
 - [《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反](sources/zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2.md) — 刘赐因属吏转投朝廷而违法报复，遭内史驳回并反揭劣迹；任官权被削使其对兄长刘安的防备升级为反朝廷意图。
 - [《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国](sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q.md) — 衡山王室的夺嫡、性勒索与父子互告暴露谋反准备，最终导致主要成员被赐死、封国被废。
@@ -16567,6 +16568,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [谋而不断式时机丧失 / Planning-Without-Decision Timing Loss](concepts/PlanningWithoutDecisionTimingLoss.md) — 已承担暴露风险却持续追求确定性，使资源、保密、主动权或行动窗口在决断前流失的失败模式。
 - [倒戈宽免的时机依赖 / Timing-Dependent Defection Leniency](concepts/TimingDependentDefectionLeniency.md) — 内部人供述能否换取宽免，取决于信息到达时机、稀缺性、既有参与和当局在情报、降级与威慑之间的优先次序。
 - [Spanish Conquest of Peru](concepts/SpanishConquestOfPeru.md) — Prolonged conquest process joining Spanish civil war, Indigenous alliances, colonial formation, and Vilcabamba's fall.
 - [Conquistador Civil War in Peru](concepts/ConquistadorCivilWarPeru.md) — Linked Pizarro-Almagro and royal-settler wars within the conquest of Peru.

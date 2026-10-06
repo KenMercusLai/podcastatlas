@@ -5,12 +5,13 @@ knowledge_schema: synthesis-v1
 tags: [person, western-han, huainan, adviser, rebellion, denunciation]
 sources:
   - zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x
+  - zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt
 last_updated: 2026-10-07
 ---
 
 ## Overview
 
-伍被 / Wu Bei is a close adviser to [[LiuAn|淮南王刘安]] presented by Hanji 304-1 as both a participant in the Huainan conspiracy and a late confessor whose cooperation did not prevent execution.
+伍被 / Wu Bei is a close adviser to [[LiuAn|淮南王刘安]] presented as both a participant in the Huainan conspiracy and the late confessor whose disclosure helps turn suspicion into arrests and a prosecutable political case, without saving him from execution.
 
 ## Current Profile
 
@@ -18,11 +19,14 @@ last_updated: 2026-10-07
 
 That explanation remains conjectural. The firmer profile is sequential: Wu Bei belonged to Liu An's intimate advisory circle, participated enough to face liability, confessed after [[LiuQianHuainanCrownPrinceWesternHan|刘迁]]'s arrest made prior disclosure urgent, and was executed after [[ZhangTangWesternHan|张汤]] argued that mercy would weaken discipline. His case therefore shows that late cooperation in a political prosecution can supply evidence without restoring credibility or safety.
 
+The immediate consequence of that disclosure is a move against Liu Qian, the queen, royal guests, and the wider network after Wu Bei gives the alleged plan in detail to a central envoy. The two notes jointly support his evidentiary importance, while 304-1 supplies the later punishment outcome. [[zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt|Hanji 303-2]]
+
 ## Key Characteristics
 
 - Close Huainan adviser associated by the episode with the “淮南八公.”
 - Participant who allegedly recognized the rebellion's poor prospects but still supplied advice.
 - Late confessor who disclosed Liu An's plan after Liu Qian's arrest increased his exposure.
+- Insider whose detailed account is presented as the immediate bridge from conspiracy suspicion to arrests and wider inquiry.
 - Political actor interpreted by the host as imitating Lei Bei's earlier successful defection.
 - Executed despite Han Wudi's reported initial preference for mercy.
 
@@ -34,13 +38,17 @@ Participation and disclosure:
 Timing and punishment:
 - [[zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x|Hanji 304-1]] links the timing of Wu Bei's confession to Liu Qian's arrest and says Zhang Tang's deterrence argument led to execution despite imperial reluctance.
 
+Case activation:
+- [[zizhi-tongjian-hanji-303-2-saiweng-shima-de-zuozhe-shi-zenme-si-de-lp9u6yu1la2w6sfqwqfikcvgq9pt|Hanji 303-2]] says Wu Bei surrenders to an envoy, discloses the full plan, and is followed by arrests and a broad investigation.
+
 ## Qualifications
 
-The only current source explicitly marks its explanation of Wu Bei's motives as inference. It does not establish a documentary long-range plan to provoke rebellion, defect, and gain office. His legal entitlement to reward, exact advice, full confession, relationship to Wu Zixu, and classification among the 淮南八公 remain episode-attributed pending primary-text comparison.
+Hanji 304-1 explicitly marks its explanation of Wu Bei's motives as inference; Hanji 303-2 confirms the narrative importance of his confession but does not prove a long-range plan to provoke rebellion, defect, and gain office. His legal entitlement to reward, exact advice, confession wording and completeness, relationship to Wu Zixu, and classification among the 淮南八公 remain episode-attributed pending primary-text comparison.
 
 ## What Changed
 
-- Created the profile around the distinction between observed participation-and-confession and the host's unproved double-agent motive.
+- The profile now distinguishes the confession's case-opening value from its failure to protect Wu Bei at sentencing.
+- The double-agent motive remains unproved despite the clearer disclosure-to-arrest sequence.
 
 ## Relationships
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9792
+wiki_total_pages: 9793
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2765,6 +2765,9 @@ wiki_pages:
   - key: "PoetryTranslationSoundGap"
     title: "诗歌翻译的声音缺口 / Poetry Translation Sound Gap"
     url: "/wiki/concepts/poetrytranslationsoundgap/"
+  - key: "PlanningWithoutDecisionTimingLoss"
+    title: "谋而不断式时机丧失 / Planning-Without-Decision Timing Loss"
+    url: "/wiki/concepts/planningwithoutdecisiontimingloss/"
   - key: "PovertyMemoryCorruptionExcuse"
     title: "贫穷记忆贪腐借口 / Poverty Memory as Corruption Excuse"
     url: "/wiki/concepts/povertymemorycorruptionexcuse/"
