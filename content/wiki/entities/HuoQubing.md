@@ -11,12 +11,13 @@ sources:
   - zizhi-tongjian-hanji-336-1-zhanshen-huoqubing-weihe-24sui-turan-baobi-lhsmxfi72dzs8ucjd4n9vhfuhvmq
   - zizhi-tongjian-hanji-328-2-gudai-zuqiu-ye-fengkuang-huoqubing-jing-ye-chimi-lh5o5cgy9kg7kd_vl-wvvetsmvsn
   - zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_
+  - zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7
 last_updated: 2026-10-06
 ---
 
 ## Overview
 
-霍去病 / Huo Qubing is synthesized as a victorious Western Han commander whose campaigns have institutional, personnel, doctrinal, and family afterlives, but whose record also carries command-welfare and accountability failures. His attack on Xiongnu's left territory precedes Wuhuan relocation, [[ZhaoPonuWesternHan|赵破奴]] rises in his military era, and [[LiGanWesternHan|李敢]] first earns merit under him before Huo later kills Li Gan during an imperial hunt. One source-scoped branch says Huo discarded surplus provisions while soldiers went hungry and organized [[HanDynastyCuju|蹴鞠]] under frontier supply shortage; another uses his long-range cavalry war to argue that commanders must adapt inherited doctrine to changed battlefield conditions. The current evidence reports illness as the broadest surviving cause-of-death category but does not identify a disease or support epidemic, accident, murder, or imperial responsibility as settled explanations.
+霍去病 / Huo Qubing is synthesized as a victorious Western Han commander whose campaigns have institutional, personnel, doctrinal, and family afterlives, but whose record also carries command-welfare and accountability failures. His attack on Xiongnu's left territory precedes Wuhuan relocation, [[ZhaoPonuWesternHan|赵破奴]] rises in his military era, and [[LiGanWesternHan|李敢]] first earns merit under him before Huo later kills Li Gan during an imperial hunt. Two source-scoped branches use his long-range cavalry war, reported refusal to be constrained by ancient military texts, and claimed Hexi campaign tempo to argue for [[MilitaryDoctrineEraFit|兵法的时代适配]]. Another says Huo discarded surplus provisions while soldiers went hungry and organized [[HanDynastyCuju|蹴鞠]] under frontier supply shortage. The current evidence reports illness as the broadest surviving cause-of-death category but does not identify a disease or support epidemic, accident, murder, or imperial responsibility as settled explanations.
 
 ## Current Profile
 
@@ -26,6 +27,8 @@ last_updated: 2026-10-06
 
 A distinct doctrine-adaptation branch appears in [[zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_|Hanji 328-1]]. It contrasts auxiliary cavalry tasks attributed to [[SunBinBingfa|《孙膑兵法》]] and the infantry/chariot-centered force attributed to [[MengTian|蒙恬]] with Huo's long-range mounted operations against Xiongnu. The episode credits [[WeiQingHanGeneral|卫青]] with organizational preparation and makes Huo a case of [[MilitaryDoctrineEraFit|兵法的时代适配]]: inherited principles remain historical knowledge, but literal tactics must be tested against a changed force system.
 
+[[zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7|Hanji 327-2]] supplies the reported personal stance and campaign test. When [[HanWudi|汉武帝]] offers instruction in the Sun-Wu texts, Huo reportedly says that war depends on strategic judgment rather than constraint by ancient doctrine; when offered a residence, he says a home is premature while Xiongnu remains undefeated. The source then uses claimed six-day and long-distance Hexi cavalry movements in 121 BCE to contrast literal application of a [[SunziBingfa|Sunzi]] pursuit warning. The durable addition is conditional adaptation, not proof that Huo rejected all study or that the whole text had become useless.
+
 The court-violence layer is sharply different. Li Gan serves under Huo and wins merit against Xiongnu, but after Li assaults Huo's uncle [[WeiQingHanGeneral|卫青]], Huo shoots Li during a Ganquan Palace hunt. [[zizhi-tongjian-hanji-335-dangzhe-wudi-de-mian-huoqubing-weihe-gan-sha-liguang-zhi-zi-lupxhu64fi0d0xl223zq9pwenmy1|Hanji 335]] interprets this as private retaliation and says [[HanWudi|汉武帝]] protects Huo with a deer-accident account. Military success and family loyalty therefore do not settle the legal judgment: this killing is presented as violence outside adjudication made durable by favorite status.
 
 [[zizhi-tongjian-hanji-336-2-huoqubing-yunluo-wudi-zhen-shi-muhou-heishou-ltfkwalc48bj1hav65bg-8qotrf5|Hanji 336-2]] proposes that the killing also damaged Huo's support and heightened Wudi's suspicion of the wider Wei-Huo power field, but the source supplies no direct evidence for either reaction and explicitly labels the theory that Wudi caused Huo's death as speculation. Its firmer family-history branch says Huo acknowledged and supported Huo Zhongru, brought his half-brother Huo Guang to Chang'an for palace service, and left a son whom Wudi kept close after Huo's death.
@@ -34,7 +37,7 @@ The court-violence layer is sharply different. Li Gan serves under Huo and wins 
 
 ## Key Characteristics
 
-- Western Han general associated with successful campaigning against Xiongnu's left territory and used as a case of adapting mounted warfare beyond older auxiliary-cavalry doctrine.
+- Western Han general associated with successful campaigning against Xiongnu's left territory and used as a case of adapting mounted warfare beyond older auxiliary-cavalry doctrine and literal transfer of older march rules.
 - Commander whose reported cuju activity under supply shortage coexists with a source-scoped failure to distribute surplus food to hungry soldiers.
 - Upstream actor in the Wuhuan relocation and protector-office origin story.
 - Military context for Zhao Ponu's rise and Li Gan's battlefield merit.
@@ -54,6 +57,8 @@ Command welfare and organized activity:
 Doctrine and cavalry adaptation:
 - [[zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_|Hanji 328-1]] says older cavalry prescriptions centered on support, disruption, and raiding, while Huo's anti-Xiongnu warfare required a more independent long-range mounted role.
 - [[zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_|Hanji 328-1]] attributes Huo's ability to depart from older doctrine partly to Wei Qing's cavalry organization and instruction.
+- [[zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7|Hanji 327-2]] reports Huo's answer about strategic judgment over constraint by ancient military texts and his “匈奴未灭，无以家为” residence answer.
+- [[zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7|Hanji 327-2]] uses source-reported 121 BCE Hexi distances, speed, forces, and casualties as the practical basis for its doctrine-adaptation reading.
 
 Personnel legacy:
 - [[zizhi-tongjian-hanji-376-2-cong-liulanger-nixi-cheng-jiangjun-jiemi-hanjiang-zhaoponu-lszmnylwk8zxpjhelkd1gd6jsfsd|Hanji 376-2]] places Zhao Ponu's rise and early merit in Huo Qubing's victorious era.
@@ -70,12 +75,12 @@ Family succession and disputed death interpretation:
 
 ## Qualifications
 
-This page remains bounded to seven compact podcast sources rather than a full military biography. Hanji 328-2 does not reproduce the cited *Hanshu* text, establish Huo's private motive for playing cuju, or independently verify the provisioning mechanics; its football-language jokes are not campaign causation. Hanji 328-1 does not reproduce the relevant Sun Bin passages, fully reconstruct Meng Tian's force mix or Wei Qing's formation, or establish Huo's own words about doctrine; "时代变了" is modern rhetoric. Hanji 376-2 does not document a complete formal patron-client relationship with Zhao Ponu. Hanji 335's kin-revenge motive, rear-shot detail, deliberate-hunt-opportunity reading, and imperial-cover mechanics remain source-scoped; the durable judgment is narrower, that the episode describes a killing without adjudication followed by protection from ordinary accountability. Hanji 336-2 adds no direct evidence for Wudi's intent or a murder mechanism, while Hanji 336-1 supplies only a broad illness report without a named disease. The epidemic, accident, murder, and幕后黑手 explanations therefore remain unproved, and the age twenty-three/twenty-four discrepancy is preserved.
+This page remains bounded to eight compact podcast sources rather than a full military biography. Hanji 328-2 does not reproduce the cited *Hanshu* text, establish Huo's private motive for playing cuju, or independently verify the provisioning mechanics; its football-language jokes are not campaign causation. Hanji 328-1 does not reproduce the relevant Sun Bin passages or fully reconstruct Meng Tian's force mix or Wei Qing's formation. Hanji 327-2 supplies a reported answer but does not prove that Huo rejected all military study, that Sunzi as a whole was obsolete, or that its route, speed, force, and casualty figures are exact; “孙武兵法已经落后” is host rhetoric. Hanji 376-2 does not document a complete formal patron-client relationship with Zhao Ponu. Hanji 335's kin-revenge motive, rear-shot detail, deliberate-hunt-opportunity reading, and imperial-cover mechanics remain source-scoped; the durable judgment is narrower, that the episode describes a killing without adjudication followed by protection from ordinary accountability. Hanji 336-2 adds no direct evidence for Wudi's intent or a murder mechanism, while Hanji 336-1 supplies only a broad illness report without a named disease. The epidemic, accident, murder, and幕后黑手 explanations therefore remain unproved, and the age twenty-three/twenty-four discrepancy is preserved.
 
 ## What Changed
 
-- Added Huo as a doctrine-adaptation case in the transition from auxiliary cavalry to long-range mounted operations.
-- Preserved the episode's Sun Bin, Meng Tian, Wei Qing, and "时代变了" comparison as an interpretive military-history model rather than Huo's documented statement.
+- Added Huo's reported refusal to be constrained by ancient military texts and the Hexi tempo examples to the existing doctrine-adaptation profile.
+- Distinguished his reported answer from the host's broader claim that Sunzi had become obsolete, preserving only conditional non-transferability as the current judgment.
 
 ## Relationships
 
@@ -93,3 +98,4 @@ This page remains bounded to seven compact podcast sources rather than a full mi
 - [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - contrastive command standard because recreation cannot substitute for provisions and shared hardship.
 - [[MilitaryDoctrineEraFit|兵法的时代适配]] - framework for Huo's source-scoped departure from literal use of earlier cavalry doctrine.
 - [[SunBinBingfa|《孙膑兵法》]] - older doctrinal baseline whose cavalry role the episode treats as historically bounded.
+- [[SunziBingfa|《孙子兵法》]] - older strategic text whose pursuit warning the source contrasts with Huo's reported mounted tempo without rejecting the whole work.

@@ -30607,3 +30607,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》327-2｜霍去病不读《孙子兵法》，为何能用兵如神？
+
+Added source `zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7`; and resynthesized [[HuoQubing|霍去病]], [[SunziBingfa|《孙子兵法》]], and [[MilitaryDoctrineEraFit|兵法的时代适配]] from their complete preserved evidence inventories. Core synthesis: Huo's reported refusal to be constrained by ancient military texts and the episode's Hexi campaign tempo examples strengthen the case for conditional doctrine transfer, but do not prove that Huo rejected study or that the whole Sunzi tradition was obsolete. No settled contradiction was adopted. Huo's exact words and motive, character traits, routes, five-group identification, daily march, force and casualty totals, and summer campaign result remain source-scoped; the opening value-and-status claims remain modern normative framing. Broad Han Wudi, Su Qin, Gongsun Hong, Sima Qian, show, and Xiongnu pages were read for context but not reopened because the bounded addition is represented in narrower canonical pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,827 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

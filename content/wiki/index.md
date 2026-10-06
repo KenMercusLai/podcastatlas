@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》327-2｜霍去病不读《孙子兵法》，为何能用兵如神？](sources/zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7.md) — 以霍去病拒绝受古兵法拘束及河西骑兵高速远程作战为例，说明旧规则须按兵种、后勤与作战环境检验，而非断言整部《孙子兵法》失效。
 - [《资治通鉴·汉纪》330｜他为了杀人，竟希望冬天变长](sources/zizhi-tongjian-hanji-330-ta-weile-sharen-jing-xiwang-dongtian-bianchang-lluuwmkv4rjqgnvodkuzulb9ee3c.md) — 义纵与王温舒以灭族、批量处决、胁迫网络和恐怖沉默制造可见“政绩”；节目据此把酷吏之恶从个人残暴推进到朝廷授权、配合与奖赏的制度链条。
 - [《资治通鉴·汉纪》329｜不要光会打嘴炮，看看他的下场！](sources/zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g.md) — 漠北战后屯田与匈奴求和引出和亲、臣服两路争论；任常出使被扣，狄山直攻张汤后被派守边并迅速遇袭身亡，政策判断与惩罚性能力测试须分开。
 - [《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前](sources/zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_.md) — 从刘太公因失去球友而郁郁、刘邦仿沛县营建新丰的故事呈现蹴鞠的社区功能，并以孙膑、蒙恬、卫青和霍去病对照兵法的时代适配。

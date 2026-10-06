@@ -108670,9 +108670,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -108722,6 +108722,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前",
           "url": "/wiki/sources/zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》327-2｜霍去病不读《孙子兵法》，为何能用兵如神？ [lqAfy7cesoHWmUwHFIlt2GHICsw7].md",
+          "key": "zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》327-2｜霍去病不读《孙子兵法》，为何能用兵如神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7/"
         }
       ],
       "updated": "2026-10-06",
@@ -151795,9 +151802,9 @@
       "url": "/wiki/concepts/militarydisastermemory/"
     },
     "MilitaryDoctrineEraFit": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前 [lvm7t6LVC2nEidSwAddUFxGDw8w_].md",
@@ -151805,6 +151812,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》328-1｜中国足球世界第一！居然是2000年前",
           "url": "/wiki/sources/zizhi-tongjian-hanji-328-1-zhongguo-zuqiu-shijie-diyi-juran-shi-2000nian-lvm7t6lvc2neidswaddufxgdw8w_/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》327-2｜霍去病不读《孙子兵法》，为何能用兵如神？ [lqAfy7cesoHWmUwHFIlt2GHICsw7].md",
+          "key": "zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》327-2｜霍去病不读《孙子兵法》，为何能用兵如神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7/"
         }
       ],
       "updated": "2026-10-06",
@@ -212776,6 +212790,99 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/sunwodapower/"
+    },
+    "SunziBingfa": {
+      "episode_count": 12,
+      "show_count": 1,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》980丨吕布险杀曹操？看看一句话如何扭转历史 [lggGw3vmoNu-3WvzaBvg943v5QcG].md",
+          "key": "zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》980丨吕布险杀曹操？看看一句话如何扭转历史",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（1） [loiz8Ge_a39tMIGAjoOL2SPZrI5i].md",
+          "key": "zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》148-1｜韩信预判了章邯的预判 [loDhPuxpOSSJno87GOrJkFrTitBe].md",
+          "key": "zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》148-1｜韩信预判了章邯的预判",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（2） [npGifE56ltAywW2Wt4wo-FiWo_EP].md",
+          "key": "zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍 [ljTQDg46a8o13ZZSjV-P_FPOL5Oh].md",
+          "key": "zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》99-3｜荀子兵法里藏着人性的秘密 [lgfcp4hKrUYHHrjGUQhJBHLVWp43].md",
+          "key": "zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》99-3｜荀子兵法里藏着人性的秘密",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（3） [ljWz8ebk0iyfLeivKEfVvoOnRqb9].md",
+          "key": "zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》87丨“狭路相逢勇者胜”终于找到出处了！ [loPPR83sDq5hHESmQihCKwmHPl2h].md",
+          "key": "zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》87丨“狭路相逢勇者胜”终于找到出处了！",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！ [ltfkDlIvOmNvuX5xoDH2RlFQf6aC].md",
+          "key": "zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》22丨公孙鞅诈魏公子卬 [lss1L7lojfwgwDTCJe7m5ijodPxi].md",
+          "key": "zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》22丨公孙鞅诈魏公子卬",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》19丨马陵之战 [lhBAPt09X2PtdQx0uoPkP8APBaDA].md",
+          "key": "zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》19丨马陵之战",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》327-2｜霍去病不读《孙子兵法》，为何能用兵如神？ [lqAfy7cesoHWmUwHFIlt2GHICsw7].md",
+          "key": "zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》327-2｜霍去病不读《孙子兵法》，为何能用兵如神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-327-2-huoqubing-bu-du-sunzi-bingfa-weihe-neng-yongbing-ru-shen-lqafy7cesohwmuwhfilt2ghicsw7/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/entities/sunzibingfa/"
     },
     "SuoBanLateHan": {
       "episode_count": 2,
