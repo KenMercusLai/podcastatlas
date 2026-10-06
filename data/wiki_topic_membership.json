@@ -83669,6 +83669,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TimingDependentDefectionLeniency": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Tipsy": [
     {
       "key": "technology",

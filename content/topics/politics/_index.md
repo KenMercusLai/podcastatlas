@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3152
+topic_total_pages: 3153
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -4498,6 +4498,9 @@ topic_concepts:
   - key: "CultivatedImperialCapacity"
     title: "修养型帝王能力 / Cultivated Imperial Capacity"
     url: "/wiki/concepts/cultivatedimperialcapacity/"
+  - key: "TimingDependentDefectionLeniency"
+    title: "倒戈宽免的时机依赖 / Timing-Dependent Defection Leniency"
+    url: "/wiki/concepts/timingdependentdefectionleniency/"
   - key: "PartyProhibitionKinshipExpansion"
     title: "党锢亲属牵连扩大 / Party Prohibition Kinship Expansion"
     url: "/wiki/concepts/partyprohibitionkinshipexpansion/"

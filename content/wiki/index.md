@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》304-1｜古代如何做双面间谍？](sources/zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x.md) — 伍被在参与刘安谋划后才供出案件，雷被则因更早告发而脱身；节目以时机与张汤的威慑逻辑解释两种结局，同时保留“双面间谍”动机的推测边界。
 - [《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反](sources/zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2.md) — 刘赐因属吏转投朝廷而违法报复，遭内史驳回并反揭劣迹；任官权被削使其对兄长刘安的防备升级为反朝廷意图。
 - [《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国](sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q.md) — 衡山王室的夺嫡、性勒索与父子互告暴露谋反准备，最终导致主要成员被赐死、封国被废。
 - [《资治通鉴·汉纪》306-1｜绿茶婊鼻祖拜见汉武帝！](sources/zizhi-tongjian-hanji-306-1-lvchabiao-bizu-baijian-hanwudi-lnruo3m6ahmj5z8k7uu0vlxlapje.md) — 淮南、衡山大狱后的大赦被质疑为杀戮后的仁慈表演；七岁刘据获立太子稳定继承，滇国则仅获地理引介，标题所称会面尚未展开。
@@ -3952,6 +3953,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno: 48 Hours Between Life & Death | Fear, Survival & Acceptance | Tomorrow, Today](sources/default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195-default-mp3-ywr3ahjkcgo-792e9a27d82b8b37f064c20b7e739707-100007195.md) — Tomorrow Today interview on a cliff-fall survival ordeal, acceptance without passivity, fear as information, one-metre action, self-trust, and the limits of “no Plan B.”
 
 ## Entities
+- [伍被 / Wu Bei (Western Han)](entities/WuBeiWesternHan.md) — 参与淮南谋划后才向朝廷供述、却因张汤主张以惩罚维持威慑而未获宽免的刘安谋士。
+- [雷被 / Lei Bei (Western Han)](entities/LeiBeiWesternHan.md) — 较早告发刘安与刘迁并脱身，成为伍被后来试图效仿之时机对照的淮南门客。
+- [淮南太子刘迁 / Liu Qian (Western Han)](entities/LiuQianHuainanCrownPrinceWesternHan.md) — 被告发并遭逮捕，其可能先行供述促使伍被转而自陈的淮南太子。
 - [白盈 / Bai Ying (Hengshan Crown Prince's Associate)](entities/BaiYingHengshan.md) — 为刘爽提出勾引继母之策、又替被囚太子向朝廷传递谋反指控的衡山门客。
 - [衡山国 / Hengshan Kingdom (Western Han)](entities/HengshanKingdomWesternHan.md) — 受中央官员复核、任官权收束与储位审批约束，后因王室互告暴露谋反准备而被废的西汉封国。
 - [衡山王刘赐 / Liu Ci, King of Hengshan (Western Han)](entities/LiuCiHengshanKingWesternHan.md) — 因违法报复与任官权被削而加深反朝廷意图，又让夺嫡和武器准备互相牵连、最终被两子揭发的西汉衡山王。
@@ -16563,6 +16567,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Álvaro Vizcaíno](entities/AlvaroVizcaino.md) — Surfer, entrepreneur, survivor, speaker, and coach whose account connects acute danger to acceptance, fear integration, and bounded next action.
 
 ## Concepts
+- [倒戈宽免的时机依赖 / Timing-Dependent Defection Leniency](concepts/TimingDependentDefectionLeniency.md) — 内部人供述能否换取宽免，取决于信息到达时机、稀缺性、既有参与和当局在情报、降级与威慑之间的优先次序。
 - [Spanish Conquest of Peru](concepts/SpanishConquestOfPeru.md) — Prolonged conquest process joining Spanish civil war, Indigenous alliances, colonial formation, and Vilcabamba's fall.
 - [Conquistador Civil War in Peru](concepts/ConquistadorCivilWarPeru.md) — Linked Pizarro-Almagro and royal-settler wars within the conquest of Peru.
 - [Indigenous Alliances in Spanish Conquest](concepts/IndigenousAllianceInSpanishConquest.md) — Strategic Indigenous coalition power essential to Spanish-led conquest armies.

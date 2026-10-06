@@ -48063,6 +48063,10 @@
     "title": "Legora",
     "url": "/wiki/entities/legora/"
   },
+  "LeiBeiWesternHan": {
+    "title": "雷被 / Lei Bei (Western Han)",
+    "url": "/wiki/entities/leibeiwesternhan/"
+  },
   "LeiBoYuanShuRetainer": {
     "title": "雷波 / Lei Bo (Yuan Shu retainer)",
     "url": "/wiki/entities/leiboyuanshuretainer/"
@@ -49930,6 +49934,10 @@
   "LiuQiLateHan": {
     "title": "刘琦 / Liu Qi (Late Han)",
     "url": "/wiki/entities/liuqilatehan/"
+  },
+  "LiuQianHuainanCrownPrinceWesternHan": {
+    "title": "淮南太子刘迁 / Liu Qian (Western Han)",
+    "url": "/wiki/entities/liuqianhuainancrownprincewesternhan/"
   },
   "LiuQiangDonghaiKing": {
     "title": "东海恭王刘强 / Liu Qiang, Donghai King",
@@ -81035,6 +81043,10 @@
     "title": "Timestamped Comment Community / 时间戳评论共同体",
     "url": "/wiki/concepts/timestampedcommentcommunity/"
   },
+  "TimingDependentDefectionLeniency": {
+    "title": "倒戈宽免的时机依赖 / Timing-Dependent Defection Leniency",
+    "url": "/wiki/concepts/timingdependentdefectionleniency/"
+  },
   "TimsChina": {
     "title": "Tim's China",
     "url": "/wiki/entities/timschina/"
@@ -87210,6 +87222,10 @@
   "WrittenSuccessionCredential": {
     "title": "Written Succession Credential / 书面继承凭证",
     "url": "/wiki/concepts/writtensuccessioncredential/"
+  },
+  "WuBeiWesternHan": {
+    "title": "伍被 / Wu Bei (Western Han)",
+    "url": "/wiki/entities/wubeiwesternhan/"
   },
   "WuBin": {
     "title": "吴宾 / Wu Bin",
@@ -100766,6 +100782,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x": {
+    "title": "《资治通鉴·汉纪》304-1｜古代如何做双面间谍？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x/"
   },
   "zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2": {
     "title": "《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反",

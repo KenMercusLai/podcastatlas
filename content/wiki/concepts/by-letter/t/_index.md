@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 9791
+wiki_total_pages: 9792
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1124,6 +1124,9 @@ wiki_pages:
   - key: "TrustAsMoralRisk"
     title: "信赖作为道德风险 / Trust As Moral Risk"
     url: "/wiki/concepts/trustasmoralrisk/"
+  - key: "TimingDependentDefectionLeniency"
+    title: "倒戈宽免的时机依赖 / Timing-Dependent Defection Leniency"
+    url: "/wiki/concepts/timingdependentdefectionleniency/"
   - key: "TortureResistantExoneration"
     title: "刑讯守口式申冤 / Torture-Resistant Exoneration"
     url: "/wiki/concepts/tortureresistantexoneration/"

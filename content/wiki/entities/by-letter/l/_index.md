@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 12559
+wiki_total_pages: 12562
 wiki_pages:
   - key: "LexingtonAndConcord"
     title: "Battles of Lexington and Concord"
@@ -2264,6 +2264,9 @@ wiki_pages:
   - key: "LiuKuanJibeiKingWesternHan"
     title: "济北王刘宽 / Liu Kuan, King of Jibei (Western Han)"
     url: "/wiki/entities/liukuanjibeikingwesternhan/"
+  - key: "LiuQianHuainanCrownPrinceWesternHan"
+    title: "淮南太子刘迁 / Liu Qian (Western Han)"
+    url: "/wiki/entities/liuqianhuainancrownprincewesternhan/"
   - key: "LiuQingHuaiyangKingWesternHan"
     title: "淮阳王刘清 / Liu Qing (Huaiyang King, Western Han)"
     url: "/wiki/entities/liuqinghuaiyangkingwesternhan/"
@@ -2489,6 +2492,9 @@ wiki_pages:
   - key: "LeiTao"
     title: "雷涛 / 无二旅人 / Lei Tao"
     url: "/wiki/entities/leitao/"
+  - key: "LeiBeiWesternHan"
+    title: "雷被 / Lei Bei (Western Han)"
+    url: "/wiki/entities/leibeiwesternhan/"
   - key: "LinghangzheRecoveryShip"
     title: "领航者号 Recovery Ship"
     url: "/wiki/entities/linghangzherecoveryship/"

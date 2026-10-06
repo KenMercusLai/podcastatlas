@@ -13,7 +13,8 @@ sources:
   - zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl
   - zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g
   - zizhi-tongjian-hanji-320-yi-kuai-pi-mai-40-wan-hanwudi-zhuanqian-you-duo-sun-lhpgz2peskxn466cyxeqjwc-ym0z
-last_updated: 2026-10-06
+  - zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x
+last_updated: 2026-10-07
 ---
 
 ## Overview
@@ -23,6 +24,8 @@ last_updated: 2026-10-06
 ## Current Profile
 
 The current profile is a bounded combination of institutional role, access, patronage, and political backlash rather than a full career. Hanji 329 adds an early protection signal: when [[DiShanWesternHan|狄山]] attacks Zhang as falsely loyal and blames his handling of the Huainan and Jiangdu royal cases for frightening the imperial clan, [[HanWudi|汉武帝]] turns the confrontation into a test of Di's governing and frontier capacity. The source does not show Zhang answering; the emperor's intervention itself makes Zhang's protected standing visible and turns attack on him into danger for the speaker.
+
+The Huainan case supplies a bounded example behind that later criticism. Han Wudi initially wants to spare [[WuBeiWesternHan|伍被]] after his confession, but Zhang insists that an intimate retainer who serves a prince while maintaining outside political ties must die or future governance will lose deterrent force. The claim extends Zhang's profile from harsh adjudication into institutional signaling: cooperation can remain useful as evidence while punishment is preserved as a warning. The precise law and wording remain source-scoped. [[zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x|Hanji 304-1]]
 
 [[zizhi-tongjian-hanji-333-2-ta-ai-da-huangdi-de-lian-weihe-neng-shanzhong-lhsygwstd8wysfxfgdbfkkyokscl|Hanji 333-2]] supplies the next current judgment: before leaving court, Ji An tells [[LiXiWesternHan|李息]] that Zhang uses intelligence and rhetoric to reject correction, follows the ruler's preferences, manipulates legal text, and enlarges punitive government. Li's fear blocks transmission. The same episode says Han Wudi often bypasses Zhuang Qingdi to consult Zhang, so a formally subordinate official holds greater practical influence.
 
@@ -45,7 +48,7 @@ Hanji 339-2 completes the missing terminal sequence. [[JianXuanWesternHan|减宣
 ## Key Characteristics
 
 - Western Han cruel-official trusted through direct imperial access but condemned by Ji An for rejecting correction, decorating error, following imperial preference, and using legal severity to build authority.
-- Protected court figure whose critic Di Shan is redirected into a coercive frontier-capacity test after attacking his loyalty and royal-case conduct.
+- Protected court figure whose Huainan-case deterrence argument allegedly overrides mercy for Wu Bei and whose later critic Di Shan is redirected into a coercive frontier-capacity test after attacking his royal-case conduct.
 - Fiscal and legal designer credited with adapting an older gift convention into white-deer-skin ritual extraction, paired with Zhao Yu in revising law, and presented in Yan Yi's case as turning silence, expression, and inferred dissent into capital liability.
 - Uses Lu Yezhu's covert accusation to eliminate Li Wen, then exposes the hidden patronage through personal care and failed staged distance.
 - Avoids shared apology over the funerary-park theft, investigates Zhuang Qingdi, and turns dispersed grievances into an explicit counter-coalition.
@@ -55,6 +58,7 @@ Hanji 339-2 completes the missing terminal sequence. [[JianXuanWesternHan|减宣
 ## Evidence
 
 Imperial protection and hostile court criticism:
+- [[zizhi-tongjian-hanji-304-1-gudai-ruhe-zuo-shuangmian-jiandie-lu05uaxp5b_buvl5go2bn7iy9q_x|Hanji 304-1]] says Zhang persuades Han Wudi to execute Wu Bei despite a reported initial preference for mercy, arguing that leniency toward an intimate retainer with divided ties would weaken future discipline.
 - [[zizhi-tongjian-hanji-329-buyao-guang-hui-da-zuipao-kankan-ta-de-xiachang-lkm-ptmchvg08w58jdrvfffe1p-g|Hanji 329]] says Di Shan calls Zhang falsely loyal and attacks his handling of the Huainan and Jiangdu royal cases; Wudi stops the attack and tests Di's governing capacity, after which Di is sent to a frontier barrier.
 
 Yan Yi and inward-defamation prosecution:
@@ -90,13 +94,13 @@ Early warning and practical authority:
 
 ## Qualifications
 
-The nine sources do not supply a full biography or legal dossier. Hanji 320 attributes the white-deer-skin design to Zhang but does not establish the surviving proposal text, exact administrative role, legal basis, revenue, enforcement, duration, or abolition; its paper-money analogy is weakened by its own statement that the skin did not circulate. Hanji 329 attributes accusations about false loyalty and the Huainan/Jiangdu royal cases to Di Shan; Wudi's intervention shows protection but does not prove that every accusation was true or that Zhang caused Di's assignment. Hanji 333-2 attributes a strong character and motive judgment to Ji An; Zhang's later fall gives the warning narrative force but does not independently prove every allegation. Its title-power account does not reconstruct the offices' complete jurisdictions. Hanji 337 does not establish the exact statutory status of 腹诽, independently prove Zhang's motive, or show that an inferred inner judgment was routinely prosecuted beyond Yan Yi's case. Hanji 347-1 does not allocate responsibility for specific laws or prove that Zhang and Zhao Yu held identical legal views. Hanji 338-2's “massage” detail makes closeness visible but does not independently prove conspiracy. Hanji 339-1's transcript stops mid-accusation: humiliation, motives, the Yan Zhu decision, Tian Xin's profit, friendship, leakage, bribery, and collusion remain episode-attributed rather than adjudicated fact. Hanji 339-2's eight charges, expected interrogation, final-letter wording, estate valuation, funeral sequence, and punishments likewise remain episode-attributed; Zhang's suicide may redirect the case without proving innocence on every allegation. Ji's charge of political-legal manipulation is not disproved by Zhang's reported personal frugality or modest estate.
+The ten sources do not supply a full biography or legal dossier. Hanji 304-1 does not establish Wu Bei's precise statutory entitlement to mitigation, Zhang's complete argument, or the boundary between formal law and exemplary political punishment. Hanji 320 attributes the white-deer-skin design to Zhang but does not establish the surviving proposal text, exact administrative role, legal basis, revenue, enforcement, duration, or abolition; its paper-money analogy is weakened by its own statement that the skin did not circulate. Hanji 329 attributes accusations about false loyalty and the Huainan/Jiangdu royal cases to Di Shan; Wudi's intervention shows protection but does not prove that every accusation was true or that Zhang caused Di's assignment. Hanji 333-2 attributes a strong character and motive judgment to Ji An; Zhang's later fall gives the warning narrative force but does not independently prove every allegation. Its title-power account does not reconstruct the offices' complete jurisdictions. Hanji 337 does not establish the exact statutory status of 腹诽, independently prove Zhang's motive, or show that an inferred inner judgment was routinely prosecuted beyond Yan Yi's case. Hanji 347-1 does not allocate responsibility for specific laws or prove that Zhang and Zhao Yu held identical legal views. Hanji 338-2's “massage” detail makes closeness visible but does not independently prove conspiracy. Hanji 339-1's transcript stops mid-accusation: humiliation, motives, the Yan Zhu decision, Tian Xin's profit, friendship, leakage, bribery, and collusion remain episode-attributed rather than adjudicated fact. Hanji 339-2's eight charges, expected interrogation, final-letter wording, estate valuation, funeral sequence, and punishments likewise remain episode-attributed; Zhang's suicide may redirect the case without proving innocence on every allegation. Ji's charge of political-legal manipulation is not disproved by Zhang's reported personal frugality or modest estate.
 
 ## What Changed
 
-- Added Zhang's attributed design role in converting an older gift convention into a required forty-wan ritual purchase.
-- Connected that fiscal design to Yan Yi's later proportionality objection without treating the objection alone as the cause of prosecution.
-- Kept authorship, legal mechanism, revenue, and paper-money ancestry source-scoped.
+- Added the Huainan-case example in which Zhang's deterrence argument reportedly overrides mercy for Wu Bei.
+- Connected that early punitive-signaling role to Di Shan's later criticism of Zhang's handling of royal cases.
+- Kept the governing principle, legal basis, wording, and allocation of responsibility source-scoped.
 
 ## Relationships
 
@@ -121,3 +125,5 @@ The nine sources do not supply a full biography or legal dossier. Hanji 320 attr
 - [[LiXiWesternHan]] - recipient whose fear prevents the warning from reaching Wudi at the time.
 - [[NominalOfficePracticalPowerMismatch]] - structural pattern in which Zhang's practical influence exceeds his formal place beneath the chancellor.
 - [[DiShanWesternHan]] - court critic whose attack on Zhang is followed by Wudi's coercive capacity test and frontier assignment.
+- [[WuBeiWesternHan|伍被]] - Huainan adviser whose confession Zhang reportedly treats as insufficient to justify mercy.
+- [[TimingDependentDefectionLeniency|倒戈宽免的时机依赖]] - concept showing how Zhang's deterrence logic limits the protective value of late cooperation.
