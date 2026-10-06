@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反](sources/zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2.md) — 刘赐因属吏转投朝廷而违法报复，遭内史驳回并反揭劣迹；任官权被削使其对兄长刘安的防备升级为反朝廷意图。
 - [《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国](sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q.md) — 衡山王室的夺嫡、性勒索与父子互告暴露谋反准备，最终导致主要成员被赐死、封国被废。
 - [《资治通鉴·汉纪》306-1｜绿茶婊鼻祖拜见汉武帝！](sources/zizhi-tongjian-hanji-306-1-lvchabiao-bizu-baijian-hanwudi-lnruo3m6ahmj5z8k7uu0vlxlapje.md) — 淮南、衡山大狱后的大赦被质疑为杀戮后的仁慈表演；七岁刘据获立太子稳定继承，滇国则仅获地理引介，标题所称会面尚未展开。
 - [《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？](sources/zizhi-tongjian-hanji-305-1-yin-chugui-lihun-de-ta-weihe-yao-mouhai-qinge-ljbwegjf-hve9we3gq0mrbipjvnp.md) — 衡山王刘赐家中由继后、宠妾、太子与兄妹矛盾形成反太子联盟；人物转录错误与标题所示后续行动均保留来源边界。
@@ -3952,8 +3953,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [白盈 / Bai Ying (Hengshan Crown Prince's Associate)](entities/BaiYingHengshan.md) — 为刘爽提出勾引继母之策、又替被囚太子向朝廷传递谋反指控的衡山门客。
-- [衡山国 / Hengshan Kingdom (Western Han)](entities/HengshanKingdomWesternHan.md) — 因王室互告暴露谋反准备而被朝廷查办、废除的西汉封国，与先秦恒山国明确区分。
-- [衡山王刘赐 / Liu Ci, King of Hengshan (Western Han)](entities/LiuCiHengshanKingWesternHan.md) — 将夺嫡、囚子与武器准备混为一体，最终因父子互告而失国的西汉衡山王。
+- [衡山国 / Hengshan Kingdom (Western Han)](entities/HengshanKingdomWesternHan.md) — 受中央官员复核、任官权收束与储位审批约束，后因王室互告暴露谋反准备而被废的西汉封国。
+- [衡山王刘赐 / Liu Ci, King of Hengshan (Western Han)](entities/LiuCiHengshanKingWesternHan.md) — 因违法报复与任官权被削而加深反朝廷意图，又让夺嫡和武器准备互相牵连、最终被两子揭发的西汉衡山王。
 - [衡山太子刘爽 / Liu Shuang, Crown Prince of Hengshan](entities/LiuShuangHengshanCrownPrince.md) — 以失败的性反制和朝廷告发回应夺嫡压力，却与父弟及封国一同覆灭的既定太子。
 - [衡山王后徐来 / Xu Lai, Queen of Hengshan](entities/XuLaiHengshanQueen.md) — 一面借刘孝排挤刘爽、一面以性把柄控制刘孝，却未能让亲子刘广继位的继后。
 - [衡山王子刘孝 / Liu Xiao, Prince of Hengshan](entities/LiuXiaoHengshanPrince.md) — 从反太子盟友升为拟立储君和武器经手人，调查中又告发父王而未能自保的衡山王子。
@@ -9095,7 +9096,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴国 / Wu Kingdom (early Han)](entities/WuKingdomEarlyHan.md) — Early Han kingdom created from Jing after Ying Bu's defeat and granted to Liu Bi as part of same-surname enfeoffment.
 - [吴臣 / Wu Chen (Changsha king)](entities/WuChenChangshaKing.md) — Changsha king whose envoys lure fleeing Ying Bu toward a supposed Nanyue escape before his death.
 - [薛公 / Xue Gong (Han adviser)](entities/XueGongHanAdviser.md) — Former Chu adviser whose route-based forecast explains why Ying Bu rebels and why he will likely choose the lower strategy.
-- [刘长 / Liu Chang (Huainan king)](entities/LiuChangHuainanKing.md) — Liu-family replacement named king of Huainan after Ying Bu's title is abolished during the rebellion.
+- [刘长 / Liu Chang (Huainan king)](entities/LiuChangHuainanKing.md) — 英布败后受封淮南的同姓替代王，后被简述为谋反失败者，并成为刘安、刘赐兄弟政治冲突的家族背景。
 - [奔鹤 / Ben He](entities/BenHe.md) — Huainan official whose failed attempt to gain favor through Ying Bu's concubine becomes a flight, accusation, investigation, and rebellion trigger.
 - [淮南国 / Huainan Kingdom (early Han)](entities/HuainanKingdomEarlyHan.md) — Ying Bu's early Han royal base, with its own troops and officials, where Ben He's accusation and Han investigation trigger the rebellion decision.
 - [平原君朱建 / Pingyuanjun Zhu Jian](entities/PingyuanjunZhuJian.md) — 先劝英布不要起兵，后借闳孺的近身渠道与自保动机劝阻惠帝杀审食其的风险调停者。
@@ -11503,7 +11504,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
 - [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, guest-expulsion reversal, Handan revenge, conquest politics, Wang Jian's Chu command, and later imperial fangshu anxieties.
 - [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile joins state-scale expansion, fiscal extraction, talent-channel opening and shortage, Wugu violence, late remorse, and final succession design.
-- [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
+- [Liu An / 刘安](entities/LiuAn.md) — 兼具《淮南子》知识编纂与后世神仙化记忆的西汉诸侯王，其谋反案现包含与刘赐竞争及向其他宗室扩散调查的政治层。
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
 - [Zou Yan / 邹衍](entities/ZouYan.md) — Warring States thinker anchoring episode 87's yin-yang and five-phases political-theory branch.
 - [Xu Fu / 徐福](entities/XuFu.md) — Qin fangshi attached to immortal-medicine sea voyages and later destination legends.
@@ -20537,7 +20538,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [绝对服从式指挥训练 / Absolute Command Obedience](concepts/AbsoluteCommandObedience.md) — Hanji 175 pattern where Modu's whistling-arrow drills turn lethal signal-following into command reliability.
 - [仇敌受封安众 / Hostile Recipient Reward Signal](concepts/HostileRecipientRewardSignal.md) — Hanji 174 part 2 reward-credibility pattern where enfeoffing a hated claimant reassures the wider merit-holder group.
 - [建国功臣排序 / Founding Merit Hierarchy](concepts/FoundingMeritHierarchy.md) — Hanji 174 frame for ranking unlike founding contributions, especially Xiao He's rear organization above frontline pursuit.
-- [同姓王分封 / Same-Surname King Enfeoffment](concepts/SameSurnameKingEnfeoffment.md) — Early Han strategy of assigning Liu-family kingships to stabilize major regions after different-surname king risk, now including the post-Peng-Yue Liang/Huaiyang replacement map.
+- [同姓王分封 / Same-Surname King Enfeoffment](concepts/SameSurnameKingEnfeoffment.md) — 以刘氏封国替代异姓区域权力的汉初控制策略，同时面临诸侯自主、中央收权激化与后期宗室失能的生命周期权衡。
 - [边境迁封式牵制 / Frontier Vassal Containment](concepts/FrontierVassalContainment.md) — Early Han pattern where a capable non-Liu king is moved to a frontier defense role that can also fail under siege and imperial suspicion.
 - [Public Disavowal Self-Protection / 公开切割式自保](concepts/PublicDisavowalSelfProtection.md) — Survival pattern where an exposed actor publicly disparages or distances from a powerful possible ally so observers do not read the relationship as factional alliance.
 - [Ritual-Tour Summons Entrapment / 巡游会侯式诱捕](concepts/RitualTourSummonsEntrapment.md) — Chen Ping's Hanji 172 tactic of using an imperial tour and vassal gathering as the low-force arrest mechanism against Han Xin.

@@ -12,7 +12,8 @@ sources:
   - zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv
   - zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u
   - zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc
-last_updated: 2026-09-09
+  - zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2
+last_updated: 2026-10-07
 ---
 
 ## Definition
@@ -29,6 +30,8 @@ The same tool creates new risks. [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-
 
 [[zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc|Hanji 638]] supplies the late-Western-Han endpoint by reading Ban Gu's Zhou-Qin-Han comparison backward from [[WangMang|王莽]]'s usurpation. Large same-surname kingdoms once gave the Han house protective depth, and Liu royal kin had earlier helped defeat the Lu-family threat; but repeated削藩, reduced royal offices, legal restrictions, and the 推恩令 turned many royal descendants into weak titleholders distant from the emperor. By 10 CE, those descendants mostly hand over seals and seek favor from Wang Mang rather than defending the Liu house.
 
+[[zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2|Hanji 304-2]] supplies a mid-course mechanism between founding grants and final political weakness. [[LiuChangHuainanKing|刘长]] begins as the Liu-family replacement for Ying Bu but is remembered here as a failed rebel; his son [[LiuCiHengshanKingWesternHan|刘赐]] rules a kingdom in which a centrally appointed 内史 can block royal punishment, and the emperor can remove part of the king's appointment authority. The result is not automatic stability: kinship-based territorial rule remains subordinate to central law, while partial rollback can itself become a grievance around which an ambitious king escalates.
+
 The synthesis is therefore double-edged. Same-surname kingship can help a new dynasty replace risky non-kin powerholders and guard strategic regions, but kinship is not a permanent substitute for military capacity, administrative design, or political incentives. When royal kin become powerful, they threaten the center; when they are fully defanged, they cannot protect the dynasty in crisis.
 
 ## Key Claims
@@ -37,7 +40,7 @@ The synthesis is therefore double-edged. Same-surname kingship can help a new dy
 - The institution combines family trust with strategic geography over former rivals' regions and frontier zones.
 - Kinship does not remove performance discipline: a Liu king can be demoted or rotated when frontier defense fails.
 - Same-surname kings can become succession-risk platforms when a royal title intersects with heir politics.
-- Replacing non-Liu kings with Liu-family kings can reassure the center while still generating later autonomy and court-risk problems.
+- Replacing non-Liu kings with Liu-family kings can reassure the center while still generating later autonomy, legal-jurisdiction, and appointment-control conflicts.
 - Long-term削藩 and 推恩令 solve the autonomy problem by weakening royal houses, but that also removes their capacity to defend the dynasty.
 - Hanji 638 changes the concept from an early-founding settlement into a full lifecycle pattern: useful protective kinship, dangerous regional autonomy, central rollback, and late-stage powerless submission.
 
@@ -53,16 +56,18 @@ The synthesis is therefore double-edged. Same-surname kingship can help a new dy
 - Post-Ying-Bu map: [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] says Jing is transformed into Wu and assigned to Liu Bi after Ying Bu's defeat.
 - Protective rationale and decline: [[zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc|Hanji 638]] says Ban Gu contrasts Zhou's kin-vassal depth, Qin's isolated imperial house, and Han's use then weakening of same-surname kingdoms.
 - Late-stage submission: [[zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc|Hanji 638]] says Liu royal houses by Wang Mang's usurpation are politically weak and many submit seals or praise the new regime.
+- Mid-course central restraint: [[zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2|Hanji 304-2]] says a central official blocks Liu Ci's unlawful death case and the emperor later narrows his power to appoint senior local officials.
+- Kinship does not end rebellion risk: [[zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2|Hanji 304-2]] remembers Liu Chang as a failed rebel and presents Liu An and Liu Ci as later conspirators in the same royal branch.
 
 ## Counterevidence & Qualifications
 
-The concept should not be read as proof that enfeoffment is always better than commandery-county rule. The sources preserve the tradeoff: Qin's direct imperial model lacks kin-vassal buffers, while early Han's large kingdoms generate autonomy, rebellion, and succession exposure. Hanji 638 adds a lifecycle endpoint, but it is mediated by Ban Gu's retrospective judgment and the host's "self-interest" frame; detailed Western Han削藩 law, exact kingdom sizes, and every Liu royal house's conduct remain source-scoped.
+The concept should not be read as proof that enfeoffment is always better than commandery-county rule. The sources preserve the tradeoff: Qin's direct imperial model lacks kin-vassal buffers, while early Han's large kingdoms generate autonomy, rebellion, succession exposure, and disputed jurisdiction. Hanji 304-2 supplies one dramatized Hengshan case rather than a general administrative survey, so its official titles, appointment threshold, motives, and family-pattern framing remain source-scoped. Hanji 638 adds a lifecycle endpoint, but it is mediated by Ban Gu's retrospective judgment and the host's "self-interest" frame; detailed Western Han削藩 law, exact kingdom sizes, and every Liu royal house's conduct remain outside the bounded evidence.
 
 ## What Changed
 
-- Migrated the page to `synthesis-v1`.
-- Added Hanji 638 as the late-Western-Han endpoint where weakened Liu royal kin cannot defend the dynasty from Wang Mang.
-- Reframed same-surname kingship as a lifecycle tradeoff: protective buffer, autonomy threat, centralizing rollback, and final loss of protective capacity.
+- Added the Hengshan mid-course mechanism: central legal review and removal of appointment power constrain a same-surname king before abolition.
+- Qualified family trust by showing that Liu Chang's replacement branch is later remembered through repeated royal rebellion.
+- Sharpened the lifecycle tradeoff to include not only autonomy and eventual weakness, but conflict during partial central rollback.
 
 ## Related Concepts
 

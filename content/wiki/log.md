@@ -31082,3 +31082,11 @@ Added source `zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反
+
+Added source `zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2`; resynthesized [[LiuCiHengshanKingWesternHan|衡山王刘赐]], [[HengshanKingdomWesternHan|西汉衡山国]], [[LiuAn|淮南王刘安]], [[LiuChangHuainanKing|淮南王刘长]], and [[SameSurnameKingEnfeoffment|同姓王分封]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Liu Ci's rebellion posture is presented as a coupled status-and-jurisdiction escalation—rivalry with Liu An prompts parallel recruitment, retaliation against a subordinate's attempted move to central service triggers review by a centrally appointed official, and the failed counter-accusation exposes royal misconduct and costs Liu Ci appointment authority. No settled contradiction was adopted. The transcript forms “恒山王刘次” and “恒山国” are normalized to 衡山王刘赐 and Western Han 衡山国 while preserved as source mismatches; Yue contacts, misconduct allegations, official powers, appointment threshold, family psychology, motives, and causal claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,886 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

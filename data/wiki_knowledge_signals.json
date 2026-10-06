@@ -101986,9 +101986,9 @@
       "url": "/wiki/entities/hengfuhistoricdistrict/"
     },
     "HengshanKingdomWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国 [lkkfwVjhKfXCR1rHrOIGrpBdMH2Q].md",
@@ -101996,6 +101996,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国",
           "url": "/wiki/sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反 [lnav5gPrM_MMsbBUGEFLGHixPlf2].md",
+          "key": "zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2/"
         }
       ],
       "updated": "2026-10-07",
@@ -135523,9 +135530,9 @@
       "url": "/wiki/concepts/lithiumbipolartreatment/"
     },
     "LiuAn": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
@@ -135540,6 +135547,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》316-1｜他功越百王，为何治下百姓越来越穷",
           "url": "/wiki/sources/zizhi-tongjian-hanji-316-1-ta-gong-yue-bai-wang-weihe-zhi-xia-baixing-yuelaiyue-qiong-lu_tr4m36rmz9sx38j4nvlmof5am/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反 [lnav5gPrM_MMsbBUGEFLGHixPlf2].md",
+          "key": "zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2/"
         }
       ],
       "updated": "2026-10-07",
@@ -135967,6 +135981,29 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/liuchangduxianghoueasternhan/"
     },
+    "LiuChangHuainanKing": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征 [lvjAfoTLnvMYQMWaEAv3noVZ1dOX].md",
+          "key": "zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-187-yingbu-panluan-liubang-weihe-tuobingti-qinzheng-lvjafotlnvmyqmwaeav3novz1dox/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反 [lnav5gPrM_MMsbBUGEFLGHixPlf2].md",
+          "key": "zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/liuchanghuainanking/"
+    },
     "LiuChangLiangKing": {
       "episode_count": 1,
       "show_count": 1,
@@ -136078,9 +136115,9 @@
       "url": "/wiki/entities/liuchonglatehanminister/"
     },
     "LiuCiHengshanKingWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》305-1｜因出轨离婚的她，为何要谋害亲哥？ [ljbwEGjf-HVe9we3gq0MrbiPjVNP].md",
@@ -136095,6 +136132,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》305-2｜衡山王刘赐竟因儿子勾引小妈误国",
           "url": "/wiki/sources/zizhi-tongjian-hanji-305-2-hengshanwang-liuci-jing-yin-erzi-gouyin-xiaoma-wuguo-lkkfwvjh-kfxcr1rhroigrpbdmh2q/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反 [lnav5gPrM_MMsbBUGEFLGHixPlf2].md",
+          "key": "zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2/"
         }
       ],
       "updated": "2026-10-07",
@@ -197774,9 +197818,9 @@
       "url": "/wiki/entities/samsachs/"
     },
     "SameSurnameKingEnfeoffment": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》189｜刘邦死前最后一搏 [llLydJ2XYK4cr7B9d2qx0HvFw_Dz].md",
@@ -197833,9 +197877,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反 [lnav5gPrM_MMsbBUGEFLGHixPlf2].md",
+          "key": "zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》304-2｜因跳槽引发的诸侯王谋反",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-304-2-yin-tiaocao-yinfa-de-zhuhouwang-moufan-lnav5gprm-mmsbbugeflghixplf2/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/samesurnamekingenfeoffment/"
     },
     "SamerHattar": {
