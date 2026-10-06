@@ -93509,9 +93509,9 @@
       "url": "/wiki/concepts/groupchatagentparticipation/"
     },
     "GrowthHormoneBehavioralRegulation": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM6636881997 [SCIM6636881997].md",
@@ -93540,9 +93540,16 @@
           "show": "Huberman Lab",
           "title": "How to Control Your Metabolism by Thyroid & Growth Hormone",
           "url": "/wiki/sources/scim2147325995-scim2147325995/"
+        },
+        {
+          "episode_file": "SCIM1457876357 [SCIM1457876357].md",
+          "key": "essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357",
+          "show": "Huberman Lab",
+          "title": "Essentials: Benefits of Sauna & Deliberate Heat Exposure",
+          "url": "/wiki/sources/essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/growthhormonebehavioralregulation/"
     },
     "GrowthHormoneSecretagogues": {
@@ -99700,9 +99707,9 @@
       "url": "/wiki/concepts/heartvalverepairreplacementdecision/"
     },
     "HeatExposureDoseAndSafety": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7949990176 [SCIM7949990176].md",
@@ -99717,9 +99724,16 @@
           "show": "Huberman Lab",
           "title": "The Science & Health Benefits of Deliberate Heat Exposure",
           "url": "/wiki/sources/scim5583107634-scim5583107634/"
+        },
+        {
+          "episode_file": "SCIM1457876357 [SCIM1457876357].md",
+          "key": "essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357",
+          "show": "Huberman Lab",
+          "title": "Essentials: Benefits of Sauna & Deliberate Heat Exposure",
+          "url": "/wiki/sources/essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357/"
         }
       ],
-      "updated": "2026-10-01",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/heatexposuredoseandsafety/"
     },
     "HeathIncomesPolicy": {
@@ -219176,9 +219190,9 @@
       "url": "/wiki/entities/theresamay/"
     },
     "ThermoregulationAndGlabrousHeatTransfer": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM5583107634 [SCIM5583107634].md",
@@ -219207,9 +219221,16 @@
           "show": "Huberman Lab",
           "title": "Supercharge Exercise Performance & Recovery with Cooling",
           "url": "/wiki/sources/scim5512858918-scim5512858918/"
+        },
+        {
+          "episode_file": "SCIM1457876357 [SCIM1457876357].md",
+          "key": "essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357",
+          "show": "Huberman Lab",
+          "title": "Essentials: Benefits of Sauna & Deliberate Heat Exposure",
+          "url": "/wiki/sources/essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-06",
       "url": "/wiki/concepts/thermoregulationandglabrousheattransfer/"
     },
     "TheroigneDeMericourt": {

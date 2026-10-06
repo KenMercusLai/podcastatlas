@@ -7,7 +7,8 @@ sources:
   - using-deliberate-cold-exposure-for-health-and-performance-scim1045909781
   - scim6467660570-scim6467660570
   - scim5512858918-scim5512858918
-last_updated: 2026-10-03
+  - essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357
+last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,7 @@ knowledge_schema: synthesis-v1
 Thermoregulation and glabrous heat transfer is the source's model of how skin and core temperature signals drive autonomic and behavioral responses, with the palms, soles, and upper face acting as comparatively efficient surfaces for exchanging heat with the core.
 
 ## Current Synthesis
-The episode distinguishes shell temperature at the skin from core temperature in organs and the central nervous system. Cutaneous signals are described as traveling through the spinal cord and lateral parabrachial area to the hypothalamic preoptic area, which coordinates sweating, vasodilation, shivering, posture, movement, lethargy, and escape behavior. Heat discomfort can therefore be both a protective signal and, within safe limits, part of a controlled stress exposure.
+The full deliberate-heat episode and its Essentials condensation distinguish shell temperature at the skin from core temperature in organs and the central nervous system. Cutaneous signals are described as traveling through the spinal cord and lateral parabrachial area to the hypothalamic preoptic area, which coordinates sweating, vasodilation, shivering, posture, movement, lethargy, and escape behavior. Heat discomfort can therefore be both a protective signal and, within safe limits, part of a controlled stress exposure; the two releases are overlapping provenance rather than independent confirmation.
 
 Glabrous skin on the palms, soles, and upper face contains specialized vascular pathways that can exchange heat quickly. The practical claim is conditional: cooling or warming these areas may assist core-temperature management, but extreme cold can constrict vessels and reduce transfer. This mechanism can inform first-response intuition, yet suspected heat stroke or hypothermia remains an emergency rather than a self-experiment.
 
@@ -47,15 +48,14 @@ The original 2021 cooling episode is the full provenance underlying its later Es
 - Bidirectional application - [[scim6467660570-scim6467660570]] links palms, soles, and upper-face cooling with heat removal and hand or foot warming with rapid rewarming, while retaining both as context-dependent applications.
 - Local and systemic limits - [[scim6467660570-scim6467660570]] distinguishes heat trapped in contracting muscle from gradually rising whole-body temperature and gives cognitive impairment as a warning sign of dangerous systemic heat.
 - Original-episode provenance - [[scim5512858918-scim5512858918]] links glabrous-skin heat transfer with humidity, cardiac drift, and exercise performance while warning that maximal cold can close the intended vascular pathway.
+- Condensed heat-control account - [[essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357]] repeats the shell/core distinction, spinal-parabrachial-preoptic pathway, and protective agitation or escape response while retaining the neural-injury boundary for excessive heat.
 
 ## Counterevidence & Qualifications
 The supplied notes do not provide complete comparative trials, effect sizes, measurement methods, or emergency-care protocols for glabrous-skin cooling or warming. The Heller episode's roughly twofold hyperthermia-cooling comparison and rapid postoperative rewarming example remain source-scoped rather than replacements for established emergency care. Reported exercise-volume gains do not establish what most people should expect. Face, hand, or foot temperature and subjective comfort are not substitutes for core assessment, and recommendations differ by equipment, exertional heat illness, cold injury, cardiovascular state, age, medication, and consciousness. Severe confusion, collapse, seizure, loss of consciousness, or suspected heat stroke or hypothermia requires emergency care.
 
 ## What Changed
-- Added the distinction between systemic cold stress and flow-preserving glabrous-skin heat removal.
-- Added the distinction between subjective cooling and demonstrated removal of local or core heat.
-- Added bidirectional cooling and rewarming applications while keeping emergency superiority unresolved.
-- Added the original 2021 episode as overlapping provenance rather than independent support for the later Essentials edit.
+- Added the deliberate-heat Essentials release as overlapping provenance for the shell/core control circuit.
+- Preserved the distinction between tolerable heat discomfort and dangerous hyperthermia.
 
 ## Related Concepts
 - [[HeatExposureDoseAndSafety]] - deliberate exposure framework governed by the same protective control system.

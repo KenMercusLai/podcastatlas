@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9c3bf71427651d2616fa9671394828ec841c9649277ea2479eb2bbe97127c6c8",
       "57f931d0e028859d66a8c86843f5ad3a2dfd7f64320c3b5b6b63a27ff62fb951",
       "d34511688e8f3e30871b62b49c7909d6d0b606fbe09d29ae0f9005a86c5cf022",
       "a40cea44167ef9e91c3b21ed43ff66622d2ed9ad0cb3c091596e825d24fdda87",
@@ -798,11 +799,34 @@
       "8f1543297306aafda5c37bc38923bd57ce8cf5d6998b09f5d3438f3707dd9537",
       "9b41405243f2492bb74e78e0267ed6fe96471522604584f636469b1901fa87b2"
     ],
-    "paragraph_count": 796
+    "paragraph_count": 797
   },
-  "overview_commit": "dfa832de816d28388ae160ab4376a4ac1deb4cda",
-  "overview_digest": "dddf8c22c0b025c0e6979f55a16341e3a9be1eaa2c8e92b0f9b434d26ae54163",
+  "overview_commit": "886580f0905c9f8d7024ad25ed9ac99719107d2f",
+  "overview_digest": "8cb10406db9613357c14ce74c2f4a2ded66c4143cb80412c6271f48a079a47dc",
   "paragraphs": [
+    {
+      "id": "9c3bf71427651d2616fa9671394828ec841c9649277ea2479eb2bbe97127c6c8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "science-health-and-climate",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357|Essentials: Benefits of Sauna & Deliberate Heat Exposure]], a condensed [[HubermanLab]] solo episode with [[AndrewHuberman]] on [[HeatExposureDoseAndSafety]], [[ThermoregulationAndGlabrousHeatTransfer]], and [[GrowthHormoneBehavioralRegulation]]. Its core synthesis is that deliberate heat is a goal-specific dose: frequency, temperature, duration, session structure, adaptation, hydration, health status, and timing shape the response, while observational cardiovascular associations and acute cortisol, heat-shock, FOXO3, opioid-pathway, or growth-hormone signals do not prove durable clinical benefit. No settled contradiction is recorded. The Essentials release and [[scim5583107634-scim5583107634|the full 2022 episode]] are overlapping provenance rather than independent confirmation, and exact protocols remain source-scoped public education bounded by individual tolerance and serious hyperthermia risk.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "GrowthHormoneBehavioralRegulation",
+        "HeatExposureDoseAndSafety",
+        "HubermanLab",
+        "ThermoregulationAndGlabrousHeatTransfer",
+        "essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357",
+        "scim5583107634-scim5583107634"
+      ]
+    },
     {
       "id": "57f931d0e028859d66a8c86843f5ad3a2dfd7f64320c3b5b6b63a27ff62fb951",
       "primary_topic": "business-and-markets",

@@ -3892,6 +3892,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Fetterman: The Rogue Democrat Who Broke Party Ranks](sources/all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130.md) — All-In interview on Fetterman's Democratic dissent, voter ID and mail voting, border enforcement and Dreamers, Israel and Iran, shutdowns, debt, agriculture, and AI data centers.
 - [《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？](sources/zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk.md) — 以韩愈的文学影响、科举挫折、两次直谏遭贬与潮州任事实践，说明政治惩罚和身份下落不必终止公共责任。
 - [EP 31: Google's $30M Bet: The AI Impact Summit India and the Global South](sources/ep-31-googles-30m-bet-the-ai-impact-summit-india-and-the-global-south.md) — Data Science With Sam episode on Google's India commitments, AI-for-science funding, Global South participation, connectivity, and India's possible AI-governance role.
+- [Essentials: Benefits of Sauna & Deliberate Heat Exposure](sources/essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357.md) — Condensed Huberman Lab episode on heat dose, thermoregulation, cardiovascular associations, acute hormone responses, mood, sleep, hydration, and hyperthermia safety.
 
 ## Entities
 - [Arthur Miller / 阿瑟·米勒](entities/ArthurMiller.md) — American playwright represented through social drama, theatrical necessity, political refusal, and the 1983 Beijing production of *Death of a Salesman*.

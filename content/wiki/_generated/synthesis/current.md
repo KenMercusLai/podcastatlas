@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-10-06
-as_of_overview_commit: fbcceb719193a22693eaa9bce5cc8b4350e0fbc9
+as_of_overview_commit: 886580f0905c9f8d7024ad25ed9ac99719107d2f
 summary: "Podcast Atlas links technology, institutions, history, markets, culture, health, work, and psychology through evidence-bounded synthesis and explicit qualifications."
-episode_count: 3786
-source_count: 3786
-paragraph_count: 795
+episode_count: 3830
+source_count: 3830
+paragraph_count: 797
 topic_count: 9
 ---
 
@@ -61,7 +61,7 @@ Legitimacy, information, capacity, bargaining, accountability, implementation, a
 
 ### History and Geopolitics
 
-State capacity and historical change emerge through legitimacy, logistics, coalition, command, information, institutions, and contested memory; the Changshan case adds a bounded household-to-state example.
+State capacity and historical change emerge through legitimacy, logistics, coalition, command, information, institutions, and contested memory.
 
 - [[90-the-western-front-glt9972346188|The Western Front episode]] joins industrial stalemate to [[WesternFrontMilitaryLearning|uneven military learning]] and [[WesternFrontPopularMemory|contested popular memory]]: defensive firepower, mass armies, and communications made breakthrough genuinely difficult; British and Allied tactical, coalition, and logistical adaptation helped defeat Germany in 1918; and the later "lions led by donkeys" frame preserved real suffering while often obscuring adaptation and military outcome. Evidence: [[90-the-western-front-glt9972346188]], [[WesternFrontFirstWorldWar]], [[WesternFrontMilitaryLearning]], [[WesternFrontPopularMemory]], [[FirstWorldWar]], [[TrenchLifeWesternFront]], [[GarySheffield]], [[DouglasHaig]], [[WilfredOwen]], [[PaulVonHindenburg]], [[ErichLudendorff]].
 - [[95-9-11-glt8208243510|The 9/11 episode]] links [[TerrorAsGlobalMediaSpectacle|designed global imagery]] to [[RivalUniversalistProjects|rival universalist projects]] and [[WarOnTerrorOverreach|reaction-driven overreach]]: [[AlQaeda|al-Qaeda]] attacked symbolic American targets through worldwide media, while [[GeorgeWBush|George W. Bush]] turned national injury into a war and universal-freedom mission whose Iraq expansion, torture, detention abuse, and legal exceptionalism weakened American credibility and reinforced the durable [[Post911CounterterrorismArchitecture]]. Evidence: [[95-9-11-glt8208243510]], [[TerrorAsGlobalMediaSpectacle]], [[RivalUniversalistProjects]], [[WarOnTerrorOverreach]], [[AlQaeda]], [[OsamaBinLaden]], [[GeorgeWBush]], [[SayyidQutb]], [[ReligiousMoralFramingOfUSForeignPolicy]], [[Post911CounterterrorismArchitecture]], [[China]], [[TheRestIsHistory]].
@@ -75,7 +75,7 @@ Contextual judgment keeps function above labels, regulation responsive to state 
 
 ### Science, Health, and Climate
 
-Public literacy requires mechanisms, measurement, qualified care, escalation boundaries, environmental context, and uncertainty rather than cure claims.
+Public literacy requires mechanisms, measurement, qualified care, escalation boundaries, dose and health context, and uncertainty rather than cure or universal-protocol claims.
 
 - [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019|The Carhart-Harris interview]] adds a psychedelic mental-health branch in which [[PsychedelicTherapyMechanism]] joins serotonin 2A pharmacology, acute cross-network change, subjective confrontation, therapeutic trust, and setting, while [[PsychedelicIntegration]] and [[PsychedelicClinicalSupervisionBoundary]] keep transient experience, relapse, legal access, contamination, provider conduct, and emergency support distinct from durable efficacy; [[BrainNetworkModularity]] can therefore be useful when high at baseline yet temporarily reduced in an altered state without yielding a one-direction optimization rule. Evidence: [[the-science-of-psychedelics-for-mental-health-dr-robin-carhart-harris-scim8487331019]], [[RobinCarhartHarris]], [[PsychedelicTherapyMechanism]], [[PsychedelicIntegration]], [[PsychedelicClinicalSupervisionBoundary]], [[BrainNetworkModularity]], [[MDMAAssistedPTSDTherapy]].
 - [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi|VOL.71]] adds a perinatal mental-health branch: [[PostpartumDepressionRecognitionAndSupport]] combines emotional, cognitive, bodily, sleep, appetite, caregiving, functional, and safety changes; [[PerinatalMentalHealthPrevention]] moves screening and family planning before crisis; and [[PerinatalPsychiatricMedicationSharedDecision]] keeps pregnancy, lactation, untreated illness, medicine, and feeding choices individualized rather than governed by stigma or blanket rules. Evidence: [[vol-71-jingshenke-guanai-chanhou-yiyu-chanqian-yiji-yufang-chanhou-jujue-moshi-jiyu-gengduo-peiban-loossm3a72jbbdj7tplmsidw4ovi]], [[ZheBingShuoLaiHuaChang]], [[PostpartumDepressionRecognitionAndSupport]], [[PerinatalMentalHealthPrevention]], [[PerinatalPsychiatricMedicationSharedDecision]].

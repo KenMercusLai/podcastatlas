@@ -30631,3 +30631,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | Essentials: Benefits of Sauna & Deliberate Heat Exposure
+
+Added source `essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357` and resynthesized [[HeatExposureDoseAndSafety]], [[ThermoregulationAndGlabrousHeatTransfer]], and [[GrowthHormoneBehavioralRegulation]] from their complete preserved evidence inventories. The release condenses the full 2022 deliberate-heat episode, so it adds overlapping provenance rather than independent confirmation. No settled contradiction was adopted; observational cardiovascular associations, acute hormone and molecular responses, goal-specific schedules, hydration amounts, sleep effects, mood mechanisms, and exact thermal protocols remain source-scoped, while individual heat tolerance and serious hyperthermia risk bound all practical use. Broad [[AndrewHuberman]] and [[HubermanLab]] profiles were retained unchanged because the episode adds no new entity-level characteristic.
+
+Downstream synthesis rebuilt `governance-and-institutions`, `science-health-and-climate`, and `work-education-and-society`; the material-candidate gate compacted the global artifact, and the refreshed outputs validate 3,830 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -3,16 +3,16 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-10-05
-as_of_overview_commit: 71a83c10f8885631f528e3c44302793ca34fc1e8
-input_digest: 911b67e256ce5743dadd249c8f04a4cdf589ff8eb597042f31b9f09e574d26ca
+last_updated: 2026-10-06
+as_of_overview_commit: 886580f0905c9f8d7024ad25ed9ac99719107d2f
+input_digest: f30a0b97518e60346996519b9a1625a7e0f39d1897e7018f6b3eace7ecc01ed7
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Across the bounded historical and modern cases, governance depends on more than formal rules: legitimacy, information, administrative capacity, bargaining, accountability, and implementation incentives determine whether institutions can act and whether action remains bounded. The newest election and surveillance evidence adds that electoral alignment remains contingent on turnout and institutional checks, while public-safety technology requires enforceable purpose, audit, security, retention, and sharing controls rather than company assurances alone. EP36 adds parallel delivery and governance gates for enterprise agents and physical-AI infrastructure; all current election, surveillance, and deployment details remain source-scoped.
+Across the bounded historical and modern cases, governance depends on more than formal rules: legitimacy, information, administrative capacity, bargaining, accountability, and implementation incentives determine whether institutions can act and whether action remains bounded. The newest election and surveillance evidence adds that electoral alignment remains contingent on turnout and institutional checks, while public-safety technology requires enforceable purpose, audit, security, retention, and sharing controls rather than company assurances alone. EP36 adds parallel delivery and governance gates for enterprise agents and physical-AI infrastructure; all current election, surveillance, and deployment details remain source-scoped. Public wellness guidance adds the same accountability requirement: mechanisms and associations must remain separate from universal protocols, with dose, health status, and serious-risk escalation made explicit.
 
 ## Cross-source Findings
 
@@ -2806,3 +2806,15 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 
 - A household is not equivalent to a formal governing institution, and the episode does not establish a general institutional-care model.
 - Hester's motives, Boswell's degree of minimization, remembered dialogue, Johnson's diagnosis, guilt, and sexuality remain partial, retrospective, or speculative.
+
+### Public Wellness Guidance Needs Evidence And Safety Boundaries
+
+[[essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357|The deliberate-heat Essentials episode]] adds a public-guidance boundary: [[HeatExposureDoseAndSafety]] requires goals, dose, adaptation, hydration, health status, and explicit risk communication, while observational associations and acute [[GrowthHormoneBehavioralRegulation|hormone]] or molecular responses do not by themselves authorize universal protocols.
+
+**Evidence:** [[essentials-benefits-of-sauna-deliberate-heat-exposure-scim1457876357]], [[HeatExposureDoseAndSafety]], [[GrowthHormoneBehavioralRegulation]], [[ThermoregulationAndGlabrousHeatTransfer]], [[scim5583107634-scim5583107634]]
+
+**Qualifications:**
+
+- The source is a condensed public-education episode, not a clinical guideline, causal cardiovascular trial, or individualized heat protocol.
+- Its Essentials and full-length releases are overlapping provenance rather than independent confirmation.
+- Exact temperatures, durations, frequencies, hydration targets, fasting windows, and heat transitions remain source-scoped, while serious hyperthermia requires prompt care.
