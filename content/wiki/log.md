@@ -30704,3 +30704,10 @@ Added source `zizhi-tongjian-hanji-324-1-liguang-shequ-lianmian-qiu-le-wudi-shen
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-06] ingest | 《资治通鉴·汉纪》324-2｜李广与卫青，两位名将的爱恨情仇
+
+Added source `zizhi-tongjian-hanji-324-2-liguang-yu-weiqing-liangwei-mingjiang-de-aihen-qingchou-lqejjd0rqvm7lj59w8v1s0pvpwpd`; resynthesized [[LiGuangHanGeneral|李广]], [[WeiQingHanGeneral|卫青]], [[MobeiBattleWesternHan|漠北之战]], and [[GongsunAoWesternHan|公孙敖]] from their complete preserved evidence inventories; and appended the new source once to each page. Core synthesis: revised intelligence redirects the two Han commands, Wei Qing refuses Li Guang's renewed vanguard request under both the emperor's warning and a source-attributed preference to restore Gongsun Ao through merit, while Han logistics preserve combat power across the desert before wagon defense, cavalry contact, and a sandstorm. No settled contradiction was adopted. Motives, friendship and rescue history, target locations, routes, dialogue, courtesies, force totals, wagon formation, and weather sequence remain source-scoped; the episode does not prove that Wei intended Li Guang to fail. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed artifacts cover 3,839 sources across nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
