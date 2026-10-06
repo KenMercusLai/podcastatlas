@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 9770
+wiki_total_pages: 9773
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -983,6 +983,9 @@ wiki_pages:
   - key: "MilitaryRewardEunuchGatekeeping"
     title: "Military Reward Eunuch Gatekeeping / 宦官门槛下的军功赏罚"
     url: "/wiki/concepts/militaryrewardeunuchgatekeeping/"
+  - key: "MilitarySuccessPoliticalFailure"
+    title: "Military Success, Political Failure"
+    url: "/wiki/concepts/militarysuccesspoliticalfailure/"
   - key: "MilitaryCivilianIntegration"
     title: "Military-Civil Integration / 军政一体"
     url: "/wiki/concepts/militarycivilianintegration/"

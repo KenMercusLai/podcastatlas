@@ -30816,3 +30816,11 @@ Added source `ep-30-openclaw-the-open-source-ai-agent-that-got-its-creator-hired
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | Graham Allison on the Global Realignment: Iran, China, Israel, Greenland
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425`; created [[MilitarySuccessPoliticalFailure]], [[GreatPowerRivalryEscalationDynamics]], and [[NuclearNonproliferationOrder]]; and resynthesized [[GrahamAllison]], [[StrategicAccessWithoutAnnexation]], [[GreenlandStrategicAccess]], [[UndefinedWarObjectives]], and [[NuclearDeterrence]] from their complete preserved evidence inventories. Core synthesis: military and intelligence dominance does not guarantee a political settlement; U.S.-China rivalry raises escalation risk without making a near-term Taiwan attack inevitable; Greenland's defense utility can be secured through agreements and leases; and postwar nuclear non-use and limited proliferation are fragile institutional achievements. No settled contradiction was adopted. Allison's Iran attribution and exit scenario, Taiwan probability, Chinese capability claims, proliferation figures, public opinion, inequality shares, and motivation effects remain source-dated or episode-attributed. Broad country, leader, show, and inequality pages were kept closed because the bounded additions are represented in focused canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,853 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

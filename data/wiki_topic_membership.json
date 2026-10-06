@@ -39249,6 +39249,13 @@
       "url": "/topics/science/"
     }
   ],
+  "GreatPowerRivalryEscalationDynamics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GreatTreasonIncident": [
     {
       "key": "politics",
@@ -57204,6 +57211,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MilitarySuccessPoliticalFailure": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MimeticCompetitionAvoidance": [
     {
       "key": "economics",
@@ -60844,6 +60858,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "NuclearNonproliferationOrder": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "NuclearRiskExternalization": [
@@ -94731,6 +94752,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-how-matt-mahan-thinks-he-can-save-california-40578730": [

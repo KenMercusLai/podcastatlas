@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 3141
+topic_total_pages: 3145
 topic_concepts:
   - key: "ChileanCoup1973"
     title: "1973 Chilean Coup"
@@ -1801,6 +1801,9 @@ topic_concepts:
   - key: "GreatGame"
     title: "Great Game"
     url: "/wiki/concepts/greatgame/"
+  - key: "GreatPowerRivalryEscalationDynamics"
+    title: "Great-Power Rivalry Escalation Dynamics"
+    url: "/wiki/concepts/greatpowerrivalryescalationdynamics/"
   - key: "GreaterBayAreaCinema"
     title: "Greater Bay Area Cinema / 大湾区电影"
     url: "/wiki/concepts/greaterbayareacinema/"
@@ -2539,6 +2542,9 @@ topic_concepts:
   - key: "MilitaryPersonalization"
     title: "Military Personalization / 军队私人化"
     url: "/wiki/concepts/militarypersonalization/"
+  - key: "MilitarySuccessPoliticalFailure"
+    title: "Military Success, Political Failure"
+    url: "/wiki/concepts/militarysuccesspoliticalfailure/"
   - key: "MinnanRitualNetwork"
     title: "Minnan Ritual Network / 闽南仪式网络"
     url: "/wiki/concepts/minnanritualnetwork/"
@@ -2656,6 +2662,9 @@ topic_concepts:
   - key: "NorthernIrelandDirectRule"
     title: "Northern Ireland Direct Rule"
     url: "/wiki/concepts/northernirelanddirectrule/"
+  - key: "NuclearNonproliferationOrder"
+    title: "Nuclear Nonproliferation Order"
+    url: "/wiki/concepts/nuclearnonproliferationorder/"
   - key: "NuclearRiskExternalization"
     title: "Nuclear Risk Externalization"
     url: "/wiki/concepts/nuclearriskexternalization/"
@@ -8658,6 +8667,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485"
     title: "Flock CEO Garrett Langley on Controversy, \"Surveillance State\" Claims, and Privacy vs Safety"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425"
+    title: "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"
   - key: "gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6"
     title: "Gulf-co-operation counsel: what next for the region"
     url: "/wiki/sources/gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6/"

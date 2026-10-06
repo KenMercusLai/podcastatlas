@@ -93169,6 +93169,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/graft/"
     },
+    "GrahamAllison": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "152.关于2026年的四个猜想 [nhx-c5XJwaOVpaqjpuA24dIOhsAz].md",
+          "key": "152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz",
+          "show": "起朱楼宴宾客",
+          "title": "152.关于2026年的四个猜想",
+          "url": "/wiki/sources/152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Graham Allison on the Global Realignment： Iran, China, Israel, Greenland [40373425].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/grahamallison/"
+    },
     "GrahamHancock": {
       "episode_count": 3,
       "show_count": 1,
@@ -93534,6 +93557,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/greatnorthernwar/"
     },
+    "GreatPowerRivalryEscalationDynamics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Graham Allison on the Global Realignment： Iran, China, Israel, Greenland [40373425].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/greatpowerrivalryescalationdynamics/"
+    },
     "GreatSiouxReservation": {
       "episode_count": 1,
       "show_count": 1,
@@ -93754,6 +93793,29 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/greekwarofindependence/"
+    },
+    "GreenlandStrategicAccess": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983 [default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983].md",
+          "key": "how-to-get-what-greenland-has-with-permission",
+          "show": "Planet Money",
+          "title": "How to get what Greenland has, with permission",
+          "url": "/wiki/sources/how-to-get-what-greenland-has-with-permission/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Graham Allison on the Global Realignment： Iran, China, Israel, Greenland [40373425].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/greenlandstrategicaccess/"
     },
     "GregorStrasser": {
       "episode_count": 3,
@@ -152993,6 +153055,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/militaryrewardeunuchgatekeeping/"
     },
+    "MilitarySuccessPoliticalFailure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Graham Allison on the Global Realignment： Iran, China, Israel, Greenland [40373425].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/militarysuccesspoliticalfailure/"
+    },
     "MillennialRomanImperialEschatology": {
       "episode_count": 2,
       "show_count": 1,
@@ -162933,9 +163011,9 @@
       "url": "/wiki/concepts/nuclearaccidentandfalsealarmrisk/"
     },
     "NuclearDeterrence": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2236644203 [GLT2236644203].md",
@@ -162943,9 +163021,16 @@
           "show": "The Rest Is History",
           "title": "92. Nuclear Weapons",
           "url": "/wiki/sources/92-nuclear-weapons-glt2236644203/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Graham Allison on the Global Realignment： Iran, China, Israel, Greenland [40373425].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"
         }
       ],
-      "updated": "2026-10-03",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/nucleardeterrence/"
     },
     "NuclearDisasterMemory": {
@@ -162986,6 +163071,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/nuclearelectricspaceflight/"
+    },
+    "NuclearNonproliferationOrder": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Graham Allison on the Global Realignment： Iran, China, Israel, Greenland [40373425].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/nuclearnonproliferationorder/"
     },
     "NuclearRiskExternalization": {
       "episode_count": 1,
@@ -211318,6 +211419,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/strangerhospitalityethics/"
     },
+    "StrategicAccessWithoutAnnexation": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983 [default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983].md",
+          "key": "how-to-get-what-greenland-has-with-permission",
+          "show": "Planet Money",
+          "title": "How to get what Greenland has, with permission",
+          "url": "/wiki/sources/how-to-get-what-greenland-has-with-permission/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Graham Allison on the Global Realignment： Iran, China, Israel, Greenland [40373425].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/concepts/strategicaccesswithoutannexation/"
+    },
     "StrategicAngerDeterrence": {
       "episode_count": 1,
       "show_count": 1,
@@ -226788,9 +226912,9 @@
       "url": "/wiki/entities/unconventionalai/"
     },
     "UndefinedWarObjectives": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race [40774740].md",
@@ -226798,9 +226922,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Graham Allison on the Global Realignment： Iran, China, Israel, Greenland [40373425].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Graham Allison on the Global Realignment: Iran, China, Israel, Greenland",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-graham-allison-on-the-global-realignment-iran-china-israel-greenland-40373425/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-07",
       "url": "/wiki/concepts/undefinedwarobjectives/"
     },
     "UndergraduateArtFieldwork": {

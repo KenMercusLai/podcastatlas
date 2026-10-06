@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 9770
+wiki_total_pages: 9773
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "NuclearDisasterMemory"
     title: "Nuclear Disaster Memory"
     url: "/wiki/concepts/nucleardisastermemory/"
+  - key: "NuclearNonproliferationOrder"
+    title: "Nuclear Nonproliferation Order"
+    url: "/wiki/concepts/nuclearnonproliferationorder/"
   - key: "NuclearRiskExternalization"
     title: "Nuclear Risk Externalization"
     url: "/wiki/concepts/nuclearriskexternalization/"
