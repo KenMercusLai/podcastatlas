@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！](sources/zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3.md) — 霍去病在漠北东路击溃左贤王、封狼居胥并远追北方；战果改变匈奴南部格局，但战马巨损也限制汉军继续大举进攻。
+- [《资治通鉴·汉纪》326-2｜神将霍去病是谁教出来的？](sources/zizhi-tongjian-hanji-326-2-shenjiang-huoqubing-shi-shui-jiao-chulai-de-lut_0gh7nistf1td8pb_1nmzv6mv.md) — 从卫氏兴起、宫中亲近与骑射天赋解释霍去病的机会，并把其晋升理解为对卫青军权的制衡；亲传教学、派系敌对与平阳公主态度均保留为来源推测。
 - [《资治通鉴·汉纪》325-2｜李广为何会自杀？他犯了什么错？](sources/zizhi-tongjian-hanji-325-2-liguang-weihe-hui-zisha-ta-fanle-shenme-cuo-lsrkaep1np1bugqae8ujie2ttqpe.md) — 李广与赵食其因无向导而迷路、错过漠北主战并面临审讯；李广承担责任后自杀，其爱兵声望有具体物质基础，而向导被人为移除和政治谋划仍属节目推测。
 - [651. London’s Golden Age: Sex and Scandal in Georgian Britain (Part 2)](sources/651-londons-golden-age-sex-and-scandal-in-georgian-britain-part-2-glt1542242808.md) — The Rest Is History on Boswell’s candid diary, formative friendship with Samuel Johnson, continental celebrity seeking, Corsican advocacy, and public self-fashioning.
 - [Vol.355 推销员之死：那些杀不死我的，为什么一直在打我](sources/vol-355-tuixiaoyuan-zhisi-naxie-shabusi-wode-weishenme-yizhi-zai-dawo-gkwriw4ols9xawr6vqtifmya.md) — 文化有限从成功神话、自我商品化、家庭继承与心理时间舞台化解读《推销员之死》，并保留作者生平、人物动机和跨文化接受的证据边界。
@@ -5960,7 +5961,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [盖长公主 / Gai Chang Gongzhu (Western Han)](entities/GaiChanggongzhuWesternHan.md) — Princess whose banquet access is imagined as the assassination setting in the failed anti-Huo conspiracy.
 - [丁外人 / Ding Wairen (Western Han)](entities/DingWairenWesternHan.md) — Princess-favorite and inner-court access broker who helps the Shangguan family bypass Huo Guang.
 - [钩弋夫人 / Lady Gouyi (Western Han)](entities/LadyGouyiWesternHan.md) — Han Zhao's mother, whose death is framed through mother-regent risk, source-scoped Wugu guilt, and the later princess-caregiver setup.
-- [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han commander whose Mobei victory and remount losses, cavalry-doctrine adaptation, soldier-welfare limits, protected killing of Li Gan, family afterlife, and unresolved early death require distinct evidentiary judgments.
+- [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han commander whose source-scoped palace cultivation and command-balancing origin, Mobei victory, doctrine adaptation, welfare limits, protected killing, family afterlife, and unresolved early death require distinct evidentiary judgments.
 - [赵破奴 / Zhao Ponu (Western Han)](entities/ZhaoPonuWesternHan.md) — Western Han general whose failed route-security search, Western Regions victories, Xiongnu capture and escape, and unresolved Wugu destruction trace expansion and reversal.
 - [杜周 / Du Zhou (Western Han)](entities/DuZhouWesternHan.md) — Western Han cruel official whose ruler-will legal logic and late-career moderation explain his safe retirement in Hanji 402-2.
 - [范明友 / Fan Mingyou (Western Han)](entities/FanMingyouWesternHan.md) — Western Han Duliao general who attacks exhausted Wuhuan after Xiongnu withdraws in Hanji 402-2.
@@ -16529,6 +16530,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Conceptual Translation Judgment / 概念翻译判断](concepts/ConceptualTranslationJudgment.md) — Human judgment about a term's history, conceptual relations, normative role, and target-language associations beyond mechanical fluency.
 - [Translation Path Dependence / 翻译路径依赖](concepts/TranslationPathDependence.md) — Process by which repeated and institutionalized renderings become defaults that later usage and AI systems reinforce.
 - [制衡消失后的控制升级 / Counterweight-Loss Control Escalation](concepts/CounterweightLossControlEscalation.md) — 关键制衡者消失后，权威集中反而伴随不安全感、猜疑、惩罚与监察扩张的来源限定机制。
+- [皇权下的军事统帅制衡 / Imperial Military Command Counterbalancing](concepts/ImperialMilitaryCommandCounterbalancing.md) — 通过培养或抬升第二统帅降低军权对单一将领的依赖，同时区分结构性冗余与未经证明的派系敌对。
 - [礼仪让步式核心诉求谈判 / Protocol-Concession Core-Demand Bargaining](concepts/ProtocolConcessionCoreDemandBargaining.md) — 以有限礼仪让步争取谈判入口并保留实质使命，但须继续通过互惠成本与可观察步骤核验承诺，避免把好话误作和解。
 - [Han Court Performance Diplomacy / 汉廷表演外交](concepts/HanCourtPerformanceDiplomacy.md) — 外国表演者与珍物、汉廷巡览仓储宴饮及百戏共同传达国力，但也可能暴露可索取的财富而无法替代近距离威慑。
 - [Shangdi in Early Imperial Ritual / 早期帝国礼制中的上帝](concepts/ShangdiInEarlyImperialRitual.md) — bounded frame for reading “上帝” inside early imperial sacrificial and ruler-cult contexts without projecting one modern meaning across periods.

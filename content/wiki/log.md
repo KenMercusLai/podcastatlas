@@ -30665,3 +30665,11 @@ Added source `zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi2
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》326-2｜神将霍去病是谁教出来的？
+
+Added source `zizhi-tongjian-hanji-326-2-shenjiang-huoqubing-shi-shui-jiao-chulai-de-lut_0gh7nistf1td8pb_1nmzv6mv`; created [[ImperialMilitaryCommandCounterbalancing|皇权下的军事统帅制衡]]; and resynthesized [[HuoQubing|霍去病]] from its complete preserved evidence inventory. Core synthesis: Wei-family mobility, riding and archery talent, palace proximity, and imperial trust form a source-scoped explanation for Huo's exceptional opportunity, while his elevation beside [[WeiQingHanGeneral|卫青]] can be read as command redundancy without proving hostile factions or Wudi's private design. No settled contradiction was adopted. Personal military instruction, direct-disciple language, an independent Huo power bloc, inevitable Wei-Huo conflict, Pingyang Princess's hostility, the “陈长” identity, and exact rank chronology remain episode-attributed or unresolved. Broad Han Wudi, Wei Qing, Huo Guang, Pingyang Princess, and show pages were read for context but not reopened because the bounded addition is represented in the commander and command-balancing pages. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest and paragraph ledger validate 3,834 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

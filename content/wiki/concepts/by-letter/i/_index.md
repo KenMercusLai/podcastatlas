@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 9754
+wiki_total_pages: 9755
 wiki_pages:
   - key: "IranianCoup1953"
     title: "1953 Iranian Coup"
@@ -1238,6 +1238,9 @@ wiki_pages:
   - key: "ImperialClanFiscalBurden"
     title: "皇族宗藩财政负担 / Imperial Clan Fiscal Burden"
     url: "/wiki/concepts/imperialclanfiscalburden/"
+  - key: "ImperialMilitaryCommandCounterbalancing"
+    title: "皇权下的军事统帅制衡 / Imperial Military Command Counterbalancing"
+    url: "/wiki/concepts/imperialmilitarycommandcounterbalancing/"
   - key: "ImperialAbdicationLanguageBoundary"
     title: "禅让话语边界 / Imperial Abdication Language Boundary"
     url: "/wiki/concepts/imperialabdicationlanguageboundary/"

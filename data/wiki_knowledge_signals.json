@@ -108769,9 +108769,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoQubing": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -108835,6 +108835,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》326-1｜太威武！霍去病封狼居胥！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-326-1-tai-weiwu-huoqubing-fenglangjuxu-lujpi26bamjuojmxo0u2lbjyiih3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》326-2｜神将霍去病是谁教出来的？ [lut_0GH7NIsTf1tD8PB_1nMZV6MV].md",
+          "key": "zizhi-tongjian-hanji-326-2-shenjiang-huoqubing-shi-shui-jiao-chulai-de-lut_0gh7nistf1td8pb_1nmzv6mv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》326-2｜神将霍去病是谁教出来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-326-2-shenjiang-huoqubing-shi-shui-jiao-chulai-de-lut_0gh7nistf1td8pb_1nmzv6mv/"
         }
       ],
       "updated": "2026-10-06",
@@ -111165,6 +111172,22 @@
       ],
       "updated": "2026-09-27",
       "url": "/wiki/concepts/imperialmetropolisintegration/"
+    },
+    "ImperialMilitaryCommandCounterbalancing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》326-2｜神将霍去病是谁教出来的？ [lut_0GH7NIsTf1tD8PB_1nMZV6MV].md",
+          "key": "zizhi-tongjian-hanji-326-2-shenjiang-huoqubing-shi-shui-jiao-chulai-de-lut_0gh7nistf1td8pb_1nmzv6mv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》326-2｜神将霍去病是谁教出来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-326-2-shenjiang-huoqubing-shi-shui-jiao-chulai-de-lut_0gh7nistf1td8pb_1nmzv6mv/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/imperialmilitarycommandcounterbalancing/"
     },
     "ImperialMoralAudit": {
       "episode_count": 1,
