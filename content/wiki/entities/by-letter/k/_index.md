@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 12530
+wiki_total_pages: 12531
 wiki_pages:
   - key: "KennedyAssassination"
     title: "Assassination of John F. Kennedy"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "KouziMother"
     title: "扣子妈妈 / Kouzi's mother"
     url: "/wiki/entities/kouzimother/"
+  - key: "KunmingPoolWesternHan"
+    title: "昆明池 / Kunming Pool (Western Han)"
+    url: "/wiki/entities/kunmingpoolwesternhan/"
   - key: "KitcheeSC"
     title: "杰志 / Kitchee SC"
     url: "/wiki/entities/kitcheesc/"

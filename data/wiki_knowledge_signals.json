@@ -48886,6 +48886,29 @@
       "updated": "2026-10-02",
       "url": "/wiki/concepts/covertactionblowback/"
     },
+    "CowherdAndWeaverGirl": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "152.夜色如水话七夕，牛郎原本是保安？【民俗学系列填坑啦】 [902820062].md",
+          "key": "152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062",
+          "show": "蜜獾吃书",
+          "title": "152.夜色如水话七夕，牛郎原本是保安？【民俗学系列填坑啦】",
+          "url": "/wiki/sources/152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》317｜“牛郎织女”发源地，我在长安找到了 [liDupUKYT45k8buwNeivKMGs3U89].md",
+          "key": "zizhi-tongjian-hanji-317-niulang-zhinv-fayuandi-wo-zai-changan-zhaodao-le-lidupukyt45k8buwneivkmgs3u89",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》317｜“牛郎织女”发源地，我在长安找到了",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-317-niulang-zhinv-fayuandi-wo-zai-changan-zhaodao-le-lidupukyt45k8buwneivkmgs3u89/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/cowherdandweavergirl/"
+    },
     "Coze": {
       "episode_count": 2,
       "show_count": 1,
@@ -127986,6 +128009,22 @@
       ],
       "updated": "2026-09-30",
       "url": "/wiki/entities/kumasi/"
+    },
+    "KunmingPoolWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》317｜“牛郎织女”发源地，我在长安找到了 [liDupUKYT45k8buwNeivKMGs3U89].md",
+          "key": "zizhi-tongjian-hanji-317-niulang-zhinv-fayuandi-wo-zai-changan-zhaodao-le-lidupukyt45k8buwneivkmgs3u89",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》317｜“牛郎织女”发源地，我在长安找到了",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-317-niulang-zhinv-fayuandi-wo-zai-changan-zhaodao-le-lidupukyt45k8buwneivkmgs3u89/"
+        }
+      ],
+      "updated": "2026-10-07",
+      "url": "/wiki/entities/kunmingpoolwesternhan/"
     },
     "KunyangBattle": {
       "episode_count": 4,

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》317｜“牛郎织女”发源地，我在长安找到了](sources/zizhi-tongjian-hanji-317-niulang-zhinv-fayuandi-wo-zai-changan-zhaodao-le-lidupukyt45k8buwneivkmgs3u89.md) — 以昆明池的练兵、水利、漕运、养鱼、祭祀和游乐功能说明汉武帝大型工程的复合用途，并把牵牛织女石像限定为早期景观实证而非完整传说的唯一发源证明。
 - [《资治通鉴·汉纪》316-1｜他功越百王，为何治下百姓越来越穷](sources/zizhi-tongjian-hanji-316-1-ta-gong-yue-bai-wang-weihe-zhi-xia-baixing-yuelaiyue-qiong-lu_tr4m36rmz9sx38j4nvlmof5am.md) — 以战争全链条与杜甫《百忧集行》追问汉武帝功业背后的财政和家庭贫困，并记录刘寄受淮南案牵连、死后两子获封所体现的宗室亲缘裁量。
 - [《资治通鉴·汉纪》315-2｜杀死亲儿子的他，竟成了皇帝心腹？](sources/zizhi-tongjian-hanji-315-2-shasi-qin-erzi-de-ta-jing-chengle-huangdi-xinfu-lgxsxh75vhnle6_zplatmincwgrg.md) — 金日磾从匈奴王子与宫中马奴升为汉武帝近侍；节目把养马能力、长期自持与严苛家规视为信任基础，同时保留杀子事件和处世因果的证据边界。
 - [《资治通鉴·汉纪》316-2｜汉武帝三大罪，穷了一国百姓](sources/zizhi-tongjian-hanji-316-2-hanwudi-sanda-zui-qiong-le-yiguo-baixing-lsrhf2neq2wvownpnliyfpg9cm29.md) — 将汉武帝的战争、灾荒救济、迁徙、宫殿与求仙支出放入同一财政账本，并在承认河西与边防收益的同时追问普通家庭承担的税役和民生成本。
@@ -3925,6 +3926,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Avoiding, Treating & Curing Cancer With the Immune System | Dr. Alex Marson](sources/avoiding-treating-curing-cancer-with-the-immune-system-dr-alex-marson-scim5861479163.md) — Huberman Lab interview on immune self-tolerance, cancer evolution, checkpoint inhibition, CAR-T, CRISPR cell programming, delivery, and germline ethics.
 
 ## Entities
+- [昆明池 / Kunming Pool (Western Han)](entities/KunmingPoolWesternHan.md) — 汉武帝时期长安西南的复合型水利与军事工程，也以牵牛织女石像和天河布局成为帝国景观与传说物质化的交汇点。
 - [胶东王刘寄 / Liu Ji, Jiaodong King (Western Han)](entities/LiuJiJiaodongKingWesternHan.md) — 淮南王谋反案后受牵连、未定继承人即病亡，其两子因汉武帝的亲缘与怜悯获得王位安排的西汉宗室王。
 - [Peter Steinberger](entities/PeterSteinberger.md) — Developer and founder whom Data Science With Sam identifies as OpenClaw's creator and a later OpenAI hire.
 - [东郭咸阳 / Dongguo Xianyang (Western Han)](entities/DongguoXianyangWesternHan.md) — 由齐地盐商背景进入汉武帝财政体系、参与盐业官营设计的西汉人物。
@@ -13662,7 +13664,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [超哥](entities/ChaoGe.md) — Reading-media voice whose wiki role spans the Zhao Lusi/Takuboku crossover and the sp.06 discussion of 《文化有限》, output-forced input, literary evaluation anxiety, and reading as cognitive restoration.
 - [有问题呀](entities/YouWenTiYa.md) — Crossover podcast context for the episode with 蜜獾吃书.
 - [Qixi / 七夕](entities/QixiFestival.md) — Lunar seventh-day festival read by episode 152 as a layered system of star lore, 乞巧, book airing, urban markets, local worship, romance, and cross-cultural exchange.
-- [Cowherd and Weaver Girl / 牛郎织女](entities/CowherdAndWeaverGirl.md) — Qixi legend treated by episode 152 as a composite of star-crossed astronomy and the wider hidden-garment Swan Maiden motif.
+- [Cowherd and Weaver Girl / 牛郎织女](entities/CowherdAndWeaverGirl.md) — Layered Qixi figures joining unstable early star roles, the later Swan Maiden marriage motif, and Western Han monumental representation at Kunming Pool.
 - [Liu Zongdi / 刘宗迪](entities/LiuZongdi.md) — Folklore scholar whose 《七夕》 supplies episode 152's broad comparative and cross-cultural transmission frame.
 - [《七夕》 / Qixi](entities/QixiBook.md) — Liu Zongdi book used by episode 152 to connect Qixi to astronomy, ritual objects, maritime exchange, and contested origin hypotheses.
 - [《东京梦华录》](entities/TokyoMenghuaLu.md) — Song urban-custom text used by episode 152 for Qixi markets, toys, seedling displays, and 摩侯罗 festival objects.

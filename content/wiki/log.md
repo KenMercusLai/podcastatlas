@@ -30872,3 +30872,11 @@ Added source `zizhi-tongjian-hanji-316-1-ta-gong-yue-bai-wang-weihe-zhi-xia-baix
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》317｜“牛郎织女”发源地，我在长安找到了
+
+Added source `zizhi-tongjian-hanji-317-niulang-zhinv-fayuandi-wo-zai-changan-zhaodao-le-lidupukyt45k8buwneivkmgs3u89`; created [[KunmingPoolWesternHan|昆明池]]; and resynthesized [[CowherdAndWeaverGirl|牛郎织女]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: Kunming Pool joins military training, irrigation, transport, storage, drainage, production, ritual provision, recreation, and celestial landscape in one Han Wudi project, while the opposed 牵牛织女 figures materially support an early Milky-Way pairing without proving that the complete later romance had one Chang'an birthplace. No settled contradiction was adopted. Construction scale, first-lake status, channels, costs, statue dating and placement, measurements, temple history, Qianlong imitation, disappearance causes, and the Jade-Emperor reading remain episode-attributed or source-scoped. Broad [[HanWudi|汉武帝]] and [[ChangAnHanCapital|长安]] pages were kept closed because the bounded additions are represented in the focused pool and legend profiles. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,860 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
