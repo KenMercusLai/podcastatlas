@@ -30920,3 +30920,11 @@ Added source `zizhi-tongjian-hanji-315-1-hanwudi-gao-qiangchai-yiju-shoufu-xiong
 ## [2026-10-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-07] ingest | 《资治通鉴·汉纪》314-2｜弑杀的汉武帝，居然包容他的错？
+
+Added source `zizhi-tongjian-hanji-314-2-shisha-de-hanwudi-juran-baorong-tade-cuo-lof7jgitcm-qyuw_afgjv5erjpr5`; resynthesized [[JiAnWesternHan|汲黯]] from his complete preserved evidence inventory before appending the new source once. Core synthesis: the episode sharpens the merchant case by identifying ironware as the security-sensitive good, while preserving the distinct question of whether Chang'an merchants could reasonably treat exchange with surrendered Xiongnu as frontier smuggling; its main addition is that Wudi repeatedly distances and recalls Ji because uncomfortable criticism still supplies scarce corrective value. No settled contradiction was adopted. “几岸” and “魂噎王” are normalized to 汲黯 and 浑邪王 from the joined episode chain; ancestry, education, offices, exact dialogue, trade goods and statute, number of transfers, the completeness of the no-private-requests claim, and the causal link from Ji's death to Wudi's later excesses remain episode-attributed or source-scoped. The unnamed Xiongnu regent teaser was not used as direct evidence for [[JinMidiWesternHan|金日磾]]. Broad [[HanWudi|汉武帝]], [[HunyeKingWesternHan|浑邪王]], and feedback-concept pages were read for context but kept closed because the durable addition is represented in Ji's focused profile and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,866 sources across 797 overview paragraphs and nine topics.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

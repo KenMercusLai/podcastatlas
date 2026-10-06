@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》314-2｜弑杀的汉武帝，居然包容他的错？](sources/zizhi-tongjian-hanji-314-2-shisha-de-hanwudi-juran-baorong-tade-cuo-lof7jgitcm-qyuw_afgjv5erjpr5.md) — 以铁器军用风险解释汉武帝严惩商人的安全逻辑，并把汲黯反复被外调、召回概括为君主对不适却有用的纠错声音的依赖。
 - [《资治通鉴·汉纪》315-1｜汉武帝搞“强拆”，一举收复匈奴王](sources/zizhi-tongjian-hanji-315-1-hanwudi-gao-qiangchai-yiju-shoufu-xiongnu-wang-llyk4i76izmxe_el_ewpbbayqq5i.md) — 浑邪王旧部被拆分到五个边郡属国，在保留习俗的同时接受汉官监督并承担前线功能；河西由此成为西进基地，但四郡设置年代保持争议。
 - [《资治通鉴·汉纪》313-1｜独闯虎穴！霍去病受降浑邪王](sources/zizhi-tongjian-hanji-313-1-duchuang-huxue-huoqubing-shouxiang-hunyewang-lij9eecrq-igxpvftkey5shu8395.md) — 霍去病在联合归降破裂后，以威慑、封赏、借力执行、分离首领与迅速南迁稳住尚可反复的浑邪王部众。
 - [《资治通鉴·汉纪》314-1｜匈奴王归降，武帝为何怒杀500汉人](sources/zizhi-tongjian-hanji-314-1-xiongnu-wang-guijiang-wudi-weihe-nusha-500-hanren-ljb-ocshiauhvyra88aykkqlxkak.md) — 浑邪王归降后，迎接所需车马、赏赐与劳役把对外信誉转成民间负担；汲黯又以情境化法律批评五百余名商人的死刑判决。
