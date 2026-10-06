@@ -30400,6 +30400,7 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -30415,6 +30416,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 
 ## [2026-10-06] lint | Wiki health check
 
@@ -30747,6 +30749,14 @@ Added source `vol-198-hanguo-jingshenke-yisheng-nanjihe-shouer-nianqingren-weish
 ## [2026-10-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-10-06] ingest | 《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代
+
+Added source `zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k`; created [[PowerDefinedTalentUtility|权力中心定义式人才评价]]; and resynthesized [[SimaYi|司马懿]], [[ChenLinLateHan|陈琳]], [[DongfangShuo|东方朔]], and [[GongsunHong|公孙弘]] from their complete preserved evidence inventories. Core synthesis: the episode repeats Sima Yi's coercive recruitment and Chen Lin's lineage-targeted anti-Cao rhetoric, then distinguishes ability from political opportunity through Dongfang Shuo's underuse complaint and the host's description of Gongsun Hong as talent aligned with imperial priorities. No settled contradiction was adopted. “司马逸” is normalized to Sima Yi as a transcript or summary error; the meaning assigned to “遗丑,” the full force of *Da Ke Nan*, the “懂帝王心” shorthand, any claim that unusable talent would be killed, and direct war-to-treasury causation remain source-scoped. Broad Cao Cao, Yuan Shao, Han Wudi, Cao Song, Cao Teng, and fiscal pages were kept closed because the bounded additions are represented in narrower canonical pages and the source note. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. Downstream synthesis found no dirty topic and global compaction was not due; rendered artifacts validate 3,845 sources across 797 overview paragraphs and nine topics.
 
 ## [2026-10-06] lint | Wiki health check
 

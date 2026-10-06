@@ -36838,9 +36838,9 @@
       "url": "/wiki/entities/chenliangxindefector/"
     },
     "ChenLinLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴 [lp7OmIak9MPCIGrJ4F1NUMmFwnTr].md",
@@ -36876,9 +36876,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代 [lu4XhsVLcfPCbarpLWyoBXyMqM4k].md",
+          "key": "zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/chenlinlatehan/"
     },
     "ChenPrimarySchoolTeacher": {
@@ -60242,9 +60249,9 @@
       "url": "/wiki/entities/dongzhongshu/"
     },
     "DongfangShuo": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人 [lnHc_LSJ53gY-YqMWqobNw5Y37g9].md",
@@ -60266,9 +60273,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》361-2｜泰山祭祀后，霍去病独子离奇暴毙揭秘",
           "url": "/wiki/sources/zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代 [lu4XhsVLcfPCbarpLWyoBXyMqM4k].md",
+          "key": "zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/dongfangshuo/"
     },
     "DongguanHanji": {
@@ -91522,9 +91536,9 @@
       "url": "/wiki/entities/gongsunhewesternhan/"
     },
     "GongsunHong": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -91553,6 +91567,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》323-1｜为什么善良的他，会被皇帝误解？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代 [lu4XhsVLcfPCbarpLWyoBXyMqM4k].md",
+          "key": "zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k/"
         }
       ],
       "updated": "2026-10-06",
@@ -178259,6 +178280,22 @@
       "updated": "2026-10-06",
       "url": "/wiki/concepts/powercontingentsocialties/"
     },
+    "PowerDefinedTalentUtility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代 [lu4XhsVLcfPCbarpLWyoBXyMqM4k].md",
+          "key": "zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k/"
+        }
+      ],
+      "updated": "2026-10-06",
+      "url": "/wiki/concepts/powerdefinedtalentutility/"
+    },
     "PowerDesireSelfRestraint": {
       "episode_count": 2,
       "show_count": 1,
@@ -203318,9 +203355,9 @@
       "url": "/wiki/entities/simaxiangru/"
     },
     "SimaYi": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？ [liKUR-XfjqBK3KR-EW6ftVTVwiXq].md",
@@ -203328,9 +203365,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代 [lu4XhsVLcfPCbarpLWyoBXyMqM4k].md",
+          "key": "zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》319-2｜可怜曹操，被一句话骂三代",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-10-06",
       "url": "/wiki/entities/simayi/"
     },
     "SimaZhiCaoOfficialLateHan": {

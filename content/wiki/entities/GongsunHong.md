@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-367-1-pengnuren-jiu-piruan-de-zhuhouwang-lnc1sg-lkwl9dtnflxxgkieb79hj
   - zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk
   - zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd
+  - zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k
 last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
@@ -25,6 +26,8 @@ Hanji 323-1 and 323-2 supply a different gatekeeping case. When Bu Shi, still ou
 
 Together, the sources make Gongsun Hong politically adaptive but morally ambivalent. The same skill in reading incentives that protects his own agency can also be used to expose a rival through formally legitimate appointment or to reject an unconventional candidate before demonstrated service changes the court's judgment.
 
+Hanji 319-2 compresses that adaptive capacity into the host's phrase “懂帝王心,” presenting Gongsun Hong as someone whose ability becomes usable because he understands Wudi's priorities. This supports the coordination side of the profile but adds no new event-level case; the more concrete evidence remains his calibrated policy narrowing in Hanji 925.
+
 ## Key Characteristics
 
 - Tactful adviser who reframes conflicts instead of opposing imperial desire head-on.
@@ -32,6 +35,7 @@ Together, the sources make Gongsun Hong politically adaptive but morally ambival
 - Survival-aware court actor who protects access and influence through calibrated speech.
 - Politically ambivalent rival who can use appointment as an indirect exposure mechanism.
 - Institutional gatekeeper whose suspicion of Bu Shi is interpreted as filtering credibility through status and normal career expectations.
+- Serves in Hanji 319-2 as the host's shorthand for talent aligned with a ruler's preferred mode of use.
 
 ## Evidence
 
@@ -45,14 +49,17 @@ Status-filtered credibility and precedent judgment:
 - [[zizhi-tongjian-hanji-323-2-fangyangren-chushen-de-ta-ruhe-caogen-nixi-lq4cwhskuiffrrw84lop3t6qrzzk|Hanji 323-2]] says Gongsun Hong regards Bu Shi's half-wealth donation proposal as abnormal and advises Wudi not to accept it; the host ties the reaction to Bu Shi's origin and lack of office.
 - [[zizhi-tongjian-hanji-323-1-weishenme-shanliang-de-ta-hui-bei-huangdi-wujie-lsc3p1lfif7qezjlsttmewb0siwd|Hanji 323-1]] adds Gongsun Hong's concern that conduct outside ordinary motive expectations should not be elevated into a public model that disturbs law or norms.
 
+Ruler-fit interpretation:
+- [[zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k|Hanji 319-2]] describes Gongsun Hong as both capable and able to understand imperial intention, without supplying a new specific decision episode.
+
 ## Qualifications
 
-All four sources are popular-history interpretations. Hanji 925 does not reconstruct the full policy debate over Xiongnu and southwest development, while Hanji 367-1 does not independently establish every motive behind Gongsun Hong's recommendation. The rivalry and attempted-removal reading is strongly tied to the episode and transmitted biographical tradition, but the page does not infer a failed murder plan from the appointment alone. Hanji 323-1 and 323-2 preserve the rejection of Bu Shi's proposal more securely than any single explanation for it; status bias, fraud risk, precedent, motive, political signaling, and concern about state-sponsored moral coercion are not independently separated.
+All five sources are popular-history interpretations. Hanji 925 does not reconstruct the full policy debate over Xiongnu and southwest development, while Hanji 367-1 does not independently establish every motive behind Gongsun Hong's recommendation. The rivalry and attempted-removal reading is strongly tied to the episode and transmitted biographical tradition, but the page does not infer a failed murder plan from the appointment alone. Hanji 323-1 and 323-2 preserve the rejection of Bu Shi's proposal more securely than any single explanation for it; status bias, fraud risk, precedent, motive, political signaling, and concern about state-sponsored moral coercion are not independently separated. Hanji 319-2's “懂帝王心” label may describe strategic translation, compliance, flattery, or retrospective success and should not replace event-level evidence.
 
 ## What Changed
 
-- Added the public-precedent concern behind rejecting Bu Shi's unconventional wealth-donation proposal.
-- Reframed the judgment as a mix of credibility and institutional-risk screening while keeping status bias qualified.
+- Added the host's “懂帝王心” comparison as a ruler-fit interpretation.
+- Kept that shorthand subordinate to concrete evidence of calibrated policy advice and qualified its possible meanings.
 
 ## Relationships
 
@@ -64,3 +71,4 @@ All four sources are popular-history interpretations. Hanji 925 does not reconst
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - frames both his self-protective advice style and Dong Zhongshu's response to the Jiaoxi placement.
 - [[BuShiWesternHan|卜式]] - outsider donor whose proposal Gongsun Hong initially treats as abnormal and unfit for public example.
 - [[StatusFilteredTalentMisrecognition|门第筛选式人才误判]] - adjacent framework for the host's reading of Gongsun Hong's credibility filter.
+- [[PowerDefinedTalentUtility|权力中心定义式人才评价]] - describes why ability becomes politically valuable only when the ruler recognizes it as usable.

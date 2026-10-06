@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 9762
+wiki_total_pages: 9763
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2672,6 +2672,9 @@ wiki_pages:
   - key: "PoliticalRiskPrevention"
     title: "政治风险预防 / Political Risk Prevention"
     url: "/wiki/concepts/politicalriskprevention/"
+  - key: "PowerDefinedTalentUtility"
+    title: "权力中心定义式人才评价 / Power-Defined Talent Utility"
+    url: "/wiki/concepts/powerdefinedtalentutility/"
   - key: "PowerCenterProximityAdvantage"
     title: "权力中心接近优势 / Power Center Proximity Advantage"
     url: "/wiki/concepts/powercenterproximityadvantage/"

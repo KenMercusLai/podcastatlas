@@ -6,7 +6,8 @@ sources:
   - zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9
   - zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa
   - zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x
-last_updated: 2026-09-14
+  - zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k
+last_updated: 2026-10-06
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ Hanji 392-1 adds a more straight-faced but still tactically precise court-speech
 
 Hanji 361-2 adds a third technique. When Wudi wants to seek immortals at sea, Dongfang Shuo does not argue that immortals are unreal. He says a meeting governed by “道数” cannot be hastened: if destined, the emperor can wait for it at court; if not, reaching Penglai would bring no benefit. The emperor abandons the voyage. Across the three cases, Dongfang Shuo's durable trait is premise-preserving redirection—changing the practical decision without demanding that the ruler first surrender status, belief, or self-image.
 
+Hanji 319-2 adds a literary self-positioning rather than another successful intervention. It presents *Da Ke Nan* as Dongfang Shuo's response to underuse: earlier persuaders such as Su Qin and Zhang Yi rose in a divided age, while comparable ability under a unified emperor might receive only minor office. This expands the profile from tactical speech to the gap between self-perceived ability and ruler-defined opportunity, but it does not independently prove that Wudi misjudged him.
+
 ## Key Characteristics
 
 - Western Han court figure remembered here through wit, eccentricity, and comic proximity to power.
@@ -32,7 +35,7 @@ Hanji 361-2 adds a third technique. When Wudi wants to seek immortals at sea, Do
 - Represents humor as a possible remonstrance channel when direct correction would be socially or politically risky.
 - Uses praise after a painful decision to affirm the ruler's public-law self-image and convert legal severity into moral legitimacy.
 - Reduces an immediate travel risk by accepting the emperor's supernatural premise while denying that personal sea pursuit can improve the outcome.
-- The page is currently a source-scoped profile, not a complete biography.
+- Remains a source-scoped profile, with *Da Ke Nan* used to explain underuse through the political opportunity structure of different eras.
 
 ## Evidence
 
@@ -42,15 +45,16 @@ Hanji 361-2 adds a third technique. When Wudi wants to seek immortals at sea, Do
 - Impartial-punishment praise: [[zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa|Hanji 392-1]] says Dongfang Shuo congratulates Han Wudi after Zhao Pingjun's execution by praising rulers who punish without distinguishing kin.
 - Career reward: [[zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa|Hanji 392-1]] says Han Wudi is pleased by the speech and appoints Dongfang Shuo as zhonglang.
 - Premise-preserving risk reduction: [[zizhi-tongjian-hanji-361-2-taishan-jisi-hou-huoqubing-duzi-liqi-baobi-jiemi-lmixjdfqycjyv_lki1quiq_ox96x|Hanji 361-2]] says Dongfang Shuo frames divine encounter as governed by destiny, persuading Wudi to wait rather than sail for Penglai.
+- Literary self-positioning: [[zizhi-tongjian-hanji-319-2-kelian-caocao-bei-yi-ju-hua-ma-san-dai-lu4xhsvlcfpcbarplwyobxymqm4k|Hanji 319-2]] presents *Da Ke Nan* as an explanation of why comparable ability can produce different office outcomes under different political orders.
 
 ## Qualifications
 
-This profile remains based on three short source notes. It does not reconstruct Dongfang Shuo's full career, literary output, Shiji/Han Shu textual record, relationship with Han Wudi, or the history of his later status in xiangsheng lore. The episodes do not establish that he rejected immortal belief privately, only that he used its internal logic to stop one proposed voyage. The anecdotes' textual status remains source-scoped because the episodes use them as vivid court-speech cases rather than a full systematic account.
+This profile remains based on four short source notes. It does not reconstruct Dongfang Shuo's full career, literary output, Shiji/Han Shu textual record, relationship with Han Wudi, or the history of his later status in xiangsheng lore. The episodes do not establish that he rejected immortal belief privately, only that he used its internal logic to stop one proposed voyage. Hanji 319-2's account of *Da Ke Nan* is a compressed interpretation of literary self-defense and cannot by itself determine Dongfang Shuo's actual ability, Wudi's private judgment, or the fairness of his office path.
 
 ## What Changed
 
-- Added Hanji 361-2's successful argument against a personal sea voyage.
-- Generalized the current profile from comic correction and tactical praise to premise-preserving redirection near power.
+- Added *Da Ke Nan* as a source-scoped explanation of underuse under a unified ruler.
+- Distinguished literary self-positioning from demonstrated court interventions.
 
 ## Relationships
 
@@ -62,3 +66,4 @@ This profile remains based on three short source notes. It does not reconstruct 
 - [[Penglai|蓬莱]] - proposed voyage destination that Dongfang Shuo makes unnecessary within Wudi's own supernatural frame.
 - [[ImmortalityQuestPolitics|求仙政治]] - policy field in which indirect counsel interrupts immediate resource and safety escalation.
 - [[RuleOverKinshipPower|法度压过亲缘特权]] - principle praised in the Zhao Pingjun execution speech.
+- [[PowerDefinedTalentUtility|权力中心定义式人才评价]] - frames the gap between perceived ability and opportunity controlled by the ruler.
